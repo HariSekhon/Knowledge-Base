@@ -6,6 +6,7 @@ Transcribed from private notes collected from `Date: 2012-01-31 13:39:23 +0000 (
 
 - [Branching Strategies](#branching-strategies)
 - [Advanced Git Config](#advanced-git-config)
+- [Git LFS](#git-lfs)
 - [Tips & Tricks](#tips---tricks)
   - [Copy a file from another branch](#copy-a-file-from-another-branch)
   - [Multi-Origin Remotes](#multi-origin-remotes)
