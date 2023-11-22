@@ -8,7 +8,7 @@ Transcribed from private notes collected from `Date: 2012-01-31 13:39:23 +0000 (
 - [Advanced Git Config](#advanced-git-config)
 - [Git LFS](#git-lfs)
 - [Tips & Tricks](#tips--tricks)
-  - [Show files not being tracked due to .gitignore](#show-files-not-being-tracked-due-to-global---local-gitignore-files)
+  - [Show files not being tracked due to .gitignore](#show-files-not-being-tracked-due-to-global--local-gitignore-files)
   - [Copy a file from another branch](#copy-a-file-from-another-branch)
   - [Multi-Origin Remotes](#multi-origin-remotes)
 
@@ -82,7 +82,8 @@ git commit -m "add mp4 file type to be tracked by Git LFS in .gitattributes"
 ```
 
 Override global extensive [.gitignore](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitignore)
-if you've copied it from or installed [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#readme) using a local repo `.gitignore`. See [files being ignored](#show-files-not-being-tracked-due-to-gitignore).
+if you've copied it from or installed [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#readme) using a local repo `.gitignore`.
+See [files being ignored](##show-files-not-being-tracked-due-to-global--local-gitignore-files).
 ```shell
 echo '!*.mp4' >> .gitignore
 git commit -m "allowed .mp4 files to be git committed in .gitignore"
