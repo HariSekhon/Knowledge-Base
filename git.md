@@ -6,12 +6,14 @@ Transcribed from private notes collected from `Date: 2012-01-31 13:39:23 +0000 (
 
 - [Branching Strategies](#branching-strategies)
 - [Advanced Git Config](#advanced-git-config)
+- [CLIs](#clis)
 - [Git LFS](#git-lfs)
 - [Tips & Tricks](#tips--tricks)
+  - [Git Clone using a Specific SSH Key](#git-clone-using-a-specific-ssh-key)
   - [Show files not being tracked due to global & local .gitignore files](#show-files-not-being-tracked-due-to-global--local-gitignore-files)
   - [Copy a file from another branch](#copy-a-file-from-another-branch)
   - [Multi-Origin Remotes](#multi-origin-remotes)
-  - [Wipe Leaked Credential in Pull Request](#wipe-leaked-credential-in-pull-request)
+  - [Erase Leaked Credential in Pull Request](#erase-leaked-credential-in-pull-request)
 
 ## Branching Strategies
 
@@ -51,6 +53,27 @@ cd bash-tools
 make link
 ```
 
+# CLIs
+
+GitHub CLI:
+```shell
+brew install gh
+```
+
+GitHub specific git commands to make things like cloning GitHub repos shorter:
+```shell
+brew install hub
+```
+
+GitLab CLI:
+```shell
+gem install --user-install gitlab
+```
+
+Bitbucket CLI:
+```shell
+pip install --user bitbucket-cli
+```
 # Git LFS
 
 https://git-lfs.com/
@@ -137,6 +160,14 @@ error: failed to push some refs to 'git@github.com:HariSekhon/training-old.git'
 
 # Tips & Tricks
 
+## Git Clone using a specific SSH Key
+
+Git SSH Clone with a specific private key:
+
+```shell
+GIT_SSH_COMMAND="ssh -i teamcity_github_ssh_key" git clone git@github.com:ORG/REPO
+```
+
 ## Show files not being tracked due to global & local `.gitignore` files
 
 ```shell
@@ -196,7 +227,7 @@ Configures the remote to push local master branch to dev branch upstream
 git config remote.<name>.push master:dev
 ```
 
-## Wipe Leaked Credential in Pull Request
+## Erase Leaked Credential in Pull Request
 
 GitHub has added automation for [support ticket](https://support.github.com/tickets) requests to delete a pull request containing a credential.
 
