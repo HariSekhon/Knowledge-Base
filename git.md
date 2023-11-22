@@ -8,7 +8,7 @@ Transcribed from private notes collected from `Date: 2012-01-31 13:39:23 +0000 (
 - [Advanced Git Config](#advanced-git-config)
 - [Git LFS](#git-lfs)
 - [Tips & Tricks](#tips--tricks)
-  - [Show files not being tracked due to .gitignore](#show-files-not-being-tracked-due-to-gitignore)
+  - [Show files not being tracked due to .gitignore](#show-files-not-being-tracked-due-to-global---local-gitignore-files)
   - [Copy a file from another branch](#copy-a-file-from-another-branch)
   - [Multi-Origin Remotes](#multi-origin-remotes)
 
@@ -135,7 +135,7 @@ error: failed to push some refs to 'git@github.com:HariSekhon/training-old.git'
 
 # Tips & Tricks
 
-## Show files not being tracked due to .gitignore
+## Show files not being tracked due to global & local `.gitignore` files
 
 ```shell
 git status --ignored
