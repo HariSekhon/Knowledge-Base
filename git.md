@@ -11,6 +11,7 @@ Transcribed from private notes collected from `Date: 2012-01-31 13:39:23 +0000 (
   - [Show files not being tracked due to global & local .gitignore files](#show-files-not-being-tracked-due-to-global--local-gitignore-files)
   - [Copy a file from another branch](#copy-a-file-from-another-branch)
   - [Multi-Origin Remotes](#multi-origin-remotes)
+  - [Wipe leaked credential in pull request](#wipe-leaked-credential-in-pull-request)
 
 ## Branching Strategies
 
@@ -193,4 +194,42 @@ git remote update
 Configures the remote to push local master branch to dev branch upstream
 ```shell
 git config remote.<name>.push master:dev
+```
+
+## Wipe leaked credential in pull request
+
+GitHub has added automation for [support ticket](https://support.github.com/tickets) requests to delete a pull request containing a credential.
+
+If you reset the branch contents and force push without the credential then you may not be needed to even delete the PR.
+
+**First remove the credential from the file(s).**
+
+Find the common divergence point for your branch:
+
+```shell
+base_branch="master"  # or main
+your_branch="$(git branch --show-current)"
+base_commit="$(git merge-base "$base_branch" "$yourbranch")"
+
+git diff --name-only "$base_branch".."$your_branch" >> filelist.txt
+```
+
+Roll back the branch to the fork point
+```shell
+git reset "$base_commit"
+```
+
+Re-add all the files you add/updated in this branch
+```shell
+git add $(cat filelist.txt)
+```
+
+Re-commit all the changed files
+```shell
+git commit -m "squashed all branch changes into one commit to wipe out the credential that shouldn't have been in there")
+```
+
+This force push overwrites the Pull Request contents to wipe out the leaked credential
+```shell
+git push --force
 ```
