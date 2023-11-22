@@ -4,7 +4,7 @@
 #
 #  vim:ts=4:sts=4:sw=4:noet
 #
-#  https://github.com/HariSekhon/Template-Repo
+#  https://github.com/HariSekhon/Docs
 #
 #  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback
 #
@@ -36,14 +36,14 @@ ifneq ("$(wildcard bash-tools/Makefile.in)", "")
 	include bash-tools/Makefile.in
 endif
 
-REPO := HariSekhon/Template-Repo
+REPO := HariSekhon/Docs
 
 CODE_FILES := $(shell git ls-files | grep -E -e '\.sh$$' -e '\.py$$' | sort)
 
 .PHONY: build
 build: init
 	@echo ================
-	@echo Template-repo Builds
+	@echo Docs Builds
 	@echo ================
 	@$(MAKE) git-summary
 	@echo
@@ -73,7 +73,7 @@ python:
 	@echo
 	$(MAKE) pycompile
 	@echo
-	@echo 'BUILD SUCCESSFUL (Template-Repo)'
+	@echo 'BUILD SUCCESSFUL (Docs)'
 
 .PHONY: test
 test:
