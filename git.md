@@ -7,6 +7,7 @@ Transcribed from private notes collected from `Date: 2012-01-31 13:39:23 +0000 (
 - [Branching Strategies](#branching-strategies)
 - [Advanced Git Config](#advanced-git-config)
 - [CLIs](#clis)
+- [GitHub Badges](#github-badges)
 - [Git LFS](#git-lfs)
 - [Tips & Tricks](#tips--tricks)
   - [Git Clone using a Specific SSH Key](#git-clone-using-a-specific-ssh-key)
@@ -74,6 +75,11 @@ Bitbucket CLI:
 ```shell
 pip install --user bitbucket-cli
 ```
+
+# GitHub Badges
+
+https://github.com/commonality/architecture-decision-records/wiki/GitHub-repository-status-badges
+
 # Git LFS
 
 https://git-lfs.com/
@@ -107,7 +113,7 @@ git commit -m "add mp4 file type to be tracked by Git LFS in .gitattributes"
 
 Override global extensive [.gitignore](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitignore)
 if you've copied it from or installed [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#readme) using a local repo `.gitignore`.
-See [files being ignored](##show-files-not-being-tracked-due-to-global--local-gitignore-files).
+See [files being ignored](#show-files-not-being-tracked-due-to-global--local-gitignore-files).
 ```shell
 echo '!*.mp4' >> .gitignore
 git commit -m "allowed .mp4 files to be git committed in .gitignore"
