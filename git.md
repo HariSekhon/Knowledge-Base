@@ -7,7 +7,7 @@ Transcribed from private notes collected from `Date: 2012-01-31 13:39:23 +0000 (
 - [Branching Strategies](#branching-strategies)
 - [Advanced Git Config](#advanced-git-config)
 - [Git LFS](#git-lfs)
-- [Tips & Tricks](#tips---tricks)
+- [Tips & Tricks](#tips--tricks)
   - [Show files not being tracked due to .gitignore](#show-files-not-being-tracked-due-to-gitignore)
   - [Copy a file from another branch](#copy-a-file-from-another-branch)
   - [Multi-Origin Remotes](#multi-origin-remotes)
