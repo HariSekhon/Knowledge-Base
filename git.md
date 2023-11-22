@@ -58,7 +58,7 @@ Store big files on GitHub for free.
 
 I use this to store old training materials like videos, PDFs, zip files etc so they are safe and I can then save space locally.
 
-Otherwise
+GitHub will block files over 100MB from being `git push` otherwise.
 
 Install Git LFS extension on Mac:
 ```shell
