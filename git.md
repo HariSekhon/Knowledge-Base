@@ -207,6 +207,7 @@ See the remotes configured for origin:
 $ git remote -v
 origin  git@github.com:HariSekhon/DevOps-Bash-tools (fetch)
 origin  git@github.com:HariSekhon/DevOps-Bash-tools (push)
+origin  git@gitlab.com:HariSekhon/DevOps-Bash-tools (push)
 origin  git@bitbucket.org:HariSekhon/DevOps-Bash-tools (push)
 origin  git@ssh.dev.azure.com:v3/harisekhon/GitHub/DevOps-Bash-tools (push)
 19:31:56 hari@agrippa: master ~/github/bash-tools >
