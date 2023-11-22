@@ -8,6 +8,7 @@ Transcribed from private notes collected from `Date: 2012-01-31 13:39:23 +0000 (
 - [Advanced Git Config](#advanced-git-config)
 - [Git LFS](#git-lfs)
 - [Tips & Tricks](#tips---tricks)
+  - [Show files not being tracked due to .gitignore](#show-files-not-being-tracked-due-to-gitignore)
   - [Copy a file from another branch](#copy-a-file-from-another-branch)
   - [Multi-Origin Remotes](#multi-origin-remotes)
 
@@ -63,26 +64,29 @@ git lfs install
 
 In your repo add the big file types to be tracked in your local repo (configures `.gitattributes`):
 ```shell
-git lfs track '*.pdf'
+git lfs track '*.mp4'
 ```
 
 Commit the `.gitattributes` changes:
 ```shell
 git add .gitattributes
-git commit -m "add pdf file type to be tracked by Git LFS in .gitattributes"
+git commit -m "add mp4 file type to be tracked by Git LFS in .gitattributes"
 ```
 
-You may need to make sure to add `!*.pdf` or `!*` in `.gitignore` to override the global extensive [.gitignore](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitignore)
-if you've copied it from or installed [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#readme).
+Override global extensive [.gitignore](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitignore)
+if you've copied it from or installed [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#readme) using a local repo `.gitignore`. See [files being ignored](#show-files-not-being-tracked-due-to-gitignore).
 ```shell
-git add *.pdf
+echo '!*.mp4' >> .gitignore
+git commit -m "allowed .mp4 files to be git committed in .gitignore"
 ```
 ```shell
-git commit -m "added pdfs"
+git add *.mp4
+```
+```shell
+git commit -m "added mp4 videos"
 ```
 
-Automatically uploads the files to GitHub or whatever is configured as your upstream Git server using LFS storage
-(GitHub will block uploads over 50MB otherwise)
+Automatically uploads the files to GitHub or whatever is configured as your upstream Git server using LFS storage:
 ```shell
 git push
 ```
@@ -122,6 +126,12 @@ error: failed to push some refs to 'git@github.com:HariSekhon/training-old.git'
 ```
 
 # Tips & Tricks
+
+## Show files not being tracked due to .gitignore
+
+```shell
+git status --ignored
+```
 
 ## Copy a file from another branch
 
