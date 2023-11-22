@@ -11,7 +11,7 @@ Transcribed from private notes collected from `Date: 2012-01-31 13:39:23 +0000 (
   - [Show files not being tracked due to global & local .gitignore files](#show-files-not-being-tracked-due-to-global--local-gitignore-files)
   - [Copy a file from another branch](#copy-a-file-from-another-branch)
   - [Multi-Origin Remotes](#multi-origin-remotes)
-  - [Wipe leaked credential in pull request](#wipe-leaked-credential-in-pull-request)
+  - [Wipe Leaked Credential in Pull Request](#wipe-leaked-credential-in-pull-request)
 
 ## Branching Strategies
 
@@ -196,7 +196,7 @@ Configures the remote to push local master branch to dev branch upstream
 git config remote.<name>.push master:dev
 ```
 
-## Wipe leaked credential in pull request
+## Wipe Leaked Credential in Pull Request
 
 GitHub has added automation for [support ticket](https://support.github.com/tickets) requests to delete a pull request containing a credential.
 
