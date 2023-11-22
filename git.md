@@ -40,7 +40,15 @@ https://nvie.com/posts/a-successful-git-branching-model/
 
 https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitconfig
 
-You can inherit all configs by just cloning the repo and `make link` to symlink them to your home directory. See the [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#readme) repo's README for more details.
+https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitignore
+
+You can inherit all configs by just cloning the [repo](https://github.com/HariSekhon/DevOps-Bash-tools#readme) and `make link` to symlink them to your home directory:
+
+```
+git clone https://github.com/HariSekhon/DevOps-Bash-tools bash-tools
+cd bash-tools
+make link
+```
 
 # Git LFS
 
