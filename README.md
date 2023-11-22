@@ -1,4 +1,4 @@
-# Hari Sekhon - Docs - IT Knowledge from 20 years in DevOps, Linux, Cloud, Big Data, Security etc.
+# Hari Sekhon - Docs - IT Knowledge from 20 years in DevOps, Linux, Cloud, Big Data, Security, AWS, GCP etc.
 
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Docs?logo=github)](https://github.com/HariSekhon/Docs/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Docs?logo=github)](https://github.com/HariSekhon/Docs/network)
