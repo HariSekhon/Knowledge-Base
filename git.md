@@ -158,7 +158,7 @@ Useful for backups in case there is an outage to [GitHub](https://github.com) / 
 
 Add one or more remote repo URLs to the current git checkout:
 
-See `bash-tools/git/git_remotes_set_multi_origin.sh` which automates this to all major Git hosting providers
+See [bash-tools/git/git_remotes_set_multi_origin.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/git/git_remotes_set_multi_origin.sh) which automates this to all major Git hosting providers
 ```shell
 git remote set-url --add origin $url2
 git remote set-url --add origin $url3
