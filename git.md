@@ -56,6 +56,12 @@ make link
 
 # CLIs
 
+Standard Git CLI is already provided by XCode on Mac but you can also install it from Homebrew to get a different version:
+
+```shell
+brew install git
+```
+
 GitHub CLI:
 ```shell
 brew install gh
@@ -84,7 +90,7 @@ https://github.com/commonality/architecture-decision-records/wiki/GitHub-reposit
 
 https://git-lfs.com/
 
-Store big files on GitHub for free.
+Store big files in GitHub repos for free.
 
 I use this to store old training materials like videos, PDFs, zip files etc so they are safe and I can then save space locally.
 
@@ -162,6 +168,47 @@ To github.com:HariSekhon/training-old.git
  ! [remote rejected] master -> master (pre-receive hook declined)
 error: failed to push some refs to 'git@github.com:HariSekhon/training-old.git'
 
+```
+
+#### Git LFS on other git hosting providers
+
+
+GitLab works fine for both push and clone.
+
+Azure DevOps seems to work for push but doesn't show the file contents in the web UI preview and cloning resulted in a checkout error after clone and neither `git restore --source=HEAD :/` nor `git reset HEAD --hard` worked to get Git LFS to smudge and download the large files.
+
+Bitbucket is useless because the [free tier](https://bitbucket.org/harisekhon/workspace/settings/plans) only gives 1GB storage (use GitHub instead):
+
+```shell
+$ git push bitbucket
+Uploading LFS objects:   0% (0/51), 0 B | 0 B/s, done.
+batch response:
+********************************************************************************
+[ERROR] Your LFS push failed because you're out of file storage
+[ERROR] Change your plan to get more file storage:
+[ERROR] https://bitbucket.org/account/user/harisekhon/plans
+********************************************************************************
+
+error: failed to push some refs to 'git@bitbucket.org:HariSekhon/training-old.git'
+```
+
+Bitbucket also requires disabling locking:
+```shell
+$ git config lfs.https://ssh.dev.azure.com/v3/<user>/<project>/<repo>.git/info/lfs.locksverify false
+```
+
+[Multi-origin](#multi-origin-remotes) pushes fail and require individual remote pushes:
+
+```shell
+$ git push
+...
+remote: GitLab: LFS objects are missing. Ensure LFS is properly set up or try a manual "git lfs push --all".
+To gitlab.com:HariSekhon/training-old.git
+ ! [remote rejected] master -> master (pre-receive hook declined)
+error: failed to push some refs to 'git@gitlab.com:HariSekhon/training-old.git'
+...
+
+$ git push gitlab
 ```
 
 # Tips & Tricks
