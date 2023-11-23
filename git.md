@@ -90,9 +90,9 @@ https://github.com/commonality/architecture-decision-records/wiki/GitHub-reposit
 
 https://git-lfs.com/
 
-Store big files in GitHub repos for free.
+Store big files in GitHub repos (1GB limit for free accounts).
 
-I use this to store old training materials like videos, PDFs, zip files etc so they are safe and I can then save space locally.
+I used this to store old training materials like videos, PDFs, zip files etc so they are safe and I can then save space locally.
 
 GitHub will block files over 100MB from being `git push` otherwise.
 
@@ -172,10 +172,11 @@ error: failed to push some refs to 'git@github.com:HariSekhon/training-old.git'
 
 #### Git LFS on other git hosting providers
 
-
 GitLab works fine for both push and clone.
 
 Azure DevOps seems to work for push but doesn't show the file contents in the web UI preview and cloning resulted in a checkout error after clone and neither `git restore --source=HEAD :/` nor `git reset HEAD --hard` worked to get Git LFS to smudge and download the large files.
+
+Unfortunately GitHub limits large files to only 1GB for free accounts, so only use it for files over 100MB. GitHub will disable your LFS after you go over the thresholds for storage or bandwidth usage for the month.
 
 Bitbucket is useless because the [free tier](https://bitbucket.org/harisekhon/workspace/settings/plans) only gives 1GB storage (use GitHub instead):
 
