@@ -19,6 +19,10 @@
 [![Semgrep Cloud](https://github.com/HariSekhon/Docs/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/semgrep-cloud.yaml)
 [![Trivy](https://github.com/HariSekhon/Docs/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/trivy.yaml)
 
+Work in progress to migrate my personal knowledge base here
+
+Star and watch for updates
+
 # Index
 
 - [Git](git.md)
