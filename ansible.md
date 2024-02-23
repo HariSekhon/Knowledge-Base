@@ -28,6 +28,7 @@ Ensure `forks` is set in ansible.cfg
 
 Check there is no `serial` set in a playbook that is capping the parallelism of your run.
 
+In your local work repo, override the ansible.cfg to use the local config (put this in [.envrc](envrc.md))
 ```shell
 export ANSIBLE_CONFIG="ansible.cfg"
 ```
