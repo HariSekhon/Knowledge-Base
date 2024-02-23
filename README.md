@@ -23,7 +23,9 @@ Work in progress to gradually migrate my huge private personal knowledge base in
 
 Star and watch for updates.
 
-This repo focuses on advanced knowledge since the basics are easy to find on Google.
+This repo focuses on advanced knowledge, tips & tricks, debugging etc.
+
+References to official docs and some classic books are provided for those who want to thoroughly cover the basics.
 
 # Index
 
