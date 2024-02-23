@@ -64,13 +64,8 @@ Python Diagrams has the best library, some highlights are below but check their 
 - [Python Diagrams Kubernetes](https://diagrams.mingrammer.com/docs/nodes/k8s)
 
 
-- [Official AWS Icons](https://aws.amazon.com/architecture/icons/)
-
-
-- [Official GCP Icons](https://cloud.google.com/icons)
-
-
 - [Official Kubernetes Icons](https://github.com/kubernetes/community/tree/master/icons)
+
 
 
 - [CNCF technologies Icons](https://landscape.cncf.io/card-mode)
@@ -87,6 +82,16 @@ Python Diagrams has the best library, some highlights are below but check their 
 
 - [Icons8](https://icons8.com/)
 
+
+- [Official AWS Icons](https://aws.amazon.com/architecture/icons/)
+
+
+- [Official GCP Icons](https://cloud.google.com/icons)
+
+
+- [Official Azure Icons](https://learn.microsoft.com/en-us/azure/architecture/icons/)
+- [Benco Azure Icons](https://code.benco.io/icon-collection/azure-icons/)
+- [Icon8 Azure Icons](https://icons8.com/icons/set/azure)
 
 ## Interactive Playground Editors
 
