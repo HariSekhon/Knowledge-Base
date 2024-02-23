@@ -25,9 +25,7 @@ App:
 
 https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/app.yaml
 
-## GitOps
-
-Have ArgoCD manage itself from Git:
+## GitOps ArgoCD itself:
 
 https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/self.yaml
 
@@ -51,6 +49,6 @@ https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/cm.azur
 
 https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/secret.github-webhook.patch.yaml
 
-## Kubernetes Scripts:
+## ArgoCD & Kubernetes Scripts:
 
 https://github.com/HariSekhon/DevOps-Bash-tools#kubernetes
