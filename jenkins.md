@@ -4,6 +4,19 @@
 
 https://github.com/HariSekhon/DevOps-Bash-tools#cicd---continuous-integration--continuous-deployment
 
+## Jenkins Shell Scripts
+
+Scripts for common Jenkins operations using the Jenkins CLI and API:
+
+https://github.com/HariSekhon/DevOps-Bash-tools/tree/master/jenkins
+
+## Jenkins Groovy Console
+
+Find it at: `$JENKINS_URL/script`
+
+Some `*.groovy` scripts are mixed in between the shell scripts
+[here](https://github.com/HariSekhon/DevOps-Bash-tools/tree/master/jenkins).
+
 ## Jenkins Shared Libraries in Groovy
 
 https://github.com/HariSekhon/Jenkins
