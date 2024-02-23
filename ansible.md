@@ -61,6 +61,15 @@ export GCP_ACCESS_TOKEN=$(gcloud auth print-access-token)
 
 Better if you can get a service account and download the JSON credentials file and set that instead.
 
+```shell
+git clone https://github.com/HariSekhon/DevOps-Bash-tools bash-tools
+```
+creates service account, credential, downloads the JSON service account credential file, and prints the command to
+use it:
+```shell
+bash-tools/gcp/gcp_ansible_create_credential.sh
+```
+
 ## Performance
 
 `ansible.builtin.copy` results in small files copying performance problems.
