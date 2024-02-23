@@ -44,7 +44,8 @@ updates.
 - [Python](python.md)
 - [Ansible](ansible.md)
 - [Jenkins](jenkins.md)
-- [Java GC Performance Tuning](java-gc-performance-tuning.md)
+- [Groovy](groovy.md)
+- [Java JVM Performance Tuning](java-jvm-performance-tuning) (GC)
 - [Diagrams](diagrams.md) - Diagrams-as-Code
 - [Kubernetes](kubernetes.md)
   - [ArgoCD](argocd.md)
