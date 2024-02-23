@@ -56,10 +56,14 @@ Populate inventory list of hosts from GCP VM list using:
 
 https://docs.ansible.com/ansible/latest/collections/google/cloud/gcp_compute_inventory.html
 
+Set up your [GCloud SDK CLI](gcp.md) and authentication first, then export a token for ansible to use:
+
 ```shell
 export GCP_ACCESS_TOKEN=$(gcloud auth print-access-token)
 ```
 (unfortunately you can't specify `--lifetime 43200` unless using a service account, so you only get 3600 secs = 1 hour)
+
+Better if you can get a service account and download the JSON credentials file and set that instead.
 
 ## Performance
 
