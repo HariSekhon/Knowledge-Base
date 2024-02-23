@@ -25,7 +25,7 @@ direnv edit
 
 ## Advanced Examples
 
-### General - Docker, GitHub, Cloudflare, Terraform
+### General - Ansible, Cloudflare, Docker, GitHub, Terraform
 
 https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc
 
