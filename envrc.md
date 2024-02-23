@@ -18,7 +18,7 @@ eval "$(direnv hook bash)"
 direnv allow
 ```
 
-this will edit and approve when you save and exit:
+To edit, will auto-approve when you save and exit:
 ```shell
 direnv edit
 ```
