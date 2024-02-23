@@ -1,8 +1,12 @@
 # Bash - Shell & Scripting
 
-For the basics get these reading material first:
+This is the standard modern shell. You should always script in Bash for portability.
 
-## Reading Material
+It's a rare exception where you'd need to script in the original Bourne shell
+(bootstrapping [Alpine](https://github.com/HariSekhon/Dockerfiles/blob/master/alpine-dev/Dockerfile)
+is one of the few use cases for that).
+
+## Core Reading Material
 
 Books:
 
