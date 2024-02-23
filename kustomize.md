@@ -63,3 +63,7 @@ This makes Helm becomes fully self-healing GitOps.
 ## Template `kustomization.yaml`:
 
 https://github.com/HariSekhon/Kubernetes-configs/blob/master/kustomization.yaml
+
+## Kubernetes Kustomizations and Configs
+
+https://github.com/HariSekhon/Kubernetes-configs
