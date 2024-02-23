@@ -22,7 +22,7 @@ Even G1GC isn't magic and that target millis is only a guide.
 
 If you abuse the JVM heap size it won't be able to stick to that 100ms target you've given it.
 
-There is no right answer to heap size as it depends on the application but but aim for 16GB and spread horizontally.
+There is no right answer to heap size as it depends on the application but aim for 16GB and spread horizontally.
 
 Especially if you're got NoSQL horizontally scalable distributed computing software like HBase or SolrCloud.
 
@@ -32,7 +32,7 @@ The -Xmx is the max heap.
 
 The -Xms is the min heap.
 
-By setting the minimum heap -Xms to the same as the max heap it preallocates all the ram to the JVM at startup.
+By setting the minimum heap -Xms to the same as the max heap it pre-allocates all the ram to the JVM at startup.
 
 This makes it less likely that the JVM would swap or get an OOM out of memory error crash later.
 Swap should be disabled on any modern server anyway. RAM is cheap. Engineer time is expensive.
@@ -55,7 +55,7 @@ If in doubt, use G1GC. This is the best for reducing GC pauses.
 
 ## G1GC pause time goal is a hint only
 
-Internally it tweaks other knobs, but will miss it's pause targets if you run large heap sizes with heavily used applications.
+Internally it tweaks other knobs, but will miss its pause targets if you run large heap sizes with heavily used applications.
 
 ## Add Verbose GC logging so you can investigate and debug GC Pauses
 
@@ -72,7 +72,7 @@ Internally it tweaks other knobs, but will miss it's pause targets if you run la
 -XX:OnOutOfMemoryError="systemctl restart myapp.service"
 ```
 
-## HBase Diagram Example of a application that needs such tuning
+## HBase Diagram Example of an application that needs such tuning
 
 https://github.com/HariSekhon/Diagrams-as-Code#opentsdb-on-kubernetes-and-hbase
 
