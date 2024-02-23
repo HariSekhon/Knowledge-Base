@@ -10,14 +10,22 @@ Scripts for common Jenkins operations using the Jenkins CLI and API:
 
 https://github.com/HariSekhon/DevOps-Bash-tools/tree/master/jenkins
 
-## Jenkins Groovy Console
+## Jenkins Groovy
 
-Find it at: `$JENKINS_URL/script`
+[Groovy](groovy.md) is the language of Jenkins, and it is awesome.
+
+If you want to do anything advanced in Jenkins, you need to know Groovy.
+
+### Jenkins Groovy Console
+
+You can paste Groovy code snippets into the Script Console in Jenkins, which is located at:
+
+`$JENKINS_URL/script`
 
 Some `*.groovy` scripts are mixed in between the shell scripts
 [here](https://github.com/HariSekhon/DevOps-Bash-tools/tree/master/jenkins).
 
-## Jenkins Shared Libraries in Groovy
+## Jenkins Shared Libraries (Groovy)
 
 https://github.com/HariSekhon/Jenkins
 
