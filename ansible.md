@@ -10,6 +10,23 @@ Example:
 
 https://github.com/HariSekhon/Templates/blob/master/ansible-inventory
 
+## Ansible Config
+
+Set it explicitly if in doubt, eg. in [.envrc](envrc.md)
+```shell
+export ANSIBLE_CONFIG=/path/to/repo/ansible.cfg
+```
+
+Searches for `ansible.cfg` in this order:
+
+```shell
+$PWD/ansible.cfg
+
+$HOME/.ansible.cfg  # notice this is a dotfile
+
+/etc/ansible/ansible.cfg
+```
+
 ## Syntax Check Playbook
 
 ```shell
