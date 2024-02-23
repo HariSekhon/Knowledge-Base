@@ -23,7 +23,7 @@ To edit, will auto-approve when you save and exit:
 direnv edit
 ```
 
-## Examples `.envrc` full of cool stuff
+## Advanced Examples
 
 ### General - Docker, GitHub, Cloudflare, Terraform
 
