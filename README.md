@@ -33,8 +33,8 @@ References to official docs and some classic books are provided for those who wa
 
 # Index
 
-None of these are complete yet, haven't ported private knowledge base over, hit the watch button on the top right for
-updates.
+None of these pages are complete yet, haven't ported corresponding private knowledge base pages over yet, hit the watch
+button on the top right for updates.
 
 - [Bash](bash.md)
 - [Git](git.md)
