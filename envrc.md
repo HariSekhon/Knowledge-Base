@@ -44,3 +44,7 @@ https://github.com/HariSekhon/Kubernetes-configs/blob/master/.envrc
 or
 
 https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc-kubernetes
+
+### Terraform
+
+https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc-terraform
