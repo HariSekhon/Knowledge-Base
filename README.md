@@ -49,6 +49,8 @@ updates.
 - [Kubernetes](kubernetes.md)
   - [ArgoCD](argocd.md)
 
+TODO: hundreds more pages pending creation in this list
+
 # See Also
 
 For tonnes of great free tech programs and scripts, see also:
