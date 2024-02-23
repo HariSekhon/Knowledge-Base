@@ -10,6 +10,12 @@ Example:
 
 https://github.com/HariSekhon/Templates/blob/master/ansible-inventory
 
+## Syntax Check Playbook
+
+```shell
+ansible-playbook -i inventory_of_hosts.txt playbook.yml --private-key ~/.ssh/id_rsa
+```
+
 ## Run Playbook
 
 ```shell
@@ -35,7 +41,7 @@ https://docs.ansible.com/ansible/latest/collections/google/cloud/gcp_compute_inv
 ```shell
 export GCP_ACCESS_TOKEN=$(gcloud auth print-access-token)
 ```
-(unfortunately you can't specify `--lifetime 43200` unless using a service account so you only get 3600 secs = 1 hour)
+(unfortunately you can't specify `--lifetime 43200` unless using a service account, so you only get 3600 secs = 1 hour)
 
 ## Performance
 
@@ -44,7 +50,7 @@ export GCP_ACCESS_TOKEN=$(gcloud auth print-access-token)
 Replace it with `ansible.posix.synchronize`. This can make a huge time difference of around 4-10x in a production code
 base where I was doing this for SolrCloud clusters.
 
-It takes the same `src` / `dest` / `owner` / `group` / `mode` parameters so you should be able to just change this line
+It takes the same `src` / `dest` / `owner` / `group` / `mode` parameters, so you should be able to just change this line
 across your code base like so:
 
 ```shell
