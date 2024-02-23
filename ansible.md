@@ -17,7 +17,7 @@ Set it explicitly if in doubt, eg. in [.envrc](envrc.md)
 export ANSIBLE_CONFIG=/path/to/repo/ansible.cfg
 ```
 
-Searches for `ansible.cfg` in this order:
+Searches for [ansible.cfg](https://docs.ansible.com/ansible/latest/reference_appendices/config.html) in this order:
 
 ```shell
 $PWD/ansible.cfg
