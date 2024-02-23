@@ -41,7 +41,7 @@ kubectl diff -k .
 ```
 but this is weaker than using standalone `kustomize` but `kubectl` doesn't use the `--enable-helm` switch so fails on
 Kustomizations which pull in Helm charts:
-```shell
+```yaml
 error: accumulating resources: accumulation err='accumulating resources from '../base': '/Users/hari/github/k8s/jenkins/base' must resolve to a file': recursed accumulation of path '/Users/hari/github/k8s/jenkins/base': trouble configuring builtin HelmChartInflationGenerator with config: `
 includeCRDs: true
 name: jenkins
