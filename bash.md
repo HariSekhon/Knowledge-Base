@@ -20,6 +20,16 @@ Free:
 
 ## Advanced Library of Scripts
 
-Also contains `.bashrc` and other configs.
+1000+ DevOps Bash Scripts
+
+AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka,
+Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt
+for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang etc.
+
+Also contains advanced configs. eg: `.bashrc`, `.vimrc`, `.gitconfig`, `.
+screenrc`, `.tmux.conf` etc.
 
 https://github.com/HariSekhon/DevOps-Bash-tools
+
+This is more than the manuals above, you could study this repo for years, or just run its scripts today to save you
+the time.
