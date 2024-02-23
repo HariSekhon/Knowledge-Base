@@ -7,6 +7,10 @@
 - [MiniShift](https://github.com/minishift/minishift) - for OpenShift upstream [okd](https://www.okd.io/)
 - [K3d](https://k3d.io/v5.6.0/) - quickly boots a [K3s](https://k3s.io/) minimal kubernetes distro (fully functional)
 
+## Kubernetes Configs
+
+https://github.com/HariSekhon/Kubernetes-configs
+
 ## Kubernetes Scripts
 
 https://github.com/HariSekhon/DevOps-Bash-tools#kubernetes
