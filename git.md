@@ -50,8 +50,10 @@ https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitignore
 
 You can inherit all configs by just cloning the [repo](https://github.com/HariSekhon/DevOps-Bash-tools#readme) and `make link` to symlink them to your home directory:
 
-```
+```shell
 git clone https://github.com/HariSekhon/DevOps-Bash-tools bash-tools
+```
+```shell
 cd bash-tools
 make link
 ```
