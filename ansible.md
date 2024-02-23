@@ -12,9 +12,11 @@ https://github.com/HariSekhon/Templates/blob/master/ansible-inventory
 
 ## Ansible Config
 
-Set it explicitly if in doubt, eg. in [.envrc](envrc.md)
+Explicitly set in shell or in git repo's [.envrc](envrc.md) to ensure user's random environment variable
+`ANSIBLE_CONFIG` doesn't get
+used:
 ```shell
-export ANSIBLE_CONFIG=/path/to/repo/ansible.cfg
+export ANSIBLE_CONFIG="./ansible.cfg"
 ```
 
 Searches for [ansible.cfg](https://docs.ansible.com/ansible/latest/reference_appendices/config.html) in this order:
@@ -44,11 +46,6 @@ ansible-playbook -i inventory_of_hosts.txt playbook.yml --private-key ~/.ssh/id_
 Ensure `forks` is set in ansible.cfg
 
 Check there is no `serial` set in a playbook that is capping the parallelism of your run.
-
-In your local work repo, override the ansible.cfg to use the local config (put this in [.envrc](envrc.md))
-```shell
-export ANSIBLE_CONFIG="ansible.cfg"
-```
 
 ## GCP
 
