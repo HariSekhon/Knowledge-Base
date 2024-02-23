@@ -1,5 +1,21 @@
 # GCP - Google Cloud Platform
 
+## Install GCloud SDK CLI
+
+Follow the [install doc](https://cloud.google.com/sdk/docs/install) or paste this to run an automated install script
+which auto-detects and handles Mac or Linux:
+
+```shell
+git clone https://github.com/HariSekhon/DevOps-Bash-tools
+
+bash-tools/install/install_gcloud_sdk.sh
+```
+
+Initialize your config and authenticate, following the prompts:
+```shell
+gcloud init
+```
+
 ## Add SSH key to project
 
 ```shell
