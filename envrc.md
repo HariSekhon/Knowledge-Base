@@ -4,7 +4,7 @@ Use this to quickly jump between different environments using script commands an
 
 Install [DirEnv](https://direnv.net/) which will prompt you to approve the `.envrc` to auto-execute when you `cd` into a directory.
 
-## Key Commands
+## Commands
 
 Add the direnv hook to your shell `$HOME/.bashrc` or similar:
 
