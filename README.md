@@ -31,12 +31,12 @@ References to official docs and some classic books are provided for those who wa
 
 - [Bash](bash.md)
 - [Git](git.md)
-- [GitHub](github.md)
 - [GitLab](gitlab.md)
 - [Regular Expressions](regex.md)
 - [Perl](perl.md)
 - [Python](python.md)
 - [Ansible](ansible.md)
+- [Jenkins](jenkins.md)
 - [Java GC Performance Tuning](java-gc-performance-tuning.md)
 
 # See Also
