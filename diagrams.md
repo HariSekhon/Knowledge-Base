@@ -28,10 +28,15 @@ https://github.com/HariSekhon/Templates
 - [Cloudgram](https://cloudgram.dedalusone.com/index.html) - another DSL language
 - [GraphViz](https://graphviz.org/) - the classic, used by Terraform graph
 - [MermaidJS](https://mermaid.js.org/) - best for embedded live diagrams in GitHub READMEs
-(see my Diagrams-as-Code repo's README examples [here](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#github-flow-with-jira-ticket-integration) and [here](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#git---environment-branches))
+(see my Diagrams-as-Code repo's README examples
+[here](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#github-flow-with-jira-ticket-integration)
+and [here](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#git---environment-branches))
 - [Structurizer](https://structurizr.com/dsl) - yet another DSL, limited to software models
 - [MarkMap](https://github.com/markmap/markmap) - visualize your Markdown as mindmaps, nice, can open your GitHub repo's
-Markdown directly, although it looks like my [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo is far too huge a [map](https://markmap.js.org/repl#?d=github%3AHariSekhon%2FDevOps-Bash-tools%40master%3AREADME.md)
+Markdown directly, although it looks like my
+[DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
+repo is far too huge a
+[map](https://markmap.js.org/repl#?d=github%3AHariSekhon%2FDevOps-Bash-tools%40master%3AREADME.md)
 
 Best Comparison Site (run by D2):
 
