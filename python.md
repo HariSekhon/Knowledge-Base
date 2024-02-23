@@ -9,8 +9,6 @@ It's not as amazing for one-liners are [Perl](perl.md) is though, which can boos
 
 [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730/)
 
-## Perl in-place fast file editing (like sed but more powerful)
-
 ## DevOps Python  tools
 
 https://github.com/HariSekhon/DevOps-Python-tools
