@@ -3,13 +3,14 @@
 Regular expressions are a core skill for any half decent programmer.
 
 I use them extensively in languages from Python and Perl to Java/Scala/Groovy and even in shell scripts in Bash
-for grep sed & awk.
+for grep, sed & awk.
 
 - PCRE - Perl Compatible Regular Expressions - the gold standard from [Perl](perl.md) which most popular languages aspire to
   - GNU grep has a `grep -P` switch to use PCRE but beware it's not portable
   - it won't work on BSD based systems like macOS
     - you can `brew install coreutils` on Mac but then you'll have to use the `ggrep` command instead
-    - your shell scripts will have to figure our if they're on Mac and override the grep command (examples in [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo)
+    - your shell scripts will have to figure our if they're on Mac and override the grep command (examples in
+[DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo)
 - BRE - Basic Regular Expression - neutered regex
   - used by grep by default
 - ERE - Extended Regular Expressions - slightly better than ERE but still weak & awkward compared to PCRE
