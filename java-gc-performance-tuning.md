@@ -1,4 +1,4 @@
-# Java GC Performance Tuning
+# Java JVM Performance Tuning
 
 This is important for low latency Java applications and clustered technologies using ZooKeeper.
 
