@@ -19,13 +19,23 @@
 [![Semgrep Cloud](https://github.com/HariSekhon/Docs/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/semgrep-cloud.yaml)
 [![Trivy](https://github.com/HariSekhon/Docs/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/trivy.yaml)
 
-Work in progress to migrate my personal knowledge base here
+Work in progress to gradually migrate my huge private personal knowledge base into this public repo.
 
-Star and watch for updates
+Star and watch for updates.
+
+This repo focuses on advanced knowledge since the basics are easy to find on Google.
 
 # Index
 
+- [Bash](bash.md)
 - [Git](git.md)
+- [GitHub](github.md)
+- [GitLab](gitlab.md)
+- [Regular Expressions](regex.md)
+- [Perl](perl.md)
+- [Python](python.md)
+- [Ansible](ansible.md)
+- [Java GC Performance Tuning](java-gc-performance-tuning.md)
 
 # See Also
 
