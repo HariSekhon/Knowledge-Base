@@ -14,7 +14,9 @@ Transcribed from private notes collected from `Date: 2012-01-31 13:39:23 +0000 (
   - [Show files not being tracked due to global & local .gitignore files](#show-files-not-being-tracked-due-to-global--local-gitignore-files)
   - [Copy a file from another branch](#copy-a-file-from-another-branch)
   - [Multi-Origin Remotes](#multi-origin-remotes)
+  - [Fix Author / Email in Git History](#fix-author--email-in-git-history)
   - [Erase Leaked Credential in Pull Request](#erase-leaked-credential-in-pull-request)
+  - [Erase Leaked Credential in Git History]()
 
 ## Branching Strategies
 
@@ -282,16 +284,30 @@ Configures the remote to push local master branch to dev branch upstream
 git config remote.<name>.push master:dev
 ```
 
+## Fix Author / Email in Git Pull Request or History
+
+If you've accidentally committed using your personal email at work or worse, your work email in your public github
+projects, I've written a script to make this easy by wrapping `git filter-branch`.
+
+A force push would be required which will replace all subsequent hashrefs after the first change and cause conflicts
+with existing checkouts which if merged could re-introduce the bit you don't want. You must coordinate with your peers
+to replace their clones in that case if they're already pulled.
+
+```shell
+git clone https://github.com/HariSekhon/DevOps-Bash-tools bash-tools
+bash-tools/git/git_filter_branch_fix_author.sh --help  # for details
+```
+
 ## Erase Leaked Credential in Pull Request
 
 GitHub has added automation for [support ticket](https://support.github.com/tickets) requests to delete a pull request containing a credential.
 
-If you reset the branch contents and force push without the credential then you may not be needed to even delete the PR.
+If you reset the branch contents and force push without the credential then you may not need to even delete the PR
+as it'll replace the diff.
 
 **First remove the credential from the file(s).**
 
 Find the common divergence point for your branch:
-
 ```shell
 base_branch="master"  # or main
 your_branch="$(git branch --show-current)"
@@ -300,22 +316,44 @@ base_commit="$(git merge-base "$base_branch" "$yourbranch")"
 git diff --name-only "$base_branch".."$your_branch" >> filelist.txt
 ```
 
-Roll back the branch to the fork point
+Roll back the branch to the fork point:
 ```shell
 git reset "$base_commit"
 ```
 
-Re-add all the files you add/updated in this branch
+Re-add all the files you add/updated in this branch:
 ```shell
 git add $(cat filelist.txt)
 ```
 
-Re-commit all the changed files
+Re-commit all the changed files:
 ```shell
 git commit -m "squashed all branch changes into one commit to wipe out the credential that shouldn't have been in there")
 ```
 
-This force push overwrites the Pull Request contents to wipe out the leaked credential
+Then force push to overwrite the Pull Request contents to wipe out the leaked credential:
 ```shell
 git push --force
+```
+(if you get an error you need to temporarily disable the force push branch protection)
+
+## Git Filter-Repo
+
+Useful for replacing token, authors and is recommended over the lower-level `git filter-branch`.
+
+```shell
+git filter-repo --analyze
+# creates a bunch of text files with interesting dimensions of the contents of the repo to figure out what to replace
+less .git/filter-repo/analysis/*
+# :n to move to next file
+# :p to move to previous file
+```
+
+## Erase Leaked Credential in Git History
+
+Can also be used to remove reference to client names in public projects.
+
+```shell
+git clone https://github.com/HariSekhon/DevOps-Bash-tools bash-tools
+bash-tools/git/git_filter_repo_replace_text.sh --help  # for details
 ```
