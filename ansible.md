@@ -13,8 +13,7 @@ https://github.com/HariSekhon/Templates/blob/master/ansible-inventory
 ## Ansible Config
 
 Explicitly set in shell or in git repo's [.envrc](envrc.md) to ensure user's random environment variable
-`ANSIBLE_CONFIG` doesn't get
-used:
+`ANSIBLE_CONFIG` doesn't get used:
 ```shell
 export ANSIBLE_CONFIG="./ansible.cfg"
 ```
