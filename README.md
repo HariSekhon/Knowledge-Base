@@ -49,6 +49,7 @@ button on the top right for updates.
 - [Diagrams](diagrams.md) - Diagrams-as-Code
 - [Kubernetes](kubernetes.md)
   - [ArgoCD](argocd.md)
+- [.envrc / direnv](envrc.md)
 
 TODO: hundreds more pages pending creation in this list
 
