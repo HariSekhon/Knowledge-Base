@@ -48,8 +48,7 @@ kubectl get secret -n jenkins jenkins -o jsonpath="{.data.jenkins-admin-password
 ```
 
 WARNING: The Jenkins admin password secret gets changed to a new random value every time you apply the Jenkins Helm
-chart via Kustomize (see
-[bug report](https://github.com/jenkinsci/helm-charts/issues/1026))
+chart via Kustomize (see [bug report](https://github.com/jenkinsci/helm-charts/issues/1026))
 
 You can also get the secrets from the container, it's just a bit longer, but it's exactly the same as the above and
 has the same bug:
