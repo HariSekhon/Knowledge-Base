@@ -62,6 +62,8 @@ kubectl exec -ti -n jenkins jenkins-0 -c jenkins -- cat /run/secrets/additional/
 
 ### Reset the Jenkins admin password on Kubernetes
 
+Whether you lost the password or got hit by [this bug](https://github.com/jenkinsci/helm-charts/issues/1026), you
+can reset the password like so:
 ```shell
 kubectl exec -ti -n jenkins jenkins-0 -c jenkins -- /bin/bash
 ```
