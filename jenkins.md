@@ -35,13 +35,32 @@ Configs are here:
 
 https://github.com/HariSekhon/Kubernetes-configs?tab=readme-ov-file#jenkins-on-kubernetes
 
-### Default Admin Password
+### Default Admin User + Password
 
+User:
+```shell
+kubectl get secret -n jenkins jenkins -o 'jsonpath={.data.jenkins-admin-user}' | base64 --decode
+```
+
+Password:
 ```shell
 kubectl get secret -n jenkins jenkins -o jsonpath="{.data.jenkins-admin-password}" | base64 --decode
 ```
 
-### Reset your admin password on Kubernetes
+WARNING: The Jenkins admin password secret gets changed to a new random value every time you apply the Jenkins Helm
+chart via Kustomize (see
+[bug report]())
+
+You can also get the secrets from the container, it's just a bit longer, but it's exactly the same as the above and
+has the same bug:
+```shell
+kubectl exec -ti -n jenkins jenkins-0 -c jenkins -- cat /run/secrets/additional/chart-admin-user
+```
+```shell
+kubectl exec -ti -n jenkins jenkins-0 -c jenkins -- cat /run/secrets/additional/chart-admin-password
+```
+
+### Reset the Jenkins admin password on Kubernetes
 
 ```shell
 kubectl exec -ti -n jenkins jenkins-0 -c jenkins -- /bin/bash
@@ -57,8 +76,10 @@ exit
 ```shell
 kubectl rollout restart sts jenkins
 ```
-This seems to not come up without auth like on an installed instance but resets to use the default admin password:
+This seems to not come up without auth like on an installed instance but resets to use the default admin password
+(probably due to init scripts).
 
+Then recover the initial admin password to log in:
 ```shell
 kubectl get secret -n jenkins jenkins -o jsonpath="{.data.jenkins-admin-password}" | base64 --decode
 ```
