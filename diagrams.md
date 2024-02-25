@@ -10,15 +10,13 @@ The cutting edge is Diagrams-as-Code.
 
 ## Diagrams-as-Code
 
-Ready made architecture diagrams:
-
-https://github.com/HariSekhon/Diagrams-as-Code
+[Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - ready made architecture diagrams
 
 ## Templates
 
-Templates for D2 language and Python diagrams are found here, especially `diagram.d2` and `diagram.py`:
-
-https://github.com/HariSekhon/Templates
+[Templates](https://github.com/HariSekhon/Templates) for D2 language and Python diagrams are found here, especially
+[diagram.d2](https://github.com/HariSekhon/Templates/blob/master/diagram.d2) and
+[diagram.py](https://github.com/HariSekhon/Templates/blob/master/diagram.py).
 
 ## Diagrams Languages
 
@@ -38,15 +36,13 @@ Markdown directly, although it looks like my
 repo is far too huge a
 [map](https://markmap.js.org/repl#?d=github%3AHariSekhon%2FDevOps-Bash-tools%40master%3AREADME.md)
 
-Best Comparison Site (run by D2):
-
-https://text-to-diagram.com/
+[Best Comparison Site](https://text-to-diagram.com/) (run by D2)
 
 ## GUI / Online Diagrams tools
 
 - [Draw.io](https://app.diagrams.net) - mature and can export to XML
 - [LucidChart](https://lucid.app/)
-- [CloudCraft]https://app.cloudcraft.co/) - cloud focused diagrams
+- [CloudCraft](https://app.cloudcraft.co/) - cloud focused diagrams
 - [Creately](https://app.creately.com/)
 - [Prezi](https://prezi.com/) - focused on presentations
 - [Sketch](https://www.sketch.com/)
@@ -98,68 +94,24 @@ Python Diagrams has the best library, some highlights are below but check their 
 - [Benco Azure Icons](https://code.benco.io/icon-collection/azure-icons/)
 - [Icon8 Azure Icons](https://icons8.com/icons/set/azure)
 
-## Interactive Playground Editors
+### Interactive Playground Editors
 
-## D2 lang
-
-https://play.d2lang.com/
-
-## MermaidJS
-
-https://mermaid.live/
-
-## CloudGram
-
-https://cloudgram.dedalusone.com/index.html
-
-## GraphViz
-
-https://dreampuf.github.io/GraphvizOnline
-
-http://magjac.com/graphviz-visual-editor/
-
-https://edotor.net/
-
-### MarkMap
-
-https://markmap.js.org/repl
-
-### Draw.io
-
-Loaded with AWS, GCP and Azure icons:
-
-https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4;azure;gcp2;network;webicons
-
-Just AWS icons:
-
-https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4
-
-Just Azure icons:
-
-https://app.diagrams.net/?splash=0&ui=dark&libs=azure
-
-Just GCP icons:
-
-https://app.diagrams.net/?splash=0&ui=dark&libs=gcp2
-
-### LucidChart
-
-https://lucid.app/
-
-### CloudCraft
-
-https://app.cloudcraft.co/
-
-### Creately
-
-https://app.creately.com/
-
-### Visual Paradigm
-
-https://online.visual-paradigm.com/
-
-https://online.visual-paradigm.com/drive/#diagramlist:proj=0&dashboard
-
-## Structurizer
-
-https://structurizr.com/dsl
+- [D2 lang](https://play.d2lang.com/)
+- [MermaidJS](https://mermaid.live/)
+- [CloudGram](https://cloudgram.dedalusone.com/index.html)
+- GraphViz:
+  - https://dreampuf.github.io/GraphvizOnline
+  - http://magjac.com/graphviz-visual-editor/
+  - https://edotor.net/
+-[MarkMap](https://markmap.js.org/repl)
+- Draw.io:
+  - [Draw.io pre-loaded with AWS, GCP and Azure icons](https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4;azure;gcp2;network;webicons)
+  - [Draw.io pre-loaded with AWS icons](https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4)
+  - [Draw.io pre-loaded with Azure icons](https://app.diagrams.net/?splash=0&ui=dark&libs=azure)
+  - [Draw.io pre-loaded with GCP icons](https://app.diagrams.net/?splash=0&ui=dark&libs=gcp2)
+- [LucidChart](https://lucid.app/)
+- [CloudCraft](https://app.cloudcraft.co/)
+- [Creately](https://app.creately.com/)
+- [Visual Paradigm](https://online.visual-paradigm.com/)
+  - [Online Dashboard](https://online.visual-paradigm.com/drive/#diagramlist:proj=0&dashboard)
+- [Structurizer](https://structurizr.com/dsl)
