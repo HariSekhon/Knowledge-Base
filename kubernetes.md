@@ -9,8 +9,9 @@
 
 ## Kubernetes Configs
 
-https://github.com/HariSekhon/Kubernetes-configs
+[HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)
 
 ## Kubernetes Scripts
 
-https://github.com/HariSekhon/DevOps-Bash-tools#kubernetes
+[DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#kubernetes)
+`kubernetes/` directory.
