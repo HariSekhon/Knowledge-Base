@@ -59,26 +59,35 @@ kubectl exec -ti -n jenkins jenkins-0 -c jenkins -- cat /run/secrets/additional/
 kubectl exec -ti -n jenkins jenkins-0 -c jenkins -- cat /run/secrets/additional/chart-admin-password
 ```
 
-### Reset the Jenkins admin password on Kubernetes
+### Reset the Jenkins admin password
 
-Whether you lost the password or got hit by [this bug](https://github.com/jenkinsci/helm-charts/issues/1026), you
-can reset the password like so:
+On a traditional Jenkins install (not Kubernetes helm chart, see next section for that):
+
+SSH to the jenkins server and run:
+
 ```shell
-kubectl exec -ti -n jenkins jenkins-0 -c jenkins -- /bin/bash
-```
-inside the container:
-```shell
-sed -i 's|<useSecurity>true</useSecurity>|<useSecurity>false</useSecurity>|' /var/jenkins_home/config.xml
+sed -i 's|<useSecurity>true</useSecurity>|<useSecurity>false</useSecurity>|' "$JENKINS_HOME/config.xml"
 # check it worked
-grep -i useSecurity /var/jenkins_home/config.xml
-exit
+grep -i useSecurity "$JENKINS_HOME/config.xml"
+```
+Then restart Jenkins, access it without auth, update the admin password, undo the config change, and restart again.
+
+### Reset the Jenkins admin password when using Kubernetes Helm Chart
+
+Whether you lost the password or got hit by [this bug](https://github.com/jenkinsci/helm-charts/issues/1026), the
+above won't work with the Jenkins helm chart because it resets the admin password from the secret every pod restart
+due to JCasC.
+
+Stop the helm chart from recreating the secret every time by setting this in the chart `values.yaml`:
+```yaml
+controller:
+  admin:
+    existingSecret: jenkins
 ```
 
 ```shell
 kubectl rollout restart sts jenkins
 ```
-This seems to not come up without auth like on an installed instance but resets to use the default admin password
-(probably due to init scripts).
 
 Then recover the initial admin password to log in:
 ```shell
