@@ -37,3 +37,7 @@ https://github.com/HariSekhon/DevOps-Bash-tools
 
 This is more than the manuals above, you could study this repo for years, or just run its scripts today to save you
 the time.
+
+## Other Cool Resources
+
+- [Shelldorado](http://www.shelldorado.com/)
