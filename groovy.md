@@ -21,4 +21,4 @@ the shell scripts [here](https://github.com/HariSekhon/DevOps-Bash-tools/tree/ma
 
 See here for substantial Groovy code that I used in production for years:
 
-https://github.com/HariSekhon/Jenkins
+[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)
