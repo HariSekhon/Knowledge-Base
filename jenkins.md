@@ -98,7 +98,7 @@ Then restart Jenkins, access it without auth, update the admin password, undo th
 
 ### Shell "process apparently never started in"
 
-Execute in Script Console at `$JENKINS_URL/`:
+Execute in Script Console at `$JENKINS_URL/script`:
 ```groovy
 org.jenkinsci.plugins.durabletask.BourneShellScript.LAUNCH_DIAGNOSTICS=true
 ```
