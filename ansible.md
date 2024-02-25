@@ -1,6 +1,6 @@
 # Ansible
 
-https://docs.ansible.com/ansible/latest/getting_started/index.html
+[Official Documentation](https://docs.ansible.com/ansible/latest/getting_started/index.html)
 
 ## Inventory
 
@@ -8,7 +8,7 @@ List of hosts to run against, grouped
 
 Example:
 
-https://github.com/HariSekhon/Templates/blob/master/ansible-inventory
+[Ansible Inventory Template](https://github.com/HariSekhon/Templates/blob/master/ansible-inventory)
 
 ## Ansible Config
 
@@ -50,7 +50,7 @@ Check there is no `serial` set in a playbook that is capping the parallelism of 
 
 Populate inventory list of hosts from GCP VM list using:
 
-https://docs.ansible.com/ansible/latest/collections/google/cloud/gcp_compute_inventory.html
+[GCP Compute Inventory Plugin](https://docs.ansible.com/ansible/latest/collections/google/cloud/gcp_compute_inventory.html)
 
 Set up your [GCloud SDK CLI](gcp.md) and authentication first, then export a token for ansible to use:
 
