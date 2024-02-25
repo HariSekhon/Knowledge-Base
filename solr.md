@@ -116,10 +116,23 @@ hadoop jar dist/solr-map-reduce-*.jar \
   hdfs://nameservice1/data
 ```
 
+- When not on HDFS (online indexing performance sucks on HDFS),
+`--output hdfs://nameservice1/` causes `org.apache.solr.common.SolrException: Directory: org.apache.lucene.store.MMapDirectory. but hdfs lock factory can only be used with HdfsDirectory`
+
+- MRIndexer writes `tmp2/full-import-list.txt` to dir from only 1 mapper, this causes `FileNotFoundException` in
+  mapper since they can't see the file when using file:/// - this rules out local index creation
+
+- URI error was due to specifying MapReduceIndexer path as first arg, must be `hdfs:///data/...`
+
+
+
+### MapReduce Indexer Tool
+
 ```shell
 java -cp dist/*:contrib/map-reduce/lib/*:$(hadoop classpath) org.apache.solr.hadoop.MapReduceIndexerTool
 ```
 
+### HDFS Find Tool
 ```shell
 java -cp dist/*:contrib/map-reduce/lib/*:$(hadoop classpath) org.apache.solr.hadoop.HdfsFindTool --help
 ```
