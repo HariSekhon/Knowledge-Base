@@ -11,18 +11,18 @@ It's not as amazing for one-liners are [Perl](perl.md) is though, which can boos
 
 ## DevOps Python  tools
 
-https://github.com/HariSekhon/DevOps-Python-tools
+[HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools)
 
 ## Shell scripts with Python
 
 Shell scripts using Python and making it easier to install Python pip libraries from PyPI.
 
-https://github.com/HariSekhon/DevOps-Bash-tools
+[HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 ## Nagios Plugins in Python
 
-https://github.com/HariSekhon/Nagios-Plugins
+[HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
 
 ## Python Library with Unit Tests
 
-https://github.com/HariSekhon/pylib
+[HariSekhon/pylib](https://github.com/HariSekhon/pylib)
