@@ -37,20 +37,28 @@ None of these pages are complete yet, haven't ported corresponding private knowl
 button on the top right for updates.
 
 - [Bash](bash.md)
+  - [.envrc / direnv](envrc.md)
 - [Git](git.md)
-- [GitLab](gitlab.md)
-- [Regular Expressions](regex.md)
-- [Perl](perl.md)
-- [Python](python.md)
-- [Ansible](ansible.md)
-- [Jenkins](jenkins.md)
-- [Groovy](groovy.md)
-- [Java JVM Performance Tuning](java-jvm-performance-tuning)
-- [Diagrams](diagrams.md) - Diagrams-as-Code
+  - [GitHub](github.md)
+  - [GitLab](gitlab.md)
+- [Docker](docker.md)
 - [Kubernetes](kubernetes.md)
   - [ArgoCD](argocd.md)
   - [Kustomize](kustomize.md)
-- [.envrc / direnv](envrc.md)
+- [Regular Expressions](regex.md)
+- Programming:
+  - [Perl](perl.md)
+  - [Python](python.md)
+  - [Groovy](groovy.md)
+  - [Java JVM Performance Tuning](java-jvm-performance-tuning)
+- [Ansible](ansible.md)
+- CI/CD:
+  - [Jenkins](jenkins.md)
+  - [GitHub Actions](github-actions.md)
+  - [GitLab CI](gitlab-ci.md)
+  - [CircleCI](circleci.md)
+  - [TravisCI](travis.md)
+- [Diagrams](diagrams.md) - Diagrams-as-Code
 
 TODO: hundreds more pages pending creation in this list
 
