@@ -59,19 +59,6 @@ kubectl exec -ti -n jenkins jenkins-0 -c jenkins -- cat /run/secrets/additional/
 kubectl exec -ti -n jenkins jenkins-0 -c jenkins -- cat /run/secrets/additional/chart-admin-password
 ```
 
-### Reset the Jenkins admin password
-
-On a traditional Jenkins install (not Kubernetes helm chart, see next section for that):
-
-SSH to the jenkins server and run:
-
-```shell
-sed -i 's|<useSecurity>true</useSecurity>|<useSecurity>false</useSecurity>|' "$JENKINS_HOME/config.xml"
-# check it worked
-grep -i useSecurity "$JENKINS_HOME/config.xml"
-```
-Then restart Jenkins, access it without auth, update the admin password, undo the config change, and restart again.
-
 ### Reset the Jenkins admin password when using Kubernetes Helm Chart
 
 Whether you lost the password or got hit by [this bug](https://github.com/jenkinsci/helm-charts/issues/1026), the
@@ -96,9 +83,21 @@ kubectl get secret -n jenkins jenkins -o jsonpath="{.data.jenkins-admin-password
 
 ## Troubleshooting
 
+### Reset the Jenkins admin password
+
+On a traditional Jenkins install (not using the Kubernetes helm chart, see Kubernetes section for that):
+
+SSH to the jenkins server and run:
+
+```shell
+sed -i 's|<useSecurity>true</useSecurity>|<useSecurity>false</useSecurity>|' "$JENKINS_HOME/config.xml"
+# check it worked
+grep -i useSecurity "$JENKINS_HOME/config.xml"
+```
+Then restart Jenkins, access it without auth, update the admin password, undo the config change, and restart again.
+
 ### Shell "process apparently never started in"
 
-Execute in Script Console at `$JENKINS_URL/`:
 ```groovy
 org.jenkinsci.plugins.durabletask.BourneShellScript.LAUNCH_DIAGNOSTICS=true
 ```
