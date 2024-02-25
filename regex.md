@@ -41,26 +41,26 @@ Grep on most systems can support ERE via the `grep -E` switch.
 
 PCRE regex:
 
-https://github.com/HariSekhon/lib
+[HariSekhon/lib](https://github.com/HariSekhon/lib)
 
 ## Library of Regex in Python
 
 PCRE regex:
 
-https://github.com/HariSekhon/pylib
+[HariSekhon/pylib](https://github.com/HariSekhon/pylib)
 
 ## Library of Regex in Bash
 
 BRE / ERE Regex:
 
-https://github.com/HariSekhon/DevOps-Bash-tools
+[HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 ## Examples of Real-world Regex Used Extensively
 
 PCRE regex - see especially anonymize.py / anonymize.pl in these repos among many other scripts:
 
-https://github.com/HariSekhon/DevOps-Python-tools
+[HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools)
 
-https://github.com/HariSekhon/DevOps-Perl-tools
+[HariSekhon/DevOps-Perl-tools](https://github.com/HariSekhon/DevOps-Perl-tools)
 
-https://github.com/HariSekhon/Nagios-Plugins
+[HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
