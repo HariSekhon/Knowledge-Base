@@ -74,7 +74,7 @@ Internally it tweaks other knobs, but will miss its pause targets if you run lar
 
 ## HBase Diagram Example of an application that needs such tuning
 
-https://github.com/HariSekhon/Diagrams-as-Code#opentsdb-on-kubernetes-and-hbase
+[Diagrams-as-Code - OpenTSDB on HBase](https://github.com/HariSekhon/Diagrams-as-Code#opentsdb-on-kubernetes-and-hbase)
 
 ![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/opentsdb_kubernetes_hbase.svg)
 
