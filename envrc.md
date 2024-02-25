@@ -27,24 +27,26 @@ direnv edit
 
 ### General - Ansible, Cloudflare, Docker, GitHub, Terraform
 
-https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc
+[.envrc](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc)
 
 ### AWS
 
-https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc-aws
+[.envrc-aws](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc-aws)
 
 ### GCP
 
-https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc-gcp
+[.envrc-gcp](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc-gcp)
 
 ### Kubernetes
 
-https://github.com/HariSekhon/Kubernetes-configs/blob/master/.envrc
+[.envrc-kubernetes](https://github.com/HariSekhon/Kubernetes-configs/blob/master/.envrc) -
+[Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) repo
 
 or
 
-https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc-kubernetes
+[.envrc-kubernetes](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc-kubernetes) -
+[DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo
 
 ### Terraform
 
-https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc-terraform
+[.envrc-terraform](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc-terraform)
