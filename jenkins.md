@@ -2,13 +2,14 @@
 
 ## Quick Jenkins in Docker and SysAdmin Scripts
 
-https://github.com/HariSekhon/DevOps-Bash-tools#cicd---continuous-integration--continuous-deployment
+[HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#cicd---continuous-integration--continuous-deployment)
 
 ## Jenkins Shell Scripts
 
 Scripts for common Jenkins operations using the Jenkins CLI and API:
 
-https://github.com/HariSekhon/DevOps-Bash-tools/tree/master/jenkins
+[HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools/tree/master/jenkins)
+`jenkins/` directory.
 
 ## Jenkins Groovy
 
@@ -27,13 +28,14 @@ Some `*.groovy` scripts are mixed in between the shell scripts
 
 ## Jenkins Shared Libraries (Groovy)
 
-https://github.com/HariSekhon/Jenkins
+[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) repo.
 
 ## Jenkins on Kubernetes
 
 Configs are here:
 
-https://github.com/HariSekhon/Kubernetes-configs?tab=readme-ov-file#jenkins-on-kubernetes
+[HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs#readme)
+`jenkins/` directory
 
 ### Default Admin User + Password
 
