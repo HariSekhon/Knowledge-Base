@@ -37,18 +37,18 @@ perl -pi -e 's/OLD/NEW/g' *.txt *.yaml ...
 
 ## DevOps Perl tools
 
-https://github.com/HariSekhon/DevOps-Perl-tools
+[HariSekhon/DevOps-Perl-tools](https://github.com/HariSekhon/DevOps-Perl-tools)
 
 ## Shell scripts with Perl
 
 Shell scripts using Perl and making it easier to install Perl libraries from CPAN.
 
-https://github.com/HariSekhon/DevOps-Bash-tools
+[HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 ## Nagios Plugins in Perl
 
-https://github.com/HariSekhon/Nagios-Plugins
+[HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
 
 ## Perl Library with Unit Tests
 
-https://github.com/HariSekhon/lib
+[HariSekhon/lib](https://github.com/HariSekhon/lib)
