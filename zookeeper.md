@@ -17,6 +17,7 @@ Used by major technologies, especially Big Data technologies like HBase, Hive Hi
 - network problems often show up first as zookeeper as timeouts / connection problems
 
 ### Ports
+
 - 2181 - client
 - 3181 - quorum
 - 4181 - election
