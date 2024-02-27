@@ -1,6 +1,6 @@
 # Elasticsearch
 
-Ported from private Knowledge Base 2013+
+Distributed ring clustered search service.
 
 ## Sample Sizing
 
@@ -120,3 +120,5 @@ The Java Elasticsearch client that is routing table aware to skip one hop, equiv
 Balancer. Use this instead of a Load Balancer as it's more efficient 1 less level of network indirection.
 
 Perl CPAN [Search::Elasticsearch](https://metacpan.org/pod/Search::Elasticsearch)
+
+Ported from private Knowledge Base 2013+
