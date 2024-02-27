@@ -28,22 +28,6 @@ make  # installs CPAN dependencies on all major Linux and Mac systems
 ./solr_cli.--help
 ```
 
-## SolrCloud
-
-Clustered Solr using [ZooKeeper](https://zookeeper.apache.org/) for coordination of nodes and shards.
-
-Expect to do shard management, recoveries and ZooKeeper contents investigation.
-
-Strongly recommended that you use [Elasticsearch](elasticsearch.md) instead of SolrCloud.
-
-The problem with SolrCloud is that clustering was tacked on to classic Solr as an afterthought and it shows,
-compared to Elasticsearch where this was a primary consideration.
-
-Shard management is difficult in SolrCloud and it's common to have shard outages and shard loss requiring
-re-indexing from an external data store.
-
-You will need the [Solr CLI](#solr-cli) above. There is even a `--request-core-recovery` switch that uses an API
-endpoint that wasn't documented at the time of writing.
 
 ## Commercial Offerings
 
@@ -79,8 +63,24 @@ java -DzkHost=zk1:2181,zk2:2181,zk3:2181/solr -jar start.jar
 
 ## SolrCloud
 
+Clustered Solr using [ZooKeeper](https://zookeeper.apache.org/) for coordination of nodes and shards.
+
+Expect to do shard management, recoveries and ZooKeeper contents investigation.
+
+Strongly recommended that you use [Elasticsearch](elasticsearch.md) instead of SolrCloud.
+
+The problem with SolrCloud is that clustering was tacked on to classic Solr as an afterthought and it shows,
+compared to Elasticsearch where this was a primary consideration.
+
+Shard management is difficult in SolrCloud and it's common to have shard outages and shard loss requiring
+re-indexing from an external data store.
+
+You will need the [Solr CLI](#solr-cli) above. There is even a `--request-core-recovery` switch that uses an API
+endpoint that wasn't documented at the time of writing.
+
 - Leader uses 100 transaction log to sync replicas
 - if replicas fall too far behind leader then full replication of segments is needed instead
+
 
 - CDCR - Cross DataCenter Replication
   - https://sematext.com/blog/2016/04/20/solr-6-datacenter-replication/
@@ -109,7 +109,7 @@ java -DzkHost=zk1:2181,zk2:2181,zk3:2181/solr -jar start.jar
   - SQL Handler
   - `/solr/<collection>/select?q=<traditional_query>`
   - `/solr/<collection>/sql`
-  - request body 'stmt=<sql_query>'
+  - request body `stmt=<sql_query>`
   - request body must be urlencoded
   - Solr JDBC driver provided with SolrJ
   - GROUP BY
@@ -293,6 +293,7 @@ org.apache.solr.common.SolrException: Index locked for write for core Blah_shard
 ```
 
 FIX:
+
 - stop Solr
 - then run
 - `rm /data*/solr/*/write.lock`
