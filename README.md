@@ -67,6 +67,8 @@ button on the top right for updates.
 - Mac:
   - [Homebrew](brew.md)
 - [Diagrams](diagrams.md) - Diagrams-as-Code
+- Travel Consulting:
+  - [Mobile Travel](mobile-travel.md)
 
 TODO: hundreds more pages pending creation in this list
 
