@@ -6,7 +6,7 @@ Ported from private Knowledge Base 2013+
 
 Cluster from a bank: 470TB 88 nodes 30k events/sec
 
-##  Docker Quickstart
+## Docker Quickstart
 
 ```shell
 docker run --rm --network host -p 9200:9200 elasticsearch
