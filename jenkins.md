@@ -30,6 +30,10 @@ Some `*.groovy` scripts are mixed in between the shell scripts
 
 [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) repo.
 
+## Jenkins Google Auth Plugin
+
+[jenkinsci/google-login-plugin](https://github.com/jenkinsci/google-login-plugin) repo.
+
 ## Jenkins on Kubernetes
 
 Configs are here:
