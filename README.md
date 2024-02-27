@@ -43,12 +43,15 @@ button on the top right for updates.
 - [Git](git.md)
   - [GitHub](github.md)
   - [GitLab](gitlab.md)
+- Mac:
+  - [Homebrew](brew.md)
 - Cloud:
   - [GCP](gcp.md)
 - [Docker](docker.md)
 - [Kubernetes](kubernetes.md)
   - [ArgoCD](argocd.md)
   - [Kustomize](kustomize.md)
+- [Diagrams](diagrams.md) - Diagrams-as-Code
 - [Regular Expressions](regex.md)
 - Programming:
   - [Perl](perl.md)
@@ -65,9 +68,8 @@ button on the top right for updates.
 - Search:
   - [Solr](solr.md)
   - [Elasticsearch](elasticsearch.md)
-- Mac:
-  - [Homebrew](brew.md)
-- [Diagrams](diagrams.md) - Diagrams-as-Code
+- Big Data:
+  - [ZooKeeper](zookeeper.md)
 - Travel Consulting:
   - [Mobile Travel](mobile-travel.md)
 
