@@ -11,54 +11,26 @@
 #  https://www.linkedin.com/in/HariSekhon
 #
 
-# ===================
-# bootstrap commands:
-
-# setup/bootstrap.sh
-#
-# OR
-#
-# Alpine:
-#
-#   apk add --no-cache git make && git clone https://github.com/HariSekhon/DevOps-Python-tools pytools && cd pytools && make
-#
-# Debian / Ubuntu:
-#
-#   apt-get update && apt-get install -y make git && git clone https://github.com/HariSekhon/DevOps-Python-tools pytools && cd pytools && make
-#
-# RHEL / CentOS:
-#
-#   yum install -y make git && git clone https://github.com/HariSekhon/DevOps-Python-tools pytools && cd pytools && make
-
-# ===================
-
 ifneq ("$(wildcard bash-tools/Makefile.in)", "")
 	include bash-tools/Makefile.in
 endif
 
 REPO := HariSekhon/Docs
 
-CODE_FILES := $(shell git ls-files | grep -E -e '\.sh$$' -e '\.py$$' | sort)
+CODE_FILES := $(shell git ls-files | grep -E -e '\.md$$' | sort)
 
 .PHONY: build
 build: init
 	@echo ================
 	@echo Docs Builds
 	@echo ================
-	@$(MAKE) git-summary
 	@echo
-	# defer via external sub-call, otherwise will result in error like
-	# make: *** No rule to make target 'python-version', needed by 'build'.  Stop.
-	@$(MAKE) python-version
-
-	if [ -z "$(CPANM)" ]; then make; exit $$?; fi
-	$(MAKE) system-packages-python
-
-	# TODO: uncomment if adding requirements.txt with pip modules
-	#$(MAKE) python
+	@#$(MAKE) git-summary
+	mdl *.md
 
 .PHONY: init
 init:
+	@echo
 	@echo "running init:"
 	git submodule update --init --recursive
 	@echo
@@ -66,14 +38,6 @@ init:
 .PHONY: install
 install: build
 	@:
-
-.PHONY: python
-python:
-	@PIP=$(PIP) PIP_OPTS="--ignore-installed" bash-tools/python/python_pip_install_if_absent.sh requirements.txt
-	@echo
-	$(MAKE) pycompile
-	@echo
-	@echo 'BUILD SUCCESSFUL (Docs)'
 
 .PHONY: test
 test:
