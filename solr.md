@@ -116,6 +116,7 @@ java -DzkHost=zk1:2181,zk2:2181,zk3:2181/solr -jar start.jar
   - aggregates count / sum / min / max / avg
   - no JOIN
 
+NRT DR cross site recovery down entire cluster, 1 node per shard to ZK at other DC => replicate catch up => down + reconfigure back to local ZK and start again
 
 ### Local
 
@@ -146,7 +147,6 @@ id=<shard>!<id>
 ```
 
 
-# NRT DR cross site recovery down entire cluster, 1 node per shard to ZK at other DC => replicate catch up => down + reconfigure back to local ZK and start again
 
 ## Hadoop MapReduce Indexer to SolrCloud
 
