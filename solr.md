@@ -77,6 +77,77 @@ java -DzkHost=zk1:2181,zk2:2181,zk3:2181/solr -jar start.jar
 
 [HariSekhon/Dockerfiles - SolrCloud Dev](https://github.com/HariSekhon/Dockerfiles/tree/master/solrcloud-dev)
 
+## SolrCloud
+
+- Leader uses 100 transaction log to sync replicas
+- if replicas fall too far behind leader then full replication of segments is needed instead
+
+- CDCR - Cross DataCenter Replication
+  - https://sematext.com/blog/2016/04/20/solr-6-datacenter-replication/
+  - 6.0+
+  - stores unlimited update log
+  - 'replicator' configured on source collection sends batch updates to target collection(s)
+  - shard leader receives indexing command, processes + replicates to local replicas + writes to update log for CDCR (synchronously)
+  - async 'replicator' checks update log, if new creates batch + sends to target collection
+  - data received by target collection leaders replicated to locally at other DC using std SolrCloud replication
+  - 'replicator' batches for max scalability
+  - update log only captures new indexed docs
+  - indexing existing collection requires shutting down source cluster, copying source leader data dirs to target leader data dirs
+  - solr.CdcrRequestHandler, insert update request processor chain in UpdateHandler (see link above for details)
+  - Limitations:
+    - Active - Passive
+    - not bi-directional so no indexing if source cluster goes down (or perhaps but no replication back to original primary)
+    - shards must be manually migrated (Elasticsearch auto-migrates shards)
+  - start CDCR `http://.../<collection>/cdcr?action=START`
+  - stop CDCR `http://.../<collection>/cdcr?action=STOP`
+  - enable buffering `CDCR http://.../<collection>/cdcr?action=ENABLEBUFFER`
+  - disable buffering `CDCR http://.../<collection>/cdcr?action=DISABLEBUFFER`
+
+
+- Parallel SQL:
+  - 6.0+
+  - SQL Handler
+  - `/solr/<collection>/select?q=<traditional_query>`
+  - `/solr/<collection>/sql`
+  - request body 'stmt=<sql_query>'
+  - request body must be urlencoded
+  - Solr JDBC driver provided with SolrJ
+  - GROUP BY
+  - aggregates count / sum / min / max / avg
+  - no JOIN
+
+
+### Local
+
+zkRun uses embedded zookeeper (just for testing):
+```shell
+java -DzkRun -DnumShards=2 -Dbootstrap_confdir=$SOLR_HOME/example-solrcloud1/solr/collection1/conf -Dcollection.configName=myconf -jar start.jar
+```
+```shell
+java -Djetty.port=8984 -DzkHost=localhost:9983 -jar start.jar
+```
+Shortcut:
+```shell
+solr -e cloud -noprompt
+```
+
+info:
+```shell
+solr -i
+```
+
+```shell
+solr stop -c -all
+```
+
+Routing using Murmur hash:
+```
+id=<shard>!<id>
+```
+
+
+# NRT DR cross site recovery down entire cluster, 1 node per shard to ZK at other DC => replicate catch up => down + reconfigure back to local ZK and start again
+
 ## Hadoop MapReduce Indexer to SolrCloud
 
 ```shell
@@ -160,3 +231,87 @@ Some more things to monitor:
 - Cache hit ratios
 - Replication status
 - Synthetic queries
+
+## Troubleshooting
+
+### No Leader
+
+Shards with no filled in circle = no leader
+
+https://solr.apache.org/guide/8_7/shard-management.html#forceleader
+
+Forcing a leader election can lead to data loss:
+
+```shell
+curl "http://$HOST:8983/solr/admin/collections?action=FORCELEADER&collection=$COLLECTION&shard=$SHARD"
+```
+
+### Local Solr Restart
+
+Old script `restart_local_solr.sh` example:
+```shell
+#!/bin/bash
+set -x;
+pgrep -l -f start.jar | grep -v grep | awk '{print $2}' | xargs --no-run-if-empty kill;
+count=0;
+while ps -ef|grep start.ja[r]; do
+    let count+=1;
+    sleep 3;
+    [ $count -ge 5 ] && break;
+done;
+pgrep -l -f start.jar | grep -v grep | awk '{print $2}' | xargs --no-run-if-empty kill -9;
+rm -fv /data*/solr/*/index/write.lock
+sleep 1;
+cd /opt/solr/hdp; java -Xmx30g -XX:+UseG1GC -XX:MaxGCPauseMillis=200 -DzkHost=$SOLR_ZOOKEEPER -jar start.jar &
+exit 0
+```
+
+### Core Not Coming Up
+
+This file in the data directory needs to exist for core to come up - only created by solr script if dir doesn't already
+exists
+```
+touch /var/solr/data/<core>/core.properties
+```
+
+### CorruptIndexException
+
+This is a bug - disable HDFS write cache to work around or switch back to using local disk (faster anyway)
+```
+org.apache.solr.common.SolrException; org.apache.lucene.index.CorruptIndexException: codec header mismatch: actual header \d+ vs expected header \d+
+```
+
+
+### org.apache.solr.common.SolrException: Index locked for write
+
+After restart Solr instances, some cores don't load and you this exception.
+
+This happens because of killing Solr instance and leaving `<dataDir>/index/write.lock` files behind which prevents
+cores from loading on restart:
+```
+org.apache.solr.common.SolrException: Index locked for write for core Blah_shard3_replica2
+```
+
+FIX:
+- stop Solr
+- then run
+- `rm /data*/solr/*/write.lock`
+- start Solr
+
+### Cores not coming back online after restart
+
+Trigger recovery manually (not currently documented, but I've coded it into [solr_cli.pl](#solr-cli)):
+
+`/solr/admin/cores?action=REQUESTRECOVERY&core=<name>`
+
+### ClusterStatus / OverseerStatus 400 Bad Request error - unknown action
+
+`CLUSTERSTATUS` / `OVERSEERSTATUS` returns `400 Bad Request` `"error": { "msg": "Unknown action: CLUSTERSTATUS" }`
+
+There was a serial mismatch in logs Solr 4.10.3 vs 4.7.2 rest of cluster.
+
+### Misc
+
+- `dfs.replication` setting not respected SOLR-6305 and SOLR-6528
+- `autoAddReplicas` add 4.10 didn't work when tested in 4.10.3
+- Missing authority in path URI when using `hdfs:/tmp` => needs NN part which is the "authority" => `hdfs://nameservice1/tmp`
