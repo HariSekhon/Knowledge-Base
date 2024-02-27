@@ -13,6 +13,7 @@
 [![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Docs)
 
 [![Index](https://github.com/HariSekhon/Docs/actions/workflows/index.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/index.yaml)
+[![Markdown](https://github.com/HariSekhon/Docs/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/markdown.yaml)
 [![Validation](https://github.com/HariSekhon/Docs/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/validate.yaml)
 [![Kics](https://github.com/HariSekhon/Docs/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/kics.yaml)
 [![Grype](https://github.com/HariSekhon/Docs/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/grype.yaml)
