@@ -133,6 +133,7 @@ java -cp dist/*:contrib/map-reduce/lib/*:$(hadoop classpath) org.apache.solr.had
 ```
 
 ### HDFS Find Tool
+
 ```shell
 java -cp dist/*:contrib/map-reduce/lib/*:$(hadoop classpath) org.apache.solr.hadoop.HdfsFindTool --help
 ```
