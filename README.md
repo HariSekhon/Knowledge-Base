@@ -1,4 +1,4 @@
-# Hari Sekhon - Docs - IT Knowledge from 20 years in DevOps, Linux, Cloud, Big Data, Security, AWS, GCP etc.
+# Hari Sekhon - Docs - IT Knowledge from 20 years in DevOps, Linux, Cloud, Big Data, Security, AWS, GCP etc
 
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Docs?logo=github)](https://github.com/HariSekhon/Docs/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Docs?logo=github)](https://github.com/HariSekhon/Docs/network)
@@ -32,7 +32,7 @@ throughout where relevant.
 
 References to official docs and some classic books are provided for those who want to thoroughly cover the basics.
 
-# Index
+## Index
 
 None of these pages are complete yet, haven't ported corresponding private knowledge base pages over yet, hit the watch
 button on the top right for updates.
@@ -72,7 +72,7 @@ button on the top right for updates.
 
 TODO: hundreds more pages pending creation in this list
 
-# See Also
+## See Also
 
 For tonnes of great free tech programs and scripts, see also:
 
