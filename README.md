@@ -12,6 +12,7 @@
 [![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Docs)
 [![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Docs)
 
+[![Index](https://github.com/HariSekhon/Docs/actions/workflows/index.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/index.yaml)
 [![Validation](https://github.com/HariSekhon/Docs/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/validate.yaml)
 [![Kics](https://github.com/HariSekhon/Docs/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/kics.yaml)
 [![Grype](https://github.com/HariSekhon/Docs/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/grype.yaml)
@@ -41,6 +42,8 @@ button on the top right for updates.
 - [Git](git.md)
   - [GitHub](github.md)
   - [GitLab](gitlab.md)
+- Cloud:
+  - [GCP](gcp.md)
 - [Docker](docker.md)
 - [Kubernetes](kubernetes.md)
   - [ArgoCD](argocd.md)
@@ -50,7 +53,7 @@ button on the top right for updates.
   - [Perl](perl.md)
   - [Python](python.md)
   - [Groovy](groovy.md)
-  - [Java JVM Performance Tuning](java-jvm-performance-tuning)
+  - [Java JVM Performance Tuning](java-jvm-performance-tuning.md)
 - [Ansible](ansible.md)
 - CI/CD:
   - [Jenkins](jenkins.md)
@@ -58,6 +61,11 @@ button on the top right for updates.
   - [GitLab CI](gitlab-ci.md)
   - [CircleCI](circleci.md)
   - [TravisCI](travis.md)
+- Search:
+  - [Solr](solr.md)
+  - [Elasticsearch](elasticsearch.md)
+- Mac:
+  - [Homebrew](brew.md)
 - [Diagrams](diagrams.md) - Diagrams-as-Code
 
 TODO: hundreds more pages pending creation in this list
