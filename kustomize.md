@@ -2,13 +2,13 @@
 
 [Kustomize](https://kustomize.io/) is the standard build tool for Kubernetes manifest aggregation and patching.
 
-# Install
+## Install
 
 ```shell
 curl -s "https://raw.githubusercontent.com/kubernetes-sigs/kustomize/master/hack/install_kustomize.sh"  | bash
 ```
 
-# Commands
+## Commands
 
 `cd` to a directory with `kustomization.yaml`, then run:
 
@@ -60,7 +60,7 @@ Helm manifests.
 
 This makes Helm becomes fully self-healing GitOps.
 
-## Template `kustomization.yaml`:
+## Template `kustomization.yaml`
 
 [HariSekhon/Kubernetes-configs - kustomization.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/kustomization.yaml)
 
