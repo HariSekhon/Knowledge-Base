@@ -8,7 +8,7 @@ It has good feature parity with GitHub.com, although less 3rd party CI/CD integr
 
 ## GitLab CLI
 
-[Install doc](https://gitlab.com/gitlab-org/cli)
+[Install doc](https://gitlab.com/gitlab-org/cli/-/blob/main/README.md#installation)
 
 On Mac using [Homebrew](brew.md):
 ```shell
