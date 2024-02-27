@@ -28,7 +28,7 @@ such as custom ingresses and manage them all in a single ArgoCD app in a GitOps 
 
 [App Config Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/app.yaml)
 
-## GitOps ArgoCD itself:
+## GitOps ArgoCD itself
 
 [ArgoCD Self-Managing App Config](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/self.yaml)
 
@@ -48,6 +48,6 @@ such as custom ingresses and manage them all in a single ArgoCD app in a GitOps 
 
 [GitHub Webhooks Integration Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/secret.github-webhook.patch.yaml)
 
-## ArgoCD & Kubernetes Scripts:
+## ArgoCD & Kubernetes Scripts
 
 [DevOps-Bash-tools - Kubernetes section](https://github.com/HariSekhon/DevOps-Bash-tools#kubernetes)
