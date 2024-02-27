@@ -6,6 +6,31 @@ GitLab is the number 2 hosting provider for Git repos after [GitHub](github.md)
 
 It has good feature parity with GitHub.com, although less 3rd party CI/CD integrations as everybody integrates to GitHub first .
 
+## GitLab CLI
+
+[Install doc](https://gitlab.com/gitlab-org/cli)
+
+On Mac using [Homebrew](brew.md):
+```shell
+brew install glab
+```
+
+```shell
+glab --help
+```
+
+Various GitLab CLI scripts are in [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo.
+
+Script to download latest binary from GitLab to `/usr/local/bin` or `$HOME/bin`:
+
+```shell
+git clone https://github.com/HariSekhon/DevOps-Bash-tools bash-tools
+cd bash-tools
+```
+```shell
+install/install_gitlab_cli.sh
+```
+
 ## GitLab CI/CD
 
 Create a `.gitlab-ci.yml` into the root directory of your git repo, then `git push` to GitLab.
