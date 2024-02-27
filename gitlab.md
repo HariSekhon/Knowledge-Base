@@ -31,6 +31,19 @@ cd bash-tools
 install/install_gitlab_cli.sh
 ```
 
+## GitLab CLI and API auth
+
+For the `glab` CLI above and the `gitlab_api.sh` script in the
+[DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo, create a Personal Access Token here:
+
+[GitLab -> Preferences -> Access Tokens](https://gitlab.com/-/user_settings/personal_access_tokens)
+
+The add this to your shell / Bash profile:
+
+```shell
+export GITLAB_TOKEN=...
+```
+
 ## GitLab CI/CD
 
 Create a `.gitlab-ci.yml` into the root directory of your git repo, then `git push` to GitLab.
