@@ -70,6 +70,8 @@ button on the top right for updates.
   - [Elasticsearch](elasticsearch.md)
 - Big Data:
   - [ZooKeeper](zookeeper.md)
+- [Virtualization](virtualization.md)
+- [Open Source](open-source.md)
 - Travel Consulting:
   - [Mobile Travel](mobile-travel.md)
 
