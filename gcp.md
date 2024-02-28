@@ -76,6 +76,14 @@ Use this if you are running a script like a Solr create collections against the 
 gcloud compute instances list --filter="name ~ ^${VM_NAME}$" --format='get(networkInterfaces[0].networkIP)'
 ```
 
+## Get the names + IPs of all or a selection of VMs by regex name match
+
+Clone [DevOps-Bash-tools](devops-bash-tools.md), then:
+
+```shell
+gcp/gce_host_ips.sh <optional_regex>
+```
+
 ## Get the IP of a random node in a cluster
 
 Useful if you're running `curl` commands against an Elasticsearch or SolrCloud cluster.
