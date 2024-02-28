@@ -1,6 +1,6 @@
 # AWS - Amazon Web Services
 
-## DevOps Bash tools for AWS, EKS, EC2 etc.
+## DevOps Bash tools for AWS, EKS, EC2 etc
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
