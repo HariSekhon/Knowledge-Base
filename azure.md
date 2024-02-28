@@ -12,6 +12,7 @@ which auto-detects and handles Mac or Linux:
 ```shell
 git clone https://github.com/HariSekhon/DevOps-Bash-tools
 ```
+
 ```shell
 bash-tools/install/install_azure_cli.sh
 ```
