@@ -61,7 +61,7 @@ jobs:
       - name: Check all *.md are in the README.md
         run: |
           exitcode=0
-          for file_md in $(git grep -Eoh --max-depth 1 '[a-z]+\.md' | sort -u);
+          for file_md in $(git grep -Eoh --max-depth 1 '\([[:alnum:]_-]+\.md' | sed 's/^(//' | sort -u); do
             if ! [ -f "$file_md" ]; then
               echo "referenced but file not found: $file_md"; done
               exitcode=1
