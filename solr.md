@@ -316,3 +316,5 @@ There was a serial mismatch in logs Solr 4.10.3 vs 4.7.2 rest of cluster.
 - `dfs.replication` setting not respected SOLR-6305 and SOLR-6528
 - `autoAddReplicas` add 4.10 didn't work when tested in 4.10.3
 - Missing authority in path URI when using `hdfs:/tmp` => needs NN part which is the "authority" => `hdfs://nameservice1/tmp`
+
+Partial port from private Knowledge Base 2013+
