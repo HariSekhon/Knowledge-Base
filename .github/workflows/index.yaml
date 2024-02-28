@@ -61,10 +61,10 @@ jobs:
       - name: Check all *.md are in the README.md
         run: |
           exitcode=0
-          for x in *.md; do
-            [ "$x" = README.md ] && continue
-            if ! grep -q "$x" README.md; then
-              echo "$x not in README.md"
+          for file_md in *.md; do
+            [ "$file_md" = README.md ] && continue
+            if ! grep -q "$file_md" README.md; then
+              echo "$file_md not in README.md"
               exitcode=1
             fi
           done
