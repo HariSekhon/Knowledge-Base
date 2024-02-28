@@ -15,3 +15,9 @@
 
 [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#kubernetes)
 `kubernetes/` directory.
+
+## Kubernetes `.envrc`
+
+See [.envrc](envrc.md)
+
+Partial port from private Knowledge Base 2015+
