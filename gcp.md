@@ -81,7 +81,7 @@ gcloud compute instances list --filter="name ~ ^${VM_NAME}$" --format='get(netwo
 Useful if you're running `curl` commands against an Elasticsearch or SolrCloud cluster.
 
 ```shell
-gcloud compute instances list --filter='name ~ ^${VM_NAME_PATTERN}$' --format='get(networkInterfaces[0].networkIP)' | shuf | head -n1
+gcloud compute instances list --filter="name ~ ^${VM_NAME_PATTERN}$" --format='get(networkInterfaces[0].networkIP)' | shuf | head -n1
 ```
 
 ## Get the IP address of a Load Balancer
