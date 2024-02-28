@@ -27,12 +27,14 @@ on:
       - main
     paths:
       - '**/*.md'
+      - .github/workflows/index.yaml
   pull_request:
     branches:
       - master
       - main
     paths:
       - '**/*.md'
+      - .github/workflows/index.yaml
   workflow_dispatch:
 
 permissions:
