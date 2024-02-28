@@ -26,7 +26,24 @@ build: init
 	@echo ================
 	@echo
 	@#$(MAKE) git-summary
+	@$(MAKE) index
+	@$(MAKE) mdl
+
+.PHONY: mdl
+mdl:
 	mdl *.md
+
+.PHONY: index
+index:
+	  @exitcode=0; \
+	  for x in *.md; do \
+		[ "$$x" = README.md ] && continue; \
+		if ! grep -q "$$x" README.md; then \
+		  echo "$$x not in README.md"; \
+		  exitcode=1; \
+		fi; \
+	  done; \
+	  exit $$exitcode
 
 .PHONY: init
 init:
