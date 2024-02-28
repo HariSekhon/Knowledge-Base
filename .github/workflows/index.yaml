@@ -55,6 +55,9 @@ jobs:
     timeout-minutes: 3
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+        #name: Git Checkout  # better to show the action@version
+
       - name: Check all *.md are in the README.md
         run: |
           exitcode=0
