@@ -28,7 +28,7 @@ Run the `eks_kube_creds.sh` script from the DevOps-Bash-tools repo's `aws/` dire
 This will find and configure all your kubernetes clusters in the current AWS account.
 
 ```shell
-eks_kube_creds.sh
+aws_kube_creds.sh
 ```
 
 ```shell
