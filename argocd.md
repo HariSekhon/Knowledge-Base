@@ -52,4 +52,4 @@ such as custom ingresses and manage them all in a single ArgoCD app in a GitOps 
 
 [DevOps-Bash-tools - Kubernetes section](https://github.com/HariSekhon/DevOps-Bash-tools#kubernetes)
 
-###### Partial port from private Knowledge Base 2021+
+###### Partial port from private Knowledge Base page 2021+
