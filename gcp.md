@@ -59,7 +59,7 @@ gcloud compute instances describe "$VM"
 
 First set up your GCloud SDK CLI as above.
 
-Run the `gke_kube_creds.sh` script from the DevOps-Bash-tools repo's `gcp` directory.
+Run the `gke_kube_creds.sh` script from the DevOps-Bash-tools repo's `gcp/` directory.
 
 This will find and configure all your kubernetes clusters in the current project.
 
@@ -80,6 +80,8 @@ kubectl config use-context <name>
 ```shell
 kubectl get pods --all-namespaces
 ```
+
+Then see [Kubernetes](kubernetes.md) for configs, scripts and `.envrc`.
 
 ## See all the details you can query for a VM
 
@@ -140,3 +142,5 @@ Notice the filestore name is in format `projects/<PROJECT_ID>/locations/europe-w
 ```shell
 gcloud filestore instances list --filter="name ~ /${FILESTORE_NAME}$" --format='value(networks[0].ipAddresses[0])'
 ```
+
+Partial port from private Knowledge Base 2015+
