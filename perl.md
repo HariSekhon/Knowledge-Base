@@ -52,3 +52,5 @@ Shell scripts using Perl and making it easier to install Perl libraries from CPA
 ## Perl Library with Unit Tests
 
 [HariSekhon/lib](https://github.com/HariSekhon/lib)
+
+Partial port from private Knowledge Base 2009+
