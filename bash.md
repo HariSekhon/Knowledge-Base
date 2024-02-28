@@ -113,7 +113,7 @@ nl
 
 ### Miscellaneous
 
-`!n` - re-runs command number `n` from the `history`
-`!$` - the last argument of the previous command, usually a filename from a previous command. Useful to run another
+- `!n` - re-runs command number `n` from the `history`
+- `!$` - the last argument of the previous command, usually a filename from a previous command. Useful to run another
 command on the previous file operated on
-`!:n*` - takes the Nth arg to the end from the last command
+- `!:n*` - takes the Nth arg to the end from the last command
