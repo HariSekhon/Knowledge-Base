@@ -1,6 +1,6 @@
 # Azure
 
-## DevOps Bash tools for Azure, AKS, VMs etc.
+## DevOps Bash tools for Azure, AKS, VMs etc
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
