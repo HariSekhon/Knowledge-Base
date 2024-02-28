@@ -14,6 +14,7 @@
 
 [![Index](https://github.com/HariSekhon/Docs/actions/workflows/index.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/index.yaml)
 [![Markdown](https://github.com/HariSekhon/Docs/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/markdown.yaml)
+[![Markdown References](https://github.com/HariSekhon/Docs/actions/workflows/markdown_references.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/markdown_references.yaml)
 [![Validation](https://github.com/HariSekhon/Docs/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/validate.yaml)
 [![Kics](https://github.com/HariSekhon/Docs/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/kics.yaml)
 [![Grype](https://github.com/HariSekhon/Docs/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/grype.yaml)
