@@ -70,6 +70,14 @@ use it:
 bash-tools/gcp/gcp_ansible_create_credential.sh
 ```
 
+### IAP Performance
+
+IAP performance is terrible. Much faster to use direct SSH which often requires populating your `/etc/hosts` with
+the VM to IP mappings and preloading the SSH in `~/.ssh/known_hosts`.
+
+See the `gce_host_ip.sh` and `gce_ssh_keyscan.sh` scripts in the
+[DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#gcp---google-cloud-platform) repo.
+
 ## Performance
 
 `ansible.builtin.copy` results in small files copying performance problems.
