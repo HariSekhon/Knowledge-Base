@@ -49,4 +49,4 @@ kubectl get pods --all-namespaces
 
 Then see [Kubernetes](kubernetes.md) for configs, scripts and `.envrc`.
 
-###### Partial port from private Knowledge Base 2017+
+###### Partial port from private Knowledge Base page 2017+
