@@ -31,19 +31,21 @@ build: init
 
 .PHONY: mdl
 mdl:
-	mdl *.md
+	@echo "Checking Markdown for issues"
+	@mdl *.md
 
 .PHONY: index
 index:
-	  @exitcode=0; \
-	  for x in *.md; do \
+	@echo "Checking all *.md files are in the README.md index"
+	@exitcode=0; \
+	for x in *.md; do \
 		[ "$$x" = README.md ] && continue; \
 		if ! grep -q "$$x" README.md; then \
-		  echo "$$x not in README.md"; \
-		  exitcode=1; \
+			echo "$$x not in README.md"; \
+			exitcode=1; \
 		fi; \
-	  done; \
-	  exit $$exitcode
+	done; \
+	exit $$exitcode
 
 .PHONY: init
 init:
