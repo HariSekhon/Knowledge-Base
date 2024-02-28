@@ -65,4 +65,4 @@ Curator is to ZooKeeper what Guava is to Java, written by Netflix
 
 http://curator.apache.org/
 
-Partial port from private Knowledge Base 2012+
+###### Partial port from private Knowledge Base 2012+
