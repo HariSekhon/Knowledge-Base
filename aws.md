@@ -12,6 +12,7 @@ or paste this to run an automated install script which auto-detects and handles 
 ```shell
 git clone https://github.com/HariSekhon/DevOps-Bash-tools
 ```
+
 ```shell
 bash-tools/install/install_aws_cli.sh
 ```
