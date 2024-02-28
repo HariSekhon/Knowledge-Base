@@ -50,7 +50,9 @@ button on the top right for updates.
 - Mac:
   - [Homebrew](brew.md)
 - Cloud:
+  - [AWS](aws.md)
   - [GCP](gcp.md)
+  - [Azure](azure.md)
 - [Docker](docker.md)
 - [Kubernetes](kubernetes.md)
   - [ArgoCD](argocd.md)
