@@ -244,7 +244,7 @@ SSH to the given address on the last line.
 From [DevOps-Python-tools](devops-python-tools.md) repo:
 
 - [travis_debug_session.py](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/travis_debug_session.py)
-  - automate initiating a Travis CI interactive debug build session via the Travis API
+  - automates creating a Travis CI interactive debug build session via the Travis API
   - tracks the creation of the debug build, parses the log and drops you in to the unique SSH shell login as soon as it's available
 - [travis_last_log.py](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/travis_last_log.py)
   - automates fetching the last running / completed / failed build log from Travis CI via the Travis API
