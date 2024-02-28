@@ -46,7 +46,7 @@ concurrency:
 
 defaults:
   run:
-    shell: bash -euxo pipefail {0}
+    shell: bash -euo pipefail {0}
 
 jobs:
   markdown-references:
