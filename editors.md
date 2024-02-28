@@ -9,8 +9,8 @@
   - see my advanced [.vimrc](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.vimrc) for all
     sorts of trips & tricks, hotkey linting and building, plugins etc.
 - Emacs - the other classic unix editor
-- Nano - simple editor
-- Pico - simple editor
+- Nano - simple editor, used by people scare of `vi`
+- Pico - simple editor from which Nano was forked
 
 ## IDEs
 
