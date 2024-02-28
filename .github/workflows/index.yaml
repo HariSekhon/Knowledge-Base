@@ -15,7 +15,7 @@
 #                                   I n d e x
 # ============================================================================ #
 
-# Run all custom validations against files in the repo
+# Check all .md files are referenced in the README.md index
 
 ---
 name: Index
