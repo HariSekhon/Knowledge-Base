@@ -47,11 +47,11 @@ defaults:
     shell: bash -euxo pipefail {0}
 
 jobs:
-  index-check:
+  markdown-references:
     # github.event.repository context not available in scheduled workflows
     #if: github.event.repository.fork == false
     if: github.repository_owner == 'HariSekhon'
-    name: Index Check
+    name: References Check
     timeout-minutes: 3
     runs-on: ubuntu-latest
     steps:
