@@ -61,7 +61,7 @@ jobs:
       - name: Check all *.md are in the README.md
         run: |
           exitcode=0
-          for x in $(find . -type f -iname '*.md'); do
+          for x in *.md; do
             [ "$x" = README.md ] && continue
             if ! grep -q "$x" README.md; then
               echo "$x not in README.md"
