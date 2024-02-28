@@ -33,9 +33,13 @@ This is the neutered regex that old grep uses.
 
 ## ERE - Extended Regular Expressions
 
-Slightly better than BRE but still weak & awkward compared to PCRE
+Slightly better than BRE but still weak & awkward compared to PCRE.
 
-Grep on most systems can support ERE via the `grep -E` switch.
+Don't support back references.
+
+Grep on most systems can support EREs via the `grep -E` switch.
+
+Awk also uses EREs.
 
 ## Core Reading
 
