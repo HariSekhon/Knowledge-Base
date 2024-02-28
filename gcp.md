@@ -53,7 +53,9 @@ gcloud compute instances describe "$VM"
 
 ## Set up access to GKE - Google Kubernetes Engine
 
-Run this script from the DevOps-Bash-tools repo's `gcp` directory.
+First set up your GCloud SDK CLI as above.
+
+Run the `gke_kube_creds.sh` script from the DevOps-Bash-tools repo's `gcp` directory.
 
 This will find and configure all your kubernetes clusters in the current project.
 
