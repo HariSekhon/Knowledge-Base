@@ -85,9 +85,13 @@ See the `gce_host_ip.sh` and `gce_ssh_keyscan.sh` scripts in the
 Replace it with `ansible.posix.synchronize`. This can make a huge time difference of around 4-10x in a production code
 base where I was doing this for SolrCloud clusters.
 
-It takes the same `src` / `dest` / `owner` / `group` / `mode` parameters, so you should be able to just change this line
-across your code base like so:
-
 ```shell
 perl -pi -e 's/ansible.builtin.copy/ansible.posix.synchronize/' $(git grep -l ansible.builtin.copy)
+```
+
+`ansible.posix.synchronize` takes the same `src` / `dest` as `ansible.builtin.copy` but the `owner` /
+`group` / `mode` parameters are different and need to be commented out to avoid these sorts of errors:
+
+```shell
+fatal: [myhost]: FAILED! => {"changed": false, "msg": "argument 'owner' is of type <class 'str'> and we were unable to convert to bool: The value 'solr' is not a valid boolean.  Valid booleans include: 'y', 1, 0, 'f', 'false', '0', '1', 'n', 'off', 'true', 'on', 't', 'no', 'yes'"}
 ```
