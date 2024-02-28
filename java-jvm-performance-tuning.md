@@ -78,4 +78,4 @@ Internally it tweaks other knobs, but will miss its pause targets if you run lar
 
 ![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/opentsdb_kubernetes_hbase.svg)
 
-###### Partial port from private Knowledge Base 2011+
+###### Partial port from private Knowledge Base page 2011+
