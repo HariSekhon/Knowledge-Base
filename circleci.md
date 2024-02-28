@@ -2,12 +2,11 @@
 
 https://circleci.com/
 
-
-One of the OG hosted CI/CD systems.
+One of the original hosted CI/CD systems.
 
 Good UI but expensive, and undercut by GitHub Actions.
 
-Not good for multi-jobs per repo compared to [GitHub Actions](actions.md) which has overtaken it.
+Not good for multi-jobs per repo compared to [GitHub Actions](github-actions.md) which has overtaken it.
 
 Docker Layer Caching costs 200 credits per job - 20 minutes of build time charges to save 3-5 minutes of actual
 Docker building in-job. WTF.
