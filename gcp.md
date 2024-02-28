@@ -1,6 +1,6 @@
 # GCP - Google Cloud Platform
 
-## DevOps Bash tools for GCP, GKE, GCE etc.
+## DevOps Bash tools for GCP, GKE, GCE etc
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
