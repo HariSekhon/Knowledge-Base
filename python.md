@@ -27,4 +27,4 @@ Shell scripts using Python and making it easier to install Python pip libraries 
 
 [HariSekhon/pylib](https://github.com/HariSekhon/pylib)
 
-###### Partial port from private Knowledge Base 2008+
+###### Partial port from private Knowledge Base page 2008+
