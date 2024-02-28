@@ -27,12 +27,14 @@ on:
       - main
     paths:
       - '**/*.md'
+      - .github/workflows/markdown_references.yaml
   pull_request:
     branches:
       - master
       - main
     paths:
       - '**/*.md'
+      - .github/workflows/markdown_references.yaml
   workflow_dispatch:
 
 permissions:
