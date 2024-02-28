@@ -1,5 +1,9 @@
 # GCP - Google Cloud Platform
 
+## DevOps Bash tools for GCP, GKE, GCE etc.
+
+[HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
+
 ## Install GCloud SDK CLI
 
 Follow the [install doc](https://cloud.google.com/sdk/docs/install) or paste this to run an automated install script
