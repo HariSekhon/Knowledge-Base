@@ -108,3 +108,5 @@ Execute in Script Console at `$JENKINS_URL/script`:
 ```groovy
 org.jenkinsci.plugins.durabletask.BourneShellScript.LAUNCH_DIAGNOSTICS=true
 ```
+
+Partial port from private Knowledge Base 2013+
