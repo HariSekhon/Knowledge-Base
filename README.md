@@ -26,7 +26,7 @@ Work in progress to gradually migrate my huge private personal knowledge base in
 
 Star and watch for updates.
 
-This repo focuses on advanced knowledge, tips & tricks, troubleshoot, fixes, debugging etc.
+This repo focuses on advanced knowledge, tips & tricks, performance, troubleshooting, debugging & fixes.
 
 Much more advanced knowledge is captured in code and code comments. References to my major
 [GitHub Repos](https://github.com/HariSekhon?tab=repositories&q=&type=&language=&sort=stargazers) are provided
@@ -80,6 +80,7 @@ button on the top right for updates.
 - Big Data:
   - [ZooKeeper](zookeeper.md)
 - [Virtualization](virtualization.md)
+  - [Vagrant](vagrant.md)
 - [Open Source](open-source.md)
 - [DevOps-Bash-tools](devops-bash-tools.md)
 - [DevOps-Python-tools](devops-python-tools.md)
