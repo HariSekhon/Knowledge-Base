@@ -26,8 +26,12 @@ build: init
 	@echo ================
 	@echo
 	@#$(MAKE) git-summary
+	@echo
 	@$(MAKE) index
+	@echo
 	@$(MAKE) mdl
+	@echo
+	@echo "All Checks Passed"
 
 .PHONY: mdl
 mdl:
