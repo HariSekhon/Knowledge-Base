@@ -19,7 +19,7 @@ possibly using the `install/install*.sh` scripts.
 make
 ```
 
-OR individual install only the individual bits you need for a specific script you want to run:
+OR install only the individual bits you need for a specific script you want to run:
 
 ```shell
 install/install_aws_cli.sh
@@ -33,7 +33,7 @@ install/install_homebrew.sh
 brew install jq
 ```
 
-Now run whatever script you came for...
+Now run whichever script you came for...
 
 ## Configs
 
