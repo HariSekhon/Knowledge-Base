@@ -26,3 +26,5 @@ Shell scripts using Python and making it easier to install Python pip libraries 
 ## Python Library with Unit Tests
 
 [HariSekhon/pylib](https://github.com/HariSekhon/pylib)
+
+Partial port from private Knowledge Base 2008+
