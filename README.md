@@ -75,6 +75,7 @@ button on the top right for updates.
   - [ZooKeeper](zookeeper.md)
 - [Virtualization](virtualization.md)
 - [Open Source](open-source.md)
+- [DevOps-Bash-tools](devops-bash-tools.md)
 - Travel Consulting:
   - [Mobile Travel](mobile-travel.md)
 
