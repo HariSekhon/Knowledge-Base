@@ -369,4 +369,4 @@ git clone https://github.com/HariSekhon/DevOps-Bash-tools bash-tools
 bash-tools/git/git_filter_repo_replace_text.sh --help  # for details
 ```
 
-Partial port from private Knowledge Base 2012+
+###### Partial port from private Knowledge Base 2012+
