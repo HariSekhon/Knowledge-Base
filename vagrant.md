@@ -134,4 +134,4 @@ Mount `/vagrant` manually if it doesn't auto-mount:
 sudo mount -t vboxsf v-root /vagrant/
 ```
 
-###### Port from private Knowledge Base page 2013+
+###### Ported from private Knowledge Base page 2013+
