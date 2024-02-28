@@ -67,3 +67,5 @@ This makes Helm becomes fully self-healing GitOps.
 ## Kubernetes Kustomizations and Configs
 
 [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) repo.
+
+###### Partial port from private Knowledge Base 2020+
