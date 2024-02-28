@@ -51,6 +51,30 @@ Check you can see it under metadata ssh-keys
 gcloud compute instances describe "$VM"
 ```
 
+## Set up access to GKE - Google Kubernetes Engine
+
+Run this script from the DevOps-Bash-tools repo's `gcp` directory.
+
+This will find and configure all your kubernetes clusters in the current project.
+
+```shell
+gke_kube_creds.sh
+```
+
+```shell
+kubectl config get-contexts
+```
+
+switch to the cluster you want:
+
+```shell
+kubectl config use-context <name>
+```
+
+```shell
+kubectl get pods --all-namespaces
+```
+
 ## See all the details you can query for a VM
 
 See `gcloud topic filters` for the details on the `--filter` matching.
