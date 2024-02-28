@@ -63,7 +63,7 @@ jobs:
           exitcode=0
           for file_md in $(git grep -Eoh --max-depth 1 '\([[:alnum:]_-]+\.md' | sed 's/^(//' | sort -u); do
             if ! [ -f "$file_md" ]; then
-              echo "referenced but file not found: $file_md"; done
+              echo "referenced but file not found: $file_md"
               exitcode=1
             fi
           done
