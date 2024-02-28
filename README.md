@@ -38,8 +38,11 @@ References to official docs and some classic books are provided for those who wa
 None of these pages are complete yet, haven't ported corresponding private knowledge base pages over yet, hit the watch
 button on the top right for updates.
 
-- [Bash](bash.md)
+- Shell:
+  - [Bash](bash.md)
   - [.envrc / direnv](envrc.md)
+  - [Make](make.md)
+  - [Editors](editors.md)
 - [Git](git.md)
   - [GitHub](github.md)
   - [GitLab](gitlab.md)
