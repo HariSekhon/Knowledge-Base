@@ -55,3 +55,5 @@ Template to get you started:
 ## GitLab Official CI/CD Library
 
 [GitLab CI Library](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/ci)
+
+Partial port from private Knowledge Base 2012+
