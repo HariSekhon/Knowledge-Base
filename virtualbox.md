@@ -67,20 +67,20 @@ nameserver 10.0.2.3
 
 This allows for:
 
-1. mouse pointer integration with GUI VMs
-2. Shared Folders for sharing a directory between your host desktop / laptop which appears as a mount point in the VM for easy file transfers
-3. Software shutdowns (ACPI)
+1. Mouse pointer integration with GUI VMs
+1. Shared Folders for sharing a directory between your host desktop / laptop which appears as a mount point in the VM
+   for easy file transfers
+1. Software shutdowns (ACPI)
 
 To install, either:
 
 1. mount the in-built guest additions ISO in the VM via the VirtualBox GUI
-2. or dump guest additions iso file from a system with a desktop manager, then `mount /dev/sr0` inside the VM
+1. or dump guest additions iso file from a system with a desktop manager, then `mount /dev/sr0` inside the VM
 
 Then run the installer file inside the VM where the guest additions virtual CD is mounted (`/mnt/VBoxLinuxAdditions.run`).
 
 Broken on newer Ubuntu 14, may need to upgrade VirtualBox but this will break Vagrant:
 ```shell
-{
 if which yum; then
   yum install -y make gcc kernel-headers-`uname -r` kernel-devel-`uname -r`
 elif grep -i ubuntu /etc/*release;then
@@ -89,19 +89,29 @@ elif grep -i ubuntu /etc/*release;then
   apt-get install -y gcc kernel-devel
   apt-get install -y build-essential module-assistant
 fi
-} &&
-# Needed to open with GUI in VBox and click install guest additions
+```
+
+Needed to open with GUI in VBox and click install guest additions
+
+```shell
 {
   mount /dev/sr0   /mnt ||    # CentOS6
   mount /dev/cdrom /mnt       # CentOS5
 } &&
 /mnt/VBoxLinuxAdditions.run
+```
 
-lsmod | grep -i vbox ||
-# if no kernel modules loaded
-/etc/init.d/vboxadd setup
+Load kernel modules if not already loaded:
 
+```shell
+lsmod | grep -i vbox || /etc/init.d/vboxadd setup
+```
+
+Start VirtualBox Guest Additions service if not already started:
+
+```shell
 ps -ef | grep -i vbo[x] || /etc/init.d/vboxadd-service start
+```
 
 /etc/init.d/vboxadd-service status
 ```
@@ -113,7 +123,7 @@ VBoxManage internalcommands createrawvmdk -filename usb.vmdk -rawdisk /dev/disk2
 ```
 then add vmdk to VM storage controller in VirtualBox GUI settings.
 
-# Reclaim Disk Space
+## Reclaim Disk Space
 
 First zero out free disk space. This doesn't actually consume space VirtualBox must be smart about not writing zeros
 
@@ -267,9 +277,9 @@ None of that worked - it turns out there was a pop-up window still open behind o
 
 ### To use `/root` home directory
 
-  - .ssh/id_rsa private keys don't work without tight permissions
-  - 0077 didn't work for umask, use 077
-  - mount -t vboxsf umask=077,uid=0,gid=0 SharedFolder /SharedFolder
+- .ssh/id_rsa private keys don't work without tight permissions
+- 0077 didn't work for umask, use 077
+- mount -t vboxsf umask=077,uid=0,gid=0 SharedFolder /SharedFolder
 
 ## Upgrades
 
