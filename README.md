@@ -26,7 +26,7 @@ Work in progress to gradually migrate my huge private personal knowledge base in
 
 Star and watch for updates.
 
-This repo focuses on advanced knowledge, tips & tricks, performance, troubleshooting, debugging & fixes.
+This repo focuses on advanced knowledge, tips & tricks, performance tuning, troubleshooting, debugging & fixes.
 
 Much more advanced knowledge is captured in code and code comments. References to my major
 [GitHub Repos](https://github.com/HariSekhon?tab=repositories&q=&type=&language=&sort=stargazers) are provided
