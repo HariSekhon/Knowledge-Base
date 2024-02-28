@@ -35,6 +35,11 @@ Create your `Vagrantfile` from the templates above with the VMs, settings and pr
 cd somedir/  # which contains a Vagrantfile
 ```
 
+Boots the VM(s) specified in the `Vagrantfile` from the base box image(s), configures it with the settings and runs the
+provisioning
+scripts / Puppet /
+Ansible etc:
+
 ```shell
 vagrant up
 ```
