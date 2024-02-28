@@ -54,6 +54,7 @@ button on the top right for updates.
   - [GCP](gcp.md)
   - [Azure](azure.md)
 - [Docker](docker.md)
+  - [Dockerfile](dockerfile.md)
 - [Kubernetes](kubernetes.md)
   - [ArgoCD](argocd.md)
   - [Kustomize](kustomize.md)
@@ -71,6 +72,8 @@ button on the top right for updates.
   - [GitLab CI](gitlab-ci.md)
   - [CircleCI](circleci.md)
   - [TravisCI](travis.md)
+- Internet:
+  - [Cloudflare](cloudflare.md)
 - Search:
   - [Solr](solr.md)
   - [Elasticsearch](elasticsearch.md)
@@ -79,6 +82,8 @@ button on the top right for updates.
 - [Virtualization](virtualization.md)
 - [Open Source](open-source.md)
 - [DevOps-Bash-tools](devops-bash-tools.md)
+- [DevOps-Python-tools](devops-python-tools.md)
+- [DevOps-Perl-tools](devops-perl-tools.md)
 - Travel Consulting:
   - [Mobile Travel](travel-consulting.md)
 
