@@ -25,6 +25,8 @@ Scripts for common Jenkins operations using the Jenkins CLI and API:
 
 ## Jenkins Plugins
 
+https://plugins.jenkins.io/
+
 Plugins are the greatest strength and weakness of Jenkins, depending on how you look at it.
 
 Jenkins has all of the power but also the complexity of managing the extensions, additional configuration and plugin
@@ -101,6 +103,26 @@ jenkins/jenkins.sh
 [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs#jenkins-on-kubernetes)
 
 Configs are in the `jenkins/` directory.
+
+You're probably going to need a bigger node pool for the server.
+
+Create a small pool with 16GB nodes because Jenkins server frequently scales past 6GB and doesn't schedule on
+`e2-standard-2` (8GB RAM) so use `e2-standard-4` (16GB RAM):
+
+```shell
+gcloud beta container node-pools create "jenkins" \
+    --cluster "$CLOUDSDK_CONTAINER_CLUSTER" \
+    --machine-type "e2-standard-4" \
+    --num-nodes "1" \
+    --enable-autoscaling \
+    --min-nodes "0" \
+    --max-nodes "1" \
+    --location-policy "BALANCED" \
+    --enable-autoupgrade \
+    --enable-autorepair \
+    --max-surge-upgrade 1 \
+    --max-unavailable-upgrade 0
+```
 
 ### Default Admin User + Password
 
