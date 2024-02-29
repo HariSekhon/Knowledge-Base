@@ -253,7 +253,7 @@ output from a live GKE cluster:
 [KO] Storage provisioner is supported - Please create a storage class using the disk type 'pd-ssd'
 ```
 
-# Jenkins X
+## Jenkins X
 
 https://jenkins-x.io/
 
