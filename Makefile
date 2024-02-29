@@ -28,26 +28,40 @@ build: init
 	@$(MAKE) git-summary
 	@echo
 	@$(MAKE) index
-	@echo
 	@$(MAKE) mdl
-	@echo
+	@$(MAKE) references
 	@echo "All Checks Passed"
 
 .PHONY: mdl
 mdl:
 	@echo "Checking Markdown for issues"
+	@echo
 	@mdl *.md
 
 .PHONY: index
 index:
 	@echo "Checking all *.md files are in the README.md index"
+	@echo
 	@exitcode=0; \
 	for x in *.md; do \
-		[ "$$x" = README.md ] && continue; \
-		if ! grep -q "$$x" README.md; then \
-			echo "$$x not in README.md"; \
+		[ "$$file_md" = README.md ] && continue; \
+		if ! grep -q "$$file_md" README.md; then \
+			echo "$$file_md not in README.md"; \
 			exitcode=1; \
 		fi; \
+	done; \
+	exit $$exitcode
+
+.PHONY: references
+references:
+	@echo "Checking all *.md files references exist"
+	@echo
+	@exitcode=0; \
+	for file_md in $$(git grep -Eoh --max-depth 1 '\([[:alnum:]_-]+\.md' | sed 's/^(//' | sort -u); do \
+	if ! [ -f "$$file_md" ]; then \
+		echo "referenced but file not found: $$file_md"; \
+		exitcode=1; \
+	fi; \
 	done; \
 	exit $$exitcode
 
