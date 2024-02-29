@@ -22,7 +22,7 @@ CODE_FILES := $(shell git ls-files | grep -E -e '\.md$$' | sort)
 .PHONY: build
 build: init
 	@echo ================
-	@echo Docs Builds
+	@echo Knowledge Builds
 	@echo ================
 	@echo
 	@#$(MAKE) git-summary
