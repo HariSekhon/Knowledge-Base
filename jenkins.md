@@ -235,11 +235,15 @@ output from a live GKE cluster:
 
 https://jenkins-x.io/
 
-Tries to bundle everything, building off Tekton pipelines - but this increases complexity.
+Tries to bundle everything - nice in theory, but this increases complexity and reduces flexibility.
 
-This isn't really Jenkins.
+This isn't really Jenkins - it uses Tekton pipelines.
 
-Jenkins-on-Kubernetes is easier and works well.
+[Jenkins-on-Kubernetes](#jenkins-on-kubernetes) is easier, works better as more widely used and tested,
+and is more compatible with the traditional Jenkins people have been using for over a decade, including all the plugins
+and features.
+
+#### Install
 
 ```shell
 helm init --stable-repo-url https://charts.helm.sh/stable
