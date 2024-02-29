@@ -12,7 +12,7 @@ ACME - Automated Certificate Management Environment.
 
 ## Config
 
-[HariSekhon/Kubernetes-configs cert-manager/ directory](https://github.com/HariSekhon/Kubernetes-configs/tree/master/cert-manager)
+[HariSekhon/Kubernetes-configs - cert-manager](https://github.com/HariSekhon/Kubernetes-configs/tree/master/cert-manager)
 
 ## Troubleshooting
 
