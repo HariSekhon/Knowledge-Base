@@ -87,8 +87,7 @@ button on the top right for updates.
 - [DevOps-Bash-tools](devops-bash-tools.md)
 - [DevOps-Python-tools](devops-python-tools.md)
 - [DevOps-Perl-tools](devops-perl-tools.md)
-- Travel Consulting:
-  - [Mobile Travel](travel-consulting.md)
+- [Travel Consulting](travel-consulting.md)
 
 TODO: hundreds more pages pending creation in this list
 
