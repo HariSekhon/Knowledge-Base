@@ -86,6 +86,87 @@ Then recover the initial admin password to log in:
 kubectl get secret -n jenkins jenkins -o jsonpath="{.data.jenkins-admin-password}" | base64 --decode
 ```
 
+## CloudBees
+
+Managed hosted Jenkins control plane.
+
+Runs Jenkins controllers and agents on your own Kubernetes.
+
+Commercial proprietary management layer
+
+Licensed by number of users, not build minutes since that is run locally.
+
+https://docs.cloudbees.com/docs/cloudbees-ci/latest/feature-definition
+
+### Pricing
+
+Roughly $1k per user + VAT, depending on whether 8x5 or 24x7 support. Prices are always subject to change,
+negotiation and scale.
+
+### Install CloudBees on Kubernetes
+
+[HariSekhon/Kubernetes-configs - cloudbees/ directory](https://github.com/HariSekhon/Kubernetes-configs/tree/master/cloudbees)
+
+### Install CloudBees CLI
+
+in [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+install/install_cloudbees.sh
+```
+
+```shell
+cloudbees check kubernetes
+```
+
+gets this output, even on production clusters with several working ingresses
+
+```shell
+[KO] Ingress service exists
+```
+
+output from a live EKS cluster:
+
+```shell
+[OK] Kubernetes Client version is higher or equal to 1.10 - v1.18.8
+[OK] Kubernetes client can be created
+[OK] Kubernetes server is accessible
+[OK] Kubernetes Server version is higher or equal to 1.10 - v1.21.2-eks-0389ca3
+[OK] Client and server have same major version - 1
+[KO] Client and server have less than 1 minor version difference - 1.18.8 vs 1.21.2-eks-0389ca3. Fix your PATH to use a compatible kubectl client.
+[KO] Ingress service exists
+[SKIPPED] Ingress has an external address
+[SKIPPED] Ingress deployment exists
+[SKIPPED] Ingress deployment has at least 1 ready replica
+[SKIPPED] Host name resolves to ingress external address - Add --host-name='mycompany.com' to enable this check
+[SKIPPED] Can access the ingress controller using http
+[SKIPPED] Can access the ingress controller using https
+[OK] Has a default storage class - gp2
+[OK] Storage provisioner is supported - gp2
+----------------------------------------------
+Summary: 15 run, 7 passed, 2 failed, 6 skipped
+error: there are 2 failed checks
+```
+
+output from a live GKE cluster:
+
+```
+[OK] Kubernetes Client version is higher or equal to 1.10 - v1.18.8
+[OK] Kubernetes client can be created
+[OK] Kubernetes server is accessible
+[OK] Kubernetes Server version is higher or equal to 1.10 - v1.19.14-gke.1900
+[OK] Client and server have same major version - 1
+[KO] Client and server have less than 1 minor version difference - 1.18.8 vs 1.19.14-gke.1900. Fix your PATH to use a compatible kubectl client.
+[OK] Ingress service exists - kube-system/jxing-nginx-ingress-controller
+[OK] Ingress has an external address - 35.189.220.163
+[SKIPPED] Ingress deployment has at least 1 ready replica
+[SKIPPED] Host name resolves to ingress external address - Add --host-name='mycompany.com' to enable this check
+[KO] Can access the ingress controller using http - Accessing http://x.x.x.x/ won't work : Get "http://x.x.x.x/": dial tcp x.x.x.x:80: connect: connection refused
+[KO] Can access the ingress controller using https - Accessing https://x.x.x.x/ won't work : Get "https://x.x.x.x/": dial tcp x.x.x.x:443: connect: connection refused
+[OK] Has a default storage class - standard
+[KO] Storage provisioner is supported - Please create a storage class using the disk type 'pd-ssd'
+```
+
 ## Troubleshooting
 
 ### Reset the Jenkins admin password
