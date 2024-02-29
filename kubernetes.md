@@ -20,4 +20,10 @@
 
 See [.envrc](envrc.md)
 
+## Tips
+
+- Ingresses:
+  - use `name: http` for target instead of `number: 80` as some services use 80 and some 8080 so you'll get a 503 error if you get it wrong
+  - compare the name and number to the service you're pointing to
+
 ###### Partial port from private Knowledge Base page 2015+
