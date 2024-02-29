@@ -56,6 +56,8 @@ button on the top right for updates.
   - [Azure](azure.md)
 - [Docker](docker.md)
   - [Dockerfile](dockerfile.md)
+  - [Docker Compose](docker-compose.md)
+  - [Container Scanning](container-scanning.md)
 - [Kubernetes](kubernetes.md)
   - [ArgoCD](argocd.md)
   - [Kustomize](kustomize.md)
