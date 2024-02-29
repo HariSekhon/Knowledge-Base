@@ -1,26 +1,26 @@
 # Hari Sekhon - Docs - IT Knowledge from 20 years in DevOps, Linux, Cloud, Big Data, Security, AWS, GCP etc
 
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Docs?logo=github)](https://github.com/HariSekhon/Docs/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Docs?logo=github)](https://github.com/HariSekhon/Docs/network)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Docs/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/network)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Knowledge-Base/blob/master/LICENSE)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Docs?logo=github)](https://github.com/HariSekhon/Docs/commits/master)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/commits/master)
 
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/HariSekhon/GitHub/_git/Docs)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Docs)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Docs)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Docs)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Knowledge-Base)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Knowledge-Base)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Knowledge-Base)
 
-[![Index](https://github.com/HariSekhon/Docs/actions/workflows/index.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/index.yaml)
-[![Markdown](https://github.com/HariSekhon/Docs/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/markdown.yaml)
-[![Markdown References](https://github.com/HariSekhon/Docs/actions/workflows/markdown_references.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/markdown_references.yaml)
-[![Validation](https://github.com/HariSekhon/Docs/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/validate.yaml)
-[![Kics](https://github.com/HariSekhon/Docs/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/kics.yaml)
-[![Grype](https://github.com/HariSekhon/Docs/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/grype.yaml)
-[![Semgrep](https://github.com/HariSekhon/Docs/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/Docs/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/semgrep-cloud.yaml)
-[![Trivy](https://github.com/HariSekhon/Docs/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/trivy.yaml)
+[![Index](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/index.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/index.yaml)
+[![Markdown](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown.yaml)
+[![Markdown References](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown_references.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown_references.yaml)
+[![Validation](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/grype.yaml)
+[![Semgrep](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/semgrep-cloud.yaml)
+[![Trivy](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/trivy.yaml)
 
 Work in progress to gradually migrate my huge private personal knowledge base into this public repo.
 
