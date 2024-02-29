@@ -170,6 +170,14 @@ Then recover the initial admin password to log in:
 kubectl get secret -n jenkins jenkins -o jsonpath="{.data.jenkins-admin-password}" | base64 --decode
 ```
 
+If you've pruned in ArgoCD or otherwise lost the `jenkins` secret that JCasC uses, you can recreate it like this:
+
+```shell
+kubectl create secret generic -n jenkins jenkins \
+    --from-literal=jenkins-admin-user="admin"
+    --from-literal=jenkins-admin-password="$(pwgen -s 20 -c 1)"
+```
+
 ## CloudBees
 
 Managed hosted Jenkins control plane - commercial proprietary management layer.
