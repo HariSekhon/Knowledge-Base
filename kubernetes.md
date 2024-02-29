@@ -26,4 +26,15 @@ See [.envrc](envrc.md)
   - use `name: http` for target instead of `number: 80` as some services use 80 and some 8080 so you'll get a 503 error if you get it wrong
   - compare the name and number to the service you're pointing to
 
+## Troubleshooting
+
+### Killing a Namespace that's stuck
+
+If you see a namespace that is stuck deleting, you can force the issue at the risk of leaving some pods running:
+
+```shell
+kubectl delete ns "$NAMESPACE" --force --grace-period 0
+```
+
+
 ###### Partial port from private Knowledge Base page 2015+
