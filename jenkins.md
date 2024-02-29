@@ -1,5 +1,17 @@
 # Jenkins
 
+The most powerful CI/CD ever.
+
+Simple at the shallow end (see [Jenkins in Docker in one command](#jenkins-in-docker-in-one-command)).
+
+Non-trivial at the advanced end (auto-scaling on [Kubernetes](#jenkins-on-kubernetes),
+Jenkins [Plugins](#jenkins-plugins),
+Groovy [Shared Library](#jenkins-shared-libraries-groovy) programming).
+
+At least intermediate level Groovy programming is mandatory once you start using
+Shared Libraries between pipelines, or even code snippets in the administration
+[Script Console](#jenkins-script-console---groovy).
+
 ## Quick Jenkins in Docker and SysAdmin Scripts
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#cicd---continuous-integration--continuous-deployment)
@@ -11,13 +23,50 @@ Scripts for common Jenkins operations using the Jenkins CLI and API:
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools/tree/master/jenkins)
 `jenkins/` directory.
 
+## Jenkins Plugins
+
+Plugins are the greatest strength and weakness of Jenkins, depending on how you look at it.
+
+Jenkins has all of the power but also the complexity of managing the extensions, additional configuration and plugin
+upgrades.
+
+
+To get a list of plugins on an existing Jenkins server, one per line:
+
+```shell
+java -jar jenkins-cli.jar -s "$JENKINS_URL" list-plugins | awk '{print $1}' | sort
+```
+
+See here for a great list of plugins that I've used in production across companies:
+
+[HariSekhon/Kubernetes - jenkins/base/values.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/jenkins/base/values.yaml#L142)
+
+## Jenkins Jobs auto-saved to Git
+
+Auto-backport Jenkins job XML configurations to Git for tracking, diffing and reloading in case of disaster recovery.
+
+Groovy shared library function:
+
+[jenkinsJobsDownloadConfigurations.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/jenkinsJobsDownloadConfigurations.groovy)
+
+or script it yourself by calling one of these scripts and then Git committing the downloaded XMLs:
+
+[jenkins_jobs_download_configs.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/jenkins/jenkins_jobs_download_configs.sh)
+
+[jenkins_jobs_download_configs_cli.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/jenkins/jenkins_jobs_download_configs_cli.sh)
+
+Inspired by [Rancid](https://shrubbery.net/rancid/) which I was using 2010-2013 to back up my Cisco & Juniper
+network configurations to Subversion and later Git (I hacked the code to support the latter). I've written similarly
+functional code Git backport code for other systems like IBM BigInsights, Datameer etc. ([DevOps-Perl-tools]
+(devops-perl-tools.md) repo).
+
 ## Jenkins Groovy
 
 [Groovy](groovy.md) is the language of Jenkins, and it is awesome.
 
 If you want to do anything advanced in Jenkins, you need to know Groovy.
 
-### Jenkins Groovy Console
+### Jenkins Script Console - Groovy
 
 You can paste Groovy code snippets into the Script Console in Jenkins, which is located at:
 
@@ -33,6 +82,19 @@ Some `*.groovy` scripts are mixed in between the shell scripts
 ## Jenkins Google Auth Plugin
 
 [jenkinsci/google-login-plugin](https://github.com/jenkinsci/google-login-plugin) repo.
+
+## Jenkins in Docker in one command
+
+From the [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+```shell
+jenkins/jenkins.sh
+```
+
+- boots Jenkins in Docker
+- creates a Pipeline build job for the local repo
+- executes the build job
+- automatically opens the Jenkins UI on Mac, or prints the url on Linux
 
 ## Jenkins on Kubernetes
 
@@ -88,11 +150,13 @@ kubectl get secret -n jenkins jenkins -o jsonpath="{.data.jenkins-admin-password
 
 ## CloudBees
 
-Managed hosted Jenkins control plane.
+Managed hosted Jenkins control plane - commercial proprietary management layer.
 
 Runs Jenkins controllers and agents on your own Kubernetes.
 
-Commercial proprietary management layer
+The real problem this solves is 'Islands of Jenkins' since there is a limit to the vertical scalability of the Jenkins
+server leading to provincial team oriented Jenkins installations which is a management and governance hassle for larger
+enterprises.
 
 Licensed by number of users, not build minutes since that is run locally.
 
@@ -166,6 +230,31 @@ output from a live GKE cluster:
 [OK] Has a default storage class - standard
 [KO] Storage provisioner is supported - Please create a storage class using the disk type 'pd-ssd'
 ```
+
+# Jenkins X
+
+https://jenkins-x.io/
+
+Tries to bundle everything, building off Tekton pipelines - but this increases complexity.
+
+This isn't really Jenkins.
+
+Jenkins-on-Kubernetes is easier and works well.
+
+```shell
+helm init --stable-repo-url https://charts.helm.sh/stable
+```
+
+Workaround for broken helm init url in older version of helm bundled is [here](https://stackoverflow.com/questions/61954440/how-to-resolve-https-kubernetes-charts-storage-googleapis-com-is-not-a-valid).
+
+```shell
+jx boot
+```
+
+```shell
+jx status
+```
+
 
 ## Troubleshooting
 
