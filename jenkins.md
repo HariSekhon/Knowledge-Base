@@ -36,10 +36,9 @@ Some `*.groovy` scripts are mixed in between the shell scripts
 
 ## Jenkins on Kubernetes
 
-Configs are here:
+[HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs#jenkins-on-kubernetes)
 
-[HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs#readme)
-`jenkins/` directory
+Configs are in the `jenkins/` directory.
 
 ### Default Admin User + Password
 
@@ -108,5 +107,9 @@ Execute in Script Console at `$JENKINS_URL/script`:
 ```groovy
 org.jenkinsci.plugins.durabletask.BourneShellScript.LAUNCH_DIAGNOSTICS=true
 ```
+
+## Jenkins on Kubernetes Diagram
+
+![](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/jenkins_kubernetes_cicd.svg)
 
 ###### Partial port from private Knowledge Base page 2013+
