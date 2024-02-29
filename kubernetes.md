@@ -36,5 +36,18 @@ If you see a namespace that is stuck deleting, you can force the issue at the ri
 kubectl delete ns "$NAMESPACE" --force --grace-period 0
 ```
 
+Sometimes this isn't enough and it gets stucks on finalizers or cert-manager pending challenges:
+
+```
+NAME                                                                STATE     DOMAIN                 AGE
+challenge.acme.cert-manager.io/jenkins-tls-1-1371220808-214553451   pending   jenkins.domain.co.uk   3h1m
+```
+
+Use this script from [DevOps-Bash-tools](devops-bash-tools.md) `kubernetes/` directory which kills everything via API
+patching:
+
+```shell
+kubernetes_delete_stuck_namespace.sh <namespace>
+```
 
 ###### Partial port from private Knowledge Base page 2015+
