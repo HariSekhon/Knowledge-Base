@@ -144,4 +144,15 @@ Notice the filestore name is in format `projects/<PROJECT_ID>/locations/europe-w
 gcloud filestore instances list --filter="name ~ /${FILESTORE_NAME}$" --format='value(networks[0].ipAddresses[0])'
 ```
 
+## Enable APIs
+
+```shell
+gcloud services list --available | grep compute
+```
+
+```shell
+gcloud services enable compute.googleapis.com
+```
+
+
 ###### Partial port from private Knowledge Base page 2015+
