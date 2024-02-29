@@ -25,7 +25,7 @@ build: init
 	@echo Knowledge Builds
 	@echo ================
 	@echo
-	@#$(MAKE) git-summary
+	@$(MAKE) git-summary
 	@echo
 	@$(MAKE) index
 	@echo
