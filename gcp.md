@@ -74,6 +74,10 @@ Check you can see it under metadata ssh-keys
 gcloud compute instances describe "$VM"
 ```
 
+## SSH Tunnelling Through a Bastion Host
+
+See [SSH Tunnelling](ssh-tunnelling.md#gcp)
+
 ## Set up access to GKE - Google Kubernetes Engine
 
 First set up your GCloud SDK CLI as above.
