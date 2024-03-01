@@ -43,7 +43,7 @@ index:
 	@echo "Checking all *.md files are in the README.md index"
 	@echo
 	@exitcode=0; \
-	for x in *.md; do \
+	for file_md in *.md; do \
 		[ "$$file_md" = README.md ] && continue; \
 		if ! grep -q "$$file_md" README.md; then \
 			echo "$$file_md not in README.md"; \
