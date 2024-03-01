@@ -4,6 +4,24 @@
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
+## GCE - Google Compute Engine
+
+### VM Instance Sizes
+
+https://gcpinstances.doit.com/
+
+Even more useful, you can click on a machine type and more details:
+
+https://gcloud-compute.com/instances.html
+
+### VM Zones Gotcha
+
+Pay special attention to the price per region table further down in a machine specifics page on `gcloud-compute.com` where you can see
+`#Zones`. If it says 2 zones, beware that your fancy Terraform 3 zone code, for example GKE clusters, is going to
+fail to create the VMs because Google haven't built that spec out in the 3rd zone yet, especially if you're
+deploying into one of the non-primary regions like `europe-west-2` (London, UK). You will be forced to change the
+`machine-type` and redeploy.
+
 ## Install GCloud SDK CLI
 
 Follow the [install doc](https://cloud.google.com/sdk/docs/install) or paste this to run an automated install script
