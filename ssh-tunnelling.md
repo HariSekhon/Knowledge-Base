@@ -23,7 +23,8 @@ kill the need for such tunnelling just to commit.
 
 ## HTTP Proxying
 
-See [HTTP Proxying](http-proxying.md).
+See [HTTP Proxying](http-proxying.md) for how to standard web application clients to use proxies including
+programming build tools and CLIs which are really Rest API clients like `kubectl`.
 
 ## GCP
 
