@@ -42,8 +42,8 @@ pending migration.
 
 Hit the watch button on the top right for updates.
 
-| [Linux](linux.md)                         | [Mac](mac.md)<br/>- [Homebrew](brew.md)                                                                  | [Diagrams-as-Code](diagrams.md) |                                                   | |
-|-------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------| - | - |
+| [Linux](linux.md)                         | [Mac](mac.md)<br/>- [Homebrew](brew.md)                                                                  | [Diagrams-as-Code](diagrams.md)                   |                                 | |
+|-------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------------| - |
 | [SSH](ssh.md)                             | [SSH Tunnelling](ssh-tunnelling.md)                                                                                      |                                                   |                                 |
 | Shell                                     | [Bash](bash.md)                                                                       | [Regular Expressions](regex.md)                   | [.envrc / direnv](envrc.md)     | [Editors](editors.md)                             |
 | [Git](git.md)                             | [GitHub](github.md)                                                                   | [GitLab](gitlab.md)                               | [Azure DevOps](azure-devops.md) | [Bitbucket](bitbucket.md)                         |
@@ -56,7 +56,7 @@ Hit the watch button on the top right for updates.
 |                                           | [Java](java.md)<br/>  - [Java JVM Performance Tuning](java-jvm-performance-tuning.md) | [Groovy](groovy.md)                               | [Scala](scala.md)               | [Regular Expressions](regex.md)
 | Configuration Management                  | [Ansible](ansible.md)                                                                 | [Puppet](puppet.md)                               |                                 |                                                   |
 | Build Systems                             | [Make](make.md)                                                                       | [Maven](maven.md)                                 | [Gradle](gradle.md)             | [SBT](sbt.md)
-| CI/CD - Self-Hosted                       | [Jenkins](jenkins.md)                                                                 |                                                   |                                 |
+| CI/CD - Self-Hosted                       | [Jenkins](jenkins.md)                                                                 | [Concourse](concourse.md)                         | [GoCD](gocd.md)                 |
 | CI/CD - Hosted                            | [GitHub Actions](github-actions.md)                                                   | [GitLab CI](gitlab-ci.md)                         | [Azure DevOps](azure-devops.md) | [Bitbucket Pipelines](bitbucket.md)               |
 | CI/CD - Hosted                            | [CircleCI](circleci.md)                                                               | [TravisCI](travis.md)                             |
 | Internet Services                         | [HTTP Proxying](http-proxying.md)                                                     | [Cloudflare](cloudflare.md)                       |
@@ -69,14 +69,14 @@ Hit the watch button on the top right for updates.
 | MapReduce                                 | [Hadoop](hadoop.md)<br/> - [Kerberos](hadoop-kerberos.md)                             | [YARN](yarn.md)                                   | [HDFS](hdfs.md)                 | [Pig](pig.md) |
 | Distributed SQL                           | [Hive](hive.md)                                                                       | [Impala](impala.md)                               | [Presto](presto.md)             | [Apache Drill](drill.md) |
 |                                           | [HBase](hbase.md)                                                                     | [ZooKeeper](zookeeper.md)                         | [Storm](storm.md)               | [Data Warehousing](data-warehousing.md) |
-| [Data Science](data-science.md)           | [Python](python.md)<br/>- [Anaconda](anaconda.md)                                     | [R](r.md) | [Octave](octave.md)             |
-| Time Series Databases                     | [OpenTSDB](opentsdb.md)<br/>- [TCollector](tcollector.md)                             | [InfluxDB](influxdb.md) |
+| [Data Science](data-science.md)           | [Python](python.md)<br/>- [Anaconda](anaconda.md)                                     | [R](r.md)                                         | [Octave](octave.md)             |
+| Time Series Databases                     | [OpenTSDB](opentsdb.md)<br/>- [TCollector](tcollector.md)                             | [InfluxDB](influxdb.md)                           |
 | [Performance](performance.md)             | [Stress Testing](stress-testing.md)                                                   |
-| [Security](security.md)                   | [SSL](ssl.md)                                                                         | [Kerberos](kerberos.md) | [FreeIPA](freeipa.md) | [PenTesting](pentesting.md) |
-| [Virtualization](virtualization.md)       | [VirtualBox](virtualbox.md)                                                           | [Vagrant](vagrant.md) | [OpenStack](openstack.md) |
-| Networking                                | [Cisco](cisco.md)                                                                     | [Juniper](juniper.md) | [Foundry](foundry.md) |
+| [Security](security.md)                   | [SSL](ssl.md)                                                                         | [Kerberos](kerberos.md)                           | [FreeIPA](freeipa.md)           | [PenTesting](pentesting.md) |
+| [Virtualization](virtualization.md)       | [VirtualBox](virtualbox.md)                                                           | [Vagrant](vagrant.md)                             | [OpenStack](openstack.md)       |
+| Networking                                | [Cisco](cisco.md)                                                                     | [Juniper](juniper.md)                             | [Foundry](foundry.md)           |
 | Load Balancing                            | [HAProxy](haproxy.md)                                                                 |
-| [DevOps-Bash-tools](devops-bash-tools.md) | [DevOps-Python-tools](devops-python-tools.md)                                         | [DevOps-Perl-tools](devops-perl-tools.md) | [Open Source](open-source.md) |
+| [DevOps-Bash-tools](devops-bash-tools.md) | [DevOps-Python-tools](devops-python-tools.md)                                         | [DevOps-Perl-tools](devops-perl-tools.md)         | [Open Source](open-source.md)   |
 | [Travel Consulting](travel-consulting.md) |
 
 ## See Also
