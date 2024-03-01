@@ -14,6 +14,21 @@ ACME - Automated Certificate Management Environment.
 
 [HariSekhon/Kubernetes-configs - cert-manager](https://github.com/HariSekhon/Kubernetes-configs/tree/master/cert-manager)
 
+## DNS Integration Secret
+
+If using DNS integration you'll need a secret or a service account for Cert Manager to create the ACME challenge DNS
+records.
+
+See the specific DNS configuration either in the configs above or the official docs.
+
+eg for [Cloudflare](cloudflare.md):
+
+```shell
+kubectl create secret generic cloudflare-api-token --from-literal=cloudflare-api-token="$CLOUDFLARE_TOKEN"
+```
+
+This secret must match the the specific DNS provider's Issuer / ClusterIssuer config to source it.
+
 ## Troubleshooting
 
 If you're not getting your SSL cert or having cert warning in your browser, check Cert Manager logs:
