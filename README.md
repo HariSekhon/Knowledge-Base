@@ -42,8 +42,8 @@ pending migration.
 
 Hit the watch button on the top right for updates.
 
-| [Linux](linux.md)                         | [Mac](mac.md)<br/>- [Homebrew](brew.md)                                                                  | [Diagrams-as-Code](diagrams.md) |                                                   |
-|-------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------| - |
+| [Linux](linux.md)                         | [Mac](mac.md)<br/>- [Homebrew](brew.md)                                                                  | [Diagrams-as-Code](diagrams.md) |                                                   | |
+|-------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------| - | - |
 | [SSH](ssh.md)                  | [SSH Tunnelling](ssh-tunnelling.md)                                                                                      |                                                   |                                 |
 | Shell                                     | [Bash](bash.md)                                                                       | [Regular Expressions](regex.md)                   | [.envrc / direnv](envrc.md)     | [Editors](editors.md)                             |
 | [Git](git.md)                             | [GitHub](github.md)                                                                   | [GitLab](gitlab.md)                               | [Azure DevOps](azure-devops.md) | [Bitbucket](bitbucket.md)                         |
