@@ -175,7 +175,7 @@ recreate it like this:
 
 ```shell
 kubectl create secret generic -n jenkins jenkins \
-    --from-literal=jenkins-admin-user="admin"
+    --from-literal=jenkins-admin-user="admin" \
     --from-literal=jenkins-admin-password="$(pwgen -s 20 -c 1)"
 ```
 
