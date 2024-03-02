@@ -83,7 +83,13 @@ Some `*.groovy` scripts are mixed in between the shell scripts
 
 ## Jenkins Google Auth Plugin
 
-[jenkinsci/google-login-plugin](https://github.com/jenkinsci/google-login-plugin) repo.
+[jenkinsci/google-login-plugin](https://github.com/jenkinsci/google-login-plugin)
+
+Note: don't commit the JCasC security `googleOAuth2` section to Git as it contains the `clientId` and `clientSecret`.
+Just delete the security `local` so that it doesn't overwrite and revert to local authentication.
+
+[README.md](https://github.com/jenkinsci/google-login-plugin/blob/master/README.md) - steps take 5 minutes, if that,
+easy.
 
 ## Jenkins in Docker in one command
 
