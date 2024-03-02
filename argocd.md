@@ -15,7 +15,39 @@ have configured ingress and cert-manager to get the SSL url available).
 kubectl -n argocd get secret -n argocd argocd-initial-admin-secret -o jsonpath='{.data.password}' | base64 --decode
 ```
 
-## Google Authentication
+
+## ArgoCD Kustomize + Helm Integration for GitOps
+
+Have ArgoCD use [Kustomize](kustomize.md) to materialize Helm charts, patch and combine them with other yamls
+such as custom ingresses and manage them all in a single ArgoCD app in a GitOps fashion:
+
+[Kustomize Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/kustomization.yaml)
+
+## ArgoCD templates
+
+[Project Config Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/project.yaml)
+
+[App Config Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/app.yaml)
+
+## GitOps ArgoCD itself
+
+[ArgoCD Self-Managing App Config](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/self.yaml)
+
+### App-of-Apps Pattern
+
+[App-of-Apps Config](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/apps.yaml) - have ArgoCD apps automatically found and loaded from any yamls found in the `/apps` directory
+
+### App-of-Projects Pattern
+
+[App-of-Projects Config](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/projects.yaml) - have projects automaticaly found and loaded from any yamls in the `projects/` directory
+
+## Azure AD Authentication for SSO
+
+https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/microsoft/#azure-ad-app-registration-auth-using-oidc
+
+[Azure AD Authentication Config Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/cm.azure-ad.patch.yaml)
+
+## Google Authentication for SSO
 
 Remember: don't git commit the `argocd-cm` configmap addition of the `dex.config` key on that page which contains the `clientID` and `clientSecret`.
 
@@ -68,35 +100,6 @@ kubectl rollout restart deploy/argocd-server
 
 I have no explanation for this behaviour other than it's a probable bug that gets solved by a resetting the
 argocd-server state.
-
-## ArgoCD Kustomize + Helm Integration for GitOps
-
-Have ArgoCD use [Kustomize](kustomize.md) to materialize Helm charts, patch and combine them with other yamls
-such as custom ingresses and manage them all in a single ArgoCD app in a GitOps fashion:
-
-[Kustomize Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/kustomization.yaml)
-
-## ArgoCD templates
-
-[Project Config Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/project.yaml)
-
-[App Config Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/app.yaml)
-
-## GitOps ArgoCD itself
-
-[ArgoCD Self-Managing App Config](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/self.yaml)
-
-### App-of-Apps Pattern
-
-[App-of-Apps Config](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/apps.yaml) - have ArgoCD apps automatically found and loaded from any yamls found in the `/apps` directory
-
-### App-of-Projects Pattern
-
-[App-of-Projects Config](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/projects.yaml) - have projects automaticaly found and loaded from any yamls in the `projects/` directory
-
-## Azure AD Integration for SSO
-
-[Azure AD Integration Config Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/cm.azure-ad.patch.yaml)
 
 ## GitHub Webhooks Integration
 
