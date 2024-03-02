@@ -111,5 +111,15 @@ kubectl rollout restart deploy/argocd-server
 I have no explanation for this behaviour other than it's a probable [bug](https://github.com/argoproj/argo-cd/issues/17378)
 that gets solved by a resetting the argocd-server state.
 
+#### RBAC user wildcard `*` does not work in `policy.csv`
+
+https://github.com/argoproj/argo-cd/issues/17377
+
+Two options in `argocd-rbac-cm` are given in [rbac-cm.patch.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/rbac-cm.patch.yaml):
+
+1. find the group id and assign a role to assign in the policy line (preferred)
+1. change `policy.default: role:readonly` to `policy.default: role:admin` (allows all users to click everything,
+   but most will be reset by [GitOps ArgoCD itself](#gitops-argocd-itself) except for the Git repo connector)
+
 
 ###### Partial port from private Knowledge Base page 2021+
