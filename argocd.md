@@ -15,6 +15,31 @@ have configured ingress and cert-manager to get the SSL url available).
 kubectl -n argocd get secret -n argocd argocd-initial-admin-secret -o jsonpath='{.data.password}' | base64 --decode
 ```
 
+## Google Authentication
+
+Remember: don't git commit the `argocd-cm` configmap addition of the `dex.config` key on that page which contains the `clientID` and `clientSecret`.
+
+It's not necessary to expose this in Git as ArgoCD self-management won't strip out the field since there is no such field in the Git configmap.
+
+https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/google/#openid-connect-using-dex
+
+### Troubleshooting
+
+If you see this error:
+
+```
+level=warning msg="Failed to verify token: failed to verify token: Failed to query provider
+\"https://argocd-production.domain.co.uk/api/dex\": Get \"https://argocd-production.domain.co.uk/api/dex/.well-known/openid-configuration\": dial tcp 10.x.x.x:443: i/o timeout"
+```
+
+There is no reason the pods shouldn't be able to connect to the internal ingress as all private IPs are allows in the [config]():
+
+After brain racking, it turns out a reboot of the argocd-server pod after Dex configuration solves it:
+
+````shell
+kubectl rollout restart deploy/argocd-server
+````
+
 ## ArgoCD Kustomize + Helm Integration for GitOps
 
 Have ArgoCD use [Kustomize](kustomize.md) to materialize Helm charts, patch and combine them with other yamls
