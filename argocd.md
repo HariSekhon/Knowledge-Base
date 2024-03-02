@@ -25,6 +25,12 @@ https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/google/
 
 ### Troubleshooting
 
+If your ArgoCD web UI hands with "Loading" after Google login, check the logs:
+
+```shell
+kubectl logs -f -n argocd deploy/argocd-server
+```
+
 If you see this error:
 
 ```
@@ -39,6 +45,9 @@ After brain racking, it turns out a reboot of the argocd-server pod after Dex co
 ````shell
 kubectl rollout restart deploy/argocd-server
 ````
+
+I have no explanation for this behaviour other than it's a probable bug that gets solved by a resetting the
+argocd-server state.
 
 ## ArgoCD Kustomize + Helm Integration for GitOps
 
