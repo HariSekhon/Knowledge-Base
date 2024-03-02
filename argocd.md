@@ -1,5 +1,23 @@
 # ArgoCD
 
+https://argo-cd.readthedocs.io/en/stable/
+
+Declarative GitOps Continuous Delivery for Kubernetes.
+
+- Kubernetes native - everything is defined in k8s yamls via CRDs so easy to revision control + diff + apply all configs
+- Project and Applications configurations must be installed to the `argocd` namespace for ArgoCD to pick them up
+- Sync only detects / replaces parts that are different from the manifests in Git
+  - if you add / change a field that is not in the Git manifests then ArgoCD won't change it as it doesn't change the entire object
+- Projects restrict Git source, destination cluster + namespace, permissions
+- Applications in project deploy k8s manifests from Git repo
+
+
+#### Components
+
+- `argocd-server` - API server & UI
+- `argocd-application-controller` - monitors live k8s vs repo
+- `argocd-repo-server` - maintains cache of git repo + generates k8s manifests (kustomize/helm)
+
 ## Install Quickly
 
 Ready made config to deploy to Kubernetes - will immediately bring up a cluster:
@@ -48,6 +66,73 @@ such as custom ingresses and manage them all in a single ArgoCD app in a GitOps 
 
 [GitHub Webhooks Integration Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/secret.github-webhook.patch.yaml)
 
+## ArgoCD CLI
+
+On Mac:
+
+```shell
+brew install argocd
+```
+
+or download from server for either Mac or Linux:
+
+```shell
+os="$(uname -s | tr '[:upper:]' '[:lower:]')"
+mkdir -p -v ~/bin
+curl -L -o ~/bin/argocd "https://$ARGOCD_HOST/download/argocd-$os-amd64" &&
+chmod +x ~/bin/argocd
+```
+
+or script in in [DevOps-Bash-tools](devops-bash-tools.md) figures out OS and downloads latest version:
+
+```shell
+install_argocd.sh
+```
+
+### Authenticate the CLI
+
+Get the initial admin password:
+
+```shell
+PASSWORD="$(kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath='{.data.password}' | base64 --decode)"
+```
+
+`ARGOCD_HOST` must not have an `https://` prefix
+
+```shell
+argocd login "$ARGOCD_HOST" --username admin --password "$PASSWORD" --grpc-web
+```
+
+or use the `argocd-grpc.domain.com` url if you've set up the extra ingress, but this didn't work in testing.
+
+Change admin password - can delete the obsolete `argocd-initial-admin-secret` after that as its no longer used:
+
+```shell
+argocd account update-password
+```
+
+Generate long lived JWT
+[token](https://argo-cd.readthedocs.io/en/stable/user-guide/commands/argocd_account_generate-token/)
+(this environment variable keeps the CLI authenticated).
+Requires enabling `apiKey` permission using
+[cm.users.patch.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/cm.users.patch.yaml).
+
+```shell
+export ARGOCD_AUTH_TOKEN="$(argocd account generate-token)"
+```
+
+Create an SSH key for Private Repo access:
+
+```shell
+ssh-keygen -f ~/.ssh/argocd_github_key
+```
+
+Load it to a Kubernetes secret which is referenced from
+[cm-repos.patch.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/cm.repos.patch.yaml):
+
+```shell
+kubectl create secret generic github-ssh-key -n argocd --from-file=private-key=$HOME/.ssh/argocd_github_key
+```
 
 ## Azure AD Authentication for SSO
 
@@ -122,4 +207,4 @@ Two options in `argocd-rbac-cm` are given in [rbac-cm.patch.yaml](https://github
    but most will be reset by [GitOps ArgoCD itself](#gitops-argocd-itself) except for the Git repo connector)
 
 
-###### Partial port from private Knowledge Base page 2021+
+###### Ported from private Knowledge Base page 2021+
