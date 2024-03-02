@@ -12,9 +12,48 @@ At least intermediate level Groovy programming is mandatory once you start using
 Shared Libraries between pipelines, or even code snippets in the administration
 [Script Console](#jenkins-script-console---groovy).
 
+## Jenkinsfile - Scripted vs Declarative pipelines
+
+### Declarative
+
+- newer
+- adds SCM Checkout stage by default
+- can Restart from Stage (not available in Scripted Pipelines)
+- def variable outside of pipeline block
+- use script block to get the mutation variable benefits of scripted pipeline
+
+### Scripted
+
+- older
+- can use Groovy programming code like in shared libraries
+
+### Jenkinsfile Snippet Generator
+
+```
+$JENKINS_URL/pipeline-syntax/
+```
+
 ## Quick Jenkins in Docker and SysAdmin Scripts
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#cicd---continuous-integration--continuous-deployment)
+
+## Jenkins CLI
+
+Download:
+
+```shell
+wget "$JENKINS_URL/jnlpJars/jenkins-cli.jar"
+```
+
+Run:
+
+```shell
+java -jar jenkins-cli.jar help
+```
+
+[jenkins_cli.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/jenkins/jenkins_cli.sh)
+does this autoamtically and its `--help` tells you what sorts of environment variables you need for auth and
+connectivity which the jar is not good at.
 
 ## Jenkins Shell Scripts
 
@@ -42,6 +81,20 @@ java -jar jenkins-cli.jar -s "$JENKINS_URL" list-plugins | awk '{print $1}' | so
 See here for a great list of plugins that I've used in production across companies:
 
 [HariSekhon/Kubernetes - jenkins/base/values.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/jenkins/base/values.yaml#L142)
+
+### Restarts
+
+Waits for builds to finish:
+
+```
+$JENKINS_URL/safeRestart
+```
+
+Doesn't wait for builds to finish:
+
+```
+$JENKINS_URL/restart
+```
 
 ## Jenkins Jobs auto-saved to Git
 
@@ -80,6 +133,23 @@ Some `*.groovy` scripts are mixed in between the shell scripts
 ## Jenkins Shared Libraries (Groovy)
 
 [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) repo.
+
+## Desktop Menu Notifications
+
+- [CCMenu](https://ccmenu.org/) - Mac OSX menu watcher
+- [BuildNotify](https://anaynayak.github.io/buildnotify/) - for Linux
+
+### CCtray XML Plugin
+
+Provides the `/cc.xml/` endpoint for notification tools above.
+
+https://plugins.jenkins.io/cctray-xml/
+
+Then put this in your CCMenu or similar tool:
+
+```shell
+<JENKINS_URL>/cc.xml/
+```
 
 ## Jenkins Google Auth Plugin
 
