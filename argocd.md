@@ -25,7 +25,27 @@ https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/google/
 
 ### Troubleshooting
 
-If your ArgoCD web UI hands with "Loading" after Google login, check the logs:
+#### Getting immediately kicked back out when clicking the 'Log in via Google' button
+
+```shell
+kubectl logs -f -n argocd deploy/argocd-server
+```
+
+If you see this:
+
+```
+level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Get grpc.service=cluster.SettingsService grpc.start_time="2024-03-02T01:41:21Z" grpc.time_ms=100.663 span.kind=server system=grpc
+```
+
+Even a browser hard refresh doesn't solve it.
+
+It usually works itself out with time, or you can restart the ArgoCD server pod:
+
+````shell
+kubectl rollout restart deploy/argocd-server
+````
+
+#### ArgoCD web UI hands with "Loading" after Google login, check the logs:
 
 ```shell
 kubectl logs -f -n argocd deploy/argocd-server
