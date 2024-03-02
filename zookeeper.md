@@ -6,7 +6,7 @@ Small metadata, watches and locks.
 
 Used by major technologies, especially Big Data technologies like HBase, Hive High Availability, and [SolrCloud](solr.md).
 
-### Basics
+## Basics
 
 - 3 nodes for HA Quorum
 - 5 nodes for HA Quorum + maintenance ability
@@ -16,7 +16,7 @@ Used by major technologies, especially Big Data technologies like HBase, Hive Hi
 - for HBase make sure to comment out HBASE_MANAGE_ZK in `hbase-env.sh`
 - network problems often show up first as zookeeper as timeouts / connection problems
 
-### Ports
+## Ports
 
 - 2181 - client
 - 3181 - quorum
@@ -25,7 +25,7 @@ Used by major technologies, especially Big Data technologies like HBase, Hive Hi
 - 8080 - UI (3.5+)
 - 9010 - JMX
 
-### Kerberos
+## Kerberos
 
 `zoo.cfg` / `zookeeper.properties`:
 ```
@@ -78,7 +78,23 @@ Num ZooKeeper client connections:
 echo cons | nc localhost 2181 | wc -l
 ```
 
-### ZooKeeper 4lw API
+## UI
+
+- [ZooNavigator](https://zoonavigator.elkozmon.com/en/latest/)
+- [Hue ZooKeeper](https://gethue.com/new-zookeeper-browser-app/) browser app
+
+## Administration
+
+Review full ZooKeeper docs:
+
+https://zookeeper.apache.org/doc/r3.9.1/zookeeperAdmin.html
+
+zoo.cfg:
+```shell
+maxClientCnxns
+```
+
+## ZooKeeper 4lw API
 
 4 letter word API is a text API on port 2181 you can use via `netcat` or similar.
 
@@ -98,14 +114,14 @@ echo cons | nc localhost 2181 | wc -l
 | `wchc`  | watches by connection                            |
 | `wchp`  | watches by path                                  |
 
-### Java API
+## Java API
 
 Curator is to ZooKeeper what Guava is to Java, written by Netflix
 
 http://curator.apache.org/
 
 
-### Perl ZooKeeper Client Library - `Net::ZooKeeper` build
+## Perl ZooKeeper Client Library - `Net::ZooKeeper` build
 
 For [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
 
