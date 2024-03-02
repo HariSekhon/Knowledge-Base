@@ -230,7 +230,7 @@ It's not necessary to expose this in Git as ArgoCD self-management won't strip o
 [Official Doc - Google auth](https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/google/#openid-connect-using-dex)
 
 
-### Troubleshooting
+### Troubleshooting GCP Auth
 
 #### Getting immediately kicked back out when clicking the `Log in via Google` button
 
@@ -254,7 +254,7 @@ kubectl rollout restart deploy/argocd-server
 
 Seems like a [bug](https://github.com/argoproj/argo-cd/issues/13526).
 
-#### ArgoCD web UI hands with "Loading" after Google login, check the logs:
+#### ArgoCD web UI hands with "Loading" after Google login, check the logs
 
 ```shell
 kubectl logs -f -n argocd deploy/argocd-server
@@ -337,5 +337,24 @@ ArgoCD, [Docker](docker.md), [GCP](gcp.md) and other technologies.
 ## Notifications
 
 [Official Doc - notifications](https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/)
+
+## Troubleshooting
+
+### Kustomize Manifest Generation Error
+
+Upgrade to Kustomize 4 - see
+[repo-server.kustomize.patch.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/repo-server.kustomize.patch.yaml)
+for how to download a newer version than ArgoCD bundles.
+
+### Manifest cached error not updating in an hour
+
+1. UI Refresh button drop down -> hard refresh
+1. delete the /tmp cache in `argocd-repo-server` pod:
+
+```shell
+pod=$(kubectl get po -n argocd -o name -l app.kubernetes.io/name=argocd-repo-server)
+kubectl exec -ti -n argocd "$pod" -- sh -c 'rm -rf /tmp/*'
+#kubectl delete -n argocd "$pod"
+```
 
 ###### Ported from private Knowledge Base page 2021+
