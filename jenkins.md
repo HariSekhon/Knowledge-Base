@@ -134,6 +134,58 @@ Some `*.groovy` scripts are mixed in between the shell scripts
 
 [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) repo.
 
+Functions should either follow java reverse fqdn naming convention or more simple flat `vars/funcName.groovy`.
+Filename must be camelCase or lowercase to work.
+
+Configure the Jenkins Shared Library repo containing the Groovy code in the global System Configuration
+and give it a name for easy referencing:
+
+```
+Configure Jenkins
+-> Configure System
+    -> Global Pipeline Libraries
+        -> Add - give a NAME and point it to Git repo where var/ content is
+```
+
+Then in `Jenkinsfile` reference the named configured repo
+
+
+```groovy
+@Library('NAME@branchOrTag') _
+```
+
+`@branch/tag` suffix is required, otherwise gets `ERROR: No version specified for library NAME`
+
+Trailing underscore `_` is required to import all functions, otherwise syntax error from next token:
+
+```groovy
+ org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+
+ WorkflowScript: 3: unexpected token: pipeline @ line 3, column 1.
+
+    pipeline {
+ ```
+
+Or using the [pipeline-github-lib](https://plugins.jenkins.io/pipeline-github-lib/) plugin you can use a dynamic repo via URL path
+to a public git repo - this is useful for development pointing to a dev repo / branch:
+
+```groovy
+@Library('github.com/harisekhon/jenkins@master') _
+```
+
+Then call functions at top level of `Jenkinsfile` if inserting a whole Pipeline,
+or within a `steps{}` section if inserting normal functions.
+
+```groovy
+funcName("param1", "param2")
+```
+
+#### External Scripts
+
+Don't use external shell scripts or similar as they have to be in the source repo, not the shared library library repo,
+so you can't actually share such external scripts among different builds in different repos without checking them out
+from another git repo as a separate step in the `Jenkinsfile` pipeline because otherwise the script won't be found.
+
 ## Jenkins API
 
 See [jenkins_api.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/jenkins/jenkins_api.sh)
