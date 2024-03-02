@@ -229,16 +229,12 @@ jenkins/jenkins.sh
 
 - boots Jenkins in Docker
 - installs plugins
+- prints admin creds to stdout
 - creates a Pipeline build job for the local repo
 - executes the build job
 - automatically opens the Jenkins UI on Mac, or prints the url on Linux
 
 Uses [docker-compose/jenkins.yml](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/docker-compose/jenkins.yml)
-- upstream jenkins docker image outputs initial admin password to stdout
-but docker-compose doesn't show this so get it like so:
-```
-docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
-```
 - , can optionally edit config to:
   - use `JAVA_OPTS` to tweak heap size
   - mount `/var/jenkins_home` to local machine for persistence
