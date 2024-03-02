@@ -57,7 +57,7 @@ https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/google/
 
 ### Troubleshooting
 
-#### Getting immediately kicked back out when clicking the 'Log in via Google' button
+#### Getting immediately kicked back out when clicking the `Log in via Google` button
 
 ```shell
 kubectl logs -f -n argocd deploy/argocd-server
@@ -71,11 +71,13 @@ level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Get g
 
 Even a browser hard refresh doesn't solve it.
 
-It usually works itself out with time, or you can restart the ArgoCD server pod:
+A restart the ArgoCD server pod fixes it:
 
 ````shell
 kubectl rollout restart deploy/argocd-server
 ````
+
+Seems like a [bug](https://github.com/argoproj/argo-cd/issues/13526).
 
 #### ArgoCD web UI hands with "Loading" after Google login, check the logs:
 
@@ -98,8 +100,8 @@ After brain racking, it turns out a reboot of the argocd-server pod after Dex co
 kubectl rollout restart deploy/argocd-server
 ````
 
-I have no explanation for this behaviour other than it's a probable bug that gets solved by a resetting the
-argocd-server state.
+I have no explanation for this behaviour other than it's a probable [bug](https://github.com/argoproj/argo-cd/issues/17378)
+that gets solved by a resetting the argocd-server state.
 
 ## GitHub Webhooks Integration
 
