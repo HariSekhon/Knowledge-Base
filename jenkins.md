@@ -356,4 +356,9 @@ Execute in Script Console at `$JENKINS_URL/script`:
 org.jenkinsci.plugins.durabletask.BourneShellScript.LAUNCH_DIAGNOSTICS=true
 ```
 
+## Other Resources
+
+https://www.slideshare.net/andrewbayer/7-habits-of-highly-effective-jenkins-users
+
+
 ###### Ported from private Knowledge Base page 2013+
