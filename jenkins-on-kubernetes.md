@@ -99,6 +99,12 @@ then restart Jenkins again to force JCasC to reset Jenkins to this new password 
 kubectl rollout restart sts jenkins
 ```
 
+## Jenkins on Kubernetes Diagram
+
+This is an example of a production Jenkins-on-Kubernetes I built and managed for a client.
+
+![](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/jenkins_kubernetes_cicd.svg)
+
 ## Increase Jenkins Server Disk Space on Kubernetes
 
 The tricks is doing this without losing your job history data.
