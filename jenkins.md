@@ -386,10 +386,4 @@ Execute in Script Console at `$JENKINS_URL/script`:
 org.jenkinsci.plugins.durabletask.BourneShellScript.LAUNCH_DIAGNOSTICS=true
 ```
 
-## Jenkins on Kubernetes Diagram
-
-This is an example of a production Jenkins-on-Kubernetes I built and managed for a client.
-
-![](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/jenkins_kubernetes_cicd.svg)
-
 ###### Ported from private Knowledge Base page 2013+
