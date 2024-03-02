@@ -219,15 +219,6 @@ Then put this in your CCMenu or similar tool:
 <JENKINS_URL>/cc.xml/
 ```
 
-## Jenkins Google Auth Plugin
-
-[jenkinsci/google-login-plugin](https://github.com/jenkinsci/google-login-plugin)
-
-Note: don't commit the JCasC security `googleOAuth2` section to Git as it contains the `clientId` and `clientSecret`.
-Just delete the security `local` so that it doesn't overwrite and revert to local authentication.
-
-Instructions are in this [README.md](https://github.com/jenkinsci/google-login-plugin/blob/master/README.md).
-
 ## Jenkins in Docker in one command
 
 From the [DevOps-Bash-tools](devops-bash-tools.md) repo:
@@ -243,13 +234,66 @@ jenkins/jenkins.sh
 
 ## Jenkins Slaves on Bare Metal / VMs
 
-```
-Manage -> Jenkins -> Nodes  (deploy via SSH key or user/pass)
-```
+- Manage Jenkins
+  - Nodes
+    - New Node
+      - use [ssh-slaves](https://plugins.jenkins.io/ssh-slaves/)
+        plugin to automatically deploy agents via predistributed SSH keys on the servers
 
 ## Jenkins on Kubernetes
 
 See [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md)
+
+## Google Auth SSO
+
+[jenkinsci/google-login-plugin](https://github.com/jenkinsci/google-login-plugin)
+
+Note: don't commit the JCasC security `googleOAuth2` section to Git as it contains the `clientId` and `clientSecret`.
+Just delete the security `local` so that it doesn't overwrite and revert to local authentication.
+
+Instructions are in this [README.md](https://github.com/jenkinsci/google-login-plugin/blob/master/README.md).
+
+## Azure AD auth SSO
+
+In Azure AD UI:
+
+- `App Registrations`
+  - `New Registration`
+    - Overview - get the `Application (client) ID` and `Directory (tenant) ID`
+    - `Authentication`
+      - set `Redirect URI` to be `https://$JENKINS_URL/securityRealm/finishLogin`
+substituting your real jenkins url
+      - tick `ID tokens`
+    - `API Permissions`
+      - `Azure Active Directory Graph`
+         - `Directory.Read.All (Delegated)`
+         - `Directory.Read.All (Application)`
+         - `User.Read.All (Delegated)`
+      - `Microsoft Graph`
+        - `Directory.Read.All (Delegated)`
+        - `Directory.Read.All (Application)`
+        - `User.Read (Delegated)`
+        - `User.Read.All (Application)`
+      - if you have perms click `Grant admin consent for MyCompany` before this will work to be able to read groups, requires AAD Admin permission
+    - `Certificates & Secrets` -> `New client secret` (copy and paste to Jenkins)
+    - `Manifest` -> change `"groupMembershipClaims": null` to "`groupMembershipClaims": "SecurityGroup"`, which combined with the Authentication ID tokens sends the group info in the token (it still won't show up in the Jenkins user info, but it works and gets rid of the lack of permissions to retrieve group error)
+       - see https://github.com/jenkinsci/azure-ad-plugin/blob/dev/README.md#group-support
+
+In Jenkins UI:
+
+- `Manage Jenkins`
+  - `Configure Global Security`
+    - `Azure Active Directory` (deprecated plugin, so this might be different in saml plugin now)
+      - enter `application client id`, `directory tenant id` and `secret`
+      - click `Verify`
+  - `Authorization`
+    -`Azure Matrix-based security`
+      - grant perms to your user/group (should autocomplete if above AAD steps were done right)
+        - (not to be confused with the old Matrix-based security bullet point, although both seem to work but only the Azure one gives you autocomplete of groups, while the latter simply needs the group name to match, the azure plugin can differentiate between Outlook365 groups and Security groups)
+      - `Save`
+      - Go back to base URL to do AAD login, ignore error pages not from starting point
+      - If you find yourself locked out, go in to container and `perl -pi -e 's/<useSecurity>true/<useSecurity>false/' /var/jenkins_home/config.xml` and restart pod or use JCasC
+        - see [tradition password reset](jenkins.md#reset-the-jenkins-admin-password) or [JCasc password reset](jenkins-on-kubernetes.md#reset-the-jenkins-admin-password-when-using-kubernetes-helm-chart)
 
 ## CloudBees
 
