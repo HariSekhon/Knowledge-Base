@@ -15,13 +15,6 @@ have configured ingress and cert-manager to get the SSL url available).
 kubectl -n argocd get secret -n argocd argocd-initial-admin-secret -o jsonpath='{.data.password}' | base64 --decode
 ```
 
-## ArgoCD Kustomize + Helm Integration for GitOps
-
-Have ArgoCD use [Kustomize](kustomize.md) to materialize Helm charts, patch and combine them with other yamls
-such as custom ingresses and manage them all in a single ArgoCD app in a GitOps fashion:
-
-[Kustomize Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/kustomization.yaml)
-
 ## ArgoCD templates
 
 [Project Config Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/project.yaml)
@@ -31,6 +24,13 @@ such as custom ingresses and manage them all in a single ArgoCD app in a GitOps 
 ## ArgoCD & Kubernetes Scripts
 
 [DevOps-Bash-tools - Kubernetes section](https://github.com/HariSekhon/DevOps-Bash-tools#kubernetes)
+
+## ArgoCD Kustomize + Helm Integration for GitOps
+
+Have ArgoCD use [Kustomize](kustomize.md) to materialize Helm charts, patch and combine them with other yamls
+such as custom ingresses and manage them all in a single ArgoCD app in a GitOps fashion:
+
+[Kustomize Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/kustomization.yaml)
 
 ## GitOps ArgoCD itself
 
