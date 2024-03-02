@@ -136,7 +136,7 @@ kubectl create secret generic github-ssh-key -n argocd --from-file=private-key=$
 
 ## Azure AD Authentication for SSO
 
-[Official Doc](https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/microsoft/#azure-ad-app-registration-auth-using-oidc)
+[Official Doc - Azure AD auth](https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/microsoft/#azure-ad-app-registration-auth-using-oidc)
 
 [Azure AD Authentication Config Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/cm.azure-ad.patch.yaml)
 
@@ -156,7 +156,7 @@ Remember: don't git commit the `argocd-cm` configmap addition of the `dex.config
 
 It's not necessary to expose this in Git as ArgoCD self-management won't strip out the field since there is no such field in the Git configmap.
 
-[Official Doc](https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/google/#openid-connect-using-dex)
+[Official Doc - Google auth](https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/google/#openid-connect-using-dex)
 
 ### Troubleshooting
 
@@ -220,6 +220,10 @@ Two options in `argocd-rbac-cm` are given in [rbac-cm.patch.yaml](https://github
 
 For faster triggers than polling GitHub repo:
 
-[Official Doc](https://argoproj.github.io/argo-cd/operator-manual/webhook/)
+[Official Doc - webhooks](https://argoproj.github.io/argo-cd/operator-manual/webhook/)
+
+## Prometheus metrics + Grafana dashboard
+
+[Official Doc - metrics](https://argoproj.github.io/argo-cd/operator-manual/metrics/)
 
 ###### Ported from private Knowledge Base page 2021+
