@@ -274,14 +274,13 @@ In Azure AD UI:
   - `New Registration`
     - Overview - get the `Application (client) ID` and `Directory (tenant) ID`
     - `Authentication`
-      - set `Redirect URI` to be `https://$JENKINS_URL/securityRealm/finishLogin`
-substituting your real jenkins url
+      - set `Redirect URI` to be `https://$JENKINS_URL/securityRealm/finishLogin` substituting your real jenkins url
       - tick `ID tokens`
     - `API Permissions`
       - `Azure Active Directory Graph`
-         - `Directory.Read.All (Delegated)`
-         - `Directory.Read.All (Application)`
-         - `User.Read.All (Delegated)`
+        - `Directory.Read.All (Delegated)`
+        - `Directory.Read.All (Application)`
+        - `User.Read.All (Delegated)`
       - `Microsoft Graph`
         - `Directory.Read.All (Delegated)`
         - `Directory.Read.All (Application)`
@@ -290,7 +289,7 @@ substituting your real jenkins url
       - if you have perms click `Grant admin consent for MyCompany` before this will work to be able to read groups, requires AAD Admin permission
     - `Certificates & Secrets` -> `New client secret` (copy and paste to Jenkins)
     - `Manifest` -> change `"groupMembershipClaims": null` to "`groupMembershipClaims": "SecurityGroup"`, which combined with the Authentication ID tokens sends the group info in the token (it still won't show up in the Jenkins user info, but it works and gets rid of the lack of permissions to retrieve group error)
-       - see https://github.com/jenkinsci/azure-ad-plugin/blob/dev/README.md#group-support
+      - see https://github.com/jenkinsci/azure-ad-plugin/blob/dev/README.md#group-support
 
 In Jenkins UI:
 
@@ -300,7 +299,7 @@ In Jenkins UI:
       - enter `application client id`, `directory tenant id` and `secret`
       - click `Verify`
   - `Authorization`
-    -`Azure Matrix-based security`
+    - `Azure Matrix-based security`
       - grant perms to your user/group (should autocomplete if above AAD steps were done right)
         - (not to be confused with the old Matrix-based security bullet point, although both seem to work but only the Azure one gives you autocomplete of groups, while the latter simply needs the group name to match, the azure plugin can differentiate between Outlook365 groups and Security groups)
       - `Save`
