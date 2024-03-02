@@ -134,6 +134,22 @@ Some `*.groovy` scripts are mixed in between the shell scripts
 
 [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) repo.
 
+## Jenkins API
+
+See [jenkins_api.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/jenkins/jenkins_api.sh)
+
+```
+/api/json
+```
+
+```
+/job/$job/api/json
+```
+
+```
+curl "$JENKINS_URL/job/test%20ok/api/json?pretty=true"
+```
+
 ## Desktop Menu Notifications
 
 - [CCMenu](https://ccmenu.org/) - Mac OSX menu watcher
@@ -173,6 +189,12 @@ jenkins/jenkins.sh
 - creates a Pipeline build job for the local repo
 - executes the build job
 - automatically opens the Jenkins UI on Mac, or prints the url on Linux
+
+## Jenkins Slaves on Bare Metal / VMs
+
+```
+Manage -> Jenkins -> Nodes  (deploy via SSH key or user/pass)
+```
 
 ## Jenkins on Kubernetes
 
