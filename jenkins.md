@@ -37,6 +37,12 @@ $JENKINS_URL/pipeline-syntax/
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#cicd---continuous-integration--continuous-deployment)
 
+Get the default initial admin password quickly from Docker or Kubernetes by running:
+
+```shell
+jenkins_password.sh
+```
+
 ## Jenkins CLI
 
 Download:
