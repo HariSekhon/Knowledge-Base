@@ -78,9 +78,14 @@ or download from server for either Mac or Linux:
 
 ```shell
 os="$(uname -s | tr '[:upper:]' '[:lower:]')"
+
 mkdir -p -v ~/bin
+
 curl -L -o ~/bin/argocd "https://$ARGOCD_HOST/download/argocd-$os-amd64" &&
+
 chmod +x ~/bin/argocd
+
+export PATH="$PATH:$HOME/bin"
 ```
 
 or script in in [DevOps-Bash-tools](devops-bash-tools.md) figures out OS and downloads latest version:
@@ -227,6 +232,7 @@ It's not necessary to expose this in Git as ArgoCD self-management won't strip o
 
 [Official Doc - Google auth](https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/google/#openid-connect-using-dex)
 
+
 ### Troubleshooting
 
 #### Getting immediately kicked back out when clicking the `Log in via Google` button
@@ -290,6 +296,42 @@ Two options in `argocd-rbac-cm` are given in [rbac-cm.patch.yaml](https://github
 For faster triggers than polling GitHub repo:
 
 [Official Doc - webhooks](https://argoproj.github.io/argo-cd/operator-manual/webhook/)
+
+## CI/CD - Jenkins CI -> ArgoCD Integration
+
+[Official Doc - Automation from CI Pipelines](https://argoproj.github.io/argo-cd/user-guide/ci_automation/)
+
+Update the image version in a Git repo which ArgoCD watches.
+
+If using [Kustomize](kustomize.md), this is the easiest way to update the version number,
+Jenkins can run this in shell steps, like this Jenkins Shared Library -
+[gitKustomizeImage.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/gitKustomizeImage.groovy):
+
+```shell
+kustomize edit set image eu.gcr.io/myimage:v2.0
+git add . -m "Jenkins updated myimage to v2.0"
+git push
+```
+
+Ensure ArgoCD CLI is configured and authenticated via these environment variables:
+
+```shell
+export ARGOCD_SERVER=argocd.mycompany.com
+export ARGOCD_AUTH_TOKEN=<JWT token generated from project>  # further up under setting up CLI
+```
+
+Trigger a sync of the ArgoCD app to not wait for it to detect the change, and have your CI/CD pipeline wait for the
+result, like this Jenkins Shared Library -
+[argoDeploy.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/argoDeploy.groovy) and
+[argoSync.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/argoSync.groovy):
+
+```shell
+argocd app sync "$app"
+argocd app wait "$app"
+```
+
+See the [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) Shared Library for more production code related to
+ArgoCD, [Docker](docker.md), [GCP](gcp.md) and other technologies.
 
 ## Prometheus metrics + Grafana dashboard
 
