@@ -315,7 +315,11 @@ negotiation and scale.
 
 ### CloudBees on Kubernetes
 
-See [Jenkins on Kubernetes](jenkins-on-kubernetes.md#cloudbees-on-kubernetes)
+See [Jenkins on Kubernetes - CloudBees section](jenkins-on-kubernetes.md#cloudbees-on-kubernetes)
+
+## Jenkin X
+
+See [Jenkins on Kubernetes - Jenkins X section](jenkins-on-kubernetes.md#jenkins-x)
 
 ## Troubleshooting
 
