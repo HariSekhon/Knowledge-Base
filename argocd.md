@@ -156,7 +156,7 @@ Remember: don't git commit the `argocd-cm` configmap addition of the `dex.config
 
 It's not necessary to expose this in Git as ArgoCD self-management won't strip out the field since there is no such field in the Git configmap.
 
-https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/google/#openid-connect-using-dex
+[Official Doc](https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/google/#openid-connect-using-dex)
 
 ### Troubleshooting
 
@@ -208,7 +208,7 @@ that gets solved by a resetting the argocd-server state.
 
 #### RBAC user wildcard `*` does not work in `policy.csv`
 
-https://github.com/argoproj/argo-cd/issues/17377
+[GitHub Issue](https://github.com/argoproj/argo-cd/issues/17377)
 
 Two options in `argocd-rbac-cm` are given in [rbac-cm.patch.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/rbac-cm.patch.yaml):
 
@@ -216,5 +216,10 @@ Two options in `argocd-rbac-cm` are given in [rbac-cm.patch.yaml](https://github
 1. change `policy.default: role:readonly` to `policy.default: role:admin` (allows all users to click everything,
    but most will be reset by [GitOps ArgoCD itself](#gitops-argocd-itself) except for the Git repo connector)
 
+## GitHub Webhooks
+
+For faster triggers than polling GitHub repo:
+
+[Official Doc](https://argoproj.github.io/argo-cd/operator-manual/webhook/)
 
 ###### Ported from private Knowledge Base page 2021+
