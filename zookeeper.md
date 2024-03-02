@@ -40,9 +40,47 @@ Pass a JAAS config to ZooKeeper server when starting using this CLI argument:
 -Djava.security.auth.login.config=/path/to/zookeeper_jaas.conf
 ```
 
+## CLI
+
+Wrapper to `zkCli.sh`, convenient as is in `$PATH`:
+
+```shell
+zookeeper-client
+```
+
+Find and execute `zkCli.sh` from Cloudera install:
+
+```shell
+$(find /usr/lib/zookeeper/bin/zkCli.sh /opt/cloudera/parcels -name zkCli.sh -type f | tail -n1)
+```
+
+Simpler if on an HBase server:
+
+```hbase
+hbase zkcli
+```
+
+Logs + snapshots are never cleaned up, so run `zkCleanup.sh`:
+
+```shell
+zkCleanup.sh
+```
+
+Dump ZooKeeper info:
+
+```shell
+echo stat | nc localhost 2181
+```
+
+Num ZooKeeper client connections:
+
+```shell
+echo cons | nc localhost 2181 | wc -l
+```
+
 ### ZooKeeper 4lw API
 
-4 letter word API is a text API you can use via `netcat` or similar
+4 letter word API is a text API on port 2181 you can use via `netcat` or similar.
 
 | Command | Description                                      |
 |---------|--------------------------------------------------|
@@ -125,6 +163,29 @@ Uses a C module which needs to be installed so this is pointless:
 #mkdir $github/nagios-plugins/lib/Net
 #cp /Library/Perl/5.12/darwin-thread-multi-2level/Net/ZooKeeper $github/nagios-plugins/lib/Net/
 ```
+
+## Multi-DC Availability
+
+- 3 DC - 2 locally close well connected regions + 1 remote region
+- 2 x 2 + 1 remote
+- make sure remote never becomes leader
+- leader election - each ZK sends it's latest `txid`, others respond yes if theirs is less-or-equal or no, becomes leader if majority say yes
+- no way to control leader election priority
+- workarounds: start remote ZK last, monitor it with `stat` 4lw API and kill process if it's leader
+- this may impact write latency somewhat
+- read latency not affected as serviced by the zk node you connect to
+
+## Troubleshooting
+
+If ZK state is bad and it's a dedicated ZooKeeper cluster such as for HBase, to get it all working again:
+
+```shell
+mv /var/lib/zookeeper/version-2 /var/lib/zookeeper/version-2.old
+mkdir /var/lib/zookeeper/version-2
+chown zookeeper:zookeeper /var/lib/zookeeper/version-2
+```
+
+Then start ZooKeeper.
 
 
 ###### Partial port from private Knowledge Base page 2012+
