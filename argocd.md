@@ -136,9 +136,19 @@ kubectl create secret generic github-ssh-key -n argocd --from-file=private-key=$
 
 ## Azure AD Authentication for SSO
 
-https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/microsoft/#azure-ad-app-registration-auth-using-oidc
+[Official Doc](https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/microsoft/#azure-ad-app-registration-auth-using-oidc)
 
 [Azure AD Authentication Config Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/cm.azure-ad.patch.yaml)
+
+For CLI access:
+
+- add section for `Mobile & Desktop applications` with URI `https://$ARGOCD_HOST/auth/callback`
+- App Registration section:
+  - Authentication page:
+    - set `Allow public client flows` to `Yes` at the bottom
+    - to work around [this issue](https://github.com/argoproj/argo-cd/issues/6462)
+
+[Medium article on Azure AD auth](https://medium.com/dzerolabs/configuring-sso-with-azure-active-directory-on-argocd-d20be4ba753b)
 
 ## Google Authentication for SSO
 
