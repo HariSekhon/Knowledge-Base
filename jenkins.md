@@ -250,90 +250,7 @@ Manage -> Jenkins -> Nodes  (deploy via SSH key or user/pass)
 
 ## Jenkins on Kubernetes
 
-[HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs#jenkins-on-kubernetes)
-
-Configs are in the `jenkins/` directory.
-
-You're probably going to need a bigger node pool for the server.
-
-Create a small pool with 16GB nodes because Jenkins server frequently scales past 6GB and doesn't schedule on
-`e2-standard-2` (8GB RAM) so use `e2-standard-4` (16GB RAM):
-
-```shell
-gcloud beta container node-pools create "jenkins" \
-    --cluster "$CLOUDSDK_CONTAINER_CLUSTER" \
-    --machine-type "e2-standard-4" \
-    --num-nodes "1" \
-    --enable-autoscaling \
-    --min-nodes "0" \
-    --max-nodes "1" \
-    --location-policy "BALANCED" \
-    --enable-autoupgrade \
-    --enable-autorepair \
-    --max-surge-upgrade 1 \
-    --max-unavailable-upgrade 0
-```
-
-### Default Admin User + Password
-
-User:
-```shell
-kubectl get secret -n jenkins jenkins -o 'jsonpath={.data.jenkins-admin-user}' | base64 --decode
-```
-
-Password:
-```shell
-kubectl get secret -n jenkins jenkins -o jsonpath="{.data.jenkins-admin-password}" | base64 --decode
-```
-
-WARNING: The Jenkins admin password secret gets changed to a new random value every time you apply the Jenkins Helm
-chart via Kustomize (see [bug report](https://github.com/jenkinsci/helm-charts/issues/1026))
-
-You can also get the secrets from the container, it's just a bit longer, but it's exactly the same as the above and
-has the same bug:
-```shell
-kubectl exec -ti -n jenkins jenkins-0 -c jenkins -- cat /run/secrets/additional/chart-admin-user
-```
-```shell
-kubectl exec -ti -n jenkins jenkins-0 -c jenkins -- cat /run/secrets/additional/chart-admin-password
-```
-
-### Reset the Jenkins admin password when using Kubernetes Helm Chart
-
-Whether you lost the password or got hit by [this bug](https://github.com/jenkinsci/helm-charts/issues/1026), the
-above won't work with the Jenkins helm chart because it resets the admin password from the secret every pod restart
-due to JCasC.
-
-Stop the helm chart from recreating the secret every time by setting this in the chart `values.yaml`:
-```yaml
-controller:
-  admin:
-    existingSecret: jenkins
-```
-
-```shell
-kubectl rollout restart sts jenkins
-```
-
-Then recover the initial admin password to log in:
-```shell
-kubectl get secret -n jenkins jenkins -o jsonpath="{.data.jenkins-admin-password}" | base64 --decode
-```
-
-If you've lost the above `jenkins` secret that JCasC uses (perhaps because ArgoCD pruned it) you can
-recreate it like this:
-
-```shell
-kubectl create secret generic -n jenkins jenkins \
-    --from-literal=jenkins-admin-user="admin" \
-    --from-literal=jenkins-admin-password="$(pwgen -s 20 -c 1)"
-```
-
-then restart Jenkins again for JCasC to reset Jenkins to this new password:
-
-```shell
-kubectl rollout restart sts jenkins
-```
+See [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md)
 
 ## CloudBees
 
@@ -475,4 +392,4 @@ This is an example of a production Jenkins-on-Kubernetes I built and managed for
 
 ![](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/jenkins_kubernetes_cicd.svg)
 
-###### Partial port from private Knowledge Base page 2013+
+###### Ported from private Knowledge Base page 2013+
