@@ -15,7 +15,6 @@ have configured ingress and cert-manager to get the SSL url available).
 kubectl -n argocd get secret -n argocd argocd-initial-admin-secret -o jsonpath='{.data.password}' | base64 --decode
 ```
 
-
 ## ArgoCD Kustomize + Helm Integration for GitOps
 
 Have ArgoCD use [Kustomize](kustomize.md) to materialize Helm charts, patch and combine them with other yamls
@@ -29,6 +28,10 @@ such as custom ingresses and manage them all in a single ArgoCD app in a GitOps 
 
 [App Config Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/app.yaml)
 
+## ArgoCD & Kubernetes Scripts
+
+[DevOps-Bash-tools - Kubernetes section](https://github.com/HariSekhon/DevOps-Bash-tools#kubernetes)
+
 ## GitOps ArgoCD itself
 
 [ArgoCD Self-Managing App Config](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/self.yaml)
@@ -40,6 +43,11 @@ such as custom ingresses and manage them all in a single ArgoCD app in a GitOps 
 ### App-of-Projects Pattern
 
 [App-of-Projects Config](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/projects.yaml) - have projects automaticaly found and loaded from any yamls in the `projects/` directory
+
+## GitHub Webhooks Integration
+
+[GitHub Webhooks Integration Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/secret.github-webhook.patch.yaml)
+
 
 ## Azure AD Authentication for SSO
 
@@ -103,12 +111,5 @@ kubectl rollout restart deploy/argocd-server
 I have no explanation for this behaviour other than it's a probable [bug](https://github.com/argoproj/argo-cd/issues/17378)
 that gets solved by a resetting the argocd-server state.
 
-## GitHub Webhooks Integration
-
-[GitHub Webhooks Integration Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/secret.github-webhook.patch.yaml)
-
-## ArgoCD & Kubernetes Scripts
-
-[DevOps-Bash-tools - Kubernetes section](https://github.com/HariSekhon/DevOps-Bash-tools#kubernetes)
 
 ###### Partial port from private Knowledge Base page 2021+
