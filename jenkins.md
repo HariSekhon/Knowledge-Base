@@ -59,8 +59,7 @@ or script it yourself by calling one of these scripts and then Git committing th
 
 Inspired by [Rancid](https://shrubbery.net/rancid/) which I was using 2010-2013 to back up my Cisco & Juniper
 network configurations to Subversion and later Git (I hacked the code to support the latter). I've written similarly
-functional code Git backport code for other systems like IBM BigInsights, Datameer etc. ([DevOps-Perl-tools]
-(devops-perl-tools.md) repo).
+functional code Git backport code for other systems like IBM BigInsights, Datameer etc. ([DevOps-Perl-tools](devops-perl-tools.md) repo).
 
 ## Jenkins Groovy
 
