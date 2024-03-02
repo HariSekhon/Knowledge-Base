@@ -291,9 +291,8 @@ In Jenkins UI:
       - grant perms to your user/group (should autocomplete if above AAD steps were done right)
         - (not to be confused with the old Matrix-based security bullet point, although both seem to work but only the Azure one gives you autocomplete of groups, while the latter simply needs the group name to match, the azure plugin can differentiate between Outlook365 groups and Security groups)
       - `Save`
-      - Go back to base URL to do AAD login, ignore error pages not from starting point
-      - If you find yourself locked out, go in to container and `perl -pi -e 's/<useSecurity>true/<useSecurity>false/' /var/jenkins_home/config.xml` and restart pod or use JCasC
-        - see [tradition password reset](jenkins.md#reset-the-jenkins-admin-password) or [JCasc password reset](jenkins-on-kubernetes.md#reset-the-jenkins-admin-password-when-using-kubernetes-helm-chart)
+- Go back to base Jenkins URL to do AAD login, ignore error pages not from starting point
+- If you find yourself locked out, follow [tradition password reset](jenkins.md#reset-the-jenkins-admin-password) or [JCasC password reset](jenkins-on-kubernetes.md#reset-the-jenkins-admin-password-when-using-kubernetes-helm-chart)
 
 ## CloudBees
 
