@@ -78,17 +78,14 @@ or download from server for either Mac or Linux:
 
 ```shell
 os="$(uname -s | tr '[:upper:]' '[:lower:]')"
-
 mkdir -p -v ~/bin
-
 curl -L -o ~/bin/argocd "https://$ARGOCD_HOST/download/argocd-$os-amd64" &&
-
 chmod +x ~/bin/argocd
-
 export PATH="$PATH:$HOME/bin"
 ```
 
-or script in in [DevOps-Bash-tools](devops-bash-tools.md) figures out OS and downloads latest version:
+or script in in [DevOps-Bash-tools](devops-bash-tools.md) repo which figures out the OS and downloads the latest CLI
+version binary from GitHub:
 
 ```shell
 install_argocd.sh
