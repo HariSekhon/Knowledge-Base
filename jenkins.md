@@ -226,8 +226,7 @@ Then put this in your CCMenu or similar tool:
 Note: don't commit the JCasC security `googleOAuth2` section to Git as it contains the `clientId` and `clientSecret`.
 Just delete the security `local` so that it doesn't overwrite and revert to local authentication.
 
-[README.md](https://github.com/jenkinsci/google-login-plugin/blob/master/README.md) - steps take 5 minutes, if that,
-easy.
+Instructions are in this [README.md](https://github.com/jenkinsci/google-login-plugin/blob/master/README.md).
 
 ## Jenkins in Docker in one command
 
