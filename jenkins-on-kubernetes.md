@@ -108,6 +108,31 @@ This is an example of a production Jenkins-on-Kubernetes I built and managed for
 
 ![](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/jenkins_kubernetes_cicd.svg)
 
+## Old Manual Configuration of Jenkins on Kubernetes
+
+In the UI click:
+```
+Manage Jenkins
+    -> Manage Nodes and Clouds
+        -> Configure Clouds
+            -> add Kubernetes
+```
+
+Settings:
+
+```
+Credentials -> add -> Jenkins -> GCP service account
+
+Jenkins URL -> http://jenkins-ui.jenkins.svc.cluster.local:8080
+
+Jenkins tunnel -> jenkins-discovery.jenkins.svc.cluster.local:50000
+
+Pod Templates
+  -> Add Pod Template
+    -> copy pod template from k8s repo jenkins agent-pod.yaml (https://github.com/HariSekhon/Kubernetes-configs/blob/master/jenkins/base/agent-pod.yaml)
+    -> Usage -> "Use this node as much as possible" (default: "Only build jobs with label expressions matching this node" <- won't get used)
+```
+
 ## Increase Jenkins Server Disk Space on Kubernetes
 
 The tricks is doing this without losing your job history data.
