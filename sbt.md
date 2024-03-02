@@ -18,7 +18,7 @@ https://www.scala-sbt.org/
 
 The build configuration file of what dependencies to include.
 
-#### Examples:
+#### Build Configs
 
 [HariSekhon/Nagios-Plugin-Kafka - build.sbt](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/build.sbt)
 
