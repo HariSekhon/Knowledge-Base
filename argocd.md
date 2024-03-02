@@ -134,6 +134,75 @@ Load it to a Kubernetes secret which is referenced from
 kubectl create secret generic github-ssh-key -n argocd --from-file=private-key=$HOME/.ssh/argocd_github_key
 ```
 
+## Clusters
+
+Add clusters to deploy to.
+
+Find cluster's context name from your local kubeconfig:
+
+```shell
+kubectl config get-contexts -o name
+```
+
+Add the cluster from the kubectl cluster context configuration:
+
+```shell
+argocd cluster add "$context_name"  # --grpc-web avoids warning message connecting through https ingress
+```
+
+Installs `argocd-manager` to `kube-system` namespace in this cluster with admin `ClusterRole`.
+
+## Applications
+
+Add Applications to deploy to clusters.
+
+Create and apply an [argocd-app.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/app.yaml)
+and let ArgoCD deploy it.
+
+You can also deploy an app imperatively via the CLI, although this should not be done for serious work which should go
+through GitOps using above template.
+
+```shell
+kubectl create ns guestbook
+```
+
+```shell
+argocd app create guestbook --repo https://github.com/argoproj/argocd-example-apps.git \
+                            --path guestbook \
+                            --dest-server https://kubernetes.default.svc \
+                            --dest-namespace guestbook \
+                            --grpc-web
+```
+
+`--dest-server https://kubernetes.default.svc` -
+means in-cluster. Specify external Master URL for deploying to other clusters.
+
+List all ArgoCD apps:
+
+```shell
+argocd app list
+```
+
+Get info on the specific `guestbook` app we just deployed:
+
+```shell
+argocd app get guestbook
+```
+
+Trigger a sync of the `guestbook` app.
+
+```shell
+argocd app sync guestbook
+```
+
+Override image version to deploy for Dev / Staging environments:
+
+This command only overrides this exact `image` with the new `tag`:
+
+```shell
+argocd app set "$name" --kustomize-image "eu.gcr.io/$CLOUSDK_CORE_PROJECT/$image:$tag"
+```
+
 ## Azure AD Authentication for SSO
 
 [Official Doc - Azure AD auth](https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/microsoft/#azure-ad-app-registration-auth-using-oidc)
@@ -225,5 +294,9 @@ For faster triggers than polling GitHub repo:
 ## Prometheus metrics + Grafana dashboard
 
 [Official Doc - metrics](https://argoproj.github.io/argo-cd/operator-manual/metrics/)
+
+## Notifications
+
+[Official Doc - notifications](https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/)
 
 ###### Ported from private Knowledge Base page 2021+
