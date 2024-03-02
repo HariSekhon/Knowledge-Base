@@ -255,4 +255,4 @@ chown zookeeper:zookeeper /var/lib/zookeeper/version-2
 Then start ZooKeeper.
 
 
-###### Partial port from private Knowledge Base page 2012+
+###### Ported from private Knowledge Base page 2012+
