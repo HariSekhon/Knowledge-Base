@@ -8,13 +8,50 @@ Used by major technologies, especially Big Data technologies like HBase, Hive Hi
 
 ## Basics
 
+- mature, robust, well tested and widely used by HBase, Kafka, SolrCloud, HDFS/Yarn/Hive HA ZKFC, Docker Swarm
+- companies: invented by Yahoo - also used by Facebook, YouTube, eBay, Rackspace, Netflix
+
+
+- writes need quorum
+- reads serviced by node you connect to
+
+
 - 3 nodes for HA Quorum
-- 5 nodes for HA Quorum + maintenance ability
+- 5 nodes for HA Quorum during maintenance (eg. still HA while taking 1 node down for maintenance)
 - 1-4 GB ram
 - dedicated disk
 - heavy run ZK should be run on separate machines to HBase RegionServers or Hadoop DataNodes, YARN processing nodes
-- for HBase make sure to comment out HBASE_MANAGE_ZK in `hbase-env.sh`
+- for HBase make sure to comment out `HBASE_MANAGE_ZK` in `hbase-env.sh`
 - network problems often show up first as zookeeper as timeouts / connection problems
+- not recommended for virtual environments due to latency
+
+
+### More Details
+
+- Algorithm is `ZAB` - `ZK Atomic Broadcast`
+  - similar to Paxos - requires majority consensus quorum
+  - main difference is it only has one promoter at a time
+  - stronger focus on total ordering
+  - each election then followed by a synchronization phase before new changes accepted
+- elected master receives all writes + pushes to slaves in ordered fashion
+- slaves also handle read requests + notifications to offload from master
+- znode = binary file + directory with version number, rw perms metadata
+  - ephemeral - TTL, disappears
+  - sequential - auto assigned sequential member suffix by ZK
+  - pattern: ephemeral sequential znodes for leader queue where lowest id znode becomes master
+- global consistent ordering
+- watch on znode:
+  - one shot, must re-register watch
+  - could lose update to that znode in between receiving + re-registering
+  - can detect using version number
+  - workaround to use sequential znodes
+- atomic update by specifying prev version
+  - multiple clients - only one would be successful
+  - useful for distributed counters or partial updates of znode data
+- batch update API - not as powerful as ACID in RDBMS as no global transaction, must specify pre-state version of each znode
+- 1MB znode data limit (but ZK really designed for KB not MB)
+  - jute.maxbuffer java setting = message size limit, this limits both data and znode get children
+    - needs to be increased for many watchers from a client reconnecting such as with Apache Curator
 
 ## Ports
 
@@ -102,7 +139,7 @@ maxClientCnxns
 |---------|--------------------------------------------------|
 | `ruok`  | returns `isok` if OK                             |
 | `isro`  | returns `ro` or `rw` showing if ZK is read-only  |
-| `srvr`  |                                                  |
+| `srvr`  | list full details for the server                 |
 | `stat`  | same as srvr + cons                              |
 | `mntr`  | fuller stats dump, one per line, no client conns |
 | `envi`  | show zookeeper environment                       |
@@ -120,7 +157,6 @@ Curator is to ZooKeeper what Guava is to Java, written by Netflix
 
 http://curator.apache.org/
 
-
 ## Perl ZooKeeper Client Library - `Net::ZooKeeper` build
 
 For [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
@@ -129,14 +165,26 @@ For [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
 export ZK_TEST_HOSTS=cdh43:2181
 ```
 
-As the root user, install the C client library:
+As the root user, install the C client library.
+
+Get latest version:
 
 ```shell
-# install C client library
-export ZOOKEEPER_VERSION=3.4.5
-wget http://www.mirrorservice.org/sites/ftp.apache.org/zookeeper/zookeeper-$ZOOKEEPER_VERSION/zookeeper-$ZOOKEEPER_VERSION.tar.gz
-tar zxvf zookeeper-$ZOOKEEPER_VERSION.tar.gz
-cd zookeeper-$ZOOKEEPER_VERSION/src/c
+export ZOOKEEPER_VERSION="$(
+  curl -sS "https://api.github.com/repos/apache/zookeeper/tags" |
+  jq -r '.[].name' |
+  grep '[[:digit:]]\.[[:digit:]]' |
+  sed 's/^release-//; s/-[[:digit:]]*$//' |
+  sort -nr |
+  head -n 1
+)"
+```
+
+```shell
+#export ZOOKEEPER_VERSION=3.4.5
+wget "http://www.mirrorservice.org/sites/ftp.apache.org/zookeeper/zookeeper-$ZOOKEEPER_VERSION/zookeeper-$ZOOKEEPER_VERSION.tar.gz"
+tar zxvf "zookeeper-$ZOOKEEPER_VERSION.tar.gz"
+cd "zookeeper-$ZOOKEEPER_VERSION/src/c"
 ./configure
 make install
 ```
@@ -179,6 +227,10 @@ Uses a C module which needs to be installed so this is pointless:
 #mkdir $github/nagios-plugins/lib/Net
 #cp /Library/Perl/5.12/darwin-thread-multi-2level/Net/ZooKeeper $github/nagios-plugins/lib/Net/
 ```
+
+## Monitoring
+
+[HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
 
 ## Multi-DC Availability
 
