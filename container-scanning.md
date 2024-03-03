@@ -51,4 +51,4 @@ https://checkmarx.com/resource/documents/en/34965-19110-container-scans.html
 ![](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/jenkins_kubernetes_cicd.svg)
 
 
-###### Ported from private Knowledge Base pages 2018+
+###### Ported from various private Knowledge Base pages 2018+
