@@ -13,6 +13,7 @@ strace
 - agents embedded in the code of the app
 - support for different frameworks out of the box
 - follows from entry point all threads, JDBC calls etc and gives automatic diagram with stats, breakdowns, drilldowns to method calls taking time
+- server can be SaaS or self-hosted
 
 ### Hunting down elusive sources of I/O wait
 
