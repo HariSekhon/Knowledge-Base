@@ -11,9 +11,13 @@ In RHEL 6
 
 `/var/spool/cron` root:root 700
 
-`/var/spool/cron/$USER`
+#### User Crons
 
-`crontab` command is suid to allow to manage it
+Stored in `/var/spool/cron/$USER`.
+
+`crontab` command is suid to allow user to manage it.
+
+Opens the crontab in `$EDITOR` (default `vi` if `$EDITOR` environment variable is not set):
 
 ```shell
 crontab -e
