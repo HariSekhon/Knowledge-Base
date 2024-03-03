@@ -16,4 +16,4 @@ https://beam.apache.org/
   - Python
   - Java
 
-###### Ported from private Knowledge Base pages 2010+
+###### Ported from various private Knowledge Base pages 2010+
