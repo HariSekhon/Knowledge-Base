@@ -64,5 +64,5 @@ Check installed:
 bazel version
 ```
 
-Ported from private Knowledge Base page 2010+ - not sure why I didn't have Makefile notes from years earlier - young guys don't document enough!
+Ported from private Knowledge Base pages 2010+ - not sure why I didn't have Makefile notes from years earlier - young guys don't document enough!
 Bazel notes from 2021
