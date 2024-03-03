@@ -44,4 +44,4 @@ Install agent in kubernetes - must specify namespace:
 codefresh install agent --kube-namespace default
 ```
 
-###### Ported from private Knowledge Base pages 2020+
+###### Ported from private Knowledge Base page 2020+
