@@ -1,5 +1,21 @@
 # Hardware
 
+## HP
+
+### HP Proliant Array Configuration Utility
+
+[Official Doc & Download](https://support.hpe.com/hpesc/public/docDisplay?docId=c02759395&docLocale=en_US)
+
+[DataDisk.co.uk Reference](http://www.datadisk.co.uk/html_docs/redhat/hpacucli.htm)
+
+[Ben Tasker's Cheatsheet](https://snippets.bentasker.co.uk/page-1708021003-HPACUCLI-Cheat-Sheet-BASH.html)
+
+[Cheatography Cheatsheet](https://cheatography.com/the-iceman-blog/cheat-sheets/hpacucli/)
+
+```shell
+hpacucli controller all show config
+```
+
 ## Dell
 
 ### DRAC - Dell Remote Access Controller
