@@ -116,6 +116,9 @@ circleci runner resource-class delete harisekhon/docker
 
 Silently succeeds
 
+## SSH Debuggging
+
+Can debug failing jobs with SSH, see [this doc](https://circleci.com/docs/ssh-access-jobs/).
 
 ## Advanced gotchas
 
