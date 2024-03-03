@@ -60,3 +60,5 @@ GROUP BY 1
 ORDER BY 2 desc
 ;
 ```
+
+###### Ported from private Knowledge Base pages 2019+
