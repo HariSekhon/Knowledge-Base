@@ -49,3 +49,5 @@ artifactoryctl check
 ```shell
 artifactoryctl stop
 ```
+
+###### Ported from private Knowledge Base page 2016+
