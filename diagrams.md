@@ -8,9 +8,9 @@ There are GUI architecture tools, but they tend to be more difficult to reproduc
 
 The cutting edge is Diagrams-as-Code.
 
-## Diagrams-as-Code
+## Real World Architecture Diagrams
 
-[Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - ready made architecture diagrams
+[HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - ready made architecture diagrams
 
 ## Templates
 
