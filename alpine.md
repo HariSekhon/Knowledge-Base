@@ -126,7 +126,7 @@ apk add --upgrade "$pkg"
 
 ### apk-file
 
-https://github.com/jessfraz/apk-file
+https://github.com/genuinetools/apk-file
 
 `apt-file` but for Alpine, finds
 
