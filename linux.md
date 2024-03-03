@@ -63,6 +63,71 @@ Test DHCP response:
 dhcping -s localhost
 ```
 
+### CGroups
+
+Limit resource usage.
+
+This is used by modern containerization like `containerd` and [Docker](docker.md).
+
+Can limit:
+
+- CPU Time
+- CPU core assignments
+- Memory
+- Devices
+- Disk / Block I/O
+- Network bandwidth
+
+```shell
+yum install -y libcgroup
+```
+
+```shell
+service cgconfig start
+```
+
+```shell
+ls /cgroup
+```
+
+```shell
+lscgroup
+```
 
 
-###### Ported from private Knowledge Base page 2002+
+Create cgroup - `/etc/cgconfig.conf`:
+```
+group blah {
+  cpu {
+    cpu.shares = 400;
+  }
+}
+```
+
+```shell
+service cgconfig restart
+```
+
+then add processes (tasks) into cgroups according to parameters in the file:
+
+`/etc/cgrules.conf`:
+```
+<user> <subsystems> <control_group>
+@<group> <subsystems> <control_group>
+<user>:<command> <subsystems> <control_group>
+eg.
+*:firefox cpu,memory browsers/
+```
+
+```shell
+service cgred start
+```
+
+Sysconfig services can instead add this to their `/etc/sysconfig/<servicename>` file
+
+```shell
+CGROUP_DAEMON="<subsystem>:<control_group>"
+```
+
+
+###### Ported from various private Knowledge Base pages 2002+
