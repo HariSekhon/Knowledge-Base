@@ -129,5 +129,15 @@ Sysconfig services can instead add this to their `/etc/sysconfig/<servicename>` 
 CGROUP_DAEMON="<subsystem>:<control_group>"
 ```
 
+### DRBD
+
+- awesome disk replication, used this in the mid to late 2000s
+- mainline Linux kernel now
+- dual-primary (0.9+)
+  - requires clustered filesystem (GFS, OCFS2)
+- `mount -o ro` to avoid complexity of dual primary cluster filesystems
+- sync + async repl options
+- get check_drbd nagios plugin to see how far behind replica is, automatically catches up, low maintenance once set up
+
 
 ###### Ported from various private Knowledge Base pages 2002+
