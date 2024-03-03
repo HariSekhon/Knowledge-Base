@@ -27,6 +27,8 @@ Distributed Task Queue
   - DynamoDB
   - Consul
 
+## Install
+
 ```shell
 pip install -U Celery
 ```
@@ -79,8 +81,7 @@ or
 docker-compose -f $pl/tests/docker/celery-docker-compose.yml up
 ```
 
-# Celery App
-
+## Celery App
 
 my_tasks.py:
 
