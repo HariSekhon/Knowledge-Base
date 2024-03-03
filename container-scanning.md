@@ -49,3 +49,6 @@ https://checkmarx.com/resource/documents/en/34965-19110-container-scans.html
 ## Container Scanning on Jenkins
 
 ![](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/jenkins_kubernetes_cicd.svg)
+
+
+###### Ported from private Knowledge Base pages 2018+
