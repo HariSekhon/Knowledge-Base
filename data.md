@@ -45,6 +45,10 @@ Marshals / Unmarshals Java beans to / from different protocols / data formats.
 
 #### Technology Connectors & Protocols:
 
+https://camel.apache.org/components/latest/index.html
+
+Highlights:
+
 - AWS services
 - ActiveMQ, ZeroMQ
 - Cassandra
