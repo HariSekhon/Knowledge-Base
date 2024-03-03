@@ -2,7 +2,7 @@
 
 ## Big Data
 
-See [bigdata.md](bigdata.md)
+See [big-data.md](big-data.md)
 
 ### Data Integration
 
