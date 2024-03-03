@@ -12,6 +12,8 @@ The cutting edge is Diagrams-as-Code.
 
 [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - ready made architecture diagrams
 
+Mainly D2 and Python diagrams, with some MermaidJS and a little Draw.io / LucidChart.
+
 ## Templates
 
 [Templates](https://github.com/HariSekhon/Templates) for D2 language and Python diagrams are found here, especially
@@ -20,15 +22,24 @@ The cutting edge is Diagrams-as-Code.
 
 ## Diagrams Languages
 
-- [D2 lang](https://d2lang.com/) - easy to use DSL, my favourite
+- [D2 lang](https://d2lang.com/) - excellent, easy to use DSL, my favourite
+  - read [D2 lang](d2.md) for details
 - [Python Diagrams](https://diagrams.mingrammer.com/) - my prior favourite
+  - good for basic Cloud Architecture diagrams with icons
+  - unfortunately no placement control for more complex diagrams
 - [Go Diagrams](https://github.com/blushft/go-diagrams) - a port of Python Diagrams
 - [Cloudgram](https://cloudgram.dedalusone.com/index.html) - another DSL language
-- [GraphViz](https://graphviz.org/) - the classic, used by Terraform graph
+- [GraphViz](https://graphviz.org/) - the classic
+  - its `dot` format is output by [Terraform](terraform.md)'s `terraform graph` command
+  - this is the technology under the hood of Python diagrams above which makes it easier to use for Pythonistas
 - [MermaidJS](https://mermaid.js.org/) - best for embedded live diagrams in GitHub READMEs
-(see my Diagrams-as-Code repo's README examples
-[here](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#github-flow-with-jira-ticket-integration)
-and [here](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#git---environment-branches))
+  - Flow Chart, Git Commit Log Charts, Gantt diagrams etc.
+  - not primarily icon oriented such as for Cloud Architecture diagrams (D2 and Python diagrams are better for that)
+  - can do icons though, see [example](https://text-to-diagram.com/?example=icons&b=mermaid) by D2 comparison site
+  - see [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code)
+repo for live embedded MermaidJS diagrams
+[GitHub Flow with Jira integration](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#github-flow-with-jira-ticket-integration)
+and [Git Environment Branches](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#git---environment-branches)
 - [Structurizer](https://structurizr.com/dsl) - yet another DSL, limited to software models
 - [MarkMap](https://github.com/markmap/markmap) - visualize your Markdown as mindmaps, nice, can open your GitHub repo's
 Markdown directly, although it looks like my
@@ -41,14 +52,18 @@ repo is far too huge a
 ## GUI / Online Diagrams tools
 
 - [Draw.io](https://app.diagrams.net) - mature and can export to XML
-- [LucidChart](https://lucid.app/)
+  - integrates with Confluence to embed diagrams straight into Confluence wiki pages
+- [LucidChart](https://lucid.app/) - used this for a GCP architecture diagram for a startup interview (I got the job)
+  - pre-made VPC, region, zones - quicker to start
 - [CloudCraft](https://app.cloudcraft.co/) - cloud focused diagrams
-- [Creately](https://app.creately.com/)
+  - still only AWS and Azure diagrams as of March 2024
+- [Creately](https://app.creately.com/) - AWS, Azure and GCP diagrams
 - [Prezi](https://prezi.com/) - focused on presentations
 - [Sketch](https://www.sketch.com/)
 - [Cacoo](https://nulab.com/cacoo/)
 - [Gliffy](https://www.gliffy.com/)
 - [Visual Paradigm](https://www.visual-paradigm.com/) - enterprise, does archimate diagrams, complicated, I used this at an investment bank, not my favourite, fine for enterprise architects rather than engineers
+- [Swimm](https://docs.swimm.io/) - AI to generate diagrams from code and documentation sources
 
 ## Important Icon Sets to import into D2
 
@@ -108,7 +123,7 @@ Python Diagrams has the best library, some highlights are below but check their 
   - [Draw.io pre-loaded with AWS, GCP and Azure icons](https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4;azure;gcp2;network;webicons)
   - [Draw.io pre-loaded with AWS icons](https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4)
   - [Draw.io pre-loaded with Azure icons](https://app.diagrams.net/?splash=0&ui=dark&libs=azure)
-  - [Draw.io pre-loaded with GCP icons](https://app.diagrams.net/?splash=0&ui=dark&libs=gcp2)
+  - [Draw.io pre-loaded with GCP icons](https://app.diagrams.net/?splash=0&ui=dark&libs=gcp;gcp2)
 - [LucidChart](https://lucid.app/)
 - [CloudCraft](https://app.cloudcraft.co/)
 - [Creately](https://app.creately.com/)
