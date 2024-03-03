@@ -22,6 +22,13 @@ These often include code coverage as well as best practices for common programmi
 - [GoReportCard](https://goreportcard.com/) - widely used for Golang projects only
 - QuantifiedCode - Python only, shut down Aug 2016
 
+## Peer Review
+
+Hosted Git providers like GitHub and GitLab already have mature peer review in their Pull Requests / Merge Requests
+(they're named differently in GitHub and GitLab but they're the same thing).
+
+- [Gerrit](https://www.gerritcodereview.com/) - free web based code review tool
+
 ## Code Coverage
 
 - [Coveralls.io](https://coveralls.io/)
