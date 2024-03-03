@@ -83,7 +83,7 @@ Hit the watch button on the top right for updates.
 | [Hardware](hardware.md)                                                | [Storage](storage.md)                                                                                                                                                      |
 | Networking                                                             | [Cisco](cisco.md)                                                                                                                                                          | [Juniper](juniper.md)                                                                             | [Foundry](foundry.md)                     |
 | Load Balancing                                                         | [HAProxy](haproxy.md)                                                                                                                                                      |
-| Monitoring                                                             | [Nagios Plugins](https://github.com/HariSekhon/Nagios-Plugins)                                                                                                             |
+| [Monitoring](monitoring.md)                                            | [Nagios Plugins](https://github.com/HariSekhon/Nagios-Plugins)                                                                                                             |
 | [Travel Consulting](travel-consulting.md)                              | [Open Source](open-source.md)                                                                                                                                              |
 
 ## See Also
