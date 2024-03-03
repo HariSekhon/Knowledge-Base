@@ -57,6 +57,7 @@ the weakest repo provider and weakest CI/CD system
 [DevOps-Bash-tools .travis-ci.yml](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/travis/.travis.yml)
 - [AppVeyor](https://www.appveyor.com/) - has Windows builds if you're into that sort of legacy thing
 - [DroneIO](https://www.drone.io/) - Python/Scala (beta), Groovy (new) - unlimited for public project builds but soft limit 30 mins
+  - see [drone.io.md](drone.io.md)
 - [CodeShip](https://www.cloudbees.com/products/codeship) - docker support, pricey. Dead
   - Acquired by CloudBees, no longer free
     - not sure why they bothered when [CloudBees](jenkins.md#cloudbees) are Jenkins experts. Hosted Jenkins is what people really want. That or GitHub Actions whose yaml is simpler than Jenkinsfiles
