@@ -264,4 +264,4 @@ dch
 dch -i -c hadoop.log
 ```
 
-###### Partial port from private Knowledge Base page 2010+
+###### Ported from private Knowledge Base page 2010+ - not sure why so late given usage from 2002 - young guys don't know the value of documentation!
