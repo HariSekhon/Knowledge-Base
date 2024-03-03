@@ -16,11 +16,12 @@ https://github.com/anchore/grype
 
 https://github.com/coreos/clair
 
-Open source static analysis image vulnerability scanner by CoreOS
+Open source static analysis image vulnerability scanner by CoreOS.
 
-Not as good quality, easy to use or reliable in my experience:
+Not as good quality, easy to use or reliable in my experience,
+see [this issue](https://github.com/quay/clair/issues/1756)
 
-https://github.com/quay/clair/issues/1756
+See [Clair](clair.md) page.
 
 ## Proprietary
 
