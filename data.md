@@ -4,13 +4,13 @@
 
 See [big-data.md](big-data.md)
 
-### Data Integration
+## Data Integration
 
 - [Apache Camel](#apache-camel) - open source with 100+ connectors
 - Spring Integration - XML config, only use for Spring heavy shops
 - Mulesoft - XML config, only use for proprietary connectors
 
-## Apache Camel
+### Apache Camel
 
 https://camel.apache.org/
 
