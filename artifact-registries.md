@@ -1,5 +1,9 @@
 # Artifact Registries
 
+Use for storing code packages built in [CI/CD](ci-cd.md) systems for deployments.
+
+In recent years also used for Docker images.
+
 - [Artifactory](https://jfrog.com/artifactory/) -
 JFrog Artifactory is one of the two classic artifact registries
   - mature, full featured
@@ -20,6 +24,7 @@ JFrog Artifactory is one of the two classic artifact registries
   - see this knowledge base's [GCP](gcp.md) page
 - [Azure DevOps Artifacts](https://azure.microsoft.com/en-gb/products/devops/artifacts) -
 convenient for those already using Azure DevOps for repo hosting as it's integrated into the same UI, rather than a separate service like with AWS and GCP
+- [DockerHub](https://hub.docker.com/) - only for [Docker](docker.md) images
 - JFrog BinTray - was a free for open source cloud multi-repo Docker Registry, Maven, Deb, RPM, NPM, Vagrant boxes, Generic. Has been [shut down](https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/) in 2021
 
 ###### Ported from private Knowledge Base page 2014+
