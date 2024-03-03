@@ -131,4 +131,4 @@ Python Diagrams has the best library, some highlights are below but check their 
   - [Online Dashboard](https://online.visual-paradigm.com/drive/#diagramlist:proj=0&dashboard)
 - [Structurizer](https://structurizr.com/dsl)
 
-###### Ported from private Knowledge Base page 2020+
+###### Ported from various private Knowledge Base pages 2020+
