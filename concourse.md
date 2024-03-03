@@ -25,11 +25,24 @@ Boots Concourse CI in Docker, and builds the current repo
 
 ## CLI
 
+### Install
+
+In [HariSekhon/DevOps-Bash-tools](devops-bash-tools.md)
+
+Downloads latest release from GitHub:
+
+```shell
+install/install_fly.sh
+```
+
+Unfortunately no binaries available for new Apple Silicon `arm64` Macs yet, see
+[this issue](https://github.com/concourse/concourse/issues/1379) which has been open for years.
+
 ### fly.sh
 
 Wraps `fly` command to:
 
-- auto-download the CLI if not present
+- auto-download the CLI from the Concourse server if not present
 - uses `$FLY_TARGET` environment if present to inject `-t "$target"` to save repetition of switches
 
 ```shell
