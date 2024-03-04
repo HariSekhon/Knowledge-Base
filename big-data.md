@@ -1,6 +1,31 @@
 # Big Data
 
+## Apache Flink
 
+Used by CapitalOne: http://www.slideshare.net/FlinkForward/flink-case-study-capital-one
+
+- streaming iterative data flow framework
+- DataSet API    (batch)     - Java/Scala/Python
+- DataStream API (streaming) - Java/Scala
+
+```
+Kafka -> Apache Flink -> Elasticsearch -> Kibana 4
+      -> HDFS long term storage + batch processing
+```
+
+- real-time
+- stateful
+- checkpointing
+- exactly once event processing (no duplicate re-computation)
+- accurate
+- event-time-based windowing - even when events arrive out of order or arrive delayed
+- flexible windowsing - can't wait forever
+- alerts, transformations, enrichments, lookups, very low overhead in real-time
+- advanced windowing, machine learning (event correlation, fraud detection, event clustering, anomaly detection, user session analysis)
+- creates plan like Spark, execute() call triggers action
+- auto-updates its state without explicit function like Spark
+- Spark must define micro-batches in either time or size
+- Flink does not require defining a batch size
 
 ## Apache Beam
 
