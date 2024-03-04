@@ -143,10 +143,10 @@ CGROUP_DAEMON="<subsystem>:<control_group>"
 
 Compiles packages from source using Portage package manager.
 
-If you tuning the compilation settings and have the patience to wait for it, this creates the most elite systems,
+If you tune the compilation settings and have the patience to wait for it, this creates the most elite systems,
 ultra customized and noticeably snappier.
 
-Down side is that you spend your life compiling software.
+Downside is that you spend your life compiling software.
 When you go to [Debian](debian.md) it's shocking how quick it is to install packages and get on with your life...
 
 
@@ -178,6 +178,6 @@ so this made them go faster, and so I rebuilt and standardized the entire server
 
 I'd  really love to build elite personal desktops and laptops again - the height of nerdiness :)
 
-Alas Macs are just quicker to get on with the day job...
+Alas, Macs are just quicker to get on with the day job...
 
 ###### Ported from various private Knowledge Base pages 2002+
