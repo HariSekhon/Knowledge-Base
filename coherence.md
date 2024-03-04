@@ -19,9 +19,9 @@ Oracle acquired Tangosol 2007.
 
 
 - Formats:
-- 1. Lookup Table
-- 2. Key-Value pairs
-- 3. Map of Java Objects
+  1. Lookup Table
+  2. Key-Value pairs
+  3. Map of Java Objects
 
 
 - clients connect to node with data directly
