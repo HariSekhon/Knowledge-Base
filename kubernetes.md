@@ -11,6 +11,8 @@
 
 [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)
 
+##### Security: most ingresses I write have IP filters to private addresses and Cloudflare Proxied IPs. You may need to expand this to VPN / office addresses, or the wider internet if you are running public services without WAF protection
+
 ## Kubernetes Scripts
 
 [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#kubernetes)
