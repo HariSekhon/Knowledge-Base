@@ -32,7 +32,7 @@ Glue between technologies and protocols
 
 Marshals / Unmarshals Java beans to / from different protocols / data formats.
 
-#### Data Formats and Compression:
+#### Data Formats and Compression
 
 - JSON
 - XML
@@ -43,7 +43,7 @@ Marshals / Unmarshals Java beans to / from different protocols / data formats.
 - gzip
 - zip
 
-#### Technology Connectors & Protocols:
+#### Technology Connectors & Protocols
 
 https://camel.apache.org/components/latest/index.html
 
