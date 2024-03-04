@@ -3,7 +3,7 @@
 - active API checks - the gold standard most don't know
 - port checks
 - protocol checks
-- metrics & variations
+- metrics & thresholds - deviations from normal
 
 ## Nagios
 
@@ -11,10 +11,11 @@ See [nagios-plugins.md](nagios-plugins.md)
 
 ## Metrics
 
-- OpenTSDB - see [opentsdb.md](opentsdb.md)
+### OpenTSDB
 
+See [opentsdb.md](opentsdb.md)
 
-#### Collectl
+### Collectl
 
 from EPEL:
 
@@ -33,3 +34,12 @@ Start service:
 ```shell
 service collectl restart
 ```
+
+### Ganglia
+
+Simple but old now, used to use for clusters like Hadoop in 2009.
+
+- `gmetad` - server
+- `gmond`  - agent
+
+Port 8649
