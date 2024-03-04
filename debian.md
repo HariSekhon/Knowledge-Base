@@ -142,7 +142,7 @@ Show version and repo in one line concise format without repo pinning priority:
 apt-cache madison "$package"
 ```
 
-###  Which package would provide a given file - `apt-file`
+### Which package would provide a given file - `apt-file`
 
 `apt-file` is an optional program, so you have to install it first:
 
@@ -264,4 +264,4 @@ dch
 dch -i -c hadoop.log
 ```
 
-###### Ported from private Knowledge Base page 2010+ - not sure why so late given usage from 2002 - young guys don't know the value of documentation!
+###### Ported from private Knowledge Base page 2010+ - not sure why so late given usage from 2002 - young guys don't know the value of documentation
