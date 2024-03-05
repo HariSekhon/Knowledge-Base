@@ -2,6 +2,10 @@
 
 Continually tests, builds your code packages and deploys them.
 
+TL;DR use GitHub Actions for fully hosted and Jenkins for self-hosted or more power.
+
+GitHub Actions self-hosted runners are also a reasonable option.
+
 ## Self-Hosted CI/CD
 
 - [Jenkins](https://www.jenkins.io/) - the gold standard open source CI/CD - powerful, extensible, simple to complex to suit your needs
@@ -24,6 +28,7 @@ to have more control of your execution environment or offload build minutes cost
   - 50,000 build minutes included in any GitHub Enterprise Cloud plan makes this a CircleCI killer on cost alone
   - Massive community support and extensibility via GitHub Actions Marketplace
   - 3rd party actions by many prominent tech vendors
+  - self-hosted [runners](https://github.com/HariSekhon/Kubernetes-configs/tree/master/github-actions) can be run on Kubernetes
   - now owned by Microsoft
 - [Azure DevOps Pipelines](https://azure.microsoft.com/en-gb/products/devops/pipelines) - Microsoft's offering to accompany their Git repo hosting
   - uses a single yaml, not as flexible as GitHub Actions
@@ -33,6 +38,7 @@ to have more control of your execution environment or offload build minutes cost
   - uses a single yaml, not as flexible as GitHub Actions
   - good API and documentation
   - lacks GitHub Actions marketplace
+  - self-hosted [runners](https://docs.gitlab.com/runner/) can be run on Kubernetes
   - 400 free build minutes a month
     - has dropped this to 3rd place and relegated this to a legacy CI/CD for open source folks
     - do not use unless you're going Enterprise and are forced to use it
@@ -49,6 +55,7 @@ the weakest repo provider and weakest CI/CD system
 
 - [CircleCI](https://circleci.com/) - mature long standing frontrunner among hosted CI/CD systems
   - free tier with 6000 build minutes a month and 30 parallel builds
+  - self-hosted [runners](https://github.com/HariSekhon/Kubernetes-configs/tree/master/circleci) can be run on Kubernetes
 - [Travis CI](https://www.travis-ci.com/) - one of the first best hosted CI/CD systems
   - used to be free for open source on travis-ci.org which has been shut down
     - legacy now as a result
