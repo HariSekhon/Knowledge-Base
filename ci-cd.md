@@ -40,8 +40,8 @@ to have more control of your execution environment or offload build minutes cost
   - lacks GitHub Actions marketplace
   - self-hosted [runners](https://docs.gitlab.com/runner/) can be run on Kubernetes
   - 400 free build minutes a month
-    - has dropped this to 3rd place and relegated this to a legacy CI/CD for open source folks
-    - do not use unless you're going Enterprise and are forced to use it
+    - has dropped this to 3rd place and relegated this to a legacy CI/CD for open source
+  - do not use unless you're going Enterprise and are forced to use it
 - [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) -
 the weakest repo provider and weakest CI/CD system
   - not as many features
