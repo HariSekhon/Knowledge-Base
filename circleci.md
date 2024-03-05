@@ -19,7 +19,7 @@ https://app.circleci.com/pipelines
 
 ## CircleCI CLI
 
-Follow the [install doc](https://circleci.com/docs/local-cli/) or paste this to run an automated install script
+Follow the [installation doc](https://circleci.com/docs/local-cli/) or paste this to run an automated installation script
 which auto-detects and handles Mac or Linux:
 
 ```shell
@@ -46,6 +46,12 @@ Copy to `.circleci/config.yml` in the root of a Git repo and edit:
 Most of my public GitHub repos have a `.circleci/config.yml` file, eg:
 
 [HariSekhon/DevOps-Bash-tools - .circleci/config.yml](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.circleci/config.yml)
+
+## Self-Hosted Runner on Kubernetes
+
+https://circleci.com/docs/runner-overview/
+
+[HariSekhon/Kubernetes-configs - circleci](https://github.com/HariSekhon/Kubernetes-configs/tree/master/circleci)
 
 ## CLI Usage
 
@@ -116,7 +122,7 @@ circleci runner resource-class delete harisekhon/docker
 
 Silently succeeds
 
-## SSH Debuggging
+## SSH Debugging
 
 Can debug failing jobs with SSH, see [this doc](https://circleci.com/docs/ssh-access-jobs/).
 
