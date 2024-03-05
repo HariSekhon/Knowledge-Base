@@ -34,7 +34,7 @@ to have more control of your execution environment or offload build minutes cost
   - uses a single yaml, not as flexible as GitHub Actions
   - poor API
   - do not use this unless your company forces you to
-- [GitLab CI](https://docs.gitlab.com/ee/ci/) - the second best repo provider drops to 3rd place for CI/CD
+- [GitLab CI](https://docs.gitlab.com/ee/ci/) - the second-best repo provider drops to 3rd place for CI/CD
   - uses a single yaml, not as flexible as GitHub Actions
   - good API and documentation
   - lacks GitHub Actions marketplace
@@ -47,13 +47,13 @@ the weakest repo provider and weakest CI/CD system
   - not as many features
   - not a great API
   - 50 free build minutes a month
-    - when they droped the free build minutes this rendered this useless for open source folks
+    - when they dropped the free build minutes this rendered this useless for open source folks
     - unless you like getting constant emails of build failures due to no build minutes
   - Legacy. Do not use.
 
 ## Hosted CI/CD - 3rd Party and legacy
 
-- [CircleCI](https://circleci.com/) - mature long standing frontrunner among hosted CI/CD systems
+- [CircleCI](https://circleci.com/) - mature long-standing frontrunner among hosted CI/CD systems
   - free tier with 6000 build minutes a month and 30 parallel builds
   - self-hosted [runners](https://github.com/HariSekhon/Kubernetes-configs/tree/master/circleci) can be run on Kubernetes
 - [Travis CI](https://www.travis-ci.com/) - one of the first best hosted CI/CD systems
@@ -73,6 +73,6 @@ the weakest repo provider and weakest CI/CD system
 
 ## See Also
 
-[Code Quality](codequality.md)
+[Code Quality](code-quality.md)
 
 ###### Ported from private Knowledge Base page 2014+
