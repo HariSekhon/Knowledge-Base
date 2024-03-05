@@ -13,7 +13,7 @@ GitHub Actions self-hosted runners are also a reasonable option.
 - [Concourse](https://concourse-ci.org/) - simple, lean, open source CI/CD tool, `fly` CLI is easier to use than Jenkins CLI for easy triggering and testing
 - [GoCD](https://www.gocd.org/index.html) - open source by ThoughtWorks, half-way between Concourse simplicity and Jenkins extensibility
 
-## Host CI/CD by Git repo providers
+## Hosted CI/CD by Git repo providers
 
 Already available on the major Git repo providers.
 
