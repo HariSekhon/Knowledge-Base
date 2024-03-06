@@ -66,25 +66,19 @@ sudo dhcpdump -i en0
 
 ## Mac DHCP Server + PXE boot install Debian Linux
 
-### Download Debian netinstall to TFTP for PXE boot
+### Run DHCP to point to your TFTP Server for PXE boot
 
-from [DevOps-Bash-tools](devops-bash-tools.md):
+Install ISC DHCPd:
 
 ```shell
-debian_netinstall_pxesetup.sh
+brew install isc-dhcp
 ```
 
-This sets up `/private/tftpboot` directory with the Debian stable distribution.
+Remind yourself of the start commands and config location later if you need it:
 
-### Start TFTP
-
-Download [TftpServer](https://download.cnet.com/tftpserver/3000-2648_4-35651.html) to easily start the built-in Mac tftp server.
-
-Start tftpserver which will serve out `/private/tfpboot`.
-
-##### WARNING: TFTP is unauthenticated and accessible to anybody on the network, do not put anything in there that is sensitive and do not run it longer than you have to.
-
-### Run DHCP to point to your TFTP for PXE boot
+```shell
+brew info isc-dhcp
+```
 
 Create a file `/opt/homebrew/etc/dhcpd.conf` with contents like this, change the IP addresses to suit your needs:
 ```shell
@@ -124,4 +118,78 @@ Run `dhcpd` in the foreground for a little while:
 sudo /opt/homebrew/opt/isc-dhcp/sbin/dhcpd -f -cf /opt/homebrew/etc/dhcpd.conf en0
 ```
 
+### Download Debian netinstall to TFTP for PXE boot
+
+from [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+debian_netinstall_pxesetup.sh
+```
+
+This sets up `/private/tftpboot` directory with the Debian stable distribution.
+
+### Start TFTP
+
+You can start it manually on the command line or download [TftpServer](https://download.cnet.com/tftpserver/3000-2648_4-35651.html) to easily start/stop the built-in Mac tftp server via a GUI.
+
+Start the the tftp server which will serve out `/private/tfpboot`.
+
+##### WARNING: TFTP is unauthenticated and accessible to anybody on the network, do not put anything in there that is sensitive and do not run it longer than you have to.
+
+You can also start the TFTP server manually:
+
+#### Manual CLI Method
+
+Ensure the file `/System/Library/LaunchDaemons/tftp.plist` exists with this contents:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Disabled</key>
+    <true/>
+    <key>Label</key>
+    <string>com.apple.tftpd</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/libexec/tftpd</string>
+        <string>-i</string>
+        <string>/private/tftpboot</string>
+    </array>
+    <key>inetdCompatibility</key>
+    <dict>
+        <key>Wait</key>
+        <true/>
+    </dict>
+    <key>InitGroups</key>
+    <true/>
+    <key>Sockets</key>
+    <dict>
+        <key>Listeners</key>
+        <dict>
+            <key>SockServiceName</key>
+            <string>tftp</string>
+            <key>SockType</key>
+            <string>dgram</string>
+        </dict>
+    </dict>
+</dict>
+</plist>
+```
+
+Start tftpd:
+
+```shell
+sudo launchctl load -F /System/Library/LaunchDaemons/tftp.plist
+sudo launchctl start com.apple.tftpd
+```
+
 At this point you can PXE boot and install off the network.
+
+When done, stop tftpd:
+
+```shell
+sudo launchctl stop com.apple.tftpd
+sudo launchctl unload /System/Library/LaunchDaemons/tftp.plist
+```
