@@ -11,7 +11,7 @@ due to [Redhat](redhat.md) killing its original open source Redhat and later com
 to try to force people to pay for Redhat Enterprise Linux. In reality, all this has done is cause Redhat to become a
 legacy Linux distribution.
 
-If you could save only one Linux distribution to remain in existence, it would be Debian.
+If you could save only one Linux distribution to remain in existence, or bet the future on, it would be Debian.
 
 ## Package Management
 
