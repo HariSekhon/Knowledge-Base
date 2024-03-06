@@ -134,7 +134,7 @@ You can start it manually on the command line or download [TftpServer](https://d
 
 Start the the tftp server which will serve out `/private/tfpboot`.
 
-##### WARNING: TFTP is unauthenticated and accessible to anybody on the network, do not put anything in there that is sensitive and do not run it longer than you have to.
+##### WARNING: TFTP is unauthenticated and accessible to anybody on the network, do not put anything in there that is sensitive and do not run it longer than you have to
 
 You can also start the TFTP server manually:
 
