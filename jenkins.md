@@ -58,7 +58,7 @@ java -jar jenkins-cli.jar help
 ```
 
 [jenkins_cli.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/jenkins/jenkins_cli.sh)
-does this autoamtically and its `--help` tells you what sorts of environment variables you need for auth and
+does this automatically and its `--help` tells you what sorts of environment variables you need for auth and
 connectivity which the jar is not good at.
 
 ## Jenkins Shell Scripts
@@ -188,7 +188,7 @@ funcName("param1", "param2")
 
 #### External Scripts
 
-Don't use external shell scripts or similar as they have to be in the source repo, not the shared library library repo,
+Don't use external shell scripts or similar as they have to be in the source repo, not the shared library repo,
 so you can't actually share such external scripts among different builds in different repos without checking them out
 from another git repo as a separate step in the `Jenkinsfile` pipeline because otherwise the script won't be found.
 
@@ -251,7 +251,7 @@ Uses [docker-compose/jenkins.yml](https://github.com/HariSekhon/DevOps-Bash-tool
   - Nodes
     - New Node
       - use [ssh-slaves](https://plugins.jenkins.io/ssh-slaves/)
-        plugin to automatically deploy agents via predistributed SSH keys on the servers
+        plugin to automatically deploy agents via pre-distributed SSH keys on the servers
 
 ## Jenkins on Kubernetes
 
@@ -329,7 +329,7 @@ negotiation and scale.
 
 See [Jenkins on Kubernetes - CloudBees section](jenkins-on-kubernetes.md#cloudbees-on-kubernetes)
 
-## Jenkin X
+## Jenkins X
 
 See [Jenkins on Kubernetes - Jenkins X section](jenkins-on-kubernetes.md#jenkins-x)
 
