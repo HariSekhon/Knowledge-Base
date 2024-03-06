@@ -65,7 +65,7 @@ kubectl exec -ti -n jenkins jenkins-0 -c jenkins -- cat /run/secrets/additional/
 ### Reset the Jenkins admin password when using Kubernetes Helm Chart
 
 Whether you lost the password or got hit by [this bug](https://github.com/jenkinsci/helm-charts/issues/1026), the
-[traditional reset](enkins.md#reset-the-jenkins-admin-password)
+[traditional reset](jenkins.md#reset-the-jenkins-admin-password)
 won't work with the Jenkins helm chart if `securityRealm` -> `local` section is set because JCasC resets
 the admin password from the `jenkins` secret whenever it changes, which will hit you every pod restart.
 
