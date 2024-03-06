@@ -141,4 +141,4 @@ nsupdate -v -k /etc/bind/admin-updater.key
 > send
 ```
 
-###### Ported from private Knowledge Base page 2010+ - should have had notes going back to 2003 but young guys don't document enough!
+###### Ported from private Knowledge Base page 2010+ - should have had notes going back to 2003 but young guys don't document enough
