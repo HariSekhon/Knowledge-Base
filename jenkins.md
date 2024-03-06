@@ -336,28 +336,28 @@ See [Jenkins on Kubernetes - Jenkins X section](jenkins-on-kubernetes.md#jenkins
 ## Tips
 
 1. Use Plugins - they're awesome
-  1. uninstall ones you're not using to save RAM
+   1. uninstall ones you're not using to save RAM
 1. Standardize your Jenkins agents via automation
-  1. config management for Bare Meta / VMs
-  1. preferably [Jenkins on Kubernetes](jenkins-on-kubernetes.md) dynamically spawning agents from pod template
+   1. config management for Bare Meta / VMs
+   1. preferably [Jenkins on Kubernetes](jenkins-on-kubernetes.md) dynamically spawning agents from pod template
 1. Don't run builds on Jenkins server since builds will contend for important server resources needed for job
-   coordination
-  1. Builds on server that's only for trivial small setups, PoCs, local docker testing etc.
-  1. Jenkins server is a vertical scaling bottleneck
-  1. Can cause inconsistencies between builds on agents vs server
+coordination
+   1. Builds on server that's only for trivial small setups, PoCs, local docker testing etc.
+   1. Jenkins server is a vertical scaling bottleneck
+   1. Can cause inconsistencies between builds on agents vs server
 1. Speed up builds via caching
-  1. docker layer caching
-  1. incremental code builds
-1. Integrate with other tools (usually via plugins)
-  1. Sonar, Jira, Gerrit, Allure
-  1. Artifactory / Nexus
-  1. Slack for notifications
+   1. Docker layer caching
+   1. Incremental code builds
+1. Integrate with other tools (usually via plugins):
+   1. Sonar, Jira, Gerrit, Allure
+   1. Artifactory / Nexus
+   1. Slack for notifications
 1. Use Jenkins LTS releases for stability
 1. Test your plugin upgrades on a dev/test instance first as they can break anything on Jenkins
 1. High number of Pipeline Jobs and frequent build executions will degrade Jenkins server performance
-  1. past roughly 150 jobs depending on your execution frequency you'll probably need to split to another Jenkins server
-  1. The resulting 'Islands of Jenkins' multiple UI servers is where [CloudBees](#cloudbees) sells to enterprise a
-     management control plane single pane of glass
+   1. past roughly 150 jobs depending on your execution frequency you'll probably need to split to another Jenkins server
+   1. The resulting 'Islands of Jenkins' multiple UI servers is where [CloudBees](#cloudbees) sells to enterprise a
+management control plane single pane of glass
 
 ## Troubleshooting
 
