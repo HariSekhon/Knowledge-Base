@@ -36,7 +36,7 @@ You can generally use `yum` and `dnf` commands interchangeably for the most part
 
 `yum` of course works on both older and newer systems so we'll keep using this for now.
 
-# Yum & Rpm
+### Yum & Rpm
 
 Find which package would install the `htpasswd` command:
 
@@ -44,15 +44,18 @@ Find which package would install the `htpasswd` command:
 yum provides '*/bin/htpasswd'
 ```
 
-output:
-
 ```shell
-returns java-1.8.0-openjdk-headless
-java-11-openjdk-headless
 yum provides \*/bin/java
 ```
 
-### Proxy Configuration
+output:
+
+```
+java-1.8.0-openjdk-headless
+java-11-openjdk-headless
+```
+
+### Yum Proxy Configuration
 
 Set yum proxy in `/etc/yum.conf`.
 
