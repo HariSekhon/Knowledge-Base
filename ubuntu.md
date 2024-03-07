@@ -40,4 +40,60 @@ Change keyboard layout (requires reboot):
 sudo dpkg-reconfigure keyboard-configuration
 ```
 
+## AutoInstall - Automated Installations
+
+Ubuntu can be automatically installed via a config text file bundled into an installation medium such as a DVD iso or
+served by a web server on the local network.
+
+Newer versions of Ubuntu use [Autoinstall](https://ubuntu.com/server/docs/install/autoinstall)
+([autoinstall-user-data](https://github.com/HariSekhon/Packer-templates/blob/master/installers/anaconda-ks.cfg) config).
+
+This is called by adding the following kernel arguments in the installation grub bootloader:
+
+```shell
+linux /casper/vmlinuz autoinstall 'ds=nocloud-net;s=http://192.168.1.2:8080/'
+```
+
+The above command will search the web server base address for `user-data` and `meta-data` files.
+The `user-data` contents should be the config above with all the installation settings
+but the latter `meta-data` can be empty.
+
+Older versions of Ubuntu used [Redhat](redhat.md)'s Kickstart format
+([anaconda-ks.cfg](https://github.com/HariSekhon/Packer-templates/blob/master/installers/anaconda-ks.cfg) config).
+
+If you just want to start a quick webserver from your local directory, you can do this which starts a local webserver
+on port 8080:
+
+**warning** this will share out your entire `$PWD` local directory contents without authentication so copy to an empty
+/tmp directory and share that so nothing else is exposed:
+
+```shell
+mkdir -p -v /tmp/serve-autoinstall &&
+cp -v autoinstall-user-data /tmp/serve-autoinstall/user-data &&
+touch /tmp/serve-autoinstall/meta-data &&
+cd /tmp/serve-autoinstall &&
+
+python -m SimpleHTTPServer
+```
+
+
+### Autoinstall Template
+
+[HariSekhon/Templates - autoinstall-user-data](https://github.com/HariSekhon/Templates/blob/master/autoinstall-user-data)
+
+### HashiCorp Packer + Autoinstall Config
+
+Packer builds fully automated Virtual Machine golden templates from which to clone virtual machines by booting
+the Ubuntu installer medium with an Autoinstall config.
+
+Real-world Autoinstall config used by Packer build:
+
+[HariSehkon/Packer-templates - installers/autoinstall-user-data](https://github.com/HariSekhon/Packer-templates/blob/master/installers/autoinstall-user-data)
+
+For building Ubuntu VMs with this config, here are relevant real configs:
+
+[HariSehkon/Packer-templates - installers/autoinstall-user-data](https://github.com/HariSekhon/Packer-templates/blob/master/installers/autoinstall-user-data)
+
+[HariSehkon/Packer-templates - ubuntu-x86_64.vbox.pkr.hcl](https://github.com/HariSekhon/Packer-templates/blob/master/ubuntu-x86_64.vbox.pkr.hcl)
+
 ###### Ported from private Knowledge Base page 2010+ - should have been from mid 2000s but young guys don't document enough
