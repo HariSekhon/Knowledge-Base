@@ -10,15 +10,15 @@
 
 ## Package Lists
 
-[Core Packages](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages.txt) -
-for build and scripting
+All the packages I use on Mac are stored in the [DevOps-Bash-tools](devops-bash-tools.md) repo.
 
-[Desktop Packages](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop.txt) -
-everything you might want from core packages - all the techie programs
+[Core build packages and core utils](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages.txt)
 
-[Desktop Casks](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop-casks.txt) - GUI programs
+[Desktop Packages](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop.txt) - long list of cool & techie packages for Mac
 
-[Desktop Taps](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop-taps.txt) - 3rd Party programs
+[Desktop Casks](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop-casks.txt) - major GUI 3rd party apps
+
+[Desktop Taps](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop-taps.txt) - more 3rd party apps
 
 ## Package Management
 
