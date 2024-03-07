@@ -22,10 +22,6 @@ Do not use Redhat based distros for new work today unless you have no other choi
 
 ## Redhat Package Management - Yum & Rpm
 
-Pulp
-
-RHEL/CentOS SCL - Software Collections for newer Python/Perl/MySQL etc
-
 Find which package would install the `htpasswd` command:
 
 ```shell
@@ -387,6 +383,18 @@ Disable + remove all rpms from module stream:
 yum module remove module &&
 yum module disable module
 ```
+
+### RHSCL - Redhat Software Collections
+
+Gives developers newer Python/Perl/MySQL bundles.
+
+https://developers.redhat.com/products/red-hat-software-collections/overview
+
+### Pulp
+
+https://pulpproject.org/
+
+Repository management
 
 ## Kickstart - Automated Installations
 
