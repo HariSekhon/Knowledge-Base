@@ -170,7 +170,6 @@ apt-file list "$package"
 
 ### Local Package Information - `dpkg`
 
-
 List installed packages:
 
 ```shell
