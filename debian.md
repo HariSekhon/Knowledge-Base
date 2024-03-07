@@ -230,23 +230,47 @@ While not as lean as [Alpine](alpine.md), it is full featured and more compatibl
 
 ## Debian Preseeding - Automated Installs
 
-If installing Debian on bare metal servers or virtual machines, Preseeding
-allows fully automated hands-off installations:
+Debian can be installed using Preseeding for fully automated hands-off installations:
 
 https://wiki.debian.org/DebianInstaller/Preseed
+
+Boot command to start installer with a `preseed.cfg` text config file which can be bundled into an installation medium
+such as a DVD iso or served by a web server on the local network.
+
+This is called by adding the following kernel arguments in the installation grub bootloader:
+
+```shell
+auto=true url=http://192.168.1.2:8080/preseed.cfg hostname=debian domain=local
+```
+
+If you just want to start a quick webserver from your local directory, you can do this which starts a local webserver
+on port 8080:
+
+**warning** this will share out your entire `$PWD` local directory contents without authentication so copy to an empty
+/tmp directory and share that so nothing else is exposed:
+
+```shell
+mkdir -p -v /tmp/serve-preseed &&
+cp -v preseed.cfg /tmp/serve-preseed/ &&
+cd /tmp/serve-preseed &&
+
+python -m SimpleHTTPServer
+```
 
 ### Preseed Template
 
 [HariSekhon/Templates - preseed.cfg](https://github.com/HariSekhon/Templates/blob/master/preseed.cfg)
 
-### HashiCorp Packer
+### HashiCorp Packer + Preseed Config
 
 Packer builds fully automated Virtual Machine golden templates from which to clone virtual machines by booting
 the Debian installer medium with Debian Preseed template.
 
-Real world Packer configs for Debian:
+Real-world Preseed config used by Packer build:
 
-[HariSehkon/Packer-templates](https://github.com/HariSekhon/Packer-templates)
+[HariSehkon/Packer-templates - installers/preseed.cfg](https://github.com/HariSekhon/Packer-templates/blob/master/installers/preseed.cfg)
+
+[HariSehkon/Packer-templates - debian-x86_64.vbox.pkr.hcl](https://github.com/HariSekhon/Packer-templates/blob/master/debian-x86_64.vbox.pkr.hcl)
 
 ## Debian Change Log tool
 
