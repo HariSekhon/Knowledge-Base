@@ -131,4 +131,24 @@ Python Diagrams has the best library, some highlights are below but check their 
   - [Online Dashboard](https://online.visual-paradigm.com/drive/#diagramlist:proj=0&dashboard)
 - [Structurizer](https://structurizr.com/dsl)
 
+## GraphViz
+
+in [HariSekhon/Templates](https://github.com/HariSekhon/Templates)
+
+generate `.png` using the `dot` command:
+
+```shell
+dot -T png template.gv -o file.png >/dev/null
+```
+
+open the generated `.png` file:
+
+```shell
+if uname -s | grep -q Darwin; then
+  open file.png  # Mac
+else
+  sxiv file.png  # Linux
+fi
+```
+
 ###### Ported from various private Knowledge Base pages 2020+
