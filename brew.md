@@ -8,43 +8,43 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+## Package Lists
+
+[Core Packages](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages.txt) -
+for build and scripting
+
+[Desktop Packages](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop.txt) -
+everything you might want from core packages - all the techie programs
+
+[Desktop Casks](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop-casks.txt) - GUI programs
+
+[Desktop Taps](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop-taps.txt) - 3rd Party programs
+
 ## Package Management
 
 ```shell
-brew install <package>
+brew install "$package"
 ```
 
 ```shell
-brew reinstall <package>
+brew reinstall "$package"
 ```
 
 ```shell
-brew remove <package>
+brew remove "$package"
 ```
 
 ## Info
 
 ```shell
-brew info <package>
+brew info "$package"
 ```
 
 List files for package:
 
 ```shell
-brew ls --verbose <package>
+brew ls --verbose "$package"
 ```
-
-## Package Lists
-
-[Core Packages](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages.txt) -
-for scripting
-
-[Desktop Packages](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop.txt) -
-everything you might want
-
-[Desktop Taps](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop-taps.txt)
-
-[Desktop Casks](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop-casks.txt)
 
 ## Troubleshooting
 
