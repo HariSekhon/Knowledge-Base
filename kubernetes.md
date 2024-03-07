@@ -6,6 +6,9 @@
 - [MiniKube](https://minikube.sigs.k8s.io/docs/start/)
 - [MiniShift](https://github.com/minishift/minishift) - for OpenShift upstream [okd](https://www.okd.io/)
 - [K3d](https://k3d.io/v5.6.0/) - quickly boots a [K3s](https://k3s.io/) minimal kubernetes distro (fully functional)
+- [Kind](https://kind.sigs.k8s.io/) - Kubernetes in Docker for testing Kubernetes and use in [CI/CD](ci-cd.md).
+Examples of its use are in the [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)
+GitHub Actions CI/CD workflows.
 
 ## Kubernetes Configs
 
