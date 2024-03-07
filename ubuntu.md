@@ -87,12 +87,12 @@ the Ubuntu installer medium with an Autoinstall config.
 
 Real-world Autoinstall config used by Packer build:
 
-[HariSehkon/Packer-templates - installers/autoinstall-user-data](https://github.com/HariSekhon/Packer-templates/blob/master/installers/autoinstall-user-data)
+[HariSekhon/Packer-templates - installers/autoinstall-user-data](https://github.com/HariSekhon/Packer-templates/blob/master/installers/autoinstall-user-data)
 
 For building Ubuntu VMs with this config, here are relevant real configs:
 
-[HariSehkon/Packer-templates - installers/autoinstall-user-data](https://github.com/HariSekhon/Packer-templates/blob/master/installers/autoinstall-user-data)
+[HariSekhon/Packer-templates - installers/autoinstall-user-data](https://github.com/HariSekhon/Packer-templates/blob/master/installers/autoinstall-user-data)
 
-[HariSehkon/Packer-templates - ubuntu-x86_64.vbox.pkr.hcl](https://github.com/HariSekhon/Packer-templates/blob/master/ubuntu-x86_64.vbox.pkr.hcl)
+[HariSekhon/Packer-templates - ubuntu-x86_64.vbox.pkr.hcl](https://github.com/HariSekhon/Packer-templates/blob/master/ubuntu-x86_64.vbox.pkr.hcl)
 
 ###### Ported from private Knowledge Base page 2010+ - should have been from mid 2000s but young guys don't document enough
