@@ -76,7 +76,6 @@ cd /tmp/serve-autoinstall &&
 python -m SimpleHTTPServer
 ```
 
-
 ### Autoinstall Template
 
 [HariSekhon/Templates - autoinstall-user-data](https://github.com/HariSekhon/Templates/blob/master/autoinstall-user-data)
