@@ -66,7 +66,7 @@ Any one of these commands:
 apt-cache search "$term"
 ```
 
-`apt` gives a fancier colourised multi-line output for each package found but I prefer the simpler concise single line format of `apt-get` which is easier to `grep`:
+`apt` gives a fancier colourised multi-line output for each package found, but I prefer the simpler concise single line format of `apt-get` which is easier to `grep`:
 
 ```shell
 apt search "$term"
@@ -225,7 +225,7 @@ reprepro
 Debian is an excellent choice for a base docker image from which to derive and is used by many docker images in the world,
 including several of my own at [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles).
 
-While not as lean as [Alpine](alpine.md), it is full featured and more compatible.
+While not as lean as [Alpine](alpine.md), it is full-featured and more compatible.
 
 ## Debian Preseeding - Automated Installations
 
@@ -267,9 +267,9 @@ the Debian installer medium with Debian Preseed template.
 
 Real-world Preseed config used by Packer build:
 
-[HariSehkon/Packer-templates - installers/preseed.cfg](https://github.com/HariSekhon/Packer-templates/blob/master/installers/preseed.cfg)
+[HariSekhon/Packer-templates - installers/preseed.cfg](https://github.com/HariSekhon/Packer-templates/blob/master/installers/preseed.cfg)
 
-[HariSehkon/Packer-templates - debian-x86_64.vbox.pkr.hcl](https://github.com/HariSekhon/Packer-templates/blob/master/debian-x86_64.vbox.pkr.hcl)
+[HariSekhon/Packer-templates - debian-x86_64.vbox.pkr.hcl](https://github.com/HariSekhon/Packer-templates/blob/master/debian-x86_64.vbox.pkr.hcl)
 
 ## Debian Change Log tool
 
