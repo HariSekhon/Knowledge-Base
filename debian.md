@@ -227,7 +227,7 @@ including several of my own at [HariSekhon/Dockerfiles](https://github.com/HariS
 
 While not as lean as [Alpine](alpine.md), it is full featured and more compatible.
 
-## Debian Preseeding - Automated Installs
+## Debian Preseeding - Automated Installations
 
 Debian can be installed using Preseeding for fully automated hands-off installations:
 
