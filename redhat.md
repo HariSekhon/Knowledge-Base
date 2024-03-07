@@ -20,7 +20,23 @@ becoming the standard Linux distributions and sadly relegating Redhat based dist
 
 Do not use Redhat based distros for new work today unless you have no other choice.
 
-## Redhat Package Management - Yum & Rpm
+## Redhat Package Management - Rpm to Yum to Dnf
+
+`rpm` installs local rpm package files and maintains a local database of installed packages.
+
+`yum` pulls rpms from internet repositories and installs them locally while resolving the dependencies and pulling the
+other required packages. Redhat used to be a nightmare in the early 2000s before Redhat adopted this package manager from
+Yellow Dog Linux (Yum stood for Yellow dog Update Manager). Yum is written in Python, which is a maintenance nightmare
+since the 2000s. Trying to upgrade the system Python would break the world leading to awkward workarounds or virtualenvs.
+
+`dnf` - a drop in yum replacement written in C/C++, often symlinked to `yum` with mostly the same arguments for the basics
+but differing outputs and options have happened over time.
+
+You can generally use `yum` and `dnf` commands interchangeably for the most part.
+
+`yum` of course works on both older and newer systems so we'll keep using this for now.
+
+# Yum & Rpm
 
 Find which package would install the `htpasswd` command:
 
