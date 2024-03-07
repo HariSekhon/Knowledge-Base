@@ -2,7 +2,7 @@
 
 https://www.packer.io/
 
-Packer is an automation technology that builds virtual machines.
+Packer is a tool for automating building virtual machines templates such as importable `.ova` files.
 
 This usually involves running automated installers that are native to each Linux distribution such as
 Redhat [Kickstart](redhat.md#kickstart---automated-installations),
