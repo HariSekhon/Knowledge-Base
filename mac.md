@@ -6,26 +6,26 @@ https://www.apple.com/uk/macbook-pro/
 
 If you don't have an M3 Pro / Max - you're missing out on an excellent (but overpriced) machine.
 
-## Homebrew
+## Homebrew - Package Management
 
 The best most widely used package manager for Mac in the world.
 
-The guy who wrote this didn't get hired by Google ffs... who cares about old bubble sort comp-sci bullshit. Seriously.
+See [brew.md](brew.md) for how to use it and great package lists I've spent years discovering and building up.
 
-https://brew.sh/
+## Service Management
+
+Load and start a service from a `plist` file:
 
 ```shell
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+sudo launchctl load -F "/System/Library/LaunchDaemons/$name.plist"
+sudo launchctl start "com.apple.$name"
 ```
 
-### Homebrew Package Lists
+Stop and unload a service:
 
-All the packages I use on Mac are stored in the [DevOps-Bash-tools](devops-bash-tools.md) repo.
+```shell
+sudo launchctl stop "com.apple.$name"
+sudo launchctl unload "/System/Library/LaunchDaemons/$name.plist"
+```
 
-[Core build packages and core utils](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages.txt)
-
-[Desktop Packages](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop.txt) - long list of cool & techie packages for Mac
-
-[Desktop Casks](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop-casks.txt) - major GUI 3rd party apps
-
-[Desktop Taps](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop-taps.txt) - more 3rd party apps
+See [dhcp.md](dhcp.md) for a practical example of using this for the built-in tftp server for PXE boot installing Debian off your Mac.
