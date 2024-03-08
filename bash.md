@@ -89,6 +89,8 @@ Some less well known commands to remember:
 | `autoexpect`                            | Generate an `expect` script automatically from an interactive run                                                                                                                                               |
 | `flock`                                 | File lock, useful for advanced scripting. I'd previously written [flock.<br/>pl](https://github.com/HariSekhon/DevOps-Perl-tools/blob/master/flock.pl) to allow shell scripts to using programming file locking |
 | `script`                                | Copy everything you write in the shell to a file to record an outline of a script for you                                                                                                                       |
+| `tee`                                   | Pipes output to one or more file arguments as well as stdout for further piping. The `-a` switch appends instead of overwrites the file                                                                         |
+| `fold`                                  | Wraps text to the width specified by `-w N`. Use `-s`  to only fold on spaces, not mid-word                                                                                                                     |
 
 Environment variables to keep in mind:
 
@@ -98,6 +100,61 @@ Environment variables to keep in mind:
 | `TMOUT`   | Times out the shell or script after N seconds from the time this variable it set |
 | `RANDOM`  | A random number                                                                  |
 | `CDPATH`  | List of directories that a `cd` command will take you to with only the basename  |
+
+## Tips & Tricks
+
+Treat a process as a file handle to read from:
+
+```shell
+<(somecommand)
+```
+
+Treat a process as a file handle to write in to:
+
+```shell
+>(somecommand)
+```
+
+A neat trick is to `tee /dev/stderr` to have the output appear on your screen while also sending it onwards for further
+processing in a shell pipeline.
+
+```shell
+echo stuff | tee /dev/stderr | xargs echo processing
+```
+
+Tee to two programs:
+
+```shell
+echo stuff | tee >(cat) | cat
+```
+
+### Fifos
+
+Something that seemed cool in the 2000s was FIFO pipes (first in first out). These are special files that one process
+can write into and another process can read from:
+
+```shell
+mkfifo /tmp/test.fifo
+```
+
+this hangs if there isn't another process reading from the fifo pseudo-file:
+
+```shell
+echo stuff > /tmp/test.fifo
+```
+
+in another shell:
+
+```shell
+cat /tmp/test.fifo
+```
+
+In practice, I can't recall finding a need for this since the 2000s. There usually better solutions.
+
+FIFOs have no real security though and rely on file permissions to stop somebody or some other program writing unexpected
+input into the listening program, which may not be coded defensively enough. In practice people just use temporary files
+between processes not started in the same shell if they really have to. Situations which require long-running IPC would
+probably be better done in a real programming language.
 
 ### Number Lines
 
