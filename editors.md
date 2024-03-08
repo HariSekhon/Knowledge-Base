@@ -115,12 +115,13 @@ You can run the `vimtutor` command on unix or inside `vim` the command `:help tu
 | `gg`                     | Jump to first line of file                                                                                                                   |
 | `G`                      | Jump to last line of file                                                                                                                    |
 | `10G` / `:10`            | Jump to 10th line of file                                                                                                                    |
+| `\|`                     | Jump to column, without a prefix number jumps to start of line                                                                               |
 | Ctrl + `G`               | Show the filename, line number and % through file in the bottom row status line                                                              |
 | Ctrl + `U`               | Jumps cursor up half a page                                                                                                                  |
 | Ctrl + `D`               | Jumps cursor down half a page                                                                                                                |
 | Ctrl + `F`               | Moves the file forward down a page                                                                                                           |
 | Ctrl + `B`               | Moves the file backwards up a page                                                                                                           |
-| `.`                      | Repeats the last command
+| `.`                      | Repeats the last command                                                                                                                     |
 | `J`                      | Joins the current and next line                                                                                                              |
 | `r`                      | Replaces the character under the cursor with the next character you type. `5ra` replaces the next 5 characters with `aaaaa`                  |
 | `~`                      | Toggles the case of the character under the cursor. Hold to toggle through the letters of the word under the cursor                          |
