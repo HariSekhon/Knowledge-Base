@@ -6,7 +6,7 @@ vim testfile.txt
 
 Starts in command mode. Below are mostly commands to remember since everything in insert mode is typed out literally.
 
-Command can often be combined together in shorthand combinations or prefixed with a number to repeat the operation
+Commands can often be used together in shorthand combinations or prefixed with a number to repeat the operation
 N times or for N lines.
 
 Lowercase vs Capitals often do the opposite action / direction.
