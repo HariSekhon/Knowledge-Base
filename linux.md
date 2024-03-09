@@ -129,6 +129,38 @@ Sysconfig services can instead add this to their `/etc/sysconfig/<servicename>` 
 CGROUP_DAEMON="<subsystem>:<control_group>"
 ```
 
+### Disk Management
+
+List disk space of mounted partitions:
+
+```shell
+df -h
+```
+
+List partitions:
+
+```shell
+cat /proc/partitions
+```
+
+Format a spare partition:
+
+```shell
+mkfs.ext4 /dev/sda2
+```
+
+Check and recover filesystem, replay journal, prompts for fixes:
+
+```shell
+fsck /dev/sda2
+```
+
+Mount a filesystem to the directory `/data`:
+
+```shell
+mount /dev/sda2 /data
+```
+
 ### DRBD
 
 - awesome disk replication, used this in the mid to late 2000s
@@ -138,6 +170,14 @@ CGROUP_DAEMON="<subsystem>:<control_group>"
 - `mount -o ro` to avoid complexity of dual primary cluster filesystems
 - sync + async repl options
 - get check_drbd nagios plugin to see how far behind replica is, automatically catches up, low maintenance once set up
+
+## Distributions
+
+[Debian](debian.md) is the standard open source distribution, and it's derivative [Ubuntu](ubuntu.md).
+
+[Redhat](redhat.md) used to the standard enterprise distro but has killed its open source credentials and become legacy.
+
+Gentoo is discussed below
 
 ### Gentoo
 
