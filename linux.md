@@ -1,5 +1,11 @@
 # Linux
 
+### Shell
+
+[Shell](shell.md) - the command line program with some scripting constructs that calls the binary programs in
+`/bin`, `/usr/bin` and similar directories.
+
+Start with [Bash](bash.md) which is the standard open source Linux shell.
 
 ### Cron
 
