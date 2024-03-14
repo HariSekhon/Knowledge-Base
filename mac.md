@@ -57,7 +57,7 @@ You may need to change the partition table type to be able to format with the mo
 Either use Disk Utility above or use `dd` in custom with a command like this to do a moderate 3 pass overwrite
 (tune number of passes to suit your level of data recovery paranoia, eg. DoD standard 7 passes):
 
-```shell
+```
 time for x in {1..3}; do echo pass $x; echo; time sudo dd if=/dev/urandom of=/dev/disk4 bs=1M ; echo; done
 ```
 
