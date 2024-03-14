@@ -14,13 +14,54 @@ See [brew.md](brew.md) for how to use it and great package lists I've spent year
 
 ## Commands
 
-List disks:
+### Disk Management
+
+#### List disks
 
 ```shell
 diskutil list
 ```
 
-## Service Management
+`diskutil mount` and `diskutil mountDisk` are the same
+
+#### Mount a partition
+
+```shell
+diskutil mount /dev/disk4s2
+```
+
+Mount a partition read-only if having trouble and trying to recover data:
+
+```shell
+diskutil mount readOnly /dev/disk4s2
+```
+
+Mount at a different location to the default `/Volumes/<partition_metadata_name>`:
+
+```shell
+diskutil mount /dev/disk4s2 -mountPoint /path/to/dir
+```
+
+#### Format a disk
+
+Use Disk Utility, it's easiest to use:
+
+```shell
+open /System/Applications/Utilities/Disk\ Utility.app
+```
+
+You may need to change the partition table type to be able to format with the more advanced APFS+.
+
+#### Erase a disk
+
+Either use Disk Utility above or use `dd` in custom with a command like this to do a moderate 3 pass overwrite
+(tune number of passes to suit your level of data recovery paranoia, eg. DoD standard 7 passes):
+
+```shell
+time for x in {1..3}; do echo pass $x; echo; time sudo dd if=/dev/urandom of=/dev/disk4 bs=1M ; echo; done
+```
+
+### Service Management
 
 Load and start a service from a `plist` file:
 
@@ -40,7 +81,7 @@ See [dhcp.md](dhcp.md) for a practical example of using this for the built-in tf
 
 ## Creating Bootable USBs
 
-Macs and many computers don't come with CD/DVD any more to save space, so you can either buy an external USB dvd-writer or create bootable USBs.
+Macs and many computers don't come with CD/DVD anymore to save space, so you can either buy an external USB dvd-writer or create bootable USBs.
 
 To create a bootable USBs from ISO image files intended for CD/DVDs in order to use them to install Linux
 or use a disk wiping distro like DBAN or ShredOS,
@@ -51,5 +92,9 @@ from [DevOps-Bash-tools](devops-bash-tools.md):
 ```shell
 mac_iso_to_usb.sh "$iso"  # /dev/disk4
 ```
+
+## Tips
+
+`Cmd-Space` - opens Spotlight search to auto-complete and open anything quickly.
 
 ###### Ported from various private Knowledge Base pages 2010+
