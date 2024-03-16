@@ -16,6 +16,25 @@ See [brew.md](brew.md) for how to use it and great package lists I've spent year
 
 ### Disk Management
 
+Using graphical Disk Utility is easiest:
+
+```shell
+open /System/Applications/Utilities/Disk\ Utility.app
+```
+
+#### CLI Disk Management
+
+Great tutorial:
+
+[Part 1](http://www.theinstructional.com/guides/disk-management-from-the-command-line-part-1) -
+List, Verify, Repair, Rename, Erase volumes
+
+[Part 2](https://www.theinstructional.com/guides/disk-management-from-the-command-line-part-2) -
+Partition, Format, Split / Merge Partitions
+
+[Part 3]() - Create `.dmg` disk images from a Volume / Folder, Encrypted Disk Image, Resize Image, Restore Image
+
+
 #### List disks
 
 ```shell
@@ -42,17 +61,74 @@ Mount at a different location to the default `/Volumes/<partition_metadata_name>
 diskutil mount /dev/disk4s2 -mountPoint /path/to/dir
 ```
 
-#### Format a disk
-
-Use Disk Utility, it's easiest to use:
+Verify a volume:
 
 ```shell
-open /System/Applications/Utilities/Disk\ Utility.app
+diskutil verifyVolume "/Volumes/$NAME"
 ```
 
-You may need to change the partition table type to be able to format with the more advanced APFS+.
+Repair volume:
 
-#### Erase a disk
+```shell
+diskutil repairVolume "/Volumes/$NAME"
+```
+
+```shell
+diskutil verifyPermissions "/Volumes/$NAME"
+```
+
+```shell
+diskutil repairPermissions "/Volumes/$NAME"
+```
+
+Format a partition This is risky because there is no confirmation, better to do this from Disk Utility:
+
+```
+diskutil eraseDisk "$filesystem" "$name" "/dev/$diskN"
+```
+
+See which filesystems are available for formatting:
+
+```shell
+diskutil listFilesystems
+```
+
+Rename a disk:
+
+```shell
+diskutil rename "$volume_name" "$new_volume_name"
+```
+
+#### Format a disk
+
+APFS requires GPT partition table
+
+```shell
+disk="disk4"
+partition_table="GPT"
+name="MyVolume"
+filesystem="APFSX"  # AppleFS case-sensitive, found from 'diskutil listFilesystems' above
+size="0b"           # integer + units suffix (b, m or g for bytes, megabytes or gigabytes) - '0b' uses all space
+```
+
+```
+diskutil partitionDisk "/dev/$disk" "$partition_table" "$filesystem" "$name" "$size"
+```
+
+##### Multiple Partitions
+
+```
+diskutil partitionDisk /dev/"$disk" "$partition_table" "$filesystem" "First"  "$size" \
+                                                       "$filesystem" "Second" "$size" \
+                                                       "$filesystem" "Third"  "$size" \
+                                                       "$filesystem" "Fourth" "$size" \
+                                                       "$filesystem" "Fifth"   0b  # '0b' to use up all remaining space
+```
+
+Partition splitting doesn't seem to work with APFS, only Mac OS Extended, as APFS tells you to
+`diskutil apfs deleteContainer disk10` instead which leaves you with free space to create a new partition.
+
+#### Erase a disk before decommissioning it
 
 Either use Disk Utility above or use `dd` in custom with a command like this to do a moderate 3 pass overwrite
 (tune number of passes to suit your level of data recovery paranoia, eg. DoD standard 7 passes):
@@ -60,6 +136,9 @@ Either use Disk Utility above or use `dd` in custom with a command like this to 
 ```
 time for x in {1..3}; do echo pass $x; echo; time sudo dd if=/dev/urandom of=/dev/disk4 bs=1M ; echo; done
 ```
+
+Note: multiple passes are only for old inaccurate HDDs rotating mechanical metal platter disk.
+For SSDs, you only need a single pass.
 
 ### Service Management
 
