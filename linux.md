@@ -29,6 +29,20 @@ Opens the crontab in `$EDITOR` (default `vi` if `$EDITOR` environment variable i
 crontab -e
 ```
 
+### IPTables
+
+Top for iptables, awesome!
+
+```shell
+iptstate
+```
+
+List rules with line numbers:
+
+```shell
+iptables -nL -line-numbers
+```
+
 ### DHCP
 
 Install ISC DHCPd:
