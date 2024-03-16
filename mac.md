@@ -99,7 +99,7 @@ Rename a disk:
 diskutil rename "$volume_name" "$new_volume_name"
 ```
 
-#### Format a disk
+#### Partition and Format a disk
 
 APFS requires GPT partition table
 
@@ -115,7 +115,7 @@ size="0b"           # integer + units suffix (b, m or g for bytes, megabytes or 
 diskutil partitionDisk "/dev/$disk" "$partition_table" "$filesystem" "$name" "$size"
 ```
 
-##### Multiple Partitions
+##### Multiple Partition and Format
 
 ```
 diskutil partitionDisk /dev/"$disk" "$partition_table" "$filesystem" "First"  "$size" \
@@ -130,11 +130,19 @@ Partition splitting doesn't seem to work with APFS, only Mac OS Extended, as APF
 
 #### Erase a disk before decommissioning it
 
-Either use Disk Utility above or use `dd` in custom with a command like this to do a moderate 3 pass overwrite
-(tune number of passes to suit your level of data recovery paranoia, eg. DoD standard 7 passes):
+Either use Disk Utility above, a command like `diskutil eraseDisk ...` or the more portable unix command `dd` with a
+custom command like this to do a moderate 3 pass overwrite
+(tune number of `passes` variable to suit your level of data recovery paranoia, eg. DoD standard 7 passes):
 
 ```
-time for x in {1..3}; do echo pass $x; echo; time sudo dd if=/dev/urandom of=/dev/disk4 bs=1M ; echo; done
+passes=3
+time \
+for number in $(seq $passes); do
+    echo pass $number
+    echo
+    time sudo dd if=/dev/urandom of=/dev/disk4 bs=1M
+    echo
+done
 ```
 
 Note: multiple passes are only for old inaccurate HDDs rotating mechanical metal platter disk.
