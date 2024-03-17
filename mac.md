@@ -49,6 +49,16 @@ diskutil list
 diskutil mount /dev/disk4s2
 ```
 
+```shell
+diskutil unmount /dev/disk4s2
+```
+
+or by volume location:
+
+```shell
+diskutil unmount "/Volumes/$NAME"
+```
+
 Mount a partition read-only if having trouble and trying to recover data:
 
 ```shell
@@ -59,6 +69,16 @@ Mount at a different location to the default `/Volumes/<partition_metadata_name>
 
 ```shell
 diskutil mount /dev/disk4s2 -mountPoint /path/to/dir
+```
+
+Mount / unmount partitions on a whole disk by reading its partition table:
+
+```shell
+diskutil mountDisk disk10
+```
+
+```shell
+diskutil unmountDisk disk10
 ```
 
 Verify a volume:
@@ -133,6 +153,8 @@ Partition splitting doesn't seem to work with APFS, only Mac OS Extended, as APF
 Either use Disk Utility above, a command like `diskutil eraseDisk ...` or the more portable unix command `dd` with a
 custom command like this to do a moderate 3 pass overwrite
 (tune number of `passes` variable to suit your level of data recovery paranoia, eg. DoD standard 7 passes):
+
+##### WARNING: disk numbers may shunt up in numbers as you insert more removal drives, especially for 'synthesized' virtual disks that display for volume containers
 
 ```
 passes=3
