@@ -1,5 +1,13 @@
 # ViM Cheat Sheet
 
+[ViM](https://www.vim.org/) - `vi` improved
+
+- `vi` is the core editor available on every unix system
+- basic knowledge of `vi` is a core skill for all unix / linux server administrators
+- tonnes of plugins, highly extensible and widely used
+- see my advanced [.vimrc](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.vimrc) for all
+  sorts of trips & tricks, hotkey linting and building, plugins etc.
+
 ```shell
 vim testfile.txt
 ```
