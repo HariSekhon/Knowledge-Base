@@ -14,6 +14,26 @@ See [brew.md](brew.md) for how to use it and great package lists I've spent year
 
 ## Commands
 
+### Finding Files - Spotlight Search and Index Management
+
+The equivalent of `locate` on Linux, uses the Spotlight index:
+
+```shell
+mdfind [-onlyin /path/to/directory] [-name "$filename"] "$term"
+```
+
+Erase and rebuild the Spotlight index:
+
+```shell
+mdutil -E
+```
+
+Enable / disable Spotlight indexing for a given volume or entirely:
+
+```shell
+mdutil -i
+```
+
 ### Disk Management
 
 Using graphical Disk Utility is easiest:
