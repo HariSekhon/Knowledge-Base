@@ -59,7 +59,7 @@ jobs:
       - name: Sync READMEs to Gists
         run: |
           for readme in *.md; do
-            if gh gist list -L 2000 --public | awk '{print $2}' | grep -Fxq "$readme"; do
+            if gh gist list -L 2000 --public | awk '{print $2}' | grep -Fxq "$readme"; then
               id="$(gh gist list -L 2000 --public | awk "/^[[:alnum:]]{32}[[:space:]]+$readme / {print \$1; exit}")"
               gist_contents="$(gh gist view "$id" --filename "$readme" --raw)"
               readme_contents="$(cat "$readme")"
