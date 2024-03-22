@@ -61,7 +61,15 @@ jobs:
           for readme in *.md; do
             if gh gist list -L 2000 --public | awk '{print $2}' | grep -Fxq "$readme"; do
               id="$(gh gist list -L 2000 --public | awk "/^[[:alnum:]]{32}[[:space:]]+$readme / {print \$1; exit}")"
-              gh gist edit "$id" --filename "$readme" --desc "$readme from HariSekhon/Knowledge-Base repo: https://github.com/HariSekhon/Knowlege-Base" "$readme"
+              gist_contents="$(gh gist view "$id" --filename "$readme" --raw)"
+              readme_contents="$(cat "$readme")"
+              if [ "$gist_contents" != "$readme_contents" ]; then
+                echo "Updating Gist for '$readme'"
+                gh gist edit "$id" --filename "$readme" --desc "$readme from HariSekhon/Knowledge-Base repo: https://github.com/HariSekhon/Knowlege-Base" "$readme"
+              else
+                echo "Gist for '$readme' already matches, not updating"
+              fi
             else
+              echo "Creating Gist for '$readme'"
               gh gist create --public --filename "$readme" --desc "$readme from HariSekhon/Knowledge-Base repo: https://github.com/HariSekhon/Knowlege-Base" "$readme"
             fi
