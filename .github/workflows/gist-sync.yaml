@@ -44,7 +44,7 @@ defaults:
     shell: bash -euxo pipefail {0}
 
 env:
-  GH_TOKEN: ${ secrets.GIST_TOKEN }
+  GH_TOKEN: ${{ secrets.GIST_TOKEN }}
 
 jobs:
   sync-gists:
