@@ -56,6 +56,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: GitHub CLI Auth Login
+        run: gh auth login --with-token <<< "$GH_TOKEN"
       - name: Sync READMEs to Gists
         run: |
           gh auth login --with-token <<< "$GH_TOKEN"
