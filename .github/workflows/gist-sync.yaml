@@ -73,3 +73,4 @@ jobs:
               echo "Creating Gist for '$readme'"
               gh gist create --public --filename "$readme" --desc "$readme from HariSekhon/Knowledge-Base repo: https://github.com/HariSekhon/Knowlege-Base" "$readme"
             fi
+          done
