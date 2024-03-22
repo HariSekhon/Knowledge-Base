@@ -1,0 +1,67 @@
+#  vim:ts=2:sts=2:sw=2:et
+#
+#  Author: Hari Sekhon
+#  Date: 2024-03-22 00:24:54 +0000 (Fri, 22 Mar 2024)
+#
+#  https///github.com/HariSekhon/Knowledge-Base
+#
+#  License: see accompanying Hari Sekhon LICENSE file
+#
+#  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback to help steer this or other code I publish
+#
+#  https://www.linkedin.com/in/HariSekhon
+#
+
+---
+name: Gist Sync
+
+on:
+  push:
+    branches:
+      - master
+      - main
+    paths:
+      - '**/*.md'
+      - .github/workflows/gist-sync.yaml
+  pull_request:
+    branches:
+      - master
+      - main
+    paths:
+      - '**/*.md'
+      - .github/workflows/gist-sync.yaml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.ref }}-${{ github.workflow }}
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash -euxo pipefail {0}
+
+env:
+  GH_TOKEN: ${ secrets.GIST_TOKEN }
+
+jobs:
+  sync-gists:
+    if: github.repository_owner == 'HariSekhon'
+    name: Sync Gists
+    timeout-minutes: 20
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Sync READMEs to Gists
+        run: |
+          for readme in *.md; do
+            if gh gist list -L 2000 --public | awk '{print $2}' | grep -Fxq "$readme"; do
+              id="$(gh gist list -L 2000 --public | awk "/^[[:alnum:]]{32}[[:space:]]+$readme / {print \$1; exit}")"
+              gh gist edit "$id" --filename "$readme" --desc "$readme from HariSekhon/Knowledge-Base repo: https://github.com/HariSekhon/Knowlege-Base" "$readme"
+            else
+              gh gist create --public --filename "$readme" --desc "$readme from HariSekhon/Knowledge-Base repo: https://github.com/HariSekhon/Knowlege-Base" "$readme"
+            fi
