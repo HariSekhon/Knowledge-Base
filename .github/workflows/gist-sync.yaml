@@ -73,7 +73,7 @@ jobs:
               fi
               gist_md5="$(gh gist view "$id" --filename "$readme" --raw | md5sum)"
               readme_md5="$(cat "$readme" | md5sum)"
-              if [ "$gist_contents" != "$readme_contents" ]; then
+              if [ "$gist_md5" != "$readme_md5" ]; then
                 echo "Updating Gist for '$readme'"
                 gh gist edit "$id" --filename "$readme" --desc "$readme from HariSekhon/Knowledge-Base repo: https://github.com/HariSekhon/Knowlege-Base" "$readme"
               else
