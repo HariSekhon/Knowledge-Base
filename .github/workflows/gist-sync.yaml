@@ -64,9 +64,10 @@ jobs:
       #
       - name: Sync READMEs to Gists
         run: |
+          gist_list="$(gh gist list -L 2000 --public)"
           for readme in *.md; do
-            if gh gist list -L 2000 --public | awk '{print $2}' | grep -Fxq "$readme"; then
-              id="$(gh gist list -L 2000 --public | awk "/^[[:alnum:]]{32}[[:space:]]+$readme / {print \$1; exit}" || :)"
+            if awk '{print $2}' <<< "$gist_list" | grep -Fxq "$readme"; then
+              id="$(awk "/^[[:alnum:]]{32}[[:space:]]+$readme / {print \$1; exit}" <<< "$gist_list" || :)"
               if [ -z "$id" ]; then
                 echo "Failed to determine ID for gist of file '$readme'"
                 exit 1
