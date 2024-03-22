@@ -66,7 +66,11 @@ jobs:
         run: |
           for readme in *.md; do
             if gh gist list -L 2000 --public | awk '{print $2}' | grep -Fxq "$readme"; then
-              id="$(gh gist list -L 2000 --public | awk "/^[[:alnum:]]{32}[[:space:]]+$readme / {print \$1; exit}")"
+              id="$(gh gist list -L 2000 --public | awk "/^[[:alnum:]]{32}[[:space:]]+$readme / {print \$1; exit}" || :)"
+              if [ -z "$id" ]; then
+                echo "Failed to determine ID for gist of file '$readme'"
+                exit 1
+              fi
               gist_contents="$(gh gist view "$id" --filename "$readme" --raw)"
               readme_contents="$(cat "$readme")"
               if [ "$gist_contents" != "$readme_contents" ]; then
