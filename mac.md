@@ -14,6 +14,56 @@ See [brew.md](brew.md) for how to use it and great package lists I've spent year
 
 ## Commands
 
+### Screenshots
+
+#### Screenshot the Whole Screen
+
+`Cmd` + `Shift` + `3`
+
+#### Screenshot a Selection - Drag a Rectangle
+
+Switches to a cross-hair to drag to what you want to screenshot.
+
+`Cmd` + `Shift` + `4`
+
+#### The Screencapture CLI
+
+You may be prompted to allow Terminal to record the screen under `Privacy & Security` -> `Screen Recording` the first
+time - it'll tell you that you have to restart the Terminal but it worked without a restart.
+
+Switches to select window to capture:
+
+```shell
+screencapture -W /tmp/screenshot.png
+```
+
+Interactive mode with full toolbar, same as the `Screenshot.app`:
+
+```shell
+screencapture -i -U /tmp/screenshot.png
+```
+
+Video recording mode for 10 seconds (without `-V` it will record until you `Ctrl`-`c` it):
+
+```shell
+screencapture -v -V 10 /tmp/videocapture.mp4
+```
+
+So many great options from delayed screenshots, copy to clipboard, open in Preview, capture a coordinate rectangle
+(great for automation!), see:
+
+```shell
+screencapture --help
+```
+
+#### The Screenshot.app
+
+in the Utilities folder is easy to use:
+
+```shell
+open /System/Applications/Utilities/Screenshot.app
+```
+
 ### Finding Files - Spotlight Search and Index Management
 
 The equivalent of `locate` on Linux, uses the Spotlight index:
@@ -165,7 +215,7 @@ diskutil partitionDisk /dev/"$disk" "$partition_table" "$filesystem" "First"  "$
                                                        "$filesystem" "Fifth"   0b  # '0b' to use up all remaining space
 ```
 
-Partition splitting doesn't seem to work with APFS, only Mac OS Extended, as APFS tells you to
+Partition splitting doesn't seem to work with APFS, only macOS Extended, as APFS tells you to
 `diskutil apfs deleteContainer disk10` instead which leaves you with free space to create a new partition.
 
 #### Erase a disk before decommissioning it
