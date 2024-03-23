@@ -14,12 +14,14 @@ See [brew.md](brew.md) for how to use it and great package lists I've spent year
 
 ## Commands
 
+A list of commands is provided at https://ss64.com/mac/.
+
 ### Open
 
-Open any file, directory or URL with the default app, or use `-a` to select which app to use to open it.
+Open a file / folder / URL / Application. Use `-a` to select which app to use to open it.
 Use `-e` to edit the file in TextEdit.
 
-Open URL in default web browser:
+Open URL in the default web browser:
 
 ```shell
 open https://google.com
