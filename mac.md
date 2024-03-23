@@ -16,6 +16,10 @@ See [brew.md](brew.md) for how to use it and great package lists I've spent year
 
 A list of commands is provided at https://ss64.com/mac/.
 
+### Search for or open anything
+
+`Cmd`-`Space` - opens Spotlight search to auto-complete and open anything quickly.
+
 ### Open
 
 Open a file / folder / URL / Application. Use `-a` to select which app to use to open it.
@@ -371,9 +375,5 @@ from [DevOps-Bash-tools](devops-bash-tools.md):
 ```shell
 mac_iso_to_usb.sh "$iso"  # /dev/disk4
 ```
-
-## Tips
-
-`Cmd-Space` - opens Spotlight search to auto-complete and open anything quickly.
 
 ###### Ported from various private Knowledge Base pages 2010+
