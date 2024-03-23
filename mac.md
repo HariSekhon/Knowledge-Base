@@ -14,6 +14,46 @@ See [brew.md](brew.md) for how to use it and great package lists I've spent year
 
 ## Commands
 
+### Open
+
+Open any file, directory or URL with the default app, or use `-a` to select which app to use to open it.
+Use `-e` to edit the file in TextEdit.
+
+Open URL in default web browser:
+
+```shell
+open https://google.com
+```
+
+Open current directory in Finder:
+
+```shell
+open .
+```
+
+Open image in the default app, usually Preview:
+
+```shell
+open file.jpg
+```
+
+You can also drag to the Terminal to paste a file or directory's path, or right-click copy and paste into the terminal
+to get its path on your command line.
+
+### Clipboard
+
+Copy from stdin to clipboard:
+
+```shell
+pbcopy < input.txt
+```
+
+Paste from clipboard to stdout:
+
+```shell
+pbpaste > output.txt
+```
+
 ### Screenshots
 
 #### Screenshot the Whole Screen
@@ -29,7 +69,7 @@ Switches to a cross-hair to drag to what you want to screenshot.
 #### The Screencapture CLI
 
 You may be prompted to allow Terminal to record the screen under `Privacy & Security` -> `Screen Recording` the first
-time - it'll tell you that you have to restart the Terminal but it worked without a restart.
+time - it'll tell you that you have to restart the Terminal, but it worked for me without a restart.
 
 Switches to select window to capture:
 
@@ -64,6 +104,33 @@ in the Utilities folder is easy to use:
 open /System/Applications/Utilities/Screenshot.app
 ```
 
+### Say - text-to-speech
+
+Make your Mac speak. I use this to impress the kids, or even send a message from my study to my living room computer
+by running `say` over an SSH login to the computer downstairs for them to hear!
+
+```shell
+say "Daddy is the greatest"
+```
+
+You can also pipe in text:
+
+```shell
+echo "Daddy is the greatest" | say
+```
+
+Try different voices, list them like this
+
+```shell
+say -v ?
+```
+
+Speak from a text file and save it to an audio file:
+
+```shell
+say -f words.txt -o myaudioclip.aiff
+```
+
 ### Finding Files - Spotlight Search and Index Management
 
 The equivalent of `locate` on Linux, uses the Spotlight index:
@@ -82,6 +149,32 @@ Enable / disable Spotlight indexing for a given volume or entirely:
 
 ```shell
 mdutil -i
+```
+
+### Launchctl
+
+This accesses `launchd`, Mac's init script equivalent.
+
+See which `launchd` scripts are loaded:
+
+```shell
+launchctl list
+```
+
+Stop and unload script, add `-w` to remove it from the boot sequence:
+
+```shell
+sudo launchctl unload [path/to/script]
+```
+
+Launch scripts are found in the following locations:
+
+```
+~/Library/LaunchAgents
+/Library/LaunchAgents
+/Library/LaunchDaemons
+/System/Library/LaunchAgents
+/System/Library/LaunchDaemons
 ```
 
 ### Disk Management
