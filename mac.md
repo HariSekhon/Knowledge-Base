@@ -8,7 +8,7 @@ If you don't have an M3 Pro / Max - you're missing out on an excellent (but over
 
 ## Homebrew - Package Management
 
-The best most widely used package manager for Mac in the world.
+The best most widely used package manager for Mac.
 
 See [brew.md](brew.md) for how to use it and great package lists I've spent years discovering and building up.
 
