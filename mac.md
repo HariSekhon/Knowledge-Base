@@ -179,6 +179,11 @@ Launch scripts are found in the following locations:
 /System/Library/LaunchDaemons
 ```
 
+[Launchd documentation](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html)
+
+[Blog post](https://paul.annesley.cc/2012/09/mac-os-x-launchd-is-cool/) on cool things launchd can do, like watching and
+executing on files that are dropped into directories.
+
 ### Disk Management
 
 Using graphical Disk Utility is easiest:
