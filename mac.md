@@ -362,7 +362,7 @@ sudo launchctl unload "/System/Library/LaunchDaemons/$name.plist"
 
 See [dhcp.md](dhcp.md) for a practical example of using this for the built-in tftp server for PXE boot installing Debian off your Mac.
 
-## Creating Bootable USBs
+## Creating Bootable CDs & USBs from ISOs
 
 Macs and many computers don't come with CD/DVD anymore to save space, so you can either buy an external USB dvd-writer or create bootable USBs.
 
@@ -374,6 +374,52 @@ from [DevOps-Bash-tools](devops-bash-tools.md):
 
 ```shell
 mac_iso_to_usb.sh "$iso"  # /dev/disk4
+```
+
+### Other Options
+
+1. UNetbootin app from github
+2. DiskUtility
+3. CLI
+
+#### CLI
+
+Set your filename in a variable so the following commands can be executed as is without editing:
+
+```shell
+export ISO="memtest86+-5.01.iso"
+```
+
+Convert it to make it bootable - will automatically add `.dmg` suffix => `.img.dmg`:
+
+```shell
+hdiutil convert -format UDRW -o "$ISO.img" "$ISO"
+```
+
+Figure out which is the USB disk - be careful or you'll destroy your system!
+
+```shell
+diskutil list
+```
+
+```shell
+diskutil unmountDisk /dev/diskN
+```
+
+Tip: prefixing disk with 'r' uses raw disk which is faster:
+
+```shell
+sudo dd if="$ISO.img" of=/dev/rdiskN bs=1m # or 1M
+```
+
+```shell
+diskutil eject /dev/diskN
+```
+
+Burn CD - insert blank CD then:
+
+```shell
+hdiutil burn "$ISO"
 ```
 
 ###### Ported from various private Knowledge Base pages 2010+
