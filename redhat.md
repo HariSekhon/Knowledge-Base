@@ -426,11 +426,15 @@ This is called by adding the following kernel arguments in the installation grub
 inst.ks=http://192.168.1.2:8080/kickstart.cfg
 ```
 
+
+(if booting hangs, try adding some of these kernel arguments: `nolapic`, `pci=routeirq`, `pci=noacpi`, `noapic`)
+
+
 If you just want to start a quick webserver from your local directory, you can do this which starts a local webserver
 on port 8080:
 
 **warning** this will share out your entire `$PWD` local directory contents without authentication so copy to an empty
-/tmp directory and share that so nothing else is exposed:
+`/tmp` directory and share that so nothing else is exposed:
 
 ```shell
 mkdir -p -v /tmp/serve-kickstart &&
