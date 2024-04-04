@@ -1,5 +1,11 @@
 # Networking
 
+## CIDR visualizer
+
+Shows bits, netmask, first IP, last IP, number of IPs in range
+
+http://cidr.xyz/
+
 ## VPNs - Virtual Private Networks
 
 Encrypt traffic between 2 locations.
@@ -35,4 +41,5 @@ Standard open source GUI client on Mac that can connect to OpenVPN.
 
 - [Proton VPN](https://protonvpn.com/) - free to use privacy from your internet / wifi hotspot provider.
 Pay for more features or server locations
+- TunnelBear - consumer VPN with free tier
 - [NordVPN](https://nordvpn.com/) - commercial well-established with a kill-switch to reduce risk of leakage
