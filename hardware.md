@@ -68,6 +68,60 @@ racadm serveraction powerdown
 omreport chassis [memory]
 ```
 
+## MegaCLI
+
+Use `-NoLog` arg, otherwise `megacli` drops a little log in your `$PWD`.
+
+The capitalization is not required in general, so `-LdPdInfo` is the same as `-ldpdinfo`.
+
+Show status:
+
+```shell
+MegaCli64 -AdpAllInfo -aAll
+```
+
+Get physical drive info:
+
+```shell
+MegaCli64 -PDList -aAll
+```
+
+Get virtual disk info:
+
+```shell
+MegaCli64 -LDInfo -Lall -aAll
+```
+
+Display configuration:
+
+```shell
+MegaCli64 -CfgDsply -aAll
+```
+
+Dump eventlog events to file 'events' and open it:
+
+```shell
+MegaCli64 -AdpEventLog -GetEvents -f events -aAll && less events
+```
+
+Show you the logical to physical disk mapping:
+
+```shell
+MegaCli64 -ldpdinfo -aAll
+```
+
+Build a logical disk:
+
+```shell
+MegaCli64 -CfgLdAdd -r$raid_level[$enclosure_id:$drive,$enclosure_id:$drive...] -a0
+```
+
+Show info from single disk:
+
+```shell
+MegaCli64 -pdInfo -PhysDrv[$enclosure_id:$disk] -aAll
+```
+
 ## See Also
 
 [Storage](storage.md)
