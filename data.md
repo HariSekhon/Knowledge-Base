@@ -74,3 +74,16 @@ Highlights:
 - Splunk
 - Twitter
 - ZooKeeper
+
+### Mulesoft
+
+- lightweight enterprise service bus + integration framework
+- proprietary connectors
+- Anypoint Studio (Eclipse-based IDE)
+- Anypoint Enterprise Security - security features, transactions
+
+### Spring Integration
+
+TODO
+
+###### Ported from private Knowledge Base pages 2016+
