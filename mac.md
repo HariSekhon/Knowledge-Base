@@ -6,6 +6,15 @@ https://www.apple.com/uk/macbook-pro/
 
 If you don't have an M3 Pro / Max - you're missing out on an excellent (but overpriced) machine.
 
+## Terminal
+
+This is where you should be spending your life if you're a techie, with a browser to supplement referencing documentation.
+
+- `$COLUMNS`
+  - 179 column width on my MacBook Pro 13" terminal
+  - 204 on my MacBook Pro Retina 15" terminal
+  - 215 on my Macbook Pro M3 2023 terminal - resolution gets better over time
+
 ## Homebrew - Package Management
 
 The best most widely used package manager for Mac.
