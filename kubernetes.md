@@ -25,10 +25,104 @@ GitHub Actions CI/CD workflows.
 
 See [.envrc](envrc.md)
 
+## Kubernetes Networking
+
+Kubernetes requires:
+
+- all pods can communicate with each other across nodes
+- all nodes can communicate with all pods
+- no NAT
+
+Kubeadm - must choose network up front. Can switch later but an awful lot of effort
+
+### CNI - Container Network Interface
+
+- standard for pluggable networking in Kubernetes
+- configure with JSON, see here:
+  https://github.com/containernetworking/cni
+
+#### Flannel
+
+- easiest but does not support network policies
+- by CoreOS
+- L3 IPv4
+- several backends eg. VXLAN
+- `flanneld` agent on each node allocates subnet leases for hosts
+
+#### Calico
+
+- flat L3 overlay network
+- no IP encapsulation
+- simple, flexible, scales well for large environments
+- network policies
+- Canal component integrates with Flannel
+- used by Kubernetes, OpenShift, Docker, Mesos, OpenStack
+- Felix agent on each host
+- BIRD dynamic IP routing agent used by Felix - distributes routing info to other hosts
+  calicoctl
+
+#### Weavenet - by WeaveWorks
+
+Legacy. Weaveworks has gone bankrupt now.
+
+- policies
+
+#### Kube-router
+
+Single binary all-in-one LB, Firewall & Router for K8s
+
+#### Romana
+
+- aimed at large clusters
+- integration with kops clusters
+- IPAM-aware topology
+
+#### Installing a CNI Plugin
+
+Can create network using resource manifest for that network type, eg:
+
+```shell
+kubectl create -f https://git.io/weave-kube
+```
+
+#### Plugins by Feature
+
+- allowing VXLan - Canal, Calico, Flannel, Kopeio-networking, WeaveNet
+- Layer 2 - Canal, Flannel, Kopeio-networking, WeaveNet
+- Layer 3 - Project Calico, Romana, Kube Router
+- support Network Policies - Calico, Canal, Kube Router, Romana, WeaveNet (XXX: the rest will silently ignore any configured network policies!)
+- can encrypt TCP/UDP traffic - Calico, Kopeio, Weave Net
+
+### Network Troubleshooting
+
+```shell
+kubectl -n kube-system get pods
+```
+
+```shell
+kubectl -n kube-system describe pod calico-node-xxxxx
+```
+
+To solve this:
+
+```shell
+Readiness probe failed: calico/node is not ready: BIRD is not ready: Failed to stat() nodename file: stat /var/lib/calico/nodename: no such file or directory
+```
+
+```shell
+hostname -f > /var/lib/calico/nodename
+```
+
+```
+Readiness probe failed: calico/node is not ready: BIRD is not ready: Error querying BIRD: unable to connect to BIRDv4 socket: dial unix /var/run/bird/bird.ctl: connect: no such file or directory
+```
+
+`bird` is run via containerd.
+
 ## Tips
 
 - Ingresses:
-  - use `name: http` for target instead of `number: 80` as some services use 80 and some 8080 so you'll get a 503 error if you get it wrong
+  - use `name: http` for target instead of `number: 80` as some services use 80 and some 8080, so you'll get an HTTP 503 error if you get it wrong
   - compare the name and number to the service you're pointing to
 
 ## Troubleshooting
@@ -41,7 +135,7 @@ If you see a namespace that is stuck deleting, you can force the issue at the ri
 kubectl delete ns "$NAMESPACE" --force --grace-period 0
 ```
 
-Sometimes this isn't enough and it gets stucks on finalizers or cert-manager pending challenges:
+Sometimes this isn't enough, and it gets stuck on finalizers or cert-manager pending challenges:
 
 ```
 NAME                                                                STATE     DOMAIN                 AGE
