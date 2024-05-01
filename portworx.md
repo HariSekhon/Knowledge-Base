@@ -19,6 +19,8 @@ Environment variables:
 /etc/pwx/pw_env
 ```
 
+### Administration
+
 Set the Portworx namespace variable for use in future commands:
 
 ```shell
