@@ -85,7 +85,8 @@ rancher --help
 
 ### Example usage
 
-Tip: you can leave the `ls` off several of the commands to list clusters, nodes / machines, namespaces but not server.
+Tip: you can leave the `ls` off several of the commands to list clusters, nodes / machines, namespaces etc.,
+but not server.
 
 List clusters:
 
@@ -165,4 +166,36 @@ Using script in [DevOps-Bash-tools](devops-bash-tools.md), download all kubeconf
 
 ```shell
 rancher_kube_creds.sh
+```
+
+## Rancher Fleet
+
+Fleet [documentation](https://fleet.rancher.io/).
+
+- CRDS + Controller to pull Kubernetes yaml from Git
+- dynamically converts to Helm charts to deploy. Is this actually idempotent like ArgoCD / FluxCD?
+
+Has a separate chart repo to Rancher:
+
+```shell
+brew install helm
+```
+```shell
+helm repo add fleet https://rancher.github.io/fleet-helm-charts/
+```
+
+Install Fleet:
+
+```shell
+helm -n cattle-fleet-system install --create-namespace --wait fleet-crd fleet/fleet-crd
+```
+
+```shell
+helm -n cattle-fleet-system install --create-namespace --wait fleet fleet/fleet
+```
+
+Get fleet status:
+
+```shell
+kubectl -n fleet-local get fleet
 ```
