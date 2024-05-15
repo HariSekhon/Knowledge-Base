@@ -110,6 +110,18 @@ in the Utilities folder is easy to use:
 open /System/Applications/Utilities/Screenshot.app
 ```
 
+### Stats Bar
+
+[Stats](https://github.com/exelban/stats) gives many nice toolbar stats on your Mac's performance for CPU, GPU, RAM, Disk, Network and Battery.
+
+Battery even tells you:
+
+- time to discharge
+- time to charge
+- number of cycles (although this one I'm sure is only since installation of Stats)
+- battery health
+- which apps which are consuming a lot of energy for you to kill them if you're not needing them, helping your battery life when on the move
+
 ### Say - text-to-speech
 
 Make your Mac speak. I use this to impress the kids, or even send a message from my study to my living room computer
