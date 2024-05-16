@@ -85,10 +85,13 @@ rancher --help
 
 ### Example usage
 
+Tip: you can leave the `ls` off several of the commands to list clusters, nodes / machines, namespaces etc.,
+but not server.
+
 List clusters:
 
 ```shell
-rancher clusters ls
+rancher clusters  # ls
 ```
 
 List projects:
@@ -100,19 +103,31 @@ rancher projects ls
 List servers on the currently selected cluster:
 
 ```shell
-rancher nodes ls
+rancher nodes  # ls
 ```
 
 List servers across all clusters and their status:
 
 ```shell
-rancher machines ls
+rancher machines  # ls
 ```
+
+
+- unfortunately neither of these above two commands list the RKE2 versions on each node like the UI does
+- the `ID` column has different contents between `nodes` and `machines` commands
+- `nodes` shows a `State` column (eg. `active`/`cordoned`) as well as two additional fields `Pool` and `Description`
+which may be empty, while `machines` shows a `Phase` field which contains `Running`/`Provisioning`
 
 Show workloads in the current project:
 
 ```shell
 rancher ps
+```
+
+Show namespaces:
+
+```shell
+rancher namespaces  # ls
 ```
 
 Run kubectl proxied commands (slow):
@@ -151,4 +166,36 @@ Using script in [DevOps-Bash-tools](devops-bash-tools.md), download all kubeconf
 
 ```shell
 rancher_kube_creds.sh
+```
+
+## Rancher Fleet
+
+Fleet [documentation](https://fleet.rancher.io/).
+
+- CRDS + Controller to pull Kubernetes yaml from Git
+- dynamically converts to Helm charts to deploy. Is this actually idempotent like ArgoCD / FluxCD?
+
+Has a separate chart repo to Rancher:
+
+```shell
+brew install helm
+```
+```shell
+helm repo add fleet https://rancher.github.io/fleet-helm-charts/
+```
+
+Install Fleet:
+
+```shell
+helm -n cattle-fleet-system install --create-namespace --wait fleet-crd fleet/fleet-crd
+```
+
+```shell
+helm -n cattle-fleet-system install --create-namespace --wait fleet fleet/fleet
+```
+
+Get fleet status:
+
+```shell
+kubectl -n fleet-local get fleet
 ```
