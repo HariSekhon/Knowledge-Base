@@ -1,5 +1,53 @@
 # Performance Engineering
 
+## CPU
+
+- clock speed is the single threaded performance speed. For single threaded applications this really matters. `gzip -9 some_huge_file` and see for yourself.
+- cores are the number of CPU lanes on chip or combined on all CPU chips on a motherboard. This affects the number of parallel applications that can be run at the same time, as well as the performance of an app that is properly multi-threaded (most aren't that parallelized because the programming gets complicated). It's mainly because you want many apps running without waiting for others.
+- [NUMA](https://en.wikipedia.org/wiki/Non-uniform_memory_access)
+- [Von Neumann](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+
+## RAM / Memory
+
+- Paging vs Swapping
+  - paging is technically moving pages of memory between RAM and disk
+  - swapping is used colloquially to mean the same thing but technically it means moving all pages of an application to disk
+  - when a portion of the RAM an application is not using recently is moved by the operating system kernel offloaded to disk, and then later needed to be accessed, the OS must retrieve it back into working physical RAM. This is roughly 1000x slower than just using it from RAM, so doing this too often is very, very bad for performance and should be avoided in most cases
+- Page faults - paging ram pages to/from disk - bad for performance
+- Hard faults - paging
+
+For best performance, one should never page/swap.
+
+Disable swap / paging file on Windows if you have the RAM to spare - live fast or die hard.
+
+If you have limited physical RAM then it can be valid to use swap partition / paging file (same thing Linux vs Windows) is a valid way of conserving your precious fast RAM by not having seldom accessed application data from hogging it and in those cases offloading to disk is the best you can do (the alternative would be crashing the app or OS).
+
+### OOM Killer - Out of Memory Killer
+
+Linux specific algorithm in the linux kernel that activates when out of both physical RAM and swap - it finds the app taking up the most memory and kills it to save the rest of the OS and other applications.
+
+Sometimes this will kill a misbehaving runaway process that is hogging more RAM than it should.
+
+But often that killed app was the main big app that you want to run on a server!
+
+However, it's still usually the better option than the entire system seizing up and becoming unresponsive as you can just restart the application, and a seized up computer often requires a hard power cycle which is the worst option.
+
+There is however the risk of data loss of unflushed data buffers as it's essentially a `kill -9` without warning to the app, but no worse than a hard power cycle.
+
+## Disk
+
+- HDD
+  - hard disk drives use spinning metal platters with magnetic heads that move to the inner or outer part of the disks as they spin
+  - slow, fine for sequential I/O but bad for random I/O due to head seek times
+  - these are the classic hard drives
+  - very vulnerable to physical shocks such as dropping as well as magnets
+- SDD
+  - solid state drives are like big flash memory banks
+  - faster, better for random I/O but with limited number of writes and wear out
+  - more expensive / smaller sizes for the same money
+  - use these if you have the money or care about performance
+
+## Linux CLI tools
 
 lsof
 
