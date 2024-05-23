@@ -4,8 +4,8 @@
 
 - clock speed is the single threaded performance speed. For single threaded applications this really matters. `gzip -9 some_huge_file` and see for yourself.
 - cores are the number of CPU lanes on chip or combined on all CPU chips on a motherboard. This affects the number of parallel applications that can be run at the same time, as well as the performance of an app that is properly multi-threaded (most aren't that parallelized because the programming gets complicated). It's mainly because you want many apps running without waiting for others.
-- [NUMA](https://en.wikipedia.org/wiki/Non-uniform_memory_access)
-- [Von Neumann](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+- [Von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) - CPU instructions and data cannot be retrieved at the same time due to shared buses. This is a performance bottleneck especially in modern computers where the CPU is faster than RAM access as the CPU has to wait for the data transfer to CPU chip, and made worse via bus contention in multiprocessor systems
+- [NUMA architecture](https://en.wikipedia.org/wiki/Non-uniform_memory_access) - separate RAM to CPU buses in multiprocessor systems to avoid one CPU from causing congestion bottleneck to another CPU's RAM access
 
 ## RAM / Memory
 
@@ -13,8 +13,7 @@
   - paging is technically moving pages of memory between RAM and disk
   - swapping is used colloquially to mean the same thing but technically it means moving all pages of an application to disk
   - when a portion of the RAM an application is not using recently is moved by the operating system kernel offloaded to disk, and then later needed to be accessed, the OS must retrieve it back into working physical RAM. This is roughly 1000x slower than just using it from RAM, so doing this too often is very, very bad for performance and should be avoided in most cases
-- Page faults - paging ram pages to/from disk - bad for performance
-- Hard faults - paging
+- Page faults / Hard faults - paging ram pages to/from disk - bad for performance, lots of page faults indicate there is not enough RAM
 
 For best performance, one should never page/swap.
 
