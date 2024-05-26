@@ -261,6 +261,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 
 - [Kafka](kafka.md)
 - [Celery](celery.md)
+- for Kinesis see [AWS](aws.md)
 
 ### Data
 
