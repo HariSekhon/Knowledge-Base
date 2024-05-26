@@ -4,7 +4,7 @@
 #
 #  vim:ts=2:sts=2:sw=2:et
 #
-#  https://github.com/HariSekhon/Docs
+#  https://github.com/HariSekhon/Knowledge-Base
 #
 #  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback
 #
@@ -60,14 +60,5 @@ jobs:
       - uses: actions/checkout@v3
         #name: Git Checkout  # better to show the action@version
 
-      - name: Check all *.md are in the README.md
-        run: |
-          exitcode=0
-          for file_md in *.md; do
-            [ "$file_md" = README.md ] && continue
-            if ! grep -q "$file_md" README.md; then
-              echo "$file_md not in README.md"
-              exitcode=1
-            fi
-          done
-          exit $exitcode
+      - name: Check all *.md are referenced in the README.md index
+        run: .github/scripts/check_index.sh
