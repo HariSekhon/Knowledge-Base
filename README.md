@@ -176,23 +176,23 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 ### CI/CD
 
 - [CI/CD](ci-cd.md)
-  - Self-Hosted:
-    - [Jenkins](jenkins.md)
-      - [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md)
-      - [HariSekhon/Jenkins](https://github.<br/>com/HariSekhon/Jenkins) Groovy Shared Library
-    - [TeamCity](teamcity.md) TODO
-      - [HariSekhon/TeamCity-CI](https://github.com/HariSekhon/Teamcity-CI)
-    - [Concourse](concourse.md)
-    - [GoCD](gocd.md) TODO
-  - Hosted by Git Repo Providers:
-    - [GitHub Actions](github-actions.md) TODO
-    - [GitLab CI](gitlab-ci.md) TODO
-    - [Azure DevOps](azure-devops.md) TODO
-    - [Bitbucket Pipelines](bitbucket.md) TODO
-  - Hosted 3rd Party:
-    - [CircleCI](circleci.md)
-    - [TravisCI](travis.md)
-    - [Drone.io](drone.io.md)
+- Self-Hosted:
+  - [Jenkins](jenkins.md)
+    - [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md)
+    - [HariSekhon/Jenkins](https://github.<br/>com/HariSekhon/Jenkins) - master `Jenkinsfile` template and Groovy Shared Library functions
+  - [TeamCity](teamcity.md) TODO
+    - [HariSekhon/TeamCity-CI](https://github.com/HariSekhon/Teamcity-CI)
+  - [Concourse](concourse.md)
+  - [GoCD](gocd.md) TODO
+- Hosted by Git Repo Providers:
+  - [GitHub Actions](github-actions.md) TODO
+  - [GitLab CI](gitlab-ci.md) TODO
+  - [Azure DevOps](azure-devops.md) TODO
+  - [Bitbucket Pipelines](bitbucket.md) TODO
+- Hosted 3rd Party:
+  - [CircleCI](circleci.md)
+  - [TravisCI](travis.md)
+  - [Drone.io](drone.io.md)
 
 ### Code Scanning
 
