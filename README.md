@@ -222,6 +222,8 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 #### MPP Databases
 
+Massively Parallel Processing databases - horizontally scaling databases:
+
 - [Greenplum](greenplum.md)
 - [Impala](impala.md) TODO
 - [Presto](presto.md) TODO
