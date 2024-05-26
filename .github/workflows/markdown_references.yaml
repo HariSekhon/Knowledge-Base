@@ -4,7 +4,7 @@
 #
 #  vim:ts=2:sts=2:sw=2:et
 #
-#  https://github.com/HariSekhon/Docs
+#  https://github.com/HariSekhon/Knowledge-Base
 #
 #  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback
 #
@@ -61,12 +61,4 @@ jobs:
         #name: Git Checkout  # better to show the action@version
 
       - name: Check all *.md are in the README.md
-        run: |
-          exitcode=0
-          for file_md in $(git grep -Eoh --max-depth 1 '\([[:alnum:]_-]+\.md' | sed 's/^(//' | sort -u); do
-            if ! [ -f "$file_md" ]; then
-              echo "referenced but file not found: $file_md"
-              exitcode=1
-            fi
-          done
-          exit $exitcode
+        run: .github/scripts/check_markdown_references.sh
