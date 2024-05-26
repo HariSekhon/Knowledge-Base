@@ -43,50 +43,314 @@ pending migration.
 
 Hit the watch button on the top right for updates.
 
-| GitHub Repos                                                           | [DevOps-Bash-tools](devops-bash-tools.md)                                                                                                                                  | [DevOps-Python-tools](devops-python-tools.md)                                                     | [DevOps-Perl-tools](devops-perl-tools.md) | [DevOps-Golang-tools](devops-golang-tools.md) |
-|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------|
-| [Linux](linux.md)                                                      | [Debian](debian.md)                                                                                                                                                        | [Ubuntu](ubuntu.md)                                                                               | [Redhat](redhat.md)                       | [Alpine](alpine.md)                           |
-| [Mac](mac.md)                                                          | [Homebrew](brew.md)                                                                                                                                                        | [Diagrams-as-Code](diagrams.md)                                                                   | [D2 lang](d2.md)                          |                                               |
-| [SSH](ssh.md)                                                          | [SSH Tunnelling](ssh-tunnelling.md)                                                                                                                                        | [DNS](dns.md)                                                                                     | [DHCP](dhcp.md)                           |                                               |
-| [Shell](shell.md)                                                      | [Bash](bash.md)                                                                                                                                                            | [.envrc / direnv](envrc.md)                                                                       | [Editors](editors.md)                         | [Vim](vim.md)                                 |
-| [Git](git.md)                                                          | [GitHub](github.md)                                                                                                                                                        | [GitLab](gitlab.md)                                                                               | [Azure DevOps](azure-devops.md)           | [Bitbucket](bitbucket.md)                     |
-| Cloud                                                                  | [AWS](aws.md)                                                                                                                                                              | [GCP](gcp.md)                                                                                     | [Azure](azure.md)                         | [Digital Ocean](digital-ocean.md)             |
-| [Docker](docker.md)                                                    | [Dockerfile](dockerfile.md)                                                                                                                                                | [Docker Compose](docker-compose.md)                                                               | [Docker Swarm](docker-swarm.md)           | [Podman](podman.md)                           |
-| [Kubernetes](kubernetes.md)                                            | [AWS EKS](eks.md)                                                                                                                                                          | [GKE](gke.md)                                                                                     | [AKS](aks.md)                             |                                               |
-| [Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) | [Kustomize](kustomize.md)                                                                                                                                                  | [Helm](helm.md)                                                                                   | [ArgoCD](argocd.md)                       | [Cert Manager](cert-manager.md)               |
-| Container Security                                                     | [Container Scanning](container-scanning.md)                                                                                                                                | [Trivy](trivy.md)                                                                                 | [Grype](grype.md)                         | [Clair](clair.md)                             |
-| [Programming](programming.md)                                          | [Perl](perl.md)                                                                                                                                                            | [Python](python.md)<br/>- [Anaconda](anaconda.md)                                                 | [Golang](go.md)                           | [R](r.md)                                     |
-| [Java](java.md) / JVM                                        | [JVM Performance Tuning](java-jvm-performance-tuning.md)                                                                                           | [Groovy](groovy.md)                                                                               | [Scala](scala.md)                         | [Regular Expressions](regex.md)               |
-| Configuration Management                                               | [Terraform](terraform.md)                                                                                                                                                  | [Ansible](ansible.md)                                                                             | [Puppet](puppet.md)                       |                                               |
-| [Build Systems](build-systems.md)                                      | [Make](make.md)                                                                                                                                                            | [Maven](maven.md)                                                                                 | [Gradle](gradle.md)                       | [SBT](sbt.md)                                 |
-| [Artifact Registries](artifact-registries.md)                          | [Artifactory](artifactory.md)                                                                                                                                              | [ Nexus](sonar.md)                                                                                |                                           |                                               |
-| [CI/CD](ci-cd.md) - Self-Hosted                                        | [Jenkins](jenkins.md)<br/>- [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md)<br/>- [HariSekhon/Jenkins](https://github.<br/>com/HariSekhon/Jenkins) Groovy Shared Library | [TeamCity](teamcity.md)<br/>- [HariSekhon/TeamCity-CI](https://github.com/HariSekhon/Teamcity-CI) | [Concourse](concourse.md)                 | [GoCD](gocd.md)                               |
-| [CI/CD](ci-cd.md) - Hosted by Repo Providers                           | [GitHub Actions](github-actions.md)                                                                                                                                        | [GitLab CI](gitlab-ci.md)                                                                         | [Azure DevOps](azure-devops.md)           | [Bitbucket Pipelines](bitbucket.md)           |
-| [CI/CD](ci-cd.md) - Hosted                                             | [CircleCI](circleci.md)                                                                                                                                                    | [TravisCI](travis.md)                                                                             | [Drone.io](drone.io.md)                   |                                               |
-| [Code Scanning](code-scanning.md)                                      | [Code Quality](code-quality.md)                                                                                                                                            | [SonarQube](sonarqube.md)                                                                         | [CodeClimate](codeclimate.md)             | [Codefresh](codefresh.md)                     |
-| Internet Services                                                      | [HTTP Proxying](http-proxying.md)                                                                                                                                          | [Cloudflare](cloudflare.md)                                                                       |                                           |                                               |
-| Databases / RDBMS                                                      | [SQL](sql.md)<br/>- [SQL scripts](https://github.com/HariSekhon/SQL-scripts)                                                                                               | [MySQL](mysql.md)                                                                                 | [PostgreSQL](postgres.md)                 |                                               |
-| MPP Databases                                                          | [Data Warehousing](data-warehousing.md)                                                                                                                                    | [Greenplum](greenplum.md)                                                                         |                                           |                                               |
-| Hosted MPP Databases                                                   | [Snowflake](snowflake.md)                                                                                                                                                  | [Google BigQuery](bigquery.md)                                                                    | [AWS Redshift](redshift.md)               |                                               |
-| Database Management                                                    | [LiquiBase](liquibase.md)                                                                                                                                                  | [AtlasGo](atlasgo.md)                                                                             |                                           |                                               |
-| NoSQL                                                                  | [Cassandra](cassandra.md)                                                                                                                                                  | [Couchbase](couchbase.md)                                                                         | [HBase](hbase.md)                         | [MongoDB](mongo.md)                           |
-| Caching                                                                | [Redis](redis.md)                                                                                                                                                          | [Memcached](memcached.md)                                                                         | [Couchbase](couchbase.md)                 | [Oracle Coherence](coherence.md)              |
-| Search                                                                 | [Elasticsearch](elasticsearch.md)                                                                                                                                          | [Solr](solr.md)                                                                                   | [Logstash](logstash.md)                   |                                               |
-| Pub/Sub & Message Queues                                               | [Kafka](kafka.md)                                                                                                                                                          | [Celery](celery.md)                                                                               |                                           |                                               |
-| [Data](data.md)                                                        | [Big Data](big-data.md)                                                                                                                                                    | [Spark](spark.md)                                                                                 | [Kafka](kafka.md)                         | [Data Warehousing](data-warehousing.md)       |
-| MapReduce                                                              | [Hadoop](hadoop.md)<br/> - [Kerberos](hadoop-kerberos.md)                                                                                                                  | [YARN](yarn.md)                                                                                   | [HDFS](hdfs.md)                           | [Pig](pig.md)                                 |
-| [Distributed SQL](distributed-sql.md)                                  | [Hive](hive.md)                                                                                                                                                            | [Impala](impala.md)                                                                               | [Presto](presto.md)                       | [Apache Drill](drill.md)                      |
-|                                                                        | [HBase](hbase.md)                                                                                                                                                          | [ZooKeeper](zookeeper.md)                                                                         | [Storm](storm.md)                         | [Data Warehousing](data-warehousing.md)       |
-| [Data Science](data-science.md)                                        | [Python](python.md)<br/>- [Anaconda](anaconda.md)                                                                                                                          | [R](r.md)                                                                                         | [Octave](octave.md)                       |                                               |
-| Time Series Databases                                                  | [OpenTSDB](opentsdb.md)<br/>- [TCollector](tcollector.md)                                                                                                                  | [InfluxDB](influxdb.md)                                                                           |                                           |                                               |
-| [Performance](performance.md)                                          | [Stress Testing](stress-testing.md)                                                                                                                                        |                                                                                                   |                                           |                                               |
-| [Security](security.md)                                                | [SSL](ssl.md)                                                                                                                                                              | [Kerberos](kerberos.md)                                                                           | [FreeIPA](freeipa.md)                     | [Penetration Testing](pentesting.md)          |
-| [Virtualization](virtualization.md)                                    | [VirtualBox](virtualbox.md)                                                                                                                                                | [Vagrant](vagrant.md)                                                                             | [Packer](packer.md)                       | [OpenStack](openstack.md)                     |
-| [Hardware](hardware.md)                                                | [Storage](storage.md)                                                                                                                                                      |                                                                                                   |                                           |                                               |
-| [Networking](networking.md)                                            | [Cisco](cisco.md)                                                                                                                                                          | [Juniper](juniper.md)                                                                             | [Foundry](foundry.md)                     |                                               |
-| Load Balancing                                                         | [HAProxy](haproxy.md)                                                                                                                                                      | [F5](f5.md)                                                                                       |                                           |                                               |
-| [Monitoring](monitoring.md)                                            | [Nagios Plugins](nagios-plugins.md)                                                                                                                                        | [DevOps Misc](devops.md)                                                                          |                                           |                                               |
-| [Travel Consulting](travel-consulting.md)                              | [Open Source](open-source.md)                                                                                                                                              | [Dev Misc](dev.md)                                                                                | [AI](ai.md)                               | [Banking](banking.md)                         |
+### GitHub Repos
+
+Full of open source tools and scripts used throughout the rest of these docs to make it easier to install and operate these technologies:
+
+- [DevOps-Bash-tools](devops-bash-tools.md) - 1000+ Bash scripts, advanced shell environment customizations, quick installation scripts and dot configs
+- [DevOps-Python-tools](devops-python-tools.md) - 80+ Python programs
+- [DevOps-Perl-tools](devops-perl-tools.md) - 25+ Perl programs
+- [DevOps-Golang-tools](devops-golang-tools.md) - a handful of Golang programs
+
+### Linux / Unix
+
+- [Linux](linux.md)
+  - [Debian](debian.md)
+  - [Ubuntu](ubuntu.md)
+  - [Redhat](redhat.md)
+  - [Alpine](alpine.md)
+- [Mac](mac.md)
+  - [Homebrew](brew.md)
+- [Shell](shell.md)
+  - [Bash](bash.md)
+  - [.envrc / direnv](envrc.md)
+
+### Core Services - DNS, DHCP, SSH
+
+- [SSH](ssh.md)
+  - [SSH Tunnelling](ssh-tunnelling.md)
+- [DNS](dns.md)
+- [DHCP](dhcp.md)
+
+### Editors
+
+- [Editors](editors.md)
+- [Vim](vim.md)
+- [IntelliJ](intellij.md)
+
+### Architecture
+
+- [Diagrams-as-Code](diagrams.md)
+  - [D2 lang](d2.md)
+
+### Git
+
+- [Git](git.md)
+- [GitHub](github.md) TODO
+- [GitLab](gitlab.md)
+- [Azure DevOps](azure-devops.md) TODO
+- [Bitbucket](bitbucket.md) TODO
+
+### Cloud
+
+- [AWS](aws.md)
+- [GCP](gcp.md)
+- [Azure](azure.md)
+- [Digital Ocean](digital-ocean.md)
+- [PaaS](paas.md)
+- [MinIO](minio.md)
+
+### Docker
+
+- [Docker](docker.md)
+- [Dockerfile](dockerfile.md) TODO
+- [Docker Compose](docker-compose.md)
+- [Docker Swarm](docker-swarm.md) TODO
+- [Podman](podman.md)
+
+### Kubernetes
+
+- [Kubernetes](kubernetes.md)
+- [AWS EKS](eks.md) TODO
+- [GKE](gke.md) TODO
+- [AKS](aks.md) TODO
+
+#### On-premise Kubernetes
+
+- [K3s](k3s.md) TODO
+- [K3d](k3d.md) TODO
+- [Rancher](rancher.md)
+- [RKE2](rke2.md)
+- [Portworx](portworx.md)
+
+#### Kubernetes Applications & Lifecycle Management
+
+- [Helm](helm.md) TODO
+- [Kustomize](kustomize.md)
+- [ArgoCD](argocd.md)
+- [Cert Manager](cert-manager.md)
+- [Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)
+
+### Container Security
+
+- [Container Scanning](container-scanning.md)
+- [Trivy](trivy.md) TODO
+- [Grype](grype.md) TODO
+- [Clair](clair.md)
+
+### Programming
+
+- [Programming](programming.md)
+- [Perl](perl.md)
+- [Python](python.md)
+- [Anaconda](anaconda.md) TODO
+- [Golang](golang.md) TODO
+- [R](r.md) TODO
+- JVM:
+  - [Java](java.md) TODO
+  - [JVM Performance Tuning](java-jvm-performance-tuning.md)
+  - [Groovy](groovy.md)
+  - [Scala](scala.md) TODO
+- [Regular Expressions](regex.md)
+
+### Configuration Management
+
+- [Terraform](terraform.md) TODO
+- [Ansible](ansible.md)
+- [Puppet](puppet.md) TODO
+
+### Build Systems
+
+- [Build Systems](build-systems.md)
+- [Make](make.md)
+- [Maven](maven.md) TODO
+- [Gradle](gradle.md) TODO
+- [SBT](sbt.md)
+
+### Artifact Registries
+
+- [Artifact Registries](artifact-registries.md)
+- [Artifactory](artifactory.md)
+- [Nexus](nexus.md) TODO
+
+### CI/CD
+
+- [CI/CD](ci-cd.md)
+  - Self-Hosted:
+    - [Jenkins](jenkins.md)
+      - [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md)
+      - [HariSekhon/Jenkins](https://github.<br/>com/HariSekhon/Jenkins) Groovy Shared Library
+    - [TeamCity](teamcity.md) TODO
+      - [HariSekhon/TeamCity-CI](https://github.com/HariSekhon/Teamcity-CI)
+    - [Concourse](concourse.md)
+    - [GoCD](gocd.md) TODO
+  - Hosted by Git Repo Providers:
+    - [GitHub Actions](github-actions.md) TODO
+    - [GitLab CI](gitlab-ci.md) TODO
+    - [Azure DevOps](azure-devops.md) TODO
+    - [Bitbucket Pipelines](bitbucket.md) TODO
+  - Hosted 3rd Party:
+    - [CircleCI](circleci.md)
+    - [TravisCI](travis.md)
+    - [Drone.io](drone.io.md)
+
+### Code Scanning
+
+- [Code Scanning](code-scanning.md)
+- [Code Quality](code-quality.md)
+- [SonarQube](sonarqube.md) TODO
+- [CodeClimate](codeclimate.md)
+- [Codefresh](codefresh.md)
+
+### Internet Services
+
+- [Web](web.md)
+- [HTTP Proxying](http-proxying.md)
+- [Cloudflare](cloudflare.md)
+
+### Databases / RDBMS
+
+- [SQL](sql.md) TODO
+- [SQL scripts](https://github.com/HariSekhon/SQL-scripts)
+- [Data Warehousing](data-warehousing.md) TODO
+- [MySQL](mysql.md) TODO
+- [PostgreSQL](postgres.md) TODO
+
+#### MPP Databases
+
+- [Greenplum](greenplum.md)
+- [Impala](impala.md) TODO
+- [Presto](presto.md) TODO
+- [Apache Drill](drill.md) TODO
+
+#### Hosted MPP Databases
+
+- [Distributed SQL](distributed-sql.md)
+- [Snowflake](snowflake.md)
+- [Google BigQuery](bigquery.md) TODO
+- [AWS Redshift](redshift.md) TODO
+
+See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
+
+#### Database Management
+
+- [LiquiBase](liquibase.md) TODO
+- [AtlasGo](atlasgo.md)
+
+### NoSQL
+
+- [Cassandra](cassandra.md) TODO
+- [Couchbase](couchbase.md) TODO
+- [HBase](hbase.md) TODO
+- [MongoDB](mongo.md) TODO
+
+### Caching
+
+- [Redis](redis.md) TODO
+- [Memcached](memcached.md) TODO
+- [Oracle Coherence](coherence.md)
+
+### Search
+
+- [Search](search.md)
+- [Elasticsearch](elasticsearch.md)
+- [Solr](solr.md)
+- [Logstash](logstash.md) TODO
+
+### Pub/Sub & Message Queues
+
+- [Kafka](kafka.md)
+- [Celery](celery.md)
+
+### Data
+
+- [Data](data.md)
+- [Big Data](big-data.md)
+- [Data Warehousing](data-warehousing.md) TODO
+
+### Hadoop Ecosystem
+
+- [Spark](spark.md) TODO
+- [Kafka](kafka.md)
+- [Hadoop](hadoop.md) TODO
+  - [Kerberos Hadoop](hadoop-kerberos.md) TODO
+  - [YARN](yarn.md) TODO
+  - [HDFS](hdfs.md) TODO
+- [Pig](pig.md) TODO
+- [Hive](hive.md) TODO
+- [Impala](impala.md) TODO
+- [Presto](presto.md) TODO
+- [Apache Drill](drill.md) TODO
+- [Storm](storm.md) TODO
+- [ZooKeeper](zookeeper.md)
+
+### Data Science
+
+- [Data Science](data-science.md) TODO
+- [Python](python.md)
+  - [Anaconda](anaconda.md) TODO
+- [R](r.md) TODO
+- [Octave](octave.md) TODO
+
+### Time Series Databases
+
+- [OpenTSDB](opentsdb.md) TODO
+  - [TCollector](tcollector.md) TODO
+- [InfluxDB](influxdb.md)
+
+### Performance Engineering
+
+- [Performance Engineering](performance.md)
+- [Stress Testing](stress-testing.md)
+
+### Security
+
+- [Security](security.md) TODO
+- [SSL](ssl.md) TODO
+- [Kerberos](kerberos.md) TODO
+- [FreeIPA](freeipa.md) TODO
+- [Penetration Testing](pentesting.md) TODO
+
+### Virtualization
+
+- [Virtualization](virtualization.md)
+- [VirtualBox](virtualbox.md)
+- [Vagrant](vagrant.md)
+- [Packer](packer.md)
+- [OpenStack](openstack.md) TODO
+
+### Hardware
+
+- [Hardware](hardware.md)
+- [Storage](storage.md) TODO
+
+### Networking
+
+- [Networking](networking.md) TODO
+- [Cisco](cisco.md) TODO
+- [Juniper](juniper.md) TODO
+- [Foundry](foundry.md) TODO
+
+### Load Balancing
+
+- [HAProxy](haproxy.md)
+- [F5](f5.md)
+
+### Monitoring
+
+- [Monitoring](monitoring.md)
+- [Nagios Plugins](nagios-plugins.md)
+
+### Misc
+
+- [DevOps Misc](devops.md) TODO
+- [Dev Misc](dev.md) TODO
+- [Open Source](open-source.md)
+- [Windows](windows.md)
+- [AI](ai.md)
+
+- [Travel Consulting](travel-consulting.md)
+- [Banking](banking.md)
 
 ## See Also
 
