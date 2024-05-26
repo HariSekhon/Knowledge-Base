@@ -51,6 +51,9 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [DevOps-Python-tools](devops-python-tools.md) - 80+ Python programs
 - [DevOps-Perl-tools](devops-perl-tools.md) - 25+ Perl programs
 - [DevOps-Golang-tools](devops-golang-tools.md) - a handful of Golang programs
+- [Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - production ready checklist and app configs
+- [SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
+- [Templates](https://github.com/HariSekhon/Templates) - templates for many common file formats for programming languages, build systems and DevOps configs
 
 ### Linux / Unix
 
@@ -107,6 +110,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Docker Compose](docker-compose.md)
 - [Docker Swarm](docker-swarm.md) TODO
 - [Podman](podman.md)
+- [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) repo
 
 ### Kubernetes
 
@@ -129,7 +133,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Kustomize](kustomize.md)
 - [ArgoCD](argocd.md)
 - [Cert Manager](cert-manager.md)
-- [Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)
+- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)
 
 ### Container Security
 
@@ -176,7 +180,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 ### CI/CD
 
 - [CI/CD](ci-cd.md)
-- Self-Hosted:
+- Self-Hosted CI/CD:
   - [Jenkins](jenkins.md)
     - [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md)
     - [HariSekhon/Jenkins](https://github.<br/>com/HariSekhon/Jenkins) - master `Jenkinsfile` template and Groovy Shared Library functions
@@ -184,15 +188,15 @@ Full of open source tools and scripts used throughout the rest of these docs to 
     - [HariSekhon/TeamCity-CI](https://github.com/HariSekhon/Teamcity-CI)
   - [Concourse](concourse.md)
   - [GoCD](gocd.md) TODO
-- Hosted by Git Repo Providers:
-  - [GitHub Actions](github-actions.md) TODO
-  - [GitLab CI](gitlab-ci.md) TODO
-  - [Azure DevOps](azure-devops.md) TODO
-  - [Bitbucket Pipelines](bitbucket.md) TODO
-- Hosted 3rd Party:
-  - [CircleCI](circleci.md)
-  - [TravisCI](travis.md)
-  - [Drone.io](drone.io.md)
+-  Git Repo Providers hosted CI/CD:
+   - [GitHub Actions](github-actions.md) TODO
+   - [GitLab CI](gitlab-ci.md) TODO
+   - [Azure DevOps](azure-devops.md) TODO
+   - [Bitbucket Pipelines](bitbucket.md) TODO
+-  3rd Party hosted CI/CD:
+   - [CircleCI](circleci.md)
+   - [TravisCI](travis.md)
+   - [Drone.io](drone.io.md)
 
 ### Code Scanning
 
