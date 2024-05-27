@@ -48,11 +48,11 @@ Hit the watch button on the top right for updates.
 Full of open source tools and scripts used throughout the rest of these docs to make it easier to install and operate these technologies:
 
 - [DevOps-Bash-tools](devops-bash-tools.md) - 1000+ Bash scripts, advanced shell environment customizations, quick installation scripts and dot configs
-- [DevOps-Python-tools](devops-python-tools.md) - 80+ Python programs
-- [DevOps-Perl-tools](devops-perl-tools.md) - 25+ Perl programs
+- [DevOps-Python-tools](devops-python-tools.md) - 80+ Python programs for DevOps & Data
+- [DevOps-Perl-tools](devops-perl-tools.md) - 25+ Perl programs for DevOps
 - [DevOps-Golang-tools](devops-golang-tools.md) - a handful of Golang programs
-- [Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - production ready checklist and app configs
-- [SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
+- [Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - production ready checklist and deployment configs for many Kubernetes applications
+- [SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ database scripts
 - [Templates](https://github.com/HariSekhon/Templates) - templates for many common file formats for programming languages, build systems and DevOps configs
 
 ### Linux / Unix
