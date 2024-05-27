@@ -27,4 +27,41 @@ Shell scripts using Python and making it easier to install Python pip libraries 
 
 [HariSekhon/pylib](https://github.com/HariSekhon/pylib)
 
+## VirtualEnv
+
+Creates a virtual environment in the local given sub-directory in which to install PyPI modules to avoid clashes with system python libraries.
+
+```shell
+virtualenv "$directory_name_to_create"
+```
+
+I like top always the directory name `venv` for the virtualenv:
+
+```shell
+virtualenv venv
+```
+
+Then to use it before you starting `pip` installing:
+
+```shell
+source venv/bin/activate
+```
+
+This prepends to `$PATH` to use the `bin/python` and `lib/python-3.12/site-packages` under the local `venv` directory:
+
+Now install PyPI modules as usual.
+
+The `venv/pyvenv.cfg` file will contain some metadata like this:
+
+```
+home = /opt/homebrew/Cellar/python@3.12/3.12.3/bin
+implementation = CPython
+version_info = 3.12.3.final.0
+virtualenv = 20.25.3
+include-system-site-packages = false
+base-prefix = /opt/homebrew/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12
+base-exec-prefix = /opt/homebrew/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12
+base-executable = /opt/homebrew/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/bin/python3.12
+```
+
 ###### Partial port from private Knowledge Base page 2008+
