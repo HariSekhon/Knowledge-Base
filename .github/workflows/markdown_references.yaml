@@ -59,6 +59,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         #name: Git Checkout  # better to show the action@version
+        with:
+          submodules: 'true'  # requires Git 2.18+ to be installed first
 
       - name: Check all *.md are in the README.md
         run: .github/scripts/check_markdown_references.sh
