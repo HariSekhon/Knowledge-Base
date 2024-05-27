@@ -56,11 +56,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        #name: Git Checkout  # better to show the action@version
+        with:
+          submodules: 'true'  # requires Git 2.18+ to be installed first
+
       #- name: GitHub CLI Auth Login
       #  run: gh auth login --with-token <<< "$GH_TOKEN"
       #
       #   The value of the GH_TOKEN environment variable is being used for authentication.
       #   To have GitHub CLI store credentials instead, first clear the value from the environment.
-      #
+
       - name: Sync READMEs to Gists
         run: .github/scripts/gist-sync.sh
