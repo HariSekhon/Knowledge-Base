@@ -171,11 +171,13 @@ docker container prune
 ```
 
 ```shell
-docker image prune
+docker rm $(docker ps -qf status=exited)
 ```
 
+Delete old images:
+
 ```shell
-docker rm $(docker ps -qf status=exited)
+docker image prune
 ```
 
 ```shell
@@ -183,6 +185,7 @@ docker rmi $(docker images -f "dangling=true" -q)
 ```
 
 Find unattached volumes:
+
 ```shell
 docker volume ls -qf dangling=true
 ```
@@ -200,8 +203,6 @@ All of the above + build cache except --volumes (Docker > 17.05)
 ```shell
 docker system prune
 ```
-
-
 
 ## Podman & Buildah
 
@@ -376,12 +377,41 @@ https://dchq.io/
 
 Automated provision & monitoring of Docker containers on any cloud, composition of complex apps, auditing etc.
 
-## Inspect docker image filesystem
+## Useful Commands
+
+### Inspect docker image filesystem
 
 ```shell
 hash=$(docker run busybox)
 cd /var/lib/docker/aufs/mnt/$hash
 ```
+
+### Delete Stopped Containers
+
+To avoid them preventing deletion of old / dangling docker images:
+
+```shell
+docker container prune -f
+```
+
+### Delete Dangling Docker Images
+
+These are often intermediate image layers that are no longer needed by other images which have been deleted.
+
+```shell
+docker rmi $(docker images -f "dangling=true" -q)
+```
+
+### Delete Old Docker Images
+
+Delete every image older than a week to clear up disk space.
+
+```shell
+docker image prune --all --force --filter "until=1w"
+```
+
+If you want to only delete select images older than a given time, see this
+[Azure DevOps Pipeline](https://github.com/HariSekhon/Templates/blob/master/azure-pipeline-docker-image-cleanup.yml).
 
 ## Monitoring / Prometheus Scrape Target
 
@@ -432,5 +462,19 @@ sudo sysctl -w vm.max_map_count=262144
 mkdir -v /etc/sysctl.d
 grep vm.max_map_count /etc/sysctl.d/99-elasticsearch.conf || echo vm.max_map_count=262144 >> /etc/sysctl.d/99-elasticsearch.conf
 ```
+
+### Slow `COPY` during build on Windows
+
+Example in Dockerfile:
+
+```shell
+COPY --from-stage=builder node_modules .
+```
+
+This is a small files problem that can manifest in very high CPU usage showing anti-virus software high CPU % seen in Task Manager.
+
+If the above is taking a disproportionate amount of time, try disabling the anti-virus from scanning the agent directory where the workdir is.
+
+For example, adding this exclusion in Semantec anti-virus resulted in a build going from timing out after 2 hours to 2 minutes in Azure DevOps Pipelines on Windows - a shocking performance difference.
 
 ###### Partial port from private Knowledge Base page 2014+
