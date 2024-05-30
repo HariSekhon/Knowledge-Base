@@ -6,6 +6,9 @@
 - cores are the number of CPU lanes on chip or combined on all CPU chips on a motherboard. This affects the number of parallel applications that can be run at the same time, as well as the performance of an app that is properly multi-threaded (most aren't that parallelized because the programming gets complicated). It's mainly because you want many apps running without waiting for others.
 - [Von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) - CPU instructions and data cannot be retrieved at the same time due to shared buses. This is a performance bottleneck especially in modern computers where the CPU is faster than RAM access as the CPU has to wait for the data transfer to CPU chip, and made worse via bus contention in multiprocessor systems
 - [NUMA architecture](https://en.wikipedia.org/wiki/Non-uniform_memory_access) - separate RAM to CPU buses in multiprocessor systems to avoid one CPU from causing congestion bottleneck to another CPU's RAM access
+- high CPU % usage by anti-virus on Windows can be caused by scanning lots of small file changes
+  - example Azure DevOps agent on Windows doing Docker build with this in Dockerfile: `COPY --from=builder node_modules .` (NodeJS directory full of small library files)
+    - Fix/Workaround: configure the anti-virus software to not scan the CI/CD agent workdir where Docker is building - this resulted in speed up from 2 hours build timeout to 2 minutes!
 
 ## RAM / Memory
 
