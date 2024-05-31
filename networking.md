@@ -43,3 +43,59 @@ Standard open source GUI client on Mac that can connect to OpenVPN.
 Pay for more features or server locations
 - TunnelBear - consumer VPN with free tier
 - [NordVPN](https://nordvpn.com/) - commercial well-established with a kill-switch to reduce risk of leakage
+
+## Commands
+
+```shell
+ping 4.2.2.1
+```
+
+### Show routing table
+
+On Linux:
+
+```shell
+route -n
+```
+
+On Windows or Mac:
+
+```shell
+netstat -rn
+```
+
+### DNS lookup
+
+Look up a well known public DNS address:
+
+On Linux or Mac:
+
+```shell
+host google.com
+```
+
+On Windows:
+
+```shell
+nslookup google.com
+```
+
+### Add static route
+
+```shell
+route add ...
+```
+
+### Show your public IP
+
+...that you are NAT'd through as well as geolocation and other details:
+
+```shell
+curl ifconfig.co
+```
+
+### Linux - show your local IP Tables software firewall rules
+
+```shell
+iptables -nL -line-numbers
+```
