@@ -253,7 +253,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 ### Caching
 
 - [Redis](redis.md) TODO
-- [Memcached](memcached.md) TODO
+- [Memcached](memcached.md)
 - [Oracle Coherence](coherence.md)
 
 ### Search
