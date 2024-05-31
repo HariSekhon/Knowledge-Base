@@ -18,7 +18,8 @@ See [vim.md](vim.md).
 
 ## IDEs
 
-- [IntelliJ](https://www.jetbrains.com/idea/) - the modern popular IDE - proprietary but has a free version
+- [IntelliJ IDEA](intellij.md) - the modern popular IDE - proprietary but has a free version
+  - [PyCharm](https://www.jetbrains.com/pycharm/) - Python only cousin of IDEA
 - [Eclipse](https://www.eclipse.org/) - open source IDE. Most prefer IntelliJ as it's slicker
 
 ## Editor Config
@@ -104,9 +105,9 @@ Hides all bars, max code space
 
 ### Eclipse
 
-F3 on a class to go its definition.
+`F3` on a class to go it it's definition
 
-Next / Previous Tab - Fn-Ctrl-Left / Fn-Ctrl-Right
+Next / Previous Tab - `Fn`-`Ctrl`-`Left` / `Fn`-`Ctrl`-`Right`
 
 | Shortcut                                                     | Description                                      |
 |--------------------------------------------------------------|--------------------------------------------------|

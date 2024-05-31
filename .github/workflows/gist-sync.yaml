@@ -56,32 +56,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        #name: Git Checkout  # better to show the action@version
+        with:
+          submodules: 'true'  # requires Git 2.18+ to be installed first
+
       #- name: GitHub CLI Auth Login
       #  run: gh auth login --with-token <<< "$GH_TOKEN"
       #
       #   The value of the GH_TOKEN environment variable is being used for authentication.
       #   To have GitHub CLI store credentials instead, first clear the value from the environment.
-      #
+
       - name: Sync READMEs to Gists
-        run: |
-          gist_list="$(gh gist list -L 2000 --public)"
-          for readme in *.md; do
-            if awk '{print $2}' <<< "$gist_list" | grep -Fxq "$readme"; then
-              id="$(awk "/^[[:alnum:]]{32}[[:space:]]+$readme / {print \$1; exit}" <<< "$gist_list" || :)"
-              if [ -z "$id" ]; then
-                echo "Failed to determine ID for gist of file '$readme'"
-                exit 1
-              fi
-              gist_md5="$(gh gist view "$id" --filename "$readme" --raw | md5sum)"
-              readme_md5="$(cat "$readme" | md5sum)"
-              if [ "$gist_md5" != "$readme_md5" ]; then
-                echo "Updating Gist for '$readme'"
-                gh gist edit "$id" --filename "$readme" --desc "$readme from HariSekhon/Knowledge-Base repo: https://github.com/HariSekhon/Knowlege-Base" "$readme"
-              else
-                echo "Gist for '$readme' already matches, not updating"
-              fi
-            else
-              echo "Creating Gist for '$readme'"
-              gh gist create --public --filename "$readme" --desc "$readme from HariSekhon/Knowledge-Base repo: https://github.com/HariSekhon/Knowlege-Base" "$readme"
-            fi
-          done
+        run: .github/scripts/gist-sync.sh
