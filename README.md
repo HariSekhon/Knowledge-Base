@@ -246,7 +246,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 ### NoSQL
 
 - [Cassandra](cassandra.md) TODO
-- [Couchbase](couchbase.md) TODO
+- [Couchbase](couchbase.md)
 - [HBase](hbase.md) TODO
 - [MongoDB](mongo.md) TODO
 
@@ -254,6 +254,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 
 - [Redis](redis.md) TODO
 - [Memcached](memcached.md)
+- [Couchbase](couchbase.md)
 - [Oracle Coherence](coherence.md)
 
 ### Search
