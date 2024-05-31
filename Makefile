@@ -42,28 +42,15 @@ mdl:
 index:
 	@echo "Checking all *.md files are in the README.md index"
 	@echo
-	@exitcode=0; \
-	for file_md in *.md; do \
-		[ "$$file_md" = README.md ] && continue; \
-		if ! grep -q "$$file_md" README.md; then \
-			echo "$$file_md not in README.md"; \
-			exitcode=1; \
-		fi; \
-	done; \
-	exit $$exitcode
+	.github/scripts/check_index.sh
+	@echo
 
 .PHONY: references
 references:
 	@echo "Checking all *.md files references exist"
 	@echo
-	@exitcode=0; \
-	for file_md in $$(git grep -Eoh --max-depth 1 '\([[:alnum:]_-]+\.md' | sed 's/^(//' | sort -u); do \
-	if ! [ -f "$$file_md" ]; then \
-		echo "referenced but file not found: $$file_md"; \
-		exitcode=1; \
-	fi; \
-	done; \
-	exit $$exitcode
+	.github/scripts/check_markdown_references.sh
+	@echo
 
 .PHONY: init
 init:
@@ -79,6 +66,7 @@ install: build
 .PHONY: test
 test:
 	bash-tools/checks/check_all.sh
+	@echo
 
 .PHONY: clean
 clean:

@@ -1,5 +1,7 @@
 # Hardware
 
+See also [Performance Engineering](performance.md).
+
 ## HP
 
 ### HP Proliant Array Configuration Utility
