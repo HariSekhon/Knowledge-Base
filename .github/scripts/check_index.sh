@@ -37,12 +37,13 @@ cd "$git_root"
 
 exitcode=0
 
-for file_md in *.md; do
+#for file_md in *.md; do
+while read -r file_md; do
   [ "$file_md" = README.md ] && continue
   if ! grep -q "$file_md" README.md; then
     echo "$file_md not in README.md"
     exitcode=1
   fi
-done
+done < <(git ls-files | grep '\.md$')
 
 exit $exitcode
