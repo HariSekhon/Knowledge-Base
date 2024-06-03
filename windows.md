@@ -1,5 +1,21 @@
 # Windows
 
+## Remote Desktop
+
+You can find your corporate workspace by downloading
+[Remote Desktop app](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466)
+from the Apple Store and then Add Workspace and entering this URL:
+
+https://rdweb.wvd.microsoft.com/api/arm/feeddiscovery
+
+You'll be prompted for your Microsoft login, enter your company corporate email and password, and your RDP session will
+be seen as an icon to click through to.
+
+This icon will remain under Workspaces, not PCs when you are starting RDP again to connect.
+
+This conveniently also reconnects if you leave the app running and move locations / wifi as a digital nomad or even just
+going home.
+
 ## Commands
 
 ### Networking
