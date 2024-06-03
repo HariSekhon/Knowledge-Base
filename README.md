@@ -123,6 +123,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 - [K3s](k3s.md) TODO
 - [K3d](k3d.md) TODO
+- [Kind](kind.md)
 - [Rancher](rancher.md)
 - [RKE2](rke2.md)
 - [Portworx](portworx.md)
@@ -155,6 +156,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [JVM Performance Tuning](java-jvm-performance-tuning.md)
   - [Groovy](groovy.md)
   - [Scala](scala.md) TODO
+  - [log4j](log4j.md)
 - [Regular Expressions](regex.md)
 
 ### Configuration Management
@@ -261,6 +263,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 
 - [Search](search.md)
 - [Elasticsearch](elasticsearch.md)
+  - [Kibana](kibana.md)
 - [Solr](solr.md)
 - [Logstash](logstash.md) TODO
 
@@ -289,7 +292,10 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 - [Impala](impala.md) TODO
 - [Presto](presto.md) TODO
 - [Apache Drill](drill.md) TODO
+- [Kudu](kudu.md)
+- [Kylin](kylin.md)
 - [Storm](storm.md) TODO
+- [Mahout](mahout.md)
 - [ZooKeeper](zookeeper.md)
 
 ### Data Science
@@ -305,6 +311,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 - [OpenTSDB](opentsdb.md) TODO
   - [TCollector](tcollector.md) TODO
 - [InfluxDB](influxdb.md)
+  - [Kapacitor](kapacitor.md)
 
 ### Performance Engineering
 
@@ -317,6 +324,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 - [SSL](ssl.md) TODO
 - [Kerberos](kerberos.md) TODO
 - [FreeIPA](freeipa.md) TODO
+- [Keycloak](keycloak.md)
 - [Penetration Testing](pentesting.md) TODO
 
 ### Virtualization
@@ -326,6 +334,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 - [Vagrant](vagrant.md)
 - [Packer](packer.md)
 - [OpenStack](openstack.md) TODO
+- [KVM](kvm.md)
 
 ### Hardware
 
@@ -338,6 +347,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 - [Cisco](cisco.md) TODO
 - [Juniper](juniper.md) TODO
 - [Foundry](foundry.md) TODO
+- [Keepalived](keepalived.md)
 
 ### Load Balancing
 
@@ -347,13 +357,14 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 ### Monitoring
 
 - [Monitoring](monitoring.md)
-- [Nagios Plugins](nagios-plugins.md)
+- [Nagios](nagios.md)
 
 ### Misc
 
 - [DevOps Misc](devops.md) TODO
 - [Dev Misc](dev.md) TODO
 - [Open Source](open-source.md)
+- [Multimedia](multimedia.md)
 - [Windows](windows.md)
 - [AI](ai.md)
 
