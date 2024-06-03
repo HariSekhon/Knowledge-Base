@@ -7,7 +7,7 @@
 
 ## Nagios
 
-See [nagios-plugins.md](nagios-plugins.md)
+See [nagios.md](nagios.md)
 
 ## Metrics
 
