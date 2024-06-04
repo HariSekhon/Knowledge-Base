@@ -18,6 +18,13 @@ going home.
 
 ## Commands
 
+Show the current time:
+
+```shell
+time /t
+```
+(without the `/t` switch it prompts to set a new time)
+
 ### Networking
 
 See [Networking](networking.md) doc.
