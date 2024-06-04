@@ -44,6 +44,12 @@ The add this to your shell / Bash profile:
 export GITLAB_TOKEN=...
 ```
 
+Gitlab CLI config can be found here:
+
+```
+ ~/.config/glab-cli/config.yml
+```
+
 ## GitLab CI/CD
 
 Create a `.gitlab-ci.yml` into the root directory of your git repo, then `git push` to GitLab.
