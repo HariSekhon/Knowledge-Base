@@ -81,10 +81,11 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Vim](vim.md)
 - [IntelliJ](intellij.md)
 
-### Architecture
+### Architecture & Documentation
 
 - [Diagrams-as-Code](diagrams.md)
   - [D2 lang](d2.md)
+- [MkDocs](mkdocs.md)
 
 ### Git
 
