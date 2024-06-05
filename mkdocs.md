@@ -21,13 +21,13 @@ mkdocs build
 
 ### Preview Locally
 
-Launches a local server at http://127.0.0.1:8000:
+Launch a local web server at http://127.0.0.1:8000:
 
 ```shell
 mkdocs serve
 ```
 
-On Mac you can open this from the CLI:
+On Mac, you can open this from the CLI:
 
 ```shell
 open http://127.0.0.1:8000
