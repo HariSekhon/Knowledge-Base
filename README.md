@@ -368,6 +368,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 - [Multimedia](multimedia.md)
 - [Windows](windows.md)
 - [AI](ai.md)
+- [Automation](automation.md)
 
 - [Travel Consulting](travel-consulting.md)
 - [Banking](banking.md)
