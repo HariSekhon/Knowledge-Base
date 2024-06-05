@@ -82,8 +82,16 @@ nslookup google.com
 
 ### Add static route
 
+[man route](https://linux.die.net/man/8/route)
+
 ```shell
 route add ...
+```
+
+[man ip-route](https://man7.org/linux/man-pages/man8/ip-route.8.html)
+
+```shell
+ip route ...
 ```
 
 ### Show your public IP
