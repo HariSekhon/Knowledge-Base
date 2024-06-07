@@ -165,6 +165,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Terraform](terraform.md) TODO
 - [Ansible](ansible.md)
 - [Puppet](puppet.md) TODO
+- [YAML](yaml.md)
 
 ### Build Systems
 
