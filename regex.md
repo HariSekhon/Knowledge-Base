@@ -11,6 +11,12 @@ https://regex101.com/
 
 https://regexr.com/
 
+#### Sed Regex Testing
+
+Test your sed regex here:
+
+https://sed.js.org/
+
 ## PCRE vs BRE vs ERE
 
 ### PCRE - Perl Compatible Regular Expressions
