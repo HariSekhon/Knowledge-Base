@@ -80,6 +80,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Editors](editors.md)
 - [Vim](vim.md)
 - [IntelliJ](intellij.md)
+- [Coder](coder.md)
 
 ### Architecture & Documentation
 
