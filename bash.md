@@ -42,17 +42,7 @@ the time.
 
 You need to learn at least some basic one-liners of [Perl](perl.md), Awk and Sed to be proficient in shell scripting.
 
-#### Online Regex Testing
-
-https://regex101.com/
-
-https://regexr.com/
-
-#### Sed Regex Testing
-
-Test your sed regex here:
-
-https://sed.js.org/
+You also need to learn [Regex](regex.md) to use these tools effectively.
 
 ## Other Cool Resources
 
