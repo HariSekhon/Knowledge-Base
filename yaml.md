@@ -4,6 +4,10 @@ YAML is used for configuration by many technologies as it's easier and cleaner t
 
 Worth a read:
 
+https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
+
+https://spacelift.io/blog/yaml
+
 https://www.educative.io/blog/advanced-yaml-syntax-cheatsheet
 
 ## YAML Linting
