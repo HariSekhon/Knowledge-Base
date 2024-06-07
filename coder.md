@@ -4,8 +4,8 @@ https://coder.com/
 
 Self-hosted enterprise Dev environments.
 
-- open-core freemium model
-- expensive to license - the price isn't on the website, you have to contact Sales which should give you a hint!
+- Open-core model
+- Enterprise is expensive to license - the price isn't on the website, you have to contact Sales which should give you a hint!
 
 ### Disabling SSH
 
