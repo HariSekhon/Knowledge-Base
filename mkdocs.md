@@ -6,6 +6,12 @@ https://www.mkdocs.org/user-guide/writing-your-docs/
 
 Markdown is expected in top-level `docs/` dir, with `docs/index.md` being the home page.
 
+### Install
+
+```shell
+pip install mkdocs
+```
+
 ### Template
 
 [HariSekhon/Templates - mkdocs.yml](https://github.com/HariSekhon/Templates/blob/master/mkdocs.yml)
