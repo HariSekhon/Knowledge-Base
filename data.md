@@ -4,6 +4,15 @@
 
 See [big-data.md](big-data.md)
 
+## Data Validation
+
+Start by validating data formats for correctness.
+
+Scripts for this can be found in both the [DevOps-Python-tools](devops-python-tools.md)
+and [DevOps-Bash-tools](devops-bash-tools.md) repos.
+
+Then proceed to more advanced content validation.
+
 ## Data Integration
 
 - [Apache Camel](#apache-camel) - open source with 100+ connectors
