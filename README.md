@@ -329,6 +329,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 - [FreeIPA](freeipa.md) TODO
 - [Keycloak](keycloak.md)
 - [Penetration Testing](pentesting.md) TODO
+- [Secrets Managers](secrets-managers)
 
 ### Virtualization
 
