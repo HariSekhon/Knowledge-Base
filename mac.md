@@ -133,7 +133,11 @@ Battery even tells you:
 
 ### Reducing Desktop Workspaces
 
-If like me, you hate the time lost in graphics sliding effect from one desktop workspace to another, especially caused by apps like Windows Virtual Desktop in Remote Desktop opening to full screen, and just prefer good old fashioned `Cmd`-`Tab`, then you can remove the extra workspaces as [described here](https://discussions.apple.com/thread/8118894?sortBy=best) by pressing F3 and then hovering on and clicking the X to delete the extra workspaces.
+If like me, you hate the time lost in graphics sliding effect from one desktop workspace to another, especially caused
+by apps like Windows Virtual Desktop in Remote Desktop opening to full screen, and just prefer good old fashioned
+`Cmd`-`Tab`, then you can remove the extra workspaces as
+[described here](https://discussions.apple.com/thread/8118894?sortBy=best)
+by pressing F3 and then hovering on and clicking the X to delete the extra workspaces.
 
 ### Say - text-to-speech
 
