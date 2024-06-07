@@ -9,6 +9,8 @@ for grep, sed & awk.
 
 https://regex101.com/
 
+https://regexr.com/
+
 ## PCRE vs BRE vs ERE
 
 ### PCRE - Perl Compatible Regular Expressions
