@@ -13,7 +13,9 @@ Enterprise edition is needed to disable SSH for data safety in an enterprise tha
 
 Unfortunately since it's expensive to license, this is the workaround to block it if using the open source:
 
-Block the `/api/v2/deployment/ssh` endpoint in the Kubernetes ingress via an annotation like this:
+Block the `/api/v2/deployment/ssh` endpoint in the Kubernetes
+[ingress.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/ingress.yaml)
+via an annotation like this:
 
 ```yaml
   annotations:
