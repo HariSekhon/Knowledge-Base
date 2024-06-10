@@ -1,5 +1,9 @@
 # Snowflake
 
+- Snowflake Private Marketplace - allows users in different parts of an organization to share data with each other privately without it leaving Snowflake
+
+See Also: [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
+
 ## SnowPipe
 
 ```sql
@@ -12,33 +16,44 @@ create or replace stage demo_db.public.snowstage
 show stages;
 
 list @snowstage;
+```
 
--- Create target table for JSON data
+Create target table for JSON data:
+
+```sql
 create or replace table public.twitter(json variant);
 show tables;
+```
 
--- Create a pipe to ingest JSON data
+Create a pipe to ingest JSON data:
+
+```sql
 create or replace pipe public.snowpipe auto_ingest=true as
     copy into public.twitter
     from @public.snowstage
     file_format = (type = 'JSON');
+```
 
--- Create a pipe to ingest JSON data
+Create a pipe to ingest JSON data:
+
+```sql
 create or replace pipe public.snowpipe2 auto_ingest=true as
     copy into public.twitter
     from @public.snowstage/twitter
     file_format = (type = 'JSON');
 
 show pipes;
-show pipes;
+```
 
---Check COPY_HISTORY
+Check copy history:
+```sql
 select *
 from table(information_schema.copy_history(table_name=>'twitter', start_time=> dateadd(hours, -1, current_timestamp())));
 
 select count(*) from  public.twitter;
+```
 
-
+```sql
 select
 to_date(json:created_at) date_id,
 json:user:name::string user_name,
@@ -46,8 +61,9 @@ coalesce(json:extended_tweet:full_text::string, json:text::string) tweet
 from public.twitter;
 
 --S3 > COPY INTO TARGET, THEN delete to remove duplicates
+```
 
-
+```sql
 -- REQUIRMENT: Top Hashtags
 SELECT
 --to_date(json:created_at) date_id,
