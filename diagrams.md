@@ -58,13 +58,13 @@ repo is far too huge a
 - [CloudCraft](https://app.cloudcraft.co/) - cloud focused diagrams
   - still only AWS and Azure diagrams as of March 2024
 - [Creately](https://app.creately.com/) - AWS, Azure and GCP diagrams
+- [Excalidraw](https://excalidraw.com/) - simple whiteboard style drawings - also useful for ad-hock drawings to explain things to colleagues
 - [Prezi](https://prezi.com/) - focused on presentations
 - [Sketch](https://www.sketch.com/)
 - [Cacoo](https://nulab.com/cacoo/)
 - [Gliffy](https://www.gliffy.com/)
 - [Visual Paradigm](https://www.visual-paradigm.com/) - enterprise, does archimate diagrams, complicated, I used this at an investment bank, not my favourite, fine for enterprise architects rather than engineers
 - [Swimm](https://docs.swimm.io/) - AI to generate diagrams from code and documentation sources
-- [Excalidraw](https://excalidraw.com/) - whiteboard style drawings - also useful for ad-hock drawings to explain things to colleagues
 
 ## Important Icon Sets to import into D2
 
