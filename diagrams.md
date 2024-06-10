@@ -64,7 +64,7 @@ repo is far too huge a
 - [Gliffy](https://www.gliffy.com/)
 - [Visual Paradigm](https://www.visual-paradigm.com/) - enterprise, does archimate diagrams, complicated, I used this at an investment bank, not my favourite, fine for enterprise architects rather than engineers
 - [Swimm](https://docs.swimm.io/) - AI to generate diagrams from code and documentation sources
-- [Excalidraw](https://excalidraw.com/) - for ad-hock drawings to explain things to colleagues
+- [Excalidraw](https://excalidraw.com/) - whiteboard style drawings - also useful for ad-hock drawings to explain things to colleagues
 
 ## Important Icon Sets to import into D2
 
