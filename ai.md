@@ -1,4 +1,4 @@
-# AI - Artifical Intelligence
+# AI - Artificial Intelligence
 
 Generally narrow AI.
 
@@ -17,6 +17,17 @@ https://chat.openai.com/chat
 https://www.ollama.com/
 
 https://github.com/ollama/ollama
+
+Ollama Open WebUI + engine which is prompt-based, similar to ChatGPT, ask questions, get responses.
+It's completely local, it doesn't go to the internet.
+
+Engine nodes run on GPUs.
+
+The query response is very slow and prints a few words a second when using CPUs instead of GPUs.
+
+Performance decline after consecutive questions.
+
+Why does the performance degrade after one query?
 
 ## Text to Speech
 
