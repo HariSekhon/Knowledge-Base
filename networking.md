@@ -49,6 +49,8 @@ Pay for more features or server locations.
 dscacheutil -flushcache
 sudo killall -HUP mDNSResponder
 ```
+If you are sourcing [DevOps-Bash-tools](devops-bash-tools.md) repo in your `.bashrc` there is a shell function
+shortcut so you can just run: `flushdns`.
 
 ## Commands
 
