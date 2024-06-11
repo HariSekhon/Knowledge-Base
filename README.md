@@ -164,6 +164,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 ### Configuration Management
 
 - [Terraform](terraform.md) TODO
+  - [Terragrunt](terragrunt.md)
 - [Ansible](ansible.md)
 - [Puppet](puppet.md) TODO
 - [YAML](yaml.md)
