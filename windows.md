@@ -16,6 +16,20 @@ This icon will remain under Workspaces, not PCs when you are starting RDP again 
 This conveniently also reconnects if you leave the app running and move locations / wifi as a digital nomad or even just
 going home.
 
+On Mac use the `Cmd` key as the Windows key.
+
+## Screenshots
+
+Screenshots can be tricky when using WVD above from a Mac
+as the Print Screen key isn't available on Mac and shortcuts like `Windows`-`Shift`-`S`
+don't work.
+
+Pull up the Snipping Tool from the task search and use that to take a screenshot of a given area.
+
+On Mac hit the `Cmd` key to go to the task bar search and then type `snip` and enter.
+
+Once the Snipping Tool is up, click New and then drag a selection window and save it as a screenshot file to share.
+
 ## Commands
 
 Show the current time:
