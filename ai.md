@@ -12,6 +12,10 @@ https://www.cloudskillsboost.google/paths/118
 
 https://chat.openai.com/chat
 
+## SQL Chat
+
+- [SQL Chat](https://github.com/sqlchat/sqlchat) - chat-based interface to querying DBs
+
 ## LLM
 
 https://www.ollama.com/
