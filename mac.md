@@ -119,6 +119,13 @@ in the Utilities folder is easy to use:
 open /System/Applications/Utilities/Screenshot.app
 ```
 
+### Flush the DNS Cache
+
+```shell
+dscacheutil -flushcache
+sudo killall -HUP mDNSResponder
+```
+
 ### Stats Bar
 
 [Stats](https://github.com/exelban/stats) gives many nice toolbar stats on your Mac's performance for CPU, GPU, RAM, Disk, Network and Battery.
