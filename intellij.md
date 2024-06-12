@@ -270,8 +270,7 @@ idea installPlugins \
   org.jetbrains.plugins.spotbugs \
   com.intellij.plugins.html.instantEditing \
   com.lightrun.idea.plugin.saas.LightrunPlugin \
-  com.rookout.intellij-plugin \
-  https://plugins.jetbrains.com/plugin/20724-ai-coding-assistant
+  com.rookout.intellij-plugin
 ```
 
 #### AI Plugins
@@ -287,7 +286,7 @@ idea installPlugins \
 
 ```shell
 idea installPlugins \
-  com.tabnine.TabNine \
+  com.tabnine.TabNine
 ```
 
 #### Pair Programming
