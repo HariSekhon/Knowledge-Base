@@ -1,0 +1,51 @@
+#
+#  Author: Hari Sekhon
+#  Date: Tue Feb 4 09:53:28 2020 +0000
+#
+#  vim:ts=2:sts=2:sw=2:et
+#
+#  https://github.com/HariSekhon/Knowledge-Base
+#
+#  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback
+#
+#  https://www.linkedin.com/in/HariSekhon
+#
+
+# ============================================================================ #
+#                          F o r k   U p d a t e   P R
+# ============================================================================ #
+
+# For a fork of the original repo, activate to keep its branches up to date via Pull Requests
+#
+# To be used in conjunction with the adjacent fork-sync.yaml which keeps the default branch up to date
+
+---
+name: Fork Update PR
+
+on:
+  workflow_dispatch:
+    inputs:
+      debug:
+        type: boolean
+        required: false
+        default: false
+  schedule:
+    - cron: '0 10 * * 1'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: ${{ github.ref }}-${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  fork_update_pr:
+    # github.event.repository context not available in scheduled workflows
+    #if: github.event.repository.fork == true
+    if: github.repository_owner != 'HariSekhon'
+    name: Fork Update PR
+    uses: HariSekhon/GitHub-Actions/.github/workflows/fork-update-pr.yaml@master
+    with:
+      debug: ${{ github.event.inputs.debug }}
