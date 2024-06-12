@@ -47,6 +47,14 @@ You must exit IntelliJ before running this as only one `idea` program can be run
 
 ### Useful Plugins
 
+These can be installed all in one shot using the script `install_intellij_plugins.sh` in the [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+```shell
+install_intellij_plugins.sh
+```
+
+You can add/comment/uncomment which plugins to install in the adjacent `setup/intellij-plugins.txt` config file in that same repo.
+
 #### Docker, Kubernetes and Terraform
 
 - [Docker](https://plugins.jetbrains.com/plugin/7724-docker)
