@@ -47,6 +47,22 @@ You must exit IntelliJ before running this as only one `idea` program can be run
 
 ### Useful Plugins
 
+#### Ultimate Edition Plugins
+
+
+#### Docker, Kubernetes and Terraform
+
+- [Docker](https://plugins.jetbrains.com/plugin/7724-docker)
+- [Terraform and HCL](https://plugins.jetbrains.com/plugin/7808-terraform-and-hcl)
+- [Kubernetes](https://plugins.jetbrains.com/plugin/10485-kubernetes) - only available in Ultimate Edition :-(
+
+```shell
+idea installPlugins \
+  Docker \
+  org.intellij.plugins.hcl
+  #com.intellij.kubernetes  # only available in Ultimate Edition :-(
+```
+
 #### Core & DevOps
 
 - [Shell Script](https://plugins.jetbrains.com/plugin/13122-shell-script) - shell support
@@ -54,8 +70,6 @@ You must exit IntelliJ before running this as only one `idea` program can be run
 - [Perl](https://plugins.jetbrains.com/plugin/7796-perl)
 - Python - see [Python section](#python) further down
 - Java/Groovy/Scala/Kotlin/Maven/SBT/Gradle - see [JVM section](#java--groovy--scala--kotlin--jvm-tools) further down
-- [Docker](https://plugins.jetbrains.com/plugin/7724-docker)
-- [Terraform and HCL](https://plugins.jetbrains.com/plugin/7808-terraform-and-hcl)
 - [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore) - supports various `.ignore` files for different technologies
 - [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
 - [Code Glance](https://plugins.jetbrains.com/plugin/7275-codeglance/) - adds a minimap of the file
@@ -82,14 +96,11 @@ idea installPlugins \
   com.jetbrains.sh \
   BashSupport \
   com.perl5 \
-  Docker \
-  org.intellij.plugins.hcl \
   mobi.hsz.idea.gitignore \
   org.editorconfig.editorconfigjetbrains \
   uk.co.ben-gibson.remote.repository.mapper \
   zielu.gittoolbox \
   io.snyk.snyk-intellij-plugin \
-  com.vladsch.idea.multimarkdown \
   net.vektah.codeglance \
   GrepConsole \
   BrowseWordAtCaret \
@@ -99,10 +110,11 @@ idea installPlugins \
   org.intellij.RegexpTester \
   lermitage.intellij.extra.icons \
   DBN \
+  com.vladsch.idea.multimarkdown \
   com.wakatime.intellij.plugin \
   com.softwareco.intellij.plugin \
-  com.ultrahob.zerolength.plugin \
   Statistic \
+  com.ultrahob.zerolength.plugin \
   org.sonarlint.idea   # use with SonarQube / SonarCloud
 ```
 
@@ -256,15 +268,6 @@ idea installPlugins \
   com.lightrun.idea.plugin.saas.LightrunPlugin \
   com.rookout.intellij-plugin \
   https://plugins.jetbrains.com/plugin/20724-ai-coding-assistant
-```
-
-#### Ultimate Edition Plugins
-
-- [Kubernetes](https://plugins.jetbrains.com/plugin/10485-kubernetes)
-
-```shell
-idea installPlugins \
-  com.intellij.kubernetes
 ```
 
 #### AI Plugins
