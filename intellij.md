@@ -47,9 +47,6 @@ You must exit IntelliJ before running this as only one `idea` program can be run
 
 ### Useful Plugins
 
-#### Ultimate Edition Plugins
-
-
 #### Docker, Kubernetes and Terraform
 
 - [Docker](https://plugins.jetbrains.com/plugin/7724-docker)
@@ -63,44 +60,52 @@ idea installPlugins \
   #com.intellij.kubernetes  # only available in Ultimate Edition :-(
 ```
 
-#### Core & DevOps
+#### Languages
 
 - [Shell Script](https://plugins.jetbrains.com/plugin/13122-shell-script) - shell support
 - [Bash Support](https://plugins.jetbrains.com/plugin/4230-bashsupport)
 - [Perl](https://plugins.jetbrains.com/plugin/7796-perl)
 - Python - see [Python section](#python) further down
 - Java/Groovy/Scala/Kotlin/Maven/SBT/Gradle - see [JVM section](#java--groovy--scala--kotlin--jvm-tools) further down
-- [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore) - supports various `.ignore` files for different technologies
-- [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
-- [Code Glance](https://plugins.jetbrains.com/plugin/7275-codeglance/) - adds a minimap of the file
-- [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
-- [BrowseWordAtCaret](https://plugins.jetbrains.com/plugin/201-browsewordatcaret)
-- [Editor Config](https://plugins.jetbrains.com/plugin/7294-editorconfig/)
-- [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink/) - shortcut to open files on GitHub and other hosted repo providers
-- [Git Toolbox](https://plugins.jetbrains.com/plugin/7499-gittoolbox/) - automatic fetches, show status vs upsteam origin
-- [Synk Security](https://plugins.jetbrains.com/plugin/10972-snyk-security)
-- [CSV Editor](https://plugins.jetbrains.com/plugin/10037-csv-editor)
-- [JSON Parser](https://plugins.jetbrains.com/plugin/10650-json-parser) - validate & format JSON strings
-- [CamelCase](https://plugins.jetbrains.com/plugin/7160-camelcase)
-- [RegexpTester](https://plugins.jetbrains.com/plugin/2917-regexp-tester)
-- [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons) - adds icons for different file types
-- [Database Navigator](https://plugins.jetbrains.com/plugin/1800-database-navigator)
-- [Markdown Navigator Enhanced](https://plugins.jetbrains.com/plugin/7896-markdown-navigator-enhanced/)
-- [WakaTime](https://plugins.jetbrains.com/plugin/7425-wakatime) - stats on your usage
-- [Code Time](https://plugins.jetbrains.com/plugin/10687-code-time/) - stats on your usage
-- [Statistic](https://plugins.jetbrains.com/plugin/4509-statistic) - shows project stats, files, line count etc.
-- [Zero Width Characters locator](https://plugins.jetbrains.com/plugin/7448-zero-width-characters-locator) - find characters that could break your code
+- [Go Linter](https://plugins.jetbrains.com/plugin/12496-go-linter)
 
 ```shell
 idea installPlugins \
   com.jetbrains.sh \
   BashSupport \
   com.perl5 \
+  com.ypwang.plugin.go-linter
+```
+
+#### Core Editing, Git & File Formats
+
+- [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore) - supports various `.ignore` files for different technologies
+- [Code Glance](https://plugins.jetbrains.com/plugin/7275-codeglance/) - adds a minimap of the file
+- [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
+- [BrowseWordAtCaret](https://plugins.jetbrains.com/plugin/201-browsewordatcaret)
+- [Editor Config](https://plugins.jetbrains.com/plugin/7294-editorconfig/)
+- [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink/) - shortcut to open files on GitHub and other hosted repo providers
+- [Git Toolbox](https://plugins.jetbrains.com/plugin/7499-gittoolbox/) - automatic fetches, show status vs upsteam origin
+- [CSV Editor](https://plugins.jetbrains.com/plugin/10037-csv-editor)
+- [JSON Parser](https://plugins.jetbrains.com/plugin/10650-json-parser) - validate & format JSON strings
+- [CamelCase](https://plugins.jetbrains.com/plugin/7160-camelcase)
+- [RegexpTester](https://plugins.jetbrains.com/plugin/2917-regexp-tester)
+- [Database Navigator](https://plugins.jetbrains.com/plugin/1800-database-navigator)
+- [Markdown Navigator Enhanced](https://plugins.jetbrains.com/plugin/7896-markdown-navigator-enhanced/)
+- [Zero Width Characters locator](https://plugins.jetbrains.com/plugin/7448-zero-width-characters-locator) - find characters that could break your code
+- [Env files support](https://plugins.jetbrains.com/plugin/9525--env-files-support)
+- [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
+- [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+- [Rainbow CSV](https://plugins.jetbrains.com/plugin/12896-rainbow-csv)
+- [Indent Rainbow](https://plugins.jetbrains.com/plugin/13308-indent-rainbow)
+- [Return Highlighter](https://plugins.jetbrains.com/plugin/13303-return-highlighter)
+
+```shell
+idea installPlugins \
   mobi.hsz.idea.gitignore \
   org.editorconfig.editorconfigjetbrains \
   uk.co.ben-gibson.remote.repository.mapper \
   zielu.gittoolbox \
-  io.snyk.snyk-intellij-plugin \
   net.vektah.codeglance \
   GrepConsole \
   BrowseWordAtCaret \
@@ -108,14 +113,28 @@ idea installPlugins \
   com.godwin.json.parser \
   de.netnexus.camelcaseplugin \
   org.intellij.RegexpTester \
-  lermitage.intellij.extra.icons \
   DBN \
   com.vladsch.idea.multimarkdown \
+  com.ultrahob.zerolength.plugin \
+  ru.adelf.idea.dotenv \
+  "String Manipulation" \
+  izhangzhihao.rainbow.brackets \
+  com.andrey4623.rainbowcsv \
+  indent-rainbow.indent-rainbow \
+  com.github.lppedd.idea-return-highlighter
+```
+
+#### Usage Stats
+
+- [WakaTime](https://plugins.jetbrains.com/plugin/7425-wakatime) - stats on your usage
+- [Code Time](https://plugins.jetbrains.com/plugin/10687-code-time/) - stats on your usage
+- [Statistic](https://plugins.jetbrains.com/plugin/4509-statistic) - shows project stats, files, line count etc.
+
+```shell
+idea installPlugins \
   com.wakatime.intellij.plugin \
   com.softwareco.intellij.plugin \
   Statistic \
-  com.ultrahob.zerolength.plugin \
-  org.sonarlint.idea   # use with SonarQube / SonarCloud
 ```
 
 ### Cloud
@@ -136,29 +155,28 @@ idea installPlugins \
 - [Jenkins Pipeline Linter](https://plugins.jetbrains.com/plugin/15699-jenkins-pipeline-linter)
 - [Jenkins Control](https://plugins.jetbrains.com/plugin/6110-jenkins-control)
 - [Groovy](https://plugins.jetbrains.com/plugin/1524-groovy) - for your [Groovy Shared Library](https://github.com/HariSekhon/Jenkins) functions
-- [Teamcity](https://plugins.jetbrains.com/plugin/1820-teamcity)
+- [Teamcity](https://plugins.jetbrains.com/plugin/1820-teamcity) - just use Jenkins instead - see the [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md) page for easy Kubernetes automated deployment
+- [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
+- [Synk Security](https://plugins.jetbrains.com/plugin/10972-snyk-security)
 
 ```shell
 idea installPlugins \
   com.github.mikesafonov.jenkins-linter-idea-plugin \
   'Jenkins Control Plugin' \
-  org.intellij.groovy
-  #"Jetbrains TeamCity Plugin"  # just use Jenkins - see the Jenkins page for easy Kubernetes automated deployment
+  org.intellij.groovy \
+  "Jetbrains TeamCity Plugin" \
+  io.snyk.snyk-intellij-plugin \
+  org.sonarlint.idea  # use with SonarQube / SonarCloud
 ```
 
-#### Optional
+#### Optional - Nice to Haves
 
 - [IDEA Features Trainer](https://plugins.jetbrains.com/plugin/8554-ide-features-trainer) - teaches you the IDE
 - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - teaches you keyboard shortcut when you click with the mouse
-- [Env files support](https://plugins.jetbrains.com/plugin/9525--env-files-support)
-- [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 - [Yet another emoji support](https://plugins.jetbrains.com/plugin/12512-yet-another-emoji-support)
 - [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
+- [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons) - adds icons for different file types
 - [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons) - nicer file icons
-- [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
-- [Rainbow CSV](https://plugins.jetbrains.com/plugin/12896-rainbow-csv)
-- [Indent Rainbow](https://plugins.jetbrains.com/plugin/13308-indent-rainbow)
-- [Return Highlighter](https://plugins.jetbrains.com/plugin/13303-return-highlighter)
 - [Mongo](https://plugins.jetbrains.com/plugin/7141-mongo-plugin)
 - [Pieces](https://plugins.jetbrains.com/plugin/17328-pieces--save-search-share--reuse-code-snippets) - code snippets - you should be using libraries but unfortunately some languages have boilerplate for which library do not solve the repetition between programs. See also [HariSekhon/Templates](https://github.com/HariSekhon/Templates)
 
@@ -166,14 +184,9 @@ idea installPlugins \
 idea installPlugins \
   training \
   "Key Promoter X" \
-  ru.adelf.idea.dotenv \
-  "String Manipulation" \
   com.chrisrm.idea.MaterialThemeUI \
+  lermitage.intellij.extra.icons \
   com.github.shiraji.yaemoji \
-  izhangzhihao.rainbow.brackets \
-  com.andrey4623.rainbowcsv \
-  indent-rainbow.indent-rainbow \
-  com.github.lppedd.idea-return-highlighter \
   #"Mongo Plugin"  # who uses Mongo any more?
 ```
 
@@ -201,15 +214,6 @@ idea installPlugins \
 ```
 
 For IntelliJ Ultimate swap `PythonCore` for `Pythonid`.
-
-#### Golang
-
-- [Go Linter](https://plugins.jetbrains.com/plugin/12496-go-linter)
-
-```shell
-idea installPlugins \
-  com.ypwang.plugin.go-linter
-```
 
 #### JavaScript
 
