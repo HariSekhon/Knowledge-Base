@@ -173,9 +173,9 @@ idea installPlugins \
 
 - [IDEA Features Trainer](https://plugins.jetbrains.com/plugin/8554-ide-features-trainer) - teaches you the IDE
 - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - teaches you keyboard shortcut when you click with the mouse
-- [Yet another emoji support](https://plugins.jetbrains.com/plugin/12512-yet-another-emoji-support)
 - [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 - [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons) - adds icons for different file types
+- [Yet another emoji support](https://plugins.jetbrains.com/plugin/12512-yet-another-emoji-support)
 - [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons) - nicer file icons
 - [Mongo](https://plugins.jetbrains.com/plugin/7141-mongo-plugin)
 - [Pieces](https://plugins.jetbrains.com/plugin/17328-pieces--save-search-share--reuse-code-snippets) - code snippets - you should be using libraries but unfortunately some languages have boilerplate for which library do not solve the repetition between programs. See also [HariSekhon/Templates](https://github.com/HariSekhon/Templates)
@@ -187,6 +187,7 @@ idea installPlugins \
   com.chrisrm.idea.MaterialThemeUI \
   lermitage.intellij.extra.icons \
   com.github.shiraji.yaemoji \
+  com.mallowigi
   #"Mongo Plugin"  # who uses Mongo any more?
 ```
 
