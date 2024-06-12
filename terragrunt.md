@@ -29,7 +29,7 @@ terragrunt --install-autocomplete
 
 Edit to suit your needs:
 
-[HariSekhon/Templates - terragrunt.hcl](https://github.com/HariSekhon/Templates/blob/master/terragrunt.hcl)
+[HariSekhon/Terraform - terragrunt.hcl](https://github.com/HariSekhon/Terraform/blob/master/terragrunt.hcl)
 
 Then run...
 
