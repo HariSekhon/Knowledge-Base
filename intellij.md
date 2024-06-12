@@ -53,7 +53,7 @@ These can be installed all in one shot using the script `install_intellij_plugin
 install_intellij_plugins.sh
 ```
 
-You can add/comment/uncomment which plugins to install in the adjacent `setup/intellij-plugins.txt` config file in that same repo.
+You can add / comment / uncomment which plugins to install in the adjacent `setup/intellij-plugins.txt` config file in that same repo.
 
 #### Docker, Kubernetes and Terraform
 
