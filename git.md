@@ -55,9 +55,9 @@ https://nvie.com/posts/a-successful-git-branching-model/
 
 ## Advanced Git Config
 
-https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitconfig
+[HariSekhon/DevOps-Bash-tools - .gitconfig](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitconfig)
 
-https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitignore
+[HariSekhon/DevOps-Bash-tools - .gitignore](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitignore)
 
 You can inherit all configs by just cloning the [repo](https://github.com/HariSekhon/DevOps-Bash-tools#readme) and `make link` to symlink them to your home directory:
 
@@ -68,6 +68,26 @@ git clone https://github.com/HariSekhon/DevOps-Bash-tools bash-tools
 cd bash-tools
 make link
 ```
+
+## Git HTTPS authentication
+
+Using HTTPS clones and pushes are more likely to bypass egress content filters on wifi portals for those of you
+who travel a lot such as remote workers and digital nomads.
+
+The config for this can be added to an individual git repo or at the global level
+which is shown in the advanced [.gitconfig](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitconfig) given above.
+
+There is a script to add it to your local repo in the [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+git_remotes_set_https_creds_helpers.sh
+```
+
+After that you just need your `$GH_TOKEN` or `$GITHUB_TOKEN` (in that order of precedence) in your environment variables.
+
+Create your GitHub Personal Access Token (PAT) here:
+
+https://github.com/settings/tokens
 
 ## CLIs
 
@@ -81,6 +101,8 @@ GitHub CLI:
 ```shell
 brew install gh
 ```
+
+You will need to export `$GH_TOKEN` for the GitHub CLI. Create your token [here](https://github.com/settings/tokens).
 
 GitHub specific git commands to make things like cloning GitHub repos shorter:
 ```shell
