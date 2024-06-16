@@ -57,6 +57,12 @@ shortcut so you can just run: `flushdns`.
 [fingerprint.com](https://fingerprint.com/) can still sort of identify you using a hash of common characteristics.
 Click the link from Incognito/Private Browsing and on/off VPN to see
 
+Documentation:
+
+https://dev.fingerprint.com/
+
+Open source library (TODO read this code):
+
 https://github.com/fingerprintjs/fingerprintjs
 
 ## Commands
