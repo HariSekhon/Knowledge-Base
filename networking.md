@@ -52,6 +52,13 @@ sudo killall -HUP mDNSResponder
 If you are sourcing [DevOps-Bash-tools](devops-bash-tools.md) repo in your `.bashrc` there is a shell function
 shortcut so you can just run: `flushdns`.
 
+#### Fingerprinting
+
+[fingerprint.com](https://fingerprint.com/) can still sort of identify you using a hash of common characteristics.
+Click the link from Incognito/Private Browsing and on/off VPN to see
+
+https://github.com/fingerprintjs/fingerprintjs
+
 ## Commands
 
 ```shell
