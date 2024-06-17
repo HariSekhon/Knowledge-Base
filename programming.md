@@ -31,4 +31,17 @@ Add this to the top of an expect script to debug output:
 exp_internal 1
 ```
 
+## Free Programming Courses
+
+You are limited only by time and effort.
+
+- [Coursera](https://www.coursera.org/)
+- [edX](https://www.edx.org/learn/coding)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [CodeCademy](https://www.codecademy.com/)
+- [Udemy](https://www.udemy.com/topic/programming-fundamentals/free/)
+- [LearnCodeTheHardWay](https://learncodethehardway.org/)
+- [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+- [Class Central](https://www.classcentral.com/subject/programming-and-software-development)
+
 ###### Ported from various private Knowledge Base pages 2008+
