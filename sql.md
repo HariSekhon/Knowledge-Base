@@ -2,7 +2,7 @@
 
 ## SQL Scripts
 
-Scripts for PostgreSQL, MySQL, AWS Athena and Google BigQuery:
+Scripts for [PostgreSQL](postgres.md), [MySQL](mysql.md), AWS Athena and Google BigQuery:
 
 [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
 
