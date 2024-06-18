@@ -189,9 +189,9 @@ Points I disagree with the Google style guide on:
 
 - 2 space indentation - Python already set the standard with 4 space indentation for ease of readability 20+ years ago
 - 80 character width is also antiquated. 100 or 120 char width is probably fine for most people, you are unlikely to be editing scripts on an old 80 character console
-- pipelines should not all be on one line unless they're a trivial mere couple commands
-  - because subsequent changes will have a bigger blast radius trying to scan what part of the line changed
-  - Split command pipes one command per line for better Git diffing
+- shell pipes should not all be on one line unless they're a trivial mere couple commands
+  - because any changes will have a larger blast radius in trying to scan what part of the line changed
+  - split command pipes one command per line for easier `git diff`ing showing the command that changed
 - `${var}` variables surrounded by braces is only needed for variables that touch other strings and would otherwise be misinterpreted. You don't get paid to put in extra characters everywhere
 - the Google guideline then tells you not to bother doing it for single character variables unless they touch another adjacent string, but doesn't follow this same logic for full word variables
 - `[[` is more advanced and less portable than `[` - only use it when you need regex matching
