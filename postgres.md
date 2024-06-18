@@ -1,5 +1,11 @@
 # PostgreSQL
 
+## SQL Scripts
+
+Scripts for DBA administration and performance engineering:
+
+[HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
+
 ## PgAdmin
 
 Web UI for DB access.
