@@ -144,28 +144,36 @@ Git lets you get away with this because Git is ultra powerful, but...
 
 #### Cautionary Tale from Experience
 
-I spent half an hour helping a colleague in Denmark hack and edit through files in merge conflict after merge conflict,
-on two dozen commits due to him doing a rebase.
+I was called over to a desk by my colleague in Denmark who had a little Git problem.
 
-You thought one merge conflict was bad? Try two dozen in a row...
+He's tried to do a "git rebase" but was hitting merge conflict after merge conflict and didn't know how to get out of it.
+
+We spent half an hour hacking and edit through files in merge conflict after merge conflict, on two dozen commits.
+
+These were commits that would have been auto-resolved by a default merge commit (which is why it's the default) instead
+of a rebase, as the end states were the same on both branches and only the intermediate commits were different.
+
+You thought one merge conflict was bad? Try two dozen in a row…
 
 Welcome to "Rebase Hell".
 
-These were commits that would have been auto-resolved by a default merge commit (which is why it's the default) as the
-end states were the same on both branches and only the intermediate commits were different.
-
-Yes I know two people shouldn't have been producing similar fixes on two branches but something people are in a rush and
-these things happen. Besides, this is supposed to be distributed concurrent version control.
+Yes, I know two people shouldn't have been producing similar fixes on two branches but sometimes people are in a
+rush and these things happen. Besides, this is supposed to be distributed concurrent version control.
 
 If you think that's bad, I've worked for another company which has both `develop` and `master` branches being used
 in production but which have diverged by 10,000 commits such that they cannot merge or reconcile them and must
 manually copy code changes and commit to both branches.
 
 Anyway, this "Rebase Hell" situation resulted in needless hassle and potential for introducing code editing errors on
-each rebase commit step
-multiplied by two dozen commits multiplied by the number of files changed with conflicts in those commits.
+each rebase commit step, multiplied by two dozen commits, and further multiplied by the number of files changed with
+conflicts in those commits.
 
 Never again.
+
+People who don't have a Git guru on hand in the team often get in such a mess that they don't know how to fix it and
+just copy their code files out, delete their cloned checkout and then copy the files back in and re-commit them.
+
+You think I'm joking, I've had colleagues who've done this and admitted it.
 
 #### Force Push Overwrites Can Lose Code Permanently
 
@@ -188,9 +196,9 @@ With great power comes great responsibility...
 
 ### Squash Commits
 
-Squash commit merges have a similar issue
-to rebasing in that they lose intermediate commits and keep only the very last version of the branch code,
-losing the process and any code/comments/commit messages that might have been useful to keep as references in the history.
+Squash commit merges have a similar issue to rebasing in that they lose intermediate commits and keep only the very last
+version of the branch code, losing the process and any code/comments/commit messages that might have been useful to keep
+as references in the history.
 
 Future engineers doing `git log` will not be able to see the process of the evolution of your code,
 only the very final version, somewhat defeating the purpose of version control history!
