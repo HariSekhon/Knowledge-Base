@@ -58,6 +58,59 @@ https://datasift.github.io/gitflow/IntroducingGitFlow.html
 
 https://nvie.com/posts/a-successful-git-branching-model/
 
+## The Evils of Rebasing
+
+Some people like rebasing to make their `git log --graph` look like a straight line,
+albeit with out of order timestamps 🙄.
+
+This violates the classic version control principle of not altering history.
+
+Git lets you get away with this because Git is ultra powerful, but...
+
+#### Cautionary Tale from Experience
+
+I spent half an hour helping a colleague in Denmark hack and edit through files in merge conflict after merge conflict
+on two dozen commits due to him doing a rebase.
+
+These were commits that would have been auto-resolved by a default merge commit (which is why it's the default) as the
+end states were the same on both branches and only the intermediate commits were different.
+
+Needless stress and potential for introducing code editing errors on each rebase commit step
+multiplied by two dozen commits multiplied by the number of files changed with conflicts in those commits.
+
+Never again.
+
+#### Force Push Overwrites Can Lose Code Permanently
+
+If you've already pushed your branch upstream, you then have to force push to overwrite your own upstream commit history
+after a rebase. Yuck.
+
+If you still insist on doing rebasing for the love of goodness please use `--force-with-lease` instead of `--force`.
+
+This switch checks that the remote branch hasn't been changed since your last fetch since you're overwriting it,
+which would otherwise lose those commits.
+
+But unfortunately even this is trivially defeated, read the [git push](https://git-scm.com/docs/git-push) man page on
+this for more details.
+
+Do you get why you shouldn't rebase to try to have a single straight `git log --graph` line yet?
+
+Yes you can accidentally delete code even after it's been pushed and lose it forever in Git. This is not Subversion.
+
+With great power comes great responsibility...
+
+### Squash Commits
+
+Squash commit merges have a similar issue
+to rebasing in that they lose intermediate commits and keep only the very last version of the branch code,
+losing the process and any code/comments/commit messages that might have been useful to keep as references in the history.
+
+Future engineers doing `git log` will not be able to see the process of the evolution of your code,
+only the very final version, somewhat defeating the purpose of version control history!
+
+If I had to pick my battles and let my engineers do one or the other,
+I'd ban rebasing though after my Denmark experience.
+
 ## Advanced Git Config
 
 [HariSekhon/DevOps-Bash-tools - .gitconfig](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitconfig)
