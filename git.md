@@ -200,8 +200,8 @@ With great power comes great responsibility...
 ### Squash Commits
 
 Squash commit merges have a similar issue to rebasing in that they lose intermediate commits and keep only the very last
-version of the branch code, losing the process and any code/comments/commit messages that might have been useful to keep
-as references in the history.
+version of the branch code, losing the process and any code / comments / commit messages that might have been useful to
+keep as references in the history.
 
 Future engineers doing `git log` will not be able to see the process of the evolution of your code,
 only the very final version, somewhat defeating the purpose of version control history!
