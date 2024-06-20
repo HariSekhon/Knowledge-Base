@@ -14,8 +14,8 @@ The cutting edge is Diagrams-as-Code.
 
 Mainly D2 and Python diagrams, with some MermaidJS and a little Draw.io / LucidChart.
 
-CI/CD pipelines auto-regenerate the diagrams upon any code changes and they appear directly in the rendered README.md as
-the resultant `.png` images are sourced in the markdown code.
+[GitHub Actions](github-actions.md) CI/CD pipelines auto-regenerate the diagrams upon any code changes and they appear
+directly in the rendered README.md as the resultant `.png` images are sourced in the markdown code.
 
 ## Templates
 
