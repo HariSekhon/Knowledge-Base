@@ -20,13 +20,22 @@ Mainly D2 and Python diagrams, with some MermaidJS and a little Draw.io / LucidC
 [diagram.d2](https://github.com/HariSekhon/Templates/blob/master/diagram.d2) and
 [diagram.py](https://github.com/HariSekhon/Templates/blob/master/diagram.py).
 
-## Diagrams Languages
+## Diagrams-as-Code Languages
+
+Diagrams-as-Code are both cool, easier to reuse prior work and often easier to maintain.
+
+A quick edit and they reshuffle themselves.
+
+The lack of placement layout control (D2 issue [#1285](https://github.com/terrastruct/d2/issues/1285),
+Python Diagrams issues
+[#44](https://github.com/mingrammer/diagrams/issues/44) and [#819](https://github.com/mingrammer/diagrams/issues/891))
+is the main problem on more complex diagrams, for which you may want to switch to one of the top GUI tools from the
+next section.
 
 - [D2 lang](https://d2lang.com/) - excellent, easy to use DSL, my favourite
   - read [D2 lang](d2.md) for details
 - [Python Diagrams](https://diagrams.mingrammer.com/) - my prior favourite
   - good for basic Cloud Architecture diagrams with icons
-  - unfortunately no placement control for more complex diagrams
 - [Go Diagrams](https://github.com/blushft/go-diagrams) - a port of Python Diagrams
 - [Cloudgram](https://cloudgram.dedalusone.com/index.html) - another DSL language
 - [GraphViz](https://graphviz.org/) - the classic
@@ -50,6 +59,8 @@ repo is far too huge a
 [Best Comparison Site](https://text-to-diagram.com/) (run by D2)
 
 ## GUI / Online Diagrams tools
+
+For more control and complex architecture diagrams.
 
 - [Draw.io](https://app.diagrams.net) - mature and can export to XML
   - integrates with Confluence to embed diagrams straight into Confluence wiki pages
