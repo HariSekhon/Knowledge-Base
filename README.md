@@ -195,7 +195,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [Concourse](concourse.md)
   - [GoCD](gocd.md) TODO
 -  Git Repo Providers hosted CI/CD:
-   - [GitHub Actions](github-actions.md) TODO
+   - [GitHub Actions](github-actions.md)
    - [GitLab CI](gitlab-ci.md) TODO
    - [Azure DevOps](azure-devops.md) TODO
    - [Bitbucket Pipelines](bitbucket.md) TODO
