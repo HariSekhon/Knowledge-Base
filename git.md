@@ -186,7 +186,7 @@ You think I'm joking, I've had colleagues who've done this and admitted it.
 
 Yes I laughed, I couldn't help it.
 
-#### Force Push Overwrites Can Lose Code Permanently
+#### Rebase Requires Force Push Overwrites Which Can Lose Code Permanently
 
 If you've already pushed your branch upstream, you then have to force push to overwrite your own upstream commit history
 after a rebase. Yuck.
