@@ -159,6 +159,11 @@ You thought one merge conflict was bad? Try two dozen in a row…
 
 Welcome to "Rebase Hell".
 
+Even if the two branches end states weren't quite the same or auto-mergeable, it would have been only a single merge
+conflict to resolve instead of two dozen, some of which were futile merge resolutions because those code files were
+corrected in future commits anyway, which you don't know until you've wasted your time fixing them to get to the next
+commits.
+
 Yes, I know two people shouldn't have been producing similar fixes on two branches but sometimes people are in a
 rush and these things happen. Besides, this is supposed to be distributed concurrent version control.
 
