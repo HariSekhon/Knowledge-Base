@@ -166,10 +166,12 @@ in production but which have diverged by 10,000 commits such that they cannot me
 manually copy code changes and commit to both branches.
 
 Anyway, this "Rebase Hell" situation resulted in needless hassle and potential for introducing code editing errors on
-each rebase commit step, multiplied by two dozen commits, and further multiplied by the number of files changed with
+each rebase-fix-commit step, multiplied by two dozen commits, and further multiplied by the number of files changed with
 conflicts in those commits.
 
 Never again.
+
+It just isn't worth the trouble.
 
 People who don't have a Git guru on hand in the team often get in such a mess that they don't know how to fix it and
 just copy their code files out, delete their cloned checkout and then copy the files back in and re-commit them.
