@@ -48,9 +48,12 @@ Edit to suit your needs:
 
 Then run...
 
-## Plan & Apply
+## Terragrunt Plan & Apply
 
 Almost the same commands, just swap `terraform` for `terragrunt`:
+
+[Auto-init](https://terragrunt.gruntwork.io/docs/features/auto-init/) means you don't need to run `terragrunt init`,
+it is automatically called during `terragrunt plan` if it detects it's not been initialized.
 
 ```shell
 terragrunt plan
@@ -59,3 +62,15 @@ terragrunt plan
 ```shell
 terragrunt apply
 ```
+
+## Terragrunt Scaffold
+
+Terragrunt contains built-in templating where it will find the latest release tag of the given module and generate the
+boilerplate `terragrunt.hcl` for you including the tagged `source` url and the `input` variables for the given module
+(beware the skaffold command overwrites the `terragrunt.hcl` file in the local directory):
+
+```shell
+terragrunt scaffold github.com/gruntwork-io/terragrunt-infrastructure-modules-example//modules/mysql
+```
+
+Can see ref version and SSH git source via variables, see [the doc](https://terragrunt.gruntwork.io/docs/features/scaffold/).
