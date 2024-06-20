@@ -134,6 +134,7 @@ pip install --user bitbucket-cli
 ## GitHub Badges
 
 https://github.com/commonality/architecture-decision-records/wiki/GitHub-repository-status-badges
+
 ## The Evils of Rebasing
 
 Some people like rebasing to make their `git log --graph` look like a straight line,
@@ -145,7 +146,7 @@ Git lets you get away with this because Git is ultra powerful, but...
 
 #### Cautionary Tale from Experience
 
-I was called over to a desk by my colleague in Denmark who had a little Git problem.
+While consulting in Denmark, I was called over to a desk by my colleague who had a little Git problem.
 
 He's tried to do a "git rebase" but was hitting merge conflict after merge conflict and didn't know how to get out of it.
 
