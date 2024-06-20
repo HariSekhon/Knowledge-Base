@@ -64,6 +64,7 @@ repo is far too huge a
 - [Cacoo](https://nulab.com/cacoo/)
 - [Gliffy](https://www.gliffy.com/)
 - [Visual Paradigm](https://www.visual-paradigm.com/) - enterprise, does archimate diagrams, complicated, I used this at an investment bank, not my favourite, fine for enterprise architects rather than engineers
+- [Cloudairy](https://chart.cloudairy.com/cloudchart) - new, buggy UI when I tried it
 - [Swimm](https://docs.swimm.io/) - AI to generate diagrams from code and documentation sources
 
 ## Important Icon Sets to import into D2
@@ -84,20 +85,10 @@ Python Diagrams has the best library, some highlights are below but check their 
 - [Official Kubernetes Icons](https://github.com/kubernetes/community/tree/master/icons)
 
 
-
 - [CNCF technologies Icons](https://landscape.cncf.io/card-mode)
 
 
 - [SimpleIcons](https://simpleicons.org/)
-
-
-- [FlatIcon](https://www.flaticon.com/)
-
-
-- [IconFinder](https://www.iconfinder.com/)
-
-
-- [Icons8](https://icons8.com/)
 
 
 - [Official AWS Icons](https://aws.amazon.com/architecture/icons/)
@@ -109,6 +100,15 @@ Python Diagrams has the best library, some highlights are below but check their 
 - [Official Azure Icons](https://learn.microsoft.com/en-us/azure/architecture/icons/)
 - [Benco Azure Icons](https://code.benco.io/icon-collection/azure-icons/)
 - [Icon8 Azure Icons](https://icons8.com/icons/set/azure)
+
+
+- [FlatIcon](https://www.flaticon.com/)
+
+
+- [IconFinder](https://www.iconfinder.com/)
+
+
+- [Icons8](https://icons8.com/)
 
 ### Interactive Playground Editors
 
