@@ -6,6 +6,17 @@ It's a rare exception where you'd need to script in the original Bourne shell
 (bootstrapping [Alpine](https://github.com/HariSekhon/Dockerfiles/blob/master/alpine-dev/Dockerfile)
 is one of the few use cases for that).
 
+## Index
+
+- [Core Reading Material](#core-reading-material)
+- [Advanced Library of Scripts](#advanced-library-of-scripts)
+- [Perl, Awk, Sed](#perl-awk-sed)
+- [Other Cool Resources](#other-cool-resources)
+- [Commands](#commands)
+- [Tips & Tricks](#tips-tricks)
+- [Debugging](#debugging)
+- [Style Guide](#style-guide)
+
 ## Core Reading Material
 
 Books:
@@ -58,7 +69,7 @@ You also need to learn [Regex](regex.md) to use these tools effectively.
 - [Reddit - r/bash](https://www.reddit.com/r/bash/)
 - [ShellCheck](https://www.shellcheck.net/) - online version of the popular `shellcheck` command line tool to find bugs and improvements to make in shell code
 
-## Tips
+## Commands
 
 Some less well known commands to remember:
 
@@ -167,9 +178,11 @@ probably be better done in a real programming language.
 ```shell
 cat -n
 ```
+
 ```shell
 less -N
 ```
+
 ```shell
 nl
 ```
@@ -181,7 +194,51 @@ nl
 command on the previous file operated on
 - `!:n*` - takes the Nth arg to the end from the last command
 
-#### Style Guide
+## Debugging
+
+### Shell executing tracing
+
+Prints commands as a script runs so you can see what command generated an error:
+
+```shell
+set -x
+```
+
+### Fail on any error exit code
+
+Fail if any command returns an unhandled non-zero exit code.
+
+If you have unhandled errors your script should die so you know what the script is doing at all times and doesn't result
+in unintended consequences:
+
+```shell
+set -e
+```
+
+### Fail if accessing any unset variable
+
+This prevents commands running on typo variables or empty variables
+(a variable set to the result of a command that returned nothing instead of the expected output) as that can have
+disastrous consequences:
+
+```shell
+set -u
+```
+
+Imagine `rm -fr "/apps/$empty_variable"` which would delete all the apps instead of the expected one,
+or worse on `/` would delete the entire operating system and all data on it.
+
+### Clean Shell
+
+Start a clean shell without any functions, aliases or other settings to help in debugging:
+
+```shell
+env - bash --norc --noprofile
+```
+
+In [DevOps-Bash-tools](devops-bash-tools.md) this a function called `cleanshell`.
+
+## Style Guide
 
 [Google Shell Guide](https://google.github.io/styleguide/shellguide.html) - I don't always agree with everything in here but here it is if you're interested
 
