@@ -126,6 +126,43 @@ dscacheutil -flushcache
 sudo killall -HUP mDNSResponder
 ```
 
+### Set DNS Servers
+
+Sometimes you want to use public DNS servers for better performance than the local DHCP given ones:
+
+```shell
+sudo networksetup -setdnsservers en0 4.2.2.1 4.2.2.2
+```
+
+To set back to DHCP DNS servers, just clear the list:
+
+```shell
+sudo networksetup -setdnsservers en0 "Empty"
+```
+
+In [DevOps-Bash-tools](devops-bash-tools.md) the shell has a function `dhcpdns` to do this for all network
+interfaces and remove the DNS search domains since you should inherit them from DHCP and not leak those FQDN
+searches to the internet if on public networks.
+
+### Set DNS Search Domain
+
+```shell
+sudo networksetup -setsearchdomains en0 mydomain.com
+```
+
+In [DevOps-Bash-tools](devops-bash-tools.md) the shell has a function `set_dns` to do this for all network interfaces to
+make this easier.
+
+You should see these search domains appear in the class unix file `/etc/resolv.conf` managed by apple networking.
+
+To remove DNS search domains:
+
+```shell
+sudo networksetup -setsearchdomains en0 "Empty"
+```
+
+or `clear_dns_search` function in [DevOps-Bash-tools](devops-bash-tools.md) to do this for all interfaces.
+
 ### Stats Bar
 
 [Stats](https://github.com/exelban/stats) gives many nice toolbar stats on your Mac's performance for CPU, GPU, RAM, Disk, Network and Battery.
