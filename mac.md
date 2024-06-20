@@ -146,6 +146,8 @@ by apps like Windows Virtual Desktop in Remote Desktop opening to full screen, a
 [described here](https://discussions.apple.com/thread/8118894?sortBy=best)
 by pressing F3 and then hovering on and clicking the X to delete the extra workspaces.
 
+Unfortunately, Remote Desktop still seems to slide and send to fullscreen in another temporary desktop workspace.
+
 ### Say - text-to-speech
 
 Make your Mac speak. I use this to impress the kids, or even send a message from my study to my living room computer
