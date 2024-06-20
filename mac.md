@@ -6,6 +6,11 @@ https://www.apple.com/uk/macbook-pro/
 
 If you don't have an M3 Pro / Max - you're missing out on an excellent (but overpriced) machine.
 
+On balance of price vs performance the Macbook Air M3 is excellent, and even thinner and lighter than the
+Macbook Pro - a real joy to use. Even when you're using more RAM than the physical 16GB max and swapping, the
+performance is still so good you don't notice significant performance degradation for most usage, even when using
+heavyweight IDEs like [IntelliJ](intellij.md).
+
 ## Terminal
 
 This is where you should be spending your life if you're a techie, with a browser to supplement referencing documentation.
