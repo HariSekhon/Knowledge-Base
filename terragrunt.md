@@ -2,7 +2,7 @@
 
 https://terragrunt.gruntwork.io/
 
-"Thin wrapper around [Terraform](terraform.md)" but adds lots of sourcing and templating capabilities.
+A thin wrapper around [Terraform](terraform.md) which adds lots of sourcing and templating capabilities.
 
 Uses the same arguments as Terraform and passes them to the `terraform` command.
 
@@ -50,7 +50,7 @@ Then run...
 
 ## Terragrunt Plan & Apply
 
-Almost the same commands, just swap `terraform` for `terragrunt`:
+Almost the same commands as regular terraform, just replace `terraform` with `terragrunt`:
 
 [Auto-init](https://terragrunt.gruntwork.io/docs/features/auto-init/) means you don't need to run `terragrunt init`,
 it is automatically called during `terragrunt plan` if it detects it's not been initialized.
@@ -63,14 +63,25 @@ terragrunt plan
 terragrunt apply
 ```
 
+Recursively looks for `terragrunt.hcl` in all subdirectories and concurrently runs them to run all modules from a
+root directory:
+
+```shell
+terragrunt run-all apply
+```
+
 ## Terragrunt Scaffold
 
-Terragrunt contains built-in templating where it will find the latest release tag of the given module and generate the
-boilerplate `terragrunt.hcl` for you including the tagged `source` url and the `input` variables for the given module
-(beware the skaffold command overwrites the `terragrunt.hcl` file in the local directory):
+Terragrunt contains built-in templating.
+
+This command will find the latest release tag of the given module and generate the
+[boilerplate](https://github.com/gruntwork-io/boilerplate) `terragrunt.hcl` for you including the tagged `source` url
+and the `input` variables for the given module (WARNING: the scaffold command overwrites any `terragrunt.hcl` file
+in the local directory without prompting):
 
 ```shell
 terragrunt scaffold github.com/gruntwork-io/terragrunt-infrastructure-modules-example//modules/mysql
 ```
 
-Can see ref version and SSH git source via variables, see [the doc](https://terragrunt.gruntwork.io/docs/features/scaffold/).
+Can set ref version and SSH git source via variables, see
+[the doc](https://terragrunt.gruntwork.io/docs/features/scaffold/).
