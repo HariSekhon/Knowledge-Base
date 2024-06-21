@@ -63,12 +63,44 @@ terragrunt plan
 terragrunt apply
 ```
 
-Recursively looks for `terragrunt.hcl` in all subdirectories and concurrently runs them to run all modules from a
-root directory:
+Recursively looks for `terragrunt.hcl` in all subdirectories and concurrently runs them (run these from the root
+directory of your terragrunt'd terraform repo):
 
 ```shell
-terragrunt run-all apply
+terragrunt run-all validate
 ```
+
+```shell
+terragrunt run-all plan  # --terragrunt-out-dir /tmp/tfplan
+```
+
+```shell
+terragrunt run-all apply  # --terragrunt-out-dir /tmp/tfplan
+```
+
+#### Useful Options
+
+- `--terragrunt-parallelism 4` - avoid hitting rate limiting with Cloud providers APIs
+- `--terragrunt-out-dir /tmp/tfplan` - save the plan and apply it exactly. For `run-all` the `tfplan.tfplan` files
+  are saved in subdirectories of the same naming structure
+- `--terragrunt-json-out-dir` - save the plan in JSON format. Can be used together with the above switch to save
+  both formats, one for text investigation and the other for applying
+
+## Dependency Graph
+
+```shell
+terragrunt graph-dependencies | dot -Tsvg > graph.svg
+```
+
+On [Mac](mac.md) you can open the graph from the command line too:
+
+```shell
+open graph.svg
+```
+
+![](https://terragrunt.gruntwork.io/assets/img/collections/documentation/graph.png)
+
+This is the order of "depends on" - Terragrunt will run the modules from the bottom up.
 
 ## Terragrunt Scaffold
 
