@@ -26,7 +26,8 @@ don't work.
 
 Pull up the Snipping Tool from the task search and use that to take a screenshot of a given area.
 
-On Mac hit the `Cmd` key to go to the task bar search and then type `snip` and enter.
+On Mac hit the `Cmd` key which is equivalent of the Windows key inside the WVD session to bring up the task bar search
+and then type`snip` and enter.
 
 Once the Snipping Tool is up, click New and then drag a selection window and save it as a screenshot file to share.
 
