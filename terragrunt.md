@@ -4,7 +4,8 @@ https://terragrunt.gruntwork.io/
 
 A thin wrapper around [Terraform](terraform.md) which adds lots of sourcing and templating capabilities.
 
-Uses the same arguments as Terraform and passes them to the `terraform` command.
+Uses the same arguments as Terraform and passes all args to the `terraform` command except for `--version` and
+`--terragrunt-*`.
 
 This was designed to reduce duplication when using Terraform code
 and support things like variables, expressions, functions and relative roots in `provider` and `backend` blocks.
@@ -48,7 +49,11 @@ Edit to suit your needs:
 
 Then run...
 
-## Terragrunt Plan & Apply
+## Terragrunt Usage
+
+[CLI Reference](https://terragrunt.gruntwork.io/docs/reference/cli-options/)
+
+### Plan & Apply
 
 Almost the same commands as regular terraform, just replace `terraform` with `terragrunt`:
 
@@ -63,8 +68,31 @@ terragrunt plan
 terragrunt apply
 ```
 
+### Validate Inputs
+
+https://terragrunt.gruntwork.io/docs/reference/cli-options/#validate-inputs
+
+Finds:
+
+1. required inputs for a module that are missing
+1. unused inputs being passed to a terraform module for which it is not expecting.
+
+Strict mode exits with error instead of just printing a warning:
+
+```shell
+terragrunt validate-inputs --terragrunt-strict-validate
+```
+
+Use this in [CI/CD](ci-cd.md) to force people to
+properly maintain their code changes.
+
+### Run-All
+
 Recursively looks for `terragrunt.hcl` in all subdirectories and concurrently runs them (run these from the root
-directory of your terragrunt'd terraform repo):
+directory of your terragrunt'd terraform repo).
+
+
+##### WARNING: adds implicit `-auto-approve` and doesn't prompt (don't use it with `destroy` argument!).
 
 ```shell
 terragrunt run-all validate
@@ -78,6 +106,22 @@ terragrunt run-all plan  # --terragrunt-out-dir /tmp/tfplan
 terragrunt run-all apply  # --terragrunt-out-dir /tmp/tfplan
 ```
 
+See also the [Graph Run](#graph-run) command further down.
+
+##### No Auto-Approve
+
+You can add `--terragrunt-no-auto-approve` / `TERRAGRUNT_NO_AUTO_APPROVE=true` to prevent this, but due to
+interactive prompts will implicitly also add `--terragrunt-parallelism 1`.
+
+
+### Auto Format
+
+Recursively finds `.hcl` files and formats them:
+
+```shell
+terragrunt hclfmt
+```
+
 #### Useful Options
 
 - `--terragrunt-parallelism 4` - avoid hitting rate limiting with Cloud providers APIs
@@ -86,7 +130,27 @@ terragrunt run-all apply  # --terragrunt-out-dir /tmp/tfplan
 - `--terragrunt-json-out-dir` - save the plan in JSON format. Can be used together with the above switch to save
   both formats, one for text investigation and the other for applying
 
+### CI/CD
+
+For CI/CD, set environment variable:
+
+```
+TERRAGRUNT_NON_INTERACTIVE=true
+```
+
+## Terraform Lock Files
+
+The `.terraform.lock.hcl` is generated in the same directory as your `terragrunt.hcl` file.
+
+When Terragrunt downloads remote configurations into a sub-directory like `.terragrunt-cache/<url>/<remote_code>`
+it copies the top level `.terraform.lock.hcl` file into the sub-directory before running Terraform and back to `$PWD`
+after the run to capture the changes.
+
+Commit your lock file as per Terraform standard to ensure your colleagues get the same provider versions.
+
 ## Dependency Graph
+
+Recurse sub-directories and generate a dependency graph based on the `dependency` and `dependencies` blocks:
 
 ```shell
 terragrunt graph-dependencies | dot -Tsvg > graph.svg
@@ -102,6 +166,20 @@ open graph.svg
 
 This is the order of "depends on" - Terragrunt will run the modules from the bottom up.
 
+### Graph Run
+
+You can execute a command against all module dependencies of the current module directory.
+
+#### Beware although not documented, this like assumes `-auto-approve` so make sure to plan and check first:
+
+```shell
+terragrunt graph plan
+```
+
+```shell
+terragrunt graph apply
+```
+
 ## Terragrunt Scaffold
 
 Terragrunt contains built-in templating.
@@ -116,4 +194,18 @@ terragrunt scaffold github.com/gruntwork-io/terragrunt-infrastructure-modules-ex
 ```
 
 Can set ref version and SSH git source via variables, see
-[the doc](https://terragrunt.gruntwork.io/docs/features/scaffold/).
+[this doc page](https://terragrunt.gruntwork.io/docs/features/scaffold/).
+
+## Terragrunt Debugging
+
+Use `--terragrunt-log-level=debug`.
+
+Use `--terragrunt-debug` to create a `$PWD/terragrunt-debug.tfvars.json` file to be able to run `terraform` with the
+same inputs without terragrunt.
+
+```shell
+terragrunt apply --terragrunt-log-level=debug --terragrunt-debug
+```
+
+See [this doc page](https://terragrunt.gruntwork.io/docs/features/debugging/) for more details and OpenTelemetry
+integration.
