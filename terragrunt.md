@@ -2,13 +2,12 @@
 
 https://terragrunt.gruntwork.io/
 
-A thin wrapper around [Terraform](terraform.md) which adds lots of sourcing and templating capabilities.
+Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing and templating capabilities.
 
-Uses the same arguments as Terraform and passes all args to the `terraform` command except for `--version` and
-`--terragrunt-*`.
+Uses same arguments which are passed to the `terraform` command.
 
-This was designed to reduce duplication when using Terraform code
-and support things like variables, expressions, functions and relative roots in `provider` and `backend` blocks.
+Designed to reduce duplication when using Terraform code by adding support for variables, expressions, functions and
+relative roots in `provider` and `backend` blocks.
 
 Especially useful or running Terraform modules individually to save run time.
 
@@ -50,6 +49,8 @@ Edit to suit your needs:
 Then run...
 
 ## Terragrunt Usage
+
+Passes all args straight to the `terraform` command except for `--version` and `--terragrunt-*`.
 
 - [CLI Reference](https://terragrunt.gruntwork.io/docs/reference/cli-options/)
 - [Functions Reference](https://terragrunt.gruntwork.io/docs/reference/built-in-functions/)
