@@ -51,7 +51,8 @@ Then run...
 
 ## Terragrunt Usage
 
-[CLI Reference](https://terragrunt.gruntwork.io/docs/reference/cli-options/)
+- [CLI Reference](https://terragrunt.gruntwork.io/docs/reference/cli-options/)
+- [Functions Reference](https://terragrunt.gruntwork.io/docs/reference/built-in-functions/)
 
 ### Plan & Apply
 
