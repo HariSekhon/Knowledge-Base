@@ -9,7 +9,7 @@ Uses same arguments which are passed to the `terraform` command.
 Designed to reduce duplication when using Terraform code by adding support for variables, expressions, functions and
 relative roots in `provider` and `backend` blocks.
 
-Especially useful or running Terraform modules individually to save run time.
+Especially useful for running Terraform modules individually to save run time.
 
 In CI/CD pipelines you often only want to deploy the modules which have changed individually instead of the entire
 terraform code base, because Terraform is slow (usually because it has to make lots of calls to cloud APIs to determine
