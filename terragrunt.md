@@ -211,3 +211,15 @@ terragrunt apply --terragrunt-log-level=debug --terragrunt-debug
 
 See [this doc page](https://terragrunt.gruntwork.io/docs/features/debugging/) for more details and OpenTelemetry
 integration.
+
+## Terragrunt Troubleshooting
+
+If you get an error like this when running Terragrunt:
+
+```
+ERRO[0000] fork/exec /Users/hari/.tfenv/bin: no such file or directory
+ERRO[0000] Unable to determine underlying exit code, so Terragrunt will exit with error code 1
+```
+
+then make sure to unset `TERRAGRUNT_TFPATH` or direct it to your correct terraform binary (rather than directory as
+in the case above).
