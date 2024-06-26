@@ -222,11 +222,16 @@ I'd ban rebasing though after my Denmark experience.
 Squash & Merge of Pull Requests is sometimes enforced by teams disallowing Merge Commits in order to keep the trunk
 branch looking clean, at the expense of losing the intermediate commits and changes as mentioned above.
 
-The Squash Commit in the GitHub UI will default to using your primary email addres, so be careful not to click too
-quickly and commit using your personal email address (you can tell I've done this once).
+The Squash Commit in the GitHub UI will default to using your primary email address, which is usually your
+personal email address.
 
-Use the drop down to select your corporate email address, and subsequent Squash & Merge will remember and use that
+So be careful not to click through too quickly and commit using your personal email address into the corporate repo
+(you can tell I've done this once).
+
+Use the drop down to select your corporate email address, and subsequent Squash & Merges will remember and use that
 email from that point onwards.
+
+#### Do not set your primary email address to be your corporate email address in case you use it on your public repos and expose your corporate email address publicly.
 
 ## Why You Shouldn't Use Long Lived Branches
 
