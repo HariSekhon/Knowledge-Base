@@ -9,7 +9,8 @@ make
 ```
 to run whatever build commands you want.
 
-Even when I use Maven, Gradle, SBT, Pip, Cpanm, Go Build etc... I wrap them in a `Makefile` because it makes the commands shorter.
+Even when I use Maven, Gradle, SBT, Pip, Cpanm, Go Build etc... I wrap them in a `Makefile` because it makes the
+commands shorter and captures any special command line arguments that you may want to pass to the build systems.
 
 ## Best Make Examples
 
