@@ -15,23 +15,6 @@ All my GitHub repos are also mirrored to all 4 major repo providers to use their
 API code for many of the following technologies can also be found in my
 [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo.
 
-### Portable Code Design
-
-Anything you put in CI/CD should ideally be easily runnable locally from the command line.
-
-This is important for local testing and debugging, eg.
-being able to test code builds using [Build Systems](build-systems.md) or run [Terraform](terraform.md) /
-[Terragrunt](terragrunt.md) plans before committing code, as well as deploy urgent production hotfixes even in cases
-where the CI/CD system may be unavailable due to a public outage (all the major vendors have them from time to time)
-or a self-managed maintenance window for an upgrade or similar.
-
-Also, if you ever want to migrate to another CI/CD system, having a portable set of scripts, [Makefiles](make.md) and
-similar makes it much easier to do so.
-
-Advanced library usage such as in [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) and
-[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) sacrifice some of this portability in exchange for advanced
-functionality and code reuse.
-
 ## Self-Hosted CI/CD
 
 ### [Jenkins](https://www.jenkins.io/)
@@ -265,8 +248,25 @@ Nothing special, has its own Python environment quirks I've had to work around.
 - only 300 build minutes per month
 - Decommissioned / Dead
 
-## See Also
+## Portable Code Design
 
-[Code Quality](code-quality.md)
+Anything you put in CI/CD should ideally be easily runnable locally from the command line.
+
+This is important for local testing and debugging, eg.
+being able to test code builds using [Build Systems](build-systems.md) or run [Terraform](terraform.md) /
+[Terragrunt](terragrunt.md) plans before committing code, as well as deploy urgent production hotfixes even in cases
+where the CI/CD system may be unavailable due to a public outage (all the major vendors have them from time to time)
+or a self-managed maintenance window for an upgrade or similar.
+
+Also, if you ever want to migrate to another CI/CD system, having a portable set of scripts, [Makefiles](make.md) and
+similar makes it much easier to do so.
+
+Advanced library usage such as in [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) and
+[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) sacrifice some of this portability in exchange for advanced
+functionality and code reuse.
+
+## Code Quality
+
+See [Code Quality](code-quality.md).
 
 ###### Ported from private Knowledge Base page 2014+
