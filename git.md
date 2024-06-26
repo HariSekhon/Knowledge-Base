@@ -217,6 +217,17 @@ only the very final version, somewhat defeating the purpose of version control h
 If I had to pick my battles and let my engineers do one or the other,
 I'd ban rebasing though after my Denmark experience.
 
+### Squash & Merge - multiple email addresses on your GitHub account
+
+Squash & Merge of Pull Requests is sometimes enforced by teams disallowing Merge Commits in order to keep the trunk
+branch looking clean, at the expense of losing the intermediate commits and changes as mentioned above.
+
+The Squash Commit in the GitHub UI will default to using your primary email addres, so be careful not to click too
+quickly and commit using your personal email address (you can tell I've done this once).
+
+Use the drop down to select your corporate email address, and subsequent Squash & Merge will remember and use that
+email from that point onwards.
+
 ## Why You Shouldn't Use Long Lived Branches
 
 See if you can follow this diagram from left to right:
