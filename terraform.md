@@ -28,6 +28,18 @@ Download the providers and create or connect to the `terraform.tfstate` file:
 terraform init
 ```
 
+Format you code:
+
+```shell
+terraform fmt
+```
+
+Validate your code:
+
+```shell
+terraform validate
+
+```
 See the plan of additions/deletions/modifications that Terraform would do:
 
 ```shell
