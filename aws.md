@@ -48,4 +48,34 @@ kubectl get pods --all-namespaces
 
 Then see [Kubernetes](kubernetes.md) for configs, scripts and `.envrc`.
 
+## RDS - Relational Database Service
+
+Hosted SQL RDBMS like [MySQL](mysql.md), [PostgreSQL](postgres.md), Microsoft SQL Server etc.
+
+### List RDS instances
+
+AWS CLI doesn't have a convenient short form for just listing instances, but you can get one like this:
+
+```shell
+aws rds describe-db-instances | jq -r '.DBInstances[].DBInstanceIdentifier'
+```
+
+with their statuses in a table:
+
+```shell
+aws rds describe-db-instances --query "DBInstances[*].[DBInstanceIdentifier,DBInstanceStatus]" --output table
+```
+
+(notice this is using AWS CLI query not `jq` - hence the different query string format)
+
+### Reset DB master password
+
+Using the name returned from above commands:
+
+```shell
+aws rds modify-db-instance \
+    --db-instance-identifier "$RDS_INSTANCE" \
+    --master-user-password "MyNewVerySecurePassword"
+```
+
 ###### Partial port from private Knowledge Base page 2012+
