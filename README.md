@@ -87,6 +87,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Diagrams-as-Code](diagrams.md)
   - [D2 lang](d2.md)
 - [MkDocs](mkdocs.md)
+- [Medium.com (blog)](medium.md)
 
 ### Git
 
