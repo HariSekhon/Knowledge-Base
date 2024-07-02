@@ -58,8 +58,6 @@ sudo gpasswd -a hari docker
 newgrp docker
 ```
 
-
-
 ## Volumes
 
 - name or anonymous
@@ -204,9 +202,13 @@ All of the above + build cache except --volumes (Docker > 17.05)
 docker system prune
 ```
 
+## Docker Compose
+
+See [Docker Compose](docker-compose.md) doc.
+
 ## Podman & Buildah
 
-See [Podman & Buildah](podman.md)
+See [Podman & Buildah](podman.md) doc.
 
 ## Container Diff
 
