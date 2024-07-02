@@ -202,6 +202,10 @@ All of the above + build cache except --volumes (Docker > 17.05)
 docker system prune
 ```
 
+## Dockefile
+
+See [Dockerfile](dockerfile.md) doc.
+
 ## Docker Compose
 
 See [Docker Compose](docker-compose.md) doc.
