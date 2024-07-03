@@ -7,6 +7,51 @@ Self-hosted enterprise Dev environments.
 - Open-core model
 - Enterprise is expensive to license - the price isn't on the website, you have to contact Sales which should give you a hint!
 
+## Coder CLI
+
+The same binary is used for server and CLI.
+
+### Install CLI
+
+To install it on Mac:
+
+```shell
+brew install coder/coder/coder
+```
+
+or more generically:
+
+```shell
+curl -L https://coder.com/install.sh | sh
+```
+
+(which on Mac just runs the above brew install)
+
+To install specific binary versions from GitHub releases, use [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+install_coder_cli.sh
+```
+
+You can specify a version number arg, otherwise it auto-determines the latest version from GitHub releases.
+
+### CLI Usage
+
+```shell
+coder login https://coder.$MYDOMAIN
+```
+
+opens your browser to `https://coder.$MYDOMAIN/cli-auth` which gives you a session token
+to paste into your terminal to authenticate.
+
+### Configure SSH
+
+Once authenticated:
+
+```shell
+coder config-ssh
+```
+
 ### Disabling SSH
 
 Enterprise edition is needed to disable SSH for data safety in an enterprise that does not want people copying data in or out of the environment.
