@@ -105,6 +105,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Digital Ocean](digital-ocean.md)
 - [PaaS](paas.md)
 - [MinIO](minio.md)
+- [HashiCorp Vault](vault.md)
 
 ### Docker
 
