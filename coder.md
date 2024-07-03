@@ -35,6 +35,16 @@ install_coder_cli.sh
 
 You can specify a version number arg, otherwise it auto-determines the latest version from GitHub releases.
 
+### Local Server
+
+To start your own local coder server for testing:
+
+```shell
+coder server
+```
+
+then browse to http://localhost:3000
+
 ### CLI Usage
 
 ```shell
@@ -69,6 +79,29 @@ via an annotation like this:
         deny all
         return 403
       }
+```
+
+This results in:
+
+```shell
+coder config-ssh
+```
+
+getting this error:
+
+```
+version mismatch: client v2.13.0+56bf386, server v2.9.0+3215464
+download the server version with: 'curl -L https://coder.com/install.sh | sh -s -- --version 2.9.0'
+Encountered an error running "coder config-ssh", see "coder config-ssh --help" for more information
+error: Trace=[fetch coderd config failed: ]
+unexpected non-JSON response "text/html"
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
 ```
 
 #### Beware Upgrade Issues
