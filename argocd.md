@@ -2,7 +2,7 @@
 
 https://argo-cd.readthedocs.io/en/stable/
 
-Declarative GitOps Continuous Delivery for Kubernetes.
+Declarative GitOps Continuous Delivery of applications on Kubernetes.
 
 - Kubernetes native - everything is defined in k8s yamls via CRDs so easy to revision control + diff + apply all configs
 - Project and Applications configurations must be installed to the `argocd` namespace for ArgoCD to pick them up
@@ -10,7 +10,6 @@ Declarative GitOps Continuous Delivery for Kubernetes.
   - if you add / change a field that is not in the Git manifests then ArgoCD won't change it as it doesn't change the entire object
 - Projects restrict Git source, destination cluster + namespace, permissions
 - Applications in project deploy k8s manifests from Git repo
-
 
 #### Components
 
