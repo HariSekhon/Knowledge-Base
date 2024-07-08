@@ -233,6 +233,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 Massively Parallel Processing databases - horizontally scaling databases:
 
+- [Vertica](vertica.md)
 - [Greenplum](greenplum.md)
 - [Impala](impala.md) TODO
 - [Presto](presto.md) TODO
