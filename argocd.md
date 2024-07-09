@@ -4,12 +4,16 @@ https://argo-cd.readthedocs.io/en/stable/
 
 Declarative GitOps Continuous Delivery of applications on Kubernetes.
 
-- Kubernetes native - everything is defined in k8s yamls via CRDs so easy to revision control + diff + apply all configs
+- Good UI
+- Kubernetes native - everything is defined in k8s yamls via CRDs so easy to
+  [GitOps ArgoCD itself](#gitops-argocd-itself)
+- Can manage multiple Kubernetes clusters (although you might want to split this for scaling)
 - Project and Applications configurations must be installed to the `argocd` namespace for ArgoCD to pick them up
 - Sync only detects / replaces parts that are different from the manifests in Git
   - if you add / change a field that is not in the Git manifests then ArgoCD won't change it as it doesn't change the entire object
 - Projects restrict Git source, destination cluster + namespace, permissions
 - Applications in project deploy k8s manifests from Git repo
+- Active community
 
 #### Components
 
@@ -50,6 +54,8 @@ such as custom ingresses and manage them all in a single ArgoCD app in a GitOps 
 [Kustomize Template](https://github.com/HariSekhon/Kubernetes-configs/blob/master/kustomization.yaml)
 
 ## GitOps ArgoCD itself
+
+Revision control and diff all ArgoCD configuration by defining it all in YAMLs using native K8s objects defined by CRDs.
 
 [ArgoCD Self-Managing App Config](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/overlay/self.yaml)
 
@@ -138,6 +144,8 @@ kubectl create secret generic github-ssh-key -n argocd --from-file=private-key=$
 ## Clusters
 
 Add clusters to deploy to.
+
+If you're only deploying to the local cluster where ArgoCD UI is running then you can just use ``
 
 Find cluster's context name from your local kubeconfig:
 
