@@ -28,12 +28,12 @@ Proprietary MPP SQL OLAP database with a free community edition.
   - create different pools with different query budgets for different query profiles
 - integrates with Apache Spark, HDFS, and Kafka for streaming data ingestion
 - Docker support:
-  - https://hub.docker.com/r/dataplatform/docker-vertica/ (old version 9.0.0 community edition)
+  - <https://hub.docker.com/r/dataplatform/docker-vertica/> (old version 9.0.0 community edition)
 - Kubernetes support: (version 10.1.1 onwards)
-  - https://github.com/vertica/vertica-kubernetes
+  - <https://github.com/vertica/vertica-kubernetes>
 - also integrates with Grafana, Helm, Go, and Distributed R
-- Python library: https://github.com/vertica/vertica-python
-- Golang library: https://github.com/vertica/vertica-sql-go
+- Python library: <https://github.com/vertica/vertica-python>
+- Golang library: <https://github.com/vertica/vertica-sql-go>
 
 ## Queries
 
