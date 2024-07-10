@@ -182,6 +182,12 @@ docker image prune
 docker rmi $(docker images -f "dangling=true" -q)
 ```
 
+Delete all local docker images to clean out your local build system:
+
+```shell
+docker images -a -q | xargs docker rmi --force
+```
+
 Find unattached volumes:
 
 ```shell
@@ -202,7 +208,7 @@ All of the above + build cache except --volumes (Docker > 17.05)
 docker system prune
 ```
 
-## Dockefile
+## Dockerfile
 
 See [Dockerfile](dockerfile.md) doc.
 
