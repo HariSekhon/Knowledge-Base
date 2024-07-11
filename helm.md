@@ -56,12 +56,14 @@ Helm repos you should probably have installed:
 | bitnami          | https://charts.bitnami.com/bitnami  |
 | fairwinds-stable | https://charts.fairwinds.com/stable |
 
-Table generated from [helm-repos.txt](https://github.com/HariSekhon/Kubernetes-configs/blob/master/helm-repos.txt)
+Table generated from [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) file
+[helm-repos.txt](https://github.com/HariSekhon/Kubernetes-configs/blob/master/helm-repos.txt)
 by script [generate_repos_markdown_table.sh](https://github.com/HariSekhon/Kubernetes-configs/blob/master/generate_repos_markdown_table.sh)
-and can be quickly installed via the script [install_repos.sh](https://github.com/HariSekhon/Kubernetes-configs/blob/master/install_repos.sh):
+and can be quickly installed via the script
+[install_repos.sh](https://github.com/HariSekhon/Kubernetes-configs/blob/master/install_repos.sh):
 
 ```shell
-./install_repos.sh
+./github/k8s/install_repos.sh
 ```
 
 or the old fashioned manual way:
