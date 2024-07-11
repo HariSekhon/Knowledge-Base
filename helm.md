@@ -50,20 +50,21 @@ Add repos from which to search and install helm chart packages.
 
 Helm repos you should probably have installed:
 
-<!--
-
-Generate table from Kubernetes repo using this command:
-
-  { echo "| Repo Label | URL |"; echo "| --- | --- |" ; dec $k8s/helm-repos.txt | gsed 's/^/| /; s/  \+/ | /; s/$/
-|/' ; } | pandoc -t gfm | pbcopy
-
--->
-
 | Repo Label       | URL                                 |
 |------------------|-------------------------------------|
 | stable           | https://charts.helm.sh/stable       |
 | bitnami          | https://charts.bitnami.com/bitnami  |
 | fairwinds-stable | https://charts.fairwinds.com/stable |
+
+Table generated from [helm-repos.txt](https://github.com/HariSekhon/Kubernetes-configs/blob/master/helm-repos.txt)
+by script [generate_repos_markdown_table.sh](https://github.com/HariSekhon/Kubernetes-configs/blob/master/generate_repos_markdown_table.sh)
+and can be quickly installed via the script [install_repos.sh](https://github.com/HariSekhon/Kubernetes-configs/blob/master/install_repos.sh):
+
+```shell
+./install_repos.sh
+```
+
+or the old fashioned manual way:
 
 ```shell
 helm repo add stable https://charts.helm.sh/stable
