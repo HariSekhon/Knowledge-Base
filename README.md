@@ -134,7 +134,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 #### Kubernetes Applications & Lifecycle Management
 
-- [Helm](helm.md) TODO
+- [Helm](helm.md)
 - [Kustomize](kustomize.md)
 - [ArgoCD](argocd.md)
 - [Cert Manager](cert-manager.md)
