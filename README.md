@@ -136,6 +136,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 - [Helm](helm.md)
 - [Kustomize](kustomize.md)
+  - [Helm vs Kustomize](helm-vs-kustomize.md)
 - [ArgoCD](argocd.md)
 - [Cert Manager](cert-manager.md)
 - [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)
