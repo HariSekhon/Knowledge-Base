@@ -189,4 +189,17 @@ Remove GitHub authentication completely
 vault auth disable github
 ```
 
+## Secret Integrations
+
+### GitHub Actions CI/CD
+
+<https://github.com/hashicorp/vault-action>
+
+### Kubernetes
+
+<https://bank-vaults.dev>
+
+<https://developer.hashicorp.com/vault/tutorials/auto-unseal/autounseal-aws-kms>
+
+
 ###### Ported from private Knowledge Base page 2018+
