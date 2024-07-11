@@ -60,7 +60,8 @@ Table generated from [HariSekhon/Kubernetes-configs](https://github.com/HariSekh
 [helm-repos.txt](https://github.com/HariSekhon/Kubernetes-configs/blob/master/helm-repos.txt)
 by script
 [generate_repos_markdown_table.sh](https://github.com/HariSekhon/Kubernetes-configs/blob/master/generate_repos_markdown_table.sh)
-and can be quickly installed via the script
+
+These repos can be quickly installed in one command using the script
 [install_repos.sh](https://github.com/HariSekhon/Kubernetes-configs/blob/master/install_repos.sh):
 
 ```shell
