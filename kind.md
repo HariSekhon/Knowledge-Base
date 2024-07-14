@@ -23,7 +23,7 @@ kind create cluster --name 'kind' --wait 5m
 
 [HariSekhon/Templates - kind.yaml](https://github.com/HariSekhon/Templates/blob/master/kind.yaml)
 
-Tip: be careful not to do this in an isolated `KUBECONFIG` where the context will then be lost (eg. the fancy [envrc](envrc.md) `.envrc-kubernetes` from my repos):
+Tip: be careful not to do this in an isolated `KUBECONFIG` where the context will then be lost (eg. the fancy [envrc](direnv.md) `.envrc-kubernetes` from my repos):
 
 ```shell
 kind create cluster --config="$templates/kind.yaml"
