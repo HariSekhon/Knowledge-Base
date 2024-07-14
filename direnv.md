@@ -1,10 +1,10 @@
-# `.envrc` / DirEnv
+# direnv - `.envrc`
 
-[DirEnv](https://direnv.net/) reads `.envrc` files and auto-loads useful environment variables upon switching directories
+[direnv](https://direnv.net/) reads `.envrc` files and auto-loads useful environment variables upon switching directories
 that allow you to quickly switch between AWS profiles, EKS clusters, Terraform & Terragrunt versions or any number of
 other software versions or profiles.
 
-## Install DirEnv
+## Install direnv
 
 On Mac just:
 
@@ -20,7 +20,7 @@ For other platforms and more install details read:
 
 ## Commands
 
-### Enable DirEnv in your shell
+### Enable direnv in your shell
 
 Add the direnv hook to your shell `$HOME/.bashrc` or similar:
 
