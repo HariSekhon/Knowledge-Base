@@ -64,17 +64,24 @@ is a convenience script to determine this straight from a GCS bucket.
 
 ## tfenv
 
-Installs multiple versions of Terraform to `~/.tfenv` in order to maintain compatability with different Terraform code
-bases.
+Install [tfenv](tfenv.md) to manage multiple versions of Terraform.
 
-See [tfenv](tfenv.md) for more details.
-
+When combined with [direnv](direnv.md) this will auto-switch to the saved version of Terraform
+recorded in `.envrc` to avoid updating the tfstate file and forcing all colleagues to upgrade their terraform
+versions or breaking CI/CD.
 
 ## Terragrunt
 
 Important for modularity and performance of Terraform code bases.
 
 See [Terragrunt](terragrunt.md) for more details.
+
+## tgswtich
+
+Install [tgswitch](tgswitch.md) to manage multiple versions of Terragrunt.
+
+When combined with [direnv](direnv.md) this will auto-switch to the saved version of Terragrunt
+recorded in `.envrc`.
 
 ## Linting & Security
 
