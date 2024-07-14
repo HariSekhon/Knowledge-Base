@@ -66,7 +66,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [Homebrew](brew.md)
 - [Shell](shell.md)
   - [Bash](bash.md)
-  - [.envrc / direnv](envrc.md)
+  - [direnv / `.envrc`](direnv.md)
 
 ### Core Services - DNS, DHCP, SSH
 
