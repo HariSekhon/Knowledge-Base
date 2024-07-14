@@ -23,7 +23,7 @@ GitHub Actions CI/CD workflows.
 
 ## Kubernetes `.envrc`
 
-See [.envrc](envrc.md)
+See [.envrc](direnv.md)
 
 ## Kubernetes Networking
 
