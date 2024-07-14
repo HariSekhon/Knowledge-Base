@@ -6,6 +6,9 @@ https://www.mkdocs.org/user-guide/writing-your-docs/
 
 Markdown is expected in top-level `docs/` dir, with `docs/index.md` being the home page.
 
+- bare URLs are links on GitHub READMEs but not in MKDocs generated pages
+  - Enclose them in `<` and `>` to make sure they become links
+
 ### Install
 
 ```shell
