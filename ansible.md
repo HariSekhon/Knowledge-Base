@@ -12,7 +12,7 @@ Example:
 
 ## Ansible Config
 
-Explicitly set in shell or in git repo's [.envrc](envrc.md) to ensure user's random environment variable
+Explicitly set in shell or in git repo's [.envrc](direnv.md) to ensure user's random environment variable
 `ANSIBLE_CONFIG` doesn't get used:
 ```shell
 export ANSIBLE_CONFIG="./ansible.cfg"
