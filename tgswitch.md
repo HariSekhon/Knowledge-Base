@@ -33,3 +33,9 @@ using environment variable (put this in [direnv](direnv.md)'s `.envrc`):
 ```shell
 export TG_VERSION=0.39.2
 ```
+
+will now automatically download and switch to the above version:
+
+```shell
+tgswitch
+```
