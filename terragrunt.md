@@ -215,6 +215,12 @@ terragrunt apply --terragrunt-log-level=debug --terragrunt-debug
 See [this doc page](https://terragrunt.gruntwork.io/docs/features/debugging/) for more details and OpenTelemetry
 integration.
 
+## tgswitch
+
+Easily switch between Terragrunt versions.
+
+See [tgswitch](tgswitch.md)
+
 ## Terragrunt Troubleshooting
 
 If you get an error like this when running Terragrunt:
