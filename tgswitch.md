@@ -3,7 +3,10 @@
 Installs multiple versions of Terragrunt to `~/.terragrunt.versions` and allows fast switching between them similar
 to what [tfenv](tfenv.md) does for Terraform.
 
+This is more recently updated than [tgenv](https://github.com/cunymatthieu/tgenv).
+
 ## Install
+
 <https://github.com/warrensbox/tgswitch?tab=readme-ov-file#installation>
 
 ```shell
