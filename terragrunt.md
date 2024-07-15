@@ -221,6 +221,8 @@ Easily switch between Terragrunt versions.
 
 See [tgswitch](tgswitch.md)
 
+More recently updated than [tgenv](https://github.com/cunymatthieu/tgenv).
+
 ## Terragrunt Troubleshooting
 
 If you get an error like this when running Terragrunt:
