@@ -69,5 +69,3 @@ cat > .terraform-version <EOF
 1.3.3
 EOF
 ```
-
-and then run `tgswitch` in that directory to detect the version and switch.
