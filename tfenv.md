@@ -1,6 +1,6 @@
 # tfenv
 
-Installs multiple versions of Terraform to `~/.tfenv` in order to maintain compatability with different Terraform code
+Installs multiple versions of Terraform to `~/.tfenv` in order to maintain compatibility with different Terraform code
 bases.
 
 Otherwise using a newer globally installed version of Terraform will upgrade the `terraform.tfstate` file and break
@@ -9,7 +9,7 @@ other clients who will be forced to upgrade to the same version in order to run 
 On Mac, install tfenv:
 
 ```shell
-brew instal tfenv
+brew install tfenv
 ```
 
 List available versions:
@@ -42,3 +42,32 @@ another version:
 ```shell
 tfenv use <version>
 ```
+
+### Environment Variables
+
+You can set the environment variables:
+
+```shell
+export TFENV_TERRAFORM_VERSION="1.3.3"
+```
+
+```shell
+export TFENV_AUTO_INSTALL=true
+```
+
+to have `tfenv` automatically download and switch to that version.
+
+Combine this with usage of [direnv](dirend.md) -
+see [HariSekhon/Terraform - .envrc](https://github.com/HariSekhon/Terraform/blob/master/.envrc).
+
+### `.terraform-version`
+
+Instead of an environment variable you can create a file `.terraform-version` containing the version:
+
+```shell
+cat > .terraform-version <EOF
+1.3.3
+EOF
+```
+
+and then run `tgswitch` in that directory to detect the version and switch.
