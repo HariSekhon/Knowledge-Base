@@ -70,6 +70,10 @@ When combined with [direnv](direnv.md) this will auto-switch to the saved versio
 recorded in `.envrc` to avoid updating the tfstate file and forcing all colleagues to upgrade their terraform
 versions or breaking CI/CD.
 
+[tfswitch](https://github.com/warrensbox/terraform-switcher) is another option by the same author as tgswitch below.
+
+[asdf](https://asdf-vm.com/) is another option - one tool for all runtime versions.
+
 ## Terragrunt
 
 Important for modularity and performance of Terraform code bases.
@@ -82,6 +86,10 @@ Install [tgswitch](tgswitch.md) to manage multiple versions of Terragrunt.
 
 When combined with [direnv](direnv.md) this will auto-switch to the saved version of Terragrunt
 recorded in `.envrc`.
+
+This is more recently updated than [tgenv](https://github.com/cunymatthieu/tgenv).
+
+[asdf](https://asdf-vm.com/) is another option - one tool for all runtime versions.
 
 ## Linting & Security
 
