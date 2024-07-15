@@ -41,3 +41,15 @@ will now automatically download and switch to the above version:
 ```shell
 tgswitch
 ```
+
+### `.terragrunt-version`
+
+Instead of an environment variable you can create a file `.terragrunt-version` containing the version:
+
+```shell
+cat > .terragrunt-version <EOF
+0.39.2
+EOF
+```
+
+and then run `tgswitch` in that directory to detect the version and switch.
