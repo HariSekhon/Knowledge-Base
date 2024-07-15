@@ -54,6 +54,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - production ready checklist and deployment configs for many Kubernetes applications
 - [SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ database scripts
 - [Templates](https://github.com/HariSekhon/Templates) - templates for many common file formats for programming languages, build systems and DevOps configs
+- [Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code.md) - Cloud & Open Source architecture diagrams
 
 ### Linux / Unix
 
