@@ -29,8 +29,17 @@ brew install webp
 Convert the image:
 
 ```shell
-dwebp "$name".webp -o "$name".png
+dwebp "$name.webp" -o "$name.png"
 ```
+
+or shorter and safer using function in [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+```shell
+webp_to_png "$name.webp"
+```
+
+This function adds safety to not overwrite the destination file if it already exists because `dwebp` will blindly
+overwrite the `-o outfile`.
 
 ## Video
 
