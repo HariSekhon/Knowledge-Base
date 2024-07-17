@@ -2,6 +2,38 @@
 
 Media file analysis, editing, transcoding and conversions.
 
+- [Image](#image)
+  - [Convert Webp to PNG format](#convert-webp-to-png-format)
+- [Video](#video)
+  - [Get the resolution and other details like codec for a video file](#get-the-resolution-and-other-details-like-codec-for-a-video-file)
+  - [Transcode mkv into standard mp4 for smart TVs to play](#transcode-mkv-into-standard-mp4-for-smart-tvs-to-play)
+  - [Video Clipping](#video-clipping)
+  - [Inspect Media File](#inspect-media-file)
+- [Audio](#audio)
+  - [MP3 metadata editing](#mp3-metadata-editing)
+- [MediaBox Setup](#mediabox-setup)
+    - [Remote control](#remote-control)
+
+## Image
+
+### Convert Webp to PNG format
+
+[medium.com](medium.md) doesn't support using newer webp format images on the site so you need to convert them first:
+
+Install dwebp, on Mac:
+
+```shell
+brew install webp
+```
+
+Convert the image:
+
+```shell
+dwebp "$name".webp -o "$name".png
+```
+
+## Video
+
 ### Get the resolution and other details like codec for a video file
 
 ```shell
@@ -73,6 +105,8 @@ mplayer -vo null -ao null -identify -frames 0 $file
 tovid id $file
 ```
 
+## Audio
+
 ### MP3 metadata editing
 
 Use the `id3v2` program to set metadata on mp3 files.
@@ -127,7 +161,7 @@ find . -maxdepth 2 -iname '*.mp3' |
 }
 ```
 
-### MediaBox Setup
+## MediaBox Setup
 
 This is old from 2010 and probably needs some updates:
 
