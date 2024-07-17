@@ -169,8 +169,9 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 - [Terraform](terraform.md)
   - [tfenv](tfenv.md)
-- [Terragrunt](terragrunt.md)
-  - [tgswitch](tgswitch.md)
+  - [Terragrunt](terragrunt.md)
+    - [tgswitch](tgswitch.md)
+  - [Atlantis](atlantis.md)
 - [Ansible](ansible.md)
 - [Puppet](puppet.md) TODO
 - [YAML](yaml.md)
