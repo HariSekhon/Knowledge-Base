@@ -13,7 +13,8 @@ Terraform pull request automation on [GitHub](github.md) using [GitHub Actions](
 - comment `atlantis apply` to respond for Atlantis to apply the changes
 - requires PR to be mergeable before it will honor `atlantis apply` comments
   - so your other PR checks must pass first
-- [Terragrunt](terragrunt.) becomes more useful to modularize and only
+- [Terragrunt](terragrunt.md) becomes more useful in this context to modularize code base to reduce blast radius of
+  changes and have Atlantis do shorter plan and apply runs
 
 ```shell
 atlantis plan # -d path/to/terragrunt/module/directory
