@@ -201,5 +201,31 @@ vault auth disable github
 
 <https://developer.hashicorp.com/vault/tutorials/auto-unseal/autounseal-aws-kms>
 
+Create an ACL policy in Vault at `$VAULT_URL/ui/vault/policies/acl` with the following contents (HCL format):
+
+```hcl
+path "<engine_name>/data/<folders>/<secret>" {
+  capabilities = ["read", "list"]
+}
+```
+
+(the `/data/` part of the path is important and part of the API call, you cannot omit it otherwise you will get API
+errors like forbidden or not found)
+
+Then reference it in the Kubernetes [deployment.yaml]() with the following annotations:
+
+```yaml
+spec:
+  template:
+    metadata:
+      annotations:
+        vault.security.banzaicloud.io/vault-addr: <VAULT_HTTPS_URL>
+        vault.security.banzaicloud.io/vault-path: ...
+        vault.security.banzaicloud.io/vault-role: <role_you_created>
+        #vault.security.banzaicloud.io/vault-skip-verify: "true"  # try not to do this
+```
+
+or rather [Helm](helm.md) templated out via `values-<env>.yaml`because this is likely to be different per environment
+(since this with the
 
 ###### Ported from private Knowledge Base page 2018+
