@@ -12,7 +12,7 @@ Media file analysis, editing, transcoding and conversions.
 - [Audio](#audio)
   - [MP3 metadata editing](#mp3-metadata-editing)
 - [MediaBox Setup](#mediabox-setup)
-    - [Remote control](#remote-control)
+  - [Remote control](#remote-control)
 
 ## Image
 
@@ -194,7 +194,7 @@ aptitude -y install libdvdread4
 /usr/share/doc/libdvdread4/install-css.sh
 ```
 
-#### Remote control
+### Remote control
 
 as root:
 
