@@ -57,7 +57,7 @@ export TFENV_AUTO_INSTALL=true
 
 to have `tfenv` automatically download and switch to that version.
 
-Combine this with usage of [direnv](dirend.md) -
+Combine this with usage of [direnv](direnv.md) -
 see [HariSekhon/Terraform - .envrc](https://github.com/HariSekhon/Terraform/blob/master/.envrc).
 
 ### `.terraform-version`
