@@ -225,7 +225,6 @@ spec:
         #vault.security.banzaicloud.io/vault-skip-verify: "true"  # try not to do this
 ```
 
-or rather [Helm](helm.md) templated out via `values-<env>.yaml`because this is likely to be different per environment
-(since this with the
+or rather [Helm](helm.md) templated out via `values-<env>.yaml`because this is likely to be different per environment.
 
 ###### Ported from private Knowledge Base page 2018+
