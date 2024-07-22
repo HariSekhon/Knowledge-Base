@@ -19,7 +19,7 @@ of the software to pick it up and use it.
 
 Or
 
-Quickly download and extract the jdbc jar using this script in [DevOps-Bash-tools](devops-bash-toos.md):
+Quickly download and extract the jdbc jar using this script in [DevOps-Bash-tools](devops-bash-tools.md):
 
 ```shell
 download_mysql_jdbc_jar.sh
@@ -35,7 +35,7 @@ Or
 
 Or
 
-Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](devops-bash-toos.md):
+Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](devops-bash-tools.md):
 
 ```shell
 download_postgresql_jdbc_jar.sh
