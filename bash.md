@@ -108,6 +108,7 @@ Some less well known commands to remember:
 | `pandoc`                                | Universal document converter<br/>(eg. [generate_repos_markdown_table.sh](https://github.com/HariSekhon/Kubernetes-configs/blob/master/generate_repos_markdown_table.sh))                                   |
 | `iconv`                                 | Convert between character encodings                                                                                                                                                                        |
 | `hexyl`                                 | Hex terminal viewer <https://github.com/sharkdp/hexyl>                                                                                                                                                     |
+| `file`                                  | Determines file type                                                                                                                                                                                       |
 
 Environment variables to keep in mind:
 
