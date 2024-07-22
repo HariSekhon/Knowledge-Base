@@ -159,6 +159,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [R](r.md) TODO
 - JVM:
   - [Java](java.md) TODO
+  - [JDBC](jdbc.md)
   - [JVM Performance Tuning](java-jvm-performance-tuning.md)
   - [Groovy](groovy.md)
   - [Scala](scala.md) TODO
