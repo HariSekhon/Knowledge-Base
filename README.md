@@ -303,6 +303,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
   - [HDFS](hdfs.md) TODO
 - [Pig](pig.md) TODO
 - [Hive](hive.md) TODO
+  - [Sqoop](sqoop.md)
 - [Impala](impala.md) TODO
 - [Presto](presto.md) TODO
 - [Apache Drill](drill.md) TODO
