@@ -125,3 +125,38 @@ In the left panel under
 [Connections](https://na2.dm-us.informaticacloud.com/cloudUI/products/administer/main/ConnectionListWS),
 there are a bunch of credentials and URLs to connect to sources like S3, [JDBC](jdbc.md) and destinations like Azure
 Synapse.
+
+#### JDBC connector
+
+[JDBC connector install doc](https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/jdbc-v2-connector/connections-for-jdbc-v2/prerequisites/install-the-type-4-jdbc-driver.html)
+
+Download the MySQL or PostgreSQL jdbc jar and then copy it to the following locations:
+
+```
+/home/ec2-user/infaagent/ext/connectors/thirdparty/informatica.jdbc_v2/common/
+```
+
+```
+/home/ec2-user/infaagent/ext/connectors/thirdparty/informatica.jdbc_v2/spark/
+```
+
+eg.
+
+```shell
+for x in common spark; do
+  cp -iv "$(ls mysql-connector-j-*.jar | tail -n 1)" \
+         "/home/ec2-user/infaagent/ext/connectors/thirdparty/informatica.jdbc_v2/$x/"
+done
+```
+
+and restart the agent:
+
+```shell
+cd /home/ec2-user/infaagent/apps/agentcore &&
+./infaagent shutdown &&
+./infaagent startup
+```
+
+Then proceed to configure the JDBC connection following this doc:
+
+[HOW TO: Create a JDBC connection in Cloud Application Integration](https://knowledge.informatica.com/s/article/589377?language=en_US)
