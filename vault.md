@@ -220,7 +220,7 @@ spec:
     metadata:
       annotations:
         vault.security.banzaicloud.io/vault-addr: <VAULT_HTTPS_URL>
-        vault.security.banzaicloud.io/vault-path: ...
+        vault.security.banzaicloud.io/vault-path: </path/to/secret>
         vault.security.banzaicloud.io/vault-role: <role_you_created>
         #vault.security.banzaicloud.io/vault-skip-verify: "true"  # try not to do this
 ```
