@@ -292,6 +292,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 - [Data](data.md)
 - [Big Data](big-data.md)
 - [Data Warehousing](data-warehousing.md) TODO
+- [Informatica](informatica.md)
 
 ### Hadoop Ecosystem
 
