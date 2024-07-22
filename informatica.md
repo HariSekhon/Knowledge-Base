@@ -86,14 +86,37 @@ On the EC2 agent, the path for the scripts to start and stop components and logs
 
 #### Agent Startup / Shutdown
 
-In `/home/ec2-user/infaagent/apps/agentcore`:
-
+```shell
+cd /home/ec2-user/infaagent/apps/agentcore
 ```
+
+```shell
+./infaagent startup
+```
+
+There is no feedback from this command and it takes several minutes to start up. Be patient.
+
+Some minimal output is here:
+
+```shell
+tail -f infaagent.log
+```
+
+But you will mainly need to refresh the agent status page in the Informatica UI under Administration left pane section
+`Runtime Environments` and then click on the name of the agent to see which components are green.
+
+Shutdown also takes a very long time too in case you need to restart services cleanly:
+
+```shell
 ./infaagent shutdown
 ```
 
-```
-./infaagent startup
+The `infaagent` binary is very crude and does not respond to `--help` or `status` args.
+
+See the agent startup/shutdown log here:
+
+```shell
+less /home/ec2-user/infaagent/apps/agentcore/infaagent.log
 ```
 
 ### Connections - Sources and Destinations Integrations
