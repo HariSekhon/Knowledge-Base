@@ -29,6 +29,14 @@ Using built-in local authentication,
 users must be added to the
 [Users](https://na2.dm-us.informaticacloud.com/cloudUI/products/administer/main/users) section on the left-panel.
 
+### Billing
+
+Billing info can be found under
+[Metering](https://usw3.dm-us.informaticacloud.com/cloudUI/products/administer/main/metering/ipu) in the left panel
+of the UI.
+
+Data integration billing is currently 0.025 / Hour(s) while Advanced Data Integration is 0.19 / Hour(s).
+
 ### Agents
 
 Informatica agents can be installed on Linux eg. using straight EC2 agents running on RHEL 9 using AMIs which include
