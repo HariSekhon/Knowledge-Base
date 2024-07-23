@@ -10,6 +10,14 @@ In the Informatica UI at the top right you can see have different organizations.
 
 Underneath the parent organization will be sub-organizations created for each team or department.
 
+You can also verify which environment you are logged in to by going to Organizations section at the top of the
+left-panel menu where you can see the Organization Overview details which has a section called `Environment Type`
+which will contain a drop down of one of the following: Sandbox, Development, QA, Production.
+
+Notice there is also an option on that page to store credentials on Informatica Cloud or Local Secure Agent.
+
+Other interesting details include timezone, notification emails for success/failure/warnings, local password policies.
+
 ### Informatica Login & Environments
 
 The Informatica Cloud URL is here:
