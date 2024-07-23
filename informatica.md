@@ -45,6 +45,25 @@ of the UI.
 
 Data integration billing is currently 0.025 / Hour(s) while Advanced Data Integration is 0.19 / Hour(s).
 
+### Runtime Environments - Serverless vs Local
+
+It's possible to create a serverless environment or your own local runtime environment.
+
+In the left panel menu these are configured in either
+[Serverless Environments](https://usw3.dm-us.informaticacloud.com/cloudUI/products/administer/main/environments),
+or
+[Runtime Environments](https://usw3.dm-us.informaticacloud.com/cloudUI/products/administer/main/runtimeEnvironments)
+for local agents or
+[Advanced Clusters](https://usw3.dm-us.informaticacloud.com/cloudUI/products/administer/main/advancedCluster)
+for kubernetes.
+
+Local Runtime Environment Agents and Kubernetes have the following advantages over serverless environment:
+
+1. It can be cheaper, depending on your usage pattern
+2. You retain more control of data not leaving your infrastructure for governance purposes
+3. Kubernetes has the additional advantage of being able to burst up and down to avoid incurring constant charges of
+   cloud VMs for local runtime environments.
+
 ### Agents
 
 Informatica agents can be installed on Linux eg. using straight EC2 agents running on RHEL 9 using AMIs which include
@@ -134,6 +153,14 @@ See the agent startup/shutdown log here:
 ```shell
 less /home/ec2-user/infaagent/apps/agentcore/infaagent.log
 ```
+
+### Kubernetes Informatica Configuration
+
+Informatica configuration for Kubernetes is found under
+[Advanced Clusters](https://usw3.dm-us.informaticacloud.com/cloudUI/products/administer/main/advancedCluster)
+in the left pane, where the Kubernetes context and kubeconfig is configured (eg. `/home/ec2-user/.kube/config` and
+`arn:aws:eks:eu-west-1:123456789012:cluster/my-cluster`), kubernetes version, namespace, node-selector labels, min
+and max number of worker nodes etc.
 
 ### Connections - Sources and Destinations Integrations
 
