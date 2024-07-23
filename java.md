@@ -2,6 +2,22 @@
 
 NOT PORTED YET.
 
+### Show Java Classpath
+
+Since the `java -cp` / `java -classpath` is one huge string of colon separated paths, it's nicer to show them one
+per line using the scripts in [DevOps-Bash-tools](devops-bash-tools.md) or [DevOps-Perl-tools](devops-perl-tools.md)
+repos:
+
+```shell
+java_show_classpath.sh
+```
+
+```shell
+java_show_classpath.pl
+```
+
+### Inspect JAR contents
+
 Java jar files are just tars of the byte-compiled Java classes.
 
 You can inspect them using the good old unix tar command, eg.:
