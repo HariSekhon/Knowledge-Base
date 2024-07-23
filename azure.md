@@ -54,7 +54,8 @@ Then see [Kubernetes](kubernetes.md) for configs, scripts and `.envrc`.
 
 Use ZRS (zone-redundant storage) rather than LRS (locally-redundant storage),
 price is ~50% more but still fairly trivial in overall cost compared to the compute its attached to
-eg. spending £20 a month on storage for a $450 a month VM.
+eg.
+spending only $15 a month on a 100GB storage disk SSD for a $450 a month VM with 8vCPUs and 64GB RAM.
 
 <https://learn.microsoft.com/en-gb/azure/storage/common/storage-redundancy>
 
