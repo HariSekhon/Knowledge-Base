@@ -173,7 +173,8 @@ Synapse.
 
 [JDBC connector install doc](https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/jdbc-v2-connector/connections-for-jdbc-v2/prerequisites/install-the-type-4-jdbc-driver.html)
 
-Download the MySQL or PostgreSQL jdbc jar and then copy it to the following locations:
+Download the MySQL or PostgreSQL jdbc jar version matching your DB (eg. AWS RDS configuration tab `Engine version`
+field) and then copy it to the following locations:
 
 ```
 /home/ec2-user/infaagent/ext/connectors/thirdparty/informatica.jdbc_v2/common/
@@ -203,3 +204,20 @@ cd /home/ec2-user/infaagent/apps/agentcore &&
 Then proceed to configure the JDBC connection following this doc:
 
 [HOW TO: Create a JDBC connection in Cloud Application Integration](https://knowledge.informatica.com/s/article/589377?language=en_US)
+
+#### JDBC Connectivity Fixes
+
+Use the same [JDBC](jdbc.md) jar version as the database, eg. check the RDS configuration tab `Engine version` field.
+
+Informatica driver class in the doc above may be wrong. Inspect the jar as per the [JDBC](jdbc.md) docs to infer
+what the correct class should be, in the case of MySQL 8.0 it was:
+
+```
+com.mysql.jdbc.Driver
+```
+
+not what the Informatica doc said:
+
+```
+jdbc.mysql.MySQLDriver
+```
