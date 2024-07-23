@@ -16,6 +16,24 @@ java_show_classpath.sh
 java_show_classpath.pl
 ```
 
+Crude shell pipeline to do similar:
+
+```shell
+ps -ef |
+grep java |
+tee /dev/stderr |
+awk '{print $2}' |
+xargs -L1 jinfo |
+grep java.class.path  |
+tr ':' '\n'
+```
+
+although if it's just `jinfo` you're missing in the `$PATH` it would be better to just:
+
+```shell
+PATH="$PATH:/path/to/bin/containing/jinfo" java_show_classpath.sh
+```
+
 ### Inspect JAR contents
 
 Java jar files are just tars of the byte-compiled Java classes.
