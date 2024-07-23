@@ -50,4 +50,12 @@ kubectl get pods --all-namespaces
 
 Then see [Kubernetes](kubernetes.md) for configs, scripts and `.envrc`.
 
+## VMs
+
+Use ZRS (zone-redundant storage) rather than LRS (locally-redundant storage),
+price is ~50% more but still fairly trivial in overall cost compared to the compute its attached to
+eg. spending £20 a month on storage for a $450 a month VM.
+
+<https://learn.microsoft.com/en-gb/azure/storage/common/storage-redundancy>
+
 ###### Partial port from private Knowledge Base page 2017+
