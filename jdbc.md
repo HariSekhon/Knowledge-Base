@@ -25,6 +25,8 @@ Quickly download and extract the jdbc jar using this script in [DevOps-Bash-tool
 download_mysql_jdbc_jar.sh
 ```
 
+See also [MySQL](mysql.md) notes.
+
 ### PostgreSQL
 
 <https://jdbc.postgresql.org/download/>
@@ -40,3 +42,11 @@ Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](de
 ```shell
 download_postgresql_jdbc_jar.sh
 ```
+
+See also [PostgreSQL](postgres.md) notes.
+
+### AWS Aurora JDBC
+
+This JDBC wrapper works with MySQL and PostgreSQL JDBC drivers to support clustering
+
+<https://github.com/aws/aws-advanced-jdbc-wrapper>
