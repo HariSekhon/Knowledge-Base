@@ -38,3 +38,16 @@ export no_proxy="domain1.com,host.domain2.com"
 export HTTPS_PROXY="$https_proxy"
 export NO_PROXY="$no_proxy"
 ```
+
+### Compile Apache HTTPd with Proxying
+
+```shell
+wget http://www.mirrorservice.org/sites/ftp.apache.org/httpd/httpd-2.2.14.tar.gz &&
+wget http://www.apache.org/dist/httpd/httpd-2.2.14.tar.gz.md5 &&
+md5sum -c httpd-2.2.14.tar.gz.md5 &&
+tar zxvf httpd-2.2.14.tar.gz &&
+cd httpd-2.2.14 &&
+./configure --enable-proxy --enable-proxy-http --with-mpm=worker --prefix=/usr/local/apache-proxy &&
+make &&
+make install
+```
