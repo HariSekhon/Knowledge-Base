@@ -381,6 +381,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 - [DevOps Misc](devops.md) TODO
 - [Dev Misc](dev.md) TODO
 - [Open Source](open-source.md)
+- [Hashicorp](hashicorp.md)
 - [Multimedia](multimedia.md)
 - [Windows](windows.md)
 - [IRC](irc.md)
