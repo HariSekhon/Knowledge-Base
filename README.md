@@ -383,6 +383,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 - [Open Source](open-source.md)
 - [Multimedia](multimedia.md)
 - [Windows](windows.md)
+- [IRC](irc.md)
 - [AI](ai.md)
 - [Automation](automation.md)
 
