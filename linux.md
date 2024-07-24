@@ -29,11 +29,28 @@ Opens the crontab in `$EDITOR` (default `vi` if `$EDITOR` environment variable i
 crontab -e
 ```
 
+### Timezone
+
+This affects the cron scheduling above and recorded dates of jobs eg. data loading and recording.
+
+For modern Linux systems with systemd:
+
+```shell
+timedatectl list-timezones
+```
+
+Servers should usually be set to UTC for consistent easy comparison across international systems unless this affects
+data loading dates from cron above.
+
+```shell
+timedatectl set-timezone UTC
+```
+
 ### Networking
 
 See [Networking](networking.md) doc.
 
-### IPTables
+### IPtables
 
 Top for iptables, awesome!
 
