@@ -275,4 +275,4 @@ Used by BlackRock (talk 24/9/2015)
 
 Mesos + Kubernetes on Mesos works but partial features
 
-###### Ported from private Knowledge Base pages 2015+
+###### Ported from private Knowledge Base page 2015+
