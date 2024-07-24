@@ -5,6 +5,16 @@
 - protocol checks
 - metrics & thresholds - deviations from normal
 
+## Cloud Monitoring Services
+
+- Datadog
+- Pingdom
+
+## APM - Application Performance Monitoring
+
+- AppDynamics
+- New Relic
+
 ## Nagios
 
 See [nagios.md](nagios.md)
