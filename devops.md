@@ -6,10 +6,6 @@
 - CloudTest
 - LoadStorm
 - KeyNote
-- [Hygieia](https://github.com/hygieia/hygieia)
-  - DevOps dashboard showing entire pipeline of Git/Svn, CI (Jenkins), Build Quality (SonarQube), Deploy etc
-  - built on MongoDB
-  - collectors from various tools
 
 - [JFrog Artifactory](artifactory.md) - repository mirror -  Maven, PyPI, NPM, Docker etc...
 
