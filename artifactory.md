@@ -4,6 +4,11 @@ https://jfrog.com/artifactory/
 
 Repository Manager by JFrog
 
+Scan Artifactory repo mirrors:
+
+- MaxDefender ICAP
+- JFrog X-Ray
+
 ## Artifactory on Kubernetes
 
 [HariSekhon/Kubernetes - artifactory](https://github.com/HariSekhon/Kubernetes-configs/tree/master/artifactory)
