@@ -378,7 +378,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 
 ### Misc
 
-- [DevOps Misc](devops.md) TODO
+- [DevOps Misc](devops.md)
 - [Dev Misc](dev.md) TODO
 - [Open Source](open-source.md)
 - [Hashicorp](hashicorp.md)
