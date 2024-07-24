@@ -25,7 +25,7 @@
 
 Work in progress to gradually migrate my huge private personal knowledge base into this public repo.
 
-Star and watch for updates.
+Hit the watch button on the top right for updates.
 
 This repo focuses on advanced knowledge, tips & tricks, performance tuning, troubleshooting, debugging, workarounds &
 fixes.
