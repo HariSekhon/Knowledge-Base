@@ -95,7 +95,8 @@ Then just add the agent token from the Informatica UI.
 
 [VM minimum specs](https://docs.informatica.com/integration-cloud/data-ingestion-and-replication/current-version/database-ingestion-and-replication/database-ingestion-and-replication/database-ingestion-and-replication-system-requirements.html)
 
-[Informatica Pod Availability & Networking](https://docs.informatica.com/cloud-common-services/pod-availability-and-networking/current-version.html)
+[Informatica Pod Availability & Networking](https://docs.informatica.com/cloud-common-services/pod-availability-and-networking/current-version.html) - click on the heading regions to get the list of IP addresses that
+need to be allowed for Informatica Cloud to be able to communicate with the secure agents.
 
 #### Agent Details
 
