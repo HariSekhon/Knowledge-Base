@@ -211,16 +211,33 @@ Then proceed to configure the JDBC connection following this doc:
 
 #### JDBC Connectivity Fixes
 
+The connection string will need the following appended to it in most cases where SSL is not used, such as a vanilla
+RDS instance:
+
+```
+?useSSL=false
+```
+
+eg.
+
+```
+jdbc:mysql://x.x.x.x:3306/my-db?useSSL=false
+```
+
+The `useSSL=false` setting was crucial for the connection to succeed on plain RDS and fails without it. Informatica
+documentation was
+missing this.
+
 Use the same [JDBC](jdbc.md) jar version as the database, eg. check the RDS configuration tab `Engine version` field.
 
-Informatica driver class in the doc above may be wrong. Inspect the jar as per the [JDBC](jdbc.md) docs to infer
-what the correct class should be, in the case of MySQL 8.0 it was:
+Informatica documentation was also wrong about the driver class.
+Inspecting the `mysql-connector-j-8.0.33.jar` as per the [JDBC](jdbc.md) doc showed the correct class should be:
 
 ```
 com.mysql.jdbc.Driver
 ```
 
-not what the Informatica doc said:
+NOT what the Informatica doc said:
 
 ```
 jdbc.mysql.MySQLDriver
