@@ -25,6 +25,14 @@ Quickly download and extract the jdbc jar using this script in [DevOps-Bash-tool
 download_mysql_jdbc_jar.sh
 ```
 
+The connection string should look like this:
+
+```
+jdbc:mysql://x.x.x.x:3306/my-db?useSSL=false
+```
+
+The `useSSL=false` setting was crucial for the connection to succeed on plain RDS and fails without it.
+
 See also [MySQL](mysql.md) notes.
 
 ### PostgreSQL
