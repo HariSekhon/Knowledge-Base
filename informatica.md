@@ -225,8 +225,7 @@ jdbc:mysql://x.x.x.x:3306/my-db?useSSL=false
 ```
 
 The `useSSL=false` setting was crucial for the connection to succeed on plain RDS and fails without it. Informatica
-documentation was
-missing this.
+documentation was missing this.
 
 Use the same [JDBC](jdbc.md) jar version as the database, eg. check the RDS configuration tab `Engine version` field.
 
