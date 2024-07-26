@@ -31,7 +31,8 @@ The connection string should look like this:
 jdbc:mysql://x.x.x.x:3306/my-db?useSSL=false
 ```
 
-The `useSSL=false` setting was crucial for the connection to succeed on plain RDS and fails without it.
+The `useSSL=false` setting is often needed for the connection to succeed as most databases haven't SSL configured on
+their ports.
 
 See also [MySQL](mysql.md) notes.
 
