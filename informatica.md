@@ -173,7 +173,7 @@ In the left panel under
 there are a bunch of credentials and URLs to connect to sources like S3, [JDBC](jdbc.md) and destinations like Azure
 Synapse.
 
-#### JDBC connector
+#### JDBC Connector Install
 
 [JDBC connector install doc](https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/jdbc-v2-connector/connections-for-jdbc-v2/prerequisites/install-the-type-4-jdbc-driver.html)
 
@@ -205,11 +205,21 @@ cd /home/ec2-user/infaagent/apps/agentcore &&
 ./infaagent startup
 ```
 
-Then proceed to configure the JDBC connection following this doc:
+#### Enable the JDBC Connector on the Secure Agent Group
+
+You will need to enable the connector on the agent group under `Runtime Environments` for the agent to be visible in
+the drop-down list when creating the connector configuration below.
+
+See this
+[KB article](https://knowledge.informatica.com/s/article/FAQ-Unable-to-see-all-connectors-and-services-on-agent-installed-after-MAY-21-monthly-release-in-IICS?language=en_US).
+
+#### JDBC Connector Configuration
+
+Follow this doc:
 
 [HOW TO: Create a JDBC connection in Cloud Application Integration](https://knowledge.informatica.com/s/article/589377?language=en_US)
 
-#### JDBC Connectivity Fixes
+#### JDBC Configuration Fixes
 
 The connection string will need the following appended to it in most cases where SSL is not used, such as a vanilla
 RDS instance:
