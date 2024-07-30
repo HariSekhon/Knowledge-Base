@@ -109,6 +109,7 @@ Some less well known commands to remember:
 | `iconv`                                 | Convert between character encodings                                                                                                                                                                        |
 | `hexyl`                                 | Hex terminal viewer <https://github.com/sharkdp/hexyl>                                                                                                                                                     |
 | `file`                                  | Determines file type                                                                                                                                                                                       |
+| `pig`                                   | Parallelized alternative to `gzip`. Call in tar using the `-I` option: `tar czvf -I 'pigz -9' myfile.tar.gz *`                                                                                        |
 
 Environment variables to keep in mind:
 
