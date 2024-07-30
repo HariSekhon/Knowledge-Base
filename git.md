@@ -663,10 +663,22 @@ rm -fr ".git/modules/$name"
 git submodule update --init --recursive
 ```
 
+### Get the Default Branch
+
+```shell
+git config --get init.defaultBranch
+```
+
 ### Get Current Branch
 
 ```shell
 git rev-parse --abbrev-ref HEAD
+```
+
+In newer versions of Git version 2.22 (Q2 2019+):
+
+```shell
+git branch --show-current
 ```
 
 ### Push New Branch and Set Upstream in One Command
