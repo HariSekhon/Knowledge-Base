@@ -8,6 +8,16 @@ There are GUI architecture tools, but they tend to be more difficult to reproduc
 
 The cutting edge is Diagrams-as-Code.
 
+- [Real World Architecture Diagrams](#real-world-architecture-diagrams)
+- [Templates](#templates)
+- [Diagrams-as-Code Languages](#diagrams-as-code-languages)
+- [GUI / Online Diagrams tools](#gui--online-diagrams-tools)
+- [Important Icon Sets](#important-icon-sets)
+- [Interactive Playground Editors](#interactive-playground-editors)
+- [GraphViz](#graphviz)
+- [Diagram Design](#diagram-design)
+  - [Complexity](#complexity)
+
 ## Real World Architecture Diagrams
 
 [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - ready made architecture diagrams
@@ -81,9 +91,11 @@ For more control and complex architecture diagrams.
 - [Cloudairy](https://chart.cloudairy.com/cloudchart) - new, buggy UI when I tried it
 - [Swimm](https://docs.swimm.io/) - AI to generate diagrams from code and documentation sources
 
-## Important Icon Sets to import into D2
+## Important Icon Sets
 
-Python Diagrams has the best library, some highlights are below but check their adjacent categories too:
+Especially to import into D2, but also to supplement other languages and libraries as necessary.
+
+Python Diagrams has the best in-built library, some highlights are below, but check their adjacent categories too:
 
 - [D2 Icons](https://icons.terrastruct.com/)
 
