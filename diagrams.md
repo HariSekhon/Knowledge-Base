@@ -124,7 +124,7 @@ Python Diagrams has the best library, some highlights are below but check their 
 
 - [Icons8](https://icons8.com/)
 
-### Interactive Playground Editors
+## Interactive Playground Editors
 
 - [D2 lang](https://play.d2lang.com/)
 - [MermaidJS](https://mermaid.live/)
@@ -165,5 +165,39 @@ else
   sxiv file.png  # Linux
 fi
 ```
+
+## Diagram Design
+
+### Complexity
+
+Diagrams-as-Code languages currently have no placement control placement layout control (D2 issue [#1285](https://github.com/terrastruct/d2/issues/1285),
+Python Diagrams issues
+[#44](https://github.com/mingrammer/diagrams/issues/44) and [#819](https://github.com/mingrammer/diagrams/issues/891)).
+
+This limits the complexity of diagrams that can be generated from these code languages and libraries because they can
+very quickly get out of control and ugly as a result, costing you lots of time trying to get generate sane looking
+diagrams.
+
+For complex diagrams you really need to switch to GUI tools for better control.
+
+However, that being said, one diagram can only become so complicated before it becomes difficult for humans to easily
+interpret due to too much detail.
+
+For this reason, I recommend favouring an approach of doing multiple levels of simpler diagrams:
+
+- an architecture overview diagram
+- sub-diagrams that drill down into the implementation details of the different components eg. how it runs on Kubernetes
+  or with high availability
+
+The diagrams can be more easily read one after another.
+
+You see examples of diagrams at different levels of drill-down from architecture to Kubernetes components in the
+[HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code/Diagrams-as-Code) repo.
+
+Some components like [Grafana](grafana.md) and [Vault](vault.md) are very relevant in architecture diagrams
+and should be present but can be represented by a since simple icon,
+with their implementation shoing how they're running on Kubernetes
+or achieving high availability being left to separate diagrams for each one.
+
 
 ###### Ported from various private Knowledge Base pages 2020+
