@@ -182,20 +182,21 @@ fi
 
 ### Complexity
 
-Diagrams-as-Code languages currently have no placement control placement layout control (D2 issue [#1285](https://github.com/terrastruct/d2/issues/1285),
+[Diagrams-as-Code](#diagrams-as-code-languages) languages currently have no placement control placement layout control
+(D2 issue [#1285](https://github.com/terrastruct/d2/issues/1285),
 Python Diagrams issues
-[#44](https://github.com/mingrammer/diagrams/issues/44) and [#819](https://github.com/mingrammer/diagrams/issues/891)).
+[#44](https://github.com/mingrammer/diagrams/issues/44)
+and [#819](https://github.com/mingrammer/diagrams/issues/891)).
 
-This limits the complexity of diagrams that can be generated from these code languages and libraries because they can
-very quickly get out of control and ugly as a result, costing you lots of time trying to get generate sane looking
-diagrams.
+This limits the complexity of diagrams that can be generated from code because they can very quickly get out of
+control and ugly as a result, costing you lots of time trying to get them to generate sane looking diagrams.
 
-For complex diagrams you really need to switch to GUI tools for better control.
+For complex diagrams you really need to switch to [GUI tools](#gui--online-diagrams-tools) for better control.
 
 However, that being said, one diagram can only become so complicated before it becomes difficult for humans to easily
 interpret due to too much detail.
 
-For this reason, I recommend favouring an approach of doing multiple levels of simpler diagrams:
+For this reason, I recommend favouring an approach of multiple levels of simpler diagrams:
 
 - an architecture overview diagram
 - sub-diagrams that drill down into the implementation details of the different components eg. how it runs on Kubernetes
@@ -208,7 +209,7 @@ You see examples of diagrams at different levels of drill-down from architecture
 
 Some components like [Grafana](grafana.md) and [Vault](vault.md) are very relevant in architecture diagrams
 and should be present but can be represented by a since simple icon,
-with their implementation shoing how they're running on Kubernetes
+with their implementation showing how they're running on Kubernetes
 or achieving high availability being left to separate diagrams for each one.
 
 
