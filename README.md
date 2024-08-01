@@ -408,6 +408,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Hashicorp](hashicorp.md)
 - [Confluent](confluent.md)
 - [Multimedia](multimedia.md)
+- [Marketing](marketing.md)
 - [Windows](windows.md)
 - [IRC](irc.md)
 - [AI](ai.md)
