@@ -415,8 +415,7 @@ Then remove any empty directories under `/tmp` such as `/tmp/InfaS3Staging*` to 
 rmdir /tmp/* 2>/dev/null
 ```
 
-(add these two commands above to crontab without the `-v` switch to `rm` to avoid
-local mailbox notifications):
+(add these two commands above to crontab without the `-v` switch to `rm` to avoid local mailbox notifications):
 
 ```
 0 * * * * bash -c "find /tmp -type f -name 'insert*' -ctime +1 -o -type f -name 'upsert*' -ctime +1 -o -type f -path '/tmp/InfaS3Staging*' -ctime +1 2>/dev/null | xargs --no-run-if-empty rm -f; rmdir /tmp/* 2>/dev/null"
