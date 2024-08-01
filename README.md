@@ -202,10 +202,9 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - GitHub [GHCR](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry)
 - Redhat [Quay.io](https://quay.io/) (there is an on-prem installable too)
 - JFrog [Container Registry](https://jfrog.com/container-registry/)
+- [Nexus](https://www.sonatype.com/nexus/repository-manager)
 - [Harbor](https://goharbor.io/)
 - [Chart Museum](https://chartmuseum.com/docs/#)
-
-Plus the artifact registries below:
 
 ### Artifact Registries
 
