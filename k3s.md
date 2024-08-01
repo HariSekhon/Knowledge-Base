@@ -1,6 +1,6 @@
 # K3s
 
-https://k3s.io/
+<https://k3s.io/>
 
 - lightweight k8s compatible implementation
 - single 70MB binary kubernetes distro
