@@ -53,6 +53,15 @@ or a custom username string).
 
 Informatica supports SAML SSO and local authentication for users.
 
+Landing URLs after login will look something like this depending on which region your IICS is running in:
+
+<https://usw3.dm-us.informaticacloud/cloudshell/showProducts>
+
+<https://na2.dm-us.informaticacloud/cloudshell/showProducts>
+
+More of the administration you will be doing will be under the `Administration` app from the landing
+selection of `My Services`.
+
 ### Local Authentication
 
 Using built-in local authentication,
