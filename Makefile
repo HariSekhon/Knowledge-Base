@@ -25,6 +25,7 @@ MAKEFLAGS = -j1
 .PHONY: *
 
 default: build push
+	@:
 
 build: init
 	@echo ================
