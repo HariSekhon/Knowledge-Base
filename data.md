@@ -16,7 +16,8 @@ Then proceed to more advanced content validation.
 ## Data Integration
 
 - [Informatica](informatica.md) - proprietary legacy now available via SaaS, with self-hosted agents on VMs or Kubernetes
-- [Airbyte](https://github.com/airbytehq/airbyte) - open-source self-hosted or SaaS proprietary with 300+ connectors
+- [Airbyte](https://airbyte.com/product/airbyte-open-source) - [open source](https://github.com/airbytehq/airbyte)
+  self-hosted or SaaS proprietary with 300+ connectors
 - [Apache Camel](camel.md) - open source with 100+ connectors
 - Spring Integration - XML config, only use for Spring heavy shops
 - Mulesoft - XML config, only use for proprietary connectors
