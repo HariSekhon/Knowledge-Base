@@ -19,7 +19,13 @@ REPO := HariSekhon/Knowledge-Base
 
 CODE_FILES := $(shell git ls-files | grep -E -e '\.md$$' | sort)
 
-.PHONY: build
+# serialize
+MAKEFLAGS = -j1
+
+.PHONY: *
+
+default: build push
+
 build: init
 	@echo ================
 	@echo Knowledge Builds
@@ -32,46 +38,38 @@ build: init
 	@$(MAKE) references
 	@echo "All Checks Passed"
 
-.PHONY: push
 push: build
 	git push
 
-.PHONY: mdl
 mdl:
 	@echo "Checking Markdown for issues"
 	@echo
 	@mdl *.md
 
-.PHONY: index
 index:
 	@echo "Checking all *.md files are in the README.md index"
 	@echo
 	.github/scripts/check_index.sh
 	@echo
 
-.PHONY: references
 references:
 	@echo "Checking all *.md files references exist"
 	@echo
 	.github/scripts/check_markdown_references.sh
 	@echo
 
-.PHONY: init
 init:
 	@echo
 	@echo "running init:"
 	git submodule update --init --recursive
 	@echo
 
-.PHONY: install
 install: build
 	@:
 
-.PHONY: test
 test:
 	bash-tools/checks/check_all.sh
 	@echo
 
-.PHONY: clean
 clean:
 	@rm -fv -- *.pyc *.pyo
