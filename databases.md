@@ -1,6 +1,11 @@
-## RBDMS SQL Databases
+# SQL Databases
 
-### Open Source Databases
+These are mostly [SQL](sql.md) databases of various forms, usually RDBMS or MPP, but some without referential integrity
+or ACID compliance.
+
+## Open Source Databases
+
+### Open Source RDBMS
 
 - [MySQL](mysql.md) - easy to use with easy DB replication features
 - [PostgreSQL](postgres.md) - high quality open source database - the natural open source choice to move away from
@@ -12,7 +17,12 @@ GCP [Cloud SQL](https://cloud.google.com/sql),
 Azure [Databases](https://azure.microsoft.com/en-us/products/category/databases) and
 Digital Ocean [Managed Databases](https://www.digitalocean.com/products/managed-databases).
 
-#### Small Embedded Open Source Databases
+### Open Source MPP Databases
+
+- [Presto](https://prestodb.io/)
+- [Apache Drill](https://drill.apache.org/)
+
+### Open Source Small Embedded Databases
 
 Useful for local or embedded usage rather than multi-user servers like most major RDBMS systems.
 
@@ -21,7 +31,7 @@ Useful for local or embedded usage rather than multi-user servers like most majo
   [DevOps-Bash-tools](devops-bash-tools.md) repo
 - [DuckDB](https://duckdb.org/) - single process local SQL DB akin to SQLite with minimal dependencies
 
-### Cloud Databases
+## Cloud Databases
 
 - [AWS Redshift](https://aws.amazon.com/redshift/) - managed SQL cluster,
   built on [ParAccel](https://en.wikipedia.org/wiki/ParAccel)
@@ -30,7 +40,7 @@ Useful for local or embedded usage rather than multi-user servers like most majo
   and charges by query
 - [GCP BigQuery](https://cloud.google.com/bigquery/) - serverless DB that charges by query
 
-### Proprietary / Legacy Databases
+## Proprietary / Legacy Databases
 
 - [Oracle](https://www.oracle.com/) - an OG of RDBMS databases with good performance, durability and PL/SQL advanced SQL
   dialect. Notoriously expensive
