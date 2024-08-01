@@ -230,6 +230,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 - [SQL](sql.md) TODO
 - [SQL scripts](https://github.com/HariSekhon/SQL-scripts)
+- [Databases](databases.md)
 - [Data Warehousing](data-warehousing.md) TODO
 - [MySQL](mysql.md) TODO
 - [PostgreSQL](postgres.md) TODO
@@ -252,7 +253,7 @@ Massively Parallel Processing databases - horizontally scaling databases:
 - [Google BigQuery](bigquery.md) TODO
 - [AWS Redshift](redshift.md) TODO
 
-See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
+See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more distributed SQL databases.
 
 #### Database Management
 
