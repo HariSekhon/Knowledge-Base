@@ -135,7 +135,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 #### Local Kubernetes Dev
 
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/) has a setting to enable Kubernetes, easiest to use
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/) embedded Kubernetes (easiest to use)
 - [MiniKube](https://minikube.sigs.k8s.io/docs/start/)
 - [MiniShift](https://github.com/minishift/minishift) - for OpenShift upstream [okd](https://www.okd.io/)
 - [K3d](k3d.md)
