@@ -17,7 +17,7 @@ Then proceed to more advanced content validation.
 
 - [Informatica](informatica.md) - proprietary
 - [Airbyte](https://github.com/airbytehq/airbyte) - open-core
-- [Apache Camel](#apache-camel) - open source with 100+ connectors
+- [Apache Camel](camel.md) - open source with 100+ connectors
 - Spring Integration - XML config, only use for Spring heavy shops
 - Mulesoft - XML config, only use for proprietary connectors
 
