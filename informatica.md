@@ -298,6 +298,23 @@ cd /home/ec2-user/infaagent/apps/agentcore &&
 ./infaagent startup
 ```
 
+### Vertica ODBC Connector Error
+
+You may be forgiven for thinking the `Connection refused` part of the below error is caused by your Vertica DB being
+down.
+
+However, another clue is in ` Can't find resource for bundle java.util.PropertyResourceBundle`.
+
+Check the disk space isn't full (see further down).
+
+A simple secure agent restart fixes this issue.
+
+```
+The connection test failed because of the following error: Can't find resource for bundle java.util.PropertyResourceBundle, key Error establishing socket to host and port, Reason: Connection refused.; nested exception is:
+
+com.informatica.saas.common.exception.SaasException: Can't find resource for bundle java.util.PropertyResourceBundle, key Error establishing socket to host and port, Reason: Connection refused.
+```
+
 ### Disk Space
 
 Check the disk space on partitions:
