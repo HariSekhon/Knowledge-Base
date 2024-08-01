@@ -1,5 +1,13 @@
 # AWS EKS - Elastic Kubernetes Service
 
+NOT PORTED YET
+
+## EKS on Fargate
+
+Serverless Kubernetes service to avoid having to deal with node pool management.
+
+<https://docs.aws.amazon.com/eks/latest/userguide/fargate.html>
+
 ## EKS Kubectl Access
 
 First install AWS CLI as per the [AWS](aws.md) page.
