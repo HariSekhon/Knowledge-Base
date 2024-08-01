@@ -39,9 +39,6 @@ build: init
 	@$(MAKE) references
 	@echo "All Checks Passed"
 
-push: build
-	git push
-
 mdl:
 	@echo "Checking Markdown for issues"
 	@echo
