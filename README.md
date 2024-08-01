@@ -293,6 +293,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down.
 - [Big Data](big-data.md)
 - [Data Warehousing](data-warehousing.md) TODO
 - [Informatica](informatica.md)
+- [Apache Camel](camel.md)
 
 ### Hadoop Ecosystem
 
