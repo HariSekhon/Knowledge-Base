@@ -24,8 +24,12 @@ MAKEFLAGS = -j1
 
 .PHONY: *
 
-default: build push
-	@:
+# causes weird inheritance condition from Makefile.in that causes triggering of git and printenv targets after build and push
+#default: build push
+default:
+	$(MAKE) build
+	@echo
+	$(MAKE) push
 
 build: init
 	@echo ================
