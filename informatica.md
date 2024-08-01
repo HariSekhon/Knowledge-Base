@@ -283,3 +283,70 @@ to increase the Java Heap Size for the Data Integration Server.
 
 Ensure it is restarted from the `Runtime Environment` agent tab which has a per component restart (it should restart
 automatically after setting change with no downtime due to starting a new component and then shutting down the old one).
+
+## Troubleshooting
+
+A lot of issues are caused by transient secure agent process issues or running out of disk space.
+
+In a lot of cases restarting the secure agent is enough to solve the problem (after freeing up disk space).
+
+### Restarting the Secure Agent
+
+```shell
+cd /home/ec2-user/infaagent/apps/agentcore &&
+./infaagent shutdown &&
+./infaagent startup
+```
+
+### Disk Space
+
+Check the disk space on partitions:
+
+```shell
+df -h
+````
+
+Find out where your disk space is going on a full partition such as the `/` root partition:
+
+```shell
+du -max / | sort -k1n | tail -n 1000
+```
+
+You may find a log such as `/tmp/vertica_odbc_conn_1.log` taking up 25GB of space. You can delete this if you are
+not using it for debugging as this is a cumulative log going back months.
+You can also add logrotate to automatically rotate and truncate this.
+
+Insert, Upsert, and `InfaS3Staging*/*` temp files are often a problem in `/tmp`.
+
+Find those temp files older than 25 hours and consider deleting them
+
+```shell
+find /tmp -type f -name 'insert*' -ctime +1 -o \
+          -type f -name 'upsert*' -ctime +1 -o \
+          -type f -path '/tmp/InfaS3Staging*' -ctime +1 2>/dev/null |
+xargs --no-run-if-empty du -cam | sort -k1n
+```
+
+Verify they are really old by looking at their last timestamps:
+
+```shell
+find /tmp -type f -name 'insert*' -ctime +1 -o \
+          -type f -name 'upsert*' -ctime +1 -o \
+          -type f -path '/tmp/InfaS3Staging*' -ctime +1 2>/dev/null |
+xargs --no-run-if-empty ls -lhtr
+```
+
+If you're happy to delete them as old stale files:
+
+```shell
+find /tmp -type f -name 'insert*' -ctime +1 -o \
+          -type f -name 'upsert*' -ctime +1 -o \
+          -type f -path '/tmp/InfaS3Staging*' -ctime +1 2>/dev/null |
+xargs --no-run-if-empty rm -fv
+```
+
+Then remove any empty directories under `/tmp` such as `/tmp/InfaS3Staging*` to clean up your view:
+
+```shell
+rmdir /tmp/* 2>/dev/null
+```
