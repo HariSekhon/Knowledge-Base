@@ -15,6 +15,9 @@ GitHub Actions CI/CD workflows.
 - AWS [EKS](eks.md)
 - GCP [GKE](gke.md)
 - Azure [AKS](aks.md)
+- [Karpenter](karpenter.md) - open source cluster autoscaler for cloud (easier than using Auto Scaling
+  Groups and the traditional cluster autoscaler below
+- [Cluster Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler)
 
 ## On Premise
 
