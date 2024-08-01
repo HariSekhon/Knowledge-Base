@@ -207,7 +207,7 @@ The diagrams can be more easily read one after another.
 You see examples of diagrams at different levels of drill-down from architecture to Kubernetes components in the
 [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code/Diagrams-as-Code) repo.
 
-Some components like [Grafana](grafana.md) and [Vault](vault.md) are very relevant in architecture diagrams
+Some components like Grafana and [Vault](vault.md) are very relevant in architecture diagrams
 and should be present but can be represented by a since simple icon,
 with their implementation showing how they're running on Kubernetes
 or achieving high availability being left to separate diagrams for each one.
