@@ -23,6 +23,10 @@ GitHub Actions CI/CD workflows.
 - [RKE2](rke2.md)
 - [Portworx](portworx.md)
 
+## Machine Learning for Kubernetes
+
+- [Kubeflow](https://www.kubeflow.org/)
+
 ## Kubernetes Configs
 
 [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)
