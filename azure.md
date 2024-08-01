@@ -1,5 +1,7 @@
 # Azure
 
+NOT PORTED YET
+
 ## DevOps Bash tools for Azure, AKS, VMs etc
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
@@ -52,10 +54,21 @@ Then see [Kubernetes](kubernetes.md) for configs, scripts and `.envrc`.
 
 ## VMs
 
-Use ZRS (zone-redundant storage) rather than LRS (locally-redundant storage),
-price is ~50% more but still fairly trivial in overall cost compared to the compute its attached to
-eg.
-spending only $15 a month on a 100GB storage disk SSD for a $450 a month VM with 8vCPUs and 64GB RAM.
+## Data
+
+Data is always replicated 3x in primary region. Options:
+
+- LRS (locally-redundant storage)
+  - replicates within same AZ - not recommended for HA or durability
+  - 11 nines durability
+  - synchronously writes to all 3 replicas
+- ZRS (zone-redundant storage)
+  - multi-zone - replicates to 3 AZs
+  - 12 nines durability
+  - synchronously writes to all 3 replicas
+  - app still needs transient fault handling to account for DNS failover time - retry policies with exponential back-off
+  - use this - price is ~50% more but still fairly trivial in overall cost compared to the compute its attached to
+    eg. spending only $15 a month on a 100GB storage disk SSD for a $450 a month VM with 8vCPUs and 64GB RAM.
 
 <https://learn.microsoft.com/en-gb/azure/storage/common/storage-redundancy>
 
