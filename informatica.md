@@ -315,6 +315,8 @@ eg.
 Go to the agent in the `Secure Agents` left-pane and in the `Email` section add your user account to receive alerts
 and check the thresholds (defaults: 90% of Disk Space / CPU / RAM for 30 minutes).
 
+You won't be able to see local users until they have activated their accounts via email invitation.
+
 ## Support
 
 Informatica Support URL:
@@ -411,4 +413,11 @@ Then remove any empty directories under `/tmp` such as `/tmp/InfaS3Staging*` to 
 
 ```shell
 rmdir /tmp/* 2>/dev/null
+```
+
+(add these two commands above to crontab without the `-v` switch to `rm` to avoid
+local mailbox notifications):
+
+```
+0 * * * * bash -c "find /tmp -type f -name 'insert*' -ctime +1 -o -type f -name 'upsert*' -ctime +1 -o -type f -path '/tmp/InfaS3Staging*' -ctime +1 2>/dev/null | xargs --no-run-if-empty rm -f; rmdir /tmp/* 2>/dev/null"
 ```
