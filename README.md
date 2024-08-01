@@ -87,6 +87,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 - [Diagrams-as-Code](diagrams.md)
   - [D2 lang](d2.md)
+- [Microservices](microservices.md)
 - [MkDocs](mkdocs.md)
 - [Medium.com](medium.md) (blog)
 
@@ -190,6 +191,21 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Maven](maven.md) TODO
 - [Gradle](gradle.md) TODO
 - [SBT](sbt.md)
+
+### Container Registries
+
+- [DockerHub](https://hub.docker.com/)
+- AWS [ECR](https://aws.amazon.com/ecr/)
+- GCP [GAR](https://cloud.google.com/artifact-registry)
+  - GCP [GCR](https://cloud.google.com/container-registry/pricing) (deprecated / shut down)
+- Azure [ACR](https://azure.microsoft.com/en-us/products/container-registry)
+- GitHub [GHCR](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry)
+- Redhat [Quay.io](https://quay.io/) (there is an on-prem installable too)
+- JFrog [Container Registry](https://jfrog.com/container-registry/)
+- [Harbor](https://goharbor.io/)
+- [Chart Museum](https://chartmuseum.com/docs/#)
+
+Plus the artifact registries below:
 
 ### Artifact Registries
 
