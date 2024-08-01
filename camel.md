@@ -1,6 +1,6 @@
 # Apache Camel
 
-https://camel.apache.org/
+<https://camel.apache.org/>
 
 Open source integration framework written in Java.
 
