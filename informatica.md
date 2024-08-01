@@ -2,7 +2,7 @@
 
 Informatica is a data integration UI tool.
 
-Modern Informatica UI is cloud hosted SaaS.
+Modern Informatica UI is cloud hosted SaaS solution called IICS - Informatica Intelligent Cloud Services.
 
 - [Organizations](#organizations)
 - [Informatica Login & Environments](#informatica-login--environments)
@@ -287,6 +287,30 @@ to increase the Java Heap Size for the Data Integration Server.
 
 Ensure it is restarted from the `Runtime Environment` agent tab which has a per component restart (it should restart
 automatically after setting change with no downtime due to starting a new component and then shutting down the old one).
+
+## Monitoring & Alerting
+
+Since running out of disk space breaks the secure agent, it is important to add yourself to the email alerts and
+preempt running out of disk space.
+
+Under the global My Services -> `Operational Insights` app -> left-pane  `Alerts` -> top tab `Infrastructure Alerts`
+
+eg.
+
+<https://na2.dm-us.informaticacloud.com/mona/alerts/infrastructure>
+
+<https://usw3.dm-us.informaticacloud.com/mona/alerts/infrastructure>
+
+(the prefix will vary depending on your IICS region)
+
+Go to the agent in the `Secure Agents` left-pane and in the `Email` section add your user account to receive alerts
+and check the thresholds (defaults: 90% of Disk Space / CPU / RAM for 30 minutes).
+
+## Support
+
+Informatica Support URL:
+
+<https://support.informatica.com/s/?language=en_US>
 
 ## Troubleshooting
 
