@@ -382,7 +382,7 @@ You can also add logrotate to automatically rotate and truncate this.
 
 Insert, Upsert, and `InfaS3Staging*/*` temp files are often a problem in `/tmp`.
 
-Find those temp files older than 25 hours and consider deleting them
+Find those temp files older than 1 day and consider deleting them:
 
 ```shell
 find /tmp -type f -name 'insert*' -ctime +1 -o \
