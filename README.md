@@ -126,12 +126,18 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 #### On-premise Kubernetes
 
-- [K3s](k3s.md) TODO
-- [K3d](k3d.md) TODO
-- [Kind](kind.md)
+- [K3s](k3s.md)
 - [Rancher](rancher.md)
 - [RKE2](rke2.md)
 - [Portworx](portworx.md)
+
+#### Local Kubernetes Dev
+
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/) has a setting to enable Kubernetes, easiest to use
+- [MiniKube](https://minikube.sigs.k8s.io/docs/start/)
+- [MiniShift](https://github.com/minishift/minishift) - for OpenShift upstream [okd](https://www.okd.io/)
+- [K3d](k3d.md)
+- [Kind](kind.md)
 
 #### Kubernetes Applications & Lifecycle Management
 
