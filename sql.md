@@ -13,7 +13,15 @@ Scripts for [PostgreSQL](postgres.md), [MySQL](mysql.md), AWS Athena and Google 
 - [MySQL](mysql.md) - easy to use with easy DB replication features
 - [PostgreSQL](postgres.md) - high quality open source database - the natural open source choice to move away from
   Oracle (one company where I was a semi Oracle DBA for a few years did exactly this migration after my time)
-- [DuckDB](https://duckdb.org/) -
+
+#### Small Embedded DBs
+
+Useful for local or embedded usage rather than multi-user servers like most major RDBMS systems.
+
+- [SQLite](https://www.sqlite.org/) - small fast local SQL DB that can store data in a simple file
+  [.sqliterc](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.sqliterc) config is available in the
+  [DevOps-Bash-tools](devops-bash-tools.md) repo
+- [DuckDB](https://duckdb.org/) - single process local SQL DB akin to SQLite with minimal dependencies
 
 ### Cloud Databases
 
