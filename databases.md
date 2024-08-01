@@ -7,10 +7,10 @@
   Oracle (one company where I was a semi Oracle DBA for a few years did exactly this migration after my time)
 
 These are so popular that every major cloud provider has a managed service to host them for you -
-eg. [AWS RDS](https://aws.amazon.com/rds/),
-[GCP Cloud SQL](https://cloud.google.com/sql) and
-[Azure Databases](https://azure.microsoft.com/en-us/products/category/databases) and
-[Digital Ocean Managed Databases](https://www.digitalocean.com/products/managed-databases).
+eg. AWS [RDS](https://aws.amazon.com/rds/),
+GCP [Cloud SQL](https://cloud.google.com/sql),
+Azure [Databases](https://azure.microsoft.com/en-us/products/category/databases) and
+Digital Ocean [Managed Databases](https://www.digitalocean.com/products/managed-databases).
 
 #### Small Embedded Open Source Databases
 
