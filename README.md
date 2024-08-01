@@ -124,6 +124,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [AWS EKS](eks.md) TODO
 - [GKE](gke.md) TODO
 - [AKS](aks.md) TODO
+- [Karpenter](karpenter.md)
 
 #### On-premise Kubernetes
 
