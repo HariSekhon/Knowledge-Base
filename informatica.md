@@ -11,7 +11,6 @@ Modern Informatica UI is cloud hosted SaaS.
 - [Runtime Environments - Serverless vs Local](#runtime-environments---serverless-vs-local)
 - [Agents](#agents)
   - [Agent Installation](#agent-installation)
-    - [Install Documentation:](#install-documentation)
   - [Agent Details](#agent-details)
   - [Agent Startup / Shutdown](#agent-startup--shutdown)
 - [Kubernetes Informatica Configuration](#kubernetes-informatica-configuration)
@@ -21,6 +20,11 @@ Modern Informatica UI is cloud hosted SaaS.
   - [JDBC Connector Configuration](#jdbc-connector-configuration)
   - [JDBC Configuration Fixes](#jdbc-configuration-fixes)
   - [JDBC Increase Java Heap Size](#jdbc-increase-java-heap-size)
+- [Troubleshooting](#troubleshooting)
+  - [Restarting the Secure Agent](#restarting-the-secure-agent)
+  - [VM Restarts require Graceful Restart of the Secure Agent](#vm-restarts-require-graceful-restart-of-the-secure-agent)
+  - [Vertica ODBC Connector Error](#vertica-odbc-connector-error)
+  - [Disk Space](#disk-space)
 
 ## Organizations
 
@@ -297,6 +301,14 @@ cd /home/ec2-user/infaagent/apps/agentcore &&
 ./infaagent shutdown &&
 ./infaagent startup
 ```
+
+### VM Restarts require Graceful Restart of the Secure Agent
+
+Sometimes the AWS EC2 agent becomes unresponsive and requires a hard restart via AWS.
+
+After the VM comes back up, a simple startup sometimes brings the processes up to green but the jobs do not succeed.
+
+In this case do a full graceful restart as per above to solve it.
 
 ### Vertica ODBC Connector Error
 
