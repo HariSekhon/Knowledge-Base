@@ -38,7 +38,8 @@ backed by Teradata from mid 2015
 
 ## Instant Presto using Docker
 
-This drops you into an SQL shell on a one node Presto dev instance running in Docker to try out:
+This docker command pulls the docker image and runs a container dropping you into an SQL shell on a one node
+Presto instance running in Docker:
 
 ```shell
 docker run -ti harisekhon/presto
@@ -49,6 +50,8 @@ or
 ```shell
 docker run -ti harisekhon/presto-dev
 ```
+
+Then see the [Presto SQL](#presto-sql) section futher down.
 
 See [DockerHub](https://hub.docker.com/u/harisekhon) for a selection of docker images - the Dockerfiles for
 various Presto builds and other technologies can be found in the
