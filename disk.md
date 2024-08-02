@@ -6,6 +6,7 @@
   - [Format the partition](#format-the-partition)
   - [Verify the new formatting](#verify-the-new-formatting)
   - [Mount the new volume by unchanging UUID for maximum stability](#mount-the-new-volume-by-unchanging-uuid-for-maximum-stability)
+  - [/tmp permissions](#tmp-permissions)
 - [Mac](#mac)
 
 ## Linux
