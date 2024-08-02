@@ -190,7 +190,7 @@ Check your shiny new partition and space is available
 df -Th /tmp
 ```
 
-If you've just mounted a new temp make sure to set a sticky bit and world writable permissions for people and apps
+If you've just mounted a new `/tmp` make sure to set a sticky bit and world writable permissions for people and apps
 to be able to use it:
 
 ```shell
