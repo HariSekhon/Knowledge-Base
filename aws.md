@@ -46,8 +46,8 @@ REGION="${AZ:0:-1}"  # auto-infer the region by removing last character
 
 aws ec2 create-volume \
     --size 500 \
-    --region eu-west-1 \
-    --availability-zone eu-west-1a \
+    --region "$REGION" \
+    --availability-zone "$AZ" \
     --volume-type gp3
 ```
 
