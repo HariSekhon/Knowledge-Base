@@ -40,14 +40,14 @@ migration loads in an [Informatica](informatica.md) agent, which can be removed 
 Create an EC2 EBS volume of 500Gb in the eu-west-1a zone where the VM is:
 
 ```shell
-AZ=eu-west-1a  # make sure this is same as the VM you want to attach to
+AVAILABILITY_ZONE=eu-west-1a  # make sure this is same Availability Zone as the VM you want to attach it to
 
-REGION="${AZ%?}"  # auto-infer the region by removing last character
+REGION="${AVAILABILITY_ZONE%?}"  # auto-infer the region by removing last character
 
 aws ec2 create-volume \
     --size 500 \
     --region "$REGION" \
-    --availability-zone "$AZ" \
+    --availability-zone "$AVAILABILITY_ZONE" \
     --volume-type gp3
 ```
 
