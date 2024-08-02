@@ -42,7 +42,7 @@ Create an EC2 EBS volume of 500Gb in the eu-west-1a zone where the VM is:
 ```shell
 AZ=eu-west-1a  # make sure this is same as the VM you want to attach to
 
-REGION="${AZ:0:-1}"  # auto-infer the region by removing last character
+REGION="${AZ%?}"  # auto-infer the region by removing last character
 
 aws ec2 create-volume \
     --size 500 \
@@ -96,7 +96,9 @@ Use the `VolumeId` you saw from your volume creation output further above combin
 see in the immediate above command, giving it a new device name:
 
 ```shell
-aws ec2 attach-volume --device /dev/sdb --instance-id i-028fbf0c954ca82c7 --volume-id vol-007e4d5f88a46fb6f
+aws ec2 attach-volume --device /dev/sdb \
+                      --instance-id i-028fbf0c954ca82c7 \
+                      --volume-id vol-007e4d5f88a46fb6f
 ```
 
 (you cannot specify `/dev/nvme1` as the next disk you see on Nitro VMs but if you specify `/dev/sdb` then it will
@@ -104,24 +106,15 @@ appear as `/dev/nvme1n1` anyway)
 
 ### Partition and Format the new disk
 
-Inside the VM - see if the new disk is available:
+Inside the VM - follow the [Disk Management](disk.md) commands.
+
+See if the new disk is available:
 
 ```shell
 cat /proc/partitions
 ```
 
-```
-major minor  #blocks  name
-
- 259        0  314572800 nvme0n1
- 259        1       1024 nvme0n1p1
- 259        2     204800 nvme0n1p2
- 259        3     512000 nvme0n1p3
- 259        4  313853935 nvme0n1p4
- 259        5  524288000 nvme1n1  # <-- this is the new disk which has no partitions yet
-```
-
-If you can't see it yet, run `partprobe`
+If you can't see it yet, run `partprobe`:
 
 ```shell
 sudo partprobe
@@ -147,20 +140,7 @@ See the new partition:
 cat /proc/partitions
 ```
 
-```
-...
- 259        7  524285952 nvme1n1p1
-```
-
-Format the partition with either:
-
-ext4:
-
-```shell
-sudo mkfs.ext4 /dev/nvme1n1p1
-```
-
-or xfs:
+Format the partition with XFS:
 
 ```shell
 sudo mkfs.xfs /dev/nvme1n1p1
@@ -172,52 +152,12 @@ Verify the new formatting:
 lsblk -f /dev/nvme1n1
 ```
 
-or
-
-```shell
-sudo blkid /dev/nvme1n1p1
-```
-
 ### Mount the new volume by unchanging UUID for maximum stability
 
-Since partition numbers can change, find the UUID using one of these commands:
-
-I like this one best for scripting due to its simple 2 column output format which is easy to parse:
+Since partition numbers can change, find the UUID:
 
 ```shell
 lsblk -o NAME,UUID
-```
-
-this one requires root permission:
-
-```shell
-sudo blkid
-```
-
-```shell
-ls -l /dev/disk/by-uuid/
-```
-
-```shell
-findmnt -o TARGET,UUID
-```
-
-requires root:
-
-```shell
-sudo fdisk -l
-```
-
-otherwise gets this error as regular user:
-
-```
-fdisk: cannot open /dev/nvme0n1: Permission denied
-```
-
-requires root or returns blank:
-
-```shell
-sudo parted -l
 ```
 
 Add it to `/etc/fstab` with a line like this, substituting the UUID from the above commands:
@@ -226,16 +166,10 @@ Add it to `/etc/fstab` with a line like this, substituting the UUID from the abo
 UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx /tmp xfs defaults 0 2
 ```
 
-If you're using a new mount point instead of `/tmp` that doesn't exist yet, then create it:
-
-```shell
-sudo mkdir -p /mnt/newdisk
-```
-
 If the mount point is `/tmp` make sure you shut down any processes that might be using it first like
 [Informatica](informatica.md) agent.
 
-Then mount it using this short form which tests the fstab at the same time:
+Then mount it using this short form of the `mount` command which tests the fstab at the same time:
 
 ```shell
 sudo mount /tmp
