@@ -65,13 +65,3 @@ init:
 	@echo "running init:"
 	git submodule update --init --recursive
 	@echo
-
-install: build
-	@:
-
-test:
-	bash-tools/checks/check_all.sh
-	@echo
-
-clean:
-	@rm -fv -- *.pyc *.pyo
