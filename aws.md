@@ -28,7 +28,210 @@ depending on if you're using SSO or access keys etc.
 See [eks.md](eks.md)
 
 
-## Resize EC2 EBS volume
+## Add an EC2 EBS volume
+
+This can also be useful for temporary space increases, eg. add a big `/tmp` partition to allow some
+migration loads in an [Informatica](informatica.md) agent, which can be removed later.
+
+(since you cannot shrink partitions later if you enlarge them instead)
+
+### Create EC2 EBS volume
+
+Create an EC2 EBS volume of 500Gb in the eu-west-1a zone where the VM is:
+
+```shell
+AZ=eu-west-1a  # make sure this is same as the VM you want to attach to
+
+REGION="${AZ:0:-1}"  # auto-infer the region by removing last character
+
+aws ec2 create-volume \
+    --size 500 \
+    --region eu-west-1 \
+    --availability-zone eu-west-1a \
+    --volume-type gp3
+```
+
+output:
+
+```
+{
+    "AvailabilityZone": "eu-west-1a",
+    "CreateTime": "2024-08-02T11:55:18+00:00",
+    "Encrypted": false,
+    "Size": 500,
+    "SnapshotId": "",
+    "State": "creating",
+    "VolumeId": "vol-007e4d5f88a46fb6f",
+    "Iops": 3000,
+    "Tags": [],
+    "VolumeType": "gp3",
+    "MultiAttachEnabled": false,
+    "Throughput": 125
+}
+```
+
+Note the `VolumeId` field, you'll need it for the attach command further down.
+
+
+### Attach the new volume to the EC2 instance
+
+This can be done with zero downtime while the VM is running.
+
+Look up the EC2 instance ID of the VM you want to attach it to:
+
+```shell
+aws ec2 describe-instances \
+    --query 'Reservations[*].Instances[*].[InstanceId, Tags[?Key==`Name`].Value | [0]]' \
+    --output table
+```
+
+Use the `VolumeId` you saw from your volume creation output further above combined with the VM instance id you
+see in the immediate above command, giving it a new device name:
+
+```shell
+aws ec2 attach-volume --device /dev/sdb --instance-id i-028fbf0c954ca82c7 --volume-id vol-007e4d5f88a46fb6f
+```
+
+(you cannot specify `/dev/nvme1` as the next disk you see on Nitro VMs but if you specify `/dev/sdb` then it will
+appear as `/dev/nvme1n1` anyway)
+
+### Partition and Format the new disk
+
+Inside the VM - see if the new disk is available:
+
+```shell
+cat /proc/partitions
+```
+
+```
+major minor  #blocks  name
+
+ 259        0  314572800 nvme0n1
+ 259        1       1024 nvme0n1p1
+ 259        2     204800 nvme0n1p2
+ 259        3     512000 nvme0n1p3
+ 259        4  313853935 nvme0n1p4
+ 259        5  524288000 nvme1n1  # <-- this is the new disk which has no partitions yet
+```
+
+If you can't see it yet, run `partprobe`
+
+```shell
+sudo partprobe
+```
+
+and then repeat the above `cat /proc/partitions` (it has also appeared after a few seconds on EC2 without this)
+
+Create a new GPT partition table on the new disk:
+
+```shell
+sudo parted /dev/nvme1n1 --script mklabel gpt
+```
+
+Create a new partition that spans the entire disk:
+
+```shell
+sudo parted /dev/nvme1n1 --script mkpart primary 0% 100%
+```
+
+See the new partition:
+
+```shell
+cat /proc/partitions
+```
+
+```
+...
+ 259        7  524285952 nvme1n1p1
+```
+
+Format the partition with either:
+
+ext4:
+
+```shell
+sudo mkfs.ext4 /dev/nvme1n1p1
+```
+
+or xfs:
+
+```shell
+sudo mkfs.xfs /dev/nvme1n1p1
+```
+
+Verify the new formatting:
+
+```shell
+lsblk -f /dev/nvme1n1
+```
+
+or
+
+```shell
+sudo blkid /dev/nvme1n1p1
+```
+
+### Mount the new volume by unchanging UUID for maximum stability
+
+Since partition numbers can change, find the UUID using one of these commands:
+
+I like this one best for scripting due to its simple 2 column output format which is easy to parse:
+
+```shell
+lsblk -o NAME,UUID
+```
+
+this one requires root permission:
+
+```shell
+sudo blkid
+```
+
+```shell
+ls -l /dev/disk/by-uuid/
+```
+
+```shell
+findmnt -o TARGET,UUID
+```
+
+requires root:
+
+```shell
+sudo fdisk -l
+```
+
+otherwise gets this error as regular user:
+
+```
+fdisk: cannot open /dev/nvme0n1: Permission denied
+```
+
+requires root or returns blank:
+
+```shell
+sudo parted -l
+```
+
+Add it to `/etc/fstab` with a line like this, substituting the UUID from the above commands:
+
+```shell
+UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx /mnt/newdisk xfs defaults 0 2
+```
+
+Create the mount point if it doesn't already exist:
+
+```shell
+mkdir -p /mnt/newdisk
+```
+
+Then mount it using this short form which tests the fstab at the same time:
+
+```shell
+mount /mnt/newdisk
+```
+
+## Resize an EC2 EBS volume
 
 <https://docs.aws.amazon.com/ebs/latest/userguide/recognize-expanded-volume-linux.html>
 
