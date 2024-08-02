@@ -98,7 +98,8 @@ sudo blkid /dev/nvme1n1p1
 
 ### Mount the new volume by unchanging UUID for maximum stability
 
-Since partition numbers can change, find the UUID using one of these commands:
+Since device numbers can change on rare occasion such as when adding IDE/SCSI/SAS disks to cables / disk
+controller cards, find and use the UUID instead using one of these commands:
 
 I like this one best for scripting due to its simple 2 column output format which is easy to parse:
 
