@@ -1,5 +1,13 @@
 # Disk Management
 
+- [Linux](#linux)
+  - [Detect New Disk](#detect-new-disk)
+  - [Create Partitions](#create-partitions)
+  - [Format the partition](#format-the-partition)
+  - [Verify the new formatting](#verify-the-new-formatting)
+  - [Mount the new volume by unchanging UUID for maximum stability](#mount-the-new-volume-by-unchanging-uuid-for-maximum-stability)
+- [Mac](#mac)
+
 ## Linux
 
 This example is from [Adding a new EBS volume to a running AWS EC2 instance](aws.md#add-an-ec2-ebs-volume).
@@ -59,7 +67,7 @@ cat /proc/partitions
  259        7  524285952 nvme1n1p1
 ```
 
-### Format the partition:
+### Format the partition
 
 Ext4:
 
