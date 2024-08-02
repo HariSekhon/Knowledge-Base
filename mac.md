@@ -130,6 +130,14 @@ Switches to a cross-hair to drag to what you want to screenshot.
 
 `Cmd` + `Shift` + `4`
 
+#### The Screenshot.app
+
+in the Utilities folder is easy to use:
+
+```shell
+open /System/Applications/Utilities/Screenshot.app
+```
+
 #### The Screencapture CLI
 
 You may be prompted to allow Terminal to record the screen under `Privacy & Security` -> `Screen Recording` the first
@@ -158,14 +166,6 @@ So many great options from delayed screenshots, copy to clipboard, open in Previ
 
 ```shell
 screencapture --help
-```
-
-#### The Screenshot.app
-
-in the Utilities folder is easy to use:
-
-```shell
-open /System/Applications/Utilities/Screenshot.app
 ```
 
 ### Flush the DNS Cache
