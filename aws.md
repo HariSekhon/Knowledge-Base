@@ -72,6 +72,13 @@ output:
 
 Note the `VolumeId` field, you'll need it for the attach command further down.
 
+Name the new volume so you know what is it when you look at it in future in the UI:
+
+```shell
+aws ec2 create-tags \
+  --resources vol-007e4d5f88a46fb6f \
+  --tags Key=Name,Value="dev-secure-agent-tmp"
+```
 
 ### Attach the new volume to the EC2 instance
 
