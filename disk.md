@@ -178,7 +178,9 @@ Filesystem     Type  Size  Used Avail Use% Mounted on
 /dev/nvme1n1p1 xfs   500G  3.6G  497G   1% /tmp
 ```
 
-If you've just mounted a new temp make sure to set a sticky bit and world writable permissions for people and apps
+### /tmp permissions
+
+If you've just mounted a new `/tmp` make sure to set a sticky bit and world writable permissions for people and apps
 to be able to use it:
 
 ```shell
