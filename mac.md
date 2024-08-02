@@ -11,6 +11,26 @@ Macbook Pro - a real joy to use. Even when you're using more RAM than the physic
 performance is still so good you don't notice significant performance degradation for most usage, even when using
 heavyweight IDEs like [IntelliJ](intellij.md).
 
+- [Terminal](#terminal)
+- [Homebrew - Package Management](#homebrew---package-management)
+- [Stats Bar](#stats-bar)
+- [Reducing Desktop Workspaces](#reducing-desktop-workspaces)
+- [Commands](#commands)
+  - [Search for or open anything](#search-for-or-open-anything)
+  - [Open](#open)
+  - [Clipboard](#clipboard)
+  - [Screenshots](#screenshots)
+  - [Flush the DNS Cache](#flush-the-dns-cache)
+  - [Set DNS Servers](#set-dns-servers)
+  - [Set DNS Search Domain](#set-dns-search-domain)
+  - [Say - text-to-speech](#say---text-to-speech)
+  - [Finding Files - Spotlight Search and Index Management](#finding-files---spotlight-search-and-index-management)
+  - [Launchctl](#launchctl)
+  - [Disk Management](#disk-management)
+  - [Service Management](#service-management)
+- [Creating Bootable CDs & USBs from ISOs](#creating-bootable-cds--usbs-from-isos)
+  - [Other Options](#other-options)
+
 ## Terminal
 
 This is where you should be spending your life if you're a techie, with a browser to supplement referencing documentation.
@@ -25,6 +45,30 @@ This is where you should be spending your life if you're a techie, with a browse
 The best most widely used package manager for Mac.
 
 See [brew.md](brew.md) for how to use it and great package lists I've spent years discovering and building up.
+
+
+## Stats Bar
+
+[Stats](https://github.com/exelban/stats) gives many nice toolbar stats on your Mac's performance for CPU, GPU, RAM, Disk, Network and Battery.
+
+Battery even tells you:
+
+- time to discharge
+- time to charge
+- number of cycles (although this one I'm sure is only since installation of Stats)
+- battery health
+- which apps which are consuming a lot of energy for you to kill them if you're not needing them, helping your battery life when on the move
+
+## Reducing Desktop Workspaces
+
+If like me, you hate the time lost in graphics sliding effect from one desktop workspace to another, especially caused
+by apps like Windows Virtual Desktop in Remote Desktop opening to full screen, and just prefer good old fashioned
+`Cmd`-`Tab`, then you can remove the extra workspaces as
+[described here](https://discussions.apple.com/thread/8118894?sortBy=best)
+by pressing F3 and then hovering on and clicking the X to delete the extra workspaces.
+
+Unfortunately, Remote Desktop still seems to slide and send to fullscreen in another temporary desktop workspace.
+
 
 ## Commands
 
@@ -167,28 +211,6 @@ sudo networksetup -setsearchdomains en0 "Empty"
 ```
 
 or `clear_dns_search` function in [DevOps-Bash-tools](devops-bash-tools.md) to do this for all interfaces.
-
-### Stats Bar
-
-[Stats](https://github.com/exelban/stats) gives many nice toolbar stats on your Mac's performance for CPU, GPU, RAM, Disk, Network and Battery.
-
-Battery even tells you:
-
-- time to discharge
-- time to charge
-- number of cycles (although this one I'm sure is only since installation of Stats)
-- battery health
-- which apps which are consuming a lot of energy for you to kill them if you're not needing them, helping your battery life when on the move
-
-### Reducing Desktop Workspaces
-
-If like me, you hate the time lost in graphics sliding effect from one desktop workspace to another, especially caused
-by apps like Windows Virtual Desktop in Remote Desktop opening to full screen, and just prefer good old fashioned
-`Cmd`-`Tab`, then you can remove the extra workspaces as
-[described here](https://discussions.apple.com/thread/8118894?sortBy=best)
-by pressing F3 and then hovering on and clicking the X to delete the extra workspaces.
-
-Unfortunately, Remote Desktop still seems to slide and send to fullscreen in another temporary desktop workspace.
 
 ### Say - text-to-speech
 
