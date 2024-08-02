@@ -44,6 +44,12 @@ This drops you into an SQL shell on a one node Presto dev instance running in Do
 docker run -ti harisekhon/presto
 ```
 
+or
+
+```shell
+docker run -ti harisekhon/presto-dev
+```
+
 See [DockerHub](https://hub.docker.com/u/harisekhon) for a selection of docker images - the Dockerfiles for
 various Presto builds and other technologies can be found in the
 [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) GitHub repo.
