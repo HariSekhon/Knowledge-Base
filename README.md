@@ -266,7 +266,7 @@ Massively Parallel Processing databases - horizontally scaling databases:
 - [Vertica](vertica.md)
 - [Greenplum](greenplum.md)
 - [Impala](impala.md) TODO
-- [Presto](presto.md) TODO
+- [Presto](presto.md)
 - [Apache Drill](drill.md) TODO
 
 #### Hosted MPP Databases
