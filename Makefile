@@ -32,9 +32,9 @@ default:
 	$(MAKE) push
 
 build: init
-	@echo ================
-	@echo Knowledge Builds
-	@echo ================
+	@echo ====================
+	@echo Knowledge Base Build
+	@echo ====================
 	@echo
 	@$(MAKE) git-summary
 	@echo
