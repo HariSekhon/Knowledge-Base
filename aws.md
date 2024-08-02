@@ -225,10 +225,34 @@ Create the mount point if it doesn't already exist:
 mkdir -p /mnt/newdisk
 ```
 
+If the mount point is `/tmp` make sure you shut down any processes that might be using it first like
+[Informatica](informatica.md) agent.
+
 Then mount it using this short form which tests the fstab at the same time:
 
 ```shell
 mount /mnt/newdisk
+```
+
+```shell
+mount: /mnt/newdisk: must be superuser to use mount.
+mount: (hint) your fstab has been modified, but systemd still uses
+       the old version; use 'systemctl daemon-reload' to reload.
+```
+
+```shell
+sudo systemctl daemon-reload
+```
+
+Check your shiny new partition and space is available
+
+```shell
+df -Th /tmp
+```
+
+```
+Filesystem     Type  Size  Used Avail Use% Mounted on
+/dev/nvme1n1p1 xfs   500G  3.6G  497G   1% /tmp
 ```
 
 ## Resize an EC2 EBS volume
