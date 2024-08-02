@@ -46,7 +46,6 @@ The best most widely used package manager for Mac.
 
 See [brew.md](brew.md) for how to use it and great package lists I've spent years discovering and building up.
 
-
 ## Stats Bar
 
 [Stats](https://github.com/exelban/stats) gives many nice toolbar stats on your Mac's performance for CPU, GPU, RAM, Disk, Network and Battery.
@@ -68,7 +67,6 @@ by apps like Windows Virtual Desktop in Remote Desktop opening to full screen, a
 by pressing F3 and then hovering on and clicking the X to delete the extra workspaces.
 
 Unfortunately, Remote Desktop still seems to slide and send to fullscreen in another temporary desktop workspace.
-
 
 ## Commands
 
