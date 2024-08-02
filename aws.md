@@ -154,7 +154,7 @@ lsblk -f /dev/nvme1n1
 
 ### Mount the new volume by unchanging UUID for maximum stability
 
-Since partition numbers can change, find the UUID:
+Since device numbers can change on rare occasion, find and use the UUID instead:
 
 ```shell
 lsblk -o NAME,UUID
