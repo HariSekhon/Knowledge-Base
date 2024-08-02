@@ -216,13 +216,13 @@ sudo parted -l
 Add it to `/etc/fstab` with a line like this, substituting the UUID from the above commands:
 
 ```shell
-UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx /mnt/newdisk xfs defaults 0 2
+UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx /tmp xfs defaults 0 2
 ```
 
-Create the mount point if it doesn't already exist:
+If you're using a new mount point instead of `/tmp` that doesn't exist yet, then create it:
 
 ```shell
-mkdir -p /mnt/newdisk
+sudo mkdir -p /mnt/newdisk
 ```
 
 If the mount point is `/tmp` make sure you shut down any processes that might be using it first like
@@ -231,11 +231,10 @@ If the mount point is `/tmp` make sure you shut down any processes that might be
 Then mount it using this short form which tests the fstab at the same time:
 
 ```shell
-mount /mnt/newdisk
+sudo mount /tmp
 ```
 
 ```shell
-mount: /mnt/newdisk: must be superuser to use mount.
 mount: (hint) your fstab has been modified, but systemd still uses
        the old version; use 'systemctl daemon-reload' to reload.
 ```
