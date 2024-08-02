@@ -36,6 +36,18 @@ backed by Teradata from mid 2015
 | ---- |---------------------------------------------------------------------------------------------------|
 | 8080 | - WebUI<br/>- inter-node communication<br/>- HTTP API (ODBC/[JDBC](jdbc.md) drivers use this too) |
 
+## Instant Presto using Docker
+
+This drops you into an SQL shell on a one node Presto dev instance running in Docker to try out:
+
+```shell
+docker run -ti harisekhon/presto
+```
+
+See [DockerHub](https://hub.docker.com/u/harisekhon) for a selection of docker images - the Dockerfiles for
+various Presto builds and other technologies can be found in the
+[HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) GitHub repo.
+
 ## High Availability
 
 #### Coordinator has no in-built HA / fault tolerance
