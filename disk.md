@@ -169,7 +169,7 @@ mount: (hint) your fstab has been modified, but systemd still uses
 sudo systemctl daemon-reload
 ```
 
-Check your shiny new partition and space is available
+Check new mounted partition and space is available:
 
 ```shell
 df -Th /tmp
