@@ -68,6 +68,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Shell](shell.md)
   - [Bash](bash.md)
   - [direnv / `.envrc`](direnv.md)
+- [Disk Management](disk.md)
 
 ### Core Services - DNS, DHCP, SSH
 
