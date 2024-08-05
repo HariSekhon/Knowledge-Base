@@ -29,7 +29,8 @@ This is much more readable than an inline code of `some_command -with args 1` an
 Code blocks get a Copy to Clipboard link making your life easier.
 
 Inline code should only be for short references to command names or an arg eg.
-use the `git` command or specify `--force-with-lease` option in git if you really insist on doing rebases and force pushes.
+use the `git` command or specify `--force-with-lease` option in git if you really insist on doing rebases and force
+pushes.
 
 (See also: [The Evils of Git Rebasing](https://medium.com/@harisekhon/the-evils-of-git-rebasing-beec34a607c7))
 
