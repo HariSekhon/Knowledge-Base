@@ -66,8 +66,9 @@ See [Documentation-as-Code](documentation-as-code.md) page.
 
 ### Rack Documentation
 
-- [RackMonkey](http://flux.org.uk/projects/rackmonkey/) - rudimentary open source tool for documenting rack server
-  layouts in datacenters.
+- [RackMonkey](http://flux.org.uk/projects/rackmonkey/) - rudimentary open source tool for documenting rack server layout
+- [RackTables](https://www.racktables.org/) - open source datacenter asset management, including hardware, networks and
+  IP addresses
 - [NetBox](https://netboxlabs.com/oss/netbox/) - open source DCIM and IPAM
 
 ### IPAM - IP Address Management
