@@ -1,5 +1,14 @@
 # Documentation
 
+- [The Importance of Documentation](#the-importance-of-documentation)
+- [Documentation Tools](#documentation-tools)
+  - [Wikis](#wikis)
+- [Documentation-as-Code](#documentation-as-code)
+  - [Markdown, GitHub, `README.md`](#markdown-github-readmemd)
+- [Datacenter Documentation](#datacenter-documentation)
+  - [Rack Documentation](#rack-documentation)
+  - [IPAM - IP Address Management](#ipam---ip-address-management)
+
 ## The Importance of Documentation
 
 If you've ever had this _"Why Bother?"_ approach to documentation, allow me to give you the benefit of hindsight:
