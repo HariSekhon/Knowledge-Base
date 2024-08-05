@@ -26,7 +26,7 @@ some_command -with -args 1
 
 This is much more readable than an inline code of `some_command -with args 1` and then carry on with your day.
 
-Code blocks have a Copy link to Clipboard making your life easier.
+Code blocks get a Copy to Clipboard link making your life easier.
 
 Inline code should only be for short references to command names or an arg eg.
 use the `git` command or specify `--force-with-lease` option in git if you really insist on doing rebases and force pushes.
