@@ -388,8 +388,6 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 ### Networking
 
 - [Networking](networking.md) TODO
-- [Load Balancing](load-balancing.md) TODO
-  - [HAProxy](haproxy.md)
 - [Cisco](cisco.md) TODO
 - [Juniper](juniper.md) TODO
 - [Foundry](foundry.md) TODO
@@ -397,6 +395,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 ### Load Balancing
 
+- [Load Balancing](load-balancing.md) TODO
 - [HAProxy](haproxy.md)
 - [F5](f5.md)
 
