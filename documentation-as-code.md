@@ -36,7 +36,11 @@ pushes.
 
 ### Syntax Highlighting
 
-Put a language name immediately after the first triple backticks then you get syntax highlighting
+Put a language name immediately after the first triple backticks then you get syntax highlighting eg.
+
+````
+```groovy
+````
 
 Compare the readability of this:
 
