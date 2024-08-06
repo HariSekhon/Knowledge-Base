@@ -356,6 +356,10 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [InfluxDB](influxdb.md)
   - [Kapacitor](kapacitor.md)
 
+### Visualization
+
+- [Tableau](tableau.md)
+
 ### Performance Engineering
 
 - [Performance Engineering](performance.md)
