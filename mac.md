@@ -23,6 +23,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Flush the DNS Cache](#flush-the-dns-cache)
   - [Set DNS Servers](#set-dns-servers)
   - [Set DNS Search Domain](#set-dns-search-domain)
+  - [Set Hostname](#set-hostname)
   - [Get Current Wifi Network Name](#get-current-wifi-network-name)
   - [Say - text-to-speech](#say---text-to-speech)
   - [Finding Files - Spotlight Search and Index Management](#finding-files---spotlight-search-and-index-management)
