@@ -32,6 +32,36 @@ List loaded keys:
 ssh-add -l
 ```
 
+### SSH Config
+
+Make it fast and easy
+to connect to SSH servers which have long names or only IP addresses without having to remember them:
+
+```sshconfig
+cat >> ~/.ssh/config <<EOF
+Host myhost
+  TCPKeepAlive yes
+  ServerAliveInterval 300
+  HostName x.x.x.x
+  IdentityFile ~/.ssh/id_rsa
+  User hari
+EOF
+```
+
+or to specify `User ec2-user` and the key pair generated at EC2 VM creation time, to use different user accounts and
+keys for different servers:
+
+```sshconfig
+cat >> ~/.ssh/config <<EOF
+Host myhost
+  TCPKeepAlive yes
+  ServerAliveInterval 300
+  HostName x.x.x.x
+  IdentityFile ~/.ssh/ec2-user.pem
+  User ec2-user
+EOF
+```
+
 ### X Forwarding
 
 ```shell
