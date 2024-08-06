@@ -29,7 +29,7 @@ MAKEFLAGS = -j1
 default:
 	$(MAKE) build
 	@echo
-	$(MAKE) push
+	@#$(MAKE) push
 
 build: init
 	@echo ====================
