@@ -211,6 +211,23 @@ sudo networksetup -setsearchdomains en0 "Empty"
 
 or `clear_dns_search` function in [DevOps-Bash-tools](devops-bash-tools.md) to do this for all interfaces.
 
+### Set Hostname
+
+```shell
+hostname=whitestar
+```
+```shell
+sudo scutil --set HostName      "$hostname"
+sudo scutil --set ComputerName  "$hostname"
+sudo scutil --set LocalHostName "$hostname"
+```
+
+```shell
+scutil --get HostName
+scutil --get ComputerName
+scutil --get LocalHostName
+```
+
 ### Get Current Wifi Network Name
 
 ```shell
