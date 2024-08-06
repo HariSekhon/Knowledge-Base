@@ -210,6 +210,12 @@ sudo networksetup -setsearchdomains en0 "Empty"
 
 or `clear_dns_search` function in [DevOps-Bash-tools](devops-bash-tools.md) to do this for all interfaces.
 
+### Get Current Wifi Network Name
+
+```shell
+networksetup -getairportnetwork en0 | awk -F': ' '{print $2}'
+```
+
 ### Say - text-to-speech
 
 Make your Mac speak. I use this to impress the kids, or even send a message from my study to my living room computer
