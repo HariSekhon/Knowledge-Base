@@ -670,7 +670,7 @@ git submodule update --init --recursive
 ### Get the Default Branch
 
 ```shell
-git config --get init.defaultBranch
+git symbolic-ref refs/remotes/origin/HEAD | sed 's|.*/||'
 ```
 
 ### Get Current Branch
