@@ -217,7 +217,9 @@ or `clear_dns_search` function in [DevOps-Bash-tools](devops-bash-tools.md) to d
 ```shell
 hostname=whitestar
 ```
+
 ```shell
+sudo hostname "$hostname"
 sudo scutil --set HostName      "$hostname"
 sudo scutil --set ComputerName  "$hostname"
 sudo scutil --set LocalHostName "$hostname"
