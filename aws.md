@@ -201,7 +201,7 @@ sudo chmod 1777 /tmp
 
 <https://docs.aws.amazon.com/ebs/latest/userguide/recognize-expanded-volume-linux.html>
 
-Check the partition sizes in the EC2 VM:
+Check the partition sizes by running this inside the EC2 VM shell:
 
 ```shell
 lsblk
@@ -269,6 +269,12 @@ aws ec2 describe-volumes-modifications --volume-ids "$volume_id"
 
 ### Inside the EC2 VM - grow the partition and extend the filesystem
 
+Double check which partition you want to enlarge by running this inside the EC2 VM shell:
+
+```shell
+lsblk
+```
+
 If the partition is number 4, then
 
 ```shell
@@ -299,7 +305,7 @@ If it's Ext4, extend the filesystem like so:
 sudo resize2fs /dev/nvme0n1p4
 ```
 
-If it's XFS, extend the filesystem like so, in this case the `/` root filesystem:
+If it's XFS, extend the filesystem like so, in this case for the `/` root filesystem:
 
 ```shell
 sudo xfs_growfs -d /
