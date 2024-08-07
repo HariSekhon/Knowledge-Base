@@ -15,6 +15,22 @@ repo's home page - put links in it to your other markdown `*.md` doc files in yo
 
 ## Markdown Best Practices
 
+### URL Handling
+
+It's important not to put a bare URL because they won't by hyperlinked in some systems like [MKDocs](mkdocs.md).
+
+Use a text hyperlink:
+
+```markdown
+[Some Text](https://my.domain.com/path)
+```
+
+or if you want to show the URL:
+
+```markdown
+<https://my.domain.com/path>
+```
+
 ### Code Blocks vs Inline Code
 
 Use triple backticks on separate lines to create code blocks and put a language attribute immediately after the opening
@@ -38,7 +54,7 @@ pushes.
 
 Put a language name immediately after the first triple backticks then you get syntax highlighting eg.
 
-````
+````markdown
 ```groovy
 ````
 
