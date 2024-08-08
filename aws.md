@@ -34,6 +34,8 @@ See [eks.md](eks.md)
 
 <https://instances.vantage.sh/>
 
+<https://aws.amazon.com/ec2/pricing/on-demand/>
+
 DO NOT USE T-series (T3 / T2) **burstable** general instances types for anything besides your own personal PoC.
 
 They can seize up under heavy load and are not recommended for any production workloads.
