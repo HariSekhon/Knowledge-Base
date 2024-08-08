@@ -83,7 +83,11 @@ https://k6.io/
 [HariSekhon/Templates - k6.js](https://github.com/HariSekhon/Templates/blob/master/k6.js)
 
 ```shell
-k6 run $templates/k6.js
+wget -nc https://raw.githubusercontent.com/HariSekhon/Templates/master/k6.js
+```
+
+```shell
+k6 run k6.js
 ```
 
 ## Hadoop TestDFSIO
