@@ -18,6 +18,10 @@ Copy to root of GitHub repo and edit:
 
 [.travis.yml](https://github.com/HariSekhon/Templates/blob/master/.travis.yml)
 
+```shell
+wget -nc -O https://raw.githubusercontent.com/HariSekhon/Templates/master/.travis.yml
+```
+
 ### Online Config Validator
 
 Paste `.travis.yml` config in this online validator to see parsing and job matrix:
@@ -42,6 +46,12 @@ Config I used for CCMenu on Mac for several years to monitor my GitHub repos:
 
 [CCMenu.plist](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/Library/Containers/net.sourceforge.cruisecontrol.CCMenu/Data/Library/Preferences/net.sourceforge.cruisecontrol.CCMenu.plist)
 
+```shell
+mkdir -p -v ~/Library/Containers/net.sourceforge.cruisecontrol.CCMenu/Data/Library/Preferences/
+
+wget -nc -O ~/Library/Containers/net.sourceforge.cruisecontrol.CCMenu/Data/Library/Preferences/net.sourceforge.cruisecontrol.CCMenu.plist \
+      https://raw.githubusercontent.com/HariSekhon/DevOps-Bash-tools/master/Library/Containers/net.sourceforge.cruisecontrol.CCMenu/Data/Library/Preferences/net.sourceforge.cruisecontrol.CCMenu.plist
+```
 
 ### Travis CI CLI
 
