@@ -438,10 +438,14 @@ on port 8080:
 
 ```shell
 mkdir -p -v /tmp/serve-kickstart &&
-cp -v kickstart.cfg /tmp/serve-kickstart/ &&
+
 cd /tmp/serve-kickstart &&
 
-python -m SimpleHTTPServer
+wget -nc https://raw.githubusercontent.com/HariSekhon/Templates/master/anaconda-ks.cfg &&
+
+python -m SimpleHTTPServer ||
+
+python -m http.server
 ```
 
 ### Kickstart Template
@@ -451,7 +455,7 @@ at `/root/anaconda-ks.cfg`. You can use this as a starting point,
 
 Or you can use this template with some additional tips:
 
-[HariSekhon/Templates - kickstart.cfg](https://github.com/HariSekhon/Templates/blob/master/kickstart.cfg)
+[HariSekhon/Templates - anaconda-ks.cfg](https://github.com/HariSekhon/Templates/blob/master/anaconda-ks.cfg)
 
 or the real kickstart config used in the Packer repo below.
 
