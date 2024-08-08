@@ -461,6 +461,8 @@ or the real kickstart config used in the Packer repo below.
 
 ### HashiCorp Packer + Kickstart Config
 
+[HariSekhon/Packer-templates](https://github.com/HariSekhon/Packer-templates)
+
 Packer builds fully automated Virtual Machine golden templates from which to clone virtual machines by booting the
 Redhat Anaconda installer medium with a Kickstart config.
 
