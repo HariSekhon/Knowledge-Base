@@ -28,6 +28,16 @@ depending on if you're using SSO or access keys etc.
 See [eks.md](eks.md)
 
 
+## EC2 Instances
+
+<http://aws.amazon.com/ec2/instance-types/>
+
+<https://instances.vantage.sh/>
+
+DO NOT USE T-series (T3 / T2) **burstable** general instances types for anything besides your own personal PoC.
+
+They can seize up under heavy load and are not recommended for any production workloads.
+
 ## Add an EC2 EBS volume
 
 This can also be useful for temporary space increases, eg. add a big `/tmp` partition to allow some
@@ -362,5 +372,13 @@ aws rds modify-db-instance \
     --db-instance-identifier "$RDS_INSTANCE" \
     --master-user-password "MyNewVerySecurePassword"
 ```
+
+## Troubleshooting
+
+### EC2 VM becomes unresponsive and cannot SSH under high loads
+
+Make sure you are not using T-series (T3 / T2) **burstable** general purpose instance types.
+
+Change to another instance type if you are.
 
 ###### Partial port from private Knowledge Base page 2012+
