@@ -101,6 +101,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [GitLab](gitlab.md)
 - [Azure DevOps](azure-devops.md) TODO
 - [Bitbucket](bitbucket.md) TODO
+- [Pre-Commit](pre-commit.md)
 
 ### Cloud
 
