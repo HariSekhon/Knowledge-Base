@@ -6,8 +6,14 @@ https://www.mkdocs.org/user-guide/writing-your-docs/
 
 Markdown is expected in top-level `docs/` dir, with `docs/index.md` being the home page.
 
+## MkDocs Brittleness
+
+Some things that render fine in Markdown break in MKDocs:
+
 - bare URLs are links on GitHub READMEs but not in MKDocs generated pages
   - Enclose them in `<` and `>` to make sure they become links
+- a stray backtick on a triple backticks code block, such as a quadruple backticks closing will break formatting in
+  MKDocs but work fine in [IntelliJ](intellij.md) local rendering
 
 ### Install
 
