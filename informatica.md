@@ -347,7 +347,13 @@ In this case do a full graceful restart as per above to solve it.
 
 ### Vertica ODBC Connector Error
 
-You may be forgiven for thinking the `Connection refused` part of the below error is caused by your Vertica DB being
+```
+The connection test failed because of the following error: Can't find resource for bundle java.util.PropertyResourceBundle, key Error establishing socket to host and port, Reason: Connection refused.; nested exception is:
+
+com.informatica.saas.common.exception.SaasException: Can't find resource for bundle java.util.PropertyResourceBundle, key Error establishing socket to host and port, Reason: Connection refused.
+```
+
+You may be forgiven for thinking the `Connection refused` part in the above error is caused by your Vertica DB being
 down.
 
 However, another clue is in ` Can't find resource for bundle java.util.PropertyResourceBundle`.
@@ -355,12 +361,6 @@ However, another clue is in ` Can't find resource for bundle java.util.PropertyR
 Check the disk space isn't full (see further down).
 
 A simple secure agent restart fixes this issue.
-
-```
-The connection test failed because of the following error: Can't find resource for bundle java.util.PropertyResourceBundle, key Error establishing socket to host and port, Reason: Connection refused.; nested exception is:
-
-com.informatica.saas.common.exception.SaasException: Can't find resource for bundle java.util.PropertyResourceBundle, key Error establishing socket to host and port, Reason: Connection refused.
-```
 
 ### Disk Space
 
