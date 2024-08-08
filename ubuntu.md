@@ -69,11 +69,16 @@ on port 8080:
 
 ```shell
 mkdir -p -v /tmp/serve-autoinstall &&
-cp -v autoinstall-user-data /tmp/serve-autoinstall/user-data &&
-touch /tmp/serve-autoinstall/meta-data &&
+
 cd /tmp/serve-autoinstall &&
 
-python -m SimpleHTTPServer
+wget -nc -O user-data https://raw.githubusercontent.com/HariSekhon/Templates/master/autoinstall-user-data &&
+
+touch meta-data &&
+
+python -m SimpleHTTPServer ||
+
+python3 -m http.server
 ```
 
 ### Autoinstall Template
