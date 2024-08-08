@@ -85,7 +85,13 @@ python3 -m http.server
 
 [HariSekhon/Templates - autoinstall-user-data](https://github.com/HariSekhon/Templates/blob/master/autoinstall-user-data)
 
+```shell
+wget -nc -O user-data https://raw.githubusercontent.com/HariSekhon/Templates/master/autoinstall-user-data
+```
+
 ### HashiCorp Packer + Autoinstall Config
+
+[HariSekhon/Packer-templates](https://github.com/HariSekhon/Packer-templates)
 
 Packer builds fully automated Virtual Machine golden templates from which to clone virtual machines by booting
 the Ubuntu installer medium with an Autoinstall config.
