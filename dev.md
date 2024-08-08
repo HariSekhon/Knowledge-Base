@@ -44,3 +44,5 @@ See [Atlassian](atlassian.md) page.
   - green (ok), yellow (behind latest stable), red (behind on security fixes)
   - CLI - https://github.com/gemnasium/toolbelt
   - Enterprise on-prem version
+
+###### Ported from private Knowledge Base page 2016+
