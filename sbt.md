@@ -26,6 +26,10 @@ The build configuration file of what dependencies to include.
 
 [HariSekhon/Templates - build.sbt](https://github.com/HariSekhon/Templates/blob/master/build.sbt)
 
+```shell
+wget -nc https://raw.githubusercontent.com/HariSekhon/Templates/master/build.sbt
+```
+
 ## Usage
 
 ```shell
