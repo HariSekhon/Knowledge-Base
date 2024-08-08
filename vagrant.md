@@ -19,6 +19,10 @@ software. Used this at [Cloudera](https://cloudera.com) a lot.
 
 [HariSekhon/Templates - Vagrantfile](https://github.com/HariSekhon/Templates/blob/master/Vagrantfile)
 
+```shell
+wget -nc https://raw.githubusercontent.com/HariSekhon/Templates/master/Vagrantfile
+```
+
 ## Official Boxes
 
 https://app.vagrantup.com/boxes/search
