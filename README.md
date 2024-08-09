@@ -97,10 +97,12 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 ### Git
 
 - [Git](git.md)
-- [GitHub](github.md) TODO
-- [GitLab](gitlab.md)
-- [Azure DevOps](azure-devops.md) TODO
-- [Bitbucket](bitbucket.md) TODO
+  - [Git Workflow Branching Strategies](git-workflow-branching-strategies.md)
+- Git Repo Hosting Providers:
+  - [GitHub](github.md) TODO
+  - [GitLab](gitlab.md)
+  - [Azure DevOps](azure-devops.md) TODO
+  - [Bitbucket](bitbucket.md) TODO
 - [Pre-Commit](pre-commit.md)
 
 ### Cloud
