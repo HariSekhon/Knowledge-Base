@@ -20,7 +20,7 @@ Media file analysis, editing, transcoding and conversions.
 
 [medium.com](medium.md) doesn't support using newer webp format images on the site so you need to convert them first:
 
-Install dwebp, on Mac:
+On Mac, install the `dwebp` [homebrew](brew.md) package:
 
 ```shell
 brew install webp
