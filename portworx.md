@@ -93,4 +93,3 @@ pxctl status
 ```shell
 kubectl get storagecluster -n "$PORTWORX_NAMESPACE"
 ```
-
