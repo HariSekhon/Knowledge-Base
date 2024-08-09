@@ -50,6 +50,21 @@ direnv edit
 
 [.envrc](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc)
 
+### Python
+
+Since recent versions of pip on Macs don't like to let you install packages to the system python any more,
+you really need to keep a virtualenv activated all the times for your personal tools and scripts.
+
+Create your Python virtual:
+
+```shell
+virtualenv ~/venv
+```
+
+Then use this `.envrc` to keep it automatically activated:
+
+[.envrc-python](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc-python)
+
 ### AWS
 
 [.envrc-aws](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc-aws)
