@@ -1,17 +1,24 @@
 # Git Workflow Branching Strategies
 
+- [GitHub Flow - Simplest](#github-flow---simplest)
+- [GitLab Flow](#gitlab-flow)
+- [Gitflow - Most Complicated](#gitflow---most-complicated)
+- [Great Tips](#great-tips)
+- [Environment Branching Strategy](#environment-branching-strategy)
+- [GitHub Flow with Jira ticket integration](#github-flow-with-jira-ticket-integration)
+- [Git - why you shouldn't use long-lived feature branches](#git---why-you-shouldnt-use-long-lived-feature-branches)
 
-### GitHub Flow - Simplest
+## GitHub Flow - Simplest
 
 Best for personal projects
 
 https://guides.github.com/introduction/flow/
 
-### GitLab Flow
+## GitLab Flow
 
 https://docs.gitlab.com/ee/topics/gitlab_flow.html
 
-### Gitflow - Most Complicated
+## Gitflow - Most Complicated
 
 Best for legacy versioned software maintaining minor and patches semver versioning
 
@@ -19,7 +26,7 @@ https://datasift.github.io/gitflow/IntroducingGitFlow.html
 
 https://nvie.com/posts/a-successful-git-branching-model/
 
-### Great Tips
+## Great Tips
 
 https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops
 
@@ -124,7 +131,7 @@ gitGraph
 Note: I did eventually move this client to tagged releases using `YYYY.NN` release format, just incrementing `NN` which is a no brainer ([githubNextRelease.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/githubNextRelease.groovy)). It turns out the developers had eventually started using releases in Jira labelled as `YYYY.NN` to track which tickets were going into which production deployment, so when I pushed for this, it made sense to them finally as not being too great an inconvenience! It's also easy to automate by creating GitHub Releases in Jenkins ([githubCreateRelease.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/githubCreateRelease.groovy)).
 
 
-### GitHub Flow with Jira ticket integration
+## GitHub Flow with Jira ticket integration
 
 Prefix Git branches with Jira ticket numbers in Jira's `AA-NNN` format for GitHub Pull Requests to automatically appear in Jira tickets (see this [doc](https://support.atlassian.com/jira-cloud-administration/docs/integrate-with-github/)):
 
@@ -157,7 +164,7 @@ gitGraph
 ```
 
 
-### Git - why you shouldn't use long-lived feature branches
+## Why you shouldn't use long-lived feature branches
 
 \* [Environment Branches](#environment-branching-strategy) may be one of the few exceptions but requires workflow discipline.
 
