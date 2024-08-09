@@ -383,4 +383,43 @@ Make sure you are not using T-series (T3 / T2) **burstable** general purpose ins
 
 Change to another instance type if you are.
 
+### RDS Write Stops Working due to Status `Storage Full`
+
+When `Status` becomes `Storage Full` on the RDS home page the DB instance writes stop working due to no space to
+write DB redo logs for ACID compliance. Reads may still work during this time.
+
+Solution: Ensure `Enable storage autoscaling` is ticked and modify the instance to increase the
+`Maximum Storage Threshold` by a reasonable amount, no less than 20%.
+
+### EKS Spot - App fails to connect to DB due to race condition with Vault pod not being up yet
+
+After EKS Spot pod migrations, the app pod sometimes comes up before the [Vault](vault.md) pod comes up so its
+attempt to get the DB password from Vault fails and results in a blank DB password and later DB connection error.
+
+In a Python Django app it may remain up but not functioning and its logs may contain Python tracebacks like this:
+
+```Python
+MySQldb._exceptions.OperationalError: (1045, "Access denied for user 'myuser'@'x.x.x.x' (using password: YES)")
+```
+
+#### Quick workaround
+
+Restart the app deployment to restart the pod after the Vault pod has come up so that the
+pod re-fetches the correct DB password from Vault.
+
+```
+kubectl rollout restart deployment <app>
+```
+
+#### Solutions
+
+1. Create an init container to accurately test for Vault availability before allowing the app pod to come up
+   1. This can test Vault availability
+   1. It can fetch DB password similar to what the app container does
+   1. It can test that the fetched DB password actually works using a test connection to the DB
+1. The App itself could crash upon startup detection that the DB connection fails to cause the pod to crash and
+   auto-restart until the DB password is fetched and connected successfully
+   1. The DB connection and implicitly the Vault password load could be tested by the entrypoint trying to connect
+      to the DB before starting the app
+
 ###### Partial port from private Knowledge Base page 2012+
