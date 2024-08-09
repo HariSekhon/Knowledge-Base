@@ -10,7 +10,7 @@
 
 ## GitHub Flow - Simplest
 
-Best for personal projects
+Best for personal projects.
 
 https://guides.github.com/introduction/flow/
 
@@ -20,7 +20,7 @@ https://docs.gitlab.com/ee/topics/gitlab_flow.html
 
 ## Gitflow - Most Complicated
 
-Best for legacy versioned software maintaining minor and patches semver versioning
+Best for legacy versioned software maintaining minor and patches semver versioning.
 
 https://datasift.github.io/gitflow/IntroducingGitFlow.html
 
