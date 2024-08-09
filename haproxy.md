@@ -16,14 +16,6 @@ HAProxy configurations for many common open source technologies are readily avai
 
 [HariSekhon/HAProxy-configs](https://github.com/HariSekhon/HAProxy-configs)
 
-## Global Config
-
-<https://github.com/HariSekhon/HAProxy-configs/blob/master/10-global.cfg>
-
-## Stats
-
-<https://github.com/HariSekhon/HAProxy-configs/blob/master/20-stats.cfg>
-
 #### Affinity vs Persistence:
 
 - Affinity    - uses info below the L7 application layer to maintain a client request to a server eg. source IP
@@ -154,6 +146,15 @@ sysctl -p
 Stats - Idle %
 CLI   - Idle-pct
 echo "show info" | socat /var/run/haproxy.sock | grep '^Idle'
+
+## Global Config
+
+<https://github.com/HariSekhon/HAProxy-configs/blob/master/10-global.cfg>
+
+## Stats
+
+<https://github.com/HariSekhon/HAProxy-configs/blob/master/20-stats.cfg>
+
 
 ## haproxy.cfg
 
