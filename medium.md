@@ -8,6 +8,26 @@ Here is mine:
 
 https://medium.com/@harisekhon
 
+## Keyboard Shortcuts
+
+| Action            | Mac                     | Windows                    |
+|-------------------|-------------------------|----------------------------|
+| Shortcuts help    | `⌘ + ?`                 | `Ctrl + ?`                 |
+| Bold              | `⌘ + B`                 | `Ctrl + B`                 |
+| Italic            | `⌘ + I`                 | `Ctrl + I`                 |
+| Link              | `⌘ + K`                 | `Ctrl + K`                 |
+| Header            | `⌘ + Opt + 1`           | `Ctrl + Alt + 1`           |
+| Subheader         | `⌘ + Opt + 2`           | `Ctrl + Alt + 2`           |
+| Separator         | `⌘ + Enter`             | `Ctrl + Enter`             |
+| Inline code       | ``` ` ```               | ``` ` ```                  |
+| Code block        | `⌘ + Opt + 6` / ` ``` ` | `Ctrl + Alt + 6` / ` ``` ` |
+| Bullet-point list | `* + Space`             | `* + Space`                |
+| Numbered list     | `1. + Space`            | `1. + Space`               |
+| Quote             | `⌘ + Opt + 5`           | `Ctrl + Alt + 5`           |
+| Featured Image    | `Shift + F`             | `Shift + F`                |
+| Focal point       | `Opt + Right-click`     | `Alt + Right-click`        |
+| Mention a user    | `@username` / `@name`   | `@username` / `@name`      |
+
 ## Convert WebP Images to PNG format
 
 Medium doesn't accept modern `webp` format images.
@@ -34,23 +54,3 @@ webp_to_png "$name.webp"
 
 This function adds safety to not overwrite the destination file if it already exists because `dwebp` will blindly
 overwrite the `-o outfile`.
-
-## Keyboard Shortcuts
-
-| Action            | Mac                     | Windows                    |
-|-------------------|-------------------------|----------------------------|
-| Shortcuts help    | `⌘ + ?`                 | `Ctrl + ?`                 |
-| Bold              | `⌘ + B`                 | `Ctrl + B`                 |
-| Italic            | `⌘ + I`                 | `Ctrl + I`                 |
-| Link              | `⌘ + K`                 | `Ctrl + K`                 |
-| Header            | `⌘ + Opt + 1`           | `Ctrl + Alt + 1`           |
-| Subheader         | `⌘ + Opt + 2`           | `Ctrl + Alt + 2`           |
-| Separator         | `⌘ + Enter`             | `Ctrl + Enter`             |
-| Inline code       | ``` ` ```               | ``` ` ```                  |
-| Code block        | `⌘ + Opt + 6` / ` ``` ` | `Ctrl + Alt + 6` / ` ``` ` |
-| Bullet-point list | `* + Space`             | `* + Space`                |
-| Numbered list     | `1. + Space`            | `1. + Space`               |
-| Quote             | `⌘ + Opt + 5`           | `Ctrl + Alt + 5`           |
-| Featured Image    | `Shift + F`             | `Shift + F`                |
-| Focal point       | `Opt + Right-click`     | `Alt + Right-click`        |
-| Mention a user    | `@username` / `@name`   | `@username` / `@name`      |
