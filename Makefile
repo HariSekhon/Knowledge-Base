@@ -41,7 +41,15 @@ build: init
 	@$(MAKE) index
 	@$(MAKE) mdl
 	@$(MAKE) references
+	@echo
+	@#$(MAKE) pre-commit
 	@echo "All Checks Passed"
+
+pre-commit:
+	pre-commit run --all
+
+precommit: pre-commit
+	@:
 
 mdl:
 	@echo "Checking Markdown for issues"
