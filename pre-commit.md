@@ -34,6 +34,9 @@ pre-commit install
 
 which creates a script `.git/hooks/pre-commit`.
 
+All my [direnv](direnv.md) `.envrc` files detect if `pre-commit` is installed and automatically
+install the [Git](git.md) hooks as soon as you `cd` in to a git repo.
+
 ### Config
 
 Create a `.pre-commit-config.yaml` at the root of your Git repo.
