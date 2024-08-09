@@ -8,6 +8,33 @@ Here is mine:
 
 https://medium.com/@harisekhon
 
+## Convert WebP Images to PNG format
+
+Medium doesn't accept modern `webp` format images.
+
+You must convert them to `jpg` or `png` format.
+
+On Mac, install the `dwebp` [homebrew](brew.md) package:
+
+```shell
+brew install webp
+```
+
+Convert the image:
+
+```shell
+dwebp "$name.webp" -o "$name.png"
+```
+
+or shorter and safer using function in [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+```shell
+webp_to_png "$name.webp"
+```
+
+This function adds safety to not overwrite the destination file if it already exists because `dwebp` will blindly
+overwrite the `-o outfile`.
+
 ## Keyboard Shortcuts
 
 | Action            | Mac                     | Windows                    |
