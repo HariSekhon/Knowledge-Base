@@ -30,7 +30,99 @@ This is an unofficial strategy that I've seen used in the real world because it'
 It's basically the [GitHub Flow](#github-flow---simplest) strategy
 except you have a branch for each of your 3 environments - Dev, Staging and Production.
 
-TODO: Mermaid Diagram
+Not everybody likes environment branches, but they worked in production for over 2 years and they are easy to use.
+
+At least they don't [only test in Production](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#devs-test-in-production)!
+
+Another internet facing client refused to use tagging because they didn't want to have to think up version or release numbers for their website releases.
+
+
+Also, contrary to some naysayers it's quite easy to diff environment branches as everything should be in Git, so you can get a very quick and easy difference between your environments in a single `git diff` command. It's also easy to automate backporting hotfixes to lower environments:
+
+- GitHub repo: [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkin)
+  - [gitMerge.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/gitMerge.groovy)
+  - [gitMergePipeline.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/gitMergePipeline.groovy)
+
+```mermaid
+%%{ init: {
+        "logLevel": "debug",
+        "theme": "dark",
+        "gitGraph": {
+            "mainBranchName": "dev"
+        },
+        "themeVariables": {
+            "git0": "red",
+            "git1": "blue ",
+            "git2": "green",
+            "gitInv0": "#FFFFFF",
+            "gitBranchLabel0": "#FFFFFF",
+            "commitLabelColor": "#FFFFFF"
+        }
+    }
+}%%
+
+gitGraph
+    branch staging
+    branch production
+
+    checkout dev
+    commit id: "commit 1"
+
+    checkout staging
+    commit id: "QA fix 1 "
+
+    checkout production
+    commit id: "hotfix commit"
+
+    checkout dev
+    commit id: "commit 2"
+
+    checkout staging
+    merge dev id: "fast-forward merge" tag: "CI/CD + QA Tests"
+
+    checkout production
+    merge staging id: "fast-forward merge " tag: "v2023.1 Release (CI/CD)"
+
+
+    checkout dev
+    commit id: "commit 3"
+
+    checkout staging
+    commit id: "QA fix 2 "
+
+    #checkout production
+    #commit id: "commit 3  "
+
+    checkout dev
+    commit id: "commit 4"
+
+    checkout staging
+    merge dev id: "fast-forward merge 2" tag: "CI/CD + QA Tests"
+
+    checkout production
+    merge staging id: "fast-forward merge 2 " tag: "v2023.2 Release (CI/CD)"
+
+
+    checkout dev
+    commit id: "commit 5"
+
+    checkout staging
+    commit id: "QA fix 3 "
+
+    #checkout production
+    #commit id: "commit 5  "
+
+    checkout dev
+    commit id: "commit 6"
+
+    checkout staging
+    merge dev id: "fast-forward merge 3" tag: "CI/CD + QA Tests"
+
+    checkout production
+    merge staging id: "fast-forward merge 3 " tag: "v2023.3 Release (CI/CD)"
+```
+Note: I did eventually move this client to tagged releases using `YYYY.NN` release format, just incrementing `NN` which is a no brainer ([githubNextRelease.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/githubNextRelease.groovy)). It turns out the developers had eventually started using releases in Jira labelled as `YYYY.NN` to track which tickets were going into which production deployment, so when I pushed for this, it made sense to them finally as not being too great an inconvenience! It's also easy to automate by creating GitHub Releases in Jenkins ([githubCreateRelease.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/githubCreateRelease.groovy)).
+
 
 ### GitHub Flow with Jira ticket integration
 
@@ -67,7 +159,7 @@ gitGraph
 
 ### Git - why you shouldn't use long-lived feature branches
 
-\* [Environment Branches](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#git---environment-branches) may be one of the few exceptions but requires workflow discipline.
+\* [Environment Branches](#environment-branching-strategy) may be one of the few exceptions but requires workflow discipline.
 
 See Also: 100+ scripts for Git and the major Git repo providers like GitHub, GitLab, Bitbucket, Azure DevOps in my [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo.
 
