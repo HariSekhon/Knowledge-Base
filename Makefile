@@ -65,3 +65,6 @@ init:
 	@echo "running init:"
 	git submodule update --init --recursive
 	@echo
+
+push: build
+	@:
