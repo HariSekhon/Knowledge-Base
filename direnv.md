@@ -46,7 +46,7 @@ direnv edit
 
 ## Advanced Examples
 
-### General - Ansible, Cloudflare, Docker, GitHub, Terraform
+### General - Ansible, Cloudflare, Docker, GitHub, Pre-Commit
 
 [.envrc](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.envrc)
 
