@@ -337,6 +337,17 @@ and check the thresholds (defaults: 90% of Disk Space / CPU / RAM for 30 minutes
 
 You won't be able to see local users until they have activated their accounts via email invitation.
 
+### Job Monitoring
+
+Go to the UI applet `Monitor`.
+
+It will show you a list of `Running Jobs`.
+
+In the left-pane, you can select `All Jobs` to see past jobs that have failed.
+
+You can type `failed` in the top right search box and re-run failed jobs from the icon to the right
+end of the job row.
+
 ## Support
 
 Informatica Support URL:
