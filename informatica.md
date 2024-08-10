@@ -220,6 +220,14 @@ In this section, for each configuration created the following key settings are c
 Two different Informatica Cloud environments can share the same EKS context but just specify different namespaces
 eg. `dev` or `prod`.
 
+#### WARNING: Informatica Agent automatically updates in the background and new versions enforce Kubernetes version checks which can break Kubernetes jobs
+
+This means that your working Kubernetes jobs can suddenly break when the informatica agent decides that it is not a
+supported version any more.
+
+For example if you're running 1.24 and then informatica agent enforces 1.27 - 1.29 versions, it will refuse to run
+any jobs.
+
 ## Connections - Sources and Destinations Integrations
 
 In the left panel under
