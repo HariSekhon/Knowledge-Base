@@ -39,6 +39,17 @@ which in my testing found different deprecated / removed API objects (see these 
 [#495](https://github.com/FairwindsOps/pluto/issues/495),
 and this [faq](https://pluto.docs.fairwinds.com/faq/#frequently-asked-questions)):
 
+If you're using [Helm](helm.md) or [Kustomize](kustomize.md) and want to test your Git repo configs for deprecated
+objects, run these scripts from the [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+```shell
+pluto_detect_helm_materialize.sh
+```
+
+```shell
+pluto_detect_kustomize_materialize.sh
+```
+
 ### PSP - Pod Security Policies
 
 <https://docs.aws.amazon.com/eks/latest/userguide/pod-security-policy-removal-faq.html>
