@@ -127,6 +127,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 ### Kubernetes
 
 - [Kubernetes](kubernetes.md)
+  - [Kubernetes Upgrades](kubernetes-upgrades.md)
 - [AWS EKS](eks.md) TODO
 - [GKE](gke.md) TODO
 - [AKS](aks.md) TODO
