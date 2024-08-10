@@ -45,9 +45,13 @@ and this [faq](https://pluto.docs.fairwinds.com/faq/#frequently-asked-questions)
 
 PSPs were removed in 1.25 and need to be migrated.
 
+Find PSPs installed
+
 ```shell
 kubectl get psp
 ```
+
+Check for pods which still use this annotation:
 
 ```shell
 kubectl get pod -A \
