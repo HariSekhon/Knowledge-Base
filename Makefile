@@ -75,4 +75,4 @@ init:
 	@echo
 
 push: build
-	@:
+	git push
