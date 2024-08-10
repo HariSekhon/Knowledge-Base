@@ -155,7 +155,6 @@ echo "show info" | socat /var/run/haproxy.sock | grep '^Idle'
 
 <https://github.com/HariSekhon/HAProxy-configs/blob/master/20-stats.cfg>
 
-
 ## haproxy.cfg
 
 haproxy.cfg:
@@ -215,8 +214,6 @@ inter 2s fastinter 2 downinter 2
 
 ## Health Checks
 
-Health Checks
-
 ```haproxy
 backend
 option          mysql-check
@@ -225,7 +222,6 @@ option          redis-check         # socket test PING -> +PONG
 option          ldap-check          # check server speaks LDAPv3
 option          smtpchk
 option          ssl-hello-check     # shallow SSLv3 hello - works without SSL being compile in - prefer check-ssl if compiled with SSL support
-```
 
     #################
     # XXX: Careful - can run this even on TCP ports (expecting output from inetd socket scripts) but very useful with port overrides to health check based on HTTP API status (see apache-drill.cfg in nagios-plugins repo)
@@ -307,6 +303,7 @@ server docker docker:80 check cookie s2
     # do not use 'prefix' with 'indirect' otherwise server cookie updates may not be passed back to client
     cookie JSESSIONID prefix nocache
     server docker docker:80 check cookie s1
+```
 
 Health Check Authentication:
 
@@ -317,7 +314,6 @@ echo -n "user:pass" | base64
 ```haproxy
 option httpchk GET / HTTP/1.0\r\nAuthorization:\ Basic\ <hash_from_above_command>
 ```
-
 
 ## DNS
 
