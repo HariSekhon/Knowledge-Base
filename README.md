@@ -433,6 +433,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 #### Old
 
 - [Mesos](mesos.md)
+- [Hazelcast](hazelcast.md)
 
 ## See Also
 
