@@ -34,8 +34,8 @@ pre-commit install
 
 which creates a script `.git/hooks/pre-commit`.
 
-All my [direnv](direnv.md) `.envrc` files automatically install `pre-commit` and
-also the pre-commit hooks to the local git repo checkout as soon as you `cd` in to the git checkout directory.
+All my [direnv](direnv.md) `.envrc` files automatically install `pre-commit` and the pre-commit hooks to the local git
+repo checkout as soon as you `cd` in to any git checkout directory.
 
 ### Config
 
