@@ -35,3 +35,7 @@ kubectl get pods --all-namespaces
 ```
 
 Then see [Kubernetes](kubernetes.md) page for configs, scripts and `.envrc`.
+
+## EKS Upgrades
+
+See the [Kubernetes Upgrades](kubernetes-upgrades.md) page.
