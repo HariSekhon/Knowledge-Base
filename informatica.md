@@ -189,13 +189,33 @@ See the agent startup/shutdown log here:
 less /home/ec2-user/infaagent/apps/agentcore/infaagent.log
 ```
 
-## Kubernetes Informatica Configuration
+### Kubernetes - Advanced Jobs
 
-Informatica configuration for Kubernetes is found under
-[Advanced Clusters](https://usw3.dm-us.informaticacloud.com/cloudUI/products/administer/main/advancedCluster)
-in the left pane, where the Kubernetes context and kubeconfig is configured (eg. `/home/ec2-user/.kube/config` and
-`arn:aws:eks:eu-west-1:123456789012:cluster/my-cluster`), kubernetes version, namespace, node-selector labels, min
-and max number of worker nodes etc.
+You can run jobs on Kubernetes - called Advanced Jobs.
+
+Informatica limits the number of jobs based on CPU cores so being able to
+scale on demand using Kubernetes balances cost and parallel processing performance eg.
+run 30 jobs in parallel or scale down to 0 when jobs are not running.
+
+Informatica has a serverless offering but it is more expensive.
+
+The Agent needs to be set up with the EKS context to reference in Informatica below.
+
+Kubernetes is configured in Informatica UI under the `Administration` portal applet -> `Advanced Clusters` in the
+left pane.
+
+In this section, for each configuration created the following key settings are configured:
+
+- EKS context - `arn:aws:eks:eu-west-1:123456789012:cluster/eks-my-cluster`
+- kubeconfig - `/home/ec2-user/.kube/config`
+- Cluster Version - `1.27`
+- Namespace - `prod`
+- Number of Worker Nodes - Min: `1`, Max: `5`
+- Cluster Idle Timeout - `10` minutes
+- Node Selector Labels - eg. key `nodegroup` value `jobs`
+
+Two different Informatica Cloud environments can share the same EKS context but just specify different namespaces
+eg. `dev` or `prod`.
 
 ## Connections - Sources and Destinations Integrations
 
