@@ -1,8 +1,10 @@
 # Gradle
 
+<https://gradle.org/>
+
 Newer JVM build system written in Groovy with a nicer build configuration file `build.gradle`.
 
-Good replacement for [Maven](maven.md)
+Good replacement for [Maven](maven.md).
 
 - good docs
 - good plugin support
