@@ -25,7 +25,7 @@ Use a text hyperlink:
 [Some Text](https://my.domain.com/path)
 ```
 
-or if you want to show the URL wrap it in `<` and `>` to ensure it becomes a URL in MKDocs:
+or if you want to show the URL wrap it in `<` and `>` to ensure it maintains compatibility to become a hyperlink:
 
 ```markdown
 <https://my.domain.com/path>
