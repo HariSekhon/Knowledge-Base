@@ -462,3 +462,24 @@ rmdir /tmp/* 2>/dev/null
 ```
 0 * * * * bash -c "find /tmp -type f -name 'insert*' -ctime +1 -o -type f -name 'upsert*' -ctime +1 -o -type f -path '/tmp/InfaS3Staging*' -ctime +1 2>/dev/null | xargs --no-run-if-empty rm -f; rmdir /tmp/* 2>/dev/null"
 ```
+
+### Kubernetes version error `K8s_10152`
+
+The Informatica Secure Agent automatically updates itself, and newer versions will enforce Kubernetes cluster
+version match.
+
+This error will manifest itself in `Mapping (Advanced Mode)` jobs that use Kubernetes with a job `Error Message` field
+like this:
+
+```
+WES_internal_error_Failed to start cluster for [01CLDB25000000000003]. Error reported while starting cluster [500 {"code":"CLUSTER.FAIL_operation_error","message":"Cluster CREATE failed due to the following error: Failed to perform cluster operation [ClusterOpCode.ERROR] due to error : [K8s_10152] The configured Kubernetes cluster version [Kubernet[truncated]. For more information about the failure, check the application log.If the problem persists, contact Informatica Global Customer Support.
+```
+
+**Quick workaround**: change the declared Kubernetes version in the `Advanced Clusters` -> `Advanced Configuration` ->
+`Cluster Version` field.
+
+This shouldn't really work if Informatica agent actually bothered to do a `kubectl version` check as the both the client
+and API server would report the other version, so expect this to break at some random point in the future when
+Informatica figures this out and the auto-updated agent gets new logic.
+
+**Solution**: actually upgrade the Kubernetes cluster to be one of the supported versions
