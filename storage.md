@@ -60,8 +60,8 @@ Usually used to improve performance and / or data safety redundancy by using mul
 Can be achieved with specialist hardware RAID cards or using software such as Linux
 [mdadm](https://en.wikipedia.org/wiki/Mdadm).
 
-In servers usually hardware RAID is used for reasons of performance offload and to hide the configuration from the
-operating system and therefore any chance of administrative software mistakes leading to data loss.
+In servers usually [hardware](hardware.md) RAID is used for reasons of performance offload and to hide the configuration
+from the operating system and therefore any chance of administrative software mistakes leading to data loss.
 
 Hardware RAID usually has local on-card cache and BBU - Battery Backup Unit - which is a battery that maintains the
 data in cache in event of a power outage taking down the server.
