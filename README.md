@@ -197,7 +197,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Build Systems](build-systems.md)
 - [Make](make.md)
 - [Maven](maven.md) TODO
-- [Gradle](gradle.md) TODO
+- [Gradle](gradle.md)
 - [SBT](sbt.md)
 
 ### Container Registries
@@ -391,7 +391,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 ### Hardware
 
 - [Hardware](hardware.md)
-- [Storage](storage.md) TODO
+- [Storage](storage.md)
 
 ### Networking
 
