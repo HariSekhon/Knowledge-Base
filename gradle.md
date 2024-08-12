@@ -91,7 +91,7 @@ plugins { id "org.standardout.versioneye" version "1.4.0" }
 `gradle.properties`:
 
 ```groovy
-versioneye.projectid=<long num from project page no spaces>
+versioneye.projectid=<long_num_from_project_page_no_spaces>
 ```
 ```shell
 gradle versionEyeUpdate
