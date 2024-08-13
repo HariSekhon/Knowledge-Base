@@ -31,11 +31,30 @@ and then type`snip` and enter.
 
 Once the Snipping Tool is up, click New and then drag a selection window and save it as a screenshot file to share.
 
+## MMCs
+
+Microsoft Management Consoles are UI utilities to administer the system.
+
+You can launch them from `Start` -> `Run` menu and typing their name which ends in `.msc`:
+
+| Command          | Name                                 | Description                                                                  |
+|------------------|--------------------------------------|------------------------------------------------------------------------------|
+| `compmgmt.msc`   | Computer Management                  | Comprehensive console with tools like Disk Management, Task Scheduler ...    |
+| `diskmgmt.msc`   | Disk Management                      | Manages disk drives and partitions                                           |
+| `taskschd.msc`   | Task Scheduler                       | Automates task execution based on specific conditions                        |
+| `services.msc`   | Services                             | Displays and manages all services installed on the system                    |
+| `devmgmt.msc`    | Device Manager                       | Interface to view and manage hardware devices installed on the computer      |
+| `dsa.msc`        | Active Directory Users and Computers | Manages users, computers, and objects in a domain                            |
+| `lusrmgr.msc`    | Local Users and Groups               | Manages local user accounts and groups                                       |
+| `gpedit.msc`     | Group Policy Management              | Centralized management environment for configuring Group Policy settings     |
+| `perfmon.msc`    | Performance Monitor                  | Monitors system performance, displaying real-time data about system usage    |
+| `eventvwr.msc`   | Event Viewer                         | Allows viewing and managing system, application, and security event logs     |
+
 ## Commands
 
 Show the current time:
 
-```shell
+```cmd
 time /t
 ```
 (without the `/t` switch it prompts to set a new time)
@@ -46,19 +65,19 @@ See [Networking](networking.md) doc.
 
 ### List Volumes
 
-```shell
+```cmd
 fsutil volume list | findstr :
 ```
 
 ### Get Free Disk Space on All Volumes
 
-```shell
+```cmd
 powershell "Get-PSDrive -PSProvider FileSystem | Select-Object Name, @{Name='FreeSpace(GB)';Expression={($_.Free/1GB).ToString('F2')}}, @{Name='UsedSpace(GB)';Expression={((($_.Used)/1GB).ToString('F2'))}}, @{Name='TotalSize(GB)';Expression={($_.Used+$_.Free/1GB).ToString('F2')}}"
 ```
 
 ### Disk Check Analysis
 
-```shell
+```cmd
 chkdsk c:
 ```
 
@@ -83,7 +102,7 @@ No further action is required.
 
 ### Find the location of a binary in the %PATH%
 
-```shell
+```cmd
 where bash
 ```
 
@@ -95,7 +114,7 @@ C:\Program Files\Git\bin\bash.exe
 
 ### List Disk Space
 
-```shell
+```cmd
 fsutil volume diskfree c:
 ```
 
@@ -103,24 +122,24 @@ fsutil volume diskfree c:
 
 Set owner of file administrator:
 
-```shell
+```cmd
 icacls "D:\test\test.txt" /setowner "administrator"
 ```
 
 Recursively change `/app` directory and its contents be readable by all users
 
-```shell
+```cmd
 icacls "D:\test\test.txt" /grant "users:(R)" /t
 ```
 
 Grant full control permission to administrator:
 
-```shell
+```cmd
 icacls "D:\test\test.txt" /grant "administrator:(F)"
 ```
 
 Grant read and execute to all users:
 
-```shell
+```cmd
 icacls "D:\test\test.txt" /grant "users:(RX)"
 ```
