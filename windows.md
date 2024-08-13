@@ -31,6 +31,25 @@ and then type`snip` and enter.
 
 Once the Snipping Tool is up, click New and then drag a selection window and save it as a screenshot file to share.
 
+## Start At Login
+
+To have any program start at login, such as Teams or Outlook to save you clicks
+(especially if you're starting new WVD sessions every day or every 4 hours):
+
+`Start` -> `Run`:
+
+This opens the Startup folder for your user account:
+
+```cmd
+shell:startup
+```
+
+Then just drag a shortcut of the app into that folder:
+
+eg. `Start` and drag the icon of the app over that Startup folder to create the shortcut.
+
+Test by logging out and back in.
+
 ## MMCs
 
 Microsoft Management Consoles are UI utilities to administer the system.
