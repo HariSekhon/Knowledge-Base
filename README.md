@@ -120,7 +120,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Docker](docker.md)
 - [Dockerfile](dockerfile.md) TODO
 - [Docker Compose](docker-compose.md)
-- [Docker Swarm](docker-swarm.md) TODO
+- [Docker Swarm](docker-swarm.md)
 - [Podman](podman.md)
 - [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) repo
 
