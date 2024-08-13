@@ -464,7 +464,17 @@ Then remove any empty directories under `/tmp` such as `/tmp/InfaS3Staging*` to 
 rmdir /tmp/* 2>/dev/null
 ```
 
-Add these two commands above to crontab without the `-v` switch to `rm` to avoid local mailbox notifications.
+Add these two commands above to the user's crontab that is running Informatica agent (eg. `ec2-user`) by running:
+
+```shell
+crontab -e
+```
+
+and pasting this line in:
+
+```none
+0 0 * * * find /tmp -type f -name 'insert*' -mtime +1 -o -type f -name 'upsert*' -mtime +1 -o -type f -name '*.tmp'   -mtime +1 -o -type f -name '*.azb'   -mtime +1 -o -type f -path '/tmp/InfaS3Staging*' -mtime +1 -exec rm -f {} \; 2>/dev/null ; rmdir /tmp/* 2>/dev/null
+```
 
 ### Log Disk Space Cleanup
 
