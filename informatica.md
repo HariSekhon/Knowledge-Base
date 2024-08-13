@@ -424,31 +424,38 @@ You can also add logrotate to automatically rotate and truncate this.
 
 Insert, Upsert, and `InfaS3Staging*/*` temp files are often a problem in `/tmp`.
 
+
 Find those temp files older than 1 day and consider deleting them:
 
 ```shell
-find /tmp -type f -name 'insert*' -ctime +1 -o \
-          -type f -name 'upsert*' -ctime +1 -o \
-          -type f -path '/tmp/InfaS3Staging*' -ctime +1 2>/dev/null |
+find /tmp -type f -name 'insert*' -mtime +1 -o \
+          -type f -name 'upsert*' -mtime +1 -o \
+          -type f -name '*.tmp'   -mtime +1 -o \
+          -type f -name '*.azb'   -mtime +1 -o \
+          -type f -path '/tmp/InfaS3Staging*' -mtime +1 2>/dev/null |
 xargs --no-run-if-empty du -cam | sort -k1n
 ```
 
 Verify they are really old by looking at their last timestamps:
 
 ```shell
-find /tmp -type f -name 'insert*' -ctime +1 -o \
-          -type f -name 'upsert*' -ctime +1 -o \
-          -type f -path '/tmp/InfaS3Staging*' -ctime +1 2>/dev/null |
+find /tmp -type f -name 'insert*' -mtime +1 -o \
+          -type f -name 'upsert*' -mtime +1 -o \
+          -type f -name '*.tmp'   -mtime +1 -o \
+          -type f -name '*.azb'   -mtime +1 -o \
+          -type f -path '/tmp/InfaS3Staging*' -mtime +1 2>/dev/null |
 xargs --no-run-if-empty ls -lhtr
 ```
 
 If you're happy to delete them as old stale files:
 
 ```shell
-find /tmp -type f -name 'insert*' -ctime +1 -o \
-          -type f -name 'upsert*' -ctime +1 -o \
-          -type f -path '/tmp/InfaS3Staging*' -ctime +1 2>/dev/null |
-xargs --no-run-if-empty rm -fv
+find /tmp -type f -name 'insert*' -mtime +1 -o \
+          -type f -name 'upsert*' -mtime +1 -o \
+          -type f -name '*.tmp'   -mtime +1 -o \
+          -type f -name '*.azb'   -mtime +1 -o \
+          -type f -path '/tmp/InfaS3Staging*' -mtime +1 \
+          -exec rm -f {} \; 2>/dev/null
 ```
 
 Then remove any empty directories under `/tmp` such as `/tmp/InfaS3Staging*` to clean up your view:
@@ -457,10 +464,20 @@ Then remove any empty directories under `/tmp` such as `/tmp/InfaS3Staging*` to 
 rmdir /tmp/* 2>/dev/null
 ```
 
-(add these two commands above to crontab without the `-v` switch to `rm` to avoid local mailbox notifications):
+Add these two commands above to crontab without the `-v` switch to `rm` to avoid local mailbox notifications.
 
+### Log Disk Space Cleanup
+
+On one production agent I found 111GB of logs under this path in over 18500 small files in the last 1 month retention:
+
+```none
+/home/ec2-user/infaagent/apps/Data_Integration_Server/logs
 ```
-0 * * * * bash -c "find /tmp -type f -name 'insert*' -ctime +1 -o -type f -name 'upsert*' -ctime +1 -o -type f -path '/tmp/InfaS3Staging*' -ctime +1 2>/dev/null | xargs --no-run-if-empty rm -f; rmdir /tmp/* 2>/dev/null"
+
+This cronjob solves this:
+
+```crontab
+0 0 * * * find /home/ec2-user/infaagent/apps/Data_Integration_Server/logs -name "*.log" -mtime +3 -exec rm {} \;
 ```
 
 ### Kubernetes version error `K8s_10152`
