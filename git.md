@@ -58,6 +58,10 @@ cd bash-tools
 make link
 ```
 
+## GitHub SSH Key SSO Authorization
+
+See [GitHub page - SSH Key SSO Authorization](github.md#github-ssh-key-sso-authorization)
+
 ## Git HTTPS Authentication
 
 Using HTTPS for `git clone` / `pull` / `push` are more likely to bypass egress content filters on wifi portals for those of you
