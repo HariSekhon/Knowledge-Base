@@ -94,3 +94,19 @@ echo "execute this command"
 ```shell
 echo execute this command
 ```
+
+## Link Team Support Numbers to WhatsApp Desktop
+
+Support mobile phone numbers should be created as WhatsApp links to allow one-click opening of chats in
+[WhatsApp Desktop](https://www.whatsapp.com/download)
+for convenience:
+
+```markdown
+[+44 0776 999 1234](https://wa.me/447769991234)
+```
+
+This is not my real number. Recruiters please do not call it.
+
+Also, if you have my real number, please do not call it.
+Always [LinkedIn](https://www.linkedin.com/in/HariSekhon) message me instead and read my profile's summary
+bullet point criteria - it'll give you nearly everything you need to know about my availability and preferences.
