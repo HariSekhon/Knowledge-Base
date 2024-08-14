@@ -74,3 +74,26 @@ See [Documentation-as-Code](documentation-as-code.md) page.
 ### IPAM - IP Address Management
 
 - [InfoBlox](https://www.infoblox.com/) - all-in-one IPAM management
+
+## Support Numbers
+
+Every team should maintain a Wiki or Git Readme markdown table of support numbers for the Primary,
+Secondary and, if exists, Tertiary supporters for each project or track.
+
+This should be bookmarked by every supporting team member and manager
+to reach out for help in case people are not in their ChatOps channels of Slack or Microsoft Teams during urgent
+production support requests (people have lives, go to lunch, sleep, holidays etc.)
+
+This also incentivizes people to thoroughly document all knowledge and commands needed to operate the technologies they
+have implemented or support so that they don't have to get calls during their free time...
+what free time I hear you say? 😅
+
+### WhatsApp Desktop Links
+
+Support mobile phone numbers should be created as WhatsApp links to allow one-click opening of chats in
+[WhatsApp Desktop](https://www.whatsapp.com/download)
+for convenience:
+
+```web
+https://wa.me/<PhoneNumber>
+```
