@@ -75,7 +75,7 @@ Then use this `.envrc` to keep it automatically activated:
 
 ### Kubernetes
 
-[.envrc-kubernetes](https://github.com/HariSekhon/Kubernetes-configs/blob/master/.envrc) -
+[.envrc-kubernetes](https://github.com/HariSekhon/Kubernetes-configs/blob/master/.envrc-kubernetes) -
 [Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) repo
 
 or
