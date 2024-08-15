@@ -124,6 +124,10 @@ Environment variables to keep in mind:
 | `RANDOM`  | A random number                                                                  |
 | `CDPATH`  | List of directories that a `cd` command will take you to with only the basename  |
 
+## More Commands
+
+- [JSON](json.md) commands
+
 ## Tips & Tricks
 
 Treat a process as a file handle to read from:
