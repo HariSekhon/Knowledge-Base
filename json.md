@@ -4,6 +4,16 @@ JavaScript Object Notation.
 
 <https://en.wikipedia.org/wiki/JSON>
 
+## jq
+
+JSON Query filters json inputs - file or stdin.
+
+Widely used in my scripts in [DevOps-Bash-tools](devops-bash-tools.md) repo.
+
+<https://jqlang.github.io/jq/tutorial/>
+
+<https://jqlang.github.io/jq/manual/>
+
 ## jnv
 
 <https://github.com/ynqa/jnv>
