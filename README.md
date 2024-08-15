@@ -324,6 +324,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Data Warehousing](data-warehousing.md) TODO
 - [Informatica](informatica.md)
 - [Apache Camel](camel.md)
+- [JSON](json.md)
 
 ### Hadoop Ecosystem
 
