@@ -28,3 +28,26 @@ Auto-notifies these code owners requesting reviews when pull requests changing t
 
 When listing GitHub teams in the `.github/CODEOWNERS` file, the team must not be set to Secret otherwise it won't be
 respected, on top of it requiring Write access to the repo.
+
+## GitHub Profile Page
+
+Create a GitHub repo with the same name as your GitHub profile username and in it create a `README.md` file
+which will be automatically displayed as your GitHub profile home page.
+
+You can do anything you normally can in Markdown - links, formatting, using HTML and embedding 3rd party tools like:
+
+| URL                                                  | Description                                                                                                                                                |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <https://shields.io>                                 | Badges                                                                                                                                                     |
+| <https://komarev.com/ghpvc/>                         | Profile hits counter                                                                                                                                       |
+| <https://github.com/anuraghazra/github-readme-stats> | Profile Stats or GitHub repos to list more repos than that annoying [arbitrary 6 repo pin limitation](https://github.com/orgs/community/discussions/28350) |
+
+See my GitHub Home Profile page:
+
+<https://github.com/HariSekhon>
+
+which comes from this repo:
+
+<https://github.com/HariSekhon/HariSekhon>
+
+GitLab uses this too but it puts a `Read more` link instead of displaying the whole page like GitHub.
