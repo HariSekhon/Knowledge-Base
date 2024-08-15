@@ -6,6 +6,12 @@ GitLab is the number 2 hosting provider for Git repos after [GitHub](github.md)
 
 It has good feature parity with GitHub.com, although less 3rd party CI/CD integrations as everybody integrates to GitHub first .
 
+- [GitLab CLI](#gitlab-cli)
+- [GitLab CLI and API auth](#gitlab-cli-and-api-auth)
+- [GitLab CI/CD](#gitlab-cicd)
+- [GitLab Official CI/CD Library](#gitlab-official-cicd-library)
+- [GitLab Profile Page](#gitlab-profile-page)
+
 ## GitLab CLI
 
 [Install doc](https://gitlab.com/gitlab-org/cli/-/blob/main/README.md#installation)
@@ -61,5 +67,9 @@ Template to get you started:
 ## GitLab Official CI/CD Library
 
 [GitLab CI Library](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/ci)
+
+## GitLab Profile Page
+
+See adjacent [GitHub Profile Page](github.md#github-profile-page) doc.
 
 ###### Partial port from private Knowledge Base page 2012+
