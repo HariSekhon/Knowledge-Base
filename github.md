@@ -2,6 +2,11 @@
 
 NOT PORTED YET
 
+- [GitHub SSH Key SSO Authorization](#github-ssh-key-sso-authorization)
+- [CodeOwners](#codeowners)
+  - [CodeOwners Gotcha - Secret Teams](#codeowners-gotcha---secret-teams)
+- [GitHub Profile Page](#github-profile-page)
+
 ## GitHub SSH Key SSO Authorization
 
 If you're using SSH keys to `git clone` in a company using GitHub SSO authentication then you will need
