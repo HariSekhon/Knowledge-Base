@@ -6,16 +6,6 @@ For JSON basics, read [Wikipedia](https://en.wikipedia.org/wiki/JSON).
 
 Useful JSON tools:
 
-## jq
-
-JSON Query filters json inputs - file or stdin.
-
-Widely used in my scripts in [DevOps-Bash-tools](devops-bash-tools.md) repo.
-
-<https://jqlang.github.io/jq/tutorial/>
-
-<https://jqlang.github.io/jq/manual/>
-
 ## gron
 
 <https://github.com/tomnomnom/gron>
@@ -34,6 +24,16 @@ gron "https://api.github.com/repos/tomnomnom/gron/commits?per_page=1" |
 fgrep "commit.author" |
 gron -u
 ```
+
+## jq
+
+JSON Query filters json inputs - file or stdin.
+
+Widely used in my scripts in [DevOps-Bash-tools](devops-bash-tools.md) repo.
+
+<https://jqlang.github.io/jq/tutorial/>
+
+<https://jqlang.github.io/jq/manual/>
 
 ## jnv
 
