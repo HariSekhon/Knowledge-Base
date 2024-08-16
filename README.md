@@ -188,6 +188,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [Terragrunt](terragrunt.md)
     - [tgswitch](tgswitch.md)
   - [Atlantis](atlantis.md)
+- [Pulumi](pulumi.md)
 - [Ansible](ansible.md)
 - [Puppet](puppet.md) TODO
 - [YAML](yaml.md)
@@ -295,11 +296,13 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Couchbase](couchbase.md)
 - [HBase](hbase.md) TODO
 - [MongoDB](mongo.md) TODO
+- [Consul](consul.md)
 
 ### Caching
 
 - [Redis](redis.md) TODO
 - [Memcached](memcached.md)
+- [Consul](consul.md)
 - [Couchbase](couchbase.md)
 - [Oracle Coherence](coherence.md)
 
