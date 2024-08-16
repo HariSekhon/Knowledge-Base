@@ -122,7 +122,7 @@ These can be used with the `logo=` parameter in [Shields.io](https://shields.io)
 
 However, for icons that are not available on the Simple Icons site, or those that
 [got removed](https://github.com/simple-icons/simple-icons/issues/11372),
-you can use the `shields_embed_logo.sh` script from the [DevOps-Bash-tools](devops-bash-tools.md) repo:
+you can use the `shields_embed_logo.sh` script from the [DevOps-Bash-tools](devops-bash-tools.md) repo.
 
 Download the icon:
 
