@@ -2,6 +2,27 @@
 
 NOT PORTED YET
 
+- [DevOps Bash tools for AWS, EKS, EC2 etc](#devops-bash-tools-for-aws-eks-ec2-etc)
+- [Install AWS CLI](#install-aws-cli)
+- [Set up access to EKS - Elastic Kubernetes Services](#set-up-access-to-eks---elastic-kubernetes-services)
+- [EC2 Instances](#ec2-instances)
+- [Add an EC2 EBS volume](#add-an-ec2-ebs-volume)
+  - [Create EC2 EBS volume](#create-ec2-ebs-volume)
+  - [Attach the new volume to the EC2 instance](#attach-the-new-volume-to-the-ec2-instance)
+  - [Partition and Format the new disk](#partition-and-format-the-new-disk)
+  - [Mount the new volume by unchanging UUID for maximum stability](#mount-the-new-volume-by-unchanging-uuid-for-maximum-stability)
+- [Resize an EC2 EBS volume](#resize-an-ec2-ebs-volume)
+  - [Create a snapshot of the volume using its ID](#create-a-snapshot-of-the-volume-using-its-id)
+  - [Increase the size of the EBS volume](#increase-the-size-of-the-ebs-volume)
+  - [Inside the EC2 VM - grow the partition and extend the filesystem](#inside-the-ec2-vm---grow-the-partition-and-extend-the-filesystem)
+- [RDS - Relational Database Service](#rds---relational-database-service)
+  - [List RDS instances](#list-rds-instances)
+  - [Reset DB master password](#reset-db-master-password)
+- [Troubleshooting](#troubleshooting)
+  - [EC2 VM becomes unresponsive and cannot SSH under high loads](#ec2-vm-becomes-unresponsive-and-cannot-ssh-under-high-loads)
+  - [RDS Write Stops Working due to Status `Storage Full`](#rds-write-stops-working-due-to-status-storage-full)
+  - [EKS Spot - App fails to connect to DB due to race condition with Vault pod not being up yet](#eks-spot---app-fails-to-connect-to-db-due-to-race-condition-with-vault-pod-not-being-up-yet)
+
 ## DevOps Bash tools for AWS, EKS, EC2 etc
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
@@ -49,15 +70,33 @@ migration loads in an [Informatica](informatica.md) agent, which can be removed 
 
 ### Create EC2 EBS volume
 
-Create an EC2 EBS volume of 500Gb in the eu-west-1a zone where the VM is:
+Find out the zone the EC2 instance is in - you will need to create the EBS volume in the same zone:
+
+```shell
+aws ec2 describe-instances \
+        --query 'Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value | [0],Placement.AvailabilityZone]' \
+        --output table
+```
+
+Set the Availability Zone environment variable to use in further commands:
 
 ```shell
 AVAILABILITY_ZONE=eu-west-1a  # make sure this is same Availability Zone as the VM you want to attach it to
+```
 
+Choose a size in GB:
+
+```shell
+DISK_SIZE_GB=500
+```
+
+Create an EC2 EBS volume of 500Gb in the eu-west-1a zone where the VM is:
+
+```shell
 REGION="${AVAILABILITY_ZONE%?}"  # auto-infer the region by removing last character
 
 aws ec2 create-volume \
-    --size 500 \
+    --size "$DISK_SIZE_GB" \
     --region "$REGION" \
     --availability-zone "$AVAILABILITY_ZONE" \
     --volume-type gp3
@@ -82,14 +121,24 @@ output:
 }
 ```
 
-Note the `VolumeId` field, you'll need it for the attach command further down.
+Set the `VolumeId` field to a variable to use in further commands:
+
+```shell
+VOLUME_ID="vol-007e4d5f88a46fb6f"
+```
+
+Create a description variable to use in next command:
+
+```shell
+VOLUME_DESCRIPTION="informatica-prod-secure-agent-tmp-volume"
+```
 
 Name the new volume so you know what is it when you look at it in future in the UI:
 
 ```shell
 aws ec2 create-tags \
-  --resources vol-007e4d5f88a46fb6f \
-  --tags Key=Name,Value="dev-secure-agent-tmp"
+  --resources "$VOLUME_ID" \
+  --tags Key=Name,Value="$VOLUME_DESCRIPTION"
 ```
 
 ### Attach the new volume to the EC2 instance
@@ -104,13 +153,18 @@ aws ec2 describe-instances \
     --output table
 ```
 
-Use the `VolumeId` you saw from your volume creation output further above combined with the VM instance id you
-see in the immediate above command, giving it a new device name:
+Create a variable with the EC2 instance ID:
+
+```shell
+EC2_INSTANCE_ID="i-0a1234b5c6d7890e1"
+```
+
+Attach the new disk to the instance giving it a new device name, in this case `/dev/sdb`:
 
 ```shell
 aws ec2 attach-volume --device /dev/sdb \
-                      --instance-id i-028fbf0c954ca82c7 \
-                      --volume-id vol-007e4d5f88a46fb6f
+                      --instance-id "$EC2_INSTANCE_ID" \
+                      --volume-id "$VOLUME_ID"
 ```
 
 (you cannot specify `/dev/nvme1` as the next disk you see on Nitro VMs but if you specify `/dev/sdb` then it will
@@ -172,7 +226,13 @@ Since device numbers can change on rare occasion, find and use the UUID instead:
 lsblk -o NAME,UUID
 ```
 
-Add it to `/etc/fstab` with a line like this, substituting the UUID from the above commands:
+Edit `/etc/fstab`:
+
+```shell
+sudo vi /etc/fstab
+```
+
+and add a line like this, substituting the UUID from the above commands:
 
 ```shell
 UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx /tmp xfs defaults 0 2
