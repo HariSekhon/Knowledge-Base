@@ -677,7 +677,7 @@ git for-each-ref --format='%(upstream:short)' "$(git symbolic-ref -q HEAD)"
 First find the trunk default branch to compare to the current branch:
 
 ```shell
-default_branch="$(git symbolic-ref refs/remotes/origin/HEAD | sed 's|.*/||)"
+default_branch="$(git symbolic-ref refs/remotes/origin/HEAD | sed 's|.*/||')"
 ```
 
 Then find the changed files since branching from the trunk default branch:
