@@ -373,6 +373,8 @@ In a lot of cases restarting the secure agent is enough to solve the problem (af
 
 ### Restarting the Secure Agent
 
+This takes approximately 15-20 minutes.
+
 ```shell
 cd /home/ec2-user/infaagent/apps/agentcore &&
 ./infaagent shutdown &&
@@ -386,6 +388,25 @@ Sometimes the AWS EC2 agent becomes unresponsive and requires a hard restart via
 After the VM comes back up, a simple startup sometimes brings the processes up to green but the jobs do not succeed.
 
 In this case do a full graceful restart as per above to solve it.
+
+### Secure agent's OI Data Collector stuck in "Starting Up" phase or Error
+
+Kill the `OpsInsightsDataCollector` process and then click the Start button on the Informatica `Runtime Environment`
+-> agent page under `Agent Service Start or Stop` section further down the page.
+
+This is quicker than restarting the entire secure agent.
+
+Check you're matching the right thing:
+
+```shell
+pgrep -a -f '/OpsInsightsDataCollector/'
+```
+
+Kill it (try a normal kill not a `-9` TERM):
+
+```shell
+pkill -f '/OpsInsightsDataCollector/'
+```
 
 ### Vertica ODBC Connector Error
 
