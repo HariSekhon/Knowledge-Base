@@ -269,6 +269,8 @@ to be able to use it:
 sudo chmod 1777 /tmp
 ```
 
+Start back up any processes that you shut down before mounting the disk.
+
 ## Resize an EC2 EBS volume
 
 <https://docs.aws.amazon.com/ebs/latest/userguide/recognize-expanded-volume-linux.html>
