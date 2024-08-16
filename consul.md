@@ -43,9 +43,8 @@ Passed the [Jepsen](https://jepsen.io/) test!!! (most technologies fail it)
 - Etcd uses Raft (simpler), Etcd + Doozerd written in Go
 - Etcd has rolling upgrades, ZooKeeper added this later (2014?)
 
-Industrial Light and Magic used Consul because Mesos DNS couldn't easily register docker containers outside Mesos cluster
-
-============================================================================ #
+Industrial Light and Magic used Consul because Mesos DNS couldn't easily register docker containers outside Mesos
+cluster.
 
 ```shell
 brew install caskroom/cask/brew-cask
@@ -320,7 +319,7 @@ consul join -wan <svr1> <svr2>
 ## Cluster test
 
 ```shell
-mkdir -p ~/vagrant/consul &&
+mkdir -p -v ~/vagrant/consul &&
 cd ~/vagrant/consul &&
 wget https://raw.githubusercontent.com/hashicorp/consul/master/demo/vagrant-cluster/Vagrantfile &&
 vagrant up
