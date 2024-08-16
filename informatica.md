@@ -391,7 +391,7 @@ In this case do a full graceful restart as per above to solve it.
 
 ### Secure agent's OI Data Collector stuck in "Starting Up" phase or Error
 
-1. Kill the `OpsInsightsDataCollector` process
+1. Kill the `OpsInsightsDataCollector` process:
 
 Check you're matching the right thing:
 
