@@ -8,6 +8,13 @@ See also the [DevOps-Bash-tools](devops-bash-tools.md) repo's
 [checks/](https://github.com/HariSekhon/DevOps-Bash-tools/tree/master/checks)
 directory full of generic check scripts.
 
+- [Install](#install)
+  - [Install Git Hooks](#install-git-hooks)
+  - [Config](#config)
+- [Run](#run)
+- [Run on changed files in branch](#run-on-changed-files-in-branch)
+- [Update Config Hooks](#update-config-hooks)
+
 ## Install
 
 On Mac:
@@ -49,7 +56,7 @@ Here is a template to start from:
 wget https://github.com/HariSekhon/Templates/blob/master/.pre-commit-config.yaml
 ```
 
-### Run
+## Run
 
 Run against all files when adding checks to see the current state of your repo contents:
 
@@ -57,7 +64,16 @@ Run against all files when adding checks to see the current state of your repo c
 pre-commit run --all-files
 ```
 
-### Update Config Hooks
+## Run on changed files in branch
+
+To reproduce what pre-commit runs in pull requests to debugging getting your PRs to pass,
+using this script from the [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+```shell
+precommit_run_changed_files.sh
+```
+
+## Update Config Hooks
 
 Update all config hooks to the latest release tag on the default branch:
 
