@@ -126,7 +126,7 @@ Environment variables to keep in mind:
 
 ## More Commands
 
-- [JSON](json.md) commands
+- [JSON](json.md) commands to help with processing the output of Rest APIs
 
 ## Tips & Tricks
 
