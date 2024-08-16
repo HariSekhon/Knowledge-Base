@@ -391,10 +391,7 @@ In this case do a full graceful restart as per above to solve it.
 
 ### Secure agent's OI Data Collector stuck in "Starting Up" phase or Error
 
-Kill the `OpsInsightsDataCollector` process and then click the Start button on the Informatica `Runtime Environment`
--> agent page under `Agent Service Start or Stop` section further down the page.
-
-This is quicker than restarting the entire secure agent.
+1. Kill the `OpsInsightsDataCollector` process
 
 Check you're matching the right thing:
 
@@ -402,11 +399,16 @@ Check you're matching the right thing:
 pgrep -a -f '/OpsInsightsDataCollector/'
 ```
 
-Kill it (try a normal kill not a `-9` TERM):
+Kill it (try a normal kill first, not a `-9` hard kill):
 
 ```shell
 pkill -f '/OpsInsightsDataCollector/'
 ```
+
+2. In Informative UI `Runtime Environment` -> agent page -> under `Agent Service Start or Stop` section further down
+   the page -> `Start`.
+
+This is quicker than restarting the entire secure agent.
 
 ### Vertica ODBC Connector Error
 
