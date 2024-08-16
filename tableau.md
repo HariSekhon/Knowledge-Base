@@ -64,3 +64,111 @@ and put this in it to clean up disk space every midnight:
 ```crontab
 0 0 * * * tsm maintenance cleanup -a
 ```
+
+## Troubleshooting
+
+### Disk Space
+
+#### Logs
+
+Logs were taking up 134GB out of 200GB root disk space causing disk full errors even on `tsm maintenance cleanup -a`
+and `du | sort` type commands.
+
+`/tmp` was only a few KB but clearing that allowed the few KB for `du | sort` to work again:
+
+```shell
+sudo rm -fr /tmp/*
+```
+
+Found that this deeply embedded log path `/var/opt/tableau/tableau_server/data/tabsvc/logs` was taking up the space
+with 5500 log files.
+
+Cleared logs older than 7 days to free up space:
+
+```shell
+find /var/opt/tableau/tableau_server/data/tabsvc/logs -type f -mtime +7 -exec rm -f {} \;
+```
+
+and added this cron to prevent it recurring:
+
+```shell
+0 0 * * * find /var/opt/tableau/tableau_server/data/tabsvc/logs -type f -mtime +7 -exec rm -f {} \;
+```
+
+but Tableau was still gave this next error in the web UI: `Unable to proceed because of an error from the data
+source` / `Unable to connect to the Tableau Data Extract Server ""` (which previously used to work).
+
+### Unable to proceed because of an error from the data source / Unable to connect to the Tableau Data Extract Server ""
+
+Web UI still giving this error (used to work before out of disk space issue):
+
+```none
+Unable to proceed because of an error from the data source
+
+Try connecting again. If the problem persists, disconnect from the data source and contact the data source owner.
+
+Try again
+
+Could not find Hyper hosts to connect to.
+Unable to connect to the Tableau Data Extract Server "". Check that the server is running and that you have access privileges to the requested database.
+```
+
+Tableau server still had error:
+
+```shell
+tsm status
+```
+
+```none
+The server encountered an unexpected error processing the request. Look at the server logs for more information.
+
+See '/home/tableauadmin/.tableau/tsm/tsm.log' for more information.
+```
+
+```shell
+tsm restart
+```
+
+```none
+Stopping service...
+
+Service failed to stop properly.
+
+
+See '/home/tableauadmin/.tableau/tsm/tsm.log' for more information.
+
+500 - Server Error
+```
+
+Had to kill processes, but can't do this at `tableauadmin` since the processes are owned by `tableau` user switch to
+it from `ec2-user`:
+
+```shell
+sudo su - tableau
+```
+
+Do not `kill -9`, just regular `kill` to allow graceful termination and avoid risking data loss:
+
+```shell
+ps -ef |
+grep '/tableau/tableau_server/' |
+grep -v 'pgsql' |
+awk '{print $2}' |
+xargs kill
+```
+
+```shell
+tsm stop
+```
+
+```shell
+tsm start
+```
+
+```none
+Starting service...
+Starting service...
+The last successful run of StartServerJob took 11 minute(s).
+
+Job id is '21', timeout is 30 minutes.
+```
