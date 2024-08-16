@@ -2,7 +2,9 @@
 
 JavaScript Object Notation.
 
-<https://en.wikipedia.org/wiki/JSON>
+For JSON basics, read [Wikipedia](https://en.wikipedia.org/wiki/JSON).
+
+Useful JSON tools:
 
 ## jq
 
