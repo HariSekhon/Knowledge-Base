@@ -1,5 +1,18 @@
 # Documentation-as-Code
 
+- [Markdown, GitHub, `README.md`](#markdown-github-readmemd)
+  - [GitHub Markdown Documentation](#github-markdown-documentation)
+- [MKDocs](#mkdocs)
+- [Markdown Best Practices](#markdown-best-practices)
+  - [URL Handling](#url-handling)
+  - [Code Blocks vs Inline Code](#code-blocks-vs-inline-code)
+  - [Syntax Highlighting](#syntax-highlighting)
+  - [IntelliJ Code Block Execution](#intellij-code-block-execution)
+- [Badges & Icons](#badges--icons)
+  - [Badges](#badges)
+  - [Icons](#icons)
+- [Link Team Support Numbers to WhatsApp Desktop](#link-team-support-numbers-to-whatsapp-desktop)
+
 ## Markdown, GitHub, `README.md`
 
 Document right in your Git repo by creating a `README.md` and have your Git repo hosting platform render it as your
