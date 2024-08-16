@@ -408,10 +408,10 @@ pkill -f '/OpsInsightsDataCollector/'
 Then in Informative UI under `Runtime Environment`:
 
 - click on the agent, and on the agent page:
-   - under `Agent Service Start or Stop` section further down the page:
-      1. select `Service:` field drop down `OI Data Collector`
-      1. click the `Stop` button next to it if it's present to reset the state
-      1. click the `Start` button next to it
+  - under `Agent Service Start or Stop` section further down the page:
+    1. select `Service:` field drop down `OI Data Collector`
+    1. click the `Stop` button next to it if it's present to reset the state
+    1. click the `Start` button next to it
 
 This is quicker than restarting the entire secure agent.
 
