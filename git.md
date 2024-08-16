@@ -670,6 +670,32 @@ git branch --show-current
 git for-each-ref --format='%(upstream:short)' "$(git symbolic-ref -q HEAD)"
 ```
 
+### List files changed on current feature branch vs default branch
+
+First find the trunk default branch to compare to the current branch:
+
+```shell
+default_branch="$(git symbolic-ref refs/remotes/origin/HEAD | sed 's|.*/||)"
+```
+
+Then find the changed files since branching from the trunk default branch:
+
+```shell
+git diff --name-only "$default_branch"..
+```
+
+or
+
+```shell
+git log --name-only --pretty="" "$default_branch".. | sort -u
+```
+
+If you forget to the set the `default_branch` by running the first command you'll get this error:
+
+```none
+fatal: ..: '..' is outside repository at '/Users/hari/github/bash-tools'
+```
+
 ### Push New Branch and Set Upstream in One Command
 
 ```shell
