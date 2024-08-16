@@ -16,6 +16,25 @@ Widely used in my scripts in [DevOps-Bash-tools](devops-bash-tools.md) repo.
 
 <https://jqlang.github.io/jq/manual/>
 
+## gron
+
+<https://github.com/tomnomnom/gron>
+
+Flattens JSON to be greppable.
+
+```shell
+gron "https://api.github.com/repos/tomnomnom/gron/commits?per_page=1" |
+fgrep "commit.author"
+```
+
+unflatten back to expanded JSON:
+
+```shell
+gron "https://api.github.com/repos/tomnomnom/gron/commits?per_page=1" |
+fgrep "commit.author" |
+gron -u
+```
+
 ## jnv
 
 <https://github.com/ynqa/jnv>
