@@ -1,8 +1,13 @@
 # Terragrunt
 
-https://terragrunt.gruntwork.io/
+<https://terragrunt.gruntwork.io/>
 
 Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing and templating capabilities.
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
 
 Uses same arguments which are passed to the `terraform` command.
 
