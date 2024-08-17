@@ -2,7 +2,10 @@
 
 Stream processing + alerting engine for TICK stack.
 
-Part of the T.I.C.K. platform:
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## T.I.C.K platform components
 
 | Component               | Description                                                                |
 |-------------------------|----------------------------------------------------------------------------|
