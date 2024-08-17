@@ -3,9 +3,6 @@
 <!-- INDEX_START -->
 - [GUI](#gui)
 - [CLI](#cli)
-- [##yum install kvm kmod-kvm qemu](#yum-install-kvm-kmod-kvm-qemu)
-- [#yum install virsh](#yum-install-virsh)
-- [#apt-get install virsh](#apt-get-install-virsh)
 - [Console](#console)
 <!-- INDEX_END -->
 
