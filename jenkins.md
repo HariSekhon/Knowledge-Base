@@ -12,6 +12,9 @@ At least intermediate level Groovy programming is mandatory once you start using
 Shared Libraries between pipelines, or even code snippets in the administration
 [Script Console](#jenkins-script-console---groovy).
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Jenkinsfile - Scripted vs Declarative pipelines
 
 ### Declarative
