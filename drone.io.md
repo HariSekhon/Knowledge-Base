@@ -1,6 +1,11 @@
 # Drone.io
 
-https://www.drone.io/
+<https://www.drone.io/>
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## PAT
 
 Get personal access token:
 
