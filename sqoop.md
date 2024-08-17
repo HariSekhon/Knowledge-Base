@@ -3,6 +3,23 @@
 Imports / Exports data tables between SQL DBs and Hadoop.
 
 <!-- INDEX_START -->
+- [Sqoop1](#sqoop1)
+- [Sqoop2](#sqoop2)
+- [Old Notes](#old-notes)
+- [3rd party connectors](#3rd-party-connectors)
+- [Custom Connectors](#custom-connectors)
+  - [Teradata Connector for Hadoop](#teradata-connector-for-hadoop)
+  - [SQL Server](#sql-server)
+  - [Oracle](#oracle)
+  - [Netezza](#netezza)
+  - [Sybase IQ (formerly Olive)](#sybase-iq-formerly-olive)
+  - [Informix](#informix)
+- [Password Management](#password-management)
+  - [Hadoop CredentialProvider API (Hadoop 2.6+)](#hadoop-credentialprovider-api-hadoop-26)
+- [Incremental Imports](#incremental-imports)
+- [Backups](#backups)
+- [Troubleshooting](#troubleshooting)
+- [Other](#other)
 <!-- INDEX_END -->
 
 ## Sqoop1
