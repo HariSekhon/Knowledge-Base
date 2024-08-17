@@ -17,6 +17,8 @@ Terraform pull request automation on [GitHub](github.md) using [GitHub Actions](
   changes and have Atlantis do shorter plan and apply runs
 
 <!-- INDEX_START -->
+- [Usage](#usage)
+- [Do Not Merge Pull Requests Early](#do-not-merge-pull-requests-early)
 <!-- INDEX_END -->
 
 ## Usage
