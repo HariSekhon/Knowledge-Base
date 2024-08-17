@@ -1,6 +1,8 @@
 # Shell
 
 <!-- INDEX_START -->
+- [List](#list)
+- [Fish](#fish)
 <!-- INDEX_END -->
 
 ## List
