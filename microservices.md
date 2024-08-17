@@ -23,7 +23,7 @@ simpler, but they simply shift the complexity to the infrastructure and monitori
 
 - [Docker](docker.md)
 - [Kubernetes](kubernetes.md)
-- Consul (Key-Value store)
+- [Consul](consul.md) - Coordination & Discovery system and Key-Value store
 - [ELK](elasticsearch.md) stack (logging)
 - [AWS](aws.md)
 - [Ansible](ansible.md) (orchestration)
