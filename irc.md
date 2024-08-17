@@ -1,5 +1,8 @@
 # IRC
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 [Wikipedia List of IRC Commands](https://en.wikipedia.org/wiki/List_of_Internet_Relay_Chat_commands)
 
 List channels:
