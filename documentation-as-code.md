@@ -72,6 +72,12 @@ Put a language name immediately after the first triple backticks then you get sy
 ````markdown
 ```groovy
 ````
+<!--
+closing code block for markdown_generate_index.sh
+to enable to code to exclude code block opening/closing pairs
+from generating comment comments into headings
+```
+-->
 
 Compare the readability of this:
 
