@@ -5,8 +5,8 @@ Distributed ring clustered search service.
 <!-- INDEX_START -->
 - [Sample Sizing](#sample-sizing)
 - [Docker Quickstart](#docker-quickstart)
-  - [Heap](#heap)
-  - [Linux Limits](#linux-limits)
+- [Heap](#heap)
+- [Linux Limits](#linux-limits)
 - [Monitoring](#monitoring)
 - [Performance Tuning Tips](#performance-tuning-tips)
 - [Elasticsearch on Kubernetes](#elasticsearch-on-kubernetes)
