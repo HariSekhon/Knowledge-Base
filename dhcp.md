@@ -17,13 +17,6 @@ returns to the pool and will be reassigned to another client when it requests an
 - [DHCPdump](#dhcpdump)
 - [Mac DHCP Server + PXE boot install Debian Linux](#mac-dhcp-server--pxe-boot-install-debian-linux)
   - [Run DHCP to point to your TFTP Server for PXE boot](#run-dhcp-to-point-to-your-tftp-server-for-pxe-boot)
-- [dhcpd.conf](#dhcpdconf)
-- [for ISC dhcpd](#for-isc-dhcpd)
-- [ignore this](#ignore-this)
-- [public DNS - you don't need to change this](#public-dns---you-dont-need-to-change-this)
-- [If this DHCP server is the official DHCP server for the local](#if-this-dhcp-server-is-the-official-dhcp-server-for-the-local)
-- [network, the authoritative directive should be uncommented.](#network-the-authoritative-directive-should-be-uncommented)
-- [XXX: Edit IPs](#xxx-edit-ips)
   - [Download Debian netinstall to TFTP for PXE boot](#download-debian-netinstall-to-tftp-for-pxe-boot)
   - [Start TFTP](#start-tftp)
 <!-- INDEX_END -->
