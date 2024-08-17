@@ -3,6 +3,14 @@
 Resolves hostnames and fully qualified domain names (FQDNs) to IP addresses.
 
 <!-- INDEX_START -->
+- [Ports](#ports)
+  - [DNS Server Software](#dns-server-software)
+  - [Public DNS Servers for Clients](#public-dns-servers-for-clients)
+  - [Misc](#misc)
+  - [Linux Packages for DNS Clients](#linux-packages-for-dns-clients)
+  - [DNSmasq on macOS](#dnsmasq-on-macos)
+  - [DNSMasq on RHEL7](#dnsmasq-on-rhel7)
+  - [DDNS - Dynamic DNS](#ddns---dynamic-dns)
 <!-- INDEX_END -->
 
 ## Ports
