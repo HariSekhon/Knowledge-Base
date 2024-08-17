@@ -1,6 +1,7 @@
 # Hadoop
 
 <!-- INDEX_START -->
+- [Healthchecks](#healthchecks)
 <!-- INDEX_END -->
 
 ## Healthchecks
