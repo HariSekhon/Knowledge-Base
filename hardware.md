@@ -2,6 +2,9 @@
 
 See also [Performance Engineering](performance.md).
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## HP
 
 ### HP Proliant Array Configuration Utility
