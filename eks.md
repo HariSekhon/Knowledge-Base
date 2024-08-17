@@ -2,6 +2,9 @@
 
 NOT PORTED YET
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## EKS on Fargate
 
 Serverless Kubernetes service to avoid having to deal with node pool management.
