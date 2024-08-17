@@ -12,6 +12,7 @@ Self-hosted enterprise Dev environments.
   - [CLI Usage](#cli-usage)
   - [Configure SSH](#configure-ssh)
 - [Disabling SSH](#disabling-ssh)
+  - [Beware Upgrade Issues](#beware-upgrade-issues)
 <!-- INDEX_END -->
 
 ## Summary
