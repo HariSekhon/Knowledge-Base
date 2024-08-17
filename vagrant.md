@@ -8,6 +8,13 @@ Useful to creating and maintaining local clusters of VMs for reproducing client'
 software. Used this at [Cloudera](https://cloudera.com) a lot.
 
 <!-- INDEX_START -->
+- [Install](#install)
+- [Vagrantfile Templates](#vagrantfile-templates)
+- [Official Boxes](#official-boxes)
+- [Vagrant CLI](#vagrant-cli)
+- [Environment Variables](#environment-variables)
+- [Shared Folders](#shared-folders)
+  - [Packaging](#packaging)
 <!-- INDEX_END -->
 
 ## Install
