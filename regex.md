@@ -6,6 +6,16 @@ I use them extensively in languages from Python and Perl to Java/Scala/Groovy an
 for grep, sed & awk.
 
 <!-- INDEX_START -->
+- [Online Regex Testing](#online-regex-testing)
+- [PCRE vs BRE vs ERE](#pcre-vs-bre-vs-ere)
+  - [PCRE - Perl Compatible Regular Expressions](#pcre---perl-compatible-regular-expressions)
+- [BRE - Basic Regular Expression](#bre---basic-regular-expression)
+- [ERE - Extended Regular Expressions](#ere---extended-regular-expressions)
+- [Core Reading](#core-reading)
+- [Library of Regex in Perl](#library-of-regex-in-perl)
+- [Library of Regex in Python](#library-of-regex-in-python)
+- [Library of Regex in Bash](#library-of-regex-in-bash)
+- [Examples of Real-world Regex Used Extensively](#examples-of-real-world-regex-used-extensively)
 <!-- INDEX_END -->
 
 ## Online Regex Testing
