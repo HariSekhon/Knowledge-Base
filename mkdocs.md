@@ -1,10 +1,13 @@
 # MkDocs
 
-https://www.mkdocs.org/getting-started/
+<https://www.mkdocs.org/getting-started/>
 
-https://www.mkdocs.org/user-guide/writing-your-docs/
+<https://www.mkdocs.org/user-guide/writing-your-docs/>
 
 Markdown is expected in top-level `docs/` dir, with `docs/index.md` being the home page.
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
 
 ### Install
 
