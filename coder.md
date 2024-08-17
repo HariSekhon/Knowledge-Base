@@ -11,7 +11,7 @@ Self-hosted enterprise Dev environments.
   - [Local Server](#local-server)
   - [CLI Usage](#cli-usage)
   - [Configure SSH](#configure-ssh)
-  - [Disabling SSH](#disabling-ssh)
+- [Disabling SSH](#disabling-ssh)
 <!-- INDEX_END -->
 
 ## Summary
@@ -74,7 +74,7 @@ Once authenticated:
 coder config-ssh
 ```
 
-### Disabling SSH
+## Disabling SSH
 
 Enterprise edition is needed to disable SSH for data safety in an enterprise that does not want people copying data in or out of the environment.
 
@@ -116,7 +116,7 @@ unexpected non-JSON response "text/html"
 </html>
 ```
 
-#### Beware Upgrade Issues
+### Beware Upgrade Issues
 
 If you upgrade Coder you need to check that this URL hasn't changed such that SSH is silently unblocked.
 
