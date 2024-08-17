@@ -1,5 +1,8 @@
 # Storage
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Disks
 
 ### HDD - Hard Disk Drive
