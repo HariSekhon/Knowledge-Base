@@ -1,6 +1,9 @@
 # CodeClimate
 
-https://codeclimate.com/
+<https://codeclimate.com/>
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
 
 ## CLI
 
