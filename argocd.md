@@ -15,6 +15,9 @@ Declarative GitOps Continuous Delivery of applications on Kubernetes.
 - Applications in project deploy k8s manifests from Git repo
 - Active community
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 #### Components
 
 - `argocd-server` - API server & UI
