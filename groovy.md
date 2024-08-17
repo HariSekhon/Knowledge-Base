@@ -4,6 +4,11 @@ Groovy is awesome.
 
 Groovy is a language based on Java with much greater ease of use as well as interactive REPL and scripting.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 If I'd known Groovy in 2013 I'd have never written anything in Jython as Python constantly breaks code every few years.
 
 This is easily one of my top pick languages. The more you use Groovy, the less you'll want to go back to Java.
