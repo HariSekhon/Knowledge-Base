@@ -5,6 +5,9 @@ to what [tfenv](tfenv.md) does for Terraform.
 
 This is more recently updated than [tgenv](https://github.com/cunymatthieu/tgenv).
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Install
 
 <https://github.com/warrensbox/tgswitch?tab=readme-ov-file#installation>
