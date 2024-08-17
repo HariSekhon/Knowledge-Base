@@ -4,6 +4,7 @@ Informatica is a data integration UI tool.
 
 Modern Informatica UI is cloud hosted SaaS solution called IICS - Informatica Intelligent Cloud Services.
 
+<!-- INDEX_START -->
 - [Organizations](#organizations)
 - [Informatica Login & Environments](#informatica-login--environments)
   - [Local Authentication](#local-authentication)
@@ -28,6 +29,7 @@ Modern Informatica UI is cloud hosted SaaS solution called IICS - Informatica In
   - [VM Restarts require Graceful Restart of the Secure Agent](#vm-restarts-require-graceful-restart-of-the-secure-agent)
   - [Vertica ODBC Connector Error](#vertica-odbc-connector-error)
   - [Disk Space](#disk-space)
+<!-- INDEX_END -->
 
 ## Organizations
 
