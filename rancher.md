@@ -6,6 +6,13 @@ You can manage both on-premise clusters, eg. installed with [RKE2](rke2.md) kube
 or cloud clusters like [AWS EKS](eks.md) (I've done both).
 
 <!-- INDEX_START -->
+- [Install Rancher](#install-rancher)
+- [Rancher CLI](#rancher-cli)
+  - [Command Reference](#command-reference)
+  - [Example usage](#example-usage)
+  - [Kubectl UI Shell](#kubectl-ui-shell)
+  - [Set up local `kubectl` - Download Rancher Kubeconfig](#set-up-local-kubectl---download-rancher-kubeconfig)
+- [Rancher Fleet](#rancher-fleet)
 <!-- INDEX_END -->
 
 ## Install Rancher
