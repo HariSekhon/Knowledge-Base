@@ -2,6 +2,9 @@
 
 TOOD: not sure where all the MongoDB notes went from all the MongoDB courses circa 2013.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Install (old)
 
 Check newer docs.
