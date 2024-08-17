@@ -6,6 +6,11 @@ Open source integration framework written in Java.
 
 TODO Book: [Camel in Action](https://www.amazon.co.uk/Camel-Action-Second-Claus-Ibsen/dp/1617292931/)
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 Glue between technologies and protocols
 
 - 100+ connectors
