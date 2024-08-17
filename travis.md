@@ -2,6 +2,11 @@
 
 One of the original hosted CI/CD systems.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 Reasonable UI, but...
 
 [travis-ci.org](https://travis-ci.org) was free for open source, but has been retired.
