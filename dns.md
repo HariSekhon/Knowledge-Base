@@ -5,6 +5,7 @@ Resolves hostnames and fully qualified domain names (FQDNs) to IP addresses.
 <!-- INDEX_START -->
 - [Ports](#ports)
 - [DNS Server Software](#dns-server-software)
+  - [Lab DNS - Create FQDNs with embedded IP addresses](#lab-dns---create-fqdns-with-embedded-ip-addresses)
 - [Public DNS Servers for Clients](#public-dns-servers-for-clients)
 - [Misc](#misc)
 - [Linux Packages for DNS Clients](#linux-packages-for-dns-clients)
@@ -46,7 +47,7 @@ Public DNS servers available for clients to use:
 - `208.67.222.222` - OpenDNS
 - `208.67.220.220` - OpenDNS
 
-### Misc
+## Misc
 
 TSIG key - shared key for one-way hash auth for DDNS and zone transfers
 
