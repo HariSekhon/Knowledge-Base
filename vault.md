@@ -5,6 +5,16 @@
 The leading open source secrets manager.
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+  - [Enterprise](#enterprise)
+- [Install on Mac](#install-on-mac)
+  - [Install Autocomplete](#install-autocomplete)
+- [CLI Settings](#cli-settings)
+- [Local Test Server](#local-test-server)
+- [Commands](#commands)
+- [Secret Integrations](#secret-integrations)
+  - [GitHub Actions CI/CD](#github-actions-cicd)
+  - [Kubernetes](#kubernetes)
 <!-- INDEX_END -->
 
 ## Summary
