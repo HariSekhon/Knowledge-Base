@@ -2,6 +2,9 @@
 
 Scan for known CVEs from online databases.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Open Source
 
 ### Trivy
