@@ -2,6 +2,11 @@
 
 See also [Memcached](memcached.md) doc.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - Memcached => Membase => Couchbase (2.0 Jan 2012)
 - CouchDB's views (like MongoDB queries) were added to Couchbase 2.0+
 - Couchbase buckets - 20MB, persistence, replication, rebalance, in-built client hashing
