@@ -6,6 +6,9 @@ Small metadata, watches and locks.
 
 Used by major technologies, especially Big Data technologies like HBase, Hive High Availability, and [SolrCloud](solr.md).
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Basics
 
 - mature, robust, well tested and widely used by HBase, Kafka, SolrCloud, HDFS/Yarn/Hive HA ZKFC, Docker Swarm
