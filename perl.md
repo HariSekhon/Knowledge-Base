@@ -8,6 +8,13 @@ for text processing and regular expressions.
 It's the language of elite unix sysadmins, and much of unix tooling is built on it, including [Git](git.md).
 
 <!-- INDEX_START -->
+  - [PCRE - Perl Compatible Regular Expressions](#pcre---perl-compatible-regular-expressions)
+- [Core Reading](#core-reading)
+- [Perl in-place fast file editing (like sed but more powerful)](#perl-in-place-fast-file-editing-like-sed-but-more-powerful)
+- [DevOps Perl tools](#devops-perl-tools)
+- [Shell scripts with Perl](#shell-scripts-with-perl)
+- [Nagios Plugins in Perl](#nagios-plugins-in-perl)
+- [Perl Library with Unit Tests](#perl-library-with-unit-tests)
 <!-- INDEX_END -->
 
 ### PCRE - Perl Compatible Regular Expressions
