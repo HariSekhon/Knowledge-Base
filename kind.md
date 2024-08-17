@@ -7,6 +7,8 @@ Useful for CI/CD testing.
 You can see this used in my GitHub Actions for repo [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubenretes-configs), used for testing the yaml configurations on a live test kubernetes cluster.
 
 <!-- INDEX_START -->
+  - [Install](#install)
+  - [Create Cluster](#create-cluster)
 <!-- INDEX_END -->
 
 ### Install
