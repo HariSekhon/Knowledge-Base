@@ -4,6 +4,11 @@ Open source library of Machine Learning algorithms.
 
 Mahout is Hindi for Elephant Driver ie. it drives Hadoop, for which the elephant is the mascot.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - Hadoop is not strictly necessary (can run in local mode without Hadoop)
 - version of Hadoop varies by Mahout version
 - `$JAVA_HOME` environemnt variable must be set
