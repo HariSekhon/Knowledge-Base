@@ -1,6 +1,6 @@
 # Ubuntu
 
-https://ubuntu.com/
+<https://ubuntu.com/>
 
 The most widely used Linux distribution for cloud installations, derived from the battle tested stable long term
 [Debian](debian.md) distribution which is now the standard for Linux and the eventual winner of the long Linux distro
@@ -12,6 +12,9 @@ For servers always use LTS releases for stability (LTS = Long Term Support).
 For the [Desktop release](https://ubuntu.com/download/desktop) you can just do with the newer version.
 
 The [Releases](https://wiki.ubuntu.com/Releases) page lists the release dates and end of life date for each of version.
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
 
 ## Debian Core
 
