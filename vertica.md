@@ -2,6 +2,11 @@
 
 Proprietary MPP SQL OLAP database with a free community edition.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - OLAP - online analytic processing (batch analytics, not real time)
 - columnar database
   - high compression because columns of same data type compress better
