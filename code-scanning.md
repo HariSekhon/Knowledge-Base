@@ -1,5 +1,8 @@
 # Code Scanning
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 Code scanning includes:
 
 - [Security](security.md) scanning - password and API tokens committed to Git, vunerabilities in code patterns or [CVEs](https://cve.mitre.org/) in libraries
