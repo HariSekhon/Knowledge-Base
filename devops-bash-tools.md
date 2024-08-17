@@ -3,6 +3,11 @@
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 <!-- INDEX_START -->
+- [Clone](#clone)
+  - [Install Dependencies](#install-dependencies)
+  - [Add to `$PATH`](#add-to-path)
+- [Link Configs and Inherit Bash Environment and `$PATH`](#link-configs-and-inherit-bash-environment-and-path)
+- [Import just the `$PATH`](#import-just-the-path)
 <!-- INDEX_END -->
 
 ## Clone
