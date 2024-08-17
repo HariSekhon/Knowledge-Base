@@ -3,6 +3,11 @@
 [Kustomize](https://kustomize.io/) is the standard build tool for Kubernetes manifest aggregation and patching.
 
 <!-- INDEX_START -->
+- [Install](#install)
+- [Commands](#commands)
+- [ArgoCD](#argocd)
+- [Template `kustomization.yaml`](#template-kustomizationyaml)
+- [Kubernetes Kustomizations and Configs](#kubernetes-kustomizations-and-configs)
 <!-- INDEX_END -->
 
 ## Install
