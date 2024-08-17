@@ -13,6 +13,37 @@ Shared Libraries between pipelines, or even code snippets in the administration
 [Script Console](#jenkins-script-console---groovy).
 
 <!-- INDEX_START -->
+- [Jenkinsfile - Scripted vs Declarative pipelines](#jenkinsfile---scripted-vs-declarative-pipelines)
+  - [Declarative](#declarative)
+  - [Scripted](#scripted)
+  - [Jenkinsfile Snippet Generator](#jenkinsfile-snippet-generator)
+- [Quick Jenkins in Docker and SysAdmin Scripts](#quick-jenkins-in-docker-and-sysadmin-scripts)
+- [Jenkins CLI](#jenkins-cli)
+- [Jenkins Shell Scripts](#jenkins-shell-scripts)
+- [Jenkins Plugins](#jenkins-plugins)
+  - [Restarts](#restarts)
+- [Jenkins Jobs auto-saved to Git](#jenkins-jobs-auto-saved-to-git)
+- [Jenkins Groovy](#jenkins-groovy)
+  - [Jenkins Script Console - Groovy](#jenkins-script-console---groovy)
+- [Jenkins Shared Libraries (Groovy)](#jenkins-shared-libraries-groovy)
+- [Jenkins API](#jenkins-api)
+- [Desktop Menu Notifications](#desktop-menu-notifications)
+  - [CCtray XML Plugin](#cctray-xml-plugin)
+- [Jenkins on Docker in one command](#jenkins-on-docker-in-one-command)
+- [Jenkins Slaves on Bare Metal / VMs](#jenkins-slaves-on-bare-metal--vms)
+- [Jenkins on Kubernetes](#jenkins-on-kubernetes)
+- [Google Auth SSO](#google-auth-sso)
+- [Azure AD auth SSO](#azure-ad-auth-sso)
+- [CloudBees](#cloudbees)
+  - [Pricing](#pricing)
+  - [CloudBees on Kubernetes](#cloudbees-on-kubernetes)
+- [Jenkins X](#jenkins-x)
+- [Tips](#tips)
+- [Troubleshooting](#troubleshooting)
+  - [Reset the Jenkins admin password](#reset-the-jenkins-admin-password)
+- [check it worked](#check-it-worked)
+  - [Shell "process apparently never started in"](#shell-process-apparently-never-started-in)
+- [Other Resources](#other-resources)
 <!-- INDEX_END -->
 
 ## Jenkinsfile - Scripted vs Declarative pipelines
