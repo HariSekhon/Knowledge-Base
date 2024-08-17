@@ -7,6 +7,12 @@ IntelliJ on Mac notes.
 Shortcuts differ between Windows and Mac, and even between versions.
 
 <!-- INDEX_START -->
+  - [IntelliJ IDEA vs PyCharm](#intellij-idea-vs-pycharm)
+- [Install](#install)
+- [The Ultimate Shortcut](#the-ultimate-shortcut)
+- [Plugins](#plugins)
+  - [Useful Plugins](#useful-plugins)
+  - [Cloud](#cloud)
 <!-- INDEX_END -->
 
 ### IntelliJ IDEA vs PyCharm
