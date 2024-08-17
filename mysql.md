@@ -1,5 +1,8 @@
 # MySQL
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## SQL Scripts
 
 Scripts for DBA administration and performance engineering:
