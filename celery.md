@@ -6,18 +6,6 @@
 - [Summary](#summary)
 - [Install](#install)
 - [Celery App](#celery-app)
-- [first arg is used to auto name tasks                    set rpc to collect results](#first-arg-is-used-to-auto-name-tasks--------------------set-rpc-to-collect-results)
-- [also works with broker='myamqp://' seems to default to guest@rabbit](#also-works-with-brokermyamqp-seems-to-default-to-guestrabbit)
-- [see console of celery worker to see task execute + succeed](#see-console-of-celery-worker-to-see-task-execute--succeed)
-- [NotImplementedError: No result backend configured.  Please see the documentation for more information.](#notimplementederror-no-result-backend-configured--please-see-the-documentation-for-more-information)
-- [make sure app = Celery(... backend='rpc://')](#make-sure-app--celery-backendrpc)
-- [blocks + returns result value](#blocks--returns-result-value)
-- [check whether task has finished](#check-whether-task-has-finished)
-- [will raise exception if one encountered](#will-raise-exception-if-one-encountered)
-- [suppress like so](#suppress-like-so)
-- [if errored out](#if-errored-out)
-- [route tasks to queue](#route-tasks-to-queue)
-- [rate limit to only 10 of these tasks per minute](#rate-limit-to-only-10-of-these-tasks-per-minute)
 <!-- INDEX_END -->
 
 ## Summary
