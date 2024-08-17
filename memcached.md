@@ -1,5 +1,10 @@
 # Memcached
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - simple key=value pairs in memory
 - used as a cache to speed up web applications or other apps that put/get values to it
 - put / get by key
