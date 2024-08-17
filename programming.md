@@ -1,6 +1,9 @@
 # Programming
 
 <!-- INDEX_START -->
+- [Languages](#languages)
+- [Expect](#expect)
+- [Free Programming Courses](#free-programming-courses)
 <!-- INDEX_END -->
 
 ## Languages
