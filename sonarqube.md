@@ -5,6 +5,17 @@ Leading open source code quality tool.
 <https://www.sonarsource.com/open-source-editions/sonarqube-community-edition/>
 
 <!-- INDEX_START -->
+- [Config](#config)
+  - [SonarCloud](#sonarcloud)
+- [SonarQube on Kubernetes](#sonarqube-on-kubernetes)
+- [#docker run -d --name sonarqube \](#docker-run--d---name-sonarqube-)
+- [SonarQube Plugins](#sonarqube-plugins)
+- [Sonar Scanner CLI](#sonar-scanner-cli)
+  - [Download Sonar Scanner](#download-sonar-scanner)
+  - [Create `sonar-project.properties` from template](#create-sonar-projectproperties-from-template)
+  - [Back up the config first](#back-up-the-config-first)
+  - [Replace the `sonar.host.url` with the docker address](#replace-the-sonarhosturl-with-the-docker-address)
+  - [Run Sonar Scanner](#run-sonar-scanner)
 <!-- INDEX_END -->
 
 ## Config
