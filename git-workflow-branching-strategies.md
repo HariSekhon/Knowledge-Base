@@ -7,7 +7,7 @@
 - [Great Tips](#great-tips)
 - [Environment Branching Strategy](#environment-branching-strategy)
 - [GitHub Flow with Jira ticket integration](#github-flow-with-jira-ticket-integration)
-- [Git - why you shouldn't use long-lived feature branches](#git---why-you-shouldnt-use-long-lived-feature-branches)
+- [Why you shouldn't use long-lived feature branches](#why-you-shouldnt-use-long-lived-feature-branches)
 <!-- INDEX_END -->
 
 ## GitHub Flow - Simplest
