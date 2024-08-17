@@ -1,8 +1,13 @@
 # Oracle Coherence
 
-https://www.oracle.com/uk/java/coherence/
+<https://www.oracle.com/uk/java/coherence/>
 
 Oracle acquired Tangosol 2007.
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
 
 - Java in-memory data grid (100s GB)
 - horizontally scalable distributed cache
