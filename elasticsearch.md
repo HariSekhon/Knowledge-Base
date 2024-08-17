@@ -30,9 +30,9 @@ X-Pack 30 days trial with authentication:
 docker run --rm --network host -p 9200:9200 -e ELASTIC_PASSWORD=password docker.elastic.co/elasticsearch/elasticsearch-platinum:6.2.2
 ```
 
-### Heap
+## Heap
 
-Used 30% of 6 nodes at 10g, increased to 75% with 30g, odd failed task retried, some dups
+Used 30% of 6 nodes at 10g, increased to 75% with 30g, odd failed task retried, some dups.
 
 /etc/sysconfig/elasticsearch:
 
@@ -46,7 +46,7 @@ Get rid of stupid Marvel superhero names for easier debugging, export HOSTNAME f
 export HOSTNAME=$(hostname -s)
 ```
 
-### Linux Limits
+## Linux Limits
 
 To allow `mlockall: true` to work in elasticsearch config:
 
