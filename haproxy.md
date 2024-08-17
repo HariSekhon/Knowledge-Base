@@ -38,7 +38,7 @@ HAProxy configurations for many common open source technologies are readily avai
 
 [HariSekhon/HAProxy-configs](https://github.com/HariSekhon/HAProxy-configs)
 
-#### Affinity vs Persistence:
+## Affinity vs Persistence
 
 - Affinity    - uses info below the L7 application layer to maintain a client request to a server eg. source IP
 - Persistence - uses L7 info eg. HTTP cookies - more accurate, better for cache hits
@@ -67,13 +67,13 @@ HAProxy configurations for many common open source technologies are readily avai
 - DoS protection based on stats per IP
 - http compression offload
 
-### Logging
+## Logging
 
 - only logs to Syslog, not local files or sockets
 - network logging (detailed configurable logging with millisecond precision)
 
 
-### Comparisons
+## Comparisons vs Alternatives
 
 HAProxy is a better Load Balancer than:
 
@@ -124,7 +124,7 @@ health checks:
 - agents to report load or admin states
 - atomically fail entire host if 1 server process is broken
 
-### Load Balancing Algorithms
+## Load Balancing Algorithms
 
 | Algorithm  | Description                                                                                                                                         |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -151,7 +151,7 @@ halog
 CLI via docket - show status, conns, dynamic weighting adjustment, change server address etc.
 socat /var/run/haproxy.sock
 
-### Linux - allow HAProxy to bind to IP of VIP from Keepalived
+## Linux - allow HAProxy to bind to IP of VIP from Keepalived
 
 `/etc/sysctl.conf`:
 
