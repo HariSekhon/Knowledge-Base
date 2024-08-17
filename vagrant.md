@@ -1,11 +1,14 @@
 # Vagrant
 
-https://www.vagrantup.com/
+<https://www.vagrantup.com/>
 
 Written in Ruby with a declarative `Vagrantfile` to declare the VMs, their settings, networking and provisioning scripts for automation of the VM contents.
 
 Useful to creating and maintaining local clusters of VMs for reproducing client's problems on specific versions of
 software. Used this at [Cloudera](https://cloudera.com) a lot.
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
 
 ## Install
 
