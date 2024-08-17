@@ -1,5 +1,8 @@
 # HTTP Proxying
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Client Apps Using Proxies
 
 Use Cases:
