@@ -3,6 +3,9 @@
 These are mostly [SQL](sql.md) databases of various forms, usually RDBMS or MPP, but some without referential integrity
 or ACID compliance.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Open Source Databases
 
 ### Open Source RDBMS
