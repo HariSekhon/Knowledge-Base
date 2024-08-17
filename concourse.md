@@ -4,6 +4,9 @@ https://concourse-ci.org/
 
 Nice simple lean open source CI/CD tool.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## QuickStart in Docker in one command
 
 In [HariSekhon/DevOps-Bash-tools](devops-bash-tools.md):
