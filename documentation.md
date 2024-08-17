@@ -9,6 +9,8 @@
 - [Datacenter Documentation](#datacenter-documentation)
   - [Rack Documentation](#rack-documentation)
   - [IPAM - IP Address Management](#ipam---ip-address-management)
+- [Support Numbers](#support-numbers)
+  - [WhatsApp Desktop Links](#whatsapp-desktop-links)
 <!-- INDEX_END -->
 
 ## The Importance of Documentation
