@@ -6,6 +6,9 @@
 
 See [Elasticsearch](elasticsearch.md) too.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Solr UI
 
 Uses an embedded Jetty webapp on port 8983
