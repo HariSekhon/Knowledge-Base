@@ -38,12 +38,23 @@ build: init
 	@echo
 	@$(MAKE) git-summary
 	@echo
+	@#$(MAKE) generate-index
 	@$(MAKE) index
 	@$(MAKE) mdl
 	@$(MAKE) references
 	@echo
 	@#$(MAKE) pre-commit
 	@echo "All Checks Passed"
+
+generate-index:
+	@# markdown_replace_index.sh is from DevOps-Bash-tools repo being in the $PATH
+	@git ls-files --cached "*.md" | \
+	grep -v README.md | \
+	while read -r filename; do \
+		if ! git status --porcelain "$$filename" | grep -q . ; then \
+			echo markdown_replace_index.sh "$$filename"; \
+		fi; \
+	done
 
 pre-commit:
 	pre-commit run --all
