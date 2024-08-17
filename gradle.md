@@ -6,6 +6,11 @@ Newer JVM build system written in Groovy with a nicer build configuration file `
 
 Good replacement for [Maven](maven.md).
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - good docs
 - good plugin support
 - easy to work with
@@ -25,7 +30,7 @@ or if changing versions, gradle only manages its current version, so:
 pkill -f org.gradle.launcher.daemon.bootstrap.GradleDaemon
 ```
 
-# Plugins
+## Plugins
 
 Adds support for compiling languages:
 
