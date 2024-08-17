@@ -1,5 +1,8 @@
 # Programming
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Languages
 
 1. [Bash](bash.md) - the gold standard for shell scripting
