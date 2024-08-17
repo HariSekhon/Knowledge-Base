@@ -5,6 +5,11 @@ exposure risks when one site or another inevitably gets hacked (see https://have
 
 However, they also represent a single point of failure they themselves get hacked.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## SaaS Secret Managers
+
 - [Google Password Manager](https://passwords.google.com/?pli=1) - built-in to the Chrome browser. If Google gets hacked it's game over because everybody relies on Google for GMail and SSO auth logins.
 - [BitWarden](https://bitwarden.com/) - open-core, free for personal use
 - [1Password](https://1password.com/)
