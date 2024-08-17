@@ -9,6 +9,9 @@ Scan Artifactory repo mirrors:
 - MaxDefender ICAP
 - JFrog X-Ray
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Artifactory on Kubernetes
 
 [HariSekhon/Kubernetes - artifactory](https://github.com/HariSekhon/Kubernetes-configs/tree/master/artifactory)
