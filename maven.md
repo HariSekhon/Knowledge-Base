@@ -7,6 +7,9 @@ The standard Java build tool.
 Uses an XML configuration file `pom.xml` at the root of the project directory and a `mvn` command to build `.jar`
 package files.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Real World Example `pom.xml` builds
 
 [HariSekhon/Nagios-Plugin-Kafka - pom.xml](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/pom.xml)
@@ -123,11 +126,11 @@ Eclipse -> `Preferences`
 -> `M2_REPO`
 -> `/Users/hari/.m2/repository`
 
-### Surefire
+## Surefire
 
 Calls unit tests.
 
-### Maven Wrapper
+## Maven Wrapper
 
 <https://github.com/takari/maven-wrapper>
 
@@ -159,7 +162,7 @@ It will then download use the same version of Maven as the original:
 ./mvnw clean package
 ```
 
-### Sonar Plugin
+## Sonar Plugin
 
 <http://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Maven>
 
@@ -169,7 +172,7 @@ See `~/.m2/settings.xml` which contains `docker:1026` address of SonarQube
 mvn sonar:sonar
 ```
 
-### VersionEye
+## VersionEye
 
 [HariSekhon/lib-java - pom.xml](https://github.com/HariSekhon/lib-java/blob/master/pom.xml)
 
@@ -210,7 +213,7 @@ Check + send security package updates:
 mvn versioneye:securityCheck
 ```
 
-### Polyglot Maven
+## Polyglot Maven
 
 <https://github.com/takari/polyglot-maven>
 
@@ -218,7 +221,7 @@ mvn versioneye:securityCheck
 - eg. Groovy, Scala, Ruby, Clojure, Atom, Yaml
 - can convert POMs between XML and the different formats
 
-### Maven Coordinates
+## Maven Coordinates
 
 ```
 groupid:artifactid:packaging:version
@@ -228,7 +231,7 @@ packaging == jar
 
 version   == `1.0-SNAPSHOT` by default
 
-### Maven Repositories
+## Maven Repositories
 
 Web server structure:
 
@@ -284,7 +287,9 @@ MAVEN_OPTS="-Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=8080 -Dhttps.proxyHost=p
 </settings>
 ```
 
-### Stop wasting time downloading newer Snapshots
+See also [Artifact Registries](artifact-registries.md).
+
+## Stop wasting time downloading newer Snapshots
 
 ```xml
 <repository>
@@ -300,7 +305,7 @@ MAVEN_OPTS="-Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=8080 -Dhttps.proxyHost=p
 </repository>
 ```
 
-### Phases
+## Phases
 
 Each phase executes all previous phases
 
@@ -320,7 +325,7 @@ install
 site  # generates reports under target/site/index.html from src/site
 ```
 
-### Help
+## Help
 
 ```shell
 mvn help:active-profiles
@@ -354,7 +359,7 @@ Full help on only a specific goal in the plugin:
 mvn help:describe -Dplugin=compiler -Dmojo=compile -Dfull
 ```
 
-### Templating
+## Templating
 
 From [HariSekhon/Templates](https://github.com/HariSekhon/Templates) `pom.xml` template
 using [DevOps-Perl-tools](devops-perl-tools.md) `new.pl` (aliased to just `new` in
@@ -418,7 +423,7 @@ Can skip exec.mainClass if specifying in the pom.xml configuration section:
 mvn exec:java -Dexec.args="<args>"
 ```
 
-### Dependencies
+## Dependencies
 
 ```shell
 mvn dependency:resolve
@@ -432,7 +437,7 @@ mvn dependency:tree
 mvn install -X  # debug flag shows what dependencies were resolved, which rejected etc..
 ```
 
-### Test
+## Test
 
 ```shell
 mvn test # executes all JUnit tested under src/test/java/**/Test*.java
