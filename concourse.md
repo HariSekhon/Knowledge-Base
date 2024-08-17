@@ -11,7 +11,7 @@ Nice simple lean open source CI/CD tool.
   - [fly.sh](#flysh)
   - [fly](#fly)
   - [Fly shell auto-completion](#fly-shell-auto-completion)
-  - [Concourse YAML](#concourse-yaml)
+- [Concourse YAML](#concourse-yaml)
 <!-- INDEX_END -->
 
 ## QuickStart in Docker in one command
@@ -122,7 +122,9 @@ or
 fly completion --shell bash > /etc/bash_completion.d/fly
 ```
 
-### Concourse YAML
+## Concourse YAML
+
+Environment variable:
 
 ```
 ((my_env_var))
