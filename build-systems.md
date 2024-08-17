@@ -1,6 +1,13 @@
 # Build Systems
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+- [Make](#make)
+- [Maven](#maven)
+- [Gradle](#gradle)
+- [Sbt](#sbt)
+- [Bazel](#bazel)
+  - [Install](#install)
 <!-- INDEX_END -->
 
 ## Summary
