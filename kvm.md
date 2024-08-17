@@ -1,5 +1,8 @@
 # KVM Virtualization
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## GUI
 
 SSH to server with X Forwarding:
