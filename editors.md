@@ -1,6 +1,13 @@
 # Editors & IDEs
 
 <!-- INDEX_START -->
+- [Editors](#editors)
+  - [ViM](#vim)
+- [IDEs](#ides)
+- [Editor Config](#editor-config)
+- [Misc IDE Notes](#misc-ide-notes)
+  - [IntelliJ IDEA](#intellij-idea)
+  - [Eclipse](#eclipse)
 <!-- INDEX_END -->
 
 ## Editors
