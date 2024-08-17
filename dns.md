@@ -2,6 +2,11 @@
 
 Resolves hostnames and fully qualified domain names (FQDNs) to IP addresses.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Ports
+
 | TCP / UDP | Port | Description                                                            |
 | --------- | ---- |------------------------------------------------------------------------|
 | UDP       | 53   | - DNS client requests<br/>- DNS server replies                         |
