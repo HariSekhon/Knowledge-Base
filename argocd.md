@@ -16,6 +16,30 @@ Declarative GitOps Continuous Delivery of applications on Kubernetes.
 - Active community
 
 <!-- INDEX_START -->
+- [Install Quickly](#install-quickly)
+- [Find the ArgoCD default admin password](#find-the-argocd-default-admin-password)
+- [ArgoCD templates](#argocd-templates)
+- [ArgoCD & Kubernetes Scripts](#argocd--kubernetes-scripts)
+- [ArgoCD Kustomize + Helm Integration for GitOps](#argocd-kustomize--helm-integration-for-gitops)
+- [GitOps ArgoCD itself](#gitops-argocd-itself)
+  - [App-of-Apps Pattern](#app-of-apps-pattern)
+  - [App-of-Projects Pattern](#app-of-projects-pattern)
+- [GitHub Webhooks Integration](#github-webhooks-integration)
+- [ArgoCD CLI](#argocd-cli)
+  - [Authenticate the CLI](#authenticate-the-cli)
+- [Clusters](#clusters)
+- [Applications](#applications)
+- [Azure AD Authentication for SSO](#azure-ad-authentication-for-sso)
+- [Google Authentication for SSO](#google-authentication-for-sso)
+  - [Troubleshooting GCP Auth](#troubleshooting-gcp-auth)
+- [GitHub Webhooks](#github-webhooks)
+- [CI/CD - Jenkins CI -> ArgoCD Integration](#cicd---jenkins-ci---argocd-integration)
+- [Prometheus metrics + Grafana dashboard](#prometheus-metrics--grafana-dashboard)
+- [Notifications](#notifications)
+- [Troubleshooting](#troubleshooting)
+  - [Kustomize Manifest Generation Error](#kustomize-manifest-generation-error)
+  - [Manifest cached error not updating in an hour](#manifest-cached-error-not-updating-in-an-hour)
+- [#kubectl delete -n argocd "$pod"](#kubectl-delete--n-argocd-pod)
 <!-- INDEX_END -->
 
 #### Components
