@@ -1,6 +1,6 @@
 # Cert Manager
 
-https://github.com/jetstack/cert-manager
+<https://github.com/jetstack/cert-manager>
 
 Automatic SSL certificates generated for your Kubernetes ingresses.
 
@@ -9,6 +9,9 @@ Cert Manager is awesome - except when you're stuck on the config or debugging wh
 Free certs provided by LetsEncrypt CA integration.
 
 ACME - Automated Certificate Management Environment.
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
 
 ## Config
 
