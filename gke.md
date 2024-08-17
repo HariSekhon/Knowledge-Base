@@ -2,6 +2,9 @@
 
 NOT PORTED YET
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## GKE Autopilot
 
 Serverless Kubernetes service to avoid having to deal with node pool management.
