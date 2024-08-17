@@ -2,7 +2,7 @@
 
 The best laptop money can buy:
 
-https://www.apple.com/uk/macbook-pro/
+<https://www.apple.com/uk/macbook-pro/>
 
 If you don't have an M3 Pro / Max - you're missing out on an excellent (but overpriced) machine.
 
@@ -11,6 +11,7 @@ Macbook Pro - a real joy to use. Even when you're using more RAM than the physic
 performance is still so good you don't notice significant performance degradation for most usage, even when using
 heavyweight IDEs like [IntelliJ](intellij.md).
 
+<!-- INDEX_START -->
 - [Terminal](#terminal)
 - [Homebrew - Package Management](#homebrew---package-management)
 - [Stats Bar](#stats-bar)
@@ -32,6 +33,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Service Management](#service-management)
 - [Creating Bootable CDs & USBs from ISOs](#creating-bootable-cds--usbs-from-isos)
   - [Other Options](#other-options)
+<!-- INDEX_END -->
 
 ## Terminal
 
