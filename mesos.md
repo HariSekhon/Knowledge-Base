@@ -5,6 +5,14 @@ Obsolete. Use [Kubernetes](kubernetes.md) instead.
 Written in C++ with Java and Python bindings
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+- [Ports](#ports)
+- [HA](#ha)
+- [Security](#security)
+- [Setup](#setup)
+  - [Mesos CLI](#mesos-cli)
+  - [Test frameworks to check Mesos is working](#test-frameworks-to-check-mesos-is-working)
+- [Chronos](#chronos)
 <!-- INDEX_END -->
 
 ## Summary
