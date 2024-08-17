@@ -18,6 +18,23 @@
 - [Health Checks](#health-checks)
 - [Key Value Store](#key-value-store)
 - [UI](#ui)
+- [Summary](#summary)
+- [Ports](#ports)
+- [Consul vs ZooKeeper / Doozerd / SkyDNS / SmartStack](#consul-vs-zookeeper--doozerd--skydns--smartstack)
+- [Install](#install)
+- [Options](#options)
+- [Run](#run)
+- [Cluster](#cluster)
+- [Maintenance](#maintenance)
+- [API](#api)
+- [Services](#services)
+  - [HTTP API](#http-api)
+  - [DNS API](#dns-api)
+- [Multi-DC](#multi-dc)
+- [Cluster test](#cluster-test)
+- [Health Checks](#health-checks)
+- [Key Value Store](#key-value-store)
+- [UI](#ui)
 <!-- INDEX_END -->
 
 ## Summary
