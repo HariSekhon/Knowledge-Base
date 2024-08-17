@@ -1,6 +1,18 @@
 # Windows
 
 <!-- INDEX_START -->
+- [Remote Desktop](#remote-desktop)
+- [Screenshots](#screenshots)
+- [Start At Login](#start-at-login)
+- [MMCs](#mmcs)
+- [Commands](#commands)
+  - [Networking](#networking)
+  - [List Volumes](#list-volumes)
+  - [Get Free Disk Space on All Volumes](#get-free-disk-space-on-all-volumes)
+  - [Disk Check Analysis](#disk-check-analysis)
+  - [Find the location of a binary in the %PATH%](#find-the-location-of-a-binary-in-the-path)
+  - [List Disk Space](#list-disk-space)
+  - [File Permissions](#file-permissions)
 <!-- INDEX_END -->
 
 ## Remote Desktop
