@@ -2,6 +2,9 @@
 
 NOT PORTED YET
 
+<!-- INDEX_STAR -->
+<!-- INDEX_END -->
+
 ## DevOps Bash tools for Azure, AKS, VMs etc
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
