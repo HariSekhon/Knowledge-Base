@@ -1,6 +1,11 @@
 # Celery
 
-https://docs.celeryq.dev/en/stable/index.html
+<https://docs.celeryq.dev/en/stable/index.html>
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
 
 Distributed Task Queue
 
