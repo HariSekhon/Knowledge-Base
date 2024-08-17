@@ -1,5 +1,6 @@
 # Documentation
 
+<!-- INDEX_START -->
 - [The Importance of Documentation](#the-importance-of-documentation)
 - [Documentation Tools](#documentation-tools)
   - [Wikis](#wikis)
@@ -8,6 +9,7 @@
 - [Datacenter Documentation](#datacenter-documentation)
   - [Rack Documentation](#rack-documentation)
   - [IPAM - IP Address Management](#ipam---ip-address-management)
+<!-- INDEX_END -->
 
 ## The Importance of Documentation
 
