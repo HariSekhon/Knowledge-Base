@@ -1,8 +1,13 @@
 # Hashicorp Vault
 
-https://developer.hashicorp.com/vault
+<https://developer.hashicorp.com/vault>
 
 The leading open source secrets manager.
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
 
 - stores credentials / secrets / keys / passwords / certificates / API keys
 - detailed audit log
