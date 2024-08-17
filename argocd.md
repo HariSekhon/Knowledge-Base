@@ -39,7 +39,6 @@ Declarative GitOps Continuous Delivery of applications on Kubernetes.
 - [Troubleshooting](#troubleshooting)
   - [Kustomize Manifest Generation Error](#kustomize-manifest-generation-error)
   - [Manifest cached error not updating in an hour](#manifest-cached-error-not-updating-in-an-hour)
-- [#kubectl delete -n argocd "$pod"](#kubectl-delete--n-argocd-pod)
 <!-- INDEX_END -->
 
 #### Components
