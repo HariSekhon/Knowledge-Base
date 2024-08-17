@@ -9,6 +9,8 @@ Here is mine:
 https://medium.com/@harisekhon
 
 <!-- INDEX_START -->
+- [Keyboard Shortcuts](#keyboard-shortcuts)
+- [Convert WebP Images to PNG format](#convert-webp-images-to-png-format)
 <!-- INDEX_END -->
 
 ## Keyboard Shortcuts
