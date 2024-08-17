@@ -1,8 +1,13 @@
 # Docker
 
-https://www.docker.com/
+<https://www.docker.com/>
 
 Lightweight application containers containing app + all dependencies.
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
 
 - Docker Stable - quarterly releases
 - Docker Edge - bleeding edge monthly releases
