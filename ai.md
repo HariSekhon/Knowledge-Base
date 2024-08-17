@@ -4,6 +4,9 @@ Generally narrow AI.
 
 General AI mirroring what humans have is not real yet.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Learning
 
 https://www.cloudskillsboost.google/paths/118
