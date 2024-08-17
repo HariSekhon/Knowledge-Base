@@ -6,6 +6,24 @@ Helm is the original Kubernetes app manager before the rise of [Kustomize](kusto
 mechanism of deploying public Kubernetes applications.
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+- [Helm v3](#helm-v3)
+  - [Install](#install)
+  - [Repos](#repos)
+  - [Search for Packages](#search-for-packages)
+  - [Install Chart](#install-chart)
+  - [Docker Registries](#docker-registries)
+- [Create Your Own Helm Chart](#create-your-own-helm-chart)
+  - [Create template](#create-template)
+  - [Edit](#edit)
+  - [Lint](#lint)
+  - [Install Chart](#install-chart)
+- [Chart GitHub Repo](#chart-github-repo)
+- [Helm + Kustomize](#helm--kustomize)
+  - [Kustomize + Helm dynamically](#kustomize--helm-dynamically)
+  - [Kustomize + Helm statically](#kustomize--helm-statically)
+  - [Static Templating Helm Tarball](#static-templating-helm-tarball)
+- [Old: Helm v2](#old-helm-v2)
 <!-- INDEX_END -->
 
 ## Summary
