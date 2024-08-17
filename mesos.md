@@ -4,9 +4,16 @@ Obsolete. Use [Kubernetes](kubernetes.md) instead.
 
 Written in C++ with Java and Python bindings
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - Marathon - task launcher, uses Docker
 - Chronos  - cron (highly available, fault-tolerant)
 - Mesos Consul - Docker image by Cisco that registers all services with Consul
+
+## Ports
 
 | Port | Description          |
 | ---- |----------------------|
@@ -14,6 +21,7 @@ Written in C++ with Java and Python bindings
 | 5051 | Slave                |
 | 8080 | Cronos UI / REST API |
 
+## HA
 
 Each HA Master UI redirects to active master, so each master uses both a leader and detector to [ZooKeeper](zookeeper.md)
 
