@@ -7,6 +7,14 @@ Newer JVM build system written in Groovy with a nicer build configuration file `
 Good replacement for [Maven](maven.md).
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+- [Plugins](#plugins)
+- [Uber jar](#uber-jar)
+- [SonarQube](#sonarqube)
+- [optionally](#optionally)
+- [VersionEye](#versioneye)
+- [Gradle Wrapper](#gradle-wrapper)
+- [build.gradle](#buildgradle)
 <!-- INDEX_END -->
 
 ## Summary
