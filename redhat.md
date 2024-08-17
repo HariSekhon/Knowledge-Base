@@ -1,5 +1,8 @@
 # Redhat
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## RHEL / CentOS / Fedora / Rocky Linux
 
 Redhat is one of the original Linux distributions.
