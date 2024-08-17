@@ -5,6 +5,10 @@
 Smaller simpler cloud provider used by developers for personal projects.
 
 <!-- INDEX_START -->
+- [CLI - `doctl`](#cli---doctl)
+  - [Create your API token](#create-your-api-token)
+  - [Install](#install)
+  - [Usage](#usage)
 <!-- INDEX_END -->
 
 ## CLI - `doctl`
