@@ -10,6 +10,9 @@ Adds finalizers to nodes which blocks deletion until all pods are drained.
 
 Particularly well suited to burst scale up and scale down use cases such as machine learning jobs.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Install
 
 ```shell
