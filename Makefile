@@ -53,6 +53,7 @@ generate-index:
 	while read -r filename; do \
 		if ! git status --porcelain "$$filename" | grep -q . ; then \
 			markdown_replace_index.sh "$$filename"; \
+			echo; \
 		fi; \
 	done
 
