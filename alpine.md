@@ -8,6 +8,9 @@ Uses `busybox` all-in-one binary with minimal core shell and coreutils functiona
 
 Replaced `libc` with `musl` core library which sometimes causes problems with progam compiling or grep buggy behaviour.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Package Management
 
 https://wiki.alpinelinux.org/wiki/Alpine_Linux_package_management
