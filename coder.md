@@ -5,6 +5,13 @@
 Self-hosted enterprise Dev environments.
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+- [Coder CLI](#coder-cli)
+  - [Install CLI](#install-cli)
+  - [Local Server](#local-server)
+  - [CLI Usage](#cli-usage)
+  - [Configure SSH](#configure-ssh)
+  - [Disabling SSH](#disabling-ssh)
 <!-- INDEX_END -->
 
 ## Summary
