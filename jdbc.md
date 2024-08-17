@@ -4,6 +4,11 @@ Java driver standard to connect to databases.
 
 Frequently used with RDBMS databases such as MySQL and PostgreSQL.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Installation
+
 For Data Integration software such as [Informatica](informatica.md) or [Sqoop](sqoop.md) this typically requires
 downloading the JDBC driver jar file for the specific database and then copying it into the 3rd party drivers directory
 of the software to pick it up and use it.
