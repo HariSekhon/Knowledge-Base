@@ -2,6 +2,9 @@
 
 Distributed ring clustered search service.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Sample Sizing
 
 Cluster from a bank: 470TB 88 nodes 30k events/sec
