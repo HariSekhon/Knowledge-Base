@@ -16,18 +16,6 @@ package files.
 
 [HariSekhon/lib-java - pom.xml](https://github.com/HariSekhon/lib-java/blob/master/pom.xml)
 
-### Taken from HBase
-
-```shell
-mvn assembly:assembly
-```
-
-HBase tests take >1hr to complete, skip them using `-DskipTests`:
-
-```shell
-mvn -DskipTests assembly:assembly
-```
-
 ### Best practice for release version incrementing
 
 https://maven.apache.org/guides/mini/guide-releasing.html
@@ -43,40 +31,6 @@ mvn release:perform...
 Dependencies are downloaded to the local `~/.m2/repository` directory.
 
 Maven shaded jars (monolithic jars containing all dependencies)
-
-### Maven Eclipse support
-
-Import in to Eclipse:
-
-```shell
-mvn -Declipse.workspace="$HOME/workspace" \
-      eclipse:configure-workspace \
-      eclipse:eclipse
-```
-
-from: <http://blog.cloudera.com/blog/2012/08/developing-cdh-applications-with-maven-and-eclipse/>
-
-Downloads dependencies to `~/.m2/repository` and writes project's top level `.classpath` file for Eclipse pointing to `.m2/repository`
-then go to Eclipse -> Right click project -> Refresh to pick up the new .classpath
-
-```shell
-mvn eclipse:clean
-```
-
-```shell
-mvn eclipse:eclipse
-```
-
-Don't use this any more, just `install` to `.m2/repository`:
-
-```shell
-mvn deploy:deploy-file -Durl=file://$PWD/../repo \
-                       -Dfile=$(echo target/harisekhon-utils-*.jar) \
-                       -DgroupId=com.linkedin.harisekhon \
-                       -DartifactId=utils \
-                       -Dpackaging=jar \
-                       -Dversion=1.0
-```
 
 ## Executable Jar
 
@@ -447,6 +401,52 @@ occasionally ignore errors to get build a test:
 
 ```shell
 mvn test -Dmaven.test.failure.ignore=true
+```
+
+## Taken from HBase
+
+```shell
+mvn assembly:assembly
+```
+
+HBase tests take >1hr to complete, skip them using `-DskipTests`:
+
+```shell
+mvn -DskipTests assembly:assembly
+```
+
+## Maven Eclipse support
+
+Import in to Eclipse:
+
+```shell
+mvn -Declipse.workspace="$HOME/workspace" \
+      eclipse:configure-workspace \
+      eclipse:eclipse
+```
+
+from: <http://blog.cloudera.com/blog/2012/08/developing-cdh-applications-with-maven-and-eclipse/>
+
+Downloads dependencies to `~/.m2/repository` and writes project's top level `.classpath` file for Eclipse pointing to `.m2/repository`
+then go to Eclipse -> Right click project -> Refresh to pick up the new .classpath
+
+```shell
+mvn eclipse:clean
+```
+
+```shell
+mvn eclipse:eclipse
+```
+
+Don't use this any more, just `install` to `.m2/repository`:
+
+```shell
+mvn deploy:deploy-file -Durl=file://$PWD/../repo \
+                       -Dfile=$(echo target/harisekhon-utils-*.jar) \
+                       -DgroupId=com.linkedin.harisekhon \
+                       -DartifactId=utils \
+                       -Dpackaging=jar \
+                       -Dversion=1.0
 ```
 
 ###### Ported from private Knowledge Base page 2013+
