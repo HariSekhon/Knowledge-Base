@@ -2,6 +2,9 @@
 
 SQL based databases that scale horizontally.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Hive
 
 See [hive.md](hive.md)
