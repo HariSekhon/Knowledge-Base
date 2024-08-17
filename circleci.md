@@ -4,6 +4,11 @@ https://circleci.com/
 
 One of the original hosted CI/CD systems.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 Good UI but expensive, and undercut by GitHub Actions.
 
 Not good for multi-jobs per repo compared to [GitHub Actions](github-actions.md) which has overtaken it.
