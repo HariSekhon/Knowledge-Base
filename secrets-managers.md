@@ -6,6 +6,9 @@ exposure risks when one site or another inevitably gets hacked (see https://have
 However, they also represent a single point of failure they themselves get hacked.
 
 <!-- INDEX_START -->
+- [SaaS Secret Managers](#saas-secret-managers)
+- [Local Secret Managers](#local-secret-managers)
+- [Cloud Secret Managers & Vaults](#cloud-secret-managers--vaults)
 <!-- INDEX_END -->
 
 ## SaaS Secret Managers
