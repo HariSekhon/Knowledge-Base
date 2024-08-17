@@ -5,6 +5,20 @@
 The legendary, mature widely used stable Linux distribution with the best most reliable tenure.
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+- [Package Management](#package-management)
+  - [`apt-get` vs `apt` vs `aptitude`](#apt-get-vs-apt-vs-aptitude)
+  - [Get the latest package lists](#get-the-latest-package-lists)
+  - [Package Search](#package-search)
+  - [Install](#install)
+  - [Which package would provide a given file - `apt-file`](#which-package-would-provide-a-given-file---apt-file)
+  - [Local Package Information - `dpkg`](#local-package-information---dpkg)
+  - [Sync and manage local deb repositories](#sync-and-manage-local-deb-repositories)
+- [Docker](#docker)
+- [Debian Preseeding - Automated Installations](#debian-preseeding---automated-installations)
+  - [Preseed Template](#preseed-template)
+  - [HashiCorp Packer + Preseed Config](#hashicorp-packer--preseed-config)
+- [Debian Change Log tool](#debian-change-log-tool)
 <!-- INDEX_END -->
 
 ## Summary
