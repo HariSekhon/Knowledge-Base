@@ -16,6 +16,34 @@ API code for many of the following technologies can also be found in my
 [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo.
 
 <!-- INDEX_START -->
+- [Self-Hosted CI/CD](#self-hosted-cicd)
+  - [[Jenkins](https://www.jenkins.io/)](#jenkinshttpswwwjenkinsio)
+  - [[TeamCity](https://www.jetbrains.com/teamcity/)](#teamcityhttpswwwjetbrainscomteamcity)
+  - [[Concourse](https://concourse-ci.org/)](#concoursehttpsconcourse-ciorg)
+  - [[GoCD](https://www.gocd.org/index.html)](#gocdhttpswwwgocdorgindexhtml)
+- [Hosted CI/CD by Git repo providers](#hosted-cicd-by-git-repo-providers)
+  - [[GitHub Actions](https://github.com/features/actions)](#github-actionshttpsgithubcomfeaturesactions)
+  - [[GitLab CI](https://docs.gitlab.com/ee/ci/)](#gitlab-cihttpsdocsgitlabcomeeci)
+  - [[Azure DevOps Pipelines](https://azure.microsoft.com/en-gb/products/devops/pipelines)](#azure-devops-pipelineshttpsazuremicrosoftcomen-gbproductsdevopspipelines)
+  - [[Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines)](#bitbucket-pipelineshttpsbitbucketorgproductfeaturespipelines)
+- [Hosted CI/CD - Cloud](#hosted-cicd---cloud)
+  - [[AWS CodeBuild](https://aws.amazon.com/codebuild/)](#aws-codebuildhttpsawsamazoncomcodebuild)
+  - [[GCP CloudBuild](https://cloud.google.com/build?hl=en)](#gcp-cloudbuildhttpscloudgooglecombuildhlen)
+  - [Azure DevOps Pipelines](#azure-devops-pipelines)
+- [Hosted CI/CD - 3rd Party (all are legacy)](#hosted-cicd---3rd-party-all-are-legacy)
+  - [[CircleCI](https://circleci.com/)](#circlecihttpscirclecicom)
+  - [[Travis CI](https://www.travis-ci.com/)](#travis-cihttpswwwtravis-cicom)
+  - [[BuildKite](https://buildkite.com/)](#buildkitehttpsbuildkitecom)
+  - [[AppVeyor](https://www.appveyor.com/)](#appveyorhttpswwwappveyorcom)
+  - [[Cirrus CI](https://cirrus-ci.org/)](#cirrus-cihttpscirrus-ciorg)
+  - [[Codefresh](https://codefresh.io/)](#codefreshhttpscodefreshio)
+  - [[DroneIO](https://www.drone.io/)](#droneiohttpswwwdroneio)
+  - [[Semaphore CI](https://semaphoreci.com/)](#semaphore-cihttpssemaphorecicom)
+  - [[CodeShip](https://www.cloudbees.com/products/codeship)](#codeshiphttpswwwcloudbeescomproductscodeship)
+  - [Shippable](#shippable)
+  - [NimbleCI](#nimbleci)
+- [Portable Code Design](#portable-code-design)
+- [Code Quality](#code-quality)
 <!-- INDEX_END -->
 
 ## Self-Hosted CI/CD
