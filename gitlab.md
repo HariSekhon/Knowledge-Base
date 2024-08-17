@@ -1,16 +1,18 @@
 # GitLab
 
-https://gitlab.com
+<https://gitlab.com>
 
 GitLab is the number 2 hosting provider for Git repos after [GitHub](github.md)
 
 It has good feature parity with GitHub.com, although less 3rd party CI/CD integrations as everybody integrates to GitHub first .
 
+<!-- INDEX_START -->
 - [GitLab CLI](#gitlab-cli)
 - [GitLab CLI and API auth](#gitlab-cli-and-api-auth)
 - [GitLab CI/CD](#gitlab-cicd)
 - [GitLab Official CI/CD Library](#gitlab-official-cicd-library)
 - [GitLab Profile Page](#gitlab-profile-page)
+<!-- INDEX_END -->
 
 ## GitLab CLI
 
