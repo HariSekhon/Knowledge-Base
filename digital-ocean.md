@@ -1,8 +1,11 @@
 # Digital Ocean
 
-https://www.digitalocean.com/
+<https://www.digitalocean.com/>
 
 Smaller simpler cloud provider used by developers for personal projects.
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
 
 ## CLI - `doctl`
 
