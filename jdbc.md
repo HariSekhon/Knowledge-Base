@@ -5,6 +5,11 @@ Java driver standard to connect to databases.
 Frequently used with RDBMS databases such as MySQL and PostgreSQL.
 
 <!-- INDEX_START -->
+- [Installation](#installation)
+- [Download JDBC Jar](#download-jdbc-jar)
+  - [MySQL](#mysql)
+  - [PostgreSQL](#postgresql)
+  - [AWS Aurora JDBC](#aws-aurora-jdbc)
 <!-- INDEX_END -->
 
 ## Installation
