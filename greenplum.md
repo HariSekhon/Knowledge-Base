@@ -2,6 +2,11 @@
 
 EMC spin off Pivotal for Greenplum + GemFire (in-memory caching system)
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - now Apache open sourced - but some text analytics and lucene search add-ons still proprietary
 - licensed per CPU core
 - MPP db based off PostgreSQL
@@ -11,7 +16,7 @@ EMC spin off Pivotal for Greenplum + GemFire (in-memory caching system)
 - Segment (worker node) is a modified PostgreSQL that spins up executors for each query
 - ORCA - Cost Based Optimizer
 
-http://www.ness-ses.com/big-data-101-the-rise-and-fall-of-greenplum-2/
+<http://www.ness-ses.com/big-data-101-the-rise-and-fall-of-greenplum-2/>
 
 - several high profile customers, BUT
 - difficult to tune
@@ -26,7 +31,7 @@ http://www.ness-ses.com/big-data-101-the-rise-and-fall-of-greenplum-2/
 - development likely to stagnate as open source community fails to pick it up
 - legacy technology
 
-Customers:
+## Customers
 
 - NTT Decomo (Telco) - biggest cluster (nearly 7PB)
 - DTCC - Depository Trust & Clearing Corportation
