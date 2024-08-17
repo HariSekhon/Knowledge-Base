@@ -7,6 +7,9 @@ A DHCP server receives this and responds with an IP address from its preconfigur
 This IP lease is usually for 24 hours. If the client renews it before the expiry it keeps the address, otherwise the IP
 returns to the pool and will be reassigned to another client when it requests an IP.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## DHCP Clients
 
 ### DHClient
