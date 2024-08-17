@@ -2,6 +2,9 @@
 
 Uses a `docker-compose.yml` config file to launch docker containers and settings.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Install
 
 https://docs.docker.com/compose/install/
