@@ -15,6 +15,9 @@ All my GitHub repos are also mirrored to all 4 major repo providers to use their
 API code for many of the following technologies can also be found in my
 [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Self-Hosted CI/CD
 
 ### [Jenkins](https://www.jenkins.io/)
