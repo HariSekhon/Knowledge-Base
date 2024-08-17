@@ -1,12 +1,12 @@
 # Keycloak
 
-https://www.keycloak.org/documentation
+<https://www.keycloak.org/documentation>
 
-https://www.keycloak.org/docs/latest/server_admin/index.html
+<https://www.keycloak.org/docs/latest/server_admin/index.html>
 
-https://www.keycloak.org/docs/latest/securing_apps/index.html
+<https://www.keycloak.org/docs/latest/securing_apps/index.html>
 
-https://www.keycloak.org/docs/latest/authorization_services/index.html
+<https://www.keycloak.org/docs/latest/authorization_services/index.html>
 
 - RBAC / ABAC solution
 - Java app
@@ -14,6 +14,9 @@ https://www.keycloak.org/docs/latest/authorization_services/index.html
 - CLI
 - Rest API
 - docs, Getting Started docs are thin, go to [Server Administration](https://www.keycloak.org/docs/latest/server_admin/index.html) docs
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
 
 ### Terminology
 
