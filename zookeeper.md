@@ -7,6 +7,23 @@ Small metadata, watches and locks.
 Used by major technologies, especially Big Data technologies like HBase, Hive High Availability, and [SolrCloud](solr.md).
 
 <!-- INDEX_START -->
+- [Basics](#basics)
+  - [More Details](#more-details)
+- [Ports](#ports)
+- [Kerberos](#kerberos)
+- [CLI](#cli)
+- [UI](#ui)
+- [Administration](#administration)
+- [ZooKeeper 4lw API](#zookeeper-4lw-api)
+- [Java API](#java-api)
+- [Perl ZooKeeper Client Library - `Net::ZooKeeper` build](#perl-zookeeper-client-library---netzookeeper-build)
+- [#export ZOOKEEPER_VERSION=3.4.5](#export-zookeeperversion345)
+- [#export LD_LIBRARY_PATH=/usr/local/lib](#export-ldlibrarypathusrlocallib)
+- [#mkdir $github/nagios-plugins/lib/Net](#mkdir-githubnagios-pluginslibnet)
+- [#cp /Library/Perl/5.12/darwin-thread-multi-2level/Net/ZooKeeper $github/nagios-plugins/lib/Net/](#cp-libraryperl512darwin-thread-multi-2levelnetzookeeper-githubnagios-pluginslibnet)
+- [Monitoring](#monitoring)
+- [Multi-DC Availability](#multi-dc-availability)
+- [Troubleshooting](#troubleshooting)
 <!-- INDEX_END -->
 
 ## Basics
