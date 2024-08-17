@@ -5,6 +5,22 @@
 Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing and templating capabilities.
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+- [Install](#install)
+- [Terragrunt Template](#terragrunt-template)
+- [Terragrunt Usage](#terragrunt-usage)
+  - [Plan & Apply](#plan--apply)
+  - [Validate Inputs](#validate-inputs)
+  - [Run-All](#run-all)
+  - [Auto Format](#auto-format)
+  - [CI/CD](#cicd)
+- [Terraform Lock Files](#terraform-lock-files)
+- [Dependency Graph](#dependency-graph)
+  - [Graph Run](#graph-run)
+- [Terragrunt Scaffold](#terragrunt-scaffold)
+- [Terragrunt Debugging](#terragrunt-debugging)
+- [tgswitch](#tgswitch)
+- [Terragrunt Troubleshooting](#terragrunt-troubleshooting)
 <!-- INDEX_END -->
 
 ## Summary
