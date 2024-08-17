@@ -23,6 +23,7 @@ package files.
 - [Phases](#phases)
 - [Help](#help)
 - [Templating](#templating)
+  - [mvn archetype:generate](#mvn-archetypegenerate)
 - [Maven Exec](#maven-exec)
 - [Dependencies](#dependencies)
 - [Test](#test)
@@ -344,6 +345,10 @@ new pom.xml
 ```
 
 This will instantiate a new `pom.xml` files while inferring NAME from directory.
+
+Or use `mvn archetype:generate`.
+
+### mvn archetype:generate
 
 -B batch mode doesn't prompt you for which archetype and version,
 accepts default Quickstart archetype and latest version 1.1
