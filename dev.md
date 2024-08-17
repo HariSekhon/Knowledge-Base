@@ -2,6 +2,9 @@
 
 #### TODO: move to other more specific detailed pages
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 - Heroku
   - free tier - 512MB 1 web / 1 worker
   - sleeps after 30 mins
