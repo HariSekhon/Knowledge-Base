@@ -5,6 +5,7 @@ S3 open source server software.
 Useful for testing S3 code.
 
 <!-- INDEX_START -->
+- [Command Line](#command-line)
 <!-- INDEX_END -->
 
 ## Command Line
