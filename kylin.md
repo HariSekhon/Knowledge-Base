@@ -2,6 +2,11 @@
 
 OLAP Cube engine from eBay (Apache incubator), combines HBase for low latency and Hive for mid latency
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - Fast OLAP Cube on HBase + Hive
 - uses HBase Coprocessors
 - ANSI SQL
