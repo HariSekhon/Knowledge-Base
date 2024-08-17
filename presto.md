@@ -12,6 +12,10 @@ backed by Teradata from mid 2015
 
 - 2-7.5x faster than [Hive](hive.md), 4-7x more CPU efficient
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
 
 - OLAP for data warehousing
 - not OLTP
