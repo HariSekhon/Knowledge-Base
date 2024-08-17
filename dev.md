@@ -4,8 +4,8 @@
 
 <!-- INDEX_START -->
 - [Jira](#jira)
-  - [Packaging](#packaging)
-  - [Dependency Tracking](#dependency-tracking)
+- [Packaging](#packaging)
+- [Dependency Tracking](#dependency-tracking)
 <!-- INDEX_END -->
 
 - Heroku
@@ -19,11 +19,11 @@
 
 See [Atlassian](atlassian.md) page.
 
-### Packaging
+## Packaging
 
 [Packager.io](https://packager.io/) - auto-builds rpm / deb packages for Ruby, NodeJS, Golang
 
-### Dependency Tracking
+## Dependency Tracking
 
 - VersionEye:
   - supports: Java, Ruby, Python, Node.JS, PHP, JavaScript, CSS, Objective-C, R, Clojure
