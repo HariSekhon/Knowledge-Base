@@ -10,6 +10,9 @@ Scan Artifactory repo mirrors:
 - JFrog X-Ray
 
 <!-- INDEX_START -->
+- [Artifactory on Kubernetes](#artifactory-on-kubernetes)
+- [JFrog CLI](#jfrog-cli)
+- [Old Install](#old-install)
 <!-- INDEX_END -->
 
 ## Artifactory on Kubernetes
