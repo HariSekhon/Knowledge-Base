@@ -2,6 +2,11 @@
 
 <https://hazelcast.com/products>
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - In-Memory Data Grid
 - Apache licensed open source
 - HA, scale out, resilient
@@ -34,6 +39,8 @@ Pub-Sub - has ringbuffer to allocate slow/disconnected consumers to catch up
 
 3.6 will have a disk restart option
 
+## Code
+
 ```shell
 HazelcastInstance hazelcastInstance = Hazelcast.newHazelcastInstance();
 ```
@@ -43,6 +50,5 @@ Client only connection not part of cluster memory:
 ```shell
 HazelcastInstance hazelcastInstance = HazelcastClient.newHazelcastClient();
 ```
-
 
 ###### Ported from private Knowledge Base page 2014+
