@@ -2,6 +2,11 @@
 
 <https://k3s.io/>
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - lightweight k8s compatible implementation
 - single 70MB binary kubernetes distro
 - built for IoT & Edge computing, good for CI, embedded etc.
