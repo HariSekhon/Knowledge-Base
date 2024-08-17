@@ -5,6 +5,26 @@ Simple Build Tool / Scala Build Tool
 <https://www.scala-sbt.org/>
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+- [Build File - `build.sbt`](#build-file---buildsbt)
+- [Usage](#usage)
+  - [Create jar](#create-jar)
+  - [Create self-contained 'uber jar' with all dependencies included using Assembly plugin](#create-self-contained-uber-jar-with-all-dependencies-included-using-assembly-plugin)
+  - [Interactive Console - REPL](#interactive-console---repl)
+  - [Watch `src/` + Auto-Trigger](#watch-src--auto-trigger)
+  - [Use the Ivy cache](#use-the-ivy-cache)
+  - [Compile the main sources in `src/main/scala` and `src/main/java`](#compile-the-main-sources-in-srcmainscala-and-srcmainjava)
+  - [Compile and run all tests](#compile-and-run-all-tests)
+  - [Install jar to local Ivy repository](#install-jar-to-local-ivy-repository)
+  - [Install jar to local Maven repository](#install-jar-to-local-maven-repository)
+  - [Push jar to remote repo (if configured)](#push-jar-to-remote-repo-if-configured)
+  - [Pull down dependencies to `lib_managed/`](#pull-down-dependencies-to-libmanaged)
+  - [Add task](#add-task)
+- [Eclipse](#eclipse)
+  - [SBT <= 0.12](#sbt--012)
+  - [SBT 0.13+](#sbt-013)
+- [IntelliJ](#intellij)
+- [Build.sbt](#buildsbt)
 <!-- INDEX_END -->
 
 ## Summary
