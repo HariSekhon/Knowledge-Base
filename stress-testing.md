@@ -6,6 +6,8 @@ Loading testing aka soak testing is sustained loading the system, rather than te
 
 This is useful to burn in hardware to avoid early stage production failures, leaving around 3 year later staggered failures, MTTR / MTBF etc.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
 
 ### Things you want to stress
 
