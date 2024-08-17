@@ -7,6 +7,9 @@ Otherwise using a newer globally installed version of Terraform will upgrade the
 other clients who will be forced to upgrade to the same version in order to run again.
 
 <!-- INDEX_START -->
+- [Install](#install)
+  - [Environment Variables](#environment-variables)
+  - [`.terraform-version`](#terraform-version)
 <!-- INDEX_END -->
 
 ## Install
