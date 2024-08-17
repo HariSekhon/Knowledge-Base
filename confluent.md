@@ -5,6 +5,12 @@
 Confluent Platform - Kafka-based platform
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+- [Kafka Streams](#kafka-streams)
+- [KSQL - Kafka SQL](#ksql---kafka-sql)
+- [Camus](#camus)
+- [Kafka REST Server](#kafka-rest-server)
+- [Schema Registry](#schema-registry)
 <!-- INDEX_END -->
 
 ## Summary
