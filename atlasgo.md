@@ -4,6 +4,9 @@ https://github.com/ariga/atlas
 
 Terraform for Database Schemas.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Install
 
 https://atlasgo.io/getting-started
