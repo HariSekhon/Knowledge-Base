@@ -2,6 +2,11 @@
 
 [HariSekhon/DevOps-Perl-tools](https://github.com/HariSekhon/DevOps-Perl-tools)
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Clone
+
 ```shell
 git clone https://github.com/HariSekhon/DevOps-Perl-tools Perl-tools
 
