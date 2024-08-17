@@ -2,6 +2,9 @@
 
 Query and retrieval of JSON / XML documents with granular filtering on multiple field indexed data.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Search Engines
 
 - [Elasticsearch](elasticsearch.md) - open source, most popular
