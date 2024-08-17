@@ -1,11 +1,24 @@
 # Consul
 
-| Port   | Description |
-|--------|-------------|
-| 8500   | HTTP API    |
-| 8600   | DNS API     |
-| 8400   | RPC         |
-| -1     | HTTPS       |
+- [Summary](#summary)
+- [Ports](#ports)
+- [Consul vs ZooKeeper / Doozerd / SkyDNS / SmartStack](#consul-vs-zookeeper--doozerd--skydns--smartstack)
+- [Install](#install)
+- [Options](#options)
+- [Run](#run)
+- [Cluster](#cluster)
+- [Maintenance](#maintenance)
+- [API](#api)
+- [Services](#services)
+  - [HTTP API](#http-api)
+  - [DNS API](#dns-api)
+- [Multi-DC](#multi-dc)
+- [Cluster test](#cluster-test)
+- [Health Checks](#health-checks)
+- [Key Value Store](#key-value-store)
+- [UI](#ui)
+
+## Summary
 
 Passed the [Jepsen](https://jepsen.io/) test!!! (most technologies fail it)
 
@@ -29,6 +42,15 @@ Passed the [Jepsen](https://jepsen.io/) test!!! (most technologies fail it)
 - event data purely P2P gossip, no guarantee, no global ordering
 - event data should be < 100 bytes
 
+## Ports
+
+| Port   | Description |
+|--------|-------------|
+| 8500   | HTTP API    |
+| 8600   | DNS API     |
+| 8400   | RPC         |
+| -1     | HTTPS       |
+
 ## Consul vs ZooKeeper / Doozerd / SkyDNS / SmartStack
 
 - all quorum, CP no A strongly consistent
@@ -46,6 +68,8 @@ Passed the [Jepsen](https://jepsen.io/) test!!! (most technologies fail it)
 Industrial Light and Magic used Consul because Mesos DNS couldn't easily register docker containers outside Mesos
 cluster.
 
+## Install
+
 ```shell
 brew install caskroom/cask/brew-cask
 ```
@@ -53,6 +77,8 @@ brew install caskroom/cask/brew-cask
 ```shell
 brew cask install consul
 ```
+
+## Options
 
 ```shell
 consul --help
@@ -73,8 +99,10 @@ common opts
 ```
 
 ```none
-consul configt3est [ -config-file <file> ] [ -config-dir <dir> ]
+consul configtest [ -config-file <file> ] [ -config-dir <dir> ]
 ```
+
+## Run
 
 Start a single node non-production non-persistent:
 
@@ -86,7 +114,7 @@ consul agent -dev
 -node myName set node name explicitly (if hostname has a dot DNS queries won't work)
 ```
 
-will complain if there are multiple interfaces to configure one - using Docker interface
+Will complain if there are multiple interfaces to configure one - using Docker interface:
 
 ```shell
 consul agent -dev -bind 192.168.99.1
@@ -95,6 +123,8 @@ consul agent -dev -bind 192.168.99.1
 ```shell
 consul info
 ```
+
+## Cluster
 
 ```shell
 consul join <node>
@@ -173,8 +203,6 @@ optional opts:
 consul lock [opts] <lock_key_prefix> <cmd>
 ```
 
-see docs
-
 ```shell
 consul watch
 ```
@@ -183,6 +211,8 @@ consul watch
 -log-level=info   warn, err, debug, trace
 -rpc-addr=127.0.0.1:8400
 ```
+
+## Maintenance
 
 Connect to an agent and follow it's logs:
 
@@ -212,6 +242,8 @@ consul maint -enable/-disable [-service <id>] [-reason <msg>]
 consul keyring -list -install/-use/-remove
 ```
 
+## API
+
 HTTP API node query:
 
 ```shell
@@ -233,7 +265,9 @@ dig @127.0.0.1 -p 8600 "$HOSTNAME.node.dc2.consul"
 ```
 
 
-## Services - can add via HTTP API or via config files:
+## Services
+
+Can add via HTTP API or via config files:
 
 ```shell
 sudo mkdir /etc/consul.d
@@ -249,12 +283,19 @@ cat > /etc/consul.d/web.json <<EOF
 EOF
 ```
 
-Tell agent to use config dir
-SIGHUP the agent for it to pick up changes to this dir
+Tell agent to use config dir:
 
 ```shell
 consul agent -dev -bind 192.168.99.1 -config-dir /etc/consul.d/
 ```
+
+Send `SIGHUP` to agent for it to pick up changes to this dir:
+
+```markdown
+killall HUP consul
+```
+
+### HTTP API
 
 HTTP API service query:
 
@@ -265,6 +306,8 @@ curl localhost:8500/v1/catalog/service/web
 ```none
 [{"Node":"agrippa.local","Address":"192.168.99.1","ServiceID":"web","ServiceName":"web","ServiceTags":["rails"],"ServiceAddress":"","ServicePort":80,"ServiceEnableTagOverride":false,"CreateIndex":5,"ModifyIndex":5}]
 ```
+
+### DNS API
 
 DNS API service query - `NAME.service.consul` or `TAG.NAME.service.consul`:
 
@@ -291,9 +334,13 @@ service_ttl.*
 ```
 
 Only single leader services reads (default):
+
 - to allow read from any server for horizontally scaling reads (less fresh)
-  dns_config.allow_stale      default: off
-  .max_stale        default: 5, requires allow_stale
+
+```none
+dns_config.allow_stale      default: off
+dns_config.max_stale        default: 5, requires allow_stale
+```
 
 DNS clients + forwarders often cache negative responses (M$ for 15 mins!), must disable that behaviour in clients / forwarders
 
@@ -344,7 +391,7 @@ vagrant ssh n2
 consul agent -data-dir /tmp/consul -node=agent-two -bind=172.20.20.11 -config-dir /etc/consul.d
 ```
 
-at this point we have 2 single node clusters:
+at this point we have 2 single node clusters.
 
 In another terminal:
 
@@ -353,8 +400,9 @@ cd ~/vagrant/consul # for Vagrantfile to resolve n1
 vagrant ssh n1
 ```
 
-Only needs to know one existing member (seed), learns rest via gossip protocol
-can use CLI -join startup option with seed nodes or HTTP API start_join
+Only needs to know one existing member (seed), learns rest via gossip protocol.
+
+Can use CLI join startup option with seed nodes or HTTP API `start_join`.
 
 ```shell
 consul join 172.20.20.11
@@ -366,13 +414,11 @@ Successfully joined cluster by contacting 1 nodes.
 
 Tie all 3 nodes together in cluster:
 
-XXX: are these 3 seed nodes or 1 seed + 2 joining or all 3 forming new?
-
 ```shell
 consul join <node1> <node2> <node3>
 ```
 
-prefer
+prefer:
 
 ```shell
 consul agent -server -bootstrap-expect 3 -data-dir /tmp/consul
