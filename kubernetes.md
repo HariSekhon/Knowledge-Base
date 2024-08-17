@@ -1,6 +1,19 @@
 # Kubernetes
 
 <!-- INDEX_START -->
+- [Local Dev](#local-dev)
+- [Cloud](#cloud)
+- [On Premise](#on-premise)
+- [Machine Learning for Kubernetes](#machine-learning-for-kubernetes)
+- [Kubernetes Configs](#kubernetes-configs)
+- [Kubernetes Scripts](#kubernetes-scripts)
+- [Kubernetes `.envrc`](#kubernetes-envrc)
+- [Kubernetes Networking](#kubernetes-networking)
+  - [CNI - Container Network Interface](#cni---container-network-interface)
+  - [Network Troubleshooting](#network-troubleshooting)
+- [Tips](#tips)
+- [Troubleshooting](#troubleshooting)
+  - [Killing a Namespace that's stuck](#killing-a-namespace-thats-stuck)
 <!-- INDEX_END -->
 
 ## Local Dev
