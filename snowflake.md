@@ -4,6 +4,9 @@
 
 See Also: [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## SnowPipe
 
 ```sql
