@@ -1,5 +1,6 @@
 # Git Workflow Branching Strategies
 
+<!-- INDEX_START -->
 - [GitHub Flow - Simplest](#github-flow---simplest)
 - [GitLab Flow](#gitlab-flow)
 - [Gitflow - Most Complicated](#gitflow---most-complicated)
@@ -7,6 +8,7 @@
 - [Environment Branching Strategy](#environment-branching-strategy)
 - [GitHub Flow with Jira ticket integration](#github-flow-with-jira-ticket-integration)
 - [Git - why you shouldn't use long-lived feature branches](#git---why-you-shouldnt-use-long-lived-feature-branches)
+<!-- INDEX_END -->
 
 ## GitHub Flow - Simplest
 
