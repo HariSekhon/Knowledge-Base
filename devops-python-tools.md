@@ -3,6 +3,8 @@
 [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools)
 
 <!-- INDEX_START -->
+- [Clone](#clone)
+  - [Make](#make)
 <!-- INDEX_END -->
 
 ## Clone
