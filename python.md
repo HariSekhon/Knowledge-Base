@@ -5,6 +5,9 @@ Data Science as well as systems administration.
 
 It's not as amazing for one-liners are [Perl](perl.md) is though, which can boost shell scripts more easily.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Core Reading
 
 [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730/)
