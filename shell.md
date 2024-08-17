@@ -1,5 +1,10 @@
 # Shell
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## List
+
 - Bash - the gold standard in shell scripting - see [bash.md](bash.md)
 - Bourne - the original unix shell - Bash is the Bourne Again Shell - next generation Bourne shell
 - Ksh - Korn shell - another old unix shell
