@@ -1,8 +1,13 @@
 # Debian
 
-https://www.debian.org/
+<https://www.debian.org/>
 
 The legendary, mature widely used stable Linux distribution with the best most reliable tenure.
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
 
 Philosophical thoroughbred open-source has stood the test of time. It's the open source purist's choice.
 
