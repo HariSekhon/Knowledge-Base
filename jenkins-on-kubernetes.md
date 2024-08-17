@@ -3,6 +3,18 @@
 This is the best way to run Jenkins with auto-spawning agents for scaling up and down.
 
 <!-- INDEX_START -->
+- [Kubernetes Configs](#kubernetes-configs)
+  - [JCasC - Jenkins Configuration as Code](#jcasc---jenkins-configuration-as-code)
+  - [GCP - create Node Pool of Larger Nodes for Jenkins](#gcp---create-node-pool-of-larger-nodes-for-jenkins)
+  - [Default Admin User + Password](#default-admin-user--password)
+  - [Reset the Jenkins admin password when using Kubernetes Helm Chart](#reset-the-jenkins-admin-password-when-using-kubernetes-helm-chart)
+- [Jenkins on Kubernetes Diagram](#jenkins-on-kubernetes-diagram)
+- [CloudBees on Kubernetes](#cloudbees-on-kubernetes)
+  - [Install CloudBees CLI](#install-cloudbees-cli)
+- [Jenkins X](#jenkins-x)
+- [Old Manual Configuration of Jenkins on Kubernetes](#old-manual-configuration-of-jenkins-on-kubernetes)
+- [Increase Jenkins Server Disk Space on Kubernetes](#increase-jenkins-server-disk-space-on-kubernetes)
+  - [Recovery if you deleted the PersistentVolumeClaim](#recovery-if-you-deleted-the-persistentvolumeclaim)
 <!-- INDEX_END -->
 
 ## Kubernetes Configs
