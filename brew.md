@@ -1,10 +1,13 @@
 # Homebrew
 
-The guy who wrote this didn't get hired by Google ffs... who cares about old bubble sort comp-sci bullshit. Seriously.
-
-https://brew.sh/
+<https://brew.sh/>
 
 [Homebrew](https://brew.sh/) is the best package manager for Mac.
+
+The guy who wrote this didn't get hired by Google ffs... who cares about old bubble sort comp-sci bullshit. Seriously.
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
 
 ## Install
 
