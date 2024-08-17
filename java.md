@@ -2,6 +2,9 @@
 
 NOT PORTED YET.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ### Show Java Classpath
 
 Since the `java -cp` / `java -classpath` is one huge string of colon separated paths, it's nicer to show them one
