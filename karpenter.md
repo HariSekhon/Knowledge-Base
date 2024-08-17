@@ -11,6 +11,9 @@ Adds finalizers to nodes which blocks deletion until all pods are drained.
 Particularly well suited to burst scale up and scale down use cases such as machine learning jobs.
 
 <!-- INDEX_START -->
+- [Install](#install)
+- [Configure](#configure)
+- [Test](#test)
 <!-- INDEX_END -->
 
 ## Install
