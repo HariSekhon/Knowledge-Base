@@ -22,7 +22,6 @@ See [Elasticsearch](elasticsearch.md) too.
 - [Troubleshooting](#troubleshooting)
   - [No Leader](#no-leader)
   - [Local Solr Restart](#local-solr-restart)
-- [#!/bin/bash](#binbash)
   - [Core Not Coming Up](#core-not-coming-up)
   - [CorruptIndexException](#corruptindexexception)
   - [org.apache.solr.common.SolrException: Index locked for write](#orgapachesolrcommonsolrexception-index-locked-for-write)
