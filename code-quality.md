@@ -1,5 +1,8 @@
 # Code Quality & Code Coverage
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Code Quality
 
 These often include code coverage as well as best practices for common programming languages.
