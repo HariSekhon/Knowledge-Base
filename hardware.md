@@ -7,7 +7,8 @@ See also [Performance Engineering](performance.md).
   - [HP Proliant Array Configuration Utility](#hp-proliant-array-configuration-utility)
 - [Dell](#dell)
   - [DRAC - Dell Remote Access Controller](#drac---dell-remote-access-controller)
-- [MegaCLI](#megacli)
+- [Broadcom MegaRaid](#broadcom-megaraid)
+  - [MegaCLI](#megacli)
 - [See Also](#see-also)
 <!-- INDEX_END -->
 
@@ -79,7 +80,9 @@ racadm serveraction powerdown
 omreport chassis [memory]
 ```
 
-## MegaCLI
+## Broadcom MegaRaid
+
+### MegaCLI
 
 Use `-NoLog` arg, otherwise `megacli` drops a little log in your `$PWD`.
 
