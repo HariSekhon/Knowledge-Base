@@ -3,6 +3,8 @@
 [ViM](https://www.vim.org/) - `vi` improved
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+- [Shortcuts](#shortcuts)
 <!-- INDEX_END -->
 
 ## Summary
