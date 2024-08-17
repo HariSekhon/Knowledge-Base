@@ -3,6 +3,8 @@
 <!-- INDEX_START -->
 - [Summary](#summary)
 - [Quick Cheating for Investment Banking Jargon](#quick-cheating-for-investment-banking-jargon)
+- [Summary](#summary)
+- [Quick Cheating for Investment Banking Jargon](#quick-cheating-for-investment-banking-jargon)
 <!-- INDEX_END -->
 
 ## Summary
