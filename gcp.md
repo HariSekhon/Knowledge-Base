@@ -1,6 +1,22 @@
 # GCP - Google Cloud Platform
 
 <!-- INDEX_START -->
+- [DevOps Bash tools for GCP, GKE, GCE etc](#devops-bash-tools-for-gcp-gke-gce-etc)
+- [GCE - Google Compute Engine](#gce---google-compute-engine)
+  - [VM Instance Sizes](#vm-instance-sizes)
+  - [VM Zones Gotcha](#vm-zones-gotcha)
+- [Install GCloud SDK CLI](#install-gcloud-sdk-cli)
+- [Add SSH key to project](#add-ssh-key-to-project)
+- [Add SSH key to specific VM](#add-ssh-key-to-specific-vm)
+- [SSH Tunnelling Through a Bastion Host](#ssh-tunnelling-through-a-bastion-host)
+- [Set up access to GKE - Google Kubernetes Engine](#set-up-access-to-gke---google-kubernetes-engine)
+- [See all the details you can query for a VM](#see-all-the-details-you-can-query-for-a-vm)
+- [Get the IP Address of a specific VM](#get-the-ip-address-of-a-specific-vm)
+- [Get the names + IPs of all or a selection of VMs by regex name match](#get-the-names--ips-of-all-or-a-selection-of-vms-by-regex-name-match)
+- [Get the IP of a random node in a cluster](#get-the-ip-of-a-random-node-in-a-cluster)
+- [Get the IP address of a Load Balancer](#get-the-ip-address-of-a-load-balancer)
+- [Get the IP of your Google FileStore NFS server](#get-the-ip-of-your-google-filestore-nfs-server)
+- [Enable APIs](#enable-apis)
 <!-- INDEX_END -->
 
 ## DevOps Bash tools for GCP, GKE, GCE etc
