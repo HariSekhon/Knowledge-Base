@@ -1,6 +1,11 @@
 # Data
 
 <!-- INDEX_START -->
+- [Big Data](#big-data)
+- [Data Validation](#data-validation)
+- [Data Integration](#data-integration)
+  - [Mulesoft](#mulesoft)
+  - [Spring Integration](#spring-integration)
 <!-- INDEX_END -->
 
 ## Big Data
