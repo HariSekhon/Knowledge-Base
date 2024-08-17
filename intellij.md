@@ -1,10 +1,13 @@
 # IntelliJ IDEA
 
-https://www.jetbrains.com/idea/
+<https://www.jetbrains.com/idea/>
 
 IntelliJ on Mac notes.
 
 Shortcuts differ between Windows and Mac, and even between versions.
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
 
 ### IntelliJ IDEA vs PyCharm
 
