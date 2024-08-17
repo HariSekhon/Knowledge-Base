@@ -1,8 +1,13 @@
 # CloudBeaver
 
+<https://github.com/dbeaver/cloudbeaver>
+
 Database Web UI Manager
 
-https://github.com/dbeaver/cloudbeaver
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
 
 - server is Java
 - UI is TypeScript + React
