@@ -2,7 +2,12 @@
 
 Simple Build Tool / Scala Build Tool
 
-https://www.scala-sbt.org/
+<https://www.scala-sbt.org/>
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
 
 - incremental compilation
 - interactive shell
