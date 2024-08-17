@@ -16,6 +16,11 @@ Terraform pull request automation on [GitHub](github.md) using [GitHub Actions](
 - [Terragrunt](terragrunt.md) becomes more useful in this context to modularize code base to reduce blast radius of
   changes and have Atlantis do shorter plan and apply runs
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Usage
+
 ```shell
 atlantis plan # -d path/to/terragrunt/module/directory
 ```
@@ -23,9 +28,6 @@ atlantis plan # -d path/to/terragrunt/module/directory
 ```shell
 atlantis apply
 ```
-
-<!-- INDEX_START -->
-<!-- INDEX_END -->
 
 ## Do Not Merge Pull Requests Early
 
