@@ -2,7 +2,7 @@
 
 <!-- INDEX_START -->
 - [Summary](#summary)
-- [Quick Cheating for Investment Banking Jargon](#quick-cheating-for-investment-banking-jargon)
+- [Quick Cheatsheet for Investment Banking Jargon](#quick-cheatsheet-for-investment-banking-jargon)
 <!-- INDEX_END -->
 
 ## Summary
@@ -26,7 +26,7 @@ experience I had as a consumer.
 Investment banks have a bit of technical jargon that it helps to know in conversation, although you probably won't be
 working on anything actually needing this knowledge as an IT guy.
 
-## Quick Cheating for Investment Banking Jargon
+## Quick Cheatsheet for Investment Banking Jargon
 
 | Term                | Description                                                                                                                                                                                                                                                                                                                                     |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
