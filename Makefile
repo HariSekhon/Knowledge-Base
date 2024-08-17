@@ -52,7 +52,7 @@ generate-index:
 	grep -v README.md | \
 	while read -r filename; do \
 		if ! git status --porcelain "$$filename" | grep -q . ; then \
-			echo markdown_replace_index.sh "$$filename"; \
+			markdown_replace_index.sh "$$filename"; \
 		fi; \
 	done
 
