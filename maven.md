@@ -8,6 +8,26 @@ Uses an XML configuration file `pom.xml` at the root of the project directory an
 package files.
 
 <!-- INDEX_START -->
+- [Real World Example `pom.xml` builds](#real-world-example-pomxml-builds)
+  - [Best practice for release version incrementing](#best-practice-for-release-version-incrementing)
+- [Executable Jar](#executable-jar)
+- [Maven Shade](#maven-shade)
+- [Surefire](#surefire)
+- [Maven Wrapper](#maven-wrapper)
+- [Sonar Plugin](#sonar-plugin)
+- [VersionEye](#versioneye)
+- [Polyglot Maven](#polyglot-maven)
+- [Maven Coordinates](#maven-coordinates)
+- [Maven Repositories](#maven-repositories)
+- [Stop wasting time downloading newer Snapshots](#stop-wasting-time-downloading-newer-snapshots)
+- [Phases](#phases)
+- [Help](#help)
+- [Templating](#templating)
+- [Maven Exec](#maven-exec)
+- [Dependencies](#dependencies)
+- [Test](#test)
+- [Taken from HBase](#taken-from-hbase)
+- [Maven Eclipse support](#maven-eclipse-support)
 <!-- INDEX_END -->
 
 ## Real World Example `pom.xml` builds
