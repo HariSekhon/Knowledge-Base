@@ -2,6 +2,9 @@
 
 [Kustomize](https://kustomize.io/) is the standard build tool for Kubernetes manifest aggregation and patching.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Install
 
 ```shell
