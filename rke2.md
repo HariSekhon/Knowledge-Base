@@ -4,6 +4,9 @@ This is a locally installable Kubernetes distribution bundling [k3s](k3s.md) and
 
 https://docs.rke2.io/
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ### RKE2 Versions vs Kubernetes Versions
 
 **RKE2 versions match Kubernetes versions.**
