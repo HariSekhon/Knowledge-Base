@@ -8,6 +8,9 @@ Here is mine:
 
 https://medium.com/@harisekhon
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Keyboard Shortcuts
 
 | Action            | Mac                     | Windows                    |
