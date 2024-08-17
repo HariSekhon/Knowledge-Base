@@ -1,5 +1,8 @@
 # Windows
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Remote Desktop
 
 You can find your corporate workspace by downloading
