@@ -2,6 +2,9 @@
 
 Before you upgrade a Kubernetes cluster, you must ensure you won't break any existing apps running on it.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ### Check for Deprecated API objects
 
 Any apps using deprecated API objects will need to be upgraded first.
