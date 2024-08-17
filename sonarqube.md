@@ -8,7 +8,6 @@ Leading open source code quality tool.
 - [Config](#config)
   - [SonarCloud](#sonarcloud)
 - [SonarQube on Kubernetes](#sonarqube-on-kubernetes)
-- [#docker run -d --name sonarqube \](#docker-run--d---name-sonarqube-)
 - [SonarQube Plugins](#sonarqube-plugins)
 - [Sonar Scanner CLI](#sonar-scanner-cli)
   - [Download Sonar Scanner](#download-sonar-scanner)
