@@ -4,6 +4,9 @@ Tableau is a widely used visualization tool.
 
 <https://www.tableau.com/>
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ### Tableau User Authentication
 
 Can use LDAP integration.
