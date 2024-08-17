@@ -5,6 +5,9 @@
 - protocol checks
 - metrics & thresholds - deviations from normal
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Cloud Monitoring Services
 
 - Datadog
