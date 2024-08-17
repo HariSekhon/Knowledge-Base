@@ -4,6 +4,11 @@
 
 Confluent Platform - Kafka-based platform
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - Connectors for:
   - ActiveMQ
   - IBM MQ
