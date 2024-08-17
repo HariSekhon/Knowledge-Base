@@ -6,6 +6,9 @@ Scripts for [PostgreSQL](postgres.md), [MySQL](mysql.md), AWS Athena and Google 
 
 [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## SQL Clients
 
 Preference is given to free tools.
