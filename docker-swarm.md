@@ -4,6 +4,11 @@ TL;DR just use [Kubernetes](kubernetes.md) instead - it's the winning open sourc
 
 <https://docs.docker.com/engine/swarm/>
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - Docker 1.12+
 - Simpler than [Kubernetes](kubernetes.md)
 - declarative:
