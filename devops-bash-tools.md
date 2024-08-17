@@ -2,6 +2,11 @@
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Clone
+
 ```shell
 mkdir -p -v ~/github
 
