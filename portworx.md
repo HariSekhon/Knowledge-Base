@@ -8,6 +8,9 @@
     - deployment operator
 
 <!-- INDEX_START -->
+  - [Portworx Enterprise Install](#portworx-enterprise-install)
+  - [Administration](#administration)
+  - [Portworx CLI](#portworx-cli)
 <!-- INDEX_END -->
 
 ### Portworx Enterprise Install
