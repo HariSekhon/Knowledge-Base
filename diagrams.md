@@ -8,6 +8,7 @@ There are GUI architecture tools, but they tend to be more difficult to reproduc
 
 The cutting edge is Diagrams-as-Code.
 
+<!-- INDEX_START -->
 - [Real World Architecture Diagrams](#real-world-architecture-diagrams)
 - [Templates](#templates)
 - [Diagrams-as-Code Languages](#diagrams-as-code-languages)
@@ -17,6 +18,7 @@ The cutting edge is Diagrams-as-Code.
 - [GraphViz](#graphviz)
 - [Diagram Design](#diagram-design)
   - [Complexity](#complexity)
+<!-- INDEX_END -->
 
 ## Real World Architecture Diagrams
 
