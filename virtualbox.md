@@ -5,6 +5,19 @@
 Open source VM desktop software.
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+- [VirtualBox CLI](#virtualbox-cli)
+- [DHCP](#dhcp)
+- [DNS Proxy](#dns-proxy)
+- [VirtualBox Guest Additions](#virtualbox-guest-additions)
+- [Boot from USB](#boot-from-usb)
+- [Reclaim Disk Space](#reclaim-disk-space)
+- [Convert VMware VMDK to VBox disk format for use in VirtualBox](#convert-vmware-vmdk-to-vbox-disk-format-for-use-in-virtualbox)
+- [Root Keys, Networking etc](#root-keys-networking-etc)
+- [rm -vf /etc/ssh/ssh_host_*](#rm--vf-etcsshsshhost)
+- [Troubleshooting](#troubleshooting)
+  - [To use `/root` home directory](#to-use-root-home-directory)
+- [Upgrades](#upgrades)
 <!-- INDEX_END -->
 
 ## Summary
