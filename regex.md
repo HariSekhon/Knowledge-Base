@@ -5,6 +5,9 @@ Regular expressions are a core skill for any half decent programmer.
 I use them extensively in languages from Python and Perl to Java/Scala/Groovy and even in shell scripts in Bash
 for grep, sed & awk.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Online Regex Testing
 
 https://regex101.com/
