@@ -5,6 +5,9 @@ Groovy is awesome.
 Groovy is a language based on Java with much greater ease of use as well as interactive REPL and scripting.
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+- [Jenkins Groovy Code](#jenkins-groovy-code)
+- [Jenkins Advanced Groovy Library](#jenkins-advanced-groovy-library)
 <!-- INDEX_END -->
 
 ## Summary
