@@ -9,6 +9,11 @@ Port 5601
 - add indexes - left bar Management -> Index Patterns -> top left Plus +
 
 <!-- INDEX_START -->
+- [Kibana 3](#kibana-3)
+  - [Rsyslog config snippet addition](#rsyslog-config-snippet-addition)
+- [this is for index names to be like: logstash-YYYY.MM.DD](#this-is-for-index-names-to-be-like-logstash-yyyymmdd)
+- [this is for formatting our syslog in JSON with @timestamp](#this-is-for-formatting-our-syslog-in-json-with-timestamp)
+- [this is where we actually send the logs to Elasticsearch (localhost:9200 by default)](#this-is-where-we-actually-send-the-logs-to-elasticsearch-localhost9200-by-default)
 <!-- INDEX_END -->
 
 # Kibana 3
