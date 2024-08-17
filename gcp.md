@@ -1,5 +1,8 @@
 # GCP - Google Cloud Platform
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## DevOps Bash tools for GCP, GKE, GCE etc
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
