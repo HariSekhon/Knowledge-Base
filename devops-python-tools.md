@@ -4,7 +4,7 @@
 
 <!-- INDEX_START -->
 - [Clone](#clone)
-  - [Make](#make)
+- [Make](#make)
 <!-- INDEX_END -->
 
 ## Clone
@@ -15,7 +15,7 @@ git clone https://github.com/HariSekhon/DevOps-Python-tools pytools
 cd pytools
 ```
 
-### Make
+## Make
 
 Then run `make` to install PyPI dependencies, system packages and pull in Git submodules including [HariSekhon/pylib](https://github.com/HariSekhon/pylib).
 
