@@ -3,6 +3,8 @@
 Before you upgrade a Kubernetes cluster, you must ensure you won't break any existing apps running on it.
 
 <!-- INDEX_START -->
+  - [Check for Deprecated API objects](#check-for-deprecated-api-objects)
+  - [PSP - Pod Security Policies](#psp---pod-security-policies)
 <!-- INDEX_END -->
 
 ### Check for Deprecated API objects
