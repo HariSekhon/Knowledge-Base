@@ -7,6 +7,9 @@ Wrapper CLI that runs [K3s](k3s.md) in Docker (this is also a workaround for k3s
 - create/grows/shrink k3s clusters via CLI
 - manage Kubeconfigs for the k3s clusters
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ### Template Config
 
 [HariSekhon/Templates - k3d.yaml](https://github.com/HariSekhon/Templates/blob/master/k3d.yaml)
