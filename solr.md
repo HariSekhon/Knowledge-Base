@@ -7,6 +7,28 @@
 See [Elasticsearch](elasticsearch.md) too.
 
 <!-- INDEX_START -->
+- [Solr UI](#solr-ui)
+- [Solr CLI](#solr-cli)
+- [Commercial Offerings](#commercial-offerings)
+- [Start SolrCloud Commands](#start-solrcloud-commands)
+- [Solr / SolrCloud Docker Images](#solr--solrcloud-docker-images)
+- [SolrCloud](#solrcloud)
+  - [Local](#local)
+- [Hadoop MapReduce Indexer to SolrCloud](#hadoop-mapreduce-indexer-to-solrcloud)
+  - [MapReduce Indexer Tool](#mapreduce-indexer-tool)
+  - [HDFS Find Tool](#hdfs-find-tool)
+  - [Morphlines](#morphlines)
+- [Monitoring](#monitoring)
+- [Troubleshooting](#troubleshooting)
+  - [No Leader](#no-leader)
+  - [Local Solr Restart](#local-solr-restart)
+- [#!/bin/bash](#binbash)
+  - [Core Not Coming Up](#core-not-coming-up)
+  - [CorruptIndexException](#corruptindexexception)
+  - [org.apache.solr.common.SolrException: Index locked for write](#orgapachesolrcommonsolrexception-index-locked-for-write)
+  - [Cores not coming back online after restart](#cores-not-coming-back-online-after-restart)
+  - [ClusterStatus / OverseerStatus 400 Bad Request error - unknown action](#clusterstatus--overseerstatus-400-bad-request-error---unknown-action)
+  - [Misc](#misc)
 <!-- INDEX_END -->
 
 ## Solr UI
