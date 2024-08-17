@@ -2,6 +2,9 @@
 
 This is the best way to run Jenkins with auto-spawning agents for scaling up and down.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Kubernetes Configs
 
 [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs#jenkins-on-kubernetes)
