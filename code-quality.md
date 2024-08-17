@@ -1,6 +1,9 @@
 # Code Quality & Code Coverage
 
 <!-- INDEX_START -->
+- [Code Quality](#code-quality)
+- [Peer Review](#peer-review)
+- [Code Coverage](#code-coverage)
 <!-- INDEX_END -->
 
 ## Code Quality
