@@ -3,6 +3,9 @@
 Uses a `docker-compose.yml` config file to launch docker containers and settings.
 
 <!-- INDEX_START -->
+- [Install](#install)
+- [Bash Completion](#bash-completion)
+- [Docker Compose File Override](#docker-compose-file-override)
 <!-- INDEX_END -->
 
 ## Install
