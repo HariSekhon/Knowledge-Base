@@ -4,8 +4,8 @@
 
 <!-- INDEX_START -->
 - [Clone](#clone)
-  - [Install Dependencies](#install-dependencies)
-  - [Add to `$PATH`](#add-to-path)
+- [Install Dependencies](#install-dependencies)
+- [Add to `$PATH`](#add-to-path)
 - [Link Configs and Inherit Bash Environment and `$PATH`](#link-configs-and-inherit-bash-environment-and-path)
 - [Import just the `$PATH`](#import-just-the-path)
 <!-- INDEX_END -->
@@ -18,7 +18,7 @@ mkdir -p -v ~/github
 git clone https://github.com/HariSekhon/DevOps-Bash-tools ~/github/bash-tools
 ```
 
-### Install Dependencies
+## Install Dependencies
 
 Then run `make` to install any dependencies, system packages, libraries etc.
 
@@ -49,7 +49,7 @@ brew install jq
 
 Now run whichever script you came for...
 
-### Add to `$PATH`
+## Add to `$PATH`
 
 Much of the rest of this knowledge base gives the short script names for brevity.
 
