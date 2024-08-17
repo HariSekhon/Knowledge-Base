@@ -7,6 +7,11 @@
 The guy who wrote this didn't get hired by Google ffs... who cares about old bubble sort comp-sci bullshit. Seriously.
 
 <!-- INDEX_START -->
+- [Install](#install)
+- [Package Lists](#package-lists)
+- [Package Management](#package-management)
+- [Info](#info)
+- [Troubleshooting](#troubleshooting)
 <!-- INDEX_END -->
 
 ## Install
