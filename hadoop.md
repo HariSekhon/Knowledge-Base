@@ -1,5 +1,7 @@
 # Hadoop
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
 
 ## Healthchecks
 
