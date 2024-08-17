@@ -14,6 +14,11 @@ For the [Desktop release](https://ubuntu.com/download/desktop) you can just do w
 The [Releases](https://wiki.ubuntu.com/Releases) page lists the release dates and end of life date for each of version.
 
 <!-- INDEX_START -->
+- [Debian Core](#debian-core)
+  - [Upgrade LTS to newer non-LTS release](#upgrade-lts-to-newer-non-lts-release)
+- [AutoInstall - Automated Installations](#autoinstall---automated-installations)
+  - [Autoinstall Template](#autoinstall-template)
+  - [HashiCorp Packer + Autoinstall Config](#hashicorp-packer--autoinstall-config)
 <!-- INDEX_END -->
 
 ## Debian Core
