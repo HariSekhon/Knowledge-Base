@@ -3,7 +3,6 @@
 <!-- INDEX_START -->
 - [List of Software](#list-of-software)
 - [MultiPass](#multipass)
-- [#multipass stop myvm](#multipass-stop-myvm)
 <!-- INDEX_END -->
 
 ## List of Software
