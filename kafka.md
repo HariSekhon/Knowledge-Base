@@ -2,6 +2,9 @@
 
 TODO: port Kafka notes here
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ### Nagios-Plugin-Kafka with Kerberos support
 
 [HariSekhon/Nagios-Plugin-Kafka](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
