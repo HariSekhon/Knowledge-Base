@@ -27,8 +27,11 @@ Modern Informatica UI is cloud hosted SaaS solution called IICS - Informatica In
 - [Troubleshooting](#troubleshooting)
   - [Restarting the Secure Agent](#restarting-the-secure-agent)
   - [VM Restarts require Graceful Restart of the Secure Agent](#vm-restarts-require-graceful-restart-of-the-secure-agent)
+  - [Secure agent's OI Data Collector stuck in "Starting Up" phase or Error](#secure-agents-oi-data-collector-stuck-in-starting-up-phase-or-error)
   - [Vertica ODBC Connector Error](#vertica-odbc-connector-error)
   - [Disk Space](#disk-space)
+  - [Log Disk Space Cleanup](#log-disk-space-cleanup)
+  - [Kubernetes version error `K8s_10152`](#kubernetes-version-error-k8s10152)
 <!-- INDEX_END -->
 
 ## Organizations
