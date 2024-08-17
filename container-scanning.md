@@ -3,6 +3,16 @@
 Scan for known CVEs from online databases.
 
 <!-- INDEX_START -->
+- [Open Source](#open-source)
+  - [Trivy](#trivy)
+  - [Grype](#grype)
+  - [Clair](#clair)
+- [Proprietary](#proprietary)
+  - [Aqua Security](#aqua-security)
+  - [Twistlock](#twistlock)
+  - [Tenable.io](#tenableio)
+  - [CheckMarx](#checkmarx)
+- [Container Scanning on Jenkins](#container-scanning-on-jenkins)
 <!-- INDEX_END -->
 
 ## Open Source
