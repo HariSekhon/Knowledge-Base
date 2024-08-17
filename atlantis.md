@@ -24,6 +24,9 @@ atlantis plan # -d path/to/terragrunt/module/directory
 atlantis apply
 ```
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Do Not Merge Pull Requests Early
 
 If you merge a pull request, Atlantis will refuse to operate apply it.
