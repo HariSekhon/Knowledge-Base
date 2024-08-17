@@ -12,7 +12,6 @@
   - [DRBD](#drbd)
 - [Distributions](#distributions)
   - [Gentoo](#gentoo)
-- [#emaint -a sync](#emaint--a-sync)
 <!-- INDEX_END -->
 
 ### Shell
