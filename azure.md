@@ -2,7 +2,7 @@
 
 NOT PORTED YET
 
-<!-- INDEX_STAR -->
+<!-- INDEX_START -->
 <!-- INDEX_END -->
 
 ## DevOps Bash tools for Azure, AKS, VMs etc
