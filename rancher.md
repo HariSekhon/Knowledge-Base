@@ -5,6 +5,9 @@ Rancher is a dashboard UI for managing Kubernetes clusters.
 You can manage both on-premise clusters, eg. installed with [RKE2](rke2.md) kubernetes distribution,
 or cloud clusters like [AWS EKS](eks.md) (I've done both).
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Install Rancher
 
 Ready to install Kustomize + Helm:
