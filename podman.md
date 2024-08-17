@@ -1,6 +1,8 @@
 # Podman & Buildah by Redhat
 
 <!-- INDEX_START -->
+- [Podman](#podman)
+- [Buildah](#buildah)
 <!-- INDEX_END -->
 
 ## Podman
