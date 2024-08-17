@@ -1,5 +1,8 @@
 # Linux
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ### Shell
 
 [Shell](shell.md) - the command line program with some scripting constructs that calls the binary programs in
