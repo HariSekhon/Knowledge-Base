@@ -6,6 +6,11 @@ bases.
 Otherwise using a newer globally installed version of Terraform will upgrade the `terraform.tfstate` file and break
 other clients who will be forced to upgrade to the same version in order to run again.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Install
+
 On Mac, install tfenv:
 
 ```shell
