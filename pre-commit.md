@@ -66,7 +66,7 @@ pre-commit run --all-files
 
 ## Run on changed files in branch
 
-To reproduce what pre-commit runs in pull requests to debugging getting your PRs to pass,
+Reproduce what a pull request check is doing locally to debug and fix your PRs to pass,
 using this script from the [DevOps-Bash-tools](devops-bash-tools.md) repo:
 
 ```shell
