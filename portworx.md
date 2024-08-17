@@ -7,6 +7,9 @@
   - 2 x K8s extensions:
     - deployment operator
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ### Portworx Enterprise Install
 
 [Install on Rancher](https://docs.portworx.com/portworx-enterprise/platform/kubernetes/rancher/install) doc.
