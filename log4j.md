@@ -2,6 +2,11 @@
 
 Classic logging library for Java
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - Spark Log4j 1.2 was EOL 2015, June 2018 still there due to dependency hell
 - Log4j 1.2
   - docs virtually nonexistent
