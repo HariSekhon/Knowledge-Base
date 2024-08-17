@@ -2,6 +2,9 @@
 
 [Black Duck](https://openhub.net) - open source software tracking and governance
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Open Source
 
 Miscellaneous open source applications worthy of note.
