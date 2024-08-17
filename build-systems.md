@@ -1,5 +1,10 @@
 # Build Systems
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - [Make](https://www.gnu.org/software/make/) - simple classic, battle tested for decades. Even if you don't code you should know this to make sysadmin stuff easier
 - [Maven](https://maven.apache.org/) - used mainly by Java / JVM programmers, build file is XML showing its age
 - [Gradle](https://gradle.org/) - modern replacement for Maven, used mainly by Java / JVM programmers
