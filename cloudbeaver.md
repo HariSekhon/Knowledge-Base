@@ -7,7 +7,7 @@ Database Web UI Manager
 <!-- INDEX_START -->
 - [Summary](#summary)
   - [Demo](#demo)
-  - [Wiki:](#wiki)
+  - [Wiki](#wiki)
   - [Docker Images](#docker-images)
 <!-- INDEX_END -->
 
@@ -20,7 +20,7 @@ Database Web UI Manager
 
 https://demo.cloudbeaver.io/#/
 
-### Wiki:
+### Wiki
 
 https://github.com/dbeaver/cloudbeaver/wiki
 
