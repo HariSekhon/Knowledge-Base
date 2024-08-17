@@ -3,6 +3,16 @@
 One of the original hosted CI/CD systems.
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+  - [Travis CI Template](#travis-ci-template)
+  - [Online Config Validator](#online-config-validator)
+  - [Desktop Menu Notifications](#desktop-menu-notifications)
+  - [Travis CI URL for monitoring a Repo](#travis-ci-url-for-monitoring-a-repo)
+  - [Travis CI CLI](#travis-ci-cli)
+  - [CLI Usage](#cli-usage)
+- [Docker](#docker)
+- [Troubleshooting](#troubleshooting)
+  - [Debug Automation](#debug-automation)
 <!-- INDEX_END -->
 
 ## Summary
