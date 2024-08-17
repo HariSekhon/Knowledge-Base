@@ -1,5 +1,8 @@
 # Performance Engineering
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## CPU
 
 - clock speed is the single threaded performance speed. For single threaded applications this really matters. `gzip -9 some_huge_file` and see for yourself.
