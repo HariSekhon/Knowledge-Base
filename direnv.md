@@ -4,6 +4,9 @@
 that allow you to quickly switch between AWS profiles, EKS clusters, Terraform & Terragrunt versions or any number of
 other software versions or profiles.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Install direnv
 
 On Mac just:
