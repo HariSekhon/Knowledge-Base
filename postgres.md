@@ -1,6 +1,8 @@
 # PostgreSQL
 
 <!-- INDEX_START -->
+- [SQL Scripts](#sql-scripts)
+- [PgAdmin](#pgadmin)
 <!-- INDEX_END -->
 
 ## SQL Scripts
