@@ -16,6 +16,10 @@
 - docs, Getting Started docs are thin, go to [Server Administration](https://www.keycloak.org/docs/latest/server_admin/index.html) docs
 
 <!-- INDEX_START -->
+  - [Terminology](#terminology)
+- [Kubernetes Config](#kubernetes-config)
+- [Azure AD integration](#azure-ad-integration)
+  - [AAD user pre-provisioning to Keycloak](#aad-user-pre-provisioning-to-keycloak)
 <!-- INDEX_END -->
 
 ### Terminology
