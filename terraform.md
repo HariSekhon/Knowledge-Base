@@ -5,6 +5,9 @@ Infrastructure-as-Code using HCL manifests to define cloud resources.
 Idempotent, queries cloud APIs,
 detects what is missing or has changed and then applies the necessary changes to reconcile.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Install Terraform
 
 Quick install script is found in the [DevOps-Bash-tools](devops-bash-tools) repo:
