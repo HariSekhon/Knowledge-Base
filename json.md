@@ -6,6 +6,9 @@ For JSON basics, read [Wikipedia](https://en.wikipedia.org/wiki/JSON).
 
 Useful JSON tools:
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## gron
 
 <https://github.com/tomnomnom/gron>
