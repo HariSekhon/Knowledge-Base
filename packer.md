@@ -1,6 +1,6 @@
 # Packer
 
-https://www.packer.io/
+<https://www.packer.io/>
 
 Packer is a tool for automating building virtual machines templates such as importable `.ova` files.
 
