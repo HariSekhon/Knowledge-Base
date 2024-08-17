@@ -1,5 +1,8 @@
 # Networking
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## CIDR visualizer
 
 Shows bits, netmask, first IP, last IP, number of IPs in range
