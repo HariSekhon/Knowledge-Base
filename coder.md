@@ -1,8 +1,13 @@
 # Coder
 
-https://coder.com/
+<https://coder.com/>
 
 Self-hosted enterprise Dev environments.
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
 
 - Open-core model
 - Enterprise is expensive to license - the price isn't on the website, you have to contact Sales which should give you a hint!
