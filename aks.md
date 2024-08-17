@@ -1,6 +1,7 @@
 # AKS - Azure Kubernetes Service
 
 <!-- INDEX_START -->
+- [AKS Automatic](#aks-automatic)
 <!-- INDEX_END -->
 
 ## AKS Automatic
