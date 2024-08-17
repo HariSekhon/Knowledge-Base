@@ -2,6 +2,11 @@
 
 [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools)
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Clone
+
 ```shell
 git clone https://github.com/HariSekhon/DevOps-Python-tools pytools
 
