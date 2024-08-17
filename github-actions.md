@@ -3,6 +3,11 @@
 TL;DR - use GitHub Actions for general CI/CD since you should be using [GitHub](github.md) anyway -
 use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensive CI/CD.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - fully hosted
 - unlimited build minutes for public projects
 - 2,000 free private build minutes for users / orgs
