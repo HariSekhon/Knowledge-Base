@@ -1,6 +1,16 @@
 # Java JVM Performance Tuning
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+- [Read up on JVM Garbage Collection Basics First](#read-up-on-jvm-garbage-collection-basics-first)
+- [Don't make the Java Heaps too big](#dont-make-the-java-heaps-too-big)
+- [Set `-Xmx` and `-Xms` to the same value](#set--xmx-and--xms-to-the-same-value)
+- [JVM RAM overhead space](#jvm-ram-overhead-space)
+- [Garbage Collection algorithm](#garbage-collection-algorithm)
+- [G1GC pause time goal is a hint only](#g1gc-pause-time-goal-is-a-hint-only)
+- [Add Verbose GC logging so you can investigate and debug GC Pauses](#add-verbose-gc-logging-so-you-can-investigate-and-debug-gc-pauses)
+- [OutOfMemory restart](#outofmemory-restart)
+- [HBase Diagram Example of an application that needs such tuning](#hbase-diagram-example-of-an-application-that-needs-such-tuning)
 <!-- INDEX_END -->
 
 ## Summary
