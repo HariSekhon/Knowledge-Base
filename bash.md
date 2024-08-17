@@ -27,14 +27,6 @@ is one of the few use cases for that).
   - [Fail if accessing any unset variable](#fail-if-accessing-any-unset-variable)
   - [Clean Shell](#clean-shell)
 - [Style Guide](#style-guide)
-- [Core Reading Material](#core-reading-material)
-- [Advanced Library of Scripts](#advanced-library-of-scripts)
-- [Perl, Awk, Sed](#perl-awk-sed)
-- [Other Cool Resources](#other-cool-resources)
-- [Commands](#commands)
-- [Tips & Tricks](#tips-tricks)
-- [Debugging](#debugging)
-- [Style Guide](#style-guide)
 <!-- INDEX_END -->
 
 ## Core Reading Material
