@@ -3,6 +3,10 @@
 OLAP Cube engine from eBay (Apache incubator), combines HBase for low latency and Hive for mid latency
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+  - [MOLAP - Multi-dimensional OLAP](#molap---multi-dimensional-olap)
+  - [ROLAP - Relational-OLAP](#rolap---relational-olap)
+  - [How Kylin mixes MOLAP and ROLAP](#how-kylin-mixes-molap-and-rolap)
 <!-- INDEX_END -->
 
 ## Summary
