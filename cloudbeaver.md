@@ -5,6 +5,10 @@
 Database Web UI Manager
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+  - [Demo](#demo)
+  - [Wiki:](#wiki)
+  - [Docker Images](#docker-images)
 <!-- INDEX_END -->
 
 ## Summary
