@@ -10,8 +10,8 @@ is one of the few use cases for that).
 
 <!-- INDEX_START -->
 - [Core Reading Material](#core-reading-material)
-  - [Books:](#books)
-  - [Free:](#free)
+  - [Books](#books)
+  - [Free](#free)
 - [Advanced Library of Scripts](#advanced-library-of-scripts)
 - [Perl, Awk, Sed](#perl-awk-sed)
 - [Other Cool Resources](#other-cool-resources)
@@ -31,13 +31,13 @@ is one of the few use cases for that).
 
 ## Core Reading Material
 
-### Books:
+### Books
 
 - [Classic Shell Scripting](https://www.amazon.com/Classic-Shell-Scripting-Arnold-Robbins/dp/0596005954)
 - [Bash CookBook](https://www.amazon.com/bash-Cookbook-Solutions-Examples-Users/dp/1491975334/)
 - [Unix Power Tools](https://www.amazon.com/Power-Tools-Third-Shelley-Powers/dp/0596003307/)
 
-### Free:
+### Free
 
 - [Advanced Bash Scripting Guide (HTML)](https://tldp.org/LDP/abs/html/)
 - [Advanced Bash Scripting Guide (PDF)](https://tldp.org/LDP/abs/abs-guide.pdf)
