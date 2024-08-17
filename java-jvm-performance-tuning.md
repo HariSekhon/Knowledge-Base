@@ -1,5 +1,10 @@
 # Java JVM Performance Tuning
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 This is important for low latency Java applications and clustered technologies using ZooKeeper.
 
 Garbage Collection pauses can kill clusters due to losing ZooKeeper leader elections caused by temporary GC pauses
