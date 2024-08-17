@@ -4,13 +4,13 @@ Resolves hostnames and fully qualified domain names (FQDNs) to IP addresses.
 
 <!-- INDEX_START -->
 - [Ports](#ports)
-  - [DNS Server Software](#dns-server-software)
-  - [Public DNS Servers for Clients](#public-dns-servers-for-clients)
-  - [Misc](#misc)
-  - [Linux Packages for DNS Clients](#linux-packages-for-dns-clients)
-  - [DNSmasq on macOS](#dnsmasq-on-macos)
-  - [DNSMasq on RHEL7](#dnsmasq-on-rhel7)
-  - [DDNS - Dynamic DNS](#ddns---dynamic-dns)
+- [DNS Server Software](#dns-server-software)
+- [Public DNS Servers for Clients](#public-dns-servers-for-clients)
+- [Misc](#misc)
+- [Linux Packages for DNS Clients](#linux-packages-for-dns-clients)
+- [DNSmasq on macOS](#dnsmasq-on-macos)
+- [DNSMasq on RHEL7](#dnsmasq-on-rhel7)
+- [DDNS - Dynamic DNS](#ddns---dynamic-dns)
 <!-- INDEX_END -->
 
 ## Ports
@@ -20,7 +20,7 @@ Resolves hostnames and fully qualified domain names (FQDNs) to IP addresses.
 | UDP       | 53   | - DNS client requests<br/>- DNS server replies                         |
 | TCP       | 53   | - Dynamic DNS<br/>- Zone transfers between DNS servers for replication |
 
-### DNS Server Software
+## DNS Server Software
 
 - [ISC Bind](https://www.isc.org/bind/) - the classic unix DNS - still runs most of the internet
 - [DjbDNS / TinyDNS](https://cr.yp.to/djbdns.html) - smaller faster DNS server
@@ -28,7 +28,7 @@ Resolves hostnames and fully qualified domain names (FQDNs) to IP addresses.
   - good for local labs or small local networks
 - [InfoBlox](https://www.infoblox.com/) - enterprise DDI (DNS, DHCP, IPAM - IP Address Management) and threat protection - see [infoblox.md](infoblox.md) TODO
 
-#### Lab DNS - Create FQDNs with embedded IP addresses
+### Lab DNS - Create FQDNs with embedded IP addresses
 
 https://sslip.io/ - maps anything `<anything>[.-]<IP Address>.sslip.io` in either 'dot' or 'dash' notation to the embedded IP address.
 
@@ -36,8 +36,7 @@ https://nip.io - maps `<anything>[.-]<IP Address>.nip.io` in either 'dot' or 'da
 
 Commonly used for labs and demos where you need to put hostnames / FQDNs in software configuration instead of IP addresses.
 
-
-### Public DNS Servers for Clients
+## Public DNS Servers for Clients
 
 Public DNS servers available for clients to use:
 
@@ -53,7 +52,7 @@ TSIG key - shared key for one-way hash auth for DDNS and zone transfers
 
 DNS Security - see [security.md](security.md)
 
-### Linux Packages for DNS Clients
+## Linux Packages for DNS Clients
 
 Contains the `host` and `dig` commands:
 
@@ -61,7 +60,7 @@ Contains the `host` and `dig` commands:
 sudo yum install -y bind-utils
 ```
 
-### DNSmasq on macOS
+## DNSmasq on macOS
 
 ```shell
 brew install dnsmasq
@@ -102,10 +101,7 @@ Then to load dnsmasq now:
 sudo launchctl load /Library/LaunchDaemons/homebrew.mxcl.dnsmasq.plist
 ```
 
-
-
-
-### DNSMasq on RHEL7
+## DNSMasq on RHEL7
 
 ```shell
 sudo yum install -y dnsmasq
@@ -133,7 +129,7 @@ sudo yum install -y dhcping
 sudo dhcping -s localhost
 ```
 
-### DDNS - Dynamic DNS
+## DDNS - Dynamic DNS
 
 Requires TCP port 53
 
