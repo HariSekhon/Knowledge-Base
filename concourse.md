@@ -5,6 +5,13 @@ https://concourse-ci.org/
 Nice simple lean open source CI/CD tool.
 
 <!-- INDEX_START -->
+- [QuickStart in Docker in one command](#quickstart-in-docker-in-one-command)
+- [CLI](#cli)
+  - [Install](#install)
+  - [fly.sh](#flysh)
+  - [fly](#fly)
+  - [Fly shell auto-completion](#fly-shell-auto-completion)
+  - [Concourse YAML](#concourse-yaml)
 <!-- INDEX_END -->
 
 ## QuickStart in Docker in one command
