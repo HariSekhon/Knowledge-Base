@@ -49,10 +49,10 @@ It requires extensive experience in the following areas:
   if you're any good
 - [Shell Scripting](shell.md)
 - [Cloud](cloud.md) - at least one cloud platform 6-12 technologies each, probably 2-3 such platforms
-- [CI/CD](ci-cd.md)
+- [CI/CD](ci-cd.md) - at least 1-2 technologies
 - [Databases](databases.md), DBA administration & [SQL](sql.md) - usually at least 2-3 different databases, probably more
-- [NoSQL](README.md#nosql)
-- Caching
+- [NoSQL](README.md#nosql) - at least 1-2 technologies
+- [Caching](README.md#caching)
 - [Terraform](terraform.md), [Terragrunt](terragrunt.md)
 
 and a tonne of other areas I've probably forgotten to mention.
