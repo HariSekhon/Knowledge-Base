@@ -2,6 +2,9 @@
 
 Imports / Exports data tables between SQL DBs and Hadoop.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Sqoop1
 
 - started as MySQL only in a week's hackathon session
