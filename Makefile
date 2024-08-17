@@ -46,7 +46,7 @@ build: init
 	@#$(MAKE) pre-commit
 	@echo "All Checks Passed"
 
-generate-index:
+generate-indexes:
 	@# markdown_replace_index.sh is from DevOps-Bash-tools repo being in the $PATH
 	@git ls-files --cached "*.md" | \
 	grep -v README.md | \
@@ -56,6 +56,12 @@ generate-index:
 			echo; \
 		fi; \
 	done
+
+generate-index: generate-indexes
+	@:
+
+indexes: generate-indexes
+	@:
 
 pre-commit:
 	pre-commit run --all
