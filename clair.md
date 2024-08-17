@@ -1,8 +1,8 @@
 # Clair
 
-https://github.com/coreos/clair
+<https://github.com/coreos/clair>
 
-https://quay.github.io/clair/whatis.html
+<https://quay.github.io/clair/whatis.html>
 
 Clair Security Scanner by Quay.io / Redhat
 
@@ -10,6 +10,9 @@ Open source static analysis image vulnerability scanner by CoreOS
 
 Not as good quality, easy to use or reliable as Trivy / Grype in my experience,
 see [this issue](https://github.com/quay/clair/issues/1756).
+
+<!-- INDEX_START -->
+<!-- INDEX_END -->
 
 ## Components
 
