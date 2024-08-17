@@ -5,6 +5,13 @@ https://github.com/ariga/atlas
 Terraform for Database Schemas.
 
 <!-- INDEX_START -->
+- [Install](#install)
+- [Inspect](#inspect)
+  - [HCL](#hcl)
+  - [SQL](#sql)
+  - [JSON](#json)
+  - [Visualize the Schema](#visualize-the-schema)
+- [Apply](#apply)
 <!-- INDEX_END -->
 
 ## Install
