@@ -1,5 +1,8 @@
 # Codefresh
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## CLI
 
 ### Install
