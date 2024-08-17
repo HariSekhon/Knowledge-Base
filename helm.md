@@ -5,6 +5,11 @@ Package Manager for [Kubernetes](kubernetes.md).
 Helm is the original Kubernetes app manager before the rise of [Kustomize](kustomize.md) and still the primary
 mechanism of deploying public Kubernetes applications.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - templated Kubernetes YAML manifests
 - release is a deployed combination of Chart bundle + your custom `values.yaml` variables
 - stores release info in k8s secret in same namespace as the release, no DB needed
