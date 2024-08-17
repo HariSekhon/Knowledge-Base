@@ -1,5 +1,8 @@
 # Editors & IDEs
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Editors
 
 - [ViM](vim.md) - `vi` improved
