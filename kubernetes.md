@@ -1,5 +1,8 @@
 # Kubernetes
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Local Dev
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) has a setting to enable Kubernetes, easiest to use
