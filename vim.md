@@ -2,6 +2,11 @@
 
 [ViM](https://www.vim.org/) - `vi` improved
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 - `vi` is the core editor available on every unix system
 - basic knowledge of `vi` is a core skill for all unix / linux server administrators
 - tonnes of plugins, highly extensible and widely used
@@ -20,6 +25,8 @@ N times or for N lines.
 Lowercase vs Capitals often do the opposite action / direction.
 
 You can run the `vimtutor` command on unix or inside `vim` the command `:help tutor` to get an interactive tutorial.
+
+## Shortcuts
 
 | Keystrokes               | Description                                                                                                                                  |
 |--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
