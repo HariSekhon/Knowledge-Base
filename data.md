@@ -1,5 +1,8 @@
 # Data
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Big Data
 
 See [big-data.md](big-data.md)
