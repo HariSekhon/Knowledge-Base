@@ -2,6 +2,7 @@
 
 Media file analysis, editing, transcoding and conversions.
 
+<!-- INDEX_START -->
 - [Image](#image)
   - [Convert Webp to PNG format](#convert-webp-to-png-format)
 - [Video](#video)
@@ -13,6 +14,7 @@ Media file analysis, editing, transcoding and conversions.
   - [MP3 metadata editing](#mp3-metadata-editing)
 - [MediaBox Setup](#mediabox-setup)
   - [Remote control](#remote-control)
+<!-- INDEX_END -->
 
 ## Image
 
