@@ -13,6 +13,33 @@ backed by Teradata from mid 2015
 - 2-7.5x faster than [Hive](hive.md), 4-7x more CPU efficient
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+- [Instant Presto using Docker](#instant-presto-using-docker)
+- [High Availability](#high-availability)
+- [Access Control](#access-control)
+- [Coordinators](#coordinators)
+- [Workers](#workers)
+- [Connectors](#connectors)
+  - [Connector List](#connector-list)
+- [Catalog](#catalog)
+- [Logs](#logs)
+- [Presto Verifier](#presto-verifier)
+- [Benchmark Tool](#benchmark-tool)
+- [Python library](#python-library)
+- [Setup](#setup)
+- [Configs](#configs)
+- [set false on just workers](#set-false-on-just-workers)
+- [might want to set false on dedicated coordinators](#might-want-to-set-false-on-dedicated-coordinators)
+- [tune this according to -Xmx in jvm.config](#tune-this-according-to--xmx-in-jvmconfig)
+- [must not end in a slash](#must-not-end-in-a-slash)
+- [metrics monitoring](#metrics-monitoring)
+- [Debug Krb using these in jvm.config](#debug-krb-using-these-in-jvmconfig)
+- [for HDFS HA setups add:](#for-hdfs-ha-setups-add)
+- [this config must be on all presto nodes, as must the hadoop conf files](#this-config-must-be-on-all-presto-nodes-as-must-the-hadoop-conf-files)
+- [no authz in Presto yet so need to use HDFS ACLs and impersonation](#no-authz-in-presto-yet-so-need-to-use-hdfs-acls-and-impersonation)
+- [_HOST will be auto-replaced by the hostname of the Presto worker](#host-will-be-auto-replaced-by-the-hostname-of-the-presto-worker)
+- [API](#api)
+- [Presto SQL](#presto-sql)
 <!-- INDEX_END -->
 
 ## Summary
