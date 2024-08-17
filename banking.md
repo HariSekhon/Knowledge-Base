@@ -1,5 +1,10 @@
 # Banking
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Summary
+
 People cite wanting 'banking experience'.
 
 When you finally get there, you find out there is nothing to it.
