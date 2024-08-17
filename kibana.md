@@ -8,6 +8,9 @@ Port 5601
 - date picker top right
 - add indexes - left bar Management -> Index Patterns -> top left Plus +
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 # Kibana 3
 
 ```shell
