@@ -2,6 +2,9 @@
 
 [Official Documentation](https://docs.ansible.com/ansible/latest/getting_started/index.html)
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Inventory
 
 List of hosts to run against, grouped
