@@ -6,6 +6,9 @@
 - designed for LVS / IPVS (Linux Virtual Server project)
 - used in OpenStack
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ### Test Keepalived in the foreground
 
 ```shell
