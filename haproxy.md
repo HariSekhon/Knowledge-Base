@@ -7,6 +7,10 @@ Open source software Load Balancer.
 - fast & optimized, written in C
 - HA - combine with VRRP daemon `keepalived` for IP failover, faster than Heartbeat, more seamless
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
+## Commercial Appliance
 
 - [ALOHA](https://www.haproxy.com/products/haproxy-aloha) - HAProxy appliance (hardware or virtual appliance) by HAProxy Inc
 
