@@ -5,6 +5,16 @@ https://circleci.com/
 One of the original hosted CI/CD systems.
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+- [UI App](#ui-app)
+- [CircleCI CLI](#circleci-cli)
+- [Master Config Template](#master-config-template)
+- [Configs in Public Repos](#configs-in-public-repos)
+- [Self-Hosted Runner on Kubernetes](#self-hosted-runner-on-kubernetes)
+- [CLI Usage](#cli-usage)
+  - [Create Namespace for use by Orbs or Executor Runners](#create-namespace-for-use-by-orbs-or-executor-runners)
+- [SSH Debugging](#ssh-debugging)
+- [Advanced gotchas](#advanced-gotchas)
 <!-- INDEX_END -->
 
 ## Summary
