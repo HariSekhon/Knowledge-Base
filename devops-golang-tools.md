@@ -4,7 +4,7 @@
 
 <!-- INDEX_START -->
 - [Clone](#clone)
-  - [Make](#make)
+- [Make](#make)
 <!-- INDEX_END -->
 
 ## Clone
@@ -15,7 +15,7 @@ git clone https://github.com/HariSekhon/DevOps-Golang-tools gotools
 cd gotools
 ```
 
-### Make
+## Make
 
 Then run `make` to install any dependencies, system packages, libraries etc.
 
