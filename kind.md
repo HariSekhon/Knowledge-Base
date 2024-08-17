@@ -6,6 +6,9 @@ Useful for CI/CD testing.
 
 You can see this used in my GitHub Actions for repo [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubenretes-configs), used for testing the yaml configurations on a live test kubernetes cluster.
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ### Install
 
 From [DevOps-Bash-tools](devops-bash-tools.md) repo:
