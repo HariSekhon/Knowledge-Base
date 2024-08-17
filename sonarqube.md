@@ -4,6 +4,9 @@ Leading open source code quality tool.
 
 <https://www.sonarsource.com/open-source-editions/sonarqube-community-edition/>
 
+<!-- INDEX_START -->
+<!-- INDEX_END -->
+
 ## Config
 
 The `sonar.properties` config should be at the top of a repo - example configs:
