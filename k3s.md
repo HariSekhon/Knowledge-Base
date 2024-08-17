@@ -3,6 +3,12 @@
 <https://k3s.io/>
 
 <!-- INDEX_START -->
+- [Summary](#summary)
+  - [QuickStart](#quickstart)
+  - [Modes](#modes)
+  - [Install Agents](#install-agents)
+  - [Install Kubernetes Dashboard](#install-kubernetes-dashboard)
+  - [Shut down K3s](#shut-down-k3s)
 <!-- INDEX_END -->
 
 ## Summary
