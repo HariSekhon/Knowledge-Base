@@ -7,7 +7,7 @@
 - [Shortcuts](#shortcuts)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - `vi` is the core editor available on every unix system
 - basic knowledge of `vi` is a core skill for all unix / linux server administrators
