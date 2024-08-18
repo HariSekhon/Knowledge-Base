@@ -16,7 +16,6 @@ This is useful to burn in hardware to avoid early stage production failures, lea
 - [K6 by Grafana Labs](#k6-by-grafana-labs)
 - [Hadoop TestDFSIO](#hadoop-testdfsio)
 - [YCSB - Yahoo Cloud Serving Benchmark](#ycsb---yahoo-cloud-serving-benchmark)
-- [mvn clean package](#mvn-clean-package)
 <!-- INDEX_END -->
 
 ### Things you want to stress
