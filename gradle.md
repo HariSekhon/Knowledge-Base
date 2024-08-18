@@ -16,7 +16,7 @@ Good replacement for [Maven](maven.md).
 - [build.gradle](#buildgradle)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - good docs
 - good plugin support
