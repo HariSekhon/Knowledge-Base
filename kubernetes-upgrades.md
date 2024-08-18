@@ -1,13 +1,13 @@
-## Kubernetes Upgrades
+# Kubernetes Upgrades
 
 Before you upgrade a Kubernetes cluster, you must ensure you won't break any existing apps running on it.
 
 <!-- INDEX_START -->
-  - [Check for Deprecated API objects](#check-for-deprecated-api-objects)
-  - [PSP - Pod Security Policies](#psp---pod-security-policies)
+- [Check for Deprecated API objects](#check-for-deprecated-api-objects)
+- [PSP - Pod Security Policies](#psp---pod-security-policies)
 <!-- INDEX_END -->
 
-### Check for Deprecated API objects
+## Check for Deprecated API objects
 
 Any apps using deprecated API objects will need to be upgraded first.
 
@@ -55,7 +55,7 @@ pluto_detect_helm_materialize.sh
 pluto_detect_kustomize_materialize.sh
 ```
 
-### PSP - Pod Security Policies
+## PSP - Pod Security Policies
 
 <https://docs.aws.amazon.com/eks/latest/userguide/pod-security-policy-removal-faq.html>
 
