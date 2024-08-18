@@ -5,7 +5,7 @@
 - [Quick Cheatsheet for Investment Banking Jargon](#quick-cheatsheet-for-investment-banking-jargon)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 People cite wanting 'banking experience'.
 
