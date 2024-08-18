@@ -6,14 +6,24 @@ Run small services that do one thing well.
 
 It is the services equivalent of the 50 year battle-test unix core utils philosophy.
 
-These services communicate with each other via APIs, typically simple [HTTPS Rest APIs](https://www.redhat.com/en/topics/api/what-is-a-rest-api).
+These services communicate with each other via APIs, typically simple
+[HTTPS Rest APIs](https://www.redhat.com/en/topics/api/what-is-a-rest-api).
 
-However, these distributed services introduce complexity over monoliths. The code of each service may be much
-simpler, but they simply shift the complexity to the infrastructure and monitoring.
+However, while these smaller distributed services reduce monolithic code complexity by decoupling as much as
+possible, they introduce infrastructure complexity compared to monoliths.
 
-- run small services that do more services, more stacks, need to scale easier + faster, maintenance overhead
+The code of each service may be much simpler, but they simply shift the complexity to the infrastructure, high
+availability and especially monitoring and tracing what happens to requests as they traverse the many components
+through the stack.
+
+## Key Points
+
+- run smaller services
+- smaller footprint per service
+- results in more services, more stacks
+- usually scales easier + faster as you can scale individual copmonents
+- maintenance overhead
 - answer: Docker containers
-- small footprint
 - easy to create + move around
 - limitation - only simplifies running services, misses:
   - no conf mgmt
@@ -23,17 +33,19 @@ simpler, but they simply shift the complexity to the infrastructure and monitori
 
 ## Microservices Stacks
 
+Commonly used technologies in microservices stacks:
+
 - [Docker](docker.md)
 - [Kubernetes](kubernetes.md)
 - [Consul](consul.md) - Coordination & Discovery system and Key-Value store
 - [ELK](elasticsearch.md) stack (logging)
-- [AWS](aws.md)
-- [Ansible](ansible.md) (orchestration)
+- [Cloud](README.md#cloud) services
+- [Ansible](ansible.md) (orchestration) - old - usually only used for VMs and not for modern containerized technologies
 
+## Best Practices
 
 - use immutable services where possible and abstract out storage to avoid state maintenance on some apps
-- even [Kubernetes](kubernetes.md) components and Mesos masters run as Docker containers
-- [Mesos](mesos.md) knows how to speak docker, using Marathon
+- even [Kubernetes](kubernetes.md) components and [Mesos](mesos.md) masters run as Docker containers
 
 
 - [Consul](consul.md) - secure key-value store
