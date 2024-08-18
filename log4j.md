@@ -8,7 +8,7 @@ Classic logging library for Java
 - [Set Log Levels](#set-log-levels)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - Spark Log4j 1.2 was EOL 2015, June 2018 still there due to dependency hell
 - Log4j 1.2
