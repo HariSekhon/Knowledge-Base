@@ -15,7 +15,7 @@ Written in C++ with Java and Python bindings
 - [Chronos](#chronos)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - Marathon - task launcher, uses Docker
 - Chronos  - cron (highly available, fault-tolerant)
