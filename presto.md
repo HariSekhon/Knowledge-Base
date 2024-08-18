@@ -13,7 +13,7 @@ backed by Teradata from mid 2015
 - 2-7.5x faster than [Hive](hive.md), 4-7x more CPU efficient
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Instant Presto using Docker](#instant-presto-using-docker)
 - [High Availability](#high-availability)
 - [Access Control](#access-control)
