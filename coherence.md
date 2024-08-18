@@ -5,7 +5,7 @@
 Oracle acquired Tangosol 2007.
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 <!-- INDEX_END -->
 
 ## Key Points
