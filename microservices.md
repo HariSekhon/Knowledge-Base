@@ -50,7 +50,9 @@ Commonly used technologies in microservices stacks:
 
 - [Docker](docker.md)
 - [Kubernetes](kubernetes.md)
-- [Consul](consul.md) - Coordination & Discovery system and Key-Value store
+- [Consul](consul.md)
+  - Coordination & Discovery system used to find other service dependencies
+  - Key-Value store used to store both config and templates, as single source of truth
 - [ELK](elasticsearch.md) stack (logging)
 - [Cloud](README.md#cloud) services
 - [Ansible](ansible.md) (orchestration) - old - usually only used for VMs and not for modern containerized technologies
@@ -59,12 +61,7 @@ Commonly used technologies in microservices stacks:
 
 - use immutable services where possible and abstract out storage to avoid state maintenance on some apps
 - even [Kubernetes](kubernetes.md) components and [Mesos](mesos.md) masters run as Docker containers
-
-
-- [Consul](consul.md) - secure key-value store
-  - used to store both config and templates, single source of truth
-  - Consul Template watches it and creates configuration files, used by containers
-
+- use service discovery (eg. Consul of Kubernetes internal DNS)
 - AWS - single AMI since all services run in containers, low maintenance
 - Ansible - integrates with AWS natively
 - more of an orchestration tool that also does config mgmt
