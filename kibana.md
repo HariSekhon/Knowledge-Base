@@ -10,7 +10,7 @@ Port 5601
 
 <!-- INDEX_START -->
 - [Kibana 3](#kibana-3)
-  - [Rsyslog config snippet addition](#rsyslog-config-snippet-addition)
+- [Rsyslog config snippet addition](#rsyslog-config-snippet-addition)
 <!-- INDEX_END -->
 
 # Kibana 3
@@ -40,7 +40,7 @@ top left    -> auto-refresh
 top middle  -> Save as My Default
 ```
 
-### Rsyslog config snippet addition
+## Rsyslog config snippet addition
 
 Kibana expects logstash format so mimic it with Rsyslog
 
