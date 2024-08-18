@@ -3,7 +3,7 @@
 Classic logging library for Java
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Test Log4j config via quick code](#test-log4j-config-via-quick-code)
 - [Set Log Levels](#set-log-levels)
 <!-- INDEX_END -->
