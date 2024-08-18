@@ -8,8 +8,8 @@
 - [Networking](#networking)
   - [IPtables](#iptables)
   - [DHCP](#dhcp)
-  - [CGroups](#cgroups)
-  - [Disk Management](#disk-management)
+- [CGroups](#cgroups)
+- [Disk Management](#disk-management)
 - [DRBD](#drbd)
 - [Distributions](#distributions)
   - [Gentoo](#gentoo)
@@ -119,7 +119,7 @@ Test DHCP response:
 dhcping -s localhost
 ```
 
-### CGroups
+## CGroups
 
 Limit resource usage.
 
@@ -184,7 +184,7 @@ Sysconfig services can instead add this to their `/etc/sysconfig/<servicename>` 
 CGROUP_DAEMON="<subsystem>:<control_group>"
 ```
 
-### Disk Management
+## Disk Management
 
 List disk space of mounted partitions:
 
