@@ -11,7 +11,7 @@ Developer oriented (Python) instead of Terraform HCL.
 - [Terraform vs Pulumi](#terraform-vs-pulumi)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 TODO
 
