@@ -43,6 +43,38 @@ webp_to_png "$name.webp"
 This function adds safety to not overwrite the destination file if it already exists because `dwebp` will blindly
 overwrite the `-o outfile`.
 
+### Inspect Image File Metadata
+
+```shell
+exiftool "$file"
+```
+
+Identify command from imagemagick is more verbose:
+
+```shell
+identify -verbose "$file"
+```
+
+Exiv2 is less reliable:
+
+```shell
+exiv2
+```
+
+### Look for Watermarks
+
+```shell
+magick "$file" -edge 1 output.jpg
+```
+
+Then visually inspect the `output.jpg` which is blacked out to see sillouttes more easily.
+
+You can also try converting to black & white (grey):
+
+```shell
+magick "$file" -channel Red -separate output.jpg
+```
+
 ## Video
 
 ### Get the resolution and other details like codec for a video file
