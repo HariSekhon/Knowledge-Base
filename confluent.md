@@ -5,7 +5,7 @@
 Confluent Platform - Kafka-based platform
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Kafka Streams](#kafka-streams)
 - [KSQL - Kafka SQL](#ksql---kafka-sql)
 - [Camus](#camus)
