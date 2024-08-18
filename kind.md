@@ -9,6 +9,8 @@ You can see this used in my GitHub Actions for repo [HariSekhon/Kubernetes-confi
 <!-- INDEX_START -->
 - [Install](#install)
 - [Create Cluster](#create-cluster)
+  - [Create using a config](#create-using-a-config)
+- [Commands](#commands)
 <!-- INDEX_END -->
 
 ## Install
