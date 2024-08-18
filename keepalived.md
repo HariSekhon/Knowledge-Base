@@ -3,7 +3,7 @@
 VRRP IP failover daemon.
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Test Keepalived in the foreground](#test-keepalived-in-the-foreground)
 - [Linux: allow binding to IP of VIP from Keepalived](#linux-allow-binding-to-ip-of-vip-from-keepalived)
 - [Example Config](#example-config)
