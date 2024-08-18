@@ -10,7 +10,6 @@
   - [Test Keepalived in the foreground](#test-keepalived-in-the-foreground)
   - [Linux: allow binding to IP of VIP from Keepalived](#linux-allow-binding-to-ip-of-vip-from-keepalived)
   - [Example Config](#example-config)
-- [use in environments where multicast doesn't work, eg. AWS, a network in a bank (might need iptables -A INPUT -p vrrp -d 224.0.0.0/24 -j ACCEPT)](#use-in-environments-where-multicast-doesnt-work-eg-aws-a-network-in-a-bank-might-need-iptables--a-input--p-vrrp--d-22400024--j-accept)
 <!-- INDEX_END -->
 
 ### Test Keepalived in the foreground
