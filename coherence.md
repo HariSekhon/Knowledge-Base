@@ -8,7 +8,7 @@ Oracle acquired Tangosol 2007.
 - [Summary](#summary)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - Java in-memory data grid (100s GB)
 - horizontally scalable distributed cache
