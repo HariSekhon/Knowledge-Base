@@ -10,7 +10,7 @@ Mahout is Hindi for Elephant Driver ie. it drives Hadoop, for which the elephant
 - [Output](#output)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - Hadoop is not strictly necessary (can run in local mode without Hadoop)
 - version of Hadoop varies by Mahout version
