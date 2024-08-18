@@ -6,10 +6,10 @@ Frequently used with RDBMS databases such as MySQL and PostgreSQL.
 
 <!-- INDEX_START -->
 - [Installation](#installation)
-- [Download JDBC Jar](#download-jdbc-jar)
-  - [MySQL](#mysql)
-  - [PostgreSQL](#postgresql)
-  - [AWS Aurora JDBC](#aws-aurora-jdbc)
+- [MySQL](#mysql)
+  - [JDBC Connection String](#jdbc-connection-string)
+- [PostgreSQL](#postgresql)
+- [AWS Aurora JDBC](#aws-aurora-jdbc)
 <!-- INDEX_END -->
 
 ## Installation
@@ -18,12 +18,7 @@ For Data Integration software such as [Informatica](informatica.md) or [Sqoop](s
 downloading the JDBC driver jar file for the specific database and then copying it into the 3rd party drivers directory
 of the software to pick it up and use it.
 
-## Download JDBC Jar
-
-- [MySQL](#mysql)
-- [PostgreSQL](#postgresql)
-
-### MySQL
+## MySQL
 
 <https://dev.mysql.com/downloads/connector/j/>
 
@@ -34,6 +29,8 @@ Quickly download and extract the jdbc jar using this script in [DevOps-Bash-tool
 ```shell
 download_mysql_jdbc_jar.sh
 ```
+
+### JDBC Connection String
 
 The connection string should look like this:
 
@@ -46,7 +43,7 @@ configured on their ports.
 
 See also [MySQL](mysql.md) notes.
 
-### PostgreSQL
+## PostgreSQL
 
 <https://jdbc.postgresql.org/download/>
 
@@ -64,7 +61,7 @@ download_postgresql_jdbc_jar.sh
 
 See also [PostgreSQL](postgres.md) notes.
 
-### AWS Aurora JDBC
+## AWS Aurora JDBC
 
 This JDBC wrapper works with MySQL and PostgreSQL JDBC drivers to support clustering
 
