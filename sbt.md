@@ -5,7 +5,7 @@ Simple Build Tool / Scala Build Tool
 <https://www.scala-sbt.org/>
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Build File - `build.sbt`](#build-file---buildsbt)
 - [Usage](#usage)
   - [Create jar](#create-jar)
