@@ -1,7 +1,7 @@
 # Build Systems
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Make](#make)
 - [Maven](#maven)
 - [Gradle](#gradle)
