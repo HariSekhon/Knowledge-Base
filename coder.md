@@ -15,7 +15,7 @@ Self-hosted enterprise Dev environments.
   - [Beware Upgrade Issues](#beware-upgrade-issues)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - Open-core model
 - Enterprise is expensive to license - the price isn't on the website, you have to contact Sales which should give you a hint!
