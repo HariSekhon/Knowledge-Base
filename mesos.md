@@ -5,7 +5,7 @@ Obsolete. Use [Kubernetes](kubernetes.md) instead.
 Written in C++ with Java and Python bindings
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Ports](#ports)
 - [HA](#ha)
 - [Security](#security)
