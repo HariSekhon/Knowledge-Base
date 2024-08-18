@@ -5,7 +5,7 @@ https://circleci.com/
 One of the original hosted CI/CD systems.
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [UI App](#ui-app)
 - [CircleCI CLI](#circleci-cli)
 - [Master Config Template](#master-config-template)
