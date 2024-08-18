@@ -28,7 +28,7 @@ mechanism of deploying public Kubernetes applications.
 - [Old: Helm v2](#old-helm-v2)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - templated Kubernetes YAML manifests
 - release is a deployed combination of Chart bundle + your custom `values.yaml` variables
