@@ -5,7 +5,7 @@
 The legendary, mature widely used stable Linux distribution with the best most reliable tenure.
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Package Management](#package-management)
   - [`apt-get` vs `apt` vs `aptitude`](#apt-get-vs-apt-vs-aptitude)
   - [Get the latest package lists](#get-the-latest-package-lists)
