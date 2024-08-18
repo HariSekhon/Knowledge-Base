@@ -1,6 +1,6 @@
 # Microservices
 
-TODO finish and refine this page
+##### TODO finish and refine this page.
 
 Run small services that do one thing well.
 
@@ -15,6 +15,14 @@ possible, they introduce infrastructure complexity compared to monoliths.
 The code of each service may be much simpler, but they simply shift the complexity to the infrastructure, high
 availability and especially monitoring and tracing what happens to requests as they traverse the many components
 through the stack.
+
+<!-- INDEX_START -->
+- [Key Points](#key-points)
+- [Challenges](#challenges)
+- [Microservices Stacks](#microservices-stacks)
+- [Best Practices](#best-practices)
+- [Logging](#logging)
+<!-- INDEX_END -->
 
 ## Key Points
 
@@ -63,7 +71,7 @@ Commonly used technologies in microservices stacks:
 - pushes configuration of services to Consul
 - jobs triggered via Jenkins
 
-### Logging
+## Logging
 
 - Cloud logging services:
   - AWS [CloudWatch Logs](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html)
