@@ -5,7 +5,7 @@
 - [Monitoring](#monitoring)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - simple key=value pairs in memory
 - used as a cache to speed up web applications or other apps that put/get values to it
