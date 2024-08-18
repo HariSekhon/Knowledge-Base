@@ -16,7 +16,7 @@ Open source VM desktop software.
 - [Upgrades](#upgrades)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 Brilliant for its day on x86_64 machines.
 
