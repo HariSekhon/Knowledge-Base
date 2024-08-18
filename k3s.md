@@ -4,11 +4,14 @@
 
 <!-- INDEX_START -->
 - [Summary](#summary)
-  - [QuickStart](#quickstart)
-  - [Modes](#modes)
-  - [Install Agents](#install-agents)
-  - [Install Kubernetes Dashboard](#install-kubernetes-dashboard)
-  - [Shut down K3s](#shut-down-k3s)
+- [QuickStart](#quickstart)
+  - [Install](#install)
+  - [Add agent](#add-agent)
+- [Server & Agent](#server--agent)
+- [Modes](#modes)
+- [Install Agents](#install-agents)
+- [Install Kubernetes Dashboard](#install-kubernetes-dashboard)
+- [Shut down K3s](#shut-down-k3s)
 <!-- INDEX_END -->
 
 ## Summary
@@ -39,9 +42,9 @@
 - kubeconfig file written to `/etc/rancher/k3s/k3s.yaml`
   - `kubectl` installed by k3s will automatically use this
 
-### QuickStart
+## QuickStart
 
-Install:
+### Install
 
 ```shell
 curl -sfL https://get.k3s.io | sh
@@ -49,11 +52,15 @@ sleep 30
 k3s kubectl get node
 ```
 
-Add agent - set `K3S_NODE_NAME` environment variable if don't have unique hostnames:
+### Add agent
+
+Set `K3S_NODE_NAME` environment variable if don't have unique hostnames:
 
 ```shell
 curl -sfL https://get.k3s.io | K3S_URL=https://myserver:6443 K3S_TOKEN=mynodetoken sh -
 ```
+
+## Server & Agent
 
 Both server + agent run kubelet, container runtime and CNI
 
@@ -75,7 +82,7 @@ Any yamls under here are created/updated but not removed:
 /var/lib/rancher/k3s/server/manifests/traefik.yaml
 ```
 
-### Modes
+## Modes
 
 - Single Server - embedded SQLite DB - can still connect several other agents to server but no control-plane HA
 - HA K3s - 3+ servers - embedded Etcd (3+ masters)
@@ -139,8 +146,7 @@ export KUBECONFIG="/etc/rancher/k3s/k3s.yaml"
 kubectl get node
 ```
 
-
-### Install Agents
+## Install Agents
 
 Run this on each agent to install it.
 
@@ -165,11 +171,11 @@ k3s kubectl get node
 sudo cat /etc/rancher/k3s/k3s.yaml | sed "s/127.0.0.1/$YOUR_LB_IP_TO_K3S_MASTERS/" >> ~/.kube/config
 ```
 
-### Install Kubernetes Dashboard
+## Install Kubernetes Dashboard
 
 [HariSekhon/Kubernetes-configs - kubernetes-dashboard](https://github.com/HariSekhon/Kubernetes-configs/blob/master/kubernetes-dashboard/)
 
-### Shut down K3s
+## Shut down K3s
 
 ```shell
 /usr/local/bin/k3s-killall.sh
