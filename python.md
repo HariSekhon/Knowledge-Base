@@ -3,7 +3,7 @@
 Python is a popular and easy to use general purpose programming language that is heavily used in Data Analytics and
 Data Science as well as systems administration.
 
-It's not as amazing for one-liners are [Perl](perl.md) is though, which can boost shell scripts more easily.
+It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost [shell scripts](shell.md) more easily.
 
 <!-- INDEX_START -->
 - [Core Reading](#core-reading)
