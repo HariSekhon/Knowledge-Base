@@ -3,12 +3,12 @@
 NOT PORTED YET.
 
 <!-- INDEX_START -->
-  - [Show Java Classpath](#show-java-classpath)
-  - [Inspect JAR contents](#inspect-jar-contents)
-  - [Clojure](#clojure)
+- [Show Java Classpath](#show-java-classpath)
+- [Inspect JAR contents](#inspect-jar-contents)
+- [Clojure](#clojure)
 <!-- INDEX_END -->
 
-### Show Java Classpath
+## Show Java Classpath
 
 Since the `java -cp` / `java -classpath` is one huge string of colon separated paths, it's nicer to show them one
 per line using the scripts in [DevOps-Bash-tools](devops-bash-tools.md) or [DevOps-Perl-tools](devops-perl-tools.md)
@@ -40,7 +40,7 @@ although if it's just `jinfo` you're missing in the `$PATH` it would be better t
 PATH="$PATH:/path/to/bin/containing/jinfo" java_show_classpath.sh
 ```
 
-### Inspect JAR contents
+## Inspect JAR contents
 
 Java jar files are just tars of the byte-compiled Java classes.
 
@@ -53,7 +53,7 @@ tar tvf mysql-connector-j-*.jar
 The directory layout of the class files corresponds to the class hierarchy eg.
 is accessed as `com.mysql.jdbc.Driver` in Java code.
 
-### Clojure
+## Clojure
 
 https://clojure.org/
 
