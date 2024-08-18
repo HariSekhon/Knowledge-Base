@@ -5,7 +5,7 @@
 The leading open source secrets manager.
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
   - [Enterprise](#enterprise)
 - [Install on Mac](#install-on-mac)
   - [Install Autocomplete](#install-autocomplete)
