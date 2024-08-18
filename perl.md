@@ -8,7 +8,7 @@ for text processing and regular expressions.
 It's the language of elite unix sysadmins, and much of unix tooling is built on it, including [Git](git.md).
 
 <!-- INDEX_START -->
-  - [PCRE - Perl Compatible Regular Expressions](#pcre---perl-compatible-regular-expressions)
+- [PCRE - Perl Compatible Regular Expressions](#pcre---perl-compatible-regular-expressions)
 - [Core Reading](#core-reading)
 - [Perl in-place fast file editing (like sed but more powerful)](#perl-in-place-fast-file-editing-like-sed-but-more-powerful)
 - [DevOps Perl tools](#devops-perl-tools)
@@ -17,7 +17,7 @@ It's the language of elite unix sysadmins, and much of unix tooling is built on 
 - [Perl Library with Unit Tests](#perl-library-with-unit-tests)
 <!-- INDEX_END -->
 
-### PCRE - Perl Compatible Regular Expressions
+## PCRE - Perl Compatible Regular Expressions
 
 PCRE has the gold standard of regex for decades and is the standard by which other languages are judged.
 
