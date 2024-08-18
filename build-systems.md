@@ -10,7 +10,7 @@
   - [Install](#install)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - [Make](https://www.gnu.org/software/make/) - simple classic, battle tested for decades. Even if you don't code you should know this to make sysadmin stuff easier
 - [Maven](https://maven.apache.org/) - used mainly by Java / JVM programmers, build file is XML showing its age
