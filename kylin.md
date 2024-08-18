@@ -4,9 +4,9 @@ OLAP Cube engine from eBay (Apache incubator), combines HBase for low latency an
 
 <!-- INDEX_START -->
 - [Summary](#summary)
-  - [MOLAP - Multi-dimensional OLAP](#molap---multi-dimensional-olap)
-  - [ROLAP - Relational-OLAP](#rolap---relational-olap)
-  - [How Kylin mixes MOLAP and ROLAP](#how-kylin-mixes-molap-and-rolap)
+- [MOLAP - Multi-dimensional OLAP](#molap---multi-dimensional-olap)
+- [ROLAP - Relational-OLAP](#rolap---relational-olap)
+- [How Kylin mixes MOLAP and ROLAP](#how-kylin-mixes-molap-and-rolap)
 <!-- INDEX_END -->
 
 ## Summary
@@ -28,20 +28,19 @@ OLAP Cube engine from eBay (Apache incubator), combines HBase for low latency an
 - Ambari + Hue plugins
 - Integration - Lifecycle Management Support integrates with Job Scheduler, ETL, Monitoring Systems
 
-### MOLAP - Multi-dimensional OLAP
+## MOLAP - Multi-dimensional OLAP
 
 Pre-computes data along different dimensions of interest and store resultant values in the cube.
 
 MOLAP is much faster but is inflexible.
 
-
-### ROLAP - Relational-OLAP
+## ROLAP - Relational-OLAP
 
 Uses star or snow-flake schema to do runtime aggregation.
 
 ROLAP is flexible but much slower.
 
-### How Kylin mixes MOLAP and ROLAP
+## How Kylin mixes MOLAP and ROLAP
 
 Kylin pre-builds MOLAP in HBase.
 
