@@ -21,15 +21,20 @@ through the stack.
 - run smaller services
 - smaller footprint per service
 - results in more services, more stacks
-- usually scales easier + faster as you can scale individual copmonents
-- maintenance overhead
-- answer: Docker containers
-- easy to create + move around
-- limitation - only simplifies running services, misses:
-  - no conf mgmt
-  - no persistent data
-  - no traditional logging
-  - no orchestration
+- easy to create + move independently by relying on standard TCP/IP [networking](networking.md)
+- scales more easily as individual components
+- lower code complexity by splitting functionality
+- higher infrastructure complexity
+  - especially monitoring & tracing
+
+## Challenges
+
+- Orchestration
+- Configuration Management
+- Data Persistence
+- Monitoring
+  - Logging
+  - Tracing
 
 ## Microservices Stacks
 
