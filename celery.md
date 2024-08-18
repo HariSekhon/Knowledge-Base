@@ -8,7 +8,7 @@
 - [Celery App](#celery-app)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 Distributed Task Queue
 
