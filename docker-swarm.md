@@ -5,7 +5,7 @@ TL;DR just use [Kubernetes](kubernetes.md) instead - it's the winning open sourc
 <https://docs.docker.com/engine/swarm/>
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Swarm Manager](#swarm-manager)
 - [Services](#services)
 - [Stacks](#stacks)
