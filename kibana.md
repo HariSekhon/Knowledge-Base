@@ -1,17 +1,18 @@
 # Kibana
 
-Port 5601
+<!-- INDEX_START -->
+- [Kibana 3](#kibana-3)
+- [Rsyslog config snippet addition](#rsyslog-config-snippet-addition)
+<!-- INDEX_END -->
 
+## Summary
+
+- port 5601
 - query bar will search any field
 - `message: Exception`  - searches `message` field for word `Exception`, can surround with `*` wildcard
 - select only specific field - in bar on left click `add` next to available fields
 - date picker top right
 - add indexes - left bar Management -> Index Patterns -> top left Plus +
-
-<!-- INDEX_START -->
-- [Kibana 3](#kibana-3)
-- [Rsyslog config snippet addition](#rsyslog-config-snippet-addition)
-<!-- INDEX_END -->
 
 # Kibana 3
 
