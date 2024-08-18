@@ -21,7 +21,7 @@ The legendary, mature widely used stable Linux distribution with the best most r
 - [Debian Change Log tool](#debian-change-log-tool)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 Philosophical thoroughbred open-source has stood the test of time. It's the open source purist's choice.
 
