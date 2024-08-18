@@ -1,7 +1,7 @@
 # Java JVM Performance Tuning
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Read up on JVM Garbage Collection Basics First](#read-up-on-jvm-garbage-collection-basics-first)
 - [Don't make the Java Heaps too big](#dont-make-the-java-heaps-too-big)
 - [Set `-Xmx` and `-Xms` to the same value](#set--xmx-and--xms-to-the-same-value)
