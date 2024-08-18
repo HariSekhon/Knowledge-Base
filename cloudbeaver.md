@@ -11,7 +11,7 @@ Database Web UI Manager
   - [Docker Images](#docker-images)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - server is Java
 - UI is TypeScript + React
