@@ -10,7 +10,7 @@ Groovy is a language based on Java with much greater ease of use as well as inte
 - [Jenkins Advanced Groovy Library](#jenkins-advanced-groovy-library)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 If I'd known Groovy in 2013 I'd have never written anything in Jython as Python constantly breaks code every few years.
 
