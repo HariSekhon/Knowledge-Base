@@ -1,5 +1,7 @@
 # Microservices
 
+TODO finish and refine this page
+
 Run small services that do one thing well.
 
 It is the services equivalent of the 50 year battle-test unix core utils philosophy.
