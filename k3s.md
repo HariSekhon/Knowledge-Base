@@ -14,7 +14,7 @@
 - [Shut down K3s](#shut-down-k3s)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - lightweight k8s compatible implementation
 - single 70MB binary kubernetes distro
