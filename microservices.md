@@ -59,14 +59,13 @@ Commonly used technologies in microservices stacks:
 
 ## Best Practices
 
-- use immutable services where possible and abstract out storage to avoid state maintenance on some apps
+- immutable services where possible
+- abstract out storage to specialist data services like [RBDMS](README.md#databases--rdbms) or [NoSQL](README.md#NoSQL)
+  avoid state maintenance on apps
 - even [Kubernetes](kubernetes.md) components and [Mesos](mesos.md) masters run as Docker containers
-- use service discovery (eg. Consul of Kubernetes internal DNS)
-- AWS - single AMI since all services run in containers, low maintenance
-- Ansible - integrates with AWS natively
-- more of an orchestration tool that also does config mgmt
-- pushes configuration of services to Consul
-- jobs triggered via Jenkins
+- service discovery (eg. Consul of Kubernetes internal DNS)
+- standardize containers or AWS AMIs for lower maintenance
+- [CI/CD](ci-cd.md) to manage deployments
 
 ## Logging
 
