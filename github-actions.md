@@ -4,7 +4,7 @@ TL;DR - use GitHub Actions for general CI/CD since you should be using [GitHub](
 use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensive CI/CD.
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
   - [Limitations](#limitations)
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
 <!-- INDEX_END -->
