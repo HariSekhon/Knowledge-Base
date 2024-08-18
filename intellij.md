@@ -12,7 +12,19 @@ Shortcuts differ between Windows and Mac, and even between versions.
 - [The Ultimate Shortcut](#the-ultimate-shortcut)
 - [Plugins](#plugins)
   - [Useful Plugins](#useful-plugins)
+  - [Languages](#languages)
+  - [Core Editing, Git & File Formats](#core-editing-git--file-formats)
+  - [Usage Stats](#usage-stats)
   - [Cloud](#cloud)
+  - [CI/CD](#cicd)
+  - [Optional - Nice to Haves](#optional---nice-to-haves)
+  - [Python](#python)
+  - [JavaScript](#javascript)
+  - [Java / Groovy / Scala / Kotlin & JVM Tools](#java--groovy--scala--kotlin--jvm-tools)
+  - [Debugging](#debugging)
+  - [AI Plugins](#ai-plugins)
+  - [Pair Programming](#pair-programming)
+  - [More Plugins](#more-plugins)
 <!-- INDEX_END -->
 
 ## IntelliJ IDEA vs PyCharm
