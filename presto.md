@@ -32,7 +32,7 @@ backed by Teradata from mid 2015
 - [Presto SQL](#presto-sql)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - OLAP for data warehousing
 - not OLTP
