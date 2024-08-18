@@ -5,6 +5,9 @@ Media file analysis, editing, transcoding and conversions.
 <!-- INDEX_START -->
 - [Image](#image)
   - [Convert Webp to PNG format](#convert-webp-to-png-format)
+  - [Inspect Image File Metadata](#inspect-image-file-metadata)
+  - [Look for Watermarks](#look-for-watermarks)
+  - [Steghide](#steghide)
 - [Video](#video)
   - [Get the resolution and other details like codec for a video file](#get-the-resolution-and-other-details-like-codec-for-a-video-file)
   - [Transcode mkv into standard mp4 for smart TVs to play](#transcode-mkv-into-standard-mp4-for-smart-tvs-to-play)
