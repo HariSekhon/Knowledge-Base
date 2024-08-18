@@ -7,7 +7,7 @@
 - [Code](#code)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - In-Memory Data Grid
 - Apache licensed open source
