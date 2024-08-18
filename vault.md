@@ -17,7 +17,7 @@ The leading open source secrets manager.
   - [Kubernetes](#kubernetes)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - stores credentials / secrets / keys / passwords / certificates / API keys
 - detailed audit log
