@@ -1,18 +1,22 @@
 # Keepalived
 
-- VRRP IP failover daemon
-  - VRRP - Virtual Router Redundancy Protocol
+VRRP IP failover daemon.
+
+<!-- INDEX_START -->
+- [Summary](#summary)
+- [Test Keepalived in the foreground](#test-keepalived-in-the-foreground)
+- [Linux: allow binding to IP of VIP from Keepalived](#linux-allow-binding-to-ip-of-vip-from-keepalived)
+- [Example Config](#example-config)
+<!-- INDEX_END -->
+
+## Summary
+
+- VRRP - Virtual Router Redundancy Protocol
 - can manage VIP as well as IPVS and real servers configuration
 - designed for LVS / IPVS (Linux Virtual Server project)
 - used in OpenStack
 
-<!-- INDEX_START -->
-  - [Test Keepalived in the foreground](#test-keepalived-in-the-foreground)
-  - [Linux: allow binding to IP of VIP from Keepalived](#linux-allow-binding-to-ip-of-vip-from-keepalived)
-  - [Example Config](#example-config)
-<!-- INDEX_END -->
-
-### Test Keepalived in the foreground
+## Test Keepalived in the foreground
 
 ```shell
 keepalived -f /etc/keepalive/keepalived.conf -D -N -l
@@ -25,7 +29,7 @@ keepalived -f /etc/keepalive/keepalived.conf -D -N -l
 | -l     | log to stdout |
 | -C     | check syntax  |
 
-### Linux: allow binding to IP of VIP from Keepalived
+## Linux: allow binding to IP of VIP from Keepalived
 
 Add to `/etc/sysctl.conf`:
 ```
@@ -38,7 +42,7 @@ Reload sysctl settings:
 sysctl -p
 ```
 
-### Example Config
+## Example Config
 
 In `/etc/keepalive/keepalived.conf`:
 
