@@ -9,7 +9,7 @@ package files.
 
 <!-- INDEX_START -->
 - [Real World Example `pom.xml` builds](#real-world-example-pomxml-builds)
-  - [Best practice for release version incrementing](#best-practice-for-release-version-incrementing)
+- [Best practice for release version incrementing](#best-practice-for-release-version-incrementing)
 - [Executable Jar](#executable-jar)
 - [Maven Shade](#maven-shade)
 - [Surefire](#surefire)
@@ -37,7 +37,7 @@ package files.
 
 [HariSekhon/lib-java - pom.xml](https://github.com/HariSekhon/lib-java/blob/master/pom.xml)
 
-### Best practice for release version incrementing
+## Best practice for release version incrementing
 
 https://maven.apache.org/guides/mini/guide-releasing.html
 
