@@ -14,14 +14,14 @@
   - [Gentoo](#gentoo)
 <!-- INDEX_END -->
 
-### Shell
+## Shell
 
 [Shell](shell.md) - the command line program with some scripting constructs that calls the binary programs in
 `/bin`, `/usr/bin` and similar directories.
 
 Start with [Bash](bash.md) which is the standard open source Linux shell.
 
-### Cron
+## Cron
 
 In RHEL 6
 
@@ -31,7 +31,7 @@ In RHEL 6
 
 `/var/spool/cron` root:root 700
 
-#### User Crons
+### User Crons
 
 Stored in `/var/spool/cron/$USER`.
 
@@ -43,7 +43,7 @@ Opens the crontab in `$EDITOR` (default `vi` if `$EDITOR` environment variable i
 crontab -e
 ```
 
-### Timezone
+## Timezone
 
 This affects the cron scheduling above and recorded dates of jobs eg. data loading and recording.
 
@@ -60,7 +60,7 @@ data loading dates from cron above.
 timedatectl set-timezone UTC
 ```
 
-### Networking
+## Networking
 
 See [Networking](networking.md) doc.
 
@@ -149,7 +149,6 @@ ls /cgroup
 lscgroup
 ```
 
-
 Create cgroup - `/etc/cgconfig.conf`:
 ```
 group blah {
@@ -216,7 +215,7 @@ Mount a filesystem to the directory `/data`:
 mount /dev/sda2 /data
 ```
 
-### DRBD
+## DRBD
 
 - awesome disk replication, used this in the mid to late 2000s
 - mainline Linux kernel now
