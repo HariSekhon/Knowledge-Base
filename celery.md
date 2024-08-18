@@ -3,7 +3,7 @@
 <https://docs.celeryq.dev/en/stable/index.html>
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Install](#install)
 - [Celery App](#celery-app)
 <!-- INDEX_END -->
