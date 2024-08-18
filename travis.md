@@ -3,7 +3,7 @@
 One of the original hosted CI/CD systems.
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
   - [Travis CI Template](#travis-ci-template)
   - [Online Config Validator](#online-config-validator)
   - [Desktop Menu Notifications](#desktop-menu-notifications)
