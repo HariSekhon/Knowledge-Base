@@ -20,7 +20,7 @@ See also [Memcached](memcached.md) doc.
   - [Java SDK](#java-sdk)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - Memcached => Membase => Couchbase (2.0 Jan 2012)
 - CouchDB's views (like MongoDB queries) were added to Couchbase 2.0+
