@@ -2,8 +2,8 @@
 
 <!-- INDEX_START -->
 - [Summary](#summary)
-  - [Install](#install)
-  - [Login](#login)
+- [Install](#install)
+- [Login](#login)
 <!-- INDEX_END -->
 
 ## Summary
@@ -66,7 +66,7 @@
 - tested 275 nodes 3PB
 - millions of read/write ops per sec
 
-### Install
+## Install
 
 ```shell
 curl http://archive.cloudera.com/beta/kudu/redhat/6/x86_64/kudu/cloudera-kudu.repo > /etc/yum.repos.d/cloudera-kudu.repo
@@ -89,7 +89,7 @@ Doesn't work in Docker, trying instead:
 curl -s https://raw.githubusercontent.com/cloudera/kudu-examples/master/demo-vm-setup/bootstrap.sh | bash
 ```
 
-### Login
+## Login
 
 demo/demo
 
