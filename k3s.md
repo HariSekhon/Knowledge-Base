@@ -3,7 +3,7 @@
 <https://k3s.io/>
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [QuickStart](#quickstart)
   - [Install](#install)
   - [Add agent](#add-agent)
