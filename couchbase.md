@@ -3,7 +3,7 @@
 See also [Memcached](memcached.md) doc.
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
   - [Pricing](#pricing)
   - [Ports](#ports)
 - [Monitoring](#monitoring)
