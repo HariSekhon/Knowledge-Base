@@ -14,6 +14,7 @@ This is the best way to run Jenkins with auto-spawning agents for scaling up and
 - [Jenkins X](#jenkins-x)
 - [Old Manual Configuration of Jenkins on Kubernetes](#old-manual-configuration-of-jenkins-on-kubernetes)
 - [Increase Jenkins Server Disk Space on Kubernetes](#increase-jenkins-server-disk-space-on-kubernetes)
+- [Troubleshooting](#troubleshooting)
   - [Recovery if you deleted the PersistentVolumeClaim](#recovery-if-you-deleted-the-persistentvolumeclaim)
 <!-- INDEX_END -->
 
@@ -322,6 +323,8 @@ Check the Jenkins server is running again:
 ```shell
 kubectl get po -n jenkins jenkins-0
 ```
+
+## Troubleshooting
 
 ### Recovery if you deleted the PersistentVolumeClaim
 
