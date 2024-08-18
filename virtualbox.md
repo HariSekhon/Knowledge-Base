@@ -5,7 +5,7 @@
 Open source VM desktop software.
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [VirtualBox CLI](#virtualbox-cli)
 - [DHCP](#dhcp)
 - [DNS Proxy](#dns-proxy)
