@@ -7,7 +7,7 @@ IntelliJ on Mac notes.
 Shortcuts differ between Windows and Mac, and even between versions.
 
 <!-- INDEX_START -->
-  - [IntelliJ IDEA vs PyCharm](#intellij-idea-vs-pycharm)
+- [IntelliJ IDEA vs PyCharm](#intellij-idea-vs-pycharm)
 - [Install](#install)
 - [The Ultimate Shortcut](#the-ultimate-shortcut)
 - [Plugins](#plugins)
@@ -15,7 +15,7 @@ Shortcuts differ between Windows and Mac, and even between versions.
   - [Cloud](#cloud)
 <!-- INDEX_END -->
 
-### IntelliJ IDEA vs PyCharm
+## IntelliJ IDEA vs PyCharm
 
 If you're only doing Python then you may want to just get [PyCharm](https://www.jetbrains.com/pycharm/).
 
@@ -77,7 +77,7 @@ idea installPlugins \
   #com.intellij.kubernetes  # only available in Ultimate Edition :-(
 ```
 
-#### Languages
+### Languages
 
 - [Shell Script](https://plugins.jetbrains.com/plugin/13122-shell-script) - shell support
 - [Bash Support](https://plugins.jetbrains.com/plugin/4230-bashsupport)
@@ -94,7 +94,7 @@ idea installPlugins \
   com.ypwang.plugin.go-linter
 ```
 
-#### Core Editing, Git & File Formats
+### Core Editing, Git & File Formats
 
 - [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore) - supports various `.ignore` files for different technologies
 - [Code Glance](https://plugins.jetbrains.com/plugin/7275-codeglance/) - adds a minimap of the file
@@ -141,7 +141,7 @@ idea installPlugins \
   com.github.lppedd.idea-return-highlighter
 ```
 
-#### Usage Stats
+### Usage Stats
 
 - [WakaTime](https://plugins.jetbrains.com/plugin/7425-wakatime) - stats on your usage
 - [Code Time](https://plugins.jetbrains.com/plugin/10687-code-time/) - stats on your usage
@@ -167,7 +167,7 @@ idea installPlugins \
   com.google.gct.core
 ```
 
-#### CI/CD
+### CI/CD
 
 - [Jenkins Pipeline Linter](https://plugins.jetbrains.com/plugin/15699-jenkins-pipeline-linter)
 - [Jenkins Control](https://plugins.jetbrains.com/plugin/6110-jenkins-control)
@@ -186,7 +186,7 @@ idea installPlugins \
   org.sonarlint.idea  # use with SonarQube / SonarCloud
 ```
 
-#### Optional - Nice to Haves
+### Optional - Nice to Haves
 
 - [IDEA Features Trainer](https://plugins.jetbrains.com/plugin/8554-ide-features-trainer) - teaches you the IDE
 - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - teaches you keyboard shortcut when you click with the mouse
@@ -208,7 +208,7 @@ idea installPlugins \
   #"Mongo Plugin"  # who uses Mongo any more?
 ```
 
-#### Python
+### Python
 
 - [Python](https://plugins.jetbrains.com/plugin/7322-python-community-edition) (contains better support for Jython than PyCharm - cross-language navigation, completion and refactoring)
 - [Requirements](https://plugins.jetbrains.com/plugin/10837-requirements)
@@ -233,7 +233,7 @@ idea installPlugins \
 
 For IntelliJ Ultimate swap `PythonCore` for `Pythonid`.
 
-#### JavaScript
+### JavaScript
 
 - [NodeJS](https://plugins.jetbrains.com/plugin/6098-node-js)
 - [ESLint](https://plugins.jetbrains.com/plugin/7494-eslint)
@@ -248,7 +248,7 @@ idea installPlugins \
   quokka.js \
 ```
 
-#### Java / Groovy / Scala / Kotlin & JVM Tools
+### Java / Groovy / Scala / Kotlin & JVM Tools
 
 - [Groovy](https://plugins.jetbrains.com/plugin/1524-groovy)
 - [Scala](https://plugins.jetbrains.com/plugin/1347-scala)
@@ -276,7 +276,7 @@ idea installPlugins \
   JRebelPlugin
 ```
 
-#### Debugging
+### Debugging
 
 - [SpotBugs](https://plugins.jetbrains.com/plugin/14014-spotbugs)
 - [LiveEdit](https://plugins.jetbrains.com/plugin/7007-live-edit) - shows changes instantly for JavaScript, HTML, can enable for NodeJS etc.
@@ -291,7 +291,7 @@ idea installPlugins \
   com.rookout.intellij-plugin
 ```
 
-#### AI Plugins
+### AI Plugins
 
 - [JetBrains AI Assistant](https://plugins.jetbrains.com/plugin/22282-jetbrains-ai-assistant)
 - [AWS ToolKit](https://plugins.jetbrains.com/plugin/11349-aws-toolkit) - Amazon CodeWhisperer integration
@@ -307,12 +307,12 @@ idea installPlugins \
   com.tabnine.TabNine
 ```
 
-#### Pair Programming
+### Pair Programming
 
 - [Code with Me](https://plugins.jetbrains.com/plugin/14896-code-with-me) - pair programming
 - [Duckly Pair Programming](https://plugins.jetbrains.com/plugin/14919-duckly-pair-programming-tool)
 
-#### More Plugins
+### More Plugins
 
 - [Better Highlights](https://plugins.jetbrains.com/plugin/12895-better-highlights)
   - `idea install com.clutcher.comments_highlighter`
