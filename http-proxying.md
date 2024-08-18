@@ -2,8 +2,8 @@
 
 <!-- INDEX_START -->
 - [Client Apps Using Proxies](#client-apps-using-proxies)
-  - [Environment Variables - `https_proxy` / `no_proxy`](#environment-variables---httpsproxy--noproxy)
-  - [Compile Apache HTTPd with Proxying](#compile-apache-httpd-with-proxying)
+- [Environment Variables - `https_proxy` / `no_proxy`](#environment-variables---httpsproxy--noproxy)
+- [Compile Apache HTTPd with Proxying](#compile-apache-httpd-with-proxying)
 <!-- INDEX_END -->
 
 ## Client Apps Using Proxies
@@ -23,7 +23,9 @@ Maven Central, `pip` for Python to pull from PyPI etc.
 
 - [SSH tunnels in GCP](ssh-tunnelling.md#gcp) used by `kubectl` to access protected GKE clusters master control plane API
 
-### Environment Variables - `https_proxy` / `no_proxy`
+Many client apps use the following environment variables.
+
+## Environment Variables - `https_proxy` / `no_proxy`
 
 - `https_proxy` - tells applications using libraries like `libwww` to send the packets to this addresses to be
   forwarded
@@ -45,7 +47,7 @@ export HTTPS_PROXY="$https_proxy"
 export NO_PROXY="$no_proxy"
 ```
 
-### Compile Apache HTTPd with Proxying
+## Compile Apache HTTPd with Proxying
 
 ```shell
 wget http://www.mirrorservice.org/sites/ftp.apache.org/httpd/httpd-2.2.14.tar.gz &&
