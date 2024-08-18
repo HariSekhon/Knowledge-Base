@@ -1,7 +1,7 @@
 # Banking
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Quick Cheatsheet for Investment Banking Jargon](#quick-cheatsheet-for-investment-banking-jargon)
 <!-- INDEX_END -->
 
