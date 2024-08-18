@@ -6,8 +6,8 @@ Mahout is Hindi for Elephant Driver ie. it drives Hadoop, for which the elephant
 
 <!-- INDEX_START -->
 - [Summary](#summary)
-  - [Input](#input)
-  - [Output](#output)
+- [Input](#input)
+- [Output](#output)
 <!-- INDEX_END -->
 
 ## Summary
@@ -47,7 +47,7 @@ hadoop fs -put users.txt
 
 Always use `--booleanData` for binary preferences for Tannimoto / LogLiklihood
 
-### Input
+## Input
 
 Schema always same hence mahout assumes schema and just works
 
@@ -60,24 +60,38 @@ userid1,trueitem2
 
 For numeric preferences:
 
-```
+```csv
 user,item,preference
 ```
 
 - `--usersFile`, `--itemsFile` - only recommend for this list of users / items
 - `--filterFile` - exclude user,item pairs from recommendations
 
-```
-                                                                                                        SIMILARITY_TANIMOTO_COEFFICIENT --booleanData
-mahout recommenditembased --input movierating --output recs --usersFile users.txt --similarityClassname SIMILARITY_LOGLIKELIHOOD        --booleanData
-                                                                                                        SIMILARITY_EUCLIDEAN_DISTANCE
-                                                                                                        SIMILARITY_COSINE
-                                                                                                        SIMILARITY_PEARSON_CORRELATION
+```shell
+mahout recommenditembased --input movierating --output recs --usersFile users.txt --similarityClassname SIMILARITY_LOGLIKELIHOOD --booleanData
 ```
 
-### Output
+Other values for the `--similarityClassname` option:
+
+```none
+SIMILARITY_TANIMOTO_COEFFICIENT --booleanData
+```
 
 ```
+SIMILARITY_EUCLIDEAN_DISTANCE
+```
+
+```
+SIMILARITY_COSINE
+```
+
+```
+SIMILARITY_PEARSON_CORRELATION
+```
+
+## Output
+
+```none
 user_id [item1:score1, ... itemN:scoreN]
 ```
 
