@@ -22,6 +22,7 @@ through the stack.
 - [Microservices Stacks](#microservices-stacks)
 - [Best Practices](#best-practices)
 - [Logging](#logging)
+- [Misc Notes](#misc-notes)
 <!-- INDEX_END -->
 
 ## Key Points
