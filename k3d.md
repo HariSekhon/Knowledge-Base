@@ -8,16 +8,16 @@ Wrapper CLI that runs [K3s](k3s.md) in Docker (this is also a workaround for k3s
 - manage Kubeconfigs for the k3s clusters
 
 <!-- INDEX_START -->
-  - [Template Config](#template-config)
-  - [Commands](#commands)
-  - [KubeConfig](#kubeconfig)
+- [Template Config](#template-config)
+- [Commands](#commands)
+- [KubeConfig](#kubeconfig)
 <!-- INDEX_END -->
 
-### Template Config
+## Template Config
 
 [HariSekhon/Templates - k3d.yaml](https://github.com/HariSekhon/Templates/blob/master/k3d.yaml)
 
-### Commands
+## Commands
 
 ```shell
 k3d cluster create test  # default name: 'default'
@@ -94,7 +94,7 @@ Push a locally built docker image into the internal registry:
 k3d image import "$DOCKER_IMAGE":"$DOCKER_TAG"
 ```
 
-### KubeConfig
+## KubeConfig
 
 Writes to `$HOME/.k3d/kubeconfig-mycluster.yaml`
 
