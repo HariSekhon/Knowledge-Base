@@ -13,7 +13,7 @@ Confluent Platform - Kafka-based platform
 - [Schema Registry](#schema-registry)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - Connectors for:
   - ActiveMQ
