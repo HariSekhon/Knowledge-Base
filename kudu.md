@@ -6,7 +6,7 @@
 - [Login](#login)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - Cloudera
 - C++
