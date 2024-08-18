@@ -7,18 +7,18 @@ Useful for CI/CD testing.
 You can see this used in my GitHub Actions for repo [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubenretes-configs), used for testing the yaml configurations on a live test kubernetes cluster.
 
 <!-- INDEX_START -->
-  - [Install](#install)
-  - [Create Cluster](#create-cluster)
+- [Install](#install)
+- [Create Cluster](#create-cluster)
 <!-- INDEX_END -->
 
-### Install
+## Install
 
 From [DevOps-Bash-tools](devops-bash-tools.md) repo:
 ```shell
 install_kind.sh
 ```
 
-### Create Cluster
+## Create Cluster
 
 Creates with name `kind`, waits for 5 mins until control plane becomes available:
 
@@ -26,7 +26,7 @@ Creates with name `kind`, waits for 5 mins until control plane becomes available
 kind create cluster --name 'kind' --wait 5m
 ```
 
-#### Create using a config
+### Create using a config
 
 [HariSekhon/Templates - kind.yaml](https://github.com/HariSekhon/Templates/blob/master/kind.yaml)
 
@@ -35,6 +35,8 @@ Tip: be careful not to do this in an isolated `KUBECONFIG` where the context wil
 ```shell
 kind create cluster --config="$templates/kind.yaml"
 ```
+
+## Commands
 
 To recover the local isolated kube config (will ruin the other contexts though):
 
