@@ -27,7 +27,7 @@ Simple Build Tool / Scala Build Tool
 - [Build.sbt](#buildsbt)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - incremental compilation
 - interactive shell
