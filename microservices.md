@@ -66,6 +66,7 @@ Commonly used technologies in microservices stacks:
 - service discovery (eg. Consul of Kubernetes internal DNS)
 - standardize containers or AWS AMIs for lower maintenance
 - [CI/CD](ci-cd.md) to manage deployments
+- logging - all services should log to json
 
 ## Logging
 
@@ -79,15 +80,10 @@ Commonly used technologies in microservices stacks:
   - this avoids other services writing logs locally and allows for read-only filesystem immutable Docker containers
 
 
+## Misc Notes
 
 - Traffic routing via NginX + PowerDNS, backed by Consul
-
-
 - Registrator service, hooks in to Dockerdaemon and tells Consul when other services come alive or die
-
-
 - Docker mounts a directory with the config from Consul
-
-
 - 11 months from idea to production, bleeding edge but getting better
 - Developers can self-provision QA, key part of the process, DevOps only maintain the infrastructure
