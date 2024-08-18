@@ -9,7 +9,7 @@ OLAP Cube engine from eBay (Apache incubator), combines HBase for low latency an
 - [How Kylin mixes MOLAP and ROLAP](#how-kylin-mixes-molap-and-rolap)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - Fast OLAP Cube on HBase + Hive
 - uses HBase Coprocessors
