@@ -5,7 +5,7 @@
 Self-hosted enterprise Dev environments.
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Coder CLI](#coder-cli)
   - [Install CLI](#install-cli)
   - [Local Server](#local-server)
