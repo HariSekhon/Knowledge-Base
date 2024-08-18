@@ -4,8 +4,8 @@ Classic logging library for Java
 
 <!-- INDEX_START -->
 - [Summary](#summary)
-  - [Test Log4j config via quick code](#test-log4j-config-via-quick-code)
-  - [Set Log Levels](#set-log-levels)
+- [Test Log4j config via quick code](#test-log4j-config-via-quick-code)
+- [Set Log Levels](#set-log-levels)
 <!-- INDEX_END -->
 
 ## Summary
@@ -40,7 +40,7 @@ SocketServer receives serialized SocketAppender logs
 java -cplog4j-1.2-*.jar org.apache.log4j.net.SimpleSocketServer 4712 log4j.properties
 ```
 
-### Test Log4j config via quick code
+## Test Log4j config via quick code
 
 ```shell
 groovysh
@@ -54,7 +54,7 @@ logger = Logger.getLogger("hari")
 logger.info("test")
 ```
 
-### Set Log Levels
+## Set Log Levels
 
 Hadoop config:
 
