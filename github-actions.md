@@ -9,7 +9,7 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - fully hosted
 - unlimited build minutes for public projects
