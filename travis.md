@@ -15,7 +15,7 @@ One of the original hosted CI/CD systems.
   - [Debug Automation](#debug-automation)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 Reasonable UI, but...
 
