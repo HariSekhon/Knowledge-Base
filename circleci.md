@@ -17,7 +17,7 @@ One of the original hosted CI/CD systems.
 - [Advanced gotchas](#advanced-gotchas)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 Good UI but expensive, and undercut by GitHub Actions.
 
