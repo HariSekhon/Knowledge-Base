@@ -7,7 +7,7 @@ Infrastructure-as-Code alternative to [Terraform](terraform.md) (the latter is m
 Developer oriented (Python) instead of Terraform HCL.
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Terraform vs Pulumi](#terraform-vs-pulumi)
 <!-- INDEX_END -->
 
