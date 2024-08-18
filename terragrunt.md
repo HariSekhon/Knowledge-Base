@@ -23,7 +23,7 @@ Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing an
 - [Terragrunt Troubleshooting](#terragrunt-troubleshooting)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 Uses same arguments which are passed to the `terraform` command.
 
