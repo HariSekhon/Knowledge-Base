@@ -15,7 +15,7 @@ TL;DR just use [Kubernetes](kubernetes.md) instead - it's the winning open sourc
   - [Quorum loss](#quorum-loss)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - Docker 1.12+
 - Simpler than [Kubernetes](kubernetes.md)
