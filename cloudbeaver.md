@@ -5,7 +5,7 @@
 Database Web UI Manager
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
   - [Demo](#demo)
   - [Wiki](#wiki)
   - [Docker Images](#docker-images)
