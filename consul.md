@@ -1,7 +1,7 @@
 # Consul
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Ports](#ports)
 - [Consul vs ZooKeeper / Doozerd / SkyDNS / SmartStack](#consul-vs-zookeeper--doozerd--skydns--smartstack)
 - [Install](#install)
