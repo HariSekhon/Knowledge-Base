@@ -9,7 +9,7 @@ VRRP IP failover daemon.
 - [Example Config](#example-config)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - VRRP - Virtual Router Redundancy Protocol
 - can manage VIP as well as IPVS and real servers configuration
