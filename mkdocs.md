@@ -47,7 +47,7 @@ On Mac, you can open this from the CLI:
 open http://127.0.0.1:8000
 ```
 
-### MkDocs Brittleness
+### MkDocs Gotchas
 
 Some things that render fine in Markdown break in MKDocs:
 
