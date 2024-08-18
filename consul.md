@@ -20,7 +20,7 @@
 - [UI](#ui)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 Passed the [Jepsen](https://jepsen.io/) test!!! (most technologies fail it)
 
