@@ -75,6 +75,20 @@ You can also try converting to black & white (grey):
 magick "$file" -channel Red -separate output.jpg
 ```
 
+### Steghide
+
+This on only works if you've hidden something inside the image and know the password to extact it:
+
+```
+steghide info "$file"
+```
+
+Looks like this is removed from Mac Homebrew, launch it in a debian docker container instead:
+
+```shell
+steghide extract -sf "$file"
+```
+
 ## Video
 
 ### Get the resolution and other details like codec for a video file
