@@ -7,7 +7,7 @@ EMC spin off Pivotal for Greenplum + GemFire (in-memory caching system)
 - [Customers](#customers)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - now Apache open sourced - but some text analytics and lucene search add-ons still proprietary
 - licensed per CPU core
