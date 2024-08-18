@@ -12,7 +12,7 @@ TODO Book: [Camel in Action](https://www.amazon.co.uk/Camel-Action-Second-Claus-
 - [Technology Connectors & Protocols](#technology-connectors--protocols)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 Glue between technologies and protocols
 
