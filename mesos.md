@@ -20,6 +20,7 @@ Written in C++ with Java and Python bindings
 - Marathon - task launcher, uses Docker
 - Chronos  - cron (highly available, fault-tolerant)
 - Mesos Consul - Docker image by Cisco that registers all services with Consul
+- can use [Docker](docker.md) containers via Marathon
 
 ## Ports
 
