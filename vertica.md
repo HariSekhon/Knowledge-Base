@@ -7,7 +7,7 @@ Proprietary MPP SQL OLAP database with a free community edition.
 - [Queries](#queries)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - OLAP - online analytic processing (batch analytics, not real time)
 - columnar database
