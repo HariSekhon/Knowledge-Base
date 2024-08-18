@@ -13,7 +13,7 @@
 - [HBase Diagram Example of an application that needs such tuning](#hbase-diagram-example-of-an-application-that-needs-such-tuning)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 This is important for low latency Java applications and clustered technologies using ZooKeeper.
 
