@@ -6,7 +6,7 @@ Helm is the original Kubernetes app manager before the rise of [Kustomize](kusto
 mechanism of deploying public Kubernetes applications.
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Helm v3](#helm-v3)
   - [Install](#install)
   - [Repos](#repos)
