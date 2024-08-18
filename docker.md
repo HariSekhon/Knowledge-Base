@@ -40,7 +40,7 @@ Lightweight application containers containing app + all dependencies.
   - [Slow `COPY` during build on Windows](#slow-copy-during-build-on-windows)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - Docker Stable - quarterly releases
 - Docker Edge - bleeding edge monthly releases
