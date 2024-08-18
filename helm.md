@@ -356,11 +356,15 @@ Install from tarball:
 helm install "$name" ./"$name"-0.1.0.tgz
 ```
 
-## Chart GitHub Repo
+## Chart Repo
+
+### GitHub
 
 Turn a GitHub repo into helm chart repo:
 
 <https://helm.sh/docs/howto/chart_releaser_action/>
+
+### GCS
 
 Manual Repo on [GCS](https://cloud.google.com/storage):
 
