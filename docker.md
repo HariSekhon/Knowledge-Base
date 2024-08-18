@@ -5,7 +5,7 @@
 Lightweight application containers containing app + all dependencies.
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Docker on Ubuntu](#docker-on-ubuntu)
 - [Volumes](#volumes)
 - [Docker Scan](#docker-scan)
