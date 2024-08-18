@@ -1,7 +1,7 @@
 # Kibana
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Kibana 3](#kibana-3)
 - [Rsyslog config snippet addition](#rsyslog-config-snippet-addition)
 <!-- INDEX_END -->
