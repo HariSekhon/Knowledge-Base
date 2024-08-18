@@ -11,7 +11,6 @@ Good replacement for [Maven](maven.md).
 - [Plugins](#plugins)
 - [Uber jar](#uber-jar)
 - [SonarQube](#sonarqube)
-- [optionally](#optionally)
 - [VersionEye](#versioneye)
 - [Gradle Wrapper](#gradle-wrapper)
 - [build.gradle](#buildgradle)
