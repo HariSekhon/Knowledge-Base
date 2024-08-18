@@ -6,7 +6,7 @@
 - [Rsyslog config snippet addition](#rsyslog-config-snippet-addition)
 <!-- INDEX_END -->
 
-## Summary
+## Key Points
 
 - port 5601
 - query bar will search any field
