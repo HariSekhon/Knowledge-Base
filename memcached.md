@@ -1,7 +1,7 @@
 # Memcached
 
 <!-- INDEX_START -->
-- [Summary](#summary)
+- [Key Points](#key-points)
 - [Monitoring](#monitoring)
 <!-- INDEX_END -->
 
