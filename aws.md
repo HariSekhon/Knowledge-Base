@@ -63,6 +63,22 @@ DO NOT USE T-series (T3 / T2) **burstable** general instances types for anything
 
 They can seize up under heavy load and are not recommended for any production workloads.
 
+## Get EC2 Console Output
+
+Find the EC2 instance ID:
+
+```shell
+aws ec2 describe-instances \
+        --query 'Reservations[*].Instances[*].[InstanceId,Tags[?Key==`Name`].Value | [0],Placement.AvailabilityZone]' \
+        --output table
+```
+
+Debug if you're having issues rebooting a VM:
+
+```shell
+aws ec2 get-console-output --instance-id "$EC2_INSTANCE_ID" | jq -r .Output
+```
+
 ## Add an EC2 EBS volume
 
 This can also be useful for temporary space increases, eg. add a big `/tmp` partition to allow some
@@ -407,6 +423,78 @@ Verify the new filesystem size:
 
 ```shell
 df -hT
+```
+
+## Remove an EC2 EBS volume from a live running instance
+
+This is only for non-root volumes.
+
+For example if you want to replace the `/tmp` disk with a smaller one now that data migration is complete.
+
+#### IMPORTANT: First shut down any software in the VM using the volume to avoid data corruption
+
+Inside the VM, unmount the volume, eg:
+
+```
+umount /tmp
+```
+
+If you get an error like:
+
+```none
+umount: /tmp: target is busy.
+```
+
+check:
+
+```shell
+lsof /tmp
+```
+
+or
+
+```shell
+fuser -mv /tmp
+```
+
+and kill those processes or ask users to log out if it's their shell session holding it.
+
+If there is nothing left except:
+
+```none
+                     USER        PID ACCESS COMMAND
+/tmp:                root     kernel mount /tmp
+```
+
+You may have to reboot the VM, in which case remove or comment out the `/tmp` entry from `/etc/fstab` first to
+prevent it having a possible boot time error.
+
+You can do the detachment but the volume will still be visible in an `ls -l /tmp` and may require a reboot to clear
+the state and connection to the EBS volume.
+
+If you do that beware that a Reboot instance may not succeed and you may need a `Force Instance Stop` cold shutdown and
+startup to clear the state as a regular Reboot may get stuck starting up before SSH comes up to do anything.
+
+From [DevOps-Bash-tools](devops-bash-tools.md) list instances and their EBS volumes:
+
+```shell
+aws_ec2_ebs_volumes.sh
+```
+
+```shell
+aws ec2 detach-volume --volume-id "$VOLUME_ID" --instance-id "$EC2_INSTANCE_ID" --device "$DEVICE"
+```
+
+List unattached EBS volumes:
+
+```shell
+aws ec2 describe-volumes --query 'Volumes[?Attachments==`[]`].[VolumeId]' --output table
+```
+
+Optionally deleted the EBS volume if you're 100% sure you don't need it any more:
+
+```shell
+aws ec2 delete-volume --volume-id "$VOLUME_ID"
 ```
 
 ## RDS - Relational Database Service
