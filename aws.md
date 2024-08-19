@@ -581,17 +581,17 @@ kubectl rollout restart deployment <app>
 
 ### EC2 Disk Mount Recovery
 
-This is sometimes necessary when a Linnux VM isn't coming up due to some disk changes such as detaching and deleting a
-volume or some other `/etc/fstab` imperfection that is preventing the boot process from completing to give you SSH
-access.
+This is sometimes necessary when a Linux VM isn't coming up due to some disk changes such as detaching and deleting a
+volume that is still in `/etc/fstab` or some other configuration imperfection that is preventing the boot process from
+completing to give you SSH access.
 
 #### Solution
 
-Use an EC2 instance in the same Availabilty Zone as the VM which owns the disk where the EBS volume is physically
-located.
+Use another EC2 instance in the same Availability Zone as the problematic VM which owns the disk where the EBS
+volume is physically located.
 
-1. Shut down the instance which isn't booting.
-1. Optional: Mark the instance with tags `Name1` = `Problem` to make it easier to find
+1. Shut down the problem instance which isn't booting.
+1. Optional: mark the instance with tags `Name1` = `Problem` to make it easier to find
 1. Detach the EBS volume from the problem instance
 1. Find the volume (optionally using the `Problem` search in the list of EBS volumes)
 1. Attach the EBS volume to your debug EC2 instance in the same Availabilty Zone as device `/dev/sdf`
@@ -615,19 +615,19 @@ Edit the fstab:
 sudo vi /mnt/etc/fstab
 ```
 
-Add the `nofail` option to all disk lines to ensure the Linux OS comes up even if it can't find a disk (because for
-example you've detached it to replace it with a different EBS volume):
+Add the `nofail` option to all disk lines mount options 4th field to ensure the Linux OS comes up even if it can't
+find a disk (because for example you've detached it to replace it with a different EBS volume):
 
-The lines should look like this:
+The lines should end up looking like this:
 
 ```shell
 UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx       /       xfs     defaults,nofail        0       0
 UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx       /tmp    xfs     defaults,nofail       0       2
 UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx       /boot   xfs     defaults,nofail        0       0
-UUID=7B77-95E7  /boot/efi       vfat    defaults,uid=0,gid=0,umask=077,shortname=winnt,nofail  0       2
+UUID=xxxx-xxxx                          /boot/efi       vfat    defaults,uid=0,gid=0,umask=077,shortname=winnt,nofail  0       2
 ```
 
-After editing and saving, umount:
+After editing and saving the `/etc/fstab` file, unmount the recovery disk:
 
 ```shell
 sudo umount /mnt
