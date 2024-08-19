@@ -253,7 +253,7 @@ sudo vi /etc/fstab
 and add a line like this, substituting the UUID from the above commands:
 
 ```shell
-UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx /tmp xfs defaults 0 2
+UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx /tmp xfs defaults,nofail 0 2
 ```
 
 If the mount point is `/tmp` make sure you shut down any processes that might be using it first like
@@ -466,11 +466,16 @@ If there is nothing left except:
 /tmp:                root     kernel mount /tmp
 ```
 
-You may have to reboot the VM, in which case remove or comment out the `/tmp` entry from `/etc/fstab` first to
-prevent it having a possible boot time error.
+You may have to reboot the VM - in which case remove or comment out the disk's mount point entry eg.
+entry in this case from `/etc/fstab` first to prevent it having a possible boot time error.
 
 You can do the detachment but the volume will still be visible in an `ls -l /tmp` and may require a reboot to clear
 the state and connection to the EBS volume.
+
+#### WARNING: do not reboot the EC2 instance without commenting out the disk mount or setting the `nofail` option
+
+Otherwise you will be forced to do a disk mount recovery using another EC2 instance as per the
+[EC2 Disk Mount Recovery](#ec2-disk-mount-recovery) procedure from the troubleshooting section.
 
 If you do that beware that a Reboot instance may not succeed and you may need a `Force Instance Stop` cold shutdown and
 startup to clear the state as a regular Reboot may get stuck starting up before SSH comes up to do anything.
@@ -573,5 +578,64 @@ kubectl rollout restart deployment <app>
    auto-restart until the DB password is fetched and connected successfully
    1. The DB connection and implicitly the Vault password load could be tested by the entrypoint trying to connect
       to the DB before starting the app
+
+### EC2 Disk Mount Recovery
+
+This is sometimes necessary when a Linnux VM isn't coming up due to some disk changes such as detaching and deleting a
+volume or some other `/etc/fstab` imperfection that is preventing the boot process from completing to give you SSH
+access.
+
+#### Solution
+
+Use an EC2 instance in the same Availabilty Zone as the VM which owns the disk where the EBS volume is physically
+located.
+
+1. Shut down the instance which isn't booting.
+1. Optional: Mark the instance with tags `Name1` = `Problem` to make it easier to find
+1. Detach the EBS volume from the problem instance
+1. Find the volume (optionally using the `Problem` search in the list of EBS volumes)
+1. Attach the EBS volume to your debug EC2 instance in the same Availabilty Zone as device `/dev/sdf`
+1. On the debug instance:
+
+Find the new disk. It's usually the largest partition on the new disk
+
+```shell
+cat /proc/mounts
+```
+
+Mount it:
+
+```shell
+mount /dev/xvdf4 /mnt
+```
+
+Edit the fstab:
+
+```shell
+sudo vi /mnt/etc/fstab
+```
+
+Add the `nofail` option to all disk lines to ensure the Linux OS comes up even if it can't find a disk (because for
+example you've detached it to replace it with a different EBS volume):
+
+The lines should look like this:
+
+```shell
+UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx       /       xfs     defaults,nofail        0       0
+UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx       /tmp    xfs     defaults,nofail       0       2
+UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx       /boot   xfs     defaults,nofail        0       0
+UUID=7B77-95E7  /boot/efi       vfat    defaults,uid=0,gid=0,umask=077,shortname=winnt,nofail  0       2
+```
+
+After editing and saving, umount:
+
+```shell
+sudo umount /mnt
+```
+
+7. Detach the volume from the debug instance
+1. Attach the volume to the original instance
+1. Start the original instance which should now come up
+1. Remove the `Problem` tag from the volume
 
 ###### Partial port from private Knowledge Base page 2012+
