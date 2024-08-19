@@ -689,13 +689,24 @@ git diff --name-only "$default_branch"..
 or
 
 ```shell
-git log --name-only --pretty="" "$default_branch".. | sort -u
+git log --name-only --pretty="" "origin/$default_branch".. | sort -u
 ```
 
 If you forget to the set the `default_branch` by running the first command you'll get this error:
 
 ```none
 fatal: ..: '..' is outside repository at '/Users/hari/github/bash-tools'
+```
+
+### List files added on current feature branch vs default branch
+
+
+```shell
+default_branch="$(git symbolic-ref refs/remotes/origin/HEAD | sed 's|.*/||')"
+```
+
+```shell
+git log --diff-filter=A --name-only --pretty="" "origin/$default_branch".. | sort -u
 ```
 
 ### Push New Branch and Set Upstream in One Command
