@@ -80,6 +80,10 @@ A list of commands is provided at https://ss64.com/mac/.
 
 `Cmd`-`Space` - opens Spotlight search to auto-complete and open anything quickly.
 
+### Open URL from Terminal output
+
+`Cmd` + Click on the URL.
+
 ### Open
 
 Open a file / folder / URL / Application. Use `-a` to select which app to use to open it.
