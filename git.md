@@ -672,7 +672,7 @@ git branch --show-current
 git for-each-ref --format='%(upstream:short)' "$(git symbolic-ref -q HEAD)"
 ```
 
-### List files changed on current feature branch vs default branch
+### List files changed on current branch vs default branch
 
 First find the trunk default branch to compare to the current branch:
 
@@ -698,7 +698,7 @@ If you forget to the set the `default_branch` by running the first command you'l
 fatal: ..: '..' is outside repository at '/Users/hari/github/bash-tools'
 ```
 
-### List files added on current feature branch vs default branch
+### List files added on current branch vs default branch
 
 
 ```shell
