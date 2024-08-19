@@ -62,6 +62,18 @@ Battery even tells you:
 - battery health
 - which apps which are consuming a lot of energy for you to kill them if you're not needing them, helping your battery life when on the move
 
+## Rearrange Status Bar Icons
+
+Now 14" Macbook Pros are powerful enough, but the screen space is very limited and you lose the top middle for the
+camera you end up losing icons behind the camera portion of the screen.
+
+Rearrange your icons to put the most important and frequently used icons to the left while leaving icons you rarely
+click on like Google Drive to the left to be pushed underneath the camera.
+
+To rearrange icons:
+
+`Cmd` + Click + drag each icon to where you want it
+
 ## Reducing Desktop Workspaces
 
 If like me, you hate the time lost in graphics sliding effect from one desktop workspace to another, especially caused
