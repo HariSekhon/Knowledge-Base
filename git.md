@@ -20,6 +20,7 @@
   - [Git Clone using a specific SSH Key](#git-clone-using-a-specific-ssh-key)
   - [Show files not being tracked due to global & local `.gitignore` files](#show-files-not-being-tracked-due-to-global--local-gitignore-files)
   - [Find line in `.gitignore` which is causing a given file to be ignored](#find-line-in-gitignore-which-is-causing-a-given-file-to-be-ignored)
+  - [Trigger CI/CD using empty commit](#trigger-cicd-using-empty-commit)
   - [Copy a file from another branch](#copy-a-file-from-another-branch)
   - [Pull from Upstream Origin in a local Fork](#pull-from-upstream-origin-in-a-local-fork)
   - [Multi-Origin Remotes](#multi-origin-remotes)
@@ -35,7 +36,8 @@
   - [Get the Default Branch](#get-the-default-branch)
   - [Get Current Branch](#get-current-branch)
   - [Find which upstream `<remote>/<branch>` the current branch is set to track](#find-which-upstream-remotebranch-the-current-branch-is-set-to-track)
-  - [List files changed on current feature branch vs default branch](#list-files-changed-on-current-feature-branch-vs-default-branch)
+  - [List files changed on current branch vs default branch](#list-files-changed-on-current-branch-vs-default-branch)
+  - [List files added on current branch vs default branch](#list-files-added-on-current-branch-vs-default-branch)
   - [Push New Branch and Set Upstream in One Command](#push-new-branch-and-set-upstream-in-one-command)
   - [Push New Branch and Raise Pull Request in One Command](#push-new-branch-and-raise-pull-request-in-one-command)
 <!-- INDEX_END -->
@@ -438,6 +440,18 @@ output:
 
 ```
 /Users/h.sekhon/.gitignore:3711:[Ss]cripts      .github/scripts/
+```
+
+### Trigger CI/CD using empty commit
+
+Use for cases where PR checks are failing on PR metadata
+and you just need a fresh run triggered but don't need to change your branch contents.
+
+This has the advantage of avoiding dismissing your already hard earnt GitHub Pull Request approvals and re-bugging your
+colleagues to re-approve some trivial unnecessary change.
+
+```shell
+git commit --allow-empty -m 'Empty commit to trigger CI'
 ```
 
 ### Copy a file from another branch
