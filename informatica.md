@@ -556,7 +556,7 @@ Copy the Informatica agent's JDK to your workstation:
 rsync -av "$SECURE_AGENT":infaagent/jdk/ infaagent-jdk
 ```
 
-Make sure your Kubernetes kubectl context is set up and authenticated (eg. AWS `aws sso login` if on EKS).
+Make sure your Kubernetes kubectl context is set up and authenticated.
 
 First find a Spark driver pod that is in Running, not Error, state:
 
