@@ -561,8 +561,13 @@ Make sure your Kubernetes kubectl context is set up and authenticated.
 First find a Spark driver pod that's in `Running`, not `Error`, state:
 
 ```shell
+NAMESPACE=informatica
+```
+
+```shell
 SPARK_DRIVER_POD="$(
-  kubectl get pods -l spark-role=driver \
+  kubectl get pods -n "$NAMESPACE \
+  "                -l spark-role=driver \
                    --field-selector=status.phase=Running \
                    -o json | \
   jq -r '
@@ -588,7 +593,7 @@ kubectl cp infaagent-jdk "$SPARK_DRIVER_POD":/tmp/
 Exec into the pod:
 
 ```shell
-kubectl exec -ti "$SPARK_DRIVER_POD" -- bash
+kubectl exec -ti -n "$NAMESPACE" "$SPARK_DRIVER_POD" -- bash
 ```
 
 Inside the pod:
