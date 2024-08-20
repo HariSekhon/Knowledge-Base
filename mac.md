@@ -15,9 +15,11 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Terminal](#terminal)
 - [Homebrew - Package Management](#homebrew---package-management)
 - [Stats Bar](#stats-bar)
+- [Rearrange Status Bar Icons](#rearrange-status-bar-icons)
 - [Reducing Desktop Workspaces](#reducing-desktop-workspaces)
 - [Commands](#commands)
   - [Search for or open anything](#search-for-or-open-anything)
+  - [Open URL from Terminal output](#open-url-from-terminal-output)
   - [Open](#open)
   - [Clipboard](#clipboard)
   - [Screenshots](#screenshots)
@@ -26,6 +28,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Set DNS Search Domain](#set-dns-search-domain)
   - [Set Hostname](#set-hostname)
   - [Get Current Wifi Network Name](#get-current-wifi-network-name)
+  - [Get Current Wifi Network Password](#get-current-wifi-network-password)
+  - [List all Configured Wifi Networks](#list-all-configured-wifi-networks)
   - [Say - text-to-speech](#say---text-to-speech)
   - [Finding Files - Spotlight Search and Index Management](#finding-files---spotlight-search-and-index-management)
   - [Launchctl](#launchctl)
@@ -276,7 +280,9 @@ sort -f
 
 ### Say - text-to-speech
 
-Make your Mac speak. I use this to impress the kids, or even send a message from my study to my living room computer
+Make your Mac speak.
+
+I used this to impress my kids, or even send a message from my loft study to my living room computer
 by running `say` over an SSH login to the computer downstairs for them to hear!
 
 ```shell
@@ -289,7 +295,7 @@ You can also pipe in text:
 echo "Daddy is the greatest" | say
 ```
 
-Try different voices, list them like this
+Try different voices, list them like this:
 
 ```shell
 say -v ?
