@@ -243,6 +243,12 @@ Add the `nofail` option on any lines on which it does not exist:
 sudo sed -i '/nofail/ ! s/defaults/defaults,nofail/' /etc/fstab
 ```
 
+Inspect the changes:
+
+```shell
+cat /etc/fstab
+```
+
 Each line in the `/etc/fstab` should then look like:
 
 ```shell
