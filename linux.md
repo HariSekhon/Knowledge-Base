@@ -216,11 +216,44 @@ Mount a filesystem to the directory `/data`:
 mount /dev/sda2 /data
 ```
 
+### /etc/fstab
+
+Ensure the partition is:
+
+1. mounted by UUID as device numbers can change
+1. has `nofail` option set to make sure that a machine will attempt
+   to come up to be able to [SSH](ssh.md) manage it otherwise you may end up in an
+   [AWS EC2 Disk Mount Recovery](aws.md##ec2-disk-mount-recovery) situation.
+
+Back up `/etc/fstab` before editing it:
+
+```shell
+sudo cp -av /etc/fstab /etc/fstab.bak."$(date +%F_%H%S)"
+```
+
+Add the nofail option:
+
+```shell
+sudo sed -i '/nofail/ ! s/defaults/defaults,nofail/' /etc/fstab
+```
+
+Each line in the `/etc/fstab` should then look like:
+
+```shell
+UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx    /tmp    xfs    defaults,nofail    0    2
+```
+
+Validate your `/etc/fstab` by mounting using the short form that reads and uses the `/etc/fstab`:
+
+```shell
+mount /tmp
+```
+
 ## DRBD
 
 - awesome disk replication, used this in the mid to late 2000s
 - mainline Linux kernel now
-- dual-primary (0.9+)
+- dual-primary (0.9+)mount
   - requires clustered filesystem (GFS, OCFS2)
 - `mount -o ro` to avoid complexity of dual primary cluster filesystems
 - sync + async repl options
