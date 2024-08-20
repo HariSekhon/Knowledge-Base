@@ -255,7 +255,7 @@ Each line in the `/etc/fstab` should then look like:
 UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx    /tmp    xfs    defaults,nofail    0    2
 ```
 
-Validate your `/etc/fstab` by mounting using the short form that reads and uses the `/etc/fstab`:
+Validate your `/etc/fstab` by mounting using the short form of the `mount` command that reads and uses the `/etc/fstab`:
 
 ```shell
 mount /tmp
