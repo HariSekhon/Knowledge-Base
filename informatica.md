@@ -543,3 +543,74 @@ and API server would report the other version, so expect this to break at some r
 Informatica figures this out and the auto-updated agent gets new logic.
 
 **Solution**: actually upgrade the Kubernetes cluster to be one of the supported versions
+
+### Kubernetes - Capture Spark Driver JStack Thread Dump
+
+<https://knowledge.informatica.com/s/article/How-to-Capturing-JStack-Thread-Dumps-from-Kubernetes-Pods-or-Containers?language=en_US>
+
+For some reason Informatica created non-copyable screenshots of commands in the above KB article.
+
+Copy the Informatica agent's JDK to your workstation:
+
+```shell
+rsync -av "$SECURE_AGENT":infaagent/jdk/ infaagent-jdk
+```
+
+Make sure your Kubernetes kubectl context set up and authenticated.
+
+First find a Spark driver pod that is in Running, not Error, state:
+
+```shell
+SPARK_DRIVER_POD="$(
+  kubectl get pods -l spark-role=driver \
+                   --field-selector=status.phase=Running \
+                   -o json | \
+  jq -r '
+    .items[] |
+    select(.status.containerStatuses[0].state.running != null) |
+    select(.spec.containers[].image |
+      contains("artifacthub.informaticacloud.com")) |
+    .metadata.name
+  ' |
+  head -n 1 |
+  tee /dev/stderr
+)"
+```
+
+The above command should print the pod name. If it doesn't, debug it before continuing.
+
+Copy the JDK to the spark driver pod:
+
+```shell
+kubectl cp infaagent-jdk "$SPARK_DRIVER_POD":/tmp/
+```
+
+Exec into the pod:
+
+```shell
+kubectl exec -ti "$SPARK_DRIVER_POD" -- bash
+```
+
+Inside the pod:
+
+```shell
+PID="$(pgrep java | tee /dev/stderr | head -n 1)"
+```
+
+The above command should print ONE process ID of the java process. If it prints more than one, debug before continuing.
+
+```shell
+/tmp/infaagent-jdk/bin/jstack "$PID" > /tmp/jstack-output.txt
+```
+
+Exit the pod.
+
+```shell
+exit
+```
+
+Back on your workstation copy the `jstack-output.txt` out:
+
+```shell
+kubectl cp "$SPARK_DRIVER_POD":/tmp/jstack-output.txt "jstack-output.$(date +%F_%H%M).txt"
+```
