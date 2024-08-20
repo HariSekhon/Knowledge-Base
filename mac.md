@@ -265,6 +265,15 @@ security find-generic-password -g -w -D "AirPort network password" \
           awk -F': ' '{print $2}')"
 ```
 
+### List all Configured Wifi Networks
+
+```shell
+networksetup -listpreferredwirelessnetworks en0 |
+sed '/Preferred networks on/d;
+     s/^[[:space:]]*//' |
+sort -f
+```
+
 ### Say - text-to-speech
 
 Make your Mac speak. I use this to impress the kids, or even send a message from my study to my living room computer
