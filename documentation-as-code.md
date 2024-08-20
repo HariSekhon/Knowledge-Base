@@ -30,6 +30,17 @@ repo's home page - put links in it to your other markdown `*.md` doc files in yo
 
 ## Markdown Best Practices
 
+### Lint your Markdown
+
+Use MDL:
+
+<https://github.com/markdownlint/markdownlint>
+
+Useful for auto-linting before committing as well as in CI/CD.
+
+See
+[GitHub Actions - Markdown reusable workflow](https://github.com/HariSekhon/GitHub-Actions/blob/master/.github/workflows/markdown.yaml).
+
 ### URL Handling
 
 It's important not to put a bare URL because they won't by hyperlinked in some systems like [MKDocs](mkdocs.md).
