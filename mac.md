@@ -260,7 +260,7 @@ networksetup -getairportnetwork en0 | awk -F': ' '{print $2}'
 Prompts with a UI pop-up for administrative access to the system's keychain (`sudo` doesn't prevent this unfortunately):
 
 ```shell
-security find-generic-password -gw -D "AirPort network password" \
+security find-generic-password -g -w -D "AirPort network password" \
     -a "$(networksetup -getairportnetwork en0 |
           awk -F': ' '{print $2}')"
 ```
