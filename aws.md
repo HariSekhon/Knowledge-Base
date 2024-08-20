@@ -7,6 +7,7 @@ NOT PORTED YET
 - [Install AWS CLI](#install-aws-cli)
 - [Set up access to EKS - Elastic Kubernetes Services](#set-up-access-to-eks---elastic-kubernetes-services)
 - [EC2 Instances](#ec2-instances)
+- [Get EC2 Console Output](#get-ec2-console-output)
 - [Add an EC2 EBS volume](#add-an-ec2-ebs-volume)
   - [Create EC2 EBS volume](#create-ec2-ebs-volume)
   - [Attach the new volume to the EC2 instance](#attach-the-new-volume-to-the-ec2-instance)
@@ -16,6 +17,7 @@ NOT PORTED YET
   - [Create a snapshot of the volume using its ID](#create-a-snapshot-of-the-volume-using-its-id)
   - [Increase the size of the EBS volume](#increase-the-size-of-the-ebs-volume)
   - [Inside the EC2 VM - grow the partition and extend the filesystem](#inside-the-ec2-vm---grow-the-partition-and-extend-the-filesystem)
+- [Remove an EC2 EBS volume from a live running instance](#remove-an-ec2-ebs-volume-from-a-live-running-instance)
 - [RDS - Relational Database Service](#rds---relational-database-service)
   - [List RDS instances](#list-rds-instances)
   - [Reset DB master password](#reset-db-master-password)
@@ -23,6 +25,7 @@ NOT PORTED YET
   - [EC2 VM becomes unresponsive and cannot SSH under high loads](#ec2-vm-becomes-unresponsive-and-cannot-ssh-under-high-loads)
   - [RDS Write Stops Working due to Status `Storage Full`](#rds-write-stops-working-due-to-status-storage-full)
   - [EKS Spot - App fails to connect to DB due to race condition with Vault pod not being up yet](#eks-spot---app-fails-to-connect-to-db-due-to-race-condition-with-vault-pod-not-being-up-yet)
+  - [EC2 Disk Mount Recovery](#ec2-disk-mount-recovery)
 <!-- INDEX_END -->
 
 ## DevOps Bash tools for AWS, EKS, EC2 etc
