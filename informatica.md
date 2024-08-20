@@ -99,8 +99,8 @@ for kubernetes.
 Local Runtime Environment Agents and Kubernetes have the following advantages over serverless environment:
 
 1. It can be cheaper, depending on your usage pattern
-2. You retain more control of data not leaving your infrastructure for governance purposes
-3. Kubernetes has the additional advantage of being able to burst up and down to avoid incurring constant charges of
+1. You retain more control of data not leaving your infrastructure for governance purposes
+1. Kubernetes has the additional advantage of being able to burst up and down to avoid incurring constant charges of
    cloud VMs for local runtime environments.
 
 ## Agents
@@ -125,7 +125,7 @@ installer binary after the VM is provisioned.
 
 Then just add the agent token from the Informatica UI.
 
-#### Install Documentation:
+#### Install Documentation
 
 [Installing the Secure Agent on Linux](https://docs.informatica.com/integration-cloud/cloud-data-integration-for-powercenter/current-version/installation-guide/installing_secure_agents/install_the_secure_agent_on_linux/downloading_and_installing_the_secure_agent_on_linux.html)
 
