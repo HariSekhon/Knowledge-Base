@@ -255,6 +255,16 @@ scutil --get LocalHostName
 networksetup -getairportnetwork en0 | awk -F': ' '{print $2}'
 ```
 
+### Get Current Wifi Network Password
+
+Prompts with a UI pop-up for administrative access to the system's keychain (`sudo` doesn't prevent this unfortunately):
+
+```shell
+security find-generic-password -gw -D "AirPort network password" \
+    -a "$(networksetup -getairportnetwork en0 |
+          awk -F': ' '{print $2}')"
+```
+
 ### Say - text-to-speech
 
 Make your Mac speak. I use this to impress the kids, or even send a message from my study to my living room computer
