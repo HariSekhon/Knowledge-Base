@@ -225,13 +225,19 @@ Ensure the partition is:
    to come up to be able to [SSH](ssh.md) manage it otherwise you may end up in an
    [AWS EC2 Disk Mount Recovery](aws.md##ec2-disk-mount-recovery) situation.
 
+First inspect your `/etc/fstab`:
+
+```shell
+cat /etc/fstab
+```
+
 Back up `/etc/fstab` before editing it:
 
 ```shell
 sudo cp -av /etc/fstab /etc/fstab.bak."$(date +%F_%H%S)"
 ```
 
-Add the nofail option:
+Add the `nofail` option on any lines on which it does not exist:
 
 ```shell
 sudo sed -i '/nofail/ ! s/defaults/defaults,nofail/' /etc/fstab
