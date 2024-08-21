@@ -565,9 +565,19 @@ NAMESPACE=informatica
 ```
 
 ```shell
+ROLE=driver
+```
+
+or
+
+```shell
+ROLE=executor
+```
+
+```shell
 SPARK_DRIVER_POD="$(
   kubectl get pods -n "$NAMESPACE \
-  "                -l spark-role=driver \
+  "                -l spark-role="$ROLE" \
                    --field-selector=status.phase=Running \
                    -o json | \
   jq -r '
@@ -581,19 +591,18 @@ SPARK_DRIVER_POD="$(
   tee /dev/stderr
 )"
 ```
-
 The above command should print the pod name. If it doesn't, debug it before continuing.
 
-Copy the JDK to the spark driver pod:
+Copy the JDK to the spark pod:
 
 ```shell
-kubectl cp infaagent-jdk "$SPARK_DRIVER_POD":/tmp/
+kubectl cp -n "$NAMESPACE" "infaagent-jdk/" "$SPARK_POD":/tmp/jdk
 ```
 
 Exec into the pod:
 
 ```shell
-kubectl exec -ti -n "$NAMESPACE" "$SPARK_DRIVER_POD" -- bash
+kubectl exec -ti -n "$NAMESPACE" "$SPARK_POD" -- bash
 ```
 
 Inside the pod:
@@ -605,7 +614,7 @@ PID="$(pgrep java | tee /dev/stderr | head -n 1)"
 The above command should print ONE process ID of the java process. If it prints more than one, debug before continuing.
 
 ```shell
-/tmp/infaagent-jdk/bin/jstack "$PID" > /tmp/jstack-output.txt
+/tmp/jdk/bin/jstack "$PID" > /tmp/jstack-output.txt
 ```
 
 Exit the pod.
@@ -617,5 +626,61 @@ exit
 Back on your workstation copy the `jstack-output.txt` out:
 
 ```shell
-kubectl cp "$SPARK_DRIVER_POD":/tmp/jstack-output.txt "jstack-output.$(date +%F_%H%M).txt"
+kubectl cp "$SPARK_POD":/tmp/jstack-output.txt "jstack-output.$ROLE.$(date +%F_%H%M).txt"
+```
+
+If you get this error:
+
+```none
+root@spark-0c53569173cdfbf4-exec-7:/opt/spark/work-dir# /tmp/jdk/bin/jstack "$PID" > /tmp/jstack-output.txt
+57: Unable to open socket file /proc/57/cwd/.attach_pid57: target process 57 doesn't respond within 10500ms or HotSpot VM not loaded
+The -F option can be used when the target process is not responding
+
+root@spark-0c53569173cdfbf4-exec-7:/opt/spark/work-dir# /tmp/jdk/bin/jstack -F "$PID" > /tmp/jstack-output.txt
+Error attaching to process: sun.jvm.hotspot.runtime.VMVersionMismatchException: Supported versions are 25.362-b08. Target VM is 25.372-b07
+sun.jvm.hotspot.debugger.DebuggerException: sun.jvm.hotspot.runtime.VMVersionMismatchException: Supported versions are 25.362-b08. Target VM is 25.372-b07
+        at sun.jvm.hotspot.HotSpotAgent.setupVM(HotSpotAgent.java:435)
+        at sun.jvm.hotspot.HotSpotAgent.go(HotSpotAgent.java:305)
+        at sun.jvm.hotspot.HotSpotAgent.attach(HotSpotAgent.java:140)
+        at sun.jvm.hotspot.tools.Tool.start(Tool.java:185)
+        at sun.jvm.hotspot.tools.Tool.execute(Tool.java:118)
+        at sun.jvm.hotspot.tools.JStack.main(JStack.java:92)
+        at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+        at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+        at java.lang.reflect.Method.invoke(Method.java:498)
+        at sun.tools.jstack.JStack.runJStackTool(JStack.java:140)
+        at sun.tools.jstack.JStack.main(JStack.java:106)
+Caused by: sun.jvm.hotspot.runtime.VMVersionMismatchException: Supported versions are 25.362-b08. Target VM is 25.372-b07
+        at sun.jvm.hotspot.runtime.VM.checkVMVersion(VM.java:227)
+        at sun.jvm.hotspot.runtime.VM.<init>(VM.java:294)
+        at sun.jvm.hotspot.runtime.VM.initialize(VM.java:370)
+        at sun.jvm.hotspot.HotSpotAgent.setupVM(HotSpotAgent.java:431)
+```
+
+then find that same java version to copy to the same:
+
+```shell
+kubectl exec -ti -n "$NAMESPACE" "$SPARK_POD" -- java -version
+```
+
+This may be necessary because the Spark driver and executor java versions appear to be different in the containers.
+
+Download the matching Java version, in Informatica's case that's Azul OpenJDK from this URL:
+
+<https://cdn.azul.com/zulu/bin/>
+
+untar the download and then copy it to the pod's `/tmp`:
+
+```shell
+kubectl cp -n "$NAMESPACE" ./zulu*-jdk*-linux_x64/ "$SPARK_POD":/tmp/jdk
+```
+
+```shell
+kubectl exec -ti -n "$NAMESPACE" "$SPARK_POD" -- \
+        bash -c '/tmp/jdk/bin/jstack -F "$(pgrep java | tee /dev/stderr | head -n 1)" > /tmp/jstack-output.txt'
+```
+
+```shell
+kubectl cp "$SPARK_POD":/tmp/jstack-output.txt "jstack-output.$ROLE.$(date +%F_%H%M).txt"
 ```
