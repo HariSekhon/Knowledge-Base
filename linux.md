@@ -281,4 +281,4 @@ mount /tmp
 
 [Gentoo](gentoo.md) - l33t but takes time to compile.
 
-###### Ported from various private Knowledge Base pages 2002+
+**Ported from various private Knowledge Base pages 2002+**
