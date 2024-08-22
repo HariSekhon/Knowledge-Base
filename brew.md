@@ -66,4 +66,4 @@ Fix SSL of a package:
 
 [brew_fix_openssl_dependencies.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew_fix_openssl_dependencies.sh)
 
-###### Partial port from private Knowledge Base page 2013+
+**Partial port from private Knowledge Base page 2013+**
