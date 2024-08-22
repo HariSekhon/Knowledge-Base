@@ -5,6 +5,7 @@ https://circleci.com/
 One of the original hosted CI/CD systems.
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [UI App](#ui-app)
 - [CircleCI CLI](#circleci-cli)
@@ -15,6 +16,7 @@ One of the original hosted CI/CD systems.
   - [Create Namespace for use by Orbs or Executor Runners](#create-namespace-for-use-by-orbs-or-executor-runners)
 - [SSH Debugging](#ssh-debugging)
 - [Advanced gotchas](#advanced-gotchas)
+
 <!-- INDEX_END -->
 
 ## Key Points
