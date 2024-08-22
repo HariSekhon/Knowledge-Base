@@ -177,7 +177,7 @@ kubectl_pods_dump_stats.sh
 kubectl_pods_dump_logs.sh
 ```
 
-Then tar the local outputs to send:
+Then tar the local outputs to send to the support team eg. for [Informatica](informatica.md) support:
 
 ```shell
 tar czvf "support-bundle-$(date '+%F_%H%M').tar.gz" \
