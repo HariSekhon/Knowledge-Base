@@ -50,11 +50,9 @@ bash-tools/install/install_aws_cli.sh
 Then [configure](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
 depending on if you're using SSO or access keys etc.
 
-
 ## Set up access to EKS - Elastic Kubernetes Services
 
 See [eks.md](eks.md)
-
 
 ## EC2 Instances
 
@@ -127,7 +125,7 @@ aws ec2 create-volume \
 
 output:
 
-```
+```json
 {
     "AvailabilityZone": "eu-west-1a",
     "CreateTime": "2024-08-02T11:55:18+00:00",
@@ -380,7 +378,7 @@ sudo growpart /dev/nvme0n1 4
 
 output should look like this:
 
-```
+```none
 CHANGED: partition=4 start=1437696 old: size=417992671 end=419430366 new: size=627707871 end=629145566
 ```
 
@@ -410,7 +408,7 @@ sudo xfs_growfs -d /
 
 output should look like this:
 
-```
+```none
 meta-data=/dev/nvme0n1p4         isize=512    agcount=86, agsize=610431 blks
          =                       sectsz=512   attr=2, projid32bit=1
          =                       crc=1        finobt=1, sparse=1, rmapbt=0
@@ -436,11 +434,11 @@ This is only for non-root volumes.
 
 For example if you want to replace the `/tmp` disk with a smaller one now that data migration is complete.
 
-#### IMPORTANT: First shut down any software in the VM using the volume to avoid data corruption
+**IMPORTANT: First shut down any software in the VM using the volume to avoid data corruption**
 
 Inside the VM, unmount the volume, eg:
 
-```
+```shell
 umount /tmp
 ```
 
@@ -477,7 +475,7 @@ entry in this case from `/etc/fstab` first to prevent it having a possible boot 
 You can do the detachment but the volume will still be visible in an `ls -l /tmp` and may require a reboot to clear
 the state and connection to the EBS volume.
 
-#### WARNING: do not reboot the EC2 instance without commenting out the disk mount or setting the `nofail` option
+**WARNING: do not reboot the EC2 instance without commenting out the disk mount or setting the `nofail` option**
 
 Otherwise you will be forced to do a disk mount recovery using another EC2 instance as per the
 [EC2 Disk Mount Recovery](#ec2-disk-mount-recovery) procedure from the troubleshooting section.
@@ -569,7 +567,7 @@ MySQldb._exceptions.OperationalError: (1045, "Access denied for user 'myuser'@'x
 Restart the app deployment to restart the pod after the Vault pod has come up so that the
 pod re-fetches the correct DB password from Vault.
 
-```
+```shell
 kubectl rollout restart deployment <app>
 ```
 
@@ -643,4 +641,4 @@ sudo umount /mnt
 1. Start the original instance which should now come up
 1. Remove the `Problem` tag from the volume
 
-###### Partial port from private Knowledge Base page 2012+
+**Partial port from private Knowledge Base page 2012+**
