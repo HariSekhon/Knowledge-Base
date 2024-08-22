@@ -123,4 +123,4 @@ echo 0 > /proc/sys/vm/block_dump
 /etc/init.d/syslog start
 ```
 
-###### Ported from various private Knowledge Base pages 2010+
+**Ported from various private Knowledge Base pages 2010+**
