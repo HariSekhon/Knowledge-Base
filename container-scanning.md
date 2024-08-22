@@ -21,15 +21,15 @@ Scan for known CVEs from online databases.
 
 ### Trivy
 
-https://github.com/aquasecurity/trivy
+<https://github.com/aquasecurity/trivy>
 
 ### Grype
 
-https://github.com/anchore/grype
+<https://github.com/anchore/grype>
 
 ### Clair
 
-https://github.com/coreos/clair
+<https://github.com/coreos/clair>
 
 Open source static analysis image vulnerability scanner by CoreOS.
 
@@ -42,28 +42,27 @@ See [Clair](clair.md) page.
 
 ### Aqua Security
 
-https://www.aquasec.com/products/aqua-container-security-platform/
+<https://www.aquasec.com/products/aqua-container-security-platform/>
 
 Container security - wraps docker socket to control + kill container launches
 
 ### Twistlock
 
-https://www.twistlock.com/
+<https://www.twistlock.com/>
 
 ### Tenable.io
 
 Scanner for docker images (company behind Nessus) - one client's tech hub had this. Scans happened 10-40 mins behind
   async because it's slow
 
-https://docs.tenable.com/vulnerability-management/Content/ContainerSecurity/CSScanner.htm
+<https://docs.tenable.com/vulnerability-management/Content/ContainerSecurity/CSScanner.htm>§
 
 ### CheckMarx
 
-https://checkmarx.com/resource/documents/en/34965-19110-container-scans.html
+<https://checkmarx.com/resource/documents/en/34965-19110-container-scans.html>
 
 ## Container Scanning on Jenkins
 
 ![](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/jenkins_kubernetes_cicd.svg)
-
 
 **Ported from various private Knowledge Base pages 2018+**
