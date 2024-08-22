@@ -517,4 +517,4 @@ Tiller will delete even persistent disks:
 helm delete myrelease
 ```
 
-###### Ported from private Knowledge Base page 2019+
+**Ported from private Knowledge Base page 2019+**
