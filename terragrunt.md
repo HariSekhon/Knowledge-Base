@@ -98,7 +98,7 @@ terragrunt apply
 
 ### Validate Inputs
 
-https://terragrunt.gruntwork.io/docs/reference/cli-options/#validate-inputs
+<https://terragrunt.gruntwork.io/docs/reference/cli-options/#validate-inputs>
 
 Finds:
 
@@ -119,8 +119,7 @@ properly maintain their code changes.
 Recursively looks for `terragrunt.hcl` in all subdirectories and concurrently runs them (run these from the root
 directory of your terragrunt'd terraform repo).
 
-
-##### WARNING: adds implicit `-auto-approve` and doesn't prompt (don't use it with `destroy` argument!).
+**WARNING: adds implicit `-auto-approve` and doesn't prompt (don't use it with `destroy` argument!)**
 
 ```shell
 terragrunt run-all validate
@@ -136,11 +135,10 @@ terragrunt run-all apply  # --terragrunt-out-dir /tmp/tfplan
 
 See also the [Graph Run](#graph-run) command further down.
 
-##### No Auto-Approve
+#### No Auto-Approve
 
 You can add `--terragrunt-no-auto-approve` / `TERRAGRUNT_NO_AUTO_APPROVE=true` to prevent this, but due to
 interactive prompts will implicitly also add `--terragrunt-parallelism 1`.
-
 
 ### Auto Format
 
@@ -162,7 +160,7 @@ terragrunt hclfmt
 
 For CI/CD, set environment variable:
 
-```
+```shell
 TERRAGRUNT_NON_INTERACTIVE=true
 ```
 
@@ -198,7 +196,7 @@ This is the order of "depends on" - Terragrunt will run the modules from the bot
 
 You can execute a command against all module dependencies of the current module directory.
 
-#### Beware although not documented, this like assumes `-auto-approve` so make sure to plan and check first:
+**Beware although not documented, this like assumes `-auto-approve` so make sure to plan and check first:**
 
 ```shell
 terragrunt graph plan
