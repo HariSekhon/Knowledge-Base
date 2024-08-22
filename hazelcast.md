@@ -3,8 +3,10 @@
 <https://hazelcast.com/products>
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Code](#code)
+
 <!-- INDEX_END -->
 
 ## Key Points
