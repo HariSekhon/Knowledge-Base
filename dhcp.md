@@ -8,6 +8,7 @@ This IP lease is usually for 24 hours. If the client renews it before the expiry
 returns to the pool and will be reassigned to another client when it requests an IP.
 
 <!-- INDEX_START -->
+
 - [DHCP Clients](#dhcp-clients)
   - [DHClient](#dhclient)
 - [DHCP Servers](#dhcp-servers)
@@ -19,6 +20,7 @@ returns to the pool and will be reassigned to another client when it requests an
   - [Run DHCP to point to your TFTP Server for PXE boot](#run-dhcp-to-point-to-your-tftp-server-for-pxe-boot)
   - [Download Debian netinstall to TFTP for PXE boot](#download-debian-netinstall-to-tftp-for-pxe-boot)
   - [Start TFTP](#start-tftp)
+
 <!-- INDEX_END -->
 
 ## DHCP Clients
