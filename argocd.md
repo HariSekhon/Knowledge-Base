@@ -16,6 +16,7 @@ Declarative GitOps Continuous Delivery of applications on Kubernetes.
 - Active community
 
 <!-- INDEX_START -->
+
 - [Install Quickly](#install-quickly)
 - [Find the ArgoCD default admin password](#find-the-argocd-default-admin-password)
 - [ArgoCD templates](#argocd-templates)
@@ -39,6 +40,7 @@ Declarative GitOps Continuous Delivery of applications on Kubernetes.
 - [Troubleshooting](#troubleshooting)
   - [Kustomize Manifest Generation Error](#kustomize-manifest-generation-error)
   - [Manifest cached error not updating in an hour](#manifest-cached-error-not-updating-in-an-hour)
+
 <!-- INDEX_END -->
 
 #### Components
