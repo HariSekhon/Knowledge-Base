@@ -6,6 +6,7 @@ TODO: port Kafka notes here
 <!-- INDEX_START -->
   - [Nagios-Plugin-Kafka with Kerberos support](#nagios-plugin-kafka-with-kerberos-support)
   - [Nagios Plugins for Kafka API written in Python & Perl](#nagios-plugins-for-kafka-api-written-in-python--perl)
+- [Kafka 101](#kafka-101)
 <!-- INDEX_END -->
 
 ### Nagios-Plugin-Kafka with Kerberos support
