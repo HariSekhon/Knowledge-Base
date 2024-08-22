@@ -47,7 +47,7 @@ kubectl logs -f -n cert-manager deploy/cert-manager
 
 If you see an error like this:
 
-```
+```none
 E0229 18:07:30.022849       1 sync.go:126] "Failed to determine the list of Challenge resources needed for the Order" err="no configured challenge solvers can be used for this challenge" logger="cert-manager.orders" resource_name="jenkins-tls-1-2062037248" resource_namespace="jenkins" resource_kind="Order" resource_version="v1"
 ```
 
@@ -60,11 +60,14 @@ kubectl api-resources | grep cert
 ```shell
 kubectl get certificaterequests -n "$NAMESPACE"
 ```
+
 output:
-```
+
+```none
 NAME            APPROVED   DENIED   READY   ISSUER        REQUESTOR                                         AGE
 jenkins-tls-1   True                False   letsencrypt   system:serviceaccount:cert-manager:cert-manager   1d
 ```
+
 Get more info:
 
 ```shell
@@ -73,7 +76,7 @@ kubectl describe certificaterequests -n "$NAMESPACE"
 
 The second `Message` line says it's pending on the order:
 
-```
+```none
 Status:
   Conditions:
     Last Transition Time:  2024-02-26T17:54:50Z
@@ -97,7 +100,7 @@ kubectl get orders -n "$NAMESPACE"
 
 and you see it is stuck in `pending`:
 
-```
+```none
 NAME                       STATE     AGE
 jenkins-tls-1-2062037248   pending   1d
 ```
@@ -107,9 +110,10 @@ you can tab-complete this annoying name if you've included [kubectl autocomplete
 ```shell
 kubectl describe orders -n "$NAMESPACE" jenkins-tls-1-2062037248
 ```
+
 output:
-```
-...
+
+```none
 Events:
   Type     Reason  Age                From                 Message
   ----     ------  ----               ----                 -------
@@ -118,6 +122,7 @@ Events:
 ```
 
 Commenting out this section in the `ClusterIssuer` enabled it to work:
+
 ```yaml
         #selector:
         #  dnsNames:
@@ -129,4 +134,4 @@ Even though these match and have been used before. Possible bug as I've done exa
 
 I triple checked the domain names and tried with different domains, same result.
 
-https://github.com/cert-manager/cert-manager/issues/6528
+<https://github.com/cert-manager/cert-manager/issues/6528>
