@@ -27,12 +27,8 @@ Used by major technologies, especially Big Data technologies like HBase, Hive Hi
 ## Basics
 
 - mature, robust, well tested and widely used by HBase, Kafka, SolrCloud, HDFS/Yarn/Hive HA ZKFC, Docker Swarm
-
-
 - writes need quorum
 - reads serviced by node you connect to
-
-
 - 3 nodes for HA Quorum
 - 5 nodes for HA Quorum during maintenance (eg. still HA while taking 1 node down for maintenance)
 - 1-4 GB ram
@@ -41,7 +37,6 @@ Used by major technologies, especially Big Data technologies like HBase, Hive Hi
 - for HBase make sure to comment out `HBASE_MANAGE_ZK` in `hbase-env.sh`
 - network problems often show up first as zookeeper as timeouts / connection problems
 - not recommended for virtual environments due to latency
-
 
 ### More Details
 
@@ -82,7 +77,8 @@ Used by major technologies, especially Big Data technologies like HBase, Hive Hi
 ## Kerberos
 
 `zoo.cfg` / `zookeeper.properties`:
-```
+
+```properties
 authProvider.1=org.apache.zookeeper.server.auth.SASLAuthenticationProvider
 requireClientAuthScheme=sasl
 jaasLoginRenew=3600000
@@ -141,10 +137,11 @@ echo cons | nc localhost 2181 | wc -l
 
 Review full ZooKeeper docs:
 
-https://zookeeper.apache.org/doc/r3.9.1/zookeeperAdmin.html
+<https://zookeeper.apache.org/doc/r3.9.1/zookeeperAdmin.html>
 
 zoo.cfg:
-```shell
+
+```properties
 maxClientCnxns
 ```
 
@@ -172,7 +169,7 @@ maxClientCnxns
 
 Curator is to ZooKeeper what Guava is to Java, written by Netflix
 
-http://curator.apache.org/
+<http://curator.apache.org/>
 
 ## Perl ZooKeeper Client Library - `Net::ZooKeeper` build
 
@@ -219,6 +216,7 @@ LD_RUN_PATH=/usr/local/lib make install
 ```
 
 `LD_LIBRARY_PATH` considered evil:
+
 - prepends path for everything
 - security is an issue
 - doesn't work for setuid/setguid programs
@@ -272,5 +270,4 @@ chown zookeeper:zookeeper /var/lib/zookeeper/version-2
 
 Then start ZooKeeper.
 
-
-###### Ported from private Knowledge Base page 2012+
+**Ported from private Knowledge Base page 2012+**
