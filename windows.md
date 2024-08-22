@@ -120,7 +120,7 @@ chkdsk c:
 
 output:
 
-```
+```none
 Windows has scanned the file system and found no problems.
 No further action is required.
 
@@ -145,7 +145,7 @@ where bash
 
 output:
 
-```
+```cmd
 C:\Program Files\Git\bin\bash.exe
 ```
 
