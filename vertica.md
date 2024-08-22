@@ -3,8 +3,10 @@
 Proprietary MPP SQL OLAP database with a free community edition.
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Queries](#queries)
+
 <!-- INDEX_END -->
 
 ## Key Points
