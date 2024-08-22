@@ -193,7 +193,7 @@ lazy val print = task {
 
 ### SBT <= 0.12
 
-```
+```sbt
 ~/.sbt/plugins/plugins.sbt:
 ```
 
