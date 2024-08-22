@@ -296,9 +296,7 @@ sudo /Library/StartupItems/VirtualBox/VirtualBox restart
 
 This didn't work one time, had to do go via Menu:
 
-```
-VirtualBox -> Preferences -> Network -> add Host-only Network vboxnet0
-```
+`VirtualBox` -> `Preferences` -> `Network` -> `add Host-only Network` -> `vboxnet0`
 
 `VBOX_E_INVALID_OBJECT_STATE` when trying to do:
 
