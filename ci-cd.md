@@ -2,7 +2,7 @@
 
 Continually tests, builds your code packages and deploys them.
 
-#### TL;DR use GitHub Actions for fully hosted and Jenkins for self-hosted, more flexibility or advanced use cases.
+**TL;DR use GitHub Actions for fully hosted and Jenkins for self-hosted, more flexibility or advanced use cases.**
 
 GitHub Actions self-hosted runners are also a reasonable option.
 
@@ -155,8 +155,8 @@ The weakest repo provider and weakest CI/CD system.
 - not as many features
 - not a great API
 - 50 free build minutes a month
-  - when they dropped the free build minutes this rendered this useless for open source projects
-  - unless you like getting constant emails of build failures upon every git push due to no build minutes
+- when they dropped the free build minutes this rendered this useless for open source projects
+- unless you like getting constant emails of build failures upon every git push due to no build minutes
 - [Bitbucket Data Center](https://confluence.atlassian.com/bitbucketserver/bitbucket-data-center-documentation-776639749.html) is the on-premise installable version
 - this product is one of Atlassian's rare fails to compete in the software market as they have many more widely used products like Jira, Confluence, Fisheye etc.
 - [HariSekhon/Templates - bitbucket-pipelines.yml](https://github.com/HariSekhon/Templates/blob/master/bitbucket-pipelines.yml)
@@ -168,26 +168,26 @@ The weakest repo provider and weakest CI/CD system.
 
 ### [AWS CodeBuild](https://aws.amazon.com/codebuild/)
 
-  - cheap pay-as-you-go integrated with your existing AWS bill, convenient for no additional accounts, approvals or purchase orders
-  - too basic in functionality - poor man's CI/CD
-  - good security integration with other AWS services due to all being under AWS IAM
-  - most companies use GitHub Actions instead for good reason - if you're in the cloud anyway, GitHub has better features, security and integrations
-  - [HariSekhon/Templates- AWS CodeBuild buildspec.yaml](https://github.com/HariSekhon/Templates/blob/master/buildspec.yml)
+- cheap pay-as-you-go integrated with your existing AWS bill, convenient for no additional accounts, approvals or purchase orders
+- too basic in functionality - poor man's CI/CD
+- good security integration with other AWS services due to all being under AWS IAM
+- most companies use GitHub Actions instead for good reason - if you're in the cloud anyway, GitHub has better features, security and integrations
+- [HariSekhon/Templates- AWS CodeBuild buildspec.yaml](https://github.com/HariSekhon/Templates/blob/master/buildspec.yml)
 
 ### [GCP CloudBuild](https://cloud.google.com/build?hl=en)
 
-  - formerly called Container Builder which should give you a hint as to its intended purpose
-  - similar advantages and drawbacks to AWS CodeBuild
-  - basic functionality
-  - cheap with integrated pay-as-you-go billing inside your existing Google Cloud account, no extra purchase orders and approvals needed in your enterprise
-  - good security integration with other GCP services due to all being under GCP IAM
-  - [Kaniko](https://github.com/GoogleContainerTools/kaniko) integration but in my experience your mileage may vary
-  - [HariSekhon/Templates - cloudbuild.yaml](https://github.com/HariSekhon/Templates/blob/master/cloudbuild.yaml) and [cloudbuild-golang.yaml](https://github.com/HariSekhon/Templates/blob/master/cloudbuild-golang.yaml)
+- formerly called Container Builder which should give you a hint as to its intended purpose
+- similar advantages and drawbacks to AWS CodeBuild
+- basic functionality
+- cheap with integrated pay-as-you-go billing inside your existing Google Cloud account, no extra purchase orders and approvals needed in your enterprise
+- good security integration with other GCP services due to all being under GCP IAM
+- [Kaniko](https://github.com/GoogleContainerTools/kaniko) integration but in my experience your mileage may vary
+- [HariSekhon/Templates - cloudbuild.yaml](https://github.com/HariSekhon/Templates/blob/master/cloudbuild.yaml) and [cloudbuild-golang.yaml](https://github.com/HariSekhon/Templates/blob/master/cloudbuild-golang.yaml)
 
 ### Azure DevOps Pipelines
 
-  - Legacy
-  - see details in [Hosted Repo Providers](#hosted-cicd-by-git-repo-providers) section above as it's closer to them as a legacy TFS rebranding than the above cloud-native integrated offerings
+- Legacy
+- see details in [Hosted Repo Providers](#hosted-cicd-by-git-repo-providers) section above as it's closer to them as a legacy TFS rebranding than the above cloud-native integrated offerings
 
 ## Hosted CI/CD - 3rd Party (all are legacy)
 
@@ -212,7 +212,7 @@ One of the first best hosted CI/CD systems.
   - legacy now as a result
   - [HariSekhon/Templates - .travis-ci.yml](https://github.com/HariSekhon/Templates/blob/master/.travis.yml)
   - Real world usage example -
-[HariSekhon/DevOps-Bash-tools .travis-ci.yml](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/travis/.travis.yml)
+    [HariSekhon/DevOps-Bash-tools .travis-ci.yml](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/travis/.travis.yml)
 
 ### [BuildKite](https://buildkite.com/)
 
