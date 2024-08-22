@@ -17,12 +17,14 @@ availability and especially monitoring and tracing what happens to requests as t
 through the stack.
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Challenges](#challenges)
 - [Microservices Stacks](#microservices-stacks)
 - [Best Practices](#best-practices)
 - [Logging](#logging)
 - [Misc Notes](#misc-notes)
+
 <!-- INDEX_END -->
 
 ## Key Points
