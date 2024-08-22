@@ -10,16 +10,14 @@
 
 ## Apache Flink
 
-Used by CapitalOne: http://www.slideshare.net/FlinkForward/flink-case-study-capital-one
+Used by CapitalOne: <http://www.slideshare.net/FlinkForward/flink-case-study-capital-one>
 
 - streaming iterative data flow framework
 - DataSet API    (batch)     - Java/Scala/Python
 - DataStream API (streaming) - Java/Scala
 
-```
-Kafka -> Apache Flink -> Elasticsearch -> Kibana 4
-      -> HDFS long term storage + batch processing
-```
+`Kafka` -> `Apache Flink` -> `Elasticsearch` -> `Kibana 4`
+        -> `HDFS` long term storage + batch processing
 
 - real-time
 - stateful
@@ -37,7 +35,7 @@ Kafka -> Apache Flink -> Elasticsearch -> Kibana 4
 
 ## Apache Beam
 
-https://beam.apache.org/
+<https://beam.apache.org/>
 
 - analytics abstraction layer
 - engine backends to:
@@ -65,5 +63,4 @@ See also: Pivot - an exploratory analytics UI for Druid
 - use Spark to process and upload results to Druid
 - doesn't support full joins (only large to small table joins)
 
-
-###### Ported from various private Knowledge Base pages 2010+
+**Ported from various private Knowledge Base pages 2010+**
