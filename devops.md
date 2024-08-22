@@ -34,6 +34,7 @@ There is almost an inhuman amount of tools and knowledge required.
 It requires extensive experience in the following areas:
 
 - Systems Engineering
+  - [resources/ByteByteGo-Big-Archive-System-Design-2023.pdf](resources/ByteByteGo-Big-Archive-System-Design-2023.pdf)
 - Debugging a vast array of technologies
 - [Linux](linux.md)
 - [Windows](windows.md)
