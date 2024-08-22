@@ -63,6 +63,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [Ubuntu](ubuntu.md)
   - [Redhat](redhat.md)
   - [Alpine](alpine.md)
+  - [Gentoo](gentoo.md)
 - [Mac](mac.md)
   - [Homebrew](brew.md)
 - [Shell](shell.md)
