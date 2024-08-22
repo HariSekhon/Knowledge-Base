@@ -69,11 +69,6 @@ pre-commit:
 precommit: pre-commit
 	@:
 
-mdl:
-	@echo "Checking Markdown for issues"
-	@echo
-	@mdl -s .markdownlint.rb *.md
-
 index:
 	@echo "Checking all *.md files are in the README.md index"
 	@echo
