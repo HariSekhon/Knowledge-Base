@@ -396,9 +396,9 @@ tsdb search
   - use tags if planning to aggregate across time series
     - otherwise put tags in metric name for better efficiency (more targeted queries = scan less row data)
 
-Performance Tuning - [HAProxy](haproxy.md) TSDs, rest is mainly HBase performance tuning, see [HBase](hbase.md) doc.
-
 ## Performance Tuning
+
+[HAProxy](haproxy.md) TSDs, rest is mainly HBase performance tuning, see [HBase](hbase.md) doc.
 
 You have to know the questions to design for performance.
 
