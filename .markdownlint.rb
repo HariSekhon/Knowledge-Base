@@ -28,5 +28,6 @@ exclude_rule 'MD029'
 #exclude_rule 'MD031'
 #exclude_rule 'MD032'
 exclude_rule 'MD033'  # inline HTML is important for formatting
+exclude_rule 'MD036'  # emphasis used instead of header for footer Ported from lines
 #exclude_rule 'MD039'
 #exclude_rule 'MD056'
