@@ -58,7 +58,7 @@ To start your own local coder server for testing:
 coder server
 ```
 
-then browse to http://localhost:3000
+then browse to <http://localhost:3000>
 
 ### CLI Usage
 
@@ -104,7 +104,7 @@ coder config-ssh
 
 getting this error:
 
-```
+```html
 version mismatch: client v2.13.0+56bf386, server v2.9.0+3215464
 download the server version with: 'curl -L https://coder.com/install.sh | sh -s -- --version 2.9.0'
 Encountered an error running "coder config-ssh", see "coder config-ssh --help" for more information
