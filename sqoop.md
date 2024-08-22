@@ -296,8 +296,9 @@ to be added to `conf/sqoop-site.xml`:
 
 Similarly, `--meta-connect` can be omitted by adding the following to the `conf/sqoop-site.xml` file:
 
-```shell
-sqoop.metastore.client.autoconnect.url = <--meta-connect url>
+```xml
+<name>sqoop.metastore.client.autoconnect.url</name>
+<value>some_url</value>
 ```
 
 ```shell
