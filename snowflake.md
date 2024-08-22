@@ -5,7 +5,9 @@
 See Also: [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
 
 <!-- INDEX_START -->
+
 - [SnowPipe](#snowpipe)
+
 <!-- INDEX_END -->
 
 ## SnowPipe
