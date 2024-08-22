@@ -466,7 +466,7 @@ If there is nothing left except:
 
 ```none
                      USER        PID ACCESS COMMAND
-/tmp:                root     kernel mount /tmp
+/tmp:                root     kernel mount  /tmp
 ```
 
 You may have to reboot the VM - in which case remove or comment out the disk's mount point entry eg.
