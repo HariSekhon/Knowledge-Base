@@ -358,4 +358,4 @@ docker swarm init --force-new-cluster
 
 retains swarm info, re-promote workers to managers.
 
-###### Ported from private Knowledge Base page 2014+
+**Ported from private Knowledge Base page 2014+**
