@@ -8,25 +8,25 @@ Markdown is expected in top-level `docs/` dir, with `docs/index.md` being the ho
 
 <!-- INDEX_START -->
 
-  - [Install](#install)
-  - [Template](#template)
-  - [Build](#build)
-  - [Preview Locally](#preview-locally)
-  - [MkDocs Gotchas](#mkdocs-gotchas)
+- [Install](#install)
+- [Template](#template)
+- [Build](#build)
+- [Preview Locally](#preview-locally)
+- [MkDocs Gotchas](#mkdocs-gotchas)
 
 <!-- INDEX_END -->
 
-### Install
+## Install
 
 ```shell
 pip install mkdocs
 ```
 
-### Template
+## Template
 
 [HariSekhon/Templates - mkdocs.yml](https://github.com/HariSekhon/Templates/blob/master/mkdocs.yml)
 
-### Build
+## Build
 
 - build the `site/` dir, containing the HTML, Javascript, `sitemap.xml` and `mkdocs/search_index.json`
 - `site/` should be added to [.gitignore](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitignore)
@@ -35,9 +35,9 @@ pip install mkdocs
 mkdocs build
 ```
 
-### Preview Locally
+## Preview Locally
 
-Launch a local web server at http://127.0.0.1:8000:
+Launch a local web server at <http://127.0.0.1:8000>:
 
 ```shell
 mkdocs serve
@@ -49,7 +49,7 @@ On Mac, you can open this from the CLI:
 open http://127.0.0.1:8000
 ```
 
-### MkDocs Gotchas
+## MkDocs Gotchas
 
 Some things that render fine in Markdown break in MKDocs:
 
