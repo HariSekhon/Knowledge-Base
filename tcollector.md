@@ -7,11 +7,15 @@ Client-side metrics collector for OpenTSDB.
 See [OpenTSDB](opentsdb.md) doc first.
 
 <!-- INDEX_START -->
+- [Key Points](#key-points)
+  - [Collectors](#collectors)
+- [Setup](#setup)
+- [Test run TCollector plugins](#test-run-tcollector-plugins)
 <!-- INDEX_END -->
 
 ## Key Points
 
-- forwards to TSD
+- forwards metrics to OpenTSDB's TSD daemon
 - handles buffer + retry so shell scripts / plugins don't have to handle this logic
 - de-duplicates repeated values
   - remembers last value, only sends changes or repeats value once every 10 mins otherwise
@@ -23,8 +27,10 @@ See [OpenTSDB](opentsdb.md) doc first.
   - `75`
   - `90` - must be a multiple of 15 as TCollector checks every 15 secs
 - automatically kills collector and restarts it if no output in 600 secs
+- collectors are script plugins that collect metrics from the OS or applications and output them to stdout
+  - TCollector reads them, buffers and sends them to OpenTSDB TSD daemon
 
-### Collectors
+## Collectors
 
 Collector scripts simply output in this format to stdout:
 
