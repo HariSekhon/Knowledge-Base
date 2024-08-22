@@ -120,7 +120,7 @@ java -jar jenkins-cli.jar -s "$JENKINS_URL" list-plugins | awk '{print $1}' | so
 
 See here for a great list of plugins that I've used in production across companies:
 
-[HariSekhon/Kubernetes - jenkins/base/values.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/jenkins/base/values.yaml#L142)
+[HariSekhon/Kubernetes - jenkins/base/values.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/54ad50efc573f7a69b36be1bd504d0e214fa73b5/jenkins/base/values.yaml#L136)
 
 ### Restarts
 
