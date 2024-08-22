@@ -93,6 +93,7 @@ Show the current time:
 ```cmd
 time /t
 ```
+
 (without the `/t` switch it prompts to set a new time)
 
 ### Networking
