@@ -39,4 +39,4 @@ I'd  really love to build elite personal desktops and laptops again - the height
 
 Alas, Macs are just quicker to get on with the day job...
 
-###### Ported from various private Knowledge Base pages 2002+
+**Ported from various private Knowledge Base pages 2002+**
