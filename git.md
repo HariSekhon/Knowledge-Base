@@ -3,6 +3,7 @@
 ## Index
 
 <!-- INDEX_START -->
+
 - [Workflow Branching Strategies](#workflow-branching-strategies)
 - [Advanced Git Config](#advanced-git-config)
 - [GitHub SSH Key SSO Authorization](#github-ssh-key-sso-authorization)
@@ -40,6 +41,7 @@
   - [List files added on current branch vs default branch](#list-files-added-on-current-branch-vs-default-branch)
   - [Push New Branch and Set Upstream in One Command](#push-new-branch-and-set-upstream-in-one-command)
   - [Push New Branch and Raise Pull Request in One Command](#push-new-branch-and-raise-pull-request-in-one-command)
+
 <!-- INDEX_END -->
 
 ## Workflow Branching Strategies
