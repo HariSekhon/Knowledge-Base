@@ -5,6 +5,7 @@ Informatica is a data integration UI tool.
 Modern Informatica UI is cloud hosted SaaS solution called IICS - Informatica Intelligent Cloud Services.
 
 <!-- INDEX_START -->
+
 - [Organizations](#organizations)
 - [Informatica Login & Environments](#informatica-login--environments)
   - [Local Authentication](#local-authentication)
@@ -32,6 +33,9 @@ Modern Informatica UI is cloud hosted SaaS solution called IICS - Informatica In
   - [Disk Space](#disk-space)
   - [Log Disk Space Cleanup](#log-disk-space-cleanup)
   - [Kubernetes version error `K8s_10152`](#kubernetes-version-error-k8s10152)
+  - [Kubernetes - Capture Pod Logs & Stats](#kubernetes---capture-pod-logs--stats)
+  - [Kubernetes - Capture Spark Driver JStack Thread Dump](#kubernetes---capture-spark-driver-jstack-thread-dump)
+
 <!-- INDEX_END -->
 
 ## Organizations
