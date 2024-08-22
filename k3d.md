@@ -122,4 +122,4 @@ k3d kubeconfig merge "$name" --kubeconfig-merge-default  # --all
 k3d kubeconfig merge "$name" --output /some/other/file.yaml
 ```
 
-###### Ported from private Knowledge Base page 2023+
+**Ported from private Knowledge Base page 2023+**
