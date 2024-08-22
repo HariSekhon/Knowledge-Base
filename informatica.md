@@ -703,3 +703,5 @@ Then browsing to:
 <http://localhost:4040/executors/>
 
 and clicking on the Thread Dump links to the far right of each executor line.
+
+I have told Informatica Support that they need to put full JDKs in their docker images in future to make support easier.
