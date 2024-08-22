@@ -38,7 +38,7 @@ See [sbt.md](sbt.md)
 
 ## Bazel
 
-https://bazel.build/
+<https://bazel.build/>
 
 - fast incremental builds tracks changes to files and only rebuilds what is necessary
 
