@@ -52,4 +52,4 @@ You are limited only by time and effort.
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [Class Central](https://www.classcentral.com/subject/programming-and-software-development)
 
-###### Ported from various private Knowledge Base pages 2008+
+**Ported from various private Knowledge Base pages 2008+**
