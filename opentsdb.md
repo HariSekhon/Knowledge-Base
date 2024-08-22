@@ -3,6 +3,41 @@
 Open Source Time Series Database by StumbleUpon.
 
 <!-- INDEX_START -->
+- [Key Points](#key-points)
+  - [TSD - Time Series Daemon](#tsd---time-series-daemon)
+  - [Tags - case sensitive](#tags---case-sensitive)
+  - [HBase Keys](#hbase-keys)
+  - [UIDs](#uids)
+- [Metrics Management](#metrics-management)
+  - [Find Metrics](#find-metrics)
+  - [Rename Metrics](#rename-metrics)
+  - [Rename existing collected metrics](#rename-existing-collected-metrics)
+- [Query Language](#query-language)
+  - [Timestamp Format Example](#timestamp-format-example)
+  - [Curl Query Example](#curl-query-example)
+  - [Fetch list of metrics](#fetch-list-of-metrics)
+  - [Fetch list of tags keys](#fetch-list-of-tags-keys)
+  - [Tag Filters](#tag-filters)
+- [Docker](#docker)
+- [OpenTSDB Setup](#opentsdb-setup)
+  - [Bootstrap Tables](#bootstrap-tables)
+  - [Tables](#tables)
+  - [Metric Creation - Manual vs Automatic](#metric-creation---manual-vs-automatic)
+  - [Start TSD daemon](#start-tsd-daemon)
+  - [Create Sample Data](#create-sample-data)
+  - [Cron Cache Clean Daily](#cron-cache-clean-daily)
+- [TCollector - Metrics Agent](#tcollector---metrics-agent)
+- [OpenTSDB Commands](#opentsdb-commands)
+- [Best Practices](#best-practices)
+- [Performance Tuning](#performance-tuning)
+- [History Retention](#history-retention)
+- [APIs](#apis)
+  - [Telnet API](#telnet-api)
+  - [HTTP API](#http-api)
+- [Troubleshooting](#troubleshooting)
+  - [Performance Problems](#performance-problems)
+- [Aardvark](#aardvark)
+- [Diagram - OpenTSDB on Kubernetes, over HBase on Hadoop](#diagram---opentsdb-on-kubernetes-over-hbase-on-hadoop)
 <!-- INDEX_END -->
 
 ## Key Points
@@ -45,36 +80,32 @@ Open Source Time Series Database by StumbleUpon.
 
 `<metric_UID> + <timestamp_epoch_base_hour> + <tags>`
 
-## Docker
+### UIDs
 
-Peter Grace provides the most used docker images:
+- unique UID incremented + recorded for each `metric` / `tagk` / `tagv`, stored in `tsdb-uid` HBase table
+- used to save bytes in HBase table row key prefixes
+- `mkmetric` assigns UID or is auto-assigned by `tsd.core.auto_create_metrics = true` setting
+- minimize cardinality of `metrics` / `tagk` / `tagv`
+  - each will use the same UID if their string is the same
+  - only 16M UIDs by default
+  - must not change `tsd.storage.uid.width.metric` / `tsd.storage.uid.width.tagk` / `tsd.storage.uid.width.tagv` after install
+- each new `metric` / `tagk` / `tagv` requires lookup, assign, cache
+- pre-assign UIDs to as many `metric` / `tagk` / `tagv` as possible to avoid above cost
+- pre-split UID table `00001` to `N` hex prefixes
+- OpenTSDB restart will have lower performance until UID cache is warmed up / filled
+- UID is prefix of HBase rows - 2.2+ can optionally randomize generated UIDs to spread writes of new metrics across
+  regions: `tsd.core.uid.random_metrics = true`
+  - will retry 10 times to find non-collision new UID - probability of collision goes up as num metrics increases, may want to switch off or increase metric byte size (requires migrating data to new table)
 
-```shell
-docker run -ti --name opentsdb \
-               -p 4242:4242 \
-               --rm petergrace/opentsdb-docker
-```
+- do not mix `s` + `ms` timestamp precision as it takes longer to iterate dual, use one or the other
+- `ms` takes twice as much storage even though epoch only goes from 10 => 13 digits (`ms` gives 3 milliseconds `.SSS`)
 
-```shell
-docker run -ti --name grafana \
-               -p 3000:3000 \
-               --link opentsdb:tsdb petergrace/grafana-docker
-```
+Appends (2.2+) - avoids queue of rows to compact each hour, costs more HBase CPU + HDFS traffic
 
-## Best Practices
+- dups out of order will be repaired + rewritten to HBase if `repair_appends` configured but this will will slow down
+  queries: `tsd.storage.repair_appends = true`
 
-- duplicates with the same timestamp result in read errors
-  - `tsd.storage.fix_duplicates` - not really correct solution, overwrites so loses 'duplicate' data, which may not be actual duplicates
-  - real solution - more tags to uniquely differentiate time series metric points properly
-- tags:
-  - lowercase `metrics` / `tagk` / `tagv`
-  - use short hostname, not fqdn unless different domains as this costs you space and performance
-  - tags must be low cardinality
-    - otherwise won't be able to query metric as it'll get too expensive
-  - use tags if planning to aggregate across time series
-    - otherwise put tags in metric name for better efficiency (more targeted queries = scan less row data)
-
-Performance Tuning - [HAProxy](haproxy.md) TSDs, rest is mainly HBase performance tuning, see [HBase](hbase.md) doc.
+## Metrics Management
 
 ### Find Metrics
 
@@ -179,52 +210,21 @@ curl opentsdb:4242/api/config/filters
 
 Click `+` tab to add metric to existing graph.
 
-## UIDs
+## Docker
 
-- unique UID incremented + recorded for each `metric` / `tagk` / `tagv`, stored in `tsdb-uid` HBase table
-- used to save bytes in HBase table row key prefixes
-- `mkmetric` assigns UID or is auto-assigned by `tsd.core.auto_create_metrics = true` setting
-- minimize cardinality of `metrics` / `tagk` / `tagv`
-  - each will use the same UID if their string is the same
-  - only 16M UIDs by default
-  - must not change `tsd.storage.uid.width.metric` / `tsd.storage.uid.width.tagk` / `tsd.storage.uid.width.tagv` after install
-- each new `metric` / `tagk` / `tagv` requires lookup, assign, cache
-- pre-assign UIDs to as many `metric` / `tagk` / `tagv` as possible to avoid above cost
-- pre-split UID table `00001` to `N` hex prefixes
-- OpenTSDB restart will have lower performance until UID cache is warmed up / filled
-- UID is prefix of HBase rows - 2.2+ can optionally randomize generated UIDs to spread writes of new metrics across
-  regions: `tsd.core.uid.random_metrics = true`
-  - will retry 10 times to find non-collision new UID - probability of collision goes up as num metrics increases, may want to switch off or increase metric byte size (requires migrating data to new table)
+Peter Grace provides the most used docker images:
 
-- do not mix `s` + `ms` timestamp precision as it takes longer to iterate dual, use one or the other
-- `ms` takes twice as much storage even though epoch only goes from 10 => 13 digits (`ms` gives 3 milliseconds `.SSS`)
-
-Appends (2.2+) - avoids queue of rows to compact each hour, costs more HBase CPU + HDFS traffic
-
-- dups out of order will be repaired + rewritten to HBase if `repair_appends` configured but this will will slow down
-  queries: `tsd.storage.repair_appends = true`
-
-## APIs
-
-### Telnet API
-
-- can only put single data point each time
-- discouraged as doesn't show write failures
-
-```none
-put <metric> <tstamp> <value> <tagk1>=<tagv1>[ <tagk2>=<tagv2> ...]\n
+```shell
+docker run -ti --name opentsdb \
+               -p 4242:4242 \
+               --rm petergrace/opentsdb-docker
 ```
 
-### HTTP API
-
-- single POST of multiple data points
-
-## TCollector - Metrics Agent
-
-See [TCollector](tcollector.md) doc.
-
-- tsdrain.py - telnet PUT received only, no HTTP API support
-  - collects metrics if HBase is down for maintenance, then sends commands to OpenTSDB when it's back up
+```shell
+docker run -ti --name grafana \
+               -p 3000:3000 \
+               --link opentsdb:tsdb petergrace/grafana-docker
+```
 
 ## OpenTSDB Setup
 
@@ -350,6 +350,13 @@ Put this in a crontab to run daily:
 /usr/share/opentsdb/tools/clean_cache.sh
 ```
 
+## TCollector - Metrics Agent
+
+See [TCollector](tcollector.md) doc.
+
+- tsdrain.py - telnet PUT received only, no HTTP API support
+  - collects metrics if HBase is down for maintenance, then sends commands to OpenTSDB when it's back up
+
 ## OpenTSDB Commands
 
 Import data:
@@ -375,6 +382,21 @@ tsdb scan
 ```shell
 tsdb search
 ```
+
+## Best Practices
+
+- duplicates with the same timestamp result in read errors
+  - `tsd.storage.fix_duplicates` - not really correct solution, overwrites so loses 'duplicate' data, which may not be actual duplicates
+  - real solution - more tags to uniquely differentiate time series metric points properly
+- tags:
+  - lowercase `metrics` / `tagk` / `tagv`
+  - use short hostname, not fqdn unless different domains as this costs you space and performance
+  - tags must be low cardinality
+    - otherwise won't be able to query metric as it'll get too expensive
+  - use tags if planning to aggregate across time series
+    - otherwise put tags in metric name for better efficiency (more targeted queries = scan less row data)
+
+Performance Tuning - [HAProxy](haproxy.md) TSDs, rest is mainly HBase performance tuning, see [HBase](hbase.md) doc.
 
 ## Performance Tuning
 
@@ -417,6 +439,21 @@ cf 't'
 `tsdb-meta`  - ts_ctr incremented per metric, off by default leaves `\x01` for all metrics
 <br><br>
 **XXX: DANGER: don't set TTL on `tsdb-uid`!!!**
+
+## APIs
+
+### Telnet API
+
+- can only put single data point each time
+- discouraged as doesn't show write failures
+
+```none
+put <metric> <tstamp> <value> <tagk1>=<tagv1>[ <tagk2>=<tagv2> ...]\n
+```
+
+### HTTP API
+
+- single POST of multiple data points
 
 ## Troubleshooting
 
