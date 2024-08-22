@@ -5,6 +5,7 @@ TL;DR just use [Kubernetes](kubernetes.md) instead - it's the winning open sourc
 <https://docs.docker.com/engine/swarm/>
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Swarm Manager](#swarm-manager)
 - [Services](#services)
@@ -13,6 +14,7 @@ TL;DR just use [Kubernetes](kubernetes.md) instead - it's the winning open sourc
   - [Swarm Backup](#swarm-backup)
   - [Swarm Restore](#swarm-restore)
   - [Quorum loss](#quorum-loss)
+
 <!-- INDEX_END -->
 
 ## Key Points
