@@ -1,9 +1,11 @@
 # Kudu
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Install](#install)
 - [Login](#login)
+
 <!-- INDEX_END -->
 
 ## Key Points
