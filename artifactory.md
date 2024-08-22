@@ -1,6 +1,6 @@
 # Artifactory
 
-https://jfrog.com/artifactory/
+<https://jfrog.com/artifactory/>
 
 Repository Manager by JFrog
 
@@ -23,7 +23,7 @@ Scan Artifactory repo mirrors:
 
 ## JFrog CLI
 
-https://jfrog.com/getcli/
+<https://jfrog.com/getcli/>
 
 from [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) `install/` directory:
 
@@ -49,9 +49,7 @@ in `bin/`:
 artifactoryctl start
 ```
 
-```
-http://$HOST:8081/artifactory
-```
+<http://localhost:8081/artifactory>
 
 admin / password
 
@@ -63,4 +61,4 @@ artifactoryctl check
 artifactoryctl stop
 ```
 
-###### Ported from private Knowledge Base page 2016+
+**Ported from private Knowledge Base page 2016+**
