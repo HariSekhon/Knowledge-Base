@@ -19,7 +19,7 @@
 
 Uses hyperkit virtualization on Mac for easy VM management.
 
-https://multipass.run/docs/mac-tutorial
+<https://multipass.run/docs/mac-tutorial>
 
 ```shell
 brew install --cask multipass
