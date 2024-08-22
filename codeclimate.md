@@ -33,4 +33,4 @@ Spawns docker container to run engines, takes a few mins, gives a long text outp
 codeclimate analyze
 ```
 
-###### Ported from private Knowledge Base page 2016+
+**Ported from private Knowledge Base page 2016+**
