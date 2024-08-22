@@ -3,9 +3,11 @@
 NOT PORTED YET.
 
 <!-- INDEX_START -->
+
 - [Show Java Classpath](#show-java-classpath)
 - [Inspect JAR contents](#inspect-jar-contents)
 - [Clojure](#clojure)
+
 <!-- INDEX_END -->
 
 ## Show Java Classpath
