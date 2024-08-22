@@ -5,10 +5,12 @@
 Database Web UI Manager
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
   - [Demo](#demo)
   - [Wiki](#wiki)
   - [Docker Images](#docker-images)
+
 <!-- INDEX_END -->
 
 ## Key Points
