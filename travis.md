@@ -180,7 +180,7 @@ repository not known to https://api.travis-ci.org/: harisekhon/nagios-plugins
 
 in local checkout's `.git/config`:
 
-```
+```properties shell
 [travis]
     slug = HariSekhon/nagios-plugins
 ```
