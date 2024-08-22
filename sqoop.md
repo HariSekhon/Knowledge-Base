@@ -298,7 +298,7 @@ Similarly, `--meta-connect` can be omitted by adding the following to the `conf/
 
 ```xml
 <name>sqoop.metastore.client.autoconnect.url</name>
-<value>some_url</value>
+<value>PUT_URL_HERE</value>
 ```
 
 ```shell
