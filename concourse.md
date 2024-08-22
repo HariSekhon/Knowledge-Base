@@ -1,6 +1,6 @@
 # Concourse
 
-https://concourse-ci.org/
+<https://concourse-ci.org/>
 
 Nice simple lean open source CI/CD tool.
 
@@ -87,7 +87,6 @@ fly format-pipeline --config .concourse.yml --write
 fly -t example get-pipeline --pipeline my-pipeline
 ```
 
-
 List targets, URLs + auth status
 
 ```shell
@@ -128,7 +127,7 @@ fly completion --shell bash > /etc/bash_completion.d/fly
 
 Environment variable:
 
-```
+```yaml
 ((my_env_var))
 ```
 
