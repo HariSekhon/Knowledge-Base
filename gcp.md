@@ -1,6 +1,7 @@
 # GCP - Google Cloud Platform
 
 <!-- INDEX_START -->
+
 - [DevOps Bash tools for GCP, GKE, GCE etc](#devops-bash-tools-for-gcp-gke-gce-etc)
 - [GCE - Google Compute Engine](#gce---google-compute-engine)
   - [VM Instance Sizes](#vm-instance-sizes)
@@ -17,6 +18,7 @@
 - [Get the IP address of a Load Balancer](#get-the-ip-address-of-a-load-balancer)
 - [Get the IP of your Google FileStore NFS server](#get-the-ip-of-your-google-filestore-nfs-server)
 - [Enable APIs](#enable-apis)
+
 <!-- INDEX_END -->
 
 ## DevOps Bash tools for GCP, GKE, GCE etc
