@@ -53,6 +53,7 @@ Validate your code:
 terraform validate
 
 ```
+
 See the plan of additions/deletions/modifications that Terraform would do:
 
 ```shell
