@@ -8,9 +8,11 @@ Wrapper CLI that runs [K3s](k3s.md) in Docker (this is also a workaround for k3s
 - manage Kubeconfigs for the k3s clusters
 
 <!-- INDEX_START -->
+
 - [Template Config](#template-config)
 - [Commands](#commands)
 - [KubeConfig](#kubeconfig)
+
 <!-- INDEX_END -->
 
 ## Template Config
