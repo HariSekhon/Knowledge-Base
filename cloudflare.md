@@ -41,7 +41,7 @@ Integrates to generate the TXT validation records for [LetsEncrypt](https://lets
 
 Integrates to upsert DNS records to Cloudflare for Kubernetes ingresses.
 
-[HariSekhon/Kubernetes-configs external-dns](https://github.com/HariSekhon/Kubernetes-configs/blob/master/external-dns/base/values.yaml#L164)
+[HariSekhon/Kubernetes-configs external-dns](https://github.com/HariSekhon/Kubernetes-configs/blob/54ad50efc573f7a69b36be1bd504d0e214fa73b5/external-dns/base/values.yaml#L159)
 
 ## Cloudflare Workers
 
