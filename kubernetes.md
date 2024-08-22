@@ -13,6 +13,7 @@
   - [Network Troubleshooting](#network-troubleshooting)
 - [Tips](#tips)
 - [Troubleshooting](#troubleshooting)
+  - [Capture Pod Logs & Stats](#capture-pod-logs--stats)
   - [Killing a Namespace that's stuck](#killing-a-namespace-thats-stuck)
 <!-- INDEX_END -->
 
@@ -162,6 +163,27 @@ Readiness probe failed: calico/node is not ready: BIRD is not ready: Error query
   - compare the name and number to the service you're pointing to
 
 ## Troubleshooting
+
+### Capture Pod Logs & Stats
+
+From [DevOps-Bash-tools](devops-bash-tools.md) repo,
+run `--help` on each script if you need to specify namespace or pod name regex filter:
+
+```shell
+kubectl_pods_dump_stats.sh
+```
+
+```shell
+kubectl_pods_dump_logs.sh
+```
+
+Then tar the local outputs to send:
+
+```shell
+tar czvf "support-bundle-$(date '+%F_%H%M').tar.gz" \
+         "kubectl-pod-stats.$(date '+%F')_"*.txt \
+         "kubectl-pod-log.$(date '+%F')_"*.txt
+```
 
 ### Killing a Namespace that's stuck
 
