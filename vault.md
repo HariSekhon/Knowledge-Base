@@ -78,7 +78,7 @@ Set the following environment variables
 export VAULT_ADDR="https://vault.$MYDOMAIN"
 ```
 
-```
+```shell
 export VAULT_TOKEN=...
 ```
 
