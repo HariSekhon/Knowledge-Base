@@ -34,8 +34,6 @@ I run this automatically in all [my GitHub repos](https://github.com/HariSekhon)
 
 Use `&` prefix anchor to mark a section and `*` to reference to it later in the same YAML to reduce duplication.
 
-
-
 ### Override / Extend - Anchors and References
 
 Prefix the `*<name>` reference with `<<:` to allow you to add more fields underneath it. Same name fields are overridden.
