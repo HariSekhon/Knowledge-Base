@@ -1,6 +1,7 @@
 # Linux
 
 <!-- INDEX_START -->
+
 - [Shell](#shell)
 - [Cron](#cron)
   - [User Crons](#user-crons)
@@ -10,9 +11,10 @@
   - [DHCP](#dhcp)
 - [CGroups](#cgroups)
 - [Disk Management](#disk-management)
+  - [/etc/fstab](#etcfstab)
 - [DRBD](#drbd)
 - [Distributions](#distributions)
-  - [Gentoo](#gentoo)
+
 <!-- INDEX_END -->
 
 ## Shell
