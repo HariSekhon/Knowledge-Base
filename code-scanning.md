@@ -1,8 +1,10 @@
 # Code Scanning
 
 <!-- INDEX_START -->
+
 - [Checkov & Bridgecrew Cloud](#checkov--bridgecrew-cloud)
   - [Bridgecrew Cloud](#bridgecrew-cloud)
+
 <!-- INDEX_END -->
 
 Code scanning includes:
