@@ -39,4 +39,4 @@ working on anything actually needing this knowledge as an IT guy.
 | Credit Default Swap | insurance policy to transfer a loan that's defaulted to the insuring party                                                                                                                                                                                                                                                                      |
 | Chinese Walls       | separation of departments that may have conflict of interest                                                                                                                                                                                                                                                                                    |
 
-###### Ported from private Knowledge Base page 2014+
+**Ported from private Knowledge Base page 2014+**
