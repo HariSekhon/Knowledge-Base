@@ -25,7 +25,7 @@ These often include code coverage as well as best practices for common programmi
 - [CodeClimate](https://codeclimate.com/)
   - Python, Go, Ruby, PHP, Javascript etc.
   - CLI runs engines locally inside Docker
-  - VIM plugin to run CLI - https://docs.codeclimate.com/docs/vim-plugin
+  - VIM plugin to run CLI - <https://docs.codeclimate.com/docs/vim-plugin>
   - see docs/codeclimate
 - [GoReportCard](https://goreportcard.com/) - widely used for Golang projects only
 - QuantifiedCode - Python only, shut down Aug 2016
