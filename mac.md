@@ -12,6 +12,7 @@ performance is still so good you don't notice significant performance degradatio
 heavyweight IDEs like [IntelliJ](intellij.md).
 
 <!-- INDEX_START -->
+
 - [Terminal](#terminal)
 - [Homebrew - Package Management](#homebrew---package-management)
 - [Stats Bar](#stats-bar)
@@ -37,6 +38,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Service Management](#service-management)
 - [Creating Bootable CDs & USBs from ISOs](#creating-bootable-cds--usbs-from-isos)
   - [Other Options](#other-options)
+
 <!-- INDEX_END -->
 
 ## Terminal
