@@ -44,4 +44,4 @@ Then proceed to more advanced content validation.
 
 TODO
 
-###### Ported from private Knowledge Base pages 2016+
+**Ported from private Knowledge Base pages 2016+**
