@@ -3,10 +3,12 @@
 NOT PORTED YET
 
 <!-- INDEX_START -->
+
 - [GitHub SSH Key SSO Authorization](#github-ssh-key-sso-authorization)
 - [CodeOwners](#codeowners)
   - [CodeOwners Gotcha - Secret Teams](#codeowners-gotcha---secret-teams)
 - [GitHub Profile Page](#github-profile-page)
+
 <!-- INDEX_END -->
 
 ## GitHub SSH Key SSO Authorization
