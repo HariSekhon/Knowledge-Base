@@ -544,6 +544,10 @@ Informatica figures this out and the auto-updated agent gets new logic.
 
 **Solution**: actually upgrade the Kubernetes cluster to be one of the supported versions
 
+### Kubernetes - Capture Pod Logs & Stats
+
+See [Kubernetes - Troubleshooting - Capture Pod Logs & Stats](kubernetes.md#capture-pod-logs--stats).
+
 ### Kubernetes - Capture Spark Driver JStack Thread Dump
 
 <https://knowledge.informatica.com/s/article/How-to-Capturing-JStack-Thread-Dumps-from-Kubernetes-Pods-or-Containers?language=en_US>
