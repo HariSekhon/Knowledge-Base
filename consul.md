@@ -568,4 +568,4 @@ Start the agent with the `-ui` argument to enable `:8500/ui` endpoint:
 consul agent -ui
 ```
 
-###### Ported from private Knowledge Base page 2015+
+**Ported from private Knowledge Base page 2015+**
