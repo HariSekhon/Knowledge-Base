@@ -190,4 +190,4 @@ update-grub2
 
 then restart guest.
 
-###### Ported from private Knowledge Base pages 2010+
+**Ported from private Knowledge Base pages 2010+**
