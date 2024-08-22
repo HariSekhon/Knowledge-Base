@@ -50,4 +50,4 @@ If query can be satisfied with it, then it uses HBase.
 
 Otherwise it uses Hive (ROLAP slow).
 
-###### Ported from private Knowledge Base pages 2014+
+**Ported from private Knowledge Base pages 2014+**
