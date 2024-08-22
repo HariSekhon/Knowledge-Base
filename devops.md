@@ -1,8 +1,10 @@
 # DevOps Misc
 
 <!-- INDEX_START -->
+
 - [Misc Tools Pending Reallocation](#misc-tools-pending-reallocation)
 - [DevOps is not entry-level](#devops-is-not-entry-level)
+
 <!-- INDEX_END -->
 
 ## Misc Tools Pending Reallocation
