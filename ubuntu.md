@@ -116,4 +116,4 @@ For building Ubuntu VMs with this config, here are relevant real configs:
 
 [HariSekhon/Packer-templates - ubuntu-x86_64.vbox.pkr.hcl](https://github.com/HariSekhon/Packer-templates/blob/master/ubuntu-x86_64.vbox.pkr.hcl)
 
-###### Ported from private Knowledge Base page 2010+ - should have been from mid 2000s but young guys don't document enough
+**Ported from private Knowledge Base page 2010+ - should have been from mid 2000s but young guys don't document enough**
