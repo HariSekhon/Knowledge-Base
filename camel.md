@@ -7,9 +7,11 @@ Open source integration framework written in Java.
 TODO Book: [Camel in Action](https://www.amazon.co.uk/Camel-Action-Second-Claus-Ibsen/dp/1617292931/)
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Data Formats and Compression](#data-formats-and-compression)
 - [Technology Connectors & Protocols](#technology-connectors--protocols)
+
 <!-- INDEX_END -->
 
 ## Key Points
