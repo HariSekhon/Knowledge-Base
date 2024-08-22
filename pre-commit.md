@@ -9,12 +9,14 @@ See also the [DevOps-Bash-tools](devops-bash-tools.md) repo's
 directory full of generic check scripts.
 
 <!-- INDEX_START -->
+
 - [Install](#install)
   - [Install Git Hooks](#install-git-hooks)
   - [Config](#config)
 - [Run](#run)
 - [Run on changed files in branch](#run-on-changed-files-in-branch)
 - [Update Config Hooks](#update-config-hooks)
+
 <!-- INDEX_END -->
 
 ## Install
