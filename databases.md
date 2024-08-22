@@ -4,12 +4,14 @@ These are mostly [SQL](sql.md) databases of various forms, usually RDBMS or MPP,
 or ACID compliance.
 
 <!-- INDEX_START -->
+
 - [Open Source Databases](#open-source-databases)
   - [Open Source RDBMS](#open-source-rdbms)
   - [Open Source MPP Databases](#open-source-mpp-databases)
   - [Open Source Small Embedded Databases](#open-source-small-embedded-databases)
 - [Cloud Databases](#cloud-databases)
 - [Proprietary / Legacy Databases](#proprietary--legacy-databases)
+
 <!-- INDEX_END -->
 
 ## Open Source Databases
