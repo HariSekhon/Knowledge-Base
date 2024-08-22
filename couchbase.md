@@ -3,6 +3,7 @@
 See also [Memcached](memcached.md) doc.
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
   - [Pricing](#pricing)
   - [Ports](#ports)
@@ -18,6 +19,7 @@ See also [Memcached](memcached.md) doc.
   - [Python API](#python-api)
   - [Key Design](#key-design)
   - [Java SDK](#java-sdk)
+
 <!-- INDEX_END -->
 
 ## Key Points
