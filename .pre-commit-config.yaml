@@ -71,3 +71,7 @@ repos:
         args: [-s, .markdownlint.rb]
         language: ruby
         files: \.(md|mdown|markdown)$
+        # vim.md is hitting this bug:
+        #
+        #   https://github.com/markdownlint/markdownlint/issues/497
+        exclude: ^vim\.md$
