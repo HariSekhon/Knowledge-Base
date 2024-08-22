@@ -1,11 +1,13 @@
 # Codefresh
 
 <!-- INDEX_START -->
+
 - [CLI](#cli)
   - [Install](#install)
   - [Usage](#usage)
   - [Validate Config](#validate-config)
   - [Kubernetes](#kubernetes)
+
 <!-- INDEX_END -->
 
 ## CLI
