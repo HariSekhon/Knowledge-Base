@@ -122,7 +122,7 @@ Or Better - put in a dir and the link to the parcel subdir so it's a quick relin
 ll /usr/lib/sqoop-3rd-party-libs/
 ```
 
-```
+```none
   total 7944
   -rwxr-xr-x. 1 root  root   823551 Jan 16  2013 ifxjdbc.jar
   -rwxr-xr-x. 1 root  root    45038 Jan 16  2013 ifxjdbcx.jar
@@ -240,7 +240,7 @@ Generate keystore:
 hadoop credential create myPwAlias -provider jceks://path/file.jks
 ```
 
-```
+```none
 Enter password:
 Enter password again:
 myPwAlias has been successfully created
@@ -274,7 +274,7 @@ sqoop --options-file /path/file.txt ...
 
 `file.txt`:
 
-```
+```none
 Import
 --connect
 jdbc:mysql://<host>/<db>
@@ -289,7 +289,7 @@ somepassword
 By default sqoop doesn't store passwords in the metastore. To enable password storage, the following configuration has
 to be added to `conf/sqoop-site.xml`:
 
-```
+```properties
 sqoop.metastore.client.record.password = true
 ```
 
