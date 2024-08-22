@@ -5,6 +5,7 @@
 The legendary, mature widely used stable Linux distribution with the best most reliable tenure.
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Package Management](#package-management)
   - [`apt-get` vs `apt` vs `aptitude`](#apt-get-vs-apt-vs-aptitude)
@@ -19,6 +20,7 @@ The legendary, mature widely used stable Linux distribution with the best most r
   - [Preseed Template](#preseed-template)
   - [HashiCorp Packer + Preseed Config](#hashicorp-packer--preseed-config)
 - [Debian Change Log tool](#debian-change-log-tool)
+
 <!-- INDEX_END -->
 
 ## Key Points
