@@ -70,4 +70,4 @@ In the realm in the Keycloak UI:
 - dump out user attribute list from AAD to decide on attributes
 - AAD attributes sync to Keycloak
 
-###### Ported from private Knowledge Base pages 2022+
+**Ported from private Knowledge Base pages 2022+**
