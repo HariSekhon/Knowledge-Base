@@ -2,21 +2,21 @@
 
 <!-- INDEX_START -->
 
-  - [Only SSH to a Remote host using your SSH key](#only-ssh-to-a-remote-host-using-your-ssh-key)
-  - [Use SSH Agent](#use-ssh-agent)
-  - [SSH Config](#ssh-config)
-  - [X Forwarding](#x-forwarding)
-  - [Legacy SSH Servers](#legacy-ssh-servers)
+- [SSH using only publickey](#ssh-using-only-publickey)
+- [Use SSH Agent](#use-ssh-agent)
+- [SSH Config](#ssh-config)
+- [X Forwarding](#x-forwarding)
+- [Legacy SSH Servers](#legacy-ssh-servers)
 
 <!-- INDEX_END -->
 
-### Only SSH to a Remote host using your SSH key
+## SSH using only publickey
 
 ```shell
 ssh -o PreferredAuthentications=publickey ...
 ```
 
-### Use SSH Agent
+## Use SSH Agent
 
 Start ssh-agent and save the output to a file to import into other shells:
 
@@ -42,7 +42,7 @@ List loaded keys:
 ssh-add -l
 ```
 
-### SSH Config
+## SSH Config
 
 Make it fast and easy
 to connect to SSH servers which have long names or only IP addresses without having to remember them:
@@ -72,7 +72,7 @@ Host myhost
 EOF
 ```
 
-### X Forwarding
+## X Forwarding
 
 ```shell
 ssh -X hari@"$HOST"
@@ -84,11 +84,11 @@ cp .Xauthority /root
 virt-manager
 ```
 
-### Legacy SSH Servers
+## Legacy SSH Servers
 
 If you see an error like this when trying to SSH to an older system running an older version of SSH:
 
-```
+```none
 Unable to negotiate with 192.168.1.46 port 22: no matching host key type found. Their offer: ssh-rsa,ssh-dss
 ```
 
