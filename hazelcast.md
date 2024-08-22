@@ -55,4 +55,4 @@ Client only connection not part of cluster memory:
 HazelcastInstance hazelcastInstance = HazelcastClient.newHazelcastClient();
 ```
 
-###### Ported from private Knowledge Base page 2014+
+**Ported from private Knowledge Base page 2014+**
