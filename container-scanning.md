@@ -3,6 +3,7 @@
 Scan for known CVEs from online databases.
 
 <!-- INDEX_START -->
+
 - [Open Source](#open-source)
   - [Trivy](#trivy)
   - [Grype](#grype)
@@ -13,6 +14,7 @@ Scan for known CVEs from online databases.
   - [Tenable.io](#tenableio)
   - [CheckMarx](#checkmarx)
 - [Container Scanning on Jenkins](#container-scanning-on-jenkins)
+
 <!-- INDEX_END -->
 
 ## Open Source
