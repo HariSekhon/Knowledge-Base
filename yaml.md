@@ -11,10 +11,12 @@ Worth a read:
 <https://www.educative.io/blog/advanced-yaml-syntax-cheatsheet>
 
 <!-- INDEX_START -->
+
 - [YAML Linting](#yaml-linting)
 - [Advanced YAML](#advanced-yaml)
   - [Anchors and References](#anchors-and-references)
   - [Override / Extend - Anchors and References](#override--extend---anchors-and-references)
+
 <!-- INDEX_END -->
 
 ## YAML Linting
