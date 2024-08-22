@@ -12,11 +12,13 @@ Not as good quality, easy to use or reliable as Trivy / Grype in my experience,
 see [this issue](https://github.com/quay/clair/issues/1756).
 
 <!-- INDEX_START -->
+
 - [Components](#components)
 - [Container Image](#container-image)
 - [Config](#config)
 - [CLI - ClairCtl](#cli---clairctl)
   - [Install CLI](#install-cli)
+
 <!-- INDEX_END -->
 
 ## Components
