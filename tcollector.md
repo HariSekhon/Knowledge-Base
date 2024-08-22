@@ -42,7 +42,7 @@ TCollector automatically adds the `host=` tag for you.
 
 Stderr goes to `/var/log/tcollector.log`.
 
-#### Readily Available Collectors
+### Readily Available Collectors
 
 Comes with Python scripts in `0/` for:
 
