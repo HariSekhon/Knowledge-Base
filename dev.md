@@ -53,4 +53,4 @@ See [Atlassian](atlassian.md) page.
   - CLI - https://github.com/gemnasium/toolbelt
   - Enterprise on-prem version
 
-###### Ported from private Knowledge Base page 2016+
+**Ported from private Knowledge Base page 2016+**
