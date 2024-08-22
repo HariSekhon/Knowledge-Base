@@ -7,9 +7,11 @@ For JSON basics, read [Wikipedia](https://en.wikipedia.org/wiki/JSON).
 Useful JSON tools:
 
 <!-- INDEX_START -->
+
 - [gron](#gron)
 - [jq](#jq)
 - [jnv](#jnv)
+
 <!-- INDEX_END -->
 
 ## gron
