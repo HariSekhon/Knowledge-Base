@@ -48,7 +48,7 @@ Imports / Exports data tables between SQL DBs and Hadoop.
 
 Here for posterity, may not be up to date.
 
-```
+```properties
 creds="--username hari --password somepassword"
 ```
 
@@ -69,7 +69,7 @@ sqoop import --connect jdbc:mysql://localhost/movielens --table movie --fields-t
 if all `NULL`s in table serialization/termination use Control-A character see
 <http://sqoop.apache.org/docs/1.4.3/SqoopUserGuide.html>:
 
-```
+```none
   --fields-terminated-by '\0001'
 ```
 
@@ -85,19 +85,20 @@ sqoop import-all-tables
 
 Sqoop 1.4.3 in IBM BigInsights 2.1.2 doesn't support `--hive-database`:
 
-```
+```none
   --mapreduce-job-name
   --delete-target-dir
 ```
+
 For ORC support use HCatalog switches.
 
-# 3rd party connectors
+## 3rd party connectors
 
 Only need to be added to machines that launch sqoop job.
 
 Add to `sqoop/conf/managers.d/connectors`:
 
-```
+```properties
 com.cloudera.sqoop.manager.NetezzaManagerFactory=/usr/lib/sqoop-nz-connector-1.1.1/sqoop-nz-connector-1.1.1.jar
 ```
 
@@ -105,13 +106,13 @@ or
 
 Drop 3rd connector jars in one of these depending on RPM vs Parcel deployments:
 
-```
+```none
 /usr/lib/sqoop/lib
 ```
 
 Or
 
-```
+```none
 /opt/cloudera/parcels/CDH/lib/sqoop/lib
 ```
 
@@ -120,6 +121,7 @@ Or Better - put in a dir and the link to the parcel subdir so it's a quick relin
 ```shell
 ll /usr/lib/sqoop-3rd-party-libs/
 ```
+
 ```
   total 7944
   -rwxr-xr-x. 1 root  root   823551 Jan 16  2013 ifxjdbc.jar
@@ -155,13 +157,13 @@ Sqoop add-on which give `sqoop tdimport` and `sqoop tdexport` commands
 
 ### SQL Server
 
-```
+```none
 sqljdbc4.jar
 ```
 
 Sqoop parameters:
 
-```
+```none
   --connect "jdbc:sqlserver://${HOST}:${PORT};database=${DB}"
   --driver com.microsoft.sqlserver.jdbc.SQLServerDriver
 ```
@@ -176,7 +178,7 @@ ojdbc6.jar
 
 Sqoop parameters:
 
-```
+```none
   --connect "jdbc:oracle:thin:@//${HOST}:${PORT}/${DB}"
 ```
 
@@ -184,7 +186,7 @@ Sqoop parameters:
 
 3rd party connector, not the Cloudera connector
 
-```
+```none
   --connect "jdbc:netezza://${HOST}:${PORT}/${DB}"
   --driver  org.netezza.Driver
 ```
@@ -206,7 +208,7 @@ Sqoop parameters:
 There was a total Informix DB outage, which resulted in a misleading error implying incorrect driver / missing sqoop lib
 although the libs were there unchanged the whole time:
 
-```
+```none
 14/01/29 05:04:47 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
 ```
 
@@ -226,7 +228,7 @@ file can be local `file://` or `hdfs://` (default = hdfs)
 chmod 0400 .passwd
 ```
 
-```
+```none
   --password-file ${user.home}/.passwd
 ```
 
@@ -237,6 +239,7 @@ Generate keystore:
 ```shell
 hadoop credential create myPwAlias -provider jceks://path/file.jks
 ```
+
 ```
 Enter password:
 Enter password again:
@@ -270,6 +273,7 @@ sqoop --options-file /path/file.txt ...
 ```
 
 `file.txt`:
+
 ```
 Import
 --connect
@@ -298,9 +302,11 @@ sqoop.metastore.client.autoconnect.url = <--meta-connect url>
 ```shell
 ssh sqoop@metaserver
 ```
+
 ```shell
 nohup sqoop metastore &
 ```
+
 ```shell
 sqoop metastore --shutdown
 ```
@@ -334,10 +340,9 @@ Sqoop import to dynamic partitions via HCatalog.
 
 ## Troubleshooting
 
-```
+```java
 java.io.IOException permission denied org.apache.hadoop.fs.FileSystem.mkdir
 ```
-
 
 Fix - create home directory for `/user/$user` in HDFS.
 
@@ -345,4 +350,4 @@ Fix - create home directory for `/user/$user` in HDFS.
 
 <https://www.dezyre.com/article/sqoop-interview-questions-and-answers-for-2016/274>
 
-###### Ported from private Knowledge Base page 2013
+**Ported from private Knowledge Base page 2013**
