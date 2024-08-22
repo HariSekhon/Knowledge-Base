@@ -84,4 +84,4 @@ clairctl --host "$CLAIR_HOST" report "$DOCKER_IMAGE:$DOCKER_TAG"
 ```
 
 
-###### Ported from private Knowledge Base page 2023+
+**Ported from private Knowledge Base page 2023+**
