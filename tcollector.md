@@ -7,11 +7,13 @@ Client-side metrics collector for OpenTSDB.
 See [OpenTSDB](opentsdb.md) doc first.
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Collectors](#collectors)
   - [Readily Available Collectors](#readily-available-collectors)
 - [Setup](#setup)
 - [Test run TCollector plugins](#test-run-tcollector-plugins)
+
 <!-- INDEX_END -->
 
 ## Key Points
