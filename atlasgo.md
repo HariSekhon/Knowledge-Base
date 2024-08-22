@@ -1,6 +1,6 @@
 # AtlasGo
 
-https://github.com/ariga/atlas
+<https://github.com/ariga/atlas>
 
 Terraform for Database Schemas.
 
@@ -18,7 +18,7 @@ Terraform for Database Schemas.
 
 ## Install
 
-https://atlasgo.io/getting-started
+<https://atlasgo.io/getting-started>
 
 ```shell
 brew install ariga/tap/atlas
@@ -26,7 +26,7 @@ brew install ariga/tap/atlas
 
 ## Inspect
 
-https://atlasgo.io/declarative/inspect
+<https://atlasgo.io/declarative/inspect>
 
 ### HCL
 
@@ -52,11 +52,11 @@ atlas schema inspect -u "$URL" --format '{{ json . }}' | jq .
 
 By copying and pasting to:
 
-https://gh.atlasgo.cloud/explore
+<https://gh.atlasgo.cloud/explore>
 
 ## Apply
 
-https://atlasgo.io/declarative/apply
+<https://atlasgo.io/declarative/apply>
 
 Edit the HCL or SQL file dumped from `schema inspect`, containing the HCL or SQL `CREATE TABLE` statements.
 
@@ -114,4 +114,4 @@ atlas migrate apply \
     --dry-run
 ```
 
-###### Ported from private Knowledge Base page 2023+
+**Ported from private Knowledge Base page 2023+**
