@@ -5,8 +5,10 @@ NOT PORTED YET
 The build file for a docker image.
 
 <!-- INDEX_START -->
+
 - [Template](#template)
 - [Python - Create Smaller Docker Images Using the Builder Pattern](#python---create-smaller-docker-images-using-the-builder-pattern)
+
 <!-- INDEX_END -->
 
 ## Template
