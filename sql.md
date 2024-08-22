@@ -7,9 +7,11 @@ Scripts for [PostgreSQL](postgres.md), [MySQL](mysql.md), AWS Athena and Google 
 [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
 
 <!-- INDEX_START -->
+
 - [SQL Scripts](#sql-scripts)
 - [SQL Clients](#sql-clients)
 - [SQL Joins](#sql-joins)
+
 <!-- INDEX_END -->
 
 ## SQL Clients
