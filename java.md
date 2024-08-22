@@ -65,4 +65,4 @@ Just a jar, no dependency like Scala predef.
 java -jar my.jar
 ```
 
-###### Ported from various private Knowledge Base pages 2010+
+**Ported from various private Knowledge Base pages 2010+**
