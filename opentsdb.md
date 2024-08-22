@@ -5,6 +5,7 @@
 Open Source Time Series Database by StumbleUpon.
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
   - [TSD - Time Series Daemon](#tsd---time-series-daemon)
   - [Tags - case sensitive](#tags---case-sensitive)
@@ -40,6 +41,7 @@ Open Source Time Series Database by StumbleUpon.
   - [Performance Problems](#performance-problems)
 - [Aardvark](#aardvark)
 - [Diagram - OpenTSDB on Kubernetes, over HBase on Hadoop](#diagram---opentsdb-on-kubernetes-over-hbase-on-hadoop)
+
 <!-- INDEX_END -->
 
 ## Key Points
