@@ -86,7 +86,7 @@ jaasLoginRenew=3600000
 
 Pass a JAAS config to ZooKeeper server when starting using this CLI argument:
 
-```
+```none
 -Djava.security.auth.login.config=/path/to/zookeeper_jaas.conf
 ```
 
