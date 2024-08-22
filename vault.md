@@ -82,7 +82,6 @@ export VAULT_ADDR="https://vault.$MYDOMAIN"
 export VAULT_TOKEN=...
 ```
 
-
 ## Local Test Server
 
 Run in RAM without TLS (still encrypts data):
@@ -93,10 +92,9 @@ vault server -dev
 
 Prints out root token + unseal key + `VAULT_ADDR` environment variable.
 
-
 ## Commands
 
-https://developer.hashicorp.com/vault/docs/commands
+<https://developer.hashicorp.com/vault/docs/commands>
 
 ```shell
 vault status
@@ -244,4 +242,4 @@ spec:
 
 or rather [Helm](helm.md) templated out via `values-<env>.yaml`because this is likely to be different per environment.
 
-###### Ported from private Knowledge Base page 2018+
+**Ported from private Knowledge Base page 2018+**
