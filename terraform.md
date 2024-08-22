@@ -6,6 +6,7 @@ Idempotent, queries cloud APIs,
 detects what is missing or has changed and then applies the necessary changes to reconcile.
 
 <!-- INDEX_START -->
+
 - [Install Terraform](#install-terraform)
 - [Terraform Code](#terraform-code)
 - [Running Terraform](#running-terraform)
@@ -14,6 +15,7 @@ detects what is missing or has changed and then applies the necessary changes to
 - [Terragrunt](#terragrunt)
 - [tgswtich](#tgswtich)
 - [Linting & Security](#linting--security)
+
 <!-- INDEX_END -->
 
 ## Install Terraform
