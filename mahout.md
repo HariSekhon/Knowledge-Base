@@ -97,4 +97,4 @@ SIMILARITY_PEARSON_CORRELATION
 user_id [item1:score1, ... itemN:scoreN]
 ```
 
-###### Ported from private Knowledge Base pages 2013+
+**Ported from private Knowledge Base pages 2013+**
