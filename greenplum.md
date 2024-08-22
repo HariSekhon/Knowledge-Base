@@ -3,8 +3,10 @@
 EMC spin off Pivotal for Greenplum + GemFire (in-memory caching system)
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Customers](#customers)
+
 <!-- INDEX_END -->
 
 ## Key Points
