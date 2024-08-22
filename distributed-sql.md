@@ -3,10 +3,12 @@
 SQL based databases that scale horizontally.
 
 <!-- INDEX_START -->
+
 - [Hive](#hive)
 - [Impala](#impala)
 - [Apache Drill](#apache-drill)
 - [CrateDB](#cratedb)
+
 <!-- INDEX_END -->
 
 ## Hive
