@@ -6,6 +6,8 @@ Declarative GitOps Continuous Delivery of applications on Kubernetes.
 
 <!-- INDEX_START -->
 
+- [Key Points](#key-points)
+  - [Components](#components)
 - [Install Quickly](#install-quickly)
 - [Find the ArgoCD default admin password](#find-the-argocd-default-admin-password)
 - [ArgoCD templates](#argocd-templates)
