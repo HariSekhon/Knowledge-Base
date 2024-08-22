@@ -108,4 +108,4 @@ MapR-DB:
 mapr dbshell <<< "list"
 ```
 
-###### Ported from private Knowledge Base pages 2010+
+**Ported from private Knowledge Base pages 2010+**
