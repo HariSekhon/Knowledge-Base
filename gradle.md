@@ -216,4 +216,4 @@ Show tree graph of dependencies for different stages, test:
 gradle dependencies
 ```
 
-###### Ported from private Knowledge Base page 2016+
+**Ported from private Knowledge Base page 2016+**
