@@ -6,12 +6,14 @@ Data Science as well as systems administration.
 It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost [shell scripts](shell.md) more easily.
 
 <!-- INDEX_START -->
+
 - [Core Reading](#core-reading)
 - [DevOps Python  tools](#devops-python--tools)
 - [Shell scripts with Python](#shell-scripts-with-python)
 - [Nagios Plugins in Python](#nagios-plugins-in-python)
 - [Python Library with Unit Tests](#python-library-with-unit-tests)
 - [VirtualEnv](#virtualenv)
+
 <!-- INDEX_END -->
 
 ## Core Reading
