@@ -34,7 +34,7 @@ See also [Memcached](memcached.md) doc.
 
 Couchbase needs more RAM than Docker Machine's Boot2Docker VM has :-/ - use on Mac natively instead:
 
-http://packages.couchbase.com/releases/4.1.0/couchbase-server-enterprise_4.1.0-macos_x86_64.zip
+<http://packages.couchbase.com/releases/4.1.0/couchbase-server-enterprise_4.1.0-macos_x86_64.zip>
 
 - Enterprise - SSL Web UI + Rest API
 - PWs for admin, per bucket, per XDCR connection
@@ -149,19 +149,20 @@ Buckets:
   - at bucket level upon node add/remove/fail
   - replicas promoted to active get a new replica
 
-
 - N1QL (4.0+) - ODBC / JDBC
   - can access MapReduce Views
 
 MapReduce Views (2.0+) - sum, count, stats built-in
+
 - custom
 - REST API callable
-- http://host:8092/$bucket/_design/$doc_key/_view/$function?limit=10
+- <http://host:8092/$bucket/_design/$doc_key/_view/$function?limit=10>
 
 MR Views - design docs with Javascript functions processed by V8 JS Engine (Node.js)
+
 - emits new key + value
 
-```
+```javascript
 function(doc, ??){
   if(doc.sales > 10000){
     emit(doc.city, [doc.name, doc.sales]);
@@ -190,12 +191,15 @@ Nodes contain:
     - can access newer Global + older MR distributed indexes
 
 Independently scalable - allows varying hardware profiles
+
 - different architectures for application workload tuning eg:
-- 1. Stripe across all nodes
-- 2. Isolate to specific nodes
-- 3. Scale independently choosing best hardware for each workload
+
+1. Stripe across all nodes
+1. Isolate to specific nodes
+1. Scale independently choosing best hardware for each workload
 
 Data service:
+
 - tcp binary (fast)
 - Managed Cache
 - Persistence Queue - shared multi-threaded pool
@@ -221,20 +225,24 @@ Data service:
 - Replication - RAM-to-RAM
 
 Node add (UI/Rest) triggers:
+
 - vBuckets rebalanced by incremental transfer of both active + replica docs
 - Cluster Map updated continuously during migration, zero downtime
 
 Node failure - timeout or failure
+
 - replicas promoted (but not re-replicated!! no new replica created to take it's place by default)
 - Cluster Map in clients updated
 - Rebalance optional (but required to trigger replicas to be re-replicated so not really optional)
 - XXX: always run a rebalance after node failure to trigger new replacement replica creation
 
 App Server - SDK client is single logical conn to Couchbase
+
 - multiple pooled conn maintained by Couchbase library
 - cluster topology abstracted by Cluster Map
 
 XDCR:
+
 - RAM-to-RAM inter-cluster replication
 - configurable per bucket
 - single or bi-directional
@@ -246,6 +254,7 @@ XDCR:
 - no-loss auto-recovery if any node fails at either end
 
 Mobule:
+
 - Couchbase Lite:
   - 100% open source
   - mobile lightweight fully functional embedded NoSQL engine
@@ -258,6 +267,7 @@ Mobule:
   - data routing
 
 Connectors:
+
 - Hadoop Sqoop Connector
   - streams keys to HDFS or Hive
   - supports Cloudera + Hortonworks (CDH versions referenced though)
@@ -303,13 +313,13 @@ TODO: Nagios REST API 40 metrics
 
 Backup per-node configuration:
 
-```
+```none
 /opt/couchbase/var/lib/couchbase/config/config.dat
 ```
 
 Data Stored here:
 
-```
+```none
 /opt/couchbase/var/lib/couchbase/data
 ```
 
@@ -324,13 +334,13 @@ Data Stored here:
 
 On Mac:
 
-```
+```none
 /Applications/Couchbase Server.app/Contents/Resources/couchbase-core/bin
 ```
 
 On Linux:
 
-```
+```none
 /opt/couchbase/bin
 /opt/couchbase/bin/install
 /opt/couchbase/bin/tools
@@ -412,7 +422,7 @@ cbepctl
 
 Couchbase 4.0+
 
-http://developer.couchbase.com/documentation/server/4.0/n1ql/n1ql-language-reference/index.html
+<http://developer.couchbase.com/documentation/server/4.0/n1ql/n1ql-language-reference/index.html>
 
 N1QL command interface add dir to `$PATH`:
 
@@ -454,7 +464,7 @@ Selects all docs from `FROM` clause before projecting `SELECT`
 | _          | single char wildcard  |
 | %          | variable wildcard     |
 
-```
+```json
     "results": [
           {...},
           {...}
@@ -469,6 +479,7 @@ Selects all docs from `FROM` clause before projecting `SELECT`
 ```
 
 if you don't use `AS fullname` then it'll set it as `$1`:
+
 ```sql
 SELECT u.firstname || " " || u.lastname AS fullName FROM myBucket AS u LIMIT 1;
 ```
@@ -478,7 +489,8 @@ Same as get() from API - attribs are case sensitive:
 ```sql
 SELECT * FROM myBucket[.attrib][.attrib] USE KEYS "myKey"
 ```
-```
+
+```json
 ["myKey", "myKey2"]
 ```
 
@@ -490,6 +502,7 @@ IS NULL
 
 Find in list of objects/hashes
 <expression>
+
 ```sql
 WHERE ANY x IN <attrib> SATISFIES x.rating > 4 END
 ```
@@ -523,6 +536,7 @@ attrib must match WHERE clause including parent path in query component eg. 'use
 CREATE INDEX <name> AS myBucket(attrib) [ USING GSI|VIEW ] # GSI = default, VIEW = old MR Views
 [ WITH  ... ]
 ```
+
 Index creation is blocking by default - can make async using `WITH` defer build but only works with one at a time
 
 ```sql
@@ -532,13 +546,14 @@ WITH {"defer_build": true}
 Indexes are auto-maintained by Couchbase after creation
 
 Filtered Index - only includes docs where attrib2=blah
+
 - must specify `WHERE attrib2=blah` clause in queries to use this index (WHERE ordering insensitive)
 
 ```sql
 CREATE INDEX <name> AS myBucket(attrib) WHERE attrib2=blah;
 ```
 
-```
+```sql
 explain select ...
 "operator": "PrimaryScan"   <= using primary index (ie not using the index we created)
 "index": "#primary"
@@ -547,7 +562,7 @@ explain select ...
 "operator": "IndexScan"     <= using our secondary index
 "index": "<index_name>"
 
-15 errata submitted http://www.couchbase.com/issues/browse/MB-9840
+15 errata submitted <http://www.couchbase.com/issues/browse/MB-9840>
 
 ### Couchbase presentation at client in 2014
 
@@ -612,7 +627,6 @@ curl -v -X POST -u "$COUCHBASE_USER:$COUCHBASE_PASSWORD" "http://COUCHBASE_SERVE
 - sync or async API
 - supports Reactive model
 
-
 - insert - fails is exists
 - replace - fails if not exists
 - remove - fails if not exists
@@ -633,7 +647,7 @@ Official API
 
 Requires C library otherwise gets compile error:
 
-http://developer.couchbase.com/documentation/server/4.0/sdks/c-2.4/download-install.html#c-download-install
+<http://developer.couchbase.com/documentation/server/4.0/sdks/c-2.4/download-install.html#c-download-install>
 
 ```shell
 wget http://packages.couchbase.com/clients/c/couchbase-csdk-setup
@@ -681,7 +695,8 @@ customer::12345
 
 ### Java SDK
 
-JsonObject is a Map
+JsonObject is a Map:
+
 - JsonDocument = JsonObject + metadata  (std used across all SDKs)
 - use Jackson ObjectMapper or Gson (by Google) for converting Json <=> POJO
 - com.couchbase.client.java.transcoder.stringToJsonObject(jsonString).
