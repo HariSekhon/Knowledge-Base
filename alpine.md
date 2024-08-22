@@ -1,6 +1,6 @@
 # Alpine
 
-https://wiki.alpinelinux.org
+<https://wiki.alpinelinux.org>
 
 Minimal Linux distribution used mainly to create small Docker images.
 
@@ -22,11 +22,11 @@ Replaced `libc` with `musl` core library which sometimes causes problems with pr
 
 ## Package Management
 
-https://wiki.alpinelinux.org/wiki/Alpine_Linux_package_management
+<https://wiki.alpinelinux.org/wiki/Alpine_Linux_package_management>
 
-### Repositories
+## Repositories
 
-```
+```none
 /etc/apk/repositories
 ```
 
@@ -36,7 +36,7 @@ Get the latest package lists:
 apk update
 ```
 
-### Search
+## Search
 
 Search packages for anything with the word "$name" in it:
 
@@ -56,7 +56,7 @@ Show all packages and versions:
 apk search -v
 ```
 
-### Install / Uninstall Packages
+## Install / Uninstall Packages
 
 Install a given package:
 
@@ -84,7 +84,7 @@ Delete the local package list cache:
 apk cache clean
 ```
 
-### Info
+## Info
 
 List packages:
 
@@ -122,7 +122,7 @@ Show all info on package:
 apk info -a "$pkg"
 ```
 
-### Upgrades
+## Upgrades
 
 Upgrade system, all packages:
 
@@ -138,7 +138,7 @@ apk add --upgrade "$pkg"
 
 ### apk-file
 
-https://github.com/genuinetools/apk-file
+<https://github.com/genuinetools/apk-file>
 
 `apt-file` but for Alpine, finds
 
@@ -148,4 +148,4 @@ Go binary that searches which packages contain a given filename.
 docker run --rm -ti jess/apk-file <file>
 ```
 
-###### Ported from private Knowledge Base page 2015+
+**Ported from private Knowledge Base page 2015+**
