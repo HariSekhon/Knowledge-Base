@@ -31,13 +31,13 @@ see [this issue](https://github.com/quay/clair/issues/1756).
 
 ## Container Image
 
-https://quay.io/repository/projectquay/clair
+<https://quay.io/repository/projectquay/clair>
 
 ## Config
 
 See [HariSekhon/Templates clair.yaml](https://github.com/HariSekhon/Templates/blob/master/clair.yaml) for config
 
-```
+```properties
 CLAIR_MODE=combo
 CLAIR_CONF=/path/to/mounted/config.yaml
 ```
@@ -48,14 +48,13 @@ or CLI:
 clair -conf "path/to/config.yaml" -mode "combo"  # indexer / matcher / notifier
 ```
 
-
 ## CLI - ClairCtl
 
-https://quay.github.io/clair/reference/clairctl.html
+<https://quay.github.io/clair/reference/clairctl.html>
 
 Submit manifest to clair using `clairctl`
 
-#### HomeBrew
+### HomeBrew
 
 Installs the clair daemon not `clairctl` - there is no brew package for `clairctl`:
 
@@ -82,6 +81,5 @@ clairctl manifest "$DOCKER_IMAGE:$DOCKER_TAG"
 ```shell
 clairctl --host "$CLAIR_HOST" report "$DOCKER_IMAGE:$DOCKER_TAG"
 ```
-
 
 **Ported from private Knowledge Base page 2023+**
