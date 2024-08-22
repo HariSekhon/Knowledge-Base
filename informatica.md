@@ -697,3 +697,9 @@ On the bastion:
 ```shell
 kubectl port-forward --address 127.0.0.1 "$(kubectl get pods -l spark-role=driver -o name | head -n1)" 4040
 ```
+
+Then browsing to:
+
+<http://localhost:4040/executors/>
+
+and clicking on the Thread Dump links to the far right of each executor line.
