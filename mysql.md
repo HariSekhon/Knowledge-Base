@@ -1,8 +1,10 @@
 # MySQL
 
 <!-- INDEX_START -->
+
 - [SQL Scripts](#sql-scripts)
 - [phpMyAdmin](#phpmyadmin)
+
 <!-- INDEX_END -->
 
 ## SQL Scripts
