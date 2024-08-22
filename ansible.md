@@ -3,6 +3,7 @@
 [Official Documentation](https://docs.ansible.com/ansible/latest/getting_started/index.html)
 
 <!-- INDEX_START -->
+
 - [Inventory](#inventory)
 - [Ansible Config](#ansible-config)
 - [Syntax Check Playbook](#syntax-check-playbook)
@@ -11,6 +12,7 @@
 - [GCP](#gcp)
   - [IAP Performance](#iap-performance)
 - [Performance](#performance)
+
 <!-- INDEX_END -->
 
 ## Inventory
