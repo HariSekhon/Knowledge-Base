@@ -77,8 +77,8 @@ bin/camus -run -D schema.registry.url=http://host:8081 -P etc/camus/camus.proper
 
 JVM settings (from Confluent deployment doc)
 
-```
+```none
 -Xms1g -Xmx1g -XX:PermSize=48m -XX:MaxPermSize=48m -XX:+UseG1GC -XX:MaxGCPauseMillis=20 -XX:InitializingHeapOccupancyPercent=35
 ```
 
-##### Ported from private knowledge base page 2016+
+**Ported from private knowledge base page 2016+**
