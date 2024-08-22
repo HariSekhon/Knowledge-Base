@@ -17,4 +17,4 @@ Generate static HTML pages from code or markdown. Jekyll is an obvious example, 
 
 List of SSGs:
 
-- https://jamstack.org/generators/
+- <https://jamstack.org/generators/>
