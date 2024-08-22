@@ -7,11 +7,13 @@
 Markdown is expected in top-level `docs/` dir, with `docs/index.md` being the home page.
 
 <!-- INDEX_START -->
+
   - [Install](#install)
   - [Template](#template)
   - [Build](#build)
   - [Preview Locally](#preview-locally)
   - [MkDocs Gotchas](#mkdocs-gotchas)
+
 <!-- INDEX_END -->
 
 ### Install
