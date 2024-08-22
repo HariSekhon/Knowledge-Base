@@ -11,9 +11,11 @@ Free certs provided by LetsEncrypt CA integration.
 ACME - Automated Certificate Management Environment.
 
 <!-- INDEX_START -->
+
 - [Config](#config)
 - [DNS Integration Secret](#dns-integration-secret)
 - [Troubleshooting](#troubleshooting)
+
 <!-- INDEX_END -->
 
 ## Config
