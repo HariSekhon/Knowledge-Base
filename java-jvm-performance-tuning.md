@@ -1,6 +1,7 @@
 # Java JVM Performance Tuning
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Read up on JVM Garbage Collection Basics First](#read-up-on-jvm-garbage-collection-basics-first)
 - [Don't make the Java Heaps too big](#dont-make-the-java-heaps-too-big)
@@ -11,6 +12,7 @@
 - [Add Verbose GC logging so you can investigate and debug GC Pauses](#add-verbose-gc-logging-so-you-can-investigate-and-debug-gc-pauses)
 - [OutOfMemory restart](#outofmemory-restart)
 - [HBase Diagram Example of an application that needs such tuning](#hbase-diagram-example-of-an-application-that-needs-such-tuning)
+
 <!-- INDEX_END -->
 
 ## Key Points
