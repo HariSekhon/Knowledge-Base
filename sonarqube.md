@@ -155,4 +155,4 @@ sonar-scanner
 
 Now see SonarQube dashboard.
 
-###### Ported from private Knowledge Base page 2016+
+**Ported from private Knowledge Base page 2016+**
