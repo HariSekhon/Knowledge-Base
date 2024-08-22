@@ -6,9 +6,11 @@ to what [tfenv](tfenv.md) does for Terraform.
 This is more recently updated than [tgenv](https://github.com/cunymatthieu/tgenv).
 
 <!-- INDEX_START -->
+
 - [Install](#install)
 - [Usage](#usage)
   - [`.terragrunt-version`](#terragrunt-version)
+
 <!-- INDEX_END -->
 
 ## Install
