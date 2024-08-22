@@ -200,6 +200,7 @@ Click `+` tab to add metric to existing graph.
 - `ms` takes twice as much storage even though epoch only goes from 10 => 13 digits (`ms` gives 3 milliseconds `.SSS`)
 
 Appends (2.2+) - avoids queue of rows to compact each hour, costs more HBase CPU + HDFS traffic
+
 - dups out of order will be repaired + rewritten to HBase if `repair_appends` configured but this will will slow down
   queries: `tsd.storage.repair_appends = true`
 
@@ -221,7 +222,6 @@ put <metric> <tstamp> <value> <tagk1>=<tagv1>[ <tagk2>=<tagv2> ...]\n
 ## TCollector - Metrics Agent
 
 See [TCollector](tcollector.md) doc.
-
 
 - tsdrain.py - telnet PUT received only, no HTTP API support
   - collects metrics if HBase is down for maintenance, then sends commands to OpenTSDB when it's back up
@@ -423,18 +423,18 @@ cf 't'
 Performance problems at a client in Oslo, Norway:
 
 1. regions not splitting + rebalancing
-   - classic case of row key schema design hotspotting,
-   - might be caused by metric + tag UID combinations having low cardinality, effectively data skew, various methods for mitigating this
-   - 2GB data => filling 10 x 6TB disks on same server (HBase bug)
+  - classic case of row key schema design hotspotting,
+  - might be caused by metric + tag UID combinations having low cardinality, effectively data skew, various methods for mitigating this
+  - 2GB data => filling 10 x 6TB disks on same server (HBase bug)
 
 1. splitting regions manually, regions didn't migrate to other servers
-   - figure out where to split the partitions, can write a program (Spark) to determine the key distribution
+  - figure out where to split the partitions, can write a program (Spark) to determine the key distribution
 
 1. OpenTSDB bulk importer gets `RegionTooBusyException` from HBase:
-   - memstore sizing
-   - dfs replication since it chains, can block memstore
-   - was not Major compaction issue
-   - caused by data skew
+  - memstore sizing
+  - dfs replication since it chains, can block memstore
+  - was not Major compaction issue
+  - caused by data skew
 
 ### Performance Problems
 
@@ -460,4 +460,5 @@ Can just use OpenTSDB's UI and autocomplete metric names.
 
 ![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/opentsdb_kubernetes_hbase.svg)
 
-###### Partial port from private Knowledge Base page 2016+
+<br><br>
+**Partial port from private Knowledge Base page 2016**
