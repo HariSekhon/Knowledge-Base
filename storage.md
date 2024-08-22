@@ -1,6 +1,7 @@
 # Storage
 
 <!-- INDEX_START -->
+
 - [Disks](#disks)
   - [HDD - Hard Disk Drive](#hdd---hard-disk-drive)
   - [SSD - Sold State Drive](#ssd---sold-state-drive)
@@ -28,6 +29,7 @@
 - [Ceph](#ceph)
 - [Hedvig](#hedvig)
 - [Dell EqualLogic](#dell-equallogic)
+
 <!-- INDEX_END -->
 
 ## Disks
