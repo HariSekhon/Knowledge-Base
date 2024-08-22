@@ -5,8 +5,10 @@ This is a locally installable Kubernetes distribution bundling [k3s](k3s.md) and
 https://docs.rke2.io/
 
 <!-- INDEX_START -->
+
   - [RKE2 Versions vs Kubernetes Versions](#rke2-versions-vs-kubernetes-versions)
   - [CLI - Kubectl Kubeconfig](#cli---kubectl-kubeconfig)
+
 <!-- INDEX_END -->
 
 ### RKE2 Versions vs Kubernetes Versions
