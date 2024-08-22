@@ -3,6 +3,10 @@
 NOT PORTED YET
 
 <!-- INDEX_START -->
+
+- [Troubleshooting](#troubleshooting)
+  - [JStack Thread Dumps](#jstack-thread-dumps)
+
 <!-- INDEX_END -->
 
 ## Troubleshooting
