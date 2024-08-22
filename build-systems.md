@@ -1,6 +1,7 @@
 # Build Systems
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Make](#make)
 - [Maven](#maven)
@@ -8,6 +9,7 @@
 - [Sbt](#sbt)
 - [Bazel](#bazel)
   - [Install](#install)
+
 <!-- INDEX_END -->
 
 ## Key Points
