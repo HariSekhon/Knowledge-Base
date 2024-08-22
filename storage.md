@@ -259,7 +259,7 @@ docker run --rm -p 9000:9000 minio/minio server /data \
            -e MINIO_SECRET_KEY=MySecretKey
 ```
 
-Then browse to http://docker:9000 for a nice MinIO web UI.
+Then browse to <http://docker:9000> for a nice MinIO web UI.
 
 Get interactive shell with `mc` client:
 
@@ -269,7 +269,7 @@ docker run -ti --entrypoint=/bin/sh minio/mc
 
 ## Ceph
 
-https://ceph.io
+<https://ceph.io>
 
 Open source distributed software storage.
 
@@ -325,4 +325,4 @@ iSCSI storage [SAN](#san---storage-area-network) appliance.
   - Can't have separate JBOD disks in the array because of the single RAID level
   - Lead time 2 week delivery
 
-###### Ported from private Knowledge Base page 2010+ - worked on storage systems since 2005 but young guys don't document enough, so these are late notes
+**Ported from private Knowledge Base page 2010+ - worked on storage systems since 2005 but young guys don't document enough, so these are late notes**
