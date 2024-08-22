@@ -6,28 +6,27 @@ Tableau is a widely used visualization tool.
 
 <!-- INDEX_START -->
 
-  - [Tableau User Authentication](#tableau-user-authentication)
-  - [SSH Config](#ssh-config)
-  - [On the Tableau Server](#on-the-tableau-server)
+- [Tableau User Authentication](#tableau-user-authentication)
+- [SSH Config](#ssh-config)
+- [On the Tableau Server](#on-the-tableau-server)
 - [Troubleshooting](#troubleshooting)
   - [Disk Space](#disk-space)
   - [Unable to proceed because of an error from the data source / Unable to connect to the Tableau Data Extract Server ""](#unable-to-proceed-because-of-an-error-from-the-data-source--unable-to-connect-to-the-tableau-data-extract-server-)
 
 <!-- INDEX_END -->
 
-### Tableau User Authentication
+## Tableau User Authentication
 
 Can use LDAP integration.
 
 Often this will use your short form username of first letter of first name followed by surname,
 all lower case eg. for Hari Sekhon the username will be `hsekhon`.
 
-
 | Admin UI Port |
 |---------------|
 | 8850          |
 
-### SSH Config
+## SSH Config
 
 Add this SSH config block to your `~/.ssh/config` to make SSH connections easier:
 
@@ -48,7 +47,7 @@ then you can use the shortened SSH form of just:
 ssh tableau
 ```
 
-### On the Tableau Server
+## Tableau Server Administration
 
 ```shell
 sudo su - tableauadmin
@@ -60,7 +59,7 @@ tsm status
 
 output should look like:
 
-```
+```none
 Status: RUNNING
 ```
 
