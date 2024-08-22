@@ -3,11 +3,13 @@
 NOT PORTED YET
 
 <!-- INDEX_START -->
+
 - [DevOps Bash tools for Azure, AKS, VMs etc](#devops-bash-tools-for-azure-aks-vms-etc)
 - [Install Azure CLI](#install-azure-cli)
 - [Set up access to AKS - Azure Kubernetes Service](#set-up-access-to-aks---azure-kubernetes-service)
 - [VMs](#vms)
 - [Data](#data)
+
 <!-- INDEX_END -->
 
 ## DevOps Bash tools for Azure, AKS, VMs etc
