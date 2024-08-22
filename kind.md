@@ -74,4 +74,4 @@ kind export logs  # ./somedir
 Exported logs to: /tmp/396758314
 ```
 
-###### Ported from private Knowledge Base pages 2023+
+**Ported from private Knowledge Base pages 2023+**
