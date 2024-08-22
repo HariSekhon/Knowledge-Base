@@ -5,6 +5,7 @@
 Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing and templating capabilities.
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Install](#install)
 - [Terragrunt Template](#terragrunt-template)
@@ -21,6 +22,7 @@ Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing an
 - [Terragrunt Debugging](#terragrunt-debugging)
 - [tgswitch](#tgswitch)
 - [Terragrunt Troubleshooting](#terragrunt-troubleshooting)
+
 <!-- INDEX_END -->
 
 ## Key Points
