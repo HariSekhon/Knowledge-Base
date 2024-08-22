@@ -3,6 +3,7 @@
 NOT PORTED YET
 
 <!-- INDEX_START -->
+
 - [DevOps Bash tools for AWS, EKS, EC2 etc](#devops-bash-tools-for-aws-eks-ec2-etc)
 - [Install AWS CLI](#install-aws-cli)
 - [Set up access to EKS - Elastic Kubernetes Services](#set-up-access-to-eks---elastic-kubernetes-services)
@@ -26,6 +27,7 @@ NOT PORTED YET
   - [RDS Write Stops Working due to Status `Storage Full`](#rds-write-stops-working-due-to-status-storage-full)
   - [EKS Spot - App fails to connect to DB due to race condition with Vault pod not being up yet](#eks-spot---app-fails-to-connect-to-db-due-to-race-condition-with-vault-pod-not-being-up-yet)
   - [EC2 Disk Mount Recovery](#ec2-disk-mount-recovery)
+
 <!-- INDEX_END -->
 
 ## DevOps Bash tools for AWS, EKS, EC2 etc
