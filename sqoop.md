@@ -289,8 +289,9 @@ somepassword
 By default sqoop doesn't store passwords in the metastore. To enable password storage, the following configuration has
 to be added to `conf/sqoop-site.xml`:
 
-```properties
-sqoop.metastore.client.record.password = true
+```xml
+<name>sqoop.metastore.client.record.password</name>
+<value>true</value>
 ```
 
 Similarly, `--meta-connect` can be omitted by adding the following to the `conf/sqoop-site.xml` file:
