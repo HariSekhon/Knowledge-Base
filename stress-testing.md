@@ -8,7 +8,7 @@ This is useful to burn in hardware to avoid early stage production failures, lea
 
 <!-- INDEX_START -->
 
-  - [Things you want to stress](#things-you-want-to-stress)
+- [Things you want to stress](#things-you-want-to-stress)
 - [Apache Bench](#apache-bench)
 - [Siege](#siege)
 - [Hey](#hey)
@@ -20,7 +20,7 @@ This is useful to burn in hardware to avoid early stage production failures, lea
 
 <!-- INDEX_END -->
 
-### Things you want to stress
+## Things you want to stress
 
 - CPU
 - Ram
@@ -70,11 +70,11 @@ Send 1000 requests from 10 concurrent threads:
 hey -n 1000 -c 10 "$URL"
 ```
 
-https://github.com/ddosify/ddosify
+<https://github.com/ddosify/ddosify>
 
 ## JMeter
 
-https://jmeter.apache.org/
+<https://jmeter.apache.org/>
 
 Mature battle tested Testing IDE written in Java.
 
@@ -87,11 +87,11 @@ GUI and CLI modes. Non-trivial, you will need to RTFM.
 
 Managed service like JMeter.
 
-https://www.blazemeter.com/pricing/
+<https://www.blazemeter.com/pricing/>
 
 ## K6 by Grafana Labs
 
-https://k6.io/
+<https://k6.io/>
 
 [HariSekhon/Templates - k6.js](https://github.com/HariSekhon/Templates/blob/master/k6.js)
 
@@ -126,4 +126,4 @@ mvn package
 bin/ycsb --help
 ```
 
-###### Ported from private Knowledge Base page 2010+
+**Ported from private Knowledge Base page 2010+**
