@@ -95,4 +95,4 @@ curl -s https://raw.githubusercontent.com/cloudera/kudu-examples/master/demo-vm-
 
 demo/demo
 
-###### Ported from private Knowledge Base pages 2016+
+**Ported from private Knowledge Base pages 2016+**
