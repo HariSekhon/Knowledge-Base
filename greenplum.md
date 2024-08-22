@@ -49,4 +49,4 @@ EMC spin off Pivotal for Greenplum + GemFire (in-memory caching system)
 - Telcos in Asia
 - Ali Baba - Greenplum open source non-commercial, packaging it themselves (9PB)
 
-###### Ported from various private Knowledge Base pages 2016+
+**Ported from various private Knowledge Base pages 2016+**
