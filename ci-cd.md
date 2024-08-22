@@ -302,4 +302,4 @@ functionality and code reuse.
 
 See [Code Quality](code-quality.md).
 
-###### Ported from private Knowledge Base page 2014+
+**Ported from private Knowledge Base page 2014+**
