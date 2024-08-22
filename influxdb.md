@@ -16,4 +16,4 @@ Port 8888
 
 Explore Data - GUI functions generate InfluxQL statement at top
 
-###### Ported from various private Knowledge Base pages 2016+
+**Ported from various private Knowledge Base pages 2016+**
