@@ -183,4 +183,4 @@ sudo cat /etc/rancher/k3s/k3s.yaml | sed "s/127.0.0.1/$YOUR_LB_IP_TO_K3S_MASTERS
 /usr/local/bin/k3s-killall.sh
 ```
 
-###### Ported from private Knowledge Base page 2019+
+**Ported from private Knowledge Base page 2019+**
