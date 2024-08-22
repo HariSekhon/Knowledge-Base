@@ -594,4 +594,4 @@ Burn CD - insert blank CD then:
 hdiutil burn "$ISO"
 ```
 
-###### Ported from various private Knowledge Base pages 2010+
+**Ported from various private Knowledge Base pages 2010+**
