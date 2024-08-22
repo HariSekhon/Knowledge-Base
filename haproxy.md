@@ -8,6 +8,7 @@ Open source software Load Balancer.
 - HA - combine with VRRP daemon `keepalived` for IP failover, faster than Heartbeat, more seamless
 
 <!-- INDEX_START -->
+
 - [Commercial Appliance](#commercial-appliance)
 - [HAProxy Configs](#haproxy-configs)
 - [Affinity vs Persistence](#affinity-vs-persistence)
@@ -27,6 +28,7 @@ Open source software Load Balancer.
   - [Stick Tables](#stick-tables)
 - [Alert Emails](#alert-emails)
 - [Variables](#variables)
+
 <!-- INDEX_END -->
 
 ## Commercial Appliance
