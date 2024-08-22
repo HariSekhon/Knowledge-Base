@@ -3,6 +3,7 @@
 Resolves hostnames and fully qualified domain names (FQDNs) to IP addresses.
 
 <!-- INDEX_START -->
+
 - [Ports](#ports)
 - [DNS Server Software](#dns-server-software)
   - [Lab DNS - Create FQDNs with embedded IP addresses](#lab-dns---create-fqdns-with-embedded-ip-addresses)
@@ -12,6 +13,7 @@ Resolves hostnames and fully qualified domain names (FQDNs) to IP addresses.
 - [DNSmasq on macOS](#dnsmasq-on-macos)
 - [DNSMasq on RHEL7](#dnsmasq-on-rhel7)
 - [DDNS - Dynamic DNS](#ddns---dynamic-dns)
+
 <!-- INDEX_END -->
 
 ## Ports
