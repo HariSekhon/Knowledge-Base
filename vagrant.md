@@ -110,7 +110,7 @@ Networking is done via SSH commands, just make sure to not `require_tty` in `/et
 
 Problem nanifests as:
 
-```
+```none
 The following SSH command responded with a non-zero exit status.
 Vagrant assumes that this means the command failed!
 
