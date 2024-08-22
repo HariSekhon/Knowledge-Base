@@ -5,6 +5,7 @@
 Self-hosted enterprise Dev environments.
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Coder CLI](#coder-cli)
   - [Install CLI](#install-cli)
@@ -13,6 +14,7 @@ Self-hosted enterprise Dev environments.
   - [Configure SSH](#configure-ssh)
 - [Disabling SSH](#disabling-ssh)
   - [Beware Upgrade Issues](#beware-upgrade-issues)
+
 <!-- INDEX_END -->
 
 ## Key Points
