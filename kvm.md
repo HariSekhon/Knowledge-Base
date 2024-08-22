@@ -1,9 +1,11 @@
 # KVM Virtualization
 
 <!-- INDEX_START -->
+
 - [GUI](#gui)
 - [CLI](#cli)
 - [Console](#console)
+
 <!-- INDEX_END -->
 
 ## GUI
