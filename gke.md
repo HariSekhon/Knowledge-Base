@@ -33,4 +33,4 @@ kubectl get nodes
 gcloud container clusters delete <name>
 ```
 
-###### Ported from private Knowledge Base page 2018+
+**Ported from private Knowledge Base page 2018+**
