@@ -1,6 +1,7 @@
 # Kubernetes
 
 <!-- INDEX_START -->
+
 - [Local Dev](#local-dev)
 - [Cloud](#cloud)
 - [On Premise](#on-premise)
@@ -15,6 +16,7 @@
 - [Troubleshooting](#troubleshooting)
   - [Capture Pod Logs & Stats](#capture-pod-logs--stats)
   - [Killing a Namespace that's stuck](#killing-a-namespace-thats-stuck)
+
 <!-- INDEX_END -->
 
 ## Local Dev
