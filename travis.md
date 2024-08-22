@@ -43,7 +43,7 @@ wget -nc -O https://raw.githubusercontent.com/HariSekhon/Templates/master/.travi
 
 Paste `.travis.yml` config in this online validator to see parsing and job matrix:
 
-https://config.travis-ci.com/explore
+<https://config.travis-ci.com/explore>
 
 ### Desktop Menu Notifications
 
@@ -54,9 +54,10 @@ https://config.travis-ci.com/explore
 
 Here is the URL for the above desktop notifiation tools
 
-```
+```none
 https://api.travis-ci.org/repos/<owner>/<repo>/cc.xml
 ```
+
 Returns empty json `{}` if it doesn't find the repo
 
 Config I used for CCMenu on Mac for several years to monitor my GitHub repos:
@@ -75,7 +76,6 @@ wget -nc -O ~/Library/Containers/net.sourceforge.cruisecontrol.CCMenu/Data/Libra
 Follow the [install doc](https://github.com/travis-ci/travis.rb#installation) or paste this to run an automated install script
 which auto-detects and handles Mac or Linux:
 
-
 ```shell
 git clone https://github.com/HariSekhon/DevOps-Bash-tools
 ```
@@ -89,7 +89,6 @@ OR manually:
 ```shell
 gem install travis --no-rdoc --no-ri
 ```
-
 
 ```shell
 travis login
@@ -148,6 +147,7 @@ travis monitor -r <repo1> -r <repo2>
 | -m     | notify desktop |
 
 Left hand pan recent repo statuses:
+
 ```shell
 travis whatsup
 ```
@@ -157,6 +157,7 @@ travis history
 ```
 
 Create `.travis.yml` template for given lang:
+
 ```shell
 travis init <lang>
 ```
@@ -178,6 +179,7 @@ repository not known to https://api.travis-ci.org/: harisekhon/nagios-plugins
 ```
 
 in local checkout's `.git/config`:
+
 ```
 [travis]
     slug = HariSekhon/nagios-plugins
@@ -210,10 +212,13 @@ Hangs so don't run in foreground:
 ```shell
 docker run -d -p 2222; 22 --name travis-${TRAVIS_LANGUAGE} quay.io/travisci/travis-${TRAVIS_LANGUAGE}
 ```
+
 ```shell
 ssh -p 2222 travis@$HOST # pw travis
 ```
+
 or
+
 ```shell
 docker exec travis-${TRAVIS_LANGUAGE}
 su - travis
@@ -227,11 +232,15 @@ Username + Password for GitHub:
 
 ```shell
 travis login --org --auto
+```
+
+```shell
 travis token --org
 ```
 
 This should be the last bit of the url, eg.
-```
+
+```none
 https://travis-ci.org/HariSekhon/nagios-plugin-kafka/jobs/144678953
 ```
 
@@ -264,6 +273,7 @@ Preparing debug sessions.
 Use the following SSH command to access the interactive debugging environment:
 ssh <login_token>@ny2.tmate.io
 ```
+
 SSH to the given address on the last line.
 
 ### Debug Automation
@@ -276,4 +286,4 @@ From [DevOps-Python-tools](devops-python-tools.md) repo:
 - [travis_last_log.py](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/travis_last_log.py)
   - automates fetching the last running / completed / failed build log from Travis CI via the Travis API
 
-###### Ported from private Knowledge Base page 2014+
+**Ported from private Knowledge Base page 2014+**
