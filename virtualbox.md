@@ -38,7 +38,6 @@ VBoxManage --help
 VBoxManage metrics list
 ```
 
-
 ## DHCP
 
 ```shell
@@ -74,8 +73,10 @@ VBoxManage startvm "default"
 ```shell
 cat /etc/resolv.conf
 ```
+
 output shows the VBox NAT DNS address:
-```
+
+```none
 nameserver 10.0.2.3
 ```
 
@@ -96,6 +97,7 @@ To install, either:
 Then run the installer file inside the VM where the guest additions virtual CD is mounted (`/mnt/VBoxLinuxAdditions.run`).
 
 Broken on newer Ubuntu 14, may need to upgrade VirtualBox but this will break Vagrant:
+
 ```shell
 if which yum; then
   yum install -y make gcc kernel-headers-`uname -r` kernel-devel-`uname -r`
@@ -129,6 +131,7 @@ Start VirtualBox Guest Additions service if not already started:
 ps -ef | grep -i vbo[x] || /etc/init.d/vboxadd-service start
 ```
 
+```shell
 /etc/init.d/vboxadd-service status
 ```
 
@@ -137,6 +140,7 @@ ps -ef | grep -i vbo[x] || /etc/init.d/vboxadd-service start
 ```shell
 VBoxManage internalcommands createrawvmdk -filename usb.vmdk -rawdisk /dev/disk2
 ```
+
 then add vmdk to VM storage controller in VirtualBox GUI settings.
 
 ## Reclaim Disk Space
@@ -218,30 +222,50 @@ OR
 - 40GB thin provision storage, leave swap partition
 - leave swap partition it's more space friendly in thin provisioned disks than dd if=/dev/zero of=/swapfile
 
-```shell
-yum install -y bind-utils mlocate parted traceroute wget dstat ethtool iputils lsof sysstat tcpdump vim-enhanced &&
-yum update -y kernel && # because old kernel-headers may not be available so update kernel
-reboot
+Old kernel-headers may not be available so update kernel:
 
-## Root Keys, Networking etc
+```shell
+yum install -y bind-utils \
+               dstat \
+               ethtool \
+               iputils \
+               lsof \
+               mlocate \
+               parted \
+               sysstat \
+               tcpdump \
+               traceroute \
+               wget \
+               vim-enhanced &&
+yum update -y kernel &&
+reboot
+```
+
+### Root Keys & Networking
 
 On RHEL5 this is `60-net.rules`:
 
 ```shell
 rm -vf /etc/udev/rules.d/70-persistent-net.rules
+
 mkdir -v /etc/udev/rules.d/70-persistent-net.rules # to prevent it being recreated
+
 # rm -vf /etc/ssh/ssh_host_*
 
 mkdir /vagrant
 mkdir /root/.ssh
+
 mount -t vboxsf v-root /vagrant
+
 cp /vagrant/id_rsa.pub /root/.ssh/authorized_keys
+
 chown -R root:root /root/.ssh
 chmod 0700 /root/.ssh
 chmod 0600 /root/.ssh/authorized_keys
 
 service NetworkManager stop
 chkconfig NetworkManager off
+
 if ! [ -f /etc/sysconfig/network-scripts/ifcfg-eth0 ]; then
   echo GATEWAY=10.0.2.2 >> /etc/sysconfig/network
   perl -pi -e 's/^HOSTNAME=/HOSTNAME=training-ml-template' /etc/sysconfig/network
@@ -253,6 +277,7 @@ if ! [ -f /etc/sysconfig/network-scripts/ifcfg-eth0 ]; then
   NAME=eth0
 EOF
 fi
+
 service network restart
 ```
 
@@ -273,6 +298,7 @@ VirtualBox -> Preferences -> Network -> add Host-only Network vboxnet0
 ```
 
 `VBOX_E_INVALID_OBJECT_STATE` when trying to do:
+
 ```shell
 vm_name="Hortonworks Sandbox 2.0"
 VBoxManage showvminfo  $vm_name
@@ -301,4 +327,4 @@ None of that worked - it turns out there was a pop-up window still open behind o
 
 Beware upgrading VirtualBox may break your existing VMs containing versions of virtualbox guest additions.
 
-###### Ported from private Knowledge Base page 2013+
+**Ported from private Knowledge Base page 2013+**
