@@ -5,6 +5,7 @@
 Lightweight application containers containing app + all dependencies.
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Docker on Ubuntu](#docker-on-ubuntu)
 - [Volumes](#volumes)
@@ -38,6 +39,7 @@ Lightweight application containers containing app + all dependencies.
   - [DNS Issues](#dns-issues)
   - [Elasticsearch 5.0 Docker error](#elasticsearch-50-docker-error)
   - [Slow `COPY` during build on Windows](#slow-copy-during-build-on-windows)
+
 <!-- INDEX_END -->
 
 ## Key Points
