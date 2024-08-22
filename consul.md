@@ -1,6 +1,7 @@
 # Consul
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Ports](#ports)
 - [Consul vs ZooKeeper / Doozerd / SkyDNS / SmartStack](#consul-vs-zookeeper--doozerd--skydns--smartstack)
@@ -18,6 +19,7 @@
 - [Health Checks](#health-checks)
 - [Key Value Store](#key-value-store)
 - [UI](#ui)
+
 <!-- INDEX_END -->
 
 ## Key Points
