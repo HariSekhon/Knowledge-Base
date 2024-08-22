@@ -1,19 +1,8 @@
 # ArgoCD
 
-https://argo-cd.readthedocs.io/en/stable/
+<https://argo-cd.readthedocs.io/en/stable/>
 
 Declarative GitOps Continuous Delivery of applications on Kubernetes.
-
-- Good UI
-- Kubernetes native - everything is defined in k8s yamls via CRDs so easy to
-  [GitOps ArgoCD itself](#gitops-argocd-itself)
-- Can manage multiple Kubernetes clusters (although you might want to split this for scaling)
-- Project and Applications configurations must be installed to the `argocd` namespace for ArgoCD to pick them up
-- Sync only detects / replaces parts that are different from the manifests in Git
-  - if you add / change a field that is not in the Git manifests then ArgoCD won't change it as it doesn't change the entire object
-- Projects restrict Git source, destination cluster + namespace, permissions
-- Applications in project deploy k8s manifests from Git repo
-- Active community
 
 <!-- INDEX_START -->
 
@@ -43,7 +32,20 @@ Declarative GitOps Continuous Delivery of applications on Kubernetes.
 
 <!-- INDEX_END -->
 
-#### Components
+## Key Points
+
+- Good UI
+- Kubernetes native - everything is defined in k8s yamls via CRDs so easy to
+  [GitOps ArgoCD itself](#gitops-argocd-itself)
+- Can manage multiple Kubernetes clusters (although you might want to split this for scaling)
+- Project and Applications configurations must be installed to the `argocd` namespace for ArgoCD to pick them up
+- Sync only detects / replaces parts that are different from the manifests in Git
+  - if you add / change a field that is not in the Git manifests then ArgoCD won't change it as it doesn't change the entire object
+- Projects restrict Git source, destination cluster + namespace, permissions
+- Applications in project deploy k8s manifests from Git repo
+- Active community
+
+### Components
 
 - `argocd-server` - API server & UI
 - `argocd-application-controller` - monitors live k8s vs repo
@@ -264,7 +266,6 @@ It's not necessary to expose this in Git as ArgoCD self-management won't strip o
 
 [Official Doc - Google auth](https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/google/#openid-connect-using-dex)
 
-
 ### Troubleshooting GCP Auth
 
 #### Getting immediately kicked back out when clicking the `Log in via Google` button
@@ -275,7 +276,7 @@ kubectl logs -f -n argocd deploy/argocd-server
 
 If you see this:
 
-```
+```none
 level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Get grpc.service=cluster.SettingsService grpc.start_time="2024-03-02T01:41:21Z" grpc.time_ms=100.663 span.kind=server system=grpc
 ```
 
@@ -297,7 +298,7 @@ kubectl logs -f -n argocd deploy/argocd-server
 
 If you see this error:
 
-```
+```none
 level=warning msg="Failed to verify token: failed to verify token: Failed to query provider
 \"https://argocd-production.domain.co.uk/api/dex\": Get \"https://argocd-production.domain.co.uk/api/dex/.well-known/openid-configuration\": dial tcp 10.x.x.x:443: i/o timeout"
 ```
@@ -392,4 +393,4 @@ kubectl exec -ti -n argocd "$pod" -- sh -c 'rm -rf /tmp/*'
 #kubectl delete -n argocd "$pod"
 ```
 
-###### Ported from private Knowledge Base page 2021+
+**Ported from private Knowledge Base page 2021+**
