@@ -7,6 +7,7 @@
 See [Elasticsearch](elasticsearch.md) too.
 
 <!-- INDEX_START -->
+
 - [Solr UI](#solr-ui)
 - [Solr CLI](#solr-cli)
 - [Commercial Offerings](#commercial-offerings)
@@ -28,6 +29,7 @@ See [Elasticsearch](elasticsearch.md) too.
   - [Cores not coming back online after restart](#cores-not-coming-back-online-after-restart)
   - [ClusterStatus / OverseerStatus 400 Bad Request error - unknown action](#clusterstatus--overseerstatus-400-bad-request-error---unknown-action)
   - [Misc](#misc)
+
 <!-- INDEX_END -->
 
 ## Solr UI
