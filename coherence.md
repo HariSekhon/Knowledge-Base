@@ -25,12 +25,10 @@ Oracle acquired Tangosol 2007.
 - transparent failover
 - in-flight transaction recovery
 
-
 - Formats:
   1. Lookup Table
   1. Key-Value pairs
   1. Map of Java Objects
-
 
 - clients connect to node with data directly
 - event-based model to notify clients to act as data changes
