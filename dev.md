@@ -3,9 +3,11 @@
 #### TODO: move to other more specific detailed pages
 
 <!-- INDEX_START -->
+
 - [Jira](#jira)
 - [Packaging](#packaging)
 - [Dependency Tracking](#dependency-tracking)
+
 <!-- INDEX_END -->
 
 - Heroku
