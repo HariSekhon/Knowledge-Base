@@ -1,6 +1,6 @@
 # CircleCI
 
-https://circleci.com/
+<https://circleci.com/>
 
 One of the original hosted CI/CD systems.
 
@@ -32,7 +32,7 @@ Charged via legacy up-front purchase order capacity, not PAYG like more modern c
 
 ## UI App
 
-https://app.circleci.com/pipelines
+<https://app.circleci.com/pipelines>
 
 ## CircleCI CLI
 
@@ -42,6 +42,7 @@ which auto-detects and handles Mac or Linux:
 ```shell
 git clone https://github.com/HariSekhon/DevOps-Bash-tools
 ```
+
 ```shell
 bash-tools/install/install_circleci.sh
 ```
@@ -66,7 +67,7 @@ Most of my public GitHub repos have a `.circleci/config.yml` file, eg:
 
 ## Self-Hosted Runner on Kubernetes
 
-https://circleci.com/docs/runner-overview/
+<https://circleci.com/docs/runner-overview/>
 
 [HariSekhon/Kubernetes-configs - circleci](https://github.com/HariSekhon/Kubernetes-configs/tree/master/circleci)
 
@@ -81,16 +82,19 @@ circleci namespace create <namespace> <vcs> <org>
 ```
 
 eg.
+
 ```shell
 circleci namespace create harisekhon github HariSekhon
 ```
 
 Create runner token and save, it is only displayed once:
+
 - Note: command doesn't work without description argument
 
 ```shell
 circleci runner resource-class create harisekhon/docker-runner "Docker Runner" --generate-token
 ```
+
 ```shell
 circleci runner resource-class create harisekhon/k8s-runner "Kubernetes Runner" --generate-token
 ```
@@ -148,7 +152,8 @@ Can debug failing jobs with SSH, see [this doc](https://circleci.com/docs/ssh-ac
 - No way to list runners and namespaces in the CircleCI UI
 - No way to list namespaces in the CLI
 - Conditionals - looks like it's all or nothing for a workflow or a step, whereas I want a job to be conditional - I could wrap all job's steps in a when step, but can't exclude all steps otherwise get this validation error
-```
+
+```none
       [#/jobs/docker_build/steps] expected minimum item count: 1, found: 0
       |   |   SCHEMA:
       |   |     minItems: 1
