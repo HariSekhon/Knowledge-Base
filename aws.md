@@ -625,9 +625,9 @@ The lines should end up looking like this:
 
 ```shell
 UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx       /       xfs     defaults,nofail        0       0
-UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx       /tmp    xfs     defaults,nofail       0       2
+UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx       /tmp    xfs     defaults,nofail        0       2
 UUID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx       /boot   xfs     defaults,nofail        0       0
-UUID=xxxx-xxxx                          /boot/efi       vfat    defaults,uid=0,gid=0,umask=077,shortname=winnt,nofail  0       2
+UUID=xxxx-xxxx                              /boot/efi   vfat    defaults,uid=0,gid=0,umask=077,shortname=winnt,nofail  0       2
 ```
 
 After editing and saving the `/etc/fstab` file, unmount the recovery disk:
