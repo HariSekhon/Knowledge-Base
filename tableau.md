@@ -5,12 +5,14 @@ Tableau is a widely used visualization tool.
 <https://www.tableau.com/>
 
 <!-- INDEX_START -->
+
   - [Tableau User Authentication](#tableau-user-authentication)
   - [SSH Config](#ssh-config)
   - [On the Tableau Server](#on-the-tableau-server)
 - [Troubleshooting](#troubleshooting)
   - [Disk Space](#disk-space)
   - [Unable to proceed because of an error from the data source / Unable to connect to the Tableau Data Extract Server ""](#unable-to-proceed-because-of-an-error-from-the-data-source--unable-to-connect-to-the-tableau-data-extract-server-)
+
 <!-- INDEX_END -->
 
 ### Tableau User Authentication
