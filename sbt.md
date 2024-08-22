@@ -253,7 +253,7 @@ setx SBT_CREDENTIALS "C:/Users/hari/.sbt/.credentials"
 
 ### ~/.sbt/.credentials
 
-```
+```properties
 realm=Sonatype Nexus Repository Manager
 host=myFQDN
 user=myUser
@@ -262,13 +262,13 @@ password=myPass
 
 ### ~/.sbt/0.13/plugins/credentials.sbt
 
-```
+```sbt
 credentials += Credentials(Path.userHome / ".sbt" / ".credentials")
 ```
 
 ### ~/.sbt/repositories
 
-```
+```properties
 [repositories]
 local
 <name>-sbt: http://host:8081/nexus/content/groups/sbt/, [organization]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/[type]s/[artifact])(-[classifier]).[ext]
