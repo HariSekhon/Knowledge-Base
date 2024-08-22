@@ -1,6 +1,7 @@
 # Documentation
 
 <!-- INDEX_START -->
+
 - [The Importance of Documentation](#the-importance-of-documentation)
 - [Documentation Tools](#documentation-tools)
   - [Wikis](#wikis)
@@ -11,6 +12,7 @@
   - [IPAM - IP Address Management](#ipam---ip-address-management)
 - [Support Numbers](#support-numbers)
   - [WhatsApp Desktop Links](#whatsapp-desktop-links)
+
 <!-- INDEX_END -->
 
 ## The Importance of Documentation
