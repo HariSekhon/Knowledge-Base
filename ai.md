@@ -5,6 +5,7 @@ Generally narrow AI.
 General AI mirroring what humans have is not real yet.
 
 <!-- INDEX_START -->
+
 - [Learning](#learning)
 - [ChatGPT](#chatgpt)
 - [SQL Chat](#sql-chat)
@@ -12,6 +13,7 @@ General AI mirroring what humans have is not real yet.
 - [Text to Speech](#text-to-speech)
 - [Grammar](#grammar)
 - [UI](#ui)
+
 <!-- INDEX_END -->
 
 ## Learning
