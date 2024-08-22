@@ -5,6 +5,7 @@ Simple Build Tool / Scala Build Tool
 <https://www.scala-sbt.org/>
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Build File - `build.sbt`](#build-file---buildsbt)
 - [Usage](#usage)
@@ -25,6 +26,7 @@ Simple Build Tool / Scala Build Tool
   - [SBT 0.13+](#sbt-013)
 - [IntelliJ](#intellij)
 - [Build.sbt](#buildsbt)
+
 <!-- INDEX_END -->
 
 ## Key Points
