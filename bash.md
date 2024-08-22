@@ -55,7 +55,7 @@ for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang etc.
 Also contains advanced configs. eg: `.bashrc`, `.vimrc`, `.gitconfig`, `.
 screenrc`, `.tmux.conf` etc.
 
-https://github.com/HariSekhon/DevOps-Bash-tools
+<https://github.com/HariSekhon/DevOps-Bash-tools>
 
 This is more than the manuals above, you could study this repo for years, or just run its scripts today to save you
 the time.
@@ -215,7 +215,7 @@ nl
 
 - `!n` - re-runs command number `n` from the `history`
 - `!$` - the last argument of the previous command, usually a filename from a previous command. Useful to run another
-command on the previous file operated on
+  command on the previous file operated on
 - `!:n*` - takes the Nth arg to the end from the last command
 
 ## Debugging
@@ -277,4 +277,4 @@ Points I disagree with the Google style guide on:
 - the Google guideline then tells you not to bother doing it for single character variables unless they touch another adjacent string, but doesn't follow this same logic for full word variables
 - `[[` is more advanced and less portable than `[` - only use it when you need regex matching
 
-###### Partial port from private Knowledge Base page 2008+
+**Partial port from private Knowledge Base page 2008+**
