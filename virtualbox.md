@@ -5,6 +5,7 @@
 Open source VM desktop software.
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [VirtualBox CLI](#virtualbox-cli)
 - [DHCP](#dhcp)
@@ -14,6 +15,7 @@ Open source VM desktop software.
 - [Troubleshooting](#troubleshooting)
   - [To use `/root` home directory](#to-use-root-home-directory)
 - [Upgrades](#upgrades)
+
 <!-- INDEX_END -->
 
 ## Key Points
