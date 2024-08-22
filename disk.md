@@ -1,6 +1,7 @@
 # Disk Management
 
 <!-- INDEX_START -->
+
 - [Linux](#linux)
   - [Detect New Disk](#detect-new-disk)
   - [Create Partitions](#create-partitions)
@@ -9,6 +10,7 @@
   - [Mount the new volume by unchanging UUID for maximum stability](#mount-the-new-volume-by-unchanging-uuid-for-maximum-stability)
   - [/tmp permissions](#tmp-permissions)
 - [Mac](#mac)
+
 <!-- INDEX_END -->
 
 ## Linux
