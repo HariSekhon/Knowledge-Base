@@ -1,6 +1,6 @@
 # Atlantis
 
-https://www.runatlantis.io/
+<https://www.runatlantis.io/>
 
 Terraform pull request automation on [GitHub](github.md) using [GitHub Actions](github-actions.md).
 
