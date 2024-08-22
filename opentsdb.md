@@ -400,7 +400,7 @@ tsdb search
 
 [HAProxy](haproxy.md) TSDs, rest is mainly HBase performance tuning, see [HBase](hbase.md) doc.
 
-You have to know the questions to design for performance.
+You have to know the questions to design OpenTSDB metric row keys for performance.
 
 Row split into CF per time range (I/O efficient).
 
