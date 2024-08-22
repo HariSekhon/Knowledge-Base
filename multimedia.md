@@ -274,4 +274,4 @@ less /proc/bus/input/devices
 remote control is detected as a keyboard so a bunch of stuff just works out of the box.
 Should use `xmodmap` to add the remaining buttons to do things I want
 
-###### Ported from private Knowledge Base pages 2010+
+**Ported from private Knowledge Base pages 2010+**
