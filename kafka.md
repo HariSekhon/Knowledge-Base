@@ -2,6 +2,7 @@
 
 TODO: port Kafka notes here
 
+
 <!-- INDEX_START -->
   - [Nagios-Plugin-Kafka with Kerberos support](#nagios-plugin-kafka-with-kerberos-support)
   - [Nagios Plugins for Kafka API written in Python & Perl](#nagios-plugins-for-kafka-api-written-in-python--perl)
@@ -16,3 +17,7 @@ API monitoring plugin does full pub-sub unique message with Kerberos support. Wr
 ### Nagios Plugins for Kafka API written in Python & Perl
 
 [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
+
+## Kafka 101
+
+![](img/kafka_101.gif)
