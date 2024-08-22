@@ -168,7 +168,7 @@ Node           Address            Status  Tags
 agrippa.local  192.168.99.1:8301  alive   build=0.6.1:68969ce5,dc=dc1,port=8300,role=consul,vsn=2,vsn_max=3,vsn_min=1
 ```
 
-```
+```none
 -http-addr
 -datacenter       defaults to same as agent
 -node <regex>     filter
@@ -267,7 +267,6 @@ dig @127.0.0.1 -p 8600 "$HOSTNAME.node.consul"
 ```shell
 dig @127.0.0.1 -p 8600 "$HOSTNAME.node.dc2.consul"
 ```
-
 
 ## Services
 
