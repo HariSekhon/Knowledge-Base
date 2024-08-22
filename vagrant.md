@@ -37,7 +37,7 @@ wget -nc https://raw.githubusercontent.com/HariSekhon/Templates/master/Vagrantfi
 
 ## Official Boxes
 
-https://app.vagrantup.com/boxes/search
+<https://app.vagrantup.com/boxes/search>
 
 ## Vagrant CLI
 
@@ -61,6 +61,7 @@ vagrant up
 ```
 
 SSH into the VM - auto-determines the IP address from VirtualBox:
+
 ```shell
 vagrant ssh # <vm_name>
 ```
@@ -77,6 +78,7 @@ vagrant down
 ```
 
 Delete the VM:
+
 ```shell
 vagrant destroy
 ```
@@ -107,6 +109,7 @@ It prefixes `VBoxManage` commands with `sudo` - fails if `require_tty` is set in
 Networking is done via SSH commands, just make sure to not `require_tty` in `/etc/sudoers`.
 
 Problem nanifests as:
+
 ```
 The following SSH command responded with a non-zero exit status.
 Vagrant assumes that this means the command failed!
@@ -115,6 +118,7 @@ touch /etc/sysconfig/network-scripts/ifcfg-eth1
 ```
 
 Fix:
+
 ```shell
 sudo perl -pi -e 's/^(\s*Defaults\s+requiretty)/#$1/' /etc/sudoers
 ```
@@ -126,6 +130,7 @@ sudo perl -pi -e 's/^(\s*Defaults\s+requiretty)/#$1/' /etc/sudoers
 - remove extra USB, Audio ports
 
 On a Linux VM to have it self-resolve its own FQDN properly:
+
 ```shell
 cat >> /etc/rc.local:
 ip=$(ifconfig | grep -A1 eth1 | grep "inet addr" | sed 's/^.*addr://;s/[[:space:]].*$//')
@@ -150,4 +155,4 @@ Mount `/vagrant` manually if it doesn't auto-mount:
 sudo mount -t vboxsf v-root /vagrant/
 ```
 
-###### Ported from private Knowledge Base page 2013+
+**Ported from private Knowledge Base page 2013+**
