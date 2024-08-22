@@ -3,6 +3,7 @@
 Imports / Exports data tables between SQL DBs and Hadoop.
 
 <!-- INDEX_START -->
+
 - [Sqoop1](#sqoop1)
 - [Sqoop2](#sqoop2)
 - [Old Notes](#old-notes)
@@ -20,6 +21,7 @@ Imports / Exports data tables between SQL DBs and Hadoop.
 - [Backups](#backups)
 - [Troubleshooting](#troubleshooting)
 - [Other](#other)
+
 <!-- INDEX_END -->
 
 ## Sqoop1
