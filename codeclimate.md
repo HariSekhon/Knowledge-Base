@@ -3,7 +3,9 @@
 <https://codeclimate.com/>
 
 <!-- INDEX_START -->
+
 - [CLI](#cli)
+
 <!-- INDEX_END -->
 
 ## CLI
