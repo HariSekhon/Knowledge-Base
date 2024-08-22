@@ -3,6 +3,7 @@
 Stream processing + alerting engine for TICK stack.
 
 <!-- INDEX_START -->
+
 - [T.I.C.K platform components](#tick-platform-components)
   - [Port:     9092    (conflicts with Kafka)](#port-----9092----conflicts-with-kafka)
   - [Stream Pipeline](#stream-pipeline)
@@ -10,6 +11,7 @@ Stream processing + alerting engine for TICK stack.
 - [CLI](#cli)
 - [TICKscript](#tickscript)
 - [Commands](#commands)
+
 <!-- INDEX_END -->
 
 ## T.I.C.K platform components
