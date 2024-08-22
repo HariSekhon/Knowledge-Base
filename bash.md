@@ -9,6 +9,7 @@ is one of the few use cases for that).
 ## Index
 
 <!-- INDEX_START -->
+
 - [Core Reading Material](#core-reading-material)
   - [Books](#books)
   - [Free](#free)
@@ -27,6 +28,7 @@ is one of the few use cases for that).
   - [Fail if accessing any unset variable](#fail-if-accessing-any-unset-variable)
   - [Clean Shell](#clean-shell)
 - [Style Guide](#style-guide)
+
 <!-- INDEX_END -->
 
 ## Core Reading Material
