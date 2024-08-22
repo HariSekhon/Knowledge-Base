@@ -16,6 +16,7 @@ API code for many of the following technologies can also be found in my
 [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo.
 
 <!-- INDEX_START -->
+
 - [Self-Hosted CI/CD](#self-hosted-cicd)
   - [[Jenkins](https://www.jenkins.io/)](#jenkinshttpswwwjenkinsio)
   - [[TeamCity](https://www.jetbrains.com/teamcity/)](#teamcityhttpswwwjetbrainscomteamcity)
@@ -44,6 +45,7 @@ API code for many of the following technologies can also be found in my
   - [NimbleCI](#nimbleci)
 - [Portable Code Design](#portable-code-design)
 - [Code Quality](#code-quality)
+
 <!-- INDEX_END -->
 
 ## Self-Hosted CI/CD
