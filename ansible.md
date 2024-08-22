@@ -27,6 +27,7 @@ Example:
 
 Explicitly set in shell or in git repo's [.envrc](direnv.md) to ensure user's random environment variable
 `ANSIBLE_CONFIG` doesn't get used:
+
 ```shell
 export ANSIBLE_CONFIG="./ansible.cfg"
 ```
@@ -70,6 +71,7 @@ Set up your [GCloud SDK CLI](gcp.md) and authentication first, then export a tok
 ```shell
 export GCP_ACCESS_TOKEN=$(gcloud auth print-access-token)
 ```
+
 (unfortunately you can't specify `--lifetime 43200` unless using a service account, so you only get 3600 secs = 1 hour)
 
 Better if you can get a service account and download the JSON credentials file and set that instead.
@@ -77,8 +79,10 @@ Better if you can get a service account and download the JSON credentials file a
 ```shell
 git clone https://github.com/HariSekhon/DevOps-Bash-tools bash-tools
 ```
+
 creates service account, credential, downloads the JSON service account credential file, and prints the command to
 use it:
+
 ```shell
 bash-tools/gcp/gcp_ansible_create_credential.sh
 ```
@@ -109,4 +113,4 @@ perl -pi -e 's/ansible.builtin.copy/ansible.posix.synchronize/' $(git grep -l an
 fatal: [myhost]: FAILED! => {"changed": false, "msg": "argument 'owner' is of type <class 'str'> and we were unable to convert to bool: The value 'solr' is not a valid boolean.  Valid booleans include: 'y', 1, 0, 'f', 'false', '0', '1', 'n', 'off', 'true', 'on', 't', 'no', 'yes'"}
 ```
 
-###### Partial port from private Knowledge Base page 2014+
+**Partial port from private Knowledge Base page 2014+**
