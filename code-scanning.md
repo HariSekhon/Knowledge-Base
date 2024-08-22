@@ -24,7 +24,7 @@ GitHub Actions marketplace action - [bridgecrewio/checkov-action](https://github
 
 Bridgecrew Cloud dashboard:
 
-https://www.bridgecrew.cloud/
+<https://www.bridgecrew.cloud/>
 
 - dashboard
 - CIS benchmarks - Kubernetes, Docker, EKS, GKE etc
