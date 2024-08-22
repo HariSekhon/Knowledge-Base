@@ -45,7 +45,7 @@ Simple Build Tool / Scala Build Tool
 
 The build configuration file of what dependencies to include.
 
-#### Build Configs
+### Build Configs
 
 [HariSekhon/Nagios-Plugin-Kafka - build.sbt](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/build.sbt)
 
@@ -81,9 +81,9 @@ sbt package
 
 Useful for both CLIs and distributed computing programs running on big data clusters.
 
-
 `project/assembly.sbt`:
-```
+
+```sbt
 // for SBT 0.13.6+
 addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.13.0")
 // for SBT < 0.13.6
@@ -137,7 +137,8 @@ sbt -D sbt.ivy.home=sbt/ivy package
 ```
 
 Jar deps stored in:
-```
+
+```none
 ~/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.1.jar
 ```
 
@@ -215,7 +216,7 @@ sbt eclipse
 
 Not sure this is actually needed in new IntelliJ versions.
 
-```
+```sbt
 ~/.sbt/0.13/plugins/plugins.sbt
 addSbtPlugin("com.github.mpeltonen" % "sbt-idea" % "1.6.0")
 ```
@@ -228,7 +229,7 @@ sbt gen-idea
 
 ## Build.sbt
 
-```
+```sbt
 name := "MyApp"
 
 version := "0.1"
@@ -243,12 +244,14 @@ libraryDependencies ++= Seq(
 )
 ```
 
-```
+On Windows, set options like this:
+
+```batch
 setx SBT_OPTS "-Dsbt.global.base=C:/Users/hari/.sbt/0.13/ -Dsbt.ivy.home=C:/Quarantine/ivy-cache/ -Dsbt.boot.directory=C:/Quarantine/sbt/boot/ -Dsbt.override.build.repos=true -Dsbt.repository.config=C:/Users/hari/.sbt/repositories"
 setx SBT_CREDENTIALS "C:/Users/hari/.sbt/.credentials"
 ```
 
-#### ~/.sbt/.credentials
+### ~/.sbt/.credentials
 
 ```
 realm=Sonatype Nexus Repository Manager
@@ -257,13 +260,13 @@ user=myUser
 password=myPass
 ```
 
-#### ~/.sbt/0.13/plugins/credentials.sbt
+### ~/.sbt/0.13/plugins/credentials.sbt
 
 ```
 credentials += Credentials(Path.userHome / ".sbt" / ".credentials")
 ```
 
-#### ~/.sbt/repositories
+### ~/.sbt/repositories
 
 ```
 [repositories]
@@ -272,5 +275,4 @@ local
 <name>: http://host:8081/nexus/content/groups/public/
 ```
 
-
-###### Ported from private Knowledge Base page 2014+
+**Ported from private Knowledge Base page 2014+**
