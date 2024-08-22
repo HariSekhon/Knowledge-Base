@@ -1,10 +1,12 @@
 # Documentation-as-Code
 
 <!-- INDEX_START -->
+
 - [Markdown, GitHub, `README.md`](#markdown-github-readmemd)
   - [GitHub Markdown Documentation](#github-markdown-documentation)
 - [MKDocs](#mkdocs)
 - [Markdown Best Practices](#markdown-best-practices)
+  - [Lint your Markdown](#lint-your-markdown)
   - [URL Handling](#url-handling)
   - [Code Blocks vs Inline Code](#code-blocks-vs-inline-code)
   - [Syntax Highlighting](#syntax-highlighting)
@@ -13,6 +15,7 @@
   - [Badges](#badges)
   - [Icons](#icons)
 - [Link Team Support Numbers to WhatsApp Desktop](#link-team-support-numbers-to-whatsapp-desktop)
+
 <!-- INDEX_END -->
 
 ## Markdown, GitHub, `README.md`
