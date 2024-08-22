@@ -8,6 +8,7 @@ Uses an XML configuration file `pom.xml` at the root of the project directory an
 package files.
 
 <!-- INDEX_START -->
+
 - [Real World Example `pom.xml` builds](#real-world-example-pomxml-builds)
 - [Best practice for release version incrementing](#best-practice-for-release-version-incrementing)
 - [Executable Jar](#executable-jar)
@@ -29,6 +30,7 @@ package files.
 - [Test](#test)
 - [Taken from HBase](#taken-from-hbase)
 - [Maven Eclipse support](#maven-eclipse-support)
+
 <!-- INDEX_END -->
 
 ## Real World Example `pom.xml` builds
