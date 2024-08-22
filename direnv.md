@@ -5,6 +5,7 @@ that allow you to quickly switch between AWS profiles, EKS clusters, Terraform &
 other software versions or profiles.
 
 <!-- INDEX_START -->
+
 - [Install direnv](#install-direnv)
 - [Commands](#commands)
   - [Enable direnv in your shell](#enable-direnv-in-your-shell)
@@ -16,6 +17,7 @@ other software versions or profiles.
   - [GCP](#gcp)
   - [Kubernetes](#kubernetes)
   - [Terraform](#terraform)
+
 <!-- INDEX_END -->
 
 ## Install direnv
