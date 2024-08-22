@@ -3,6 +3,7 @@
 <https://k3s.io/>
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [QuickStart](#quickstart)
   - [Install](#install)
@@ -12,6 +13,7 @@
 - [Install Agents](#install-agents)
 - [Install Kubernetes Dashboard](#install-kubernetes-dashboard)
 - [Shut down K3s](#shut-down-k3s)
+
 <!-- INDEX_END -->
 
 ## Key Points
