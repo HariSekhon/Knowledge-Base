@@ -1,7 +1,9 @@
 # InfluxDB
 
 <!-- INDEX_START -->
+
 - [Chronograf](#chronograf)
+
 <!-- INDEX_END -->
 
 ## Chronograf
