@@ -684,3 +684,16 @@ kubectl exec -ti -n "$NAMESPACE" "$SPARK_POD" -- \
 ```shell
 kubectl cp "$SPARK_POD":/tmp/jstack-output.txt "jstack-output.$ROLE.$(date +%F_%H%M).txt"
 ```
+
+If the copied JDK version still doesn't work you can workaround it using the Spark master drive UI instead to get the
+thread dumps from there by tunnelling through the bastion host and port-forwarding the pod's UI:
+
+```shell
+ssh bastion -L 4040:localhost:4040
+```
+
+On the bastion:
+
+```shell
+kubectl port-forward --address 127.0.0.1 "$(kubectl get pods -l spark-role=driver -o name | head -n1)" 4040
+```
