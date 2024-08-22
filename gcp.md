@@ -179,7 +179,7 @@ gcloud compute forwarding-rules list --filter="name ~ ^${LOAD_BALANCER_NAME}$" -
 ## Get the IP of your Google FileStore NFS server
 
 Quickly compare this to your config such as your
-[Jenkins JCasC config per environment](https://github.com/HariSekhon/Kubernetes-configs/blob/master/jenkins/overlay/jcasc-cm.patch.yaml#L101)
+[Jenkins JCasC config per environment](https://github.com/HariSekhon/Kubernetes-configs/blob/54ad50efc573f7a69b36be1bd504d0e214fa73b5/jenkins/overlay/jcasc-cm.patch.yaml#L113)
 to ensure your config is pointing to the right IP
 
 Notice the filestore name is in format `projects/<PROJECT_ID>/locations/europe-west2-b/instances/<NAME>` so we match the suffix `/${NAME}`
