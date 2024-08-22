@@ -9,6 +9,7 @@ Uses `busybox` all-in-one binary with minimal core shell and coreutils functiona
 Replaced `libc` with `musl` core library which sometimes causes problems with progam compiling or grep buggy behaviour.
 
 <!-- INDEX_START -->
+
 - [Package Management](#package-management)
   - [Repositories](#repositories)
   - [Search](#search)
@@ -16,6 +17,7 @@ Replaced `libc` with `musl` core library which sometimes causes problems with pr
   - [Info](#info)
   - [Upgrades](#upgrades)
   - [apk-file](#apk-file)
+
 <!-- INDEX_END -->
 
 ## Package Management
