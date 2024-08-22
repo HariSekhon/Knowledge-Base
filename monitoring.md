@@ -6,6 +6,7 @@
 - metrics & thresholds - deviations from normal
 
 <!-- INDEX_START -->
+
 - [Cloud Monitoring Services](#cloud-monitoring-services)
 - [APM - Application Performance Monitoring](#apm---application-performance-monitoring)
 - [Nagios](#nagios)
@@ -14,6 +15,7 @@
   - [Collectl](#collectl)
   - [Ganglia](#ganglia)
   - [Geneos](#geneos)
+
 <!-- INDEX_END -->
 
 ## Cloud Monitoring Services
