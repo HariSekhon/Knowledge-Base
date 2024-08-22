@@ -5,9 +5,11 @@ Open source library of Machine Learning algorithms.
 Mahout is Hindi for Elephant Driver ie. it drives Hadoop, for which the elephant is the mascot.
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
 - [Input](#input)
 - [Output](#output)
+
 <!-- INDEX_END -->
 
 ## Key Points
