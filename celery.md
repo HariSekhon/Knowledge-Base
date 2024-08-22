@@ -63,7 +63,7 @@ celery control
 
 RabbitMQ is default broker, support in built:
 
-```
+```properties
 broker_url = 'amqp://<user>:<password>@localhost:5432/myVHost'
 ```
 
@@ -144,12 +144,14 @@ result.get(propagate=False)
 result.traceback
 ```
 
-celeryconfig.py convention:
+`celeryconfig.py` convention:
+
 ```python
 app.config_from_object('celeryconfig')
 ```
 
-celeryconfig.py:
+`celeryconfig.py`:
+
 ```python
 broker_url = 'pyamqp://'
 result_backend = 'rpc://'
@@ -182,6 +184,5 @@ test the celeryconfig.py syntax
 ```shell
 python -m celeryconfig
 ```
-
 
 **Ported from private Knowledge Base page 2017+**
