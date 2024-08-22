@@ -1,6 +1,7 @@
 # Networking
 
 <!-- INDEX_START -->
+
 - [CIDR visualizer](#cidr-visualizer)
 - [VPNs - Virtual Private Networks](#vpns---virtual-private-networks)
   - [OpenVPN](#openvpn)
@@ -12,6 +13,7 @@
   - [Add static route](#add-static-route)
   - [Show your public IP](#show-your-public-ip)
   - [Linux - show your local IP Tables software firewall rules](#linux---show-your-local-ip-tables-software-firewall-rules)
+
 <!-- INDEX_END -->
 
 ## CIDR visualizer
