@@ -147,4 +147,4 @@ IntelliJ also has JSON error validation, but it's not as good as it's hard to se
 - CodeTemplates
 - Mylyn
 
-###### Ported from various private Knowledge Base pages 2013+
+**Ported from various private Knowledge Base pages 2013+**
