@@ -30,6 +30,7 @@ bash-tools/install/install_azure_cli.sh
 ```
 
 Then authenticate using one of the [documented methods](https://learn.microsoft.com/en-us/cli/azure/authenticate-azure-cli) eg:
+
 ```shell
 az login
 ```
@@ -82,4 +83,4 @@ Data is always replicated 3x in primary region. Options:
 
 <https://learn.microsoft.com/en-gb/azure/storage/common/storage-redundancy>
 
-###### Partial port from private Knowledge Base page 2017+
+**Partial port from private Knowledge Base page 2017+**
