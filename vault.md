@@ -5,6 +5,7 @@
 The leading open source secrets manager.
 
 <!-- INDEX_START -->
+
 - [Key Points](#key-points)
   - [Enterprise](#enterprise)
 - [Install on Mac](#install-on-mac)
@@ -15,6 +16,7 @@ The leading open source secrets manager.
 - [Secret Integrations](#secret-integrations)
   - [GitHub Actions CI/CD](#github-actions-cicd)
   - [Kubernetes](#kubernetes)
+
 <!-- INDEX_END -->
 
 ## Key Points
