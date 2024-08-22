@@ -7,6 +7,7 @@ Small metadata, watches and locks.
 Used by major technologies, especially Big Data technologies like HBase, Hive High Availability, and [SolrCloud](solr.md).
 
 <!-- INDEX_START -->
+
 - [Basics](#basics)
   - [More Details](#more-details)
 - [Ports](#ports)
@@ -20,6 +21,7 @@ Used by major technologies, especially Big Data technologies like HBase, Hive Hi
 - [Monitoring](#monitoring)
 - [Multi-DC Availability](#multi-dc-availability)
 - [Troubleshooting](#troubleshooting)
+
 <!-- INDEX_END -->
 
 ## Basics
