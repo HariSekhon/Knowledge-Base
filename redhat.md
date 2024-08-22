@@ -489,4 +489,4 @@ Real-world Kickstart config used by Packer build:
 
 [HariSekhon/Packer-templates - rocky-x86_64.vbox.pkr.hcl](https://github.com/HariSekhon/Packer-templates/blob/master/rocky-x86_64.vbox.pkr.hcl)
 
-###### Ported from private Knowledge Base page 2010+ - should have been from early to mid 2000s but young guys don't document enough
+**Ported from private Knowledge Base page 2010+ - should have been from early to mid 2000s but young guys don't document enough**
