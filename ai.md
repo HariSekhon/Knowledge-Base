@@ -18,11 +18,11 @@ General AI mirroring what humans have is not real yet.
 
 ## Learning
 
-https://www.cloudskillsboost.google/paths/118
+<https://www.cloudskillsboost.google/paths/118>
 
 ## ChatGPT
 
-https://chat.openai.com/chat
+<https://chat.openai.com/chat>
 
 ## SQL Chat
 
@@ -30,9 +30,9 @@ https://chat.openai.com/chat
 
 ## LLM
 
-https://www.ollama.com/
+<https://www.ollama.com/>
 
-https://github.com/ollama/ollama
+<https://github.com/ollama/ollama>
 
 Ollama Open WebUI + engine which is prompt-based, similar to ChatGPT, ask questions, get responses.
 It's completely local, it doesn't go to the internet.
@@ -47,16 +47,16 @@ Why does the performance degrade after one query?
 
 ## Text to Speech
 
-https://elevenlabs.io/
+<https://elevenlabs.io/>
 
 ## Grammar
 
-https://app.grammarly.com/
+<https://app.grammarly.com/>
 
-https://hemingwayapp.com/
+<https://hemingwayapp.com/>
 
 ## UI
 
-https://uizard.io/
+<https://uizard.io/>
 
-https://app.uizard.io/
+<https://app.uizard.io/>
