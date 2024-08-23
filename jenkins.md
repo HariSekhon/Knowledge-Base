@@ -110,7 +110,6 @@ Plugins are the greatest strength and weakness of Jenkins, depending on how you 
 Jenkins has all of the power but also the complexity of managing the extensions, additional configuration and plugin
 upgrades.
 
-
 To get a list of plugins on an existing Jenkins server, one per line:
 
 ```shell
@@ -187,7 +186,6 @@ Configure Jenkins
 ```
 
 Then in `Jenkinsfile` reference the named configured repo
-
 
 ```groovy
 @Library('NAME@branchOrTag') _
@@ -423,6 +421,5 @@ org.jenkinsci.plugins.durabletask.BourneShellScript.LAUNCH_DIAGNOSTICS=true
 ## Other Resources
 
 https://www.slideshare.net/andrewbayer/7-habits-of-highly-effective-jenkins-users
-
 
 **Ported from private Knowledge Base page 2013+**
