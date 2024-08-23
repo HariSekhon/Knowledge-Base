@@ -86,7 +86,7 @@ After that you need either `$GH_TOKEN` or `$GITHUB_TOKEN` (in that order of prec
 
 Create your GitHub Personal Access Token (PAT) here:
 
-https://github.com/settings/tokens
+<https://github.com/settings/tokens>
 
 Or you can install
 [Git Credentials Manager](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git#git-credential-manager)
@@ -124,7 +124,7 @@ pip install --user bitbucket-cli
 
 ## GitHub Badges
 
-https://github.com/commonality/architecture-decision-records/wiki/GitHub-repository-status-badges
+<https://github.com/commonality/architecture-decision-records/wiki/GitHub-repository-status-badges>
 
 ## The Evils of Rebasing
 
@@ -289,7 +289,7 @@ gitGraph
 
 ## Git LFS
 
-https://git-lfs.com/
+<https://git-lfs.com/>
 
 Store big files in GitHub repos (1GB limit for free accounts).
 
@@ -584,7 +584,7 @@ git push --force
 
 ### Git Filter-Repo
 
-https://github.com/newren/git-filter-repo
+<https://github.com/newren/git-filter-repo>
 
 3rd party Git command add-on that's useful for replacing a token, author name/email, or excluding files and is recommended over the lower-level `git filter-branch`.
 
