@@ -8,4 +8,4 @@ Full comparison of compatible systems is provided further down the README at the
 
 ## Advanced Nagios Plugins Collection
 
-https://github.com/HariSekhon/Nagios-Plugins
+<https://github.com/HariSekhon/Nagios-Plugins>
