@@ -71,7 +71,6 @@ docker service update --force
 Creates swarm called `default` + `ingress` overlay network + internal distributed data store for consistent view of
 swarm
 
-
 ```shell
 docker swarm init --advertise-addr 192.168.99.100  # must specify IP if multiple interfaces
 ```
