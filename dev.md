@@ -1,6 +1,6 @@
 # Dev Misc
 
-#### TODO: move to other more specific detailed pages
+**TODO: move to other more specific detailed pages**
 
 <!-- INDEX_START -->
 
@@ -14,6 +14,7 @@
   - free tier - 512MB 1 web / 1 worker
   - sleeps after 30 mins
 
+<br>
 
 - SMTP4Dev - Windows app, runs dummy SMTP server, does not delivery but shows emails in the system tray
 
@@ -50,7 +51,7 @@ See [Atlassian](atlassian.md) page.
   - GitHub / BitBucket webhooks trigger re-evaluation on push
   - no support for Perl or JVM languages
   - green (ok), yellow (behind latest stable), red (behind on security fixes)
-  - CLI - https://github.com/gemnasium/toolbelt
+  - CLI - <https://github.com/gemnasium/toolbelt>
   - Enterprise on-prem version
 
 **Ported from private Knowledge Base page 2016+**
