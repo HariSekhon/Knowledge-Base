@@ -12,7 +12,7 @@ Uses a `docker-compose.yml` config file to launch docker containers and settings
 
 ## Install
 
-https://docs.docker.com/compose/install/
+<https://docs.docker.com/compose/install/>
 
 or use install script from [DevOps-Bash-tools](devops-bash-tools.md):
 
