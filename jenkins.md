@@ -41,7 +41,6 @@ Shared Libraries between pipelines, or even code snippets in the administration
 - [Tips](#tips)
 - [Troubleshooting](#troubleshooting)
   - [Reset the Jenkins admin password](#reset-the-jenkins-admin-password)
-- [check it worked](#check-it-worked)
   - [Shell "process apparently never started in"](#shell-process-apparently-never-started-in)
 - [Other Resources](#other-resources)
 <!-- INDEX_END -->
@@ -403,14 +402,20 @@ SSH to the jenkins server and run:
 
 ```shell
 sed -i 's|<useSecurity>true</useSecurity>|<useSecurity>false</useSecurity>|' "$JENKINS_HOME/config.xml"
-# check it worked
+```
+
+Check it worked:
+
+```shell
 grep -i useSecurity "$JENKINS_HOME/config.xml"
 ```
+
 Then restart Jenkins, access it without auth, update the admin password, undo the config change, and restart again.
 
 ### Shell "process apparently never started in"
 
 Execute in Script Console at `$JENKINS_URL/script`:
+
 ```groovy
 org.jenkinsci.plugins.durabletask.BourneShellScript.LAUNCH_DIAGNOSTICS=true
 ```
