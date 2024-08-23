@@ -17,6 +17,6 @@ Scripts for DBA administration and performance engineering:
 
 Web UI for DB access.
 
-https://www.pgadmin.org/
+<https://www.pgadmin.org/>
 
-https://github.com/pgadmin-org/pgadmin4
+<https://github.com/pgadmin-org/pgadmin4>
