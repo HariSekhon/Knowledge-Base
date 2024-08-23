@@ -83,7 +83,7 @@ vim /usr/local/etc/dnsmasq.conf
 Sample config I used to use in labs to only serve local VirtualBox VMs -
 only listens on `vboxnet0` interface and contains `*.local` lookups:
 
-```
+```none
 local=/dev/
 local=/local/
 local=/localdomain/
