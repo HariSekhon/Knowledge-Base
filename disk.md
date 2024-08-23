@@ -23,7 +23,7 @@ This example is from [Adding a new EBS volume to a running AWS EC2 instance](aws
 cat /proc/partitions
 ```
 
-```
+```none
 major minor  #blocks  name
 
  259        0  314572800 nvme0n1
@@ -67,7 +67,7 @@ See the new partition:
 cat /proc/partitions
 ```
 
-```
+```none
 ...
  259        7  524285952 nvme1n1p1
 ```
@@ -133,7 +133,7 @@ sudo fdisk -l
 
 otherwise gets this error as regular user:
 
-```
+```none
 fdisk: cannot open /dev/nvme0n1: Permission denied
 ```
 
@@ -179,7 +179,7 @@ Check new mounted partition and space is available:
 df -Th /tmp
 ```
 
-```
+```none
 Filesystem     Type  Size  Used Avail Use% Mounted on
 /dev/nvme1n1p1 xfs   500G  3.6G  497G   1% /tmp
 ```
@@ -192,7 +192,6 @@ to be able to use it:
 ```shell
 sudo chmod 1777 /tmp
 ```
-
 
 ## Mac
 
