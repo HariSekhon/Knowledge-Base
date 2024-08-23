@@ -123,7 +123,7 @@ ln -sv sonar-scanner "sonar-scanner-$SONAR_VERSION"
 
 ### Create `sonar-project.properties` from template
 
-https://github.com/HariSekhon/Templates/blob/master/sonar-project.properties
+<https://github.com/HariSekhon/Templates/blob/master/sonar-project.properties>
 
 ```shell
 wget -nc https://raw.githubusercontent.com/HariSekhon/Templates/master/sonar-project.properties
