@@ -14,7 +14,7 @@
 
 Get personal access token:
 
-https://cloud.drone.io/account
+<https://cloud.drone.io/account>
 
 ## CLI
 
@@ -38,7 +38,7 @@ cd ~/github/bash-tools
 drone exec # [--pipeline default] [--include=thisstep] [--exclude=thatstep]
 ```
 
-https://docs.drone.io/cli/repo/drone-repo-ls/
+<https://docs.drone.io/cli/repo/drone-repo-ls/>
 
 ```shell
 export DRONE_SERVER=https://cloud.drone.io
