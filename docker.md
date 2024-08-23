@@ -175,7 +175,7 @@ docker buildx ...
 
 ## Sharing Cache between hosts
 
-https://docs.docker.com/engine/reference/commandline/build/#specifying-external-cache-sources
+<https://docs.docker.com/engine/reference/commandline/build/#specifying-external-cache-sources>
 
 For builder pattern, build and push the 'builder' target separately, then pull it on other machines too.
 
@@ -262,7 +262,7 @@ See [Podman & Buildah](podman.md) doc.
 
 ## Container Diff
 
-https://github.com/GoogleContainerTools/container-diff
+<https://github.com/GoogleContainerTools/container-diff>
 
 ## Java Licensing Problem in Docker
 
@@ -409,23 +409,23 @@ Some highlights:
 
 ## Captain
 
-https://github.com/harbur/captain
+<https://github.com/harbur/captain>
 
 Converts Git workflow to Docker containers, CLI `captain push` from CI to build docker containers from CI for each commit
 
 ## Portainer
 
-https://www.portainer.io/
+<https://www.portainer.io/>
 
 Container management.
 
 ## Play with Docker
 
-https://labs.play-with-docker.com/
+<https://labs.play-with-docker.com/>
 
 ## DCHQ
 
-https://dchq.io/
+<https://dchq.io/>
 
 Automated provision & monitoring of Docker containers on any cloud, composition of complex apps, auditing etc.
 
