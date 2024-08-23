@@ -103,7 +103,7 @@ Scripts for common Jenkins operations using the Jenkins CLI and API:
 
 ## Jenkins Plugins
 
-https://plugins.jenkins.io/
+<https://plugins.jenkins.io/>
 
 Plugins are the greatest strength and weakness of Jenkins, depending on how you look at it.
 
@@ -248,7 +248,7 @@ curl "$JENKINS_URL/job/test%20ok/api/json?pretty=true"
 
 Provides the `/cc.xml/` endpoint for notification tools above.
 
-https://plugins.jenkins.io/cctray-xml/
+<https://plugins.jenkins.io/cctray-xml/>
 
 Then put this in your CCMenu or similar tool:
 
@@ -349,7 +349,7 @@ enterprises.
 
 Licensed by number of users, not build minutes since that is run locally.
 
-https://docs.cloudbees.com/docs/cloudbees-ci/latest/feature-definition
+<https://docs.cloudbees.com/docs/cloudbees-ci/latest/feature-definition>
 
 ### Pricing
 
@@ -420,6 +420,6 @@ org.jenkinsci.plugins.durabletask.BourneShellScript.LAUNCH_DIAGNOSTICS=true
 
 ## Other Resources
 
-https://www.slideshare.net/andrewbayer/7-habits-of-highly-effective-jenkins-users
+<https://www.slideshare.net/andrewbayer/7-habits-of-highly-effective-jenkins-users>
 
 **Ported from private Knowledge Base page 2013+**
