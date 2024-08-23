@@ -2,7 +2,7 @@
 
 This is a locally installable Kubernetes distribution bundling [k3s](k3s.md) and other components.
 
-https://docs.rke2.io/
+<https://docs.rke2.io/>
 
 <!-- INDEX_START -->
 
