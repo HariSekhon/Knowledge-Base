@@ -18,16 +18,16 @@
 - LoadStorm
 - KeyNote
 
-<br>
+<!-- -->
 
 - [JFrog Artifactory](artifactory.md) - repository mirror -  Maven, PyPI, NPM, Docker etc...
 
-<br>
+<!-- -->
 
 - Jira - see [Atlassian](atlassian.md) page
 - Confluence - see [Atlassian](atlassian.md) page
 
-<br>
+<!-- -->
 
 - Rundeck - open core scheduler
 
