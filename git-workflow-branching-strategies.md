@@ -16,23 +16,23 @@
 
 Best for personal projects.
 
-https://guides.github.com/introduction/flow/
+<https://guides.github.com/introduction/flow/>
 
 ## GitLab Flow
 
-https://docs.gitlab.com/ee/topics/gitlab_flow.html
+<https://docs.gitlab.com/ee/topics/gitlab_flow.html>
 
 ## Gitflow - Most Complicated
 
 Best for legacy versioned software maintaining minor and patches semver versioning.
 
-https://datasift.github.io/gitflow/IntroducingGitFlow.html
+<https://datasift.github.io/gitflow/IntroducingGitFlow.html>
 
-https://nvie.com/posts/a-successful-git-branching-model/
+<https://nvie.com/posts/a-successful-git-branching-model/>
 
 ## Great Tips
 
-https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops
+<https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops>
 
 ## Environment Branching Strategy
 
