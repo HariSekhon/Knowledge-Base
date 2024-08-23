@@ -33,9 +33,9 @@ Resolves hostnames and fully qualified domain names (FQDNs) to IP addresses.
 
 ### Lab DNS - Create FQDNs with embedded IP addresses
 
-https://sslip.io/ - maps anything `<anything>[.-]<IP Address>.sslip.io` in either 'dot' or 'dash' notation to the embedded IP address.
+<https://sslip.io/> - maps anything `<anything>[.-]<IP Address>.sslip.io` in either 'dot' or 'dash' notation to the embedded IP address.
 
-https://nip.io - maps `<anything>[.-]<IP Address>.nip.io` in either 'dot' or 'dash' notation to the embedded IP address.
+<https://nip.io> - maps `<anything>[.-]<IP Address>.nip.io` in either 'dot' or 'dash' notation to the embedded IP address.
 
 Commonly used for labs and demos where you need to put hostnames / FQDNs in software configuration instead of IP addresses.
 
@@ -136,9 +136,9 @@ sudo dhcping -s localhost
 
 Requires TCP port 53
 
-http://www.semicomplete.com/articles/dynamic-dns-with-dhcp/
+<http://www.semicomplete.com/articles/dynamic-dns-with-dhcp/>
 
-http://www.debian-administration.org/articles/591
+<http://www.debian-administration.org/articles/591>
 
 ```shell
 nsupdate -v -k /etc/bind/admin-updater.key
