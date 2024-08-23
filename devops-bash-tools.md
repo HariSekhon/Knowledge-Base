@@ -40,9 +40,11 @@ OR install only the individual bits you need for a specific script you want to r
 ```shell
 install/install_aws_cli.sh
 ```
+
 ```shell
 install/install_gcloud_sdk.sh
 ```
+
 ```shell
 install/install_homebrew.sh
 
@@ -64,7 +66,7 @@ You can do this manually or by automatically linking
 The `configs/` directory is full of dotfiles that get symlinked to your `$HOME` directory if you run this at the root
 of the repo:
 
-```
+```shell
 make link
 ```
 
