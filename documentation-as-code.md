@@ -86,16 +86,21 @@ Put a language name immediately after the first triple backticks then you get sy
 ````markdown
 ```groovy
 ````
+
 <!--
+
 closing code block for markdown_generate_index.sh
 to enable to code to exclude code block opening/closing pairs
 from generating comment comments into headings
+
 ```
+```
+
 -->
 
 Compare the readability of this:
 
-```
+```none
 if (isCommandAvailable('gcloud')) {
     echo 'Using GCloud SDK to configure Docker'
     // configures docker config with a token
@@ -120,7 +125,7 @@ if (isCommandAvailable('gcloud')) {
 If you run [IntelliJ](intellij.md) there is also a green triangle arrow next to `shell` blocks to execute them with
 only one click, code notebook style.
 
-````
+````none
 ```shell
 echo "execute this command"
 ```
