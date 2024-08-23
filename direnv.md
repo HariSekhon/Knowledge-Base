@@ -56,6 +56,7 @@ direnv allow
 ```
 
 To edit, will auto-approve when you save and exit:
+
 ```shell
 direnv edit
 ```
