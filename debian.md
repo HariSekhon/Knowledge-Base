@@ -252,7 +252,7 @@ While not as lean as [Alpine](alpine.md), it is full-featured and more compatibl
 
 Debian can be installed using Preseeding for fully automated hands-off installations:
 
-https://wiki.debian.org/DebianInstaller/Preseed
+<https://wiki.debian.org/DebianInstaller/Preseed>
 
 Boot command to start installer with a `preseed.cfg` text config file which can be bundled into an installation medium
 such as a DVD iso or served by a web server on the local network.
