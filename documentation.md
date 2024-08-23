@@ -21,18 +21,19 @@ If you've ever had this _"Why Bother?"_ approach to documentation, allow me to g
 
 1. Your memory is simply not good enough for the volume of tech that exists today.
 
+<!-- -->
 
 2. Build a great team and hand stuff off to them so you can move on to the next interesting thing,
-there's already too much to do for one human lifetime.
+   there's already too much to do for one human lifetime.
 
+<!-- -->
 
-3. Holidays - if you ever want time off without interruptions,
-you need to document how to cover what you're doing.
+3. Holidays - if you ever want time off without interruptions, you need to document how to cover what you're doing.
 
+<!-- -->
 
 4. Hoarding knowledge doesn't give you job security anyway.
    Working on the next cool thing for your client or employer does.
-
 
 ## Documentation Tools
 
