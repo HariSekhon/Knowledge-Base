@@ -57,7 +57,7 @@ is accessed as `com.mysql.jdbc.Driver` in Java code.
 
 ## Clojure
 
-https://clojure.org/
+<https://clojure.org/>
 
 Just a jar, no dependency like Scala predef.
 
