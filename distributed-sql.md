@@ -25,7 +25,7 @@ See [apache-drill.md](drill.md)
 
 ## CrateDB
 
-https://cratedb.com/
+<https://cratedb.com/>
 
 - open source
 - distributed SQL database
