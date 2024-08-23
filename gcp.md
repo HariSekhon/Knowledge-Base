@@ -29,11 +29,11 @@
 
 ### VM Instance Sizes
 
-https://gcpinstances.doit.com/
+<https://gcpinstances.doit.com/>
 
 Even more useful, you can click on a machine type and more details:
 
-https://gcloud-compute.com/instances.html
+<https://gcloud-compute.com/instances.html>
 
 ### VM Zones Gotcha
 
