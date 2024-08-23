@@ -68,7 +68,7 @@ repos:
         name: Markdownlint
         description: Run markdownlint on your Markdown files
         entry: mdl
-        args: [-s, .markdownlint.rb]
+        args: [-s, .mdl.rb]
         language: ruby
         files: \.(md|mdown|markdown)$
         # vim.md is hitting this bug:
