@@ -29,7 +29,7 @@ could optimize for throughput instead of GC pause times.
 
 ## Read up on JVM Garbage Collection Basics First
 
-https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
+<https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html>
 
 ## Don't make the Java Heaps too big
 
