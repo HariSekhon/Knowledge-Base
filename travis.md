@@ -55,7 +55,7 @@ Paste `.travis.yml` config in this online validator to see parsing and job matri
 Here is the URL for the above desktop notifiation tools
 
 ```none
-https://api.travis-ci.org/repos/<owner>/<repo>/cc.xml
+<https://api.travis-ci.org/repos/<owner>/<repo>/cc.xml>
 ```
 
 Returns empty json `{}` if it doesn't find the repo
@@ -241,7 +241,7 @@ travis token --org
 This should be the last bit of the url, eg.
 
 ```none
-https://travis-ci.org/HariSekhon/nagios-plugin-kafka/jobs/144678953
+<https://travis-ci.org/HariSekhon/nagios-plugin-kafka/jobs/144678953>
 ```
 
 means
