@@ -422,11 +422,11 @@ yum module disable module
 
 Gives developers newer Python/Perl/MySQL bundles.
 
-https://developers.redhat.com/products/red-hat-software-collections/overview
+<https://developers.redhat.com/products/red-hat-software-collections/overview>
 
 ### Pulp
 
-https://pulpproject.org/
+<https://pulpproject.org/>
 
 Repository management
 
