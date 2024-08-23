@@ -20,12 +20,12 @@ Database Web UI Manager
 
 ### Demo
 
-https://demo.cloudbeaver.io/#/
+<https://demo.cloudbeaver.io/#/>
 
 ### Wiki
 
-https://github.com/dbeaver/cloudbeaver/wiki
+<https://github.com/dbeaver/cloudbeaver/wiki>
 
 ### Docker Images
 
-https://github.com/dbeaver/cloudbeaver/wiki/Run-Docker-Container
+<https://github.com/dbeaver/cloudbeaver/wiki/Run-Docker-Container>
