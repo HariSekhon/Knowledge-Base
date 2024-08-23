@@ -9,7 +9,7 @@
 
 ## Misc Tools Pending Reallocation
 
-##### TODO: move to other more specific detailed pages
+**TODO: move to other more specific detailed pages**
 
 - LiquiBase
 - Bamboo
@@ -18,16 +18,18 @@
 - LoadStorm
 - KeyNote
 
+<br>
 
 - [JFrog Artifactory](artifactory.md) - repository mirror -  Maven, PyPI, NPM, Docker etc...
 
+<br>
 
 - Jira - see [Atlassian](atlassian.md) page
 - Confluence - see [Atlassian](atlassian.md) page
 
+<br>
 
 - Rundeck - open core scheduler
-
 
 ## DevOps is not entry-level
 
