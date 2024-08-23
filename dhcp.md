@@ -27,18 +27,17 @@ returns to the pool and will be reassigned to another client when it requests an
 
 ### DHClient
 
-https://linux.die.net/man/8/dhclient
+<https://linux.die.net/man/8/dhclient>
 
 ```shell
 dhclient
 ```
 
-
 ## DHCP Servers
 
 ### ISC DHCPd
 
-https://www.isc.org/dhcp/
+<https://www.isc.org/dhcp/>
 
 Available on Linux and Mac.
 
@@ -46,7 +45,7 @@ Battle tested but deprecated.
 
 Being replaced by Kea
 
-https://www.isc.org/dhcp_migration/
+<https://www.isc.org/dhcp_migration/>
 
 ## DHCP Test Clients
 
@@ -66,7 +65,7 @@ sudo dhcping -s 192.168.1.254
 
 output:
 
-```
+```none
 Got answer from: 192.168.1.254
 ```
 
@@ -97,6 +96,7 @@ brew info isc-dhcp
 ```
 
 Create a file `/opt/homebrew/etc/dhcpd.conf` with contents like this, change the IP addresses to suit your needs:
+
 ```shell
 # dhcpd.conf
 #
@@ -150,7 +150,7 @@ You can start it manually on the command line or download [TftpServer](https://d
 
 Start the the tftp server which will serve out `/private/tfpboot`.
 
-##### WARNING: TFTP is unauthenticated and accessible to anybody on the network, do not put anything in there that is sensitive and do not run it longer than you have to
+**WARNING: TFTP is unauthenticated and accessible to anybody on the network, do not put anything in there that is sensitive and do not run it longer than you have to**
 
 You can also start the TFTP server manually:
 
