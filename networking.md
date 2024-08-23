@@ -20,7 +20,7 @@
 
 Shows bits, netmask, first IP, last IP, number of IPs in range
 
-http://cidr.xyz/
+<http://cidr.xyz/>
 
 ## VPNs - Virtual Private Networks
 
@@ -42,7 +42,7 @@ Several products are build on this open source base software and use it under th
 
 #### OpenVPN Client
 
-https://openvpn.net/client/
+<https://openvpn.net/client/>
 
 #### Tunnelblick
 
@@ -75,11 +75,11 @@ Click the link from Incognito/Private Browsing and on/off VPN to see
 
 Documentation:
 
-https://dev.fingerprint.com/
+<https://dev.fingerprint.com/>
 
 Open source library (TODO read this code):
 
-https://github.com/fingerprintjs/fingerprintjs
+<https://github.com/fingerprintjs/fingerprintjs>
 
 ## Commands
 
