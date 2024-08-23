@@ -63,15 +63,15 @@ next section.
   - not primarily icon oriented such as for Cloud Architecture diagrams (D2 and Python diagrams are better for that)
   - can do icons though, see [example](https://text-to-diagram.com/?example=icons&b=mermaid) by D2 comparison site
   - see [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code)
-repo for live embedded MermaidJS diagrams
-[GitHub Flow with Jira integration](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#github-flow-with-jira-ticket-integration)
-and [Git Environment Branches](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#git---environment-branches)
+    repo for live embedded MermaidJS diagrams
+    [GitHub Flow with Jira integration](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#github-flow-with-jira-ticket-integration)
+    and [Git Environment Branches](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#git---environment-branches)
 - [Structurizer](https://structurizr.com/dsl) - yet another DSL, limited to software models
 - [MarkMap](https://github.com/markmap/markmap) - visualize your Markdown as mindmaps, nice, can open your GitHub repo's
-Markdown directly, although it looks like my
-[DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
-repo is far too huge a
-[map](https://markmap.js.org/repl#?d=github%3AHariSekhon%2FDevOps-Bash-tools%40master%3AREADME.md)
+  Markdown directly, although it looks like my
+  [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
+  repo is far too huge a
+  [map](https://markmap.js.org/repl#?d=github%3AHariSekhon%2FDevOps-Bash-tools%40master%3AREADME.md)
 
 [Best Comparison Site](https://text-to-diagram.com/) (run by D2)
 
@@ -103,6 +103,7 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 
 - [D2 Icons](https://icons.terrastruct.com/)
 
+<!-- -->
 
 - [Python Diagrams On-Premise](https://diagrams.mingrammer.com/docs/nodes/onprem)
 - [Python Diagrams AWS](https://diagrams.mingrammer.com/docs/nodes/aws)
@@ -111,32 +112,41 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 - [Python Diagrams Generic](https://diagrams.mingrammer.com/docs/nodes/generic) - OS, Virtualization, Network Hardware
 - [Python Diagrams Kubernetes](https://diagrams.mingrammer.com/docs/nodes/k8s)
 
+<!-- -->
 
 - [Official Kubernetes Icons](https://github.com/kubernetes/community/tree/master/icons)
 
+<!-- -->
 
 - [CNCF technologies Icons](https://landscape.cncf.io/card-mode)
 
+<!-- -->
 
 - [SimpleIcons](https://simpleicons.org/)
 
+<!-- -->
 
 - [Official AWS Icons](https://aws.amazon.com/architecture/icons/)
 
+<!-- -->
 
 - [Official GCP Icons](https://cloud.google.com/icons)
 
+<!-- -->
 
 - [Official Azure Icons](https://learn.microsoft.com/en-us/azure/architecture/icons/)
 - [Benco Azure Icons](https://code.benco.io/icon-collection/azure-icons/)
 - [Icon8 Azure Icons](https://icons8.com/icons/set/azure)
 
+<!-- -->
 
 - [FlatIcon](https://www.flaticon.com/)
 
+<!-- -->
 
 - [IconFinder](https://www.iconfinder.com/)
 
+<!-- -->
 
 - [Icons8](https://icons8.com/)
 
@@ -146,10 +156,10 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 - [MermaidJS](https://mermaid.live/)
 - [CloudGram](https://cloudgram.dedalusone.com/index.html)
 - GraphViz:
-  - https://dreampuf.github.io/GraphvizOnline
-  - http://magjac.com/graphviz-visual-editor/
-  - https://edotor.net/
--[MarkMap](https://markmap.js.org/repl)
+  - <https://dreampuf.github.io/GraphvizOnline>
+  - <http://magjac.com/graphviz-visual-editor/>
+  - <https://edotor.net/>
+- [MarkMap](https://markmap.js.org/repl)
 - Draw.io:
   - [Draw.io pre-loaded with AWS, GCP and Azure icons](https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4;azure;gcp2;network;webicons)
   - [Draw.io pre-loaded with AWS icons](https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4)
@@ -215,6 +225,5 @@ Some components like Grafana and [Vault](vault.md) are very relevant in architec
 and should be present but can be represented by a since simple icon,
 with their implementation showing how they're running on Kubernetes
 or achieving high availability being left to separate diagrams for each one.
-
 
 **Ported from various private Knowledge Base pages 2020+**
