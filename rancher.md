@@ -89,7 +89,7 @@ rancher settings get server-version -o json | jq -r '.Setting.value'
 
 ### Command Reference
 
-https://ranchermanager.docs.rancher.com/reference-guides/cli-with-rancher/rancher-cli#commands
+<https://ranchermanager.docs.rancher.com/reference-guides/cli-with-rancher/rancher-cli#commands>
 
 ```shell
 rancher --help
