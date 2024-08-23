@@ -28,7 +28,7 @@ Configs are in the `jenkins/` directory.
 
 ### JCasC - Jenkins Configuration as Code
 
-https://plugins.jenkins.io/configuration-as-code/
+<https://plugins.jenkins.io/configuration-as-code/>
 
 JCasC updates the password dynamically from the `values.yaml` (or per environment jcasc patch as per in the repo) using
 a sidecar that dynamically notices and reloads the config.
@@ -195,7 +195,7 @@ output from a live GKE cluster:
 
 ## Jenkins X
 
-https://jenkins-x.io/
+<https://jenkins-x.io/>
 
 Tries to bundle everything - nice in theory, but this increases complexity and reduces flexibility.
 
