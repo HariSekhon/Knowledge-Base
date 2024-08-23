@@ -37,7 +37,7 @@ hpacucli controller all show config
 Hardware card with a second networking interface and IP address for out-of-bounds management of a server
 and remote hardware and console to recover servers.
 
-https://www.dell.com/en-uk/lp/dt/open-manage-idrac
+<https://www.dell.com/en-uk/lp/dt/open-manage-idrac>
 
 Default user is `root`, default password is `calvin`.
 
