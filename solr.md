@@ -264,7 +264,7 @@ Some more things to monitor:
 
 Shards with no filled in circle = no leader
 
-https://solr.apache.org/guide/8_7/shard-management.html#forceleader
+<https://solr.apache.org/guide/8_7/shard-management.html#forceleader>
 
 Forcing a leader election can lead to data loss:
 
