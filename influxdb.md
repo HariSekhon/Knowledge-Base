@@ -8,7 +8,7 @@
 
 ## Chronograf
 
-https://www.influxdata.com/time-series-platform/chronograf/
+<https://www.influxdata.com/time-series-platform/chronograf/>
 
 UI to InfluxDB
 
