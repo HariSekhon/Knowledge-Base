@@ -49,6 +49,7 @@ Lightweight application containers containing app + all dependencies.
 - Docker EE:
   - UCP - Universal Control Plane - UI cluster manager
 
+<!-- -->
 
 - Isolation & Security:
   - namespaces - pid, net, ipc, mnt, uts (unix timesharing)
@@ -66,6 +67,7 @@ Lightweight application containers containing app + all dependencies.
 Docker CLI connects to the Dockerd Rest API.
 
 Download the `ubuntu:latest` image for spawning containers from:
+
 ```shell
 docker pull ubuntu # :tag or @<digestvalue>
 ```
@@ -107,6 +109,7 @@ newgrp docker
 - mounting empty volume copies files / dirs from container to it to initialize
 
 Standalone containers - creates local dir if not exists:
+
 ```shell
 docker run -v ...
 ```
@@ -147,7 +150,8 @@ Ansible Docker == Docker Compose (same syntax, both based on on docker-py)
 
 ## Docker Scan
 
-Docker Scan uses Snyk to detect vulnerabilities in docker images
+Docker Scan uses Snyk to detect vulnerabilities in docker images.
+
 - included in Docker Desktop
 - requires a plugin in Docker on Linux
 
@@ -180,6 +184,7 @@ docker buildx ...
 For builder pattern, build and push the 'builder' target separately, then pull it on other machines too.
 
 Enable BuildKit (Docker 18.09+):
+
 ```shell
 export DOCKER_BUILDKIT=1
 ```
@@ -290,7 +295,6 @@ See [Podman & Buildah](podman.md) doc.
 | server.go    | implementation of much of the REST API |
 | buildfile.go | dockerfile parser                      |
 
-
 ### Filesystem
 
 | Directory                    |
@@ -299,7 +303,6 @@ See [Podman & Buildah](podman.md) doc.
 | /var/lib/docker/graph        |
 | /var/lib/docker/repositories |
 | /var/lib/docker/volumes      |
-
 
 ## Logging
 
@@ -342,6 +345,7 @@ docker run --log-driver none
 ```
 
 more drivers:
+
 ```shell
 docker plugin install <org>/<name>
 ```
@@ -355,7 +359,6 @@ docker plugin ls
 ```shell
 docker plugin inspect
 ```
-
 
 ## DevOps-Python-tools
 
@@ -468,12 +471,14 @@ If you want to only delete select images older than a given time, see this
 ## Monitoring / Prometheus Scrape Target
 
 In `daemon.json`:
-```
+
+```json
 { "metrics_addr": "0.0.0.0:9323",
 "experimental": true }
 ```
 
 or
+
 ```shell
 dockerd --experimental=true --metrics-addr=0.0.0.0:4999
 ```
@@ -502,7 +507,7 @@ vim /etc/resolv.conf  # to 4.2.2.1 works
 
 ### Elasticsearch 5.0 Docker error
 
-```
+```none
 ERROR: bootstap checks failed
 max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]
 ```
@@ -529,4 +534,4 @@ If the above is taking a disproportionate amount of time, try disabling the anti
 
 For example, adding this exclusion in Semantec anti-virus resulted in a build going from timing out after 2 hours to 2 minutes in Azure DevOps Pipelines on Windows - a shocking performance difference.
 
-###### Partial port from private Knowledge Base page 2014+
+**Partial port from private Knowledge Base page 2014+**
