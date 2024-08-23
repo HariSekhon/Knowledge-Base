@@ -50,11 +50,11 @@ Kibana expects logstash format so mimic it with Rsyslog
 
 TODO: Rsyslog queues in case ElasticSearch is down
 
-http://wiki.rsyslog.com/index.php/Queues_on_v6_with_omelasticsearch
+<http://wiki.rsyslog.com/index.php/Queues_on_v6_with_omelasticsearch>
 
 Json formatted logging
 
-http://blog.sematext.com/2013/05/28/structured-logging-with-rsyslog-and-elasticsearch/
+<http://blog.sematext.com/2013/05/28/structured-logging-with-rsyslog-and-elasticsearch/>
 
 
 Documentation: http://www.rsyslog.com/doc/omelasticsearch.html
