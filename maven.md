@@ -41,7 +41,7 @@ package files.
 
 ## Best practice for release version incrementing
 
-https://maven.apache.org/guides/mini/guide-releasing.html
+<https://maven.apache.org/guides/mini/guide-releasing.html>
 
 ```shell
 mvn release:prepare ...
