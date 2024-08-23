@@ -79,8 +79,7 @@ Segregate roles for best performance:
 - data node   - stores data + fullfils queries - send writes here
 - client node - non-master non-data handles merge-sort (CPU + RAM intensive) aggregation from distributed shard queries to data nodes - point LBs + send queries to client nodes
 
-[Cluster update settings API](
-https://www.elastic.co/guide/en/elasticsearch/reference/current/cluster-update-settings.html)
+[Cluster update settings API](https://www.elastic.co/guide/en/elasticsearch/reference/current/cluster-update-settings.html)
 
 ## Elasticsearch on Kubernetes
 
