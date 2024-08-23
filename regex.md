@@ -22,15 +22,15 @@ for grep, sed & awk.
 
 ## Online Regex Testing
 
-https://regex101.com/
+<https://regex101.com/>
 
-https://regexr.com/
+<https://regexr.com/>
 
 #### Sed Regex Testing
 
 Test your sed regex here:
 
-https://sed.js.org/
+<https://sed.js.org/>
 
 ## PCRE vs BRE vs ERE
 
