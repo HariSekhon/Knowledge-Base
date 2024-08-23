@@ -559,10 +559,13 @@ explain select ...
 "index": "#primary"
 ```
 
+```
 "operator": "IndexScan"     <= using our secondary index
 "index": "<index_name>"
+```
 
 15 errata submitted
+
 <https://www.couchbase.com/issues/browse/MB-9840>
 
 ### Couchbase presentation at client in 2014
