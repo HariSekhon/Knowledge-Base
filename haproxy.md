@@ -428,7 +428,7 @@ http-response # layer 7 ACLS
 
 ## Stick Tables vs Source Balance + HA Peers
 
-https://www.haproxy.com/blog/client-ip-persistence-or-source-ip-hash-load-balancing/
+<https://www.haproxy.com/blog/client-ip-persistence-or-source-ip-hash-load-balancing/>
 
 - Source Balance - consistent CPU generated, no RAM overhead, may change if recalculated or client IP changes (DHCP, NAT DIPs)
 - Stick tables - uses RAM, better balancing
