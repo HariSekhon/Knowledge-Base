@@ -126,4 +126,4 @@ kapacitor enable cpu_alert
 kapacitor show cpu_alert
 ```
 
-###### Partial port from private Knowledge Base page 2018+
+**Partial port from private Knowledge Base page 2018+**
