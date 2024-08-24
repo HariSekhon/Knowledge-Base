@@ -17,7 +17,7 @@ Classic logging library for Java
   - docs virtually nonexistent
   - `SocketAppender` doesn't respect `PatternLayout`
   - `TelnetAppender` appears to be read only socket
-  - `SyslogAppender` does, but prefixes `<%{POSINT}> ` to every log
+  - `SyslogAppender` does, but prefixes `<%{POSINT}>` and a space to every log
     - Logstash grok message replace to strip prefix, then mutate escape `\n`,`\r`,`\t`, then json parse in filter phase, not Syslog input codec
 
 ```shell
@@ -26,7 +26,7 @@ Classic logging library for Java
 
 or
 
-```
+```properties
 log4j.configurationFile=
 ```
 
@@ -60,29 +60,29 @@ logger.info("test")
 
 Hadoop config:
 
-```
+```properties
 hadoop.root.logger=INFO  # this is the default log level
 ```
 
 Log4j config:
 
-```
+```properties
 log4j.logger.any.specific.class.name=LEVEL
 ```
 
-```
+```properties
 log4j.logger.any.package=LEVEL
 ```
 
 eg:
 
-```
+```properties
 log4j.logger.org.apache.hadoop.mapred=DEBUG
 ```
 
 In  Code:
 
-```
+```properties
 LOGGER.setLevel(Level.WARN);
 ```
 
