@@ -775,4 +775,4 @@ ScanConsistency.NOT_BOUNDED     // default
 .STATEMENT_PLUS  // strong consistency per statement
 ```
 
-###### Partial port from private Knowledge Base page 2013+
+**Partial port from private Knowledge Base page 2013+**
