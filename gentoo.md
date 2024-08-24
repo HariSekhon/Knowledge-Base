@@ -1,4 +1,4 @@
-### Gentoo
+# Gentoo
 
 Compiles packages from source using Portage package manager.
 
@@ -8,10 +8,9 @@ ultra customized and noticeably snappier.
 Downside is that you spend your life compiling software.
 When you go to [Debian](debian.md) it's shocking how quick it is to install packages and get on with your life...
 
-
 Fetch the package list from mirrors via rsync:
 
-```
+```shell
 #emaint -a sync
 emerge --sync
 ```
