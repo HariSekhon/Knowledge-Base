@@ -44,6 +44,7 @@ backed by Teradata from mid 2015
 - query federation via external catalogs
 - CLI is self-executing jar, downloaded separately
 
+<!-- -->
 
 - pipelined execution
 - no wait time - starts all stages and streams data from one stage to another
@@ -52,6 +53,7 @@ backed by Teradata from mid 2015
 - does not tolerate failures, queries will fail like [Impala](impala.md) / [Drill](drill.md) etc no time to recover
 - joining 2 tables, one must fit in memory
 
+<!-- -->
 
 - HTTP for data transfer
 
@@ -82,21 +84,21 @@ various Presto builds and other technologies can be found in the
 
 ## High Availability
 
-#### Coordinator has no in-built HA / fault tolerance
+### Coordinator has no in-built HA / fault tolerance
 
 Run 2 coordinators and [Load Balance](load-balancing.md) with stickyness in front of multiple coordinator nodes
 eg. using [HAProxy](haproxy.md)
 
 #### In-flight queries will fail in event of Load Balancing failover
 
-#### Inter-node communication is unauthenticated HTTP - does not support HTTPS or Kerberos!!
+### Inter-node communication is unauthenticated HTTP - does not support HTTPS or Kerberos
 
 - Nodes communicate between each other using REST API
 - Presto CLI, JDBC / ODBC drivers all use REST API
 
 ## Access Control
 
-#### No authorization control, all or nothing per catalog (backend)
+### No authorization control, all or nothing per catalog (backend)
 
 - separates authenticating user from authorized user,
   - requires customization to `SystemAccessControlFactory` and `ConnectorAccessControlFactory` for authorization
@@ -130,11 +132,12 @@ The namespace becomes `<name>` from the file name and the connector type is take
 
 - multiple Hive clusters just different `etc/catalog/<name>.properties` files containing `connector.name=hive-hadoop2`
 
+<!-- -->
 
 - HDFS - if not Krb will connect using OS user of Presto process
   - override in JVM Config with `-DHADOOP_USER_NAME=hdfs_user`
 
-#### Kerberos ticket cache not supported yet - does this mean it kinit's before every request or at daemon startup?
+**Kerberos ticket cache not supported yet - does this mean it kinit's before every request or at daemon startup?**
 
 ### Connector List
 
@@ -175,19 +178,19 @@ The namespace becomes `<name>` from the file name and the connector type is take
 
 Main log:
 
-```
+```none
 server.log
 ```
 
 Startup stdout/stderr log:
 
-```
+```none
 launcher.log
 ```
 
 HTTP request log:
 
-```
+```none
 http-request.log
 ```
 
@@ -241,7 +244,7 @@ offline installer is recommended cos faster
 
 `etc/config.properties`:
 
-```
+```properties
 # set false on just workers
 coordinator=true
 # might want to set false on dedicated coordinators
@@ -279,10 +282,9 @@ http-server.https.keystore.key=changeit
 -dlog.enable-console=true
 ```
 
-
 `etc/catalog/<name>.properties`:
 
-```
+```properties
 connector.name=hive-hadoop2
 hive.metastore.uri=thrift://<fqdn>:9083
 hive.metastore-cache-ttl=30
@@ -308,14 +310,14 @@ hive.hdfs.presto.keytab=/etc/security/keytabs/hive.service.keytab
 
 Presto `/etc/presto/catalog/postgres.properties`:
 
-```
+```properties
 connector.name=postgresql
 connection-url=jdbc:postgresql://<fqdn>/<db>?schema=<schema>
 connection-user=hari
 connection-password=test123
 ```
 
-#### TODO: docker system connector
+**TODO: docker system connector**
 
 ## API
 
@@ -361,6 +363,6 @@ Create table - can't use backticks, and no string type like hive:
 CREATE TABLE test ("first" varchar(20));
 ```
 
-#### TODO document show nodes, schemas, tables, kill queries etc
+**TODO document show nodes, schemas, tables, kill queries etc**
 
 **Partial port from private Knowledge Base page 2015+**
