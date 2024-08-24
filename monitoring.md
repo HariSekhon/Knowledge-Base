@@ -46,7 +46,8 @@ from EPEL:
 yum install -y collectl
 ```
 
-Configure for Graphite
+Configure for Graphite:
+
 ```shell
 sed -i.bak -e 's/^DaemonCommands/#DaemonCommands/g' /etc/collectl.conf
 sed -i -e 's/^#DaemonCommands/a DaemonCommands = -f \/var\/log\/collectl -P -M -scdmnCDZ --export graphite,localhost:2003,p=os,s=cdmnCDZ' /etc/collectl.conf
@@ -66,7 +67,6 @@ Simple but old now, used to use for clusters like Hadoop in 2009.
 - `gmond`  - agent
 
 Port 8649
-
 
 ### Geneos
 
