@@ -46,10 +46,12 @@ HAProxy configurations for many common open source technologies are readily avai
 - Affinity    - uses info below the L7 application layer to maintain a client request to a server eg. source IP
 - Persistence - uses L7 info eg. HTTP cookies - more accurate, better for cache hits
 
+<!-- -->
 
 - single threaded single process with multiple listening proxy instances (ssl offloader is only good use for multiple procs)
 - does most of work in kernel
 
+<!-- -->
 
 - stateless after start
 - runs in chroot jail (empty)
@@ -75,7 +77,6 @@ HAProxy configurations for many common open source technologies are readily avai
 - only logs to Syslog, not local files or sockets
 - network logging (detailed configurable logging with millisecond precision)
 
-
 ## Comparisons vs Alternatives
 
 HAProxy is a better Load Balancer than:
@@ -84,7 +85,6 @@ HAProxy is a better Load Balancer than:
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Nginx   | - Uses prod traffic to detect failures<br/>- less LB algos<br/>- limited stickyness / persistence)<br/>- Nginx stats stub<br/>- too basic, only 7 overall metrics, not granular per service like HAProxy frontends / backends |
 | Varnish | real health checks but no stickyness, designed for caching                                                                                                                                                                    |
-
 
 - URI - location, name or both
 - URN - address
@@ -122,10 +122,10 @@ loads dir/*.cfg in lexical order
 haproxy -f dir/
 ```
 
-health checks:
-- expect for content
-- agents to report load or admin states
-- atomically fail entire host if 1 server process is broken
+- health checks:
+  - expect for content
+  - agents to report load or admin states
+  - atomically fail entire host if 1 server process is broken
 
 ## Load Balancing Algorithms
 
@@ -158,7 +158,7 @@ socat /var/run/haproxy.sock
 
 `/etc/sysctl.conf`:
 
-```
+```properties
 net.ipv4.ip_nonlocal_bind = 1
 ```
 
@@ -355,7 +355,7 @@ Backend server if given a DNS FQDN:
 - caches IP responses to accumulate all IPs for situation where DNS server does not return all IPs in each response
   (round robin DNS), caches for `hold obsolete` time without seeing an IP in any response
 
-#### Check the below nameservers are used instead of or in addition to libc functions using `/etc/resolv.conf`?
+**Check the below nameservers are used instead of or in addition to libc functions using `/etc/resolv.conf`?**
 
 ```haproxy
 resolvers mynameservers
@@ -400,7 +400,6 @@ tcp-request   # layer 4 ACLS
 tcp-response  # layer 4 ACLS
 http-request  # layer 7 ACLS
 http-response # layer 7 ACLS
-```
 
     tcp-request connection ...
     tcp-request content ...
@@ -424,7 +423,7 @@ http-response # layer 7 ACLS
     # or in 'tcp' mode
     #tcp-request connection reject if ! internal_networks
     tcp-request connection reject unless internal_networks
-
+```
 
 ## Stick Tables vs Source Balance + HA Peers
 
