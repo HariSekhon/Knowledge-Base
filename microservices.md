@@ -1,6 +1,6 @@
 # Microservices
 
-##### TODO finish and refine this page.
+**TODO finish and refine this page**
 
 Run small services that do one thing well.
 
@@ -81,7 +81,6 @@ Commonly used technologies in microservices stacks:
   - LogStash => Elasticsearch => Kibana
   - all services should log to json
   - this avoids other services writing logs locally and allows for read-only filesystem immutable Docker containers
-
 
 ## Misc Notes
 
