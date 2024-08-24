@@ -1,7 +1,7 @@
 # Secret Managers
 
 Personal password managers offer a great convenience to use different passwords everywhere to limit
-exposure risks when one site or another inevitably gets hacked (see https://haveibeenpwned.com/).
+exposure risks when one site or another inevitably gets hacked (see <https://haveibeenpwned.com/>).
 
 However, they also represent a single point of failure they themselves get hacked.
 
