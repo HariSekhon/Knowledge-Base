@@ -76,4 +76,4 @@ Template to get you started:
 
 See adjacent [GitHub Profile Page](github.md#github-profile-page) doc.
 
-###### Partial port from private Knowledge Base page 2012+
+**Partial port from private Knowledge Base page 2012+**
