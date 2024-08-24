@@ -65,7 +65,7 @@ DEPLOYMENT_NAME=my-karpenter-test-deployment
 ```shell
 kubectl create deployment "$DEPLOYMENT_NAME" \
       --image=public.ecr.aws/eks-distro/kubernetes/pause:3.2 \
-		  --requests.cpu=1
+      --requests.cpu=1
 ```
 
 Scale up the deployment to force a scaling event:
@@ -82,7 +82,7 @@ kubectl logs -f -n karpenter $(kubectl get pods -n karpenter -l karpenter=contro
 
 Should show something like this:
 
-```
+```none
 2021-11-23T04:46:11.280Z        INFO    controller.allocation.provisioner/default       Starting provisioning loop      {"commit": "abc12345"}
 2021-11-23T04:46:11.280Z        INFO    controller.allocation.provisioner/default       Waiting to batch additional pods        {"commit": "abc123456"}
 2021-11-23T04:46:12.452Z        INFO    controller.allocation.provisioner/default       Found 9 provisionable pods      {"commit": "abc12345"}
@@ -106,7 +106,7 @@ kubectl logs -f -n karpenter $(kubectl get pods -n karpenter -l karpenter=contro
 
 Should show something like this:
 
-```
+```none
 2021-11-23T04:46:18.953Z        INFO    controller.allocation.provisioner/default       Watching for pod events {"commit": "abc12345"}
 2021-11-23T04:49:05.805Z        INFO    controller.Node Added TTL to empty node ip-192-168-0-0.ec2.internal {"commit": "abc12345"}
 2021-11-23T04:49:35.823Z        INFO    controller.Node Triggering termination after 30s for empty node ip-192-168-0-0.ec2.internal {"commit": "abc12345"}
