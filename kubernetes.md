@@ -209,4 +209,4 @@ patching:
 kubernetes_delete_stuck_namespace.sh <namespace>
 ```
 
-###### Partial port from private Knowledge Base page 2015+
+**Partial port from private Knowledge Base page 2015+**
