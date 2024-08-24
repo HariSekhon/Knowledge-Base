@@ -31,16 +31,15 @@ Keep version parity between all TICK components eg. 0.11
 
 Option 1:
 
-```
+```none
 Telegraf -> InfluxDB -> Kapacitor
 ```
 
 Option 2:
 
-```
+```none
 Telegraf -> Kapacitor
 ```
-
 
 ## Kapacitor Enterprise
 
@@ -61,7 +60,7 @@ Telegraf -> Kapacitor
 kapacitord config > kapacitor.conf
 ```
 
-```
+```none
 /etc/kapacitor/kapacitor.conf
 /var/log/kapacitor/kapacitor.log
 ```
@@ -76,12 +75,11 @@ export KAPACITOR_URL=http://kapacitor:9092
 kapacitor
 ```
 
-
 ## TICKscript
 
 TICKscript can create running average + alert if CPU drops below 3 std deviations:
 
-```
+```none
 crit(lambda: sigma("field") > 3)
 ```
 
@@ -106,7 +104,8 @@ take a sample to test with:
 ```shell
 kapacitor record stream -task cpu_alert -duration 60s
 ```
-```
+
+```none
 rid=xxxxxx-xxxxx...
 ```
 
