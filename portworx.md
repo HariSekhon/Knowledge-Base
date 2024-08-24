@@ -9,29 +9,30 @@
 
 <!-- INDEX_START -->
 
-  - [Portworx Enterprise Install](#portworx-enterprise-install)
-  - [Administration](#administration)
-  - [Portworx CLI](#portworx-cli)
+- [Portworx Enterprise Install](#portworx-enterprise-install)
+- [Administration](#administration)
+- [Portworx CLI](#portworx-cli)
+  - [Inside the Pod or a server with Portworx installed](#inside-the-pod-or-a-server-with-portworx-installed)
 
 <!-- INDEX_END -->
 
-### Portworx Enterprise Install
+## Portworx Enterprise Install
 
 [Install on Rancher](https://docs.portworx.com/portworx-enterprise/platform/kubernetes/rancher/install) doc.
 
 Config file:
 
-```
+```none
 /etc/pwx/config.json
 ```
 
 Environment variables:
 
-```
+```none
 /etc/pwx/pw_env
 ```
 
-### Administration
+## Administration
 
 Set the Portworx namespace variable for use in future commands:
 
@@ -50,7 +51,9 @@ If you're on Rancher, set your kube config:
 ```shell
 export KUBECONFIG=/etc/rancher/rke2/rke2.yaml
 ```
+
 Optionally alias `kubectl` to the Rancher version:
+
 ```shell
 alias kubectl=/var/lib/rancher/rke2/bin/kubectl
 ```
@@ -67,8 +70,7 @@ Get the admin token:
 ADMIN_TOKEN=$(kubectl -n "$PORTWORX_NAMESPACE" get secret px-admin-token -o jsonpath='{.data.auth-token}' | base64 -d)
 ```
 
-
-### Portworx CLI
+## Portworx CLI
 
 From [install](https://docs.portworx.com/portworx-enterprise/platform/kubernetes/rancher/install) doc:
 
@@ -86,7 +88,7 @@ Exec into the found pod:
 kubectl exec -ti "$PORTWORX_POD" -n "$PORTWORX_NAMESPACE" -- /bin/bash
 ```
 
-#### Inside the Pod or a server with Portworx installed
+### Inside the Pod or a server with Portworx installed
 
 ```shell
 export PATH="$PATH:/opt/pwx/bin"
