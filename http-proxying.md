@@ -13,15 +13,18 @@
 Use Cases:
 
 - egress traffic to the internet from corporate networks for security controls and auditing - typical in banking
-(I've [worked](https://www.linkedin.com/in/HariSekhon) for several large well known banks)
+  (I've [worked](https://www.linkedin.com/in/HariSekhon) for several large well known banks)
 
+<!-- -->
 
 - reverse proxies like [Squid](https://www.squid-cache.org/)
 
+<!-- -->
 
 - used by package managers and build tools to download programming language libraries eg. `mvn` for Java to pull from
-Maven Central, `pip` for Python to pull from PyPI etc.
+  Maven Central, `pip` for Python to pull from PyPI etc.
 
+<!-- -->
 
 - [SSH tunnels in GCP](ssh-tunnelling.md#gcp) used by `kubectl` to access protected GKE clusters master control plane API
 
