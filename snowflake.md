@@ -52,6 +52,7 @@ show pipes;
 ```
 
 Check copy history:
+
 ```sql
 select *
 from table(information_schema.copy_history(table_name=>'twitter', start_time=> dateadd(hours, -1, current_timestamp())));
