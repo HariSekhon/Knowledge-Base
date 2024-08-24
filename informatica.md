@@ -160,7 +160,7 @@ belong to our team.
 
 On the EC2 agent, the path for the scripts to start and stop components and logs can be found under:
 
-```
+```none
 /home/ec2-user/infaagent/apps/agentcore
 ```
 
@@ -251,11 +251,11 @@ Synapse.
 Download the MySQL or PostgreSQL jdbc jar version matching your DB (eg. AWS RDS configuration tab `Engine version`
 field) and then copy it to the following locations:
 
-```
+```none
 /home/ec2-user/infaagent/ext/connectors/thirdparty/informatica.jdbc_v2/common/
 ```
 
-```
+```none
 /home/ec2-user/infaagent/ext/connectors/thirdparty/informatica.jdbc_v2/spark/
 ```
 
@@ -295,13 +295,13 @@ Follow this doc:
 The connection string will need the following appended to it in most cases where SSL is not used, such as a vanilla
 RDS instance:
 
-```
+```none
 ?useSSL=false
 ```
 
 eg.
 
-```
+```none
 jdbc:mysql://x.x.x.x:3306/my-db?useSSL=false
 ```
 
@@ -313,13 +313,13 @@ Use the same [JDBC](jdbc.md) jar version as the database, eg. check the RDS conf
 Informatica documentation was also wrong about the driver class.
 Inspecting the `mysql-connector-j-8.0.33.jar` as per the [JDBC](jdbc.md) doc showed the correct class should be:
 
-```
+```none
 com.mysql.jdbc.Driver
 ```
 
 NOT what the Informatica doc said:
 
-```
+```none
 jdbc.mysql.MySQLDriver
 ```
 
@@ -327,7 +327,7 @@ jdbc.mysql.MySQLDriver
 
 Large data transfers may result in this error:
 
-```
+```none
 [ERROR] java.lang.OutOfMemoryError: Java heap space
 ```
 
@@ -426,7 +426,7 @@ This is quicker than restarting the entire secure agent.
 
 ### Vertica ODBC Connector Error
 
-```
+```none
 The connection test failed because of the following error: Can't find resource for bundle java.util.PropertyResourceBundle, key Error establishing socket to host and port, Reason: Connection refused.; nested exception is:
 
 com.informatica.saas.common.exception.SaasException: Can't find resource for bundle java.util.PropertyResourceBundle, key Error establishing socket to host and port, Reason: Connection refused.
@@ -460,7 +460,6 @@ not using it for debugging as this is a cumulative log going back months.
 You can also add logrotate to automatically rotate and truncate this.
 
 Insert, Upsert, and `InfaS3Staging*/*` temp files are often a problem in `/tmp`.
-
 
 Find those temp files older than 1 day and consider deleting them:
 
@@ -535,7 +534,7 @@ version match.
 This error will manifest itself in `Mapping (Advanced Mode)` jobs that use Kubernetes with a job `Error Message` field
 like this:
 
-```
+```none
 WES_internal_error_Failed to start cluster for [01CLDB25000000000003]. Error reported while starting cluster [500 {"code":"CLUSTER.FAIL_operation_error","message":"Cluster CREATE failed due to the following error: Failed to perform cluster operation [ClusterOpCode.ERROR] due to error : [K8s_10152] The configured Kubernetes cluster version [Kubernet[truncated]. For more information about the failure, check the application log.If the problem persists, contact Informatica Global Customer Support.
 ```
 
@@ -599,6 +598,7 @@ SPARK_DRIVER_POD="$(
   tee /dev/stderr
 )"
 ```
+
 The above command should print the pod name. If it doesn't, debug it before continuing.
 
 Copy the JDK to the spark pod:
