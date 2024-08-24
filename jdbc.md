@@ -36,7 +36,7 @@ download_mysql_jdbc_jar.sh
 
 The connection string should look like this:
 
-```
+```none
 jdbc:mysql://x.x.x.x:3306/my-db?useSSL=false
 ```
 
