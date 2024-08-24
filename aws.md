@@ -575,9 +575,9 @@ kubectl rollout restart deployment <app>
 
 1. Create an init container to accurately test for Vault availability before allowing the app pod to come up
    1. This can test Vault availability
-   1. It can fetch DB password similar to what the app container does
-   1. It can test that the fetched DB password actually works using a test connection to the DB
-1. The App itself could crash upon startup detection that the DB connection fails to cause the pod to crash and
+   2. It can fetch DB password similar to what the app container does
+   3. It can test that the fetched DB password actually works using a test connection to the DB
+2. The App itself could crash upon startup detection that the DB connection fails to cause the pod to crash and
    auto-restart until the DB password is fetched and connected successfully
    1. The DB connection and implicitly the Vault password load could be tested by the entrypoint trying to connect
       to the DB before starting the app
@@ -594,11 +594,11 @@ Use another EC2 instance in the same Availability Zone as the problematic VM whi
 volume is physically located.
 
 1. Shut down the problem instance which isn't booting.
-1. Optional: mark the instance with tags `Name1` = `Problem` to make it easier to find
-1. Detach the EBS volume from the problem instance
-1. Find the volume (optionally using the `Problem` search in the list of EBS volumes)
-1. Attach the EBS volume to your debug EC2 instance in the same Availabilty Zone as device `/dev/sdf`
-1. On the debug instance:
+2. Optional: mark the instance with tags `Name1` = `Problem` to make it easier to find
+3. Detach the EBS volume from the problem instance
+4. Find the volume (optionally using the `Problem` search in the list of EBS volumes)
+5. Attach the EBS volume to your debug EC2 instance in the same Availabilty Zone as device `/dev/sdf`
+6. On the debug instance:
 
 Find the new disk. It's usually the largest partition on the new disk
 
@@ -637,8 +637,8 @@ sudo umount /mnt
 ```
 
 7. Detach the volume from the debug instance
-1. Attach the volume to the original instance
-1. Start the original instance which should now come up
-1. Remove the `Problem` tag from the volume
+8. Attach the volume to the original instance
+9. Start the original instance which should now come up
+10. Remove the `Problem` tag from the volume
 
 **Partial port from private Knowledge Base page 2012+**
