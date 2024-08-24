@@ -81,8 +81,8 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 ### Editors
 
 - [Editors](editors.md)
-- [Vim](vim.md)
-- [IntelliJ](intellij.md)
+  - [Vim](vim.md)
+  - [IntelliJ](intellij.md)
 - [Coder](coder.md)
 
 ### Architecture & Documentation
@@ -108,20 +108,22 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 ### Cloud
 
-- [AWS](aws.md)
-- [GCP](gcp.md)
-- [Azure](azure.md)
-- [Digital Ocean](digital-ocean.md)
+- Cloud Platforms:
+  - [AWS](aws.md)
+  - [GCP](gcp.md)
+  - [Azure](azure.md)
+  - [Digital Ocean](digital-ocean.md)
+- Third Party Tools:
+  - [MinIO](minio.md)
+  - [HashiCorp Vault](vault.md)
 - [PaaS](paas.md)
-- [MinIO](minio.md)
-- [HashiCorp Vault](vault.md)
 
 ### Docker
 
 - [Docker](docker.md)
-- [Dockerfile](dockerfile.md) TODO
-- [Docker Compose](docker-compose.md)
-- [Docker Swarm](docker-swarm.md)
+  - [Dockerfile](dockerfile.md) TODO
+  - [Docker Compose](docker-compose.md)
+  - [Docker Swarm](docker-swarm.md)
 - [Podman](podman.md)
 - [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) repo
 
@@ -129,6 +131,9 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 - [Kubernetes](kubernetes.md)
   - [Kubernetes Upgrades](kubernetes-upgrades.md)
+
+#### Cloud Hosted Kubernetes
+
 - [AWS EKS](eks.md) TODO
 - [GKE](gke.md) TODO
 - [AKS](aks.md) TODO
