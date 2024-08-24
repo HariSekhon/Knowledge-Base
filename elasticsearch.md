@@ -1,5 +1,7 @@
 # Elasticsearch
 
+NOT PORTED YET
+
 Distributed ring clustered search service.
 
 <!-- INDEX_START -->
@@ -134,4 +136,4 @@ Balancer. Use this instead of a Load Balancer as it's more efficient 1 less leve
 
 Perl CPAN [Search::Elasticsearch](https://metacpan.org/pod/Search::Elasticsearch)
 
-###### Partial port from private Knowledge Base page 2013+
+**Partial port from private Knowledge Base page 2013+**
