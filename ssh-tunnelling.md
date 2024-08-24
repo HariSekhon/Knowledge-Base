@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Generic SSH Port Forwarding](#generic-ssh-port-forwarding)
+  - [Use Case Example](#use-case-example)
 - [HTTP Proxying](#http-proxying)
 - [GCP](#gcp)
 
@@ -23,7 +24,7 @@ WARNING: you probably don't want to use `-R` because that would bind the port on
 anybody could connect to it - it wouldn't be protected inside an SSH tunnel on your local machine, and nor would
 your network packets between your machine and `host1`.
 
-##### Use Case Example
+### Use Case Example
 
 I used to use this `-L` tunnel to my home Subversion server in the 2000s to commit my home directory configs and
 personal scripts for my l33t Gentoo workstation & laptop. Thankfully the superior [Git](git.md) and remote working both
