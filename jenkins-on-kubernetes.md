@@ -59,11 +59,13 @@ gcloud beta container node-pools create "jenkins" \
 ### Default Admin User + Password
 
 User (usually `admin`):
+
 ```shell
 kubectl get secret -n jenkins jenkins -o 'jsonpath={.data.jenkins-admin-user}' | base64 --decode
 ```
 
 Password:
+
 ```shell
 kubectl get secret -n jenkins jenkins -o jsonpath="{.data.jenkins-admin-password}" | base64 --decode
 ```
@@ -73,9 +75,11 @@ chart via Kustomize (see [bug report](https://github.com/jenkinsci/helm-charts/i
 
 You can also get the secrets from the container, it's just a bit longer, but it's exactly the same as the above and
 has the same bug:
+
 ```shell
 kubectl exec -ti -n jenkins jenkins-0 -c jenkins -- cat /run/secrets/additional/chart-admin-user
 ```
+
 ```shell
 kubectl exec -ti -n jenkins jenkins-0 -c jenkins -- cat /run/secrets/additional/chart-admin-password
 ```
@@ -88,6 +92,7 @@ won't work with the Jenkins helm chart if `securityRealm` -> `local` section is 
 the admin password from the `jenkins` secret whenever it changes, which will hit you every pod restart.
 
 Stop the helm chart from recreating the secret every time by setting this in the chart `values.yaml` and applying it:
+
 ```yaml
 controller:
   admin:
@@ -101,6 +106,7 @@ kubectl rollout restart sts jenkins
 ```
 
 Now recover the initial admin password to log in:
+
 ```shell
 kubectl get secret -n jenkins jenkins -o jsonpath="{.data.jenkins-admin-password}" | base64 --decode
 ```
@@ -126,7 +132,6 @@ This is an example of a production Jenkins-on-Kubernetes I built and managed for
 
 ![](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/jenkins_kubernetes_cicd.svg)
 
-
 ## CloudBees on Kubernetes
 
 Deploy this config:
@@ -147,13 +152,13 @@ cloudbees check kubernetes
 
 gets this output, even on production clusters with several working ingresses
 
-```shell
+```none
 [KO] Ingress service exists
 ```
 
 output from a live EKS cluster:
 
-```shell
+```none
 [OK] Kubernetes Client version is higher or equal to 1.10 - v1.18.8
 [OK] Kubernetes client can be created
 [OK] Kubernetes server is accessible
@@ -176,7 +181,7 @@ error: there are 2 failed checks
 
 output from a live GKE cluster:
 
-```
+```none
 [OK] Kubernetes Client version is higher or equal to 1.10 - v1.18.8
 [OK] Kubernetes client can be created
 [OK] Kubernetes server is accessible
@@ -205,7 +210,7 @@ Normal Jenkins-on-Kubernetes above is easier, works better as more widely used a
 and is more compatible with the traditional Jenkins people have been using for over a decade, including all the plugins
 and features.
 
-#### Install
+### Install
 
 ```shell
 helm init --stable-repo-url https://charts.helm.sh/stable
@@ -224,7 +229,8 @@ jx status
 ## Old Manual Configuration of Jenkins on Kubernetes
 
 In the UI click:
-```
+
+```none
 Manage Jenkins
     -> Manage Nodes and Clouds
         -> Configure Clouds
@@ -233,7 +239,7 @@ Manage Jenkins
 
 Settings:
 
-```
+```none
 Credentials -> add -> Jenkins -> GCP service account
 
 Jenkins URL -> http://jenkins-ui.jenkins.svc.cluster.local:8080
@@ -252,12 +258,12 @@ The tricks is doing this without losing your job history data.
 
 You first need to have been using a [resizeable disk](https://github.com/HariSekhon/Kubernetes-configs/blob/master/jenkins/base/storageclass-gcp-standard-resizeable.yaml) configuration.
 
-#### WARNING: do NOT delete the PersistentVolumeClaim
+**WARNING: do NOT delete the PersistentVolumeClaim**
 
 Otherwise the Jenkins server statefulset will create a new blank persistent volume, losing your state.
 Then you'll have to follow the more difficult Recovery Steps further down.
 
-#### Ensure Persistent Volume will be Retained
+**Ensure Persistent Volume will be Retained**
 
 First, ensure that the Jenkins persistent volume is set to be retained so you don’t lose the `/var/jenkins_home` volume
 where the build history is stored (losing it will also fail future pipelines milestones due to build numbers being reset
@@ -273,7 +279,7 @@ kubectl get pv | grep jenkins
 
 You should see `Retain` in the 4th field rather than `Delete` (delete is the default):
 
-```
+```none
 pvc-228857c7-2230-407f-80be-6ff3c4f0b946   30Gi       RWO            Retain           Bound    jenkins/jenkins-home-jenkins-0   gcp-standard-resizeable            2y161d
 ```
 
@@ -359,15 +365,13 @@ kubectl delete sts jenkins-server
 kubectl create -f /tmp/jenkins-pvc.yaml
 ```
 
-
 ```shell
 kubectl get pv,pvc -n jenkins | grep jenkins
 ```
 
-
 You need to fix this `Lost`:
 
-```
+```none
 persistentvolumeclaim/jenkins-home-jenkins-0   Lost     persistentvolume/pvc-7fecff9a-7ec7-42a4-bc4f-b54286f089c2   0                         gcp-standard-resizeable   61s
 ```
 
@@ -379,7 +383,7 @@ Get the UID of the claiming PVC:
 kubectl get -o json persistentvolumeclaim/jenkins-home-jenkins-server-0 | jq -r '.metadata.uid'
 ```
 
-##### WARNING: DON'T EDIT THE PV UID IT'LL GET LOST
+**WARNING: DON'T EDIT THE PV UID IT'LL GET LOST**
 
 ```shell
 kubectl edit pv ...  # increase the size of the pv
@@ -395,5 +399,4 @@ The new pvc will now bind to the original PV.
 Then redeploy the statefulset again (automatic via ArgoCD) or via Helm / Kustomize / `kubectl`
 to use this new PVC ponting to the original PV with your job history data.
 
-
-###### Port from private Knowledge Base page 2020+
+**Ported from private Knowledge Base page 2020+**
