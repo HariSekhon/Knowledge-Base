@@ -363,4 +363,4 @@ CREATE TABLE test ("first" varchar(20));
 
 #### TODO document show nodes, schemas, tables, kill queries etc
 
-###### Partial port from private Knowledge Base page 2015+
+**Partial port from private Knowledge Base page 2015+**
