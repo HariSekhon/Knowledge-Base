@@ -55,7 +55,7 @@ Schema always same hence mahout assumes schema and just works
 
 For binary preferences:
 
-```
+```none
 userid1,trueitem1
 userid1,trueitem2
 ```
@@ -79,15 +79,15 @@ Other values for the `--similarityClassname` option:
 SIMILARITY_TANIMOTO_COEFFICIENT --booleanData
 ```
 
-```
+```none
 SIMILARITY_EUCLIDEAN_DISTANCE
 ```
 
-```
+```none
 SIMILARITY_COSINE
 ```
 
-```
+```none
 SIMILARITY_PEARSON_CORRELATION
 ```
 
