@@ -65,7 +65,7 @@ yum provides \*/bin/java
 
 output:
 
-```
+```none
 java-1.8.0-openjdk-headless
 java-11-openjdk-headless
 ```
@@ -78,7 +78,7 @@ wget - set proxy in `/etc/wgetrc`.
 
 Proxy configuration for all repos in `/etc/yum.conf`:
 
-```
+```properties
 proxy=http://server:3128
 proxy_username=hari
 proxy_password=myPass
@@ -96,7 +96,7 @@ yum install -y yum-utils
 repoquery -f */file
 ```
 
-inspired by http://wiki.centos.org/TipsAndTricks/YumAndRPM
+inspired by <http://wiki.centos.org/TipsAndTricks/YumAndRPM>
 
 To see an rpm's files and header:
 
@@ -441,9 +441,7 @@ This is called by adding the following kernel arguments in the installation grub
 inst.ks=http://192.168.1.2:8080/kickstart.cfg
 ```
 
-
 (if booting hangs, try adding some of these kernel arguments: `nolapic`, `pci=routeirq`, `pci=noacpi`, `noapic`)
-
 
 If you just want to start a quick webserver from your local directory, you can do this which starts a local webserver
 on port 8080:
