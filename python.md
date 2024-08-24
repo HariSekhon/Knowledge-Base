@@ -64,7 +64,7 @@ Now install PyPI modules as usual.
 
 The `venv/pyvenv.cfg` file will contain some metadata like this:
 
-```
+```properties
 home = /opt/homebrew/Cellar/python@3.12/3.12.3/bin
 implementation = CPython
 version_info = 3.12.3.final.0
