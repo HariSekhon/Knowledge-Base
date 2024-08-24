@@ -7,6 +7,7 @@ It's hard to find a shorter easier build command than running:
 ```shell
 make
 ```
+
 to run whatever build commands you want.
 
 Even when I use Maven, Gradle, SBT, Pip, Cpanm, Go Build etc... I wrap them in a `Makefile` because it makes the
