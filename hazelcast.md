@@ -38,8 +38,8 @@
 
 Compute - can run function on every node or select nodes
 
-Pub-Sub - has ringbuffer to allocate slow/disconnected consumers to catch up
-- ringbuffer size is configurable, can overwrite or block
+- Pub-Sub - has ringbuffer to allocate slow/disconnected consumers to catch up
+          - ringbuffer size is configurable, can overwrite or block
 
 3.6 will have a disk restart option
 
