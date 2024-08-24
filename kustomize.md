@@ -26,18 +26,20 @@ curl -s "https://raw.githubusercontent.com/kubernetes-sigs/kustomize/master/hack
 kustomize build
 ```
 
-if your `kustomization.yaml` include the helmCharts operator you must specify the `--enable-helm` switch:
+If your `kustomization.yaml` include the helmCharts operator you must specify the `--enable-helm` switch:
 
 ```shell
 kustomize build --enable-helm
 ```
 
-compare changes to currently loaded manifests in the cluster:
+Compare changes to currently loaded manifests in the cluster:
+
 ```shell
 kustomize build --enable-helm | kubectl diff -f -
 ```
 
-apply the yaml manifests:
+Apply the yaml manifests:
+
 ```shell
 kustomize build --enable-helm | kubectl apply -f -
 ```
@@ -49,8 +51,10 @@ eg.
 ```shell
 kubectl diff -k .
 ```
+
 but this is weaker than using standalone `kustomize` but `kubectl` doesn't use the `--enable-helm` switch so fails on
 Kustomizations which pull in Helm charts:
+
 ```yaml
 error: accumulating resources: accumulation err='accumulating resources from '../base': '/Users/hari/github/k8s/jenkins/base' must resolve to a file': recursed accumulation of path '/Users/hari/github/k8s/jenkins/base': trouble configuring builtin HelmChartInflationGenerator with config: `
 includeCRDs: true
