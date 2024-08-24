@@ -62,18 +62,23 @@ in [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins):
 ```shell
 racadm serveraction hardreset
 ```
+
 ```shell
 racadm serveraction gracereboot
 ```
+
 ```shell
 racadm serveraction graceshutdown
 ```
+
 ```shell
 racadm serveraction powercycle
 ```
+
 ```shell
 racadm serveraction powerup
 ```
+
 ```shell
 racadm serveraction powerdown
 ```
