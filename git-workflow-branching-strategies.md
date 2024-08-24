@@ -47,7 +47,6 @@ At least they don't [only test in Production](https://github.com/HariSekhon/Diag
 
 Another internet facing client refused to use tagging because they didn't want to have to think up version or release numbers for their website releases.
 
-
 Also, contrary to some naysayers it's quite easy to diff environment branches as everything should be in Git, so you can get a very quick and easy difference between your environments in a single `git diff` command. It's also easy to automate backporting hotfixes to lower environments:
 
 - GitHub repo: [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkin)
@@ -132,8 +131,8 @@ gitGraph
     checkout production
     merge staging id: "fast-forward merge 3 " tag: "v2023.3 Release (CI/CD)"
 ```
-Note: I did eventually move this client to tagged releases using `YYYY.NN` release format, just incrementing `NN` which is a no brainer ([githubNextRelease.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/githubNextRelease.groovy)). It turns out the developers had eventually started using releases in Jira labelled as `YYYY.NN` to track which tickets were going into which production deployment, so when I pushed for this, it made sense to them finally as not being too great an inconvenience! It's also easy to automate by creating GitHub Releases in Jenkins ([githubCreateRelease.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/githubCreateRelease.groovy)).
 
+Note: I did eventually move this client to tagged releases using `YYYY.NN` release format, just incrementing `NN` which is a no brainer ([githubNextRelease.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/githubNextRelease.groovy)). It turns out the developers had eventually started using releases in Jira labelled as `YYYY.NN` to track which tickets were going into which production deployment, so when I pushed for this, it made sense to them finally as not being too great an inconvenience! It's also easy to automate by creating GitHub Releases in Jenkins ([githubCreateRelease.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/githubCreateRelease.groovy)).
 
 ## GitHub Flow with Jira ticket integration
 
@@ -166,7 +165,6 @@ gitGraph
     commit
     commit
 ```
-
 
 ## Why you shouldn't use long-lived feature branches
 
