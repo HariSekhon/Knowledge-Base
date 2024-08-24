@@ -50,10 +50,10 @@ git clone https://github.com/HariSekhon/DevOps-Perl-tools.git perl-tools
 cd perl-tools
 make  # installs CPAN dependencies on all major Linux and Mac systems
 ```
+
 ```shell
 ./solr_cli.--help
 ```
-
 
 ## Commercial Offerings
 
@@ -65,6 +65,7 @@ On first node:
 
 Notice the `/solr` suffix to the zkHosts to chroot the SolrCloud to the /solr path inside ZooKeeper otherwise it'll
 write junk all over top level
+
 ```shell
 java -DzkHosts=zk1:2181,zk2:2181,zk3:2181/solr \
   -DnumShards=2 \
@@ -107,9 +108,8 @@ endpoint that wasn't documented at the time of writing.
 - Leader uses 100 transaction log to sync replicas
 - if replicas fall too far behind leader then full replication of segments is needed instead
 
-
 - CDCR - Cross DataCenter Replication
-  - https://sematext.com/blog/2016/04/20/solr-6-datacenter-replication/
+  - <https://sematext.com/blog/2016/04/20/solr-6-datacenter-replication/>
   - 6.0+
   - stores unlimited update log
   - 'replicator' configured on source collection sends batch updates to target collection(s)
@@ -129,7 +129,6 @@ endpoint that wasn't documented at the time of writing.
   - enable buffering `CDCR http://.../<collection>/cdcr?action=ENABLEBUFFER`
   - disable buffering `CDCR http://.../<collection>/cdcr?action=DISABLEBUFFER`
 
-
 - Parallel SQL:
   - 6.0+
   - SQL Handler
@@ -147,18 +146,23 @@ NRT DR cross site recovery down entire cluster, 1 node per shard to ZK at other 
 ### Local
 
 zkRun uses embedded zookeeper (just for testing):
+
 ```shell
 java -DzkRun -DnumShards=2 -Dbootstrap_confdir=$SOLR_HOME/example-solrcloud1/solr/collection1/conf -Dcollection.configName=myconf -jar start.jar
 ```
+
 ```shell
 java -Djetty.port=8984 -DzkHost=localhost:9983 -jar start.jar
 ```
+
 Shortcut:
+
 ```shell
 solr -e cloud -noprompt
 ```
 
 info:
+
 ```shell
 solr -i
 ```
@@ -168,17 +172,17 @@ solr stop -c -all
 ```
 
 Routing using Murmur hash:
-```
+
+```none
 id=<shard>!<id>
 ```
-
-
 
 ## Hadoop MapReduce Indexer to SolrCloud
 
 ```shell
 cd $SOLR_HOME
 ```
+
 For dry-run to get libs locally, reuse in `-libjars` for distributed job:
 
 ```shell
@@ -214,14 +218,12 @@ hadoop jar dist/solr-map-reduce-*.jar \
 ```
 
 - When not on HDFS (online indexing performance sucks on HDFS),
-`--output hdfs://nameservice1/` causes `org.apache.solr.common.SolrException: Directory: org.apache.lucene.store.MMapDirectory. but hdfs lock factory can only be used with HdfsDirectory`
+  `--output hdfs://nameservice1/` causes `org.apache.solr.common.SolrException: Directory: org.apache.lucene.store.MMapDirectory. but hdfs lock factory can only be used with HdfsDirectory`
 
 - MRIndexer writes `tmp2/full-import-list.txt` to dir from only 1 mapper, this causes `FileNotFoundException` in
   mapper since they can't see the file when using file:/// - this rules out local index creation
 
 - URI error was due to specifying MapReduceIndexer path as first arg, must be `hdfs:///data/...`
-
-
 
 ### MapReduce Indexer Tool
 
@@ -275,6 +277,7 @@ curl "http://$HOST:8983/solr/admin/collections?action=FORCELEADER&collection=$CO
 ### Local Solr Restart
 
 Old script `restart_local_solr.sh` example:
+
 ```shell
 #!/bin/bash
 set -x;
@@ -296,17 +299,18 @@ exit 0
 
 This file in the data directory needs to exist for core to come up - only created by solr script if dir doesn't already
 exists
-```
+
+```shel
 touch /var/solr/data/<core>/core.properties
 ```
 
 ### CorruptIndexException
 
 This is a bug - disable HDFS write cache to work around or switch back to using local disk (faster anyway)
-```
+
+```none
 org.apache.solr.common.SolrException; org.apache.lucene.index.CorruptIndexException: codec header mismatch: actual header \d+ vs expected header \d+
 ```
-
 
 ### org.apache.solr.common.SolrException: Index locked for write
 
@@ -314,7 +318,8 @@ After restart Solr instances, some cores don't load and you this exception.
 
 This happens because of killing Solr instance and leaving `<dataDir>/index/write.lock` files behind which prevents
 cores from loading on restart:
-```
+
+```none
 org.apache.solr.common.SolrException: Index locked for write for core Blah_shard3_replica2
 ```
 
