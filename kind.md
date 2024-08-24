@@ -18,6 +18,7 @@ You can see this used in my GitHub Actions for repo [HariSekhon/Kubernetes-confi
 ## Install
 
 From [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
 ```shell
 install_kind.sh
 ```
@@ -61,7 +62,8 @@ Copy locally built docker image into Kind cluster:
 ```shell
 kind load docker-image "$DOCKER_IMAGE":"$TAG"
 ```
-Gget list of images - may need to replace 'kind' with name of the cluster:
+
+Get list of images - may need to replace 'kind' with name of the cluster:
 
 ```shell
 docker exec -it 'kind-control-plane' crictl images
@@ -70,7 +72,8 @@ docker exec -it 'kind-control-plane' crictl images
 ```shell
 kind export logs  # ./somedir
 ```
-```
+
+```none
 Exported logs to: /tmp/396758314
 ```
 
