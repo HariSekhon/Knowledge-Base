@@ -21,7 +21,7 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 - Good Integrations:
   - `GITHUB_TOKEN` automatically available with tunable permissions
   - Code Scanning via Sarif file uploads to the Security Tabs of a repo (see
-[HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions))
+    [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions))
     - free for public repos
     - requires a Security seats license per commit user in last 90 days on top of the GitHub Enterprise user seat license
   - PR / issues actions / comments / auto-merges
@@ -39,22 +39,22 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 ## GitHub Actions vs Jenkins
 
 - GitHub Actions is fully-hosted so immediately available and bypasses most operational & governance issues where
-[CloudBees](jenkins.md#cloudbees) is focused
+  [CloudBees](jenkins.md#cloudbees) is focused
 - GitHub Actions is much cheaper - we already have 50,000 build minutes a month essentially for free, and $0.008 per
-minute thereafter
+  minute thereafter
 - Legacy Enterprise licensing just doesn't make sense any more given company estates are increasingly cloud-based
-these days
+  these days
   - 2 vendors I was working with were trying to switch based to PAYG licensing model based on my feedback - cloud-native
     billing can work out to pennies on the dollar
 - GitHub Actions also has self-hosted runners, so can operate it at the same cost as Jenkins free, just paying for
-your own compute
+  your own compute
   - many hosted CI/CD providers are offering this in the 2020s now I've noticed with the standardization on Docker and Kubernetes
 - GitHub Actions has a much better API than Jenkins
 - GitHub Actions has a much better CLI than Jenkins
 - GitHub Actions has better/easier integrations
 - GitHub Actions is more self-service for developers who are often already using it for their open source projects
 - GitHub Actions is supporting open-source projects the most among hosted CI/CD providers by being completely free for
-public projects, without usage limits, and Jenkins has no comparable hosted counterpart to date
+  public projects, without usage limits, and Jenkins has no comparable hosted counterpart to date
 
 I've had similar feedback from both technical player-managers, developers and DevOps colleagues.
 
