@@ -59,6 +59,7 @@ You can inherit all configs by just cloning the [repo](https://github.com/HariSe
 ```shell
 git clone https://github.com/HariSekhon/DevOps-Bash-tools bash-tools
 ```
+
 ```shell
 cd bash-tools
 make link
@@ -101,6 +102,7 @@ brew install git
 ```
 
 GitHub CLI:
+
 ```shell
 brew install gh
 ```
@@ -108,16 +110,19 @@ brew install gh
 You will need to export `$GH_TOKEN` for the GitHub CLI. Create your token [here](https://github.com/settings/tokens).
 
 GitHub specific git commands to make things like cloning GitHub repos shorter:
+
 ```shell
 brew install hub
 ```
 
 GitLab CLI:
+
 ```shell
 gem install --user-install gitlab
 ```
 
 Bitbucket CLI:
+
 ```shell
 pip install --user bitbucket-cli
 ```
@@ -135,7 +140,7 @@ This violates the classic version control principle of not altering history.
 
 Git lets you get away with this because Git is ultra powerful, but...
 
-#### Cautionary Tale from Experience
+### Cautionary Tale from Experience
 
 While consulting in Denmark, I was called over to a desk by my colleague who had a little Git problem.
 
@@ -222,7 +227,7 @@ So be careful not to click through too quickly and commit using your personal em
 Use the drop down to select your corporate email address, and subsequent Squash & Merges will remember and use that
 email from that point onwards.
 
-#### Do not set your primary email address to be your corporate email address in case you use it on your public repos and expose your corporate email address publicly.
+**Do not set your primary email address to be your corporate email address in case you use it on your public repos and expose your corporate email address publicly**
 
 ## Why You Shouldn't Use Long Lived Branches
 
@@ -298,21 +303,25 @@ I used this to store old training materials like videos, PDFs, zip files etc. so
 GitHub will block files over 100MB from being `git push` otherwise.
 
 Install Git LFS extension on Mac:
+
 ```shell
 brew install git-lfs
 ```
 
 Install the Git LFS config into your `$HOME/.gitconfig`:
+
 ```shell
 git lfs install
 ```
 
 In your repo add the big file types to be tracked in your local repo (configures `.gitattributes`):
+
 ```shell
 git lfs track '*.mp4'
 ```
 
 Commit the `.gitattributes` changes:
+
 ```shell
 git add .gitattributes
 git commit -m "add mp4 file type to be tracked by Git LFS in .gitattributes"
@@ -320,24 +329,30 @@ git commit -m "add mp4 file type to be tracked by Git LFS in .gitattributes"
 
 Override global extensive [.gitignore](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitignore)
 if you've copied it from or installed [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#readme) using a local repo `.gitignore`.
+
 See [files being ignored](#show-files-not-being-tracked-due-to-global--local-gitignore-files).
+
 ```shell
 echo '!*.mp4' >> .gitignore
 git commit -m "allowed .mp4 files to be git committed in .gitignore"
 ```
+
 ```shell
 git add *.mp4
 ```
+
 ```shell
 git commit -m "added mp4 videos"
 ```
 
 Automatically uploads the files to GitHub or whatever is configured as your upstream Git server using LFS storage:
+
 ```shell
 git push
 ```
 
 See LFS details:
+
 ```shell
 git lfs env
 ```
@@ -368,7 +383,6 @@ remote: error: GH001: Large files detected. You may want to try Git Large File S
 To github.com:HariSekhon/training-old.git
  ! [remote rejected] master -> master (pre-receive hook declined)
 error: failed to push some refs to 'git@github.com:HariSekhon/training-old.git'
-
 ```
 
 ### Git LFS on other hosting providers
@@ -395,8 +409,9 @@ error: failed to push some refs to 'git@bitbucket.org:HariSekhon/training-old.gi
 ```
 
 Bitbucket also requires disabling locking:
+
 ```shell
-$ git config lfs.https://ssh.dev.azure.com/v3/<user>/<project>/<repo>.git/info/lfs.locksverify false
+git config lfs.https://ssh.dev.azure.com/v3/<user>/<project>/<repo>.git/info/lfs.locksverify false
 ```
 
 [Multi-origin](#multi-origin-remotes) pushes fail and require individual remote pushes:
@@ -440,7 +455,7 @@ git check-ignore -v -- .github/scripts/
 
 output:
 
-```
+```none
 /Users/h.sekhon/.gitignore:3711:[Ss]cripts      .github/scripts/
 ```
 
@@ -493,12 +508,14 @@ Useful for backups in case there is an outage to [GitHub](https://github.com) / 
 Add one or more remote repo URLs to the current git checkout:
 
 See [bash-tools/git/git_remotes_set_multi_origin.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/git/git_remotes_set_multi_origin.sh) which automates this to all major Git hosting providers
+
 ```shell
 git remote set-url --add origin $url2
 git remote set-url --add origin $url3
 ```
 
 See the remotes configured for origin:
+
 ```shell
 $ git remote -v
 origin  git@github.com:HariSekhon/DevOps-Bash-tools (fetch)
@@ -509,15 +526,19 @@ origin  git@ssh.dev.azure.com:v3/harisekhon/GitHub/DevOps-Bash-tools (push)
 ```
 
 A standard git push will then push to all URLs for upstream hosted repos:
+
 ```shell
 git push
 ```
 
 Pull from all remotes:
+
 ```shell
 git pull --all
 ```
+
 Fetch all branches from all remotes but does not merge changes in, similar to `git fetch` but for all branches:
+
 ```shell
 git remote update
 ```
@@ -525,6 +546,7 @@ git remote update
 #### Advanced - push to different branch on remote
 
 Configures the remote to push local master branch to dev branch upstream
+
 ```shell
 git config remote.<name>.push master:dev
 ```
@@ -553,6 +575,7 @@ as it'll replace the diff.
 **First remove the credential from the file(s).**
 
 Find the common divergence point for your branch:
+
 ```shell
 base_branch="master"  # or main
 your_branch="$(git branch --show-current)"
@@ -562,24 +585,29 @@ git diff --name-only "$base_branch".."$your_branch" >> filelist.txt
 ```
 
 Roll back the branch to the fork point:
+
 ```shell
 git reset "$base_commit"
 ```
 
 Re-add all the files you add/updated in this branch:
+
 ```shell
 git add $(cat filelist.txt)
 ```
 
 Re-commit all the changed files:
+
 ```shell
 git commit -m "squashed all branch changes into one commit to wipe out the credential that shouldn't have been in there")
 ```
 
 Then force push to overwrite the Pull Request contents to wipe out the leaked credential:
+
 ```shell
 git push --force
 ```
+
 (if you get an error you need to temporarily disable the force push branch protection)
 
 ### Git Filter-Repo
@@ -715,7 +743,6 @@ fatal: ..: '..' is outside repository at '/Users/hari/github/bash-tools'
 ```
 
 ### List files added on current branch vs default branch
-
 
 ```shell
 default_branch="$(git symbolic-ref refs/remotes/origin/HEAD | sed 's|.*/||')"
