@@ -6,12 +6,12 @@ This is a locally installable Kubernetes distribution bundling [k3s](k3s.md) and
 
 <!-- INDEX_START -->
 
-  - [RKE2 Versions vs Kubernetes Versions](#rke2-versions-vs-kubernetes-versions)
-  - [CLI - Kubectl Kubeconfig](#cli---kubectl-kubeconfig)
+- [RKE2 Versions vs Kubernetes Versions](#rke2-versions-vs-kubernetes-versions)
+- [CLI - Kubectl Kubeconfig](#cli---kubectl-kubeconfig)
 
 <!-- INDEX_END -->
 
-### RKE2 Versions vs Kubernetes Versions
+## RKE2 Versions vs Kubernetes Versions
 
 **RKE2 versions match Kubernetes versions.**
 
@@ -21,7 +21,7 @@ corresponding Kubernetes API version.
 
 RKE2 versions are prefixed to align with Kubernetes versions eg. RKE2 `v1.28.9+rke2r1` will install Kubernetes `v1.28.9`.
 
-### CLI - Kubectl Kubeconfig
+## CLI - Kubectl Kubeconfig
 
 On an RKE2 node you can do:
 
