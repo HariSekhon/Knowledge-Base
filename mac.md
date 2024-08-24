@@ -92,7 +92,7 @@ Unfortunately, Remote Desktop still seems to slide and send to fullscreen in ano
 
 ## Commands
 
-A list of commands is provided at https://ss64.com/mac/.
+A list of commands is provided at <https://ss64.com/mac/>.
 
 ### Search for or open anything
 
@@ -347,7 +347,7 @@ sudo launchctl unload [path/to/script]
 
 Launch scripts are found in the following locations:
 
-```
+```none
 ~/Library/LaunchAgents
 /Library/LaunchAgents
 /Library/LaunchDaemons
@@ -379,7 +379,6 @@ List, Verify, Repair, Rename, Erase volumes
 Partition, Format, Split / Merge Partitions
 
 [Part 3]() - Create `.dmg` disk images from a Volume / Folder, Encrypted Disk Image, Resize Image, Restore Image
-
 
 #### List disks
 
@@ -449,7 +448,7 @@ diskutil repairPermissions "/Volumes/$NAME"
 
 Format a partition This is risky because there is no confirmation, better to do this from Disk Utility:
 
-```
+```shell
 diskutil eraseDisk "$filesystem" "$name" "/dev/$diskN"
 ```
 
@@ -477,13 +476,13 @@ filesystem="APFSX"  # AppleFS case-sensitive, found from 'diskutil listFilesyste
 size="0b"           # integer + units suffix (b, m or g for bytes, megabytes or gigabytes) - '0b' uses all space
 ```
 
-```
+```shell
 diskutil partitionDisk "/dev/$disk" "$partition_table" "$filesystem" "$name" "$size"
 ```
 
 ##### Multiple Partition and Format
 
-```
+```shell
 diskutil partitionDisk /dev/"$disk" "$partition_table" "$filesystem" "First"  "$size" \
                                                        "$filesystem" "Second" "$size" \
                                                        "$filesystem" "Third"  "$size" \
@@ -502,7 +501,7 @@ custom command like this to do a moderate 3 pass overwrite
 
 ##### WARNING: disk numbers may shunt up in numbers as you insert more removal drives, especially for 'synthesized' virtual disks that display for volume containers
 
-```
+```shell
 passes=3
 time \
 for number in $(seq $passes); do
