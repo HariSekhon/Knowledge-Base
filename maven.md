@@ -127,7 +127,7 @@ mvn -N io.takari:maven:wrapper  # -Dmaven=3.3.3
 git add -f .mvn mvnw mvnw.cmd
 ```
 
-```
+```shell
 git ci -m "added maven wrapper"
 ```
 
@@ -200,7 +200,7 @@ mvn versioneye:securityCheck
 
 ## Maven Coordinates
 
-```
+```none
 groupid:artifactid:packaging:version
 ```
 
@@ -212,13 +212,13 @@ version   == `1.0-SNAPSHOT` by default
 
 Web server structure:
 
-```
+```none
 /<groupId>/<artifactId>/<version>/<artifact>-<version>.<packaging>
 ```
 
 `~/.m2/settings.xml`:
 
-```
+```none
 /repository/org/org.elasticsearch/elasticsearch/<version>/elasticsearch-<version>.jar
 ...
 /repository/org/org.apache.hadoop/hadoop-client/<version>/hadoop-client-<version>.jar
@@ -366,6 +366,7 @@ mvn archetype:generate -DgroupId=HariSekhon -DartifactId=Utils -Dversion=0.1
 ```
 
 generates:
+
 ```none
 Utils/
 Utils/pom.xml
