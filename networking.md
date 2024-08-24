@@ -58,13 +58,15 @@ Standard open source GUI client on Mac that can connect to OpenVPN.
 - [NordVPN](https://nordvpn.com/) - commercial well-established with a kill-switch to reduce risk of leakage
 - TunnelBear - consumer VPN with free tier
 - [Proton VPN](https://protonvpn.com/) - free to use privacy from your internet / wifi hotspot provider.
-Pay for more features or server locations.
+  Pay for more features or server locations.
   This often breaks DNS resolution when connecting/disconnecting on Mac.
   Workaround:
+
 ```shell
 dscacheutil -flushcache
 sudo killall -HUP mDNSResponder
 ```
+
 If you are sourcing [DevOps-Bash-tools](devops-bash-tools.md) repo in your `.bashrc` there is a shell function
 shortcut so you can just run: `flushdns`.
 
