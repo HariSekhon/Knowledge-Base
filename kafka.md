@@ -2,7 +2,6 @@
 
 TODO: port Kafka notes here
 
-
 <!-- INDEX_START -->
 
 - [Nagios-Plugin-Kafka with Kerberos support](#nagios-plugin-kafka-with-kerberos-support)
