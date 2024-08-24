@@ -5,6 +5,7 @@ NOT PORTED YET
 <!-- INDEX_START -->
 
 - [Healthchecks](#healthchecks)
+- [MapR Cluster](#mapr-cluster)
 
 <!-- INDEX_END -->
 
@@ -16,7 +17,7 @@ Authenticate with Kerberos first (if you're not using Kerberos, you really shoul
 kinit
 ```
 
-#### MapR Cluster
+## MapR Cluster
 
 This sub-section is for MapR managed Hadoop clusters only.
 
