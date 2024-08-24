@@ -63,10 +63,13 @@ There is however the risk of data loss of unflushed data buffers as it's essenti
 
 ## Linux CLI tools
 
+```shell
 lsof
+```
 
+```shell
 strace
-
+```
 
 ### APM - Application Performance Management
 
@@ -82,6 +85,7 @@ strace
 ```shell
 /etc/init.d/syslog stop
 ```
+
 ```shell
 echo 1 > /proc/sys/vm/block_dump
 ```
@@ -98,7 +102,7 @@ head
 
 output:
 
-```
+```none
 1526 mysqld
 819 httpd
 429 kjournald
