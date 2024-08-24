@@ -62,7 +62,6 @@ virsh dominfo <num|name>
 ```shell
 virsh dominfo ipa01
 ```
-> 12
 
 copy/edit `/tmp/machine.xml` to create a new machine:
 
@@ -79,6 +78,7 @@ virsh define /tmp/machine_new.xml
 ```shell
 virsh start foo
 ```
+
 ```shell
 virsh reboot foo
 ```
@@ -172,7 +172,7 @@ cp /etc/init/tty1.conf /etc/init/ttyS0.conf
 
 edit:
 
-```
+```shell
 exec /sbin/getty -8 115200 ttyS0 xterm
 ```
 
@@ -180,7 +180,7 @@ exec /sbin/getty -8 115200 ttyS0 xterm
 vi /etc/default/grub
 ```
 
-```
+```properties
 GRUB_CMDLINE_LINUX_DEFAULT="console=ttyS0"
 ```
 
