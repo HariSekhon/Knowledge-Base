@@ -55,7 +55,7 @@ configure `--with-sasl=/path/to/sasl2`
 
 master:
 
-```
+```none
 --authenticators  # default: crammd5
 --credentials  # text/json file
 --authenticate  # for frameworks
@@ -64,7 +64,7 @@ master:
 
 slave:
 
-```
+```none
 --authenticatee  # default: crammd5
 --credential  # text/json file
 ```
@@ -77,7 +77,7 @@ brew install autoconf automake libtool subversion maven
 
 Not needed in newer versions of Mesos, mesos 0.21 failed to compile anyway
 
-```
+```shell
 ./configure --with-svn=/usr/local/Cellar/subversion/1.8.13
 ```
 
@@ -93,7 +93,7 @@ Compile with SSL:
 
 Must also use:
 
-```
+```none
 SSL_ENABLED=1 SSL_KEY_FILE=key SSL_CERT_FILE=cert opt-flags binary
 ```
 
@@ -191,7 +191,7 @@ mesos slave --master=127.0.0.1:5050 --log_dir=/tmp/mesos-slave-logs
 
 Build version
 
-```
+```none
 --log_dir=$MESOS_HOME/logs # but couldn't find this in /usr/local/Cellar/mesos/0.23 nor /usr/local/mesos-0.24
 ```
 
@@ -199,7 +199,7 @@ Build version
 $MESOS_HOME/src/mesos-master --work_dir=/var/lib/mesos --log_dir=/tmp/mesos-master-logs --cluster=myCluster
 ```
 
-```
+```none
 --authenticate        # for frameworks
 --authenticate-slave
 --ip --advertise_ip # if different to allow frameworks to connect
@@ -208,7 +208,8 @@ $MESOS_HOME/src/mesos-master --work_dir=/var/lib/mesos --log_dir=/tmp/mesos-mast
 ```shell
 $MESOS_HOME/src/mesos-slave --log_dir=/tmp/mesos-slave-logs
 ```
-```
+
+```none
 --master=localhost:5050 # causes duplicate --master switch error when MESOS_MASTER defined
 --attributes=rack:1,dc:2 --credentials=file:///path/to/file # where file contains "<username> <password>" or json '{ "principal"="hari", "secret"="blah" }'
 --work-dir=/tmp/mesos # default
@@ -243,13 +244,11 @@ Python:
 $MESOS_HOME/src/examples/python/test-framework $MESOS_MASTER
 ```
 
-
 ## Chronos
 
 - distributed Cron
 - needs [ZooKeeper](zookeeper.md)
 - UI port 8080 + REST API
-
 
 ```shell
 zkServer.sh start
@@ -267,9 +266,10 @@ mesos-slave --log_dir=/tmp/mesos-slave-logs
 git clone https://github.com/mesos/chronos.git
 ```
 
-```
+```none
 export MESOS_NATIVE_LIBRARY # (set in .bashrc based on Mac/Linux)
 ```
+
 on Mac:
 
 ```shell
