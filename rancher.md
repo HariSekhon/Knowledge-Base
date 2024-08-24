@@ -124,11 +124,10 @@ List servers across all clusters and their status:
 rancher machines  # ls
 ```
 
-
 - unfortunately neither of these above two commands list the RKE2 versions on each node like the UI does
 - the `ID` column has different contents between `nodes` and `machines` commands
 - `nodes` shows a `State` column (eg. `active`/`cordoned`) as well as two additional fields `Pool` and `Description`
-which may be empty, while `machines` shows a `Phase` field which contains `Running`/`Provisioning`
+  which may be empty, while `machines` shows a `Phase` field which contains `Running`/`Provisioning`
 
 Show workloads in the current project:
 
@@ -192,6 +191,7 @@ Has a separate chart repo to Rancher:
 ```shell
 brew install helm
 ```
+
 ```shell
 helm repo add fleet https://rancher.github.io/fleet-helm-charts/
 ```
