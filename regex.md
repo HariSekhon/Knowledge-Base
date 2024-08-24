@@ -8,6 +8,7 @@ for grep, sed & awk.
 <!-- INDEX_START -->
 
 - [Online Regex Testing](#online-regex-testing)
+  - [Sed Regex Testing](#sed-regex-testing)
 - [PCRE vs BRE vs ERE](#pcre-vs-bre-vs-ere)
   - [PCRE - Perl Compatible Regular Expressions](#pcre---perl-compatible-regular-expressions)
 - [BRE - Basic Regular Expression](#bre---basic-regular-expression)
@@ -26,7 +27,7 @@ for grep, sed & awk.
 
 <https://regexr.com/>
 
-#### Sed Regex Testing
+### Sed Regex Testing
 
 Test your sed regex here:
 
@@ -45,6 +46,7 @@ On Mac you can install coreutils to get the better GNU Grep
 ```shell
 brew install coreutils
 ```
+
 but then you'll have to use the `ggrep` command instead.
 
 Your shell scripts will have to figure our if they're on Mac and override the grep command (examples in
