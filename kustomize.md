@@ -78,4 +78,4 @@ This makes Helm becomes fully self-healing GitOps.
 
 [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) repo.
 
-###### Partial port from private Knowledge Base page 2020+
+**Partial port from private Knowledge Base page 2020+**
