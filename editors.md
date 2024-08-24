@@ -56,7 +56,7 @@ Get plugins:
 - Pig
 - Go
 
-##### Manual Installation
+#### Manual Installation
 
 Can download zips + install off disk where proxy blocked.
 
@@ -129,10 +129,11 @@ Next / Previous Tab - `Fn`-`Ctrl`-`Left` / `Fn`-`Ctrl`-`Right`
 
 Eclipse -> Preferences (Mac):
 
-Window -> Preferences:
-  - Maven
-    - untick - `Do not automatically update dependencies from remote repositories`
-    - tick   - `Download repository index updates on startup`
+- Window
+  - Preferences
+    - Maven
+      - untick - `Do not automatically update dependencies from remote repositories`
+      - tick   - `Download repository index updates on startup`
 
 Eclipse JSONTools validation plugin (Help -> MarketPlace), but needs files to be .json (not .template from CloudFormation)
 
