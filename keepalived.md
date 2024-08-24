@@ -34,7 +34,8 @@ keepalived -f /etc/keepalive/keepalived.conf -D -N -l
 ## Linux: allow binding to IP of VIP from Keepalived
 
 Add to `/etc/sysctl.conf`:
-```
+
+```properties
 net.ipv4.ip_nonlocal_bind = 1
 ```
 
@@ -48,7 +49,7 @@ sysctl -p
 
 In `/etc/keepalive/keepalived.conf`:
 
-```
+```none
 global_defs {
   #router_id myHostname           # defaults
   #default_interface eth0
