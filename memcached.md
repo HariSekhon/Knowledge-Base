@@ -31,4 +31,4 @@ See also [Couchbase](couchbase.md) doc.
 
 See [Couchbase Monitoring](couchbase.md#monitoring) section too.
 
-###### Partial port from private Knowledge Base page 2013+
+**Partial port from private Knowledge Base page 2013+**
