@@ -46,24 +46,24 @@ Microsoft provider configuration resulted in `An internal server error has occur
 In the realm in the Keycloak UI:
 
 - Configure
-   - Identity Providers
-      - Add Provider (top right)
-          - OpenID Connect v1.0 (aka OIDC)
-             - set Display Name to "Azure AD" (for convenience only)
-             - Import from URL near bottom - paste URL from AAD App Registration's Overview - Endpoints button at top - OpenID Connect metadata document (half way down)
-             - Client Authentication = "Client secret sent as post"
-             - Client ID - paste the AAD app's Overview "Application (client) ID" - XXX: Note the client id is that of the App not that of the secret
-             - Client Secret
-                - in AAD App Reg go to Clients & Secrets
-                   - New client secret
-                      - paste the Value into the Client Secret box
-             - Copy the "Redirect URI" from the top of this page into the AAD app's Authentication page - Add a platform - Web - Redirect URIs
+  - Identity Providers
+     - Add Provider (top right)
+       - OpenID Connect v1.0 (aka OIDC)
+         - set Display Name to "Azure AD" (for convenience only)
+         - Import from URL near bottom - paste URL from AAD App Registration's Overview - Endpoints button at top - OpenID Connect metadata document (half way down)
+         - Client Authentication = "Client secret sent as post"
+         - Client ID - paste the AAD app's Overview "Application (client) ID" - XXX: Note the client id is that of the App not that of the secret
+         - Client Secret
+            - in AAD App Reg go to Clients & Secrets
+               - New client secret
+                  - paste the Value into the Client Secret box
+         - Copy the "Redirect URI" from the top of this page into the AAD app's Authentication page - Add a platform - Web - Redirect URIs
   - Authentication
-     - "Identity Provider Redirector" line of the grid
-        - Alternative
+    - "Identity Provider Redirector" line of the grid
+      - Alternative
         - Actions
-           - Config
-              - Default Identity Provider = oidc (the reference to the provider created above)
+          - Config
+            - Default Identity Provider = oidc (the reference to the provider created above)
 
 ### AAD user pre-provisioning to Keycloak
 
