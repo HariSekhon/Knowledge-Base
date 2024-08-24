@@ -18,6 +18,7 @@
 - often to offload cache queries from things like [RDBMS](sql.md)
 - no authentication - restrict socket to listen on localhost loopback address for local server access only
 
+<!-- -->
 
 - Memcached => Membase => Couchbase (2.0 Jan 2012)
 
