@@ -21,6 +21,7 @@ It has good feature parity with GitHub.com, although less 3rd party CI/CD integr
 [Install doc](https://gitlab.com/gitlab-org/cli/-/blob/main/README.md#installation)
 
 On Mac using [Homebrew](brew.md):
+
 ```shell
 brew install glab
 ```
@@ -37,6 +38,7 @@ Script to download latest binary from GitLab to `/usr/local/bin` or `$HOME/bin`:
 git clone https://github.com/HariSekhon/DevOps-Bash-tools bash-tools
 cd bash-tools
 ```
+
 ```shell
 install/install_gitlab_cli.sh
 ```
@@ -56,7 +58,7 @@ export GITLAB_TOKEN=...
 
 Gitlab CLI config can be found here:
 
-```
+```none
  ~/.config/glab-cli/config.yml
 ```
 
