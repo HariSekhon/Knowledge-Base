@@ -636,9 +636,9 @@ After editing and saving the `/etc/fstab` file, unmount the recovery disk:
 sudo umount /mnt
 ```
 
-7. Detach the volume from the debug instance
-8. Attach the volume to the original instance
-9. Start the original instance which should now come up
+07. Detach the volume from the debug instance
+08. Attach the volume to the original instance
+09. Start the original instance which should now come up
 10. Remove the `Problem` tag from the volume
 
 **Partial port from private Knowledge Base page 2012+**
