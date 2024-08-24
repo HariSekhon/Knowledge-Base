@@ -303,7 +303,7 @@ scan 'tsdb-uid'
 
 See rows will have one of the following:
 
-```
+```none
 column=id:metrics
  ```
 
@@ -315,7 +315,7 @@ column=id:tagk
 
 or
 
-```
+```none
 column=id:tagv
 ```
 
