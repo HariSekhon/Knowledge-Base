@@ -13,6 +13,7 @@ Shared Libraries between pipelines, or even code snippets in the administration
 [Script Console](#jenkins-script-console---groovy).
 
 <!-- INDEX_START -->
+
 - [Jenkinsfile - Scripted vs Declarative pipelines](#jenkinsfile---scripted-vs-declarative-pipelines)
   - [Declarative](#declarative)
   - [Scripted](#scripted)
@@ -43,6 +44,7 @@ Shared Libraries between pipelines, or even code snippets in the administration
   - [Reset the Jenkins admin password](#reset-the-jenkins-admin-password)
   - [Shell "process apparently never started in"](#shell-process-apparently-never-started-in)
 - [Other Resources](#other-resources)
+
 <!-- INDEX_END -->
 
 ## Jenkinsfile - Scripted vs Declarative pipelines
@@ -62,7 +64,7 @@ Shared Libraries between pipelines, or even code snippets in the administration
 
 ### Jenkinsfile Snippet Generator
 
-```
+```none
 $JENKINS_URL/pipeline-syntax/
 ```
 
@@ -124,13 +126,13 @@ See here for a great list of plugins that I've used in production across compani
 
 Waits for builds to finish:
 
-```
+```none
 $JENKINS_URL/safeRestart
 ```
 
 Doesn't wait for builds to finish:
 
-```
+```none
 $JENKINS_URL/restart
 ```
 
@@ -178,7 +180,7 @@ Filename must be camelCase or lowercase to work.
 Configure the Jenkins Shared Library repo containing the Groovy code in the global System Configuration
 and give it a name for easy referencing:
 
-```
+```none
 Configure Jenkins
 -> Configure System
     -> Global Pipeline Libraries
@@ -217,7 +219,7 @@ or within a `steps{}` section if inserting normal functions.
 funcName("param1", "param2")
 ```
 
-#### External Scripts
+### External Scripts
 
 Don't use external shell scripts or similar as they have to be in the source repo, not the shared library repo,
 so you can't actually share such external scripts among different builds in different repos without checking them out
@@ -227,15 +229,15 @@ from another git repo as a separate step in the `Jenkinsfile` pipeline because o
 
 See [jenkins_api.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/jenkins/jenkins_api.sh)
 
-```
+```none
 /api/json
 ```
 
-```
+```none
 /job/$job/api/json
 ```
 
-```
+```shell
 curl "$JENKINS_URL/job/test%20ok/api/json?pretty=true"
 ```
 
@@ -271,10 +273,10 @@ jenkins/jenkins.sh
 - executes the build job
 - automatically opens the Jenkins UI on Mac, or prints the url on Linux
 
-Uses [docker-compose/jenkins.yml](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/docker-compose/jenkins.yml)
-- , can optionally edit config to:
-  - use `JAVA_OPTS` to tweak heap size
-  - mount `/var/jenkins_home` to local machine for persistence
+- Uses [docker-compose/jenkins.yml](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/docker-compose/jenkins.yml)
+  - can optionally edit config to:
+    - use `JAVA_OPTS` to tweak heap size
+    - mount `/var/jenkins_home` to local machine for persistence
 
 ## Jenkins Slaves on Bare Metal / VMs
 
@@ -320,7 +322,7 @@ In Azure AD UI:
       - if you have perms click `Grant admin consent for MyCompany` before this will work to be able to read groups, requires AAD Admin permission
     - `Certificates & Secrets` -> `New client secret` (copy and paste to Jenkins)
     - `Manifest` -> change `"groupMembershipClaims": null` to "`groupMembershipClaims": "SecurityGroup"`, which combined with the Authentication ID tokens sends the group info in the token (it still won't show up in the Jenkins user info, but it works and gets rid of the lack of permissions to retrieve group error)
-      - see https://github.com/jenkinsci/azure-ad-plugin/blob/dev/README.md#group-support
+      - see <https://github.com/jenkinsci/azure-ad-plugin/blob/dev/README.md#group-support>
 
 In Jenkins UI:
 
@@ -372,7 +374,7 @@ See [Jenkins on Kubernetes - Jenkins X section](jenkins-on-kubernetes.md#jenkins
    1. config management for Bare Meta / VMs
    1. preferably [Jenkins on Kubernetes](jenkins-on-kubernetes.md) dynamically spawning agents from pod template
 1. Don't run builds on Jenkins server since builds will contend for important server resources needed for job
-coordination
+   coordination
    1. Builds on server that's only for trivial small setups, PoCs, local docker testing etc.
    1. Jenkins server is a vertical scaling bottleneck
    1. Can cause inconsistencies between builds on agents vs server
@@ -388,7 +390,7 @@ coordination
 1. High number of Pipeline Jobs and frequent build executions will degrade Jenkins server performance
    1. past roughly 150 jobs depending on your execution frequency you'll probably need to split to another Jenkins server
    1. The resulting 'Islands of Jenkins' multiple UI servers is where [CloudBees](#cloudbees) sells to enterprise a
-management control plane single pane of glass
+      management control plane single pane of glass
 
 ## Troubleshooting
 
