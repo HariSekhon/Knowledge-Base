@@ -84,7 +84,7 @@ magick "$file" -channel Red -separate output.jpg
 
 This on only works if you've hidden something inside the image and know the password to extact it:
 
-```
+```shell
 steghide info "$file"
 ```
 
@@ -136,6 +136,7 @@ Create a clip from a video file using ffmpeg args:
 ```shell
 ffmpeg -i input_vid.mp4 -ss 00:08:35.0 -t 72 -c copy output_vid.mp4
 ```
+
 or using time format `-to 00:01:12` which is the same as 72 seconds from offset start.
 
 ### Inspect Media File
@@ -151,6 +152,7 @@ exiftool $file
 ```shell
 mediainfo $file
 ```
+
 ```shell
 mediainfo --fullscan $file
 ```
@@ -258,6 +260,7 @@ mkdir /var/run/lirc # it wouldn't create it and it wouldn't start without it on 
 ```shell
 aptitude -y install dvb-utils
 ```
+
 Cyberlink remote shows us as /dev/input/event3 according to google.
 
 Can cat that or after installing `dvb-utils`, can do:
@@ -265,6 +268,7 @@ Can cat that or after installing `dvb-utils`, can do:
 ```shell
 evtest /dev/input/event3
 ```
+
 except dvb-utils has no install candidate and tells you to instead get dvb-apps which is already installed and doesn't have evtest, only the c file for it
 
 ```shell
