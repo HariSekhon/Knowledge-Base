@@ -26,8 +26,8 @@
 - [MiniShift](https://github.com/minishift/minishift) - for OpenShift upstream [okd](https://www.okd.io/)
 - [K3d](k3d.md) - quickly boots a [K3s](k3s.md) minimal kubernetes distro (fully functional)
 - [Kind](kind.md) - Kubernetes-in-Docker - for testing Kubernetes and use in [CI/CD](ci-cd.md).
-Examples of its use are in the [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)
-GitHub Actions CI/CD workflows.
+  Examples of its use are in the [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)
+  GitHub Actions CI/CD workflows.
 
 ## Cloud
 
@@ -53,7 +53,7 @@ GitHub Actions CI/CD workflows.
 
 [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)
 
-##### Security: most ingresses I write have IP filters to private addresses and Cloudflare Proxied IPs. You may need to expand this to VPN / office addresses, or the wider internet if you are running public services which really require direct public access without WAF proxied protection like Cloudflare
+**Security: most ingresses I write have IP filters to private addresses and Cloudflare Proxied IPs. You may need to expand this to VPN / office addresses, or the wider internet if you are running public services which really require direct public access without WAF proxied protection like Cloudflare**
 
 ## Kubernetes Scripts
 
@@ -78,7 +78,7 @@ Kubeadm - must choose network up front. Can switch later but an awful lot of eff
 
 - standard for pluggable networking in Kubernetes
 - configure with JSON, see here:
-  https://github.com/containernetworking/cni
+  <https://github.com/containernetworking/cni>
 
 #### Flannel
 
@@ -152,7 +152,7 @@ Readiness probe failed: calico/node is not ready: BIRD is not ready: Failed to s
 hostname -f > /var/lib/calico/nodename
 ```
 
-```
+```none
 Readiness probe failed: calico/node is not ready: BIRD is not ready: Error querying BIRD: unable to connect to BIRDv4 socket: dial unix /var/run/bird/bird.ctl: connect: no such file or directory
 ```
 
@@ -197,7 +197,7 @@ kubectl delete ns "$NAMESPACE" --force --grace-period 0
 
 Sometimes this isn't enough, and it gets stuck on finalizers or cert-manager pending challenges:
 
-```
+```none
 NAME                                                                STATE     DOMAIN                 AGE
 challenge.acme.cert-manager.io/jenkins-tls-1-1371220808-214553451   pending   jenkins.domain.co.uk   3h1m
 ```
