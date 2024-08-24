@@ -18,7 +18,7 @@ mechanism of deploying public Kubernetes applications.
   - [Create template](#create-template)
   - [Edit](#edit)
   - [Lint](#lint)
-  - [Install Chart](#install-chart)
+  - [Install Custom Chart](#install-custom-chart)
 - [Chart Repo](#chart-repo)
   - [GitHub](#github)
   - [GCS](#gcs)
@@ -146,6 +146,7 @@ helm show chart bitnami/mysql
 ```
 
 Show chart metadata, values.yaml and notes (warning this is a huge output):
+
 ```shell
 helm show all bitnami/mysql
 ```
@@ -190,6 +191,7 @@ helm upgrade "$name" -f values.yaml stable/mysql
 ```
 
 `--reset-values` clears the custom config values:
+
 ```shell
 helm upgrade "$name" stable/mysql --reset-values
 ```
@@ -224,7 +226,7 @@ helm rollback "$name" "$revision"
 
 Extract Chart and templates from cache, copy `values.yaml` to `custom.yaml`:
 
-```
+```none
 ~/.cache/helm/repository/mariadb-7.3.14.tgz
 ```
 
@@ -296,7 +298,7 @@ helm create "$name"
 
 creates a `$name/` directory with `tree` contents:
 
-```
+```none
 $name/
 ├── Chart.yaml   # names app and remote dependency charts
 ├── charts       # for dependency charts, you probably won't need this
@@ -339,7 +341,7 @@ or given directory containing `Chart.yaml`:
 helm lint "$name"
 ```
 
-### Install Chart
+### Install Custom Chart
 
 Install it from source assuming you're in the "$name/" directory to your currently configured Kubernetes `kubectl`
 cluster context:
@@ -406,7 +408,6 @@ helmCharts:
     includeCRDs: true
     valuesFile: values.yaml
 ```
-
 
 ### Kustomize + Helm statically
 
