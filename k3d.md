@@ -24,7 +24,8 @@ Wrapper CLI that runs [K3s](k3s.md) in Docker (this is also a workaround for k3s
 ```shell
 k3d cluster create test  # default name: 'default'
 ```
-```
+
+```none
 INFO[0000] Prep: Network
 INFO[0000] Created network 'k3d-test'
 INFO[0000] Created image volume k3d-test-images
@@ -50,7 +51,8 @@ kubectl cluster-info
 ```shell
 k3d node list
 ```
-```shell
+
+```none
 NAME                   ROLE           CLUSTER   STATUS
 k3d-default-server-0   server         default   running
 k3d-default-serverlb   loadbalancer   default   running
@@ -60,14 +62,16 @@ k3d-default-tools                     default   running
 ```shell
 k3d registry list
 ```
-```
+
+```none
 NAME   ROLE   CLUSTER   STATUS
 ```
 
 ```shell
 k3d cluster list
 ```
-```
+
+```none
 NAME      SERVERS   AGENTS   LOADBALANCER
 default   1/1       0/0      true
 ```
