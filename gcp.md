@@ -57,6 +57,7 @@ bash-tools/install/install_gcloud_sdk.sh
 ```
 
 Initialize your config and authenticate, following the prompts:
+
 ```shell
 gcloud init
 ```
@@ -91,6 +92,7 @@ of VMs if you only want to grant access to that subset.
 Otherwise use the project wide SSH keys above.
 
 Check you can see it under metadata ssh-keys
+
 ```shell
 gcloud compute instances describe "$VM"
 ```
@@ -183,6 +185,7 @@ Quickly compare this to your config such as your
 to ensure your config is pointing to the right IP
 
 Notice the filestore name is in format `projects/<PROJECT_ID>/locations/europe-west2-b/instances/<NAME>` so we match the suffix `/${NAME}`
+
 ```shell
 gcloud filestore instances list --filter="name ~ /${FILESTORE_NAME}$" --format='value(networks[0].ipAddresses[0])'
 ```
@@ -196,6 +199,5 @@ gcloud services list --available | grep compute
 ```shell
 gcloud services enable compute.googleapis.com
 ```
-
 
 **Partial port from private Knowledge Base page 2015+**
