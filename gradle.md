@@ -71,7 +71,7 @@ mainClassName = 'com.linkedin.harisekhon.Main'
 - ShadowJar
 - Application plugin
 
-# SonarQube
+## SonarQube
 
 <http:docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Gradle>
 
@@ -107,6 +107,7 @@ plugins { id "org.standardout.versioneye" version "1.4.0" }
 ```groovy
 versioneye.projectid=<long_num_from_project_page_no_spaces>
 ```
+
 ```shell
 gradle versionEyeUpdate
 ```
@@ -118,7 +119,7 @@ Generates:
 - `gradlew` / `gradlew.bat` scripts
 - `gradle/wrapper/gradle-wrapper.jar`
   - stub program that downloads the exact same version of gradle recorded in `gradle-wrapper.properties` as you just
-ran or the version specifed by `--gradle-version` eg. `2.0`
+    ran or the version specifed by `--gradle-version` eg. `2.0`
 - `gradle/wrapper/gradle-wrapper.properties`
 
 All of the above should be checked in to revision control.
@@ -136,7 +137,7 @@ In future gradle commands just substitute `gradle` for `./gradlew`.
 
 This downloads same gradle version as original builder to
 
-```
+```none
 .gradle/wrapper/dists/gradle-2.11-bin/
 ```
 
@@ -145,7 +146,6 @@ and uses that:
 ```shell
 ./gradlew ...
 ```
-
 
 ## build.gradle
 
@@ -160,7 +160,7 @@ gradle init
 
 `settings.gradle`:
 
-```
+```properties
 rootProject.name = 'harisekhon-utils'
 ```
 
@@ -193,7 +193,7 @@ Requires `maven` plugin - create artifacts + installs to `~/.m2/repository`:
 gradle install
 ```
 
-`build/`
+- `build/`
   - dependencies_cache
   - libs - find jar artifact here
   - reports/tests - open index.html for breakdown of unit tests
