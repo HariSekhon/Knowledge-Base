@@ -17,7 +17,7 @@
 - date picker top right
 - add indexes - left bar Management -> Index Patterns -> top left Plus +
 
-# Kibana 3
+## Kibana 3
 
 ```shell
 git clone https://github.com/elasticsearch/kibana.git
@@ -38,7 +38,7 @@ python -m SimpleHTTPServer
 
 Click:
 
-```
+```none
 bottom left -> Event fields
 top left    -> auto-refresh
 top middle  -> Save as My Default
@@ -56,10 +56,9 @@ Json formatted logging
 
 <http://blog.sematext.com/2013/05/28/structured-logging-with-rsyslog-and-elasticsearch/>
 
+Documentation: <http://www.rsyslog.com/doc/omelasticsearch.html>
 
-Documentation: http://www.rsyslog.com/doc/omelasticsearch.html
-
-```
+```none
 module(load="omelasticsearch") # for outputting to Elasticsearch
 
 # this is for index names to be like: logstash-YYYY.MM.DD
