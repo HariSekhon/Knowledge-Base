@@ -69,13 +69,14 @@ Both server + agent run kubelet, container runtime and CNI
 ```shell
 k3s server  # runs control-plane and datastore components
 ```
+
 ```shell
 k3s agent
 ```
 
 Any yamls under here are created/updated but not removed:
 
-```
+```none
 /var/lib/rancher/k3s/server/manifests/ccm.yaml
 /var/lib/rancher/k3s/server/manifests/coredns.yaml
 /var/lib/rancher/k3s/server/manifests/local-storage.yaml
@@ -127,6 +128,7 @@ export K3S_TOKEN=...
 ```
 
 Get token to install agents - if this wasn't specified this is just a symlink to `server-token`:
+
 ```shell
 sudo cat /var/lib/rancher/k3s/server/agent-token
 ```
@@ -144,6 +146,7 @@ k3s token create
 ```shell
 export KUBECONFIG="/etc/rancher/k3s/k3s.yaml"
 ```
+
 ```shell
 kubectl get node
 ```
@@ -152,7 +155,7 @@ kubectl get node
 
 Run this on each agent to install it.
 
-`K3S_URL` tells https://get.k3s.io script to install agent:
+`K3S_URL` tells the <https://get.k3s.io> script to install agent:
 
 ```shell
 export K3S_URL=https://192.168.1.10:6443
