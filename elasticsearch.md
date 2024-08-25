@@ -84,6 +84,8 @@ Segregate roles for best performance:
 
 [Cluster update settings API](https://www.elastic.co/guide/en/elasticsearch/reference/current/cluster-update-settings.html)
 
+![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/elasticsearch_queries.svg)
+
 ## Elasticsearch on Kubernetes
 
 In tests Elasticsearch performance on Kubernetes was significantly lower than on bare metal servers.
