@@ -38,7 +38,7 @@ See [Couchbase Monitoring](couchbase.md#monitoring) section too.
 
 ![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/aws_clustered_web_services.png)
 
-## Diagram - Memcached in AWS Clustered Web Services
+## Diagram - Memcached in Multi-Datacenter Java Stack
 
 ![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/multi_dc_gslb_f5_java_stack.png)
 
