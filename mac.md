@@ -11,6 +11,8 @@ Macbook Pro - a real joy to use. Even when you're using more RAM than the physic
 performance is still so good you don't notice significant performance degradation for most usage, even when using
 heavyweight IDEs like [IntelliJ](intellij.md).
 
+**WARNING: do not let your Macbook Pro get hot it will destroy the battery**
+
 <!-- INDEX_START -->
 
 - [Terminal](#terminal)
