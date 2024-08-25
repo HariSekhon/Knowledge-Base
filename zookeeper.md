@@ -270,4 +270,8 @@ chown zookeeper:zookeeper /var/lib/zookeeper/version-2
 
 Then start ZooKeeper.
 
+## Diagram - ZooKeeper Consensus
+
+![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/zookeeper.svg)
+
 **Ported from private Knowledge Base page 2012+**
