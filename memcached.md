@@ -5,7 +5,7 @@
 - [Key Points](#key-points)
 - [Monitoring](#monitoring)
 - [Diagram - Memcached in AWS Clustered Web Services](#diagram---memcached-in-aws-clustered-web-services)
-- [Diagram - Memcached in AWS Clustered Web Services](#diagram---memcached-in-aws-clustered-web-services)
+- [Diagram - Memcached in Multi-Datacenter Java Stack](#diagram---memcached-in-multi-datacenter-java-stack)
 
 <!-- INDEX_END -->
 
