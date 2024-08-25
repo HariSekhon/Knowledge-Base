@@ -13,6 +13,9 @@
   - [Add static route](#add-static-route)
   - [Show your public IP](#show-your-public-ip)
   - [Linux - show your local IP Tables software firewall rules](#linux---show-your-local-ip-tables-software-firewall-rules)
+- [Diagrams](#diagrams)
+  - [Diagram - Network - Layer 2 - Local - ARP](#diagram---network---layer-2---local---arp)
+  - [Diagram - Network - Layer 3 - Remote - IP](#diagram---network---layer-3---remote---ip)
 
 <!-- INDEX_END -->
 
@@ -146,3 +149,13 @@ curl ifconfig.co
 ```shell
 iptables -nL -line-numbers
 ```
+
+## Diagrams
+
+### Diagram - Network - Layer 2 - Local - ARP
+
+![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/network_layer2_local.svg)
+
+### Diagram - Network - Layer 3 - Remote - IP
+
+![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/network_layer3_remote.svg)
