@@ -7,7 +7,7 @@
 - [Data Integration](#data-integration)
   - [Mulesoft](#mulesoft)
   - [Spring Integration](#spring-integration)
-- [Diagram - Top 9 Systems Integrations:](#diagram---top-9-systems-integrations)
+- [Diagram - Top 9 Systems Integrations](#diagram---top-9-systems-integrations)
 
 <!-- INDEX_END -->
 
