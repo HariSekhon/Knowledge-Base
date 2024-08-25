@@ -20,3 +20,7 @@ Web UI for DB access.
 <https://www.phpmyadmin.net/>
 
 <https://github.com/phpmyadmin/phpmyadmin>
+
+## Diagram - MySQL Replica Architecture
+
+![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/mysql_replica_architecture.svg)
