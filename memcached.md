@@ -4,6 +4,8 @@
 
 - [Key Points](#key-points)
 - [Monitoring](#monitoring)
+- [Diagram - Memcached in AWS Clustered Web Services](#diagram---memcached-in-aws-clustered-web-services)
+- [Diagram - Memcached in AWS Clustered Web Services](#diagram---memcached-in-aws-clustered-web-services)
 
 <!-- INDEX_END -->
 
@@ -31,5 +33,13 @@ See also [Couchbase](couchbase.md) doc.
 - `check_memcached_write.pl` - full API level unique write + read back check
 
 See [Couchbase Monitoring](couchbase.md#monitoring) section too.
+
+## Diagram - Memcached in AWS Clustered Web Services
+
+![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/aws_clustered_web_services.png)
+
+## Diagram - Memcached in AWS Clustered Web Services
+
+![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/multi_dc_gslb_f5_java_stack.png)
 
 **Partial port from private Knowledge Base page 2013+**
