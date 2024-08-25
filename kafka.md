@@ -20,6 +20,10 @@ API monitoring plugin does full pub-sub unique message with Kerberos support. Wr
 
 [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
 
+## Kafka Flink Elasticsearch
+
+![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/kafka_flink_elasticsearch.svg)
+
 ## Kafka 101
 
 ![](img/kafka_101.gif)
