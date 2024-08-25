@@ -8,6 +8,7 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 - [Key Points](#key-points)
   - [Limitations](#limitations)
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
+- [Diagram - GitHub Actions CI/CD to auto-(re)generate diagrams from code changes](#diagram---github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes)
 
 <!-- INDEX_END -->
 
@@ -63,5 +64,17 @@ minute as GitHub Actions, with a whole new clean Rest API and CLI. Self-hosted r
 too, both to access internal tooling services as part of CI/CD pipelines as well as to control costs. Some of the other
 vendors who have tried to limit self-hosted runners to more expensive plans have essentially shot themselves in the foot
 because they've made themselves economically non-competitive.
+
+## Diagram - GitHub Actions CI/CD to auto-(re)generate diagrams from code changes
+
+[github_actions_cicd.py](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/github_actions_cicd.py):
+
+![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/github_actions_cicd.png)
+
+Open [Diagrams-as-Code README.md](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#this-repos-creation--github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes) to enlarge:
+
+[github_actions_cicd.d2](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/github_actions_cicd.d2):
+
+![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/github_actions_cicd.svg)
 
 **Ported from private Knowledge Base page 2019+**
