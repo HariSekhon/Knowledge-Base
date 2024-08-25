@@ -6,6 +6,7 @@
 
 - [Key Points](#key-points)
 - [Shortcuts](#shortcuts)
+- [VimScript Style Guide](#vimscript-style-guide)
 
 <!-- INDEX_END -->
 
@@ -85,3 +86,7 @@ You can run the `vimtutor` command on unix or inside `vim` the command `:help tu
 | `J`                      | Joins the current and next line                                                                                                              |
 | `r`                      | Replaces the character under the cursor with the next character you type. `5ra` replaces the next 5 characters with `aaaaa`                  |
 | `~`                      | Toggles the case of the character under the cursor. Hold to toggle through the letters of the word under the cursor                          |
+
+## VimScript Style Guide
+
+<https://google.github.io/styleguide/vimscriptguide.xml>
