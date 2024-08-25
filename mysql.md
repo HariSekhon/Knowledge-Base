@@ -4,6 +4,7 @@
 
 - [SQL Scripts](#sql-scripts)
 - [phpMyAdmin](#phpmyadmin)
+- [Diagram - MySQL Replica Architecture](#diagram---mysql-replica-architecture)
 
 <!-- INDEX_END -->
 
