@@ -27,4 +27,4 @@ API monitoring plugin does full pub-sub unique message with Kerberos support. Wr
 
 ## Kafka 101
 
-![](img/kafka_101.gif)
+![](images/kafka_101.gif)
