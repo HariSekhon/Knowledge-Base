@@ -322,6 +322,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 ### Pub/Sub & Message Queues
 
+- [Pub/Sub & Message Queues](pubsub.md)
 - [Kafka](kafka.md)
 - [Celery](celery.md)
 - for Kinesis see [AWS](aws.md)
