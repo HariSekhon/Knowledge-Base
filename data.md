@@ -45,7 +45,7 @@ Then proceed to more advanced content validation.
 
 TODO
 
-## Diagram - Top 9 Systems Integrations:
+## Diagram - Top 9 Systems Integrations
 
 ![](images/top_9_systems_integrations.gif)
 
