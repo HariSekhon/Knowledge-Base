@@ -6,6 +6,7 @@ NOT PORTED YET
 
 - [DevOps Bash tools for AWS, EKS, EC2 etc](#devops-bash-tools-for-aws-eks-ec2-etc)
 - [Install AWS CLI](#install-aws-cli)
+  - [Check your AWS Region](#check-your-aws-region)
 - [Set up access to EKS - Elastic Kubernetes Services](#set-up-access-to-eks---elastic-kubernetes-services)
 - [EC2 Instances](#ec2-instances)
 - [Get EC2 Console Output](#get-ec2-console-output)
@@ -49,6 +50,22 @@ bash-tools/install/install_aws_cli.sh
 
 Then [configure](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
 depending on if you're using SSO or access keys etc.
+
+### Check your AWS Region
+
+A common issue is failing to find resources in the UI or CLI.
+
+Check your region in the top right of the UI or that your CLI is picking up the right region like so:
+
+```properties
+aws configure get region
+```
+
+and compare with:
+
+```shell
+aws ec2 describe-availability-zones --query "AvailabilityZones[0].RegionName" --output text
+```
 
 ## Set up access to EKS - Elastic Kubernetes Services
 
