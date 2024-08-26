@@ -24,8 +24,6 @@ of the software to pick it up and use it.
 
 <https://dev.mysql.com/downloads/connector/j/>
 
-Or
-
 Quickly download and extract the jdbc jar using this script in [DevOps-Bash-tools](devops-bash-tools.md):
 
 ```shell
@@ -37,7 +35,7 @@ download_mysql_jdbc_jar.sh
 The connection string should look like this:
 
 ```none
-jdbc:mysql://x.x.x.x:3306/my-db?useSSL=false
+jdbc:mysql://x.x.x.x:3306/MY-DB?useSSL=false
 ```
 
 The `useSSL=false` setting is often needed for the connection to succeed as most databases don't have SSL
@@ -49,11 +47,7 @@ See also [MySQL](mysql.md) notes.
 
 <https://jdbc.postgresql.org/download/>
 
-Or
-
 <https://github.com/pgjdbc/pgjdbc/releases>
-
-Or
 
 Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](devops-bash-tools.md):
 
@@ -68,3 +62,19 @@ See also [PostgreSQL](postgres.md) notes.
 This JDBC wrapper works with MySQL and PostgreSQL JDBC drivers to support clustering
 
 <https://github.com/aws/aws-advanced-jdbc-wrapper>
+
+## Microsoft SQL Server
+
+<https://learn.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver16>
+
+<https://github.com/microsoft/mssql-jdbc>
+
+Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+download_mssql_jdbc_jar.sh
+```
+
+```java
+jdbc:sqlserver://x.x.x.x:1433;databaseName=MY-DB;user=MY-USER;password=MY-PASSWORD;encrypt=false;
+```
