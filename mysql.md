@@ -24,4 +24,4 @@ Web UI for DB access.
 
 ## Diagram - MySQL Replica Architecture
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/mysql_replica_architecture.svg)
+![MySQL Replica Architecture](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/mysql_replica_architecture.svg)
