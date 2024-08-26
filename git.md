@@ -216,8 +216,8 @@ references in the history.
 Future engineers doing `git log` will not be able to see the process of the evolution of your code,
 only the very final version, somewhat defeating the purpose of version control history!
 
-One can make the argument that squash commit merges result in only the good parts going into the trunk and keeping the history
-much simpler and perhaps atomically viable (although that's what tags are for, homies). I can live with that.
+One can make the argument that squash commit merges result in only the good parts going into the trunk and keeping the
+history much simpler and perhaps atomically viable (although that's what tags are for, homies). I can live with that.
 
 ### Squash Merges Require Force Deleting Branches
 
