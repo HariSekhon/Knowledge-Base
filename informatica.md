@@ -262,9 +262,20 @@ field) and then copy it to the following locations:
 eg.
 
 ```shell
+JDBC_JAR="mysql-connector-j-*.jar"
+```
+
+or
+
+```shell
+JDBC_JAR="mssql-jdbc-12.8.1.jre8.jar"
+```
+
+(the above jre8 version of the jar works with even Java 17 when testing)
+
+```shell
 for x in common spark; do
-  cp -iv "$(ls mysql-connector-j-*.jar | tail -n 1)" \
-         "/home/ec2-user/infaagent/ext/connectors/thirdparty/informatica.jdbc_v2/$x/"
+  cp -iv "$JDBC_JAR" "/home/ec2-user/infaagent/ext/connectors/thirdparty/informatica.jdbc_v2/$x/"
 done
 ```
 
@@ -276,13 +287,20 @@ cd /home/ec2-user/infaagent/apps/agentcore &&
 ./infaagent startup
 ```
 
-### Enable the JDBC Connector on the Secure Agent Group
+### Enable `JDBCV2` Connector on the Secure Agent Group
 
 You will need to enable the connector on the agent group under `Runtime Environments` for the agent to be visible in
 the drop-down list when creating the connector configuration below.
 
+- click the three dots to the far right of the agent
+- from the drop-down menu click `Enable or Disable Service, Connectors`
+- click on `Connectors` at the top
+- click the box to the left of the `JDBCV2` connector to enable on the agent
+
+You only need to do this the first time you add any JDBC connector to an agent.
+
 See this
-[KB article](https://knowledge.informatica.com/s/article/FAQ-Unable-to-see-all-connectors-and-services-on-agent-installed-after-MAY-21-monthly-release-in-IICS?language=en_US).
+[KB article](https://knowledge.informatica.com/s/article/FAQ-Unable-to-see-all-connectors-and-services-on-agent-installed-after-MAY-21-monthly-release-in-IICS?language=en_US) for screenshots.
 
 ### JDBC Connector Configuration
 
@@ -303,6 +321,10 @@ eg.
 
 ```none
 jdbc:mysql://x.x.x.x:3306/my-db?useSSL=false
+```
+
+```none
+jdbc:sqlserver://x.x.x.x:1433;databaseName=MY-DB;encrypt=false;
 ```
 
 The `useSSL=false` setting is often needed for the connection to succeed as most databases don't have SSL
@@ -604,7 +626,7 @@ The above command should print the pod name. If it doesn't, debug it before cont
 Copy the JDK to the spark pod:
 
 ```shell
-kubectl cp -n "$NAMESPACE" "infaagent-jdk/" "$SPARK_POD":/tmp/jdk
+kubectl cp -n "$NAMESPACE" "$JDK/" "$SPARK_POD":/tmp/jdk
 ```
 
 Exec into the pod:
@@ -712,4 +734,23 @@ Then browsing to:
 
 and clicking on the Thread Dump links to the far right of each executor line.
 
-I have told Informatica Support that they need to put full JDKs in their docker images in future to make support easier.
+Informatica Secure Agent documentation needs updating,
+you can get the correct version of JDK from the secure agent at this location:
+
+```none
+infaagent/apps/jdk/
+```
+
+eg.
+
+```shell
+JDK="zulu8.70.0.52-sa-fx-jdk8.0.372"
+```
+
+```shell
+rsync -av "$SECURE_AGENT":"infaagent/apps/jdk/$JDK" .
+```
+
+```shell
+kubectl cp -n "$NAMESPACE" "./$JDK/" "$SPARK_POD":/tmp/jdk
+```
