@@ -248,8 +248,8 @@ Synapse.
 
 [JDBC connector install doc](https://docs.informatica.com/integration-cloud/data-integration-connectors/current-version/jdbc-v2-connector/connections-for-jdbc-v2/prerequisites/install-the-type-4-jdbc-driver.html)
 
-Download the MySQL or PostgreSQL jdbc jar version matching your DB (eg. AWS RDS configuration tab `Engine version`
-field) and then copy it to the following locations:
+Download the [JDBC](jdbc.md) jar version matching your DB type and version
+(eg. AWS RDS configuration tab `Engine version` field) and then copy it to the following locations:
 
 ```none
 /home/ec2-user/infaagent/ext/connectors/thirdparty/informatica.jdbc_v2/common/
@@ -279,7 +279,7 @@ for x in common spark; do
 done
 ```
 
-and restart the agent:
+Officially you're supposed to restart the agent but in testing the connection succeeded without this:
 
 ```shell
 cd /home/ec2-user/infaagent/apps/agentcore &&
