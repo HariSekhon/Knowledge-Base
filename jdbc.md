@@ -11,6 +11,7 @@ Frequently used with RDBMS databases such as MySQL and PostgreSQL.
   - [JDBC Connection String](#jdbc-connection-string)
 - [PostgreSQL](#postgresql)
 - [AWS Aurora JDBC](#aws-aurora-jdbc)
+- [Microsoft SQL Server](#microsoft-sql-server)
 
 <!-- INDEX_END -->
 
