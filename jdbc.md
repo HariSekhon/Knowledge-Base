@@ -76,5 +76,5 @@ download_mssql_jdbc_jar.sh
 ```
 
 ```java
-jdbc:sqlserver://x.x.x.x:1433;databaseName=MY-DB;user=MY-USER;password=MY-PASSWORD;encrypt=false;
+jdbc:sqlserver://x.x.x.x:1433;databaseName=MY-DB;user=MY-USER;password=MY-PASSWORD;encrypt=false
 ```
