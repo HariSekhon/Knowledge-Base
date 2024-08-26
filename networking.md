@@ -154,8 +154,8 @@ iptables -nL -line-numbers
 
 ### Diagram - Network - Layer 2 - Local - ARP
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/network_layer2_local.svg)
+![Network Layer 2 - Local - ARP](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/network_layer2_local.svg)
 
 ### Diagram - Network - Layer 3 - Remote - IP
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/network_layer3_remote.svg)
+![Network - Layer 3 - Remote - IP](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/network_layer3_remote.svg)
