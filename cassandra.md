@@ -8,4 +8,4 @@
 
 ## Diagram - Cassandra Queries
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/cassandra_queries.svg)
+![Cassandra Queries](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/cassandra_queries.svg)
