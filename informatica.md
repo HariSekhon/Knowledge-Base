@@ -327,8 +327,10 @@ jdbc:mysql://x.x.x.x:3306/my-db?useSSL=false
 jdbc:sqlserver://x.x.x.x:1433;databaseName=MY-DB;encrypt=false;
 ```
 
-The `useSSL=false` setting is often needed for the connection to succeed as most databases don't have SSL
-configured on their ports. Informatica documentation was missing this.
+The `useSSL=false` and `encrypt=false` settings for MySQL and Microsoft SQL Server respectively were needed for the
+connection to succeed to RDS.
+
+Informatica documentation was missing this.
 
 Use the same [JDBC](jdbc.md) jar version as the database, eg. check the RDS configuration tab `Engine version` field.
 
