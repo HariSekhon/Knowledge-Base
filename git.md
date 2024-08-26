@@ -11,7 +11,10 @@
 - [CLIs](#clis)
 - [GitHub Badges](#github-badges)
 - [The Evils of Rebasing](#the-evils-of-rebasing)
-  - [Squash Commits](#squash-commits)
+  - [Cautionary Tale from Experience](#cautionary-tale-from-experience)
+  - [Rebase Requires Force Push Overwrites Which Can Lose Code Permanently](#rebase-requires-force-push-overwrites-which-can-lose-code-permanently)
+- [Squash Commits](#squash-commits)
+  - [Squash Commits Require Force Deleting Branches](#squash-commits-require-force-deleting-branches)
   - [Squash & Merge - multiple email addresses on your GitHub account](#squash--merge---multiple-email-addresses-on-your-github-account)
 - [Why You Shouldn't Use Long Lived Branches](#why-you-shouldnt-use-long-lived-branches)
 - [Git LFS](#git-lfs)
@@ -25,6 +28,7 @@
   - [Copy a file from another branch](#copy-a-file-from-another-branch)
   - [Pull from Upstream Origin in a local Fork](#pull-from-upstream-origin-in-a-local-fork)
   - [Multi-Origin Remotes](#multi-origin-remotes)
+    - [Advanced - push to different branch on remote](#advanced---push-to-different-branch-on-remote)
   - [Fix Author / Email in Git Pull Request or History](#fix-author--email-in-git-pull-request-or-history)
   - [Erase Leaked Credential in Pull Request](#erase-leaked-credential-in-pull-request)
   - [Git Filter-Repo](#git-filter-repo)
@@ -41,6 +45,8 @@
   - [List files added on current branch vs default branch](#list-files-added-on-current-branch-vs-default-branch)
   - [Push New Branch and Set Upstream in One Command](#push-new-branch-and-set-upstream-in-one-command)
   - [Push New Branch and Raise Pull Request in One Command](#push-new-branch-and-raise-pull-request-in-one-command)
+    - [On GitHub](#on-github)
+    - [On GitLab](#on-gitlab)
 
 <!-- INDEX_END -->
 
@@ -182,7 +188,7 @@ You think I'm joking, I've had colleagues who've done this and admitted it.
 
 Yes I laughed, I couldn't help it.
 
-#### Rebase Requires Force Push Overwrites Which Can Lose Code Permanently
+### Rebase Requires Force Push Overwrites Which Can Lose Code Permanently
 
 If you've already pushed your branch upstream, you then have to force push to overwrite your own upstream commit history
 after a rebase. Yuck.
@@ -201,7 +207,7 @@ Yes you can accidentally delete code even after it's been pushed and lose it for
 
 With great power comes great responsibility...
 
-### Squash Commits
+## Squash Commits
 
 Squash commit have a similar issue to rebasing in that they lose intermediate commits and keep only the last
 version of a series of commits, losing the process and any code / comments that might have been useful to keep as
@@ -209,6 +215,24 @@ references in the history.
 
 Future engineers doing `git log` will not be able to see the process of the evolution of your code,
 only the very final version, somewhat defeating the purpose of version control history!
+
+One can make the argument that squash commits result in only the good parts going into the trunk and keeping the history
+much simpler and perhaps atomically viable (although that's what tags are for, homies). I can live with that.
+
+### Squash Commits Require Force Deleting Branches
+
+Squash merges make you _"force delete"_ your merged branches because the local git client can't tell that those
+commits were merged into the trunk branch since their hashrefs are essentially lost.
+
+This is risky because you can lose an entire branch of work if you get this wrong (eg. have similarly named branches
+over time when repeatedly working on an area).
+
+If anybody has a better solution not requiring to force delete branches on cleanup of squash merges, please let me know.
+
+GitHub can automatically delete the upstream branch in repo, but you still have to force delete your local branch and
+hope it isn't one that hasn't been pushed yet.
+
+**You essentially lose local branch deletion safety when using squash merges.**
 
 If I had to pick my battles and let my engineers do one or the other,
 I'd ban rebasing though after my Denmark experience.
