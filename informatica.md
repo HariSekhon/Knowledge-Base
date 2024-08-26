@@ -18,7 +18,7 @@ Modern Informatica UI is cloud hosted SaaS solution called IICS - Informatica In
   - [Kubernetes - Advanced Jobs](#kubernetes---advanced-jobs)
 - [Connections - Sources and Destinations Integrations](#connections---sources-and-destinations-integrations)
   - [JDBC Connector Install](#jdbc-connector-install)
-  - [Enable the JDBC Connector on the Secure Agent Group](#enable-the-jdbc-connector-on-the-secure-agent-group)
+  - [Enable `JDBCV2` Connector on the Secure Agent Group](#enable-jdbcv2-connector-on-the-secure-agent-group)
   - [JDBC Connector Configuration](#jdbc-connector-configuration)
   - [JDBC Configuration Fixes](#jdbc-configuration-fixes)
   - [JDBC Increase Java Heap Size](#jdbc-increase-java-heap-size)
