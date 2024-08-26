@@ -14,7 +14,7 @@
   - [Cautionary Tale from Experience](#cautionary-tale-from-experience)
   - [Rebase Requires Force Push Overwrites Which Can Lose Code Permanently](#rebase-requires-force-push-overwrites-which-can-lose-code-permanently)
 - [Squash Commits](#squash-commits)
-  - [Squash Commits Require Force Deleting Branches](#squash-commits-require-force-deleting-branches)
+  - [Squash Merges Require Force Deleting Branches](#squash-merges-require-force-deleting-branches)
   - [Squash & Merge - multiple email addresses on your GitHub account](#squash--merge---multiple-email-addresses-on-your-github-account)
 - [Why You Shouldn't Use Long Lived Branches](#why-you-shouldnt-use-long-lived-branches)
 - [Git LFS](#git-lfs)
@@ -219,7 +219,7 @@ only the very final version, somewhat defeating the purpose of version control h
 One can make the argument that squash commits result in only the good parts going into the trunk and keeping the history
 much simpler and perhaps atomically viable (although that's what tags are for, homies). I can live with that.
 
-### Squash Commits Require Force Deleting Branches
+### Squash Merges Require Force Deleting Branches
 
 Squash merges make you _"force delete"_ your merged branches because the local git client can't tell that those
 commits were merged into the trunk branch since their hashrefs are essentially lost.
