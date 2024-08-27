@@ -67,7 +67,7 @@ Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](de
 download_postgresql_jdbc_jar.sh
 ```
 
-JDBC connection string example:
+JDBC driver class name:
 
 ```java
 org.postgresql.Driver
