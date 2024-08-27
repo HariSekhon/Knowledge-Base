@@ -7,11 +7,16 @@ Frequently used with RDBMS databases such as MySQL and PostgreSQL.
 <!-- INDEX_START -->
 
 - [Installation](#installation)
+  - [IP Addresses vs DNS FQDNs](#ip-addresses-vs-dns-fqdns)
 - [MySQL](#mysql)
   - [JDBC Connection String](#jdbc-connection-string)
 - [PostgreSQL](#postgresql)
+  - [JDBC Connection String](#jdbc-connection-string)
 - [AWS Aurora JDBC](#aws-aurora-jdbc)
 - [Microsoft SQL Server](#microsoft-sql-server)
+  - [JDBC Connection String](#jdbc-connection-string)
+- [Vertica](#vertica)
+  - [JDBC Connection String](#jdbc-connection-string)
 
 <!-- INDEX_END -->
 
