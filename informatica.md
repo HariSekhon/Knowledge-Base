@@ -342,6 +342,8 @@ Informatica documentation was missing this.
 
 Use the same [JDBC](jdbc.md) jar version as the database, eg. check the RDS configuration tab `Engine version` field.
 
+MySQL JDBC driver class name:
+
 Informatica documentation was also wrong about the driver class.
 Inspecting the `mysql-connector-j-8.0.33.jar` as per the [JDBC](jdbc.md) doc showed the correct class should be:
 
