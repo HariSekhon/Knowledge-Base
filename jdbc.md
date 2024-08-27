@@ -9,14 +9,10 @@ Frequently used with RDBMS databases such as MySQL and PostgreSQL.
 - [Installation](#installation)
   - [IP Addresses vs DNS FQDNs](#ip-addresses-vs-dns-fqdns)
 - [MySQL](#mysql)
-  - [MySQL - JDBC Connection String](#mysql---jdbc-connection-string)
 - [PostgreSQL](#postgresql)
-  - [PostgreSQL - JDBC Connection String](#postgresql---jdbc-connection-string)
 - [AWS Aurora JDBC](#aws-aurora-jdbc)
 - [Microsoft SQL Server](#microsoft-sql-server)
-  - [Microsoft SQL Server - JDBC Connection String](#microsoft-sql-server---jdbc-connection-string)
 - [Vertica](#vertica)
-  - [Vertica - JDBC Connection String](#vertica---jdbc-connection-string)
 
 <!-- INDEX_END -->
 
@@ -42,7 +38,7 @@ Quickly download and extract the jdbc jar using this script in [DevOps-Bash-tool
 download_mysql_jdbc_jar.sh
 ```
 
-### MySQL - JDBC Connection String
+JDBC connection string example:
 
 ```none
 jdbc:mysql://x.x.x.x:3306/MY-DB?useSSL=false
@@ -65,7 +61,7 @@ Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](de
 download_postgresql_jdbc_jar.sh
 ```
 
-### PostgreSQL - JDBC Connection String
+JDBC connection string example:
 
 ```java
 postgresql://x.x.x.x:5432/MY-DB?sslmode=disable
@@ -91,7 +87,7 @@ Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](de
 download_mssql_jdbc_jar.sh
 ```
 
-### Microsoft SQL Server - JDBC Connection String
+JDBC connection string example:
 
 ```java
 jdbc:sqlserver://x.x.x.x:1433;databaseName=MY-DB;user=MY-USER;password=MY-PASSWORD;encrypt=false
@@ -113,7 +109,7 @@ Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](de
 download_vertica_jdbc_jar.sh
 ```
 
-### Vertica - JDBC Connection String
+JDBC connection string example:
 
 ```java
 jdbc:vertica://x.x.x.x:5433/MY-DB?ssl=false
