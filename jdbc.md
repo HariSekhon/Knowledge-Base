@@ -38,6 +38,12 @@ Quickly download and extract the jdbc jar using this script in [DevOps-Bash-tool
 download_mysql_jdbc_jar.sh
 ```
 
+JDBC driver class name:
+
+```java
+com.mysql.jdbc.Driver
+```
+
 JDBC connection string example:
 
 ```none
@@ -59,6 +65,12 @@ Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](de
 
 ```shell
 download_postgresql_jdbc_jar.sh
+```
+
+JDBC connection string example:
+
+```java
+org.postgresql.Driver
 ```
 
 JDBC connection string example:
@@ -87,6 +99,12 @@ Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](de
 download_mssql_jdbc_jar.sh
 ```
 
+JDBC driver class name:
+
+```java
+com.microsoft.sqlserver.jdbc.SQLServerDriver
+```
+
 JDBC connection string example:
 
 ```java
@@ -107,6 +125,12 @@ Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](de
 
 ```shell
 download_vertica_jdbc_jar.sh
+```
+
+JDBC driver class name:
+
+```java
+com.vertica.jdbc.Driver
 ```
 
 JDBC connection string example:
