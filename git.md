@@ -237,6 +237,14 @@ hope it isn't one that hasn't been pushed yet.
 If I had to pick my battles and let my engineers do one or the other,
 I'd ban rebasing though after my Denmark experience.
 
+UPDATE: I've written a script to detect changes between a branch and the trunk branch before doing a branch deletion.
+
+Find it in my [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+```shell
+git_branch_delete_squash_merged.sh "$your_branch"
+```
+
 ### Squash & Merge - multiple email addresses on your GitHub account
 
 Squash & Merge of Pull Requests is sometimes enforced by teams disallowing Merge Commits in order to keep the trunk
