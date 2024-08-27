@@ -273,6 +273,14 @@ JDBC_JAR="mssql-jdbc-12.8.1.jre8.jar"
 
 (the above jre8 version of the jar works with even Java 17 when testing)
 
+or
+
+```shell
+JDBC_JAR="vertica-jdbc-24.2.0-1.jar"
+```
+
+Copy the JDBC jar to the locations where Informatica secure agent will detect it:
+
 ```shell
 for x in common spark; do
   cp -iv "$JDBC_JAR" "/home/ec2-user/infaagent/ext/connectors/thirdparty/informatica.jdbc_v2/$x/"
