@@ -15,6 +15,7 @@
   - [Rebase Requires Force Push Overwrites Which Can Lose Code Permanently](#rebase-requires-force-push-overwrites-which-can-lose-code-permanently)
 - [Squash Commits](#squash-commits)
   - [Squash Merges Require Force Deleting Branches](#squash-merges-require-force-deleting-branches)
+    - [Script to safely Delete Squash Merged Branches](#script-to-safely-delete-squash-merged-branches)
   - [Squash & Merge - multiple email addresses on your GitHub account](#squash--merge---multiple-email-addresses-on-your-github-account)
 - [Why You Shouldn't Use Long Lived Branches](#why-you-shouldnt-use-long-lived-branches)
 - [Git LFS](#git-lfs)
@@ -219,6 +220,9 @@ only the very final version, somewhat defeating the purpose of version control h
 One can make the argument that squash commit merges result in only the good parts going into the trunk and keeping the
 history much simpler and perhaps atomically viable (although that's what tags are for, homies). I can live with that.
 
+If I had to pick my battles and let my engineers do one or the other,
+I'd ban rebasing though after my Denmark experience.
+
 ### Squash Merges Require Force Deleting Branches
 
 Squash merges make you _"force delete"_ your merged branches because the local git client can't tell that those
@@ -234,16 +238,15 @@ hope it isn't one that hasn't been pushed yet.
 
 **You essentially lose local branch deletion safety when using squash merges.**
 
-If I had to pick my battles and let my engineers do one or the other,
-I'd ban rebasing though after my Denmark experience.
+#### Script to safely Delete Squash Merged Branches
 
-UPDATE: I've written a script to detect changes between a branch and the trunk branch before doing a branch deletion.
-
-Find it in my [DevOps-Bash-tools](devops-bash-tools.md) repo:
+This script detects changes between a branch and the trunk branch before doing a branch deletion.
 
 ```shell
 git_branch_delete_squash_merged.sh "$your_branch"
 ```
+
+Find it in my [DevOps-Bash-tools](devops-bash-tools.md) repo.
 
 ### Squash & Merge - multiple email addresses on your GitHub account
 
