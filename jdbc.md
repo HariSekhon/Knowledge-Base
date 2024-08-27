@@ -21,6 +21,12 @@ For Data Integration software such as [Informatica](informatica.md) or [Sqoop](s
 downloading the JDBC driver jar file for the specific database and then copying it into the 3rd party drivers directory
 of the software to pick it up and use it.
 
+### IP Addresses vs DNS FQDNs
+
+While hostname in the JDBC connection string examples below are shown as an `x.x.x.x` IP address for simplicity,
+you should probably replace them with a DNS FQDN instead of an IP address in order to track failovers in
+High Availability systems like AWS RDS.
+
 ## MySQL
 
 <https://dev.mysql.com/downloads/connector/j/>
@@ -32,8 +38,6 @@ download_mysql_jdbc_jar.sh
 ```
 
 ### JDBC Connection String
-
-The connection string should look like this:
 
 ```none
 jdbc:mysql://x.x.x.x:3306/MY-DB?useSSL=false
@@ -56,6 +60,12 @@ Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](de
 download_postgresql_jdbc_jar.sh
 ```
 
+### JDBC Connection String
+
+```java
+postgresql://x.x.x.x:5432/MY-DB?sslmode=disable
+```
+
 See also [PostgreSQL](postgres.md) notes.
 
 ## AWS Aurora JDBC
@@ -76,6 +86,30 @@ Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](de
 download_mssql_jdbc_jar.sh
 ```
 
+### JDBC Connection String
+
 ```java
 jdbc:sqlserver://x.x.x.x:1433;databaseName=MY-DB;user=MY-USER;password=MY-PASSWORD;encrypt=false
+```
+
+## Vertica
+
+<https://www.vertica.com/download/vertica/client-drivers/>
+
+<https://docs.vertica.com/23.4.x/en/connecting-to/client-libraries/client-drivers/install-config/jdbc/installing-jdbc/>
+
+If you need a FIPS compliant driver:
+
+<https://docs.vertica.com/23.4.x/en/connecting-to/client-libraries/client-drivers/install-config/fips/installing-fips-client-driver-jdbc/>
+
+Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+download_vertica_jdbc_jar.sh
+```
+
+### JDBC Connection String
+
+```java
+jdbc:vertica://x.x.x.x:5433/MY-DB?ssl=false
 ```
