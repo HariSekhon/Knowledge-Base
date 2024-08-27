@@ -9,14 +9,14 @@ Frequently used with RDBMS databases such as MySQL and PostgreSQL.
 - [Installation](#installation)
   - [IP Addresses vs DNS FQDNs](#ip-addresses-vs-dns-fqdns)
 - [MySQL](#mysql)
-  - [JDBC Connection String](#jdbc-connection-string)
+  - [MySQL - JDBC Connection String](#mysql---jdbc-connection-string)
 - [PostgreSQL](#postgresql)
-  - [JDBC Connection String](#jdbc-connection-string)
+  - [PostgreSQL - JDBC Connection String](#postgresql---jdbc-connection-string)
 - [AWS Aurora JDBC](#aws-aurora-jdbc)
 - [Microsoft SQL Server](#microsoft-sql-server)
-  - [JDBC Connection String](#jdbc-connection-string)
+  - [Microsoft SQL Server - JDBC Connection String](#microsoft-sql-server---jdbc-connection-string)
 - [Vertica](#vertica)
-  - [JDBC Connection String](#jdbc-connection-string)
+  - [Vertica - JDBC Connection String](#vertica---jdbc-connection-string)
 
 <!-- INDEX_END -->
 
@@ -42,7 +42,7 @@ Quickly download and extract the jdbc jar using this script in [DevOps-Bash-tool
 download_mysql_jdbc_jar.sh
 ```
 
-### JDBC Connection String
+### MySQL - JDBC Connection String
 
 ```none
 jdbc:mysql://x.x.x.x:3306/MY-DB?useSSL=false
@@ -65,7 +65,7 @@ Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](de
 download_postgresql_jdbc_jar.sh
 ```
 
-### JDBC Connection String
+### PostgreSQL - JDBC Connection String
 
 ```java
 postgresql://x.x.x.x:5432/MY-DB?sslmode=disable
@@ -91,7 +91,7 @@ Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](de
 download_mssql_jdbc_jar.sh
 ```
 
-### JDBC Connection String
+### Microsoft SQL Server - JDBC Connection String
 
 ```java
 jdbc:sqlserver://x.x.x.x:1433;databaseName=MY-DB;user=MY-USER;password=MY-PASSWORD;encrypt=false
@@ -113,7 +113,7 @@ Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](de
 download_vertica_jdbc_jar.sh
 ```
 
-### JDBC Connection String
+### Vertica - JDBC Connection String
 
 ```java
 jdbc:vertica://x.x.x.x:5433/MY-DB?ssl=false
