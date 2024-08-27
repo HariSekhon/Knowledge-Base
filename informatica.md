@@ -357,6 +357,8 @@ NOT what the Informatica doc said:
 jdbc.mysql.MySQLDriver
 ```
 
+For other JDBC connection details, see the [JDBC](jdbc.md) doc.
+
 ### JDBC Increase Java Heap Size
 
 Large data transfers may result in this error:
