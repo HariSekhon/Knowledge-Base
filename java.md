@@ -72,6 +72,10 @@ Output the Java code on the command line:
 cfr.sh "$jar_or_class_file"
 ```
 
+```shell
+procyon.sh "$jar_or_class_file"
+```
+
 ## Clojure
 
 <https://clojure.org/>
