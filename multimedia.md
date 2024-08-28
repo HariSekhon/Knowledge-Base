@@ -48,6 +48,18 @@ webp_to_png "$name.webp"
 This function adds safety to not overwrite the destination file if it already exists because `dwebp` will blindly
 overwrite the `-o outfile`.
 
+### Join Two Images Together
+
+Useful to create memes.
+
+Since images can have different widths and end up with whitespace around the smaller image,
+use this script from the [DevOps-Bash-tools](devops-bash-tools.md) repo
+to stack joins them after matching their widths so they align correctly:
+
+```shell
+image_join_stack.sh "$top_image" "$bottom_image" "joined_image.png"
+```
+
 ### Inspect Image File Metadata
 
 ```shell
