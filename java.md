@@ -74,6 +74,8 @@ Output the Java code on the command line:
 cfr.sh "$jar_or_class_file"
 ```
 
+or
+
 ```shell
 procyon.sh "$jar_or_class_file"
 ```
