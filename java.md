@@ -6,7 +6,7 @@ NOT PORTED YET.
 
 - [Show Java Classpath](#show-java-classpath)
 - [Inspect JAR contents](#inspect-jar-contents)
-- [Java Decompile JAR or .class files](#java-decompile-jar-or-class-files)
+- [Java Decompilers](#java-decompilers)
 - [Clojure](#clojure)
 
 <!-- INDEX_END -->
@@ -56,7 +56,9 @@ tar tvf mysql-connector-j-*.jar
 The directory layout of the class files corresponds to the class hierarchy eg.
 is accessed as `com.mysql.jdbc.Driver` in Java code.
 
-## Java Decompile JAR or .class files
+## Java Decompilers
+
+Use these to decompile JAR or .class files to read the Java source code.
 
 Using [DevOps-Bash-tools](devops-bash-tools.md) repo:
 
