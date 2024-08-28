@@ -55,6 +55,22 @@ tar tvf mysql-connector-j-*.jar
 The directory layout of the class files corresponds to the class hierarchy eg.
 is accessed as `com.mysql.jdbc.Driver` in Java code.
 
+## Java Decompile .class files
+
+Using [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+For a GUI:
+
+```shell
+jd_gui.sh "$jar_or_class_file"
+```
+
+Output the Java code on the command line:
+
+```shell
+cfr.sh "$jar_or_class_file"
+```
+
 ## Clojure
 
 <https://clojure.org/>
