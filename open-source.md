@@ -15,6 +15,9 @@ Miscellaneous open source applications worthy of note.
 
 - [ListMonk](https://listmonk.app/) - self-hosted newsletter and mailing list manager
 
+- Video Conferencing
+  - <https://www.mynaparrot.com/blog/215-7-free-open-source-video-conference-systems>
+
 ## Not open source
 
 Bu perhaps worth a look.
