@@ -36,6 +36,7 @@ The `ftp` command is provided by several packages
   - on [Mac](mac.md) `brew install inetutils`
 - curl - `curl -u user:password ftp://ftp.example.com/file.txt -O`
   - built-in on Mac, usually the `curl` package on most Linux distributions
+- [tnftp](https://cdn.netbsd.org/pub/NetBSD/misc/tnftp/)
 
 ## FTP Servers
 
@@ -82,3 +83,15 @@ Many of these will be familiar to unix command line users.
 | `!`            | execute a command on the local machine without leaving the FTP session eg. `! ls` to list local directory files to see filenames to transfer |
 | `quote`        | send an arbitrary command to the remote FTP server eg. `quote SITE CHMOD 755 filename.txt`                                                   |
 | `passive`      | toggle passive mode on/off to work around network issues connecting                                                                          |
+
+### Example
+
+Install lftp on Mac:
+
+```shell
+brew install lftp
+```
+
+```shell
+lftp tsftp.informatica.com
+```
