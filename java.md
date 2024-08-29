@@ -68,7 +68,13 @@ For a GUI:
 jd_gui.sh "$jar_or_class_file"
 ```
 
-Output the Java code on the command line:
+or
+
+```shell
+bytecode_viewer.sh
+```
+
+For command line output:
 
 ```shell
 cfr.sh "$jar_or_class_file"
