@@ -5,6 +5,16 @@ An old protocol for file transfers.
 You shouldn't use this normally, except some companies may use it for anonymous uploads for vendor support cases,
 eg. [Informatica](informatica.md).
 
+<!-- INDEX_START -->
+
+- [FTP Clients](#ftp-clients)
+  - [GUI](#gui)
+  - [Command Line](#command-line)
+- [FTP Servers](#ftp-servers)
+- [FTP Client Commands](#ftp-client-commands)
+
+<!-- INDEX_END -->
+
 ## FTP Clients
 
 ### GUI
