@@ -43,6 +43,56 @@ pending migration.
 
 Hit the watch button on the top right for updates.
 
+<!-- INDEX_START -->
+
+  - [GitHub Repos](#github-repos)
+  - [Linux / Unix](#linux--unix)
+  - [Core Services - DNS, DHCP, SSH, FTP](#core-services---dns-dhcp-ssh-ftp)
+  - [Editors](#editors)
+  - [Architecture & Documentation](#architecture--documentation)
+  - [Git](#git)
+  - [Cloud](#cloud)
+  - [Docker](#docker)
+  - [Kubernetes](#kubernetes)
+    - [Cloud Hosted Kubernetes](#cloud-hosted-kubernetes)
+    - [On-premise Kubernetes](#on-premise-kubernetes)
+    - [Local Kubernetes Dev](#local-kubernetes-dev)
+    - [Kubernetes Applications & Lifecycle Management](#kubernetes-applications--lifecycle-management)
+  - [Container Security](#container-security)
+  - [Programming](#programming)
+  - [Configuration Management](#configuration-management)
+  - [Build Systems](#build-systems)
+  - [Container Registries](#container-registries)
+  - [Artifact Registries](#artifact-registries)
+  - [CI/CD](#cicd)
+  - [Code Scanning](#code-scanning)
+  - [Internet Services](#internet-services)
+  - [Databases / RDBMS](#databases--rdbms)
+    - [MPP Databases](#mpp-databases)
+    - [Hosted MPP Databases](#hosted-mpp-databases)
+    - [Database Management](#database-management)
+  - [NoSQL](#nosql)
+  - [Caching](#caching)
+  - [Search](#search)
+  - [Pub/Sub & Message Queues](#pubsub--message-queues)
+  - [Data](#data)
+  - [Hadoop Ecosystem](#hadoop-ecosystem)
+  - [Data Science](#data-science)
+  - [Time Series Databases](#time-series-databases)
+  - [Visualization](#visualization)
+  - [Performance Engineering](#performance-engineering)
+  - [Security](#security)
+  - [Virtualization](#virtualization)
+  - [Hardware](#hardware)
+  - [Networking](#networking)
+  - [Load Balancing](#load-balancing)
+  - [Monitoring](#monitoring)
+  - [Misc](#misc)
+    - [Old](#old)
+- [See Also](#see-also)
+
+<!-- INDEX_END -->
+
 ### GitHub Repos
 
 Full of open source tools and scripts used throughout the rest of these docs to make it easier to install and operate these technologies:
