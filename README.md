@@ -71,10 +71,11 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [direnv / `.envrc`](direnv.md)
 - [Disk Management](disk.md)
 
-### Core Services - DNS, DHCP, SSH
+### Core Services - DNS, DHCP, SSH, FTP
 
 - [SSH](ssh.md)
   - [SSH Tunnelling](ssh-tunnelling.md)
+- [FTP](ftp.md)
 - [DNS](dns.md)
 - [DHCP](dhcp.md)
 
