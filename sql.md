@@ -1,11 +1,5 @@
 # SQL
 
-## SQL Scripts
-
-Scripts for [PostgreSQL](postgres.md), [MySQL](mysql.md), AWS Athena and Google BigQuery:
-
-[HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
-
 <!-- INDEX_START -->
 
 - [SQL Scripts](#sql-scripts)
@@ -14,6 +8,12 @@ Scripts for [PostgreSQL](postgres.md), [MySQL](mysql.md), AWS Athena and Google 
 - [SQL Query Logical Order](#sql-query-logical-order)
 
 <!-- INDEX_END -->
+
+## SQL Scripts
+
+Scripts for [PostgreSQL](postgres.md), [MySQL](mysql.md), AWS Athena and Google BigQuery:
+
+[HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
 
 ## SQL Clients
 
