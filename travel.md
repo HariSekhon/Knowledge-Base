@@ -220,6 +220,10 @@ Such is the bad reputation of the English lads on holiday!
 
 Prague has many good restaurants and excellent architecture in the old town.
 
+### Cyprus
+
+Excellent holiday destination, but be warned, it is too hot in August.
+
 ### Estonia
 
 The best of the three Baltic countries IMO, with prettier women and just generally feels slightly more developed.
@@ -470,7 +474,17 @@ Story here:
 
 ### UAE - Dubai
 
+Dubai is more of a city-state that a city as Europeans would understand it.
+
+It would be extremely difficult to walk due to the distances and heat.
+
+*"I don't walk anywhere in Dubai"* one of my Brit connections told me. I saw why after I arrived. Even a 15 minute walk
+to lunch will leave you a sweaty mess by the time you get there.
+People drive with air conditioning and dive into malls, offices and restaurants with air conditioning.
+
 I used Virgin Mobile on a prepaid contract for around £200 for the year which was the cheapest deal I could find.
+
+You will need a car or taxi everywhere.
 
 Careem is Dubai's version of Uber.
 
@@ -481,6 +495,10 @@ and will get a shock as your car rental company refuses to release the car to yo
 
 You will then need to Careem around the city to get your Emirates ID and then your Drivers License which will require
 local bank or cash payment.
+
+The weather is so hot even by May some people use sun umbrellas - so hot that it broke my car phone holder.
+Rich people usually leave Dubai and go to Europe for the summer.
+Copying them was how a lot of the European countries on this list were covered!
 
 #### Banking
 
