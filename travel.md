@@ -112,6 +112,27 @@ both hotels and airbnbs lack good parking.
 
 Also, if you're only going into the centres in the evenings, often you can get cheap or even free parking.
 
+## Mobile Internet Access
+
+Digital e-sims where you can buy data plans for a certain number of days.
+
+Google [travel e-sims](https://www.google.com/search?q=travel+e-sims)
+and add the country you are travelling to for more options.
+
+- <https://www.airalo.com/> - follow the installation instructions and make sure to enable `Data Roaming`
+  under the e-sim settings otherwise the internet won't connect
+- <https://esim.holafly.com/>
+
+## Translation
+
+If travelling to a non-English primary country, I recommend downloading the Google Translate app,
+which translates from and to any language of your choice:
+
+- translates typed words
+- translates spoken words into typed words and immediately translates them
+- translates pictures replacing words into another language
+  - uses Google Lens [AI](ai.md)
+
 ## Driving
 
 Ferries are surprisingly expensive, similar in price to an air fair.
@@ -171,17 +192,6 @@ It's quite possible they do this on purpose 15 minutes from the Estonia border t
 between the countries.
 
 Let cars overtake you than fall for this unmarked police car entrapment.
-
-## Mobile Internet Access
-
-Digital e-sims where you can buy data plans for a certain number of days.
-
-Google [travel e-sims](https://www.google.com/search?q=travel+e-sims)
-and add the country you are travelling to for more options.
-
-- <https://www.airalo.com/> - follow the installation instructions and make sure to enable `Data Roaming`
-  under the e-sim settings otherwise the internet won't connect
-- <https://esim.holafly.com/>
 
 ### EU Roaming
 
@@ -252,6 +262,14 @@ here, and both are very affordable.
 #### Liege
 
 Liege is worse than Brussels, with high incidence of homelessness and street begging.
+
+#### Waterloo
+
+Gentrified town just south of Brussels where Napoleon lost the famous battle.
+
+[Le Bar À Soupe](https://www.facebook.com/people/Le-Bar-%C3%A0-Soupe/100063541241931/),
+Savage Burger and [Thai Cafe](https://thai.cafe/en) are recommended here, with the latter being more expensive.
+You will need your Google Translate camera app to translate the menu as they don't speak English.
 
 ### Canada
 
@@ -328,12 +346,65 @@ driving distances in Germany.
 
 You can expect to drive for 8 hours to go from West to East Germany.
 
+#### Bonn
+
+TODO
+
 #### Berlin
 
 Berlin is a relatively affordable capital with good restaurants
 and what feels like much lower population density than London.
 
 It is not as popping as London at 9pm on a Saturday night as a result though.
+
+#### Brandenburg
+
+A small town to the West of Berlin with some old gothic buildings, a good place to walk around with an ice cream.
+
+#### Cologne
+
+Large cathedral city with a selection of restaurants.
+
+[Fräulein Herborths](https://www.fraeuleinherborths.de/) is recommended here.
+
+#### Dusseldorf
+
+A city with a great selection of restaurants.
+
+"Shawarma city" takeaway is recommended here, good food and good prices.
+There is often a queue around the corner for it across the hours of the evening.
+
+#### Essen
+
+Surprisingly mass immigrated with a lot of graffiti, with homeless people along the high street.
+
+Limited dining options, middle eastern probably being among the best options.
+
+#### Frankfurt
+
+Large metropolitan multicultural city with many restaurants.
+
+[MA'LOA Poké Bowl](https://maloa.com/) is recommended, and [BKK Thai Street Food](https://bkkthaistreetfood.com/) is also popular.
+
+#### Hanover
+
+A city with a lot of middle eastern restaurants.
+
+[Zambezi Springs](https://www.zambezi-springs.de/) is recommended here - rare access to good African cuisine.
+
+#### Königswinter
+
+Lovely small germanic town. This is what I imagined German paradise to look like.
+
+[Gasthaus Lichtenberg](https://gasthaus-lichtenberg.de/) is recommended here.
+
+##### Potsdam
+
+City just outside the west of Berlin.
+
+[KOI Sushi, Grill & Soup](https://koi-sushi-grill.eatbu.com/) is highly recommended here. They don't speak English but
+it's worth the translation effort, excellent food and good prices.
+The Thai tom yum soup and the sushi are recommended.
 
 ### Latvia
 
