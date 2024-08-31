@@ -43,6 +43,8 @@ There may be something to the EU integration project after all.
 
 ## Countries
 
+Some more specific tips for different countries.
+
 ### Hungary
 
 Do not drive through northern Hungary, there are serious ghettos that feel very unsafe:
@@ -70,3 +72,18 @@ and did a very invasive search of my car and all luggage, they opened everything
 Story here:
 
 <https://medium.com/@harisekhon/the-police-attention-you-get-driving-a-drug-dealer-looking-car-through-europe-d38c5919835f>
+
+### UAE - Dubai
+
+I used Virgin Mobile on a prepaid contract for around £200 for the year which was the cheapest deal I could find.
+
+#### Banking
+
+- [Mashreq](https://www.mashreq.com/) is the easiest to use, app-only like Starling or Monzo
+- [ADCB]() is the next best, but the premium account is a big hassle and has a minimum balance requirement
+- [Emirates NBD](https://www.emiratesnbd.com/en) has a bad reputation among my peers for being a lot of hassle
+  - they were a hassle to open, wanting salary certificate
+  - even closing the account is difficult apparently
+- [HSBC](https://www.hsbc.ae/) was a similar hassle to NBD above wanting salary certificate addressed specifically to them
+  - much more than HSBC back in the UK
+  - even having an HSBC account in the UK doesn't help
