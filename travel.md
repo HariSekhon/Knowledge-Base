@@ -35,10 +35,14 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Riga](#riga)
   - [Lithuania](#lithuania)
     - [Vilinus](#vilinus)
+  - [Norway](#norway)
+    - [Olso](#olso)
   - [Poland](#poland)
     - [Bydgoszcz](#bydgoszcz)
     - [Gdansk](#gdansk)
+    - [Katowice](#katowice)
     - [Krakow](#krakow)
+    - [Nowy Sącz](#nowy-sącz)
     - [Poznan](#poznan)
     - [Sopot](#sopot)
     - [Warsaw](#warsaw)
@@ -50,6 +54,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Manilla](#manilla)
   - [Serbia](#serbia)
     - [Driving](#driving)
+  - [Slovakia](#slovakia)
+    - [Kosice](#kosice)
   - [South Africa](#south-africa)
     - [Johannesburg](#johannesburg)
       - [Sandton](#sandton)
@@ -328,6 +334,14 @@ excellent traditional Georgian soup with beef and vegetables with a bit of spice
 Another traditional dish Khachapuri is basically a similar to a pizza but with more dough around the edges.
 A bit bready for my liking but something you may want to try once.
 
+### Norway
+
+#### Olso
+
+Nice to visit for a couple days,
+but everything was closed and quiet at 4pm on a Sunday afternoon when I arrive,
+very different to the hustle and bustle of London.
+
 ### Poland
 
 One of my favourite countries.
@@ -373,11 +387,26 @@ There was zero border control coming off the ferry from Sweden to Gdansk, which 
 [Slaska 19](https://www.tripadvisor.com/Restaurant_Review-g274725-d13810673-Reviews-Slaska_19-Gdansk_Pomerania_Province_Northern_Poland.html)
 is a good restaurant away from the centre with an affordable weekday lunch menu and good wifi.
 
+#### Katowice
+
+Surprisingly busy city with large central communal areas and nightlife.
+
+[Tatiana](https://www.restauracjatatiana.pl/) restaurant is recommended here.
+
+[Alahamora - magiczna kawiarnia](https://alahamora.pl/) is a cafe treat for Harry Potter fans.
+Unfortunately they have no wifi.
+
 #### Krakow
 
 Tourist hotspot.
 
 *"F\*ck Warsaw, go to Krakow!"*, one of my Polish colleagues told me. He was right.
+
+#### Nowy Sącz
+
+Nice small centre, good for a coffee stopover.
+
+[Sofi Len Cafe](https://www.instagram.com/sofilen_kawiarnia) is recommended here.
 
 #### Poznan
 
@@ -478,6 +507,14 @@ Overall, a horrible experience driving to Serbia and I would not do it again.
 
 You immediately feel like you've gone from Europe to some dangerous 3rd world country where you are more worried about
 the police themselves.
+
+### Slovakia
+
+#### Kosice
+
+Small city with a nice historic centre, but none of the venues I tried impressed me.
+
+Would try [Slavia](https://www.kaviarenslavia.sk/jedalny-listok/)) if I were to visit gain.
 
 ### South Africa
 
