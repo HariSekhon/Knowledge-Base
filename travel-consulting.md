@@ -89,6 +89,49 @@ There may be something to the EU integration project after all.
 
 Some more specific tips for different countries.
 
+### Belgium
+
+Nice small country, easy to drive from the UK, perhaps 2-3 hours after a ferry from Dover to Calais.
+
+#### Brussels
+
+A bit of a western capital dump with high immigration, graffiti etc.
+
+#### Bruges/Brugges / Ghent/Gent
+
+West Belgium is nicer, particularly Bruges, Ghent etc.
+
+#### Liege
+
+Liege is worse than Brussels, with high incidence of homelessness and street begging.
+
+### France
+
+A surprising number of people in France do not speak English at all.
+
+If you've been travelling to other countries where they often accommodate English speakers this might come as a
+surprise for a country close to England.
+
+### Germany
+
+#### Driving
+
+The autobahn - the german highway - is long.
+
+If you have a need for speed, Germany is probably one of the best places to drive your car.
+
+Germany is a much bigger country which you feel after driving through Belgium and then hitting the much more vast
+driving distances in Germany.
+
+You can expect to drive for 8 hours to go from West to East Germany.
+
+#### Berlin
+
+Berlin is a relatively affordable capital with good restaurants
+and what feels like much lower population density than London.
+
+It is not as popping as London at 9pm on a Saturday night as a result though.
+
 ### Poland
 
 One of my favourite countries.
@@ -98,6 +141,7 @@ One of my favourite countries.
 - Food is good and reasonably priced
 - Airbnbs are expensive though
 - Poland is not a cheap country any more
+- Large country tht takens 6-8 hours to drive across
 - Parking is often cheap or free after 8pm, which is great for going out to get dinner in the centres.
 
 #### Sopot
