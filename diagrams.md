@@ -226,4 +226,8 @@ and should be present but can be represented by a since simple icon,
 with their implementation showing how they're running on Kubernetes
 or achieving high availability being left to separate diagrams for each one.
 
+## UML Class Diagrams
+
+![UML Class Diagrams Cheatsheet](images/uml_diagrams.gif)
+
 **Ported from various private Knowledge Base pages 2020+**
