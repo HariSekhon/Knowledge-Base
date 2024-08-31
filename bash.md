@@ -15,7 +15,6 @@ is one of the few use cases for that).
   - [Free](#free)
 - [Advanced Library of Scripts](#advanced-library-of-scripts)
 - [Perl, Awk, Sed](#perl-awk-sed)
-- [Other Cool Resources](#other-cool-resources)
 - [JSON](#json)
 - [Commands](#commands)
 - [Tips & Tricks](#tips--tricks)
@@ -27,6 +26,7 @@ is one of the few use cases for that).
   - [Fail on any error exit code](#fail-on-any-error-exit-code)
   - [Fail if accessing any unset variable](#fail-if-accessing-any-unset-variable)
   - [Clean Shell](#clean-shell)
+- [Other Cool Resources](#other-cool-resources)
 - [Style Guide](#style-guide)
 
 <!-- INDEX_END -->
@@ -65,20 +65,6 @@ the time.
 You need to learn at least some basic one-liners of [Perl](perl.md), Awk and Sed to be proficient in shell scripting.
 
 You also need to learn [Regex](regex.md) to use these tools effectively.
-
-## Other Cool Resources
-
-- [Greg's Wiki - Wooledge.org](https://mywiki.wooledge.org) - the grumpy old greycat guy on IRC in the 2000s would
-  often send noobs to his classic resource
-  - [Bash Guide](https://mywiki.wooledge.org/BashGuide)
-  - [Bash FAQ](https://mywiki.wooledge.org/BashFAQ)
-  - [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
-  - [Bash Programming](https://mywiki.wooledge.org/BashProgramming)
-  - [Bash Reference Sheet](https://mywiki.wooledge.org/BashSheet)
-- [Shelldorado](http://www.shelldorado.com/)
-- [explainshell.com](https://explainshell.com) - explains a bash shell statement
-- [Reddit - r/bash](https://www.reddit.com/r/bash/)
-- [ShellCheck](https://www.shellcheck.net/) - online version of the popular `shellcheck` command line tool to find bugs and improvements to make in shell code
 
 ## JSON
 
@@ -261,6 +247,20 @@ env - bash --norc --noprofile
 ```
 
 In [DevOps-Bash-tools](devops-bash-tools.md) this a function called `cleanshell`.
+
+## Other Cool Resources
+
+- [Greg's Wiki - Wooledge.org](https://mywiki.wooledge.org) - the grumpy old greycat guy on IRC in the 2000s would
+  often send noobs to his classic resource
+  - [Bash Guide](https://mywiki.wooledge.org/BashGuide)
+  - [Bash FAQ](https://mywiki.wooledge.org/BashFAQ)
+  - [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
+  - [Bash Programming](https://mywiki.wooledge.org/BashProgramming)
+  - [Bash Reference Sheet](https://mywiki.wooledge.org/BashSheet)
+- [Shelldorado](http://www.shelldorado.com/)
+- [explainshell.com](https://explainshell.com) - explains a bash shell statement
+- [Reddit - r/bash](https://www.reddit.com/r/bash/)
+- [ShellCheck](https://www.shellcheck.net/) - online version of the popular `shellcheck` command line tool to find bugs and improvements to make in shell code
 
 ## Style Guide
 
