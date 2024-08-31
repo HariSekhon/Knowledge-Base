@@ -43,6 +43,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Gdansk](#gdansk)
     - [Katowice](#katowice)
     - [Krakow](#krakow)
+    - [Łódź](#łódź)
     - [Nowy Sącz](#nowy-sącz)
     - [Poznan](#poznan)
     - [Sopot](#sopot)
@@ -406,6 +407,10 @@ Unfortunately they have no wifi.
 Tourist hotspot.
 
 *"F\*ck Warsaw, go to Krakow!"*, one of my Polish colleagues told me. He was right.
+
+#### Łódź
+
+Medium sized city, mall and restaurants, but lacks the historical centre attraction of other Polish cities.
 
 #### Nowy Sącz
 
