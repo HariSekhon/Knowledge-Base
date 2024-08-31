@@ -2,6 +2,8 @@
 
 <!-- INDEX_START -->
 
+- [Flights](#flights)
+- [Hotels vs Airbnb](#hotels-vs-airbnb)
 - [Phones, E-Sims & Mobile Internet Access](#phones-e-sims--mobile-internet-access)
   - [EU Roaming](#eu-roaming)
 - [Countries](#countries)
