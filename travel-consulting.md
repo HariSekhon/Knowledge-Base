@@ -69,6 +69,11 @@ Also, if you're only going into the centres in the evenings, often you can get c
 
 ## Driving
 
+Ferries are surprisingly expensive, similar in price to an air fair.
+
+This probably works out a little more economical if having more than one person in the car.
+
+You should book ahead of time due to limited slots, and for better pricing.
 
 ### Driving Checklist
 
