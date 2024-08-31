@@ -2,6 +2,13 @@
 
 <!-- INDEX_START -->
 
+- [Phones, E-Sims & Mobile Internet Access](#phones-e-sims--mobile-internet-access)
+    - [EU Roaming](#eu-roaming)
+- [Countries](#countries)
+  - [Hungary](#hungary)
+  - [Serbia](#serbia)
+  - [Sweden](#sweden)
+
 <!-- INDEX_END -->
 
 ## Phones, E-Sims & Mobile Internet Access
