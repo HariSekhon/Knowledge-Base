@@ -1,4 +1,6 @@
-# Travel Consulting
+# Travel
+
+Whether Consulting internationally or visiting for a holiday, here are some useful tips from my travels.
 
 <!-- INDEX_START -->
 
@@ -75,6 +77,11 @@ This probably works out a little more economical if having more than one person 
 
 You should book ahead of time due to limited slots, and for better pricing.
 
+EU countries have town symbols along routes which automatically drop the speed limit to 50kmph whether they declare it
+explicitly or not.
+
+This is a local knowledge that will get you done and your license revoked if you hit 100kmph. See [Latvia](#latvia).
+
 ### Driving Checklist
 
 Police may refuse you entry or blackmail you out of money if you don't have all of the following documents:
@@ -101,6 +108,26 @@ Headlamp converters are basically headlamp stickers that change the glare direct
 way because you drive on the right in Europe instead of the left like in the UK.
 
 Apparently the French police are likely to pull you over and fine you if you don't have these.
+
+### Do Not Speed
+
+Do not speed, you only need to go a meagre 50kmh above the speed limit and the [Latvian](#latvia) police will revoke
+your license.
+
+This is easy to do in towns which are set to only 50kmph speed limits whether they explicitly declare it or not.
+
+If you see a car pushing into the back of you, do not speed up.
+
+It may be a police car that will only put on its siren after you've increased speed to breach the +50kmph maximum
+penalty of €360 euros and a revoked license.
+
+The extended time pulled over by the police not knowing if they are going to arrest you and impound your vehicle on top
+of revoking your license will set you back a lot more time than any speed up would give you.
+
+It's quite possible they do this on purpose 15 minutes from the Estonia border to catch unsuspecting foreigners driving
+between the countries.
+
+Let cars overtake you than fall for this unmarked police car entrapment.
 
 ## Phones, E-Sims & Mobile Internet Access
 
@@ -153,6 +180,17 @@ West Belgium is nicer, particularly Bruges, Ghent etc.
 
 Liege is worse than Brussels, with high incidence of homelessness and street begging.
 
+### Estonia
+
+The best of the three Baltic countries IMO, with prettier women and just generally feels slightly more developed.
+
+#### Tallinn
+
+Tallinn, the capital, can be done in 2 days. There are plenty of good restaurants to visit.
+
+[Olde Hansa](https://www.oldehansa.ee/) medievil restaurant is highly recommended. It's expensive but worth it.
+It has live medieval music, the staff are tunics, and the food is fit for royalty. You can even get bear on the menu.
+
 ### France
 
 A surprising number of people in France do not speak English at all.
@@ -179,6 +217,34 @@ Berlin is a relatively affordable capital with good restaurants
 and what feels like much lower population density than London.
 
 It is not as popping as London at 9pm on a Saturday night as a result though.
+
+### Latvia
+
+The sour cabbage soup in a bread bowl is the local speciality.
+
+See the [Do Not Speed](#do-not-speed) section.
+
+#### Riga
+
+Riga, the capital, is nice for a visit for perhaps 2 days.
+
+You will run out of things to do.
+
+[Rozengrāls](https://rozengrals.lv/en/#nav) medieval restaurant is recommended.
+They do a suckling piglet spit roast only on Friday and Saturdays.
+
+Check out the view from St Peter's Church, they will charge €9 for entry to the tower.
+Capitalism applies even to the church it seems.
+
+### Lithuania
+
+Lithuania is noticeably poorer than Poland.
+
+There is a common Georgian restaurant chain which is well worth a visit for their traditional soup.
+
+#### Vilinus
+
+Vilnius, the capital, is worth a visit but you don't really need more than a couple days as it's not that big.
 
 ### Poland
 
@@ -216,6 +282,9 @@ He compared Uber like taxis apps when we went out.
 
 Gdansk has ferry connections to Sweden.
 There was zero border control coming off the ferry from Sweden to Gdansk, which surprised me.
+
+[Slaska 19](https://www.tripadvisor.com/Restaurant_Review-g274725-d13810673-Reviews-Slaska_19-Gdansk_Pomerania_Province_Northern_Poland.html)
+is a good restaurant away from the centre with an affordable weekday lunch menu and good wifi.
 
 #### Warsaw
 
