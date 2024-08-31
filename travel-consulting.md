@@ -202,12 +202,23 @@ Story here:
 
 I used the <https://www.airalo.com/> e-sim data only for $14 for 5GB valid for 30 days.
 
-Serbian police didn't want to let me in without a V5C vehicle registration certificate,
-despite showing passport, UK driver's license, international driver's license, and ar insurance certificate.
+#### Driving
+
+Make sure you have every document possible including your vehicle registration otherwise the Serbian police
+will either refuse to let you in or blackmail you out money. Don't ask me how I know this.
+
+Checklist:
+
+- Passport
+- UK driver's license
+- International driver's permit (get this from the Post Office it's only around £5 but requires a passport photo)
+- insurance certificate
+- vehicle registration V5C - they will only accept physical original paper copy and do not care about proofs on your
+  phone
 
 I also saw several people pulled over by Serbian police.
 
-Be warned.
+Be wary of Serbian police. *"You are not in the EU now"* as they said to me.
 
 ### South Africa
 
