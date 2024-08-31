@@ -11,7 +11,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Driving Checklist](#driving-checklist)
   - [Additional EU Driving Checklist](#additional-eu-driving-checklist)
   - [Do Not Speed](#do-not-speed)
-- [Phones, E-Sims & Mobile Internet Access](#phones-e-sims--mobile-internet-access)
+- [Mobile Internet Access](#mobile-internet-access)
   - [EU Roaming](#eu-roaming)
 - [Countries](#countries)
   - [Austria](#austria)
@@ -157,7 +157,7 @@ between the countries.
 
 Let cars overtake you than fall for this unmarked police car entrapment.
 
-## Phones, E-Sims & Mobile Internet Access
+## Mobile Internet Access
 
 Digital e-sims where you can buy data plans for a certain number of days.
 
