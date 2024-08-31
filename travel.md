@@ -39,6 +39,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Olso](#olso)
   - [Poland](#poland)
     - [Bydgoszcz](#bydgoszcz)
+    - [Częstochowa](#częstochowa)
     - [Gdansk](#gdansk)
     - [Katowice](#katowice)
     - [Krakow](#krakow)
@@ -364,6 +365,10 @@ Historic town with lovely centre and plenty of good restaurants.
 An excellent stopover choice when driving across Poland.
 
 [Apteka Restauracja & Koktajlbar](https://restauracjaapteka.pl/menu/) is a recommended stop here for dinner and drinks.
+
+#### Częstochowa
+
+Not much there, dead if you're trying to use it for a late night stopover.
 
 #### Gdansk
 
