@@ -226,6 +226,10 @@ and should be present but can be represented by a since simple icon,
 with their implementation showing how they're running on Kubernetes
 or achieving high availability being left to separate diagrams for each one.
 
+## Diagram of Diagrams-as-Code Tools
+
+![Diagrams-as-Code tools](images/diagrams_tools.gif)
+
 ## UML Class Diagrams
 
 ![UML Class Diagrams Cheatsheet](images/uml_diagrams.gif)
