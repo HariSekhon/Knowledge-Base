@@ -73,7 +73,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Manilla](#manilla)
   - [Serbia](#serbia)
     - [Driving](#driving)
-- [Belgrade](#belgrade)
+    - [Belgrade](#belgrade)
   - [Slovakia](#slovakia)
     - [Kosice](#kosice)
   - [South Africa](#south-africa)
@@ -634,7 +634,7 @@ Overall, a horrible experience driving to Serbia and I would not do it again.
 You immediately feel like you've gone from Europe to some dangerous 3rd world country where you are more worried about
 the police themselves.
 
-## Belgrade
+#### Belgrade
 
 TODO
 
