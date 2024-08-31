@@ -285,6 +285,16 @@ A surprising number of people in France do not speak English at all.
 If you've been travelling to other countries where they often accommodate English speakers this might come as a
 surprise for a country close to England.
 
+#### Dunkirk
+
+Good for a stopover on your way to Beligum from the UK ferrying to Calais.
+
+##### Paris
+
+*"A less good version of London"* as my colleague described it.
+
+Heavily immigrated from Africa, with lots of graffiti and not very nice metro.
+
 ### Germany
 
 #### Driving
@@ -360,6 +370,7 @@ major towns and cities.
 - Poland is not a cheap country any more
 - Large country tht takens 6-8 hours to drive across
 - Parking is often cheap or free after 8pm, which is great for going out to get dinner in the centres.
+- Good and cheap Metro
 
 #### Bydgoszcz
 
