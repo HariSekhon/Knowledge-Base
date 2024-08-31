@@ -333,11 +333,38 @@ One of my colleagues moved back to Warsaw as a contractor.
 
 ### Hungary
 
-Do not drive through northern Hungary, there are serious ghettos that feel very unsafe:
+#### Avoid northern counties
+
+Do not drive through the north Hungarian counties, there are serious ghettos that feel very unsafe:
 
 Story here:
 
 <https://medium.com/@harisekhon/the-revelation-of-why-hungary-is-so-anti-immigration-059259e51cf2>
+
+## Budapest
+
+An excellent holiday destination for a long weekend with the girlfriend.
+
+## Szolnok
+
+A modest town with a small centre to the east of the country.
+
+A useful stopover point but there is not much to do there, don't spend more than a couple days there.
+
+You will struggle to get fed once it hits 9pm as the kichens close much earlier than their, so make sure you dine earlier.
+
+[Bajnok Étterem](http://uj.bajnoketterem.hu/) and [New York café & bistro](https://www.newyorkbistro.hu/) are the
+relatively better places to eat here.
+
+[Guri Sörbisztró](https://www.facebook.com/profile.php?id=100040639554637) is best late night drinking spot open until
+midnight when everything else is dead. Try the pink tonic if you're non alcoholic.
+
+[Korzó Kávéház](https://maps.app.goo.gl/RarMxm48ziz5TxMX9) is another drinks only place open until midnight.
+
+[TiszapArt Café](https://tiszamozi.hu/) is open until 11pm, with good lemonades.
+
+Despite it's 4.5 rating on Google, I was not impressed with the food,
+either starter or main, at [Evezős Csárda](http://www.evezoscsarda.hu/Etlap.cshtml) and would give it a miss.
 
 ### Serbia
 
