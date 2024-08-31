@@ -19,6 +19,8 @@ The cutting edge is Diagrams-as-Code.
 - [GraphViz](#graphviz)
 - [Diagram Design](#diagram-design)
   - [Complexity](#complexity)
+- [Diagram of Diagrams-as-Code Tools](#diagram-of-diagrams-as-code-tools)
+- [UML Class Diagrams](#uml-class-diagrams)
 
 <!-- INDEX_END -->
 
