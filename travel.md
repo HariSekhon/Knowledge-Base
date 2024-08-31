@@ -47,7 +47,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Frankfurt](#frankfurt)
     - [Hanover](#hanover)
     - [Königswinter](#königswinter)
-      - [Potsdam](#potsdam)
+    - [Potsdam](#potsdam)
   - [Latvia](#latvia)
     - [Riga](#riga)
   - [Lithuania](#lithuania)
@@ -409,7 +409,7 @@ Lovely small germanic town. This is what I imagined German paradise to look like
 
 [Gasthaus Lichtenberg](https://gasthaus-lichtenberg.de/) is recommended here.
 
-##### Potsdam
+#### Potsdam
 
 City just outside the west of Berlin.
 
