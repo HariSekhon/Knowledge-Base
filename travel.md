@@ -173,6 +173,22 @@ There may be something to the EU integration project after all.
 
 Some more specific tips for different countries.
 
+### Austria
+
+#### Vienna
+
+A good destination for a long weekend. This capital feels sparse to a Londoner.
+
+The taxi driver said young people leave because there isn't enough to do,
+but it's good for a weekend city break with the girlfriend, especially if you like central european architecture,
+and just for this next recommendation.
+
+[Casino Wien](https://www.casinos.at/casinos/wien/casino-restaurant) is probably the best restaurant in Vienna. It is
+above the casino, which was surprisingly not fancy at all, smokey and low grade.
+But the restaurant above was a different story.
+
+Try the Chateaubriand for two with your girlfriend - only top restaurants do it.
+
 ### Belgium
 
 Nice small country, easy to drive from the UK, perhaps 2-3 hours after a ferry from Dover to Calais.
@@ -188,6 +204,21 @@ West Belgium is nicer, particularly Bruges, Ghent etc.
 #### Liege
 
 Liege is worse than Brussels, with high incidence of homelessness and street begging.
+
+### Czech Republic / Czechia
+
+Sorry but I can't call it Czechia.
+
+It's too close in naming to the war torn Chechnia.
+They didn't think about about the negative branding on this rename.
+
+#### Prague
+
+A brilliant historic capital, famed for cheap beer and English stag parties.
+There are literally signs on the front of venues that say *"No English stag parties"*.
+Such is the bad reputation of the English lads on holiday!
+
+Prague has many good restaurants and excellent architecture in the old town.
 
 ### Estonia
 
@@ -345,6 +376,9 @@ Story here:
 
 An excellent holiday destination for a long weekend with the girlfriend.
 
+[Caviar & Bull](https://caviarandbull.hu/menu/) is an amazing dining experience to take the girlfriend if you're in the
+mood to drop £300 on a fancy night out. The food is easily among the best I've ever haad around the world.
+
 ## Szolnok
 
 A modest town with a small centre to the east of the country.
@@ -353,8 +387,9 @@ A useful stopover point but there is not much to do there, don't spend more than
 
 You will struggle to get fed once it hits 9pm as the kichens close much earlier than their, so make sure you dine earlier.
 
-[Bajnok Étterem](http://uj.bajnoketterem.hu/) and [New York café & bistro](https://www.newyorkbistro.hu/) are the
-relatively better places to eat here.
+[Bajnok Étterem](http://uj.bajnoketterem.hu/) is the best place I ate at here, followed by
+[New York café & bistro](https://www.newyorkbistro.hu/).
+[OneBistro](https://maps.app.goo.gl/fswF1W8nTAVzz9N97) is a late night cheap eat open until 10pm.
 
 [Guri Sörbisztró](https://www.facebook.com/profile.php?id=100040639554637) is best late night drinking spot open until
 midnight when everything else is dead. Try the pink tonic if you're non alcoholic.
@@ -437,6 +472,16 @@ Story here:
 
 I used Virgin Mobile on a prepaid contract for around £200 for the year which was the cheapest deal I could find.
 
+Careem is Dubai's version of Uber.
+
+You are required to get a medical blood screening, chest x-ray, biometrics like fingerprinting to get a visa here.
+
+Once you have residence you are no longer allowed to use your UK driver's license
+and will get a shock as your car rental company refuses to release the car to you.
+
+You will then need to Careem around the city to get your Emirates ID and then your Drivers License which will require
+local bank or cash payment.
+
 #### Banking
 
 - [Mashreq](https://www.mashreq.com/) is the easiest to use, app-only like Starling or Monzo
@@ -447,3 +492,62 @@ I used Virgin Mobile on a prepaid contract for around £200 for the year which w
 - [HSBC](https://www.hsbc.ae/) was a similar hassle to NBD above wanting salary certificate addressed specifically to them
   - much more than HSBC back in the UK
   - even having an HSBC account in the UK doesn't help
+
+### USA
+
+You will get finger printed entering the country.
+
+#### California
+
+California, the once golden place is not what it used to be after doubling its population from mass immigration.
+
+Weather is great though, restaurants are decent (London's restaurants are better though).
+
+Many of these places are only places to go on company expense as the hotels will set you back quite a lot per night.
+
+Americans are now fleeing the failing Democrat state for Texas, which will then become the next domino to fall.
+
+##### Los Angeles
+
+A giant square grid of blocks. From the plane it looks like The Matrix.
+
+Hollywood boullivard is nothing fancy in the grand scheme of things.
+It's just a tourist strip of a few restaurants and shops.
+
+Rodeo Drive is the upmarket shopping road of expensive designer brands.
+
+Beverley Hills are not as fancy as one would believe from Beverley Hills Cop movies.
+More like a $1M+ middle class area.
+
+[Lucille's Smokehouse BBQ](https://lucillesbbq.com/menu) is the best BBQ I've had in the entire world.
+I've been searching for a BBQ place to match it across countries for over a decade now and nothing has come close.
+The warm apple-cinnamon bun starters are amazing as are the giant beef ribs with the best BBQ glaze I've ever had.
+My colleagues and I drove half way across LA to go to this because everybody knows it is the best.
+If you're in LA or one of their expanded locations, do not miss it.
+Looks like they now have a couple branches in Vegas and one in Phoenix, Arizona too.
+
+##### Palo Alto
+
+A tech hub town with money, as evidenced by things like the McLaren showroom.
+
+Quite nice, if you can afford it.
+
+##### San Diego
+
+A somewhat more chill city than Los Angeles and San Francisco.
+
+Restaurants were not that cheap though.
+
+##### San Francisco
+
+Too expensive for even most of my engineer colleagues at Cloudera to live in.
+
+There were homeless people on every block in 2013 when I was there. It's apparently much worse now.
+
+Beware if you walk just one block west of the central shopping district you'll end up on the road of Tenderloin
+which is full of drug addicts in broad daylight.
+Walking through a group of 4 drug addicts on the pavement is not a pleasant experience
+even if you think you could take them.
+Not recommended for women.
+
+[Boudin](https://boudinbakery.com/) is a local chain famous for its sour dough bread and soup in bread bowls.
