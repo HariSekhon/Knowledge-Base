@@ -44,8 +44,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Warsaw](#warsaw)
   - [Hungary](#hungary)
     - [Avoid northern counties](#avoid-northern-counties)
-- [Budapest](#budapest)
-- [Szolnok](#szolnok)
+    - [Budapest](#budapest)
+    - [Szolnok](#szolnok)
   - [Philipines](#philipines)
     - [Manilla](#manilla)
   - [Serbia](#serbia)
@@ -408,14 +408,14 @@ Story here:
 
 <https://medium.com/@harisekhon/the-revelation-of-why-hungary-is-so-anti-immigration-059259e51cf2>
 
-## Budapest
+#### Budapest
 
 An excellent holiday destination for a long weekend with the girlfriend.
 
 [Caviar & Bull](https://caviarandbull.hu/menu/) is an amazing dining experience to take the girlfriend if you're in the
 mood to drop £300 on a fancy night out. The food is easily among the best I've ever haad around the world.
 
-## Szolnok
+#### Szolnok
 
 A modest town with a small centre to the east of the country.
 
