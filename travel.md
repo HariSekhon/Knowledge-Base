@@ -570,9 +570,13 @@ see-through floor as you enter. Impressive. Recommended if you want something a 
 
 ##### Palo Alto
 
-A tech hub town with money, as evidenced by things like the McLaren showroom.
+A tech hub town with serious tech millionaire money, as evidenced by things like the McLaren showroom.
 
-Quite nice, if you can afford it.
+It was the first place I ever recall seeing a Tesla in 2013. When the traffic lights turned green,
+for a moment I thought our car wasn't even moving relative to seeing it take off and leaving us behind in our
+Infinity Q37.
+
+Quite nice area, if you can afford it.
 
 ##### San Diego
 
