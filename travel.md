@@ -82,7 +82,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
       - [Rosebank](#rosebank)
   - [Sweden](#sweden)
     - [Stockholm](#stockholm)
-  - [UAE - Dubai](#uae---dubai)
+  - [UAE](#uae)
+    - [Dubai](#dubai)
     - [Banking](#banking)
   - [USA](#usa)
     - [California](#california)
@@ -704,11 +705,18 @@ no staff most of the time or seeing other guests.
 
 [Restaurang Kryp In](https://restaurangkrypin.se/) is good in the centre.
 
-### UAE - Dubai
+### UAE
 
-Dubai is more of a city-state that a city as Europeans would understand it.
+The United Arab Emirates is one of the most civilized and safe societies I have ever seen.
 
-It would be extremely difficult to walk due to the distances and heat.
+They have zero tolerance for criminals or welfares spongers.
+They would literally deport half of the UK, which is why it's a nicer place.
+
+#### Dubai
+
+Dubai is more of a city-state than a city as Europeans would understand it.
+
+It would be extremely difficult to walk due to the large distances and high heat.
 
 *"I don't walk anywhere in Dubai"* one of my Brit connections told me. I saw why after I arrived. Even a 15 minute walk
 to lunch will leave you a sweaty mess by the time you get there.
