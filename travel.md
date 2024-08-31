@@ -405,6 +405,23 @@ midnight when everything else is dead. Try the pink tonic if you're non alcoholi
 Despite it's 4.5 rating on Google, I was not impressed with the food,
 either starter or main, at [Evezős Csárda](http://www.evezoscsarda.hu/Etlap.cshtml) and would give it a miss.
 
+### Philipines
+
+A very hot, mosquito-ridden country with overpopulated streets and wealth inequality,
+which means a foreigner can live well with Western money.
+
+Famed for its more traditional women,
+many men known as *"Passport Bros"* go to find something more resembling wives than even married men in the West have.
+
+There are a lot of missing signs, apparently because locals take them down and melt them for money.
+
+#### Manilla
+
+In the capital, the malls were relatively sparse since a lot of the poorer locals were kept out by security.
+
+Kidnappings and random of the children of the rich are also a problem, with gated communities having their own security
+forces.
+
 ### Serbia
 
 I used the <https://www.airalo.com/> e-sim data only for $14 for 5GB valid for 30 days.
