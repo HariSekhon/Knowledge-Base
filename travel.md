@@ -205,6 +205,19 @@ West Belgium is nicer, particularly Bruges, Ghent etc.
 
 Liege is worse than Brussels, with high incidence of homelessness and street begging.
 
+### Canada
+
+It's been most of a lifetime since I've been.
+
+Similar to the US, but with cheaper healthcare.
+
+#### Abbotsford
+
+Just outside Vancouver, the basements of their houses are bigger than UK houses.
+They often have gyms, cinema rooms, and pool tables there, as well as spare bedrooms.
+
+Coming back to the UK from there was quite a downgrade.
+
 ### Czech Republic / Czechia
 
 Sorry but I can't call it Czechia.
