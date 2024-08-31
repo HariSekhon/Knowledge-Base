@@ -19,8 +19,10 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Austria](#austria)
     - [Vienna](#vienna)
   - [Belgium](#belgium)
+    - [Antwerp](#antwerp)
     - [Brussels](#brussels)
-    - [Bruges/Brugges / Ghent/Gent](#brugesbrugges--ghentgent)
+    - [Bruges / Brugge](#bruges--brugge)
+    - [Ghent / Gent](#ghent--gent)
     - [Liege](#liege)
   - [Canada](#canada)
     - [Abbotsford](#abbotsford)
@@ -225,13 +227,27 @@ Try the Chateaubriand for two with your girlfriend - only top restaurants do it.
 
 Nice small country, easy to drive from the UK, perhaps 2-3 hours after a ferry from Dover to Calais.
 
+#### Antwerp
+
+Port city, not much there from what I recall, been to a good restaurant there but can't remember its name.
+
 #### Brussels
 
 A bit of a western capital dump with high immigration, graffiti etc.
 
-#### Bruges/Brugges / Ghent/Gent
+#### Bruges / Brugge
 
-West Belgium is nicer, particularly Bruges, Ghent etc.
+West Belgium is nicer, with Bruges having a historic town catering to tourists with restaurants, ice creams and
+coffee shops.
+
+[Marco Polo Noodles](https://www.marco-polo-noodles.com/) is recommended on the main strip.
+
+#### Ghent / Gent
+
+City with a mix of old and new, not quite as nice as Bruges, but better than Brussels.
+
+[Seli's Noodle Bar](https://www.selinoodlebar.be/) and [Soup Lounge](https://www.souplounge.be/) are both recommended
+here, and both are very affordable.
 
 #### Liege
 
