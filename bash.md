@@ -16,8 +16,8 @@ is one of the few use cases for that).
 - [Advanced Library of Scripts](#advanced-library-of-scripts)
 - [Perl, Awk, Sed](#perl-awk-sed)
 - [Other Cool Resources](#other-cool-resources)
+- [JSON](#json)
 - [Commands](#commands)
-- [More Commands](#more-commands)
 - [Tips & Tricks](#tips--tricks)
   - [Fifos](#fifos)
   - [Number Lines](#number-lines)
@@ -80,6 +80,10 @@ You also need to learn [Regex](regex.md) to use these tools effectively.
 - [Reddit - r/bash](https://www.reddit.com/r/bash/)
 - [ShellCheck](https://www.shellcheck.net/) - online version of the popular `shellcheck` command line tool to find bugs and improvements to make in shell code
 
+## JSON
+
+See the [JSON](json.md) doc for commands to help with processing JSON which is often output by modern Rest APIs.
+
 ## Commands
 
 See Also:
@@ -137,10 +141,6 @@ Environment variables to keep in mind:
 | `TMOUT`   | Times out the shell or script after N seconds from the time this variable it set |
 | `RANDOM`  | A random number                                                                  |
 | `CDPATH`  | List of directories that a `cd` command will take you to with only the basename  |
-
-## More Commands
-
-- [JSON](json.md) commands to help with processing the output of Rest APIs
 
 ## Tips & Tricks
 
