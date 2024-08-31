@@ -30,6 +30,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Estonia](#estonia)
     - [Tallinn](#tallinn)
   - [France](#france)
+    - [Dunkirk](#dunkirk)
+    - [Paris](#paris)
   - [Germany](#germany)
     - [Driving](#driving)
     - [Berlin](#berlin)
@@ -289,11 +291,13 @@ surprise for a country close to England.
 
 Good for a stopover on your way to Beligum from the UK ferrying to Calais.
 
-##### Paris
+#### Paris
 
 *"A less good version of London"* as my colleague described it.
 
-Heavily immigrated from Africa, with lots of graffiti and not very nice metro.
+The capital is heavily immigrated from Africa, with lots of graffiti and not very nice metro.
+
+I have literally been told off for not speaking French as a visitor. Much less welcoming than other parts of the world.
 
 ### Germany
 
