@@ -55,6 +55,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
       - [Sandton](#sandton)
       - [Rosebank](#rosebank)
   - [Sweden](#sweden)
+    - [Stockholm](#stockholm)
   - [UAE - Dubai](#uae---dubai)
     - [Banking](#banking)
   - [USA](#usa)
