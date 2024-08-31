@@ -77,9 +77,11 @@ Police may refuse you entry or blackmail you out of money if you don't have all 
 - Passport
 - UK driver's license
 - International driver's permit (get this from the Post Office it's only around £5 but requires a passport photo)
-- insurance certificate
-- vehicle registration V5C - they will only accept physical original paper copy and do not care about proofs on your
-  phone
+- Insurance certificate
+- Vehicle Registration V5C paper proof of ownership
+  - [Serbian](#serbia) police refused to accept digital proof of ownership via insurance certificate
+  - they insisted on physical original paper copy
+  - they said it was the equivalent to *"Passport for the car"*
 
 ### Additional EU Driving Checklist
 
