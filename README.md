@@ -145,6 +145,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [MkDocs](mkdocs.md)
 - [Microservices](microservices.md) TODO
 - [Medium.com](medium.md) (blog)
+- [Systems Design](systems-design.md)
 
 ### Git
 
@@ -182,6 +183,9 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 - [Kubernetes](kubernetes.md)
   - [Kubernetes Upgrades](kubernetes-upgrades.md)
+- [Istio](istio.md) TODO
+  - [Kiali](kiali.md) TODO
+- [Kubeflow](kubeflow.md) TODO
 
 #### Cloud Hosted Kubernetes
 
