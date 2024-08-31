@@ -15,6 +15,10 @@
     - [Krakow](#krakow)
   - [Hungary](#hungary)
   - [Serbia](#serbia)
+  - [South Africa](#south-africa)
+    - [Johannesburg](#johannesburg)
+      - [Sandton](#sandton)
+      - [Rosebank](#rosebank)
   - [Sweden](#sweden)
   - [UAE - Dubai](#uae---dubai)
     - [Banking](#banking)
@@ -172,13 +176,13 @@ You may only get one close call like that in life.
 
 Stick to the foreigner areas of Sandton and Rosebank. Seriously.
 
-#### Sandton
+##### Sandton
 
 Has a good mall, restaurants and hotels. The Da Vinci hotel is nice for example.
 
 Nelson Mandela square should be relatively safe thanks to being surrounded by restaurants and mall with security.
 
-#### Rosebank
+##### Rosebank
 
 Also has a mall and good restaurants.
 
