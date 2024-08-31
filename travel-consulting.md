@@ -13,6 +13,22 @@
 
 <!-- INDEX_END -->
 
+## Flights
+
+Book ahead of time for better price comparisons.
+
+Same goes for ferries if driving.
+
+## Hotels vs Airbnb
+
+Hotels and Airbnb vary as to which one is cheaper by location.
+
+Check both.
+
+The earlier you book the better deals you'll get.
+
+It's annoying to be booking at the last minute because you'll get the least good places for the most expensive prices.
+
 ## Phones, E-Sims & Mobile Internet Access
 
 Digital e-sims where you can buy data plans for a certain number of days.
@@ -67,6 +83,8 @@ I also saw several people pulled over by Serbian police.
 Be warned.
 
 ### Sweden
+
+Ferry from Tallinn in Estonia to Sweden and then another ferry down to Gdanks, Poland, is a way out if your license gets suspended for speeding in Latvia.
 
 Police pulled me over coming off the ferry from Tallinn, Estonia,
 and did a very invasive search of my car and all luggage, they opened everything, down to my toiletries and car bonnet.
