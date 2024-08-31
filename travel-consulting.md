@@ -70,7 +70,8 @@ Digital e-sims where you can buy data plans for a certain number of days.
 Google [travel e-sims](https://www.google.com/search?q=travel+e-sims)
 and add the country you are travelling to for more options.
 
-- <https://www.airalo.com/>
+- <https://www.airalo.com/> - follow the installation instructions and make sure to enable `Data Roaming`
+  under the e-sim settings otherwise the internet won't connect
 - <https://esim.holafly.com/>
 
 ### EU Roaming
