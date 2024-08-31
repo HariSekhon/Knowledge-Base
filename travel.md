@@ -507,6 +507,10 @@ Many of these places are only places to go on company expense as the hotels will
 
 Americans are now fleeing the failing Democrat state for Texas, which will then become the next domino to fall.
 
+##### Irvine
+
+A nicer more suburban manufactured city than LA, with decent shops and restaurants.
+
 ##### Los Angeles
 
 A giant square grid of blocks. From the plane it looks like The Matrix.
@@ -525,6 +529,9 @@ The warm apple-cinnamon bun starters are amazing as are the giant beef ribs with
 My colleagues and I drove half way across LA to go to this because everybody knows it is the best.
 If you're in LA or one of their expanded locations, do not miss it.
 Looks like they now have a couple branches in Vegas and one in Phoenix, Arizona too.
+
+[Crustacean](https://crustaceanbh.com/menu/) in Beverley Hills is a good upmarket seafood restaurant with fish in the
+see-through floor as you enter. Impressive. Recommended if you want something a bit more upmarket.
 
 ##### Palo Alto
 
