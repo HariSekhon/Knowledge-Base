@@ -3,7 +3,7 @@
 <!-- INDEX_START -->
 
 - [Phones, E-Sims & Mobile Internet Access](#phones-e-sims--mobile-internet-access)
-    - [EU Roaming](#eu-roaming)
+  - [EU Roaming](#eu-roaming)
 - [Countries](#countries)
   - [Hungary](#hungary)
   - [Serbia](#serbia)
@@ -23,7 +23,7 @@ and add the country you are travelling to for more options.
 - <https://www.airalo.com/>
 - <https://esim.holafly.com/>
 
-#### EU Roaming
+### EU Roaming
 
 My UK phone number worked across all European countries I travelled through, including:
 
