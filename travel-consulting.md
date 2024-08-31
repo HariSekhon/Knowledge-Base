@@ -52,10 +52,10 @@ It's annoying to be booking at the last minute because you'll get the least good
 
 ### Parking
 
-If driving, make sure to double check parking as some hotels on Expedia will say
-Parking Available include of Parking Included.
+If driving, make sure to double check parking at hotels or Airbnbs.
 
-That means there will be parking charges, which can be quite high.
+If Expedia shows `Parking Available` include of `Parking Included`, that means there will be parking charges,
+which can be quite high.
 
 You have to scroll all the way to the bottom of the hotel listing to found out what the charges are in the small print.
 
@@ -63,6 +63,34 @@ I often prefer booking places a bit away from the centers to get easier parking 
 both hotels and airbnbs lack good parking.
 
 Also, if you're only going into the centres in the evenings, often you can get cheap or even free parking.
+
+## Driving
+
+
+### Driving Checklist
+
+Police may refuse you entry or blackmail you out of money if you don't have all of the following documents:
+
+- Passport
+- UK driver's license
+- International driver's permit (get this from the Post Office it's only around £5 but requires a passport photo)
+- insurance certificate
+- vehicle registration V5C - they will only accept physical original paper copy and do not care about proofs on your
+  phone
+
+### Additional EU Driving Checklist
+
+Driving in the EU additionally requires:
+
+- breakdown kit (AA does one), including:
+  - high viz jacket (which must be available in the passenger compartment
+  - breakdown triangle
+  - headlamp converters
+
+Headlamp converters are basically headlamp stickers that change the glare direction of your headlamps to shine the other
+way because you drive on the right in Europe instead of the left like in the UK.
+
+Apparently the French police are likely to pull you over and fine you if you don't have these.
 
 ## Phones, E-Sims & Mobile Internet Access
 
@@ -205,21 +233,23 @@ I used the <https://www.airalo.com/> e-sim data only for $14 for 5GB valid for 3
 
 #### Driving
 
-Make sure you have every document possible including your vehicle registration otherwise the Serbian police
+Expect a 3 hour queues at the Serbian border.
+
+I asked a guy in the queue of cars in front of me and he said 3-4 hours was common.
+
+**IMPORTANT** - Make sure you have every document possible including your vehicle registration otherwise the Serbian police
 will either refuse to let you in or blackmail you out money. Don't ask me how I know this.
 
-Checklist:
-
-- Passport
-- UK driver's license
-- International driver's permit (get this from the Post Office it's only around £5 but requires a passport photo)
-- insurance certificate
-- vehicle registration V5C - they will only accept physical original paper copy and do not care about proofs on your
-  phone
+See the [Driving Checklist](#driving-checklist) above.
 
 I also saw several people pulled over by Serbian police.
 
 Be wary of Serbian police. *"You are not in the EU now"* as they said to me.
+
+Overall, a horrible experience driving to Serbia and I would not do it again.
+
+You immediately feel like you've gone from Europe to some dangerous 3rd world country where you are more worried about
+the police themselves.
 
 ### South Africa
 
