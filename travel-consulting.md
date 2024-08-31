@@ -1,9 +1,65 @@
 # Travel Consulting
 
-For Travel Consulting.
+<!-- INDEX_START -->
 
-## HolaFly
+<!-- INDEX_END -->
 
-Digital eSim where you can buy unlimited internet for up to 20 days pre-paid:
+## Phones, E-Sims & Mobile Internet Access
 
-<https://esim.holafly.com/>
+Digital e-sims where you can buy data plans for a certain number of days.
+
+Google [travel e-sims](https://www.google.com/search?q=travel+e-sims)
+and add the country you are travelling to for more options.
+
+- <https://www.airalo.com/>
+- <https://esim.holafly.com/>
+
+#### EU Roaming
+
+My UK phone number worked across all European countries I travelled through, including:
+
+- France
+- Germany
+- Poland
+- Lithuania
+- Latvia
+- Estonia
+- Sweden
+- Slovakia
+- Hungary
+
+It stopped working when I got to Serbia which is not in the EU.
+
+Going from EU to non-EU was a bit of a jarring experience.
+
+There may be something to the EU integration project after all.
+
+## Countries
+
+### Hungary
+
+Do not drive through northern Hungary, there are serious ghettos that feel very unsafe:
+
+Story here:
+
+<https://medium.com/@harisekhon/the-revelation-of-why-hungary-is-so-anti-immigration-059259e51cf2>
+
+### Serbia
+
+I used the <https://www.airalo.com/> e-sim data only for $14 for 5GB valid for 30 days.
+
+Serbian police didn't want to let me in without a V5C vehicle registration certificate,
+despite showing passport, UK driver's license, international driver's license, and ar insurance certificate.
+
+I also saw several people pulled over by Serbian police.
+
+Be warned.
+
+### Sweden
+
+Police pulled me over coming off the ferry from Tallinn, Estonia,
+and did a very invasive search of my car and all luggage, they opened everything, down to my toiletries and car bonnet.
+
+Story here:
+
+<https://medium.com/@harisekhon/the-police-attention-you-get-driving-a-drug-dealer-looking-car-through-europe-d38c5919835f>
