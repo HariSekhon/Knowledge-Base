@@ -31,6 +31,20 @@ The earlier you book the better deals you'll get.
 
 It's annoying to be booking at the last minute because you'll get the least good places for the most expensive prices.
 
+### Parking
+
+If driving, make sure to double check parking as some hotels on Expedia will say
+Parking Available include of Parking Included.
+
+That means there will be parking charges, which can be quite high.
+
+You have to scroll all the way to the bottom of the hotel listing to found out what the charges are in the small print.
+
+I often prefer booking places a bit away from the centers to get easier parking as many central accomodations,
+both hotels and airbnbs lack good parking.
+
+Also, if you're only going into the centres in the evenings, often you can get cheap or even free parking.
+
 ## Phones, E-Sims & Mobile Internet Access
 
 Digital e-sims where you can buy data plans for a certain number of days.
@@ -64,6 +78,54 @@ There may be something to the EU integration project after all.
 ## Countries
 
 Some more specific tips for different countries.
+
+### Poland
+
+One of my favourite countries.
+
+- Low immigration
+- Feels safer than the UK, and this seems to be supported by crime stats
+- Food is good and reasonably priced
+- Airbnbs are expensive though
+- Poland is not a cheap country any more
+- Parking is often cheap or free after 8pm, which is great for going out to get dinner in the centres.
+
+#### Sopot
+
+The most expensive area in Poland, near Gdansk.
+
+Good beaches, restaurants, and walkways.
+
+#### Gdansk
+
+A port town in the north of Poland.
+
+Good restaurants and old town.
+
+Not cheap. My Airbnb cost me more than in Dubai.
+
+One of my colleagues is a contractor in Gdansk so gave me the local tour.
+
+Taxis may rip you off if they hear you speak English.
+He said you can get away without paying them if they don't put the meter on.
+I don't know if this is true as I was driving so didn't try it.
+
+He compared Uber like taxis apps when we went out.
+
+Gdansk has ferry connections to Sweden.
+There was zero border control coming off the ferry from Sweden to Gdansk, which surprised me.
+
+#### Warsaw
+
+Decent low pressure capital.
+
+One of my colleagues moved back to Warsaw as a contractor.
+
+#### Krakow
+
+Tourist hotspot.
+
+*"F\*ck Warsaw, go to Krakow!"*, one of my Polish colleagues told me. He was right.
 
 ### Hungary
 
