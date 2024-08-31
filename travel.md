@@ -262,23 +262,28 @@ A bit bready for my liking but something you may want to try once.
 
 One of my favourite countries.
 
+I was very surprised how nice Poland was upon arriving, not just in one or two places either, but across the country's
+major towns and cities.
+
 - Low immigration
-- Feels safer than the UK, and this seems to be supported by crime stats
+- Feels safer than the UK (supported by crime stats)
 - Food is good and reasonably priced
 - Airbnbs are expensive though
 - Poland is not a cheap country any more
 - Large country tht takens 6-8 hours to drive across
 - Parking is often cheap or free after 8pm, which is great for going out to get dinner in the centres.
 
-#### Sopot
+#### Bydgoszcz
 
-The most expensive area in Poland, near Gdansk.
+Historic town with lovely centre and plenty of good restaurants.
 
-Good beaches, restaurants, and walkways.
+An excellent stopover choice when driving across Poland.
+
+[Apteka Restauracja & Koktajlbar](https://restauracjaapteka.pl/menu/) is a recommended stop here for dinner and drinks.
 
 #### Gdansk
 
-A port town in the north of Poland.
+A large port city in the north of Poland.
 
 Good restaurants and old town.
 
@@ -298,17 +303,31 @@ There was zero border control coming off the ferry from Sweden to Gdansk, which 
 [Slaska 19](https://www.tripadvisor.com/Restaurant_Review-g274725-d13810673-Reviews-Slaska_19-Gdansk_Pomerania_Province_Northern_Poland.html)
 is a good restaurant away from the centre with an affordable weekday lunch menu and good wifi.
 
-#### Warsaw
-
-Decent low pressure capital.
-
-One of my colleagues moved back to Warsaw as a contractor.
-
 #### Krakow
 
 Tourist hotspot.
 
 *"F\*ck Warsaw, go to Krakow!"*, one of my Polish colleagues told me. He was right.
+
+#### Poznan
+
+Historic town with lovely centre and plenty of good restaurants.
+
+My first stopover in Poland when driving from Germany. I was pleasantly surprised how nice it was.
+
+An excellent stopover choice when driving across Poland.
+
+#### Sopot
+
+The most expensive area in Poland, near Gdansk.
+
+Good beaches, restaurants, and walkways.
+
+#### Warsaw
+
+Decent low pressure capital.
+
+One of my colleagues moved back to Warsaw as a contractor.
 
 ### Hungary
 
