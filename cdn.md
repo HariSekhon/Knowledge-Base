@@ -7,6 +7,7 @@ Modern CDNs add security features like DDoS protection and edge-computing capabi
 <!-- INDEX_START -->
 
 - [Key Points](#key-points)
+- [Beware Public Shared CDNs](#beware-public-shared-cdns)
 - [Popular CDNs](#popular-cdns)
   - [Akamai](#akamai)
   - [Cloudflare](#cloudflare)
@@ -28,6 +29,12 @@ Modern CDNs commonly offer the same sorts of services:
 - web performance optimization
 - security solutions like DDoS protection and Web Application Firewall (WAF)
 - edge computing capabilities
+
+## Beware Public Shared CDNs
+
+This is a different category to standard CDNs, see this article:
+
+<https://httptoolkit.com/blog/public-cdn-risks/>
 
 ## Popular CDNs
 
