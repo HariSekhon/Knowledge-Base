@@ -316,6 +316,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 ### Internet Services
 
 - [Web](web.md)
+- [CDNs](cdn.md)
 - [HTTP Proxying](http-proxying.md)
 - [Cloudflare](cloudflare.md)
 
