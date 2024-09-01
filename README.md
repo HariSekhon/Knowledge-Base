@@ -317,8 +317,8 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 - [Web](web.md)
 - [CDNs](cdn.md)
+  - [Cloudflare](cloudflare.md)
 - [HTTP Proxying](http-proxying.md)
-- [Cloudflare](cloudflare.md)
 
 ### Databases / RDBMS
 
