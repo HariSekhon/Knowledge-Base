@@ -186,7 +186,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Kubernetes](kubernetes.md)
   - [Kubernetes Upgrades](kubernetes-upgrades.md)
 - [Istio](istio.md) TODO
-  - [Kiali](kiali.md) TODO
+  - [Kiali](kiali.md)
 - [Kubeflow](kubeflow.md) TODO
 
 #### Cloud Hosted Kubernetes
