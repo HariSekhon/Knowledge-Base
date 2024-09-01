@@ -4,6 +4,7 @@
 
 - [Client Apps Using Proxies](#client-apps-using-proxies)
 - [Environment Variables - `https_proxy` / `no_proxy`](#environment-variables---httpsproxy--noproxy)
+- [HTTP Toolkit](#http-toolkit)
 - [Compile Apache HTTPd with Proxying](#compile-apache-httpd-with-proxying)
 
 <!-- INDEX_END -->
