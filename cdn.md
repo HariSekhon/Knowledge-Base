@@ -19,6 +19,7 @@ Modern CDNs add security features like DDoS protection and edge-computing capabi
   - [CDN77](#cdn77)
   - [KeyCDN](#keycdn)
   - [Imperva (formerly Incapsula)](#imperva-formerly-incapsula)
+  - [Digital Ocean CDN](#digital-ocean-cdn)
 
 <!-- INDEX_END -->
 
@@ -118,3 +119,11 @@ It's a great choice for developers and businesses looking for a straightforward,
 Combines a CDN with advanced security features like WAF, DDoS protection, and bot management.
 
 Highly regarded for its focus on security and protecting web applications.
+
+### Digital Ocean CDN
+
+<https://docs.digitalocean.com/products/spaces/how-to/enable-cdn/>
+
+Popular developer cloud Digital Ocean has a CDN but it's only for their S3-compatible blob storage called Spaces.
+
+This is a more limited offering than the specialist CDNs above like Akamai or Cloudflare.
