@@ -208,6 +208,8 @@ Yes you can accidentally delete code even after it's been pushed and lose it for
 
 With great power comes great responsibility...
 
+![Gandalf Rebase Not the End of All Things](images/gandalf_corporate_git_rebase_policy.jpeg)
+
 ## Squash Commits
 
 Squash commit have a similar issue to rebasing in that they lose intermediate commits and keep only the last
