@@ -8,6 +8,7 @@ Modern CDNs add security features like DDoS protection and edge-computing capabi
 
 - [Key Points](#key-points)
 - [Beware Public Shared CDNs](#beware-public-shared-cdns)
+- [Best Free CDNs](#best-free-cdns)
 - [Popular CDNs](#popular-cdns)
   - [Akamai](#akamai)
   - [Cloudflare](#cloudflare)
@@ -20,11 +21,6 @@ Modern CDNs add security features like DDoS protection and edge-computing capabi
   - [KeyCDN](#keycdn)
   - [Imperva (formerly Incapsula)](#imperva-formerly-incapsula)
   - [Digital Ocean CDN](#digital-ocean-cdn)
-  - [Gcore](#gcore)
-  - [Netlify](#netlify)
-  - [JSDeliver](#jsdeliver)
-- [Best Free CDNs](#best-free-cdns)
-  - [Cloudflare](#cloudflare)
   - [Gcore](#gcore)
   - [Netlify](#netlify)
   - [JSDeliver](#jsdeliver)
@@ -44,6 +40,13 @@ Modern CDNs commonly offer the same sorts of services:
 This is a different category to standard CDNs, see this article:
 
 <https://httptoolkit.com/blog/public-cdn-risks/>
+
+## Best Free CDNs
+
+- [Cloudflare](#cloudflare)
+- [Gcore](#gcore)
+- [Netlify](#netlify)
+- [JSDeliver](#jsdeliver)
 
 ## Popular CDNs
 
@@ -135,28 +138,6 @@ Highly regarded for its focus on security and protecting web applications.
 Popular developer cloud Digital Ocean has a CDN but it's only for their S3-compatible blob storage called Spaces.
 
 This is a more limited offering than the specialist CDNs above like Akamai or Cloudflare.
-
-### Gcore
-
-<https://gcore.com/cdn>
-
-### Netlify
-
-<https://www.netlify.com/platform/core/edge/>
-
-Good for static sites. Integrates with GitHub pages for your GitHub projects.
-
-### JSDeliver
-
-<https://www.jsdelivr.com/>
-
-Free CDN for open-source projects.
-
-## Best Free CDNs
-
-### Cloudflare
-
-<https://www.cloudflare.com>
 
 ### Gcore
 
