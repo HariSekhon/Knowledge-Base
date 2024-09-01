@@ -48,7 +48,7 @@ Kubectl to port-forward to that Spark driver pod's UI port:
 kubectl port-forward --address 127.0.0.1 -n "$NAMESPACE" "$SPARK_DRIVER_POD" 4040:4040
 ```
 
-Then open http://localhost:4040.
+Then open <http://localhost:4040>.
 
 ## Troubleshooting
 
