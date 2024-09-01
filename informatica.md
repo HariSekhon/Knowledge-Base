@@ -35,6 +35,7 @@ Modern Informatica UI is cloud hosted SaaS solution called IICS - Informatica In
   - [Kubernetes version error `K8s_10152`](#kubernetes-version-error-k8s10152)
   - [Kubernetes - Capture Pod Logs & Stats](#kubernetes---capture-pod-logs--stats)
   - [Kubernetes - Capture Spark Driver JStack Thread Dump](#kubernetes---capture-spark-driver-jstack-thread-dump)
+- [Meme](#meme)
 
 <!-- INDEX_END -->
 
@@ -129,7 +130,7 @@ installer binary after the VM is provisioned.
 
 Then just add the agent token from the Informatica UI.
 
-#### Install Documentation
+Docs:
 
 [Installing the Secure Agent on Linux](https://docs.informatica.com/integration-cloud/cloud-data-integration-for-powercenter/current-version/installation-guide/installing_secure_agents/install_the_secure_agent_on_linux/downloading_and_installing_the_secure_agent_on_linux.html)
 
@@ -229,7 +230,7 @@ In this section, for each configuration created the following key settings are c
 Two different Informatica Cloud environments can share the same EKS context but just specify different namespaces
 eg. `dev` or `prod`.
 
-#### WARNING: Informatica Agent automatically updates in the background and new versions enforce Kubernetes version checks which can break Kubernetes jobs
+**WARNING: Informatica Agent automatically updates in the background and new versions enforce Kubernetes version checks which can break Kubernetes jobs**
 
 This means that your working Kubernetes jobs can suddenly break when the informatica agent decides that it is not a
 supported version any more.
@@ -768,3 +769,9 @@ rsync -av "$SECURE_AGENT":"infaagent/apps/jdk/$JDK" .
 ```shell
 kubectl cp -n "$NAMESPACE" "./$JDK/" "$SPARK_POD":/tmp/jdk
 ```
+
+## Meme
+
+From my [LinkedIn](http://linkedin.com/in/HariSekhon):
+
+![3 Rules - Informatica - 4 Rules](images/3_rules_informatica_4_rules.jpg)
