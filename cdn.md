@@ -54,6 +54,8 @@ Kubernetes External DNS integration can be found for its DNS in the
 Beware that the company has previously deplatformed the 4Chan anonymous freedom of speech message board
 leading to an outage.
 
+See also the [Cloudflare](cloudflare.md) doc.
+
 ### Fastly
 
 <https://www.fastly.com>
