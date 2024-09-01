@@ -2,6 +2,27 @@
 
 Caching of web HTTP(S) static files to speed up websites.
 
+Modern CDNs add security features like DDoS protection and edge-computing capabilities.
+
+<!-- INDEX_START -->
+
+- [Key Points](#key-points)
+- [Popular CDNs](#popular-cdns)
+  - [Akamai](#akamai)
+  - [Cloudflare](#cloudflare)
+  - [Fastly](#fastly)
+  - [AWS CloudFront](#aws-cloudfront)
+  - [Azure CDN](#azure-cdn)
+  - [Google Cloud CDN](#google-cloud-cdn)
+  - [StackPath](#stackpath)
+  - [CDN77](#cdn77)
+  - [KeyCDN](#keycdn)
+  - [Imperva (formerly Incapsula)](#imperva-formerly-incapsula)
+
+<!-- INDEX_END -->
+
+## Key Points
+
 Modern CDNs commonly offer the same sorts of services:
 
 - web performance optimization
