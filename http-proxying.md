@@ -52,6 +52,12 @@ export HTTPS_PROXY="$https_proxy"
 export NO_PROXY="$no_proxy"
 ```
 
+## HTTP Toolkit
+
+Intercepting HTTP debugger.
+
+<https://httptoolkit.com/docs/>
+
 ## Compile Apache HTTPd with Proxying
 
 ```shell
