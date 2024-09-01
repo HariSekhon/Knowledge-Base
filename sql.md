@@ -33,6 +33,10 @@ Preference is given to free tools.
 - [phpMyAdmin](https://www.phpmyadmin.net/) - MySQL web UI
 - [SQL Chat](https://github.com/sqlchat/sqlchat) - chat-based interface to querying DBs
 
+## TODO
+
+- [SQLMesh](https://sqlmesh.com/)
+
 ## ACID
 
 Atomic, Consistent, Isolated & Durable.
