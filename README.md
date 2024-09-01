@@ -90,6 +90,8 @@ Hit the watch button on the top right for updates.
   - [Misc](#misc)
     - [Old](#old)
 - [See Also](#see-also)
+- [Stargazers over time](#stargazers-over-time)
+- [Meme](#meme)
 
 <!-- INDEX_END -->
 
@@ -541,6 +543,12 @@ For tonnes of great free tech programs and scripts, see also:
 
 [Pre-built Docker images](https://hub.docker.com/u/harisekhon/) are available for those repos (which include this one as a submodule) and the ["docker available"](https://hub.docker.com/r/harisekhon/centos-github/) icon above links to an [uber image](https://hub.docker.com/r/harisekhon/centos-github/) which contains all my github repos pre-built. There are [Centos](https://hub.docker.com/r/harisekhon/centos-github/), [Alpine](https://hub.docker.com/r/harisekhon/alpine-github/), [Debian](https://hub.docker.com/r/harisekhon/debian-github/) and [Ubuntu](https://hub.docker.com/r/harisekhon/ubuntu-github/) versions of this uber Docker image containing all repos.
 
-### Stargazers over time
+## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/HariSekhon/Knowledge-Base.svg)](https://starchart.cc/HariSekhon/Knowledge-Base)
+
+## Meme
+
+From my [LinkedIn](https://linkedin.com/in/HariSekhon):
+
+![BForbidden Unix Knowledge](images/devops_apprentice_reads_from_ancient_books_of_forbidden_unix_knowledge.jpeg)
