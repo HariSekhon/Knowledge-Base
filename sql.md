@@ -4,6 +4,7 @@
 
 - [SQL Scripts](#sql-scripts)
 - [SQL Clients](#sql-clients)
+- [ACID](#acid)
 - [SQL Joins](#sql-joins)
 - [SQL Query Logical Order](#sql-query-logical-order)
 
@@ -32,9 +33,17 @@ Preference is given to free tools.
 - [phpMyAdmin](https://www.phpmyadmin.net/) - MySQL web UI
 - [SQL Chat](https://github.com/sqlchat/sqlchat) - chat-based interface to querying DBs
 
-## SQL Joins
+## ACID
+
+Atomic, Consistent, Isolated & Durable.
+
+ACID compliance is a standard feature of RDBMS SQL databases.
+
+![ACID](images/acid.gif)
 
 <!-- error accessing this now, try to find original and import it instead
+## SQL Joins
+
 ![](https://media.licdn.com/dms/image/D5622AQGSP8OYFxOSaA/feedshare-shrink_2048_1536/0/1718097295510?e=1721865600&v=beta&t=Z2JCgUx04L5isIdQ1b7xb9_jywoUAKPn5G6Uwhbzg1E)
 -->
 
