@@ -48,13 +48,10 @@ websites - and a large network of data centers worldwide.
 It provides a free tier with essential CDN services, DNS services, and support for edge
 computing.
 
-Kubernetes External DNS integration can be found for its DNS in the
-[HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) GitHub repo.
+See the [Cloudflare](cloudflare.md) doc for more tech info, scripts and configs.
 
 Beware that the company has previously deplatformed the 4Chan anonymous freedom of speech message board
 leading to an outage.
-
-See also the [Cloudflare](cloudflare.md) doc.
 
 ### Fastly
 
