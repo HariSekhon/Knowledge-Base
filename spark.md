@@ -19,7 +19,7 @@ kubectl_port_forward_spark.sh  # <namespace>
 
 Manually:
 
-Set the EKS namespace where the Spark job is running:
+Set the Kubernetes namespace where the Spark job is running:
 
 ```shell
 NAMESPACE=prod
