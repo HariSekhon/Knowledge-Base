@@ -17,7 +17,7 @@ Modern CDNs add security features like DDoS protection and edge-computing capabi
   - [Azure CDN](#azure-cdn)
   - [Google Cloud CDN](#google-cloud-cdn)
   - [Netlify](#netlify)
-  - [StackPath](#stackpath)
+  - [StackPath (formerly MaxCDN)](#stackpath-formerly-maxcdn)
   - [Imperva (formerly Incapsula)](#imperva-formerly-incapsula)
   - [Digital Ocean CDN](#digital-ocean-cdn)
   - [KeyCDN](#keycdn)
