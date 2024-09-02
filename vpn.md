@@ -2,11 +2,23 @@
 
 Encrypt traffic between 2 locations.
 
-SSL vs IPSec VPNs
+<!-- INDEX_START -->
 
-2 forms:
+- [SSL vs IPSec VPNs](#ssl-vs-ipsec-vpns)
+- [OpenVPN](#openvpn)
+    - [OpenVPN Client](#openvpn-client)
+  - [Tunnelblick](#tunnelblick)
+- [Client VPNs](#client-vpns)
+- [Consumer VPNs](#consumer-vpns)
+
+<!-- INDEX_END -->
+
+## SSL vs IPSec VPNs
 
 - site-to-site VPNs - usually between two datacenters or an office and a datacenter
+
+<!-- -->
+
 - client-to-site VPNs - usually between your desktop / laptop and the office or datacenter
   - consumer VPNs - these are client-to-site VPNs that are used to encrypt traffic so your ISP can't snoop on you, or to change your geographic location to watch Netflix or other streaming services that may not be available where you are physically located or may have restricted shows by country
 
