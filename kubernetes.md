@@ -11,8 +11,16 @@
 - [Kubernetes `.envrc`](#kubernetes-envrc)
 - [Kubernetes Networking](#kubernetes-networking)
   - [CNI - Container Network Interface](#cni---container-network-interface)
+    - [Flannel](#flannel)
+    - [Calico](#calico)
+    - [Weavenet - by WeaveWorks](#weavenet---by-weaveworks)
+    - [Kube-router](#kube-router)
+    - [Romana](#romana)
+    - [Installing a CNI Plugin](#installing-a-cni-plugin)
+    - [Plugins by Feature](#plugins-by-feature)
   - [Network Troubleshooting](#network-troubleshooting)
 - [Tips](#tips)
+  - [Quick Port-Forwarding to a Pod](#quick-port-forwarding-to-a-pod)
 - [Troubleshooting](#troubleshooting)
   - [Capture Pod Logs & Stats](#capture-pod-logs--stats)
   - [Killing a Namespace that's stuck](#killing-a-namespace-thats-stuck)
@@ -163,6 +171,21 @@ Readiness probe failed: calico/node is not ready: BIRD is not ready: Error query
 - Ingresses:
   - use `name: http` for target instead of `number: 80` as some services use 80 and some 8080, so you'll get an HTTP 503 error if you get it wrong
   - compare the name and number to the service you're pointing to
+
+### Quick Port-Forwarding to a Pod
+
+From [DevOps-Bash-tools](devops-bash-tools.md) repo, gives an interactive list of pods if no name or label arg is given,
+and can automatically open URLs:
+
+```shell
+kubectl_port_forward.sh
+```
+
+For [Spark](spark.md) with the label automatically added so less args needed:
+
+```shell
+kubectl_port_forward_spark.sh
+```
 
 ## Troubleshooting
 
