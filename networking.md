@@ -3,10 +3,8 @@
 <!-- INDEX_START -->
 
 - [CIDR visualizer](#cidr-visualizer)
-- [VPNs - Virtual Private Networks](#vpns---virtual-private-networks)
-  - [OpenVPN](#openvpn)
-  - [Client VPNs](#client-vpns)
-  - [Consumer VPNs](#consumer-vpns)
+- [VPNS](#vpns)
+- [Browser Fingerprinting](#browser-fingerprinting)
 - [Commands](#commands)
   - [Show routing table](#show-routing-table)
   - [DNS lookup](#dns-lookup)
@@ -25,11 +23,11 @@ Shows bits, netmask, first IP, last IP, number of IPs in range
 
 <http://cidr.xyz/>
 
-### VPNS
+## VPNS
 
 See [VPNs](vpn.md).
 
-#### Fingerprinting
+## Browser Fingerprinting
 
 [fingerprint.com](https://fingerprint.com/) can still sort of identify you using a hash of common characteristics.
 Click the link from Incognito/Private Browsing and on/off VPN to see
