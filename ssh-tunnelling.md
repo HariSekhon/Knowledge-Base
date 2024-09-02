@@ -42,19 +42,32 @@ programming build tools and CLIs which are really Rest API clients like `kubectl
 
 On GCP, you may tunnel through a bastion host like this:
 
-(exclude `googleapis.com` otherwise `gcloud` CLI won't be able to connect to Google since it is the tunnel which is
-not up yet)
+Exclude `googleapis.com` otherwise `gcloud` CLI won't be able to connect to Google since it is the tunnel which is
+not up yet:
 
 ```shell
 export no_proxy="googleapis.com"
 export NO_PROXY="$no_proxy"
-export PROJECT_PROXY_PORT=8888
+```
 
+Choose the HTTP Proxy port you wan to use:
+
+```shell
+export PROJECT_PROXY_PORT=8888
+```
+
+Open the SSH tunnel to a GCP VM using that port:
+
+```shell
 gcloud compute ssh bastion-vm -- -4 -N \
       -L "$PROJECT_PROXY_PORT:127.0.0.1:$PROJECT_PROXY_PORT" \
       -o "ExitOnForwardFailure yes" \
       -o "ServerAliveInterval 10"
+```
 
+Export this local SSH proxy for apps to use:
+
+```shell
 export https_proxy="http://localhost:$PROJECT_PROXY_PORT"
 export HTTPS_PROXY="$https_proxy"
 ```
