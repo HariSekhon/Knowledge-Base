@@ -16,13 +16,13 @@ Modern CDNs add security features like DDoS protection and edge-computing capabi
   - [AWS CloudFront](#aws-cloudfront)
   - [Azure CDN](#azure-cdn)
   - [Google Cloud CDN](#google-cloud-cdn)
+  - [Netlify](#netlify)
   - [StackPath](#stackpath)
-  - [CDN77](#cdn77)
-  - [KeyCDN](#keycdn)
   - [Imperva (formerly Incapsula)](#imperva-formerly-incapsula)
   - [Digital Ocean CDN](#digital-ocean-cdn)
+  - [KeyCDN](#keycdn)
   - [Gcore](#gcore)
-  - [Netlify](#netlify)
+  - [CDN77](#cdn77)
   - [JSDeliver](#jsdeliver)
 
 <!-- INDEX_END -->
@@ -50,12 +50,16 @@ This is a different category to standard CDNs, see this article:
 
 ## Popular CDNs
 
+Roughly stack ranked.
+
 ### Akamai
 
 <https://www.akamai.com>
 
 One of the oldest and most established CDNs, known for its extensive global network and robust security
 features.
+
+Akamai is a leader in the CDN market, particularly for enterprise customers and large-scale media distribution.
 
 ### Cloudflare
 
@@ -77,6 +81,8 @@ leading to an outage.
 <https://www.fastly.com>
 
 Fastly is known for its real-time content delivery and edge cloud platform.
+
+Popular among developers and media companies for its speed and configurability.
 
 It provides high-performance delivery for dynamic content, streaming, and APIs, with advanced caching and edge computing
 capabilities.
@@ -105,23 +111,21 @@ your existing account.
 Convenient for people already using [GCP](gcp.md) cloud since it requires no new purchase orders, it'll bill into your
 existing account.
 
-### StackPath
+### Netlify
+
+<https://www.netlify.com/platform/core/edge/>
+
+Good for static sites. Integrates with GitHub pages for your GitHub projects.
+
+Popular among developers and small to medium-sized websites.
+
+Netlify offers a CDN as part of its static site hosting service.
+
+### StackPath (formerly MaxCDN)
 
 <https://www.stackpath.com>
 
-### CDN77
-
-<https://www.cdn77.com>
-
-Known for its transparent pricing and high-performance network, making it a popular choice among small to
-mid-sized businesses.
-
-### KeyCDN
-
-<https://www.keycdn.com>
-
-KeyCDN is a performance-focused CDN offering competitive pricing and features like real-time image processing.
-It's a great choice for developers and businesses looking for a straightforward, reliable CDN solution.
+Popular for its edge computing capabilities and ease of use for developers.
 
 ### Imperva (formerly Incapsula)
 
@@ -139,18 +143,31 @@ Popular developer cloud Digital Ocean has a CDN but it's only for their S3-compa
 
 This is a more limited offering than the specialist CDNs above like Akamai or Cloudflare.
 
+### KeyCDN
+
+<https://www.keycdn.com>
+
+KeyCDN is a performance-focused CDN known for affordability and ease of use, as well as real-time image processing.
+
+Popular among smaller websites and developers.
+
 ### Gcore
 
 <https://gcore.com/cdn>
 
-### Netlify
+More used in specific industries and regions, focusing on low-latency performance.
 
-<https://www.netlify.com/platform/core/edge/>
+### CDN77
 
-Good for static sites. Integrates with GitHub pages for your GitHub projects.
+<https://www.cdn77.com>
+
+Known for its transparent pricing and high-performance network, making it a popular choice among small to
+mid-sized businesses.
 
 ### JSDeliver
 
 <https://www.jsdelivr.com/>
 
-Free CDN for open-source projects.
+Free CDN for open-source projects used for hosting JavaScript libraries and files.
+
+Popular among developers for specific use cases.
