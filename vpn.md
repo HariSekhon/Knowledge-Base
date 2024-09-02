@@ -10,6 +10,7 @@ Encrypt traffic between 2 locations.
   - [Tunnelblick](#tunnelblick)
 - [Client VPNs](#client-vpns)
 - [Consumer VPNs](#consumer-vpns)
+- [Browser Fingerprinting](#browser-fingerprinting)
 
 <!-- INDEX_END -->
 
@@ -64,3 +65,16 @@ sudo killall -HUP mDNSResponder
 
 If you are sourcing [DevOps-Bash-tools](devops-bash-tools.md) repo in your `.bashrc` there is a shell function
 shortcut so you can just run: `flushdns`.
+
+## Browser Fingerprinting
+
+[fingerprint.com](https://fingerprint.com/) can still sort of identify you using a hash of common characteristics.
+Click the link from Incognito/Private Browsing and on/off VPN to see
+
+Documentation:
+
+<https://dev.fingerprint.com/>
+
+Open source library (TODO read this code):
+
+<https://github.com/fingerprintjs/fingerprintjs>
