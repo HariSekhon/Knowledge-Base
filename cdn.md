@@ -50,7 +50,7 @@ This is a different category to standard CDNs, see this article:
 
 ## Popular CDNs
 
-Roughly stack ranked.
+Roughly stack ranked by popularity and maturity.
 
 ### Akamai
 
