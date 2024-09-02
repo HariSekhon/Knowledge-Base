@@ -9,6 +9,7 @@ Modern CDNs add security features like DDoS protection and edge-computing capabi
 - [Key Points](#key-points)
 - [Beware Public Shared CDNs](#beware-public-shared-cdns)
 - [Best Free CDNs](#best-free-cdns)
+  - [Wordpress CDNs](#wordpress-cdns)
 - [Popular CDNs](#popular-cdns)
   - [Akamai](#akamai)
   - [Cloudflare](#cloudflare)
@@ -23,7 +24,9 @@ Modern CDNs add security features like DDoS protection and edge-computing capabi
   - [KeyCDN](#keycdn)
   - [Gcore](#gcore)
   - [CDN77](#cdn77)
-  - [JSDeliver](#jsdeliver)
+  - [JSDelivr](#jsdelivr)
+  - [LightCDN](#lightcdn)
+  - [Bunny CDN](#bunny-cdn)
 
 <!-- INDEX_END -->
 
@@ -43,10 +46,20 @@ This is a different category to standard CDNs, see this article:
 
 ## Best Free CDNs
 
-- [Cloudflare](#cloudflare)
-- [Gcore](#gcore)
+Don't waste time on limited time trials.
+
+- [Cloudflare](#cloudflare) - best free plan, no time limit
+- [Gcore](#gcore) - good speeds, limited free tier
 - [Netlify](#netlify)
-- [JSDeliver](#jsdeliver)
+- [JSDelivr](#jsdeliver)
+
+### Wordpress CDNs
+
+- [Jetpack](https://jetpack.com/features/design/content-delivery-network/)
+- [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
+- [LiteSpeed](https://wordpress.org/plugins/litespeed-cache/)
+- [Shift8](https://wordpress.org/plugins/shift8-cdn/)
+- [Optimole](https://wordpress.org/plugins/optimole-wp/)
 
 ## Popular CDNs
 
@@ -82,10 +95,12 @@ leading to an outage.
 
 Fastly is known for its real-time content delivery and edge cloud platform.
 
-Popular among developers and media companies for its speed and configurability.
+Popular among developers and media companies for speed and being highly configurable.
 
 It provides high-performance delivery for dynamic content, streaming, and APIs, with advanced caching and edge computing
 capabilities.
+
+No free tier :-(
 
 ### AWS CloudFront
 
@@ -147,7 +162,7 @@ This is a more limited offering than the specialist CDNs above like Akamai or Cl
 
 <https://www.keycdn.com>
 
-KeyCDN is a performance-focused CDN known for affordability and ease of use, as well as real-time image processing.
+KeyCDN is known for affordability and ease of use, as well as real-time image processing.
 
 Popular among smaller websites and developers.
 
@@ -155,7 +170,10 @@ Popular among smaller websites and developers.
 
 <https://gcore.com/cdn>
 
-More used in specific industries and regions, focusing on low-latency performance.
+More used in specific industries and regions, focusing on low-latency performance 30ms advertised, sometimes as low as
+3ms, used in entertainment service such as gaming and streaming networks.
+
+100% uptime commitment with defenses against DDoS, malware and bots.
 
 ### CDN77
 
@@ -164,10 +182,22 @@ More used in specific industries and regions, focusing on low-latency performanc
 Known for its transparent pricing and high-performance network, making it a popular choice among small to
 mid-sized businesses.
 
-### JSDeliver
+Uses free LetsEncrypt SSL certificates.
+
+### JSDelivr
 
 <https://www.jsdelivr.com/>
 
 Free CDN for open-source projects used for hosting JavaScript libraries and files.
 
 Popular among developers for specific use cases.
+
+### LightCDN
+
+<https://www.lightcdn.com/>
+
+### Bunny CDN
+
+<https://bunny.net/>
+
+Simple low-cost CDN.
