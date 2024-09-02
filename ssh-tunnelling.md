@@ -20,8 +20,8 @@ ssh -4 -N -L <local_port>:<host2>:<host2_port> <user>@<host1>
 Then just connect to the localhost `127.0.0.1:<port>` so network packets sent to that local port will tunnel through
 SSH and be forwarded on the other side from the ssh server on that same port.
 
-- `-4` - enforces use of IPv4
-- `-N` - doesn't open a shell - this makes it obvious that this is an SSH tunnel
+- `-4` - use of IPv4
+- `-N` - don't open a shell - makes it obvious that this is for an SSH tunnel
 
 WARNING: you probably don't want to use `-R` because that would bind the port on the remote `host1` in a way that
 anybody could connect to it - it wouldn't be protected inside an SSH tunnel on your local machine, and nor would
