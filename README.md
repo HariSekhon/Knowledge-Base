@@ -465,6 +465,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 ### Networking
 
 - [Networking](networking.md) TODO
+- [VPNs](vpn.md)
 - [Cisco](cisco.md) TODO
 - [Juniper](juniper.md) TODO
 - [Foundry](foundry.md) TODO
