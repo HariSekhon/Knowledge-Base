@@ -181,7 +181,8 @@ and can automatically open URLs:
 kubectl_port_forward.sh
 ```
 
-For [Spark](spark.md) with the label automatically added so less args needed:
+Especially useful for [Spark-on-Kubernetes](spark.md) jobs, this sub-script variant has the Spark driver label filter
+automatically added so less args needed:
 
 ```shell
 kubectl_port_forward_spark.sh
