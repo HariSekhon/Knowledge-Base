@@ -483,6 +483,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Nagios](nagios.md)
 - [Notifications](notifications.md)
   - [OpsGenie](opsgenie.md)
+- [Fluentd](fluentd.md)
 
 ### Misc
 
