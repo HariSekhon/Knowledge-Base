@@ -27,7 +27,11 @@ NOT PORTED YET
   - [EC2 VM becomes unresponsive and cannot SSH under high loads](#ec2-vm-becomes-unresponsive-and-cannot-ssh-under-high-loads)
   - [RDS Write Stops Working due to Status `Storage Full`](#rds-write-stops-working-due-to-status-storage-full)
   - [EKS Spot - App fails to connect to DB due to race condition with Vault pod not being up yet](#eks-spot---app-fails-to-connect-to-db-due-to-race-condition-with-vault-pod-not-being-up-yet)
+    - [Quick workaround](#quick-workaround)
+    - [Solutions](#solutions)
   - [EC2 Disk Mount Recovery](#ec2-disk-mount-recovery)
+    - [Solution](#solution)
+- [AWS Typical Network Architecture](#aws-typical-network-architecture)
 
 <!-- INDEX_END -->
 
@@ -657,5 +661,9 @@ sudo umount /mnt
 08. Attach the volume to the original instance
 09. Start the original instance which should now come up
 10. Remove the `Problem` tag from the volume
+
+## AWS Typical Network Architecture
+
+![AWS Typical Network Architecture](images/aws_typical_network_architecture.gif)
 
 **Partial port from private Knowledge Base page 2012+**
