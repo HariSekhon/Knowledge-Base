@@ -3,7 +3,7 @@
 <!-- INDEX_START -->
 
 - [CIDR visualizer](#cidr-visualizer)
-- [VPNS](#vpns)
+- [VPNs](#vpns)
 - [Browser Fingerprinting](#browser-fingerprinting)
 - [Commands](#commands)
   - [Show routing table](#show-routing-table)
@@ -23,7 +23,7 @@ Shows bits, netmask, first IP, last IP, number of IPs in range
 
 <http://cidr.xyz/>
 
-## VPNS
+## VPNs
 
 See [VPNs](vpn.md).
 
