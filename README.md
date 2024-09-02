@@ -481,6 +481,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Monitoring](monitoring.md)
 - [Nagios](nagios.md)
 - [Notifications](notifications.md)
+  - [OpsGenie](opsgenie.md)
 
 ### Misc
 
