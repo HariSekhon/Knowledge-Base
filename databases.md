@@ -58,3 +58,7 @@ Useful for local or embedded usage rather than multi-user servers like most majo
 - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - slightly more user friendly
   than Oracle, with Transact SQL aka TSQL
 - [Netezza](https://www.ibm.com/products/netezza) - specialist rack appliance, even more expensive than Oracle
+
+## Databases Scaling Cheatsheet
+
+![Databases Scaling Cheatsheet](images/database_scaling_cheatsheet.gif)
