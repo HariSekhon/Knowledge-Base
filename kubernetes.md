@@ -177,8 +177,8 @@ Readiness probe failed: calico/node is not ready: BIRD is not ready: Error query
 In most cases you should `kubectl port-forward` to a service, but in cases where you need a specific pod or no service
 is available, such as [Spark-on-Kubernetes](spark.md) or other batch jobs, this is a real convenience.
 
-From [DevOps-Bash-tools](devops-bash-tools.md) repo, gives an interactive list of pods if no name or label arg is given,
-and can automatically open URLs:
+From [DevOps-Bash-tools](devops-bash-tools.md) repo, gives an interactive list of pods which can be pre-filtered by name
+or label arg, and can automatically open the forwarding localhost URLs:
 
 ```shell
 kubectl_port_forward.sh
