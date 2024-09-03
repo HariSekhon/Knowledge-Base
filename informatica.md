@@ -590,23 +590,75 @@ See [Kubernetes - Troubleshooting - Capture Pod Logs & Stats](kubernetes.md#capt
 
 ### Kubernetes - Capture Spark Driver JStack Thread Dump
 
+Make sure your Kubernetes kubectl context is set up and authenticated.
+
 <https://knowledge.informatica.com/s/article/How-to-Capturing-JStack-Thread-Dumps-from-Kubernetes-Pods-or-Containers?language=en_US>
 
 For some reason Informatica created non-copyable screenshots of commands in the above KB article.
 
-Copy the Informatica agent's JDK to your workstation:
+<!--
+Copy the Informatica agent's JDK to your workstation - but this doesn't always match the pods:
 
 ```shell
 rsync -av "$SECURE_AGENT":infaagent/jdk/ infaagent-jdk
 ```
+-->
 
-Make sure your Kubernetes kubectl context is set up and authenticated.
-
-First find a Spark driver pod that's in `Running`, not `Error`, state:
+Set your namespace:
 
 ```shell
 NAMESPACE=informatica
 ```
+
+First find a Spark driver pod that's in `Running`, not `Error`, state:
+
+```shell
+SPARK_DRIVER_POD="$(
+  kubectl get pods -n "$NAMESPACE \
+  "                -l spark-role="$ROLE" \
+                   --field-selector=status.phase=Running \
+                   -o json | \
+  jq -r '
+    .items[] |
+    select(.status.containerStatuses[0].state.running != null) |
+    select(.spec.containers[].image |
+      contains("artifacthub.informaticacloud.com")) |
+    .metadata.name
+  ' |
+  head -n 1 |
+  tee /dev/stderr
+)"
+```
+
+
+First get the Java version:
+
+```shell
+kubectl exec -ti -n "$NAMESPACE" "$SPARK_POD" -- java -version
+```
+
+Find the JDK matching that Java version on the Secure Agent's `infaagent/apps/jdk/` directory.
+
+On your local workstation set the JDK:
+
+```shell
+JDK="zulu8.70.0.52-sa-fx-jdk8.0.372"
+```
+
+Then retrieve the corresponding JDK from the Secure Agent:
+
+```shell
+rsync -av "$SECURE_AGENT":"infaagent/apps/jdk/$JDK" .
+```
+
+Collecting the JStack traces is then mostly automated using this script from [DevOps-Bash-tools](devops-bash-tools.md)
+repo:
+
+```shell
+kubectl_pods_dump_jstacks.sh "$JDK" "$NAMESPACE" spark
+```
+
+#### Manually
 
 ```shell
 ROLE=driver
@@ -737,17 +789,25 @@ thread dumps from there by tunnelling through the bastion host and port-forwardi
 ssh bastion -L 4040:localhost:4040
 ```
 
-On the bastion:
+On the bastion run this script from [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+```shell
+kubectl_port_forward_spark.sh
+```
+
+which will prompt you with an interactive menu to select the Spark driver pod from a list.
+
+Alternatively, you can adjust this command manually:
 
 ```shell
 kubectl port-forward --address 127.0.0.1 "$(kubectl get pods -l spark-role=driver -o name | head -n1)" 4040
 ```
 
-Then browsing to:
+Then browse to:
 
 <http://localhost:4040/executors/>
 
-and clicking on the Thread Dump links to the far right of each executor line.
+and click on the Thread Dump links to the far right of each executor line.
 
 Informatica Secure Agent documentation needs updating,
 you can get the correct version of JDK from the secure agent at this location:
@@ -769,6 +829,8 @@ rsync -av "$SECURE_AGENT":"infaagent/apps/jdk/$JDK" .
 ```shell
 kubectl cp -n "$NAMESPACE" "./$JDK/" "$SPARK_POD":/tmp/jdk
 ```
+
+Then repeat the JStack collection commands above.
 
 ## Meme
 
