@@ -75,4 +75,41 @@ base-exec-prefix = /opt/homebrew/Cellar/python@3.12/3.12.3/Frameworks/Python.fra
 base-executable = /opt/homebrew/Cellar/python@3.12/3.12.3/Frameworks/Python.framework/Versions/3.12/bin/python3.12
 ```
 
+## Pipenv
+
+<https://pipenv.pypa.io/en/latest/>
+
+<https://github.com/pypa/pipenv>
+
+Combines Pip and VirtualEnv into one command.
+
+```shell
+brew install pipenv
+```
+
+Creates a `Pipfile` and `Pipfile.lock`,
+plus a virtualenv in a standard location `$HOME/.local/share/virtualenvs/` if not already inside one.
+
+```shell
+pipenv install
+```
+
+Activates the virtualenv
+
+```shell
+pipenv shell
+```
+
+Automatically converts a `requirements.txt` file into a `Pipfile`:
+
+```shell
+pipenv check
+```
+
+Dependency graph:
+
+```shell
+pipenv graph
+```
+
 **Partial port from private Knowledge Base page 2008+**
