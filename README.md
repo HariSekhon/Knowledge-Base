@@ -482,8 +482,11 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 - [Monitoring](monitoring.md)
 - [Nagios](nagios.md)
+- [Prometheus](prometheus.md) TODO
+- [Thanos](thanos.md) TODO
 - [Notifications](notifications.md)
   - [OpsGenie](opsgenie.md)
+  - [PagerDuty](pagerduty.md) TODO
 - [Fluentd](fluentd.md)
 
 ### Misc
