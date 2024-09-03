@@ -4,7 +4,7 @@
 #  Author: Hari Sekhon
 #  Date: 2020-06-02 17:43:35 +0100 (Tue, 02 Jun 2020)
 #
-#  https://github.com/HariSekhon/Template-repo
+#  https://github.com/HariSekhon/Knowledge-Base
 #
 #  License: see accompanying Hari Sekhon LICENSE file
 #
@@ -52,7 +52,7 @@ retry(){
 if [ "$(uname -s)" = Darwin ]; then
     echo "Bootstrapping Mac"
     # removing adjacent dependency to be able to curl from github to avoid submodule circular dependency (git / submodule / install git & make)
-    #retry "$srcdir/install_homebrew.sh"
+    #retry "$srcdir/../install/install_homebrew.sh"
     if command -v brew 2>&1; then
         # fix for CI runners on Mac with shallow homebrew clone - which is failing all the BuildKite builds
         for git_root in /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core /usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask; do
