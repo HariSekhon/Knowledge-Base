@@ -360,6 +360,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Couchbase](couchbase.md)
 - [HBase](hbase.md) TODO
 - [MongoDB](mongo.md) TODO
+- [Neo4j](neo4j.md)
 - [Consul](consul.md)
 
 ### Caching
