@@ -48,7 +48,6 @@ Then see [Kubernetes](kubernetes.md) page for configs, scripts and `.envrc`.
 
 <https://docs.aws.amazon.com/eks/latest/userguide/grant-k8s-access.html>
 
-
 ### Newer Native IAM Method
 
 This is preferred as long as your cluster meets the
