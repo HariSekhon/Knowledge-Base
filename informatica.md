@@ -597,11 +597,13 @@ Make sure your Kubernetes kubectl context is set up and authenticated.
 For some reason Informatica created non-copyable screenshots of commands in the above KB article.
 
 <!--
+
 Copy the Informatica agent's JDK to your workstation - but this doesn't always match the pods:
 
 ```shell
 rsync -av "$SECURE_AGENT":infaagent/jdk/ infaagent-jdk
 ```
+
 -->
 
 Set your namespace:
@@ -629,7 +631,6 @@ SPARK_DRIVER_POD="$(
   tee /dev/stderr
 )"
 ```
-
 
 First get the Java version:
 
