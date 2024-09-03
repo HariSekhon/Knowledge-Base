@@ -13,6 +13,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
 - [Nagios Plugins in Python](#nagios-plugins-in-python)
 - [Python Library with Unit Tests](#python-library-with-unit-tests)
 - [VirtualEnv](#virtualenv)
+- [Pipenv](#pipenv)
 
 <!-- INDEX_END -->
 
