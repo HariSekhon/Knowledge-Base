@@ -89,7 +89,6 @@ Capture Fluentd's own logs + send to logserver:
 ...
 ```
 
-
 ## Log locations
 
 ```shell
@@ -194,17 +193,17 @@ Processes events top down as defined in config file.
 
 `@plugin` - all plugins are prefixed with `@` symbol
 
-| Component | Description                                                                                                                                                                                 |
-|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| source    | input, tags everything on inbound                                                                                                                                                           |
-| match     | matches tag => sends to output plugin                                                                                                                                                       |
-| filter    | pass / reject / modify some events based on @type or tag, can be used to add fields, or 'out_relabel' plugin to add new tag                                                                 |
-| system    | system-wide config                                                                                                                                                                          |
-| label     | groups outputs + filters for internal routing - `@label @blah` in <source> continues processing in <label @blah> section of filters + matches - must have `@` symbol at start of label name |
-| @include  | include other files in lexical order <br> use multiple explicit @include to enforce ordering <br> `@include config./*.conf`                                                                 |
-| tag       | dot separated components                                                                                                                                                                    |
-| *         | match single event name component (dot delimited)                                                                                                                                           |
-| **        | match zero or more event name components - use to match all logs or prefixed logs                                                                                                           |
+| Component | Description                                                                                                                                                                                   |
+|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| source    | input, tags everything on inbound                                                                                                                                                             |
+| match     | matches tag => sends to output plugin                                                                                                                                                         |
+| filter    | pass / reject / modify some events based on @type or tag, can be used to add fields, or 'out_relabel' plugin to add new tag                                                                   |
+| system    | system-wide config                                                                                                                                                                            |
+| label     | groups outputs + filters for internal routing - `@label @blah` in <source> continues processing in `<label @blah>` section of filters + matches - must have `@` symbol at start of label name |
+| @include  | include other files in lexical order <br> use multiple explicit @include to enforce ordering <br> `@include config./*.conf`                                                                   |
+| tag       | dot separated components                                                                                                                                                                      |
+| *         | match single event name component (dot delimited)                                                                                                                                             |
+| **        | match zero or more event name components - use to match all logs or prefixed logs                                                                                                             |
 
 ```none
 global settings
@@ -269,7 +268,7 @@ Match any of multiple whitespace separated tags:
 <match tag1 tag2>
 ```
 
-Only events with <source> @label @blah go in to this block:
+Only events with `<source> @label @blah` go in to this block:
 
 ```none
 <label @blah>
@@ -398,10 +397,11 @@ so plugins using C might break.
 
 Set in input `<sources>`
 
-- extract fields from log <key> (eg. message)
+- extract fields from log `<key>` (eg. message)
 - Fluent UI has Regex tester
 
-- regexp - (?<fieldname>regex) - set fieldname to 'time' to reset time of event from content, configurable by time_key
+- regexp - `(?<fieldname>regex)` - set fieldname to `time` to reset time of event from content, configurable by
+  `time_key`
 - apache2 - shows regex used in doc
 - apache-error
 - nginx
