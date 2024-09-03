@@ -15,3 +15,7 @@ This is a good resource for systems design - they produce many high quality diag
 Annoyingly though, they never reply to my LinkedIn comments for which tool they used while mine are on GitHub here:
 
 [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code)
+
+## System Design Four Pillars
+
+![System Design Four Pillars](images/system_design_four_pillars.gif)
