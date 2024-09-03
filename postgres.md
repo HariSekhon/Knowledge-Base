@@ -20,3 +20,7 @@ Web UI for DB access.
 <https://www.pgadmin.org/>
 
 <https://github.com/pgadmin-org/pgadmin4>
+
+## Is Postgres eating the Database World
+
+![Postgres Eating Database World](images/postgres_eating_database_world.gif)
