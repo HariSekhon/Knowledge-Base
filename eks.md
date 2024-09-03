@@ -6,6 +6,9 @@ NOT PORTED YET
 
 - [EKS on Fargate](#eks-on-fargate)
 - [EKS Kubectl Access](#eks-kubectl-access)
+- [Grant IAM Roles EKS Access](#grant-iam-roles-eks-access)
+  - [Newer Native IAM Method](#newer-native-iam-method)
+  - [Old ConfigMap Method](#old-configmap-method)
 - [EKS Upgrades](#eks-upgrades)
 
 <!-- INDEX_END -->
