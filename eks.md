@@ -63,14 +63,14 @@ aws eks describe-cluster --name "$EKS_CLUSTER" \
 If new enable, enable it (this is irreversible):
 
 ```shell
-aws eks update-cluster-config --name "$EKS_CLUSTR" --access-config authenticationMode=API_AND_CONFIG_MAP
+aws eks update-cluster-config --name "$EKS_CLUSTER" --access-config authenticationMode='API_AND_CONFIG_MAP'
 ```
 
 Then create access entries:
 
 ```shell
 aws eks create-access-entry --cluster-name "$EKS_CLUSTER" \
-    --principal-arn 'arn:aws:iam::111122223333:role/devs' \
+    --principal-arn "arn:aws:iam::$AWS_ACCOUNT_ID:role/devs" \
     --type STANDARD \
     --user MyK8sRoleBinding \
     --kubernetes-groups MyK8sRoleBinding
