@@ -45,57 +45,64 @@ Hit the watch button on the top right for updates.
 
 <!-- INDEX_START -->
 
-  - [GitHub Repos](#github-repos)
-  - [Linux / Unix](#linux--unix)
-  - [Core Services - DNS, DHCP, SSH, FTP](#core-services---dns-dhcp-ssh-ftp)
-  - [Editors](#editors)
-  - [Architecture & Documentation](#architecture--documentation)
-  - [Git](#git)
-  - [Cloud](#cloud)
-  - [Docker](#docker)
-  - [Kubernetes](#kubernetes)
-    - [Cloud Hosted Kubernetes](#cloud-hosted-kubernetes)
-    - [On-premise Kubernetes](#on-premise-kubernetes)
-    - [Local Kubernetes Dev](#local-kubernetes-dev)
-    - [Kubernetes Applications & Lifecycle Management](#kubernetes-applications--lifecycle-management)
-  - [Container Security](#container-security)
-  - [Programming](#programming)
-  - [Configuration Management](#configuration-management)
-  - [Build Systems](#build-systems)
-  - [Container Registries](#container-registries)
-  - [Artifact Registries](#artifact-registries)
-  - [CI/CD](#cicd)
-  - [Code Scanning](#code-scanning)
-  - [Internet Services](#internet-services)
-  - [Databases / RDBMS](#databases--rdbms)
-    - [MPP Databases](#mpp-databases)
-    - [Hosted MPP Databases](#hosted-mpp-databases)
-    - [Database Management](#database-management)
-  - [NoSQL](#nosql)
-  - [Caching](#caching)
-  - [Search](#search)
-  - [Pub/Sub & Message Queues](#pubsub--message-queues)
-  - [Data](#data)
-  - [Hadoop Ecosystem](#hadoop-ecosystem)
-  - [Data Science](#data-science)
-  - [Time Series Databases](#time-series-databases)
-  - [Visualization](#visualization)
-  - [Performance Engineering](#performance-engineering)
-  - [Security](#security)
-  - [Virtualization](#virtualization)
-  - [Hardware](#hardware)
-  - [Networking](#networking)
-  - [Load Balancing](#load-balancing)
-  - [Monitoring](#monitoring)
-  - [Misc](#misc)
-    - [Old](#old)
-- [See Also](#see-also)
+- [GitHub Repos](#github-repos)
+- [Linux / Unix](#linux--unix)
+- [Core Services - DNS, DHCP, SSH, FTP](#core-services---dns-dhcp-ssh-ftp)
+- [Editors](#editors)
+- [Architecture & Documentation](#architecture--documentation)
+- [Git](#git)
+- [Cloud](#cloud)
+- [Docker](#docker)
+- [Kubernetes](#kubernetes)
+  - [Cloud Hosted Kubernetes](#cloud-hosted-kubernetes)
+  - [On-premise Kubernetes](#on-premise-kubernetes)
+  - [Local Kubernetes Dev](#local-kubernetes-dev)
+  - [Kubernetes Applications & Lifecycle Management](#kubernetes-applications--lifecycle-management)
+- [Container Security](#container-security)
+- [Programming](#programming)
+- [Configuration Management](#configuration-management)
+- [Build Systems](#build-systems)
+- [Container Registries](#container-registries)
+- [Artifact Registries](#artifact-registries)
+- [CI/CD](#cicd)
+- [Code Scanning](#code-scanning)
+- [Internet Services](#internet-services)
+- [Databases / RDBMS](#databases--rdbms)
+  - [MPP Databases](#mpp-databases)
+  - [Hosted MPP Databases](#hosted-mpp-databases)
+  - [Database Management](#database-management)
+- [NoSQL](#nosql)
+- [Caching](#caching)
+- [Search](#search)
+- [Pub/Sub & Message Queues](#pubsub--message-queues)
+- [Data](#data)
+- [Hadoop Ecosystem](#hadoop-ecosystem)
+- [Data Science](#data-science)
+- [Time Series Databases](#time-series-databases)
+- [Visualization](#visualization)
+- [Performance Engineering](#performance-engineering)
+- [Security](#security)
+- [Virtualization](#virtualization)
+- [Hardware](#hardware)
+- [Networking](#networking)
+- [Load Balancing](#load-balancing)
+- [Monitoring](#monitoring)
+- [Misc](#misc)
+  - [Old](#old)
 - [Stargazers over time](#stargazers-over-time)
 - [Meme](#meme)
+- [More Core Repos](#more-core-repos)
+  - [Knowledge](#knowledge)
+  - [DevOps Code](#devops-code)
+  - [Containerization](#containerization)
+  - [CI/CD](#cicd)
+  - [DBA - SQL](#dba---sql)
+  - [DevOps Reloaded](#devops-reloaded)
+  - [Misc](#misc)
 
 <!-- INDEX_END -->
 
-### GitHub Repos
+## GitHub Repos
 
 Full of open source tools and scripts used throughout the rest of these docs to make it easier to install and operate these technologies:
 
@@ -108,7 +115,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Templates](https://github.com/HariSekhon/Templates) - templates for many common file formats for programming languages, build systems and DevOps configs
 - [Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code.md) - Cloud & Open Source architecture diagrams
 
-### Linux / Unix
+## Linux / Unix
 
 - [Linux](linux.md)
   - [Debian](debian.md)
@@ -123,7 +130,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [direnv / `.envrc`](direnv.md)
 - [Disk Management](disk.md)
 
-### Core Services - DNS, DHCP, SSH, FTP
+## Core Services - DNS, DHCP, SSH, FTP
 
 - [SSH](ssh.md)
   - [SSH Tunnelling](ssh-tunnelling.md)
@@ -131,14 +138,14 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [DNS](dns.md)
 - [DHCP](dhcp.md)
 
-### Editors
+## Editors
 
 - [Editors](editors.md)
   - [Vim](vim.md)
   - [IntelliJ](intellij.md)
 - [Coder](coder.md)
 
-### Architecture & Documentation
+## Architecture & Documentation
 
 - [Diagrams-as-Code](diagrams.md)
   - [D2 lang](d2.md)
@@ -149,7 +156,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Medium.com](medium.md) (blog)
 - [Systems Design](systems-design.md)
 
-### Git
+## Git
 
 - [Git](git.md)
   - [Git Workflow Branching Strategies](git-workflow-branching-strategies.md)
@@ -160,7 +167,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [Bitbucket](bitbucket.md) TODO
 - [Pre-Commit](pre-commit.md)
 
-### Cloud
+## Cloud
 
 - Cloud Platforms:
   - [AWS](aws.md)
@@ -172,7 +179,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [HashiCorp Vault](vault.md)
 - [PaaS](paas.md)
 
-### Docker
+## Docker
 
 - [Docker](docker.md)
   - [Dockerfile](dockerfile.md) TODO
@@ -181,7 +188,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Podman](podman.md)
 - [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) repo
 
-### Kubernetes
+## Kubernetes
 
 - [Kubernetes](kubernetes.md)
   - [Kubernetes Upgrades](kubernetes-upgrades.md)
@@ -189,21 +196,21 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [Kiali](kiali.md)
 - [Kubeflow](kubeflow.md) TODO
 
-#### Cloud Hosted Kubernetes
+### Cloud Hosted Kubernetes
 
 - [AWS EKS](eks.md) TODO
 - [GKE](gke.md) TODO
 - [AKS](aks.md) TODO
 - [Karpenter](karpenter.md)
 
-#### On-premise Kubernetes
+### On-premise Kubernetes
 
 - [K3s](k3s.md)
 - [Rancher](rancher.md)
 - [RKE2](rke2.md)
 - [Portworx](portworx.md)
 
-#### Local Kubernetes Dev
+### Local Kubernetes Dev
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) embedded Kubernetes (easiest to use)
 - [MiniKube](https://minikube.sigs.k8s.io/docs/start/)
@@ -211,7 +218,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [K3d](k3d.md)
 - [Kind](kind.md)
 
-#### Kubernetes Applications & Lifecycle Management
+### Kubernetes Applications & Lifecycle Management
 
 - [Helm](helm.md)
 - [Kustomize](kustomize.md)
@@ -220,14 +227,14 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Cert Manager](cert-manager.md)
 - [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)
 
-### Container Security
+## Container Security
 
 - [Container Scanning](container-scanning.md)
 - [Trivy](trivy.md) TODO
 - [Grype](grype.md) TODO
 - [Clair](clair.md)
 
-### Programming
+## Programming
 
 - [Programming](programming.md)
 - [Perl](perl.md)
@@ -244,7 +251,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [log4j](log4j.md)
 - [Regular Expressions](regex.md)
 
-### Configuration Management
+## Configuration Management
 
 - [Terraform](terraform.md)
   - [tfenv](tfenv.md)
@@ -256,7 +263,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Puppet](puppet.md) TODO
 - [YAML](yaml.md)
 
-### Build Systems
+## Build Systems
 
 - [Build Systems](build-systems.md)
 - [Make](make.md)
@@ -264,7 +271,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Gradle](gradle.md)
 - [SBT](sbt.md)
 
-### Container Registries
+## Container Registries
 
 - [DockerHub](https://hub.docker.com/)
 - AWS [ECR](https://aws.amazon.com/ecr/)
@@ -278,13 +285,13 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Harbor](https://goharbor.io/)
 - [Chart Museum](https://chartmuseum.com/docs/#)
 
-### Artifact Registries
+## Artifact Registries
 
 - [Artifact Registries](artifact-registries.md)
 - [Artifactory](artifactory.md)
 - [Nexus](nexus.md) TODO
 
-### CI/CD
+## CI/CD
 
 - [CI/CD](ci-cd.md)
 - Self-Hosted CI/CD:
@@ -305,7 +312,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [TravisCI](travis.md)
   - [Drone.io](drone.io.md)
 
-### Code Scanning
+## Code Scanning
 
 - [Code Scanning](code-scanning.md)
 - [Code Quality](code-quality.md)
@@ -313,14 +320,14 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [CodeClimate](codeclimate.md)
 - [Codefresh](codefresh.md)
 
-### Internet Services
+## Internet Services
 
 - [Web](web.md)
 - [CDNs](cdn.md)
   - [Cloudflare](cloudflare.md)
 - [HTTP Proxying](http-proxying.md)
 
-### Databases / RDBMS
+## Databases / RDBMS
 
 - [SQL](sql.md) TODO
 - [SQL scripts](https://github.com/HariSekhon/SQL-scripts)
@@ -330,7 +337,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [PostgreSQL](postgres.md) TODO
 - [CloudBeaver](cloudbeaver.md)
 
-#### MPP Databases
+### MPP Databases
 
 Massively Parallel Processing databases - horizontally scaling databases:
 
@@ -340,7 +347,7 @@ Massively Parallel Processing databases - horizontally scaling databases:
 - [Presto](presto.md)
 - [Apache Drill](drill.md) TODO
 
-#### Hosted MPP Databases
+### Hosted MPP Databases
 
 - [Distributed SQL](distributed-sql.md)
 - [Snowflake](snowflake.md)
@@ -349,12 +356,12 @@ Massively Parallel Processing databases - horizontally scaling databases:
 
 See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more distributed SQL databases.
 
-#### Database Management
+### Database Management
 
 - [LiquiBase](liquibase.md) TODO
 - [AtlasGo](atlasgo.md)
 
-### NoSQL
+## NoSQL
 
 - [Cassandra](cassandra.md) TODO
 - [Couchbase](couchbase.md)
@@ -363,7 +370,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Neo4j](neo4j.md)
 - [Consul](consul.md)
 
-### Caching
+## Caching
 
 - [Redis](redis.md) TODO
 - [Memcached](memcached.md)
@@ -371,7 +378,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Couchbase](couchbase.md)
 - [Oracle Coherence](coherence.md)
 
-### Search
+## Search
 
 - [Search](search.md)
 - [Elasticsearch](elasticsearch.md)
@@ -379,14 +386,14 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Solr](solr.md)
 - [Logstash](logstash.md) TODO
 
-### Pub/Sub & Message Queues
+## Pub/Sub & Message Queues
 
 - [Pub/Sub & Message Queues](pubsub.md)
 - [Kafka](kafka.md)
 - [Celery](celery.md)
 - for Kinesis see [AWS](aws.md)
 
-### Data
+## Data
 
 - [Data](data.md)
 - [Big Data](big-data.md)
@@ -395,7 +402,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Apache Camel](camel.md)
 - [JSON](json.md)
 
-### Hadoop Ecosystem
+## Hadoop Ecosystem
 
 - [Spark](spark.md) TODO
 - [Kafka](kafka.md)
@@ -415,7 +422,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Mahout](mahout.md)
 - [ZooKeeper](zookeeper.md)
 
-### Data Science
+## Data Science
 
 - [Data Science](data-science.md) TODO
 - [Python](python.md)
@@ -423,23 +430,23 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [R](r.md) TODO
 - [Octave](octave.md) TODO
 
-### Time Series Databases
+## Time Series Databases
 
 - [OpenTSDB](opentsdb.md) TODO
   - [TCollector](tcollector.md) TODO
 - [InfluxDB](influxdb.md)
   - [Kapacitor](kapacitor.md)
 
-### Visualization
+## Visualization
 
 - [Tableau](tableau.md)
 
-### Performance Engineering
+## Performance Engineering
 
 - [Performance Engineering](performance.md)
 - [Stress Testing](stress-testing.md)
 
-### Security
+## Security
 
 - [Security](security.md) TODO
 - [SSL](ssl.md) TODO
@@ -449,7 +456,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Penetration Testing](pentesting.md) TODO
 - [Secrets Managers](secrets-managers.md)
 
-### Virtualization
+## Virtualization
 
 - [Virtualization](virtualization.md)
 - [VirtualBox](virtualbox.md)
@@ -458,12 +465,12 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [OpenStack](openstack.md) TODO
 - [KVM](kvm.md)
 
-### Hardware
+## Hardware
 
 - [Hardware](hardware.md)
 - [Storage](storage.md)
 
-### Networking
+## Networking
 
 - [Networking](networking.md) TODO
 - [VPNs](vpn.md)
@@ -472,13 +479,13 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Foundry](foundry.md) TODO
 - [Keepalived](keepalived.md)
 
-### Load Balancing
+## Load Balancing
 
 - [Load Balancing](load-balancing.md) TODO
 - [HAProxy](haproxy.md)
 - [F5](f5.md)
 
-### Monitoring
+## Monitoring
 
 - [Monitoring](monitoring.md)
 - [Nagios](nagios.md)
@@ -489,7 +496,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
   - [PagerDuty](pagerduty.md) TODO
 - [Fluentd](fluentd.md)
 
-### Misc
+## Misc
 
 - [DevOps Misc](devops.md)
 - [Dev Misc](dev.md)
@@ -510,46 +517,10 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Travel](travel.md)
 - [Banking](banking.md)
 
-#### Old
+### Old
 
 - [Mesos](mesos.md)
 - [Hazelcast](hazelcast.md)
-
-## See Also
-
-For tonnes of great free tech programs and scripts, see also:
-
-- [DevOps Bash Tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts, Advanced `.bashrc`, `.vimrc`, `.screenrc`, `.tmux.conf`, `.gitconfig`, CI configs & Utility Code Library - AWS, GCP, Kubernetes, Docker, Kafka, Hadoop, SQL, BigQuery, Hive, Impala, PostgreSQL, MySQL, LDAP, DockerHub, Jenkins, Spotify API & MP3 tools, Git tricks, GitHub API, GitLab API, BitBucket API, Code & build linting, package management for Linux / Mac / Python / Perl / Ruby / NodeJS / Golang, and lots more random goodies
-
-- [DevOps Python Tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps CLI tools for AWS, GCP, Hadoop, HBase, Spark, Log Anonymizer, Ambari Blueprints, AWS CloudFormation, Linux, Docker, Spark Data Converters & Validators (Avro / Parquet / JSON / CSV / INI / XML / YAML), Elasticsearch, Solr, Travis CI, Pig, IPython
-
-- [SQL Scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, AWS Athena, Google BigQuery
-
-- [Jenkins](https://github.com/HariSekhon/Jenkins) - Advanced Jenkinsfile & Jenkins Groovy Shared Library
-
-- [GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) - GitHub Actions master template & GitHub Actions Shared Workflows library
-
-- [Templates](https://github.com/HariSekhon/Templates) - dozens of Code & Config templates - AWS, GCP, Docker, Jenkins, Terraform, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, GitHub Actions Workflows, CircleCI, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, M4 etc.
-
-- [Kubernetes configs](https://github.com/HariSekhon/Kubernetes-configs) - Kubernetes YAML configs - Best Practices, Tips & Tricks are baked right into the templates for future deployments
-
-- [Terraform](https://github.com/HariSekhon/Terraform) - Terraform templates for AWS / GCP / Azure / GitHub management
-
-- [The Advanced Nagios Plugins Collection](https://github.com/HariSekhon/Nagios-Plugins) - 450+ programs for Nagios monitoring your Hadoop & NoSQL clusters. Covers every Hadoop vendor's management API and every major NoSQL technology (HBase, Cassandra, MongoDB, Elasticsearch, Solr, Riak, Redis etc.) as well as message queues (Kafka, RabbitMQ), continuous integration (Jenkins, Travis CI) and traditional infrastructure (SSL, Whois, DNS, Linux)
-
-- [Nagios Plugin Kafka](https://github.com/HariSekhon/Nagios-Plugin-Kafka) - Kafka API pub/sub Nagios Plugin written in Scala with Kerberos support
-
-- [DevOps Perl Tools](https://github.com/harisekhon/perl-tools) - 25+ DevOps CLI tools for Hadoop, HDFS, Hive, Solr/SolrCloud CLI, Log Anonymizer, Nginx stats & HTTP(S) URL watchers for load balanced web farms, Dockerfiles & SQL ReCaser (MySQL, PostgreSQL, AWS Redshift, Snowflake, Apache Drill, Hive, Impala, Cassandra CQL, Microsoft SQL Server, Oracle, Couchbase N1QL, Dockerfiles, Pig Latin, Neo4j, InfluxDB), Ambari FreeIPA Kerberos, Datameer, Linux...
-
-- [HAProxy Configs](https://github.com/HariSekhon/HAProxy-configs) - 80+ HAProxy Configs for Hadoop, Big Data, NoSQL, Docker, Elasticsearch, SolrCloud, HBase, Cloudera, Hortonworks, MapR, MySQL, PostgreSQL, Apache Drill, Hive, Presto, Impala, ZooKeeper, OpenTSDB, InfluxDB, Prometheus, Kibana, Graphite, SSH, RabbitMQ, Redis, Riak, Rancher etc.
-
-- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Mesos, Consul, Riak, OpenTSDB, Jython, Advanced Nagios Plugins & DevOps Tools repos on Alpine, CentOS, Debian, Fedora, Ubuntu, Superset, H2O, Serf, Alluxio / Tachyon, FakeS3
-
-- [HashiCorp Packer templates](https://github.com/HariSekhon/Packer-templates) - Linux automated bare-metal installs and portable virtual machines OVA format appliances using HashiCorp Packer, Redhat Kickstart, Debian Preseed and Ubuntu AutoInstaller / Cloud-Init
-
-- [Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - Cloud & Open Source architecture diagrams with Python & D2 source code provided - automatically regenerated via GitHub Actions CI/CD - AWS, GCP, Kubernetes, Jenkins, ArgoCD, Traefik, Kong API Gateway, Nginx, Redis, PostgreSQL, Kafka, Spark, web farms, event processing...
-
-[Pre-built Docker images](https://hub.docker.com/u/harisekhon/) are available for those repos (which include this one as a submodule) and the ["docker available"](https://hub.docker.com/r/harisekhon/centos-github/) icon above links to an [uber image](https://hub.docker.com/r/harisekhon/centos-github/) which contains all my github repos pre-built. There are [Centos](https://hub.docker.com/r/harisekhon/centos-github/), [Alpine](https://hub.docker.com/r/harisekhon/alpine-github/), [Debian](https://hub.docker.com/r/harisekhon/debian-github/) and [Ubuntu](https://hub.docker.com/r/harisekhon/ubuntu-github/) versions of this uber Docker image containing all repos.
 
 ## Stargazers over time
 
@@ -560,3 +531,74 @@ For tonnes of great free tech programs and scripts, see also:
 From my [LinkedIn](https://linkedin.com/in/HariSekhon):
 
 ![BForbidden Unix Knowledge](images/devops_apprentice_reads_from_ancient_books_of_forbidden_unix_knowledge.jpeg)
+
+## More Core Repos
+
+<!-- OTHER_REPOS_START -->
+
+### Knowledge
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Knowledge-Base&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Knowledge-Base)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Diagrams-as-Code&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Diagrams-as-Code)
+
+<!--
+
+Not support on GitHub Markdown:
+
+<iframe src="https://raw.githubusercontent.com/HariSekhon/HariSekhon/main/knowledge.md" width="100%" height="500px"></iframe>
+
+Does nothing:
+
+<embed src="https://raw.githubusercontent.com/HariSekhon/HariSekhon/main/knowledge.md" width="100%" height="500px" />
+
+-->
+
+### DevOps Code
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Python-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Python-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Perl-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Perl-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Golang-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Golang-tools)
+
+<!--
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=f8f551332440f1ca8897ff010e363e03)](https://gist.github.com/HariSekhon/f8f551332440f1ca8897ff010e363e03)
+-->
+
+### Containerization
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Dockerfiles&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Dockerfiles)
+
+### CI/CD
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
+
+### DBA - SQL
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=SQL-scripts&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/SQL-scripts)
+
+### DevOps Reloaded
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=HAProxy-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/HAProxy-configs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Terraform&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Terraform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Packer-templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer-templates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugin-Kafka&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
+
+### Misc
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Template-repo&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Template-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Spotify-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Spotify-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Spotify-playlists&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Spotify-playlists)
+
+The rest of my original source repos are
+[here](https://github.com/HariSekhon?tab=repositories&q=&type=source&language=&sort=stargazers).
+
+Pre-built Docker images are available on my [DockerHub](https://hub.docker.com/u/harisekhon/).
+
+<!-- 1x1 pixel counter to record hits -->
+![](https://hit.yhype.me/github/profile?user_id=2211051)
+
+<!-- OTHER_REPOS_END -->
