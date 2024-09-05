@@ -40,8 +40,11 @@ Define the list of extensions you want to install:
 
 ```shell
 EXTENSIONS="
-ms-python.python
+golang.go
 mads-hartmann.bash-ide-vscode
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
 yzhang.markdown-all-in-one
 "
 ```
@@ -63,4 +66,12 @@ Extension 'mads-hartmann.bash-ide-vscode' v1.42.0 was successfully installed.
 Installing extensions...
 Installing extension 'yzhang.markdown-all-in-one'...
 Extension 'yzhang.markdown-all-in-one' v3.6.2 was successfully installed.
+```
+
+```shell
+code --list-extensions
+```
+
+```shell
+code --uninstall-extension <extension-id>
 ```
