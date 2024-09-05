@@ -140,9 +140,10 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 ## Editors
 
-- [Editors](editors.md)
+- [Editors & IDEs](editors.md)
   - [Vim](vim.md)
   - [IntelliJ](intellij.md)
+  - [VS Code](vscode.md)
 - [Coder](coder.md)
 
 ## Architecture & Documentation
