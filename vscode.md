@@ -36,14 +36,25 @@ Ensure the `code` CLI binary is in your `$PATH` by adding this directory to the 
 code --install-extension <extension_id>
 ```
 
+Define the list of extensions you want to install:
+
 ```shell
-for x in \
-    mads-hartmann.bash-ide-vscode \
-    yzhang.markdown-all-in-one \
-    ; do
-    code --install-extension "$x"
+EXTENSIONS="
+ms-python.python
+mads-hartmann.bash-ide-vscode
+yzhang.markdown-all-in-one
+"
+```
+
+Iterate `code --install-extension` over them:
+
+```shell
+for extension in $EXTENSIONS; do
+    code --install-extension "$extension"
 done
 ```
+
+output:
 
 ```none
 Installing extensions...
