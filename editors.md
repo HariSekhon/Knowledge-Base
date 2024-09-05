@@ -32,7 +32,8 @@ See [vim.md](vim.md).
 
 - [IntelliJ IDEA](intellij.md) - the modern popular IDE - proprietary but has a free version
   - [PyCharm](https://www.jetbrains.com/pycharm/) - Python only cousin of IDEA
-- [Eclipse](https://www.eclipse.org/) - open source IDE. Most prefer IntelliJ as it's slicker
+- [VS Code](https://code.visualstudio.com/) - Microsoft's popular IDE
+- [Eclipse](https://www.eclipse.org/) - old open source IDE. Most prefer IntelliJ as it's slicker
 
 ## Editor Config
 
