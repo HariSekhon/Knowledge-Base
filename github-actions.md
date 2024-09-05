@@ -77,4 +77,35 @@ Open [Diagrams-as-Code README.md](https://github.com/HariSekhon/Diagrams-as-Code
 
 ![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/github_actions_cicd.svg)
 
+## Troubleshooting
+
+### Executable `/opt/hostedtoolcache/...` not found
+
+```none
+Executable `/opt/hostedtoolcache/Ruby/3.3.4/x64/bin/ruby` not found
+```
+
+This was caused by stale cache when the `ruby/setup-ruby@v1` action updated the minor version from `3.3.4` to `3.3.5`
+leading to the above cached `ruby` binary path using `3.3.4` not being found.
+
+Solution: Delete the Cache and then re-run.
+
+Via UI:
+
+```none
+https://github.com/<OWNER>/<REPO>/actions/caches
+```
+
+or
+
+Via GitHub CLI in the git checkout:
+
+```shell
+gh cache list
+```
+
+```shell
+gh cache delete "$cache_id"  # from above command
+```
+
 **Ported from private Knowledge Base page 2019+**
