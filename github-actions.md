@@ -9,6 +9,8 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
   - [Limitations](#limitations)
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
 - [Diagram - GitHub Actions CI/CD to auto-(re)generate diagrams from code changes](#diagram---github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes)
+- [Troubleshooting](#troubleshooting)
+  - [Executable `/opt/hostedtoolcache/...` not found](#executable-opthostedtoolcache-not-found)
 
 <!-- INDEX_END -->
 
