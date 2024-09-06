@@ -1,4 +1,4 @@
-# Commands
+# Advanced & Third Party Commands
 
 More commands to supplement [Bash / Shell Scripting](bash.md).
 
