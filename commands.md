@@ -7,6 +7,7 @@ More commands to supplement [Bash / Shell Scripting](bash.md).
 - [Terminal Trove](#terminal-trove)
 - [Awesome Lists](#awesome-lists)
 - [Third Party Tools](#third-party-tools)
+  - [JSON](#json)
   - [tldr](#tldr)
   - [fzf](#fzf)
   - [navi](#navi)
@@ -38,6 +39,10 @@ Treasure trove off CLI tools.
 <https://github.com/toolleeo/cli-apps>
 
 ## Third Party Tools
+
+### JSON
+
+See the [JSON tools](json.md) page.
 
 ### tldr
 
