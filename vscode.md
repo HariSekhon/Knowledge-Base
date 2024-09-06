@@ -40,13 +40,42 @@ Define the list of extensions you want to install:
 
 ```shell
 EXTENSIONS="
+dbaeumer.vscode-eslint
 golang.go
 mads-hartmann.bash-ide-vscode
+msazurermtools.azurerm-vscode-tools
+ms-azure-devops.azure-pipelines
+ms-azuretools.vscode-azurecontainerapps
+ms-azuretools.vscode-azureresourcegroups
+ms-azuretools.vscode-azurestaticwebapps
+ms-azuretools.vscode-azurestorage
+ms-azuretools.vscode-azureterraform
+ms-azuretools.vscode-azurevirtualmachines
+ms-azuretools.vscode-cosmosdb
+ms-kubernetes-tools.vscode-aks-tools
+ms-kubernetes-tools.vscode-kubernetes-tools
+ms-ossdata.vscode-postgresql
+ms-python.autopep8
 ms-python.debugpy
+ms-python.black-formatter
+ms-python.flake8
 ms-python.python
+ms-python.pylint
 ms-python.vscode-pylance
+ms-mssql.mssql
+ms-toolsai.vscode-ai
+ms-vscode.azurecli
+ms-vscode.azure-repos
+ms-vscode.cmake-tools
+ms-vscode.makefile-tools
+ms-vscode.vscode-node-azure-pack
+ms-vscode.vscode-typescript-next
+vsciot-vscode.azure-iot-toolkit
+vscjava.vscode-maven
+vscjava.vscode-gradle
 yzhang.markdown-all-in-one
 "
+#ms-vscode.powershell
 ```
 
 Iterate `code --install-extension` over them:
