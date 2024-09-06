@@ -489,6 +489,12 @@ See also [HariSekhon/Nagios Plugins](https://github.com/HariSekhon/Nagios-Plugin
 docker service create --replicas=1 --name prometheus -p 9090:9090 -v prometheus.yml:/etc/prometheus/prometheus.yml prom/prometheus
 ```
 
+## Third Party Tools
+
+<ctophttps://github.com/bcicen/ctop>
+
+<https://github.com/jesseduffield/lazydocker>
+
 ## Troubleshooting
 
 ### DNS Issues
