@@ -35,6 +35,7 @@ Lightweight application containers containing app + all dependencies.
   - [Delete Dangling Docker Images](#delete-dangling-docker-images)
   - [Delete Old Docker Images](#delete-old-docker-images)
 - [Monitoring / Prometheus Scrape Target](#monitoring--prometheus-scrape-target)
+- [Third Party Tools](#third-party-tools)
 - [Troubleshooting](#troubleshooting)
   - [DNS Issues](#dns-issues)
   - [Elasticsearch 5.0 Docker error](#elasticsearch-50-docker-error)
