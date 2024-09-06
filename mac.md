@@ -27,6 +27,10 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Open](#open)
   - [Clipboard](#clipboard)
   - [Screenshots](#screenshots)
+    - [Screenshot the Whole Screen](#screenshot-the-whole-screen)
+    - [Screenshot a Selection - Drag a Rectangle](#screenshot-a-selection---drag-a-rectangle)
+    - [The Screenshot.app](#the-screenshotapp)
+    - [The Screencapture CLI](#the-screencapture-cli)
   - [Flush the DNS Cache](#flush-the-dns-cache)
   - [Set DNS Servers](#set-dns-servers)
   - [Set DNS Search Domain](#set-dns-search-domain)
@@ -38,9 +42,17 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Finding Files - Spotlight Search and Index Management](#finding-files---spotlight-search-and-index-management)
   - [Launchctl](#launchctl)
   - [Disk Management](#disk-management)
+    - [CLI Disk Management](#cli-disk-management)
+    - [List disks](#list-disks)
+    - [Mount a partition](#mount-a-partition)
+    - [Partition and Format a disk](#partition-and-format-a-disk)
+      - [Multiple Partition and Format](#multiple-partition-and-format)
+    - [Erase a disk before decommissioning it](#erase-a-disk-before-decommissioning-it)
+      - [WARNING: disk numbers may shunt up in numbers as you insert more removal drives, especially for 'synthesized' virtual disks that display for volume containers](#warning-disk-numbers-may-shunt-up-in-numbers-as-you-insert-more-removal-drives-especially-for-synthesized-virtual-disks-that-display-for-volume-containers)
   - [Service Management](#service-management)
 - [Creating Bootable CDs & USBs from ISOs](#creating-bootable-cds--usbs-from-isos)
   - [Other Options](#other-options)
+    - [CLI](#cli)
 
 <!-- INDEX_END -->
 
@@ -93,7 +105,7 @@ by pressing F3 and then hovering on and clicking the X to delete the extra works
 
 Unfortunately, Remote Desktop still seems to slide and send to fullscreen in another temporary desktop workspace.
 
-### Raycast
+## Raycast
 
 Shortcut to everything - install and then hit `Option` + `Space` to bring it up.
 
