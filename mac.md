@@ -20,6 +20,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Stats Bar](#stats-bar)
 - [Rearrange Status Bar Icons](#rearrange-status-bar-icons)
 - [Reducing Desktop Workspaces](#reducing-desktop-workspaces)
+- [Raycast](#raycast)
 - [Commands](#commands)
   - [Search for or open anything](#search-for-or-open-anything)
   - [Open URL from Terminal output](#open-url-from-terminal-output)
@@ -91,6 +92,12 @@ by apps like Windows Virtual Desktop in Remote Desktop opening to full screen, a
 by pressing F3 and then hovering on and clicking the X to delete the extra workspaces.
 
 Unfortunately, Remote Desktop still seems to slide and send to fullscreen in another temporary desktop workspace.
+
+### Raycast
+
+Shortcut to everything - install and then hit `Option` + `Space` to bring it up.
+
+<https://www.raycast.com/>
 
 ## Commands
 
