@@ -15,6 +15,7 @@
   - [Diagram - Multi-Datacenter Web Stack](#diagram---multi-datacenter-web-stack)
   - [Diagram - Kubernetes Traefik Web Architecture](#diagram---kubernetes-traefik-web-architecture)
   - [Diagram - Kubernetes Kong Web Architecture](#diagram---kubernetes-kong-web-architecture)
+  - [Diagram - Rest vs GraphQL](#diagram---rest-vs-graphql)
 
 <!-- INDEX_END -->
 
@@ -34,40 +35,44 @@ List of SSGs:
 
 ### Diagram - Web Basics
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/web_basics.svg)
+![Web Basics](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/web_basics.svg)
 
 ### Diagram - AWS Web Traffic Classic
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/aws_web_traffic_classic.png)
+![AWS Web Traffic Classic](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/aws_web_traffic_classic.png)
 
 ### Diagram - AWS Load Balanced Web Farm
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/aws_load_balanced_web_farm.png)
+![AWS Load Balanced Web Farm](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/aws_load_balanced_web_farm.png)
 
 ### Diagram - AWS Clustered Web Services
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/aws_clustered_web_services.png)
+![AWS Clustered Web Services](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/aws_clustered_web_services.png)
 
 ### Diagram - Web MySQL Replica Architecture
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/mysql_replica_architecture.svg)
+![Web MySQL Replica Architecture](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/mysql_replica_architecture.svg)
 
 ### Diagram - Advanced Web Services Open Source
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/advanced_web_services_open_source.png)
+![Advanced Web Services Open Source](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/advanced_web_services_open_source.png)
 
 ### Diagram - Cloudflare and Kubernetes Web Architecture
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/gcp_cloudflare_web_architecture_gke.png)
+![Cloudflare and Kubernetes Web Architecture](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/gcp_cloudflare_web_architecture_gke.png)
 
 ### Diagram - Multi-Datacenter Web Stack
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/multi_dc_gslb_f5_java_stack.png)
+![Multi-Datacenter Web Stack](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/multi_dc_gslb_f5_java_stack.png)
 
 ### Diagram - Kubernetes Traefik Web Architecture
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/kubernetes_traefik_ingress_gke.png)
+![Kubernetes Traefik Web Architecture](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/kubernetes_traefik_ingress_gke.png)
 
 ### Diagram - Kubernetes Kong Web Architecture
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/kubernetes_kong_api_gateway_eks.png)
+![Kubernetes Kong Web Architecture](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/kubernetes_kong_api_gateway_eks.png)
+
+### Diagram - Rest vs GraphQL
+
+![Rest vs GraphQL](images/rest_vs_graphql.gif)
