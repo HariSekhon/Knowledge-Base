@@ -5,6 +5,7 @@
 - [CIDR visualizer](#cidr-visualizer)
 - [VPNs](#vpns)
 - [Browser Fingerprinting](#browser-fingerprinting)
+- [I2P](#i2p)
 - [Commands](#commands)
   - [Show routing table](#show-routing-table)
   - [DNS lookup](#dns-lookup)
@@ -39,6 +40,14 @@ Documentation:
 Open source library (TODO read this code):
 
 <https://github.com/fingerprintjs/fingerprintjs>
+
+## I2P
+
+<https://geti2p.net/>
+
+Invisible Internet Protocol.
+
+Anonymous internet network layer to route traffic through.
 
 ## Commands
 
