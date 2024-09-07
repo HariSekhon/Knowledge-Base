@@ -269,7 +269,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 - [Build Systems](build-systems.md)
 - [Make](make.md)
-- [Maven](maven.md) TODO
+- [Maven](maven.md)
 - [Gradle](gradle.md)
 - [SBT](sbt.md)
 
@@ -318,7 +318,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 - [Code Scanning](code-scanning.md)
 - [Code Quality](code-quality.md)
-- [SonarQube](sonarqube.md) TODO
+- [SonarQube](sonarqube.md)
 - [CodeClimate](codeclimate.md)
 - [Codefresh](codefresh.md)
 
@@ -434,8 +434,8 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 ## Time Series Databases
 
-- [OpenTSDB](opentsdb.md) TODO
-  - [TCollector](tcollector.md) TODO
+- [OpenTSDB](opentsdb.md)
+  - [TCollector](tcollector.md)
 - [InfluxDB](influxdb.md)
   - [Kapacitor](kapacitor.md)
 
