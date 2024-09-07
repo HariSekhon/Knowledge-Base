@@ -6,7 +6,7 @@ Run small services that do one thing well.
 
 It is the services equivalent of the 50 year battle-test unix core utils philosophy.
 
-These services communicate with each other via APIs, typically simple
+These services communicate with each other via [APIs](api.md), typically simple
 [HTTPS Rest APIs](https://www.redhat.com/en/topics/api/what-is-a-rest-api).
 
 However, while these smaller distributed services reduce monolithic code complexity by decoupling as much as
