@@ -251,6 +251,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [Groovy](groovy.md)
   - [Scala](scala.md) TODO
   - [log4j](log4j.md)
+- [APIs](api.md)
 - [Regular Expressions](regex.md)
 
 ## Configuration Management
@@ -328,6 +329,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [CDNs](cdn.md)
   - [Cloudflare](cloudflare.md)
 - [HTTP Proxying](http-proxying.md)
+- [APIs](api.md)
 
 ## Databases / RDBMS
 
