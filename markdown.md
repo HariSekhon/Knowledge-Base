@@ -1,9 +1,8 @@
-# Documentation-as-Code
+# Markdown
 
 <!-- INDEX_START -->
 
-- [Markdown, GitHub, `README.md`](#markdown-github-readmemd)
-  - [GitHub Markdown Documentation](#github-markdown-documentation)
+- [GitHub `README.md`](#github-readmemd)
 - [MKDocs](#mkdocs)
 - [Markdown Best Practices](#markdown-best-practices)
   - [Lint your Markdown](#lint-your-markdown)
@@ -19,12 +18,10 @@
 
 <!-- INDEX_END -->
 
-## Markdown, GitHub, `README.md`
+## GitHub `README.md`
 
 Document right in your Git repo by creating a `README.md` and have your Git repo hosting platform render it as your
 repo's home page - put links in it to your other markdown `*.md` doc files in your repo.
-
-### GitHub Markdown Documentation
 
 [GitHub Markdown Syntax Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
