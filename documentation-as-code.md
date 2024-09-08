@@ -11,6 +11,7 @@
   - [Code Blocks vs Inline Code](#code-blocks-vs-inline-code)
   - [Syntax Highlighting](#syntax-highlighting)
   - [IntelliJ Code Block Execution](#intellij-code-block-execution)
+- [Emojis](#emojis)
 - [Badges & Icons](#badges--icons)
   - [Badges](#badges)
   - [Icons](#icons)
@@ -93,7 +94,6 @@ closing code block for markdown_generate_index.sh
 to enable to code to exclude code block opening/closing pairs
 from generating comment comments into headings
 
-```
 ```
 
 -->
