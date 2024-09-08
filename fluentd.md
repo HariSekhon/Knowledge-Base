@@ -31,14 +31,18 @@ Log streaming agent by Treasure Data.
 
 ## Key Points
 
-- log collector written in C + Ruby
-- better performance + smaller memory footprint than [LogStash](logstash.md)
+- versatile log collector written in C + Ruby
+- 500+ plugins
+- better performance and smaller memory footprint than [LogStash](logstash.md)
 - treats logs in JSON
 - scales (largest user 50,000+ servers)
 - Ruby 2.1 + ruby-dev to build gem, or install rpm from Treasure Data repo
 - spools buffer to disk - data loss only if disk is lost or proc dies in between receive + write to disk (flush interval)
 - lot of new params in 0.14 eg. `@type tail`
 - Fluentd => MongoDB tried by many users, doesn't scale well
+- often used with [Elasticsearch](elasticsearch.md) and [Kibana](kibana.md) - called the EFK stack for each technology
+  - can also be used with Prometheus
+- often used in Kubernetes, cloud-native and [microservices](microservices.md) environments
 
 DockerHub image:
 
