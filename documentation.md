@@ -67,7 +67,7 @@ Ping me if there is a great popular open source one you think deserves to be lis
 Document right in your Git repo as `README.md` and have your Git repo hosting platform render it as your repo's home
 page - put links in it to your other markdown `*.md` doc files in your repo.
 
-See [Documentation-as-Code](documentation-as-code.md) page.
+See the [Markdown](markdown.md) page.
 
 ## Datacenter Documentation
 
