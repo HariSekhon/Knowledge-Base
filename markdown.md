@@ -221,5 +221,6 @@ for convenience:
 This is not my real number. Recruiters please do not call it.
 
 Also, if you have my real number, please do not call it.
-Always [LinkedIn](https://www.linkedin.com/in/HariSekhon) message me instead and read my profile's summary
+
+Always message me on [LinkedIn](https://www.linkedin.com/in/HariSekhon) instead after reading my profile's summary
 bullet point criteria - it'll give you nearly everything you need to know about my availability and preferences.
