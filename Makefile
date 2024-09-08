@@ -40,8 +40,8 @@ build: init
 	@echo
 	@#$(MAKE) generate-index
 	@$(MAKE) index
-	@$(MAKE) mdl
 	@$(MAKE) references
+	@$(MAKE) mdl
 	@echo
 	@#$(MAKE) pre-commit
 	@echo "All Checks Passed"
