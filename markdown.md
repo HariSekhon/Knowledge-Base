@@ -215,7 +215,7 @@ Support mobile phone numbers should be created as WhatsApp links to allow one-cl
 for convenience:
 
 ```markdown
-[+44 0776 999 1234](https://wa.me/447769991234)
+[+44 776 999 1234](https://wa.me/447769991234)
 ```
 
 This is not my real number. Recruiters please do not call it.
