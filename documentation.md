@@ -51,7 +51,7 @@ There are many different Wiki softwares:
 - [GitHub Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis) -
   every GitHub repo comes with one, but seriously, who uses this when there is
   [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-  (`README.md` - see [Documentation-as-Code](documentation-as-code.md))
+  (`README.md` - see [Markdown](markdown.md) tips page)
   - [GitLab](https://docs.gitlab.com/ee/user/project/wiki/) and
   [Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/project/wiki/wiki-create-repo?view=azure-devops)
   also have Wikis, but see [CI/CD](ci-cd.md) for why not to bother with those platforms any more
