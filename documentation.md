@@ -104,3 +104,16 @@ for convenience:
 ```web
 https://wa.me/<PhoneNumber>
 ```
+
+where `<PhoneNumber>` should include the country code without the leading `00` or `+` eg. for `+447769991234` it would be:
+
+```web
+https://wa.me/447769991234
+```
+
+This is not my real number. Recruiters please do not call it.
+
+Also, if you have my real number, please do not call it.
+
+Always message me on [LinkedIn](https://www.linkedin.com/in/HariSekhon) instead after reading my profile's summary
+bullet point criteria - it'll give you nearly everything you need to know about my availability and preferences.
