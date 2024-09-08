@@ -135,6 +135,14 @@ echo "execute this command"
 echo execute this command
 ```
 
+## Emojis
+
+You can put emojis in literally or using shortcodes.
+
+Here is a repo listing them:
+
+<https://github.com/ikatyang/emoji-cheat-sheet>
+
 ## Badges & Icons
 
 ### Badges
