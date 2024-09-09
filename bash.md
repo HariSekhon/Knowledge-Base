@@ -16,6 +16,7 @@ is one of the few use cases for that).
 - [Advanced Library of Scripts](#advanced-library-of-scripts)
 - [Perl, Awk, Sed](#perl-awk-sed)
 - [JSON](#json)
+- [Binary analysis](#binary-analysis)
 - [Commands](#commands)
 - [Tips & Tricks](#tips--tricks)
   - [Fifos](#fifos)
@@ -69,6 +70,10 @@ You also need to learn [Regex](regex.md) to use these tools effectively.
 ## JSON
 
 See the [JSON](json.md) doc for commands to help with processing JSON which is often output by modern Rest APIs.
+
+## Binary analysis
+
+See the [Binary](binary.md) doc for commands to analyze binaries.
 
 ## Commands
 
