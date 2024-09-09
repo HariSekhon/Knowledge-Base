@@ -4,6 +4,9 @@
 
 - [PaaS - Platform as a Service](#paas---platform-as-a-service)
 - [SSG - Static Site Generators](#ssg---static-site-generators)
+  - [Jekyll](#jekyll)
+  - [Hugo](#hugo)
+  - [Netlify](#netlify)
 - [Diagrams](#diagrams)
   - [Diagram - Web Basics](#diagram---web-basics)
   - [Diagram - AWS Web Traffic Classic](#diagram---aws-web-traffic-classic)
@@ -21,7 +24,7 @@
 
 ## PaaS - Platform as a Service
 
-See [PaaS](paas.md) doc.
+See the [PaaS](paas.md) doc.
 
 ## SSG - Static Site Generators
 
@@ -30,6 +33,36 @@ Generate static HTML pages from code or markdown. Jekyll is an obvious example, 
 List of SSGs:
 
 - <https://jamstack.org/generators/>
+
+### Jekyll
+
+<https://jekyllrb.com/>
+
+<https://github.com/jekyll/jekyll>
+
+GitHub Pages has native support for Jekyll.
+
+Written in Ruby.
+
+See this repo: [HariSekhon/CI-CD](https://github.com/HariSekhon/CI-CD)
+
+And this resulting GitHub Page: <https://harisekhon.github.io/CI-CD/>
+
+### Hugo
+
+<https://gohugo.io/>
+
+<https://github.com/gohugoio/hugo>
+
+Written in Go.
+
+Faster and simpler.
+
+### Netlify
+
+Builds [Jekyll](#jekyll) from GitHub repo integration for CI/CD upon pushes.
+
+<https://harisekhon.netlify.app/>
 
 ## Diagrams
 
