@@ -241,8 +241,6 @@ in Dark mode using HTML:
 
 <https://starchart.cc/>
 
-Seems to give longer history:
-
 [![Stargazers over time](https://starchart.cc/HariSekhon/Knowledge-Base.svg)](https://starchart.cc/HariSekhon/Knowledge-Base)
 
 ## Link Team Support Numbers to WhatsApp Desktop
