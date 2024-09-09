@@ -464,6 +464,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Keycloak](keycloak.md)
 - [Penetration Testing](pentesting.md) TODO
 - [Secrets Managers](secrets-managers.md)
+- [SOC - Security Operations Center](security-operations-center.md)
 
 ## Virtualization
 
