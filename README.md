@@ -38,7 +38,7 @@ References to official docs and some classic books are provided for those who wa
 
 ## Index
 
-Most of these pages are far from fully ported and populated yet from my private knowledge base pages, some are stubs
+Some of these pages are still in progress pending porting and populated yet from my private knowledge base pages, some are stubs
 pending migration.
 
 Hit the watch button on the top right for updates.
@@ -130,6 +130,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [direnv / `.envrc`](direnv.md)
   - [Advanced & Third Party Commands](commands.md)
 - [Disk Management](disk.md)
+  - [Logging](logging.md)
 
 ## Core Services - DNS, DHCP, SSH, FTP
 
@@ -149,6 +150,8 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 ## Architecture & Documentation
 
+- [Architecture](architecture.md) TODO
+- [Product Selection](product-selection.md) TODO
 - [Diagrams-as-Code](diagrams.md)
   - [D2 lang](d2.md)
 - [Documentation](documentation.md)
@@ -193,7 +196,9 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 ## Kubernetes
 
 - [Kubernetes](kubernetes.md)
-  - [Kubernetes Upgrades](kubernetes-upgrades.md)
+- [Kubernetes Upgrades](kubernetes-upgrades.md)
+- [Traefik](traefik.md)
+- [Kong API Gateway](kong.md)
 - [Istio](istio.md) TODO
   - [Kiali](kiali.md)
 - [Kubeflow](kubeflow.md) TODO
@@ -349,7 +354,7 @@ Massively Parallel Processing databases - horizontally scaling databases:
 - [Greenplum](greenplum.md)
 - [Impala](impala.md) TODO
 - [Presto](presto.md)
-- [Apache Drill](drill.md) TODO
+- [Apache Drill](drill.md)
 
 ### Hosted MPP Databases
 
@@ -527,9 +532,9 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Mesos](mesos.md)
 - [Hazelcast](hazelcast.md)
 
-## Stargazers over time
+## Star History
 
-[![Stargazers over time](https://starchart.cc/HariSekhon/Knowledge-Base.svg)](https://starchart.cc/HariSekhon/Knowledge-Base)
+[![Star History Chart](https://api.star-history.com/svg?repos=HariSekhon/Knowledge-Base&type=Date)](https://star-history.com/#HariSekhon/Knowledge-Base&Date)
 
 ## Meme
 
