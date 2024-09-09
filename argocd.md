@@ -24,10 +24,14 @@ Declarative GitOps Continuous Delivery of applications on Kubernetes.
 - [Azure AD Authentication for SSO](#azure-ad-authentication-for-sso)
 - [Google Authentication for SSO](#google-authentication-for-sso)
   - [Troubleshooting GCP Auth](#troubleshooting-gcp-auth)
+    - [Getting immediately kicked back out when clicking the `Log in via Google` button](#getting-immediately-kicked-back-out-when-clicking-the-log-in-via-google-button)
+    - [ArgoCD web UI hands with "Loading" after Google login, check the logs](#argocd-web-ui-hands-with-loading-after-google-login-check-the-logs)
+    - [RBAC user wildcard `*` does not work in `policy.csv`](#rbac-user-wildcard--does-not-work-in-policycsv)
 - [GitHub Webhooks](#github-webhooks)
 - [CI/CD - Jenkins CI -> ArgoCD Integration](#cicd---jenkins-ci---argocd-integration)
 - [Prometheus metrics + Grafana dashboard](#prometheus-metrics--grafana-dashboard)
 - [Notifications](#notifications)
+- [Performance Tuning](#performance-tuning)
 - [Troubleshooting](#troubleshooting)
   - [Kustomize Manifest Generation Error](#kustomize-manifest-generation-error)
   - [Manifest cached error not updating in an hour](#manifest-cached-error-not-updating-in-an-hour)
@@ -375,6 +379,12 @@ ArgoCD, [Docker](docker.md), [GCP](gcp.md) and other technologies.
 ## Notifications
 
 [Official Doc - notifications](https://argo-cd.readthedocs.io/en/stable/operator-manual/notifications/)
+
+## Performance Tuning
+
+If you have a lot of applications, increase the number of replicas and set the corresponding environment variables:
+
+<https://github.com/argoproj/argo-cd/discussions/13964>
 
 ## Troubleshooting
 
