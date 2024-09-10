@@ -11,6 +11,7 @@ Shortcuts differ between Windows and Mac, and even between versions.
 - [IntelliJ IDEA vs PyCharm](#intellij-idea-vs-pycharm)
 - [Install](#install)
 - [Settings Sync](#settings-sync)
+- [Set Web Browser](#set-web-browser)
 - [Distraction Free Mode](#distraction-free-mode)
 - [Shortcuts](#shortcuts)
   - [The Ultimate Shortcut](#the-ultimate-shortcut)
@@ -33,10 +34,9 @@ Shortcuts differ between Windows and Mac, and even between versions.
   - [AI Plugins](#ai-plugins)
   - [Pair Programming](#pair-programming)
   - [More Plugins](#more-plugins)
-  - [Set Web Browser](#set-web-browser)
 - [Troubleshooting](#troubleshooting)
   - [External Tool - unexpected EOF while looking for matching `''](#external-tool---unexpected-eof-while-looking-for-matching-)
-    - [See Also](#see-also)
+- [See Also](#see-also)
 
 <!-- INDEX_END -->
 
@@ -67,6 +67,12 @@ Make sure to sync settings to JetBrains.
 `Settings` -> `Settings Sync` -> `Enable Settings Sync`
 
 Choose JetBrains (log in with GitHub account or other social login).
+
+## Set Web Browser
+
+Defaults to following the system default browser.
+
+`IntelliJ` -> `Settings` -> `Tools` -> `Web Browsers and Preview`
 
 ## Distraction Free Mode
 
@@ -416,12 +422,6 @@ idea installPlugins \
 - [MetricsReloaded](https://plugins.jetbrains.com/plugin/93-metricsreloaded)
 - [CPU Usage Indicator](https://plugins.jetbrains.com/plugin/8580-cpu-usage-indicator) - use [Stats](mac.md#stats-bar) on Mac instead
 
-### Set Web Browser
-
-Defaults to following the system default browser.
-
-`IntelliJ` -> `Settings` -> `Tools` -> `Web Browsers and Preview`
-
 ## Troubleshooting
 
 ### External Tool - unexpected EOF while looking for matching `''
@@ -447,7 +447,7 @@ The solution is to replace the single quotes with double quotes.
 -c "[ -f .envrc ] && . .envrc; markdown_replace_index.sh $FilePath$"
 ```
 
-#### See Also
+## See Also
 
 Expression Evaluation
 
