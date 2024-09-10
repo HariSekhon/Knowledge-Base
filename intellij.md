@@ -11,9 +11,13 @@ Shortcuts differ between Windows and Mac, and even between versions.
 - [IntelliJ IDEA vs PyCharm](#intellij-idea-vs-pycharm)
 - [Install](#install)
 - [Settings Sync](#settings-sync)
-- [The Ultimate Shortcut](#the-ultimate-shortcut)
+- [Distraction Free Mode](#distraction-free-mode)
+- [Shortcuts](#shortcuts)
+  - [The Ultimate Shortcut](#the-ultimate-shortcut)
+  - [Keyboard Shortcuts](#keyboard-shortcuts)
 - [Plugins](#plugins)
   - [Scripted Plugin Install](#scripted-plugin-install)
+  - [Manual Plugin Installation](#manual-plugin-installation)
   - [Docker, Kubernetes and Terraform](#docker-kubernetes-and-terraform)
   - [Languages](#languages)
   - [Core Editing, Git & File Formats](#core-editing-git--file-formats)
@@ -24,12 +28,15 @@ Shortcuts differ between Windows and Mac, and even between versions.
   - [Python](#python)
   - [JavaScript](#javascript)
   - [Java / Groovy / Scala / Kotlin & JVM Tools](#java--groovy--scala--kotlin--jvm-tools)
+  - [Misc Languages](#misc-languages)
   - [Debugging](#debugging)
   - [AI Plugins](#ai-plugins)
   - [Pair Programming](#pair-programming)
   - [More Plugins](#more-plugins)
+  - [Set Web Browser](#set-web-browser)
 - [Troubleshooting](#troubleshooting)
   - [External Tool - unexpected EOF while looking for matching `''](#external-tool---unexpected-eof-while-looking-for-matching-)
+    - [See Also](#see-also)
 
 <!-- INDEX_END -->
 
@@ -41,7 +48,8 @@ If you're a serious experienced programmer or 'DevOps' you're probably a polyglo
 
 In that case stick to full IntelliJ with plugins (see [Plugins](#plugins) section further down).
 
-Plugins supported in PyCharm are usually also compatible with Intellij IDEA too as they're based on the same IDE framework by IntelliJ.
+Plugins supported in PyCharm are usually also compatible with IntelliJ IDEA too as they're based on the same IDE
+framework by IntelliJ.
 
 ## Install
 
@@ -60,7 +68,15 @@ Make sure to sync settings to JetBrains.
 
 Choose JetBrains (log in with GitHub account or other social login).
 
-## The Ultimate Shortcut
+## Distraction Free Mode
+
+Hides all bars, max code space:
+
+`View` -> `Appearance` -> `Enter Distraction Free Mode`
+
+## Shortcuts
+
+### The Ultimate Shortcut
 
 `Cmd`-`Shift`-`A`
 
@@ -69,6 +85,41 @@ This will allow you to type to search and find any action and hit enter to open 
 This is useful because the internet is often wrong on the shortcuts depending on whether your're on Windows / Mac or different versions.
 
 This is the authoritative shortcut of what your local keyboard shortcuts really are.
+
+### Keyboard Shortcuts
+
+Alternative Keys when you see Windows vs Mac keyboard shortcuts:
+
+| Windows    | Mac          |
+|------------|--------------|
+| `Ctrl`     | `Cmd`        |
+| `Alt`      | `Option`     |
+| `Ctrl-Alt` | `Cmd-Option` |
+
+| Command                                      | Description                                                                                                                            |
+|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| `Cmd`-`;`                                    | Project Dialog configure JDK                                                                                                           |
+| `Cmd`-`,`                                    | Settings dialogue                                                                                                                      |
+| `Ctrl`-`Shift`-`T`                           | detect + put handlers around select code block                                                                                         |
+| `Ctrl`-`Alt`-`T`                             | select, Ctrl-W (to increase selection),  Right-click -> Surround With -> if, try/catch (finds + adds all exceptions), synchronized ... |
+| `Ctrl`-`W`                                   | increase selection                                                                                                                     |
+| `Ctrl`-`N`                                   | open class by name                                                                                                                     |
+| `Ctrl`-`Shift`-`N`                           | open file by name                                                                                                                      |
+| `Ctrl`-`Space`                               | autocomplete                                                                                                                           |
+| `Alt`-`F7`                                   | find all places class/variable/method under cursor is used                                                                             |
+| `Ctrl`-`Q`                                   | show doc for class/method under cursor                                                                                                 |
+| `Ctrl`-`B`                                   | jump to declaration                                                                                                                    |
+| `Ctrl`-`Alt`-`B`                             | jump to Abstract Method's implementation                                                                                               |
+| `Ctrl`-`F6`                                  | rename all locations of selected variable/method/class (Refactor -> Rename)                                                            |
+| `Ctrl`-`F12`                                 | show methods of class to jump to                                                                                                       |
+| `Ctrl`-`Shift`-`Space`                       | prompt for available methods/variables or objects of type if type specified on left                                                    |
+| `Ctrl`-`P`                                   | in parens() opens pop-up list of valid parameters                                                                                      |
+| `Ctrl`-`I`                                   | implements methods for class interface                                                                                                 |
+| `Ctrl`-`O`                                   | overrides method of class                                                                                                              |
+| `Alt`-`Insert` / `Code` -> `Generate`        | creates setters + getters                                                                                                              |
+| `Shift`-`F1` / `View` -> `External Document` | opens in browser                                                                                                                       |
+
+Code completion `Tab` to replace rest of name rather than Enter
 
 ## Plugins
 
@@ -90,7 +141,11 @@ install_intellij_plugins.sh
 
 You can add / comment / uncomment which plugins to install in the adjacent `setup/intellij-plugins.txt` config file in that same repo.
 
-Some useful plugins are listed below:
+### Manual Plugin Installation
+
+Can download plugin zips + install from disk where direct internet/proxy access is blocked (eg. banks).
+
+Zips must align to IntelliJ version.
 
 ### Docker, Kubernetes and Terraform
 
@@ -304,6 +359,17 @@ idea installPlugins \
   JRebelPlugin
 ```
 
+### Misc Languages
+
+- [Graph Database](https://plugins.jetbrains.com/plugin/20417-graph-database) - for Neo4J Cypher
+- [Pig](https://plugins.jetbrains.com/plugin/7203-pig) - for Apache Pig Latin
+
+```shell
+idea installPlugins \
+  com.albertoventurini.jetbrains.graphdbplugin \
+  org.apache.pig.plugin.idea
+```
+
 ### Debugging
 
 - [SpotBugs](https://plugins.jetbrains.com/plugin/14014-spotbugs)
@@ -350,6 +416,12 @@ idea installPlugins \
 - [MetricsReloaded](https://plugins.jetbrains.com/plugin/93-metricsreloaded)
 - [CPU Usage Indicator](https://plugins.jetbrains.com/plugin/8580-cpu-usage-indicator) - use [Stats](mac.md#stats-bar) on Mac instead
 
+### Set Web Browser
+
+Defaults to following the system default browser.
+
+`IntelliJ` -> `Settings` -> `Tools` -> `Web Browsers and Preview`
+
 ## Troubleshooting
 
 ### External Tool - unexpected EOF while looking for matching `''
@@ -374,3 +446,11 @@ The solution is to replace the single quotes with double quotes.
 ```none
 -c "[ -f .envrc ] && . .envrc; markdown_replace_index.sh $FilePath$"
 ```
+
+#### See Also
+
+Expression Evaluation
+
+Productivity Guide (tracks how often you use each shortcut)
+
+**Ported from various private Knowledge Base pages 2013+**
