@@ -4,36 +4,120 @@
 
 - [Editors](#editors)
   - [ViM](#vim)
+  - [Neovim](#neovim)
+  - [GNU Emacs](#gnu-emacs)
+  - [Nano](#nano)
 - [IDEs](#ides)
-- [Editor Config](#editor-config)
-- [Misc IDE Notes](#misc-ide-notes)
   - [IntelliJ IDEA](#intellij-idea)
+  - [PyCharm](#pycharm)
+  - [VS Code](#vs-code)
   - [Eclipse](#eclipse)
+- [Editor Config](#editor-config)
+- [Misc Eclipse IDE Notes](#misc-eclipse-ide-notes)
 
 <!-- INDEX_END -->
 
 ## Editors
 
-- [ViM](vim.md) - `vi` improved
-  - `vi` is the core editor available on every unix system
-  - basic knowledge of `vi` is a core skill for all unix / linux server administrators
-  - tonnes of plugins, highly extensible and widely used
-  - see my advanced [.vimrc](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.vimrc) for all
-    sorts of trips & tricks, hotkey linting and building, plugins etc.
-- Emacs - the other classic unix editor
-- Nano - simple editor, used by people scare of `vi`
-- Pico - simple editor from which Nano was forked
-
 ### ViM
 
-See [vim.md](vim.md).
+Vi iMproved.
+
+- `vi` was the core editor available on every unix system
+- `vim` means `vi` improved
+- highly configurable but steep learning curve
+- basic knowledge of `vi` is a core skill for all unix / linux server administrators
+- tonnes of plugins, highly extensible and widely used
+- see my advanced [.vimrc](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.vimrc) for all
+  sorts of trips & tricks, hotkey linting and building, plugins etc.
+
+See [vim.md](vim.md) for more details.
+
+### Neovim
+
+<https://github.com/neovim/neovim>
+
+Fork of vim above.
+
+- more actively developed
+- asynchronous plugins
+- extensible in Lua instead of vimscript
+- config can be in lua and vimscript
+- better external UI support
+- built-in terminal
+
+### GNU Emacs
+
+- advanced highly customizable programming editor written by unix veteran by Richard Stallman in 1976
+- steep learning curve like vim
+- git integration via Magit
+- can run shell commands and interact with system processes directly from Emac
+- modes for different programming languages and tasks:
+  - major modes provide features specific to a language or type of file (e.g., Python mode, HTML mode)
+  - minor modes add additional functionalities, such as enabling version control, spell-checking, or syntax highlighting
+- integration with external tools: Emacs supports a wide array of external tools, such as Git (via Magit), debuggers, shells, email clients, and more. You can run shell commands and interact with system processes directly from Emacs
+- people used to joke that Emacs stood for *"Eight Megabytes and Constantly Swapping"* thinking it was resource hungry
+  - contrast to today with [IntelliJ](intellij.md) sucking up 8GB of RAM!
+- extensible via Emacs Lisp (Elisp)
+
+### Nano
+
+<https://www.nano-editor.org/>
+
+Simple lightweight text editor for beginners.
+
+Easier to use than vim or emacs.
+
+Developed as an alternative to the pico text editor which was not entirely open source.
 
 ## IDEs
 
-- [IntelliJ IDEA](intellij.md) - the modern popular IDE - proprietary but has a free version
-  - [PyCharm](https://www.jetbrains.com/pycharm/) - Python only cousin of IDEA
-- [VS Code](https://code.visualstudio.com/) - Microsoft's popular IDE
-- [Eclipse](https://www.eclipse.org/) - old open source IDE. Most prefer IntelliJ as it's slicker
+### IntelliJ IDEA
+
+<https://www.jetbrains.com/idea/>
+
+State of the art modern popular IDE - proprietary but has a free version.
+
+- fast & slick
+- feature rich
+- highly extensible with tonnes of plugins
+  - (see [IntelliJ](intellij.md) page for many good ones)
+- built-in terminal
+- resource intensive - just buy a more powerful machine like my M3 Max, it's worth it
+
+The best of the best in my opinion.
+
+See the [IntelliJ IDEA](intellij.md) page for more.
+
+### PyCharm
+
+<https://www.jetbrains.com/pycharm/>
+
+Python-focused version of the grand daddy IntelliJ IDEA.
+
+### VS Code
+
+<https://code.visualstudio.com/>
+
+Microsoft's Visual Studio Code is a free modern popular open-source IDE with plugins.
+
+- IntelliSense - code completion
+- remote development extensions enable developers to work seamlessly on remote machines or containers, enhancing the
+  flexibility for those who work in cloud-based or server environments
+- built-in terminal
+- not quite as feature rich as Visual Studio
+
+Not as good as IntelliJ in my opinion.
+
+See the [VS Code](vscode.md) page for more details.
+
+### Eclipse
+
+<https://www.eclipse.org/>
+
+Old open source IDE.
+
+Most people prefer IntelliJ as it's much faster and slicker.
 
 ## Editor Config
 
@@ -41,82 +125,9 @@ See [vim.md](vim.md).
   md` in the repo home page
   - see my [.editorconfig](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.editorconfig)
 
-## Misc IDE Notes
+## Misc Eclipse IDE Notes
 
-### IntelliJ IDEA
-
-Get plugins:
-
-- SonarLint
-- Python
-- Scala
-- SBT
-- BashSupport
-- Ruby
-- Cypher (Neo4J)
-- Pig
-- Go
-
-#### Manual Installation
-
-Can download zips + install off disk where proxy blocked.
-
-Zips must align to IntelliJ version.
-
-#### See
-
-Expression Evaluation
-
-Productivity Guide (tracks how often you use each shortcut)
-
-#### Keyboard Shortcuts
-
-Alternative Keys when you see Windows vs Mac keyboard shortcuts:
-
-| Windows    | Mac          |
-|------------|--------------|
-| `Ctrl`     | `Cmd`        |
-| `Alt`      | `Option`     |
-| `Ctrl-Alt` | `Cmd-Option` |
-
-| Command                                      | Description                                                                                                                            |
-|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| `Cmd`-`;`                                    | Project Dialog configure JDK                                                                                                           |
-| `Cmd`-`,`                                    | Settings dialogue                                                                                                                      |
-| `Ctrl`-`Shift`-`T`                           | detect + put handlers around select code block                                                                                         |
-| `Ctrl`-`Alt`-`T`                             | select, Ctrl-W (to increase selection),  Right-click -> Surround With -> if, try/catch (finds + adds all exceptions), synchronized ... |
-| `Ctrl`-`W`                                   | increase selection                                                                                                                     |
-| `Ctrl`-`N`                                   | open class by name                                                                                                                     |
-| `Ctrl`-`Shift`-`N`                           | open file by name                                                                                                                      |
-| `Ctrl`-`Space`                               | autocomplete                                                                                                                           |
-| `Alt`-`F7`                                   | find all places class/variable/method under cursor is used                                                                             |
-| `Ctrl`-`Q`                                   | show doc for class/method under cursor                                                                                                 |
-| `Ctrl`-`B`                                   | jump to declaration                                                                                                                    |
-| `Ctrl`-`Alt`-`B`                             | jump to Abstract Method's implementation                                                                                               |
-| `Ctrl`-`F6`                                  | rename all locations of selected variable/method/class (Refactor -> Rename)                                                            |
-| `Ctrl`-`F12`                                 | show methods of class to jump to                                                                                                       |
-| `Ctrl`-`Shift`-`Space`                       | prompt for available methods/variables or objects of type if type specified on left                                                    |
-| `Ctrl`-`P`                                   | in parens() opens pop-up list of valid parameters                                                                                      |
-| `Ctrl`-`I`                                   | implements methods for class interface                                                                                                 |
-| `Ctrl`-`O`                                   | overrides method of class                                                                                                              |
-| `Alt`-`Insert` / `Code` -> `Generate`        | creates setters + getters                                                                                                              |
-| `Shift`-`F1` / `View` -> `External Document` | opens in browser                                                                                                                       |
-
-Code completion `Tab` to replace rest of name rather than Enter
-
-#### Set Web Browser
-
-Defaults to following the system default browser.
-
-`IntelliJ` -> `Settings` -> `Tools` -> `Web Browsers and Preview`
-
-#### Distraction Free Mode
-
-Hides all bars, max code space
-
-`View` -> `Appearance` -> `Enter Distraction Free Mode`
-
-### Eclipse
+I haven't used eclipse enough to warrant its own page, so here are some minor bits.
 
 `F3` on a class to go it it's definition
 
@@ -140,7 +151,7 @@ Eclipse JSONTools validation plugin (Help -> MarketPlace), but needs files to be
 
 IntelliJ also has JSON error validation, but it's not as good as it's hard to see underscores not the big red cross eclipse puts in the left column.
 
-#### Eclipse Plugins
+### Eclipse Plugins
 
 - CheckStyle
 - Cucumber
