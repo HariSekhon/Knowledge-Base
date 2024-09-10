@@ -555,9 +555,9 @@ sudo launchctl unload "/System/Library/LaunchDaemons/$name.plist"
 
 See [dhcp.md](dhcp.md) for a practical example of using this for the built-in tftp server for PXE boot installing Debian off your Mac.
 
-## Binary analysis
+## Binary Analysis
 
-See the [Binary](binary.md) doc for commands to analyze binaries.
+See the [Binary Analysis](binary-analysis.md) doc for commands to analyze binaries.
 
 ## Creating Bootable CDs & USBs from ISOs
 
