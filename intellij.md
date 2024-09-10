@@ -13,6 +13,7 @@ Shortcuts differ between Windows and Mac, and even between versions.
 - [The Ultimate Shortcut](#the-ultimate-shortcut)
 - [Plugins](#plugins)
   - [Useful Plugins](#useful-plugins)
+    - [Docker, Kubernetes and Terraform](#docker-kubernetes-and-terraform)
   - [Languages](#languages)
   - [Core Editing, Git & File Formats](#core-editing-git--file-formats)
   - [Usage Stats](#usage-stats)
@@ -26,6 +27,8 @@ Shortcuts differ between Windows and Mac, and even between versions.
   - [AI Plugins](#ai-plugins)
   - [Pair Programming](#pair-programming)
   - [More Plugins](#more-plugins)
+- [Troubleshooting](#troubleshooting)
+  - [External Tool - unexpected EOF while looking for matching `''](#external-tool---unexpected-eof-while-looking-for-matching-)
 
 <!-- INDEX_END -->
 
@@ -335,3 +338,28 @@ idea installPlugins \
 - [CodeMetrics](https://plugins.jetbrains.com/plugin/12159-codemetrics)
 - [MetricsReloaded](https://plugins.jetbrains.com/plugin/93-metricsreloaded)
 - [CPU Usage Indicator](https://plugins.jetbrains.com/plugin/8580-cpu-usage-indicator) - use [Stats](mac.md#stats-bar) on Mac instead
+
+## Troubleshooting
+
+### External Tool - unexpected EOF while looking for matching `''
+
+When configuring External Tools to run scripts (recommended with hotkeys), you may encounter this error if using
+single quotes.
+
+```none
+[: -c: line 1: unexpected EOF while looking for matching `''
+```
+
+This is caused by an Args configuration like this (eg. for a Program: `bash`):
+
+```none
+-c 'if [ -f .envrc ]; then . .envrc; fi; markdown_replace_index.sh $FilePath$'
+```
+
+which works on the command line but not in IntelliJ.
+
+The solution is to replace the single quotes with double quotes.
+
+```none
+-c "if [ -f .envrc ]; then . .envrc; fi; markdown_replace_index.sh $FilePath$"
+```
