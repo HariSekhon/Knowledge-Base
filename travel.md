@@ -10,6 +10,10 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 - [Hotels vs Airbnb](#hotels-vs-airbnb)
   - [Parking](#parking)
 - [Mobile Internet Access](#mobile-internet-access)
+  - [EU](#eu)
+  - [Rest of World](#rest-of-world)
+    - [Digital e-sims](#digital-e-sims)
+- [Dining Out](#dining-out)
 - [Translation](#translation)
 - [Driving](#driving)
   - [Driving Checklist](#driving-checklist)
@@ -37,7 +41,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Dunkirk](#dunkirk)
     - [Paris](#paris)
   - [Germany](#germany)
-    - [Driving](#driving)
+    - [Driving in Germany](#driving-in-germany)
     - [Bonn](#bonn)
     - [Berlin](#berlin)
     - [Brandenburg](#brandenburg)
@@ -72,8 +76,10 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Philipines](#philipines)
     - [Manilla](#manilla)
   - [Serbia](#serbia)
-    - [Driving](#driving)
+    - [Indoor Smoking, Outdoor Smoking, Smoking Everywhere](#indoor-smoking-outdoor-smoking-smoking-everywhere)
+    - [Driving in Serbia](#driving-in-serbia)
     - [Belgrade](#belgrade)
+    - [Novi Sad](#novi-sad)
   - [Slovakia](#slovakia)
     - [Kosice](#kosice)
   - [South Africa](#south-africa)
@@ -127,7 +133,30 @@ Also, if you're only going into the centres in the evenings, often you can get c
 
 ## Mobile Internet Access
 
-Digital e-sims where you can buy data plans for a certain number of days.
+### EU
+
+I've used my UK sim from [Smarty](https://smarty.co.uk) across all the EU countries I visited as it permits use of your
+plan's bundled service within EU countries at no extra charge, and the monthly contract is cheap as chips.
+
+Now that is progress!
+
+- included calls
+- included texts
+- up to 12GB of your data plan
+  - I actually increased my data plan because I used it for GPS everywhere, and didn't want
+    to risk running out
+
+There is a tweak you need to make to your phone to enable it for roaming:
+
+<https://smarty.co.uk/roaming-setup>
+
+which basically comes down to changing your Mobile Service data MMS APN to `mob.asm.net` in your phone settings.
+
+### Rest of World
+
+#### Digital e-sims
+
+You can buy data plans for a certain number of days.
 
 Google [travel e-sims](https://www.google.com/search?q=travel+e-sims)
 and add the country you are travelling to for more options.
@@ -136,15 +165,37 @@ and add the country you are travelling to for more options.
   under the e-sim settings otherwise the internet won't connect
 - <https://esim.holafly.com/>
 
+## Dining Out
+
+Use [Google Maps](https://maps.google.com) - filter by:
+
+- `Top Rated` on phone or `4.5+` Star rating on desktop
+- Distance
+- Price eg. `£, ££` or `£££` if it's date night
+
+Places just outside the centres are often better value for money and top quality food,
+but some central places are great too.
+
+I leave a couple recommendations in each location listed below.
+
+Some places don't have English menus -
+these are often the best places that aren't so spoilt by foreign money and tourist trap
+churn allowing them to lower their standards.
+
+You will need to use a translation app ...
+
 ## Translation
 
-If travelling to a non-English primary country, I recommend downloading the Google Translate app,
-which translates from and to any language of your choice:
+If travelling to a non-English speaking country, I recommend downloading the
+[Google Translate](https://translate.google.com/about/) app:
 
-- translates typed words
-- translates spoken words into typed words and immediately translates them
-- translates pictures replacing words into another language
+- Translates typed words
+- Translates spoken words into typed words and immediately translates them
+- Translates pictures replacing words into another language
   - uses Google Lens [AI](ai.md)
+- Large list of supported languages
+- Optional: download language support when on wifi
+  - didn't notice this making much impact on my data plan either way
 
 ## Driving
 
@@ -351,7 +402,7 @@ The many Chateaux outside of Paris in the French countryside are nice though
 
 ### Germany
 
-#### Driving
+#### Driving in Germany
 
 The autobahn - the german highway - is long.
 
@@ -618,7 +669,27 @@ forces.
 
 I used the <https://www.airalo.com/> e-sim data only for $14 for 5GB valid for 30 days.
 
-#### Driving
+#### Indoor Smoking, Outdoor Smoking, Smoking Everywhere
+
+It is still legal to smoke indoors in Serbia.
+
+This really isn't the EU.
+
+Unfortunately people seem to smoke a lot in Serbia.
+I've changed tables while dinning outdoors at al fresco restaurants, only to have someone else then start smoking next
+to me at another table.
+
+I've moved indoor tables to escape from smokers,
+and even cut short a coffee evening in frustration with people chain-smoking nearby due to getting fed up with all the
+smoke inside the coffee shop.
+
+You have to feel sorry for the Serbian wait staff subjected to second-hand smoke all day every day at work.
+
+Quite shocking that Serbia permits this.
+
+I've asked the locals about this and they said there are a couple non-smoking venues *"but nobody goes there"*.
+
+#### Driving in Serbia
 
 Expect a 3 hour queues at the Serbian border.
 
@@ -640,7 +711,44 @@ the police themselves.
 
 #### Belgrade
 
-TODO
+The capital is reasonable in the center. Overall it is slightly cheaper to dine than other European cities.
+
+The top end of the range is typically comparable to other european cities.
+
+The lower end is typically about half that.
+
+[Street Pasta Bar - Sremska](https://maps.app.goo.gl/woUhBnmt8973aEqH7) - is my top pick here - cheap, fresh juices,
+good wifi and young crowd (probably due to it being cheap).
+I've spent many hours on their wifi with regular top ups of juices and smoothies because they're so affordable,
+on top of lunch and dinner.
+Closes earlier than other restaurants at 9pm so it's better as a daytime place.
+
+[Elephant's Food House](https://maps.app.goo.gl/aK24TL7T6c3cm3xKA) - another good cheap lunch type place.
+Closes early at 6pm.
+
+[Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) -
+good coffee shop with 2 levels right in the centre, often busy and open late until 11pm.
+
+[Burger House Bros Centar](https://maps.app.goo.gl/C5FyhgFp16gPN11H9) - very good burger restaurant
+
+[Boutique #2](https://maps.app.goo.gl/1svhc4v3bq3aAwfh7) - prime location restaurant for drinks or food on the main
+parade, very popular and good
+
+[Trattoria Pepe](https://maps.app.goo.gl/gdP9dLWxAVzGYEdV6) - excellent Italian 5 minutes walk from the centre -
+worth the walk
+
+#### Novi Sad
+
+Good central district of restaurants.
+
+Cheaper Airbnbs as 1.5 hour drive from Belgrade.
+
+[Petrus Caffe](https://maps.app.goo.gl/1sZJoLAsLn5Vkq6m8) - excellent restaurant, very popular with large outdoor
+seating area and excellent drinks menus
+
+[Loft Downtown](https://maps.app.goo.gl/xQdXBJek5JBX17i49) - very popular restaurant with outdoor seating
+
+[Bistro " Pastai"](https://maps.app.goo.gl/Vro8m7vM3eiKFzKn7) - a local cheap eat pasta place with good juices
 
 ### Slovakia
 
