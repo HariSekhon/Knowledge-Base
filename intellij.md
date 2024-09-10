@@ -13,7 +13,7 @@ Shortcuts differ between Windows and Mac, and even between versions.
 - [The Ultimate Shortcut](#the-ultimate-shortcut)
 - [Plugins](#plugins)
   - [Useful Plugins](#useful-plugins)
-    - [Docker, Kubernetes and Terraform](#docker-kubernetes-and-terraform)
+  - [Docker, Kubernetes and Terraform](#docker-kubernetes-and-terraform)
   - [Languages](#languages)
   - [Core Editing, Git & File Formats](#core-editing-git--file-formats)
   - [Usage Stats](#usage-stats)
@@ -81,7 +81,7 @@ install_intellij_plugins.sh
 
 You can add / comment / uncomment which plugins to install in the adjacent `setup/intellij-plugins.txt` config file in that same repo.
 
-#### Docker, Kubernetes and Terraform
+### Docker, Kubernetes and Terraform
 
 - [Docker](https://plugins.jetbrains.com/plugin/7724-docker)
 - [Terraform and HCL](https://plugins.jetbrains.com/plugin/7808-terraform-and-hcl)
