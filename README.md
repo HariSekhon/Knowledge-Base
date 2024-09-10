@@ -46,7 +46,7 @@ Hit the watch button on the top right for updates.
 <!-- INDEX_START -->
 
 - [GitHub Repos](#github-repos)
-- [Linux / Unix](#linux--unix)
+- [Operating Systems](#operating-systems)
 - [Core Services - DNS, DHCP, SSH, FTP](#core-services---dns-dhcp-ssh-ftp)
 - [Editors](#editors)
 - [Architecture & Documentation](#architecture--documentation)
@@ -87,9 +87,10 @@ Hit the watch button on the top right for updates.
 - [Networking](#networking)
 - [Load Balancing](#load-balancing)
 - [Monitoring](#monitoring)
-- [Misc](#misc)
+- [Vendors](#vendors)
+- [Miscellaneous](#miscellaneous)
   - [Old](#old)
-- [Stargazers over time](#stargazers-over-time)
+- [Star History](#star-history)
 - [Meme](#meme)
 - [More Core Repos](#more-core-repos)
   - [Knowledge](#knowledge)
@@ -98,6 +99,7 @@ Hit the watch button on the top right for updates.
   - [CI/CD](#cicd)
   - [DBA - SQL](#dba---sql)
   - [DevOps Reloaded](#devops-reloaded)
+  - [Templates](#templates)
   - [Misc](#misc)
 
 <!-- INDEX_END -->
@@ -115,7 +117,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Templates](https://github.com/HariSekhon/Templates) - templates for many common file formats for programming languages, build systems and DevOps configs
 - [Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code.md) - Cloud & Open Source architecture diagrams
 
-## Linux / Unix
+## Operating Systems
 
 - [Linux](linux.md)
   - [Debian](debian.md)
@@ -123,6 +125,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [Redhat](redhat.md)
   - [Alpine](alpine.md)
   - [Gentoo](gentoo.md)
+- [Windows](windows.md)
 - [Mac](mac.md)
   - [Homebrew](brew.md)
 - [Shell](shell.md)
@@ -244,6 +247,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 ## Programming
 
 - [Programming](programming.md)
+- [Binary Debugging](binary-debugging.md)
 - [Perl](perl.md)
 - [Python](python.md)
 - [Anaconda](anaconda.md) TODO
@@ -507,20 +511,22 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
   - [PagerDuty](pagerduty.md) TODO
 - [Fluentd](fluentd.md)
 
-## Misc
+## Vendors
 
-- [DevOps Misc](devops.md)
-- [Dev Misc](dev.md)
-- [Open Source](open-source.md)
 - [Hashicorp](hashicorp.md)
 - [Confluent](confluent.md)
 - [Atlassian](atlassian.md)
-- [Multimedia](multimedia.md)
-- [Marketing](marketing.md)
-- [Windows](windows.md)
-- [IRC](irc.md)
+
+## Miscellaneous
+
+- [DevOps Misc](devops.md)
+- [Dev Misc](dev.md)
 - [AI](ai.md)
 - [Automation](automation.md)
+- [Open Source](open-source.md)
+- [Marketing](marketing.md)
+- [Multimedia](multimedia.md)
+- [IRC](irc.md)
 
 <!-- -->
 
