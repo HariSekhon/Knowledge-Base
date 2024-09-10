@@ -70,7 +70,7 @@ ldd "$string"
 More detailed tool, you'll need to grep:
 
 ```shell
-readelf -d "$binary" | grep NEEDED
+readelf -d "$binary"
 ```
 
 ### Mac
@@ -88,6 +88,7 @@ otool -L "$binary"
 #### Objdump
 
 Works on both Linux and Mac.
+
 ```shell
 objdump -p "$binary"
 ```
