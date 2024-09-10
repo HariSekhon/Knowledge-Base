@@ -89,7 +89,8 @@ Hit the watch button on the top right for updates.
 - [Monitoring](#monitoring)
 - [Vendors](#vendors)
 - [Miscellaneous](#miscellaneous)
-  - [Old](#old)
+- [Work](#work)
+- [Old](#old)
 - [Star History](#star-history)
 - [Meme](#meme)
 - [More Core Repos](#more-core-repos)
@@ -536,7 +537,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Travel](travel.md)
 - [Banking Industry](banking-industry)
 
-### Old
+## Old
 
 - [Hazelcast](hazelcast.md)
 - [Mesos](mesos.md)
