@@ -10,6 +10,7 @@ Shortcuts differ between Windows and Mac, and even between versions.
 
 - [IntelliJ IDEA vs PyCharm](#intellij-idea-vs-pycharm)
 - [Install](#install)
+- [Settings Sync](#settings-sync)
 - [The Ultimate Shortcut](#the-ultimate-shortcut)
 - [Plugins](#plugins)
   - [Scripted Plugin Install](#scripted-plugin-install)
@@ -50,6 +51,14 @@ Plugins supported in PyCharm are usually also compatible with Intellij IDEA too 
 ```shell
 brew install intellij-idea-ce
 ```
+
+## Settings Sync
+
+Make sure to sync settings to JetBrains.
+
+`Settings` -> `Settings Sync` -> `Enable Settings Sync`
+
+Choose JetBrains (log in with GitHub account or other social login).
 
 ## The Ultimate Shortcut
 
