@@ -530,14 +530,16 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 <!-- -->
 
+## Work
+
 - [Interview Materials](interview.md)
 - [Travel](travel.md)
-- [Banking](banking.md)
+- [Banking Industry](banking-industry)
 
 ### Old
 
-- [Mesos](mesos.md)
 - [Hazelcast](hazelcast.md)
+- [Mesos](mesos.md)
 
 ## Star History
 
