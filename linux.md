@@ -285,8 +285,8 @@ mount /tmp
 
 [Gentoo](gentoo.md) - l33t but takes time to compile.
 
-## Binary analysis
+## Binary Analysis
 
-See the [Binary](binary.md) doc for commands to analyze binaries.
+See the [Binary Analysis](binary-analysis.md) doc for commands to analyze binaries.
 
 **Ported from various private Knowledge Base pages 2002+**
