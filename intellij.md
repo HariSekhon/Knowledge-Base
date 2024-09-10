@@ -355,7 +355,7 @@ running the external tool configuration if using single quotes.
 This is caused by an Args configuration like this (eg. for a Program: `bash`):
 
 ```none
--c 'if [ -f .envrc ]; then . .envrc; fi; markdown_replace_index.sh $FilePath$'
+-c '[ -f .envrc ] && . .envrc; markdown_replace_index.sh $FilePath$'
 ```
 
 which works on the command line but not in IntelliJ.
@@ -363,5 +363,5 @@ which works on the command line but not in IntelliJ.
 The solution is to replace the single quotes with double quotes.
 
 ```none
--c "if [ -f .envrc ]; then . .envrc; fi; markdown_replace_index.sh $FilePath$"
+-c "[ -f .envrc ] && . .envrc; markdown_replace_index.sh $FilePath$"
 ```
