@@ -39,10 +39,10 @@ If the above `file` output shows `dynamically linked`,
 then it requires external shared libraries and can be influenced on where to find them at the post-compile linking phase
 or runtime by these environment variables.
 
-Both environment variables are in the same format of colon separated directories like the standard `$PATH` environmen
+Both environment variables are in the same format of colon separated directories like the standard `$PATH` environment
 variable.
 
-These add to the standard list of library locations used such as `/usr/lib` and `/usr/local/lib`
+These add to the standard list of library directory locations used such as `/usr/lib` and `/usr/local/lib`.
 
 - `LD_LIBRARY_PATH` - used at runtime
   - this is usually the one you usually want as a user / systems administrator
@@ -77,6 +77,8 @@ readelf -d "$binary" | grep NEEDED
 
 #### Otool
 
+Nice and concise, one line per library:
+
 ```shell
 otool -L "$binary"
 ```
@@ -86,9 +88,8 @@ otool -L "$binary"
 #### Objdump
 
 Works on both Linux and Mac.
-
 ```shell
-objdump -p "$binary" | grep NEEDED
+objdump -p "$binary"
 ```
 
 ## Strings
