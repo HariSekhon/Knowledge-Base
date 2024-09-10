@@ -7,6 +7,7 @@ Proprietary MPP SQL OLAP database with a free community edition.
 - [Key Points](#key-points)
 - [Vertica Client](#vertica-client)
   - [Install](#install)
+  - [Client Locale](#client-locale)
 - [Queries](#queries)
 
 <!-- INDEX_END -->
