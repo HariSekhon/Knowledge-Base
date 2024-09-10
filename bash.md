@@ -16,7 +16,7 @@ is one of the few use cases for that).
 - [Advanced Library of Scripts](#advanced-library-of-scripts)
 - [Perl, Awk, Sed](#perl-awk-sed)
 - [JSON](#json)
-- [Binary analysis](#binary-analysis)
+- [Binary Analysis](#binary-analysis)
 - [Commands](#commands)
 - [Tips & Tricks](#tips--tricks)
   - [Fifos](#fifos)
