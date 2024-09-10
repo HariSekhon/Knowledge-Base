@@ -9,11 +9,13 @@
 - [Networking](#networking)
   - [IPtables](#iptables)
   - [DHCP](#dhcp)
+    - [Test DHCP](#test-dhcp)
 - [CGroups](#cgroups)
 - [Disk Management](#disk-management)
   - [/etc/fstab](#etcfstab)
 - [DRBD](#drbd)
 - [Distributions](#distributions)
+- [Binary analysis](#binary-analysis)
 
 <!-- INDEX_END -->
 
@@ -282,5 +284,9 @@ mount /tmp
 [Redhat](redhat.md) - used to the standard enterprise distro but has killed its open source credentials and become legacy.
 
 [Gentoo](gentoo.md) - l33t but takes time to compile.
+
+## Binary analysis
+
+See the [Binary](binary.md) doc for commands to analyze binaries.
 
 **Ported from various private Knowledge Base pages 2002+**
