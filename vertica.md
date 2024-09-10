@@ -72,6 +72,16 @@ Install the FIPS compliant RPM to `/opt/vertica` same as above rpm:
 FIPS=true install_vertica_vsql_client_rpm.sh  # <version>
 ```
 
+### Client Locale
+
+The `vsql` client may fail to run if the locale isn't set correctly.
+
+If you encounter a locale error when running it, put this in your `$HOME/.bashrc`:
+
+```shell
+export LC_ALL="C.UTF-8"
+```
+
 ## Queries
 
 ```sql
