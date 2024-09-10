@@ -71,9 +71,9 @@ You also need to learn [Regex](regex.md) to use these tools effectively.
 
 See the [JSON](json.md) doc for commands to help with processing JSON which is often output by modern Rest APIs.
 
-## Binary analysis
+## Binary Analysis
 
-See the [Binary](binary.md) doc for commands to analyze binaries.
+See the [Binary Analysis](binary-analysis.md) doc for commands to analyze binaries.
 
 ## Commands
 
