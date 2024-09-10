@@ -345,8 +345,8 @@ idea installPlugins \
 
 ### External Tool - unexpected EOF while looking for matching `''
 
-When configuring External Tools to run scripts (recommended with hotkeys), you may encounter this error if using
-single quotes.
+When configuring External Tools to run scripts (recommended with hotkeys), you may encounter this error
+running the external tool configuration if using single quotes.
 
 ```none
 [: -c: line 1: unexpected EOF while looking for matching `''
