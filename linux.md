@@ -15,7 +15,7 @@
   - [/etc/fstab](#etcfstab)
 - [DRBD](#drbd)
 - [Distributions](#distributions)
-- [Binary analysis](#binary-analysis)
+- [Binary Analysis](#binary-analysis)
 
 <!-- INDEX_END -->
 
