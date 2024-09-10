@@ -5,6 +5,8 @@ Proprietary MPP SQL OLAP database with a free community edition.
 <!-- INDEX_START -->
 
 - [Key Points](#key-points)
+- [Vertica Client](#vertica-client)
+  - [Install](#install)
 - [Queries](#queries)
 
 <!-- INDEX_END -->
@@ -43,6 +45,32 @@ Proprietary MPP SQL OLAP database with a free community edition.
 - also integrates with Grafana, Helm, Go, and Distributed R
 - Python library: <https://github.com/vertica/vertica-python>
 - Golang library: <https://github.com/vertica/vertica-sql-go>
+
+## Vertica Client
+
+### Install
+
+From [DevOps-Bash-tools](devops-bash-tools.md) use these automated install scripts.
+
+These scripts will automatically determine the latest version if none is specified.
+
+Installs `vqsl` binary to `/usr/local/bin/` or `$HOME/bin` depending on your permissions:
+
+```shell
+install_vertica_vsql_client.sh  # <version>
+```
+
+Installs `vqsl` binary to `/opt/vertica/bin`:
+
+```shell
+install_vertica_vsql_client_rpm.sh  # <version>
+```
+
+Install the FIPS compliant RPM to `/opt/vertica` same as above rpm:
+
+```shell
+FIPS=true install_vertica_vsql_client_rpm.sh  # <version>
+```
 
 ## Queries
 
