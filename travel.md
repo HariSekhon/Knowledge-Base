@@ -744,9 +744,11 @@ Good central district of restaurants.
 Cheaper Airbnbs as 1.5 hour drive from Belgrade.
 
 [Petrus Caffe](https://maps.app.goo.gl/1sZJoLAsLn5Vkq6m8) - excellent restaurant, very popular with large outdoor
-seating area and excellent drinks menus
+seating area and excellent drinks menus, good for dining or drinks, open until midnight
 
-[Loft Downtown](https://maps.app.goo.gl/xQdXBJek5JBX17i49) - very popular restaurant with outdoor seating
+[Kombinat](https://maps.app.goo.gl/6Z2CV3UbhZTDLAaCA) - cool late night cafe open until 11pm
+
+[Loft Downtown](https://maps.app.goo.gl/xQdXBJek5JBX17i49) - very popular cafe & restaurant with outdoor seating
 
 [Bistro " Pastai"](https://maps.app.goo.gl/Vro8m7vM3eiKFzKn7) - a local cheap eat pasta place with good juices
 
@@ -756,7 +758,7 @@ seating area and excellent drinks menus
 
 Small city with a nice historic centre, but none of the venues I tried impressed me.
 
-Would try [Slavia](https://www.kaviarenslavia.sk/jedalny-listok/)) if I were to visit gain.
+Would try [Slavia](https://www.kaviarenslavia.sk/jedalny-listok/) if I were to visit gain.
 
 ### South Africa
 
