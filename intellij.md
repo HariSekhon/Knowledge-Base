@@ -12,7 +12,7 @@ Shortcuts differ between Windows and Mac, and even between versions.
 - [Install](#install)
 - [The Ultimate Shortcut](#the-ultimate-shortcut)
 - [Plugins](#plugins)
-  - [Useful Plugins](#useful-plugins)
+  - [Scripted Plugin Install](#scripted-plugin-install)
   - [Docker, Kubernetes and Terraform](#docker-kubernetes-and-terraform)
   - [Languages](#languages)
   - [Core Editing, Git & File Formats](#core-editing-git--file-formats)
@@ -71,7 +71,7 @@ idea installPlugins "$plugin_name_or_id"
 
 You must exit IntelliJ before running this as only one `idea` program can be running at a time.
 
-### Useful Plugins
+### Scripted Plugin Install
 
 These can be installed all in one shot using the script `install_intellij_plugins.sh` in the [DevOps-Bash-tools](devops-bash-tools.md) repo:
 
@@ -80,6 +80,8 @@ install_intellij_plugins.sh
 ```
 
 You can add / comment / uncomment which plugins to install in the adjacent `setup/intellij-plugins.txt` config file in that same repo.
+
+Some useful plugins are listed below:
 
 ### Docker, Kubernetes and Terraform
 
