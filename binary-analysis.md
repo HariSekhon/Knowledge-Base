@@ -1,4 +1,4 @@
-# Binary
+# Binary Analysis
 
 Tools for examining and working with compiled binaries.
 
