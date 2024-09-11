@@ -254,7 +254,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 ## Programming
 
 - [Programming](programming.md)
-- [Binary Debugging](binary-debugging.md)
+- [Binary Debugging](binary-analysis.md)
 - [Perl](perl.md)
 - [Python](python.md)
 - [Anaconda](anaconda.md) TODO
@@ -541,7 +541,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 - [Interview Materials](interview.md)
 - [Travel](travel.md)
-- [Banking Industry](banking-industry)
+- [Banking Industry](banking-industry.md)
 
 ## Old
 
