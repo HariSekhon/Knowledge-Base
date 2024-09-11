@@ -49,6 +49,7 @@ Hit the watch button on the top right for updates.
 - [Operating Systems](#operating-systems)
 - [Core Services - DNS, DHCP, SSH, FTP](#core-services---dns-dhcp-ssh-ftp)
 - [Editors](#editors)
+- [Terminal Multiplexers](#terminal-multiplexers)
 - [Architecture & Documentation](#architecture--documentation)
 - [Git](#git)
 - [Cloud](#cloud)
@@ -151,6 +152,11 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [IntelliJ](intellij.md)
   - [VS Code](vscode.md)
 - [Coder](coder.md)
+
+## Terminal Multiplexers
+
+- [Screen](screen.md)
+- [Tmux](tmux.md)
 
 ## Architecture & Documentation
 
