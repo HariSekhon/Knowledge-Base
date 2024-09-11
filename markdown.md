@@ -6,7 +6,8 @@
 - [MKDocs](#mkdocs)
 - [Markdown Best Practices](#markdown-best-practices)
   - [Lint your Markdown](#lint-your-markdown)
-  - [URL Handling](#url-handling)
+  - [URL Hyperlinking](#url-hyperlinking)
+  - [Relative Link Paths](#relative-link-paths)
   - [Code Blocks vs Inline Code](#code-blocks-vs-inline-code)
   - [Syntax Highlighting](#syntax-highlighting)
   - [IntelliJ Code Block Execution](#intellij-code-block-execution)
@@ -45,7 +46,7 @@ Useful for auto-linting before committing as well as in CI/CD.
 See
 [GitHub Actions - Markdown reusable workflow](https://github.com/HariSekhon/GitHub-Actions/blob/master/.github/workflows/markdown.yaml).
 
-### URL Handling
+### URL Hyperlinking
 
 It's important not to put a bare URL because they won't by hyperlinked in some systems like [MKDocs](mkdocs.md).
 
@@ -60,6 +61,13 @@ or if you want to show the URL wrap it in `<` and `>` to ensure it maintains com
 ```markdown
 <https://my.domain.com/path>
 ```
+
+### Relative Link Paths
+
+Make links to files in the same repo, such as other markdown files or images, relative to the current markdown file
+so that they don't break if you change an [MKDocs](mkdocs.md) domain or Git repo location.
+
+This also allows for better local navigation to click through to edit files in IDEs like [IntelliJ](intellij.md).
 
 ### Code Blocks vs Inline Code
 
