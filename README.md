@@ -550,7 +550,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=HariSekhon/Knowledge-Base&type=Date)](https://star-history.com/#HariSekhon/Knowledge-Base&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=HariSekhon/Knowledge-Base&type=Timeline)](https://star-history.com/#HariSekhon/Knowledge-Base&Timeline)
 
 ## Meme
 
