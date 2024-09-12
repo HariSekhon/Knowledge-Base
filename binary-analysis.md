@@ -36,8 +36,8 @@ opt/vertica/bin/vsql: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynam
 ## Dynamic Linking
 
 If the above `file` output shows `dynamically linked`,
-then it requires external shared libraries and can be influenced on where to find them at the post-compile linking phase
-or runtime by these environment variables.
+then it requires external shared libraries and can be influenced on where to find them during compilation or runtime by
+these environment variables.
 
 Both environment variables are in the same format of colon separated directories like the standard `$PATH` environment
 variable.
@@ -47,7 +47,7 @@ These add to the standard list of library directory locations used such as `/usr
 - `LD_LIBRARY_PATH` - used at runtime
   - this is usually the one you usually want as a user / systems administrator
   - the dynamic linker `ld.so` uses these directories in addition to the standard lib directories
-- `LIBRARY_PATH` - used by the GCC compiler during linking after compiling sources
+- `LIBRARY_PATH` - used by the GCC compiler during linking
   - you probably don't want to mess with this as a user / systems administrator
   - the GNU linker, `ld`, uses these directories in addition to the standard lib directories
   - if you've set this to compile against a library in a non-standard location, chances are you'll also need to specify
