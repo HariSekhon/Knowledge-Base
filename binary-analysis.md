@@ -50,6 +50,8 @@ These add to the standard list of library directory locations used such as `/usr
 - `LIBRARY_PATH` - used by the GCC compiler during linking after compiling sources
   - you probably don't want to mess with this as a user / systems administrator
   - the GNU linker, `ld`, uses these directories in addition to the standard lib directories
+  - if you've set this to compile against a library in a non-standard location, chances are you'll also need to specify
+    `LD_LIBRARY_PATH` at runtime to make the binary work, at least on that host.
 
 ## Examine dynamic library dependencies
 
