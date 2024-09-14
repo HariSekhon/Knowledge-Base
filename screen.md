@@ -85,8 +85,7 @@ See my advanced screen config here:
 
 ## KeyStrokes
 
-`Ctrl-a` is the default keybinding, which is followed immediately afterwards by another keystroke to activate each
-function.
+`Ctrl-a` is the default primary keybinding action key prefix, followed by the next key.
 
 Escape the shell key of `Ctrl-a` to jump to the start of the line by doing `Ctrl-a` , `a`.
 
