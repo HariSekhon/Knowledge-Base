@@ -10,10 +10,8 @@
 - [Git HTTPS Authentication](#git-https-authentication)
 - [CLIs](#clis)
 - [GitHub Badges](#github-badges)
-- [Git LFS](#git-lfs)
-  - [Why You Need Git LFS for Large Files](#why-you-need-git-lfs-for-large-files)
-  - [Git LFS on other hosting providers](#git-lfs-on-other-hosting-providers)
-- [Tips & Tricks](#tips--tricks)
+- [Basic Tips](#basic-tips)
+- [Advanced Tips & Tricks](#advanced-tips--tricks)
   - [Git Clone using a specific SSH Key](#git-clone-using-a-specific-ssh-key)
   - [Show files not being tracked due to global & local `.gitignore` files](#show-files-not-being-tracked-due-to-global--local-gitignore-files)
   - [Find line in `.gitignore` which is causing a given file to be ignored](#find-line-in-gitignore-which-is-causing-a-given-file-to-be-ignored)
@@ -40,6 +38,9 @@
   - [Push New Branch and Raise Pull Request in One Command](#push-new-branch-and-raise-pull-request-in-one-command)
     - [On GitHub](#on-github)
     - [On GitLab](#on-gitlab)
+- [Git LFS](#git-lfs)
+  - [Why You Need Git LFS for Large Files](#why-you-need-git-lfs-for-large-files)
+  - [Git LFS on other hosting providers](#git-lfs-on-other-hosting-providers)
 
 <!-- INDEX_END -->
 
@@ -132,143 +133,45 @@ pip install --user bitbucket-cli
 
 <https://github.com/commonality/architecture-decision-records/wiki/GitHub-repository-status-badges>
 
-## Git LFS
+## Basic Tips
 
-<https://git-lfs.com/>
+- Commit frequently:
+  - make small, atomic commits for easier tracking and diffs
+- Write clear commit messages:
+  - summarize what changed and more importantly why
+  - some companies prefix Jira ticket numbers to their commits or Pull Requests
+    - Jira can be configured to automatically link a field in each ticket to such PRs
+- Use Comments to explain any clever tricks in code:
+  - it's better than `git blame` which may get covered up on subsequent edits
+- Use branches:
+  - isolate new features, bug fixes, or experiments
+  - see [Git Workflow Branching Strategies](git-workflow-branching-strategies.md)
+  - TL;DR just use simple [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow) to get started, you can change it later
+- Keep branches short-lived:
+  - merge back to the main branch quickly to avoid large hard to review Pull Requests or merge conflicts
+  - see [Why You Shouldn't Use Long Lived Branches](git-workflow-branching-strategies.md#why-you-shouldnt-use-long-lived-feature-branches)
+- Pull and merge to your branch frequently:
+  - this minimizes merge conflicts
+  - resolve merge conflicts early
+    - they will get bigger over time if you don't merge and resolve conflicts reguarly
+- Don't commit large files
+  - it'll slow down your repo cloning and local checkout size
+  - use [.gitignore](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitignore)
+    to exclude unnecessary files like large or binary files
+  - large files are better handled in external blob storage
+  - if you really need large files in Git, see [Git LFS](#git-lfs) further down
+- Don't Rebase - read [The Evils of Git Rebasing](git-workflow-branching-strategies.md#the-evils-of-rebasing)
+  - it's not the default for good reason, it causes more problems
+- Use tags for releases:
+  - mark important commits like version, stable releases
+  - before and after big refactors
+- Use Pull Requests for better tracking
+- Use Branch protections to:
+  - ensure your important branches like trunk / master / main don't get accidentally deleted
+  - enforce code peer reviews on Pull Requests before merging
+- Push frequently to your remote origin as a backup in case you have a local disaster
 
-Store big files in GitHub repos (1GB limit for free accounts).
-
-I used this to store old training materials like videos, PDFs, zip files etc. so they are safe and I can then save space locally.
-
-GitHub will block files over 100MB from being `git push` otherwise.
-
-Install Git LFS extension on Mac:
-
-```shell
-brew install git-lfs
-```
-
-Install the Git LFS config into your `$HOME/.gitconfig`:
-
-```shell
-git lfs install
-```
-
-In your repo add the big file types to be tracked in your local repo (configures `.gitattributes`):
-
-```shell
-git lfs track '*.mp4'
-```
-
-Commit the `.gitattributes` changes:
-
-```shell
-git add .gitattributes
-git commit -m "add mp4 file type to be tracked by Git LFS in .gitattributes"
-```
-
-Override global extensive [.gitignore](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitignore)
-if you've copied it from or installed [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#readme) using a local repo `.gitignore`.
-
-See [files being ignored](#show-files-not-being-tracked-due-to-global--local-gitignore-files).
-
-```shell
-echo '!*.mp4' >> .gitignore
-git commit -m "allowed .mp4 files to be git committed in .gitignore"
-```
-
-```shell
-git add *.mp4
-```
-
-```shell
-git commit -m "added mp4 videos"
-```
-
-Automatically uploads the files to GitHub or whatever is configured as your upstream Git server using LFS storage:
-
-```shell
-git push
-```
-
-See LFS details:
-
-```shell
-git lfs env
-```
-
-On another computer you must install Git LFS before you clone.
-
-Otherwise you'll get a checkout with 4K pointer files instead of the actual file contents because Git LFS smudges the checkout to
-download the file blobs to replace in your checkout.
-
-### Why You Need Git LFS for Large Files
-
-You'll get errors like this trying to push large files to GitHub:
-
-```shell
-$ git push -u origin master
-Enumerating objects: 52, done.
-Counting objects: 100% (52/52), done.
-Delta compression using up to 4 threads
-Compressing objects: 100% (52/52), done.
-Writing objects: 100% (52/52), 584.76 MiB | 2.05 MiB/s, done.
-Total 52 (delta 0), reused 0 (delta 0)
-remote: warning: File COURSE.pdf is 69.89 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
-remote: warning: File COURSE2.pdf is 64.61 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
-remote: error: Trace: 98e304dad85b91bcb5f726886ddce1b51a5b450523fc93f44ea51e64b444b69c
-remote: error: See https://gh.io/lfs for more information.
-remote: error: File COURSE.mp4 is 100.27 MB; this exceeds GitHub's file size limit of 100.00 MB
-remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
-To github.com:HariSekhon/training-old.git
- ! [remote rejected] master -> master (pre-receive hook declined)
-error: failed to push some refs to 'git@github.com:HariSekhon/training-old.git'
-```
-
-### Git LFS on other hosting providers
-
-GitLab works fine for both push and clone.
-
-Azure DevOps seems to work for push but doesn't show the file contents in the web UI preview and cloning resulted in a checkout error after clone and neither `git restore --source=HEAD :/` nor `git reset HEAD --hard` worked to get Git LFS to smudge and download the large files.
-
-Unfortunately GitHub limits large files to only 1GB for free accounts, so only use it for files over 100MB. GitHub will disable your LFS after you go over the thresholds for storage or bandwidth usage for the month.
-
-Bitbucket is useless because the [free tier](https://bitbucket.org/harisekhon/workspace/settings/plans) only gives 1GB storage (use GitHub instead):
-
-```shell
-$ git push bitbucket
-Uploading LFS objects:   0% (0/51), 0 B | 0 B/s, done.
-batch response:
-********************************************************************************
-[ERROR] Your LFS push failed because you're out of file storage
-[ERROR] Change your plan to get more file storage:
-[ERROR] https://bitbucket.org/account/user/harisekhon/plans
-********************************************************************************
-
-error: failed to push some refs to 'git@bitbucket.org:HariSekhon/training-old.git'
-```
-
-Bitbucket also requires disabling locking:
-
-```shell
-git config lfs.https://ssh.dev.azure.com/v3/<user>/<project>/<repo>.git/info/lfs.locksverify false
-```
-
-[Multi-origin](#multi-origin-remotes) pushes fail and require individual remote pushes:
-
-```shell
-$ git push
-...
-remote: GitLab: LFS objects are missing. Ensure LFS is properly set up or try a manual "git lfs push --all".
-To gitlab.com:HariSekhon/training-old.git
- ! [remote rejected] master -> master (pre-receive hook declined)
-error: failed to push some refs to 'git@gitlab.com:HariSekhon/training-old.git'
-...
-
-$ git push gitlab
-```
-
-## Tips & Tricks
+## Advanced Tips & Tricks
 
 ### Git Clone using a specific SSH Key
 
@@ -640,6 +543,142 @@ or
 
 ```shell
 pushup  # to push and raise the PR
+```
+
+## Git LFS
+
+<https://git-lfs.com/>
+
+Store big files in GitHub repos (1GB limit for free accounts).
+
+I used this to store old training materials like videos, PDFs, zip files etc. so they are safe and I can then save space locally.
+
+GitHub will block files over 100MB from being `git push` otherwise.
+
+Install Git LFS extension on Mac:
+
+```shell
+brew install git-lfs
+```
+
+Install the Git LFS config into your `$HOME/.gitconfig`:
+
+```shell
+git lfs install
+```
+
+In your repo add the big file types to be tracked in your local repo (configures `.gitattributes`):
+
+```shell
+git lfs track '*.mp4'
+```
+
+Commit the `.gitattributes` changes:
+
+```shell
+git add .gitattributes
+git commit -m "add mp4 file type to be tracked by Git LFS in .gitattributes"
+```
+
+Override global extensive [.gitignore](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitignore)
+if you've copied it from or installed [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#readme) using a local repo `.gitignore`.
+
+See [files being ignored](#show-files-not-being-tracked-due-to-global--local-gitignore-files).
+
+```shell
+echo '!*.mp4' >> .gitignore
+git commit -m "allowed .mp4 files to be git committed in .gitignore"
+```
+
+```shell
+git add *.mp4
+```
+
+```shell
+git commit -m "added mp4 videos"
+```
+
+Automatically uploads the files to GitHub or whatever is configured as your upstream Git server using LFS storage:
+
+```shell
+git push
+```
+
+See LFS details:
+
+```shell
+git lfs env
+```
+
+On another computer you must install Git LFS before you clone.
+
+Otherwise you'll get a checkout with 4K pointer files instead of the actual file contents because Git LFS smudges the checkout to
+download the file blobs to replace in your checkout.
+
+### Why You Need Git LFS for Large Files
+
+You'll get errors like this trying to push large files to GitHub:
+
+```shell
+$ git push -u origin master
+Enumerating objects: 52, done.
+Counting objects: 100% (52/52), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (52/52), done.
+Writing objects: 100% (52/52), 584.76 MiB | 2.05 MiB/s, done.
+Total 52 (delta 0), reused 0 (delta 0)
+remote: warning: File COURSE.pdf is 69.89 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: warning: File COURSE2.pdf is 64.61 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB
+remote: error: Trace: 98e304dad85b91bcb5f726886ddce1b51a5b450523fc93f44ea51e64b444b69c
+remote: error: See https://gh.io/lfs for more information.
+remote: error: File COURSE.mp4 is 100.27 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+To github.com:HariSekhon/training-old.git
+ ! [remote rejected] master -> master (pre-receive hook declined)
+error: failed to push some refs to 'git@github.com:HariSekhon/training-old.git'
+```
+
+### Git LFS on other hosting providers
+
+GitLab works fine for both push and clone.
+
+Azure DevOps seems to work for push but doesn't show the file contents in the web UI preview and cloning resulted in a checkout error after clone and neither `git restore --source=HEAD :/` nor `git reset HEAD --hard` worked to get Git LFS to smudge and download the large files.
+
+Unfortunately GitHub limits large files to only 1GB for free accounts, so only use it for files over 100MB. GitHub will disable your LFS after you go over the thresholds for storage or bandwidth usage for the month.
+
+Bitbucket is useless because the [free tier](https://bitbucket.org/harisekhon/workspace/settings/plans) only gives 1GB storage (use GitHub instead):
+
+```shell
+$ git push bitbucket
+Uploading LFS objects:   0% (0/51), 0 B | 0 B/s, done.
+batch response:
+********************************************************************************
+[ERROR] Your LFS push failed because you're out of file storage
+[ERROR] Change your plan to get more file storage:
+[ERROR] https://bitbucket.org/account/user/harisekhon/plans
+********************************************************************************
+
+error: failed to push some refs to 'git@bitbucket.org:HariSekhon/training-old.git'
+```
+
+Bitbucket also requires disabling locking:
+
+```shell
+git config lfs.https://ssh.dev.azure.com/v3/<user>/<project>/<repo>.git/info/lfs.locksverify false
+```
+
+[Multi-origin](#multi-origin-remotes) pushes fail and require individual remote pushes:
+
+```shell
+$ git push
+...
+remote: GitLab: LFS objects are missing. Ensure LFS is properly set up or try a manual "git lfs push --all".
+To gitlab.com:HariSekhon/training-old.git
+ ! [remote rejected] master -> master (pre-receive hook declined)
+error: failed to push some refs to 'git@gitlab.com:HariSekhon/training-old.git'
+...
+
+$ git push gitlab
 ```
 
 **Partial port from private Knowledge Base page 2012+**
