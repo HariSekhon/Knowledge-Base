@@ -137,6 +137,8 @@ pip install --user bitbucket-cli
 
 - Commit frequently:
   - make small, atomic commits for easier tracking and diffs
+- Push frequently to your remote origin as a backup:
+  - in case you have a local disaster
 - Write clear commit messages:
   - summarize what changed and more importantly why
   - some companies prefix Jira ticket numbers to their commits or Pull Requests
@@ -171,7 +173,6 @@ pip install --user bitbucket-cli
     [environment branches](git-workflow-branching-strategies.md#environment-branching-strategy)
     don't get accidentally deleted
   - enforce code peer reviews on Pull Requests before merging
-- Push frequently to your remote origin as a backup in case you have a local disaster
 
 ## Advanced Tips & Tricks
 
