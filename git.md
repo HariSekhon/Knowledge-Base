@@ -172,7 +172,14 @@ pip install --user bitbucket-cli
   - ensure your important trunk branches like `master` / `main` or
     [environment branches](git-workflow-branching-strategies.md#environment-branching-strategy)
     don't get accidentally deleted
-  - enforce code peer reviews on Pull Requests before merging
+  - enforce code peer review approvals on Pull Requests before merging for quality control
+  - this is to sanity check design and approach rather than linting for minor typos and errors which CI/CD should catch
+    instead
+- Use [CI/CD](ci-cd.md) for extensive linting and testing:
+  - set this up asap to trigger on both trunk and especially Pull Requests
+    - this can block introducing rubbish code & style
+  - you are inheriting technical debt daily until you set this up and will end up with ever more code to fix up
+    the longer you delay adding this
 
 ## Advanced Tips & Tricks
 
