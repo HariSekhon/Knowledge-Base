@@ -35,7 +35,6 @@ atlantis apply
 
 ## Do Not Merge Pull Requests Early
 
-If you merge a pull request, Atlantis will refuse to operate and
-apply it.
+If you merge a pull request, Atlantis will refuse to operate and apply it.
 
 You will then need to revert the PR and raise it again.
