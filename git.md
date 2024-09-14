@@ -167,7 +167,9 @@ pip install --user bitbucket-cli
   - before and after big refactors
 - Use Pull Requests for better tracking
 - Use Branch protections to:
-  - ensure your important branches like trunk / master / main don't get accidentally deleted
+  - ensure your important trunk branches like `master` / `main` or
+    [environment branches](git-workflow-branching-strategies.md#environment-branching-strategy)
+    don't get accidentally deleted
   - enforce code peer reviews on Pull Requests before merging
 - Push frequently to your remote origin as a backup in case you have a local disaster
 
