@@ -17,7 +17,6 @@
   - [Squash Merges Require Force Deleting Branches](#squash-merges-require-force-deleting-branches)
     - [Script to safely Delete Squash Merged Branches](#script-to-safely-delete-squash-merged-branches)
   - [Squash & Merge - multiple email addresses on your GitHub account](#squash--merge---multiple-email-addresses-on-your-github-account)
-- [Why You Shouldn't Use Long Lived Branches](#why-you-shouldnt-use-long-lived-branches)
 
 <!-- INDEX_END -->
 
