@@ -5,6 +5,7 @@ The classic terminal multiplexer.
 <!-- INDEX_START -->
 
 - [Key Points](#key-points)
+  - [Tip: embedding multiplexers](#tip-embedding-multiplexers)
 - [Commands](#commands)
 - [Screen Config](#screen-config)
 - [KeyStrokes](#keystrokes)
@@ -15,10 +16,19 @@ The classic terminal multiplexer.
 
 - horizontal and vertical screen splitting
 - built-in serial and telnet support which [tmux](tmux.md) lacks
-- status bar requires config
-- dynamic term titles requires config
+- status bar requires [config](#screen-config)
+- dynamic term titles requires [config](#commands)
 
 Several Linux distributions are moving to [Tmux](tmux.md) which is another newer alternative.
+
+### Tip: embedding multiplexers
+
+You can run one terminal multiplexer inside another.
+
+eg. on a remote SSH session inside another multiplexer on your local machine.
+
+By using screen at one layer and [tmux](tmux.md) at another, you can avoid embedded keybindings clashes and having to double escape
+keybindings all the time to send them through to the embedded multiplexer.
 
 ## Commands
 
