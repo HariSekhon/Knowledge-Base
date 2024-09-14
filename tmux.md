@@ -56,6 +56,16 @@ Reattach to session zero:
 tmux attach -t 0
 ```
 
+Inside tmux, you can send it commands from the command line, not just [keystrokes](keycloak.md).
+
+```shell
+tmux new-window -n some_name
+```
+
+```shell
+tmux new-window -n another_name
+```
+
 ## Tmux Config
 
 `$HOME/.tmux.conf`
@@ -104,13 +114,5 @@ My tmux config is here:
 | List commands                                                      | `Ctrl-b` , `:list-commands`                                                   |
 | List windows                                                       | `Ctrl-b` , `:list-window`                                                     |
 | Show list of bindings                                              | `Ctrl-b` , `?`                                                                |
-
-```shell
-new-window -n some_name
-```
-
-```shell
-new-window -n another_name
-```
 
 **Ported from private Knowledge Base page 2017+**
