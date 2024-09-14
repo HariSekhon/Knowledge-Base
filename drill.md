@@ -7,6 +7,12 @@ Open source distributed MPP columnar in-memory database that runs SQL-on-Hadoop 
 <!-- INDEX_START -->
 
 - [Key Points](#key-points)
+  - [Data Support](#data-support)
+  - [Drillbits](#drillbits)
+  - [Drill Explorer](#drill-explorer)
+  - [UDFs](#udfs)
+  - [Query Execution](#query-execution)
+    - [Query Parsing](#query-parsing)
   - [Drill Improvements Needed](#drill-improvements-needed)
 - [Connectivity](#connectivity)
   - [Ports](#ports)
@@ -17,7 +23,7 @@ Open source distributed MPP columnar in-memory database that runs SQL-on-Hadoop 
 - [Install](#install)
   - [On MapR](#on-mapr)
   - [Embedded ZK mode](#embedded-zk-mode)
-  - [Standalone Mode with a separate ZooKeeper host](#standalone-mode-with-a-separate-zookeeperzookeepermd-host)
+  - [Standalone Mode with a separate ZooKeeper host](#standalone-mode-with-a-separate-zookeeper-host)
   - [Distributed Mode with ZooKeeper Cluster](#distributed-mode-with-zookeeper-cluster)
   - [Distributed Mode](#distributed-mode)
 - [Sample-data shipped with Drill](#sample-data-shipped-with-drill)
@@ -74,7 +80,7 @@ Open source distributed MPP columnar in-memory database that runs SQL-on-Hadoop 
 - Clients can connect directly to drillbit, but recommended to go via [ZooKeeper](zookeeper.md)
 - node failure triggers query re-run
 
-## Drill Explorer
+### Drill Explorer
 
 Windows GUI app bundled with ODBC driver.
 
@@ -90,8 +96,8 @@ C:\Program Files\MapR Drill Driver\lib\DrillExplorer.exe
 
 User defined functions.
 
-Dynamic UDFs - jars in `$CLASSPATH` - configure a dir for users to drop jars in to
-- manual UDFs - edit `module.conf`
+- Dynamic UDFs - jars in `$CLASSPATH` - configure a dir for users to drop jars in to
+- Manual UDFs - edit `module.conf`
 - [Hive](hive.md) UDF jars
 
 ### Query Execution
