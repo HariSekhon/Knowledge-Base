@@ -4,6 +4,7 @@ The classic terminal multiplexer.
 
 <!-- INDEX_START -->
 
+- [Key Points](#key-points)
 - [Commands](#commands)
 - [Screen Config](#screen-config)
 - [KeyStrokes](#keystrokes)
