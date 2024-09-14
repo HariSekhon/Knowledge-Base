@@ -154,7 +154,7 @@ pip install --user bitbucket-cli
   - this minimizes merge conflicts
   - resolve merge conflicts early
     - they will get bigger over time if you don't merge and resolve conflicts reguarly
-- Don't commit large files
+- Don't commit large files:
   - it'll slow down your repo cloning and local checkout size
   - use [.gitignore](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitignore)
     to exclude unnecessary files like large or binary files
