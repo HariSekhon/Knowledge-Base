@@ -1,4 +1,4 @@
-# needs directory/
+# needs this one to cancel out the Images global profile .gitignore
 !images/
 
 # as well as either of these
