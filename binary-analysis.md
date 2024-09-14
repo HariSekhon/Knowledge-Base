@@ -42,7 +42,8 @@ these environment variables.
 Both environment variables are in the same format of colon separated directories like the standard `$PATH` environment
 variable.
 
-These add to the list of library directory locations searched _before_ the standard library locations such as `/lib`, `/usr/lib` and `/usr/local/lib`.
+These add to the list of library directory locations searched _before_ the standard library locations such as `/lib`,
+`/usr/lib` and `/usr/local/lib`.
 
 - `LD_LIBRARY_PATH` - used at runtime
   - this is usually the one you usually want as a user / systems administrator
