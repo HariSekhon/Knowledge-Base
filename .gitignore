@@ -1,0 +1,6 @@
+# needs directory/
+!images/
+
+# as well as either of these
+!images/**
+#!images/*.gif
