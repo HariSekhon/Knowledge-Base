@@ -10,6 +10,13 @@ The classic terminal multiplexer.
 
 <!-- INDEX_END -->
 
+## Key Points
+
+- horizontal and vertical screen splitting
+- built-in serial and telnet support which [tmux](tmux.md) lacks
+- status bar requires config
+- dynamic term titles requires config
+
 Several Linux distributions are moving to [Tmux](tmux.md) which is another newer alternative.
 
 ## Commands
@@ -51,8 +58,15 @@ screen $num
 
 ## Screen Config
 
-Screen requires a good configuration to make it more usable, such as showing a permanent status bar along the bottom
-to see which screen terminal number you're in ([tmux](tmux.md) has this by default).
+`$HOME/.screenrc`
+
+Screen requires a good configuration to make it more usable, such as:
+
+- showing a permanent status bar along the bottom to see which screen terminal number you're in
+- dynamic term titles (what command each term is running)
+- custom keybindings
+
+([Tmux](tmux.md) has this by default).
 
 See my advanced screen config here:
 
