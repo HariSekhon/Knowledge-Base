@@ -6,6 +6,7 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
 
 - [Check for Deprecated API objects](#check-for-deprecated-api-objects)
 - [PSP - Pod Security Policies](#psp---pod-security-policies)
+- [Meme](#meme)
 
 <!-- INDEX_END -->
 
@@ -76,3 +77,9 @@ kubectl get pod -A \
     -o jsonpath='{range.items[?(@.metadata.annotations.kubernetes\.io/psp)]}{.metadata.name}{"\t"}{.metadata.namespace}{"\t"}{.metadata.annotations.kubernetes\.io/psp}{"\n"}' |
 column -t
 ```
+
+## Meme
+
+If you think you can skip these checks above, you may end up like this:
+
+![K8s Upgrades Unresponsive Pods](images/k8s_upgrade_completed_78_pods_unresponsive.jpeg)
