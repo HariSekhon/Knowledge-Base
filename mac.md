@@ -17,6 +17,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 
 - [Terminal](#terminal)
 - [Homebrew - Package Management](#homebrew---package-management)
+- [Activity Monitor](#activity-monitor)
 - [Stats Bar](#stats-bar)
 - [Rearrange Status Bar Icons](#rearrange-status-bar-icons)
 - [Reducing Desktop Workspaces](#reducing-desktop-workspaces)
@@ -50,7 +51,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Erase a disk before decommissioning it](#erase-a-disk-before-decommissioning-it)
       - [WARNING: disk numbers may shunt up in numbers as you insert more removal drives, especially for 'synthesized' virtual disks that display for volume containers](#warning-disk-numbers-may-shunt-up-in-numbers-as-you-insert-more-removal-drives-especially-for-synthesized-virtual-disks-that-display-for-volume-containers)
   - [Service Management](#service-management)
-- [Binary Analysis](#binary-analysis)
+- [Binaries Debugging](#binaries-debugging)
 - [Creating Bootable CDs & USBs from ISOs](#creating-bootable-cds--usbs-from-isos)
   - [Other Options](#other-options)
     - [CLI](#cli)
@@ -71,6 +72,21 @@ This is where you should be spending your life if you're a techie, with a browse
 The best most widely used package manager for Mac.
 
 See [brew.md](brew.md) for how to use it and great package lists I've spent years discovering and building up.
+
+## Activity Monitor
+
+See your CPU, RAM, Disk, Network and Energy usage of applications.
+
+Sorting by CPU and RAM descending on their tabs is usually your first port of call.
+
+To open Activity Monitor you can type `Cmd-Space` to open Spotlight search bar and the start typing `Activity Monitor`
+to find it and hit enter to open it.
+
+On the command line you can also just run this:
+
+```shell
+open -a "Activity Monitor"
+```
 
 ## Stats Bar
 
@@ -555,9 +571,9 @@ sudo launchctl unload "/System/Library/LaunchDaemons/$name.plist"
 
 See [dhcp.md](dhcp.md) for a practical example of using this for the built-in tftp server for PXE boot installing Debian off your Mac.
 
-## Binary Analysis
+## Binaries Debugging
 
-See the [Binary Analysis](binary-analysis.md) doc for commands to analyze binaries.
+See the [Binaries Debugging](binaries-debugging.md) doc for commands to examine and work with binaries.
 
 ## Creating Bootable CDs & USBs from ISOs
 
