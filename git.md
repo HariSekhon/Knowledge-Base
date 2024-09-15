@@ -22,6 +22,7 @@
     - [Advanced - push to different branch on remote](#advanced---push-to-different-branch-on-remote)
   - [Fix Author / Email in Git Pull Request or History](#fix-author--email-in-git-pull-request-or-history)
   - [Erase Leaked Credential in Pull Request](#erase-leaked-credential-in-pull-request)
+  - [Convert GitHub.com links to Raw GitHub URL links](#convert-githubcom-links-to-raw-github-url-links)
   - [Git Filter-Repo](#git-filter-repo)
   - [Git Filter-Repo Analyze](#git-filter-repo-analyze)
   - [Git Filter-Repo Replace Text in Commit History](#git-filter-repo-replace-text-in-commit-history)
@@ -362,6 +363,37 @@ git push --force
 ```
 
 (if you get an error you need to temporarily disable the force push branch protection)
+
+### Convert GitHub.com links to Raw GitHub URL links
+
+Raw content path for PNG images.
+
+Sometimes GitHub doesn't give you the raw link for a PNG file that it does for an SVG file, eg. compare these two pages:
+
+SVG has a raw link button:
+
+<https://github.com/HariSekhon/Diagrams-as-Code/blob/master/images/kubernetes_traefik_ingress_gke.svg>
+
+but PNG doesn't:
+
+<https://github.com/HariSekhon/Diagrams-as-Code/blob/master/images/kubernetes_kong_api_gateway_eks.png>
+
+Convert the standard GitHub page link to a raw link:
+
+```shell
+github_link="https://github.com/HariSekhon/Diagrams-as-Code/blob/master/images/kubernetes_kong_api_gateway_eks.png"
+```
+
+```shell
+echo "$github_link" |
+sed 's|https://github.com/|https://raw.githubusercontent.com/|; s|/blob/|/|'
+```
+
+output:
+
+```none
+https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/kubernetes_kong_api_gateway_eks.png
+```
 
 ### Git Filter-Repo
 
