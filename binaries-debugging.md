@@ -137,7 +137,7 @@ You can get either a Bash or Golang version of this program which parses `/proc`
 [DevOps Bash tools](devops-bash-tools.md) or [DevOps Goland tools](devops-golang-tools.md) repos.
 
 ```shell
-pldd.sh "$binary"
+pldd.sh "pid"
 ```
 
 You can run the Golang version without even compiling it due to shebang magic in my programs:
