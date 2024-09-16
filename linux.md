@@ -15,7 +15,7 @@
   - [/etc/fstab](#etcfstab)
 - [DRBD](#drbd)
 - [Distributions](#distributions)
-- [Binary Analysis](#binary-analysis)
+- [Binaries Debugging](#binaries-debugging)
 
 <!-- INDEX_END -->
 
@@ -285,8 +285,8 @@ mount /tmp
 
 [Gentoo](gentoo.md) - l33t but takes time to compile.
 
-## Binary Analysis
+## Binaries Debugging
 
-See the [Binary Analysis](binary-analysis.md) doc for commands to analyze binaries.
+See the [Binaries Debugging](binaries-debugging.md) doc for commands to examine and work with binaries.
 
 **Ported from various private Knowledge Base pages 2002+**
