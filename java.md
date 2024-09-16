@@ -50,6 +50,12 @@ Java jar files are just tars of the byte-compiled Java classes.
 You can inspect them using the good old unix tar command, eg.:
 
 ```shell
+jar tf mysql-connector-j-*.jar
+```
+
+or
+
+```shell
 tar tvf mysql-connector-j-*.jar
 ```
 
