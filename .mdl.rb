@@ -22,7 +22,7 @@ exclude_rule 'MD007'  # leave 2 space indentation for lists, 3 space is ugly af
 exclude_rule 'MD013'  # long lines cannot be split if they are URLs
 #exclude_rule 'MD022'
 #exclude_rule 'MD025'
-# MD029 ordered list item prefix is necessary is injecting code blocks
+# MD029 ordered list item prefix is necessary if injecting code blocks
 # otherwise start counting from 1 again afterwards
 exclude_rule 'MD029'
 #exclude_rule 'MD031'
