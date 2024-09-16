@@ -102,7 +102,7 @@ closing code block for markdown_generate_index.sh
 to enable to code to exclude code block opening/closing pairs
 from generating comment comments into headings
 
-```
+````
 
 -->
 
@@ -227,13 +227,11 @@ Generate nice graphs of how your repo's star counts increased over time.
 
 <https://star-history.com/>
 
+<https://star-history.com/blog/how-to-use-github-star-history>
+
 May look more like a steeper rise and therefore more impressive than Starcharts.cc below.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HariSekhon/Knowledge-Base&type=Date)](https://star-history.com/#HariSekhon/Knowledge-Base&Date)
-
-with `Align timeline`:
-
-[![Star History Chart](https://api.star-history.com/svg?repos=HariSekhon/Knowledge-Base&type=Timeline)](https://star-history.com/#HariSekhon/Knowledge-Base&Timeline)
 
 in Dark mode using HTML:
 
@@ -244,6 +242,10 @@ in Dark mode using HTML:
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HariSekhon/Knowledge-Base&type=Date" />
  </picture>
 </a>
+
+Use `Align timeline` and multiple repos to compare their stars at the same relative ages:
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HariSekhon/Jenkins,HariSekhon/GitHub-Actions&type=Timeline)](https://star-history.com/#HariSekhon/Jenkins&HariSekhon/GitHub-Actions&Timeline)
 
 ### Star Charts
 
