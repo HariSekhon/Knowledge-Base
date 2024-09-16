@@ -71,7 +71,11 @@ parquet_tools.sh <command>
 You can run the jar directly, it's just a longer command:
 
 ```shell
-java -jar parquet-tools-*.jar <command>
+PARQUET_VERSION="1.11.2"
+```
+
+```shell
+java -jar "parquet-tools-$PARQUET_VERSION.jar" <command>
 ```
 
 <!--
