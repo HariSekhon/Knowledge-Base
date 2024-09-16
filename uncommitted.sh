@@ -19,4 +19,8 @@ srcdir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 cd "$srcdir"
 
-git status --porcelain | grep ^?? | cut -c 4- | xargs wc -l | sort -k1n
+git status --porcelain |
+grep '^??' |
+cut -c 4- |
+xargs wc -l |
+sort -k1n
