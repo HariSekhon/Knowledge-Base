@@ -54,11 +54,14 @@ Download and install Parquet tools:
 
 ```shell
 cd /usr/local
-wget -O  parquet-tools-$PARQUET_VERSION-bin.zip http://search.maven.org/remotecontent?filepath=com/twitter/parquet-tools/$PARQUET_VERSION/parquet-tools-$PARQUET_VERSION-bin.zip
-unzip parquet-tools-$PARQUET_VERSION-bin.zip
+wget -O "parquet-tools-$PARQUET_VERSION-bin.zip" \
+  "http://search.maven.org/remotecontent?filepath=com/twitter/parquet-tools/$PARQUET_VERSION/parquet-tools-$PARQUET_VERSION-bin.zip"
+unzip "parquet-tools-$PARQUET_VERSION-bin.zip"
 link_latest parquet-tools-*
-cd parquet-tools-$PARQUET_VERSION
+cd "parquet-tools-$PARQUET_VERSION"
 ```
+
+Then run the commands:
 
 ### Commands
 
