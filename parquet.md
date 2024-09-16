@@ -7,6 +7,7 @@ Popular columnar data storage format, widely used in Big Data and Analytics.
 - [Key Points](#key-points)
 - [Parquet Tools](#parquet-tools)
   - [Commands](#commands)
+- [Hive Parquet Output](#hive-parquet-output)
 - [Python Library - PyArrow](#python-library---pyarrow)
 - [validate_parquet.py](#validate_parquetpy)
 
@@ -46,11 +47,32 @@ Popular columnar data storage format, widely used in Big Data and Analytics.
 
 ## Parquet Tools
 
+Download and install Parquet Tools from [here](https://repo1.maven.org/maven2/org/apache/parquet/parquet-tools/).
+
+Or using script from [DevOps-Bash-tools](devops-bash-tools.md) which automatically determines latest version if no
+version is specified as the first arg:
+
+```shell
+download_parquet_tools.sh  # "$version"
+```
+
+Run Parquet Tools jar, downloading it if not already present:
+
+```shell
+parquet_tools.sh <command>
+```
+
+You can run the jar directly, it's just a longer command:
+
+```shell
+java -jara parquet-tools-*.jar <command>
+```
+
+<!--
+
 ```shell
 PARQUET_VERSION=1.5.0
 ```
-
-Download and install Parquet tools:
 
 ```shell
 cd /usr/local
@@ -61,38 +83,80 @@ link_latest parquet-tools-*
 cd "parquet-tools-$PARQUET_VERSION"
 ```
 
+Add the Parquet Tools to your `$PATH`:
+
+```shell
+export PATH="$PATH:/usr/local/bin/parquet-tools:$HOME/bin/parquet-tools"
+```
+
+-->
+
 Then run the commands:
 
 ### Commands
 
 ```shell
-./parquet-cat
+parquet_tools.sh cat
 ```
 
 ```shell
-./parquet-dump
+parquet_tools.sh dump
 ```
 
 ```shell
-./parquet-head
+parquet_tools.sh head
 ```
 
 ```shell
-./parquet-meta
+parquet_tools.sh meta
 ```
 
 ```shell
-./parquet-schema
+parquet_tools.sh schema
+```
+
+<!--
+
+Old zip binary not available in versions > 1.6 (currently on 1.11.2)
+
+```shell
+parquet-cat
 ```
 
 ```shell
-./parquet-tools --help
+parquet-dump
 ```
+
+```shell
+parquet-head
+```
+
+```shell
+parquet-meta
+```
+
+```shell
+parquet-schema
+```
+
+```shell
+parquet-tools --help
+```
+
+-->
+
+## Hive Parquet Output
 
 Hive creates parquet files as:
 
 ```none
-/apps/hive/warehouse/bicore.db/auditlogs_parquet/000000_0` rather than `blah.parquet
+/apps/hive/warehouse/bicore.db/auditlogs_parquet/000000_0
+```
+
+rather than:
+
+```none
+blah.parquet
 ```
 
 ## Python Library - PyArrow
