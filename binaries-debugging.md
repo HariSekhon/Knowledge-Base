@@ -13,6 +13,7 @@ Tools for examining and working with compiled binaries.
 - [Examine dynamic library dependencies](#examine-dynamic-library-dependencies)
   - [Linux](#linux)
     - [LDD](#ldd)
+    - [PLDD](#pldd)
     - [Readelf](#readelf)
   - [Mac](#mac)
     - [Otool](#otool)
@@ -203,9 +204,7 @@ Primarily used on Linux but can be installed and used on Mac, although may not b
 brew install strace
 ```
 
-<!--
 <h3 id="mac-system-call-tracing">Mac</h3>
--->
 
 #### Dtruss
 
