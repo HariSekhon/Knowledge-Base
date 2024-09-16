@@ -45,6 +45,7 @@ API code for many of the following technologies can also be found in my
   - [NimbleCI](#nimbleci)
 - [Portable Code Design](#portable-code-design)
 - [Code Quality](#code-quality)
+- [Diagram - CI/CD Pipeline Explained](#diagram---cicd-pipeline-explained)
 
 <!-- INDEX_END -->
 
@@ -301,5 +302,9 @@ functionality and code reuse.
 ## Code Quality
 
 See [Code Quality](code-quality.md).
+
+## Diagram - CI/CD Pipeline Explained
+
+![CI/CD Pipelines Explained](images/ci-cd-pipeline.gif)
 
 **Ported from private Knowledge Base page 2014+**
