@@ -115,3 +115,5 @@ Recursively find and validate all parquet files in all directories under the cur
 ```shell
 validate_parquet.py .
 ```
+
+**Ported from private Knowledge Base page 2014+**
