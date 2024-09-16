@@ -293,4 +293,8 @@ See the [Binaries Debugging](binaries-debugging.md) doc for commands to examine 
 
 ![Linux Boot Process](images/linux_boot_process.gif)
 
+## Linux Filesystem Layout
+
+![Linux Filesystem Layout](images/linux_filesystem_layout.gif)
+
 **Ported from various private Knowledge Base pages 2002+**
