@@ -121,7 +121,7 @@ ldd "$binary"
 
 #### PLDD
 
-Show what runtime libraries the binary is using:
+Show what runtime libraries a running binary / process is using:
 
 ```shell
 pldd "pid"
