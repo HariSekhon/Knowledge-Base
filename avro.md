@@ -6,7 +6,8 @@ General purpose row oriented data format.
 
 - [Key Points](#key-points)
 - [Avro Tools](#avro-tools)
-  - [Download & Run](#download--run)
+  - [Download](#download)
+  - [Run](#run)
   - [Commands](#commands)
 
 <!-- INDEX_END -->
@@ -46,10 +47,15 @@ General purpose row oriented data format.
 
 ## Avro Tools
 
-### Download & Run
+### Download
+
+Download and install Avro Tools from [here](https://repo1.maven.org/maven2/org/apache/avro/avro-tools/).
+
+Or using script from [DevOps-Bash-tools](devops-bash-tools.md) which automatically determines latest version if no
+version is specified as the first arg:
 
 ```shell
-AVRO_VERSION="1.12.0"
+download_avro_tools.sh  # "$version"
 ```
 
 Download Avro Tools using script from [DevOps-Bash-tools](devops-bash-tools.md) repo:
@@ -58,10 +64,21 @@ Download Avro Tools using script from [DevOps-Bash-tools](devops-bash-tools.md) 
 download_avro_tools.sh
 ```
 
-Or Download & Run Avro tools using script from [DevOps-Bash-tools](devops-bash-tools.md) repo:
+### Run
 
 ```shell
-avro_tools.sh
+AVRO_VERSION="1.12.0"
+```
+
+```shell
+java -jar "avro-tools-$AVRO_VERSION.jar" <command>
+```
+
+Or more simply run
+using script from [DevOps-Bash-tools](devops-bash-tools.md) repo which will also download it if not present:
+
+```shell
+avro_tools.sh <command>
 ```
 
 ### Commands
