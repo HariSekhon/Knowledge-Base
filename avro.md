@@ -66,19 +66,20 @@ download_avro_tools.sh
 
 ### Run
 
+Run Avro Tools jar, downloading it if not already present:
+
+```shell
+avro_tools.sh <command>
+```
+
+You can run the jar directly, it's just a longer command:
+
 ```shell
 AVRO_VERSION="1.12.0"
 ```
 
 ```shell
 java -jar "avro-tools-$AVRO_VERSION.jar" <command>
-```
-
-Or more simply run
-using script from [DevOps-Bash-tools](devops-bash-tools.md) repo which will also download it if not present:
-
-```shell
-avro_tools.sh <command>
 ```
 
 ### Commands
