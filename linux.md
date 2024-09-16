@@ -289,4 +289,8 @@ mount /tmp
 
 See the [Binaries Debugging](binaries-debugging.md) doc for commands to examine and work with binaries.
 
+## Linux Boot Process
+
+![Linux Boot Process](images/linux_boot_process.gif)
+
 **Ported from various private Knowledge Base pages 2002+**
