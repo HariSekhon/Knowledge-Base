@@ -124,7 +124,7 @@ ldd "$binary"
 Show what runtime libraries the binary is using:
 
 ```shell
-pldd "$binary"
+pldd "pid"
 ```
 
 Since this often fails to attach to a process:
