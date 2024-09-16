@@ -6,6 +6,8 @@ Popular columnar data storage format, widely used in Big Data and Analytics.
 
 - [Key Points](#key-points)
 - [Parquet Tools](#parquet-tools)
+  - [Download](#download)
+  - [Run](#run)
   - [Commands](#commands)
 - [Hive Parquet Output](#hive-parquet-output)
 - [Python Library - PyArrow](#python-library---pyarrow)
@@ -47,6 +49,8 @@ Popular columnar data storage format, widely used in Big Data and Analytics.
 
 ## Parquet Tools
 
+### Download
+
 Download and install Parquet Tools from [here](https://repo1.maven.org/maven2/org/apache/parquet/parquet-tools/).
 
 Or using script from [DevOps-Bash-tools](devops-bash-tools.md) which automatically determines latest version if no
@@ -55,6 +59,8 @@ version is specified as the first arg:
 ```shell
 download_parquet_tools.sh  # "$version"
 ```
+
+### Run
 
 Run Parquet Tools jar, downloading it if not already present:
 
@@ -65,7 +71,7 @@ parquet_tools.sh <command>
 You can run the jar directly, it's just a longer command:
 
 ```shell
-java -jara parquet-tools-*.jar <command>
+java -jar parquet-tools-*.jar <command>
 ```
 
 <!--
