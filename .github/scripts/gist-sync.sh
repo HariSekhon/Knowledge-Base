@@ -61,7 +61,7 @@ while read -r renamed_from renamed_to; do
     echo "Rename detected: $renamed_from => $renamed_to"
     id="$(get_gist_id "$renamed_from")"
     if [ -n "$id" ]; then
-        echo "Renamed file in Gist ID $id: $renamed_from => $renamed_to"
+        echo "Renaming file in Gist ID $id: $renamed_from => $renamed_to"
         gh gist rename "$id" "$renamed_from" "$renamed_to"
     else
         echo "No corresponding Gist detected, skipping..."
