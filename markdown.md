@@ -15,6 +15,7 @@
 - [Badges & Icons](#badges--icons)
   - [Badges](#badges)
   - [Icons](#icons)
+  - [Detecting Colours - ColorZilla](#detecting-colours---colorzilla)
 - [Star History Graphs](#star-history-graphs)
   - [Star History](#star-history)
   - [Star Charts](#star-charts)
@@ -218,6 +219,26 @@ if appended to existing parameters:
 Result:
 
 ![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)
+
+### Detecting Colours - ColorZilla
+
+You can pick the colour of an image or logo off a web page using [ColorZilla](https://www.colorzilla.com/)
+to use it in a [Shields.io](https://shields.io) badge.
+
+Install the [Chrome extension](https://chrome.google.com/webstore/detail/bhlhnicpbhignbdhedgjhgdocnmhomnp) or Firefox
+extension and then just click the extension icon, picker and choose an icon or image or area from the web page.
+
+For example, I used this to find out the exact yellow colour of the [Miro.com](https://miro.com) logo as `FEDD33`.
+
+This would be hard to determine by guessing the colour, and if you just picked the generic `yellow` colour it would come
+out as this:
+
+[![Miro](https://img.shields.io/badge/Miro-dashboard-yellow.svg?logo=miro)](https://miro.com/app/dashboard/)
+
+Whereas with the hex colour detection of the exact hex code of `FEDD33` it comes out as this, which is a very diffferent
+yellow:
+
+[![Miro](https://img.shields.io/badge/Miro-dashboard-FEDD33.svg?logo=miro)](https://miro.com/app/dashboard/)
 
 ## Star History Graphs
 
