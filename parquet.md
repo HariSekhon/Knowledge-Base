@@ -24,7 +24,7 @@ Popular columnar data storage format, widely used in Big Data and Analytics.
 - schema evolution - limited - can only add columns at the end
 - faster than [ORC](data-formats.md#orc)
 - compression, different algos for different columns, eg. one type for string, another for numbers
-- compression not as good as [ORC](orc.md) but slightly faster
+- compression not as good as [ORC](data-formats.md#orc) but slightly faster
 - widely used by many systems:
   - Databases-like systems, MPP, distributed SQL:
     - [Hive](hive.md)
