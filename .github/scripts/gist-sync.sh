@@ -35,6 +35,8 @@ help_usage "$@"
 
 num_args 0 "$@"
 
+cd "$git_root"
+
 gist_list="$(gh gist list -L 2000 --public)"
 
 # return a gist ID if a gist with a matching filename exists - else return nothing
@@ -59,10 +61,17 @@ sed -n '
     ' |
 while read -r renamed_from renamed_to; do
     echo "Rename detected: $renamed_from => $renamed_to"
+    if ! [ -f "$renamed_to" ]; then
+        echo "Renamed file '$renamed_to' not found, skipping..."
+        continue
+    fi
     id="$(get_gist_id "$renamed_from")"
     if [ -n "$id" ]; then
         echo "Renaming file in Gist ID $id: $renamed_from => $renamed_to"
-        gh gist rename "$id" "$renamed_from" "$renamed_to"
+        #gh gist rename "$id" "$renamed_from" "$renamed_to"
+        new_description="$renamed_to from HariSekhon/Knowledge-Base repo: https://github.com/HariSekhon/Knowledge-Base"
+        echo "Updating Gist description to: $new_description"
+        gh gist edit "$id" "$renamed_to" --desc "$new_description"
     else
         echo "No corresponding Gist detected, skipping..."
     fi
