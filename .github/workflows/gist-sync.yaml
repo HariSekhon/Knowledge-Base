@@ -79,8 +79,8 @@ jobs:
       - name: Get Previous SHA
         run: |
           PREVIOUS_SHA="$(cat last-successful-sha.txt || :)"
-        echo "Previous commit: ${PREVIOUS_SHA:-}"
-        echo "PREVIOUS_SHA=${PREVIOUS_SHA:-}" >> "$GITHUB_ENV"
+          echo "Previous commit: ${PREVIOUS_SHA:-}"
+          echo "PREVIOUS_SHA=${PREVIOUS_SHA:-}" >> "$GITHUB_ENV"
 
       - name: Git log since last workflow
         run: |
