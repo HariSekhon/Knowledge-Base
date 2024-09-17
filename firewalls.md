@@ -3,6 +3,8 @@
 <!-- INDEX_START -->
 
 - [Why You Need a Firewall](#why-you-need-a-firewall)
+- [Hardware vs Software Firewalls](#hardware-vs-software-firewalls)
+- [Host vs Network Firewalls](#host-vs-network-firewalls)
 - [Hardware Firewalls](#hardware-firewalls)
   - [Cisco ASA (Adaptive Security Appliance)](#cisco-asa-adaptive-security-appliance)
   - [Fortinet FortiGate](#fortinet-fortigate)
@@ -28,7 +30,7 @@
 - [Cloud Software Firewalls](#cloud-software-firewalls)
   - [AWS Security Groups](#aws-security-groups)
   - [GCP Firewall](#gcp-firewall)
-  - [Azure](#azure)
+  - [Azure Firewall](#azure-firewall)
 
 <!-- INDEX_END -->
 
@@ -47,7 +49,7 @@ Hardware firewalls are more expensive as they are invariably proprietary.
 Software firewalls are often packaged with Operating Systems, but at industrial level usually only unix-based software
 firewalls are used to protect other systems, most notably the widely used [Linux IPtables](#linux-iptables).
 
-### Host vs Network Firewalls
+## Host vs Network Firewalls
 
 Technically all firewalls operate on the same TCP/IP networking stack,
 but some are more focused on protecting only their own computer host,
