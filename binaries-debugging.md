@@ -8,8 +8,9 @@ Tools for examining and working with compiled binaries.
 - [Dynamic Linking](#dynamic-linking)
   - [LIBRARY_PATH](#library_path)
   - [LD_LIBRARY_PATH](#ld_library_path)
-    - [Usages](#usages)
+    - [Use Cases](#use-cases)
     - [Pitfalls](#pitfalls)
+    - [How to use LD_LIBRARY_PATH](#how-to-use-ld_library_path)
 - [Examine dynamic library dependencies](#examine-dynamic-library-dependencies)
   - [Linux](#linux)
     - [LDD](#ldd)
@@ -76,12 +77,15 @@ This is usually the one you usually want as a user / systems administrator.
  The dynamic linker `ld.so` (which starts all applications) searches these directories in addition to the standard lib
  directories for the dynamic shared library dependencies an application was linked against.
 
-#### Usages
+#### Use Cases
 
+- using libraries outside of the usual standard locations: `/lib`, `/usr/lib`, `/usr/local/lib`
 - testing new versions of a shared library against an already compiled application
 - re-locating shared libraries, eg. to preserve old versions
 - creating a self-contained, relocatable environment for larger applications, such that they do not depend on system
   libraries – many software vendors use this approach.
+
+**DO NOT SET `LD_LIBRARY_PATH` IN THE USER, OR WORSE, GLOBAL SYSTEM ENVIRONMENT**
 
 #### Pitfalls
 
@@ -103,7 +107,27 @@ This is usually the one you usually want as a user / systems administrator.
     results.
     The app could crash, or worse, return the wrong results which is hard to debug and understand
 
-**DO NOT SET `LD_LIBRARY_PATH` IN THE USER, OR WORSE, GLOBAL SYSTEM ENVIRONMENT**
+#### How to use LD_LIBRARY_PATH
+
+Minimize the scope of `LD_LIBRARY_PATH` to ensure minimal impact on other applications.
+
+Set it in one of the following ways:
+
+Prefixed to the command to not pollute the shell environment:
+
+```shell
+LD_LIBRARY_PATH="/path/to/lib/dir" mycommand
+```
+
+or in a wrapper shell script to run only that command:
+
+```shell
+#!/bin/bash
+
+export LD_LIBRARY_PATH="/path/to/lib/dir"
+
+mycommand
+```
 
 ## Examine dynamic library dependencies
 
