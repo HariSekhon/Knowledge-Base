@@ -52,8 +52,12 @@ for readme in *.md; do
         else
             echo "Gist for '$readme' already matches, not updating"
         fi
-      else
-          echo "Creating Gist for '$readme'"
-          gh gist create --public --filename "$readme" --desc "$readme from HariSekhon/Knowledge-Base repo: https://github.com/HariSekhon/Knowledge-Base" "$readme"
+    else
+        num_lines="$(wc -l < "$readme" | sed 's/[[:space:]]//g')"
+        if [ "$num_lines" -lt 10 ]; then
+            continue
+        fi
+        echo "Creating Gist for '$readme'"
+        gh gist create --public --filename "$readme" --desc "$readme from HariSekhon/Knowledge-Base repo: https://github.com/HariSekhon/Knowledge-Base" "$readme"
     fi
 done
