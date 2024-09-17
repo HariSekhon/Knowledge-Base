@@ -55,6 +55,7 @@ for readme in *.md; do
     else
         num_lines="$(wc -l < "$readme" | sed 's/[[:space:]]//g')"
         if [ "$num_lines" -lt 10 ]; then
+            echo "Markdown file '$readme' is less than 10 lines, skipping..."
             continue
         fi
         echo "Creating Gist for '$readme'"
