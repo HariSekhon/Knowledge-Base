@@ -27,6 +27,7 @@ on:
       - main
     paths:
       - '**/*.md'
+      - .github/scripts/check_markdown_references.sh
       - .github/workflows/markdown_references.yaml
   pull_request:
     branches:
@@ -34,6 +35,7 @@ on:
       - main
     paths:
       - '**/*.md'
+      - .github/scripts/check_markdown_references.sh
       - .github/workflows/markdown_references.yaml
   workflow_dispatch:
 
