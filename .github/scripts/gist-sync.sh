@@ -68,7 +68,7 @@ while read -r renamed_from renamed_to; do
     id="$(get_gist_id "$renamed_from")"
     if [ -n "$id" ]; then
         echo "Renaming file in Gist ID $id: $renamed_from => $renamed_to"
-        #gh gist rename "$id" "$renamed_from" "$renamed_to"
+        gh gist rename "$id" "$renamed_from" "$renamed_to"
         new_description="$renamed_to from HariSekhon/Knowledge-Base repo: https://github.com/HariSekhon/Knowledge-Base"
         echo "Updating Gist description to: $new_description"
         gh gist edit "$id" "$renamed_to" --desc "$new_description"
