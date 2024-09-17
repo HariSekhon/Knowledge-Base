@@ -46,6 +46,7 @@ get_gist_id(){
             echo "Failed to determine ID for gist of file '$readme'"
             exit 1
         fi
+        echo "$id"
     fi
 }
 
