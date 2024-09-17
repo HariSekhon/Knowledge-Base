@@ -10,7 +10,7 @@
 ## Major Public Cloud Providers
 
 - [AWS](aws.md)
-- [GCloud](gcloud.md)
+- [GCP](gcp.md)
 - [Azure](azure.md)
 - [Digital Ocean](digital-ocean.md)
 
