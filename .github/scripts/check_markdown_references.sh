@@ -38,12 +38,23 @@ cd "$git_root"
 exitcode=0
 
 while read -r file_md; do
+    # most files are present so the -f "$file_md" test is faster than forking for every file
+    #if git grep -q "($file_md).*TODO"; then
+    #    continue
+    #fi
     if ! [ -f "$file_md" ]; then
         if git grep -q "($file_md).*TODO"; then
             continue
         fi
         echo "referenced but file not found: $file_md"
         git grep -F "($file_md)"
+        echo
+        exitcode=1
+    elif ! git ls-files --error-unmatch "$file_md" >/dev/null; then
+        #if git grep -q "($file_md).*TODO"; then
+        #    continue
+        #fi
+        echo "referenced file found but not committed to git: $file_md"
         echo
         exitcode=1
     fi
