@@ -109,7 +109,7 @@ Microsoft's Visual Studio Code is a free modern popular open-source IDE with plu
 
 Not as good as IntelliJ in my opinion.
 
-See the [VS Code](vscode.md) page for more details.
+See the [VS Code](vs-code.md) page for more details.
 
 ### Eclipse
 
