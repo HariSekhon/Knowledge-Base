@@ -61,11 +61,15 @@ and forms the basis of many cheaper appliances built on Linux such as [Smoothwal
 
 ### Cisco ASA (Adaptive Security Appliance)
 
+<https://www.cisco.com/c/en/us/products/security/adaptive-security-appliance-asa-software/index.html>
+
 - Known for: Advanced threat protection, VPN capabilities, and deep packet inspection
 - Used by: Large enterprises and service providers
 - Features: Intrusion prevention, malware defense, and support for high-speed VPNs
 
 ### Fortinet FortiGate
+
+<https://www.fortinet.com/products/next-generation-firewall>
 
 - Known for: High performance, integrated threat protection, and SD-WAN capabilities
 - Used by: Enterprises of all sizes
@@ -73,11 +77,15 @@ and forms the basis of many cheaper appliances built on Linux such as [Smoothwal
 
 ### Palo Alto Networks PA-Series
 
+<https://www.paloaltonetworks.com/network-security/next-generation-firewall>
+
 - Known for: Threat prevention, deep visibility, and consistent protection across the network
 - Used by: Large enterprises, data centers, and cloud environments
 - Features: NGFW, advanced intrusion prevention, and malware protection
 
 ### Check Point Firewalls
+
+<https://www.checkpoint.com/products/next-generation-firewall/>
 
 - Known for: High throughput, advanced threat prevention, and unified security management
 - Used by: Enterprises and data centers
@@ -85,11 +93,15 @@ and forms the basis of many cheaper appliances built on Linux such as [Smoothwal
 
 ### SonicWall TZ & NSa Series
 
+<https://www.sonicwall.com/products/firewalls/>
+
 - Known for: Affordable NGFW with high performance and advanced security features
 - Used by: Small to medium-sized businesses (TZ) and larger enterprises (NSa)
 - Features: Advanced threat detection, intrusion prevention, and VPN
 
 ### Juniper SRX, Netscreen & SSG Series
+
+<https://www.juniper.net/us/en/products-services/security/srx-series/>
 
 - Known for: Scalability, integration with SD-WAN, and advanced security services
 - Used by: Enterprises, data centers, and service providers
@@ -97,11 +109,15 @@ and forms the basis of many cheaper appliances built on Linux such as [Smoothwal
 
 ### Barracuda CloudGen Firewall
 
+<https://www.barracuda.com/products/cloudgenfirewall>
+
 - Known for: Built-in cloud integration and protection, especially for hybrid cloud deployments
 - Used by: Enterprises looking for strong cloud security
 - Features: Advanced threat detection, URL filtering, and centralized management
 
 ### WatchGuard Firebox
+
+<https://www.watchguard.com/wgrd-products/firebox-overview>
 
 - Known for: User-friendly interface, affordable NGFW for small and mid-sized businesses
 - Used by: SMBs and mid-market companies
@@ -109,11 +125,15 @@ and forms the basis of many cheaper appliances built on Linux such as [Smoothwal
 
 ### Sophos XG Firewall
 
+<https://www.sophos.com/en-us/products/next-gen-firewall.aspx>
+
 - Known for: Easy integration with other Sophos products and synchronized security for endpoint protection
 - Used by: Small and medium-sized businesses
 - Features: NGFW, deep packet inspection, advanced threat detection, and web filtering
 
 ### Huawei USG Firewalls
+
+<https://e.huawei.com/en/products/network-security/firewall>
 
 - Known for: High performance and integration with Huawei's cloud and enterprise infrastructure
 - Used by: Large enterprises, especially in Asia
@@ -123,11 +143,15 @@ and forms the basis of many cheaper appliances built on Linux such as [Smoothwal
 
 ### Linux IPtables
 
+<https://www.netfilter.org/>
+
 - Known for: Packet filtering, NAT (Network Address Translation), and firewall capabilities built into the Linux kernel
 - Used by: Linux-based servers, networking environments, and embedded systems
 - Features: Stateful packet inspection, traffic filtering based on IP addresses, ports, and protocols
 
 ### nftables
+
+<https://www.netfilter.org/projects/nftables/index.html>
 
 - Known for: Modern replacement for iptables in Linux, with more flexibility and easier management
 - Used by: Linux-based systems as an alternative to iptables
@@ -135,11 +159,15 @@ and forms the basis of many cheaper appliances built on Linux such as [Smoothwal
 
 ### pf (Packet Filter)
 
+<https://www.openbsd.org/faq/pf/>
+
 - Known for: Robust firewall software for BSD-based systems like OpenBSD, FreeBSD, and NetBSD
 - Used by: BSD-based systems and firewalls like pfSense
 - Features: Stateful packet filtering, NAT, traffic normalization, and bandwidth control
 
 ### UFW (Uncomplicated Firewall)
+
+<https://wiki.ubuntu.com/UncomplicatedFirewall>
 
 - Known for: User-friendly command-line interface for managing iptables rules on Ubuntu and other Linux distributions
 - Used by: Linux desktop and server environments
@@ -147,11 +175,15 @@ and forms the basis of many cheaper appliances built on Linux such as [Smoothwal
 
 ### Firewalld
 
+<https://firewalld.org/>
+
 - Known for: Dynamic firewall management tool with support for network zones and services
 - Used by: Red Hat-based Linux distributions (eg. CentOS, Fedora)
 - Features: Easy management of rules, dynamic rules reloading, and support for IPv4, IPv6, and Ethernet bridging
 
 ### Windows Defender Firewall
+
+<https://www.microsoft.com/en-us/windows/comprehensive-security>
 
 - Known for: Built-in firewall for Windows operating systems
 - Used by: Home and business environments on Windows PCs
@@ -160,11 +192,15 @@ and forms the basis of many cheaper appliances built on Linux such as [Smoothwal
 
 ### pfSense
 
+<https://www.pfsense.org/>
+
 - Known for: Open-source firewall and router software based on FreeBSD and pf
 - Used by: Small to medium-sized businesses, home users, and IT enthusiasts
 - Features: Stateful packet filtering, VPN support, traffic shaping, and integrated web interface
 
 ### IPFire
+
+<https://www.ipfire.org/>
 
 - Known for: Open-source firewall and router solution with focus on security and performance
 - Used by: Small businesses and home users
@@ -172,11 +208,15 @@ and forms the basis of many cheaper appliances built on Linux such as [Smoothwal
 
 ### ClearOS
 
+<https://www.clearos.com/>
+
 - Known for: Easy-to-use Linux distribution with integrated firewall and network security tools
 - Used by: Small businesses and IT enthusiasts
 - Features: Stateful firewall, gateway antivirus, content filtering, and VPN
 
 ### Smoothwall Express
+
+<https://smoothwall.org/>
 
 - Known for: Free and open-source firewall software designed for small businesses and home users
 - Used by: Home networks and small office environments
@@ -186,8 +226,26 @@ and forms the basis of many cheaper appliances built on Linux such as [Smoothwal
 
 Each [Cloud](cloud.md) provider has its own software firewalls.
 
-### [AWS](aws.md) Security Groups
+### AWS Security Groups
 
-### [GCP](gcp.md) Firewall
+<https://aws.amazon.com/vpc/faqs/#Security_Groups>
 
-### [Azure](azure.md)
+- Known for: Virtual firewalls for controlling inbound and outbound traffic for AWS EC2 instances.
+- Used by: AWS customers across various cloud environments.
+- Features: Layer 3 and Layer 4 filtering, customizable security rules, and integration with AWS services.
+
+### GCP Firewall
+
+<https://cloud.google.com/vpc/docs/firewalls>
+
+- Known for: Global firewall rules for controlling traffic in Google Cloud Platform’s Virtual Private Cloud (VPC) network.
+- Used by: GCP users managing large-scale cloud infrastructure.
+- Features: Layer 3 and Layer 4 firewall rules, default deny-all rule, logging, and dynamic rule updates.
+
+### Azure Firewall
+
+<https://azure.microsoft.com/en-us/services/azure-firewall/>
+
+- Known for: Fully managed firewall service providing network and application-level protection for Azure resources.
+- Used by: Azure cloud users for securing virtual networks.
+- Features: Built-in high availability, scalability, threat intelligence, and integration with Azure Security Center.
