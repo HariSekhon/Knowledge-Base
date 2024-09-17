@@ -1,6 +1,13 @@
 # Cloud
 
-Major Public Cloud Providers:
+<!-- INDEX_START -->
+
+- [Major Public Cloud Providers](#major-public-cloud-providers)
+- [AWS vs GCP](#aws-vs-gcp)
+
+<!-- INDEX_END -->
+
+## Major Public Cloud Providers
 
 - [AWS](aws.md)
 - [GCloud](gcloud.md)
