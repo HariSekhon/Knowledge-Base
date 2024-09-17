@@ -62,6 +62,31 @@ jobs:
         with:
           submodules: 'true'  # requires Git 2.18+ to be installed first
 
+      # using actions/cache instead
+      #
+      #- name: Download previous SHA
+      #  uses: actions/download-artifact@v3
+      #  with:
+      #    name: last-successful-sha
+
+      - name: Cache Last Successful SHA
+        uses: actions/cache@v3
+        id: sha-cache
+        with:
+          path: last-successful-sha.txt
+          key: last-successful-sha
+
+      - name: Get Previous SHA
+        run: |
+          PREVIOUS_SHA="$(cat last-successful-sha.txt)"
+          echo "Previous commit: $PREVIOUS_SHA"
+          echo "PREVIOUS_SHA=$PREVIOUS_SHA" >> "$GITHUB_ENV"
+
+      - name: Git log since last workflow
+        run: |
+          PREVIOUS_SHA=$(cat last-successful-sha.txt)
+          git log $PREVIOUS_SHA..HEAD --oneline
+
       #- name: GitHub CLI Auth Login
       #  run: gh auth login --with-token <<< "$GH_TOKEN"
       #
@@ -70,3 +95,12 @@ jobs:
 
       - name: Sync READMEs to Gists
         run: .github/scripts/gist-sync.sh
+
+      - name: Store Current Commit SHA
+        run: echo "$GITHUB_SHA" > last-successful-sha.txt
+
+      #- name: Upload artifact
+      #  uses: actions/upload-artifact@v3
+      #  with:
+      #    name: last-successful-sha
+      #    path: last-successful-sha.txt
