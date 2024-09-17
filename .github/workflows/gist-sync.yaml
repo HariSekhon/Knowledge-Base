@@ -84,8 +84,7 @@ jobs:
 
       - name: Git log since last workflow
         run: |
-          PREVIOUS_SHA=$(cat last-successful-sha.txt)
-          git log $PREVIOUS_SHA..HEAD --oneline
+          git log "$PREVIOUS_SHA"..HEAD --oneline
 
       #- name: GitHub CLI Auth Login
       #  run: gh auth login --with-token <<< "$GH_TOKEN"
