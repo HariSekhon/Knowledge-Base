@@ -11,6 +11,7 @@ Tools for examining and working with compiled binaries.
     - [Use Cases](#use-cases)
     - [Pitfalls](#pitfalls)
     - [How to use LD_LIBRARY_PATH](#how-to-use-ld_library_path)
+  - [LD_RUN_PATH](#ld_run_path)
 - [Examine dynamic library dependencies](#examine-dynamic-library-dependencies)
   - [Linux](#linux)
     - [LDD](#ldd)
@@ -116,7 +117,7 @@ Set it in one of the following ways:
 Prefixed to the command to not pollute the shell environment:
 
 ```shell
-LD_LIBRARY_PATH="/path/to/lib/dir" mycommand
+LD_LIBRARY_PATH="/path/to/lib/dir" myprogram
 ```
 
 or in a wrapper shell script to run only that command:
@@ -126,7 +127,25 @@ or in a wrapper shell script to run only that command:
 
 export LD_LIBRARY_PATH="/path/to/lib/dir"
 
-mycommand
+myprogram
+```
+
+You can also compile the runtime library path into the binary if you are compiling it yourself as per the next section.
+
+### LD_RUN_PATH
+
+You can embed the runtime library path into the binary:
+
+```shell
+gcc -o myprogram myprogram.c -lmylib -Wl,-rpath,/path/to/lib/dir
+```
+
+Alternatively you can specify the `LD_RUN_PATH` environment variable to achieve the same result:
+
+```shell
+export LD_RUN_PATH="/path/to/lib/dir"
+
+gcc -o myprogram myprogram.c -lmylib
 ```
 
 ## Examine dynamic library dependencies
