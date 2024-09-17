@@ -27,6 +27,7 @@ on:
       - main
     paths:
       - '**/*.md'
+      - .github/scripts/check_index.sh
       - .github/workflows/index.yaml
   pull_request:
     branches:
@@ -34,6 +35,7 @@ on:
       - main
     paths:
       - '**/*.md'
+      - .github/scripts/check_index.sh
       - .github/workflows/index.yaml
   workflow_dispatch:
 
