@@ -15,6 +15,7 @@
 - [Badges & Icons](#badges--icons)
   - [Badges](#badges)
   - [Icons](#icons)
+  - [Icon Colours](#icon-colours)
   - [Detecting Colours - ColorZilla](#detecting-colours---colorzilla)
 - [Star History Graphs](#star-history-graphs)
   - [Star History](#star-history)
@@ -219,6 +220,26 @@ if appended to existing parameters:
 Result:
 
 ![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)
+
+### Icon Colours
+
+Usually you can get the hex colour of an icon or brand from the [SimpleIcons.org](https://simpleicons.org/) website.
+
+Click the hex colour code to copy it to clipboard.
+
+However, sometimes the colour they have is not the colour that matches the website logo, such as is the case with Miro:
+
+<https://simpleicons.org/?q=miro>
+
+which shows this dark `#050038` colour which would result in:
+
+[![Miro](https://img.shields.io/badge/Miro-dashboard-050038.svg?logo=miro)](https://miro.com/app/dashboard/)
+
+instead of the yellow colour that one usually associates with Miro:
+
+[![Miro](https://img.shields.io/badge/Miro-dashboard-FEDD33.svg?logo=miro)](https://miro.com/app/dashboard/)
+
+In this case you can detect the colour off the website or logo yourself...
 
 ### Detecting Colours - ColorZilla
 
