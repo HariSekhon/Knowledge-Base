@@ -51,9 +51,9 @@ while read -r file_md; do
         echo
         exitcode=1
     elif ! git ls-files --error-unmatch "$file_md" >/dev/null; then
-        #if git grep -q "($file_md).*TODO"; then
-        #    continue
-        #fi
+        if git grep -q "($file_md).*TODO"; then
+            continue
+        fi
         echo "referenced file found but not committed to git: $file_md"
         echo
         exitcode=1
