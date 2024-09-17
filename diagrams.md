@@ -24,6 +24,9 @@ The cutting edge is Diagrams-as-Code.
 
 <!-- INDEX_END -->
 
+See also the [Documentation](documentation.md) and [Markdown](markdown.md) pages for tips on things like embedding
+diagrams in `README.md`, as well Badges.
+
 ## Real World Architecture Diagrams
 
 [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - ready made architecture diagrams
@@ -89,6 +92,7 @@ For more control and complex architecture diagrams.
   - still only AWS and Azure diagrams as of March 2024
 - [Creately](https://app.creately.com/) - AWS, Azure and GCP diagrams
 - [Excalidraw](https://excalidraw.com/) - simple whiteboard style drawings - also useful for ad-hock drawings to explain things to colleagues
+- [Miro](https://miro.com/app/dashboard/) - collaborative workflow and diagram tool
 - [Prezi](https://prezi.com/) - focused on presentations
 - [Sketch](https://www.sketch.com/)
 - [Cacoo](https://nulab.com/cacoo/)
