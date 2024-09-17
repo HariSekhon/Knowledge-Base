@@ -22,6 +22,7 @@ on:
       - main
     paths:
       - '**/*.md'
+      - .github/scripts/gist-sync.sh
       - .github/workflows/gist-sync.yaml
   pull_request:
     branches:
@@ -29,6 +30,7 @@ on:
       - main
     paths:
       - '**/*.md'
+      - .github/scripts/gist-sync.sh
       - .github/workflows/gist-sync.yaml
   workflow_dispatch:
 
