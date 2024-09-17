@@ -37,13 +37,42 @@ num_args 0 "$@"
 
 gist_list="$(gh gist list -L 2000 --public)"
 
-for readme in *.md; do
+# return a gist ID if a gist with a matching filename exists - else return nothing
+get_gist_id(){
+    local readme="$1"
     if awk '{print $2}' <<< "$gist_list" | grep -Fxq "$readme"; then
         id="$(awk "/^[[:alnum:]]{32}[[:space:]]+$readme / {print \$1; exit}" <<< "$gist_list" || :)"
         if [ -z "$id" ]; then
             echo "Failed to determine ID for gist of file '$readme'"
             exit 1
         fi
+    fi
+}
+
+echo "Checking for any renamed files since last workflow"
+
+git log "${PREVIOUS_SHA:-}"..HEAD --diff-filter=R --summary --oneline |
+sed -n '
+    /[{}]/d;
+    s/^.* rename \(.*\.md\) => \(.*\.md\) ([[:digit:]]*%)$/\1 \2/p
+    ' |
+while read -r renamed_from renamed_to; do
+    echo "Rename detected: $renamed_from => $renamed_to"
+    id="$(gist_id "$renamed_from")"
+    if [ -n "$id" ]; then
+        echo "Renamed file in Gist ID $id: $renamed_from => $renamed_to"
+        gh gist rename "$id" "$renamed_from" "$renamed_to"
+    else
+        echo "No corresponding Gist detected, skipping..."
+    fi
+    echo
+done
+
+echo
+
+for readme in *.md; do
+    id="$(get_gist_id "$readme")"
+    if [ -n "$id" ]; then
         gist_md5="$(gh gist view "$id" --filename "$readme" --raw | md5sum)"
         readme_md5="$(md5sum < "$readme")"
         if [ "$gist_md5" != "$readme_md5" ]; then
@@ -61,4 +90,5 @@ for readme in *.md; do
         echo "Creating Gist for '$readme'"
         gh gist create --public --filename "$readme" --desc "$readme from HariSekhon/Knowledge-Base repo: https://github.com/HariSekhon/Knowledge-Base" "$readme"
     fi
+    echo
 done
