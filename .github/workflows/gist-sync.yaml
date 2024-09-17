@@ -61,6 +61,7 @@ jobs:
         #name: Git Checkout  # better to show the action@version
         with:
           submodules: 'true'  # requires Git 2.18+ to be installed first
+          fetch-depth: 0
 
       # using actions/cache instead
       #
