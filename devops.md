@@ -11,7 +11,6 @@
 
 **TODO: move to other more specific detailed pages**
 
-- LiquiBase
 - Bamboo
 - Chaos Monkey
 - CloudTest
@@ -48,7 +47,7 @@ It requires extensive experience in the following areas:
 - [Firewalls](firewalls.md)
 - [DNS](dns.md)
 - Web technologies
-- [Load Balancing](loadbalancing.md)
+- [Load Balancing](load-balancing.md)
 - [Security](security.md)
 - [Programming](programming.md) - usually at least 1-2 languages just to start, you'll probably know 6-10 languages
   if you're any good
