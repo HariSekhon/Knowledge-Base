@@ -78,7 +78,7 @@ jobs:
 
       - name: Get Previous SHA
         run: |
-          PREVIOUS_SHA="$(cat last-successful-sha.txt)"
+          PREVIOUS_SHA="$(cat last-successful-sha.txt || :)"
           echo "Previous commit: $PREVIOUS_SHA"
           echo "PREVIOUS_SHA=$PREVIOUS_SHA" >> "$GITHUB_ENV"
 
