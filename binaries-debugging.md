@@ -127,7 +127,7 @@ or in a wrapper shell script to run only that command:
 
 export LD_LIBRARY_PATH="/path/to/lib/dir"
 
-myprogram
+exec myprogram "$@"
 ```
 
 You can also compile the runtime library path into the binary if you are compiling it yourself as per the next section.
