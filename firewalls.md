@@ -42,6 +42,9 @@ network of computer systems.
 They are often used to limit source IP addresses to ensure some services can only be accessed from known good sites
 (this is something that public websites cannot do obviously).
 
+Most firewalls are stateful tracking TCP session creation and responses to protect against obvious protocol abuse DoS
+attacks like syn flooding.
+
 ## Hardware vs Software Firewalls
 
 Hardware firewalls are more expensive as they are invariably proprietary.
