@@ -282,6 +282,8 @@ http GET localhost:8000/mockbin
 
 ### Kong Kubernetes Ingress
 
+[HariSekhon/Kubernetes - kong/](https://github.com/HariSekhon/Kubernetes-configs/tree/master/kong)
+
 ![Kong K8s Ingress](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/kubernetes_kong_api_gateway_eks.png)
 
 **Ported from private Knowledge Base page 2023+**
