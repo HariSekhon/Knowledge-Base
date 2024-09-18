@@ -28,8 +28,9 @@
 - [Kong decK](#cli) - CLI for managing Kong Gateway or Konnect in declarative fashion
 - [Kong Plugin Hub](https://docs.konghq.com/hub/)
 - Kong Mesh - service mesh based on Kuma and Envoy for Kubernetes or VMs
-- [Kong Insomnia](https://insomnia.rest/) - open-source API desktop client - tested but not sure what the point of this is compared to curl
-  - Inso - Insomnia CLI for CI/CD use
+- [Kong Insomnia](https://insomnia.rest/) - open-source API desktop client - tested but not sure what the point of this
+  is compared to curl
+  - Inso - Insomnia CLI for [CI/CD](ci-cd.md) use
 - [Mockbin](https://mockbin.org/) - create API endpoints to test using Insomnia
 
 ## Kong Gateway
@@ -49,7 +50,8 @@ Default username / password: `kong_admin` / `password`
 
 - low latency < 1ms
 - high throughput 50K+ transactions/sec per node
-- Kubernetes-native Ingress Controller and configuration yamls using CRD objects to declaratively configure all aspects of Kong (see $k8s/kong-*.yaml)
+- Kubernetes-native Ingress Controller and configuration yamls using CRD objects to declaratively configure all aspects
+  of Kong (see [HariSekhon/Kubernetes - kong/](https://github.com/HariSekhon/Kubernetes-configs/tree/master/kong) )
 - GitOps declarative configuration
 - multiple API versions - redirect users to latest, rollback to previous version
 - High Availability
@@ -112,7 +114,8 @@ Default username / password: `kong_admin` / `password`
   - can have control plane control gateway data plane nodes across sites, like a self-managed Konnect
 - Traditional (Classic) - gateway + DB
   - DB can be [PostgreSQL](postgres.md) or [Cassandra](cassandra.md)
-- DB-less - declarative configuration on each gateway - via DecK CLI yaml reconciliation or Kubernetes CRDs stored in etcd and loaded at pod boot time
+- DB-less - declarative configuration on each gateway - via DecK CLI yaml reconciliation or Kubernetes CRDs stored in
+  etcd and loaded at pod boot time
 
 Configuration options:
 
@@ -152,16 +155,18 @@ Configuration options:
 - Service Catalog
 
 - License checks in precedence:
-  - KONG_LICENSE_DATA environment variable
+  - `KONG_LICENSE_DATA` environment variable
   - `/etc/kong/license.json`
-  - KONG_LICENSE_PATH environment variable
+  - `KONG_LICENSE_PATH` environment variable
 
 ```shell
 http -h POST localhost:8001/licenses payload=@/path/to/license.json
 ```
 
 In hybrid deployments, applying the license to control plane using method 4 will result in distribution of the license
-from control plane to data plane. Otherwise methods 1/2/3 should be used on each data plane node.
+from control plane to data plane.
+
+Otherwise methods 1/2/3 should be used on each data plane node.
 
 ## API Gateway Benefits
 
