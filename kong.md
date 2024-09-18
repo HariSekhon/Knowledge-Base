@@ -1,4 +1,4 @@
-# Kong
+# Kong API Gateway
 
 <https://docs.konghq.com/>
 
