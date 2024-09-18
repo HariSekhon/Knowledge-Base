@@ -16,7 +16,8 @@ The [Releases](https://wiki.ubuntu.com/Releases) page lists the release dates an
 <!-- INDEX_START -->
 
 - [Debian Core](#debian-core)
-  - [Upgrade LTS to newer non-LTS release](#upgrade-lts-to-newer-non-lts-release)
+- [Ubuntu Releases](#ubuntu-releases)
+- [Upgrade LTS to newer non-LTS release](#upgrade-lts-to-newer-non-lts-release)
 - [AutoInstall - Automated Installations](#autoinstall---automated-installations)
   - [Autoinstall Template](#autoinstall-template)
   - [HashiCorp Packer + Autoinstall Config](#hashicorp-packer--autoinstall-config)
@@ -27,7 +28,11 @@ The [Releases](https://wiki.ubuntu.com/Releases) page lists the release dates an
 
 Read the [Debian.md](debian.md) page for Deb / Apt package management and other core commands derived from Debian.
 
-### Upgrade LTS to newer non-LTS release
+## Ubuntu Releases
+
+<https://ubuntu.com/about/release-cycle>
+
+## Upgrade LTS to newer non-LTS release
 
 Don't do this on servers unless you have no other choice.
 
