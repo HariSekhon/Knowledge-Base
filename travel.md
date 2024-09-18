@@ -863,7 +863,9 @@ I used Virgin Mobile on a prepaid contract for around £200 for the year which w
 
 You will need a car or taxi everywhere.
 
-Careem is Dubai's version of Uber.
+[Careem](https://www.careem.com/) is the everything app, including Taxis.
+
+It does everything from Uber-style taxis, to food delivery, to rental bicycles.
 
 #### Visa
 
