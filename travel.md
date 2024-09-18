@@ -876,8 +876,8 @@ Copying them was how a lot of the European countries on this list were covered!
   - they were a hassle to open, wanting salary certificate
   - even closing the account is difficult apparently
 - [HSBC](https://www.hsbc.ae/) was a similar hassle to NBD above wanting salary certificate addressed specifically to them
-  - much more than HSBC back in the UK
-  - even having an HSBC account in the UK doesn't help
+  - much more hassle, not like HSBC back in the UK, most UK banks just open accounts easily
+  - even already having an HSBC UK account doesn't help
 
 ### USA
 
