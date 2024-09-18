@@ -77,7 +77,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Manilla](#manilla)
   - [Serbia](#serbia)
     - [Indoor Smoking, Outdoor Smoking, Smoking Everywhere](#indoor-smoking-outdoor-smoking-smoking-everywhere)
-    - [Taxis](#taxis)
+    - [Belgrade Taxis](#belgrade-taxis)
     - [Driving in Serbia](#driving-in-serbia)
     - [Belgrade](#belgrade)
     - [Novi Sad](#novi-sad)
@@ -91,6 +91,9 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Stockholm](#stockholm)
   - [UAE](#uae)
     - [Dubai](#dubai)
+    - [Dubai Taxis](#dubai-taxis)
+    - [Visa](#visa)
+    - [Weather](#weather)
     - [Banking](#banking)
   - [USA](#usa)
     - [California](#california)
@@ -690,11 +693,11 @@ Quite shocking that Serbia permits this.
 
 I've asked the locals about this and they said there are a couple non-smoking venues *"but nobody goes there"*.
 
-#### Taxis
+#### Belgrade Taxis
 
 [Car Go](https://appcargo.com/en) - like Uber.
 
-Lux Taxi couldn't even register using my UK mobile number - I got
+Lux Taxi app couldn't even register using my UK mobile number - I got
 [this error](https://www.linkedin.com/posts/harisekhon_imagine-having-a-top-taxi-app-in-belgrade-activity-7242252581597585409-MRlJ)
 🤪
 
@@ -856,9 +859,13 @@ People drive with air conditioning and dive into malls, offices and restaurants 
 
 I used Virgin Mobile on a prepaid contract for around £200 for the year which was the cheapest deal I could find.
 
+#### Dubai Taxis
+
 You will need a car or taxi everywhere.
 
 Careem is Dubai's version of Uber.
+
+#### Visa
 
 You are required to get a medical blood screening, chest x-ray, biometrics like fingerprinting to get a visa here.
 
@@ -867,6 +874,8 @@ and will get a shock as your car rental company refuses to release the car to yo
 
 You will then need to Careem around the city to get your Emirates ID and then your Drivers License which will require
 local bank or cash payment.
+
+#### Weather
 
 The weather is so hot even by May some people use sun umbrellas - so hot that it broke my car phone holder.
 Rich people usually leave Dubai and go to Europe for the summer.
