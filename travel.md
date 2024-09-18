@@ -722,12 +722,16 @@ good wifi and young crowd (probably due to it being cheap).
 I've spent many hours on their wifi with regular top ups of juices and smoothies because they're so affordable,
 on top of lunch and dinner.
 Closes earlier than other restaurants at 9pm so it's better as a daytime place.
+Non-smoking, a rare find in Belgrade.
 
 [Elephant's Food House](https://maps.app.goo.gl/aK24TL7T6c3cm3xKA) - another good cheap lunch type place.
 Closes early at 6pm.
 
 [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) -
 good coffee shop with 2 levels right in the centre, often busy and open late until 11pm.
+
+[Fit Bar](https://maps.app.goo.gl/S6nsPw9Ckj9v34Jg8) - small healthy eat place - one of the rare no smoking places in
+Belgrade
 
 [Burger House Bros Centar](https://maps.app.goo.gl/C5FyhgFp16gPN11H9) - very good burger restaurant
 
@@ -736,6 +740,12 @@ parade, very popular and good
 
 [Trattoria Pepe](https://maps.app.goo.gl/gdP9dLWxAVzGYEdV6) - excellent Italian 5 minutes walk from the centre -
 worth the walk
+
+[Casa Nova](https://maps.app.goo.gl/mPPNKEYf2M5FKnm49) - has both outdoor and a non-smoking section on the upper level
+rear section (quiet section, everybody in Belgrade seems to smoke)
+
+[Velika Skadarlija](https://maps.app.goo.gl/jHfCipxrNiK4Bzg66) - good restaurant with great outdoor seating area, with
+the odd plug if you need it
 
 #### Novi Sad
 
