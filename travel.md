@@ -77,6 +77,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Manilla](#manilla)
   - [Serbia](#serbia)
     - [Indoor Smoking, Outdoor Smoking, Smoking Everywhere](#indoor-smoking-outdoor-smoking-smoking-everywhere)
+    - [Taxis](#taxis)
     - [Driving in Serbia](#driving-in-serbia)
     - [Belgrade](#belgrade)
     - [Novi Sad](#novi-sad)
@@ -688,6 +689,10 @@ You have to feel sorry for the Serbian wait staff subjected to second-hand smoke
 Quite shocking that Serbia permits this.
 
 I've asked the locals about this and they said there are a couple non-smoking venues *"but nobody goes there"*.
+
+#### Taxis
+
+[Car Go](https://appcargo.com/en) - like Uber.
 
 #### Driving in Serbia
 
