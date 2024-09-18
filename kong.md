@@ -14,8 +14,7 @@
 - [Kong Enterprise](#kong-enterprise)
 - [API Gateway Benefits](#api-gateway-benefits)
 - [CLI](#cli)
-- [Diagram](#diagram)
-  - [Kong Kubernetes Ingress](#kong-kubernetes-ingress)
+- [Diagram - Kong Kubernetes Ingress](#diagram---kong-kubernetes-ingress)
 
 <!-- INDEX_END -->
 
@@ -278,9 +277,7 @@ http GET localhost:8001/routes
 http GET localhost:8000/mockbin
 ```
 
-## Diagram
-
-### Kong Kubernetes Ingress
+## Diagram - Kong Kubernetes Ingress
 
 [HariSekhon/Kubernetes - kong/](https://github.com/HariSekhon/Kubernetes-configs/tree/master/kong)
 
