@@ -35,6 +35,10 @@
 
 ## Kong Gateway
 
+Kong Kubernetes Deployment:
+
+[HariSekhon/Kubernetes - kong/](https://github.com/HariSekhon/Kubernetes-configs/tree/master/kong)
+
 Default username / password: `kong_admin` / `password`
 
 - most popular open-source API gateway reverse proxy
