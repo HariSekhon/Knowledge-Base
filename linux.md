@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Shell](#shell)
+- [Linux Distro & Version](#linux-distro--version)
 - [Cron](#cron)
   - [User Crons](#user-crons)
 - [Timezone](#timezone)
@@ -16,6 +17,8 @@
 - [DRBD](#drbd)
 - [Distributions](#distributions)
 - [Binaries Debugging](#binaries-debugging)
+- [Linux Boot Process](#linux-boot-process)
+- [Linux Filesystem Layout](#linux-filesystem-layout)
 
 <!-- INDEX_END -->
 
@@ -25,6 +28,25 @@
 `/bin`, `/usr/bin` and similar directories.
 
 Start with [Bash](bash.md) which is the standard open source Linux shell.
+
+## Linux Distro & Version
+
+The generic way:
+
+```shell
+cat /etc/*-release
+```
+
+These files have different contents:
+
+| Distro     | File                                                                                              |
+|------------|---------------------------------------------------------------------------------------------------|
+| Alpine     | `/etc/os-release` <br> `/etc/alpine-release`                                                      |
+| CentOS     | `/etc/os-release` <br> `/etc/system-release` <br> `/etc/redhat-release` <br>`/etc/centos-release` |
+| Debian     | `/etc/os-release`                                                                                 |
+| Redhat     | `/etc/os-release` <br> `/etc/system-release` <br> `/etc/redhat-release`                           |
+| RockyLinux | `/etc/os-release` <br> `/etc/system-release` <br> `/etc/redhat-release` <br> `/etc/rocky-release` |
+| Ubuntu     | `/etc/os-release` <br> `/etc/lsb-release`                                                         |
 
 ## Cron
 
