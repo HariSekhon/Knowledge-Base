@@ -3,7 +3,8 @@
 <!-- INDEX_START -->
 
 - [Shell](#shell)
-- [Linux Distro & Version](#linux-distro--version)
+- [Distro Lineage](#distro-lineage)
+- [Distro & Version](#distro--version)
 - [Cron](#cron)
   - [User Crons](#user-crons)
 - [Timezone](#timezone)
@@ -29,7 +30,19 @@
 
 Start with [Bash](bash.md) which is the standard open source Linux shell.
 
-## Linux Distro & Version
+## Distro Lineage
+
+- [Redhat](redhat.md)
+  - Amazon Linux
+  - Centos
+  - Fedora
+  - RockyLinux
+- [Debian](debian.md)
+  - [Ubuntu](ubuntu.md)
+- Alpine
+- Gentoo
+
+## Distro & Version
 
 The generic way:
 
@@ -39,14 +52,15 @@ cat /etc/*-release
 
 These files have different contents:
 
-| Distro     | File                                                                                              |
-|------------|---------------------------------------------------------------------------------------------------|
-| Alpine     | `/etc/os-release` <br> `/etc/alpine-release`                                                      |
-| CentOS     | `/etc/os-release` <br> `/etc/system-release` <br> `/etc/redhat-release` <br>`/etc/centos-release` |
-| Debian     | `/etc/os-release`                                                                                 |
-| Redhat     | `/etc/os-release` <br> `/etc/system-release` <br> `/etc/redhat-release`                           |
-| RockyLinux | `/etc/os-release` <br> `/etc/system-release` <br> `/etc/redhat-release` <br> `/etc/rocky-release` |
-| Ubuntu     | `/etc/os-release` <br> `/etc/lsb-release`                                                         |
+| Distro       | File                                                                                              |
+|--------------|---------------------------------------------------------------------------------------------------|
+| Alpine       | `/etc/os-release` <br> `/etc/alpine-release`                                                      |
+| Amazon Linux | `/etc/os-release` <br> `/etc/system-release` <br>`/etc/amazon-release`                            |
+| CentOS       | `/etc/os-release` <br> `/etc/system-release` <br> `/etc/redhat-release` <br>`/etc/centos-release` |
+| Debian       | `/etc/os-release`                                                                                 |
+| Redhat       | `/etc/os-release` <br> `/etc/system-release` <br> `/etc/redhat-release`                           |
+| RockyLinux   | `/etc/os-release` <br> `/etc/system-release` <br> `/etc/redhat-release` <br> `/etc/rocky-release` |
+| Ubuntu       | `/etc/os-release` <br> `/etc/lsb-release`                                                         |
 
 ## Cron
 
