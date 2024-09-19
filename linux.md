@@ -3,8 +3,8 @@
 <!-- INDEX_START -->
 
 - [Shell](#shell)
-- [Distro Lineage](#distro-lineage)
-- [Distro & Version](#distro--version)
+- [Distributions & Lineage](#distributions--lineage)
+- [Show Distro & Version](#show-distro--version)
 - [Cron](#cron)
   - [User Crons](#user-crons)
 - [Timezone](#timezone)
@@ -16,7 +16,6 @@
 - [Disk Management](#disk-management)
   - [/etc/fstab](#etcfstab)
 - [DRBD](#drbd)
-- [Distributions](#distributions)
 - [Binaries Debugging](#binaries-debugging)
 - [Linux Boot Process](#linux-boot-process)
 - [Linux Filesystem Layout](#linux-filesystem-layout)
@@ -30,19 +29,23 @@
 
 Start with [Bash](bash.md) which is the standard open source Linux shell.
 
-## Distro Lineage
+## Distributions & Lineage
 
-- [Redhat](redhat.md)
+- [Debian](debian.md) - the standard open source distribution
+  - [Ubuntu](ubuntu.md) - more updated distro, originally Desktop focused then expanded into cloud distro focus too
+
+- [Redhat](redhat.md) - used to the standard enterprise distro but has killed its open source credentials by strangling
+  CentOS and consequently become legacy
   - Amazon Linux
   - Centos
   - Fedora
   - RockyLinux
-- [Debian](debian.md)
-  - [Ubuntu](ubuntu.md)
-- Alpine
-- Gentoo
 
-## Distro & Version
+- [Gentoo](gentoo.md) - l33t but takes time to compile.
+
+- [Alpine](alpine.md) - slim distribution designed for Docker
+
+## Show Distro & Version
 
 The generic way:
 
@@ -313,14 +316,6 @@ mount /tmp
 - `mount -o ro` to avoid complexity of dual primary cluster filesystems
 - sync + async repl options
 - get check_drbd nagios plugin to see how far behind replica is, automatically catches up, low maintenance once set up
-
-## Distributions
-
-[Debian](debian.md) - the standard open source distribution, and it's derivative [Ubuntu](ubuntu.md).
-
-[Redhat](redhat.md) - used to the standard enterprise distro but has killed its open source credentials and become legacy.
-
-[Gentoo](gentoo.md) - l33t but takes time to compile.
 
 ## Binaries Debugging
 
