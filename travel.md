@@ -695,9 +695,9 @@ I've asked the locals about this and they said there are a couple non-smoking ve
 
 #### Belgrade Taxis
 
-[Car Go](https://appcargo.com/en) - like Uber.
+[Car Go](https://appcargo.com/en) - like Uber. Didn't find any drivers, had to use Pink Taxi instead.
 
-[Pink Taxi](https://pinktaxi.info/) is another although with mixed reviews.
+[Pink Taxi](https://pinktaxi.info/) has mixed reviews, but it worked.
 
 Lux Taxi app couldn't even register using my UK mobile number - I got
 [this error](https://www.linkedin.com/posts/harisekhon_imagine-having-a-top-taxi-app-in-belgrade-activity-7242252581597585409-MRlJ)
