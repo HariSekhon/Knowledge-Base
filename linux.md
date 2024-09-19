@@ -4,7 +4,7 @@
 
 - [Shell](#shell)
 - [Distributions & Lineage](#distributions--lineage)
-- [Show Distro & Version](#show-distro--version)
+  - [Distribution Version](#distribution-version)
 - [Cron](#cron)
   - [User Crons](#user-crons)
 - [Timezone](#timezone)
@@ -45,7 +45,7 @@ Start with [Bash](bash.md) which is the standard open source Linux shell.
 
 - [Alpine](alpine.md) - slim distribution designed for Docker
 
-## Show Distro & Version
+### Distribution Version
 
 The generic way:
 
