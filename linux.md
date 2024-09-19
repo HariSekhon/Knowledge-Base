@@ -58,6 +58,7 @@ These files have different contents:
 | Amazon Linux | `/etc/os-release` <br> `/etc/system-release` <br>`/etc/amazon-release`                            |
 | CentOS       | `/etc/os-release` <br> `/etc/system-release` <br> `/etc/redhat-release` <br>`/etc/centos-release` |
 | Debian       | `/etc/os-release`                                                                                 |
+| Gentoo       | `/etc/os-release` <br> `/etc/gentoo-release`                                                      |
 | Redhat       | `/etc/os-release` <br> `/etc/system-release` <br> `/etc/redhat-release`                           |
 | RockyLinux   | `/etc/os-release` <br> `/etc/system-release` <br> `/etc/redhat-release` <br> `/etc/rocky-release` |
 | Ubuntu       | `/etc/os-release` <br> `/etc/lsb-release`                                                         |
