@@ -2,9 +2,9 @@
 
 <https://www.jetbrains.com/idea/>
 
-IntelliJ on Mac notes.
+The best IDE ever for coding in my opinion.
 
-Shortcuts differ between Windows and Mac, and even between versions.
+Feature rich and easy to use - the opposite end of [vim](vim.md)!
 
 <!-- INDEX_START -->
 
@@ -125,7 +125,9 @@ Alternative Keys when you see Windows vs Mac keyboard shortcuts:
 | `Alt`-`Insert` / `Code` -> `Generate`        | creates setters + getters                                                                                                              |
 | `Shift`-`F1` / `View` -> `External Document` | opens in browser                                                                                                                       |
 
-Code completion `Tab` to replace rest of name rather than Enter
+Code completion `Tab` to replace rest of name rather than Enter.
+
+Shortcuts differ between Windows and Mac, and even between versions.
 
 ## Plugins
 
