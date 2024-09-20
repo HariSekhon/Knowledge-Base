@@ -105,6 +105,16 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 
 <!-- INDEX_END -->
 
+## Package Booking Sites
+
+[Expedia](https://expedia.co.uk) - my go to as it usually has the most options at the last minute
+
+[LastMinute.com](https://lastminute.com) - ok for package holidays but assumed return flights,
+less good for a digital nomad who is going one way and bouncing to the next place.
+
+[OnTheBeach.co.uk](https://www.onthebeach.co.uk/) - good prices but nothing available for same/next day for last minute
+travellers like me.
+
 ## Flights
 
 Book ahead of time for better price comparisons.
@@ -113,7 +123,7 @@ Same goes for ferries if driving.
 
 ## Hotels vs Airbnb
 
-Hotels and Airbnb vary as to which one is cheaper by location.
+Hotels and [Airbnb](https://airbnb.com) vary as to which one is cheaper by location.
 
 Check both.
 
