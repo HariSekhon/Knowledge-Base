@@ -6,6 +6,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 
 <!-- INDEX_START -->
 
+- [Booking Sites](#booking-sites)
 - [Flights](#flights)
 - [Hotels vs Airbnb](#hotels-vs-airbnb)
   - [Parking](#parking)
@@ -105,7 +106,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 
 <!-- INDEX_END -->
 
-## Package Booking Sites
+## Booking Sites
 
 [Expedia](https://expedia.co.uk) - my go to as it usually has the most options at the last minute
 
