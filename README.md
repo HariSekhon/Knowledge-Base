@@ -221,6 +221,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Kubernetes](kubernetes.md)
 - [Kubernetes Upgrades](kubernetes-upgrades.md)
 - [Kubernetes Configs](https://github.com/HariSekhon/Kubernetes-configs)
+- [Kubernetes Production Ready Checklist](kubernetes-production-ready-checklist.md)
 - [Traefik](traefik.md)
 - [Kong API Gateway](kong.md)
 - [Istio](istio.md) TODO
