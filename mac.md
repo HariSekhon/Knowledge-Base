@@ -11,10 +11,9 @@ Macbook Pro - a real joy to use. Even when you're using more RAM than the physic
 performance is still so good you don't notice significant performance degradation for most usage, even when using
 heavyweight IDEs like [IntelliJ](intellij.md).
 
-**WARNING: do not let your Macbook Pro get hot it will destroy the battery**
-
 <!-- INDEX_START -->
 
+- [WARNING: do not let your Macbook Pro get hot it will destroy the battery](#warning-do-not-let-your-macbook-pro-get-hot-it-will-destroy-the-battery)
 - [Terminal](#terminal)
 - [Homebrew - Package Management](#homebrew---package-management)
 - [Activity Monitor](#activity-monitor)
@@ -57,6 +56,13 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [CLI](#cli)
 
 <!-- INDEX_END -->
+
+## WARNING: do not let your Macbook Pro get hot it will destroy the battery
+
+Within a few weeks of digitial nomadding working on beds with my laptop on the bed cover,
+I had degraded the battery of my new Macbook Pro M3 Max by 85%.
+
+![Battery Health 85%](images/battery_health_85%25.png)
 
 ## Terminal
 
