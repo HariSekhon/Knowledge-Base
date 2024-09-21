@@ -35,6 +35,10 @@ If you've ever had this _"Why Bother?"_ approach to documentation, allow me to g
 4. Hoarding knowledge doesn't give you job security anyway.
    Working on the next cool thing for your client or employer does.
 
+<!-- -->
+
+5. You can't search for things if you don't know they exist or what the terminology is.
+
 ## Documentation Tools
 
 ### Wikis
