@@ -4,6 +4,7 @@ NOT PORTED YET
 
 <!-- INDEX_START -->
 
+- [Spark-on-Kubernetes UI Tunnel](#spark-on-kubernetes-ui-tunnel)
 - [Troubleshooting](#troubleshooting)
   - [JStack Thread Dumps](#jstack-thread-dumps)
 
