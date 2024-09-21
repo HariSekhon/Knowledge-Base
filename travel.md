@@ -57,6 +57,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Riga](#riga)
   - [Lithuania](#lithuania)
     - [Vilinus](#vilinus)
+  - [Morocco](#morocco)
+    - [Tangiers](#tangiers)
   - [Norway](#norway)
     - [Olso](#olso)
   - [Poland](#poland)
@@ -122,6 +124,9 @@ Book ahead of time for better price comparisons.
 
 Same goes for ferries if driving.
 
+Favourite Airline: Air Arabia because they didn't tell me to put my laptop away during takeoff. One less pointless rule
+enforced.
+
 ## Hotels vs Airbnb
 
 Hotels and [Airbnb](https://airbnb.com) vary as to which one is cheaper by location.
@@ -129,6 +134,11 @@ Hotels and [Airbnb](https://airbnb.com) vary as to which one is cheaper by locat
 Check both.
 
 The earlier you book the better deals you'll get.
+
+I have on many occasions booked accommodation in the airport lounge minutes before boarding planes
+but I do not recommend this.
+I have have private hosts cancel my accommodations the day before or even the same day of my arrival
+(see [Morocco](#morocco)).
 
 It's annoying to be booking at the last minute because you'll get the least good places for the most expensive prices.
 
@@ -520,6 +530,14 @@ Vilnius, the capital, is worth a visit but you don't really need more than a cou
 excellent traditional Georgian soup with beef and vegetables with a bit of spice.
 Another traditional dish Khachapuri is basically a similar to a pizza but with more dough around the edges.
 A bit bready for my liking but something you may want to try once.
+
+### Morocco
+
+The menus are in French!
+
+#### Tangiers
+
+Beach city in northern Morocco.
 
 ### Norway
 
