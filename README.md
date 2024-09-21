@@ -23,12 +23,14 @@
 [![Semgrep Cloud](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/semgrep-cloud.yaml)
 [![Trivy](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/trivy.yaml)
 
-Work in progress to gradually migrate my huge private personal knowledge base into this public repo.
+Repo focused on advanced knowledge, tips & tricks, debugging & fixes.
+
+I'm gradually migrating my huge private personal knowledge base into this public repo.
 
 Hit the watch button on the top right for updates.
 
-This repo focuses on advanced knowledge, tips & tricks, performance tuning, troubleshooting, debugging, workarounds &
-fixes.
+Some of these pages are still in progress pending porting and populated yet from my private knowledge base pages,
+some are stubs pending migration.
 
 Much more advanced knowledge is captured in code and code comments. References to my major
 [GitHub Repos](https://github.com/HariSekhon?tab=repositories&q=&type=&language=&sort=stargazers) are provided
@@ -38,60 +40,66 @@ References to official docs and some classic books are provided for those who wa
 
 ## Index
 
-Some of these pages are still in progress pending porting and populated yet from my private knowledge base pages, some are stubs
-pending migration.
-
-Hit the watch button on the top right for updates.
-
 <!-- INDEX_START -->
 
 - [GitHub Repos](#github-repos)
-- [Operating Systems](#operating-systems)
-- [Core Services - DNS, DHCP, SSH, FTP](#core-services---dns-dhcp-ssh-ftp)
-- [Editors](#editors)
-- [Terminal Multiplexers](#terminal-multiplexers)
+- [Systems](#systems)
+  - [Operating Systems](#operating-systems)
+  - [Core Services - DNS, DHCP, SSH, FTP](#core-services---dns-dhcp-ssh-ftp)
+  - [Editors](#editors)
+  - [Terminal Multiplexers](#terminal-multiplexers)
 - [Architecture & Documentation](#architecture--documentation)
 - [Git](#git)
 - [Cloud](#cloud)
-- [Docker](#docker)
-- [Kubernetes](#kubernetes)
-  - [Cloud Hosted Kubernetes](#cloud-hosted-kubernetes)
-  - [On-premise Kubernetes](#on-premise-kubernetes)
-  - [Local Kubernetes Dev](#local-kubernetes-dev)
-  - [Kubernetes Applications & Lifecycle Management](#kubernetes-applications--lifecycle-management)
-- [Container Security](#container-security)
+- [Containerization](#containerization)
+  - [Docker](#docker)
+  - [Kubernetes](#kubernetes)
+    - [Cloud Hosted Kubernetes](#cloud-hosted-kubernetes)
+    - [On-premise Kubernetes](#on-premise-kubernetes)
+    - [Local Kubernetes Dev](#local-kubernetes-dev)
+    - [Kubernetes Applications & Lifecycle Management](#kubernetes-applications--lifecycle-management)
+  - [Container Registries](#container-registries)
+  - [Container Security](#container-security)
 - [Programming](#programming)
+  - [Build Systems](#build-systems)
+  - [Artifact Registries](#artifact-registries)
+  - [Code Scanning](#code-scanning)
 - [Configuration Management](#configuration-management)
-- [Build Systems](#build-systems)
-- [Container Registries](#container-registries)
-- [Artifact Registries](#artifact-registries)
 - [CI/CD](#cicd)
-- [Code Scanning](#code-scanning)
 - [Internet Services](#internet-services)
 - [Databases / RDBMS](#databases--rdbms)
   - [MPP Databases](#mpp-databases)
   - [Hosted MPP Databases](#hosted-mpp-databases)
   - [Database Management](#database-management)
 - [NoSQL](#nosql)
-- [Caching](#caching)
-- [Search](#search)
+  - [Caching](#caching)
+  - [Search](#search)
 - [Pub/Sub & Message Queues](#pubsub--message-queues)
 - [Data](#data)
-- [Hadoop Ecosystem](#hadoop-ecosystem)
-- [Data Science](#data-science)
-- [Time Series Databases](#time-series-databases)
-- [Visualization](#visualization)
-- [Performance Engineering](#performance-engineering)
+  - [Data Formats](#data-formats)
+  - [Hadoop Ecosystem](#hadoop-ecosystem)
+  - [Data Science](#data-science)
+  - [Time Series Databases](#time-series-databases)
+  - [Visualization](#visualization)
 - [Security](#security)
 - [Virtualization](#virtualization)
 - [Hardware](#hardware)
 - [Networking](#networking)
-- [Load Balancing](#load-balancing)
+  - [Load Balancing](#load-balancing)
 - [Monitoring](#monitoring)
-- [Vendors](#vendors)
-- [Miscellaneous](#miscellaneous)
+  - [Performance Engineering](#performance-engineering)
+- [AI & Automation](#ai--automation)
 - [Work](#work)
-- [Old](#old)
+  - [Interview Materials](#interview-materials)
+  - [Banking](#banking)
+  - [Travel](#travel)
+- [Miscellaneous](#miscellaneous)
+  - [Dev / DevOps / Open Source](#dev--devops--open-source)
+  - [Vendors](#vendors)
+  - [Multimedia](#multimedia)
+  - [Marketing](#marketing)
+  - [Crypto](#crypto)
+  - [Old Docs](#old-docs)
 - [Star History](#star-history)
 - [Meme](#meme)
 - [More Core Repos](#more-core-repos)
@@ -119,7 +127,9 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Templates](https://github.com/HariSekhon/Templates) - templates for many common file formats for programming languages, build systems and DevOps configs
 - [Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code.md) - Cloud & Open Source architecture diagrams
 
-## Operating Systems
+## Systems
+
+### Operating Systems
 
 - [Linux](linux.md)
   - [Debian](debian.md)
@@ -137,7 +147,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Disk Management](disk.md)
   - [Logging](logging.md)
 
-## Core Services - DNS, DHCP, SSH, FTP
+### Core Services - DNS, DHCP, SSH, FTP
 
 - [SSH](ssh.md)
   - [SSH Tunnelling](ssh-tunnelling.md)
@@ -145,15 +155,15 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [DNS](dns.md)
 - [DHCP](dhcp.md)
 
-## Editors
+### Editors
 
 - [Editors & IDEs](editors.md)
   - [Vim](vim.md)
   - [IntelliJ](intellij.md)
-  - [VS Code](vscode.md)
+  - [VS Code](vs-code.md)
 - [Coder](coder.md)
 
-## Terminal Multiplexers
+### Terminal Multiplexers
 
 - [Screen](screen.md)
 - [Tmux](tmux.md)
@@ -184,6 +194,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 ## Cloud
 
+- [Cloud](cloud.md)
 - Cloud Platforms:
   - [AWS](aws.md)
   - [GCP](gcp.md)
@@ -194,40 +205,43 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [HashiCorp Vault](vault.md)
 - [PaaS](paas.md)
 
-## Docker
+## Containerization
+
+### Docker
 
 - [Docker](docker.md)
   - [Dockerfile](dockerfile.md) TODO
   - [Docker Compose](docker-compose.md)
   - [Docker Swarm](docker-swarm.md)
 - [Podman](podman.md)
-- [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) repo
+- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) for many technologies
 
-## Kubernetes
+### Kubernetes
 
 - [Kubernetes](kubernetes.md)
 - [Kubernetes Upgrades](kubernetes-upgrades.md)
+- [Kubernetes Configs](https://github.com/HariSekhon/Kubernetes-configs)
 - [Traefik](traefik.md)
 - [Kong API Gateway](kong.md)
 - [Istio](istio.md) TODO
   - [Kiali](kiali.md)
 - [Kubeflow](kubeflow.md) TODO
 
-### Cloud Hosted Kubernetes
+#### Cloud Hosted Kubernetes
 
 - [AWS EKS](eks.md) TODO
 - [GKE](gke.md) TODO
 - [AKS](aks.md) TODO
 - [Karpenter](karpenter.md)
 
-### On-premise Kubernetes
+#### On-premise Kubernetes
 
 - [K3s](k3s.md)
 - [Rancher](rancher.md)
 - [RKE2](rke2.md)
 - [Portworx](portworx.md)
 
-### Local Kubernetes Dev
+#### Local Kubernetes Dev
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) embedded Kubernetes (easiest to use)
 - [MiniKube](https://minikube.sigs.k8s.io/docs/start/)
@@ -235,62 +249,16 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [K3d](k3d.md)
 - [Kind](kind.md)
 
-### Kubernetes Applications & Lifecycle Management
+#### Kubernetes Applications & Lifecycle Management
 
 - [Helm](helm.md)
 - [Kustomize](kustomize.md)
   - [Helm vs Kustomize](helm-vs-kustomize.md)
 - [ArgoCD](argocd.md)
 - [Cert Manager](cert-manager.md)
-- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)
+- [Kubernetes Configs](https://github.com/HariSekhon/Kubernetes-configs)
 
-## Container Security
-
-- [Container Scanning](container-scanning.md)
-- [Trivy](trivy.md) TODO
-- [Grype](grype.md) TODO
-- [Clair](clair.md)
-
-## Programming
-
-- [Programming](programming.md)
-- [Binary Debugging](binary-analysis.md)
-- [Perl](perl.md)
-- [Python](python.md)
-- [Anaconda](anaconda.md) TODO
-- [Golang](golang.md) TODO
-- [R](r.md) TODO
-- JVM:
-  - [Java](java.md) TODO
-  - [JDBC](jdbc.md)
-  - [JVM Performance Tuning](java-jvm-performance-tuning.md)
-  - [Groovy](groovy.md)
-  - [Scala](scala.md) TODO
-  - [log4j](log4j.md)
-- [APIs](api.md)
-- [Regular Expressions](regex.md)
-
-## Configuration Management
-
-- [Terraform](terraform.md)
-  - [tfenv](tfenv.md)
-  - [Terragrunt](terragrunt.md)
-    - [tgswitch](tgswitch.md)
-  - [Atlantis](atlantis.md)
-- [Pulumi](pulumi.md)
-- [Ansible](ansible.md)
-- [Puppet](puppet.md) TODO
-- [YAML](yaml.md)
-
-## Build Systems
-
-- [Build Systems](build-systems.md)
-- [Make](make.md)
-- [Maven](maven.md)
-- [Gradle](gradle.md)
-- [SBT](sbt.md)
-
-## Container Registries
+### Container Registries
 
 - [DockerHub](https://hub.docker.com/)
 - AWS [ECR](https://aws.amazon.com/ecr/)
@@ -304,11 +272,66 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Harbor](https://goharbor.io/)
 - [Chart Museum](https://chartmuseum.com/docs/#)
 
-## Artifact Registries
+### Container Security
+
+- [Container Scanning](container-scanning.md)
+- [Trivy](trivy.md) TODO
+- [Grype](grype.md) TODO
+- [Clair](clair.md)
+
+## Programming
+
+- [Programming](programming.md)
+- [Binaries Debugging](binaries-debugging.md)
+- [Perl](perl.md)
+- [Python](python.md)
+- [Anaconda](anaconda.md) TODO
+- [Golang](golang.md) TODO
+- [Ruby](ruby.md) TODO
+- [R](r.md) TODO
+- JVM:
+  - [Java](java.md) TODO
+  - [JDBC](jdbc.md)
+  - [JVM Performance Tuning](java-jvm-performance-tuning.md)
+  - [Groovy](groovy.md)
+  - [Scala](scala.md) TODO
+  - [log4j](log4j.md)
+- [APIs](api.md)
+- [Regular Expressions](regex.md)
+
+### Build Systems
+
+- [Build Systems](build-systems.md)
+- [Make](make.md)
+- [Maven](maven.md)
+- [Gradle](gradle.md)
+- [SBT](sbt.md)
+
+### Artifact Registries
 
 - [Artifact Registries](artifact-registries.md)
 - [Artifactory](artifactory.md)
 - [Nexus](nexus.md) TODO
+
+### Code Scanning
+
+- [Code Scanning](code-scanning.md)
+- [Code Quality](code-quality.md)
+- [SonarQube](sonarqube.md)
+- [CodeClimate](codeclimate.md)
+- [Codefresh](codefresh.md)
+
+## Configuration Management
+
+- [Terraform](terraform.md)
+  - [tfenv](tfenv.md)
+  - [Terragrunt](terragrunt.md)
+    - [tgswitch](tgswitch.md)
+  - [Atlantis](atlantis.md)
+- [Pulumi](pulumi.md)
+- [Ansible](ansible.md)
+- [Puppet](puppet.md) TODO
+- [YAML](yaml.md)
 
 ## CI/CD
 
@@ -330,14 +353,6 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [CircleCI](circleci.md)
   - [TravisCI](travis.md)
   - [Drone.io](drone.io.md)
-
-## Code Scanning
-
-- [Code Scanning](code-scanning.md)
-- [Code Quality](code-quality.md)
-- [SonarQube](sonarqube.md)
-- [CodeClimate](codeclimate.md)
-- [Codefresh](codefresh.md)
 
 ## Internet Services
 
@@ -380,6 +395,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 - [LiquiBase](liquibase.md) TODO
 - [AtlasGo](atlasgo.md)
+- [ByteBase](bytebase.md) TODO
 
 ## NoSQL
 
@@ -390,7 +406,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Neo4j](neo4j.md)
 - [Consul](consul.md)
 
-## Caching
+### Caching
 
 - [Redis](redis.md) TODO
 - [Memcached](memcached.md)
@@ -398,7 +414,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Couchbase](couchbase.md)
 - [Oracle Coherence](coherence.md)
 
-## Search
+### Search
 
 - [Search](search.md)
 - [Elasticsearch](elasticsearch.md)
@@ -418,11 +434,20 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Data](data.md)
 - [Big Data](big-data.md)
 - [Data Warehousing](data-warehousing.md) TODO
-- [Informatica](informatica.md)
+- [Spark](spark.md) TODO
+- [Airflow](airflow.md) TODO
 - [Apache Camel](camel.md)
 - [JSON](json.md)
+- [Informatica](informatica.md)
 
-## Hadoop Ecosystem
+### Data Formats
+
+- [Data Formats](data-formats.md)
+- [Avro](avro.md)
+- [Parquet](parquet.md)
+- [JSON](json.md)
+
+### Hadoop Ecosystem
 
 - [Spark](spark.md) TODO
 - [Kafka](kafka.md)
@@ -442,7 +467,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Mahout](mahout.md)
 - [ZooKeeper](zookeeper.md)
 
-## Data Science
+### Data Science
 
 - [Data Science](data-science.md) TODO
 - [Python](python.md)
@@ -450,21 +475,16 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [R](r.md) TODO
 - [Octave](octave.md) TODO
 
-## Time Series Databases
+### Time Series Databases
 
 - [OpenTSDB](opentsdb.md)
   - [TCollector](tcollector.md)
 - [InfluxDB](influxdb.md)
   - [Kapacitor](kapacitor.md)
 
-## Visualization
+### Visualization
 
 - [Tableau](tableau.md)
-
-## Performance Engineering
-
-- [Performance Engineering](performance.md)
-- [Stress Testing](stress-testing.md)
 
 ## Security
 
@@ -494,13 +514,14 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 ## Networking
 
 - [Networking](networking.md) TODO
+- [Firewalls](firewalls.md)
 - [VPNs](vpn.md)
 - [Cisco](cisco.md) TODO
 - [Juniper](juniper.md) TODO
 - [Foundry](foundry.md) TODO
 - [Keepalived](keepalived.md)
 
-## Load Balancing
+### Load Balancing
 
 - [Load Balancing](load-balancing.md) TODO
 - [HAProxy](haproxy.md)
@@ -518,39 +539,75 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
   - [PagerDuty](pagerduty.md) TODO
 - [Fluentd](fluentd.md)
 
-## Vendors
+### Performance Engineering
+
+- [Performance Engineering](performance.md)
+- [Stress Testing](stress-testing.md)
+
+## AI & Automation
+
+- [AI](ai.md)
+- [Automation](automation.md)
+
+## Work
+
+### Interview Materials
+
+- [Interview Materials](interview.md)
+
+### Banking
+
+- [Banking Industry](banking-industry.md)
+
+### Travel
+
+- [Travel](travel.md)
+
+## Miscellaneous
+
+### Dev / DevOps / Open Source
+
+- [DevOps Misc](devops.md)
+- [Dev Misc](dev.md)
+- [Open Source](open-source.md)
+- [IRC](irc.md)
+
+### Vendors
 
 - [Hashicorp](hashicorp.md)
 - [Confluent](confluent.md)
 - [Atlassian](atlassian.md)
 
-## Miscellaneous
+### Multimedia
 
-- [DevOps Misc](devops.md)
-- [Dev Misc](dev.md)
-- [AI](ai.md)
-- [Automation](automation.md)
-- [Open Source](open-source.md)
-- [Marketing](marketing.md)
 - [Multimedia](multimedia.md)
-- [IRC](irc.md)
 
-<!-- -->
+### Marketing
 
-## Work
+- [Marketing](marketing.md)
 
-- [Interview Materials](interview.md)
-- [Travel](travel.md)
-- [Banking Industry](banking-industry.md)
+### Crypto
 
-## Old
+This section is probably the most financially important thing you'll ever learn.
+
+- [Bitcoin](bitcoin.md)
+  - more financially beneficial than your Tech knowledge
+  - the most important knowledge along with avoiding
+  [feminist divorce law](https://www.amazon.co.uk/Men-Strike-Boycotting-Marriage-Fatherhood/dp/1594037620/)
+- [Crypto](crypto.md)
+  - every day you're not in crypto you're losing money due to constant inflationary money printing by central banks and
+  governments to fund budgetary deficits caused by universal suffrage spending liabilities
+  - even many investments, which are also taxed and often confiscated by governments or ex-wives, are losing ground to
+  inflation in real terms
+
+### Old Docs
 
 - [Hazelcast](hazelcast.md)
 - [Mesos](mesos.md)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=HariSekhon/Knowledge-Base&type=Timeline)](https://star-history.com/#HariSekhon/Knowledge-Base&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=HariSekhon/Knowledge-Base&type=Date)](https://star-history.com/#HariSekhon/Knowledge-Base&Date)
 
 ## Meme
 
