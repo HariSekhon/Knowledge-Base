@@ -10,11 +10,61 @@ repo referenced throughout this page for faster implementation seeing what has a
 lines specific to your environment.
 
 <!-- INDEX_START -->
+
+- [Healthchecks](#healthchecks)
+- [Horizontal Pod Autoscaler](#horizontal-pod-autoscaler)
+- [Pod Disruption Budget](#pod-disruption-budget)
+- [Pod Anti-Affinity](#pod-anti-affinity)
+  - [High Availability](#high-availability)
+  - [Stable On-Demand vs Preemptible / Spot Instances](#stable-on-demand-vs-preemptible--spot-instances)
+    - [Cost Optimization](#cost-optimization)
+    - [Single Instance App Stability](#single-instance-app-stability)
+    - [App Sensitivity to Disruptions](#app-sensitivity-to-disruptions)
+  - [Performance Engineering](#performance-engineering)
+  - [PDB Configs](#pdb-configs)
+- [Ingress](#ingress)
+  - [Ingress Controllers](#ingress-controllers)
+  - [Ingress SSL](#ingress-ssl)
+  - [App Ingresses](#app-ingresses)
+- [Applications](#applications)
+  - [App Lifecycle Management](#app-lifecycle-management)
+  - [App Resource Requests & Limits](#app-resource-requests--limits)
+  - [App Right-Sizing - Goldilocks & Vertical Pod Autoscaler](#app-right-sizing---goldilocks--vertical-pod-autoscaler)
+- [DNS - Automatic DNS Records for Apps](#dns---automatic-dns-records-for-apps)
+- [Secrets - Automated Secrets](#secrets---automated-secrets)
+  - [External Secrets](#external-secrets)
+  - [Sealed Secrets](#sealed-secrets)
+- [Namespaces](#namespaces)
+  - [Resource Quotas per Namespace](#resource-quotas-per-namespace)
+  - [Limit Ranges](#limit-ranges)
+  - [Network Policies](#network-policies)
+- [Pod Security Policies](#pod-security-policies)
+- [Governance, Security & Best Practices](#governance-security--best-practices)
+- [Find Deprecated API objects to replace](#find-deprecated-api-objects-to-replace)
+- [Helm](#helm)
+  - [Helm is not IaC idempotent by itself](#helm-is-not-iac-idempotent-by-itself)
+  - [Quickly update any Helm Charts in a `kustomization.yaml` file](#quickly-update-any-helm-charts-in-a-kustomizationyaml-file)
+
 <!-- INDEX_END -->
 
 ## Healthchecks
 
-Readiness / liveness probes are critically important for correction functioning.
+Readiness / liveness probes are critically important for the following reasons:
+
+1. Readiness Probes
+   1. only direct traffic to pods which are fully initialized and functioning
+   1. don't let users see frequent errors from pods which have been recently migrated / restarted which happens frequently
+      on Kubernetes clusters
+1. Liveness Probes
+   1. restart pods which are stuck after encountering state errors either at runtime or initialization time
+      (eg. pull from a config source at initialization or a [database](databases.md) connection
+      failing to establish during startup)
+   1. this is the only probe that will restart the pod to reset its state to overcome such issues
+1. Startup Probes
+   1. newer versions of Kubernetes give a specific check for startup. This is useful for apps which have
+      long initialization times but you don't want to set high times on Readiness probes
+      which would delay dropping later malfunctioning pods out of the Kubernetes internal service load balancer in good
+      time - which would end up sending requests in the interim which may be surfaced as errors to users
 
 See the deployment and statefulset templates:
 
@@ -24,24 +74,41 @@ See the deployment and statefulset templates:
 
 ## Horizontal Pod Autoscaler
 
-Make sure your pods scale up to meet traffic demands and scale down off-peak to not waste resources.
+Make sure your pods scale up to meet traffic demands
+and scale down off-peak to not waste resources and cloud usage costs.
 
 [HariSekhon/Kubernetes-configs - horizontal-pod-autoscaler.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/horizontal-pod-autoscaler.yaml)
 
 ## Pod Disruption Budget
 
 Ensure the Kubernetes scheduler doesn't take down more pods than you can afford for High Availability purposes
-or scaling capacity purposes to still be able to serve high load traffic during peak times.
+or scaling capacity purposes to still be able to serve full traffic at the current scaling level.
 
-Set your pod disruption budget according to your capacity ability to handle pods being reaped and moved around:
+Set your pod disruption budget according to your capacity and app's ability to handle a certain number of pods being
+unavailable at a given time due to being migrated (killed and restarted on another node):
+
+This is doubly important if you're running apps:
+
+1. apps with a strict quorum requirements
+   1. eg. [ZooKeeper](zookeeper.md), [Consul](consul.md) or [Etcd](etcd.md) which cannot tolerate more than 1-2 nodes
+      being unavailable before causing complete outages
+1. apps with sharded replicas (common with [NoSQL](README.md#nosql) systems)
+   1. eg. [Elasticsearch](elasticsearch.md),
+      [SolrCloud](solr.md#solrcloud),
+      [Cassandra](cassandra.md),
+      [MongoDB](mongo.md),
+      [Couchbase](couchbase.md)
+      where often an outage of 2 nodes could cause partial outages via shard unavailability,
+      incomplete results or query failures
 
 [HariSekhon/Kubernetes-configs - pod-disruption-budget.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/pod-disruption-budget.yaml)
 
 ## Pod Anti-Affinity
 
-Ensure your pod replicas are spread and deployed for maximum High Availability and stability.
+Ensure your pod replicas are spread across nodes for maximum availability and stability.
 
-across different servers,
+By default the Kubernetes scheduler will attempt to do a basic spread of pods across nodes
+but Pod Anti-Affinity rules enhance this in the following ways:
 
 ### High Availability
 
@@ -51,8 +118,8 @@ across different servers,
 
 ### Stable On-Demand vs Preemptible / Spot Instances
 
-On [cloud](cloud.md), choose between running your pods on-demand nodes which are full price or on preemptible or spot
-instances which are much cheaper.
+On [cloud](cloud.md), choose between running your pods on full priced on-demand nodes or on discounted price preemptible
+or spot instances which are much cheaper.
 
 #### Cost Optimization
 
@@ -63,42 +130,55 @@ This is part of basic best practice cloud cost optimization.
 
 #### Single Instance App Stability
 
-If you have an app like [Jenkins](jenkins-on-kubernetes.md) server, then you should definitely
+If you have an app like [Jenkins](jenkins-on-kubernetes.md) server which is a single point of failure then you should definitely
 run it on stable on-demand nodes unless you like having several minute outages of your Jenkins UI and job scheduler
 while the Jenkins server pod is restarted on another node.
 
+Jenkins for example takes several minutes to start up,
+you don't want this happening every day on GCP preemptible nodes or randomly on AWS spot instances.
+
 #### App Sensitivity to Disruptions
 
-Some apps like coordination nodes may not fair well if randomly restarted in any number.
+Some apps like coordination services or clustered shared data services may not fair well
+if randomly restarted in any uncontrolled number such as spot instances may do.
 
-[Pod Disruption Budgets](#pod-disruption-budget) may not help here as they only control the Kubernetes scheduker's
+[Pod Disruption Budgets](#pod-disruption-budget) can't help here as they only control the Kubernetes scheduler's
 decision about how many pods to reap and redeploy elsewhere at one time.
 The Kubernetes scheduler and therefore pod disruption budgets have no control over the lower level Cloud's decision to
-reap spot-instances at any time, meaning they could randomly take out any number of nodes if there is a lot of demand
-for spot pricing.
+reap spot instances at any time, meaning they could randomly take out any number of nodes upon a surge of demand
+for spot instances.
 
 Do not run quorum coordination services on spot / preemptible instances for this reason
 as you could lose too many of them at the same time,
 causing a complete quorum outage and impacting all other applications depending on them for coordination.
 
-No spot / preemptible for:
+**No spot / preemptible for:**
 
-- [ZooKeeper](zookeeper.md)
-- [Consul](consul.md)
-- [Etcd](etcd.md)
+- Coordination Services:
+  - [ZooKeeper](zookeeper.md)
+  - [Consul](consul.md)
+  - [Etcd](etcd.md)
+- NoSQL data sharding services:
+  - [Elasticsearch](elasticsearch.md)
+  - [SolrCloud](solr.md#solrcloud)
+  - [Cassandra](cassandra.md)
+  - [MongoDB](mongo.md)
+  - [Couchbase](couchbase.md)
 
 ### Performance Engineering
 
 You may also choose to ensure certain apps are not deployed alongside other performance hungry apps to optimize the
 performance available to them.
 
-### Configs
+### PDB Configs
 
 [HariSekhon/Kubernetes-configs - deployment.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/deployment.yaml)
 
 [HariSekhon/Kubernetes-configs - statefulset.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/deployment.yaml)
 
-## Ingress Controllers
+## Ingress
+
+### Ingress Controllers
 
 Set up a stable HTTPS entrypoint to your apps with DNS and SSL.
 
@@ -118,14 +198,7 @@ You can also use your [cloud](cloud.md) certificate authority if your corporate 
 
 [HariSekhon/Kubernetes-configs - cert-manager](https://github.com/HariSekhon/Kubernetes-configs/blob/master/cert-manager)
 
-## App Lifecycle Management
-
-Set up [ArgoCD](https://argoproj.github.io/cd/) to automatically deploy,
-update and repair your Kubernetes configs.
-
-[HariSekhon/Kubernetes-configs - argocd](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/)
-
-## App Ingresses
+### App Ingresses
 
 Ensure each app has an ingress address to be reachable via a URL.
 
@@ -136,17 +209,27 @@ then you may want to use
 [HariSekhon/DevOps-Bash-tools -kubectl_port_forward.sh](https://github.com/HariSekhon/Kubernetes-configs/blob/master/kubernetes/kubectl_port_forward.sh).
 
 In some cases this can't be avoided, such as [Spark](spark.md#spark-on-kubernetes-ui-tunnel) jobs
-launched by [Informatica](informatica.md).
+launched by [Informatica](informatica.md) due to having the UI on randomly launched job driver pods.
 
 If your ingress controllers are working, set up your app ingresses by editing this config:
 
 [HariSekhon/Kubernetes-configs -ingress.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/ingress.yaml)
 
-See also various app-specific ingresses already provided in
+See also various app-specific ingresses already configured in
 [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) repo
 under `*/overlay/ingress.yaml`.
 
-## App Resources
+## Applications
+
+### App Lifecycle Management
+
+Set up [ArgoCD](https://argoproj.github.io/cd/) to automatically deploy,
+update and repair your Kubernetes configs from the saved good config in git ie.
+'GitOps'.
+
+[HariSekhon/Kubernetes-configs - argocd](https://github.com/HariSekhon/Kubernetes-configs/blob/master/argocd/base/)
+
+### App Resource Requests & Limits
 
 Setting appropriate resource `requests` and `limits` is critical to both performance and reliability.
 
@@ -159,11 +242,12 @@ See resources sections in
 
 [HariSekhon/Kubernetes-configs - statefulset.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/statefuleset.yaml)
 
-### App Right-Sizing
+### App Right-Sizing - Goldilocks & Vertical Pod Autoscaler
 
-But what to set your resource `requests` and `limits` to you say?
+But what to set your resource `requests` and `limits` to?
 
-Install [Goldilocks](https://www.fairwinds.com/goldilocks) to generate VPAs and resource recommendations.
+Install [Goldilocks](https://www.fairwinds.com/goldilocks)
+to generate VPAs for resource recommendations with a nice dashboard.
 
 It will tell you exactly how much your app is using so you can tune its resource `requests` and `limits`
 after setting an initial estimate of your best guess.
@@ -204,9 +288,10 @@ Install one of the following:
 using a private key unique to the cluster which results in a blob that is safe to store in [Git](git.md) because it can
 only be decrypted by the cluster to regenerate the Kubernetes secret object.
 
-The drawback of this approach is that the secret must be generated for each cluster, and if the cluster
-(or more the Sealed Secret installation with the private key on that cluster) is destroyed and recreated,
-then the sealed secrets are unrecoverable and you must regenerate the secrets.
+The drawback of this approach is that the secret must be generated for each cluster - whereas External Secrets config
+can be inherited across clusters - while if a Sealed Secrets cluster
+(or more accurately the Sealed Secrets installation with the private key on that cluster)
+is destroyed and recreated, then the sealed secrets are unrecoverable and you must regenerate all the secrets.
 
 This means this is no good for fast DR or recreations of Kubernetes clusters
 unless you can also back up and restore the sealed secrets private keys for the cluster.
@@ -218,7 +303,10 @@ unless you can also back up and restore the sealed secrets private keys for the 
 ### Resource Quotas per Namespace
 
 On multi-tenant Kubernetes clusters, create a namespace for each app / team and limit the amount of CPU and RAM
-resources they are allowed to request from Kubernetes scheduler in their [app resource requests](#app-resources).
+resources they are allowed to request from the cluster's Kubernetes scheduler in their [app resource requests](#app-resources).
+
+This will prevent one team or app from greedily using up all the cluster resources and allow for better resource
+planning.
 
 [HariSekhon/Kubernetes-configs - resource-quota.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/resource-quota.yaml)
 
@@ -226,7 +314,7 @@ resources they are allowed to request from Kubernetes scheduler in their [app re
 
 These set default resource `requests` and `limits` for apps within the namespace.
 
-Make these frugle and force people to right-size their apps in 2 iterations at time of deployment using
+Make these frugle and force people to right-size their apps in a couple quick iterations at time of deployment using
 [Goldilocks](#app-right-sizing).
 
 [HariSekhon/Kubernetes-configs - limit-range.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/limit-range.yaml)
@@ -236,6 +324,12 @@ Make these frugle and force people to right-size their apps in 2 iterations at t
 Restrict communications between namespaces containing different apps and teams.
 
 This is equivalent to old school internal firewalling between different LAN subnets inside the Kubernetes cluster.
+
+If one app in one namespace was to get compromised, there is no reason to allow it to be using as a launching pad to
+attack adjacent apps in the cluster.
+
+This will also force teams to document the network connections and services their app is using in order for you to
+permit their network access.
 
 [HariSekhon/Kubernetes-configs - network-policy.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/network-policy.yaml)
 
@@ -254,7 +348,7 @@ Install [Polaris](https://www.fairwinds.com/polaris) for a recommendations dashb
 ## Find Deprecated API objects to replace
 
 Run [Pluto](https://pluto.docs.fairwinds.com/) against your cluster before
-[Kubernetes cluster upgrades](kubernetes-upgrades.md)
+[Kubernetes cluster upgrades](kubernetes-upgrades.md).
 
 The following scripts are useful from in the popular [DevOps Bash Tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo:
 
