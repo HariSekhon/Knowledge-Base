@@ -74,4 +74,5 @@ repos:
         # vim.md is hitting this bug:
         #
         #   https://github.com/markdownlint/markdownlint/issues/497
+        #
         exclude: ^vim\.md$
