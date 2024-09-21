@@ -54,6 +54,7 @@ References to official docs and some classic books are provided for those who wa
 - [Containerization](#containerization)
   - [Docker](#docker)
   - [Kubernetes](#kubernetes)
+    - [Kubernetes Core](#kubernetes-core)
     - [Cloud Hosted Kubernetes](#cloud-hosted-kubernetes)
     - [On-premise Kubernetes](#on-premise-kubernetes)
     - [Local Kubernetes Dev](#local-kubernetes-dev)
@@ -217,6 +218,8 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) for many technologies
 
 ### Kubernetes
+
+#### Kubernetes Core
 
 - [Kubernetes](kubernetes.md)
 - [Kubernetes Upgrades](kubernetes-upgrades.md)
