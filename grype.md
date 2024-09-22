@@ -9,7 +9,7 @@ Security scanning CLI tool for filesystem code and secrets, as well as docker co
 - [Install](#install)
 - [Run](#run)
   - [Filesystem Scan](#filesystem-scan)
-  - [Image Scan](#image-scan)
+  - [Docker Image Scan](#docker-image-scan)
 - [Jenkins CI/CD](#jenkins-cicd)
 
 <!-- INDEX_END -->
@@ -40,7 +40,7 @@ Filesystem scan and exit with code 1 for any `HIGH` OR `CRITICAL` level issues:
 grype dir:"$dir" --verbose --fail-on 'high'
 ```
 
-### Image Scan
+### Docker Image Scan
 
 Scan container images:
 
