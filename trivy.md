@@ -10,6 +10,7 @@ Security scanning CLI tool for filesystem code and secrets, as well as docker co
 - [Run](#run)
   - [Filesystem Scan](#filesystem-scan)
   - [Image Scan](#image-scan)
+- [Jenkins CI/CD](#jenkins-cicd)
 - [Ignoring False Positives](#ignoring-false-positives)
 
 <!-- INDEX_END -->
@@ -58,9 +59,19 @@ trivy image "$docker_image"
 
 Scan the docker image for a given running container:
 
-```
+```shell
 trivy image "$(docker inspect --format='{{.Image}}' "$container_id_or_name">)"
 ```
+
+## Jenkins CI/CD
+
+Jenkins CI/CD functions for running trivy are available here:
+
+[HariSekhon/Jenkins - vars/trivy.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/trivy.groovy)
+
+[HariSekhon/Jenkins - vars/trivyFS.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/trivyFS.groovy)
+
+[HariSekhon/Jenkins - vars/trivyImages.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/trivyImages.groovy)
 
 ## Ignoring False Positives
 
