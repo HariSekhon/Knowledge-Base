@@ -2,6 +2,8 @@
 
 <https://github.com/aquasecurity/trivy>
 
+Security scanning tool for both filesystem code and secrets as well as docker container images.
+
 <!-- INDEX_START -->
 
 - [Install](#install)
@@ -14,13 +16,25 @@
 
 ## Install
 
-From [DevOps-Bash-tools](devops-bash-tools.md):
+On Mac, using [Homebrew](brew.md):
 
 ```shell
-install_trivy.sh
+brew install trivy
 ```
 
-Installs to `/usr/local/bin/trivy`.
+On Debian / Ubuntu:
+
+```shell
+apt install trivy
+```
+
+Or download the latest binary from GitHub or any specific version using [DevOps-Bash-tools](devops-bash-tools.md) script:
+
+```shell
+install_trivy.sh  # "$version"
+```
+
+which installs to `/usr/local/bin/trivy`, or `$HOME/bin/trivy` if you don't have write permission to `/usr/local/bin`.
 
 ## Run
 
