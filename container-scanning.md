@@ -23,6 +23,8 @@ Scan for known CVEs from online databases.
 
 <https://github.com/aquasecurity/trivy>
 
+See [Trivy](trivy.md) doc.
+
 ### Grype
 
 <https://github.com/anchore/grype>
