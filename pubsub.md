@@ -1,4 +1,4 @@
-# Pub/Sub & Message Queues
+# Pub / Sub & Message Queues
 
 ## Diagram - Top 9 Systems Integrations:
 
