@@ -75,7 +75,8 @@ References to official docs and some classic books are provided for those who wa
 - [NoSQL](#nosql)
   - [Caching](#caching)
   - [Search](#search)
-- [Pub/Sub & Message Queues](#pubsub--message-queues)
+- [Coordination & Discovery Services](#coordination--discovery-services)
+- [Pub / Sub & Message Queues](#pub--sub--message-queues)
 - [Data](#data)
   - [Data Formats](#data-formats)
   - [Hadoop Ecosystem](#hadoop-ecosystem)
@@ -410,7 +411,6 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [HBase](hbase.md) TODO
 - [MongoDB](mongo.md) TODO
 - [Neo4j](neo4j.md)
-- [Consul](consul.md)
 
 ### Caching
 
@@ -428,9 +428,15 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Solr](solr.md)
 - [Logstash](logstash.md) TODO
 
-## Pub/Sub & Message Queues
+## Coordination & Discovery Services
 
-- [Pub/Sub & Message Queues](pubsub.md)
+- [Consul](consul.md)
+- [Etcd](etcd.md)
+- [ZooKeeper](zookeeper.md)
+
+## Pub / Sub & Message Queues
+
+- [Pub / Sub & Message Queues](pubsub.md)
 - [Kafka](kafka.md)
 - [Celery](celery.md)
 - for Kinesis see [AWS](aws.md)
