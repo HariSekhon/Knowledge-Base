@@ -2,7 +2,7 @@
 
 <https://github.com/aquasecurity/trivy>
 
-Security scanning tool for both filesystem code and secrets as well as docker container images.
+Security scanning CLI tool for filesystem code and secrets, as well as docker container images.
 
 <!-- INDEX_START -->
 
