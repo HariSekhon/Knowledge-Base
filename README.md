@@ -416,7 +416,6 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 - [Redis](redis.md) TODO
 - [Memcached](memcached.md)
-- [Consul](consul.md)
 - [Couchbase](couchbase.md)
 - [Oracle Coherence](coherence.md)
 
