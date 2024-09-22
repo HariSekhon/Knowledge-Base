@@ -24,7 +24,7 @@ lines specific to your environment.
   - [PDB Configs](#pdb-configs)
 - [Ingress](#ingress)
   - [Ingress Controllers](#ingress-controllers)
-  - [Ingress SSL](#ingress-ssl)
+  - [Automatic SSL - Cert Manager](#automatic-ssl---cert-manager)
   - [App Ingresses](#app-ingresses)
 - [Applications](#applications)
   - [App Lifecycle Management](#app-lifecycle-management)
@@ -187,7 +187,7 @@ Set up a stable HTTPS entrypoint to your apps with DNS and SSL.
 - [Traefik](https://traefik.io/traefik/) ([config](https://github.com/HariSekhon/Kubernetes-configs/blob/master/traefik/base/))
 - [HAProxy](https://haproxy.org/) ([config](https://github.com/HariSekhon/Kubernetes-configs/blob/master/haproxy))
 
-### Ingress SSL
+### Automatic SSL - Cert Manager
 
 Set up [Cert Manager](https://cert-manager.io/) for
 [Automatic Certificate Management](https://en.wikipedia.org/wiki/Automatic_Certificate_Management_Environment)
