@@ -70,7 +70,7 @@ trivy image "$(docker inspect --format='{{.Image}}' "$container_id_or_name">)"
 
 ## Jenkins CI/CD
 
-Jenkins CI/CD functions for running trivy are available here:
+Jenkins CI/CD functions for running Trivy are available here:
 
 [HariSekhon/Jenkins - vars/trivy.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/trivy.groovy)
 
