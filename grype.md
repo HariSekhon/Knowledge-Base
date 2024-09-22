@@ -2,7 +2,7 @@
 
 <https://github.com/anchore/grype>
 
-Security scanning CLI tool for vulnerabilities and misconfigurations.
+Security scanning CLI tool for vulnerabilities, leaked secrets and misconfigurations.
 
 Scans:
 
