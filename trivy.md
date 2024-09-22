@@ -2,6 +2,16 @@
 
 <https://github.com/aquasecurity/trivy>
 
+<!-- INDEX_START -->
+
+- [Install](#install)
+- [Run](#run)
+  - [Filesystem Scan](#filesystem-scan)
+  - [Image Scan](#image-scan)
+- [Ignoring False Positives](#ignoring-false-positives)
+
+<!-- INDEX_END -->
+
 ## Install
 
 From [DevOps-Bash-tools](devops-bash-tools.md):
@@ -14,10 +24,22 @@ Installs to `/usr/local/bin/trivy`.
 
 ## Run
 
+Add the `--no-progress` switch in CI/CD to minimize noise in the CI/CD logs.
+
+### Filesystem Scan
+
 Filesystem scan and exit with code 1 for any `HIGH` OR `CRITICAL` level issues:
 
 ```shell
-trivy fs . --exit-code 1 --severity HIGH,CRITICAL
+trivy fs "$dir" --exit-code 1 --severity HIGH,CRITICAL
+```
+
+### Image Scan
+
+Scan container images:
+
+```shell
+trivy image "$docker_image"
 ```
 
 ## Ignoring False Positives
