@@ -56,6 +56,12 @@ Scan container images:
 trivy image "$docker_image"
 ```
 
+Scan the docker image for a given running container:
+
+```
+trivy image "$(docker inspect --format='{{.Image}}' "$container_id_or_name">)"
+```
+
 ## Ignoring False Positives
 
 Can only put the id in `.trivyignore` but this ignores all instances:
