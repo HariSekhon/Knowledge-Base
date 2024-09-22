@@ -279,7 +279,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 ### Container Security
 
 - [Container Scanning](container-scanning.md)
-- [Trivy](trivy.md) TODO
+- [Trivy](trivy.md)
 - [Grype](grype.md) TODO
 - [Clair](clair.md)
 
@@ -320,6 +320,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 ### Code Scanning
 
 - [Code Scanning](code-scanning.md)
+  - [Trivy](trivy.md)
 - [Code Quality](code-quality.md)
 - [SonarQube](sonarqube.md)
 - [CodeClimate](codeclimate.md)
