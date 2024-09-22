@@ -2,7 +2,12 @@
 
 <https://github.com/anchore/grype>
 
-Security scanning CLI tool for filesystem code and secrets, as well as docker container images.
+Security scanning CLI tool for vulnerabilities and misconfigurations.
+
+Scans:
+
+- Filesystem files for secrets and configuration errors
+- Docker images for CVE package vulnerabilities
 
 <!-- INDEX_START -->
 
