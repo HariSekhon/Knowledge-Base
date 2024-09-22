@@ -6,7 +6,7 @@ Security scanning CLI tool for vulnerabilities and misconfigurations.
 
 Scans:
 
-- Filesystem files for secrets and configuration errors
+- Files for secrets and configuration errors
 - Docker images for CVE package vulnerabilities
 
 <!-- INDEX_START -->
