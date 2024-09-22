@@ -2,7 +2,7 @@
 
 <https://github.com/aquasecurity/trivy>
 
-Security scanning CLI tool for vulnerabilities and misconfigurations.
+Security scanning CLI tool for vulnerabilities, leaked secrets and misconfigurations.
 
 Scans:
 
