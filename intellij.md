@@ -35,6 +35,7 @@ Feature rich and easy to use - the opposite end of [vim](vim.md)!
   - [Pair Programming](#pair-programming)
   - [More Plugins](#more-plugins)
 - [Troubleshooting](#troubleshooting)
+  - [Markdown Images with Relative Paths Not Displaying in Preview](#markdown-images-with-relative-paths-not-displaying-in-preview)
   - [External Tool - unexpected EOF while looking for matching `''](#external-tool---unexpected-eof-while-looking-for-matching-)
 - [See Also](#see-also)
 
@@ -426,6 +427,15 @@ idea installPlugins \
 
 ## Troubleshooting
 
+### Markdown Images with Relative Paths Not Displaying in Preview
+
+This is caused by opening markdown files (eg. `README.md`) in the same IntelliJ that is already opened in another project.
+
+IntelliJ interprets the relative paths to be from the root of the repo instead of from the path of the opened markdown
+file.
+
+**Solution**: open the project directory in a separate IntelliJ window.
+
 ### External Tool - unexpected EOF while looking for matching `''
 
 When configuring External Tools to run scripts (recommended with hotkeys), you may encounter this error
@@ -443,7 +453,7 @@ This is caused by an Args configuration like this (eg. for a Program: `bash`):
 
 which works on the command line but not in IntelliJ.
 
-The solution is to replace the single quotes with double quotes.
+**Solution**: replace the single quotes with double quotes:
 
 ```none
 -c "[ -f .envrc ] && . .envrc; markdown_replace_index.sh $FilePath$"
