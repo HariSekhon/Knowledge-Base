@@ -2,7 +2,18 @@
 
 YAML is used for configuration by many technologies as it's easier and cleaner to read and write than JSON / XML.
 
-Worth a read:
+<!-- INDEX_START -->
+
+- [References](#references)
+- [Key Points](#key-points)
+- [YAML Linting](#yaml-linting)
+- [Advanced YAML](#advanced-yaml)
+  - [Anchors and References](#anchors-and-references)
+  - [Override / Extend - Anchors and References](#override--extend---anchors-and-references)
+
+<!-- INDEX_END -->
+
+## References
 
 <https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html>
 
@@ -10,14 +21,39 @@ Worth a read:
 
 <https://www.educative.io/blog/advanced-yaml-syntax-cheatsheet>
 
-<!-- INDEX_START -->
+<http://yaml.org/refcard.html>
 
-- [YAML Linting](#yaml-linting)
-- [Advanced YAML](#advanced-yaml)
-  - [Anchors and References](#anchors-and-references)
-  - [Override / Extend - Anchors and References](#override--extend---anchors-and-references)
+## Key Points
 
-<!-- INDEX_END -->
+Yaml better than JSON, adds:
+
+- comments
+- extensible data types
+- relational anchors
+- strings without quotation marks
+- mapping types preserving key order
+
+- must quote these constructs:
+  - colon followed by space or EOL
+  - string literal `"True"` (otherwise assumes boolean)
+  - string literal `"1.2"` (otherwise assumes float)
+
+```yaml
+- list_item1
+- list_item2:
+  key1: val1
+  key2: val2
+
+        |
+        line1
+        line2
+        line3
+
+        >
+        single
+        long
+        line
+```
 
 ## YAML Linting
 
