@@ -11,6 +11,13 @@ Useful JSON tools:
 - [gron](#gron)
 - [jq](#jq)
 - [jnv](#jnv)
+- [Java Libraries](#java-libraries)
+- [Conversion](#conversion)
+  - [XML to JSON](#xml-to-json)
+  - [JSON to CSV](#json-to-csv)
+- [Pretty Print / format JSON](#pretty-print--format-json)
+- [JSON Format Validation](#json-format-validation)
+  - [IDEs](#ides)
 
 <!-- INDEX_END -->
 
@@ -36,6 +43,8 @@ gron -u
 ## jq
 
 JSON Query filters json inputs - file or stdin.
+
+Pre-compiled C available for all platforms.
 
 Widely used in my scripts in [DevOps-Bash-tools](devops-bash-tools.md) repo.
 
@@ -68,3 +77,51 @@ jnv data.json
 `Ctrl`-`o` - copy the JSON to clipboard.
 
 [More Keyboard shortcuts](https://github.com/ynqa/jnv?tab=readme-ov-file#keymap).
+
+## Java Libraries
+
+- Jackson
+- Gson
+
+## Conversion
+
+### XML to JSON
+
+```shell
+xml2json
+```
+
+### JSON to CSV
+
+```shell
+json2csv
+```
+
+## Pretty Print / format JSON
+
+Perl `JSON::XS` CPAN module (doesn't sort keys):
+
+```shell
+json_xs
+```
+
+Python 2.6+ (sorts keys):
+
+```shell
+python -m json.tool
+```
+
+## JSON Format Validation
+
+From [DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools):
+
+```shell
+validate_json
+```
+
+### IDEs
+
+- [Eclipse](editors.md#eclipse) JSONTools validation plugin (Help -> MarketPlace)
+  - needs file extensions to be `.json` (not `.template` from [AWS](aws.md) CloudFormation)
+- [IntelliJ](intellij.md) also has JSON error validation but it's not as easy to see underscores vs the big red cross
+  Eclipse puts in the left column
