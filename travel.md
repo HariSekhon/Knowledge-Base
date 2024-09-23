@@ -6,6 +6,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 
 <!-- INDEX_START -->
 
+- [Booking Sites](#booking-sites)
 - [Flights](#flights)
 - [Hotels vs Airbnb](#hotels-vs-airbnb)
   - [Parking](#parking)
@@ -62,7 +63,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Morocco](#morocco)
     - [Tangiers](#tangiers)
   - [Norway](#norway)
-    - [Olso](#olso)
+    - [Oslo](#oslo)
   - [Poland](#poland)
     - [Bydgoszcz](#bydgoszcz)
     - [Częstochowa](#częstochowa)
