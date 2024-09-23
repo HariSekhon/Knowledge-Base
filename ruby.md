@@ -23,6 +23,7 @@ eg. [check_puppet.rb](https://github.com/HariSekhon/Nagios-Plugins/blob/master/c
   - [RVM Install](#rvm-install)
   - [RVM Usage](#rvm-usage)
 - [Code](#code)
+- [JRuby](#jruby)
   - [Rubinius](#rubinius)
   - [Ludicrous](#ludicrous)
 
