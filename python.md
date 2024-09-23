@@ -153,6 +153,7 @@ pipenv graph
 ### Virtualization & Containerization
 
 - `docker` - control local [Docker](docker.md)
+- `kubernetes` - [Kubernetes](kubernetes.md)
 - `pyvmomi` - VMware
 
 ### Databases
