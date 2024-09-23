@@ -31,7 +31,9 @@ NOT PORTED YET
     - [Solutions](#solutions)
   - [EC2 Disk Mount Recovery](#ec2-disk-mount-recovery)
     - [Solution](#solution)
-- [AWS Typical Network Architecture](#aws-typical-network-architecture)
+- [Diagrams](#diagrams)
+  - [AWS Typical Network Architecture](#aws-typical-network-architecture)
+  - [Why is Lambda So Fast](#why-is-lambda-so-fast)
 
 <!-- INDEX_END -->
 
@@ -662,8 +664,14 @@ sudo umount /mnt
 09. Start the original instance which should now come up
 10. Remove the `Problem` tag from the volume
 
-## AWS Typical Network Architecture
+## Diagrams
 
-![AWS Typical Network Architecture](images/aws_typical_network_architecture.gif)
+### Typical Network Architecture
+
+![Typical Network Architecture](images/aws_typical_network_architecture.gif)
+
+### Why is Lambda So Fast
+
+![Why is Lambda So Fast](images/aws_what_makes_lambda_so_fast.gif)
 
 **Partial port from private Knowledge Base page 2012+**
