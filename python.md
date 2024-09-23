@@ -17,7 +17,8 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
 - [Libraries](#libraries)
   - [General](#general)
   - [Web](#web)
-  - [CI/CD](#cicd)
+  - [Cloud](#cloud)
+  - [CI/CD & Linting](#cicd--linting)
   - [Testing](#testing)
   - [Virtualization & Containerization](#virtualization--containerization)
   - [Databases](#databases)
@@ -128,20 +129,20 @@ pipenv graph
 
 You can see these used throughout these GitHub repos:
 
-- [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/pylib)
-- [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/pylib)
+- [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools)
+- [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 - [HariSekhon/pylib](https://github.com/HariSekhon/pylib)
 
 ### General
 
 - `GitPython` - [Git](git.md)
-- `boto3` - [AWS](aws.md)
 - `sh` - execute shell commands more easily
 - `jinja2` - [Jinja2](https://jinja.palletsprojects.com) templating
 - `humanize` - converts units to human readable
+- `pyobjc-framework-Quartz` - control Mac UI
 - `psutil`
 - `PyInstaller` - bundle Python code into standalone executablers (doesn't work for advanced code)
-- `pylint` - Python linting CLI tool
 - `sasl`
 
 ### Web
@@ -151,10 +152,23 @@ You can see these used throughout these GitHub repos:
 - [Scrapy](https://scrapy.org/) - web scraping
 - `selenium` - Selenium web testing framework
 
-### CI/CD
+### Cloud
+
+- `boto3` - [AWS](aws.md)
+- `aws-consoler`
+
+### CI/CD & Linting
 
 - `python-jenkins` - [Jenkins](jenkins.md)
 - `TravisPy` - for [Travis CI](travis.md)
+- `pylint` - Python linting CLI tool
+- `grip` - [Grip](https://github.com/joeyespo/grip) renders local markdown using a local webserver
+- `Markdown`
+- `MarkupSafe`
+- `checkov`
+- `semgrep` - security / misconfiguration scanning
+- `jsonlint`
+- `yamllint` - CLI [YAML](yaml.md) linting tool
 
 ### Testing
 
@@ -189,6 +203,7 @@ You can see these used throughout these GitHub repos:
 
 - `avro` - [Avro](avro.md)
 - `ldif3` - LDAP LDIF format
+- `jsonlint`
 - `Markdown`
 - `MarkupSafe`
 - `numpy` - [NumPy](https://numpy.org/) for scientific numeric processing
