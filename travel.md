@@ -166,6 +166,8 @@ Also, if you're only going into the centres in the evenings, often you can get c
 
 ### EU
 
+If you're not an EU resident or don't have an EU sim, skip to the next section [Rest of World](#rest-of-world).
+
 I've used my UK sim from [Smarty](https://smarty.co.uk) across all the EU countries I visited as it permits use of your
 plan's bundled service within EU countries at no extra charge, and the monthly contract is cheap as chips.
 
