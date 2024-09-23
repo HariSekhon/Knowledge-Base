@@ -11,6 +11,8 @@ or ACID compliance.
   - [Open Source Small Embedded Databases](#open-source-small-embedded-databases)
 - [Cloud Databases](#cloud-databases)
 - [Proprietary / Legacy Databases](#proprietary--legacy-databases)
+- [Databases Scaling Cheatsheet](#databases-scaling-cheatsheet)
+- [Database Sharding](#database-sharding)
 
 <!-- INDEX_END -->
 
@@ -62,3 +64,7 @@ Useful for local or embedded usage rather than multi-user servers like most majo
 ## Databases Scaling Cheatsheet
 
 ![Databases Scaling Cheatsheet](images/database_scaling_cheatsheet.gif)
+
+## Database Sharding
+
+![DB Sharding](images/db_sharding.jpeg)
