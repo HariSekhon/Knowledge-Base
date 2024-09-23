@@ -126,6 +126,12 @@ pipenv graph
 
 ## Libraries
 
+You can see these used throughout these GitHub repos:
+
+- [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/pylib)
+- [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/pylib)
+- [HariSekhon/pylib](https://github.com/HariSekhon/pylib)
+
 ### General
 
 - `GitPython` - [Git](git.md)
