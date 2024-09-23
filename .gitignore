@@ -4,3 +4,6 @@
 # as well as either of these
 !images/**
 #!images/*.gif
+
+# has to come after !images/**
+.DS_Store
