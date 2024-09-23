@@ -113,13 +113,13 @@ python -m json.tool
 
 ## JSON Linting
 
-From [DevOps-Bash-tools](devops-bash-tools.md), recursively finds and lints all `*.json` files:
+From [DevOps-Bash-tools](devops-bash-tools.md), recursively find and lint all `*.json` files:
 
 ```shell
 check_json.sh
 ```
 
-From [DevOps-Python-tools](devops-python-tools.md), recursively finds and lints all `*.json` files:
+From [DevOps-Python-tools](devops-python-tools.md), recursively find and lint all `*.json` files:
 
 ```shell
 validate_json.py .
