@@ -14,6 +14,8 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
 - [Python Library with Unit Tests](#python-library-with-unit-tests)
 - [VirtualEnv](#virtualenv)
 - [Pipenv](#pipenv)
+- [Troubleshooting](#troubleshooting)
+  - [Alpine `ModuleNotFoundError: No module named 'pip._vendor.six.moves'`](#alpine-modulenotfounderror-no-module-named-pip_vendorsixmoves)
 
 <!-- INDEX_END -->
 
@@ -111,6 +113,21 @@ Dependency graph:
 
 ```shell
 pipenv graph
+```
+
+## Troubleshooting
+
+### Alpine `ModuleNotFoundError: No module named 'pip._vendor.six.moves'`
+
+```shell
+ModuleNotFoundError: No module named 'pip._vendor.six.moves'
+```
+
+Fix:
+
+```shell
+apk del py3-pip py-pip
+apk add py3-pip
 ```
 
 **Partial port from private Knowledge Base page 2008+**
