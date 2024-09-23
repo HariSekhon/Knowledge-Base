@@ -303,6 +303,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [log4j](log4j.md)
 - [APIs](api.md)
 - [Regular Expressions](regex.md)
+- [Testing](testing.md)
 
 ### Build Systems
 
