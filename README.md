@@ -292,7 +292,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Python](python.md)
 - [Anaconda](anaconda.md) TODO
 - [Golang](golang.md) TODO
-- [Ruby](ruby.md) TODO
+- [Ruby](ruby.md)
 - [R](r.md) TODO
 - JVM:
   - [Java](java.md) TODO
