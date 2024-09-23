@@ -1,4 +1,4 @@
-# Packer
+# HashiCorp Packer
 
 <https://www.packer.io/>
 
