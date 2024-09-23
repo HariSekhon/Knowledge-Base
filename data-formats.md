@@ -156,37 +156,7 @@ xmllint --format - < "$file.xml"
 
 ## YAML
 
-<http://yaml.org/refcard.html>
-
-Yaml better than JSON, adds:
-
-- comments
-- extensible data types
-- relational anchors
-- strings without quotation marks
-- mapping types preserving key order
-
-- must quote these constructs:
-  - colon followed by space or EOL
-  - string literal `"True"` (otherwise assumes boolean)
-  - string literal `"1.2"` (otherwise assumes float)
-
-```yaml
-- list_item1
-- list_item2:
-  key1: val1
-  key2: val2
-
-        |
-        line1
-        line2
-        line3
-
-        >
-        single
-        long
-        line
-```
+See [YAML](yaml.org) doc.
 
 ## HBase vs Parquet vs Avro
 
