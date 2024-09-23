@@ -16,11 +16,11 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
 - [Pipenv](#pipenv)
 - [Libraries](#libraries)
   - [General](#general)
-  - [Virtualization & Containerization](#virtualization--containerization)
   - [Web](#web)
   - [CI/CD](#cicd)
-  - [Big Data & NoSQL](#big-data--nosql)
+  - [Virtualization & Containerization](#virtualization--containerization)
   - [Databases](#databases)
+  - [Big Data & NoSQL](#big-data--nosql)
   - [Data](#data)
   - [Testing](#testing)
 - [Troubleshooting](#troubleshooting)
@@ -138,11 +138,6 @@ pipenv graph
 - `pylint` - Python linting CLI tool
 - `sasl`
 
-### Virtualization & Containerization
-
-- `docker` - control local [Docker](docker.md)
-- `pyvmomi` - VMware
-
 ### Web
 
 - `requests` - easy HTTP request library
@@ -155,6 +150,17 @@ pipenv graph
 - `python-jenkins` - [Jenkins](jenkins.md)
 - `TravisPy` - for [Travis CI](travis.md)
 
+### Virtualization & Containerization
+
+- `docker` - control local [Docker](docker.md)
+- `pyvmomi` - VMware
+
+### Databases
+
+- `mysqlclient` - [MySQL](mysql.md) client
+- `psycopg2` - [PostgreSQL](postgres.md)
+- `psycopg2-binary`
+
 ### Big Data & NoSQL
 
 - `elasticsearch` - [Elasticsearch](elasticsearch.md)
@@ -164,14 +170,8 @@ pipenv graph
 - `kazoo` - [ZooKeeper](zookeeper.md)
 - `pika` - [RabbitMQ](rabbitmq.md)
 - `PyHive` - for Apache [Hive](hive.md)
-- `python-krbV` - Kerberos support, often pulled as a dependency for `snakebite[kerberos]`
+- `python-krbV` - [Kerberos](kerberos.md) support, often pulled as a dependency for `snakebite[kerberos]`
 - `snakebite` - [HDFS](hdfs.md)
-
-### Databases
-
-- `mysqlclient` - [MySQL](mysql.md) client
-- `psycopg2` - [PostgreSQL](postgres.md)
-- `psycopg2-binary`
 
 ### Data
 
