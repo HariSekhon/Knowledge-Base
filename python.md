@@ -131,7 +131,7 @@ pipenv graph
 - `GitPython` - [Git](git.md)
 - `boto3` - [AWS](aws.md)
 - `sh` - execute shell commands more easily
-- `jinja2` - Jinja2 templating
+- `jinja2` - [Jinja2](https://jinja.palletsprojects.com) templating
 - `humanize` - converts units to human readable
 - `psutil`
 - `PyInstaller` - bundle Python code into standalone executablers (doesn't work for advanced code)
