@@ -4,9 +4,11 @@
 
 - [SQL Scripts](#sql-scripts)
 - [SQL Clients](#sql-clients)
+- [TODO](#todo)
 - [ACID](#acid)
-- [SQL Joins](#sql-joins)
 - [SQL Query Logical Order](#sql-query-logical-order)
+- [Meme](#meme)
+  - [Update One Record](#update-one-record)
 
 <!-- INDEX_END -->
 
@@ -54,3 +56,11 @@ ACID compliance is a standard feature of RDBMS SQL databases.
 ## SQL Query Logical Order
 
 ![SQL Query Logical Order](images/sql_query_logical_order.gif)
+
+## Meme
+
+### Update One Record
+
+Be careful and remember to `SELECT` with `WHERE` clause before editing it to an `UPDATE`!
+
+![Meme Update One Record](images/sql_update_command_fix_one_record.jpeg)
