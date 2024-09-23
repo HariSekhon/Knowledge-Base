@@ -18,11 +18,11 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
   - [General](#general)
   - [Web](#web)
   - [CI/CD](#cicd)
+  - [Testing](#testing)
   - [Virtualization & Containerization](#virtualization--containerization)
   - [Databases](#databases)
   - [Big Data & NoSQL](#big-data--nosql)
   - [Data](#data)
-  - [Testing](#testing)
 - [Troubleshooting](#troubleshooting)
   - [Alpine `ModuleNotFoundError: No module named 'pip._vendor.six.moves'`](#alpine-modulenotfounderror-no-module-named-pip_vendorsixmoves)
 
@@ -150,6 +150,11 @@ pipenv graph
 - `python-jenkins` - [Jenkins](jenkins.md)
 - `TravisPy` - for [Travis CI](travis.md)
 
+### Testing
+
+- `unittest2`
+- `nose`
+
 ### Virtualization & Containerization
 
 - `docker` - control local [Docker](docker.md)
@@ -191,11 +196,6 @@ pipenv graph
 - `toml`
 - `xmltodict`
 - `yamllint` - CLI [YAML](yaml.md) linting tool
-
-### Testing
-
-- `unittest2`
-- `nose`
 
 ## Troubleshooting
 
