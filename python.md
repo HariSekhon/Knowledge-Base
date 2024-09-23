@@ -14,6 +14,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
 - [Python Library with Unit Tests](#python-library-with-unit-tests)
 - [VirtualEnv](#virtualenv)
 - [Pipenv](#pipenv)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Libraries](#libraries)
   - [General](#general)
   - [Web](#web)
@@ -125,6 +126,15 @@ Dependency graph:
 pipenv graph
 ```
 
+## Jupyter Notebook
+
+(formerly called IPython Notebook)
+
+<https://ipython.org/notebook.html>
+
+Interactive web page where you can mix code blocks, rich notes and graphs on the same page, click to execute code blocks
+and form a page oriented workflow of results and analysis for sharing and demonstrating.
+
 ## Libraries
 
 You can see these used throughout these GitHub repos:
@@ -214,6 +224,7 @@ You can see these used throughout these GitHub repos:
 - `python-ldap`
 - `python-snappy` - work with Snappy compression format, often pulled as a dependency
 - `PyYAML` - work with [YAML](yaml.md) files in Python
+- `sciki-learn` - [SciKit Learn](https://scikit-learn.org/stable/)
 - `toml`
 - `xmltodict`
 - `yamllint` - CLI [YAML](yaml.md) linting tool
