@@ -563,7 +563,7 @@ fresh squeezed juices are both well priced and good sizes.
 
 ### Norway
 
-#### Olso
+#### Oslo
 
 Nice to visit for a couple days,
 but everything was closed and quiet at 4pm on a Sunday afternoon when I arrive,
