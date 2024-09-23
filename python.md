@@ -22,7 +22,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
   - [Virtualization & Containerization](#virtualization--containerization)
   - [Databases](#databases)
   - [Big Data & NoSQL](#big-data--nosql)
-  - [Data](#data)
+  - [Data Formats & Analysis](#data-formats--analysis)
 - [Troubleshooting](#troubleshooting)
   - [Alpine `ModuleNotFoundError: No module named 'pip._vendor.six.moves'`](#alpine-modulenotfounderror-no-module-named-pip_vendorsixmoves)
 
@@ -179,7 +179,7 @@ pipenv graph
 - `python-krbV` - [Kerberos](kerberos.md) support, often pulled as a dependency for `snakebite[kerberos]`
 - `snakebite` - [HDFS](hdfs.md)
 
-### Data
+### Data Formats & Analysis
 
 - `avro` - [Avro](avro.md)
 - `ldif3` - LDAP LDIF format
