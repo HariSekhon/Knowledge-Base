@@ -111,12 +111,18 @@ Python 2.6+ (sorts keys):
 python -m json.tool
 ```
 
-## JSON Format Validation
+## JSON Linting
 
-From [DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools):
+From [DevOps-Bash-tools](devops-bash-tools.md), recursively finds and lints all `*.json` files:
 
 ```shell
-validate_json
+check_json.sh
+```
+
+From [DevOps-Python-tools](devops-python-tools.md), recursively finds and lints all `*.json` files:
+
+```shell
+validate_json.py .
 ```
 
 ### IDEs
