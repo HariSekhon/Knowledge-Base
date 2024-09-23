@@ -15,6 +15,14 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
 - [VirtualEnv](#virtualenv)
 - [Pipenv](#pipenv)
 - [Libraries](#libraries)
+  - [General](#general)
+  - [Virtualization & Containerization](#virtualization--containerization)
+  - [Web](#web)
+  - [CI/CD](#cicd)
+  - [Big Data & NoSQL](#big-data--nosql)
+  - [Databases](#databases)
+  - [Data](#data)
+  - [Testing](#testing)
 - [Troubleshooting](#troubleshooting)
   - [Alpine `ModuleNotFoundError: No module named 'pip._vendor.six.moves'`](#alpine-modulenotfounderror-no-module-named-pip_vendorsixmoves)
 
@@ -118,51 +126,74 @@ pipenv graph
 
 ## Libraries
 
-- `avro` - [Avro](avro.md)
-- `beautifulsoup4` - HTML parsing library
-- `boto3` - [AWS](aws.md)
-- `docker` - control local [Docker](docker.md)
-- `elasticsearch` - [Elasticsearch](elasticsearch.md)
+### General
+
 - `GitPython` - [Git](git.md)
-- `happybase` - [HBase](hbase.md)
-- `humanize` - converts units to human readable
-- `impyla` - [Impala](impala.md)
+- `boto3` - [AWS](aws.md)
+- `sh` - execute shell commands more easily
 - `jinja2` - Jinja2 templating
+- `humanize` - converts units to human readable
+- `psutil`
+- `PyInstaller` - bundle Python code into standalone executablers (doesn't work for advanced code)
+- `pylint` - Python linting CLI tool
+- `sasl`
+
+### Virtualization & Containerization
+
+- `docker` - control local [Docker](docker.md)
+- `pyvmomi` - VMware
+
+### Web
+
+- `requests` - easy HTTP request library
+- `beautifulsoup4` - HTML parsing library
+- [Scrapy](https://scrapy.org/) - web scraping
+- `selenium` - Selenium web testing framework
+
+### CI/CD
+
+- `python-jenkins` - [Jenkins](jenkins.md)
+- `TravisPy` - for [Travis CI](travis.md)
+
+### Big Data & NoSQL
+
+- `elasticsearch` - [Elasticsearch](elasticsearch.md)
+- `happybase` - [HBase](hbase.md)
+- `impyla` - [Impala](impala.md)
 - `kafka-python` - [Kafka](kafka.md)
 - `kazoo` - [ZooKeeper](zookeeper.md)
+- `pika` - [RabbitMQ](rabbitmq.md)
+- `PyHive` - for Apache [Hive](hive.md)
+- `python-krbV` - Kerberos support, often pulled as a dependency for `snakebite[kerberos]`
+- `snakebite` - [HDFS](hdfs.md)
+
+### Databases
+
+- `mysqlclient` - [MySQL](mysql.md) client
+- `psycopg2` - [PostgreSQL](postgres.md)
+- `psycopg2-binary`
+
+### Data
+
+- `avro` - [Avro](avro.md)
 - `ldif3` - LDAP LDIF format
 - `Markdown`
 - `MarkupSafe`
-- `mysqlclient` - [MySQL](mysql.md) client
-- `nose` - test library
 - `numpy`
-- `pika` - [RabbitMQ](rabbitmq.md)
-- `psutil`
-- `psycopg2-binary`
-- `psycopg2` - [PostgreSQL](postgres.md)
+- `python-cson`
 - `pyarrow` - Apache Arrow and Parquet support, but Parquet support in this is weak, prefer
               [Parquet Tools](parquet.md#parquet-tools)
-- `PyHive` - for Apache [Hive](hive.md)
-- `PyInstaller` - bundle Python code into standalone executablers (doesn't work for advanced code)
-- `pylint` - linting CLI tool
-- `python-cson`
-- `python-jenkins` - [Jenkins](jenkins.md)
-- `python-krbV` - Kerberos support, often pulled as a dependency for `snakebite[kerberos]`
 - `python-ldap`
 - `python-snappy` - work with Snappy compression format, often pulled as a dependency
-- `pyvmomi` - VMware
 - `PyYAML` - work with [YAML](yaml.md) files in Python
-- `requests` - easy HTTP request library
-- `sasl`
-- [Scrapy](https://scrapy.org/) - web scraping
-- `selenium` - Selenium web testing framework
-- `sh` - execute shell commands more easily
-- `snakebite` - [HDFS](hdfs.md)
 - `toml`
-- `TravisPy` - for [Travis CI](travis.md)
-- `unittest2` - test library
 - `xmltodict`
 - `yamllint` - CLI [YAML](yaml.md) linting tool
+
+### Testing
+
+- `unittest2`
+- `nose`
 
 ## Troubleshooting
 
