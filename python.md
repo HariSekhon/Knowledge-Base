@@ -14,6 +14,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
 - [Python Library with Unit Tests](#python-library-with-unit-tests)
 - [VirtualEnv](#virtualenv)
 - [Pipenv](#pipenv)
+- [Libraries](#libraries)
 - [Troubleshooting](#troubleshooting)
   - [Alpine `ModuleNotFoundError: No module named 'pip._vendor.six.moves'`](#alpine-modulenotfounderror-no-module-named-pip_vendorsixmoves)
 
@@ -114,6 +115,10 @@ Dependency graph:
 ```shell
 pipenv graph
 ```
+
+## Libraries
+
+- [Scrapy](https://scrapy.org/) - web scraping library
 
 ## Troubleshooting
 
