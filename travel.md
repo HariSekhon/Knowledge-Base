@@ -6,7 +6,6 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 
 <!-- INDEX_START -->
 
-- [Booking Sites](#booking-sites)
 - [Flights](#flights)
 - [Hotels vs Airbnb](#hotels-vs-airbnb)
   - [Parking](#parking)
@@ -21,6 +20,9 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Additional EU Driving Checklist](#additional-eu-driving-checklist)
   - [Do Not Speed](#do-not-speed)
   - [EU Roaming](#eu-roaming)
+- [Emigration](#emigration)
+  - [Taxes](#taxes)
+  - [Mail Redirection](#mail-redirection)
 - [Countries](#countries)
   - [Austria](#austria)
     - [Vienna](#vienna)
@@ -302,6 +304,21 @@ Going from EU to non-EU was a bit of a jarring experience.
 
 There may be something to the EU integration project after all.
 
+## Emigration
+
+### Taxes
+
+Brits leaving in the middle of a UK tax year (April 6th - April 5th next year) will have a declare a split tax year to
+HMRC.
+
+It's best to plan ahead and leave just before April 5th to not contaminate another next tax year with HMRC able to claim
+tax off you that quite frankly the UK doesn't deserve at this point.
+
+### Mail Redirection
+
+Brits may want to [redirect their mail overseas](https://www.postoffice.co.uk/mail/redirection) or
+get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return visits.
+
 ## Countries
 
 Some more specific tips for different countries.
@@ -538,6 +555,10 @@ The menus are in French!
 #### Tangiers
 
 Beach city in northern Morocco.
+
+[Restaurant Cafe La Playa](https://maps.app.goo.gl/Lrep4uahqy88cERR6) - cash only but great Moroccan food, prices and
+service. I recommend the Tangine with beef and prunes, the Moroccan salad (side) and the lentils starters.
+The bread is home made and very good too, fresh squeezed juices are both well priced and good sizes.
 
 ### Norway
 
