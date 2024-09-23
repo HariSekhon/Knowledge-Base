@@ -115,6 +115,9 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 
 [Expedia](https://expedia.co.uk) - my go to as it usually has the most options at the last minute
 
+[AirBnb](https://www.airbnb.com) - compare the cost of apartments to hotels in each area, it alternates which is
+cheaper.
+
 [LastMinute.com](https://lastminute.com) - ok for package holidays but assumed return flights,
 less good for a digital nomad who is going one way and bouncing to the next place.
 
