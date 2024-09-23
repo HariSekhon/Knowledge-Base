@@ -59,10 +59,19 @@ Yaml better than JSON, adds:
 
 Always lint your YAML to catch otherwise hard to spot whitespace errors such as inconsistent indentation or tabs vs spaces.
 
-I use [YAMLLint](https://github.com/adrienverge/yamllint) which is automatically installed by [DevOps-Bash-tools](devops-bash-tools.md)
-and you can run the `check_yaml.sh` script in that repo to recurse the current or given directory and check all the YAML files.
+From [DevOps-Bash-tools](devops-bash-tools.md), recursively find and lint all `*.yaml` / `*,yml` files:
 
-I run this automatically in all [my GitHub repos](https://github.com/HariSekhon) via [CI/CD](ci-cd.md).
+```shell
+check_yaml.sh
+```
+
+From [DevOps-Python-tools](devops-python-tools.md), recursively find and lint all `*.yaml` / `*,yml` files:
+
+```shell
+validate_yaml.py .
+```
+
+I run these automatically in all [my GitHub repos](https://github.com/HariSekhon) via [CI/CD](ci-cd.md).
 
 ## Advanced YAML
 
