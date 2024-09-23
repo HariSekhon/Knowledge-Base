@@ -670,8 +670,8 @@ sudo umount /mnt
 
 ![Typical Network Architecture](images/aws_typical_network_architecture.gif)
 
-### Why is Lambda So Fast
+### What Makes Lambda So Fast
 
-![Why is Lambda So Fast](images/aws_what_makes_lambda_so_fast.gif)
+![What Makes Lambda So Fast](images/aws_what_makes_lambda_so_fast.gif)
 
 **Partial port from private Knowledge Base page 2012+**
