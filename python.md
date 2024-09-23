@@ -17,11 +17,11 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
 - [Libraries](#libraries)
   - [General](#general)
   - [Web](#web)
+  - [Databases](#databases)
   - [Cloud](#cloud)
   - [CI/CD & Linting](#cicd--linting)
-  - [Testing](#testing)
+  - [Unit Testing](#unit-testing)
   - [Virtualization & Containerization](#virtualization--containerization)
-  - [Databases](#databases)
   - [Big Data & NoSQL](#big-data--nosql)
   - [Data Formats & Analysis](#data-formats--analysis)
 - [Troubleshooting](#troubleshooting)
@@ -152,6 +152,12 @@ You can see these used throughout these GitHub repos:
 - [Scrapy](https://scrapy.org/) - web scraping
 - `selenium` - Selenium web testing framework
 
+### Databases
+
+- `mysqlclient` - [MySQL](mysql.md) client
+- `psycopg2` - [PostgreSQL](postgres.md)
+- `psycopg2-binary`
+
 ### Cloud
 
 - `boto3` - [AWS](aws.md)
@@ -170,7 +176,7 @@ You can see these used throughout these GitHub repos:
 - `jsonlint`
 - `yamllint` - CLI [YAML](yaml.md) linting tool
 
-### Testing
+### Unit Testing
 
 - `unittest2`
 - `nose`
@@ -180,12 +186,6 @@ You can see these used throughout these GitHub repos:
 - `docker` - control local [Docker](docker.md)
 - `kubernetes` - [Kubernetes](kubernetes.md)
 - `pyvmomi` - VMware
-
-### Databases
-
-- `mysqlclient` - [MySQL](mysql.md) client
-- `psycopg2` - [PostgreSQL](postgres.md)
-- `psycopg2-binary`
 
 ### Big Data & NoSQL
 
