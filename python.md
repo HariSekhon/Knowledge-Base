@@ -180,7 +180,8 @@ pipenv graph
 - `ldif3` - LDAP LDIF format
 - `Markdown`
 - `MarkupSafe`
-- `numpy`
+- `numpy` - [NumPy](https://numpy.org/) for scientific numeric processing
+- `pandas` - [Pandas](https://pandas.pydata.org/) for data analysis
 - `python-cson`
 - `pyarrow` - Apache Arrow and Parquet support, but Parquet support in this is weak, prefer
               [Parquet Tools](parquet.md#parquet-tools)
