@@ -125,6 +125,8 @@ From [DevOps-Python-tools](devops-python-tools.md), recursively finds and lints 
 validate_json.py .
 ```
 
+I run these automatically in all [my GitHub repos](https://github.com/HariSekhon) via [CI/CD](ci-cd.md).
+
 ### IDEs
 
 - [Eclipse](editors.md#eclipse) JSONTools validation plugin (Help -> MarketPlace)
