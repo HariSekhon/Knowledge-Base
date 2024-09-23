@@ -134,7 +134,7 @@ You can also compile the runtime library path into the binary if you are compili
 
 ### LD_RUN_PATH
 
-You can embed the runtime library path into the binary:
+You can embed the runtime library path (`-rpath`) into the binary:
 
 ```shell
 gcc -o myprogram myprogram.c -lmylib -Wl,-rpath,/path/to/lib/dir
