@@ -557,8 +557,9 @@ The menus are in French!
 Beach city in northern Morocco.
 
 [Restaurant Cafe La Playa](https://maps.app.goo.gl/Lrep4uahqy88cERR6) - cash only but great Moroccan food, prices and
-service. I recommend the Tangine with beef and prunes, the Moroccan salad (side) and the lentils starters.
-The bread is home made and very good too, fresh squeezed juices are both well priced and good sizes.
+service, with a very comfortable upstairs lounge area and wifi. I recommend the Tangine with beef and prunes,
+the Moroccan salad (side) and the lentils starters. The bread is home made and very good too,
+fresh squeezed juices are both well priced and good sizes.
 
 ### Norway
 
