@@ -7,3 +7,5 @@
 
 # has to come after !images/**
 .DS_Store
+
+.envrc.local
