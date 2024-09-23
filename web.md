@@ -7,6 +7,7 @@
   - [Jekyll](#jekyll)
   - [Hugo](#hugo)
   - [Netlify](#netlify)
+- [Web Scrapers](#web-scrapers)
 - [Diagrams](#diagrams)
   - [Diagram - Web Basics](#diagram---web-basics)
   - [Diagram - AWS Web Traffic Classic](#diagram---aws-web-traffic-classic)
@@ -63,6 +64,11 @@ Faster and simpler.
 Builds [Jekyll](#jekyll) from GitHub repo integration for CI/CD upon pushes.
 
 <https://harisekhon.netlify.app/>
+
+## Web Scrapers
+
+- [FlyScrape](https://flyscrape.com/)
+- [Scrapy](https://scrapy.org/) - Python web scraping library
 
 ## Diagrams
 
