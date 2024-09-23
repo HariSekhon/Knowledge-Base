@@ -126,6 +126,7 @@ pipenv graph
 - `mysqlclient` - [MySQL](mysql.md) client
 - `pika` - [RabbitMQ](rabbitmq.md)
 - `psycopg2` - [PostgreSQL](postgres.md)
+- `psycopg2-binary`
 - `requests` - easy HTTP request library
 - `beautifulsoup4` - HTML parsing library
 - `docker` - control local [Docker](docker.md)
@@ -159,6 +160,9 @@ pipenv graph
 - `yamllint` - CLI [YAML](yaml.md) linting tool
 - `xmltodict`
 - `toml`
+- `pyarrow` - Apache Arrow and Parquet support, but Parquet support in this is weak, prefer
+              [Parquet Tools](parquet.md#parquet-tools)
+- `python-krbV` - Kerberos support, often pulled as a dependency for `snakebite[kerberos]`
 
 ## Troubleshooting
 
