@@ -20,7 +20,7 @@ srcdir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$srcdir"
 
 # shellcheck disable=SC2046
-$EDITOR $(
+$EDITOR README.md $(
     ./uncommitted.sh |
     tail -n 11 |
     head -n 10 |
