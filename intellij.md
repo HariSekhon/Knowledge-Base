@@ -434,7 +434,8 @@ This is caused by opening markdown files (eg. `README.md`) in the same IntelliJ 
 IntelliJ interprets the relative paths to be from the root of the repo instead of from the path of the opened markdown
 file.
 
-**Solution**: open the project directory in a separate IntelliJ window.
+**Solution**: open the project directory in a separate IntelliJ window and then open the markdown file in that instance
+window of IntelliJ.
 
 ### External Tool - unexpected EOF while looking for matching `''
 
