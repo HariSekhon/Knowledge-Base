@@ -7,7 +7,9 @@
 - [Data Integration](#data-integration)
   - [Mulesoft](#mulesoft)
   - [Spring Integration](#spring-integration)
-- [Diagram - Top 9 Systems Integrations](#diagram---top-9-systems-integrations)
+- [Diagrams](#diagrams)
+  - [Top 9 Systems Integrations](#top-9-systems-integrations)
+  - [Encoding vs Encryption vs Tokenization](#encoding-vs-encryption-vs-tokenization)
 
 <!-- INDEX_END -->
 
@@ -45,8 +47,14 @@ Then proceed to more advanced content validation.
 
 TODO
 
-## Diagram - Top 9 Systems Integrations
+## Diagrams
+
+### Top 9 Systems Integrations
 
 ![](images/top_9_systems_integrations.gif)
+
+### Encoding vs Encryption vs Tokenization
+
+![Encoding vs Encryption vs Tokenization](images/encoding_vs_encryption_vs_tokenization.gif)
 
 **Ported from private Knowledge Base pages 2016+**
