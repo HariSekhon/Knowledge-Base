@@ -4,7 +4,8 @@
 
 - [SQL Scripts](#sql-scripts)
 - [phpMyAdmin](#phpmyadmin)
-- [Diagram - MySQL Replica Architecture](#diagram---mysql-replica-architecture)
+- [Diagram](#diagram)
+  - [MySQL Replica Architecture](#mysql-replica-architecture)
 
 <!-- INDEX_END -->
 
@@ -22,6 +23,10 @@ Web UI for DB access.
 
 <https://github.com/phpmyadmin/phpmyadmin>
 
-## Diagram - MySQL Replica Architecture
+## Diagram
+
+From the [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
+
+### MySQL Replica Architecture
 
 ![MySQL Replica Architecture](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/mysql_replica_architecture.svg)
