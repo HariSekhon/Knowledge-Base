@@ -7,8 +7,9 @@ TODO: port Kafka notes here
 - [Nagios-Plugin-Kafka with Kerberos support](#nagios-plugin-kafka-with-kerberos-support)
 - [Nagios Plugins for Kafka API written in Python & Perl](#nagios-plugins-for-kafka-api-written-in-python--perl)
 - [Kafka on Kubernetes](#kafka-on-kubernetes)
-- [Diagram - Kafka Flink Elasticsearch](#diagram---kafka-flink-elasticsearch)
-- [Kafka 101](#kafka-101)
+- [Diagrams](#diagrams)
+  - [Kafka Flink Elasticsearch](#kafka-flink-elasticsearch)
+  - [Kafka 101](#kafka-101)
 
 <!-- INDEX_END -->
 
@@ -26,10 +27,14 @@ API monitoring plugin does full pub-sub unique message with Kerberos support. Wr
 
 <https://strimzi.io/>
 
-## Diagram - Kafka Flink Elasticsearch
+## Diagrams
+
+### Kafka Flink Elasticsearch
+
+From [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
 
 ![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/kafka_flink_elasticsearch.svg)
 
-## Kafka 101
+### Kafka 101
 
 ![](images/kafka_101.gif)
