@@ -8,7 +8,9 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 - [Key Points](#key-points)
   - [Limitations](#limitations)
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
-- [Diagram - GitHub Actions CI/CD to auto-(re)generate diagrams from code changes](#diagram---github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes)
+- [Diagrams](#diagrams)
+  - [GitHub Actions CI/CD to auto-(re)generate diagrams from code changes (Python)](#github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes-python)
+  - [GitHub Actions CI/CD to auto-(re)generate diagrams from code changes (D2lang)](#github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes-d2lang)
 - [Troubleshooting](#troubleshooting)
   - [Executable `/opt/hostedtoolcache/...` not found](#executable-opthostedtoolcache-not-found)
 
@@ -67,17 +69,23 @@ too, both to access internal tooling services as part of CI/CD pipelines as well
 vendors who have tried to limit self-hosted runners to more expensive plans have essentially shot themselves in the foot
 because they've made themselves economically non-competitive.
 
-## Diagram - GitHub Actions CI/CD to auto-(re)generate diagrams from code changes
+## Diagrams
+
+From the [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
+
+### GitHub Actions CI/CD to auto-(re)generate diagrams from code changes (Python)
 
 [github_actions_cicd.py](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/github_actions_cicd.py):
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/github_actions_cicd.png)
+![GitHub Actions CI/CD](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/github_actions_cicd.png)
+
+### GitHub Actions CI/CD to auto-(re)generate diagrams from code changes (D2lang)
 
 Open [Diagrams-as-Code README.md](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#this-repos-creation--github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes) to enlarge:
 
 [github_actions_cicd.d2](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/github_actions_cicd.d2):
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/github_actions_cicd.svg)
+![GitHub Actions CI/CD](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/github_actions_cicd.svg)
 
 ## Troubleshooting
 
