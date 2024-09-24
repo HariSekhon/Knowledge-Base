@@ -20,6 +20,9 @@ Written in Erlang, invented by Pivotal.
     - [Create Management UI Users](#create-management-ui-users)
     - [Enable Management UI](#enable-management-ui)
   - [RabbitMQ Admin Command](#rabbitmq-admin-command)
+- [Monitoring](#monitoring)
+  - [Management UI](#management-ui)
+  - [Nagios Plugins](#nagios-plugins)
 - [Python API](#python-api)
   - [Pub-Sub Fanout](#pub-sub-fanout)
   - [Temporary Queue](#temporary-queue)
@@ -259,6 +262,17 @@ rabbitmqadmin export rabbit.config
 ```shell
 rabbitmqadmin import rabbit.config
 ```
+
+## Monitoring
+
+### Management UI
+
+Use the [Management UI](#management-ui) enabled above for interactive monitoring.
+
+### Nagios Plugins
+
+See [HariSekhon/Nagios Plugins](https://github.com/HariSekhon/Nagios-Plugins) for a selection of [Nagios](nagios.md)
+plugins for RabbitMQ.
 
 ## Python API
 
