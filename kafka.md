@@ -31,7 +31,7 @@ API monitoring plugin does full pub-sub unique message with Kerberos support. Wr
 
 ### Kafka Flink Elasticsearch
 
-From [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
+From the [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
 
 ![Kafka Flink Elasticsearch](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/kafka_flink_elasticsearch.svg)
 
