@@ -12,11 +12,13 @@ but there are more advanced packages with search filtering and analysis on top t
   - [Syslogd](#syslogd)
   - [Syslog-ng](#syslog-ng)
   - [RSyslog](#rsyslog)
-- [Logging Platform Software](#logging-platform-software)
-  - [ELK - Elasticsearch, Logstash, Kibana](#elk---elasticsearch-logstash-kibana)
-  - [Graylog](#graylog)
-  - [Loki](#loki)
-  - [Prometheus](#prometheus)
+- [Logging Software](#logging-software)
+  - [Platforms](#platforms)
+    - [ELK - Elasticsearch, Logstash, Kibana](#elk---elasticsearch-logstash-kibana)
+    - [Graylog](#graylog)
+    - [Loki](#loki)
+    - [Prometheus](#prometheus)
+  - [Logging Agents](#logging-agents)
 - [Cloud Logging](#cloud-logging)
   - [Loggly](#loggly)
   - [SumoLogic](#sumologic)
@@ -24,8 +26,6 @@ but there are more advanced packages with search filtering and analysis on top t
   - [GCP Logging](#gcp-logging)
   - [Azure Monitor Logs](#azure-monitor-logs)
   - [Papertrail](#papertrail)
-- [Logging Agents](#logging-agents)
-  - [Vector](#vector)
 - [CEF - Common Event Format](#cef---common-event-format)
 
 <!-- INDEX_END -->
@@ -73,9 +73,11 @@ See [Syslog-ng](syslog-ng.md) doc.
 
 I preferred the design quality of [Syslog-ng](syslog-ng.md).
 
-## Logging Platform Software
+## Logging Software
 
-### ELK - Elasticsearch, Logstash, Kibana
+### Platforms
+
+#### ELK - Elasticsearch, Logstash, Kibana
 
 <https://www.elastic.co/elastic-stack>
 
@@ -89,7 +91,7 @@ I preferred the design quality of [Syslog-ng](syslog-ng.md).
   - Strong visualization with Kibana
 - **Use Cases**: Centralized logging for distributed systems, troubleshooting, and metrics
 
-### Graylog
+#### Graylog
 
 <https://graylog.org/>
 
@@ -100,7 +102,7 @@ I preferred the design quality of [Syslog-ng](syslog-ng.md).
   - Scalable and easy-to-use UI
 - **Use Cases**: Log aggregation and analysis, security auditing
 
-### Loki
+#### Loki
 
 <https://grafana.com/oss/loki/>
 
@@ -111,7 +113,7 @@ I preferred the design quality of [Syslog-ng](syslog-ng.md).
   - Ideal for environments where you already use [Prometheus](prometheus.md) and [Grafana](grafana.md)
 - **Use Cases**: Lightweight logging in Kubernetes, cloud-native environments, and cost-effective log aggregation
 
-### Prometheus
+#### Prometheus
 
 See [Prometheus](prometheus.md) doc.
 
@@ -121,6 +123,24 @@ See [Prometheus](prometheus.md) doc.
   - Integrates well with [Grafana](grafana.md) for visualization
   - Lightweight and efficient for real-time monitoring
 - **Use Cases**: Infrastructure monitoring, microservices logging, and alerting
+
+### Logging Agents
+
+- [LogStash](logstash.md)
+- [Fluentd / Fluentbit](fluentd.md)
+- [Filebeat](https://www.elastic.co/beats/filebeat)
+- [Vector](#vector)
+
+**Vector**
+
+<https://vector.dev/>
+
+- **Description**: A high-performance observability data pipeline
+- **Strengths**:
+  - Focused on performance and efficiency
+  - Can handle logs, metrics, and traces in one unified platform
+  - Lightweight and flexible, with support for multiple sources and destinations
+- **Use Cases**: Handling both logs and metrics, observability pipelines for distributed systems
 
 ## Cloud Logging
 
@@ -160,24 +180,6 @@ See [Prometheus](prometheus.md) doc.
   - Simple, fast, and reliable
   - Provides real-time log searching and alerts
 - **Use Cases**: Log aggregation for small to medium-sized systems
-
-## Logging Agents
-
-- [LogStash](logstash.md)
-- [Fluentd / Fluentbit](fluentd.md)
-- [Filebeat](https://www.elastic.co/beats/filebeat)
-- [Vector](#vector)
-
-### Vector
-
-<https://vector.dev/>
-
-- **Description**: A high-performance observability data pipeline
-- **Strengths**:
-  - Focused on performance and efficiency
-  - Can handle logs, metrics, and traces in one unified platform
-  - Lightweight and flexible, with support for multiple sources and destinations
-- **Use Cases**: Handling both logs and metrics, observability pipelines for distributed systems
 
 ## CEF - Common Event Format
 
