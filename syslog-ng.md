@@ -6,6 +6,12 @@ Excellent well-established next generation syslog daemon written in C by Balabit
 
 - [Key Points](#key-points)
 - [Syslog-ng Tuning & Tips](#syslog-ng-tuning--tips)
+  - [Match Log Rules Early](#match-log-rules-early)
+  - [Aggregation vs Splitting](#aggregation-vs-splitting)
+  - [Flow Control - Log Windows and Buffer Sizing](#flow-control---log-windows-and-buffer-sizing)
+    - [Important Settings](#important-settings)
+    - [Useful calculations](#useful-calculations)
+  - [Disable power saving features](#disable-power-saving-features)
 
 <!-- INDEX_END -->
 
