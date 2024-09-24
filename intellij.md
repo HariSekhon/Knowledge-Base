@@ -177,13 +177,16 @@ idea installPlugins \
 - Python - see [Python section](#python) further down
 - Java/Groovy/Scala/Kotlin/Maven/SBT/Gradle - see [JVM section](#java--groovy--scala--kotlin--jvm-tools) further down
 - [Go Linter](https://plugins.jetbrains.com/plugin/12496-go-linter)
+- [Ruby](https://plugins.jetbrains.com/plugin/1293-ruby) - only compatible with paid-for Ultimate edition :-(
+- [Ruby Scripting](https://plugins.jetbrains.com/plugin/12549-intellij-scripting-ruby) (3rd party alternative)
 
 ```shell
 idea installPlugins \
   com.jetbrains.sh \
   BashSupport \
   com.perl5 \
-  com.ypwang.plugin.go-linter
+  com.ypwang.plugin.go-linter \
+  org.jetbrains.intellij.scripting-ruby
 ```
 
 ### Core Editing, Git & File Formats
