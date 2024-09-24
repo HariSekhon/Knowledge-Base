@@ -12,13 +12,12 @@ but there are more advanced packages with search filtering and analysis on top t
   - [Syslogd](#syslogd)
   - [Syslog-ng](#syslog-ng)
   - [RSyslog](#rsyslog)
-- [Logging Software](#logging-software)
-  - [Platforms](#platforms)
-    - [ELK - Elasticsearch, Logstash, Kibana](#elk---elasticsearch-logstash-kibana)
-    - [Graylog](#graylog)
-    - [Loki](#loki)
-    - [Prometheus](#prometheus)
-  - [Logging Agents](#logging-agents)
+- [Logging Platform Software](#logging-platform-software)
+  - [ELK - Elasticsearch, Logstash, Kibana](#elk---elasticsearch-logstash-kibana)
+  - [Graylog](#graylog)
+  - [Loki](#loki)
+  - [Prometheus](#prometheus)
+- [Logging Agents](#logging-agents)
 - [Cloud Logging](#cloud-logging)
   - [Loggly](#loggly)
   - [SumoLogic](#sumologic)
@@ -73,11 +72,9 @@ See [Syslog-ng](syslog-ng.md) doc.
 
 I preferred the design quality of [Syslog-ng](syslog-ng.md).
 
-## Logging Software
+## Logging Platform Software
 
-### Platforms
-
-#### ELK - Elasticsearch, Logstash, Kibana
+### ELK - Elasticsearch, Logstash, Kibana
 
 <https://www.elastic.co/elastic-stack>
 
@@ -91,7 +88,7 @@ I preferred the design quality of [Syslog-ng](syslog-ng.md).
   - Strong visualization with Kibana
 - **Use Cases**: Centralized logging for distributed systems, troubleshooting, and metrics
 
-#### Graylog
+### Graylog
 
 <https://graylog.org/>
 
@@ -102,7 +99,7 @@ I preferred the design quality of [Syslog-ng](syslog-ng.md).
   - Scalable and easy-to-use UI
 - **Use Cases**: Log aggregation and analysis, security auditing
 
-#### Loki
+### Loki
 
 <https://grafana.com/oss/loki/>
 
@@ -113,7 +110,7 @@ I preferred the design quality of [Syslog-ng](syslog-ng.md).
   - Ideal for environments where you already use [Prometheus](prometheus.md) and [Grafana](grafana.md)
 - **Use Cases**: Lightweight logging in Kubernetes, cloud-native environments, and cost-effective log aggregation
 
-#### Prometheus
+### Prometheus
 
 See [Prometheus](prometheus.md) doc.
 
@@ -124,7 +121,7 @@ See [Prometheus](prometheus.md) doc.
   - Lightweight and efficient for real-time monitoring
 - **Use Cases**: Infrastructure monitoring, microservices logging, and alerting
 
-### Logging Agents
+## Logging Agents
 
 - [LogStash](logstash.md)
 - [Fluentd / Fluentbit](fluentd.md)
