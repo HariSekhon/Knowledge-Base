@@ -11,7 +11,8 @@
 - [G1GC pause time goal is a hint only](#g1gc-pause-time-goal-is-a-hint-only)
 - [Add Verbose GC logging so you can investigate and debug GC Pauses](#add-verbose-gc-logging-so-you-can-investigate-and-debug-gc-pauses)
 - [OutOfMemory restart](#outofmemory-restart)
-- [HBase Diagram Example of an application that needs such tuning](#hbase-diagram-example-of-an-application-that-needs-such-tuning)
+- [Diagram](#diagram)
+  - [OpenTSDB on HBase](#opentsdb-on-hbase)
 
 <!-- INDEX_END -->
 
@@ -89,10 +90,20 @@ Internally it tweaks other knobs, but will miss its pause targets if you run lar
 -XX:OnOutOfMemoryError="systemctl restart myapp.service"
 ```
 
-## HBase Diagram Example of an application that needs such tuning
+## Diagram
 
-[Diagrams-as-Code - OpenTSDB on HBase](https://github.com/HariSekhon/Diagrams-as-Code#opentsdb-on-kubernetes-and-hbase)
+From the [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/opentsdb_kubernetes_hbase.svg)
+### OpenTSDB on HBase
+
+An application that needed serious JVM tuning for HBase performance to handle 9 Billion OpenTSDB data points per day
+ingested and 1 million queries a day used by the entire company.
+
+Related:
+
+- [OpenTSDB](opentsdb.md) notes
+- [HBase](hbase.md) notes
+
+![OpenTSDB on HBase](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/opentsdb_kubernetes_hbase.svg)
 
 **Partial port from private Knowledge Base page 2011+**
