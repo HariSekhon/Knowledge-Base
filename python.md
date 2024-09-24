@@ -23,6 +23,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
   - [CI/CD & Linting](#cicd--linting)
   - [Unit Testing](#unit-testing)
   - [Virtualization & Containerization](#virtualization--containerization)
+  - [Pub/Sub](#pubsub)
   - [Big Data & NoSQL](#big-data--nosql)
   - [Data Formats & Analysis](#data-formats--analysis)
 - [Jython](#jython)
@@ -201,14 +202,17 @@ You can see these used throughout these GitHub repos:
 - `kubernetes` - [Kubernetes](kubernetes.md)
 - `pyvmomi` - VMware
 
+### Pub/Sub
+
+- `kafka-python` - [Kafka](kafka.md)
+- `pika` - [RabbitMQ](rabbitmq.md)
+
 ### Big Data & NoSQL
 
 - `elasticsearch` - [Elasticsearch](elasticsearch.md)
 - `happybase` - [HBase](hbase.md)
 - `impyla` - [Impala](impala.md)
-- `kafka-python` - [Kafka](kafka.md)
 - `kazoo` - [ZooKeeper](zookeeper.md)
-- `pika` - [RabbitMQ](rabbitmq.md)
 - `PyHive` - for Apache [Hive](hive.md)
 - `python-krbV` - [Kerberos](kerberos.md) support, often pulled as a dependency for `snakebite[kerberos]`
 - `snakebite` - [HDFS](hdfs.md)
