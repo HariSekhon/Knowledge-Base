@@ -139,7 +139,7 @@ See [Fluentd / Fluentbit](fluentd.md) doc.
 
 by Elastic.co of Elasticsearch fame.
 
-See [Filebeat](https://www.elastic.co/beats/filebeat) doc.
+<https://www.elastic.co/beats/filebeat>
 
 ### Vector
 
