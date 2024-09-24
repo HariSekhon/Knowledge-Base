@@ -62,6 +62,7 @@ References to official docs and some classic books are provided for those who wa
   - [Container Registries](#container-registries)
   - [Container Security](#container-security)
 - [Programming](#programming)
+  - [Languages](#languages)
   - [Build Systems](#build-systems)
   - [Artifact Registries](#artifact-registries)
   - [Code Scanning](#code-scanning)
@@ -289,9 +290,12 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 - [Programming](programming.md)
 - [Binaries Debugging](binaries-debugging.md)
+
+### Languages
+
 - [Perl](perl.md)
 - [Python](python.md)
-- [Anaconda](anaconda.md) TODO
+  - [Anaconda](anaconda.md) TODO
 - [Golang](golang.md) TODO
 - [Ruby](ruby.md)
 - [R](r.md) TODO
@@ -301,6 +305,8 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [JVM Performance Tuning](java-jvm-performance-tuning.md)
   - [Groovy](groovy.md)
   - [Scala](scala.md) TODO
+  - [Jython](python.md#jython)
+  - [JRuby](ruby.md#jruby)
   - [log4j](log4j.md)
 - [APIs](api.md)
 - [Regular Expressions](regex.md)
