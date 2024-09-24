@@ -149,7 +149,8 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [direnv / `.envrc`](direnv.md)
   - [Advanced & Third Party Commands](commands.md)
 - [Disk Management](disk.md)
-  - [Logging](logging.md)
+- [Logging](logging.md)
+  - [Syslog-ng](syslog-ng.md)
 
 ### Core Services - DNS, DHCP, SSH, FTP
 
@@ -354,8 +355,8 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 <!--
 
-- [Salt](salt.md)
-- [Chef](chef.md)
+- [Salt](salt.md)  TODO
+- [Chef](chef.md)  TODO
 
 -->
 
