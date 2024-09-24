@@ -399,6 +399,8 @@ connection.close()
 
 ## Diagram
 
+From the [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
+
 ### RabbitMQ Pub/Sub
 
 ![RabbitMQ Pub/Sub](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/refs/heads/master/images/pubsub_rabbitmq.svg)
