@@ -15,8 +15,8 @@ but there are more advanced packages with search filtering and analysis on top t
 - [Logging Platform Software](#logging-platform-software)
   - [ELK - Elasticsearch, Logstash, Kibana](#elk---elasticsearch-logstash-kibana)
   - [Graylog](#graylog)
-  - [Prometheus](#prometheus)
   - [Loki](#loki)
+  - [Prometheus](#prometheus)
 - [Cloud Logging](#cloud-logging)
   - [Loggly](#loggly)
   - [SumoLogic](#sumologic)
@@ -100,17 +100,6 @@ I preferred the design quality of [Syslog-ng](syslog-ng.md).
   - Scalable and easy-to-use UI
 - **Use Cases**: Log aggregation and analysis, security auditing
 
-### Prometheus
-
-See [Prometheus](prometheus.md) doc.
-
-- **Description**: Primarily used for monitoring and metrics, but it can also be used for logging
-- **Strengths**:
-  - Focus on metric collection with time-series databases
-  - Integrates well with [Grafana](grafana.md) for visualization
-  - Lightweight and efficient for real-time monitoring
-- **Use Cases**: Infrastructure monitoring, microservices logging, and alerting
-
 ### Loki
 
 <https://grafana.com/oss/loki/>
@@ -121,6 +110,17 @@ See [Prometheus](prometheus.md) doc.
   - Indexes metadata, not full logs, making it more lightweight
   - Ideal for environments where you already use [Prometheus](prometheus.md) and [Grafana](grafana.md)
 - **Use Cases**: Lightweight logging in Kubernetes, cloud-native environments, and cost-effective log aggregation
+
+### Prometheus
+
+See [Prometheus](prometheus.md) doc.
+
+- **Description**: Primarily used for monitoring and metrics, but it can also be used for logging
+- **Strengths**:
+  - Focus on metric collection with time-series databases
+  - Integrates well with [Grafana](grafana.md) for visualization
+  - Lightweight and efficient for real-time monitoring
+- **Use Cases**: Infrastructure monitoring, microservices logging, and alerting
 
 ## Cloud Logging
 
