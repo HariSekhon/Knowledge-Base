@@ -18,6 +18,10 @@ but there are more advanced packages with search filtering and analysis on top t
   - [Loki](#loki)
   - [Prometheus](#prometheus)
 - [Logging Agents](#logging-agents)
+  - [LogStash](#logstash)
+  - [Fluentd / Fluentbit](#fluentd--fluentbit)
+  - [Filebeat](#filebeat)
+  - [Vector](#vector)
 - [Cloud Logging](#cloud-logging)
   - [Loggly](#loggly)
   - [SumoLogic](#sumologic)
@@ -123,12 +127,21 @@ See [Prometheus](prometheus.md) doc.
 
 ## Logging Agents
 
-- [LogStash](logstash.md)
-- [Fluentd / Fluentbit](fluentd.md)
-- [Filebeat](https://www.elastic.co/beats/filebeat)
-- [Vector](#vector)
+### LogStash
 
-**Vector**
+See [LogStash](logstash.md) doc.
+
+### Fluentd / Fluentbit
+
+See [Fluentd / Fluentbit](fluentd.md) doc.
+
+### Filebeat
+
+by Elastic.co of Elasticsearch fame.
+
+See [Filebeat](https://www.elastic.co/beats/filebeat) doc.
+
+### Vector
 
 <https://vector.dev/>
 
