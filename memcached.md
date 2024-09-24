@@ -4,8 +4,9 @@
 
 - [Key Points](#key-points)
 - [Monitoring](#monitoring)
-- [Diagram - Memcached in AWS Clustered Web Services](#diagram---memcached-in-aws-clustered-web-services)
-- [Diagram - Memcached in Multi-Datacenter Java Stack](#diagram---memcached-in-multi-datacenter-java-stack)
+- [Diagrams](#diagrams)
+  - [Memcached in AWS Clustered Web Services](#memcached-in-aws-clustered-web-services)
+  - [Memcached in Multi-Datacenter Java Stack](#memcached-in-multi-datacenter-java-stack)
 
 <!-- INDEX_END -->
 
@@ -34,11 +35,15 @@ See also [Couchbase](couchbase.md) doc.
 
 See [Couchbase Monitoring](couchbase.md#monitoring) section too.
 
-## Diagram - Memcached in AWS Clustered Web Services
+## Diagrams
+
+From [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
+
+### Memcached in AWS Clustered Web Services
 
 ![Memcached in AWS Clustered Web Services](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/aws_clustered_web_services.png)
 
-## Diagram - Memcached in Multi-Datacenter Java Stack
+### Memcached in Multi-Datacenter Java Stack
 
 ![Memcached in Multi-Datacenter Java Stack](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/multi_dc_gslb_f5_java_stack.png)
 
