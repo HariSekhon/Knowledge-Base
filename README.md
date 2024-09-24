@@ -65,6 +65,7 @@ References to official docs and some classic books are provided for those who wa
   - [Build Systems](#build-systems)
   - [Artifact Registries](#artifact-registries)
   - [Code Scanning](#code-scanning)
+- [Infrastructure-as-Code](#infrastructure-as-code)
 - [Configuration Management](#configuration-management)
 - [CI/CD](#cicd)
 - [Internet Services](#internet-services)
@@ -329,7 +330,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [CodeClimate](codeclimate.md)
 - [Codefresh](codefresh.md)
 
-## Configuration Management
+## Infrastructure-as-Code
 
 - [Terraform](terraform.md)
   - [tfenv](tfenv.md)
@@ -337,9 +338,19 @@ Full of open source tools and scripts used throughout the rest of these docs to 
     - [tgswitch](tgswitch.md)
   - [Atlantis](atlantis.md)
 - [Pulumi](pulumi.md)
+
+## Configuration Management
+
 - [Ansible](ansible.md)
 - [Puppet](puppet.md) TODO
 - [YAML](yaml.md)
+
+<!--
+
+- [Salt](salt.md)
+- [Chef](chef.md)
+
+-->
 
 ## CI/CD
 
