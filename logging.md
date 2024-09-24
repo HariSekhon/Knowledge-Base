@@ -17,15 +17,15 @@ but there are more advanced packages with search filtering and analysis on top t
   - [Graylog](#graylog)
   - [Prometheus](#prometheus)
   - [Loki](#loki)
-  - [Papertrail](#papertrail)
-  - [Vector](#vector)
 - [Cloud Logging](#cloud-logging)
   - [Loggly](#loggly)
   - [SumoLogic](#sumologic)
   - [AWS Cloudwatch](#aws-cloudwatch)
   - [GCP Logging](#gcp-logging)
   - [Azure Monitor Logs](#azure-monitor-logs)
+  - [Papertrail](#papertrail)
 - [Logging Agents](#logging-agents)
+  - [Vector](#vector)
 - [CEF - Common Event Format](#cef---common-event-format)
 
 <!-- INDEX_END -->
@@ -61,15 +61,23 @@ See [Syslog-ng](syslog-ng.md) doc.
 
 ### RSyslog
 
+<https://www.rsyslog.com/>
+
+'Rocket-fast syslog'
+
 - Efficient for both small and large-scale environments
 - Extremely customizable and supports multiple formats
 - Good for distributed logging
   - supports [RELP](https://en.wikipedia.org/wiki/Reliable_Event_Logging_Protocol) to prevent remote logging message
     loss
 
+I preferred the design quality of [Syslog-ng](syslog-ng.md).
+
 ## Logging Platform Software
 
 ### ELK - Elasticsearch, Logstash, Kibana
+
+<https://www.elastic.co/elastic-stack>
 
 - **Components**:
   - **Elasticsearch**: Stores and indexes logs
@@ -82,6 +90,8 @@ See [Syslog-ng](syslog-ng.md) doc.
 - **Use Cases**: Centralized logging for distributed systems, troubleshooting, and metrics
 
 ### Graylog
+
+<https://graylog.org/>
 
 - **Description**: Centralized log management system with enhanced search capabilities
 - **Strengths**:
@@ -103,7 +113,7 @@ See [Prometheus](prometheus.md) doc.
 
 ### Loki
 
-by Grafana Labs.
+<https://grafana.com/oss/loki/>
 
 - **Description**: Log aggregation system designed to work with [Grafana](grafana.md)
 - **Strengths**:
@@ -111,23 +121,6 @@ by Grafana Labs.
   - Indexes metadata, not full logs, making it more lightweight
   - Ideal for environments where you already use [Prometheus](prometheus.md) and [Grafana](grafana.md)
 - **Use Cases**: Lightweight logging in Kubernetes, cloud-native environments, and cost-effective log aggregation
-
-### Papertrail
-
-- **Description**: A log aggregation and management system with a focus on simplicity
-- **Strengths**:
-  - Simple, fast, and reliable
-  - Provides real-time log searching and alerts
-- **Use Cases**: Log aggregation for small to medium-sized systems
-
-### Vector
-
-- **Description**: A high-performance observability data pipeline
-- **Strengths**:
-  - Focused on performance and efficiency
-  - Can handle logs, metrics, and traces in one unified platform
-  - Lightweight and flexible, with support for multiple sources and destinations
-- **Use Cases**: Handling both logs and metrics, observability pipelines for distributed systems
 
 ## Cloud Logging
 
@@ -158,11 +151,33 @@ by Grafana Labs.
 
 <https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs>
 
+### Papertrail
+
+<https://www.papertrail.com/>
+
+- **Description**: A log aggregation and management system with a focus on simplicity
+- **Strengths**:
+  - Simple, fast, and reliable
+  - Provides real-time log searching and alerts
+- **Use Cases**: Log aggregation for small to medium-sized systems
+
 ## Logging Agents
 
 - [LogStash](logstash.md)
 - [Fluentd / Fluentbit](fluentd.md)
 - [Filebeat](https://www.elastic.co/beats/filebeat)
+- [Vector](#vector)
+
+### Vector
+
+<https://vector.dev/>
+
+- **Description**: A high-performance observability data pipeline
+- **Strengths**:
+  - Focused on performance and efficiency
+  - Can handle logs, metrics, and traces in one unified platform
+  - Lightweight and flexible, with support for multiple sources and destinations
+- **Use Cases**: Handling both logs and metrics, observability pipelines for distributed systems
 
 ## CEF - Common Event Format
 
