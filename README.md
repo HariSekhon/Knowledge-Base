@@ -459,7 +459,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Kafka](kafka.md)
 - [RabbitMQ](rabbitmq.md)
 - [Celery](celery.md)
-- for Kinesis see [AWS](aws.md)
+- [AWS](aws.md) Kinesis
 
 ## Data
 
