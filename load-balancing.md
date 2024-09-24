@@ -9,7 +9,7 @@
 
 ## Diagram
 
-From [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
+From the [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
 
 ### Load Balancing - Web Farm
 
