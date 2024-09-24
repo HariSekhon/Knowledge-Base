@@ -137,7 +137,7 @@ See [Fluentd / Fluentbit](fluentd.md) doc.
 
 ### Filebeat
 
-by Elastic.co of Elasticsearch fame.
+by Elastic.co of [Elasticsearch](elasticsearch.md) fame.
 
 <https://www.elastic.co/beats/filebeat>
 
