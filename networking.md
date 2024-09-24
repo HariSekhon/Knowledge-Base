@@ -16,7 +16,7 @@
   - [Network - Layer 2 - Local - ARP](#network---layer-2---local---arp)
   - [Network - Layer 3 - Remote - IP](#network---layer-3---remote---ip)
   - [Web Basics](#web-basics)
-  - [Browser FLow](#browser-flow)
+  - [Browser Flow](#browser-flow)
 
 <!-- INDEX_END -->
 
@@ -117,6 +117,8 @@ iptables -nL -line-numbers
 
 ## Diagrams
 
+From the [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
+
 ### Network - Layer 2 - Local - ARP
 
 ![Network Layer 2 - Local - ARP](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/network_layer2_local.svg)
@@ -129,6 +131,6 @@ iptables -nL -line-numbers
 
 ![Web Basics](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/web_basics.svg)
 
-### Browser FLow
+### Browser Flow
 
 ![Browser Flow](images/browser_workflow.gif)
