@@ -10,10 +10,12 @@
 - [IDEs](#ides)
   - [IntelliJ IDEA](#intellij-idea)
   - [PyCharm](#pycharm)
+  - [RubyMine](#rubymine)
   - [VS Code](#vs-code)
   - [Eclipse](#eclipse)
 - [Editor Config](#editor-config)
 - [Misc Eclipse IDE Notes](#misc-eclipse-ide-notes)
+  - [Eclipse Plugins](#eclipse-plugins)
 
 <!-- INDEX_END -->
 
@@ -94,6 +96,14 @@ See the [IntelliJ IDEA](intellij.md) page for more.
 <https://www.jetbrains.com/pycharm/>
 
 Python-focused version of the grand daddy IntelliJ IDEA.
+
+### RubyMine
+
+<https://www.jetbrains.com/ruby/>
+
+Ruby-focused version of the grand daddy IntelliJ IDEA.
+
+Unfortuntely, this is proprietary paid for only and doesn't have a free version like [PyCharm](#pycharm).
 
 ### VS Code
 
