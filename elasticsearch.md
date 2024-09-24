@@ -12,7 +12,8 @@ Distributed ring clustered search service.
 - [Linux Limits](#linux-limits)
 - [Monitoring](#monitoring)
 - [Performance Tuning Tips](#performance-tuning-tips)
-- [Diagram - Elasticsearch Queries](#diagram---elasticsearch-queries)
+- [Diagram](#diagram)
+  - [Elasticsearch Queries](#elasticsearch-queries)
 - [Elasticsearch on Kubernetes](#elasticsearch-on-kubernetes)
 - [Bulk Indexing from Hadoop MapReduce (Pig) - Performance](#bulk-indexing-from-hadoop-mapreduce-pig---performance)
 - [Client Libaries](#client-libaries)
@@ -85,9 +86,13 @@ Segregate roles for best performance:
 
 [Cluster update settings API](https://www.elastic.co/guide/en/elasticsearch/reference/current/cluster-update-settings.html)
 
-## Diagram - Elasticsearch Queries
+## Diagram
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/elasticsearch_queries.svg)
+### Elasticsearch Queries
+
+From the [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
+
+![Elasticsearch Queries](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/elasticsearch_queries.svg)
 
 ## Elasticsearch on Kubernetes
 
