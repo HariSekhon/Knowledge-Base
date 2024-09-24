@@ -25,7 +25,7 @@
 
 ## Expect
 
-Brilliant for automating systems which have no alternative but interactive timed text inputs.
+Excellent TCL language framework for automating systems which have no alternative but interactive timed text inputs.
 
 [Autoexpect](https://linux.die.net/man/1/autoexpect) - generates an expect script from an interactive session, tune from there
 
