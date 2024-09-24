@@ -25,6 +25,10 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
   - [Virtualization & Containerization](#virtualization--containerization)
   - [Big Data & NoSQL](#big-data--nosql)
   - [Data Formats & Analysis](#data-formats--analysis)
+- [Jython](#jython)
+  - [Install](#install)
+  - [Run](#run)
+  - [Code](#code)
 - [Troubleshooting](#troubleshooting)
   - [Alpine `ModuleNotFoundError: No module named 'pip._vendor.six.moves'`](#alpine-modulenotfounderror-no-module-named-pip_vendorsixmoves)
 
@@ -228,6 +232,50 @@ You can see these used throughout these GitHub repos:
 - `toml`
 - `xmltodict`
 - `yamllint` - CLI [YAML](yaml.md) linting tool
+
+## Jython
+
+<https://www.jython.org/>
+
+Python on the [Java JVM](java.md).
+
+The ease of Python coding with full access to Java APIs and libraries.
+
+Useful when there aren't Python libraries available or they aren't as fully featured as the Java versions
+(eg. for [Hadoop](hadoop.md)).
+
+Today, I'd prefer to write in the native JVM language [Groovy](groovy.md).
+
+### Install
+
+From [DevOps-Python-tools](devops-python-tools.md):
+
+```python
+jython_install.sh
+```
+
+### Run
+
+Interactive REPL:
+
+```python
+$ jython
+Jython 2.7.3 (tags/v2.7.3:5f29801fe, Sep 10 2022, 18:52:49)
+[OpenJDK 64-Bit Server VM (Eclipse Adoptium)] on java17.0.1
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
+
+Run a Jython script and add Java classpath to find any jar dependencies that the script uses:
+
+```python
+jython -J-cp "$CLASSPATH" "file.py"
+```
+
+### Code
+
+Some Jython programs, such as those using [Hadoop](hadoop.md) [HDFS](hdfs.md) Java API can be found in the
+[DevOps-Python-tools](devops-python) repo.
 
 ## Troubleshooting
 
