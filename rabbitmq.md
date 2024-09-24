@@ -403,6 +403,6 @@ From the [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as
 
 ### RabbitMQ Pub/Sub
 
-![RabbitMQ Pub/Sub](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/refs/heads/master/images/pubsub_rabbitmq.svg)
+![RabbitMQ Pub/Sub](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/refs/heads/master/images/rabbitmq_pubsub.svg)
 
 **Ported from private Knowledge Base pages 2013+**
