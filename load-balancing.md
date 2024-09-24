@@ -13,4 +13,4 @@ From [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Cod
 
 ### Load Balancing - Web Farm
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/aws_load_balanced_web_farm.png)
+![Load Balancing - Web Farm](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/aws_load_balanced_web_farm.png)
