@@ -34,7 +34,7 @@ From the [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as
 
 ### Kafka Pub/Sub
 
-![Kafka Pub/Sub](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/refs/heads/master/images/pubsub_kafka.svg)
+![Kafka Pub/Sub](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/refs/heads/master/images/kafka_pubsub.svg)
 
 ### Kafka Flink Elasticsearch
 
