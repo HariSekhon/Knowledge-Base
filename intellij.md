@@ -194,6 +194,7 @@ idea installPlugins \
 - [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore) - supports various `.ignore` files for different technologies
 - [Code Glance](https://plugins.jetbrains.com/plugin/7275-codeglance/) - adds a minimap of the file
 - [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
+- [Better Highlights](https://plugins.jetbrains.com/plugin/12895-better-highlights)
 - [BrowseWordAtCaret](https://plugins.jetbrains.com/plugin/201-browsewordatcaret)
 - [Editor Config](https://plugins.jetbrains.com/plugin/7294-editorconfig/)
 - [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink/) - shortcut to open files on GitHub and other hosted repo providers
@@ -220,6 +221,7 @@ idea installPlugins \
   zielu.gittoolbox \
   net.vektah.codeglance \
   GrepConsole \
+  com.clutcher.comments_highlighter \
   BrowseWordAtCaret \
   net.seesharpsoft.intellij.plugins.csv \
   com.godwin.json.parser \
