@@ -299,6 +299,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Golang](golang.md) TODO
 - [Ruby](ruby.md)
 - [R](r.md) TODO
+- [TCL / Expect](programming.md#expect)
 - JVM:
   - [Java](java.md) TODO
   - [JDBC](jdbc.md)
