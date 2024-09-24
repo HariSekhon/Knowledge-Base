@@ -491,7 +491,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Hive](hive.md) TODO
   - [Sqoop](sqoop.md)
 - [Impala](impala.md) TODO
-- [Presto](presto.md) TODO
+- [Presto](presto.md)
 - [Apache Drill](drill.md)
 - [Kudu](kudu.md)
 - [Kylin](kylin.md)
