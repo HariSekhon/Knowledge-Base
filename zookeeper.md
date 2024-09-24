@@ -21,6 +21,7 @@ Used by major technologies, especially Big Data technologies like HBase, Hive Hi
 - [Monitoring](#monitoring)
 - [Multi-DC Availability](#multi-dc-availability)
 - [Troubleshooting](#troubleshooting)
+- [Diagram - ZooKeeper Consensus](#diagram---zookeeper-consensus)
 
 <!-- INDEX_END -->
 
@@ -271,6 +272,8 @@ chown zookeeper:zookeeper /var/lib/zookeeper/version-2
 Then start ZooKeeper.
 
 ## Diagram - ZooKeeper Consensus
+
+From [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
 
 ![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/zookeeper.svg)
 
