@@ -1,26 +1,36 @@
 # Logging
 
+Logging is crucial to being able to monitor, debug and analyze incidents.
+
+Syslog is the standard unix system logging format,
+but there are more advanced packages with search filtering and analysis on top these days.
+
 <!-- INDEX_START -->
 
+- [Summary](#summary)
 - [Syslog](#syslog)
   - [Syslogd](#syslogd)
   - [Syslog-ng](#syslog-ng)
   - [RSyslog](#rsyslog)
-- [Logging Systems](#logging-systems)
+- [Logging Platforms](#logging-platforms)
   - [ELK - Elasticsearch, Logstash, Kibana](#elk---elasticsearch-logstash-kibana)
-- [3. Graylog](#3-graylog)
-- [4. Prometheus](#4-prometheus)
-- [5. Loki (from Grafana Labs)](#5-loki-from-grafana-labs)
-- [6. Papertrail](#6-papertrail)
-- [9. Vector](#9-vector)
-- [10. Loggly](#10-loggly)
-- [Summary:](#summary)
+  - [Graylog](#graylog)
+  - [Prometheus](#prometheus)
+  - [Loki](#loki)
+  - [Papertrail](#papertrail)
+  - [Vector](#vector)
+  - [Loggly](#loggly)
 - [Logging Agents](#logging-agents)
-- [CEF](#cef)
-- [Syslog-Ng Tips](#syslog-ng-tips)
-  - [Syslog-ng tuning](#syslog-ng-tuning)
+- [CEF - Common Event Format](#cef---common-event-format)
 
 <!-- INDEX_END -->
+
+## Summary
+
+- **Syslog-ng** and **Rsyslog** are solid, mature solutions for large infrastructure logging
+- **ELK Stack** and **Graylog** are great for full-scale log aggregation and search
+- **Fluentd** and **Loki** are lightweight options ideal for cloud-native and Kubernetes environments
+- **Prometheus** and **Vector** work well if you’re handling both logs and metrics together
 
 ## Syslog
 
@@ -52,7 +62,7 @@ See [Syslog-ng](syslog-ng.md) doc.
   - supports [RELP](https://en.wikipedia.org/wiki/Reliable_Event_Logging_Protocol) to prevent remote logging message
     loss
 
-## Logging Systems
+## Logging Platforms
 
 ### ELK - Elasticsearch, Logstash, Kibana
 
@@ -122,13 +132,6 @@ by Grafana Labs.
   - Cloud-native with fast setup
   - Offers integrations with DevOps tools
 - **Use Cases**: Centralized logging for DevOps, debugging, and troubleshooting
-
-### Summary
-
-- **ELK Stack** and **Graylog** are great for full-scale log aggregation and search
-- **Fluentd** and **Loki** are lightweight options ideal for cloud-native and Kubernetes environments
-- **Prometheus** and **Vector** work well if you’re handling both logs and metrics together
-- **Syslog-ng** and **Rsyslog** are solid, mature solutions for large infrastructure logging
 
 ## Logging Agents
 
