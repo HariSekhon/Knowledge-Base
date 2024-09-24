@@ -30,6 +30,8 @@ Written in Erlang, invented by Pivotal.
   - [Direct Exchange](#direct-exchange)
   - [Consumer](#consumer)
   - [Producer](#producer)
+- [Diagram](#diagram)
+  - [RabbitMQ Pub/Sub](#rabbitmq-pubsub)
 
 <!-- INDEX_END -->
 
@@ -394,5 +396,11 @@ channel.basic_publish(exchange='',
 # TODO: is there a way to flush without closing connection?
 connection.close()
 ```
+
+## Diagram
+
+### RabbitMQ Pub/Sub
+
+![RabbitMQ Pub/Sub](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/refs/heads/master/images/pubsub_rabbitmq.svg)
 
 **Ported from private Knowledge Base pages 2013+**
