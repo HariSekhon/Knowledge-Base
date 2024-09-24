@@ -26,6 +26,9 @@ Open Source Time Series Database by StumbleUpon.
   - [Bootstrap Tables](#bootstrap-tables)
   - [Tables](#tables)
   - [Metric Creation - Manual vs Automatic](#metric-creation---manual-vs-automatic)
+    - [Automatic](#automatic)
+    - [Manual](#manual)
+    - [Find all metrics in HBase](#find-all-metrics-in-hbase)
   - [Start TSD daemon](#start-tsd-daemon)
   - [Create Sample Data](#create-sample-data)
   - [Cron Cache Clean Daily](#cron-cache-clean-daily)
@@ -40,7 +43,8 @@ Open Source Time Series Database by StumbleUpon.
 - [Troubleshooting](#troubleshooting)
   - [Performance Problems](#performance-problems)
 - [Aardvark](#aardvark)
-- [Diagram - OpenTSDB on Kubernetes, over HBase on Hadoop](#diagram---opentsdb-on-kubernetes-over-hbase-on-hadoop)
+- [Diagram](#diagram)
+  - [OpenTSDB on Kubernetes, over HBase on Hadoop](#opentsdb-on-kubernetes-over-hbase-on-hadoop)
 
 <!-- INDEX_END -->
 
@@ -497,9 +501,14 @@ Metrics browser and visualizer by Simon Matic Langford of G-Research based on a 
 
 Can just use OpenTSDB's UI and autocomplete metric names.
 
-## Diagram - OpenTSDB on Kubernetes, over HBase on Hadoop
+## Diagram
 
-![](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/opentsdb_kubernetes_hbase.svg)
+From the [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
 
-<br><br>
+### OpenTSDB on Kubernetes, over HBase on Hadoop
+
+![OpenTSDB on Kubernetes on HBase](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/opentsdb_kubernetes_hbase.svg)
+
+<br>
+
 **Partial port from private Knowledge Base page 2016**
