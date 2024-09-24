@@ -5,6 +5,29 @@ Popular Pub/Sub message queue with clustering.
 Written in Erlang, invented by Pivotal.
 
 <!-- INDEX_START -->
+
+- [Key Points](#key-points)
+- [Ports](#ports)
+- [Exchanges](#exchanges)
+  - [Fanout](#fanout)
+  - [Direct](#direct)
+  - [Topic](#topic)
+  - [Binding Exchanges](#binding-exchanges)
+- [Commands](#commands)
+- [Management](#management)
+  - [Web UI](#web-ui)
+  - [REST API](#rest-api)
+    - [Create Management UI Users](#create-management-ui-users)
+    - [Enable Management UI](#enable-management-ui)
+  - [RabbitMQ Admin Command](#rabbitmq-admin-command)
+- [Python API](#python-api)
+  - [Pub-Sub Fanout](#pub-sub-fanout)
+  - [Temporary Queue](#temporary-queue)
+  - [Pub-Sub](#pub-sub)
+  - [Direct Exchange](#direct-exchange)
+  - [Consumer](#consumer)
+  - [Producer](#producer)
+
 <!-- INDEX_END -->
 
 ## Key Points
@@ -122,7 +145,7 @@ XXX: Ng pl this figure
 
 <http://www.rabbitmq.com/management-cli.html>
 
-### REST API / `rabbitmqadmin`
+### REST API
 
 Enable web UI / REST API - port 55672 or 15672 (3.0+)
 
@@ -162,7 +185,7 @@ or on newer Linux systems:
 systemctl restart rabbitmq
 ```
 
-#### RabbitMQ Admin Command
+### RabbitMQ Admin Command
 
 Python CLI to the HTTP Rest Managment API:
 
