@@ -12,14 +12,19 @@ but there are more advanced packages with search filtering and analysis on top t
   - [Syslogd](#syslogd)
   - [Syslog-ng](#syslog-ng)
   - [RSyslog](#rsyslog)
-- [Logging Platforms](#logging-platforms)
+- [Logging Platform Software](#logging-platform-software)
   - [ELK - Elasticsearch, Logstash, Kibana](#elk---elasticsearch-logstash-kibana)
   - [Graylog](#graylog)
   - [Prometheus](#prometheus)
   - [Loki](#loki)
   - [Papertrail](#papertrail)
   - [Vector](#vector)
+- [Cloud Logging](#cloud-logging)
   - [Loggly](#loggly)
+  - [SumoLogic](#sumologic)
+  - [AWS Cloudwatch](#aws-cloudwatch)
+  - [GCP Logging](#gcp-logging)
+  - [Azure Monitor Logs](#azure-monitor-logs)
 - [Logging Agents](#logging-agents)
 - [CEF - Common Event Format](#cef---common-event-format)
 
@@ -62,7 +67,7 @@ See [Syslog-ng](syslog-ng.md) doc.
   - supports [RELP](https://en.wikipedia.org/wiki/Reliable_Event_Logging_Protocol) to prevent remote logging message
     loss
 
-## Logging Platforms
+## Logging Platform Software
 
 ### ELK - Elasticsearch, Logstash, Kibana
 
@@ -124,7 +129,11 @@ by Grafana Labs.
   - Lightweight and flexible, with support for multiple sources and destinations
 - **Use Cases**: Handling both logs and metrics, observability pipelines for distributed systems
 
+## Cloud Logging
+
 ### Loggly
+
+<https://www.loggly.com/>
 
 - **Description**: Cloud-based log management platform that offers a free version
 - **Strengths**:
@@ -132,6 +141,22 @@ by Grafana Labs.
   - Cloud-native with fast setup
   - Offers integrations with DevOps tools
 - **Use Cases**: Centralized logging for DevOps, debugging, and troubleshooting
+
+### SumoLogic
+
+<https://www.sumologic.com/>
+
+### AWS Cloudwatch
+
+<https://aws.amazon.com/cloudwatch/>
+
+### GCP Logging
+
+<https://cloud.google.com/logging>>
+
+### Azure Monitor Logs
+
+<https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs>
 
 ## Logging Agents
 
