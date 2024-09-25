@@ -561,6 +561,12 @@ For SSDs, you only need a single pass.
 
 ### Service Management
 
+List services:
+
+```shell
+sudo launchctl list
+```
+
 Load and start a service from a `plist` file:
 
 ```shell
