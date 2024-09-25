@@ -8,6 +8,11 @@
   - [Hugo](#hugo)
   - [Netlify](#netlify)
 - [Web Scrapers](#web-scrapers)
+  - [Flyscrape](#flyscrape)
+    - [Install](#install)
+    - [Config](#config)
+    - [Interactive Config Development](#interactive-config-development)
+    - [Run](#run)
 - [Diagrams](#diagrams)
   - [Web Basics](#web-basics)
   - [AWS Web Traffic Classic](#aws-web-traffic-classic)
@@ -67,8 +72,58 @@ Builds [Jekyll](#jekyll) from GitHub repo integration for CI/CD upon pushes.
 
 ## Web Scrapers
 
-- [FlyScrape](https://flyscrape.com/)
+- [FlyScrape](https://flyscrape.com/) - standalone scraping tool using Javascript configurations
 - [Scrapy](https://scrapy.org/) - Python web scraping library
+
+### Flyscrape
+
+*"Doesn't require advanced programming skills"*
+
+- but it does require some basic Javascript programming to fill in a `config.js` file of what to extract and return
+  - jQuery or cheerio-like API selecting HTML elements
+- can access cookie stores from browsers
+- Browser / Javascript rendering for complex websites
+  - can launch Chromium browsers to materialize the page and then scrape the resulting HTML
+- outputs in [JSON](json.md) for further processing
+
+#### Install
+
+On Mac:
+
+```shell
+brew install flyscrape
+```
+
+or
+
+```shell
+curl -fsSL https://flyscrape.com/install | bash
+```
+
+#### Config
+
+Create a new config:
+
+```shell
+flyscrape new config.js
+```
+
+or use a real example template from
+[HariSekhon/Templates](https://github.com/HariSekhon/Templates/blob/master/flyscrape.config.js).
+
+#### Interactive Config Development
+
+Run this and then edit the file for live terminal updates of what it is extracting:
+
+```shell
+flyscrape dev config.js
+```
+
+#### Run
+
+```shell
+flyscrape run config.js
+```
 
 ## Diagrams
 
