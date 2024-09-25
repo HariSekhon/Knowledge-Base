@@ -1,6 +1,6 @@
 # AI - Artificial Intelligence
 
-Generally narrow AI.
+Mostly narrow AI.
 
 General AI mirroring what humans have is not real yet.
 
