@@ -118,6 +118,10 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_END -->
 
+**This is the lost documentation.**
+
+![Finally Found The Documentation](images/finally_found_documentation.jpeg)
+
 ## GitHub Repos
 
 Full of open source tools and scripts used throughout the rest of these docs to make it easier to install and operate these technologies:
