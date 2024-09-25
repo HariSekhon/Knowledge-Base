@@ -21,6 +21,7 @@
   - [Star History](#star-history)
   - [Star Charts](#star-charts)
 - [Link Team Support Numbers to WhatsApp Desktop](#link-team-support-numbers-to-whatsapp-desktop)
+- [Online Markdown Preview Editors](#online-markdown-preview-editors)
 
 <!-- INDEX_END -->
 
@@ -142,7 +143,7 @@ echo "execute this command"
 ````
 
 ```shell
-echo execute this command
+echo "execute this command"
 ```
 
 ## Emojis
@@ -311,3 +312,11 @@ Also, if you have my real number, please do not call it.
 
 Always message me on [LinkedIn](https://www.linkedin.com/in/HariSekhon) instead after reading my profile's summary
 bullet point criteria - it'll give you nearly everything you need to know about my availability and preferences.
+
+## Online Markdown Preview Editors
+
+In no particular order since I don't use these, I use the [IntelliJ](intellij.md) markdown preview.
+
+<https://dillinger.io/>
+
+<https://stackedit.io/>
