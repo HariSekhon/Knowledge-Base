@@ -67,6 +67,8 @@ Why does the performance degrade after one query?
 
 ## Coding
 
+<https://github.com/features/copilot> - GitHub CoPilot
+
 <https://www.tabnine.com> - support for all major IDEs including my favourite [IntelliJ](intellij.md).
 
 <https://www.cursor.com> - separate Editor that requires download, limited completions in free edition
