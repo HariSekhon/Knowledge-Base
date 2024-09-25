@@ -109,24 +109,28 @@ curl -fsSL https://flyscrape.com/install | bash
 Create a new config:
 
 ```shell
-flyscrape new config.js
+flyscrape new flyscrape.config.js
 ```
 
-or use a real example template from
-[HariSekhon/Templates](https://github.com/HariSekhon/Templates/blob/master/flyscrape.config.js).
+or use a ready-to-run example from
+[HariSekhon/Templates](https://github.com/HariSekhon/Templates/blob/master/flyscrape.config.js):
+
+```shell
+wget -cO flyscrape.config.js https://raw.githubusercontent.com/HariSekhon/Templates/refs/heads/master/flyscrape.config.js
+```
 
 #### Interactive Config Development
 
 Run this and then edit the file for live terminal updates of what it is extracting:
 
 ```shell
-flyscrape dev config.js
+flyscrape dev flyscrape.config.js
 ```
 
 #### Run
 
 ```shell
-flyscrape run config.js
+flyscrape run flyscrape.config.js
 ```
 
 ## Diagrams
