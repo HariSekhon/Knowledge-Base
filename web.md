@@ -77,6 +77,10 @@ Builds [Jekyll](#jekyll) from GitHub repo integration for CI/CD upon pushes.
 
 ### Flyscrape
 
+<https://flyscrape.com>
+
+<https://github.com/philippta/flyscrape>
+
 *"Doesn't require advanced programming skills"*
 
 - but it does require some basic Javascript programming to fill in a `config.js` file of what to extract and return
