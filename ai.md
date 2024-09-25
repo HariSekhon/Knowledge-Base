@@ -20,17 +20,19 @@ General AI mirroring what humans have is not real yet.
 
 <https://www.cloudskillsboost.google/paths/118>
 
-## ChatGPT
+## Chat
+
+### ChatGPT
 
 <https://chat.openai.com/chat>
 
-## SQL Chat
+### SQL Chat
 
 - [SQL Chat](https://github.com/sqlchat/sqlchat) - chat-based interface to querying DBs
 
-## LLM
+### LLM
 
-<https://www.ollama.com/>
+<https://www.ollama.com>
 
 <https://github.com/ollama/ollama>
 
@@ -47,16 +49,22 @@ Why does the performance degrade after one query?
 
 ## Text to Speech
 
-<https://elevenlabs.io/>
+<https://elevenlabs.io>
 
 ## Grammar
 
-<https://app.grammarly.com/>
+<https://app.grammarly.com>
 
-<https://hemingwayapp.com/>
+<https://hemingwayapp.com>
 
 ## UI
 
-<https://uizard.io/>
+<https://uizard.io>
 
-<https://app.uizard.io/>
+<https://app.uizard.io>
+
+## Coding
+
+<https://www.tabnine.com> - support for all major IDEs including my favourite [IntelliJ](intellij.md).
+
+<https://www.cursor.com> - separate Editor that requires download, limited completions in free edition
