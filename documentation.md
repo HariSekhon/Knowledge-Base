@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [The Importance of Documentation](#the-importance-of-documentation)
+- [Documentation Tips](#documentation-tips)
 - [Documentation Tools](#documentation-tools)
   - [Wikis](#wikis)
 - [Documentation-as-Code](#documentation-as-code)
@@ -38,6 +39,27 @@ If you've ever had this _"Why Bother?"_ approach to documentation, allow me to g
 <!-- -->
 
 5. You can't search for things if you don't know they exist or what the terminology is.
+
+# Documentation Tips
+
+- Use simple clear language
+  - you're not here to be a fancy author
+- Explain Why
+  - give design reasonings and context behind decisions, trade-offs, chain of thought etc.
+- Show examples and practical code snippets
+- Show use cases and real-world scenarios
+- Reference links to official documentation and related resources, blogs and articles with more details -
+  you don't have to duplicate everything when a link will do
+- Keep docs up to date with changes
+  - docs in [Markdown](markdown.md) should be edited along with the corresponding code changes in PRs
+    - otherwise the PRs should be rejected
+- Organize in an intuitive way, use Indexes with links to anchor headings along the page for easy navigation
+  - see
+    [markdown_generate_index.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/git/markdown_generate_index.sh)
+    and
+    [markdown_replace_index.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/git/markdown_replace_index.sh)
+    scripts from the [DevOps-Bash-tools](devops-bash-tools.md) repo.
+- Consistent uniform style and formatting
 
 ## Documentation Tools
 
