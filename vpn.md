@@ -41,6 +41,7 @@ Standard open source GUI client on Mac that can connect to OpenVPN.
 
 - [OpenVPN Client](https://openvpn.net/client/)
 - [Perimeter 81](https://www.perimeter81.com/) - user friendly VPN
+- Global Protect by Palo Alto Networks
 
 ## Consumer VPNs
 
