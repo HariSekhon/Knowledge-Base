@@ -50,6 +50,7 @@ Free VPNs generally have fewer server locations to routing your traffic from.
 - [NordVPN](https://nordvpn.com/) - commercial well-established with a kill-switch to reduce risk of leakage
 - [ExpressVPN](https://www.expressvpn.com/) - simple but more expensive than Nord
 - [Surfshark](https://surfshark.com) - best cheap VPN
+- ~~[AtlasVPN](https://atlasvpn.com/) - discontinued~~
 - [Private Internet Access](https://privateinternetaccess.com) - best for Linux
 - [TunnelBear](https://www.tunnelbear.com/) - consumer VPN with free tier but limited to 500MB of data, use
   [ProtonVPN](https://protonvpn.com/) instead
