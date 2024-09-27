@@ -569,8 +569,8 @@ If you have a sensitive nose you may have had your fill pretty soon (or if you'r
 
 In the market, do not let people _"help"_ you to lead to you places,
 they are clearing getting kickbacks to lead you to 3.7 star places that you would not choose -
-use Google Maps and reviews of places with high numbers of reviews.
-Below are some I have visited personally and the better ones I'd recommend.
+use Google Maps (see the [e-sim data section](#digital-e-sims) above) and reviews of places with high numbers of
+reviews. Below are some I have visited personally and the better ones I'd recommend.
 
 #### Tangiers
 
