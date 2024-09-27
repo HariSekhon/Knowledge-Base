@@ -41,6 +41,10 @@ num_countries="$(wc -l <<< "$countries" | sed 's/[[:space:]]*//g')"
 
 travel_md="travel.md"
 
+if ! [ -f "$travel_md" ]; then
+    die "FAILED to find file: $travel_md"
+fi
+
 timestamp "Parsing number of countries in $travel_md"
 num_countries_in_markdown="$(awk '/^Number of Countries:[[:space:]]*[[:digit:]]+$/ {print $4}' "$travel_md")"
 
