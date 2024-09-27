@@ -335,30 +335,27 @@ git config remote.<name>.push master:dev
 
 ### Set Git Commit Author using Environment Variables (for CI/CD workflows)
 
-Setting these is an easy way of fixing the Git Commit Author setting for [CI/CD](ci-cd.md) workflows without setting:
+Using Git environment variables is a less hardcoded way of setting the Git Commit Author for `git commit` steps in
+[CI/CD](ci-cd.md) workflows:
 
-```shell
-git config user.name "Hari Sekhon"
-git config user.email "hari@domain.com"
-```
-
-Requires all four of these environment variables otherwise complains `Author identity unknown` or
+Git requires all four of these environment variables otherwise `git commit` errors out with `Author identity unknown` or
 `Committer identity unknown` since technically the committer could be different to the code author.
 
 `GIT_AUTHOR_NAME` and `GIT_AUTHOR_EMAIL` -  the identity of the person who made the changes
 
 `GIT_COMMITTER_NAME` and `GIT_COMMITTER_EMAIL` - the identity of the person who committed the changes
 
-Since setting these two for Author vs Committer is a hassle, it's probably easier to set the only two `GIT_AUTHOR_*`
-environment variables and then put this in your CI/CD to unify them using config:
+Since setting all four environment variables is for Author vs Committer is a hassle, especially given the Committer is
+usually the same as the author, it's probably easier to set the only two `GIT_AUTHOR_*`
+environment variables and then put this in your CI/CD to unify them using the one set of config:
 
 ```shell
 git config user.name "$GIT_AUTHOR_NAME"
 git config user.email "$GIT_AUTHOR_EMAIL"
 ```
 
-This allows you to abstract our the Git Author/Committer identity to the top of your CI/CD workflow for easier
-management but variablize the code.
+This allows you to abstract our the Git Author & Committer identity to the top of your CI/CD workflow using
+enironment variable for easier maintenance but variablize the code.
 
 ### Fix Author / Email in Git Pull Request or History
 
