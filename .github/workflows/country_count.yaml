@@ -92,7 +92,7 @@ jobs:
           echo "::set-output name=exit_status::$?"
 
       - name: Git Commit
-        if: ${{ git-diff.outputs.exit_status != 0 }}
+        if: ${{ steps.git-diff.outputs.exit_status != 0 }}
         run: git commit -m "updated country count" "$TRAVEL_MD"
 
       - name: Git Log
