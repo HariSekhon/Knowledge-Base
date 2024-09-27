@@ -17,9 +17,12 @@
   - [Find line in `.gitignore` which is causing a given file to be ignored](#find-line-in-gitignore-which-is-causing-a-given-file-to-be-ignored)
   - [Trigger CI/CD using empty commit](#trigger-cicd-using-empty-commit)
   - [Copy a file from another branch](#copy-a-file-from-another-branch)
+  - [Ammend Last Commit](#ammend-last-commit)
+  - [Git Reflog](#git-reflog)
   - [Pull from Upstream Origin in a local Fork](#pull-from-upstream-origin-in-a-local-fork)
   - [Multi-Origin Remotes](#multi-origin-remotes)
     - [Advanced - push to different branch on remote](#advanced---push-to-different-branch-on-remote)
+  - [Set Git Commit Author using Environment Variables (for CI/CD workflows)](#set-git-commit-author-using-environment-variables-for-cicd-workflows)
   - [Fix Author / Email in Git Pull Request or History](#fix-author--email-in-git-pull-request-or-history)
   - [Erase Leaked Credential in Pull Request](#erase-leaked-credential-in-pull-request)
   - [Convert GitHub.com links to Raw GitHub URL links](#convert-githubcom-links-to-raw-github-url-links)
@@ -233,6 +236,31 @@ git checkout "$branch" "$filename"
 
 This puts it straight into the cache for commit, so you'll need to `git reset` if you don't want to commit it.
 
+### Ammend Last Commit
+
+It you commit and then notice a small change you needed to make to the commit
+
+```shell
+git commit --amend --no-edit
+```
+
+### Git Reflog
+
+Shows the tips of branches that changed in the local repo.
+Useful to be able to go back in time to points of pulls.
+This will be less commits to wade through than `git log`.
+
+```shell
+git reflog
+```
+
+Can use these reference points in other git commands like `git checkout` or
+`git reset` (use the latter with care it unwinds commits).
+
+`HEAD@{2}` means "where HEAD used to be two moves ago".
+
+`master@{one.week.ago}` means "where master used to point to one week ago in this local repository".
+
 ### Pull from Upstream Origin in a local Fork
 
 To make it easier to stay up to date with an upstream source repo when you're in a clone of its fork, add it:
@@ -304,6 +332,26 @@ Configures the remote to push local master branch to dev branch upstream
 ```shell
 git config remote.<name>.push master:dev
 ```
+
+### Set Git Commit Author using Environment Variables (for CI/CD workflows)
+
+Setting these is an easy way of fixing the Git Commit Author setting for [CI/CD](ci-cd.md) workflows without setting:
+
+```shell
+git config user.name "Hari Sekhon"
+git config user.email "hari@domain.com"
+```
+
+Requires all four of these environment variables otherwise complains `Author identity unknown` or
+`Committer identity unknown` since technically the committer could be different to the code author.
+
+`GIT_AUTHOR_NAME` - *"The human-readable name used in the author identity when creating commit or tag objects, or when writing reflogs. Overrides the `user.name` and `author.name` configuration settings"*
+
+`GIT_COMMITTER_NAME` - *"The human-readable name used in the committer identity when creating commit or tag objects, or when writing reflogs. Overrides the `user.name` and `committer.name` configuration settings"*
+
+`GIT_AUTHOR_EMAIL` - *"The email address used in the author identity when creating commit or tag objects, or when writing reflogs. Overrides the `user.email` and `author.email` configuration settings"*
+
+`GIT_COMMITTER_EMAIL` - *"The email address used in the author identity when creating commit or tag objects, or when writing reflogs. Overrides the `user.email` and `committer.email` configuration settings"*
 
 ### Fix Author / Email in Git Pull Request or History
 
