@@ -73,6 +73,10 @@ jobs:
     timeout-minutes: 3
     runs-on: ubuntu-latest
     steps:
+
+      - name: Environment
+        run: env | sort
+
       - uses: actions/checkout@v3
         #name: Git Checkout  # better to show the action@version
         with:
