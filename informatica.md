@@ -412,7 +412,7 @@ Informatica Support URL:
 <https://support.informatica.com/s/?language=en_US>
 
 If Informatica support request you to upload the [JDBC](jdbc.md) jar that you are using,
-and their support portal rejects it as not one of the supported formats, just rename or zip / tar it.
+and their support portal rejects it as not one of the supported formats, just rename the file extension or zip / tar it.
 
 ## Troubleshooting
 
