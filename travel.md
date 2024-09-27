@@ -560,6 +560,8 @@ The menus are in French!
 
 There are stray cats everywhere.
 
+I got food poisoning in Morocco.
+
 #### Tangiers
 
 Beach city in northern Morocco.
@@ -590,6 +592,8 @@ but I'd probably go with individual plates next time.
 Fresh squeezed juice was good.
 Prices were similar to other places.
 No wifi, cash only.
+
+[Alma Kitchen & Coffee](https://maps.app.goo.gl/9bD1hQnonnX2w3TZ8) - good but a bit expensive by local standards.
 
 ### Norway
 
