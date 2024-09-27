@@ -84,8 +84,15 @@ jobs:
       - name: Git Add
         run: git add "$TRAVEL_MD"
 
+      - name: Git Diff
+        id: git-diff
+        run: |
+          set +e
+          git diff-index HEAD
+          echo "::set-output name=exit_status::$?"
+
       - name: Git Commit
-        if: ! git diff-index --quiet HEAD
+        if: ${{ git-diff.outputs.exit_status != 0 }}
         run: git commit -m "updated country count" "$TRAVEL_MD"
 
       - name: Git Log
