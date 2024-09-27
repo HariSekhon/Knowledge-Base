@@ -89,7 +89,9 @@ jobs:
         run: |
           set +e
           git diff-index HEAD
-          echo "::set-output name=exit_status::$?"
+          # deprecated
+          #echo "::set-output name=exit_status::$?"
+          echo "exit_status=$?" >> "$GITHUB_STATE"
 
       - name: Git Commit
         if: ${{ steps.git-diff.outputs.exit_status != 0 }}
