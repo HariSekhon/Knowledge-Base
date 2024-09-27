@@ -982,6 +982,10 @@ Copying them was how a lot of the European countries on this list were covered!
   - much more hassle, not like HSBC back in the UK, most UK banks just open accounts easily
   - even already having an HSBC UK account doesn't help
 
+### United Kingdom
+
+See [The UK Decline - What I Learnt on UK Tour 2024](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b).
+
 ### USA
 
 You will get finger printed entering the country.
