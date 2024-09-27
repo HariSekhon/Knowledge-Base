@@ -49,7 +49,7 @@ is one of the few use cases for that).
 
 ## Bash vs Other Languages
 
-You may occasionally see the following on DevOps job specs:
+You may occasionally see the following in DevOps job specs:
 
 > 10 lines of Bash is better than 100 lines of Java
 
