@@ -1,10 +1,12 @@
 # SQL Databases
 
-These are mostly [SQL](sql.md) databases of various forms, usually RDBMS or MPP, but some without referential integrity
-or ACID compliance.
+These are mostly [SQL](sql.md) databases of various forms,
+usually [RDBMS](README.md#databases--rdbms) or
+[MPP](README.md#mpp-databases), but some without referential integrity or ACID compliance.
 
 <!-- INDEX_START -->
 
+- [DB Rankings](#db-rankings)
 - [Open Source Databases](#open-source-databases)
   - [Open Source RDBMS](#open-source-rdbms)
   - [Open Source MPP Databases](#open-source-mpp-databases)
@@ -15,6 +17,10 @@ or ACID compliance.
 - [Database Sharding](#database-sharding)
 
 <!-- INDEX_END -->
+
+## DB Rankings
+
+<https://db-engines.com/en/ranking>
 
 ## Open Source Databases
 
