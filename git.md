@@ -345,13 +345,9 @@ git config user.email "hari@domain.com"
 Requires all four of these environment variables otherwise complains `Author identity unknown` or
 `Committer identity unknown` since technically the committer could be different to the code author.
 
-`GIT_AUTHOR_NAME` - *"The human-readable name used in the author identity when creating commit or tag objects, or when writing reflogs. Overrides the `user.name` and `author.name` configuration settings"*
+`GIT_AUTHOR_NAME` and `GIT_AUTHOR_EMAIL` -  the identity of the person who made the changes
 
-`GIT_COMMITTER_NAME` - *"The human-readable name used in the committer identity when creating commit or tag objects, or when writing reflogs. Overrides the `user.name` and `committer.name` configuration settings"*
-
-`GIT_AUTHOR_EMAIL` - *"The email address used in the author identity when creating commit or tag objects, or when writing reflogs. Overrides the `user.email` and `author.email` configuration settings"*
-
-`GIT_COMMITTER_EMAIL` - *"The email address used in the author identity when creating commit or tag objects, or when writing reflogs. Overrides the `user.email` and `committer.email` configuration settings"*
+`GIT_COMMITTER_NAME` and `GIT_COMMITTER_EMAIL` - the identity of the person who committed the changes
 
 ### Fix Author / Email in Git Pull Request or History
 
