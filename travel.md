@@ -16,6 +16,10 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Digital e-sims](#digital-e-sims)
 - [Dining Out](#dining-out)
 - [Translation](#translation)
+- [Beware Foreign Police & Customs](#beware-foreign-police--customs)
+  - [Carry Your Official Documents Everywhere For When You _Are_ Stopped](#carry-your-official-documents-everywhere-for-when-you-_are_-stopped)
+  - [Don't Speed](#dont-speed)
+  - [Do Not Even Jaywalk](#do-not-even-jaywalk)
 - [Driving](#driving)
   - [Driving Checklist](#driving-checklist)
   - [Additional EU Driving Checklist](#additional-eu-driving-checklist)
@@ -101,6 +105,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Visa](#visa)
     - [Weather](#weather)
     - [Banking](#banking)
+  - [United Kingdom](#united-kingdom)
   - [USA](#usa)
     - [California](#california)
       - [Irvine](#irvine)
@@ -200,11 +205,14 @@ and add the country you are travelling to for more options.
 
 ## Dining Out
 
-Use [Google Maps](https://maps.google.com) - filter by:
+Use [Google Maps](https://maps.google.com) (see [Mobile Internet Access](#mobile-internet-access) section).
+
+Filter by:
 
 - `Top Rated` on phone or `4.5+` Star rating on desktop
 - Distance
 - Price eg. `£, ££` or `£££` if it's date night
+- Prefer restaurants with higher number of reviews to reduce likelihood of fake reviews swaying / gaming the system
 
 Places just outside the centres are often better value for money and top quality food,
 but some central places are great too.
@@ -215,7 +223,7 @@ Some places don't have English menus -
 these are often the best places that aren't so spoilt by foreign money and tourist trap
 churn allowing them to lower their standards.
 
-You will need to use a translation app ...
+You will need to use a [Translation App](#translation) ...
 
 ## Translation
 
@@ -229,6 +237,45 @@ If travelling to a non-English speaking country, I recommend downloading the
 - Large list of supported languages
 - Optional: download language support when on wifi
   - didn't notice this making much impact on my data plan either way
+
+## Beware Foreign Police & Customs
+
+You may not understand how despicable institutional corruption is until you've had a first hand run-in with it.
+
+I have been shaken down, fined or blackmailed by Police in countries ranging from South Africa to Latvia to Serbia,
+had an
+[invasive car search in Sweden](https://medium.com/@harisekhon/the-police-attention-you-get-driving-a-drug-dealer-looking-car-through-europe-d38c5919835f),
+and was randomly stopped and questioned a couple times by the UK police on occasions I wore a hoodie
+(with hood down during peak daytime 9am-2pm walking along the pavement slowly in broad daylight, not hiding my face).
+
+<!-- TODO: link to medium article on random stop and search experiences -->
+
+**Do not give the police any excuse to stop you.**
+
+### Carry Your Official Documents Everywhere For When You _Are_ Stopped
+
+Carry all of your documents on you safely in case you are stopped
+(see [Driving](#driving) section checklist).
+
+### Don't Speed
+
+See the [Driving](#driving) section for more on this.
+
+### Do Not Even Jaywalk
+
+Do not walk across road crossings during red men pedestrian traffic signs as some countries have laws against
+_"jay walking"_
+which the police may choose
+to only enforce against you as a foreigner etc. Some Police wait at major traffic light crossing
+waiting for gullible foreigners to make this fineable mistake.
+
+![Dont_trust_the_police](images/dont_need_gun_police_will_protect_you_thought_you_didnt_trust_police.jpeg)
+
+**ps. don't carry guns to other countries! You will almost certainly get put in jail !!**
+
+**pps. Don't even carry tools or anything remotely sharp.
+I've even had my shaving razors taken off me at airports -
+you never know how they will treat you in a foreign place and it varies significantly.**
 
 ## Driving
 
@@ -247,7 +294,12 @@ This is a local knowledge that will get you done and your license revoked if you
 
 Police may refuse you entry or blackmail you out of money if you don't have all of the following documents:
 
-- Passport
+- Passport:
+  - South African police laid a trap pulling over foreigners coming out of
+    [Sandton](#sandton) - primarily a rich foreigner area.
+    My guess is they were targeting rental cars in an attempt to extort fines / bribes from foreigners not carrying
+    their passports and even document imaginable including driving license and international driver's permit.
+    <!-- TODO: medium story this full exchange -->
 - UK driver's license
 - International driver's permit (get this from the Post Office it's only around £5 but requires a passport photo)
 - Insurance certificate
@@ -564,13 +616,26 @@ There are stray cats everywhere.
 
 I got food poisoning in Morocco.
 
-If you have a curious nose Morocco is a land of intrigue with interesting bazars.
-If you have a sensitive nose you may have had your fill pretty soon (or if you're struggling with food poisoning).
+If you have a curious nose, Morocco is a land of intrigue with a bounty of interesting produce in bazaars.
+Not all smells are great though.
+If you have a sensitive nose you may have had your nasal fill pretty soon
+(or if you're struggling with food poisoning with the smells making your stomach recurringly queasy).
+Do not book a long time to Morocco on your first visit in case you don't like the constant smells.
 
-In the market, do not let people _"help"_ you to lead to you places,
-they are clearing getting kickbacks to lead you to 3.7 star places that you would not choose -
-use Google Maps (see the [e-sim data section](#digital-e-sims) above) and reviews of places with high numbers of
-reviews. Below are some I have visited personally and the better ones I'd recommend.
+In the bazaars, do not let local people _"help"_ you by leading to you places,
+they are clearing getting kickbacks by the owners to lead you to 3.7 star places that you would not choose.
+When you decide to not stay, and they don't get their kickbacks, they then start hassling your for direct *tips*.
+
+Use Google Maps instead (see the [e-sim data section](#digital-e-sims) above) and rely on reviews of places with high
+numbers of reviews to reduce the likelihood of swaying / gaming the system fake reviews.
+
+Below are some I have visited personally and the better ones I'd recommend.
+
+There are also old women almost shouting at you as you pass by in native language (presumably aggressive begging).
+This is probably what western feminists would be doing if they weren't
+[stealing so much of your income via the high tax feminist-socialist welfare state](https://avoiceformen.com/featured/research-finds-that-as-a-group-only-men-pay-tax/).
+I prefer the Moroccan system on this point as it has more consent for men.
+You can safely ignore them.
 
 #### Tangiers
 
@@ -817,7 +882,7 @@ Be wary of Serbian police. *"You are not in the EU now"* as they said to me.
 Overall, a horrible experience driving to Serbia and I would not do it again.
 
 You immediately feel like you've gone from Europe to some dangerous 3rd world country where you are more worried about
-the police themselves.
+the police themselves and corruption.
 
 #### Belgrade
 
