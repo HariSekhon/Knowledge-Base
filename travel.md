@@ -617,10 +617,10 @@ There are stray cats everywhere.
 I got food poisoning in Morocco.
 
 If you have a curious nose, Morocco is a land of intrigue with a bounty of interesting produce in bazaars.
-Not all smells are great though.
-If you have a sensitive nose you may have had your nasal fill pretty soon
-(or if you're struggling with food poisoning with the smells making your stomach recurringly queasy).
-Do not book a long time to Morocco on your first visit in case you don't like the constant smells.
+Not all smells are pleasant though.
+If you have a sensitive nose you may have had your nasal fill pretty quickly
+(or if you're struggling with food poisoning with many smells making your frequently stomach churn for days).
+Do not book a long time in Morocco on your first visit in case you don't like the constant smells.
 
 In the bazaars, do not let local people _"help"_ you by leading to you places,
 they are clearing getting kickbacks by the owners to lead you to 3.7 star places that you would not choose.
