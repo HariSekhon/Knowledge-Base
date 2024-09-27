@@ -100,7 +100,7 @@ jobs:
         run: git commit -m "updated country count" "$TRAVEL_MD"
 
       - name: Git Log
-        run: git log -2
+        run: git log -3
 
       #- name: Git Push
       #  run: git push
