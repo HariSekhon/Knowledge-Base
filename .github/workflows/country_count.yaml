@@ -85,6 +85,7 @@ jobs:
         run: git add "$TRAVEL_MD"
 
       - name: Git Commit
+        if: ! git diff-index --quiet HEAD
         run: git commit -m "updated country count" "$TRAVEL_MD"
 
       - name: Git Log
