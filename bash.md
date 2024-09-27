@@ -13,10 +13,12 @@ is one of the few use cases for that).
 - [Core Reading Material](#core-reading-material)
   - [Books](#books)
   - [Free](#free)
+- [Bash vs Other Languages](#bash-vs-other-languages)
+- [Error Handling in Bash](#error-handling-in-bash)
 - [Advanced Library of Scripts](#advanced-library-of-scripts)
 - [Perl, Awk, Sed](#perl-awk-sed)
 - [JSON](#json)
-- [Binary Analysis](#binary-analysis)
+- [Binaries Debugging](#binaries-debugging)
 - [Commands](#commands)
 - [Tips & Tricks](#tips--tricks)
   - [Fifos](#fifos)
@@ -44,6 +46,25 @@ is one of the few use cases for that).
 
 - [Advanced Bash Scripting Guide (HTML)](https://tldp.org/LDP/abs/html/)
 - [Advanced Bash Scripting Guide (PDF)](https://tldp.org/LDP/abs/abs-guide.pdf)
+
+## Bash vs Other Languages
+
+You may occasionally see the following on DevOps job specs:
+
+> 10 lines of Bash is better than 100 lines of Java
+
+This true, but also, if you're only writing 100 lines of Java you probably don't have enough error handling.
+
+## Error Handling in Bash
+
+All scripts should have the following set at the top of them.
+
+If you haven't accounted for all the exit codes and variables in the script,
+it should crash for safety like other languages until you fix your code.
+
+```shell
+set -euo pipefail
+```
 
 ## Advanced Library of Scripts
 
