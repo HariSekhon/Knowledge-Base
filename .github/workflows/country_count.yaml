@@ -57,6 +57,7 @@ defaults:
     shell: bash -euxo pipefail {0}
 
 env:
+  TRAVEL_MD: travel.md
   DEBUG: ${{ inputs.debug == true || github.event.inputs.debug == true || '' }}
 
 jobs:
@@ -73,14 +74,14 @@ jobs:
         with:
           submodules: 'true'  # requires Git 2.18+ to be installed first
 
-      - name: Update Country Count in travel.md
+      - name: Update Country Count in "$TRAVEL_MD"
         run: .github/scripts/country_count.sh
 
       - name: Git Add
-        run: git add travel.md
+        run: git add "$TRAVEL_MD"
 
       - name: Git Commit
-        run: git commit -m "updated country count" travel.md
+        run: git commit -m "updated country count" "$TRAVEL_MD"
 
       - name: Git Push
         run: git push
