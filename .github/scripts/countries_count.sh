@@ -35,7 +35,7 @@ num_args 0 "$@"
 
 cd "$srcdir/../.."
 
-countries="$(sed -n '/## Countries/,$p' travel.md | grep ^###[[:space:]])"
+countries="$(sed -n '/## Countries/,$p' travel.md | grep '^###[[:space:]]')"
 
 num_countries="$(wc -l <<< "$countries" | sed 's/[[:space:]]*//g')"
 
