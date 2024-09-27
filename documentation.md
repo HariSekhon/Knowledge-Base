@@ -47,9 +47,9 @@ If you've ever had this _"Why Bother?"_ approach to documentation, allow me to g
   - you're not here to be a fancy author
 - Explain Why
   - give design reasonings and context behind decisions, trade-offs, chain of thought etc.
-  - Example: at a Hedge Fund I worked for [Confluent](confluent.md) platform would have cost them \$1M annually in
-    licensing so they chose to go with open source [Kafka](kafka.md) instead and just spent 3 months of engineer time...
-    on it, which unfortunately for us is not worth anywhere near \$1M!
+  - Example: at a Hedge Fund I worked for, they evaluated [Confluent](confluent.md) platform but found it would have
+    cost them \$1M annually in licensing so they chose to go with open source [Kafka](kafka.md) instead and just spent
+    3 months of engineer time on it, which unfortunately for us is not worth anywhere near \$1M!
 - Show examples and practical code snippets
 - Show use cases and real-world scenarios
 - Add [Diagrams](diagrams.md) and screenshots where you can to aid visually
