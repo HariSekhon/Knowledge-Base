@@ -572,7 +572,7 @@ the Isla Blanca fried sushi with pineapple was excellent.
 They also do wooden boats filled with a selection of sushi.
 Has Wifi.
 
-[Boutique Burger](https://maps.app.goo.gl/k1D2MvJyEvzLWZcf6) - possibly the best fries I'ev ever had anywhere, crispy
+[Boutique Burger](https://maps.app.goo.gl/k1D2MvJyEvzLWZcf6) - possibly the best fries I've ever had anywhere, crispy
 deep fried on the outside and light and fluffy on the inside.
 The popular Texas pulled beef burger was great,
 the greek salad was a good size with very good ingredients but an average dressing.
@@ -580,7 +580,8 @@ Of course there is fresh orange juice at a reasonable price, as there is in many
 Bring your travel adapter because there's Wifi and plugs by the tables.
 
 [Restaurant Cafe La Playa](https://maps.app.goo.gl/Lrep4uahqy88cERR6) - cash only but great Moroccan food, prices and
-service, with a very comfortable upstairs lounge area and wifi. I recommend the Tangine with beef and prunes,
+service, with a very comfortable upstairs lounge area and wifi.
+I recommend the Tajine with beef and prunes,
 the Moroccan salad (side) and the lentils starters. The bread is home made and very good too,
 fresh squeezed juices are both well priced and good sizes.
 Wifi and plugs available upstairs, and if you site on one end youhave an open window view of the sea.
