@@ -53,13 +53,14 @@ You are limited only by time and effort.
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [Class Central](https://www.classcentral.com/subject/programming-and-software-development)
 
-## Test Driven Development
+## Testing
 
-You should write tests first because this will catch edge cases in your functions and you can then write your functions
-to match the expected logic behaviour of your tests cases.
+See [Testing](testing.md)
 
-Don't be these people - it's funny because it's wrong:
+## Meme
 
-![Test Cases are for Weak Programmers](images/test_cases_for_weak_programmers.jpeg)
+Are you sure you want to be a software developer??
+
+![People Who Sell vs Build Software](images/people_who_sell_software_vs_build_software.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
