@@ -82,7 +82,7 @@ References to official docs and some classic books are provided for those who wa
 - [Data](#data)
   - [Data Formats](#data-formats)
   - [Hadoop Ecosystem](#hadoop-ecosystem)
-  - [Data Science](#data-science)
+  - [Data Science & Machine Learning](#data-science--machine-learning)
   - [Time Series Databases](#time-series-databases)
   - [Visualization](#visualization)
 - [Security](#security)
@@ -503,9 +503,10 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Mahout](mahout.md)
 - [ZooKeeper](zookeeper.md)
 
-### Data Science
+### Data Science & Machine Learning
 
 - [Data Science](data-science.md) TODO
+- [Machine Learning](machine-learning.md) TODO
 - [Python](python.md)
   - [Anaconda](anaconda.md) TODO
 - [R](r.md) TODO
