@@ -411,6 +411,9 @@ Informatica Support URL:
 
 <https://support.informatica.com/s/?language=en_US>
 
+If Informatica support request you to upload the [JDBC](jdbc.md) jar that you are using,
+and their support portal rejects it as not one of the supported formats, just rename or zip / tar it.
+
 ## Troubleshooting
 
 A lot of issues are caused by transient secure agent process issues or running out of disk space.
