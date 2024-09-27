@@ -14,7 +14,7 @@ is one of the few use cases for that).
   - [Books](#books)
   - [Free](#free)
 - [Bash vs Other Languages](#bash-vs-other-languages)
-- [Error Handling in Bash](#error-handling-in-bash)
+  - [Error Handling in Bash](#error-handling-in-bash)
 - [Advanced Library of Scripts](#advanced-library-of-scripts)
 - [Perl, Awk, Sed](#perl-awk-sed)
 - [JSON](#json)
@@ -55,7 +55,7 @@ You may occasionally see the following on DevOps job specs:
 
 This true, but also, if you're only writing 100 lines of Java you probably don't have enough error handling.
 
-## Error Handling in Bash
+### Error Handling in Bash
 
 All scripts should have the following set at the top of them.
 
@@ -65,6 +65,8 @@ it should crash for safety like other languages until you fix your code.
 ```shell
 set -euo pipefail
 ```
+
+See the [Debugging](#debugging) section further down for details.
 
 ## Advanced Library of Scripts
 
@@ -250,6 +252,15 @@ in unintended consequences:
 ```shell
 set -e
 ```
+
+In Bash, but not available in old Bourne shell:
+
+```shell
+set -o pipefail
+```
+
+Which fails on non-zero exit codes from commands in pipes
+which otherwise get masked by the exit code of the last command in the shell pipeline.
 
 ### Fail if accessing any unset variable
 
