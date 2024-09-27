@@ -75,3 +75,9 @@ jobs:
 
       - name: Update Country Count in travel.md
         run: .github/scripts/country_count.sh
+
+      - name: Git Add
+        run: git add travel.md
+
+      - name: Git Push
+        run: git push
