@@ -329,6 +329,8 @@ get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return 
 
 Some more specific tips for different countries.
 
+Number of Countries: 22
+
 ### Austria
 
 #### Vienna
