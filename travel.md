@@ -567,7 +567,7 @@ I got food poisoning in Morocco.
 If you have a curious nose Morocco is a land of intrigue with interesting bazars.
 If you have a sensitive nose you may have had your fill pretty soon (or if you're struggling with food poisoning).
 
-In the market, do not let people "help" you to lead to you places,
+In the market, do not let people _"help"_ you to lead to you places,
 they are clearing getting kickbacks to lead you to 3.7 star places that you would not choose -
 use Google Maps and reviews of places with high numbers of reviews.
 Below are some I have visited personally and the better ones I'd recommend.
