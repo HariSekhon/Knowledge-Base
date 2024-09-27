@@ -354,7 +354,7 @@ git config user.name "$GIT_AUTHOR_NAME"
 git config user.email "$GIT_AUTHOR_EMAIL"
 ```
 
-This allows you to abstract our the Git Author & Committer identity to the top of your CI/CD workflow using
+This allows you to abstract out the Git Author & Committer identity to the top of your CI/CD workflow using
 enironment variable for easier maintenance but variablize the code.
 
 ### Fix Author / Email in Git Pull Request or History
