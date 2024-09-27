@@ -38,6 +38,12 @@ on:
       - .github/scripts/country_count.sh
       - .github/workflows/country_count.yaml
   workflow_dispatch:
+    inputs:
+      debug:
+        # XXX: this still only works as a string comparison ${{ gitihub.events.inputs.debug == 'true' }}
+        type: boolean
+        required: false
+        default: false
 
 permissions:
   contents: write
@@ -49,6 +55,9 @@ concurrency:
 defaults:
   run:
     shell: bash -euxo pipefail {0}
+
+env:
+  DEBUG: ${{ inputs.debug == true || github.event.inputs.debug == true || '' }}
 
 jobs:
   country_count:
