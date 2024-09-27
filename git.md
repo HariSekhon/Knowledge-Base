@@ -349,6 +349,17 @@ Requires all four of these environment variables otherwise complains `Author ide
 
 `GIT_COMMITTER_NAME` and `GIT_COMMITTER_EMAIL` - the identity of the person who committed the changes
 
+Since setting these two for Author vs Committer is a hassle, it's probably easier to set the only two `GIT_AUTHOR_*`
+environment variables and then put this in your CI/CD to unify them using config:
+
+```shell
+git config user.name "$GIT_AUTHOR_NAME"
+git config user.email "$GIT_AUTHOR_EMAIL"
+```
+
+This allows you to abstract our the Git Author/Committer identity to the top of your CI/CD workflow for easier
+management but variablize the code.
+
 ### Fix Author / Email in Git Pull Request or History
 
 If you've accidentally committed using your personal email at work or worse, your work email in your public github
