@@ -41,6 +41,8 @@ NOT PORTED YET
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
 ## Install AWS CLI
 
 Follow the [install doc](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
