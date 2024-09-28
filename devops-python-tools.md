@@ -9,6 +9,8 @@
 
 <!-- INDEX_END -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Python-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Python-tools)
+
 ## Clone
 
 ```shell
