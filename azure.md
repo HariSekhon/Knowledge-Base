@@ -16,6 +16,8 @@ NOT PORTED YET
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
 ## Install Azure CLI
 
 Follow the [install doc](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli) or paste this to run an automated install script
