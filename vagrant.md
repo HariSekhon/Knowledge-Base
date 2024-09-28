@@ -35,6 +35,10 @@ software. Used this at [Cloudera](https://cloudera.com) a lot.
 wget -nc https://raw.githubusercontent.com/HariSekhon/Templates/master/Vagrantfile
 ```
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Vagrant-templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Vagrant-templates)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
+
 ## Official Boxes
 
 <https://app.vagrantup.com/boxes/search>
