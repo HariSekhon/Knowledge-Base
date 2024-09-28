@@ -43,6 +43,8 @@ cd bash-tools
 install/install_gitlab_cli.sh
 ```
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
 ## GitLab CLI and API auth
 
 For the `glab` CLI above and the `gitlab_api.sh` script in the
