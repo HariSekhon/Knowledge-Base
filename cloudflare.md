@@ -31,11 +31,15 @@
 
 `cloudflare/cloudflare_*.sh`
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
 ## Kubernetes Cert Manager + Cloudflare Integration
 
 Integrates to generate the TXT validation records for [LetsEncrypt](https://letsencrypt.org/) to generate automatic free SSL certificates for Kubernetes ingresses.
 
 [HariSekhon/Kubernetes-configs cert-manager](https://github.com/HariSekhon/Kubernetes-configs/blob/master/cert-manager/base/cert-manager-clusterissuer.yaml)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
 
 ## Kubernetes External DNS + Cloudflare Integration
 
