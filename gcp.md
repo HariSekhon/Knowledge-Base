@@ -25,6 +25,8 @@
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
 ## GCE - Google Compute Engine
 
 ### VM Instance Sizes
@@ -128,6 +130,8 @@ kubectl get pods --all-namespaces
 ```
 
 Then see [Kubernetes](kubernetes.md) for configs, scripts and `.envrc`.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
 
 ## See all the details you can query for a VM
 
