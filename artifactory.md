@@ -21,6 +21,8 @@ Scan Artifactory repo mirrors:
 
 [HariSekhon/Kubernetes - artifactory](https://github.com/HariSekhon/Kubernetes-configs/tree/master/artifactory)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
+
 ## JFrog CLI
 
 <https://jfrog.com/getcli/>
