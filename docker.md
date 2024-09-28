@@ -50,6 +50,8 @@ Lightweight application containers containing app + all dependencies.
 - Docker EE:
   - UCP - Universal Control Plane - UI cluster manager
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Dockerfiles&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Dockerfiles)
+
 <!-- -->
 
 - Isolation & Security:
@@ -391,6 +393,8 @@ grep -v latest |
 wc -l
 ```
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Python-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Python-tools)
+
 ## DevOps-Bash-tools
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#docker)
@@ -410,6 +414,8 @@ Some highlights:
 `dockerhub_api.sh`
 
 `quay_api.sh`
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 ## Captain
 
