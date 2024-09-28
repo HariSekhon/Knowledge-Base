@@ -315,6 +315,20 @@ A standard git push will then push to all URLs for upstream hosted repos:
 git push
 ```
 
+This even works with push deletes so watch out (although you'd have time while it iterates through to `Control`-`C` it:
+
+```shell
+$ git push origin gantt --delete
+To https://github.com/HariSekhon/HariSekhon.git
+ - [deleted]         gantt
+To https://gitlab.com/HariSekhon/harisekhon.git/
+ - [deleted]         gantt
+To https://bitbucket.org/HariSekhon/harisekhon
+ - [deleted]         gantt
+To https://dev.azure.com/HariSekhon/GitHub/_git/harisekhon
+ - [deleted]         gantt
+```
+
 Pull from all remotes:
 
 ```shell
