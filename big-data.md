@@ -4,6 +4,7 @@
 
 - [Hadoop](#hadoop)
 - [Spark](#spark)
+- [Kafka](#kafka)
 - [Apache Flink](#apache-flink)
 - [Apache Beam](#apache-beam)
 - [Druid DB](#druid-db)
@@ -19,6 +20,10 @@ See [Hadoop](hadoop.md) doc.
 ## Spark
 
 See [Spark](spark.md) doc.
+
+## Kafka
+
+See [Kafka](kafka.md) doc.
 
 ## Apache Flink
 
