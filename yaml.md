@@ -73,6 +73,10 @@ validate_yaml.py .
 
 I run these automatically in all [my GitHub repos](https://github.com/HariSekhon) via [CI/CD](ci-cd.md).
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Python-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Python-tools)
+
 ## Advanced YAML
 
 ### Anchors and References
