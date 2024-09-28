@@ -59,6 +59,8 @@ Copy to `.circleci/config.yml` in the root of a Git repo and edit:
 
 [HariSekhon/Templates - circleci-config.yml](https://github.com/HariSekhon/Templates/blob/master/circleci-config.yml)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
+
 ## Configs in Public Repos
 
 Most of my public GitHub repos have a `.circleci/config.yml` file, eg:
@@ -70,6 +72,8 @@ Most of my public GitHub repos have a `.circleci/config.yml` file, eg:
 <https://circleci.com/docs/runner-overview/>
 
 [HariSekhon/Kubernetes-configs - circleci](https://github.com/HariSekhon/Kubernetes-configs/tree/master/circleci)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
 
 ## CLI Usage
 
