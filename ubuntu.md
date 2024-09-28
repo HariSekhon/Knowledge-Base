@@ -121,4 +121,8 @@ For building Ubuntu VMs with this config, here are relevant real configs:
 
 [HariSekhon/Packer-templates - ubuntu-x86_64.vbox.pkr.hcl](https://github.com/HariSekhon/Packer-templates/blob/master/ubuntu-x86_64.vbox.pkr.hcl)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Packer&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
+
 **Ported from private Knowledge Base page 2010+ - should have been from mid 2000s but young guys don't document enough**
