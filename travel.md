@@ -656,7 +656,7 @@ but actually the Moroccan tax rates are still far too high (of course they are, 
   worked here without having to change anything
 - Airport Taxis are the worst - do not use them - they overcharged me 3x
   - they quote every idiot coming out of the airport 150 MAD which I only realized was a rip off when I asked a local
-    and was recommended to use the InDrive app to go back to the airport - it quoted me only 56 MAD for an instant
+    and was recommended to use the InDrive app to go back to the airport - it quoted me only 54 MAD for an instant
     guarantee of any driver in the area without me bidding a price which could be lower
   - The Airport Taxis are thieves, and they also even insist on cash
 
