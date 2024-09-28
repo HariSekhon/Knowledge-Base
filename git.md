@@ -71,6 +71,8 @@ cd bash-tools
 make link
 ```
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
 ## GitHub SSH Key SSO Authorization
 
 See [GitHub page - SSH Key SSO Authorization](github.md#github-ssh-key-sso-authorization)
