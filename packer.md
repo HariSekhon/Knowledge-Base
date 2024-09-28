@@ -10,6 +10,10 @@ This usually involves running automated installers that are native to each Linux
 - Redhat [Kickstart](redhat.md#kickstart---automated-installations)
 - Ubuntu [Autoinstall](ubuntu.md#autoinstall---automated-installations)
 
+Packer can be used to create AMI + Vagrant box at same time.
+
+## Configs
+
 See [HariSekhon/Packer](https://github.com/HariSekhon/Packer) repo.
 
-Packer can be used to create AMI + Vagrant box at same time.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Packer&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer)
