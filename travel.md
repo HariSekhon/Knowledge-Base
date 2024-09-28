@@ -65,6 +65,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Lithuania](#lithuania)
     - [Vilinus](#vilinus)
   - [Morocco](#morocco)
+    - [Morocco Taxis](#morocco-taxis)
     - [Tangiers](#tangiers)
   - [Norway](#norway)
     - [Oslo](#oslo)
@@ -646,6 +647,18 @@ This is probably what western feminists would be doing if they weren't
 via the high tax and inflationary money printing feminist-socialist welfare state.
 I prefer the Moroccan system here as this situation implies more consent for men (you can safely ignore them),
 but actually the Moroccan tax rates are still far too high (of course they are, they have universal suffrage).
+
+#### Morocco Taxis
+
+- [InDrive](https://indrive.com/en-ma) - cheaper and good taxi app, you can pre-agree the fee up front
+  (still have to pay cash not in app)
+- [Careem](https://www.careem.com/) - the same super popular Careem app that I still had installed from [Dubai](#dubai)
+  worked here without having to change anything
+- Airport Taxis are the worst - do not use them - they overcharged me 3x
+  - they quote every idiot coming out of the airport 150 MAD which I only realized was a rip off when I asked a local
+    and was recommended to use the InDrive app to go back to the airport - it quoted me only 56 MAD for an instant
+    guarantee of any driver in the area without me bidding a price which could be lower
+  - The Airport Taxis are thieves, and they also even insist on cash
 
 #### Tangiers
 
