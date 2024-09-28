@@ -312,7 +312,15 @@ origin  git@ssh.dev.azure.com:v3/harisekhon/GitHub/DevOps-Bash-tools (push)
 A standard git push will then push to all URLs for upstream hosted repos:
 
 ```shell
-git push
+$ git push
+To https://github.com/HariSekhon/DevOps-Bash-tools
+   b51469d1..67f690a4  master -> master
+To https://bitbucket.org/HariSekhon/DevOps-Bash-tools
+   b51469d1..67f690a4  master -> master
+To https://dev.azure.com/harisekhon/GitHub/_git/DevOps-Bash-tools
+   b51469d1..67f690a4  master -> master
+To https://gitlab.com/HariSekhon/DevOps-Bash-tools
+   b51469d1..67f690a4  master -> master
 ```
 
 This even works with push deletes so watch out (although you'd have time while it iterates through to `Ctrl`-`C` it:
