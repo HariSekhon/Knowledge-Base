@@ -315,7 +315,7 @@ A standard git push will then push to all URLs for upstream hosted repos:
 git push
 ```
 
-This even works with push deletes so watch out (although you'd have time while it iterates through to `Control`-`C` it:
+This even works with push deletes so watch out (although you'd have time while it iterates through to `Ctrl`-`C` it:
 
 ```shell
 $ git push origin gantt --delete
