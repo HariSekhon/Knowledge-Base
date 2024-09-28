@@ -22,6 +22,8 @@ ACME - Automated Certificate Management Environment.
 
 [HariSekhon/Kubernetes-configs - cert-manager](https://github.com/HariSekhon/Kubernetes-configs/tree/master/cert-manager)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
+
 ## DNS Integration Secret
 
 If using DNS integration you'll need a secret or a service account for Cert Manager to create the ACME challenge DNS
