@@ -118,7 +118,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 
 ## Booking Sites
 
-[Skyscanner](https://www.skyscanner.net/) - had cheaper flights that weren't even found on Expedia,
+[SkyScanner.net](https://www.skyscanner.net/) - had cheaper flights that weren't even found on Expedia,
 and cheaper on the same flights too
 
 [Kayak.com](https://www.kayak.com/) - even cheaper than SkyScanner and had cheaper flights not found on Expedia
