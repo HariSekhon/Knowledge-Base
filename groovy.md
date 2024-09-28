@@ -33,4 +33,8 @@ See here for substantial Groovy code that I used in production for years:
 
 [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
 **Partial port from private Knowledge Base page 2016+**
