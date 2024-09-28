@@ -118,9 +118,9 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 
 ## Booking Sites
 
-[Kayak.com](https://www.kayak.com/) - even cheaper than SkyScanner and had cheaper flights not found on Expedia
-
 [Skyscanner](https://www.skyscanner.net/) - had cheaper flights that weren't even found on Expedia
+
+[Kayak.com](https://www.kayak.com/) - even cheaper than SkyScanner and had cheaper flights not found on Expedia
 
 [Expedia](https://expedia.co.uk) - was my usual go to as it usually had the most options at the last minute, until SkyScanner and Kayak
 showed it up
@@ -142,6 +142,9 @@ Same goes for ferries if driving.
 
 Favourite Airline: Air Arabia because they didn't tell me to put my laptop away during takeoff. One less pointless rule
 enforced.
+
+Beware there is no `CHANGE AIRPORT` stopover as you'd have to go through security all over again and could miss your
+connecting flight.
 
 ## Hotels vs Airbnb
 
