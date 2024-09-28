@@ -58,7 +58,6 @@ defaults:
 
 env:
   GIT_AUTHOR_NAME: Hari Sekhon
-  GIT_AUTHOR_EMAIL: ${{ env.GIT_AUTHOR_EMAIL }}
   # inherited from repo environment variable to avoid GitHub redacting the git log
   # so I can see commit results correct before enabling committing
   #GIT_AUTHOR_EMAIL: ${{ secrets.git_author_email }}
