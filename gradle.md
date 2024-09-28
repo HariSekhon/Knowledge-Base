@@ -216,4 +216,6 @@ Show tree graph of dependencies for different stages, test:
 gradle dependencies
 ```
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
+
 **Ported from private Knowledge Base page 2016+**
