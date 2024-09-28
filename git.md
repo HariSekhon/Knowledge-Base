@@ -327,13 +327,13 @@ This even works with push deletes so watch out (although you'd have time while i
 
 ```shell
 $ git push origin gantt --delete
-To https://github.com/HariSekhon/HariSekhon.git
+To https://github.com/HariSekhon/DevOps-Bash-tools
  - [deleted]         gantt
-To https://gitlab.com/HariSekhon/harisekhon.git/
+To https://bitbucket.org/HariSekhon/DevOps-Bash-tools
  - [deleted]         gantt
-To https://bitbucket.org/HariSekhon/harisekhon
+To https://dev.azure.com/harisekhon/GitHub/_git/DevOps-Bash-tools
  - [deleted]         gantt
-To https://dev.azure.com/HariSekhon/GitHub/_git/harisekhon
+To https://gitlab.com/HariSekhon/DevOps-Bash-tools
  - [deleted]         gantt
 ```
 
