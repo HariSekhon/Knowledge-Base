@@ -105,6 +105,10 @@ See also: Pivot - an exploratory analytics UI for Druid
 - use Spark to process and upload results to Druid
 - doesn't support full joins (only large to small table joins)
 
+## ZooKeeper
+
+See [ZooKeeper](zookeeper.md) doc.
+
 ## Diagram
 
 ### Lambda vs Kappa Architecture
