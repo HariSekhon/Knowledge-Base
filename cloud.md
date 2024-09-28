@@ -4,6 +4,7 @@
 
 - [Major Public Cloud Providers](#major-public-cloud-providers)
 - [AWS vs GCP](#aws-vs-gcp)
+- [Meme](#meme)
 
 <!-- INDEX_END -->
 
@@ -78,3 +79,9 @@ A common staying:
 - GCE snapshots are global not region + copy
 - GCE better inter-region speeds (300 vs 40MB/s)
 - Google has better global dark fiber network
+
+## Meme
+
+When you're a senior engineer from before the era of Cloud and see your Cloud Billing costs:
+
+![Grandpa Simpson Yells At Cloud](images/simpson_grandpa_yells_at_cloud.jpeg)
