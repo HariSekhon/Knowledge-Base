@@ -2,6 +2,8 @@
 
 <!-- INDEX_START -->
 
+- [Hadoop](#hadoop)
+- [Spark](#spark)
 - [Apache Flink](#apache-flink)
 - [Apache Beam](#apache-beam)
 - [Druid DB](#druid-db)
@@ -9,6 +11,14 @@
   - [Lambda vs Kappa Architecture](#lambda-vs-kappa-architecture)
 
 <!-- INDEX_END -->
+
+## Hadoop
+
+See [Hadoop](hadoop.md) doc.
+
+## Spark
+
+See [Spark](spark.md) doc.
 
 ## Apache Flink
 
