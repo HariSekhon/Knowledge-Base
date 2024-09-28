@@ -66,9 +66,11 @@ To allow `mlockall: true` to work in elasticsearch config:
 
 ## Monitoring
 
-Marvel
+- Marvel
 
-[HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
+- [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
 
 ## Performance Tuning Tips
 
