@@ -5,6 +5,8 @@
 - [Apache Flink](#apache-flink)
 - [Apache Beam](#apache-beam)
 - [Druid DB](#druid-db)
+- [Diagram](#diagram)
+  - [Lambda vs Kappa Architecture](#lambda-vs-kappa-architecture)
 
 <!-- INDEX_END -->
 
@@ -62,5 +64,11 @@ See also: Pivot - an exploratory analytics UI for Druid
 - does not support full-text search like Elasticsearch
 - use Spark to process and upload results to Druid
 - doesn't support full joins (only large to small table joins)
+
+## Diagram
+
+### Lambda vs Kappa Architecture
+
+![Lambda vs Kappa Architecture](images/big_data_architecture_lambda_vs_kappa.gif)
 
 **Ported from various private Knowledge Base pages 2010+**
