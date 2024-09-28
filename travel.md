@@ -118,7 +118,12 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 
 ## Booking Sites
 
-[Expedia](https://expedia.co.uk) - my go to as it usually has the most options at the last minute
+[Kayak.com](https://www.kayak.com/) - even cheaper than SkyScanner and had cheaper flights not found on Expedia
+
+[Skyscanner](https://www.skyscanner.net/) - had cheaper flights that weren't even found on Expedia
+
+[Expedia](https://expedia.co.uk) - was my usual go to as it usually had the most options at the last minute, until SkyScanner and Kayak
+showed it up
 
 [AirBnb](https://www.airbnb.com) - compare the cost of apartments to hotels in each area, it alternates which is
 cheaper.
