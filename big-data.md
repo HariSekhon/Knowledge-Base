@@ -13,6 +13,7 @@
 - [Apache Flink](#apache-flink)
 - [Apache Beam](#apache-beam)
 - [Druid DB](#druid-db)
+- [ZooKeeper](#zookeeper)
 - [Diagram](#diagram)
   - [Lambda vs Kappa Architecture](#lambda-vs-kappa-architecture)
 
