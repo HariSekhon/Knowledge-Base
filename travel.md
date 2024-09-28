@@ -635,8 +635,8 @@ There are also old women almost shouting at you as you pass by in native languag
 This is probably what western feminists would be doing if they weren't
 [stealing so much of your income](https://avoiceformen.com/featured/research-finds-that-as-a-group-only-men-pay-tax/)
 via the high tax and inflationary money printing feminist-socialist welfare state.
-I prefer the Moroccan system on this point as it has more consent for men.
-You can safely ignore them.
+I prefer the Moroccan system here as this situation implies more consent for men (you can safely ignore them),
+but actually the Moroccan tax rates are still far too high (of course they are, they have universal suffrage).
 
 #### Tangiers
 
