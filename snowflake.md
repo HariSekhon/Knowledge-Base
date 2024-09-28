@@ -4,6 +4,8 @@
 
 See Also: [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=SQL-scripts&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/SQL-scripts)
+
 <!-- INDEX_START -->
 
 - [SnowPipe](#snowpipe)
