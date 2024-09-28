@@ -36,11 +36,15 @@ Mainly D2 and Python diagrams, with some MermaidJS and a little Draw.io / LucidC
 [GitHub Actions](github-actions.md) CI/CD pipelines auto-regenerate the diagrams upon any code changes and they appear
 directly in the rendered README.md as the resultant `.png` images are sourced in the markdown code.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Diagrams-as-Code&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Diagrams-as-Code)
+
 ## Templates
 
 [Templates](https://github.com/HariSekhon/Templates) for D2 language and Python diagrams are found here, especially
 [diagram.d2](https://github.com/HariSekhon/Templates/blob/master/diagram.d2) and
 [diagram.py](https://github.com/HariSekhon/Templates/blob/master/diagram.py).
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
 
 ## Diagrams-as-Code Languages
 
