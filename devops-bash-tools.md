@@ -12,6 +12,8 @@
 
 <!-- INDEX_END -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
 ## Clone
 
 ```shell
