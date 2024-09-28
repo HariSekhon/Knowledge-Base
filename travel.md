@@ -633,7 +633,8 @@ Below are some I have visited personally and the better ones I'd recommend.
 
 There are also old women almost shouting at you as you pass by in native language (presumably aggressive begging).
 This is probably what western feminists would be doing if they weren't
-[stealing so much of your income via the high tax feminist-socialist welfare state](https://avoiceformen.com/featured/research-finds-that-as-a-group-only-men-pay-tax/).
+[stealing so much of your income](https://avoiceformen.com/featured/research-finds-that-as-a-group-only-men-pay-tax/)
+via the high tax and inflationary money printing feminist-socialist welfare state.
 I prefer the Moroccan system on this point as it has more consent for men.
 You can safely ignore them.
 
