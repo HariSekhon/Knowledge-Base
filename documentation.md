@@ -65,7 +65,7 @@ If you've ever had this _"Why Bother?"_ approach to documentation, allow me to g
     [markdown_replace_index.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/git/markdown_replace_index.sh)
     scripts from the [DevOps-Bash-tools](devops-bash-tools.md) repo.
 - Consistent uniform style and formatting
-- if referencing a GitHub line number in code or HTML anchor, use
+- if referencing a GitHub code line number or HTML anchor, use
   [permalinks](github.md#use-permalink-url-references-for-documentation-or-support-issues)
   with the commit hash to avoid branch changes resulting in pointing to the wrong line or anchor reference in future
 
