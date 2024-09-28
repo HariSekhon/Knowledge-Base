@@ -130,7 +130,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [DevOps-Python-tools](devops-python-tools.md) - 80+ Python programs for DevOps & Data
 - [DevOps-Perl-tools](devops-perl-tools.md) - 25+ Perl programs for DevOps
 - [DevOps-Golang-tools](devops-golang-tools.md) - a handful of Golang programs
-- [Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - production ready checklist and deployment configs for many Kubernetes applications
+- [Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) - ready-made configs for many apps on Kubernetes and advanced templates with best practices
 - [SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ database scripts
 - [Templates](https://github.com/HariSekhon/Templates) - templates for many common file formats for programming languages, build systems and DevOps configs
 - [Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code.md) - Cloud & Open Source architecture diagrams
