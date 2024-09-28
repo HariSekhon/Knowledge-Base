@@ -82,12 +82,16 @@ See [DockerHub](https://hub.docker.com/u/harisekhon) for a selection of docker i
 various Presto builds and other technologies can be found in the
 [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) GitHub repo.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Dockerfiles&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Dockerfiles)
+
 ## High Availability
 
 ### Coordinator has no in-built HA / fault tolerance
 
 Run 2 coordinators and [Load Balance](load-balancing.md) with stickyness in front of multiple coordinator nodes
 eg. using [HAProxy](haproxy.md)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=HAProxy-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/HAProxy-configs)
 
 #### In-flight queries will fail in event of Load Balancing failover
 
