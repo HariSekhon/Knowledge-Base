@@ -41,6 +41,8 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 - can't export environment variables to GitHub Actions / Reusable Workflows
 - Secrets must be passed explicitly via `${ secrets.<name> }`
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
+
 ## GitHub Actions vs Jenkins
 
 - GitHub Actions is fully-hosted so immediately available and bypasses most operational & governance issues where
@@ -68,6 +70,8 @@ minute as GitHub Actions, with a whole new clean Rest API and CLI. Self-hosted r
 too, both to access internal tooling services as part of CI/CD pipelines as well as to control costs. Some of the other
 vendors who have tried to limit self-hosted runners to more expensive plans have essentially shot themselves in the foot
 because they've made themselves economically non-competitive.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
 
 ## Diagrams
 
