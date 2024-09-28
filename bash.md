@@ -81,6 +81,8 @@ screenrc`, `.tmux.conf` etc.
 
 <https://github.com/HariSekhon/DevOps-Bash-tools>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
 This is more than the manuals above, you could study this repo for years, or just run its scripts today to save you
 the time.
 
