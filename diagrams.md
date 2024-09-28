@@ -65,7 +65,7 @@ next section.
   - this is the technology under the hood of Python diagrams above which makes it easier to use for Pythonistas
 - [MermaidJS](https://mermaid.js.org/) - best for embedded live diagrams in GitHub READMEs
   - Flow Chart, Git Commit Log Charts, Gantt diagrams etc.
-  - not primarily icon oriented such as for Cloud Architecture diagrams (D2 and Python diagrams are better for that)
+  - recently added Cloud Architecture diagrams support (D2 and Python diagrams are most established for this)
   - can do icons though, see [example](https://text-to-diagram.com/?example=icons&b=mermaid) by D2 comparison site
   - see [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code)
     repo for live embedded MermaidJS diagrams
