@@ -248,6 +248,8 @@ Uses a C module which needs to be installed so this is pointless:
 
 [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
+
 ## Multi-DC Availability
 
 - 3 DC - 2 locally close well connected regions + 1 remote region
