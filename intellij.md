@@ -150,6 +150,8 @@ install_intellij_plugins.sh
 
 You can add / comment / uncomment which plugins to install in the adjacent `setup/intellij-plugins.txt` config file in that same repo.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
 ### Manual Plugin Installation
 
 Can download plugin zips + install from disk where direct internet/proxy access is blocked (eg. banks).
