@@ -8,6 +8,7 @@ NOT PORTED YET
 - [CodeOwners](#codeowners)
   - [CodeOwners Gotcha - Secret Teams](#codeowners-gotcha---secret-teams)
 - [GitHub Profile Page](#github-profile-page)
+- [Use Permalink URL References for Documentation or Support Issues](#use-permalink-url-references-for-documentation-or-support-issues)
 
 <!-- INDEX_END -->
 
@@ -60,3 +61,13 @@ which comes from this repo:
 <https://github.com/HariSekhon/HariSekhon>
 
 GitLab uses this too but it puts a `Read more` link instead of displaying the whole page like GitHub.
+
+## Use Permalink URL References for Documentation or Support Issues
+
+When referencing GitHub lines or HTML anchors in [Documentation](documentation.md) or support issues,
+use a permalink URL instead of the default branch link, which can change and misdirect your line number or anchor
+references.
+
+A permalink uses the commit hashref so that it always goes to that fixed line or anchor in history.
+
+Press `y` on a page while browsing `GitHub.com` to change the current branch URL to a permalink hashref commit URL.
