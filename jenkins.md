@@ -103,6 +103,8 @@ Scripts for common Jenkins operations using the Jenkins CLI and API:
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools/tree/master/jenkins)
 `jenkins/` directory.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
 ## Jenkins Plugins
 
 <https://plugins.jenkins.io/>
@@ -173,6 +175,8 @@ Some `*.groovy` scripts are mixed in between the shell scripts
 ## Jenkins Shared Libraries (Groovy)
 
 [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) repo.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
 
 Functions should either follow java reverse fqdn naming convention or more simple flat `vars/funcName.groovy`.
 Filename must be camelCase or lowercase to work.
@@ -289,6 +293,8 @@ jenkins/jenkins.sh
 ## Jenkins on Kubernetes
 
 See [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
 
 ## Google Auth SSO
 
