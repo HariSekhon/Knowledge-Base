@@ -277,6 +277,10 @@ http GET localhost:8001/routes
 http GET localhost:8000/mockbin
 ```
 
+## Kong on Kubernetes
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
+
 ## Diagram - Kong Kubernetes Ingress
 
 [HariSekhon/Kubernetes - kong/](https://github.com/HariSekhon/Kubernetes-configs/tree/master/kong)
