@@ -4,7 +4,6 @@
 
 - [SQL Scripts](#sql-scripts)
 - [SQL Clients](#sql-clients)
-- [TODO](#todo)
 - [ACID](#acid)
 - [SQL Query Logical Order](#sql-query-logical-order)
 - [Meme](#meme)
@@ -37,7 +36,7 @@ Preference is given to free tools.
 - [phpMyAdmin](https://www.phpmyadmin.net/) - MySQL web UI
 - [SQL Chat](https://github.com/sqlchat/sqlchat) - chat-based interface to querying DBs
 
-## TODO
+**TODO**
 
 - [SQLMesh](https://sqlmesh.com/)
 
