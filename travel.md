@@ -100,6 +100,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
       - [Rosebank](#rosebank)
   - [Sweden](#sweden)
     - [Stockholm](#stockholm)
+  - [Turkey](#turkey)
+    - [Istanbul](#istanbul)
   - [UAE](#uae)
     - [Dubai](#dubai)
     - [Dubai Taxis](#dubai-taxis)
@@ -1025,6 +1027,20 @@ The Memory Hotel in Kista was cheap for a reason - it was absolutely dead in Aug
 no staff most of the time or seeing other guests.
 
 [Restaurang Kryp In](https://restaurangkrypin.se/) is good in the centre.
+
+### Turkey
+
+#### Istanbul
+
+I am shocked how expensive Istanbul is, triply so arriving from Morocco.
+
+One taxi driver quoted me "20 Euros" (not even their local currency) to go 1 mile down the road!
+
+I asked 2 taxi drivers
+to take me from Gayrettepe to Sultanahmet and they flat out refused in Turkish without speaking English.
+
+I tried the [BiTaxi](https://www.bitaksi.com/en) app and it failed to find drivers for me several times,
+even with tips pre-added.
 
 ### UAE
 
