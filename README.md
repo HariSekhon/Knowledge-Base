@@ -94,8 +94,8 @@ References to official docs and some classic books are provided for those who wa
   - [Performance Engineering](#performance-engineering)
 - [AI & Automation](#ai--automation)
 - [Work](#work)
-  - [Interview Materials](#interview-materials)
-  - [Banking](#banking)
+  - [Training & Interview Materials](#training--interview-materials)
+  - [Banking Industry](#banking-industry)
   - [Travel](#travel)
 - [Miscellaneous](#miscellaneous)
   - [Dev / DevOps / Open Source](#dev--devops--open-source)
@@ -589,11 +589,12 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 ## Work
 
-### Interview Materials
+### Training & Interview Materials
 
+- [Training](training.md)
 - [Interview Materials](interview.md)
 
-### Banking
+### Banking Industry
 
 - [Banking Industry](banking-industry.md)
 
