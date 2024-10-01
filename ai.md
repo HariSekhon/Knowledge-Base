@@ -11,8 +11,10 @@ General AI mirroring what humans have is not real yet.
   - [ChatGPT](#chatgpt)
   - [SQL Chat](#sql-chat)
   - [LLM](#llm)
+    - [Ollama](#ollama)
 - [Text to Speech](#text-to-speech)
 - [Grammar](#grammar)
+- [Video](#video)
 - [UI](#ui)
 - [Coding](#coding)
 
@@ -34,6 +36,8 @@ General AI mirroring what humans have is not real yet.
 
 ### LLM
 
+#### Ollama
+
 <https://www.ollama.com>
 
 <https://github.com/ollama/ollama>
@@ -51,24 +55,23 @@ Why does the performance degrade after one query?
 
 ## Text to Speech
 
-<https://elevenlabs.io>
+- [ElevenLabs](https://elevenlabs.io)
 
 ## Grammar
 
-<https://app.grammarly.com>
+- [Grammarly](https://app.grammarly.com>)
+- [HemingwayApp](https://hemingwayapp.com)
 
-<https://hemingwayapp.com>
+## Video
+
+- [InVideo AI](https://invideo.io/)
 
 ## UI
 
-<https://uizard.io>
-
-<https://app.uizard.io>
+- [Uizard](https://uizard.io) - <https://app.uizard.io>
 
 ## Coding
 
-<https://github.com/features/copilot> - GitHub CoPilot
-
-<https://www.tabnine.com> - support for all major IDEs including my favourite [IntelliJ](intellij.md).
-
-<https://www.cursor.com> - separate Editor that requires download, limited completions in free edition
+- [GitHub CoPilot](https://github.com/features/copilot)
+- [TabNine](https://www.tabnine.com) - support for all major IDEs including my favourite [IntelliJ](intellij.md)
+- [Cursor AI](https://www.cursor.com) - separate Editor that requires download, limited completions in free edition
