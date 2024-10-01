@@ -301,7 +301,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 
 - [Perl](perl.md)
 - [Python](python.md)
-  - [Anaconda](anaconda.md) TODO
+  - [Anaconda](anaconda.md)
 - [Golang](golang.md) TODO
 - [Ruby](ruby.md)
 - [R](r.md) TODO
