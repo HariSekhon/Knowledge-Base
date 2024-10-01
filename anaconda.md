@@ -5,6 +5,16 @@
 Python distribution for Scientific / Maths / Data Analysis by Continuum.
 
 <!-- INDEX_START -->
+
+- [Key Points](#key-points)
+  - [Anaconda Enterprise](#anaconda-enterprise)
+- [Install](#install)
+- [Create Environment](#create-environment)
+- [Delete Environment](#delete-environment)
+- [Enter / Leave Environment](#enter--leave-environment)
+- [Python Versions](#python-versions)
+- [Packages](#packages)
+
 <!-- INDEX_END -->
 
 ## Key Points
