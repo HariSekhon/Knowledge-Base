@@ -207,6 +207,7 @@ idea installPlugins \
 - [RegexpTester](https://plugins.jetbrains.com/plugin/2917-regexp-tester)
 - [Database Navigator](https://plugins.jetbrains.com/plugin/1800-database-navigator)
 - [Markdown Navigator Enhanced](https://plugins.jetbrains.com/plugin/7896-markdown-navigator-enhanced/)
+- [Mermaid](https://plugins.jetbrains.com/plugin/20146-mermaid)
 - [Zero Width Characters locator](https://plugins.jetbrains.com/plugin/7448-zero-width-characters-locator) - find characters that could break your code
 - [Env files support](https://plugins.jetbrains.com/plugin/9525--env-files-support)
 - [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
@@ -231,6 +232,7 @@ idea installPlugins \
   org.intellij.RegexpTester \
   DBN \
   com.vladsch.idea.multimarkdown \
+  com.intellij.mermaid \
   com.ultrahob.zerolength.plugin \
   ru.adelf.idea.dotenv \
   "String Manipulation" \
