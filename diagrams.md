@@ -70,7 +70,9 @@ next section.
 - [MermaidJS](https://mermaid.js.org/) - best for embedded live diagrams in GitHub READMEs
   - Flow Chart, Git Commit Log Charts, Gantt diagrams etc.
   - recently added Cloud Architecture diagrams support (D2 and Python diagrams are most established for this)
-  - can do icons though, see [example](https://text-to-diagram.com/?example=icons&b=mermaid) by D2 comparison site
+  - Under active development
+  - Huge number of diagram types and more being added
+  - can do icons now, see [example](https://text-to-diagram.com/?example=icons&b=mermaid) by D2 comparison site
   - see [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code)
     repo for live embedded MermaidJS diagrams
     [GitHub Flow with Jira integration](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#github-flow-with-jira-ticket-integration)
