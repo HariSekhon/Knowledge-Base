@@ -94,6 +94,7 @@ jobs:
 
       - name: Detect Changes to Commit
         id: git-changed
+        continue-on-error: true
         run: |
           set +e
           # the --quiet switch is required to get a non-zero exit code upon any changes
