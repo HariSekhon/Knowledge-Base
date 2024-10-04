@@ -6,6 +6,7 @@
 - [Expect](#expect)
 - [Free Programming Courses](#free-programming-courses)
 - [Testing](#testing)
+- [Big O Notation](#big-o-notation)
 - [Memes](#memes)
   - [Documentation](#documentation)
   - [Are You Really Sure You Want to be a Software Developer??](#are-you-really-sure-you-want-to-be-a-software-developer)
@@ -60,6 +61,10 @@ You are limited only by time and effort.
 ## Testing
 
 See [Testing](testing.md)
+
+## Big O Notation
+
+![Big O Notation](images/big_O_notation.gif)
 
 ## Memes
 
