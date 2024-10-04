@@ -5,7 +5,10 @@
 - [Languages](#languages)
 - [Expect](#expect)
 - [Free Programming Courses](#free-programming-courses)
-- [Test Driven Development](#test-driven-development)
+- [Testing](#testing)
+- [Memes](#memes)
+  - [Documentation](#documentation)
+  - [Are you sure you want to be a software developer??](#are-you-sure-you-want-to-be-a-software-developer)
 
 <!-- INDEX_END -->
 
@@ -57,9 +60,15 @@ You are limited only by time and effort.
 
 See [Testing](testing.md)
 
-## Meme
+## Memes
 
-Are you sure you want to be a software developer??
+### Documentation
+
+The importance of documentation:
+
+![There's No Documentation - The Code is the Documentation](images/theres_no_documentation_code_is_self_explanatory.jpeg)
+
+### Are you sure you want to be a software developer??
 
 ![People Who Sell vs Build Software](images/people_who_sell_software_vs_build_software.jpeg)
 
