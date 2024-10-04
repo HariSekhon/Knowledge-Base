@@ -78,6 +78,7 @@ next section.
     [GitHub Flow with Jira integration](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#github-flow-with-jira-ticket-integration)
     and [Git Environment Branches](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#git---environment-branches)
   - MermaidJS has added `%%` as their comment prefix now
+  - CLI - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
 - [Structurizer](https://structurizr.com/dsl) - yet another DSL, limited to software models
 - [MarkMap](https://github.com/markmap/markmap) - visualize your Markdown as mindmaps, nice, can open your GitHub repo's
   Markdown directly, although it looks like my
