@@ -19,6 +19,7 @@ General AI mirroring what humans have is not real yet.
 - [Coding](#coding)
 - [Meme](#meme)
   - [Say Powered by AI One More Time](#say-powered-by-ai-one-more-time)
+  - [Coding with GPT](#coding-with-gpt)
 
 <!-- INDEX_END -->
 
@@ -83,3 +84,9 @@ Why does the performance degrade after one query?
 ### Say Powered by AI One More Time
 
 ![Say Powered By AI One More](images/say_powered_by_AI_one_more_time.jpeg)
+
+### Coding with GPT
+
+Watch out for that quality and not knowing WTF you're doing!
+
+![Coding with GPT](images/oreilly_book_coding_with_gpt.jpeg)
