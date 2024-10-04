@@ -9,6 +9,9 @@ NOT PORTED YET
   - [CodeOwners Gotcha - Secret Teams](#codeowners-gotcha---secret-teams)
 - [GitHub Profile Page](#github-profile-page)
 - [Use Permalink URL References for Documentation or Support Issues](#use-permalink-url-references-for-documentation-or-support-issues)
+- [Memes](#memes)
+  - [O'Reilly - Choosing Based on GitHub Stars](#oreilly---choosing-based-on-github-stars)
+  - [Baby Yoda Gets GitHub Stars](#baby-yoda-gets-github-stars)
 
 <!-- INDEX_END -->
 
@@ -71,3 +74,13 @@ references.
 A permalink uses the commit hashref so that it always goes to that fixed line or anchor in history.
 
 Press `y` on a page while browsing `GitHub.com` to change the current branch URL to a permalink hashref commit URL.
+
+## Memes
+
+### O'Reilly - Choosing Based on GitHub Stars
+
+![](images/oreilly_book_choosing_by_github_stars_you_only_live_once.webp)
+
+### Baby Yoda Gets GitHub Stars
+
+![Waking up to 2000 More Stars](images/baby_yoda_wake_up_one_morning_2000_stars.jpeg)
