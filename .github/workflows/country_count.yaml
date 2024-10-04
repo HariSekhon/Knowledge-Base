@@ -103,6 +103,7 @@ jobs:
           echo "exit_status=$?" >> "$GITHUB_STATE"
 
       - name: Set Git Config
+        if: ${{ steps.git-diff-index.outputs.exit_status != 0 }}
         run: |
           git config user.name "$GIT_AUTHOR_NAME"
           git config user.email "$GIT_AUTHOR_EMAIL"
@@ -112,7 +113,9 @@ jobs:
         run: git commit -m "updated country count" "$TRAVEL_MD"
 
       - name: Git Log
+        if: ${{ steps.git-diff-index.outputs.exit_status != 0 }}
         run: git log -3
 
       #- name: Git Push
+      #  if: ${{ steps.git-diff-index.outputs.exit_status != 0 }}
       #  run: git push
