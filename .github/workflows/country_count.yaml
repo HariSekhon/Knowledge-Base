@@ -111,7 +111,7 @@ jobs:
 
       - name: Git Commit
         if: ${{ steps.git-changed.outcome == 'success' }}
-        run: git commit -m "updated country count" "$TRAVEL_MD"
+        run: git commit -m "updated country count in $TRAVEL_MD" "$TRAVEL_MD"
 
       - name: Git Log
         if: ${{ steps.git-changed.outcome == 'success' }}
