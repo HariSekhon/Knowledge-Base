@@ -86,10 +86,13 @@ jobs:
       - name: Update Country Count in ${{ env.TRAVEL_MD }}
         run: .github/scripts/country_count.sh
 
+      - name: Git Diff
+        run: git diff
+
       - name: Git Add
         run: git add "$TRAVEL_MD"
 
-      - name: Git Diff
+      - name: Git Diff-Index
         id: git-diff
         run: |
           set +e
