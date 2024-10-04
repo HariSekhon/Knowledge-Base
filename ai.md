@@ -17,6 +17,8 @@ General AI mirroring what humans have is not real yet.
 - [Video](#video)
 - [UI](#ui)
 - [Coding](#coding)
+- [Meme](#meme)
+  - [Say Powered by AI One More Time](#say-powered-by-ai-one-more-time)
 
 <!-- INDEX_END -->
 
@@ -75,3 +77,9 @@ Why does the performance degrade after one query?
 - [GitHub CoPilot](https://github.com/features/copilot)
 - [TabNine](https://www.tabnine.com) - support for all major IDEs including my favourite [IntelliJ](intellij.md)
 - [Cursor AI](https://www.cursor.com) - separate Editor that requires download, limited completions in free edition
+
+## Meme
+
+### Say Powered by AI One More Time
+
+![Say Powered By AI One More](images/say_powered_by_AI_one_more_time.jpeg)
