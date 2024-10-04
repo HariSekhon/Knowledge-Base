@@ -31,7 +31,7 @@ diagrams in `README.md`, as well Badges.
 
 [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) - ready made architecture diagrams
 
-Mainly D2 and Python diagrams, with some MermaidJS and a little Draw.io / LucidChart.
+Mainly D2lang, Python diagrams, MermaidJS, GNUplot and a little Draw.io / LucidChart.
 
 [GitHub Actions](github-actions.md) CI/CD pipelines auto-regenerate the diagrams upon any code changes and they appear
 directly in the rendered README.md as the resultant `.png` images are sourced in the markdown code.
