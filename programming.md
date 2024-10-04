@@ -8,7 +8,8 @@
 - [Testing](#testing)
 - [Memes](#memes)
   - [Documentation](#documentation)
-  - [Are you sure you want to be a software developer??](#are-you-sure-you-want-to-be-a-software-developer)
+  - [Are You Really Sure You Want to be a Software Developer??](#are-you-really-sure-you-want-to-be-a-software-developer)
+  - [Coding with GPT](#coding-with-gpt)
 
 <!-- INDEX_END -->
 
@@ -68,8 +69,14 @@ The importance of documentation:
 
 ![There's No Documentation - The Code is the Documentation](images/theres_no_documentation_code_is_self_explanatory.jpeg)
 
-### Are you sure you want to be a software developer??
+### Are You Really Sure You Want to be a Software Developer??
 
 ![People Who Sell vs Build Software](images/people_who_sell_software_vs_build_software.jpeg)
+
+### Coding with GPT
+
+Watch out for that quality and not knowing WTF you're doing!
+
+![Coding with GPT](images/oreilly_book_coding_with_gpt.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
