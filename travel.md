@@ -1030,9 +1030,23 @@ no staff most of the time or seeing other guests.
 
 ### Turkey
 
+Inflation and rent prices make this not a good value for money destination.
+
+Expensive restaurants and there are only so many times you can eat kebab / mixed grill / dips.
+
 #### Istanbul
 
 I am shocked how expensive Istanbul is, triply so arriving from Morocco.
+
+Restaurants will often cost £30 per head without alcohol for food that would be cheaper in the UK.
+
+£6 for an orange juice when it was £1.50-£2 in Morocco the week earlier...
+£2-4 for a water.
+The locals says it is because of the rent prices and that Antalya is even more expensive.
+
+Meanwhile in the supermarkets a fresh squeezed juice in a bottle is £1.50 or a 500ml water bottle for 10-20p.
+
+Taxis are bad too.
 
 One taxi driver quoted me "20 Euros" (not even their local currency) to go 1 mile down the road!
 
