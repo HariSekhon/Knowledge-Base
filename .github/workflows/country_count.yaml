@@ -117,6 +117,6 @@ jobs:
         if: ${{ steps.git-changed.outcome == 'success' }}
         run: git log -3
 
-      #- name: Git Push
-      #  if: ${{ steps.git-changed.outcome == 'success' }}
-      #  run: git push
+      - name: Git Push
+        if: ${{ steps.git-changed.outcome == 'success' }}
+        run: git push
