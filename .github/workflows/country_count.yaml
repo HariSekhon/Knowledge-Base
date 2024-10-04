@@ -92,8 +92,8 @@ jobs:
       - name: Git Add
         run: git add "$TRAVEL_MD"
 
-      - name: Git Diff-Index
-        id: git-diff-index
+      - name: Detect Changes to Commit
+        id: git-changed
         run: |
           set +e
           # the --quiet switch is required to get a non-zero exit code upon any changes
@@ -103,19 +103,19 @@ jobs:
           echo "exit_status=$?" >> "$GITHUB_STATE"
 
       - name: Set Git Config
-        if: ${{ steps.git-diff-index.outputs.exit_status != 0 }}
+        if: ${{ steps.git-changed.outputs.exit_status != 0 }}
         run: |
           git config user.name "$GIT_AUTHOR_NAME"
           git config user.email "$GIT_AUTHOR_EMAIL"
 
       - name: Git Commit
-        if: ${{ steps.git-diff-index.outputs.exit_status != 0 }}
+        if: ${{ steps.git-changed.outputs.exit_status != 0 }}
         run: git commit -m "updated country count" "$TRAVEL_MD"
 
       - name: Git Log
-        if: ${{ steps.git-diff-index.outputs.exit_status != 0 }}
+        if: ${{ steps.git-changed.outputs.exit_status != 0 }}
         run: git log -3
 
       #- name: Git Push
-      #  if: ${{ steps.git-diff-index.outputs.exit_status != 0 }}
+      #  if: ${{ steps.git-changed.outputs.exit_status != 0 }}
       #  run: git push
