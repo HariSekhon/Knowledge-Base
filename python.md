@@ -28,6 +28,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
   - [Pub/Sub](#pubsub)
   - [Big Data & NoSQL](#big-data--nosql)
   - [Data Formats & Analysis](#data-formats--analysis)
+  - [Data Visualization](#data-visualization)
 - [Jython](#jython)
   - [Install](#install)
   - [Run](#run)
@@ -244,6 +245,18 @@ You can see these used throughout these GitHub repos:
 - `toml`
 - `xmltodict`
 - `yamllint` - CLI [YAML](yaml.md) linting tool
+
+### Data Visualization
+
+- `matplotlib` - General-purpose plotting, highly customizable
+- `seaborn` - built on `matplotlib`, higher level to make it easier to great aesthetic visualizations
+- `plotly` - Interactive graphs, dashboards, 3D plots
+- `bokeh` - Interactive, web-ready visualizations
+- `pandas` - Quick and easy plots directly from dataframes
+- `networkx` - Graph theory, network analysis
+- `altair` - Declarative statistical visualizations
+- `pygal` - Vector (SVG) visualizations, interactive
+- `graph-tool` - Scalable and efficient for large graph analysis
 
 ## Jython
 
