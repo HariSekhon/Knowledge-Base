@@ -13,6 +13,7 @@
   - [IPAM - IP Address Management](#ipam---ip-address-management)
 - [Support Numbers](#support-numbers)
   - [WhatsApp Desktop Links](#whatsapp-desktop-links)
+- [Animated GIF images of running commands](#animated-gif-images-of-running-commands)
 - [Meme](#meme)
 
 <!-- INDEX_END -->
@@ -151,6 +152,12 @@ Also, if you have my real number, please do not call it.
 
 Always message me on [LinkedIn](https://www.linkedin.com/in/HariSekhon) instead after reading my profile's summary
 bullet point criteria - it'll give you nearly everything you need to know about my availability and preferences.
+
+## Animated GIF images of running commands
+
+If you want to get fancy:
+
+<https://github.com/faressoft/terminalizer>
 
 ## Meme
 
