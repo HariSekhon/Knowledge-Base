@@ -213,6 +213,11 @@ else
 fi
 ```
 
+or better use the `imageopen.sh` script from the [DevOps-Bash-tools](devops-bash-tools.md) which tries more different
+tools on Linux to open the image:
+
+[HariSekhon/DevOps-Bash-tools - imageopen.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/imageopen.sh)
+
 ## Hex Colour Codes
 
 See [Visualization](visualization.md) doc's [Colours](visualization.md#colours) section.
