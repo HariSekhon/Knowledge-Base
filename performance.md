@@ -36,6 +36,8 @@ Disable swap / paging file on Windows if you have the RAM to spare - live fast o
 
 If you have limited physical RAM then it can be valid to use swap partition / paging file (same thing Linux vs Windows) is a valid way of conserving your precious fast RAM by not having seldom accessed application data from hogging it and in those cases offloading to disk is the best you can do (the alternative would be crashing the app or OS).
 
+<https://www.linuxatemyram.com/>
+
 ### OOM Killer - Out of Memory Killer
 
 Linux specific algorithm in the linux kernel that activates when out of both physical RAM and swap - it finds the app taking up the most memory and kills it to save the rest of the OS and other applications.
