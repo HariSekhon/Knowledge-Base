@@ -8,6 +8,7 @@ Graphs make life pretty.
 - [Colours](#colours)
   - [Hex Colour Chart Sites](#hex-colour-chart-sites)
   - [Detecting Colours - ColorZilla](#detecting-colours---colorzilla)
+  - [Terminal Colors Programs](#terminal-colors-programs)
 
 <!-- INDEX_END -->
 
@@ -44,3 +45,11 @@ Whereas with the hex colour detection of the exact hex code of `FEDD33` it comes
 yellow:
 
 [![Miro](https://img.shields.io/badge/Miro-dashboard-FEDD33.svg?logo=miro)](https://miro.com/app/dashboard/)
+
+### Terminal Colors Programs
+
+I wrote a couple programs to show basic colours on the terminal background vs foreground:
+
+[HariSekhon/DevOps-Golang-tools - colors.go](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/colors.go)
+
+[HariSekhon/DevOps-Perl-tools - colors.pl](https://github.com/HariSekhon/DevOps-Perl-tools/blob/master/colors.pl)
