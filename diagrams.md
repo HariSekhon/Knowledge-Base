@@ -48,6 +48,8 @@ directly in the rendered README.md as the resultant `.png` images are sourced in
 
 ## Diagrams-as-Code Languages
 
+[Text-to-Diagram Comparison Playground](https://text-to-diagram.com/)
+
 Diagrams-as-Code are both cool, easier to reuse prior work and often easier to maintain.
 
 A quick edit and they reshuffle themselves.
@@ -169,6 +171,7 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 
 ## Interactive Playground Editors
 
+- [Text-to-Diagram Comparison Playground](https://text-to-diagram.com/)
 - [D2 lang](https://play.d2lang.com/)
 - [MermaidJS](https://mermaid.live/)
 - [CloudGram](https://cloudgram.dedalusone.com/index.html)
