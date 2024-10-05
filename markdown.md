@@ -242,6 +242,10 @@ instead of the yellow colour that one usually associates with Miro:
 
 In this case you can detect the colour off the website or logo yourself...
 
+### Colours
+
+See the [Visualization](visualization.md) doc's [Colours](visualization.md#colours) section.
+
 ### Detecting Colours - ColorZilla
 
 You can pick the colour of an image or logo off a web page using [ColorZilla](https://www.colorzilla.com/)
