@@ -7,6 +7,7 @@
 - [Data Integration](#data-integration)
   - [Mulesoft](#mulesoft)
   - [Spring Integration](#spring-integration)
+- [Data Visualization](#data-visualization)
 - [Diagrams](#diagrams)
   - [Top 9 Systems Integrations](#top-9-systems-integrations)
   - [Encoding vs Encryption vs Tokenization](#encoding-vs-encryption-vs-tokenization)
@@ -46,6 +47,10 @@ Then proceed to more advanced content validation.
 ### Spring Integration
 
 TODO
+
+## Data Visualization
+
+See the [Diagrams](diagrams.md) and [Visualization](visualization.md) docs.
 
 ## Diagrams
 
