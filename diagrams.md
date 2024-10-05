@@ -17,6 +17,7 @@ The cutting edge is Diagrams-as-Code.
 - [Important Icon Sets](#important-icon-sets)
 - [Interactive Playground Editors](#interactive-playground-editors)
 - [GraphViz](#graphviz)
+- [Hex Colour Codes](#hex-colour-codes)
 - [Diagram Design](#diagram-design)
   - [Complexity](#complexity)
 - [Diagram of Diagrams-as-Code Tools](#diagram-of-diagrams-as-code-tools)
@@ -211,6 +212,10 @@ else
   sxiv file.png  # Linux
 fi
 ```
+
+## Hex Colour Codes
+
+See [Visualization](visualization.md) doc's [Colours](visualization.md#colours) section.
 
 ## Diagram Design
 
