@@ -11,6 +11,7 @@
   - [Documentation](#documentation)
   - [Are You Really Sure You Want to be a Software Developer??](#are-you-really-sure-you-want-to-be-a-software-developer)
   - [Coding with GPT](#coding-with-gpt)
+  - [Senior Devs Fixing Bugs in Production](#senior-devs-fixing-bugs-in-production)
 
 <!-- INDEX_END -->
 
@@ -83,5 +84,9 @@ The importance of documentation:
 Watch out for that quality and not knowing WTF you're doing!
 
 ![Coding with GPT](images/oreilly_book_coding_with_gpt.jpeg)
+
+### Senior Devs Fixing Bugs in Production
+
+![Senior Devs Fixing Bugs in Production](images/senior_devs_fixing_bugs_in_production.gif)
 
 **Ported from various private Knowledge Base pages 2008+**
