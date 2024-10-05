@@ -81,7 +81,8 @@ next section.
   - CLI - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
 - [Go Diagrams](https://github.com/blushft/go-diagrams) - a port of Python Diagrams
 - [Cloudgram](https://cloudgram.dedalusone.com/index.html) - another DSL language
-- [Structurizer](https://structurizr.com/dsl) - yet another DSL, limited to software models
+- [Structurizer](https://structurizr.com/dsl) - C4 architecture diagrams
+- [PlantUML](https://plantuml.com/) - creates UML diagrams eg. class diagrams, sequence diagrams, use case diagrams
 - [MarkMap](https://github.com/markmap/markmap) - visualize your Markdown as mindmaps, nice, can open your GitHub repo's
   Markdown directly, although it looks like my
   [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
