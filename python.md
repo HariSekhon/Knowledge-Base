@@ -33,6 +33,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
   - [Install](#install)
   - [Run](#run)
   - [Code](#code)
+- [Python Fault Handler](#python-fault-handler)
 - [Troubleshooting](#troubleshooting)
   - [Alpine `ModuleNotFoundError: No module named 'pip._vendor.six.moves'`](#alpine-modulenotfounderror-no-module-named-pip_vendorsixmoves)
 
@@ -301,6 +302,44 @@ jython -J-cp "$CLASSPATH" "file.py"
 
 Some Jython programs, such as those using [Hadoop](hadoop.md) [HDFS](hdfs.md) Java API can be found in the
 [DevOps-Python-tools](devops-python) repo.
+
+## Python Fault Handler
+
+Prints stack trace on crash.
+
+Useful for debugging native-level crashes, C extensions, system calls, OS signals.
+
+Activates handling of signals like:
+
+| Signal     | Description              |
+|------------|--------------------------|
+| `SIGSEGV`  | Segmentation fault       |
+| `SIGFPE`   | Floating-point exception |
+| `SIGBUS`   | Bus error                |
+| `SIGABRT`  | Abort signal             |
+| `SIGILL`   | Illegal instruction      |
+
+Normally, these signals cause Python to crash without much useful information,
+but with the fault handler enabled, it'll output a traceback before the crash to help debug.
+
+Minimal performance overhead, but bigger logs, and possibly dumps sensitive info.
+
+```shell
+export PYTHONFAULTHANDLER=1
+```
+
+or
+
+```shell
+python -X faulthandler "file.py"
+```
+
+or
+
+```python
+import faulthandler
+faulthandler.enable()
+```
 
 ## Troubleshooting
 
