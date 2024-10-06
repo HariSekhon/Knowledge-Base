@@ -17,6 +17,7 @@ General AI mirroring what humans have is not real yet.
 - [Video](#video)
 - [UI](#ui)
 - [Coding](#coding)
+- [List of AI Tools By Categories](#list-of-ai-tools-by-categories)
 - [Meme](#meme)
   - [Say Powered by AI One More Time](#say-powered-by-ai-one-more-time)
   - [Coding with GPT](#coding-with-gpt)
