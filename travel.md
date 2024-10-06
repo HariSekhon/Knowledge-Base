@@ -48,6 +48,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [France](#france)
     - [Dunkirk](#dunkirk)
     - [Paris](#paris)
+  - [Georgia](#georgia)
+    - [Tibilisi](#tibilisi)
   - [Germany](#germany)
     - [Driving in Germany](#driving-in-germany)
     - [Bonn](#bonn)
@@ -60,6 +62,11 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Hanover](#hanover)
     - [Königswinter](#königswinter)
     - [Potsdam](#potsdam)
+  - [Italy](#italy)
+    - [Rome](#rome)
+    - [Venice](#venice)
+  - [Moldova](#moldova)
+    - [Chisnau](#chisnau)
   - [Latvia](#latvia)
     - [Riga](#riga)
   - [Lithuania](#lithuania)
@@ -590,6 +597,21 @@ City just outside the west of Berlin.
 [KOI Sushi, Grill & Soup](https://koi-sushi-grill.eatbu.com/) is highly recommended here. They don't speak English but
 it's worth the translation effort, excellent food and good prices.
 The Thai tom yum soup and the sushi are recommended.
+
+### Italy
+
+#### Rome
+
+Been a long time, there are Gelato ice cream places everywhere.
+
+#### Venice
+
+Steps everywhere, do not go with children and especially not with a buggy. You will spend all day carrying the buggy up
+and down steps, which is hardly a holiday.
+
+Somewhat expensive, don't go for more than a long weekend.
+
+Also, got caught in a storm just before leaving, check the weather forecasts.
 
 ### Moldova
 
