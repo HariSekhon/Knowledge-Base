@@ -626,7 +626,9 @@ The wall said 150-200 Moldovan Leu to the centre but when taxi drivers finally s
 
 After my experience in Turkey and this I have started to dislike how taxi drivers are taking tourists for mugs.
 
-I ended up taking the Number 30 bus to the centre instead which was easy (again cash only).
+I ended up taking the Number 30 bus to the centre instead which was easy (again cash only, thanks to a good samaritan
+because I made the mistake of not withdrawing cash before leaving the airport).
+Some of these less developed countries like Moldova and Morocco demand cash usage (probably to evade taxes).
 
 ### Latvia
 
