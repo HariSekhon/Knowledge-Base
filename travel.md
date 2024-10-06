@@ -1090,13 +1090,17 @@ Restaurants will often cost £30 per head without alcohol for food that would be
 
 The locals says it is because of the rent prices and that Antalya is even more expensive.
 
-It doesn't even matter which restaurant you go to, and Google Maps reviews can't be trusted.
-Almost everywhere seems to have 4.7, 4.8,
-4.9 or 5.0 ratings for places that would b e 4.1 - 4.3 in the rest of the world.
+It hardly even matters which restaurant you go to, it's like they're all roughly price fixing rather than competing.
+
+Google Maps reviews can't be trusted - almost everywhere seems to have 4.7, 4.8, 4.9, or 5.0 ratings for places that
+would be 4.1 - 4.3 in the rest of the world.
+
 You follow to a "recommended" place and find it even more overpriced than the others.
 Either reviews are not factoring in price or there is a lot of fake review inflation in Istanbul.
 
-The airport is, expectedly even worse. £17 for a bolognese that would be £5-8 anywhere else, £20 for a burger etc.
+The airport is, expectedly even worse.
+£17 for a bolognese that would be £5-8 anywhere else, £20 for a burger etc.
+The burgers look lowed grade compared to Gourmet Burger Kitchen back home.
 
 Taxis are bad too.
 
