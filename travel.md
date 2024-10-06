@@ -621,7 +621,7 @@ You'll need to withdraw local currency before you leave the airport.
 
 There were hardly any taxis outside the airport and lots of people waiting around for them.
 
-The wall said 150-200 Moldovan Leu to the centre but when taxis drivers finally showed up they started quoting me
+The wall said 150-200 Moldovan Leu to the centre but when taxi drivers finally showed up they started quoting me
 300-400 and cash only.
 
 After my experience in Turkey and this I have started to dislike how taxi drivers are taking tourists for mugs.
