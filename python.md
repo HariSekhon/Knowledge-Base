@@ -35,7 +35,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
   - [Code](#code)
 - [Troubleshooting](#troubleshooting)
   - [Python Fault Handler](#python-fault-handler)
-    - [To Enable Python Fault Handler](#to-enable-python-fault-handler)
+    - [Enable Python Fault Handler](#enable-python-fault-handler)
   - [Alpine `ModuleNotFoundError: No module named 'pip._vendor.six.moves'`](#alpine-modulenotfounderror-no-module-named-pip_vendorsixmoves)
 
 <!-- INDEX_END -->
@@ -327,7 +327,7 @@ but with the fault handler enabled, it'll output a traceback before the crash to
 
 Minimal performance overhead, but bigger logs, and possibly dumps sensitive info.
 
-#### To Enable Python Fault Handler
+#### Enable Python Fault Handler
 
 ```shell
 export PYTHONFAULTHANDLER=1
