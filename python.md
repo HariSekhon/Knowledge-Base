@@ -33,8 +33,8 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
   - [Install](#install)
   - [Run](#run)
   - [Code](#code)
-- [Python Fault Handler](#python-fault-handler)
 - [Troubleshooting](#troubleshooting)
+  - [Python Fault Handler](#python-fault-handler)
   - [Alpine `ModuleNotFoundError: No module named 'pip._vendor.six.moves'`](#alpine-modulenotfounderror-no-module-named-pip_vendorsixmoves)
 
 <!-- INDEX_END -->
@@ -303,7 +303,9 @@ jython -J-cp "$CLASSPATH" "file.py"
 Some Jython programs, such as those using [Hadoop](hadoop.md) [HDFS](hdfs.md) Java API can be found in the
 [DevOps-Python-tools](devops-python) repo.
 
-## Python Fault Handler
+## Troubleshooting
+
+### Python Fault Handler
 
 Prints stack trace on crash.
 
@@ -340,8 +342,6 @@ or
 import faulthandler
 faulthandler.enable()
 ```
-
-## Troubleshooting
 
 ### Alpine `ModuleNotFoundError: No module named 'pip._vendor.six.moves'`
 
