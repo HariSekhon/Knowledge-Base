@@ -51,7 +51,7 @@ or
 brew install webp
 ```
 
-Convert the image:
+Convert the image using ImageMagick:
 
 ```shell
 magick "$name.webp" "$name.png"
