@@ -393,7 +393,7 @@ get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return 
 
 Some more specific tips for different countries.
 
-Number of Countries: 23
+Number of Countries: 25
 
 ### Austria
 
@@ -514,6 +514,10 @@ I have literally been told off for not speaking French as a visitor. Much less w
 The many Chateaux outside of Paris in the French countryside are nice though
 (I used to go every year with a company for retreats).
 
+### Georgia
+
+#### Tibilisi
+
 ### Germany
 
 #### Driving in Germany
@@ -586,6 +590,11 @@ City just outside the west of Berlin.
 [KOI Sushi, Grill & Soup](https://koi-sushi-grill.eatbu.com/) is highly recommended here. They don't speak English but
 it's worth the translation effort, excellent food and good prices.
 The Thai tom yum soup and the sushi are recommended.
+
+### Moldova
+
+#### Chisnau
+
 
 ### Latvia
 
@@ -1036,15 +1045,24 @@ Expensive restaurants and there are only so many times you can eat kebab / mixed
 
 #### Istanbul
 
+Istanbul is one big tourist trap.
+
 I am shocked how expensive Istanbul is, triply so arriving from Morocco.
 
-Restaurants will often cost £30 per head without alcohol for food that would be cheaper in the UK.
+Restaurants will often cost £30 per head without alcohol for food that would be cheaper even in the UK.
 
 £6 for an orange juice when it was £1.50-£2 in Morocco the week earlier...
-£2-4 for a water.
+£2-4 for a water. Meanwhile in the supermarkets a fresh squeezed juice in a bottle is £1.50 or a 500ml water bottle for 10-20p.
+
 The locals says it is because of the rent prices and that Antalya is even more expensive.
 
-Meanwhile in the supermarkets a fresh squeezed juice in a bottle is £1.50 or a 500ml water bottle for 10-20p.
+It doesn't even matter which restaurant you go to, and Google Maps reviews can't be trusted.
+Almost everywhere seems to have 4.7, 4.8,
+4.9 or 5.0 ratings for places that would b e 4.1 - 4.3 in the rest of the world.
+You follow to a "recommended" place and find it even more overpriced than the others.
+Either reviews are not factoring in price or there is a lot of fake review inflation in Istanbul.
+
+The airport is, expectedly even worse. £17 for a bolognese that would be £5-8 anywhere else, £20 for a burger etc.
 
 Taxis are bad too.
 
@@ -1055,6 +1073,10 @@ to take me from Gayrettepe to Sultanahmet and they flat out refused in Turkish w
 
 I tried the [BiTaxi](https://www.bitaksi.com/en) app and it failed to find drivers for me several times,
 even with tips pre-added.
+I ended up walking the last mile to my accommodation.
+
+I managed to get a taxi to the airport when leaving
+but the taxi driver charged me 1000 on the BiTaxi app and then another 1700 on card in person.
 
 ### UAE
 
