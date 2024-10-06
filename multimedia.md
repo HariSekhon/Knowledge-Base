@@ -39,7 +39,13 @@ imageopen.sh "$filename"
 
 [medium.com](medium.md) doesn't support using newer webp format images on the site so you need to convert them first:
 
-On Mac, install the `dwebp` [homebrew](brew.md) package:
+On Mac, install the `imagemagick` or `dwebp` [homebrew](brew.md) packages:
+
+```shell
+brew install imagemagick
+```
+
+or
 
 ```shell
 brew install webp
@@ -48,11 +54,17 @@ brew install webp
 Convert the image:
 
 ```shell
+magick "$name.webp" "$name.png"
+```
+
+or using `dwebp`:
+
+```shell
 dwebp "$name.webp" -o "$name.png"
 ```
 
 or more simply use this script in [DevOps-Bash-tools](devops-bash-tools.md) repo
-which will install `dwebp` if needed and protect against overwriting:
+which will find / install and use one of the above tools, and protect against overwriting:
 
 ```shell
 webp_to_png.sh "$name.webp"
