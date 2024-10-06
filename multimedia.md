@@ -39,7 +39,7 @@ imageopen.sh "$filename"
 
 [medium.com](medium.md) doesn't support using newer webp format images on the site so you need to convert them first:
 
-On Mac, install the Imagemagick or Dwebp [homebrew](brew.md) packages:
+On Mac, install the Imagemagick or Webp [homebrew](brew.md) packages:
 
 ```shell
 brew install imagemagick
