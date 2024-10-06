@@ -508,4 +508,13 @@ fluent/fluent-bit
 - `td-agent-bit` rpm / deb
 - simpler ini config style
 
+### Fluentbit vs Fluentd
+
+| Fluentd                       | Fluentbit                                                    |
+|-------------------------------|--------------------------------------------------------------|
+| C & Ruby                      | C                                                            |
+| ~ 40MB                        | ~ 450KB                                                      |
+| Ruby gem, requires other gems | Zero dependencies (unless some special plugin requires them) |
+| 650+ plugins                  | 35+ plugins                                                  |
+
 **Ported from private Knowledge Base page 2017**
