@@ -5,7 +5,10 @@ Media file analysis, editing, transcoding and conversions.
 <!-- INDEX_START -->
 
 - [Image](#image)
+  - [Open a file from the command line](#open-a-file-from-the-command-line)
   - [Convert Webp to PNG format](#convert-webp-to-png-format)
+  - [Convert SVG to PNG format](#convert-svg-to-png-format)
+  - [Join Two Images Together](#join-two-images-together)
   - [Inspect Image File Metadata](#inspect-image-file-metadata)
   - [Look for Watermarks](#look-for-watermarks)
   - [Steghide](#steghide)
@@ -23,6 +26,15 @@ Media file analysis, editing, transcoding and conversions.
 
 ## Image
 
+### Open a file from the command line
+
+From [DevOps-Bash-tools](devops-bash-tools.md) repo,
+determines whatever tool is available on either Linux or Mac and uses that to open the image file:
+
+```shell
+imageopen.sh "$filename"
+```
+
 ### Convert Webp to PNG format
 
 [medium.com](medium.md) doesn't support using newer webp format images on the site so you need to convert them first:
@@ -39,14 +51,45 @@ Convert the image:
 dwebp "$name.webp" -o "$name.png"
 ```
 
-or shorter and safer using function in [DevOps-Bash-tools](devops-bash-tools.md) repo:
+or more simply use this script in [DevOps-Bash-tools](devops-bash-tools.md) repo
+which will install `dwebp` if needed and protect against overwriting:
 
 ```shell
-webp_to_png "$name.webp"
+webp_to_png.sh "$name.webp"
 ```
 
 This function adds safety to not overwrite the destination file if it already exists because `dwebp` will blindly
 overwrite the `-o outfile`.
+
+### Convert SVG to PNG format
+
+Many major websites like [LinkedIn](https://linkedin.com), [Medium](https://medium.com) and [Reddit](https://reddit.com)
+do not accept SVG images so you must convert to another supported format like PNG.
+
+Using ImageMagick:
+
+```shell
+convert "$name.svg" "$name.png"
+```
+
+or using Inkscape (slower than ImageMagick):
+
+```shell
+inkscape "$name.svg" --export-filename="$name.png"
+```
+
+or using `rsvg-convert`:
+
+```shell
+rsvg-convert "$name.svg" -o "$name.png"
+```
+
+or more simply use this script in [DevOps-Bash-tools](devops-bash-tools.md) repo
+which will find / install and use one of the above tools and protect against overwriting:
+
+```shell
+svg_to_png.sh "$name.svg"
+```
 
 ### Join Two Images Together
 
