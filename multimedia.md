@@ -39,7 +39,7 @@ imageopen.sh "$filename"
 
 [medium.com](medium.md) doesn't support using newer webp format images on the site so you need to convert them first:
 
-On Mac, install the `imagemagick` or `dwebp` [homebrew](brew.md) packages:
+On Mac, install the Imagemagick or Dwebp [homebrew](brew.md) packages:
 
 ```shell
 brew install imagemagick
@@ -70,8 +70,11 @@ which will find / install and use one of the above tools, and protect against ov
 webp_to_png.sh "$name.webp"
 ```
 
-This function adds safety to not overwrite the destination file if it already exists because `dwebp` will blindly
-overwrite the `-o outfile`.
+You can also inspect the webp header like this:
+
+```shell
+webpinfo "$name.webp"
+```
 
 ### Convert SVG to PNG format
 
