@@ -66,7 +66,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Rome](#rome)
     - [Venice](#venice)
   - [Moldova](#moldova)
-    - [Chisnau](#chisnau)
+    - [Chisinau](#chisinau)
   - [Latvia](#latvia)
     - [Riga](#riga)
   - [Lithuania](#lithuania)
@@ -615,7 +615,7 @@ Also, got caught in a storm just before leaving, check the weather forecasts.
 
 ### Moldova
 
-#### Chisnau
+#### Chisinau
 
 You'll need to withdraw local currency before you leave the airport.
 
