@@ -79,6 +79,10 @@ Why does the performance degrade after one query?
 - [TabNine](https://www.tabnine.com) - support for all major IDEs including my favourite [IntelliJ](intellij.md)
 - [Cursor AI](https://www.cursor.com) - separate Editor that requires download, limited completions in free edition
 
+## List of AI Tools By Categories
+
+![List of AI Tools by Categories](images/list-of-ai-tools-by-categories.webp)
+
 ## Meme
 
 ### Say Powered by AI One More Time
