@@ -517,7 +517,10 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 - [OpenTSDB](opentsdb.md)
   - [TCollector](tcollector.md)
-- [InfluxDB](influxdb.md)
+- [T.I.C.K. platform](tick.md):
+  - [Telegraf](telegraf.md) TODO
+  - [InfluxDB](influxdb.md)
+  - [Chronograf](chronograf.md) TODO
   - [Kapacitor](kapacitor.md)
 
 ### Visualization
