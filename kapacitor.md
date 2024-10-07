@@ -4,9 +4,7 @@ Stream processing + alerting engine for TICK stack.
 
 <!-- INDEX_START -->
 
-- [T.I.C.K platform components](#tick-platform-components)
-  - [Port:     9092    (conflicts with Kafka)](#port-----9092----conflicts-with-kafka)
-  - [Stream Pipeline](#stream-pipeline)
+- [Stream Pipeline](#stream-pipeline)
 - [Kapacitor Enterprise](#kapacitor-enterprise)
 - [CLI](#cli)
 - [TICKscript](#tickscript)
@@ -14,22 +12,9 @@ Stream processing + alerting engine for TICK stack.
 
 <!-- INDEX_END -->
 
-## T.I.C.K. platform components
+Port: 9092 (conflicts with Kafka)
 
-Telegraf . InfluxDB . Chronograf . Kapacitor.
-
-| Component               | Description                                                                |
-|-------------------------|----------------------------------------------------------------------------|
-| Telegraf                | metrics collection agent                                                   |
-| [InfluxDB](influxdb.md) | time-series database                                                       |
-| Chronograf              | visualization dashboards + admin ui (replaces admin ui from InfluxDB 1.3+) |
-| Kapacitor               | stream / batch processing for alerts                                       |
-
-Keep version parity between all TICK components eg. 0.11
-
-### Port:     9092    (conflicts with Kafka)
-
-### Stream Pipeline
+## Stream Pipeline
 
 Option 1:
 
