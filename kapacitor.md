@@ -14,7 +14,9 @@ Stream processing + alerting engine for TICK stack.
 
 <!-- INDEX_END -->
 
-## T.I.C.K platform components
+## T.I.C.K. platform components
+
+Telegraf . InfluxDB . Chronograf . Kapacitor.
 
 | Component               | Description                                                                |
 |-------------------------|----------------------------------------------------------------------------|
