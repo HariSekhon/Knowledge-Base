@@ -61,7 +61,10 @@ Bare URLs are links on GitHub `README.md` but not in MKDocs generated pages
 
 Enclose them in `<` and `>` to make sure they become links.
 
-### Quadruple Backticks work in GitHub but not in MKDocs
+### Quadruple Backticks don't work in MKDocs
 
-A stray backtick on a triple backticks code block, such as a quadruple backticks closing will break formatting in
-MKDocs but work fine in [IntelliJ](intellij.md) local rendering
+A stray backtick on a triple backticks code block,
+or an intentional quadruple backticks used to enclose a code sample containing
+triple backticks (such as seen in the [Markdown](markdown.md) doc page) will work in GitHub Markdown
+and [IntelliJ](intellij.md) local rendering
+but break formatting in MKDocs.
