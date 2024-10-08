@@ -45,7 +45,7 @@ The `--help` shows various examples you can use straight away.
 
 Grafana alerts occasionally missed alerts,
 if the pod went down it lost alerts as they were are persisted,
-so switched to using [Prometheus](prometheus.md) [Alertmanager](prometheus.md#alert-manager).
+so switched to using [Prometheus Alertmanager](prometheus.md#alert-manager).
 
 ## Grafana AWS Cloudwatch Dashboards
 
