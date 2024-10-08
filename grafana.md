@@ -8,7 +8,7 @@ NOT PORTED YET
   - [On Mac](#on-mac)
 - [CLI](#cli)
 - [API](#api)
-- [Grafana Alerts](#grafana-alerts)
+- [Grafana Alerts vs Prometheus Alert Manager](#grafana-alerts-vs-prometheus-alert-manager)
 - [Grafana AWS Cloudwatch Dashboards](#grafana-aws-cloudwatch-dashboards)
 
 <!-- INDEX_END -->
@@ -41,7 +41,7 @@ grafana_api.sh --help
 
 The `--help` shows various examples you can use straight away.
 
-## Grafana Alerts
+## Grafana Alerts vs Prometheus Alert Manager
 
 Grafana alerts occasionally missed alerts,
 if the pod went down it lost alerts as they were are persisted,
