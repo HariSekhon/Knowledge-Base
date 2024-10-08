@@ -62,7 +62,7 @@ is the main problem on more complex diagrams, for which you may want to switch t
 next section.
 
 - [D2 lang](https://d2lang.com/) - excellent, easy to use DSL, my favourite
-  - read [D2 lang](d2.md) for details
+  - See [D2 lang](d2.md) doc page for details
   - See thse D2 [Code](https://github.com/search?q=repo%3AHariSekhon%2FDiagrams-as-Code+path%3A*.d2&type=code) files
 - [Python Diagrams](https://diagrams.mingrammer.com/) - my prior favourite
   - good for basic Cloud Architecture diagrams with icons
