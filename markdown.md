@@ -150,9 +150,9 @@ echo "execute this command"
 
 Lists of emojis `:shortcodes:` that will be rendered on GitHub flavoured markdown:
 
-<https://github.com/ikatyang/emoji-cheat-sheet>
-
 <https://gist.github.com/rxaviers/7360908>
+
+<https://github.com/ikatyang/emoji-cheat-sheet>
 
 ## Badges & Icons
 
