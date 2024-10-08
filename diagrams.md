@@ -63,13 +63,16 @@ next section.
 
 - [D2 lang](https://d2lang.com/) - excellent, easy to use DSL, my favourite
   - read [D2 lang](d2.md) for details
+  - See thse D2 [Code](https://github.com/search?q=repo%3AHariSekhon%2FDiagrams-as-Code+path%3A*.d2&type=code) files
 - [Python Diagrams](https://diagrams.mingrammer.com/) - my prior favourite
   - good for basic Cloud Architecture diagrams with icons
+  - See thse Python Diagrams [Code](https://github.com/search?q=repo%3AHariSekhon%2FDiagrams-as-Code+path%3A*.py&type=code) files
 - [GraphViz](https://graphviz.org/) - the classic
   - its `dot` format is output by [Terraform](terraform.md)'s `terraform graph` command
   - this is the technology under the hood of Python diagrams above which makes it easier to use for Pythonistas
 - [GNUplot](http://www.gnuplot.info/) - classic code diagram CLI tool that can plot from data files in different formats
   and output in many different formats
+  - See these GNUplot [Code](https://github.com/search?q=repo%3AHariSekhon%2FDiagrams-as-Code+path%3A*.gnuplot&type=code) files
 - [MermaidJS](https://mermaid.js.org/) - best for embedded live diagrams in GitHub [Markdown](markdown.md) (`README.md`) files
   - Flow Chart, Git Commit Log Charts, Gantt diagrams etc.
   - recently added Cloud Architecture diagrams support (D2 and Python diagrams are most established for this)
@@ -82,6 +85,7 @@ next section.
     and [Git Environment Branches](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#git---environment-branches)
   - MermaidJS has added `%%` as their comment prefix now
   - CLI - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
+  - See these MermaidJS [Code](https://github.com/search?q=repo%3AHariSekhon%2FDiagrams-as-Code+path%3A*.mmd&type=code) files
 - [Go Diagrams](https://github.com/blushft/go-diagrams) - a port of Python Diagrams
 - [Cloudgram](https://cloudgram.dedalusone.com/index.html) - another DSL language
 - [Structurizer](https://structurizr.com/dsl) - C4 architecture diagrams
