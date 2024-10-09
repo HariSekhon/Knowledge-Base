@@ -10,12 +10,18 @@ Ansible is a popular imperative configuration management framework written in Py
 - [Ansible Config](#ansible-config)
 - [Syntax Check Playbook](#syntax-check-playbook)
 - [Run Playbook](#run-playbook)
+  - [Stagger Against Environments](#stagger-against-environments)
+    - [Different Inventories](#different-inventories)
+    - [One Inventory - Different Tags](#one-inventory---different-tags)
 - [Parallelism](#parallelism)
 - [GCP](#gcp)
   - [IAP Performance](#iap-performance)
 - [Performance](#performance)
 - [Troubleshooting](#troubleshooting)
-  - [Broken Ansible installation](#broken-ansible-installation)
+  - [Broken Ansible installations](#broken-ansible-installations)
+    - [Quick workaround, just install a user local version](#quick-workaround-just-install-a-user-local-version)
+    - [ModuleNotFoundError: No module named 'ansible'](#modulenotfounderror-no-module-named-ansible)
+    - [[Errno 13] Permission denied: '/usr/lib/python2.7/site-packages/...'](#errno-13-permission-denied-usrlibpython27site-packages)
 
 <!-- INDEX_END -->
 
@@ -49,13 +55,43 @@ $HOME/.ansible.cfg  # notice this is a dotfile
 ## Syntax Check Playbook
 
 ```shell
-ansible-playbook -i inventory_of_hosts.txt playbook.yml --private-key ~/.ssh/id_rsa
+ansible-playbook -i inventory_of_hosts.ini playbook.yml --private-key ~/.ssh/id_rsa --syntax-check
 ```
 
 ## Run Playbook
 
 ```shell
-ansible-playbook -i inventory_of_hosts.txt playbook.yml --private-key ~/.ssh/id_rsa --syntax-check
+ansible-playbook -i inventory_of_hosts.ini playbook.yml --private-key ~/.ssh/id_rsa --check --diff
+```
+
+```shell
+ansible-playbook -i inventory_of_hosts.ini playbook.yml --private-key ~/.ssh/id_rsa
+```
+
+### Stagger Against Environments
+
+Deploy to different environments separately separated by enough time to check everything in the first environment.
+
+#### Different Inventories
+
+```shell
+ansible-playbook -i inventory-dev.ini playbook.yml
+```
+
+```shell
+ansible-playbook -i inventory-prod.ini playbook.yml
+```
+
+#### One Inventory - Different Tags
+
+This is the approach you'll likely need to use for dynamic inventories.
+
+```shell
+ansible-playbook -i inventory.ini --tags dev playbook.yml
+```
+
+```shell
+ansible-playbook -i inventory.ini --tags prod playbook.yml
 ```
 
 ## Parallelism
@@ -125,7 +161,7 @@ fatal: [myhost]: FAILED! => {"changed": false, "msg": "argument 'owner' is of ty
 
 This is why Google moved to [Golang](golang.md).
 
-### Quick workaround, just install a user local version
+#### Quick workaround, just install a user local version
 
 ```shell
 pip3 install --user ansible
