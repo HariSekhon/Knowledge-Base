@@ -12,6 +12,8 @@
 - [GCP](#gcp)
   - [IAP Performance](#iap-performance)
 - [Performance](#performance)
+- [Troubleshooting](#troubleshooting)
+  - [Broken Ansible installation](#broken-ansible-installation)
 
 <!-- INDEX_END -->
 
@@ -112,5 +114,33 @@ perl -pi -e 's/ansible.builtin.copy/ansible.posix.synchronize/' $(git grep -l an
 ```shell
 fatal: [myhost]: FAILED! => {"changed": false, "msg": "argument 'owner' is of type <class 'str'> and we were unable to convert to bool: The value 'solr' is not a valid boolean.  Valid booleans include: 'y', 1, 0, 'f', 'false', '0', '1', 'n', 'off', 'true', 'on', 't', 'no', 'yes'"}
 ```
+
+## Troubleshooting
+
+### Broken Ansible installation
+
+```shell
+$ ansible --help
+Traceback (most recent call last):
+  File "/usr/local/bin/ansible", line 34, in <module>
+    from ansible import context
+ModuleNotFoundError: No module named 'ansible'
+```
+
+[Python](python.md) environment variability sucks - they're a waste of time everywhere you go.
+
+This is why Google moved to [Golang](golang.md).
+
+Quick workaround, install a user local version:
+
+```shell
+pip3 install --user ansible
+```
+
+```shell
+~/.local/bin/ansible --version
+```
+
+Set `~/.local/bin` to be earlier in your `$PATH`.
 
 **Partial port from private Knowledge Base page 2014+**
