@@ -526,6 +526,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 ### Visualization
 
+- [Visualization](visualization.md)
 - [Tableau](tableau.md)
 
 ## Security
