@@ -77,7 +77,7 @@ next section.
   - Flow Chart, Git Commit Log Charts, Gantt diagrams etc.
   - recently added Cloud [Architecture](https://mermaid.js.org/syntax/architecture.html)
     - D2 and Python diagrams are most established for this
-    - but MermaidJS has placement or at least direction support control which they don't
+    - square only but MermaidJS has direction control between icons so you can do shapes D2 / Python Diagrams can't
   - Under active development
   - Huge number of diagram types and more being added
   - can do icons now, see [example](https://text-to-diagram.com/?example=icons&b=mermaid) by D2 comparison site
