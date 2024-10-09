@@ -119,7 +119,25 @@ fatal: [myhost]: FAILED! => {"changed": false, "msg": "argument 'owner' is of ty
 
 ## Troubleshooting
 
-### Broken Ansible installation
+### Broken Ansible installations
+
+[Python](python.md) environment variability sucks - they're a waste of time everywhere you go.
+
+This is why Google moved to [Golang](golang.md).
+
+### Quick workaround, just install a user local version
+
+```shell
+pip3 install --user ansible
+```
+
+```shell
+~/.local/bin/ansible --version
+```
+
+Set `~/.local/bin` to be earlier in your `$PATH` in your `$HOME/.bashrc`.
+
+#### ModuleNotFoundError: No module named 'ansible'
 
 This could be a lot of things.
 
@@ -131,20 +149,55 @@ Traceback (most recent call last):
 ModuleNotFoundError: No module named 'ansible'
 ```
 
-[Python](python.md) environment variability sucks - they're a waste of time everywhere you go.
-
-This is why Google moved to [Golang](golang.md).
-
-Quick workaround, install a user local version:
+#### [Errno 13] Permission denied: '/usr/lib/python2.7/site-packages/...'
 
 ```shell
-pip3 install --user ansible
+$ /usr/bin/ansible --version
+ERROR! Unexpected Exception, this is probably a bug: [Errno 13] Permission denied: '/usr/lib/python2.7/site-packages/urllib3-1.26.18.dist-info'
+the full traceback was:
+
+Traceback (most recent call last):
+File "/usr/bin/ansible", line 92, in <module>
+mycli = getattr(__import__("ansible.cli.%s" % sub, fromlist=[myclass]), myclass)
+File "/usr/lib/python2.7/site-packages/ansible/cli/__init__.py", line 22, in <module>
+from ansible.inventory.manager import InventoryManager
+File "/usr/lib/python2.7/site-packages/ansible/inventory/manager.py", line 38, in <module>
+from ansible.plugins.loader import inventory_loader
+File "/usr/lib/python2.7/site-packages/ansible/plugins/loader.py", line 23, in <module>
+from ansible.parsing.utils.yaml import from_yaml
+File "/usr/lib/python2.7/site-packages/ansible/parsing/utils/yaml.py", line 17, in <module>
+from ansible.parsing.yaml.loader import AnsibleLoader
+File "/usr/lib/python2.7/site-packages/ansible/parsing/yaml/loader.py", line 30, in <module>
+from ansible.parsing.yaml.constructor import AnsibleConstructor
+File "/usr/lib/python2.7/site-packages/ansible/parsing/yaml/constructor.py", line 30, in <module>
+from ansible.parsing.vault import VaultLib
+File "/usr/lib/python2.7/site-packages/ansible/parsing/vault/__init__.py", line 45, in <module>
+from cryptography.hazmat.backends import default_backend
+File "/usr/lib64/python2.7/site-packages/cryptography/hazmat/backends/__init__.py", line 7, in <module>
+import pkg_resources
+File "/usr/lib/python2.7/site-packages/pkg_resources/__init__.py", line 3250, in <module>
+@_call_aside
+File "/usr/lib/python2.7/site-packages/pkg_resources/__init__.py", line 3234, in _call_aside
+f(*args, **kwargs)
+File "/usr/lib/python2.7/site-packages/pkg_resources/__init__.py", line 3263, in _initialize_master_working_set
+working_set = WorkingSet._build_master()
+File "/usr/lib/python2.7/site-packages/pkg_resources/__init__.py", line 574, in _build_master
+ws = cls()
+File "/usr/lib/python2.7/site-packages/pkg_resources/__init__.py", line 567, in __init__
+self.add_entry(entry)
+File "/usr/lib/python2.7/site-packages/pkg_resources/__init__.py", line 623, in add_entry
+for dist in find_distributions(entry, True):
+File "/usr/lib/python2.7/site-packages/pkg_resources/__init__.py", line 2065, in find_on_path
+for dist in factory(fullpath):
+File "/usr/lib/python2.7/site-packages/pkg_resources/__init__.py", line 2127, in distributions_from_metadata
+if len(os.listdir(path)) == 0:
+OSError: [Errno 13] Permission denied: '/usr/lib/python2.7/site-packages/urllib3-1.26.18.dist-info'
 ```
+
+Fix for Python System packages permission breaking system Ansible:
 
 ```shell
-~/.local/bin/ansible --version
+sudo chmod -R o+rx /usr/lib/python2.7/site-packages
 ```
-
-Set `~/.local/bin` to be earlier in your `$PATH` in your `$HOME/.bashrc`.
 
 **Partial port from private Knowledge Base page 2014+**
