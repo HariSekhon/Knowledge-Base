@@ -104,6 +104,20 @@ page - put links in it to your other markdown `*.md` doc files in your repo.
 
 See the [Markdown](markdown.md) page.
 
+### Quarto
+
+<https://quarto.org/>
+
+Write in [Markdown](markdown.md) with dynamic content in languages like Python.
+
+Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF,
+MS Word, ePub etc.
+
+Publish to Posit Connect, Confluence, or other publishing systems.
+
+Can write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout
+etc.
+
 ## Datacenter Documentation
 
 ### Rack Documentation
