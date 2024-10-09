@@ -18,6 +18,7 @@ Ansible is a popular imperative configuration management framework written in Py
   - [IAP Performance](#iap-performance)
 - [Performance](#performance)
 - [Troubleshooting](#troubleshooting)
+  - [Verbose Mode](#verbose-mode)
   - [Broken Ansible installations](#broken-ansible-installations)
     - [Quick workaround, just install a user local version](#quick-workaround-just-install-a-user-local-version)
     - [ModuleNotFoundError: No module named 'ansible'](#modulenotfounderror-no-module-named-ansible)
