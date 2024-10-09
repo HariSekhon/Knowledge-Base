@@ -86,9 +86,10 @@ next section.
     [GitHub Flow with Jira integration](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#github-flow-with-jira-ticket-integration)
     and [Git Environment Branches](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#git---environment-branches)
   - MermaidJS has added `%%` as their comment prefix now
+  - [Cloud Dashboard](https://www.mermaidchart.com/app/dashboard) - free for up to 5 diagrams
   - CLI - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
   - See these MermaidJS [Code](https://github.com/search?q=repo%3AHariSekhon%2FDiagrams-as-Code+path%3A*.mmd&type=code) files
-- [Go Diagrams](https://github.com/blushft/go-diagrams) - a port of Python Diagrams
+- [Go Diagrams](https://github.com/blushft/go-diagrams) - Golang a port of Python Diagrams
 - [Cloudgram](https://cloudgram.dedalusone.com/index.html) - another DSL language
 - [Structurizer](https://structurizr.com/dsl) - C4 architecture diagrams
 - [PlantUML](https://plantuml.com/) - creates UML diagrams eg. class diagrams, sequence diagrams, use case diagrams
@@ -186,12 +187,13 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
   - <https://dreampuf.github.io/GraphvizOnline>
   - <http://magjac.com/graphviz-visual-editor/>
   - <https://edotor.net/>
-- [MarkMap](https://markmap.js.org/repl)
+- [MarkMap Online REPL](https://markmap.js.org/repl)
 - Draw.io:
   - [Draw.io pre-loaded with AWS, GCP and Azure icons](https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4;azure;gcp2;network;webicons)
   - [Draw.io pre-loaded with AWS icons](https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4)
   - [Draw.io pre-loaded with Azure icons](https://app.diagrams.net/?splash=0&ui=dark&libs=azure)
   - [Draw.io pre-loaded with GCP icons](https://app.diagrams.net/?splash=0&ui=dark&libs=gcp;gcp2)
+  - [Supported URL parameters](https://www.drawio.com/doc/faq/supported-url-parameters) - to instantly load the above icon sets, set dark etc.
 - [LucidChart](https://lucid.app/)
 - [CloudCraft](https://app.cloudcraft.co/)
 - [Creately](https://app.creately.com/)
