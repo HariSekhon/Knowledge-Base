@@ -155,6 +155,15 @@ fatal: [myhost]: FAILED! => {"changed": false, "msg": "argument 'owner' is of ty
 
 ## Troubleshooting
 
+### Verbose Mode
+
+Run Ansible with `-vvvv`:
+
+```shell
+ansible-playbook -vvvv ...
+
+```
+
 ### Broken Ansible installations
 
 [Python](python.md) environment variability sucks - they're a waste of time everywhere you go.
