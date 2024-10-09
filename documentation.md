@@ -8,6 +8,7 @@
   - [Wikis](#wikis)
 - [Documentation-as-Code](#documentation-as-code)
   - [Markdown, GitHub, `README.md`](#markdown-github-readmemd)
+  - [MKDocs](#mkdocs)
   - [Quarto](#quarto)
 - [Datacenter Documentation](#datacenter-documentation)
   - [Rack Documentation](#rack-documentation)
@@ -104,6 +105,10 @@ Document right in your Git repo as `README.md` and have your Git repo hosting pl
 page - put links in it to your other markdown `*.md` doc files in your repo.
 
 See the [Markdown](markdown.md) page.
+
+### MKDocs
+
+[MKDocs](mkdocs.md) turns [Markdown](markdown.md) into web pages.
 
 ### Quarto
 
