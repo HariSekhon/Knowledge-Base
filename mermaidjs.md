@@ -3,6 +3,17 @@
 <https://mermaid.js.org/>
 
 <!-- INDEX_START -->
+
+- [Live Online Interactive Editor](#live-online-interactive-editor)
+- [CLI](#cli)
+  - [Install CLI](#install-cli)
+  - [Convert `.mmd` code file into a diagram](#convert-mmd-code-file-into-a-diagram)
+- [Real World Examples](#real-world-examples)
+  - [GitHub Flow with Jira ticket integration](#github-flow-with-jira-ticket-integration)
+  - [Git - why you shouldn't use long-lived feature branches](#git---why-you-shouldnt-use-long-lived-feature-branches)
+- [Gantt Chart of my Experience](#gantt-chart-of-my-experience)
+- [Gantt Chart of my GitHub Repos](#gantt-chart-of-my-github-repos)
+
 <!-- INDEX_END -->
 
 Excellent [Diagrams-as-Code](diagrams.md) tool with the widest variety of formats and structures
@@ -38,6 +49,18 @@ Comes with a range of sample diagrams to get you started that you can modify int
 :octocat: [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
 
 This can compile local `.mmd` code into svg or png graphs.
+
+### Install CLI
+
+```shell
+npm install -g @mermaid-js/mermaid-cli
+```
+
+### Convert `.mmd` code file into a diagram
+
+```shell
+mmdc -i input.mmd -o output.svg
+```
 
 ## Real World Examples
 
