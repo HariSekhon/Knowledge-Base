@@ -75,7 +75,9 @@ next section.
   - See these GNUplot [Code](https://github.com/search?q=repo%3AHariSekhon%2FDiagrams-as-Code+path%3A*.gnuplot&type=code) files
 - [MermaidJS](https://mermaid.js.org/) - best for embedded live diagrams in GitHub [Markdown](markdown.md) (`README.md`) files
   - Flow Chart, Git Commit Log Charts, Gantt diagrams etc.
-  - recently added Cloud Architecture diagrams support (D2 and Python diagrams are most established for this)
+  - recently added Cloud [Architecture](https://mermaid.js.org/syntax/architecture.html)
+    - D2 and Python diagrams are most established for this
+    - but MermaidJS has placement or at least direction support control which they don't
   - Under active development
   - Huge number of diagram types and more being added
   - can do icons now, see [example](https://text-to-diagram.com/?example=icons&b=mermaid) by D2 comparison site
