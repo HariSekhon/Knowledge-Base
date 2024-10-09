@@ -119,6 +119,8 @@ fatal: [myhost]: FAILED! => {"changed": false, "msg": "argument 'owner' is of ty
 
 ### Broken Ansible installation
 
+This could be a lot of things.
+
 ```shell
 $ ansible --help
 Traceback (most recent call last):
