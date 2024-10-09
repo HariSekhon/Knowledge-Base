@@ -249,7 +249,7 @@ $LOAD_PATH
 
 ## JRuby
 
-Run Ruby on the Java JVM with full access to Java libraries.
+Run Ruby on the [Java JVM](java.md) with full access to Java libraries.
 
 See also [Jython](python.md#jython).
 
