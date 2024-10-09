@@ -2,6 +2,8 @@
 
 [Official Documentation](https://docs.ansible.com/ansible/latest/getting_started/index.html)
 
+Ansible is a popular imperative configuration management framework written in Python.
+
 <!-- INDEX_START -->
 
 - [Inventory](#inventory)
