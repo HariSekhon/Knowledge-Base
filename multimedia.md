@@ -8,6 +8,7 @@ Media file analysis, editing, transcoding and conversions.
   - [Open a file from the command line](#open-a-file-from-the-command-line)
   - [Convert Webp to PNG format](#convert-webp-to-png-format)
   - [Convert SVG to PNG format](#convert-svg-to-png-format)
+  - [Trim a Couple Pixels off an Image (Screenshot)](#trim-a-couple-pixels-off-an-image-screenshot)
   - [Join Two Images Together](#join-two-images-together)
   - [Inspect Image File Metadata](#inspect-image-file-metadata)
   - [Look for Watermarks](#look-for-watermarks)
@@ -105,6 +106,18 @@ which will find / install and use one of the above tools and protect against ove
 ```shell
 svg_to_png.sh "$name.svg"
 ```
+
+### Trim a Couple Pixels off an Image (Screenshot)
+
+You can use Imagemagick to do this from the command line more easily than using Gimp etc.
+
+The output image must come at the end.
+
+```shell
+magick "$image" -gravity East -chop 2x0 "$output_image"
+```
+
+`-gravity East` tells it to keep to the left - like driving in the UK!
 
 ### Join Two Images Together
 
