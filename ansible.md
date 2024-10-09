@@ -200,4 +200,17 @@ Fix for Python System packages permission breaking system Ansible:
 sudo chmod -R o+rx /usr/lib/python2.7/site-packages
 ```
 
+The version is still a bit behind so you might want to install a newer version via pip as per
+[Workaround - Local User Install](#workaround---local-user-install).
+
+```shell
+/usr/bin/ansible --version
+ansible 2.9.23
+config file = /home/hari/.ansible.cfg
+configured module search path = [u'/home/hari/.ansible/plugins/modules', u'/usr/share/ansible/plugins/modules']
+ansible python module location = /usr/lib/python2.7/site-packages/ansible
+executable location = /usr/bin/ansible
+python version = 2.7.18 (default, Dec 18 2023, 22:08:43) [GCC 7.3.1 20180712 (Red Hat 7.3.1-17)]
+```
+
 **Partial port from private Knowledge Base page 2014+**
