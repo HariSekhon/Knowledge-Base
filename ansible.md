@@ -143,6 +143,6 @@ pip3 install --user ansible
 ~/.local/bin/ansible --version
 ```
 
-Set `~/.local/bin` to be earlier in your `$PATH`.
+Set `~/.local/bin` to be earlier in your `$PATH` in your `$HOME/.bashrc`.
 
 **Partial port from private Knowledge Base page 2014+**
