@@ -184,6 +184,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Product Selection](product-selection.md) TODO
 - [Diagrams-as-Code](diagrams.md)
   - [D2 lang](d2.md)
+  - [MermaidJS](mermaidjs.md)
 - [Documentation](documentation.md)
   - [Markdown](markdown.md)
   - [MkDocs](mkdocs.md)
