@@ -8,6 +8,7 @@
   - [Wikis](#wikis)
 - [Documentation-as-Code](#documentation-as-code)
   - [Markdown, GitHub, `README.md`](#markdown-github-readmemd)
+  - [Quarto](#quarto)
 - [Datacenter Documentation](#datacenter-documentation)
   - [Rack Documentation](#rack-documentation)
   - [IPAM - IP Address Management](#ipam---ip-address-management)
