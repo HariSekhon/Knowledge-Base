@@ -105,7 +105,7 @@ References to official docs and some classic books are provided for those who wa
   - [Crypto](#crypto)
   - [Old Docs](#old-docs)
 - [Star History](#star-history)
-- [Meme](#meme)
+- [Memes](#memes)
 - [More Core Repos](#more-core-repos)
   - [Knowledge](#knowledge)
   - [DevOps Code](#devops-code)
@@ -652,11 +652,17 @@ This section is probably the most financially important thing you'll ever learn.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HariSekhon/Knowledge-Base&type=Date)](https://star-history.com/#HariSekhon/Knowledge-Base&Date)
 
-## Meme
+## Memes
 
 From my [LinkedIn](https://linkedin.com/in/HariSekhon):
 
 ![BForbidden Unix Knowledge](images/devops_apprentice_reads_from_ancient_books_of_forbidden_unix_knowledge.jpeg)
+
+I tried to make these docs as short as possible... but as you can see above, I didn't quite make it.
+
+I've been both the bottom and top of this meme:
+
+![Reading vs Trying](images/reading_documentation_for_30_mins_vs_4_hours_trying_and_failing_until_it_works.jpeg)
 
 ## More Core Repos
 
