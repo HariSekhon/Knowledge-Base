@@ -28,11 +28,14 @@ Ansible is a popular imperative configuration management framework written in Py
 
 ## Inventory
 
-List of hosts to run against, grouped
+List of hosts to run against, grouped.
 
-Example:
+Quick static inventory template:
 
-[Ansible Inventory Template](https://github.com/HariSekhon/Templates/blob/master/ansible-inventory)
+[inventory.ini](https://github.com/HariSekhon/Ansible/blob/master/inventory.ini)
+
+More advanced dynamic inventories that populate by querying things like cloud providers can be used via
+[plugins](https://docs.ansible.com/ansible/latest/plugins/inventory.html).
 
 ## Ansible Config
 
