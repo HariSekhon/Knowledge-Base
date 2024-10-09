@@ -13,7 +13,9 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 
 <!-- INDEX_START -->
 
-- [WARNING: do not let your Macbook Pro get hot it will destroy the battery](#warning-do-not-let-your-macbook-pro-get-hot-it-will-destroy-the-battery)
+- [WARNING: Battery Life](#warning-battery-life)
+  - [Do not let your Macbook Pro get hot it will destroy the battery!!](#do-not-let-your-macbook-pro-get-hot-it-will-destroy-the-battery)
+  - [Do Not Charge Through USB Port](#do-not-charge-through-usb-port)
 - [Terminal](#terminal)
 - [Homebrew - Package Management](#homebrew---package-management)
 - [Activity Monitor](#activity-monitor)
@@ -57,12 +59,19 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 
 <!-- INDEX_END -->
 
-## WARNING: do not let your Macbook Pro get hot it will destroy the battery
+## WARNING: Battery Life
+
+### Do not let your Macbook Pro get hot it will destroy the battery!!
 
 Within a few weeks of digitial nomadding working on beds with my laptop on the bed cover,
 I had degraded the battery of my new Macbook Pro M3 Max by 85%.
 
 ![Battery Health 85%](images/battery_health_85%25.png)
+
+### Do Not Charge Through USB Port
+
+Charging through the USB port off a portable power bank also seemed
+to heat up the machine and deteriorate the battery by another couple percent after just half an hour.
 
 ## Terminal
 
