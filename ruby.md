@@ -249,11 +249,19 @@ $LOAD_PATH
 
 ## JRuby
 
+Run Ruby on the Java JVM with full access to Java libraries.
+
+See also [Jython](python.md#jython).
+
+Personally, I much prefer [Groovy](groovy.md).
+
+Use Java library jar:
+
 ```ruby
 require '/path/to/my.jar'
 ```
 
-Not needed in `jirb`:
+Not needed in `jirb` (JRuby's interactive interpreter):
 
 ```ruby
 require 'java'
