@@ -4,6 +4,7 @@
 
 - [GitHub `README.md`](#github-readmemd)
 - [MKDocs](#mkdocs)
+- [Quarto](#quarto)
 - [Markdown Best Practices](#markdown-best-practices)
   - [Lint your Markdown](#lint-your-markdown)
   - [URL Hyperlinking](#url-hyperlinking)
@@ -16,6 +17,7 @@
   - [Badges](#badges)
   - [Icons](#icons)
   - [Icon Colours](#icon-colours)
+  - [Colours](#colours)
   - [Detecting Colours - ColorZilla](#detecting-colours---colorzilla)
 - [Star History Graphs](#star-history-graphs)
   - [Star History](#star-history)
@@ -35,6 +37,20 @@ repo's home page - put links in it to your other markdown `*.md` doc files in yo
 ## MKDocs
 
 [MKDocs](mkdocs.md) converts standard markdown files into a website.
+
+## Quarto
+
+<https://quarto.org/>
+
+Write in markdown with dynamic content in languages like Python.
+
+Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF,
+MS Word, ePub etc.
+
+Publish to Posit Connect, Confluence, or other publishing systems.
+
+Can write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout
+etc.
 
 ## Markdown Best Practices
 
