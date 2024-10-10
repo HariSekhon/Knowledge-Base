@@ -61,7 +61,7 @@ Python Diagrams issues
 is the main problem on more complex diagrams, for which you may want to switch to one of the top GUI tools from the
 next section.
 
-- [MermaidJS](https://mermaid.js.org/) - excellent multi-format flexible diagram tool with GitHub markdown code embedding
+- [MermaidJS](https://mermaid.js.org/) - excellent multi-format flexible diagram language with GitHub markdown code embedding
   - see [MermaidJS](mermaidjs.md) doc page for details
 - [D2 lang](https://d2lang.com/) - excellent, easy to use DSL for Cloud & Architecture diagrams, my favourite
   - See [D2 lang](d2.md) doc page for details
