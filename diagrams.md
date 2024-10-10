@@ -164,6 +164,10 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 
 - [Icons8](https://icons8.com/)
 
+<!-- -->
+
+- [Iconify](https://icon-sets.iconify.design/) - Massive 200,000 open source SVG icon set
+
 ## Interactive Playground Editors
 
 - [Text-to-Diagram Comparison Playground](https://text-to-diagram.com/)
