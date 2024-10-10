@@ -429,6 +429,7 @@ gantt
     lib : active, 2012-12-30, 2015-12-31
     Spotify-tools : active, 2012-12-30, 2020-12-31
     DevOps-Perl-tools : active, 2012-12-30, 2020-12-31
+    SQL-keywords : active, 2013-08-13, 2020-12-31
     spark-apps : done, 2015-05-25, 2020-04-02
     lib-java : active, 2015-05-31, 2016-12-31
     pylib : active, 2015-10-27, 2020-12-31
@@ -441,7 +442,6 @@ gantt
     Spotify-Playlists : active, 2020-06-29, 2024-09-22
     SQL-scripts : active, 2020-08-05, 2024-09-21
     Kubernetes-configs : active, 2020-09-16, 2024-09-21
-    SQL-keywords : active, 2013-08-13, 2020-12-31
     Templates : active, 2019-11-25, 2024-09-25
     TeamCity-CI : active, 2020-12-03, 2022-12-31
     Terraform : active, 2021-01-18, 2024-09-21
