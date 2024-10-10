@@ -5,6 +5,7 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 <!-- INDEX_START -->
 
 - [SQL Scripts](#sql-scripts)
+- [SQL Developer IDE](#sql-developer-ide)
 - [Sqlplus Readline Support](#sqlplus-readline-support)
 - [Alter User Password](#alter-user-password)
 - [Get Table DDL](#get-table-ddl)
@@ -15,6 +16,16 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 ## SQL Scripts
 
 See [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) repo for some Oracle scripts.
+
+## SQL Developer IDE
+
+SQL Developer - free and widely used Oracle-specific IDE
+
+Alternatives:
+
+- Toad for Oracle
+- Navicat for Oracle
+- generic [SQL Clients](sql.md#sql-clients)
 
 ## Sqlplus Readline Support
 
