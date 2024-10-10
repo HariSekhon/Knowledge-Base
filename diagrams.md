@@ -166,7 +166,7 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 
 <!-- -->
 
-- [Iconify](https://icon-sets.iconify.design/) - Massive 200,000 open source SVG icon set
+- [Iconify.design](https://icon-sets.iconify.design/) - Massive 200,000 open source SVG icon set
 
 ## Interactive Playground Editors
 
