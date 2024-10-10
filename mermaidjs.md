@@ -30,7 +30,8 @@ GitHub natively integrates to support it so that MermaidJS code blocks in GitHub
     that D2 / Python Diagrams currently can't do due to issues in both frameworks
     ([d2 issue #1285](https://github.com/terrastruct/d2/issues/1285) and
     [python diagrams issue #44](https://github.com/mingrammer/diagrams/issues/44))
-  - almost no native icons, but support for [Iconify.design]() which has 200,000+ icons
+  - almost no native icons, but support for [Iconify.design](https://icon-sets.iconify.design/)
+    which has 200,000+ icons
 - Under active development
 - can do icons now, see [example](https://text-to-diagram.com/?example=icons&b=mermaid) by D2 comparison site
 - [Live Online Interactive Editor](#live-online-interactive-editor) to interactively see the results as you type
