@@ -4,6 +4,15 @@
 
 - [SQL Scripts](#sql-scripts)
 - [SQL Clients](#sql-clients)
+- [SQL Linting](#sql-linting)
+  - [SQLFluff](#sqlfluff)
+  - [SQLLint (SQL-Lint)](#sqllint-sql-lint)
+  - [SQLCheck](#sqlcheck)
+  - [SQLint](#sqlint)
+  - [Popeye](#popeye)
+  - [SonarQube with SQL Plugin](#sonarqube-with-sql-plugin)
+  - [ALE (Asynchronous Lint Engine)](#ale-asynchronous-lint-engine)
+  - [SQLcodegen](#sqlcodegen)
 - [ACID](#acid)
 - [SQL Query Logical Order](#sql-query-logical-order)
 - [Meme](#meme)
@@ -35,6 +44,56 @@ Preference is given to free tools.
 - [PgAdmin](https://www.pgadmin.org/) - PostgreSQL web UI
 - [phpMyAdmin](https://www.phpmyadmin.net/) - MySQL web UI
 - [SQL Chat](https://github.com/sqlchat/sqlchat) - chat-based interface to querying DBs
+
+## SQL Linting
+
+### SQLFluff
+
+<https://sqlfluff.com>
+
+Extensible and customizable SQL linter with support for multiple dialects, allowing for strict style enforcement.
+
+### SQLLint (SQL-Lint)
+
+<https://sql-lint.github.io>
+
+Simple, fast, and open-source SQL linter that checks for common issues in SQL queries.
+
+### SQLCheck
+
+<https://github.com/jarulraj/sqlcheck>
+
+Focuses on detecting anti-patterns in SQL queries to optimize performance and maintainability.
+
+### SQLint
+
+<https://github.com/purcell/sqlint>
+
+Minimalist linter for SQL code, primarily for catching syntax errors in your queries.
+
+### Popeye
+
+<https://github.com/derailed/popeye>
+
+A Kubernetes reporting tool that also helps analyze and lint database configurations.
+
+### SonarQube with SQL Plugin
+
+<https://www.sonarqube.org>
+
+SonarQube supports SQL linting through its plugin system, helping enforce best practices and maintainability.
+
+### ALE (Asynchronous Lint Engine)
+
+<https://github.com/dense-analysis/ale>
+
+A linter for many languages, including SQL, integrated into [Vim/Neovim](vim.md) for real-time feedback.
+
+### SQLcodegen
+
+<https://sqlcodegen.com>
+
+A database schema documentation tool that can automatically lint and analyze SQL queries.
 
 **TODO**
 
