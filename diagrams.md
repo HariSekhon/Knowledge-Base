@@ -61,6 +61,8 @@ Python Diagrams issues
 is the main problem on more complex diagrams, for which you may want to switch to one of the top GUI tools from the
 next section.
 
+- [MermaidJS](https://mermaid.js.org/) - excellent multi-format flexible diagram tool with GitHub markdown code embedding
+  - see [MermaidJS](mermaidjs.md) doc page for details
 - [D2 lang](https://d2lang.com/) - excellent, easy to use DSL, my favourite
   - See [D2 lang](d2.md) doc page for details
   - See thse D2 [Code](https://github.com/search?q=repo%3AHariSekhon%2FDiagrams-as-Code+path%3A*.d2&type=code) files
@@ -73,22 +75,6 @@ next section.
 - [GNUplot](http://www.gnuplot.info/) - classic code diagram CLI tool that can plot from data files in different formats
   and output in many different formats
   - See these GNUplot [Code](https://github.com/search?q=repo%3AHariSekhon%2FDiagrams-as-Code+path%3A*.gnuplot&type=code) files
-- [MermaidJS](https://mermaid.js.org/) - best for embedded live diagrams in GitHub [Markdown](markdown.md) (`README.md`) files
-  - Flow Chart, Git Commit Log Charts, Gantt diagrams etc.
-  - recently added Cloud [Architecture](https://mermaid.js.org/syntax/architecture.html)
-    - D2 and Python diagrams are most established for this
-    - square only but MermaidJS has direction control between icons so you can do shapes D2 / Python Diagrams can't
-  - Under active development
-  - Huge number of diagram types and more being added
-  - can do icons now, see [example](https://text-to-diagram.com/?example=icons&b=mermaid) by D2 comparison site
-  - see [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code)
-    repo for live embedded MermaidJS diagrams
-    [GitHub Flow with Jira integration](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#github-flow-with-jira-ticket-integration)
-    and [Git Environment Branches](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/README.md#git---environment-branches)
-  - MermaidJS has added `%%` as their comment prefix now
-  - [Cloud Dashboard](https://www.mermaidchart.com/app/dashboard) - free for up to 5 diagrams
-  - CLI - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
-  - See these MermaidJS [Code](https://github.com/search?q=repo%3AHariSekhon%2FDiagrams-as-Code+path%3A*.mmd&type=code) files
 - [Go Diagrams](https://github.com/blushft/go-diagrams) - Golang a port of Python Diagrams
 - [Cloudgram](https://cloudgram.dedalusone.com/index.html) - another DSL language
 - [Structurizer](https://structurizr.com/dsl) - C4 architecture diagrams
