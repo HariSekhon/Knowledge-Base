@@ -1,6 +1,6 @@
 # Oracle
 
-https://www.oracle.com/
+<https://www.oracle.com/>
 
 An OG of RDBMS databases with good performance, durability and PL/SQL advanced SQL.
 
@@ -19,7 +19,11 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 
 ## SQL Scripts
 
-See [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts) repo for some Oracle scripts.
+Scripts for DBA administration and performance engineering:
+
+[HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=SQL-scripts&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/SQL-scripts)
 
 ## SQL Developer IDE
 
