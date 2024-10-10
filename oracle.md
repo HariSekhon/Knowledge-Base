@@ -1,5 +1,9 @@
 # Oracle
 
+https://www.oracle.com/
+
+An OG of RDBMS databases with good performance, durability and PL/SQL advanced SQL.
+
 Most of this was not retained to be ported and I don't work on Oracle any more to go back and populate this.
 
 <!-- INDEX_START -->
