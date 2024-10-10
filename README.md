@@ -403,6 +403,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Data Warehousing](data-warehousing.md) TODO
 - [MySQL](mysql.md) TODO
 - [PostgreSQL](postgres.md) TODO
+- [Oracle](oracle.md)
 - [CloudBeaver](cloudbeaver.md)
 
 ### MPP Databases
