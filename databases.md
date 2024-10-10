@@ -61,7 +61,7 @@ Useful for local or embedded usage rather than multi-user servers like most majo
 
 ## Proprietary / Legacy Databases
 
-- [Oracle](https://www.oracle.com/) - an OG of RDBMS databases with good performance, durability and PL/SQL advanced SQL
+- [Oracle](oracle.md) - an OG of RDBMS databases with good performance, durability and PL/SQL advanced SQL
   dialect. Notoriously expensive
 - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - slightly more user friendly
   than Oracle, with Transact SQL aka TSQL
