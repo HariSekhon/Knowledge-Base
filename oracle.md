@@ -12,6 +12,7 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - [Local Login as Admin](#local-login-as-admin)
 - [SQL Scripts](#sql-scripts)
 - [SQL Developer IDE](#sql-developer-ide)
+  - [Install SQL Developer](#install-sql-developer)
 - [Sqlplus Readline Support](#sqlplus-readline-support)
 - [Alter User Password](#alter-user-password)
 - [Get Table DDL](#get-table-ddl)
@@ -69,13 +70,25 @@ Scripts for DBA administration and performance engineering:
 
 ## SQL Developer IDE
 
-SQL Developer - free and widely used Oracle-specific IDE
+<https://www.oracle.com/database/sqldeveloper>
+
+SQL Developer - free and widely used Oracle-specific IDE.
 
 Alternatives:
 
 - Toad for Oracle
 - Navicat for Oracle
 - generic [SQL Clients](sql.md#sql-clients)
+
+### Install SQL Developer
+
+[Download link](https://www.oracle.com/database/sqldeveloper/technologies/download/)
+
+Quickly from [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+install_oracle_sql_developer.sh
+```
 
 ## Sqlplus Readline Support
 
