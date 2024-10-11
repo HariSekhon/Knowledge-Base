@@ -225,8 +225,8 @@ Documentation:
 
 #### Deduplicate Code Using Environment Variables grouped in top-level `env` section
 
-Abstract out variable things that might change like server addresses, URLs, Docker image repo paths in `env` fields
-before the `jobs` section.
+Abstract out variable things that might change like server addresses, URLs, Docker image repo paths in the top-level
+`env` section before the `jobs` section.
 
 This makes it easier to see the variable parts of the code and manage them,
 rather than interspersing them throughout sub `env` fields under `jobs` and `steps`.
