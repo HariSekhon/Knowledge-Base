@@ -125,7 +125,11 @@ NO:
 
 ```shell
 var=$(somecommand)
+```
 
+NO:
+
+```shell
 echo $var
 ```
 
@@ -133,7 +137,9 @@ Yes:
 
 ```shell
 var="$(somecommand)"
+```
 
+```shell
 echo "$var"
 ```
 
