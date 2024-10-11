@@ -83,7 +83,7 @@ env:
   MY_VAR: "${{ inputs.my_var }}"
 ```
 
-This will quote any shell escape sequences. This of this like SQL parameterized queries to avoid SQL Injection.
+This will quote any shell escape sequences. This is like SQL parameterized queries to avoid SQL Injection.
 
 In Shell step just use it as a normal enviroment variable.
 
