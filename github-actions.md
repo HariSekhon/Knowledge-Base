@@ -7,6 +7,13 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 
 - [Key Points](#key-points)
   - [Limitations](#limitations)
+- [GitHub Actions Best Practices](#github-actions-best-practices)
+  - [Pin 3rd party GitHub Actions to Git Hashrefs, not tags](#pin-3rd-party-github-actions-to-git-hashrefs-not-tags)
+  - [Avoid `${{ inputs }}` Shell Injection](#avoid--inputs--shell-injection)
+  - [Enforce Shell Error Detection for entire Workflow](#enforce-shell-error-detection-for-entire-workflow)
+  - [Always Quote all Variables in Shell](#always-quote-all-variables-in-shell)
+  - [Serialize Workflows with Steps sensitive to Race Conditions](#serialize-workflows-with-steps-sensitive-to-race-conditions)
+  - [Serialize all workflows that commit to the same Git repo](#serialize-all-workflows-that-commit-to-the-same-git-repo)
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
 - [Diagrams](#diagrams)
   - [GitHub Actions CI/CD to auto-(re)generate diagrams from code changes (Python)](#github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes-python)
@@ -42,6 +49,89 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 - Secrets must be passed explicitly via `${ secrets.<name> }`
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
+
+## GitHub Actions Best Practices
+
+Look at real-world production workflows for inspiration:
+
+eg. [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) -
+specifically the `main.yaml` template and the `.github/workflows/`.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
+
+### Pin 3rd party GitHub Actions to Git Hashrefs, not tags
+
+For security, pin 3rd party GitHub Actions to a `@<git_hashref>` rather than a git tag.
+
+Otherwise a compromised 3rd party GitHub Actions repo can be retagged with any arbitrary code which to induce
+malicious code injection into your repo under your permissions when next called.
+
+### Avoid `${{ inputs }}` Shell Injection
+
+Do NOT use `${{ inputs.BLAH }}` directly in shell steps.
+
+This leads is a script injection vulnerability.
+
+Always put `${{ inputs.BLAH }}` into an `env` field either at top level or step level depending on your preference.
+
+```yaml
+env:
+  MY_VAR: ""${{ inputs.my_var }}"
+```
+
+This will quote any shell escape sequences. This of this like SQL parameterized queries to avoid SQL Injection.
+
+In Shell step just use it as a normal enviroment variable.
+
+```properties
+steps:
+  - name: Use Input as a normal Environment Variable
+    run: echo "$MY_VAR"
+```
+
+### Enforce Shell Error Detection for entire Workflow
+
+Make any unhandled error code in shell steps fail, including in subshells or unset variables,
+and trace the output for immediately easier debugging to see which shell command line failed.
+
+Taken from [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) `main.yaml` template and
+`.github/workflows/`:
+
+Add this near the top of your workflow:
+
+```yaml
+defaults:
+  run:
+    shell: bash -euxo pipefail {0}
+```
+
+### Always Quote all Variables in Shell
+
+This is basic shell scripting best practice in case your shell commands or variables end up containing an unexpected
+space or other character that will otherwise break shell interpretation and lead to unexpected results.
+
+### Serialize Workflows with Steps sensitive to Race Conditions
+
+Taken from [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) `main.yaml` template and
+`.github/workflows/`.
+
+```yaml
+concurrency:
+  # XXX: don't set this to the same group in a reusable workflow and calling workflow, that will result in a deadlock
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+```
+
+### Serialize all workflows that commit to the same Git repo
+
+Serialize otherwise you will end up with git commit race condition breaking the workflow on git push:
+
+```yaml
+concurrency:
+  # TODO: could possibly improve this to only serialize for the given branch
+  group: my-repo-git-changes
+  cancel-in-progress: false
+```
 
 ## GitHub Actions vs Jenkins
 
