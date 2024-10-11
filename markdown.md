@@ -16,6 +16,9 @@
 - [Badges & Icons](#badges--icons)
   - [Badges](#badges)
   - [Icons](#icons)
+    - [Removed Icons](#removed-icons)
+      - [LinkedIn Icon](#linkedin-icon)
+      - [Oracle Icon](#oracle-icon)
   - [Icon Colours](#icon-colours)
   - [Colours](#colours)
   - [Detecting Colours - ColorZilla](#detecting-colours---colorzilla)
@@ -182,9 +185,13 @@ Use [Simple Icons](https://simpleicons.org) for a great selection of icons.
 
 These can be used with the `logo=` parameter in [Shields.io](https://shields.io) above.
 
+#### Removed Icons
+
 However, for icons that are not available on the Simple Icons site, or those that
 [got removed](https://github.com/simple-icons/simple-icons/issues/11372),
 you can use the `shields_embed_logo.sh` script from the [DevOps-Bash-tools](devops-bash-tools.md) repo.
+
+##### LinkedIn Icon
 
 Download the icon:
 
@@ -237,6 +244,41 @@ if appended to existing parameters:
 Result:
 
 ![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)
+
+##### Oracle Icon
+
+Download the icon:
+
+```shell
+wget -nc https://raw.githubusercontent.com/simple-icons/simple-icons/405ef6a8c744dcf041971acfea08e0242c027fac/icons/oracle.svg
+```
+
+Change icon to white:
+
+```shell
+sed 's|/>| fill="#ffffff" />|' oracle.svg > oracle_filled.svg
+```
+
+Generate the data to embed in the `shields.io` badge call:
+
+```shell
+shields_embed_logo.sh oracle_filled.svg
+```
+
+Output:
+
+```none
+logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+T3JhY2xlPC90aXRsZT48cGF0aCBkPSJNMTYuNDEyIDQuNDEyaC04LjgyYTcuNTg4IDcuNTg4IDAgMCAwLS4wMDggMTUuMTc2aDguODI4YTcuNTg4IDcuNTg4IDAgMCAwIDAtMTUuMTc2em0tLjE5MyAxMi41MDJINy43ODZhNC45MTUgNC45MTUgMCAwIDEgMC05LjgyOGg4LjQzM2E0LjkxNCA0LjkxNCAwIDEgMSAwIDkuODI4eiIgZmlsbD0iI2ZmZmZmZiIgLz48L3N2Zz4K
+```
+
+Put in `shields.io` badge to replace the icon:
+
+```markdown
+[![Oracle](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
+```
+Result:
+
+[![Oracle](https://img.shields.io/badge/SQL-Oracle-F80000?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+T3JhY2xlPC90aXRsZT48cGF0aCBkPSJNMTYuNDEyIDQuNDEyaC04LjgyYTcuNTg4IDcuNTg4IDAgMCAwLS4wMDggMTUuMTc2aDguODI4YTcuNTg4IDcuNTg4IDAgMCAwIDAtMTUuMTc2em0tLjE5MyAxMi41MDJINy43ODZhNC45MTUgNC45MTUgMCAwIDEgMC05LjgyOGg4LjQzM2E0LjkxNCA0LjkxNCAwIDEgMSAwIDkuODI4eiIgZmlsbD0iI2ZmZmZmZiIgLz48L3N2Zz4K&logoColor=white)](https://oracle.com/)
 
 ### Icon Colours
 
