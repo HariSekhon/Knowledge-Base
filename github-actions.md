@@ -76,7 +76,7 @@ Always put `${{ inputs.BLAH }}` into an `env` field either at top level or step 
 
 ```yaml
 env:
-  MY_VAR: ""${{ inputs.my_var }}"
+  MY_VAR: "${{ inputs.my_var }}"
 ```
 
 This will quote any shell escape sequences. This of this like SQL parameterized queries to avoid SQL Injection.
