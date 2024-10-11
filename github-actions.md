@@ -18,6 +18,8 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
   - [Avoid Race Condition - Do Not Tag from Moving Targets eg. `master` or `latest`](#avoid-race-condition---do-not-tag-from-moving-targets-eg-master-or-latest)
   - [Do Not Write Legacy Technical Debt Code](#do-not-write-legacy-technical-debt-code)
     - [No More `save-state` or `set-output` commands](#no-more-save-state-or-set-output-commands)
+    - [Deduplicate Code Using Environment Variables grouped in top-level `env` section](#deduplicate-code-using-environment-variables-grouped-in-top-level-env-section)
+    - [Begin Workflow Jobs with an Environment Printing Step](#begin-workflow-jobs-with-an-environment-printing-step)
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
 - [Diagrams](#diagrams)
   - [GitHub Actions CI/CD to auto-(re)generate diagrams from code changes (Python)](#github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes-python)
@@ -59,7 +61,9 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 Look at real-world production workflows for inspiration:
 
 eg. [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) -
-specifically the `main.yaml` template and the `.github/workflows/`.
+specifically the
+[main.yaml](https://github.com/HariSekhon/GitHub-Actions/blob/master/main.yaml) template
+and the [.github/workflows/*.yaml](https://github.com/HariSekhon/GitHub-Actions/tree/master/.github/workflows).
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
 
@@ -109,8 +113,9 @@ Instead, validate the `env` quoted content of the resulting environment variable
 Make any unhandled error code in shell steps fail, including in subshells or unset variables,
 and trace the output for immediately easier debugging to see which shell command line failed.
 
-Taken from [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) `main.yaml` template and
-`.github/workflows/`:
+Taken from [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) -
+[main.yaml](https://github.com/HariSekhon/GitHub-Actions/blob/master/main.yaml) template and
+[.github/workflows/*.yaml](https://github.com/HariSekhon/GitHub-Actions/tree/master/.github/workflows):
 
 Add this near the top of your workflow:
 
@@ -149,8 +154,9 @@ echo "$var"
 
 ### Serialize Workflows with Steps sensitive to Race Conditions
 
-Taken from [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) `main.yaml` template and
-`.github/workflows/`.
+Taken from [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) -
+[main.yaml](https://github.com/HariSekhon/GitHub-Actions/blob/master/main.yaml) template and
+[.github/workflows/*.yaml](https://github.com/HariSekhon/GitHub-Actions/tree/master/.github/workflows):
 
 ```yaml
 concurrency:
@@ -217,6 +223,56 @@ Documentation:
 
 <https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/>
 
+#### Deduplicate Code Using Environment Variables grouped in top-level `env` section
+
+Abstract out variable things that might change like server addresses, URLs, Docker image repo paths in `env` fields
+before the `jobs` section.
+
+This makes it easier to see the variable parts of the code and manage them,
+rather than interspersing them throughout sub `env` fields under `jobs` and `steps`.
+
+Unfortunately at time of writing `env` fields cannot be composed of other `env` variables like can be done in
+[Jenkins](jenkins.md), which would lead to better deduplication of string components among different environment
+variables.
+
+You can also verify the environment variables at the start of the job in a single step using the
+Environment step below.
+
+#### Begin Workflow Jobs with an Environment Printing Step
+
+This aids in debugging as it costs nothing computationally or time wise but means that you can at any time inspect the
+environment of the job and any variables you expect to be set, whether implicitly available in the system or set by
+yourself at a top level env section as per the section above.
+
+Taken from [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) -
+[main.yaml](https://github.com/HariSekhon/GitHub-Actions/blob/master/main.yaml) template and
+[.github/workflows/*.yaml](https://github.com/HariSekhon/GitHub-Actions/tree/master/.github/workflows)
+
+```yaml
+    steps:
+      - name: Environment
+        run: |
+          echo "Environment Variables:"
+          echo
+          env | sort
+```
+
+Or if even better show if you're inside Docker and on which Linux distro and version to aid any future environment
+debugging:
+
+```yaml
+    steps:
+      - name: Environment
+        run: |
+          [ -e /.dockerenv ] && ls -l /.dockerenv
+          echo
+          cat /etc/*-release
+          echo
+          echo "Environment Variables:"
+          echo
+          env | sort
+```
+
 ## GitHub Actions vs Jenkins
 
 - GitHub Actions is fully-hosted so immediately available and bypasses most operational & governance issues where
@@ -236,6 +292,10 @@ Documentation:
 - GitHub Actions is more self-service for developers who are often already using it for their open source projects
 - GitHub Actions is supporting open-source projects the most among hosted CI/CD providers by being completely free for
   public projects, without usage limits, and Jenkins has no comparable hosted counterpart to date
+- Jenkins is more powerful and flexible at the expense of more administration due to being self-hosted. What the world
+  really needs is a cloud hosted Jenkins.
+  - Jenkins can compose environment variable from other variables like a regular programming language - GitHub Actions
+    at time of writing can't do this.
 
 I've had similar feedback from both technical player-managers, developers and DevOps colleagues.
 
