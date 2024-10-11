@@ -636,6 +636,9 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 - [Sensi Cafe](https://maps.app.goo.gl/7vMPz3KZbppy3iudA) - good looking menu, little pricey by local standards,
   outside terrace, has wifi
 
+- [Cartal](https://maps.app.goo.gl/aDCJVHnDE2z2rWKQ7) - decent food, moderate prices, small indoor bar seating,
+  all restaurant seating is outdoors, card ok until 10pm, takes only cash 10pm-12am closing time
+
 ### Latvia
 
 The sour cabbage soup in a bread bowl is the local speciality.
