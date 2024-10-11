@@ -2,12 +2,14 @@
 
 <https://www.oracle.com/>
 
-An OG of RDBMS databases with good performance, durability and PL/SQL advanced SQL.
+Widely used classic enterprise RDBMS databases with good performance, durability and PL/SQL advanced SQL.
 
 Most of this was not retained to be ported and I don't work on Oracle any more to go back and populate this.
 
 <!-- INDEX_START -->
 
+- [Key Points](#key-points)
+- [Local Login as Admin](#local-login-as-admin)
 - [SQL Scripts](#sql-scripts)
 - [SQL Developer IDE](#sql-developer-ide)
 - [Sqlplus Readline Support](#sqlplus-readline-support)
@@ -22,6 +24,40 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - [Restore table from adjacent backup table](#restore-table-from-adjacent-backup-table)
 
 <!-- INDEX_END -->
+
+## Key Points
+
+- Expensive
+- Widely used battle tested enterprise RDBMS
+- Well suited to large-scale databases
+- Good performance and optimizations
+- Good security and encryption
+- Cloud - available on major clouds as a managed database
+  - eg. [AWS](aws.md) RDS, [GCP](gcp.md) Cloud SQL, [Azure](azure.md) Database
+- SQL, and PL/SQL scripting language for querying and managing data
+- Oracle Autonomous Database automates tasks like tuning, backups, and patching using machine learning
+- High Availability - RAC (Real Application Clusters) and Data Guard offer high availability and disaster recovery
+- Clients - SQL*Plus, SQLcl, and SQL Developer for database management and development
+
+| Port | Description       |
+|------|-------------------|
+| 1521 | Oracle SQL port   |
+
+## Local Login as Admin
+
+This bypasses all authentication and logs you in as the superuser for administer the DB without needing a password.
+
+First `su` to the `oracle` user under which Oracle was installed:
+
+```shell
+sudo su - oracle
+```
+
+Then as the `oracle` user start the local `sqlplus` client like this:
+
+```shell
+sqlplus / as sysdba
+```
 
 ## SQL Scripts
 
