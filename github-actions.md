@@ -17,9 +17,9 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
   - [Serialize all workflows that commit to the same Git repo](#serialize-all-workflows-that-commit-to-the-same-git-repo)
   - [Avoid Race Condition - Do Not Tag from Moving Targets eg. `master` or `latest`](#avoid-race-condition---do-not-tag-from-moving-targets-eg-master-or-latest)
   - [Do Not Write Legacy Technical Debt Code](#do-not-write-legacy-technical-debt-code)
-    - [No More `save-state` or `set-output` commands](#no-more-save-state-or-set-output-commands)
-    - [Deduplicate Code Using Environment Variables grouped in top-level `env` section](#deduplicate-code-using-environment-variables-grouped-in-top-level-env-section)
-    - [Begin Workflow Jobs with an Environment Printing Step](#begin-workflow-jobs-with-an-environment-printing-step)
+  - [No More `save-state` or `set-output` commands](#no-more-save-state-or-set-output-commands)
+  - [Deduplicate Code Using Environment Variables grouped in top-level `env` section](#deduplicate-code-using-environment-variables-grouped-in-top-level-env-section)
+  - [Begin Workflow Jobs with an Environment Printing Step](#begin-workflow-jobs-with-an-environment-printing-step)
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
 - [Diagrams](#diagrams)
   - [GitHub Actions CI/CD to auto-(re)generate diagrams from code changes (Python)](#github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes-python)
@@ -195,7 +195,7 @@ Do not write legacy or technical debt code that will need to be changed later.
 
 Be diligent about future engineering time, whether its yours or your colleagues.
 
-#### No More `save-state` or `set-output` commands
+### No More `save-state` or `set-output` commands
 
 These old constructs will break at some point and screw some poor engineer who inherits your code.
 
@@ -223,7 +223,7 @@ Documentation:
 
 <https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/>
 
-#### Deduplicate Code Using Environment Variables grouped in top-level `env` section
+### Deduplicate Code Using Environment Variables grouped in top-level `env` section
 
 Abstract out variable things that might change like server addresses, URLs, Docker image repo paths in the top-level
 `env` section before the `jobs` section.
@@ -238,7 +238,7 @@ variables.
 You can also verify the environment variables at the start of the job in a single step using the
 Environment step below.
 
-#### Begin Workflow Jobs with an Environment Printing Step
+### Begin Workflow Jobs with an Environment Printing Step
 
 This aids in debugging as it costs nothing computationally or time wise but means that you can at any time inspect the
 environment of the job and any variables you expect to be set, whether implicitly available in the system or set by
