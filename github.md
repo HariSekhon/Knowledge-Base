@@ -35,8 +35,11 @@ click `Authorize`.
 Use Pull Requests to track changes and get peer review and approval.
 
 Keep PRs as small and atomic as possible -
-people's eyes will glaze over on big PRs resulting in approve it, allowing bad code or bugs into the repo and defeating
+people's eyes will glaze over on big PRs resulting in `lgtm` approvals out of fatigue,
+missing bad code or bugs into the repo and defeating
 the quality control of peer review.
+
+The more lines in a PR, there more likely your colleagues will miss something.
 
 ![1000 line GitHub PR](images/reviewing_1000_line_github_pull_request.jpeg)
 
