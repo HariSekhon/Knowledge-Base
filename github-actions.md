@@ -10,10 +10,14 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 - [GitHub Actions Best Practices](#github-actions-best-practices)
   - [Pin 3rd party GitHub Actions to Git Hashrefs, not tags](#pin-3rd-party-github-actions-to-git-hashrefs-not-tags)
   - [Avoid `${{ inputs }}` Shell Injection](#avoid--inputs--shell-injection)
+  - [Validate all `${{ inputs }}`](#validate-all--inputs-)
   - [Enforce Shell Error Detection for entire Workflow](#enforce-shell-error-detection-for-entire-workflow)
   - [Always Quote all Variables in Shell](#always-quote-all-variables-in-shell)
   - [Serialize Workflows with Steps sensitive to Race Conditions](#serialize-workflows-with-steps-sensitive-to-race-conditions)
   - [Serialize all workflows that commit to the same Git repo](#serialize-all-workflows-that-commit-to-the-same-git-repo)
+  - [Avoid Race Condition - Do Not Tag from Moving Targets eg. `master` or `latest`](#avoid-race-condition---do-not-tag-from-moving-targets-eg-master-or-latest)
+  - [Do Not Write Legacy Technical Debt Code](#do-not-write-legacy-technical-debt-code)
+    - [No More `save-state` or `set-output` commands](#no-more-save-state-or-set-output-commands)
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
 - [Diagrams](#diagrams)
   - [GitHub Actions CI/CD to auto-(re)generate diagrams from code changes (Python)](#github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes-python)
@@ -178,6 +182,40 @@ You can determine the Git commit hashref from a given tag like so:
 ```shell
 GIT_SHORT_SHA="$(git rev-list -n 1 --abbrev-commit "$TAG")"
 ```
+
+### Do Not Write Legacy Technical Debt Code
+
+Do not write code that will need to be changed later.
+
+Be diligent about future engineering time, whether its yours or a colleague's.
+
+#### No More `save-state` or `set-output` commands
+
+These old constructs will break at some point and screw some poor engineer who inherits your code.
+
+NO:
+
+```yaml
+- name: Save state
+run: echo "::save-state name={name}::{value}"
+
+- name: Set output
+run: echo "::set-output name={name}::{value}"
+```
+
+Yes:
+
+```yaml
+- name: Save state
+run: echo "{name}={value}" >> "$GITHUB_STATE"
+
+- name: Set output
+run: echo "{name}={value}" >> "$GITHUB_OUTPUT"
+```
+
+Documentation:
+
+<https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/>
 
 ## GitHub Actions vs Jenkins
 
