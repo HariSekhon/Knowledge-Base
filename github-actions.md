@@ -17,7 +17,7 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
   - [Serialize all workflows that commit to the same Git repo](#serialize-all-workflows-that-commit-to-the-same-git-repo)
   - [Avoid Race Condition - Do Not Tag from Moving Targets eg. `master` or `latest`](#avoid-race-condition---do-not-tag-from-moving-targets-eg-master-or-latest)
   - [Do Not Write Legacy Technical Debt Code](#do-not-write-legacy-technical-debt-code)
-  - [No More `save-state` or `set-output` commands](#no-more-save-state-or-set-output-commands)
+    - [No More `save-state` or `set-output` commands](#no-more-save-state-or-set-output-commands)
   - [Deduplicate Code Using Environment Variables grouped in top-level `env` section](#deduplicate-code-using-environment-variables-grouped-in-top-level-env-section)
   - [Begin Workflow Jobs with an Environment Printing Step](#begin-workflow-jobs-with-an-environment-printing-step)
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
@@ -195,7 +195,7 @@ Do not write legacy or technical debt code that will need to be changed later.
 
 Be diligent about future engineering time, whether its yours or your colleagues.
 
-### No More `save-state` or `set-output` commands
+#### No More `save-state` or `set-output` commands
 
 These old constructs will break at some point and screw some poor engineer who inherits your code.
 
