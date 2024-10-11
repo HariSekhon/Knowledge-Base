@@ -83,11 +83,22 @@ This will quote any shell escape sequences. This of this like SQL parameterized 
 
 In Shell step just use it as a normal enviroment variable.
 
-```properties
+```yaml
 steps:
   - name: Use Input as a normal Environment Variable
     run: echo "$MY_VAR"
 ```
+
+### Validate all `${{ inputs }}`
+
+Validate all `${{ inputs }}` contain what you expect them to contain.
+
+Eg. a directory only has alphanumeric characters and no `..` for traversal attacks.
+
+**Do not validate the `${{ inputs }}` in shell steps as per above you will introduce a code injection attack that
+precedes the evaluation of the shell step to validate it!**
+
+Instead, validate the `env` quoted content of the resulting environment variable from the section above.
 
 ### Enforce Shell Error Detection for entire Workflow
 
@@ -131,6 +142,19 @@ concurrency:
   # TODO: could possibly improve this to only serialize for the given branch
   group: my-repo-git-changes
   cancel-in-progress: false
+```
+
+### Avoid Race Condition - Do Not Tag from Moving Targets eg. `master` or `latest`
+
+These can change in between the time you trigger the call or the workflow gets to the step that uses them,
+which can lead to very confusing results when you don't get the version of code or docker image that you expected.
+
+Always work on a hashrf.
+
+You can determine the Git commit hashref from a given tag like so:
+
+```shell
+GIT_SHORT_SHA="$(git rev-list -n 1 --abbrev-commit "$TAG")"
 ```
 
 ## GitHub Actions vs Jenkins
