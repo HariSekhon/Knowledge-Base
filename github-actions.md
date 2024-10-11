@@ -185,7 +185,7 @@ GIT_SHORT_SHA="$(git rev-list -n 1 --abbrev-commit "$TAG")"
 
 ### Do Not Write Legacy Technical Debt Code
 
-Do not write code that will need to be changed later.
+Do not write legacy or technical debt code that will need to be changed later.
 
 Be diligent about future engineering time, whether its yours or a colleague's.
 
