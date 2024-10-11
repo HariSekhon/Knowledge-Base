@@ -38,6 +38,8 @@ Keep PRs as small and atomic as possible -
 people's eyes will glaze over on big PRs resulting in approve it, allowing bad code or bugs into the repo and defeating
 the quality control of peer review.
 
+![1000 line GitHub PR](images/reviewing_1000_line_github_pull_request.jpeg)
+
 ## CodeOwners
 
 [HariSekhon/Templates - .github/CODEOWNERS](https://github.com/HariSekhon/Templates/blob/master/.github/CODEOWNERS)
