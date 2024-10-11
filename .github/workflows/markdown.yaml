@@ -25,6 +25,9 @@ on:
       - main
     paths:
       - '**/*.md'
+      - .mdlrc
+      - .mdl.rb
+      - .markdownlint.rb
       - .github/workflows/markdown.yaml
   pull_request:
     branches:
@@ -32,6 +35,9 @@ on:
       - main
     paths:
       - '**/*.md'
+      - .mdlrc
+      - .mdl.rb
+      - .markdownlint.rb
       - .github/workflows/markdown.yaml
   workflow_dispatch:
 
