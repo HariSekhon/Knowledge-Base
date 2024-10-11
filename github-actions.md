@@ -187,7 +187,7 @@ GIT_SHORT_SHA="$(git rev-list -n 1 --abbrev-commit "$TAG")"
 
 Do not write legacy or technical debt code that will need to be changed later.
 
-Be diligent about future engineering time, whether its yours or a colleague's.
+Be diligent about future engineering time, whether its yours or your colleagues.
 
 #### No More `save-state` or `set-output` commands
 
