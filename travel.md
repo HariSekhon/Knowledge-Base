@@ -630,6 +630,12 @@ I ended up taking the Number 30 bus to the centre instead which was easy (again 
 because I made the mistake of not withdrawing cash before leaving the airport).
 Some of these less developed countries like Moldova and Morocco demand cash usage (probably to evade taxes).
 
+- [La Placinte](https://maps.app.goo.gl/6yVUsipRBWWSfpBp8) - affordable but good quality chain restaurant, there are
+  several of them you don't have to go to this location
+
+- [Sensi Cafe](https://maps.app.goo.gl/7vMPz3KZbppy3iudA) - good looking menu, little pricey by local standards,
+  outside terrace, has wifi
+
 ### Latvia
 
 The sour cabbage soup in a bread bowl is the local speciality.
