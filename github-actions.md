@@ -242,7 +242,7 @@ Environment step below.
 
 This aids in debugging as it costs nothing computationally or time wise but means that you can at any time inspect the
 environment of the job and any variables you expect to be set, whether implicitly available in the system or set by
-yourself at a top level env section as per the section above.
+yourself at a top level `env` section as per the section above.
 
 Taken from [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) -
 [main.yaml](https://github.com/HariSekhon/GitHub-Actions/blob/master/main.yaml) template and
