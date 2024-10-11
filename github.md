@@ -43,6 +43,10 @@ The more lines in a PR, there more likely your colleagues will miss something.
 
 ![1000 line GitHub PR](images/reviewing_1000_line_github_pull_request.jpeg)
 
+Hopefully your more thorough 'rainman' coding bro comes along and revokes the approval.
+
+![Review 1 vs Reviewer 2](images/github_pull_request_reviewer_1_vs_2.jpg)
+
 ## CodeOwners
 
 [HariSekhon/Templates - .github/CODEOWNERS](https://github.com/HariSekhon/Templates/blob/master/.github/CODEOWNERS)
