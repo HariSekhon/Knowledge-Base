@@ -121,6 +121,22 @@ defaults:
 This is basic shell scripting best practice in case your shell commands or variables end up containing an unexpected
 space or other character that will otherwise break shell interpretation and lead to unexpected results.
 
+NO:
+
+```shell
+var=$(somecommand)
+
+echo $var
+```
+
+Yes:
+
+```shell
+var="$(somecommand)"
+
+echo "$var"
+```
+
 ### Serialize Workflows with Steps sensitive to Race Conditions
 
 Taken from [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) `main.yaml` template and
