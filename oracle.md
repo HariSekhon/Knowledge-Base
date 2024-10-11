@@ -16,6 +16,8 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - [Investigate table](#investigate-table)
 - [Backup Table to adjacent backup table](#backup-table-to-adjacent-backup-table)
 - [Space Clean Up](#space-clean-up)
+  - [Purge Recyclebin](#purge-recyclebin)
+  - [Purge DBA Recyclebin](#purge-dba-recyclebin)
   - [Shrink Table](#shrink-table)
 - [Restore table from adjacent backup table](#restore-table-from-adjacent-backup-table)
 
@@ -97,6 +99,44 @@ CREATE TABLE mytable_backup AS SELECT * FROM  mytable;
 <!-- -->
 
 - shrink tables / tablespaces
+
+### Purge Recyclebin
+
+```sql
+SHOW RECYCLEBIN;
+```
+
+```sql
+PURGE RECYCLEBIN;
+```
+
+```sql
+SHOW RECYCLEBIN;
+```
+
+To only purge the recyclebin for a given table:
+
+```sql
+PURGE DBA_RECYCLEBIN;
+```
+
+### Purge DBA Recyclebin
+
+This is for all user's recyclebins.
+
+Use
+[oracle_show_dba_recyclebin.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_show_dba_recyclebin.sql)
+to see the recyclebin contents for all users.
+
+Then purge it:
+
+```sql
+PURGE DBA_RECYCLEBIN;
+```
+
+Then re-run
+[oracle_show_dba_recyclebin.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_show_dba_recyclebin.sql)
+to check.
 
 ### Shrink Table
 
