@@ -46,6 +46,7 @@ API code for many of the following technologies can also be found in my
 - [Portable Code Design](#portable-code-design)
 - [Code Quality](#code-quality)
 - [Diagram - CI/CD Pipeline Explained](#diagram---cicd-pipeline-explained)
+- [Only the Athenians exist... I mean... only Jenkins and GitHub Actions exist...](#only-the-athenians-exist-i-mean-only-jenkins-and-github-actions-exist)
 
 <!-- INDEX_END -->
 
@@ -313,5 +314,25 @@ See [Code Quality](code-quality.md).
 ## Diagram - CI/CD Pipeline Explained
 
 ![CI/CD Pipelines Explained](images/ci-cd-pipeline.gif)
+
+## Only the Athenians exist... I mean... only Jenkins and GitHub Actions exist...
+
+... and [only stout wooden ships can save them](https://www.imdb.com/title/tt1253863/)...
+
+... I mean... only strongly opinionated Senior Engineers can the best CI/CD...
+
+![Jenkins and GitHub Actions Only](images/jenkins_github_actions.png)
+
+If companies want to run GitHub Actions I’ll implement that for them.
+
+If companies want to run Jenkins on Kubernetes with autoscaling and cool Groovy libraries I’ll implement that for them.
+
+If companies want to run one of the other 20 odd legacy CI/CD systems I’ll look for a new job. 😂
+
+ps. I have good GitHub repos for both here:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
 
 **Ported from private Knowledge Base page 2014+**
