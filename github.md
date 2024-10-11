@@ -5,6 +5,7 @@ NOT PORTED YET
 <!-- INDEX_START -->
 
 - [GitHub SSH Key SSO Authorization](#github-ssh-key-sso-authorization)
+- [Pull Requests](#pull-requests)
 - [CodeOwners](#codeowners)
   - [CodeOwners Gotcha - Secret Teams](#codeowners-gotcha---secret-teams)
 - [GitHub Profile Page](#github-profile-page)
@@ -28,6 +29,14 @@ On the right of each key, click the `Configure SSO` drop-down and then next to t
 click `Authorize`.
 
 <https://docs.github.com/en/enterprise-cloud@latest/authentication/authenticating-with-saml-single-sign-on/authorizing-an-ssh-key-for-use-with-saml-single-sign-on>
+
+## Pull Requests
+
+Use Pull Requests to track changes and get peer review and approval.
+
+Keep PRs as small and atomic as possible -
+people's eyes will glaze over on big PRs resulting in approve it, allowing bad code or bugs into the repo and defeating
+the quality control of peer review.
 
 ## CodeOwners
 
