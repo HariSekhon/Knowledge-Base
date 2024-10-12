@@ -49,7 +49,9 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 
 <https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html>
 
-If you have [DevOps-Bash-tools](devops-bash-tools.md) this is automated:
+If you have [DevOps-Bash-tools](devops-bash-tools.md) you can use this automated script below.
+
+This will give you everything - SQL*Plus, JDBC, ODBC, SDK and Tools:
 
 ```shell
 install_oracle_client.sh
