@@ -234,6 +234,23 @@ nl
   command on the previous file operated on
 - `!:n*` - takes the Nth arg to the end from the last command
 
+### Readline Support - `rlwrap`
+
+Add readline support (command history - the ability to press `Up`-`Enter` to re-execute previous commands)
+to tools that lack it like [Oracle](oracle.md)'s SQL*Plus.
+
+Prefix any command with `rlwrap`:
+
+```properties
+rlwrap <command>
+```
+
+This works by intercepting user input and storing it
+and replacing it when you press Up or Down giving you essentially command history.
+
+This is usually available in the `rlwrap` package on [RHEL](redhat.md) and [Debian](debian.md)-based Linux systems
+and [brew](brew.md) on Mac.
+
 ## Debugging
 
 ### Shell executing tracing
