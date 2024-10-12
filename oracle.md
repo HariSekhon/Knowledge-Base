@@ -19,7 +19,14 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - [Get Oracle Version](#get-oracle-version)
 - [List Tablespaces](#list-tablespaces)
 - [List Tables](#list-tables)
+- [List Users](#list-users)
+- [Show your Currently Connected Username](#show-your-currently-connected-username)
+- [Show Tables Owned by Currently Connected User](#show-tables-owned-by-currently-connected-user)
+- [Show the Privileges of the Currently Connected User](#show-the-privileges-of-the-currently-connected-user)
+- [Show Privileges of All Users](#show-privileges-of-all-users)
+- [Show Expired Passwords](#show-expired-passwords)
 - [Alter User Password](#alter-user-password)
+- [Show DB Configuration Parameters](#show-db-configuration-parameters)
 - [Get Table DDL](#get-table-ddl)
 - [Investigate table](#investigate-table)
 - [Backup Table to adjacent backup table](#backup-table-to-adjacent-backup-table)
@@ -169,6 +176,44 @@ SELECT owner, table_name FROM dba_tables;
 SELECT username, user_id, password, account_status, lock_date, expiry_date, profile, last_login FROM dba_users;
 ```
 
+## Show your Currently Connected Username
+
+User role assumed:
+
+```sql
+SELECT USER FROM dual;
+```
+
+User originally connected as:
+
+```sql
+SELECT CURRENT_USER FROM dual;
+```
+
+## Show Tables Owned by Currently Connected User
+
+```sql
+SELECT table_name FROM all_tables WHERE owner = USER;
+```
+
+## Show the Privileges of the Currently Connected User
+
+```sql
+SELECT * FROM user_sys_privs;
+```
+
+## Show Privileges of All Users
+
+```sql
+SELECT grantee, privilege FROM dba_sys_privs ORDER BY grantee;
+```
+
+## Show Expired Passwords
+
+```sql
+SELECT username, account_status FROM dba_users WHERE account_status LIKE '%EXPIRED%';
+```
+
 ## Alter User Password
 
 ```sql
@@ -176,6 +221,12 @@ ALTER USER spacewalk IDENTIFIED BY test;
 -- or prompts for a new password
 -- also allows for chars like ! which aren't liked on the alter user statement
 --PASSWORD
+```
+
+## Show DB Configuration Parameters
+
+```sql
+SELECT name, value FROM v$parameter;
 ```
 
 ## Get Table DDL
