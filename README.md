@@ -315,6 +315,7 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [Scala](scala.md) TODO
   - [Jython](python.md#jython)
   - [JRuby](ruby.md#jruby)
+  - [SDKman](sdkman.md)
   - [log4j](log4j.md)
 - [APIs](api.md)
 - [Regular Expressions](regex.md)
