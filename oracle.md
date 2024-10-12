@@ -144,7 +144,8 @@ Use the `rlwrap` readline wrapper command in front of `sqlplus` to get command h
 rlwrap sqlplus <user>/<pass>@<fqdn>/<sid>
 ```
 
-This is usually available in the `rlwrap` package on RHEL and Debian-based Linux systems and [brew](brew.md) on Mac.
+This is usually available in the `rlwrap` package on [RHEL](redhat.md) and [Debian](debian.md)-based Linux systems
+and [brew](brew.md) on Mac.
 
 ## SQL
 
