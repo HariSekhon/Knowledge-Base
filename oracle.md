@@ -163,6 +163,12 @@ The `owner` is the schema, also known as the database in other RBDMS systems.
 SELECT owner, table_name FROM dba_tables;
 ```
 
+## List Users
+
+```sql
+SELECT username, user_id, password, account_status, lock_date, expiry_date, profile, last_login FROM dba_users;
+```
+
 ## Alter User Password
 
 ```sql
