@@ -13,6 +13,7 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - [Local Login as Admin](#local-login-as-admin)
 - [SQL Scripts](#sql-scripts)
 - [Connecting to Oracle - TNS Listener & SID](#connecting-to-oracle---tns-listener--sid)
+- [SQLcl command line client](#sqlcl-command-line-client)
 - [SQL Developer IDE](#sql-developer-ide)
   - [Install SQL Developer](#install-sql-developer)
   - [Using SQL Developer](#using-sql-developer)
@@ -115,6 +116,18 @@ Scripts for DBA administration and performance engineering:
 
 Check the `TNS Listener` configuration for what `SID` the Oracle DB expects you to connect to otherwise it'll reject your
 connection.
+
+## SQLcl command line client
+
+<https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/download/>
+
+Newer alternative to the classic SQL*Plus command line Oracle client.
+
+Quickly from [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+install_oracle_sqlcl.sh
+```
 
 ## SQL Developer IDE
 
