@@ -122,6 +122,7 @@ Using:
 
 gradle: 7.3.3
 groovy: 4.0.0
+java: 21.0.4-tem
 jbang: 0.119.0
 maven: 3.8.4
 sbt: 1.6.2
