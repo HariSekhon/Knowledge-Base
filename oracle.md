@@ -20,6 +20,7 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
   - [Get Oracle Version](#get-oracle-version)
   - [List Tablespaces](#list-tablespaces)
   - [List Tables](#list-tables)
+  - [Count Tables per Tablespace](#count-tables-per-tablespace)
   - [List Users](#list-users)
   - [Show your Currently Connected Username](#show-your-currently-connected-username)
   - [Show Tables Owned by Currently Connected User](#show-tables-owned-by-currently-connected-user)
@@ -186,6 +187,20 @@ WHERE
     tablespace_name NOT IN ('SYSTEM', 'SYSAUX', 'RDSADMIN')
 ORDER BY
     tablespace_name, table_name;
+```
+
+### Count Tables per Tablespace
+
+```sql
+SELECT
+    tablespace_name,
+    count(1) as NUM_TABLES
+FROM
+    all_tables
+GROUP BY
+    tablespace_name
+ORDER BY
+    NUM_TABLES DESC;
 ```
 
 ### List Users
