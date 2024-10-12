@@ -138,14 +138,13 @@ when on the Query Builder line to quickly execute the SQL without having to clic
 
 ## SQL*Plus Readline Support
 
-Use readline wrapper in front of `sqlplus` to get command history:
+Use the `rlwrap` readline wrapper command in front of `sqlplus` to get command history:
 
 ```shell
-rlwrap sqlplus user/pass@database
+rlwrap sqlplus <user>/<pass>@<fqdn>/<sid>
 ```
 
-`rlwrap` does segfault so you may want to stop using it in certain cases, like with logon prompts or when using password
-below.
+This is usually available in the `rlwrap` package on RHEL and Debian-based Linux systems and [brew](brew.md) on Mac.
 
 ## SQL
 
