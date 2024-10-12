@@ -633,11 +633,20 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 - [La Placinte](https://maps.app.goo.gl/6yVUsipRBWWSfpBp8) - affordable but good quality chain restaurant, there are
   several of them you don't have to go to this location
 
-- [Sensi Cafe](https://maps.app.goo.gl/7vMPz3KZbppy3iudA) - good looking menu, little pricey by local standards,
+- [Andy's](https://maps.app.goo.gl/Fewkr3FsDjW2rZfUA) - affordable chain, the central one is 24x7 and packed at midnight
+  on a Saturday as one of the few late night places available.
+
+- [Sensei Cafe](https://maps.app.goo.gl/7vMPz3KZbppy3iudA) - good looking menu, little pricey by local standards,
   outside terrace, has wifi
 
 - [Cartal](https://maps.app.goo.gl/aDCJVHnDE2z2rWKQ7) - decent food, moderate prices, small indoor bar seating,
   all restaurant seating is outdoors, card ok until 10pm, takes only cash 10pm-12am closing time
+
+- [Daily Dose](https://maps.app.goo.gl/LoncFKxbs6hvBCwJ6) - busy trendy late night cocktails and desserts venue,
+  no hot drinks for late night workers
+
+- [Amor Amar](https://maps.app.goo.gl/EroDq4vsNi2Zzd78A) - trendy small late night drinks & dessert venue with good
+  music, slightly expensive due to late night premium open until 2am
 
 - [Grill House](https://maps.app.goo.gl/WBD1c5GHKspgDf8A6) - established in 1995, decent quality, price `£££` -
   the traditional Georgian soup Kharcho with veal is slightly spicey but very good and much bigger than anticipated,
