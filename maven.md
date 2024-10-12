@@ -30,6 +30,7 @@ package files.
 - [Test](#test)
 - [Taken from HBase](#taken-from-hbase)
 - [Maven Eclipse support](#maven-eclipse-support)
+- [JBang](#jbang)
 - [Pomchecker](#pomchecker)
 
 <!-- INDEX_END -->
@@ -478,7 +479,54 @@ mvn deploy:deploy-file -Durl=file://$PWD/../repo \
                        -Dversion=1.0
 ```
 
+## JBang
+
+<https://www.jbang.dev/>
+
+Packages executable self-contained source-only Java programs.
+
+Install using [SDKman](sdkman.md):
+
+```shell
+sdk install jbang
+```
+
+Create a source code CLI program:
+
+```shell
+jbang init -t cli hellocli.java
+```
+
+Reading the source code it shebangs `jbang` and annotates the class with some metadata for jbang.
+
+The first run downloads the dependencies mentioned in the source code
+
+```shell
+$ ./hellocli.java --help
+[jbang] Resolving dependencies...
+[jbang]    info.picocli:picocli:4.6.3
+[jbang] Dependencies resolved
+[jbang] Building jar for hellocli.java...
+Usage: hellocli [-hV] <greeting>
+hellocli made with jbang
+      <greeting>   The greeting to print
+  -h, --help       Show this help message and exit.
+  -V, --version    Print version information and exit.
+```
+
+```shell
+$ ./hellocli.java JBANG!
+Hello JBANG!
+```
+
+Automatic fetches any dependencies referenced in the source code using `//DEPS group:artifact:version` comments
+or `@Grab` annotations.
+
+Even downloads a JDK
+
 ## Pomchecker
+
+:octocat: [kordamp/pomchecker](https://github.com/kordamp/pomchecker)
 
 Install using [SDKman](sdkman.md):
 
