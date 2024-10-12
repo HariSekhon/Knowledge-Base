@@ -59,6 +59,17 @@ This will give you everything - SQL*Plus, JDBC, ODBC, SDK and Tools:
 install_oracle_client.sh
 ```
 
+If you get this RPM install error:
+
+```none
+Error: Invalid version flag: or
+```
+
+Install an older version.
+
+See [Oracle Client Install Error](#oracle-client-install-error-invalid-version-flag-or)
+in Troubleshooting section at end.
+
 ## Local Login as Admin
 
 This bypasses all authentication and logs you in as the superuser for administer the DB without needing a password.
