@@ -15,21 +15,22 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - [Connecting to Oracle - TNS Listener & SID](#connecting-to-oracle---tns-listener--sid)
 - [SQL Developer IDE](#sql-developer-ide)
   - [Install SQL Developer](#install-sql-developer)
-- [Sqlplus Readline Support](#sqlplus-readline-support)
-- [Get Oracle Version](#get-oracle-version)
-- [List Tablespaces](#list-tablespaces)
-- [List Tables](#list-tables)
-- [List Users](#list-users)
-- [Show your Currently Connected Username](#show-your-currently-connected-username)
-- [Show Tables Owned by Currently Connected User](#show-tables-owned-by-currently-connected-user)
-- [Show the Privileges of the Currently Connected User](#show-the-privileges-of-the-currently-connected-user)
-- [Show Privileges of All Users](#show-privileges-of-all-users)
-- [Show Expired Passwords](#show-expired-passwords)
-- [Alter User Password](#alter-user-password)
-- [Show DB Configuration Parameters](#show-db-configuration-parameters)
-- [Get Table DDL](#get-table-ddl)
-- [Investigate table](#investigate-table)
-- [Backup Table to adjacent backup table](#backup-table-to-adjacent-backup-table)
+- [SQL*Plus Readline Support](#sqlplus-readline-support)
+- [SQL](#sql)
+  - [Get Oracle Version](#get-oracle-version)
+  - [List Tablespaces](#list-tablespaces)
+  - [List Tables](#list-tables)
+  - [List Users](#list-users)
+  - [Show your Currently Connected Username](#show-your-currently-connected-username)
+  - [Show Tables Owned by Currently Connected User](#show-tables-owned-by-currently-connected-user)
+  - [Show the Privileges of the Currently Connected User](#show-the-privileges-of-the-currently-connected-user)
+  - [Show Privileges of All Users](#show-privileges-of-all-users)
+  - [Show Expired Passwords](#show-expired-passwords)
+  - [Alter User Password](#alter-user-password)
+  - [Show DB Configuration Parameters](#show-db-configuration-parameters)
+  - [Get Table DDL](#get-table-ddl)
+  - [Investigate table](#investigate-table)
+  - [Backup Table to adjacent backup table](#backup-table-to-adjacent-backup-table)
 - [Space Clean Up](#space-clean-up)
   - [Purge Recyclebin](#purge-recyclebin)
   - [Purge DBA Recyclebin](#purge-dba-recyclebin)
@@ -135,7 +136,7 @@ install_oracle_sql_developer.sh
 Hit `Cmd`-`Enter` or `Ctrl`-`Enter`
 when on the Query Builder line to quickly execute the SQL without having to click the green triangle run button.
 
-## Sqlplus Readline Support
+## SQL*Plus Readline Support
 
 Use readline wrapper in front of `sqlplus` to get command history:
 
@@ -146,7 +147,9 @@ rlwrap sqlplus user/pass@database
 `rlwrap` does segfault so you may want to stop using it in certain cases, like with logon prompts or when using password
 below.
 
-## Get Oracle Version
+## SQL
+
+### Get Oracle Version
 
 ```sql
 SELECT * FROM v$version;
@@ -156,13 +159,13 @@ SELECT * FROM v$version;
 Oracle Database 19c Standard Edition 2 Release 19.0.0.0.0 - Production
 ```
 
-## List Tablespaces
+### List Tablespaces
 
 ```sql
 SELECT tablespace_name, status, contents, logging FROM dba_tablespaces;
 ```
 
-## List Tables
+### List Tables
 
 The `owner` is the schema, also known as the database in other RBDMS systems.
 
@@ -170,13 +173,13 @@ The `owner` is the schema, also known as the database in other RBDMS systems.
 SELECT owner, table_name FROM dba_tables;
 ```
 
-## List Users
+### List Users
 
 ```sql
 SELECT username, user_id, password, account_status, lock_date, expiry_date, profile, last_login FROM dba_users;
 ```
 
-## Show your Currently Connected Username
+### Show your Currently Connected Username
 
 User role assumed:
 
@@ -190,31 +193,31 @@ User originally connected as:
 SELECT CURRENT_USER FROM dual;
 ```
 
-## Show Tables Owned by Currently Connected User
+### Show Tables Owned by Currently Connected User
 
 ```sql
 SELECT table_name FROM all_tables WHERE owner = USER;
 ```
 
-## Show the Privileges of the Currently Connected User
+### Show the Privileges of the Currently Connected User
 
 ```sql
 SELECT * FROM user_sys_privs;
 ```
 
-## Show Privileges of All Users
+### Show Privileges of All Users
 
 ```sql
 SELECT grantee, privilege FROM dba_sys_privs ORDER BY grantee;
 ```
 
-## Show Expired Passwords
+### Show Expired Passwords
 
 ```sql
 SELECT username, account_status FROM dba_users WHERE account_status LIKE '%EXPIRED%';
 ```
 
-## Alter User Password
+### Alter User Password
 
 ```sql
 ALTER USER spacewalk IDENTIFIED BY test;
@@ -223,13 +226,13 @@ ALTER USER spacewalk IDENTIFIED BY test;
 --PASSWORD
 ```
 
-## Show DB Configuration Parameters
+### Show DB Configuration Parameters
 
 ```sql
 SELECT name, value FROM v$parameter;
 ```
 
-## Get Table DDL
+### Get Table DDL
 
 Without these doesn't give full show create table output:
 
@@ -242,13 +245,17 @@ SET LONG 1000;
 SELECT dbms_metadata.get_ddl('TABLE', 'myTable', 'mySchema') FROM DUAL;
 ```
 
-## Investigate table
+### Investigate table
 
 ```sql
 SELECT MIN(row_id), MAX(row_id) FROM myTable;
 ```
 
-## Backup Table to adjacent backup table
+```sql
+SELECT MIN(mycolumn), MAX(mycolumn), AVG(mycolumn) FROM myTable;
+```
+
+### Backup Table to adjacent backup table
 
 Do this before any risky operations or shrinking tables:
 
