@@ -97,7 +97,7 @@ Scripts for DBA administration and performance engineering:
 
 ## Connecting to Oracle - TNS Listener & SID
 
-Check the TNS Listener configuration for what `SID` the Oracle DB expects you to connect to otherwise it'll reject your
+Check the `TNS Listener` configuration for what `SID` the Oracle DB expects you to connect to otherwise it'll reject your
 connection.
 
 ## SQL Developer IDE
