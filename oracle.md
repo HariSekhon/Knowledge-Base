@@ -35,6 +35,8 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - [Space Clean Up](#space-clean-up)
   - [Purge Recyclebin](#purge-recyclebin)
   - [Purge DBA Recyclebin](#purge-dba-recyclebin)
+  - [Investigate Tablespaces Space](#investigate-tablespaces-space)
+  - [Investigate Big Tables with Free Space](#investigate-big-tables-with-free-space)
   - [Shrink Table](#shrink-table)
 - [Restore table from adjacent backup table](#restore-table-from-adjacent-backup-table)
 - [Troubleshooting](#troubleshooting)
@@ -343,7 +345,13 @@ Then re-run
 [oracle_show_dba_recyclebin.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_show_dba_recyclebin.sql)
 to check.
 
-### Find Big Table with Free Space in Datafiles
+### Investigate Tablespaces Space
+
+[HariSekhon/SQL-scripts - oracle_tablespace_space.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_tablespace_space.sql)
+
+[HariSekhon/SQL-scripts - oracle_tablespace_space2.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_tablespace_space2.sql)
+
+### Investigate Big Tables with Free Space
 
 [HariSekhon/SQL-scripts - oracle_table_space.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_table_space.sql)
 
