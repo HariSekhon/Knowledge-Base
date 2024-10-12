@@ -9,6 +9,7 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 <!-- INDEX_START -->
 
 - [Key Points](#key-points)
+- [Install Oracle Client Packages](#install-oracle-client-packages)
 - [Local Login as Admin](#local-login-as-admin)
 - [SQL Scripts](#sql-scripts)
 - [SQL Developer IDE](#sql-developer-ide)
@@ -43,6 +44,16 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 | Port | Description       |
 |------|-------------------|
 | 1521 | Oracle SQL port   |
+
+## Install Oracle Client Packages
+
+<https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html>
+
+If you have [DevOps-Bash-tools](devops-bash-tools.md) this is automated:
+
+```shell
+install_oracle_client.sh
+```
 
 ## Local Login as Admin
 
