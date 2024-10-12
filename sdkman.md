@@ -116,7 +116,9 @@ sdk use java <version>
 sdk current
 ```
 
-output:
+(or `sdk c`)
+
+Output:
 
 ```none
 Using:
