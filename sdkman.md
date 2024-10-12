@@ -2,7 +2,8 @@
 
 SDK Manager installs and manages multiple versions od JDKs .
 
-Originally it was just for JDK languages and build systems, but has in recent years extended to:
+Originally it was just for JDK languages and their main build systems,
+but has in recent years extended to a wider list of support technologies:
 
 - JDK languages - Java, Groovy, Scala, Kotlin
 - JDK related build systems - Maven, Gradle, SBT, Ant
