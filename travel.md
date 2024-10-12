@@ -640,9 +640,12 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
   all restaurant seating is outdoors, card ok until 10pm, takes only cash 10pm-12am closing time
 
 - [Grill House](https://maps.app.goo.gl/WBD1c5GHKspgDf8A6) - established in 1995, decent quality, price `£££` -
-  the traditional Georgian soup Hacro slightly spicey is good but much bigger than anticipated,
-  cheesecake was good, and steak was decent.
-  For non-alcoholics with a sweet tooth the Compot fruit juice drink is recommended.
+  the traditional Georgian soup Kharcho with veal is slightly spicey but very good and much bigger than anticipated,
+  watch out you can still handle your main.
+  New York Cheesecake was good, and fillet steak was decent but far from the best I've had internationally.
+  For non-alcoholics with a sweet tooth the local Compot fruit juice drink is recommended,
+  I had 3 of them and was probably well over my sugar intake a result.
+  Regarding, steak on a price trade off I'd probably try one of the other steak places next time.
 
 ### Latvia
 
