@@ -4,12 +4,22 @@ NOT PORTED YET.
 
 <!-- INDEX_START -->
 
+- [Books](#books)
+- [Install and Manage Multiple Versions of Java at the same time](#install-and-manage-multiple-versions-of-java-at-the-same-time)
 - [Show Java Classpath](#show-java-classpath)
 - [Inspect JAR contents](#inspect-jar-contents)
 - [Java Decompilers](#java-decompilers)
 - [Clojure](#clojure)
 
 <!-- INDEX_END -->
+
+## Books
+
+[Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+
+## Install and Manage Multiple Versions of Java at the same time
+
+See [SDKman](sdkman.md) page.
 
 ## Show Java Classpath
 
