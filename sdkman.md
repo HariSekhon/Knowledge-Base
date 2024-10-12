@@ -132,10 +132,6 @@ scala: 3.1.1
 ### Delete a version of Java JDK installed
 
 ```shell
-sdk rm java 17.0.1-tem
-```
-
-```shell
 sdk rm java 21.0.4-tem
 ```
 
