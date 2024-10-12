@@ -6,8 +6,8 @@ Originally it was just for JDK languages and build systems, but has in recent ye
 
 - JDK languages - Java, Groovy, Scala, Kotlin
 - JDK related build systems - Maven, Gradle, SBT, Ant
-- JDK based frameworks - Grails, Spring Boot
-- JDK based products - [Hadoop](hadoop.md), [Spark](spark.md), Flink, ActiveMQ, Tomcat, JMeter etc.
+- JDK based frameworks - Grails, Spring Boot, JBang
+- JDK based products - [Hadoop](hadoop.md), [Spark](spark.md), Flink, ActiveMQ, Tomcat, JMeter, VisualVM etc.
 
 <!-- INDEX_START -->
 
@@ -122,7 +122,7 @@ Using:
 
 gradle: 7.3.3
 groovy: 4.0.0
-java: 21.0.4-tem
+jbang: 0.119.0
 maven: 3.8.4
 sbt: 1.6.2
 scala: 3.1.1
