@@ -24,6 +24,8 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
   - [Purge DBA Recyclebin](#purge-dba-recyclebin)
   - [Shrink Table](#shrink-table)
 - [Restore table from adjacent backup table](#restore-table-from-adjacent-backup-table)
+- [Troubleshooting](#troubleshooting)
+  - [Oracle Client Install `Error: Invalid version flag: or`](#oracle-client-install-error-invalid-version-flag-or)
 
 <!-- INDEX_END -->
 
@@ -239,5 +241,15 @@ Then restore the rows from the backup table:
 ```sql
 INSERT INTO mytable SELECT * FROM mytable_backup;
 ```
+
+## Troubleshooting
+
+### Oracle Client Install `Error: Invalid version flag: or`
+
+This happens on Amazon Linux 2 with the latest Oracle Client version 23.
+
+**Workaround**: Install Oracle Client 21 instead.
+
+<!-- -->
 
 **Mostly unretained 2005-2009**
