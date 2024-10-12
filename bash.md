@@ -245,8 +245,8 @@ Prefix any command with `rlwrap`:
 rlwrap <command>
 ```
 
-This works by intercepting user input and storing it
-and replacing it when you press Up or Down giving you essentially command history.
+This works by intercepting user input and storing it and replacing it when you press `Up` or `Down`,
+essentially giving you command history.
 
 This is usually available in the `rlwrap` package on [RHEL](redhat.md) and [Debian](debian.md)-based Linux systems
 and [brew](brew.md) on Mac.
