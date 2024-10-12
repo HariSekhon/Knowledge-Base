@@ -404,6 +404,6 @@ This happens on Amazon Linux 2 with the latest Oracle Client version 23.
 
 **Workaround**: Install Oracle Client 21 instead.
 
-<!-- -->
+<br>
 
-**Mostly unretained 2005-2009**
+**Partial dump from memory because I didn't have many notes retained from my Oracle DBA time in 2005-2009**
