@@ -1,15 +1,13 @@
 # SDKman
 
-SDK Manager installs and manages multiple versions od JDKs for things like Java,
-Groovy, Scala, Kotlin and related build systems Maven, Gradle, SBT, Ant etc.
+SDK Manager installs and manages multiple versions od JDKs .
 
-It has in recent years even extended to some Java-based products like
-[Hadoop](hadoop.md),
-Flink,
-ActiveMQ,
-Grails,
-Tomcat,
-JMeter
+Originally it was just for JDK languages and build systems, but has in recent years extended to:
+
+- JDK languages - Java, Groovy, Scala, Kotlin
+- JDK related build systems - Maven, Gradle, SBT, Ant
+- JDK based frameworks - Grails, Spring Boot
+- JDK based products - [Hadoop](hadoop.md), [Spark](spark.md), Flink, ActiveMQ, Tomcat, JMeter etc.
 
 <!-- INDEX_START -->
 
@@ -63,7 +61,7 @@ Future shells will then automatically call `/Users/hari/.sdkman/bin/sdkman-init.
 early in your `$PATH` list to default to using whatever version of each SDK SDKman has installed and switched to
 internally via symlinks in each case to:
 
-```
+```none
 /Users/hari/.sdkman/candidates/<name>/<version>
 ```
 
