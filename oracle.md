@@ -15,6 +15,8 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - [Connecting to Oracle - TNS Listener & SID](#connecting-to-oracle---tns-listener--sid)
 - [SQL Developer IDE](#sql-developer-ide)
   - [Install SQL Developer](#install-sql-developer)
+  - [Using SQL Developer](#using-sql-developer)
+    - [Execute Shortcut](#execute-shortcut)
 - [SQL*Plus Readline Support](#sqlplus-readline-support)
 - [SQL](#sql)
   - [Get Oracle Version](#get-oracle-version)
@@ -136,8 +138,15 @@ Quickly from [DevOps-Bash-tools](devops-bash-tools.md):
 install_oracle_sql_developer.sh
 ```
 
-Hit `Cmd`-`Enter` or `Ctrl`-`Enter`
-when on the Query Builder line to quickly execute the SQL without having to click the green triangle run button.
+This will even auto-open it for you on Mac.
+
+### Using SQL Developer
+
+#### Execute Shortcut
+
+Hit `Cmd`-`Enter` (Windows) or `Ctrl`-`Enter` (Mac) when the cursor is on a query in the Query Builder SQL Worksheet to
+quickly execute the SQL statement (must be ended with a semi-colon `;` to separate it from the next query)
+without having to click the green triangle run button.
 
 ## SQL*Plus Readline Support
 
