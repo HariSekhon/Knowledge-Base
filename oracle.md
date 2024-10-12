@@ -16,6 +16,9 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - [SQL Developer IDE](#sql-developer-ide)
   - [Install SQL Developer](#install-sql-developer)
 - [Sqlplus Readline Support](#sqlplus-readline-support)
+- [Get Oracle Version](#get-oracle-version)
+- [List Tablespaces](#list-tablespaces)
+- [List Tables](#list-tables)
 - [Alter User Password](#alter-user-password)
 - [Get Table DDL](#get-table-ddl)
 - [Investigate table](#investigate-table)
@@ -122,6 +125,9 @@ Quickly from [DevOps-Bash-tools](devops-bash-tools.md):
 install_oracle_sql_developer.sh
 ```
 
+Hit `Cmd`-`Enter` or `Ctrl`-`Enter`
+when on the Query Builder line to quickly execute the SQL without having to click the green triangle run button.
+
 ## Sqlplus Readline Support
 
 Use readline wrapper in front of `sqlplus` to get command history:
@@ -132,6 +138,30 @@ rlwrap sqlplus user/pass@database
 
 `rlwrap` does segfault so you may want to stop using it in certain cases, like with logon prompts or when using password
 below.
+
+## Get Oracle Version
+
+```sql
+SELECT * FROM v$version;
+```
+
+```none
+Oracle Database 19c Standard Edition 2 Release 19.0.0.0.0 - Production
+```
+
+## List Tablespaces
+
+```sql
+SELECT tablespace_name, status, contents, logging FROM dba_tablespaces;
+```
+
+## List Tables
+
+The `owner` is the schema, also known as the database in other RBDMS systems.
+
+```sql
+SELECT owner, table_name FROM dba_tables;
+```
 
 ## Alter User Password
 
