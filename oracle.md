@@ -12,6 +12,7 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - [Install Oracle Client Packages](#install-oracle-client-packages)
 - [Local Login as Admin](#local-login-as-admin)
 - [SQL Scripts](#sql-scripts)
+- [Connecting to Oracle - TNS Listener & SID](#connecting-to-oracle---tns-listener--sid)
 - [SQL Developer IDE](#sql-developer-ide)
   - [Install SQL Developer](#install-sql-developer)
 - [Sqlplus Readline Support](#sqlplus-readline-support)
@@ -93,6 +94,11 @@ Scripts for DBA administration and performance engineering:
 [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=SQL-scripts&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/SQL-scripts)
+
+## Connecting to Oracle - TNS Listener & SID
+
+Check the TNS Listener configuration for what `SID` the Oracle DB expects you to connect to otherwise it'll reject your
+connection.
 
 ## SQL Developer IDE
 
