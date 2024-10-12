@@ -522,7 +522,7 @@ Hello JBANG!
 Automatic fetches any dependencies referenced in the source code using `//DEPS group:artifact:version` comments
 or `@Grab` annotations.
 
-Even downloads a JDK
+Even downloads a JDK if needed.
 
 ## Pomchecker
 
