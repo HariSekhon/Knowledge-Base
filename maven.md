@@ -524,6 +524,13 @@ or `@Grab` annotations.
 
 Even downloads a JDK if needed.
 
+This makes portable Java scripting easier.
+
+See also [Groovy](groovy.md) which is one of my favourite languages and wish I had more excuses to code it in other
+than:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
+
 ## Pomchecker
 
 :octocat: [kordamp/pomchecker](https://github.com/kordamp/pomchecker)
