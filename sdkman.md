@@ -17,12 +17,14 @@ but has in recent years extended to a wider list of support technologies:
 - [Using SDKman](#using-sdkman)
   - [Help](#help)
   - [Update list of SDKs available to install:](#update-list-of-sdks-available-to-install)
+  - [List all products SDKman can install](#list-all-products-sdkman-can-install)
   - [List Java versions](#list-java-versions)
   - [Install the latest Java SDK](#install-the-latest-java-sdk)
   - [Install another SDK version](#install-another-sdk-version)
   - [Switch to use another SDK Version](#switch-to-use-another-sdk-version)
   - [List all the selected SDKs](#list-all-the-selected-sdks)
   - [Delete a version of Java JDK installed](#delete-a-version-of-java-jdk-installed)
+  - [Clean up temp space](#clean-up-temp-space)
 
 <!-- INDEX_END -->
 
@@ -84,6 +86,14 @@ sdk help
 sdk update
 ```
 
+### List all products SDKman can install
+
+```shell
+sdk list
+```
+
+(or `sdk ls`)
+
 ### List Java versions
 
 ```shell
@@ -142,4 +152,18 @@ sdk rm java 21.0.4-tem
 Deselecting java 21.0.4-tem...
 
 Uninstalling java 21.0.4-tem...
+```
+
+### Clean up temp space
+
+```shell
+sdk flush
+```
+
+Output:
+
+```none
+       9 archive(s) flushed, freeing 619M       /Users/hari/.sdkman/archives.
+      20 archive(s) flushed, freeing 104K       /Users/hari/.sdkman/tmp.
+       9 archive(s) flushed, freeing  48K       /Users/hari/.sdkman/var/metadata.
 ```
