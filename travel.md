@@ -633,8 +633,8 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 - [La Placinte](https://maps.app.goo.gl/6yVUsipRBWWSfpBp8) - affordable but good quality chain restaurant, there are
   several of them you don't have to go to this location
 
-- [Andy's](https://maps.app.goo.gl/Fewkr3FsDjW2rZfUA) - affordable chain, the central one is 24x7 and packed at midnight
-  on a Saturday as one of the few late night places available.
+- [Andy's](https://maps.app.goo.gl/Fewkr3FsDjW2rZfUA) - affordable chain known for pizzas,
+  the central one is 24x7 and packed at midnight on a Saturday as one of the few late night places available.
 
 - [Sensei Cafe](https://maps.app.goo.gl/7vMPz3KZbppy3iudA) - good looking menu, little pricey by local standards,
   outside terrace, has wifi
