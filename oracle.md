@@ -343,6 +343,10 @@ Then re-run
 [oracle_show_dba_recyclebin.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_show_dba_recyclebin.sql)
 to check.
 
+### Find Big Table with Free Space in Datafiles
+
+[HariSekhon/SQL-scripts - oracle_table_space.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_table_space.sql)
+
 ### Shrink Table
 
 **First [backup the table](#backup-table-to-adjacent-backup-table)** you are going to shrink to an adjacent backup table.
@@ -370,8 +374,9 @@ If not happy, then [Restore table from adjacent backup table](#restore-table-fro
 
 ## Restore table from adjacent backup table
 
-First check you have the backup table `mytable_backup`...
-then empty the table to be restored:
+First check you have the backup table `mytable_backup`.
+
+Once backup table contents has been verified, then empty the table to be restored:
 
 ```sql
 TRUNCATE TABLE mytable;
