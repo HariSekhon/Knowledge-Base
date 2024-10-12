@@ -173,6 +173,21 @@ The `owner` is the schema, also known as the database in other RBDMS systems.
 SELECT owner, table_name FROM dba_tables;
 ```
 
+```sql
+SELECT
+    tablespace_name,
+    table_name,
+    status,
+    pct_used,
+    pct_free
+FROM
+    all_tables
+WHERE
+    tablespace_name NOT IN ('SYSTEM', 'SYSAUX', 'RDSADMIN')
+ORDER BY
+    tablespace_name, table_name;
+```
+
 ### List Users
 
 ```sql
