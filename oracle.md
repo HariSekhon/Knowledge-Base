@@ -322,7 +322,7 @@ SHOW RECYCLEBIN;
 To only purge the recyclebin for a given table:
 
 ```sql
-PURGE DBA_RECYCLEBIN;
+PURGE TABLE table_name;
 ```
 
 ### Purge DBA Recyclebin
