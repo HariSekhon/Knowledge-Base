@@ -639,6 +639,11 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 - [Cartal](https://maps.app.goo.gl/aDCJVHnDE2z2rWKQ7) - decent food, moderate prices, small indoor bar seating,
   all restaurant seating is outdoors, card ok until 10pm, takes only cash 10pm-12am closing time
 
+- [Grill House](https://maps.app.goo.gl/WBD1c5GHKspgDf8A6) - established in 1995, decent quality, price `£££` -
+  the traditional Georgian soup Hacro slightly spicey is good but much bigger than anticipated,
+  cheesecake was good, and steak was decent.
+  For non-alcoholics with a sweet tooth the Compot fruit juice drink is recommended.
+
 ### Latvia
 
 The sour cabbage soup in a bread bowl is the local speciality.
