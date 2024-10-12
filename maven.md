@@ -30,6 +30,7 @@ package files.
 - [Test](#test)
 - [Taken from HBase](#taken-from-hbase)
 - [Maven Eclipse support](#maven-eclipse-support)
+- [Pomchecker](#pomchecker)
 
 <!-- INDEX_END -->
 
@@ -475,6 +476,26 @@ mvn deploy:deploy-file -Durl=file://$PWD/../repo \
                        -DartifactId=utils \
                        -Dpackaging=jar \
                        -Dversion=1.0
+```
+
+## Pomchecker
+
+Install using [SDKman](sdkman.md):
+
+```shell
+sdk install pomchecker
+```
+
+Run in the local directory containing a `pom.xml` file to validate it:
+
+```shell
+pomchecker check-bom
+```
+
+Validate `pom.xml` conforms to Maven Central requirements:
+
+```shell
+pomchecker check-maven-central
 ```
 
 **Ported from private Knowledge Base page 2013+**
