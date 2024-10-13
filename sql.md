@@ -124,7 +124,7 @@ Nesting Aggregate Function - you can nest aggregate functions up to two levels d
 Eg. this query finds the category with the most records:
 
 ```sql
-SELECT category, MAX(COUNT(1)) ... GROUP BY category;
+SELECT category, MAX(COUNT(1)) FROM mytable GROUP BY category;
 ```
 
 ### JOINs
