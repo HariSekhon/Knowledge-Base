@@ -127,6 +127,12 @@ $ jshell
 jshell>
 ```
 
+See also [Groovy](groovy.md) which is one of my favourite languages and has a shell:
+
+```shell
+groovysh
+```
+
 ## JBang
 
 <https://www.jbang.dev/>
@@ -189,7 +195,6 @@ import com.github.javafaker.Faker
 
 Faker faker = new Faker()
 ```
-
 
 ```java
 cat > /tmp/faker.java <<EOF
