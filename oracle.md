@@ -62,6 +62,7 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - Cloud - available on major clouds as a managed database
   - eg. [AWS](aws.md) RDS, [GCP](gcp.md) Cloud SQL, [Azure](azure.md) Database
 - PL/SQL - Procedural Language/Structured Query Language adds more programming logic as a superset of SQL
+  - analogous to Microsoft SQL Server's T-SQL (Transact SQL)
 - Oracle Autonomous Database automates tasks like tuning, backups, and patching using machine learning
 - High Availability - RAC (Real Application Clusters) and Data Guard offer high availability and disaster recovery
 - Clients - SQL*Plus, SQLcl, and SQL Developer for database management and development
