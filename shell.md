@@ -38,4 +38,12 @@ Friendly Interactive Shell
 amazing website built-in
 fish_config
 
+## Shell Tricks
+
+Find disowned processes owned by the init PID 1:
+
+```shell
+ ps -ef | awk '$3 == 1 {print}'
+ ```
+
 **Ported from various private Knowledge Base pages 2002+**
