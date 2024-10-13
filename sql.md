@@ -95,6 +95,18 @@ Preference is given to free tools.
 
 - `DISTINCT` - deduplicates records in a `SELECT` query
 
+#### Aggregate Functions
+
+Functions that summarize a column from rows data into a single value, usually using common mathematical functions like:
+
+- `COUNT`
+- `SUM`
+- `MIN`
+- `MAX`
+- `AVG` - average
+
+Often used with a `GROUP BY` clause to get the aggregates for each of a category defined by the `GROUP BY` clause.
+
 ### JOINs
 
 Returns a data set by merging the rows of two tables on given fields which are expected to have matching values
