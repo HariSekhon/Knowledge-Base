@@ -302,6 +302,13 @@ install_oracle_sql_developer.sh
 
 This will even auto-open it for you on Mac.
 
+On Mac you can find this in your `Applications` pop-up menu along with the usual programs
+or you can open it from the CLI using this command:
+
+```shell
+open -a "SQLDeveloper.app"
+```
+
 ### Using SQL Developer
 
 #### Execute Shortcut
