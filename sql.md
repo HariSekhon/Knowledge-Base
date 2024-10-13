@@ -102,12 +102,19 @@ Preference is given to free tools.
 - `WHERE` - returns rows that match the WHERE's expression argument
   - eg. `WHERE age >= 18` to return only people who are 18 years or older
   - eg. `WHERE age >= 18 AND age <= 25` - to return only people of prime biological age (which I am well past! :cry:)
+  - can result in better performance to read less data from a table (especially in columnar [databases](databases.md)
+    like MPP systems)
 - `BETWEEN` - checks if the value of a field is in within a range of two values, usually numbers of some kind -
   - eg. `WHERE age BETWEEN 18 AND 25`
     integer, float / decimal etc.
 - `IN` - checks if the value of a field is an exact match to one of a given enumeration of possible literal values
   - eg. `WHERE first_name in ("Hari", "Neo", "Morpheus")` - return only people with cool names from this pre-approved
     list
+- `HAVING` - like `WHERE` but evaluated after `GROUP BY` since `WHERE` filter cannot operate on values calculated by
+  aggregate functions since they arrive too late
+  - eg. restricting the results to only rows where the `MAX(field)` is greater than `N`, you cannot `WHERE` on the
+    `MAX()` because it doesn't exist at the time the WHERE is evaluated
+  - eg. `SELECT MAX(age) max_age FROM my_table WHERE job = "Engineer" HAVING max_age > 40` - find only engineers over 40
 
 ### Functions
 
