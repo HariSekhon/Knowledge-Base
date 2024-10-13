@@ -137,6 +137,8 @@ groovysh
 
 <https://www.jbang.dev/>
 
+<https://github.com/jbangdev>
+
 Packages executable self-contained source-only Java programs.
 
 Install using [SDKman](sdkman.md):
