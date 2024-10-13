@@ -119,6 +119,14 @@ Functions that summarize a column from rows data into a single value, usually us
 
 Often used with a `GROUP BY` clause to get the aggregates for each of a category defined by the `GROUP BY` clause.
 
+Nesting Aggregate Function - you can nest aggregate functions up to two levels deep
+
+Eg. this query finds the category with the most records:
+
+```sql
+SELECT category, MAX(COUNT(1)) ... GROUP BY category;
+```
+
 ### JOINs
 
 Returns a data set by merging the rows of two tables on given fields which are expected to have matching values
