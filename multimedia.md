@@ -125,10 +125,14 @@ Useful to create memes.
 
 Since images can have different widths and end up with whitespace around the smaller image,
 use this script from the [DevOps-Bash-tools](devops-bash-tools.md) repo
-to stack joins them after matching their widths so they align correctly:
+to joins them after matching their heights or widths so they align correctly:
 
 ```shell
-image_join_stack.sh "$top_image" "$bottom_image" "joined_image.png"
+image_join_vertical.sh "$top_image" "$bottom_image" "joined_image.png"
+```
+
+```shell
+image_join_horizontal.sh "$left_image" "$right_image" "joined_image.png"
 ```
 
 ### Inspect Image File Metadata
