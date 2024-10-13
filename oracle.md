@@ -457,6 +457,12 @@ This rather unintuitive message is caused by the stupid installation zip having 
 `sqlcl/lib/*` so if installed as root normal users not in the `wheel` group can run the `sql` but it can't find the
 `lib/*.jar` files.
 
+**Fix**:
+
+```shell
+chmod -R o+r /usr/local/sqlcl/lib
+```
+
 If you have installed via the [DevOps-Bash-tools](devops-bash-tools.md) scripted install `install_oracle_sqlcl.sh` you
 shouldn't encounter this as it fixes the permissions at install time.
 
