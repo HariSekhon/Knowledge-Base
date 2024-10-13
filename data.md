@@ -30,9 +30,13 @@ Then proceed to more advanced content validation.
 
 ## Data Generation
 
-Libraries like [Faker](https://github.com/joke2k/faker) are available in many languages inspired by the original
+'Faker' libraries are available in many languages inspired by the original
 [Perl](https://metacpan.org/dist/Data-Faker) library.
-This [Python version](https://github.com/joke2k/faker) comes with a `faker` command convenient for shell scripts:
+
+Java version: :octocat: [DiUS/java-faker](https://github.com/DiUS/java-faker)
+
+Python version :octocat: [joke2k/faker](https://github.com/joke2k/faker) -
+comes with a `faker` command convenient for shell scripts:
 
 Generate 10 fake addresses:
 
