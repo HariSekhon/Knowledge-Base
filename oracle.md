@@ -124,7 +124,7 @@ connection.
 
 <https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/>
 
-Newer much more user friendly CLI client from Oracle with history support.
+Newer much more user friendly CLI client from Oracle with 100 command history buffer.
 
 Backwards compatible CLI options with classic SQL*Plus.
 
