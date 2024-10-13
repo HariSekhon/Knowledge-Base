@@ -63,6 +63,11 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Creating Bootable CDs & USBs from ISOs](#creating-bootable-cds--usbs-from-isos)
   - [Other Options](#other-options)
     - [CLI](#cli)
+- [Troubleshooting](#troubleshooting)
+  - [Applications Fail to Open](#applications-fail-to-open)
+    - [Clicking Activity Monitor results in this pop-up error: `The application “Activity Monitor.app” is not open anymore.`](#clicking-activity-monitor-results-in-this-pop-up-error-the-application-activity-monitorapp-is-not-open-anymore)
+    - [IntelliJ fails to open](#intellij-fails-to-open)
+- [Relevant GitHub Repos](#relevant-github-repos)
 
 <!-- INDEX_END -->
 
@@ -696,6 +701,43 @@ Burn CD - insert blank CD then:
 ```shell
 hdiutil burn "$ISO"
 ```
+
+## Troubleshooting
+
+### Applications Fail to Open
+
+#### Clicking Activity Monitor results in this pop-up error: `The application “Activity Monitor.app” is not open anymore.`
+
+Even trying it from the command line to try to debug it results in this error:
+
+```shell
+$ open -a "Activity Monitor"
+The application /Applications/IntelliJ IDEA CE.app cannot be opened for an unexpected reason, error=Error Domain=NSOSStatusErrorDomain Code=-600 "procNotFound: no eligible process with specified descriptor" UserInfo={_LSLine=4141, _LSFunction=_LSOpenStuffCallLocal}
+```
+
+Meanwhile this works:
+
+```shell
+open -a "Finder"
+```
+
+**Fix**: Short of rebooting...
+
+#### IntelliJ fails to open
+
+```shell
+$ open -a "IntelliJ IDEA CE"
+The application /Applications/IntelliJ IDEA CE.app cannot be opened for an unexpected reason, error=Error Domain=NSOSStatusErrorDomain Code=-600 "procNotFound: no eligible process with specified descriptor" UserInfo={_LSLine=4141, _LSFunction=_LSOpenStuffCallLocal}
+```
+
+#### Settings Failing to open
+
+```shell
+$ open -a "Settings"
+The application /System/Applications/System Settings.app cannot be opened for an unexpected reason, error=Error Domain=NSOSStatusErrorDomain Code=-600 "procNotFound: no eligible process with specified descriptor" UserInfo={_LSLine=388, _LSFunction=_LSAnnotateAndSendAppleEventWithOptions}
+```
+
+## Relevant GitHub Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
