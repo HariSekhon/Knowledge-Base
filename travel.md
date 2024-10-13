@@ -636,7 +636,7 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 - [Andy's](https://maps.app.goo.gl/Fewkr3FsDjW2rZfUA) - affordable chain known for pizzas,
   the central one is 24x7 and packed at midnight on a Saturday as one of the few late night places available.
 
-- [Keller Holz Gastropub](https://maps.app.goo.gl/pr7sK1L7MnSwy5py5) - good menu and beer menu, very good ambience and
+- [Keller Holz Gastropub](https://maps.app.goo.gl/pr7sK1L7MnSwy5py5) - good food and beer menus, very good ambience and
   location
 
 - [Sensei Cafe](https://maps.app.goo.gl/7vMPz3KZbppy3iudA) - good looking menu, little pricey by local standards,
