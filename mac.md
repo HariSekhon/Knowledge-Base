@@ -188,6 +188,12 @@ open file.jpg
 You can also drag to the Terminal to paste a file or directory's path, or right-click copy and paste into the terminal
 to get its path on your command line.
 
+Open an Application from the command line:
+
+```shell
+open -a "SQLDeveloper.app"
+```
+
 ### Clipboard
 
 Copy from stdin to clipboard:
