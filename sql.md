@@ -110,8 +110,9 @@ Preference is given to free tools.
 - `IN` - checks if the value of a field is an exact match to one of a given enumeration of possible literal values
   - eg. `WHERE first_name in ("Hari", "Neo", "Morpheus")` - return only people with cool names from this pre-approved
     list
-- `HAVING` - like `WHERE` but evaluated after `GROUP BY` since `WHERE` filter cannot operate on values calculated by
-  aggregate functions since they arrive too late
+- `HAVING` - like `WHERE` but filters late in the query execution, evaluated after `GROUP BY` since `WHERE` filter
+  cannot operate on values calculated by aggregate functions since they have no yet been calculated when `WHERE` is
+  filtering rows
   - eg. restricting the results to only rows where the `MAX(field)` is greater than `N`, you cannot `WHERE` on the
     `MAX()` because it doesn't exist at the time the WHERE is evaluated
   - eg. `SELECT MAX(age) max_age FROM my_table WHERE job = "Engineer" HAVING max_age > 40` - find only engineers over 40
