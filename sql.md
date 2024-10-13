@@ -99,9 +99,15 @@ Preference is given to free tools.
 
 ### Query Predicates
 
+- `WHERE` - returns rows that match the WHERE's expression argument
+  - eg. `WHERE age >= 18` to return only people who are 18 years or older
+  - eg. `WHERE age >= 18 AND age <= 25` - to return only people of prime biological age (which I am well past! :cry:)
 - `BETWEEN` - checks if the value of a field is in within a range of two values, usually numbers of some kind -
-  integer, float / decimal etc.
+  - eg. `WHERE age BETWEEN 18 AND 25`
+    integer, float / decimal etc.
 - `IN` - checks if the value of a field is an exact match to one of a given enumeration of possible literal values
+  - eg. `WHERE first_name in ("Hari", "Neo", "Morpheus")` - return only people with cool names from this pre-approved
+    list
 
 ### Functions
 
@@ -114,7 +120,8 @@ and replace themselves with the function's calculated value based on this input.
 
 Functions that summarize a column from rows data into a single value, usually using common mathematical functions like:
 
-- `COUNT` - returns the number of rows in the table or the `GROUP BY` clause
+- `COUNT` - returns the number of rows or if given a column the number of non-`NULL` values in that column in the table
+  or for the `GROUP BY` clause
 - `SUM` - returns the sum of the numeric values in the given column (eg. bill total of all individual item purchases)
 - `MIN` - returns the minimum numeric value for the given field in all the `SELECT`'d rows
 - `MAX` - returns the maximum numeric value for the given field in all the `SELECT`'d rows
@@ -122,7 +129,14 @@ Functions that summarize a column from rows data into a single value, usually us
 
 Often used with a `GROUP BY` clause to get the aggregates for each of a category defined by the `GROUP BY` clause.
 
-Nesting Aggregate Function - you can nest aggregate functions up to two levels deep
+COUNT(column) vs COUNT(DISTINCT(column)):
+
+- COUNT(column) - returns number of non-`NULL` values in the given column
+  - eg. how many rows have data for that column
+- COUNT(DISTINCT(column)) - returns the number of unique non-`NULL` values in the given column
+  - eg. how many different categories are there in the categories column
+
+##### Nesting Aggregate Function - you can nest aggregate functions up to two levels deep
 
 Eg. this query finds the category with the most records:
 
