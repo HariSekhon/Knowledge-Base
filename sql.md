@@ -132,9 +132,9 @@ Often used with a `GROUP BY` clause to get the aggregates for each of a category
 COUNT(column) vs COUNT(DISTINCT(column)):
 
 - COUNT(column) - returns number of non-`NULL` values in the given column
-  - eg. how many rows have data for that column
+  - eg. `SELECT COUNT(category) FROM my_table` - how many rows have a category defined
 - COUNT(DISTINCT(column)) - returns the number of unique non-`NULL` values in the given column
-  - eg. how many different categories are there in the categories column
+  - eg. `SELECT COUNT(DISTINCT(category)) FROM my_table GROUP BY category` - how many different categories are there
 
 ##### Nesting Aggregate Function - you can nest aggregate functions up to two levels deep
 
