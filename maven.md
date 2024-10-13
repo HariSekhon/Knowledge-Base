@@ -30,7 +30,6 @@ package files.
 - [Test](#test)
 - [Taken from HBase](#taken-from-hbase)
 - [Maven Eclipse support](#maven-eclipse-support)
-- [JBang](#jbang)
 - [Pomchecker](#pomchecker)
 
 <!-- INDEX_END -->
