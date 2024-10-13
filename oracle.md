@@ -188,7 +188,7 @@ sqlcl.history.limit=1000
 ### Using SQLcl - Tips & Tricks
 
 ```shell
-/usr/local/sqlcl/bin/sql
+/usr/local/sqlcl/bin/sql <user>/<pass>@<fqdn>/<sid>
 ```
 
 Inside SQLcl:
