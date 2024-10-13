@@ -12,7 +12,6 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - [Install Oracle Client Packages - SQL*Plus, JDBC, ODBC, SDK](#install-oracle-client-packages---sqlplus-jdbc-odbc-sdk)
   - [SQL*Plus Readline Support](#sqlplus-readline-support)
 - [Local Login as Admin](#local-login-as-admin)
-- [SQL Scripts](#sql-scripts)
 - [Connecting to Oracle - TNS Listener & SID](#connecting-to-oracle---tns-listener--sid)
 - [SQLcl command line client](#sqlcl-command-line-client)
   - [Install SQLcl](#install-sqlcl)
@@ -21,6 +20,7 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
   - [Install SQL Developer](#install-sql-developer)
   - [Using SQL Developer](#using-sql-developer)
     - [Execute Shortcut](#execute-shortcut)
+- [SQL Scripts](#sql-scripts)
 - [SQL](#sql)
   - [Get Oracle Version](#get-oracle-version)
   - [List Tablespaces](#list-tablespaces)
@@ -117,14 +117,6 @@ Then as the `oracle` user start the local `sqlplus` client like this:
 ```shell
 sqlplus / as sysdba
 ```
-
-## SQL Scripts
-
-Scripts for DBA administration and performance engineering:
-
-[HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=SQL-scripts&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/SQL-scripts)
 
 ## Connecting to Oracle - TNS Listener & SID
 
@@ -317,6 +309,14 @@ This will even auto-open it for you on Mac.
 Hit `Cmd`-`Enter` (Windows) or `Ctrl`-`Enter` (Mac) when the cursor is on a query in the Query Builder SQL Worksheet to
 quickly execute the SQL statement (must be ended with a semi-colon `;` to separate it from the next query)
 without having to click the green triangle run button.
+
+## SQL Scripts
+
+Scripts for DBA administration and performance engineering:
+
+[HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=SQL-scripts&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/SQL-scripts)
 
 ## SQL
 
