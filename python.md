@@ -206,6 +206,15 @@ You can see these used throughout these GitHub repos:
 
 - `unittest2`
 - `nose`
+- [Faker](https://github.com/joke2k/faker) - generate fake but realistic data for unit testing, Python version of the
+  original [Perl](https://metacpan.org/dist/Data-Faker) library,
+  comes with a `faker` command convenient for shell scripts:
+
+Generate 10 fake addresses:
+
+```shell
+faker -r 10 address
+```
 
 ### Virtualization & Containerization
 
@@ -247,6 +256,18 @@ You can see these used throughout these GitHub repos:
 - `toml`
 - `xmltodict`
 - `yamllint` - CLI [YAML](yaml.md) linting tool
+
+<!-- -->
+
+- [Faker](https://github.com/joke2k/faker) - generate fake but realistic data for unit testing, Python version of the
+  original [Perl](https://metacpan.org/dist/Data-Faker) library,
+  comes with a `faker` command convenient for shell scripts:
+
+Generate 10 fake addresses:
+
+```shell
+faker -r 10 address
+```
 
 ### Data Visualization
 
