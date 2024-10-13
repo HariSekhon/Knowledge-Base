@@ -122,9 +122,11 @@ connection.
 
 <https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/download/>
 
-Newer alternative to the classic SQL*Plus command line Oracle client.
+Newer much more user friendly CLI client from Oracle with history support.
 
-Quickly from [DevOps-Bash-tools](devops-bash-tools.md):
+Backwards compatible CLI options with classic SQL*Plus.
+
+Quickly install using [DevOps-Bash-tools](devops-bash-tools.md):
 
 ```shell
 install_oracle_sqlcl.sh
@@ -146,6 +148,37 @@ This rather unintuitive message is caused by the stupid installation zip having 
 
 If you have installed via the [DevOps-Bash-tools](devops-bash-tools.md) scripted install `install_oracle_sqlcl.sh` you
 shouldn't encounter this as it fixes the permissions at install time.
+
+```shell
+/usr/local/sqlcl/bin/sql
+```
+
+Inside SQLcl:
+
+```shell
+help
+```
+
+New commands are <u>underlined</u>.
+<!-- <ins>underlined<ins> -->
+
+`<TAB>` autocompletes column names.
+
+Print the DDL for a table:
+
+```shell
+ddl <schema>.<table>
+```
+
+Options to customize DDL pretty output:
+
+```shell
+help set ddl
+```
+
+```shell
+clear screen
+```
 
 ## SQL Developer IDE
 
