@@ -4,6 +4,7 @@
 
 - [Big Data](#big-data)
 - [Data Validation](#data-validation)
+- [Data Generation](#data-generation)
 - [Data Integration](#data-integration)
   - [Mulesoft](#mulesoft)
   - [Spring Integration](#spring-integration)
@@ -26,6 +27,18 @@ Scripts for this can be found in both the [DevOps-Python-tools](devops-python-to
 and [DevOps-Bash-tools](devops-bash-tools.md) repos.
 
 Then proceed to more advanced content validation.
+
+## Data Generation
+
+Libraries like [Faker](https://github.com/joke2k/faker) are available in many languages inspired by the original
+[Perl](https://metacpan.org/dist/Data-Faker) library.
+This [Python version](https://github.com/joke2k/faker) comes with a `faker` command convenient for shell scripts:
+
+Generate 10 fake addresses:
+
+```shell
+faker -r 10 address
+```
 
 ## Data Integration
 
