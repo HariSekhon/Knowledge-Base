@@ -9,7 +9,7 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 <!-- INDEX_START -->
 
 - [Key Points](#key-points)
-- [Install Oracle Client Packages](#install-oracle-client-packages)
+- [Install Oracle Client Packages - SQL*Plus, JDBC, ODBC, SDK](#install-oracle-client-packages---sqlplus-jdbc-odbc-sdk)
 - [Local Login as Admin](#local-login-as-admin)
 - [SQL Scripts](#sql-scripts)
 - [Connecting to Oracle - TNS Listener & SID](#connecting-to-oracle---tns-listener--sid)
@@ -68,7 +68,7 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 |------|-------------------|
 | 1521 | Oracle SQL port   |
 
-## Install Oracle Client Packages
+## Install Oracle Client Packages - SQL*Plus, JDBC, ODBC, SDK
 
 <https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html>
 
