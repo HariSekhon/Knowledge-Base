@@ -113,6 +113,8 @@ Preference is given to free tools.
 - `HAVING` - like `WHERE` but filters late in the query execution, evaluated after `GROUP BY` since `WHERE` filter
   cannot operate on values calculated by aggregate functions since they have no yet been calculated when `WHERE` is
   filtering rows
+  - `WHERE` happens before the `GROUP BY`, so there is no way for `WHERE` clause to know what the value of the
+    aggregate function is
   - eg. restricting the results to only rows where the `MAX(field)` is greater than `N`, you cannot `WHERE` on the
     `MAX()` because it doesn't exist at the time the WHERE is evaluated
   - eg. `SELECT MAX(age) max_age FROM my_table WHERE job = "Engineer" HAVING max_age > 40` - find only engineers over 40
