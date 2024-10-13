@@ -15,7 +15,7 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - [Connecting to Oracle - TNS Listener & SID](#connecting-to-oracle---tns-listener--sid)
 - [SQLcl command line client](#sqlcl-command-line-client)
   - [Install SQLcl](#install-sqlcl)
-  - [Using SQLcl](#using-sqlcl)
+  - [Using SQLcl - Tips & Tricks](#using-sqlcl---tips--tricks)
 - [SQL Developer IDE](#sql-developer-ide)
   - [Install SQL Developer](#install-sql-developer)
   - [Using SQL Developer](#using-sql-developer)
@@ -158,7 +158,7 @@ This rather unintuitive message is caused by the stupid installation zip having 
 If you have installed via the [DevOps-Bash-tools](devops-bash-tools.md) scripted install `install_oracle_sqlcl.sh` you
 shouldn't encounter this as it fixes the permissions at install time.
 
-### Using SQLcl
+### Using SQLcl - Tips & Tricks
 
 ```shell
 /usr/local/sqlcl/bin/sql
