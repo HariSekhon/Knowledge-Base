@@ -188,7 +188,7 @@ sqlcl.history.limit=1000
 
 Doesn't show the size of the history buffer:
 
-```shell
+```sql
 show history
 ```
 
@@ -196,8 +196,12 @@ show history
 
 Show all settings:
 
-```shell
+```sql
 show all
+```
+
+```sql
+set ...
 ```
 
 ### Using SQLcl - Tips & Tricks
@@ -316,7 +320,7 @@ tomorrow 7
 Repeat the last command 10 times, once every 1 second
 (useful to watch sessions and SQL queries being sent or watch the status of an index rebuild):
 
-```shell
+```sql
 repeat 10 1
 ```
 
