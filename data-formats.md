@@ -62,7 +62,7 @@ See the [Parquet](parquet.md) doc page.
 - basic stats embedded (min, max, sum, count)
 - no schema evolution yet
 
-```none
+```text
 -d   dumps data rather than metadata Hive 0.15 / 1.1 onwards
 --rowindex <cols>
 -t  timezone of the writer  Hive 1.2 onwards

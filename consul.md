@@ -90,19 +90,19 @@ consul --help
 
 common opts
 
-```none
+```text
 -rpc-addr 127.0.0.1:8400
 ```
 
-```none
+```text
 -config-dir searches for .json files
 ```
 
-```none
+```text
 -config-file / -config-dir can be specified multiple times
 ```
 
-```none
+```text
 consul configtest [ -config-file <file> ] [ -config-dir <dir> ]
 ```
 
@@ -114,7 +114,7 @@ Start a single node non-production non-persistent:
 consul agent -dev
 ```
 
-```none
+```text
 -node myName set node name explicitly (if hostname has a dot DNS queries won't work)
 ```
 
@@ -145,7 +145,7 @@ consul leave
 Eventually consistent information - use HTTP API on consul servers for strongly consistent info
 optional:
 
-```none
+```text
 -status <regex>   - filter
 -wan              - show server nodes participating in WAN gossip protocol
 ```
@@ -154,7 +154,7 @@ optional:
 consul members
 ```
 
-```none
+```text
 Node           Address            Status  Type    Build  Protocol  DC
 agrippa.local  192.168.99.1:8301  alive   server  0.6.1  2         dc1
 ```
@@ -163,12 +163,12 @@ agrippa.local  192.168.99.1:8301  alive   server  0.6.1  2         dc1
 consul members -detailed
 ```
 
-```none
+```text
 Node           Address            Status  Tags
 agrippa.local  192.168.99.1:8301  alive   build=0.6.1:68969ce5,dc=dc1,port=8300,role=consul,vsn=2,vsn_max=3,vsn_min=1
 ```
 
-```none
+```text
 -http-addr
 -datacenter       defaults to same as agent
 -node <regex>     filter
@@ -185,7 +185,7 @@ consul exec <cmd>
 consul event -name blah [ <payload> ]
 ```
 
-```none
+```text
 [ -datacenter dc2 ] default: local dc
 [ -node <regex> ]
 [ -service <regex> ]
@@ -195,7 +195,7 @@ consul event -name blah [ <payload> ]
 
 optional opts:
 
-```none
+```text
 -n 1          default: 1 - number of concurrent processes that can run on the given lock
 --name        default: generated from <cmd>
 -pass-stdin   default: stdin to feed to <cmd>
@@ -211,7 +211,7 @@ consul lock [opts] <lock_key_prefix> <cmd>
 consul watch
 ```
 
-```none
+```text
 -log-level=info   warn, err, debug, trace
 -rpc-addr=127.0.0.1:8400
 ```
@@ -306,7 +306,7 @@ HTTP API service query:
 curl localhost:8500/v1/catalog/service/web
 ```
 
-```none
+```text
 [{"Node":"agrippa.local","Address":"192.168.99.1","ServiceID":"web","ServiceName":"web","ServiceTags":["rails"],"ServiceAddress":"","ServicePort":80,"ServiceEnableTagOverride":false,"CreateIndex":5,"ModifyIndex":5}]
 ```
 
@@ -330,7 +330,7 @@ DNS only serves queries for `.consul` by default (not recursive resolver)
 
 DNS TTL 0 (default) for freshness
 
-```none
+```text
 dns_config.node_ttl
 service_ttl.<service>  HTTP API prepared queries can specify TTL per query! Or use default for service
 service_ttl.*
@@ -340,7 +340,7 @@ Only single leader services reads (default):
 
 - to allow read from any server for horizontally scaling reads (less fresh)
 
-```none
+```text
 dns_config.allow_stale      default: off
 dns_config.max_stale        default: 5, requires allow_stale
 ```
@@ -361,7 +361,7 @@ Client always use dc-local servers so do not participate in wan gossip protocol.
 consul join -wan <svr1> <svr2>
 ```
 
-```none
+```text
 /v1/catalog/nodes?dc=dc2
 /catalog/datacenters
 ```
@@ -411,7 +411,7 @@ Can use CLI join startup option with seed nodes or HTTP API `start_join`.
 consul join 172.20.20.11
 ```
 
-```none
+```text
 Successfully joined cluster by contacting 1 nodes.
 ```
 
@@ -431,7 +431,7 @@ consul agent -server -bootstrap-expect 3 -data-dir /tmp/consul
 consul members
 ```
 
-```none
+```text
 Node       Address            Status  Type    Build  Protocol  DC
 agent-one  172.20.20.10:8301  alive   server  0.6.1  2         dc1
 agent-two  172.20.20.11:8301  alive   client  0.6.1  2         dc1
@@ -493,7 +493,7 @@ curl localhost:8500/v1/catalog/service/web
 
 ## Key Value Store
 
-```none
+```text
 /v1/kv/path/to/key
 ```
 

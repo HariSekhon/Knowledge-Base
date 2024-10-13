@@ -154,13 +154,13 @@ cloudbees check kubernetes
 
 gets this output, even on production clusters with several working ingresses
 
-```none
+```text
 [KO] Ingress service exists
 ```
 
 output from a live EKS cluster:
 
-```none
+```text
 [OK] Kubernetes Client version is higher or equal to 1.10 - v1.18.8
 [OK] Kubernetes client can be created
 [OK] Kubernetes server is accessible
@@ -183,7 +183,7 @@ error: there are 2 failed checks
 
 output from a live GKE cluster:
 
-```none
+```text
 [OK] Kubernetes Client version is higher or equal to 1.10 - v1.18.8
 [OK] Kubernetes client can be created
 [OK] Kubernetes server is accessible
@@ -232,7 +232,7 @@ jx status
 
 In the UI click:
 
-```none
+```text
 Manage Jenkins
     -> Manage Nodes and Clouds
         -> Configure Clouds
@@ -241,7 +241,7 @@ Manage Jenkins
 
 Settings:
 
-```none
+```text
 Credentials -> add -> Jenkins -> GCP service account
 
 Jenkins URL -> http://jenkins-ui.jenkins.svc.cluster.local:8080
@@ -281,7 +281,7 @@ kubectl get pv | grep jenkins
 
 You should see `Retain` in the 4th field rather than `Delete` (delete is the default):
 
-```none
+```text
 pvc-228857c7-2230-407f-80be-6ff3c4f0b946   30Gi       RWO            Retain           Bound    jenkins/jenkins-home-jenkins-0   gcp-standard-resizeable            2y161d
 ```
 
@@ -373,7 +373,7 @@ kubectl get pv,pvc -n jenkins | grep jenkins
 
 You need to fix this `Lost`:
 
-```none
+```text
 persistentvolumeclaim/jenkins-home-jenkins-0   Lost     persistentvolume/pvc-7fecff9a-7ec7-42a4-bc4f-b54286f089c2   0                         gcp-standard-resizeable   61s
 ```
 

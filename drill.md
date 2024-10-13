@@ -249,7 +249,7 @@ bin/sqlline -u "jdbc:drill:schema=dfs;zk=myZkCluster;impersonation_target=hari" 
 SELECT blah from <cluster>.<workspace>.<table_or_pattern> where blah > N;
 ```
 
-```none
+```text
 dfs       sub-dir     pattern
 HBase
 Hive      database    table
@@ -317,7 +317,7 @@ Shortcut for `sqlline -u jdbc:drill:zk=local` available from 1.0 onwards
 drill-embedded
 ```
 
-```none
+```text
 2015-07-17 14:15:47.381 java[48990:1877987] Unable to load realm info from SCDynamicStore
 Jul 17, 2015 2:15:52 PM org.glassfish.jersey.server.ApplicationHandler initialize
 INFO: Initiating Jersey application, version Jersey: 2.8 2014-04-29 01:25:26...
@@ -384,7 +384,7 @@ SELECT * FROM sys.drillbits;
 
 output:
 
-```none
+```text
 +-----------+------------+---------------+------------+----------+
 | hostname  | user_port  | control_port  | data_port  | current  |
 +-----------+------------+---------------+------------+----------+
@@ -398,7 +398,7 @@ SELECT * FROM sys WHERE name LIKE 'security.admin.users';
 
 output:
 
-```none
+```text
 'security.admin.user_groups'
 ```
 
@@ -527,7 +527,7 @@ default all queries to mongo storage plugin using 'use mongo'
 
 doesn't seem to work, still need to prefix mongo otherwise get
 
-```none
+```text
 Jul 20, 2015 6:01:50 PM org.apache.calcite.sql.validate.SqlValidatorException <init>
 SEVERE: org.apache.calcite.sql.validate.SqlValidatorException: Table 'test.zips' not found
 Jul 20, 2015 6:01:50 PM org.apache.calcite.runtime.CalciteException <init>
@@ -535,7 +535,7 @@ SEVERE: org.apache.calcite.runtime.CalciteContextException: From line 1, column 
 Error: PARSE ERROR: From line 1, column 15 to line 1, column 18: Table 'test.zips' not found
 ```
 
-```none
+```text
 [Error Id: 6b2dd038-af33-4466-930b-d58f0ad8e55d on starfury:31010] (state=,code=0)
 ```
 
@@ -588,7 +588,7 @@ SELECT b.myField.subField FROM dfs.down.`my.json` b LIMIT 1;
 
 Drill Kerberos principals require host component eg. `drill/<cluster_name>@$REALM` not `drill@$REALM` which results in
 
-```none
+```text
 IllegalStateException empty name string
 ```
 
@@ -605,20 +605,20 @@ Drill:
 SELECT * FROM dfs.`/tmp/test.dat`
 ```
 
-```none
+```text
 ERROR: VALIDATION ERROR: From line 1, column 17: Object '/tmp/test.dat' not found within 'dfs'
 SQL Query null
 ```
 
 **Fix:** caused by wrong filename extension, renaming to `test.csv` works.
 
-```none
+```text
 sqlline IllegalArgumentExeption - remove spaces in connection string!
 ```
 
 If older Drill version is started against stale ZooKeeper from higher version (eg. Docker) it will error out with:
 
-```none
+```text
 Caused by: java.lang.RuntimeException: com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "config" (class org.apache.drill.exec.store.dfs.FileSystemConfig), not marked as ignorable (4 known properties: "enabled", "formats", "connection", "workspaces"])
 ```
 

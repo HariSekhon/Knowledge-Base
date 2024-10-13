@@ -64,7 +64,7 @@ Shared Libraries between pipelines, or even code snippets in the administration
 
 ### Jenkinsfile Snippet Generator
 
-```none
+```text
 $JENKINS_URL/pipeline-syntax/
 ```
 
@@ -128,13 +128,13 @@ See here for a great list of plugins that I've used in production across compani
 
 Waits for builds to finish:
 
-```none
+```text
 $JENKINS_URL/safeRestart
 ```
 
 Doesn't wait for builds to finish:
 
-```none
+```text
 $JENKINS_URL/restart
 ```
 
@@ -184,7 +184,7 @@ Filename must be camelCase or lowercase to work.
 Configure the Jenkins Shared Library repo containing the Groovy code in the global System Configuration
 and give it a name for easy referencing:
 
-```none
+```text
 Configure Jenkins
 -> Configure System
     -> Global Pipeline Libraries
@@ -233,11 +233,11 @@ from another git repo as a separate step in the `Jenkinsfile` pipeline because o
 
 See [jenkins_api.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/jenkins/jenkins_api.sh)
 
-```none
+```text
 /api/json
 ```
 
-```none
+```text
 /job/$job/api/json
 ```
 

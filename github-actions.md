@@ -329,7 +329,7 @@ Open [Diagrams-as-Code README.md](https://github.com/HariSekhon/Diagrams-as-Code
 
 ### Executable `/opt/hostedtoolcache/...` not found
 
-```none
+```text
 Executable `/opt/hostedtoolcache/Ruby/3.3.4/x64/bin/ruby` not found
 ```
 
@@ -340,7 +340,7 @@ Solution: Delete the Cache and then re-run.
 
 Via UI:
 
-```none
+```text
 https://github.com/<OWNER>/<REPO>/actions/caches
 ```
 

@@ -52,7 +52,7 @@ export SDKMAN_DIR="/Users/hari/.sdkman"
 
 Future shells will then automatically call `/Users/hari/.sdkman/bin/sdkman-init.sh` to add paths like this:
 
-```none
+```text
 /Users/hari/.sdkman/candidates/scala/current/bin
 /Users/hari/.sdkman/candidates/sbt/current/bin
 /Users/hari/.sdkman/candidates/maven/current/bin
@@ -64,7 +64,7 @@ Future shells will then automatically call `/Users/hari/.sdkman/bin/sdkman-init.
 early in your `$PATH` list to default to using whatever version of each SDK SDKman has installed and switched to
 internally via symlinks in each case to:
 
-```none
+```text
 /Users/hari/.sdkman/candidates/<name>/<version>
 ```
 
@@ -130,7 +130,7 @@ sdk current
 
 Output:
 
-```none
+```text
 Using:
 
 gradle: 7.3.3
@@ -152,7 +152,7 @@ sdk current java
 
 Output:
 
-```none
+```text
 Using java version 21.0.4-tem
 ```
 
@@ -162,7 +162,7 @@ Using java version 21.0.4-tem
 sdk rm java 21.0.4-tem
 ```
 
-```none
+```text
 Deselecting java 21.0.4-tem...
 
 Uninstalling java 21.0.4-tem...
@@ -176,7 +176,7 @@ sdk flush
 
 Output:
 
-```none
+```text
        9 archive(s) flushed, freeing 619M       /Users/hari/.sdkman/archives.
       20 archive(s) flushed, freeing 104K       /Users/hari/.sdkman/tmp.
        9 archive(s) flushed, freeing  48K       /Users/hari/.sdkman/var/metadata.

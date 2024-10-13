@@ -175,7 +175,7 @@ solr stop -c -all
 
 Routing using Murmur hash:
 
-```none
+```text
 id=<shard>!<id>
 ```
 
@@ -312,7 +312,7 @@ touch /var/solr/data/<core>/core.properties
 
 This is a bug - disable HDFS write cache to work around or switch back to using local disk (faster anyway)
 
-```none
+```text
 org.apache.solr.common.SolrException; org.apache.lucene.index.CorruptIndexException: codec header mismatch: actual header \d+ vs expected header \d+
 ```
 
@@ -323,7 +323,7 @@ After restart Solr instances, some cores don't load and you this exception.
 This happens because of killing Solr instance and leaving `<dataDir>/index/write.lock` files behind which prevents
 cores from loading on restart:
 
-```none
+```text
 org.apache.solr.common.SolrException: Index locked for write for core Blah_shard3_replica2
 ```
 

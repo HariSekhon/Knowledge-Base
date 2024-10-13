@@ -138,7 +138,7 @@ sbt -D sbt.ivy.home=sbt/ivy package
 
 Jar deps stored in:
 
-```none
+```text
 ~/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.3.1.jar
 ```
 

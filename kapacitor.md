@@ -18,13 +18,13 @@ Port: 9092 (conflicts with Kafka)
 
 Option 1:
 
-```none
+```text
 Telegraf -> InfluxDB -> Kapacitor
 ```
 
 Option 2:
 
-```none
+```text
 Telegraf -> Kapacitor
 ```
 
@@ -47,7 +47,7 @@ Telegraf -> Kapacitor
 kapacitord config > kapacitor.conf
 ```
 
-```none
+```text
 /etc/kapacitor/kapacitor.conf
 /var/log/kapacitor/kapacitor.log
 ```
@@ -66,7 +66,7 @@ kapacitor
 
 TICKscript can create running average + alert if CPU drops below 3 std deviations:
 
-```none
+```text
 crit(lambda: sigma("field") > 3)
 ```
 
@@ -92,7 +92,7 @@ take a sample to test with:
 kapacitor record stream -task cpu_alert -duration 60s
 ```
 
-```none
+```text
 rid=xxxxxx-xxxxx...
 ```
 

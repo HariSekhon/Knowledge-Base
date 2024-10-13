@@ -201,7 +201,7 @@ mvn versioneye:securityCheck
 
 ## Maven Coordinates
 
-```none
+```text
 groupid:artifactid:packaging:version
 ```
 
@@ -213,13 +213,13 @@ version   == `1.0-SNAPSHOT` by default
 
 Web server structure:
 
-```none
+```text
 /<groupId>/<artifactId>/<version>/<artifact>-<version>.<packaging>
 ```
 
 `~/.m2/settings.xml`:
 
-```none
+```text
 /repository/org/org.elasticsearch/elasticsearch/<version>/elasticsearch-<version>.jar
 ...
 /repository/org/org.apache.hadoop/hadoop-client/<version>/hadoop-client-<version>.jar
@@ -368,7 +368,7 @@ mvn archetype:generate -DgroupId=HariSekhon -DartifactId=Utils -Dversion=0.1
 
 generates:
 
-```none
+```text
 Utils/
 Utils/pom.xml
 /src/main/

@@ -122,7 +122,7 @@ Configure `gem` command to install gems to user writable `$HOME/.gem/ruby/<versi
 
 In `$HOME/.gemrc`:
 
-```none
+```text
 gem: --user-install
 ```
 
@@ -197,7 +197,7 @@ You will likely get a warning to remove the user gem setting from `$HOME/.gemrc`
 
 In `$HOME/.gemrc`, remove:
 
-```none
+```text
 gem: --user-install
 ```
 
@@ -243,7 +243,7 @@ object.to_yaml
 
 Path to code modules:
 
-```none
+```text
 $LOAD_PATH
 ```
 

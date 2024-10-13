@@ -157,7 +157,7 @@ Can debug failing jobs with SSH, see [this doc](https://circleci.com/docs/ssh-ac
 - No way to list namespaces in the CLI
 - Conditionals - looks like it's all or nothing for a workflow or a step, whereas I want a job to be conditional - I could wrap all job's steps in a when step, but can't exclude all steps otherwise get this validation error
 
-```none
+```text
       [#/jobs/docker_build/steps] expected minimum item count: 1, found: 0
       |   |   SCHEMA:
       |   |     minItems: 1

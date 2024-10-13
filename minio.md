@@ -24,13 +24,13 @@ mc alias set my-alias http://minio.my-namespace.svc.cluster.local my-user my-pas
 
 output:
 
-```none
+```text
 Added `my-alias` successfully.
 ```
 
 If there is a problem, it will refuse to create the alias:
 
-```none
+```text
 mc: <ERROR> Unable to initialize new alias from the provided credentials. Get "http://minio.my-namespace.svc.cluster.local:9000/probe-bsign-..../?location=": dial tcp x.x.x.x:9000: i/o timeout.
 ```
 

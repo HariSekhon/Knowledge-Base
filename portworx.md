@@ -22,13 +22,13 @@
 
 Config file:
 
-```none
+```text
 /etc/pwx/config.json
 ```
 
 Environment variables:
 
-```none
+```text
 /etc/pwx/pw_env
 ```
 

@@ -19,7 +19,7 @@ Visual Studio Code is a popular free IDE from Microsoft.
 
 Ensure the `code` CLI binary is in your `$PATH` by adding this directory to the `$PATH`:
 
-```none
+```text
 /Applications/Visual Studio Code.app/Contents/Resources/app/bin
 ```
 
@@ -88,7 +88,7 @@ done
 
 output:
 
-```none
+```text
 Installing extensions...
 Installing extension 'mads-hartmann.bash-ide-vscode'...
 Extension 'mads-hartmann.bash-ide-vscode' v1.42.0 was successfully installed.

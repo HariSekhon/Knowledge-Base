@@ -172,7 +172,7 @@ pldd "pid"
 
 Since this often fails to attach to a process:
 
-```none
+```text
 pldd: cannot attach to process 32781: Operation not permitted
 ```
 

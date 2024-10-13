@@ -65,7 +65,7 @@ sudo dhcping -s 192.168.1.254
 
 output:
 
-```none
+```text
 Got answer from: 192.168.1.254
 ```
 

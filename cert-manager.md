@@ -49,7 +49,7 @@ kubectl logs -f -n cert-manager deploy/cert-manager
 
 If you see an error like this:
 
-```none
+```text
 E0229 18:07:30.022849       1 sync.go:126] "Failed to determine the list of Challenge resources needed for the Order" err="no configured challenge solvers can be used for this challenge" logger="cert-manager.orders" resource_name="jenkins-tls-1-2062037248" resource_namespace="jenkins" resource_kind="Order" resource_version="v1"
 ```
 
@@ -65,7 +65,7 @@ kubectl get certificaterequests -n "$NAMESPACE"
 
 output:
 
-```none
+```text
 NAME            APPROVED   DENIED   READY   ISSUER        REQUESTOR                                         AGE
 jenkins-tls-1   True                False   letsencrypt   system:serviceaccount:cert-manager:cert-manager   1d
 ```
@@ -78,7 +78,7 @@ kubectl describe certificaterequests -n "$NAMESPACE"
 
 The second `Message` line says it's pending on the order:
 
-```none
+```text
 Status:
   Conditions:
     Last Transition Time:  2024-02-26T17:54:50Z
@@ -102,7 +102,7 @@ kubectl get orders -n "$NAMESPACE"
 
 and you see it is stuck in `pending`:
 
-```none
+```text
 NAME                       STATE     AGE
 jenkins-tls-1-2062037248   pending   1d
 ```
@@ -115,7 +115,7 @@ kubectl describe orders -n "$NAMESPACE" jenkins-tls-1-2062037248
 
 output:
 
-```none
+```text
 Events:
   Type     Reason  Age                From                 Message
   ----     ------  ----               ----                 -------

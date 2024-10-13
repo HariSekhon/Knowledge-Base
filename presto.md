@@ -182,19 +182,19 @@ The namespace becomes `<name>` from the file name and the connector type is take
 
 Main log:
 
-```none
+```text
 server.log
 ```
 
 Startup stdout/stderr log:
 
-```none
+```text
 launcher.log
 ```
 
 HTTP request log:
 
-```none
+```text
 http-request.log
 ```
 

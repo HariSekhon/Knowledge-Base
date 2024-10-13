@@ -55,7 +55,7 @@ configure `--with-sasl=/path/to/sasl2`
 
 master:
 
-```none
+```text
 --authenticators  # default: crammd5
 --credentials  # text/json file
 --authenticate  # for frameworks
@@ -64,7 +64,7 @@ master:
 
 slave:
 
-```none
+```text
 --authenticatee  # default: crammd5
 --credential  # text/json file
 ```
@@ -93,7 +93,7 @@ Compile with SSL:
 
 Must also use:
 
-```none
+```text
 SSL_ENABLED=1 SSL_KEY_FILE=key SSL_CERT_FILE=cert opt-flags binary
 ```
 
@@ -191,7 +191,7 @@ mesos slave --master=127.0.0.1:5050 --log_dir=/tmp/mesos-slave-logs
 
 Build version
 
-```none
+```text
 --log_dir=$MESOS_HOME/logs # but couldn't find this in /usr/local/Cellar/mesos/0.23 nor /usr/local/mesos-0.24
 ```
 
@@ -199,7 +199,7 @@ Build version
 $MESOS_HOME/src/mesos-master --work_dir=/var/lib/mesos --log_dir=/tmp/mesos-master-logs --cluster=myCluster
 ```
 
-```none
+```text
 --authenticate        # for frameworks
 --authenticate-slave
 --ip --advertise_ip # if different to allow frameworks to connect
@@ -209,7 +209,7 @@ $MESOS_HOME/src/mesos-master --work_dir=/var/lib/mesos --log_dir=/tmp/mesos-mast
 $MESOS_HOME/src/mesos-slave --log_dir=/tmp/mesos-slave-logs
 ```
 
-```none
+```text
 --master=localhost:5050 # causes duplicate --master switch error when MESOS_MASTER defined
 --attributes=rack:1,dc:2 --credentials=file:///path/to/file # where file contains "<username> <password>" or json '{ "principal"="hari", "secret"="blah" }'
 --work-dir=/tmp/mesos # default
@@ -266,7 +266,7 @@ mesos-slave --log_dir=/tmp/mesos-slave-logs
 git clone https://github.com/mesos/chronos.git
 ```
 
-```none
+```text
 export MESOS_NATIVE_LIBRARY # (set in .bashrc based on Mac/Linux)
 ```
 

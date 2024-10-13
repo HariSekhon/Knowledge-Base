@@ -104,7 +104,7 @@ head
 
 output:
 
-```none
+```text
 1526 mysqld
 819 httpd
 429 kjournald

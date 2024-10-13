@@ -143,7 +143,7 @@ sed -i 's/#sonar.host.url.*/sonar.host.url=http:\/\/docker:1026/' sonar-scanner/
 
 Optional arg:
 
-```none
+```text
 -Dsonar.verbose=true
 ```
 

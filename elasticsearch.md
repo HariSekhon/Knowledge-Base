@@ -42,7 +42,7 @@ Used 30% of 6 nodes at 10g, increased to 75% with 30g, odd failed task retried, 
 
 /etc/sysconfig/elasticsearch:
 
-```none
+```text
 ES_HEAP_SIZE=30g # was doing Full GCs at 10g
 ```
 
@@ -58,7 +58,7 @@ To allow `mlockall: true` to work in elasticsearch config:
 
 /etc/security/limits.d/elasticsearch:
 
-```none
+```text
 * - memlock unlimited
 * - nproc 5000
 * - nofile 32000

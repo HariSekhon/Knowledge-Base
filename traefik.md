@@ -175,7 +175,7 @@ Create secret from command there and install
 kubectl get accesscontrolpolicies -A
 ```
 
-```none
+```text
 hub-agent-auth-server-cc8d559bf-hn65h   1/1     Running   0          5h47m
 hub-agent-auth-server-cc8d559bf-l8x4f   1/1     Running   0          5h47m
 hub-agent-auth-server-cc8d559bf-pdx6j   1/1     Running   0          5h47m

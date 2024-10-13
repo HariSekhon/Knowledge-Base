@@ -160,7 +160,7 @@ Readiness probe failed: calico/node is not ready: BIRD is not ready: Failed to s
 hostname -f > /var/lib/calico/nodename
 ```
 
-```none
+```text
 Readiness probe failed: calico/node is not ready: BIRD is not ready: Error querying BIRD: unable to connect to BIRDv4 socket: dial unix /var/run/bird/bird.ctl: connect: no such file or directory
 ```
 
@@ -224,7 +224,7 @@ kubectl delete ns "$NAMESPACE" --force --grace-period 0
 
 Sometimes this isn't enough, and it gets stuck on finalizers or cert-manager pending challenges:
 
-```none
+```text
 NAME                                                                STATE     DOMAIN                 AGE
 challenge.acme.cert-manager.io/jenkins-tls-1-1371220808-214553451   pending   jenkins.domain.co.uk   3h1m
 ```
