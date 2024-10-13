@@ -44,6 +44,7 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - [Restore table from adjacent backup table](#restore-table-from-adjacent-backup-table)
 - [Troubleshooting](#troubleshooting)
   - [Oracle Client Install `Error: Invalid version flag: or`](#oracle-client-install-error-invalid-version-flag-or)
+  - [SQLcl Error: Could not find or load main class oracle.dbtools.raptor.scriptrunner.cmdline.SqlCli](#sqlcl-error-could-not-find-or-load-main-class-oracledbtoolsraptorscriptrunnercmdlinesqlcli)
 
 <!-- INDEX_END -->
 
@@ -128,6 +129,23 @@ Quickly from [DevOps-Bash-tools](devops-bash-tools.md):
 ```shell
 install_oracle_sqlcl.sh
 ```
+
+This will create a convenience stub script `/usr/local/bin/sqlcl`
+pointing to `/usr/local/sqlcl/bin/sql` for `$PATH` convenience.
+
+If you get an error running `sqlcl` or `/usr/local/sqlcl/bin/sql` like this:
+
+```none
+Error: Could not find or load main class oracle.dbtools.raptor.scriptrunner.cmdline.SqlCli
+Caused by: java.lang.ClassNotFoundException: oracle.dbtools.raptor.scriptrunner.cmdline.SqlCli
+```
+
+This rather unintuitive message is caused by the stupid installation zip having `0640` octal permissions on
+`sqlcl/lib/*` so if installed as root normal users not in the `wheel` group can run the `sql` but it can't find the
+`lib/*.jar` files.
+
+If you have installed via the [DevOps-Bash-tools](devops-bash-tools.md) scripted install `install_oracle_sqlcl.sh` you
+shouldn't encounter this as it fixes the permissions at install time.
 
 ## SQL Developer IDE
 
@@ -425,6 +443,22 @@ INSERT INTO mytable SELECT * FROM mytable_backup;
 This happens on Amazon Linux 2 with the latest Oracle Client version 23.
 
 **Workaround**: Install Oracle Client 21 instead.
+
+### SQLcl Error: Could not find or load main class oracle.dbtools.raptor.scriptrunner.cmdline.SqlCli
+
+If you get an error running `sqlcl` or `/usr/local/sqlcl/bin/sql` like this:
+
+```none
+Error: Could not find or load main class oracle.dbtools.raptor.scriptrunner.cmdline.SqlCli
+Caused by: java.lang.ClassNotFoundException: oracle.dbtools.raptor.scriptrunner.cmdline.SqlCli
+```
+
+This rather unintuitive message is caused by the stupid installation zip having `0640` octal permissions on
+`sqlcl/lib/*` so if installed as root normal users not in the `wheel` group can run the `sql` but it can't find the
+`lib/*.jar` files.
+
+If you have installed via the [DevOps-Bash-tools](devops-bash-tools.md) scripted install `install_oracle_sqlcl.sh` you
+shouldn't encounter this as it fixes the permissions at install time.
 
 <br>
 
