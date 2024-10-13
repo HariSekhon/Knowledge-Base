@@ -222,6 +222,59 @@ set sqlformat ansiconsole
 set pagesize 50
 ```
 
+Print the history list of last remembered 100 commands:
+
+```sql
+history
+```
+
+Go back to command number `<n>` as displayed from the `history` command:
+
+```sql
+history <n>
+```
+
+Execute it:
+
+```sql
+/
+```
+
+`INFO` is a new version of `DESCRIBE` that also shows Last Analyzed date-time, rows, sample size,
+if table is inmemory enabled/disabled, comments on the table,
+`*` next to the primary key, column comments, list of indexes, foreign key referential integrity constraints:
+
+```sql
+info <table>
+```
+
+Aliases for command queries or PL/SQL blocks with binds eg. `:days`:
+
+```sql
+alias list
+```
+
+```sql
+alias list tomorrow
+```
+
+```sql
+SELECT sysdate + :days from dual
+```
+
+Prints timestamp 7 days from now:
+
+```sql
+tomorrow 7
+```
+
+Repeat the last command 10 times, once every 1 second
+(useful to watch sessions and SQL queries being sent or watch the status of an index rebuild):
+
+```shell
+repeat 10 1
+```
+
 ## SQL Developer IDE
 
 <https://www.oracle.com/database/sqldeveloper>
