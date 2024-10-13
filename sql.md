@@ -105,17 +105,20 @@ Preference is given to free tools.
 
 ### Functions
 
+Functions following usual programming syntax `SOMEFUNCTION(value)` taking an input `value`
+and replace themselves with the function's calculated value based on this input.
+
 - `DISTINCT` - deduplicates records in a `SELECT` query
 
 #### Aggregate Functions
 
 Functions that summarize a column from rows data into a single value, usually using common mathematical functions like:
 
-- `COUNT`
-- `SUM`
-- `MIN`
-- `MAX`
-- `AVG` - average
+- `COUNT` - returns the number of rows in the table or the `GROUP BY` clause
+- `SUM` - returns the sum of the numeric values in the given column (eg. bill total of all individual item purchases)
+- `MIN` - returns the minimum numeric value for the given field in all the `SELECT`'d rows
+- `MAX` - returns the maximum numeric value for the given field in all the `SELECT`'d rows
+- `AVG` - returns everage value of the given field in all the `SELECT`'d rows
 
 Often used with a `GROUP BY` clause to get the aggregates for each of a category defined by the `GROUP BY` clause.
 
