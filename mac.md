@@ -28,6 +28,10 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Search for or open anything](#search-for-or-open-anything)
   - [Open URL from Terminal output](#open-url-from-terminal-output)
   - [Open](#open)
+    - [Open URL in the default web browser](#open-url-in-the-default-web-browser)
+    - [Open current directory in Finder](#open-current-directory-in-finder)
+    - [Open image in the default app (usually Preview)](#open-image-in-the-default-app-usually-preview)
+    - [Open an Application from the command line](#open-an-application-from-the-command-line)
   - [Clipboard](#clipboard)
   - [Screenshots](#screenshots)
     - [Screenshot the Whole Screen](#screenshot-the-whole-screen)
@@ -167,19 +171,19 @@ A list of commands is provided at <https://ss64.com/mac/>.
 Open a file / folder / URL / Application. Use `-a` to select which app to use to open it.
 Use `-e` to edit the file in TextEdit.
 
-Open URL in the default web browser:
+#### Open URL in the default web browser
 
 ```shell
 open https://google.com
 ```
 
-Open current directory in Finder:
+#### Open current directory in Finder
 
 ```shell
 open .
 ```
 
-Open image in the default app, usually Preview:
+#### Open image in the default app (usually Preview)
 
 ```shell
 open file.jpg
@@ -188,7 +192,7 @@ open file.jpg
 You can also drag to the Terminal to paste a file or directory's path, or right-click copy and paste into the terminal
 to get its path on your command line.
 
-Open an Application from the command line:
+#### Open an Application from the command line
 
 ```shell
 open -a "SQLDeveloper.app"
