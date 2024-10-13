@@ -25,6 +25,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Rearrange Status Bar Icons](#rearrange-status-bar-icons)
 - [Reducing Desktop Workspaces](#reducing-desktop-workspaces)
 - [Raycast](#raycast)
+- [AppleScript](#applescript)
 - [Commands](#commands)
   - [Search for or open anything](#search-for-or-open-anything)
   - [Open URL from Terminal output](#open-url-from-terminal-output)
@@ -158,6 +159,24 @@ Unfortunately, Remote Desktop still seems to slide and send to fullscreen in ano
 Shortcut to everything - install and then hit `Option` + `Space` to bring it up.
 
 <https://www.raycast.com/>
+
+## AppleScript
+
+Applescript sucks by comparison to [Bash](bash.md), and the debugging is even worse - from a trivial 10-20 line
+script you can get an error like this:
+
+```text
+/get_application_names.scpt:882:889: script error: Expected “from”, etc. but found identifier. (-2741)
+```
+
+Line number `882:889`?? Good luck finding the offending line. Now imagine that was a 100 or 1000 line script.
+Debugging Hell.
+
+Still, there are some macOS UI related things for which this is the native code, see some such scripts under
+the `applescript/` directory in my [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) repo which
+has many more Bash scripts that work on macOS and a bit of [Python](python.md) with the Quartz library for macOS:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 ## Commands
 
@@ -677,5 +696,7 @@ Burn CD - insert blank CD then:
 ```shell
 hdiutil burn "$ISO"
 ```
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 **Ported from various private Knowledge Base pages 2010+**
