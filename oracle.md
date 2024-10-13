@@ -24,6 +24,8 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
     - [Execute Shortcut](#execute-shortcut)
 - [SQL Scripts](#sql-scripts)
 - [SQL](#sql)
+  - [`dual` - the pseudo-table](#dual---the-pseudo-table)
+  - [Get Date](#get-date)
   - [Get Oracle Version](#get-oracle-version)
   - [List Tablespaces](#list-tablespaces)
   - [List Tables](#list-tables)
@@ -373,6 +375,16 @@ Scripts for DBA administration and performance engineering:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=SQL-scripts&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/SQL-scripts)
 
 ## SQL
+
+### `dual` - the pseudo-table
+
+If you want to `SELECT` a value from a function or built-in value that does require querying data from a real table or view, in Oracle you need to provide a fake pseudo-table called `DUAL` to pass the syntax check of the `SELECT` query, eg. when selecting the current date (see next section for example).
+
+### Get Date
+
+```sql
+SELECT SYSDATE FROM dual;
+```
 
 ### Get Oracle Version
 
