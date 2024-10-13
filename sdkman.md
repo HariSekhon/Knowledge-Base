@@ -138,8 +138,10 @@ groovy: 4.0.0
 java: 21.0.4-tem
 jbang: 0.119.0
 maven: 3.8.4
+pomchecker: 1.13.0
 sbt: 1.6.2
 scala: 3.1.1
+visualvm: 2.1.10
 ```
 
 ### Delete a version of Java JDK installed
