@@ -546,7 +546,7 @@ If happy, then drop the backup table:
 DROP TABLE mytable_backup;
 ```
 
-If not happy, then [Restore table from adjacent backup table](#restore-table-from-adjacent-backup-table).
+Rollback if any problem following [Restore table from adjacent backup table](#restore-table-from-adjacent-backup-table).
 
 ## Restore table from adjacent backup table
 
