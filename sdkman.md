@@ -144,6 +144,18 @@ scala: 3.1.1
 visualvm: 2.1.10
 ```
 
+### List the Version of a Specific SDK
+
+```shell
+sdk current java
+```
+
+Output:
+
+```none
+Using java version 21.0.4-tem
+```
+
 ### Delete a version of Java JDK installed
 
 ```shell
