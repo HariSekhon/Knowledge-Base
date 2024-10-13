@@ -14,6 +14,8 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - [SQL Scripts](#sql-scripts)
 - [Connecting to Oracle - TNS Listener & SID](#connecting-to-oracle---tns-listener--sid)
 - [SQLcl command line client](#sqlcl-command-line-client)
+  - [Install SQLcl](#install-sqlcl)
+  - [Using SQLcl](#using-sqlcl)
 - [SQL Developer IDE](#sql-developer-ide)
   - [Install SQL Developer](#install-sql-developer)
   - [Using SQL Developer](#using-sql-developer)
@@ -120,11 +122,15 @@ connection.
 
 ## SQLcl command line client
 
-<https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/download/>
+<https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/>
 
 Newer much more user friendly CLI client from Oracle with history support.
 
 Backwards compatible CLI options with classic SQL*Plus.
+
+### Install SQLcl
+
+<https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/download/>
 
 Quickly install using [DevOps-Bash-tools](devops-bash-tools.md):
 
@@ -149,13 +155,15 @@ This rather unintuitive message is caused by the stupid installation zip having 
 If you have installed via the [DevOps-Bash-tools](devops-bash-tools.md) scripted install `install_oracle_sqlcl.sh` you
 shouldn't encounter this as it fixes the permissions at install time.
 
+### Using SQLcl
+
 ```shell
 /usr/local/sqlcl/bin/sql
 ```
 
 Inside SQLcl:
 
-```shell
+```sql
 help
 ```
 
@@ -166,18 +174,52 @@ New commands are <u>underlined</u>.
 
 Print the DDL for a table:
 
-```shell
+```sql
 ddl <schema>.<table>
 ```
 
 Options to customize DDL pretty output:
 
-```shell
+```sql
 help set ddl
 ```
 
-```shell
+```sql
 clear screen
+```
+
+Queries are smart formatted instead of column width to the definition like in SQL*Plus.
+
+```sql
+show sqlformat
+```
+
+To unset this to use the same old formatting as SQL*Plus:
+
+```sql
+set sqlformat
+```
+
+To output to CSV format (strings are quoted):
+
+```sql
+set sqlformat csv
+```
+
+Turn off column headers in the output:
+
+```sql
+set header off
+```
+
+Go back to using the nice smart formatting:
+
+```sql
+set sqlformat ansiconsole
+```
+
+```sql
+set pagesize 50
 ```
 
 ## SQL Developer IDE
