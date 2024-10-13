@@ -9,8 +9,10 @@ NOT PORTED YET.
 - [Show Java Classpath](#show-java-classpath)
 - [Inspect JAR contents](#inspect-jar-contents)
 - [Java Decompilers](#java-decompilers)
+- [Libraries](#libraries)
 - [JShell](#jshell)
 - [JBang](#jbang)
+  - [JBang CLI](#jbang-cli)
 - [GraalJS](#graaljs)
 - [Clojure](#clojure)
 
@@ -105,9 +107,17 @@ or
 procyon.sh "$jar_or_class_file"
 ```
 
+## Libraries
+
+Some libraries of interest:
+
+- [Faker](https://github.com/DiUS/java-faker) - generates fake but realistic data for unit testing
+
 ## JShell
 
-Interactive shell:
+Command line or interactive Java Shell.
+
+Java 9+:
 
 ```shell
 $ jshell
@@ -163,6 +173,57 @@ or `@Grab` annotations.
 Even downloads a JDK if needed.
 
 This makes portable Java scripting easier.
+
+### JBang CLI
+
+```shell
+jbang -c 'Java_code'
+```
+
+Example of JBang CLI using Faker library to output random names:
+
+```java
+// DEPS com.github.javafaker.javafaker:1.0.2
+
+import com.github.javafaker.Faker
+
+Faker faker = new Faker()
+```
+
+
+```java
+cat > /tmp/faker.java <<EOF
+//usr/bin/env jbang "$0" "$@" ; exit $?
+//DEPS com.github.javafaker:javafaker:1.0.2
+
+import com.github.javafaker.Faker;
+import java.util.stream.Stream;
+
+public class faker {
+    public static void main(String[] args) {
+      Faker faker = new Faker();
+      Stream.generate(faker.name()::fullName)
+          .filter(s -> s.contains("Hari"))
+          .forEach(s -> System.out.println(s + " is Awesome"));
+    }
+}
+EOF
+```
+
+```shell
+jbang /tmp/faker.java
+```
+
+<!-- doesn't work, debug later
+
+Using the JBang catalog:
+
+```shell
+jbang -s faker@jbangdev -c \
+  'Stream.generate(faker.name()::FullName).filter(s->s.contains("Hari")).forEach(s -> println(s + " is Awesome"))''
+```
+
+-->
 
 See also [Groovy](groovy.md) which is one of my favourite languages and wish I had more excuses to code it in other
 than:
