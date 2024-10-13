@@ -31,7 +31,9 @@ Then proceed to more advanced content validation.
 ## Data Generation
 
 'Faker' libraries are available in many languages inspired by the original
-[Perl](https://metacpan.org/dist/Data-Faker) library.
+[Perl library](https://metacpan.org/dist/Data-Faker).
+
+Perl version: <https://metacpan.org/dist/Data-Faker>
 
 Java version: :octocat: [DiUS/java-faker](https://github.com/DiUS/java-faker)
 
