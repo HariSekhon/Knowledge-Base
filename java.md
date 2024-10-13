@@ -9,6 +9,8 @@ NOT PORTED YET.
 - [Show Java Classpath](#show-java-classpath)
 - [Inspect JAR contents](#inspect-jar-contents)
 - [Java Decompilers](#java-decompilers)
+- [JBang](#jbang)
+- [GraalJS](#graaljs)
 - [Clojure](#clojure)
 
 <!-- INDEX_END -->
@@ -101,6 +103,67 @@ or
 ```shell
 procyon.sh "$jar_or_class_file"
 ```
+
+## JBang
+
+<https://www.jbang.dev/>
+
+Packages executable self-contained source-only Java programs.
+
+Install using [SDKman](sdkman.md):
+
+```shell
+sdk install jbang
+```
+
+Create a source code CLI program:
+
+```shell
+jbang init -t cli hellocli.java
+```
+
+Reading the source code it shebangs `jbang` and annotates the class with some metadata for jbang.
+
+The first run downloads the dependencies mentioned in the source code
+
+```shell
+$ ./hellocli.java --help
+[jbang] Resolving dependencies...
+[jbang]    info.picocli:picocli:4.6.3
+[jbang] Dependencies resolved
+[jbang] Building jar for hellocli.java...
+Usage: hellocli [-hV] <greeting>
+hellocli made with jbang
+      <greeting>   The greeting to print
+  -h, --help       Show this help message and exit.
+  -V, --version    Print version information and exit.
+```
+
+```shell
+$ ./hellocli.java JBANG!
+Hello JBANG!
+```
+
+Automatic fetches any dependencies referenced in the source code using `//DEPS group:artifact:version` comments
+or `@Grab` annotations.
+
+Even downloads a JDK if needed.
+
+This makes portable Java scripting easier.
+
+See also [Groovy](groovy.md) which is one of my favourite languages and wish I had more excuses to code it in other
+than:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
+
+## GraalJS
+
+:octocat: [oracle/graaljs](https://github.com/oracle/graaljs)
+
+JavaScript engine running on JVM via GraalVM.
+
+ECMAScript-compliant runtime to execute JavaScript and Node.js applications on JVM with benefits of GraalVM stack
+including interoperability with Java.
 
 ## Clojure
 
