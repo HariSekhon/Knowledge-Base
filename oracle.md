@@ -14,7 +14,9 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 - [Local Login as Admin](#local-login-as-admin)
 - [Connecting to Oracle - TNS Listener & SID](#connecting-to-oracle---tns-listener--sid)
 - [SQLcl command line client](#sqlcl-command-line-client)
+  - [Features](#features)
   - [Install SQLcl](#install-sqlcl)
+  - [SQLcl Config](#sqlcl-config)
   - [Using SQLcl - Tips & Tricks](#using-sqlcl---tips--tricks)
 - [SQL Developer IDE](#sql-developer-ide)
   - [Install SQL Developer](#install-sql-developer)
@@ -131,6 +133,17 @@ Newer much more user friendly CLI client from Oracle with 100 command history bu
 
 Backwards compatible CLI options with classic SQL*Plus.
 
+### Features
+
+- edit multi-line statements and scripts interactively at the SQLcl prompt
+- native [Liquibase](liquibase.md) integration, with automatic changelog generation for your Oracle Database objects
+- 100 command history buffer
+- auto-complete object names or keywords using the `<TAB>` key
+- new commands: `CTAS`, `DLL`, `Repeat`, `ALIAS`, `SCRIPT`, `FORMAT` etc.
+- client-side scripting - execute Javascript to manipulate query results, build dynamic commands, interact with the
+  session etc.
+- supports classic SQL*Plus environment settings, commands, and behaviours
+
 ### Install SQLcl
 
 <https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/download/>
@@ -157,6 +170,20 @@ This rather unintuitive message is caused by the stupid installation zip having 
 
 If you have installed via the [DevOps-Bash-tools](devops-bash-tools.md) scripted install `install_oracle_sqlcl.sh` you
 shouldn't encounter this as it fixes the permissions at install time.
+
+### SQLcl Config
+
+Config file is found at:
+
+```text
+$HOME/.sqlcl
+```
+
+Set this in the file to increase the size of the history buffer to be more than 100 commands:
+
+```properties
+sqlcl.history.limit=1000
+```
 
 ### Using SQLcl - Tips & Tricks
 
@@ -333,7 +360,7 @@ Scripts for DBA administration and performance engineering:
 SELECT * FROM v$version;
 ```
 
-```none
+```text
 Oracle Database 19c Standard Edition 2 Release 19.0.0.0.0 - Production
 ```
 
@@ -583,7 +610,7 @@ This happens on Amazon Linux 2 with the latest Oracle Client version 23.
 
 If you get an error running `sqlcl` or `/usr/local/sqlcl/bin/sql` like this:
 
-```none
+```text
 Error: Could not find or load main class oracle.dbtools.raptor.scriptrunner.cmdline.SqlCli
 Caused by: java.lang.ClassNotFoundException: oracle.dbtools.raptor.scriptrunner.cmdline.SqlCli
 ```
