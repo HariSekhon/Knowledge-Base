@@ -76,7 +76,7 @@ k3s agent
 
 Any yamls under here are created/updated but not removed:
 
-```none
+```text
 /var/lib/rancher/k3s/server/manifests/ccm.yaml
 /var/lib/rancher/k3s/server/manifests/coredns.yaml
 /var/lib/rancher/k3s/server/manifests/local-storage.yaml

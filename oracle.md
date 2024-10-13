@@ -84,7 +84,7 @@ install_oracle_client.sh
 
 If you get this RPM install error:
 
-```none
+```text
 Error: Invalid version flag: or
 ```
 
@@ -159,7 +159,7 @@ pointing to `/usr/local/sqlcl/bin/sql` for `$PATH` convenience.
 
 If you get an error running `sqlcl` or `/usr/local/sqlcl/bin/sql` like this:
 
-```none
+```text
 Error: Could not find or load main class oracle.dbtools.raptor.scriptrunner.cmdline.SqlCli
 Caused by: java.lang.ClassNotFoundException: oracle.dbtools.raptor.scriptrunner.cmdline.SqlCli
 ```

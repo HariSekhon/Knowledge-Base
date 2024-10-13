@@ -130,7 +130,7 @@ from generating comment comments into headings
 
 Compare the readability of this:
 
-```none
+```text
 if (isCommandAvailable('gcloud')) {
     echo 'Using GCloud SDK to configure Docker'
     // configures docker config with a token
@@ -155,7 +155,7 @@ if (isCommandAvailable('gcloud')) {
 If you run [IntelliJ](intellij.md) there is also a green triangle arrow next to `shell` blocks to execute them with
 only one click, code notebook style.
 
-````none
+````text
 ```shell
 echo "execute this command"
 ```
@@ -211,7 +211,7 @@ shields_embed_logo.sh https://raw.githubusercontent.com/simple-icons/simple-icon
 
 Either will result in an output like this:
 
-```none
+```text
 logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGlmaWxsPSIjZmZmZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4K
 ```
 
@@ -267,7 +267,7 @@ shields_embed_logo.sh oracle_filled.svg
 
 Output:
 
-```none
+```text
 logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+T3JhY2xlPC90aXRsZT48cGF0aCBkPSJNMTYuNDEyIDQuNDEyaC04LjgyYTcuNTg4IDcuNTg4IDAgMCAwLS4wMDggMTUuMTc2aDguODI4YTcuNTg4IDcuNTg4IDAgMCAwIDAtMTUuMTc2em0tLjE5MyAxMi41MDJINy43ODZhNC45MTUgNC45MTUgMCAwIDEgMC05LjgyOGg4LjQzM2E0LjkxNCA0LjkxNCAwIDEgMSAwIDkuODI4eiIgZmlsbD0iI2ZmZmZmZiIgLz48L3N2Zz4K
 ```
 

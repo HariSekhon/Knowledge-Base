@@ -79,7 +79,7 @@ cat /etc/resolv.conf
 
 output shows the VBox NAT DNS address:
 
-```none
+```text
 nameserver 10.0.2.3
 ```
 

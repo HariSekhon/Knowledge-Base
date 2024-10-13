@@ -60,7 +60,7 @@ export GITLAB_TOKEN=...
 
 Gitlab CLI config can be found here:
 
-```none
+```text
  ~/.config/glab-cli/config.yml
 ```
 

@@ -241,13 +241,13 @@ Open source blob storage software that is compatible with [AWS](aws.md) S3.
 
 Server image:
 
-```none
+```text
 minio/minio
 ```
 
 Client image:
 
-```none
+```text
 minio/mc
 ```
 

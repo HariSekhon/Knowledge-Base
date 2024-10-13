@@ -177,7 +177,7 @@ tsdb scan --delete ...
 
 ### Timestamp Format Example
 
-```none
+```text
 start=1h-ago now sys.cpu.user host=x
 ```
 
@@ -307,19 +307,19 @@ scan 'tsdb-uid'
 
 See rows will have one of the following:
 
-```none
+```text
 column=id:metrics
  ```
 
 or
 
-```none
+```text
 column=id:tagk
  ```
 
 or
 
-```none
+```text
 column=id:tagv
 ```
 
@@ -455,7 +455,7 @@ cf 't'
 - can only put single data point each time
 - discouraged as doesn't show write failures
 
-```none
+```text
 put <metric> <tstamp> <value> <tagk1>=<tagv1>[ <tagk2>=<tagv2> ...]\n
 ```
 
@@ -487,7 +487,7 @@ Performance problems at a client in Oslo, Norway:
 
 Memstore:
 
-```none
+```text
 0.4 x HeapSize = ~5GB
 ```
 

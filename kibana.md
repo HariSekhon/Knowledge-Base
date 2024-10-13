@@ -38,7 +38,7 @@ python -m SimpleHTTPServer
 
 Click:
 
-```none
+```text
 bottom left -> Event fields
 top left    -> auto-refresh
 top middle  -> Save as My Default
@@ -58,7 +58,7 @@ Json formatted logging
 
 Documentation: <http://www.rsyslog.com/doc/omelasticsearch.html>
 
-```none
+```text
 module(load="omelasticsearch") # for outputting to Elasticsearch
 
 # this is for index names to be like: logstash-YYYY.MM.DD

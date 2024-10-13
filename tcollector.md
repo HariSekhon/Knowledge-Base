@@ -37,7 +37,7 @@ See [OpenTSDB](opentsdb.md) doc first.
 
 Collector scripts simply output in this format to stdout:
 
-```none
+```text
 <metric> <ts> <value> tag1=value1 tag2=value2 ... host=<hostname/fqdn>
 ```
 
@@ -81,7 +81,7 @@ Wrapper script:
 
 Options:
 
-```none
+```text
 -c --collector-dir
 -d --dry-run  # just print don't send metrics
 -H --host <tsd1>

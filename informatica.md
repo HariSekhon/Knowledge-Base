@@ -161,7 +161,7 @@ belong to our team.
 
 On the EC2 agent, the path for the scripts to start and stop components and logs can be found under:
 
-```none
+```text
 /home/ec2-user/infaagent/apps/agentcore
 ```
 
@@ -252,11 +252,11 @@ Synapse.
 Download the [JDBC](jdbc.md) jar version matching your DB type and version
 (eg. AWS RDS configuration tab `Engine version` field) and then copy it to the following locations:
 
-```none
+```text
 /home/ec2-user/infaagent/ext/connectors/thirdparty/informatica.jdbc_v2/common/
 ```
 
-```none
+```text
 /home/ec2-user/infaagent/ext/connectors/thirdparty/informatica.jdbc_v2/spark/
 ```
 
@@ -322,17 +322,17 @@ Follow this doc:
 The connection string will need the following appended to it in most cases where SSL is not used, such as a vanilla
 RDS instance:
 
-```none
+```text
 ?useSSL=false
 ```
 
 eg.
 
-```none
+```text
 jdbc:mysql://x.x.x.x:3306/my-db?useSSL=false
 ```
 
-```none
+```text
 jdbc:sqlserver://x.x.x.x:1433;databaseName=MY-DB;encrypt=false;
 ```
 
@@ -348,13 +348,13 @@ MySQL JDBC driver class name:
 Informatica documentation was also wrong about the driver class.
 Inspecting the `mysql-connector-j-8.0.33.jar` as per the [JDBC](jdbc.md) doc showed the correct class should be:
 
-```none
+```text
 com.mysql.jdbc.Driver
 ```
 
 NOT what the Informatica doc said:
 
-```none
+```text
 jdbc.mysql.MySQLDriver
 ```
 
@@ -364,7 +364,7 @@ For other JDBC connection details, see the [JDBC](jdbc.md) doc.
 
 Large data transfers may result in this error:
 
-```none
+```text
 [ERROR] java.lang.OutOfMemoryError: Java heap space
 ```
 
@@ -466,7 +466,7 @@ This is quicker than restarting the entire secure agent.
 
 ### Vertica ODBC Connector Error
 
-```none
+```text
 The connection test failed because of the following error: Can't find resource for bundle java.util.PropertyResourceBundle, key Error establishing socket to host and port, Reason: Connection refused.; nested exception is:
 
 com.informatica.saas.common.exception.SaasException: Can't find resource for bundle java.util.PropertyResourceBundle, key Error establishing socket to host and port, Reason: Connection refused.
@@ -548,7 +548,7 @@ crontab -e
 
 and pasting this line in:
 
-```none
+```text
 0 0 * * * find /tmp -type f -name 'insert*' -mtime +1 -o -type f -name 'upsert*' -mtime +1 -o -type f -name '*.tmp'   -mtime +1 -o -type f -name '*.azb'   -mtime +1 -o -type f -path '/tmp/InfaS3Staging*' -mtime +1 -exec rm -f {} \; 2>/dev/null ; rmdir /tmp/* 2>/dev/null
 ```
 
@@ -556,7 +556,7 @@ and pasting this line in:
 
 On one production agent I found 111GB of logs under this path in over 18500 small files in the last 1 month retention:
 
-```none
+```text
 /home/ec2-user/infaagent/apps/Data_Integration_Server/logs
 ```
 
@@ -574,7 +574,7 @@ version match.
 This error will manifest itself in `Mapping (Advanced Mode)` jobs that use Kubernetes with a job `Error Message` field
 like this:
 
-```none
+```text
 WES_internal_error_Failed to start cluster for [01CLDB25000000000003]. Error reported while starting cluster [500 {"code":"CLUSTER.FAIL_operation_error","message":"Cluster CREATE failed due to the following error: Failed to perform cluster operation [ClusterOpCode.ERROR] due to error : [K8s_10152] The configured Kubernetes cluster version [Kubernet[truncated]. For more information about the failure, check the application log.If the problem persists, contact Informatica Global Customer Support.
 ```
 
@@ -732,7 +732,7 @@ kubectl cp "$SPARK_POD":/tmp/jstack-output.txt "jstack-output.$ROLE.$(date +%F_%
 
 If you get this error:
 
-```none
+```text
 root@spark-0c53569173cdfbf4-exec-7:/opt/spark/work-dir# /tmp/jdk/bin/jstack "$PID" > /tmp/jstack-output.txt
 57: Unable to open socket file /proc/57/cwd/.attach_pid57: target process 57 doesn't respond within 10500ms or HotSpot VM not loaded
 The -F option can be used when the target process is not responding
@@ -816,7 +816,7 @@ and click on the Thread Dump links to the far right of each executor line.
 Informatica Secure Agent documentation needs updating,
 you can get the correct version of JDK from the secure agent at this location:
 
-```none
+```text
 infaagent/apps/jdk/
 ```
 

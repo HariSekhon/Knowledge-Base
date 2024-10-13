@@ -103,7 +103,7 @@ Default username / password: `kong_admin` / `password`
 
 ### Logs
 
-```none
+```text
 /usr/local/kong/logs/
 ```
 

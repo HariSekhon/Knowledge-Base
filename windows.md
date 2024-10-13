@@ -120,7 +120,7 @@ chkdsk c:
 
 output:
 
-```none
+```text
 Windows has scanned the file system and found no problems.
 No further action is required.
 

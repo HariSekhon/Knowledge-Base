@@ -441,7 +441,7 @@ sudo launchctl unload [path/to/script]
 
 Launch scripts are found in the following locations:
 
-```none
+```text
 ~/Library/LaunchAgents
 /Library/LaunchAgents
 /Library/LaunchDaemons

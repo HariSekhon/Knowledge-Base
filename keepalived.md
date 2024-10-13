@@ -49,7 +49,7 @@ sysctl -p
 
 In `/etc/keepalive/keepalived.conf`:
 
-```none
+```text
 global_defs {
   #router_id myHostname           # defaults
   #default_interface eth0

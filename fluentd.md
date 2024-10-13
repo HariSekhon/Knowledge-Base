@@ -46,7 +46,7 @@ Log streaming agent by Treasure Data.
 
 DockerHub image:
 
-```none
+```text
 fluent/fluentd
 ```
 
@@ -72,7 +72,7 @@ nmap -p 24224 -sU <host>
 td-agent
 ```
 
-```none
+```text
 /etc/td-agent/td-agent.conf
 ```
 
@@ -88,7 +88,7 @@ fluentd --dry-run -c fluent.conf
 
 Capture Fluentd's own logs + send to logserver:
 
-```none
+```text
 <match fluentd.**>
 ...
 ```
@@ -146,11 +146,11 @@ Rest API
 
 Per plugin stats
 
-```none
+```text
 /api/plugins.json
 ```
 
-```none
+```text
 <source>
     @type   monitor_agent
     bind    0.0.0.0
@@ -167,7 +167,7 @@ fluent-debug command connects here
 
 ## High Availability
 
-```none
+```text
 <match **>
   @type   forward
 
@@ -209,7 +209,7 @@ Processes events top down as defined in config file.
 | *         | match single event name component (dot delimited)                                                                                                                                             |
 | **        | match zero or more event name components - use to match all logs or prefixed logs                                                                                                             |
 
-```none
+```text
 global settings
 <system>
 log_level       info
@@ -226,7 +226,7 @@ process_name    myname  # ps will show 'worker:myname' and 'supervisor:myname'
 
 This is used by log forwarding and the `fluent-cat` command:
 
-```none
+```text
 <source>
     @type forward
     port 24224
@@ -236,11 +236,11 @@ This is used by log forwarding and the `fluent-cat` command:
 
 Send event with tag `my.app.tag`:
 
-```none
+```text
 http://this.host:9880/my.app.tag?json={"event":"data"}
 ```
 
-```none
+```text
 <source>
     @type http
     port 9880
@@ -259,7 +259,7 @@ Matches in config file order, put more specific at top, otherwise they'll be con
 
 Match events with tag `my.app.tag` + send to output plugin `file`:
 
-```none
+```text
 <match my.app.tag>
   @type file
   path /var/log/fluent/myapp.log
@@ -268,13 +268,13 @@ Match events with tag `my.app.tag` + send to output plugin `file`:
 
 Match any of multiple whitespace separated tags:
 
-```none
+```text
 <match tag1 tag2>
 ```
 
 Only events with `<source> @label @blah` go in to this block:
 
-```none
+```text
 <label @blah>
 
   <filter myprefix.**>
@@ -351,13 +351,13 @@ fluentd -p /path/to/plugin -p /path/to/plugin2
 
 Auto-loads plugins from:
 
-```none
+```text
 /etc/fluentd/plugin
 ```
 
 or
 
-```none
+```text
 /etc/td-agent/plugin
 ```
 
@@ -427,7 +427,7 @@ Set in input `<sources>`
 Strongly recommended to be set in any output match plugin to write when destination servers are unavailable
 or buffers are full:
 
-```none
+```text
 <secondary>
     out_secondary_file /path/to/file
 ```
@@ -487,7 +487,7 @@ Set in each output plugin:
 - file - dependent on the filesystem, don't use remote NFS, HDFS, GlusterFS etc.
 - memory:
 
-```none
+```text
   <match **>
   buffer_type file
   # buffer paths must have separate non-overlapping prefixes to not interfere with each other
@@ -500,7 +500,7 @@ Set in each output plugin:
 
 DockerHub:
 
-```none
+```text
 fluent/fluent-bit
 ```
 

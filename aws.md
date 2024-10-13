@@ -403,7 +403,7 @@ sudo growpart /dev/nvme0n1 4
 
 output should look like this:
 
-```none
+```text
 CHANGED: partition=4 start=1437696 old: size=417992671 end=419430366 new: size=627707871 end=629145566
 ```
 
@@ -433,7 +433,7 @@ sudo xfs_growfs -d /
 
 output should look like this:
 
-```none
+```text
 meta-data=/dev/nvme0n1p4         isize=512    agcount=86, agsize=610431 blks
          =                       sectsz=512   attr=2, projid32bit=1
          =                       crc=1        finobt=1, sparse=1, rmapbt=0
@@ -469,7 +469,7 @@ umount /tmp
 
 If you get an error like:
 
-```none
+```text
 umount: /tmp: target is busy.
 ```
 
@@ -489,7 +489,7 @@ and kill those processes or ask users to log out if it's their shell session hol
 
 If there is nothing left except:
 
-```none
+```text
                      USER        PID ACCESS COMMAND
 /tmp:                root     kernel mount  /tmp
 ```

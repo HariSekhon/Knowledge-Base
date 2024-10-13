@@ -59,7 +59,7 @@ tsm status
 
 output should look like:
 
-```none
+```text
 Status: RUNNING
 ```
 
@@ -112,7 +112,7 @@ source` / `Unable to connect to the Tableau Data Extract Server ""` (which previ
 
 Web UI still giving this error (used to work before out of disk space issue):
 
-```none
+```text
 Unable to proceed because of an error from the data source
 
 Try connecting again. If the problem persists, disconnect from the data source and contact the data source owner.
@@ -129,7 +129,7 @@ Tableau server still had error:
 tsm status
 ```
 
-```none
+```text
 The server encountered an unexpected error processing the request. Look at the server logs for more information.
 
 See '/home/tableauadmin/.tableau/tsm/tsm.log' for more information.
@@ -139,7 +139,7 @@ See '/home/tableauadmin/.tableau/tsm/tsm.log' for more information.
 tsm restart
 ```
 
-```none
+```text
 Stopping service...
 
 Service failed to stop properly.
@@ -175,7 +175,7 @@ tsm stop
 tsm start
 ```
 
-```none
+```text
 Starting service...
 Starting service...
 The last successful run of StartServerJob took 11 minute(s).

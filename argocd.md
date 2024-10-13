@@ -286,7 +286,7 @@ kubectl logs -f -n argocd deploy/argocd-server
 
 If you see this:
 
-```none
+```text
 level=info msg="finished unary call with code OK" grpc.code=OK grpc.method=Get grpc.service=cluster.SettingsService grpc.start_time="2024-03-02T01:41:21Z" grpc.time_ms=100.663 span.kind=server system=grpc
 ```
 
@@ -308,7 +308,7 @@ kubectl logs -f -n argocd deploy/argocd-server
 
 If you see this error:
 
-```none
+```text
 level=warning msg="Failed to verify token: failed to verify token: Failed to query provider
 \"https://argocd-production.domain.co.uk/api/dex\": Get \"https://argocd-production.domain.co.uk/api/dex/.well-known/openid-configuration\": dial tcp 10.x.x.x:443: i/o timeout"
 ```

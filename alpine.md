@@ -26,7 +26,7 @@ Replaced `libc` with `musl` core library which sometimes causes problems with pr
 
 ## Repositories
 
-```none
+```text
 /etc/apk/repositories
 ```
 

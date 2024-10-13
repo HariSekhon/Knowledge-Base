@@ -69,7 +69,7 @@ sqoop import --connect jdbc:mysql://localhost/movielens --table movie --fields-t
 if all `NULL`s in table serialization/termination use Control-A character see
 <http://sqoop.apache.org/docs/1.4.3/SqoopUserGuide.html>:
 
-```none
+```text
   --fields-terminated-by '\0001'
 ```
 
@@ -85,7 +85,7 @@ sqoop import-all-tables
 
 Sqoop 1.4.3 in IBM BigInsights 2.1.2 doesn't support `--hive-database`:
 
-```none
+```text
   --mapreduce-job-name
   --delete-target-dir
 ```
@@ -106,13 +106,13 @@ or
 
 Drop 3rd connector jars in one of these depending on RPM vs Parcel deployments:
 
-```none
+```text
 /usr/lib/sqoop/lib
 ```
 
 Or
 
-```none
+```text
 /opt/cloudera/parcels/CDH/lib/sqoop/lib
 ```
 
@@ -122,7 +122,7 @@ Or Better - put in a dir and the link to the parcel subdir so it's a quick relin
 ll /usr/lib/sqoop-3rd-party-libs/
 ```
 
-```none
+```text
   total 7944
   -rwxr-xr-x. 1 root  root   823551 Jan 16  2013 ifxjdbc.jar
   -rwxr-xr-x. 1 root  root    45038 Jan 16  2013 ifxjdbcx.jar
@@ -157,13 +157,13 @@ Sqoop add-on which give `sqoop tdimport` and `sqoop tdexport` commands
 
 ### SQL Server
 
-```none
+```text
 sqljdbc4.jar
 ```
 
 Sqoop parameters:
 
-```none
+```text
   --connect "jdbc:sqlserver://${HOST}:${PORT};database=${DB}"
   --driver com.microsoft.sqlserver.jdbc.SQLServerDriver
 ```
@@ -178,7 +178,7 @@ ojdbc6.jar
 
 Sqoop parameters:
 
-```none
+```text
   --connect "jdbc:oracle:thin:@//${HOST}:${PORT}/${DB}"
 ```
 
@@ -186,7 +186,7 @@ Sqoop parameters:
 
 3rd party connector, not the Cloudera connector
 
-```none
+```text
   --connect "jdbc:netezza://${HOST}:${PORT}/${DB}"
   --driver  org.netezza.Driver
 ```
@@ -208,7 +208,7 @@ Sqoop parameters:
 There was a total Informix DB outage, which resulted in a misleading error implying incorrect driver / missing sqoop lib
 although the libs were there unchanged the whole time:
 
-```none
+```text
 14/01/29 05:04:47 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
 ```
 
@@ -228,7 +228,7 @@ file can be local `file://` or `hdfs://` (default = hdfs)
 chmod 0400 .passwd
 ```
 
-```none
+```text
   --password-file ${user.home}/.passwd
 ```
 
@@ -240,7 +240,7 @@ Generate keystore:
 hadoop credential create myPwAlias -provider jceks://path/file.jks
 ```
 
-```none
+```text
 Enter password:
 Enter password again:
 myPwAlias has been successfully created
@@ -274,7 +274,7 @@ sqoop --options-file /path/file.txt ...
 
 `file.txt`:
 
-```none
+```text
 Import
 --connect
 jdbc:mysql://<host>/<db>

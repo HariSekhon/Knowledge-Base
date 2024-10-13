@@ -196,7 +196,7 @@ lscgroup
 
 Create cgroup - `/etc/cgconfig.conf`:
 
-```none
+```text
 group blah {
   cpu {
     cpu.shares = 400;
@@ -212,7 +212,7 @@ then add processes (tasks) into cgroups according to parameters in the file:
 
 `/etc/cgrules.conf`:
 
-```none
+```text
 <user> <subsystems> <control_group>
 @<group> <subsystems> <control_group>
 <user>:<command> <subsystems> <control_group>

@@ -54,7 +54,7 @@ Paste `.travis.yml` config in this online validator to see parsing and job matri
 
 Here is the URL for the above desktop notifiation tools
 
-```none
+```text
 <https://api.travis-ci.org/repos/<owner>/<repo>/cc.xml>
 ```
 
@@ -240,7 +240,7 @@ travis token --org
 
 This should be the last bit of the url, eg.
 
-```none
+```text
 <https://travis-ci.org/HariSekhon/nagios-plugin-kafka/jobs/144678953>
 ```
 

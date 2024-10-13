@@ -226,7 +226,7 @@ helm rollback "$name" "$revision"
 
 Extract Chart and templates from cache, copy `values.yaml` to `custom.yaml`:
 
-```none
+```text
 ~/.cache/helm/repository/mariadb-7.3.14.tgz
 ```
 
@@ -298,7 +298,7 @@ helm create "$name"
 
 creates a `$name/` directory with `tree` contents:
 
-```none
+```text
 $name/
 ├── Chart.yaml   # names app and remote dependency charts
 ├── charts       # for dependency charts, you probably won't need this

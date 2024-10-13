@@ -88,7 +88,7 @@ virt-manager
 
 If you see an error like this when trying to SSH to an older system running an older version of SSH:
 
-```none
+```text
 Unable to negotiate with 192.168.1.46 port 22: no matching host key type found. Their offer: ssh-rsa,ssh-dss
 ```
 

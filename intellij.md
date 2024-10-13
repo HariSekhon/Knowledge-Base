@@ -453,13 +453,13 @@ window of IntelliJ.
 When configuring External Tools to run scripts (recommended with hotkeys), you may encounter this error
 running the external tool configuration if using single quotes.
 
-```none
+```text
 [: -c: line 1: unexpected EOF while looking for matching `''
 ```
 
 This is caused by an Args configuration like this (eg. for a Program: `bash`):
 
-```none
+```text
 -c '[ -f .envrc ] && . .envrc; markdown_replace_index.sh $FilePath$'
 ```
 
@@ -467,7 +467,7 @@ which works on the command line but not in IntelliJ.
 
 **Solution**: replace the single quotes with double quotes:
 
-```none
+```text
 -c "[ -f .envrc ] && . .envrc; markdown_replace_index.sh $FilePath$"
 ```
 

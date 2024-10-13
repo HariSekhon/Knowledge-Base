@@ -46,7 +46,7 @@ com.mysql.jdbc.Driver
 
 JDBC connection string example:
 
-```none
+```text
 jdbc:mysql://x.x.x.x:3306/MY-DB?useSSL=false
 ```
 

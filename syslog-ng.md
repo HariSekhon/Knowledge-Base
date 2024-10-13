@@ -59,17 +59,17 @@ Each of your servers shouldn't open more than one TCP connection to your central
 
 To know what to set for `log_iw_size` and `log_fifo_size`:
 
-```none
+```text
 log_iw_size = max_connections * log_fetch_limit
 ```
 
-```none
+```text
 log_fifo_size = log_iw_size * (10~20)
 ```
 
 Syslog-ng will fetch at most:
 
-```none
+```text
 log_fetch_limit * max_connections
 ```
 
@@ -80,7 +80,7 @@ Your `log_fifo_size` should be able to hold many polls before it fills up.
 When your destination (file on disk or another syslog server) is not able to accept messages quickly enough,
 they will accumulate in the `log_fifo buffer`, so make this BIG.
 
-```none
+```text
 log_fifo_size = (log_iw_size = max_connections * log_fetch_limit) * 20
 ```
 

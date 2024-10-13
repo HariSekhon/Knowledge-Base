@@ -214,7 +214,7 @@ git check-ignore -v -- .github/scripts/
 
 output:
 
-```none
+```text
 /Users/h.sekhon/.gitignore:3711:[Ss]cripts      .github/scripts/
 ```
 
@@ -467,7 +467,7 @@ sed 's|https://github.com/|https://raw.githubusercontent.com/|; s|/blob/|/|'
 
 output:
 
-```none
+```text
 https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/kubernetes_kong_api_gateway_eks.png
 ```
 
@@ -599,7 +599,7 @@ git log --name-only --pretty="" "origin/$default_branch".. | sort -u
 
 If you forget to the set the `default_branch` by running the first command you'll get this error:
 
-```none
+```text
 fatal: ..: '..' is outside repository at '/Users/hari/github/bash-tools'
 ```
 

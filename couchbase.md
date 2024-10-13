@@ -313,13 +313,13 @@ TODO: Nagios REST API 40 metrics
 
 Backup per-node configuration:
 
-```none
+```text
 /opt/couchbase/var/lib/couchbase/config/config.dat
 ```
 
 Data Stored here:
 
-```none
+```text
 /opt/couchbase/var/lib/couchbase/data
 ```
 
@@ -334,13 +334,13 @@ Data Stored here:
 
 On Mac:
 
-```none
+```text
 /Applications/Couchbase Server.app/Contents/Resources/couchbase-core/bin
 ```
 
 On Linux:
 
-```none
+```text
 /opt/couchbase/bin
 /opt/couchbase/bin/install
 /opt/couchbase/bin/tools

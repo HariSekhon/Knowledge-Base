@@ -520,7 +520,7 @@ vim /etc/resolv.conf  # to 4.2.2.1 works
 
 ### Elasticsearch 5.0 Docker error
 
-```none
+```text
 ERROR: bootstap checks failed
 max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]
 ```

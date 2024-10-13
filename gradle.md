@@ -137,7 +137,7 @@ In future gradle commands just substitute `gradle` for `./gradlew`.
 
 This downloads same gradle version as original builder to
 
-```none
+```text
 .gradle/wrapper/dists/gradle-2.11-bin/
 ```
 

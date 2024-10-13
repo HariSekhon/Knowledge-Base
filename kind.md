@@ -73,7 +73,7 @@ docker exec -it 'kind-control-plane' crictl images
 kind export logs  # ./somedir
 ```
 
-```none
+```text
 Exported logs to: /tmp/396758314
 ```
 

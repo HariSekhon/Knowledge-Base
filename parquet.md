@@ -159,13 +159,13 @@ parquet-tools --help
 
 Hive creates parquet files as:
 
-```none
+```text
 /apps/hive/warehouse/bicore.db/auditlogs_parquet/000000_0
 ```
 
 rather than:
 
-```none
+```text
 blah.parquet
 ```
 

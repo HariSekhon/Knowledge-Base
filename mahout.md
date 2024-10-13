@@ -55,7 +55,7 @@ Schema always same hence mahout assumes schema and just works
 
 For binary preferences:
 
-```none
+```text
 userid1,trueitem1
 userid1,trueitem2
 ```
@@ -75,25 +75,25 @@ mahout recommenditembased --input movierating --output recs --usersFile users.tx
 
 Other values for the `--similarityClassname` option:
 
-```none
+```text
 SIMILARITY_TANIMOTO_COEFFICIENT --booleanData
 ```
 
-```none
+```text
 SIMILARITY_EUCLIDEAN_DISTANCE
 ```
 
-```none
+```text
 SIMILARITY_COSINE
 ```
 
-```none
+```text
 SIMILARITY_PEARSON_CORRELATION
 ```
 
 ## Output
 
-```none
+```text
 user_id [item1:score1, ... itemN:scoreN]
 ```
 
