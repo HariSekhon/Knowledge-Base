@@ -14,6 +14,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 <!-- INDEX_START -->
 
 - [WARNING: Battery Life](#warning-battery-life)
+  - [Mac battery runs hotter during charging](#mac-battery-runs-hotter-during-charging)
   - [Do not let your Macbook Pro get hot it will destroy the battery!!](#do-not-let-your-macbook-pro-get-hot-it-will-destroy-the-battery)
   - [Do Not Charge Through USB Port](#do-not-charge-through-usb-port)
   - [Performance Falls through the floor on last 5-10% of battery life](#performance-falls-through-the-floor-on-last-5-10-of-battery-life)
@@ -65,6 +66,10 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 <!-- INDEX_END -->
 
 ## WARNING: Battery Life
+
+### Mac battery runs hotter during charging
+
+Ensure it is on a table and not heat capturing linen like you bed, especially if travelling.
 
 ### Do not let your Macbook Pro get hot it will destroy the battery!!
 
