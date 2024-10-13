@@ -55,6 +55,9 @@ Preference is given to free tools.
   A linter for many languages, including SQL, integrated into Vim/Neovim for real-time feedback
 - [SQLcodegen](https://sqlcodegen.com) -
   A tool that can help generate SQL code based on linting requirements and other features
+- [TSQLlint](https://github.com/tsqllint/tsqllint) - Microsoft SQL Server specific linting - used by Codacy, some quite
+  good findings albeit false positives when applied to my [Oracle](oracle.md) scripts in my
+  [SQL-scripts](https://github.com/HariSekhon/SQL-scripts) repo
 
 **TODO**
 
