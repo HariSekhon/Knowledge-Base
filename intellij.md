@@ -358,6 +358,7 @@ idea installPlugins \
 - [SBT](https://plugins.jetbrains.com/plugin/5007-sbt)
 - [Gradle](https://plugins.jetbrains.com/plugin/13112-gradle)
 - [Gradle/Maven Navigation](https://plugins.jetbrains.com/plugin/9857-gradle-maven-navigation)
+- [JBang](https://plugins.jetbrains.com/plugin/18257-jbang)
 - [Sprint Boot Assistant](https://plugins.jetbrains.com/plugin/17747-spring-boot-assistant)
 - [Lombok](https://plugins.jetbrains.com/plugin/6317-lombok) - automates generating getters/setters etc.
   - [Project Lombok](https://projectlombok.org/)
@@ -372,6 +373,7 @@ idea installPlugins \
   SBT \
   com.intellij.gradle \
   tv.twelvetone.gradle.plugin.navigation \
+  dev.jbang.intellij.JBangPlugin \
   dev.flikas.idea.spring.boot.assistant.plugin \
   Lombook Plugin \
   JRebelPlugin
