@@ -153,7 +153,9 @@ and form a page oriented workflow of results and analysis for sharing and demons
 
 ## Libraries
 
-You can see these used throughout these GitHub repos:
+Some libraries you may find useful.
+
+You can see most of these used throughout my GitHub repos, eg:
 
 - [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools)
 - [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
@@ -169,6 +171,7 @@ You can see these used throughout these GitHub repos:
 - `pyobjc-framework-Quartz` - control Mac UI
 - `psutil`
 - `PyInstaller` - bundle Python code into standalone executablers (doesn't work for advanced code)
+- `Quartz` - macOS library
 - `sasl`
 
 ### Web
