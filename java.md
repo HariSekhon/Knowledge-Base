@@ -9,6 +9,7 @@ NOT PORTED YET.
 - [Show Java Classpath](#show-java-classpath)
 - [Inspect JAR contents](#inspect-jar-contents)
 - [Java Decompilers](#java-decompilers)
+- [JShell](#jshell)
 - [JBang](#jbang)
 - [GraalJS](#graaljs)
 - [Clojure](#clojure)
@@ -102,6 +103,18 @@ or
 
 ```shell
 procyon.sh "$jar_or_class_file"
+```
+
+## JShell
+
+Interactive shell:
+
+```shell
+$ jshell
+|  Welcome to JShell -- Version 21.0.4
+|  For an introduction type: /help intro
+
+jshell>
 ```
 
 ## JBang
