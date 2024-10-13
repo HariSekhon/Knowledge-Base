@@ -173,16 +173,31 @@ shouldn't encounter this as it fixes the permissions at install time.
 
 ### SQLcl Config
 
-Config file is found at:
+<!--
+Config file is found at (does this even work?):
 
 ```text
-$HOME/.sqlcl
+$HOME/.sqlcl/sqlrc
 ```
 
-Set this in the file to increase the size of the history buffer to be more than 100 commands:
+Doesn't work:
 
 ```properties
 sqlcl.history.limit=1000
+```
+
+Doesn't show the size of the history buffer:
+
+```shell
+show history
+```
+
+-->
+
+Show all settings:
+
+```shell
+show all
 ```
 
 ### Using SQLcl - Tips & Tricks
