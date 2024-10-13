@@ -102,8 +102,8 @@ Preference is given to free tools.
 - `WHERE` - returns rows that match the WHERE's expression argument
   - eg. `WHERE age >= 18` to return only people who are 18 years or older
   - eg. `WHERE age >= 18 AND age <= 25` - to return only people of prime biological age (which I am well past! :cry:)
-  - can result in better performance to read less data from a table (especially in columnar [databases](databases.md)
-    like MPP systems)
+  - can result in better performance to filtering early in the query execution to read less data from a table
+    (especially in columnar [databases](databases.md) like MPP systems)
 - `BETWEEN` - checks if the value of a field is in within a range of two values, usually numbers of some kind -
   - eg. `WHERE age BETWEEN 18 AND 25`
     integer, float / decimal etc.
