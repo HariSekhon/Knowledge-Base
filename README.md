@@ -136,6 +136,10 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Templates](https://github.com/HariSekhon/Templates) - templates for many common file formats for programming languages, build systems and DevOps configs
 - [Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code.md) - Cloud & Open Source architecture diagrams
 
+This one is used widely throughout these pages:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
 ## Systems
 
 ### Operating Systems
@@ -192,6 +196,8 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Medium.com](medium.md) (blog)
 - [Systems Design](systems-design.md)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Diagrams-as-Code&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Diagrams-as-Code)
+
 ## Git
 
 - [Git](git.md)
@@ -225,7 +231,9 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [Docker Compose](docker-compose.md)
   - [Docker Swarm](docker-swarm.md)
 - [Podman](podman.md)
-- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) for many technologies
+- [Dockerfiles](https://github.com/HariSekhon/Dockerfiles) for many technologies:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Dockerfiles&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Dockerfiles)
 
 ### Kubernetes
 
@@ -270,7 +278,9 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [Helm vs Kustomize](helm-vs-kustomize.md)
 - [ArgoCD](argocd.md)
 - [Cert Manager](cert-manager.md)
-- [Kubernetes Configs](https://github.com/HariSekhon/Kubernetes-configs)
+- [Kubernetes Configs](https://github.com/HariSekhon/Kubernetes-configs):
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
 
 ### Container Registries
 
@@ -354,6 +364,8 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [Atlantis](atlantis.md)
 - [Pulumi](pulumi.md)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Terraform&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Terraform)
+
 ## Configuration Management
 
 - [Ansible](ansible.md)
@@ -366,6 +378,8 @@ Full of open source tools and scripts used throughout the rest of these docs to 
 - [Chef](chef.md)  TODO
 
 -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Ansible&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Ansible)
 
 ## CI/CD
 
@@ -387,6 +401,9 @@ Full of open source tools and scripts used throughout the rest of these docs to 
   - [CircleCI](circleci.md)
   - [TravisCI](travis.md)
   - [Drone.io](drone.io.md)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
 
 ## Internet Services
 
@@ -431,6 +448,8 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [LiquiBase](liquibase.md) TODO
 - [AtlasGo](atlasgo.md)
 - [ByteBase](bytebase.md) TODO
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=SQL-scripts&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/SQL-scripts)
 
 ## NoSQL
 
@@ -551,6 +570,8 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [OpenStack](openstack.md) TODO
 - [KVM](kvm.md)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Packer-templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer-templates)
+
 ## Hardware
 
 - [Hardware](hardware.md)
@@ -583,6 +604,10 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
   - [OpsGenie](opsgenie.md)
   - [PagerDuty](pagerduty.md) TODO
 - [Fluentd](fluentd.md)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugin-Kafka&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Prometheus&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Prometheus)
 
 ### Performance Engineering
 
