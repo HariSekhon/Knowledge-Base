@@ -8,6 +8,7 @@
 - [Testing](#testing)
 - [Big O Notation](#big-o-notation)
 - [Memes](#memes)
+  - [Hello World](#hello-world)
   - [Documentation](#documentation)
   - [Are You Really Sure You Want to be a Software Developer??](#are-you-really-sure-you-want-to-be-a-software-developer)
   - [Coding with GPT](#coding-with-gpt)
@@ -68,6 +69,10 @@ See [Testing](testing.md)
 ![Big O Notation](images/big_O_notation.gif)
 
 ## Memes
+
+### Hello World
+
+![Printing Hello World](images/printing_hello_world_in_5_languages.jpeg)
 
 ### Documentation
 
