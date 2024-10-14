@@ -1,4 +1,4 @@
-# Systems Design
+# System Design
 
 A complex mix of coding and systems engienering skills.
 
