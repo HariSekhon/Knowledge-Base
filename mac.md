@@ -704,7 +704,7 @@ hdiutil burn "$ISO"
 
 ## Troubleshooting
 
-### Applications Fail to Open
+### Various Applications Fail to Open
 
 #### Clicking Activity Monitor results in this pop-up error: `The application “Activity Monitor.app” is not open anymore.`
 
@@ -730,11 +730,18 @@ $ open -a "IntelliJ IDEA CE"
 The application /Applications/IntelliJ IDEA CE.app cannot be opened for an unexpected reason, error=Error Domain=NSOSStatusErrorDomain Code=-600 "procNotFound: no eligible process with specified descriptor" UserInfo={_LSLine=4141, _LSFunction=_LSOpenStuffCallLocal}
 ```
 
-#### Settings Failing to open
+#### Settings fails to open
 
 ```shell
 $ open -a "Settings"
 The application /System/Applications/System Settings.app cannot be opened for an unexpected reason, error=Error Domain=NSOSStatusErrorDomain Code=-600 "procNotFound: no eligible process with specified descriptor" UserInfo={_LSLine=388, _LSFunction=_LSAnnotateAndSendAppleEventWithOptions}
+```
+
+#### Microsoft Remote Desktop fails to open
+
+```shell
+open -a "Microsoft Remote Desktop"
+The application /Applications/Microsoft Remote Desktop.app cannot be opened for an unexpected reason, error=Error Domain=NSOSStatusErrorDomain Code=-600 "procNotFound: no eligible process with specified descriptor" UserInfo={_LSLine=388, _LSFunction=_LSAnnotateAndSendAppleEventWithOptions}
 ```
 
 ## Relevant GitHub Repos
