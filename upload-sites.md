@@ -1,4 +1,4 @@
-# File Upload & Code PasteBin sites
+# File Upload & Code Pastebin sites
 
 Shortlist of the best sites to upload files, images, or paste code snippets to share with others for debugging.
 
