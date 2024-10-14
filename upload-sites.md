@@ -26,6 +26,7 @@ Also check the sites rights to your keep and redistribute your content permanent
   - [Uguu](#uguu)
   - [File.io](#fileio)
 - [Image Upload Sites](#image-upload-sites)
+  - [0x0.st Again](#0x0st-again)
   - [Imgur](#imgur)
   - [PostImage](#postimage)
   - [Vgy.me](#vgyme)
@@ -422,12 +423,18 @@ curl -F "file=@path_to_image" https://api.bayfiles.com/upload
 Useful to send things like graph or diagrams then reference them in GitHub docs without bloating your repos by
 constantly replacing the images in your repo.
 
-- [Imgur](https://imgur.com/) - popular image hosting site with anonymous uploads, direct links and a robust API
-- [Vgy.me](https://vgy.me/) - temporary anonymous image hosting with hotlinking allowed
+### 0x0.st Again
+
+Simplest to use again - see above [0x0.st](#0x0st)
 
 ### Imgur
 
+Popular image hosting site.
+
 - UI insists on disabling Ad-blocker
+- Anonymous uploads
+- Direct links
+- Robust well documented API
 
 Posting to Imgur is as simple as:
 
