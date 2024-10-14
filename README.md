@@ -194,7 +194,7 @@ This one is used widely throughout these pages:
   - [MkDocs](mkdocs.md)
 - [Microservices](microservices.md) TODO
 - [Medium.com](medium.md) (blog)
-- [Systems Design](systems-design.md)
+- [System Design](system-design.md)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Diagrams-as-Code&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Diagrams-as-Code)
 
