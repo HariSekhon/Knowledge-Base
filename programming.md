@@ -70,7 +70,7 @@ See [Testing](testing.md)
 ## Code Pastebin Sites
 
 If you need to share code privately or publicly to ask for help, you'll need a Pastebin site,
-see [File Upload & Code Pastbin Sites](upload-sites.md) doc.
+se the [File Upload & Code Pastbin Sites](upload-sites.md) doc.
 
 ## Big O Notation
 
