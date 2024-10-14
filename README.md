@@ -652,6 +652,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 ### Multimedia
 
 - [Multimedia](multimedia.md)
+- [File Upload & Code Pastebin Sites](upload-sites.md)
 
 ### Marketing
 
