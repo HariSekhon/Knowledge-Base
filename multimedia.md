@@ -6,6 +6,7 @@ Media file analysis, editing, transcoding and conversions.
 
 - [Image](#image)
   - [Open a file from the command line](#open-a-file-from-the-command-line)
+  - [Check & Change the default Application for a given file type](#check--change-the-default-application-for-a-given-file-type)
   - [Convert Webp to PNG format](#convert-webp-to-png-format)
   - [Convert SVG to PNG format](#convert-svg-to-png-format)
   - [Trim a Couple Pixels off the Right of an Image](#trim-a-couple-pixels-off-the-right-of-an-image)
@@ -14,6 +15,7 @@ Media file analysis, editing, transcoding and conversions.
   - [Inspect Image File Metadata](#inspect-image-file-metadata)
   - [Look for Watermarks](#look-for-watermarks)
   - [Steghide](#steghide)
+  - [Image Upload Sites](#image-upload-sites)
 - [Video](#video)
   - [Get the resolution and other details like codec for a video file](#get-the-resolution-and-other-details-like-codec-for-a-video-file)
   - [Transcode mkv into standard mp4 for smart TVs to play](#transcode-mkv-into-standard-mp4-for-smart-tvs-to-play)
@@ -35,6 +37,26 @@ determines whatever tool is available on either Linux or Mac and uses that to op
 
 ```shell
 imageopen.sh "$filename"
+```
+
+This uses the default application for the file type.
+
+### Check & Change the default Application for a given file type
+
+```shell
+brew install duti
+```
+
+Check default Application for a given file type:
+
+```shell
+duti -x svg
+```
+
+Change this from say Inkscape which is a slow editor for just file viewing, to Google Chrome which is faster:
+
+```shell
+duti -s com.google.Chrome public.svg-image all
 ```
 
 ### Convert Webp to PNG format
@@ -194,7 +216,7 @@ magick "$file" -channel Red -separate output.jpg
 
 ### Steghide
 
-This on only works if you've hidden something inside the image and know the password to extact it:
+This on only works if you've hidden something inside the image and know the password to extract it:
 
 ```shell
 steghide info "$file"
@@ -205,6 +227,10 @@ Looks like this is removed from Mac Homebrew, launch it in a debian docker conta
 ```shell
 steghide extract -sf "$file"
 ```
+
+### Image Upload Sites
+
+See the [Upload & PasteBin Sites](upload-sites.md) doc.
 
 ## Video
 
