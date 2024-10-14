@@ -230,7 +230,7 @@ steghide extract -sf "$file"
 
 ### Image Upload Sites
 
-See the [Upload & PasteBin Sites](upload-sites.md) doc.
+See the [File Upload & Code PasteBin sites](upload-sites.md) doc.
 
 ## Video
 
