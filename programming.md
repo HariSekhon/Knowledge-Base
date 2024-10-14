@@ -30,6 +30,8 @@
 1. [R](r.md) - old data analytics languages, matrices, awkward, but widely used and lots of libraries
 1. [Expect](#expect) - an extension of the Tcl language specialized in interactive text interface automation and keystroke control
 
+Beware the `"Hello World"`... see [this meme](#hello-world) further down.
+
 ## Expect
 
 Excellent TCL language framework for automating systems which have no alternative but interactive timed text inputs.
