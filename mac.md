@@ -64,9 +64,11 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Other Options](#other-options)
     - [CLI](#cli)
 - [Troubleshooting](#troubleshooting)
-  - [Applications Fail to Open](#applications-fail-to-open)
+  - [Various Applications Fail to Open](#various-applications-fail-to-open)
     - [Clicking Activity Monitor results in this pop-up error: `The application “Activity Monitor.app” is not open anymore.`](#clicking-activity-monitor-results-in-this-pop-up-error-the-application-activity-monitorapp-is-not-open-anymore)
     - [IntelliJ fails to open](#intellij-fails-to-open)
+    - [Settings fails to open](#settings-fails-to-open)
+    - [Microsoft Remote Desktop fails to open](#microsoft-remote-desktop-fails-to-open)
 - [Relevant GitHub Repos](#relevant-github-repos)
 
 <!-- INDEX_END -->
