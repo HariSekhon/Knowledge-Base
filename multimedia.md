@@ -8,7 +8,8 @@ Media file analysis, editing, transcoding and conversions.
   - [Open a file from the command line](#open-a-file-from-the-command-line)
   - [Convert Webp to PNG format](#convert-webp-to-png-format)
   - [Convert SVG to PNG format](#convert-svg-to-png-format)
-  - [Trim a Couple Pixels off an Image (Screenshot)](#trim-a-couple-pixels-off-an-image-screenshot)
+  - [Trim a Couple Pixels off the Right of an Image](#trim-a-couple-pixels-off-the-right-of-an-image)
+  - [Trim a Couple Pixels off the Top of an Image](#trim-a-couple-pixels-off-the-top-of-an-image)
   - [Join Two Images Together](#join-two-images-together)
   - [Inspect Image File Metadata](#inspect-image-file-metadata)
   - [Look for Watermarks](#look-for-watermarks)
@@ -107,17 +108,41 @@ which will find / install and use one of the above tools and protect against ove
 svg_to_png.sh "$name.svg"
 ```
 
-### Trim a Couple Pixels off an Image (Screenshot)
+### Trim a Couple Pixels off the Right of an Image
+
+Useful for Screenshots.
 
 You can use Imagemagick to do this from the command line more easily than using Gimp etc.
 
 The output image must come at the end.
+
+Auto-generate the "$output_image" variable from the "$image" name to have a `.trimmed` just before
+the file extension:
+
+```shell
+image_base="${image%.*}"
+ext="${image##*.}"
+output_image="$image_base.trimmed.$ext"
+```
 
 ```shell
 magick "$image" -gravity East -chop 2x0 "$output_image"
 ```
 
 `-gravity East` tells it to keep to the left - like driving in the UK!
+
+### Trim a Couple Pixels off the Top of an Image
+
+Useful for Screenshots.
+
+```shell
+magick "$image" -crop +0+2 +repage "$output_image"
+```
+
+`-crop +0+2` tells ImageMagick to leave the width (0), but shift the image down by 2 pixels (+2),
+effectively trimming 2 pixels from the top.
+
+`+repage` resets the virtual canvas metadata, so it doesn't retain the original canvas size.
 
 ### Join Two Images Together
 
