@@ -20,16 +20,21 @@
 ## Languages
 
 1. [Bash](bash.md) - the gold standard for shell scripting
-1. [Python](python.md) - general purpose object oriented language, easy to write, widely used but hard to maintain due to environment differences, language and library changes over time
-1. [Golang](golang.md) - imperative compiled self-contained binaries, simple toolchain, smashes Python in portability, maintainability, build time etc.
-1. [Perl](perl.md) - fast to write imperative code, stable, the gold standard for regex string processing, works everywhere and doesn't break every few years like Python
-1. [Groovy](groovy.md) - a better version of Java, with interactive REPL and some language construct conveniences. Hard to want to write in Java again after getting spoilt by Groovy
+1. [Python](python.md) - general purpose object oriented language, easy to write, widely used but hard to maintain due
+   to environment differences, language and library changes over time
+1. [Golang](golang.md) - imperative compiled self-contained binaries, simple toolchain, smashes Python in portability,
+   maintainability, build time etc.
+1. [Perl](perl.md) - fast to write imperative code, stable, the gold standard for regex string processing, works
+   everywhere and doesn't break every few years like Python
+1. [Groovy](groovy.md) - a better version of Java, with interactive REPL and some language construct conveniences.
+   Hard to want to write in Java again after getting spoilt by Groovy
 1. [Java](java.md) - battle tested, but slower to develop in than the above languages
 1. [Scala](scala.md) - was supposed to be the next Java but wasn't
 1. Kotlin - another next Java, we'll see
 1. Clojure - another JVM language
 1. [R](r.md) - old data analytics languages, matrices, awkward, but widely used and lots of libraries
-1. [Expect](#expect) - an extension of the Tcl language specialized in interactive text interface automation and keystroke control
+1. [Expect](#expect) - an extension of the Tcl language specialized in interactive text interface automation and
+   keystroke control
 
 Beware the `"Hello World"`... see [this meme](#hello-world) further down.
 
