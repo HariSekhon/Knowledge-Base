@@ -6,6 +6,7 @@
 - [Expect](#expect)
 - [Free Programming Courses](#free-programming-courses)
 - [Testing](#testing)
+- [Code Pastebin Sites](#code-pastebin-sites)
 - [Big O Notation](#big-o-notation)
 - [Memes](#memes)
   - [Hello World](#hello-world)
@@ -65,6 +66,11 @@ You are limited only by time and effort.
 ## Testing
 
 See [Testing](testing.md)
+
+## Code Pastebin Sites
+
+If you need to share code privately or publicly to ask for help, you'll need a Pastebin site,
+see [File Upload & Code Pastbin Sites](upload-sites.md) doc.
 
 ## Big O Notation
 
