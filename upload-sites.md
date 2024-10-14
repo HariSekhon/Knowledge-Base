@@ -12,7 +12,12 @@ Also check the sites rights to your keep and redistribute your content permanent
 <!-- INDEX_START -->
 
 - [Code Pasting Sites](#code-pasting-sites)
+  - [dpaste](#dpaste)
   - [Pastebin](#pastebin)
+  - [Termbin](#termbin)
+  - [Pasty](#pasty)
+  - [Hastebin](#hastebin)
+  - [Paste.ee](#pasteee)
   - [GitHub Gists](#github-gists)
 - [File Upload Sites](#file-upload-sites)
   - [0x0.st](#0x0st)
@@ -29,23 +34,230 @@ Also check the sites rights to your keep and redistribute your content permanent
 
 ## Code Pasting Sites
 
+### dpaste
+
+<https://dpaste.org/>
+
+- Simplest
+- Fast
+- Syntax highlighting
+- Expiration option
+
+```shell
+curl -X POST https://dpaste.org/api/ -d "content=$text"
+```
+
+```text
+"https://dpaste.org/caVZ2"
+```
+
 ### Pastebin
 
 <https://pastebin.com/>
 
 The original code pasting site.
 
-Optional expiration auto-deletion.
+- Expiration option
+- Web UI ok
+- CLI poor experience
+  - requires API key authentication and too many fields
+  - use dpaste or Termbin for CLI easier pasting instead
+
+```shell
+curl -X POST https://pastebin.com/api/api_post \
+  -d "api_dev_key=$API_KEY" \
+  -d "api_user_name=$USERNAME" \
+  -d "api_user_password=$PASSWORD" \
+  -d "api_option=paste" \
+  -d "api_paste_code=$text" \
+  -d "api_paste_name=$title" \
+  -d "api_paste_private=0" \
+  -d "api_paste_expire_date=N"
+```
+
+### Termbin
+
+<http://termbin.com/>
+
+- Terminal-based pastebin
+- Allows piping content directly from the command line to create pastes
+- Plaintext TCP port `9999` will probably be blocked by your corporate firewall
+
+```shell
+echo "$text" | nc termbin.com 9999
+```
+
+```text
+https://termbin.com/b2h7
+```
+
+### Pasty
+
+<https://pasty.lus.pm/>
+
+- Minimalist UI
+- Doesn't look like CLI works any more
+- self-hosted pastebin alternative for text and code snippets
+  - easy to set up and use
+
+```shell
+curl -X POST https://pasty.lus.pm/api/pastes -d "$text"
+```
+
+```text
+Method Not Allowed
+```
+
+### Hastebin
+
+<https://hastebin.com/>
+
+- Simple Minimalist Web UI
+
+```shell
+curl -X POST https://hastebin.com/documents -d "$text"
+```
+
+Requires access token:
+
+```json
+{"message":"Unauthorized request: missing access token. To generate a token, go to https://toptal.com/developers/hastebin/documentation and follow the instructions."}
+```
+
+### Paste.ee
+
+<https://paste.ee/>
+
+- Expiration option
+- Syntax highlighting
+- Password protection for private pastes
+
+```shell
+curl -X POST https://paste.ee/api -F 'key=your_api_key' -F 'paste=$text'
+```
+
+Requires API key:
+
+```json
+{"status":"error","errorcode":3,"error":"error_invalid_key"}
+```
 
 ### GitHub Gists
 
 <https://gist.github.com/>
 
-- Easy to use
+- Easy to use in UI
+- Harder to use on CLI compared to above anonymous `curl` uploads
 - Code paste or files
 - Private or Public
 - Has revisions
 - Easy to track in your [GitHub](github.md) account
+- Best used via  [GitHub CLI](https://cli.github.com/)
+  - can be installed with `install_github_cli.sh` in [DevOps-Bash-tools](devops-bash-tools.md)
+
+GitHub CLI:
+
+```shell
+gh auth login
+```
+
+```shell
+gh gist create "$file" --public --description "My Gist"
+```
+
+or from standard input:
+
+```shell
+echo "$text" | gh gist create - --public --description "My Gist"
+```
+
+Create a Gist with multiple files:
+
+```shell
+gh gist create "$file1" "$file2" --public --description "My Multi-File Gist"
+```
+
+Doing even a basic post via curl is very inconvenient compared to the other specialist pastebin sites above:
+
+```shell
+curl -X POST https://api.github.com/gists \
+  -H "Authorization: token YOUR_GITHUB_TOKEN" \
+  -d '{
+  "description": "Description of your Gist",
+  "public": true,
+  "files": {
+    "file1.txt": {
+      "content": "$text"
+    }
+  }
+}'
+```
+
+<!-- Hangs
+### 0bin
+
+<https://0bin.net/>
+
+A minimalist, open-source pastebin service that encrypts pastes in the browser, ensuring privacy.
+
+```shell
+curl -X POST https://0bin.net/ -d "$text"
+```
+
+-->
+
+<!--
+### PrivateBin
+
+<https://privatebin.info/>
+
+Private and secure pastebin with end-to-end encryption and no storage of user IP addresses or metadata.
+
+Spews HTML all over screen:
+
+```text
+curl -X POST https://privatebin.net/ -F 'text="$text"'
+```
+
+-->
+
+<!-- dead
+
+### Ghostbin
+
+<https://ghostbin.com/>
+
+Secure pastebin with encryption, syntax highlighting, and the ability to set expiration times for pastes.
+
+```shell
+curl -X POST https://ghostbin.com/paste -d "$text"
+```
+
+### Cl1p.net
+
+<https://cl1p.net/>
+
+A web clipboard service that allows you to paste text between devices or users via a custom URL.
+
+```shell
+curl -X POST https://cl1p.net/your_custom_url -d "$text"
+```
+
+Spews HTML all over screen.
+
+### JustPaste.it
+
+<https://justpaste.it/>
+
+A free pastebin alternative with a focus on user-friendly interface, supporting text and image uploads.
+
+```shell
+curl -X POST https://justpaste.it/submit -d "text=$text"
+```
+
+Spews HTML all over screen.
+
+-->
 
 ## File Upload Sites
 
