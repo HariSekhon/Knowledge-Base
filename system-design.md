@@ -20,6 +20,10 @@ Annoyingly though, they never reply to my LinkedIn comments for which tool they 
 
 ![System Design Four Pillars](images/system_design_four_pillars.gif)
 
+## Scaling Strategies
+
+![Scaling Strategies](images/scaling_strategies.gif)
+
 ## Deployment Strategies
 
 ![Deployment Strategies](images/deployment_strategies.gif)
