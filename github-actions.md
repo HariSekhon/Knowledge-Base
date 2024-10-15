@@ -54,16 +54,10 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 - can't export environment variables to GitHub Actions / Reusable Workflows
 - Secrets must be passed explicitly via `${ secrets.<name> }`
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
-
 ## GitHub Actions Best Practices
 
-Look at real-world production workflows for inspiration:
-
-eg. [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) -
-specifically the
-[main.yaml](https://github.com/HariSekhon/GitHub-Actions/blob/master/main.yaml) template
-and the [.github/workflows/*.yaml](https://github.com/HariSekhon/GitHub-Actions/tree/master/.github/workflows).
+The code snippet examples on the rest of this page are copied from this real-world repo
+which has been used in production and supports all of my public GitHub projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
 
@@ -113,10 +107,6 @@ Instead, validate the `env` quoted content of the resulting environment variable
 Make any unhandled error code in shell steps fail, including in subshells or unset variables,
 and trace the output for immediately easier debugging to see which shell command line failed.
 
-Taken from [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) -
-[main.yaml](https://github.com/HariSekhon/GitHub-Actions/blob/master/main.yaml) template and
-[.github/workflows/*.yaml](https://github.com/HariSekhon/GitHub-Actions/tree/master/.github/workflows):
-
 Add this near the top of your workflow:
 
 ```yaml
@@ -153,10 +143,6 @@ echo "$var"
 ```
 
 ### Serialize Workflows with Steps sensitive to Race Conditions
-
-Taken from [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) -
-[main.yaml](https://github.com/HariSekhon/GitHub-Actions/blob/master/main.yaml) template and
-[.github/workflows/*.yaml](https://github.com/HariSekhon/GitHub-Actions/tree/master/.github/workflows):
 
 ```yaml
 concurrency:
@@ -243,10 +229,6 @@ Environment step below.
 This aids in debugging as it costs nothing computationally or time wise but means that you can at any time inspect the
 environment of the job and any variables you expect to be set, whether implicitly available in the system or set by
 yourself at a top level `env` section as per the section above.
-
-Taken from [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) -
-[main.yaml](https://github.com/HariSekhon/GitHub-Actions/blob/master/main.yaml) template and
-[.github/workflows/*.yaml](https://github.com/HariSekhon/GitHub-Actions/tree/master/.github/workflows)
 
 ```yaml
     steps:
