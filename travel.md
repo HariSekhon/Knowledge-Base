@@ -526,12 +526,13 @@ The many Chateaux outside of Paris in the French countryside are nice though
 #### Tibilisi
 
 - [Pasanauri](https://maps.app.goo.gl/MQCwW54s7MRHsoNs6) - moderately priced good food,
-  the Khinkali were very good and affordable, the aubergine walnut while recommended was a bit much,
-  you'd need two aubergine lovers to manage it.
+  the Khinkali mixed meat dumplings were very good and affordable, the aubergine walnut while a recommended speciality
+  I found a bit much, you'd need two aubergine lovers to manage it.
   There are also a couple lovely dogs that hang around to eat scraps and occasionally bark as passers by,
   whom I can only assume they sense are evil...
 - [Ode Cafe](https://maps.app.goo.gl/Xs4Vq6zcoXEn9KpK6) - live piano music at alfresco outdoor dining, more limited menu
-  than Pasanuri and bit pricier (you're probably paying for the piano) but still good
+  than Pasanuri and bit pricier (you're probably paying for the piano) but still good.
+  The 10 Khinkali big meat dumplings and Kharcho soup are both good, but together are too much food.
 
 ### Germany
 
