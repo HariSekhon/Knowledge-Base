@@ -102,3 +102,7 @@ Press `y` on a page while browsing `GitHub.com` to change the current branch URL
 ### Baby Yoda Gets GitHub Stars
 
 ![Waking up to 2000 More Stars](images/baby_yoda_wake_up_one_morning_2000_stars.jpeg)
+
+### GitHub vs Sleep
+
+![GitHub vs Sleep](images/github_vs_sleep_me_at_1am.jpeg)
