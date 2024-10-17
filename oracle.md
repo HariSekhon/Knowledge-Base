@@ -47,6 +47,8 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
   - [Investigate Tablespaces Space](#investigate-tablespaces-space)
   - [Investigate Big Tables with Free Space](#investigate-big-tables-with-free-space)
   - [Shrink Table](#shrink-table)
+  - [Shrink Tablespaces](#shrink-tablespaces)
+    - [Shrink Temporary Tablespace](#shrink-temporary-tablespace)
 - [Restore table from adjacent backup table](#restore-table-from-adjacent-backup-table)
 - [Troubleshooting](#troubleshooting)
   - [Oracle Client Install `Error: Invalid version flag: or`](#oracle-client-install-error-invalid-version-flag-or)
@@ -355,7 +357,7 @@ On Mac you can find this in your `Applications` pop-up menu along with the usual
 or you can open it from the CLI using this command:
 
 ```shell
-open -a "SQLDeveloper.app"
+open -a "SQLDeveloper"
 ```
 
 ### Using SQL Developer
@@ -590,6 +592,14 @@ to check.
 
 ### Investigate Tablespaces Space
 
+These scripts calculations assume an 8KB block size, verify that using this query first:
+
+```sql
+SELECT value FROM v$parameter WHERE name = 'db_block_size';
+```
+
+Should show value = `8192`.
+
 [HariSekhon/SQL-scripts - oracle_tablespace_space.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_tablespace_space.sql)
 
 [HariSekhon/SQL-scripts - oracle_tablespace_space2.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_tablespace_space2.sql)
@@ -622,6 +632,54 @@ DROP TABLE mytable_backup;
 ```
 
 Rollback if any problem following [Restore table from adjacent backup table](#restore-table-from-adjacent-backup-table).
+
+### Shrink Tablespaces
+
+#### Shrink Temporary Tablespace
+
+If this is overallocated you can drop and create it smaller.
+
+Create new temporary tablespace tempfile with a new size first to avoid Oracle having any period of time with no sort /
+index rebuild space:
+
+```sql
+ALTER TABLESPACE temp ADD TEMPFILE '/path/to/new_tempfile.dbf' SIZE 1000M;
+```
+
+Find the path to the old tempfile:
+
+```sql
+SELECT file_name, tablespace_name, bytes/1024/1024 AS size_mb FROM v$tempfile;
+```
+
+or
+
+```sql
+SELECT file_name, tablespace_name, bytes/1024/1024 AS size_mb FROM dba_temp_files;
+```
+
+**WARNING**: dropping temp tablespace file can disrupt active sessions using sorts, large queries, or index rebuilds,
+all of which use the temporary tablespace and can get hit with errors like:
+
+```text
+ORA-01187: cannot read from file because it failed verification tests
+```
+
+or
+
+```text
+ORA-01110: data file name of the tempfile
+```
+
+Check for low activity time there are no active sessions using temp tablespace before dropping the old temporary file:
+
+[HariSekhon/SQL-scripts - oracle_show_sessions_using_temp_tablespace.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_show_sessions_using_temp_tablespace.sql)
+
+Edit the filename path in this `ALTER` statement to delete that tempfile when no session is using the temp tablespace:
+
+```sql
+ALTER DATABASE TEMPFILE '/path/to/old_tempfile.dbf' DROP;
+```
 
 ## Restore table from adjacent backup table
 
