@@ -525,6 +525,10 @@ The many Chateaux outside of Paris in the French countryside are nice though
 
 #### Tibilisi
 
+- [Santino](https://maps.app.goo.gl/qhHcNSGDWzB95a5U7) - excellent 24x7 modcoffee bar just off Liberty Square.
+  Excellent drinks menu, good food menu, bit pricey by local standards but good ambience
+- [Gloria Jean](https://maps.app.goo.gl/qKu3MUHQR5di9UpZ7) - good coffee shop in Liberty Square,
+  the cherry juice is very nice, although the chai latte is a little too sweet IMO, ask them to add less powder
 - [Pasanauri](https://maps.app.goo.gl/MQCwW54s7MRHsoNs6) - moderately priced good food,
   the Khinkali mixed meat dumplings were very good and affordable, the aubergine walnut while a recommended speciality
   I found a bit much, you'd need two aubergine lovers to manage it.
