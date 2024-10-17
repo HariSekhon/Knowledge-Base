@@ -42,7 +42,7 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_START -->
 
-- [This is the lost documentation](#this-is-the-lost-documentation)
+- [This is the Lost Documentation](#this-is-the-lost-documentation)
 - [GitHub Repos](#github-repos)
 - [Systems](#systems)
   - [Operating Systems](#operating-systems)
