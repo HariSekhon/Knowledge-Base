@@ -653,6 +653,8 @@ Rollback if any problem following [Restore table from adjacent backup table](#re
 
 ### Shrink Tablespaces
 
+On [AWS](aws.md) RDS follow this [doc](https://repost.aws/knowledge-center/rds-oracle-resize-tablespace).
+
 #### Shrink Permanent Tablespace
 
 ```sql
@@ -666,8 +668,6 @@ ALTER TABLESPACE users RESIZE 500G;
 ```text
 SQL Error [3297] [42000]: ORA-03297: file contains used data beyond requested RESIZE value
 ```
-
-On [AWS](aws.md) RDS follow this [doc](https://repost.aws/knowledge-center/rds-oracle-resize-tablespace).
 
 ##### Big File Tablespace
 
