@@ -121,6 +121,8 @@ References to official docs and some classic books are provided for those who wa
 
 ## This is the Lost Documentation
 
+Here the TODOs are all getting filled in... because we've all been here:
+
 ![Finally Found The Documentation](images/finally_found_documentation.jpeg)
 
 ## GitHub Repos
