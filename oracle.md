@@ -703,7 +703,7 @@ CREATE TEMPORARY TABLESPACE
   temp2
 TEMPFILE '/path/to/new_tempfile.dbf'
 SIZE 50G REUSE
-AUTOEXTEND ON NEXT 100M MAXSIZE 500G;
+AUTOEXTEND ON NEXT 1G MAXSIZE 500G;
 ```
 
 Switch default tempspace to the new one:
