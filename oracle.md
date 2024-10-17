@@ -53,6 +53,7 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
       - [Big File Tablespace](#big-file-tablespace)
       - [Small File Tablespace](#small-file-tablespace)
     - [Shrink Temporary Tablespace](#shrink-temporary-tablespace)
+    - [Shrink Undo Tablespace](#shrink-undo-tablespace)
 - [Restore table from adjacent backup table](#restore-table-from-adjacent-backup-table)
 - [Troubleshooting](#troubleshooting)
   - [Oracle Client Install `Error: Invalid version flag: or`](#oracle-client-install-error-invalid-version-flag-or)
@@ -352,6 +353,19 @@ repeat 10 1
 <https://www.oracle.com/database/sqldeveloper>
 
 SQL Developer - free and widely used Oracle-specific IDE.
+
+This is better
+than using a generic client like [DBeaver](sql.md#dbeaver) because you can use Oracle specific commands like:
+
+```sql
+SHOW PARAMETER undo_retention;
+```
+
+which will fail on DBeaver like this:
+
+```sql
+SQL Error [900] [42000]: ORA-00900: invalid SQL statement
+```
 
 Alternatives:
 
@@ -772,6 +786,56 @@ or add a new temp tablespace datafile for smallfile tablespace.
 Check for low activity time there are no active sessions using temp tablespace before dropping the old temporary file:
 
 [HariSekhon/SQL-scripts - oracle_show_sessions_using_temp_tablespace.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_show_sessions_using_temp_tablespace.sql)
+
+#### Shrink Undo Tablespace
+
+You cannot shrink it but must replace it with a smaller one.
+
+Check how long your Undo retention is:
+
+```sql
+SHOW PARAMETER undo_retention;
+```
+
+This is in seconds, ie. 15 minutes:
+
+```text
+NAME           TYPE    VALUE
+-------------- ------- -----
+undo_retention integer 900
+```
+
+Create a new smaller 'undo' tablespace:
+
+```sql
+CREATE UNDO TABLESPACE new_undo_ts DATAFILE '/path/to/datafile.dbf' SIZE 100G;
+```
+
+Set system to use new undo tablespace:
+
+```sql
+ALTER SYSTEM SET UNDO_TABLESPACE = new_undo_ts;
+```
+
+**Important***: Wait until no active connections is using the old `UNDO` tablespace:
+
+```sql
+SELECT tablespace_name FROM dba_tablespaces WHERE contents = 'UNDO';
+```
+
+**only then drop the old undo tablespace**:
+
+You can reduce the Undo Retention period like this to try to expedite this:
+
+```sql
+ALTER SYSTEM SET undo_retention = 900;  -- Set to 15 minutes temporarily
+```
+
+Once there is nothing using it, drop the old undo tablespace:
+
+```sql
+DROP TABLESPACE old_undo_ts INCLUDING CONTENTS AND DATAFILES;
+```
 
 ## Restore table from adjacent backup table
 
