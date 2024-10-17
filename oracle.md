@@ -75,6 +75,20 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 |------|-------------------|
 | 1521 | Oracle SQL port   |
 
+## AWS RDS Limitations
+
+If you use Oracle on [AWS](aws.md) RDS then you'll face the following
+[restrictions](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Oracle.Concepts.limitations.html#Oracle.Concepts.dba-limitations).
+
+Include no use of these commands:
+
+- `ALTER DATABASE`
+- `ALTER SYSTEM`
+- `CREATE ANY DIRECTORY`
+- `DROP ANY DIRECTORY`
+- `GRANT ANY PRIVILEGE`
+- `GRANT ANY ROLE`
+
 ## Install Oracle Client Packages - SQL*Plus, JDBC, ODBC, SDK
 
 <https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html>
@@ -634,6 +648,20 @@ DROP TABLE mytable_backup;
 Rollback if any problem following [Restore table from adjacent backup table](#restore-table-from-adjacent-backup-table).
 
 ### Shrink Tablespaces
+
+#### Shrink Permanent Tablespace
+
+```sql
+ALTER TABLESPACE users COALESCE;
+```
+
+```sql
+ALTER TABLESPACE users RESIZE 500G;
+```
+
+```text
+SQL Error [3297] [42000]: ORA-03297: file contains used data beyond requested RESIZE value
+```
 
 #### Shrink Temporary Tablespace
 
