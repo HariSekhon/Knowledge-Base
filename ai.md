@@ -87,6 +87,8 @@ Combines LLM with referencing an authoritative traditional Knowledge Base before
 
 <https://www.promptingguide.ai/techniques/rag>
 
+<https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/>
+
 <https://cloud.google.com/use-cases/retrieval-augmented-generation?hl=en>
 
 <https://aws.amazon.com/what-is/retrieval-augmented-generation/>
