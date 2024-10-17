@@ -93,6 +93,8 @@ Combines LLM with referencing an authoritative traditional Knowledge Base before
 
 <https://aws.amazon.com/what-is/retrieval-augmented-generation/>
 
+<https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview>
+
 ## List of AI Tools By Categories
 
 ![List of AI Tools by Categories](images/list-of-ai-tools-by-categories.webp)
