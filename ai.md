@@ -17,6 +17,7 @@ General AI mirroring what humans have is not real yet.
 - [Video](#video)
 - [UI](#ui)
 - [Coding](#coding)
+- [RAG - Retrieval Augmented Generation](#rag---retrieval-augmented-generation)
 - [List of AI Tools By Categories](#list-of-ai-tools-by-categories)
 - [Meme](#meme)
   - [Say Powered by AI One More Time](#say-powered-by-ai-one-more-time)
@@ -79,6 +80,16 @@ Why does the performance degrade after one query?
 - [GitHub CoPilot](https://github.com/features/copilot)
 - [TabNine](https://www.tabnine.com) - support for all major IDEs including my favourite [IntelliJ](intellij.md)
 - [Cursor AI](https://www.cursor.com) - separate Editor that requires download, limited completions in free edition
+
+## RAG - Retrieval Augmented Generation
+
+Combines LLM with referencing an authoritative traditional Knowledge Base before it answers.
+
+<https://www.promptingguide.ai/techniques/rag>
+
+<https://cloud.google.com/use-cases/retrieval-augmented-generation?hl=en>
+
+<https://aws.amazon.com/what-is/retrieval-augmented-generation/>
 
 ## List of AI Tools By Categories
 
