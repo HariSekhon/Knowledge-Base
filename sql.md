@@ -38,7 +38,7 @@ Scripts for [PostgreSQL](postgres.md), [MySQL](mysql.md), AWS Athena and Google 
 
 Preference is given to free tools.
 
-- [DBeaver](https://dbeaver.io/) - Universal Database Client - supports many DBs
+- [DBeaver](#dbeaver) - open source universal database client - supports many DBs
 - [CloudBeaver](cloudbeaver.md) - web UI SQL client
 - [DBGate](https://dbgate.org/) - SQL + NoSQL client
 - [BeeKeeperStudio](https://www.beekeeperstudio.io/)
@@ -55,17 +55,25 @@ Preference is given to free tools.
 
 <https://dbeaver.io/>
 
-<https://dbeaver.io/download/>
+Open source universal database client that supports many databases.
 
-On Mac, you can just:
+Prompts to download JDBC drivers from Maven Central for the database you're connecting to at first connection test time.
+
+Download: <https://dbeaver.io/download/>
+
+On Mac, you can install using [Homebrew](brew.md):
 
 ```shell
 brew install dbeaver-community
 ```
 
-Prompts to download JDBC drivers from Maven Central for the database you're connecting to at first connection test time.
+and then find the application icon under `Applications` as standard or open from the command line:
 
-In SQL Console, `Cmd`-`Enter` on Mac or `Ctrl`-`Enter`
+```shell
+open -a "DBeaver"
+```
+
+In the SQL Console, `Cmd`-`Enter` on Mac or `Ctrl`-`Enter`
 on Windows to execute SQL query under cursor, similar to [SQL Developer](oracle.md#sql-developer-ide).
 
 ## SQL Linting
