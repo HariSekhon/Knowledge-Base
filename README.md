@@ -119,7 +119,7 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_END -->
 
-## This is the lost documentation
+## This is the Lost Documentation
 
 ![Finally Found The Documentation](images/finally_found_documentation.jpeg)
 
