@@ -9,6 +9,7 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 <!-- INDEX_START -->
 
 - [Key Points](#key-points)
+- [AWS RDS Limitations](#aws-rds-limitations)
 - [Install Oracle Client Packages - SQL*Plus, JDBC, ODBC, SDK](#install-oracle-client-packages---sqlplus-jdbc-odbc-sdk)
   - [SQL*Plus Readline Support](#sqlplus-readline-support)
 - [Local Login as Admin](#local-login-as-admin)
@@ -48,6 +49,9 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
   - [Investigate Big Tables with Free Space](#investigate-big-tables-with-free-space)
   - [Shrink Table](#shrink-table)
   - [Shrink Tablespaces](#shrink-tablespaces)
+    - [Shrink Permanent Tablespace](#shrink-permanent-tablespace)
+      - [Big File Tablespace](#big-file-tablespace)
+      - [Small File Tablespace](#small-file-tablespace)
     - [Shrink Temporary Tablespace](#shrink-temporary-tablespace)
 - [Restore table from adjacent backup table](#restore-table-from-adjacent-backup-table)
 - [Troubleshooting](#troubleshooting)
@@ -665,35 +669,6 @@ SQL Error [3297] [42000]: ORA-03297: file contains used data beyond requested RE
 
 On [AWS](aws.md) RDS follow this [doc](https://repost.aws/knowledge-center/rds-oracle-resize-tablespace).
 
-#### Shrink Temporary Tablespace
-
-If this is overallocated you can drop and create it smaller.
-
-Use this query to find out if it's a Bigfile or Smallfile tablespace. [AWS](aws.md) RDS uses Bigfile tablespaces.
-
-```sql
-SELECT TABLESPACE_NAME, CONTENTS, BIGFILE FROM DBA_TABLESPACES;
-```
-**WARNING**: dropping temp tablespace or tablespace file can disrupt active sessions using sorts, large queries,
-or index rebuilds, all of which use the temporary tablespace and can get hit with errors like:
-
-```text
-ORA-01187: cannot read from file because it failed verification tests
-```
-
-or
-
-```text
-ORA-01110: data file name of the tempfile
-```
-
-You should add a new temp tablespace for a bigfile tablespace
-or add a new temp tablespace datafile for smallfile tablespace.
-
-Check for low activity time there are no active sessions using temp tablespace before dropping the old temporary file:
-
-[HariSekhon/SQL-scripts - oracle_show_sessions_using_temp_tablespace.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_show_sessions_using_temp_tablespace.sql)
-
 ##### Big File Tablespace
 
 Add new temp tablespace and then remove old one:
@@ -766,6 +741,36 @@ Edit the filename path in this `ALTER` statement to delete that tempfile when no
 ```sql
 ALTER DATABASE TEMPFILE '/path/to/old_tempfile.dbf' DROP;
 ```
+
+#### Shrink Temporary Tablespace
+
+If this is overallocated you can drop and create it smaller.
+
+Use this query to find out if it's a Bigfile or Smallfile tablespace. [AWS](aws.md) RDS uses Bigfile tablespaces.
+
+```sql
+SELECT TABLESPACE_NAME, CONTENTS, BIGFILE FROM DBA_TABLESPACES;
+```
+
+**WARNING**: dropping temp tablespace or tablespace file can disrupt active sessions using sorts, large queries,
+or index rebuilds, all of which use the temporary tablespace and can get hit with errors like:
+
+```text
+ORA-01187: cannot read from file because it failed verification tests
+```
+
+or
+
+```text
+ORA-01110: data file name of the tempfile
+```
+
+You should add a new temp tablespace for a bigfile tablespace
+or add a new temp tablespace datafile for smallfile tablespace.
+
+Check for low activity time there are no active sessions using temp tablespace before dropping the old temporary file:
+
+[HariSekhon/SQL-scripts - oracle_show_sessions_using_temp_tablespace.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_show_sessions_using_temp_tablespace.sql)
 
 ## Restore table from adjacent backup table
 
