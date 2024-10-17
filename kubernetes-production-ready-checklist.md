@@ -188,6 +188,7 @@ Set up a stable HTTPS entrypoint to your apps with DNS and SSL.
 - [Kong](https://konghq.com/) ([config](https://github.com/HariSekhon/Kubernetes-configs/blob/master/kong/base/))
 - [Traefik](https://traefik.io/traefik/) ([config](https://github.com/HariSekhon/Kubernetes-configs/blob/master/traefik/base/))
 - [HAProxy](https://haproxy.org/) ([config](https://github.com/HariSekhon/Kubernetes-configs/blob/master/haproxy))
+- [Ambassador](https://getambassador.io/)
 
 ### Automatic SSL - Cert Manager
 
