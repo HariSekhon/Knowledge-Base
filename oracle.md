@@ -663,9 +663,84 @@ ALTER TABLESPACE users RESIZE 500G;
 SQL Error [3297] [42000]: ORA-03297: file contains used data beyond requested RESIZE value
 ```
 
+On [AWS](aws.md) RDS follow this [doc](https://repost.aws/knowledge-center/rds-oracle-resize-tablespace).
+
 #### Shrink Temporary Tablespace
 
 If this is overallocated you can drop and create it smaller.
+
+Use this query to find out if it's a Bigfile or Smallfile tablespace. [AWS](aws.md) RDS uses Bigfile tablespaces.
+
+```sql
+SELECT TABLESPACE_NAME, CONTENTS, BIGFILE FROM DBA_TABLESPACES;
+```
+**WARNING**: dropping temp tablespace or tablespace file can disrupt active sessions using sorts, large queries,
+or index rebuilds, all of which use the temporary tablespace and can get hit with errors like:
+
+```text
+ORA-01187: cannot read from file because it failed verification tests
+```
+
+or
+
+```text
+ORA-01110: data file name of the tempfile
+```
+
+You should add a new temp tablespace for a bigfile tablespace
+or add a new temp tablespace datafile for smallfile tablespace.
+
+Check for low activity time there are no active sessions using temp tablespace before dropping the old temporary file:
+
+[HariSekhon/SQL-scripts - oracle_show_sessions_using_temp_tablespace.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_show_sessions_using_temp_tablespace.sql)
+
+##### Big File Tablespace
+
+Add new temp tablespace and then remove old one:
+
+```sql
+CREATE TEMPORARY TABLESPACE
+  temp2
+TEMPFILE '/path/to/new_tempfile.dbf'
+SIZE 50G REUSE
+AUTOEXTEND ON NEXT 100M MAXSIZE 500G;
+```
+
+Switch default tempspace to the new one:
+
+```sql
+ALTER DATABASE DEFAULT TEMPORARY TABLESPACE temp2;
+```
+
+Switch all users tempspaces to the new one:
+
+```sql
+BEGIN
+  FOR r IN (SELECT username FROM dba_users WHERE temporary_tablespace = 'TEMP') LOOP
+    EXECUTE IMMEDIATE 'ALTER USER ' || r.username || ' TEMPORARY TABLESPACE temp2';
+  END LOOP;
+END;
+/
+```
+
+Wait for old user sessions to complete:
+
+```sql
+SELECT
+  username, tablespace, blocks
+FROM
+  v$tempseg_usage
+WHERE
+  tablespace = 'TEMP';
+```
+
+Then drop the old temp tablespace:
+
+```sql
+DROP TABLESPACE TEMP INCLUDING CONTENTS AND DATAFILES;
+```
+
+##### Small File Tablespace
 
 Create new temporary tablespace tempfile with a new size first to avoid Oracle having any period of time with no sort /
 index rebuild space:
@@ -685,23 +760,6 @@ or
 ```sql
 SELECT file_name, tablespace_name, bytes/1024/1024 AS size_mb FROM dba_temp_files;
 ```
-
-**WARNING**: dropping temp tablespace file can disrupt active sessions using sorts, large queries, or index rebuilds,
-all of which use the temporary tablespace and can get hit with errors like:
-
-```text
-ORA-01187: cannot read from file because it failed verification tests
-```
-
-or
-
-```text
-ORA-01110: data file name of the tempfile
-```
-
-Check for low activity time there are no active sessions using temp tablespace before dropping the old temporary file:
-
-[HariSekhon/SQL-scripts - oracle_show_sessions_using_temp_tablespace.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_show_sessions_using_temp_tablespace.sql)
 
 Edit the filename path in this `ALTER` statement to delete that tempfile when no session is using the temp tablespace:
 
