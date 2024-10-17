@@ -4,6 +4,7 @@
 
 - [SQL Scripts](#sql-scripts)
 - [SQL Clients](#sql-clients)
+  - [DBeaver](#dbeaver)
 - [SQL Linting](#sql-linting)
 - [SQL Basics](#sql-basics)
   - [DDL - Data Definition Language](#ddl---data-definition-language)
@@ -11,6 +12,7 @@
   - [Query Predicates](#query-predicates)
   - [Functions](#functions)
     - [Aggregate Functions](#aggregate-functions)
+      - [Nesting Aggregate Functions](#nesting-aggregate-functions)
   - [JOINs](#joins)
   - [Database vs Schema](#database-vs-schema)
   - [Tables vs Views vs Materialized Views](#tables-vs-views-vs-materialized-views)
@@ -36,7 +38,7 @@ Scripts for [PostgreSQL](postgres.md), [MySQL](mysql.md), AWS Athena and Google 
 
 Preference is given to free tools.
 
-- [DBeaver](https://dbeaver.io/)
+- [DBeaver](https://dbeaver.io/) - Universal Database Client - supports many DBs
 - [CloudBeaver](cloudbeaver.md) - web UI SQL client
 - [DBGate](https://dbgate.org/) - SQL + NoSQL client
 - [BeeKeeperStudio](https://www.beekeeperstudio.io/)
@@ -48,6 +50,23 @@ Preference is given to free tools.
 - [PgAdmin](https://www.pgadmin.org/) - PostgreSQL web UI
 - [phpMyAdmin](https://www.phpmyadmin.net/) - MySQL web UI
 - [SQL Chat](https://github.com/sqlchat/sqlchat) - chat-based interface to querying DBs
+
+### DBeaver
+
+<https://dbeaver.io/>
+
+<https://dbeaver.io/download/>
+
+On Mac, you can just:
+
+```shell
+brew install dbeaver-community
+```
+
+Prompts to download JDBC drivers from Maven Central for the database you're connecting to at first connection test time.
+
+In SQL Console, `Cmd`-`Enter` on Mac or `Ctrl`-`Enter`
+on Windows to execute SQL query under cursor, similar to [SQL Developer](oracle.md#sql-developer-ide).
 
 ## SQL Linting
 
@@ -146,7 +165,9 @@ COUNT(column) vs COUNT(DISTINCT(column)):
 - COUNT(DISTINCT(column)) - returns the number of unique non-`NULL` values in the given column
   - eg. `SELECT COUNT(DISTINCT(category)) FROM my_table GROUP BY category` - how many different categories are there
 
-##### Nesting Aggregate Function - you can nest aggregate functions up to two levels deep
+##### Nesting Aggregate Functions
+
+Yyou can nest aggregate functions up to two levels deep.
 
 Eg. this query finds the category with the most records:
 
