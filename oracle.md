@@ -80,7 +80,7 @@ Most of this was not retained to be ported and I don't work on Oracle any more t
 If you use Oracle on [AWS](aws.md) RDS then you'll face the following
 [restrictions](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Oracle.Concepts.limitations.html#Oracle.Concepts.dba-limitations).
 
-Include no use of these commands:
+Including no use of these commands:
 
 - `ALTER DATABASE`
 - `ALTER SYSTEM`
