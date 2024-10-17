@@ -378,7 +378,7 @@ open -a "SQLDeveloper"
 
 #### Execute Shortcut
 
-Hit `Cmd`-`Enter` (Windows) or `Ctrl`-`Enter` (Mac) when the cursor is on a query in the Query Builder SQL Worksheet to
+Hit `Ctrl`-`Enter` on Windows or Mac when the cursor is on a query in the Query Builder SQL Worksheet to
 quickly execute the SQL statement (must be ended with a semi-colon `;` to separate it from the next query)
 without having to click the green triangle run button.
 
