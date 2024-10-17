@@ -653,7 +653,8 @@ Rollback if any problem following [Restore table from adjacent backup table](#re
 
 ### Shrink Tablespaces
 
-On [AWS](aws.md) RDS follow this [doc](https://repost.aws/knowledge-center/rds-oracle-resize-tablespace).
+On [AWS](aws.md) RDS follow this [doc](https://repost.aws/knowledge-center/rds-oracle-resize-tablespace) and this
+[doc](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.Oracle.CommonDBATasks.ResizeTempSpaceReadReplica.html).
 
 #### Shrink Permanent Tablespace
 
