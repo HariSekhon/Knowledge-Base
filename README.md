@@ -42,6 +42,7 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_START -->
 
+- [This is the lost documentation](#this-is-the-lost-documentation)
 - [GitHub Repos](#github-repos)
 - [Systems](#systems)
   - [Operating Systems](#operating-systems)
@@ -118,7 +119,7 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_END -->
 
-**This is the lost documentation.**
+## This is the lost documentation
 
 ![Finally Found The Documentation](images/finally_found_documentation.jpeg)
 
