@@ -575,6 +575,15 @@ Then purge it:
 PURGE DBA_RECYCLEBIN;
 ```
 
+On [AWS](aws.md) RDS you will need to call this instead due to AWS restricting some system procedures:
+
+```sql
+EXEC rdsadmin.rdsadmin_util.purge_dba_recyclebin;
+```
+
+See [this doc](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.Oracle.CommonDBATasks.Database.html)
+for more details.
+
 Then re-run
 [oracle_show_dba_recyclebin.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_show_dba_recyclebin.sql)
 to check.
