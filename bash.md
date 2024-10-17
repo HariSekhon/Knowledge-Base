@@ -110,6 +110,7 @@ Some less well known commands to remember:
 
 | Command                                 | Description                                                                                                                                                                                                |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `mktemp`                                | Creates an empty file atomically for you to use, avoiding race conditions of clashing with other scripts                                                                                                   |
 | `cmp`                                   | compare whether two files diff. Shorter than doing an `md5sum` on both (`md5` on Mac)                                                                                                                      |
 | `comm`                                  | print or omit lines are common or unique between two files                                                                                                                                                 |
 | `expand`                                | expands tabs to spaces                                                                                                                                                                                     |
