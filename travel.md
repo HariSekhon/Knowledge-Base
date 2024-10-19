@@ -533,8 +533,11 @@ The many Chateaux outside of Paris in the French countryside are nice though
 
 #### Tibilisi
 
-- [Santino](https://maps.app.goo.gl/qhHcNSGDWzB95a5U7) - excellent 24x7 modcoffee bar just off Liberty Square.
-  Excellent drinks menu, good food menu, bit pricey by local standards but good ambience
+- Santino - excellent 24x7 modcoffee bar - excellent drinks menu,
+  good food menu, bit pricey by local standards but good ambience.
+  South just off Liberty Square a few doors closer to the square than
+  [Bernard](https://maps.app.goo.gl/QG1TE4sq3LH7PXX89), not the Santino on Atoneli St that Google Maps finds which
+  closes at 11pm.
 - [Gloria Jean](https://maps.app.goo.gl/qKu3MUHQR5di9UpZ7) - good coffee shop in Liberty Square,
   the cherry juice is very nice, although the chai latte is a little too sweet IMO, ask them to add less powder
 - [Pasanauri](https://maps.app.goo.gl/MQCwW54s7MRHsoNs6) - moderately priced good food,
