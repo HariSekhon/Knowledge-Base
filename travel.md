@@ -545,6 +545,9 @@ The many Chateaux outside of Paris in the French countryside are nice though
 - [Ode Cafe](https://maps.app.goo.gl/Xs4Vq6zcoXEn9KpK6) - live piano music at alfresco outdoor dining, more limited menu
   than Pasanuri and bit pricier (you're probably paying for the piano) but still good.
   The 10 Khinkali big meat dumplings and Kharcho soup are both good, but together are too much food.
+- [Ramekai](https://maps.app.goo.gl/NG1L1dCfpspMFB2u5) -
+  Japanese sushi and ramen place if you want a break from Georgian food being soup and dumplings everywhere.
+  Skip the deep fried popcorn chicken starter and go for the Miso Ramen.
 
 ### Germany
 
