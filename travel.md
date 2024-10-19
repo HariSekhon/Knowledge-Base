@@ -535,6 +535,8 @@ The many Chateaux outside of Paris in the French countryside are nice though
 
 - Santino - excellent 24x7 modcoffee bar - excellent drinks menu,
   good food menu, bit pricey by local standards but good ambience.
+  They have _"Laptop Free Zone"_ stickers on every table (which I take exception to!) but it's quiet enough at night
+  that it's not enforced.
   South just off Liberty Square a few doors closer to the square than
   [Bernard](https://maps.app.goo.gl/QG1TE4sq3LH7PXX89), not the Santino on Atoneli St that Google Maps finds which
   closes at 11pm.
