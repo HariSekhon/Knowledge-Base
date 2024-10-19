@@ -14,6 +14,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [EU](#eu)
   - [Rest of World](#rest-of-world)
     - [Digital e-sims](#digital-e-sims)
+- [International Calls using VoIP over the Internet](#international-calls-using-voip-over-the-internet)
 - [Dining Out](#dining-out)
 - [Translation](#translation)
 - [Beware Foreign Police & Customs](#beware-foreign-police--customs)
@@ -221,6 +222,13 @@ and add the country you are travelling to for more options.
 - <https://www.airalo.com/> - follow the installation instructions and make sure to enable `Data Roaming`
   under the e-sim settings otherwise the internet won't connect
 - <https://esim.holafly.com/>
+
+## International Calls using VoIP over the Internet
+
+Because banks and other legacy providers will force you to call them, you can use one of these services:
+
+- [Skype](https://www.skype.com/en/international-calls/)
+- [Google Voice](https://voice.google.com/rates)
 
 ## Dining Out
 
@@ -1204,9 +1212,10 @@ Copying them was how a lot of the European countries on this list were covered!
 #### Banking
 
 - [Mashreq](https://www.mashreq.com/) is the easiest to use, app-only like Starling or Monzo
-  - I lost 5% on a £21 AED transfer into GBP account... Bitcoin transaction fees are
+  - I lost 5% on a GBP-to-GBP transfer from ADCB to Mashreq... Bitcoin transaction fees are
     [usually much lower](https://ycharts.com/indicators/bitcoin_average_transaction_fee).
-- [ADCB]() is the next best, but the premium account is a big hassle and has a minimum balance requirement
+- [ADCB](https://www.adcb.com/en/personal/) is the next best, but the premium account is a big hassle and has a minimum balance requirement
+  - See the 5% loss above sending GBP-to-GBP from ADCB to Mashreq (estimate 1.68% on ADCB's side even using a premium account)
 - [Emirates NBD](https://www.emiratesnbd.com/en) has a bad reputation among my peers for being a lot of hassle
   - they were a hassle to open, wanting salary certificate
   - even closing the account is difficult apparently
