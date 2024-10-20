@@ -1224,6 +1224,8 @@ Copying them was how a lot of the European countries on this list were covered!
     [usually much lower](https://ycharts.com/indicators/bitcoin_average_transaction_fee).
 - [ADCB](https://www.adcb.com/en/personal/) is the next best, but the premium account is a big hassle and has a minimum balance requirement
   - See the 5% loss above sending GBP-to-GBP from ADCB to Mashreq (estimate 1.68% on ADCB's side even using a premium account)
+  - I calculated a GBP to AED transfer within ADCB cost 1.66% hidden in a worse conversion rate. This is outrageous if
+    you were to transfer or convert large amounts of money such as your life savings.
 - [Emirates NBD](https://www.emiratesnbd.com/en) has a bad reputation among my peers for being a lot of hassle
   - they were a hassle to open, wanting salary certificate
   - even closing the account is difficult apparently
