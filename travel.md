@@ -553,8 +553,10 @@ Do not use Airport taxis, they are double the price of using the Bolt app.
 
 Tbilisi Airport wifi sucks.
 
-It disconnects all the time and insists on giving a swipe right advertisement for investments...
-but you cannot swipe on a laptop and pressing any combination of the right and meta keys doesn't work.
+It disconnects all the time and insists on giving a swipe right advertisement for investments before letting you
+complete the networking setup.
+
+Except you can't swipe on a laptop and pressing any combination of the right arrow and meta keys doesn't work.
 
 So you can't connect your laptop to the airport wifi, only your phone.
 
