@@ -231,7 +231,7 @@ Because banks and other legacy providers will force you to call them, you can us
   but again does not apply to premium or non-geographic numbers like banks often use
 - [MoreMins](https://www.moremins.com/) - quick, cheap and easy, has an app, £5 for 30 days of unlimited calls,
   use 0800 number to your bank, as premium / national numbers like banks are often using will incur high per-minute
-  charges
+  charges. Blocked me from using Barclays 0800 number. Possible bust option
 - [Google Voice](https://voice.google.com/rates) - cheaper than Skype for national calls but hard to use as a foreigner,
   limited to 10 countries, need to use a [VPN](vpn.md) just to try to access it, disappointing usability
 - [Skype](https://www.skype.com/en/international-calls/) - £5 for 400 minutes, expensive for national numbers like most
