@@ -227,8 +227,12 @@ and add the country you are travelling to for more options.
 
 Because banks and other legacy providers will force you to call them, you can use one of these services:
 
-- [Google Voice](https://voice.google.com/rates) - cheaper than Skype, but limited to 10 countries. Use a [VPN](vpn.md).
-- [Skype](https://www.skype.com/en/international-calls/)
+- [MoreMins](https://www.moremins.com/) - quick, cheap and easy, has an app, £5 for unlimited local calls,
+  use 0800 number to your bank, other numbers will incur high charges
+- [Google Voice](https://voice.google.com/rates) - cheaper than Skype for national calls but hard to use as a foreigner,
+  limited to 10 countries, need to use a [VPN](vpn.md) just to try to access it, disappointing usability
+- [Skype](https://www.skype.com/en/international-calls/) - £5 for 400 minutes, expensive for national numbers like most
+  banks and businesses use
 
 ## Dining Out
 
