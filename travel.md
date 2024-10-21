@@ -227,8 +227,8 @@ and add the country you are travelling to for more options.
 
 Because banks and other legacy providers will force you to call them, you can use one of these services:
 
+- [Google Voice](https://voice.google.com/rates) - cheaper than Skype, but limited to 10 countries. Use a [VPN](vpn.md).
 - [Skype](https://www.skype.com/en/international-calls/)
-- [Google Voice](https://voice.google.com/rates)
 
 ## Dining Out
 
