@@ -51,6 +51,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Paris](#paris)
   - [Georgia](#georgia)
     - [Georgia Taxies](#georgia-taxies)
+    - [Tbilisi Airport](#tbilisi-airport)
     - [Tibilisi](#tibilisi)
   - [Germany](#germany)
     - [Driving in Germany](#driving-in-germany)
@@ -547,6 +548,15 @@ Do not use Airport taxis, they are double the price of using the Bolt app.
 - [Bolt](https://apps.apple.com/us/app/bolt-request-a-ride/id675033630) - used this was half the price of the official
   Airport taxi
 - [Yandex Taxi](https://apps.apple.com/us/app/yandex-go-taxi-food-delivery/id472650686)
+
+#### Tbilisi Airport
+
+Tbilisi Airport wifi sucks.
+
+It disconnects all the time and insists on giving a swipe right advertisement for investments...
+but you cannot swipe on a laptop and pressing any combination of the right and meta keys doesn't work.
+
+So you can't connect your laptop to the airport wifi, only your phone.
 
 #### Tibilisi
 
