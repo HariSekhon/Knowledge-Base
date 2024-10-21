@@ -50,6 +50,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Dunkirk](#dunkirk)
     - [Paris](#paris)
   - [Georgia](#georgia)
+    - [Georgia Taxies](#georgia-taxies)
     - [Tibilisi](#tibilisi)
   - [Germany](#germany)
     - [Driving in Germany](#driving-in-germany)
@@ -228,7 +229,8 @@ and add the country you are travelling to for more options.
 Because banks and other legacy providers will force you to call them, you can use one of these services:
 
 - [Viber](https://account.viber.com/en/call-united-kingdom) - 1 week free trial, $5.99 afterwards for unlimited calls,
-  but again does not apply to premium or non-geographic numbers like banks often use
+  but again does not apply to premium or non-geographic numbers like banks often use,
+  worked on Barclays number that MoreMins was not processing voice
 - [MoreMins](https://www.moremins.com/) - quick, cheap and easy, has an app, £5 for 30 days of unlimited calls,
   use 0800 number to your bank, as premium / national numbers like banks are often using will incur high per-minute
   charges. Blocked me from using Barclays 0800 number. Possible bust option
@@ -537,6 +539,14 @@ The many Chateaux outside of Paris in the French countryside are nice though
 (I used to go every year with a company for retreats).
 
 ### Georgia
+
+#### Georgia Taxies
+
+Do not use Airport taxis, they are double the price of using the Bolt app.
+
+- [Bolt](https://apps.apple.com/us/app/bolt-request-a-ride/id675033630) - used this was half the price of the official
+  Airport taxi
+- [Yandex Taxi](https://apps.apple.com/us/app/yandex-go-taxi-food-delivery/id472650686)
 
 #### Tibilisi
 
