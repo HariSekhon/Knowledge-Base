@@ -1175,6 +1175,9 @@ I had to rely on my Expedia app on my phone to eventually load enough for me to 
 
 This was the worst wifi experience I ever remember, even worse than Istanbul and Tbilisi.
 
+The wifi was so terrible that after an hour of struggling to use it I ended up paying €6 for the
+_"High Speed Internet"_, which was slightly less rubbish.
+
 #### Istanbul
 
 Istanbul is one big tourist trap.
