@@ -216,10 +216,10 @@ If driving, make sure to double check parking at hotels or Airbnbs.
 If Expedia shows `Parking Available` include of `Parking Included`, that means there will be parking charges,
 which can be quite high.
 
-You have to scroll all the way to the bottom of the hotel listing to found out what the charges are in the small print.
+You have to scroll all the way to the bottom of the hotel listing to find out what the charges are in the small print.
 
-I often prefer booking places a bit away from the centers to get easier parking as many central accomodations,
-both hotels and airbnbs lack good parking.
+When driving, I often prefer booking places a bit away from the centers to get easier parking as many central
+accomodations, both hotels and airbnbs lack good parking.
 
 Also, if you're only going into the centres in the evenings, often you can get cheap or even free parking.
 
