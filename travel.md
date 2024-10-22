@@ -8,6 +8,9 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 
 - [Booking Sites](#booking-sites)
 - [Flights](#flights)
+  - [Flights Gotchas](#flights-gotchas)
+    - [Self Transfer](#self-transfer)
+    - [Change Airport](#change-airport)
 - [Hotels vs Airbnb](#hotels-vs-airbnb)
   - [Parking](#parking)
 - [Mobile Internet Access](#mobile-internet-access)
@@ -158,8 +161,38 @@ Same goes for ferries if driving.
 Favourite Airline: Air Arabia because they didn't tell me to put my laptop away during takeoff. One less pointless rule
 enforced.
 
-Beware there is no `CHANGE AIRPORT` stopover as you'd have to go through security all over again and could miss your
-connecting flight.
+### Flights Gotchas
+
+#### Self Transfer
+
+Avoid `Self Transfer`.
+
+This is a hack by comparison sites matching unrelated airline flights.
+
+If the first flight is delayed, which is common, the other airline won't care and wait for you.
+
+You will lose the second flight you paid for.
+They try to sell you additional insurance in this case to potentially offer you another
+flight but who's to say that will be the next decent flight instead of the cheapest possible.
+
+This is how you can get stranded at airports for awfully long periods of time wearing you down.
+
+I've learnt this one the hard way when my flight from Tbilisi, Georgia, to Antalya, Turkey, was delayed by 1hr30mins
+so I had no chance of catching the other flight which was only 2 hours apart.
+Worse still it was at another terminal
+that was 2km away so I even had to take a taxi to the other terminal for the other flight.
+
+You will also lose time collecting luggage, going through a new check-in, security again etc.
+
+Stick to the same airline transfers, they will be aware that their counterpart flight was delayed
+and are more likely to hold the flight to give everyone time to transfer.
+
+#### Change Airport
+
+Beware there is no `CHANGE AIRPORT` stopover as you'd have to travel between airports across a city or region
+and this makes it even more likely that you'll miss a connecting flight.
+
+It's even worse than the `Self Transfer`.
 
 ## Hotels vs Airbnb
 
