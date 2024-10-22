@@ -111,6 +111,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Sweden](#sweden)
     - [Stockholm](#stockholm)
   - [Turkey](#turkey)
+    - [Antalya](#antalya)
     - [Istanbul](#istanbul)
   - [UAE](#uae)
     - [Dubai](#dubai)
@@ -1163,6 +1164,14 @@ no staff most of the time or seeing other guests.
 Inflation and rent prices make this not a good value for money destination.
 
 Expensive restaurants and there are only so many times you can eat kebab / mixed grill / dips.
+
+#### Antalya
+
+I had a stopover and missed my connecting flight due to a 2 hour delay by the first flight.
+
+Thw wifi in Antalya is even worse than in Istanbul. You need to swipe your passport at a kiosk to get a code for a
+crappy minimal wifi, medium signal, but crippled bandwidth that web pages don't load. It was unusable on my laptop and
+I had to rely on my Expedia app on my phone to eventually load enough for me to book a flight out of there.
 
 #### Istanbul
 
