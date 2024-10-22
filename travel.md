@@ -12,7 +12,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Self Transfer](#self-transfer)
     - [Change Airport](#change-airport)
 - [Hotels vs Airbnb](#hotels-vs-airbnb)
-  - [Hotel & AirBnb - Parking](#hotel--airbnb---parking)
+  - [Hotel & Airbnb - Parking](#hotel--airbnb---parking)
 - [Mobile Internet Access](#mobile-internet-access)
   - [EU](#eu)
   - [Rest of World](#rest-of-world)
@@ -209,7 +209,7 @@ I have have private hosts cancel my accommodations the day before or even the sa
 
 It's annoying to be booking at the last minute because you'll get the least good places for the most expensive prices.
 
-### Hotel & AirBnb - Parking
+### Hotel & Airbnb - Parking
 
 If driving, make sure to double check parking at hotels or Airbnbs.
 
