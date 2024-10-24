@@ -749,6 +749,85 @@ ORDER BY
     total_gb DESC;
 ```
 
+To investigate tables space in only a given schema eg. `USERS`:
+
+```sql
+SELECT
+    t.owner,
+    t.table_name,
+    ROUND(t.blocks * 8 / 1024 / 1024, 2) AS total_gb_from_tables,
+    ROUND(s.bytes / 1024 / 1024 / 1024, 2) AS total_gb_from_segments,
+    ROUND(t.num_rows * t.avg_row_len / 1024 / 1024 / 1024, 2) AS actual_data_gb,
+    ROUND(((t.blocks * 8 / 1024) - (t.num_rows * t.avg_row_len / 1024 / 1024)) / 1024, 2) AS estimated_free_space_gb,
+    ROUND(((t.blocks * 8) - (t.num_rows * t.avg_row_len / 1024)) / (t.blocks * 8) * 100, 2) AS estimated_free_space_pct,
+    t.last_analyzed
+FROM
+    dba_tables t
+JOIN
+    dba_segments s
+ON
+    t.owner = s.owner
+        AND
+    t.table_name = s.segment_name
+WHERE
+    t.blocks > 0
+        AND
+    t.num_rows > 0
+        AND
+    -- TUNE: currently only showing tables over 20% utilized
+    ((t.blocks * 8 / 1024) - (t.num_rows * t.avg_row_len / 1024 / 1024)) / (t.blocks * 8 / 1024) > 0.2
+        AND
+    t.owner = 'INFA_STG2'
+ORDER BY
+    estimated_free_space_gb DESC,
+    total_gb_from_segments DESC;
+```
+
+To investigate segments in the given schema eg. `USERS`:
+
+```sql
+SELECT
+    segment_name,
+    segment_type,
+    tablespace_name,
+    bytes/1024/1024/1024 AS size_gb,
+    blocks
+FROM
+    dba_segments
+WHERE
+    owner = 'USERS'  -- XXX: Edit this
+        AND
+    segment_type = 'TABLE'
+        AND
+    blocks > 8
+    -- to look at only specific tables
+    --    AND
+    --segment_name IN
+    --('MY_TABLE', 'MY_TABLE2')
+ORDER BY
+    size_gb DESC;
+```
+
+Find table candidates to move / shrink in a given tablespace:
+
+```sql
+SELECT
+    segment_name,
+    segment_type,
+    ROUND(SUM(bytes)/1024/1024/1024, 2) AS size_gb
+FROM
+    dba_segments
+WHERE
+    tablespace_name = 'USERS' -- XXX: Edit
+GROUP BY
+    segment_name,
+    segment_type
+HAVING
+    SUM(bytes)/1024/1024/1024 > 1
+ORDER BY
+    size_gb DESC;
+```
+
 ### Shrink Table
 
 **First [backup the table](#backup-table-to-adjacent-backup-table)** you are going to shrink to an adjacent backup table.
