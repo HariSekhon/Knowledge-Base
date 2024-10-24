@@ -835,10 +835,29 @@ ORDER BY
 Then `SHRINK SPACE` of the table to reduce space allocated to it by removing unused space from its data blocks
 (optimizes storage and improves performance).
 
+```sql
+ALTER TABLE mytable ENABLE ROW MOVEMENT;
+```
+
 `CASCADE` also shrinks dependent objects eg. indexes:
 
 ```sql
 ALTER TABLE mytable SHRINK SPACE CASCADE;
+```
+
+```text
+--Start time  Thu Oct 10 13:56:13 GST 2024
+--Finish time Thu Oct 10 14:01:10 GST 2024
+```
+
+```sql
+ALTER TABLE mytable DISABLE ROW MOVEMENT;
+```
+
+Regenerate stats on table otherwise you won't see the space change:
+
+```sql
+CALL DBMS_STATS.GATHER_TABLE_STATS('myschema', 'mytable');
 ```
 
 Check the space again by running scripts / queries above in [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts).
