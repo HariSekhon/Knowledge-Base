@@ -599,9 +599,25 @@ PURGE TABLE table_name;
 
 This is for all user's recyclebins.
 
-Use
+Show the recyclebin contents for all users:
+
 [oracle_show_dba_recyclebin.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_show_dba_recyclebin.sql)
-to see the recyclebin contents for all users.
+
+```sql
+SELECT
+    owner,
+    object_name,
+    original_name,
+    type,
+    droptime,
+    space
+FROM
+    dba_recyclebin
+ORDER BY
+    owner,
+    droptime
+DESC;
+```
 
 Then purge it:
 
@@ -618,9 +634,25 @@ EXEC rdsadmin.rdsadmin_util.purge_dba_recyclebin;
 See [this doc](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.Oracle.CommonDBATasks.Database.html)
 for more details.
 
-Then re-run
+Then re-run the show recyclebin query to check:
+
 [oracle_show_dba_recyclebin.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_show_dba_recyclebin.sql)
-to check.
+
+```sql
+SELECT
+    owner,
+    object_name,
+    original_name,
+    type,
+    droptime,
+    space
+FROM
+    dba_recyclebin
+ORDER BY
+    owner,
+    droptime
+DESC;
+```
 
 ### Investigate Tablespaces Space
 
@@ -632,13 +664,90 @@ SELECT value FROM v$parameter WHERE name = 'db_block_size';
 
 Should show value = `8192`.
 
+Show Tablespace Size, Space Used vs Free in GB and as a Percentage:
+
 [HariSekhon/SQL-scripts - oracle_tablespace_space.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_tablespace_space.sql)
 
+```sql
+SELECT
+    df.tablespace_name "Tablespace",
+    df.bytes / (1024 * 1024 * 1024) "Size (GB)",
+    (df.bytes - SUM(fs.bytes)) / (1024 * 1024 * 1024) "Used Space (GB)",
+    ROUND(SUM(fs.bytes) / (1024 * 1024 * 1024), 2) "Free Space (GB)",
+    ROUND(SUM(fs.bytes) / df.bytes * 100, 2) "Free Space %"
+FROM
+    dba_free_space fs,
+    (SELECT
+        tablespace_name,
+        SUM(bytes) bytes
+    FROM
+        dba_data_files
+    GROUP BY
+        tablespace_name) df
+WHERE
+    fs.tablespace_name (+) = df.tablespace_name
+        AND
+    UPPER(fs.tablespace_name) LIKE '%UNDO%'
+GROUP BY
+     df.tablespace_name,
+     df.bytes
+ORDER BY
+     "Free Space (GB)" DESC,
+     "Used Space (GB)" DESC;
+```
+
+Show Tablespace Size, Space Used GB and Percentage Used:
+
 [HariSekhon/SQL-scripts - oracle_tablespace_space2.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_tablespace_space2.sql)
+
+```sql
+SELECT
+    tablespace_name "Tablespace",
+    -- convert used_space in blocks to GB as each block is 8KB
+    ROUND(used_space * 8 / 1024 / 1024, 2) AS "Used Space (GB)",
+    -- convert tablespace_size in blocks to GB as each block is 8KB
+    ROUND(tablespace_size * 8 / 1024 / 1024, 2) AS "Total Space (GB)",
+    ROUND(used_percent, 2) AS "Used Space %"
+FROM
+    dba_tablespace_usage_metrics
+ORDER BY
+    "Used Space %" DESC;
+```
 
 ### Investigate Big Tables with Free Space
 
 [HariSekhon/SQL-scripts - oracle_table_space.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_table_space.sql)
+
+```sql
+SELECT
+    owner,
+    table_name,
+    -- each block is 8KB, multiply it to GB, round to two decimal places
+    ROUND(blocks * 8 / 1024 / 1024, 2) AS total_gb,
+    -- estimate data size from rows vs average row size, round to two decimal places
+    ROUND(num_rows * avg_row_len / 1024 / 1024 / 1024, 2) AS actual_data_gb,
+    -- estimate free space by subtracting the two above calculations
+    ROUND((blocks * 8 / 1024 / 1024) - (num_rows * avg_row_len / 1024 / 1024 / 1024), 2) AS free_space_gb,
+    -- calculate free space percentage from the above three calculations
+    ROUND(
+        ( (blocks * 8 / 1024 / 1024) - (num_rows * avg_row_len / 1024 / 1024 / 1024) ) /
+        (blocks * 8 / 1024 / 1024) * 100, 2) AS free_space_pct
+FROM
+    dba_tables
+WHERE
+    blocks > 0
+        AND
+    num_rows > 0
+        AND
+    ((blocks * 8 / 1024 / 1024) - (num_rows * avg_row_len / 1024 / 1024 / 1024)) /
+    (blocks * 8 / 1024 / 1024) > 0.2  -- TUNE: currently only showing tables over 20% utilized
+        AND
+    owner NOT IN
+      ('SYS', 'SYSTEM', 'SYSAUX', 'RDSADMIN')
+ORDER BY
+    free_space_gb DESC,
+    total_gb DESC;
+```
 
 ### Shrink Table
 
@@ -653,7 +762,7 @@ Then `SHRINK SPACE` of the table to reduce space allocated to it by removing unu
 ALTER TABLE mytable SHRINK SPACE CASCADE;
 ```
 
-Check the space again by running scripts in [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts).
+Check the space again by running scripts / queries above in [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts).
 
 [Investigate table](#investigate-table) to check it looks ok.
 
@@ -784,9 +893,28 @@ You should add a new temp tablespace for a bigfile tablespace
 or add a new temp tablespace datafile for smallfile tablespace.
 
 Check for a low activity time and that there are no currently active sessions using temp tablespace
-before dropping the old temporary file:
+before dropping the old temporary file.
+
+Show User Sessions Using Temporary Tablespace:
 
 [HariSekhon/SQL-scripts - oracle_show_sessions_using_temp_tablespace.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_show_sessions_using_temp_tablespace.sql)
+
+```sql
+SELECT
+    s.sid,
+    s.username,
+    t.tablespace,
+    t.blocks,
+    t.segfile#,
+    t.segblk#,
+    t.contents,
+    t.sql_id
+FROM
+    v$sort_usage t,
+    v$session s
+WHERE
+    t.session_addr = s.saddr;
+```
 
 #### Shrink Undo Tablespace
 
