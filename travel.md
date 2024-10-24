@@ -9,6 +9,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 - [Booking Sites](#booking-sites)
 - [Flights](#flights)
   - [Flights Gotchas](#flights-gotchas)
+    - [Transfer Flight Timings](#transfer-flight-timings)
     - [Self Transfer](#self-transfer)
     - [Change Airport](#change-airport)
 - [Hotels vs Airbnb](#hotels-vs-airbnb)
@@ -141,10 +142,16 @@ and cheaper on the same flights too
 [Kayak.com](https://www.kayak.com/) - even cheaper than SkyScanner and had cheaper flights not found on Expedia
 
 [Expedia](https://expedia.co.uk) - was my usual go to as it usually had the most options at the last minute, until SkyScanner and Kayak
-showed it up
+showed it up.
+Beware if you are trying
+to get a hotel immediately for a missed flight the app will shunt the results to the next day
+and you will end up booking the wrong night and then having a horrible battle trying to get it refunded.
+Booking.com is better for that scenario.
 
 [AirBnb](https://www.airbnb.com) - compare the cost of apartments to hotels in each area, it alternates which is
 cheaper.
+
+[Booking.com](https://www.booking) - like Expedia but had woke discriminatory hiring so I avoid using it.
 
 [LastMinute.com](https://lastminute.com) - ok for package holidays but assumed return flights,
 less good for a digital nomad who is going one way and bouncing to the next place.
@@ -163,13 +170,25 @@ enforced.
 
 ### Flights Gotchas
 
+#### Transfer Flight Timings
+
+**Do not take transfer flights with less than 3-4 hours between them.**
+
+It is common for the first flight to be delayed by 1.5 hours
+and then you don't have enough time to catch the second flight.
+Even more so if you have to go through security again.
+
+I have gotten stranded overnight in Warsaw like this on the way from London to Tbilisi, with no replacement flight for
+24 hours.
+And of course there is no hotel availability at 11:30pm except for £200-300+ per night hotels.
+
 #### Self Transfer
 
 Avoid `Self Transfer`.
 
 This is a hack by comparison sites matching unrelated airline flights.
 
-If the first flight is delayed, which is common, the other airline won't care and wait for you.
+If the first flight is delayed, which is common, the other airline won't care or wait for you.
 
 You will lose the second flight you paid for.
 They try to sell you additional insurance in this case to potentially offer you another
@@ -962,6 +981,9 @@ Good beaches, restaurants, and walkways.
 Decent low pressure capital.
 
 One of my colleagues moved back to Warsaw as a contractor.
+
+Warsaw airport is deserted after 11pm as there were no night flights, it is better than many other airports but it is
+not London Heathrow. This is also a big problem if you miss you transfer flight.
 
 ### Hungary
 
