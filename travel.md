@@ -141,12 +141,19 @@ and cheaper on the same flights too
 
 [Kayak.com](https://www.kayak.com/) - even cheaper than SkyScanner and had cheaper flights not found on Expedia
 
-[Expedia](https://expedia.co.uk) - was my usual go to as it usually had the most options at the last minute, until SkyScanner and Kayak
+[Expedia](https://expedia.co.uk) - LEGACY DO NOT USE.
+Was my usual go to as it usually had the most options at the last minute, until SkyScanner and Kayak
 showed it up.
 Beware if you are trying
 to get a hotel immediately for a missed flight the app will shunt the results to the next day
 and you will end up booking the wrong night and then having a horrible battle trying to get it refunded.
 Booking.com is better for that scenario.
+Also, if you book the wrong date or there is any issue Expedia support are the worse ever.
+You will struggle to get any refund.
+Use them to find the hotels and flights,
+then go book directly with the airline or hotel and deal with them directly if there is any problem.
+You'll usually get a slight discount or other perk and when there is a problem you will not be stuck suffering Expedia
+chat support.
 
 [AirBnb](https://www.airbnb.com) - compare the cost of apartments to hotels in each area, it alternates which is
 cheaper.
