@@ -783,7 +783,8 @@ ORA-01110: data file name of the tempfile
 You should add a new temp tablespace for a bigfile tablespace
 or add a new temp tablespace datafile for smallfile tablespace.
 
-Check for low activity time there are no active sessions using temp tablespace before dropping the old temporary file:
+Check for a low activity time and that there are no currently active sessions using temp tablespace
+before dropping the old temporary file:
 
 [HariSekhon/SQL-scripts - oracle_show_sessions_using_temp_tablespace.sql](https://github.com/HariSekhon/SQL-scripts/blob/master/oracle_show_sessions_using_temp_tablespace.sql)
 
@@ -808,7 +809,7 @@ undo_retention integer 900
 Create a new smaller 'undo' tablespace:
 
 ```sql
-CREATE UNDO TABLESPACE new_undo_ts DATAFILE '/path/to/datafile.dbf' SIZE 100G;
+CREATE UNDO TABLESPACE new_undo_ts DATAFILE SIZE 100G AUTOEXTEND ON NEXT 1G MAXSIZE 500G;
 ```
 
 Set system to use new undo tablespace:
