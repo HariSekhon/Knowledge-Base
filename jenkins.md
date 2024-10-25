@@ -207,7 +207,7 @@ Trailing underscore `_` is required to import all functions, otherwise syntax er
  WorkflowScript: 3: unexpected token: pipeline @ line 3, column 1.
 
     pipeline {
- ```
+```
 
 Or using the [pipeline-github-lib](https://plugins.jenkins.io/pipeline-github-lib/) plugin you can use a dynamic repo via URL path
 to a public git repo - this is useful for development pointing to a dev repo / branch:
@@ -258,7 +258,7 @@ Provides the `/cc.xml/` endpoint for notification tools above.
 
 Then put this in your CCMenu or similar tool:
 
-```shell
+```text
 <JENKINS_URL>/cc.xml/
 ```
 
