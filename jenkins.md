@@ -4,7 +4,7 @@ The most powerful CI/CD ever.
 
 Simple at the shallow end (see [Jenkins in Docker in one command](#jenkins-in-docker-in-one-command)).
 
-Non-trivial at the advanced end (auto-scaling on [Kubernetes](#jenkins-on-kubernetes),
+Non-trivial at the advanced end (auto-scaling on [Kubernetes](jenkins-on-kubernetes.md).
 Jenkins [Plugins](#jenkins-plugins),
 Groovy [Shared Library](#jenkins-shared-libraries-groovy) programming).
 
@@ -281,6 +281,39 @@ jenkins/jenkins.sh
   - can optionally edit config to:
     - use `JAVA_OPTS` to tweak heap size
     - mount `/var/jenkins_home` to local machine for persistence
+
+## Jenkins Scaling
+
+### Jenkins Master
+
+The Jenkins master is the scaling bottleneck for the job pipelines scheduling, metadata, logging, UI etc.
+
+It can only be scaled vertically by increasing the CPU, RAM and Disk.
+
+Utilizing more RAM requires increasing the [Java](java.md) Heap size of the Jenkins master process
+to be able to utilize the extra RAM via the usual `-Xmx` java argument.
+
+Typically Jenkins masters start to degrade at around 100+ pipelines.
+
+You can only increase the CPU and RAM so much,
+beyond which you will need to split different pipelines between different Jenkins installations.
+
+This because known as _"Islands of Jenkins"_ and the overarching management of these multiple Jenkins installatons is why
+[CloudBees](#cloudbees) exists.
+
+### Jenkins Workers / Slaves
+
+Jenkins can run more worker / slaves to be able to scale out the pipeline processes themselves.
+
+This means that expensive operations that are carried out within a pipeline are offloaded to a work, and you can add as
+many worker / slaves as you can configure afford and configure in order to spread the load of different job pipelines
+between different machines.
+
+The limitation will be both on the overhead on the Jenkins master to organize and coordinate with all the slaves,
+a well as the scheduling, metadata and logging for the pipelines, as well as UI.
+
+The best way to scale Jenkins slaves is automatically on Kubernetes.
+See [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md).
 
 ## Jenkins Slaves on Bare Metal / VMs
 
