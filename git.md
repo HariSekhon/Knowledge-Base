@@ -17,7 +17,8 @@
   - [Find line in `.gitignore` which is causing a given file to be ignored](#find-line-in-gitignore-which-is-causing-a-given-file-to-be-ignored)
   - [Trigger CI/CD using empty commit](#trigger-cicd-using-empty-commit)
   - [Copy a file from another branch](#copy-a-file-from-another-branch)
-  - [Ammend Last Commit](#ammend-last-commit)
+  - [Amend Last Commit](#amend-last-commit)
+  - [Get the Hashref of a Remote Repo's tag](#get-the-hashref-of-a-remote-repos-tag)
   - [Git Reflog](#git-reflog)
   - [Pull from Upstream Origin in a local Fork](#pull-from-upstream-origin-in-a-local-fork)
   - [Multi-Origin Remotes](#multi-origin-remotes)
@@ -238,12 +239,38 @@ git checkout "$branch" "$filename"
 
 This puts it straight into the cache for commit, so you'll need to `git reset` if you don't want to commit it.
 
-### Ammend Last Commit
+### Amend Last Commit
 
 It you commit and then notice a small change you needed to make to the commit
 
 ```shell
 git commit --amend --no-edit
+```
+
+### Get the Hashref of a Remote Repo's tag
+
+Eg. for pinning in [GitHub Actions Best Practices](github-actions.md#github-actions-best-practices):
+
+You can use
+[github_tag_hashref.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/github/github_tag_hashref.sh)
+script to quickly get the hashref of a given Github Actions `owner/action@tag`:
+
+```shell
+github_tag_hashref.sh owner/action@tag
+```
+
+```text
+5f066a372ec13036ab7cb9a8adf18c936f8d2043
+```
+
+You can also do this manually like this:
+
+```shell
+git ls-remote --tags "https://github.com/$owner/$repo" "$tag"
+```
+
+```text
+5f066a372ec13036ab7cb9a8adf18c936f8d2043        refs/tags/v0.5.3
 ```
 
 ### Git Reflog
@@ -330,6 +357,7 @@ $ git push origin gantt --delete
 To https://github.com/HariSekhon/DevOps-Bash-tools
  - [deleted]         gantt
 To https://bitbucket.org/HariSekhon/DevOps-Bash-tools
+
  - [deleted]         gantt
 To https://dev.azure.com/harisekhon/GitHub/_git/DevOps-Bash-tools
  - [deleted]         gantt
