@@ -20,6 +20,7 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
     - [No More `save-state` or `set-output` commands](#no-more-save-state-or-set-output-commands)
   - [Deduplicate Code Using Environment Variables grouped in top-level `env` section](#deduplicate-code-using-environment-variables-grouped-in-top-level-env-section)
   - [Begin Workflow Jobs with an Environment Printing Step](#begin-workflow-jobs-with-an-environment-printing-step)
+  - [Look up GitHub Actions Contexts Fields and Environment Variables](#look-up-github-actions-contexts-fields-and-environment-variables)
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
 - [Diagrams](#diagrams)
   - [GitHub Actions CI/CD to auto-(re)generate diagrams from code changes (Python)](#github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes-python)
@@ -276,6 +277,20 @@ debugging:
           echo
           env | sort
 ```
+
+### Look up GitHub Actions Contexts Fields and Environment Variables
+
+I provide the repo:
+
+[HariSekhon/GitHub-Actions-Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts)
+
+which runs workflows weekly to show the real Environment Variables and GitHub Actions Context fields available.
+
+These are not always well documented and up to date in GitHub documentation
+so this is useful to see what is actually available and what the field contents look like right now.
+
+The context fields changes for different trigger types such as `Push` vs manually triggered `Workflow Dispatch`,
+see the badge in the README and click the different types to compare.
 
 ## GitHub Actions vs Jenkins
 
