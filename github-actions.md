@@ -20,6 +20,7 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
     - [No More `save-state` or `set-output` commands](#no-more-save-state-or-set-output-commands)
   - [Deduplicate Code Using Environment Variables grouped in top-level `env` section](#deduplicate-code-using-environment-variables-grouped-in-top-level-env-section)
   - [Begin Workflow Jobs with an Environment Printing Step](#begin-workflow-jobs-with-an-environment-printing-step)
+  - [Avoid putting Sensitive information in Global Environment Variables](#avoid-putting-sensitive-information-in-global-environment-variables)
   - [Look up GitHub Actions Contexts Fields and Environment Variables](#look-up-github-actions-contexts-fields-and-environment-variables)
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
 - [Diagrams](#diagrams)
@@ -277,6 +278,15 @@ debugging:
           echo
           env | sort
 ```
+
+### Avoid putting Sensitive information in Global Environment Variables
+
+Secrets should of course go in secrets instead of environment variables...
+
+Secrets are not accessible to 3rd party actions unless explicitly passed to them.
+
+However, be aware that environment variables are available to 3rd party actions, so restrict semi-sensitive environment
+variable content to specific steps where they're needed instead instead of Global Environment Variables.
 
 ### Look up GitHub Actions Contexts Fields and Environment Variables
 
