@@ -8,6 +8,7 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 - [Key Points](#key-points)
   - [Limitations](#limitations)
 - [GitHub Actions Best Practices](#github-actions-best-practices)
+  - [Security Hardening for GitHub Actions](#security-hardening-for-github-actions)
   - [Pin 3rd party GitHub Actions to Git Hashrefs, not tags](#pin-3rd-party-github-actions-to-git-hashrefs-not-tags)
   - [Avoid `${{ inputs }}` Shell Injection](#avoid--inputs--shell-injection)
   - [Validate all `${{ inputs }}`](#validate-all--inputs-)
@@ -20,7 +21,7 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
     - [No More `save-state` or `set-output` commands](#no-more-save-state-or-set-output-commands)
   - [Deduplicate Code Using Environment Variables grouped in top-level `env` section](#deduplicate-code-using-environment-variables-grouped-in-top-level-env-section)
   - [Begin Workflow Jobs with an Environment Printing Step](#begin-workflow-jobs-with-an-environment-printing-step)
-  - [Avoid putting Sensitive information in Global Environment Variables](#avoid-putting-sensitive-information-in-global-environment-variables)
+  - [Avoid putting Sensitive information such as Secrets in Global Environment Variables](#avoid-putting-sensitive-information-such-as-secrets-in-global-environment-variables)
   - [Look up GitHub Actions Contexts Fields and Environment Variables](#look-up-github-actions-contexts-fields-and-environment-variables)
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
 - [Diagrams](#diagrams)
@@ -62,6 +63,12 @@ The code snippet examples on the rest of this page are copied from this real-wor
 which has been used in production and supports all of my public GitHub projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
+
+### Security Hardening for GitHub Actions
+
+Read this doc carefully:
+
+<https://docs.github.com/en/actions/security-for-github-actions/security-guides/security-hardening-for-github-actions>
 
 ### Pin 3rd party GitHub Actions to Git Hashrefs, not tags
 
