@@ -309,9 +309,10 @@ why [CloudBees](#cloudbees) exists.
 
 Jenkins can run more worker / slaves to be able to scale out the pipeline processes themselves.
 
-This means that expensive operations that are carried out within a pipeline are offloaded to a work, and you can add as
-many worker / slaves as you can configure afford and configure in order to spread the load of different job pipelines
-between different machines.
+Expensive pipeline content operations such as running commands,
+[Maven](maven.md), [Gradle](gradle.md), [SBT](sbt.md) or [Make](make.md) builds are carried out within a pipeline so are
+offloaded to a worker, and you can add as many worker / slaves as you can configure afford and configure in order to
+spread the load of different job pipelines between different machines.
 
 The limitation will be both on the overhead on the Jenkins master to organize and coordinate with all the slaves,
 as well as the scheduling, metadata and logging for the pipelines, as well as UI.
