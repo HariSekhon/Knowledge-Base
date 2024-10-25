@@ -297,13 +297,13 @@ It can only be scaled vertically by increasing the CPU, RAM and Disk.
 Utilizing more RAM requires increasing the [Java](java.md) Heap size of the Jenkins master process
 to be able to utilize the extra RAM via the usual `-Xmx` java argument.
 
-Typically Jenkins masters start to degrade at around 100+ pipelines.
+Typically, Jenkins masters start to degrade at around 100+ pipelines.
 
-You can only increase the CPU and RAM so much,
+You can only increase the CPU and RAM so much, and only tune the Java Heap so much,
 beyond which you will need to split different pipelines between different Jenkins installations.
 
-This because known as _"Islands of Jenkins"_ and the overarching management of these multiple Jenkins installatons is why
-[CloudBees](#cloudbees) exists.
+This becomes known as _"Islands of Jenkins"_ and the overarching management of these multiple Jenkins installations is
+why [CloudBees](#cloudbees) exists.
 
 ### Jenkins Workers / Slaves
 
@@ -314,7 +314,7 @@ many worker / slaves as you can configure afford and configure in order to sprea
 between different machines.
 
 The limitation will be both on the overhead on the Jenkins master to organize and coordinate with all the slaves,
-a well as the scheduling, metadata and logging for the pipelines, as well as UI.
+as well as the scheduling, metadata and logging for the pipelines, as well as UI.
 
 The best way to scale Jenkins slaves is automatically on Kubernetes.
 See [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md).
