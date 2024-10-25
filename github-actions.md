@@ -285,14 +285,14 @@ Secrets should of course go in secrets instead of environment variables...
 
 Secrets are not accessible to 3rd party actions unless explicitly passed to them.
 
-However, be environment variables are available to 3rd party actions,
+However, Global Environment Variables are available to 3rd party actions,
 so you must not put reference Secrets into Global Environment Variables if using 3rd party actions.
 
 eg. don't do this:
 
 ```yaml
 env:
-  MY_SECRET: ${{ secrets.MY_SECRET }}  # this is now readable by 3rd party actions
+  MY_SECRET: ${{ secrets.MY_SECRET }}  # env.MY_SECRET is now readable by 3rd party actions
 ```
 
 Even consider restricting semi-sensitive environment variable content to specific steps where they're needed instead of
