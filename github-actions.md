@@ -68,6 +68,28 @@ For security, pin 3rd party GitHub Actions to a `@<git_hashref>` rather than a g
 Otherwise a compromised 3rd party GitHub Actions repo can be retagged with any arbitrary code which to induce
 malicious code injection into your repo under your permissions when next called.
 
+You can use
+[github_tag_hashref.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/github/github_tag_hashref.sh)
+script to quickly get the hashref of a given Github Actions `owner/action@tag`:
+
+```shell
+github_tag_hashref.sh owner/action@tag
+```
+
+```text
+5f066a372ec13036ab7cb9a8adf18c936f8d2043
+```
+
+You can also do this manually like this:
+
+```shell
+git ls-remote --tags "https://github.com/$owner/$repo" "$tag"
+```
+
+```text
+5f066a372ec13036ab7cb9a8adf18c936f8d2043        refs/tags/v0.5.3
+```
+
 ### Avoid `${{ inputs }}` Shell Injection
 
 Do NOT use `${{ inputs.BLAH }}` directly in shell steps.
