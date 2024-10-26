@@ -1,8 +1,18 @@
 # System Design
 
-A complex mix of coding and systems engienering skills.
+A complex mix of coding and systems engineering skills.
 
 This is what you need to build or work at Big Tech companies.
+
+<!-- INDEX_START -->
+
+- [ByteByteGo](#bytebytego)
+- [System Design Four Pillars](#system-design-four-pillars)
+- [Scaling Strategies](#scaling-strategies)
+- [Deployment Strategies](#deployment-strategies)
+- [Domain Driven Design](#domain-driven-design)
+
+<!-- INDEX_END -->
 
 ## ByteByteGo
 
@@ -27,3 +37,7 @@ Annoyingly though, they never reply to my LinkedIn comments for which tool they 
 ## Deployment Strategies
 
 ![Deployment Strategies](images/deployment_strategies.gif)
+
+## Domain Driven Design
+
+![Domain Driven Design](images/domain_driven_design.gif)
