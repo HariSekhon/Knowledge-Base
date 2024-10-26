@@ -14,6 +14,7 @@ NOT PORTED YET
   - [O'Reilly - Choosing Based on GitHub Stars](#oreilly---choosing-based-on-github-stars)
   - [Baby Yoda Gets GitHub Stars](#baby-yoda-gets-github-stars)
   - [GitHub vs Sleep](#github-vs-sleep)
+  - [Met Wife in GitHub Issues Thread](#met-wife-in-github-issues-thread)
 
 <!-- INDEX_END -->
 
@@ -107,3 +108,9 @@ Press `y` on a page while browsing `GitHub.com` to change the current branch URL
 ### GitHub vs Sleep
 
 ![GitHub vs Sleep](images/github_vs_sleep_me_at_1am.jpeg)
+
+### Met Wife in GitHub Issues Thread
+
+![Met Wife in GitHub Issues Thread](images/met_wife_in_github_issue_thread.jpeg)
+
+**Disclaimer**: seriously, don't get married, you can't control the forking today.
