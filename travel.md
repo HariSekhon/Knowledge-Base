@@ -615,6 +615,8 @@ flights at losses.
 
 I missed my transfer flights both in and out of Tbilisi. This is probably one of the worst things about Georgia.
 
+This is how I came up with the [Flights Gotchas section](#flights-gotchas).
+
 #### Georgia Taxies
 
 Do not use Airport taxis, they are double the price of using the Bolt app.
