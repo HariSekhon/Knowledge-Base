@@ -634,6 +634,9 @@ So you can't connect your laptop to the airport wifi, only your phone.
   closes at 11pm.
 - [Gloria Jean](https://maps.app.goo.gl/qKu3MUHQR5di9UpZ7) - good coffee shop in Liberty Square,
   the cherry juice is very nice, although the chai latte is a little too sweet IMO, ask them to add less powder
+- [Salobie Bia](https://maps.app.goo.gl/9UhPzRVDgBT1mfFi8) - affordable local eats place set in a large basement with
+  impressive art decor all around with good ambience and background piano music.
+  Menu is a bit limited on non-alcoholic drinks
 - [Pasanauri](https://maps.app.goo.gl/MQCwW54s7MRHsoNs6) - moderately priced good food,
   the Khinkali mixed meat dumplings were very good and affordable, the aubergine walnut while a recommended speciality
   I found a bit much, you'd need two aubergine lovers to manage it.
