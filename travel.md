@@ -54,6 +54,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Dunkirk](#dunkirk)
     - [Paris](#paris)
   - [Georgia](#georgia)
+    - [Georgia Flights](#georgia-flights)
     - [Georgia Taxies](#georgia-taxies)
     - [Tbilisi Airport](#tbilisi-airport)
     - [Tibilisi](#tibilisi)
@@ -602,6 +603,17 @@ The many Chateaux outside of Paris in the French countryside are nice though
 ### Georgia
 
 Georgia was too cold by October.
+
+#### Georgia Flights
+
+Flights in and out of Georgia to the capital Tbilisi are a nightmare as it's hard to get a direct flight.
+They often require stopover transfer flights in Turkey or other countries like Poland.
+
+Flights in and out of the transfer cities are often delayed, causing you to miss your transfers
+and end up stranded for 24 hours waiting for another flight to Tbilisi and having to take expensive hotels and rebook
+flights at losses.
+
+I missed my transfer flights both in and out of Tbilisi. This is probably one of the worst things about Georgia.
 
 #### Georgia Taxies
 
