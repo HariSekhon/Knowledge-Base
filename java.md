@@ -15,6 +15,8 @@ NOT PORTED YET.
   - [JBang CLI](#jbang-cli)
 - [GraalJS](#graaljs)
 - [Clojure](#clojure)
+- [Memes](#memes)
+  - [Books That Made You Cry](#books-that-made-you-cry)
 
 <!-- INDEX_END -->
 
@@ -255,5 +257,11 @@ Just a jar, no dependency like Scala predef.
 ```shell
 java -jar my.jar
 ```
+
+## Memes
+
+### Books That Made You Cry
+
+![Books That Made You cry](images/books_that_made_you_cry_java_data_structures.jpeg)
 
 **Ported from various private Knowledge Base pages 2010+**
