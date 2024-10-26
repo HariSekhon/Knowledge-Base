@@ -601,6 +601,8 @@ The many Chateaux outside of Paris in the French countryside are nice though
 
 ### Georgia
 
+Georgia was too cold by October.
+
 #### Georgia Taxies
 
 Do not use Airport taxis, they are double the price of using the Bolt app.
@@ -625,6 +627,7 @@ So you can't connect your laptop to the airport wifi, only your phone.
 - [Chika](https://maps.app.goo.gl/ukVeBmmArPPczDGs7) - stylish gentrified cafe with good food and desserts too.
   The potato waffle with smoked salmon and poached on on top was a very good small plate meal in between meals.
   The Bumble coffee & orange juice mix was not my thing though.
+  If you like chocolate try a Kartoshka little chocolate log dessert
 - Santino - excellent 24x7 modcoffee bar - excellent drinks menu,
   good food menu, bit pricey by local standards but good ambience.
   They have _"Laptop Free Zone"_ stickers on every table (which I take exception to!) but it's quiet enough at night
