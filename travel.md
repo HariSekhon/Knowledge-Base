@@ -622,6 +622,9 @@ So you can't connect your laptop to the airport wifi, only your phone.
 
 #### Tibilisi
 
+- [Chika](https://maps.app.goo.gl/ukVeBmmArPPczDGs7) - stylish gentrified cafe with good food and desserts too.
+  The potato waffle with smoked salmon and poached on on top was a very good small plate meal in between meals.
+  The Bumble coffee & orange juice mix was not my thing though.
 - Santino - excellent 24x7 modcoffee bar - excellent drinks menu,
   good food menu, bit pricey by local standards but good ambience.
   They have _"Laptop Free Zone"_ stickers on every table (which I take exception to!) but it's quiet enough at night
