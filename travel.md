@@ -634,9 +634,15 @@ So you can't connect your laptop to the airport wifi, only your phone.
   closes at 11pm.
 - [Gloria Jean](https://maps.app.goo.gl/qKu3MUHQR5di9UpZ7) - good coffee shop in Liberty Square,
   the cherry juice is very nice, although the chai latte is a little too sweet IMO, ask them to add less powder
+- [11:11 Cafe](https://maps.app.goo.gl/7kYuxEh4BPceUvev8) - good coffee spot but unfortunately always closes well before
+  its Google Maps hours of midnight, often closed by 11pm.
+  Gloria Jeans and Santino are far more reliable late night spots
+- [Khinkali Bar N1](https://maps.app.goo.gl/D9igfusLuBNzkGue8) - affordable food place specializing in traditional
+  Georgian dumplings called Khinkali
 - [Salobie Bia](https://maps.app.goo.gl/9UhPzRVDgBT1mfFi8) - affordable local eats place set in a large basement with
   impressive art decor all around with good ambience and background piano music.
-  Menu is a bit limited on non-alcoholic drinks
+  Menu is a bit limited on non-alcoholic drinks.
+  Recommended to me by a local
 - [Pasanauri](https://maps.app.goo.gl/MQCwW54s7MRHsoNs6) - moderately priced good food,
   the Khinkali mixed meat dumplings were very good and affordable, the aubergine walnut while a recommended speciality
   I found a bit much, you'd need two aubergine lovers to manage it.
