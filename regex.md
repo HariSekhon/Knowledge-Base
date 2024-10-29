@@ -2,7 +2,17 @@
 
 Regular expressions are a core skill for any half decent programmer.
 
-I use them extensively in languages from Python and Perl to Java/Scala/Groovy and even in shell scripts in Bash
+There is a saying:
+
+> _"The plural of regex is regrets"_
+
+But it would be more accurate to say:
+
+> _"Not learning regex properly leads to regrets"_
+
+One regex, many regex... on [my GitHub](https://github.com/HariSekhon).
+
+I use them extensively in languages from Python and Perl to Java/Scala/Groovy and even in many shell scripts in Bash
 for grep, sed & awk.
 
 <!-- INDEX_START -->
