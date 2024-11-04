@@ -94,7 +94,7 @@ brew install age
 Encrypt original_file into encrypted_file.age using a passphrase with high-strength elliptic curve encryption (X25519):
 
 ```shell
-age -e -p -o "$file.age" "$file"
+age -p -o "$file.age" "$file"
 ```
 
 Decrypt:
