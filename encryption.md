@@ -71,6 +71,8 @@ Then put files inside it.
 
 ### OpenSSL
 
+Usually already available on Linux and Mac.
+
 Encrypt:
 
 ```shell
