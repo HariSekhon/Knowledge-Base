@@ -44,6 +44,10 @@ Also check the sites rights to your keep and redistribute your content permanent
 - Syntax highlighting
 - Expiration option
 
+[dpaste.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/dpaste.sh)
+is the shortest easiest command, auto-adds syntax highlighting,
+and prompts to approve text / code before uploading for safety.
+
 ```shell
 curl -X POST https://dpaste.org/api/ -d "content=$text"
 ```
@@ -51,9 +55,6 @@ curl -X POST https://dpaste.org/api/ -d "content=$text"
 ```text
 "https://dpaste.org/caVZ2"
 ```
-
-Use [dpaste.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/dpaste.sh)
-from the [DevOps-Bash-tools](devops-bash-tools.md) repo to make this easier and auto-add syntax highlighting.
 
 ### Pastebin
 
@@ -67,6 +68,12 @@ The original code pasting site.
   - requires API key authentication and too many fields
   - use dpaste or Termbin for CLI easier pasting instead
 
+[pastebin.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/pastebin.sh)
+is a shorter easier command which auto-adds syntax highlighting,
+and prompts to approve text / code before uploading for safety.
+
+Manually:
+
 ```shell
 curl -X POST https://pastebin.com/api/api_post \
   -d "api_dev_key=$API_KEY" \
@@ -79,9 +86,6 @@ curl -X POST https://pastebin.com/api/api_post \
   -d "api_paste_expire_date=N"
 ```
 
-Use [pastebin.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/pastebin.sh)
-from the [DevOps-Bash-tools](devops-bash-tools.md) repo to make this easier and auto-add syntax highlighting.
-
 ### Termbin
 
 <http://termbin.com/>
@@ -90,6 +94,12 @@ from the [DevOps-Bash-tools](devops-bash-tools.md) repo to make this easier and 
 - Allows piping content directly from the command line to create pastes
 - Plaintext TCP port `9999` will probably be blocked by your corporate firewall
 
+[termbin.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/termbin.sh)
+is a shorter command, finds and uses whatever netcat is available or installs netcat if necessary.
+Prompts to approve text / code before uploading for safety.
+
+Manually:
+
 ```shell
 echo "$text" | nc termbin.com 9999
 ```
@@ -97,10 +107,6 @@ echo "$text" | nc termbin.com 9999
 ```text
 https://termbin.com/b2h7
 ```
-
-Use [termbin.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/termbin.sh)
-from the [DevOps-Bash-tools](devops-bash-tools.md) repo to wrap this with a content prompt, find and use the right
-netcat or install netcat if necessary.
 
 ### Pasty
 
@@ -282,6 +288,11 @@ Spews HTML all over screen.
 - Very basic as you can see from the ASCII page
 - Retention is only 1 month to 1 year
 
+[0x0.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/0x0.sh)
+is the shortest command, prompts to approve text / code before uploading for safety.
+
+Manually:
+
 ```shell
 curl -F "file=@$image" https://0x0.st
 ```
@@ -296,14 +307,18 @@ https://0x0.st/X6d2.png
 
 <https://catbox.moe/>
 
+- Slow
+- **Permanent Retention!! Be Careful**
 - All uploads are Anonymous
 - Up to 200MB
-- Retained Forever
 - Does not allow [Hotlinking](https://simple.wikipedia.org/wiki/Hotlinking)
 - [blocked in several countries](https://catbox.moe/faq.php) like the UK, Australia etc.
 - [Tools Doc](https://catbox.moe/tools.php) for how to use it
 
-Catbox (permanent retention):
+[catbox.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/catbox.sh)
+is the shortest command, prompts to approve text / code before uploading for safety.
+
+Manually:
 
 ```shell
 curl -F "reqtype=fileupload" \
@@ -323,10 +338,14 @@ https://files.catbox.moe/pihtj4.png
 
 By the same people as Catbox
 
-- Temporary
+- Slow
+- Temporary - 1-72 hour expiry
 - Up to 1GB
 
 Litterbox with 1 day retention - [doc](https://litterbox.catbox.moe/tools.php)
+
+[litterbox.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/litterbox.sh)
+is a shorter command, prompts to approve text / code before uploading for safety.
 
 ```shell
 curl -F "reqtype=fileupload" \
@@ -390,11 +409,16 @@ Anonymous but free version auto-deletes file after 1 download!
 
 Paid plans have optional expiration.
 
+API Documentation: <https://www.file.io/developers>
+
 Doesn't render images but gives a Download box button.
 
 ```shell
 curl -F "file=@$image" https://file.io
 ```
+
+[file.io.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/file.io.sh)
+is a shorter command, prompts to approve text / code before uploading for safety.
 
 <!-- Dead
 
@@ -446,7 +470,10 @@ Popular image hosting site.
 - Direct links
 - Robust well documented API
 
-Posting to Imgur is as simple as:
+[imgur.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/imgur.sh)
+is the shortest command to upload.
+
+Manually posting to Imgur is as simple as:
 
 ```shell
 curl -H "Authorization: Client-ID YOUR_CLIENT_ID" \
