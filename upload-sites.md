@@ -52,6 +52,9 @@ curl -X POST https://dpaste.org/api/ -d "content=$text"
 "https://dpaste.org/caVZ2"
 ```
 
+Use [dpaste.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/dpaste.sh)
+from the [DevOps-Bash-tools](devops-bash-tools.md) repo to make this easier and auto-add syntax highlighting.
+
 ### Pastebin
 
 <https://pastebin.com/>
@@ -76,8 +79,8 @@ curl -X POST https://pastebin.com/api/api_post \
   -d "api_paste_expire_date=N"
 ```
 
-Can use [pastebin.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/pastebin.sh)
-from the [DevOps-Bash-tools](devops-bash-tools.md) repo to make this more usable.
+Use [pastebin.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/pastebin.sh)
+from the [DevOps-Bash-tools](devops-bash-tools.md) repo to make this easier and auto-add syntax highlighting.
 
 ### Termbin
 
@@ -94,6 +97,10 @@ echo "$text" | nc termbin.com 9999
 ```text
 https://termbin.com/b2h7
 ```
+
+Use [termbin.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/termbin.sh)
+from the [DevOps-Bash-tools](devops-bash-tools.md) repo to wrap this with a content prompt, find and use the right
+netcat or install netcat if necessary.
 
 ### Pasty
 
