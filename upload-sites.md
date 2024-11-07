@@ -463,6 +463,8 @@ Simplest to use again - see above [0x0.st](#0x0st)
 
 ### Imgur
 
+<https://imgur.com>
+
 Popular image hosting site.
 
 - UI insists on disabling Ad-blocker
