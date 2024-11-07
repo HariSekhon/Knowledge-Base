@@ -76,6 +76,9 @@ curl -X POST https://pastebin.com/api/api_post \
   -d "api_paste_expire_date=N"
 ```
 
+Can use [pastebin.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/pastebin.sh)
+from the [DevOps-Bash-tools](devops-bash-tools.md) repo to make this more usable.
+
 ### Termbin
 
 <http://termbin.com/>
