@@ -15,6 +15,7 @@
   - [Coding with GPT](#coding-with-gpt)
   - [Senior Devs Fixing Bugs in Production](#senior-devs-fixing-bugs-in-production)
   - [Theory vs Practice](#theory-vs-practice)
+  - [Concurrent Programming](#concurrent-programming)
 
 <!-- INDEX_END -->
 
@@ -115,5 +116,9 @@ Watch out for that quality and not knowing WTF you're doing!
 I suspect this is only when recruiters try programming... :wink:
 
 ![When Recruiters Try Programming](images/theory_vs_practice_programming.jpg)
+
+### Concurrent Programming
+
+![Concurrent Programming Sleep Statements](images/concurrent_programming_sleep_statements.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
