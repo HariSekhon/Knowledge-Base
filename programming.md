@@ -110,7 +110,9 @@ Watch out for that quality and not knowing WTF you're doing!
 
 ![Senior Devs Fixing Bugs in Production](images/senior_devs_fixing_bugs_in_production.gif)
 
-### When Recruiters Try Programming
+### Theory vs Practice
+
+I suspect this is only when recruiters try programming... :wink:
 
 ![When Recruiters Try Programming](images/theory_vs_practice_programming.jpg)
 
