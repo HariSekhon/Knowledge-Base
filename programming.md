@@ -14,7 +14,7 @@
   - [Are You Really Sure You Want to be a Software Developer??](#are-you-really-sure-you-want-to-be-a-software-developer)
   - [Coding with GPT](#coding-with-gpt)
   - [Senior Devs Fixing Bugs in Production](#senior-devs-fixing-bugs-in-production)
-  - [When Recruiters Try Programming](#when-recruiters-try-programming)
+  - [Theory vs Practice](#theory-vs-practice)
 
 <!-- INDEX_END -->
 
