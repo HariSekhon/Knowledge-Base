@@ -14,6 +14,7 @@
   - [Are You Really Sure You Want to be a Software Developer??](#are-you-really-sure-you-want-to-be-a-software-developer)
   - [Coding with GPT](#coding-with-gpt)
   - [Senior Devs Fixing Bugs in Production](#senior-devs-fixing-bugs-in-production)
+  - [When Recruiters Try Programming](#when-recruiters-try-programming)
 
 <!-- INDEX_END -->
 
@@ -68,6 +69,8 @@ You are limited only by time and effort.
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [Class Central](https://www.classcentral.com/subject/programming-and-software-development)
 
+<https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns>
+
 ## Testing
 
 See [Testing](testing.md)
@@ -106,5 +109,9 @@ Watch out for that quality and not knowing WTF you're doing!
 ### Senior Devs Fixing Bugs in Production
 
 ![Senior Devs Fixing Bugs in Production](images/senior_devs_fixing_bugs_in_production.gif)
+
+### When Recruiters Try Programming
+
+![When Recruiters Try Programming](images/theory_vs_practice_programming.jpg)
 
 **Ported from various private Knowledge Base pages 2008+**
