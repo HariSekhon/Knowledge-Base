@@ -100,6 +100,10 @@ The importance of documentation:
 
 ### Run It Again
 
+Every one of you engineers has done this…
+
+Don’t pretend you haven’t !!
+
 ![Run It Again](images/my_code_doesnt_work_change_nothing_run_it_again.jpeg)
 
 ### Are You Really Sure You Want to be a Software Developer??
