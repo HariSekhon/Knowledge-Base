@@ -11,6 +11,7 @@
 - [Memes](#memes)
   - [Hello World](#hello-world)
   - [Documentation](#documentation)
+  - [Run It Again](#run-it-again)
   - [Are You Really Sure You Want to be a Software Developer??](#are-you-really-sure-you-want-to-be-a-software-developer)
   - [Coding with GPT](#coding-with-gpt)
   - [Senior Devs Fixing Bugs in Production](#senior-devs-fixing-bugs-in-production)
@@ -96,6 +97,10 @@ se the [File Upload & Code Pastbin Sites](upload-sites.md) doc.
 The importance of documentation:
 
 ![There's No Documentation - The Code is the Documentation](images/theres_no_documentation_code_is_self_explanatory.jpeg)
+
+### Run It Again
+
+![Run It Again](images/my_code_doesnt_work_change_nothing_run_it_again.jpeg)
 
 ### Are You Really Sure You Want to be a Software Developer??
 
