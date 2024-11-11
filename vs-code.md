@@ -79,6 +79,7 @@ ms-vscode.cmake-tools
 ms-vscode.makefile-tools
 ms-vscode.vscode-node-azure-pack
 ms-vscode.vscode-typescript-next
+terrastruct.d2
 vsciot-vscode.azure-iot-toolkit
 vscjava.vscode-maven
 vscjava.vscode-gradle
