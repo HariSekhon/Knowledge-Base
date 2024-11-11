@@ -33,13 +33,16 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Open URL in the default web browser](#open-url-in-the-default-web-browser)
     - [Open current directory in Finder](#open-current-directory-in-finder)
     - [Open image in the default app (usually Preview)](#open-image-in-the-default-app-usually-preview)
+    - [Check / Change the default Application for a given file type](#check--change-the-default-application-for-a-given-file-type)
     - [Open an Application from the command line](#open-an-application-from-the-command-line)
   - [Clipboard](#clipboard)
   - [Screenshots](#screenshots)
+    - [Set Screenshot Location](#set-screenshot-location)
     - [Screenshot the Whole Screen](#screenshot-the-whole-screen)
     - [Screenshot a Selection - Drag a Rectangle](#screenshot-a-selection---drag-a-rectangle)
     - [The Screenshot.app](#the-screenshotapp)
     - [The Screencapture CLI](#the-screencapture-cli)
+  - [Screen Recording](#screen-recording)
   - [Flush the DNS Cache](#flush-the-dns-cache)
   - [Set DNS Servers](#set-dns-servers)
   - [Set DNS Search Domain](#set-dns-search-domain)
@@ -63,12 +66,9 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Creating Bootable CDs & USBs from ISOs](#creating-bootable-cds--usbs-from-isos)
   - [Other Options](#other-options)
     - [CLI](#cli)
+- [Asahi Linux on Apple Silicon](#asahi-linux-on-apple-silicon)
 - [Troubleshooting](#troubleshooting)
   - [Various Applications Fail to Open](#various-applications-fail-to-open)
-    - [Clicking Activity Monitor results in this pop-up error: `The application “Activity Monitor.app” is not open anymore.`](#clicking-activity-monitor-results-in-this-pop-up-error-the-application-activity-monitorapp-is-not-open-anymore)
-    - [IntelliJ fails to open](#intellij-fails-to-open)
-    - [Settings fails to open](#settings-fails-to-open)
-    - [Microsoft Remote Desktop fails to open](#microsoft-remote-desktop-fails-to-open)
 - [Relevant GitHub Repos](#relevant-github-repos)
 
 <!-- INDEX_END -->
@@ -129,15 +129,33 @@ open -a "Activity Monitor"
 
 ## Stats Bar
 
-[Stats](https://github.com/exelban/stats) gives many nice toolbar stats on your Mac's performance for CPU, GPU, RAM, Disk, Network and Battery.
+[Stats](https://github.com/exelban/stats) gives many nice toolbar stats on your Mac's performance for:
+
+- CPU
+- GPU
+- RAM
+- Disk
+- Network
+- Battery
+
+```shell
+brew install stats
+```
+
+```shell
+open -a "Stats"
+```
 
 Battery even tells you:
 
 - time to discharge
 - time to charge
 - number of cycles (although this one I'm sure is only since installation of Stats)
-- battery health
-- which apps which are consuming a lot of energy for you to kill them if you're not needing them, helping your battery life when on the move
+- battery health %
+- remaining charge / capacity in mAh (the capacity decreases as the battery health degrades - this is very useful to
+  see)
+- which apps which are consuming a lot of energy for you to kill them if you're not needing them, helping your battery
+  life when on the move
 
 ## Rearrange Status Bar Icons
 
@@ -223,10 +241,38 @@ open file.jpg
 You can also drag to the Terminal to paste a file or directory's path, or right-click copy and paste into the terminal
 to get its path on your command line.
 
-#### Open an Application from the command line
+#### Check / Change the default Application for a given file type
 
 ```shell
-open -a "SQLDeveloper.app"
+brew install duti
+```
+
+Check default Application for a given file type:
+
+```shell
+duti -x svg
+```
+
+Change this from say Inkscape which is a slow editor for just file viewing, to Google Chrome which is faster:
+
+```shell
+duti -s com.google.Chrome public.svg-image all
+```
+
+#### Open an Application from the command line
+
+Use the name as seen under `/Applications/` without the `.app` extension which is optional:
+
+```shell
+open -a "Google Chrome"
+```
+
+```shell
+open -a "SQLDeveloper"
+```
+
+```shell
+open -a "DBeaver"
 ```
 
 ### Clipboard
@@ -245,6 +291,51 @@ pbpaste > output.txt
 
 ### Screenshots
 
+#### Set Screenshot Location
+
+Set screenshots to go to a dedicated folder:
+
+```shell
+defaults write com.apple.screencapture location -string ~/Desktop/Screenshots
+```
+
+This is cleaner than having them all over your Desktop background and easier to search for them
+(hint: organize the `~/Desktop/Screenshots` folder by date).
+
+Pre-create the directory:
+
+```shell
+mkdir -v ~/Desktop/Screenshots
+```
+
+<!--
+
+```shell
+open ~/Desktop/Screenshots
+```
+
+-->
+
+Set the `Screenshots` directory as a list view
+
+```shell
+osascript -e '
+tell application "Finder"
+    activate
+    open POSIX file "'"$HOME/Desktop/Screenshots"'"
+    delay 1
+    set the windowRef to Finder window 1
+    set current view of the windowRef to list view
+end tell'
+```
+
+Then click the `Date Modified` column header at the top to make your recent screenshots come to the top to be easy to
+find.
+
+(can't find a command line way to set the folder to sort by date. Add here if you know how)
+
+Drag the `Screenshots` directory to the left-hand Favourites panel for quick easy access in future.
+
 #### Screenshot the Whole Screen
 
 `Cmd` + `Shift` + `3`
@@ -255,12 +346,26 @@ Switches to a cross-hair to drag to what you want to screenshot.
 
 `Cmd` + `Shift` + `4`
 
+More details on Mac's native Screen Capture tool is [here](https://support.apple.com/en-ae/guide/mac-help/mh26782/mac).
+
 #### The Screenshot.app
 
-in the Utilities folder is easy to use:
+The `Screenshot.app` in the Utilities folder is easy to use.
+
+You can open it with the key combination:
+
+`Cmd` + `Shift` + `5`
+
+or this command:
 
 ```shell
 open /System/Applications/Utilities/Screenshot.app
+```
+
+or
+
+```shell
+open -a Screenshot
 ```
 
 #### The Screencapture CLI
@@ -292,6 +397,34 @@ So many great options from delayed screenshots, copy to clipboard, open in Previ
 ```shell
 screencapture --help
 ```
+
+### Screen Recording
+
+Open the `Screenshot.app` using key combination:
+
+`Cmd` + `Shift` + 5
+
+or this command:
+
+```shell
+open /System/Applications/Utilities/Screenshot.app
+```
+
+or
+
+```shell
+open -a Screenshot
+```
+
+Click `Record Entire Screen` or `Record Selected Portion`.
+
+This will create a `.mov` file.
+
+Share this with tech support without breaking your email using a
+[file upload site](upload-sites.md#file-upload-sites)
+like <https://0x0.st>.
+
+More details on Mac's native Screen Capture tool is [here](https://support.apple.com/en-ae/guide/mac-help/mh26782/mac).
 
 ### Flush the DNS Cache
 
@@ -704,47 +837,70 @@ Burn CD - insert blank CD then:
 hdiutil burn "$ISO"
 ```
 
+## Asahi Linux on Apple Silicon
+
+<https://asahilinux.org/>
+
+Use at your own risk.
+
+There is a reason I put this just before the Troubleshooting section... :wink:
+
 ## Troubleshooting
 
 ### Various Applications Fail to Open
 
-#### Clicking Activity Monitor results in this pop-up error: `The application “Activity Monitor.app” is not open anymore.`
+Often with this pop-up error:
 
-Even trying it from the command line to try to debug it results in this error:
+![Activity Monitor not open any more](images/activity_monitor_is_not_open_any_more.png)
 
-```shell
-$ open -a "Activity Monitor"
-The application /Applications/IntelliJ IDEA CE.app cannot be opened for an unexpected reason, error=Error Domain=NSOSStatusErrorDomain Code=-600 "procNotFound: no eligible process with specified descriptor" UserInfo={_LSLine=4141, _LSFunction=_LSOpenStuffCallLocal}
+```text
+The application “Microsoft Remote Desktop.app” is not open anymore.
 ```
 
-Meanwhile this works:
+This is the same whether you open it via an icon or Spotlight `Cmd` + `Space` and autocomplete.
 
-```shell
-open -a "Finder"
-```
+This even happens with Activity Monitor.
 
-**Fix**: Short of rebooting...
-
-#### IntelliJ fails to open
+Same with [IntelliJ IDEA](intellij.md):
 
 ```shell
 $ open -a "IntelliJ IDEA CE"
 The application /Applications/IntelliJ IDEA CE.app cannot be opened for an unexpected reason, error=Error Domain=NSOSStatusErrorDomain Code=-600 "procNotFound: no eligible process with specified descriptor" UserInfo={_LSLine=4141, _LSFunction=_LSOpenStuffCallLocal}
 ```
 
-#### Settings fails to open
+Same with Settings:
 
 ```shell
 $ open -a "Settings"
 The application /System/Applications/System Settings.app cannot be opened for an unexpected reason, error=Error Domain=NSOSStatusErrorDomain Code=-600 "procNotFound: no eligible process with specified descriptor" UserInfo={_LSLine=388, _LSFunction=_LSAnnotateAndSendAppleEventWithOptions}
 ```
 
-#### Microsoft Remote Desktop fails to open
+Same with Microsoft Remote Desktop.
+
+Clicking the icon results in a pop up with this error:
+
+```text
+The application “Activity Monitor.app” is not open anymore.
+```
+
+```text
+The application “Microsoft Remote Desktop.app” is not open anymore.
+```
 
 ```shell
 open -a "Microsoft Remote Desktop"
 The application /Applications/Microsoft Remote Desktop.app cannot be opened for an unexpected reason, error=Error Domain=NSOSStatusErrorDomain Code=-600 "procNotFound: no eligible process with specified descriptor" UserInfo={_LSLine=388, _LSFunction=_LSAnnotateAndSendAppleEventWithOptions}
 ```
+
+Only Finder seems to work:
+
+```shell
+open -a "Finder"
+```
+
+**Fix**: Reboot the Mac... tried a few other things like killing all the stale processes but none of them worked
+and when your Terminal window gets closed and you get the same error trying to re-open another one, it's game over.
+Reboot.
 
 ## Relevant GitHub Repos
 
