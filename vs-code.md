@@ -5,6 +5,7 @@ Visual Studio Code is a popular free IDE from Microsoft.
 <!-- INDEX_START -->
 
 - [Download](#download)
+- [Run](#run)
 - [VS Code CLI](#vs-code-cli)
 - [Extensions](#extensions)
   - [Install Extensions](#install-extensions)
@@ -14,6 +15,14 @@ Visual Studio Code is a popular free IDE from Microsoft.
 ## Download
 
 <https://code.visualstudio.com/docs/>
+
+## Run
+
+From the `Applications` icon or on the command line:
+
+```shell
+open -a "Visual Studio Code"
+```
 
 ## VS Code CLI
 
