@@ -19,6 +19,7 @@
 - [Binaries Debugging](#binaries-debugging)
 - [Linux Boot Process](#linux-boot-process)
 - [Linux Filesystem Layout](#linux-filesystem-layout)
+- [eBPF](#ebpf)
 
 <!-- INDEX_END -->
 
@@ -328,5 +329,11 @@ See the [Binaries Debugging](binaries-debugging.md) doc for commands to examine 
 ## Linux Filesystem Layout
 
 ![Linux Filesystem Layout](images/linux_filesystem_layout.gif)
+
+## eBPF
+
+Kernel level for networking observability, tracing, and security
+
+<https://ebpf.io/>
 
 **Ported from various private Knowledge Base pages 2002+**
