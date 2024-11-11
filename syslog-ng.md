@@ -1,5 +1,9 @@
 # Syslog-Ng
 
+[syslog-ng.com](https://www.syslog-ng.com/products/open-source-log-management/)
+
+[:octocat: syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng)
+
 Excellent well-established next generation syslog daemon written in C by Balabit.
 
 <!-- INDEX_START -->
