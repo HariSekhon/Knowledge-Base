@@ -6,7 +6,7 @@ Encrypt traffic between 2 locations.
 
 - [SSL vs IPSec VPNs](#ssl-vs-ipsec-vpns)
 - [OpenVPN](#openvpn)
-    - [OpenVPN Client](#openvpn-client)
+  - [OpenVPN Client](#openvpn-client)
   - [Tunnelblick](#tunnelblick)
 - [Client VPNs](#client-vpns)
 - [Consumer VPNs](#consumer-vpns)
@@ -29,7 +29,7 @@ Encrypt traffic between 2 locations.
 
 Several products are build on this open source base software and use it under the hood, eg. Tunnelblick.
 
-#### OpenVPN Client
+### OpenVPN Client
 
 <https://openvpn.net/client/>
 
