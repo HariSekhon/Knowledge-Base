@@ -556,7 +556,8 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 ## Security
 
 - [Security](security.md) TODO
-- [SSL](ssl.md) TODO
+- [Encryption](encryption.md)
+  - [SSL](ssl.md) TODO
 - [Kerberos](kerberos.md) TODO
 - [FreeIPA](freeipa.md) TODO
 - [Keycloak](keycloak.md)
