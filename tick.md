@@ -1,4 +1,4 @@
-## T.I.C.K. platform
+# T.I.C.K. platform
 
 Telegraf . InfluxDB . Chronograf . Kapacitor.
 
