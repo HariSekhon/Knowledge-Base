@@ -11,6 +11,7 @@ Tableau is a widely used visualization tool.
 - [Tableau Server Administration](#tableau-server-administration)
   - [TSM - Tableau Services Manager](#tsm---tableau-services-manager)
   - [Tabcmd](#tabcmd)
+  - [Recover Server Admin with no remaining LDAP server admins](#recover-server-admin-with-no-remaining-ldap-server-admins)
 - [Dashboards](#dashboards)
   - [Data Extract Refreshes](#data-extract-refreshes)
 - [Troubleshooting](#troubleshooting)
@@ -105,6 +106,52 @@ tabcmd edituser --username hari --role ServerAdministrator
 
 ```shell
 tabcmd logout
+```
+
+### Recover Server Admin with no remaining LDAP server admins
+
+```shell
+tsm authentication set-identity-store --type local
+```
+
+```shell
+tsm pending-changes apply
+```
+
+```shell
+password="$(pwgen -s 15)"
+```
+
+```shell
+tsm user-identity create --username "admin" --password "$password"
+```
+
+Log in to Tableau Server using the newly created local admin account.
+
+Use the Tableau Server web interface or `tabcmd` to promote an LDAP user to Server Administrator:
+
+```shell
+tabcmd login -s "https://$TABLEAU_SERVER" -u admin -p "$password"
+```
+
+```shell
+tabcmd edituser --username hari --role ServerAdministrator
+```
+
+Switch back to LDAP authentication:
+
+```shell
+tsm authentication set-identity-store --type ldap
+```
+
+```shell
+tsm pending-changes apply
+```
+
+May need to restart Tableau:
+
+```shell
+tsm restart
 ```
 
 ## Dashboards
