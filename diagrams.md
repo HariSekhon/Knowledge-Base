@@ -119,12 +119,17 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 
 <!-- -->
 
-- [Python Diagrams On-Premise](https://diagrams.mingrammer.com/docs/nodes/onprem)
+- [Python Diagrams On-Premise](https://diagrams.mingrammer.com/docs/nodes/onprem) - open source, databases, big data analytics etc.
 - [Python Diagrams AWS](https://diagrams.mingrammer.com/docs/nodes/aws)
 - [Python Diagrams GCP](https://diagrams.mingrammer.com/docs/nodes/gcp)
 - [Python Diagrams Azure](https://diagrams.mingrammer.com/docs/nodes/azure)
 - [Python Diagrams Generic](https://diagrams.mingrammer.com/docs/nodes/generic) - OS, Virtualization, Network Hardware
 - [Python Diagrams Kubernetes](https://diagrams.mingrammer.com/docs/nodes/k8s)
+- [Python Diagrams SaaS](https://diagrams.mingrammer.com/docs/nodes/saas)
+  - Snowflake
+  - CDNs eg. Akamai, Cloudflare, Fastly
+  - IdP eg. Okta, Auth0
+  - Monitoring & Alerting eg. Datadog, Newrelic, Pagerduty
 
 <!-- -->
 
@@ -167,6 +172,10 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 <!-- -->
 
 - [Iconify.design](https://icon-sets.iconify.design/) - Massive 200,000 open source SVG icon set
+
+<!-- -->
+
+If all else fails, there is always [Google Image Search](https://images.google.com/).
 
 ## Interactive Playground Editors
 
