@@ -217,6 +217,7 @@ This one is used widely throughout these pages:
 - [Cloud](cloud.md)
 - Cloud Platforms:
   - [AWS](aws.md)
+    - [AMI Scanning](ami-scanning.md)
   - [GCP](gcp.md)
   - [Azure](azure.md)
   - [Digital Ocean](digital-ocean.md)
@@ -564,6 +565,10 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Penetration Testing](pentesting.md) TODO
 - [Secrets Managers](secrets-managers.md)
 - [SOC - Security Operations Center](security-operations-center.md)
+- [Code Scanning](code-scanning.md)
+- [Code Quality](code-quality.md)
+- [Container Scanning](container-scanning.md)
+- [AMI Scanning](ami-scanning.md)
 
 ## Virtualization
 
