@@ -9,6 +9,7 @@ Scan for known CVEs from online databases.
   - [Grype](#grype)
   - [Clair](#clair)
 - [Proprietary](#proprietary)
+  - [AWS Inspector](#aws-inspector)
   - [Aqua Security](#aqua-security)
   - [Twistlock](#twistlock)
   - [Tenable.io](#tenableio)
@@ -41,6 +42,10 @@ see [this issue](https://github.com/quay/clair/issues/1756)
 See [Clair](clair.md) page.
 
 ## Proprietary
+
+### AWS Inspector
+
+<https://docs.aws.amazon.com/inspector/latest/user/what-is-inspector.html>
 
 ### Aqua Security
 
