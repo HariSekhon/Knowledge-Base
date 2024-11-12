@@ -2,6 +2,8 @@
 
 Scan for known CVEs from online databases.
 
+See also the [AMI Scanning](ami-scanning.md) page.
+
 <!-- INDEX_START -->
 
 - [Open Source](#open-source)
