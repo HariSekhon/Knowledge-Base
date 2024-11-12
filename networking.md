@@ -22,9 +22,11 @@
 
 ## CIDR visualizer
 
-Shows bits, netmask, first IP, last IP, number of IPs in range
+Shows bits, netmask, first IP, last IP, number of IPs in range.
 
 <http://cidr.xyz/>
+
+Especially those of you who never learnt to do your IP network calculations for your CCNA upwards.
 
 ## VPNs
 
