@@ -119,7 +119,7 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 
 <!-- -->
 
-- [Python Diagrams On-Premise](https://diagrams.mingrammer.com/docs/nodes/onprem) - open source, databases, big data analytics etc.
+- [Python Diagrams On-Premise](https://diagrams.mingrammer.com/docs/nodes/onprem) - open source, databases, big data analytics, CI/CD etc.
 - [Python Diagrams AWS](https://diagrams.mingrammer.com/docs/nodes/aws)
 - [Python Diagrams GCP](https://diagrams.mingrammer.com/docs/nodes/gcp)
 - [Python Diagrams Azure](https://diagrams.mingrammer.com/docs/nodes/azure)
