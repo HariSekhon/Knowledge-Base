@@ -82,7 +82,7 @@ and put this in it to clean up disk space every midnight:
 
 ### Data Extract Refreshes
 
-You can schedule data extract refreshes on the Dashboard -> Extract Refreshes tab.
+You can schedule data extract refreshes on the Dashboard's `Extract Refreshes` tab.
 
 ## Troubleshooting
 
