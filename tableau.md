@@ -9,6 +9,7 @@ Tableau is a widely used visualization tool.
 - [Tableau User Authentication](#tableau-user-authentication)
 - [SSH Config](#ssh-config)
 - [Tableau Server Administration](#tableau-server-administration)
+  - [TSM - Tableau Services Manager](#tsm---tableau-services-manager)
 - [Dashboards](#dashboards)
   - [Data Extract Refreshes](#data-extract-refreshes)
 - [Troubleshooting](#troubleshooting)
@@ -77,6 +78,15 @@ and put this in it to clean up disk space every midnight:
 ```crontab
 0 0 * * * tsm maintenance cleanup -a
 ```
+
+### TSM - Tableau Services Manager
+
+TSM is designed primarily for managing and configuring the underlying Tableau Server instance itself,
+for server administration tasks such as installation, configuration, maintenance, and upgrades.
+
+Here you can configure server health email alerts or LDAP integration.
+
+But you cannot use it to manage user permissions or roles within Tableau Server.
 
 ## Dashboards
 
