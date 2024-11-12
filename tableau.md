@@ -8,9 +8,12 @@ Tableau is a widely used visualization tool.
 
 - [Tableau User Authentication](#tableau-user-authentication)
 - [SSH Config](#ssh-config)
-- [On the Tableau Server](#on-the-tableau-server)
+- [Tableau Server Administration](#tableau-server-administration)
+- [Dashboards](#dashboards)
+  - [Data Extract Refreshes](#data-extract-refreshes)
 - [Troubleshooting](#troubleshooting)
   - [Disk Space](#disk-space)
+    - [Logs](#logs)
   - [Unable to proceed because of an error from the data source / Unable to connect to the Tableau Data Extract Server ""](#unable-to-proceed-because-of-an-error-from-the-data-source--unable-to-connect-to-the-tableau-data-extract-server-)
 
 <!-- INDEX_END -->
@@ -74,6 +77,12 @@ and put this in it to clean up disk space every midnight:
 ```crontab
 0 0 * * * tsm maintenance cleanup -a
 ```
+
+## Dashboards
+
+### Data Extract Refreshes
+
+You can schedule data extract refreshes on the Dashboard -> Extract Refreshes tab.
 
 ## Troubleshooting
 
