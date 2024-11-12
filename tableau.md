@@ -10,6 +10,7 @@ Tableau is a widely used visualization tool.
 - [SSH Config](#ssh-config)
 - [Tableau Server Administration](#tableau-server-administration)
   - [TSM - Tableau Services Manager](#tsm---tableau-services-manager)
+  - [Tabcmd](#tabcmd)
 - [Dashboards](#dashboards)
   - [Data Extract Refreshes](#data-extract-refreshes)
 - [Troubleshooting](#troubleshooting)
@@ -87,6 +88,24 @@ for server administration tasks such as installation, configuration, maintenance
 Here you can configure server health email alerts or LDAP integration.
 
 But you cannot use it to manage user permissions or roles within Tableau Server.
+
+### Tabcmd
+
+Login:
+
+```shell
+tabcmd login -s "https://$TABLEAU_SERVER" -u admin -p adminpassword
+```
+
+Grant my LDAP user the ServerAdmnistrator role:
+
+```shell
+tabcmd edituser --username hari --role ServerAdministrator
+```
+
+```shell
+tabcmd logout
+```
 
 ## Dashboards
 
