@@ -21,6 +21,8 @@
 
 ## Editors
 
+Tip: from `less`, you can hit the `v` key to open the file in the default `$EDITOR`.
+
 ### ViM
 
 Vi iMproved.
