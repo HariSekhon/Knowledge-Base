@@ -1371,6 +1371,14 @@ Copying them was how a lot of the European countries on this list were covered!
   in the Al Barsha area which is mostly asian rather than western mix international like Dubai Mall or Dubai Marina Mall
 - [Kite Beach](https://maps.app.goo.gl/9s53Wg9S7vV7Rd8w5) - long popular beach with cafes for cool drinks, e-scooters,
   and hipster restaurants at the north end
+- [Dubai Festival City Mall](https://maps.app.goo.gl/oEg1ZAUTMaPLGAULA) - another very good large mall near Dubai Creek
+- [City Centre Mirdif Mall](https://maps.app.goo.gl/XR684KR9Zw7teHKL9) - another very good and large mall near Dubai Creek
+- [Deira City Center Mall](https://maps.app.goo.gl/dnovu1E47J96KpNp9) - another good mall with an Acai Spot,
+  restaurants, and all the usual brands
+- [City Walk](https://maps.app.goo.gl/Suov6sK76gn9aXP96) - cafes and restaurants in an outdoor retail complex with a
+  tree-lined esplanade and central fountain
+- [Global Village](https://www.tripadvisor.com/Attraction_Review-g295424-d2038312-Reviews-Global_Village-Dubai_Emirate_of_Dubai.html) -
+  only open October to April
 
 #### Dubai Restaurants
 
