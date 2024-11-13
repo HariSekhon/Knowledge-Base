@@ -21,7 +21,9 @@ Feature rich and easy to use - the opposite end of [vim](vim.md)!
   - [Manual Plugin Installation](#manual-plugin-installation)
   - [Docker, Kubernetes and Terraform](#docker-kubernetes-and-terraform)
   - [Languages](#languages)
-  - [Core Editing, Git & File Formats](#core-editing-git--file-formats)
+  - [Git & Core Editing Features](#git--core-editing-features)
+  - [File Formats](#file-formats)
+  - [Diagrams-as-Code](#diagrams-as-code)
   - [Usage Stats](#usage-stats)
   - [Cloud](#cloud)
   - [CI/CD](#cicd)
@@ -35,6 +37,7 @@ Feature rich and easy to use - the opposite end of [vim](vim.md)!
   - [Pair Programming](#pair-programming)
   - [More Plugins](#more-plugins)
 - [Troubleshooting](#troubleshooting)
+  - [IntelliJ fails to open on Mac](#intellij-fails-to-open-on-mac)
   - [Markdown Images with Relative Paths Not Displaying in Preview](#markdown-images-with-relative-paths-not-displaying-in-preview)
   - [External Tool - unexpected EOF while looking for matching `''](#external-tool---unexpected-eof-while-looking-for-matching-)
 - [See Also](#see-also)
@@ -191,9 +194,8 @@ idea installPlugins \
   org.jetbrains.intellij.scripting-ruby
 ```
 
-### Core Editing, Git & File Formats
+### Git & Core Editing Features
 
-- [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore) - supports various `.ignore` files for different technologies
 - [Code Glance](https://plugins.jetbrains.com/plugin/7275-codeglance/) - adds a minimap of the file
 - [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console)
 - [Better Highlights](https://plugins.jetbrains.com/plugin/12895-better-highlights)
@@ -201,18 +203,12 @@ idea installPlugins \
 - [Editor Config](https://plugins.jetbrains.com/plugin/7294-editorconfig/)
 - [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink/) - shortcut to open files on GitHub and other hosted repo providers
 - [Git Toolbox](https://plugins.jetbrains.com/plugin/7499-gittoolbox/) - automatic fetches, show status vs upsteam origin
-- [CSV Editor](https://plugins.jetbrains.com/plugin/10037-csv-editor)
-- [JSON Parser](https://plugins.jetbrains.com/plugin/10650-json-parser) - validate & format JSON strings
 - [CamelCase](https://plugins.jetbrains.com/plugin/7160-camelcase)
 - [RegexpTester](https://plugins.jetbrains.com/plugin/2917-regexp-tester)
 - [Database Navigator](https://plugins.jetbrains.com/plugin/1800-database-navigator)
-- [Markdown Navigator Enhanced](https://plugins.jetbrains.com/plugin/7896-markdown-navigator-enhanced/)
-- [Mermaid](https://plugins.jetbrains.com/plugin/20146-mermaid)
 - [Zero Width Characters locator](https://plugins.jetbrains.com/plugin/7448-zero-width-characters-locator) - find characters that could break your code
-- [Env files support](https://plugins.jetbrains.com/plugin/9525--env-files-support)
 - [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 - [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
-- [Rainbow CSV](https://plugins.jetbrains.com/plugin/12896-rainbow-csv)
 - [Indent Rainbow](https://plugins.jetbrains.com/plugin/13308-indent-rainbow)
 - [Return Highlighter](https://plugins.jetbrains.com/plugin/13303-return-highlighter)
 
@@ -226,20 +222,43 @@ idea installPlugins \
   GrepConsole \
   com.clutcher.comments_highlighter \
   BrowseWordAtCaret \
-  net.seesharpsoft.intellij.plugins.csv \
-  com.godwin.json.parser \
   de.netnexus.camelcaseplugin \
   org.intellij.RegexpTester \
   DBN \
-  com.vladsch.idea.multimarkdown \
-  com.intellij.mermaid \
   com.ultrahob.zerolength.plugin \
-  ru.adelf.idea.dotenv \
   "String Manipulation" \
   izhangzhihao.rainbow.brackets \
-  com.andrey4623.rainbowcsv \
   indent-rainbow.indent-rainbow \
   com.github.lppedd.idea-return-highlighter
+```
+
+### File Formats
+
+- [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore) - supports various `.ignore` files for different technologies
+- [CSV Editor](https://plugins.jetbrains.com/plugin/10037-csv-editor)
+- [JSON Parser](https://plugins.jetbrains.com/plugin/10650-json-parser) - validate & format JSON strings
+- [Markdown Navigator Enhanced](https://plugins.jetbrains.com/plugin/7896-markdown-navigator-enhanced/)
+- [Env files support](https://plugins.jetbrains.com/plugin/9525--env-files-support)
+- [Rainbow CSV](https://plugins.jetbrains.com/plugin/12896-rainbow-csv)
+
+```shell
+idea installPlugins \
+  net.seesharpsoft.intellij.plugins.csv \
+  com.godwin.json.parser \
+  com.vladsch.idea.multimarkdown \
+  ru.adelf.idea.dotenv \
+  com.andrey4623.rainbowcsv
+```
+
+### Diagrams-as-Code
+
+- [D2lang](https://plugins.jetbrains.com/plugin/20630-d2)
+- [Mermaid](https://plugins.jetbrains.com/plugin/20146-mermaid)
+
+```shell
+idea installPlugins \
+  com.dvd.intellij.d2 \
+  com.intellij.mermaid
 ```
 
 ### Usage Stats
@@ -252,7 +271,7 @@ idea installPlugins \
 idea installPlugins \
   com.wakatime.intellij.plugin \
   com.softwareco.intellij.plugin \
-  Statistic \
+  Statistic
 ```
 
 ### Cloud
@@ -437,6 +456,23 @@ idea installPlugins \
 - [CPU Usage Indicator](https://plugins.jetbrains.com/plugin/8580-cpu-usage-indicator) - use [Stats](mac.md#stats-bar) on Mac instead
 
 ## Troubleshooting
+
+### IntelliJ fails to open on Mac
+
+Clicking the IntelliJ icon does not open it, and running it from the command line:
+
+```shell
+command idea
+```
+
+logs but doesn't open.
+
+Even using the `open` command trick reveals [this common error on Mac](mac.md#various-applications-fail-to-open).
+
+```shell
+$ open -a "IntelliJ IDEA CE"
+The application /Applications/IntelliJ IDEA CE.app cannot be opened for an unexpected reason, error=Error Domain=NSOSStatusErrorDomain Code=-600 "procNotFound: no eligible process with specified descriptor" UserInfo={_LSLine=4141, _LSFunction=_LSOpenStuffCallLocal}
+```
 
 ### Markdown Images with Relative Paths Not Displaying in Preview
 
