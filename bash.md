@@ -153,12 +153,13 @@ Some less well known commands to remember:
 
 Environment variables to keep in mind:
 
-| Variable  | Description                                                                      |
-|-----------|----------------------------------------------------------------------------------|
-| `EDITOR`  | Set the editor to open automatically in unix commands like `visudo`              |
-| `TMOUT`   | Times out the shell or script after N seconds from the time this variable it set |
-| `RANDOM`  | A random number                                                                  |
-| `CDPATH`  | List of directories that a `cd` command will take you to with only the basename  |
+| Variable  | Description                                                                                        |
+|-----------|----------------------------------------------------------------------------------------------------|
+| `EDITOR`  | Set the editor to open automatically in unix commands like `visudo`                                |
+| `CDPATH`  | List of directories that a `cd` command will take you to with only the basename                    |
+| `RANDOM`  | A random integer up to 5 digits. Substring it for shorter eg. `${RANDOM:0:2}`                      |
+| `TMOUT`   | Times out the shell or script after N seconds from the time this variable it set                   |
+| `SECONDS` | Incrementing integer of seconds, `SECONDS=0` to use it as a simple timer in a script or even shell |
 
 ## Tips & Tricks
 
