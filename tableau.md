@@ -148,10 +148,32 @@ This will create a local backup file in the following naming convention:
 tableau-backup-2024-11-12_210000.tsbak
 ```
 
-Without `-f <file>` puts in the default location:
+Saves the backup file in this default location:
 
 ```text
 /var/opt/tableau/tableau_server/data/tabsvc/files/backups
+```
+
+Full output:
+
+```text
+Job id is '24', timeout is 1440 minutes.
+7% - Starting the Active Repository instance, File Store, and Cluster Controller.
+14% - Waiting for the Active Repository, File Store, and Cluster Controller to start.
+Running - Installing backup services.
+21% - Installing backup services.
+28% - Estimating required disk space.
+35% - Gathering disk space information from all nodes.
+42% - Analyzing disk space information.
+50% - Checking if sufficient disk space is available on all nodes.
+57% - Backing up configuration.
+64% - Backing up object storage data.
+71% - Backing up database.
+78% - Assembling the tsbak archive.
+85% - Stopping the Active Repository if necessary.
+92% - Waiting for the Active Repository to stop if necessary.
+100% - Uninstalling backup services.
+Backup written to '/var/opt/tableau/tableau_server/data/tabsvc/files/backups/tableau-backup-2024-11-13_143341.tsbak' on the controller node.
 ```
 
 ### Restore Tableau Server
