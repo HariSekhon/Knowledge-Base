@@ -1385,6 +1385,8 @@ Copying them was how a lot of the European countries on this list were covered!
 - [Habib Beirut](https://maps.app.goo.gl/TdwLSXHzvYqwhKLe8) - good lebanese on the Marina, a short walk from
   Dubai Marina Mall
 - [Moshi](https://maps.app.goo.gl/xLCidAUmxFmP1XyT6) - small place with great asian food, Thai Tom Yum soup and Sushi
+- [Acai Spot](https://maps.app.goo.gl/ogJxLHpscsk4fVTBA) - chain Acai cafe throughout Dubai, pricey but good.
+  I usually get the tropical or make your own
 - [Greenland](https://maps.app.goo.gl/NGURNp991VaCpFNR8) - local indian chain, 24x7, affordable,
   big selection of fresh juices.
   There are outlets in various areas of Dubai
