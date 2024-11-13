@@ -171,7 +171,6 @@ You can see most of these used throughout my GitHub repos, eg:
 - `pyobjc-framework-Quartz` - control Mac UI
 - `psutil`
 - `PyInstaller` - bundle Python code into standalone executablers (doesn't work for advanced code)
-- `Quartz` - macOS library
 - `sasl`
 
 ### Web
