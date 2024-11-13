@@ -1361,11 +1361,16 @@ Copying them was how a lot of the European countries on this list were covered!
   even indoor skating and aquarium with sharks and rays
 - [Dubai Marina Mall](https://maps.app.goo.gl/pAcde92GnfexCE2N8) - smaller mall on the Marina but high quality,
   everything from Wagamama to Waitrose to designer shops and good restaurants
-- [Mall of the Emirates](https://maps.app.goo.gl/Qo3gmeqpzxHU8goj9) - popular mall with even indoor skiing
+- [Dubai Hill Mall](https://maps.app.goo.gl/uwsPNDjDJjBystDi9) - large suburban mall with all the usual shops and
+  restaurants
+- [Mall of the Emirates](https://maps.app.goo.gl/Qo3gmeqpzxHU8goj9) - popular mall with even indoor skiing,
+  in the Al Barsha area which is mostly asian rather than western mix international like Dubai Mall or Dubai Marina Mall
 - [Kite Beach](https://maps.app.goo.gl/9s53Wg9S7vV7Rd8w5) - long popular beach with drinks/cafes,
   and hipster restaurants at the north end
 
 #### Dubai Restaurants
+
+Often restaurants outside of the malls are better in terms of prices.
 
 - [Doors in Dubai Mall](https://maps.app.goo.gl/9s53Wg9S7vV7Rd8w5) - fancy upmarket restaurant overlooking the
   Burj Khalifa water fountains. Go for a special occasion. You will pay £10 per juice
@@ -1376,6 +1381,8 @@ Copying them was how a lot of the European countries on this list were covered!
 - [Moshi](https://maps.app.goo.gl/xLCidAUmxFmP1XyT6) - small place with great asian food, Thai Tom Yum soup and Sushi
 - [Acai Spot](https://maps.app.goo.gl/ogJxLHpscsk4fVTBA) - chain Acai cafe throughout Dubai, pricey but good.
   I usually get the tropical or make your own
+- [Alyasamin Aldimashqi](https://maps.app.goo.gl/DtF6nwJy9mGDeVAh9) - excellent Syrian restaurant opposite
+  Deira City Center Mall
 - [Greenland](https://maps.app.goo.gl/NGURNp991VaCpFNR8) - local indian chain, 24x7, affordable,
   big selection of fresh juices.
   There are outlets in various areas of Dubai
@@ -1384,6 +1391,8 @@ Copying them was how a lot of the European countries on this list were covered!
   as is the spicy Prawn Schezwan Fried Rice which contains lots of fresh green chillis.
   There is a large selection of fresh juices,
   but the Coconut Shake and Mango Passion Special are particularly good (I was getting one of these two daily)
+- [Umami](https://maps.app.goo.gl/LcKVp4C6sZ72t1Nv6) - Japanese chain in the mall food courts, cheap and cheerful for
+  a bento box, my pick if you're caught in a mall food caught with too much fast food
 - [Al Rigga Night Market](https://maps.app.goo.gl/dVxrrWQwxGW1KoNQ7) - full of cheap eats, and the market opposite,
   bustling at midnight, open until 2am.
 
