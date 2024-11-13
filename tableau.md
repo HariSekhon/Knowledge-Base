@@ -69,6 +69,28 @@ output should look like:
 Status: RUNNING
 ```
 
+To see individual component statuses:
+
+```shell
+tsm status -v
+```
+
+List configuration keys:
+
+```shell
+tsm configuration list
+```
+
+Show each configuration value:
+
+```shell
+tsm configuration list |
+while read -r key; do
+  echo -n "$key:  ";
+  tsm configuration get -k "$key";
+done
+```
+
 Edit the `tableauadmin` user's crontab:
 
 ```shell
@@ -108,7 +130,39 @@ tabcmd edituser --username hari --role ServerAdministrator
 tabcmd logout
 ```
 
+### Backup Tableau Server
+
+[Backup & Restore Documentation](https://help.tableau.com/current/server/en-us/backup_restore.htm)
+
+**The backup process can take a long time to run during which no other jobs can run, so backup out of business hours.**
+
+Create a backup archive of the Tableau Server, optionally encrypted to protect the sensitive contents.
+
+```shell
+tsm maintenance backup -f "tableau-backup-$(date '+%F_%H%M%S').tsbak"  # --encrypt-password "$password"
+```
+
+This will create a local backup file in the following naming convention:
+
+```text
+tableau-backup-2024-11-12_210000.tsbak
+```
+
+Without `-f <file>` puts in the default location:
+
+```text
+/var/opt/tableau/tableau_server/data/tabsvc/files/backups
+```
+
+### Restore Tableau Server
+
+```shell
+tsm maintenance restore -f "tableau-backup-2024-11-12_210000.tsbak"  # --encrypt-password "$password"
+```
+
 ### Recover Server Admin with no remaining LDAP server admins
+
+[Backup the Tableau Server](#backup-tableau-server) first.
 
 ```shell
 tsm authentication set-identity-store --type local
