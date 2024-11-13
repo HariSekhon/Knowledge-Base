@@ -122,11 +122,11 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Dubai](#dubai)
     - [Dubai Taxis](#dubai-taxis)
     - [Dubai Parking](#dubai-parking)
-    - [Dubai Visa](#dubai-visa)
     - [Dubai Weather](#dubai-weather)
-    - [Dubai Banking](#dubai-banking)
     - [Dubai Attractions](#dubai-attractions)
     - [Dubai Restaurants](#dubai-restaurants)
+    - [Dubai Visa](#dubai-visa)
+    - [Dubai Banking](#dubai-banking)
   - [United Kingdom](#united-kingdom)
   - [USA](#usa)
     - [California](#california)
@@ -1348,37 +1348,11 @@ Occasionally it is blocked off for DWTC events, but there is another smaller ope
 [here](https://maps.app.goo.gl/jMzPUWreB5ypQ1gw9).
 I avoid using the Al Mustaqbal car park as it is expensive at 10 AED per hour.
 
-#### Dubai Visa
-
-You are required to get a medical blood screening, chest x-ray, biometrics like fingerprinting to get a visa here.
-
-Once you have residence you are no longer allowed to use your UK driver's license
-and will get a shock as your car rental company refuses to release the car to you.
-
-You will then need to Careem around the city to get your Emirates ID and then your Drivers License which will require
-local bank or cash payment.
-
 #### Dubai Weather
 
 The weather is so hot even by May some people use sun umbrellas - so hot that it broke my car phone holder.
 Rich people usually leave Dubai and go to Europe for the summer.
 Copying them was how a lot of the European countries on this list were covered!
-
-#### Dubai Banking
-
-- [Mashreq](https://www.mashreq.com/) is the easiest to use, app-only like Starling or Monzo
-  - I lost 5% on a GBP-to-GBP transfer from ADCB to Mashreq... Bitcoin transaction fees are
-    [usually much lower](https://ycharts.com/indicators/bitcoin_average_transaction_fee).
-- [ADCB](https://www.adcb.com/en/personal/) is the next best, but the premium account is a big hassle and has a minimum balance requirement
-  - See the 5% loss above sending GBP-to-GBP from ADCB to Mashreq (estimate 1.68% on ADCB's side even using a premium account)
-  - I calculated a GBP to AED transfer within ADCB cost 1.66% hidden in a worse conversion rate. This is outrageous if
-    you were to transfer or convert large amounts of money such as your life savings.
-- [Emirates NBD](https://www.emiratesnbd.com/en) has a bad reputation among my peers for being a lot of hassle
-  - they were a hassle to open, wanting salary certificate
-  - even closing the account is difficult apparently
-- [HSBC](https://www.hsbc.ae/) was a similar hassle to NBD above wanting salary certificate addressed specifically to them
-  - much more hassle, not like HSBC back in the UK, most UK banks just open accounts easily
-  - even already having an HSBC UK account doesn't help
 
 #### Dubai Attractions
 
@@ -1412,6 +1386,32 @@ Copying them was how a lot of the European countries on this list were covered!
   but the Coconut Shake and Mango Passion Special are particularly good (I was getting one of these two daily)
 - [Al Rigga Night Market](https://maps.app.goo.gl/dVxrrWQwxGW1KoNQ7) - full of cheap eats, and the market opposite,
   bustling at midnight, open until 2am.
+
+#### Dubai Visa
+
+You are required to get a medical blood screening, chest x-ray, biometrics like fingerprinting to get a visa here.
+
+Once you have residence you are no longer allowed to use your UK driver's license
+and will get a shock as your car rental company refuses to release the car to you.
+
+You will then need to Careem around the city to get your Emirates ID and then your Drivers License which will require
+local bank or cash payment.
+
+#### Dubai Banking
+
+- [Mashreq](https://www.mashreq.com/) is the easiest to use, app-only like Starling or Monzo
+  - I lost 5% on a GBP-to-GBP transfer from ADCB to Mashreq... Bitcoin transaction fees are
+    [usually much lower](https://ycharts.com/indicators/bitcoin_average_transaction_fee).
+- [ADCB](https://www.adcb.com/en/personal/) is the next best, but the premium account is a big hassle and has a minimum balance requirement
+  - See the 5% loss above sending GBP-to-GBP from ADCB to Mashreq (estimate 1.68% on ADCB's side even using a premium account)
+  - I calculated a GBP to AED transfer within ADCB cost 1.66% hidden in a worse conversion rate. This is outrageous if
+    you were to transfer or convert large amounts of money such as your life savings.
+- [Emirates NBD](https://www.emiratesnbd.com/en) has a bad reputation among my peers for being a lot of hassle
+  - they were a hassle to open, wanting salary certificate
+  - even closing the account is difficult apparently
+- [HSBC](https://www.hsbc.ae/) was a similar hassle to NBD above wanting salary certificate addressed specifically to them
+  - much more hassle, not like HSBC back in the UK, most UK banks just open accounts easily
+  - even already having an HSBC UK account doesn't help
 
 ### United Kingdom
 
