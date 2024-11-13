@@ -1400,7 +1400,7 @@ Often restaurants outside of the malls are better in terms of prices.
   I usually get the tropical or make your own
 - [Angel Cakes Dubai Hills Park](https://maps.app.goo.gl/CJVaPFEXE9Xcs3CY8) - gentrified cafe serving food, cakes and
   drinks.
-  Small chain also available at Dubai Mall and Bluewaters (next to JBR)
+  Small chain, also available at Dubai Mall and Bluewaters (next to JBR)
 - [Alyasamin Aldimashqi](https://maps.app.goo.gl/DtF6nwJy9mGDeVAh9) - excellent Syrian restaurant opposite
   Deira City Center Mall
 - [Greenland](https://maps.app.goo.gl/NGURNp991VaCpFNR8) - local indian chain, 24x7, affordable,
