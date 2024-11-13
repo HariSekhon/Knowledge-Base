@@ -1369,7 +1369,7 @@ Copying them was how a lot of the European countries on this list were covered!
   restaurants
 - [Mall of the Emirates](https://maps.app.goo.gl/Qo3gmeqpzxHU8goj9) - popular mall with even indoor skiing,
   in the Al Barsha area which is mostly asian rather than western mix international like Dubai Mall or Dubai Marina Mall
-- [Kite Beach](https://maps.app.goo.gl/9s53Wg9S7vV7Rd8w5) - long popular beach with drinks/cafes,
+- [Kite Beach](https://maps.app.goo.gl/9s53Wg9S7vV7Rd8w5) - long popular beach with cafes for cool drinks, e-scooters,
   and hipster restaurants at the north end
 
 #### Dubai Restaurants
