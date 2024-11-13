@@ -1387,7 +1387,7 @@ Often restaurants outside of the malls are better in terms of prices.
   big selection of fresh juices.
   There are outlets in various areas of Dubai
 - [JusGrill](https://maps.app.goo.gl/9ia8SB2jGbaGxBU69) - local cheap eats, Indian, Chinese and Filipino food.
-  The Pancit Bihon (like Singapore Noodles) is good,
+  The Pancit Bihon (Filipino equivalent of singapore noodles) is good,
   as is the spicy Prawn Schezwan Fried Rice which contains lots of fresh green chillis.
   There is a large selection of fresh juices,
   but the Coconut Shake and Mango Passion Special are particularly good (I was getting one of these two daily)
