@@ -1406,7 +1406,8 @@ Often restaurants outside of the malls are better in terms of prices.
 - [Greenland](https://maps.app.goo.gl/NGURNp991VaCpFNR8) - local indian chain, 24x7, affordable,
   big selection of fresh juices.
   There are outlets in various areas of Dubai
-- [JusGrill](https://maps.app.goo.gl/9ia8SB2jGbaGxBU69) - local cheap eats, Indian, Chinese and Filipino food.
+- [JusGrill](https://maps.app.goo.gl/9ia8SB2jGbaGxBU69) - local cheap eats in Al Rigga serving Indian, Chinese &
+  Filipino food.
   The Pancit Bihon (Filipino equivalent of singapore noodles) is good,
   as is the spicy Prawn Schezwan Fried Rice which contains lots of fresh green chillis.
   There is a large selection of fresh juices,
