@@ -1357,12 +1357,12 @@ Copying them was how a lot of the European countries on this list were covered!
 #### Dubai Attractions
 
 - [Dubai Marina](https://maps.app.goo.gl/4NuAPJvdNj69mmqy5) - long walk with boats and restaurants -
-  an excellent place to rent an e-scooter
+  an excellent place to rent an e-scooter via Lime or bike via Careem since it's a 7km oval
 - [JBR Beach](https://maps.app.goo.gl/pR6TbPo8jbWeu7sM6) - popular tourist beach with the usual mix of restaurants
   and cafes
-- [Dubai Mall](https://maps.app.goo.gl/kdrUMenKN1bQd2tP8) - not just a mall,
+- [Downtown / Dubai Mall / Burj Khalifa area](https://maps.app.goo.gl/kdrUMenKN1bQd2tP8) - not just a mall,
   everything is here, countless restaurants and coffee shops (relatively expensive) and
-  even indoor skating and aquarium with sharks and rays
+  even indoor skating and aquarium with sharks and rays, the water fountains and surrounding area
 - [Dubai Marina Mall](https://maps.app.goo.gl/pAcde92GnfexCE2N8) - smaller mall on the Marina but high quality,
   everything from Wagamama to Waitrose to designer shops and good restaurants
 - [Dubai Hill Mall](https://maps.app.goo.gl/uwsPNDjDJjBystDi9) - large suburban mall with all the usual shops and
