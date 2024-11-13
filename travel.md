@@ -121,10 +121,12 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [UAE](#uae)
     - [Dubai](#dubai)
     - [Dubai Taxis](#dubai-taxis)
-    - [Visa](#visa)
-    - [Weather](#weather)
-    - [Banking](#banking)
-    - [Dubai Restaurants & Attractions](#dubai-restaurants--attractions)
+    - [Dubai Parking](#dubai-parking)
+    - [Dubai Visa](#dubai-visa)
+    - [Dubai Weather](#dubai-weather)
+    - [Dubai Banking](#dubai-banking)
+    - [Dubai Attractions](#dubai-attractions)
+    - [Dubai Restaurants](#dubai-restaurants)
   - [United Kingdom](#united-kingdom)
   - [USA](#usa)
     - [California](#california)
@@ -1336,7 +1338,17 @@ You will need a car or taxi everywhere.
 
 It does everything from Uber-style taxis, to food delivery, to rental bicycles.
 
-#### Visa
+#### Dubai Parking
+
+Parking is easy in most of the malls but really difficult near the Dubai World Trade Center.
+
+The [Al Saada parking](https://maps.app.goo.gl/hGDTeF9eKRzmPYV69) is a large free open air car park that is a gem known
+only to the local workers.
+Occasionally it is blocked off for DWTC events, but there is another smaller open air car park around the block
+[here](https://maps.app.goo.gl/jMzPUWreB5ypQ1gw9).
+I avoid using the Al Mustaqbal car park as it is expensive at 10 AED per hour.
+
+#### Dubai Visa
 
 You are required to get a medical blood screening, chest x-ray, biometrics like fingerprinting to get a visa here.
 
@@ -1346,13 +1358,13 @@ and will get a shock as your car rental company refuses to release the car to yo
 You will then need to Careem around the city to get your Emirates ID and then your Drivers License which will require
 local bank or cash payment.
 
-#### Weather
+#### Dubai Weather
 
 The weather is so hot even by May some people use sun umbrellas - so hot that it broke my car phone holder.
 Rich people usually leave Dubai and go to Europe for the summer.
 Copying them was how a lot of the European countries on this list were covered!
 
-#### Banking
+#### Dubai Banking
 
 - [Mashreq](https://www.mashreq.com/) is the easiest to use, app-only like Starling or Monzo
   - I lost 5% on a GBP-to-GBP transfer from ADCB to Mashreq... Bitcoin transaction fees are
@@ -1368,7 +1380,7 @@ Copying them was how a lot of the European countries on this list were covered!
   - much more hassle, not like HSBC back in the UK, most UK banks just open accounts easily
   - even already having an HSBC UK account doesn't help
 
-#### Dubai Restaurants & Attractions
+#### Dubai Attractions
 
 - [Dubai Mall](https://maps.app.goo.gl/kdrUMenKN1bQd2tP8) - not just a mall,
   everything is here, countless restaurants and coffee shops (relatively expensive) and
@@ -1378,6 +1390,9 @@ Copying them was how a lot of the European countries on this list were covered!
 - [Mall of the Emirates](https://maps.app.goo.gl/Qo3gmeqpzxHU8goj9) - popular mall with even indoor skiing
 - [Kite Beach](https://maps.app.goo.gl/9s53Wg9S7vV7Rd8w5) - long popular beach with drinks/cafes,
   and hipster restaurants at the north end
+
+#### Dubai Restaurants
+
 - [Doors in Dubai Mall](https://maps.app.goo.gl/9s53Wg9S7vV7Rd8w5) - fancy upmarket restaurant overlooking the
   Burj Khalifa water fountains. Go for a special occasion. You will pay £10 per juice
 - [Tashas](https://maps.app.goo.gl/rHzL2Sbo8uxodN3E9) - high quality restaurant with indoor and outdoor seating on the
