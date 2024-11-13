@@ -124,6 +124,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Visa](#visa)
     - [Weather](#weather)
     - [Banking](#banking)
+    - [Dubai Restaurants & Attractions](#dubai-restaurants--attractions)
   - [United Kingdom](#united-kingdom)
   - [USA](#usa)
     - [California](#california)
@@ -1366,6 +1367,34 @@ Copying them was how a lot of the European countries on this list were covered!
 - [HSBC](https://www.hsbc.ae/) was a similar hassle to NBD above wanting salary certificate addressed specifically to them
   - much more hassle, not like HSBC back in the UK, most UK banks just open accounts easily
   - even already having an HSBC UK account doesn't help
+
+#### Dubai Restaurants & Attractions
+
+- [Dubai Mall](https://maps.app.goo.gl/kdrUMenKN1bQd2tP8) - not just a mall,
+  everything is here, countless restaurants and coffee shops (relatively expensive) and
+  even indoor skating and aquarium with sharks and rays
+- [Dubai Marina Mall](https://maps.app.goo.gl/pAcde92GnfexCE2N8) - smaller mall on the Marina but high quality,
+  everything from Wagamama to Waitrose to designer shops and good restaurants
+- [Mall of the Emirates](https://maps.app.goo.gl/Qo3gmeqpzxHU8goj9) - popular mall with even indoor skiing
+- [Kite Beach](https://maps.app.goo.gl/9s53Wg9S7vV7Rd8w5) - long popular beach with drinks/cafes,
+  and hipster restaurants at the north end
+- [Doors in Dubai Mall](https://maps.app.goo.gl/9s53Wg9S7vV7Rd8w5) - fancy upmarket restaurant overlooking the
+  Burj Khalifa water fountains. Go for a special occasion. You will pay £10 per juice
+- [Tashas](https://maps.app.goo.gl/rHzL2Sbo8uxodN3E9) - high quality restaurant with indoor and outdoor seating on the
+  Dubai Marina
+- [Habib Beirut](https://maps.app.goo.gl/TdwLSXHzvYqwhKLe8) - good lebanese on the Marina, a short walk from
+  Dubai Marina Mall
+- [Moshi](https://maps.app.goo.gl/xLCidAUmxFmP1XyT6) - small place with great asian food, Thai Tom Yum soup and Sushi
+- [Greenland](https://maps.app.goo.gl/NGURNp991VaCpFNR8) - local indian chain, 24x7, affordable,
+  big selection of fresh juices.
+  There are outlets in various areas of Dubai
+- [JusGrill](https://maps.app.goo.gl/9ia8SB2jGbaGxBU69) - local cheap eats, Indian, Chinese and Filipino food.
+  The Pancit Bihon (like Singapore Noodles) is good,
+  as is the spicy Prawn Schezwan Fried Rice which contains lots of fresh green chillis.
+  There is a large selection of fresh juices,
+  but the Coconut Shake and Mango Passion Special are particularly good (I was getting one of these two daily)
+- [Al Rigga Night Market](https://maps.app.goo.gl/dVxrrWQwxGW1KoNQ7) - full of cheap eats, and the market opposite,
+  bustling at midnight, open until 2am.
 
 ### United Kingdom
 
