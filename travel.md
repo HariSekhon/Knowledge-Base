@@ -1394,7 +1394,8 @@ Often restaurants outside of the malls are better in terms of prices.
   Dubai Marina
 - [Habib Beirut](https://maps.app.goo.gl/TdwLSXHzvYqwhKLe8) - good lebanese on the Marina, a short walk from
   Dubai Marina Mall
-- [Moshi](https://maps.app.goo.gl/xLCidAUmxFmP1XyT6) - small place with great asian food, Thai Tom Yum soup and Sushi
+- [Moshi](https://maps.app.goo.gl/xLCidAUmxFmP1XyT6) - small place with great asian food, Thai Tom Yum soup and Sushi,
+  just outside the Mall of the Emirates
 - [Acai Spot](https://maps.app.goo.gl/ogJxLHpscsk4fVTBA) - chain Acai cafe throughout Dubai, pricey but good.
   I usually get the tropical or make your own
 - [Angel Cakes Dubai Hills Park](https://maps.app.goo.gl/CJVaPFEXE9Xcs3CY8) - gentrified cafe serving food, cakes and
