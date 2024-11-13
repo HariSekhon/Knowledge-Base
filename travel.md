@@ -1392,8 +1392,6 @@ Often restaurants outside of the malls are better in terms of prices.
   Burj Khalifa water fountains. Go for a special occasion. You will pay £10 per juice
 - [Tashas](https://maps.app.goo.gl/rHzL2Sbo8uxodN3E9) - high quality restaurant with indoor and outdoor seating on the
   Dubai Marina
-- [Habib Beirut](https://maps.app.goo.gl/TdwLSXHzvYqwhKLe8) - good lebanese on the Marina, a short walk from
-  Dubai Marina Mall
 - [Moshi](https://maps.app.goo.gl/xLCidAUmxFmP1XyT6) - small place with great asian food, Thai Tom Yum soup and Sushi,
   just outside the Mall of the Emirates
 - [Acai Spot](https://maps.app.goo.gl/ogJxLHpscsk4fVTBA) - chain Acai cafe throughout Dubai, pricey but good.
@@ -1401,6 +1399,8 @@ Often restaurants outside of the malls are better in terms of prices.
 - [Angel Cakes Dubai Hills Park](https://maps.app.goo.gl/CJVaPFEXE9Xcs3CY8) - gentrified cafe serving food, cakes and
   drinks.
   Small chain, also available at Dubai Mall and Bluewaters (next to JBR)
+- [Habib Beirut](https://maps.app.goo.gl/TdwLSXHzvYqwhKLe8) - good lebanese on the Marina, a short walk from
+  Dubai Marina Mall
 - [Alyasamin Aldimashqi](https://maps.app.goo.gl/DtF6nwJy9mGDeVAh9) - excellent Syrian restaurant opposite
   Deira City Center Mall
 - [Greenland](https://maps.app.goo.gl/NGURNp991VaCpFNR8) - local indian chain, 24x7, affordable,
