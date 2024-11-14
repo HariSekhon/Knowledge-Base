@@ -12,6 +12,7 @@ Media file analysis, editing, transcoding and conversions.
   - [Trim a Couple Pixels off the Right of an Image](#trim-a-couple-pixels-off-the-right-of-an-image)
   - [Trim a Couple Pixels off the Top of an Image](#trim-a-couple-pixels-off-the-top-of-an-image)
   - [Join Two Images Together](#join-two-images-together)
+  - [Create Animated GIFs of Commands](#create-animated-gifs-of-commands)
   - [Inspect Image File Metadata](#inspect-image-file-metadata)
   - [Look for Watermarks](#look-for-watermarks)
   - [Steghide](#steghide)
@@ -181,6 +182,12 @@ image_join_vertical.sh "$top_image" "$bottom_image" "joined_image.png"
 ```shell
 image_join_horizontal.sh "$left_image" "$right_image" "joined_image.png"
 ```
+
+### Create Animated GIFs of Commands
+
+<https://github.com/faressoft/terminalizer>
+
+<https://github.com/icholy/ttygif>
 
 ### Inspect Image File Metadata
 
