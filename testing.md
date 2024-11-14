@@ -18,11 +18,15 @@ Don't be these people - it's funny because it's wrong:
 
 ![Test Cases are for Weak Programmers](images/test_cases_for_weak_programmers.jpeg)
 
-## Diagram
+## Diagrams
 
 ### Different Testing Methods
 
 ![Testing](images/testing.gif)
+
+### API Testing
+
+![API Testing](images/api_testing.gif)
 
 ## Meme
 
