@@ -11,13 +11,15 @@ Tableau is a widely used visualization tool.
 - [Tableau Server Administration](#tableau-server-administration)
   - [TSM - Tableau Services Manager](#tsm---tableau-services-manager)
   - [Tabcmd](#tabcmd)
-  - [Recover Server Admin with no remaining LDAP server admins](#recover-server-admin-with-no-remaining-ldap-server-admins)
+  - [Backup Tableau Server](#backup-tableau-server)
+  - [Restore Tableau Server](#restore-tableau-server)
 - [Dashboards](#dashboards)
   - [Data Extract Refreshes](#data-extract-refreshes)
 - [Troubleshooting](#troubleshooting)
   - [Disk Space](#disk-space)
     - [Logs](#logs)
   - [Unable to proceed because of an error from the data source / Unable to connect to the Tableau Data Extract Server ""](#unable-to-proceed-because-of-an-error-from-the-data-source--unable-to-connect-to-the-tableau-data-extract-server-)
+  - [Recover Server Admin with no remaining LDAP server admins](#recover-server-admin-with-no-remaining-ldap-server-admins)
 
 <!-- INDEX_END -->
 
@@ -185,54 +187,6 @@ Backup written to '/var/opt/tableau/tableau_server/data/tabsvc/files/backups/tab
 tsm maintenance restore -f "tableau-backup-2024-11-13_143341.tsbak"  # --encrypt-password "$password"
 ```
 
-### Recover Server Admin with no remaining LDAP server admins
-
-[Backup the Tableau Server](#backup-tableau-server) first.
-
-```shell
-tsm authentication set-identity-store --type local
-```
-
-```shell
-tsm pending-changes apply
-```
-
-```shell
-password="$(pwgen -s 15)"
-```
-
-```shell
-tsm user-identity create --username "admin" --password "$password"
-```
-
-Log in to Tableau Server using the newly created local admin account.
-
-Use the Tableau Server web interface or `tabcmd` to promote an LDAP user to Server Administrator:
-
-```shell
-tabcmd login -s "https://$TABLEAU_SERVER" -u admin -p "$password"
-```
-
-```shell
-tabcmd edituser --username hari --role ServerAdministrator
-```
-
-Switch back to LDAP authentication:
-
-```shell
-tsm authentication set-identity-store --type ldap
-```
-
-```shell
-tsm pending-changes apply
-```
-
-May need to restart Tableau:
-
-```shell
-tsm restart
-```
-
 ## Dashboards
 
 ### Data Extract Refreshes
@@ -345,4 +299,62 @@ Starting service...
 The last successful run of StartServerJob took 11 minute(s).
 
 Job id is '21', timeout is 30 minutes.
+```
+
+### Recover Server Admin with no remaining LDAP server admins
+
+If you have no remaining Server Administrator accounts because the guy left and didn't grant the role to his successor.
+
+Solutions:
+
+1. Reset his LDAP (AD) password in AD and use it temporarily to grant Server Administrator to your user account
+
+or
+
+2. Do a Server Admin Recovery procedure (below)
+
+[Backup the Tableau Server](#backup-tableau-server) first.
+
+```shell
+tsm authentication set-identity-store --type local
+```
+
+```shell
+tsm pending-changes apply
+```
+
+```shell
+password="$(pwgen -s 15)"
+```
+
+```shell
+tsm user-identity create --username "admin" --password "$password"
+```
+
+Log in to Tableau Server using the newly created local admin account.
+
+Use the Tableau Server web interface or `tabcmd` to promote an LDAP user to Server Administrator:
+
+```shell
+tabcmd login -s "https://$TABLEAU_SERVER" -u admin -p "$password"
+```
+
+```shell
+tabcmd edituser --username hari --role ServerAdministrator
+```
+
+Switch back to LDAP authentication:
+
+```shell
+tsm authentication set-identity-store --type ldap
+```
+
+```shell
+tsm pending-changes apply
+```
+
+May need to restart Tableau:
+
+```shell
+tsm restart
 ```
