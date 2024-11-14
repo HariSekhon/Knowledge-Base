@@ -189,6 +189,12 @@ image_join_horizontal.sh "$left_image" "$right_image" "joined_image.png"
 
 <https://github.com/icholy/ttygif>
 
+From [DevOps-Bash-tools](devops-bash-tools.md):
+
+```text
+ttygif.sh
+```
+
 ### Inspect Image File Metadata
 
 ```shell
