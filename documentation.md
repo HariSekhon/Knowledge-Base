@@ -179,6 +179,8 @@ If you want to get fancy:
 
 <https://github.com/faressoft/terminalizer>
 
+<https://github.com/icholy/ttygif>
+
 ## Meme
 
 ![senior_guides_and_teaches](images/non_toxic_senior_who_guides_and_teaches_me_I_will_fight_for_you.jpeg)
