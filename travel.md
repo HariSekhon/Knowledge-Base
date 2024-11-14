@@ -1414,6 +1414,8 @@ Often restaurants outside of the malls are better in terms of prices.
   but the Coconut Shake and Mango Passion Special are particularly good (I was getting one of these two daily)
 - [Umami](https://maps.app.goo.gl/LcKVp4C6sZ72t1Nv6) - Japanese chain in the mall food courts, cheap and cheerful for
   a bento box, my pick if you're caught in a mall food caught with too much fast food
+- [Favoreat](https://maps.app.goo.gl/pJXGbtYvb6EPHU6A9) - outside City Center Deira Mall, it has an Ethiopian menu that
+  is good with that special sour pancake thing they do with a variety of foods on it
 - [Al Rigga Night Market](https://maps.app.goo.gl/dVxrrWQwxGW1KoNQ7) - full of cheap eats, and the market opposite,
   bustling at midnight, open until 2am.
 
