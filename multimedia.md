@@ -193,9 +193,19 @@ image_join_horizontal.sh "$left_image" "$right_image" "joined_image.png"
 
 From [DevOps-Bash-tools](devops-bash-tools.md):
 
-```text
+```shell
 ttygif.sh
 ```
+
+```shell
+asciinema.sh
+```
+
+```shell
+terminalizer.sh
+```
+
+![Gif All the Things](images/gif_all_the_things.jpeg)
 
 ### Inspect Image File Metadata
 
