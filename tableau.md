@@ -145,10 +145,13 @@ tsm maintenance backup -f "tableau-backup-$(date '+%F_%H%M%S').tsbak"  # --encry
 This will create a local backup file in the following naming convention:
 
 ```text
-tableau-backup-2024-11-12_210000.tsbak
+tableau-backup-2024-11-13_143341.tsbak
 ```
 
-Saves the backup file in this default location:
+Indicating it was done at `14:33:41` local time on the 13th Nov 2024.
+We leave out the colons in the filename which can cause issues.
+
+It saves the backup file to this default location:
 
 ```text
 /var/opt/tableau/tableau_server/data/tabsvc/files/backups
@@ -179,7 +182,7 @@ Backup written to '/var/opt/tableau/tableau_server/data/tabsvc/files/backups/tab
 ### Restore Tableau Server
 
 ```shell
-tsm maintenance restore -f "tableau-backup-2024-11-12_210000.tsbak"  # --encrypt-password "$password"
+tsm maintenance restore -f "tableau-backup-2024-11-13_143341.tsbak"  # --encrypt-password "$password"
 ```
 
 ### Recover Server Admin with no remaining LDAP server admins
