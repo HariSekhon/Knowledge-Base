@@ -185,11 +185,11 @@ image_join_horizontal.sh "$left_image" "$right_image" "joined_image.png"
 
 ### Create Animated GIFs of Commands
 
-<https://github.com/faressoft/terminalizer>
+[:octocat: icholy/ttygif](https://github.com/icholy/ttygif)
 
-<https://github.com/asciinema/asciinema>
+[:octocat: asciinema/asciinema](https://github.com/asciinema/asciinema)
 
-<https://github.com/icholy/ttygif>
+[:octocat: faressoft/terminalizer](https://github.com/faressoft/terminalizer)
 
 From [DevOps-Bash-tools](devops-bash-tools.md):
 
