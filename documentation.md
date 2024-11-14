@@ -179,6 +179,8 @@ If you want to get fancy:
 
 <https://github.com/faressoft/terminalizer>
 
+<https://github.com/asciinema/asciinema>
+
 <https://github.com/icholy/ttygif>
 
 From [DevOps-Bash-tools](devops-bash-tools.md):
