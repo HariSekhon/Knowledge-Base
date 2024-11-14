@@ -187,6 +187,8 @@ image_join_horizontal.sh "$left_image" "$right_image" "joined_image.png"
 
 <https://github.com/faressoft/terminalizer>
 
+<https://github.com/asciinema/asciinema>
+
 <https://github.com/icholy/ttygif>
 
 From [DevOps-Bash-tools](devops-bash-tools.md):
