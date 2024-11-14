@@ -181,6 +181,12 @@ If you want to get fancy:
 
 <https://github.com/icholy/ttygif>
 
+From [DevOps-Bash-tools](devops-bash-tools.md):
+
+```text
+ttygif.sh
+```
+
 ## Meme
 
 ![senior_guides_and_teaches](images/non_toxic_senior_who_guides_and_teaches_me_I_will_fight_for_you.jpeg)
