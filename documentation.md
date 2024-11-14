@@ -197,6 +197,23 @@ asciinema.sh
 terminalizer.sh
 ```
 
+Create custom Terminalizer config:
+
+```shell
+terminalizer init
+```
+
+```text
+The global config directory is created at
+/Users/hari/.config/terminalizer
+```
+
+Then edit:
+
+```shell
+vim ~/.config/terminalizer/config.yml
+```
+
 ![Gif All the Things](images/gif_all_the_things.jpeg)
 
 ## Meme
