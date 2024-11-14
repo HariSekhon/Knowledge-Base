@@ -177,11 +177,11 @@ bullet point criteria - it'll give you nearly everything you need to know about 
 
 If you want to get fancy:
 
-<https://github.com/icholy/ttygif>
+[:octocat: icholy/ttygif](https://github.com/icholy/ttygif)
 
-<https://github.com/asciinema/asciinema>
+[:octocat: asciinema/asciinema](https://github.com/asciinema/asciinema)
 
-<https://github.com/faressoft/terminalizer>
+[:octocat: faressoft/terminalizer](https://github.com/faressoft/terminalizer)
 
 From [DevOps-Bash-tools](devops-bash-tools.md):
 
