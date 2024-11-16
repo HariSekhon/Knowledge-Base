@@ -119,6 +119,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Antalya Airport](#antalya-airport)
     - [Istanbul](#istanbul)
   - [UAE](#uae)
+    - [Driving in UAE](#driving-in-uae)
     - [Dubai](#dubai)
     - [Dubai Taxis](#dubai-taxis)
     - [Dubai Parking](#dubai-parking)
@@ -1317,6 +1318,16 @@ The United Arab Emirates is one of the most civilized and safe societies I have 
 
 They have zero tolerance for criminals or welfares spongers.
 They would literally deport half of the UK, which is why it's a nicer place.
+
+#### Driving in UAE
+
+Do not use Google Maps in Dubai, it is awful.
+
+It will give you wrong directions or verbal instructions that do not match the map direction,
+leading you to taking many wrong turns which can cost you half an hour in journey time as you try to navigate around
+large blocks of motorways.
+
+Use Waze instead.
 
 #### Dubai
 
