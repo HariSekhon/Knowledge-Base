@@ -12,9 +12,11 @@ Markdown is expected in top-level `docs/` dir, with `docs/index.md` being the ho
 - [Template](#template)
 - [Build](#build)
 - [Preview Locally](#preview-locally)
+- [Plugins](#plugins)
+  - [D2 Embedded Diagrams](#d2-embedded-diagrams)
 - [MkDocs Gotchas](#mkdocs-gotchas)
   - [Bare URLs Are Not Clickable](#bare-urls-are-not-clickable)
-  - [Quadruple Backticks work in GitHub but not in MKDocs](#quadruple-backticks-work-in-github-but-not-in-mkdocs)
+  - [Quadruple Backticks don't work in MKDocs](#quadruple-backticks-dont-work-in-mkdocs)
 
 <!-- INDEX_END -->
 
@@ -50,6 +52,12 @@ On Mac, you can open this from the CLI:
 ```shell
 open http://127.0.0.1:8000
 ```
+
+## Plugins
+
+### D2 Embedded Diagrams
+
+[:octocat: landmaj/mkdocs-d2-plugin](https://github.com/landmaj/mkdocs-d2-plugin)
 
 ## MkDocs Gotchas
 
