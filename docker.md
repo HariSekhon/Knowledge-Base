@@ -7,6 +7,7 @@ Lightweight application containers containing app + all dependencies.
 <!-- INDEX_START -->
 
 - [Key Points](#key-points)
+- [Breaking Changes](#breaking-changes)
 - [Docker on Ubuntu](#docker-on-ubuntu)
 - [Volumes](#volumes)
 - [Docker Scan](#docker-scan)
@@ -74,6 +75,15 @@ Download the `ubuntu:latest` image for spawning containers from:
 ```shell
 docker pull ubuntu # :tag or @<digestvalue>
 ```
+
+## Breaking Changes
+
+People cite Docker as the solution to [Python](python.md) breaking things that used to work.
+
+However, Docker builds break even more often because you have package and other OS breaking changes added on top.
+
+Even with `FROM` pinning, older OS version package repos are removed, forcing you to upgrade
+and then all sorts of breakages have to be resolved, including those Python breaking changes you were trying to avoid.
 
 ## Docker on Ubuntu
 
@@ -498,9 +508,9 @@ docker service create --replicas=1 --name prometheus -p 9090:9090 -v prometheus.
 
 ## Third Party Tools
 
-<ctophttps://github.com/bcicen/ctop>
+[:octocat: bcicen/ctop](https://github.com/bcicen/ctop)
 
-<https://github.com/jesseduffield/lazydocker>
+[:octocat: jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
 
 ## Troubleshooting
 
