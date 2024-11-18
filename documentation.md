@@ -183,6 +183,8 @@ If you want to get fancy:
 
 [:octocat: faressoft/terminalizer](https://github.com/faressoft/terminalizer)
 
+<https://www.screentogif.com/>
+
 From [DevOps-Bash-tools](devops-bash-tools.md):
 
 ```shell
