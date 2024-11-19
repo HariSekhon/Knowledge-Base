@@ -13,6 +13,16 @@
     - [WebStorm](#webstorm)
     - [RubyMine](#rubymine)
     - [PHPStorm](#phpstorm)
+    - [GoLand](#goland)
+    - [RustRover](#rustrover)
+    - [CLion](#clion)
+    - [dotUltimate](#dotultimate)
+    - [Fleet](#fleet)
+    - [Compose MultiPlatform](#compose-multiplatform)
+    - [Datagrip](#datagrip)
+    - [Dataspell](#dataspell)
+    - [Aqua](#aqua)
+    - [WriterSide](#writerside)
   - [VS Code](#vs-code)
   - [Eclipse](#eclipse)
 - [Editor Config](#editor-config)
@@ -119,7 +129,67 @@ Unfortuntely, this is proprietary paid for only and doesn't have a free version 
 
 <https://www.jetbrains.com/phpstorm/>
 
-Proprietary paid for IntelliJ DEAD for PHP developers.
+Proprietary paid for IntelliJ IDEA for PHP developers.
+
+#### GoLand
+
+<https://www.jetbrains.com/go/>
+
+Paid for Golang version of IntelliJ IDEA.
+
+#### RustRover
+
+<https://www.jetbrains.com/rust/>
+
+Rust-focused version of IntelliJ IDEA.
+
+#### CLion
+
+<https://www.jetbrains.com/clion/>
+
+C / C++ IDE version of IntelliJ - paid for.
+
+#### dotUltimate
+
+<https://www.jetbrains.com/dotnet/>
+
+.NET IDE.
+
+#### Fleet
+
+<https://www.jetbrains.com/fleet/>
+
+AI-powered polyglot IDE.
+
+#### Compose MultiPlatform
+
+<https://www.jetbrains.com/compose-multiplatform/>
+
+UI IDE to create shared UIs for Android, iOS, desktop, and web.
+
+#### Datagrip
+
+<https://www.jetbrains.com/datagrip/>
+
+Paid for RDBMS & NoSQL client.
+
+#### Dataspell
+
+<https://www.jetbrains.com/dataspell/>
+
+Paid for data & analytics clients. A step further than Datagrip above.
+
+#### Aqua
+
+<https://www.jetbrains.com/aqua/>
+
+Focused on Test Automation.
+
+#### WriterSide
+
+<https://www.jetbrains.com/writerside/>
+
+Focused on writing API, SDKs, Documentation and Tutorials.
 
 ### VS Code
 
