@@ -2,6 +2,13 @@
 
 Jira tickets are widely used in enterprises to track work and plan sprints using standard Agile methodology.
 
+<!-- INDEX_START -->
+
+- [Jira Ticket Descriptions](#jira-ticket-descriptions)
+  - [Auto-Populate Jira Description](#auto-populate-jira-description)
+
+<!-- INDEX_END -->
+
 ## Jira Ticket Descriptions
 
 Jira Ticket descriptions should have the following sections:
@@ -14,6 +21,8 @@ Jira Ticket descriptions should have the following sections:
   - Notes
   - Design Decisions
   - URLs to references and relevant docs
+
+### Auto-Populate Jira Description
 
 To automate pre-populating the description field without requiring Admin privileges to Jira you can use a
 [TamperMonkey](https://www.tampermonkey.net/)
