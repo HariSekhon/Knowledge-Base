@@ -16,6 +16,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
 - [Python Library with Unit Tests](#python-library-with-unit-tests)
 - [VirtualEnv](#virtualenv)
 - [Pipenv](#pipenv)
+- [Poetry](#poetry)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Libraries](#libraries)
   - [General](#general)
