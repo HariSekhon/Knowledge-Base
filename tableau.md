@@ -10,6 +10,7 @@ Tableau is a widely used visualization tool.
 - [SSH Config](#ssh-config)
 - [Tableau Server Administration](#tableau-server-administration)
   - [TSM - Tableau Services Manager](#tsm---tableau-services-manager)
+  - [Tsm Command Line](#tsm-command-line)
   - [Tabcmd](#tabcmd)
   - [Backup Tableau Server](#backup-tableau-server)
   - [Restore Tableau Server](#restore-tableau-server)
@@ -57,9 +58,13 @@ ssh tableau
 
 ## Tableau Server Administration
 
+Switch to the tableauadmin user:
+
 ```shell
 sudo su - tableauadmin
 ```
+
+Show server status:
 
 ```shell
 tsm status
@@ -71,10 +76,16 @@ output should look like:
 Status: RUNNING
 ```
 
-To see individual component statuses:
+Show individual component statuses:
 
 ```shell
 tsm status -v
+```
+
+Show license expiry:
+
+```shell
+tsm licenses list
 ```
 
 List configuration keys:
@@ -114,7 +125,25 @@ Here you can configure server health email alerts or LDAP integration.
 
 But you cannot use it to manage user permissions or roles within Tableau Server.
 
+### Tsm Command Line
+
+[Tsm Command Line Reference](https://help.tableau.com/current/server/en-us/tsm.htm)
+
+Note: `tsm` and `tabcmd` use different ports as they communicate with different services in Tableau.
+
+```shell
+tsm version  # -s "https://$TABLEAU_SERVER:8850"
+```
+
+```shell
+tsm jobs list
+```
+
+See `tsm` commands shown above in administration section for some common basics.
+
 ### Tabcmd
+
+Note: `tsm` and `tabcmd` use different ports as they communicate with different services in Tableau.
 
 Login:
 
