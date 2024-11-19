@@ -10,7 +10,9 @@
 - [IDEs](#ides)
   - [IntelliJ IDEA](#intellij-idea)
   - [PyCharm](#pycharm)
+  - [WebStorm](#webstorm)
   - [RubyMine](#rubymine)
+  - [PHPStorm](#phpstorm)
   - [VS Code](#vs-code)
   - [Eclipse](#eclipse)
 - [Editor Config](#editor-config)
@@ -99,6 +101,12 @@ See the [IntelliJ IDEA](intellij.md) page for more.
 
 Python-focused version of the grand daddy IntelliJ IDEA.
 
+### WebStorm
+
+<https://www.jetbrains.com/webstorm/>
+
+JavaScript-focused version of IntelliJ IDEA.
+
 ### RubyMine
 
 <https://www.jetbrains.com/ruby/>
@@ -106,6 +114,12 @@ Python-focused version of the grand daddy IntelliJ IDEA.
 Ruby-focused version of the grand daddy IntelliJ IDEA.
 
 Unfortuntely, this is proprietary paid for only and doesn't have a free version like [PyCharm](#pycharm).
+
+### PHPStorm
+
+<https://www.jetbrains.com/phpstorm/>
+
+Proprietary paid for IntelliJ DEAD for PHP developers.
 
 ### VS Code
 
