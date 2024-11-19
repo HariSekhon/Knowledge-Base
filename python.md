@@ -142,6 +142,14 @@ Dependency graph:
 pipenv graph
 ```
 
+## Poetry
+
+[:octocat: python-poetry/poetry](https://github.com/python-poetry/poetry)
+
+Replaces `pip` `requirements.txt` for PyPI library management with a simple `pyproject.yaml`:
+
+Writes a lockfile to save versions like `npm` and `go mod` do.
+
 ## Jupyter Notebook
 
 (formerly called IPython Notebook)
