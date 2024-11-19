@@ -9,10 +9,10 @@
   - [Nano](#nano)
 - [IDEs](#ides)
   - [IntelliJ IDEA](#intellij-idea)
-  - [PyCharm](#pycharm)
-  - [WebStorm](#webstorm)
-  - [RubyMine](#rubymine)
-  - [PHPStorm](#phpstorm)
+    - [PyCharm](#pycharm)
+    - [WebStorm](#webstorm)
+    - [RubyMine](#rubymine)
+    - [PHPStorm](#phpstorm)
   - [VS Code](#vs-code)
   - [Eclipse](#eclipse)
 - [Editor Config](#editor-config)
@@ -95,19 +95,19 @@ The best of the best in my opinion.
 
 See the [IntelliJ IDEA](intellij.md) page for more.
 
-### PyCharm
+#### PyCharm
 
 <https://www.jetbrains.com/pycharm/>
 
 Python-focused version of the grand daddy IntelliJ IDEA.
 
-### WebStorm
+#### WebStorm
 
 <https://www.jetbrains.com/webstorm/>
 
 JavaScript-focused version of IntelliJ IDEA.
 
-### RubyMine
+#### RubyMine
 
 <https://www.jetbrains.com/ruby/>
 
@@ -115,7 +115,7 @@ Ruby-focused version of the grand daddy IntelliJ IDEA.
 
 Unfortuntely, this is proprietary paid for only and doesn't have a free version like [PyCharm](#pycharm).
 
-### PHPStorm
+#### PHPStorm
 
 <https://www.jetbrains.com/phpstorm/>
 
