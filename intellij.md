@@ -55,7 +55,7 @@ In that case stick to full IntelliJ with plugins (see [Plugins](#plugins) sectio
 Plugins supported in PyCharm are usually also compatible with IntelliJ IDEA too as they're based on the same IDE
 framework by IntelliJ.
 
-For a more complete list of IntelliJ IDEA see the [Editors](editors.md#intellij-idea) page.
+For a more complete list of IntelliJ IDEA language-specific IDEs see the [Editors](editors.md#intellij-idea) page.
 
 ## Install
 
