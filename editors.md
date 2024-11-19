@@ -159,7 +159,7 @@ C / C++ IDE version of IntelliJ - paid for.
 
 <https://www.jetbrains.com/fleet/>
 
-AI-powered polyglot IDE.
+AI-powered polyglot IDE, determines your project language.
 
 #### Compose MultiPlatform
 
