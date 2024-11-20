@@ -72,7 +72,8 @@ Read this doc carefully:
 
 ### Pin 3rd party GitHub Actions to Git Hashrefs, not tags
 
-For security, pin 3rd party GitHub Actions to a `@<git_hashref>` rather than a git tag.
+For security, pin 3rd party GitHub Actions to a `@<git_hashref>` rather than a git tag, and comment what tag the hashref
+represents.
 
 Otherwise a compromised 3rd party GitHub Actions repo can be retagged with any arbitrary code which to induce
 malicious code injection into your repo under your permissions when next called.
@@ -307,7 +308,7 @@ Global Environment Variables.
 
 ### Look up GitHub Actions Contexts Fields and Environment Variables
 
-I provide the repo:
+I provide this repo:
 
 [HariSekhon/GitHub-Actions-Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts)
 
