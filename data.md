@@ -49,6 +49,7 @@ faker -r 10 address
 ## Data Integration
 
 - [DBT](https://www.getdbt.com) - open-source data pipeline workflow tool
+- [DVC](dvc.md) - data version control
 - [Informatica](informatica.md) - proprietary legacy now available via SaaS, with self-hosted agents on VMs or
   [Kubernetes](kubernetes.md)
 - [Airbyte](https://airbyte.com/product/airbyte-open-source) - open source
