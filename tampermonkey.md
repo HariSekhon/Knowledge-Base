@@ -7,6 +7,10 @@ Browser extension to modify the behaviour of web pages using scripts.
 - [Install TamperMonkey](#install-tampermonkey)
 - [TamperMonkey Scripts](#tampermonkey-scripts)
   - [Jira Description Autofill](#jira-description-autofill)
+- [Script Sites](#script-sites)
+  - [UserScript.Zone](#userscriptzone)
+  - [Greasy Fork](#greasy-fork)
+  - [OpenUserJS](#openuserjs)
 
 <!-- INDEX_END -->
 
@@ -23,3 +27,21 @@ Click the TamperMonkey extension -> `Create New Script` and then paste in the sc
 [jira_description_autofill.js](https://github.com/HariSekhon/TamperMonkey/blob/main/jira_description_autofill.js)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=TamperMonkey&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/TamperMonkey)
+
+## Script Sites
+
+### UserScript.Zone
+
+<https://www.userscript.zone/>
+
+### Greasy Fork
+
+<https://greasyfork.org/en>
+
+### OpenUserJS
+
+Less focused than the above two resources.
+
+Warning: some NSFW topics on here:
+
+<https://openuserjs.org/>
