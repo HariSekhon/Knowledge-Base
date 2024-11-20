@@ -11,6 +11,7 @@ mechanism of deploying public Kubernetes applications.
 - [Helm v3](#helm-v3)
   - [Install](#install)
   - [Repos](#repos)
+    - [AWS ECR](#aws-ecr)
   - [Search for Packages](#search-for-packages)
   - [Install Chart](#install-chart)
   - [Docker Registries](#docker-registries)
@@ -109,6 +110,16 @@ helm repo add bitnami https://charts.bitnami.com/bitnami
 
 ```shell
 helm repo add fairwinds-stable https://charts.fairwinds.com/stable
+```
+
+#### AWS ECR
+
+```shell
+aws ecr get-login-password |
+helm registry login \
+      --username AWS \
+      --password-stdin \
+      "$AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com"
 ```
 
 ### Search for Packages
@@ -440,7 +451,7 @@ helm fetch --untar stable/mariadb
 helm template -f values.yaml mariadb/ > mariadb.yaml
 ```
 
-#### Longer way
+Or Manually:
 
 ```shell
 mkdir -p charts
