@@ -5,11 +5,15 @@ NOT PORTED YET
 <!-- INDEX_START -->
 
 - [DevOps Bash tools for AWS, EKS, EC2 etc](#devops-bash-tools-for-aws-eks-ec2-etc)
-- [Install AWS CLI](#install-aws-cli)
+- [AWS CLI](#aws-cli)
+  - [Install AWS CLI](#install-aws-cli)
+  - [Configure AWS CLI](#configure-aws-cli)
+  - [Recommended: AWS CLI Environment Variables](#recommended-aws-cli-environment-variables)
   - [Check your AWS Region](#check-your-aws-region)
 - [Set up access to EKS - Elastic Kubernetes Services](#set-up-access-to-eks---elastic-kubernetes-services)
 - [EC2 Instances](#ec2-instances)
 - [Get EC2 Console Output](#get-ec2-console-output)
+- [Clone an EC2 instance for testing](#clone-an-ec2-instance-for-testing)
 - [Add an EC2 EBS volume](#add-an-ec2-ebs-volume)
   - [Create EC2 EBS volume](#create-ec2-ebs-volume)
   - [Attach the new volume to the EC2 instance](#attach-the-new-volume-to-the-ec2-instance)
@@ -23,6 +27,7 @@ NOT PORTED YET
 - [RDS - Relational Database Service](#rds---relational-database-service)
   - [List RDS instances](#list-rds-instances)
   - [Reset DB master password](#reset-db-master-password)
+- [Why move away from CloudWatch Logs and Metrics](#why-move-away-from-cloudwatch-logs-and-metrics)
 - [Troubleshooting](#troubleshooting)
   - [EC2 VM becomes unresponsive and cannot SSH under high loads](#ec2-vm-becomes-unresponsive-and-cannot-ssh-under-high-loads)
   - [RDS Write Stops Working due to Status `Storage Full`](#rds-write-stops-working-due-to-status-storage-full)
@@ -32,8 +37,8 @@ NOT PORTED YET
   - [EC2 Disk Mount Recovery](#ec2-disk-mount-recovery)
     - [Solution](#solution)
 - [Diagrams](#diagrams)
-  - [AWS Typical Network Architecture](#aws-typical-network-architecture)
-  - [Why is Lambda So Fast](#why-is-lambda-so-fast)
+  - [Typical Network Architecture](#typical-network-architecture)
+  - [What Makes Lambda So Fast](#what-makes-lambda-so-fast)
 
 <!-- INDEX_END -->
 
@@ -43,7 +48,9 @@ NOT PORTED YET
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
-## Install AWS CLI
+## AWS CLI
+
+### Install AWS CLI
 
 Follow the [install doc](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 or paste this to run an automated install script which auto-detects and handles Mac or Linux:
@@ -56,10 +63,18 @@ git clone https://github.com/HariSekhon/DevOps-Bash-tools
 bash-tools/install/install_aws_cli.sh
 ```
 
-Configure following [AWS CLI configuration](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
-doc, depending on if you're using SSO or access keys etc.
+### Configure AWS CLI
 
-**Recommended**: set your environment variables in [direnv](direnv.md) - see
+Follow the [AWS CLI configuration](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
+doc.
+
+Typically you'll use SSO config or access keys.
+
+### Recommended: AWS CLI Environment Variables
+
+Set your environment variables in [direnv](direnv.md).
+
+See the
 [AWS CLI environment variables reference](https://docs.aws.amazon.com/cli/v1/userguide/cli-configure-envvars.html).
 
 ### Check your AWS Region
