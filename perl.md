@@ -109,6 +109,8 @@ You can see most of these used throughout my GitHub repos, eg:
 
 - [:package: Time::Local](https://perldoc.perl.org/Time::Local) - Efficiently compute time from local and GMT time
 
+- [:package: Math::Round](https://metacpan.org/pod/Math::Round) - round numbers
+
 - [:package: Digest::MD5](https://metacpan.org/pod/Digest::MD5) - MD5 hash algorithm
 
 - [:package: Digest::SHA](https://metacpan.org/pod/Digest::SHA) - SHA hash algorithm
