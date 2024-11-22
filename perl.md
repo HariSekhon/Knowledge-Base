@@ -15,6 +15,7 @@ It's the language of elite unix sysadmins, and much of unix tooling is built on 
 - [DevOps Perl tools](#devops-perl-tools)
 - [Shell scripts with Perl](#shell-scripts-with-perl)
 - [Nagios Plugins in Perl](#nagios-plugins-in-perl)
+- [CPAN / CPANM](#cpan--cpanm)
 - [Libraries](#libraries)
   - [General](#general)
   - [Web](#web)
@@ -73,6 +74,12 @@ Shell scripts using Perl and making it easier to install Perl libraries from CPA
 [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
+
+## CPAN / CPANM
+
+[CPAN](https://perldoc.perl.org/cpan) was the original CLI tool to install libraries.
+
+[CPANM](https://metacpan.org/dist/App-cpanminus/view/bin/cpanm) is a newer library installer that is preferred.
 
 ## Libraries
 
