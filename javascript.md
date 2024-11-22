@@ -13,7 +13,7 @@ It's nothing to do with Java.
 
 ## NodeJS
 
-NodeJS or Node.js is a server-side and CLI JavaScript engine built on Google Chrome's V8 JavaScript engine
+NodeJS or Node.js is a server-side JavaScript engine built on Google Chrome's V8 JavaScript engine
 that can be used for both frontend and backend development.
 
 Uses a non-blocking, event-driven architecture, making it ideal for building scalable and high-performance applications
@@ -21,7 +21,11 @@ that handle a large number of simultaneous connections.
 
 NodeJS operates on a single-threaded event loop model, but it uses non-blocking asynchronous I/O operations to handle concurrency efficiently
 
-Like [Python](python.md), NodeJS has a vast ecosystem of libraries.
+Like [Python](python.md), NodeJS has a vast ecosystem of libraries, which you can search at
+[npmjs.com](https://www.npmjs.com/).
+
+NodeJS is used for everything from web development, to APIs and microservices, to CLI tools
+(although there are better languages for CLI like [Golang](go.md), [Python](python.md), [Perl](perl.md) and [Bash](bash.md)).
 
 ### NPM
 
