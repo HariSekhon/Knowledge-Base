@@ -1414,10 +1414,10 @@ Often restaurants outside of the malls are better in terms of prices.
   Dubai Marina Mall
 - [Alyasamin Aldimashqi](https://maps.app.goo.gl/DtF6nwJy9mGDeVAh9) - good Syrian restaurant opposite Deira City Center Mall
 - [Greenland](https://maps.app.goo.gl/NGURNp991VaCpFNR8) - local indian chain, 24x7, affordable,
-  big selection of fresh juices.
+  big selection of fresh juices
   There are outlets in various areas of Dubai
 - [JusGrill](https://maps.app.goo.gl/9ia8SB2jGbaGxBU69) - local cheap eats in Al Rigga serving Indian, Chinese &
-  Filipino food.
+  Filipino food
   The Pancit Bihon (Filipino equivalent of singapore noodles) is good,
   as is the spicy Prawn Schezwan Fried Rice which contains lots of fresh green chillis.
   There is a large selection of fresh juices,
@@ -1427,7 +1427,7 @@ Often restaurants outside of the malls are better in terms of prices.
 - [Favoreat](https://maps.app.goo.gl/pJXGbtYvb6EPHU6A9) - outside City Center Deira Mall, it has an Ethiopian menu that
   is good with that special sour pancake thing they do with a variety of foods on it
 - [Al Rigga Night Market](https://maps.app.goo.gl/dVxrrWQwxGW1KoNQ7) - full of cheap eats, and the market opposite,
-  bustling at midnight, open until 2am.
+  bustling at midnight, open until 2am
 
 #### Dubai Visa
 
