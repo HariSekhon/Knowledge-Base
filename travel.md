@@ -121,6 +121,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [UAE](#uae)
     - [Driving in UAE](#driving-in-uae)
     - [Dubai](#dubai)
+    - [Dubai Metro](#dubai-metro)
     - [Dubai Taxis](#dubai-taxis)
     - [Dubai Parking](#dubai-parking)
     - [Dubai Weather](#dubai-weather)
