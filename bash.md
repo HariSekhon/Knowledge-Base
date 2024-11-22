@@ -150,6 +150,7 @@ Some less well known commands to remember:
 | `file`                                  | Determines file type                                                                                                                                                                                       |
 | `pig`                                   | Parallel implementation of `gzip`. Call in tar using the `-I` option: `tar czvf -I 'pigz -9' myfile.tar.gz *`                                                                                              |
 | `runuser`                               | run a command with substitute user and group ID. Does not ask for a password because it may be executed by the root user only eg. when SSH to `ec2-user` on AWS EC2 VMs, `sudo runuser...`                 |
+| `pstree`                                | Prints the process list as a tree to make it easier to see parent / child process relationships                                                                                                            |
 
 Environment variables to keep in mind:
 
