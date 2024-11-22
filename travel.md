@@ -1341,9 +1341,19 @@ People drive with air conditioning and dive into malls, offices and restaurants 
 
 I used Virgin Mobile on a prepaid contract for around £200 for the year which was the cheapest deal I could find.
 
+#### Dubai Metro
+
+Good for the areas it covers.
+
+Very cheap, typically 3 or 5 dirhams per for a single one-way journey using a prepaid Nol card
+depending on if you're going 1 or 2 zones.
+This works out to a mere 65p or £1.10!!
+
+Buy a Nol card immediately for 25 dirhams which has 19 dirhams of credit already pre-loaded on it.
+
 #### Dubai Taxis
 
-You will need a car or taxi everywhere.
+You will need a car or taxi to really get around.
 
 [Careem](https://www.careem.com/) is the everything app, including Taxis.
 
