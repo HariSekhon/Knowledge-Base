@@ -58,4 +58,4 @@ npm install
 
 ## Libraries
 
-[:octocat: cure53/DOMPurify](https://github.com/cure53/DOMPurify)
+- [:octocat: cure53/DOMPurify](https://github.com/cure53/DOMPurify) - sanitize HTML to avoid XSS attacks
