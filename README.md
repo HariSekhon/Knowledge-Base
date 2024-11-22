@@ -331,6 +331,7 @@ This one is used widely throughout these pages:
   - [JRuby](ruby.md#jruby)
   - [SDKman](sdkman.md)
   - [log4j](log4j.md)
+- [JavaScript / NodeJS](javascript.md)
 - [APIs](api.md)
 - [Regular Expressions](regex.md)
 - [Testing](testing.md)
