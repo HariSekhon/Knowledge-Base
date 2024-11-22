@@ -51,8 +51,10 @@ npm install "$package"
 
 **Remember to commit the resulting `package.json` and `package-lock.json` files to [Git](git.md).**
 
-- `package.json` lists packages you've installed directly
-- `package-lock.json` lists the exact versions of all package dependencies so you can reproduce without annoying
+Both files as in [JSON](json.md) format.
+
+- `package.json` - lists packages you've installed directly
+- `package-lock.json` - lists the exact versions of all package dependencies so you can reproduce without annoying
   library version change related issues
 
 Install all packages of the exact versions from ``packages-lock.json`:
