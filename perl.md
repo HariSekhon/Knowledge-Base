@@ -92,23 +92,44 @@ You can see most of these used throughout my GitHub repos, eg:
 
 ### General
 
+- [:package: Data::Dumper](https://metacpan.org/pod/Data::Dumper) - Print any Perl structure for easy debugging
+
 - [:package: DateTime](https://metacpan.org/pod/DateTime) - Date and time object for Perl
 
+- [:package: Time::HiRes](https://metacpan.org/pod/Time::HiRes) - High resolution alarm, sleep, gettimeofday, interval timers
+
+- [:package: Time::Local](https://perldoc.perl.org/Time::Local) - Efficiently compute time from local and GMT time
+
 - [:package: Digest::MD5](https://metacpan.org/pod/Digest::MD5) - MD5 hash algorithm
+
+- [:package: Digest::SHA](https://metacpan.org/pod/Digest::SHA) - SHA hash algorithm
 
 - [:package: Template Toolkit](https://metacpan.org/pod/Template::Toolkit) - Template processing system
 
 - [:package: Term::ANSIColor on CPAN](https://metacpan.org/pod/Term::ANSIColor) - ANSI colors for terminal
 
+- [:package: Net::DNS](https://metacpan.org/pod/Net::DNS) - popular DNS querying library
+
+- [:package: Net::SSH::Expect](https://metacpan.org/pod/Net::SSH::Expect) - Execute remote SSH commands using
+  [Expect](programming.md#expect)
+
+- [:package: MIME::Base64](https://metacpan.org/pod/MIME::Base64) - Encode / decode base64 strings
+
 - [:package: Email::Sender](https://metacpan.org/pod/Email::Sender) - Email sending library
+
+- [:package: Sys::Hostname](https://metacpan.org/pod/Sys::Hostname) - Try every conceivable way to get hostname
 
 ### Web
 
-- [:package: LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - easy to use HTTP(S) request library
+- [:package: LWP::Simple](https://metacpan.org/pod/LWP::Simple) - easy to use HTTP(S) request library
+
+- [:package: LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - HTTP(S) request library with more power
 
 - [:package: Net::HTTP](https://metacpan.org/pod/Net::HTTP) - Low-level HTTP client
 
 - [:package: JSON::XS](https://metacpan.org/pod/JSON::XS) - Fast JSON serializing
+
+- [:package: XML::Simple](https://metacpan.org/pod/XML::Simple) - Simple XML parsing
 
 - [:package: XML::Parser](https://metacpan.org/pod/XML::Parser) - XML parsing using Expat
 
