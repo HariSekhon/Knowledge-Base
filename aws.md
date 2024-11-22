@@ -56,8 +56,11 @@ git clone https://github.com/HariSekhon/DevOps-Bash-tools
 bash-tools/install/install_aws_cli.sh
 ```
 
-Then [configure](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
-depending on if you're using SSO or access keys etc.
+Configure following [AWS CLI configuration](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
+doc, depending on if you're using SSO or access keys etc.
+
+**Recommended**: set your environment variables in [direnv](direnv.md) - see
+[AWS CLI environment variables reference](https://docs.aws.amazon.com/cli/v1/userguide/cli-configure-envvars.html).
 
 ### Check your AWS Region
 
@@ -105,6 +108,53 @@ Debug if you're having issues rebooting a VM:
 
 ```shell
 aws ec2 get-console-output --instance-id "$EC2_INSTANCE_ID" | jq -r .Output
+```
+
+## Clone an EC2 instance for testing
+
+Clone an EC2 instance using this script from [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+```shell
+aws_ec2_clone_instance.sh "$instance_name" "$new_instance_name"
+```
+
+OR
+
+Manual breakdown of steps:
+
+Create an AMI from it using this script from [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+```shell
+aws_ec2_create_ami_from_instance.sh "$instance_id" "$ami_name"
+```
+
+List your AMIs:
+
+```shell
+aws ec2 describe-images --owners self --query 'Images[*].{ID:ImageId,Name:Name}' --output table
+```
+
+Check your AMI is finished creating with state `Available`:
+
+```shell
+aws ec2 describe-images --image-ids "$AMI_ID" --output table
+```
+
+Create a new EC2 instance from the AMI:
+
+```shell
+aws ec2 run-instances \
+  --image-id "$ami_id" \
+  --instance-type "$instance_type" \
+  --subnet-id "$subnet_id" \
+  --key-name "$ec2_key_pair" \
+  --security-group-ids "$security_group_id"
+```
+
+Describe the newly created instance:
+
+```shell
+aws ec2 describe-instances --instance-ids "$instance_id" --output table
 ```
 
 ## Add an EC2 EBS volume
@@ -560,6 +610,15 @@ aws rds modify-db-instance \
     --master-user-password "MyNewVerySecurePassword"
 ```
 
+## Why move away from CloudWatch Logs and Metrics
+
+Logs and metrics cannot be centralized in AWS Cloudwatch. It can only be stored in CW of the respective AWS account.
+
+High costs for CloudWatch metrics and dashboards.
+
+Lucene query of [Elasticsearch](elasticsearch.md) is more user friendly than AWS Cloudwatch Log Insights.
+
+
 ## Troubleshooting
 
 ### EC2 VM becomes unresponsive and cannot SSH under high loads
@@ -619,7 +678,7 @@ Use another EC2 instance in the same Availability Zone as the problematic VM whi
 volume is physically located.
 
 1. Shut down the problem instance which isn't booting.
-2. Optional: mark the instance with tags `Name1` = `Problem` to make it easier to find
+2. Optional: mark the ebs volume with tags such as `Name1` = `Problem` to make it easier to find
 3. Detach the EBS volume from the problem instance
 4. Find the volume (optionally using the `Problem` search in the list of EBS volumes)
 5. Attach the EBS volume to your debug EC2 instance in the same Availabilty Zone as device `/dev/sdf`
