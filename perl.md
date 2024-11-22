@@ -99,6 +99,8 @@ You can see most of these used throughout my GitHub repos, eg:
 
 ### General
 
+- [:package: Getopt::Long](https://perldoc.perl.org/Getopt::Long) - Popular command line arg parser
+
 - [:package: Data::Dumper](https://metacpan.org/pod/Data::Dumper) - Print any Perl structure for easy debugging
 
 - [:package: DateTime](https://metacpan.org/pod/DateTime) - Date and time object for Perl
