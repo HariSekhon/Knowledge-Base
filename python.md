@@ -162,7 +162,9 @@ and form a page oriented workflow of results and analysis for sharing and demons
 
 ## Libraries
 
-Some libraries you may find useful.
+You can search for libraries at [pypi.org](https://pypi.org/).
+
+Some libraries you may find useful are below.
 
 You can see most of these used throughout my GitHub repos, eg:
 
