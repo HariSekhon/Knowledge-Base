@@ -1412,8 +1412,7 @@ Often restaurants outside of the malls are better in terms of prices.
   Small chain, also available at Dubai Mall and Bluewaters (next to JBR)
 - [Habib Beirut](https://maps.app.goo.gl/TdwLSXHzvYqwhKLe8) - good lebanese on the Marina, a short walk from
   Dubai Marina Mall
-- [Alyasamin Aldimashqi](https://maps.app.goo.gl/DtF6nwJy9mGDeVAh9) - excellent Syrian restaurant opposite
-  Deira City Center Mall
+- [Alyasamin Aldimashqi](https://maps.app.goo.gl/DtF6nwJy9mGDeVAh9) - good Syrian restaurant opposite Deira City Center Mall
 - [Greenland](https://maps.app.goo.gl/NGURNp991VaCpFNR8) - local indian chain, 24x7, affordable,
   big selection of fresh juices.
   There are outlets in various areas of Dubai
