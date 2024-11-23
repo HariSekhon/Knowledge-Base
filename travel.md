@@ -147,6 +147,8 @@ and cheaper on the same flights too
 
 [Kayak.com](https://www.kayak.com/) - even cheaper than SkyScanner and had cheaper flights not found on Expedia
 
+[Booking.com](https://www.booking) - cheaper and more hotels than Expedia
+
 [Expedia](https://expedia.co.uk) - LEGACY DO NOT USE.
 Was my usual go to as it usually had the most options at the last minute, until SkyScanner and Kayak
 showed it up.
@@ -163,8 +165,6 @@ chat support.
 
 [AirBnb](https://www.airbnb.com) - compare the cost of apartments to hotels in each area, it alternates which is
 cheaper.
-
-[Booking.com](https://www.booking) - like Expedia but had woke discriminatory hiring so I avoid using it.
 
 [LastMinute.com](https://lastminute.com) - ok for package holidays but assumed return flights,
 less good for a digital nomad who is going one way and bouncing to the next place.
