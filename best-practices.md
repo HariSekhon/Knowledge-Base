@@ -82,4 +82,8 @@ If it takes me more than 5-10 mins for me to see what you've done, then you've n
 
 ## Principle: Time Amplification Effect
 
-Do not waste your colleagues time. If you've spent hours reading through a vendor's code base of Terraform code they want you to deploy or retrofit to your environment, write a 1 page summaary on it so all your colleagues don't have to waste their time repeating the same work.
+Do not waste your colleagues time.
+
+If you've spent hours reading through a vendor's code base of Terraform code they want you to deploy
+or retrofit to your AWS environment, then write a 1 page summary on it so
+all your colleagues don't have to waste their time repeating the same work!
