@@ -46,11 +46,16 @@ The cost of doing this must be balanced against the value of the service - see [
 
 Sometimes it's better to just live with the lack of redundancy if the cost outweighs the value.
 
-## Use Version Control for Everything Textual - Code & Configs
+## Use Version Control for Everything Textual - Code, Configs & Docs
 
 Put everything in [Git](git.md).
 
 Don't waste your time on other legacy version control systems.
+
+GitHub README [Markdown](markdown.md) files and [MkDocs](mkdocs.md) mean you can track all your documentation changes
+easily using [Git](git.md) just like you do for your code & configs.
+
+For techies, this is better than relying on a separate proprietary mechanism than [Confluence](atlassian.md).
 
 ## Releases
 
