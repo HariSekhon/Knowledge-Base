@@ -6,7 +6,8 @@
 - [High Availability and Multi-Datacenter](#high-availability-and-multi-datacenter)
 - [Use Version Control for Everything Textual - Code & Configs](#use-version-control-for-everything-textual---code--configs)
 - [Releases](#releases)
-  - [Do not do production releases after 4pm or on Friday afternoons](#do-not-do-production-releases-after-4pm-or-on-friday-afternoons)
+  - [Do not do production releases on Friday afternoons or after 4pm any day](#do-not-do-production-releases-on-friday-afternoons-or-after-4pm-any-day)
+- [Versioning](#versioning)
   - [Use a sane versioning system](#use-a-sane-versioning-system)
 - [Kubernetes - Production Ready Checklist](#kubernetes---production-ready-checklist)
 - [Documentation](#documentation)
@@ -50,9 +51,11 @@ Don't waste your time on other legacy version control systems.
 
 ## Releases
 
-### Do not do production releases after 4pm or on Friday afternoons
+### Do not do production releases on Friday afternoons or after 4pm any day
 
-People want to go home and enjoy their lives, not be stuck debugging problems you've caused
+People want to go home and enjoy their lives, not be stuck debugging problems you've caused.
+
+## Versioning
 
 ### Use a sane versioning system
 
