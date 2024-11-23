@@ -33,17 +33,17 @@ Deployed on AWS by Terraform.
 
 ### Components
 
+- 1 VPC
 - EKS Cluster
   - ALB Ingress
   - Metrics server (Helm install)
   - Autoscaler installed (Helm install)
   - AWS LB Controller
+  - Fluentbit for AWS
 - ECR
 - S3 buckets
 - DynamoDB - several tables
-- Fluentbit for AWS
 - ElastiCache
-- Security Groups eg. ElastiCache
 - Kinesis - 2 streams:
   - `events-stream`
   - `offline-events-stream`
@@ -51,7 +51,6 @@ Deployed on AWS by Terraform.
 - SNS topic
 - Glue
 - Athena
-- 1 VPC
 - Lambda functions:
   - used as connectors for:
     - Facebook
@@ -64,6 +63,7 @@ Deployed on AWS by Terraform.
     - Signal
   - storing sources and destinations in DynamoDB from SQS queue
 - CloudWatch Metric Alarm
+- Security Groups eg. ElastiCache
 - IAM policies for all of the above eg.
   - EC2 for EKS, OIDC, IRSA, ECR, Lambda to DynamoDB
   - ELB, AWS LB Controller, WAFv2, WAF regional, Shield
