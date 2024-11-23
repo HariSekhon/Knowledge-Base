@@ -37,6 +37,9 @@ Deployed on AWS by Terraform.
   - ALB Ingress
   - Metrics server (Helm install)
   - Autoscaler installed (Helm install)
+  - AWS LB Controller
+- ECR
+- S3 buckets
 - DynamoDB - several tables
 - Fluentbit for AWS
 - ElastiCache
@@ -44,7 +47,11 @@ Deployed on AWS by Terraform.
 - Kinesis - 2 streams:
   - `events-stream`
   - `offline-events-stream`
-- SQS
+- SQS queue
+- SNS topic
+- Glue
+- Athena
+- 1 VPC
 - Lambda functions:
   - used as connectors for:
     - Facebook
@@ -56,23 +63,10 @@ Deployed on AWS by Terraform.
     - Google Enhanced Conversions
     - Signal
   - storing sources and destinations in DynamoDB from SQS queue
-  - depends on IAM policies
-
-### IAM policies
-
-- EKS, ECR, IRSA, autoscaler, OIDC
-- Kinesis
-- DynamoDB
-- Lambda to DynamoDB
-- S3 buckets
-- Glue
-- Athena
-- 1 VPC
-- SQS
-- EC2
-- SNS topic
 - CloudWatch Metric Alarm
-- ELB, AWS LB Controller, WAFv2, WAF regional, Shield
+- IAM policies for all of the above eg.
+  - EC2 for EKS, OIDC, IRSA, ECR, Lambda to DynamoDB
+  - ELB, AWS LB Controller, WAFv2, WAF regional, Shield
 
 ## Architecture
 
