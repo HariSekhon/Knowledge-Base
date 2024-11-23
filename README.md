@@ -688,6 +688,7 @@ This section is probably the most financially important thing you'll ever learn.
 
 - [Hazelcast](hazelcast.md)
 - [Mesos](mesos.md)
+- [DataHash](datahash.md)
 
 ## Star History
 
