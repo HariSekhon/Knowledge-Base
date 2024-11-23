@@ -39,7 +39,10 @@ because the cost of the IT will usually be far less than the cost of a single ou
 Ensure every service should have redundancy at both the:
 
 - local service level (server clustering)
+  - many technologies such as [ElasticSearch](elasticsearch.md) and [Cassandra](cassandra.md)
+    have native high availability clustering
   - for web farms this means using [Load Balancing](load-balancing.md)
+  - traditional RDBMS databases often have active/standby failover mechanisms and master write / slave read too
 - across datacenters in different geographical locations
   - in case there is a :
     - natural disaster or
