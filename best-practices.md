@@ -59,6 +59,9 @@ For techies, this is better than relying on a separate proprietary mechanism tha
 
 You can even do your [Diagrams-as-Code](diagrams.md) and store them in Git too.
 
+Even if you have to do diagrams in Draw.io or WYSIWYG tool, often they can export XML.
+Backport that XML to Git to revision control it to track changes over time.
+
 ## Releases
 
 ### Do not do production releases on Friday afternoons or after 4pm any day
