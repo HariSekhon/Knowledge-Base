@@ -1255,6 +1255,12 @@ no staff most of the time or seeing other guests.
 
 [Restaurang Kryp In](https://restaurangkrypin.se/) is good in the centre.
 
+### Thailand
+
+#### Thailand Taxis
+
+[Grab](https://www.grab.com/) - taxi app
+
 ### Turkey
 
 Inflation and rent prices make this not a good value for money destination.
