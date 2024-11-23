@@ -12,9 +12,11 @@
     - [Software Versioning](#software-versioning)
     - [Live Websites / SaaS](#live-websites--saas)
 - [Automation](#automation)
-- [Kubernetes - Production Ready Checklist](#kubernetes---production-ready-checklist)
 - [Documentation](#documentation)
 - [Principle: Time Amplification Effect](#principle-time-amplification-effect)
+- [Technology Specific Best Practices](#technology-specific-best-practices)
+  - [Kubernetes - Production Ready Checklist](#kubernetes---production-ready-checklist)
+  - [GitHub Actions CI/CD Best Practices](#github-actions-cicd-best-practices)
 
 <!-- INDEX_END -->
 
@@ -61,7 +63,7 @@ You can even do your [Diagrams-as-Code](diagrams.md) and store them in Git too.
 
 Even if you have to do diagrams in Draw.io or WYSIWYG tool, often they can export XML.
 Backport that XML to Git to revision control it to track changes over time
-and be able to revert if you messed something up.
+and be able to revert if you messed something up  .
 
 ## Releases
 
@@ -92,10 +94,6 @@ and pad the `NN` to that many digits so the versions stay lexically aligned.
 Your work isn't production grade until it's automated with tools like [Terraform](terraform.md), [Ansible](ansible.md),
 or other code whereever possible.
 
-## Kubernetes - Production Ready Checklist
-
-See the [Kubernetes Production Ready Checklist](kubernetes-production-ready-checklist.md) doc.
-
 ## Documentation
 
 Write a quick cheatsheet documentation page for everything you do.
@@ -111,3 +109,13 @@ Do not waste your colleagues time.
 If you've spent hours reading through a vendor's code base of Terraform code they want you to deploy
 or retrofit to your AWS environment, then write a 1 page summary on it so
 all your colleagues don't have to waste their time repeating the same work!
+
+## Technology Specific Best Practices
+
+### Kubernetes - Production Ready Checklist
+
+See the [Kubernetes Production Ready Checklist](kubernetes-production-ready-checklist.md) doc.
+
+### GitHub Actions CI/CD Best Practices
+
+See the [GitHub Actions](github-action,md) doc.
