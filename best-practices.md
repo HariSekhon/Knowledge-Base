@@ -4,7 +4,7 @@
 
 - [Budget vs Reality](#budget-vs-reality)
 - [High Availability and Multi-Datacenter](#high-availability-and-multi-datacenter)
-- [Use Version Control for Everything Textual - Code & Configs](#use-version-control-for-everything-textual---code--configs)
+- [Use Version Control for Everything Textual - Code, Configs & Docs](#use-version-control-for-everything-textual---code-configs--docs)
 - [Releases](#releases)
   - [Do not do production releases on Friday afternoons or after 4pm any day](#do-not-do-production-releases-on-friday-afternoons-or-after-4pm-any-day)
 - [Versioning](#versioning)
