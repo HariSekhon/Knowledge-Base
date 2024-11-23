@@ -9,6 +9,9 @@
   - [Do not do production releases on Friday afternoons or after 4pm any day](#do-not-do-production-releases-on-friday-afternoons-or-after-4pm-any-day)
 - [Versioning](#versioning)
   - [Use a sane versioning system](#use-a-sane-versioning-system)
+    - [Software Versioning](#software-versioning)
+    - [Live Websites / SaaS](#live-websites--saas)
+- [Automation](#automation)
 - [Kubernetes - Production Ready Checklist](#kubernetes---production-ready-checklist)
 - [Documentation](#documentation)
 - [Principle: Time Amplification Effect](#principle-time-amplification-effect)
@@ -59,9 +62,19 @@ People want to go home and enjoy their lives, not be stuck debugging problems yo
 
 ### Use a sane versioning system
 
-- for published software that means [semver](https://semver.org/)
-- for website, it can be YYYY.NN format for simplicity since you're probably doing trunk based development
-  and only roll forwards to fix issues
+#### Software Versioning
+
+For published software use the [semver](https://semver.org/) standard.
+
+#### Live Websites / SaaS
+
+For websites, the versioning can be something simple and predictable like `YYYY.NN` format for simplicity
+since you're probably doing trunk based development and only roll forwards to fix issues.
+
+Example the first release in the year 2024 is simply `202401`.
+
+Estimate how many releases you'll do in a year
+and pad the `NN` to that many digits so the versions stay lexically aligned.
 
 ## Automation
 
