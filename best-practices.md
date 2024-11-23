@@ -30,7 +30,7 @@ because the cost of the IT will usually be far less than the cost of a single ou
 
 ## High Availability and Multi-Datacenter
 
-Ensure every service has redundancy at both the:
+Ensure every service should have redundancy at both the:
 
 - local service level (server clustering) and
 - across datacenters in different geographical locations
@@ -39,6 +39,8 @@ Ensure every service has redundancy at both the:
     - power cut at one geographic location
 
 The cost of doing this must be balanced against the value of the service - see [Budget vs Reality](#budget-vs-reality).
+
+Sometimes it's better to just live with the lack of redundancy if the cost outweighs the value.
 
 ## Use Version Control for Everything Textual - Code & Configs
 
