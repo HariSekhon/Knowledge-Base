@@ -63,17 +63,22 @@ People want to go home and enjoy their lives, not be stuck debugging problems yo
 - for website, it can be YYYY.NN format for simplicity since you're probably doing trunk based development
   and only roll forwards to fix issues
 
+## Automation
+
+Your work isn't production grade until it's automated with tools like [Terraform](terraform.md), [Ansible](ansible.md),
+or other code whereever possible.
+
 ## Kubernetes - Production Ready Checklist
 
-See [Kubernetes](kubernetes-production-ready-checklist.md)
+See the [Kubernetes Production Ready Checklist](kubernetes-production-ready-checklist.md) doc.
 
 ## Documentation
 
-Write quick cheatsheet documentation for everything you do.
+Write a quick cheatsheet documentation page for everything you do.
 
-There should be 1 page on everything.
+There should be 1 page on every official technology and every internal project.
 
-If it takes me more than 5-10 mins to see what you've done, then you've not done a good enough job.
+If it takes me more than 5-10 mins for me to see what you've done, then you've not done a good enough job.
 
 ## Principle: Time Amplification Effect
 
