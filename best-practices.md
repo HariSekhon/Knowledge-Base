@@ -2,12 +2,15 @@
 
 <!-- INDEX_START -->
 
+- [Budget vs Reality](#budget-vs-reality)
 - [High Availability and Multi-Datacenter](#high-availability-and-multi-datacenter)
 - [Use Version Control for Everything Textual - Code & Configs](#use-version-control-for-everything-textual---code--configs)
 - [Releases](#releases)
   - [Do not do production releases after 4pm or on Friday afternoons](#do-not-do-production-releases-after-4pm-or-on-friday-afternoons)
   - [Use a sane versioning system](#use-a-sane-versioning-system)
 - [Kubernetes - Production Ready Checklist](#kubernetes---production-ready-checklist)
+- [Documentation](#documentation)
+- [Principle: Time Amplification Effect](#principle-time-amplification-effect)
 
 <!-- INDEX_END -->
 
@@ -20,18 +23,22 @@ if the value of the service being offline is negligible.
 
 Big online businesses like social media companies,
 ad tech and trading can lose a fortune
-and there is worth sparing no expense
+and so there it's worth **Sparing No Expense**
 because the cost of the IT will usually be far less than the cost of a single outage:
 
 ![Jurassic Park - Spared No Expense](images/jurassic_park_spared_no_expense.jpeg)
 
 ## High Availability and Multi-Datacenter
 
-Ensure every service has redundancy at both the local service level
-and across datacenters in different geographical locations in case there is a natural disaster
-or power cut at one geographic location.
+Ensure every service has redundancy at both the:
 
-This must be balanced against the value of the service - see [Budget vs Reality](#budget-vs-reality).
+- local service level (server clustering) and
+- across datacenters in different geographical locations
+  - in case there is a :
+    - natural disaster or
+    - power cut at one geographic location
+
+The cost of doing this must be balanced against the value of the service - see [Budget vs Reality](#budget-vs-reality).
 
 ## Use Version Control for Everything Textual - Code & Configs
 
