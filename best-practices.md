@@ -57,6 +57,8 @@ easily using [Git](git.md) just like you do for your code & configs.
 
 For techies, this is better than relying on a separate proprietary mechanism than [Confluence](atlassian.md).
 
+You can even do your [Diagrams-as-Code](diagrams.md) and store them in Git too.
+
 ## Releases
 
 ### Do not do production releases on Friday afternoons or after 4pm any day
