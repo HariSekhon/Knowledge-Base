@@ -38,11 +38,14 @@ because the cost of the IT will usually be far less than the cost of a single ou
 
 Ensure every service should have redundancy at both the:
 
-- local service level (server clustering) and
+- local service level (server clustering)
+  - for web farms this means using [Load Balancing](load-balancing.md)
 - across datacenters in different geographical locations
   - in case there is a :
     - natural disaster or
     - power cut at one geographic location
+  - eg. using Global Server Load Balancing
+    - (DNS record updates & weightings based on healthchecks to each site)
 
 The cost of doing this must be balanced against the value of the service - see [Budget vs Reality](#budget-vs-reality).
 
