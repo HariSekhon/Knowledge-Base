@@ -115,11 +115,18 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
       - [Rosebank](#rosebank)
   - [Sweden](#sweden)
     - [Stockholm](#stockholm)
+  - [Thailand](#thailand)
+    - [Thailand Cash](#thailand-cash)
+    - [Thailand Mobile](#thailand-mobile)
+    - [Thailand Taxis](#thailand-taxis)
+    - [Bangkok](#bangkok)
   - [Turkey](#turkey)
     - [Antalya Airport](#antalya-airport)
     - [Istanbul](#istanbul)
   - [UAE](#uae)
     - [Driving in UAE](#driving-in-uae)
+    - [Abu Dhabi](#abu-dhabi)
+      - [Abu Dhabi Restaurants](#abu-dhabi-restaurants)
     - [Dubai](#dubai)
     - [Dubai Metro](#dubai-metro)
     - [Dubai Taxis](#dubai-taxis)
@@ -1257,9 +1264,32 @@ no staff most of the time or seeing other guests.
 
 ### Thailand
 
+#### Thailand Cash
+
+You will need cash, big time. Thailand is cheap but lots of places do not take cards.
+
+The ATM machines are thieves and will charge you £5 to withdraw almost any amount of cash,
+so you may as well withdraw a larger sum so you can conned by them less often.
+
+#### Thailand Mobile
+
+I used True5G which has kiosks all over the airport.
+
+You can get 30 days for around £27 or 180 days for around £30.
+
+It works out slightly more expensive than Airalo but the latter one is the best price for such long durations and even beat my usual Airalo which is better for short term.
+
 #### Thailand Taxis
 
 [Grab](https://www.grab.com/) - taxi app
+
+#### Bangkok
+
+Khao San road is the place to be. It's buzzing even at midnight on a Sunday.
+
+Plenty to eat and drink, with many foreigners partying.
+
+Do not stay on Khao San itself or the noise will likely stop you sleeping as it is loud.
 
 ### Turkey
 
@@ -1336,13 +1366,23 @@ large blocks of motorways.
 
 Use Waze instead.
 
+#### Abu Dhabi
+
+The capital of the UAE.
+
+More relaxed, than Dubai.
+
+##### Abu Dhabi Restaurants
+
+- Paradiso - I dropped nearly £100 just for my half, but I did get the steak... good quality, the price of drinks adds up
+
 #### Dubai
 
 Dubai is more of a city-state than a city as Europeans would understand it.
 
 It would be extremely difficult to walk due to the large distances and high heat.
 
-*"I don't walk anywhere in Dubai"* one of my Brit connections told me. I saw why after I arrived. Even a 15 minute walk
+*"I don't walk anywhere in Dubai"* one of my Brit guys there told me. I saw why after I arrived. Even a 15 minute walk
 to lunch will leave you a sweaty mess by the time you get there.
 People drive with air conditioning and dive into malls, offices and restaurants with air conditioning.
 
