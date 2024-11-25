@@ -1285,7 +1285,7 @@ It works out slightly more expensive than Airalo but the latter one is the best 
 
 #### Bangkok
 
-Khao San road is the place to be. It's buzzing even at midnight on a Sunday.
+Khao San road is the place to be. It's buzzing even at midnight on a Sunday to Monday.
 
 Plenty to eat and drink, with many foreigners partying.
 
