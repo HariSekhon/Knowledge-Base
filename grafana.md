@@ -23,6 +23,8 @@ brew install grafana
 
 ## CLI
 
+<https://grafana.com/docs/grafana/latest/cli/>
+
 Comes with the `grafana` package above.
 
 Very limited functionality. API below is much better.
@@ -32,6 +34,8 @@ grafana cli --help
 ```
 
 ## API
+
+<https://grafana.com/docs/grafana/latest/developers/http_api/>
 
 From [DevOps-Bash-tools](devops-bash-tools.md) repo:
 
