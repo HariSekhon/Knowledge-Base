@@ -30,6 +30,8 @@ Click the TamperMonkey extension -> `Create New Script` and then paste in the sc
 
 ## Script Sites
 
+<https://www.tampermonkey.net/scripts.php>
+
 ### UserScript.Zone
 
 <https://www.userscript.zone/>
