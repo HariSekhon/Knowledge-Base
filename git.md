@@ -19,7 +19,7 @@
   - [Copy a file from another branch](#copy-a-file-from-another-branch)
   - [Amend Last Commit](#amend-last-commit)
   - [Get the Hashref of a Remote Repo's tag](#get-the-hashref-of-a-remote-repos-tag)
-  - [Grep Tags for Input Validation](#grep-tags-for-input-validation)
+  - [Grep Remote Tags for Input Validation](#grep-remote-tags-for-input-validation)
   - [Git Reflog](#git-reflog)
   - [Pull from Upstream Origin in a local Fork](#pull-from-upstream-origin-in-a-local-fork)
   - [Multi-Origin Remotes](#multi-origin-remotes)
@@ -274,7 +274,7 @@ git ls-remote --tags "https://github.com/$owner/$repo" "$tag"
 5f066a372ec13036ab7cb9a8adf18c936f8d2043        refs/tags/v0.5.3
 ```
 
-### Grep Tags for Input Validation
+### Grep Remote Tags for Input Validation
 
 This will only return local tags without `refs/tags/` prefixes:
 
