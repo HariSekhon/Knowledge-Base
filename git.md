@@ -19,6 +19,7 @@
   - [Copy a file from another branch](#copy-a-file-from-another-branch)
   - [Amend Last Commit](#amend-last-commit)
   - [Get the Hashref of a Remote Repo's tag](#get-the-hashref-of-a-remote-repos-tag)
+  - [Grep Tags for Input Validation](#grep-tags-for-input-validation)
   - [Git Reflog](#git-reflog)
   - [Pull from Upstream Origin in a local Fork](#pull-from-upstream-origin-in-a-local-fork)
   - [Multi-Origin Remotes](#multi-origin-remotes)
@@ -272,6 +273,34 @@ git ls-remote --tags "https://github.com/$owner/$repo" "$tag"
 ```text
 5f066a372ec13036ab7cb9a8adf18c936f8d2043        refs/tags/v0.5.3
 ```
+
+### Grep Tags for Input Validation
+
+This will only return local tags without `refs/tags/` prefixes:
+
+```shell
+git tag --list
+```
+
+Instead use:
+
+```shell
+git ls-remote --tags
+```
+
+in a pipeline to strip the `<long_hashref>     refs/tags/` prefix:
+
+```shell
+git ls-remote --tags |
+sed 's|^[[:alnum:]]*[[:space:]]*refs/tags/||' |
+grep -Fxq "$TAG"
+```
+
+The `-F` anf `-x` switches are important to ensure
+that:
+
+1. `$TAG` is treated as a string not regex
+1. it matches the entire stdin line to avoid substring clashes eg. `TAG=1.2` should not match `1.2.3`
 
 ### Git Reflog
 
