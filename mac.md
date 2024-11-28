@@ -24,6 +24,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Stats Bar](#stats-bar)
 - [Rearrange Status Bar Icons](#rearrange-status-bar-icons)
 - [Reducing Desktop Workspaces](#reducing-desktop-workspaces)
+- [Sending Control-Alt-Delete to Windows through Remote Desktop](#sending-control-alt-delete-to-windows-through-remote-desktop)
 - [Raycast](#raycast)
 - [AppleScript](#applescript)
 - [Commands](#commands)
@@ -178,6 +179,10 @@ by apps like Windows Virtual Desktop in Remote Desktop opening to full screen, a
 by pressing F3 and then hovering on and clicking the X to delete the extra workspaces.
 
 Unfortunately, Remote Desktop still seems to slide and send to fullscreen in another temporary desktop workspace.
+
+## Sending Control-Alt-Delete to Windows through Remote Desktop
+
+`Fn` + `Control` + `Option` + `Delete`
 
 ## Raycast
 
