@@ -1264,6 +1264,8 @@ no staff most of the time or seeing other guests.
 
 ### Thailand
 
+A fast life strategy place. Lots of tattoos and marijuana coffee shops.
+
 #### Thailand Cash
 
 You will need cash, big time. Thailand is cheap but lots of places do not take cards.
