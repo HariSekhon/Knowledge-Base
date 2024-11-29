@@ -23,7 +23,9 @@ is one of the few use cases for that).
 - [Tips & Tricks](#tips--tricks)
   - [Fifos](#fifos)
   - [Number Lines](#number-lines)
+  - [Flush stdout immediately](#flush-stdout-immediately)
   - [Miscellaneous](#miscellaneous)
+  - [Readline Support - `rlwrap`](#readline-support---rlwrap)
 - [Debugging](#debugging)
   - [Shell executing tracing](#shell-executing-tracing)
   - [Fail on any error exit code](#fail-on-any-error-exit-code)
@@ -151,6 +153,8 @@ Some less well known commands to remember:
 | `pig`                                   | Parallel implementation of `gzip`. Call in tar using the `-I` option: `tar czvf -I 'pigz -9' myfile.tar.gz *`                                                                                              |
 | `runuser`                               | run a command with substitute user and group ID. Does not ask for a password because it may be executed by the root user only eg. when SSH to `ec2-user` on AWS EC2 VMs, `sudo runuser...`                 |
 | `pstree`                                | Prints the process list as a tree to make it easier to see parent / child process relationships                                                                                                            |
+| `stdbuf`                                | Immediately flush each stdout line for the command using `stdbuf -oL <command>`                                                                                                                            |
+| `unbuffer`                              | Immediately flush each stdout line. From the `expect` package                                                                                                                                              |
 
 Environment variables to keep in mind:
 
@@ -229,6 +233,40 @@ less -N
 
 ```shell
 nl
+```
+
+### Flush stdout immediately
+
+```shell
+stdbuf -oL $command
+```
+
+```shell
+script -q /dev/null $command
+```
+
+If `expect` package is installed:
+
+```shell
+unbuffer $command
+```
+
+For Awk:
+
+```shell
+awk '{ print $0; fflush() }'
+```
+
+For [Python](python.md) programs:
+
+```shell
+export PYTHONUNBUFFERED=1
+```
+
+or
+
+```shell
+python -u "$script"
 ```
 
 ### Miscellaneous
