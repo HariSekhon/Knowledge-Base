@@ -23,8 +23,8 @@ is one of the few use cases for that).
 - [Tips & Tricks](#tips--tricks)
   - [Fifos](#fifos)
   - [Number Lines](#number-lines)
+  - [Miscellaneous Bash Bangs](#miscellaneous-bash-bangs)
   - [Flush stdout immediately](#flush-stdout-immediately)
-  - [Miscellaneous](#miscellaneous)
   - [Readline Support - `rlwrap`](#readline-support---rlwrap)
 - [Debugging](#debugging)
   - [Shell executing tracing](#shell-executing-tracing)
@@ -235,6 +235,13 @@ less -N
 nl
 ```
 
+### Miscellaneous Bash Bangs
+
+- `!n` - re-runs command number `n` from the `history`
+- `!$` - the last argument of the previous command, usually a filename from a previous command. Useful to run another
+  command on the previous file operated on
+- `!:n*` - takes the Nth arg to the end from the last command
+
 ### Flush stdout immediately
 
 ```shell
@@ -268,13 +275,6 @@ or
 ```shell
 python -u "$script"
 ```
-
-### Miscellaneous
-
-- `!n` - re-runs command number `n` from the `history`
-- `!$` - the last argument of the previous command, usually a filename from a previous command. Useful to run another
-  command on the previous file operated on
-- `!:n*` - takes the Nth arg to the end from the last command
 
 ### Readline Support - `rlwrap`
 
