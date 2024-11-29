@@ -24,7 +24,7 @@ is one of the few use cases for that).
   - [Fifos](#fifos)
   - [Number Lines](#number-lines)
   - [Miscellaneous Bash Bangs](#miscellaneous-bash-bangs)
-  - [Flush stdout immediately](#flush-stdout-immediately)
+  - [Flush Stdout Immediately](#flush-stdout-immediately)
   - [Readline Support - `rlwrap`](#readline-support---rlwrap)
 - [Debugging](#debugging)
   - [Shell executing tracing](#shell-executing-tracing)
@@ -242,7 +242,7 @@ nl
   command on the previous file operated on
 - `!:n*` - takes the Nth arg to the end from the last command
 
-### Flush stdout immediately
+### Flush Stdout Immediately
 
 ```shell
 stdbuf -oL $command
