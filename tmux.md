@@ -56,6 +56,12 @@ Reattach to session zero:
 tmux attach -t 0
 ```
 
+or if there's only one session you can just omit the `-t 0`:
+
+```shell
+tmux attach
+```
+
 Inside tmux, you can send it commands from the command line, not just [keystrokes](keycloak.md).
 
 ```shell
