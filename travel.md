@@ -149,6 +149,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 
 ## Booking Sites
 
+[Agoda.com](https://www.agoda.com/) - the best site for use in Asia, and you really need to go to Asia, it's amazing.
+
 [SkyScanner.net](https://www.skyscanner.net/) - had cheaper flights that weren't even found on Expedia,
 and cheaper on the same flights too
 
