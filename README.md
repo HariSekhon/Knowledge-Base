@@ -651,6 +651,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [DevOps Misc](devops.md)
 - [Dev Misc](dev.md)
 - [Open Source](open-source.md)
+- [Internet Miscellaneous](internet-misc.md)
 - [TamperMonkey](tampermonkey.md)
 - [IRC](irc.md)
 - [Communications - Chat & Video Conferencing](comms.md)
