@@ -33,6 +33,8 @@ is one of the few use cases for that).
   - [Clean Shell](#clean-shell)
 - [Other Cool Resources](#other-cool-resources)
 - [Style Guide](#style-guide)
+- [Tips & Tricks](#tips--tricks)
+  - [Delete a trailing blank line of a file](#delete-a-trailing-blank-line-of-a-file)
 
 <!-- INDEX_END -->
 
@@ -374,5 +376,13 @@ Points I disagree with the Google style guide on:
 - `${var}` variables surrounded by braces is only needed for variables that touch other strings and would otherwise be misinterpreted. You don't get paid to put in extra characters everywhere
 - the Google guideline then tells you not to bother doing it for single character variables unless they touch another adjacent string, but doesn't follow this same logic for full word variables
 - `[[` is more advanced and less portable than `[` - only use it when you need regex matching
+
+## Tips & Tricks
+
+### Delete a trailing blank line of a file
+
+```shell
+sed -i '' -e '${/^$/d}' filename
+```
 
 **Partial port from private Knowledge Base page 2008+**
