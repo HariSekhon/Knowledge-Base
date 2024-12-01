@@ -381,6 +381,8 @@ Points I disagree with the Google style guide on:
 
 ### Delete a trailing blank line of a file
 
+[Pre-commit](pre-commit.md) CI/CD checks will fail if there are trailing blank lines.
+
 ```shell
 sed -i '' -e '${/^$/d}' "$file"
 ```
