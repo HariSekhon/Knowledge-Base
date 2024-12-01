@@ -387,7 +387,7 @@ Points I disagree with the Google style guide on:
 sed -i -e '${/^$/d}' "$file"
 ```
 
-On Mac, use `gsed` for compatibility:
+On Mac, use GNU sed for compatibility, call `gsed` instead of `sed`:
 
 ```shell
 gsed -i -e '${/^$/d}' "$file"
