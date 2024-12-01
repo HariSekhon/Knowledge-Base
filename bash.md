@@ -382,7 +382,7 @@ Points I disagree with the Google style guide on:
 ### Delete a trailing blank line of a file
 
 ```shell
-sed -i '' -e '${/^$/d}' filename
+sed -i '' -e '${/^$/d}' "$file"
 ```
 
 **Partial port from private Knowledge Base page 2008+**
