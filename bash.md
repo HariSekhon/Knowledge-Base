@@ -384,7 +384,13 @@ Points I disagree with the Google style guide on:
 [Pre-commit](pre-commit.md) CI/CD checks will fail if there are trailing blank lines.
 
 ```shell
-sed -i '' -e '${/^$/d}' "$file"
+sed -i -e '${/^$/d}' "$file"
+```
+
+On Mac, use `gsed` for compatibility:
+
+```shell
+gsed -i -e '${/^$/d}' "$file"
 ```
 
 **Partial port from private Knowledge Base page 2008+**
