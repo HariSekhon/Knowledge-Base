@@ -1289,11 +1289,13 @@ It works out slightly more expensive than Airalo but the latter one is the best 
 
 #### Bangkok
 
-Khao San road is the place to be. It's buzzing even at midnight on a Sunday to Monday.
+Khao San road is the place to be. It's buzzing even at midnight on a Sunday or Monday.
 
 Plenty to eat and drink, with many foreigners partying.
 
 Do not stay on Khao San itself or the noise will likely stop you sleeping as it is loud.
+
+China Town is another good area with many restaurants and street food, but mostly shuts down by midnight.
 
 ### Turkey
 
