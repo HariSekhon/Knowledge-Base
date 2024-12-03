@@ -17,6 +17,8 @@
   - [WhatsApp Desktop Links](#whatsapp-desktop-links)
 - [Create Animated GIFs of Commands](#create-animated-gifs-of-commands)
 - [Meme](#meme)
+  - [Yoda Documentation](#yoda-documentation)
+  - [Cheetah Documentation](#cheetah-documentation)
 
 <!-- INDEX_END -->
 
@@ -219,6 +221,14 @@ vim ~/.config/terminalizer/config.yml
 ![Gif All the Things](images/gif_all_the_things.jpeg)
 
 ## Meme
+
+### Yoda Documentation
+
+If someone gives you this response, send them here to show them how it's done. :wink:
+
+![yoda documentation](images/yoda_new_developer_asks_documentation.jpeg)
+
+### Cheetah Documentation
 
 ![senior_guides_and_teaches](images/non_toxic_senior_who_guides_and_teaches_me_I_will_fight_for_you.jpeg)
 
