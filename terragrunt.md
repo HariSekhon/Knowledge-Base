@@ -226,7 +226,7 @@ Can set ref version and SSH git source via variables, see
 
 Use `--terragrunt-log-level=debug`.
 
-Use `--terragrunt-debug` to create a `$PWD/terragrunt-debug.tfvars.json` file to be able to run `terraform` with the
+Use `--terragrunt-debug` or `export TERRAGRUNT_DEBUG=1` to create a `$PWD/terragrunt-debug.tfvars.json` file to be able to run `terraform` with the
 same inputs without terragrunt.
 
 ```shell
