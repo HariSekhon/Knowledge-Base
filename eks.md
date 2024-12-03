@@ -9,6 +9,7 @@ NOT PORTED YET
 - [Grant IAM Roles EKS Access](#grant-iam-roles-eks-access)
   - [Newer Native IAM Method](#newer-native-iam-method)
   - [Old ConfigMap Method](#old-configmap-method)
+- [EKS Resizeable Disk](#eks-resizeable-disk)
 - [EKS Upgrades](#eks-upgrades)
 
 <!-- INDEX_END -->
@@ -123,6 +124,28 @@ Raw old school editing method (DO NOT USE - see WARNING above):
 ```shell
 kubectl edit -n kube-system configmap aws-auth
 ```
+
+## EKS Resizeable Disk
+
+Either create a new storageclass that is resizeable and use that for all future apps:
+
+[storageclass-aws-standard-resizeable.yaml](https://github.com/HariSekhon/Kubernetes-configs/blob/master/storageclass-aws-standard-resizeable.yaml)
+
+Or patch the default storageclass:
+
+```shell
+$ kubectl get sc
+NAME               PROVISIONER             RECLAIMPOLICY   VOLUMEBINDINGMODE      ALLOWVOLUMEEXPANSION   AGE
+ebs-sc (default)   ebs.csi.aws.com         Retain          WaitForFirstConsumer   true                   134d
+```
+
+```shell
+kubectl patch sc ebs-sc -p '{"allowVolumeExpansion": true}'
+```
+
+I've patched the default storage class in production and resized Atlantis data pvc using the same procedure as the
+[Jenkins-on-Kubernetes](jenkins-on-kubernetes.md#increase-jenkins-server-disk-space-on-kubernetes)
+notes , it works.
 
 ## EKS Upgrades
 
