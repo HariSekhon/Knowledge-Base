@@ -38,3 +38,11 @@ atlantis apply
 If you merge a pull request, Atlantis will refuse to operate and apply it.
 
 You will then need to revert the PR and raise it again.
+
+## Back up Atlantis.db from StatefulSet pod
+
+Take a copy to your local machine:
+
+```shell
+kubectl cp atlantis/atlantis-0:/atlantis-data/atlantis.db atlantis.db -c atlantis
+```
