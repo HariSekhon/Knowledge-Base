@@ -15,6 +15,7 @@ detects what is missing or has changed and then applies the necessary changes to
 - [Terragrunt](#terragrunt)
 - [tgswtich](#tgswtich)
 - [Linting & Security](#linting--security)
+- [Useful Modules](#useful-modules)
 
 <!-- INDEX_END -->
 
@@ -111,3 +112,7 @@ This is more recently updated than [tgenv](https://github.com/cunymatthieu/tgenv
 
 - [tfsec](https://github.com/aquasecurity/tfsec)
 - [tflint](https://github.com/terraform-linters/tflint)
+
+## Useful Modules
+
+- [AWS Modules](https://registry.terraform.io/namespaces/terraform-aws-modules)
