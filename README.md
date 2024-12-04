@@ -123,7 +123,11 @@ References to official docs and some classic books are provided for those who wa
 
 Here the TODOs are all getting filled in gradually... because we've all been here:
 
-![Finally Found The Documentation](images/finally_found_documentation.jpeg)
+<img
+  src="images/finally_found_documentation.jpeg"
+  alt="Finally Found The Documentation"
+  style="width: 60%; height: auto;"
+/>
 
 ## GitHub Repos
 
@@ -699,7 +703,7 @@ This section is probably the most financially important thing you'll ever learn.
 
 From my [LinkedIn](https://linkedin.com/in/HariSekhon):
 
-![BForbidden Unix Knowledge](images/devops_apprentice_reads_from_ancient_books_of_forbidden_unix_knowledge.jpeg)
+![Forbidden Unix Knowledge](images/devops_apprentice_reads_from_ancient_books_of_forbidden_unix_knowledge.jpeg)
 
 I tried to make these docs as short as possible... but as you can see above, I didn't quite make it.
 
