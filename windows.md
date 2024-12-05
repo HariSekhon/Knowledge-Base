@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Remote Desktop](#remote-desktop)
+  - [Disable the Screensaver](#disable-the-screensaver)
 - [Screenshots](#screenshots)
 - [Start At Login](#start-at-login)
 - [MMCs](#mmcs)
@@ -35,6 +36,30 @@ going home.
 
 On Mac use the `Cmd` key as the Windows key.
 
+### Disable the Screensaver
+
+You may want to disable the screensaver on your Windows Virtual Desktop since it is protected by the screensaver on
+your local machine.
+
+If you are an Administrator on your Windows Virtual Desktop but the Domain Admins have applied a policy
+to stop you launching the `Change screen saver` dialog:
+
+![Windows display control panel disabled](images/windows_display_control_panel_disabled.png)
+
+Then you can use the following command to work around it in `cmd.exe`:
+
+```commandline
+reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v ScreenSaveActive /t REG_SZ /d 0 /f
+```
+
+Verify it is set to `0`:
+
+```commandline
+reg query "HKEY_CURRENT_USER\Control Panel\Desktop" /v ScreenSaveActive
+```
+
+Reversing this is just setting it to `1` instead.
+
 ## Screenshots
 
 Screenshots can be tricky when using WVD above from a Mac
@@ -57,7 +82,7 @@ To have any program start at login, such as Teams or Outlook to save you clicks
 
 This opens the Startup folder for your user account:
 
-```cmd
+```commandline
 shell:startup
 ```
 
@@ -90,7 +115,7 @@ You can launch them from `Start` -> `Run` menu and typing their name which ends 
 
 Show the current time:
 
-```cmd
+```commandline
 time /t
 ```
 
@@ -102,19 +127,19 @@ See [Networking](networking.md) doc.
 
 ### List Volumes
 
-```cmd
+```commandline
 fsutil volume list | findstr :
 ```
 
 ### Get Free Disk Space on All Volumes
 
-```cmd
+```commandline
 powershell "Get-PSDrive -PSProvider FileSystem | Select-Object Name, @{Name='FreeSpace(GB)';Expression={($_.Free/1GB).ToString('F2')}}, @{Name='UsedSpace(GB)';Expression={((($_.Used)/1GB).ToString('F2'))}}, @{Name='TotalSize(GB)';Expression={($_.Used+$_.Free/1GB).ToString('F2')}}"
 ```
 
 ### Disk Check Analysis
 
-```cmd
+```commandline
 chkdsk c:
 ```
 
@@ -139,19 +164,19 @@ No further action is required.
 
 ### Find the location of a binary in the %PATH%
 
-```cmd
+```commandline
 where bash
 ```
 
 output:
 
-```cmd
+```commandline
 C:\Program Files\Git\bin\bash.exe
 ```
 
 ### List Disk Space
 
-```cmd
+```commandline
 fsutil volume diskfree c:
 ```
 
@@ -159,24 +184,24 @@ fsutil volume diskfree c:
 
 Set owner of file administrator:
 
-```cmd
+```commandline
 icacls "D:\test\test.txt" /setowner "administrator"
 ```
 
 Recursively change `/app` directory and its contents be readable by all users
 
-```cmd
+```commandline
 icacls "D:\test\test.txt" /grant "users:(R)" /t
 ```
 
 Grant full control permission to administrator:
 
-```cmd
+```commandline
 icacls "D:\test\test.txt" /grant "administrator:(F)"
 ```
 
 Grant read and execute to all users:
 
-```cmd
+```commandline
 icacls "D:\test\test.txt" /grant "users:(RX)"
 ```
