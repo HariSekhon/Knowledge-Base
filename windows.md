@@ -58,6 +58,8 @@ Verify it is set to `0`:
 
 ```commandline
 reg query "HKEY_CURRENT_USER\Control Panel\Desktop" /v ScreenSaveActive
+reg query "HKEY_CURRENT_USER\Control Panel\Desktop" /v ScreenSaverIsSecure
+reg query "HKEY_CURRENT_USER\Control Panel\Desktop" /v SCRNSAVE.EXE
 ```
 
 Reversing this is just setting it to `1` instead.
