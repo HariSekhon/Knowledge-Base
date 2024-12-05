@@ -3,7 +3,6 @@
 <!-- INDEX_START -->
 
 - [Remote Desktop](#remote-desktop)
-  - [Disable the Screensaver](#disable-the-screensaver)
 - [Screenshots](#screenshots)
 - [Start At Login](#start-at-login)
 - [MMCs](#mmcs)
@@ -36,6 +35,10 @@ going home.
 
 On Mac use the `Cmd` key as the Windows key.
 
+<!--
+
+Doesn't work, likely due to AD Group Policies
+
 ### Disable the Screensaver
 
 You may want to disable the screensaver on your Windows Virtual Desktop since it is protected by the screensaver on
@@ -63,6 +66,8 @@ reg query "HKEY_CURRENT_USER\Control Panel\Desktop" /v SCRNSAVE.EXE
 ```
 
 Reversing this is just setting it to `1` instead.
+
+-->
 
 ## Screenshots
 
