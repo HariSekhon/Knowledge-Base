@@ -40,6 +40,7 @@
   - [Find which upstream `<remote>/<branch>` the current branch is set to track](#find-which-upstream-remotebranch-the-current-branch-is-set-to-track)
   - [List files changed on current branch vs default branch](#list-files-changed-on-current-branch-vs-default-branch)
   - [List files added on current branch vs default branch](#list-files-added-on-current-branch-vs-default-branch)
+  - [Merge a branch overwriting any conflicts with the version from that branch](#merge-a-branch-overwriting-any-conflicts-with-the-version-from-that-branch)
   - [Push New Branch and Set Upstream in One Command](#push-new-branch-and-set-upstream-in-one-command)
   - [Push New Branch and Raise Pull Request in One Command](#push-new-branch-and-raise-pull-request-in-one-command)
     - [On GitHub](#on-github)
@@ -668,6 +669,14 @@ default_branch="$(git symbolic-ref refs/remotes/origin/HEAD | sed 's|.*/||')"
 
 ```shell
 git log --diff-filter=A --name-only --pretty="" "origin/$default_branch".. | sort -u
+```
+
+### Merge a branch overwriting any conflicts with the version from that branch
+
+Use with caution, this is a quick way to overwrite outdated conflicts on your branch:
+
+```commandline
+git merge -X theirs "$trunk_branch"
 ```
 
 ### Push New Branch and Set Upstream in One Command
