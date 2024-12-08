@@ -1307,6 +1307,17 @@ Mostly eat street food, it's way cheaper than restaurants which charge multiple 
   good, fries were a small portion though. This is expensive for local standards at £8 for a burger and fries, that's
   4x what you can eat street for for
 
+#### Pattaya
+
+Beach town.
+
+##### Getting to Pattaya from Bangkok
+
+Getting to Pattaya from Bangkok will cost you 1500-2000BHT
+or you can just taxi to the bus station for 100-20BHT and then take a coach for 131 BHT,
+but annoyingly they'll charge you an extra 40BHT for a large suitcase, and 20BHT for a small hand luggage sized suitcase
+at boarding time.
+
 ### Turkey
 
 Inflation and rent prices make this not a good value for money destination.
