@@ -120,6 +120,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Thailand Mobile](#thailand-mobile)
     - [Thailand Taxis](#thailand-taxis)
     - [Bangkok](#bangkok)
+      - [Bankok Food](#bankok-food)
   - [Turkey](#turkey)
     - [Antalya Airport](#antalya-airport)
     - [Istanbul](#istanbul)
@@ -1297,6 +1298,14 @@ Plenty to eat and drink, with many foreigners partying.
 Do not stay on Khao San itself or the noise will likely stop you sleeping as it is loud.
 
 China Town is another good area with many restaurants and street food, but mostly shuts down by midnight.
+
+##### Bankok Food
+
+Mostly eat street food, it's way cheaper than restaurants which charge multiple times the prices.
+
+- [The Fat Cow Yaowarat](https://maps.app.goo.gl/KW3bgC8bSPGrXxT88) - gourmet burger restaurant, the Fat Cow burger was
+  good, fries were a small portion though. This is expensive for local standards at £8 for a burger and fries, that's
+  4x what you can eat street for for
 
 ### Turkey
 
