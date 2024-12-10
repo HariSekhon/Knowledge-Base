@@ -15,6 +15,7 @@ detects what is missing or has changed and then applies the necessary changes to
 - [Terragrunt](#terragrunt)
 - [tgswtich](#tgswtich)
 - [Linting & Security](#linting--security)
+  - [Generate Plan JSON](#generate-plan-json)
 - [Useful Modules](#useful-modules)
 
 <!-- INDEX_END -->
@@ -113,6 +114,26 @@ This is more recently updated than [tgenv](https://github.com/cunymatthieu/tgenv
 - [tflint](https://github.com/terraform-linters/tflint)
 - [tfsec](https://github.com/aquasecurity/tfsec)
 - [checkov](https://www.checkov.io/)
+
+### Generate Plan JSON
+
+```shell
+terraform init
+```
+
+```shell
+terraform plan -out tf.plan
+```
+
+```shell
+terraform show -json tf.plan  > tf.json
+```
+
+You can then run linting and security scanning on the resulting JSON file:
+
+```shell
+checkov -f tf.json
+```
 
 ## Useful Modules
 
