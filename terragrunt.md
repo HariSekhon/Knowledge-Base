@@ -13,13 +13,17 @@ Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing an
   - [Plan & Apply](#plan--apply)
   - [Validate Inputs](#validate-inputs)
   - [Run-All](#run-all)
+    - [No Auto-Approve](#no-auto-approve)
   - [Auto Format](#auto-format)
+    - [Useful Options](#useful-options)
   - [CI/CD](#cicd)
 - [Terraform Lock Files](#terraform-lock-files)
 - [Dependency Graph](#dependency-graph)
   - [Graph Run](#graph-run)
 - [Terragrunt Scaffold](#terragrunt-scaffold)
 - [Terragrunt Debugging](#terragrunt-debugging)
+  - [Terragrunt Dump JSON](#terragrunt-dump-json)
+    - [Linting and Security Scanning](#linting-and-security-scanning)
 - [tgswitch](#tgswitch)
 - [Terragrunt Troubleshooting](#terragrunt-troubleshooting)
 
@@ -235,6 +239,36 @@ terragrunt apply --terragrunt-log-level=debug --terragrunt-debug
 
 See [this doc page](https://terragrunt.gruntwork.io/docs/features/debugging/) for more details and OpenTelemetry
 integration.
+
+### Terragrunt Dump JSON
+
+```shell
+terragrunt plan -out=plan.tfplan
+```
+
+```shell
+terraform show -json plan.tfplan > plan.json
+```
+
+OR
+
+```shell
+terragrunt run-all render-json
+```
+
+Find the JSON output in:
+
+```text
+terragrunt_rendered.json
+```
+
+#### Linting and Security Scanning
+
+You can then run checkov on the resulting json file:
+
+```shell
+checkov -f terragrunt_rendered.json --skip-check $(cat /home/atlantis/.checkov-skip.conf|tr '\\n' ',') --compact --quiet
+```
 
 ## tgswitch
 
