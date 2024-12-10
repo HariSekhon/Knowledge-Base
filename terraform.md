@@ -110,8 +110,9 @@ This is more recently updated than [tgenv](https://github.com/cunymatthieu/tgenv
 
 ## Linting & Security
 
-- [tfsec](https://github.com/aquasecurity/tfsec)
 - [tflint](https://github.com/terraform-linters/tflint)
+- [tfsec](https://github.com/aquasecurity/tfsec)
+- [checkov](https://www.checkov.io/)
 
 ## Useful Modules
 
