@@ -278,6 +278,27 @@ See [tgswitch](tgswitch.md)
 
 More recently updated than [tgenv](https://github.com/cunymatthieu/tgenv).
 
+## Vendor Code
+
+**Do not accept** vendor code unless all it passes **ALL** of the following points:
+
+- it's in the same format as your internal code base eg. Terraform vs Terragrunt
+- using standard modules from the [Hashicorp registry](https://registry.terraform.io/)
+  eg. [hashicorp/aws](https://registry.terraform.io/providers/hashicorp/aws)
+- has passed all Checkov checks
+
+Otherwise you'll lose tonnes of time:
+
+- trying to migrate from Terraform to Terragunt modules
+- trying to port from custom modules to official portable modules to match the rest of your
+  code base
+- inheriting problems in the migrations above
+- debugging and fixing their code
+
+Even stupidly simple things like an S3 bucket will then fail your Checkov PR check for not having KMS encryption
+and you'll have to go add that by yourself, or your ElastiCache node type won't be specified because it wasn't properly
+tested and ready to run and you won't know what `node_type` to set for it.
+
 ## Terragrunt Troubleshooting
 
 If you get an error like this when running Terragrunt:
