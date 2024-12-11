@@ -152,9 +152,8 @@ checkov -f tf.json
 
 Otherwise you'll lose tonnes of time:
 
-- trying to migrate from Terraform to Terragunt modules
-- trying to port from custom modules to official portable modules to match the rest of your
-  code base
+- migrating from Terraform to Terragunt modules
+- migrating from custom modules to official portable modules to match the rest of your code base
 - inheriting problems in the migrations above
 - debugging and fixing their code
 
