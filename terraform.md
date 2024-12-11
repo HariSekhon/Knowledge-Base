@@ -157,6 +157,6 @@ Otherwise you'll lose tonnes of time:
 - inheriting problems in the migrations above
 - debugging and fixing their code
 
-Even stupidly simple things like an S3 bucket will then fail your Checkov PR check for not having KMS encryption
+Even stupidly simple things like an S3 bucket will then fail your Checkov PR checks for not having KMS encryption
 and you'll have to go add that by yourself, or your ElastiCache node type won't be specified because it wasn't properly
 tested and ready to run and you won't know what `node_type` to set for it.
