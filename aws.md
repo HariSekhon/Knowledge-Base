@@ -31,6 +31,7 @@ NOT PORTED YET
 - [Troubleshooting](#troubleshooting)
   - [EC2 VM becomes unresponsive and cannot SSH under high loads](#ec2-vm-becomes-unresponsive-and-cannot-ssh-under-high-loads)
   - [RDS Write Stops Working due to Status `Storage Full`](#rds-write-stops-working-due-to-status-storage-full)
+  - [ElastiCache Serverless fails to load Snapshot from S3](#elasticache-serverless-fails-to-load-snapshot-from-s3)
   - [EKS Spot - App fails to connect to DB due to race condition with Vault pod not being up yet](#eks-spot---app-fails-to-connect-to-db-due-to-race-condition-with-vault-pod-not-being-up-yet)
     - [Quick workaround](#quick-workaround)
     - [Solutions](#solutions)
@@ -649,6 +650,99 @@ write DB redo logs for ACID compliance. Reads may still work during this time.
 
 Solution: Ensure `Enable storage autoscaling` is ticked and modify the instance to increase the
 `Maximum Storage Threshold` by a reasonable amount, no less than 20%.
+
+### ElastiCache Serverless fails to load Snapshot from S3
+
+The event log is basically useless to tell you what the actual problem is other than it fails to get the data files
+from S3:
+
+```text
+Failed to create cache <name>. Data restoration from snapshot failed because failed to retrieve file from S3..
+```
+
+Ensure IAM bucket policies to the S3 bucket grants to `<region>.elasticache-snapshot.amazonaws.com`
+and `elasticache.amazonaws.com`, as well as to the KMS key used to encrypt the bucket.
+
+In [Terraform](terraform.md) / [Terragrunt](terragrunt.md) it might look something like this for the S3 bucket policy:
+
+```terraform
+policy = <<EOF
+{
+    "Version": "2012-10-17",
+    "Statement": [
+    {
+        "Sid": "ServiceAccess",
+        "Effect": "Allow",
+        "Principal": {
+            "Service": [
+                "${local.aws_region}.elasticache-snapshot.amazonaws.com",  # this is the one
+                "elasticache.amazonaws.com"
+            ]
+        },
+        "Action": [
+            "s3:GetBucketAcl",
+            "s3:GetObject",
+            "s3:GetObjectAcl"
+            "s3:PutObject",
+            "s3:ListBucket",
+            "s3:ListMultipartUploadParts",
+            "s3:ListBucketMultipartUploads",
+        ],
+        "Resource": [
+            "arn:aws:s3:::${local.name}",
+            "arn:aws:s3:::${local.name}/*",
+            # the above wildcard should be sufficient
+            #"arn:aws:s3:::${local.name}/my-iplookup-db-0001.rdb",
+            #"arn:aws:s3:::${local.name}/my-iplookup-db-0002.rdb",
+            #"arn:aws:s3:::${local.name}/my-iplookup-db-0003.rdb"
+        ]
+    },
+    {
+        "Sid": "RoleAccess",
+        "Effect": "Allow",
+        "Principal": {
+            "AWS": "arn:aws:iam::123456789012:role/eks-..."  # allow access from EKS role
+        },
+        "Action": [
+            "s3:*"
+  ],
+        "Resource": [
+            "arn:aws:s3:::${local.name}",
+            "arn:aws:s3:::${local.name}/*",
+            # the above wildcard should be sufficient
+            #"arn:aws:s3:::${local.name}/my-iplookup-db-0001.rdb",
+            #"arn:aws:s3:::${local.name}/my-iplookup-db-0002.rdb",
+            #"arn:aws:s3:::${local.name}/my-iplookup-db-0003.rdb"
+        ]
+    }
+    ]
+}
+EOF
+```
+
+and this for the KMS policy:
+
+```terraform
+  policy = {
+    "Version" : "2012-10-17",
+    "Id" : "key-default-1",
+    "Statement" : [
+      {
+        "Sid" : "Enable IAM User Permissions",
+        "Effect" : "Allow",
+        "Principal" : {
+          "AWS" : "arn:aws:iam::${local.aws_account_id}:root",
+          "Service": [
+            "elasticache.amazonaws.com",
+            "${local.aws_region}.elasticache-snapshot.amazonaws.com"
+          ]
+        },
+        "Action" : "kms:*",
+        "Resource" : "*"
+      }
+    ]
+  }
+```
 
 ### EKS Spot - App fails to connect to DB due to race condition with Vault pod not being up yet
 
