@@ -410,7 +410,7 @@ Push it to AWS ECR using OCI:
 helm push my-chart-0.1.0.tgz "oci://$AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com"
 ```
 
-Pull a chart from AWS ECR using OCI:
+Pull a chart from AWS ECR using OCI to a local file `my-chart-0.1.0.tgz`:
 
 ```shell
 helm pull "oci://$AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/my-chart" --version 0.1.0
