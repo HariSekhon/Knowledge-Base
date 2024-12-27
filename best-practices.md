@@ -6,7 +6,7 @@
 - [High Availability and Multi-Datacenter](#high-availability-and-multi-datacenter)
 - [Use Version Control for Everything Textual - Code, Configs & Docs](#use-version-control-for-everything-textual---code-configs--docs)
 - [Releases](#releases)
-  - [Do not do production releases on Friday afternoons or after 4pm any day](#do-not-do-production-releases-on-friday-afternoons-or-after-4pm-any-day)
+  - [No production releases on Friday afternoons or after 4pm any day](#no-production-releases-on-friday-afternoons-or-after-4pm-any-day)
 - [Versioning](#versioning)
   - [Use a sane versioning system](#use-a-sane-versioning-system)
     - [Software Versioning](#software-versioning)
@@ -73,9 +73,11 @@ and be able to revert if you messed something up  .
 
 ## Releases
 
-### Do not do production releases on Friday afternoons or after 4pm any day
+### No production releases on Friday afternoons or after 4pm any day
 
 People want to go home and enjoy their lives, not be stuck debugging problems you've caused.
+
+![Development Cycle Friday Evening Edition](images/development_cycle_friday_evening_edition.jpg)
 
 ## Versioning
 
