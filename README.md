@@ -123,11 +123,14 @@ References to official docs and some classic books are provided for those who wa
 
 Here the TODOs are all getting filled in gradually... because we've all been here:
 
-<img
-  src="images/finally_found_documentation.jpeg"
-  alt="Finally Found The Documentation"
-  style="width: 60%; height: auto;"
-/>
+<!--
+
+  Doesn't render in IntelliJ markdown if the key=value pairs are split over lines
+
+    https://youtrack.jetbrains.com/issue/IDEA-365229/Markdown-plugin-Preview-does-not-show-Image-from-HTML-tag-if-the-keyvalue-pairs-are-split-over-newlines
+
+-->
+<img src="images/finally_found_documentation.jpeg" alt="Finally Found The Documentation" width="50%" />
 
 ## GitHub Repos
 
