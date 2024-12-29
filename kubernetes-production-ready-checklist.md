@@ -362,7 +362,7 @@ The following scripts are useful from in the popular [DevOps Bash Tools](https:/
   - recursively materializes all helm `Chart.yaml` and runs [Pluto](https://github.com/FairwindsOps/pluto) on each
     directory to work around [this issue](https://github.com/FairwindsOps/pluto/issues/444)
 - [pluto_detect_kubectl_dump_objects.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/kubernetes/pluto_detect_kubectl_dump_objects.sh)
-  - dumps all live Kubernetes objects to /tmp all can run [Pluto](https://github.com/FairwindsOps/pluto) to detect
+  - dumps all live Kubernetes objects to `/tmp` and then runs [Pluto](https://github.com/FairwindsOps/pluto) to detect
     deprecated API objects on the cluster from any source
 
 ## Helm
