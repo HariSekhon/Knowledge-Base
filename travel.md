@@ -119,6 +119,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Thailand Cash](#thailand-cash)
     - [Thailand Mobile](#thailand-mobile)
     - [Thailand Taxis](#thailand-taxis)
+    - [Thailand Food](#thailand-food)
     - [Bangkok](#bangkok)
       - [Bangkok Food](#bangkok-food)
     - [Phuket](#phuket)
@@ -1295,6 +1296,13 @@ It works out slightly more expensive than Airalo but the latter one is the best 
 #### Thailand Taxis
 
 [Grab](https://www.grab.com/) - taxi app
+
+#### Thailand Food
+
+Forget juice smoothies, they are 10-20% juice, the rest is crushed ice and sugar.
+If you ask for one without sugar you'll realize it tastes of nothing because it's so diluted.
+
+You're just drinking overpriced sugar water with a little fruit for colour.
 
 #### Bangkok
 
