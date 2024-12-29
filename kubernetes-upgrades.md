@@ -6,6 +6,8 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
 
 - [Check for Deprecated API objects](#check-for-deprecated-api-objects)
 - [PSP - Pod Security Policies](#psp---pod-security-policies)
+- [Cluster Upgrade](#cluster-upgrade)
+  - [AWS EKS Cluster Upgrade](#aws-eks-cluster-upgrade)
 - [Meme](#meme)
 
 <!-- INDEX_END -->
@@ -64,7 +66,7 @@ pluto_detect_kustomize_materialize.sh
 
 PSPs were removed in 1.25 and need to be migrated.
 
-Find PSPs installed
+Find PSPs installed:
 
 ```shell
 kubectl get psp
@@ -77,6 +79,16 @@ kubectl get pod -A \
     -o jsonpath='{range.items[?(@.metadata.annotations.kubernetes\.io/psp)]}{.metadata.name}{"\t"}{.metadata.namespace}{"\t"}{.metadata.annotations.kubernetes\.io/psp}{"\n"}' |
 column -t
 ```
+
+## Cluster Upgrade
+
+1. Upgrade Master Control Plane nodes
+1. Upgrade Workers nodes
+1. Upgrade Add-Ons (DNS, Cluster Autoscaler / Karpenter etc.)
+
+### AWS EKS Cluster Upgrade
+
+See the [EKS page upgrade section](eks.md#eks-cluster-upgrade) for AWS specific instructions.
 
 ## Meme
 
