@@ -10,7 +10,12 @@ NOT PORTED YET
   - [Newer Native IAM Method](#newer-native-iam-method)
   - [Old ConfigMap Method](#old-configmap-method)
 - [EKS Resizeable Disk](#eks-resizeable-disk)
-- [EKS Upgrades](#eks-upgrades)
+- [EKS Cluster Upgrade](#eks-cluster-upgrade)
+  - [Upgrade Control Plane](#upgrade-control-plane)
+  - [Upgrade Worker Nodes](#upgrade-worker-nodes)
+    - [Managed Node Groups](#managed-node-groups)
+    - [Self-Managed Nodes](#self-managed-nodes)
+  - [Post-Upgrade Steps](#post-upgrade-steps)
 
 <!-- INDEX_END -->
 
@@ -147,6 +152,118 @@ I've patched the default storage class in production and resized Atlantis data p
 [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md#increase-jenkins-server-disk-space-on-kubernetes)
 notes , it works.
 
-## EKS Upgrades
+## EKS Cluster Upgrade
 
-See the [Kubernetes Upgrades](kubernetes-upgrades.md) page.
+See the [Kubernetes Upgrades](kubernetes-upgrades.md) page for app contents.
+
+1. [Upgrade the Control Plane](#upgrade-control-plane)
+1. [Upgrade EKS Node groups](#upgrade-worker-nodes)
+1. [Post-Upgrade Steps](#post-upgrade-steps)
+   1. Upgrade 3rd party add-ons that are version specific
+   1. Verify Workloads are running ok
+
+If you're using my [Direnv](direnv.md) [configurations](https://github.com/HariSekhon/Environments) the
+lines you've edited will mean environment variables like `$EKS_CLUSTER` are set
+automatically, otherwise set it manually in your shell.
+
+### Upgrade Control Plane
+
+Check the current EKS version:
+
+```shell
+aws eks describe-cluster --name "$EKS_CLUSTER" --query cluster.version --output text
+```
+
+Initiate the Control Plane upgrade:
+
+```shell
+aws eks update-cluster-version --name "$EKS_CLUSTER" --kubernetes-version "$TARGET_VERSION"
+```
+
+Monitor the progress using this command or the AWS UI:
+
+(set the `$UPGRADE_ID` from the output of the above command)
+
+```shell
+aws eks describe-update --name <cluster_name> --update-id "$UPDATE_ID"
+```
+
+### Upgrade Worker Nodes
+
+#### Managed Node Groups
+
+Cordon nodes to have them drained of pods and prevent new pod scheduling:
+
+```shell
+kubectl cordon "$NODE_NAME"
+```
+
+```shell
+aws eks update-nodegroup-version --cluster-name "$EKS_CLUSTER" \
+                                 --nodegroup-name "$NODE_GROUP" \
+                                 --kubernetes-version "$TARGET_VERSION"
+```
+
+Monitor the progress using this command or the AWS UI:
+
+(set the `$UPGRADE_ID` from the output of the above command)
+
+```shell
+aws eks describe-update --cluster-name "$EKS_CLUSTER" --nodegroup-name "$NODE_GROUP" --update-id "$UPDATE_ID"
+```
+
+#### Self-Managed Nodes
+
+For each node...
+
+Cordon Node:
+
+```shell
+kubectl cordon "$NODE_NAME"
+```
+
+Drain Node:
+
+```shell
+kubectl drain "$NODE_NAME" --ignore-daemonsets --delete-local-data
+```
+
+Create a new node group with the desired version:
+
+```shell
+eksctl create nodegroup --cluster "$EKS_CLUSTER" --name "$NEW_NODE_GROUP" --kubernetes-version "$TARGET_VERSION"
+```
+
+Delete the old node group:
+
+```shell
+eksctl delete nodegroup --cluster "$EKS_CLUSTER" --name "$OLD_NODE_GROUP"
+```
+
+### Post-Upgrade Steps
+
+Verify the node versions:
+
+```shell
+kubectl get nodes
+```
+
+Update Add-ons:
+
+```shell
+eksctl update addon --name vpc-cni --cluster "$EKS_CLUSTER"
+```
+
+```shell
+eksctl update addon --name kube-proxy --cluster "$EKS_CLUSTER"
+```
+
+```shell
+eksctl update addon --name coredns --cluster "$EKS_CLUSTER"
+```
+
+Verify your workloads - check your pods are running ok:
+
+```shell
+kubectl get pods -A
+```
