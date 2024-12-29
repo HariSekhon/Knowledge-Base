@@ -162,9 +162,9 @@ See the [Kubernetes Upgrades](kubernetes-upgrades.md) page for app contents.
 1. [Upgrade 3rd party add-ons](#upgrade-add-ons) that are version specific
 1. [Verify Workloads](#verify-workloads) are running ok
 
-If you're using my [DirEnv](direnv.md) [configurations](https://github.com/HariSekhon/Environments) the
-lines you've edited will mean environment variables like `$EKS_CLUSTER` are set
-automatically, otherwise set it manually in your shell.
+If you're using my [DirEnv](direnv.md) [configurations](https://github.com/HariSekhon/Environments) you
+should have edited the `EKS_CLUSTER` setting so that it is automatically set when you cd to the right directory,
+otherwise set the environment variable manually in your shell.
 
 ### Upgrade Control Plane
 
