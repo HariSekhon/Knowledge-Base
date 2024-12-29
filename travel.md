@@ -1693,7 +1693,7 @@ Americans are now fleeing the failing Democrat state for Texas, which will then 
 
 [In-and-Out Burger](https://www.in-n-out.com/) is a popular burger chain local to California, considered better than your
 average chain by many locals.
-The _"animal fries"_ covered in onions and gravy was too much even for me though.
+The _"animal fries"_ covered in fried onions and gravy was too much even for me though.
 
 ##### Irvine
 
