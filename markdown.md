@@ -10,6 +10,7 @@
   - [URL Hyperlinking](#url-hyperlinking)
   - [Relative Link Paths](#relative-link-paths)
   - [Code Blocks vs Inline Code](#code-blocks-vs-inline-code)
+  - [Split Code Block Commands and Outputs to Separate Blocks](#split-code-block-commands-and-outputs-to-separate-blocks)
   - [Syntax Highlighting](#syntax-highlighting)
   - [IntelliJ Code Block Execution](#intellij-code-block-execution)
 - [Emojis](#emojis)
@@ -109,6 +110,11 @@ use the `git` command or specify `--force-with-lease` option in git if you reall
 pushes.
 
 (See also: [The Evils of Git Rebasing](https://medium.com/@harisekhon/the-evils-of-git-rebasing-beec34a607c7))
+
+### Split Code Block Commands and Outputs to Separate Blocks
+
+This way you can click the `Copy` symbol in IDEs like [IntelliJ](intellij.md) and paste to your terminal, otherwise it'll copy and paste the
+sample output too.
 
 ### Syntax Highlighting
 
