@@ -1299,10 +1299,13 @@ It works out slightly more expensive than Airalo but the latter one is the best 
 
 #### Thailand Food
 
-Forget juice smoothies, they are 10-20% juice, the rest is crushed ice and sugar.
-If you ask for one without sugar you'll realize it tastes of nothing because it's so diluted.
+Thai food is great - Pad Thai, Pad Ka Prow (more commonly called Chilli Holy & Basil),
+Pineapple Rice are some classics to try.
 
+Forget "juice smoothies", they're 10-20% juice, the rest is blended ice and sugar.
+If you ask for one without sugar you'll realize it tastes of nothing because it's so diluted.
 You're just drinking overpriced sugar water with a little fruit for colour.
+If you ask for one which is actually juice, they will ask for double the price. :roll_eyes:
 
 #### Bangkok
 
