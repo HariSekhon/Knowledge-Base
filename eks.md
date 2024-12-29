@@ -15,7 +15,8 @@ NOT PORTED YET
   - [Upgrade Worker Nodes](#upgrade-worker-nodes)
     - [Managed Node Groups](#managed-node-groups)
     - [Self-Managed Nodes](#self-managed-nodes)
-  - [Post-Upgrade Steps](#post-upgrade-steps)
+  - [Upgrade Add-Ons](#upgrade-add-ons)
+  - [Verify Workloads](#verify-workloads)
 
 <!-- INDEX_END -->
 
@@ -158,9 +159,8 @@ See the [Kubernetes Upgrades](kubernetes-upgrades.md) page for app contents.
 
 1. [Upgrade the Control Plane](#upgrade-control-plane)
 1. [Upgrade EKS Node groups](#upgrade-worker-nodes)
-1. [Post-Upgrade Steps](#post-upgrade-steps)
-   1. Upgrade 3rd party add-ons that are version specific
-   1. Verify Workloads are running ok
+1. [Upgrade 3rd party add-ons](#upgrade-add-ons) that are version specific
+1. [Verify Workloads](#verify-workloads) are running ok
 
 If you're using my [Direnv](direnv.md) [configurations](https://github.com/HariSekhon/Environments) the
 lines you've edited will mean environment variables like `$EKS_CLUSTER` are set
@@ -240,13 +240,13 @@ Delete the old node group:
 eksctl delete nodegroup --cluster "$EKS_CLUSTER" --name "$OLD_NODE_GROUP"
 ```
 
-### Post-Upgrade Steps
-
 Verify the node versions:
 
 ```shell
 kubectl get nodes
 ```
+
+### Upgrade Add-Ons
 
 Update Add-ons:
 
@@ -262,7 +262,9 @@ eksctl update addon --name kube-proxy --cluster "$EKS_CLUSTER"
 eksctl update addon --name coredns --cluster "$EKS_CLUSTER"
 ```
 
-Verify your workloads - check your pods are running ok:
+### Verify Workloads
+
+Check your pods are running ok:
 
 ```shell
 kubectl get pods -A
