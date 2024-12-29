@@ -1691,8 +1691,9 @@ Many of these places are only places to go on company expense as the hotels will
 
 Americans are now fleeing the failing Democrat state for Texas, which will then become the next domino to fall.
 
-[In-and-Out Burger](https://www.in-n-out.com/) - popular burger chain local to California, considered better than your
-average chain by many locals
+[In-and-Out Burger](https://www.in-n-out.com/) is a popular burger chain local to California, considered better than your
+average chain by many locals.
+The _"animal fries"_ covered in onions and gravy was too much even for me though.
 
 ##### Irvine
 
