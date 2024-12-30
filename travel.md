@@ -1763,6 +1763,8 @@ Don't got to Vietnam in the winter - it is not Thailand, it is cold and you will
 
 #### Hanoi
 
+- [Puku Cafe & Bar](https://maps.app.goo.gl/srUuuBWUHQN8KDKn7) - 24x7 with wifi and reasonable prices, the stir fried
+  beef noodles are really good, and also the iced teas
 - [Hong Haoi](https://maps.app.goo.gl/tHagvFRbC1Ugm9dJA) - popular restaurant in Old Town, small and busy.
   The recommended fried fish is good and the juice is fresh squeezed,
   although not big (uses those milkshake glasses that are narrow at the bottom).
