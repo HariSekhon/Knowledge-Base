@@ -40,6 +40,7 @@ NOT PORTED YET
 - [Diagrams](#diagrams)
   - [Typical Network Architecture](#typical-network-architecture)
   - [What Makes Lambda So Fast](#what-makes-lambda-so-fast)
+- [Meme](#meme)
 
 <!-- INDEX_END -->
 
@@ -634,7 +635,6 @@ High costs for CloudWatch metrics and dashboards.
 
 Lucene query of [Elasticsearch](elasticsearch.md) is more user friendly than AWS Cloudwatch Log Insights.
 
-
 ## Troubleshooting
 
 ### EC2 VM becomes unresponsive and cannot SSH under high loads
@@ -843,5 +843,9 @@ sudo umount /mnt
 ### What Makes Lambda So Fast
 
 ![What Makes Lambda So Fast](images/aws_what_makes_lambda_so_fast.gif)
+
+## Meme
+
+![Making Jeff Bezos Richer](images/aws_making_jeff_bezos_richer.jpeg)
 
 **Partial port from private Knowledge Base page 2012+**
