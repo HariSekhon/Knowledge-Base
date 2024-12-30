@@ -153,6 +153,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
       - [Palo Alto](#palo-alto)
       - [San Diego](#san-diego)
       - [San Francisco](#san-francisco)
+  - [Vietnam](#vietnam)
+    - [Hanoi](#hanoi)
 
 <!-- INDEX_END -->
 
@@ -207,7 +209,7 @@ enforced.
 
 It is common for the first flight to be delayed by 1.5 hours
 and then you don't have enough time to catch the second flight.
-Even more so if you have to go through security again.
+Even more so if you have to go through security again which can delay you by another 30-60 minutes.
 
 I have gotten stranded overnight in Warsaw like this on the way from London to Tbilisi, with no replacement flight for
 24 hours.
@@ -274,6 +276,8 @@ accomodations, both hotels and airbnbs lack good parking.
 Also, if you're only going into the centres in the evenings, often you can get cheap or even free parking.
 
 ## Mobile Internet Access
+
+Always ensure you have mobile internet before you leave the airport.
 
 ### EU
 
@@ -1295,6 +1299,8 @@ It works out slightly more expensive than Airalo but the latter one is the best 
 
 #### Thailand Taxis
 
+If you haven't already set up your card to prepay on the Grab app, you'll need cash.
+
 [Grab](https://www.grab.com/) - taxi app
 
 #### Thailand Food
@@ -1750,3 +1756,13 @@ even if you think you could take them.
 Not recommended for women.
 
 [Boudin](https://boudinbakery.com/) is a local chain famous for its sour dough bread and soup in bread bowls.
+
+### Vietnam
+
+Don't got to Vietnam in the winter - it is not Thailand, it is cold and you will need a jacket.
+
+#### Hanoi
+
+- [Hong Haoi](https://maps.app.goo.gl/tHagvFRbC1Ugm9dJA) - popular restaurant in Old Town, small and busy.
+  The recommended fried fish is good and the juice is fresh squeezed,
+  although not big (uses those milkshake glasses that are narrow at the bottom).
