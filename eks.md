@@ -214,6 +214,12 @@ aws eks describe-cluster --name "$EKS_CLUSTER" --query cluster.version --output 
 Initiate the Control Plane upgrade:
 
 ```shell
+eksctl upgrade cluster --name "$EKS_CLUSTER" --version "$TARGET_VERSION" --approve
+```
+
+or
+
+```shell
 aws eks update-cluster-version --name "$EKS_CLUSTER" --kubernetes-version "$TARGET_VERSION"
 ```
 
@@ -223,12 +229,6 @@ Monitor the progress using this command or the AWS UI:
 
 ```shell
 aws eks describe-update --name "$EKS_CLUSTER" --update-id "$UPDATE_ID"
-```
-
-or
-
-```shell
-eksctl upgrade cluster --name "$EKS_CLUSTER" --version "$TARGET_VERSION" --approve
 ```
 
 ### Upgrade Worker Nodes
