@@ -155,7 +155,7 @@ install_kubectl_plugin_convert.sh
 ```
 
 ```shell
-kubectl convert -f file.yaml
+kubectl convert -f file.yaml --output-version <group>/<version>
 ```
 
 ## PSP - Pod Security Policies
