@@ -312,6 +312,10 @@ kubectl get nodes
 
 <https://docs.aws.amazon.com/eks/latest/userguide/updating-an-add-on.html>
 
+Explore installed add-ons:
+
+See section [EKS Cluster AddOns](#eks-cluster-addons).
+
 Update Add-ons:
 
 ```shell
