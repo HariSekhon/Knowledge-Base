@@ -240,10 +240,8 @@ See the [Kubernetes Upgrades](kubernetes-upgrades.md) page covering this for Kub
 Check there are at least 5 IPs available in the EKS subnets:
 
 ```shell
-CLUSTER="YOUR_CLUSTER_NAME_GOES_HERE"
-
 aws ec2 describe-subnets --subnet-ids \
-  $(aws eks describe-cluster --name ${CLUSTER} \
+  $(aws eks describe-cluster --name "$EKS_CLUSTER" \
   --query 'cluster.resourcesVpcConfig.subnetIds' \
   --output text) \
   --query 'Subnets[*].[SubnetId,AvailabilityZone,AvailableIpAddressCount]' \
