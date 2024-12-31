@@ -4,6 +4,7 @@ NOT PORTED YET
 
 <!-- INDEX_START -->
 
+- [Best Practices](#best-practices)
 - [EKS on Fargate](#eks-on-fargate)
 - [EKS Kubectl Access](#eks-kubectl-access)
 - [Get Cluster Version](#get-cluster-version)
