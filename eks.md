@@ -338,6 +338,17 @@ eksctl update addon --name kube-proxy --cluster "$EKS_CLUSTER"
 eksctl update addon --name coredns --cluster "$EKS_CLUSTER"
 ```
 
+or
+
+```shell
+aws eks update-addon \
+    —cluster-name "$EKS_CLUSTER" \
+    —addon-name vpc-cni —addon-version "$version" \
+    --service-account-role-arn arn:aws:iam::111122223333:role/role-name \
+    —configuration-values '{}' \
+    —resolve-conflicts PRESERVE
+```
+
 ### Upgrade Data Plane - Worker Nodes
 
 #### Managed Node Groups
