@@ -288,6 +288,24 @@ Output should look like this:
 }
 ```
 
+Review EKS cluster insights for issues that may affect upgrade:
+
+```shell
+aws eks list-insights --cluster-name "$EKS_CLUSTER"
+```
+
+Show only failing ones:
+
+```shell
+aws eks list-insights --cluster-name "$EKS_CLUSTER" --query 'insights[?insightStatus.status != `PASSING`]'
+```
+
+Or only ones in the `UPGRADE_READINESS`:
+
+```shell
+aws eks list-insights --cluster-name "$EKS_CLUSTER" --query 'insights[?category == `UPGRADE_READINESS`]'
+```
+
 ### Upgrade Control Plane - Master Nodes
 
 Check the current EKS version:
