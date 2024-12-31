@@ -8,6 +8,7 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
   - [Kube-No-Trouble](#kube-no-trouble)
   - [Pluto](#pluto)
   - [Deprecated APIs Metrics](#deprecated-apis-metrics)
+  - [Kubectl Convert](#kubectl-convert)
 - [PSP - Pod Security Policies](#psp---pod-security-policies)
 - [Cluster Upgrade](#cluster-upgrade)
   - [AWS EKS Cluster Upgrade](#aws-eks-cluster-upgrade)
@@ -25,6 +26,7 @@ as you can see below with Kubent and Pluto:
 - [Kubent](#kube-no-trouble)
 - [Pluto](#pluto)
 - [Deprecated APIs Metrics](#deprecated-apis-metrics)
+- [Kubectl Convert](#kubectl-convert)
 
 ### Kube-No-Trouble
 
@@ -141,6 +143,19 @@ apiserver_requested_deprecated_apis{group="",removed_release="",resource="compon
 apiserver_requested_deprecated_apis{group="policy",removed_release="1.25",resource="poddisruptionbudgets",subresource="",version="v1beta1"} 1
 apiserver_requested_deprecated_apis{group="policy",removed_release="1.25",resource="podsecuritypolicies",subresource="",version="v1beta1"} 1
 apiserver_requested_deprecated_apis{group="storage.k8s.io",removed_release="1.27",resource="csistoragecapacities",subresource="",version="v1beta1"} 1
+```
+
+### Kubectl Convert
+
+Use [kubectl convert](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/#install-kubectl-convert-plugin)
+to update API objects in YAML manifests.
+
+```shell
+install_kubectl_plugin_convert.sh
+```
+
+```shell
+kubectl convert -f file.yaml
 ```
 
 ## PSP - Pod Security Policies
