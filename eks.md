@@ -210,6 +210,8 @@ kubectl get pods -n addons
 
 <https://docs.aws.amazon.com/eks/latest/userguide/update-cluster.html>
 
+Upgrades must be done from one minor version to the next in sequence.
+
 1. [Update Deprecated / Removed API objects](#update-deprecated--removed-api-objects)
 1. [Upgrade the Control Plane](#upgrade-control-plane)
 1. [Upgrade EKS Node groups](#upgrade-worker-nodes)
