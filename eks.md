@@ -351,7 +351,7 @@ You can get more details on the actual API objects:
 aws eks describe-insight --cluster-name "$EKS_CLUSTER" --id "$INSIGHT_ID"  # from the last command output
 ```
 
-You can also check AWS logs:
+Check AWS logs if any deprecated APIs were used in the last 30 minutes:
 
 ```shell
 if uname | grep -q Darwin; then
