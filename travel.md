@@ -1768,3 +1768,7 @@ Don't got to Vietnam in the winter - it is not Thailand, it is cold and you will
 - [Hong Haoi](https://maps.app.goo.gl/tHagvFRbC1Ugm9dJA) - popular restaurant in Old Town, small and busy.
   The recommended fried fish is good and the juice is fresh squeezed,
   although not big (uses those milkshake glasses that are narrow at the bottom).
+- [Don Duck](https://maps.app.goo.gl/joEGkujXGGJo4Nrq8) - small popular affordable restaurant specializing in duck.
+  Reasonable prices, but the spring rolls weren't crispy and the duck soup while very affordable could have had better
+  cuts of duck and less duck skin.
+  Still for this price one shouldn't complain
