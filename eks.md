@@ -254,6 +254,40 @@ or use from [DevOps-Bash-tools](devops-bash-tools.md):
 aws_eks_available_ips.sh <cluster>
 ```
 
+Check the IAM role has assume role for your account:
+
+```shell
+ROLE_ARN="$(
+    aws eks describe-cluster \
+        --name "$EKS_CLUSTER" \
+        --query 'cluster.roleArn' \
+        --output text
+)"
+
+echo "$ROLE_ARN"
+
+aws iam get-role \
+    --role-name "${ROLE_ARN##*/}" \
+    --query 'Role.AssumeRolePolicyDocument'
+```
+
+Output should look like this:
+
+```text
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Principal": {
+                "Service": "eks.amazonaws.com"
+            },
+            "Action": "sts:AssumeRole"
+        }
+    ]
+}
+```
+
 ### Upgrade Control Plane - Master Nodes
 
 Check the current EKS version:
