@@ -351,6 +351,28 @@ You can get more details on the actual API objects:
 aws eks describe-insight --cluster-name "$EKS_CLUSTER" --id "$INSIGHT_ID"  # from the last command output
 ```
 
+You can also check AWS logs:
+
+```shell
+if uname | grep -q Darwin; then
+  date(){
+    # on Mac use GNU date so the --date="-30 minutes" below works
+    command gdate "$@"
+  }
+fi
+
+QUERY_ID=$(aws logs start-query \
+    --log-group-name "/aws/eks/$EKS_CLUSTER/cluster" \
+    --start-time $(date -u --date="-30 minutes" "+%s") \
+    --end-time $(date "+%s") \
+    --query-string 'fields @message | filter `annotations.k8s.io/deprecated`="true"' \
+    --query queryId --output text)
+
+echo "Query started (query id: $QUERY_ID), please hold ..." && sleep 5 # give it some time to query
+
+aws logs get-query-results --query-id $QUERY_ID
+```
+
 See the [Kubernetes Upgrades](kubernetes-upgrades.md) page for easier to use tools with nicer outputs like Pluto.
 
 ### Upgrade Control Plane - Master Nodes
