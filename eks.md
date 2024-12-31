@@ -15,8 +15,8 @@ NOT PORTED YET
 - [EKS Cluster AddOns](#eks-cluster-addons)
 - [EKS Cluster Upgrade](#eks-cluster-upgrade)
   - [Update Deprecated / Removed API objects](#update-deprecated--removed-api-objects)
-  - [Upgrade Control Plane](#upgrade-control-plane)
-  - [Upgrade Worker Nodes](#upgrade-worker-nodes)
+  - [Upgrade Control Plane - Master Nodes](#upgrade-control-plane---master-nodes)
+  - [Upgrade Data Plane - Worker Nodes](#upgrade-data-plane---worker-nodes)
     - [Managed Node Groups](#managed-node-groups)
     - [Self-Managed Nodes](#self-managed-nodes)
   - [Upgrade Add-Ons](#upgrade-add-ons)
@@ -233,7 +233,7 @@ otherwise set the environment variable manually in your shell.
 
 See the [Kubernetes Upgrades](kubernetes-upgrades.md) page covering this for Kubernetes clusters on any platform.
 
-### Upgrade Control Plane
+### Upgrade Control Plane - Master Nodes
 
 Check the current EKS version:
 
@@ -261,7 +261,7 @@ Monitor the progress using this command or the AWS UI:
 aws eks describe-update --name "$EKS_CLUSTER" --update-id "$UPDATE_ID"
 ```
 
-### Upgrade Worker Nodes
+### Upgrade Data Plane - Worker Nodes
 
 #### Managed Node Groups
 
