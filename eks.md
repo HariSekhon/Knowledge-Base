@@ -220,9 +220,9 @@ kubectl get pods -n addons
 Upgrades must be done from one minor version to the next in sequence.
 
 1. [Update Deprecated / Removed API objects](#update-deprecated--removed-api-objects)
-1. [Upgrade the Control Plane](#upgrade-control-plane)
-1. [Upgrade EKS Node groups](#upgrade-worker-nodes)
+1. [Upgrade the Control Plane - Master Nodes](#upgrade-control-plane---master-nodes)
 1. [Upgrade 3rd party add-ons](#upgrade-add-ons) that are version specific
+1. [Upgrade the Data Plane - Worker Nodes](#upgrade-data-plane---worker-nodes)
 1. [Verify Workloads](#verify-workloads) are running ok
 
 If you're using my [DirEnv](direnv.md) [configurations](https://github.com/HariSekhon/Environments) you
@@ -259,6 +259,28 @@ Monitor the progress using this command or the AWS UI:
 
 ```shell
 aws eks describe-update --name "$EKS_CLUSTER" --update-id "$UPDATE_ID"
+```
+
+### Upgrade Add-Ons
+
+<https://docs.aws.amazon.com/eks/latest/userguide/updating-an-add-on.html>
+
+Explore installed add-ons:
+
+See section [EKS Cluster AddOns](#eks-cluster-addons).
+
+Update Add-ons:
+
+```shell
+eksctl update addon --name vpc-cni --cluster "$EKS_CLUSTER"
+```
+
+```shell
+eksctl update addon --name kube-proxy --cluster "$EKS_CLUSTER"
+```
+
+```shell
+eksctl update addon --name coredns --cluster "$EKS_CLUSTER"
 ```
 
 ### Upgrade Data Plane - Worker Nodes
@@ -317,28 +339,6 @@ Verify the node versions:
 
 ```shell
 kubectl get nodes
-```
-
-### Upgrade Add-Ons
-
-<https://docs.aws.amazon.com/eks/latest/userguide/updating-an-add-on.html>
-
-Explore installed add-ons:
-
-See section [EKS Cluster AddOns](#eks-cluster-addons).
-
-Update Add-ons:
-
-```shell
-eksctl update addon --name vpc-cni --cluster "$EKS_CLUSTER"
-```
-
-```shell
-eksctl update addon --name kube-proxy --cluster "$EKS_CLUSTER"
-```
-
-```shell
-eksctl update addon --name coredns --cluster "$EKS_CLUSTER"
 ```
 
 ### Verify Workloads
