@@ -7,6 +7,7 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
 - [Check for Deprecated API objects](#check-for-deprecated-api-objects)
   - [Kube-No-Trouble](#kube-no-trouble)
   - [Pluto](#pluto)
+  - [Deprecated APIs Metrics](#deprecated-apis-metrics)
 - [PSP - Pod Security Policies](#psp---pod-security-policies)
 - [Cluster Upgrade](#cluster-upgrade)
   - [AWS EKS Cluster Upgrade](#aws-eks-cluster-upgrade)
@@ -23,6 +24,7 @@ as you can see below with Kubent and Pluto:
 
 - [Kubent](#kube-no-trouble)
 - [Pluto](#pluto)
+- [Deprecated APIs Metrics](#deprecated-apis-metrics)
 
 ### Kube-No-Trouble
 
@@ -122,6 +124,23 @@ pluto_detect_helm_materialize.sh
 
 ```shell
 pluto_detect_kustomize_materialize.sh
+```
+
+### Deprecated APIs Metrics
+
+You can get some raw info like this from metrics:
+
+```shell
+kubectl get --raw /metrics | grep apiserver_requested_deprecated_apis
+```
+
+```text
+# HELP apiserver_requested_deprecated_apis [STABLE] Gauge of deprecated APIs that have been requested, broken out by API group, version, resource, subresource, and removed_release.
+# TYPE apiserver_requested_deprecated_apis gauge
+apiserver_requested_deprecated_apis{group="",removed_release="",resource="componentstatuses",subresource="",version="v1"} 1
+apiserver_requested_deprecated_apis{group="policy",removed_release="1.25",resource="poddisruptionbudgets",subresource="",version="v1beta1"} 1
+apiserver_requested_deprecated_apis{group="policy",removed_release="1.25",resource="podsecuritypolicies",subresource="",version="v1beta1"} 1
+apiserver_requested_deprecated_apis{group="storage.k8s.io",removed_release="1.27",resource="csistoragecapacities",subresource="",version="v1beta1"} 1
 ```
 
 ## PSP - Pod Security Policies
