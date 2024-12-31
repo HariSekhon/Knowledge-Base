@@ -181,6 +181,12 @@ List `eksctl` installed EKS cluster addons (may not show ones installed by chart
 eksctl get addons --cluster "$EKS_CLUSTER"
 ```
 
+List version of a specific addon:
+
+```shell
+aws eks describe-addon --cluster-name "$EKS_CLUSTER" --addon-name vpc-cni --query "addon.addonVersion" --output text
+```
+
 List addon pods:
 
 ```shell
