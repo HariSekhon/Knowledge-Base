@@ -306,8 +306,7 @@ Or only ones in the `UPGRADE_READINESS`:
 aws eks list-insights --cluster-name "$EKS_CLUSTER" --query 'insights[?category == `UPGRADE_READINESS`]'
 ```
 
-This gives a simple yes or no answer to if there are deprecated API objects in use.
-See the [Kubernetes Upgrades](kubernetes-upgrades.md) page for tools to give you more specific details:
+This gives a simple yes or no answer to if there are deprecated API objects in use:
 
 ```text
 [
@@ -345,6 +344,8 @@ You can get more details on the actual API objects:
 ```shell
 aws eks describe-insight --cluster-name "$EKS_CLUSTER" --id "$INSIGHT_ID"  # from the last command output
 ```
+
+See the [Kubernetes Upgrades](kubernetes-upgrades.md) page for easier to use tools with nicer outputs like Pluto.
 
 ### Upgrade Control Plane - Master Nodes
 
