@@ -19,7 +19,10 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
 Any apps using deprecated API objects will need to be upgraded first.
 
 Check using more than one tool in case they give you slightly different results
-as you can see below with Kubent and Pluto.
+as you can see below with Kubent and Pluto:
+
+- [Kubent](#kube-no-trouble)
+- [Pluto](#pluto)
 
 ### Kube-No-Trouble
 
