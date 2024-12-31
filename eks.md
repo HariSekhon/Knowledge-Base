@@ -10,7 +10,9 @@ NOT PORTED YET
   - [Newer Native IAM Method](#newer-native-iam-method)
   - [Old ConfigMap Method](#old-configmap-method)
 - [EKS Resizeable Disk](#eks-resizeable-disk)
+- [EKS Cluster AddOns](#eks-cluster-addons)
 - [EKS Cluster Upgrade](#eks-cluster-upgrade)
+  - [Update Deprecated / Removed API objects](#update-deprecated--removed-api-objects)
   - [Upgrade Control Plane](#upgrade-control-plane)
   - [Upgrade Worker Nodes](#upgrade-worker-nodes)
     - [Managed Node Groups](#managed-node-groups)
@@ -153,10 +155,41 @@ I've patched the default storage class in production and resized Atlantis data p
 [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md#increase-jenkins-server-disk-space-on-kubernetes)
 notes , it works.
 
+## EKS Cluster AddOns
+
+List clusters:
+
+```shell
+eksctl get cluster
+```
+
+or
+
+```shell
+aws eks list-clusters
+```
+
+List Available EKS cluster addons:
+
+```shell
+aws eks describe-addon-versions | jq -r '.addons[].addonName' | sort
+```
+
+List `eksctl` installed EKS cluster addons (may not show ones installed by charts):
+
+```shell
+eksctl get addons --cluster "$EKS_CLUSTER"
+```
+
+List addon pods:
+
+```shell
+kubectl get pods -n addons
+```
+
 ## EKS Cluster Upgrade
 
-See the [Kubernetes Upgrades](kubernetes-upgrades.md) page for app contents.
-
+1. [Update Deprecated / Removed API objects](#update-deprecated--removed-api-objects)
 1. [Upgrade the Control Plane](#upgrade-control-plane)
 1. [Upgrade EKS Node groups](#upgrade-worker-nodes)
 1. [Upgrade 3rd party add-ons](#upgrade-add-ons) that are version specific
@@ -165,6 +198,10 @@ See the [Kubernetes Upgrades](kubernetes-upgrades.md) page for app contents.
 If you're using my [DirEnv](direnv.md) [configurations](https://github.com/HariSekhon/Environments) you
 should have edited the `EKS_CLUSTER` setting so that it is automatically set when you cd to the right directory,
 otherwise set the environment variable manually in your shell.
+
+### Update Deprecated / Removed API objects
+
+See the [Kubernetes Upgrades](kubernetes-upgrades.md) page covering this for Kubernetes clusters on any platform.
 
 ### Upgrade Control Plane
 
