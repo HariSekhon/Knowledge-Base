@@ -15,11 +15,12 @@ NOT PORTED YET
 - [EKS Cluster AddOns](#eks-cluster-addons)
 - [EKS Cluster Upgrade](#eks-cluster-upgrade)
   - [Update Deprecated / Removed API objects](#update-deprecated--removed-api-objects)
+  - [Pre-requisite Checks](#pre-requisite-checks)
   - [Upgrade Control Plane - Master Nodes](#upgrade-control-plane---master-nodes)
+  - [Upgrade Add-Ons](#upgrade-add-ons)
   - [Upgrade Data Plane - Worker Nodes](#upgrade-data-plane---worker-nodes)
     - [Managed Node Groups](#managed-node-groups)
     - [Self-Managed Nodes](#self-managed-nodes)
-  - [Upgrade Add-Ons](#upgrade-add-ons)
   - [Verify Workloads](#verify-workloads)
 
 <!-- INDEX_END -->
@@ -220,6 +221,7 @@ kubectl get pods -n addons
 Upgrades must be done from one minor version to the next in sequence.
 
 1. [Update Deprecated / Removed API objects](#update-deprecated--removed-api-objects)
+1. [Pre-Requisite Checks](#pre-requisite-checks)
 1. [Upgrade the Control Plane - Master Nodes](#upgrade-control-plane---master-nodes)
 1. [Upgrade 3rd party add-ons](#upgrade-add-ons) that are version specific
 1. [Upgrade the Data Plane - Worker Nodes](#upgrade-data-plane---worker-nodes)
@@ -232,6 +234,27 @@ otherwise set the environment variable manually in your shell.
 ### Update Deprecated / Removed API objects
 
 See the [Kubernetes Upgrades](kubernetes-upgrades.md) page covering this for Kubernetes clusters on any platform.
+
+### Pre-Requisite Checks
+
+Check there are at least 5 IPs available in the EKS subnets:
+
+```shell
+CLUSTER="YOUR_CLUSTER_NAME_GOES_HERE"
+
+aws ec2 describe-subnets --subnet-ids \
+  $(aws eks describe-cluster --name ${CLUSTER} \
+  --query 'cluster.resourcesVpcConfig.subnetIds' \
+  --output text) \
+  --query 'Subnets[*].[SubnetId,AvailabilityZone,AvailableIpAddressCount]' \
+  --output table
+```
+
+or use from [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+aws_eks_available_ips.sh <cluster>
+```
 
 ### Upgrade Control Plane - Master Nodes
 
