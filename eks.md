@@ -306,6 +306,40 @@ Or only ones in the `UPGRADE_READINESS`:
 aws eks list-insights --cluster-name "$EKS_CLUSTER" --query 'insights[?category == `UPGRADE_READINESS`]'
 ```
 
+This gives a simple yes or no answer to if there are deprecated API objects in use.
+See the [Kubernetes Upgrades](kubernetes-upgrades.md) page for tools to give you more specific details:
+
+```text
+[
+    {
+        "id": "6419ee9f-8299-4bc9-9d43-95a1b1016edb",
+        "name": "Deprecated APIs removed in Kubernetes v1.25",
+        "category": "UPGRADE_READINESS",
+        "kubernetesVersion": "1.25",
+        "lastRefreshTime": "2024-12-31T23:04:33+07:00",
+        "lastTransitionTime": "2023-11-23T13:49:31+07:00",
+        "description": "Checks for usage of deprecated APIs that are scheduled for removal in Kubernetes v1.25. Upgrading your cluster before migrating to the updated APIs supported by v1.25 could cause application impact.",
+        "insightStatus": {
+            "status": "ERROR",
+            "reason": "Deprecated API usage detected within last 30 days and your cluster is on Kubernetes v1.24."
+        }
+    },
+    {
+        "id": "712cdf7f-bcab-4ad5-a690-b1fbd92426cd",
+        "name": "Deprecated APIs removed in Kubernetes v1.27",
+        "category": "UPGRADE_READINESS",
+        "kubernetesVersion": "1.27",
+        "lastRefreshTime": "2024-12-31T23:04:33+07:00",
+        "lastTransitionTime": "2023-11-23T13:49:31+07:00",
+        "description": "Checks for usage of deprecated APIs that are scheduled for removal in Kubernetes v1.27. Upgrading your cluster before migrating to the updated APIs supported by v1.27 could cause application impact.",
+        "insightStatus": {
+            "status": "WARNING",
+            "reason": "Deprecated API usage detected within last 30 days and your cluster is on Kubernetes v1.25 or lower, or existing resources using deprecated APIs present in cluster."
+        }
+    }
+]
+```
+
 ### Upgrade Control Plane - Master Nodes
 
 Check the current EKS version:
