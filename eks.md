@@ -222,7 +222,13 @@ Monitor the progress using this command or the AWS UI:
 (set the `$UPGRADE_ID` from the output of the above command)
 
 ```shell
-aws eks describe-update --name <cluster_name> --update-id "$UPDATE_ID"
+aws eks describe-update --name "$EKS_CLUSTER" --update-id "$UPDATE_ID"
+```
+
+or
+
+```shell
+eksctl upgrade cluster --name "$EKS_CLUSTER" --version "$TARGET_VERSION" --approve
 ```
 
 ### Upgrade Worker Nodes
