@@ -5,6 +5,8 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
 <!-- INDEX_START -->
 
 - [Check for Deprecated API objects](#check-for-deprecated-api-objects)
+  - [Kube-No-Trouble](#kube-no-trouble)
+  - [Pluto](#pluto)
 - [PSP - Pod Security Policies](#psp---pod-security-policies)
 - [Cluster Upgrade](#cluster-upgrade)
   - [AWS EKS Cluster Upgrade](#aws-eks-cluster-upgrade)
@@ -16,9 +18,65 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
 
 Any apps using deprecated API objects will need to be upgraded first.
 
+### Kube-No-Trouble
+
+Install [Kube-No-Trouble](https://github.com/doitintl/kube-no-trouble).
+
+On Mac using [Homebrew](brew.md):
+
+```shell
+brew info kubent
+```
+
+Or latest GitHub release using [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+install_kubent.sh
+```
+
+Scan the current Kubernetes cluster for which your kubectl context is configured:
+
+```shell
+kubent
+```
+
+Output:
+
+```text
+8:51PM INF >>> Kube No Trouble `kubent` <<<
+8:51PM INF version 0.7.3 (git sha 57480c07b3f91238f12a35d0ec88d9368aae99aa)
+8:51PM INF Initializing collectors and retrieving data
+8:51PM INF Target K8s version is 1.24.17-eks-7f9249a
+8:51PM INF Retrieved 83 resources from collector name=Cluster
+8:51PM INF Retrieved 24 resources from collector name="Helm v3"
+8:51PM INF Loaded ruleset name=custom.rego.tmpl
+8:51PM INF Loaded ruleset name=deprecated-1-16.rego
+8:51PM INF Loaded ruleset name=deprecated-1-22.rego
+8:51PM INF Loaded ruleset name=deprecated-1-25.rego
+8:51PM INF Loaded ruleset name=deprecated-1-26.rego
+8:51PM INF Loaded ruleset name=deprecated-1-27.rego
+8:51PM INF Loaded ruleset name=deprecated-1-29.rego
+8:51PM INF Loaded ruleset name=deprecated-1-32.rego
+8:51PM INF Loaded ruleset name=deprecated-future.rego
+__________________________________________________________________________________________
+>>> Deprecated APIs removed in 1.25 <<<
+------------------------------------------------------------------------------------------
+KIND                NAMESPACE     NAME                           API_VERSION      REPLACE_WITH (SINCE)
+PodSecurityPolicy   <undefined>   aws-node-termination-handler   policy/v1beta1   <removed> (1.21.0)
+PodSecurityPolicy   <undefined>   eks.privileged                 policy/v1beta1   <removed> (1.21.0)
+```
+
+### Pluto
+
 Install FairwindsOps [Pluto](https://pluto.docs.fairwinds.com/).
 
-Quickly using [DevOps-Bash-tools](devops-bash-tools.md):
+On Mac using [Homebrew](brew.md):
+
+```shell
+brew info pluto
+```
+
+Or latest GitHub release using [DevOps-Bash-tools](devops-bash-tools.md):
 
 ```shell
 install_pluto.sh
