@@ -6,6 +6,7 @@ NOT PORTED YET
 
 - [EKS on Fargate](#eks-on-fargate)
 - [EKS Kubectl Access](#eks-kubectl-access)
+- [Get Cluster Version](#get-cluster-version)
 - [Grant IAM Roles EKS Access](#grant-iam-roles-eks-access)
   - [Newer Native IAM Method](#newer-native-iam-method)
   - [Old ConfigMap Method](#old-configmap-method)
@@ -55,6 +56,12 @@ kubectl get pods --all-namespaces
 ```
 
 Then see [Kubernetes](kubernetes.md) page for configs, scripts and `.envrc`.
+
+## Get Cluster Version
+
+```shell
+aws eks describe-cluster --name "$EKS_CLUSTER" --query "cluster.version" --output text
+```
 
 ## Grant IAM Roles EKS Access
 
@@ -296,6 +303,8 @@ kubectl get nodes
 ```
 
 ### Upgrade Add-Ons
+
+<https://docs.aws.amazon.com/eks/latest/userguide/updating-an-add-on.html>
 
 Update Add-ons:
 
