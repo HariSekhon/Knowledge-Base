@@ -290,6 +290,12 @@ Output should look like this:
 
 Review EKS cluster insights for issues that may affect upgrade:
 
+<https://console.aws.amazon.com/eks/home#/clusters>
+
+Select the cluster and then click on `Upgrade insights`.
+
+On the CLI:
+
 ```shell
 aws eks list-insights --cluster-name "$EKS_CLUSTER"
 ```
