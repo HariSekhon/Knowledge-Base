@@ -210,6 +210,8 @@ kubectl get pods -n addons
 
 <https://docs.aws.amazon.com/eks/latest/userguide/update-cluster.html>
 
+<https://docs.aws.amazon.com/eks/latest/best-practices/cluster-upgrades.html>
+
 Upgrades must be done from one minor version to the next in sequence.
 
 1. [Update Deprecated / Removed API objects](#update-deprecated--removed-api-objects)
