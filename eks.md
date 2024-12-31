@@ -188,6 +188,12 @@ List `eksctl` installed EKS cluster addons (may not show ones installed by chart
 eksctl get addons --cluster "$EKS_CLUSTER"
 ```
 
+or
+
+```shell
+aws eks list-addons --cluster-name "$EKS_CLUSTER" --query 'addons[].addonName' --output text
+```
+
 List version of a specific addon:
 
 ```shell
