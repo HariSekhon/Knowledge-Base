@@ -208,6 +208,8 @@ kubectl get pods -n addons
 
 ## EKS Cluster Upgrade
 
+<https://docs.aws.amazon.com/eks/latest/userguide/update-cluster.html>
+
 1. [Update Deprecated / Removed API objects](#update-deprecated--removed-api-objects)
 1. [Upgrade the Control Plane](#upgrade-control-plane)
 1. [Upgrade EKS Node groups](#upgrade-worker-nodes)
