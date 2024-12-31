@@ -340,6 +340,12 @@ See the [Kubernetes Upgrades](kubernetes-upgrades.md) page for tools to give you
 ]
 ```
 
+You can get more details on the actual API objects:
+
+```shell
+aws eks describe-insight --cluster-name "$EKS_CLUSTER" --id "$INSIGHT_ID"  # from the last command output
+```
+
 ### Upgrade Control Plane - Master Nodes
 
 Check the current EKS version:
