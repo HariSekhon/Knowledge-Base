@@ -134,7 +134,7 @@ svg_to_png.sh "$name.svg"
 
 Useful for tweaking Screenshots before sharing them.
 
-You can use Imagemagick to do this from the command line more easily than using Gimp etc.
+You can use Imagemagick to do this from the command line more easily than using Gimp.
 
 Use this script from [DevOps-Bash-tools](devops-bash-tools.md) repo,
 as it's easier than using UI tools like Gimp or even ImageMagick directly etc.
