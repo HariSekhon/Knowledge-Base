@@ -1767,6 +1767,9 @@ Don't got to Vietnam in the winter - it is not Thailand, it is cold and you will
   beef noodles are really good, and also the orange lemongrass peach iced tea
 - [Hidden Alley](https://maps.app.goo.gl/uCTs4Xji1J4kubf47) - hidden gem, great interior with low lighting,
   interesting menu and wifi
+- [Aroi Dessert Cafe](https://maps.app.goo.gl/YDd36mNVNmnx84zYA) -
+  open 24 hours with good upper level seating as well as street seating, not only until 10:30pm as Google says.
+  The `Aroi Dessert Cafe` wifi runs out of IP addresses, ask them for the password for the `Aroi Staff` wifi instead
 - [Le Monde Steak](https://maps.app.goo.gl/C3AZkhWGYY7CfUAo8) - steaks, pasta, good drinks, reasonable prices and wifi
 - [Hong Haoi](https://maps.app.goo.gl/tHagvFRbC1Ugm9dJA) - popular restaurant in Old Town, small and busy.
   The recommended fried fish is good and the juice is fresh squeezed,
