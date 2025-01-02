@@ -136,7 +136,8 @@ Useful for tweaking Screenshots before sharing them.
 
 You can use Imagemagick to do this from the command line more easily than using Gimp etc.
 
-Use this script from [DevOps-Bash-tools](devops-bash-tools.md) repo, as it's easier than using UI tools like Gimp etc.
+Use this script from [DevOps-Bash-tools](devops-bash-tools.md) repo,
+as it's easier than using UI tools like Gimp or even ImageMagick directly etc.
 
 ```shell
 image_trim_pixels.sh "$image" <top|bottom|left|right> "$num_pixels"
