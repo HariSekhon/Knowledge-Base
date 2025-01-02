@@ -9,8 +9,7 @@ Media file analysis, editing, transcoding and conversions.
   - [Check & Change the default Application for a given file type](#check--change-the-default-application-for-a-given-file-type)
   - [Convert Webp to PNG format](#convert-webp-to-png-format)
   - [Convert SVG to PNG format](#convert-svg-to-png-format)
-  - [Trim a Couple Pixels off the Right of an Image](#trim-a-couple-pixels-off-the-right-of-an-image)
-  - [Trim a Couple Pixels off the Top of an Image](#trim-a-couple-pixels-off-the-top-of-an-image)
+  - [Trim Pixels off one side of an Image](#trim-pixels-off-one-side-of-an-image)
   - [Join Two Images Together](#join-two-images-together)
   - [Create Animated GIFs of Commands](#create-animated-gifs-of-commands)
   - [Inspect Image File Metadata](#inspect-image-file-metadata)
@@ -131,41 +130,17 @@ which will find / install and use one of the above tools and protect against ove
 svg_to_png.sh "$name.svg"
 ```
 
-### Trim a Couple Pixels off the Right of an Image
+### Trim Pixels off one side of an Image
 
-Useful for Screenshots.
+Useful for tweaking Screenshots before sharing them.
 
 You can use Imagemagick to do this from the command line more easily than using Gimp etc.
 
-The output image must come at the end.
-
-Auto-generate the "$output_image" variable from the "$image" name to have a `.trimmed` just before
-the file extension:
+Use this script from [DevOps-Bash-tools](devops-bash-tools.md) repo, as it's easier than using UI tools like Gimp etc.
 
 ```shell
-image_base="${image%.*}"
-ext="${image##*.}"
-output_image="$image_base.trimmed.$ext"
+image_trim_pixels.sh "$image" <top|bottom|left|right> "$num_pixels"
 ```
-
-```shell
-magick "$image" -gravity East -chop 2x0 "$output_image"
-```
-
-`-gravity East` tells it to keep to the left - like driving in the UK!
-
-### Trim a Couple Pixels off the Top of an Image
-
-Useful for Screenshots.
-
-```shell
-magick "$image" -crop +0+2 +repage "$output_image"
-```
-
-`-crop +0+2` tells ImageMagick to leave the width (0), but shift the image down by 2 pixels (+2),
-effectively trimming 2 pixels from the top.
-
-`+repage` resets the virtual canvas metadata, so it doesn't retain the original canvas size.
 
 ### Join Two Images Together
 
