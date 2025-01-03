@@ -182,7 +182,9 @@ column -t
 
 1. Upgrade Master Control Plane nodes
 1. Upgrade Workers nodes
-1. Upgrade Add-Ons (DNS, Cluster Autoscaler / Karpenter etc.)
+1. Upgrade Add-Ons:
+   1. DNS
+   1. Cluster Autoscaler / [Karpenter](https://karpenter.sh/docs/upgrading/upgrade-guide/)
 
 ### AWS EKS Cluster Upgrade
 
