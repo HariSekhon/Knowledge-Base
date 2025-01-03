@@ -1768,6 +1768,8 @@ Don't got to Vietnam in the winter - it is not Thailand, it is cold and you will
 
 - [Mình ơiii!](https://maps.app.goo.gl/863GxZHZ6r25ocM69) - small venue, summer rolls prawn were sold out,
   udon noodle pork soup was small but great, and the spring rolls come very hot fresh and crispy, fair prices too
+- [Saltfee](https://maps.app.goo.gl/hXC6XCDmBDemKJAV9) - the Guaberry iced tea is very nice, has wifi and a
+  small balcony overlooking the street on the upper level
 - [Puku Cafe & Bar](https://maps.app.goo.gl/srUuuBWUHQN8KDKn7) - 24x7 with wifi and reasonable prices, the stir fried
   beef noodles are really good, and also the orange lemongrass peach iced tea
 - [Hidden Alley](https://maps.app.goo.gl/uCTs4Xji1J4kubf47) - hidden gem, great interior with low lighting,
