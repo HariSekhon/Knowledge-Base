@@ -1772,7 +1772,8 @@ Don't got to Vietnam in the winter - it is not Thailand, it is cold and you will
   small balcony overlooking the street on the upper level
 - [Hidden Alley](https://maps.app.goo.gl/uCTs4Xji1J4kubf47) - hidden gem, great interior with low lighting,
   interesting menu and wifi
-- [Laika Cafe](https://maps.app.goo.gl/DNCerEaNfxDj1J2h8) - interesting drinks menu, outdoor terrace seating and wifi
+- [Laika Cafe](https://maps.app.goo.gl/DNCerEaNfxDj1J2h8) - interesting drinks menu, outdoor terrace seating and wifi.
+  The plum ice cream tea with jelly pieces was surprisingly good!
 - [Puku Cafe & Bar](https://maps.app.goo.gl/srUuuBWUHQN8KDKn7) - 24x7 with wifi and reasonable prices, the stir fried
   beef noodles are really good, and also the orange lemongrass peach iced tea
 - [Aroi Dessert Cafe](https://maps.app.goo.gl/YDd36mNVNmnx84zYA) -
