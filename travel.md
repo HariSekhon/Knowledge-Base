@@ -167,7 +167,7 @@ and cheaper on the same flights too
 
 [Kayak.com](https://www.kayak.com/) - even cheaper than SkyScanner and had cheaper flights not found on Expedia
 
-[Booking.com](https://www.booking) - cheaper and more hotels than Expedia
+[Booking.com](https://www.booking.com) - cheaper and more hotels than Expedia
 
 [Expedia](https://expedia.co.uk) - LEGACY DO NOT USE.
 Was my usual go to as it usually had the most options at the last minute, until SkyScanner and Kayak
