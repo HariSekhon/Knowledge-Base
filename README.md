@@ -263,6 +263,7 @@ This one is used widely throughout these pages:
 #### Cloud Hosted Kubernetes
 
 - [AWS EKS](eks.md) TODO
+  - [EKS Upgrades](eks-upgrades.md)
 - [GKE](gke.md) TODO
 - [AKS](aks.md) TODO
 - [Karpenter](karpenter.md)
