@@ -184,7 +184,8 @@ column -t
 1. Upgrade Workers nodes
 1. Upgrade Add-Ons:
    1. DNS
-   1. Cluster Autoscaler / [Karpenter](https://karpenter.sh/docs/upgrading/upgrade-guide/)
+   1. Cluster [Autoscaler](https://github.com/kubernetes/autoscaler/releases) /
+      [Karpenter](https://karpenter.sh/docs/upgrading/upgrade-guide/)
 
 ### AWS EKS Cluster Upgrade
 
