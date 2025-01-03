@@ -183,7 +183,7 @@ column -t
 1. Upgrade Master Control Plane nodes
 1. Upgrade Workers nodes
 1. Upgrade Add-Ons:
-   1. DNS
+   1. [Core DNS](https://github.com/coredns/coredns)
    1. Cluster [Autoscaler](https://github.com/kubernetes/autoscaler/releases) /
       [Karpenter](https://karpenter.sh/docs/upgrading/upgrade-guide/)
 
