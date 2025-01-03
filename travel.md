@@ -1764,7 +1764,7 @@ Don't got to Vietnam in the winter - it is not Thailand, it is cold and you will
 #### Hanoi
 
 - [Mình ơiii!](https://maps.app.goo.gl/863GxZHZ6r25ocM69) - small venue, summer rolls prawn were sold out,
-  udon noodle pork soup was small but great, and the spring rolls come very hot fresh and crispy
+  udon noodle pork soup was small but great, and the spring rolls come very hot fresh and crispy, fair prices too
 - [Puku Cafe & Bar](https://maps.app.goo.gl/srUuuBWUHQN8KDKn7) - 24x7 with wifi and reasonable prices, the stir fried
   beef noodles are really good, and also the orange lemongrass peach iced tea
 - [Hidden Alley](https://maps.app.goo.gl/uCTs4Xji1J4kubf47) - hidden gem, great interior with low lighting,
