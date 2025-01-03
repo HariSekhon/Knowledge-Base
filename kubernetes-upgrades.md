@@ -18,6 +18,8 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
 
 ## Check for Deprecated API objects
 
+[Kubernetes Deprecation Policy](https://kubernetes.io/docs/reference/using-api/deprecation-policy/)
+
 Any apps using deprecated API objects will need to be upgraded first.
 
 Check using more than one tool in case they give you slightly different results
