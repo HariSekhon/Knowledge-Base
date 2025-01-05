@@ -511,7 +511,7 @@ get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return 
 Some more specific tips for different countries.
 
 Number of Countries: 26
-Countries in 2024: - 17 - UAE, France, Belgium, Germany, Poland, Lithuania, Latvia, Estonia, Sweden, Slovakia, Hungary, Serbia, Morocco, Turkey, Georgia, Thailand, Vietnam - not counting England and Wales (the latter aws borderline)
+Countries in 2024: - 18 - UAE, France, Belgium, Germany, Poland, Lithuania, Latvia, Estonia, Sweden, Slovakia, Hungary, Serbia, Morocco, Moldova, Turkey, Georgia, Thailand, Vietnam - not counting England and Wales (the latter aws borderline)
 
 ### Austria
 
