@@ -143,20 +143,38 @@ checkov -f tf.json
 
 ## Vendor Code
 
-**Do not accept** vendor code unless all it passes **ALL** of the following points:
+**Do not accept** vendor code unless it passes **ALL** of the following points:
 
 - it's in the same format as your internal code base eg. Terraform vs Terragrunt
 - using standard modules from the [Hashicorp registry](https://registry.terraform.io/)
   eg. [hashicorp/aws](https://registry.terraform.io/providers/hashicorp/aws)
-- has passed all Checkov checks
+- has passed all Checkov checks and / or any other linting / security tools your use
 
 Otherwise you'll lose tonnes of time:
 
 - migrating from Terraform to Terragunt modules
 - migrating from custom modules to official portable modules to match the rest of your code base
+- migrating from Terraform embedded Helm to standard ArgoCD deployment using Kustomize or Helm normally
 - inheriting problems in the migrations above
 - debugging and fixing their code
 
-Even stupidly simple things like an S3 bucket will then fail your Checkov PR checks for not having KMS encryption
-and you'll have to go add that by yourself, or your ElastiCache node type won't be specified because it wasn't properly
-tested and ready to run and you won't know what `node_type` to set for it.
+Even simple things like an S3 bucket will then fail your Checkov PR checks for things like:
+
+- not having KMS encryption, you'll have to go create that, add the dependency and reference it yourself
+- public ACLs tripping Checkov, even if the bucket really is supposed to be public
+  - this may also blocked at the AWS Control Tower guardrail policy level, such that you cannot use public buckets
+  - the workaround I did in one project was to use CloudFront in front of the bucket
+- you'll miss minor details while trying to manually migrate the whole code base, eg.
+  missing a small `aws_elasticache_cache` vs `aws_elasticache_serverless_cache` resource will leave you
+  migrating to the standard AWS elasticache module defaulting to the wrong type and end up with errors like:
+
+```shell
+Error: "node_type" is required unless "global_replication_group_id" is set.
+```
+
+Leaving you wondering what the `node_type` should be, instead of realizing you're using the wrong module.
+
+If they had used the module in the first place your brain wouldn't be fried from migrating all their modules and then
+miss a detail like this.
+
+It's all just extra problems you don't need.
