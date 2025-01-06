@@ -1,8 +1,8 @@
 # EKS Cluster Upgrade
 
-<https://docs.aws.amazon.com/eks/latest/userguide/update-cluster.html>
+[EKS UserGuid - Update Cluster](https://docs.aws.amazon.com/eks/latest/userguide/update-cluster.html)
 
-<https://docs.aws.amazon.com/eks/latest/best-practices/cluster-upgrades.html>
+[EKS Best Practices - Cluster Upgrades](https://docs.aws.amazon.com/eks/latest/best-practices/cluster-upgrades.html)
 
 Upgrades must be done from one minor version to the next in sequence.
 
@@ -169,6 +169,8 @@ See the [Kubernetes Upgrades](kubernetes-upgrades.md) page for easier to use too
 
 ### Upgrade Control Plane - Master Nodes
 
+You can click `Upgrade Now` in the AWS Console UI, or use the AWS CLI.
+
 Check the current EKS version:
 
 ```shell
@@ -187,7 +189,7 @@ or
 aws eks update-cluster-version --name "$EKS_CLUSTER" --kubernetes-version "$TARGET_VERSION"
 ```
 
-Monitor the progress using this command or the AWS UI:
+Monitor the progress using this command or the AWS Console UI:
 
 (set the `$UPGRADE_ID` from the output of the above command)
 
