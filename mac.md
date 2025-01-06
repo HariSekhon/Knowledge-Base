@@ -71,6 +71,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Troubleshooting](#troubleshooting)
   - [Various Applications Fail to Open](#various-applications-fail-to-open)
 - [Relevant GitHub Repos](#relevant-github-repos)
+- [Meme](#meme)
 
 <!-- INDEX_END -->
 
@@ -910,5 +911,9 @@ Reboot.
 ## Relevant GitHub Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
+## Meme
+
+![Mac User Been Here](images/mac_user_been_here_ds_store.jpeg)
 
 **Ported from various private Knowledge Base pages 2010+**
