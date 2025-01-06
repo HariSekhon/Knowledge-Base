@@ -150,7 +150,10 @@ checkov -f tf.json
   eg. [hashicorp/aws](https://registry.terraform.io/providers/hashicorp/aws)
 - has passed all Checkov checks and / or any other linting / security tools your use
 
-Otherwise you'll lose tonnes of time:
+If you don't enforce good practices on the vendor code base before accepting it,
+you'll inherit more problems than you can see and accurately estimate just by reading their code base.
+
+You'll lose tonnes of time:
 
 - migrating from Terraform to Terragunt modules
 - migrating from custom modules to official portable modules to match the rest of your code base
@@ -176,5 +179,3 @@ Leaving you wondering what the `node_type` should be, instead of realizing you'r
 
 If they had used the module in the first place your brain wouldn't be fried from migrating all their modules and then
 miss a detail like this.
-
-It's all just extra problems you don't need.
