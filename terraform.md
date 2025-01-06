@@ -143,6 +143,8 @@ checkov -f tf.json
 
 ## Vendor Code
 
+Lessons learnt the hard way from the real life project.
+
 **Do not accept** vendor code unless it passes **ALL** of the following points:
 
 - it's in the same format as your internal code base eg. Terraform vs Terragrunt
