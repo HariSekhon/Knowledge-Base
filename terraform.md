@@ -180,4 +180,4 @@ Error: "node_type" is required unless "global_replication_group_id" is set.
 Leaving you wondering what the `node_type` should be, instead of realizing you're using the wrong module.
 
 If they had used the module in the first place your brain wouldn't be fried from migrating all their modules and then
-miss a detail like this.
+missing a detail like this.
