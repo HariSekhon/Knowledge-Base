@@ -206,7 +206,7 @@ Ensure the pods are spread so a worker node restart doesn't take down multiple r
 
 ## Cluster Upgrade
 
-Optional: back up cluster above.
+Optional: back up cluster (above).
 
 1. Upgrade Master Control Plane nodes
 1. Upgrade Workers nodes
