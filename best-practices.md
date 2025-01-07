@@ -30,7 +30,8 @@ This includes:
 - make things easy to install
 - make things easy to maintain
 - use automation where ever reasonable
-- document your work
+- document your work concisely
+- use diagrams where possible
 
 ## Budget vs Reality
 
