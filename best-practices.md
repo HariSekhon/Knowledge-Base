@@ -27,9 +27,9 @@
 
 This includes:
 
-- making things easy to install
-- making things easy to maintain
-- use automation whereever reasonable
+- make things easy to install
+- make things easy to maintain
+- use automation where ever reasonable
 - document your work
 
 ## Budget vs Reality
