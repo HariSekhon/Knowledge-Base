@@ -10,6 +10,10 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
   - [Deprecated APIs Metrics](#deprecated-apis-metrics)
   - [Kubectl Convert](#kubectl-convert)
 - [PSP - Pod Security Policies](#psp---pod-security-policies)
+- [Ensure High Availability](#ensure-high-availability)
+  - [Pod Disruption Budgets](#pod-disruption-budgets)
+  - [Topology Spread Constraints](#topology-spread-constraints)
+- [Cluster Backup](#cluster-backup)
 - [Cluster Upgrade](#cluster-upgrade)
   - [AWS EKS Cluster Upgrade](#aws-eks-cluster-upgrade)
 - [Meme](#meme)
@@ -180,7 +184,29 @@ kubectl get pod -A \
 column -t
 ```
 
+## Ensure High Availability
+
+Ensure High Availability of your Kubernetes apps to ensure they don't go down during rolling upgrade of worker nodes.
+
+### Pod Disruption Budgets
+
+Ensure enough pods stay up at all times.
+
+<https://kubernetes.io/docs/concepts/workloads/pods/disruptions/#pod-disruption-budgets>
+
+### Topology Spread Constraints
+
+Ensure the pods are spread so a worker node restart doesn't take down multiple replicas.
+
+<https://kubernetes.io/docs/concepts/scheduling-eviction/topology-spread-constraints/>
+
+## Cluster Backup
+
+[:octocat: vmware-tanzu/velero](https://github.com/vmware-tanzu/velero)
+
 ## Cluster Upgrade
+
+Optional: back up cluster above.
 
 1. Upgrade Master Control Plane nodes
 1. Upgrade Workers nodes
