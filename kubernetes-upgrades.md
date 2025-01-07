@@ -13,7 +13,7 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
 - [Ensure High Availability](#ensure-high-availability)
   - [Pod Disruption Budgets](#pod-disruption-budgets)
   - [Topology Spread Constraints](#topology-spread-constraints)
-- [Cluster Backup](#cluster-backup)
+- [Ensure No Docker Socket Usage](#ensure-no-docker-socket-usage)
 - [Cluster Upgrade](#cluster-upgrade)
   - [AWS EKS Cluster Upgrade](#aws-eks-cluster-upgrade)
 - [Meme](#meme)
@@ -200,9 +200,26 @@ Ensure the pods are spread so a worker node restart doesn't take down multiple r
 
 <https://kubernetes.io/docs/concepts/scheduling-eviction/topology-spread-constraints/>
 
-## Cluster Backup
+## Ensure No Docker Socket Usage
 
-[:octocat: vmware-tanzu/velero](https://github.com/vmware-tanzu/velero)
+[:octocat: aws-containers/kubectl-detector-for-docker-socket](https://github.com/aws-containers/kubectl-detector-for-docker-socket)
+
+If upgrading to Kubernetes 1.25, Docker socket usage is removed.
+
+Find any pods still using Docker socket.
+
+Install [Krew](kubernetes.md#krew---kubectl-plugin-manager) and then use it to install
+[kubectl-detector-for-docker-socket](https://github.com/aws-containers/kubectl-detector-for-docker-socket):
+
+```shell
+kubectl krew install dds
+```
+
+and scan all pods for Docker socket usage:
+
+```shell
+kubectl dds
+```
 
 ## Cluster Upgrade
 
