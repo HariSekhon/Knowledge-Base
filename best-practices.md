@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [The Cardinal Rule of IT](#the-cardinal-rule-of-it)
 - [Budget vs Reality](#budget-vs-reality)
 - [High Availability and Multi-Datacenter](#high-availability-and-multi-datacenter)
 - [Use Version Control for Everything Textual - Code, Configs & Docs](#use-version-control-for-everything-textual---code-configs--docs)
@@ -19,6 +20,17 @@
   - [GitHub Actions CI/CD Best Practices](#github-actions-cicd-best-practices)
 
 <!-- INDEX_END -->
+
+## The Cardinal Rule of IT
+
+**Make things simple for other people.**
+
+This includes:
+
+- making things easy to install
+- making things easy to maintain
+- use automation whereever reasonable
+- document your work
 
 ## Budget vs Reality
 
