@@ -28,7 +28,10 @@
   - [KEDA - Kubernetes Event-Driven Autoscaling](#keda---kubernetes-event-driven-autoscaling)
 - [Tips](#tips)
   - [K9s](#k9s)
+  - [Increase StatefulSet disk size](#increase-statefulset-disk-size)
   - [Quick Port-Forwarding to a Pod](#quick-port-forwarding-to-a-pod)
+  - [Krew - Kubectl Plugin Manager](#krew---kubectl-plugin-manager)
+- [Cluster Backup](#cluster-backup)
 - [Troubleshooting](#troubleshooting)
   - [Capture Pod Logs & Stats](#capture-pod-logs--stats)
   - [Killing a Namespace that's stuck](#killing-a-namespace-thats-stuck)
@@ -228,6 +231,11 @@ Monitors the pod resource usage, gives recommendations for right-sizing, can adj
 
 <https://k9scli.io/>
 
+### Increase StatefulSet disk size
+
+See [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md#increase-jenkins-server-disk-space-on-kubernetes) doc
+for a real world example.
+
 ### Quick Port-Forwarding to a Pod
 
 In most cases you should `kubectl port-forward` to a service, but in cases where you need a specific pod or no service
@@ -252,6 +260,28 @@ to make the command shorter:
 ```shell
 kubectl_port_forward_spark.sh "$NAMESPACE"
 ```
+
+### Krew - Kubectl Plugin Manager
+
+[:octocat: https://github.com/kubernetes-sigs/krew](kubernetes-sigs/krew)
+
+<https://krew.sigs.k8s.io/>
+
+Installs and updates `kubectl` plugins.
+
+From [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+install_kubectl_plugin_krew.sh
+```
+
+Usage instructions:
+
+[Krew Quickstart User Guide](https://krew.sigs.k8s.io/docs/user-guide/quickstart/)
+
+## Cluster Backup
+
+[:octocat: vmware-tanzu/velero](https://github.com/vmware-tanzu/velero)
 
 ## Troubleshooting
 
