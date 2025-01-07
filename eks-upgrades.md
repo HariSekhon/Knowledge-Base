@@ -8,14 +8,18 @@ Upgrades must be done from one minor version to the next in sequence.
 
 <!-- INDEX_START -->
 
-  - [Update Deprecated / Removed API objects](#update-deprecated--removed-api-objects)
-  - [Pre-Requisite Checks](#pre-requisite-checks)
-  - [Upgrade Control Plane - Master Nodes](#upgrade-control-plane---master-nodes)
-  - [Upgrade Add-Ons](#upgrade-add-ons)
-  - [Upgrade Data Plane - Worker Nodes](#upgrade-data-plane---worker-nodes)
-    - [Managed Node Groups](#managed-node-groups)
-    - [Self-Managed Nodes](#self-managed-nodes)
-  - [Verify Workloads](#verify-workloads)
+- [Update Deprecated / Removed API objects](#update-deprecated--removed-api-objects)
+- [Pre-Requisite Checks](#pre-requisite-checks)
+  - [Generic Kubernetes Upgrade Checks](#generic-kubernetes-upgrade-checks)
+  - [Ensure at least 5 Free IPs Available](#ensure-at-least-5-free-ips-available)
+  - [Check the IAM role has assume role for your account](#check-the-iam-role-has-assume-role-for-your-account)
+  - [Review EKS cluster insights for issues that may affect upgrade](#review-eks-cluster-insights-for-issues-that-may-affect-upgrade)
+- [Upgrade Control Plane - Master Nodes](#upgrade-control-plane---master-nodes)
+- [Upgrade Add-Ons](#upgrade-add-ons)
+- [Upgrade Data Plane - Worker Nodes](#upgrade-data-plane---worker-nodes)
+  - [Managed Node Groups](#managed-node-groups)
+  - [Self-Managed Nodes](#self-managed-nodes)
+- [Verify Workloads](#verify-workloads)
 
 <!-- INDEX_END -->
 
@@ -23,13 +27,19 @@ If you're using my [DirEnv](direnv.md) [configurations](https://github.com/HariS
 should have edited the `EKS_CLUSTER` setting so that it is automatically set when you cd to the right directory,
 otherwise set the environment variable manually in your shell.
 
-### Update Deprecated / Removed API objects
+## Update Deprecated / Removed API objects
 
 See the [Kubernetes Upgrades](kubernetes-upgrades.md) page covering this for Kubernetes clusters on any platform.
 
-### Pre-Requisite Checks
+## Pre-Requisite Checks
 
-Check there are at least 5 IPs available in the EKS subnets:
+### Generic Kubernetes Upgrade Checks
+
+See the [Kubernetes Upgrades](kubernetes-upgrades.md) page for easier to use tools with nicer outputs like Pluto.
+
+### Ensure at least 5 Free IPs Available
+
+Check there are at least 5 free IPs are available in the EKS subnets:
 
 ```shell
 aws ec2 describe-subnets --subnet-ids \
@@ -46,7 +56,7 @@ or use from [DevOps-Bash-tools](devops-bash-tools.md):
 aws_eks_available_ips.sh <cluster>
 ```
 
-Check the IAM role has assume role for your account:
+### Check the IAM role has assume role for your account
 
 ```shell
 ROLE_ARN="$(
@@ -80,7 +90,7 @@ Output should look like this:
 }
 ```
 
-Review EKS cluster insights for issues that may affect upgrade:
+### Review EKS cluster insights for issues that may affect upgrade
 
 <https://console.aws.amazon.com/eks/home#/clusters>
 
@@ -165,9 +175,7 @@ echo "Query started (query id: $QUERY_ID), please hold ..." && sleep 5 # give it
 aws logs get-query-results --query-id $QUERY_ID
 ```
 
-See the [Kubernetes Upgrades](kubernetes-upgrades.md) page for easier to use tools with nicer outputs like Pluto.
-
-### Upgrade Control Plane - Master Nodes
+## Upgrade Control Plane - Master Nodes
 
 You can click `Upgrade Now` in the AWS Console UI, or use the AWS CLI.
 
@@ -197,7 +205,7 @@ Monitor the progress using this command or the AWS Console UI:
 aws eks describe-update --name "$EKS_CLUSTER" --update-id "$UPDATE_ID"
 ```
 
-### Upgrade Add-Ons
+## Upgrade Add-Ons
 
 <https://docs.aws.amazon.com/eks/latest/userguide/updating-an-add-on.html>
 
@@ -230,9 +238,9 @@ aws eks update-addon \
     —resolve-conflicts PRESERVE
 ```
 
-### Upgrade Data Plane - Worker Nodes
+## Upgrade Data Plane - Worker Nodes
 
-#### Managed Node Groups
+### Managed Node Groups
 
 Cordon nodes to have them drained of pods and prevent new pod scheduling:
 
@@ -254,7 +262,7 @@ Monitor the progress using this command or the AWS UI:
 aws eks describe-update --cluster-name "$EKS_CLUSTER" --nodegroup-name "$NODE_GROUP" --update-id "$UPDATE_ID"
 ```
 
-#### Self-Managed Nodes
+### Self-Managed Nodes
 
 For each node...
 
@@ -288,7 +296,7 @@ Verify the node versions:
 kubectl get nodes
 ```
 
-### Verify Workloads
+## Verify Workloads
 
 Check your pods are running ok:
 
