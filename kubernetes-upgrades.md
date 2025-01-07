@@ -184,6 +184,8 @@ kubectl get pod -A \
 column -t
 ```
 
+You can ignore `eks.privileged` - AWS EKS will automatically migrate that for you on upgrade.
+
 ## Ensure High Availability
 
 Ensure High Availability of your Kubernetes apps to ensure they don't go down during rolling upgrade of worker nodes.
