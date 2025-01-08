@@ -14,6 +14,7 @@ NOT PORTED YET
 - [EKS Resizeable Disk](#eks-resizeable-disk)
 - [EKS Cluster AddOns](#eks-cluster-addons)
 - [EKS Cluster Upgrades](#eks-cluster-upgrades)
+- [Extended Support](#extended-support)
 
 <!-- INDEX_END -->
 
@@ -207,3 +208,15 @@ kubectl get pods -n addons
 ## EKS Cluster Upgrades
 
 See the [EKS Cluster Upgrades](eks-upgrades.md) doc.
+
+## Extended Support
+
+[UserGuide - Extended Support](https://docs.aws.amazon.com/eks/latest/userguide/disable-extended-support.html)
+
+Extended support costs more, you may want to switch to standard support.
+
+Note: this will force upgrades earlier when the cluster version falls out of standard support.
+
+```shell
+aws eks update-cluster-config --name "$EKS_CLUSTER" --upgrade-policy supportType=STANDARD
+```
