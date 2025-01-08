@@ -19,14 +19,24 @@ This is more recently updated than [tgenv](https://github.com/cunymatthieu/tgenv
 
 <https://github.com/warrensbox/tgswitch?tab=readme-ov-file#installation>
 
+On Mac:
+
 ```shell
 brew install warrensbox/tap/tgswitch
 ```
 
-or
+On Linux:
+
+The repo's installer script tries to install to `/usr/local/bin/` and gets permission denied on Linux:
 
 ```shell
 curl -L https://raw.githubusercontent.com/warrensbox/tgswitch/release/install.sh | bash
+```
+
+Instead use this script from [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+```shell
+install_tgswitch.sh
 ```
 
 ## Usage
