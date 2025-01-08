@@ -54,8 +54,13 @@ NOT PORTED YET
 
 ### Install AWS CLI
 
-Follow the [install doc](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
-or paste this to run an automated install script which auto-detects and handles Mac or Linux:
+[Install doc](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+
+```shell
+brew upgrade awscli
+```
+
+or run this install script which auto-detects and handles Mac or Linux installs:
 
 ```shell
 git clone https://github.com/HariSekhon/DevOps-Bash-tools
