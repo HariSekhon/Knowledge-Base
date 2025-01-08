@@ -175,6 +175,34 @@ echo "Query started (query id: $QUERY_ID), please hold ..." && sleep 5 # give it
 aws logs get-query-results --query-id $QUERY_ID
 ```
 
+### eksup
+
+<https://clowdhaus.github.io/>
+
+[:octocat: clowdhaus/eksup](https://github.com/clowdhaus/eksup)
+
+```shell
+brew install clowdhaus/taps/eksup
+```
+
+or download binary release easily from [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+install_eksup.sh
+```
+
+Run analyze, needs region, doesn't automatically pick up the `$AWS_DEFAULT_REGION`:
+
+```shell
+eksup analyze --cluster "$EKS_CLUSTER" --region "${AWS_DEFAULT_REGION:-eu-west-1}"
+```
+
+Hit [bug](https://github.com/clowdhaus/eksup/issues/46):
+
+```text
+Error: Launch template not found, launch configuration is not supported
+```
+
 ## Upgrade Control Plane - Master Nodes
 
 You can click `Upgrade Now` in the AWS Console UI, or use the AWS CLI.
