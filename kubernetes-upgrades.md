@@ -5,6 +5,7 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
 <!-- INDEX_START -->
 
 - [Pre-Requisite Checks](#pre-requisite-checks)
+  - [Check the Changlog](#check-the-changlog)
   - [Ensure Worker Nodes are Already Running the Same Version](#ensure-worker-nodes-are-already-running-the-same-version)
   - [Check for Deprecated API objects](#check-for-deprecated-api-objects)
     - [Kube-No-Trouble](#kube-no-trouble)
@@ -27,6 +28,12 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
 <!-- INDEX_END -->
 
 ## Pre-Requisite Checks
+
+### Check the Changlog
+
+To see what changed between versions:
+
+[Kubernetes Changlog](https://github.com/kubernetes/kubernetes/tree/master/CHANGELOG)
 
 ### Ensure Worker Nodes are Already Running the Same Version
 
