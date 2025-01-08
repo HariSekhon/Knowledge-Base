@@ -57,7 +57,7 @@ NOT PORTED YET
 [Install doc](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
 ```shell
-brew upgrade awscli
+brew install awscli
 ```
 
 or run this install script which auto-detects and handles Mac or Linux installs:
