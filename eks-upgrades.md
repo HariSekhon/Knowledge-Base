@@ -253,7 +253,7 @@ Test the resilience of apps on Kubernetes.
 
 ### Upgrade Control Plane - Master Nodes
 
-You can click `Upgrade Now` in the AWS Console UI, or use the AWS CLI.
+You can click `Upgrade Now` in the AWS Console UI, `eksctl` or AWS CLI.
 
 Check the current EKS version:
 
@@ -261,13 +261,13 @@ Check the current EKS version:
 aws eks describe-cluster --name "$EKS_CLUSTER" --query cluster.version --output text
 ```
 
-Initiate the Control Plane upgrade:
+Initiate the Control Plane upgrade using `eksctl`:
 
 ```shell
 eksctl upgrade cluster --name "$EKS_CLUSTER" --version "$TARGET_VERSION" --approve
 ```
 
-or
+or AWS CLI:
 
 ```shell
 aws eks update-cluster-version --name "$EKS_CLUSTER" --kubernetes-version "$TARGET_VERSION"
