@@ -14,6 +14,7 @@ Upgrades must be done from one minor version to the next in sequence.
   - [Ensure at least 5 Free IPs Available](#ensure-at-least-5-free-ips-available)
   - [Check the IAM role has assume role for your account](#check-the-iam-role-has-assume-role-for-your-account)
   - [Review EKS cluster insights for issues that may affect upgrade](#review-eks-cluster-insights-for-issues-that-may-affect-upgrade)
+  - [eksup](#eksup)
 - [Upgrade Control Plane - Master Nodes](#upgrade-control-plane---master-nodes)
 - [Upgrade Add-Ons](#upgrade-add-ons)
 - [Upgrade Data Plane - Worker Nodes](#upgrade-data-plane---worker-nodes)
