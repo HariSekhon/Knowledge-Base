@@ -264,7 +264,7 @@ aws eks describe-cluster --name "$EKS_CLUSTER" --query cluster.version --output 
 Initiate the Control Plane upgrade using `eksctl`:
 
 ```shell
-eksctl upgrade cluster --name "$EKS_CLUSTER" --version "$TARGET_VERSION" --approve
+eksctl upgrade cluster --name "$EKS_CLUSTER" --version "$TARGET_VERSION"  # --approve
 ```
 
 or AWS CLI:
