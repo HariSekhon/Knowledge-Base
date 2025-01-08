@@ -82,6 +82,14 @@ PodSecurityPolicy   <undefined>   aws-node-termination-handler   policy/v1beta1 
 PodSecurityPolicy   <undefined>   eks.privileged                 policy/v1beta1   <removed> (1.21.0)
 ```
 
+Notice the above output returns less than Pluto below, because it is only listed APIs removed in the next version.
+
+You get the complete results if you instead specified a much later version:
+
+```shell
+kubent --target-version 1.30
+```
+
 ### Pluto
 
 Install FairwindsOps [Pluto](https://pluto.docs.fairwinds.com/).
