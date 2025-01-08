@@ -7,13 +7,14 @@ NOT PORTED YET
 - [Best Practices](#best-practices)
 - [EKS on Fargate](#eks-on-fargate)
 - [EKS Kubectl Access](#eks-kubectl-access)
+- [Eksctl](#eksctl)
 - [Get Cluster Version](#get-cluster-version)
 - [AWS Load Balancer](#aws-load-balancer)
 - [Grant IAM Roles EKS Access](#grant-iam-roles-eks-access)
   - [Newer Native IAM Method](#newer-native-iam-method)
   - [Old ConfigMap Method](#old-configmap-method)
 - [EKS Resizeable Disk](#eks-resizeable-disk)
-- [EKS Cluster AddOns](#eks-cluster-addons)
+- [EKS Cluster Add-Ons](#eks-cluster-add-ons)
 - [EKS Cluster Upgrades](#eks-cluster-upgrades)
 - [Extended Support](#extended-support)
 
@@ -56,6 +57,18 @@ kubectl get pods --all-namespaces
 ```
 
 Then see [Kubernetes](kubernetes.md) page for configs, scripts and `.envrc`.
+
+## Eksctl
+
+The official CLI of EKS.
+
+Easier to use than [AWS CLI](aws.md#aws-cli) for EKS.
+
+From [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+install_eksctl.sh
+```
 
 ## Get Cluster Version
 
@@ -166,7 +179,7 @@ I've patched the default storage class in production and resized Atlantis data p
 [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md#increase-jenkins-server-disk-space-on-kubernetes)
 notes , it works.
 
-## EKS Cluster AddOns
+## EKS Cluster Add-Ons
 
 List clusters:
 
