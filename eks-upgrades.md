@@ -8,18 +8,22 @@ Upgrades must be done from one minor version to the next in sequence.
 
 <!-- INDEX_START -->
 
-- [Update Deprecated / Removed API objects](#update-deprecated--removed-api-objects)
+- [Version Specific Release Notes](#version-specific-release-notes)
 - [Pre-Requisite Checks](#pre-requisite-checks)
+  - [Update Deprecated / Removed API objects](#update-deprecated--removed-api-objects)
   - [Generic Kubernetes Upgrade Checks](#generic-kubernetes-upgrade-checks)
+  - [Enable Master logs to go to CloudWatch Logs](#enable-master-logs-to-go-to-cloudwatch-logs)
   - [Ensure at least 5 Free IPs Available](#ensure-at-least-5-free-ips-available)
   - [Check the IAM role has assume role for your account](#check-the-iam-role-has-assume-role-for-your-account)
   - [Review EKS cluster insights for issues that may affect upgrade](#review-eks-cluster-insights-for-issues-that-may-affect-upgrade)
   - [eksup](#eksup)
-- [Upgrade Control Plane - Master Nodes](#upgrade-control-plane---master-nodes)
-- [Upgrade Add-Ons](#upgrade-add-ons)
-- [Upgrade Data Plane - Worker Nodes](#upgrade-data-plane---worker-nodes)
-  - [Managed Node Groups](#managed-node-groups)
-  - [Self-Managed Nodes](#self-managed-nodes)
+  - [AWS Resilience Hub (Optional)](#aws-resilience-hub-optional)
+- [Upgrade](#upgrade)
+  - [Upgrade Control Plane - Master Nodes](#upgrade-control-plane---master-nodes)
+  - [Upgrade Add-Ons](#upgrade-add-ons)
+  - [Upgrade Data Plane - Worker Nodes](#upgrade-data-plane---worker-nodes)
+    - [Managed Node Groups](#managed-node-groups)
+    - [Self-Managed Nodes](#self-managed-nodes)
 - [Verify Workloads](#verify-workloads)
 
 <!-- INDEX_END -->
@@ -36,15 +40,14 @@ You must review these to see what changes are happening between versions that mi
 
 <https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions-extended.html>
 
+## Pre-Requisite Checks
 
-## Update Deprecated / Removed API objects
+### Update Deprecated / Removed API objects
 
 See the [Kubernetes Upgrades](kubernetes-upgrades.md) page covering finding deprecated / removed APIs for Kubernetes clusters
 on any platform.
 
 You will need to upgrade these applications to prevent breakages before upgrading the cluster.
-
-## Pre-Requisite Checks
 
 ### Generic Kubernetes Upgrade Checks
 
@@ -239,7 +242,15 @@ Hit [bug](https://github.com/clowdhaus/eksup/issues/46):
 Error: Launch template not found, launch configuration is not supported
 ```
 
-## Upgrade Control Plane - Master Nodes
+### AWS Resilience Hub (Optional)
+
+<https://aws.amazon.com/resilience-hub/>
+
+Test the resilience of apps on Kubernetes.
+
+## Upgrade
+
+### Upgrade Control Plane - Master Nodes
 
 You can click `Upgrade Now` in the AWS Console UI, or use the AWS CLI.
 
@@ -269,13 +280,22 @@ Monitor the progress using this command or the AWS Console UI:
 aws eks describe-update --name "$EKS_CLUSTER" --update-id "$UPDATE_ID"
 ```
 
-## Upgrade Add-Ons
+### Upgrade Add-Ons
 
 <https://docs.aws.amazon.com/eks/latest/userguide/updating-an-add-on.html>
 
 Explore installed add-ons:
 
-See section [EKS Cluster AddOns](#eks-cluster-addons).
+See section [EKS Cluster Add-Ons](eks.md#eks-cluster-add-ons).
+
+Checks Add-Ons are compatible with the version of Kubernetes you are going to:
+
+- [AWS VPC CNI](https://docs.aws.amazon.com/eks/latest/userguide/managing-vpc-cni.html)
+- [Kube Proxy](https://docs.aws.amazon.com/eks/latest/userguide/managing-kube-proxy.html)
+- [CoreDNS](https://docs.aws.amazon.com/eks/latest/userguide/managing-coredns.html)
+- [AWS Load Balancer](https://docs.aws.amazon.com/eks/latest/userguide/aws-load-balancer-controller.html)
+- [EBS CSI driver](https://docs.aws.amazon.com/eks/latest/userguide/ebs-csi.html#managing-ebs-csi)
+- [EFS CSI driver](https://docs.aws.amazon.com/eks/latest/userguide/efs-csi.html)
 
 Update Add-ons:
 
@@ -302,9 +322,9 @@ aws eks update-addon \
     —resolve-conflicts PRESERVE
 ```
 
-## Upgrade Data Plane - Worker Nodes
+### Upgrade Data Plane - Worker Nodes
 
-### Managed Node Groups
+#### Managed Node Groups
 
 Cordon nodes to have them drained of pods and prevent new pod scheduling:
 
@@ -326,7 +346,7 @@ Monitor the progress using this command or the AWS UI:
 aws eks describe-update --cluster-name "$EKS_CLUSTER" --nodegroup-name "$NODE_GROUP" --update-id "$UPDATE_ID"
 ```
 
-### Self-Managed Nodes
+#### Self-Managed Nodes
 
 For each node...
 
