@@ -11,6 +11,7 @@ other clients who will be forced to upgrade to the same version in order to run 
 <!-- INDEX_START -->
 
 - [Install](#install)
+- [Usage](#usage)
   - [Environment Variables](#environment-variables)
   - [`.terraform-version`](#terraform-version)
 
@@ -29,6 +30,8 @@ Install on Linux (git clones / pulls updates to `~/.tfenv`), using script from [
 ```shell
 install_tfenv.sh
 ```
+
+## Usage
 
 List available versions:
 
