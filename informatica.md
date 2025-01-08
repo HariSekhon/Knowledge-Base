@@ -16,6 +16,7 @@ Modern Informatica UI is cloud hosted SaaS solution called IICS - Informatica In
   - [Agent Details](#agent-details)
   - [Agent Startup / Shutdown](#agent-startup--shutdown)
   - [Kubernetes - Advanced Jobs](#kubernetes---advanced-jobs)
+  - [Kubernetes Versions](#kubernetes-versions)
 - [Connections - Sources and Destinations Integrations](#connections---sources-and-destinations-integrations)
   - [JDBC Connector Install](#jdbc-connector-install)
   - [Enable `JDBCV2` Connector on the Secure Agent Group](#enable-jdbcv2-connector-on-the-secure-agent-group)
@@ -32,9 +33,10 @@ Modern Informatica UI is cloud hosted SaaS solution called IICS - Informatica In
   - [Vertica ODBC Connector Error](#vertica-odbc-connector-error)
   - [Disk Space](#disk-space)
   - [Log Disk Space Cleanup](#log-disk-space-cleanup)
-  - [Kubernetes version error `K8s_10152`](#kubernetes-version-error-k8s10152)
+  - [Kubernetes version error `K8s_10152`](#kubernetes-version-error-k8s_10152)
   - [Kubernetes - Capture Pod Logs & Stats](#kubernetes---capture-pod-logs--stats)
   - [Kubernetes - Capture Spark Driver JStack Thread Dump](#kubernetes---capture-spark-driver-jstack-thread-dump)
+    - [Manually](#manually)
 - [Meme](#meme)
 
 <!-- INDEX_END -->
@@ -237,6 +239,13 @@ supported version any more.
 
 For example if you're running 1.24 and then informatica agent enforces 1.27 - 1.29 versions, it will refuse to run
 any jobs.
+
+### Kubernetes Versions
+
+Informatica lags behind on Kubernetes versions, so you'll need to leave the EKS cluster on
+[Extended Support](eks.md#extended-support):
+
+<https://knowledge.informatica.com/s/article/FAQ-Which-Kubernetes-versions-are-supported-for-self-service-clusters-in-Cloud-Data-Integration>
 
 ## Connections - Sources and Destinations Integrations
 
