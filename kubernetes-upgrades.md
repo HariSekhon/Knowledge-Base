@@ -42,6 +42,14 @@ There is limited
 [version skew](https://kubernetes.io/releases/version-skew-policy/#supported-versions)
 between components, so check you aren't going to cut off your kubelets if they're running on an older version.
 
+Compare the Master control plane version:
+
+```shell
+kubectl version
+```
+
+with the Worker nodes version:
+
 ```shell
 kubectl get nodes
 ```
@@ -367,6 +375,10 @@ See [Kubernetes - Cluster Backup](kubernetes.md#cluster-backup).
    1. [Istio](https://github.com/istio/istio)
 
 Check your node versions are upgraded to the same version as the control plane master nodes:
+
+```shell
+kubectl version
+```
 
 ```shell
 kubectl get nodes
