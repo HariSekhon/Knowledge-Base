@@ -28,9 +28,21 @@ If you're using my [DirEnv](direnv.md) [configurations](https://github.com/HariS
 should have edited the `EKS_CLUSTER` setting so that it is automatically set when you cd to the right directory,
 otherwise set the environment variable manually in your shell.
 
+## Version Specific Release Notes
+
+You must review these to see what changes are happening between versions that might break things:
+
+<https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions-standard.html>
+
+<https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions-extended.html>
+
+
 ## Update Deprecated / Removed API objects
 
-See the [Kubernetes Upgrades](kubernetes-upgrades.md) page covering this for Kubernetes clusters on any platform.
+See the [Kubernetes Upgrades](kubernetes-upgrades.md) page covering finding deprecated / removed APIs for Kubernetes clusters
+on any platform.
+
+You will need to upgrade these applications to prevent breakages before upgrading the cluster.
 
 ## Pre-Requisite Checks
 
