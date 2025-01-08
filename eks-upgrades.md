@@ -25,6 +25,7 @@ Upgrades must be done from one minor version to the next in sequence.
     - [Managed Node Groups](#managed-node-groups)
     - [Self-Managed Nodes](#self-managed-nodes)
 - [Verify Workloads](#verify-workloads)
+- [Meme](#meme)
 
 <!-- INDEX_END -->
 
@@ -387,3 +388,11 @@ Check your pods are running ok:
 ```shell
 kubectl get pods -A
 ```
+
+Otherwise you'll be this meme...
+
+## Meme
+
+If you think you can skip these checks above, you may end up like this:
+
+![K8s Upgrades Unresponsive Pods](images/k8s_upgrade_completed_78_pods_unresponsive.jpeg)
