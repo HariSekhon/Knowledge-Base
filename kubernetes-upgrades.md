@@ -23,6 +23,7 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
 - [Cluster Backup (optional)](#cluster-backup-optional)
 - [Cluster Upgrade](#cluster-upgrade)
   - [AWS EKS Cluster Upgrade](#aws-eks-cluster-upgrade)
+- [Verify Workloads](#verify-workloads)
 - [Meme](#meme)
 
 <!-- INDEX_END -->
@@ -378,6 +379,16 @@ permitted between components, which for kubelet is 2-3 minor versions behind, bu
 ### AWS EKS Cluster Upgrade
 
 See the [EKS page upgrade section](eks.md#eks-cluster-upgrade) for AWS specific instructions.
+
+## Verify Workloads
+
+Check your pods are running ok:
+
+```shell
+kubectl get pods -A
+```
+
+Otherwise you'll be this meme...
 
 ## Meme
 
