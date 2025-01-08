@@ -24,6 +24,12 @@ On Mac, install tfenv:
 brew install tfenv
 ```
 
+Install on Linux (git clones / pulls updates to `~/.tfenv`), using script from [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+install_tfenv.sh
+```
+
 List available versions:
 
 ```shell
