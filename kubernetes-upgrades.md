@@ -242,6 +242,16 @@ Optional: back up cluster (above).
    1. Cluster [Autoscaler](https://github.com/kubernetes/autoscaler/releases) /
       [Karpenter](https://karpenter.sh/docs/upgrading/upgrade-guide/)
 
+Check your node versions:
+
+```shell
+kubectl get nodes
+```
+
+as there can only be some
+[version skew](https://kubernetes.io/releases/version-skew-policy/#supported-versions)
+permitted between components, which for kubelet is 2-3 minor versions behind, but not ahead of apiserver.
+
 ### AWS EKS Cluster Upgrade
 
 See the [EKS page upgrade section](eks.md#eks-cluster-upgrade) for AWS specific instructions.
