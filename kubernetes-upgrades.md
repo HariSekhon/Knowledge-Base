@@ -19,6 +19,7 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
   - [Ensure No Docker Socket Usage](#ensure-no-docker-socket-usage)
 - [GoNoGo](#gonogo)
 - [Kubepug](#kubepug)
+- [Cluster Backup (optional)](#cluster-backup-optional)
 - [Cluster Upgrade](#cluster-upgrade)
   - [AWS EKS Cluster Upgrade](#aws-eks-cluster-upgrade)
 - [Meme](#meme)
@@ -340,9 +341,11 @@ kubectl deprecations
 Not effective, finds nothing, not even when specifying `--k8s-version=v1.25`,
 despite Pluto and Kube-No-Problem finding deprecated APIs.
 
-## Cluster Upgrade
+## Cluster Backup (optional)
 
-Optional: back up cluster (above).
+See [Kubernetes - Cluster Backup](kubernetes.md#cluster-backup).
+
+## Cluster Upgrade
 
 1. Upgrade Master Control Plane nodes
 1. Upgrade Workers nodes
