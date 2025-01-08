@@ -38,6 +38,29 @@ See the [Kubernetes Upgrades](kubernetes-upgrades.md) page covering this for Kub
 
 See the [Kubernetes Upgrades](kubernetes-upgrades.md) page for easier to use tools with nicer outputs like Pluto.
 
+### Enable Master logs to go to CloudWatch Logs
+
+[EKS UserGuide](https://docs.aws.amazon.com/eks/latest/userguide/control-plane-logs.html)
+
+Check if cluster logging is enabled to send control plane logs to CloudWatch Logs:
+
+```shell
+aws eks describe-cluster --name "$EKS_CLUSTER" --output json | jq -r '.cluster.logging'
+```
+
+If it isn't, set it:
+
+```shell
+aws eks update-cluster-config --name "$EKS_CLUSTER" \
+    --logging '{"clusterLogging":[{"types":["api","audit","authenticator","controllerManager","scheduler"],"enabled":true}]}'
+```
+
+Check it's done by querying the `$UPDATE_ID` from the above output:
+
+```shell
+aws eks describe-update --name "$EKS_CLUSTER" --update-id "$UPDATE_ID"
+```
+
 ### Ensure at least 5 Free IPs Available
 
 Check there are at least 5 free IPs are available in the EKS subnets:
