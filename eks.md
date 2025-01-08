@@ -215,8 +215,29 @@ See the [EKS Cluster Upgrades](eks-upgrades.md) doc.
 
 Extended support costs more, you may want to switch to standard support.
 
-Note: this will force upgrades earlier when the cluster version falls out of standard support.
+Note: this will force upgrades earlier when the cluster's version falls out of standard support, which is only 14
+months, so you will need to plan
+and upgrade more regularly, which is recommended best practice anyway.
+See [upgrade policy](https://docs.aws.amazon.com/eks/latest/userguide/view-upgrade-policy.html).
+
+See the
+[Available Versions and Release Calender](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html#available-versions)
+for when you need to upgrade versions for Standard or Extended support.
+
+You can always see available versions and their status of standard vs extended and dates via the AWS CLI.
+
+(requires a fairly new version of AWS CLI)
 
 ```shell
-aws eks update-cluster-config --name "$EKS_CLUSTER" --upgrade-policy supportType=STANDARD
+brew upgrade awscli
+```
+
+```shell
+aws eks describe-cluster-versions --output table
+```
+
+Disable extended support and stay on the more recent versions only:
+
+```shell
+aws eks update-cluster-config --name "$EKS_CLUSTER" --upgrade-policy "supportType=STANDARD"
 ```
