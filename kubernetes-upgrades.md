@@ -272,7 +272,7 @@ Ensure the pods are spread so a worker node restart doesn't take down multiple r
 
 [:octocat: aws-containers/kubectl-detector-for-docker-socket](https://github.com/aws-containers/kubectl-detector-for-docker-socket)
 
-If upgrading to Kubernetes 1.25, Docker socket usage is removed.
+If upgrading to Kubernetes 1.24, Docker socket usage is removed.
 
 Find any pods still using Docker socket.
 
