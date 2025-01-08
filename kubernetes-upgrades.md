@@ -4,23 +4,37 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
 
 <!-- INDEX_START -->
 
-- [Check for Deprecated API objects](#check-for-deprecated-api-objects)
-  - [Kube-No-Trouble](#kube-no-trouble)
-  - [Pluto](#pluto)
-  - [Deprecated APIs Metrics](#deprecated-apis-metrics)
-  - [Kubectl Convert](#kubectl-convert)
-- [PSP - Pod Security Policies](#psp---pod-security-policies)
-- [Ensure High Availability](#ensure-high-availability)
-  - [Pod Disruption Budgets](#pod-disruption-budgets)
-  - [Topology Spread Constraints](#topology-spread-constraints)
-- [Ensure No Docker Socket Usage](#ensure-no-docker-socket-usage)
+- [Pre-Requisite Checks](#pre-requisite-checks)
+  - [Ensure Worker Nodes are Already Running the Same Version](#ensure-worker-nodes-are-already-running-the-same-version)
+  - [Check for Deprecated API objects](#check-for-deprecated-api-objects)
+    - [Kube-No-Trouble](#kube-no-trouble)
+    - [Pluto](#pluto)
+    - [Deprecated APIs Metrics](#deprecated-apis-metrics)
+    - [Kubectl Convert](#kubectl-convert)
+  - [PSP - Pod Security Policies](#psp---pod-security-policies)
+  - [Ensure High Availability](#ensure-high-availability)
+    - [Pod Disruption Budgets](#pod-disruption-budgets)
+    - [Topology Spread Constraints](#topology-spread-constraints)
+  - [Ensure No Docker Socket Usage](#ensure-no-docker-socket-usage)
 - [Cluster Upgrade](#cluster-upgrade)
   - [AWS EKS Cluster Upgrade](#aws-eks-cluster-upgrade)
 - [Meme](#meme)
 
 <!-- INDEX_END -->
 
-## Check for Deprecated API objects
+## Pre-Requisite Checks
+
+### Ensure Worker Nodes are Already Running the Same Version
+
+There is limited
+[version skew](https://kubernetes.io/releases/version-skew-policy/#supported-versions)
+between components, so check you aren't going to cut off your kubelets if they're running on an older version.
+
+```shell
+kubectl get nodes
+```
+
+### Check for Deprecated API objects
 
 [Kubernetes Deprecation Policy](https://kubernetes.io/docs/reference/using-api/deprecation-policy/)
 
@@ -34,7 +48,7 @@ as you can see below with Kubent and Pluto:
 - [Deprecated APIs Metrics](#deprecated-apis-metrics)
 - [Kubectl Convert](#kubectl-convert)
 
-### Kube-No-Trouble
+#### Kube-No-Trouble
 
 Install [Kube-No-Trouble](https://github.com/doitintl/kube-no-trouble).
 
@@ -90,7 +104,7 @@ You get the complete results if you instead specified a much later version:
 kubent --target-version 1.30
 ```
 
-### Pluto
+#### Pluto
 
 Install FairwindsOps [Pluto](https://pluto.docs.fairwinds.com/).
 
@@ -142,7 +156,7 @@ pluto_detect_helm_materialize.sh
 pluto_detect_kustomize_materialize.sh
 ```
 
-### Deprecated APIs Metrics
+#### Deprecated APIs Metrics
 
 You can get some raw info like this from metrics:
 
@@ -159,7 +173,7 @@ apiserver_requested_deprecated_apis{group="policy",removed_release="1.25",resour
 apiserver_requested_deprecated_apis{group="storage.k8s.io",removed_release="1.27",resource="csistoragecapacities",subresource="",version="v1beta1"} 1
 ```
 
-### Kubectl Convert
+#### Kubectl Convert
 
 Use [kubectl convert](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/#install-kubectl-convert-plugin)
 to update API objects in YAML manifests.
@@ -172,7 +186,7 @@ install_kubectl_plugin_convert.sh
 kubectl convert -f file.yaml --output-version <group>/<version>
 ```
 
-## PSP - Pod Security Policies
+### PSP - Pod Security Policies
 
 <https://docs.aws.amazon.com/eks/latest/userguide/pod-security-policy-removal-faq.html>
 
@@ -194,23 +208,23 @@ column -t
 
 You can ignore `eks.privileged` - AWS EKS will automatically migrate that for you on upgrade.
 
-## Ensure High Availability
+### Ensure High Availability
 
 Ensure High Availability of your Kubernetes apps to ensure they don't go down during rolling upgrade of worker nodes.
 
-### Pod Disruption Budgets
+#### Pod Disruption Budgets
 
 Ensure enough pods stay up at all times.
 
 <https://kubernetes.io/docs/concepts/workloads/pods/disruptions/#pod-disruption-budgets>
 
-### Topology Spread Constraints
+#### Topology Spread Constraints
 
 Ensure the pods are spread so a worker node restart doesn't take down multiple replicas.
 
 <https://kubernetes.io/docs/concepts/scheduling-eviction/topology-spread-constraints/>
 
-## Ensure No Docker Socket Usage
+### Ensure No Docker Socket Usage
 
 [:octocat: aws-containers/kubectl-detector-for-docker-socket](https://github.com/aws-containers/kubectl-detector-for-docker-socket)
 
@@ -242,7 +256,7 @@ Optional: back up cluster (above).
    1. Cluster [Autoscaler](https://github.com/kubernetes/autoscaler/releases) /
       [Karpenter](https://karpenter.sh/docs/upgrading/upgrade-guide/)
 
-Check your node versions:
+Check your node versions are upgraded to the same version as the control plane master nodes:
 
 ```shell
 kubectl get nodes
