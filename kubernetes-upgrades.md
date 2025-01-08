@@ -390,7 +390,7 @@ permitted between components, which for kubelet is 2-3 minor versions behind, bu
 
 ### AWS EKS Cluster Upgrade
 
-See the [EKS page upgrade section](eks.md#eks-cluster-upgrade) for AWS specific instructions.
+See the [EKS upgrade page](eks-upgrades.md) for AWS specific instructions.
 
 ## Verify Workloads
 
