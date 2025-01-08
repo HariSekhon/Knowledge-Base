@@ -253,7 +253,7 @@ Test the resilience of apps on Kubernetes.
 
 ### Upgrade Control Plane - Master Nodes
 
-You can click `Upgrade Now` in the AWS Console UI, `eksctl` or AWS CLI.
+You can click `Upgrade Now` in the AWS Console UI, `eksctl` or [AWS CLI](aws.md#aws-cli).
 
 Check the current EKS version:
 
