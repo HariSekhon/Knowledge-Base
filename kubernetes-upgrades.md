@@ -11,11 +11,14 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
     - [Pluto](#pluto)
     - [Deprecated APIs Metrics](#deprecated-apis-metrics)
     - [Kubectl Convert](#kubectl-convert)
+  - [Nova Outdated Helm Charts or Container Images](#nova-outdated-helm-charts-or-container-images)
   - [PSP - Pod Security Policies](#psp---pod-security-policies)
   - [Ensure High Availability](#ensure-high-availability)
     - [Pod Disruption Budgets](#pod-disruption-budgets)
     - [Topology Spread Constraints](#topology-spread-constraints)
   - [Ensure No Docker Socket Usage](#ensure-no-docker-socket-usage)
+- [GoNoGo](#gonogo)
+- [Kubepug](#kubepug)
 - [Cluster Upgrade](#cluster-upgrade)
   - [AWS EKS Cluster Upgrade](#aws-eks-cluster-upgrade)
 - [Meme](#meme)
@@ -186,6 +189,30 @@ install_kubectl_plugin_convert.sh
 kubectl convert -f file.yaml --output-version <group>/<version>
 ```
 
+### Nova Outdated Helm Charts or Container Images
+
+[:octocat: FairwindsOps/nova](https://github.com/FairwindsOps/nova)
+
+You can use Nova to find outdated helm charts.
+
+```shell
+go install github.com/fairwindsops/nova@latest
+```
+
+or from [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+```shell
+install_nova.sh
+```
+
+```shell
+nova find
+```
+
+```shell
+nova find --containers
+```
+
 ### PSP - Pod Security Policies
 
 <https://docs.aws.amazon.com/eks/latest/userguide/pod-security-policy-removal-faq.html>
@@ -245,6 +272,74 @@ and scan all pods for Docker socket usage:
 kubectl dds
 ```
 
+## GoNoGo
+
+[:octocat: FairwindsOps/GoNoGo](https://github.com/FairwindsOps/GoNoGo)
+
+From [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+install_gonogo.sh
+```
+
+```shell
+gonogo check
+```
+
+```text
+I0108 09:00:23.539295   11505 matches.go:101] releases that matched the config: [addons/metrics-server]
+{
+ "Addons": [
+  {
+   "Name": "metrics-server",
+   "Versions": {
+    "Current": "3.6.0",
+    "Upgrade": "3.9.1"
+   },
+   "UpgradeConfidence": 0,
+   "ActionItems": [
+    {
+     "ResourceNamespace": "addons",
+     "ResourceKind": "",
+     "ResourceName": "metrics-server",
+     "Title": "Unsupported cluster version",
+     "Description": "The Kubernetes cluster version is greater than the maximum version specified in the bundle spec",
+     "Remediation": "",
+     "EventType": "",
+     "Severity": "",
+     "Category": "",
+     "Report": ""
+    }
+   ],
+   "Notes": "https://github.com/kubernetes-sigs/metrics-server/releases/tag/v0.6.0",
+   "Warnings": [
+    "Chart RBAC uses nodes/metrics RBAC resource instead of nodes/stats. If you manage your own RBAC check your settings.",
+    "no schema available, unable to validate release"
+   ]
+  }
+ ]
+}
+```
+
+## Kubepug
+
+[:octocat: kubepug/kubepug](https://github.com/kubepug/kubepug)
+
+Install [krew](kubernetes.md#krew---kubectl-plugin-manager) kubectl plugin manager first.
+
+Then:
+
+```shell
+kubectl krew install deprecations
+```
+
+```shell
+kubectl deprecations
+```
+
+Not effective, finds nothing, not even when specifying `--k8s-version=v1.25`,
+despite Pluto and Kube-No-Problem finding deprecated APIs.
+
 ## Cluster Upgrade
 
 Optional: back up cluster (above).
@@ -253,8 +348,12 @@ Optional: back up cluster (above).
 1. Upgrade Workers nodes
 1. Upgrade Add-Ons:
    1. [Core DNS](https://github.com/coredns/coredns)
-   1. Cluster [Autoscaler](https://github.com/kubernetes/autoscaler/releases) /
-      [Karpenter](https://karpenter.sh/docs/upgrading/upgrade-guide/)
+   1. [Cluster Autoscaler](https://github.com/kubernetes/autoscaler/releases)
+   1. [Metrics Server](https://kubernetes-sigs.github.io/metrics-server/)
+   1. Karpenter [Upgrade Guide](https://karpenter.sh/docs/upgrading/upgrade-guide/) /
+      [Compatability Matrix](https://karpenter.sh/docs/upgrading/compatibility/#compatibility-matrix)
+   1. [Linkerd](https://github.com/linkerd/linkerd2)
+   1. [Istio](https://github.com/istio/istio)
 
 Check your node versions are upgraded to the same version as the control plane master nodes:
 
