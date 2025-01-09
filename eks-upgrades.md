@@ -295,6 +295,7 @@ Checks Add-Ons are compatible with the version of Kubernetes you are going to:
 - [Kube Proxy](https://docs.aws.amazon.com/eks/latest/userguide/managing-kube-proxy.html)
 - [CoreDNS](https://docs.aws.amazon.com/eks/latest/userguide/managing-coredns.html)
 - [AWS Load Balancer](https://docs.aws.amazon.com/eks/latest/userguide/aws-load-balancer-controller.html)
+- [AWS Node Termination Handler](https://github.com/aws/aws-node-termination-handler)
 - [EBS CSI driver](https://docs.aws.amazon.com/eks/latest/userguide/ebs-csi.html#managing-ebs-csi)
 - [EFS CSI driver](https://docs.aws.amazon.com/eks/latest/userguide/efs-csi.html)
 
