@@ -350,7 +350,13 @@ aws eks describe-update --cluster-name "$EKS_CLUSTER" --nodegroup-name "$NODE_GR
 
 #### Self-Managed Nodes
 
-For each node...
+Create a new node group with the desired version:
+
+```shell
+eksctl create nodegroup --cluster "$EKS_CLUSTER" --name "$NEW_NODE_GROUP" --kubernetes-version "$TARGET_VERSION"
+```
+
+For each old node...
 
 Cordon Node:
 
@@ -361,13 +367,7 @@ kubectl cordon "$NODE_NAME"
 Drain Node:
 
 ```shell
-kubectl drain "$NODE_NAME" --ignore-daemonsets --delete-local-data
-```
-
-Create a new node group with the desired version:
-
-```shell
-eksctl create nodegroup --cluster "$EKS_CLUSTER" --name "$NEW_NODE_GROUP" --kubernetes-version "$TARGET_VERSION"
+kubectl drain "$NODE_NAME" --ignore-daemonsets # --delete-emptydir-data # --delete-local-data
 ```
 
 Delete the old node group:
@@ -376,11 +376,40 @@ Delete the old node group:
 eksctl delete nodegroup --cluster "$EKS_CLUSTER" --name "$OLD_NODE_GROUP"
 ```
 
+If you're setting the AMI ID in Terraform / Terragrunt and need to find the right AMI ID:
+
+```shell
+EKS_VERSION="1.25"
+```
+
+```shell
+AMI_ID="$(aws ssm get-parameter --name "/aws/service/eks/optimized-ami/$EKS_VERSION/amazon-linux-2/recommended/image_id"  --query "Parameter.Value" --output text | tee /dev/stderr)"
+```
+
+Output:
+
+```text
+ami-0522024526aa1f248
+```
+
+If using Terragrunt, using `terragrunt.hcl` with cluster version and AMI ID:
+
+```shell
+perl -pi -e 's/^(\s*cluster_version\s*=\s*)".*$/$1"'"$EKS_VERSION"'"/' terragrunt.hcl
+```
+
+```shell
+perl -pi -e 's/^(\s*ami_id\s*=\s*)".*$/$1"'"$AMI_ID"'"/' terragrunt.hcl
+```
+
 Verify the node versions:
 
 ```shell
 kubectl get nodes
 ```
+
+(you may need to wait a while for the autoscaling group to cycle the nodes, or force the issue by
+cordoning and draining each old node as per above, you can then terminate them in the EC2 Console):
 
 ## Verify Workloads
 
