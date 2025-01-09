@@ -25,7 +25,10 @@ Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing an
   - [Terragrunt Dump JSON](#terragrunt-dump-json)
     - [Linting and Security Scanning](#linting-and-security-scanning)
 - [tgswitch](#tgswitch)
+- [Vendor Code](#vendor-code)
 - [Terragrunt Troubleshooting](#terragrunt-troubleshooting)
+  - [ERRO[0000] fork/exec /Users/hari/.tfenv/bin: no such file or directory](#erro0000-forkexec-usersharitfenvbin-no-such-file-or-directory)
+  - [Error: Get "http://localhost/api/v1/namespaces/kube-system/configmaps/aws-auth": dial tcp [::1]:80: connect: connection refused](#error-get-httplocalhostapiv1namespaceskube-systemconfigmapsaws-auth-dial-tcp-180-connect-connection-refused)
 
 <!-- INDEX_END -->
 
@@ -280,25 +283,11 @@ More recently updated than [tgenv](https://github.com/cunymatthieu/tgenv).
 
 ## Vendor Code
 
-**Do not accept** vendor code unless all it passes **ALL** of the following points:
-
-- it's in the same format as your internal code base eg. Terraform vs Terragrunt
-- using standard modules from the [Hashicorp registry](https://registry.terraform.io/)
-  eg. [hashicorp/aws](https://registry.terraform.io/providers/hashicorp/aws)
-- has passed all Checkov checks
-
-Otherwise you'll lose tonnes of time:
-
-- migrating from Terraform to Terragunt modules
-- migrating from custom modules to official portable modules to match the rest of your code base
-- inheriting problems in the migrations above
-- debugging and fixing their code
-
-Even stupidly simple things like an S3 bucket will then fail your Checkov PR check for not having KMS encryption
-and you'll have to go add that by yourself, or your ElastiCache node type won't be specified because it wasn't properly
-tested and ready to run and you won't know what `node_type` to set for it.
+Read [Terraform - Vendor Code](terraform.md#vendor-code) section.
 
 ## Terragrunt Troubleshooting
+
+### ERRO[0000] fork/exec /Users/hari/.tfenv/bin: no such file or directory
 
 If you get an error like this when running Terragrunt:
 
@@ -309,3 +298,34 @@ ERRO[0000] Unable to determine underlying exit code, so Terragrunt will exit wit
 
 then make sure to unset `TERRAGRUNT_TFPATH` or direct it to your correct terraform binary (rather than directory as
 in the case above).
+
+### Error: Get "<http://localhost/api/v1/namespaces/kube-system/configmaps/aws-auth>": dial tcp [::1]:80: connect: connection refused
+
+```text
+╷
+│ Error: Get "http://localhost/api/v1/namespaces/kube-system/configmaps/aws-auth": dial tcp [::1]:80: connect: connection refused
+│
+│   with kubernetes_config_map.aws_auth[0],
+│   on aws_auth.tf line 63, in resource "kubernetes_config_map" "aws_auth":
+│   63: resource "kubernetes_config_map" "aws_auth" {
+│
+╵
+```
+
+Workaround:
+
+```shell
+terragrunt state rm 'kubernetes_config_map.aws_auth[0]'
+```
+
+Then run:
+
+```shell
+terragrunt apply
+```
+
+It'll apply the rest and fail on the aws_auth map, but you can re-import it:
+
+```shell
+terragrunt import 'kubernetes_config_map.aws_auth[0]' kube-system/aws-auth
+```
