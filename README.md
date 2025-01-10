@@ -376,8 +376,11 @@ This one is used widely throughout these pages:
     - [tgswitch](tgswitch.md)
   - [Atlantis](atlantis.md)
 - [Pulumi](pulumi.md)
+- [Packer](packer.md)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Terraform&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Terraform)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Packer-templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer-templates)
 
 ## Configuration Management
 
