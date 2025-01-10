@@ -155,6 +155,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
       - [San Francisco](#san-francisco)
   - [Vietnam](#vietnam)
     - [Hanoi](#hanoi)
+    - [Ho Chi Minh](#ho-chi-minh)
 
 <!-- INDEX_END -->
 
