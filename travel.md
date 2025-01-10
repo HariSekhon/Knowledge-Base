@@ -1789,7 +1789,7 @@ Don't got to Hanoi in the winter - it is not Thailand, it is cold and you will n
   open 24 hours with good upper level seating as well as street seating, not only until 10:30pm as Google says.
   The `Aroi Dessert Cafe` wifi runs out of IP addresses, ask them for the password for the `Aroi Staff` wifi instead
 - [Le Monde Steak](https://maps.app.goo.gl/C3AZkhWGYY7CfUAo8) - steaks, pasta, good drinks, reasonable prices and wifi
-- [Hong Haoi](https://maps.app.goo.gl/tHagvFRbC1Ugm9dJA) - popular restaurant in Old Town, small and busy.
+- [Hong Haoi](https://maps.app.goo.gl/tHagvFRbC1Ugm9dJA) - popular restaurant in Old Town, small and busy
   The recommended fried fish is good and the juice is fresh squeezed,
   although not big (uses those milkshake glasses that are narrow at the bottom).
 - [Don Duck](https://maps.app.goo.gl/joEGkujXGGJo4Nrq8) - small popular affordable restaurant specializing in duck.
