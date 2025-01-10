@@ -22,6 +22,7 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
 - [Kubepug](#kubepug)
 - [Cluster Backup (optional)](#cluster-backup-optional)
 - [Cluster Upgrade](#cluster-upgrade)
+  - [Cluster AutoScaler](#cluster-autoscaler)
   - [AWS EKS Cluster Upgrade](#aws-eks-cluster-upgrade)
 - [Verify Workloads](#verify-workloads)
 - [Meme](#meme)
@@ -388,6 +389,34 @@ as there can only be some
 [version skew](https://kubernetes.io/releases/version-skew-policy/#supported-versions)
 permitted between components, which for kubelet is 2-3 minor versions behind, but not ahead of apiserver.
 
+### Cluster AutoScaler
+
+If you want to find the latest versions of the cluster autoscaler that corresponds to your version of Kubernetes, then
+you can find this on its [GitHub releases](pages)(https://github.com/kubernetes/autoscaler/releases).
+
+Automatically filter using [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+github_repo_latest_release_filter.sh kubernetes/autoscaler 1.28
+```
+
+Output at time of writing:
+
+```text
+1.28.7
+```
+
+or if you're looking for the latest chart (which you may override the image version using the above):
+
+```shell
+github_repo_latest_release_filter.sh kubernetes/autoscaler chart
+```
+
+Output at time of writing:
+
+```shell
+cluster-autoscaler-chart-9.45.0
+```
 ### AWS EKS Cluster Upgrade
 
 See the [EKS upgrade page](eks-upgrades.md) for AWS specific instructions.
