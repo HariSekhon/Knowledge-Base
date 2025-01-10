@@ -1764,6 +1764,12 @@ Not recommended for women.
 
 ### Vietnam
 
+#### Vietnam Taxis
+
+If you haven't already set up your card to prepay on the Grab app, you'll need cash.
+
+[Grab](https://www.grab.com/) - taxi app
+
 #### Hanoi
 
 Don't got to Hanoi in the winter - it is not Thailand, it is cold and you will need a jacket due to the high lattitude.
