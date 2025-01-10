@@ -154,6 +154,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
       - [San Diego](#san-diego)
       - [San Francisco](#san-francisco)
   - [Vietnam](#vietnam)
+    - [Vietnam Taxis](#vietnam-taxis)
     - [Hanoi](#hanoi)
     - [Ho Chi Minh](#ho-chi-minh)
 
