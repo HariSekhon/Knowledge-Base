@@ -392,7 +392,8 @@ permitted between components, which for kubelet is 2-3 minor versions behind, bu
 ### Cluster AutoScaler
 
 If you want to find the latest versions of the cluster autoscaler that corresponds to your version of Kubernetes, then
-you can find this on its [GitHub releases](pages)(https://github.com/kubernetes/autoscaler/releases).
+you can find this on its [GitHub releases](pages)(https://github.com/kubernetes/autoscaler/releases) or
+[ArtifactHub](https://artifacthub.io/packages/helm/cluster-autoscaler/cluster-autoscaler)
 
 Automatically filter using [DevOps-Bash-tools](devops-bash-tools.md):
 
