@@ -8,8 +8,8 @@ Before you upgrade a Kubernetes cluster, you must ensure you won't break any exi
   - [Check the Changlog](#check-the-changlog)
   - [Ensure Worker Nodes are Already Running the Same Version](#ensure-worker-nodes-are-already-running-the-same-version)
   - [Check for Deprecated API objects](#check-for-deprecated-api-objects)
-    - [Kube-No-Trouble](#kube-no-trouble)
     - [Pluto](#pluto)
+    - [Kube-No-Trouble](#kube-no-trouble)
     - [Deprecated APIs Metrics](#deprecated-apis-metrics)
     - [Kubectl Convert](#kubectl-convert)
   - [Nova Outdated Helm Charts or Container Images](#nova-outdated-helm-charts-or-container-images)
@@ -64,66 +64,10 @@ Any apps using deprecated API objects will need to be upgraded first.
 Check using more than one tool in case they give you slightly different results
 as you can see below with Kubent and Pluto:
 
-- [Kubent](#kube-no-trouble)
 - [Pluto](#pluto)
+- [Kubent](#kube-no-trouble)
 - [Deprecated APIs Metrics](#deprecated-apis-metrics)
 - [Kubectl Convert](#kubectl-convert)
-
-#### Kube-No-Trouble
-
-Install [Kube-No-Trouble](https://github.com/doitintl/kube-no-trouble).
-
-On Mac using [Homebrew](brew.md):
-
-```shell
-brew info kubent
-```
-
-Or latest GitHub release using [DevOps-Bash-tools](devops-bash-tools.md):
-
-```shell
-install_kubent.sh
-```
-
-Scan the current Kubernetes cluster for which your kubectl context is configured:
-
-```shell
-kubent
-```
-
-Output:
-
-```text
-8:51PM INF >>> Kube No Trouble `kubent` <<<
-8:51PM INF version 0.7.3 (git sha 57480c07b3f91238f12a35d0ec88d9368aae99aa)
-8:51PM INF Initializing collectors and retrieving data
-8:51PM INF Target K8s version is 1.24.17-eks-7f9249a
-8:51PM INF Retrieved 83 resources from collector name=Cluster
-8:51PM INF Retrieved 24 resources from collector name="Helm v3"
-8:51PM INF Loaded ruleset name=custom.rego.tmpl
-8:51PM INF Loaded ruleset name=deprecated-1-16.rego
-8:51PM INF Loaded ruleset name=deprecated-1-22.rego
-8:51PM INF Loaded ruleset name=deprecated-1-25.rego
-8:51PM INF Loaded ruleset name=deprecated-1-26.rego
-8:51PM INF Loaded ruleset name=deprecated-1-27.rego
-8:51PM INF Loaded ruleset name=deprecated-1-29.rego
-8:51PM INF Loaded ruleset name=deprecated-1-32.rego
-8:51PM INF Loaded ruleset name=deprecated-future.rego
-__________________________________________________________________________________________
->>> Deprecated APIs removed in 1.25 <<<
-------------------------------------------------------------------------------------------
-KIND                NAMESPACE     NAME                           API_VERSION      REPLACE_WITH (SINCE)
-PodSecurityPolicy   <undefined>   aws-node-termination-handler   policy/v1beta1   <removed> (1.21.0)
-PodSecurityPolicy   <undefined>   eks.privileged                 policy/v1beta1   <removed> (1.21.0)
-```
-
-Notice the above output returns less than Pluto below, because it is only listed APIs removed in the next version.
-
-You get the complete results if you instead specified a much later version:
-
-```shell
-kubent --target-version 1.30
-```
 
 #### Pluto
 
@@ -175,6 +119,62 @@ pluto_detect_helm_materialize.sh
 
 ```shell
 pluto_detect_kustomize_materialize.sh
+```
+
+#### Kube-No-Trouble
+
+Install [Kube-No-Trouble](https://github.com/doitintl/kube-no-trouble).
+
+On Mac using [Homebrew](brew.md):
+
+```shell
+brew info kubent
+```
+
+Or latest GitHub release using [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+install_kubent.sh
+```
+
+Scan the current Kubernetes cluster for which your kubectl context is configured:
+
+```shell
+kubent
+```
+
+Output:
+
+```text
+8:51PM INF >>> Kube No Trouble `kubent` <<<
+8:51PM INF version 0.7.3 (git sha 57480c07b3f91238f12a35d0ec88d9368aae99aa)
+8:51PM INF Initializing collectors and retrieving data
+8:51PM INF Target K8s version is 1.24.17-eks-7f9249a
+8:51PM INF Retrieved 83 resources from collector name=Cluster
+8:51PM INF Retrieved 24 resources from collector name="Helm v3"
+8:51PM INF Loaded ruleset name=custom.rego.tmpl
+8:51PM INF Loaded ruleset name=deprecated-1-16.rego
+8:51PM INF Loaded ruleset name=deprecated-1-22.rego
+8:51PM INF Loaded ruleset name=deprecated-1-25.rego
+8:51PM INF Loaded ruleset name=deprecated-1-26.rego
+8:51PM INF Loaded ruleset name=deprecated-1-27.rego
+8:51PM INF Loaded ruleset name=deprecated-1-29.rego
+8:51PM INF Loaded ruleset name=deprecated-1-32.rego
+8:51PM INF Loaded ruleset name=deprecated-future.rego
+__________________________________________________________________________________________
+>>> Deprecated APIs removed in 1.25 <<<
+------------------------------------------------------------------------------------------
+KIND                NAMESPACE     NAME                           API_VERSION      REPLACE_WITH (SINCE)
+PodSecurityPolicy   <undefined>   aws-node-termination-handler   policy/v1beta1   <removed> (1.21.0)
+PodSecurityPolicy   <undefined>   eks.privileged                 policy/v1beta1   <removed> (1.21.0)
+```
+
+Notice the above output returns less than Pluto, because it is only listed APIs removed in the next version.
+
+You get the complete results if you instead specified a much later version:
+
+```shell
+kubent --target-version 1.30
 ```
 
 #### Deprecated APIs Metrics
