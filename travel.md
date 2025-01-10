@@ -1763,9 +1763,9 @@ Not recommended for women.
 
 ### Vietnam
 
-Don't got to Vietnam in the winter - it is not Thailand, it is cold and you will need a jacket.
-
 #### Hanoi
+
+Don't got to Hanoi in the winter - it is not Thailand, it is cold and you will need a jacket due to the high lattitude.
 
 - [Mình ơiii!](https://maps.app.goo.gl/863GxZHZ6r25ocM69) - small venue, summer rolls prawn were sold out,
   udon noodle pork soup was small but great, and the spring rolls come very hot fresh and crispy, fair prices too
@@ -1776,7 +1776,7 @@ Don't got to Vietnam in the winter - it is not Thailand, it is cold and you will
 - [Laika Cafe](https://maps.app.goo.gl/DNCerEaNfxDj1J2h8) - interesting drinks menu, outdoor terrace seating and wifi.
   The plum / passionfruit ice cream teas with jelly pieces was surprisingly good!
 - [Puku Cafe & Bar](https://maps.app.goo.gl/srUuuBWUHQN8KDKn7) - 24x7 with wifi and reasonable prices, the stir fried
-  beef noodles are really good, and also the orange lemongrass peach iced tea
+  beef noodles are really good, and also the peach iced tea or orange lemongrass peach iced tea with peach slices in them
 - [Aroi Dessert Cafe](https://maps.app.goo.gl/YDd36mNVNmnx84zYA) -
   open 24 hours with good upper level seating as well as street seating, not only until 10:30pm as Google says.
   The `Aroi Dessert Cafe` wifi runs out of IP addresses, ask them for the password for the `Aroi Staff` wifi instead
@@ -1787,3 +1787,30 @@ Don't got to Vietnam in the winter - it is not Thailand, it is cold and you will
 - [Don Duck](https://maps.app.goo.gl/joEGkujXGGJo4Nrq8) - small popular affordable restaurant specializing in duck.
   Reasonable prices, but the spring rolls weren't crispy and the duck soup while very affordable could have had better
   cuts of duck and less duck skin. Still for this price one shouldn't complain
+
+#### Ho Chi Minh
+
+I much prefer this to Hanoi, it is ~1000km south with much better weather, better tourist areas,
+but more expensive to eat and drink there.
+
+- [Ben Thanh Market](https://maps.app.goo.gl/SePL2UKPEa75bHo16) - indoor market with food, juices, clothes, souvenirs
+  etc. Eat here, it's much cheaper than most restaurants in the area
+- [Đ. Bùi Viện](https://maps.app.goo.gl/ydZUkM2HUPgdwt7r5) - Walking Street of bars, clubs and restaurants. Buzzing,
+  but expensive. Eat elsewhere, stop here for drinks and dancers
+- [The Hungry Pig](https://maps.app.goo.gl/W5KcfRHYC9jFLiYi9) - good full english breakfast, good sized drinks, giant
+  teas, reasonable prices
+- [Little HaNoi Egg Coffee](https://maps.app.goo.gl/XjfTPMq31ci2xJf86) - eggs, salmon, avocado type breakfast, good
+  drinks such as peach ice tea with peaches in it
+- [Chez Mimosa Cafe](https://maps.app.goo.gl/3ohXRm9hDWdbLRRL7) - affordable 3 course breakfast with a drink included,
+  good quality, has wifi
+- [Chez Gilbert Saigon](https://maps.app.goo.gl/z4LGFADNZZauuWrA6) - has breakfast / lunch deal specials, but they're
+  not as big and filling as the above places. Good if you need wifi though
+- [Xèo Restaurant - MeKong](https://maps.app.goo.gl/xWnpeWFSWwf1ygWZ7) - good food, reasonable prices, seafood rice
+  noodles were very tasty, portion could have been a bit bigger but then I’m probably just greedy
+- [Kyobashi Sushi Izakaya](https://maps.app.goo.gl/cJYkDmYnLzmE6hTRA) - high quality Japanese restaurant, very good
+  good with reasonable prices, serving noodle soups and a great selection of sushi and grill skewers, slightly off the
+  beaten track in the alleys with lots of bar girls
+- [Vincom Center](https://maps.app.goo.gl/Fn87yQusZTwmsZMJ8) - shopping center with a lot of good looking restaurants
+  on the lowest floor. Will be pricier than Ben Thanh Market
+- [Phê La - Hồ Tùng Mậu](https://maps.app.goo.gl/wBQrLuBZRovBHpp67) - busy coffee shop with big teas, wifi and lots of
+  seating upstairs, many people are on laptops there, and there are plugs to charge
