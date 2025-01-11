@@ -113,7 +113,14 @@ and pad the `NN` to that many digits so the versions stay lexically aligned.
 ## Automation
 
 Your work isn't production grade until it's automated with tools like [Terraform](terraform.md), [Ansible](ansible.md),
-or other code whereever possible.
+or other code where ever possible.
+
+If your colleagues can't reproduce what you've done in 1 short command, 2 maximum, then you've probably not made it
+simple and automated enough.
+
+You also don't want to have to struggle to remember how you built or set something up last year.
+
+Do not rely on your memory, it will inevitably fail you eventually.
 
 ## Documentation
 
@@ -122,6 +129,10 @@ Write a quick cheatsheet documentation page for everything you do.
 There should be 1 page on every official technology and every internal project.
 
 If it takes me more than 5-10 mins for me to see what you've done, then you've not done a good enough job.
+
+Do not rely on your memory, it will inevitably fail you eventually, write everything down in markdown.
+
+See the [Documentation](documentation.md) page.
 
 ## Principle: Time Amplification Effect
 
