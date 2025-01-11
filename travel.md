@@ -1823,7 +1823,8 @@ District 1 is where you want to stay here.
 - [Vincom Center](https://maps.app.goo.gl/Fn87yQusZTwmsZMJ8) - shopping center with a lot of good looking restaurants
   on the lowest floor. Will be pricier than Ben Thanh Market
 - [Phê La - Hồ Tùng Mậu](https://maps.app.goo.gl/wBQrLuBZRovBHpp67) - busy coffee shop with big teas, wifi and lots of
-  seating upstairs, many people are on laptops there, and there are plugs to charge
+  seating upstairs, many people are on laptops there, and there are plugs to charge. Ignore the mediocre Google rating
+  and look at how busy it is with mainly locals...
 - [KOI Café](https://maps.app.goo.gl/Qu4B3oRg2jptfkMRA) - opposite the Saigon center mall.
   Bubble tea shop on ground floor, coffee shop on 1st floor, seating on 2nd floor for teas from ground floor.
   Wifi code required from receipt (10 digit integer) for 120 minutes (this seems stingy compared to other coffee shops)
