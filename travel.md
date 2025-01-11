@@ -1796,7 +1796,7 @@ Don't got to Hanoi in the winter - it is not Thailand, it is cold and you will n
   Reasonable prices, but the spring rolls weren't crispy and the duck soup while very affordable could have had better
   cuts of duck and less duck skin. Still for this price one shouldn't complain
 
-#### Ho Chi Minh
+#### Ho Chi Minh (formerly known as Saigon)
 
 I much prefer this to Hanoi, it is ~1000km south with much better weather, better tourist areas,
 but more expensive to eat and drink there.
@@ -1824,3 +1824,7 @@ District 1 is where you want to stay here.
   on the lowest floor. Will be pricier than Ben Thanh Market
 - [Phê La - Hồ Tùng Mậu](https://maps.app.goo.gl/wBQrLuBZRovBHpp67) - busy coffee shop with big teas, wifi and lots of
   seating upstairs, many people are on laptops there, and there are plugs to charge
+- [KOI Café](https://maps.app.goo.gl/Qu4B3oRg2jptfkMRA) - opposite the Saigon center mall.
+  Bubble tea shop on ground floor, coffee shop on 1st floor, seating on 2nd floor for teas from ground floor.
+  Wifi code required from receipt (10 digit integer) for 120 minutes (this seems stingy compared to other coffee shops)
+  and the plugs do not hold the adapters. Not as good as Phe La down the road
