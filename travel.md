@@ -1829,3 +1829,5 @@ District 1 is where you want to stay here.
   Bubble tea shop on ground floor, coffee shop on 1st floor, seating on 2nd floor for teas from ground floor.
   Wifi code required from receipt (10 digit integer) for 120 minutes (this seems stingy compared to other coffee shops)
   and the plugs do not hold the adapters. Not as good as Phe La down the road
+- [Go2 Bar](https://maps.app.goo.gl/9JRJdoUwsQZ3JKj8A) - listen to the live music from Lost in Saigon across the street
+  at a more comfortable distance and volume, and the drinks are cheaper too. People watch the entrance to Walking Street
