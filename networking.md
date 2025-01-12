@@ -12,6 +12,7 @@
   - [Add static route](#add-static-route)
   - [Show your public IP](#show-your-public-ip)
   - [Linux - show your local IP Tables software firewall rules](#linux---show-your-local-ip-tables-software-firewall-rules)
+  - [Speed Test](#speed-test)
 - [Diagrams](#diagrams)
   - [Network - Layer 2 - Local - ARP](#network---layer-2---local---arp)
   - [Network - Layer 3 - Remote - IP](#network---layer-3---remote---ip)
@@ -115,6 +116,18 @@ curl ifconfig.co
 
 ```shell
 iptables -nL -line-numbers
+```
+
+### Speed Test
+
+[:ctocat: sivel/speedtest-cli](https://github.com/sivel/speedtest-cli)
+
+```shell
+pip install speedtest-cli
+```
+
+```shell
+speedtest-cli
 ```
 
 ## Diagrams
