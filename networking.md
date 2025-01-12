@@ -12,7 +12,8 @@
   - [Add static route](#add-static-route)
   - [Show your public IP](#show-your-public-ip)
   - [Linux - show your local IP Tables software firewall rules](#linux---show-your-local-ip-tables-software-firewall-rules)
-  - [Speed Test](#speed-test)
+  - [Local Network Speed Test](#local-network-speed-test)
+  - [Internet Speed Test](#internet-speed-test)
 - [Diagrams](#diagrams)
   - [Network - Layer 2 - Local - ARP](#network---layer-2---local---arp)
   - [Network - Layer 3 - Remote - IP](#network---layer-3---remote---ip)
@@ -118,7 +119,23 @@ curl ifconfig.co
 iptables -nL -line-numbers
 ```
 
-### Speed Test
+### Local Network Speed Test
+
+Test your local network speed between two machines.
+
+Start `iperf` server on one machine:
+
+```shell
+iperf -s
+```
+
+Run `iperf` client on another machine:
+
+```shell
+iperf -c "$ip"  # of above machine
+```
+
+### Internet Speed Test
 
 <https://www.speedtest.net/>
 
