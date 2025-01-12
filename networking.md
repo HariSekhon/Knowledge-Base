@@ -120,6 +120,10 @@ iptables -nL -line-numbers
 
 ### Speed Test
 
+<https://www.speedtest.net/>
+
+You can use it website or the CLI version below:
+
 [:ctocat: sivel/speedtest-cli](https://github.com/sivel/speedtest-cli)
 
 ```shell
@@ -128,6 +132,38 @@ pip install speedtest-cli
 
 ```shell
 speedtest-cli
+```
+
+Output at one of my favourite cafe's in Vietnam:
+
+```text
+Retrieving speedtest.net configuration...
+Testing from xTom (45.14.71.20)...
+Retrieving speedtest.net server list...
+Selecting best server based on ping...
+Hosted by xTom (Osaka) [0.00 km]: 143.447 ms
+Testing download speed................................................................................
+Download: 21.80 Mbit/s
+Testing upload speed......................................................................................................
+```
+
+Add the `--share` switch to generate a URL to an image
+
+```shell
+speedtest-cli --share
+```
+
+```text
+Retrieving speedtest.net configuration...
+Testing from xTom (45.14.71.20)...
+Retrieving speedtest.net server list...
+Selecting best server based on ping...
+Hosted by Verizon (Tokyo) [395.51 km]: 126.545 ms
+Testing download speed................................................................................
+Download: 21.13 Mbit/s
+Testing upload speed......................................................................................................
+Upload: 10.67 Mbit/s
+Share results: http://www.speedtest.net/result/17241162768.png
 ```
 
 ## Diagrams
