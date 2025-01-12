@@ -134,7 +134,7 @@ pip install speedtest-cli
 speedtest-cli
 ```
 
-Output at one of my favourite cafe's in Vietnam:
+Output at one of my favourite cafe's in [Vietnam](travel.md#vietnam):
 
 ```text
 Retrieving speedtest.net configuration...
