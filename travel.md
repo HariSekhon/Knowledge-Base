@@ -1807,8 +1807,8 @@ District 1 is where you want to stay here.
   etc. Eat here, it's much cheaper than most restaurants in the area
 - [Đ. Bùi Viện](https://maps.app.goo.gl/ydZUkM2HUPgdwt7r5) - Walking Street of bars, clubs and restaurants. Buzzing,
   but expensive. Eat elsewhere, stop here for drinks and dancers
-- [The Hungry Pig](https://maps.app.goo.gl/W5KcfRHYC9jFLiYi9) - good full english breakfast, good sized drinks, giant
-  teas, reasonable prices
+- [The Hungry Pig](https://maps.app.goo.gl/W5KcfRHYC9jFLiYi9) - very good full english breakfast, paninis, burgers,
+  big drink sizes, reasonable prices. This is my favourite place, my only knock is that the wifi isn't fast
 - [Little HaNoi Egg Coffee](https://maps.app.goo.gl/XjfTPMq31ci2xJf86) - eggs, salmon, avocado type breakfast, good
   drinks such as peach ice tea with peaches in it
 - [Chez Mimosa Cafe](https://maps.app.goo.gl/3ohXRm9hDWdbLRRL7) - affordable 3 course breakfast with a drink included,
