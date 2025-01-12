@@ -228,6 +228,23 @@ Does download speed by default, use `--upload` switch for upload speed.
 
 Optionally use `--json` switch to output in [JSON](json.md) format.
 
+```shell
+./node_modules/fast-cli/distribution/cli.js --upload --json
+```
+
+```text
+{
+        "downloadSpeed": 210,
+        "uploadSpeed": 18,
+        "downloaded": 300,
+        "uploaded": 80,
+        "latency": 74,
+        "bufferBloat": 131,
+        "userLocation": "Osaka, JP",
+        "userIp": "45.14.71.20"
+}
+```
+
 ## Diagrams
 
 From the [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
