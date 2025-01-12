@@ -150,9 +150,25 @@ You can use it website or the CLI version below:
 
 [:ctocat: sivel/speedtest-cli](https://github.com/sivel/speedtest-cli)
 
+On Mac:
+
+```shell
+brew install speedtest
+```
+
+or generically
+
 ```shell
 pip install speedtest-cli
 ```
+
+If installed via [Homebrew](brew.md) on Mac:
+
+```shell
+speedtest
+```
+
+If installed via Pip:
 
 ```shell
 speedtest-cli
