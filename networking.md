@@ -224,6 +224,10 @@ or if installed without the `-g` global switch:
 ~/node_modules/fast-cli/distribution/cli.js
 ```
 
+Does download speed by default, use `--upload` switch for upload speed.
+
+Optionally use `--json` switch to output in [JSON](json.md) format.
+
 ## Diagrams
 
 From the [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code) repo:
