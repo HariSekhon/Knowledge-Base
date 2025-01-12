@@ -15,6 +15,8 @@
   - [Network Speed Test](#network-speed-test)
     - [Local Network Speed Test](#local-network-speed-test)
     - [Internet Network Speed Test](#internet-network-speed-test)
+      - [Speedtest.net](#speedtestnet)
+      - [Fast.com](#fastcom)
 - [Diagrams](#diagrams)
   - [Network - Layer 2 - Local - ARP](#network---layer-2---local---arp)
   - [Network - Layer 3 - Remote - IP](#network---layer-3---remote---ip)
@@ -140,6 +142,8 @@ iperf -c "$ip"  # of above machine
 
 #### Internet Network Speed Test
 
+##### Speedtest.net
+
 <https://www.speedtest.net/>
 
 You can use it website or the CLI version below:
@@ -184,6 +188,40 @@ Download: 21.13 Mbit/s
 Testing upload speed......................................................................................................
 Upload: 10.67 Mbit/s
 Share results: http://www.speedtest.net/result/17241162768.png
+```
+
+An alternative CLI for speedtest.net can be found at
+
+[:octocat: sindresorhus/speed-test](https://github.com/sindresorhus/speed-test)
+
+```shell
+npm install --global speed-test
+```
+
+```shell
+speed-test
+```
+
+##### Fast.com
+
+<https://fast.com>
+
+Internet speed test by Netflix
+
+[:octocat: sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli)
+
+```shell
+npm install -g fast-cli
+```
+
+```shell
+fast-cli
+```
+
+or if installed without the `-g` global switch:
+
+```shell
+~/node_modules/fast-cli/distribution/cli.js
 ```
 
 ## Diagrams
