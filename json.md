@@ -55,7 +55,7 @@ Widely used in my scripts in [DevOps-Bash-tools](devops-bash-tools.md) repo.
 `jq` returns literal `null` string for fields that don't exist, this is annoying af in bash scripts where you will
 often be testing for failing to find something using `[ -z "$output" ]`.
 
-To avoid this and have jq return a blank instead of a literal `null`:
+To avoid this and have jq return a default value, blank in this case, instead of a literal `null`:
 
 ```shell
 jq -r '.non_existent_key // ""' < file.json
