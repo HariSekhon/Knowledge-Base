@@ -93,9 +93,21 @@ se the [File Upload & Code Pastbin Sites](upload-sites.md) doc.
 
 [:octocat: AlDanial/cloc](https://github.com/AlDanial/cloc/)
 
+Counts lines of code vs comments vs blanks.
+
+Install on Mac:
+
 ```shell
 brew install cloc
 ```
+
+Install on Debian / Ubuntu:
+
+```shell
+sudo apt install cloc
+```
+
+Run it against a directory of code to count the lines of code:
 
 ```text
 cloc /path/to/git/checkout
