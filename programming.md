@@ -8,6 +8,7 @@
 - [Testing](#testing)
 - [Code Pastebin Sites](#code-pastebin-sites)
 - [Big O Notation](#big-o-notation)
+- [Count Lines of Code](#count-lines-of-code)
 - [Memes](#memes)
   - [Hello World](#hello-world)
   - [Documentation](#documentation)
