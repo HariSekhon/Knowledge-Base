@@ -1809,11 +1809,14 @@ District 1 is where you want to stay here.
   but expensive. Eat elsewhere, stop here for drinks and dancers
 - [The Hungry Pig](https://maps.app.goo.gl/W5KcfRHYC9jFLiYi9) - very good full english breakfast, paninis, burgers,
   big drink sizes, reasonable prices. The bacon is well done just the way I like it, in both the english breakfast and
-  panini. This is my favourite place, my only knock is that the wifi isn't fast
+  panini. This is my favourite place for breakfast
 - [Little HaNoi Egg Coffee](https://maps.app.goo.gl/XjfTPMq31ci2xJf86) - eggs, salmon, avocado type breakfast, good
   drinks such as peach ice tea with peaches in it
 - [Chez Mimosa Cafe](https://maps.app.goo.gl/3ohXRm9hDWdbLRRL7) - affordable 3 course breakfast with a drink included,
   good quality, has wifi
+- [Hello Saigon](https://maps.app.goo.gl/VNXgnuDVmC1VyD1u5) - good food, reasonable prices,
+  the seafood crispy taro salad is good but cold, the mango and peach teas are too sweet despite asking them to reduce
+  sugar and second time around no sugar, must be due to lots of syrup
 - [Chez Gilbert Saigon](https://maps.app.goo.gl/z4LGFADNZZauuWrA6) - has breakfast / lunch deal specials, but they're
   not as big and filling as the above places. Good if you need wifi though
 - [Xèo Restaurant - MeKong](https://maps.app.goo.gl/xWnpeWFSWwf1ygWZ7) - good food, reasonable prices, seafood rice
