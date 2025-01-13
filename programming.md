@@ -91,6 +91,8 @@ se the [File Upload & Code Pastbin Sites](upload-sites.md) doc.
 
 ## Count Lines of Code
 
+[:octocat: AlDanial/cloc](https://github.com/AlDanial/cloc/)
+
 ```shell
 brew install cloc
 ```
