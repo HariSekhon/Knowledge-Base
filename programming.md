@@ -88,6 +88,65 @@ se the [File Upload & Code Pastbin Sites](upload-sites.md) doc.
 
 ![Big O Notation](images/big_O_notation.gif)
 
+## Count Lines of Code
+
+```shell
+brew install cloc
+```
+
+```text
+cloc /path/to/git/checkout
+```
+
+```shell
+cloc ~/github/bash-tools
+```
+
+```text
+github.com/AlDanial/cloc v 2.02  T=3.16 s (1084.1 files/s, 260706.2 lines/s)
+---------------------------------------------------------------------------------
+Language                       files          blank        comment           code
+---------------------------------------------------------------------------------
+JSON                              33              5              0         528324
+Bourne Shell                    1594          26338          38702          70205
+YAML                             885           6568          29712          41929
+HCL                              192           3965           4595          16567
+Markdown                          70           3964            321          13016
+Text                              56            323              0           5004
+SQL                              233            862           5533           4182
+Groovy                           140            924           4122           3933
+Bourne Again Shell                97           1219           3904           2337
+XML                               24              9              9           1490
+make                              21            352            373           1320
+INI                               12            148              0            804
+Maven                              1             62             68            342
+Python                             7            108            401            235
+Perl                               5             67             74            230
+m4                                 5             55              3            216
+Go                                 1             12             20             97
+Ruby                              13             16            247             81
+Dockerfile                         1             66            181             78
+Properties                         8             54            133             77
+Java                               4             31             54             63
+Scala                              4             27             69             42
+Gradle                             2             13             60             39
+Jinja Template                     1              2              0             33
+JavaScript                         3             31            152             30
+Expect                             2              5             15             22
+Puppet                             3              7             61             20
+ASP                                1              4              1             11
+SVG                                6              0              0              6
+C                                  1              3              6              3
+zsh                                1              1             13              3
+PHP                                1              3              6              2
+DOS Batch                          1              2              5              1
+Visual Basic Script                1              3              5              1
+Pig Latin                          1              2             14              0
+---------------------------------------------------------------------------------
+SUM:                            3430          45251          88859         690743
+---------------------------------------------------------------------------------
+```
+
 ## Memes
 
 ### Hello World
