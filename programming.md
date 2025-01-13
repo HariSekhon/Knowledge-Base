@@ -162,6 +162,12 @@ SUM:                            3430          45251          88859         69074
 ---------------------------------------------------------------------------------
 ```
 
+Script in [DevOps-Bash-tools](devops-bash-tools.md) to count lines across all public original GitHub repos:
+
+```shell
+github_public_lines_of_code.sh
+```
+
 ## Memes
 
 ### Hello World
