@@ -12,6 +12,7 @@ NOT PORTED YET
 - [Use Permalink URL References for Documentation or Support Issues](#use-permalink-url-references-for-documentation-or-support-issues)
 - [Analyze GitHub Repos](#analyze-github-repos)
   - [OpenHub](#openhub)
+  - [SonarCloud](#sonarcloud)
   - [RepoGraph](#repograph)
   - [OctoInsight](#octoinsight)
   - [GitHub Linguist](#github-linguist)
@@ -108,6 +109,12 @@ Press `y` on a page while browsing `GitHub.com` to change the current branch URL
 (formerly Black Duck Open Hub)
 
 <https://openhub.net/>
+
+### SonarCloud
+
+Gives lines of code and ode quality metrics like maintainability, security vulnerabilities, and technical debt.
+
+You can see badges for this across [my public GitHub](https://github.com/HariSekhon) repos.
 
 ### RepoGraph
 
