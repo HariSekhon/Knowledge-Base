@@ -18,6 +18,7 @@ TODO: not ported yet
   - [Check the Certificate Encoding](#check-the-certificate-encoding)
   - [Check the Private Key Encoding](#check-the-private-key-encoding)
   - [Check the Chain Certificate Encoding](#check-the-chain-certificate-encoding)
+- [Correct Base64 Padding](#correct-base64-padding)
 
 <!-- INDEX_END -->
 
