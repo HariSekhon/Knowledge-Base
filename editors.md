@@ -7,6 +7,7 @@
   - [Neovim](#neovim)
   - [GNU Emacs](#gnu-emacs)
   - [Nano](#nano)
+  - [Phoenix / Brackets](#phoenix--brackets)
 - [IDEs](#ides)
   - [IntelliJ IDEA](#intellij-idea)
     - [PyCharm](#pycharm)
@@ -85,6 +86,20 @@ Simple lightweight text editor for beginners.
 Easier to use than vim or emacs.
 
 Developed as an alternative to the pico text editor which was not entirely open source.
+
+### Phoenix / Brackets
+
+<https://brackets.io/>
+
+[:octocat:phcode-dev/phoenix](https://github.com/phcode-dev/phoenix)
+
+Web Editor:
+
+<https://phcode.dev/>
+
+Desktop Editor:
+
+<https://phcode.io/#/home>
 
 ## IDEs
 
