@@ -140,7 +140,7 @@ cat "$name-cert.pem" "DigiCert Global G2 TLS RSA SHA256 2020 CA1.pem" "DigiCert 
 ## Verify the Chain
 
 ```shell
-openssl verify -CAfile fullchain.pem $name-cert.pem
+openssl verify -CAfile fullchain.pem "$name-cert.pem"
 ```
 
 Output:
@@ -151,7 +151,7 @@ error 2 at 1 depth lookup:unable to get issuer certificate
 ```
 
 ```shell
-openssl verify -CAfile fullchain-with-root.pem $name-cert.pem
+openssl verify -CAfile fullchain-with-root.pem "$name-cert.pem"
 ```
 
 Output:
@@ -201,4 +201,26 @@ Output:
 ```text
 Certificate:
   ...
+```
+
+## Correct Base64 Padding
+
+If you're getting errors like this:
+
+```text
+Invalid base64: "-----BEGIN PRIVATE KEY-----
+```
+
+Re-pad the files:
+
+```shell
+grep -v -- "-----" "$name-cert.pem" | base64 --decode | base64 > "$name-cert-fixed.pem"
+```
+
+```shell
+grep -v -- "-----" "$name-privatekey.pem" | base64 --decode | base64 > "$name-privatekey-fixed.pem"
+```
+
+```shell
+grep -v -- "-----" "$chain.pem" | base64 --decode | base64 > "$chain-fixed.pem"
 ```
