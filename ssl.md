@@ -9,6 +9,10 @@ TODO: not ported yet
 - [Find the Right Intermediate Chain Certificate](#find-the-right-intermediate-chain-certificate)
   - [Inspect Cert Issuer](#inspect-cert-issuer)
   - [Inspect Chain Certificate](#inspect-chain-certificate)
+  - [Confirm the Chain of Trust](#confirm-the-chain-of-trust)
+  - [Inspect the Chain Certificate Issuer](#inspect-the-chain-certificate-issuer)
+  - [Inspect the Root CA Certificate Subject](#inspect-the-root-ca-certificate-subject)
+- [Combine Certificates into Complete Chain of Trust](#combine-certificates-into-complete-chain-of-trust)
 
 <!-- INDEX_END -->
 
@@ -88,5 +92,40 @@ The right chain certificate is the one that matches the output from your domain 
 DigiCert Global G2 TLS RSA SHA256 2020 CA1.pem
 ```
 
+If the issuer and subject are the same for a chain certificate, it is the root certificate
+
 This makes sense when you look at the file naming as the other certificate is the Root CA certificate,
 not an intermediate chain certificate.
+
+### Confirm the Chain of Trust
+
+Since each chain certificate may lead to a different root certificate, you can confirm the complete chain of trust.
+
+### Inspect the Chain Certificate Issuer
+
+```shell
+openssl x509 -in "DigiCert Global G2 TLS RSA SHA256 2020 CA1.pem" -noout -issuer -subject
+```
+
+### Inspect the Root CA Certificate Subject
+
+```shell
+openssl x509 -in "DigiCert Global Root G2.pem" -noout -issuer -subject
+```
+
+If the chain cert issuer matches the root CA cert subject, then the chain of trust is complete.
+
+## Combine Certificates into Complete Chain of Trust
+
+Add the intermediate chain certificate for maximum client compatibility (had issues with this in public Ad Tech due
+to some clients not being able to resolve the intermediate chain certificate themselves).
+
+```shell
+cat "$name-cert.pem" "DigiCert Global G2 TLS RSA SHA256 2020 CA1.pem" > fullchain.pem
+```
+
+You can include the root certificate but it's not needed in most cases as apps and browsers should already have it:
+
+```shell
+cat "$name-cert.pem" "DigiCert Global G2 TLS RSA SHA256 2020 CA1.pem" "DigiCert Global Root G2.pem" > fullchain-with-root.pem
+```
