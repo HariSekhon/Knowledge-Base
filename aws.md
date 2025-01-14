@@ -699,10 +699,18 @@ done
 
 Check the [Base64 Encodings in the SSL doc](ssl.md#check-base64-encoding).
 
+If all of the above fails, it's possible that it's a bug in the AWS CLI as I've found that pasting into the UI works.
+
 Verify the import:
 
 ```shell
 aws acm list-certificates --query "CertificateSummaryList[*].{ARN:CertificateArn,DomainName:DomainName}"
+```
+
+For the one you just imported:
+
+```shell
+CERTIFICATE_ARN="$(aws acm list-certificates --query "CertificateSummaryList[-1].CertificateArn" --output text| tee /dev/stderr)"
 ```
 
 ```shell
