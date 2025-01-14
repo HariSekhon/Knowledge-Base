@@ -13,6 +13,7 @@ TODO: not ported yet
   - [Inspect the Chain Certificate Issuer](#inspect-the-chain-certificate-issuer)
   - [Inspect the Root CA Certificate Subject](#inspect-the-root-ca-certificate-subject)
 - [Combine Certificates into Complete Chain of Trust](#combine-certificates-into-complete-chain-of-trust)
+- [Verify the Chain](#verify-the-chain)
 
 <!-- INDEX_END -->
 
@@ -128,4 +129,27 @@ You can include the root certificate but it's not needed in most cases as apps a
 
 ```shell
 cat "$name-cert.pem" "DigiCert Global G2 TLS RSA SHA256 2020 CA1.pem" "DigiCert Global Root G2.pem" > fullchain-with-root.pem
+```
+
+## Verify the Chain
+
+```shell
+openssl verify -CAfile fullchain.pem $name-cert.pem
+```
+
+Output:
+
+```text
+$name-cert.pem: C = US, O = DigiCert Inc, CN = DigiCert Global G2 TLS RSA SHA256 2020 CA1
+error 2 at 1 depth lookup:unable to get issuer certificate
+```
+
+```shell
+openssl verify -CAfile fullchain-with-root.pem $name-cert.pem
+```
+
+Output:
+
+```text
+$name-cert.pem: OK
 ```
