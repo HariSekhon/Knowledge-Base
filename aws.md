@@ -27,6 +27,8 @@ NOT PORTED YET
 - [RDS - Relational Database Service](#rds---relational-database-service)
   - [List RDS instances](#list-rds-instances)
   - [Reset DB master password](#reset-db-master-password)
+- [ACM - AWS Certificate Manager](#acm---aws-certificate-manager)
+  - [Import Externally Generated Certificate](#import-externally-generated-certificate)
 - [Why move away from CloudWatch Logs and Metrics](#why-move-away-from-cloudwatch-logs-and-metrics)
 - [Troubleshooting](#troubleshooting)
   - [EC2 VM becomes unresponsive and cannot SSH under high loads](#ec2-vm-becomes-unresponsive-and-cannot-ssh-under-high-loads)
@@ -630,6 +632,57 @@ Using the name returned from above commands:
 aws rds modify-db-instance \
     --db-instance-identifier "$RDS_INSTANCE" \
     --master-user-password "MyNewVerySecurePassword"
+```
+
+## ACM - AWS Certificate Manager
+
+### Import Externally Generated Certificate
+
+First ensure it's in pem format by [converting using OpenSSL](ssl.md#convert-certs-and-private-key-to-pem-format) and
+consider combining the intermediate chain certificate for maximum compatibility.
+
+Then import it to ACM:
+
+```shell
+aws acm import-certificate \
+    --certificate "file://$PWD/$name-cert.pem" \
+    --private-key "file://$PWD/$name-privatekey.pem" \
+    --certificate-chain "file://$PWD/$chain.pem"
+```
+
+If you get an error like this:
+
+```text
+Invalid base64: "-----BEGIN PRIVATE KEY-----
+...
+```
+
+Then check for Windows carriage returns in the file format and if found...
+
+Fix in place:
+
+```shell
+sed -i 's/\r$//' "$name"-*.pem "$chain.pem"
+```
+
+Or safer fix to new files:
+
+```shell
+for x in "$name"-*.pem "$chain.pem"; do
+    tr -d '\r' < "$x" > "$x.fixed"
+done
+```
+
+Check the [Base64 Encodings in the SSL doc](ssl.md#check-base64-encoding).
+
+Verify the import:
+
+```shell
+aws acm list-certificates --query "CertificateSummaryList[*].{ARN:CertificateArn,DomainName:DomainName}"
+```
+
+```shell
+aws acm describe-certificate --certificate-arn "$CERTIFICATE_ARN"
 ```
 
 ## Why move away from CloudWatch Logs and Metrics
