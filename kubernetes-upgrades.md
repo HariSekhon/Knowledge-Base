@@ -418,6 +418,18 @@ Output at time of writing:
 ```shell
 cluster-autoscaler-chart-9.45.0
 ```
+
+Before and after applying the update, check the status and version of the cluster autoscaler:
+
+```shell
+kubectl get po -l 'app.kubernetes.io/name=aws-cluster-autoscaler'
+```
+
+```shell
+kubectl get pods -l 'app.kubernetes.io/name=aws-cluster-autoscaler' -o yaml |
+yq '.items[].spec.containers[].image'
+```
+
 ### AWS EKS Cluster Upgrade
 
 See the [EKS upgrade page](eks-upgrades.md) for AWS specific instructions.
