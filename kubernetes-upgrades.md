@@ -422,7 +422,7 @@ cluster-autoscaler-chart-9.45.0
 Before and after applying the update, check the status and version of the cluster autoscaler:
 
 ```shell
-kubectl get po -l 'app.kubernetes.io/name=aws-cluster-autoscaler'
+kubectl get pods -l 'app.kubernetes.io/name=aws-cluster-autoscaler'
 ```
 
 ```shell
