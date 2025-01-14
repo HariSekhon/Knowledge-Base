@@ -14,10 +14,10 @@ TODO: not ported yet
   - [Inspect the Root CA Certificate Subject](#inspect-the-root-ca-certificate-subject)
 - [Combine Certificates into Complete Chain of Trust](#combine-certificates-into-complete-chain-of-trust)
 - [Verify the Chain](#verify-the-chain)
-- [Check SSL Certificate and Private Key formats](#check-ssl-certificate-and-private-key-formats)
-  - [Check the Certificate Format](#check-the-certificate-format)
-  - [Check the Private Key Format](#check-the-private-key-format)
-  - [Check the Chain Certificate Format](#check-the-chain-certificate-format)
+- [Check Base64 Encoding](#check-base64-encoding)
+  - [Check the Certificate Encoding](#check-the-certificate-encoding)
+  - [Check the Private Key Encoding](#check-the-private-key-encoding)
+  - [Check the Chain Certificate Encoding](#check-the-chain-certificate-encoding)
 
 <!-- INDEX_END -->
 
@@ -160,9 +160,9 @@ Output:
 $name-cert.pem: OK
 ```
 
-## Check SSL Certificate and Private Key formats
+## Check Base64 Encoding
 
-### Check the Certificate Format
+### Check the Certificate Encoding
 
 ```shell
 openssl x509 -in "$name-cert.pem" -text -noout
@@ -175,7 +175,7 @@ Certificate:
   ...
 ```
 
-### Check the Private Key Format
+### Check the Private Key Encoding
 
 ```shell
 openssl rsa -in "$name-privatekey.pem" -check
@@ -190,7 +190,7 @@ writing RSA key
 ...
 ```
 
-### Check the Chain Certificate Format
+### Check the Chain Certificate Encoding
 
 ```shell
 openssl x509 -in "$chain.pem" -text -noout
