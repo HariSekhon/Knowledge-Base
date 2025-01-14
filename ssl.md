@@ -168,10 +168,22 @@ $name-cert.pem: OK
 openssl x509 -in "$name-cert.pem" -text -noout
 ```
 
+Output:
+
+```shell
+Certificate:
+  ...
+```
+
 ### Check the Private Key Format
 
 ```shell
 openssl rsa -in "$name-privatekey.pem" -check
+```
+
+Output:
+
+```text
 RSA key ok
 writing RSA key
 -----BEGIN RSA PRIVATE KEY-----
@@ -182,4 +194,11 @@ writing RSA key
 
 ```shell
 openssl x509 -in "$chain.pem" -text -noout
+```
+
+Output:
+
+```shell
+Certificate:
+  ...
 ```
