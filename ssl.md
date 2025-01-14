@@ -170,7 +170,7 @@ openssl x509 -in "$name-cert.pem" -text -noout
 
 Output:
 
-```shell
+```text
 Certificate:
   ...
 ```
@@ -198,7 +198,7 @@ openssl x509 -in "$chain.pem" -text -noout
 
 Output:
 
-```shell
+```text
 Certificate:
   ...
 ```
