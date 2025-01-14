@@ -650,6 +650,12 @@ aws acm import-certificate \
     --certificate-chain "file://$PWD/$chain.pem"
 ```
 
+You need the `file://...path` prefix otherwise you'll get this error:
+
+```text
+Invalid base64: "$name-cert.pem"
+```
+
 If you get an error like this:
 
 ```text
@@ -657,7 +663,19 @@ Invalid base64: "-----BEGIN PRIVATE KEY-----
 ...
 ```
 
-Then check for Windows carriage returns in the file format and if found...
+It could be that the private key is in PKCS#1 instead of PKCS#8 format. Convert it like so:
+
+```shell
+openssl pkcs8 -topk8 -inform PEM -outform PEM -nocrypt -in "$name-privatekey.pem" -out "$name-privatekey-pkcs8.pem"
+```
+
+If this wasn't the case then the output file will be identical:
+
+```shell
+md5sum "$name"-privatekey.pem "$name"-privatekey-pkcs8.pem
+```
+
+Check for Windows carriage returns in the file format and if found...
 
 Fix in place:
 
