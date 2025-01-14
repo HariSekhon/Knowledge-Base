@@ -663,6 +663,12 @@ Invalid base64: "-----BEGIN PRIVATE KEY-----
 ...
 ```
 
+Add the debug switch to the command:
+
+```text
+--debug
+```
+
 It could be that the private key is in PKCS#1 instead of PKCS#8 format. Convert it like so:
 
 ```shell
