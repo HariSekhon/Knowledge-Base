@@ -20,6 +20,9 @@ Terraform pull request automation on [GitHub](github.md) using [GitHub Actions](
 
 - [Usage](#usage)
 - [Do Not Merge Pull Requests Early](#do-not-merge-pull-requests-early)
+- [Back up Atlantis.db from StatefulSet pod](#back-up-atlantisdb-from-statefulset-pod)
+- [Troubleshooting](#troubleshooting)
+  - [Stale Error not picking up Terraform Module fix](#stale-error-not-picking-up-terraform-module-fix)
 
 <!-- INDEX_END -->
 
@@ -46,3 +49,25 @@ Take a copy to your local machine:
 ```shell
 kubectl cp atlantis/atlantis-0:/atlantis-data/atlantis.db atlantis.db -c atlantis
 ```
+
+## Troubleshooting
+
+### Stale Error not picking up Terraform Module fix
+
+You'll need to clear the state from the Atlantis kubernetes pod.
+
+Exec into the pod:
+
+```shell
+kubectl exec -ti -n atlantis atlantis-0 -c atlantis -- /bin/bash
+```
+
+Go to the data directory:
+
+```shell
+cd /atlantis-data/
+```
+
+`cd` into the `<owner>/<repo>` GitHub subdirectory.
+
+Delete the numbered subdirectory matching the GitHub pull request number.
