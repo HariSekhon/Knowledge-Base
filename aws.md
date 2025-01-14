@@ -669,7 +669,7 @@ Or safer fix to new files:
 
 ```shell
 for x in "$name"-*.pem "$chain.pem"; do
-    tr -d '\r' < "$x" > "$x.fixed"
+    tr -d '\r' < "$x" > "${x%.pem}.fixed.pem"
 done
 ```
 
