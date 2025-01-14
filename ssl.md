@@ -15,8 +15,9 @@ TODO: not ported yet
 - [Combine Certificates into Complete Chain of Trust](#combine-certificates-into-complete-chain-of-trust)
 - [Verify the Chain](#verify-the-chain)
 - [Check SSL Certificate and Private Key formats](#check-ssl-certificate-and-private-key-formats)
-  - [Check the certificate format](#check-the-certificate-format)
-  - [Check the private key format](#check-the-private-key-format)
+  - [Check the Certificate Format](#check-the-certificate-format)
+  - [Check the Private Key Format](#check-the-private-key-format)
+  - [Check the Chain Certificate Format](#check-the-chain-certificate-format)
 
 <!-- INDEX_END -->
 
@@ -161,13 +162,13 @@ $name-cert.pem: OK
 
 ## Check SSL Certificate and Private Key formats
 
-### Check the certificate format
+### Check the Certificate Format
 
 ```shell
 openssl x509 -in "$name-cert.pem" -text -noout
 ```
 
-### Check the private key format
+### Check the Private Key Format
 
 ```shell
 openssl rsa -in "$name-privatekey.pem" -check
@@ -175,4 +176,10 @@ RSA key ok
 writing RSA key
 -----BEGIN RSA PRIVATE KEY-----
 ...
+```
+
+### Check the Chain Certificate Format
+
+```shell
+openssl x509 -in "$chain.pem" -text -noout
 ```
