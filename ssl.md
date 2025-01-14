@@ -14,6 +14,9 @@ TODO: not ported yet
   - [Inspect the Root CA Certificate Subject](#inspect-the-root-ca-certificate-subject)
 - [Combine Certificates into Complete Chain of Trust](#combine-certificates-into-complete-chain-of-trust)
 - [Verify the Chain](#verify-the-chain)
+- [Check SSL Certificate and Private Key formats](#check-ssl-certificate-and-private-key-formats)
+  - [Check the certificate format](#check-the-certificate-format)
+  - [Check the private key format](#check-the-private-key-format)
 
 <!-- INDEX_END -->
 
@@ -154,4 +157,22 @@ Output:
 
 ```text
 $name-cert.pem: OK
+```
+
+## Check SSL Certificate and Private Key formats
+
+### Check the certificate format
+
+```shell
+openssl x509 -in "$name-cert.pem" -text -noout
+```
+
+### Check the private key format
+
+```shell
+openssl rsa -in "$name-privatekey.pem" -check
+RSA key ok
+writing RSA key
+-----BEGIN RSA PRIVATE KEY-----
+...
 ```
