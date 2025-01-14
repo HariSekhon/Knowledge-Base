@@ -125,7 +125,9 @@ to some clients not being able to resolve the intermediate chain certificate the
 cat "$name-cert.pem" "DigiCert Global G2 TLS RSA SHA256 2020 CA1.pem" > fullchain.pem
 ```
 
-You can include the root certificate but it's not needed in most cases as apps and browsers should already have it:
+Or including the root certificate -
+you'd think it'd not be needed as most browsers should already have the root CA cert in their list of trusted certs
+but see the next section [verify the chain](#verify-the-chain)...
 
 ```shell
 cat "$name-cert.pem" "DigiCert Global G2 TLS RSA SHA256 2020 CA1.pem" "DigiCert Global Root G2.pem" > fullchain-with-root.pem
