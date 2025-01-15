@@ -197,6 +197,8 @@ These can be used with the `logo=` parameter in [Shields.io](https://shields.io)
 
 #### More Icons
 
+[:octocat: devicons/devicon](https://github.com/devicons/devicon)
+
 [:octocat: marwin1991/profile-technology-icons](https://github.com/marwin1991/profile-technology-icons)
 
 <https://marwin1991.github.io/profile-technology-icons/>
