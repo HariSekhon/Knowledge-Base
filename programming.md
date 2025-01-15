@@ -22,6 +22,7 @@
   - [Meme Driven Development](#meme-driven-development)
   - [OverEngineering Simple Solutions](#overengineering-simple-solutions)
   - [Hating on Languages You Don't Use](#hating-on-languages-you-dont-use)
+  - [C++ for Python Developers](#c-for-python-developers)
 
 <!-- INDEX_END -->
 
@@ -229,5 +230,9 @@ I suspect this is only when recruiters try programming... :wink:
 ### Hating on Languages You Don't Use
 
 ![Hating on Languages You Don't Use](images/oreilly_hating_on_languages_you_dont_use.jpeg)
+
+### C++ for Python Developers
+
+![C++ for Python Developers](images/oreilly_c%2B%2B_for_python_developers.png)
 
 **Ported from various private Knowledge Base pages 2008+**
