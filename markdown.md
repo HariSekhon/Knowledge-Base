@@ -17,6 +17,8 @@
 - [Badges & Icons](#badges--icons)
   - [Badges](#badges)
   - [Icons](#icons)
+    - [Simple Icons](#simple-icons)
+    - [More Icons](#more-icons)
     - [Removed Icons](#removed-icons)
       - [LinkedIn Icon](#linkedin-icon)
       - [Oracle Icon](#oracle-icon)
@@ -187,9 +189,17 @@ Use [Shields.io](https://shields.io) to create many different types of badges.
 
 ### Icons
 
+#### Simple Icons
+
 Use [Simple Icons](https://simpleicons.org) for a great selection of icons.
 
 These can be used with the `logo=` parameter in [Shields.io](https://shields.io) above.
+
+#### More Icons
+
+[:octocat: marwin1991/profile-technology-icons](https://github.com/marwin1991/profile-technology-icons)
+
+<https://marwin1991.github.io/profile-technology-icons/>
 
 #### Removed Icons
 
