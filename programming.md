@@ -11,6 +11,7 @@
 - [Count Lines of Code](#count-lines-of-code)
 - [Memes](#memes)
   - [Hello World](#hello-world)
+  - [Practice](#practice)
   - [Documentation](#documentation)
   - [Run It Again](#run-it-again)
   - [Are You Really Sure You Want to be a Software Developer??](#are-you-really-sure-you-want-to-be-a-software-developer)
@@ -20,6 +21,7 @@
   - [Concurrent Programming](#concurrent-programming)
   - [Meme Driven Development](#meme-driven-development)
   - [OverEngineering Simple Solutions](#overengineering-simple-solutions)
+  - [Hating on Languages You Don't Use](#hating-on-languages-you-dont-use)
 
 <!-- INDEX_END -->
 
@@ -223,5 +225,9 @@ I suspect this is only when recruiters try programming... :wink:
 ### OverEngineering Simple Solutions
 
 ![OverEngineering Simple Solutions](images/overengineering_simple_solutions.jpeg)
+
+### Hating on Languages You Don't Use
+
+![Hating on Languages You Don't Use](images/oreilly_hating_on_languages_you_dont_use.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
