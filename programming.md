@@ -174,6 +174,10 @@ github_public_lines_of_code.sh
 
 ![Printing Hello World](images/printing_hello_world_in_5_languages.jpeg)
 
+### Practice
+
+![Practice](images/github_coding_practice_vs_innate_gift.png)
+
 ### Documentation
 
 The importance of documentation:
