@@ -151,3 +151,11 @@ See the [Kubernetes Production Ready Checklist](kubernetes-production-ready-chec
 ### GitHub Actions CI/CD Best Practices
 
 See the [GitHub Actions](github-action,md) doc.
+
+## Memes
+
+### Debugging Someone Else's Code
+
+Always make your code as readable and clear as possible.
+
+![Debugging Someone Else's Code](images/oreilly_debugging_someone_elses_code.jpeg)
