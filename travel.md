@@ -1814,7 +1814,8 @@ District 1 is where you want to stay here.
   drinks such as peach ice tea with peaches in it
 - [Chez Mimosa Cafe](https://maps.app.goo.gl/3ohXRm9hDWdbLRRL7) - affordable 3 course breakfast with a drink included,
   good quality, has wifi
-- [Melbourne Cafe](https://maps.app.goo.gl/F7CbiqbHkB3en9kQA) - good mixed juices, English breakfast, pancake stacks, wifi, moderate prices, vietnamese food at the back is cheaper
+- [Melbourne Cafe](https://maps.app.goo.gl/F7CbiqbHkB3en9kQA) - good mixed juices, English breakfast, pancake stacks,
+  wifi, moderate prices, vietnamese food at the back is cheaper
 - [Hello Saigon](https://maps.app.goo.gl/VNXgnuDVmC1VyD1u5) - good food, reasonable prices,
   the seafood crispy taro salad is good but cold, the mango and peach teas are too sweet despite asking them to reduce
   sugar and second time around no sugar, must be due to lots of syrup
