@@ -156,7 +156,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Vietnam](#vietnam)
     - [Vietnam Taxis](#vietnam-taxis)
     - [Hanoi](#hanoi)
-    - [Ho Chi Minh](#ho-chi-minh)
+    - [Ho Chi Minh (formerly known as Saigon)](#ho-chi-minh-formerly-known-as-saigon)
 
 <!-- INDEX_END -->
 
