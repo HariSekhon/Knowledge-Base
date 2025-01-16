@@ -1807,6 +1807,8 @@ District 1 is where you want to stay here.
   etc. Eat here, it's much cheaper than most restaurants in the area
 - [Đ. Bùi Viện](https://maps.app.goo.gl/ydZUkM2HUPgdwt7r5) - Walking Street of bars, clubs and restaurants. Buzzing,
   but expensive. Eat elsewhere, stop here for drinks and dancers
+- [Ben Nghe Street Food](https://maps.app.goo.gl/JuWedMQJtq9JKjwQ8) - international mix of street food vendors, twice
+  the price of the cheap eats places in Ben Thanh Market, but more variety and better social benches seating
 - [The Hungry Pig](https://maps.app.goo.gl/W5KcfRHYC9jFLiYi9) - very good full english breakfast, paninis, burgers,
   big drink sizes, reasonable prices. The bacon is well done just the way I like it, in both the english breakfast and
   panini. This is my favourite place for breakfast
@@ -1816,6 +1818,9 @@ District 1 is where you want to stay here.
   good quality, has wifi
 - [Melbourne Cafe](https://maps.app.goo.gl/F7CbiqbHkB3en9kQA) - good mixed juices, English breakfast, pancake stacks,
   wifi, moderate prices, vietnamese food at the back of menu is cheaper
+- [Me In Noodle](https://maps.app.goo.gl/FjkCyUYhGCk9inxb8) - next to Ben Thanh Market, very interesting noodles menu,
+  twice the price of the cheap places inside the Ben Thant market hall but full busy with foreigners,
+  and the adjacent Mama's Kitchen restaurant has a different menu and also full
 - [Hello Saigon](https://maps.app.goo.gl/VNXgnuDVmC1VyD1u5) - good food, reasonable prices,
   the seafood crispy taro salad is good but cold, the mango and peach teas are too sweet despite asking them to reduce
   sugar and second time around no sugar, must be due to lots of syrup
