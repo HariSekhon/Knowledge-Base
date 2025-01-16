@@ -44,6 +44,8 @@
 1. [R](r.md) - old data analytics languages, matrices, awkward, but widely used and lots of libraries
 1. [Expect](#expect) - an extension of the Tcl language specialized in interactive text interface automation and
    keystroke control
+1. [HTMX](https://htmx.org/) - [:octocat: bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) -
+   power tools for HTML
 
 Beware the `"Hello World"`... see [this meme](#hello-world) further down.
 
