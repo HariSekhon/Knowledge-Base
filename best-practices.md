@@ -97,8 +97,7 @@ accounted for.
 
 If you are going to insist on breaking this rule, at least have a fast detection and rollback strategy.
 
-You don't want
-to be at dinner with your girlfriend in the evening taking calls
+You don't want to be at dinner with your girlfriend in the evening taking calls
 and scrambling because someone only noticed the problem you caused 3 hours later when you'd left work.
 
 Keep It Simple - don't break this rule. It will bite you one day, one way or another.
