@@ -403,13 +403,13 @@ gh cache list
 gh cache delete "$CACHE_ID"  # from above command
 ```
 
-or lazily,
-copy this blast all caches in the current repo
-(this is safe to do as they'll just get rebuilt and clear the above error):
+or lazily, copy this blast all caches in the current repo:
 
 ```shell
 gh cache ls --json 'key' --jq '.[].key' |
 while read -r key; do gh cache delete "$key"; done
 ```
+
+(this is safe to do as they'll just get rebuilt and clear the above error)
 
 **Ported from private Knowledge Base page 2019+**
