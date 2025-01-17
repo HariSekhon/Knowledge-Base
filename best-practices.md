@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [The Cardinal Rule of IT](#the-cardinal-rule-of-it)
+- [Hire Talent Above All Else](#hire-talent-above-all-else)
 - [Budget vs Reality](#budget-vs-reality)
 - [High Availability and Multi-Datacenter](#high-availability-and-multi-datacenter)
 - [Use Version Control for Everything Textual - Code, Configs & Docs](#use-version-control-for-everything-textual---code-configs--docs)
@@ -18,6 +19,8 @@
 - [Technology Specific Best Practices](#technology-specific-best-practices)
   - [Kubernetes - Production Ready Checklist](#kubernetes---production-ready-checklist)
   - [GitHub Actions CI/CD Best Practices](#github-actions-cicd-best-practices)
+- [Memes](#memes)
+  - [Debugging Someone Else's Code](#debugging-someone-elses-code)
 
 <!-- INDEX_END -->
 
@@ -33,12 +36,42 @@ This includes:
 - document your work concisely
 - use diagrams where possible
 
+## Hire Talent Above All Else
+
+If you get this right, the rest of this list will solve itself via IQ and experience.
+
+**Do not cheap out on hiring.**
+
+It's better to hire fewer more senior engineers.
+
+I've worked for roughly two dozen companies and seen teams of all configurations and ideologies.
+
+The best were always the senior teams.
+
+This means no DEI hiring discrimination - only hard Meritocracy.
+
+Hiring people who need to have their hands held will degrade the performance of your seniors.
+
+The market is already globally saturated with tech talent.
+If you can't find it, that's a reflection on your hiring policies.
+
+Offer 100% Remote work-from-anywhere and a decent global salary you will get real talent.
+
+The rest of your work life will get easier having people you can depend on to do good work and do the right thing
+without having to be on their case.
+
+If you insist on hiring in San Francisco or London where life is unaffordable for many people, then you had better be
+prepared to pay huge money for them to pay rent or mortgage.
+It's a failing strategy.
+
+![Software Devs Production Bug](images/software_devs_expensive_production_bug.jpeg)
+
 ## Budget vs Reality
 
 Make sure the money you intend to spend on IT is worth it.
 
-There is no point doing gold-plated multi-datacenter setups that take you forever to implement on salary/contractor time
-if the value of the service being offline is negligible.
+There is no point doing gold-plated multi-datacenter setups that take you forever to implement on salary / contractor
+time if the value of the service being offline is negligible.
 
 Big online businesses like social media companies,
 ad tech and trading can lose a fortune
