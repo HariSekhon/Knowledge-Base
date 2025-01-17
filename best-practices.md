@@ -52,6 +52,9 @@ This means no DEI hiring discrimination - only hard Meritocracy.
 
 Hiring people who need to have their hands held will degrade the performance of your seniors.
 
+Natural churn in the industry is roughly 18 months - spending 2 years training someone up, means they will often leave
+for another company before you gain a return on your investment.
+
 The market is already globally saturated with tech talent.
 If you can't find it, that's a reflection on your hiring policies.
 
