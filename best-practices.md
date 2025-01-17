@@ -158,4 +158,11 @@ See the [GitHub Actions](github-action,md) doc.
 
 Always make your code as readable and clear as possible.
 
+Avoid fancy tricks.
+
+Since debugging is twice as hard as writing code in the first place,
+if you write very clever code, then by definition you may not be clever enough to debug it!
+
+Don't make your life or that of your peers difficult.
+
 ![Debugging Someone Else's Code](images/oreilly_debugging_someone_elses_code.jpeg)
