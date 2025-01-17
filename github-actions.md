@@ -403,7 +403,7 @@ gh cache list
 gh cache delete "$CACHE_ID"  # from above command
 ```
 
-or lazily, this one command will blast all caches in the current repo:
+or lazily, copy this blast all caches in the current repo:
 
 ```shell
 gh cache ls --json 'key' --jq '.[].key' |
