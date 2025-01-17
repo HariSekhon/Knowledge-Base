@@ -23,6 +23,7 @@
   - [OverEngineering Simple Solutions](#overengineering-simple-solutions)
   - [Hating on Languages You Don't Use](#hating-on-languages-you-dont-use)
   - [C++ for Python Developers](#c-for-python-developers)
+  - [Hell is Debugging Other People's Code](#hell-is-debugging-other-peoples-code)
 
 <!-- INDEX_END -->
 
@@ -236,5 +237,14 @@ I suspect this is only when recruiters try programming... :wink:
 ### C++ for Python Developers
 
 ![C++ for Python Developers](images/oreilly_c%2B%2B_for_python_developers.png)
+
+### Hell is Debugging Other People's Code
+
+Or even your own code from a while ago if you haven't written it carefully and commented any fancy tricks
+(avoid using fancy tricks).
+
+This is at best janitorial work.
+
+![Hell is Debugging Other People's Code](images/oreilly_debugging_other_peoples_code.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
