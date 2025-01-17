@@ -90,7 +90,22 @@ and be able to revert if you messed something up  .
 
 People want to go home and enjoy their lives, not be stuck debugging problems you've caused.
 
+Some people will say this is fine because you should have extensive tests etc etc... and this is true,
+you should have plenty of [CI/CD](ci-cd.md) and [Tests](testing.md) but in practice Tech is now so complex that there's
+always a risk that someone can go wrong that is unforeseen, and possibly related to live dependencies that you haven't
+accounted for.
+
+If you are going to insist on breaking this rule, at least have a fast detection and rollback strategy.
+
+You don't want
+to be at dinner with your girlfriend in the evening taking calls
+and scrambling because someone only noticed the problem you caused 3 hours later when you'd left work.
+
+Keep It Simple - don't break this rule. It will bite you one day, one way or another.
+
 ![Development Cycle Friday Evening Edition](images/development_cycle_friday_evening_edition.jpg)
+
+![Breaking Stuff on Friday Let the Intern Fix It](images/oreilly_breaking_stuff_on_friday_let_intern_fix_it.jpg)
 
 ## Versioning
 
