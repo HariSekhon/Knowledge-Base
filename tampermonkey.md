@@ -11,6 +11,9 @@ Browser extension to modify the behaviour of web pages using scripts.
   - [UserScript.Zone](#userscriptzone)
   - [Greasy Fork](#greasy-fork)
   - [OpenUserJS](#openuserjs)
+- [Troubleshooting](#troubleshooting)
+  - [Script Not Triggering](#script-not-triggering)
+  - [No Scripts Are Triggering / Logging](#no-scripts-are-triggering--logging)
 
 <!-- INDEX_END -->
 
@@ -47,3 +50,27 @@ Less focused than the above two resources.
 Warning: some NSFW topics on here:
 
 <https://openuserjs.org/>
+
+## Troubleshooting
+
+### Script Not Triggering
+
+Check the `@match` line in the script matches the URL.
+
+### No Scripts Are Triggering / Logging
+
+Try adding a test script with the `@match` line and a simple:
+
+```shell
+console.log(`Test Script: Initializing...`);
+```
+
+and then look for this in your Chrome Developer Tools or equivalent Console area where the logs are shown.
+
+If even this doesn't show up... then no scripts are executing on your `@match`.
+
+After much time wasted debugging everything,
+checking my [GitHub](https://github.com/HariSekhon/TamperMonkey) revision controlled script was the same as the one in
+TamperMonkey, the solution was simple:
+
+**Solution**: remove TamperMonkey and reinstall it to get scripts triggering again.
