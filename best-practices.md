@@ -44,6 +44,9 @@ If you get this right, the rest of this list will solve itself via IQ and experi
 
 It's better to hire fewer more senior engineers.
 
+It's better to save money on software licensing
+and have good people working for you using open source technology or cost optimizing your [Cloud](cloud.md) usage.
+
 I've worked for roughly two dozen companies and seen teams of all configurations and ideologies.
 
 The best were always the senior teams.
