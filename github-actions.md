@@ -400,7 +400,7 @@ gh cache list
 ```
 
 ```shell
-gh cache delete "$cache_id"  # from above command
+gh cache delete "$CACHE_ID"  # from above command
 ```
 
 **Ported from private Knowledge Base page 2019+**
