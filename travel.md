@@ -513,6 +513,10 @@ HMRC.
 It's best to plan ahead and leave just before April 5th to not contaminate another next tax year with HMRC able to claim
 tax off you that quite frankly the UK doesn't deserve at this point.
 
+Read this article on [my Medium](https://medium.com/@harisekhon) for more:
+
+[Tax Advice for Emigrating or Going Digital Nomad](https://medium.com/@harisekhon/tax-advice-for-emigrating-or-going-digital-nomad-c100fba461ed)
+
 ### Mail Redirection
 
 Brits may want to [redirect their mail overseas](https://www.postoffice.co.uk/mail/redirection) or
