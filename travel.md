@@ -21,6 +21,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 - [International Calls using VoIP over the Internet](#international-calls-using-voip-over-the-internet)
 - [Dining Out](#dining-out)
 - [Translation](#translation)
+- [Health Insurance](#health-insurance)
 - [Beware Foreign Police & Customs](#beware-foreign-police--customs)
   - [Carry Your Official Documents Everywhere For When You _Are_ Stopped](#carry-your-official-documents-everywhere-for-when-you-_are_-stopped)
   - [Don't Speed](#dont-speed)
@@ -368,6 +369,15 @@ If travelling to a non-English speaking country, I recommend downloading the
 - Large list of supported languages
 - Optional: download language support when on wifi
   - didn't notice this making much impact on my data plan either way
+
+## Health Insurance
+
+Not used these personally yet.
+
+- [True Traveller](https://www.truetraveller.com/)
+- [Genki](https://genki.world/)
+- [Safety Wing](https://safetywing.com/)
+- [Globelink](https://www.globelink.eu/)
 
 ## Beware Foreign Police & Customs
 
