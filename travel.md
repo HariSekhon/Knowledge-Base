@@ -1828,8 +1828,16 @@ District 1 is where you want to stay here.
   panini. This is my favourite place for breakfast
 - [Little HaNoi Egg Coffee](https://maps.app.goo.gl/XjfTPMq31ci2xJf86) - eggs, salmon, avocado type breakfast, good
   drinks such as peach ice tea with peaches in it
+- [Quán ăn Bác Hiền](https://maps.app.goo.gl/hKbmBcmTAdyyXKzm7) - excellent cheap street food restaurant, ignore the
+  mediocre Google rating, the locals eat and socialize here, you will eat and drink well for less than everywhere else
 - [Chez Mimosa Cafe](https://maps.app.goo.gl/3ohXRm9hDWdbLRRL7) - affordable 3 course breakfast with a drink included,
   good quality, has wifi
+- [Kyobashi Sushi Izakaya](https://maps.app.goo.gl/3RAoMiRfzMuvHKRh8) - very good quality, soup noodles, sushi, skewers
+  moderately priced, in thhe area of bar girls where you will seconded everywhere
+- [Acai Bliss](https://maps.app.goo.gl/eUyM3zA7J8d2nuxE6) - acai bowls for around £5, good by international standards
+  but expensive for here, was quite Sunday midday, and a bit of a walk from the main areas
+- [Codonut](https://maps.app.goo.gl/z6P2dpn1nGb8goeb8) - coconut ice cream falvours in coconut bowl, with toppings,
+  open late until 1am for late night treats, with seat both inside and on the street to people watch
 - [Melbourne Cafe](https://maps.app.goo.gl/F7CbiqbHkB3en9kQA) - good mixed juices, English breakfast, pancake stacks,
   wifi, moderate prices, vietnamese food at the back of menu is cheaper
 - [Me In Noodle](https://maps.app.goo.gl/FjkCyUYhGCk9inxb8) - next to Ben Thanh Market, very interesting noodles menu,
@@ -1850,9 +1858,16 @@ District 1 is where you want to stay here.
 - [Phê La - Hồ Tùng Mậu](https://maps.app.goo.gl/wBQrLuBZRovBHpp67) - busy coffee shop with big teas, wifi and lots of
   seating upstairs, many people are on laptops there, and there are plugs to charge. Ignore the mediocre Google rating
   and look at how busy it is with mainly locals...
+- [Maan+ Coffee & Tea](https://maps.app.goo.gl/TgbhdK8oPWzaYbgV7) - popular late night tea / coffee place used mainly by
+  locals with lots of street seating, open until 2am
 - [KOI Café](https://maps.app.goo.gl/Qu4B3oRg2jptfkMRA) - opposite the Saigon center mall.
   Bubble tea shop on ground floor, coffee shop on 1st floor, seating on 2nd floor for teas from ground floor.
   Wifi code required from receipt (10 digit integer) for 120 minutes (this seems stingy compared to other coffee shops)
   and the plugs do not hold the adapters. Not as good as Phe La down the road
+- [7 Bridges Craft Beer Taproom & Restaurant / Lê Thánh Tôn](https://maps.app.goo.gl/gNu4NjdCwXFotyqh6) -
+  drinks downstairs, cosy restaurant on 3rd floor, good for a date
 - [Go2 Bar](https://maps.app.goo.gl/9JRJdoUwsQZ3JKj8A) - listen to the live music from Lost in Saigon across the street
   at a more comfortable distance and volume, and the drinks are cheaper too. People watch the entrance to Walking Street
+- [Carmen Bar](https://maps.app.goo.gl/66UqEuGme1PBFdo39) - expensive romantic bar with live music, use this only for
+  dates, it is opposite and alongside expensive high end luxury hotels
+- [YOYO BEER GARDEN Hồ Con Rùa](https://maps.app.goo.gl/e2CTUE1vqqh7NHF7A) - banging and full, mostly locals
