@@ -1870,4 +1870,4 @@ District 1 is where you want to stay here.
   at a more comfortable distance and volume, and the drinks are cheaper too. People watch the entrance to Walking Street
 - [Carmen Bar](https://maps.app.goo.gl/66UqEuGme1PBFdo39) - expensive romantic bar with live music, use this only for
   dates, it is opposite and alongside expensive high end luxury hotels
-- [YOYO BEER GARDEN Hồ Con Rùa](https://maps.app.goo.gl/e2CTUE1vqqh7NHF7A) - banging and full, mostly locals
+- [YOYO BEER GARDEN Hồ Con Rùa](https://maps.app.goo.gl/e2CTUE1vqqh7NHF7A) - banging and full at night, mostly locals
