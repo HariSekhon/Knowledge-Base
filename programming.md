@@ -27,6 +27,7 @@
   - [H8 PHP Range Rover](#h8-php-range-rover)
   - [C++ for Python Developers](#c-for-python-developers)
   - [Hell is Debugging Other People's Code](#hell-is-debugging-other-peoples-code)
+  - [Programmer Sleep Coding](#programmer-sleep-coding)
   - [Developers at Beginning vs End of of Project](#developers-at-beginning-vs-end-of-of-project)
 
 <!-- INDEX_END -->
@@ -270,6 +271,14 @@ Or even your own code from a while ago if you haven't written it carefully and c
 This is at best janitorial work.
 
 ![Hell is Debugging Other People's Code](images/oreilly_debugging_someone_elses_code.jpeg)
+
+### Programmer Sleep Coding
+
+The number of weekend mornings I’ve woken up and jumped straight on the computer for my girlfriend to ask what I’m
+doing, and then I have to explain I’ve been stuck in a coding loop half the night and need to write this sh*t down to
+get rid of it...
+
+![Programmer Sleep Coding](images/programmer_sleep_coding.jpeg)
 
 ### Developers at Beginning vs End of of Project
 
