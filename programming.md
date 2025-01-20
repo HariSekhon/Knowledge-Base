@@ -14,6 +14,7 @@
   - [Practice](#practice)
   - [Documentation](#documentation)
   - [Run It Again](#run-it-again)
+  - [Like Coding, Good at Math](#like-coding-good-at-math)
   - [Are You Really Sure You Want to be a Software Developer??](#are-you-really-sure-you-want-to-be-a-software-developer)
   - [Coding with GPT](#coding-with-gpt)
   - [Senior Devs Fixing Bugs in Production](#senior-devs-fixing-bugs-in-production)
@@ -198,6 +199,12 @@ Every one of you engineers has done this…
 Don’t pretend you haven’t !!
 
 ![Run It Again](images/my_code_doesnt_work_change_nothing_run_it_again.jpeg)
+
+### Like Coding, Good at Math
+
+Not any more 😭
+
+![Like Coding, Good at Math](images/cat_like_coding_good_at_math.jpeg)
 
 ### Are You Really Sure You Want to be a Software Developer??
 
