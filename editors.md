@@ -29,6 +29,8 @@
 - [Editor Config](#editor-config)
 - [Misc Eclipse IDE Notes](#misc-eclipse-ide-notes)
   - [Eclipse Plugins](#eclipse-plugins)
+- [Meme](#meme)
+  - [Light Theme IDE](#light-theme-ide)
 
 <!-- INDEX_END -->
 
@@ -270,5 +272,13 @@ IntelliJ also has JSON error validation, but it's not as good as it's hard to se
 - Findbugs
 - CodeTemplates
 - Mylyn
+
+## Meme
+
+### Light Theme IDE
+
+Any of you who advocate for light theme IDE are not to be trusted in my opinion... 😉😂
+
+![Light Theme IDE](images/light_theme_ide.jpeg)
 
 **Ported from various private Knowledge Base pages 2013+**
