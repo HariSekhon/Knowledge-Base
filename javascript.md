@@ -8,6 +8,8 @@ It's nothing to do with Java.
   - [NPM](#npm)
 - [Libraries](#libraries)
 - [Repos](#repos)
+- [Meme](#meme)
+  - [Men Who Take Risks](#men-who-take-risks)
 
 <!-- INDEX_END -->
 
@@ -72,3 +74,9 @@ npm install
 ## Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=TamperMonkey&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/TamperMonkey)
+
+## Meme
+
+### Men Who Take Risks
+
+![Men Who Take Risks](images/men_who_take_risks_javascript_framework_written_by_facebook.jpeg)
