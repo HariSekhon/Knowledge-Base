@@ -3,9 +3,12 @@
 <!-- INDEX_START -->
 
 - [Test Driven Development](#test-driven-development)
-- [Diagram](#diagram)
+- [Diagrams](#diagrams)
   - [Different Testing Methods](#different-testing-methods)
-- [Meme](#meme)
+  - [API Testing](#api-testing)
+- [Memes](#memes)
+  - [Feature Dev vs QA vs User Testing](#feature-dev-vs-qa-vs-user-testing)
+  - [Testing Code or Code Testing Me](#testing-code-or-code-testing-me)
 
 <!-- INDEX_END -->
 
@@ -28,6 +31,12 @@ Don't be these people - it's funny because it's wrong:
 
 ![API Testing](images/api_testing.gif)
 
-## Meme
+## Memes
+
+### Feature Dev vs QA vs User Testing
 
 ![Feature vs Dev Testing vs QA vs User](images/feature_dev_testing_qa_user.jpeg)
+
+### Testing Code or Code Testing Me
+
+![Testing Code or Code Testing Me](images/testing_the_code_or_code_testing_me.jpeg)
