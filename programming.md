@@ -27,6 +27,7 @@
   - [H8 PHP Range Rover](#h8-php-range-rover)
   - [C++ for Python Developers](#c-for-python-developers)
   - [Hell is Debugging Other People's Code](#hell-is-debugging-other-peoples-code)
+  - [Developers at Beginning vs End of of Project](#developers-at-beginning-vs-end-of-of-project)
 
 <!-- INDEX_END -->
 
@@ -269,5 +270,9 @@ Or even your own code from a while ago if you haven't written it carefully and c
 This is at best janitorial work.
 
 ![Hell is Debugging Other People's Code](images/oreilly_debugging_someone_elses_code.jpeg)
+
+### Developers at Beginning vs End of of Project
+
+![Developers at Beginning vs End of Project](images/developers_at_beginning_vs_end_of_project.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
