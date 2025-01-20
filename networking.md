@@ -22,6 +22,8 @@
   - [Network - Layer 3 - Remote - IP](#network---layer-3---remote---ip)
   - [Web Basics](#web-basics)
   - [Browser Flow](#browser-flow)
+- [Meme](#meme)
+  - [Which Server is Fastest](#which-server-is-fastest)
 
 <!-- INDEX_END -->
 
@@ -280,3 +282,9 @@ From the [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as
 ### Browser Flow
 
 ![Browser Flow](images/browser_workflow.gif)
+
+## Meme
+
+### Which Server is Fastest
+
+![Which Server is Fastest](images/which_server_is_fastest_google_facebook_localhost.jpeg)
