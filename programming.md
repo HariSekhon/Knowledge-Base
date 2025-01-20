@@ -22,6 +22,7 @@
   - [Meme Driven Development](#meme-driven-development)
   - [OverEngineering Simple Solutions](#overengineering-simple-solutions)
   - [Hating on Languages You Don't Use](#hating-on-languages-you-dont-use)
+  - [H8 PHP Range Rover](#h8-php-range-rover)
   - [C++ for Python Developers](#c-for-python-developers)
   - [Hell is Debugging Other People's Code](#hell-is-debugging-other-peoples-code)
 
@@ -233,6 +234,12 @@ I suspect this is only when recruiters try programming... :wink:
 ### Hating on Languages You Don't Use
 
 ![Hating on Languages You Don't Use](images/oreilly_hating_on_languages_you_dont_use.jpeg)
+
+### H8 PHP Range Rover
+
+Hate PHP... but PHP paid for the Range Rover...
+
+![H8 PHP Range Rover](images/h8_php_range_rover.jpeg)
 
 ### C++ for Python Developers
 
