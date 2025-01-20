@@ -22,6 +22,7 @@ The cutting edge is Diagrams-as-Code.
   - [Complexity](#complexity)
 - [Diagram of Diagrams-as-Code Tools](#diagram-of-diagrams-as-code-tools)
 - [UML Class Diagrams](#uml-class-diagrams)
+- [Graph Generation Repos](#graph-generation-repos)
 
 <!-- INDEX_END -->
 
