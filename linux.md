@@ -20,6 +20,8 @@
 - [Linux Boot Process](#linux-boot-process)
 - [Linux Filesystem Layout](#linux-filesystem-layout)
 - [eBPF](#ebpf)
+- [Meme](#meme)
+  - [How I Sleep](#how-i-sleep)
 
 <!-- INDEX_END -->
 
@@ -335,5 +337,13 @@ See the [Binaries Debugging](binaries-debugging.md) doc for commands to examine 
 Kernel level for networking observability, tracing, and security
 
 <https://ebpf.io/>
+
+## Meme
+
+### How I Sleep
+
+But then you discover [Macs](mac.md) and spend it anyway...
+
+![How I Sleep Paying No Licenses](images/how_i_sleep_linux_no_licenses.jpeg)
 
 **Ported from various private Knowledge Base pages 2002+**
