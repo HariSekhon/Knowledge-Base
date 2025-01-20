@@ -5,6 +5,7 @@ NOT PORTED YET
 <!-- INDEX_START -->
 
 - [DevOps Bash tools for AWS, EKS, EC2 etc](#devops-bash-tools-for-aws-eks-ec2-etc)
+- [Multi-Session Console](#multi-session-console)
 - [AWS CLI](#aws-cli)
   - [Install AWS CLI](#install-aws-cli)
   - [Configure AWS CLI](#configure-aws-cli)
@@ -51,6 +52,15 @@ NOT PORTED YET
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
+## Multi-Session Console
+
+If using several AWS accounts as per best practice isolation, you may want to turn on Multi-Session Console support
+for up to 5 sessions as documented here:
+
+<https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/multisession.html>
+
+Note this will change existing URLs by adding a subdomain to distinguish sessions.
 
 ## AWS CLI
 
