@@ -10,6 +10,8 @@ YAML is used for configuration by many technologies as it's easier and cleaner t
 - [Advanced YAML](#advanced-yaml)
   - [Anchors and References](#anchors-and-references)
   - [Override / Extend - Anchors and References](#override--extend---anchors-and-references)
+- [Meme](#meme)
+  - [Fixing YAML](#fixing-yaml)
 
 <!-- INDEX_END -->
 
@@ -86,3 +88,9 @@ Use `&` prefix anchor to mark a section and `*` to reference to it later in the 
 ### Override / Extend - Anchors and References
 
 Prefix the `*<name>` reference with `<<:` to allow you to add more fields underneath it. Same name fields are overridden.
+
+## Meme
+
+### Fixing YAML
+
+![Fixing YAML](images/homer_simpson_fixing_yaml.jpeg)
