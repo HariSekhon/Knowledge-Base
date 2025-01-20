@@ -15,6 +15,7 @@
   - [Documentation](#documentation)
   - [Run It Again](#run-it-again)
   - [Like Coding, Good at Math](#like-coding-good-at-math)
+  - [Software Development Process](#software-development-process)
   - [Are You Really Sure You Want to be a Software Developer??](#are-you-really-sure-you-want-to-be-a-software-developer)
   - [Coding with GPT](#coding-with-gpt)
   - [Senior Devs Fixing Bugs in Production](#senior-devs-fixing-bugs-in-production)
@@ -205,6 +206,14 @@ Don’t pretend you haven’t !!
 Not any more 😭
 
 ![Like Coding, Good at Math](images/cat_like_coding_good_at_math.jpeg)
+
+### Software Development Process
+
+How many times have you tech bros questioned your life choices?
+
+Be honest now…
+
+![Software Development Process](images/software_development_process.jpeg)
 
 ### Are You Really Sure You Want to be a Software Developer??
 
