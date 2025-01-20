@@ -272,4 +272,10 @@ or achieving high availability being left to separate diagrams for each one.
 
 ![UML Class Diagrams Cheatsheet](images/uml_diagrams.gif)
 
+## Graph Generation Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Graph-Commit-Times&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Graph-Commit-Times)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Repos-MermaidJS-Gantt-Chart&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Repos-MermaidJS-Gantt-Chart)
+
 **Ported from various private Knowledge Base pages 2020+**
