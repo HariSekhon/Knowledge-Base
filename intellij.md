@@ -41,6 +41,8 @@ Feature rich and easy to use - the opposite end of [vim](vim.md)!
   - [Markdown Images with Relative Paths Not Displaying in Preview](#markdown-images-with-relative-paths-not-displaying-in-preview)
   - [External Tool - unexpected EOF while looking for matching `''](#external-tool---unexpected-eof-while-looking-for-matching-)
 - [See Also](#see-also)
+- [Meme](#meme)
+  - [Light Theme IDE](#light-theme-ide)
 
 <!-- INDEX_END -->
 
@@ -514,5 +516,13 @@ which works on the command line but not in IntelliJ.
 Expression Evaluation
 
 Productivity Guide (tracks how often you use each shortcut)
+
+## Meme
+
+### Light Theme IDE
+
+Any of you who advocate for light theme IDE are not to be trusted in my opinion... 😉😂
+
+![Light Theme IDE](images/light_theme_ide.jpeg)
 
 **Ported from various private Knowledge Base pages 2013+**
