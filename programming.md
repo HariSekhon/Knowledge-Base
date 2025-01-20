@@ -11,6 +11,7 @@
 - [Count Lines of Code](#count-lines-of-code)
 - [Memes](#memes)
   - [Hello World](#hello-world)
+  - [Program in Tutorial vs Made Following Tutorial](#program-in-tutorial-vs-made-following-tutorial)
   - [Practice](#practice)
   - [Documentation](#documentation)
   - [Run It Again](#run-it-again)
@@ -184,6 +185,10 @@ github_public_lines_of_code.sh
 ### Hello World
 
 ![Printing Hello World](images/printing_hello_world_in_5_languages.jpeg)
+
+### Program in Tutorial vs Made Following Tutorial
+
+![Program in Tutorial vs Made Following Tutorial](images/program_in_tutorial_vs_made_after_following_tutorial.jpeg)
 
 ### Practice
 
