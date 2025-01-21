@@ -1830,7 +1830,7 @@ Don't got to Hanoi in the winter - it is not Thailand, it is cold and you will n
 I much prefer this to Hanoi, it is ~1000km south with much better weather, better tourist areas,
 but more expensive to eat and drink there.
 
-District 1 is where you want to stay here.
+[District 1](https://maps.app.goo.gl/HM1EcK3Tnrf25aR4A) is where you want to stay here.
 
 - [Ben Thanh Market](https://maps.app.goo.gl/SePL2UKPEa75bHo16) - indoor market with food, juices, clothes, souvenirs
   etc. Eat here, it's much cheaper than most restaurants in the area
