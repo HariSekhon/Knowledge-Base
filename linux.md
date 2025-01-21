@@ -19,6 +19,7 @@
 - [Binaries Debugging](#binaries-debugging)
 - [Linux Boot Process](#linux-boot-process)
 - [Linux Filesystem Layout](#linux-filesystem-layout)
+- [OOM Killer](#oom-killer)
 - [eBPF](#ebpf)
 - [Meme](#meme)
   - [How I Sleep](#how-i-sleep)
@@ -331,6 +332,14 @@ See the [Binaries Debugging](binaries-debugging.md) doc for commands to examine 
 ## Linux Filesystem Layout
 
 ![Linux Filesystem Layout](images/linux_filesystem_layout.gif)
+
+## OOM Killer
+
+Out of Memory Killer will `kill -9` forcibly terminate the largest RAM consuming process when the OS runs out of RAM.
+
+This is considered the better alternative than letting the whole OS crash.
+
+![Linux OOM Killer](images/linux_oom_killer_vs_windows.jpeg)
 
 ## eBPF
 
