@@ -23,6 +23,7 @@
 - [Memes](#memes)
   - [Getting Good At Engineering](#getting-good-at-engineering)
   - [Debugging Someone Else's Code](#debugging-someone-elses-code)
+  - [Commercial Negotiations - Out Foxing Vendors](#commercial-negotiations---out-foxing-vendors)
 
 <!-- INDEX_END -->
 
@@ -238,3 +239,7 @@ if you write very clever code, then by definition you may not be clever enough t
 Don't make your life or that of your peers difficult.
 
 ![Debugging Someone Else's Code](images/oreilly_debugging_someone_elses_code.jpeg)
+
+### Commercial Negotiations - Out Foxing Vendors
+
+![Commercial Negotiations Out Foxing Vendors](images/orly_commercial_negotiations_out_foxing_vendors.png)
