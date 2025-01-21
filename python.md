@@ -38,6 +38,8 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
   - [Python Fault Handler](#python-fault-handler)
     - [Enable Python Fault Handler](#enable-python-fault-handler)
   - [Alpine `ModuleNotFoundError: No module named 'pip._vendor.six.moves'`](#alpine-modulenotfounderror-no-module-named-pip_vendorsixmoves)
+- [Meme](#meme)
+  - [Programming Python](#programming-python)
 
 <!-- INDEX_END -->
 
@@ -392,5 +394,11 @@ Fix:
 apk del py3-pip py-pip
 apk add py3-pip
 ```
+
+## Meme
+
+### Programming Python
+
+![Programming Python](images/oreilly_programming_python_maintenance_naive_guide.png)
 
 **Partial port from private Knowledge Base page 2008+**
