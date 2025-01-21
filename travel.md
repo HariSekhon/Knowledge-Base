@@ -1871,7 +1871,7 @@ District 1 is where you want to stay here.
 - [Vincom Center](https://maps.app.goo.gl/Fn87yQusZTwmsZMJ8) - shopping center with a lot of good looking restaurants
   on the lowest floor. Will be pricier than Ben Thanh Market
 - [SIPFÉ coffee & sweets](https://maps.app.goo.gl/f3vBwFMg1XvLEhqu7) - fancy coffee place, nice drinks. Lots of girls
-  taking pics due to the nice surroundings
+  dressing up and having their friends take pics of them due to the nice surroundings
 - [Phê La - Hồ Tùng Mậu](https://maps.app.goo.gl/wBQrLuBZRovBHpp67) - busy coffee shop with big teas, wifi and lots of
   seating upstairs, many people are on laptops there, and there are plugs to charge. Ignore the mediocre Google rating
   and look at how busy it is with mainly locals...
