@@ -30,6 +30,7 @@
   - [Hell is Debugging Other People's Code](#hell-is-debugging-other-peoples-code)
   - [Programmer Sleep Coding](#programmer-sleep-coding)
   - [Developers at Beginning vs End of of Project](#developers-at-beginning-vs-end-of-of-project)
+  - [When You Decide to Share Your Pain With Users](#when-you-decide-to-share-your-pain-with-users)
 
 <!-- INDEX_END -->
 
@@ -288,5 +289,9 @@ get rid of it...
 ### Developers at Beginning vs End of of Project
 
 ![Developers at Beginning vs End of Project](images/developers_at_beginning_vs_end_of_project.jpeg)
+
+### When You Decide to Share Your Pain With Users
+
+![Password Typed Too Quickly](images/password_typed_too_quickly_denied.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
