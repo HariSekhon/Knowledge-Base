@@ -7,6 +7,7 @@ General AI mirroring what humans have is not real yet.
 <!-- INDEX_START -->
 
 - [Learning](#learning)
+- [Run AI with API](#run-ai-with-api)
 - [Chat](#chat)
   - [ChatGPT](#chatgpt)
   - [SQL Chat](#sql-chat)
@@ -29,6 +30,10 @@ General AI mirroring what humans have is not real yet.
 ## Learning
 
 <https://www.cloudskillsboost.google/paths/118>
+
+## Run AI with API
+
+- [Replicate](https://replicate.com/)
 
 ## Chat
 
