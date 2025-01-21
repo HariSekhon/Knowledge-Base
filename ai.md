@@ -14,7 +14,8 @@ General AI mirroring what humans have is not real yet.
     - [Ollama](#ollama)
 - [Text to Speech](#text-to-speech)
 - [Grammar](#grammar)
-- [Video](#video)
+- [Visual](#visual)
+  - [Video](#video)
 - [UI](#ui)
 - [Coding](#coding)
 - [RAG - Retrieval Augmented Generation](#rag---retrieval-augmented-generation)
@@ -67,9 +68,12 @@ Why does the performance degrade after one query?
 - [Grammarly](https://app.grammarly.com>)
 - [HemingwayApp](https://hemingwayapp.com)
 
-## Video
+## Visual
+
+### Video
 
 - [InVideo AI](https://invideo.io/)
+- [LumaLabs Dream Machine](https://lumalabs.ai/dream-machine) - pics or video
 
 ## UI
 
