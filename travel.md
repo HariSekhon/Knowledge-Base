@@ -1873,7 +1873,7 @@ District 1 is where you want to stay here.
 - [SIPFÉ coffee & sweets](https://maps.app.goo.gl/f3vBwFMg1XvLEhqu7) - fancy coffee place, nice drinks. Lots of girls
   dressing up and having their friends take pics of them due to the nice surroundings
 - [Antiko Kafe 24/7](https://maps.app.goo.gl/2eMS2EFFkAbipvgS8) - 24 hour student cafe, 3 floors. Tropical iced tea is
-  full of fruit and lots of seating, wifi and plugs, lots of students there are midnight
+  full of fruit, lots of seating, wifi, plugs, lots of students there are midnight
 - [Phê La - Hồ Tùng Mậu](https://maps.app.goo.gl/wBQrLuBZRovBHpp67) - busy coffee shop with big teas, wifi and lots of
   seating upstairs, many people are on laptops there, and there are plugs to charge. Ignore the mediocre Google rating
   and look at how busy it is with mainly locals...
