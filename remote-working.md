@@ -10,3 +10,7 @@
 ### Work from Home
 
 ![Work from Home](images/forest_gump_just_like_that_could_work_from_home.jpeg)
+
+### Working at Office vs Home
+
+![Working at Office vs Home](images/working_at_office_vs_at_home.jpeg)
