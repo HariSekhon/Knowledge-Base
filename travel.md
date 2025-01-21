@@ -21,6 +21,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 - [International Calls using VoIP over the Internet](#international-calls-using-voip-over-the-internet)
 - [Dining Out](#dining-out)
 - [Translation](#translation)
+- [Mosquito Repellent](#mosquito-repellent)
 - [Health Insurance](#health-insurance)
 - [Beware Foreign Police & Customs](#beware-foreign-police--customs)
   - [Carry Your Official Documents Everywhere For When You _Are_ Stopped](#carry-your-official-documents-everywhere-for-when-you-_are_-stopped)
@@ -369,6 +370,20 @@ If travelling to a non-English speaking country, I recommend downloading the
 - Large list of supported languages
 - Optional: download language support when on wifi
   - didn't notice this making much impact on my data plan either way
+
+## Mosquito Repellent
+
+Buy a good mosquito repellent if you're travelling anywhere near the Mediterranean, Asia or Africa -
+I even got eaten in Belgium in summer time!
+
+I find that cream works better than spray.
+
+It is no fun being itchy all the time because these little bastards are biting you every day and night and leaving
+lumps all over you.
+
+And you can't feel them land to catch them and can never seem to kill enough of them.
+
+You *need* mosquito repellent. Don't miss it.
 
 ## Health Insurance
 
