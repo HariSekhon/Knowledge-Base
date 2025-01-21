@@ -13,6 +13,7 @@
   - [Hello World](#hello-world)
   - [Program in Tutorial vs Made Following Tutorial](#program-in-tutorial-vs-made-following-tutorial)
   - [Resolving Broken Dependencies](#resolving-broken-dependencies)
+  - [Butting Head Against Programming Problem](#butting-head-against-programming-problem)
   - [Practice](#practice)
   - [Documentation](#documentation)
   - [Run It Again](#run-it-again)
@@ -195,6 +196,10 @@ github_public_lines_of_code.sh
 ### Resolving Broken Dependencies
 
 ![Resolving Broken Dependencies](images/oreilly_resolving_broken_dependencies.png)
+
+### Butting Head Against Programming Problem
+
+![Butting Head Against Programming Problem](images/orly_butting_head_programming_problem_until_it_works.png)
 
 ### Practice
 
