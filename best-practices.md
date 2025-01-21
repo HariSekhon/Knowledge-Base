@@ -16,6 +16,7 @@
 - [Automation](#automation)
 - [Documentation](#documentation)
 - [Principle: Time Amplification Effect](#principle-time-amplification-effect)
+- [Avoid Vendor Lock In](#avoid-vendor-lock-in)
 - [Technology Specific Best Practices](#technology-specific-best-practices)
   - [Kubernetes - Production Ready Checklist](#kubernetes---production-ready-checklist)
   - [GitHub Actions CI/CD Best Practices](#github-actions-cicd-best-practices)
@@ -195,6 +196,19 @@ Do not waste your colleagues time.
 If you've spent hours reading through a vendor's code base of Terraform code they want you to deploy
 or retrofit to your AWS environment, then write a 1 page summary on it so
 all your colleagues don't have to waste their time repeating the same work!
+
+## Avoid Vendor Lock In
+
+Vendors can increase costs on you at yearly renewals.
+
+Maintain portability and use open source usage where ever possible.
+
+Only use proprietary technology when you must and when it has a huge advantage.
+
+Negotiable in contract maximum yearly rate increases to prevent large jumps eg.
+20% as one notorious legacy DB vendor did to an investment bank I worked at.
+
+![Vendor Lock In](images/orly_building_tech_moats.png)
 
 ## Technology Specific Best Practices
 
