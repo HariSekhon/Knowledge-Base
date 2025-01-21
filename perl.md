@@ -24,6 +24,8 @@ It's the language of elite unix sysadmins, and much of unix tooling is built on 
   - [Other](#other)
   - [More](#more)
 - [My Perl Library with Unit Tests](#my-perl-library-with-unit-tests)
+- [Meme](#meme)
+  - [Ugly Code](#ugly-code)
 
 <!-- INDEX_END -->
 
@@ -205,5 +207,11 @@ Other popular libraries:
 ## My Perl Library with Unit Tests
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=lib&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/lib)
+
+## Meme
+
+### Ugly Code
+
+![Ugly Code](images/orly_ugly_code_only_author_could_love_perl.png)
 
 **Partial port from private Knowledge Base page 2009+**
