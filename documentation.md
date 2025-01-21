@@ -19,6 +19,7 @@
 - [Meme](#meme)
   - [Yoda Documentation](#yoda-documentation)
   - [Cheetah Documentation](#cheetah-documentation)
+  - [Debugging Code After Handover](#debugging-code-after-handover)
 
 <!-- INDEX_END -->
 
@@ -231,5 +232,13 @@ If someone gives you this response, send them here to show them how it's done. :
 ### Cheetah Documentation
 
 ![senior_guides_and_teaches](images/non_toxic_senior_who_guides_and_teaches_me_I_will_fight_for_you.jpeg)
+
+### Debugging Code After Handover
+
+Make friends with the departing techie and get his WhatsApp.
+
+You're going to need it.
+
+![Debuggging Code After Handover](images/orly_debugging_code_after_handover_flying_blind.png)
 
 **I may well call upon you to defeat tedious Agile ceremonies!**
