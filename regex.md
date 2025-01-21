@@ -28,6 +28,8 @@ for grep, sed & awk.
 - [Library of Regex in Python](#library-of-regex-in-python)
 - [Library of Regex in Bash](#library-of-regex-in-bash)
 - [Examples of Real-world Regex Used Extensively](#examples-of-real-world-regex-used-extensively)
+- [Meme](#meme)
+  - [Expert Regex](#expert-regex)
 
 <!-- INDEX_END -->
 
@@ -113,3 +115,9 @@ PCRE regex - see especially anonymize.py / anonymize.pl in these repos among man
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Perl-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Perl-tools)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
+
+## Meme
+
+### Expert Regex
+
+![Expert Regex](images/oreilly_expert_regex_by_trial_and_error.jpg)
