@@ -22,6 +22,7 @@ General AI mirroring what humans have is not real yet.
 - [RAG - Retrieval Augmented Generation](#rag---retrieval-augmented-generation)
 - [List of AI Tools By Categories](#list-of-ai-tools-by-categories)
 - [Meme](#meme)
+  - [Building AI to Replace Humans](#building-ai-to-replace-humans)
   - [Say Powered by AI One More Time](#say-powered-by-ai-one-more-time)
   - [Coding with GPT](#coding-with-gpt)
 
@@ -109,6 +110,10 @@ Combines LLM with referencing an authoritative traditional Knowledge Base before
 ![List of AI Tools by Categories](images/list-of-ai-tools-by-categories.webp)
 
 ## Meme
+
+### Building AI to Replace Humans
+
+![Building AI to Replace Humans](images/orly_building_ai_to_replace_humans.png)
 
 ### Say Powered by AI One More Time
 
