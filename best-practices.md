@@ -20,6 +20,7 @@
   - [Kubernetes - Production Ready Checklist](#kubernetes---production-ready-checklist)
   - [GitHub Actions CI/CD Best Practices](#github-actions-cicd-best-practices)
 - [Memes](#memes)
+  - [Getting Good At Engineering](#getting-good-at-engineering)
   - [Debugging Someone Else's Code](#debugging-someone-elses-code)
 
 <!-- INDEX_END -->
@@ -206,6 +207,10 @@ See the [Kubernetes Production Ready Checklist](kubernetes-production-ready-chec
 See the [GitHub Actions](github-action,md) doc.
 
 ## Memes
+
+### Getting Good At Engineering
+
+![Getting Good At Engineering](images/orly_getting_good_at_engineering_the_slow_way.png)
 
 ### Debugging Someone Else's Code
 
