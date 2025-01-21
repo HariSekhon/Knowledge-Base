@@ -16,6 +16,7 @@
   - [Practice](#practice)
   - [Butting Head Against A Programming Problem](#butting-head-against-a-programming-problem)
   - [Documentation](#documentation)
+  - [Poking the Hornets Nest](#poking-the-hornets-nest)
   - [Run It Again](#run-it-again)
   - [Like Coding, Good at Math](#like-coding-good-at-math)
   - [Software Development Process](#software-development-process)
@@ -210,6 +211,10 @@ github_public_lines_of_code.sh
 The importance of documentation:
 
 ![There's No Documentation - The Code is the Documentation](images/theres_no_documentation_code_is_self_explanatory.jpeg)
+
+### Poking the Hornets Nest
+
+![Poking the Hornets Nest](images/orly_poking_hornets_nest_of_company_codebase.png)
 
 ### Run It Again
 
