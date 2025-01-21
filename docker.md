@@ -41,6 +41,8 @@ Lightweight application containers containing app + all dependencies.
   - [DNS Issues](#dns-issues)
   - [Elasticsearch 5.0 Docker error](#elasticsearch-50-docker-error)
   - [Slow `COPY` during build on Windows](#slow-copy-during-build-on-windows)
+- [Meme](#meme)
+  - [Using Docker](#using-docker)
 
 <!-- INDEX_END -->
 
@@ -556,5 +558,11 @@ This is a small files problem that can manifest in very high CPU usage showing a
 If the above is taking a disproportionate amount of time, try disabling the anti-virus from scanning the agent directory where the workdir is.
 
 For example, adding this exclusion in Semantec anti-virus resulted in a build going from timing out after 2 hours to 2 minutes in Azure DevOps Pipelines on Windows - a shocking performance difference.
+
+## Meme
+
+### Using Docker
+
+![Using Docker](images/orly_using_docker_until_you_get_beached.png)
 
 **Partial port from private Knowledge Base page 2014+**
