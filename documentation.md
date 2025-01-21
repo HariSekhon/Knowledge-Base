@@ -20,6 +20,7 @@
   - [Yoda Documentation](#yoda-documentation)
   - [Cheetah Documentation](#cheetah-documentation)
   - [Debugging Code After Handover](#debugging-code-after-handover)
+  - [Postmortem Analysis - Explaining Production Outages](#postmortem-analysis---explaining-production-outages)
 
 <!-- INDEX_END -->
 
@@ -240,5 +241,9 @@ Make friends with the departing techie and get his WhatsApp.
 You're going to need it.
 
 ![Debuggging Code After Handover](images/orly_debugging_code_after_handover_flying_blind.png)
+
+### Postmortem Analysis - Explaining Production Outages
+
+![Postmortem Analysis](images/orly_postmortem_analysis_explaining_production_outages.png)
 
 **I may well call upon you to defeat tedious Agile ceremonies!**
