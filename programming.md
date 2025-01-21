@@ -13,8 +13,8 @@
   - [Hello World](#hello-world)
   - [Program in Tutorial vs Made Following Tutorial](#program-in-tutorial-vs-made-following-tutorial)
   - [Resolving Broken Dependencies](#resolving-broken-dependencies)
-  - [Butting Head Against Programming Problem](#butting-head-against-programming-problem)
   - [Practice](#practice)
+  - [Butting Head Against A Programming Problem](#butting-head-against-a-programming-problem)
   - [Documentation](#documentation)
   - [Run It Again](#run-it-again)
   - [Like Coding, Good at Math](#like-coding-good-at-math)
@@ -197,13 +197,13 @@ github_public_lines_of_code.sh
 
 ![Resolving Broken Dependencies](images/oreilly_resolving_broken_dependencies.png)
 
-### Butting Head Against Programming Problem
-
-![Butting Head Against Programming Problem](images/orly_butting_head_programming_problem_until_it_works.png)
-
 ### Practice
 
 ![Practice](images/github_coding_practice_vs_innate_gift.png)
+
+### Butting Head Against A Programming Problem
+
+![Butting Head Against A Programming Problem](images/orly_butting_head_programming_problem_until_it_works.png)
 
 ### Documentation
 
