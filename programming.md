@@ -12,6 +12,7 @@
 - [Memes](#memes)
   - [Hello World](#hello-world)
   - [Program in Tutorial vs Made Following Tutorial](#program-in-tutorial-vs-made-following-tutorial)
+  - [Resolving Broken Dependencies](#resolving-broken-dependencies)
   - [Practice](#practice)
   - [Documentation](#documentation)
   - [Run It Again](#run-it-again)
@@ -190,6 +191,10 @@ github_public_lines_of_code.sh
 ### Program in Tutorial vs Made Following Tutorial
 
 ![Program in Tutorial vs Made Following Tutorial](images/program_in_tutorial_vs_made_after_following_tutorial.jpeg)
+
+### Resolving Broken Dependencies
+
+![Resolving Broken Dependencies](images/oreilly_resolving_broken_dependencies.png)
 
 ### Practice
 
