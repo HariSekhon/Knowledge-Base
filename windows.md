@@ -14,6 +14,8 @@
   - [Find the location of a binary in the %PATH%](#find-the-location-of-a-binary-in-the-path)
   - [List Disk Space](#list-disk-space)
   - [File Permissions](#file-permissions)
+- [Meme](#meme)
+  - [Wizard Install Software](#wizard-install-software)
 
 <!-- INDEX_END -->
 
@@ -214,3 +216,11 @@ Grant read and execute to all users:
 ```commandline
 icacls "D:\test\test.txt" /grant "users:(RX)"
 ```
+
+## Meme
+
+### Wizard Install Software
+
+How many of you dweebs are still using Windows instead of Linux or Mac?
+
+![Wizard Install Software](images/windows_wizard_install_software.jpeg)
