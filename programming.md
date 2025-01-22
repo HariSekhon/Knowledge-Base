@@ -42,6 +42,7 @@
   - [The Lead Developer](#the-lead-developer)
   - [Writing Code That Nobody Else Can Read](#writing-code-that-nobody-else-can-read)
   - [Hype Driven Development](#hype-driven-development)
+  - [Bash Scripting: Essential DevOps](#bash-scripting-essential-devops)
 
 <!-- INDEX_END -->
 
@@ -357,5 +358,9 @@ Pull Request reviews are here to preven this...
 ### Hype Driven Development
 
 ![Hype Driven Development](images/orly_hype_driven_development.jpg)
+
+### Bash Scripting: Essential DevOps
+
+![Bash Scripting: Essential DevOps](images/orly_bash_scripting_essential_devops.png)
 
 **Ported from various private Knowledge Base pages 2008+**
