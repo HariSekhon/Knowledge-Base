@@ -5,6 +5,8 @@
 - [Code Quality](#code-quality)
 - [Peer Review](#peer-review)
 - [Code Coverage](#code-coverage)
+- [Meme](#meme)
+  - [Code Quality Metrics](#code-quality-metrics)
 
 <!-- INDEX_END -->
 
@@ -43,3 +45,9 @@ Hosted Git providers like GitHub and GitLab already have mature peer review in t
 - Coverage
 - [Codecov](https://about.codecov.io/)
 - [Coverity](https://scan.coverity.com/)
+
+## Meme
+
+### Code Quality Metrics
+
+![Code Quality Metrics](images/orly_code_quality_metrics.jpeg)
