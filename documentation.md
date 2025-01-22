@@ -17,6 +17,7 @@
   - [WhatsApp Desktop Links](#whatsapp-desktop-links)
 - [Create Animated GIFs of Commands](#create-animated-gifs-of-commands)
 - [Meme](#meme)
+  - [Writing Documentation](#writing-documentation)
   - [Yoda Documentation](#yoda-documentation)
   - [Cheetah Documentation](#cheetah-documentation)
   - [Debugging Code After Handover](#debugging-code-after-handover)
@@ -224,6 +225,10 @@ vim ~/.config/terminalizer/config.yml
 ![Gif All the Things](images/gif_all_the_things.jpeg)
 
 ## Meme
+
+### Writing Documentation
+
+![Writing Documentation](images/orly_writing_documentation_todo.png)
 
 ### Yoda Documentation
 
