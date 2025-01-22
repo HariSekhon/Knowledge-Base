@@ -23,6 +23,7 @@ General AI mirroring what humans have is not real yet.
 - [List of AI Tools By Categories](#list-of-ai-tools-by-categories)
 - [Meme](#meme)
   - [Building AI to Replace Humans](#building-ai-to-replace-humans)
+- [Copying and Pasting from ChatGPT](#copying-and-pasting-from-chatgpt)
   - [Say Powered by AI One More Time](#say-powered-by-ai-one-more-time)
   - [Coding with GPT](#coding-with-gpt)
 
@@ -114,6 +115,10 @@ Combines LLM with referencing an authoritative traditional Knowledge Base before
 ### Building AI to Replace Humans
 
 ![Building AI to Replace Humans](images/orly_building_ai_to_replace_humans.png)
+
+## Copying and Pasting from ChatGPT
+
+![Copying and Pasting from ChatGPT](images/orly_copying_pasting_chatgpt.jpg)
 
 ### Say Powered by AI One More Time
 
