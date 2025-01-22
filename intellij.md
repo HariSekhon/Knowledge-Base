@@ -43,6 +43,9 @@ Feature rich and easy to use - the opposite end of [vim](vim.md)!
 - [See Also](#see-also)
 - [Meme](#meme)
   - [Light Theme IDE](#light-theme-ide)
+  - [Using Hardware to Solve Problems](#using-hardware-to-solve-problems)
+  - [So you can have 50G RAM of Chrome tabs](#so-you-can-have-50g-ram-of-chrome-tabs)
+  - [And IntelliJ hogging 20GB RAM](#and-intellij-hogging-20gb-ram)
 
 <!-- INDEX_END -->
 
@@ -524,5 +527,22 @@ Productivity Guide (tracks how often you use each shortcut)
 Any of you who advocate for light theme IDE are not to be trusted in my opinion... 😉😂
 
 ![Light Theme IDE](images/light_theme_ide.jpeg)
+
+### Using Hardware to Solve Problems
+
+This includes your MacBook Pro - 128GB RAM ftw...
+
+![Using Hardware to Solve Problems](images/orly_using_hardware_to_solve_problems.png)
+
+### So you can have 50G RAM of Chrome tabs
+
+![Chrome RAM](images/chrome_ram.gif)
+
+ps. gif screencapture scripts for the two styles, above and below, are in the
+[DevOps-Bash-tools](devops-bash-tools.md) repo.
+
+### And IntelliJ hogging 20GB RAM
+
+![IntelliJ RAM](images/intellij_ram.gif)
 
 **Ported from various private Knowledge Base pages 2013+**
