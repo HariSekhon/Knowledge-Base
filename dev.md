@@ -54,4 +54,6 @@ See [Atlassian](atlassian.md) page.
   - CLI - <https://github.com/gemnasium/toolbelt>
   - Enterprise on-prem version
 
+![Life is Short, Use Dev tools](images/life_is_short_use_dev_tools.gif)
+
 **Ported from private Knowledge Base page 2016+**
