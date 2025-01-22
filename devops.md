@@ -6,7 +6,7 @@
 - [DevOps is not entry-level](#devops-is-not-entry-level)
 - [Meme](#meme)
   - [The Dev to Ops Developer](#the-dev-to-ops-developer)
-  - [Desert Developer](#desert-developer)
+  - [The Desert Developer](#the-desert-developer)
 
 <!-- INDEX_END -->
 
@@ -77,7 +77,7 @@ Unless you a top 1% IQ talent, do not expect to be that good after a mere 5 year
 
 ![Dev to Ops Developer](images/orly_dev_to_ops_developer.png)
 
-### Desert Developer
+### The Desert Developer
 
 ![Desert Developer](images/orly_desert_developer.png)
 
