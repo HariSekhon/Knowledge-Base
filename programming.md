@@ -38,6 +38,7 @@
   - [When You Decide to Share Your Pain With Users](#when-you-decide-to-share-your-pain-with-users)
   - [The Mobile Developer](#the-mobile-developer)
   - [The Desert Developer](#the-desert-developer)
+  - [The Lead Developer](#the-lead-developer)
 
 <!-- INDEX_END -->
 
@@ -335,5 +336,9 @@ up to proficient level only for them to leave for another company to reap the be
 ### The Desert Developer
 
 ![Desert Developer](images/orly_desert_developer.png)
+
+### The Lead Developer
+
+![Lead Developer](images/orly_lead_developer.png)
 
 **Ported from various private Knowledge Base pages 2008+**
