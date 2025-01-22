@@ -15,7 +15,7 @@
 - [CGroups](#cgroups)
 - [Disk Management](#disk-management)
   - [/etc/fstab](#etcfstab)
-- [Disable tmpfs](#disable-tmpfs)
+  - [Disable tmpfs](#disable-tmpfs)
 - [DRBD](#drbd)
 - [Binaries Debugging](#binaries-debugging)
 - [Linux Boot Process](#linux-boot-process)
@@ -313,7 +313,7 @@ Validate your `/etc/fstab` by mounting using the short form of the `mount` comma
 mount /tmp
 ```
 
-## Disable tmpfs
+### Disable tmpfs
 
 `tmpfs` stores `/tmp` files in a ramdisk, limited by the machine's RAM.
 
