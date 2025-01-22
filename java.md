@@ -17,6 +17,7 @@ NOT PORTED YET.
 - [Clojure](#clojure)
 - [Memes](#memes)
   - [Books That Made You Cry](#books-that-made-you-cry)
+  - [Porting Your Language to the JVM](#porting-your-language-to-the-jvm)
 
 <!-- INDEX_END -->
 
@@ -263,5 +264,9 @@ java -jar my.jar
 ### Books That Made You Cry
 
 ![Books That Made You cry](images/books_that_made_you_cry_java_data_structures.jpeg)
+
+### Porting Your Language to the JVM
+
+![Porting Your Language to the JVM](images/orly_porting_your_language_to_jvm.png)
 
 **Ported from various private Knowledge Base pages 2010+**
