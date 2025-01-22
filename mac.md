@@ -74,8 +74,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Memes](#memes)
   - [Mac User Been Here](#mac-user-been-here)
   - [Using Hardware to Solve Problems](#using-hardware-to-solve-problems)
-  - [So you can have 50G of Chrome tabs](#so-you-can-have-50g-of-chrome-tabs)
-  - [And IntelliJ hogging 20GB](#and-intellij-hogging-20gb)
+  - [So you can have 50G RAM of Chrome tabs](#so-you-can-have-50g-ram-of-chrome-tabs)
+  - [And IntelliJ hogging 20GB RAM](#and-intellij-hogging-20gb-ram)
   - [Chrome Take All of It](#chrome-take-all-of-it)
 
 <!-- INDEX_END -->
@@ -929,14 +929,14 @@ This includes your MacBook Pro - 128GB RAM ftw...
 
 ![Using Hardware to Solve Problems](images/orly_using_hardware_to_solve_problems.png)
 
-### So you can have 50G of Chrome tabs
+### So you can have 50G RAM of Chrome tabs
 
 ![Chrome RAM](images/chrome_ram.gif)
 
 ps. gif screencapture scripts for the two styles, above and below, are in the
 [DevOps-Bash-tools](devops-bash-tools.md) repo.
 
-### And IntelliJ hogging 20GB
+### And IntelliJ hogging 20GB RAM
 
 ![IntelliJ RAM](images/intellij_ram.gif)
 
