@@ -87,7 +87,7 @@ Unless you a top 1% IQ talent, do not expect to be that good after a mere 5 year
 
 ![Lead Developer](images/orly_lead_developer.png)
 
-### DevOps Guide to Dealing with Management
+### The DevOps Guide to Dealing with Management
 
 ![DevOps Guide to Dealing with Management](images/orly_devops_guide_to_dealing_with_management.png)
 
