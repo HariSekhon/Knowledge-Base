@@ -4,6 +4,8 @@
 
 - [Misc Tools Pending Reallocation](#misc-tools-pending-reallocation)
 - [DevOps is not entry-level](#devops-is-not-entry-level)
+- [Meme](#meme)
+  - [The Dev to Ops Developer](#the-dev-to-ops-developer)
 
 <!-- INDEX_END -->
 
@@ -67,5 +69,11 @@ decades of technologies on any given day.
 This is why you will see most of the best DevOps guys have 15-20 years of experience at this point.
 
 Unless you a top 1% IQ talent, do not expect to be that good after a mere 5 years.
+
+## Meme
+
+### The Dev to Ops Developer
+
+![Dev to Ops Developer](images/orly_dev_to_ops_developer.png)
 
 **Ported from private Knowledge Base pages 2015+**
