@@ -71,7 +71,12 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Troubleshooting](#troubleshooting)
   - [Various Applications Fail to Open](#various-applications-fail-to-open)
 - [Relevant GitHub Repos](#relevant-github-repos)
-- [Meme](#meme)
+- [Memes](#memes)
+  - [Mac User Been Here](#mac-user-been-here)
+  - [Using Hardware to Solve Problems](#using-hardware-to-solve-problems)
+  - [So you can have 50G of Chrome tabs](#so-you-can-have-50g-of-chrome-tabs)
+  - [And IntelliJ hogging 20GB](#and-intellij-hogging-20gb)
+  - [Chrome Take All of It](#chrome-take-all-of-it)
 
 <!-- INDEX_END -->
 
@@ -912,8 +917,31 @@ Reboot.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
-## Meme
+## Memes
+
+### Mac User Been Here
 
 ![Mac User Been Here](images/mac_user_been_here_ds_store.jpeg)
+
+### Using Hardware to Solve Problems
+
+This includes your MacBook Pro - 128GB RAM ftw...
+
+![Using Hardware to Solve Problems](images/orly_using_hardware_to_solve_problems.png)
+
+### So you can have 50G of Chrome tabs
+
+![Chrome RAM](images/chrome_ram.gif)
+
+ps. gif screencapture scripts for the two styles, above and below, are in the
+[DevOps-Bash-tools](devops-bash-tools.md) repo.
+
+### And IntelliJ hogging 20GB
+
+![IntelliJ RAM](images/intellij_ram.gif)
+
+### Chrome Take All of It
+
+![Chrome Take All Resources](images/chrome_RAM_CPU_disk_take_all_of_it.jpeg)
 
 **Ported from various private Knowledge Base pages 2010+**
