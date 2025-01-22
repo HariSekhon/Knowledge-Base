@@ -8,9 +8,12 @@ See also [Performance Engineering](performance.md).
   - [HP Proliant Array Configuration Utility](#hp-proliant-array-configuration-utility)
 - [Dell](#dell)
   - [DRAC - Dell Remote Access Controller](#drac---dell-remote-access-controller)
+    - [`racadm` Commands](#racadm-commands)
 - [Broadcom MegaRaid](#broadcom-megaraid)
   - [MegaCLI](#megacli)
 - [See Also](#see-also)
+- [Meme](#meme)
+  - [Using Hardware to Solve Problems](#using-hardware-to-solve-problems)
 
 <!-- INDEX_END -->
 
@@ -146,5 +149,11 @@ MegaCli64 -pdInfo -PhysDrv[$enclosure_id:$disk] -aAll
 ## See Also
 
 [Storage](storage.md)
+
+## Meme
+
+### Using Hardware to Solve Problems
+
+![Using Hardware to Solve Problems](images/orly_using_hardware_to_solve_problems.png)
 
 **Ported from private Knowledge Base page 2010+**
