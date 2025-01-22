@@ -6,6 +6,8 @@
 
 - [Open Source](#open-source)
 - [Not open source](#not-open-source)
+- [Meme](#meme)
+  - [Open Source Economics](#open-source-economics)
 
 <!-- INDEX_END -->
 
@@ -23,3 +25,11 @@ Miscellaneous open source applications worthy of note.
 Bu perhaps worth a look.
 
 - [Revolt](https://revolt.chat/)
+
+## Meme
+
+### Open Source Economics
+
+It's not just about open source... :wink:
+
+![Open Source Economics](images/orly_open_source_economics.png)
