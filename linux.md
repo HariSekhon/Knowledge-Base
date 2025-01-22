@@ -23,6 +23,7 @@
 - [eBPF](#ebpf)
 - [Meme](#meme)
   - [How I Sleep](#how-i-sleep)
+  - [Standardizing on Distro](#standardizing-on-distro)
 
 <!-- INDEX_END -->
 
@@ -354,5 +355,9 @@ Kernel level for networking observability, tracing, and security
 But then you discover [Macs](mac.md) and spend it anyway...
 
 ![How I Sleep Paying No Licenses](images/how_i_sleep_linux_no_licenses.jpeg)
+
+### Standardizing on Distro
+
+![Standardizing on Distro](images/orly_standardizing_on_debian_ubuntu_not_all_linux_distros_cool_any_more.png)
 
 **Ported from various private Knowledge Base pages 2002+**
