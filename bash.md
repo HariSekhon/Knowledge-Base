@@ -33,7 +33,7 @@ is one of the few use cases for that).
   - [Clean Shell](#clean-shell)
 - [Other Cool Resources](#other-cool-resources)
 - [Style Guide](#style-guide)
-- [Tips & Tricks](#tips--tricks)
+- [More Useful Commands](#more-useful-commands)
   - [Delete a trailing blank line of a file](#delete-a-trailing-blank-line-of-a-file)
 - [Meme](#meme)
   - [Bash Scripting: Essential DevOps](#bash-scripting-essential-devops)
@@ -379,7 +379,7 @@ Points I disagree with the Google style guide on:
 - the Google guideline then tells you not to bother doing it for single character variables unless they touch another adjacent string, but doesn't follow this same logic for full word variables
 - `[[` is more advanced and less portable than `[` - only use it when you need regex matching
 
-## Tips & Tricks
+## More Useful Commands
 
 ### Delete a trailing blank line of a file
 
