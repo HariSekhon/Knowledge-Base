@@ -20,6 +20,7 @@
   - [Run It Again](#run-it-again)
   - [Like Coding, Good at Math](#like-coding-good-at-math)
   - [Software Development Process](#software-development-process)
+  - [Coding in Depth](#coding-in-depth)
   - [Are You Really Sure You Want to be a Software Developer??](#are-you-really-sure-you-want-to-be-a-software-developer)
   - [Coding with GPT](#coding-with-gpt)
   - [Senior Devs Fixing Bugs in Production](#senior-devs-fixing-bugs-in-production)
@@ -237,6 +238,10 @@ How many times have you tech bros questioned your life choices?
 Be honest now…
 
 ![Software Development Process](images/software_development_process.jpeg)
+
+### Coding in Depth
+
+![Coding in Depth](images/orly_coding_in_depth_dont_anticipate_social_life.png)
 
 ### Are You Really Sure You Want to be a Software Developer??
 
