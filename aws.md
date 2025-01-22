@@ -15,6 +15,7 @@ NOT PORTED YET
 - [Set up access to EKS - Elastic Kubernetes Services](#set-up-access-to-eks---elastic-kubernetes-services)
 - [EC2 Instances](#ec2-instances)
 - [Get EC2 Console Output](#get-ec2-console-output)
+- [Disable tmpfs](#disable-tmpfs)
 - [Clone an EC2 instance for testing](#clone-an-ec2-instance-for-testing)
 - [Add an EC2 EBS volume](#add-an-ec2-ebs-volume)
   - [Create EC2 EBS volume](#create-ec2-ebs-volume)
@@ -161,6 +162,15 @@ Debug if you're having issues rebooting a VM:
 ```shell
 aws ec2 get-console-output --instance-id "$EC2_INSTANCE_ID" | jq -r .Output
 ```
+
+## Disable tmpfs
+
+Amazon Linux 2 has `/tmp` on the root partition.
+
+Amazon Linux 2023 `/tmp` uses tmpfs which stores files in a ramdisk, limited by the EC2 instance's RAM.
+
+To disable tmpfs and go back to using `/tmp` on underlying root partition,
+follow the [Linux - Disable tmpfs](linux.md#disable-tmpfs) section.
 
 ## Clone an EC2 instance for testing
 
