@@ -1722,6 +1722,10 @@ See [The UK Decline - What I Learnt on UK Tour 2024](https://medium.com/@harisek
 
 You will get finger printed entering the country.
 
+I've worked up and down that Los Angeles part...
+
+![How Rest of World Sees USA](images/how_rest_of_world_sees_usa.jpeg)
+
 #### California
 
 California, the once golden place is not what it used to be after doubling its population from mass immigration.
@@ -1891,4 +1895,4 @@ but more expensive to eat and drink there.
 - [Carmen Bar](https://maps.app.goo.gl/66UqEuGme1PBFdo39) - expensive romantic bar with live music, use this only for
   dates, it is opposite and alongside expensive high end luxury hotels
 - [YOYO BEER GARDEN Hồ Con Rùa](https://maps.app.goo.gl/e2CTUE1vqqh7NHF7A) - banging and full at night, mostly locals
-- [Quan Pho Con Bo Vang]()https://maps.app.goo.gl/gibc8HohmBNtcSUB7) - cheap local eats place
+- [Quan Pho Con Bo Vang](https://maps.app.goo.gl/gibc8HohmBNtcSUB7) - cheap local eats place
