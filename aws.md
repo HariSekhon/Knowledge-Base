@@ -9,7 +9,8 @@ NOT PORTED YET
 - [AWS CLI](#aws-cli)
   - [Install AWS CLI](#install-aws-cli)
   - [Configure AWS CLI](#configure-aws-cli)
-  - [Recommended: AWS CLI Environment Variables](#recommended-aws-cli-environment-variables)
+  - [Recommended: Automated Environment Switching](#recommended-automated-environment-switching)
+  - [Recommended: Easy Interactive Profile Switching](#recommended-easy-interactive-profile-switching)
   - [Check your AWS Region](#check-your-aws-region)
 - [Set up access to EKS - Elastic Kubernetes Services](#set-up-access-to-eks---elastic-kubernetes-services)
 - [EC2 Instances](#ec2-instances)
@@ -89,12 +90,27 @@ doc.
 
 Typically you'll use SSO config or access keys.
 
-### Recommended: AWS CLI Environment Variables
+### Recommended: Automated Environment Switching
+
+Using AWS CLI Environment Variables.
 
 Set your environment variables in [direnv](direnv.md).
 
 See the
 [AWS CLI environment variables reference](https://docs.aws.amazon.com/cli/v1/userguide/cli-configure-envvars.html).
+
+Ready to rock AWS multi-environment switching direnv code including AWS account, region and EKS cluster:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Environments&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Environments)
+
+### Recommended: Easy Interactive Profile Switching
+
+If you have a lot of work AWS profiles due to AWS best practice of having separate accounts for everything...
+
+You can use the interactive `aws_profile.sh` script from [DevOps-Bash-tools](devops-bash-tools.md) to choose from an
+easy menu list:
+
+![AWS Profile Switching](images/aws_profiles.gif)
 
 ### Check your AWS Region
 
