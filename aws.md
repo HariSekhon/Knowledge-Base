@@ -12,21 +12,22 @@ NOT PORTED YET
   - [Recommended: Automated Environment Switching](#recommended-automated-environment-switching)
   - [Recommended: Easy Interactive Profile Switching](#recommended-easy-interactive-profile-switching)
   - [Check your AWS Region](#check-your-aws-region)
-- [Set up access to EKS - Elastic Kubernetes Services](#set-up-access-to-eks---elastic-kubernetes-services)
-- [EC2 Instances](#ec2-instances)
-- [Get EC2 Console Output](#get-ec2-console-output)
-- [Disable tmpfs](#disable-tmpfs)
-- [Clone an EC2 instance for testing](#clone-an-ec2-instance-for-testing)
-- [Add an EC2 EBS volume](#add-an-ec2-ebs-volume)
-  - [Create EC2 EBS volume](#create-ec2-ebs-volume)
-  - [Attach the new volume to the EC2 instance](#attach-the-new-volume-to-the-ec2-instance)
-  - [Partition and Format the new disk](#partition-and-format-the-new-disk)
-  - [Mount the new volume by unchanging UUID for maximum stability](#mount-the-new-volume-by-unchanging-uuid-for-maximum-stability)
-- [Resize an EC2 EBS volume](#resize-an-ec2-ebs-volume)
+  - [EKS CLI Access](#eks-cli-access)
+- [EC2](#ec2)
+  - [EC2 Instances](#ec2-instances)
+  - [Get EC2 Console Output](#get-ec2-console-output)
+  - [Disable tmpfs](#disable-tmpfs)
+  - [Clone an EC2 instance for testing](#clone-an-ec2-instance-for-testing)
+  - [Add an EC2 EBS volume](#add-an-ec2-ebs-volume)
+    - [Create EC2 EBS volume](#create-ec2-ebs-volume)
+    - [Attach the new volume to the EC2 instance](#attach-the-new-volume-to-the-ec2-instance)
+    - [Partition and Format the new disk](#partition-and-format-the-new-disk)
+    - [Mount the new volume by unchanging UUID for maximum stability](#mount-the-new-volume-by-unchanging-uuid-for-maximum-stability)
+  - [Resize an EC2 EBS volume](#resize-an-ec2-ebs-volume)
   - [Create a snapshot of the volume using its ID](#create-a-snapshot-of-the-volume-using-its-id)
-  - [Increase the size of the EBS volume](#increase-the-size-of-the-ebs-volume)
-  - [Inside the EC2 VM - grow the partition and extend the filesystem](#inside-the-ec2-vm---grow-the-partition-and-extend-the-filesystem)
-- [Remove an EC2 EBS volume from a live running instance](#remove-an-ec2-ebs-volume-from-a-live-running-instance)
+    - [Increase the size of the EBS volume](#increase-the-size-of-the-ebs-volume)
+    - [Inside the EC2 VM - grow the partition and extend the filesystem](#inside-the-ec2-vm---grow-the-partition-and-extend-the-filesystem)
+  - [Remove an EC2 EBS volume from a live running instance](#remove-an-ec2-ebs-volume-from-a-live-running-instance)
 - [RDS - Relational Database Service](#rds---relational-database-service)
   - [List RDS instances](#list-rds-instances)
   - [Reset DB master password](#reset-db-master-password)
@@ -131,11 +132,13 @@ and compare with:
 aws ec2 describe-availability-zones --query "AvailabilityZones[0].RegionName" --output text
 ```
 
-## Set up access to EKS - Elastic Kubernetes Services
+### EKS CLI Access
 
-See [eks.md](eks.md)
+See [EKS - Kubectl Access](eks.md#eks-kubectl-access) section.
 
-## EC2 Instances
+## EC2
+
+### EC2 Instances
 
 <http://aws.amazon.com/ec2/instance-types/>
 
@@ -147,7 +150,7 @@ DO NOT USE T-series (T3 / T2) **burstable** general instances types for anything
 
 They can seize up under heavy load and are not recommended for any production workloads.
 
-## Get EC2 Console Output
+### Get EC2 Console Output
 
 Find the EC2 instance ID:
 
@@ -163,7 +166,7 @@ Debug if you're having issues rebooting a VM:
 aws ec2 get-console-output --instance-id "$EC2_INSTANCE_ID" | jq -r .Output
 ```
 
-## Disable tmpfs
+### Disable tmpfs
 
 Amazon Linux 2 has `/tmp` on the root partition.
 
@@ -172,7 +175,7 @@ Amazon Linux 2023 `/tmp` uses tmpfs which stores files in a ramdisk, limited by 
 To disable tmpfs and go back to using `/tmp` on underlying root partition,
 follow the [Linux - Disable tmpfs](linux.md#disable-tmpfs) section.
 
-## Clone an EC2 instance for testing
+### Clone an EC2 instance for testing
 
 Clone an EC2 instance using this script from [DevOps-Bash-tools](devops-bash-tools.md) repo:
 
@@ -219,14 +222,14 @@ Describe the newly created instance:
 aws ec2 describe-instances --instance-ids "$instance_id" --output table
 ```
 
-## Add an EC2 EBS volume
+### Add an EC2 EBS volume
 
 This can also be useful for temporary space increases, eg. add a big `/tmp` partition to allow some
 migration loads in an [Informatica](informatica.md) agent, which can be removed later.
 
 (since you cannot shrink partitions later if you enlarge them instead)
 
-### Create EC2 EBS volume
+#### Create EC2 EBS volume
 
 Find out the zone the EC2 instance is in - you will need to create the EBS volume in the same zone:
 
@@ -299,7 +302,7 @@ aws ec2 create-tags \
   --tags Key=Name,Value="$VOLUME_DESCRIPTION"
 ```
 
-### Attach the new volume to the EC2 instance
+#### Attach the new volume to the EC2 instance
 
 This can be done with zero downtime while the VM is running.
 
@@ -328,7 +331,7 @@ aws ec2 attach-volume --device /dev/sdb \
 (you cannot specify `/dev/nvme1` as the next disk you see on Nitro VMs but if you specify `/dev/sdb` then it will
 appear as `/dev/nvme1n1` anyway)
 
-### Partition and Format the new disk
+#### Partition and Format the new disk
 
 Inside the VM - follow the [Disk Management](disk.md) commands.
 
@@ -376,7 +379,7 @@ Verify the new formatting:
 lsblk -f /dev/nvme1n1
 ```
 
-### Mount the new volume by unchanging UUID for maximum stability
+#### Mount the new volume by unchanging UUID for maximum stability
 
 Since device numbers can change on rare occasion, find and use the UUID instead:
 
@@ -429,7 +432,7 @@ sudo chmod 1777 /tmp
 
 Start back up any processes that you shut down before mounting the disk.
 
-## Resize an EC2 EBS volume
+### Resize an EC2 EBS volume
 
 <https://docs.aws.amazon.com/ebs/latest/userguide/recognize-expanded-volume-linux.html>
 
@@ -479,7 +482,7 @@ or check for pending snapshots using AWS CLI:
 aws ec2 describe-snapshots --query 'Snapshots[?State==`pending`].[SnapshotId,VolumeId,Description,State]' --output table
 ```
 
-### Increase the size of the EBS volume
+#### Increase the size of the EBS volume
 
 After the snapshot above is complete, run this script from [DevOps-Bash-tools](devops-bash-tools.md) repo:
 
@@ -499,7 +502,7 @@ and then repeatedly manually monitor the modification:
 aws ec2 describe-volumes-modifications --volume-ids "$volume_id"
 ```
 
-### Inside the EC2 VM - grow the partition and extend the filesystem
+#### Inside the EC2 VM - grow the partition and extend the filesystem
 
 Double check which partition you want to enlarge by running this inside the EC2 VM shell:
 
@@ -565,7 +568,7 @@ Verify the new filesystem size:
 df -hT
 ```
 
-## Remove an EC2 EBS volume from a live running instance
+### Remove an EC2 EBS volume from a live running instance
 
 This is only for non-root volumes.
 
