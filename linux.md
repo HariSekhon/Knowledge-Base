@@ -15,6 +15,7 @@
 - [CGroups](#cgroups)
 - [Disk Management](#disk-management)
   - [/etc/fstab](#etcfstab)
+- [Disable tmpfs](#disable-tmpfs)
 - [DRBD](#drbd)
 - [Binaries Debugging](#binaries-debugging)
 - [Linux Boot Process](#linux-boot-process)
@@ -310,6 +311,31 @@ Validate your `/etc/fstab` by mounting using the short form of the `mount` comma
 
 ```shell
 mount /tmp
+```
+
+## Disable tmpfs
+
+`tmpfs` stores `/tmp` files in a ramdisk, limited by the machine's RAM.
+
+This is a trade off of memory vs `/tmp` files performance.
+
+But this can also be a problem if you have a large volume of data going through `/tmp`,
+in which case you might want to disable it to avoid running out of RAM or `/tmp` space.
+
+To disable on a systemd based Linux distro like RHEL-based variants, including [Amazon Linux](aws.md):
+
+```shell
+sudo systemctl stop tmp.mount
+```
+
+```shell
+sudo systemctl mask tmp.mount
+```
+
+Output:
+
+```text
+Created symlink /etc/systemd/system/tmp.mount → /dev/null.
 ```
 
 ## DRBD
