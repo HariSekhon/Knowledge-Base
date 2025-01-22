@@ -37,6 +37,7 @@
   - [Developers at Beginning vs End of of Project](#developers-at-beginning-vs-end-of-of-project)
   - [When You Decide to Share Your Pain With Users](#when-you-decide-to-share-your-pain-with-users)
   - [The Mobile Developer](#the-mobile-developer)
+  - [The Desert Developer](#the-desert-developer)
 
 <!-- INDEX_END -->
 
@@ -330,5 +331,9 @@ This is why companies hunt for seniors instead of saving money on juniors at the
 up to proficient level only for them to leave for another company to reap the benefits...
 
 ![Mobile Developer](images/orly_mobile_developer_mobilize_to_another_company_whenever_better_offer.png)
+
+### The Desert Developer
+
+![Desert Developer](images/orly_desert_developer.png)
 
 **Ported from various private Knowledge Base pages 2008+**
