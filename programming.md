@@ -36,6 +36,7 @@
   - [Programmer Sleep Coding](#programmer-sleep-coding)
   - [Developers at Beginning vs End of of Project](#developers-at-beginning-vs-end-of-of-project)
   - [When You Decide to Share Your Pain With Users](#when-you-decide-to-share-your-pain-with-users)
+  - [The DevOps Guide to Dealing with Management](#the-devops-guide-to-dealing-with-management)
   - [The Mobile Developer](#the-mobile-developer)
   - [The Desert Developer](#the-desert-developer)
   - [The Lead Developer](#the-lead-developer)
@@ -321,6 +322,10 @@ get rid of it...
 ### When You Decide to Share Your Pain With Users
 
 ![Password Typed Too Quickly](images/password_typed_too_quickly_denied.jpeg)
+
+### The DevOps Guide to Dealing with Management
+
+![DevOps Guide to Dealing with Management](images/orly_devops_guide_to_dealing_with_management.png)
 
 ### The Mobile Developer
 
