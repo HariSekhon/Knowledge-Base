@@ -118,7 +118,7 @@ Combines LLM with referencing an authoritative traditional Knowledge Base before
 
 ## Copying and Pasting from ChatGPT
 
-![Copying and Pasting from ChatGPT](images/orly_copying_pasting_chatgpt.jpg)
+![Copying and Pasting from ChatGPT](images/orly_copying_pasting_chatgpt.jpeg)
 
 ### Say Powered by AI One More Time
 
