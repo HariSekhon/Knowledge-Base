@@ -5,10 +5,11 @@
 - [Misc Tools Pending Reallocation](#misc-tools-pending-reallocation)
 - [DevOps is not entry-level](#devops-is-not-entry-level)
 - [Meme](#meme)
+  - [Bash Scripting: Essential DevOps](#bash-scripting-essential-devops)
   - [The Dev to Ops Developer](#the-dev-to-ops-developer)
   - [The Desert Developer](#the-desert-developer)
   - [The Lead Developer](#the-lead-developer)
-  - [DevOps Guide to Dealing with Management](#devops-guide-to-dealing-with-management)
+  - [The DevOps Guide to Dealing with Management](#the-devops-guide-to-dealing-with-management)
 
 <!-- INDEX_END -->
 
@@ -74,6 +75,10 @@ This is why you will see most of the best DevOps guys have 15-20 years of experi
 Unless you a top 1% IQ talent, do not expect to be that good after a mere 5 years.
 
 ## Meme
+
+### Bash Scripting: Essential DevOps
+
+![Bash Scripting: Essential DevOps](images/orly_bash_scripting_essential_devops.png)
 
 ### The Dev to Ops Developer
 
