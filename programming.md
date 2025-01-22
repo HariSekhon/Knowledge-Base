@@ -35,6 +35,7 @@
   - [Programmer Sleep Coding](#programmer-sleep-coding)
   - [Developers at Beginning vs End of of Project](#developers-at-beginning-vs-end-of-of-project)
   - [When You Decide to Share Your Pain With Users](#when-you-decide-to-share-your-pain-with-users)
+  - [The Mobile Developer](#the-mobile-developer)
 
 <!-- INDEX_END -->
 
@@ -313,5 +314,11 @@ get rid of it...
 ### When You Decide to Share Your Pain With Users
 
 ![Password Typed Too Quickly](images/password_typed_too_quickly_denied.jpeg)
+
+### The Mobile Developer
+
+The loyalty of a cat watching you get axed murdered...
+
+![Mobile Developer](images/orly_mobile_developer_mobilize_to_another_company_whenever_better_offer.png)
 
 **Ported from various private Knowledge Base pages 2008+**
