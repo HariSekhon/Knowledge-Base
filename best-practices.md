@@ -26,6 +26,7 @@
   - [Commercial Negotiations - Out Foxing Vendors](#commercial-negotiations---out-foxing-vendors)
   - [The Mobile Developer](#the-mobile-developer)
   - [Ignoring Non-Critical Problems At Work](#ignoring-non-critical-problems-at-work)
+  - [Writing Code That Nobody Else Can Read](#writing-code-that-nobody-else-can-read)
 
 <!-- INDEX_END -->
 
@@ -262,3 +263,9 @@ up to proficient level only for them to leave for another company to reap the be
 Sometimes you just have to prioritize because there isn't enough time for everything and sleep keeps you alive...
 
 ![Ignoring Non-Critical Problems At Work](images/orly_ignoring_non_critical_problems_at_work.png)
+
+### Writing Code That Nobody Else Can Read
+
+Pull Request reviews are here to preven this...
+
+![Writing Code That Nobody Else Can Read](images/orly_writing_code_nobody_else_can_read.jpg)
