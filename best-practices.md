@@ -25,6 +25,7 @@
   - [Debugging Someone Else's Code](#debugging-someone-elses-code)
   - [Commercial Negotiations - Out Foxing Vendors](#commercial-negotiations---out-foxing-vendors)
   - [The Mobile Developer](#the-mobile-developer)
+  - [Ignoring Non-Critical Problems At Work](#ignoring-non-critical-problems-at-work)
 
 <!-- INDEX_END -->
 
@@ -255,3 +256,9 @@ This is why companies hunt for seniors instead of saving money on juniors at the
 up to proficient level only for them to leave for another company to reap the benefits...
 
 ![Mobile Developer](images/orly_mobile_developer_mobilize_to_another_company_whenever_better_offer.png)
+
+### Ignoring Non-Critical Problems At Work
+
+Sometimes you just have to prioritize because there isn't enough time for everything and sleep keeps you alive...
+
+![Ignoring Non-Critical Problems At Work](images/orly_ignoring_non_critical_problems_at_work.png)
