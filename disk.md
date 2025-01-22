@@ -10,6 +10,8 @@
   - [Mount the new volume by unchanging UUID for maximum stability](#mount-the-new-volume-by-unchanging-uuid-for-maximum-stability)
   - [/tmp permissions](#tmp-permissions)
 - [Mac](#mac)
+- [Meme](#meme)
+  - [Backing Up Data](#backing-up-data)
 
 <!-- INDEX_END -->
 
@@ -196,3 +198,9 @@ sudo chmod 1777 /tmp
 ## Mac
 
 See [Mac - Disk Management](mac.md#disk-management)
+
+## Meme
+
+### Backing Up Data
+
+![Backing Up Data](images/orly_backing_up_data_copying_from_dying_drives.jpg)
