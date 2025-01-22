@@ -27,6 +27,8 @@ eg. [check_puppet.rb](https://github.com/HariSekhon/Nagios-Plugins/blob/master/c
   - [Rubinius](#rubinius)
   - [Ludicrous](#ludicrous)
 - [RubyMine](#rubymine)
+- [Meme](#meme)
+  - [Porting Your Language to the JVM](#porting-your-language-to-the-jvm)
 
 <!-- INDEX_END -->
 
@@ -313,5 +315,11 @@ this is proprietary paid for only and doesn't have a free version like [PyCharm]
 [IntelliJ](intellij.md).
 
 <br>
+
+## Meme
+
+### Porting Your Language to the JVM
+
+![Porting Your Language to the JVM](images/orly_porting_your_language_to_jvm.png)
 
 **Ported from private Knowledge Base page 2012+**
