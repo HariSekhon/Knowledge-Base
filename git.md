@@ -50,6 +50,7 @@
   - [Git LFS on other hosting providers](#git-lfs-on-other-hosting-providers)
 - [Meme](#meme)
   - [Memorizing Six Git Commands](#memorizing-six-git-commands)
+  - [What's Beef - The Notorious Guide](#whats-beef---the-notorious-guide)
 
 <!-- INDEX_END -->
 
@@ -872,5 +873,9 @@ $ git push gitlab
 ### Memorizing Six Git Commands
 
 ![Memorizing Six Git Commands](images/orly_memorizing-six-git-commands.jpg)
+
+### What's Beef - The Notorious Guide
+
+![What's Beef](images/orly_whats_beef_notorious_guide.png)
 
 **Partial port from private Knowledge Base page 2012+**
