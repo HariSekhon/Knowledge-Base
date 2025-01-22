@@ -112,6 +112,8 @@ easy menu list:
 
 ![AWS Profile Switching](images/aws_profiles.gif)
 
+ps. you can create easy gif captures like using the scripts in the [DevOps-Bash-tools](devops-bash-tools.md) repo.
+
 ### Check your AWS Region
 
 A common issue is failing to find resources in the UI or CLI.
