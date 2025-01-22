@@ -120,4 +120,4 @@ PCRE regex - see especially anonymize.py / anonymize.pl in these repos among man
 
 ### Expert Regex
 
-![Expert Regex](images/oreilly_expert_regex_by_trial_and_error.jpg)
+![Expert Regex](images/orly_expert_regex_by_trial_and_error.jpg)
