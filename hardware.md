@@ -154,6 +154,8 @@ MegaCli64 -pdInfo -PhysDrv[$enclosure_id:$disk] -aAll
 
 ### Using Hardware to Solve Problems
 
+This includes your laptop - 128GB RAM ftw...
+
 ![Using Hardware to Solve Problems](images/orly_using_hardware_to_solve_problems.png)
 
 **Ported from private Knowledge Base page 2010+**
