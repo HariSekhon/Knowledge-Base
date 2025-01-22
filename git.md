@@ -48,6 +48,8 @@
 - [Git LFS](#git-lfs)
   - [Why You Need Git LFS for Large Files](#why-you-need-git-lfs-for-large-files)
   - [Git LFS on other hosting providers](#git-lfs-on-other-hosting-providers)
+- [Meme](#meme)
+  - [Memorizing Six Git Commands](#memorizing-six-git-commands)
 
 <!-- INDEX_END -->
 
@@ -864,5 +866,11 @@ error: failed to push some refs to 'git@gitlab.com:HariSekhon/training-old.git'
 
 $ git push gitlab
 ```
+
+## Meme
+
+### Memorizing Six Git Commands
+
+![Memorizing Six Git Commands](images/orly_memorizing-six-git-commands.jpg)
 
 **Partial port from private Knowledge Base page 2012+**
