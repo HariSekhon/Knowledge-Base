@@ -321,7 +321,8 @@ The loyalty of a cat watching you get axed murdered...
 
 Given the average tenure in Tech is ~18 months... you think you have time to train guys up?
 
-This is why companies hunt for seniors instead of saving money on juniors at the expense of 2-3 years of training them up to proficient level only for them to leave for another company to reap the benefits...
+This is why companies hunt for seniors instead of saving money on juniors at the expense of 2-3 years of training them
+up to proficient level only for them to leave for another company to reap the benefits...
 
 ![Mobile Developer](images/orly_mobile_developer_mobilize_to_another_company_whenever_better_offer.png)
 
