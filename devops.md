@@ -7,6 +7,7 @@
 - [Meme](#meme)
   - [The Dev to Ops Developer](#the-dev-to-ops-developer)
   - [The Desert Developer](#the-desert-developer)
+  - [The Lead Developer](#the-lead-developer)
 
 <!-- INDEX_END -->
 
@@ -80,5 +81,9 @@ Unless you a top 1% IQ talent, do not expect to be that good after a mere 5 year
 ### The Desert Developer
 
 ![Desert Developer](images/orly_desert_developer.png)
+
+### The Lead Developer
+
+![Lead Developer](images/orly_lead_developer.png)
 
 **Ported from private Knowledge Base pages 2015+**
