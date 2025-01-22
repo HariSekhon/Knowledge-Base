@@ -41,6 +41,7 @@
   - [The Desert Developer](#the-desert-developer)
   - [The Lead Developer](#the-lead-developer)
   - [Writing Code That Nobody Else Can Read](#writing-code-that-nobody-else-can-read)
+  - [Hype Driven Development](#hype-driven-development)
 
 <!-- INDEX_END -->
 
@@ -352,5 +353,9 @@ up to proficient level only for them to leave for another company to reap the be
 Pull Request reviews are here to preven this...
 
 ![Writing Code That Nobody Else Can Read](images/orly_writing_code_nobody_else_can_read.jpg)
+
+### Hype Driven Development
+
+![Hype Driven Development](images/orly_hype_driven_development.jpg)
 
 **Ported from various private Knowledge Base pages 2008+**
