@@ -21,6 +21,7 @@
   - [Like Coding, Good at Math](#like-coding-good-at-math)
   - [Software Development Process](#software-development-process)
   - [Coding in Depth](#coding-in-depth)
+  - [Pretending You Know Every Programming Language](#pretending-you-know-every-programming-language)
   - [Are You Really Sure You Want to be a Software Developer??](#are-you-really-sure-you-want-to-be-a-software-developer)
   - [Coding with GPT](#coding-with-gpt)
   - [Senior Devs Fixing Bugs in Production](#senior-devs-fixing-bugs-in-production)
@@ -243,6 +244,10 @@ Be honest now…
 ### Coding in Depth
 
 ![Coding in Depth](images/orly_coding_in_depth_dont_anticipate_social_life.png)
+
+### Pretending You Know Every Programming Language
+
+![Pretending You Know Every Programming Language](images/orly_pretending_you_know_every_programming_language.png)
 
 ### Are You Really Sure You Want to be a Software Developer??
 
