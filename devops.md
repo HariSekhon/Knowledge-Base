@@ -8,6 +8,7 @@
   - [The Dev to Ops Developer](#the-dev-to-ops-developer)
   - [The Desert Developer](#the-desert-developer)
   - [The Lead Developer](#the-lead-developer)
+  - [DevOps Guide to Dealing with Management](#devops-guide-to-dealing-with-management)
 
 <!-- INDEX_END -->
 
@@ -85,5 +86,9 @@ Unless you a top 1% IQ talent, do not expect to be that good after a mere 5 year
 ### The Lead Developer
 
 ![Lead Developer](images/orly_lead_developer.png)
+
+### DevOps Guide to Dealing with Management
+
+![DevOps Guide to Dealing with Management](images/orly_devops_guide_to_dealing_with_management.png)
 
 **Ported from private Knowledge Base pages 2015+**
