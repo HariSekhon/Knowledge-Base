@@ -40,6 +40,7 @@
   - [The Mobile Developer](#the-mobile-developer)
   - [The Desert Developer](#the-desert-developer)
   - [The Lead Developer](#the-lead-developer)
+  - [Writing Code That Nobody Else Can Read](#writing-code-that-nobody-else-can-read)
 
 <!-- INDEX_END -->
 
@@ -345,5 +346,11 @@ up to proficient level only for them to leave for another company to reap the be
 ### The Lead Developer
 
 ![Lead Developer](images/orly_lead_developer.png)
+
+### Writing Code That Nobody Else Can Read
+
+Pull Request reviews are here to preven this...
+
+![Writing Code That Nobody Else Can Read](images/orly_writing_code_nobody_else_can_read.jpg)
 
 **Ported from various private Knowledge Base pages 2008+**
