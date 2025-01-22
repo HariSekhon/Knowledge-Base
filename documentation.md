@@ -20,6 +20,7 @@
   - [Yoda Documentation](#yoda-documentation)
   - [Cheetah Documentation](#cheetah-documentation)
   - [Debugging Code After Handover](#debugging-code-after-handover)
+  - [Copying and Pasting from Stack Overflow](#copying-and-pasting-from-stack-overflow)
   - [Postmortem Analysis - Explaining Production Outages](#postmortem-analysis---explaining-production-outages)
 
 <!-- INDEX_END -->
@@ -241,6 +242,10 @@ Make friends with the departing techie and get his WhatsApp.
 You're going to need it.
 
 ![Debuggging Code After Handover](images/orly_debugging_code_after_handover_flying_blind.png)
+
+### Copying and Pasting from Stack Overflow
+
+![Copying and Pasting from Stack Overflow](images/orly_copying_pasting_stack_overflow.jpg)
 
 ### Postmortem Analysis - Explaining Production Outages
 
