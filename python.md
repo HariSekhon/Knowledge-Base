@@ -404,6 +404,8 @@ apk add py3-pip
 
 ### Porting Your Language to the JVM
 
+I wish I had discovered [Groovy](groovy.md) before [Jython](#jython)...
+
 ![Porting Your Language to the JVM](images/orly_porting_your_language_to_jvm.png)
 
 **Partial port from private Knowledge Base page 2008+**
