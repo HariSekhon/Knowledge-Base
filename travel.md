@@ -1855,6 +1855,7 @@ but more expensive to eat and drink there.
   moderately priced, in thhe area of bar girls where you will seconded everywhere
 - [Acai Bliss](https://maps.app.goo.gl/eUyM3zA7J8d2nuxE6) - acai bowls for around £5, good by international standards
   but expensive for here, was quite Sunday midday, and a bit of a walk from the main areas
+- [Pure Bowls](https://maps.app.goo.gl/c7QKZc6f4fukao1x9) - another acai bowl place near Ben Thanh
 - [Codonut](https://maps.app.goo.gl/z6P2dpn1nGb8goeb8) - coconut ice cream falvours in coconut bowl, with toppings,
   open late until 1am for late night treats, with seat both inside and on the street to people watch
 - [Melbourne Cafe](https://maps.app.goo.gl/F7CbiqbHkB3en9kQA) - good mixed juices, English breakfast, pancake stacks,
