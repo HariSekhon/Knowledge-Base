@@ -298,23 +298,23 @@ or using time format `-to 00:01:12` which is the same as 72 seconds from offset 
 ### Inspect Media File
 
 ```shell
-ffprobe $file
+ffprobe "$file"
 ```
 
 ```shell
-exiftool $file
+exiftool "$file"
 ```
 
 ```shell
-mediainfo $file
+mediainfo "$file"
 ```
 
 ```shell
-mediainfo --fullscan $file
+mediainfo --fullscan "$file"
 ```
 
 ```shell
-avprobe $file
+avprobe "$file"
 ```
 
 ```shell
@@ -322,7 +322,7 @@ mplayer -vo null -ao null -identify -frames 0 $file
 ```
 
 ```shell
-tovid id $file
+tovid id "$file"
 ```
 
 ## Audio
