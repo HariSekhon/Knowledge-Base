@@ -21,6 +21,11 @@ Media file analysis, editing, transcoding and conversions.
   - [Transcode mkv into standard mp4 for smart TVs to play](#transcode-mkv-into-standard-mp4-for-smart-tvs-to-play)
   - [Video Clipping](#video-clipping)
   - [Inspect Media File](#inspect-media-file)
+  - [Download from YouTube](#download-from-youtube)
+    - [yt-dlp](#yt-dlp)
+    - [Download Single Video](#download-single-video)
+    - [Download All Videos from YouTube Channel](#download-all-videos-from-youtube-channel)
+  - [Convert Video to 720p mp4](#convert-video-to-720p-mp4)
 - [Audio](#audio)
   - [MP3 metadata editing](#mp3-metadata-editing)
 - [MediaBox Setup](#mediabox-setup)
@@ -329,6 +334,58 @@ mplayer -vo null -ao null -identify -frames 0 "$file"
 
 ```shell
 tovid id "$file"
+```
+
+### Download from YouTube
+
+#### yt-dlp
+
+Install `yt-dlp` to download, and ffmpeg for conversions:
+
+```shell
+brew install yt-dlp ffmpeg
+```
+
+Show available download formats:
+
+```shell
+yt-dlp -F "$url"
+```
+
+You can then choose the format quality you want:
+
+```shell
+yt-dlp -f "$format_id" "$url"
+```
+
+#### Download Single Video
+
+Use script from
+[DevOps-Bash-tools](devops-bash-tools.md) repo
+to simplify downloading with maximum quality and compatibility, with continue and no overwrite settings.
+
+```shell
+youtube_download_video.sh "$url"
+```
+
+Even attempts to install `yt-dlp` and `ffmepg` prerequisites if not already installed.
+
+#### Download All Videos from YouTube Channel
+
+Using [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+```shell
+youtube_download_channel.sh "$url"
+```
+
+### Convert Video to 720p mp4
+
+Useful to make good trade-off of quality vs size for social media sharing.
+
+Using [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+```shell
+video_to_720p_mp4 "$file"
 ```
 
 ## Audio
