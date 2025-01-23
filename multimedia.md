@@ -301,6 +301,12 @@ or using time format `-to 00:01:12` which is the same as 72 seconds from offset 
 ffprobe "$file"
 ```
 
+If you just want to see whether a video is 480p or 720p or 1080p etc:
+
+```shell
+ffprobe "$file" 2>&1 | grep 'Stream.*Video'
+```
+
 ```shell
 exiftool "$file"
 ```
@@ -318,7 +324,7 @@ avprobe "$file"
 ```
 
 ```shell
-mplayer -vo null -ao null -identify -frames 0 $file
+mplayer -vo null -ao null -identify -frames 0 "$file"
 ```
 
 ```shell
