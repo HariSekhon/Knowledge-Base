@@ -29,6 +29,7 @@ Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing an
 - [Terragrunt Troubleshooting](#terragrunt-troubleshooting)
   - [ERRO[0000] fork/exec /Users/hari/.tfenv/bin: no such file or directory](#erro0000-forkexec-usersharitfenvbin-no-such-file-or-directory)
   - [Error: Get "http://localhost/api/v1/namespaces/kube-system/configmaps/aws-auth": dial tcp [::1]:80: connect: connection refused](#error-get-httplocalhostapiv1namespaceskube-systemconfigmapsaws-auth-dial-tcp-180-connect-connection-refused)
+  - [Checksum Mismatch in `.terraform.lock.hcl`](#checksum-mismatch-in-terraformlockhcl)
 
 <!-- INDEX_END -->
 
@@ -299,7 +300,7 @@ ERRO[0000] Unable to determine underlying exit code, so Terragrunt will exit wit
 then make sure to unset `TERRAGRUNT_TFPATH` or direct it to your correct terraform binary (rather than directory as
 in the case above).
 
-### Error: Get "<http://localhost/api/v1/namespaces/kube-system/configmaps/aws-auth>": dial tcp [::1]:80: connect: connection refused
+### Error: Get "http://localhost/api/v1/namespaces/kube-system/configmaps/aws-auth": dial tcp [::1]:80: connect: connection refused
 
 ```text
 ╷
@@ -328,4 +329,47 @@ It'll apply the rest and fail on the aws_auth map, but you can re-import it:
 
 ```shell
 terragrunt import 'kubernetes_config_map.aws_auth[0]' kube-system/aws-auth
+```
+
+### Checksum Mismatch in `.terraform.lock.hcl`
+
+If you get an error like this when running [Terraform](terraform.md) or Terragrunt:
+
+<!--
+
+```text
+Error: registry.terraform.io/hashicorp/aws: the cached package for registry.terraform.io/hashicorp/aws 4.67.0 (in .terraform/providers) does not match any of the checksums recorded in the dependency lock file
+```
+
+or
+
+-->
+
+```text
+Error: Required plugins are not installed
+
+The installed provider plugins are not consistent with the packages selected
+in the dependency lock file:
+  - registry.terraform.io/hashicorp/aws: the cached package for registry.terraform.io/hashicorp/aws 5.80.0 (in .terraform/providers) does not match any of the checksums recorded in the dependency lock file
+```
+
+This is caused
+by the `.terraform.lock.hcl` being generated and committed from a machine of a different architecture since
+default Terraform only includes the checksums for the local architecture.
+
+This surfaces in [Atlantis](atlantis.md) or other [CI/CD](ci-cd.md) systems
+because developers are often using [Mac](mac.md) (or heavy forbid [Windows](windows.md)) but the CI/CD systems like
+Atlantis are invariably running on [Linux](linux.md).
+
+Run this command to update the `.terraform.lock.hcl` file with the checksum for all 3 architectures:
+
+```shell
+terragrunt providers lock -platform=windows_amd64 -platform=darwin_amd64 -platform=linux_amd64
+```
+
+and then commit the updated `.terraform.lock.hcl` file:
+
+```shell
+git add .terraform.lock.hcl
+git commit -m "updated .terraform.lock.hcl file with checksums for all 3 platform architectures" .terraform.lock.hcl
 ```
