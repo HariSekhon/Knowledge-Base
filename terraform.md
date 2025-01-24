@@ -208,7 +208,7 @@ in the dependency lock file:
   - registry.terraform.io/hashicorp/aws: the cached package for registry.terraform.io/hashicorp/aws 5.80.0 (in .terraform/providers) does not match any of the checksums recorded in the dependency lock file
 ```
 
-This is cause
+This is caused
 by the `.terraform.lock.hcl` being generated and committed from a machine of a different architecture since
 default Terraform only includes the checksums for the local architecture.
 
