@@ -23,6 +23,7 @@ Terraform pull request automation on [GitHub](github.md) using [GitHub Actions](
 - [Back up Atlantis.db from StatefulSet pod](#back-up-atlantisdb-from-statefulset-pod)
 - [Troubleshooting](#troubleshooting)
   - [Stale Error not picking up Terraform Module fix](#stale-error-not-picking-up-terraform-module-fix)
+  - [Checksum Mismatch in `.terraform.lock.hcl`](#checksum-mismatch-in-terraformlockhcl)
 
 <!-- INDEX_END -->
 
@@ -71,3 +72,28 @@ cd /atlantis-data/
 `cd` into the `<owner>/<repo>` GitHub subdirectory.
 
 Delete the numbered subdirectory matching the GitHub pull request number.
+
+### Checksum Mismatch in `.terraform.lock.hcl`
+
+If you get an error like this when running Terraform or [Terragrunt](terragrunt.md):
+
+<!--
+
+```text
+Error: registry.terraform.io/hashicorp/aws: the cached package for registry.terraform.io/hashicorp/aws 4.67.0 (in .terraform/providers) does not match any of the checksums recorded in the dependency lock file
+```
+
+or
+
+-->
+
+```text
+Error: Required plugins are not installed
+
+The installed provider plugins are not consistent with the packages selected
+in the dependency lock file:
+  - registry.terraform.io/hashicorp/aws: the cached package for registry.terraform.io/hashicorp/aws 5.80.0 (in .terraform/providers) does not match any of the checksums recorded in the dependency lock file
+```
+
+See the [Terraform](terraform.md#checksum-mismatch-in-terraformlockhcl) or
+[Terragrunt](terragrunt.md#checksum-mismatch-in-terraformlockhcl) docs for the explanation and solution.
