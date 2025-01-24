@@ -18,6 +18,8 @@ detects what is missing or has changed and then applies the necessary changes to
   - [Generate Plan JSON](#generate-plan-json)
 - [Useful Modules](#useful-modules)
 - [Vendor Code](#vendor-code)
+- [Troubleshooting](#troubleshooting)
+  - [Checksum Mismatch in `.terraform.lock.hcl`](#checksum-mismatch-in-terraformlockhcl)
 
 <!-- INDEX_END -->
 
@@ -181,3 +183,48 @@ Leaving you wondering what the `node_type` should be, instead of realizing you'r
 
 If they had used the module in the first place your brain wouldn't be fried from migrating all their modules and then
 missing a detail like this.
+
+## Troubleshooting
+
+### Checksum Mismatch in `.terraform.lock.hcl`
+
+If you get an error like this when running Terraform or [Terragrunt](terragrunt.md):
+
+<!--
+
+```text
+Error: registry.terraform.io/hashicorp/aws: the cached package for registry.terraform.io/hashicorp/aws 4.67.0 (in .terraform/providers) does not match any of the checksums recorded in the dependency lock file
+```
+
+or
+
+-->
+
+```text
+Error: Required plugins are not installed
+
+The installed provider plugins are not consistent with the packages selected
+in the dependency lock file:
+  - registry.terraform.io/hashicorp/aws: the cached package for registry.terraform.io/hashicorp/aws 5.80.0 (in .terraform/providers) does not match any of the checksums recorded in the dependency lock file
+```
+
+This is cause
+by the `.terraform.lock.hcl` being generated and committed from a machine of a different architecture since
+default Terraform only includes the checksums for the local architecture.
+
+This surfaces in [Atlantis](atlantis.md) or other [CI/CD](ci-cd.md) systems
+because developers are often using [Mac](mac.md) (or heavy forbid [Windows](windows.md)) but the CI/CD systems like
+Atlantis are invariably running on [Linux](linux.md).
+
+Run this command to update the `.terraform.lock.hcl` file with the checksum for all 3 architectures:
+
+```shell
+terraform providers lock -platform=windows_amd64 -platform=darwin_amd64 -platform=linux_amd64
+```
+
+and then commit the updated `.terraform.lock.hcl` file:
+
+```shell
+git add .terraform.lock.hcl
+git commit -m "updated .terraform.lock.hcl file with checksums for all 3 platform architectures" .terraform.lock.hcl
+```
