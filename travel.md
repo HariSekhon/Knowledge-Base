@@ -45,6 +45,9 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Ghent / Gent](#ghent--gent)
     - [Liege](#liege)
     - [Waterloo](#waterloo)
+  - [Cambodia](#cambodia)
+    - [Cambodia Taxis](#cambodia-taxis)
+    - [Cambodia Restaurants](#cambodia-restaurants)
   - [Canada](#canada)
     - [Abbotsford](#abbotsford)
   - [Czech Republic / Czechia](#czech-republic--czechia)
@@ -183,7 +186,7 @@ Beware if you are trying
 to get a hotel immediately for a missed flight the app will shunt the results to the next day
 and you will end up booking the wrong night and then having a horrible battle trying to get it refunded.
 Booking.com is better for that scenario.
-Also, if you book the wrong date or there is any issue Expedia support are the worse ever.
+Also, if you book the wrong date or there is any issue Expedia support are the worst ever.
 You will struggle to get any refund.
 Use them to find the hotels and flights,
 then go book directly with the airline or hotel and deal with them directly if there is any problem.
@@ -191,7 +194,7 @@ You'll usually get a slight discount or other perk and when there is a problem y
 chat support.
 
 [AirBnb](https://www.airbnb.com) - compare the cost of apartments to hotels in each area, it alternates which is
-cheaper.
+cheaper depending on the country.
 
 [LastMinute.com](https://lastminute.com) - ok for package holidays but assumed return flights,
 less good for a digital nomad who is going one way and bouncing to the next place.
@@ -260,6 +263,10 @@ Hotels and [Airbnb](https://airbnb.com) vary as to which one is cheaper by locat
 Check both.
 
 The earlier you book the better deals you'll get.
+
+Unlike restaurants where the food and prices are consistent,
+hotels prices and availability fluctuate wildly, so I don't believe in trying for specific hotels -
+search and see what is good at that time.
 
 I have on many occasions booked accommodation in the airport lounge minutes before boarding planes
 but I do not recommend this.
@@ -597,6 +604,14 @@ Gentrified town just south of Brussels where Napoleon lost the famous battle.
 [Le Bar À Soupe](https://www.facebook.com/people/Le-Bar-%C3%A0-Soupe/100063541241931/),
 Savage Burger and [Thai Cafe](https://thai.cafe/en) are recommended here, with the latter being more expensive.
 You will need your Google Translate camera app to translate the menu as they don't speak English.
+
+### Cambodia
+
+#### Cambodia Taxis
+
+- [Grab](https://www.grab.com/) - taxi app
+
+#### Cambodia Restaurants
 
 ### Canada
 
@@ -1336,7 +1351,7 @@ It works out slightly more expensive than Airalo but the latter one is the best 
 
 If you haven't already set up your card to prepay on the Grab app, you'll need cash.
 
-[Grab](https://www.grab.com/) - taxi app
+- [Grab](https://www.grab.com/) - taxi app
 
 #### Thailand Food
 
@@ -1802,7 +1817,7 @@ Not recommended for women.
 
 If you haven't already set up your card to prepay on the Grab app, you'll need cash.
 
-[Grab](https://www.grab.com/) - taxi app
+- [Grab](https://www.grab.com/) - taxi app
 
 #### Hanoi
 
