@@ -721,6 +721,13 @@ From my [LinkedIn](https://linkedin.com/in/HariSekhon):
 -->
 <img src="images/devops_apprentice_reads_from_ancient_books_of_forbidden_unix_knowledge.jpeg" alt="Forbidden Unix Knowledge" width="50%" />
 
+<br />
+<br />
+
+<img src="images/orly_excuses_for_no_documentation.jpg" alt="Forbidden Unix Knowledge" width="50%" />
+
+<br />
+
 I tried to make these docs as short as possible... but as you can see above, I didn't quite make it.
 
 I've been both the bottom and top of this meme:
