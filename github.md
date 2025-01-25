@@ -21,8 +21,8 @@ NOT PORTED YET
   - [O'Reilly - Choosing Based on GitHub Stars](#oreilly---choosing-based-on-github-stars)
   - [Baby Yoda Gets GitHub Stars](#baby-yoda-gets-github-stars)
   - [GitHub vs Sleep](#github-vs-sleep)
-  - [Met Wife in GitHub Issues Thread](#met-wife-in-github-issues-thread)
   - [Ransacking Someone's GitHub](#ransacking-someones-github)
+  - [Met Wife in GitHub Issues Thread](#met-wife-in-github-issues-thread)
   - [The Lone Wolf Developer](#the-lone-wolf-developer)
   - [The Hungry Developer](#the-hungry-developer)
 
@@ -230,13 +230,13 @@ github_public_lines_of_code.sh
 
 ![GitHub vs Sleep](images/github_vs_sleep_me_at_1am.jpeg)
 
-### Met Wife in GitHub Issues Thread
-
-![Met Wife in GitHub Issues Thread](images/met_wife_in_github_issue_thread.jpeg)
-
 ### Ransacking Someone's GitHub
 
 ![Ransacking Someone's GitHub](images/orly_ransacking_someones_github.png)
+
+### Met Wife in GitHub Issues Thread
+
+![Met Wife in GitHub Issues Thread](images/met_wife_in_github_issue_thread.jpeg)
 
 ### The Lone Wolf Developer
 
