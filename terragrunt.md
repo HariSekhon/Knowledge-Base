@@ -25,6 +25,7 @@ Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing an
   - [Terragrunt Dump JSON](#terragrunt-dump-json)
     - [Linting and Security Scanning](#linting-and-security-scanning)
 - [tgswitch](#tgswitch)
+- [Best Practices](#best-practices)
 - [Vendor Code](#vendor-code)
 - [Terragrunt Troubleshooting](#terragrunt-troubleshooting)
   - [ERRO[0000] fork/exec /Users/hari/.tfenv/bin: no such file or directory](#erro0000-forkexec-usersharitfenvbin-no-such-file-or-directory)
@@ -281,6 +282,10 @@ Easily switch between Terragrunt versions.
 See [tgswitch](tgswitch.md)
 
 More recently updated than [tgenv](https://github.com/cunymatthieu/tgenv).
+
+## Best Practices
+
+<https://www.terraform-best-practices.com/>
 
 ## Vendor Code
 
