@@ -23,7 +23,8 @@ NOT PORTED YET
   - [GitHub vs Sleep](#github-vs-sleep)
   - [Met Wife in GitHub Issues Thread](#met-wife-in-github-issues-thread)
   - [Ransacking Someone's GitHub](#ransacking-someones-github)
-  - [Lone Wolf Developer](#lone-wolf-developer)
+  - [The Lone Wolf Developer](#the-lone-wolf-developer)
+  - [The Hungry Developer](#the-hungry-developer)
 
 <!-- INDEX_END -->
 
@@ -237,10 +238,14 @@ github_public_lines_of_code.sh
 
 ![Ransacking Someone's GitHub](images/orly_ransacking_someones_github.png)
 
-### Lone Wolf Developer
+### The Lone Wolf Developer
 
 Aren't you lucky this isn't me...
 
 ![Lone Wolf Developer](images/orly_lone_wolf_developer.png)
+
+### The Hungry Developer
+
+![Hungry Developer](images/orly_hungry_developer_elephant.png)
 
 **Disclaimer**: seriously, don't get married, you can't control the forking today.
