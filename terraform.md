@@ -17,6 +17,7 @@ detects what is missing or has changed and then applies the necessary changes to
 - [Linting & Security](#linting--security)
   - [Generate Plan JSON](#generate-plan-json)
 - [Useful Modules](#useful-modules)
+- [Best Practices](#best-practices)
 - [Vendor Code](#vendor-code)
 - [Troubleshooting](#troubleshooting)
   - [Checksum Mismatch in `.terraform.lock.hcl`](#checksum-mismatch-in-terraformlockhcl)
@@ -142,6 +143,10 @@ checkov -f tf.json
 
 - [AWS Modules](https://registry.terraform.io/namespaces/terraform-aws-modules)
   - [hashicorp/aws](https://registry.terraform.io/providers/hashicorp/aws)
+
+## Best Practices
+
+<https://www.terraform-best-practices.com/>
 
 ## Vendor Code
 
