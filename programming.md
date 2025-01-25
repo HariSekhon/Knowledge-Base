@@ -42,8 +42,9 @@
   - [The Lead Developer](#the-lead-developer)
   - [Bash Scripting: Essential DevOps](#bash-scripting-essential-devops)
   - [Writing Code That Nobody Else Can Read](#writing-code-that-nobody-else-can-read)
-  - [Hype Driven Development](#hype-driven-development)
   - [Removing Code & Hoping Nothing Breaks](#removing-code--hoping-nothing-breaks)
+  - [Hype Driven Development](#hype-driven-development)
+  - [Whitespace Wars](#whitespace-wars)
 
 <!-- INDEX_END -->
 
@@ -360,12 +361,16 @@ Pull Request reviews are here to preven this...
 
 ![Writing Code That Nobody Else Can Read](images/orly_writing_code_nobody_else_can_read.jpg)
 
+### Removing Code & Hoping Nothing Breaks
+
+![Removing Code & Hoping Nothing Breakts](images/orly_removing_code_hoping_nothing_breaks.png)
+
 ### Hype Driven Development
 
 ![Hype Driven Development](images/orly_hype_driven_development.jpg)
 
-### Removing Code & Hoping Nothing Breaks
+### Whitespace Wars
 
-![Removing Code & Hoping Nothing Breakts](images/orly_removing_code_hoping_nothing_breaks.png)
+![Whitespace Wars](images/orly_whitespace_wars_tabs_vs_spaces.png)
 
 **Ported from various private Knowledge Base pages 2008+**
