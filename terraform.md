@@ -17,6 +17,7 @@ detects what is missing or has changed and then applies the necessary changes to
 - [Linting & Security](#linting--security)
   - [Generate Plan JSON](#generate-plan-json)
 - [Useful Modules](#useful-modules)
+- [Document Your Terraform Modules](#document-your-terraform-modules)
 - [Best Practices](#best-practices)
 - [Vendor Code](#vendor-code)
 - [Troubleshooting](#troubleshooting)
@@ -143,6 +144,18 @@ checkov -f tf.json
 
 - [AWS Modules](https://registry.terraform.io/namespaces/terraform-aws-modules)
   - [hashicorp/aws](https://registry.terraform.io/providers/hashicorp/aws)
+
+## Document Your Terraform Modules
+
+[:octocat: terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)
+
+```shell
+brew install terraform-docs
+```
+
+```shell
+terraform-docs markdown table --output-file README.md --output-mode inject /path/to/module
+```
 
 ## Best Practices
 
