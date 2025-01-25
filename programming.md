@@ -43,7 +43,7 @@
   - [Bash Scripting: Essential DevOps](#bash-scripting-essential-devops)
   - [Writing Code That Nobody Else Can Read](#writing-code-that-nobody-else-can-read)
   - [Hype Driven Development](#hype-driven-development)
-  - [Removing Code & Hoping Nothing Breakts](#removing-code--hoping-nothing-breakts)
+  - [Removing Code & Hoping Nothing Breaks](#removing-code--hoping-nothing-breaks)
 
 <!-- INDEX_END -->
 
@@ -364,7 +364,7 @@ Pull Request reviews are here to preven this...
 
 ![Hype Driven Development](images/orly_hype_driven_development.jpg)
 
-### Removing Code & Hoping Nothing Breakts
+### Removing Code & Hoping Nothing Breaks
 
 ![Removing Code & Hoping Nothing Breakts](images/orly_removing_code_hoping_nothing_breaks.png)
 
