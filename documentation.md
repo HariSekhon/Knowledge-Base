@@ -18,11 +18,13 @@
 - [Create Animated GIFs of Commands](#create-animated-gifs-of-commands)
 - [Meme](#meme)
   - [Writing Documentation](#writing-documentation)
+  - [Excuses for Not Writing Documentation](#excuses-for-not-writing-documentation)
   - [Yoda Documentation](#yoda-documentation)
   - [Cheetah Documentation](#cheetah-documentation)
   - [Debugging Code After Handover](#debugging-code-after-handover)
   - [Copying and Pasting from Stack Overflow](#copying-and-pasting-from-stack-overflow)
   - [Postmortem Analysis - Explaining Production Outages](#postmortem-analysis---explaining-production-outages)
+  - [Mentoring Juniors](#mentoring-juniors)
 
 <!-- INDEX_END -->
 
@@ -228,7 +230,12 @@ vim ~/.config/terminalizer/config.yml
 
 ### Writing Documentation
 
-![Writing Documentation](images/orly_writing_documentation_todo.png)
+![Writing Documentation](images/orly_writing_documentation_todo.png
+)
+
+### Excuses for Not Writing Documentation
+
+![Excuses for Not Writing Documentation](images/orly_excuses_for_no_documentation.jpg)
 
 ### Yoda Documentation
 
@@ -255,5 +262,9 @@ You're going to need it.
 ### Postmortem Analysis - Explaining Production Outages
 
 ![Postmortem Analysis](images/orly_postmortem_analysis_explaining_production_outages.png)
+
+### Mentoring Juniors
+
+![Mentoring Juniors](images/orly_mentoring_juniors.png)
 
 **I may well call upon you to defeat tedious Agile ceremonies!**
