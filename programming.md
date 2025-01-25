@@ -371,6 +371,6 @@ Pull Request reviews are here to preven this...
 
 ### Whitespace Wars
 
-![Whitespace Wars](images/orly_whitespace_wars_tabs_vs_spaces.png)
+![Whitespace Wars](images/orly_whitespace_wars_tabs_vs_spaces3.png)
 
 **Ported from various private Knowledge Base pages 2008+**
