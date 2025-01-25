@@ -40,9 +40,10 @@
   - [The Mobile Developer](#the-mobile-developer)
   - [The Desert Developer](#the-desert-developer)
   - [The Lead Developer](#the-lead-developer)
+  - [Bash Scripting: Essential DevOps](#bash-scripting-essential-devops)
   - [Writing Code That Nobody Else Can Read](#writing-code-that-nobody-else-can-read)
   - [Hype Driven Development](#hype-driven-development)
-  - [Bash Scripting: Essential DevOps](#bash-scripting-essential-devops)
+  - [Removing Code & Hoping Nothing Breakts](#removing-code--hoping-nothing-breakts)
 
 <!-- INDEX_END -->
 
@@ -349,6 +350,10 @@ up to proficient level only for them to leave for another company to reap the be
 
 ![Lead Developer](images/orly_lead_developer.png)
 
+### Bash Scripting: Essential DevOps
+
+![Bash Scripting: Essential DevOps](images/orly_bash_scripting_essential_devops.png)
+
 ### Writing Code That Nobody Else Can Read
 
 Pull Request reviews are here to preven this...
@@ -359,8 +364,8 @@ Pull Request reviews are here to preven this...
 
 ![Hype Driven Development](images/orly_hype_driven_development.jpg)
 
-### Bash Scripting: Essential DevOps
+### Removing Code & Hoping Nothing Breakts
 
-![Bash Scripting: Essential DevOps](images/orly_bash_scripting_essential_devops.png)
+![Removing Code & Hoping Nothing Breakts](images/orly_removing_code_hoping_nothing_breaks.png)
 
 **Ported from various private Knowledge Base pages 2008+**
