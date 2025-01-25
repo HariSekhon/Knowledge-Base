@@ -9,6 +9,8 @@
 - [Code Pastebin Sites](#code-pastebin-sites)
 - [Big O Notation](#big-o-notation)
 - [Count Lines of Code](#count-lines-of-code)
+  - [cloc](#cloc)
+  - [scc](#scc)
 - [Memes](#memes)
   - [Hello World](#hello-world)
   - [Program in Tutorial vs Made Following Tutorial](#program-in-tutorial-vs-made-following-tutorial)
@@ -120,6 +122,8 @@ se the [File Upload & Code Pastbin Sites](upload-sites.md) doc.
 
 ## Count Lines of Code
 
+### cloc
+
 [:octocat: AlDanial/cloc](https://github.com/AlDanial/cloc/)
 
 Counts lines of code vs comments vs blanks.
@@ -195,6 +199,79 @@ Script in [DevOps-Bash-tools](devops-bash-tools.md) to count lines across all pu
 
 ```shell
 github_public_lines_of_code.sh
+```
+
+### scc
+
+[:octocat: boyter/scc](https://github.com/boyter/scc)
+
+Counts lines of code and cocomo man effort estimate.
+
+Install on Mac:
+
+```shell
+brew install scc
+```
+
+Linux - not in Apt yet, so you'd need to install it the Golang way:
+
+```shell
+go install github.com/boyter/scc/v3@latest
+```
+
+<!--
+
+Install on Debian / Ubuntu:
+
+```shell
+sudo apt install scc
+```
+
+-->
+
+Run it against a directory of code to count the lines of code:
+
+```text
+scc /path/to/git/checkout
+```
+
+```shell
+scc ~/github/bash-tools
+```
+
+```text
+───────────────────────────────────────────────────────────────────────────────
+Language                 Files     Lines   Blanks  Comments     Code Complexity
+───────────────────────────────────────────────────────────────────────────────
+Shell                     1391    113237    19013     32719    61505       9083
+YAML                       122      7543      464      1858     5221          0
+Plain Text                  43      4291      257         0     4034          0
+BASH                        16      1299      218       625      456         98
+JSON                        12      7572        5         0     7567          0
+Markdown                    12      3725      650         0     3075          0
+Groovy                       7       198       22       156       20          0
+XML                          6       358        0         0      358          0
+Zsh                          5       294       58       200       36          4
+Properties File              3        45        9        21       15          0
+License                      2       287       45         0      242          0
+Makefile                     2       466       92        51      323         22
+Autoconf                     1       865      143        95      627         78
+Bitbucket Pipeline           1        38        5        24        9          0
+Docker ignore                1      4007     1022      1528     1457          0
+Gemfile                      1        33        6        23        4          0
+Python                       1        43        1        20       22          0
+Ruby                         1        31        1        24        6          0
+SQL                          1        21        2        15        4          0
+Vim Script                   1       796       98       251      447         28
+───────────────────────────────────────────────────────────────────────────────
+Total                     1629    145149    22111     37610    85428       9313
+───────────────────────────────────────────────────────────────────────────────
+Estimated Cost to Develop (organic) $2,882,541
+Estimated Schedule Effort (organic) 20.57 months
+Estimated People Required (organic) 12.45
+───────────────────────────────────────────────────────────────────────────────
+Processed 4611424 bytes, 4.611 megabytes (SI)
+───────────────────────────────────────────────────────────────────────────────
 ```
 
 ## Memes
