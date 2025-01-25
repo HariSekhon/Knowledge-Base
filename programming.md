@@ -37,9 +37,11 @@
   - [Developers at Beginning vs End of of Project](#developers-at-beginning-vs-end-of-of-project)
   - [When You Decide to Share Your Pain With Users](#when-you-decide-to-share-your-pain-with-users)
   - [The DevOps Guide to Dealing with Management](#the-devops-guide-to-dealing-with-management)
+  - [The Hungry Developer](#the-hungry-developer)
   - [The Mobile Developer](#the-mobile-developer)
   - [The Desert Developer](#the-desert-developer)
   - [The Lead Developer](#the-lead-developer)
+  - [The Lone Wolf Developer](#the-lone-wolf-developer)
   - [Bash Scripting: Essential DevOps](#bash-scripting-essential-devops)
   - [Writing Code That Nobody Else Can Read](#writing-code-that-nobody-else-can-read)
   - [Removing Code & Hoping Nothing Breaks](#removing-code--hoping-nothing-breaks)
@@ -332,6 +334,10 @@ get rid of it...
 
 ![DevOps Guide to Dealing with Management](images/orly_devops_guide_to_dealing_with_management.png)
 
+### The Hungry Developer
+
+![Hungry Developer](images/orly_hungry_developer_elephant.png)
+
 ### The Mobile Developer
 
 The loyalty of a cat watching you get axed murdered...
@@ -350,6 +356,12 @@ up to proficient level only for them to leave for another company to reap the be
 ### The Lead Developer
 
 ![Lead Developer](images/orly_lead_developer.png)
+
+### The Lone Wolf Developer
+
+Aren't you lucky this isn't me...
+
+![Lone Wolf Developer](images/orly_lone_wolf_developer.png)
 
 ### Bash Scripting: Essential DevOps
 
