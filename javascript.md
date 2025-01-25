@@ -8,7 +8,8 @@ It's nothing to do with Java.
   - [NPM](#npm)
 - [Libraries](#libraries)
 - [Repos](#repos)
-- [Meme](#meme)
+- [Memes](#memes)
+  - [Javascript - The Good Parts](#javascript---the-good-parts)
   - [Men Who Take Risks](#men-who-take-risks)
 
 <!-- INDEX_END -->
@@ -75,7 +76,11 @@ npm install
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=TamperMonkey&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/TamperMonkey)
 
-## Meme
+## Memes
+
+### Javascript - The Good Parts
+
+![Javascript the Good Parts](images/javascript_the_good_parts.jpg)
 
 ### Men Who Take Risks
 
