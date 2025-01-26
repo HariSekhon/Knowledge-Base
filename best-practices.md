@@ -233,7 +233,7 @@ YYYY-MM-DDTHH:mm:ss
 
 It standardized and easily sortable lexically by left-most characters even as strings.
 
-Don't use the American MM/DD/YYYY - it's irregular and not for engineering.
+Don't use the American `MM/DD/YYYY` format - it's irregular and not for engineering.
 
 ![Data Format](images/date_format_makes_no_sense.jpeg)
 
