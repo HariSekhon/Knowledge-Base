@@ -221,6 +221,16 @@ Negotiable in contract maximum yearly rate increases to prevent large jumps eg.
 
 <https://www.iso.org/iso-8601-date-and-time-format.html>
 
+```text
+YYYY-MM-DD HH:mm:ss
+```
+
+or
+
+```text
+YYYY-MM-DDTHH:mm:ss
+```
+
 It standardized and easily sortable lexically by left-most characters even as strings.
 
 Don't use the American MM/DD/YYYY - it's irregular and not for engineering.
