@@ -18,6 +18,7 @@
 - [Principle: Time Amplification Effect](#principle-time-amplification-effect)
 - [Avoid Vendor Lock In](#avoid-vendor-lock-in)
 - [Technology Specific Best Practices](#technology-specific-best-practices)
+  - [Dates - always use ISO8601 Date Format](#dates---always-use-iso8601-date-format)
   - [Kubernetes - Production Ready Checklist](#kubernetes---production-ready-checklist)
   - [GitHub Actions CI/CD Best Practices](#github-actions-cicd-best-practices)
 - [Memes](#memes)
@@ -215,6 +216,16 @@ Negotiable in contract maximum yearly rate increases to prevent large jumps eg.
 ![Vendor Lock In](images/orly_building_tech_moats.png)
 
 ## Technology Specific Best Practices
+
+### Dates - always use ISO8601 Date Format
+
+<https://www.iso.org/iso-8601-date-and-time-format.html>
+
+It standardized and easily sortable lexically by left-most characters even as strings.
+
+Don't use the American MM/DD/YYYY - it's irregular and not for engineering.
+
+![Data Format](images/date_format_makes_no_sense.jpeg)
 
 ### Kubernetes - Production Ready Checklist
 
