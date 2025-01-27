@@ -184,8 +184,12 @@ This makes it easier to store and share, but also to automate things via [shell 
 
 ### Code Builds
 
-You should have a build system for whatever [programming](programming.md) language you use eg [Maven](maven.md),
-[Gradle](gradle.md) etc.
+You should have a build system for whatever [programming](programming.md) language you use.
+
+For JVM languages like [Java](java.md) / [Groovy](groovy.md) it'll be [Maven](maven.md),
+[Gradle](gradle.md) or similar.
+Other language like [Python](python.md), [Perl](perl.md), [NodeJS](javascript.md)
+each have their own such as `pip`, `cpan` or `npm` etc.
 
 This should be combined with [CI/CD](ci-cd.md) for automation.
 
