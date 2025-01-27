@@ -20,6 +20,7 @@
   - [Infrastructure-as-Code](#infrastructure-as-code)
 - [Documentation](#documentation)
 - [Principle: Time Amplification Effect](#principle-time-amplification-effect)
+- [Vendors](#vendors)
 - [Avoid Vendor Lock In](#avoid-vendor-lock-in)
 - [Technology Specific Best Practices](#technology-specific-best-practices)
   - [Dates - always use ISO8601 Date Format](#dates---always-use-iso8601-date-format)
@@ -230,6 +231,14 @@ Do not waste your colleagues time.
 If you've spent hours reading through a vendor's code base of Terraform code they want you to deploy
 or retrofit to your AWS environment, then write a 1 page summary on it so
 all your colleagues don't have to waste their time repeating the same work!
+
+## Vendors
+
+Ask to see the vendor's documentation and API.
+
+If they don't have good documentation and a good API that you can use, then their product is not mature.
+
+Go with someone else.
 
 ## Avoid Vendor Lock In
 
