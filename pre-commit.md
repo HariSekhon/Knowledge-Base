@@ -2,7 +2,7 @@
 
 Run simple sanity checks and linting before allowing to Git commit.
 
-Also used in [CI/CD](ci-cd.md) workflows.
+Also used in [CI/CD](cicd.md) workflows.
 
 See also the [DevOps-Bash-tools](devops-bash-tools.md) repo's
 [checks/](https://github.com/HariSekhon/DevOps-Bash-tools/tree/master/checks)
