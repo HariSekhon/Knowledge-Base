@@ -187,7 +187,7 @@ pip install --user bitbucket-cli
   - enforce code peer review approvals on Pull Requests before merging for quality control
   - this is to sanity check design and approach rather than linting for minor typos and errors which CI/CD should catch
     instead
-- Use [CI/CD](ci-cd.md) for extensive linting and testing:
+- Use [CI/CD](cicd.md) for extensive linting and testing:
   - set this up asap to trigger on both trunk and especially Pull Requests
     - this can block introducing rubbish code & style
   - you are inheriting technical debt daily until you set this up and will end up with ever more code to fix up
@@ -421,7 +421,7 @@ git config remote.<name>.push master:dev
 ### Set Git Commit Author using Environment Variables (for CI/CD workflows)
 
 Using Git environment variables is a less hardcoded way of setting the Git Commit Author for `git commit` steps in
-[CI/CD](ci-cd.md) workflows:
+[CI/CD](cicd.md) workflows:
 
 Git requires all four of these environment variables otherwise `git commit` errors out with `Author identity unknown` or
 `Committer identity unknown` since technically the committer could be different to the code author.
