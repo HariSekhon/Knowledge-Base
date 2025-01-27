@@ -78,7 +78,7 @@ terraform apply
 ## Terraform State
 
 Stored in a `terraform.tfstate` either locally or more usually in a cloud bucket to be shared among users or from a
-[CI/CD](ci-cd.md) system.
+[CI/CD](cicd.md) system.
 
 This is just a JSON file so you can read its contents to find out what version of Terraform it is using.
 
@@ -230,7 +230,7 @@ This is caused
 by the `.terraform.lock.hcl` being generated and committed from a machine of a different architecture since
 default Terraform only includes the checksums for the local architecture.
 
-This surfaces in [Atlantis](atlantis.md) or other [CI/CD](ci-cd.md) systems
+This surfaces in [Atlantis](atlantis.md) or other [CI/CD](cicd.md) systems
 because developers are often using [Mac](mac.md) (or heavy forbid [Windows](windows.md)) but the CI/CD systems like
 Atlantis are invariably running on [Linux](linux.md).
 
