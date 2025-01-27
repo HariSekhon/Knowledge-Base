@@ -7,8 +7,8 @@
   - [Neovim](#neovim)
   - [GNU Emacs](#gnu-emacs)
   - [Nano](#nano)
-- [Brackets](#brackets)
-- [Phoenix Code](#phoenix-code)
+  - [Brackets](#brackets)
+  - [Phoenix Code](#phoenix-code)
   - [Komodo Edit](#komodo-edit)
   - [Sublime](#sublime)
   - [Atom](#atom)
@@ -95,11 +95,11 @@ Easier to use than vim or emacs.
 
 Developed as an alternative to the pico text editor which was not entirely open source.
 
-## Brackets
+### Brackets
 
 <https://brackets.io/.io>
 
-## Phoenix Code
+### Phoenix Code
 
 <https://phcode.io/>
 
