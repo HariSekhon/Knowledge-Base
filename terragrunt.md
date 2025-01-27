@@ -120,8 +120,7 @@ Strict mode exits with error instead of just printing a warning:
 terragrunt validate-inputs --terragrunt-strict-validate
 ```
 
-Use this in [CI/CD](ci-cd.md) to force people to
-properly maintain their code changes.
+Use this in [CI/CD](cicd.md) to force people to properly maintain their code changes.
 
 ### Run-All
 
@@ -362,7 +361,7 @@ This is caused
 by the `.terraform.lock.hcl` being generated and committed from a machine of a different architecture since
 default Terraform only includes the checksums for the local architecture.
 
-This surfaces in [Atlantis](atlantis.md) or other [CI/CD](ci-cd.md) systems
+This surfaces in [Atlantis](atlantis.md) or other [CI/CD](cicd.md) systems
 because developers are often using [Mac](mac.md) (or heavy forbid [Windows](windows.md)) but the CI/CD systems like
 Atlantis are invariably running on [Linux](linux.md).
 
