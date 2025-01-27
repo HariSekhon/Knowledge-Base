@@ -877,6 +877,12 @@ Verify the change:
 xcode-select -p
 ```
 
+Output:
+
+```text
+/Applications/Xcode.app/Contents/Developer
+```
+
 Accept license if you have to:
 
 ```shell
