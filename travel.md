@@ -48,6 +48,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Cambodia](#cambodia)
     - [Cambodia Taxis](#cambodia-taxis)
     - [Cambodia Restaurants](#cambodia-restaurants)
+    - [Phnom Penh](#phnom-penh)
   - [Canada](#canada)
     - [Abbotsford](#abbotsford)
   - [Czech Republic / Czechia](#czech-republic--czechia)
@@ -617,6 +618,14 @@ You will need your Google Translate camera app to translate the menu as they don
 Cambodia uses US Dollars so it is relatively expensive compared to Thailand or Vietnam.
 
 For example, a holy chilli basil meat dish that would be \$2-3 in Thailand will cost you $6 here.
+
+#### Phnom Penh
+
+Stay near the Royal Palace of Cambodia by the river, it's where all the bars and restaurants are.
+
+If you stay in one of the places slightly West,
+there is nothing much there and you'll lose 20+ minutes walking each way to the busy area, or have to take taxis.
+They're cheap for a reason.
 
 ### Canada
 
