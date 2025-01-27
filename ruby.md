@@ -26,7 +26,8 @@ eg. [check_puppet.rb](https://github.com/HariSekhon/Nagios-Plugins/blob/master/c
 - [JRuby](#jruby)
   - [Rubinius](#rubinius)
   - [Ludicrous](#ludicrous)
-- [RubyMine](#rubymine)
+- [Ruby IDEs](#ruby-ides)
+  - [RubyMine](#rubymine)
 - [Meme](#meme)
   - [Porting Your Language to the JVM](#porting-your-language-to-the-jvm)
 
@@ -304,7 +305,9 @@ JIT for Ruby
 Experimental last I checked and performance roughly on par with YARV (Yet Another Ruby VM bytecode interpreter) which
 has since been merged into official Ruby 1.9 interpreter 2007.
 
-## RubyMine
+## Ruby IDEs
+
+### RubyMine
 
 <https://www.jetbrains.com/ruby/>
 
@@ -313,8 +316,6 @@ Ruby-specific IDE by Jebrains, based off [IntelliJ IDEA](intellij.md).
 Unfortuntely,
 this is proprietary paid for only and doesn't have a free version like [PyCharm](#pycharm) or main
 [IntelliJ](intellij.md).
-
-<br>
 
 ## Meme
 
