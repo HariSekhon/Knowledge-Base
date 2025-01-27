@@ -31,6 +31,7 @@ Feature rich and easy to use - the opposite end of [vim](vim.md)!
   - [Python](#python)
   - [JavaScript](#javascript)
   - [Java / Groovy / Scala / Kotlin & JVM Tools](#java--groovy--scala--kotlin--jvm-tools)
+  - [Ruby](#ruby)
   - [Misc Languages](#misc-languages)
   - [Debugging](#debugging)
   - [AI Plugins](#ai-plugins)
@@ -404,6 +405,19 @@ idea installPlugins \
   Lombook Plugin \
   JRebelPlugin
 ```
+
+### Ruby
+
+Requires Ultimate (paid for) unfortunately:
+
+- [Ruby](https://plugins.jetbrains.com/plugin/1293-ruby)
+
+```shell
+idea installPlugins \
+  org.jetbrains.plugins.ruby
+```
+
+See alternative IDEs and Editors such as VS Code, Sublime or Gleany on the [Editors & IDEs](editors.md) page.
 
 ### Misc Languages
 
