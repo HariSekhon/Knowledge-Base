@@ -617,7 +617,7 @@ You will need your Google Translate camera app to translate the menu as they don
 
 Cambodia uses US Dollars so it is relatively expensive compared to Thailand or Vietnam.
 
-For example, a holy chilli basil meat dish that would be \$2-3 in Thailand will cost you $6 here.
+For example, a holy chilli basil meat dish that would be \$2-3 in Thailand will cost you $6-7 here.
 
 #### Phnom Penh
 
