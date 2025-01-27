@@ -15,6 +15,8 @@
 
 <https://cocoapods.org/>
 
+<https://guides.cocoapods.org/>
+
 CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects.
 
 It's written in Ruby and can be installed using the system ruby.
