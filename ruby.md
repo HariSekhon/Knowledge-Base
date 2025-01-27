@@ -28,6 +28,7 @@ eg. [check_puppet.rb](https://github.com/HariSekhon/Nagios-Plugins/blob/master/c
   - [Ludicrous](#ludicrous)
 - [Ruby IDEs](#ruby-ides)
   - [RubyMine](#rubymine)
+  - [Alternatives](#alternatives)
 - [Meme](#meme)
   - [Porting Your Language to the JVM](#porting-your-language-to-the-jvm)
 
@@ -316,6 +317,12 @@ Ruby-specific IDE by Jebrains, based off [IntelliJ IDEA](intellij.md).
 Unfortuntely,
 this is proprietary paid for only and doesn't have a free version like [PyCharm](#pycharm) or main
 [IntelliJ](intellij.md).
+
+### Alternatives
+
+VS Code, Sublime or Gleany.
+
+See [Editors & IDEs](editors.md) page.
 
 ## Meme
 
