@@ -353,6 +353,7 @@ Filter by:
 - Distance
 - Price eg. `£, ££` or `£££` if it's date night
 - Prefer restaurants with higher number of reviews to reduce likelihood of fake reviews swaying / gaming the system
+- Places with soft piano music are upmarket (expensive)
 
 Places just outside the centres are often better value for money and top quality food,
 but some central places are great too.
@@ -612,6 +613,10 @@ You will need your Google Translate camera app to translate the menu as they don
 - [Grab](https://www.grab.com/) - taxi app
 
 #### Cambodia Restaurants
+
+Cambodia uses US Dollars so it is relatively expensive compared to Thailand or Vietnam.
+
+For example, a holy chilli basil meat dish that would be \$2-3 in Thailand will cost you $6 here.
 
 ### Canada
 
