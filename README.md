@@ -400,7 +400,8 @@ This one is used widely throughout these pages:
 
 ## CI/CD
 
-- [CI/CD](cicd)
+- [CI/CD](cicd.md)
+- [Mobile CI/CD](cicd-mobile.md)
 - Self-Hosted CI/CD:
   - [Jenkins](jenkins.md)
     - [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md)
