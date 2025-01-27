@@ -141,7 +141,7 @@ and be able to revert if you messed something up  .
 People want to go home and enjoy their lives, not be stuck debugging problems you've caused.
 
 Some people will say this is fine because you should have extensive tests etc etc... and this is true,
-you should have plenty of [CI/CD](ci-cd.md) and [Tests](testing.md) but in practice Tech is now so complex that there's
+you should have plenty of [CI/CD](cicd.md) and [Tests](testing.md) but in practice Tech is now so complex that there's
 always a risk that someone can go wrong that is unforeseen, and possibly related to live dependencies that you haven't
 accounted for.
 
@@ -191,7 +191,7 @@ For JVM languages like [Java](java.md) / [Groovy](groovy.md) it'll be [Maven](ma
 Other language like [Python](python.md), [Perl](perl.md), [NodeJS](javascript.md)
 each have their own such as `pip`, `cpan` or `npm` etc.
 
-This should be combined with [CI/CD](ci-cd.md) for automation.
+This should be combined with [CI/CD](cicd.md) for automation.
 
 ### CI/CD
 
