@@ -26,9 +26,13 @@
     - [WriterSide](#writerside)
   - [VS Code](#vs-code)
   - [Eclipse](#eclipse)
+  - [Sublime](#sublime)
+  - [Geany](#geany)
+  - [Atom](#atom)
 - [Editor Config](#editor-config)
-- [Misc Eclipse IDE Notes](#misc-eclipse-ide-notes)
-  - [Eclipse Plugins](#eclipse-plugins)
+- [IDE Details](#ide-details)
+  - [Eclipse Details](#eclipse-details)
+    - [Eclipse Plugins](#eclipse-plugins)
 - [Meme](#meme)
   - [Light Theme IDE](#light-theme-ide)
 
@@ -232,13 +236,33 @@ Old open source IDE.
 
 Most people prefer IntelliJ as it's much faster and slicker.
 
+### Sublime
+
+<https://www.sublimetext.com/>
+
+Slick.
+
+### Geany
+
+<https://www.geany.org/>
+
+Flyweight - fast & small.
+
+### Atom
+
+Discontinued. Seemed slow on big files.
+
+<https://github.blog/news-insights/product-news/sunsetting-atom/>
+
 ## Editor Config
 
 - `.editorconfig` - standard config file that many editors will read, including [GitHub](github.md) for displaying the `README.
   md` in the repo home page
   - see my [.editorconfig](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.editorconfig)
 
-## Misc Eclipse IDE Notes
+## IDE Details
+
+### Eclipse Details
 
 I haven't used eclipse enough to warrant its own page, so here are some minor bits.
 
@@ -264,7 +288,7 @@ Eclipse JSONTools validation plugin (Help -> MarketPlace), but needs files to be
 
 IntelliJ also has JSON error validation, but it's not as good as it's hard to see underscores not the big red cross eclipse puts in the left column.
 
-### Eclipse Plugins
+#### Eclipse Plugins
 
 - CheckStyle
 - Cucumber
