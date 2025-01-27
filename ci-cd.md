@@ -198,6 +198,10 @@ The weakest repo provider and weakest CI/CD system.
 - Legacy
 - see details in [Hosted Repo Providers](#hosted-cicd-by-git-repo-providers) section above as it's closer to them as a legacy TFS rebranding than the above cloud-native integrated offerings
 
+## Hosted CI/CD - Mobile Development
+
+See [Mobile CI/CD](cicd-mobile.md) page.
+
 ## Hosted CI/CD - 3rd Party (all are legacy)
 
 ### [CircleCI](https://circleci.com/)
