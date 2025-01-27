@@ -69,6 +69,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [CLI](#cli)
 - [Asahi Linux on Apple Silicon](#asahi-linux-on-apple-silicon)
 - [Troubleshooting](#troubleshooting)
+  - [XCodeBuild error complaining XCode only has command line tools](#xcodebuild-error-complaining-xcode-only-has-command-line-tools)
   - [Various Applications Fail to Open](#various-applications-fail-to-open)
 - [Relevant GitHub Repos](#relevant-github-repos)
 - [Memes](#memes)
@@ -857,6 +858,18 @@ Use at your own risk.
 There is a reason I put this just before the Troubleshooting section... :wink:
 
 ## Troubleshooting
+
+### XCodeBuild error complaining XCode only has command line tools
+
+```text
+xcode-select: error: tool 'xcodebuild' requires Xcode, but active developer directory '/Library/Developer/CommandLineTools' is a command line tools instance
+```
+
+Switch to full Xcode:
+
+```shell
+sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer
+```
 
 ### Various Applications Fail to Open
 
