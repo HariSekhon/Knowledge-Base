@@ -871,6 +871,12 @@ Switch to full Xcode:
 sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer
 ```
 
+Accept license if you have to:
+
+```shell
+sudo xcodebuild -license
+```
+
 ### Various Applications Fail to Open
 
 Often with this pop-up error:
