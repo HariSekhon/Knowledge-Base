@@ -29,7 +29,7 @@
 - Kong Mesh - service mesh based on Kuma and Envoy for Kubernetes or VMs
 - [Kong Insomnia](https://insomnia.rest/) - open-source API desktop client - tested but not sure what the point of this
   is compared to curl
-  - Inso - Insomnia CLI for [CI/CD](ci-cd.md) use
+  - Inso - Insomnia CLI for [CI/CD](cicd.md) use
 - [Mockbin](https://mockbin.org/) - create API endpoints to test using Insomnia
 
 ## Kong Gateway
