@@ -68,7 +68,7 @@ Commonly used technologies in microservices stacks:
 - even [Kubernetes](kubernetes.md) components and [Mesos](mesos.md) masters run as Docker containers
 - service discovery (eg. Consul of Kubernetes internal DNS)
 - standardize containers or AWS AMIs for lower maintenance
-- [CI/CD](ci-cd.md) to manage deployments
+- [CI/CD](cicd.md) to manage deployments
 - logging - all services should log to json
 
 ## Logging
