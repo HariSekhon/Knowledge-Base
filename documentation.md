@@ -99,7 +99,7 @@ There are many different Wiki softwares:
   (`README.md` - see [Markdown](markdown.md) tips page)
   - [GitLab](https://docs.gitlab.com/ee/user/project/wiki/) and
   [Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/project/wiki/wiki-create-repo?view=azure-devops)
-  also have Wikis, but see [CI/CD](ci-cd.md) for why not to bother with those platforms any more
+  also have Wikis, but see [CI/CD](cicd.md) for why not to bother with those platforms any more
 
 and too many other minor open source ones to list.
 
