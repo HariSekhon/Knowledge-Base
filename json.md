@@ -134,7 +134,7 @@ From [DevOps-Python-tools](devops-python-tools.md), recursively find and lint al
 validate_json.py .
 ```
 
-I run these automatically in all [my GitHub repos](https://github.com/HariSekhon) via [CI/CD](ci-cd.md).
+I run these automatically in all [my GitHub repos](https://github.com/HariSekhon) via [CI/CD](cicd.md).
 
 ### IDEs
 
