@@ -871,6 +871,12 @@ Switch to full Xcode:
 sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer
 ```
 
+Verify the change:
+
+```shell
+xcode-select -p
+```
+
 Accept license if you have to:
 
 ```shell
