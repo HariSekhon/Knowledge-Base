@@ -195,8 +195,9 @@ This should be combined with [CI/CD](ci-cd.md) for automation.
 
 ### CI/CD
 
-CI/CD should use some combination of command line scripts ([Bash](bash.md) / [Python](python.md))
-and native reusable workflows ([GitHub-Actions](github-actions.md)) or shared libraries ([Jenkins](jenkins.md)).
+CI/CD should use some combination of command line scripts ([Bash](bash.md) / [Python](python.md)),
+code build systems as mentioned above, and native reusable workflows ([GitHub-Actions](github-actions.md))
+or shared libraries ([Jenkins](jenkins.md)).
 
 ### Infrastructure-as-Code
 
