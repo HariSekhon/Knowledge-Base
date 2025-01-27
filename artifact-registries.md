@@ -1,6 +1,6 @@
 # Artifact Registries
 
-Use for storing code packages built in [CI/CD](ci-cd.md) systems for deployments.
+Use for storing code packages built in [CI/CD](cicd.md) systems for deployments.
 
 In recent years also used for Docker images.
 
