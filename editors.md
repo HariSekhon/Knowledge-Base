@@ -7,7 +7,11 @@
   - [Neovim](#neovim)
   - [GNU Emacs](#gnu-emacs)
   - [Nano](#nano)
-  - [Phoenix / Brackets](#phoenix--brackets)
+- [Brackets](#brackets)
+- [Phoenix Code](#phoenix-code)
+  - [Komodo Edit](#komodo-edit)
+  - [Sublime](#sublime)
+  - [Atom](#atom)
 - [IDEs](#ides)
   - [IntelliJ IDEA](#intellij-idea)
     - [PyCharm](#pycharm)
@@ -26,9 +30,7 @@
     - [WriterSide](#writerside)
   - [VS Code](#vs-code)
   - [Eclipse](#eclipse)
-  - [Sublime](#sublime)
   - [Geany](#geany)
-  - [Atom](#atom)
 - [Editor Config](#editor-config)
 - [IDE Details](#ide-details)
   - [Eclipse Details](#eclipse-details)
@@ -93,11 +95,17 @@ Easier to use than vim or emacs.
 
 Developed as an alternative to the pico text editor which was not entirely open source.
 
-### Phoenix / Brackets
+## Brackets
 
-<https://brackets.io/>
+<https://brackets.io/.io>
+
+## Phoenix Code
+
+<https://phcode.io/>
 
 [:octocat:phcode-dev/phoenix](https://github.com/phcode-dev/phoenix)
+
+Next generation of the above Brackets editor that runs everywhere, even in web browser.
 
 Web Editor:
 
@@ -106,6 +114,22 @@ Web Editor:
 Desktop Editor:
 
 <https://phcode.io/#/home>
+
+### Komodo Edit
+
+<https://www.activestate.com/products/komodo-edit/>
+
+### Sublime
+
+<https://www.sublimetext.com/>
+
+Slick.
+
+### Atom
+
+Discontinued. Seemed slow on big files.
+
+<https://github.blog/news-insights/product-news/sunsetting-atom/>
 
 ## IDEs
 
@@ -236,23 +260,11 @@ Old open source IDE.
 
 Most people prefer IntelliJ as it's much faster and slicker.
 
-### Sublime
-
-<https://www.sublimetext.com/>
-
-Slick.
-
 ### Geany
 
 <https://www.geany.org/>
 
 Flyweight - fast & small.
-
-### Atom
-
-Discontinued. Seemed slow on big files.
-
-<https://github.blog/news-insights/product-news/sunsetting-atom/>
 
 ## Editor Config
 
