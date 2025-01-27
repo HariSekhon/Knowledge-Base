@@ -13,7 +13,11 @@
   - [Use a sane versioning system](#use-a-sane-versioning-system)
     - [Software Versioning](#software-versioning)
     - [Live Websites / SaaS](#live-websites--saas)
+- [Command Line vs UI](#command-line-vs-ui)
 - [Automation](#automation)
+  - [Code Builds](#code-builds)
+  - [CI/CD](#cicd)
+  - [Infrastructure-as-Code](#infrastructure-as-code)
 - [Documentation](#documentation)
 - [Principle: Time Amplification Effect](#principle-time-amplification-effect)
 - [Avoid Vendor Lock In](#avoid-vendor-lock-in)
@@ -170,7 +174,27 @@ Example the first release in the year 2024 is simply `202401`.
 Estimate how many releases you'll do in a year
 and pad the `NN` to that many digits so the versions stay lexically aligned.
 
+## Command Line vs UI
+
+Command line is crucial for techies.
+
+This makes it easier to store and share, but also to automate things via [shell scripts](bash.md).
+
 ## Automation
+
+### Code Builds
+
+You should have a build system for whatever [programming](programming.md) language you use eg [Maven](maven.md),
+[Gradle](gradle.md) etc.
+
+This should be combined with [CI/CD](ci-cd.md) for automation.
+
+### CI/CD
+
+CI/CD should use some combination of command line scripts ([Bash](bash.md) / [Python](python.md))
+and native reusable workflows ([GitHub-Actions](github-actions.md)) or shared libraries ([Jenkins](jenkins.md)).
+
+### Infrastructure-as-Code
 
 Your work isn't production grade until it's automated with tools like [Terraform](terraform.md), [Ansible](ansible.md),
 or other code where ever possible.
