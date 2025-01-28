@@ -139,6 +139,35 @@ tsm version  # -s "https://$TABLEAU_SERVER:8850"
 tsm jobs list
 ```
 
+You can add multiple licenses to add more user seats:
+
+```shell
+tsm licenses list
+```
+
+```shell
+tsm licenses activate --license-key "$PRODUCT_KEY"
+```
+
+If the Tableau server doesn't have access to the internet due to egress filtering,
+then create an offline activation file using the UI or CLI:
+
+```shell
+tsm licenses get-offline-activation-file -k "$PRODUCT_KEY" -o .
+```
+
+and then upload the resulting `TableauOfflineActivationRequest.tlq` to
+<https://activation.tableausoftware.com/LicenseActivation> and download the `activation.tlf`.
+
+It might give you a newer license key and make you repeat the above step before giving you the
+`activation.tlf` download.
+
+```shell
+tsm licenses activate --license-file activation.tlf
+```
+
+Then repeat the licenses list command above to see it's been activated.
+
 See `tsm` commands shown above in administration section for some common basics.
 
 ### Tabcmd
