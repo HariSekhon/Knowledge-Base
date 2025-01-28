@@ -35,7 +35,7 @@ pod install
 
 This uses a `Podfile` build file that looks like this:
 
-```podfile
+```ruby
 platform :ios, '8.0'
 use_frameworks!
 
