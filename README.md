@@ -516,6 +516,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Airflow](airflow.md) TODO
 - [Apache Camel](camel.md)
 - [JSON](json.md)
+- [DVC](dvc.md)
 - [Informatica](informatica.md)
 
 ### Data Formats
@@ -550,7 +551,8 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Data Science](data-science.md) TODO
 - [Machine Learning](machine-learning.md) TODO
 - [Python](python.md)
-  - [Anaconda](anaconda.md) TODO
+  - [Anaconda](anaconda.md)
+- [DVC](dvc.md)
 - [R](r.md) TODO
 - [Octave](octave.md) TODO
 
