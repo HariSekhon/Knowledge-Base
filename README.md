@@ -672,6 +672,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Dev Misc](dev.md)
 - [Open Source](open-source.md)
 - [Internet Miscellaneous](internet-misc.md)
+- [Jira](jira.md)
 - [TamperMonkey](tampermonkey.md)
 - [IRC](irc.md)
 - [Communications - Chat & Video Conferencing](comms.md)
@@ -681,6 +682,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Hashicorp](hashicorp.md)
 - [Confluent](confluent.md)
 - [Atlassian](atlassian.md)
+  - [Jira](jira.md)
 
 ### Multimedia
 
