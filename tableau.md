@@ -131,6 +131,8 @@ But you cannot use it to manage user permissions or roles within Tableau Server.
 
 Note: `tsm` and `tabcmd` use different ports as they communicate with different services in Tableau.
 
+See also `tsm` commands shown above in administration section for some common basics.
+
 ```shell
 tsm version  # -s "https://$TABLEAU_SERVER:8850"
 ```
@@ -166,9 +168,15 @@ It might give you a newer license key and make you repeat the above step before 
 tsm licenses activate --license-file activation.tlf
 ```
 
-Then repeat the licenses list command above to see it's been activated.
+```shell
+tsm licenses list
+```
 
-See `tsm` commands shown above in administration section for some common basics.
+The licenses will show up in the Admin UI but not in the normal UI on the users page until you restart Tableau:
+
+```shell
+tsm restart
+```
 
 ### Tabcmd
 
