@@ -18,6 +18,7 @@
   - [Code Builds](#code-builds)
   - [CI/CD](#cicd)
   - [Infrastructure-as-Code](#infrastructure-as-code)
+- [Principle: Portability](#principle-portability)
 - [Documentation](#documentation)
 - [Principle: Time Amplification Effect](#principle-time-amplification-effect)
 - [Vendors](#vendors)
@@ -179,7 +180,7 @@ and pad the `NN` to that many digits so the versions stay lexically aligned.
 
 Command line is crucial for techies.
 
-This makes it easier to store and share, but also to automate things via [shell scripts](bash.md).
+This makes it easier to store and share, but also to automate things via [shell scripts](bash.md) or [CI/CD](cicd.md)
 
 ## Automation
 
@@ -211,6 +212,12 @@ simple and automated enough.
 You also don't want to have to struggle to remember how you built or set something up last year.
 
 Do not rely on your memory, it will inevitably fail you eventually.
+
+## Principle: Portability
+
+1. If you can't run local CLI commands you don't have portable understanding
+1. If ever there was an outage of your CI/CD tooling or other automation system and you needed to do a production hotfix
+   urgently, you could always fall back to running it locally
 
 ## Documentation
 
