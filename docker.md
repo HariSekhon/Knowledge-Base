@@ -12,6 +12,7 @@ Lightweight application containers containing app + all dependencies.
 - [Volumes](#volumes)
 - [Docker Scan](#docker-scan)
 - [Buildx](#buildx)
+- [Docker Build Best Practices](#docker-build-best-practices)
 - [Sharing Cache between hosts](#sharing-cache-between-hosts)
 - [Clean up Docker](#clean-up-docker)
 - [Dockerfile](#dockerfile)
@@ -191,6 +192,10 @@ install/install_docker_buildx.sh
 ```shell
 docker buildx ...
 ```
+
+## Docker Build Best Practices
+
+<https://docs.docker.com/build/building/best-practices>
 
 ## Sharing Cache between hosts
 
