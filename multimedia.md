@@ -21,7 +21,7 @@ Media file analysis, editing, transcoding and conversions.
   - [Transcode mkv into standard mp4 for smart TVs to play](#transcode-mkv-into-standard-mp4-for-smart-tvs-to-play)
   - [Video Clipping](#video-clipping)
   - [Inspect Media File](#inspect-media-file)
-  - [Download from YouTube](#download-from-youtube)
+  - [Download Videos from Social Media](#download-videos-from-social-media)
     - [yt-dlp](#yt-dlp)
     - [Download Single Video](#download-single-video)
     - [Download All Videos from YouTube Channel](#download-all-videos-from-youtube-channel)
@@ -336,7 +336,7 @@ mplayer -vo null -ao null -identify -frames 0 "$file"
 tovid id "$file"
 ```
 
-### Download from YouTube
+### Download Videos from Social Media
 
 #### yt-dlp
 
@@ -358,17 +358,36 @@ You can then choose the format quality you want:
 yt-dlp -f "$format_id" "$url"
 ```
 
+See which sites it can download from:
+
+```shell
+yt-dlp --list-extractors
+```
+
 #### Download Single Video
 
 Use script from
 [DevOps-Bash-tools](devops-bash-tools.md) repo
 to simplify downloading with maximum quality and compatibility, with continue and no overwrite settings.
 
+This script has symlinks for X/Twitter and Facebook too as it can download from those sites and should also work for all
+those listed by the above command of `yt-dlp --list-extractors`:
+
 ```shell
 youtube_download_video.sh "$url"
 ```
 
-Even attempts to install `yt-dlp` and `ffmepg` prerequisites if not already installed.
+These are just symlinks for convenience:
+
+```shell
+x_download_video.sh "$url"
+```
+
+```shell
+facebook_download_video.sh "$url"
+```
+
+The script will even attempt to install `yt-dlp` and `ffmepg` prerequisites if not already installed.
 
 #### Download All Videos from YouTube Channel
 
