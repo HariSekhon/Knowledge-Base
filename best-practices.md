@@ -25,7 +25,7 @@
 - [Avoid Vendor Lock In](#avoid-vendor-lock-in)
 - [Technology Specific Best Practices](#technology-specific-best-practices)
   - [Dates - always use ISO8601 Date Format](#dates---always-use-iso8601-date-format)
-  - [Docker](#docker)
+  - [Docker Best Practices](#docker-best-practices)
   - [Kubernetes - Production Ready Checklist](#kubernetes---production-ready-checklist)
   - [GitHub Actions CI/CD Best Practices](#github-actions-cicd-best-practices)
 - [Memes](#memes)
@@ -283,7 +283,7 @@ Don't use the American `MM/DD/YYYY` format - it's irregular and not for engineer
 
 ![Data Format](images/date_format_makes_no_sense.jpeg)
 
-### Docker
+### Docker Best Practices
 
 <https://docs.docker.com/build/building/best-practices>
 
