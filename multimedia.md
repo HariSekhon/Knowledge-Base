@@ -384,6 +384,10 @@ x_download_video.sh "$url"
 ```
 
 ```shell
+twitter_download_video.sh "$url"
+```
+
+```shell
 facebook_download_video.sh "$url"
 ```
 
