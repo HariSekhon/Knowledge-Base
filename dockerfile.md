@@ -8,6 +8,7 @@ The build file for a docker image.
 
 - [Template](#template)
 - [HariSekhon/Dockerfiles](#harisekhondockerfiles)
+- [Docker Build Best Practices](#docker-build-best-practices)
 - [Amazing Cache Busting Trick](#amazing-cache-busting-trick)
 - [Python - Create Smaller Docker Images Using the Builder Pattern](#python---create-smaller-docker-images-using-the-builder-pattern)
 
@@ -23,6 +24,10 @@ Large repo full of Dockerfiles for different open source technologies full of re
 scripts to do extra tags, cache busting upon new commits to GitHub repos etc.
 
 :octocat: [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles)
+
+## Docker Build Best Practices
+
+<https://docs.docker.com/build/building/best-practices>
 
 ## Amazing Cache Busting Trick
 
