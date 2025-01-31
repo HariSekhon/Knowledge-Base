@@ -629,6 +629,22 @@ If you stay in one of the places slightly West,
 there is nothing much there and you'll lose 20+ minutes walking each way to the busy area, or have to take taxis.
 They're cheap for a reason.
 
+- [Phnom Penh Night Market](https://maps.app.goo.gl/E9T7UUWrn3ZHKUve8) - affordable street food 6-11pm, and ice cream
+- [Lucky cafe](https://maps.app.goo.gl/V8Js6PcqUu5AxJ3r8) - quiet cafe, good wifi, plugs
+- [Gastro 130 Restaurant & Bar 24/7](https://maps.app.goo.gl/TWWxsZ4wGN11L3Xs8) - very popular, well positions,
+  good seating, a few plugs, can be loud at times, international priced menu
+- [OWL CAFE & RESTAURANT](https://maps.app.goo.gl/m4FLw8sHrSXx6ieY6) - slightly cheaper but still internationally
+  priced.
+- [Num Kruk](https://maps.app.goo.gl/pq3tASLWa4BTe12z9) - street food stall of very good beef Pho with a smell of
+  cinnamon, which stopped me in my tracks and got me to try it for $2.50, between The Royal Palace and Melbourne Coffee
+- [Melbourne Coffee](https://maps.app.goo.gl/SZc2oZCPy8uKLG3Q7) - good smoothies and toasties,
+  double the price of Cambodian street food of course because it caters to foreigners.
+  Fast wifi and plugs
+- [Café Amazon Riverside] - popular coffee chain with decent wifi if you neeed it. Drinks are $2.50+, which is a rip off
+  by Cambodian standards of course
+- [La Croisette](https://maps.app.goo.gl/CUKpxpL4vz8ziqdd7) - fancy upmarket restaurant with a very good looking menu,
+  but quite expensive at \$5-7 per non-alcoholic drink, at $10 per drink. Closes at merely 11pm
+
 ### Canada
 
 It's been most of a lifetime since I've been.
