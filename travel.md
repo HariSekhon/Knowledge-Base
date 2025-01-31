@@ -633,8 +633,7 @@ They're cheap for a reason.
 - [Lucky cafe](https://maps.app.goo.gl/V8Js6PcqUu5AxJ3r8) - quiet cafe, good wifi, plugs
 - [Gastro 130 Restaurant & Bar 24/7](https://maps.app.goo.gl/TWWxsZ4wGN11L3Xs8) - very popular, well positions,
   good seating, a few plugs, can be loud at times, international priced menu
-- [Owl Cafe & Restaurant](https://maps.app.goo.gl/m4FLw8sHrSXx6ieY6) - slightly cheaper but still internationally
-  priced.
+- [Owl Cafe & Restaurant](https://maps.app.goo.gl/m4FLw8sHrSXx6ieY6) - slightly cheaper but still internationally priced
 - [Num Kruk](https://maps.app.goo.gl/pq3tASLWa4BTe12z9) - street food stall of very good beef Pho with a smell of
   cinnamon, which stopped me in my tracks and got me to try it for $2.50, between The Royal Palace and Melbourne Coffee
 - [Melbourne Coffee](https://maps.app.goo.gl/SZc2oZCPy8uKLG3Q7) - good smoothies and toasties,
