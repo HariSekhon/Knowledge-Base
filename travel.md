@@ -77,6 +77,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Königswinter](#königswinter)
     - [Potsdam](#potsdam)
   - [Italy](#italy)
+    - [Italy Car Rentals](#italy-car-rentals)
     - [Rome](#rome)
     - [Venice](#venice)
   - [Moldova](#moldova)
@@ -839,6 +840,13 @@ it's worth the translation effort, excellent food and good prices.
 The Thai tom yum soup and the sushi are recommended.
 
 ### Italy
+
+#### Italy Car Rentals
+
+I haven't used these, my colleagues were discussing them:
+
+- [TinLeggio](https://www.tinoleggio.it/)
+- [LocAutoRent](https://www.locautorent.com/en/)
 
 #### Rome
 
