@@ -639,7 +639,8 @@ They're cheap for a reason.
 - [Melbourne Coffee](https://maps.app.goo.gl/SZc2oZCPy8uKLG3Q7) - good smoothies and toasties,
   double the price of Cambodian street food of course because it caters to foreigners.
   Fast wifi and plugs
-- [Café Amazon Riverside] - popular coffee chain with decent wifi if you neeed it. Drinks are $2.50+, which is a rip off
+- [Café Amazon Riverside](https://maps.app.goo.gl/EZz94RLyn7Q3U6CM9) - popular coffee chain with decent wifi if you
+  need it. Drinks are $2.50+, which is a rip off
   by Cambodian standards of course
 - [La Croisette](https://maps.app.goo.gl/CUKpxpL4vz8ziqdd7) - fancy upmarket restaurant with a very good looking menu,
   but quite expensive at \$5-7 per non-alcoholic drink, at $10 per drink. Closes at merely 11pm
