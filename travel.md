@@ -657,8 +657,9 @@ They're cheap for a reason.
     double the price of Cambodian street food of course because it caters to foreigners. Fast wifi and plugs
   - [Enso Cafe](https://maps.app.goo.gl/5PC7pkcEjC9ohA9P6) - upmarket cafe with good food menu, pricey but has lunch deals
     for $11.50
-- [Café Amazon Riverside](https://maps.app.goo.gl/EZz94RLyn7Q3U6CM9) - popular coffee chain near the palace with decent
-  wifi and plugs. Drinks are $2.50+, internationally priced
+- [Royal Palace of Cambodia](https://maps.app.goo.gl/4DKHab79NUWV1WL46)
+  - [Café Amazon Riverside](https://maps.app.goo.gl/EZz94RLyn7Q3U6CM9) - popular coffee chain near the palace with decent
+    wifi and plugs. Drinks are $2.50+, internationally priced
 
 ### Canada
 
