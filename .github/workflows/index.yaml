@@ -20,7 +20,7 @@
 ---
 name: Index
 
-on:
+on:  # yamllint disable-line rule:truthy
   push:
     branches:
       - master
