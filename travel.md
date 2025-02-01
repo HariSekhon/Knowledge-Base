@@ -639,8 +639,8 @@ They're cheap for a reason.
 - [Melbourne Coffee](https://maps.app.goo.gl/SZc2oZCPy8uKLG3Q7) - good smoothies and toasties,
   double the price of Cambodian street food of course because it caters to foreigners.
   Fast wifi and plugs
-- [Enso Cafe](https://maps.app.goo.gl/5PC7pkcEjC9ohA9P6) - upmarket cafe with good menu, pricey but has lunch deals for
-  $11.50
+- [Enso Cafe](https://maps.app.goo.gl/5PC7pkcEjC9ohA9P6) - upmarket cafe with good food menu, pricey but has lunch deals
+  for $11.50
 - [Café Amazon Riverside](https://maps.app.goo.gl/EZz94RLyn7Q3U6CM9) - popular coffee chain with decent wifi if you
   need it. Drinks are $2.50+, internationally priced
   by Cambodian standards of course
