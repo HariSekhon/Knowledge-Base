@@ -630,22 +630,34 @@ there is nothing much there and you'll lose 20+ minutes walking each way to the 
 They're cheap for a reason.
 
 - [Phnom Penh Night Market](https://maps.app.goo.gl/E9T7UUWrn3ZHKUve8) - affordable street food 6-11pm, and ice cream
-- [Lucky cafe](https://maps.app.goo.gl/V8Js6PcqUu5AxJ3r8) - quiet cafe, good wifi, plugs
-- [Gastro 130 Restaurant & Bar 24/7](https://maps.app.goo.gl/TWWxsZ4wGN11L3Xs8) - very popular, well positions,
+- [Bassac Street](https://maps.app.goo.gl/fGsvZB92EzwiH69p6) - tourist street of bars and restaurants
+  - [Hub Street Cocktails](https://maps.app.goo.gl/KACt4g44R1fYQFEj6) - busy with locals and live music on Saturday
+    night
+  - [Mama Wong's Dumpling and Noodle House](https://maps.app.goo.gl/ro2CqaBSfDB74gDn6) - soups
+  - [Big MaMa](https://maps.app.goo.gl/QBeF2jJAWSzDaM1SA) - good menu, but pricey for Cambodia at $10-15 per main, most
+    seating is on rooftop bar which was dead at 9pm on a Saturday night with just 2 individual single guys eating dinner
+    there, while the street downstairs is buzzing with bars and restaurants
+  - [Back Street Bar](https://maps.app.goo.gl/9WQL6C8eEfw1S8qi8) - decent menu and good prices
+  - [CanCan](https://maps.app.goo.gl/uZnpwB3s9C4HQgEp9) - loud on a Saturday night, good menu
+  - [Bat Muk Yu](https://maps.app.goo.gl/wr7R6NRY8B4PvUmE6) - popular beer garden with live music on Saturday night
+  - [White Rabbit](https://maps.app.goo.gl/9gc11Ad8rKpfshVc6) - small cosy low light bar, good for an intimate date
+- [Khemarak Phoumin Ave (130)](https://maps.app.goo.gl/XHBLfD7MyiPYoECK9) - the east end is the red light district of
+  bar girls, but there are also a few good hotels and restaurants places that cater to foreigners
+  - [Gastro 130 Restaurant & Bar 24/7](https://maps.app.goo.gl/TWWxsZ4wGN11L3Xs8) - very popular, well positions,
   good seating, a few plugs, can be loud at times, international priced menu
-- [Owl Cafe & Restaurant](https://maps.app.goo.gl/m4FLw8sHrSXx6ieY6) - slightly cheaper but still internationally priced
+  - [Owl Cafe & Restaurant](https://maps.app.goo.gl/m4FLw8sHrSXx6ieY6) - slightly cheaper but still internationally
+    priced by Cambodian standards of course
+  - [La Croisette](https://maps.app.goo.gl/CUKpxpL4vz8ziqdd7) - fancy upmarket restaurant with a very good looking menu,
+    but quite expensive at \$5-7 per non-alcoholic drink, at $10 per drink. Closes at merely 11pm
+  - [Lucky cafe](https://maps.app.goo.gl/V8Js6PcqUu5AxJ3r8) - quiet cafe, good wifi, plugs
 - [Num Kruk](https://maps.app.goo.gl/pq3tASLWa4BTe12z9) - street food stall of very good beef Pho with a smell of
   cinnamon, which stopped me in my tracks and got me to try it for $2.50, between The Royal Palace and Melbourne Coffee
 - [Melbourne Coffee](https://maps.app.goo.gl/SZc2oZCPy8uKLG3Q7) - good smoothies and toasties,
-  double the price of Cambodian street food of course because it caters to foreigners.
-  Fast wifi and plugs
+  double the price of Cambodian street food of course because it caters to foreigners. Fast wifi and plugs
 - [Enso Cafe](https://maps.app.goo.gl/5PC7pkcEjC9ohA9P6) - upmarket cafe with good food menu, pricey but has lunch deals
   for $11.50
-- [Café Amazon Riverside](https://maps.app.goo.gl/EZz94RLyn7Q3U6CM9) - popular coffee chain with decent wifi if you
-  need it. Drinks are $2.50+, internationally priced
-  by Cambodian standards of course
-- [La Croisette](https://maps.app.goo.gl/CUKpxpL4vz8ziqdd7) - fancy upmarket restaurant with a very good looking menu,
-  but quite expensive at \$5-7 per non-alcoholic drink, at $10 per drink. Closes at merely 11pm
+- [Café Amazon Riverside](https://maps.app.goo.gl/EZz94RLyn7Q3U6CM9) - popular coffee chain near the palace with decent
+  wifi and plugs. Drinks are $2.50+, internationally priced
 
 ### Canada
 
