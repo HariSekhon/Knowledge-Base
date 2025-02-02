@@ -14,6 +14,7 @@
   - [Find the location of a binary in the %PATH%](#find-the-location-of-a-binary-in-the-path)
   - [List Disk Space](#list-disk-space)
   - [File Permissions](#file-permissions)
+- [GitHub Repos](#github-repos)
 - [Meme](#meme)
   - [Wizard Install Software](#wizard-install-software)
 
@@ -216,6 +217,10 @@ Grant read and execute to all users:
 ```commandline
 icacls "D:\test\test.txt" /grant "users:(RX)"
 ```
+
+## GitHub Repos
+
+- [:octocat: scipag/HardeningKitty](https://github.com/scipag/HardeningKitty)
 
 ## Meme
 
