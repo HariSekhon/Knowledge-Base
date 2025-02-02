@@ -16,6 +16,8 @@ Packer can be used to create AMI + Vagrant box at same time.
 
 - [Configs](#configs)
 - [Convert an Old Packer JSON template to HCL](#convert-an-old-packer-json-template-to-hcl)
+- [Troubleshooting](#troubleshooting)
+  - [Debug Mode](#debug-mode)
 
 <!-- INDEX_END -->
 
