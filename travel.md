@@ -621,6 +621,9 @@ Cambodia uses US Dollars so it is relatively expensive compared to Thailand or V
 For example, a holy chilli basil meat dish that would be \$2-3 in Thailand will cost you $6-7 here.
 A coffee will cost you \$3-4.
 
+Also, 'Fish & Chips' seems to be more like fish goujons and chips,
+and not the grand portions you may be used to in the West.
+
 #### Phnom Penh
 
 Stay near the Royal Palace of Cambodia by the river, it's where all the bars and restaurants are.
@@ -1914,7 +1917,8 @@ but more expensive to eat and drink there.
   the price of the cheap eats places in Ben Thanh Market, but more variety and better social benches seating
 - [The Hungry Pig](https://maps.app.goo.gl/W5KcfRHYC9jFLiYi9) - very good full english breakfast, paninis, burgers,
   big drink sizes, reasonable prices. The bacon is well done just the way I like it, in both the english breakfast and
-  panini. This is my favourite place for breakfast
+  panini. The 'Fish & Chips' is more like fish goujons and chips, and smaller portion than a grand Fish & Chips of
+  England. This is my favourite place for breakfast
 - [Little HaNoi Egg Coffee](https://maps.app.goo.gl/XjfTPMq31ci2xJf86) - eggs, salmon, avocado type breakfast, good
   drinks such as peach ice tea with peaches in it
 - [Quán ăn Bác Hiền](https://maps.app.goo.gl/hKbmBcmTAdyyXKzm7) - excellent cheap street food restaurant, ignore the
