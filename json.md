@@ -110,17 +110,23 @@ yq -P < "$file"
 or from [DevOps-Bash-tools](devops-bash-tools.md):
 
 ```shell
-json2yaml.sh
+json2yaml.sh "$file"
+```
+
+or
+
+```shell
+json2yaml.sh < "$file"
 ```
 
 This will figure out which of the following you have installed and use the first one it finds in this order:
 
 ```shell
-ruby -r yaml -r json -e 'puts YAML.dump(JSON.parse(STDIN.read))'
+ruby -r yaml -r json -e 'puts YAML.dump(JSON.parse(STDIN.read))' < "$file"
 ```
 
 ```shell
-python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)'
+python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' < "$file"
 ```
 
 Doesn't use `yq` any more as there were two different ones found in `$PATH` that could result in different results:
