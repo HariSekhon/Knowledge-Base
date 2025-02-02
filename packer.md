@@ -12,8 +12,27 @@ This usually involves running automated installers that are native to each Linux
 
 Packer can be used to create AMI + Vagrant box at same time.
 
+<!-- INDEX_START -->
+
+- [Configs](#configs)
+- [Convert an Old Packer JSON template to HCL](#convert-an-old-packer-json-template-to-hcl)
+
+<!-- INDEX_END -->
+
 ## Configs
 
 See [HariSekhon/Packer](https://github.com/HariSekhon/Packer) repo.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Packer&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer)
+
+## Convert an Old Packer JSON template to HCL
+
+```shell
+packer hcl2_upgrade "$file.json"
+```
+
+Output:
+
+```text
+Successfully created "$file.json".pkr.hcl. Exit 0
+```
