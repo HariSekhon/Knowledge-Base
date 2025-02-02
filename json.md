@@ -14,9 +14,10 @@ Useful JSON tools:
 - [Java Libraries](#java-libraries)
 - [Conversion](#conversion)
   - [XML to JSON](#xml-to-json)
+  - [JSON to YAML](#json-to-yaml)
   - [JSON to CSV](#json-to-csv)
 - [Pretty Print / format JSON](#pretty-print--format-json)
-- [JSON Format Validation](#json-format-validation)
+- [JSON Linting](#json-linting)
   - [IDEs](#ides)
 
 <!-- INDEX_END -->
@@ -99,6 +100,46 @@ jnv data.json
 ```shell
 xml2json
 ```
+
+### JSON to YAML
+
+```shell
+yq -P < "$file"
+```
+
+or from [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+json2yaml.sh
+```
+
+This will figure out which of the following you have installed and use the first one it finds in this order:
+
+```shell
+ruby -r yaml -r json -e 'puts YAML.dump(JSON.parse(STDIN.read))'
+```
+
+```shell
+python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)'
+```
+
+Doesn't use `yq` any more as there were two different ones found in `$PATH` that could result in different results:
+
+Doesn't use Perl `JSON::XS` any more since found when converting an old [Packer](packer.md) json to yaml format that it
+converted this:
+
+```json
+"ssh_pty":true
+```
+
+to this useless thing:
+
+```json
+ssh_pty: !!perl/scalar:JSON::PP::Boolean 1
+```
+
+and also it sorted the keys, losing the original structure of the file where the variables were at the top for human
+readability.
 
 ### JSON to CSV
 
