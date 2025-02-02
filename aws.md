@@ -17,6 +17,7 @@ NOT PORTED YET
   - [EC2 Instances](#ec2-instances)
   - [Get EC2 Console Output](#get-ec2-console-output)
   - [Disable tmpfs](#disable-tmpfs)
+  - [Sharing AMIs Between AWS Accounts](#sharing-amis-between-aws-accounts)
   - [Clone an EC2 instance for testing](#clone-an-ec2-instance-for-testing)
   - [Add an EC2 EBS volume](#add-an-ec2-ebs-volume)
     - [Create EC2 EBS volume](#create-ec2-ebs-volume)
@@ -174,6 +175,26 @@ Amazon Linux 2023 `/tmp` uses tmpfs which stores files in a ramdisk, limited by 
 
 To disable tmpfs and go back to using `/tmp` on underlying root partition,
 follow the [Linux - Disable tmpfs](linux.md#disable-tmpfs) section.
+
+### Sharing AMIs Between AWS Accounts
+
+[Packer](packer.md) can be used to easily build AMIs in your shared CI/CD account.
+
+To share these AMI with other AWS accounts for different projects or
+environments (dev / staging / production) that may all need the same base image or EKS image, you can share it like so:
+
+```shell
+aws ec2 modify-image-attribute \
+    --image-id "$ami_id" \
+    --launch-permission "Add=[{UserId=$aws_account_id}]"
+```
+
+There is a script in [DevOps-Bash-tools](devops-bash-tools.md) repo
+that allows you to share by name for predictable convenience:
+
+```shell
+aws_ec2_ami_share_to_account.sh <ami_name_or_id> <aws_account_id>
+```
 
 ### Clone an EC2 instance for testing
 
