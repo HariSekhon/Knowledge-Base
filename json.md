@@ -90,8 +90,8 @@ jnv data.json
 
 ## Java Libraries
 
-- Jackson
-- Gson
+- [Jackson](https://github.com/FasterXML/jackson)
+- [Gson](https://github.com/google/gson)
 
 ## Conversion
 
