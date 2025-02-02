@@ -41,7 +41,7 @@ Successfully created "$file.json.pkr.hcl". Exit 0
 
 ## Sharing AMIs Between AWS Accounts
 
-Packer can to build in your CI/CD account, and then you can share to your other AWS Accounts from this central place.
+Packer can build in your CI/CD account, and then you can share to your other AWS Accounts from this central place.
 
 See [AWS - Sharing AMIs Between Accounts](aws.md#sharing-amis-between-aws-accounts).
 
