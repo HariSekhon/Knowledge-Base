@@ -34,5 +34,13 @@ packer hcl2_upgrade "$file.json"
 Output:
 
 ```text
-Successfully created "$file.json".pkr.hcl. Exit 0
+Successfully created "$file.json.pkr.hcl". Exit 0
+```
+
+## Troubleshooting
+
+### Debug Mode
+
+```shell
+PACKER_LOG=1 packer build "$file.pkr.hcl"
 ```
