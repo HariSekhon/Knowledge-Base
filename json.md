@@ -135,10 +135,10 @@ This script doesn't use these any more:
 - Perl `JSON::XS`
   - sorted the keys, losing the original structure of the file where the variables were at the top for human
     readability
-  - found when converting an old [Packer](packer.md) json to yaml that it converted this:
+  - found when converting a json to yaml that it converted this:
 
 ```json
-"ssh_pty":true
+"ssh_pty": true
 ```
 
 to this useless thing:
