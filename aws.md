@@ -193,7 +193,7 @@ There is a script in [DevOps-Bash-tools](devops-bash-tools.md) repo
 that allows you to share by name for predictable convenience:
 
 ```shell
-aws_ec2_ami_share_to_account.sh <ami_name_or_id> <aws_account_id>
+aws_ec2_ami_share_to_account.sh "$ami_name_or_id" "$aws_account_id"
 ```
 
 ### Clone an EC2 instance for testing
