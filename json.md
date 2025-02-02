@@ -129,10 +129,13 @@ ruby -r yaml -r json -e 'puts YAML.dump(JSON.parse(STDIN.read))' < "$file"
 python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' < "$file"
 ```
 
-Doesn't use `yq` any more as there were two different ones found in `$PATH` that could result in different results:
+This script doesn't use these any more:
 
-Doesn't use Perl `JSON::XS` any more since found when converting an old [Packer](packer.md) json to yaml format that it
-converted this:
+- `yq` - there were two different ones found in `$PATH` that could result in different results:
+- Perl `JSON::XS`
+  - sorted the keys, losing the original structure of the file where the variables were at the top for human
+    readability
+  - found when converting an old [Packer](packer.md) json to yaml that it converted this:
 
 ```json
 "ssh_pty":true
@@ -143,9 +146,6 @@ to this useless thing:
 ```json
 ssh_pty: !!perl/scalar:JSON::PP::Boolean 1
 ```
-
-and also it sorted the keys, losing the original structure of the file where the variables were at the top for human
-readability.
 
 ### JSON to CSV
 
