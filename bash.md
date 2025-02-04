@@ -25,6 +25,7 @@ is one of the few use cases for that).
   - [Number Lines](#number-lines)
   - [Miscellaneous Bash Bangs](#miscellaneous-bash-bangs)
   - [Flush Stdout Immediately](#flush-stdout-immediately)
+  - [Native Regex Capture](#native-regex-capture)
   - [Readline Support - `rlwrap`](#readline-support---rlwrap)
 - [Debugging](#debugging)
   - [Shell executing tracing](#shell-executing-tracing)
@@ -278,6 +279,25 @@ or
 
 ```shell
 python -u "$script"
+```
+
+### Native Regex Capture
+
+```shell
+regex='([[:alpha:]]+)-([[:digit:]]+)'
+
+if [[ "ubuntu-22" =~ $regex ]]; then
+
+    whole_match="${BASH_REMATCH[0]}"
+
+    word="${BASH_REMATCH[1]}"
+
+    integer="${BASH_REMATCH[2]}"
+
+    echo "Whole Match: $whole_match"
+    echo "Word Match: $word"
+    echo "Integer Match: $integer"
+fi
 ```
 
 ### Readline Support - `rlwrap`
