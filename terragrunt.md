@@ -28,6 +28,7 @@ Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing an
 - [Best Practices](#best-practices)
 - [Vendor Code](#vendor-code)
 - [Terragrunt Troubleshooting](#terragrunt-troubleshooting)
+  - [Clear Terragrunt Caches](#clear-terragrunt-caches)
   - [ERRO[0000] fork/exec /Users/hari/.tfenv/bin: no such file or directory](#erro0000-forkexec-usersharitfenvbin-no-such-file-or-directory)
   - [Error: Get "http://localhost/api/v1/namespaces/kube-system/configmaps/aws-auth": dial tcp [::1]:80: connect: connection refused](#error-get-httplocalhostapiv1namespaceskube-systemconfigmapsaws-auth-dial-tcp-180-connect-connection-refused)
   - [Checksum Mismatch in `.terraform.lock.hcl`](#checksum-mismatch-in-terraformlockhcl)
