@@ -91,7 +91,7 @@ If you see this error in the log:
 auditd[1962051]: Unknown builtin builtin_syslog
 ```
 
-then install the plugin:
+Then install the plugin:
 
 ```shell
 yum install audispd-plugins
