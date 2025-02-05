@@ -53,6 +53,14 @@ Restart Auditd for these changes to take effect:
 service auditd restart
 ```
 
+Check your Linux distro version:
+
+```shell
+cat /etc/*release
+```
+
+and then compare to the configs below:
+
 ### RHEL v6 to v8 Config
 
 `/etc/audisp/plugins.d/syslog.conf` contents should look like this:
