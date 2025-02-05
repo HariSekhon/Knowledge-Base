@@ -6,6 +6,7 @@ Distributed ring clustered search service.
 
 <!-- INDEX_START -->
 
+- [Docs](#docs)
 - [Sample Sizing](#sample-sizing)
 - [Docker Quickstart](#docker-quickstart)
 - [Heap](#heap)
@@ -15,10 +16,19 @@ Distributed ring clustered search service.
 - [Diagram](#diagram)
   - [Elasticsearch Queries](#elasticsearch-queries)
 - [Elasticsearch on Kubernetes](#elasticsearch-on-kubernetes)
+- [OpenSearch](#opensearch)
+  - [OpenSearch Index State Management (ISM)](#opensearch-index-state-management-ism)
+  - [OpenSearch Snapshot Management](#opensearch-snapshot-management)
 - [Bulk Indexing from Hadoop MapReduce (Pig) - Performance](#bulk-indexing-from-hadoop-mapreduce-pig---performance)
 - [Client Libaries](#client-libaries)
 
 <!-- INDEX_END -->
+
+## Docs
+
+<https://logz.io/learn/complete-guide-elk-stack/>
+
+<https://aws.amazon.com/opensearch-service/resources/>
 
 ## Sample Sizing
 
@@ -116,6 +126,21 @@ cluster.routing.allocation.same_shard.host = true
 
 Gateway node does merge-sort (CPU + RAM intensive) - this should mean that theoretically it doesn't scale quite
 linearly because of gateway node's merge-sort = more nodes = more overhead
+
+## OpenSearch
+
+Open source fork of Elasticsearch and Kibana caused by their license change in early 2021.
+
+### OpenSearch Index State Management (ISM)
+
+ISM policies automate OpenSearch routine maintenance like marking index read only or deleting it after retention period,
+without needing to use add-on tools like [Curator](https://curator.readthedocs.io/en/latest/).
+
+### OpenSearch Snapshot Management
+
+Automates taking snapshots including index data and Elasticsearch persistent settings to an S3 bucket eg.
+daily snapshot with 30 days of snapshots retention, see
+[this doc](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/managedomains-snapshot-registerdirectory.html).
 
 ## Bulk Indexing from Hadoop MapReduce (Pig) - Performance
 
