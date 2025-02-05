@@ -53,6 +53,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [List all Configured Wifi Networks](#list-all-configured-wifi-networks)
   - [Say - text-to-speech](#say---text-to-speech)
   - [Finding Files - Spotlight Search and Index Management](#finding-files---spotlight-search-and-index-management)
+  - [Sleep](#sleep)
+  - [Prevent Sleep](#prevent-sleep)
   - [Launchctl](#launchctl)
   - [Disk Management](#disk-management)
     - [CLI Disk Management](#cli-disk-management)
@@ -63,6 +65,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Erase a disk before decommissioning it](#erase-a-disk-before-decommissioning-it)
       - [WARNING: disk numbers may shunt up in numbers as you insert more removal drives, especially for 'synthesized' virtual disks that display for volume containers](#warning-disk-numbers-may-shunt-up-in-numbers-as-you-insert-more-removal-drives-especially-for-synthesized-virtual-disks-that-display-for-volume-containers)
   - [Service Management](#service-management)
+- [KeyChain Access](#keychain-access)
 - [Binaries Debugging](#binaries-debugging)
 - [Creating Bootable CDs & USBs from ISOs](#creating-bootable-cds--usbs-from-isos)
   - [Other Options](#other-options)
@@ -575,6 +578,24 @@ Enable / disable Spotlight indexing for a given volume or entirely:
 mdutil -i
 ```
 
+### Sleep
+
+```shell
+sudo pmset sleepnow
+```
+
+### Prevent Sleep
+
+```shell
+sudo caffeinate -i
+```
+
+Prevent sleep, but only if on AC power:
+
+```shell
+sudo caffeinate -s
+```
+
 ### Launchctl
 
 This accesses `launchd`, Mac's init script equivalent.
@@ -784,6 +805,12 @@ sudo launchctl unload "/System/Library/LaunchDaemons/$name.plist"
 ```
 
 See [dhcp.md](dhcp.md) for a practical example of using this for the built-in tftp server for PXE boot installing Debian off your Mac.
+
+## KeyChain Access
+
+```shell
+open -a "Keychain Access"
+```
 
 ## Binaries Debugging
 
