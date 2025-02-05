@@ -638,7 +638,7 @@ and not the grand portions you may be used to in the West.
 
 #### Phnom Penh
 
-The capital is pronounced `puh-nom pen`.
+This capital is pronounced `puh-nom pen`.
 
 Stay near the Royal Palace of Cambodia by the river, it's where all the bars and restaurants are.
 
