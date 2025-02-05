@@ -4,10 +4,10 @@
 
 - [LogServer Forwarding](#logserver-forwarding)
 - [Auditd Integration](#auditd-integration)
-  - [RHEL v6 to v7.9 Config](#rhel-v6-to-v79-config)
-  - [RHEL v8 Config](#rhel-v8-config)
+  - [RHEL v6 to v8 Config](#rhel-v6-to-v8-config)
   - [RHEL v9 Config](#rhel-v9-config)
 - [Troubleshooting](#troubleshooting)
+  - [Unknown builtin builtin_syslog](#unknown-builtin-builtin_syslog)
 
 <!-- INDEX_END -->
 
@@ -53,20 +53,7 @@ Restart Auditd for these changes to take effect:
 service auditd restart
 ```
 
-### RHEL v6 to v7.9 Config
-
-`/etc/audisp/plugins.d/syslog.conf` contents should look like this:
-
-```text
-active = yes
-direction = out
-path = builtin_syslog
-type = builtin
-args = LOG_INFO
-format = string
-```
-
-### RHEL v8 Config
+### RHEL v6 to v8 Config
 
 `/etc/audisp/plugins.d/syslog.conf` contents should look like this:
 
