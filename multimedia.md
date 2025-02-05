@@ -172,7 +172,7 @@ image_join_horizontal.sh "$left_image" "$right_image" "joined_image.png"
 
 [:octocat: faressoft/terminalizer](https://github.com/faressoft/terminalizer)
 
-From [DevOps-Bash-tools](devops-bash-tools.md):
+From [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools#terminal-gif-capture):
 
 ```shell
 ttygif.sh
