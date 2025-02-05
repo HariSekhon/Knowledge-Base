@@ -41,7 +41,7 @@ service auditd start
 chkconfig auditd on
 ```
 
-Edit the `/etc/audisp/plugins.d/syslog.conf` file to ensure the following two parameters are set to these values:
+Edit the `/etc/audisp/plugins.d/syslog.conf` file to set this line to activate the plugin:
 
 ```shell
 active = yes
