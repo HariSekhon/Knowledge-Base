@@ -46,6 +46,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Liege](#liege)
     - [Waterloo](#waterloo)
   - [Cambodia](#cambodia)
+    - [Cambodia Money](#cambodia-money)
     - [Cambodia Taxis](#cambodia-taxis)
     - [Cambodia Restaurants](#cambodia-restaurants)
     - [Phnom Penh](#phnom-penh)
@@ -609,6 +610,17 @@ Savage Burger and [Thai Cafe](https://thai.cafe/en) are recommended here, with t
 You will need your Google Translate camera app to translate the menu as they don't speak English.
 
 ### Cambodia
+
+#### Cambodia Money
+
+Take lots of small denominator dollars, especially \$10 and \$1 bills.
+
+Cambodia accepts USD but often gives change in local Cambodian riel, which is of course useless outside of Cambodia.
+
+If you just go to the ATM machine, aside from being charged \$5 for a withdrawal,
+your withdrawal notes will be in \$100 bills,
+that'll result in your first dining bill returning nearly 400,000 Cambodian riels,
+which if you're only visiting for a short time you may have trouble spending in time.
 
 #### Cambodia Taxis
 
