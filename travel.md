@@ -638,6 +638,8 @@ and not the grand portions you may be used to in the West.
 
 #### Phnom Penh
 
+Pronounced `puh-nom pen`.
+
 Stay near the Royal Palace of Cambodia by the river, it's where all the bars and restaurants are.
 
 If you stay in one of the places slightly West,
