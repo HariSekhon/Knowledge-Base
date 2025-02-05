@@ -646,7 +646,9 @@ If you stay in one of the places slightly West,
 there is nothing much there and you'll lose 20+ minutes walking each way to the busy area, or have to take taxis.
 They're cheap for a reason.
 
-- [Phnom Penh Night Market](https://maps.app.goo.gl/E9T7UUWrn3ZHKUve8) - affordable street food 6-11pm, and ice cream
+- [Phnom Penh Night Market](https://maps.app.goo.gl/E9T7UUWrn3ZHKUve8) - affordable street food 6-11pm, and
+  3 scoop ice cream in a half coconut for \$1.50 with 'free' coconut water
+  (lol if it was free it would come without a purchase)
 - [Bassac Street](https://maps.app.goo.gl/fGsvZB92EzwiH69p6) - tourist street of bars and restaurants
   - [Hub Street Cocktails](https://maps.app.goo.gl/KACt4g44R1fYQFEj6) - busy with locals and live music on Saturday
     night
