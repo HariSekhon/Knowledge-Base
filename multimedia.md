@@ -11,7 +11,7 @@ Media file analysis, editing, transcoding and conversions.
   - [Convert SVG to PNG format](#convert-svg-to-png-format)
   - [Trim Pixels off one side of an Image](#trim-pixels-off-one-side-of-an-image)
   - [Join Two Images Together](#join-two-images-together)
-  - [Create Animated GIFs of Commands](#create-animated-gifs-of-commands)
+  - [Create Animated GIFs of Terminal Commands](#create-animated-gifs-of-terminal-commands)
   - [Inspect Image File Metadata](#inspect-image-file-metadata)
   - [Look for Watermarks](#look-for-watermarks)
   - [Steghide](#steghide)
@@ -164,7 +164,7 @@ image_join_vertical.sh "$top_image" "$bottom_image" "joined_image.png"
 image_join_horizontal.sh "$left_image" "$right_image" "joined_image.png"
 ```
 
-### Create Animated GIFs of Commands
+### Create Animated GIFs of Terminal Commands
 
 [:octocat: icholy/ttygif](https://github.com/icholy/ttygif)
 
