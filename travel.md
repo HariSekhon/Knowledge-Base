@@ -652,7 +652,14 @@ They're cheap for a reason.
 - [Bassac Street](https://maps.app.goo.gl/fGsvZB92EzwiH69p6) - tourist street of bars and restaurants
   - [Hub Street Cocktails](https://maps.app.goo.gl/KACt4g44R1fYQFEj6) - busy with locals and live music on Saturday
     night
-  - [Mama Wong's Dumpling and Noodle House](https://maps.app.goo.gl/ro2CqaBSfDB74gDn6) - soups
+  - [Mama Wong's Dumpling and Noodle House](https://maps.app.goo.gl/ro2CqaBSfDB74gDn6) - one of my favourite places,
+    very good dumpings (the bestseller pork, and the prawn & chive),
+    the duck soup broth is flavourful with interesting thick yellow noodles,
+    and the spring onion pancakes bestseller is surprisingly good but also fattening, if you're hungry, have it as a
+    snack and you won't be afterwards.
+    I was absolutely stuffed after 1 portion of dumplings (8 pieces) and one soup.
+    You will need multiple nights here.
+    There are two dips, one of which is like a sweet vinegarette which is amazing
   - [Big MaMa](https://maps.app.goo.gl/QBeF2jJAWSzDaM1SA) - good menu, but pricey for Cambodia at $10-15 per main, most
     seating is on rooftop bar which was dead at 9pm on a Saturday night with just 2 individual single guys eating dinner
     there, while the street downstairs is buzzing with bars and restaurants
