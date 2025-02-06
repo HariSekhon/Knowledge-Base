@@ -892,6 +892,11 @@ The Thai tom yum soup and the sushi are recommended.
 
 ### Italy
 
+TODO: Italy Road Trip
+
+<https://www.europediaries.com/tuscany-roadtrip/>
+<https://www.visittuscany.com/en/ideas/top-10-day-trips-from-siena/>
+
 #### Italy Car Rentals
 
 I haven't used these, my colleagues were discussing them:
