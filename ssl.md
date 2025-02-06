@@ -19,6 +19,8 @@ TODO: not ported yet
   - [Check the Private Key Encoding](#check-the-private-key-encoding)
   - [Check the Chain Certificate Encoding](#check-the-chain-certificate-encoding)
 - [Correct Base64 Padding](#correct-base64-padding)
+- [Troubleshooting](#troubleshooting)
+  - [Error outputting keys and certificates](#error-outputting-keys-and-certificates)
 
 <!-- INDEX_END -->
 
@@ -224,4 +226,34 @@ grep -v -- "-----" "$name-privatekey.pem" | base64 --decode | base64 > "$name-pr
 
 ```shell
 grep -v -- "-----" "$chain.pem" | base64 --decode | base64 > "$chain-fixed.pem"
+```
+
+## Troubleshooting
+
+### Error outputting keys and certificates
+
+```text
+Error outputting keys and certificates
+C01EECDE01000000:error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported:crypto/evp/evp_fetch.c:355:Global default library context, Algorithm (RC2-40-CBC : 0), Properties ()
+```
+
+Add this switch to support legacy algorithms:
+
+```text
+-legacy
+```
+
+eg.
+
+```shell
+openssl pkcs12 -in "$file.p12" -info -noout -password pass:"$CERTIFICATE_PASSWORD" -legacy
+```
+
+```text
+MAC: sha1, Iteration 1
+MAC length: 20, salt length: 8
+PKCS7 Encrypted data: pbeWithSHA1And40BitRC2-CBC, Iteration 2048
+Certificate bag
+PKCS7 Data
+Shrouded Keybag: pbeWithSHA1And3-KeyTripleDES-CBC, Iteration 2048
 ```
