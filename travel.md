@@ -657,7 +657,7 @@ They're cheap for a reason.
     the duck soup broth is flavourful with interesting thick yellow noodles,
     and the spring onion pancakes bestseller is surprisingly good but also fattening, if you're hungry, have it as a
     snack and you won't be afterwards.
-    I was absolutely stuffed after 1 portion of dumplings (8 pieces) and one soup.
+    I was absolutely stuffed after 1 portion of dumplings (8 pieces) and one soup for $12 total.
     You will need multiple nights here.
     There are two dips, one of which is like a sweet vinegarette which is amazing
   - [CanCan](https://maps.app.goo.gl/uZnpwB3s9C4HQgEp9) - loud, busy and popular, good menu, opposite Mama Wong's
