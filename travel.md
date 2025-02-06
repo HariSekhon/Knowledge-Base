@@ -660,11 +660,11 @@ They're cheap for a reason.
     I was absolutely stuffed after 1 portion of dumplings (8 pieces) and one soup.
     You will need multiple nights here.
     There are two dips, one of which is like a sweet vinegarette which is amazing
+  - [CanCan](https://maps.app.goo.gl/uZnpwB3s9C4HQgEp9) - loud, busy and popular, good menu, opposite Mama Wong's
   - [Big MaMa](https://maps.app.goo.gl/QBeF2jJAWSzDaM1SA) - good menu, but pricey for Cambodia at $10-15 per main, most
     seating is on rooftop bar which was dead at 9pm on a Saturday night with just 2 individual single guys eating dinner
     there, while the street downstairs is buzzing with bars and restaurants
   - [Back Street Bar](https://maps.app.goo.gl/9WQL6C8eEfw1S8qi8) - decent menu and good prices
-  - [CanCan](https://maps.app.goo.gl/uZnpwB3s9C4HQgEp9) - loud on a Saturday night, good menu
   - [Bat Muk Yu](https://maps.app.goo.gl/wr7R6NRY8B4PvUmE6) - popular beer garden with live music on Saturday night
   - [White Rabbit](https://maps.app.goo.gl/9gc11Ad8rKpfshVc6) - small cosy low light bar, good for an intimate date
 - [Khemarak Phoumin Ave (130)](https://maps.app.goo.gl/XHBLfD7MyiPYoECK9) - the east end is the red light district of
