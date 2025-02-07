@@ -275,6 +275,11 @@ Processed 4611424 bytes, 4.611 megabytes (SI)
 ───────────────────────────────────────────────────────────────────────────────
 ```
 
+There are also
+[badges](https://github.com/boyter/scc?tab=readme-ov-file#badges-beta)
+which you can see applied on my
+[GitHub profile](https://github.com/HariSekhon#cocomo---estimates-of-man-years--costs).
+
 ## Memes
 
 ### Hello World
