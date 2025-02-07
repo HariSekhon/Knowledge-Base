@@ -26,6 +26,7 @@ Media file analysis, editing, transcoding and conversions.
     - [Download Single Video](#download-single-video)
     - [Download All Videos from YouTube Channel](#download-all-videos-from-youtube-channel)
   - [Convert Video to 720p mp4](#convert-video-to-720p-mp4)
+  - [Clip Video](#clip-video)
 - [Audio](#audio)
   - [MP3 metadata editing](#mp3-metadata-editing)
 - [MediaBox Setup](#mediabox-setup)
@@ -410,6 +411,17 @@ Using [DevOps-Bash-tools](devops-bash-tools.md) repo:
 ```shell
 video_to_720p_mp4 "$file"
 ```
+
+### Clip Video
+
+Quickly clip a video on Mac using QuickTime Player:
+
+```shell
+open -a "QuickTime Player" "$file"
+```
+
+Then press shortcut `Cmd` + `T`
+or click `Edit` -> `Trim` to bring up a slider to drag and then save the resulting clip as a new file.
 
 ## Audio
 
