@@ -676,16 +676,31 @@ They're cheap for a reason.
   - [La Croisette](https://maps.app.goo.gl/CUKpxpL4vz8ziqdd7) - fancy upmarket restaurant with a very good looking menu,
     but quite expensive at \$5-7 per non-alcoholic drink, at $10 per drink. Closes at merely 11pm
   - [Lucky cafe](https://maps.app.goo.gl/V8Js6PcqUu5AxJ3r8) - quiet cafe, good wifi, plugs
-- [Oknha Chhun St. (240)](https://maps.app.goo.gl/78V82nktxEsjQ95L6)
-  - [Num Kruk](https://maps.app.goo.gl/pq3tASLWa4BTe12z9) - street food stall of very good beef Pho with a smell of
-    cinnamon, which stopped me in my tracks and got me to try it for $2.50, between The Royal Palace and Melbourne Coffee
+- [Oknha Chhun St. (240)](https://maps.app.goo.gl/78V82nktxEsjQ95L6) - upmarket cafes and small boutique shops
+  - [Barista 240](https://maps.app.goo.gl/4NxEW5B6MPwJcn9r8) - expensive by local standards, more than the most
+    expensive places in Khemarak Phoumin Ave above (eg. \$8.50 for a Full English breakfast compared to \$5.50-\$6.50),
+    \$4.50 for a juice, but the food and drinks menus are excellent, it's air conditioned, with wifi
+    Extras like eggs are $1.50 each, which is triple what other places charge.
   - [Melbourne Coffee](https://maps.app.goo.gl/SZc2oZCPy8uKLG3Q7) - good smoothies and toasties,
     double the price of Cambodian street food of course because it caters to foreigners. Fast wifi and plugs
   - [Enso Cafe](https://maps.app.goo.gl/5PC7pkcEjC9ohA9P6) - upmarket cafe with good food menu, pricey but has lunch deals
     for $11.50
+  - [Num Kruk](https://maps.app.goo.gl/pq3tASLWa4BTe12z9) - street food stall of very good beef Pho with a smell of
+    cinnamon, which stopped me in my tracks and got me to try it for $2.50, between The Royal Palace and Melbourne Coffee
 - [Royal Palace of Cambodia](https://maps.app.goo.gl/4DKHab79NUWV1WL46)
   - [Café Amazon Riverside](https://maps.app.goo.gl/EZz94RLyn7Q3U6CM9) - popular coffee chain near the palace with decent
     wifi and plugs. Drinks are $2.50+, internationally priced
+
+#### Siam Reap
+
+Resort town with the Ankor Wot temple.
+
+##### Bus Between Phenom Penh and Siam Reap
+
+This is the cheaper way to get between the two cities, it takes 5 hours, but has wifi and comfortable seats.
+
+- [Viet Air Bus Express](https://vetairbus.com/en/transport/Phnom%20Penh/Siem%20Reap)
+- [Giant Ibis Bus](https://www.giantibis.com/)
 
 ### Canada
 
