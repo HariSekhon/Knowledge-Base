@@ -680,7 +680,7 @@ They're cheap for a reason.
   - [Barista 240](https://maps.app.goo.gl/4NxEW5B6MPwJcn9r8) - expensive by local standards, more than the most
     expensive places in Khemarak Phoumin Ave above (eg. \$8.50 for a Full English breakfast compared to \$5.50-\$6.50),
     \$4.50 for a juice, but the food and drinks menus are excellent, it's air conditioned, with wifi
-    Extras like eggs are $1.50 each, which is triple what other places charge.
+    Extras like eggs are $1.50 each, which is triple what other places charge
   - [Melbourne Coffee](https://maps.app.goo.gl/SZc2oZCPy8uKLG3Q7) - good smoothies and toasties,
     double the price of Cambodian street food of course because it caters to foreigners. Fast wifi and plugs
   - [Enso Cafe](https://maps.app.goo.gl/5PC7pkcEjC9ohA9P6) - upmarket cafe with good food menu, pricey but has lunch deals
