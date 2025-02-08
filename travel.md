@@ -686,8 +686,7 @@ They're cheap for a reason.
     double the price of Cambodian street food of course because it caters to foreigners. Fast wifi and plugs
   - [Planta](https://maps.app.goo.gl/uwWWd9ZgJ42z4HSq5) - excellent Acai smoothie with chewy bits, expensive at $4.50
     by local standards but so good I went back the next day for another one.
-    Unfortunately it's small glass dine-in than the takeaway, so I went back the day after to get another bigger
-    takeaway one
+    Unfortunately dining in the glass is smaller than the plastic takeaway cup.
   - [Enso Cafe](https://maps.app.goo.gl/5PC7pkcEjC9ohA9P6) - upmarket cafe with good food menu, pricey but has lunch deals
     for $11.50
   - [Num Kruk](https://maps.app.goo.gl/pq3tASLWa4BTe12z9) - street food stall of very good beef Pho with a smell of
