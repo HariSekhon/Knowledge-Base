@@ -611,6 +611,12 @@ You will need your Google Translate camera app to translate the menu as they don
 
 ### Cambodia
 
+#### Cambodia Visa
+
+You need an eVisa or you will have to queue for a $30 visa when you arrive.
+
+<https://www.evisa.gov.kh/>
+
 #### Cambodia Money
 
 Take lots of small denominator dollars, especially \$10 and \$1 bills.
