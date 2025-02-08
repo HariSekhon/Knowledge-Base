@@ -633,6 +633,8 @@ which if you're only visiting for a short time you may have trouble spending in 
 
 #### Cambodia Taxis
 
+Make sure to always use the Grab app, on the street they will charge you more, like most countries.
+
 - [Grab](https://www.grab.com/) - taxi app
 
 #### Cambodia Restaurants
