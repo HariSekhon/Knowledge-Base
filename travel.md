@@ -674,7 +674,8 @@ They're cheap for a reason.
   - [Owl Cafe & Restaurant](https://maps.app.goo.gl/m4FLw8sHrSXx6ieY6) - slightly cheaper but still internationally
     priced by Cambodian standards of course
   - [La Croisette](https://maps.app.goo.gl/CUKpxpL4vz8ziqdd7) - fancy upmarket restaurant with a very good looking menu,
-    but quite expensive at \$5-7 per non-alcoholic drink, at $10 per drink. Closes at merely 11pm
+    but quite expensive at \$5-7 per non-alcoholic drink, at $10+ per alcoholic drink.
+    Closes relatively early too 11pm compared to surrounding places
   - [Lucky cafe](https://maps.app.goo.gl/V8Js6PcqUu5AxJ3r8) - quiet cafe, good wifi, plugs
 - [Oknha Chhun St. (240)](https://maps.app.goo.gl/78V82nktxEsjQ95L6) - upmarket cafes and small boutique shops
   - [Barista 240](https://maps.app.goo.gl/4NxEW5B6MPwJcn9r8) - expensive by local standards, more than the most
