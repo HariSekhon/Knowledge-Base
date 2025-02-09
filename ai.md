@@ -79,7 +79,7 @@ Why does the performance degrade after one query?
 
 ### Video
 
-- [InVideo AI](https://invideo.io/)
+- [InVideo AI](https://invideo.io/) - generate high production quality videos from text prompts
 - [LumaLabs Dream Machine](https://lumalabs.ai/dream-machine) - pics or video
 
 ## UI
