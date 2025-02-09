@@ -712,10 +712,14 @@ Resort town with the Ankor Wot temple.
 
 ##### Bus Between Phenom Penh and Siam Reap
 
-This is the cheaper way to get between the two cities, it takes 5 hours, but has wifi and comfortable seats.
+This is the cheaper way to get between the two cities, it takes 5 hours, but has wifi, USB power sockets and
+comfortable seats.
 
 - [Viet Air Bus Express](https://vetairbus.com/en/transport/Phnom%20Penh/Siem%20Reap)
 - [Giant Ibis Bus](https://www.giantibis.com/)
+
+When booking seats if you want to sleep on the coach bus, or just find horns annoying, do not sit at the front,
+the driver will honk the horn every 2 minutes when passing any vehicle or bike to warn them.
 
 ### Canada
 
