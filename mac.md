@@ -21,6 +21,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Terminal](#terminal)
 - [Homebrew - Package Management](#homebrew---package-management)
 - [Activity Monitor](#activity-monitor)
+- [Force Quit Applications](#force-quit-applications)
 - [Stats Bar](#stats-bar)
 - [Rearrange Status Bar Icons](#rearrange-status-bar-icons)
 - [Reducing Desktop Workspaces](#reducing-desktop-workspaces)
@@ -137,6 +138,12 @@ On the command line you can also just run this:
 ```shell
 open -a "Activity Monitor"
 ```
+
+## Force Quit Applications
+
+You can use Activity Monitor above or bring up the Force Quit Applications dialogue box using this key combo:
+
+`Cmd` + `Option` + `Esc`
 
 ## Stats Bar
 
