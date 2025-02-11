@@ -10,6 +10,9 @@ General AI mirroring what humans have is not real yet.
 - [Run AI with API](#run-ai-with-api)
 - [Chat](#chat)
   - [ChatGPT](#chatgpt)
+  - [Deepseek](#deepseek)
+  - [Grok](#grok)
+  - [Perplexity](#perplexity)
   - [SQL Chat](#sql-chat)
   - [LLM](#llm)
     - [Ollama](#ollama)
@@ -42,6 +45,20 @@ General AI mirroring what humans have is not real yet.
 ### ChatGPT
 
 <https://chat.openai.com/chat>
+
+### Deepseek
+
+<https://chat.deepseek.com/>
+
+### Grok
+
+By Elon / X:
+
+<https://x.com/i/grok>
+
+### Perplexity
+
+<https://www.perplexity.ai/>
 
 ### SQL Chat
 
