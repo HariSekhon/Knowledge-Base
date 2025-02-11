@@ -2,6 +2,7 @@
 
 Agile meetings suck.
 
-Run this live meeting cost during it:
+Run one of these live meeting cost tickers during it to remind people what a waste of time and money it is:
 
-<https://meetingcost.live/>
+- <https://meetingcost.live/>
+- <https://meeting-cost-ticker.com/>
