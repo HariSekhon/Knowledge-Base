@@ -208,6 +208,16 @@ Upload: 10.67 Mbit/s
 Share results: http://www.speedtest.net/result/17241162768.png
 ```
 
+Sometimes this fails with the following error:
+
+```text
+Retrieving speedtest.net configuration...
+Cannot retrieve speedtest configuration
+ERROR: HTTP Error 403: Forbidden
+```
+
+in which case just use [the website](https://www.speedtest.net/), which still works in that scenario.
+
 An alternative CLI for speedtest.net can be found at
 
 [:octocat: sindresorhus/speed-test](https://github.com/sindresorhus/speed-test)
