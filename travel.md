@@ -338,7 +338,7 @@ and add the country you are travelling to for more options.
 
 Because banks and other legacy providers will force you to call them, you can use one of these services:
 
-- [Viber](https://account.viber.com/en/call-united-kingdom) - 1 week free trial, £5.99 afterwards for unlimited calls,
+- [Viber](https://account.viber.com/en/call-united-kingdom) - 1 week free trial, £5.99 afterwards for unlimited calls (or £1.79 for 100 mins a month),
   but again does not apply to premium or non-geographic numbers like banks often use,
   worked on Barclays number that MoreMins was not processing voice
 - [MoreMins](https://www.moremins.com/) - quick, cheap and easy, has an app, £5 for 30 days of unlimited calls,
