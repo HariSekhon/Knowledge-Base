@@ -38,6 +38,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Check / Change the default Application for a given file type](#check--change-the-default-application-for-a-given-file-type)
     - [Open an Application from the command line](#open-an-application-from-the-command-line)
   - [Clipboard](#clipboard)
+  - [System Information](#system-information)
   - [Screenshots](#screenshots)
     - [Set Screenshot Location](#set-screenshot-location)
     - [Screenshot the Whole Screen](#screenshot-the-whole-screen)
@@ -309,6 +310,73 @@ Paste from clipboard to stdout:
 
 ```shell
 pbpaste > output.txt
+```
+
+### System Information
+
+You may want to put the next couple of commands in initial debug steps for your [Mobile iOS builds](cicd-mobile.md):
+
+Model:
+
+```shell
+sysctl -n machdep.cpu.brand_string
+```
+
+```text
+Apple M3 Max
+```
+
+Specs Summary:
+
+```shell
+system_profiler SPHardwareDataType
+```
+
+```text
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: Mac15,8
+      Model Number: Z1AU001K1B/A
+      Chip: Apple M3 Max
+      Total Number of Cores: 16 (12 performance and 4 efficiency)
+      Memory: 128 GB
+      System Firmware Version: nnnnn.nn.nn
+      OS Loader Version: nnnnn.nn.nn
+      Serial Number (system): xxxxxxxxxx
+      Hardware UUID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+      Provisioning UDID: xxxxxxxx-xxxxxxxxxxxxxxxx
+      Activation Lock Status: Enabled
+```
+
+RAM:
+
+```shell
+system_profiler SPMemoryDataType
+```
+
+Disk Info:
+
+```shell
+diskutil list
+```
+
+```shell
+system_profiler SPStorageDataType
+```
+
+Graphics card:
+
+```shell
+system_profiler SPDisplaysDataType
+```
+
+Network info:
+
+```shell
+system_profiler SPNetworkDataType
 ```
 
 ### Screenshots
