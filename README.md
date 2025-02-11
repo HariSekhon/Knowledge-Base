@@ -102,7 +102,7 @@ References to official docs and some classic books are provided for those who wa
   - [Banking Industry](#banking-industry)
   - [Travel](#travel)
 - [Miscellaneous](#miscellaneous)
-  - [Dev / DevOps / Open Source](#dev--devops--open-source)
+  - [Dev / DevOps / Open Source / Agile](#dev--devops--open-source--agile)
   - [Vendors](#vendors)
   - [Multimedia](#multimedia)
   - [Marketing](#marketing)
@@ -668,7 +668,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 ## Miscellaneous
 
-### Dev / DevOps / Open Source
+### Dev / DevOps / Open Source / Agile
 
 - [DevOps Misc](devops.md)
 - [Dev Misc](dev.md)
@@ -676,6 +676,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Internet Miscellaneous](internet-misc.md)
 - [Jira](jira.md)
 - [TamperMonkey](tampermonkey.md)
+- [Agile](agile.md)
 - [IRC](irc.md)
 - [Communications - Chat & Video Conferencing](comms.md)
 
