@@ -29,7 +29,7 @@ API code for many of the following technologies can also be found in my
   - [Bitbucket Pipelines](#bitbucket-pipelines)
 - [Hosted CI/CD - Cloud](#hosted-cicd---cloud)
   - [AWS CodeBuild](#aws-codebuild)
-  - [[GCP CloudBuild](https://cloud.google.com/build?hl=en)](#gcp-cloudbuildhttpscloudgooglecombuildhlen)
+  - [GCP CloudBuild](#gcp-cloudbuild)
   - [Azure DevOps Pipelines](#azure-devops-pipelines)
 - [Hosted CI/CD - Mobile Development](#hosted-cicd---mobile-development)
 - [Hosted CI/CD - 3rd Party (all are legacy)](#hosted-cicd---3rd-party-all-are-legacy)
