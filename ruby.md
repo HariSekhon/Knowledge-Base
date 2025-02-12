@@ -23,6 +23,8 @@ eg. [check_puppet.rb](https://github.com/HariSekhon/Nagios-Plugins/blob/master/c
   - [RVM Install](#rvm-install)
   - [RVM Usage](#rvm-usage)
 - [Code](#code)
+- [Linting](#linting)
+  - [Rubocop](#rubocop)
 - [JRuby](#jruby)
   - [Rubinius](#rubinius)
   - [Ludicrous](#ludicrous)
@@ -249,6 +251,20 @@ Path to code modules:
 
 ```text
 $LOAD_PATH
+```
+
+## Linting
+
+### Rubocop
+
+[:octocat: rubocop/rubocop](https://github.com/rubocop/rubocop)
+
+```shell
+gem install rubocop
+```
+
+```shell
+rubocop -a
 ```
 
 ## JRuby
