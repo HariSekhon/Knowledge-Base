@@ -55,7 +55,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [List all Configured Wifi Networks](#list-all-configured-wifi-networks)
   - [Say - text-to-speech](#say---text-to-speech)
   - [Finding Files - Spotlight Search and Index Management](#finding-files---spotlight-search-and-index-management)
-  - [Sleep](#sleep)
+  - [Show Power Management Settings](#show-power-management-settings)
+  - [Sleep Immediately](#sleep-immediately)
   - [Prevent Sleep](#prevent-sleep)
   - [Launchctl](#launchctl)
   - [Disk Management](#disk-management)
@@ -653,7 +654,33 @@ Enable / disable Spotlight indexing for a given volume or entirely:
 mdutil -i
 ```
 
-### Sleep
+### Show Power Management Settings
+
+```shell
+pmset -g
+```
+
+```text
+System-wide power settings:
+Currently in use:
+ standby              1
+ Sleep On Power Button 1
+ hibernatefile        /var/vm/sleepimage
+ powernap             1
+ networkoversleep     0
+ disksleep            10
+ sleep                0 (sleep prevented by coreaudiod, coreaudiod, sharingd, powerd)
+ hibernatemode        3
+ ttyskeepawake        1
+ displaysleep         180
+ tcpkeepalive         1
+ powermode            0
+ womp                 1
+```
+
+### Sleep Immediately
+
+Put the machine to sleep immediately using this command:
 
 ```shell
 sudo pmset sleepnow
