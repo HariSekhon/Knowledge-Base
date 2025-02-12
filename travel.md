@@ -51,8 +51,9 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Cambodia Taxis](#cambodia-taxis)
     - [Cambodia Restaurants](#cambodia-restaurants)
     - [Phnom Penh](#phnom-penh)
-    - [Siam Reap](#siam-reap)
-      - [Bus Between Phenom Penh and Siam Reap](#bus-between-phenom-penh-and-siam-reap)
+    - [Siem Reap](#siem-reap)
+      - [Bus Between Phenom Penh and Siem Reap](#bus-between-phenom-penh-and-siem-reap)
+      - [Siem Reap Restaurants](#siem-reap-restaurants)
   - [Canada](#canada)
     - [Abbotsford](#abbotsford)
   - [Czech Republic / Czechia](#czech-republic--czechia)
@@ -706,11 +707,11 @@ They're cheap for a reason.
   - [Café Amazon Riverside](https://maps.app.goo.gl/EZz94RLyn7Q3U6CM9) - popular coffee chain near the palace with decent
     wifi and plugs. Drinks are $2.50+, internationally priced
 
-#### Siam Reap
+#### Siem Reap
 
 Resort town with the Ankor Wot temple.
 
-##### Bus Between Phenom Penh and Siam Reap
+##### Bus Between Phenom Penh and Siem Reap
 
 This is the cheaper way to get between the two cities, it takes 5 hours, but has wifi, USB power sockets and
 comfortable seats.
@@ -720,6 +721,21 @@ comfortable seats.
 
 When booking seats if you want to sleep on the coach bus, or just find horns annoying, do not sit at the front,
 the driver will honk the horn every 2 minutes when passing any vehicle or bike to warn them.
+
+##### Siem Reap Restaurants
+
+- [New Leaf Eatery](https://maps.app.goo.gl/o8fKjtjVAZMCgXjz7) - gentrified cafe (expensive) catering to westerners,
+  internationally priced but good quality, has WiFi and plugs. The full English breakfast is good, the house limeade is
+  refreshing and not sparkling,
+  the apple & mango pie with chocolate ice cream was a step too far though,
+  fattening, I ran up nearly a $20 bill here which for Cambodia is a *lot*
+- [Wat Bong](https://maps.app.goo.gl/YHtNRxo2qcDTZEcC8) - good burger and fries \$7.50, fresh coconut \$1.50
+  (don't have two, it's a laxative, you'll need to rush back to your hotel room), wifi and plugs
+- [Try Me](https://maps.app.goo.gl/gANdR1r9M1jhpq496) - reasonable quality, internationally priced, Fish amok was ok, but \$4.50, pineapple juice \$2,
+  3x vegetable samosas were nice and crispy $1.50 my fav of what I had. Has wifi
+- [The Red Piano](https://maps.app.goo.gl/gSUUduQpHCKdf7rKA) - price location at the central crossroad of Pub Street
+  (their version of a Walking Street in Thailand or Vietnam).
+  Better priced than opposite places, but shuts a little earlier at 00:30.
 
 ### Canada
 
