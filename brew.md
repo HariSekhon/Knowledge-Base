@@ -73,20 +73,20 @@ Some environment variables to take note of:
 
 Some ones you might want to use in [Mobile CI/CD](cicd-mobile.md) builds:
 
+- `HOMEBREW_DEBUG`
 - `HOMEBREW_VERBOSE`
 - `HOMEBREW_VERBOSE_USING_DOTS` - prints a `.` no more than once a minute to avoid long-running Homebrew
   commands being killed due to no output
-- `HOMEBREW_DEBUG`
+- `HOMEBREW_NO_COLOR`
 - `HOMEBREW_NO_ANALYTICS` - don't send [Analytics](https://docs.brew.sh/Analytics)
 - `HOMEBREW_NO_AUTOREMOVE`
 - `HOMEBREW_NO_AUTO_UPDATE`
-- `HOMEBREW_NO_BOOTSNAP` - do not use Bootsnap to speed up repeated brew calls
   (VM will be discarded at end of build anyway)
-- `HOMEBREW_NO_COLOR`
-- `HOMEBREW_NO_INSECURE_REDIRECT`
-- `HOMEBREW_NO_CLEANUP_FORMULAE`
 - `HOMEBREW_NO_INSTALL_CLEANUP`
 - `HOMEBREW_NO_INSTALL_UPGRADE`
+- `HOMEBREW_NO_CLEANUP_FORMULAE`
+- `HOMEBREW_NO_BOOTSNAP` - do not use Bootsnap to speed up repeated brew calls
+- `HOMEBREW_NO_INSECURE_REDIRECT`
 
 The usual [HTTP Proxy](http-proxying.md) environment variables of `http_proxy`, `https_proxy` and `no_proxy` also work.
 
