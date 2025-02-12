@@ -77,7 +77,7 @@ Some ones you might want to use in [Mobile CI/CD](cicd-mobile.md) builds:
 - `HOMEBREW_VERBOSE_USING_DOTS` - prints a `.` no more than once a minute to avoid long-running Homebrew
   commands being killed due to no output
 - `HOMEBREW_DEBUG`
-- `HOMEBREW_NO_ANALYTICS`
+- `HOMEBREW_NO_ANALYTICS` - don't send [Analytics](https://docs.brew.sh/Analytics)
 - `HOMEBREW_NO_AUTOREMOVE`
 - `HOMEBREW_NO_AUTO_UPDATE`
 - `HOMEBREW_NO_BOOTSNAP` - do not use Bootsnap to speed up repeated brew calls
