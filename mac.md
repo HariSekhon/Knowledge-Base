@@ -56,6 +56,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Say - text-to-speech](#say---text-to-speech)
   - [Finding Files - Spotlight Search and Index Management](#finding-files---spotlight-search-and-index-management)
   - [Show Power Management Settings](#show-power-management-settings)
+  - [Show Power Status, Batteries & UPS](#show-power-status-batteries--ups)
+  - [Show Power Adapter Details](#show-power-adapter-details)
   - [Sleep Immediately](#sleep-immediately)
   - [Prevent Sleep](#prevent-sleep)
   - [Launchctl](#launchctl)
@@ -676,6 +678,46 @@ Currently in use:
  tcpkeepalive         1
  powermode            0
  womp                 1
+```
+
+### Show Power Status, Batteries & UPS
+
+```shell
+pmset -g ps
+```
+
+```text
+Now drawing from 'AC Power'
+ -InternalBattery-0 (id=nnnnnnnn)       86%; charging; 0:35 remaining present: true
+```
+
+### Show Power Adapter Details
+
+Only on Macbook / Macbook Pro:
+
+```shell
+pmset -g ac
+```
+
+Output depends on whether you're plugged into AC power or not:
+
+```text
+No adapter attached.
+```
+
+or
+
+```text
+ Wattage = 94W
+ Current = 4690mA
+ Voltage = 20000mV
+ AdapterID = nnnnn
+ Manufacturer = Apple Inc.
+ Family Code = 0xe000400a
+ Serial String = xxxxxxxxxxxxxxxxx
+ Adapter Name = 96W USB-C Power Adapter
+ Hardware Version = 1.0
+ Firmware Version = 01090057
 ```
 
 ### Sleep Immediately
