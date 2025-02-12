@@ -12,6 +12,7 @@ The guy who wrote this didn't get hired by Google ffs... who cares about old bub
 - [Package Lists](#package-lists)
 - [Package Management](#package-management)
 - [Info](#info)
+- [Environment Variables](#environment-variables)
 - [Troubleshooting](#troubleshooting)
 
 <!-- INDEX_END -->
@@ -26,7 +27,8 @@ The guy who wrote this didn't get hired by Google ffs... who cares about old bub
 
 All the packages I use on Mac are stored in the [DevOps-Bash-tools](devops-bash-tools.md) repo.
 
-[Core build packages and core utils](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages.txt)
+[Core Packages](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages.txt) -
+core build packages and utils needed by almost everything
 
 [Desktop Packages](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew-packages-desktop.txt) - long list of cool & techie packages for Mac
 
@@ -59,6 +61,34 @@ List files for package:
 ```shell
 brew ls --verbose "$package"
 ```
+
+## Environment Variables
+
+<https://docs.brew.sh/Manpage#environment>
+
+Some environment variables to take note of:
+
+- `HOMEBREW_CLEANUP_MAX_AGE_DAYS` - 120 by default, you might want to reduce this
+- `HOMEBREW_DISPLAY_INSTALL_TIMES` - if set, print install times for each formula at the end of the run
+
+Some ones you might want to use in [Mobile CI/CD](cicd-mobile.md) builds:
+
+- `HOMEBREW_VERBOSE`
+- `HOMEBREW_VERBOSE_USING_DOTS` - prints a `.` no more than once a minute to avoid long-running Homebrew
+  commands being killed due to no output
+- `HOMEBREW_DEBUG`
+- `HOMEBREW_NO_ANALYTICS`
+- `HOMEBREW_NO_AUTOREMOVE`
+- `HOMEBREW_NO_AUTO_UPDATE`
+- `HOMEBREW_NO_BOOTSNAP` - do not use Bootsnap to speed up repeated brew calls
+  (VM will be discarded at end of build anyway)
+- `HOMEBREW_NO_COLOR`
+- `HOMEBREW_NO_INSECURE_REDIRECT`
+- `HOMEBREW_NO_CLEANUP_FORMULAE`
+- `HOMEBREW_NO_INSTALL_CLEANUP`
+- `HOMEBREW_NO_INSTALL_UPGRADE`
+
+The usual [HTTP Proxy](http-proxying.md) environment variables of `http_proxy`, `https_proxy` and `no_proxy` also work.
 
 ## Troubleshooting
 
