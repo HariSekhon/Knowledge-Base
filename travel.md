@@ -730,7 +730,11 @@ Resort town with the Ankor Wot temple.
   (don't have two, it's a laxative, you'll need to rush back to your hotel room), wifi and plugs
 - [My Little Cafe](https://maps.app.goo.gl/aX6FwCC3EctXfw4V6) - cheapish, moderate English breakfast,
   cheaper local dishes,
-  cheap drinks, \$1 coconut, \$2 juice, \$2.50 cocktails
+  cheap drinks, \$1 coconut, \$2 juice, \$2.50 cocktails.
+  The Khmer Muslim Beef Curry was far too sweet IMO. The beef was around 40% fat,
+  but I have a sweet tooth and even I thought the sweetness was far too much,
+  betraying the addition of too much sugar addition,
+  which for the best cuisine should usually have plausible deniability
 - [Try Me](https://maps.app.goo.gl/gANdR1r9M1jhpq496) - reasonable quality, internationally priced, Fish amok was ok, but \$4.50, pineapple juice \$2,
   3x vegetable samosas were nice and crispy $1.50 my fav of what I had. Has wifi
 - [The Red Piano](https://maps.app.goo.gl/gSUUduQpHCKdf7rKA) - price location at the central crossroad of Pub Street
