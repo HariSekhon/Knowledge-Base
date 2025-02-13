@@ -719,7 +719,10 @@ the driver will honk the horn every 2 minutes when passing any vehicle or bike t
 
 #### Siem Reap
 
-Resort town with the Ankor Wot temple.
+Resort town with the Angkor Wat temple...
+
+_"You what mate?"_ Yeah this name confused me
+when I first heard it audibly by an English cockney I met at the airport and hung out with for a couple days.
 
 - [New Leaf Eatery](https://maps.app.goo.gl/o8fKjtjVAZMCgXjz7) - gentrified cafe (expensive) catering to westerners,
   internationally priced but good quality, has WiFi and plugs. The full English breakfast is good, the house limeade is
