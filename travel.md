@@ -732,7 +732,8 @@ when I first heard it audibly by an English cockney I met at the airport and hun
 - [The Source Cafe](https://maps.app.goo.gl/5u7cKcTZYoNhdhBT6) - gentrified western cafe with wifi and plugs,
   reasonably comfortable seating, but closes early at only 5pm,
   has milkshakes (not common enough in Asia IMO).
-  The Source Breakfast is basically a Full English breakfast except with spinach instead of sausage, quite good
+  The Source Breakfast is basically a Full English breakfast except with spinach instead of sausage, quite good.
+  The milkshake on top of it was a step too far, I was waddling around stuffed all afternoon
 - [Wat Bong](https://maps.app.goo.gl/YHtNRxo2qcDTZEcC8) - good burger and fries \$7.50, fresh coconut \$1.50
   (don't have two, it's a laxative, you'll need to rush back to your hotel room), wifi and plugs
 - [My Little Cafe](https://maps.app.goo.gl/aX6FwCC3EctXfw4V6) - cheapish, moderate English breakfast,
