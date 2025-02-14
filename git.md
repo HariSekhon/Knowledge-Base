@@ -6,6 +6,8 @@
 
 - [Workflow Branching Strategies](#workflow-branching-strategies)
 - [Advanced Git Config](#advanced-git-config)
+- [Git Diff Commit](#git-diff-commit)
+- [Git Review Push](#git-review-push)
 - [GitHub SSH Key SSO Authorization](#github-ssh-key-sso-authorization)
 - [Git HTTPS Authentication](#git-https-authentication)
 - [CLIs](#clis)
@@ -78,6 +80,28 @@ make link
 ```
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
+## Git Diff Commit
+
+From [DevOps-Bash-tools](devops-bash-tools.md).
+
+Shows a diff of what will be committed then prompts to commit - very useful for [vim](vim.md) or [IDE](editors.md)
+hotkeys to quickly review the changes and then hit enter to commit them.
+
+```shell
+git_diff_commit.sh
+```
+
+## Git Review Push
+
+From [DevOps-Bash-tools](devops-bash-tools.md).
+
+Shows a diff of all changes that will be pushed upstream to your origin before you hit enter -
+useful to double check what you are pushing publicly to [GitHub](github.md)!
+
+```shell
+git_review_push.sh
+```
 
 ## GitHub SSH Key SSO Authorization
 
