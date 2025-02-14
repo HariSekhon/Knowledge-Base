@@ -729,6 +729,8 @@ when I first heard it audibly by an English cockney I met at the airport and hun
   refreshing and not sparkling,
   the apple & mango pie with chocolate ice cream was a step too far though,
   fattening, I ran up nearly a $20 bill here which for Cambodia is a *lot*
+- [The Source Cafe](https://maps.app.goo.gl/5u7cKcTZYoNhdhBT6) - gentrified western cafe with wifi and plugs,
+  reasonably comfortable seating, but closes early at only 5pm
 - [Wat Bong](https://maps.app.goo.gl/YHtNRxo2qcDTZEcC8) - good burger and fries \$7.50, fresh coconut \$1.50
   (don't have two, it's a laxative, you'll need to rush back to your hotel room), wifi and plugs
 - [My Little Cafe](https://maps.app.goo.gl/aX6FwCC3EctXfw4V6) - cheapish, moderate English breakfast,
