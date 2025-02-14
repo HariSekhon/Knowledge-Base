@@ -735,8 +735,8 @@ when I first heard it audibly by an English cockney I met at the airport and hun
   The Source Breakfast is basically a Full English breakfast except with spinach instead of sausage, quite good.
   The milkshake on top of it was a step too far, I was waddling around stuffed all afternoon
 - [The Muffin Man](https://maps.app.goo.gl/mdAc5auh7kzZG9my7) - air conditioned cafe with gluten free muffin and cake
-  options, lime juice was really good, chilled and refreshing. Wifi but the power plugs didn't work along the whole left
-  wall as you enter
+  options, lime juice was really good, chilled and refreshing.
+  Wifi but the power plugs didn't work along the whole left wall as you enter
 - [Wat Bong](https://maps.app.goo.gl/YHtNRxo2qcDTZEcC8) - good burger and fries \$7.50, fresh coconut \$1.50
   (don't have two, it's a laxative, you'll need to rush back to your hotel room), wifi and plugs
 - [My Little Cafe](https://maps.app.goo.gl/aX6FwCC3EctXfw4V6) - cheapish, moderate English breakfast,
