@@ -746,6 +746,11 @@ when I first heard it audibly by an English cockney I met at the airport and hun
   but I have a sweet tooth and even I thought the sweetness was far too much,
   betraying the addition of too much sugar addition,
   which for the best cuisine should usually have plausible deniability
+- [Biolab Café](https://maps.app.goo.gl/RGPWHKoW5Us8CGrm9) - upmarket cafe with good but pricey drinks, and reasonable
+  priced food menu.
+  Very nice interior, especially on the upper level (although that closes earlier around 8pm, instead of 10pm for the
+  smaller downstair). Low level ambient piano music, wifi and plugs available.
+  A single meeting room is available although IMO expensive at \$10 per hour or \$80 per day (especially for Cambodia)
 - [Try Me](https://maps.app.goo.gl/gANdR1r9M1jhpq496) - reasonable quality, internationally priced, Fish amok was ok, but \$4.50, pineapple juice \$2,
   3x vegetable samosas were nice and crispy $1.50 my fav of what I had. Has wifi
 - [The Red Piano](https://maps.app.goo.gl/gSUUduQpHCKdf7rKA) - price location at the central crossroad of Pub Street
