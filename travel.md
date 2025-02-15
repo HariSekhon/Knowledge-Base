@@ -746,8 +746,8 @@ when I first heard it audibly by an English cockney I met at the airport and hun
   but I have a sweet tooth and even I thought the sweetness was far too much,
   betraying the addition of too much sugar addition,
   which for the best cuisine should usually have plausible deniability
-- [Sister restaurant](https://maps.app.goo.gl/mi68RoFDfH33JDJo9) - affordable local eats place, $3 beef skewers with
-  vegetables and rice was great, didn’t like the lemon ice tea though (which I usually do, IMO it tasted weird)
+- [Sister restaurant](https://maps.app.goo.gl/mi68RoFDfH33JDJo9) - affordable local eats place, $3 beef skewers (x3)
+  with vegetables and rice was great, didn’t like the lemon ice tea though (which I usually do, IMO it tasted weird)
 - [Biolab Café](https://maps.app.goo.gl/RGPWHKoW5Us8CGrm9) - upmarket cafe with good but pricey drinks, and reasonable
   priced food menu.
   Very nice interior, especially on the upper level (although that closes earlier around 8pm, instead of 10pm for the
