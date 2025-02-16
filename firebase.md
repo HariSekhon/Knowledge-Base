@@ -7,7 +7,7 @@
   - [Firebase Login](#firebase-login)
   - [Firebase Google Application Credentials](#firebase-google-application-credentials)
   - [List Projects](#list-projects)
-  - [Firebase Upload](#firebase-upload)
+  - [Firebase App Distribution Upload](#firebase-app-distribution-upload)
 
 <!-- INDEX_END -->
 
@@ -89,7 +89,7 @@ but commands will work. List projects to prove it.
 firebase projects:list
 ```
 
-### Firebase Upload
+### Firebase App Distribution Upload
 
 Tester emails are comma separated.
 
