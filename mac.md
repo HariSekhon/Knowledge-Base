@@ -76,6 +76,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Other Options](#other-options)
     - [CLI](#cli)
 - [Asahi Linux on Apple Silicon](#asahi-linux-on-apple-silicon)
+- [XCode Mobile App Builds](#xcode-mobile-app-builds)
 - [Troubleshooting](#troubleshooting)
   - [XCodeBuild error complaining XCode only has command line tools](#xcodebuild-error-complaining-xcode-only-has-command-line-tools)
   - [Various Applications Fail to Open](#various-applications-fail-to-open)
@@ -1029,6 +1030,10 @@ hdiutil burn "$ISO"
 Use at your own risk.
 
 There is a reason I put this just before the Troubleshooting section... :wink:
+
+## XCode Mobile App Builds
+
+See [Mobile Builds](mobile-builds.md) doc.
 
 ## Troubleshooting
 
