@@ -9,6 +9,7 @@
   - [Mulesoft](#mulesoft)
   - [Spring Integration](#spring-integration)
 - [Data Visualization](#data-visualization)
+  - [Power BI](#power-bi)
 - [Diagrams](#diagrams)
   - [Top 9 Systems Integrations](#top-9-systems-integrations)
   - [Encoding vs Encryption vs Tokenization](#encoding-vs-encryption-vs-tokenization)
@@ -75,6 +76,12 @@ TODO
 ## Data Visualization
 
 See the [Diagrams](diagrams.md) and [Visualization](visualization.md) docs.
+
+### Power BI
+
+Free for desktop version:
+
+<https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop>
 
 ## Diagrams
 
