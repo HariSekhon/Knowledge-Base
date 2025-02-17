@@ -44,7 +44,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Screenshot the Whole Screen](#screenshot-the-whole-screen)
     - [Screenshot a Selection - Drag a Rectangle](#screenshot-a-selection---drag-a-rectangle)
     - [The Screenshot.app](#the-screenshotapp)
-    - [The Screencapture CLI](#the-screencapture-cli)
+    - [The ScreenCapture CLI](#the-screencapture-cli)
   - [Screen Recording](#screen-recording)
   - [Flush the DNS Cache](#flush-the-dns-cache)
   - [Set DNS Servers](#set-dns-servers)
@@ -98,7 +98,8 @@ Ensure it is on a table and not heat capturing linen like you bed, especially if
 ### Do not let your Macbook Pro get hot it will destroy the battery!!
 
 Within a few weeks of digitial nomadding working on beds with my laptop on the bed cover,
-I had degraded the battery of my new Macbook Pro M3 Max by 85%.
+I had degraded the battery of my new Macbook Pro M3 Max to 85%, and even after being more careful, after a year it was
+down to 79%.
 
 ![Battery Health 85%](images/battery_health_85%25.png)
 
@@ -461,7 +462,7 @@ or
 open -a Screenshot
 ```
 
-#### The Screencapture CLI
+#### The ScreenCapture CLI
 
 You may be prompted to allow Terminal to record the screen under `Privacy & Security` -> `Screen Recording` the first
 time - it'll tell you that you have to restart the Terminal, but it worked for me without a restart.
@@ -511,11 +512,12 @@ open -a Screenshot
 
 Click `Record Entire Screen` or `Record Selected Portion`.
 
-This will create a `.mov` file.
+This will create a `.mov` file in your screenshots directory (`~/Desktop` by default unless you've
+[Set Screenshot Location](#set-screenshot-location)).
 
-Share this with tech support without breaking your email using a
+Share this with tech support without breaking your email storage capacity by using a
 [file upload site](upload-sites.md#file-upload-sites)
-like <https://0x0.st>.
+such as <https://0x0.st>.
 
 More details on Mac's native Screen Capture tool is [here](https://support.apple.com/en-ae/guide/mac-help/mh26782/mac).
 
