@@ -14,6 +14,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Change Airport](#change-airport)
 - [Hotels vs Airbnb](#hotels-vs-airbnb)
   - [Hotel & Airbnb - Parking](#hotel--airbnb---parking)
+  - [Hotel & Airbnb - Internet](#hotel--airbnb---internet)
 - [Mobile Internet Access](#mobile-internet-access)
   - [EU](#eu)
   - [Rest of World](#rest-of-world)
@@ -294,6 +295,33 @@ When driving, I often prefer booking places a bit away from the centers to get e
 accomodations, both hotels and airbnbs lack good parking.
 
 Also, if you're only going into the centres in the evenings, often you can get cheap or even free parking.
+
+### Hotel & Airbnb - Internet
+
+Hotel wifi is probably the worst wifi ever,
+often averaging around 10Mbit/s, sometimes 7Mbit/s, I've even recorded it as low at 2Mbit/s,
+and they tend to have frequent random outages.
+
+The slow speeds - especially throughput and latency variability - can ruin even your audio conference calls, never mind
+your video conference calls, especially if you are forced to do them through a corporate Windows Virtual Desktop which
+is far more network expensive and latency sensitive.
+
+I have been bitten by this several times.
+
+If Digital Nomadding, try to get out to a cafe with good internet for conference calls, and test their speeds (see the
+doc [Network - Speed Test](networking.md#network-speed-test)).
+If it's less than 20Mbit/s, find somewhere else.
+I've observed good places having wifi speeds of even 70Mbit/s.
+
+Internet in Airbnb is either good high speed broadband or broken entirely for the duration.
+
+At one hotel in Thailand, the room wifi was broken the entire week I was there.
+I had to sit in the lobby to use the wifi network there, as did others,
+and sometimes even that didn't work due to having run out of IP addresses from their DHCP address pool -
+a trivial problem to fix if they had even an average IT engineer on hand or over the phone.
+I spent all week hassling the reception staff daily pleading to put one on the phone for me to tell them how to fix
+it without success).
+It still wasn't working when I left there.
 
 ## Mobile Internet Access
 
