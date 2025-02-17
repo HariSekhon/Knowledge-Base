@@ -311,7 +311,7 @@ I have been bitten by this several times.
 If Digital Nomadding, try to get out to a cafe with good internet for conference calls, and test their speeds (see the
 doc [Network - Speed Test](networking.md#network-speed-test)).
 If it's less than 20Mbit/s, find somewhere else.
-I've observed good places having wifi speeds of even 70Mbit/s.
+I've observed good places having wifi speeds of even 70-90Mbit/s and almost no contention due to low number of users.
 
 Internet in Airbnb is either good high speed broadband or broken entirely for the duration.
 
