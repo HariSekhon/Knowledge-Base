@@ -753,8 +753,9 @@ _"You what mate?"_ Yeah this name confused me
 when I first heard it audibly by an English cockney I met at the airport and hung out with for a couple days.
 
 - [Footprint Cafes](https://maps.app.goo.gl/DB2DMSPwX2mEpR1f9) - fast wifi, comfortable padded chairs, plugs, books,
-  cool, perfect working place, wifi 80-90Mbit/s, juices are small and expensive at \$3.50, smoothies same price, but
-  overall it's great, and has food at reasonable international prices. Closes at 8pm so it's really a day place.
+  cool downstairs, perfect working place, wifi 80-90Mbit/s, juices are small and expensive at \$3.50, smoothies same
+  price, but overall it's great, and has food at reasonable international prices.
+  Closes at 8pm so it's really a day place.
 - [New Leaf Eatery](https://maps.app.goo.gl/o8fKjtjVAZMCgXjz7) - gentrified cafe (expensive) catering to westerners,
   internationally priced but good quality, has WiFi and plugs. The full English breakfast is good, the house limeade is
   refreshing and not sparkling,
