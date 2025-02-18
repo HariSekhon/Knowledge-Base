@@ -50,6 +50,7 @@
   - [Hype Driven Development](#hype-driven-development)
   - [Whitespace Wars](#whitespace-wars)
   - [Heroes & Villains of Software Development](#heroes--villains-of-software-development)
+  - [Will Not Fix Your Computer](#will-not-fix-your-computer)
 
 <!-- INDEX_END -->
 
@@ -471,5 +472,11 @@ Pull Request reviews are here to preven this...
 ### Heroes & Villains of Software Development
 
 ![Heroes & Villains of Software Development](images/heroes_villains_software_development.jpg)
+
+### Will Not Fix Your Computer
+
+Many of you will want to send this to your relatives:
+
+![Not Fix Your Computer](images/programmer_write_code_not_fix_your_computer.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
