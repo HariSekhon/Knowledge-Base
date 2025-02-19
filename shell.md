@@ -6,6 +6,8 @@
 - [Fish](#fish)
 - [Shell Tricks](#shell-tricks)
   - [Find disowned processes owned by the init PID 1](#find-disowned-processes-owned-by-the-init-pid-1)
+- [Memes](#memes)
+  - [Opening a Shell, Non-Programmers](#opening-a-shell-non-programmers)
 
 <!-- INDEX_END -->
 
@@ -47,5 +49,11 @@ fish_config
 ```shell
  ps -ef | awk '$3 == 1 {print}'
 ```
+
+## Memes
+
+### Opening a Shell, Non-Programmers
+
+![Opening a shell, Non-Programmers](images/opening_a_shell_non_programmers.jpeg)
 
 **Ported from various private Knowledge Base pages 2002+**
