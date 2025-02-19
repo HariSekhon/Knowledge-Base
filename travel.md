@@ -765,7 +765,7 @@ when I first heard it audibly by an English cockney I met at the airport and hun
   reasonably comfortable seating, but closes early at only 5pm,
   has milkshakes (not common enough in Asia IMO).
   The Source Breakfast is basically a Full English breakfast except with spinach instead of sausage, quite good.
-  The milkshake on top of it was a step too far, I was waddling around stuffed all afternoon
+  The milkshake on top of it was a step too far, I was waddling around stuffed all afternoon. 40Mbit/s wifi
 - [The Muffin Man](https://maps.app.goo.gl/mdAc5auh7kzZG9my7) - air conditioned cafe with gluten free muffin and cake
   options, lime juice was really good, chilled and refreshing.
   Wifi but the power plugs didn't work along the whole left wall as you enter
