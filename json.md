@@ -10,6 +10,9 @@ Useful JSON tools:
 
 - [gron](#gron)
 - [jq](#jq)
+  - [jq tips](#jq-tips)
+    - [jq default value](#jq-default-value)
+    - [jq find field anywhere in struct](#jq-find-field-anywhere-in-struct)
 - [jnv](#jnv)
 - [Java Libraries](#java-libraries)
 - [Conversion](#conversion)
@@ -53,6 +56,10 @@ Widely used in my scripts in [DevOps-Bash-tools](devops-bash-tools.md) repo.
 
 <https://jqlang.github.io/jq/manual/>
 
+### jq tips
+
+#### jq default value
+
 `jq` returns literal `null` string for fields that don't exist, this is annoying af in bash scripts where you will
 often be testing for failing to find something using `[ -z "$output" ]`.
 
@@ -61,6 +68,20 @@ To avoid this and have jq return a default value, blank in this case, instead of
 ```shell
 jq -r '.non_existent_key // ""' < file.json
 ```
+
+#### jq find field anywhere in struct
+
+Find and output the `policy` field from anywhere in the JSON.
+Most of the time you should understand the schema and specify it explicitly.
+
+```shell
+jq -r '.. | objects | select(has("policy")) | .policy'
+```
+
+- `..` recurses
+- `objects` filters to only objects (ignores arrays & scalars)
+- `select(has("policy"))` returns only objects with a `policy` field
+- `.policy` selects that field out of those subset of objects
 
 ## jnv
 
