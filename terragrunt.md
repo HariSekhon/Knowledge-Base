@@ -18,6 +18,7 @@ Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing an
     - [Useful Options](#useful-options)
   - [CI/CD](#cicd)
 - [Terraform Lock Files](#terraform-lock-files)
+- [Terragrunt Console](#terragrunt-console)
 - [Dependency Graph](#dependency-graph)
   - [Graph Run](#graph-run)
 - [Terragrunt Scaffold](#terragrunt-scaffold)
@@ -182,6 +183,18 @@ it copies the top level `.terraform.lock.hcl` file into the sub-directory before
 after the run to capture the changes.
 
 Commit your lock file as per Terraform standard to ensure your colleagues get the same provider versions.
+
+## Terragrunt Console
+
+Useful for testing.
+
+```shell
+terragrunt console
+```
+
+Terragrunt functions like `get_parent_terragrunt_dir()` don't work in the REPL unfortunately.
+
+Rest is same as [Terraform Console](terraform.md#terraform-console).
 
 ## Dependency Graph
 
