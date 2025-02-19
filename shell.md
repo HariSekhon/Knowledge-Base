@@ -8,6 +8,7 @@
   - [Find disowned processes owned by the init PID 1](#find-disowned-processes-owned-by-the-init-pid-1)
 - [Memes](#memes)
   - [Opening a Shell, Non-Programmers](#opening-a-shell-non-programmers)
+  - [Bash Scripting: Essential DevOps](#bash-scripting-essential-devops)
 
 <!-- INDEX_END -->
 
@@ -55,5 +56,9 @@ fish_config
 ### Opening a Shell, Non-Programmers
 
 ![Opening a shell, Non-Programmers](images/opening_a_shell_non_programmers.jpeg)
+
+### Bash Scripting: Essential DevOps
+
+![Bash Scripting: Essential DevOps](images/orly_bash_scripting_essential_devops.png)
 
 **Ported from various private Knowledge Base pages 2002+**
