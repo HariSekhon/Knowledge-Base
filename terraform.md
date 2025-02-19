@@ -23,6 +23,8 @@ detects what is missing or has changed and then applies the necessary changes to
 - [Terraform Console](#terraform-console)
   - [Convert Terraform `jsonencode()` to literal JSON](#convert-terraform-jsonencode-to-literal-json)
     - [Handling Multi-line `jsonencode()`](#handling-multi-line-jsonencode)
+  - [Handling Multi-line `jsonencode()` with multi-line terraform block that depends on newlines](#handling-multi-line-jsonencode-with-multi-line-terraform-block-that-depends-on-newlines)
+- [hcl2json](#hcl2json)
 - [Troubleshooting](#troubleshooting)
   - [Checksum Mismatch in `.terraform.lock.hcl`](#checksum-mismatch-in-terraformlockhcl)
 
@@ -254,14 +256,12 @@ EOF
 ```
 
 ```text
-╷
 │ Error: Missing expression
 │
 │   on <console-input> line 1:
 │   (source code not available)
 │
 │ Expected the start of an expression, but found the end of the file.
-╵
 ```
 
 So first flatten it by removing newlines using `tr` or similar command:
@@ -310,6 +310,112 @@ EOF
   ]
 }
 ```
+
+### Handling Multi-line `jsonencode()` with multi-line terraform block that depends on newlines
+
+```text
+locals {
+
+  result = jsonencode({
+    Version = "2012-10-17"
+    Statement = [
+      {
+        Action = [
+          "dynamodb:BatchGetItem",
+          "dynamodb:GetItem",
+          "dynamodb:Query",
+          "dynamodb:Scan",
+          "dynamodb:BatchWriteItem",
+          "dynamodb:PutItem",
+          "dynamodb:UpdateItem"
+        ]
+        Effect = "Allow"
+        Resource = [
+          local.dynamodb_project_sources_table_arn,
+          local.dynamodb_project_destinations_table_arn,
+          local.dynamodb_project_subdomain_mapping_table_arn
+        ]
+      }
+    ]
+  })
+
+}
+```
+
+```text
+│ Error: Missing attribute separator
+│
+│   on <console-input> line 1:
+│   (source code not available)
+│
+│ Expected a newline or comma to mark the beginning of the next attribute.
+```
+
+Tried dumping it to a `/tmp` file and then have the Terraform Console read the file using a single line function:
+
+```shell
+cat > /tmp/terraform.jsonencode.txt
+```
+
+```shell
+echo 'file("/tmp/terraform.jsonencode.txt")' | terraform console | jq -r | jq
+```
+
+but this outputs a literal instead of interpreting it as code, output looks like this:
+
+```text
+<<EOT
+locals {
+
+  result = jsonencode({
+    Version = "2012-10-17"
+    Statement = [
+      {
+        Action = [
+          "dynamodb:BatchGetItem",
+          "dynamodb:GetItem",
+          "dynamodb:Query",
+          "dynamodb:Scan",
+          "dynamodb:BatchWriteItem",
+          "dynamodb:PutItem",
+          "dynamodb:UpdateItem"
+        ]
+        Effect = "Allow"
+        Resource = [
+          local.dynamodb_project_sources_table_arn,
+          local.dynamodb_project_destinations_table_arn,
+          local.dynamodb_project_subdomain_mapping_table_arn
+        ]
+      }
+    ]
+  })
+
+}
+
+EOT
+```
+
+So you can get the code into Terraform Console but not eval it. Might have to use actual Terraform apply with `output`
+instead, which is problematic when trying to port some vendor's code bundle that doesn't actually execute in local
+environment.
+
+Not solved yet.
+
+## hcl2json
+
+[:octocat: tmccombs/hcl2json](https://github.com/tmccombs/hcl2json)
+
+Convert HCL to JSON to make it easier to work with in other languages.
+
+```shell
+brew install hcl2json
+```
+
+```shell
+hcl2json "$file"
+```
+
+outputs the JSON equivalent.
 
 ## Troubleshooting
 
