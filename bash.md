@@ -36,7 +36,8 @@ is one of the few use cases for that).
 - [Style Guide](#style-guide)
 - [More Useful Commands](#more-useful-commands)
   - [Delete a trailing blank line of a file](#delete-a-trailing-blank-line-of-a-file)
-- [Meme](#meme)
+- [Memes](#memes)
+  - [Opening a Shell, Non-Programmers](#opening-a-shell-non-programmers)
   - [Bash Scripting: Essential DevOps](#bash-scripting-essential-devops)
 
 <!-- INDEX_END -->
@@ -415,7 +416,11 @@ On Mac, use GNU sed for compatibility, call `gsed` instead of `sed`:
 gsed -i -e '${/^$/d}' "$file"
 ```
 
-## Meme
+## Memes
+
+### Opening a Shell, Non-Programmers
+
+![Opening a shell, Non-Programmers](images/opening_a_shell_non_programmers.jpeg)
 
 ### Bash Scripting: Essential DevOps
 
