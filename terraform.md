@@ -284,6 +284,12 @@ EOF
 Pipe it through `jq` once more if you want a multi-line pretty-printed JSON result:
 
 ```shell
+tr -d '\n' | terraform console | jq -r | jq
+```
+
+eg.
+
+```shell
 tr -d '\n' <<EOF | terraform console | jq -r | jq
 jsonencode(
   {
