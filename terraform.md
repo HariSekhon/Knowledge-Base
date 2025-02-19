@@ -20,6 +20,9 @@ detects what is missing or has changed and then applies the necessary changes to
 - [Document Your Terraform Modules](#document-your-terraform-modules)
 - [Best Practices](#best-practices)
 - [Vendor Code](#vendor-code)
+- [Terraform Console](#terraform-console)
+  - [Convert Terraform `jsonencode()` to literal JSON](#convert-terraform-jsonencode-to-literal-json)
+    - [Handling Multi-line `jsonencode()`](#handling-multi-line-jsonencode)
 - [Troubleshooting](#troubleshooting)
   - [Checksum Mismatch in `.terraform.lock.hcl`](#checksum-mismatch-in-terraformlockhcl)
 
@@ -201,6 +204,106 @@ Leaving you wondering what the `node_type` should be, instead of realizing you'r
 
 If they had used the module in the first place your brain wouldn't be fried from migrating all their modules and then
 missing a detail like this.
+
+## Terraform Console
+
+Useful for testing.
+
+```shell
+terraform console
+```
+
+Unfortunately it's a line-based REPL so you can't paste multi-line inputs, see next examples for how to work around
+this.
+
+### Convert Terraform `jsonencode()` to literal JSON
+
+This is sometimes needed when porting a plain terraform AWS `jsonencode()` document into an embedded JSON policy.
+
+```shell
+echo 'jsonencode({ name = "example", values = [1, 2, 3] })' | terraform console
+```
+
+```text
+"{\"name\":\"example\",\"values\":[1,2,3]}"
+```
+
+However, the above is not literal, so pipe it through `jq -r` to remove the quoting:
+
+```shell
+echo 'jsonencode({ name = "example", values = [1, 2, 3] })' | terraform console | jq -r
+```
+
+```json
+{"name":"example","values":[1,2,3]}
+```
+
+#### Handling Multi-line `jsonencode()`
+
+Unfortunately since `terraform console` is a line-based REPL you cannot do this:
+
+```shell
+terraform console <<EOF | jq -r
+jsonencode(
+  {
+    name = "example",
+    values = [1, 2, 3]
+  }
+)
+EOF
+```
+
+```text
+╷
+│ Error: Missing expression
+│
+│   on <console-input> line 1:
+│   (source code not available)
+│
+│ Expected the start of an expression, but found the end of the file.
+╵
+```
+
+So first flatten it by removing newlines using `tr` or similar command:
+
+```shell
+tr -d '\n' <<EOF | terraform console | jq -r
+jsonencode(
+  {
+    name = "example",
+    values = [1, 2, 3]
+  }
+)
+EOF
+```
+
+```json
+{"name":"example","values":[1,2,3]}
+```
+
+Pipe it through `jq` once more if you want a multi-line pretty-printed JSON result:
+
+```shell
+tr -d '\n' <<EOF | terraform console | jq -r | jq
+jsonencode(
+  {
+    name = "example",
+    values = [1, 2, 3]
+  }
+)
+EOF
+```
+
+```json
+{
+  "name": "example",
+  "values": [
+    1,
+    2,
+    3
+  ]
+}
+```
 
 ## Troubleshooting
 
