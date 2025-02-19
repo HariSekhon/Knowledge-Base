@@ -23,7 +23,7 @@ detects what is missing or has changed and then applies the necessary changes to
 - [Terraform Console](#terraform-console)
   - [Convert Terraform `jsonencode()` to literal JSON](#convert-terraform-jsonencode-to-literal-json)
     - [Handling Multi-line `jsonencode()`](#handling-multi-line-jsonencode)
-  - [Handling Multi-line `jsonencode()` with multi-line terraform block that depends on newlines](#handling-multi-line-jsonencode-with-multi-line-terraform-block-that-depends-on-newlines)
+    - [Handling Multi-line `jsonencode()` with multi-line terraform block that depends on newlines](#handling-multi-line-jsonencode-with-multi-line-terraform-block-that-depends-on-newlines)
 - [hcl2json](#hcl2json)
 - [Troubleshooting](#troubleshooting)
   - [Checksum Mismatch in `.terraform.lock.hcl`](#checksum-mismatch-in-terraformlockhcl)
@@ -311,7 +311,7 @@ EOF
 }
 ```
 
-### Handling Multi-line `jsonencode()` with multi-line terraform block that depends on newlines
+#### Handling Multi-line `jsonencode()` with multi-line terraform block that depends on newlines
 
 ```text
 locals {
