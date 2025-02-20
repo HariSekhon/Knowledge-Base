@@ -160,6 +160,10 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 
 <!-- -->
 
+- [World Vector Logo](https://worldvectorlogo.com/)
+
+<!-- -->
+
 - [FlatIcon](https://www.flaticon.com/)
 
 <!-- -->
