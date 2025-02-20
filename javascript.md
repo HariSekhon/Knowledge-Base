@@ -6,6 +6,10 @@ It's nothing to do with Java.
 
 - [NodeJS](#nodejs)
   - [NPM](#npm)
+- [TypeScript](#typescript)
+  - [Install TypeScript](#install-typescript)
+  - [Convert TypeScript to JavaScript](#convert-typescript-to-javascript)
+  - [TypeScript Config](#typescript-config)
 - [Libraries](#libraries)
 - [Repos](#repos)
 - [Memes](#memes)
@@ -64,6 +68,50 @@ Install all packages of the exact versions from ``packages-lock.json`:
 
 ```shell
 npm install
+```
+
+## TypeScript
+
+Type safe superset of JavaScript with optional static type checking.
+
+Transpiles (converts) to JavaScript eg. `src/*.ts` => `dist/index.js`.
+
+Not compiles since it doesn't translate to binary or byte code.
+
+Example variable type enforcement, just suffix the `: <type>` to a variable:
+
+```typescript
+let name: string = "Hari";
+
+name = 1; // type error
+```
+
+### Install TypeScript
+
+```shell
+npm install -g typescript
+```
+
+### Convert TypeScript to JavaScript
+
+```text
+tsc example.ts
+```
+
+Generates `example.js`.
+
+Run it:
+
+```shell
+node example.js
+```
+
+### TypeScript Config
+
+Create a `tsconfig.json` for project settings:
+
+```shell
+tsc --init
 ```
 
 ## Libraries
