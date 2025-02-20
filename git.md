@@ -48,6 +48,8 @@
   - [Push New Branch and Raise Pull Request in One Command](#push-new-branch-and-raise-pull-request-in-one-command)
     - [On GitHub](#on-github)
     - [On GitLab](#on-gitlab)
+  - [Show only commits done by you](#show-only-commits-done-by-you)
+  - [Show only commits of files added by you](#show-only-commits-of-files-added-by-you)
 - [Git LFS](#git-lfs)
   - [Why You Need Git LFS for Large Files](#why-you-need-git-lfs-for-large-files)
   - [Git LFS on other hosting providers](#git-lfs-on-other-hosting-providers)
@@ -759,6 +761,30 @@ or
 
 ```shell
 pushup  # to push and raise the PR
+```
+
+### Show only commits done by you
+
+```shell
+git log --author="$(git config user.name)" --author="$(git config user.email)"
+```
+
+This script uses both global and local Git config settings and simplifies the above:
+
+```shell
+git_log_me.sh
+```
+
+### Show only commits of files added by you
+
+```shell
+git log --diff-filter=A --author="$(git config user.name)" --author="$(git config user.email)"
+```
+
+or
+
+```shell
+git_log_me_added.sh
 ```
 
 ## Git LFS
