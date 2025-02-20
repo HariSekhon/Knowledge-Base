@@ -77,6 +77,9 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [CLI](#cli)
 - [Asahi Linux on Apple Silicon](#asahi-linux-on-apple-silicon)
 - [XCode Mobile App Builds](#xcode-mobile-app-builds)
+- [Time Machine](#time-machine)
+  - [Time Machine Info](#time-machine-info)
+  - [Restore a file from latest backup](#restore-a-file-from-latest-backup)
 - [Troubleshooting](#troubleshooting)
   - [XCodeBuild error complaining XCode only has command line tools](#xcodebuild-error-complaining-xcode-only-has-command-line-tools)
   - [Various Applications Fail to Open](#various-applications-fail-to-open)
@@ -1034,6 +1037,50 @@ There is a reason I put this just before the Troubleshooting section... :wink:
 ## XCode Mobile App Builds
 
 See [Mobile Builds](mobile-builds.md) doc.
+
+## Time Machine
+
+### Time Machine Info
+
+List time machine backups:
+
+```shell
+tmutil destinationinfo
+```
+
+Only the disks that show a line `Mount Point` like this are currently plugged in and mounted to be available:
+
+```text
+Mount Point   : /Volumes/<name>...
+```
+
+Determine the Mount Point of the backup disk:
+
+```shell
+BACKUP_MOUNTPOINT="$(tmutil destinationinfo | awk -F " : " '/^Mount Point/{print $2; exit}' | tee /dev/stderr)"
+```
+
+List all backups:
+
+```shell
+tmutil listbackups
+```
+
+### Restore a file from latest backup
+
+The latest one is at the bottom of the list as it's in date timestamp ascending order.
+
+Save the latest one:
+
+```shell
+LATEST_BACKUP="$(tmutil listbackups | tail -n 1 | tee /dev/stderr)"
+```
+
+Restore a file:
+
+```shell
+tmutil restore "$LATEST_BACKUP/Data/$PWD/$filename" "$PWD/$filename"
+```
 
 ## Troubleshooting
 
