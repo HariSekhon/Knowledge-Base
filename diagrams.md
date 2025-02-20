@@ -199,6 +199,13 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 
 If all else fails, there is always [Google Image Search](https://images.google.com/).
 
+Pro tip: for some of these sites that use funny tricks to stop you having direct download links,
+if you Google Image search and just right-click and Open Image in New Tab, you'll get a direct asset link to a CDN or
+similar you can use.
+
+However, CDN asset links tend to disappear after some months / years when websites get updated, so you should download and
+commit the source icon to your repo when using it in Diagrams-as-Code to prevent future time-wasting breakages.
+
 ## Interactive Playground Editors
 
 - [Text-to-Diagram Comparison Playground](https://text-to-diagram.com/)
