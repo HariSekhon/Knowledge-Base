@@ -58,6 +58,12 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 - can't export environment variables to GitHub Actions / Reusable Workflows
 - Secrets must be passed explicitly via `${ secrets.<name> }`
 
+## GitHub Actions Marketplace
+
+Don't forget to search here for useful actions!
+
+<https://github.com/marketplace>
+
 ## Mac Runner Versions vs XCode versions
 
 Read the READMEs here to see what versions for XCode are available in different macOS runner verisons:
