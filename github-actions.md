@@ -64,6 +64,10 @@ Read the READMEs here to see what versions for XCode are available in different 
 
 <https://github.com/actions/runner-images/tree/main/images/macos>
 
+[:octocat: maxim-lobanov/setup-xcode](https://github.com/maxim-lobanov/setup-xcode)
+
+<https://github.com/marketplace/actions/setup-xcode-version>
+
 ## GitHub Actions Best Practices
 
 The code snippet examples on the rest of this page are copied from this real-world repo
