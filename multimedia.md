@@ -31,6 +31,8 @@ Media file analysis, editing, transcoding and conversions.
   - [MP3 metadata editing](#mp3-metadata-editing)
 - [MediaBox Setup](#mediabox-setup)
   - [Remote control](#remote-control)
+- [Troubleshooting](#troubleshooting)
+  - [ImageMagic error converting from Avif image format](#imagemagic-error-converting-from-avif-image-format)
 
 <!-- INDEX_END -->
 
@@ -531,5 +533,20 @@ less /proc/bus/input/devices
 
 remote control is detected as a keyboard so a bunch of stuff just works out of the box.
 Should use `xmodmap` to add the remaining buttons to do things I want
+
+## Troubleshooting
+
+### ImageMagic error converting from Avif image format
+
+```text
+magick: unable to load module '/opt/homebrew/Cellar/imagemagick/7.1.1-43/lib/ImageMagick/modules-Q16HDRI/coders/heic.la': file not found @ error/module.c/OpenModule/1293.
+magick: no decode delegate for this image format `AVIF' @ error/constitute.c/ReadImage/746.
+```
+
+Solution:
+
+```shell
+brew info libheif
+```
 
 **Ported from private Knowledge Base pages 2010+**
