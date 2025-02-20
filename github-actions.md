@@ -7,6 +7,7 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 
 - [Key Points](#key-points)
   - [Limitations](#limitations)
+- [Mac Runner Versions vs XCode versions](#mac-runner-versions-vs-xcode-versions)
 - [GitHub Actions Best Practices](#github-actions-best-practices)
   - [Security Hardening for GitHub Actions](#security-hardening-for-github-actions)
   - [Pin 3rd party GitHub Actions to Git Hashrefs, not tags](#pin-3rd-party-github-actions-to-git-hashrefs-not-tags)
@@ -56,6 +57,12 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 - can't use environment variables in GitHub Actions `with:` inputs to imported actions/workflows
 - can't export environment variables to GitHub Actions / Reusable Workflows
 - Secrets must be passed explicitly via `${ secrets.<name> }`
+
+## Mac Runner Versions vs XCode versions
+
+Read the READMEs here to see what versions for XCode are available in different macOS runner verisons:
+
+<https://github.com/actions/runner-images/tree/main/images/macos>
 
 ## GitHub Actions Best Practices
 
