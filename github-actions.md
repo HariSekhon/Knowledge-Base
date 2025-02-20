@@ -7,6 +7,7 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 
 - [Key Points](#key-points)
   - [Limitations](#limitations)
+- [GitHub Actions Marketplace](#github-actions-marketplace)
 - [Mac Runner Versions vs XCode versions](#mac-runner-versions-vs-xcode-versions)
 - [GitHub Actions Best Practices](#github-actions-best-practices)
   - [Security Hardening for GitHub Actions](#security-hardening-for-github-actions)
