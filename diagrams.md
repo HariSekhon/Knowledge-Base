@@ -160,7 +160,8 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 
 <!-- -->
 
-- [World Vector Logo](https://worldvectorlogo.com/)
+- [World Vector Logo](https://worldvectorlogo.com/) - these silently fail to import into D2 resulting in diagrams with
+  missing icon placeholders (https://github.com/terrastruct/d2/issues/2367)
 
 <!-- -->
 
