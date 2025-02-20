@@ -189,7 +189,7 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 
 <!-- -->
 
-- [SeekLogo](https://seeklogo.com/)
+- [SeekLogo](https://seeklogo.com/) - gives icons as zip, less useful for Diagrams-as-Code
 
 <!-- -->
 
