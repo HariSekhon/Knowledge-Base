@@ -769,7 +769,8 @@ pushup  # to push and raise the PR
 git log --author="$(git config user.name)" --author="$(git config user.email)"
 ```
 
-This [DevOps-Bash-tools](devops-bash-tools.md) script uses both global and local Git config settings and simplifies the above:
+This [DevOps-Bash-tools](devops-bash-tools.md) script uses both global and local Git config settings to catch more
+and simplifies the above:
 
 ```shell
 git_log_me.sh
