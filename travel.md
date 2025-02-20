@@ -20,6 +20,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Rest of World](#rest-of-world)
     - [Digital e-sims](#digital-e-sims)
 - [International Calls using VoIP over the Internet](#international-calls-using-voip-over-the-internet)
+- [Foreign Cash Withdrawals](#foreign-cash-withdrawals)
 - [Dining Out](#dining-out)
 - [Translation](#translation)
 - [Mosquito Repellent](#mosquito-repellent)
@@ -376,6 +377,14 @@ Because banks and other legacy providers will force you to call them, you can us
   limited to 10 countries, need to use a [VPN](vpn.md) just to try to access it, disappointing usability
 - [Skype](https://www.skype.com/en/international-calls/) - £5 for 400 minutes, expensive for national numbers like most
   banks and businesses use
+
+## Foreign Cash Withdrawals
+
+Do not use your Wise card to withdraw cash from ATM machines overseas.
+
+They charged me almost \$7 as an 'ATM withdrawal fee'... on top of the \$5 the Cambodian ATM charged me.
+
+My bank by comparison charged me only the exchange rate, which was very close to accurate, I checked.
 
 ## Dining Out
 
