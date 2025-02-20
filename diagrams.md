@@ -160,6 +160,10 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 
 <!-- -->
 
+- [SVGrepo](https://www.svgrepo.com/) - 500,000 SVG icons
+
+<!-- -->
+
 - [World Vector Logo](https://worldvectorlogo.com/) - these silently fail to import into D2 resulting in diagrams with
   missing icon placeholders (https://github.com/terrastruct/d2/issues/2367)
 
@@ -177,7 +181,15 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 
 <!-- -->
 
+- [FreebieSupply logos](https://freebiesupply.com/logos/)
+
+<!-- -->
+
 - [Iconify.design](https://icon-sets.iconify.design/) - Massive 200,000 open source SVG icon set
+
+<!-- -->
+
+- [IconDuck](https://iconduck.com/) - doesn't give direct download links you can use in Diagrams-as-Code
 
 <!-- -->
 
