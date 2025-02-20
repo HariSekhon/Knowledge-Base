@@ -386,6 +386,8 @@ They charged me almost \$7 as an 'ATM withdrawal fee'... on top of the \$5 the C
 
 My bank by comparison charged me only the exchange rate, which was very close to accurate, I checked.
 
+Obviously don't withdraw cash using credit cards, they'll probably be the worst and most unscrupulous in charges.
+
 ## Dining Out
 
 Use [Google Maps](https://maps.google.com) (see [Mobile Internet Access](#mobile-internet-access) section).
