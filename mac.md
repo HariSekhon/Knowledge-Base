@@ -1066,11 +1066,17 @@ List all backups:
 tmutil listbackups
 ```
 
-### Restore a file from latest backup
-
 The latest one is at the bottom of the list as it's in date timestamp ascending order.
 
+### Restore a file from latest backup
+
 Save the latest one:
+
+```shell
+LATEST_BACKUP="$(tmutil latestbackup | tee /dev/stderr)"
+```
+
+or
 
 ```shell
 LATEST_BACKUP="$(tmutil listbackups | tail -n 1 | tee /dev/stderr)"
