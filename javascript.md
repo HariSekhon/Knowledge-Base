@@ -13,7 +13,8 @@ It's nothing to do with Java.
 - [Libraries](#libraries)
 - [Repos](#repos)
 - [Memes](#memes)
-  - [Javascript - The Good Parts](#javascript---the-good-parts)
+  - [JavaScript - The Good Parts](#javascript---the-good-parts)
+  - [JavaScript TypeScript Friends](#javascript-typescript-friends)
   - [Men Who Take Risks](#men-who-take-risks)
 
 <!-- INDEX_END -->
@@ -126,9 +127,13 @@ tsc --init
 
 ## Memes
 
-### Javascript - The Good Parts
+### JavaScript - The Good Parts
 
-![Javascript the Good Parts](images/javascript_the_good_parts.jpg)
+![JavaScript the Good Parts](images/javascript_the_good_parts.jpg)
+
+### JavaScript TypeScript Friends
+
+![JavaScript TypeScript Friends](images/javascript_typescript_are_you_two_friends.jpg)
 
 ### Men Who Take Risks
 
