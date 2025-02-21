@@ -14,6 +14,7 @@ Useful JSON tools:
     - [jq default value](#jq-default-value)
     - [jq find field anywhere in struct](#jq-find-field-anywhere-in-struct)
 - [jnv](#jnv)
+- [jgrep](#jgrep)
 - [Java Libraries](#java-libraries)
 - [Conversion](#conversion)
   - [XML to JSON](#xml-to-json)
@@ -108,6 +109,14 @@ jnv data.json
 `Ctrl`-`o` - copy the JSON to clipboard.
 
 [More Keyboard shortcuts](https://github.com/ynqa/jnv?tab=readme-ov-file#keymap).
+
+## jgrep
+
+JSON grep.
+
+[:octocat: ploubser/JSON-Grep](https://github.com/ploubser/JSON-Grep)
+
+<http://jgrep.org/>
 
 ## Java Libraries
 
