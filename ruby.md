@@ -264,7 +264,35 @@ gem install rubocop
 ```
 
 ```shell
+rubocop
+```
+
+Auto-correct the file(s) at your own peril:
+
+(make sure you `git commit` before running this to see the changes / revert)
+
+```shell
 rubocop -a
+```
+
+will annoyingly space all:
+
+```ruby
+#comment_out_code
+```
+
+lines to
+
+```ruby
+# comment_out_code
+```
+
+but where they are opening blocks it won't indent the block contents to stay aligned by 2 space indents:
+
+```ruby
+# lane :build do |options|
+#  puts "Building version #{options[:version]}"
+# end
 ```
 
 ## JRuby
