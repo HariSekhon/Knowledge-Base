@@ -27,6 +27,7 @@ is one of the few use cases for that).
   - [Flush Stdout Immediately](#flush-stdout-immediately)
   - [Native Regex Capture](#native-regex-capture)
   - [Readline Support - `rlwrap`](#readline-support---rlwrap)
+  - [Copy to Both Clipboard and Stdout simultaneously](#copy-to-both-clipboard-and-stdout-simultaneously)
 - [Debugging](#debugging)
   - [Shell executing tracing](#shell-executing-tracing)
   - [Fail on any error exit code](#fail-on-any-error-exit-code)
@@ -317,6 +318,18 @@ essentially giving you command history.
 
 This is usually available in the `rlwrap` package on [RHEL](redhat.md) and [Debian](debian.md)-based Linux systems
 and [brew](brew.md) on Mac.
+
+### Copy to Both Clipboard and Stdout simultaneously
+
+`tee` to both a command to copy to clipboard as well as stdout.
+
+Use `/dev/stdout` for further pipeline processing, not `/dev/tty`, as the latter outputs directly to the terminal.
+
+The `copy_to_clipboard.sh` script from [DevOps-Bash-tools](devops-bash-tools.md) works on both Linux and Mac:
+
+```shell
+echo test | tee >("copy_to_clipboard.sh") /dev/stdout
+```
 
 ## Debugging
 
