@@ -653,6 +653,9 @@ You will need your Google Translate camera app to translate the menu as they don
 
 ### Cambodia
 
+If you have limited time, just do Siem Reap and skip the capital Phnom Penh, it has far better venues
+and the Angkor Wat temple.
+
 #### Cambodia Visa
 
 You need an eVisa or you will have to queue for a $30 visa when you arrive.
@@ -763,6 +766,8 @@ Resort town with the Angkor Wat temple...
 _"You what mate?"_ Yeah this name confused me
 when I first heard it audibly by an English cockney I met at the airport and hung out with for a couple days.
 
+- [Jungle Burger Sports Bar and Bistro](https://maps.app.goo.gl/6zqh9xV8dqqn51HL7) - Excellent menu, stylish venue with bar, tables, memorabilia all over the walls, and sports on big TV screens.
+  Absolutely rammed at 7pm on a Saturday and for good reason. Wifi 45Mbit/s and plugs.
 - [Footprint Cafes](https://maps.app.goo.gl/DB2DMSPwX2mEpR1f9) - fast wifi, comfortable padded chairs, plugs, books,
   cool downstairs, perfect working place, wifi 80-90Mbit/s, juices are small and expensive at \$3.50, smoothies same
   price, but overall it's great, and has food at reasonable international prices.
