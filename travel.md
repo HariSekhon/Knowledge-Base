@@ -768,7 +768,8 @@ when I first heard it audibly by an English cockney I met at the airport and hun
 
 - [Jungle Burger Sports Bar and Bistro](https://maps.app.goo.gl/6zqh9xV8dqqn51HL7) - Excellent menu, stylish venue with bar, tables, memorabilia all over the walls, and sports on big TV screens.
   Absolutely rammed at 7pm on a Saturday and for good reason. Wifi 45Mbit/s and plugs.
-  I recommend the big Jungle Juice.
+  Burgers are obviously the speciality here, with thick dense high quality patty, absolutely stuffing.
+  I also recommend the big Jungle Juice.
   Open 7am - 10pm, great Breakfast burgers, and full English breakfast,
   which is the most expensive I've seen in Cambodia at \$7.99 but looks awesome
 - [Footprint Cafes](https://maps.app.goo.gl/DB2DMSPwX2mEpR1f9) - fast wifi, comfortable padded chairs, plugs, books,
