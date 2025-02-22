@@ -10,6 +10,7 @@ One of the original hosted CI/CD systems.
 - [UI App](#ui-app)
 - [CircleCI CLI](#circleci-cli)
 - [Master Config Template](#master-config-template)
+- [Validate Config](#validate-config)
 - [Configs in Public Repos](#configs-in-public-repos)
 - [Self-Hosted Runner on Kubernetes](#self-hosted-runner-on-kubernetes)
 - [CLI Usage](#cli-usage)
@@ -60,6 +61,12 @@ Copy to `.circleci/config.yml` in the root of a Git repo and edit:
 [HariSekhon/Templates - circleci-config.yml](https://github.com/HariSekhon/Templates/blob/master/circleci-config.yml)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
+
+## Validate Config
+
+```shell
+circleci config validate ./.circleci/config.yml
+```
 
 ## Configs in Public Repos
 
