@@ -68,6 +68,12 @@ Copy to `.circleci/config.yml` in the root of a Git repo and edit:
 circleci config validate ./.circleci/config.yml
 ```
 
+This script from [DevOps-Bash-tools](devops-bash-tools.md) validates all `.circleci/config.yml` files it finds in the tree:
+
+```shell
+check_circleci_config.sh
+```
+
 ## Configs in Public Repos
 
 Most of my public GitHub repos have a `.circleci/config.yml` file, eg:
