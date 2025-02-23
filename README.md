@@ -173,6 +173,7 @@ This one is used widely throughout these pages:
 - [Disk Management](disk.md)
 - [Logging](logging.md)
   - [Syslog-ng](syslog-ng.md)
+  - [RSyslog](rsyslog.md)
 
 ### Core Services - DNS, DHCP, SSH, FTP
 
