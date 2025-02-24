@@ -120,6 +120,12 @@ tsc --init
 - [:octocat: cure53/DOMPurify](https://github.com/cure53/DOMPurify) - sanitize HTML to avoid XSS attacks.
   You can see this used in my [TamperMonkey](tampermonkey.md) script
   [jira_description_autofill.js](https://github.com/HariSekhon/TamperMonkey/blob/main/jira_description_autofill.js).
+- [:octocat: https://github.com/highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) -
+  syntax highlighter
+  - <https://highlightjs.org/>
+  - online [Demo](https://highlightjs.org/demo)
+  - [NPM package - highlight.js](https://www.npmjs.com/package/highlight.js)
+  - [ReadTheDocs - HighlightJS](https://highlightjs.readthedocs.io/en/latest/readme.html)
 
 ## Repos
 
