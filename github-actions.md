@@ -25,6 +25,7 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
   - [Begin Workflow Jobs with an Environment Printing Step](#begin-workflow-jobs-with-an-environment-printing-step)
   - [Avoid putting Sensitive information such as Secrets in Global Environment Variables](#avoid-putting-sensitive-information-such-as-secrets-in-global-environment-variables)
   - [Look up GitHub Actions Contexts Fields and Environment Variables](#look-up-github-actions-contexts-fields-and-environment-variables)
+  - [Sparse Checkouts](#sparse-checkouts)
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
 - [Diagrams](#diagrams)
   - [GitHub Actions CI/CD to auto-(re)generate diagrams from code changes (Python)](#github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes-python)
@@ -239,20 +240,20 @@ NO:
 
 ```yaml
 - name: Save state
-run: echo "::save-state name={name}::{value}"
+  run: echo "::save-state name={name}::{value}"
 
 - name: Set output
-run: echo "::set-output name={name}::{value}"
+  run: echo "::set-output name={name}::{value}"
 ```
 
 Yes:
 
 ```yaml
 - name: Save state
-run: echo "{name}={value}" >> "$GITHUB_STATE"
+  run: echo "{name}={value}" >> "$GITHUB_STATE"
 
 - name: Set output
-run: echo "{name}={value}" >> "$GITHUB_OUTPUT"
+  run: echo "{name}={value}" >> "$GITHUB_OUTPUT"
 ```
 
 Documentation:
@@ -337,6 +338,25 @@ so this is useful to see what is actually available and what the field contents 
 
 The context fields changes for different trigger types such as `Push` vs manually triggered `Workflow Dispatch`,
 see the badge in the README and click the different types to compare.
+
+### Sparse Checkouts
+
+If you are working with a big repo, such as in monorepos,
+and only need the workflow to operate on a subset of the directory tree, then you may want to sparse checkout instead
+for efficiency:
+
+```yaml
+uses: actions/checkout@v4
+with:
+  ref: "master"
+  sparse-checkout: |
+    charts
+  sparse-checkout-cone-mode: false  # false = patterns, true = literal directories
+```
+
+For more details, read:
+
+<https://git-scm.com/docs/git-sparse-checkout>
 
 ## GitHub Actions vs Jenkins
 
