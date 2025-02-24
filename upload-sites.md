@@ -18,6 +18,7 @@ Also check the sites rights to your keep and redistribute your content permanent
   - [Pasty](#pasty)
   - [Hastebin](#hastebin)
   - [Paste.ee](#pasteee)
+  - [Highlight.js](#highlightjs)
   - [GitHub Gists](#github-gists)
 - [File Upload Sites](#file-upload-sites)
   - [0x0.st](#0x0st)
@@ -158,6 +159,17 @@ Requires API key:
 ```json
 {"status":"error","errorcode":3,"error":"error_invalid_key"}
 ```
+
+### Highlight.js
+
+<https://highlightjs.org/demo>
+
+Syntax highlighting site for 192 languages with automatic language detection.
+
+Do not use it as a CDN, they will block it as you can see on this page when you try to click a link through to it from
+Stack Overflow:
+
+<https://highlightjs.org/not-a-cdn>
 
 ### GitHub Gists
 
