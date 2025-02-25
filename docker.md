@@ -42,7 +42,8 @@ Lightweight application containers containing app + all dependencies.
   - [DNS Issues](#dns-issues)
   - [Elasticsearch 5.0 Docker error](#elasticsearch-50-docker-error)
   - [Slow `COPY` during build on Windows](#slow-copy-during-build-on-windows)
-- [Meme](#meme)
+- [Memes](#memes)
+  - [How Docker Was Born](#how-docker-was-born)
   - [Using Docker](#using-docker)
 
 <!-- INDEX_END -->
@@ -564,7 +565,11 @@ If the above is taking a disproportionate amount of time, try disabling the anti
 
 For example, adding this exclusion in Semantec anti-virus resulted in a build going from timing out after 2 hours to 2 minutes in Azure DevOps Pipelines on Windows - a shocking performance difference.
 
-## Meme
+## Memes
+
+### How Docker Was Born
+
+![How Docker Was Born](images/how_docker_was_born.jpeg)
 
 ### Using Docker
 
