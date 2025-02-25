@@ -377,6 +377,7 @@ This one is used widely throughout these pages:
   - [Grype](grype.md)
 - [Code Quality](code-quality.md)
 - [SonarQube](sonarqube.md)
+- [SonarCloud](sonarcloud.md)
 - [CodeClimate](codeclimate.md)
 - [Codefresh](codefresh.md)
 
