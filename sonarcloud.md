@@ -5,7 +5,7 @@ Cloud hosted version of [SonarQube](sonarqube.md).
 <!-- INDEX_START -->
 
 - [SonarCloud Config](#sonarcloud-config)
-- [Generate an IntelliJ config for SonarLint plugin](#generate-an-intellij-config-for-sonarlint-plugin)
+- [Generate config for the IntelliJ SonarLint plugin](#generate-config-for-the-intellij-sonarlint-plugin)
 
 <!-- INDEX_END -->
 
@@ -43,7 +43,7 @@ sonar.sourceEncoding=UTF-8
 sonar.exclusions=**/zookeeper-*/**/*
 ```
 
-## Generate an IntelliJ config for SonarLint plugin
+## Generate config for the IntelliJ SonarLint plugin
 
 Instead of clicking through the [IntelliJ](intellij.md) UI to configure the SonarLint plugin,
 you can run this script from [DevOps-Bash-tools](devops-bash-tools.md) to generate the same config:
