@@ -314,6 +314,9 @@ idea installPlugins \
   org.sonarlint.idea  # use with SonarQube / SonarCloud
 ```
 
+See [SonarCloud](sonarcloud.md) doc to generate `sonar-project.properties ` and
+`.sonarlint/connectedMode.json` configs.
+
 ### Optional - Nice to Haves
 
 - [IDEA Features Trainer](https://plugins.jetbrains.com/plugin/8554-ide-features-trainer) - teaches you the IDE
