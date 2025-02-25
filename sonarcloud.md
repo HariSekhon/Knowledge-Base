@@ -45,20 +45,11 @@ sonar.exclusions=**/zookeeper-*/**/*
 
 ## Generate an IntelliJ config for SonarLint plugin
 
-From the above config you can easily generate the [IntelliJ](intellij.md) SonarLint plugin connected config like this:
+Instead of clicking through the [IntelliJ](intellij.md) UI to configure the SonarLint plugin,
+you can run this script from [DevOps-Bash-tools](devops-bash-tools.md) to generate the same config:
 
 ```shell
-org="$(awk -F= '/^[[:space:]]*sonar.organization/{print $2}' sonar-project.properties | sed 's/[[:space:]]//g')"
-project_key="$(awk -F= '/^[[:space:]]*sonar.projectKey/{print $2}' sonar-project.properties | sed 's/[[:space:]]//g')"
-
-mkdir -p -v .sonarlint
-
-cat << EOF > .sonarlint/connectedMode.json
-{
-    "sonarCloudOrganization": "$org",
-    "projectKey": "$project_key"
-}
-EOF
-
-cat .sonarlint/connectedMode.json
+sonarlint_generate_config.sh
 ```
+
+Combine with `git_foreach_repo.sh` to iterate through all your git checkouts to generate it for them.
