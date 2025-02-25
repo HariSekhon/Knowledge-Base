@@ -9,7 +9,7 @@
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/commits/master)
 
 [![Codacy](https://app.codacy.com/project/badge/Grade/242849a282a646e09672da8b25085654)](https://app.codacy.com/gh/HariSekhon/Knowledge-Base/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/devops-bash-tools/badge)](https://www.codefactor.io/repository/github/harisekhon/devops-bash-tools)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/knowledge-base/badge)](https://www.codefactor.io/repository/github/harisekhon/knowledge-base)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Knowledge-Base&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Knowledge-Base)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Knowledge-Base&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Knowledge-Base)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Knowledge-Base&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Knowledge-Base)
