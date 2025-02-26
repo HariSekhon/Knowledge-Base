@@ -1111,7 +1111,8 @@ Expect to lose the day travelling to Laos even if you're coming from a nearby co
   The sticky toffee pudding was loaded with creamy on top and a biscuit base
 - [Maysa Cafe](https://maps.app.goo.gl/ju2jqTJorbtzFPCJ7) - good prices, fast wifi.
   The meals like seafood noodles and seafood holy basil are great and only 50,000 kip. Closes at 5pm unfortunately
-- [Nuan](https://maps.app.goo.gl/rbBYKXNAC5AY9Xho8) - good prices and menu, 75Mbit/s fast wifi
+- [Nuan](https://maps.app.goo.gl/rbBYKXNAC5AY9Xho8) - good food, prices and menu, 75Mbit/s fast wifi,
+  but not comfortable metal chairs
 - [Khop Chai Deu](https://maps.app.goo.gl/1NJqQyrSRegyFKZF7) - bar restaurant with both indoor and outdoor seating,
   open a bit later than other places until 11:30pm.
   The wedges with chilli garlic pepper are very good,
