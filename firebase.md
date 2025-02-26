@@ -91,6 +91,10 @@ but commands will work. List projects to prove it.
 firebase projects:list
 ```
 
+```shell
+firebase projects:list --json
+```
+
 See also from [DevOps-Bash-tools](devops-bash-tools.md):
 
 ```shell
@@ -128,6 +132,10 @@ or if you've set up the project config defaults above:
 
 ```shell
 firebase apps:list
+```
+
+```shell
+firebase apps:list --json
 ```
 
 ### Firebase App Distribution Upload
