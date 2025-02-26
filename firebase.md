@@ -7,6 +7,8 @@
   - [Firebase Login](#firebase-login)
   - [Firebase Google Application Credentials](#firebase-google-application-credentials)
   - [List Projects](#list-projects)
+  - [Configure Default Project](#configure-default-project)
+  - [List Apps](#list-apps)
   - [Firebase App Distribution Upload](#firebase-app-distribution-upload)
 
 <!-- INDEX_END -->
@@ -87,6 +89,45 @@ but commands will work. List projects to prove it.
 
 ```shell
 firebase projects:list
+```
+
+See also from [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+firebase_foreach_project.sh
+```
+
+### Configure Default Project
+
+To avoid having to specify the `--project` arg to `firebase apps:list` each time...
+
+Requires both the `.firebaserc` file and the `GOOGLE_PROJECT` environment variable to be set:
+
+`.firebaserc`:
+
+```json
+{
+  "projects": {
+    "default": "myproject",
+    "myenv": "myproject"
+  }
+}
+```
+
+```shell
+export GOOGLE_PROJECT="myproject"
+```
+
+### List Apps
+
+```shell
+firebase apps:list --project "myproject"
+```
+
+or if you've set up the project config defaults above:
+
+```shell
+firebase apps:list
 ```
 
 ### Firebase App Distribution Upload
