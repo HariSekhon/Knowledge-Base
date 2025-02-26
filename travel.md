@@ -88,6 +88,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Venice](#venice)
   - [Moldova](#moldova)
     - [Chisinau](#chisinau)
+  - [Laos](#laos)
+    - [Vientiane](#vientiane)
   - [Latvia](#latvia)
     - [Riga](#riga)
   - [Lithuania](#lithuania)
@@ -1096,6 +1098,41 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
   For non-alcoholics with a sweet tooth the local Compot fruit juice drink is recommended,
   I had 3 of them and was probably well over my sugar intake a result.
   Regarding, steak on a price trade off I'd probably try one of the other steak places next time.
+
+### Laos
+
+$40 for a visa on arrival, and long queues.
+Expect to lose the day travelling to Laos even if you're coming from a nearby country like Cambodia.
+
+#### Vientiane
+
+- [525 Eat & Drink](https://maps.app.goo.gl/qioyRpu9E5vMFzME6) - upmarket restaurant and bar, not cheap, but great
+  quality, the Seafood pasta was the best I've had in years.
+  The sticky toffee pudding was loaded with creamy on top and a biscuit base
+- [Maysa Cafe](https://maps.app.goo.gl/ju2jqTJorbtzFPCJ7) - good prices, fast wifi.
+  The meals like seafood noodles and seafood holy basil are great and only 50,000 kip. Closes at 5pm unfortunately
+- [Nuan](https://maps.app.goo.gl/rbBYKXNAC5AY9Xho8) - good prices and menu, 75Mbit/s fast wifi
+- [Khop Chai Deu](https://maps.app.goo.gl/1NJqQyrSRegyFKZF7) - bar restaurant with both indoor and outdoor seating,
+  open a bit later than other places until 11:30pm.
+  The wedges with chilli garlic pepper are very good,
+  grilled Lao beef with great spicy chilli dip, although the beef wasn't as good the second time around I had this,
+  orange juice is good but half a wine glass, had to order 3 of them.
+  Slow 3Mbit/s WiFi don’t try to work here.
+  Moderately expensive, I paid $17 for an evening meal with OJs.
+  Taro in coconut milk dessert probably wasn’t worth it
+- [The State of Pasta](https://maps.app.goo.gl/nvBCkmMACSJJDWhB8) - closed on Wednesdays
+- [Tango Pub Bar Restaurant](https://maps.app.goo.gl/mckJunysGY3fuXR4A) - closed on Wednesdays
+- [Common Grounds Cafe & Bakery](https://maps.app.goo.gl/g8KHsoJ4CVp69jHD7) - $3 juice isn't big,
+  but the Wifi is fast 80Mbit/s
+- [Chokdee Café Belgian Beer Bar](https://maps.app.goo.gl/Phviu88WdaZz7G4z7) - selection of beers but not much choice
+  for non-alcoholic.
+  The Belgian fries were ok.
+  Has food but used more as a drinking place than a food place.
+  Wifi is slow at only 11Mbit/s
+- [Naked Espresso Misay](https://maps.app.goo.gl/XZMpHLWDknPDpmbz9) - pricey and closes at 6pm, but
+- [Café Sinouk Khemkhong](https://maps.app.goo.gl/9nY1cVa3yusjC4Rf9) - mediocre 35mbit/s wifi
+- [Go Dunk](https://maps.app.goo.gl/DumQjpf88LN26HBp7) - bar with extremely loud live music, open until midnight,
+  exclusively a young local crowd, 40Mbit/s wifi but you won't get any work done here
 
 ### Latvia
 
