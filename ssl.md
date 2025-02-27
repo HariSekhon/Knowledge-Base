@@ -19,6 +19,7 @@ TODO: not ported yet
   - [Check the Private Key Encoding](#check-the-private-key-encoding)
   - [Check the Chain Certificate Encoding](#check-the-chain-certificate-encoding)
 - [Correct Base64 Padding](#correct-base64-padding)
+- [JKS - Java Key Store](#jks---java-key-store)
 - [Troubleshooting](#troubleshooting)
   - [Error outputting keys and certificates](#error-outputting-keys-and-certificates)
 
@@ -226,6 +227,57 @@ grep -v -- "-----" "$name-privatekey.pem" | base64 --decode | base64 > "$name-pr
 
 ```shell
 grep -v -- "-----" "$chain.pem" | base64 --decode | base64 > "$chain-fixed.pem"
+```
+
+## JKS - Java Key Store
+
+List keystore entries:
+
+```shell
+keytool -list -keystore "$JKS_NAME".jks -storepass "$JKS_PASSWORD"
+```
+
+List keystore entries with detailed info:
+
+```shell
+keytool -list -v -keystore "$JKS_NAME".jks -storepass "$JKS_PASSWORD"
+```
+
+List a specific alias:
+
+```shell
+keytool -list -v -keystore "$JKS_NAME".jks -alias "$JKS_KEY_ALIAS" -storepass "$JKS_PASSWORD"
+```
+
+Check the certificate chain in RFC (PEM) format:
+
+```shell
+keytool -list -rfc -keystore "$JKS_NAME".jks -storepass "$JKS_PASSWORD"
+```
+
+Export the cert:
+
+```shell
+keytool -export -alias "$JKS_KEY_ALIAS" -keystore "$JKS_NAME".jks -storepass "$JKS_PASSWORD" -file "$JKS_NAME"_cert.cer
+```
+
+View the extracted certificate:
+
+```shell
+openssl x509 -in "$JKS_NAME"_cert.cer -text -noout
+```
+
+Convert JKS to PKCS12
+
+```shell
+keytool -importkeystore -srckeystore "$JKS_NAME".jks -destkeystore "$JKS_NAME".p12 -deststoretype PKCS12 -srcstorrcalias "$JKS_KEY_ALIAS" -srckeypass "$JKS_KEY_PASSWORD"
+```
+
+Different store and key passwords are not supported for p12 stores
+so `-destkeypass` is not needed and would be ignored with this warning:
+
+```text
+Warning:  Different store and key passwords not supported for PKCS12 KeyStores. Ignoring user-specified -destkeypass value.
 ```
 
 ## Troubleshooting
