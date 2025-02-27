@@ -1,6 +1,6 @@
 # SDKman
 
-SDK Manager installs and manages multiple versions od JDKs .
+SDK Manager installs and manages multiple versions of JDKs.
 
 Originally it was just for JDK languages and their main build systems,
 but has in recent years extended to a wider list of support technologies:
