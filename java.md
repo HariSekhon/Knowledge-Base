@@ -8,6 +8,7 @@ NOT PORTED YET.
 - [SDKman - Install and Manage Multiple Versions of Java at the same time](#sdkman---install-and-manage-multiple-versions-of-java-at-the-same-time)
 - [Show Java Classpath](#show-java-classpath)
 - [Inspect JAR contents](#inspect-jar-contents)
+- [JKS - Java Key Store (SSL)](#jks---java-key-store-ssl)
 - [Java Decompilers](#java-decompilers)
 - [Libraries](#libraries)
 - [JShell](#jshell)
@@ -79,6 +80,10 @@ tar tvf mysql-connector-j-*.jar
 
 The directory layout of the class files corresponds to the class hierarchy eg.
 is accessed as `com.mysql.jdbc.Driver` in Java code.
+
+## JKS - Java Key Store (SSL)
+
+See [SSL](ssl.md) doc.
 
 ## Java Decompilers
 
