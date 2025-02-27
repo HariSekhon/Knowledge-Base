@@ -1082,10 +1082,31 @@ or
 LATEST_BACKUP="$(tmutil listbackups | tail -n 1 | tee /dev/stderr)"
 ```
 
+Sometimes this will print a path like this that doesn't exist:
+
+```text
+/Volumes/.timemachine/12A345B6-7CDE-8FA9-0B1C-2D34567EF890/1234-56-78-901234/2025-02-21-012346.backup/2025-02-21-012346.backup
+```
+
+when in fact it would be:
+
+```text
+$BACKUP_MOUNTPOINT/2025-02-21-012346.backup
+```
+
+So check the path and try different variations for the `LATEST_BACKUP` path.
+
 Restore a file:
 
 ```shell
 tmutil restore "$LATEST_BACKUP/Data/$PWD/$filename" "$PWD/$filename"
+```
+
+To handle these variations and test the backups for the latest version which has it,
+from [DevOps-Bash-tools](devops-bash-tools.md):
+
+```text
+mac_restore_file.sh "$filename"
 ```
 
 ## Troubleshooting
