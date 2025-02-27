@@ -280,6 +280,12 @@ so `-destkeypass` is not needed and would be ignored with this warning:
 Warning:  Different store and key passwords not supported for PKCS12 KeyStores. Ignoring user-specified -destkeypass value.
 ```
 
+Inspect the p12:
+
+```shell
+openssl pkcs12 -info -in "$JKS_NAME".p12 -passin env:JKS_PASSWORD -passout env:JKS_PASSWORD
+```
+
 ## Troubleshooting
 
 ### Error outputting keys and certificates
