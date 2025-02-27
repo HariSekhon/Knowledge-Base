@@ -1121,8 +1121,9 @@ Expect to lose the day travelling to Laos even if you're coming from a nearby co
   Slow 3Mbit/s WiFi don’t try to work here.
   Moderately expensive, I paid $17 for an evening meal with OJs.
   Taro in coconut milk dessert probably wasn’t worth it
-- [The State of Pasta](https://maps.app.goo.gl/nvBCkmMACSJJDWhB8) - good quality pasta place, internationally priced as
-  it caters to foreigners. Al Dente is very firm here. Doesn't have much in the way of a juice selection.
+- [The State of Pasta](https://maps.app.goo.gl/nvBCkmMACSJJDWhB8) - good quality bologneses with parmesan,
+  internationally priced as it caters to foreigners. Al Dente is very firm here.
+  Doesn't have much in the way of a juice selection.
   Closed on Wednesdays
 - [Tango Pub Bar Restaurant](https://maps.app.goo.gl/mckJunysGY3fuXR4A) - closed on Wednesdays
 - [Common Grounds Cafe & Bakery](https://maps.app.goo.gl/g8KHsoJ4CVp69jHD7) - $3 juice isn't big,
