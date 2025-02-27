@@ -23,8 +23,11 @@ but has in recent years extended to a wider list of support technologies:
   - [Install another SDK version](#install-another-sdk-version)
   - [Switch to use another SDK Version](#switch-to-use-another-sdk-version)
   - [List all the selected SDKs](#list-all-the-selected-sdks)
+  - [List the Version of a Specific SDK](#list-the-version-of-a-specific-sdk)
   - [Delete a version of Java JDK installed](#delete-a-version-of-java-jdk-installed)
   - [Clean up temp space](#clean-up-temp-space)
+- [Troubleshooting](#troubleshooting)
+  - [Internet Not Reachable despite being online](#internet-not-reachable-despite-being-online)
 
 <!-- INDEX_END -->
 
@@ -180,4 +183,70 @@ Output:
        9 archive(s) flushed, freeing 619M       /Users/hari/.sdkman/archives.
       20 archive(s) flushed, freeing 104K       /Users/hari/.sdkman/tmp.
        9 archive(s) flushed, freeing  48K       /Users/hari/.sdkman/var/metadata.
+```
+
+## Troubleshooting
+
+### Internet Not Reachable despite being online
+
+If you get this error:
+
+```text
+$ sdk list
+==== INTERNET NOT REACHABLE! ===================================================
+
+ Some functionality is disabled or only partially available.
+ If this persists, please enable the offline mode:
+
+   $ sdk offline
+
+================================================================================
+
+This command is not available while offline.
+```
+
+Check your connection like this:
+
+```shell
+curl -I https://api.sdkman.io/2/healthcheck
+```
+
+```text
+HTTP/1.1 200 OK
+Server: nginx/1.19.10
+Date: Thu, 27 Feb 2025 08:02:39 GMT
+Content-Type: application/octet-stream
+Content-Length: 24
+Connection: keep-alive
+Content-Type: text/plain
+```
+
+Check if SDKman can fetch the list manually:
+
+```text
+curl -s https://api.sdkman.io/2/candidates/all
+```
+
+```text
+activemq,ant,asciidoctorj,ballerina,bld,bpipe,btrace,concurnas,connor,coursier,cuba,cxf,detekt,doctoolchain,flink,gaiden,gcn,grace,gradle,gradleprofiler,grails,groovy,groovyserv,hadoop,helidon,hsc,http4k,infrastructor,jarviz,java,jbake,jbang,jetty,jextract,jikkou,jmc,jmeter,joern,jreleaser,karaf,kcctl,ki,kobweb,kotlin,kscript,ktx,layrry,leiningen,liquibase,maven,mcs,micronaut,mulefd,mvnd,mybatis,neo4jmigrations,pierrot,pomchecker,quarkus,sbt,scala,scalacli,schemacrawler,skeletal,spark,springboot,sshoogr,taxi,test,tomcat,toolkit,vertx,visualvm,webtau,znai
+```
+
+Clear SDKman cache and then retry `sdk list`:
+
+```shell
+sdk flush candidates
+rm -rf ~/.sdkman/var
+sdk list
+```
+
+If all else fails:
+
+```shell
+rm -fr ~/.sdkman
+```
+
+and then re-install:
+
+```shell
+curl -s "https://get.sdkman.io" | bash
 ```
