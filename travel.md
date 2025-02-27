@@ -1110,7 +1110,8 @@ Expect to lose the day travelling to Laos even if you're coming from a nearby co
   are streetfood restaurant huts opposite by the water fountains,
   but they are a bit pricier than they should be, restaurants like Nuan below are better priced
 - [525 Eat & Drink](https://maps.app.goo.gl/qioyRpu9E5vMFzME6) - upmarket restaurant and bar, not cheap, but great
-  quality, the Seafood pasta was the best I've had in years.
+  quality, the Seafood pasta was the best I've had in years, even better than The State of Pasta below.
+  Great date night with dim lighting, great outdoor seating, an inside dining and separate bar area.
   The sticky toffee pudding was loaded with creamy on top and a biscuit base
 - [Maysa Cafe](https://maps.app.goo.gl/ju2jqTJorbtzFPCJ7) - good prices, fast wifi.
   The meals like seafood noodles and seafood holy basil are great and only 50,000 kip. Closes at 5pm unfortunately
