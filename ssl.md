@@ -20,6 +20,8 @@ TODO: not ported yet
   - [Check the Chain Certificate Encoding](#check-the-chain-certificate-encoding)
 - [Correct Base64 Padding](#correct-base64-padding)
 - [JKS - Java Key Store](#jks---java-key-store)
+  - [Inspect Java Key Store](#inspect-java-key-store)
+  - [Convert JKS to PKCS12](#convert-jks-to-pkcs12)
 - [Troubleshooting](#troubleshooting)
   - [Error outputting keys and certificates](#error-outputting-keys-and-certificates)
 
@@ -231,6 +233,8 @@ grep -v -- "-----" "$chain.pem" | base64 --decode | base64 > "$chain-fixed.pem"
 
 ## JKS - Java Key Store
 
+### Inspect Java Key Store
+
 List keystore entries:
 
 ```shell
@@ -267,7 +271,7 @@ View the extracted certificate:
 openssl x509 -in "$JKS_NAME"_cert.cer -text -noout
 ```
 
-Convert JKS to PKCS12
+### Convert JKS to PKCS12
 
 ```shell
 keytool -importkeystore -srckeystore "$JKS_NAME".jks -destkeystore "$JKS_NAME".p12 -deststoretype PKCS12 -srcstorrcalias "$JKS_KEY_ALIAS" -srckeypass "$JKS_KEY_PASSWORD"
