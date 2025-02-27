@@ -1112,7 +1112,8 @@ Expect to lose the day travelling to Laos even if you're coming from a nearby co
 - [525 Eat & Drink](https://maps.app.goo.gl/qioyRpu9E5vMFzME6) - upmarket restaurant and bar, not cheap, but great
   quality, the Seafood pasta was the best I've had in years, even better than The State of Pasta below.
   Great date night with dim lighting, great outdoor seating, an inside dining and separate bar area.
-  The sticky toffee pudding was loaded with creamy on top and a biscuit base
+  Only 20Mbit/s wifi but then you shouldn't be digital nomadding from such a great venue!
+  The banoffee pie was loaded with a large cream top and a biscuit base
 - [Maysa Cafe](https://maps.app.goo.gl/ju2jqTJorbtzFPCJ7) - good prices, fast wifi.
   The meals like seafood noodles and seafood holy basil are great and only 50,000 kip. Closes at 5pm unfortunately
 - [Nuan](https://maps.app.goo.gl/rbBYKXNAC5AY9Xho8) - good food, prices and menu, 75Mbit/s fast wifi,
