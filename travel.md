@@ -1123,7 +1123,7 @@ Expect to lose the day travelling to Laos even if you're coming from a nearby co
   Taro in coconut milk dessert probably wasn’t worth it
 - [The State of Pasta](https://maps.app.goo.gl/nvBCkmMACSJJDWhB8) - good quality bologneses with parmesan,
   internationally priced as it caters to foreigners. Al Dente is very firm here.
-  Doesn't have much in the way of a juice selection.
+  Doesn't have much in the way of a juice selection. Wifi is 37Mbit/s.
   Closed on Wednesdays
 - [Tango Pub Bar Restaurant](https://maps.app.goo.gl/mckJunysGY3fuXR4A) - closed on Wednesdays
 - [Common Grounds Cafe & Bakery](https://maps.app.goo.gl/g8KHsoJ4CVp69jHD7) - $3 juice isn't big,
