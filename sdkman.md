@@ -28,6 +28,7 @@ but has in recent years extended to a wider list of support technologies:
   - [Clean up temp space](#clean-up-temp-space)
 - [Troubleshooting](#troubleshooting)
   - [Internet Not Reachable despite being online](#internet-not-reachable-despite-being-online)
+  - [Can't Find Java Version to Install That is Clearly There](#cant-find-java-version-to-install-that-is-clearly-there)
 
 <!-- INDEX_END -->
 
@@ -250,3 +251,32 @@ and then re-install:
 ```shell
 curl -s "https://get.sdkman.io" | bash
 ```
+
+### Can't Find Java Version to Install That is Clearly There
+
+```shell
+sdk current
+```
+
+```text
+Using:
+
+java: 21.0.6-tem
+```
+
+```shell
+sdk install java 21.0.6-tem
+```
+
+```text
+Stop! java 21.0.6-tem is not available. Possible causes:
+ * is an invalid version
+ * java 21.0.6-tem binaries are incompatible with your platform
+ * java 21.0.6-tem has not been released yet
+
+Tip: see all available versions for your platform:
+
+  $ sdk list java 21.0.6-tem
+```
+
+Launch a new shell - it is a state problem with SDKman.
