@@ -15,6 +15,7 @@ Good replacement for [Maven](maven.md).
 - [VersionEye](#versioneye)
 - [Gradle Wrapper](#gradle-wrapper)
 - [build.gradle](#buildgradle)
+  - [Specifying Java version](#specifying-java-version)
 
 <!-- INDEX_END -->
 
@@ -214,6 +215,19 @@ Show tree graph of dependencies for different stages, test:
 
 ```shell
 gradle dependencies
+```
+
+### Specifying Java version
+
+```groovy
+compileOptions {
+    sourceCompatibility JavaVersion.VERSION_21
+    targetCompatibility JavaVersion.VERSION_21
+}
+
+kotlinOptions {
+    jvmTarget = '21'
+}
 ```
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
