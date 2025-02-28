@@ -23,14 +23,14 @@ on:  # yamllint disable-line rule:truthy
     branches:
       - master
       - main
-    paths-ignore:
-      - '**/*.md'
+    #paths-ignore:
+    #  - '**/*.md'
   pull_request:
     branches:
       - master
       - main
-    paths-ignore:
-      - '**/*.md'
+    #paths-ignore:
+    #  - '**/*.md'
   workflow_dispatch:
 
 permissions:
