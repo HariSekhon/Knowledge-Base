@@ -11,6 +11,7 @@ NOT PORTED YET.
 - [JKS - Java Key Store (SSL)](#jks---java-key-store-ssl)
 - [Java Decompilers](#java-decompilers)
 - [Libraries](#libraries)
+  - [JitPack.io](#jitpackio)
 - [JShell](#jshell)
 - [JBang](#jbang)
   - [JBang CLI](#jbang-cli)
@@ -120,6 +121,16 @@ procyon.sh "$jar_or_class_file"
 Some libraries of interest:
 
 - [Faker](https://github.com/DiUS/java-faker) - generates fake but realistic data for unit testing
+
+### JitPack.io
+
+<https://jitpack.io/>
+
+<https://docs.jitpack.io/>
+
+Package repo for JVM and Android projects.
+
+Builds Git projects on demand and provides ready-to-use artifacts (jar, aar).
 
 ## JShell
 
