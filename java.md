@@ -147,6 +147,30 @@ Package repo for JVM and Android projects.
 
 Builds Git projects on demand and provides ready-to-use artifacts (jar, aar).
 
+To check if a Jitpack dependency target is valid:
+
+```shell
+GITHUB_REPO="markomilos/paginate"
+VERSION="v1.0.0"
+```
+
+```shell
+curl -IsSLf "https://jitpack.io/com/github/$GITHUB_REPO/$VERSION/${GITHUB_REPO##*/}-$VERSION.jar"
+
+```
+
+For an Android dependency, check for the `.aar` artifact instead of `.jar`
+
+```shell
+curl -IsSLf "https://jitpack.io/com/github/$GITHUB_REPO/$VERSION/${GITHUB_REPO##*/}-$VERSION.aar"
+```
+
+Check build log to show what was built by JitPack:
+
+```shell
+curl "https://jitpack.io/com/github/$GITHUB_REPO/$VERSION/" && echo
+```
+
 ## JShell
 
 Command line or interactive Java Shell.
