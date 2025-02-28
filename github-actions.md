@@ -7,9 +7,6 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 
 - [Key Points](#key-points)
   - [Limitations](#limitations)
-  - [Reusable Workflow Updates Lifecycle](#reusable-workflow-updates-lifecycle)
-    - [Trunk-based changes automatically inherited by calling workflows](#trunk-based-changes-automatically-inherited-by-calling-workflows)
-    - [GitHub Tagged workflows imported by calling workflows](#github-tagged-workflows-imported-by-calling-workflows)
 - [GitHub Actions Marketplace](#github-actions-marketplace)
 - [Mac Runner Versions vs XCode versions](#mac-runner-versions-vs-xcode-versions)
 - [GitHub Actions Best Practices](#github-actions-best-practices)
@@ -29,6 +26,9 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
   - [Avoid putting Sensitive information such as Secrets in Global Environment Variables](#avoid-putting-sensitive-information-such-as-secrets-in-global-environment-variables)
   - [Look up GitHub Actions Contexts Fields and Environment Variables](#look-up-github-actions-contexts-fields-and-environment-variables)
   - [Sparse Checkouts](#sparse-checkouts)
+  - [Reusable Workflow Updates Lifecycle](#reusable-workflow-updates-lifecycle)
+    - [Trunk-based changes automatically inherited by calling workflows](#trunk-based-changes-automatically-inherited-by-calling-workflows)
+    - [GitHub Tagged workflows imported by calling workflows](#github-tagged-workflows-imported-by-calling-workflows)
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
 - [Diagrams](#diagrams)
   - [GitHub Actions CI/CD to auto-(re)generate diagrams from code changes (Python)](#github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes-python)
@@ -62,55 +62,6 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 - can't use environment variables in GitHub Actions `with:` inputs to imported actions/workflows
 - can't export environment variables to GitHub Actions / Reusable Workflows
 - Secrets must be passed explicitly via `${ secrets.<name> }`
-
-### Reusable Workflow Updates Lifecycle
-
-When making changes and updates to GitHub reusable workflows, this can be handled in two ways.
-
-#### Trunk-based changes automatically inherited by calling workflows
-
-Calling workflows import reusable workflows directly from branch eg.
-
-```yaml
-uses: HarSekhon/GitHub-Actions/.github/workflows/mobile-ios-fastlane.yaml@main
-```
-
-When updates are merged to trunk all calling workflows automatically receive the updates.
-
-This is risky in that if you change any input parameters it will break production client workflows.
-
-There is no nice way to stagger releases of major changes.
-
-They must be simultaneously coordinated across all client workflows.
-
-Breaking changes to a reusable workflow need to be coordinated by finding all production calling workflows and updating
-their input parameters to match, and then merge everything across all repos at the same time.
-
-One hacky workaround that has been done is forking a reusable workflow file to another file and make updates there,
-and then updating client workflows to call that different workflow file to get the updates. Needless to say, that sucks.
-
-#### GitHub Tagged workflows imported by calling workflows
-
-Calling workflows import reusable workflows using a fixed git tag eg.
-
-```yaml
-uses: HariSekhon/GitHub-Actions/.github/workflows/mobile-ios-fastlane.yaml@fastlane-1.0.0
-```
-
-GitHub workflow updates are merged to the trunk branch (`main` or `master`) and then git tagged.
-
-This is preferred to pin calling client workflows to these tags because it means that even breaking changes to the
-reusable workflow will not impact existing production workflows which will still be using the previous tag.
-
-Production calling workflows have to be updated to explicitly call the newer tag, and this can be staggered and tested
-one by one, at leisure when they want to receive the improvements and verifying that their input parameters match any
-updates to the reusable workflow.
-
-The drawback is that this adds an extra step to receive updates / improvements.
-
-One must find all calling workflows and manually commit `@<tag>` updates to each of them to import the newer workflow.
-
-This is still the preferred method as it is more production-robust.
 
 ## GitHub Actions Marketplace
 
@@ -409,6 +360,55 @@ with:
 For more details, read:
 
 <https://git-scm.com/docs/git-sparse-checkout>
+
+### Reusable Workflow Updates Lifecycle
+
+When making changes and updates to GitHub reusable workflows, this can be handled in two ways.
+
+#### Trunk-based changes automatically inherited by calling workflows
+
+Calling workflows import reusable workflows directly from branch eg.
+
+```yaml
+uses: HarSekhon/GitHub-Actions/.github/workflows/mobile-ios-fastlane.yaml@main
+```
+
+When updates are merged to trunk all calling workflows automatically receive the updates.
+
+This is risky in that if you change any input parameters it will break production client workflows.
+
+There is no nice way to stagger releases of major changes.
+
+They must be simultaneously coordinated across all client workflows.
+
+Breaking changes to a reusable workflow need to be coordinated by finding all production calling workflows and updating
+their input parameters to match, and then merge everything across all repos at the same time.
+
+One hacky workaround that has been done is forking a reusable workflow file to another file and make updates there,
+and then updating client workflows to call that different workflow file to get the updates. Needless to say, that sucks.
+
+#### GitHub Tagged workflows imported by calling workflows
+
+Calling workflows import reusable workflows using a fixed git tag eg.
+
+```yaml
+uses: HariSekhon/GitHub-Actions/.github/workflows/mobile-ios-fastlane.yaml@fastlane-1.0.0
+```
+
+GitHub workflow updates are merged to the trunk branch (`main` or `master`) and then git tagged.
+
+This is preferred to pin calling client workflows to these tags because it means that even breaking changes to the
+reusable workflow will not impact existing production workflows which will still be using the previous tag.
+
+Production calling workflows have to be updated to explicitly call the newer tag, and this can be staggered and tested
+one by one, at leisure when they want to receive the improvements and verifying that their input parameters match any
+updates to the reusable workflow.
+
+The drawback is that this adds an extra step to receive updates / improvements.
+
+One must find all calling workflows and manually commit `@<tag>` updates to each of them to import the newer workflow.
+
+This is still the preferred method as it is more production-robust.
 
 ## GitHub Actions vs Jenkins
 
