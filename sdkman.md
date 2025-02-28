@@ -104,6 +104,10 @@ sdk list
 sdk list java
 ```
 
+You will see a lot of different options for Java JVM implementations.
+
+See the [Java](java.md) page's [JVM Distributions](java.md#jvm-distributions) section for details.
+
 ### Install the latest Java SDK
 
 ```shell
