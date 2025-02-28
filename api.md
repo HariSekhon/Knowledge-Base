@@ -6,6 +6,8 @@ Application Programming Interfaces.
 
 - [Rest APIs](#rest-apis)
 - [Rest vs GraphQL](#rest-vs-graphql)
+- [Memes](#memes)
+  - [When API Design Sucks](#when-api-design-sucks)
 
 <!-- INDEX_END -->
 
@@ -16,3 +18,9 @@ Application Programming Interfaces.
 ## Rest vs GraphQL
 
 ![Rest vs GraphQL](images/rest_vs_graphql.gif)
+
+## Memes
+
+### When API Design Sucks
+
+![](images/http_200_error.jpeg)
