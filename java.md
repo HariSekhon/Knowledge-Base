@@ -17,6 +17,21 @@ NOT PORTED YET.
   - [JBang CLI](#jbang-cli)
 - [GraalJS](#graaljs)
 - [Clojure](#clojure)
+- [JVM Distributions](#jvm-distributions)
+  - [Corretto](#corretto)
+  - [Gluon](#gluon)
+  - [GraalVM](#graalvm)
+  - [Java.net](#javanet)
+  - [JetBrains](#jetbrains)
+  - [Liberica](#liberica)
+  - [Mandrel](#mandrel)
+  - [Microsoft](#microsoft)
+  - [Oracle](#oracle)
+  - [SapMachine](#sapmachine)
+  - [Semeru](#semeru)
+  - [Temurin](#temurin)
+  - [Tencent](#tencent)
+  - [Zulu](#zulu)
 - [Memes](#memes)
   - [Books That Made You Cry](#books-that-made-you-cry)
   - [Porting Your Language to the JVM](#porting-your-language-to-the-jvm)
@@ -274,6 +289,94 @@ Just a jar, no dependency like Scala predef.
 ```shell
 java -jar my.jar
 ```
+
+## JVM Distributions
+
+These are the options you'll see when you install [SDKman](sdkman.md) and `sdk list java`.
+
+### Corretto
+
+Amazon's OpenJDK distribution with long-term support and performance enhancements.
+
+<https://aws.amazon.com/corretto/>
+
+### Gluon
+
+Mobile-focused OpenJDK distribution optimized for JavaFX applications.
+
+<https://gluonhq.com/products/mobile/>
+
+### GraalVM
+
+High-performance JDK with ahead-of-time compilation and polyglot capabilities.
+
+<https://www.graalvm.org/>
+
+### Java.net
+
+Official OpenJDK reference builds provided by Oracle.
+
+<https://jdk.java.net/>
+
+### JetBrains
+
+Custom JDK distribution optimized for JetBrains IDEs.
+
+<https://github.com/JetBrains/JetBrainsRuntime>
+
+### Liberica
+
+Full OpenJDK distribution with JavaFX support from BellSoft.
+
+<https://bell-sw.com/liberica/>
+
+### Mandrel
+
+GraalVM-based JDK optimized for Quarkus applications.
+
+<https://github.com/graalvm/mandrel>
+
+### Microsoft
+
+Microsoft's OpenJDK distribution with enterprise support.
+
+<https://learn.microsoft.com/en-us/java/openjdk/>
+
+### Oracle
+
+Official Oracle JDK with commercial support and licensing requirements.
+
+<https://www.oracle.com/java/technologies/downloads/>
+
+### SapMachine
+
+SAP's OpenJDK distribution optimized for SAP workloads.
+
+<https://sap.github.io/SapMachine/>
+
+### Semeru
+
+IBM's OpenJDK distribution with Eclipse OpenJ9 for performance optimizations.
+
+<https://developer.ibm.com/languages/java/semeru-runtimes/>
+
+### Temurin
+
+Community-driven OpenJDK distribution maintained by Adoptium.
+
+<https://adoptium.net/>
+
+### Tencent
+
+Tencent's OpenJDK distribution optimized for cloud environments.
+
+<https://github.com/Tencent/TencentKona-8>
+
+### Zulu
+
+Azul's OpenJDK distribution with commercial support and JavaFX options.
+
+<https://www.azul.com/downloads/zulu/>
 
 ## Memes
 
