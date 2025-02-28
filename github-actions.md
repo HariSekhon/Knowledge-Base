@@ -26,9 +26,10 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
   - [Avoid putting Sensitive information such as Secrets in Global Environment Variables](#avoid-putting-sensitive-information-such-as-secrets-in-global-environment-variables)
   - [Look up GitHub Actions Contexts Fields and Environment Variables](#look-up-github-actions-contexts-fields-and-environment-variables)
   - [Sparse Checkouts](#sparse-checkouts)
-  - [Reusable Workflow Updates Lifecycle](#reusable-workflow-updates-lifecycle)
-    - [Trunk-based changes automatically inherited by calling workflows](#trunk-based-changes-automatically-inherited-by-calling-workflows)
-    - [GitHub Tagged workflows imported by calling workflows](#github-tagged-workflows-imported-by-calling-workflows)
+  - [Import Reusable Workflows using Tags](#import-reusable-workflows-using-tags)
+- [Reusable Workflow Updates Lifecycle](#reusable-workflow-updates-lifecycle)
+  - [Trunk-based changes automatically inherited by calling workflows](#trunk-based-changes-automatically-inherited-by-calling-workflows)
+  - [GitHub Tagged workflows imported by calling workflows](#github-tagged-workflows-imported-by-calling-workflows)
 - [GitHub Actions vs Jenkins](#github-actions-vs-jenkins)
 - [Diagrams](#diagrams)
   - [GitHub Actions CI/CD to auto-(re)generate diagrams from code changes (Python)](#github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes-python)
@@ -361,11 +362,22 @@ For more details, read:
 
 <https://git-scm.com/docs/git-sparse-checkout>
 
-### Reusable Workflow Updates Lifecycle
+### Import Reusable Workflows using Tags
+
+This prevents your calling workflow from breaking
+when the reusable workflow has updates to its behaviour or especially its input parameters.
+
+```yaml
+uses: HariSekhon/GitHub-Actions/.github/workflows/some-workflow.yaml@1.0.0
+```
+
+See the [Reusable Workflow Updates Lifecycle](#reusable-workflow-updates-lifecycle) section for more details.
+
+## Reusable Workflow Updates Lifecycle
 
 When making changes and updates to GitHub reusable workflows, this can be handled in two ways.
 
-#### Trunk-based changes automatically inherited by calling workflows
+### Trunk-based changes automatically inherited by calling workflows
 
 Calling workflows import reusable workflows directly from branch eg.
 
@@ -387,7 +399,7 @@ their input parameters to match, and then merge everything across all repos at t
 One hacky workaround that has been done is forking a reusable workflow file to another file and make updates there,
 and then updating client workflows to call that different workflow file to get the updates. Needless to say, that sucks.
 
-#### GitHub Tagged workflows imported by calling workflows
+### GitHub Tagged workflows imported by calling workflows
 
 Calling workflows import reusable workflows using a fixed git tag eg.
 
