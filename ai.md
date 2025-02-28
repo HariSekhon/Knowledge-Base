@@ -12,6 +12,7 @@ General AI mirroring what humans have is not real yet.
   - [ChatGPT](#chatgpt)
   - [Deepseek](#deepseek)
   - [Grok](#grok)
+  - [Meta AI](#meta-ai)
   - [Perplexity](#perplexity)
   - [SQL Chat](#sql-chat)
   - [LLM](#llm)
@@ -19,12 +20,14 @@ General AI mirroring what humans have is not real yet.
 - [Text to Speech](#text-to-speech)
 - [Grammar](#grammar)
 - [Visual](#visual)
+  - [Image](#image)
   - [Video](#video)
 - [UI](#ui)
 - [Coding](#coding)
 - [RAG - Retrieval Augmented Generation](#rag---retrieval-augmented-generation)
 - [List of AI Tools By Categories](#list-of-ai-tools-by-categories)
 - [Meme](#meme)
+  - [LLM - How to Plagiarize Like a Pro](#llm---how-to-plagiarize-like-a-pro)
   - [Building AI to Replace Humans](#building-ai-to-replace-humans)
 - [Copying and Pasting from ChatGPT](#copying-and-pasting-from-chatgpt)
   - [Say Powered by AI One More Time](#say-powered-by-ai-one-more-time)
@@ -55,6 +58,10 @@ General AI mirroring what humans have is not real yet.
 By Elon / X:
 
 <https://x.com/i/grok>
+
+### Meta AI
+
+<https://www.meta.ai/>
 
 ### Perplexity
 
@@ -94,6 +101,10 @@ Why does the performance degrade after one query?
 
 ## Visual
 
+### Image
+
+<https://www.meta.ai/>
+
 ### Video
 
 - [InVideo AI](https://invideo.io/) - generate high production quality videos from text prompts
@@ -128,6 +139,10 @@ Combines LLM with referencing an authoritative traditional Knowledge Base before
 ![List of AI Tools by Categories](images/list-of-ai-tools-by-categories.webp)
 
 ## Meme
+
+### LLM - How to Plagiarize Like a Pro
+
+![LLM How to Plagiarize Like a Pro](images/orly_llm_how_to_plagiarize_like_a_pro.png)
 
 ### Building AI to Replace Humans
 
