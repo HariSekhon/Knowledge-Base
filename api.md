@@ -23,4 +23,6 @@ Application Programming Interfaces.
 
 ### When API Design Sucks
 
+GraphQL returns 200 OK contrary to other API standards, making error handling more annoying / difficult.
+
 ![](images/http_200_error.jpeg)
