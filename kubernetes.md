@@ -28,6 +28,7 @@
   - [KEDA - Kubernetes Event-Driven Autoscaling](#keda---kubernetes-event-driven-autoscaling)
 - [Tips](#tips)
   - [K9s](#k9s)
+  - [Kubecolor](#kubecolor)
   - [Increase StatefulSet disk size](#increase-statefulset-disk-size)
   - [Quick Port-Forwarding to a Pod](#quick-port-forwarding-to-a-pod)
   - [Krew - Kubectl Plugin Manager](#krew---kubectl-plugin-manager)
@@ -230,6 +231,10 @@ Monitors the pod resource usage, gives recommendations for right-sizing, can adj
 ### K9s
 
 <https://k9scli.io/>
+
+### Kubecolor
+
+[:octocat: kubecolor/kubecolor](https://github.com/kubecolor/kubecolor)
 
 ### Increase StatefulSet disk size
 
