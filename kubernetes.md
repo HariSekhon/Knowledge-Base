@@ -236,6 +236,8 @@ Monitors the pod resource usage, gives recommendations for right-sizing, can adj
 
 [:octocat: kubecolor/kubecolor](https://github.com/kubecolor/kubecolor)
 
+<https://kubecolor.github.io/>
+
 ### Increase StatefulSet disk size
 
 See [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md#increase-jenkins-server-disk-space-on-kubernetes) doc
