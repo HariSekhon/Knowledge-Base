@@ -55,8 +55,8 @@ ssh-add -l
 ## SSH Config
 
 Make it fast and easy
-to connect to SSH servers which have long names or only IP addresses without having to remember them, add this block to
-your `~/.ssh/config`
+to connect to SSH servers which have long names or only IP addresses without having to remember them,
+by adding a block to your `~/.ssh/config`:
 
 ```sshconfig
 Host myhost
@@ -66,6 +66,9 @@ Host myhost
   IdentityFile ~/.ssh/id_rsa
   User hari
 ```
+
+You can now `ssh myhost` without DNS, it'll replace the hostname with `HostName` field's value,
+in this case the IP `x.x.x.x`.
 
 For AWS EC2 VMs, specify `User ec2-user` and the key pair generated at creation time.
 
