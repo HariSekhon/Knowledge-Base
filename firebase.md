@@ -103,24 +103,48 @@ firebase_foreach_project.sh
 
 ### Configure Default Project
 
-To avoid having to specify the `--project` arg to `firebase apps:list` each time...
+Specifying `--project` for every `firebase` command is tedious.
 
-Requires both the `.firebaserc` file and the `GOOGLE_PROJECT` environment variable to be set:
+```text
+--project "<project_id>"
+```
 
-`.firebaserc`:
+See the Project ID column from `firebase projects:list`.
+
+Instead, create `.firebaserc`:
 
 ```json
 {
   "projects": {
-    "default": "myproject",
-    "myenv": "myproject"
+    "default": "myproject-dev-id",
+    "dev": "myproject-dev-id",
+    "staging": "myproject-staging-id",
+    "prod": "myproject-production-id",
   }
 }
 ```
 
-```shell
-export GOOGLE_PROJECT="myproject"
+You can also use these shorter names:
+
+```text
+--project "dev"
 ```
+
+instead of
+
+```text
+--project "myprofile-dev-id"
+```
+
+<!-- doesn't seem to work
+
+You can also set:
+
+```shell
+export GOOGLE_PROJECT="myproject-dev-id"
+```
+
+-->
 
 ### List Apps
 
