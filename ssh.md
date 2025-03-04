@@ -40,6 +40,8 @@ build minutes.
 
 ## Use SSH Agent
 
+Password protect your SSH key on disk and then load it into SSH Agent once at startup.
+
 Start ssh-agent and save the output to a file to import into other shells:
 
 ```shell
@@ -52,7 +54,7 @@ In each shell:
 . ~/.ssh-agent.env
 ```
 
-Add your SSH key to the agent:
+Add your SSH key to the agent (will prompt you this one time for passphrase if the private key is protected):
 
 ```shell
 ssh-add ~/.ssh/id_rsa
