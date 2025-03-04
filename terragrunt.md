@@ -27,6 +27,8 @@ Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing an
     - [Linting and Security Scanning](#linting-and-security-scanning)
 - [tgswitch](#tgswitch)
 - [Best Practices](#best-practices)
+  - [Inherit Variables for AWS Account ID, Region](#inherit-variables-for-aws-account-id-region)
+  - [Find Dependency Paths](#find-dependency-paths)
 - [Vendor Code](#vendor-code)
 - [Terragrunt Troubleshooting](#terragrunt-troubleshooting)
   - [Clear Terragrunt Caches](#clear-terragrunt-caches)
@@ -299,6 +301,50 @@ More recently updated than [tgenv](https://github.com/cunymatthieu/tgenv).
 ## Best Practices
 
 <https://www.terraform-best-practices.com/>
+
+### Inherit Variables for AWS Account ID, Region
+
+Example code to portably follow the AWS Account ID and region of the codebase section:
+
+```hcl
+locals {
+  environment_vars = read_terragrunt_config(find_in_parent_folders("account.hcl"))
+  aws_account_id   = local.environment_vars.locals.aws_account_id
+  region_vars      = read_terragrunt_config(find_in_parent_folders("region.hcl"))
+  aws_region       = local.region_vars.locals.aws_region
+}
+```
+
+and used further down like this:
+
+```hcl
+"arn:aws:iam::${local.aws_account_id}:..."
+```
+
+```hcl
+"${local.aws_region}.elasticache-snapshot.amazonaws.com"
+```
+
+### Find Dependency Paths
+
+Instead of this:
+
+```hcl
+dependency "s3" {
+  config_path = "../../s3/mybucket"
+}
+```
+
+Do this to maintain directory path depth structure portability:
+
+```hcl
+dependency "s3" {
+  config_path = "${find_in_parent_folder("s3")}/mybucket"
+}
+```
+
+For example if you have a module that is 3 `../../../` levels deep
+due to putting some external vendor specific modules under a subdirectory, the code will still work either way.
 
 ## Vendor Code
 
