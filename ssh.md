@@ -17,7 +17,7 @@ The comment makes your public key distinguishable
 when it's copied to `~/.ssh/authorized_keys` on servers or Cloud systems.
 
 ```shell
-ssh-keygen -f "~/.ssh/$filename" -t rsa -b 4096 -C "$comment"
+ssh-keygen -f ~/.ssh/"$filename" -t rsa -b 4096 -C "$comment"
 ```
 
 ## SSH using only publickey
