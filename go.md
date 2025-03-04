@@ -36,4 +36,4 @@ The entire build & release process is defined in `.goreleaser.yaml` and then the
 
 This simplifies local and [CI/CD](cicd.md) builds.
 
-** Not Ported from Private Knowledge Base Yet **
+**Page Not Ported from Private Knowledge Base Yet**
