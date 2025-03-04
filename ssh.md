@@ -20,11 +20,20 @@ when it's copied to `~/.ssh/authorized_keys` on servers or Cloud systems.
 ssh-keygen -f ~/.ssh/"$filename" -t rsa -b 4096 -C "$comment"
 ```
 
+Copy the `.pub` public key file contents from `~/.ssh/"$filename.pub"` to `./ssh/authorized_keys` on any server
+you want to SSH to without a password.
+
 ## SSH using only publickey
+
+To enforce logging in using only the public key and error out otherwise rather than fall back to a password prompt.
 
 ```shell
 ssh -o PreferredAuthentications=publickey ...
 ```
+
+Useful to stop automated scripts or [CI/CD](cicd.md) from getting stuck on a password prompt.
+It's better to error out immediately for faster debugging and also not wasting chargeable [CI/CD](cicd.md)
+build minutes.
 
 ## Use SSH Agent
 
