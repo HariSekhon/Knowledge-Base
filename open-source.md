@@ -8,6 +8,7 @@
 - [Not open source](#not-open-source)
 - [Meme](#meme)
   - [Open Source Economics](#open-source-economics)
+  - [Maintenance](#maintenance)
 
 <!-- INDEX_END -->
 
@@ -33,3 +34,7 @@ Bu perhaps worth a look.
 It's not just about open source... :wink:
 
 ![Open Source Economics](images/orly_open_source_economics.png)
+
+### Maintenance
+
+![Maintenance](images/orly_thanklessly_maintaining_open_source_software.png)
