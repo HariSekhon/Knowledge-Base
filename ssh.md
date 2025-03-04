@@ -1,5 +1,8 @@
 # SSH
 
+Secure SHell - remote command line login to systems with network encryption,
+using passwords and / or SSH public + private asymmetric key cryptography.
+
 <!-- INDEX_START -->
 
 - [Generate an SSH Key](#generate-an-ssh-key)
