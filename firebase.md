@@ -124,6 +124,8 @@ export GOOGLE_PROJECT="myproject"
 
 ### List Apps
 
+To get the Firebase App ID that you need to push artifact releases to:
+
 ```shell
 firebase apps:list --project "myproject"
 ```
