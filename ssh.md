@@ -22,7 +22,8 @@ ssh-keygen -f ~/.ssh/"$filename" -t rsa -b 4096 -C "$comment"
 ```
 
 It'll prompt you for a passphrase to protect the private key with.
-If you add a passphease, use SSH Agent as documented further down.
+If you add a passphrase, use SSH Agent as documented further down to avoid having to type it every time you use the SSH
+key.
 
 ## SSH Public Key and Authorized Keys
 
