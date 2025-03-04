@@ -86,6 +86,7 @@ Host myhost
   HostName x.x.x.x
   IdentityFile ~/.ssh/id_rsa
   User hari
+  LogLevel QUIET  # suppress the motd
 ```
 
 You can now `ssh myhost` without DNS, it'll replace the hostname with `HostName` field's value,
