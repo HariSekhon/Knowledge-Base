@@ -3,7 +3,8 @@
 <!-- INDEX_START -->
 
 - [Generate an SSH Key](#generate-an-ssh-key)
-- [SSH using only publickey](#ssh-using-only-publickey)
+- [SSH Public Key and Authorized Keys](#ssh-public-key-and-authorized-keys)
+- [SSH Login using only SSH Key](#ssh-login-using-only-ssh-key)
 - [Use SSH Agent](#use-ssh-agent)
 - [SSH Config](#ssh-config)
 - [X Forwarding](#x-forwarding)
@@ -20,10 +21,12 @@ when it's copied to `~/.ssh/authorized_keys` on servers or Cloud systems.
 ssh-keygen -f ~/.ssh/"$filename" -t rsa -b 4096 -C "$comment"
 ```
 
-Copy the `.pub` public key file contents from `~/.ssh/"$filename.pub"` to `~/ssh/authorized_keys` on any server
-you want to SSH to without a password.
+## SSH Public Key and Authorized Keys
 
-## SSH using only publickey
+Copy the `.pub` public key file contents generated from the command above in `~/.ssh/"$filename.pub"` to
+`~/ssh/authorized_keys` to any server you want to SSH to without a password.
+
+## SSH Login using only SSH Key
 
 To enforce logging in using only the public key and error out otherwise rather than fall back to a password prompt.
 
