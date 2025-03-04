@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [Generate an SSH Key](#generate-an-ssh-key)
 - [SSH using only publickey](#ssh-using-only-publickey)
 - [Use SSH Agent](#use-ssh-agent)
 - [SSH Config](#ssh-config)
@@ -9,6 +10,15 @@
 - [Legacy SSH Servers](#legacy-ssh-servers)
 
 <!-- INDEX_END -->
+
+## Generate an SSH Key
+
+The comment makes your public key distinguishable
+when it's copied to `~/.ssh/authorized_keys` on servers or Cloud systems.
+
+```shell
+ssh-keygen -f "~/.ssh/$filename" -t rsa -b 4096 -C "$comment"
+```
 
 ## SSH using only publickey
 
