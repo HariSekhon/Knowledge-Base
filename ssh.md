@@ -21,6 +21,9 @@ when it's copied to `~/.ssh/authorized_keys` on servers or Cloud systems.
 ssh-keygen -f ~/.ssh/"$filename" -t rsa -b 4096 -C "$comment"
 ```
 
+It'll prompt you for a passphrase to protect the private key with.
+If you add a passphease, use SSH Agent as documented further down.
+
 ## SSH Public Key and Authorized Keys
 
 Copy the `.pub` public key file contents generated from the command above in `~/.ssh/"$filename.pub"` to
