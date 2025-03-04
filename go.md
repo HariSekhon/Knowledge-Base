@@ -35,3 +35,5 @@ the `go.mod` and `go.sum` build files.
 The entire build & release process is defined in `.goreleaser.yaml` and then the `goreleaser` binary is run.
 
 This simplifies local and [CI/CD](cicd.md) builds.
+
+** Not Ported from Private Knowledge Base Yet **
