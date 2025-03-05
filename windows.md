@@ -14,6 +14,7 @@
   - [Find the location of a binary in the %PATH%](#find-the-location-of-a-binary-in-the-path)
   - [List Disk Space](#list-disk-space)
   - [File Permissions](#file-permissions)
+  - [Base64 encode a file](#base64-encode-a-file)
 - [GitHub Repos](#github-repos)
 - [Meme](#meme)
   - [Wizard Install Software](#wizard-install-software)
@@ -216,6 +217,14 @@ Grant read and execute to all users:
 
 ```commandline
 icacls "D:\test\test.txt" /grant "users:(RX)"
+```
+
+### Base64 encode a file
+
+Use the native `certutil` command:
+
+```commandline
+certutil -encode "$file" "$base64_file"
 ```
 
 ## GitHub Repos
