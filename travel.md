@@ -1166,7 +1166,8 @@ Many of these are tourist restaurants due to the area.
 - [88 Chophouse restaurant & bar](https://maps.app.goo.gl/XxoD8EQBo6xP9PGv6) - reasonable food and drink prices,
   but bolognese was too small for \$4.50, orange juice decent but modest size for \$2,
   fish & chips was a bit low brow for \$5, 75Mbit wifi
-- [Redbul Sport bar](https://maps.app.goo.gl/uiS548cgZFJnwKJG6) - open until 11:30pm, 33Mbit download but only 4Mbit upload wifi, kitchen closes at 10pm, bar until 11:30pm
+- [Redbul Sport bar](https://maps.app.goo.gl/uiS548cgZFJnwKJG6) - open until 11:30pm, 33Mbit download but only 4Mbit
+  upload wifi, kitchen closes at 10pm, bar until 11:30pm
 - [LPMC Bar & Restaurant](https://maps.app.goo.gl/wpHhBUyiRmhgvdcX9) - quieter end of town but 160Mbit wifi
 - [Outback Laos](https://maps.app.goo.gl/dhbzj7hNH1MojeFz5) - western bar, music too loud to work there
 - [Chez Auguste - Café Crêperie](https://maps.app.goo.gl/2Hta8B5ypS9rk2sEA) - only 9Mbit wifi on porch
