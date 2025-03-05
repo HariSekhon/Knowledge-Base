@@ -1143,6 +1143,36 @@ Expect to lose the day travelling to Laos even if you're coming from a nearby co
 - [Go Dunk](https://maps.app.goo.gl/DumQjpf88LN26HBp7) - bar with extremely loud live music, open until midnight,
   exclusively a young local crowd, 40Mbit/s wifi but you won't get any work done here
 
+#### Luang Prabang
+
+Much more touristy than Vientiane, and more internationally priced except for the Night Market.
+
+Many of these are tourist restaurants due to the area.
+
+- [Luang Prabang Night Market](https://maps.app.goo.gl/mJy55E28FsR9j2bN6) - 5pm onwards, the West end has a good food
+  market that seems to be where most people eat as it's the most affordable, full of young tourists
+- [Manda de Laos](https://maps.app.goo.gl/ZgyoPoGQjrjF4LBk9) - the best restaurant I have found in Luang Prabang.
+  Upmarket, expensive, but fantastic dining experience eating by a large internal lilly pond.
+  Great menu, wifi only 15Mbit/s. You should book a table here. Fantastic tasting menu but \$84-\$105 per person net,
+  which is outrageous for Laos, I've never seen anything remotely this expensive here.
+  Also, 20% is added to total bill for VAT and service charge. The Mekong fish salad is mainly 2 pieces of fried fish
+  with a small cucumber underneath them hidden by the fish pieces, good flavour.
+  The orange juice was small for the price. This is an experience place, take your girlfriend here.
+- [La Silapa Italian & Lao Kitchen](https://maps.app.goo.gl/Qc6qeAQ3yk6uwid29) - upmarket italian wood-fired pizza,
+  good shake, 45Mbit/s wifi
+- [Sena Steak House](https://maps.app.goo.gl/K4Nr2op8Ynts97Cz9) - open later than most places here until 11:30pm,
+  kitchen closes at 11pm, 35Mbit wifi
+- [Khmu Garden Restaurant](https://maps.app.goo.gl/VRbNLSzJG3hc8uXo6) - interesting concept, 35Mbit wifi
+- [88 Chophouse restaurant & bar](https://maps.app.goo.gl/XxoD8EQBo6xP9PGv6) - reasonable food and drink prices,
+  but bolognese was too small for \$4.50, orange juice decent but modest size for \$2,
+  fish & chips was a bit low brow for \$5, 75Mbit wifi
+- [Redbul Sport bar](https://maps.app.goo.gl/uiS548cgZFJnwKJG6) - open until 11:30pm, 33Mbit download but only 4Mbit upload wifi, kitchen closes at 10pm, bar until 11:30pm
+- [LPMC Bar & Restaurant](https://maps.app.goo.gl/wpHhBUyiRmhgvdcX9) - quieter end of town but 160Mbit wifi
+- [Outback Laos](https://maps.app.goo.gl/dhbzj7hNH1MojeFz5) - western bar, music too loud to work there
+- [Chez Auguste - Café Crêperie](https://maps.app.goo.gl/2Hta8B5ypS9rk2sEA) - only 9Mbit wifi on porch
+- [Best Cafe Luang Prabang](https://maps.app.goo.gl/3yvoiAKYLuWu7CL38) - 75Mbit wifi
+- [Coffee Express](https://maps.app.goo.gl/q8FR8t8ZuP6nyAtp7) - nice venue, but only 10-15Mbit wifi, too slow for calls
+
 ### Latvia
 
 The sour cabbage soup in a bread bowl is the local speciality.
