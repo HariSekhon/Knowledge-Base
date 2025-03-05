@@ -89,7 +89,10 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Moldova](#moldova)
     - [Chisinau](#chisinau)
   - [Laos](#laos)
+    - [Laos Taxis](#laos-taxis)
     - [Vientiane](#vientiane)
+    - [High Speed Rail Between Vientiane and Luang Prabang](#high-speed-rail-between-vientiane-and-luang-prabang)
+    - [Luang Prabang](#luang-prabang)
   - [Latvia](#latvia)
     - [Riga](#riga)
   - [Lithuania](#lithuania)
@@ -404,6 +407,9 @@ Filter by:
 
 Places just outside the centres are often better value for money and top quality food,
 but some central places are great too.
+
+Restaurants that close earlier are usually better foodie places, often with more reasonable prices. You'll often pay a
+premium for places that are open later, because there are less rival choices open at that time.
 
 I leave a couple recommendations in each location listed below.
 
@@ -1104,6 +1110,12 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 $40 for a visa on arrival, and long queues.
 Expect to lose the day travelling to Laos even if you're coming from a nearby country like Cambodia.
 
+Luang Prabang is nicer than Vientiane, it's more geared for tourists.
+
+#### Laos Taxis
+
+- Use the [Loca](https://loca.la/) app
+
 #### Vientiane
 
 - [Vientiane Night Market](https://maps.app.goo.gl/m6UCkzUvghCNcHC99) - clothes, personal electronics, cologne, there
@@ -1142,6 +1154,27 @@ Expect to lose the day travelling to Laos even if you're coming from a nearby co
 - [Café Sinouk Khemkhong](https://maps.app.goo.gl/9nY1cVa3yusjC4Rf9) - mediocre 35mbit/s wifi
 - [Go Dunk](https://maps.app.goo.gl/DumQjpf88LN26HBp7) - bar with extremely loud live music, open until midnight,
   exclusively a young local crowd, 40Mbit/s wifi but you won't get any work done here
+- [Mogul Gelato](https://maps.app.goo.gl/6rfpezdJ2NnPygK48) - $3 for 2 scoops is expensive by local standards but very
+  good flaours and quality cones too.
+  Has decent wifi, seating and plugs, located on the upper level of the
+  [Naga Mall](https://maps.app.goo.gl/eYW8sxmcnBivniAy9)
+- [Naga Mall Vientiane](https://maps.app.goo.gl/eYW8sxmcnBivniAy9) - better than the
+  [Vientiane Center Lao](https://maps.app.goo.gl/p4RuTRkuZ7HtMJes6)
+
+#### High Speed Rail Between Vientiane and Luang Prabang
+
+This fast modern train gets you between these towns in only 2 hours, and it's a smooth ride.
+
+You can buy tickets online or at the [Laos-China Railway ticket office](https://maps.app.goo.gl/MqSshJ4oRcMiQLeJ7) in
+the other unimpressive [Vientiane Center Lao](https://maps.app.goo.gl/p4RuTRkuZ7HtMJes6).
+
+You'll need 600Kip per ticket (\$25). This is cheaper and easier than flying between the towns.
+
+The [Vientiane Railway Station](https://maps.app.goo.gl/5eGN8usMne4QYeKw5) is far out from the "centre" -
+if Vientiane has such a thing - about 30 mins by taxi.
+
+Similarly, you'll need a taxi to / from the [Luang Prabang Railway Station](https://maps.app.goo.gl/xRL7bo2vSQeiXqzb8),
+which takes just over 20 minutes.
 
 #### Luang Prabang
 
@@ -1163,7 +1196,7 @@ Many of these are tourist restaurants due to the area.
 - [La Silapa Italian & Lao Kitchen](https://maps.app.goo.gl/Qc6qeAQ3yk6uwid29) - upmarket italian wood-fired pizza,
   good shake, 45Mbit/s wifi
 - [Sena Steak House](https://maps.app.goo.gl/K4Nr2op8Ynts97Cz9) - open later than most places here until 11:30pm,
-  kitchen closes at 11pm, 35Mbit wifi
+  kitchen closes at 11pm, 35Mbit wifi, mediocre bolognese, but good fresh orange juice, albeit expensive
 - [Khmu Garden Restaurant](https://maps.app.goo.gl/VRbNLSzJG3hc8uXo6) - interesting concept, 35Mbit wifi
 - [88 Chophouse restaurant & bar](https://maps.app.goo.gl/XxoD8EQBo6xP9PGv6) - reasonable food and drink prices,
   but bolognese was too small for \$4.50, orange juice decent but modest size for \$2,
