@@ -228,6 +228,8 @@ Use the native `certutil` command:
 certutil -encode "%file%" "$base64_file"
 ```
 
+You'll need to strip off the leading `-----BEGIN CERTIFICATE-----` and trailing `-----END CERTIFICATE-----`.
+
 ### Copy file to clipboard
 
 For text files only (like the above base64 file):
