@@ -1196,7 +1196,7 @@ Many of these are tourist restaurants due to the area.
 - [La Silapa Italian & Lao Kitchen](https://maps.app.goo.gl/Qc6qeAQ3yk6uwid29) - upmarket italian wood-fired pizza,
   good shake, 45Mbit/s wifi
 - [Sena Steak House](https://maps.app.goo.gl/K4Nr2op8Ynts97Cz9) - open later than most places here until 11:30pm,
-  kitchen closes at 11pm, 35Mbit wifi, mediocre bolognese, but good fresh orange juice, albeit expensive
+  kitchen closes at 11pm, 35Mbit wifi, mediocre bolognese, but good fresh orange juice, albeit expensive at \$3
 - [Khmu Garden Restaurant](https://maps.app.goo.gl/VRbNLSzJG3hc8uXo6) - interesting concept, 35Mbit wifi
 - [88 Chophouse restaurant & bar](https://maps.app.goo.gl/XxoD8EQBo6xP9PGv6) - reasonable food and drink prices,
   but bolognese was too small for \$4.50, orange juice decent but modest size for \$2,
