@@ -11,6 +11,7 @@
 - [Count Lines of Code](#count-lines-of-code)
   - [cloc](#cloc)
   - [scc](#scc)
+  - [Tokei](#tokei)
 - [Memes](#memes)
   - [Hello World](#hello-world)
   - [Program in Tutorial vs Made Following Tutorial](#program-in-tutorial-vs-made-following-tutorial)
@@ -280,6 +281,18 @@ There are also
 [badges](https://github.com/boyter/scc?tab=readme-ov-file#badges-beta)
 which you can see applied on my
 [GitHub profile](https://github.com/HariSekhon#cocomo---estimates-of-man-years--costs).
+
+### Tokei
+
+[:octocat: XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)
+
+```shell
+brew install tokei
+```
+
+```shell
+tokei .
+```
 
 ## Memes
 
