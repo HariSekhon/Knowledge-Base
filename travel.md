@@ -1153,10 +1153,12 @@ Many of these are tourist restaurants due to the area.
   market that seems to be where most people eat as it's the most affordable, full of young tourists
 - [Manda de Laos](https://maps.app.goo.gl/ZgyoPoGQjrjF4LBk9) - the best restaurant I have found in Luang Prabang.
   Upmarket, expensive, but fantastic dining experience eating by a large internal lilly pond.
-  Great menu, wifi only 15Mbit/s. You should book a table here. Fantastic tasting menu but \$84-\$105 per person net,
-  which is outrageous for Laos, I've never seen anything remotely this expensive here.
-  Also, 20% is added to total bill for VAT and service charge. The Mekong fish salad is mainly 2 pieces of fried fish
-  with a small cucumber underneath them hidden by the fish pieces, good flavour.
+  This is the sort of luxury looking place you'd see on Love Island or something.
+  Great menu, wifi only 15Mbit/s, but you probably shouldnt be working here.
+  You will need to book a table here to be guaranteed entry. Fantastic tasting menu but \$84-\$105 per person net,
+  which is outrageously expensive for Laos, I've never seen anything remotely this expensive here.
+  Also, an additional 20% is added to total bill for VAT and service charge. The Mekong fish salad is mainly 2 pieces
+  of fried fish with a small cucumber salad underneath them hidden by the fish pieces, good flavour.
   The orange juice was small for the price. This is an experience place, take your girlfriend here.
 - [La Silapa Italian & Lao Kitchen](https://maps.app.goo.gl/Qc6qeAQ3yk6uwid29) - upmarket italian wood-fired pizza,
   good shake, 45Mbit/s wifi
