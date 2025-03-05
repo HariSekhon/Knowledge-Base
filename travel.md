@@ -1180,7 +1180,8 @@ which takes just over 20 minutes.
 
 Much more touristy than Vientiane, and more internationally priced except for the Night Market.
 
-Many of these are tourist restaurants due to the area.
+Many of these are tourist restaurants due to the area, and cash seems to burn faster here as it's easy to spend \$15 per
+head for a basic meal and a drink.
 
 - [Luang Prabang Night Market](https://maps.app.goo.gl/mJy55E28FsR9j2bN6) - 5pm onwards, the West end has a good food
   market that seems to be where most people eat as it's the most affordable, full of young tourists
