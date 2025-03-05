@@ -15,6 +15,7 @@
   - [List Disk Space](#list-disk-space)
   - [File Permissions](#file-permissions)
   - [Base64 encode a file](#base64-encode-a-file)
+  - [Copy file to clipboard](#copy-file-to-clipboard)
 - [GitHub Repos](#github-repos)
 - [Meme](#meme)
   - [Wizard Install Software](#wizard-install-software)
@@ -224,7 +225,29 @@ icacls "D:\test\test.txt" /grant "users:(RX)"
 Use the native `certutil` command:
 
 ```commandline
-certutil -encode "$file" "$base64_file"
+certutil -encode "%file%" "$base64_file"
+```
+
+### Copy file to clipboard
+
+For text files only (like the above base64 file):
+
+```commandline
+set "file=C:\path\to\your\file.txt"
+```
+
+```commandline
+type "%file%" | clip
+```
+
+or using PowerShell:
+
+```powershell
+# For text files
+Get-Content "path\to\your\file.txt" -Raw | Set-Clipboard
+
+# For binary files (converting to base64 first)
+[Convert]::ToBase64String([System.IO.File]::ReadAllBytes("path\to\your\file.jpg")) | Set-Clipboard
 ```
 
 ## GitHub Repos
