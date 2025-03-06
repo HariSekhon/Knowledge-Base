@@ -59,7 +59,9 @@ Keeper Commander, version 17.0.8
 keeper shell
 ```
 
-This causes you to jump through lots of SSO and 2FA hoops, which is not worth the hassle.
+[Logging in](https://docs.keeper.io/en/privileged-access-manager/commander-cli/commander-installation-setup/logging-in)
+each time forces you to jump through lots of SSO, device verification email and 2FA hoops, which is not worth the
+hassle.
 
 ```shell
 keeper login
