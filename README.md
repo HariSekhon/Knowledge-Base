@@ -243,6 +243,7 @@ This one is used widely throughout these pages:
 - Third Party Tools:
   - [MinIO](minio.md)
   - [HashiCorp Vault](vault.md)
+  - [Keeper](keeper.md)
 - [PaaS](paas.md)
 
 ## Containerization
@@ -593,6 +594,8 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Keycloak](keycloak.md)
 - [Penetration Testing](pentesting.md) TODO
 - [Secrets Managers](secrets-managers.md)
+  - [HashiCorp Vault](vault.md)
+  - [Keeper](keeper.md)
 - [SOC - Security Operations Center](security-operations-center.md)
 - [Code Scanning](code-scanning.md)
 - [Code Quality](code-quality.md)
