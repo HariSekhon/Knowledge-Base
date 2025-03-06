@@ -9,6 +9,11 @@ SaaS Secrets Vault.
 - [Keeper CLI](#keeper-cli)
   - [Install](#install)
   - [Usage](#usage)
+    - [Login](#login)
+    - [Persisting Login for 30 days](#persisting-login-for-30-days)
+    - [Shell vs CLI](#shell-vs-cli)
+    - [Connection Commands](#connection-commands)
+    - [Import / Export](#import--export)
 
 <!-- INDEX_END -->
 
@@ -55,6 +60,8 @@ Keeper Commander, version 17.0.8
 
 ### Usage
 
+#### Login
+
 ```shell
 keeper shell
 ```
@@ -81,5 +88,83 @@ NOTE: To copy SSO Token please click "Copy login token" button on "SSO Connect" 
 Selection:
 ```
 
-This takes minutes to get through all these steps,
-making this CLI a waste of time, just use the UI at least it'll stay logged in for a while.
+This process creates a file:
+
+```text
+~/.keeper/config.json
+```
+
+```text
+whoami
+```
+
+#### Persisting Login for 30 days
+
+[Configuration file](https://docs.keeper.io/en/privileged-access-manager/commander-cli/commander-installation-setup/configuration)
+and persistence details.
+
+Inside Keeper Shell:
+
+```text
+this-device register
+```
+
+```text
+this-device persistent-login on
+```
+
+When prompted for 2FA enter
+
+```text
+forever
+```
+
+Then on the next prompt enter your TOTP (Time-based One Time Password) from your authenticator step.
+
+```text
+this-device ip-auto-approve on
+```
+
+```text
+this-device timeout 30d
+```
+
+This will update this file:
+
+```text
+~/.keeper/config.json
+```
+
+#### Shell vs CLI
+
+[Command Reference](https://docs.keeper.io/en/privileged-access-manager/commander-cli/command-reference)
+
+Since starting the Keeper shell is a bit slow, enter the shell once, and then type the commands instead of:
+
+```shell
+keeper ls
+```
+
+do
+
+```shell
+keeper
+```
+
+```text
+ls
+```
+
+#### Connection Commands
+
+[Connection Commands](https://docs.keeper.io/en/privileged-access-manager/commander-cli/command-reference/connection-commands)
+
+You can launch SSH, SSH-Agent, RDP or SFTP connections directly from Keeper using its secrets.
+
+#### Import / Export
+
+[Import/Export doc](https://docs.keeper.io/en/privileged-access-manager/commander-cli/command-reference/import-and-export-commands)
+
+You can export your secrets to specific formats like KeePass, CSV or JSON.
+
+You can import from CyberArk, LastPass, Keepass, ManageEngine, Myki, Proton Pass, CSV or JSON.
