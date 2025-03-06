@@ -258,7 +258,11 @@ Pod Templates
 
 The trick is doing this without losing your job history data.
 
-You first need to have been using a [resizeable disk](https://github.com/HariSekhon/Kubernetes-configs/blob/master/jenkins/base/storageclass-gcp-standard-resizeable.yaml) configuration.
+You first need to have been using a
+[resizeable disk](https://github.com/HariSekhon/Kubernetes-configs/blob/master/jenkins/base/storageclass-gcp-standard-resizeable.yaml)
+configuration.
+
+If you are on AWS EBS you can [easily patch the EBS EKS driver](eks.md#eks-resizeable-disk) to allow resizeable disks.
 
 **WARNING: do NOT delete the PersistentVolumeClaim**
 
