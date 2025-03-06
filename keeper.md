@@ -155,6 +155,14 @@ keeper
 ls
 ```
 
+```text
+clipboard-copy <record>
+```
+
+```text
+cc <record>
+```
+
 #### Connection Commands
 
 [Connection Commands](https://docs.keeper.io/en/privileged-access-manager/commander-cli/command-reference/connection-commands)
