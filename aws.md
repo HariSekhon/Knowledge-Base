@@ -751,6 +751,12 @@ or this command and grepping:
 aws iam list-roles --query 'Roles[*].Arn' --output text | tr '[:space:]' '\n'
 ```
 
+or by just using this script from [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+aws_sso_role_arn_full.sh
+```
+
 ## RDS - Relational Database Service
 
 Hosted SQL RDBMS like [MySQL](mysql.md), [PostgreSQL](postgres.md), Microsoft SQL Server etc.
