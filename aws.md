@@ -745,6 +745,12 @@ You can get this from the ARN output by the command:
 aws iam get-role --role-name arn:aws:iam::123456789012:role/AWSReservedSSO_DevOpsAdmins_1abcd2345e67fa8b
 ```
 
+or this command and grepping:
+
+```shell
+aws iam list-roles --query 'Roles[*].Arn' --output text | tr '[:space:]' '\n'
+```
+
 ## RDS - Relational Database Service
 
 Hosted SQL RDBMS like [MySQL](mysql.md), [PostgreSQL](postgres.md), Microsoft SQL Server etc.
