@@ -218,6 +218,8 @@ s3_bucket_name = dependency.s3.outputs.s3_bucket_id
 s3_bucket_arn = dependency.s3.outputs.s3_bucket_arn
 ```
 
+Don't forget the `.outputs.` part of the dependency reference to get its output variables.
+
 ### Check Module Outputs
 
 To check the outputs of the dependency module:
