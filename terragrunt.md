@@ -18,9 +18,11 @@ Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing an
     - [Useful Options](#useful-options)
   - [CI/CD](#cicd)
 - [Terraform Lock Files](#terraform-lock-files)
-- [Dependencies and Outputs](#dependencies-and-outputs)
 - [Terragrunt Console](#terragrunt-console)
-- [Dependency Graph](#dependency-graph)
+- [Dependencies](#dependencies)
+  - [Cross Referencing](#cross-referencing)
+  - [Check Module Outputs](#check-module-outputs)
+  - [Dependency Graph](#dependency-graph)
   - [Graph Run](#graph-run)
 - [Terragrunt Scaffold](#terragrunt-scaffold)
 - [Terragrunt Debugging](#terragrunt-debugging)
@@ -187,7 +189,21 @@ after the run to capture the changes.
 
 Commit your lock file as per Terraform standard to ensure your colleagues get the same provider versions.
 
-## Dependencies and Outputs
+## Terragrunt Console
+
+Useful for testing.
+
+```shell
+terragrunt console
+```
+
+Terragrunt functions like `get_parent_terragrunt_dir()` don't work in the REPL unfortunately.
+
+Rest is same as [Terraform Console](terraform.md#terraform-console).
+
+## Dependencies
+
+### Cross Referencing
 
 Since Terragrunt splits things into lots of modules, you often want to cross reference each other dynamically like this:
 
@@ -200,6 +216,8 @@ dependency "s3" {
 
 source_arn = dependency.s3.s3_bucket_arn
 ```
+
+### Check Module Outputs
 
 To check the outputs of the dependency module:
 
@@ -222,19 +240,7 @@ s3_bucket_id = "my-config"
 s3_bucket_region = "eu-west-1"
 ```
 
-## Terragrunt Console
-
-Useful for testing.
-
-```shell
-terragrunt console
-```
-
-Terragrunt functions like `get_parent_terragrunt_dir()` don't work in the REPL unfortunately.
-
-Rest is same as [Terraform Console](terraform.md#terraform-console).
-
-## Dependency Graph
+### Dependency Graph
 
 Recurse sub-directories and generate a dependency graph based on the `dependency` and `dependencies` blocks:
 
