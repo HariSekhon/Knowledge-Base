@@ -18,6 +18,7 @@ Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing an
     - [Useful Options](#useful-options)
   - [CI/CD](#cicd)
 - [Terraform Lock Files](#terraform-lock-files)
+- [Dependencies and Outputs](#dependencies-and-outputs)
 - [Terragrunt Console](#terragrunt-console)
 - [Dependency Graph](#dependency-graph)
   - [Graph Run](#graph-run)
@@ -185,6 +186,41 @@ it copies the top level `.terraform.lock.hcl` file into the sub-directory before
 after the run to capture the changes.
 
 Commit your lock file as per Terraform standard to ensure your colleagues get the same provider versions.
+
+## Dependencies and Outputs
+
+Since Terragrunt splits things into lots of modules, you often want to cross reference each other dynamically like this:
+
+```hcl
+dependency "s3" {
+  config_path = "${find_in_parent_folders("s3")}/my-config"
+}
+
+...
+
+source_arn = dependency.s3.s3_bucket_arn
+```
+
+To check the outputs of the dependency module:
+
+```shell
+cd s3/some-bucket-module
+```
+
+```shell
+terragrunt outputs
+```
+
+output will look something like this:
+
+```text
+s3_bucket_arn = "arn:aws:s3:::my-config"
+s3_bucket_bucket_domain_name = "my-config.s3.amazonaws.com"
+s3_bucket_bucket_regional_domain_name = "my-config.s3.eu-west-1.amazonaws.com"
+s3_bucket_hosted_zone_id = "A1BCDEFA23BCDE"
+s3_bucket_id = "my-config"
+s3_bucket_region = "eu-west-1"
+```
 
 ## Terragrunt Console
 
