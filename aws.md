@@ -29,6 +29,8 @@ NOT PORTED YET
     - [Increase the size of the EBS volume](#increase-the-size-of-the-ebs-volume)
     - [Inside the EC2 VM - grow the partition and extend the filesystem](#inside-the-ec2-vm---grow-the-partition-and-extend-the-filesystem)
   - [Remove an EC2 EBS volume from a live running instance](#remove-an-ec2-ebs-volume-from-a-live-running-instance)
+- [IAM](#iam)
+  - [IAM SSO Role References](#iam-sso-role-references)
 - [RDS - Relational Database Service](#rds---relational-database-service)
   - [List RDS instances](#list-rds-instances)
   - [Reset DB master password](#reset-db-master-password)
@@ -664,6 +666,83 @@ Optionally deleted the EBS volume if you're 100% sure you don't need it any more
 
 ```shell
 aws ec2 delete-volume --volume-id "$VOLUME_ID"
+```
+
+## IAM
+
+### IAM SSO Role References
+
+Putting AWS SSO roles into IAM policies can be tricky because what you see from
+
+```shell
+aws sts get-caller-identity
+```
+
+```text
+{
+    "UserId": "ABCDEFA1BCDEFABCD23EF:Hari@domain.com",
+    "Account": "123456789012",
+    "Arn": "arn:aws:sts::123456789012:assumed-role/AWSReservedSSO_DevOpsAdmins_1abcd2345e67fa8b/Hari@domain.com"
+}
+```
+
+is not what you need to put in to IAM.
+
+Putting something like this:
+
+```text
+arn:aws:sts::123456789012:assumed-role/AWSReservedSSO_DevOpsAdmins_1abcd2345e67fa8b/Hari@domain.com
+```
+
+or even
+
+```text
+arn:aws:sts::123456789012:assumed-role/AWSReservedSSO_DevOpsAdmins_1abcd2345e67fa8b
+```
+
+will result in an AWS IAM error like this:
+
+```text
+MalformedPolicy: Invalid principal in policy
+```
+
+Instead you need to put the base role like this:
+
+```text
+arn:aws:iam::123456789012:role/AWSReservedSSO_DevOpsAdmins_1abcd2345e67fa8b
+```
+
+You can also verify the role using this command:
+
+```shell
+aws iam get-role --role-name arn:aws:iam::123456789012:role/AWSReservedSSO_DevOpsAdmins_1abcd2345e67fa8b
+```
+
+The easiest way to determine your currently logged in AWS SSO role, is using this script from
+[DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+aws_sso_role_arn.sh
+```
+
+or to see all the AWS SSO role arns in your currently authenticated account:
+
+```shell
+aws_sso_role_arns.sh
+```
+
+Note these are two separate scripts.
+
+However, beware that S3 bucket policies IAM need the fuller format of:
+
+```text
+arn:aws:iam::123456789012:role/aws-reserved/sso.amazonaws.com/eu-west-1/AWSReservedSSO_DevOpsAdmins_1abcd2345e67fa8b
+```
+
+You can get this from the ARN output by the command:
+
+```shell
+aws iam get-role --role-name arn:aws:iam::123456789012:role/AWSReservedSSO_DevOpsAdmins_1abcd2345e67fa8b
 ```
 
 ## RDS - Relational Database Service
