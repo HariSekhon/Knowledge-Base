@@ -402,7 +402,7 @@ Read [Terraform - Vendor Code](terraform.md#vendor-code) section.
 To recover space or just clear cache
 
 ```shell
-find . -name '.terragrunt-cache' -exec rm -vrf {} \;
+find . -name '.terragrunt-cache' -exec rm -rf {} \;
 ```
 
 ### ERRO[0000] fork/exec /Users/hari/.tfenv/bin: no such file or directory
