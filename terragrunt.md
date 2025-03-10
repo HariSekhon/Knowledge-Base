@@ -25,14 +25,14 @@ Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing an
   - [Dependency Graph](#dependency-graph)
   - [Graph Run](#graph-run)
 - [Terragrunt Scaffold](#terragrunt-scaffold)
-- [Terragrunt Debugging](#terragrunt-debugging)
-  - [Terragrunt Dump JSON](#terragrunt-dump-json)
-    - [Linting and Security Scanning](#linting-and-security-scanning)
+- [Linting and Security Scanning](#linting-and-security-scanning)
 - [tgswitch](#tgswitch)
 - [Best Practices](#best-practices)
   - [Inherit Variables for AWS Account ID, Region](#inherit-variables-for-aws-account-id-region)
   - [Find Dependency Paths](#find-dependency-paths)
 - [Vendor Code](#vendor-code)
+- [Terragrunt Debugging](#terragrunt-debugging)
+  - [Terragrunt Dump JSON](#terragrunt-dump-json)
 - [Terragrunt Troubleshooting](#terragrunt-troubleshooting)
   - [Clear Terragrunt Caches](#clear-terragrunt-caches)
   - [ERRO[0000] fork/exec /Users/hari/.tfenv/bin: no such file or directory](#erro0000-forkexec-usersharitfenvbin-no-such-file-or-directory)
@@ -291,43 +291,7 @@ terragrunt scaffold github.com/gruntwork-io/terragrunt-infrastructure-modules-ex
 Can set ref version and SSH git source via variables, see
 [this doc page](https://terragrunt.gruntwork.io/docs/features/scaffold/).
 
-## Terragrunt Debugging
-
-Use `--terragrunt-log-level=debug`.
-
-Use `--terragrunt-debug` or `export TERRAGRUNT_DEBUG=1` to create a `$PWD/terragrunt-debug.tfvars.json` file to be able to run `terraform` with the
-same inputs without terragrunt.
-
-```shell
-terragrunt apply --terragrunt-log-level=debug --terragrunt-debug
-```
-
-See [this doc page](https://terragrunt.gruntwork.io/docs/features/debugging/) for more details and OpenTelemetry
-integration.
-
-### Terragrunt Dump JSON
-
-```shell
-terragrunt plan -out=plan.tfplan
-```
-
-```shell
-terraform show -json plan.tfplan > plan.json
-```
-
-OR
-
-```shell
-terragrunt run-all render-json
-```
-
-Find the JSON output in:
-
-```text
-terragrunt_rendered.json
-```
-
-#### Linting and Security Scanning
+## Linting and Security Scanning
 
 You can then run checkov on the resulting json file:
 
@@ -394,6 +358,42 @@ due to putting some external vendor specific modules under a subdirectory, the c
 ## Vendor Code
 
 Read [Terraform - Vendor Code](terraform.md#vendor-code) section.
+
+## Terragrunt Debugging
+
+Use `--terragrunt-log-level=debug`.
+
+Use `--terragrunt-debug` or `export TERRAGRUNT_DEBUG=1` to create a `$PWD/terragrunt-debug.tfvars.json` file to be able to run `terraform` with the
+same inputs without terragrunt.
+
+```shell
+terragrunt apply --terragrunt-log-level=debug --terragrunt-debug
+```
+
+See [this doc page](https://terragrunt.gruntwork.io/docs/features/debugging/) for more details and OpenTelemetry
+integration.
+
+### Terragrunt Dump JSON
+
+```shell
+terragrunt plan -out=plan.tfplan
+```
+
+```shell
+terraform show -json plan.tfplan > plan.json
+```
+
+OR
+
+```shell
+terragrunt run-all render-json
+```
+
+Find the JSON output in:
+
+```text
+terragrunt_rendered.json
+```
 
 ## Terragrunt Troubleshooting
 
