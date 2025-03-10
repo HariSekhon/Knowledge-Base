@@ -28,6 +28,7 @@ Thin CLI wrapper around [Terraform](terraform.md) which adds lots of sourcing an
 - [Linting and Security Scanning](#linting-and-security-scanning)
 - [tgswitch](#tgswitch)
 - [Best Practices](#best-practices)
+  - [Caching](#caching)
   - [Inherit Variables for AWS Account ID, Region](#inherit-variables-for-aws-account-id-region)
   - [Find Dependency Paths](#find-dependency-paths)
 - [Vendor Code](#vendor-code)
@@ -310,6 +311,47 @@ More recently updated than [tgenv](https://github.com/cunymatthieu/tgenv).
 ## Best Practices
 
 <https://www.terraform-best-practices.com/>
+
+### Caching
+
+<https://terragrunt.gruntwork.io/docs/features/provider-cache-server/>
+
+<https://github.com/gruntwork-io/terragrunt/issues/2920>
+
+Because [Terraform Plugin Caching](terraform.md#caching) is not thread-safe.
+
+To see how much space you are wasting on duplicate provider downloads for Terragrunt modules,
+you can run this script from [DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+terraform_provider_count_sizes.sh
+```
+
+Output on my Mac:
+
+```text
+30  597M  hashicorp/aws/5.80.0/darwin_arm64/terraform-provider-aws_v5.80.0_x5
+7   637M  hashicorp/aws/5.90.1/darwin_arm64/terraform-provider-aws_v5.90.1_x5
+4   637M  hashicorp/aws/5.90.0/darwin_arm64/terraform-provider-aws_v5.90.0_x5
+3   599M  hashicorp/aws/5.81.0/darwin_arm64/terraform-provider-aws_v5.81.0_x5
+2   593M  hashicorp/aws/5.79.0/darwin_arm64/terraform-provider-aws_v5.79.0_x5
+    ...
+```
+
+Output from an Atlantis server pod:
+
+```text
+14  654M  hashicorp/aws/5.90.1/linux_amd64/terraform-provider-aws_v5.90.1_x5
+13  14M   hashicorp/external/2.3.4/linux_amd64/terraform-provider-external_v2.3.4_x5
+13  14M   hashicorp/local/2.5.2/linux_amd64/terraform-provider-local_v2.5.2_x5
+13  14M   hashicorp/null/3.2.3/linux_amd64/terraform-provider-null_v3.2.3_x5
+3   346M  hashicorp/aws/4.67.0/linux_amd64/terraform-provider-aws_v4.67.0_x5
+3   621M  hashicorp/aws/5.80.0/linux_amd64/terraform-provider-aws_v5.80.0_x5
+3   653M  hashicorp/aws/5.90.0/linux_amd64/terraform-provider-aws_v5.90.0_x5
+3   14M   hashicorp/random/3.6.3/linux_amd64/terraform-provider-random_v3.6.3_x5
+1   627M  hashicorp/aws/5.82.2/linux_amd64/terraform-provider-aws_v5.82.2_x5
+1   630M  hashicorp/aws/5.84.0/linux_amd64/terraform-provider-aws_v5.84.0_x5
+```
 
 ### Inherit Variables for AWS Account ID, Region
 
