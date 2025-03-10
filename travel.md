@@ -8,7 +8,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 
 - [Booking Sites](#booking-sites)
 - [Flights](#flights)
-  - [Deals](#deals)
+  - [Flight Booking Sites](#flight-booking-sites)
+  - [Flight Deals](#flight-deals)
   - [Flights Gotchas](#flights-gotchas)
     - [Transfer Flight Timings](#transfer-flight-timings)
     - [Self Transfer](#self-transfer)
@@ -225,7 +226,18 @@ Same goes for ferries if driving.
 Favourite Airline: Air Arabia because they didn't tell me to put my laptop away during takeoff. One less pointless rule
 enforced.
 
-### Deals
+### Flight Booking Sites
+
+Ranked by my success in finding affordable flights
+
+- [Kayak.com](https://www.kayak.com/) - even cheaper than SkyScanner and had cheaper flights not found on Expedia
+- [SkyScanner.net](https://www.skyscanner.net/) - had cheaper flights that weren't even found on Expedia, and cheaper on the same flights too
+- [Booking.com](https://www.booking.com)
+- [Agoda.com](https://www.agoda.com/) - better for hotels than flights
+- [Expedia](https://expedia.co.uk) - fewer and more expensive flights
+- [Google Flights](https://www.google.com/travel/flights)
+
+### Flight Deals
 
 If you just want to go on hols and don't mind where, then you can use:
 
