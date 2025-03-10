@@ -207,7 +207,7 @@ As a result of the above problems, Terraform may not behave as intended.
 ```
 
 To see how much space you are wasting on duplicate provider downloads for different Terraform code bases without this,
-or Terragrunt modules which will make this even worse, you can run this scriot from
+or [Terragrunt](terragrunt.md) modules which will make this even worse, you can run this script from
 [DevOps-Bash-tools](devops-bash-tools.md):
 
 ```shell
@@ -239,6 +239,8 @@ Output from an Atlantis server pod:
 1   627M  hashicorp/aws/5.82.2/linux_amd64/terraform-provider-aws_v5.82.2_x5
 1   630M  hashicorp/aws/5.84.0/linux_amd64/terraform-provider-aws_v5.84.0_x5
 ```
+
+For Terragrunt, see [Terragrunt Caching](terragrunt.md#caching).
 
 ## Vendor Code
 
