@@ -8,6 +8,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 
 - [Booking Sites](#booking-sites)
 - [Flights](#flights)
+  - [Deals](#deals)
   - [Flights Gotchas](#flights-gotchas)
     - [Transfer Flight Timings](#transfer-flight-timings)
     - [Self Transfer](#self-transfer)
@@ -223,6 +224,14 @@ Same goes for ferries if driving.
 
 Favourite Airline: Air Arabia because they didn't tell me to put my laptop away during takeoff. One less pointless rule
 enforced.
+
+### Deals
+
+If you just want to go on hols and don't mind where, then you can use:
+
+<https://www.going.com/>
+
+Enter your nearest airport(s) and they will send you cheap deals to random destinations.
 
 ### Flights Gotchas
 
