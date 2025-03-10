@@ -370,6 +370,8 @@ same inputs without terragrunt.
 terragrunt apply --terragrunt-log-level=debug --terragrunt-debug
 ```
 
+`terragrunt-debug.tfvars.json` allows you to inspect the variables that Terragrunt is generating and passing to the Terraform code.
+
 See [this doc page](https://terragrunt.gruntwork.io/docs/features/debugging/) for more details and OpenTelemetry
 integration.
 
