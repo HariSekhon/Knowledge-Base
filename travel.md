@@ -9,7 +9,6 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 - [Booking Sites](#booking-sites)
 - [Flights](#flights)
   - [Flight Booking Sites](#flight-booking-sites)
-  - [Flight Deals](#flight-deals)
   - [Flights Gotchas](#flights-gotchas)
     - [Transfer Flight Timings](#transfer-flight-timings)
     - [Self Transfer](#self-transfer)
@@ -237,6 +236,8 @@ Ranked by my success in finding affordable flights
 - [Expedia](https://expedia.co.uk) - fewer and more expensive flights
 - [Google Flights](https://www.google.com/travel/flights)
 
+<!--
+
 ### Flight Deals
 
 If you just want to go on hols and don't mind where, then you can use:
@@ -244,6 +245,14 @@ If you just want to go on hols and don't mind where, then you can use:
 <https://www.going.com/>
 
 Enter your nearest airport(s) and they will send you cheap deals to random destinations.
+
+Unfortunately:
+
+```text
+We currently do not serve airports outside the US.
+```
+
+-->
 
 ### Flights Gotchas
 
