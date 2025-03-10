@@ -83,6 +83,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Hanover](#hanover)
     - [Königswinter](#königswinter)
     - [Potsdam](#potsdam)
+  - [Indonesia](#indonesia)
+    - [Bali](#bali)
   - [Italy](#italy)
     - [Italy Car Rentals](#italy-car-rentals)
     - [Rome](#rome)
@@ -1061,6 +1063,16 @@ City just outside the west of Berlin.
 [KOI Sushi, Grill & Soup](https://koi-sushi-grill.eatbu.com/) is highly recommended here. They don't speak English but
 it's worth the translation effort, excellent food and good prices.
 The Thai tom yum soup and the sushi are recommended.
+
+### Indonesia
+
+#### Bali
+
+Much more developed than expected, full of Western restaurants and coffee shops.
+Humid and hot, with a beach bars busy even late on a Sunday night.
+
+- [Blacklist Coffee Roasters](https://maps.app.goo.gl/wSHe5knuDZCHAKxV6) - Fast wifi, split into two areas, area to the
+  left back when you walk in is full of people on laptops and has plugs. Full breakfast is decent, good range of drinks
 
 ### Italy
 
