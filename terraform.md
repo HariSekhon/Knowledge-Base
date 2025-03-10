@@ -225,7 +225,8 @@ Output on my Mac:
     ...
 ```
 
-Output from an Atlantis server pod:
+Output on an Atlantis server pod after deleting all data cache to fix out of space errors and
+then a single PR run:
 
 ```text
 14  654M  hashicorp/aws/5.90.1/linux_amd64/terraform-provider-aws_v5.90.1_x5
