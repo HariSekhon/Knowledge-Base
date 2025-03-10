@@ -11,6 +11,7 @@ detects what is missing or has changed and then applies the necessary changes to
 - [Terraform Code](#terraform-code)
 - [Running Terraform](#running-terraform)
 - [Terraform State](#terraform-state)
+- [Terraform CLI Config](#terraform-cli-config)
 - [tfenv](#tfenv)
 - [Terragrunt](#terragrunt)
 - [tgswtich](#tgswtich)
@@ -19,6 +20,7 @@ detects what is missing or has changed and then applies the necessary changes to
 - [Useful Modules](#useful-modules)
 - [Document Your Terraform Modules](#document-your-terraform-modules)
 - [Best Practices](#best-practices)
+  - [Caching](#caching)
 - [Vendor Code](#vendor-code)
 - [Terraform Console](#terraform-console)
   - [Convert Terraform `jsonencode()` to literal JSON](#convert-terraform-jsonencode-to-literal-json)
@@ -89,6 +91,14 @@ This is just a JSON file so you can read its contents to find out what version o
 
 [terraform_gcs_backend_version.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/terraform/terraform_gcs_backend_version.sh)
 is a convenience script to determine this straight from a GCS bucket.
+
+## Terraform CLI Config
+
+[HariSekhon/Terraform - .terraformrc](https://github.com/HariSekhon/Terraform/blob/master/.terraformrc)
+
+<https://developer.hashicorp.com/terraform/cli/config/config-file>
+
+Configure things like [Terraform Plugin Caching](https://developer.hashicorp.com/terraform/cli/config/config-file#provider-plugin-cache).
 
 ## tfenv
 
@@ -165,6 +175,12 @@ terraform-docs markdown table --output-file README.md --output-mode inject /path
 ## Best Practices
 
 <https://www.terraform-best-practices.com/>
+
+### Caching
+
+<https://developer.hashicorp.com/terraform/cli/config/config-file#provider-plugin-cache>
+
+This is not thread-safe.
 
 ## Vendor Code
 
