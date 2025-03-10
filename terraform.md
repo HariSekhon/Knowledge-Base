@@ -182,6 +182,64 @@ terraform-docs markdown table --output-file README.md --output-mode inject /path
 
 This is not thread-safe.
 
+Configure it in `.terraformrc`:
+
+```text
+plugin_cache_dir   = "$HOME/.terraform.d/plugin-cache"
+```
+
+This directory must already exist:
+
+```shell
+mkdir -p -v ~/.terraform.d/plugin-cache
+```
+
+Otherwise you'll end up with an error like this:
+
+```text
+There are some problems with the CLI configuration:
+╷
+│ Error: The specified plugin cache dir /Users/hari/.terraform.d/plugin-cache cannot be opened: stat /Users/hari/.terraform.d/plugin-cache: no such file or directory
+│
+╵
+
+As a result of the above problems, Terraform may not behave as intended.
+```
+
+To see how much space you are wasting on duplicate provider downloads for different Terraform code bases without this,
+or Terragrunt modules which will make this even worse, you can run this scriot from
+[DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+terraform_provider_count_sizes.sh
+```
+
+Output on my Mac:
+
+```text
+30  597M  hashicorp/aws/5.80.0/darwin_arm64/terraform-provider-aws_v5.80.0_x5
+7   637M  hashicorp/aws/5.90.1/darwin_arm64/terraform-provider-aws_v5.90.1_x5
+4   637M  hashicorp/aws/5.90.0/darwin_arm64/terraform-provider-aws_v5.90.0_x5
+3   599M  hashicorp/aws/5.81.0/darwin_arm64/terraform-provider-aws_v5.81.0_x5
+2   593M  hashicorp/aws/5.79.0/darwin_arm64/terraform-provider-aws_v5.79.0_x5
+    ...
+```
+
+Output from an Atlantis server pod:
+
+```text
+14  654M  hashicorp/aws/5.90.1/linux_amd64/terraform-provider-aws_v5.90.1_x5
+13  14M   hashicorp/external/2.3.4/linux_amd64/terraform-provider-external_v2.3.4_x5
+13  14M   hashicorp/local/2.5.2/linux_amd64/terraform-provider-local_v2.5.2_x5
+13  14M   hashicorp/null/3.2.3/linux_amd64/terraform-provider-null_v3.2.3_x5
+3   346M  hashicorp/aws/4.67.0/linux_amd64/terraform-provider-aws_v4.67.0_x5
+3   621M  hashicorp/aws/5.80.0/linux_amd64/terraform-provider-aws_v5.80.0_x5
+3   653M  hashicorp/aws/5.90.0/linux_amd64/terraform-provider-aws_v5.90.0_x5
+3   14M   hashicorp/random/3.6.3/linux_amd64/terraform-provider-random_v3.6.3_x5
+1   627M  hashicorp/aws/5.82.2/linux_amd64/terraform-provider-aws_v5.82.2_x5
+1   630M  hashicorp/aws/5.84.0/linux_amd64/terraform-provider-aws_v5.84.0_x5
+```
+
 ## Vendor Code
 
 Lessons learnt the hard way from the real life project.
