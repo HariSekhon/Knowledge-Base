@@ -121,14 +121,21 @@ sdk install java
 
 ### Install another SDK version
 
+Choose from the `Version` column string from the `sdk list java` output -
+so it's not quite a semver `x.y.z` due to the suffix differentiator between different JDK distributions.
+
 ```shell
-sdk install java <version>
+version="21.0.4-tem"
+```
+
+```shell
+sdk install java "$version"
 ```
 
 ### Switch to use another SDK Version
 
 ```shell
-sdk use java <version>
+sdk use java "$version"
 ```
 
 ### List all the selected SDKs
