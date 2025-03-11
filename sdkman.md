@@ -119,6 +119,16 @@ sdk install java
 
 (can also shorten to `sdk i java`)
 
+You should see this puts the Java version first in your `$PATH`:
+
+```shell
+which java
+```
+
+```text
+/Users/hari/.sdkman/candidates/java/current/bin/java
+```
+
 ### Install another SDK version
 
 Choose from the `Version` column string from the `sdk list java` output -
