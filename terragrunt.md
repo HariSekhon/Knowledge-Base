@@ -338,10 +338,10 @@ or on Mac:
 $HOME/Library/Caches/terragrunt/providers
 ```
 
-You can set this to override it:
+You can set this to override it (eg. to override it on [Atlantis](atlantis.md) to the larger `/atlantis-data` partition:
 
 ```shell
-export TG_PROVIDER_CACHE_DIR=/new/path/to/cache/dir
+export TG_PROVIDER_CACHE_DIR="/atlantis-data/plugin-cache"
 ```
 
 To cache from registries other than `registry.terraform.io` and `registry.opentofu.org`
