@@ -1076,6 +1076,9 @@ Humid and hot, with a beach bars busy even late on a Sunday night.
 - [Blacklist Coffee Roasters](https://maps.app.goo.gl/wSHe5knuDZCHAKxV6) - Fast wifi 30-70Mbit, split into two areas,
   area to the left back when you walk in is full of people on laptops and has plugs. Full breakfast is decent,
   as is the crispy proscuitto & eggs on sourdough toast, and a good range of drinks
+- [Tucker - Sandwich & Cocktail Bar](https://maps.app.goo.gl/bwHqw3z3KTDeXkXo8) - quiet during the day, 200Mbit download
+  / 100Mbit upload WiFi, good menu and reasonable prices. The Med breakfast with an extra egg and sourdough toast is my
+  pick here
 
 ### Italy
 
