@@ -1079,6 +1079,8 @@ Humid and hot, with a beach bars busy even late on a Sunday night.
 - [Tucker - Sandwich & Cocktail Bar](https://maps.app.goo.gl/bwHqw3z3KTDeXkXo8) - quiet during the day, 200Mbit download
   / 100Mbit upload WiFi, good menu and reasonable prices. The Med breakfast with an extra egg and sourdough toast is my
   pick here
+- [Pizza Fabbrica - Canggu](https://maps.app.goo.gl/w6dQ5QMLbBqxePAV6) - Italian pizza, huge coconut, 45 Mbit/s download
+  / 10Mbit/s upload wifi
 
 ### Italy
 
