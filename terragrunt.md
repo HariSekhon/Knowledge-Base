@@ -326,6 +326,31 @@ To use it, just:
 export TG_PROVIDER_CACHE=1
 ```
 
+Stores plugins in:
+
+```text
+$HOME/.cache/terragrunt/providers
+```
+
+or on Mac:
+
+```text
+$HOME/Library/Caches/terragrunt/providers
+```
+
+You can set this to override it:
+
+```shell
+export TG_PROVIDER_CACHE_DIR=/new/path/to/cache/dir
+```
+
+To cache from registries other than `registry.terraform.io` and `registry.opentofu.org`
+eg. if you have your own private registry:
+
+```shell
+export TG_PROVIDER_CACHE_REGISTRY_NAMES="example1.com,example2.com"
+```
+
 To see how much space you are wasting on duplicate provider downloads for Terragrunt modules,
 you can run this script from [DevOps-Bash-tools](devops-bash-tools.md):
 
