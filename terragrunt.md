@@ -320,6 +320,12 @@ More recently updated than [tgenv](https://github.com/cunymatthieu/tgenv).
 
 Because [Terraform Plugin Caching](terraform.md#caching) is not thread-safe.
 
+To use it, just:
+
+```shell
+export TG_PROVIDER_CACHE=1
+```
+
 To see how much space you are wasting on duplicate provider downloads for Terragrunt modules,
 you can run this script from [DevOps-Bash-tools](devops-bash-tools.md):
 
