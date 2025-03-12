@@ -1082,6 +1082,11 @@ Humid and hot, with a beach and bars busy even late on a Sunday night.
 - [Pizza Fabbrica - Canggu](https://maps.app.goo.gl/w6dQ5QMLbBqxePAV6) - Italian pizza, huge coconut, 45 Mbit/s download
   / 10Mbit/s upload wifi
 - [Garden Canggu Bali](https://maps.app.goo.gl/Q9NK5497dR6X1Lu29) - affordable, good bolognese
+- [Oakberry Acai Canggu](https://maps.app.goo.gl/C5zTrNiLbuQH6bHz9) - 125Mbit wifi and açai, what more can you ask for.
+  £6 though
+- [Luigi's Hot Pizza Canggu](https://maps.app.goo.gl/PJYevcFAgjApxzkv8) - popular pizza and drinks place with 90Mbit/s
+  wifi
+- [Numero Quattro Echo Beach](https://maps.app.goo.gl/sqm6PWdAHB491ETL7) - high quality Italian, take a date here
 
 ### Italy
 
