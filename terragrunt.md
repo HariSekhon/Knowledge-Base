@@ -338,8 +338,8 @@ or on Mac:
 $HOME/Library/Caches/terragrunt/providers
 ```
 
-You can set `TG_PROVIDER_CACHE_DIR` to override it (eg. to override it on [Atlantis](atlantis.md) to the larger
-`/atlantis-data` partition:
+You can set `TG_PROVIDER_CACHE_DIR` to override it (eg. on [Atlantis](atlantis.md) to the larger
+`/atlantis-data` partition):
 
 ```shell
 export TG_PROVIDER_CACHE_DIR="/atlantis-data/plugin-cache"
