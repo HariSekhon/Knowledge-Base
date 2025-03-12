@@ -1070,8 +1070,8 @@ Watch out for restaurants - a lot of them add 15% to your bill for VAT and servi
 
 #### Bali
 
-Much more developed than expected, full of Western restaurants and coffee shops.
-Humid and hot, with a beach bars busy even late on a Sunday night.
+Much more developed than expected, gentrified, full of Western restaurants and coffee shops.
+Humid and hot, with a beach and bars busy even late on a Sunday night.
 
 - [Blacklist Coffee Roasters](https://maps.app.goo.gl/wSHe5knuDZCHAKxV6) - Fast wifi 30-70Mbit, split into two areas,
   area to the left back when you walk in is full of people on laptops and has plugs. Full breakfast is decent,
