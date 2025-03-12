@@ -345,6 +345,13 @@ You can set `TG_PROVIDER_CACHE_DIR` to override it (eg. on [Atlantis](atlantis.m
 export TG_PROVIDER_CACHE_DIR="/atlantis-data/plugin-cache"
 ```
 
+Don't forget to create that dir:
+
+```shell
+mkdir -p -v /atlantis-data/plugin-cache
+chown atlantis:atlantis /atlantis-data/plugin-cache
+```
+
 To cache from registries other than `registry.terraform.io` and `registry.opentofu.org`
 eg. if you have your own private registry:
 
