@@ -1081,6 +1081,7 @@ Humid and hot, with a beach and bars busy even late on a Sunday night.
   pick here
 - [Pizza Fabbrica - Canggu](https://maps.app.goo.gl/w6dQ5QMLbBqxePAV6) - Italian pizza, huge coconut, 45 Mbit/s download
   / 10Mbit/s upload wifi
+- [Garden Canggu Bali](https://maps.app.goo.gl/Q9NK5497dR6X1Lu29) - affordable, good bolognese
 
 ### Italy
 
