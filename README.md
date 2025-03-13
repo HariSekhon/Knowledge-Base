@@ -105,7 +105,7 @@ References to official docs and some classic books are provided for those who wa
   - [Performance Engineering](#performance-engineering)
 - [AI & Automation](#ai--automation)
 - [Work](#work)
-  - [Remote Working](#remote-working)
+  - [Remote Working & Digital Nomad](#remote-working--digital-nomad)
   - [Training & Interview Materials](#training--interview-materials)
   - [Banking Industry](#banking-industry)
   - [Travel](#travel)
@@ -662,7 +662,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 ## Work
 
-### Remote Working
+### Remote Working & Digital Nomad
 
 - [Remote Working & Digital Nomad](remote-working.md)
   - [Travel](travel.md)
