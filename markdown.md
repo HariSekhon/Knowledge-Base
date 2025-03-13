@@ -4,6 +4,8 @@
 
 - [GitHub `README.md`](#github-readmemd)
 - [MKDocs](#mkdocs)
+- [Obsidian](#obsidian)
+- [GitBook](#gitbook)
 - [Quarto](#quarto)
 - [Markdown Best Practices](#markdown-best-practices)
   - [Lint your Markdown](#lint-your-markdown)
@@ -16,6 +18,7 @@
 - [Emojis](#emojis)
 - [Badges & Icons](#badges--icons)
   - [Badges](#badges)
+    - [Badge Tips](#badge-tips)
   - [Icons](#icons)
     - [Simple Icons](#simple-icons)
     - [More Icons](#more-icons)
@@ -30,6 +33,8 @@
   - [Star Charts](#star-charts)
 - [Link Team Support Numbers to WhatsApp Desktop](#link-team-support-numbers-to-whatsapp-desktop)
 - [Online Markdown Preview Editors](#online-markdown-preview-editors)
+- [Memes](#memes)
+  - [Peacocking Your Code](#peacocking-your-code)
 
 <!-- INDEX_END -->
 
@@ -43,6 +48,14 @@ repo's home page - put links in it to your other markdown `*.md` doc files in yo
 ## MKDocs
 
 [MKDocs](mkdocs.md) converts standard markdown files into a website.
+
+## Obsidian
+
+<https://obsidian.md/>
+
+## GitBook
+
+<https://www.gitbook.com/>
 
 ## Quarto
 
@@ -186,6 +199,10 @@ Lists of emojis `:shortcodes:` that will be rendered on GitHub flavoured markdow
 ### Badges
 
 Use [Shields.io](https://shields.io) to create many different types of badges.
+
+#### Badge Tips
+
+Since Shields.io breaks badge components on dashes (-) you need to escape dashes by doubling them up (--).
 
 ### Icons
 
@@ -400,3 +417,9 @@ In no particular order since I don't use these, I use the [IntelliJ](intellij.md
 <https://dillinger.io/>
 
 <https://stackedit.io/>
+
+## Memes
+
+### Peacocking Your Code
+
+![Peacocking Your Code](images/orly_peacocking_your_code.jpeg)
