@@ -65,8 +65,9 @@
 - [RKE2](rke2.md)
 - [Portworx](portworx.md)
 
-## Machine Learning
+## AI & Machine Learning
 
+- [K8sGPT](https://k8sgpt.ai/)
 - [Kubeflow](https://www.kubeflow.org/)
 
 ## Configs
