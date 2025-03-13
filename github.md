@@ -25,6 +25,7 @@ NOT PORTED YET
   - [Met Wife in GitHub Issues Thread](#met-wife-in-github-issues-thread)
   - [The Lone Wolf Developer](#the-lone-wolf-developer)
   - [The Hungry Developer](#the-hungry-developer)
+  - [Rutting Season](#rutting-season)
 
 <!-- INDEX_END -->
 
@@ -247,5 +248,9 @@ Aren't you lucky this isn't me...
 ### The Hungry Developer
 
 ![Hungry Developer](images/orly_hungry_developer_elephant.png)
+
+### Rutting Season
+
+![Rutting Season](images/orly_rutting_season_how_to_face_off_with_other_devs.png)
 
 **Disclaimer**: seriously, don't get married, you can't control the forking today.
