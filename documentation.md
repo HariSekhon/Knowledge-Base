@@ -25,6 +25,7 @@
   - [Copying and Pasting from Stack Overflow](#copying-and-pasting-from-stack-overflow)
   - [Postmortem Analysis - Explaining Production Outages](#postmortem-analysis---explaining-production-outages)
   - [Mentoring Juniors](#mentoring-juniors)
+  - [Peacocking Your Code](#peacocking-your-code)
 
 <!-- INDEX_END -->
 
@@ -266,5 +267,9 @@ You're going to need it.
 ### Mentoring Juniors
 
 ![Mentoring Juniors](images/orly_mentoring_juniors.png)
+
+### Peacocking Your Code
+
+![Peacocking Your Code](images/orly_peacocking_your_code.jpeg)
 
 **I may well call upon you to defeat tedious Agile ceremonies!**
