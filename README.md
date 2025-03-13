@@ -664,7 +664,8 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 ### Remote Working
 
-- [Remote Working](remote-working.md)
+- [Remote Working & Digital Nomad](remote-working.md)
+  - [Travel](travel.md)
 
 ### Training & Interview Materials
 
