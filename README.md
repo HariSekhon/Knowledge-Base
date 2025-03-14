@@ -208,6 +208,7 @@ This one is used widely throughout these pages:
 ## Architecture & Documentation
 
 - [Architecture](architecture.md) TODO
+- [Best Practices](best-practices.md)
 - [Product Selection](product-selection.md) TODO
 - [Diagrams-as-Code](diagrams.md)
   - [D2 lang](d2.md)
