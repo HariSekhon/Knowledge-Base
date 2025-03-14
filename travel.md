@@ -1066,6 +1066,8 @@ The Thai tom yum soup and the sushi are recommended.
 
 ### Indonesia
 
+$35 visa on arrival.
+
 Watch out for restaurants - a lot of them add 15% to your bill for VAT and service.
 
 #### Bali
