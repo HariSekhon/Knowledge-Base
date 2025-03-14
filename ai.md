@@ -29,6 +29,7 @@ General AI mirroring what humans have is not real yet.
 - [Meme](#meme)
   - [LLM - How to Plagiarize Like a Pro](#llm---how-to-plagiarize-like-a-pro)
   - [Building AI to Replace Humans](#building-ai-to-replace-humans)
+  - [Fewer Devs, Fewer Managers](#fewer-devs-fewer-managers)
 - [Copying and Pasting from ChatGPT](#copying-and-pasting-from-chatgpt)
   - [Say Powered by AI One More Time](#say-powered-by-ai-one-more-time)
   - [Coding with GPT](#coding-with-gpt)
@@ -147,6 +148,10 @@ Combines LLM with referencing an authoritative traditional Knowledge Base before
 ### Building AI to Replace Humans
 
 ![Building AI to Replace Humans](images/orly_building_ai_to_replace_humans.png)
+
+### Fewer Devs, Fewer Managers
+
+![Fewer Devs, Fewer Managers](images/fewer_devs_fewer_managers.jpeg)
 
 ## Copying and Pasting from ChatGPT
 
