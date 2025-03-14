@@ -78,7 +78,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Asahi Linux on Apple Silicon](#asahi-linux-on-apple-silicon)
 - [XCode Mobile App Builds](#xcode-mobile-app-builds)
 - [Time Machine](#time-machine)
-  - [Time Machine Info](#time-machine-info)
+  - [Trigger Backup](#trigger-backup)
+  - [List Backups](#list-backups)
   - [Restore a file from latest backup](#restore-a-file-from-latest-backup)
 - [Troubleshooting](#troubleshooting)
   - [XCodeBuild error complaining XCode only has command line tools](#xcodebuild-error-complaining-xcode-only-has-command-line-tools)
@@ -1040,7 +1041,25 @@ See [Mobile Builds](mobile-builds.md) doc.
 
 ## Time Machine
 
-### Time Machine Info
+### Trigger Backup
+
+```shell
+tmutil startbackup
+```
+
+Backup status:
+
+```shell
+tmutil status
+```
+
+Cancel backup:
+
+```shell
+tmutil stopbackup
+```
+
+### List Backups
 
 List time machine backups:
 
