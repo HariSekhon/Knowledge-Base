@@ -29,6 +29,8 @@ scripts to do extra tags, cache busting upon new commits to GitHub repos etc.
 
 <https://docs.docker.com/build/building/best-practices>
 
+<<https://sysdig.com/learn-cloud-native/dockerfile-best-practices/>>
+
 ## Amazing Cache Busting Trick
 
 If you're building from GitHub repos that you want to trigger rebuilds upon any change by busting the Docker build cache
