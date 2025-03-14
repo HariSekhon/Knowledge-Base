@@ -368,6 +368,7 @@ This one is used widely throughout these pages:
 - [Gradle](gradle.md)
 - [SBT](sbt.md)
 - [Mobile Builds](mobile-builds.md)
+  - [Fastlane](fastlane.md)
 
 ### Artifact Registries
 
