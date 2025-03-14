@@ -399,6 +399,7 @@ and add the country you are travelling to for more options.
   under the e-sim settings otherwise the internet won't connect
 - [Saily](https://saily.com/)
 - [Holafly](https://esim.holafly.com/)
+- [Saily](https://saily.com/)
 
 ## International Calls using VoIP over the Internet
 
