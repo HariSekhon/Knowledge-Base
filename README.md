@@ -240,6 +240,7 @@ This one is used widely throughout these pages:
   - [AWS](aws.md)
     - [AMI Scanning](ami-scanning.md)
   - [GCP](gcp.md)
+    - [Firebase](firebase.md)
   - [Azure](azure.md)
   - [Digital Ocean](digital-ocean.md)
 - Third Party Tools:
