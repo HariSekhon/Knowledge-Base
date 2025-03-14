@@ -6,6 +6,7 @@
 - [Screenshots](#screenshots)
 - [Start At Login](#start-at-login)
 - [MMCs](#mmcs)
+- [WinDirStat - Disk Space Analysis](#windirstat---disk-space-analysis)
 - [Commands](#commands)
   - [Networking](#networking)
   - [List Volumes](#list-volumes)
@@ -124,6 +125,13 @@ You can launch them from `Start` -> `Run` menu and typing their name which ends 
 | `gpedit.msc`     | Group Policy Management              | Centralized management environment for configuring Group Policy settings     |
 | `perfmon.msc`    | Performance Monitor                  | Monitors system performance, displaying real-time data about system usage    |
 | `eventvwr.msc`   | Event Viewer                         | Allows viewing and managing system, application, and security event logs     |
+
+## WinDirStat - Disk Space Analysis
+
+Use the excellent [WinDirStat](https://windirstat.net/) tool to visually see what is occupying your disk space.
+
+[Disk Inventory X](https://www.derlien.com/) for Mac and [KDirStat](https://kdirstat.sourceforge.net/) for Linux are
+inspired by this.
 
 ## Commands
 
