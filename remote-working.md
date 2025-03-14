@@ -41,6 +41,10 @@ they can just pay via one of these companies:
 
 ![Working at Office vs Home](images/working_at_office_vs_at_home.jpeg)
 
+### Office Culture
+
+![Office Culture](images/returning_to_office_the_culture.webp)
+
 ### Digital Nomadding - Run Wild Like a Stallion
 
 ![Digital Nomadding - Run Wild Like a Stallion](images/orly_digital_nomadding_run_wild_like_a_stallion.png)
