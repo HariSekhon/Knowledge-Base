@@ -20,7 +20,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [EU](#eu)
   - [Rest of World](#rest-of-world)
     - [Digital e-sims](#digital-e-sims)
-- [International Calls using VoIP over the Internet](#international-calls-using-voip-over-the-internet)
+  - [International Calls using VoIP over the Internet](#international-calls-using-voip-over-the-internet)
 - [Foreign Cash Withdrawals](#foreign-cash-withdrawals)
 - [Dining Out](#dining-out)
 - [Translation](#translation)
@@ -401,7 +401,7 @@ and add the country you are travelling to for more options.
 - [Holafly](https://esim.holafly.com/)
 - [Saily](https://saily.com/)
 
-## International Calls using VoIP over the Internet
+### International Calls using VoIP over the Internet
 
 Because banks and other legacy providers will force you to call them, you can use one of these services:
 
