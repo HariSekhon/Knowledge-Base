@@ -367,6 +367,7 @@ This one is used widely throughout these pages:
 - [Maven](maven.md)
 - [Gradle](gradle.md)
 - [SBT](sbt.md)
+- [Mobile Builds](mobile-builds.md)
 
 ### Artifact Registries
 
