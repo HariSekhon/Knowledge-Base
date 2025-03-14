@@ -1084,7 +1084,8 @@ Humid and hot, with a beach and bars busy even late on a Sunday night.
   / 100Mbit upload WiFi, good menu and reasonable prices. The Med breakfast with an extra egg and sourdough toast is my
   pick here
 - [Milk & Madu](https://maps.app.goo.gl/5E6Q149PQEN6jVUw9) - Decent menu, moderate prices, has milkshakes and juice
-  mixes. Wifi has no password but it's slow 17Mbit/s download / 2Mbit/s upload
+  mixes. Pasta Club Friday 5pm onwards only 65,000 ($4) for any pasta dish such as bolognese or lasagna.
+  Wifi has no password but it's slow 17Mbit/s download / 2Mbit/s upload
 - [Pizza Fabbrica - Canggu](https://maps.app.goo.gl/w6dQ5QMLbBqxePAV6) - Italian pizza, huge coconut, 45 Mbit/s download
   / 10Mbit/s upload wifi
 - [Garden Canggu Bali](https://maps.app.goo.gl/Q9NK5497dR6X1Lu29) - affordable, good bolognese
