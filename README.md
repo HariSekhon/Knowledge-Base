@@ -418,8 +418,9 @@ This one is used widely throughout these pages:
 
 - [CI/CD](cicd.md)
 - [Mobile CI/CD](cicd-mobile.md)
+  - [Mobile Builds](mobile-builds.md)
   - [Fastlane](fastlane.md)
-  - [Firebase]](firebase.md)
+  - [Firebase](firebase.md)
 - Self-Hosted CI/CD:
   - [Jenkins](jenkins.md)
     - [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md)
