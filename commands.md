@@ -7,6 +7,7 @@ More commands to supplement [Bash / Shell Scripting](bash.md).
 - [Terminal Trove](#terminal-trove)
 - [Awesome Lists](#awesome-lists)
 - [Third Party Tools](#third-party-tools)
+  - [PwGen](#pwgen)
   - [JSON](#json)
   - [tldr](#tldr)
   - [fzf](#fzf)
@@ -39,6 +40,18 @@ Treasure trove off CLI tools.
 <https://github.com/toolleeo/cli-apps>
 
 ## Third Party Tools
+
+### PwGen
+
+Generate random passwords on the command line easily.
+
+<https://sourceforge.net/projects/pwgen/>
+
+Usually you can just install this with your package manager, eg. on Mac:
+
+```shell
+brew install pwgen
+```
 
 ### JSON
 
