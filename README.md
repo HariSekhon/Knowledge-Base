@@ -177,6 +177,7 @@ This one is used widely throughout these pages:
 - [Shell](shell.md)
   - [Bash](bash.md)
   - [direnv / `.envrc`](direnv.md)
+  - [Shell One Liners](shell-one-liners.md)
   - [Advanced & Third Party Commands](commands.md)
 - [Disk Management](disk.md)
 - [Logging](logging.md)
