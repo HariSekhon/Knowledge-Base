@@ -1076,6 +1076,10 @@ Humid and hot, with a beach and bars busy even late on a Sunday night.
 - [Blacklist Coffee Roasters](https://maps.app.goo.gl/wSHe5knuDZCHAKxV6) - Fast wifi 30-70Mbit, split into two areas,
   area to the left back when you walk in is full of people on laptops and has plugs. Full breakfast is decent,
   as is the crispy proscuitto & eggs on sourdough toast, and a good range of drinks
+- [Canteen Cafe](https://maps.app.goo.gl/W5tY3thHoQVsb2Ww5) - good food, reasonable prices, 170Mbit/s wifi and plugs.
+  My pick here is the breakfast deal 1: 2 eggs & bacon on sourdough toast, fruit bowl and juice for only ~$7
+- [Nalu Ice Cream](https://maps.app.goo.gl/vXDgJsAhNGkeyCJ18) - ice cream, milkshakes made from ice cream + milk.
+  165Mbit/s WiFi
 - [Tucker - Sandwich & Cocktail Bar](https://maps.app.goo.gl/bwHqw3z3KTDeXkXo8) - quiet during the day, 200Mbit download
   / 100Mbit upload WiFi, good menu and reasonable prices. The Med breakfast with an extra egg and sourdough toast is my
   pick here
@@ -1088,6 +1092,8 @@ Humid and hot, with a beach and bars busy even late on a Sunday night.
   £6 though
 - [Luigi's Hot Pizza Canggu](https://maps.app.goo.gl/PJYevcFAgjApxzkv8) - popular pizza and drinks place with 90Mbit/s
   wifi
+- [BB52 Burgers](https://maps.app.goo.gl/Upn2Vbb5APf4poag9) - good burgers and chips, open late until 3am and
+  50% off Tuesdays until 11pm
 - [Numero Quattro Echo Beach](https://maps.app.goo.gl/sqm6PWdAHB491ETL7) - high quality Italian, take a date here
 
 ### Italy
