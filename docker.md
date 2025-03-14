@@ -198,6 +198,8 @@ docker buildx ...
 
 <https://docs.docker.com/build/building/best-practices>
 
+<https://sysdig.com/learn-cloud-native/dockerfile-best-practices/>
+
 ## Sharing Cache between hosts
 
 <https://docs.docker.com/engine/reference/commandline/build/#specifying-external-cache-sources>
