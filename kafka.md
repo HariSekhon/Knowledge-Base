@@ -20,9 +20,13 @@ TODO: port Kafka notes here
 
 API monitoring plugin does full pub-sub unique message with Kerberos support. Written in [Scala](scala.md).
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugin-Kafka&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
+
 ## Nagios Plugins for Kafka API written in Python & Perl
 
 [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
 
 ## Kafka on Kubernetes
 
