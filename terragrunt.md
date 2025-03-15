@@ -508,6 +508,7 @@ ERRO[0000] Unable to determine underlying exit code, so Terragrunt will exit wit
 then make sure to unset `TERRAGRUNT_TFPATH` or direct it to your correct terraform binary (rather than directory as
 in the case above).
 
+<!-- mdl-disable MD034 -->
 ### Error: Get "http://localhost/api/v1/namespaces/kube-system/configmaps/aws-auth": dial tcp [::1]:80: connect: connection refused
 
 ```text
