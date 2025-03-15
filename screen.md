@@ -89,6 +89,7 @@ See my advanced screen config here:
 
 Escape the shell key of `Ctrl-a` to jump to the start of the line by doing `Ctrl-a` , `a`.
 
+<!-- mdl-disable MD056 -->
 | Action                                                                                             | Keystrokes                                                                    |
 |----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | Create a new screen                                                                                | `Ctrl-a` , `c`                                                                |
