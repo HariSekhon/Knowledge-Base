@@ -9,6 +9,7 @@
 - [Quarto](#quarto)
 - [Markdown Best Practices](#markdown-best-practices)
   - [Lint your Markdown](#lint-your-markdown)
+    - [Markdownlint Exceptions](#markdownlint-exceptions)
   - [URL Hyperlinking](#url-hyperlinking)
   - [Relative Link Paths](#relative-link-paths)
   - [Code Blocks vs Inline Code](#code-blocks-vs-inline-code)
@@ -83,6 +84,21 @@ Useful for auto-linting before committing as well as in CI/CD.
 
 See
 [GitHub Actions - Markdown reusable workflow](https://github.com/HariSekhon/GitHub-Actions/blob/master/.github/workflows/markdown.yaml).
+
+#### Markdownlint Exceptions
+
+If you run into a bug that you want to ignore,
+you can do so by putting this comment just before the offending line or table:
+
+```markdown
+<!-- mdl-disable MDnnn -->
+```
+
+eg.
+
+```markdown
+<!-- mdl-disable MD056 -->
+```
 
 ### URL Hyperlinking
 
