@@ -261,7 +261,7 @@ Check the current EKS version:
 aws eks describe-cluster --name "$EKS_CLUSTER" --query cluster.version --output text
 ```
 
-Initiate the Control Plane upgrade using `eksctl`:
+Initiate the Control Plane upgrade using `eksctl` (takes 12-13 minutes):
 
 ```shell
 eksctl upgrade cluster --name "$EKS_CLUSTER" --version "$TARGET_VERSION" --approve  # without --approve does a plan only
