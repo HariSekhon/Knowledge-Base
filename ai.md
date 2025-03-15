@@ -165,4 +165,4 @@ Combines LLM with referencing an authoritative traditional Knowledge Base before
 
 Watch out for that quality and not knowing WTF you're doing!
 
-![Coding with GPT](images/oreilly_book_coding_with_gpt.jpeg)
+![Coding with GPT](images/orly_book_coding_with_gpt.jpeg)
