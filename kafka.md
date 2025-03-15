@@ -1,7 +1,5 @@
 # Kafka
 
-TODO: port Kafka notes here
-
 <!-- INDEX_START -->
 
 - [Nagios-Plugin-Kafka with Kerberos support](#nagios-plugin-kafka-with-kerberos-support)
@@ -15,6 +13,8 @@ TODO: port Kafka notes here
 <!-- INDEX_END -->
 
 ## Key Points
+
+TODO: port Kafka notes here
 
 - A Kafka topic is divided into partitions
   - each partition can then be split across different brokers (servers) for horizontal scaling
