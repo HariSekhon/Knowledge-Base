@@ -281,4 +281,4 @@ open /Applications/Xcode.app/Contents/Applications/Instruments.app
 
 ### Debugging
 
-![Debugging](images/oreilly_debugging_how_to_sell_your_soul_to_it_working.png)
+![Debugging](images/orly_debugging_how_to_sell_your_soul_to_it_working.png)
