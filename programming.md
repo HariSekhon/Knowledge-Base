@@ -390,7 +390,7 @@ I suspect this is only when recruiters try programming... :wink:
 
 ### Hating on Languages You Don't Use
 
-![Hating on Languages You Don't Use](images/oreilly_hating_on_languages_you_dont_use.jpeg)
+![Hating on Languages You Don't Use](images/orly_hating_on_languages_you_dont_use.jpeg)
 
 ### H8 PHP Range Rover
 
