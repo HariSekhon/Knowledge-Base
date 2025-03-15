@@ -221,7 +221,7 @@ github_public_lines_of_code.sh
 
 ### O'Reilly - Choosing Based on GitHub Stars
 
-![](images/oreilly_book_choosing_by_github_stars_you_only_live_once.webp)
+![](images/orly_book_choosing_by_github_stars_you_only_live_once.webp)
 
 ### Baby Yoda Gets GitHub Stars
 
