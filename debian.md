@@ -20,6 +20,8 @@ The legendary, mature widely used stable Linux distribution with the best most r
   - [Preseed Template](#preseed-template)
   - [HashiCorp Packer + Preseed Config](#hashicorp-packer--preseed-config)
 - [Debian Change Log tool](#debian-change-log-tool)
+- [Meme](#meme)
+  - [Standardizing on Distro](#standardizing-on-distro)
 
 <!-- INDEX_END -->
 
