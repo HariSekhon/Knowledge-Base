@@ -3,7 +3,8 @@
 <!-- INDEX_START -->
 
 - [The Cardinal Rule of IT](#the-cardinal-rule-of-it)
-- [Hire Talent Above All Else](#hire-talent-above-all-else)
+- [Hiring Best Practices](#hiring-best-practices)
+  - [Hire Talent Above All Else](#hire-talent-above-all-else)
 - [Budget vs Reality](#budget-vs-reality)
 - [High Availability and Multi-Datacenter](#high-availability-and-multi-datacenter)
 - [Use Version Control for Everything Textual - Code, Configs & Docs](#use-version-control-for-everything-textual---code-configs--docs)
@@ -20,15 +21,21 @@
   - [Infrastructure-as-Code](#infrastructure-as-code)
 - [Principle: Portability](#principle-portability)
 - [Documentation](#documentation)
+- [Principle: Clarity](#principle-clarity)
+- [Principle: Intuitive Design](#principle-intuitive-design)
 - [Principle: Time Amplification Effect](#principle-time-amplification-effect)
+- [Principle: Keep It Simple](#principle-keep-it-simple)
+- [Principle: Clever Code is Hard to Debug](#principle-clever-code-is-hard-to-debug)
 - [Vendors](#vendors)
 - [Avoid Vendor Lock In](#avoid-vendor-lock-in)
+- [Minimize / Manage Technical Debt](#minimize--manage-technical-debt)
 - [Technology Specific Best Practices](#technology-specific-best-practices)
   - [Dates - always use ISO8601 Date Format](#dates---always-use-iso8601-date-format)
   - [Docker Best Practices](#docker-best-practices)
   - [Kubernetes - Production Ready Checklist](#kubernetes---production-ready-checklist)
   - [GitHub Actions CI/CD Best Practices](#github-actions-cicd-best-practices)
 - [Memes](#memes)
+  - [Trying Stuff Until It Works](#trying-stuff-until-it-works)
   - [Getting Good At Engineering](#getting-good-at-engineering)
   - [Debugging Someone Else's Code](#debugging-someone-elses-code)
   - [Commercial Negotiations - Out Foxing Vendors](#commercial-negotiations---out-foxing-vendors)
@@ -50,7 +57,24 @@ This includes:
 - document your work concisely
 - use diagrams where possible
 
-## Hire Talent Above All Else
+## Hiring Best Practices
+
+Hire for:
+
+- Talent
+- Motivation
+- Meritocracy - no DEI aka reverse discrimination under any circumstances
+- IQ
+- Grit & Determination
+  - this is a key difference between junior / mid and senior engineers
+  - if you're the 3rd line or lead engineer there is nobody to go to, you have to figure it out one way or another.
+  - cheating on solving problems due to time pressures or lack of determination to get to the best result just creates
+    technical debt for some other poor person to have to deal with later
+    - which is often even worse as it's much harder and more risky to make big fixes to production systems
+- Enthusiasm
+- Positive can-do attitude (needs to still be realistic)
+
+### Hire Talent Above All Else
 
 If you get this right, the rest of this list will solve itself via IQ and experience.
 
@@ -157,7 +181,7 @@ Keep It Simple - don't break this rule. It will bite you one day, one way or ano
 
 ![Development Cycle Friday Evening Edition](images/development_cycle_friday_evening_edition.jpg)
 
-![Breaking Stuff on Friday Let the Intern Fix It](images/oreilly_breaking_stuff_on_friday_let_intern_fix_it.jpg)
+![Breaking Stuff on Friday Let the Intern Fix It](images/orly_breaking_stuff_on_friday_let_intern_fix_it.jpg)
 
 ## Versioning
 
@@ -232,6 +256,16 @@ Do not rely on your memory, it will inevitably fail you eventually, write everyt
 
 See the [Documentation](documentation.md) page.
 
+## Principle: Clarity
+
+Concise is better than long winded.
+
+Don't save 1-2 characters at the expense of easy legibility.
+
+## Principle: Intuitive Design
+
+If want you're doing isn't obvious to someone who understands the technology, you are probably doing it wrong.
+
 ## Principle: Time Amplification Effect
 
 Do not waste your colleagues time.
@@ -239,6 +273,22 @@ Do not waste your colleagues time.
 If you've spent hours reading through a vendor's code base of Terraform code they want you to deploy
 or retrofit to your AWS environment, then write a 1 page summary on it so
 all your colleagues don't have to waste their time repeating the same work!
+
+## Principle: Keep It Simple
+
+Don't overcomplicate things.
+
+You will pay for it later when you have to maintain it, or worse, some other poor engineer has to maintain it.
+
+## Principle: Clever Code is Hard to Debug
+
+Debugging code is twice as difficult as writing it in the first place.
+
+So if you write very clever code, even you by definition will struggle to debug it at a much later date when you've
+forgotten about it.
+
+If you really can't any other way except to use some clever trick,
+document it throughly so you remember what the hell you were thinking at the time, or so your successor knows.
 
 ## Vendors
 
@@ -260,6 +310,16 @@ Negotiable in contract maximum yearly rate increases to prevent large jumps eg.
 20% as one notorious legacy DB vendor did to an investment bank I worked at.
 
 ![Vendor Lock In](images/orly_building_tech_moats.png)
+
+## Minimize / Manage Technical Debt
+
+Minimize or manage technical debt carefully.
+
+Try to not take shortcuts that result in technical debt, but if you really have to, create a [Jira](jira.md)
+or similar ticket to record it on the backlog and come back to it rather than forget about it and get bitten later when
+you are under time pressure for something else
+
+![Technical Debt](images/tech_debt.jpeg)
 
 ## Technology Specific Best Practices
 
@@ -297,6 +357,14 @@ See the [GitHub Actions](github-action,md) doc.
 
 ## Memes
 
+### Trying Stuff Until It Works
+
+Don't just barely get things working.
+
+Do the best that can be done, even if you have to work late - be proud of your work.
+
+![Try until it works](images/orly_trying-stuff-until-it-works.jpg)
+
 ### Getting Good At Engineering
 
 ![Getting Good At Engineering](images/orly_getting_good_at_engineering_the_slow_way.png)
@@ -312,7 +380,7 @@ if you write very clever code, then by definition you may not be clever enough t
 
 Don't make your life or that of your peers difficult.
 
-![Debugging Someone Else's Code](images/oreilly_debugging_someone_elses_code.jpeg)
+![Debugging Someone Else's Code](images/orly_debugging_someone_elses_code.jpeg)
 
 ### Commercial Negotiations - Out Foxing Vendors
 
