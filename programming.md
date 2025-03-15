@@ -306,7 +306,7 @@ tokei .
 
 ### Resolving Broken Dependencies
 
-![Resolving Broken Dependencies](images/oreilly_resolving_broken_dependencies.png)
+![Resolving Broken Dependencies](images/orly_resolving_broken_dependencies.png)
 
 ### Practice
 
@@ -364,7 +364,7 @@ Be honest now…
 
 Watch out for that quality and not knowing WTF you're doing!
 
-![Coding with GPT](images/oreilly_book_coding_with_gpt.jpeg)
+![Coding with GPT](images/orly_book_coding_with_gpt.jpeg)
 
 ### Senior Devs Fixing Bugs in Production
 
@@ -400,7 +400,7 @@ Hate PHP... but PHP paid for the Range Rover...
 
 ### C++ for Python Developers
 
-![C++ for Python Developers](images/oreilly_c%2B%2B_for_python_developers.png)
+![C++ for Python Developers](images/orly_c%2B%2B_for_python_developers.png)
 
 ### Hell is Debugging Other People's Code
 
