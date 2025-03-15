@@ -14,6 +14,17 @@ TODO: port Kafka notes here
 
 <!-- INDEX_END -->
 
+## Key Points
+
+- A Kafka topic is divided into partitions
+  - each partition can then be split across different brokers (servers) for horizontal scaling
+- Messages inside a partition are sequentially ordered
+- Partitions enable parallelism for a topic
+- Consumer Group - multiple clients that subscribe using the same consumer group will split reading the messages of that
+  topic between them
+  - Messages from a partition go to only one client in a given consumer group
+  - More partitions than consumers will result in some consumers reading messages from multiple partitions
+
 ## Nagios-Plugin-Kafka with Kerberos support
 
 [HariSekhon/Nagios-Plugin-Kafka](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
