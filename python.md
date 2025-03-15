@@ -400,7 +400,7 @@ apk add py3-pip
 
 ### Programming Python
 
-![Programming Python](images/oreilly_programming_python_maintenance_naive_guide.png)
+![Programming Python](images/orly_programming_python_maintenance_naive_guide.png)
 
 ### Porting Your Language to the JVM
 
