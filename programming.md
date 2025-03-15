@@ -409,7 +409,7 @@ Or even your own code from a while ago if you haven't written it carefully and c
 
 This is at best janitorial work.
 
-![Hell is Debugging Other People's Code](images/oreilly_debugging_someone_elses_code.jpeg)
+![Hell is Debugging Other People's Code](images/orly_debugging_someone_elses_code.jpeg)
 
 ### Programmer Sleep Coding
 
