@@ -53,4 +53,4 @@ they can just pay via one of these companies:
 
 ### Build A Life You Don't Need a Vacation From
 
-![Build Life You Don't Need a Vacation From](images/goal_build_life_dont_need_vacation_from.jpeg)
+![Build A Life You Don't Need a Vacation From](images/goal_build_life_dont_need_vacation_from.jpeg)
