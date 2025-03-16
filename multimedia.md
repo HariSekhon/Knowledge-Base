@@ -223,7 +223,7 @@ identify -verbose "$file"
 Exiv2 is less reliable:
 
 ```shell
-exiv2
+exiv2 "$file"
 ```
 
 ### Look for Watermarks
