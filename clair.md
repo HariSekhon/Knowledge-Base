@@ -19,7 +19,9 @@ see [this issue](https://github.com/quay/clair/issues/1756).
 - [Container Image](#container-image)
 - [Config](#config)
 - [CLI - ClairCtl](#cli---clairctl)
-  - [Install CLI](#install-cli)
+  - [Install Clair Daemon using HomeBrew](#install-clair-daemon-using-homebrew)
+  - [Install ClairCtl CLI](#install-clairctl-cli)
+- [Container Scanning on Jenkins](#container-scanning-on-jenkins)
 
 <!-- INDEX_END -->
 
@@ -56,7 +58,7 @@ clair -conf "path/to/config.yaml" -mode "combo"  # indexer / matcher / notifier
 
 Submit manifest to clair using `clairctl`
 
-### HomeBrew
+### Install Clair Daemon using HomeBrew
 
 Installs the clair daemon not `clairctl` - there is no brew package for `clairctl`:
 
@@ -64,7 +66,7 @@ Installs the clair daemon not `clairctl` - there is no brew package for `clairct
 brew install clair
 ```
 
-### Install CLI
+### Install ClairCtl CLI
 
 Make sure to run this outside any Go directory with a `go.mod` file:
 
@@ -83,5 +85,13 @@ clairctl manifest "$DOCKER_IMAGE:$DOCKER_TAG"
 ```shell
 clairctl --host "$CLAIR_HOST" report "$DOCKER_IMAGE:$DOCKER_TAG"
 ```
+
+## Container Scanning on Jenkins
+
+From [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) and
+[HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code#jenkins-cicd-on-kubernetes)
+repos:
+
+![](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/jenkins_kubernetes_cicd.svg)
 
 **Ported from private Knowledge Base page 2023+**
