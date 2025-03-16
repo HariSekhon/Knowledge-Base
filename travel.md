@@ -85,6 +85,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Potsdam](#potsdam)
   - [Indonesia](#indonesia)
     - [Bali](#bali)
+      - [Canguu](#canguu)
+      - [Kuta](#kuta)
   - [Italy](#italy)
     - [Italy Car Rentals](#italy-car-rentals)
     - [Rome](#rome)
@@ -1076,6 +1078,10 @@ Watch out for restaurants - a lot of them add 15% to your bill for VAT and servi
 Much more developed than expected, gentrified, full of Western restaurants and coffee shops.
 Humid and hot, with a beach and bars busy even late on a Sunday night.
 
+##### Canguu
+
+Surf town, more young attractive people and digital nomads.
+
 - [Blacklist Coffee Roasters](https://maps.app.goo.gl/wSHe5knuDZCHAKxV6) - Fast wifi 30-70Mbit, split into two areas,
   area to the left back when you walk in is full of people on laptops and has plugs. Full breakfast is decent,
   as is the crispy proscuitto & eggs on sourdough toast, and a good range of drinks
@@ -1103,6 +1109,13 @@ Humid and hot, with a beach and bars busy even late on a Sunday night.
 - [BB52 Burgers](https://maps.app.goo.gl/Upn2Vbb5APf4poag9) - good burgers and chips, open late until 3am and
   50% off Tuesdays until 11pm
 - [Numero Quattro Echo Beach](https://maps.app.goo.gl/sqm6PWdAHB491ETL7) - high quality Italian, take a date here
+
+##### Kuta
+
+More touristy, older crowd, lots more accommodation, so cheaper.
+
+- [Warung Damar](https://maps.app.goo.gl/7RTmd7uHF56CQ8Mw8) - Indonesian, good menu, reasonable prices. Rending curry is
+  popular here, sold out by 8pm! 28/13Mbit/s WiFi
 
 ### Italy
 
