@@ -15,6 +15,7 @@ Scans:
 - [Run](#run)
   - [Filesystem Scan](#filesystem-scan)
   - [Docker Image Scan](#docker-image-scan)
+  - [Virtual Machine / AMI Scan](#virtual-machine--ami-scan)
 - [Jenkins CI/CD](#jenkins-cicd)
 - [Ignoring False Positives](#ignoring-false-positives)
 
