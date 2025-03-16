@@ -24,17 +24,25 @@ See also the [AMI Scanning](ami-scanning.md) page.
 
 ### Trivy
 
-<https://github.com/aquasecurity/trivy>
+[:octocat: aquasecurity/trivy](https://github.com/aquasecurity/trivy)
+
+<https://trivy.dev/latest/>
 
 See [Trivy](trivy.md) doc.
 
 ### Grype
 
-<https://github.com/anchore/grype>
+[:octocat: anchore/grype](https://github.com/anchore/grype)
+
+<https://anchore.com/opensource/>
 
 ### Clair
 
-<https://github.com/coreos/clair>
+[:octocat: coreos/clair](https://github.com/coreos/clair)
+
+<https://clairproject.org/>
+
+[Documentation](https://quay.github.io/clair/whatis.html)
 
 Open source static analysis image vulnerability scanner by CoreOS.
 
