@@ -1,8 +1,10 @@
 # Clair
 
-<https://github.com/coreos/clair>
+[:octocat: coreos/clair](https://github.com/coreos/clair)
 
-<https://quay.github.io/clair/whatis.html>
+<https://clairproject.org/>
+
+[Documentation](https://quay.github.io/clair/whatis.html)
 
 Clair Security Scanner by Quay.io / Redhat
 
