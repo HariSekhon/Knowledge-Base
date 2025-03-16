@@ -16,8 +16,8 @@ Scans:
   - [Filesystem Scan](#filesystem-scan)
   - [Docker Image Scan](#docker-image-scan)
   - [Virtual Machine / AMI Scan](#virtual-machine--ami-scan)
-- [Jenkins CI/CD](#jenkins-cicd)
 - [Ignoring False Positives](#ignoring-false-positives)
+- [Jenkins CI/CD](#jenkins-cicd)
 
 <!-- INDEX_END -->
 
@@ -85,16 +85,6 @@ trivy vm ebs:${your_ebs_snapshot_id}
 trivy vm snapshot_id.img
 ```
 
-## Jenkins CI/CD
-
-Jenkins CI/CD functions for running Trivy are available here:
-
-[HariSekhon/Jenkins - vars/trivy.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/trivy.groovy)
-
-[HariSekhon/Jenkins - vars/trivyFS.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/trivyFS.groovy)
-
-[HariSekhon/Jenkins - vars/trivyImages.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/trivyImages.groovy)
-
 ## Ignoring False Positives
 
 Can only put the id in `.trivyignore` but this ignores all instances:
@@ -111,3 +101,21 @@ Inline ignores in source files don't work:
 # false positive - trivy:ignore:gcp-service-account doesn't work
 # trivy:ignore:gcp-service-account
 ```
+
+## Jenkins CI/CD
+
+[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)
+
+Jenkins CI/CD functions for running Trivy are available here:
+
+[HariSekhon/Jenkins - vars/trivy.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/trivy.groovy)
+
+[HariSekhon/Jenkins - vars/trivyFS.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/trivyFS.groovy)
+
+[HariSekhon/Jenkins - vars/trivyImages.groovy](https://github.com/HariSekhon/Jenkins/blob/master/vars/trivyImages.groovy)
+
+From
+[HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code#jenkins-cicd-on-kubernetes)
+repo:
+
+![](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/jenkins_kubernetes_cicd.svg)
