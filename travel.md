@@ -1086,6 +1086,10 @@ Humid and hot, with a beach and bars busy even late on a Sunday night.
 - [Tucker - Sandwich & Cocktail Bar](https://maps.app.goo.gl/bwHqw3z3KTDeXkXo8) - quiet during the day, 200Mbit download
   / 100Mbit upload WiFi, good menu and reasonable prices. The Med breakfast with an extra egg and sourdough toast is my
   pick here
+- [Two Face / Coffee & Brunch](https://maps.app.goo.gl/1H5cTp9PLKti1DTk7) - good menu for both food and drinks,
+  reasonable prices and 80Mbit/s wifi.
+  The downside is it closes early at only 4pm.
+  One of the 60k specials or the big breakie are my picks here.
 - [Milk & Madu](https://maps.app.goo.gl/5E6Q149PQEN6jVUw9) - Decent menu, moderate prices, has milkshakes and juice
   mixes. Pasta Club Friday 5pm onwards only 65,000 ($4) for any pasta dish such as bolognese or lasagna.
   Wifi has no password but it's slow 17Mbit/s download / 2Mbit/s upload
