@@ -72,9 +72,9 @@ Scanner for docker images (company behind Nessus) - one client's tech hub had th
 
 ## Container Scanning on Jenkins
 
-From
-[HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code/?tab=readme-ov-file#jenkins-cicd-on-kubernetes)
-repo:
+From [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) and
+[HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code#jenkins-cicd-on-kubernetes)
+repos:
 
 ![](https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/jenkins_kubernetes_cicd.svg)
 
