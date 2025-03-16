@@ -52,6 +52,7 @@
   - [Whitespace Wars](#whitespace-wars)
   - [Heroes & Villains of Software Development](#heroes--villains-of-software-development)
   - [Will Not Fix Your Computer](#will-not-fix-your-computer)
+  - [Programmer Interview - Can You Work Under Pressure](#programmer-interview---can-you-work-under-pressure)
 
 <!-- INDEX_END -->
 
@@ -491,5 +492,9 @@ Pull Request reviews are here to preven this...
 Many of you will want to send this to your relatives:
 
 ![Not Fix Your Computer](images/programmer_write_code_not_fix_your_computer.jpeg)
+
+### Programmer Interview - Can You Work Under Pressure
+
+![Programmer Interview - Can You Work Under Pressure](images/programmer_interview_work_under_pressure_3_months_in.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
