@@ -68,6 +68,22 @@ Scan the docker image for a given running container:
 trivy image "$(docker inspect --format='{{.Image}}' "$container_id_or_name">)"
 ```
 
+### Virtual Machine / AMI Scan
+
+<https://www.aquasec.com/blog/trivy-now-scans-amazon-machine-images-amis/>
+
+```shell
+trivy vm export-ami.vmdk
+```
+
+```shell
+trivy vm ebs:${your_ebs_snapshot_id}
+```
+
+```shell
+trivy vm snapshot_id.img
+```
+
 ## Jenkins CI/CD
 
 Jenkins CI/CD functions for running Trivy are available here:
