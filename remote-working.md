@@ -10,6 +10,7 @@
   - [Working at Office vs Home](#working-at-office-vs-home)
   - [Office Culture](#office-culture)
   - [Digital Nomadding - Run Wild Like a Stallion](#digital-nomadding---run-wild-like-a-stallion)
+  - [Build Life You Don't Need a Vacation From](#build-life-you-dont-need-a-vacation-from)
 
 <!-- INDEX_END -->
 
@@ -49,3 +50,7 @@ they can just pay via one of these companies:
 ### Digital Nomadding - Run Wild Like a Stallion
 
 ![Digital Nomadding - Run Wild Like a Stallion](images/orly_digital_nomadding_run_wild_like_a_stallion.png)
+
+### Build Life You Don't Need a Vacation From
+
+![Build Life You Don't Need a Vacation From](images/goal_build_life_dont_need_vacation_from.jpeg)
