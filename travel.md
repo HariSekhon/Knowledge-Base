@@ -1114,8 +1114,8 @@ Surf town, more young attractive people and digital nomads.
 
 More touristy, older crowd, lots more accommodation, so cheaper.
 
-- [Warung Damar](https://maps.app.goo.gl/7RTmd7uHF56CQ8Mw8) - Indonesian, good menu, reasonable prices. Rending curry is
-  popular here, sold out by 8pm! 28/13Mbit/s WiFi
+- [Warung Damar](https://maps.app.goo.gl/7RTmd7uHF56CQ8Mw8) - Indonesian, good menu, reasonable prices. Rendang curry is
+  so popular here that sold out by 8pm! 28Mbit download / 13Mbits upload wifi
 - [Edgy Cheft & Barista](https://maps.app.goo.gl/ENgKwjSo9DVa4H8d7) - good English breakfast with bacon medallions and
   good sausage, the garlic avocado side was a nice touch too. Has milkshakes, but juices are slightly above average
   price. Stunning 270Mbit/s up & down wifi
