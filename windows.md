@@ -17,6 +17,7 @@
   - [File Permissions](#file-permissions)
   - [Base64 encode a file](#base64-encode-a-file)
   - [Copy file to clipboard](#copy-file-to-clipboard)
+- [WSL - Windows Subsystem for Linux](#wsl---windows-subsystem-for-linux)
 - [GitHub Repos](#github-repos)
 - [Meme](#meme)
   - [Wizard Install Software](#wizard-install-software)
@@ -260,6 +261,24 @@ Get-Content "path\to\your\file.txt" -Raw | Set-Clipboard
 # For binary files (converting to base64 first)
 [Convert]::ToBase64String([System.IO.File]::ReadAllBytes("path\to\your\file.jpg")) | Set-Clipboard
 ```
+
+## WSL - Windows Subsystem for Linux
+
+```commandline
+wsl --list --oneline
+```
+
+shorter version:
+
+```commandline
+wsl -l -o
+```
+
+```commandline
+wsl install
+```
+
+You will be prompted for a username and password with admin privileges.
 
 ## GitHub Repos
 
