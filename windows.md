@@ -280,6 +280,12 @@ wsl install
 
 You will be prompted for a username and password with admin privileges.
 
+You will need to reboot (you won't even be able to run `wsl -l -o` again until you do):
+
+```commandline
+shutdown /r
+```
+
 ## GitHub Repos
 
 - [:octocat: scipag/HardeningKitty](https://github.com/scipag/HardeningKitty)
