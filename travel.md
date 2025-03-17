@@ -1116,6 +1116,8 @@ More touristy, older crowd, lots more accommodation, so cheaper.
 
 - [Warung Damar](https://maps.app.goo.gl/7RTmd7uHF56CQ8Mw8) - Indonesian, good menu, reasonable prices. Rending curry is
   popular here, sold out by 8pm! 28/13Mbit/s WiFi
+- [Edgy Cheft & Barista](https://maps.app.goo.gl/ENgKwjSo9DVa4H8d7) - English breakfast, milkshakes, but juices are
+  slightly above average price. Stunning 270Mbit/s up & down wifi
 
 ### Italy
 
