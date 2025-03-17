@@ -110,7 +110,7 @@ echo "testing" | rev
 More portable than `tac`:
 
 ```shell
-tail -r
+tail -r file.txt
 ```
 
 ### Shuffle Lines of a File
