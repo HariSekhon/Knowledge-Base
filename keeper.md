@@ -151,6 +151,30 @@ do
 keeper
 ```
 
+Lists all the secrets (this is a big mess)
+
+```text
+list
+```
+
+or
+
+```text
+l
+```
+
+Instead list folders:
+
+```text
+ls
+```
+
+```text
+cd My\ Folder
+```
+
+Then list only those secrets in that folder:
+
 ```text
 ls
 ```
