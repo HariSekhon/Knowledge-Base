@@ -26,6 +26,7 @@ NOT PORTED YET
   - [The Lone Wolf Developer](#the-lone-wolf-developer)
   - [The Hungry Developer](#the-hungry-developer)
   - [Rutting Season](#rutting-season)
+  - [Approving Own Pull Requests](#approving-own-pull-requests)
 
 <!-- INDEX_END -->
 
@@ -254,3 +255,9 @@ Aren't you lucky this isn't me...
 ![Rutting Season](images/orly_rutting_season_how_to_face_off_with_other_devs.png)
 
 **Disclaimer**: seriously, don't get married, you can't control the forking today.
+
+### Approving Own Pull Requests
+
+Don't approve your own pull requests.
+
+![Me Approving My Own Pull Requests](images/me_approving_my_own_pull_requests.jpeg)
