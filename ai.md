@@ -25,6 +25,7 @@ General AI mirroring what humans have is not real yet.
 - [UI](#ui)
 - [Coding](#coding)
 - [RAG - Retrieval Augmented Generation](#rag---retrieval-augmented-generation)
+- [Misc](#misc)
 - [List of AI Tools By Categories](#list-of-ai-tools-by-categories)
 - [Meme](#meme)
   - [LLM - How to Plagiarize Like a Pro](#llm---how-to-plagiarize-like-a-pro)
@@ -33,6 +34,7 @@ General AI mirroring what humans have is not real yet.
 - [Copying and Pasting from ChatGPT](#copying-and-pasting-from-chatgpt)
   - [Say Powered by AI One More Time](#say-powered-by-ai-one-more-time)
   - [Coding with GPT](#coding-with-gpt)
+- [My Code Stack Overflow, ChatGPT](#my-code-stack-overflow-chatgpt)
 
 <!-- INDEX_END -->
 
@@ -135,6 +137,10 @@ Combines LLM with referencing an authoritative traditional Knowledge Base before
 
 <https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview>
 
+## Misc
+
+- [Agentic](https://www.agentic.ai/)
+
 ## List of AI Tools By Categories
 
 ![List of AI Tools by Categories](images/list-of-ai-tools-by-categories.webp)
@@ -166,3 +172,7 @@ Combines LLM with referencing an authoritative traditional Knowledge Base before
 Watch out for that quality and not knowing WTF you're doing!
 
 ![Coding with GPT](images/orly_book_coding_with_gpt.jpeg)
+
+## My Code Stack Overflow, ChatGPT
+
+![My Code Stack Overflow ChatGPT](images/my_code_stack_overflow_chatgpt.jpeg)
