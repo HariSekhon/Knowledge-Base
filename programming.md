@@ -53,6 +53,7 @@
   - [Heroes & Villains of Software Development](#heroes--villains-of-software-development)
   - [Will Not Fix Your Computer](#will-not-fix-your-computer)
   - [Programmer Interview - Can You Work Under Pressure](#programmer-interview---can-you-work-under-pressure)
+  - [How It Feels Being A Programmer After 30](#how-it-feels-being-a-programmer-after-30)
 
 <!-- INDEX_END -->
 
@@ -496,5 +497,9 @@ Many of you will want to send this to your relatives:
 ### Programmer Interview - Can You Work Under Pressure
 
 ![Programmer Interview - Can You Work Under Pressure](images/programmer_interview_work_under_pressure_3_months_in.jpeg)
+
+### How It Feels Being A Programmer After 30
+
+![How It Feels Being A Programmer After 30](images/how_it_feels_being_programmer_after_30.webp)
 
 **Ported from various private Knowledge Base pages 2008+**
