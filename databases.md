@@ -15,6 +15,8 @@ usually [RDBMS](README.md#databases--rdbms) or
 - [Proprietary / Legacy Databases](#proprietary--legacy-databases)
 - [Databases Scaling Cheatsheet](#databases-scaling-cheatsheet)
 - [Database Sharding](#database-sharding)
+- [Memes](#memes)
+  - [10x Performance - Backed up DB?](#10x-performance---backed-up-db)
 
 <!-- INDEX_END -->
 
@@ -74,3 +76,9 @@ Useful for local or embedded usage rather than multi-user servers like most majo
 ## Database Sharding
 
 ![DB Sharding](images/db_sharding.jpeg)
+
+## Memes
+
+### 10x Performance - Backed up DB?
+
+![10x Performance - Backed up DB](images/10x_performance_backed_up_db.jpeg)
