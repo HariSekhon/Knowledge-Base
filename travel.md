@@ -1116,10 +1116,15 @@ More touristy, older crowd, lots more accommodation, so cheaper.
 
 - [Warung Damar](https://maps.app.goo.gl/7RTmd7uHF56CQ8Mw8) - Indonesian, good menu, reasonable prices. Rendang curry is
   so popular here that sold out by 8pm! 28Mbit download / 13Mbits upload wifi
-- [Edgy Cheft & Barista](https://maps.app.goo.gl/ENgKwjSo9DVa4H8d7) - good English breakfast with bacon medallions and
+- [Crumb & Coaster](https://maps.app.goo.gl/TAjjMdkKN97DF9ed7) - hip coffee brunch restaurant with nice ambience
+- [Edgy Chef & Barista](https://maps.app.goo.gl/ENgKwjSo9DVa4H8d7) - good English breakfast with bacon medallions and
   good sausage, the garlic avocado side was a nice touch too. Has milkshakes, but juices are slightly above average
   price. Stunning 270Mbit/s up & down wifi
-- [The Alleys Cafe](https://maps.app.goo.gl/nw6UFHF26SveQAYr6) - good menu and prices, 60Mbit/s wifi
+- [The Alleys Cafe](https://maps.app.goo.gl/nw6UFHF26SveQAYr6) - good menu and prices, 60Mbit/s wifi. The fish & chips
+  is a fairly modest meal of only 2 pieces of battered fish and a moderate portion of french fries, but this leaves
+  space for dessert and the caramelized banana split is excellent, with a thin layer of caramelization on each banana
+  half and one scoop of chocolate and one scoop of vanilla ice cream
+- [Happy Sports Bar](https://maps.app.goo.gl/g4v3Y71bCZxvMzyj7) - decent menu, UFC on TV and free pool table
 
 ### Italy
 
