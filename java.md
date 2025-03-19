@@ -316,6 +316,8 @@ java -jar my.jar
 
 ## JVM Distributions
 
+<https://sdkman.io/jdks>
+
 These are the options you'll see when you install [SDKman](sdkman.md) and `sdk list java`.
 
 ### Corretto
