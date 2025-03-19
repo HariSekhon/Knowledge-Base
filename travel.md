@@ -1116,8 +1116,8 @@ More touristy, older crowd, lots more accommodation, so cheaper.
 
 - [Warung Damar](https://maps.app.goo.gl/7RTmd7uHF56CQ8Mw8) - Indonesian, good menu, reasonable prices. Rendang curry is
   so popular here that sold out by 8pm! 28Mbit download / 13Mbits upload wifi
-- [Crumb & Coaster](https://maps.app.goo.gl/TAjjMdkKN97DF9ed7) - hip coffee brunch restaurant with nice ambience and
-  20-30Mbit/s wifi
+- [Crumb & Coaster](https://maps.app.goo.gl/TAjjMdkKN97DF9ed7) - hip coffee/juice brunch restaurant with nice ambience
+  and 20-30Mbit/s wifi
 - [Edgy Chef & Barista](https://maps.app.goo.gl/ENgKwjSo9DVa4H8d7) - good English breakfast with bacon medallions and
   good sausage, the garlic avocado side was a nice touch too. Has milkshakes, but juices are slightly above average
   price. Stunning 270Mbit/s up & down wifi
