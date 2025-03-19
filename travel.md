@@ -1119,6 +1119,7 @@ More touristy, older crowd, lots more accommodation, so cheaper.
 - [Edgy Cheft & Barista](https://maps.app.goo.gl/ENgKwjSo9DVa4H8d7) - good English breakfast with bacon medallions and
   good sausage, the garlic avocado side was a nice touch too. Has milkshakes, but juices are slightly above average
   price. Stunning 270Mbit/s up & down wifi
+- [The Alleys Cafe](https://maps.app.goo.gl/nw6UFHF26SveQAYr6) - good menu and prices, 60Mbit/s wifi
 
 ### Italy
 
