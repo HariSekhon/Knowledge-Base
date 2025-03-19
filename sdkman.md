@@ -221,6 +221,19 @@ Generate an `.sdkmanrc` file in the current directory:
 sdk env init
 ```
 
+Then either run this:
+
+```shell
+sdk env
+```
+
+or set `sdkman_auto_env=true` in `$HOME/.sdkman/etc/config`:
+
+```shell
+gsed -i 's/^[[:space:]]*sdkman_auto_env=.*/sdkman_auto_env=true/' ~/.sdkman/etc/config
+grep sdkman_auto_env ~/.sdkman/etc/config
+```
+
 ## Troubleshooting
 
 ### Internet Not Reachable despite being online
