@@ -246,6 +246,7 @@ See the [Command Reference](https://docs.keeper.io/en/privileged-access-manager/
 `mv` a secret to a new folder,
 `record-add`,
 `record-update`,
+`rm` (delete a record),
 `upload-attachment`,
 `delete-attachment`,
 `append-notes`
