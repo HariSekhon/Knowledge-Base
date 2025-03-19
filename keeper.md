@@ -230,6 +230,8 @@ Download all attachemnts for a given secret:
 download-attachment "My Secret"
 ```
 
+Exploration commands:
+
 ```text
 find-duplicate
 ```
