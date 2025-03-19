@@ -109,7 +109,11 @@ sdk list java
 
 You will see a lot of different options for Java JVM implementations.
 
-See the [Java](java.md) page's [JVM Distributions](java.md#jvm-distributions) section for details.
+See:
+
+- [Java](java.md) page's [JVM Distributions](java.md#jvm-distributions) section
+- SDKman [JDKs](https://sdkman.io/jdks) page
+- SDKman [SDKs](https://sdkman.io/sdks) page
 
 TL;DR just use the Temurin community-driven OpenJDK distribution as it has the most versions.
 The Java.net one doesn't have older JVM releases you may need.
