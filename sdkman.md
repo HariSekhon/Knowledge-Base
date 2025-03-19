@@ -26,6 +26,7 @@ but has in recent years extended to a wider list of support technologies:
   - [List the Version of a Specific SDK](#list-the-version-of-a-specific-sdk)
   - [Delete a version of Java JDK installed](#delete-a-version-of-java-jdk-installed)
   - [Clean up temp space](#clean-up-temp-space)
+- [Auto switch to the correct SDK using `.sdkmanrc`](#auto-switch-to-the-correct-sdk-using-sdkmanrc)
 - [Troubleshooting](#troubleshooting)
   - [Internet Not Reachable despite being online](#internet-not-reachable-despite-being-online)
   - [Can't Find Java Version to Install That is Clearly There](#cant-find-java-version-to-install-that-is-clearly-there)
@@ -210,6 +211,14 @@ Output:
        9 archive(s) flushed, freeing 619M       /Users/hari/.sdkman/archives.
       20 archive(s) flushed, freeing 104K       /Users/hari/.sdkman/tmp.
        9 archive(s) flushed, freeing  48K       /Users/hari/.sdkman/var/metadata.
+```
+
+## Auto switch to the correct SDK using `.sdkmanrc`
+
+Generate an `.sdkmanrc` file in the current directory:
+
+```shell
+sdk env init
 ```
 
 ## Troubleshooting
