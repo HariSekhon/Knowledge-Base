@@ -11,7 +11,8 @@ SaaS Secrets Vault.
   - [Usage](#usage)
     - [Login](#login)
     - [Persisting Login for 30 days](#persisting-login-for-30-days)
-    - [Shell vs CLI](#shell-vs-cli)
+  - [Shell vs CLI](#shell-vs-cli)
+  - [Commands](#commands)
     - [Connection Commands](#connection-commands)
     - [Import / Export](#import--export)
 
@@ -135,9 +136,7 @@ This will update this file:
 ~/.keeper/config.json
 ```
 
-#### Shell vs CLI
-
-[Command Reference](https://docs.keeper.io/en/privileged-access-manager/commander-cli/command-reference)
+### Shell vs CLI
 
 Since starting the Keeper shell is a bit slow, enter the shell once, and then type the commands instead of:
 
@@ -151,7 +150,13 @@ do
 keeper
 ```
 
-Lists all the secrets (this is a big mess)
+then run the `ls` and other commands without exiting and incurring the startup overhead each time.
+
+### Commands
+
+[Command Reference](https://docs.keeper.io/en/privileged-access-manager/commander-cli/command-reference)
+
+Lists all the secrets (this is a big mess):
 
 ```text
 list
@@ -163,10 +168,16 @@ or
 l
 ```
 
-Instead list folders:
+List folders and secrets at current level:
 
 ```text
 ls
+```
+
+or more clearly to see just the top level folder structure without top level secrets:
+
+```text
+tree
 ```
 
 ```text
@@ -180,11 +191,25 @@ ls
 ```
 
 ```text
-clipboard-copy <record>
+record-history "My Secret"
 ```
 
 ```text
-cc <record>
+rh "My Secret"
+```
+
+```text
+Version    Modified By               Time Modified
+---------  ------------------------  -------------------
+Current    hari@domain.com           2025-03-11 02:32:39
+```
+
+```text
+clipboard-copy "My Secret"
+```
+
+```text
+cc "My Secret"
 ```
 
 #### Connection Commands
