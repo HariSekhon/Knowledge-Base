@@ -54,6 +54,7 @@
   - [Will Not Fix Your Computer](#will-not-fix-your-computer)
   - [Programmer Interview - Can You Work Under Pressure](#programmer-interview---can-you-work-under-pressure)
   - [How It Feels Being A Programmer After 30](#how-it-feels-being-a-programmer-after-30)
+  - [When You Copy Parts of Your Code from Stack Overflow](#when-you-copy-parts-of-your-code-from-stack-overflow)
 
 <!-- INDEX_END -->
 
@@ -501,5 +502,9 @@ Many of you will want to send this to your relatives:
 ### How It Feels Being A Programmer After 30
 
 ![How It Feels Being A Programmer After 30](images/how_it_feels_being_programmer_after_30.webp)
+
+### When You Copy Parts of Your Code from Stack Overflow
+
+![When You Copy Parts of Your Code from Stack Over](images/cat_copy_parts_code_stack_overflow.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
