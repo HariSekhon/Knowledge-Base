@@ -76,6 +76,8 @@ and are atomically switched to different versions by the `sdk use` command.
 
 ## Using SDKman
 
+<https://sdkman.io/usage/>
+
 ### Help
 
 Show list of commands:
