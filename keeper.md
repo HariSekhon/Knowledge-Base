@@ -168,6 +168,12 @@ or
 l
 ```
 
+Search for records via a regex:
+
+```text
+search "someregex"
+```
+
 List folders and secrets at current level:
 
 ```text
@@ -178,6 +184,12 @@ or more clearly to see just the top level folder structure without top level sec
 
 ```text
 tree
+```
+
+Show shared folders you have access to:
+
+```text
+list-sf
 ```
 
 ```text
@@ -211,6 +223,33 @@ clipboard-copy "My Secret"
 ```text
 cc "My Secret"
 ```
+
+Download all attachemnts for a given secret:
+
+```text
+download-attachment "My Secret"
+```
+
+```text
+find-duplicate
+```
+
+```text
+find-ownerless
+```
+
+```text
+trash list
+```
+
+See the [Command Reference](https://docs.keeper.io/en/privileged-access-manager/commander-cli/command-reference) for more commands like `mkdir`,
+`mv` a secret to a new folder,
+`record-add`,
+`record-update`,
+`upload-attachment`,
+`delete-attachment`,
+`append-notes`
+etc.
 
 #### Connection Commands
 
