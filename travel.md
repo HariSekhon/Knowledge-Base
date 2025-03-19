@@ -1125,6 +1125,7 @@ More touristy, older crowd, lots more accommodation, so cheaper.
   space for dessert and the caramelized banana split is excellent, with a thin layer of caramelization on each banana
   half and one scoop of chocolate and one scoop of vanilla ice cream
 - [Happy Sports Bar](https://maps.app.goo.gl/g4v3Y71bCZxvMzyj7) - decent menu, UFC on TV and free pool table
+- [Don Juan Mexican Restaurant and Bar](Don Juan Mexican Restaurant and Bar) - reasonable burrito and price
 
 ### Italy
 
