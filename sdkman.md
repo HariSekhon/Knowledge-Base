@@ -227,12 +227,14 @@ Then either run this:
 sdk env
 ```
 
-or set `sdkman_auto_env=true` in `$HOME/.sdkman/etc/config`:
+or set `sdkman_auto_env=true` in `$HOME/.sdkman/etc/config` (this will only apply to new shells):
 
 ```shell
-gsed -i 's/^[[:space:]]*sdkman_auto_env=.*/sdkman_auto_env=true/' ~/.sdkman/etc/config
+perl -pi -e 's/^\s*sdkman_auto_env=.*/sdkman_auto_env=true/' ~/.sdkman/etc/config
 grep sdkman_auto_env ~/.sdkman/etc/config
 ```
+
+(`perl` is more portable than `sed -i` which requires an arg on Mac)
 
 ## Troubleshooting
 
