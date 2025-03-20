@@ -1121,6 +1121,8 @@ More touristy, older crowd, lots more accommodation, so cheaper.
 - [Edgy Chef & Barista](https://maps.app.goo.gl/ENgKwjSo9DVa4H8d7) - good English breakfast with bacon medallions and
   good sausage, the garlic avocado side was a nice touch too. Has milkshakes, but juices are slightly above average
   price. Stunning 270Mbit/s up & down wifi
+- [BS Kitchen Kuta](https://maps.app.goo.gl/LyUaEzyEzQNFgvBA9) - breakfast eggs and bacon including tea/coffee/juice for
+  a mere ~\$4. The balinese chicken curry is very good and only \$3. 60Mbit/s download / 30Mbits upload wifi
 - [The Alleys Cafe](https://maps.app.goo.gl/nw6UFHF26SveQAYr6) - good menu and prices, 60Mbit/s wifi. The fish & chips
   is a fairly modest meal of only 2 pieces of battered fish and a moderate portion of french fries, but this leaves
   space for dessert and the caramelized banana split is excellent, with a thin layer of caramelization on each banana
