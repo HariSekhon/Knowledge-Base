@@ -26,6 +26,9 @@ SaaS Secrets Vault.
 
 Keeper Commander is a python-based CLI and SDK interface to Keeper.
 
+This can be used as a workaround if you're restricted from accessing Keeper on your personal machines because the
+authentication url can be copied and the login token copied back, for example in a corporate Windows Virtual Desktop.
+
 ### Install
 
 Download and run the `.pkg` installer on Mac from:
@@ -67,10 +70,6 @@ Keeper Commander, version 17.0.8
 keeper shell
 ```
 
-[Logging in](https://docs.keeper.io/en/privileged-access-manager/commander-cli/commander-installation-setup/logging-in)
-each time forces you to jump through lots of SSO, device verification email and 2FA hoops, which is not worth the
-hassle.
-
 ```shell
 keeper login
 ```
@@ -100,6 +99,10 @@ whoami
 ```
 
 #### Persisting Login for 30 days
+
+[Logging in](https://docs.keeper.io/en/privileged-access-manager/commander-cli/commander-installation-setup/logging-in)
+each time forces you to jump through lots of SSO, device verification email and 2FA hoops, which is not worth the
+hassle.
 
 [Configuration file](https://docs.keeper.io/en/privileged-access-manager/commander-cli/commander-installation-setup/configuration)
 and persistence details.
