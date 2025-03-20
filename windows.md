@@ -21,6 +21,7 @@
 - [GitHub Repos](#github-repos)
 - [Meme](#meme)
   - [Wizard Install Software](#wizard-install-software)
+  - [Best Keyboard for Programming](#best-keyboard-for-programming)
 
 <!-- INDEX_END -->
 
@@ -297,3 +298,7 @@ shutdown /r
 How many of you dweebs are still using Windows instead of Linux or Mac?
 
 ![Wizard Install Software](images/windows_wizard_install_software.jpeg)
+
+### Best Keyboard for Programming
+
+![Best Keyboard for Programming](images/best_keyboard_for_programming.jpeg)
