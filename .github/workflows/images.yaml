@@ -1,0 +1,68 @@
+#
+#  Author: Hari Sekhon
+#  Date: 2024-02-27 18:45:11 +0000 (Tue, 27 Feb 2024)
+#
+#  vim:ts=2:sts=2:sw=2:et
+#
+#  https://github.com/HariSekhon/Knowledge-Base
+#
+#  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback
+#
+#  https://www.linkedin.com/in/HariSekhon
+#
+
+# ============================================================================ #
+#                       I m a g e s   R e f e r e n c e d
+# ============================================================================ #
+
+# Check all images are referenced in markdown files
+
+---
+name: Images Referenced
+
+on:  # yamllint disable-line rule:truthy
+  push:
+    branches:
+      - master
+      - main
+    paths:
+      - '**/*.md'
+      - .github/scripts/check_images.sh
+      - .github/workflows/index.yaml
+  pull_request:
+    branches:
+      - master
+      - main
+    paths:
+      - '**/*.md'
+      - .github/scripts/check_images.sh
+      - .github/workflows/index.yaml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+defaults:
+  run:
+    shell: bash -euxo pipefail {0}
+
+jobs:
+  image-check:
+    # github.event.repository context not available in scheduled workflows
+    #if: github.event.repository.fork == false
+    if: github.repository_owner == 'HariSekhon'
+    name: Image Check
+    timeout-minutes: 3
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        #name: Git Checkout  # better to show the action@version
+        with:
+          submodules: 'true'  # requires Git 2.18+ to be installed first
+
+      - name: Check all Images are referenced in Markdown
+        run: .github/scripts/check_images.sh
