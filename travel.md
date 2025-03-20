@@ -1127,7 +1127,8 @@ More touristy, older crowd, lots more accommodation, so cheaper.
   half and one scoop of chocolate and one scoop of vanilla ice cream
 - [Chill Coffee Bar](https://maps.app.goo.gl/XnqADiUfMdYAzvBS9) - small coffee shop with acai bowl, smoothies, and
   pastries, not much in the way of substantial food, but impressive 200Mbit/s wifi
-- [Happy Sports Bar](https://maps.app.goo.gl/g4v3Y71bCZxvMzyj7) - decent menu, UFC on TV and free pool table
+- [Happy Sports Bar](https://maps.app.goo.gl/g4v3Y71bCZxvMzyj7) - decent menu prices, UFC or Boxing on TV and free pool
+  table
 - [Don Juan Mexican Restaurant and Bar](Don Juan Mexican Restaurant and Bar) - reasonable burrito and price
 
 ### Italy
