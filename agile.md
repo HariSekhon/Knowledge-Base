@@ -4,6 +4,7 @@
 
 - [Meetings](#meetings)
 - [Memes](#memes)
+  - [Hired Project Manager](#hired-project-manager)
   - [Parrot](#parrot)
 
 <!-- INDEX_END -->
@@ -18,6 +19,10 @@ Run one of these live meeting cost tickers during it to remind people what a was
 - <https://meeting-cost-ticker.com/>
 
 ## Memes
+
+### Hired Project Manager
+
+![Hired Project Manager](images/hired_project_manager_20%25_time_in_meetings.jpg)
 
 ### Parrot
 
