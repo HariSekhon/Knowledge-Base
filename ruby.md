@@ -109,10 +109,12 @@ mdl README.md
 
 ### Interesting Gems
 
+- `dotenv`
 - `irb` - Interactive Ruby interpreter
 - `mdl` - Markdown lint
 - `lolcat` - turns text into rainbow colours
 - `gitlab` - GitLab CLI
+- `fastlane` - see [Fastlane](fastlane.md) doc
 - `jgrep`
 - `httparty`
 - `gist`
