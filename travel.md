@@ -1132,6 +1132,10 @@ More touristy, older crowd, lots more accommodation, so cheaper.
   half and one scoop of chocolate and one scoop of vanilla ice cream
 - [Chill Coffee Bar](https://maps.app.goo.gl/XnqADiUfMdYAzvBS9) - small coffee shop with acai bowl, smoothies, and
   pastries, not much in the way of substantial food, but impressive 200Mbit/s wifi
+- [Avera](https://maps.app.goo.gl/SMDFJfWvkzFBj1qx8) - good bar view of the street but their "orange juice" is full of
+  sugar, but food kitchen open until 2:45am, which is rare here.
+  Wifi can be slow ranging from 6Mbits/ to 30Mbit/s download, 15Mbit/s upload but also requires a captcha portal
+  password
 - [Happy Sports Bar](https://maps.app.goo.gl/g4v3Y71bCZxvMzyj7) - decent menu prices, UFC or Boxing on TV and free pool
   table. Bolognese was better than expected, slightly sweet, and very affordable at around $4
 - [Don Juan Mexican Restaurant and Bar](Don Juan Mexican Restaurant and Bar) - reasonable burrito and price
