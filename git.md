@@ -50,6 +50,7 @@
     - [On GitLab](#on-gitlab)
   - [Show only commits done by you](#show-only-commits-done-by-you)
   - [Show only commits of files added by you](#show-only-commits-of-files-added-by-you)
+  - [Show only commits of files deleted](#show-only-commits-of-files-deleted)
   - [Show commits per date](#show-commits-per-date)
 - [Git LFS](#git-lfs)
   - [Why You Need Git LFS for Large Files](#why-you-need-git-lfs-for-large-files)
@@ -787,6 +788,12 @@ or simpler [DevOps-Bash-tools](devops-bash-tools.md) script:
 
 ```shell
 git_log_me_added.sh
+```
+
+### Show only commits of files deleted
+
+```shell
+git log --diff-filter=D --name-status
 ```
 
 ### Show commits per date
