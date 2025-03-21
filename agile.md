@@ -26,7 +26,7 @@ Run one of these live meeting cost tickers during it to remind people what a was
 
 ### A Techie is Never Late to Daily Standup
 
-A waste of time from an engineer's perspective that could be replaced with 2-3 bullet points in a chat...
+A waste of time from an engineer's perspective that could be replaced with 2-3 bullet points in a chat message...
 
 ![A Techie is Never Late to Daily Standup](images/a_techie_is_never_late_to_daily_standup.jpeg)
 
