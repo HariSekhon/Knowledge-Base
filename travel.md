@@ -1134,8 +1134,8 @@ More touristy, older crowd, lots more accommodation, so cheaper.
   but their orange juice is full of sugar. Food kitchen open until 2:45am, which is rare in Bali though.
   Wifi is 30Mbit/s download / 15Mbit/s upload but requires a captcha portal password
 - [Ground Zero Kitchen](https://maps.app.goo.gl/bBaxcnx1AckzCrTs9) - better juice menu than Avera across the street,
-  venue is a bit smaller, also with live music, bolognese is cheaper.
-  Wifi is a bit slow 3Mbit/s download, 13Mbit/s upload though
+  venue is a bit smaller, also with live music, \$5 bolognese is cheaper than Avera across the road, but too salty.
+  Wifi is also slow 3Mbit/s download, 13Mbit/s upload
 - [Happy Sports Bar](https://maps.app.goo.gl/g4v3Y71bCZxvMzyj7) - decent menu prices, UFC or Boxing on TV and free pool
   table. Bolognese was better than expected, slightly sweet, and very affordable at around $4
 - [Don Juan Mexican Restaurant and Bar](Don Juan Mexican Restaurant and Bar) - reasonable burrito and price
