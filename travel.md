@@ -1133,8 +1133,12 @@ More touristy, older crowd, lots more accommodation, so cheaper.
   is a fairly modest meal of only 2 pieces of battered fish and a moderate portion of french fries, but this leaves
   space for dessert and the caramelized banana split is excellent, with a thin layer of caramelization on each banana
   half and one scoop of chocolate and one scoop of vanilla ice cream
-- [Avera](https://maps.app.goo.gl/SMDFJfWvkzFBj1qx8) - good venue with bar view of the street, live music every night,
-  but their orange juice is full of sugar. Food kitchen open until 2:45am, which is rare in Bali though.
+- [AMV Shooting & Sport Bar 88](https://maps.app.goo.gl/RT8Uao6384jJr8CS8) - live American rock music every night, they
+  have talent. Crinkle fries come hot and crispy, very good snack, menu and prices are reasonable. WiFi is a bit slow
+  at 7Mbit down / 5Mbit upload but you don’t come here the WiFi
+- [Avera](https://maps.app.goo.gl/SMDFJfWvkzFBj1qx8) - good venue with bar view of the street, and live music every night
+  (the music is much better in AMV Shooting & Sport Bar 88 above). Avoid their orange juice it's pre-made full of sugar.
+  Food kitchen open until 2:45am, which is rare in Bali. Their seafood spaghetti is good
   Wifi is 30Mbit/s download / 15Mbit/s upload but requires a captcha portal password
 - [Ground Zero Kitchen](https://maps.app.goo.gl/bBaxcnx1AckzCrTs9) - better juice menu than Avera across the street,
   venue is a bit smaller, also with live music, \$5 bolognese is cheaper than Avera across the road, but too salty.
