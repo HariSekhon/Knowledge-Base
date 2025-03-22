@@ -1121,6 +1121,9 @@ More touristy, older crowd, lots more accommodation, so cheaper.
 - [Edgy Chef & Barista](https://maps.app.goo.gl/ENgKwjSo9DVa4H8d7) - good English breakfast with bacon medallions and
   good sausage, the garlic avocado side was a nice touch too. Has milkshakes, but juices are slightly above average
   price. Stunning 270Mbit/s up & down wifi
+- [Dulang Kafe Kuta Square](https://maps.app.goo.gl/5ymrHvfSV3YCiXWs9) -
+  good menu, ambience, reasonable prices, juice mixes, smoothies, asian and italian food,
+  45Mbit download but only 6Mbit upload wifi
 - [BS Kitchen Kuta](https://maps.app.goo.gl/LyUaEzyEzQNFgvBA9) - breakfast eggs and bacon including tea/coffee/juice for
   a mere ~\$4.
   The balinese chicken curry is very good and only \$3 - could have been bigger though.
