@@ -41,6 +41,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
 - [Meme](#meme)
   - [Programming Python](#programming-python)
   - [Porting Your Language to the JVM](#porting-your-language-to-the-jvm)
+  - [ChatGPT Python - What I Expected vs What I Got](#chatgpt-python---what-i-expected-vs-what-i-got)
 
 <!-- INDEX_END -->
 
@@ -407,5 +408,9 @@ apk add py3-pip
 I wish I had discovered [Groovy](groovy.md) before [Jython](#jython)...
 
 ![Porting Your Language to the JVM](images/orly_porting_your_language_to_jvm.png)
+
+### ChatGPT Python - What I Expected vs What I Got
+
+![ChatGPT Python - What I Expected vs What I Got](images/chatgpt_python_what_expected_vs_got.jpeg)
 
 **Partial port from private Knowledge Base page 2008+**
