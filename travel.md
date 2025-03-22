@@ -1129,10 +1129,6 @@ More touristy, older crowd, lots more accommodation, so cheaper.
   The balinese chicken curry is very good and only \$3 - could have been bigger though.
   Had a side of fries as a top up, which also could have been bigger.
   60Mbit/s download / 30Mbits upload wifi
-- [The Alleys Cafe](https://maps.app.goo.gl/nw6UFHF26SveQAYr6) - good menu and prices, 60Mbit/s wifi. The fish & chips
-  is a fairly modest meal of only 2 pieces of battered fish and a moderate portion of french fries, but this leaves
-  space for dessert and the caramelized banana split is excellent, with a thin layer of caramelization on each banana
-  half and one scoop of chocolate and one scoop of vanilla ice cream
 - [AMV Shooting & Sport Bar 88](https://maps.app.goo.gl/RT8Uao6384jJr8CS8) - live American rock music every night, they
   have talent. Crinkle fries come hot and crispy, very good snack, menu and prices are reasonable. WiFi is a bit slow
   at 7Mbit down / 5Mbit upload but you don’t come here the WiFi
@@ -1146,6 +1142,10 @@ More touristy, older crowd, lots more accommodation, so cheaper.
 - [Happy Sports Bar](https://maps.app.goo.gl/g4v3Y71bCZxvMzyj7) - decent menu prices, UFC or Boxing on TV and free pool
   table. Bolognese was better than expected, slightly sweet, and very affordable at around $4
 - [Don Juan Mexican Restaurant and Bar](Don Juan Mexican Restaurant and Bar) - reasonable burrito and price
+- [The Alleys Cafe](https://maps.app.goo.gl/nw6UFHF26SveQAYr6) - good menu and prices, 60Mbit/s wifi. The fish & chips
+  is a fairly modest meal of only 2 pieces of battered fish and a moderate portion of french fries, but this leaves
+  space for dessert and the caramelized banana split is excellent, with a thin layer of caramelization on each banana
+  half and one scoop of chocolate and one scoop of vanilla ice cream
 - [Chill Coffee Bar](https://maps.app.goo.gl/XnqADiUfMdYAzvBS9) - small coffee shop with acai bowl, smoothies, and
   pastries, not much in the way of substantial food, but impressive 200Mbit/s wifi
 
