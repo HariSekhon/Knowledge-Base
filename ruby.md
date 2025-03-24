@@ -19,6 +19,13 @@ eg. [check_puppet.rb](https://github.com/HariSekhon/Nagios-Plugins/blob/master/c
   - [Interesting Gems](#interesting-gems)
   - [List Installed Gems](#list-installed-gems)
   - [Install from Custom Gem Server](#install-from-custom-gem-server)
+- [rbenv](#rbenv)
+  - [rbenv install](#rbenv-install)
+  - [rbenv install ruby versions](#rbenv-install-ruby-versions)
+  - [rbenv local](#rbenv-local)
+  - [rbenv global](#rbenv-global)
+  - [rbenv shell](#rbenv-shell)
+  - [rbenv gem](#rbenv-gem)
 - [RVM - Ruby Version Manager](#rvm---ruby-version-manager)
   - [RVM Install](#rvm-install)
   - [RVM Usage](#rvm-usage)
@@ -163,6 +170,165 @@ gem install cheat
 gem install --source http://server
 ```
 
+## rbenv
+
+[:octocat: rbenv/rbenv](https://github.com/rbenv/rbenv)
+
+[:octocat: rbenv/ruby-build](https://github.com/rbenv/ruby-build)
+
+### rbenv install
+
+Installs to `~/rbenv` (`RBENV_ROOT`):
+
+```shell
+brew install rbenv
+```
+
+Adds to `~/.bash_profile`:
+
+```shell
+rbenv init
+```
+
+Open a new login shell:
+
+```shell
+bash -l
+```
+
+or source:
+
+```shell
+source ~/.bash_profile
+```
+
+### rbenv install ruby versions
+
+List installed ruby versions:
+
+```shell
+rbenv versions
+```
+
+```text
+* system
+```
+
+List latest stable versions:
+
+```shell
+rbenv install -l
+```
+
+List all local versions:
+
+```shell
+rbenv install -L
+```
+
+Install a Ruby version:
+
+```shell
+rbenv install 3.4.1
+```
+
+### rbenv local
+
+Set the local Ruby version for this directory (creates a `.ruby-version` file):
+
+```shell
+rbenv local 3.4.1
+```
+
+Show the local configured version:
+
+```shell
+rbenv local
+```
+
+Undo the local ruby setting:
+
+```shell
+rbenv local --unset
+```
+
+### rbenv global
+
+Set the global ruby version by setting `~/.rbenv/version`:
+
+```shell
+rbenv global 3.4.1
+```
+
+### rbenv shell
+
+Set the Ruby version in the local shell only with environment variable `RBENV_VERSION`:
+
+```shell
+rbenv shell 3.4.1
+```
+
+```shell
+which irb
+```
+
+```text
+/Users/hari/.rbenv/shims/irb
+```
+
+```shell
+rbenv which irb
+```
+
+```text
+/Users/hari/.rbenv/versions/3.4.1/bin/irb
+```
+
+### rbenv gem
+
+Check your gem is using the rbenv ruby version:
+
+```shell
+gem env home
+```
+
+```text
+/Users/hari/.rbenv/versions/3.4.1/lib/ruby/gems/3.4.0
+```
+
+```shell
+rbenv which gem
+```
+
+```text
+/Users/hari/.rbenv/versions/3.4.1/bin/gem
+```
+
+Then gem install as usual:
+
+```shell
+gem install bundler
+```
+
+```shell
+rbenv versions
+```
+
+```text
+rbenv versions
+  system
+* 3.4.1 (set by /Users/hari/github/.../.ruby-version)
+```
+
+```shell
+rbenv version
+```
+
+```text
+rbenv version
+3.4.1 (set by /Users/hari/github/.../.ruby-version)
+```
+
 ## RVM - Ruby Version Manager
 
 <https://rvm.io/>
@@ -210,6 +376,8 @@ gem: --user-install
 ```
 
 ### RVM Usage
+
+[:octocat: rvm/rvm](https://github.com/rvm/rvm)
 
 <https://rvm.io/rvm/basics>
 
