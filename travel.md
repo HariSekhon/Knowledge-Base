@@ -87,7 +87,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Bali](#bali)
       - [Canguu](#canguu)
       - [Kuta](#kuta)
-      - [Obud](#obud)
+      - [Ubud](#ubud)
   - [Italy](#italy)
     - [Italy Car Rentals](#italy-car-rentals)
     - [Rome](#rome)
@@ -1157,7 +1157,7 @@ More touristy, older crowd, lots more accommodation, so cheaper than Canguu.
 - [Chill Coffee Bar](https://maps.app.goo.gl/XnqADiUfMdYAzvBS9) - small coffee shop with acai bowl, smoothies, and
   pastries, not much in the way of substantial food, but impressive 200Mbit/s wifi
 
-##### Obud
+##### Ubud
 
 Of Eat, Love, Pray fame.
 
