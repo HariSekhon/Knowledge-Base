@@ -87,6 +87,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Bali](#bali)
       - [Canguu](#canguu)
       - [Kuta](#kuta)
+      - [Obud](#obud)
   - [Italy](#italy)
     - [Italy Car Rentals](#italy-car-rentals)
     - [Rome](#rome)
@@ -1112,7 +1113,9 @@ Surf town, more young attractive people and digital nomads.
 
 ##### Kuta
 
-More touristy, older crowd, lots more accommodation, so cheaper.
+More touristy, older crowd, lots more accommodation, so cheaper than Canguu.
+
+"Kuta is not the vibe" my Bali nomad friend said.
 
 - [Warung Damar](https://maps.app.goo.gl/7RTmd7uHF56CQ8Mw8) - Indonesian, good menu, reasonable prices. Rendang curry is
   so popular here that sold out by 8pm! 28Mbit download / 13Mbits upload wifi
@@ -1142,12 +1145,27 @@ More touristy, older crowd, lots more accommodation, so cheaper.
 - [Happy Sports Bar](https://maps.app.goo.gl/g4v3Y71bCZxvMzyj7) - decent menu prices, UFC or Boxing on TV and free pool
   table. Bolognese was better than expected, slightly sweet, and very affordable at around $4
 - [Don Juan Mexican Restaurant and Bar](Don Juan Mexican Restaurant and Bar) - reasonable burrito and price
+- [See You Cafe](https://maps.app.goo.gl/57aZzfXRdcRiEwoc7) - lovely gentrified cafe on an inter-connecting alley way.
+  You'd need to know it's there to find it.
+  Good menu, reasonable prices, glass straws, their anti-age juice is nice, as is their English breakfast.
+  Their regular wifi tested at only 18Mbits/s download and 2Mbit/s upload on my phone but 65Mbit/s download and 35Mbit/s
+  upload on my Mac, while their 5G wifi was 100Mbit/s download / 90Mbit/s
 - [The Alleys Cafe](https://maps.app.goo.gl/nw6UFHF26SveQAYr6) - good menu and prices, 60Mbit/s wifi. The fish & chips
   is a fairly modest meal of only 2 pieces of battered fish and a moderate portion of french fries, but this leaves
   space for dessert and the caramelized banana split is excellent, with a thin layer of caramelization on each banana
   half and one scoop of chocolate and one scoop of vanilla ice cream
 - [Chill Coffee Bar](https://maps.app.goo.gl/XnqADiUfMdYAzvBS9) - small coffee shop with acai bowl, smoothies, and
   pastries, not much in the way of substantial food, but impressive 200Mbit/s wifi
+
+##### Obud
+
+Of Eat, Love, Pray fame.
+
+- [Pilleyar bar & kitchen](https://maps.app.goo.gl/xXxL9sEBiXLzVUXJ8) - affordable tenderloin surf n turf, good juice
+  and smoothie menu, has milkshakes, live music salsa dancing for free every Monday and Thursday.
+  94Mbit wifi both directions
+- [Rococo Warung](https://maps.app.goo.gl/H5sJCbQJStNGiC4g6) - very good prices, breakfast all day, 48/25Mbit WiFi
+- [Brasserie at Alaya](https://maps.app.goo.gl/bS3pfvKrXwWufu8A9) - upmarket hotel restaurant, decent menu
 
 ### Italy
 
