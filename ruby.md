@@ -109,7 +109,7 @@ mdl README.md
 
 ### Interesting Gems
 
-- `dotenv`
+- `dotenv` - load `.env` or `.envrc` files
 - `irb` - Interactive Ruby interpreter
 - `mdl` - Markdown lint
 - `lolcat` - turns text into rainbow colours
