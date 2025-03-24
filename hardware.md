@@ -14,6 +14,7 @@ See also [Performance Engineering](performance.md).
 - [See Also](#see-also)
 - [Meme](#meme)
   - [Using Hardware to Solve Problems](#using-hardware-to-solve-problems)
+  - [Slow Computers Create Strong Engineers](#slow-computers-create-strong-engineers)
 
 <!-- INDEX_END -->
 
@@ -157,5 +158,9 @@ MegaCli64 -pdInfo -PhysDrv[$enclosure_id:$disk] -aAll
 This includes your laptop - 128GB RAM ftw...
 
 ![Using Hardware to Solve Problems](images/orly_using_hardware_to_solve_problems.png)
+
+### Slow Computers Create Strong Engineers
+
+![Slow Computers Create Strong Engineers](images/slow_computers_create_strong_engineers.png)
 
 **Ported from private Knowledge Base page 2010+**
