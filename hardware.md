@@ -15,6 +15,7 @@ See also [Performance Engineering](performance.md).
 - [Meme](#meme)
   - [Using Hardware to Solve Problems](#using-hardware-to-solve-problems)
   - [Slow Computers Create Strong Engineers](#slow-computers-create-strong-engineers)
+  - [Moores Law Ending vs Programming Languages](#moores-law-ending-vs-programming-languages)
 
 <!-- INDEX_END -->
 
@@ -162,5 +163,9 @@ This includes your laptop - 128GB RAM ftw...
 ### Slow Computers Create Strong Engineers
 
 ![Slow Computers Create Strong Engineers](images/slow_computers_create_strong_engineers.png)
+
+### Moores Law Ending vs Programming Languages
+
+![Moores Law Ending vs Programming Languages](images/moores_law_ending_programming_languages.png)
 
 **Ported from private Knowledge Base page 2010+**
