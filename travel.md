@@ -1166,6 +1166,9 @@ Of [Eat, Love, Pray](https://www.imdb.com/title/tt0879870/) movie fame.
   94Mbit wifi both directions
 - [Rococo Warung](https://maps.app.goo.gl/H5sJCbQJStNGiC4g6) - very good prices, breakfast all day, 48/25Mbit WiFi
 - [Brasserie at Alaya](https://maps.app.goo.gl/bS3pfvKrXwWufu8A9) - upmarket hotel restaurant, decent menu
+- [Baba Bistro](https://maps.app.goo.gl/UkNLrGmos1LJq7f26) - Mediterranean good food, juices are a bit small, moderately
+  pricey, street view seating. The Mediterranean Beef Bowl with Wagyu beef, salad, humous and pita is very good.
+  I needed a bit more food so added the chimicurri beef taco which was also really good. 30/19 Mbit/s wifi
 
 ### Italy
 
