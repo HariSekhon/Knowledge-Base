@@ -34,6 +34,7 @@ NOT PORTED YET
 - [RDS - Relational Database Service](#rds---relational-database-service)
   - [List RDS instances](#list-rds-instances)
   - [Reset DB master password](#reset-db-master-password)
+- [Cloudfront](#cloudfront)
 - [ACM - AWS Certificate Manager](#acm---aws-certificate-manager)
   - [Import Externally Generated Certificate](#import-externally-generated-certificate)
 - [Why move away from CloudWatch Logs and Metrics](#why-move-away-from-cloudwatch-logs-and-metrics)
@@ -785,6 +786,18 @@ Using the name returned from above commands:
 aws rds modify-db-instance \
     --db-instance-identifier "$RDS_INSTANCE" \
     --master-user-password "MyNewVerySecurePassword"
+```
+
+## Cloudfront
+
+CDN.
+
+Put it in front of public S3 buckets which should have a Control Tower guardrail against public S3 buckets.
+
+Get the Cloudfront domain name that content is available at:
+
+```shell
+aws cloudfront list-distributions --query 'DistributionList.Items[*].DomainName' --output text
 ```
 
 ## ACM - AWS Certificate Manager
