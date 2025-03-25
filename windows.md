@@ -17,6 +17,7 @@
   - [File Permissions](#file-permissions)
   - [Base64 encode a file](#base64-encode-a-file)
   - [Copy file to clipboard](#copy-file-to-clipboard)
+  - [Paste clipboard to file](#paste-clipboard-to-file)
 - [WSL - Windows Subsystem for Linux](#wsl---windows-subsystem-for-linux)
 - [GitHub Repos](#github-repos)
 - [Meme](#meme)
@@ -261,6 +262,20 @@ Get-Content "path\to\your\file.txt" -Raw | Set-Clipboard
 
 # For binary files (converting to base64 first)
 [Convert]::ToBase64String([System.IO.File]::ReadAllBytes("path\to\your\file.jpg")) | Set-Clipboard
+```
+
+### Paste clipboard to file
+
+In cmd:
+
+```commandline
+powershell -command "Get-Clipboard" > output.txt
+```
+
+or in Powershell:
+
+```powershell
+Get-Clipboard | Out-File -FilePath output.txt
 ```
 
 ## WSL - Windows Subsystem for Linux
