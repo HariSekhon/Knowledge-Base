@@ -94,7 +94,7 @@ Then on the service account page -> `Keys` -> `Add key` and download it.
 export GOOGLE_APPLICATION_CREDENTIALS="path/to/your-file.json"
 ```
 
-`firebase login` will still show:
+`firebase login:list` will still show:
 
 ```text
  ⚠  No authorized accounts, run "firebase login"
