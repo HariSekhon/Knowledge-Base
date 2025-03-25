@@ -55,6 +55,7 @@
   - [Programmer Interview - Can You Work Under Pressure](#programmer-interview---can-you-work-under-pressure)
   - [How It Feels Being A Programmer After 30](#how-it-feels-being-a-programmer-after-30)
   - [When You Copy Parts of Your Code from Stack Overflow](#when-you-copy-parts-of-your-code-from-stack-overflow)
+  - [Me When Code Works as Intended](#me-when-code-works-as-intended)
 
 <!-- INDEX_END -->
 
@@ -506,5 +507,9 @@ Many of you will want to send this to your relatives:
 ### When You Copy Parts of Your Code from Stack Overflow
 
 ![When You Copy Parts of Your Code from Stack Over](images/cat_copy_parts_code_stack_overflow.jpeg)
+
+### Me When Code Works as Intended
+
+![Me When Code Works as Intended](images/me_when_code_works_as_intended.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
