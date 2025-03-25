@@ -6,6 +6,7 @@ using passwords and / or SSH public + private asymmetric key cryptography.
 <!-- INDEX_START -->
 
 - [Generate an SSH Key](#generate-an-ssh-key)
+- [Compared SSH Key Fingerprint](#compared-ssh-key-fingerprint)
 - [SSH Public Key and Authorized Keys](#ssh-public-key-and-authorized-keys)
 - [SSH Login using only SSH Key](#ssh-login-using-only-ssh-key)
 - [Use SSH Agent](#use-ssh-agent)
@@ -27,6 +28,14 @@ ssh-keygen -f ~/.ssh/"$filename" -t rsa -b 4096 -C "$comment"
 It'll prompt you for a passphrase to protect the private key with.
 If you add a passphrase, use SSH Agent as documented further down to avoid having to type it every time you use the SSH
 key.
+
+## Compared SSH Key Fingerprint
+
+Use this to compare the keys stored on some public service like Bitbucket.
+
+```shell
+ssh-keygen -l -f ~/.ssh/"$filename"
+```
 
 ## SSH Public Key and Authorized Keys
 
