@@ -18,6 +18,7 @@
   - [Base64 encode a file](#base64-encode-a-file)
   - [Copy file to clipboard](#copy-file-to-clipboard)
   - [Paste clipboard to file](#paste-clipboard-to-file)
+  - [Open file from the command line using default application](#open-file-from-the-command-line-using-default-application)
 - [WSL - Windows Subsystem for Linux](#wsl---windows-subsystem-for-linux)
 - [GitHub Repos](#github-repos)
 - [Meme](#meme)
@@ -269,13 +270,25 @@ Get-Content "path\to\your\file.txt" -Raw | Set-Clipboard
 In cmd:
 
 ```commandline
-powershell -command "Get-Clipboard" > output.txt
+powershell -command "Get-Clipboard" > "%file%"
 ```
 
 or in Powershell:
 
 ```powershell
-Get-Clipboard | Out-File -FilePath output.txt
+Get-Clipboard | Out-File -FilePath "%file%
+```
+
+### Open file from the command line using default application
+
+```shell
+start "%file%"
+```
+
+or if the filename has spaces in it:
+
+```shell
+start "" "%file%"
 ```
 
 ## WSL - Windows Subsystem for Linux
