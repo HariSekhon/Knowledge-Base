@@ -4,6 +4,7 @@
 
 - [X](#x)
 - [Instagram](#instagram)
+  - [Instagram Bio Search](#instagram-bio-search)
 - [YouTube](#youtube)
 - [Rumble](#rumble)
 - [TikTok](#tiktok)
@@ -31,6 +32,10 @@ The social media artist formerly known as Twitter.
 <https://www.instagram.com/>
 
 Photo based social media.
+
+### Instagram Bio Search
+
+<https://influencers.club/instagram-bio-search/>
 
 ## YouTube
 
