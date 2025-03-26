@@ -27,8 +27,6 @@ Media file analysis, editing, transcoding and conversions.
     - [Download All Videos from YouTube Channel](#download-all-videos-from-youtube-channel)
   - [Convert Video to 720p mp4](#convert-video-to-720p-mp4)
   - [Clip Video](#clip-video)
-  - [Translate Video](#translate-video)
-  - [Translate Video on Instagram](#translate-video-on-instagram)
 - [Audio](#audio)
   - [MP3 metadata editing](#mp3-metadata-editing)
 - [MediaBox Setup](#mediabox-setup)
@@ -427,6 +425,12 @@ open -a "QuickTime Player" "$file"
 Then press shortcut `Cmd` + `T`
 or click `Edit` -> `Trim` to bring up a slider to drag and then save the resulting clip as a new file.
 
+<!--
+
+### Generate Transcript for Video on Instagram
+
+<https://www.klippyo.com/tools/instagram-reel-transcriber/>
+
 ### Translate Video
 
 <https://clideo.com/translate-instagram-video>
@@ -434,6 +438,8 @@ or click `Edit` -> `Trim` to bring up a slider to drag and then save the resulti
 ### Translate Video on Instagram
 
 <https://videotranslator.blipcut.com/instagram-video-translator.html>
+
+-->
 
 ## Audio
 
