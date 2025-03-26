@@ -6,6 +6,7 @@ A legacy Git repo hosting provider with the worst [CI/CD](cicd.md) of the major 
 
 - [SSH Keys](#ssh-keys)
 - [App Passwords](#app-passwords)
+  - [Credential Helper](#credential-helper)
 
 <!-- INDEX_END -->
 
@@ -31,8 +32,11 @@ Cloning with HTTPS then becomes:
 git clone "https://$BITBUCKET_TOKEN@bitbucket.org/$ORG/$REPO.git"
 ```
 
-Or better, using a credential helper, taken from my
-[.gitconfig](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitconfig):
+or better using a credential helper...
+
+### Credential Helper
+
+Taken from my [.gitconfig](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitconfig):
 
 ```text
 [credential "https://bitbucket.org"]
