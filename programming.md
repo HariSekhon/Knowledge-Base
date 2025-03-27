@@ -56,6 +56,7 @@
   - [How It Feels Being A Programmer After 30](#how-it-feels-being-a-programmer-after-30)
   - [When You Copy Parts of Your Code from Stack Overflow](#when-you-copy-parts-of-your-code-from-stack-overflow)
   - [Me When Code Works as Intended](#me-when-code-works-as-intended)
+  - [When You're Thinking About That Code You Wrote Last Night](#when-youre-thinking-about-that-code-you-wrote-last-night)
 
 <!-- INDEX_END -->
 
@@ -511,5 +512,11 @@ Many of you will want to send this to your relatives:
 ### Me When Code Works as Intended
 
 ![Me When Code Works as Intended](images/me_when_code_works_as_intended.jpeg)
+
+### When You're Thinking About That Code You Wrote Last Night
+
+When you’re thinking about how to improve that code you wrote last night… 😂
+
+![When You're Thinking About That Code You Wrote Last Night](images/havent_listened_to_work_she_said.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
