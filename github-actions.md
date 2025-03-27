@@ -7,8 +7,10 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 
 - [Key Points](#key-points)
   - [Limitations](#limitations)
+- [GitHub Actions Runners](#github-actions-runners)
 - [GitHub Actions Marketplace](#github-actions-marketplace)
 - [Mac Runner Versions vs XCode versions](#mac-runner-versions-vs-xcode-versions)
+- [GitHub Actions Master Template & Reusable Workflows](#github-actions-master-template--reusable-workflows)
 - [GitHub Actions Best Practices](#github-actions-best-practices)
   - [Security Hardening for GitHub Actions](#security-hardening-for-github-actions)
   - [Pin 3rd party GitHub Actions to Git Hashrefs, not tags](#pin-3rd-party-github-actions-to-git-hashrefs-not-tags)
@@ -64,6 +66,10 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 - can't export environment variables to GitHub Actions / Reusable Workflows
 - Secrets must be passed explicitly via `${ secrets.<name> }`
 
+## GitHub Actions Runners
+
+<https://github.com/actions/runner-images#available-images>
+
 ## GitHub Actions Marketplace
 
 Don't forget to search here for useful actions!
@@ -80,12 +86,14 @@ Read the READMEs here to see what versions for XCode are available in different 
 
 <https://github.com/marketplace/actions/setup-xcode-version>
 
-## GitHub Actions Best Practices
+## GitHub Actions Master Template & Reusable Workflows
 
 The code snippet examples on the rest of this page are copied from this real-world repo
 which has been used in production and supports all of my public GitHub projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
+
+## GitHub Actions Best Practices
 
 ### Security Hardening for GitHub Actions
 
