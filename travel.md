@@ -1161,7 +1161,7 @@ More touristy, older crowd, lots more accommodation, so cheaper than Canguu.
 
 Of [Eat, Love, Pray](https://www.imdb.com/title/tt0879870/) movie fame.
 
-Several places are closed on Fridays.
+Several places are closed on Fridays and Saturdays.
 
 - [Pilleyar bar & kitchen](https://maps.app.goo.gl/xXxL9sEBiXLzVUXJ8) - affordable tenderloin surf n turf, good juice
   and smoothie menu, has milkshakes, live music salsa dancing for free every Monday and Thursday.
