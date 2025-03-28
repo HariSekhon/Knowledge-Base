@@ -1079,6 +1079,8 @@ Watch out for restaurants - a lot of them add 15% to your bill for VAT and servi
 Much more developed than expected, gentrified, full of Western restaurants and coffee shops.
 Humid and hot, with a beach and bars busy even late on a Sunday night.
 
+I rains a lot here, though - it makes the UK look like drizzle country. Bring your best umbrella.
+
 ##### Canguu
 
 Surf town, more young attractive people and digital nomads.
