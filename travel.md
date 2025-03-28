@@ -1173,6 +1173,7 @@ Several places are closed on Fridays and Saturdays.
   pricey, street view seating. The Mediterranean Beef Bowl with Wagyu beef, salad, humous and pita is very good.
   I needed a bit more food so added the chimicurri beef taco which was also really good. 30/19 Mbit/s wifi
 - [Brasserie at Alaya](https://maps.app.goo.gl/bS3pfvKrXwWufu8A9) - upmarket hotel restaurant, decent menu
+- [First Cafe Ubud](https://maps.app.goo.gl/sZh3aRgq4kdG2Gk86) - 100Mbit WiFi, reasonable prices, bit quiet though
 
 ### Italy
 
