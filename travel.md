@@ -1168,6 +1168,8 @@ Several places are closed on Fridays and Saturdays.
 - [Pilleyar bar & kitchen](https://maps.app.goo.gl/xXxL9sEBiXLzVUXJ8) - affordable tenderloin surf n turf, good juice
   and smoothie menu, has milkshakes, live music salsa dancing for free every Monday and Thursday.
   94Mbit wifi both directions
+- [Tucky | Specialty Coffee & Brunch](https://maps.app.goo.gl/dnCTPd9ZNkv2R5s36) - busy early in day sold out of juices
+  and lamb shoulder by 1pm, 9am-4pm, reopens at 4pm as a wine bar. Impressive 170Mbit/s wifi bi-directional
 - [Rococo Warung](https://maps.app.goo.gl/H5sJCbQJStNGiC4g6) - very good prices, breakfast all day, 48/25Mbit WiFi
 - [Kismet Bar & Kitchen](https://maps.app.goo.gl/nnHPVfWDp2kbeMjt7) - good venue, menu and prices, brunch menu until
   4pm. 38-48Mbit/s wifi
