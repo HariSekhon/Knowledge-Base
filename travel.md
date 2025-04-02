@@ -1169,6 +1169,7 @@ More touristy, older crowd, lots more accommodation, so cheaper than Canguu.
   tzatziki dip are decent, although
 - [Dua Sisi Kitchen & Bar](https://maps.app.goo.gl/zxPb6bcUTADfLSPG7) - meatball fettucini was decent, but slow
   15/3Mbit wifi
+- [Yogurt Republic Seminyak](https://maps.app.goo.gl/j8gxrbfZvSqvXR299) - has acai bowls
 
 ##### Ubud
 
