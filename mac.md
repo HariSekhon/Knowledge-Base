@@ -29,6 +29,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Raycast](#raycast)
 - [AppleScript](#applescript)
 - [Commands](#commands)
+  - [Install Package](#install-package)
   - [Search for or open anything](#search-for-or-open-anything)
   - [Open URL from Terminal output](#open-url-from-terminal-output)
   - [Open](#open)
@@ -238,6 +239,12 @@ has many more Bash scripts that work on macOS and a bit of [Python](python.md) w
 ## Commands
 
 A list of commands is provided at <https://ss64.com/mac/>.
+
+### Install Package
+
+```text
+sudo installer -pkg ~/Downloads/"$name".pkg -target /
+```
 
 ### Search for or open anything
 
