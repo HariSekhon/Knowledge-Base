@@ -87,6 +87,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Bali](#bali)
       - [Canguu](#canguu)
       - [Kuta](#kuta)
+      - [Seminyak](#seminyak)
       - [Ubud](#ubud)
   - [Italy](#italy)
     - [Italy Car Rentals](#italy-car-rentals)
@@ -102,7 +103,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Latvia](#latvia)
     - [Riga](#riga)
   - [Lithuania](#lithuania)
-    - [Vilinus](#vilinus)
+    - [Vilnius](#vilnius)
   - [Morocco](#morocco)
     - [Morocco Taxis](#morocco-taxis)
     - [Tangiers](#tangiers)
@@ -1159,6 +1160,14 @@ More touristy, older crowd, lots more accommodation, so cheaper than Canguu.
 - [Chill Coffee Bar](https://maps.app.goo.gl/XnqADiUfMdYAzvBS9) - small coffee shop with acai bowl, smoothies, and
   pastries, not much in the way of substantial food, but impressive 200Mbit/s wifi
 
+##### Seminyak
+
+- [The Shisha House Seminyak](https://maps.app.goo.gl/adSpuYqKunfSKpbu8) - good food such as chicken skewers and fries,
+  reasonable prices, larger seating upstairs with private garden. The English breakfast includes a drink and fruit bowl
+  too. Wifi speed is excellent at 130Mbit/s bi-directional
+- [Pallas Greek Taverna](https://maps.app.goo.gl/WRSjJrqXQQ4jZtz5A) - chicken souvlaki (skewers) with fries, pitta and
+  tzatziki dip are decent, although
+
 ##### Ubud
 
 Of [Eat, Love, Pray](https://www.imdb.com/title/tt0879870/) movie fame.
@@ -1381,7 +1390,7 @@ Lithuania is noticeably poorer than Poland.
 
 There is a common Georgian restaurant chain which is well worth a visit for their traditional soup.
 
-#### Vilinus
+#### Vilnius
 
 Vilnius, the capital, is worth a visit but you don't really need more than a couple days as it's not that big.
 
