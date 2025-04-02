@@ -1165,6 +1165,9 @@ More touristy, older crowd, lots more accommodation, so cheaper than Canguu.
 - [The Shisha House Seminyak](https://maps.app.goo.gl/adSpuYqKunfSKpbu8) - good food such as chicken skewers and fries,
   reasonable prices, larger seating upstairs with private garden. The English breakfast includes a drink and fruit bowl
   too. Wifi speed is excellent at 130Mbit/s bi-directional
+- [Mykonos Greek Restaurant Bali](https://maps.app.goo.gl/2AYMEahpGMpj4pEC7) - ignore the Google rating on this one, the
+  chicken garlic shawarma and crispy fries for £6 with excellent tomato salsa dip containing garlic, onion and parsley.
+  130/9 Mbit wifi
 - [Pallas Greek Taverna](https://maps.app.goo.gl/WRSjJrqXQQ4jZtz5A) - chicken souvlaki (skewers) with fries, pitta and
   tzatziki dip are decent, although
 - [Dua Sisi Kitchen & Bar](https://maps.app.goo.gl/zxPb6bcUTADfLSPG7) - meatball fettucini was decent, but slow
