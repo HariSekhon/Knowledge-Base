@@ -1169,7 +1169,10 @@ More touristy, older crowd, lots more accommodation, so cheaper than Canguu.
   tzatziki dip are decent, although
 - [Dua Sisi Kitchen & Bar](https://maps.app.goo.gl/zxPb6bcUTADfLSPG7) - meatball fettucini was decent, but slow
   15/3Mbit wifi
-- [Yogurt Republic Seminyak](https://maps.app.goo.gl/j8gxrbfZvSqvXR299) - has acai bowls
+- [Oakberry Acai Seminyak](https://maps.app.goo.gl/4DpryxqRoLbCB19k7) - tasty, lots of fruit topics throughout,
+  54Mbit wifi and plugs
+- [Yogurt Republic Seminyak](https://maps.app.goo.gl/j8gxrbfZvSqvXR299) - has acai bowls, a little cheaper than Oakberry
+  but not much fruit
 
 ##### Ubud
 
