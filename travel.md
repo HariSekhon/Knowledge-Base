@@ -1167,6 +1167,8 @@ More touristy, older crowd, lots more accommodation, so cheaper than Canguu.
   too. Wifi speed is excellent at 130Mbit/s bi-directional
 - [Pallas Greek Taverna](https://maps.app.goo.gl/WRSjJrqXQQ4jZtz5A) - chicken souvlaki (skewers) with fries, pitta and
   tzatziki dip are decent, although
+- [Dua Sisi Kitchen & Bar](https://maps.app.goo.gl/zxPb6bcUTADfLSPG7) - meatball fettucini was decent, but slow
+  15/3Mbit wifi
 
 ##### Ubud
 
