@@ -1176,6 +1176,7 @@ More touristy, older crowd, lots more accommodation, so cheaper than Canguu.
   54Mbit wifi and plugs
 - [Yogurt Republic Seminyak](https://maps.app.goo.gl/j8gxrbfZvSqvXR299) - has acai bowls, a little cheaper than Oakberry
   but not much fruit
+- [Bossman](https://maps.app.goo.gl/6hDtk7w1ohfBSxPo9) - small but busy burger joint, not cheap, 28/28 Mbit wifi
 
 ##### Ubud
 
