@@ -1174,8 +1174,9 @@ More touristy, older crowd, lots more accommodation, so cheaper than Canguu.
   15/3Mbit wifi
 - [Oakberry Acai Seminyak](https://maps.app.goo.gl/4DpryxqRoLbCB19k7) - tasty, lots of fruit topics throughout,
   54Mbit wifi and plugs
-- [Yogurt Republic Seminyak](https://maps.app.goo.gl/j8gxrbfZvSqvXR299) - has acai bowls, a little cheaper than Oakberry
-  but not much fruit
+- [Yogurt Republic Seminyak](https://maps.app.goo.gl/j8gxrbfZvSqvXR299) - the frozen yoghurt by weight is really good -
+  the black charcoal coconut is the most novel flavour, with the green apple and mango flavours as my joint second
+  picks here. It also has acai bowls, a little cheaper than Oakberry, decent but nowhere as much fruit as Oakberry
 - [Bossman](https://maps.app.goo.gl/6hDtk7w1ohfBSxPo9) - small but busy burger joint, not cheap, 28/28 Mbit wifi
 
 ##### Ubud
