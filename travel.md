@@ -1073,14 +1073,14 @@ The Thai tom yum soup and the sushi are recommended.
 
 $35 visa on arrival.
 
-Watch out for restaurants - a lot of them add 15% to your bill for VAT and service.
+Watch out for restaurants - most of them add 15-17% to your bill for VAT and service.
 
 #### Bali
 
 Much more developed than expected, gentrified, full of Western restaurants and coffee shops.
 Humid and hot, with a beach and bars busy even late on a Sunday night.
 
-I rains a lot here, though - it makes the UK look like drizzle country. Bring your best umbrella.
+It rains a lot here, though - it makes the UK look like drizzle country. Bring your best umbrella.
 
 ##### Canguu
 
