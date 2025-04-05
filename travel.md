@@ -1080,7 +1080,8 @@ Watch out for restaurants - most of them add 15-17% to your bill for VAT and ser
 Much more developed than expected, gentrified, full of Western restaurants and coffee shops.
 Humid and hot, with a beach and bars busy even late on a Sunday night.
 
-It rains a lot here, though - it makes the UK look like drizzle country. Bring your best umbrella.
+It rains a lot here, though - it makes the UK look like drizzle country.
+Bring your best umbrella, and flip flops because your trainers will get soaked whereas flip flops dry out faster.
 
 ##### Canguu
 
