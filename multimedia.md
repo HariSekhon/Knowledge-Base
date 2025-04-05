@@ -26,7 +26,7 @@ Media file analysis, editing, transcoding and conversions.
     - [Download Single Video](#download-single-video)
     - [Download Video Not Inferred from Web Page](#download-video-not-inferred-from-web-page)
     - [Download All Videos from YouTube Channel](#download-all-videos-from-youtube-channel)
-  - [Convert Video to 720p mp4](#convert-video-to-720p-mp4)
+  - [Downscale Video to 720p mp4](#downscale-video-to-720p-mp4)
   - [Clip Video](#clip-video)
 - [Audio](#audio)
   - [MP3 metadata editing](#mp3-metadata-editing)
