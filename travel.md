@@ -1071,14 +1071,14 @@ The Thai tom yum soup and the sushi are recommended.
 
 ### Indonesia
 
-$35 visa on arrival.
-
-Watch out for restaurants - most of them add 15-17% to your bill for VAT and service.
-
 #### Bali
+
+$35 visa on arrival.
 
 Much more developed than expected, gentrified, full of Western restaurants and coffee shops.
 Humid and hot, with a beach and bars busy even late on a Sunday night.
+
+Watch out for restaurants - most of them add 15-17% to your bill for VAT and service.
 
 It rains a lot here, though - it makes the UK look like drizzle country.
 Bring your best umbrella, and flip flops because your trainers will get soaked whereas flip flops dry out faster.
