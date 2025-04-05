@@ -24,6 +24,7 @@ Media file analysis, editing, transcoding and conversions.
   - [Download Videos from Social Media](#download-videos-from-social-media)
     - [yt-dlp](#yt-dlp)
     - [Download Single Video](#download-single-video)
+    - [Download Video Not Inferred from Web Page](#download-video-not-inferred-from-web-page)
     - [Download All Videos from YouTube Channel](#download-all-videos-from-youtube-channel)
   - [Convert Video to 720p mp4](#convert-video-to-720p-mp4)
   - [Clip Video](#clip-video)
@@ -395,6 +396,21 @@ facebook_download_video.sh "$url"
 ```
 
 The script will even attempt to install `yt-dlp` and `ffmepg` prerequisites if not already installed.
+
+#### Download Video Not Inferred from Web Page
+
+The `yt-dlp` tool works really well for extracting the video from many different web pages, but
+if it fails to parse the page, there is a workaround:
+
+1. Open Chrome Developer Tools or similar network request tracing
+2. Click to play the video
+3. Record the `m3u8` url from the Network section
+4. Pass the `m3u8` url to the script - since `yt-dlp` will infer the filename from the m3u8 filename, you'll likely want
+   to pass a second argument to the script for the real filename eg. `Some Video.mp4`
+
+```shell
+youtube_download_video.sh "https://.../index.m3u8" "Some Video.mp4"
+```
 
 #### Download All Videos from YouTube Channel
 
