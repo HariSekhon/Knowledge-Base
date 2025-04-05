@@ -420,15 +420,17 @@ Using [DevOps-Bash-tools](devops-bash-tools.md) repo:
 youtube_download_channel.sh "$url"
 ```
 
-### Convert Video to 720p mp4
+### Downscale Video to 720p mp4
 
-Useful to make good trade-off of quality vs size for social media sharing.
+Useful to make good trade-off of quality vs size for social media posting.
 
 Using [DevOps-Bash-tools](devops-bash-tools.md) repo:
 
 ```shell
 video_to_720p_mp4 "$file"
 ```
+
+If the video is less than this resolution already, it'll do nothing.
 
 ### Clip Video
 
