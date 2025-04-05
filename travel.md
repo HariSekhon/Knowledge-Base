@@ -1162,6 +1162,9 @@ More touristy, older crowd, lots more accommodation, so cheaper than Canguu.
 
 ##### Seminyak
 
+You can find places to eat on the beach for the view,
+but their ratings aren't as good, so you might want to eat one place and just enjoy drinks on the beach instead.
+
 - [The Shisha House Seminyak](https://maps.app.goo.gl/adSpuYqKunfSKpbu8) - good food such as chicken skewers and fries,
   reasonable prices, larger seating upstairs with private garden. The English breakfast includes a drink and fruit bowl
   too. Wifi speed is excellent at 130Mbit/s bi-directional
