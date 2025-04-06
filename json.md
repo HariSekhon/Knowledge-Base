@@ -28,7 +28,7 @@ Useful JSON tools:
 
 ## gron
 
-<https://github.com/tomnomnom/gron>
+[:octocat: tomnomnom/gron](https://github.com/tomnomnom/gron)
 
 Flattens JSON to be greppable.
 
@@ -86,7 +86,7 @@ jq -r '.. | objects | select(has("policy")) | .policy'
 
 ## jnv
 
-<https://github.com/ynqa/jnv>
+[:octocat: ynqa/jnv](https://github.com/ynqa/jnv)
 
 Interactive JSON viewer.
 
