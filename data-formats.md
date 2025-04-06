@@ -110,7 +110,7 @@ schema-compressed JSON - can omit some syntax which is inferred
 
 looks like there is a default cson module in Python 2.7
 
-<https://github.com/gt3389b/python-cson>
+[:octocat: gt3389b/python-cson](https://github.com/gt3389b/python-cson)
 
 ```shell
 pip install python-cson
