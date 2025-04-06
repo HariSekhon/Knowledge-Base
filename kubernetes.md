@@ -113,7 +113,7 @@ Kubeadm - must choose network up front. Can switch later but an awful lot of eff
 
 - standard for pluggable networking in Kubernetes
 - configure with JSON, see here:
-  <https://github.com/containernetworking/cni>
+  [:octocat: containernetworking/cni](https://github.com/containernetworking/cni)
 
 #### Flannel
 
