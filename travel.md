@@ -2228,7 +2228,7 @@ local bank or cash payment.
     you were to transfer or convert large amounts of money such as your life savings.
 - [Emirates NBD](https://www.emiratesnbd.com/en) has a bad reputation among my peers for being a lot of hassle
   - they were a hassle to open, wanting salary certificate
-  - even closing the account is difficult apparently
+  - even closing the account is difficult apparently according to my colleague at the time
 - [HSBC](https://www.hsbc.ae/) was a similar hassle to NBD above wanting salary certificate addressed specifically to them
   - they actually rejected my employer's salary certificate because it wasn't addressed specifically to their bank
   - much more hassle, not like HSBC back in the UK, most UK banks just open accounts easily
