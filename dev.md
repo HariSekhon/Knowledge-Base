@@ -51,7 +51,7 @@ See [Atlassian](atlassian.md) page.
   - GitHub / BitBucket webhooks trigger re-evaluation on push
   - no support for Perl or JVM languages
   - green (ok), yellow (behind latest stable), red (behind on security fixes)
-  - CLI - <https://github.com/gemnasium/toolbelt>
+  - CLI - [:octocat: gemnasium/toolbelt](https://github.com/gemnasium/toolbelt)
   - Enterprise on-prem version
 
 ![Life is Short, Use Dev tools](images/life_is_short_use_dev_tools.gif)
