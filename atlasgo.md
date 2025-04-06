@@ -1,6 +1,6 @@
 # AtlasGo
 
-<https://github.com/ariga/atlas>
+[:octocat: ariga/atlas](https://github.com/ariga/atlas)
 
 Terraform for Database Schemas.
 
