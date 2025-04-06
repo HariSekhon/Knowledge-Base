@@ -17,7 +17,7 @@ This is more recently updated than [tgenv](https://github.com/cunymatthieu/tgenv
 
 ## Install
 
-[:octocat: warrensbox/tgswitch](https://github.com/warrensbox/tgswitch?tab=readme-ov-file#installation)
+[:octocat: warrensbox/tgswitch](https://github.com/warrensbox/tgswitch#installation)
 
 On Mac:
 
