@@ -59,7 +59,7 @@ hadoop fs -ls /
 #### Yarn
 
 ```shell
-yarn node -list | tee /dev/stderr | grep RUNNING | wc -l
+yarn node -list | tee /dev/stderr | grep -c RUNNING
 ```
 
 #### MapReduce
