@@ -114,7 +114,7 @@ base-executable = /opt/homebrew/Cellar/python@3.12/3.12.3/Frameworks/Python.fram
 
 <https://pipenv.pypa.io/en/latest/>
 
-<https://github.com/pypa/pipenv>
+[:octocat: pypa/pipenv](https://github.com/pypa/pipenv)
 
 Combines Pip and VirtualEnv into one command.
 
