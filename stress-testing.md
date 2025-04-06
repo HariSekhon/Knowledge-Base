@@ -70,7 +70,7 @@ Send 1000 requests from 10 concurrent threads:
 hey -n 1000 -c 10 "$URL"
 ```
 
-<https://github.com/ddosify/ddosify>
+[:octocat: ddosify/ddosify](https://github.com/ddosify/ddosify)
 
 ## JMeter
 
