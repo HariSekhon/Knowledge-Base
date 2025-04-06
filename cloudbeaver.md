@@ -1,6 +1,6 @@
 # CloudBeaver
 
-<https://github.com/dbeaver/cloudbeaver>
+[:octocat: dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver)
 
 Database Web UI Manager
 
