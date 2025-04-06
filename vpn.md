@@ -79,4 +79,4 @@ Documentation:
 
 Open source library (TODO read this code):
 
-<https://github.com/fingerprintjs/fingerprintjs>
+[:octocat: fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
