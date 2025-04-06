@@ -208,7 +208,7 @@ vault auth disable github
 
 ### GitHub Actions CI/CD
 
-<https://github.com/hashicorp/vault-action>
+[:octocat: hashicorp/vault-action](https://github.com/hashicorp/vault-action)
 
 ### Kubernetes
 
