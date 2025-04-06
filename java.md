@@ -320,6 +320,8 @@ java -jar my.jar
 
 These are the options you'll see when you install [SDKman](sdkman.md) and `sdk list java`.
 
+[Temurin](#temurin) is the default open source distribution that SDKman uses.
+
 ### Corretto
 
 Amazon's OpenJDK distribution with long-term support and performance enhancements.
