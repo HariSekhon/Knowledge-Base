@@ -48,6 +48,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [The ScreenCapture CLI](#the-screencapture-cli)
   - [Screen Recording](#screen-recording)
   - [Flush the DNS Cache](#flush-the-dns-cache)
+  - [Show DNS Settings](#show-dns-settings)
   - [Set DNS Servers](#set-dns-servers)
   - [Set DNS Search Domain](#set-dns-search-domain)
   - [Set Hostname](#set-hostname)
@@ -538,6 +539,12 @@ More details on Mac's native Screen Capture tool is [here](https://support.apple
 ```shell
 dscacheutil -flushcache
 sudo killall -HUP mDNSResponder
+```
+
+### Show DNS Settings
+
+```shell
+scutil --dns
 ```
 
 ### Set DNS Servers
