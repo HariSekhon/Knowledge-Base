@@ -1,6 +1,6 @@
 # Trivy
 
-<https://github.com/aquasecurity/trivy>
+[:octocat: aquasecurity/trivy](https://github.com/aquasecurity/trivy)
 
 Security scanning CLI tool for vulnerabilities, leaked secrets and misconfigurations.
 
