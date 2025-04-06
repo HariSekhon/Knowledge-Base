@@ -1172,6 +1172,9 @@ but their ratings aren't as good, so you might want to eat one place and just en
 - [The Shisha House Seminyak](https://maps.app.goo.gl/adSpuYqKunfSKpbu8) - good food such as chicken skewers and fries,
   reasonable prices, larger seating upstairs with private garden. The English breakfast includes a drink and fruit bowl
   too. Wifi speed is excellent at 130Mbit/s bi-directional
+- [Sisterfields](https://maps.app.goo.gl/LqZRPVAMnR7m7ddt5) - full breaky was good, although no sausage, acai bowl was
+  very good, lots of fruit, nuts and berries. Prices were higher than on website, 60/8Mbit wifi but capture portal,
+  didn't work on laptop, no pop-up (perhaps pop-up blocker), only phone. I hate capture portals
 - [Mykonos Greek Restaurant Bali](https://maps.app.goo.gl/2AYMEahpGMpj4pEC7) - ignore the Google rating on this one, the
   chicken garlic shawarma and crispy fries for £6 with excellent tomato salsa dip containing garlic, onion and parsley.
   130/9 Mbit wifi
