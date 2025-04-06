@@ -138,7 +138,7 @@ apk add --upgrade "$pkg"
 
 ### apk-file
 
-<https://github.com/genuinetools/apk-file>
+[:octocat: genuinetools/apk-file](https://github.com/genuinetools/apk-file)
 
 `apt-file` but for Alpine, finds
 
