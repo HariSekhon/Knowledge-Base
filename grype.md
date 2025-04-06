@@ -1,6 +1,6 @@
 # Grype
 
-<https://github.com/anchore/grype>
+[:octocat: anchore/grype](https://github.com/anchore/grype)
 
 Security scanning CLI tool for vulnerabilities, leaked secrets and misconfigurations.
 
