@@ -567,7 +567,7 @@ https://raw.githubusercontent.com/HariSekhon/Diagrams-as-Code/master/images/kube
 
 ### Git Filter-Repo
 
-<https://github.com/newren/git-filter-repo>
+[:octocat: newren/git-filter-repo](https://github.com/newren/git-filter-repo)
 
 3rd party Git command add-on that's useful for replacing a token, author name/email, or excluding files and is recommended over the lower-level `git filter-branch`.
 
