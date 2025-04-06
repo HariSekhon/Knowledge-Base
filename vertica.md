@@ -42,10 +42,10 @@ Proprietary MPP SQL OLAP database with a free community edition.
 - Docker support:
   - <https://hub.docker.com/r/dataplatform/docker-vertica/> (old version 9.0.0 community edition)
 - Kubernetes support: (version 10.1.1 onwards)
-  - <https://github.com/vertica/vertica-kubernetes>
+  - [:octocat: vertica/vertica-kubernetes](https://github.com/vertica/vertica-kubernetes)
 - also integrates with Grafana, Helm, Go, and Distributed R
-- Python library: <https://github.com/vertica/vertica-python>
-- Golang library: <https://github.com/vertica/vertica-sql-go>
+- Python library: [:octocat: vertica/vertica-python](https://github.com/vertica/vertica-python)
+- Golang library: [:octocat: vertica/vertica-sql-go](https://github.com/vertica/vertica-sql-go)
 
 ## Vertica Client
 
