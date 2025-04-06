@@ -33,11 +33,11 @@ Treasure trove off CLI tools.
 
 ## Awesome Lists
 
-<https://github.com/rothgar/awesome-tuis>
+[:octocat: rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)
 
-<https://github.com/agarrharr/awesome-cli-apps>
+[:octocat: agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 
-<https://github.com/toolleeo/cli-apps>
+[:octocat: toolleeo/cli-apps](https://github.com/toolleeo/cli-apps)
 
 ## Third Party Tools
 
@@ -59,21 +59,21 @@ See the [JSON tools](json.md) page.
 
 ### tldr
 
-<https://github.com/tldr-pages/tldr>
+[:octocat: tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 
 Quick examples of command line usage that is easier than reading man pages.
 
 ### fzf
 
-<https://github.com/junegunn/fzf>
+[:octocat: junegunn/fzf](https://github.com/junegunn/fzf)
 
-<https://github.com/Aloxaf/fzf-tab>
+[:octocat: Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab)
 
 Fuzzy finder.
 
 ### navi
 
-<https://github.com/denisidoro/navi>
+[:octocat: denisidoro/navi](https://github.com/denisidoro/navi)
 
 Interactive cheat sheet tool.
 
@@ -83,7 +83,7 @@ Interactive cheat sheet tool.
 
 ### WatchExec
 
-<https://github.com/watchexec/watchexec>
+[:octocat: watchexec/watchexec](https://github.com/watchexec/watchexec)
 
 Execute commands when files change.
 
@@ -93,7 +93,7 @@ Whereas `watchexec` can watch extensions, recurse subdirectories to find matchin
 
 ### Entr
 
-<https://github.com/eradman/entr>
+[:octocat: eradman/entr](https://github.com/eradman/entr)
 
 <https://eradman.com/entrproject/>
 
@@ -101,19 +101,19 @@ Execute commands when files change.
 
 ### Just
 
-<https://github.com/casey/just>
+[:octocat: casey/just](https://github.com/casey/just)
 
 New alternative to the classic `make` command.
 
 ### Pet
 
-<https://github.com/knqyf263/pet>
+[:octocat: knqyf263/pet](https://github.com/knqyf263/pet)
 
 CLI snippet manager.
 
 ### taskwarrior
 
-<https://github.com/GothenburgBitFactory/taskwarrior>
+[:octocat: GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)
 
 Manage task list on the command line.
 
@@ -123,17 +123,17 @@ Manage task list on the command line.
 
 ### lazygit
 
-<https://github.com/jesseduffield/lazygit>
+[:octocat: jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
 
 ### Glances
 
-<https://github.com/nicolargo/glances>
+[:octocat: nicolargo/glances](https://github.com/nicolargo/glances)
 
 Cross-platform monitoring tool.
 
 ### Atuin
 
-<https://github.com/atuinsh/atuin>
+[:octocat: atuinsh/atuin](https://github.com/atuinsh/atuin)
 
 Magical shell history, replaces shell history with SQLite database,
 and can share history between machines using an Atuin server.
