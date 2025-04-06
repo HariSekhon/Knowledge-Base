@@ -1,6 +1,6 @@
 # Cert Manager
 
-<https://github.com/jetstack/cert-manager>
+[:octocat: jetstack/cert-manager](https://github.com/jetstack/cert-manager)
 
 Automatic SSL certificates generated for your Kubernetes ingresses.
 
