@@ -507,7 +507,7 @@ include_package "org.xxx.yyy"
 
 ### Rubinius
 
-<https://github.com/rubinius/rubinius#readme>
+[:octocat: rubinius/rubinius](https://github.com/rubinius/rubinius#readme)
 
 JIT for Ruby
 
