@@ -23,7 +23,7 @@ Web UI for DB access.
 
 <https://www.phpmyadmin.net/>
 
-<https://github.com/phpmyadmin/phpmyadmin>
+[:octocat: phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin)
 
 ## Diagram
 
