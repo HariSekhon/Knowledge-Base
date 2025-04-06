@@ -2219,7 +2219,7 @@ local bank or cash payment.
 #### Dubai Banking
 
 - [Mashreq](https://www.mashreq.com/) is the easiest to use, app-only like Starling or Monzo
-  - I lost 5% on a GBP-to-GBP transfer from ADCB to Mashreq... Bitcoin transaction fees are
+  - but I lost 5% on a GBP-to-GBP transfer from ADCB to Mashreq... Bitcoin transaction fees are
     [usually much lower](https://ycharts.com/indicators/bitcoin_average_transaction_fee).
 - [ADCB](https://www.adcb.com/en/personal/) is the next best, but the premium account is a big hassle and has a
   substantial minimum balance requirement of 500,000 AED that many people will not be able to meet
@@ -2230,8 +2230,9 @@ local bank or cash payment.
   - they were a hassle to open, wanting salary certificate
   - even closing the account is difficult apparently
 - [HSBC](https://www.hsbc.ae/) was a similar hassle to NBD above wanting salary certificate addressed specifically to them
+  - they actually rejected my employer's salary certificate because it wasn't addressed specifically to their bank
   - much more hassle, not like HSBC back in the UK, most UK banks just open accounts easily
-  - even already having an HSBC UK account doesn't help
+  - even already having an HSBC UK account didn't help me
 
 ### United Kingdom
 
