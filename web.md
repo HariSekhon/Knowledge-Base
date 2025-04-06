@@ -44,7 +44,7 @@ List of SSGs:
 
 <https://jekyllrb.com/>
 
-<https://github.com/jekyll/jekyll>
+[:octocat: jekyll/jekyll](https://github.com/jekyll/jekyll)
 
 GitHub Pages has native support for Jekyll.
 
@@ -58,7 +58,7 @@ And this resulting GitHub Page: <https://harisekhon.github.io/CI-CD/>
 
 <https://gohugo.io/>
 
-<https://github.com/gohugoio/hugo>
+[:octocat: gohugoio/hugo](https://github.com/gohugoio/hugo)
 
 Written in Go.
 
@@ -79,7 +79,7 @@ Builds [Jekyll](#jekyll) from GitHub repo integration for CI/CD upon pushes.
 
 <https://flyscrape.com>
 
-<https://github.com/philippta/flyscrape>
+[:octocat: philippta/flyscrape](https://github.com/philippta/flyscrape)
 
 *"Doesn't require advanced programming skills"*
 
