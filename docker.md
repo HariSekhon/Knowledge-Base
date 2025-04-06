@@ -290,7 +290,7 @@ See [Podman & Buildah](podman.md) doc.
 
 ## Container Diff
 
-<https://github.com/GoogleContainerTools/container-diff>
+[:octocat: GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff)
 
 ## Java Licensing Problem in Docker
 
@@ -439,7 +439,7 @@ Some highlights:
 
 ## Captain
 
-<https://github.com/harbur/captain>
+[:octocat: harbur/captain](https://github.com/harbur/captain)
 
 Converts Git workflow to Docker containers, CLI `captain push` from CI to build docker containers from CI for each commit
 
