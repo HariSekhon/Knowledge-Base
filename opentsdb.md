@@ -1,6 +1,6 @@
 # OpenTSDB
 
-<https://github.com/OpenTSDB/OpenTSDB>
+[:octocat: OpenTSDB/OpenTSDB](https://github.com/OpenTSDB/OpenTSDB)
 
 Open Source Time Series Database by StumbleUpon.
 
