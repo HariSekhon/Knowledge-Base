@@ -81,11 +81,11 @@ which will be automatically displayed as your GitHub profile home page.
 
 You can do anything you normally can in Markdown - links, formatting, using HTML and embedding 3rd party tools like:
 
-| URL                                                  | Description                                                                                                                                                |
-|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <https://shields.io>                                 | Badges                                                                                                                                                     |
-| <https://komarev.com/ghpvc/>                         | Profile hits counter                                                                                                                                       |
-| <https://github.com/anuraghazra/github-readme-stats> | Profile Stats or GitHub repos to list more repos than that annoying [arbitrary 6 repo pin limitation](https://github.com/orgs/community/discussions/28350) |
+| URL                                                                                              | Description                                                                                                                                                |
+|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <https://shields.io>                                                                             | Badges                                                                                                                                                     |
+| <https://komarev.com/ghpvc/>                                                                     | Profile hits counter                                                                                                                                       |
+| [:octocat: anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  | Profile Stats or GitHub repos to list more repos than that annoying [arbitrary 6 repo pin limitation](https://github.com/orgs/community/discussions/28350) |
 
 See my GitHub Home Profile page:
 
@@ -93,7 +93,7 @@ See my GitHub Home Profile page:
 
 which comes from this repo:
 
-<https://github.com/HariSekhon/HariSekhon>
+[:octocat: HariSekhon/HariSekhon](https://github.com/HariSekhon/HariSekhon)
 
 GitLab uses this too but it puts a `Read more` link instead of displaying the whole page like GitHub.
 
