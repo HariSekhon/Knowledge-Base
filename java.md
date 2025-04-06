@@ -350,7 +350,7 @@ Official OpenJDK reference builds provided by Oracle.
 
 Custom JDK distribution optimized for JetBrains IDEs.
 
-<https://github.com/JetBrains/JetBrainsRuntime>
+[:octocat: JetBrains/JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime)
 
 ### Liberica
 
@@ -362,7 +362,7 @@ Full OpenJDK distribution with JavaFX support from BellSoft.
 
 GraalVM-based JDK optimized for Quarkus applications.
 
-<https://github.com/graalvm/mandrel>
+[:octocat: graalvm/mandrel](https://github.com/graalvm/mandrel)
 
 ### Microsoft
 
@@ -398,7 +398,7 @@ Community-driven OpenJDK distribution maintained by Adoptium.
 
 Tencent's OpenJDK distribution optimized for cloud environments.
 
-<https://github.com/Tencent/TencentKona-8>
+[:octocat: Tencent/TencentKona-8](https://github.com/Tencent/TencentKona-8)
 
 ### Zulu
 
