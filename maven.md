@@ -110,7 +110,7 @@ Calls unit tests.
 
 ## Maven Wrapper
 
-<https://github.com/takari/maven-wrapper>
+[:octocat: takari/maven-wrapper](https://github.com/takari/maven-wrapper)
 
 - Generates `mvnw` / `mvn.bat` wrapper scripts (should be committed to git)
 - Downloads `.mvn/wrapper/maven-wrapper.jar`
@@ -193,7 +193,7 @@ mvn versioneye:securityCheck
 
 ## Polyglot Maven
 
-<https://github.com/takari/polyglot-maven>
+[:octocat: takari/polyglot-maven](https://github.com/takari/polyglot-maven)
 
 - allows to write POM in languages other than XML
 - eg. Groovy, Scala, Ruby, Clojure, Atom, Yaml
