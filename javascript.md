@@ -6,6 +6,7 @@ It's nothing to do with Java.
 
 - [NodeJS](#nodejs)
   - [NPM](#npm)
+  - [REPL](#repl)
 - [TypeScript](#typescript)
   - [Install TypeScript](#install-typescript)
   - [Convert TypeScript to JavaScript](#convert-typescript-to-javascript)
@@ -70,6 +71,27 @@ Install all packages of the exact versions from ``packages-lock.json`:
 ```shell
 npm install
 ```
+
+### REPL
+
+To start an interactive Javascript shell, just type:
+
+```shell
+node
+```
+
+Then behold this horror:
+
+```javascript
+> "11" + 1
+'111'
+> "11" - 1
+10
+```
+
+![Javascript string add minus](images/javascript_string_add_minus.jpeg)
+
+Which brings us on to... strict variable typing...
 
 ## TypeScript
 
