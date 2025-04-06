@@ -2073,8 +2073,13 @@ but the taxi driver charged me 1000 on the BiTaxi app and then another 1700 on c
 
 The United Arab Emirates is one of the most civilized and safe societies I have ever seen.
 
-They have zero tolerance for criminals or welfares spongers.
-They would literally deport half of the UK, which is why it's a nicer place.
+It is one of my favourite countries in the world, but is best suited to very successful people due to the high cost of
+living caused by the influx of millionaires fleeing high tax social democracies.
+
+They have zero tolerance for criminals or welfares spongers, which is why it is so safe and they don't tax half your
+income.
+
+UAE would literally deport half of the UK, who are net drains to the state, which is why it's such a nicer place.
 
 #### Driving in UAE
 
