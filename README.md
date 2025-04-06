@@ -718,6 +718,8 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 - [Marketing](marketing.md)
 
+<!--
+
 ### Crypto
 
 This section is probably the most financially important thing you'll ever learn.
@@ -731,6 +733,8 @@ This section is probably the most financially important thing you'll ever learn.
   governments to fund budgetary deficits caused by universal suffrage spending liabilities
   - even many investments, which are also taxed and often confiscated by governments or ex-wives, are losing ground to
   inflation in real terms
+
+-->
 
 ### Old Docs
 
