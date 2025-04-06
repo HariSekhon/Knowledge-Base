@@ -21,7 +21,7 @@ Web UI for DB access.
 
 <https://www.pgadmin.org/>
 
-<https://github.com/pgadmin-org/pgadmin4>
+[:octocat: pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4)
 
 ## Is Postgres eating the Database World
 
