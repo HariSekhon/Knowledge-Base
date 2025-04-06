@@ -141,7 +141,7 @@ MATCH ()->[r:REL]-() delete r;
 
 ### 4. Large - Bulk batch graph.db writer
 
-<https://github.com/jexp/batch-import>
+[:octocat: jexp/batch-import](https://github.com/jexp/batch-import)
 
 - can append, default overwrite
 - tsv nodes - node name label
