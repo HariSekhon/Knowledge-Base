@@ -88,7 +88,7 @@ for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang etc.
 Also contains advanced configs. eg: `.bashrc`, `.vimrc`, `.gitconfig`, `.
 screenrc`, `.tmux.conf` etc.
 
-<https://github.com/HariSekhon/DevOps-Bash-tools>
+[:octocat: HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
@@ -155,7 +155,7 @@ Some less well known commands to remember:
 | `fold`                                  | Wraps text to the width specified by `-w N`. Use `-s`  to only fold on spaces, not mid-word                                                                                                                |
 | `pandoc`                                | Universal document converter<br/>(eg. [generate_repos_markdown_table.sh](https://github.com/HariSekhon/Kubernetes-configs/blob/master/generate_repos_markdown_table.sh))                                   |
 | `iconv`                                 | Convert between character encodings                                                                                                                                                                        |
-| `hexyl`                                 | Hex terminal viewer <https://github.com/sharkdp/hexyl>                                                                                                                                                     |
+| `hexyl`                                 | Hex terminal viewer [:octocat: sharkdp/hexyl](https://github.com/sharkdp/hexyl)                                                                                                                            |
 | `file`                                  | Determines file type                                                                                                                                                                                       |
 | `pig`                                   | Parallel implementation of `gzip`. Call in tar using the `-I` option: `tar czvf -I 'pigz -9' myfile.tar.gz *`                                                                                              |
 | `runuser`                               | run a command with substitute user and group ID. Does not ask for a password because it may be executed by the root user only eg. when SSH to `ec2-user` on AWS EC2 VMs, `sudo runuser...`                 |
