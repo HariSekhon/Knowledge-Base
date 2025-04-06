@@ -1840,7 +1840,7 @@ A fast life strategy place. Lots of tattoos and marijuana coffee shops.
 You will need cash, big time. Thailand is cheap but lots of places do not take cards.
 
 The ATM machines are thieves and will charge you £5 to withdraw almost any amount of cash,
-so you may as well withdraw a larger sum so you can conned by them less often.
+so you may as well withdraw a larger sum so you get conned by them less often.
 
 #### Thailand Mobile
 
