@@ -60,7 +60,7 @@ See [vim.md](vim.md) for more details.
 
 ### Neovim
 
-<https://github.com/neovim/neovim>
+[:octocat: neovim/neovim](https://github.com/neovim/neovim)
 
 Fork of vim above.
 
