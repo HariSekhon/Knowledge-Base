@@ -85,13 +85,13 @@ See also [PostgreSQL](postgres.md) notes.
 
 This JDBC wrapper works with MySQL and PostgreSQL JDBC drivers to support clustering
 
-<https://github.com/aws/aws-advanced-jdbc-wrapper>
+[:octocat: aws/aws-advanced-jdbc-wrapper](https://github.com/aws/aws-advanced-jdbc-wrapper)
 
 ## Microsoft SQL Server
 
 <https://learn.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver16>
 
-<https://github.com/microsoft/mssql-jdbc>
+[:octocat: microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc)
 
 Quickly download the latest jdbc jar using this script in [DevOps-Bash-tools](devops-bash-tools.md):
 
