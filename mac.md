@@ -228,7 +228,8 @@ script you can get an error like this:
 /get_application_names.scpt:882:889: script error: Expected “from”, etc. but found identifier. (-2741)
 ```
 
-Line number `882:889`?? Good luck finding the offending line. Now imagine that was a 100 or 1000 line script.
+Line number `882:889` in a 20 line script?? Good luck finding the offending line.
+Now imagine that was a 100 or 1000 line script.
 Debugging Hell.
 
 Still, there are some macOS UI related things for which this is the native code, see some such scripts under
