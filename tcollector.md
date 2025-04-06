@@ -1,6 +1,6 @@
 # TCollector
 
-<https://github.com/OpenTSDB/tcollector>
+[:octocat: OpenTSDB/tcollector](https://github.com/OpenTSDB/tcollector)
 
 Client-side metrics collector for OpenTSDB.
 
