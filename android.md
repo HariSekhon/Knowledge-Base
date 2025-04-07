@@ -66,11 +66,13 @@ Using [gradle](gradle.md):
 
 ```shell
 ./gradlew clean assembleRelease \
-        -Dorg.gradle.jvmargs="-Xmx4G \
-        -Dkotlin.daemon.jvm.options=-Xmx2G \
-        -XX:+HeapDumpOnOutOfMemoryError \
-        -XX:+UseParallelGC \
-        -Dfile.encoding=UTF-8" \
+        -Dorg.gradle.jvmargs="\
+            -Xmx4G \
+            -Dkotlin.daemon.jvm.options=-Xmx2G \
+            -XX:+HeapDumpOnOutOfMemoryError \
+            -XX:+UseParallelGC \
+            -Dfile.encoding=UTF-8 \
+        " \
         --build-cache \
         --stacktrace \
         --info
