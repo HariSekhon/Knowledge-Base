@@ -14,7 +14,7 @@ Markdown is expected in top-level `docs/` dir, with `docs/index.md` being the ho
 - [Preview Locally](#preview-locally)
 - [Plugins](#plugins)
   - [D2 Embedded Diagrams](#d2-embedded-diagrams)
-- [Material Theme](#material-theme)
+- [Material](#material)
 - [MkDocs Gotchas](#mkdocs-gotchas)
   - [Bare URLs Are Not Clickable](#bare-urls-are-not-clickable)
   - [Quadruple Backticks don't work in MKDocs](#quadruple-backticks-dont-work-in-mkdocs)
@@ -60,9 +60,11 @@ open http://127.0.0.1:8000
 
 [:octocat: landmaj/mkdocs-d2-plugin](https://github.com/landmaj/mkdocs-d2-plugin)
 
-## Material Theme
+## Material
 
 <https://squidfunk.github.io/mkdocs-material/>
+
+Framework with nice theming built on top of MKDocs.
 
 ## MkDocs Gotchas
 
