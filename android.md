@@ -1,5 +1,12 @@
 # Android
 
+<!-- INDEX_START -->
+
+- [Install Android SDK](#install-android-sdk)
+- [Build](#build)
+
+<!-- INDEX_END -->
+
 ## Install Android SDK
 
 On Ubuntu:
@@ -52,3 +59,27 @@ Add to PATH:
 ```shell
 export PATH="$PATH:$ANDROID_HOME/build-tools/34.0.0"
 ```
+
+## Build
+
+Using [gradle](gradle.md):
+
+```shell
+./gradlew clean assembleRelease \
+        -Dorg.gradle.jvmargs="-Xmx4G \
+        -Dkotlin.daemon.jvm.options=-Xmx2G \
+        -XX:+HeapDumpOnOutOfMemoryError \
+        -XX:+UseParallelGC \
+        -Dfile.encoding=UTF-8" \
+        --build-cache \
+        --stacktrace \
+        --info
+```
+
+results in an `.apk` artifact such as:
+
+```text
+app/build/outputs/apk/release/app-release.apk
+```
+
+Recommended to use [Fastlane](fastlane.md) which can call gradle.
