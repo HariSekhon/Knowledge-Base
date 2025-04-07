@@ -2292,6 +2292,12 @@ Americans are now fleeing the failing Democrat state for Texas, which will then 
 average chain by many locals.
 The _"animal fries"_ covered in fried onions and gravy was too much even for me though.
 
+- [Irvine](#irvine)
+- [Los Angeles](#los-angeles)
+- [Palo Alto](#palo-alto)
+- [San Diego](#san-diego)
+- [San Francisco](#san-francisco)
+
 ##### Irvine
 
 A nicer more suburban manufactured city than LA, with decent shops and restaurants.
