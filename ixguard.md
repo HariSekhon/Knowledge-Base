@@ -33,6 +33,8 @@ and loaded locally using a local python webapp when you install the iXguard.pkg:
 
 <http://127.0.0.1:8998/index.html>
 
+(this is made using MKDocs [Material](https://squidfunk.github.io/mkdocs-material/))
+
 ## Building using iXGuard
 
 You can activate it with the `-toolchain com.guardsquare.ixguard` argument to `xcodebuild`, eg:
