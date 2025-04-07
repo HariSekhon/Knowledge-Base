@@ -29,9 +29,6 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Raycast](#raycast)
 - [AppleScript](#applescript)
 - [Commands](#commands)
-  - [Install Package](#install-package)
-  - [Inspect Package Contents Before Installing](#inspect-package-contents-before-installing)
-  - [List Installed Packages](#list-installed-packages)
   - [Search for or open anything](#search-for-or-open-anything)
   - [Open URL from Terminal output](#open-url-from-terminal-output)
   - [Open](#open)
@@ -64,6 +61,10 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Show Power Adapter Details](#show-power-adapter-details)
   - [Sleep Immediately](#sleep-immediately)
   - [Prevent Sleep](#prevent-sleep)
+  - [Packages](#packages)
+    - [Install Package](#install-package)
+    - [Inspect Package Contents Before Installing](#inspect-package-contents-before-installing)
+    - [List Installed Packages](#list-installed-packages)
   - [Launchctl](#launchctl)
   - [Disk Management](#disk-management)
     - [CLI Disk Management](#cli-disk-management)
@@ -243,92 +244,6 @@ has many more Bash scripts that work on macOS and a bit of [Python](python.md) w
 ## Commands
 
 A list of commands is provided at <https://ss64.com/mac/>.
-
-### Install Package
-
-```text
-sudo installer -pkg ~/Downloads/"$name".pkg -target /
-```
-
-### Inspect Package Contents Before Installing
-
-```shell
-pkgutil --expand ~/Downloads/"$name".pkg /tmp/pkg_contents
-```
-
-Then just browse the `/tmp/package_contents/...` which may look similar to this:
-
-```shell
-tree /tmp/pkg_contents
-```
-
-```text
-/tmp/pkg_contents
-├── Distribution
-├── Resources
-│   ├── ixguard-white.png
-│   └── ixguard.png
-└── ixguard.pkg
-    ├── Bom
-    ├── PackageInfo
-    ├── Payload
-    └── Scripts
-        ├── postinstall
-        └── preinstall
-
-4 directories, 8 files
-```
-
-### List Installed Packages
-
-List all `.pkg` installations:
-
-```shell
-pkgutil --pkgs | sort
-```
-
-This will be a long list of inverse domains for each package, such as:
-
-```text
-com.amazon.aws.cli2
-...
-com.apple.pkg.CLTools_Executables
-com.apple.pkg.CLTools_SDK_macOS13
-com.apple.pkg.CLTools_SDK_macOS14
-com.apple.pkg.CLTools_SwiftBackDeploy
-com.apple.pkg.CLTools_macOS_SDK
-...
-com.apple.pkg.Xcode
-...
-com.google.drivefs.arm64
-com.google.drivefs.shortcuts
-...
-com.guardsquare.ixguard
-...
-com.internet.wifispeed.speedtest
-com.keepersecurity.commander.binary
-com.keepersecurity.commander.launcher
-...
-com.microsoft.powershell
-com.microsoft.rdc.macos
-com.microsoft.teams
-com.microsoft.teams2
-com.ookla.speedtest-macos
-com.openspeedtest.server
-com.paloaltonetworks.globalprotect.pkg
-...
-com.vagrant.vagrant
-...
-net.whatsapp.WhatsApp
-org.openvpn.client.pkg
-org.openvpn.client_framework.pkg
-org.openvpn.client_launch.pkg
-org.openvpn.client_uninstall.pkg
-org.openvpn.helper_framework.pkg
-org.openvpn.helper_launch.pkg
-ru.keepcoder.Telegram
-us.zoom.pkg.videomeeting
-```
 
 ### Search for or open anything
 
@@ -842,6 +757,96 @@ Prevent sleep, but only if on AC power:
 
 ```shell
 sudo caffeinate -s
+```
+
+### Packages
+
+Packages installed via native `.pkg` installers.
+
+#### Install Package
+
+```text
+sudo installer -pkg ~/Downloads/"$name".pkg -target /
+```
+
+#### Inspect Package Contents Before Installing
+
+```shell
+pkgutil --expand ~/Downloads/"$name".pkg /tmp/pkg_contents
+```
+
+Then just browse the `/tmp/package_contents/...` which may look similar to this:
+
+```shell
+tree /tmp/pkg_contents
+```
+
+```text
+/tmp/pkg_contents
+├── Distribution
+├── Resources
+│   ├── ixguard-white.png
+│   └── ixguard.png
+└── ixguard.pkg
+    ├── Bom
+    ├── PackageInfo
+    ├── Payload
+    └── Scripts
+        ├── postinstall
+        └── preinstall
+
+4 directories, 8 files
+```
+
+#### List Installed Packages
+
+List all `.pkg` installations:
+
+```shell
+pkgutil --pkgs | sort
+```
+
+This will be a long list of inverse domains for each package, such as:
+
+```text
+com.amazon.aws.cli2
+...
+com.apple.pkg.CLTools_Executables
+com.apple.pkg.CLTools_SDK_macOS13
+com.apple.pkg.CLTools_SDK_macOS14
+com.apple.pkg.CLTools_SwiftBackDeploy
+com.apple.pkg.CLTools_macOS_SDK
+...
+com.apple.pkg.Xcode
+...
+com.google.drivefs.arm64
+com.google.drivefs.shortcuts
+...
+com.guardsquare.ixguard
+...
+com.internet.wifispeed.speedtest
+com.keepersecurity.commander.binary
+com.keepersecurity.commander.launcher
+...
+com.microsoft.powershell
+com.microsoft.rdc.macos
+com.microsoft.teams
+com.microsoft.teams2
+com.ookla.speedtest-macos
+com.openspeedtest.server
+com.paloaltonetworks.globalprotect.pkg
+...
+com.vagrant.vagrant
+...
+net.whatsapp.WhatsApp
+org.openvpn.client.pkg
+org.openvpn.client_framework.pkg
+org.openvpn.client_launch.pkg
+org.openvpn.client_uninstall.pkg
+org.openvpn.helper_framework.pkg
+org.openvpn.helper_launch.pkg
+ru.keepcoder.Telegram
+us.zoom.pkg.videomeeting
 ```
 
 ### Launchctl
