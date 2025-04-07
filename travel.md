@@ -104,6 +104,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Riga](#riga)
   - [Lithuania](#lithuania)
     - [Vilnius](#vilnius)
+  - [Malaysia](#malaysia)
+    - [Kuala Lumpur](#kuala-lumpur)
   - [Morocco](#morocco)
     - [Morocco Taxis](#morocco-taxis)
     - [Tangiers](#tangiers)
@@ -998,6 +1000,18 @@ So you can't connect your laptop to the airport wifi, only your phone.
 
 ### Germany
 
+- [Driving in Germany](#driving-in-germany)
+- [Bonn](#bonn)
+- [Berlin](#berlin)
+- [Brandenburg](#brandenburg)
+- [Cologne](#cologne)
+- [Dusseldorf](#dusseldorf)
+- [Essen](#essen)
+- [Frankfurt](#frankfurt)
+- [Hanover](#hanover)
+- [Königswinter](#königswinter)
+- [Potsdam](#potsdam)
+
 #### Driving in Germany
 
 The autobahn - the german highway - is long.
@@ -1070,6 +1084,11 @@ it's worth the translation effort, excellent food and good prices.
 The Thai tom yum soup and the sushi are recommended.
 
 ### Indonesia
+
+- [Bali](#bali)
+- [Canguu](#canguu)
+- [Kuta](#kuta)
+- [Seminyak](#seminyak)
 
 #### Bali
 
@@ -1419,6 +1438,14 @@ Vilnius, the capital, is worth a visit but you don't really need more than a cou
 excellent traditional Georgian soup with beef and vegetables with a bit of spice.
 Another traditional dish Khachapuri is basically a similar to a pizza but with more dough around the edges.
 A bit bready for my liking but something you may want to try once.
+
+### Malaysia
+
+#### Kuala Lumpur
+
+- [Luna Luna - Berjaya Times Square](https://maps.app.goo.gl/UCy75kFPbEghZMC1A) - the spicy buttermilk percik grilled
+  chicken with rice and sambal potatos is good, add an egg for extra protein. The lychee lemonade is good if you have a
+  sweet tooth. All in cost only me around £6. The wifi was broken though
 
 ### Morocco
 
