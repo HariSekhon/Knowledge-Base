@@ -1446,6 +1446,9 @@ A bit bready for my liking but something you may want to try once.
 - [Luna Luna - Berjaya Times Square](https://maps.app.goo.gl/UCy75kFPbEghZMC1A) - the spicy buttermilk percik grilled
   chicken with rice and sambal potatos is good, add an egg for extra protein. The lychee lemonade is good if you have a
   sweet tooth. All in cost only me around £6. The wifi was broken though
+- [Restoran Ali Food Corner](https://maps.app.goo.gl/NAKybRsQNnHnLXSt5) - decent cheap late night eats place with large
+  selection of food and fresh juices. Garlic naan is good and comes with 3 dips, and the lamb curry is also good with
+  large pieces of meat
 
 ### Morocco
 
