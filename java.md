@@ -18,7 +18,7 @@ NOT PORTED YET.
 - [GraalJS](#graaljs)
 - [Clojure](#clojure)
 - [ProGuard](#proguard)
-  - [Proguard Core](#proguard-core)
+  - [ProGuard Core](#proguard-core)
   - [ProGuard Assembler / Disassembler](#proguard-assembler--disassembler)
   - [Kotlin Metadata Printer](#kotlin-metadata-printer)
   - [ProGuard iXGuard](#proguard-ixguard)
@@ -321,7 +321,7 @@ java -jar my.jar
 
 ## ProGuard
 
-### Proguard Core
+### ProGuard Core
 
 <https://www.guardsquare.com/proguard>
 
