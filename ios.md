@@ -19,12 +19,6 @@ Uses `xcodebuild`:
   - [Download visionOS](#download-visionos)
   - [Download using XCode GUI](#download-using-xcode-gui)
   - [Download using xcode-install](#download-using-xcode-install)
-- [Download Alternate XCode Versions](#download-alternate-xcode-versions)
-  - [XCodes](#xcodes)
-- [Apple 2FA](#apple-2fa)
-  - [2FA - Device Base](#2fa---device-base)
-  - [2FA - Security & Control](#2fa---security--control)
-  - [2FA - Fallback - SMS or Phone Call](#2fa---fallback---sms-or-phone-call)
 - [Copy Profiles to Library](#copy-profiles-to-library)
 - [Load Certificate into Keychain](#load-certificate-into-keychain)
 - [Open KeyChain Access](#open-keychain-access)
@@ -32,8 +26,14 @@ Uses `xcodebuild`:
 - [xcpretty](#xcpretty)
 - [xcbeautify](#xcbeautify)
 - [AGV](#agv)
-- [Switching XCode versions](#switching-xcode-versions)
 - [iXGuard](#ixguard)
+- [Switching XCode versions](#switching-xcode-versions)
+- [Download Alternate XCode Versions](#download-alternate-xcode-versions)
+  - [XCodes](#xcodes)
+- [Apple 2FA](#apple-2fa)
+  - [2FA - Device Base](#2fa---device-base)
+  - [2FA - Security & Control](#2fa---security--control)
+  - [2FA - Fallback - SMS or Phone Call](#2fa---fallback---sms-or-phone-call)
 - [Troubleshooting](#troubleshooting)
   - [security: SecKeychainItemImport: Unknown format in import](#security-seckeychainitemimport-unknown-format-in-import)
   - [security: SecItemCopyMatching: The specified item could not be found in the keychain](#security-secitemcopymatching-the-specified-item-could-not-be-found-in-the-keychain)
@@ -493,91 +493,6 @@ Verify installation:
 xcrun simctl list
 ```
 
-## Download Alternate XCode Versions
-
-### XCodes
-
-[:octocat: XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes)
-
-```shell
-brew install xcodesorg/made/xcodes
-```
-
-List all possible XCode versions available:
-
-```shell
-xcodes list
-```
-
-List XCode versions installed:
-
-```shell
-xcodes installed
-```
-
-```text
-15.4 (15F31d) (Selected) /Applications/Xcode.app
-```
-
-Download and switch to 16.1:
-
-```shell
-xcodes install 16.1
-```
-
-Just download the `.xip` package (eg. to upload to [CI/CD](cicd.md) artifacts):
-
-```shell
-xcodes download 16.1
-```
-
-This requires a iCloud account.
-
-```shell
-export XCODES_USERNAME=...
-export XCODES_PASSWORD=...
-```
-
-And be prepared for the 2FA prompt if enabled on the account.
-
-## Apple 2FA
-
-Unfortunately Apple doesn't support authenticator apps which can be used to share QR seeds.
-
-Why doesn't Apple support Authenticator Apps for iCloud 2FA?
-
-### 2FA - Device Base
-
-Apple’s 2FA is device-based,
-not time-based one-time passwords (TOTP) using number seeds usually shared as a QR code to authenticator apps.
-
-Apple’s 2FA uses trusted Apple devices to receive push notifications or generate verification codes.
-Apple’s 2FA uses secure push notifications.
-
-When signing in, Apple sends a real-time notification to trusted devices.
-These notifications display location-based alerts, helping prevent unauthorized access.
-
-### 2FA - Security & Control
-
-Apple controls the authentication flow entirely within its ecosystem to reduce phishing risks.
-Since TOTP codes can be stolen via phishing, Apple prefers to use its push-based system.
-
-### 2FA - Fallback - SMS or Phone Call
-
-If you don’t have a trusted Apple device, Apple provides an alternative via SMS or phone call, rather than using
-third-party apps.
-
-If you have [Mac](mac.md) you can generate a 2FA code via the CLI:
-
-```shell
-security find-generic-password -s "iCloud" -w
-```
-
-Since this is such a big problem, switched to using a [GitHub-Actions](github-actions.md) runner with the XCode versions
-already installed.
-
-See [GitHub Actions - Mac Runner Versions vs XCode versions](github-actions.md#mac-runner-versions-vs-xcode-versions).
-
 ## Copy Profiles to Library
 
 ```shell
@@ -703,13 +618,98 @@ Apple Generic Versioning (AGV) tool for Xcode projects:
 agvtool vers  # -terse
 ```
 
+## iXGuard
+
+See [iXGuard](ixguard.md) page.
+
 ## Switching XCode versions
 
 See [GitHub Actions - Mac Runner Versions vs XCode Versions](github-actions.md#mac-runner-versions-vs-xcode-versions).
 
-## iXGuard
+## Download Alternate XCode Versions
 
-See [iXGuard](ixguard.md) page.
+### XCodes
+
+[:octocat: XcodesOrg/xcodes](https://github.com/XcodesOrg/xcodes)
+
+```shell
+brew install xcodesorg/made/xcodes
+```
+
+List all possible XCode versions available:
+
+```shell
+xcodes list
+```
+
+List XCode versions installed:
+
+```shell
+xcodes installed
+```
+
+```text
+15.4 (15F31d) (Selected) /Applications/Xcode.app
+```
+
+Download and switch to 16.1:
+
+```shell
+xcodes install 16.1
+```
+
+Just download the `.xip` package (eg. to upload to [CI/CD](cicd.md) artifacts):
+
+```shell
+xcodes download 16.1
+```
+
+This requires a iCloud account.
+
+```shell
+export XCODES_USERNAME=...
+export XCODES_PASSWORD=...
+```
+
+And be prepared for the 2FA prompt if enabled on the account.
+
+## Apple 2FA
+
+Unfortunately Apple doesn't support authenticator apps which can be used to share QR seeds.
+
+Why doesn't Apple support Authenticator Apps for iCloud 2FA?
+
+### 2FA - Device Base
+
+Apple’s 2FA is device-based,
+not time-based one-time passwords (TOTP) using number seeds usually shared as a QR code to authenticator apps.
+
+Apple’s 2FA uses trusted Apple devices to receive push notifications or generate verification codes.
+Apple’s 2FA uses secure push notifications.
+
+When signing in, Apple sends a real-time notification to trusted devices.
+These notifications display location-based alerts, helping prevent unauthorized access.
+
+### 2FA - Security & Control
+
+Apple controls the authentication flow entirely within its ecosystem to reduce phishing risks.
+Since TOTP codes can be stolen via phishing, Apple prefers to use its push-based system.
+
+### 2FA - Fallback - SMS or Phone Call
+
+If you don’t have a trusted Apple device, Apple provides an alternative via SMS or phone call, rather than using
+third-party apps.
+
+If you have [Mac](mac.md) you can generate a 2FA code via the CLI:
+
+```shell
+security find-generic-password -s "iCloud" -w
+```
+
+Since this is such a big problem, switched to using a [GitHub-Actions](github-actions.md) runner with the XCode versions
+already installed.
+
+See [GitHub Actions - Mac Runner Versions vs XCode versions](github-actions.md#mac-runner-versions-vs-xcode-versions).
 
 ## Troubleshooting
 
