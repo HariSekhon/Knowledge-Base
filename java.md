@@ -21,6 +21,7 @@ NOT PORTED YET.
   - [Proguard Core](#proguard-core)
   - [ProGuard Assembler / Disassembler](#proguard-assembler--disassembler)
   - [Kotlin Metadata Printer](#kotlin-metadata-printer)
+  - [ProGuard iXGuard](#proguard-ixguard)
 - [JVM Distributions](#jvm-distributions)
   - [Corretto](#corretto)
   - [Gluon](#gluon)
