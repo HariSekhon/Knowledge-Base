@@ -1,7 +1,6 @@
+# Android
 
-## Android
-
-### Install Android SDK
+## Install Android SDK
 
 On Ubuntu:
 
