@@ -4,6 +4,9 @@
 
 Proprietary mobile iOS code obfuscation tool to make it difficult to disassemble your `.ipa`.
 
+This protects against intellectual property theft and credential harvesting of things like API keys that may be embedded
+in applications.
+
 <!-- INDEX_START -->
 
 - [Install](#install)
