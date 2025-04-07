@@ -4,12 +4,14 @@
 
 - [Install Android SDK](#install-android-sdk)
 - [Build](#build)
+  - [Build using Gradle](#build-using-gradle)
+  - [Build using Fastlane](#build-using-fastlane)
 - [Signing](#signing)
-  - [Signing with apksigner](#signing-with-apksigner)
-    - [Verify with apksigner](#verify-with-apksigner)
-  - [Signing with jarsigner](#signing-with-jarsigner)
-    - [Verify with jarsigner](#verify-with-jarsigner)
-  - [Signing with Fastlane](#signing-with-fastlane)
+  - [Signing using apksigner](#signing-using-apksigner)
+    - [Verify using apksigner](#verify-using-apksigner)
+  - [Signing using jarsigner](#signing-using-jarsigner)
+    - [Verify using jarsigner](#verify-using-jarsigner)
+  - [Signing using Fastlane](#signing-using-fastlane)
 
 <!-- INDEX_END -->
 
@@ -68,7 +70,9 @@ export PATH="$PATH:$ANDROID_HOME/build-tools/34.0.0"
 
 ## Build
 
-Using [gradle](gradle.md):
+### Build using Gradle
+
+See [gradle](gradle.md) page.
 
 ```shell
 ./gradlew clean assembleRelease \
@@ -90,11 +94,13 @@ results in an `.apk` artifact such as:
 app/build/outputs/apk/release/app-release.apk
 ```
 
-Recommended to use [Fastlane](fastlane.md) which can call gradle.
+### Build using Fastlane
+
+Recommended to use [Fastlane](fastlane.md) which has a gradle action but can also handle signing and other things.
 
 ## Signing
 
-### Signing with apksigner
+### Signing using apksigner
 
 Newer recommended command.
 
@@ -111,7 +117,7 @@ apksigner \
     "$APK"
 ```
 
-#### Verify with apksigner
+#### Verify using apksigner
 
 This actually exits non-zero if it fails to verify, unlike `jarsigner` which only exits non-zero if there is an error.
 This makes this the better choice for scripting and [CI/CD](cicd.md).
@@ -138,7 +144,7 @@ DOES NOT VERIFY
 ERROR: Target SDK version 34 requires a minimum of signature scheme v2; the APK is not signed with this or a later signature scheme
 ```
 
-### Signing with jarsigner
+### Signing using jarsigner
 
 Older method, if you sign with `jarsigner`, you won't be able to verify with `apksigner` in your [CI/CD](cicd.md)
 pipelines.
@@ -155,7 +161,7 @@ jarsigner \
     "$JKS_KEY_ALIAS"
 ```
 
-#### Verify with jarsigner
+#### Verify using jarsigner
 
 Does not exit non-zero if jar is unsigned and fails to verify.
 
@@ -183,7 +189,7 @@ no manifest.
 jar is unsigned.
 ```
 
-### Signing with Fastlane
+### Signing using Fastlane
 
 [Fastlane](fastlane.md) can also do the signing, see this
 [fastlane/Fastfile](https://github.com/HariSekhon/Templates/blob/master/fastlane/Fastfile) template.
