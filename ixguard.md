@@ -33,7 +33,7 @@ and loaded locally using a local python webapp when you install the iXguard.pkg:
 
 <http://127.0.0.1:8998/index.html>
 
-(this is made using [MKDocs Material](mkdocs.md#material-theme)).
+(this is made using [MKDocs Material](mkdocs.md#material)).
 
 ## Building using iXGuard
 
