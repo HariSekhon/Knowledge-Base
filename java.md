@@ -17,6 +17,10 @@ NOT PORTED YET.
   - [JBang CLI](#jbang-cli)
 - [GraalJS](#graaljs)
 - [Clojure](#clojure)
+- [ProGuard](#proguard)
+  - [Proguard Core](#proguard-core)
+  - [ProGuard Assembler / Disassembler](#proguard-assembler--disassembler)
+  - [Kotlin Metadata Printer](#kotlin-metadata-printer)
 - [JVM Distributions](#jvm-distributions)
   - [Corretto](#corretto)
   - [Gluon](#gluon)
@@ -313,6 +317,26 @@ Just a jar, no dependency like Scala predef.
 ```shell
 java -jar my.jar
 ```
+
+## ProGuard
+
+### Proguard Core
+
+<https://www.guardsquare.com/proguard>
+
+<https://playground.proguard.com/>
+
+[:octocat: Guardsquare/proguard-core](https://github.com/Guardsquare/proguard-core)
+
+Shrinker, optimizer, and obfuscator for Java and Kotlin code.
+
+### ProGuard Assembler / Disassembler
+
+[:octocat: GuardSquare/proguard-assembler](https://github.com/guardsquare/proguard-assembler)
+
+### Kotlin Metadata Printer
+
+[:octocat: GuardSquare/kotlin-metadata-printer](https://github.com/Guardsquare/kotlin-metadata-printer)
 
 ## JVM Distributions
 
