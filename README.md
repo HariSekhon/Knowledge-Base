@@ -368,8 +368,15 @@ This one is used widely throughout these pages:
 - [Maven](maven.md)
 - [Gradle](gradle.md)
 - [SBT](sbt.md)
+- [Fastlane](fastlane.md)
+
+### Mobile Builds
+
 - [Mobile Builds](mobile-builds.md)
-  - [Fastlane](fastlane.md)
+- [iOS](ios.md)
+  - [iXGuard](ixguard.md)
+- [Android](android.md)
+- [Fastlane](fastlane.md)
 
 ### Artifact Registries
 
