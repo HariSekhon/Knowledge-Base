@@ -13,6 +13,7 @@ in applications.
 - [Documentation](#documentation)
 - [Building using iXGuard](#building-using-ixguard)
 - [Log & Stats](#log--stats)
+- [Check](#check)
 
 <!-- INDEX_END -->
 
@@ -88,3 +89,9 @@ Asset Encryption:
 -----------------
   - Resources skipped because they were not whitelisted: 896
 ```
+
+## Check
+
+Check your resulting `.ipa` using [Mac Binary Debugging](binaries-debugging.md#mac) tools like:
+
+[:octocat: gdbinit/MachOView](https://github.com/gdbinit/MachOView)
