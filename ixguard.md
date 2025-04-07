@@ -14,6 +14,7 @@ in applications.
 - [Building using iXGuard](#building-using-ixguard)
 - [Log & Stats](#log--stats)
 - [Check](#check)
+- [CI/CD Install](#cicd-install)
 
 <!-- INDEX_END -->
 
@@ -95,3 +96,26 @@ Asset Encryption:
 Check your resulting `.ipa` using [Mac Binary Debugging](binaries-debugging.md#mac) tools like:
 
 [:octocat: gdbinit/MachOView](https://github.com/gdbinit/MachOView)
+
+## CI/CD Install
+
+<https://www.guardsquare.com/blog/continuously-protecting-your-ios-project-in-a-cloud-based-ci>
+
+```shell
+curl https://downloads.guardsquare.com/cli/latest_macos_amd64 -sL |
+tar -x &&
+sudo mv -i guardsquare /usr/local/bin/
+```
+
+You need an SSH key which has been uploaded to the iXGuard portal to authenticate this download:
+
+```shell
+guardsquare --ssh-agent download ixguard -o ixguard.pkg
+```
+
+```shell
+sudo installer -pkg ixguard.pkg
+```
+
+Then put your license file and `ixguard.yml` config to your CI/CD, the former via secret injection,
+the latter can be committed to [Git](git.md).
