@@ -324,6 +324,8 @@ java -jar my.jar
 
 <https://www.guardsquare.com/proguard>
 
+<https://www.guardsquare.com/manual/home>
+
 <https://playground.proguard.com/>
 
 [:octocat: Guardsquare/proguard-core](https://github.com/Guardsquare/proguard-core)
@@ -337,6 +339,12 @@ Shrinker, optimizer, and obfuscator for Java and Kotlin code.
 ### Kotlin Metadata Printer
 
 [:octocat: GuardSquare/kotlin-metadata-printer](https://github.com/Guardsquare/kotlin-metadata-printer)
+
+### ProGuard iXGuard
+
+<https://www.guardsquare.com/ixguard>
+
+Obfuscates iOS code. See [iXGuard](ixguard.md) page.
 
 ## JVM Distributions
 
