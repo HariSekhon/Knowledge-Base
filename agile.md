@@ -6,7 +6,7 @@
 - [Memes](#memes)
   - [Hired Project Manager](#hired-project-manager)
   - [Parrot](#parrot)
-  - [Wishing - 4 Rules](#wishing---4-rules)
+  - [Genie Wishes](#genie-wishes)
   - [A Techie is Never Late to Daily Standup](#a-techie-is-never-late-to-daily-standup)
   - [Waterfall vs Agile - Pick Your Poison](#waterfall-vs-agile---pick-your-poison)
 
@@ -31,9 +31,9 @@ Run one of these live meeting cost tickers during it to remind people what a was
 
 ![Parrot](images/parrot_promoted_to_project_manager.jpeg)
 
-### Wishing - 4 Rules
+### Genie Wishes
 
-![Wishing - 4 Rules](images/agile_ceremonies_daily_meetings_4_rules.jpeg)
+![Genie Wishes](images/agile_ceremonies_daily_meetings_4_rules.jpeg)
 
 ### A Techie is Never Late to Daily Standup
 
