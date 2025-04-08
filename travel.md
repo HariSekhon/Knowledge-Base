@@ -1443,6 +1443,9 @@ A bit bready for my liking but something you may want to try once.
 
 #### Kuala Lumpur
 
+- [Arab Hadramot](https://maps.app.goo.gl/LHzcnyuYvE99of186) - good fattoush, the chicken cubes wrap is a bit small, but
+  the few fries with it were very crispy and fluffy. Kitchen is open late until 1:30am, wifi is super fast at
+  360/130Mbit - amazing!
 - [Luna Luna - Berjaya Times Square](https://maps.app.goo.gl/UCy75kFPbEghZMC1A) - the spicy buttermilk percik grilled
   chicken with rice and sambal potatos is good, add an egg for extra protein. The lychee lemonade is good if you have a
   sweet tooth. All in cost only me around £6. The wifi was broken though
