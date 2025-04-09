@@ -1443,6 +1443,7 @@ A bit bready for my liking but something you may want to try once.
 
 #### Kuala Lumpur
 
+- [Jalan Alor Food Street](https://maps.app.goo.gl/rqoK5MNxcRCR2oh8A) - night market full of food
 - [Arab Hadramot](https://maps.app.goo.gl/LHzcnyuYvE99of186) - good fattoush, the chicken cubes wrap is a bit small, but
   the few fries with it were very crispy and fluffy.
   The grape leaves starter in lemon juice is good too.
