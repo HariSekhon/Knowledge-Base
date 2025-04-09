@@ -112,6 +112,18 @@ firebase projects:list
 firebase projects:list --json
 ```
 
+Unfortunately `projects:list` returns zero even when outputting `No projects found.` imply the credential is invalid or
+doesn't have the right permissions.
+
+To test this properly in scripts or [CI/CD](cicd.md):
+
+```shell
+num_projects="$(firebase projects:list --json | jq '.result | length')"
+if [ "$num_projects" -eq 0 ]; then
+    exit 1
+fi
+```
+
 See also from [DevOps-Bash-tools](devops-bash-tools.md):
 
 ```shell
