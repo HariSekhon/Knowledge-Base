@@ -1453,6 +1453,7 @@ A bit bready for my liking but something you may want to try once.
 - [Restoran Ali Food Corner](https://maps.app.goo.gl/NAKybRsQNnHnLXSt5) - decent cheap late night eats place with large
   selection of food and fresh juices. Garlic naan is good and comes with 3 dips, and the lamb curry is also good with
   large pieces of meat
+- [Pavilion Kuala Lumpur](https://maps.app.goo.gl/xLQ4FKexh3jNDv1D7) - fancy luxury brands mall with eateries around it
 
 ### Morocco
 
