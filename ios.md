@@ -23,6 +23,7 @@ Uses `xcodebuild`:
 - [Load Certificate into Keychain](#load-certificate-into-keychain)
 - [Open KeyChain Access](#open-keychain-access)
 - [Build](#build)
+- [IPA Archives](#ipa-archives)
 - [xcpretty](#xcpretty)
 - [xcbeautify](#xcbeautify)
 - [AGV](#agv)
@@ -600,11 +601,39 @@ xcodebuild test -project "$APP".xcodeproj \
 `xcodebuild` (or [Fastlane](fastlane.md) that calls it) builds an IPA file:
 
 ```shell
-file ./build/"$APP".ipa
+IPA="./build/$APP.ipa"
+```
+
+This ends up in different paths for different builds, find it like this:
+
+```shell
+IPA="$(find . -type f -name '*.ipa' | head -n1)"
+```
+
+```shell
+file "$IPA"
 ```
 
 ```text
 ./build/MyApp.ipa: iOS App Zip archive data, at least v1.0 to extract, compression method=store
+```
+
+```shell
+unzip -l "$IPA"
+```
+
+```shell
+Archive:  ./build/MyApp.ipa
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+        0  02-11-2025 21:52   Payload/
+        0  02-11-2025 21:52   Payload/MyApp.app/
+     6201  02-11-2025 21:52   Payload/MyApp.app/blah.nib
+     8860  02-11-2025 21:52   Payload/MyApp.app/blah2.nib
+    12517  02-11-2025 21:52   Payload/MyApp.app/img.jpg
+...
+...
+<rest of file omitted for brevity>
 ```
 
 ## xcpretty
