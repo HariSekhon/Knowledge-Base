@@ -705,7 +705,6 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Jira](jira.md)
 - [TamperMonkey](tampermonkey.md)
 - [Agile](agile.md)
-- [Download Tools](downloads.md)
 - [IRC](irc.md)
 - [Communications - Chat & Video Conferencing](comms.md)
 
@@ -719,6 +718,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 ### Multimedia
 
 - [Multimedia](multimedia.md)
+- [Download Tools](downloads.md)
 - [File Upload & Code Pastebin Sites](upload-sites.md)
 - [Social Media](social-media.md)
 
