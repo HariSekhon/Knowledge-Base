@@ -63,6 +63,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Prevent Sleep](#prevent-sleep)
   - [Packages](#packages)
     - [Install Package](#install-package)
+    - [Automating Installer Choices](#automating-installer-choices)
     - [Inspect Package Contents Before Installing](#inspect-package-contents-before-installing)
     - [List Installed Packages](#list-installed-packages)
   - [Launchctl](#launchctl)
@@ -767,6 +768,27 @@ Packages installed via native `.pkg` installers.
 
 ```text
 sudo installer -pkg ~/Downloads/"$name".pkg -target /
+```
+
+#### Automating Installer Choices
+
+To avoid pop-ups for things like [CI/CD](cicd.md):
+
+```shell
+installer -showChoicesXML -pkg "$name".pkg |
+tee choices.xml
+```
+
+This is a plist xml file. Edit it:
+
+```shell
+"$EDITOR" choices.xml
+```
+
+Then re-run the installer with it:
+
+```shell
+installer -applyChoiceChangesXML choices.xml -pkg "$name".pkg
 ```
 
 #### Inspect Package Contents Before Installing
