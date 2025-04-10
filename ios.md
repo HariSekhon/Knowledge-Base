@@ -573,7 +573,7 @@ xcodebuild -showBuildSettings # optionally put your -workspace -scheme -configur
 and destinations:
 
 ```shell
-xcodebuild -workspace MyApp.xcworkspace \
+xcodebuild -workspace "$APP".xcworkspace \
   -scheme SIT \
   -configuration SIT \
   -showdestinations
@@ -593,6 +593,18 @@ Run tests:
 xcodebuild test -project "$APP".xcodeproj \
                 -scheme YourScheme \
                 -destination 'platform=iOS Simulator,name=iPhone 15'
+```
+
+## IPA Archives
+
+`xcodebuild` (or [Fastlane](fastlane.md) that calls it) builds an IPA file:
+
+```shell
+file ./build/"$APP".ipa
+```
+
+```text
+./build/MyApp.ipa: iOS App Zip archive data, at least v1.0 to extract, compression method=store
 ```
 
 ## xcpretty
