@@ -11,6 +11,11 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
 - [GitHub Actions Marketplace](#github-actions-marketplace)
 - [Mac Runner Versions vs XCode versions](#mac-runner-versions-vs-xcode-versions)
 - [GitHub Actions Master Template & Reusable Workflows](#github-actions-master-template--reusable-workflows)
+- [Cloud OIDC Integration](#cloud-oidc-integration)
+  - [AWS](#aws)
+    - [AWS OIDC Provider](#aws-oidc-provider)
+    - [AWS OIDC IAM Role](#aws-oidc-iam-role)
+    - [AWS IAM Role Permissions](#aws-iam-role-permissions)
 - [GitHub Actions Best Practices](#github-actions-best-practices)
   - [Security Hardening for GitHub Actions](#security-hardening-for-github-actions)
   - [Pin 3rd party GitHub Actions to Git Hashrefs, not tags](#pin-3rd-party-github-actions-to-git-hashrefs-not-tags)
@@ -92,6 +97,153 @@ The code snippet examples on the rest of this page are copied from this real-wor
 which has been used in production and supports all of my public GitHub projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
+
+## Cloud OIDC Integration
+
+[OIDC Overview](https://docs.github.com/en/actions/security-for-github-actions/security-hardening-your-deployments/about-security-hardening-with-openid-connect)
+
+This allows workflows to get short lived tokens and assume roles with permissions to cloud resources without having to use static AWS Access Keys,
+which may be disallowed in some enterprises by guardrail policies.
+
+[Configure OIDC to AWS](https://docs.github.com/en/actions/security-for-github-actions/security-hardening-your-deployments/configuring-openid-connect-in-amazon-web-services)
+
+[Configure OIDC to Azure](https://docs.github.com/en/actions/security-for-github-actions/security-hardening-your-deployments/configuring-openid-connect-in-azure)
+
+[Configure OIDC to Google Cloud](https://docs.github.com/en/actions/security-for-github-actions/security-hardening-your-deployments/configuring-openid-connect-in-google-cloud-platform)
+
+[Configure OIDC to HashiCorp Vault](https://docs.github.com/en/actions/security-for-github-actions/security-hardening-your-deployments/configuring-openid-connect-in-hashicorp-vault)
+
+### AWS
+
+#### AWS OIDC Provider
+
+Check your current OIDC providers:
+
+<https://console.aws.amazon.com/iam/home?#/identity_providers>
+
+```shell
+aws iam list-open-id-connect-providers
+```
+
+```shell
+aws iam list-open-id-connect-providers --query OpenIDConnectProviderList --output text
+```
+
+If you've already got one for GitHub Actions:
+
+```text
+arn:aws:iam::123456789012:oidc-provider/token.actions.githubusercontent.com
+```
+
+See details for each OIDC provider, to check the
+[GitHub Actions OIDC thumbprints](https://github.blog/changelog/2023-06-27-github-actions-update-on-oidc-integration-with-aws/):
+
+```shell
+aws iam list-open-id-connect-providers --query OpenIDConnectProviderList --output text |
+xargs -L1 aws iam get-open-id-connect-provider --open-id-connect-provider-arn
+```
+
+If there isn't one already, create it:
+
+[AWS IAM UserGuide OIDC Provider](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_create_oidc.html)
+
+You can omit the thumbprint and it'll figure it out from the cert:
+
+```shell
+aws iam create-open-id-connect-provider \
+          --url https://token.actions.githubusercontent.com \
+          --client-id-list sts.amazonaws.com
+          #--thumbprint-list 6938fd4d98bab03faadb97b34396831e3780aea1,1c58a3a8518e8759bf075b76b750d4f2df264fcd
+```
+
+[AWS IAM UserGuide OIDC Verify Thumbprint](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_create_oidc_verify-thumbprint.html)
+
+<!--
+
+You can verify the GitHub Actions SSL thumbprint like this:
+
+```shell
+openssl s_client -showcerts -connect token.actions.githubusercontent.com:443 </dev/null 2>/dev/null \
+  | awk '/BEGIN CERTIFICATE/,/END CERTIFICATE/{print}' \
+  | openssl x509 -noout -fingerprint -sha1
+```
+
+Fingerprint doesn't match the doc, not sure why yet
+
+-->
+
+#### AWS OIDC IAM Role
+
+Create the AWS IAM Role to allow GitHub Actions to assume it:
+
+```shell
+OWNER="$(gh repo view --json owner -q .owner.login | tee /dev/stderr)"
+```
+
+```shell
+REPO="$(gh repo view --json name -q .name | tee /dev/stderr)"
+```
+
+```shell
+aws iam create-role \
+          --role-name GitHubActionsRole \
+          --assume-role-policy-document "{
+            \"Version\": \"2012-10-17\",
+            \"Statement\": [
+              {
+                \"Effect\": \"Allow\",
+                \"Principal\": {
+                  \"Federated\": \"arn:aws:iam::$AWS_ACCOUNT_ID:oidc-provider/token.actions.githubusercontent.com\"
+                },
+                \"Action\": \"sts:AssumeRoleWithWebIdentity\",
+                \"Condition\": {
+                  \"StringLike\": {
+                    \"token.actions.githubusercontent.com:aud\": \"sts.amazonaws.com\",
+                    \"token.actions.githubusercontent.com:sub\": \"repo:$OWNER/$REPO:ref:refs/heads/${BRANCH:-*}\"
+                  }
+                }
+              }
+            ]
+          }"
+```
+
+If the GitHub Actions workflow is using an environemtn, the condition should instead use
+`repo:$OWNER/$REPO:environment:$ENVIRONMENT` - don't forget to define your `ENVIRONMENT` environment variable first.
+
+Check it in UI:
+
+<https://console.aws.amazon.com/iam/home#/roles/details/GitHubActionsRole>
+
+#### AWS IAM Role Permissions
+
+Grant the role permissions to the resources,
+such as an S3 bucket containing the proprietary [iXGuard](ixguard.md) installer:
+
+```shell
+BUCKET=my-s3-cicd-installables
+```
+
+```shell
+aws iam put-role-policy \
+          --role-name GitHubActionsRole \
+          --policy-name ReadS3BucketPolicy \
+          --policy-document "{
+            \"Version\": \"2012-10-17\",
+            \"Statement\": [
+              {
+                \"Effect\": \"Allow\",
+                \"Action\": [
+                  \"s3:GetObject\",
+                  \"s3:ListBucket\"
+                ],
+                \"Resource\": [
+                  \"arn:aws:s3:::$BUCKET\",
+                  \"arn:aws:s3:::$BUCKET/*\"
+                ]
+              }
+            ]
+          }"
+```
 
 ## GitHub Actions Best Practices
 
