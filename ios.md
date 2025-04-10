@@ -598,7 +598,7 @@ xcodebuild test -project "$APP".xcodeproj \
 
 ## IPA Archives
 
-`xcodebuild` (or [Fastlane](fastlane.md) that calls it) builds an IPA file:
+`xcodebuild` / [Fastlane](fastlane.md) builds an IPA file:
 
 ```shell
 IPA="./build/$APP.ipa"
