@@ -633,7 +633,7 @@ Archive:  ./build/MyApp.ipa
     12517  02-11-2025 21:52   Payload/MyApp.app/img.jpg
 ...
 ...
-<rest of file omitted for brevity>
+<rest of files omitted for brevity>
 ```
 
 ## xcpretty
