@@ -16,6 +16,7 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
     - [AWS OIDC Provider](#aws-oidc-provider)
     - [AWS OIDC IAM Role](#aws-oidc-iam-role)
     - [AWS IAM Role Permissions](#aws-iam-role-permissions)
+    - [AWS Credentials Step](#aws-credentials-step)
 - [GitHub Actions Best Practices](#github-actions-best-practices)
   - [Security Hardening for GitHub Actions](#security-hardening-for-github-actions)
   - [Pin 3rd party GitHub Actions to Git Hashrefs, not tags](#pin-3rd-party-github-actions-to-git-hashrefs-not-tags)
