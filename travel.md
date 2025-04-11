@@ -1441,6 +1441,8 @@ A bit bready for my liking but something you may want to try once.
 
 ### Malaysia
 
+This former British colony has good English and like [UAE](#uae) even English three socket plugs.
+
 #### Kuala Lumpur
 
 - [Jalan Alor Food Street](https://maps.app.goo.gl/rqoK5MNxcRCR2oh8A) - night market full of food
