@@ -788,7 +788,7 @@ This is a plist xml file. Edit it:
 Then re-run the installer with it:
 
 ```shell
-installer -applyChoiceChangesXML choices.xml -pkg "$name".pkg
+sudo installer -applyChoiceChangesXML choices.xml -pkg "$name".pkg
 ```
 
 #### Inspect Package Contents Before Installing
