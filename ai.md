@@ -23,9 +23,10 @@ General AI mirroring what humans have is not real yet.
   - [Image](#image)
   - [Video](#video)
 - [UI](#ui)
+- [App Generation](#app-generation)
 - [Coding](#coding)
 - [RAG - Retrieval Augmented Generation](#rag---retrieval-augmented-generation)
-- [Misc](#misc)
+- [Debugging](#debugging)
 - [List of AI Tools By Categories](#list-of-ai-tools-by-categories)
 - [Meme](#meme)
   - [LLM - How to Plagiarize Like a Pro](#llm---how-to-plagiarize-like-a-pro)
@@ -113,15 +114,33 @@ Why does the performance degrade after one query?
 - [InVideo AI](https://invideo.io/) - generate high production quality videos from text prompts
 - [LumaLabs Dream Machine](https://lumalabs.ai/dream-machine) - pics or video
 
+<!--
+
+#### Translate Video
+
+<https://clideo.com/translate-instagram-video>
+
+#### Translate Video on Instagram
+
+<https://videotranslator.blipcut.com/instagram-video-translator.html>
+
+-->
+
 ## UI
 
 - [Uizard](https://uizard.io) - <https://app.uizard.io>
+
+## App Generation
+
+- [Lovable](https://lovable.dev/) - Idea to app in seconds
 
 ## Coding
 
 - [GitHub CoPilot](https://github.com/features/copilot)
 - [TabNine](https://www.tabnine.com) - support for all major IDEs including my favourite [IntelliJ](intellij.md)
 - [Cursor AI](https://www.cursor.com) - separate Editor that requires download, limited completions in free edition
+- [Agentic](https://www.agentic.ai/)
+- [Windsurf](https://windsurf.com/editor)
 
 ## RAG - Retrieval Augmented Generation
 
@@ -137,9 +156,9 @@ Combines LLM with referencing an authoritative traditional Knowledge Base before
 
 <https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview>
 
-## Misc
+## Debugging
 
-- [Agentic](https://www.agentic.ai/)
+- [:octocat: robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt)
 
 ## List of AI Tools By Categories
 
