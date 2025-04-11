@@ -105,6 +105,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Lithuania](#lithuania)
     - [Vilnius](#vilnius)
   - [Malaysia](#malaysia)
+    - [Malaysia Taxis](#malaysia-taxis)
     - [Kuala Lumpur](#kuala-lumpur)
   - [Morocco](#morocco)
     - [Morocco Taxis](#morocco-taxis)
@@ -1442,6 +1443,13 @@ A bit bready for my liking but something you may want to try once.
 ### Malaysia
 
 This former British colony has good English and like [UAE](#uae) even English three socket plugs.
+
+#### Malaysia Taxis
+
+Take the train to Kuala Lumpur before midnight otherwise you will get
+price gauged on taxis as Grab had no drivers left available.
+
+- [Grab](https://www.grab.com/) - taxi app
 
 #### Kuala Lumpur
 
