@@ -245,6 +245,20 @@ aws iam put-role-policy \
           }"
 ```
 
+#### AWS Credentials Step
+
+The credentials step should look like this:
+
+```yaml
+- name: Configure AWS credentials
+  uses: aws-actions/configure-aws-credentials@v4
+  with:
+    role-to-assume: arn:aws:iam::123456789012:role/GitHubActionsRole
+    role-session-name: github-actions-ixguard-download
+    aws-region: eu-west-1
+    audience: sts.amazonaws.com
+```
+
 ## GitHub Actions Best Practices
 
 ### Security Hardening for GitHub Actions
