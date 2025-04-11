@@ -11,6 +11,7 @@ It's nothing to do with Java.
   - [Install TypeScript](#install-typescript)
   - [Convert TypeScript to JavaScript](#convert-typescript-to-javascript)
   - [TypeScript Config](#typescript-config)
+  - [TypeScript REPL](#typescript-repl)
 - [Libraries](#libraries)
 - [Repos](#repos)
 - [Memes](#memes)
@@ -135,6 +136,30 @@ Create a `tsconfig.json` for project settings:
 
 ```shell
 tsc --init
+```
+
+### TypeScript REPL
+
+```shell
+npm install -g ts-node
+```
+
+Start the REPL:
+
+```yaml
+ts-node
+```
+
+List the packages:
+
+```shell
+npm ls -g ts-node typescript
+```
+
+```text
+/opt/homebrew/lib
+└─┬ ts-node@10.9.2
+  └── typescript@5.8.3
 ```
 
 ## Libraries
