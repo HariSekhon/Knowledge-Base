@@ -261,6 +261,16 @@ See the [File Upload & Code PasteBin sites](upload-sites.md) doc.
 
 ## Video
 
+### Buffer Videos
+
+#### Faststream
+
+<https://faststream.online/>
+
+Install the extension and then just click the extension when on a web page.
+
+It'll replace the video placer with a custom one that buffers.
+
 ### Get the resolution and other details like codec for a video file
 
 ```shell
