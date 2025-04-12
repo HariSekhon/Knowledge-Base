@@ -17,11 +17,13 @@ Media file analysis, editing, transcoding and conversions.
   - [Steghide](#steghide)
   - [Image Upload Sites](#image-upload-sites)
 - [Video](#video)
+  - [Buffer Videos](#buffer-videos)
+    - [Faststream](#faststream)
   - [Get the resolution and other details like codec for a video file](#get-the-resolution-and-other-details-like-codec-for-a-video-file)
   - [Transcode mkv into standard mp4 for smart TVs to play](#transcode-mkv-into-standard-mp4-for-smart-tvs-to-play)
   - [Video Clipping](#video-clipping)
   - [Inspect Media File](#inspect-media-file)
-  - [Download Videos from Social Media](#download-videos-from-social-media)
+  - [Download Videos](#download-videos)
     - [yt-dlp](#yt-dlp)
     - [Download Single Video](#download-single-video)
     - [Download Video Not Inferred from Web Page](#download-video-not-inferred-from-web-page)
@@ -350,7 +352,7 @@ mplayer -vo null -ao null -identify -frames 0 "$file"
 tovid id "$file"
 ```
 
-### Download Videos from Social Media
+### Download Videos
 
 #### yt-dlp
 
@@ -359,6 +361,14 @@ Install `yt-dlp` to download, and ffmpeg for conversions:
 ```shell
 brew install yt-dlp ffmpeg
 ```
+
+There's a long list of extractors for different sites:
+
+```shell
+yt-dlp --list-extractors
+```
+
+but it even works on even sites for which there aren't special extractors.
 
 Show available download formats:
 
@@ -372,10 +382,16 @@ You can then choose the format quality you want:
 yt-dlp -f "$format_id" "$url"
 ```
 
-See which sites it can download from:
+If you get an error like this:
 
 ```shell
-yt-dlp --list-extractors
+ERROR: [youtube] ...: Sign in to confirm you’re not a bot.
+```
+
+You can add this switch with your browser to use its cookies:
+
+```text
+--cookies-from-browser chrome
 ```
 
 #### Download Single Video
@@ -405,7 +421,21 @@ twitter_download_video.sh "$url"
 facebook_download_video.sh "$url"
 ```
 
-The script will even attempt to install `yt-dlp` and `ffmepg` prerequisites if not already installed.
+The script will even attempt to install `yt-dlp` and `ffmpeg` prerequisites if not already installed.
+
+If you get an error like this:
+
+```shell
+ERROR: [youtube] ...: Sign in to confirm you’re not a bot.
+```
+
+then export this:
+
+```shell
+export YT_DLP_COOKIES_FROM_BROWSER=chrome
+```
+
+and re-run the script, which will then use the switch `--cookies-from-browser chrome`.
 
 #### Download Video Not Inferred from Web Page
 
