@@ -1477,7 +1477,9 @@ price gauged on taxis as Grab had no drivers left available.
   cheese & ham croissant with scrambled eggs. 22/8Mbit wifi
 - [Kafe Dolce](https://maps.app.goo.gl/jkjp614kAKS32Mjs6) - coffee shop with toasties outside the Lalaport mall near the
   link bridge. Fast 37/27Mbit wifi
-- [Taste of Medan](https://maps.app.goo.gl/dc5ZexF2Ve6iHye48) - indonesian at Central Market Annexe
+- [Taste of Medan](https://maps.app.goo.gl/dc5ZexF2Ve6iHye48) - Indonesian at Central Market Annexe, decent food and
+  prices - the beef rendang platter was good and filling for ~£4, and the honey lemon drink is good for those with a
+  slightly tweet tooth. Unfotunately the passionfruit sour plum drink was sold out. Next time
 - [Jalan Alor Food Street](https://maps.app.goo.gl/rqoK5MNxcRCR2oh8A) - night market full of food, bit of a tourist trap
   though
 - [Pavilion Kuala Lumpur](https://maps.app.goo.gl/xLQ4FKexh3jNDv1D7) - fancy luxury brands mall with eateries around it
