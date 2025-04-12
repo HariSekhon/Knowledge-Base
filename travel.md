@@ -1444,6 +1444,10 @@ A bit bready for my liking but something you may want to try once.
 
 This former British colony has good English and like [UAE](#uae) even English three socket plugs.
 
+April - July is best as the weather is cooler for outdoor travel.
+
+Avoid December - February due to heavy rains.
+
 #### Malaysia Taxis
 
 Take the train to Kuala Lumpur before midnight otherwise you will get
