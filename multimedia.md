@@ -19,17 +19,18 @@ Media file analysis, editing, transcoding and conversions.
 - [Video](#video)
   - [Buffer Videos](#buffer-videos)
     - [Faststream](#faststream)
-  - [Get the resolution and other details like codec for a video file](#get-the-resolution-and-other-details-like-codec-for-a-video-file)
-  - [Transcode mkv into standard mp4 for smart TVs to play](#transcode-mkv-into-standard-mp4-for-smart-tvs-to-play)
-  - [Video Clipping](#video-clipping)
-  - [Inspect Media File](#inspect-media-file)
   - [Download Videos](#download-videos)
     - [yt-dlp](#yt-dlp)
     - [Download Single Video](#download-single-video)
     - [Download Video Not Inferred from Web Page](#download-video-not-inferred-from-web-page)
     - [Download All Videos from YouTube Channel](#download-all-videos-from-youtube-channel)
+  - [Inspect Media File](#inspect-media-file)
+    - [Get the resolution and other details like codec for a video file](#get-the-resolution-and-other-details-like-codec-for-a-video-file)
   - [Downscale Video to 720p mp4](#downscale-video-to-720p-mp4)
   - [Clip Video](#clip-video)
+    - [Clip Video Interactively using QuickTime Player](#clip-video-interactively-using-quicktime-player)
+    - [Clip Video on Command Line using `ffmpeg`](#clip-video-on-command-line-using-ffmpeg)
+  - [Transcode mkv into standard mp4 for smart TVs to play](#transcode-mkv-into-standard-mp4-for-smart-tvs-to-play)
 - [Audio](#audio)
   - [MP3 metadata editing](#mp3-metadata-editing)
 - [MediaBox Setup](#mediabox-setup)
@@ -273,85 +274,6 @@ Install the extension and then just click the extension when on a web page.
 
 It'll replace the video placer with a custom one that buffers.
 
-### Get the resolution and other details like codec for a video file
-
-```shell
-ffmpeg -i "$file"
-```
-
-or
-
-```shell
-ffprobe "$file"
-```
-
-### Transcode mkv into standard mp4 for smart TVs to play
-
-```shell
-ffmpeg -i "input.mkv" "output.mp4"
-```
-
-There is an automated script in the [DevOps-Bash-tools](devops-bash-tools.md) repo's `media/` directory to iterate many files easily:
-
-```shell
-mkv_to_mp4.sh *.mkv
-```
-
-or find all mkv files recursively under the given directory and convert them (retains originals), in this case the `$pwd` denoted by a dot:
-
-```shell
-mkv_to_mp4.sh .
-```
-
-### Video Clipping
-
-Create a clip from a video file using ffmpeg args:
-
-- `-ss <offset>` and `-to <duration>` where duration is integer seconds or `HH:MM:SS` format
-- `-c copy` - `-c` specifies codec, `copy` is quick and cheap codec compared to transcoding
-
-```shell
-ffmpeg -i input_vid.mp4 -ss 00:08:35.0 -t 72 -c copy output_vid.mp4
-```
-
-or using time format `-to 00:01:12` which is the same as 72 seconds from offset start.
-
-### Inspect Media File
-
-```shell
-ffprobe "$file"
-```
-
-If you just want to see whether a video is 480p or 720p or 1080p etc:
-
-```shell
-ffprobe "$file" 2>&1 | grep 'Stream.*Video'
-```
-
-```shell
-exiftool "$file"
-```
-
-```shell
-mediainfo "$file"
-```
-
-```shell
-mediainfo --fullscan "$file"
-```
-
-```shell
-avprobe "$file"
-```
-
-```shell
-mplayer -vo null -ao null -identify -frames 0 "$file"
-```
-
-```shell
-tovid id "$file"
-```
-
 ### Download Videos
 
 #### yt-dlp
@@ -460,6 +382,54 @@ Using [DevOps-Bash-tools](devops-bash-tools.md) repo:
 youtube_download_channel.sh "$url"
 ```
 
+### Inspect Media File
+
+```shell
+ffprobe "$file"
+```
+
+If you just want to see whether a video is 480p or 720p or 1080p etc:
+
+```shell
+ffprobe "$file" 2>&1 | grep 'Stream.*Video'
+```
+
+```shell
+exiftool "$file"
+```
+
+```shell
+mediainfo "$file"
+```
+
+```shell
+mediainfo --fullscan "$file"
+```
+
+```shell
+avprobe "$file"
+```
+
+```shell
+mplayer -vo null -ao null -identify -frames 0 "$file"
+```
+
+```shell
+tovid id "$file"
+```
+
+#### Get the resolution and other details like codec for a video file
+
+```shell
+ffmpeg -i "$file"
+```
+
+or
+
+```shell
+ffprobe "$file"
+```
+
 ### Downscale Video to 720p mp4
 
 Useful to make good trade-off of quality vs size for social media posting.
@@ -474,6 +444,8 @@ If the video is less than this resolution already, it'll do nothing.
 
 ### Clip Video
 
+#### Clip Video Interactively using QuickTime Player
+
 Quickly clip a video on Mac using QuickTime Player:
 
 ```shell
@@ -482,6 +454,19 @@ open -a "QuickTime Player" "$file"
 
 Then press shortcut `Cmd` + `T`
 or click `Edit` -> `Trim` to bring up a slider to drag and then save the resulting clip as a new file.
+
+#### Clip Video on Command Line using `ffmpeg`
+
+Create a clip from a video file using `ffmpeg` args:
+
+- `-ss <offset>` and `-to <duration>` where duration is integer seconds or `HH:MM:SS` format
+- `-c copy` - `-c` specifies codec, `copy` is quick and cheap codec compared to transcoding
+
+```shell
+ffmpeg -i input_vid.mp4 -ss 00:08:35.0 -t 72 -c copy output_vid.mp4
+```
+
+or using time format `-to 00:01:12` which is the same as 72 seconds from offset start.
 
 <!--
 
@@ -498,6 +483,24 @@ or click `Edit` -> `Trim` to bring up a slider to drag and then save the resulti
 <https://videotranslator.blipcut.com/instagram-video-translator.html>
 
 -->
+
+### Transcode mkv into standard mp4 for smart TVs to play
+
+```shell
+ffmpeg -i "input.mkv" "output.mp4"
+```
+
+There is an automated script in the [DevOps-Bash-tools](devops-bash-tools.md) repo's `media/` directory to iterate many files easily:
+
+```shell
+mkv_to_mp4.sh *.mkv
+```
+
+or find all mkv files recursively under the given directory and convert them (retains originals), in this case the `$pwd` denoted by a dot:
+
+```shell
+mkv_to_mp4.sh .
+```
 
 ## Audio
 
