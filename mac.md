@@ -1250,10 +1250,10 @@ Compare the path to the paths in:
 defaults read /Library/Preferences/com.apple.TimeMachine SkipPaths
 ```
 
-and use the absolute path `/Users/hari/github/...` instead of `~/github/...`:
+Try using `-p` and the exact absolute path `/Users/hari/github/...` matching the above output instead of `~/github/...`:
 
 ```shell
-sudo tmutil addexclusion -p /Users/hari/github/go-tools/ath
+sudo tmutil removeexclusion -p /Users/hari/github/go-tools/ath
 ```
 
 ### Trigger Backup
