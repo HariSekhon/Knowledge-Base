@@ -11,7 +11,10 @@ in applications.
 
 - [Install](#install)
 - [Documentation](#documentation)
-- [Building using iXGuard](#building-using-ixguard)
+- [Usage](#usage)
+  - [Sample Config](#sample-config)
+  - [Build IPA with BitCode](#build-ipa-with-bitcode)
+  - [Run iXGuard to generate new Hardened IPA](#run-ixguard-to-generate-new-hardened-ipa)
 - [Log & Stats](#log--stats)
 - [Check](#check)
 - [CI/CD Install](#cicd-install)
@@ -35,7 +38,41 @@ and loaded locally using a local python webapp when you install the iXguard.pkg:
 
 (this is made using [MKDocs Material](mkdocs.md#material)).
 
-## Building using iXGuard
+## Usage
+
+### Sample Config
+
+ixguard.yaml`:
+
+```yaml
+license:
+  - "./ixguard-license.txt"
+debug:
+  verbosity: info
+  autoconfigure: false
+protection:
+  enabled: true
+  names:
+    enabled: false
+  arithmetic-operations:
+    enabled: true
+  control-flow:
+    enabled: true
+  data:
+    enabled: true
+  code-integrity:
+    enabled: false
+  environment-integrity:
+    enabled: false
+  resources:
+    enabled: false
+export:
+  embed-bitcode: false
+```
+
+### Build IPA with BitCode
+
+This is neccessary to build an IPA with both bitcode and machine code that iXGuard can later run on.
 
 You can activate it with the `-toolchain com.guardsquare.ixguard` argument to `xcodebuild`, eg:
 
@@ -54,6 +91,27 @@ or just set this environment variable before running `xcodebuild` or [Fastlane](
 ```shell
 export TOOLCHAINS="com.guardsquare.ixguard"
 ```
+
+### Run iXGuard to generate new Hardened IPA
+
+```shell
+IPA="MyApp.ipa"
+```
+
+Create a variable name for the new output IPA to be the same as the original except with `-hardened.ipa` suffix, eg.
+-> `MyApp-hardened.ipa`:
+
+```shell
+HARDENED_IPA="${IPA_PATH%.ipa}-hardened.ipa"
+```
+
+Run `ixguard` on the `.ipa` archive to generate a new hardened ipa:
+
+```shell
+ixguard --config "$IXGUARD_CONFIG" -o "$HARDENED_IPA" "$IPA_PATH"
+```
+
+This takes several minutes to run and generates `MyApp-hardened.ipa`.
 
 ## Log & Stats
 
