@@ -1474,10 +1474,12 @@ It has plenty of restaurants as well as the [Petaling Street Market](https://map
   The chicken curry with mandi rice was good, and the Adani tea was so good I had two,
   and I don't usually even drink tea - sweet with cardamom and nutmeg
 - [Zhang LaLa Mee Tarik](https://maps.app.goo.gl/JHuC3KYRaF4XMRnE6) - popular ramen foodie restaurant with hand pulled
-  noodles of perfect firmness, and very affordable beef or braised beef soup for around £3 plus you can get an extra
-  portion of free noodles with it.
-  The hau gau prawn chinese dim sum dumplings were good only £1.50, cheap too,
-  but I wasn't as keen on the traditional siew mai dumplings.
+  noodles of perfect firmness, and very affordable.
+  Braised beef soup comes with beef cubes, while the normal beef soup comes with thin flat beef strips, which I find are
+  actually slightly easier to eat.
+  Both are around £3 plus you can get an extra portion of free noodles with it.
+  The hau gau prawn chinese dim sum dumplings were good and cheap at only £1.50.
+  They sold out on my second visit so I tried the traditional siew mai dumplings but wasn't as keen on them.
   Orange and Apple juices are good, coming in large glass mugs for £1 (remember to ask for it with no added sugar).
   Service was slow though, but that's because you're supposed to order online.
   Food delivery was fast once ordered online though.
