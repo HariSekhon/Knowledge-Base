@@ -1222,6 +1222,8 @@ for path in ~/Downloads \
          ~/.gradle/caches \
          ~/.gradle/wrapper \
     ; do
+    path="${path/~/$HOME}"
+    echo "Added path to backup exclusions: $path"
     sudo tmutil addexclusion -p "$path"
 done
 ```
