@@ -6,6 +6,7 @@
 - [Digital Nomad](#digital-nomad)
 - [Offshore Payroll is Easy](#offshore-payroll-is-easy)
 - [US LLC](#us-llc)
+  - [US Bank Account](#us-bank-account)
 - [Meme](#meme)
   - [Work from Home](#work-from-home)
   - [Working at Office vs Home](#working-at-office-vs-home)
