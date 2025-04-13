@@ -1945,16 +1945,19 @@ If you ask for one which is actually juice, they will ask for double the price. 
 
 #### Bangkok
 
-Khao San road is the place to be. It's buzzing even at midnight on a Sunday or Monday.
+[Khao San road](https://maps.app.goo.gl/DQifXctJYKgqZ5b88) is the place to be.
+
+It's buzzing even at midnight on a Sunday or Monday.
 
 Plenty to eat and drink, with many foreigners partying.
 
 Do not stay on Khao San itself or the noise will likely stop you sleeping as it is loud.
 
-China Town is another good area with many restaurants and street food,
-but mostly shuts down by midnight, and I found the hotel to be expensive.
+[ChinaTown](https://maps.app.goo.gl/miPJtaRt114RaDXJ7) is another good area with many restaurants and street food,
+but mostly shuts down by midnight, and I found the hotel to be expensive at £50 per night.
 
-Khao San road is best for travellers on a budget as it has more affordable hotels.
+[Khao San road](https://maps.app.goo.gl/DQifXctJYKgqZ5b88) is best for travellers on a budget as it has more affordable
+hotels.
 
 ##### Bangkok Food
 
