@@ -5,6 +5,7 @@
 - [Freelance](#freelance)
 - [Digital Nomad](#digital-nomad)
 - [Offshore Payroll is Easy](#offshore-payroll-is-easy)
+- [US LLC](#us-llc)
 - [Meme](#meme)
   - [Work from Home](#work-from-home)
   - [Working at Office vs Home](#working-at-office-vs-home)
@@ -32,6 +33,12 @@ they can just pay via one of these companies:
 - [Deel](https://www.deel.com/)
 - [Skuad](https://www.skuad.io/)
 - [Wellwork Global](https://workwell-global.com/)
+
+## US LLC
+
+0% tax as a Non-Resident LLC as long as you don't hire anybody in the US, don't live in the US, and don't have a business address in the US.
+
+- [Doola](https://www.doola.com/)
 
 ## Meme
 
