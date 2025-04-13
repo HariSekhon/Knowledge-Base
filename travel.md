@@ -1468,7 +1468,11 @@ the opposite of Bangkok.
 It has plenty of restaurants as well as the [Petaling Street Market](https://maps.app.goo.gl/Gh1LkbUYu4uD8mie9) and the
 [Central Market](https://maps.app.goo.gl/qcQPb5B6QC8sQbju9).
 
-
+- [Damascus](https://maps.app.goo.gl/AQpz9GEUePHgQMoL8) - very popular, good food, good prices, lots of seating on
+  multiple floors, open late.
+  Fattoush salad was good and cheaper than surrounding restaurants.
+  The chicken curry with mandi rice was good, and the Adani tea was so good I had two,
+  and I don't usually even drink tea - sweet with cardamom and nutmeg
 - [Zhang LaLa Mee Tarik](https://maps.app.goo.gl/JHuC3KYRaF4XMRnE6) - popular ramen foodie restaurant with hand pulled
   noodles of perfect firmness, and very affordable with braised beef soup for £3 plus you can get an extra portion of
   free noodles with it, hau gau prawn chinese dim sum dumplings were good only £1.50, cheap too. Orange juice was big
