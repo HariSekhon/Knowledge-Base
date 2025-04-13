@@ -1184,13 +1184,20 @@ and you can only find this by querying all the directories one by one
 xattr -p com.apple.metadata:com_apple_backup_excludeItem "$path"
 ```
 
-which is of course a terriblly non-scalable O(1) operation to try to find what is excluded...
+which is of course a terribly non-scalable O(1) operation to try to find what is excluded...
 
 So ensure you use the `-p` switch to record it in the UI instead for clarity, at the expense of not tracking the
 directory moves.
 
 **WARNING: omitting the `-p` switch leaves you blind and you may get a shock that a directory you thought was backed up is in fact
 not**
+
+If you have played around with this and want to do a deep search, use this script from
+[DevOps-Bash-tools](devops-bash-tools.md):
+
+```shell
+mac_find_excluded_backup_paths.sh
+```
 
 Remove a directory from backup exclusions:
 
