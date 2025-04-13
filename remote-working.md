@@ -40,6 +40,10 @@ they can just pay via one of these companies:
 
 - [Doola](https://www.doola.com/)
 
+### US Bank Account
+
+- [Mercury](https://mercury.com/r/internet-made-coder-llc) - technically not a bank, but rather a fintech company
+
 ## Meme
 
 ### Work from Home
