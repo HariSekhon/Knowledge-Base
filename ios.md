@@ -40,6 +40,7 @@ Uses `xcodebuild`:
   - [security: SecItemCopyMatching: The specified item could not be found in the keychain](#security-secitemcopymatching-the-specified-item-could-not-be-found-in-the-keychain)
   - [XCodeBuild / Fastlane building hanging with no output](#xcodebuild--fastlane-building-hanging-with-no-output)
   - [No Runtimes](#no-runtimes)
+  - [exportArchive: Rsync failed](#exportarchive-rsync-failed)
 
 <!-- INDEX_END -->
 
@@ -827,3 +828,33 @@ sudo rm -rf ~/Library/Caches/com.apple.dt.Xcode
 ```shell
 xcodebuild -downloadPlatform iOS
 ```
+
+### exportArchive: Rsync failed
+
+After
+
+```text
+Archive Succeeded
+Successfully stored the archive. You can find it in the Xcode Organizer.
+```
+
+you then get an error like this:
+
+```text
+error: exportArchive: Rsync failed
+Error Domain=IDEFoundationErrorDomain Code=1 "Rsync failed"
+```
+
+This is caused by `rsync` failing during creation of the `.ipa` archive.
+
+`xcodebuild` wraps the `.xcarchive` into a `.ipa` export based on your `ExportOptions.plist` using rsync.
+
+Rsync may error out on broken symlinks in the build directory.
+
+Clean out the state:
+
+```shell
+rm -rf build/ ~/Library/Developer/Xcode/DerivedData/*
+```
+
+and then try again.
