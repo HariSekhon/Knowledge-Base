@@ -1457,6 +1457,9 @@ price gauged on taxis as Grab had no drivers left available.
 
 #### Kuala Lumpur
 
+Chinatown is the best area in Kuala Lumpur for budget travelers,
+the opposite of Bangkok.
+
 - [Zhang LaLa Mee Tarik](https://maps.app.goo.gl/JHuC3KYRaF4XMRnE6) - popular ramen foodie restaurant with hand pulled
   noodles of perfect firmness, and very affordable with braised beef soup for £3 plus you can get an extra portion of
   free noodles with it, hau gau prawn chinese dim sum dumplings were good only £1.50, cheap too. Orange juice was big
@@ -1948,7 +1951,10 @@ Plenty to eat and drink, with many foreigners partying.
 
 Do not stay on Khao San itself or the noise will likely stop you sleeping as it is loud.
 
-China Town is another good area with many restaurants and street food, but mostly shuts down by midnight.
+China Town is another good area with many restaurants and street food,
+but mostly shuts down by midnight, and I found the hotel to be expensive.
+
+Khao San road is best for travellers on a budget as it has more affordable hotels.
 
 ##### Bangkok Food
 
