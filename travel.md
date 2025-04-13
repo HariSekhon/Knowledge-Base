@@ -1472,7 +1472,8 @@ It has plenty of restaurants as well as the [Petaling Street Market](https://map
   multiple floors, open late.
   Fattoush salad was good and cheaper than surrounding restaurants.
   The chicken curry with mandi rice was good, and the Adani tea was so good I had two,
-  and I don't usually even drink tea - sweet with cardamom and nutmeg
+  and I don't usually even drink tea - sweet with cardamom and nutmeg.
+  270/240Mbit wifi too, amazing!
 - [Zhang LaLa Mee Tarik](https://maps.app.goo.gl/JHuC3KYRaF4XMRnE6) - popular ramen foodie restaurant with hand pulled
   noodles of perfect firmness, and very affordable.
   Braised beef soup comes with beef cubes, while the normal beef soup comes with thin flat beef strips, which I find are
