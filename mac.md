@@ -85,6 +85,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [XCode Mobile App Builds](#xcode-mobile-app-builds)
 - [Time Machine](#time-machine)
   - [Exclude Paths from Backups](#exclude-paths-from-backups)
+    - [Add Path to Backup Exclusions](#add-path-to-backup-exclusions)
+    - [Remove Path from Backup Exclusions](#remove-path-from-backup-exclusions)
   - [Trigger Backup](#trigger-backup)
   - [List Backups](#list-backups)
   - [Restore a file from latest backup](#restore-a-file-from-latest-backup)
@@ -1168,6 +1170,8 @@ See [Mobile Builds](mobile-builds.md) doc.
 
 ### Exclude Paths from Backups
 
+#### Add Path to Backup Exclusions
+
 You can do this in the Time Machine UI, but it's easier to do this on the command line:
 
 ```shell
@@ -1199,12 +1203,6 @@ If you have played around with this and want to do a deep search, use this scrip
 mac_find_excluded_backup_paths.sh
 ```
 
-Remove a directory from backup exclusions:
-
-```shell
-sudo tmutil removeexclusion "$path"
-```
-
 eg. exclude Downloads and some common space wasting caches from your backups:
 
 ```shell
@@ -1226,6 +1224,34 @@ for path in ~/Downloads \
     ; do
     sudo tmutil addexclusion -p "$path"
 done
+```
+
+#### Remove Path from Backup Exclusions
+
+```shell
+sudo tmutil removeexclusion "$path"
+```
+
+If you get an error like this:
+
+```shell
+sudo tmutil removeexclusion ~/github/go-tools/ath
+```
+
+```text
+/Users/hari/github/go-tools/ath: Error (-43) while attempting to change exclusion setting.
+```
+
+Compare the path to the paths in:
+
+```shell
+defaults read /Library/Preferences/com.apple.TimeMachine SkipPaths
+```
+
+and use the absolute path `/Users/hari/github/...` instead of `~/github/...`:
+
+```shell
+sudo tmutil addexclusion -p /Users/hari/github/go-tools/ath
 ```
 
 ### Trigger Backup
