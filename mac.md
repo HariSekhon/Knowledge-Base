@@ -1230,9 +1230,18 @@ done
 
 #### Remove Path from Backup Exclusions
 
+This attempts to remove the xattr on the path itself:
+
 ```shell
 sudo tmutil removeexclusion "$path"
 ```
+
+Use `-p` if it was set at global path level using `sudo tmutil addexclusion -p ...`
+
+```shell
+sudo tmutil removeexclusion -p ~/github/go-tools/ath
+```
+
 
 If you get an error like this:
 
@@ -1250,7 +1259,8 @@ Compare the path to the paths in:
 defaults read /Library/Preferences/com.apple.TimeMachine SkipPaths
 ```
 
-Try using `-p` and the exact absolute path `/Users/hari/github/...` matching the above output instead of `~/github/...`:
+Try using `-p` if it was set with that and also the exact absolute path `/Users/hari/github/...` matching the above
+output instead of `~/github/...`:
 
 ```shell
 sudo tmutil removeexclusion -p /Users/hari/github/go-tools/ath
