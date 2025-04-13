@@ -38,6 +38,13 @@ they can just pay via one of these companies:
 
 0% tax as a Non-Resident LLC as long as you don't hire anybody in the US, don't live in the US, and don't have a business address in the US.
 
+Profits are paid out and taxes are handled in the resident country (UAE 0%!).
+
+US LLC is useful to get access to US banking for things like selling online courses.
+Charging from a foreign company such as in UAE may result in a bunch of declined card payments (eg.
+from [Stripe](https://stripe.com/)), leading to sales attrition and loss of conversions.
+People will also feel more comfortable buying from a US company than some random overseas company.
+
 - [Doola](https://www.doola.com/)
 
 ### US Bank Account
