@@ -1457,8 +1457,17 @@ price gauged on taxis as Grab had no drivers left available.
 
 #### Kuala Lumpur
 
-Chinatown is the best area in Kuala Lumpur for budget travelers,
+[Bukit Bintang](https://maps.app.goo.gl/Y96hjBXuxg9XaC216) is the best area to stay overall, with lots of restaurants,
+the [Jalan Alor Food Street](https://maps.app.goo.gl/rqoK5MNxcRCR2oh8A) night market,
+the luxury [Pavillion](https://maps.app.goo.gl/xLQ4FKexh3jNDv1D7) shopping center,
+the bar street [Changkat Bukit Bintang](https://maps.app.goo.gl/KZMNXSDVS3gmTDHb9),
+and affordable hotels.
+
+[Chinatown](https://maps.app.goo.gl/9JuMioce8MazLrfE6) is the best area in Kuala Lumpur for budget travelers,
 the opposite of Bangkok.
+It has plenty of restaurants as well as the [Petaling Street Market](https://maps.app.goo.gl/Gh1LkbUYu4uD8mie9) and the
+[Central Market](https://maps.app.goo.gl/qcQPb5B6QC8sQbju9).
+
 
 - [Zhang LaLa Mee Tarik](https://maps.app.goo.gl/JHuC3KYRaF4XMRnE6) - popular ramen foodie restaurant with hand pulled
   noodles of perfect firmness, and very affordable with braised beef soup for £3 plus you can get an extra portion of
@@ -1489,11 +1498,11 @@ the opposite of Bangkok.
   slightly tweet tooth. Unfotunately the passionfruit sour plum drink was sold out. Next time
 - [Jalan Alor Food Street](https://maps.app.goo.gl/rqoK5MNxcRCR2oh8A) - night market full of food, bit of a tourist trap
   though
-- [Pavilion Kuala Lumpur](https://maps.app.goo.gl/xLQ4FKexh3jNDv1D7) - fancy luxury brands mall with eateries around it
+- [Pavilion](https://maps.app.goo.gl/xLQ4FKexh3jNDv1D7) - fancy luxury brands mall with eateries around it
 - [Petaling Street Market](https://maps.app.goo.gl/4Hs2cKZrZZC31htt8) - stalls of clothes, handbags and electronics in
   Chinatown surrounded by small Chinese restaurants. Haggle and ye shall receive
-- [Central Market](https://maps.app.goo.gl/iqMaQ7appKxnSLdJ7) - indoor boutiques and small food court, worth a browse,
-  with street food stalls along the west outside
+- [Central Market](https://maps.app.goo.gl/iqMaQ7appKxnSLdJ7) - indoor boutiques, arts and crafts, a small food court,
+  worth a browse, with street food and jewellery stalls along the west outside
 
 ### Morocco
 
