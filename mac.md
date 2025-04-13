@@ -84,6 +84,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Asahi Linux on Apple Silicon](#asahi-linux-on-apple-silicon)
 - [XCode Mobile App Builds](#xcode-mobile-app-builds)
 - [Time Machine](#time-machine)
+  - [Exclude Paths from Backups](#exclude-paths-from-backups)
   - [Trigger Backup](#trigger-backup)
   - [List Backups](#list-backups)
   - [Restore a file from latest backup](#restore-a-file-from-latest-backup)
@@ -1164,6 +1165,61 @@ There is a reason I put this just before the Troubleshooting section... :wink:
 See [Mobile Builds](mobile-builds.md) doc.
 
 ## Time Machine
+
+### Exclude Paths from Backups
+
+You can do this in the Time Machine UI, but it's easier to do this on the command line:
+
+```shell
+sudo tmutil addexclusion -p "$path"
+```
+
+Omitting the `-p` switch sets it on the directory attributes rather than in Time Machine, making it sticky if the folder
+is moved.
+
+Unfortunately without the `-p` switch the folder does not appear in the Time Machine UI,
+and you can only find this by querying all the directories one by one
+
+```text
+xattr -p com.apple.metadata:com_apple_backup_excludeItem "$path"
+```
+
+which is of course a terriblly non-scalable O(1) operation to try to find what is excluded...
+
+So ensure you use the `-p` switch to record it in the UI instead for clarity, at the expense of not tracking the
+directory moves.
+
+**WARNING: omitting the `-p` switch leaves you blind and you may get a shock that a directory you thought was backed up is in fact
+not**
+
+Remove a directory from backup exclusions:
+
+```shell
+sudo tmutil removeexclusion "$path"
+```
+
+eg. exclude Downloads and some common space wasting caches from your backups:
+
+```shell
+for path in ~/Downloads \
+         ~/VirtualBox\ VMs \
+         ~/Library/Caches/Homebrew \
+         ~/.docker/machine/machines \
+         ~/Library/Developer/Xcode/DerivedData \
+         ~/github/work/$REPO/build \
+         ~/github/work/$REPO/Pods \
+         ~/.cpanm \
+         ~/Library/Caches/pip \
+         ~/go/pkg/mod \
+         ~/.m2/wrapper \
+         ~/.m2/repository \
+         ~/.ivy2/cache \
+         ~/.gradle/caches \
+         ~/.gradle/wrapper \
+    ; do
+    sudo tmutil addexclusion -p "$path"
+done
+```
 
 ### Trigger Backup
 
