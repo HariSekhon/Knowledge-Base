@@ -1213,8 +1213,8 @@ for path in ~/Downloads \
          ~/Library/Caches/Homebrew \
          ~/.docker/machine/machines \
          ~/Library/Developer/Xcode/DerivedData \
-         ~/github/work/$REPO/build \
-         ~/github/work/$REPO/Pods \
+         ~/github/$REPO/build \
+         ~/github/$REPO/Pods \
          ~/.cpanm \
          ~/Library/Caches/pip \
          ~/go/pkg/mod \
