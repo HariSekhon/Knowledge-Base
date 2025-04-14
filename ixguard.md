@@ -21,6 +21,9 @@ in applications.
     - [Run iXGuard to generate Hardened xcarchive](#run-ixguard-to-generate-hardened-xcarchive)
     - [Run iXGuard to generate Hardened IPA](#run-ixguard-to-generate-hardened-ipa)
 - [Log & Stats](#log--stats)
+  - [iXGuard Log](#ixguard-log)
+  - [iXGuard Stats](#ixguard-stats)
+  - [Fastlane Stats](#fastlane-stats)
 - [Check](#check)
 - [CI/CD Install](#cicd-install)
 
@@ -208,7 +211,11 @@ Failed to check for updates due to a network issue. Use the -local flag to run i
 
 ## Log & Stats
 
+### iXGuard Log
+
 An `ixguard.log` file will be created at the root of the git repo containing logs and a statistics block like this:
+
+### iXGuard Stats
 
 ```shell
 STATISTICS:
@@ -242,6 +249,33 @@ Integrity:
 Asset Encryption:
 -----------------
   - Resources skipped because they were not whitelisted: 896
+```
+
+### Fastlane Stats
+
+iXGuard will more than double your build time:
+
+```text
+[01:36:09]: 🎉 Built with ixGuard toolchain and exported hardened IPA successfully!
+
++------------------------------------------------------------------------------------+
+|                                  fastlane summary                                  |
++------+---------------------------------------------------------------+-------------+
+| Step | Action                                                        | Time (in s) |
++------+---------------------------------------------------------------+-------------+
+| 1    | opt_out_usage                                                 | 0           |
+| 2    | default_platform                                              | 0           |
+| 3    | setup_ci                                                      | 0           |
+| 4    | get_build_number                                              | 0           |
+| 5    | git_branch                                                    | 0           |
+| 6    | last_git_tag                                                  | 0           |
+| 7    | ensure_git_branch                                             | 0           |
+| 8    | build_app                                                     | 546         |
+| 9    | cd .. && ixguard --config ixguard.yaml --local --force -o "./ | 725         |
+| 10   | build_app                                                     | 75          |
++------+---------------------------------------------------------------+-------------+
+
+[01:36:09]: fastlane.tools just saved you 22 minutes! 🎉
 ```
 
 ## Check
