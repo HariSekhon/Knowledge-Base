@@ -4,6 +4,7 @@ See also [Performance Engineering](performance.md).
 
 <!-- INDEX_START -->
 
+- [Disk Health](#disk-health)
 - [HP](#hp)
   - [HP Proliant Array Configuration Utility](#hp-proliant-array-configuration-utility)
 - [Dell](#dell)
@@ -18,6 +19,16 @@ See also [Performance Engineering](performance.md).
   - [Moores Law Ending vs Programming Languages](#moores-law-ending-vs-programming-languages)
 
 <!-- INDEX_END -->
+
+## Disk Health
+
+```shell
+brew install smartmontools
+```
+
+```shell
+smartctl -a /dev/disk1
+```
 
 ## HP
 
