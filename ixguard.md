@@ -14,7 +14,12 @@ in applications.
 - [Usage](#usage)
   - [Sample Config](#sample-config)
   - [Build IPA with BitCode](#build-ipa-with-bitcode)
-  - [Run iXGuard to generate new Hardened IPA](#run-ixguard-to-generate-new-hardened-ipa)
+  - [Optional: Check BitCode is present](#optional-check-bitcode-is-present)
+    - [Check xcarchive was generated with BitCode](#check-xcarchive-was-generated-with-bitcode)
+    - [Check IPA was generated with BitCode](#check-ipa-was-generated-with-bitcode)
+  - [Run iXGuard to generate new Hardened Code](#run-ixguard-to-generate-new-hardened-code)
+    - [Run iXGuard to generate Hardened xcarchive](#run-ixguard-to-generate-hardened-xcarchive)
+    - [Run iXGuard to generate Hardened IPA](#run-ixguard-to-generate-hardened-ipa)
 - [Log & Stats](#log--stats)
 - [Check](#check)
 - [CI/CD Install](#cicd-install)
@@ -32,7 +37,13 @@ sudo installer -pkg "iXGuard_4_12_4_stable_arm_64.pkg" -target /
 ## Documentation
 
 Unfortunately the documentation is not public but installed
-and loaded locally using a local python webapp when you install the iXguard.pkg:
+and loaded locally using a local python webapp when you install the iXguard.pkg.
+
+This is the path if you need to restart it (it does not have shebang):
+
+```shell
+python3 /Library/iXGuard/python/server.py
+```
 
 <http://127.0.0.1:8998/index.html>
 
@@ -42,7 +53,7 @@ and loaded locally using a local python webapp when you install the iXguard.pkg:
 
 ### Sample Config
 
-ixguard.yaml`:
+[HariSekhon/Templates - ixguard.yaml](https://github.com/HariSekhon/Templates/blob/master/ixguard.yaml):
 
 ```yaml
 license:
@@ -92,7 +103,82 @@ or just set this environment variable before running `xcodebuild` or [Fastlane](
 export TOOLCHAINS="com.guardsquare.ixguard"
 ```
 
-### Run iXGuard to generate new Hardened IPA
+If you get this error message, it's caused by
+
+```shell
+xcodebuild -exportArchive
+```
+
+breaks with:
+
+```text
+error: exportArchive: Rsync failed
+```
+
+Then you need to skip creating the archive and instead run ixguard on the `.xcarchive` instead.
+
+```shell
+ixguard --config ixguard.yaml --local --force -o ./build/MyApp-Guarded.xcarchive  ./build/MyApp.xcarchive
+```
+
+And then run the `xcodebuild -exportArchive` afterwards.
+
+### Optional: Check BitCode is present
+
+#### Check xcarchive was generated with BitCode
+
+```shell
+NAME=MyApp
+```
+
+```shell
+otool -l "$NAME.xcarchive//Products/Applications/$NAME.app/$NAME" | grep -A2 __LLVM
+```
+
+or
+
+#### Check IPA was generated with BitCode
+
+```shell
+NAME=MyApp
+```
+
+```shell
+unzip "$NAME.ipa"
+```
+
+```shell
+otool -l "Payload/$NAME.app/$NAME" | grep -A2 __LLVM
+```
+
+If the output shows a `__LLVM` section, like this, then bitcode is included:
+
+```text
+sectname __LLVM
+segname  __TEXT
+```
+
+The IPA file size will also be larger than it would otherwise.
+
+### Run iXGuard to generate new Hardened Code
+
+#### Run iXGuard to generate Hardened xcarchive
+
+```shell
+NAME=MyApp
+```
+
+```shell
+ixguard --config ixguard.yaml --local --force -o "./build/$NAME-Guarded.xcarchive"  "./build/$NAME.xcarchive"
+```
+
+And then run the `xcodebuild -exportArchive` afterwards.
+
+See the [Fastlane](fastlane.md) template.
+
+or
+
+#### Run iXGuard to generate Hardened IPA
 
 ```shell
 IPA="MyApp.ipa"
@@ -108,10 +194,17 @@ HARDENED_IPA="${IPA_PATH%.ipa}-hardened.ipa"
 Run `ixguard` on the `.ipa` archive to generate a new hardened ipa:
 
 ```shell
-ixguard --config "$IXGUARD_CONFIG" -o "$HARDENED_IPA" "$IPA_PATH"
+ixguard --config "$IXGUARD_CONFIG" --local -o "$HARDENED_IPA" "$IPA_PATH"
 ```
 
 This takes several minutes to run and generates `MyApp-hardened.ipa`.
+
+The `--local` switch skips checking for updates and prevents the build breaking with this error if your wifi is down:
+
+```text
+Generating usage statistics failed: Network error.
+Failed to check for updates due to a network issue. Use the -local flag to run ixguard without checking for updates.
+```
 
 ## Log & Stats
 
