@@ -182,7 +182,7 @@ terraform-docs markdown table --output-file README.md --output-mode inject /path
 
 This is not thread-safe.
 
-Configure it in `.terraformrc`:
+Configure it in [.terraformrc](https://github.com/HariSekhon/Terraform/blob/master/.terraformrc):
 
 ```text
 plugin_cache_dir   = "$HOME/.terraform.d/plugin-cache"
