@@ -375,6 +375,8 @@ Manages iOS code-signing credentials securely in a Git repo.
 Sync your SSL signing certificates and Mobile Provisioning Profiles across devs or CI/CD builds using a separate
 Git repo, AWS S3 / GCP GCS bucket.
 
+**You need to have Apple Developer Portal credentials for Fastlane to verify the SSL certs when syncing them**
+
 Initialize a skeleton `fastlane/Matchfile` - run this and answer the prompts:
 
 ```shell
