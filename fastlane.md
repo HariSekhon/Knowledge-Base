@@ -563,6 +563,20 @@ EOF
 done
 ```
 
+Don't worry that the command outputs this, these are just the defaults:
+
+```text
++-------------------------------------------------------------------+
+|            Detected Values from './fastlane/Matchfile'            |
++--------------+----------------------------------------------------+
+| git_url      | git@github.com:OWNER/REPO |
+| storage_mode | git                                                |
+| type         | development                                        |
++--------------+----------------------------------------------------+
+```
+
+The `--type` is still respected and it creates under `certs/distribution/...` and `profiles/appstore/...` in the repo.
+
 ### Configure Fastfile to use Match
 
 Add this to your `fastlane/Fastfile` dev lane:
