@@ -22,6 +22,9 @@ Open source mobile build automation tool for iOS and Android.
 - [Code Signing](#code-signing)
   - [Code Signing on Android](#code-signing-on-android)
 - [Match](#match)
+  - [Authenticating CI/CD to Matchfiles repo](#authenticating-cicd-to-matchfiles-repo)
+    - [HTTPS Authorization Token](#https-authorization-token)
+    - [Git SSH Deploy Key](#git-ssh-deploy-key)
   - [Easy SSL & MobileProfile Switching](#easy-ssl--mobileprofile-switching)
 - [Tests](#tests)
   - [Scan - Run Xcode Tests](#scan---run-xcode-tests)
@@ -368,7 +371,7 @@ Manages iOS code-signing credentials securely in a Git repo.
 Sync your SSL signing certificates and Mobile Provisioning Profiles across devs or CI/CD builds using a separate
 Git repo, AWS S3 / GCP GCS bucket.
 
-Initialize a skeleton `fastlane/Matchfile`:
+Initialize a skeleton `fastlane/Matchfile` - run this and answer the prompts:
 
 ```shell
 fastlane match init
@@ -391,11 +394,39 @@ git add fastlane/Matchfile &&
 git commit -m "added Matchfile" fastlane/Matchfile
 ```
 
+### Authenticating CI/CD to Matchfiles repo
+
+#### HTTPS Authorization Token
+
+For GitHub, generate one here:
+
+<https://github.com/settings/tokens>
+
+Then base64 encode it:
+
+```shell
+base64 <<< "$GITHUB_TOKEN"
+```
+
+and export it:
+
+```shell
+export MATCH_GIT_BASIC_AUTHORIZATION="<base64_encoded_access_token>"
+```
+
+#### Git SSH Deploy Key
+
 Set up your [CI/CD](cicd.md) credentials to use an
 [SSH Deploy Key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys)
 specifically created for Fastlane to access the Matchfiles git repo.
 
-You can put the path to the SSH key in the environment variable:
+```shell
+ssh-keygen -f ~/.ssh/fastlane-ssh-key
+```
+
+Copy `~/.ssh/fastlane-ssh-key.pub` to <https://github.com/OWNER/REPO/settings/keys>.
+
+You can put the path to the SSH key in the environment variable for Fastlane to automatically pick it up:
 
 ```shell
 export MATCH_GIT_PRIVATE_KEY="$HOME/.ssh/fastlane-ssh-key"
