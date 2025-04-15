@@ -17,9 +17,9 @@ Good replacement for [Maven](maven.md).
   - [Kotlin](#kotlin)
   - [Uber jar](#uber-jar)
   - [SonarQube Gradle Plugin](#sonarqube-gradle-plugin)
-    - [SonarQube Gradle Properties](#sonarqube-gradle-properties)
+    - [SonarQube](#sonarqube)
     - [SonarQube CLI Properties](#sonarqube-cli-properties)
-  - [VersionEye Gradle Plugin](#versioneye-gradle-plugin)
+  - [VersionEye](#versioneye)
 
 <!-- INDEX_END -->
 
@@ -218,7 +218,7 @@ SonarQube Gradle plugin - add to `build.gradle`.
 Unfortunately the gradle sonar plugin seems to not support
 [sonar-project.properties](https://github.com/HariSekhon/Templates/blob/master/sonar-project.properties)
 
-#### SonarQube Gradle Properties
+#### SonarQube
 
 Configure `~/.gradle/gradle.properties`:
 
@@ -239,7 +239,7 @@ gradle sonarqube -Dsonar.host.url=http:sonar.mycompany.com \
                  -Dsonar.verbose=true
 ```
 
-### VersionEye Gradle Plugin
+### VersionEye
 
 See [HariSekhon/lib-java](https://github.com/HariSekhon/lib-java):
 
