@@ -250,6 +250,14 @@ Get usage details on any step action:
 fastlane action "$action_name"
 ```
 
+Run an action the command line to test it without adding it to your Fastfile:
+
+```shell
+fastlane run notification message:"My Text" title:"The Title"
+```
+
+This causes a Desktop pop-up notification.
+
 ## Plugins
 
 <https://docs.fastlane.tools/plugins/available-plugins/>
