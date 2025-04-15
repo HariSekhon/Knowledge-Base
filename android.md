@@ -2,6 +2,9 @@
 
 <!-- INDEX_START -->
 
+- [Artifacts](#artifacts)
+  - [APK - Android Package Kit](#apk---android-package-kit)
+  - [AAB - Android Application Bundle](#aab---android-application-bundle)
 - [Install Android SDK](#install-android-sdk)
 - [Build](#build)
   - [Build with Gradle](#build-with-gradle)
@@ -16,6 +19,25 @@
   - [Fastlane Signing](#fastlane-signing)
 
 <!-- INDEX_END -->
+
+## Artifacts
+
+### APK - Android Package Kit
+
+`MyApp.apk`
+
+- device installable containing all resources
+- can be installed via Google Play or manually (sideloaded)
+- usually larger because they contain all possible resources for different devices, including images and code
+
+### AAB - Android Application Bundle
+
+`MyApp.aab`
+
+- contains all resources but Google Play Store uses it to generate optimized APKs for different devices
+- AABs are designed to result in smaller APKs, faster downloads and less space used on devices
+- can only be installed via Google Play Store
+- cannot be installed directly
 
 ## Install Android SDK
 
