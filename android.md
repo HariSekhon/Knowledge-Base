@@ -261,4 +261,5 @@ Fastlane seems to use apksigner under the hood, does not seem to verify with `ja
 
 Upload your APK here to distribute to users.
 
-See also [Fastlane](fastlane.md#android---upload-to-google-play-store-using-supply-action)
+See also [Fastlane](fastlane.md#android---upload-to-google-play-store-using-supply-action) doc section
+on uploading to Google Play Store.
