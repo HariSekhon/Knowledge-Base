@@ -15,6 +15,7 @@
 - [GitHub Badges](#github-badges)
 - [Basic Tips](#basic-tips)
 - [Advanced Tips & Tricks](#advanced-tips--tricks)
+  - [Delete Remote branch](#delete-remote-branch)
   - [Git Clone using a specific SSH Key](#git-clone-using-a-specific-ssh-key)
   - [Show files not being tracked due to global & local `.gitignore` files](#show-files-not-being-tracked-due-to-global--local-gitignore-files)
   - [Find line in `.gitignore` which is causing a given file to be ignored](#find-line-in-gitignore-which-is-causing-a-given-file-to-be-ignored)
@@ -228,6 +229,20 @@ pip install --user bitbucket-cli
     the longer you delay adding this
 
 ## Advanced Tips & Tricks
+
+### Delete Remote branch
+
+```shell
+git push -d origin "$branch"
+```
+
+Clean up your local branch too:
+
+```shell
+git branch -d "$branch"
+```
+
+Don't use the `-D` switch unless you're absolutely sure as you can lose code!
 
 ### Git Clone using a specific SSH Key
 
