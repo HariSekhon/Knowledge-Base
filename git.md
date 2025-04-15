@@ -370,7 +370,7 @@ git push upstream :refs/tags/tagname
 and then just do a regular safe push:
 
 ```shell
-git push
+git push --tags
 ```
 
 DO NOT DO THIS:
