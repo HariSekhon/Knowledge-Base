@@ -367,7 +367,7 @@ The simplest thing to do is to delete the git tag on the upstream origin repo:
 git push upstream :refs/tags/tagname
 ```
 
-and then just do a regular safe push:
+and then just do a regular safe push with `--tags`:
 
 ```shell
 git push --tags
