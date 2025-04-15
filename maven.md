@@ -46,6 +46,10 @@ You might want to use [Gradle](gradle.md) instead today.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
 
+```shell
+wget -nc https://raw.githubusercontent.com/HariSekhon/Templates/master/pom.xml
+```
+
 ## Real World Example `pom.xml` builds
 
 [HariSekhon/Nagios-Plugin-Kafka - pom.xml](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/pom.xml)
