@@ -480,6 +480,50 @@ Upload the built `.ipa` or `.apk` artifacts for [iOS](ios.md) or [Android](andro
 
 <https://docs.fastlane.tools/getting-started/android/release-deployment/>
 
+Create a Google Service Account:
+
+```shell
+gcloud iam service-accounts create fastlane-upload \
+    --description="Service account for Fastlane APK upload" \
+    --display-name="Fastlane Upload"
+```
+
+Create a json credential key:
+
+```shell
+gcloud iam service-accounts keys create \
+    ~/.gcloud/"fastlane-upload-key-$CLOUDSDK_CORE_PROJECT.json" \
+    --iam-account="fastlane-upload@$CLOUDSDK_CORE_PROJECT.iam.gserviceaccount.com"
+
+```
+
+```shell
+gcloud projects add-iam-policy-binding "$GOOGLE_PLAY_CLOUDSDK_CORE_PROJECT" \
+    --member="serviceAccount:fastlane-upload@$CLOUDSDK_CORE_PROJECT.iam.gserviceaccount.com" \
+    --role="roles/viewer"
+```
+
+**Go to [Google Play Store](https://play.google.com/console/developers) and assign `Release Manager` to the fastlane-upload service account.**
+
+Validate it has permissions:
+
+```shell
+fastlane run validate_play_store_json_key json_key:"$HOME/.gcloud/fastlane-upload-key-$CLOUDSDK_CORE_PROJECT.json"
+```
+
+Configure `fastlane/AppFile`:
+
+```text
+json_key_file("/path/to/your/fastlane-upload-key.json")
+package_name("com.harisekhon.app")
+```
+
+Configure `fastlane/Fastfile` to add this to your lane:
+
+```ruby
+upload_to_play_store()
+```
+
 See parameters for the `upload_to_play_store()` action:
 
 ```shell
