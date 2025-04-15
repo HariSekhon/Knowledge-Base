@@ -355,6 +355,18 @@ git tag fastlane-ios-1.0.0 "$squash_merged_hashref"
 
 Then you want to push ovewrite those tags on your upstream origin repo...
 
+The simplest thing to do is to delete the git tag on the upstream origin repo:
+
+```shell
+git push upstream :refs/tags/tagname
+```
+
+and then do a regular
+
+```shell
+git push
+```
+
 DO NOT DO THIS:
 
 ```shell
@@ -363,7 +375,7 @@ git push --force
 
 If someone else has pushed updates or merged a PR you will lose their changes.
 
-Instead push only over the existing tags you want to replace:
+If you really have to, push only over the existing tags you want to replace:
 
 ```shell
 git push --force origin tagname
