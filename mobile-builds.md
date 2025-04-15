@@ -13,10 +13,10 @@
 These are what you build to distribute mobile apps - they contain the compiled app binary, assets, and metadata required
 for the app to run.
 
-- iOS - `.ipa` stands for iOS App Archive
-  - packaged file format used for installing iOS applications on iPhones, iPads etc.
-- Android - `.apk` archive
-  - same as above but for Android-based devices
+- `.ipa` for iOS
+- `.apk` or `.aab` for Android
+
+See specific pages below for more details.
 
 ## iOS
 
