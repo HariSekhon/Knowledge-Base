@@ -476,7 +476,7 @@ Upload the built `.ipa` or `.apk` artifacts for [iOS](ios.md) or [Android](andro
 
 <https://docs.fastlane.tools/getting-started/ios/beta-deployment/>
 
-<https://docs.fastlane.tools/actions/pilot/>
+<https://docs.fastlane.tools/actions/upload_to_testflight/>
 
 #### Upload to App Store
 
