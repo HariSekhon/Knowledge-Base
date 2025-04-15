@@ -9,6 +9,7 @@ Good replacement for [Maven](maven.md).
 <!-- INDEX_START -->
 
 - [Key Points](#key-points)
+- [Gradle Templates](#gradle-templates)
 - [Plugins](#plugins)
 - [Uber jar](#uber-jar)
 - [SonarQube](#sonarqube)
@@ -39,6 +40,12 @@ or if changing versions, gradle only manages its current version, so:
 ```shell
 pkill -f org.gradle.launcher.daemon.bootstrap.GradleDaemon
 ```
+
+## Gradle Templates
+
+`build.gradle` and `gradle.properties` templates can be found here:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
 
 ## Plugins
 
@@ -229,7 +236,5 @@ kotlinOptions {
     jvmTarget = '21'
 }
 ```
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
 
 **Ported from private Knowledge Base page 2016+**
