@@ -24,8 +24,9 @@ Open source mobile build automation tool for iOS and Android.
 - [Match](#match)
   - [Authenticating CI/CD to Matchfiles repo](#authenticating-cicd-to-matchfiles-repo)
     - [HTTPS Authorization Token](#https-authorization-token)
-    - [Git SSH Deploy Key](#git-ssh-deploy-key)
-  - [Easy SSL & MobileProfile Switching](#easy-ssl--mobileprofile-switching)
+    - [SSH Authorization via Deploy Key](#ssh-authorization-via-deploy-key)
+  - [Upload SSL certificate and MobileProvision Profiles](#upload-ssl-certificate-and-mobileprovision-profiles)
+  - [Configure Fastfile to use Match](#configure-fastfile-to-use-match)
 - [Tests](#tests)
   - [Scan - Run Xcode Tests](#scan---run-xcode-tests)
   - [Android Tests using Gradle](#android-tests-using-gradle)
@@ -380,7 +381,7 @@ fastlane match init
 `fastlane/Matchfile` looks like this:
 
 ```ruby
-git_url("https://github.com/<owner>/<repo>")
+git_url("git@github.com:OWNER/REPO")
 
 storage_mode("git")
 
@@ -398,6 +399,12 @@ git commit -m "added Matchfile" fastlane/Matchfile
 
 #### HTTPS Authorization Token
 
+If you specified your repo like this you need to use an HTTPS token:
+
+```text
+https://github.com/OWNER/REPO
+```
+
 For GitHub, generate one here:
 
 <https://github.com/settings/tokens>
@@ -414,7 +421,7 @@ and export it:
 export MATCH_GIT_BASIC_AUTHORIZATION="<base64_encoded_access_token>"
 ```
 
-#### Git SSH Deploy Key
+#### SSH Authorization via Deploy Key
 
 Set up your [CI/CD](cicd.md) credentials to use an
 [SSH Deploy Key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys)
@@ -438,32 +445,77 @@ Alternatively create a machine account access token and put it in the environmen
 export MATCH_PASSWORD="ghp_a12b34cde5fabcdefabcd6efa78bcd9ef0ab"
 ```
 
-### Easy SSL & MobileProfile Switching
+### Upload SSL certificate and MobileProvision Profiles
 
-Edit `fastlane/Fastfile` to add a lane to quickly switch between them:
+Generate a secure password:
+
+```shell
+pwgen -s 20 1
+```
+
+export it for Match to pick it up:
+
+```shell
+export MATCH_PASSWORD="..."
+```
+
+Set which branch you want to populate for that environment:
+
+```shell
+export MATCH_BRANCH='dev'
+```
+
+Since I was only given the `.p12` private key without the `.cer` public cert, I regenerated it like this:
+
+```shell
+openssl pkcs12 -in "$NAME.p12" -clcerts -nokeys -out /dev/stdout -passin env:CERT_PASSWORD |
+sed -n '/-----BEGIN CERTIFICATE-----/,/-----END CERTIFICATE-----/p' > "$NAME.cer"
+```
+
+If you get this error:
+
+```text
+error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported
+```
+
+Add the `-legacy` switch.
+
+Upload the SSL cert and mobileprovision profile
+(only takes one mobileprovision profile at a time so you may have to run it multiple times) -
+it'll prompt you for your `.cer` and `.p12`:
+
+```shell
+fastlane match import \
+        --type development \
+        --profile "$HOME/Library/MobileDevice/Provisioning Profiles/$NAME.mobileprovision"
+```
+
+Upload prod cert with appstore type to differentiate it later (this seems fairly arbitrary):
+
+```shell
+export MATCH_BRANCH='prod'
+```
+
+```shell
+fastlane match import \
+        --type appstore \
+        --profile "$HOME/Library/MobileDevice/Provisioning Profiles/$NAME.mobileprovision"
+```
+
+### Configure Fastfile to use Match
+
+Add this to your `fastlane/Fastfile` dev lane:
 
 ```ruby
-desc "Match certificates"
-lane :match_certificates do
-  match(
-    type: "development",
-    app_identifier: app_identifier
-  )
-  match(
-    type: "appstore",
-    app_identifier: app_identifier
-  )
-end
+ENV['MATCH_BRANCH'] = 'dev'
+match(type: 'development')
 ```
 
-You can then switch between certificates and mobile profiles:
+Add this to your `fastlane/Fastfile` prod lane:
 
-```shell
-fastlane match development
-```
-
-```shell
-fastlane match appstore
+```ruby
+ENV['MATCH_BRANCH'] = 'prod'
+match(type: 'appstore')
 ```
 
 ## Tests
