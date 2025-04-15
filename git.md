@@ -353,6 +353,12 @@ git tag -d fastlane-ios-1.0.0
 git tag fastlane-ios-1.0.0 "$squash_merged_hashref"
 ```
 
+or in one step:
+
+```shell
+git tag --force fastlane-ios-1.0.0 "$squash_merged_hashref"
+```
+
 Then you want to push ovewrite those tags on your upstream origin repo...
 
 The simplest thing to do is to delete the git tag on the upstream origin repo:
