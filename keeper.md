@@ -18,6 +18,11 @@ SaaS Secrets Vault.
 
 <!-- INDEX_END -->
 
+One of the worst things about Keeeper is having records owned by a user and not being able to recover it if they leave.
+
+This might be a limitation of the Keeper organization where I was,
+but users have to spend time transferring all the records owned by them to a colleague before leaving.
+
 ## Keeper CLI
 
 [:octocat: Keeper-Security/Commander](https://github.com/Keeper-Security/Commander)
