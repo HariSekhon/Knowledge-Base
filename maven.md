@@ -11,15 +11,17 @@ package files.
 
 - [Real World Example `pom.xml` builds](#real-world-example-pomxml-builds)
 - [Best practice for release version incrementing](#best-practice-for-release-version-incrementing)
-- [Executable Jar](#executable-jar)
-- [Maven Shade](#maven-shade)
-- [Surefire](#surefire)
-- [Maven Wrapper](#maven-wrapper)
-- [Sonar Plugin](#sonar-plugin)
-- [VersionEye](#versioneye)
-- [Polyglot Maven](#polyglot-maven)
 - [Maven Coordinates](#maven-coordinates)
 - [Maven Repositories](#maven-repositories)
+- [Maven Wrapper](#maven-wrapper)
+- [Plugins](#plugins)
+  - [Kotlin](#kotlin)
+  - [Surefire](#surefire)
+  - [Executable Jars](#executable-jars)
+    - [Maven Jar Plugin](#maven-jar-plugin)
+    - [Maven Shade Plugin](#maven-shade-plugin)
+  - [SonarQube](#sonarqube)
+  - [VersionEye](#versioneye)
 - [Stop wasting time downloading newer Snapshots](#stop-wasting-time-downloading-newer-snapshots)
 - [Phases](#phases)
 - [Help](#help)
@@ -31,6 +33,7 @@ package files.
 - [Taken from HBase](#taken-from-hbase)
 - [Maven Eclipse support](#maven-eclipse-support)
 - [Pomchecker](#pomchecker)
+- [Polyglot Maven](#polyglot-maven)
 
 <!-- INDEX_END -->
 
@@ -53,151 +56,6 @@ mvn release:perform...
 ```
 
 Dependencies are downloaded to the local `~/.m2/repository` directory.
-
-Maven shaded jars (monolithic jars containing all dependencies)
-
-## Executable Jar
-
-```xml
-<plugin>
-  <groupid>org.apache.maven.plugins</groupid>
-  <artifactid>maven-jar-plugin</artifactid>
-  <version>2.4</version>
-  <configuration>
-    <archive>
-    <manifest>
-      <mainclass>com.harisekhon.linkedin.MyApp</mainclass>
-    </manifest>
-   </archive>
- </configuration>
-</plugin>
-```
-
-## Maven Shade
-
-Executable Jars:
-
-- ManifestResourceTransformer:
-- `<Main-Class>com.domain.class</Main-Class>`
-- can also put an integer `<key>value</key>` in the `.pom.xml` too
-
-XXX: see Relocating Classes page in Maven docs
-
-```xml
-<configuration>
-  <relocations>
-    <relocation>
-      <pattern>org.blah</pattern>
-      <shadedPattern>org.shaded.blah</shadedPattern>
-    </relocation>
-  </relocations>
-</configuration>
-```
-
-XXX: Fix Eclipse build path to support Maven local repository:
-
-Eclipse -> `Preferences`
--> `Java`
--> `Build Path`
--> `Classpath Variables`
--> `New`
--> `M2_REPO`
--> `/Users/hari/.m2/repository`
-
-## Surefire
-
-Calls unit tests.
-
-## Maven Wrapper
-
-[:octocat: takari/maven-wrapper](https://github.com/takari/maven-wrapper)
-
-- Generates `mvnw` / `mvn.bat` wrapper scripts (should be committed to git)
-- Downloads `.mvn/wrapper/maven-wrapper.jar`
-- wrapper scripts download version specified in `maven-wrapper.properties`
-  - (defaults to same version used to generate the wrapper)
-- downloads to `.m2/wrapper/dists/apache-maven-3.3.3-bin`
-
-Generate the `mvnw`, optionally set version explicitly:
-
-```shell
-mvn -N io.takari:maven:wrapper  # -Dmaven=3.3.3
-```
-
-```shell
-git add -f .mvn mvnw mvnw.cmd
-```
-
-```shell
-git ci -m "added maven wrapper"
-```
-
-Now just use the `./mvnw` command instead of `mvn`.
-
-It will then download use the same version of Maven as the original:
-
-```shell
-./mvnw clean package
-```
-
-## Sonar Plugin
-
-<http://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Maven>
-
-See `~/.m2/settings.xml` which contains `docker:1026` address of SonarQube
-
-```shell
-mvn sonar:sonar
-```
-
-## VersionEye
-
-[HariSekhon/lib-java - pom.xml](https://github.com/HariSekhon/lib-java/blob/master/pom.xml)
-
-```shell
-mvn versioneye:help
-```
-
-Check API connectivity:
-
-```shell
-mvn versioneye:ping
-```
-
-Show dependencies:
-
-```shell
-mvn versioneye:list
-```
-
-or `VERSIONEYE_API_KEY` environment variable - good for CI systems:
-
-```shell
-echo "api_key=xxxxxxxxxxx" >> ~/.m2/versioneye.properties
-```
-
-Put the projectId in the pom under plugin configuration, see
-[HariSekhon/lib-java - pom.xml](https://github.com/HariSekhon/lib-java/blob/master/pom.xml).
-
-Send the dependency updates to the VersionEye API:
-
-```shell
-mvnw versioneye:update
-```
-
-Check + send security package updates:
-
-```shell
-mvn versioneye:securityCheck
-```
-
-## Polyglot Maven
-
-[:octocat: takari/polyglot-maven](https://github.com/takari/polyglot-maven)
-
-- allows to write POM in languages other than XML
-- eg. Groovy, Scala, Ruby, Clojure, Atom, Yaml
-- can convert POMs between XML and the different formats
 
 ## Maven Coordinates
 
@@ -266,6 +124,151 @@ MAVEN_OPTS="-Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=8080 -Dhttps.proxyHost=p
 ```
 
 See also [Artifact Registries](artifact-registries.md).
+
+## Maven Wrapper
+
+[:octocat: takari/maven-wrapper](https://github.com/takari/maven-wrapper)
+
+- Generates `mvnw` / `mvn.bat` wrapper scripts (should be committed to git)
+- Downloads `.mvn/wrapper/maven-wrapper.jar`
+- wrapper scripts download version specified in `maven-wrapper.properties`
+  - (defaults to same version used to generate the wrapper)
+- downloads to `.m2/wrapper/dists/apache-maven-3.3.3-bin`
+
+Generate the `mvnw`, optionally set version explicitly:
+
+```shell
+mvn -N io.takari:maven:wrapper  # -Dmaven=3.3.3
+```
+
+```shell
+git add -f .mvn mvnw mvnw.cmd
+```
+
+```shell
+git ci -m "added maven wrapper"
+```
+
+Now just use the `./mvnw` command instead of `mvn`.
+
+It will then download use the same version of Maven as the original:
+
+```shell
+./mvnw clean package
+```
+
+## Plugins
+
+### Kotlin
+
+<https://kotlinlang.org/docs/maven.html>
+
+### Surefire
+
+Calls unit tests.
+
+### Executable Jars
+
+#### Maven Jar Plugin
+
+```xml
+<plugin>
+  <groupid>org.apache.maven.plugins</groupid>
+  <artifactid>maven-jar-plugin</artifactid>
+  <version>2.4</version>
+  <configuration>
+    <archive>
+    <manifest>
+      <mainclass>com.harisekhon.linkedin.MyApp</mainclass>
+    </manifest>
+   </archive>
+ </configuration>
+</plugin>
+```
+
+#### Maven Shade Plugin
+
+Maven shaded jars are monolithic jars containing all dependencies.
+
+Executable Jars:
+
+- ManifestResourceTransformer:
+- `<Main-Class>com.domain.class</Main-Class>`
+- can also put an integer `<key>value</key>` in the `.pom.xml` too
+
+XXX: see Relocating Classes page in Maven docs.
+
+```xml
+<configuration>
+  <relocations>
+    <relocation>
+      <pattern>org.blah</pattern>
+      <shadedPattern>org.shaded.blah</shadedPattern>
+    </relocation>
+  </relocations>
+</configuration>
+```
+
+XXX: Fix Eclipse build path to support Maven local repository:
+
+Eclipse -> `Preferences`
+-> `Java`
+-> `Build Path`
+-> `Classpath Variables`
+-> `New`
+-> `M2_REPO`
+-> `/Users/hari/.m2/repository`
+
+### SonarQube
+
+<http://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Maven>
+
+See `~/.m2/settings.xml` which contains `docker:1026` address of SonarQube
+
+```shell
+mvn sonar:sonar
+```
+
+### VersionEye
+
+[HariSekhon/lib-java - pom.xml](https://github.com/HariSekhon/lib-java/blob/master/pom.xml)
+
+```shell
+mvn versioneye:help
+```
+
+Check API connectivity:
+
+```shell
+mvn versioneye:ping
+```
+
+Show dependencies:
+
+```shell
+mvn versioneye:list
+```
+
+or `VERSIONEYE_API_KEY` environment variable - good for CI systems:
+
+```shell
+echo "api_key=xxxxxxxxxxx" >> ~/.m2/versioneye.properties
+```
+
+Put the projectId in the pom under plugin configuration, see
+[HariSekhon/lib-java - pom.xml](https://github.com/HariSekhon/lib-java/blob/master/pom.xml).
+
+Send the dependency updates to the VersionEye API:
+
+```shell
+mvnw versioneye:update
+```
+
+Check + send security package updates:
+
+```shell
+mvn versioneye:securityCheck
+```
 
 ## Stop wasting time downloading newer Snapshots
 
@@ -499,5 +502,13 @@ Validate `pom.xml` conforms to Maven Central requirements:
 ```shell
 pomchecker check-maven-central
 ```
+
+## Polyglot Maven
+
+[:octocat: takari/polyglot-maven](https://github.com/takari/polyglot-maven)
+
+- allows to write POM in languages other than XML
+- eg. Groovy, Scala, Ruby, Clojure, Atom, Yaml
+- can convert POMs between XML and the different formats
 
 **Ported from private Knowledge Base page 2013+**
