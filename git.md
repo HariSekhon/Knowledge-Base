@@ -23,6 +23,7 @@
   - [Amend Last Commit](#amend-last-commit)
   - [Get the Hashref of a Remote Repo's tag](#get-the-hashref-of-a-remote-repos-tag)
   - [Grep Remote Tags for Input Validation](#grep-remote-tags-for-input-validation)
+  - [Replace Upstream Tags without Dangerous Force Pushing the entire branch](#replace-upstream-tags-without-dangerous-force-pushing-the-entire-branch)
   - [Git Reflog](#git-reflog)
   - [Pull from Upstream Origin in a local Fork](#pull-from-upstream-origin-in-a-local-fork)
   - [Multi-Origin Remotes](#multi-origin-remotes)
@@ -338,6 +339,35 @@ that:
 
 1. `$TAG` is treated as a string not regex
 1. it matches the entire stdin line to avoid substring clashes eg. `TAG=1.2` should not match `1.2.3`
+
+### Replace Upstream Tags without Dangerous Force Pushing the entire branch
+
+If you've replaced your local tags and want to overwrite the upstream tags, eg.
+your tags in merged branch should now point to the squash merge commit instead of an older branch commit...
+
+```shell
+git tag -d fastlane-ios-1.0.0
+```
+
+```shell
+git tag fastlane-ios-1.0.0 "$squash_merged_hashref"
+```
+
+Then you want to push ovewrite those tags on your upstream origin repo...
+
+DO NOT DO THIS:
+
+```shell
+git push --force
+```
+
+If someone else has pushed updates or merged a PR you will lose their changes.
+
+Instead push only over the existing tags you want to replace:
+
+```shell
+git push --force origin tagname
+```
 
 ### Git Reflog
 
