@@ -193,6 +193,14 @@ apply plugin: 'application'
 mainClassName = 'com.linkedin.harisekhon.Main'
 ```
 
+### Kotlin
+
+<https://kotlinlang.org/docs/gradle.html>
+
+<https://kotlinlang.org/docs/gradle-best-practices.html#use-remote-build-cache>
+
+<https://kotlinlang.org/docs/gradle-compilation-and-caches.html>
+
 ### Uber jar
 
 - ShadowJar
