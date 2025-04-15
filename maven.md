@@ -11,6 +11,7 @@ You might want to use [Gradle](gradle.md) instead today.
 
 <!-- INDEX_START -->
 
+- [Template](#template)
 - [Real World Example `pom.xml` builds](#real-world-example-pomxml-builds)
 - [Best practice for release version incrementing](#best-practice-for-release-version-incrementing)
 - [Maven Coordinates](#maven-coordinates)
@@ -38,6 +39,12 @@ You might want to use [Gradle](gradle.md) instead today.
 - [Polyglot Maven](#polyglot-maven)
 
 <!-- INDEX_END -->
+
+## Template
+
+`pom.xml` template can be found here:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
 
 ## Real World Example `pom.xml` builds
 
