@@ -7,7 +7,8 @@ Simple Build Tool / Scala Build Tool
 <!-- INDEX_START -->
 
 - [Key Points](#key-points)
-- [Build File - `build.sbt`](#build-file---buildsbt)
+- [Template](#template)
+- [Build Configs](#build-configs)
 - [Usage](#usage)
   - [Create jar](#create-jar)
   - [Create self-contained 'uber jar' with all dependencies included using Assembly plugin](#create-self-contained-uber-jar-with-all-dependencies-included-using-assembly-plugin)
@@ -19,13 +20,16 @@ Simple Build Tool / Scala Build Tool
   - [Install jar to local Ivy repository](#install-jar-to-local-ivy-repository)
   - [Install jar to local Maven repository](#install-jar-to-local-maven-repository)
   - [Push jar to remote repo (if configured)](#push-jar-to-remote-repo-if-configured)
-  - [Pull down dependencies to `lib_managed/`](#pull-down-dependencies-to-libmanaged)
+  - [Pull down dependencies to `lib_managed/`](#pull-down-dependencies-to-lib_managed)
   - [Add task](#add-task)
 - [Eclipse](#eclipse)
   - [SBT <= 0.12](#sbt--012)
   - [SBT 0.13+](#sbt-013)
 - [IntelliJ](#intellij)
 - [Build.sbt](#buildsbt)
+  - [~/.sbt/.credentials](#sbtcredentials)
+  - [~/.sbt/0.13/plugins/credentials.sbt](#sbt013pluginscredentialssbt)
+  - [~/.sbt/repositories](#sbtrepositories)
 
 <!-- INDEX_END -->
 
@@ -41,21 +45,25 @@ Simple Build Tool / Scala Build Tool
 
 - first run will prompt to create a project, ask for name, organization, version, scala version etc to initialize project
 
-## Build File - `build.sbt`
+## Template
 
-The build configuration file of what dependencies to include.
+`build.sbt` template can be found here:
 
-### Build Configs
-
-[HariSekhon/Nagios-Plugin-Kafka - build.sbt](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/build.sbt)
-
-[HariSekhon/lib-java - build.sbt](https://github.com/HariSekhon/lib-java/blob/master/build.sbt)
-
-[HariSekhon/Templates - build.sbt](https://github.com/HariSekhon/Templates/blob/master/build.sbt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
 
 ```shell
 wget -nc https://raw.githubusercontent.com/HariSekhon/Templates/master/build.sbt
 ```
+
+## Build Configs
+
+`build.sbt` is build configuration file of what dependencies to include.
+
+Here are some real world ones:
+
+[HariSekhon/Nagios-Plugin-Kafka - build.sbt](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/build.sbt)
+
+[HariSekhon/lib-java - build.sbt](https://github.com/HariSekhon/lib-java/blob/master/build.sbt)
 
 ## Usage
 
