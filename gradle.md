@@ -9,7 +9,7 @@ Good replacement for [Maven](maven.md).
 <!-- INDEX_START -->
 
 - [Key Points](#key-points)
-- [Gradle Templates](#gradle-templates)
+- [Templates](#templates)
 - [Plugins](#plugins)
 - [Uber jar](#uber-jar)
 - [SonarQube](#sonarqube)
@@ -41,7 +41,7 @@ or if changing versions, gradle only manages its current version, so:
 pkill -f org.gradle.launcher.daemon.bootstrap.GradleDaemon
 ```
 
-## Gradle Templates
+## Templates
 
 `build.gradle` and `gradle.properties` templates can be found here:
 
