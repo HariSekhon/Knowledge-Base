@@ -2,10 +2,12 @@
 
 <https://maven.apache.org/>
 
-The standard Java build tool.
+The standard classic Java build tool.
 
 Uses an XML configuration file `pom.xml` at the root of the project directory and a `mvn` command to build `.jar`
 package files.
+
+You might want to use [Gradle](gradle.md) instead today.
 
 <!-- INDEX_START -->
 
