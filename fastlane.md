@@ -22,6 +22,7 @@ Open source mobile build automation tool for iOS and Android.
 - [Code Signing](#code-signing)
   - [Code Signing on Android](#code-signing-on-android)
 - [Match](#match)
+  - [Initialize Matchfile config](#initialize-matchfile-config)
   - [Authenticating CI/CD to Matchfiles repo](#authenticating-cicd-to-matchfiles-repo)
     - [HTTPS Authorization Token](#https-authorization-token)
     - [SSH Authorization via Deploy Key](#ssh-authorization-via-deploy-key)
@@ -376,6 +377,8 @@ Sync your SSL signing certificates and Mobile Provisioning Profiles across devs 
 Git repo, AWS S3 / GCP GCS bucket.
 
 **You need to have Apple Developer Portal credentials for Fastlane to verify the SSL certs when syncing them**
+
+### Initialize Matchfile config
 
 Initialize a skeleton `fastlane/Matchfile` - run this and answer the prompts:
 
