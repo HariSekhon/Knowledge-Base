@@ -30,7 +30,9 @@ Open source mobile build automation tool for iOS and Android.
   - [iOS Screenshots](#ios-screenshots)
   - [Android Screenshots](#android-screenshots)
 - [Upload Artifacts](#upload-artifacts)
-  - [iOS - Upload to Apple TestFlight](#ios---upload-to-apple-testflight)
+  - [iOS](#ios)
+    - [Upload to Apple TestFlight](#upload-to-apple-testflight)
+    - [Upload to App Store](#upload-to-app-store)
   - [Android - Upload to Google Play Store](#android---upload-to-google-play-store)
   - [Firebase App Distribution](#firebase-app-distribution)
 - [Notifications](#notifications)
@@ -468,9 +470,15 @@ Upload the built `.ipa` or `.apk` artifacts for [iOS](ios.md) or [Android](andro
 - Android: `fastlane supply` for Google Play Store
 - Firebase App Distribution - can store either iOS or Android artifacts
 
-### iOS - Upload to Apple TestFlight
+### iOS
+
+#### Upload to Apple TestFlight
 
 <https://docs.fastlane.tools/actions/pilot/>
+
+#### Upload to App Store
+
+<https://docs.fastlane.tools/actions/upload_to_app_store/>
 
 ### Android - Upload to Google Play Store
 
