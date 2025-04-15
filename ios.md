@@ -6,6 +6,8 @@ Uses `xcodebuild`:
 
 <!-- INDEX_START -->
 
+- [Artifacts](#artifacts)
+  - [IPA - iOS App Store Package](#ipa---ios-app-store-package)
 - [Dependencies - CocoaPods](#dependencies---cocoapods)
 - [Metadata](#metadata)
   - [Clean](#clean)
@@ -43,6 +45,14 @@ Uses `xcodebuild`:
   - [exportArchive: Rsync failed](#exportarchive-rsync-failed)
 
 <!-- INDEX_END -->
+
+## Artifacts
+
+### IPA - iOS App Store Package
+
+`MyApp.ipa`
+
+Packaged file format used for installing iOS applications on iPhones, iPads etc.
 
 ## Dependencies - CocoaPods
 
@@ -858,3 +868,23 @@ rm -rf build/ ~/Library/Developer/Xcode/DerivedData/*
 ```
 
 and then try again.
+
+If it's still breaking this could be caused by use of a toolchain like [iXGuard](ixguard.md)
+which creates the bitcode but not an export ready archive.
+
+In this case skip the export in [Fastlane](fastlane.md) and do it manually after:
+
+```shell
+ixguard --config ixguard.yaml -o build/"$NAME"-Guarded.xcarchive build/"$NAME".xcarchive
+```
+
+and then run the export archive:
+
+```shell
+xcodebuild -exportArchive \
+        -archivePath "build/"$NAME"-Guarded.xcarchive" \
+        -exportOptionsPlist "./ExportOptions/Production-ExportOptions.plist" \
+        -exportPath "."
+```
+
+See the equivalent code in [fastlane/Fastfile](https://github.com/HariSekhon/Templates/blob/master/fastlane/Fastfile).
