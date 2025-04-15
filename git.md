@@ -376,7 +376,7 @@ git push --tags
 DO NOT DO THIS:
 
 ```shell
-git push --force
+git push --force --tags
 ```
 
 If someone else has pushed updates or merged a PR you will lose their changes.
