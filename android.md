@@ -17,6 +17,7 @@
     - [Signing with jarsigner](#signing-with-jarsigner)
     - [Verify with jarsigner](#verify-with-jarsigner)
   - [Fastlane Signing](#fastlane-signing)
+- [Google Play Store](#google-play-store)
 
 <!-- INDEX_END -->
 
@@ -251,3 +252,11 @@ action in the `fastlane/Fastfile`:
 <!--
 Fastlane seems to use apksigner under the hood, does not seem to verify with `jarsigner`.
 -->
+
+## Google Play Store
+
+<https://play.google.com/console/developers>
+
+<https://docs.fastlane.tools/getting-started/android/setup/#setting-up-supply>
+
+Upload your APK here to distribute to users.
