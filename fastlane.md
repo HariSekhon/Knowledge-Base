@@ -391,6 +391,22 @@ git add fastlane/Matchfile &&
 git commit -m "added Matchfile" fastlane/Matchfile
 ```
 
+Set up your [CI/CD](cicd.md) credentials to use an
+[SSH Deploy Key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/managing-deploy-keys)
+specifically created for Fastlane to access the Matchfiles git repo.
+
+You can put the path to the SSH key in the environment variable:
+
+```shell
+export MATCH_GIT_PRIVATE_KEY="$HOME/.ssh/fastlane-ssh-key"
+```
+
+Alternatively create a machine account access token and put it in the environment variable:
+
+```shell
+export MATCH_PASSWORD="ghp_a12b34cde5fabcdefabcd6efa78bcd9ef0ab"
+```
+
 ### Easy SSL & MobileProfile Switching
 
 Edit `fastlane/Fastfile` to add a lane to quickly switch between them:
