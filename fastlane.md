@@ -33,7 +33,8 @@ Open source mobile build automation tool for iOS and Android.
   - [iOS](#ios)
     - [Upload to Apple TestFlight](#upload-to-apple-testflight)
     - [Upload to App Store](#upload-to-app-store)
-  - [Android - Upload to Google Play Store](#android---upload-to-google-play-store)
+  - [Android](#android)
+    - [Upload to Google Play Store](#upload-to-google-play-store)
   - [Firebase App Distribution](#firebase-app-distribution)
 - [Notifications](#notifications)
 - [Generating Lane Documentation](#generating-lane-documentation)
@@ -484,7 +485,9 @@ Upload the built `.ipa` or `.apk` artifacts for [iOS](ios.md) or [Android](andro
 
 <https://docs.fastlane.tools/actions/upload_to_app_store/>
 
-### Android - Upload to Google Play Store
+### Android
+
+#### Upload to Google Play Store
 
 <https://docs.fastlane.tools/getting-started/android/beta-deployment/>
 
