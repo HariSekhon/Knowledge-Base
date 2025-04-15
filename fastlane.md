@@ -474,7 +474,15 @@ Upload the built `.ipa` or `.apk` artifacts for [iOS](ios.md) or [Android](andro
 
 ### Android - Upload to Google Play Store using Supply action
 
-<https://docs.fastlane.tools/actions/supply/>
+<https://docs.fastlane.tools/getting-started/android/setup/#setting-up-supply>
+
+<https://docs.fastlane.tools/actions/upload_to_play_store/>
+
+<https://docs.fastlane.tools/getting-started/android/release-deployment/>
+
+```text
+fastlane action upload_to_play_store
+```
 
 ### Firebase App Distribution
 
