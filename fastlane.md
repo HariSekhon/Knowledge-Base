@@ -480,6 +480,8 @@ Upload the built `.ipa` or `.apk` artifacts for [iOS](ios.md) or [Android](andro
 
 #### Upload to App Store
 
+<https://docs.fastlane.tools/getting-started/ios/appstore-deployment/>
+
 <https://docs.fastlane.tools/actions/upload_to_app_store/>
 
 ### Android - Upload to Google Play Store
