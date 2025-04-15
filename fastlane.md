@@ -508,7 +508,8 @@ Add this to your `fastlane/Fastfile` dev lane:
 
 ```ruby
 ENV['MATCH_BRANCH'] = 'dev'
-match(type: 'development')
+#match(type: 'development')
+match  # it'll default to development type from Matchfile - it's the branch that's important here
 ```
 
 Add this to your `fastlane/Fastfile` prod lane:
