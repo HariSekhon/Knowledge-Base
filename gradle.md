@@ -12,7 +12,11 @@ Good replacement for [Maven](maven.md).
 - [Templates](#templates)
 - [Plugins](#plugins)
 - [Uber jar](#uber-jar)
-- [SonarQube](#sonarqube)
+- [SonarQube Gradle Plugin](#sonarqube-gradle-plugin)
+  - [SonarQube Configuration](#sonarqube-configuration)
+    - [Sonar Project Properties](#sonar-project-properties)
+    - [Sonar Gradle Properties](#sonar-gradle-properties)
+    - [Sonar CLI Properties](#sonar-cli-properties)
 - [VersionEye](#versioneye)
 - [Gradle Wrapper](#gradle-wrapper)
 - [build.gradle](#buildgradle)
@@ -79,11 +83,25 @@ mainClassName = 'com.linkedin.harisekhon.Main'
 - ShadowJar
 - Application plugin
 
-## SonarQube
+## SonarQube Gradle Plugin
 
 <http:docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Gradle>
 
-A build.gradle plugin.
+SonarQube Gradle plugin - add to `build.gradle`.
+
+### SonarQube Configuration
+
+In order of my personal preference:
+
+#### Sonar Project Properties
+
+Configure `sonar-project.properties` in the root of the git repo.
+
+See here for a good `sonar-project.properties` template:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
+
+#### Sonar Gradle Properties
 
 Configure `~/.gradle/gradle.properties`:
 
@@ -93,6 +111,10 @@ systemProp.sonar.host.url
 systemProp.sonar.login
 systemProp.sonar.password
 ```
+
+#### Sonar CLI Properties
+
+Passing SonarQube options on the command line:
 
 ```shell
 gradle sonarqube -Dsonar.host.url=http:sonar.mycompany.com \
