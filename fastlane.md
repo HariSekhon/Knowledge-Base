@@ -25,7 +25,10 @@ Open source mobile build automation tool for iOS and Android.
   - [Authenticating CI/CD to Matchfiles repo](#authenticating-cicd-to-matchfiles-repo)
     - [HTTPS Authorization Token](#https-authorization-token)
     - [SSH Authorization via Deploy Key](#ssh-authorization-via-deploy-key)
-  - [Upload SSL certificate and MobileProvision Profiles](#upload-ssl-certificate-and-mobileprovision-profiles)
+  - [Populate Matchfiles Repo](#populate-matchfiles-repo)
+    - [Generate Public Certificate from .p12](#generate-public-certificate-from-p12)
+    - [Upload SSL cert, p12 and mobileprovision profile to Git branch](#upload-ssl-cert-p12-and-mobileprovision-profile-to-git-branch)
+    - [Import All MobileProfiles](#import-all-mobileprofiles)
   - [Configure Fastfile to use Match](#configure-fastfile-to-use-match)
 - [Tests](#tests)
   - [Scan - Run Xcode Tests](#scan---run-xcode-tests)
@@ -445,7 +448,7 @@ Alternatively create a machine account access token and put it in the environmen
 export MATCH_PASSWORD="ghp_a12b34cde5fabcdefabcd6efa78bcd9ef0ab"
 ```
 
-### Upload SSL certificate and MobileProvision Profiles
+### Populate Matchfiles Repo
 
 Generate a secure password:
 
@@ -462,8 +465,10 @@ export MATCH_PASSWORD="..."
 Set which branch you want to populate for that environment:
 
 ```shell
-export MATCH_BRANCH='dev'
+export MATCH_GIT_BRANCH='dev'
 ```
+
+#### Generate Public Certificate from .p12
 
 Since I was only given the `.p12` private key without the `.cer` public cert, I regenerated it like this:
 
@@ -478,11 +483,20 @@ If you get this error:
 error:0308010C:digital envelope routines:inner_evp_generic_fetch:unsupported
 ```
 
-Add the `-legacy` switch.
+Add the `-legacy` switch to the `openssl` command.
 
-Upload the SSL cert and mobileprovision profile
-(only takes one mobileprovision profile at a time so you may have to run it multiple times) -
-it'll prompt you for your `.cer` and `.p12`:
+#### Upload SSL cert, p12 and mobileprovision profile to Git branch
+
+This command only takes one mobileprovision profile at a time so you may have to run it multiple times.
+
+This will upload to Git, you may want to override your email address if this is for work:
+
+```shell
+export GIT_AUTHOR_EMAIL=hari.sekhon@domain.com
+export GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
+```
+
+It'll prompt you for your `.cer`, then `.p12`, then `.mobileprovision` file:
 
 ```shell
 fastlane match import \
@@ -493,7 +507,7 @@ fastlane match import \
 Upload prod cert with appstore type to differentiate it later (this seems fairly arbitrary):
 
 ```shell
-export MATCH_BRANCH='prod'
+export MATCH_GIT_BRANCH='prod'
 ```
 
 ```shell
@@ -502,20 +516,74 @@ fastlane match import \
         --profile "$HOME/Library/MobileDevice/Provisioning Profiles/$NAME.mobileprovision"
 ```
 
+#### Import All MobileProfiles
+
+Since the devs dumped a bunch of `*.mobileprovision` profiles on me without a clear naming convention,
+I just imported all of them - this will prompt for the `.cer`, then `.p12`, then `.mobileprovision` profile on each
+iteration and I can't find non-interactive switches for these so I just used a here doc (EOF) to automate it to be
+non-interactive:
+
+```shell
+export MATCH_GIT_BRANCH='dev'
+```
+
+```shell
+NAME=My_Dev_Cert
+```
+
+```shell
+for mobileprovision_file in ~/Library/MobileDevice/Provisioning\ Profiles/*.mobileprovision; do
+    fastlane match import \
+        --type development \
+        --skip_certificate_matching <<-EOF || break
+$NAME.cer
+$NAME.p12
+$mobileprovision_file
+EOF
+done
+```
+
+```shell
+export MATCH_GIT_BRANCH='prod'
+```
+
+```shell
+NAME=My_Prod_Cert
+```
+
+```shell
+for mobileprovision_file in ~/Library/MobileDevice/Provisioning\ Profiles/*.mobileprovision; do
+    fastlane match import \
+        --type appstore \
+        --skip_certificate_matching <<-EOF || break
+$NAME.cer
+$NAME.p12
+$mobileprovision_file
+EOF
+done
+```
+
 ### Configure Fastfile to use Match
 
 Add this to your `fastlane/Fastfile` dev lane:
 
 ```ruby
-ENV['MATCH_BRANCH'] = 'dev'
+ENV['MATCH_GIT_BRANCH'] = 'dev'
 #match(type: 'development')
 match  # it'll default to development type from Matchfile - it's the branch that's important here
+```
+
+Add this to your `fastlane/Fastfile` staging lane:
+
+```ruby
+ENV['MATCH_GIT_BRANCH'] = 'staging'
+match
 ```
 
 Add this to your `fastlane/Fastfile` prod lane:
 
 ```ruby
-ENV['MATCH_BRANCH'] = 'prod'
+ENV['MATCH_GIT_BRANCH'] = 'prod'
 match(type: 'appstore')
 ```
 
