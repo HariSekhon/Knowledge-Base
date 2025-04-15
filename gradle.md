@@ -14,6 +14,7 @@ Good replacement for [Maven](maven.md).
 - [build.gradle](#buildgradle)
   - [Specifying Java version](#specifying-java-version)
 - [Plugins](#plugins)
+  - [Kotlin](#kotlin)
   - [Uber jar](#uber-jar)
   - [SonarQube Gradle Plugin](#sonarqube-gradle-plugin)
     - [SonarQube Gradle Properties](#sonarqube-gradle-properties)
