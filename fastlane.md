@@ -521,7 +521,7 @@ package_name("com.harisekhon.app")
 Configure `fastlane/Fastfile` to add this to your lane:
 
 ```ruby
-upload_to_play_store()
+upload_to_play_store(track: 'beta')
 ```
 
 See parameters for the `upload_to_play_store()` action:
