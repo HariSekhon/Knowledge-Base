@@ -43,6 +43,7 @@ use [Jenkins](jenkins.md) for self-hosted or more powerful / flexible / extensiv
   - [GitHub Actions CI/CD to auto-(re)generate diagrams from code changes (Python)](#github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes-python)
   - [GitHub Actions CI/CD to auto-(re)generate diagrams from code changes (D2lang)](#github-actions-cicd-to-auto-regenerate-diagrams-from-code-changes-d2lang)
 - [Troubleshooting](#troubleshooting)
+  - [Workflow hangs indefinitely - Waiting for a runner to pick up this job...](#workflow-hangs-indefinitely---waiting-for-a-runner-to-pick-up-this-job)
   - [Executable `/opt/hostedtoolcache/...` not found](#executable-opthostedtoolcache-not-found)
 
 <!-- INDEX_END -->
@@ -650,6 +651,34 @@ Open [Diagrams-as-Code README.md](https://github.com/HariSekhon/Diagrams-as-Code
 ![GitHub Actions CI/CD](https://github.com/HariSekhon/Diagrams-as-Code/raw/master/images/github_actions_cicd.svg)
 
 ## Troubleshooting
+
+### Workflow hangs indefinitely - Waiting for a runner to pick up this job...
+
+If your workflow hangs indefinitely on this message:
+
+```text
+Waiting for a runner to pick up this job...
+```
+
+It may be caused by specifying a runner image that doesn't exist, such as:
+
+```yaml
+runs-on: macos-14.1
+```
+
+but if you check here:
+
+<https://github.com/actions/runner-images#available-images>
+
+only integer macOS versions are available, change it to this to get it to be picked up and run:
+
+```yaml
+runs-on: macos-14
+```
+
+This is not intuitive, it should really tell you that there is no such runner version available instead of just hanging.
+
+Have raised this issue as product feedback [here](https://github.com/orgs/community/discussions/156776).
 
 ### Executable `/opt/hostedtoolcache/...` not found
 
