@@ -16,10 +16,8 @@ Good replacement for [Maven](maven.md).
 - [Plugins](#plugins)
   - [Uber jar](#uber-jar)
   - [SonarQube Gradle Plugin](#sonarqube-gradle-plugin)
-    - [SonarQube Configuration](#sonarqube-configuration)
-      - [Sonar Project Properties](#sonar-project-properties)
-      - [Sonar Gradle Properties](#sonar-gradle-properties)
-      - [Sonar CLI Properties](#sonar-cli-properties)
+    - [SonarQube Gradle Properties](#sonarqube-gradle-properties)
+    - [SonarQube CLI Properties](#sonarqube-cli-properties)
   - [VersionEye Gradle Plugin](#versioneye-gradle-plugin)
 
 <!-- INDEX_END -->
@@ -204,32 +202,25 @@ mainClassName = 'com.linkedin.harisekhon.Main'
 
 <http:docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Gradle>
 
+<https://docs.sonarsource.com/sonarqube-cloud/advanced-setup/ci-based-analysis/sonarscanner-for-gradle/>
+
 SonarQube Gradle plugin - add to `build.gradle`.
 
-#### SonarQube Configuration
+Unfortunately the gradle sonar plugin seems to not support
+[sonar-project.properties](https://github.com/HariSekhon/Templates/blob/master/sonar-project.properties)
 
-In order of my personal preference:
-
-##### Sonar Project Properties
-
-Configure `sonar-project.properties` in the root of the git repo.
-
-See here for a good `sonar-project.properties` template:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
-
-##### Sonar Gradle Properties
+#### SonarQube Gradle Properties
 
 Configure `~/.gradle/gradle.properties`:
 
 ```groovy
-systemProp.sonar.host.url
+systemProp.sonar.host.url=...
 # optionally
-systemProp.sonar.login
-systemProp.sonar.password
+systemProp.sonar.login=...
+systemProp.sonar.password=...
 ```
 
-##### Sonar CLI Properties
+#### SonarQube CLI Properties
 
 Passing SonarQube options on the command line:
 
