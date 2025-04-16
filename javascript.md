@@ -6,6 +6,7 @@ It's nothing to do with Java.
 
 - [NodeJS](#nodejs)
   - [NPM](#npm)
+  - [NVM - Node Version Manager](#nvm---node-version-manager)
   - [REPL](#repl)
 - [TypeScript](#typescript)
   - [Install TypeScript](#install-typescript)
@@ -73,6 +74,76 @@ Install all packages of the exact versions from ``packages-lock.json`:
 
 ```shell
 npm install
+```
+
+### NVM - Node Version Manager
+
+[:octocat: nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+
+```shell
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.2/install.sh | bash
+```
+
+Clones to `~/.nvm`.
+
+Reload shell to pick up the addition to `.bashrc`.
+
+Show current node version:
+
+```shell
+nvm ls
+```
+
+```text
+->       system
+iojs -> N/A (default)
+node -> stable (-> N/A) (default)
+unstable -> N/A (default)
+```
+
+List available versions:
+
+```shell
+nvm ls-remote
+```
+
+Install latest version of NodeJS:
+
+```shell
+nvm install node
+```
+
+Install specific version:
+
+```shell
+nvm install v23.11.0
+```
+
+```shell
+nvm use node
+```
+
+```shell
+node --version
+```
+
+```text
+v23.11.0
+```
+
+```shell
+nvm ls
+```
+
+```text
+->     v23.11.0
+         system
+default -> node (-> v23.11.0)
+iojs -> N/A (default)
+unstable -> N/A (default)
+node -> stable (-> v23.11.0) (default)
+stable -> 23.11 (-> v23.11.0) (default)
+...
 ```
 
 ### REPL
