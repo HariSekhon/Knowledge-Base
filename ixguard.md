@@ -42,15 +42,32 @@ sudo installer -pkg "iXGuard_4_12_4_stable_arm_64.pkg" -target /
 Unfortunately the documentation is not public but installed
 and loaded locally using a local python webapp when you install the iXguard.pkg.
 
-This is the path if you need to restart it (it does not have shebang):
+The installer runs this command in the foreground in a new terminal:
+
+```shell
+ixguard-docs
+```
+
+This is just a shell script `/Library/iXGuard/scripts/ixguard-docs` that calls:
+
+```shell
+#!/usr/bin/env sh
+SCRIPT_PATH=`readlink -f "${BASH_SOURCE:-$0}"`
+SCRIPT_DIR=`dirname $SCRIPT_PATH`
+xcrun python3 $SCRIPT_DIR/../python/server.py &> /dev/null
+```
+
+This is equivalent to this, because `server.py` does not have a shebang header line:
 
 ```shell
 python3 /Library/iXGuard/python/server.py
 ```
 
+Then you can open the docs at this link (should open automatically in default browser):
+
 <http://127.0.0.1:8998/index.html>
 
-(this is made using [MKDocs Material](mkdocs.md#material)).
+This self-hosted doc site is made using [MKDocs Material](mkdocs.md#material) theme.
 
 ## Usage
 
