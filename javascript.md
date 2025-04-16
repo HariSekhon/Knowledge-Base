@@ -12,6 +12,8 @@ It's nothing to do with Java.
   - [Convert TypeScript to JavaScript](#convert-typescript-to-javascript)
   - [TypeScript Config](#typescript-config)
   - [TypeScript REPL](#typescript-repl)
+    - [tsx](#tsx)
+    - [ts-node](#ts-node)
 - [Libraries](#libraries)
 - [Repos](#repos)
 - [Memes](#memes)
@@ -140,6 +142,26 @@ tsc --init
 
 ### TypeScript REPL
 
+#### tsx
+
+```shell
+npm install -g tsx
+```
+
+```shell
+tsx
+```
+
+```text
+Welcome to Node.js v23.7.0.
+Type ".help" for more information.
+> 1 + 1
+2
+>
+```
+
+#### ts-node
+
 ```shell
 npm install -g ts-node
 ```
@@ -161,6 +183,19 @@ npm ls -g ts-node typescript
 └─┬ ts-node@10.9.2
   └── typescript@5.8.3
 ```
+
+If you get an issue with REPL commands resulting in `...` line continuation instead of returning the result.
+
+```text
+ts-node
+> 1 + 1
+...
+... ;
+... ;
+...
+```
+
+Use `tsx` instead.
 
 ## Libraries
 
