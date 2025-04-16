@@ -39,8 +39,10 @@ sudo installer -pkg "iXGuard_4_12_4_stable_arm_64.pkg" -target /
 
 ## Documentation
 
+<http://127.0.0.1:8998/index.html>
+
 Unfortunately the documentation is not public but installed
-and loaded locally using a local python webapp when you install the iXguard.pkg.
+and loaded locally using a local python webapp when you install the iXguard pkg.
 
 The installer runs this command in the foreground in a new terminal:
 
