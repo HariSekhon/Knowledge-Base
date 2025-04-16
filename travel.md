@@ -1481,6 +1481,7 @@ It has plenty of restaurants as well as the [Petaling Street Market](https://map
   Both are around £3 plus you can get an extra portion of free noodles with it.
   The hau gau prawn chinese dim sum dumplings were good and cheap at only £1.50.
   They sold out on my second visit so I tried the traditional siew mai dumplings but wasn't as keen on them.
+  The 12 fried dumplings for $3 are good and with a nice slightly spicey dip, well worth it.
   Orange and Apple juices are good, coming in large glass mugs for £1 (remember to ask for it with no added sugar).
   Service was slow though, but that's because you're supposed to order online.
   Food delivery was fast once ordered online though.
