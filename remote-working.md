@@ -21,6 +21,10 @@
 - [TopTal](https://www.toptal.com/) - preferred over UpWork, no time tracker, better rates
 - [UpWork](https://www.upwork.com/)
 
+## Remote Jobs
+
+- [EuroTopTechJobs](https://www.eurotoptechjobs.com/)
+
 ## Digital Nomad
 
 A person who works 100% Remote from any location they like,
