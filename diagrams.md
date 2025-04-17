@@ -14,7 +14,12 @@ The cutting edge is Diagrams-as-Code.
 - [Templates](#templates)
 - [Diagrams-as-Code Languages](#diagrams-as-code-languages)
 - [GUI / Online Diagrams tools](#gui--online-diagrams-tools)
-- [Important Icon Sets](#important-icon-sets)
+- [Icons](#icons)
+  - [D2lang Icons](#d2lang-icons)
+  - [Python Diagrams Icons](#python-diagrams-icons)
+  - [Kubernetes & CNCF Icons](#kubernetes--cncf-icons)
+  - [Cloud Provider Icons](#cloud-provider-icons)
+  - [Other Icon Sets](#other-icon-sets)
 - [Interactive Playground Editors](#interactive-playground-editors)
 - [GraphViz](#graphviz)
 - [Hex Colour Codes](#hex-colour-codes)
@@ -110,15 +115,15 @@ For more control and complex architecture diagrams.
 - [Cloudairy](https://chart.cloudairy.com/cloudchart) - new, buggy UI when I tried it
 - [Swimm](https://docs.swimm.io/) - AI to generate diagrams from code and documentation sources
 
-## Important Icon Sets
+## Icons
 
-Especially to import into D2, but also to supplement other languages and libraries as necessary.
+### D2lang Icons
+
+- [D2 Icons](https://icons.terrastruct.com/) - limited set, borrow some from Python Diagrams below
+
+### Python Diagrams Icons
 
 Python Diagrams has the best in-built library, some highlights are below, but check their adjacent categories too:
-
-- [D2 Icons](https://icons.terrastruct.com/)
-
-<!-- -->
 
 - [Python Diagrams On-Premise](https://diagrams.mingrammer.com/docs/nodes/onprem) - open source, databases, big data analytics, CI/CD etc.
 - [Python Diagrams AWS](https://diagrams.mingrammer.com/docs/nodes/aws)
@@ -132,7 +137,7 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
   - IdP eg. Okta, Auth0
   - Monitoring & Alerting eg. Datadog, Newrelic, Pagerduty
 
-<!-- -->
+### Kubernetes & CNCF Icons
 
 - [Official Kubernetes Icons](https://github.com/kubernetes/community/tree/master/icons)
 
@@ -142,9 +147,7 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 
 <!-- -->
 
-- [SimpleIcons](https://simpleicons.org/)
-
-<!-- -->
+### Cloud Provider Icons
 
 - [Official AWS Icons](https://aws.amazon.com/architecture/icons/)
 
@@ -155,6 +158,13 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 <!-- -->
 
 - [Official Azure Icons](https://learn.microsoft.com/en-us/azure/architecture/icons/)
+
+### Other Icon Sets
+
+- [SimpleIcons](https://simpleicons.org/) - famous for use with [Shield.io](markdown.md#shieldsio) for badging GitHub repos
+
+<!-- -->
+
 - [Benco Azure Icons](https://code.benco.io/icon-collection/azure-icons/)
 - [Icon8 Azure Icons](https://icons8.com/icons/set/azure)
 
@@ -165,7 +175,8 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 <!-- -->
 
 - [World Vector Logo](https://worldvectorlogo.com/) - these silently fail to import into D2 resulting in diagrams with
-  missing icon placeholders (https://github.com/terrastruct/d2/issues/2367)
+  missing icon placeholders
+  ([terrastruct/d2 issue 2367](https://github.com/terrastruct/d2/issues/2367))
 
 <!-- -->
 
