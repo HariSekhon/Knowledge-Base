@@ -1514,8 +1514,8 @@ It has plenty of restaurants as well as the [Petaling Street Market](https://map
 The Jalan Sultan road on the east side of the Petaling Market is better for late night eating,
 and particularly the south part of that road.
 
-The [Jalan Petaling] road on the south of the Petaling market has a few bars, but nothing as busy as
-[Changkat](https://maps.app.goo.gl/KZMNXSDVS3gmTDHb9) in Bukit Bintang.
+The [Jalan Petaling](https://maps.app.goo.gl/CW7rrVZk1uHDDmY66) road on the south of the Petaling market has a few bars,
+but nothing as busy as [Changkat](https://maps.app.goo.gl/KZMNXSDVS3gmTDHb9) in Bukit Bintang.
 
 - [Petaling Street Market](https://maps.app.goo.gl/4Hs2cKZrZZC31htt8) - stalls of clothes, handbags and electronics in
   Chinatown surrounded by small Chinese restaurants. Haggle and ye shall receive
