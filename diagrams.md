@@ -20,6 +20,7 @@ The cutting edge is Diagrams-as-Code.
   - [Kubernetes & CNCF Icons](#kubernetes--cncf-icons)
   - [Cloud Provider Icons](#cloud-provider-icons)
   - [Other Icon Sets](#other-icon-sets)
+  - [Icon Tips](#icon-tips)
 - [Interactive Playground Editors](#interactive-playground-editors)
 - [GraphViz](#graphviz)
 - [Hex Colour Codes](#hex-colour-codes)
@@ -206,12 +207,13 @@ Python Diagrams has the best in-built library, some highlights are below, but ch
 
 - [IconDuck](https://iconduck.com/) - doesn't give direct download links you can use in Diagrams-as-Code
 
-<!-- -->
+### Icon Tips
 
 If all else fails, there is always [Google Image Search](https://images.google.com/).
 
-Pro tip: for some of these sites that use funny tricks to stop you having direct download links,
-if you Google Image search and just right-click and Open Image in New Tab, you'll get a direct asset link to a CDN or
+Some sites use funny tricks to stop you having direct download links.
+
+If you Google Image search and just right-click and Open Image in New Tab, you'll get a direct asset link to a CDN or
 similar you can use.
 
 However, CDN asset links tend to disappear after some months / years when websites get updated, so you should download and
