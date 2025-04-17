@@ -1511,6 +1511,12 @@ the opposite of Bangkok.
 It has plenty of restaurants as well as the [Petaling Street Market](https://maps.app.goo.gl/Gh1LkbUYu4uD8mie9) and the
 [Central Market](https://maps.app.goo.gl/qcQPb5B6QC8sQbju9).
 
+The Jalan Sultan road on the east side of the Petaling Market is better for late night eating,
+and particularly the south part of that road.
+
+The [Jalan Petaling] road on the south of the Petaling market has a few bars, but nothing as busy as
+[Changkat](https://maps.app.goo.gl/KZMNXSDVS3gmTDHb9) in Bukit Bintang.
+
 - [UpperDeck KL](https://maps.app.goo.gl/k4VqFiUPe6ezZFhG8) - good menu, try to get there for lunch when the prices of
   the same dishes are 2/3rd on the lunch menu
 - [Taste of Medan](https://maps.app.goo.gl/dc5ZexF2Ve6iHye48) - Indonesian at Central Market Annexe, decent food and
@@ -1519,6 +1525,8 @@ It has plenty of restaurants as well as the [Petaling Street Market](https://map
 - [The Lankan](https://maps.app.goo.gl/2GdLE1WS3Wh9xzJ9A) - Sri Lankan, reasonably priced, fast wifi 21/11 using the
   2.4Ghz on phone, 300/180 using the 5Ghz network on laptop.
   The chicken curry with biryani rice was good in both taste and portion size
+- [Mee Tarik Restoran](https://maps.app.goo.gl/FbHCnG5ra48RjAbk7) - same chain as in Bukit Bintang, affordable, decent
+  food
 - [Petaling Street Market](https://maps.app.goo.gl/4Hs2cKZrZZC31htt8) - stalls of clothes, handbags and electronics in
   Chinatown surrounded by small Chinese restaurants. Haggle and ye shall receive
 - [Central Market](https://maps.app.goo.gl/iqMaQ7appKxnSLdJ7) - indoor boutiques, arts and crafts, a small food court,
