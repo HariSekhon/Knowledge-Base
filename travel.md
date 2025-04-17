@@ -1517,6 +1517,10 @@ and particularly the south part of that road.
 The [Jalan Petaling] road on the south of the Petaling market has a few bars, but nothing as busy as
 [Changkat](https://maps.app.goo.gl/KZMNXSDVS3gmTDHb9) in Bukit Bintang.
 
+- [Petaling Street Market](https://maps.app.goo.gl/4Hs2cKZrZZC31htt8) - stalls of clothes, handbags and electronics in
+  Chinatown surrounded by small Chinese restaurants. Haggle and ye shall receive
+- [Central Market](https://maps.app.goo.gl/iqMaQ7appKxnSLdJ7) - indoor boutiques, arts and crafts, a small food court,
+  worth a browse, with street food and jewellery stalls along the west outside
 - [UpperDeck KL](https://maps.app.goo.gl/k4VqFiUPe6ezZFhG8) - good menu, try to get there for lunch when the prices of
   the same dishes are 2/3rd on the lunch menu
 - [Taste of Medan](https://maps.app.goo.gl/dc5ZexF2Ve6iHye48) - Indonesian at Central Market Annexe, decent food and
@@ -1527,10 +1531,6 @@ The [Jalan Petaling] road on the south of the Petaling market has a few bars, bu
   The chicken curry with biryani rice was good in both taste and portion size
 - [Mee Tarik Restoran](https://maps.app.goo.gl/FbHCnG5ra48RjAbk7) - same chain as in Bukit Bintang, affordable, decent
   food
-- [Petaling Street Market](https://maps.app.goo.gl/4Hs2cKZrZZC31htt8) - stalls of clothes, handbags and electronics in
-  Chinatown surrounded by small Chinese restaurants. Haggle and ye shall receive
-- [Central Market](https://maps.app.goo.gl/iqMaQ7appKxnSLdJ7) - indoor boutiques, arts and crafts, a small food court,
-  worth a browse, with street food and jewellery stalls along the west outside
 
 ### Morocco
 
