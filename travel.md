@@ -1517,7 +1517,8 @@ It has plenty of restaurants as well as the [Petaling Street Market](https://map
   prices - the beef rendang platter was good and filling for ~£4, and the honey lemon drink is good for those with a
   slightly tweet tooth. Unfotunately the passionfruit sour plum drink was sold out. Next time
 - [The Lankan](https://maps.app.goo.gl/2GdLE1WS3Wh9xzJ9A) - Sri Lankan, reasonably priced, fast wifi 21/11 using the
-  2.4Ghz on phone, 300/180 using the 5Ghz network on laptop
+  2.4Ghz on phone, 300/180 using the 5Ghz network on laptop.
+  The chicken curry with biryani rice was good in both taste and portion size
 - [Petaling Street Market](https://maps.app.goo.gl/4Hs2cKZrZZC31htt8) - stalls of clothes, handbags and electronics in
   Chinatown surrounded by small Chinese restaurants. Haggle and ye shall receive
 - [Central Market](https://maps.app.goo.gl/iqMaQ7appKxnSLdJ7) - indoor boutiques, arts and crafts, a small food court,
