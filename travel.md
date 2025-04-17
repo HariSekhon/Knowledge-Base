@@ -1469,6 +1469,7 @@ and affordable hotels.
 
 - [Jalan Alor Food Street](https://maps.app.goo.gl/rqoK5MNxcRCR2oh8A) - night market full of food stalls and
   restaurants. Some of the restaurants can be a bit of a tourist trap though
+- [Pavilion](https://maps.app.goo.gl/xLQ4FKexh3jNDv1D7) - fancy luxury brands mall with eateries around it
 - [Damascus](https://maps.app.goo.gl/AQpz9GEUePHgQMoL8) - very popular, good food, good prices, lots of seating on
   multiple floors, open late.
   Fattoush salad was good and cheaper than surrounding restaurants.
@@ -1502,7 +1503,6 @@ and affordable hotels.
   cheese & ham croissant with scrambled eggs. 22/8Mbit wifi
 - [Kafe Dolce](https://maps.app.goo.gl/jkjp614kAKS32Mjs6) - coffee shop with toasties outside the Lalaport mall near the
   link bridge. Fast 37/27Mbit wifi
-- [Pavilion](https://maps.app.goo.gl/xLQ4FKexh3jNDv1D7) - fancy luxury brands mall with eateries around it
 
 ##### Chinatown
 
