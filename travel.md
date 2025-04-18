@@ -1529,8 +1529,8 @@ but nothing as busy as [Changkat](https://maps.app.goo.gl/KZMNXSDVS3gmTDHb9) in 
 - [The Lankan](https://maps.app.goo.gl/2GdLE1WS3Wh9xzJ9A) - Sri Lankan, reasonably priced, fast wifi 21/11 using the
   2.4Ghz on phone, 300/180 using the 5Ghz network on laptop.
   The chicken curry with biryani rice was good in both taste and portion size
-- [Mee Tarik Restoran](https://maps.app.goo.gl/FbHCnG5ra48RjAbk7) - same chain as in Bukit Bintang above, affordable, decent
-  food
+- [Mee Tarik Restoran](https://maps.app.goo.gl/FbHCnG5ra48RjAbk7) - same chain as in Bukit Bintang above, affordable,
+  decent food. My midnight dumplings snack place
 - [Nam Heong Chicken Rice](https://maps.app.goo.gl/4z8KxHqZJEd5RutW8) - forget the Google star rating, this place is
   full of asians eating here for a reason. Good food, reasonable prices.
   The mutton curry noodles are very good, I just wish the portion size was bigger.
