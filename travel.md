@@ -1531,6 +1531,11 @@ but nothing as busy as [Changkat](https://maps.app.goo.gl/KZMNXSDVS3gmTDHb9) in 
   The chicken curry with biryani rice was good in both taste and portion size
 - [Mee Tarik Restoran](https://maps.app.goo.gl/FbHCnG5ra48RjAbk7) - same chain as in Bukit Bintang above, affordable, decent
   food
+- [Nam Heong Chicken Rice](https://maps.app.goo.gl/4z8KxHqZJEd5RutW8) - forget the Google star rating, this place is
+  full of asians eating here for a reason. Good food, reasonable prices.
+  The mutton curry noodles are very good, I just wish the portion size was bigger.
+  The noodles are made in house, and the curry sauce was very good too, although mutton is a bit fatty.
+  You can get beef rendang noodles, or with rice. The chicken BBQ buns are very good, fluffy and sweet too
 
 ### Morocco
 
