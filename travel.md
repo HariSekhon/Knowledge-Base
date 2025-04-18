@@ -1488,7 +1488,7 @@ and affordable hotels.
   Service was slow though, but that's because you're supposed to order online.
   Food delivery was fast once ordered online though.
   The only negative was the wifi was extremely slow at 1Mbit download and 0.16Mbit upload it didn't work properly.
-  Good foodie place though
+  Good foodie place though. My midnight dumplings snack place
 - [Arab Hadramot](https://maps.app.goo.gl/LHzcnyuYvE99of186) - good fattoush, the chicken cubes wrap is a bit small, but
   the few fries with it were very crispy and fluffy.
   The grape leaves starter in lemon juice is good too.
