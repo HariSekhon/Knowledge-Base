@@ -148,13 +148,25 @@ sudo apt install ffmpeg -y
 
 #### OpenAI Whisper Run
 
-Run whisper, using the `--turbo` module (will take a while to download the model the first time):
+Run whisper, using the `--turbo` model (will take a while to download the model the first time):
 
 ```shell
 whisper "$file" --turbo
 ```
 
 Outputs the text transcript from the video or audio file.
+
+List of [Available Models](https://github.com/openai/whisper#available-models-and-languages)
+
+Can also be called from Python:
+
+```python
+import whisper
+
+model = whisper.load_model("turbo")
+result = model.transcribe("audio.mp3")
+print(result["text"])
+```
 
 ## Grammar
 
