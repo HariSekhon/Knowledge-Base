@@ -1,6 +1,6 @@
 # AI - Artificial Intelligence
 
-Mostly _"Narrow AI"_ - specialized for specific tasks only.
+These are _"Narrow AI"_ - specialized for specific tasks only.
 
 AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do - is not real yet.
 
