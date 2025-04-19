@@ -18,6 +18,10 @@ General AI mirroring what humans have is not real yet.
   - [LLM](#llm)
     - [Ollama](#ollama)
 - [Text to Speech](#text-to-speech)
+- [Speech to Text](#speech-to-text)
+  - [OpenAI Whisper](#openai-whisper)
+    - [OpenAI Whisper Install](#openai-whisper-install)
+    - [OpenAI Whisper Run](#openai-whisper-run)
 - [Grammar](#grammar)
 - [Visual](#visual)
   - [Image](#image)
@@ -97,6 +101,38 @@ Why does the performance degrade after one query?
 ## Text to Speech
 
 - [ElevenLabs](https://elevenlabs.io)
+
+## Speech to Text
+
+### OpenAI Whisper
+
+[:octocat: openai/whisper](https://github.com/openai/whisper)
+
+#### OpenAI Whisper Install
+
+Installs locally, downloads a model and runs on a local video or audio file.
+
+Install on Mac:
+
+```shell
+brew install openai-whisper
+```
+
+or generic Python install
+
+```shell
+pip install openai-whisper
+```
+
+#### OpenAI Whisper Run
+
+Run whisper, using the `--turbo` module (will take a while to download the model the first time):
+
+```shell
+whisper "$file" --turbo
+```
+
+Outputs the text transcript from the video or audio file.
 
 ## Grammar
 
