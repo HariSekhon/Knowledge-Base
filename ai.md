@@ -22,7 +22,8 @@ General AI mirroring what humans have is not real yet.
   - [Otter.ai](#otterai)
   - [OpenAI Whisper](#openai-whisper)
     - [OpenAI Whisper Install](#openai-whisper-install)
-    - [OpenAI Whisper Run](#openai-whisper-run)
+    - [OpenAI Whisper Run CLI](#openai-whisper-run-cli)
+    - [OpenAI Whisper Run from Python](#openai-whisper-run-from-python)
 - [Grammar](#grammar)
 - [Visual](#visual)
   - [Image](#image)
@@ -146,7 +147,7 @@ sudo apt update &&
 sudo apt install ffmpeg -y
 ```
 
-#### OpenAI Whisper Run
+#### OpenAI Whisper Run CLI
 
 Run whisper, using the `--turbo` model (will take a while to download the model the first time):
 
@@ -158,7 +159,7 @@ Outputs the text transcript from the video or audio file.
 
 List of [Available Models](https://github.com/openai/whisper#available-models-and-languages)
 
-Can also be called from Python:
+#### OpenAI Whisper Run from Python
 
 ```python
 import whisper
