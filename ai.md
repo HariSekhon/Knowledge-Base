@@ -149,6 +149,8 @@ sudo apt install ffmpeg -y
 
 #### OpenAI Whisper Run CLI
 
+List of [Available Models](https://github.com/openai/whisper#available-models-and-languages).
+
 Run whisper, using the `--turbo` model (will take a while to download the model the first time):
 
 ```shell
@@ -157,8 +159,6 @@ whisper "$file" --turbo
 
 Outputs the text transcript from the video or audio file to stdout,
 as well as creating `.txt`, `.srt`, `.json`, `.tsv` and `.vtt` formatted transcripts for further processing.
-
-List of [Available Models](https://github.com/openai/whisper#available-models-and-languages)
 
 #### OpenAI Whisper Run from Python
 
