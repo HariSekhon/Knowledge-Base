@@ -1,8 +1,8 @@
 # AI - Artificial Intelligence
 
-Mostly narrow AI.
+Mostly _"Narrow AI"_ - specialized for specific tasks.
 
-General AI - mirroring everything humans can do - is not real yet.
+_"General AI"_ - mirroring everything humans can do - is not real yet.
 
 <!-- INDEX_START -->
 
