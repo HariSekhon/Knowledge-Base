@@ -124,6 +124,22 @@ or generic Python install
 pip install openai-whisper
 ```
 
+Also requires `ffmpeg` to be installed.
+
+On Mac:
+
+```shell
+brew install ffmpeg
+```
+
+
+On Debian / Ubuntu Linux:
+
+```shell
+sudo apt update &&
+sudo apt install ffmpeg -y
+```
+
 #### OpenAI Whisper Run
 
 Run whisper, using the `--turbo` module (will take a while to download the model the first time):
