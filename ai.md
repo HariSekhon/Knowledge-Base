@@ -19,6 +19,7 @@ General AI mirroring what humans have is not real yet.
     - [Ollama](#ollama)
 - [Text to Speech](#text-to-speech)
 - [Speech to Text](#speech-to-text)
+  - [Otter.ai](#otterai)
   - [OpenAI Whisper](#openai-whisper)
     - [OpenAI Whisper Install](#openai-whisper-install)
     - [OpenAI Whisper Run](#openai-whisper-run)
@@ -104,6 +105,12 @@ Why does the performance degrade after one query?
 
 ## Speech to Text
 
+### Otter.ai
+
+<https://otter.ai/>
+
+Proprietary subscription, not bothering with it, used OpenAI Whisper below for free instead.
+
 ### OpenAI Whisper
 
 [:octocat: openai/whisper](https://github.com/openai/whisper)
@@ -132,8 +139,7 @@ On Mac:
 brew install ffmpeg
 ```
 
-
-On Debian / Ubuntu Linux:
+or on Debian / Ubuntu Linux:
 
 ```shell
 sudo apt update &&
