@@ -2,7 +2,7 @@
 
 Mostly narrow AI.
 
-General AI mirroring what humans have is not real yet.
+General AI - mirroring everything humans can do - is not real yet.
 
 <!-- INDEX_START -->
 
