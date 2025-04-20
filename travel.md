@@ -137,6 +137,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Driving in Serbia](#driving-in-serbia)
     - [Belgrade](#belgrade)
     - [Novi Sad](#novi-sad)
+  - [Singapore](#singapore)
   - [Slovakia](#slovakia)
     - [Kosice](#kosice)
   - [South Africa](#south-africa)
