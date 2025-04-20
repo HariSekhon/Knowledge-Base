@@ -198,10 +198,14 @@ but once in a while it'll screw you with a much higher price than the others.
 
 [Agoda.com](https://www.agoda.com/) - the best site for use in Asia, and you really need to go to Asia, it's amazing.
 
+[Kayak.com](https://www.kayak.com/) - usually cheaper than SkyScanner and had cheaper flights not found on Expedia
+- I prefer Kayak to SkyScanner because I can filter for flights including luggage in the price
+  and when following through to [Trip.com](https://trip.com/) flights I can upgrade to 25kg luggage for ~£3, which is
+  important because I got charged $30 for having 22kg checked luggage - 2kg over the 20kg default luggage allowance many
+  of these airlines allow
+
 [SkyScanner.net](https://www.skyscanner.net/) - had cheaper flights that weren't even found on Expedia,
 and cheaper on the same flights too
-
-[Kayak.com](https://www.kayak.com/) - even cheaper than SkyScanner and had cheaper flights not found on Expedia
 
 [Booking.com](https://www.booking.com) - cheaper and more hotels than Expedia
 
