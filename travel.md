@@ -1902,16 +1902,18 @@ Keep your visit short - 2-3 days should be enough to see the centre.
 It's hard for me to give many recommendations here as I didn't stay long and wasn't impressed with the food
 (my friend who lived in Singapore did say the food wasn't great).
 
+- [Din Tai Fung](https://maps.app.goo.gl/6qjPc9t86kmGZRF78) - Taiwanese chain with a good array of noodle soups and
+  dumplings (both savory and sweet, and mochi)
 - [Poulet + Brasserie - ION Orchard](https://maps.app.goo.gl/ESLenpPGBj9GP3Pm6) - the quarter chicken with mash and
   french onion rice was good - think of it like a french Nandos without spice
+
+I tried Collins at Marina Square too but wasn't impressed with the Wagyu steak.
+The fries were ok though, and the watermelon feta balsamic salad was good.
 
 I do not recommend eating at the Saizeriya chain - it was the first place I tried,
 it's cheap but not worth wasting one of your day's meals on in my opinion,
 I found very little meat in the bolognese and the garlic focacci was small and much less good than I'd imagined as
 that's a hard thing to get wrong. IMO it was the worst food I've eaten in Asia.
-
-I tried Collins at Marina Square too but wasn't impressed with the Wagyu steak.
-The fries were ok though, and the watermelon feta balsamic salad was good.
 
 ### Slovakia
 
