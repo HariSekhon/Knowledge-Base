@@ -1899,13 +1899,17 @@ The food is more expensive and less good than the rest of Asia, and the hotels a
 
 Keep your visit short - 2-3 days should be enough to see the centre.
 
-It's hard for me to give many recommendations here as I didn't stay long and wasn't impressed with the food
-(my friend who lived in Singapore did say the food wasn't great).
+It's hard for me to give many recommendations here as I didn't stay long and wasn't impressed with the food at most
+places (my friend who lived in Singapore for 10 years did warn me that the food there wasn't great).
 
 - [Din Tai Fung](https://maps.app.goo.gl/6qjPc9t86kmGZRF78) - Taiwanese chain with a good array of noodle soups and
-  dumplings (both savory and sweet, and mochi)
+  dumplings (both savory and sweet, and mochi). The prawn & pork dumplings are good, you can have them as dumplings or
+  as wontons in the spicy sesame sauce which is slightly spicey but not too much. It does not come as a soup, but as
+  noodles in a base sauce with the dumplings, very yummmy
 - [Poulet + Brasserie - ION Orchard](https://maps.app.goo.gl/ESLenpPGBj9GP3Pm6) - the quarter chicken with mash and
   french onion rice was good - think of it like a french Nandos without spice
+- [Black Tap Craft Burgers & Beers](https://maps.app.goo.gl/f7kycwaSj1gj4rYw8) - same chain as in Dubai Mall, decent
+  burgers at gentrified prices
 
 I tried Collins at Marina Square too but wasn't impressed with the Wagyu steak.
 The fries were ok though, and the watermelon feta balsamic salad was good.
