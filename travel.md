@@ -1996,6 +1996,10 @@ no staff most of the time or seeing other guests.
 
 #### Taipei
 
+Taipei's structure is surprisingly spread out in an American size layout,
+making it take a while to walk around and ages to cross the streets,
+with long waits at crossings, and crossings giving 79 seconds to cross the 8 lane roads!
+
 - [Nowhere Taipei Mexican Bistro](https://maps.app.goo.gl/7R6V7DvF1dtUYwiy6) - Good burrito for £6.50
 
 ### Thailand
