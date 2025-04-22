@@ -146,6 +146,9 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
       - [Rosebank](#rosebank)
   - [Sweden](#sweden)
     - [Stockholm](#stockholm)
+  - [Taiwan](#taiwan)
+    - [Taiwan Taxis](#taiwan-taxis)
+    - [Taipei](#taipei)
   - [Thailand](#thailand)
     - [Thailand Cash](#thailand-cash)
     - [Thailand Mobile](#thailand-mobile)
@@ -198,8 +201,8 @@ but once in a while it'll screw you with a much higher price than the others.
 
 [Agoda.com](https://www.agoda.com/) - the best site for use in Asia, and you really need to go to Asia, it's amazing.
 
-[Kayak.com](https://www.kayak.com/) - usually cheaper than SkyScanner and had cheaper flights not found on Expedia
-- I prefer Kayak to SkyScanner because I can filter for flights including luggage in the price
+[Kayak.com](https://www.kayak.com/) - usually cheaper than SkyScanner and had cheaper flights not found on Expedia.
+  lI prefer Kayak to SkyScanner because I can filter for flights including luggage in the price
   and when following through to [eDreams](https://www.edreams.com/) or [Trip.com](https://trip.com/) flights I can
   upgrade to 25kg luggage for ~£4, which is important because I got charged $30 for having 22kg checked luggage -
   2kg over the 20kg default luggage allowance of many airlines.
@@ -1984,6 +1987,16 @@ The Memory Hotel in Kista was cheap for a reason - it was absolutely dead in Aug
 no staff most of the time or seeing other guests.
 
 [Restaurang Kryp In](https://restaurangkrypin.se/) is good in the centre.
+
+### Taiwan
+
+#### Taiwan Taxis
+
+- [Grab](https://www.grab.com/) - taxi app
+
+#### Taipei
+
+- [Nowhere Taipei Mexican Bistro](https://maps.app.goo.gl/7R6V7DvF1dtUYwiy6) - Good burrito for £6.50
 
 ### Thailand
 
