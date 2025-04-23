@@ -41,7 +41,8 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 - [Copying and Pasting from ChatGPT](#copying-and-pasting-from-chatgpt)
   - [Say Powered by AI One More Time](#say-powered-by-ai-one-more-time)
   - [Coding with GPT](#coding-with-gpt)
-- [My Code Stack Overflow, ChatGPT](#my-code-stack-overflow-chatgpt)
+  - [My Code Stack Overflow, ChatGPT](#my-code-stack-overflow-chatgpt)
+  - [Speaking Softly in House](#speaking-softly-in-house)
 
 <!-- INDEX_END -->
 
@@ -264,6 +265,10 @@ Watch out for that quality and not knowing WTF you're doing!
 
 ![Coding with GPT](images/orly_book_coding_with_gpt.jpeg)
 
-## My Code Stack Overflow, ChatGPT
+### My Code Stack Overflow, ChatGPT
 
 ![My Code Stack Overflow ChatGPT](images/my_code_stack_overflow_chatgpt.jpeg)
+
+### Speaking Softly in House
+
+![Speaking Softly in House](images/ai_speak_softly_in_house.jpeg)
