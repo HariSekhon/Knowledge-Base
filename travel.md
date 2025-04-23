@@ -2000,9 +2000,11 @@ Taipei's structure is surprisingly spread out in an American size layout,
 making it take a while to walk around and ages to cross the streets,
 with long waits at crossings, and crossings giving 79 seconds to cross the 8 lane roads!
 
-- [Busan Restaurant](https://maps.app.goo.gl/RJhrUyyLzeiC3F5R6) - very popular busy Korean restaurant with good food and
-  free red lemon tea and barley tea, as well as water.
-  The beef bibimbap was good. 92/35 Mbit wifi
+- [Busan Restaurant](https://maps.app.goo.gl/RJhrUyyLzeiC3F5R6) - very popular busy Korean restaurant with top notch
+  food at reasonable prices, free red lemon tea and barley tea, as well as free water.
+  The beef bibimbap was very good, a really complete nutrition meal with beef, egg, rice, vegetables and even glass
+  noodles. It's been years since I had a bibimbap this good. It even came with a small miso seaweed soup with egg.
+  92/35 Mbit wifi
 - [Nowhere Taipei Mexican Bistro](https://maps.app.goo.gl/7R6V7DvF1dtUYwiy6) - Good burrito for £6.50, 82/40 Mbit wifi
 
 ### Thailand
