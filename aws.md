@@ -50,7 +50,9 @@ NOT PORTED YET
 - [Diagrams](#diagrams)
   - [Typical Network Architecture](#typical-network-architecture)
   - [What Makes Lambda So Fast](#what-makes-lambda-so-fast)
-- [Meme](#meme)
+- [Memes](#memes)
+  - [Genie](#genie)
+  - [Making Jeff Bezos Richer](#making-jeff-bezos-richer)
 
 <!-- INDEX_END -->
 
@@ -1100,7 +1102,13 @@ sudo umount /mnt
 
 ![What Makes Lambda So Fast](images/aws_what_makes_lambda_so_fast.gif)
 
-## Meme
+## Memes
+
+### Genie
+
+![Genie - I'll Give you $1 Billion if you can spend 100M a Month](images/genie_billion_if_spend_100M_a_month_use_AWS.jpeg)
+
+### Making Jeff Bezos Richer
 
 ![Making Jeff Bezos Richer](images/aws_making_jeff_bezos_richer.jpeg)
 
