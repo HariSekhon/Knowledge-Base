@@ -452,7 +452,7 @@ idea installPlugins \
 
 - [JetBrains AI Assistant](https://plugins.jetbrains.com/plugin/22282-jetbrains-ai-assistant)
 - [AWS ToolKit](https://plugins.jetbrains.com/plugin/11349-aws-toolkit) - Amazon CodeWhisperer integration
-- ~~[TabNine](https://plugins.jetbrains.com/plugin/12798-tabnine-ai-code-completion--chat-in-java-js-ts-python--more)~~ - AI code suggestions. Cancelled, no free tier any more
+- [TabNine](https://plugins.jetbrains.com/plugin/12798-tabnine-ai-code-completion--chat-in-java-js-ts-python--more) - AI code suggestions, no free tier any more
 - [Codota AI Autocomplete for Java and JavaScript](https://plugins.jetbrains.com/plugin/7638-codota-ai-autocomplete-for-java-and-javascript)
   - `idea installPlugins com.codota.csp.intellij`
 - [GitHub CoPilot](https://plugins.jetbrains.com/plugin/17718-github-copilot)
