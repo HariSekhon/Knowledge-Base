@@ -2012,7 +2012,9 @@ as I prefer other parts of SE Asia, so you'll have to do more Google Maps / Sear
   92/35 Mbit wifi
 - [Nowhere Taipei Mexican Bistro](https://maps.app.goo.gl/7R6V7DvF1dtUYwiy6) - Good burrito for £6.50, 82/40 Mbit wifi
 - [Nearby Cafe 2](https://maps.app.goo.gl/Uw7WwtsH71dbvxa98) - late night cafe with alcohol as well as food, open until
-  midnight with 80/37 Mbit wifi. Was half full of people on laptops at 11pm on a Wednesday night
+  midnight with 80/37 Mbit wifi.
+  Was half full of people on laptops at 11pm on a Wednesday night.
+  Not cheap at £3.50 for a hot milk with honey.
 
 ### Thailand
 
