@@ -42,7 +42,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Say Powered by AI One More Time](#say-powered-by-ai-one-more-time)
   - [Coding with GPT](#coding-with-gpt)
   - [My Code Stack Overflow, ChatGPT](#my-code-stack-overflow-chatgpt)
-  - [Speaking Softly in House](#speaking-softly-in-house)
+  - [Speak Softly in House](#speak-softly-in-house)
 
 <!-- INDEX_END -->
 
@@ -269,6 +269,6 @@ Watch out for that quality and not knowing WTF you're doing!
 
 ![My Code Stack Overflow ChatGPT](images/my_code_stack_overflow_chatgpt.jpeg)
 
-### Speaking Softly in House
+### Speak Softly in House
 
 ![Speaking Softly in House](images/ai_speak_softly_in_house.jpeg)
