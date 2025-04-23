@@ -16,6 +16,10 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 - [Hotels vs Airbnb](#hotels-vs-airbnb)
   - [Hotel & Airbnb - Parking](#hotel--airbnb---parking)
   - [Hotel & Airbnb - Internet](#hotel--airbnb---internet)
+- [Wifi](#wifi)
+  - [Wifi Hotels](#wifi-hotels)
+  - [Wifi Cafes & Restaurants](#wifi-cafes--restaurants)
+  - [Wifi Speeds](#wifi-speeds)
 - [Mobile Internet Access](#mobile-internet-access)
   - [EU](#eu)
   - [Rest of World](#rest-of-world)
@@ -380,9 +384,33 @@ I spent all week hassling the reception staff daily pleading to put one on the p
 it without success).
 It still wasn't working when I left there.
 
+## Wifi
+
+### Wifi Hotels
+
+Hotel wifi is often awful, in both signal reliability and speed, even at relatively nice hotels.
+
+### Wifi Cafes & Restaurants
+
+Preserve your mobile data and battery life by not using 4G/5G except when you have to,
+always get on the cafe / restaurant wifi.
+
+### Wifi Speeds
+
+I have listed wifi speeds at various venues I've used to digital nomad around as I live on wifi.
+
+_"X/Y Mbit wifi"_ shorthand means X Mbit/s download and Y Mbit/s upload eg.
+50/30 means 50 Mbit/s download speed and 30Mbit/s upload speed, as tested using
+[network speed test](networking.md#speedtestnet).
+
 ## Mobile Internet Access
 
 Always ensure you have mobile internet before you leave the airport.
+
+Use the airport wifi to set up one of your e-sims using the lists below, or sims at the airports.
+
+On rare occasion I wasn't able to get airport wifi working, and that could be a problem so it's better to sort the e-sim
+on the wifi of your departing airport before you take off than arrive at the other end.
 
 ### EU
 
