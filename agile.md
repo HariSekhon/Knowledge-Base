@@ -34,7 +34,7 @@ Run one of these live meeting cost tickers during it to remind people what a was
 
 ### Genie Wishes
 
-![Genie Wishes](images/agile_ceremonies_daily_meetings_4_rules.jpeg)
+![Genie Wishes](images/genie_3_rules_agile_ceremonies.jpeg)
 
 ### A Techie is Never Late to Daily Standup
 
