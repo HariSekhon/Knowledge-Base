@@ -597,8 +597,8 @@ This is a local knowledge that will get you done and your license revoked if you
 
 #### Temporary Car Insurance Cover
 
-- <https://goshorty.co.uk/temporary-car-insurance/european-car-insurance/>
-- <https://motor.tempcover.com/> - expensive, quoted me £277 for just 28 days
+- [GoShorty](https://goshorty.co.uk/temporary-car-insurance/european-car-insurance/)
+- [TempCover](https://motor.tempcover.com/) - expensive, quoted me £277 for just 28 days
 
 ### Driving Checklist
 
