@@ -591,6 +591,7 @@ This is a local knowledge that will get you done and your license revoked if you
 ### International Driving Insurance
 
 - <https://www.tourinsure.de/>
+- <https://goshorty.co.uk/temporary-car-insurance/european-car-insurance/>
 
 ### Driving Checklist
 
