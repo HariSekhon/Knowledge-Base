@@ -43,6 +43,8 @@ Uses `xcodebuild`:
   - [XCodeBuild / Fastlane building hanging with no output](#xcodebuild--fastlane-building-hanging-with-no-output)
   - [No Runtimes](#no-runtimes)
   - [exportArchive: Rsync failed](#exportarchive-rsync-failed)
+- [Memes](#memes)
+  - [Headquarters](#headquarters)
 
 <!-- INDEX_END -->
 
@@ -888,3 +890,9 @@ xcodebuild -exportArchive \
 ```
 
 See the equivalent code in [fastlane/Fastfile](https://github.com/HariSekhon/Templates/blob/master/fastlane/Fastfile).
+
+## Memes
+
+### Headquarters
+
+![Headquarters](images/headquarters_io_windows_linux.jpeg)
