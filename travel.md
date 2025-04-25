@@ -2033,7 +2033,11 @@ no staff most of the time or seeing other guests.
 
 #### Taiwan Taxis
 
+My usual Grab which is popular in SE Asia isn't available in Taiwan, they have Uber and FindTaxi:
+
 - [Uber](https://www.uber.com/tw/en/)
+- [FindTaxi](https://apps.apple.com/hk/app/findtaxi/id1023750145?l=en-GB) - never received the SMS verification despite
+  several tries so never used this. Ended up using my existing Uber app
 
 #### Taipei
 
