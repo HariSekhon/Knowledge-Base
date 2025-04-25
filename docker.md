@@ -45,6 +45,7 @@ Lightweight application containers containing app + all dependencies.
 - [Memes](#memes)
   - [How Docker Was Born](#how-docker-was-born)
   - [Works on My Computer](#works-on-my-computer)
+  - [Says "Works on My Machine" One More Time](#says-works-on-my-machine-one-more-time)
   - [Using Docker](#using-docker)
 
 <!-- INDEX_END -->
@@ -577,6 +578,10 @@ For example, adding this exclusion in Semantec anti-virus resulted in a build go
 ### Works on My Computer
 
 ![Works on My Computer](images/not_giving_your_computer_to_client_docker.webp)
+
+### Says "Works on My Machine" One More Time
+
+![Say "Works on My Machine" One More Time](images/says_works_on_my_machine_one_more_time.jpeg)
 
 ### Using Docker
 
