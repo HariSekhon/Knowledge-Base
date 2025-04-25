@@ -6,12 +6,15 @@
 - [Redhat Package Management - Rpm to Yum to Dnf](#redhat-package-management---rpm-to-yum-to-dnf)
   - [Yum & Rpm](#yum--rpm)
   - [Yum Proxy Configuration](#yum-proxy-configuration)
+    - [Protect base repo packages](#protect-base-repo-packages)
   - [RHEL 8 modules](#rhel-8-modules)
   - [RHSCL - Redhat Software Collections](#rhscl---redhat-software-collections)
   - [Pulp](#pulp)
 - [Kickstart - Automated Installations](#kickstart---automated-installations)
   - [Kickstart Template](#kickstart-template)
   - [HashiCorp Packer + Kickstart Config](#hashicorp-packer--kickstart-config)
+- [Memes](#memes)
+  - [Imported Package Tariffs](#imported-package-tariffs)
 
 <!-- INDEX_END -->
 
@@ -490,5 +493,11 @@ Real-world Kickstart config used by Packer build:
 [HariSekhon/Packer-templates - rocky-x86_64.vbox.pkr.hcl](https://github.com/HariSekhon/Packer-templates/blob/master/rocky-x86_64.vbox.pkr.hcl)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Packer&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer)
+
+## Memes
+
+### Imported Package Tariffs
+
+![Imported Package Tariffs](images/imported_package_tariffs.jpeg)
 
 **Ported from private Knowledge Base page 2010+ - should have been from early to mid 2000s but young guys don't document enough**
