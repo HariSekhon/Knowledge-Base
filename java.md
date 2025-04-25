@@ -40,6 +40,7 @@ NOT PORTED YET.
 - [Memes](#memes)
   - [Books That Made You Cry](#books-that-made-you-cry)
   - [Porting Your Language to the JVM](#porting-your-language-to-the-jvm)
+  - [Imported Package Tariffs](#imported-package-tariffs)
 
 <!-- INDEX_END -->
 
@@ -448,5 +449,9 @@ Azul's OpenJDK distribution with commercial support and JavaFX options.
 ### Porting Your Language to the JVM
 
 ![Porting Your Language to the JVM](images/orly_porting_your_language_to_jvm.png)
+
+### Imported Package Tariffs
+
+![Imported Package Tariffs](images/imported_package_tariffs.jpeg)
 
 **Ported from various private Knowledge Base pages 2010+**
