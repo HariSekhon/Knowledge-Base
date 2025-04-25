@@ -41,6 +41,7 @@ NOT PORTED YET.
   - [Books That Made You Cry](#books-that-made-you-cry)
   - [Porting Your Language to the JVM](#porting-your-language-to-the-jvm)
   - [Imported Package Tariffs](#imported-package-tariffs)
+  - [Santa, Want Dragon](#santa-want-dragon)
 
 <!-- INDEX_END -->
 
@@ -453,5 +454,9 @@ Azul's OpenJDK distribution with commercial support and JavaFX options.
 ### Imported Package Tariffs
 
 ![Imported Package Tariffs](images/imported_package_tariffs.jpeg)
+
+### Santa, Want Dragon
+
+![Santa, Want Dragon](images/santa_want_dragon_java_less_verbose.jpeg)
 
 **Ported from various private Knowledge Base pages 2010+**
