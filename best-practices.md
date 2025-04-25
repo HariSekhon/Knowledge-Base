@@ -42,6 +42,7 @@
   - [The Mobile Developer](#the-mobile-developer)
   - [Ignoring Non-Critical Problems At Work](#ignoring-non-critical-problems-at-work)
   - [Writing Code That Nobody Else Can Read](#writing-code-that-nobody-else-can-read)
+  - [Blaming the User](#blaming-the-user)
 
 <!-- INDEX_END -->
 
@@ -408,3 +409,7 @@ Sometimes you just have to prioritize because there isn't enough time for everyt
 Pull Request reviews are here to preven this...
 
 ![Writing Code That Nobody Else Can Read](images/orly_writing_code_nobody_else_can_read.jpg)
+
+### Blaming the User
+
+![Blaming the User](images/orly_blaming_the_user_10x_hacker.png)
