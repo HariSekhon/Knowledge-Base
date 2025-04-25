@@ -38,6 +38,8 @@ Media file analysis, editing, transcoding and conversions.
   - [Remote control](#remote-control)
 - [Troubleshooting](#troubleshooting)
   - [ImageMagic error converting from Avif image format](#imagemagic-error-converting-from-avif-image-format)
+- [Memes](#memes)
+  - [Marketing Matters](#marketing-matters)
 
 <!-- INDEX_END -->
 
@@ -630,5 +632,11 @@ Solution:
 ```shell
 brew info libheif
 ```
+
+## Memes
+
+### Marketing Matters
+
+![Marketing Matters](images/multimedia_marketing_matters.jpeg)
 
 **Ported from private Knowledge Base pages 2010+**
