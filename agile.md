@@ -9,6 +9,7 @@
   - [Genie Wishes](#genie-wishes)
   - [A Techie is Never Late to Daily Standup](#a-techie-is-never-late-to-daily-standup)
   - [Waterfall vs Agile - Pick Your Poison](#waterfall-vs-agile---pick-your-poison)
+  - [Every Group Project](#every-group-project)
 
 <!-- INDEX_END -->
 
@@ -44,3 +45,7 @@ A waste of time from an engineer's perspective that could be replaced with 2-3 b
 ### Waterfall vs Agile - Pick Your Poison
 
 ![Waterfall vs Agile - Pick Your Poison](images/waterfall_vs_agile_pick_your_poison.jpeg)
+
+### Every Group Project
+
+![Every Group Project](images/every_group_project.jpeg)
