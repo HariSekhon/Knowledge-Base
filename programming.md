@@ -58,6 +58,7 @@
   - [Me When Code Works as Intended](#me-when-code-works-as-intended)
   - [When You're Thinking About That Code You Wrote Last Night](#when-youre-thinking-about-that-code-you-wrote-last-night)
   - [Vibe Coding, Vibe Debugging](#vibe-coding-vibe-debugging)
+  - [C for the Brave and Foolish](#c-for-the-brave-and-foolish)
 
 <!-- INDEX_END -->
 
@@ -523,5 +524,9 @@ When you’re thinking about how to improve that code you wrote last night… �
 ### Vibe Coding, Vibe Debugging
 
 ![Vibe Coding, Vibe Debugging](images/vibe_coding_vibe_debugging.jpeg)
+
+### C for the Brave and Foolish
+
+![C for the Brave and Foolish](images/orly_c_for_brave_and_foolish.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
