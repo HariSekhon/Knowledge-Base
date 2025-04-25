@@ -25,6 +25,7 @@ Useful JSON tools:
   - [IDEs](#ides)
 - [Memes](#memes)
   - [JSON Statham](#json-statham)
+  - [Trump Tariff CSV Imports](#trump-tariff-csv-imports)
 
 <!-- INDEX_END -->
 
@@ -227,3 +228,7 @@ I run these automatically in all [my GitHub repos](https://github.com/HariSekhon
 ### JSON Statham
 
 ![JSON Statham](images/json_statham.jpeg)
+
+### Trump Tariff CSV Imports
+
+![Trump Tariff CSV Imports](images/trump_25%25_tariff_on_csv_imports.jpeg)
