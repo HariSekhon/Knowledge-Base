@@ -153,9 +153,10 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Sweden](#sweden)
     - [Stockholm](#stockholm)
   - [Taiwan](#taiwan)
-    - [Taiwan Hotels](#taiwan-hotels)
     - [Taiwan Taxis](#taiwan-taxis)
     - [Taipei](#taipei)
+      - [Taipei Hotels](#taipei-hotels)
+      - [Taipei Restaurants & Attractions](#taipei-restaurants--attractions)
   - [Thailand](#thailand)
     - [Thailand Cash](#thailand-cash)
     - [Thailand Mobile](#thailand-mobile)
@@ -2032,12 +2033,6 @@ no staff most of the time or seeing other guests.
 
 ### Taiwan
 
-#### Taiwan Hotels
-
-Taiwan hotels can be more expensive than other destinations in SE Asia
-and for some reason their check-ins only seem to be from 5pm instead of 2pm,
-even when their checkout is earlier at 11am rather than 12pm.
-
 #### Taiwan Taxis
 
 My usual Grab which is popular in SE Asia isn't available in Taiwan, they have Uber and FindTaxi:
@@ -2053,6 +2048,14 @@ making it take a while to walk around and ages to cross the streets,
 with long waits at crossings, and crossings giving 79 seconds to cross the 8 lane roads!
 
 Taipei was too urban for my liking after having toured other parts of SE Asia.
+
+##### Taipei Hotels
+
+Taipei hotels can be more expensive than other destinations in SE Asia
+and for some reason their check-ins only seem to be from 5pm instead of 2pm,
+even when their checkout is earlier at 11am rather than 12pm.
+
+##### Taipei Restaurants & Attractions
 
 This would be a longer list below but I didn't stay in Taipei for more than a few days,
 as I prefer other parts of SE Asia, so you'll have to do more Google Maps / Searches yourself to find and try the rest.
