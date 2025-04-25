@@ -576,7 +576,7 @@ you never know how they will treat you in a foreign place and it varies signific
 
 ## Driving
 
-Ferries are surprisingly expensive, similar in price to an air fair.
+Ferries are surprisingly expensive, similar or more in price compared a plane ticket.
 
 This probably works out a little more economical if having more than one person in the car.
 
@@ -586,6 +586,10 @@ EU countries have town symbols along routes which automatically drop the speed l
 explicitly or not.
 
 This is a local knowledge that will get you done and your license revoked if you hit 100kmph. See [Latvia](#latvia).
+
+### International Driving Insurance
+
+- <https://www.tourinsure.de/>
 
 ### Driving Checklist
 
