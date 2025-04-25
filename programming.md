@@ -57,6 +57,7 @@
   - [When You Copy Parts of Your Code from Stack Overflow](#when-you-copy-parts-of-your-code-from-stack-overflow)
   - [Me When Code Works as Intended](#me-when-code-works-as-intended)
   - [When You're Thinking About That Code You Wrote Last Night](#when-youre-thinking-about-that-code-you-wrote-last-night)
+  - [Vibe Coding, Vibe Debugging](#vibe-coding-vibe-debugging)
 
 <!-- INDEX_END -->
 
@@ -518,5 +519,9 @@ Many of you will want to send this to your relatives:
 When you’re thinking about how to improve that code you wrote last night… 😂
 
 ![When You're Thinking About That Code You Wrote Last Night](images/havent_listened_to_work_she_said.jpeg)
+
+### Vibe Coding, Vibe Debugging
+
+![Vibe Coding, Vibe Debugging](images/vibe_coding_vibe_debugging.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
