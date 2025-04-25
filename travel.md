@@ -2033,7 +2033,7 @@ no staff most of the time or seeing other guests.
 
 #### Taiwan Taxis
 
-- [Grab](https://www.grab.com/) - taxi app
+- [Uber](https://www.uber.com/tw/en/)
 
 #### Taipei
 
