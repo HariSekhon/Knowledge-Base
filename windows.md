@@ -22,6 +22,7 @@
 - [WSL - Windows Subsystem for Linux](#wsl---windows-subsystem-for-linux)
 - [GitHub Repos](#github-repos)
 - [Meme](#meme)
+  - [Headquarters](#headquarters)
   - [Wizard Install Software](#wizard-install-software)
   - [Best Keyboard for Programming](#best-keyboard-for-programming)
 
@@ -320,6 +321,10 @@ shutdown /r
 - [:octocat: scipag/HardeningKitty](https://github.com/scipag/HardeningKitty)
 
 ## Meme
+
+### Headquarters
+
+![Headquarters](images/headquarters_io_windows_linux.jpeg)
 
 ### Wizard Install Software
 
