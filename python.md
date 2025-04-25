@@ -38,6 +38,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
   - [Python Fault Handler](#python-fault-handler)
     - [Enable Python Fault Handler](#enable-python-fault-handler)
   - [Alpine `ModuleNotFoundError: No module named 'pip._vendor.six.moves'`](#alpine-modulenotfounderror-no-module-named-pip_vendorsixmoves)
+  - [Small vs Big Integers - is vs ==](#small-vs-big-integers---is-vs-)
 - [Meme](#meme)
   - [Programming Python](#programming-python)
   - [Porting Your Language to the JVM](#porting-your-language-to-the-jvm)
@@ -397,6 +398,34 @@ Fix:
 apk del py3-pip py-pip
 apk add py3-pip
 ```
+
+### Small vs Big Integers - is vs ==
+
+Consider:
+
+```python
+> a = 10
+> b = 10
+> a is b
+False
+```
+
+```python
+> a = 500
+> b = 500
+> a is b
+True
+```
+
+This is due to caching small integer objects but not integers over 256.
+
+This is rarely an issue in practice though since the `==` comparison operator works as expected and most people will
+only use that.
+
+Instead, people should try to maintain open source Python over a decade of bloody code changes and trying to keep it working in
+different CI/CD systems to try to retain portability across different environments...
+
+Python maintainability makes Java Null Pointer Exceptions look like the cheap “billion dollar mistake”.
 
 ## Meme
 
