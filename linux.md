@@ -23,6 +23,7 @@
 - [OOM Killer](#oom-killer)
 - [eBPF](#ebpf)
 - [Meme](#meme)
+  - [Headquarters](#headquarters)
   - [How I Sleep](#how-i-sleep)
   - [Standardizing on Distro](#standardizing-on-distro)
 
@@ -375,6 +376,10 @@ Kernel level for networking observability, tracing, and security
 <https://ebpf.io/>
 
 ## Meme
+
+### Headquarters
+
+![Headquarters](images/headquarters_io_windows_linux.jpeg)
 
 ### How I Sleep
 
