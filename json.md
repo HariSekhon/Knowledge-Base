@@ -23,6 +23,8 @@ Useful JSON tools:
 - [Pretty Print / format JSON](#pretty-print--format-json)
 - [JSON Linting](#json-linting)
   - [IDEs](#ides)
+- [Memes](#memes)
+  - [JSON Statham](#json-statham)
 
 <!-- INDEX_END -->
 
@@ -219,3 +221,9 @@ I run these automatically in all [my GitHub repos](https://github.com/HariSekhon
   - needs file extensions to be `.json` (not `.template` from [AWS](aws.md) CloudFormation)
 - [IntelliJ](intellij.md) also has JSON error validation but it's not as easy to see underscores vs the big red cross
   Eclipse puts in the left column
+
+## Memes
+
+### JSON Statham
+
+![JSON Statham](images/json_statham.jpeg)
