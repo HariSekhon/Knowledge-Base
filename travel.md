@@ -2043,11 +2043,11 @@ My usual Grab which is popular in SE Asia isn't available in Taiwan, they have U
 
 #### Taipei
 
+Taipei was too urban for my liking after having toured other parts of SE Asia.
+
 Taipei's structure is surprisingly spread out in an American size layout,
 making it take a while to walk around and ages to cross the streets,
 with long waits at crossings, and crossings giving 40 to 79 seconds to cross the 6-8 lane roads!
-
-Taipei was too urban for my liking after having toured other parts of SE Asia.
 
 ##### Taipei Hotels
 
