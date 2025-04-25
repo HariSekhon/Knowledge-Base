@@ -2049,6 +2049,9 @@ Taipei's structure is surprisingly spread out in an American size layout,
 making it take a while to walk around and ages to cross the streets,
 with long waits at crossings, and crossings giving 40 to 79 seconds to cross the 6-8 lane roads!
 
+I don't see this region as having enough attractiveness or cost effectiveness to want to visit, which is why I see few
+tourists here compared to other countries in SE Asia.
+
 ##### Taipei Hotels
 
 Taipei hotels can be more expensive than other destinations in SE Asia
