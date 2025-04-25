@@ -1366,7 +1366,7 @@ Luang Prabang is nicer than Vientiane, it's more geared for tourists.
 
 #### Laos Taxis
 
-- Use the [Loca](https://loca.la/) app
+- [Loca](https://loca.la/) - taxi app
 
 #### Vientiane
 
