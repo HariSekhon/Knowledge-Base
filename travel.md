@@ -153,6 +153,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Sweden](#sweden)
     - [Stockholm](#stockholm)
   - [Taiwan](#taiwan)
+    - [Taiwan Hotels](#taiwan-hotels)
     - [Taiwan Taxis](#taiwan-taxis)
     - [Taipei](#taipei)
   - [Thailand](#thailand)
@@ -2030,6 +2031,12 @@ no staff most of the time or seeing other guests.
 [Restaurang Kryp In](https://restaurangkrypin.se/) is good in the centre.
 
 ### Taiwan
+
+#### Taiwan Hotels
+
+Taiwan hotels can be more expensive than other destinations in SE Asia
+and for some reason their check-ins only seem to be from 5pm instead of 2pm,
+even when their checkout is earlier at 11am rather than 12pm.
 
 #### Taiwan Taxis
 
