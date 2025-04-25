@@ -21,6 +21,7 @@ It's nothing to do with Java.
   - [JavaScript - The Good Parts](#javascript---the-good-parts)
   - [JavaScript TypeScript Friends](#javascript-typescript-friends)
   - [Men Who Take Risks](#men-who-take-risks)
+  - [Imported Package Tariffs](#imported-package-tariffs)
 
 <!-- INDEX_END -->
 
@@ -297,3 +298,7 @@ Use `tsx` instead.
 ### Men Who Take Risks
 
 ![Men Who Take Risks](images/men_who_take_risks_javascript_framework_written_by_facebook.jpeg)
+
+### Imported Package Tariffs
+
+![Imported Package Tariffs](images/imported_package_tariffs.jpeg)
