@@ -14,6 +14,8 @@ The guy who wrote this didn't get hired by Google ffs... who cares about old bub
 - [Info](#info)
 - [Environment Variables](#environment-variables)
 - [Troubleshooting](#troubleshooting)
+- [Memes](#memes)
+  - [Imported Package Tariffs](#imported-package-tariffs)
 
 <!-- INDEX_END -->
 
@@ -95,5 +97,11 @@ The usual [HTTP Proxy](http-proxying.md) environment variables of `http_proxy`, 
 Fix SSL of a package:
 
 [brew_fix_openssl_dependencies.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/brew_fix_openssl_dependencies.sh)
+
+## Memes
+
+### Imported Package Tariffs
+
+![Imported Package Tariffs](images/imported_package_tariffs.jpeg)
 
 **Partial port from private Knowledge Base page 2013+**
