@@ -276,4 +276,4 @@ Watch out for that quality and not knowing WTF you're doing!
 
 ### Chuck Norris
 
-![Check Norris](images/ChatGPT_asking_Chuck_Norris_question.jpeg)
+![Check Norris](images/chatgpt_asking_chuck_norris_question.jpeg)
