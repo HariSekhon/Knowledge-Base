@@ -44,6 +44,7 @@ Lightweight application containers containing app + all dependencies.
   - [Slow `COPY` during build on Windows](#slow-copy-during-build-on-windows)
 - [Memes](#memes)
   - [How Docker Was Born](#how-docker-was-born)
+  - [Works on My Computer](#works-on-my-computer)
   - [Using Docker](#using-docker)
 
 <!-- INDEX_END -->
@@ -572,6 +573,10 @@ For example, adding this exclusion in Semantec anti-virus resulted in a build go
 ### How Docker Was Born
 
 ![How Docker Was Born](images/how_docker_was_born.jpeg)
+
+### Works on My Computer
+
+![Works on My Computer](images/not_giving_your_computer_to_client_docker.webp)
 
 ### Using Docker
 
