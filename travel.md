@@ -2053,7 +2053,10 @@ as I prefer other parts of SE Asia, so you'll have to do more Google Maps / Sear
 - [Busan Restaurant](https://maps.app.goo.gl/RJhrUyyLzeiC3F5R6) - very popular busy Korean restaurant with top notch
   food at reasonable prices, free red lemon tea and barley tea, as well as free water.
   The beef bibimbap was very good, a really complete nutrition meal with beef, egg, rice, vegetables and even glass
-  noodles. It's been years since I had a bibimbap this good. It even came with a small miso seaweed soup with egg.
+  noodles.
+  It's been years since I had a bibimbap this good.
+  It even came with a small miso seaweed soup with egg,
+  although on my second visit they only gave me a sweetcorn soup with egg.
   92/35 Mbit wifi
 - [Nowhere Taipei Mexican Bistro](https://maps.app.goo.gl/7R6V7DvF1dtUYwiy6) - Good burrito for £6.50, 82/40 Mbit wifi
 - [Nearby Cafe 2](https://maps.app.goo.gl/Uw7WwtsH71dbvxa98) - late night cafe with alcohol as well as food, open until
