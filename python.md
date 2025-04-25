@@ -42,6 +42,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
   - [Programming Python](#programming-python)
   - [Porting Your Language to the JVM](#porting-your-language-to-the-jvm)
   - [ChatGPT Python - What I Expected vs What I Got](#chatgpt-python---what-i-expected-vs-what-i-got)
+  - [Imported Package Tariffs](#imported-package-tariffs)
 
 <!-- INDEX_END -->
 
@@ -412,5 +413,9 @@ I wish I had discovered [Groovy](groovy.md) before [Jython](#jython)...
 ### ChatGPT Python - What I Expected vs What I Got
 
 ![ChatGPT Python - What I Expected vs What I Got](images/chatgpt_python_what_expected_vs_got.jpeg)
+
+### Imported Package Tariffs
+
+![Imported Package Tariffs](images/imported_package_tariffs.jpeg)
 
 **Partial port from private Knowledge Base page 2008+**
