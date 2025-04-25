@@ -2059,7 +2059,9 @@ as I prefer other parts of SE Asia, so you'll have to do more Google Maps / Sear
 - [Nearby Cafe 2](https://maps.app.goo.gl/Uw7WwtsH71dbvxa98) - late night cafe with alcohol as well as food, open until
   midnight with 80/37 Mbit wifi.
   Was half full of people on laptops at 11pm on a Wednesday night.
-  Not cheap at £3.50 for a hot milk with honey.
+  Not cheap at £3.50 for a hot milk with honey
+- [Raohe Street Night Market](https://maps.app.goo.gl/HTbYGvSmtKxpyLAB8) - Bustling with food, some tourists and mostly
+  local Asians
 
 ### Thailand
 
