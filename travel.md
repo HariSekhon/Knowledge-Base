@@ -2082,7 +2082,8 @@ as I prefer other parts of SE Asia, so you'll have to do more Google Maps / Sear
 - [Raohe Street Night Market](https://maps.app.goo.gl/HTbYGvSmtKxpyLAB8) - Bustling with food, some tourists and mostly
   local Asians
 - [HiHi Coffee / Hi Drink](https://maps.app.goo.gl/uzcEgnYzSLt9kdyp8) - small trendy cafe with good music and fast
-  69/49 Mbit wifi that serves alcohol and hot drinks until 1am
+  69/49 Mbit wifi that serves alcohol and hot drinks until 1am.
+  A bit expensive at 160TWD (£3.70) for a tea though
 
 ### Thailand
 
