@@ -10,6 +10,7 @@
   - [A Techie is Never Late to Daily Standup](#a-techie-is-never-late-to-daily-standup)
   - [Waterfall vs Agile - Pick Your Poison](#waterfall-vs-agile---pick-your-poison)
   - [Every Group Project](#every-group-project)
+  - [Big Plans](#big-plans)
 
 <!-- INDEX_END -->
 
@@ -49,3 +50,7 @@ A waste of time from an engineer's perspective that could be replaced with 2-3 b
 ### Every Group Project
 
 ![Every Group Project](images/every_group_project.jpeg)
+
+### Big Plans
+
+![Big Plans](images/big_plans_for_application_another_pivot.jpeg)
