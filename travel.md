@@ -36,6 +36,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Do Not Even Jaywalk](#do-not-even-jaywalk)
 - [Driving](#driving)
   - [International Driving Insurance](#international-driving-insurance)
+    - [Temporary Car Insurance Cover](#temporary-car-insurance-cover)
   - [Driving Checklist](#driving-checklist)
   - [Additional EU Driving Checklist](#additional-eu-driving-checklist)
   - [Do Not Speed](#do-not-speed)
