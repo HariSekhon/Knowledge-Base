@@ -45,6 +45,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Speak Softly in House](#speak-softly-in-house)
   - [Chuck Norris](#chuck-norris)
   - [Your Future Doctor is using ChatGPT to Pass Exams](#your-future-doctor-is-using-chatgpt-to-pass-exams)
+  - [I'm a Programmer](#im-a-programmer)
 
 <!-- INDEX_END -->
 
@@ -282,3 +283,7 @@ Watch out for that quality and not knowing WTF you're doing!
 ### Your Future Doctor is using ChatGPT to Pass Exams
 
 ![Your Future Doctor is using ChatGPT to Pass Exams](images/future_doctor_using_chatgpt_better_exercise_eat_healthy.jpeg)
+
+### I'm a Programmer
+
+![I'm a Programmer](images/im_a_programmer_chatgpt.jpg)
