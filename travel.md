@@ -591,7 +591,9 @@ This is a local knowledge that will get you done and your license revoked if you
 
 ### International Driving Insurance
 
-- <https://www.tourinsure.de/>
+- [TourInsure](https://www.tourinsure.de/)
+- [Lobagola](https://www.lobagola-insurance.com/)
+  - [Lobagola Balkans](https://www.lobagola-insurance.com/insurance/balkans.html)
 
 #### Temporary Car Insurance Cover
 
