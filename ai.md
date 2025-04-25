@@ -43,6 +43,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Coding with GPT](#coding-with-gpt)
   - [My Code Stack Overflow, ChatGPT](#my-code-stack-overflow-chatgpt)
   - [Speak Softly in House](#speak-softly-in-house)
+  - [Chuck Norris](#chuck-norris)
 
 <!-- INDEX_END -->
 
@@ -272,3 +273,7 @@ Watch out for that quality and not knowing WTF you're doing!
 ### Speak Softly in House
 
 ![Speaking Softly in House](images/ai_speak_softly_in_house.jpeg)
+
+### Chuck Norris
+
+![Check Norris](images/ChatGPT_asking_Chuck_Norris_question.jpeg)
