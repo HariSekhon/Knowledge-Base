@@ -35,6 +35,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Don't Speed](#dont-speed)
   - [Do Not Even Jaywalk](#do-not-even-jaywalk)
 - [Driving](#driving)
+  - [Car Insurance](#car-insurance)
   - [International Driving Insurance](#international-driving-insurance)
     - [Temporary Car Insurance Cover](#temporary-car-insurance-cover)
   - [Driving Checklist](#driving-checklist)
@@ -593,6 +594,16 @@ EU countries have town symbols along routes which automatically drop the speed l
 explicitly or not.
 
 This is a local knowledge that will get you done and your license revoked if you hit 100kmph. See [Latvia](#latvia).
+
+### Car Insurance
+
+Car insurance often includes 30-90 days cover in Europe, check each provider for details.
+
+Top car comparison sites:
+
+- [MoneySupermarket.com](https://www.moneysupermarket.com)
+- [CompareTheMarket.com](https://comparethemarket.com)
+- [Confused.com](https://motor.confused.com)
 
 ### International Driving Insurance
 
