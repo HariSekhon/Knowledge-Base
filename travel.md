@@ -447,7 +447,7 @@ Google [travel e-sims](https://www.google.com/search?q=travel+e-sims)
 and add the country you are travelling to for more options.
 
 Follow the installation instructions and make sure to enable `Data Roaming`
-under the e-sim settings otherwise the internet won't connect
+under the e-sim settings otherwise the internet won't connect.
 
 - [Nomad]() - a bit cheaper than Airalo,, I've started using this the most
 - [Airalo](https://www.airalo.com/) - I used this a lot originally, second cheapest option
