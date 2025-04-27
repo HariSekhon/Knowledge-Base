@@ -606,7 +606,7 @@ These are relatively very expensive in my experience so I avoid them.
 
 - [GoShorty](https://goshorty.co.uk/temporary-car-insurance/european-car-insurance/) - extremely expensive, £30-36 for
   3 hours!
-- [TempCover](https://motor.tempcover.com/) - expensive, quoted me £277 for just 28 days
+- [TempCover](https://motor.tempcover.com/) - expensive, quoted me £273 for just 28 days
 - [DayInsure](https://www.dayinsure.com/)
 
 ### Driving Checklist
