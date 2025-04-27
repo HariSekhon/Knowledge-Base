@@ -446,11 +446,14 @@ You can buy data plans for a certain number of days.
 Google [travel e-sims](https://www.google.com/search?q=travel+e-sims)
 and add the country you are travelling to for more options.
 
-- [Airalo](https://www.airalo.com/) - follow the installation instructions and make sure to enable `Data Roaming`
-  under the e-sim settings otherwise the internet won't connect
-- [Saily](https://saily.com/)
-- [Holafly](https://esim.holafly.com/)
-- [Saily](https://saily.com/)
+Follow the installation instructions and make sure to enable `Data Roaming`
+under the e-sim settings otherwise the internet won't connect
+
+- [Nomad]() - a bit cheaper than Airalo,, I've started using this the most
+- [Airalo](https://www.airalo.com/) - I used this a lot originally, second cheapest option
+- [Saily](https://saily.com/) - haven't use this one yet
+- [Holafly](https://esim.holafly.com/) - offers unlimited data but very expensive, usually not worth it given you typically don't use more
+  than 1-3GB unless you're watching lots of videos on 4G instead of hotel wifi
 
 ### International Calls using VoIP over the Internet
 
