@@ -1919,7 +1919,7 @@ The lower end is typically about half that.
 - [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) -
   good coffee shop with 2 levels right in the centre, often busy and open late until 11pm.
 - [Fit Bar](https://maps.app.goo.gl/S6nsPw9Ckj9v34Jg8) - small healthy eat place - one of the rare no smoking places in
-  Belgrade
+  Belgrade. 40/18 Mbit/s wifi
 - [Burger House Bros Centar](https://maps.app.goo.gl/C5FyhgFp16gPN11H9) - very good burger restaurant
 - [Boutique #2](https://maps.app.goo.gl/1svhc4v3bq3aAwfh7) - prime location restaurant for drinks or food on the main
   parade, very popular and good
