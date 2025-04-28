@@ -119,6 +119,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Morocco](#morocco)
     - [Morocco Taxis](#morocco-taxis)
     - [Tangiers](#tangiers)
+  - [Netherlands](#netherlands)
+    - [Amsterdam](#amsterdam)
   - [Norway](#norway)
     - [Oslo](#oslo)
   - [Poland](#poland)
