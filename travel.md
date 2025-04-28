@@ -1948,7 +1948,7 @@ Cheaper Airbnbs as 1.5 hour drive from Belgrade.
   seating area and excellent drinks menus, good for dining or drinks, open until midnight
 - [Kombinat](https://maps.app.goo.gl/6Z2CV3UbhZTDLAaCA) - cool late night cafe open until 11pm
 - [Loft Downtown](https://maps.app.goo.gl/xQdXBJek5JBX17i49) - very popular cafe & restaurant with outdoor seating
-- [Bistro " Pastai"](https://maps.app.goo.gl/Vro8m7vM3eiKFzKn7) - a local cheap eat pasta place with good juices
+- [Bistro "Pastai"](https://maps.app.goo.gl/Vro8m7vM3eiKFzKn7) - a local cheap eat pasta place with good juices
 
 ### Singapore
 
