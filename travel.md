@@ -1684,12 +1684,18 @@ No wifi, cash only.
 
 [Alma Kitchen & Coffee](https://maps.app.goo.gl/9bD1hQnonnX2w3TZ8) - good but a bit expensive by local standards.
 
+### Netherlands
+
+#### Amsterdam
+
+Was only here briefly, must re-visit to create notes.
+
 ### Norway
 
 #### Oslo
 
 Nice to visit for a couple days,
-but everything was closed and quiet at 4pm on a Sunday afternoon when I arrive,
+but everything was closed and quiet at 4pm on a Sunday afternoon when I arrived,
 very different to the hustle and bustle of London.
 
 ### Poland
