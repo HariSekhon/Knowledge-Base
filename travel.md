@@ -1934,7 +1934,9 @@ The lower end is typically about half that.
 
 - [Ćevap kod Dekija](https://maps.app.goo.gl/9tzTUWr9Pc6UvsiS9) - overrated. The spicy sausages were mostly fatty bits,
   the minced meat cevap rolls were squishy and the bunless Serbian burger was the least bad part with some onions mixed
-  in. Should have gone to Burger Bros instead and gotten a proper meat burger. 14/8 Mbit/s wifi
+  in. Should have gone to Burger Bros instead and gotten a proper meat burger.
+  This was so bad I left a lot of the sausages and the cevap, and went to FitBar for a protein shake instead.
+  Venue has 14/8 Mbit/s wifi
 
 -->
 
