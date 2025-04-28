@@ -1908,35 +1908,35 @@ The top end of the range is typically comparable to other european cities.
 
 The lower end is typically about half that.
 
-[Street Pasta Bar - Sremska](https://maps.app.goo.gl/woUhBnmt8973aEqH7) - is my top pick here - cheap, fresh juices,
-good wifi and young crowd (probably due to it being cheap).
-I've spent many hours on their wifi with regular top ups of juices and smoothies because they're so affordable,
-on top of lunch and dinner.
-Closes earlier than other restaurants at 9pm so it's better as a daytime place.
-Non-smoking, a rare find in Belgrade.
+- [Street Pasta Bar - Sremska](https://maps.app.goo.gl/woUhBnmt8973aEqH7) - is my top pick here - cheap, fresh juices,
+  good wifi and young crowd (probably due to it being cheap).
+  I've spent many hours on their wifi with regular top ups of juices and smoothies because they're so affordable,
+  on top of lunch and dinner.
+  Closes earlier than other restaurants at 9pm so it's better as a daytime place.
+  Non-smoking, a rare find in Belgrade.
+- [Elephant's Food House](https://maps.app.goo.gl/aK24TL7T6c3cm3xKA) - another good cheap lunch type place.
+  Closes early at 6pm.
+- [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) -
+  good coffee shop with 2 levels right in the centre, often busy and open late until 11pm.
+- [Fit Bar](https://maps.app.goo.gl/S6nsPw9Ckj9v34Jg8) - small healthy eat place - one of the rare no smoking places in
+  Belgrade
+- [Burger House Bros Centar](https://maps.app.goo.gl/C5FyhgFp16gPN11H9) - very good burger restaurant
+- [Boutique #2](https://maps.app.goo.gl/1svhc4v3bq3aAwfh7) - prime location restaurant for drinks or food on the main
+  parade, very popular and good
+- [Trattoria Pepe](https://maps.app.goo.gl/gdP9dLWxAVzGYEdV6) - excellent Italian 5 minutes walk from the centre -
+  worth the walk
+- [Casa Nova](https://maps.app.goo.gl/mPPNKEYf2M5FKnm49) - has both outdoor and a non-smoking section on the upper level
+  rear section (quiet section, everybody in Belgrade seems to smoke)
+- [Velika Skadarlija](https://maps.app.goo.gl/jHfCipxrNiK4Bzg66) - good restaurant with great outdoor seating area, with
+  the odd plug if you need it
 
-[Elephant's Food House](https://maps.app.goo.gl/aK24TL7T6c3cm3xKA) - another good cheap lunch type place.
-Closes early at 6pm.
+<!--
 
-[Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) -
-good coffee shop with 2 levels right in the centre, often busy and open late until 11pm.
+- [Ćevap kod Dekija](https://maps.app.goo.gl/9tzTUWr9Pc6UvsiS9) - overrated. The spicy sausages were mostly fatty bits,
+  the minced meat cevap rolls were squishy and the bunless Serbian burger was the least bad part with some onions mixed
+  in. Should have gone to Burger Bros instead and gotten a proper meat burger
 
-[Fit Bar](https://maps.app.goo.gl/S6nsPw9Ckj9v34Jg8) - small healthy eat place - one of the rare no smoking places in
-Belgrade
-
-[Burger House Bros Centar](https://maps.app.goo.gl/C5FyhgFp16gPN11H9) - very good burger restaurant
-
-[Boutique #2](https://maps.app.goo.gl/1svhc4v3bq3aAwfh7) - prime location restaurant for drinks or food on the main
-parade, very popular and good
-
-[Trattoria Pepe](https://maps.app.goo.gl/gdP9dLWxAVzGYEdV6) - excellent Italian 5 minutes walk from the centre -
-worth the walk
-
-[Casa Nova](https://maps.app.goo.gl/mPPNKEYf2M5FKnm49) - has both outdoor and a non-smoking section on the upper level
-rear section (quiet section, everybody in Belgrade seems to smoke)
-
-[Velika Skadarlija](https://maps.app.goo.gl/jHfCipxrNiK4Bzg66) - good restaurant with great outdoor seating area, with
-the odd plug if you need it
+-->
 
 #### Novi Sad
 
@@ -1944,14 +1944,11 @@ Good central district of restaurants.
 
 Cheaper Airbnbs as 1.5 hour drive from Belgrade.
 
-[Petrus Caffe](https://maps.app.goo.gl/1sZJoLAsLn5Vkq6m8) - excellent restaurant, very popular with large outdoor
-seating area and excellent drinks menus, good for dining or drinks, open until midnight
-
-[Kombinat](https://maps.app.goo.gl/6Z2CV3UbhZTDLAaCA) - cool late night cafe open until 11pm
-
-[Loft Downtown](https://maps.app.goo.gl/xQdXBJek5JBX17i49) - very popular cafe & restaurant with outdoor seating
-
-[Bistro " Pastai"](https://maps.app.goo.gl/Vro8m7vM3eiKFzKn7) - a local cheap eat pasta place with good juices
+- [Petrus Caffe](https://maps.app.goo.gl/1sZJoLAsLn5Vkq6m8) - excellent restaurant, very popular with large outdoor
+  seating area and excellent drinks menus, good for dining or drinks, open until midnight
+- [Kombinat](https://maps.app.goo.gl/6Z2CV3UbhZTDLAaCA) - cool late night cafe open until 11pm
+- [Loft Downtown](https://maps.app.goo.gl/xQdXBJek5JBX17i49) - very popular cafe & restaurant with outdoor seating
+- [Bistro " Pastai"](https://maps.app.goo.gl/Vro8m7vM3eiKFzKn7) - a local cheap eat pasta place with good juices
 
 ### Singapore
 
