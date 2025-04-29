@@ -7,6 +7,7 @@
 - [Code Coverage](#code-coverage)
 - [Meme](#meme)
   - [Removed Bad Code](#removed-bad-code)
+  - [Refactoring](#refactoring)
   - [Code Quality Metrics](#code-quality-metrics)
 
 <!-- INDEX_END -->
@@ -52,6 +53,14 @@ Hosted Git providers like GitHub and GitLab already have mature peer review in t
 ### Removed Bad Code
 
 ![Removed Bad Code](images/removed_bad_code_whats_left.jpeg)
+
+### Refactoring
+
+Imagine how bad this would be if trying to refactor AI generated code…
+
+Not that anyone in the new generation will know what refactoring is… 😂
+
+![Refactoring](images/refactoring_bugs_found.jpeg)
 
 ### Code Quality Metrics
 
