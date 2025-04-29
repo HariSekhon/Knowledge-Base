@@ -6,6 +6,7 @@
 - [Peer Review](#peer-review)
 - [Code Coverage](#code-coverage)
 - [Meme](#meme)
+  - [Removed Bad Code](#removed-bad-code)
   - [Code Quality Metrics](#code-quality-metrics)
 
 <!-- INDEX_END -->
@@ -47,6 +48,10 @@ Hosted Git providers like GitHub and GitLab already have mature peer review in t
 - [Coverity](https://scan.coverity.com/)
 
 ## Meme
+
+### Removed Bad Code
+
+![Removed Bad Code](images/removed_bad_code_whats_left.jpeg)
 
 ### Code Quality Metrics
 
