@@ -48,6 +48,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [I'm a Programmer](#im-a-programmer)
   - [AI Finger Hack - Inadmissable Evidence](#ai-finger-hack---inadmissable-evidence)
   - [Sales Guys wants to use Blockchain & AI](#sales-guys-wants-to-use-blockchain--ai)
+  - [Vibe Coding is Easy](#vibe-coding-is-easy)
 
 <!-- INDEX_END -->
 
@@ -297,3 +298,7 @@ Watch out for that quality and not knowing WTF you're doing!
 ### Sales Guys wants to use Blockchain & AI
 
 ![Sales Guys wants to use Blockchain & AI](images/new_project_sales_guy_wants_to_use_blockchain_ai.jpeg)
+
+### Vibe Coding is Easy
+
+![Vibe Coding is Easy](images/vibe_coding_performance_vulnerabilities.jpeg)
