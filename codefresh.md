@@ -16,7 +16,7 @@
 
 Installs via HomeBrew or NPM + configures using `$CODEFRESH_KEY` from environment:
 
-in [HariSekhon/DevOps-Bash-tools](devops-bash-tools.md):
+From [DevOps-Bash-tools](devops-bash-tools.md):
 
 ```shell
 setup/setup_codefresh.sh
