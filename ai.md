@@ -47,6 +47,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Your Future Doctor is using ChatGPT to Pass Exams](#your-future-doctor-is-using-chatgpt-to-pass-exams)
   - [I'm a Programmer](#im-a-programmer)
   - [AI Finger Hack - Inadmissable Evidence](#ai-finger-hack---inadmissable-evidence)
+  - [Sales Guys wants to use Blockchain & AI](#sales-guys-wants-to-use-blockchain--ai)
 
 <!-- INDEX_END -->
 
@@ -292,3 +293,7 @@ Watch out for that quality and not knowing WTF you're doing!
 ### AI Finger Hack - Inadmissable Evidence
 
 ![AI Finger Hack - Inadmissable Evidence](images/ai_finger_hack_inadmissable_evidence.jpeg)
+
+### Sales Guys wants to use Blockchain & AI
+
+![Sales Guys wants to use Blockchain & AI](images/new_project_sales_guy_wants_to_use_blockchain_ai.jpeg)
