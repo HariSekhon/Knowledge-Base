@@ -48,4 +48,4 @@ Bridgecrew Cloud dashboard:
 
 ### Removed Bad Code
 
-![Removed Bad Code](images/remove_bad_code_whats_left.jpeg)
+![Removed Bad Code](images/removed_bad_code_whats_left.jpeg)
