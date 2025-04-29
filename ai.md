@@ -46,6 +46,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Chuck Norris](#chuck-norris)
   - [Your Future Doctor is using ChatGPT to Pass Exams](#your-future-doctor-is-using-chatgpt-to-pass-exams)
   - [I'm a Programmer](#im-a-programmer)
+  - [AI Finger Hack - Inadmissable Evidence](#ai-finger-hack---inadmissable-evidence)
 
 <!-- INDEX_END -->
 
@@ -287,3 +288,7 @@ Watch out for that quality and not knowing WTF you're doing!
 ### I'm a Programmer
 
 ![I'm a Programmer](images/im_a_programmer_chatgpt.jpg)
+
+### AI Finger Hack - Inadmissable Evidence
+
+![AI Finger Hack - Inadmissable Evidence](images/ai_finger_hack_inadmissable_evidence.jpeg)
