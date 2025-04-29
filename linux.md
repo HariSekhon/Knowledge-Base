@@ -26,6 +26,7 @@
   - [Headquarters](#headquarters)
   - [How I Sleep](#how-i-sleep)
   - [Standardizing on Distro](#standardizing-on-distro)
+  - [Linux Cars](#linux-cars)
 
 <!-- INDEX_END -->
 
@@ -390,5 +391,9 @@ But then you discover [Macs](mac.md) and spend it anyway...
 ### Standardizing on Distro
 
 ![Standardizing on Distro](images/orly_standardizing_on_debian_ubuntu_not_all_linux_distros_cool_any_more.png)
+
+### Linux Cars
+
+![Linux Cars](images/linux_cars.jpeg)
 
 **Ported from various private Knowledge Base pages 2002+**
