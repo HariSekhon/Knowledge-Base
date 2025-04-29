@@ -11,7 +11,7 @@
   - [Waterfall vs Agile - Pick Your Poison](#waterfall-vs-agile---pick-your-poison)
   - [Every Group Project](#every-group-project)
   - [Agile MVP](#agile-mvp)
-  - [Big Plans Beaver CEO](#big-plans-beaver-ceo)
+  - [Big Plans Beaver](#big-plans-beaver)
 
 <!-- INDEX_END -->
 
@@ -56,6 +56,6 @@ A waste of time from an engineer's perspective that could be replaced with 2-3 b
 
 ![Agile MVP](images/software_in_demo_agile_mvp.jpeg)
 
-### Big Plans Beaver CEO
+### Big Plans Beaver
 
 ![Big Plans](images/big_plans_for_app_another_pivot.jpeg)
