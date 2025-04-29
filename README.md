@@ -390,9 +390,9 @@ This one is used widely throughout these pages:
   - [Trivy](trivy.md)
   - [Grype](grype.md)
 - [Code Quality](code-quality.md)
-- [SonarQube](sonarqube.md)
-- [SonarCloud](sonarcloud.md)
-- [CodeClimate](codeclimate.md)
+  - [SonarQube](sonarqube.md)
+  - [SonarCloud](sonarcloud.md)
+  - [CodeClimate](codeclimate.md)
 
 ## Infrastructure-as-Code
 
