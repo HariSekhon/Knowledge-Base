@@ -52,10 +52,10 @@ A waste of time from an engineer's perspective that could be replaced with 2-3 b
 
 ![Every Group Project](images/every_group_project.jpeg)
 
-### Big Plans
-
-![Big Plans](images/big_plans_for_app_another_pivot.jpeg)
-
 ### Agile MVP
 
 ![Agile MVP](images/software_in_demo_agile_mvp.jpeg)
+
+### Big Plans Beaver CEO
+
+![Big Plans](images/big_plans_for_app_another_pivot.jpeg)
