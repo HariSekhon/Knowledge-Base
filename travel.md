@@ -1883,13 +1883,12 @@ I've asked the locals about this and they said there are a couple non-smoking ve
 
 #### Belgrade Taxis
 
-[Car Go](https://appcargo.com/en) - like Uber. Didn't find any drivers, had to use Pink Taxi instead.
-
-[Pink Taxi](https://pinktaxi.info/) has mixed reviews, but it worked.
-
-Lux Taxi app couldn't even register using my UK mobile number - I got
-[this error](https://www.linkedin.com/posts/harisekhon_imagine-having-a-top-taxi-app-in-belgrade-activity-7242252581597585409-MRlJ)
-🤪
+- [Car Go](https://appcargo.com/en) - like Uber. Usually the cheapest but wait times seem much longer than advertised, and sometimes it didn't
+  find any drivers, so I had to use Yandex Go or Pink Taxi below instead
+- [Yandex Go]()
+- [Pink Taxi](https://pinktaxi.info/) has mixed reviews, but it worked
+- Lux Taxi app couldn't even register using my UK mobile number - I got
+[this error](https://www.linkedin.com/posts/harisekhon_imagine-having-a-top-taxi-app-in-belgrade-activity-7242252581597585409-MRlJ) 🤪
 
 #### Driving in Serbia
 
