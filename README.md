@@ -393,7 +393,6 @@ This one is used widely throughout these pages:
 - [SonarQube](sonarqube.md)
 - [SonarCloud](sonarcloud.md)
 - [CodeClimate](codeclimate.md)
-- [Codefresh](codefresh.md)
 
 ## Infrastructure-as-Code
 
@@ -446,6 +445,7 @@ This one is used widely throughout these pages:
 - 3rd Party hosted CI/CD:
   - [CircleCI](circleci.md)
   - [TravisCI](travis.md)
+  - [Codefresh](codefresh.md)
   - [Drone.io](drone.io.md)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
