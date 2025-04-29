@@ -54,7 +54,7 @@ A waste of time from an engineer's perspective that could be replaced with 2-3 b
 
 ### Big Plans
 
-![Big Plans](images/big_plans_for_application_another_pivot.jpeg)
+![Big Plans](images/big_plans_for_app_another_pivot.jpeg)
 
 ### Agile MVP
 
