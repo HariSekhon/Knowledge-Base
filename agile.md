@@ -11,6 +11,7 @@
   - [Waterfall vs Agile - Pick Your Poison](#waterfall-vs-agile---pick-your-poison)
   - [Every Group Project](#every-group-project)
   - [Big Plans](#big-plans)
+  - [Agile MVP](#agile-mvp)
 
 <!-- INDEX_END -->
 
@@ -54,3 +55,7 @@ A waste of time from an engineer's perspective that could be replaced with 2-3 b
 ### Big Plans
 
 ![Big Plans](images/big_plans_for_application_another_pivot.jpeg)
+
+### Agile MVP
+
+![Agile MVP](images/software_in_demo_agile_mvp.jpeg)
