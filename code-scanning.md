@@ -4,6 +4,9 @@
 
 - [Checkov & Bridgecrew Cloud](#checkov--bridgecrew-cloud)
   - [Bridgecrew Cloud](#bridgecrew-cloud)
+    - [Cost](#cost)
+- [Memes](#memes)
+  - [Removed Bad Code](#removed-bad-code)
 
 <!-- INDEX_END -->
 
@@ -40,3 +43,9 @@ Bridgecrew Cloud dashboard:
 - Script to scan IaC to figure out how many resources you have to pay for
 - Re-quote every few months if increased usage.
 - Shame this the legacy purchase order up-front estimate model rather than a Pay-As-You-Go model like cloud vendors or GitHub.
+
+## Memes
+
+### Removed Bad Code
+
+![Removed Bad Code](images/remove_bad_code_whats_left.jpeg)
