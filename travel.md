@@ -452,7 +452,7 @@ and add the country you are travelling to for more options.
 Follow the installation instructions and make sure to enable `Data Roaming`
 under the e-sim settings otherwise the internet won't connect.
 
-- [Nomad]() - a bit cheaper than Airalo,, I've started using this the most
+- [Nomad](https://www.getnomad.app/) - a bit cheaper than Airalo,, I've started using this the most
 - [Airalo](https://www.airalo.com/) - I used this a lot originally, second cheapest option
 - [Saily](https://saily.com/) - haven't use this one yet
 - [Holafly](https://esim.holafly.com/) - offers unlimited data but very expensive, usually not worth it given you typically don't use more
@@ -1856,7 +1856,10 @@ forces.
 
 ### Serbia
 
-I used the <https://www.airalo.com/> e-sim data only for $14 for 5GB valid for 30 days.
+I used the [Airalo](https://www.airalo.com/) e-sim data only for $14 for 5GB valid for 30 days.
+
+On subsequent visits I've used the [Nomad](https://www.getnomad.app/) e-sim
+as it was cheaper - 1GB or 3GB for £3.38 or £6.76, respectively.
 
 #### Indoor Smoking, Outdoor Smoking, Smoking Everywhere
 
