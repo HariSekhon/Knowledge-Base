@@ -13,6 +13,8 @@
 - [Diagrams](#diagrams)
   - [Top 9 Systems Integrations](#top-9-systems-integrations)
   - [Encoding vs Encryption vs Tokenization](#encoding-vs-encryption-vs-tokenization)
+- [Memes](#memes)
+  - [Trump Tariff CSV Imports](#trump-tariff-csv-imports)
 
 <!-- INDEX_END -->
 
@@ -92,5 +94,11 @@ Free for desktop version:
 ### Encoding vs Encryption vs Tokenization
 
 ![Encoding vs Encryption vs Tokenization](images/encoding_vs_encryption_vs_tokenization.gif)
+
+## Memes
+
+### Trump Tariff CSV Imports
+
+![Trump Tariff CSV Imports](images/trump_25%25_tariff_on_csv_imports.jpeg)
 
 **Ported from private Knowledge Base pages 2016+**
