@@ -12,6 +12,7 @@
   - [Every Group Project](#every-group-project)
   - [Agile MVP](#agile-mvp)
   - [Big Plans Beaver](#big-plans-beaver)
+  - [Born Too Early, Late](#born-too-early-late)
 
 <!-- INDEX_END -->
 
@@ -59,3 +60,7 @@ A waste of time from an engineer's perspective that could be replaced with 2-3 b
 ### Big Plans Beaver
 
 ![Big Plans](images/big_plans_for_app_another_pivot.jpeg)
+
+### Born Too Early, Late
+
+![Born Too Early, Late](images/born_too_early_late_agile.jpeg)
