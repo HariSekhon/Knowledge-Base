@@ -10,8 +10,8 @@
   - [A Techie is Never Late to Daily Standup](#a-techie-is-never-late-to-daily-standup)
   - [Waterfall vs Agile - Pick Your Poison](#waterfall-vs-agile---pick-your-poison)
   - [Every Group Project](#every-group-project)
-  - [Big Plans](#big-plans)
   - [Agile MVP](#agile-mvp)
+  - [Big Plans Beaver CEO](#big-plans-beaver-ceo)
 
 <!-- INDEX_END -->
 
