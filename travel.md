@@ -1944,6 +1944,8 @@ The lower end is typically about half that.
   rear section (quiet section, everybody in Belgrade seems to smoke)
 - [Velika Skadarlija](https://maps.app.goo.gl/jHfCipxrNiK4Bzg66) - good restaurant with great outdoor seating area, with
   the odd plug if you need it
+- [Restoran Kosmaj](https://maps.app.goo.gl/9QK4fMvPjWVTVyZW7) - on the main road, but the food was good
+  eg. beef goulash with mash was decent, less salty than Oskar but a bit more fat on the beef. 12/2 Mbit/s wifi
 
 <!--
 
