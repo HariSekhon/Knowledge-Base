@@ -1910,6 +1910,10 @@ Overall, a horrible experience driving to Serbia and I would not do it again.
 You immediately feel like you've gone from Europe to some dangerous 3rd world country where you are more worried about
 the police themselves and corruption.
 
+My car also broke down - the battery was a right-off after leaving it in storage for 7 months.
+Even buying an overpriced Noco boost charger for £150 (at 40% above UK price) and emptying its charge into it twice
+didn't  work, and nor did jump cabling from a truck.
+
 #### Belgrade
 
 The capital is reasonable in the center. Overall it is slightly cheaper to dine than other European cities.
@@ -1930,11 +1934,12 @@ The lower end is typically about half that.
   good coffee shop with 2 levels right in the centre, often busy and open late until 11pm.
 - [Fit Bar](https://maps.app.goo.gl/S6nsPw9Ckj9v34Jg8) - small healthy eat place - one of the rare no smoking places in
   Belgrade. 40/18 Mbit/s wifi
-- [Burger House Bros Centar](https://maps.app.goo.gl/C5FyhgFp16gPN11H9) - very good burger restaurant
 - [Boutique #2](https://maps.app.goo.gl/1svhc4v3bq3aAwfh7) - prime location restaurant for drinks or food on the main
   parade, very popular and good
-- [Trattoria Pepe](https://maps.app.goo.gl/gdP9dLWxAVzGYEdV6) - excellent Italian 5 minutes walk from the centre -
-  worth the walk
+- [Trattoria Pepe](https://maps.app.goo.gl/gdP9dLWxAVzGYEdV6) - excellent Italian 5 minutes walk from the centre - worth the walk
+- [Oskar](https://maps.app.goo.gl/xtbibPCagq1qP5jCA) - good quality restaurant, a few minutes off the beaten track
+  (usually better finds because they survive on foot and not tourist trap). 43/31 Mbit/s wifi
+- [Burger House Bros Centar](https://maps.app.goo.gl/C5FyhgFp16gPN11H9) - very good burger restaurant
 - [Casa Nova](https://maps.app.goo.gl/mPPNKEYf2M5FKnm49) - has both outdoor and a non-smoking section on the upper level
   rear section (quiet section, everybody in Belgrade seems to smoke)
 - [Velika Skadarlija](https://maps.app.goo.gl/jHfCipxrNiK4Bzg66) - good restaurant with great outdoor seating area, with
@@ -1944,7 +1949,7 @@ The lower end is typically about half that.
 
 - [Ćevap kod Dekija](https://maps.app.goo.gl/9tzTUWr9Pc6UvsiS9) - overrated. The spicy sausages were mostly fatty bits,
   the minced meat cevap rolls were squishy and the bunless Serbian burger was the least bad part with some onions mixed
-  in. Should have gone to Burger Bros instead and gotten a proper meat burger.
+  in. Should have gone to Burger House Bros instead and gotten a proper meat burger.
   This was so bad I left a lot of the sausages and the cevap, and went to FitBar for a protein shake instead.
   Venue has 14/8 Mbit/s wifi
 
