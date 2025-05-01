@@ -1954,12 +1954,12 @@ The lower end is typically about half that.
   The wifi worked at the bar but not at the main seating bench so no speed test here
 - [Obilićev venac road](https://maps.app.goo.gl/kLPuPNVYTPoscB3v6) - tourist trap road full of restaurants just off the
   main square, trade prices for buzziness
-- [Hari's Creperie](https://maps.app.goo.gl/jph8LKEq9Cv8HkpTA) - sweet & savory crepes, pizza, salads, all day breakfast
-  menu even including full english breakfast. Decent but pricey due to the location. Only 5/1 Mbit/s wifi
-- [Choco Caffe](https://maps.app.goo.gl/V5uHT5oQBejE7Y4c8) - on tourist trap street but decent, there is live music
-  across the road which is plenty loud enough while sitting outside
-- [Stamevski](https://maps.app.goo.gl/jQYhSot45w6J3rTa8) - dessert restaurant with amazing looking cakes, has pistachio
-  milkshake, although very fattening version. Wifi was slow as hell at 0.3/0.05 Mbit/s
+  - [Hari's Creperie](https://maps.app.goo.gl/jph8LKEq9Cv8HkpTA) - sweet & savory crepes, pizza, salads, all day breakfast
+    menu even including full english breakfast. Decent but pricey due to the location. Only 5/1 Mbit/s wifi
+  - [Choco Caffe](https://maps.app.goo.gl/V5uHT5oQBejE7Y4c8) - on tourist trap street but decent, there is live music
+    across the road which is plenty loud enough while sitting outside
+  - [Stamevski](https://maps.app.goo.gl/jQYhSot45w6J3rTa8) - dessert restaurant with amazing looking cakes, has pistachio
+    milkshake, although very fattening version. Wifi was slow as hell at 0.3/0.05 Mbit/s
 
 I __don't__ recommend:
 
