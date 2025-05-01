@@ -2006,13 +2006,14 @@ places (my friend who lived in Singapore for 10 years did warn me that the food 
 - [Black Tap Craft Burgers & Beers](https://maps.app.goo.gl/f7kycwaSj1gj4rYw8) - same chain as in Dubai Mall, decent
   burgers at gentrified prices
 
-I tried Collins at Marina Square too but wasn't impressed with the Wagyu steak.
-The fries were ok though, and the watermelon feta balsamic salad was good.
+I __don't__ recommend:
 
-I do not recommend eating at the Saizeriya chain - it was the first place I tried,
-it's cheap but not worth wasting one of your day's meals on in my opinion,
-I found very little meat in the bolognese and the garlic focacci was small and much less good than I'd imagined as
-that's a hard thing to get wrong. IMO it was the worst food I've eaten in Asia.
+- [Collins](https://maps.app.goo.gl/RicdTvwnQSzVG1zE7) at Marina Square - wasn't impressed with the Wagyu steak.
+  The fries were ok though, and the watermelon feta balsamic salad was good
+- [Saizeriya](https://maps.app.goo.gl/ibx8L9VYLS45mLaP8) - very low quality chain restaurant - it was the first place I
+  tried in Singapore and was sorely disappointed - it's cheap but not worth wasting one of your day's meals on in my
+  opinion. I found very little meat in the bolognese and the garlic focaccia was small and much less good than I'd
+  imagined as that's a hard thing to get wrong. IMO it was the worst food I've eaten in Asia
 
 ### Slovakia
 
