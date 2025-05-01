@@ -19,10 +19,10 @@ To auto-calculate dates:
 
 Example:
 
-| Country   | City      | Days | Start Date             | End Date                   |
-|-----------|-----------|------|------------------------|----------------------------|
-| Bulgaria  | Sofia     | 7    | `2025-05-02`           | Enter formula `=C32 + D32` |
-| Romania   | Bucharest | 7    | Enter formula `=E32`   | Enter formula `=C33 + D33` |
+| Country   | City      | Days | Start Date                                                     | End Date                   |
+|-----------|-----------|------|----------------------------------------------------------------|----------------------------|
+| Bulgaria  | Sofia     | 7    | `2025-05-02` <br/> then in menu <br/> Format -> Number -> Date | Enter formula `=C32 + D32` |
+| Romania   | Bucharest | 7    | Enter formula `=E32`                                           | Enter formula `=C33 + D33` |
 
 Results in:
 
@@ -31,7 +31,9 @@ Results in:
 | Bulgaria  | Sofia     | 7    | Friday, May 2, 2025    | Friday, May 9, 2025  |
 | Romania   | Bucharest | 7    | Friday, May 9, 2025`   | Friday, May 16, 2025 |
 
-Then add a total line at the end with a cell containing the formula:
+The rest of the rows follow this same format.
+
+At the end, add a `Total` line, with a cell containing the formula:
 
 ```
 =SUM(C32:C51)
