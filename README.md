@@ -702,10 +702,10 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Dev Misc](dev.md)
 - [Open Source](open-source.md)
 - [Internet Miscellaneous](internet-misc.md)
-- [Jira](jira.md)
-- [Spreadsheets](spreadsheets.md)
 - [TamperMonkey](tampermonkey.md)
+- [Jira](jira.md)
 - [Agile](agile.md)
+- [Spreadsheets](spreadsheets.md)
 - [IRC](irc.md)
 - [Communications - Chat & Video Conferencing](comms.md)
 
