@@ -1949,10 +1949,10 @@ The lower end is typically about half that.
 
 <!--
 
-- [Smash Burgers]() - fast food, for £7.50 for a burger and fries without a drink,
-  should perhaps get a proper restaurant meal instead for £9.
+- [Smash Burgers](https://maps.app.goo.gl/38WxX9dnwcSn67Pq7) - fast food, for £7.50 for a burger and fries without a
+  drink, should perhaps have got a proper restaurant meal for £9 instead.
   The burger was very fast food, fries were mediocre,
-  but the Habaneros SOS sauce for dipping the fries was amazing (of course it was it contains sugar),
+  but the Habanero SOS sauce for dipping the fries was amazing (of course it was, it contains sugar),
   although getting the staff to give me a dish to put the sauce in was a challenge.
   The wifi worked at the bar but not at the main seating bench so no speed test here
 - [Ćevap kod Dekija](https://maps.app.goo.gl/9tzTUWr9Pc6UvsiS9) - overrated. The spicy sausages were mostly fatty bits,
