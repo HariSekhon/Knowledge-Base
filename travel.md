@@ -1959,7 +1959,7 @@ The lower end is typically about half that.
 - [Choco Caffe](https://maps.app.goo.gl/V5uHT5oQBejE7Y4c8) - on tourist trap street but decent, there is live music
   across the road which is plenty loud enough while sitting outside
 - [Stamevski](https://maps.app.goo.gl/jQYhSot45w6J3rTa8) - dessert restaurant with amazing looking cakes, has pistachio
-  milkshake, but fattening
+  milkshake, although fattening, but wifi was slow as hell at 0.3/0.05 Mbit/s
 
 I __don't__ recommend:
 
