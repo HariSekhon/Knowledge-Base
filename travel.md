@@ -1950,8 +1950,7 @@ The lower end is typically about half that.
   drink, should perhaps have got a proper restaurant meal for £9 instead.
   The burger was very fast food, fries were mediocre,
   but the Habanero SOS sauce for dipping the fries was amazing (of course it was, it contains sugar),
-  although getting the staff to 1890
-- give me a dish to put the sauce in was a challenge.
+  although getting the staff to give me a dish to put the sauce in was a challenge.
   The wifi worked at the bar but not at the main seating bench so no speed test here
 
 I __don't*__ recommend:
