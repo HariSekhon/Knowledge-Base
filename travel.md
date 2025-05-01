@@ -1953,7 +1953,7 @@ The lower end is typically about half that.
   although getting the staff to give me a dish to put the sauce in was a challenge.
   The wifi worked at the bar but not at the main seating bench so no speed test here
 
-I don't recommend:
+I __don't*__ recommend:
 
 - [Ćevap kod Dekija](https://maps.app.goo.gl/9tzTUWr9Pc6UvsiS9) - overrated. The spicy sausages were mostly fatty bits,
   the minced meat cevap rolls were squishy and the bunless Serbian burger was the least bad part with some onions mixed
