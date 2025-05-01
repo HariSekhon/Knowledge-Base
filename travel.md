@@ -1930,8 +1930,8 @@ The lower end is typically about half that.
   Non-smoking, a rare find in Belgrade.
 - [Elephant's Food House](https://maps.app.goo.gl/aK24TL7T6c3cm3xKA) - another good cheap lunch type place.
   Closes early at 6pm.
-- [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) -
-  good coffee shop with 2 levels right in the centre, often busy and open late until 11pm
+- [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) - good coffee shop with 2 levels right in the
+  centre, often busy and open late until 11pm
 - [Fit Bar](https://maps.app.goo.gl/S6nsPw9Ckj9v34Jg8) - small healthy eat place - one of the rare no smoking places in
   Belgrade. 40/18 Mbit/s wifi
 - [Boutique #2](https://maps.app.goo.gl/1svhc4v3bq3aAwfh7) - prime location restaurant for drinks or food on the main
