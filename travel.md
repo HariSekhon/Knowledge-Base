@@ -1952,9 +1952,19 @@ The lower end is typically about half that.
   but the Habanero SOS sauce for dipping the fries was amazing (of course it was, it contains sugar),
   although getting the staff to give me a dish to put the sauce in was a challenge.
   The wifi worked at the bar but not at the main seating bench so no speed test here
+- [Obilićev venac road](https://maps.app.goo.gl/kLPuPNVYTPoscB3v6) - tourist trap road off the main square, trade price
+  for buzz
+- [Hari's Creperie](https://maps.app.goo.gl/jph8LKEq9Cv8HkpTA) - sweet & savory crepes, pizza, salads, even full english
+  breakfast. Decent but pricey due to the location
+- [Choco Caffe](https://maps.app.goo.gl/V5uHT5oQBejE7Y4c8) - on tourist trap street but decent, there is live music
+  across the road which is plenty loud enough while sitting outside
+- [Stamevski](https://maps.app.goo.gl/jQYhSot45w6J3rTa8) - dessert restaurant with amazing looking cakes, has pistachio
+  milkshake, but fattening
 
 I __don't*__ recommend:
 
+- [Monument Ruski car](https://maps.app.goo.gl/4xVEg12nPafTc17M9) - excellent location but tiny drinks
+- [April](https://maps.app.goo.gl/RjcpcFRxeHTuQMpDA) - tourist trap prices
 - [Ćevap kod Dekija](https://maps.app.goo.gl/9tzTUWr9Pc6UvsiS9) - overrated. The spicy sausages were mostly fatty bits,
   the minced meat cevap rolls were squishy and the bunless Serbian burger was the least bad part with some onions mixed
   in. Should have gone to Burger House Bros instead and gotten a proper meat burger.
