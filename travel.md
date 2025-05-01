@@ -1949,7 +1949,12 @@ The lower end is typically about half that.
 
 <!--
 
-- [Smash Burgers]() - fast food, overrated, skip it next time. Wifi password didn't work so no speed test here
+- [Smash Burgers]() - fast food, for £7.50 for a burger and fries without a drink,
+  should perhaps get a proper restaurant meal instead for £9.
+  The burger was very fast food, fries were mediocre,
+  but the Habaneros SOS sauce for dipping the fries was amazing (of course it was it contains sugar),
+  although getting the staff to give me a dish to put the sauce in was a challenge.
+  The wifi worked at the bar but not at the main seating bench so no speed test here
 - [Ćevap kod Dekija](https://maps.app.goo.gl/9tzTUWr9Pc6UvsiS9) - overrated. The spicy sausages were mostly fatty bits,
   the minced meat cevap rolls were squishy and the bunless Serbian burger was the least bad part with some onions mixed
   in. Should have gone to Burger House Bros instead and gotten a proper meat burger.
