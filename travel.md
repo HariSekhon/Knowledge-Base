@@ -1946,22 +1946,20 @@ The lower end is typically about half that.
   the odd plug if you need it
 - [Restoran Kosmaj](https://maps.app.goo.gl/9QK4fMvPjWVTVyZW7) - on the main road, but the food was good
   eg. beef goulash with mash was decent, less salty than Oskar but a bit more fat on the beef. 12/2 Mbit/s wifi
-
-<!--
-
 - [Smash Burgers](https://maps.app.goo.gl/38WxX9dnwcSn67Pq7) - fast food, for £7.50 for a burger and fries without a
   drink, should perhaps have got a proper restaurant meal for £9 instead.
   The burger was very fast food, fries were mediocre,
   but the Habanero SOS sauce for dipping the fries was amazing (of course it was, it contains sugar),
   although getting the staff to give me a dish to put the sauce in was a challenge.
   The wifi worked at the bar but not at the main seating bench so no speed test here
+
+I don't recommend:
+
 - [Ćevap kod Dekija](https://maps.app.goo.gl/9tzTUWr9Pc6UvsiS9) - overrated. The spicy sausages were mostly fatty bits,
   the minced meat cevap rolls were squishy and the bunless Serbian burger was the least bad part with some onions mixed
   in. Should have gone to Burger House Bros instead and gotten a proper meat burger.
   This was so bad I left a lot of the sausages and the cevap, and went to FitBar for a protein shake instead.
   Venue has 14/8 Mbit/s wifi
-
--->
 
 #### Novi Sad
 
