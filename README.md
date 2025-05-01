@@ -703,6 +703,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Open Source](open-source.md)
 - [Internet Miscellaneous](internet-misc.md)
 - [Jira](jira.md)
+- [Spreadsheets](spreadsheets.md)
 - [TamperMonkey](tampermonkey.md)
 - [Agile](agile.md)
 - [IRC](irc.md)
