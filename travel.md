@@ -55,6 +55,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Ghent / Gent](#ghent--gent)
     - [Liege](#liege)
     - [Waterloo](#waterloo)
+  - [Bulgaria](#bulgaria)
+    - [Vignettes - Motorway e-Tolls](#vignettes---motorway-e-tolls)
   - [Cambodia](#cambodia)
     - [Cambodia Visa](#cambodia-visa)
     - [Cambodia Money](#cambodia-money)
@@ -773,6 +775,16 @@ Gentrified town just south of Brussels where Napoleon lost the famous battle.
 [Le Bar À Soupe](https://www.facebook.com/people/Le-Bar-%C3%A0-Soupe/100063541241931/),
 Savage Burger and [Thai Cafe](https://thai.cafe/en) are recommended here, with the latter being more expensive.
 You will need your Google Translate camera app to translate the menu as they don't speak English.
+
+### Bulgaria
+
+#### Vignettes - Motorway e-Tolls
+
+A stupid inconvenient hassle road tax, but make sure you pay it to avoid more hassles from over bearing government.
+
+You can use this site:
+
+<https://vinetki.bg/en/>
 
 ### Cambodia
 
