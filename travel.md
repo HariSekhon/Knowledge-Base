@@ -1961,7 +1961,7 @@ The lower end is typically about half that.
 - [Stamevski](https://maps.app.goo.gl/jQYhSot45w6J3rTa8) - dessert restaurant with amazing looking cakes, has pistachio
   milkshake, but fattening
 
-I __don't*__ recommend:
+I __don't__ recommend:
 
 - [Monument Ruski car](https://maps.app.goo.gl/4xVEg12nPafTc17M9) - excellent location but tiny drinks
 - [April](https://maps.app.goo.gl/RjcpcFRxeHTuQMpDA) - tourist trap prices
