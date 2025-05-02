@@ -57,6 +57,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Waterloo](#waterloo)
   - [Bulgaria](#bulgaria)
     - [Vignettes - Motorway e-Tolls](#vignettes---motorway-e-tolls)
+    - [Sofia](#sofia)
   - [Cambodia](#cambodia)
     - [Cambodia Visa](#cambodia-visa)
     - [Cambodia Money](#cambodia-money)
@@ -148,6 +149,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Driving in Serbia](#driving-in-serbia)
     - [Belgrade](#belgrade)
     - [Novi Sad](#novi-sad)
+    - [Nis](#nis)
   - [Singapore](#singapore)
   - [Slovakia](#slovakia)
     - [Kosice](#kosice)
@@ -785,6 +787,11 @@ A stupid inconvenient hassle road tax, but make sure you pay it to avoid more ha
 You can use this site:
 
 <https://vinetki.bg/en/>
+
+#### Sofia
+
+- [Happy Bar & Grill](https://maps.app.goo.gl/SjtzPAjcTZ2mViKLA) - on 2nd, floor of Mall of Sofia, busy, good menu with
+  wide range of food from western to poke bowls, reasonable prices. 10/10 Mbit wifi, no password
 
 ### Cambodia
 
