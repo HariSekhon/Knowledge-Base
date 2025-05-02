@@ -1999,6 +1999,15 @@ Cheaper Airbnbs as 1.5 hour drive from Belgrade.
 - [Loft Downtown](https://maps.app.goo.gl/xQdXBJek5JBX17i49) - very popular cafe & restaurant with outdoor seating
 - [Bistro "Pastai"](https://maps.app.goo.gl/Vro8m7vM3eiKFzKn7) - a local cheap eat pasta place with good juices
 
+#### Nis
+
+Southern city on the way from Belgrade to Sofia, Bulgaria.
+
+- [Kod Rajka](https://maps.app.goo.gl/U3grzPEDWyktKjNW8) - good serbian restaurant. The chicken in mushroom sauce is big
+  and all chicken. The sopska salad (tomato, cucumber and onion, covered in shredded feta, is very good). The orange
+  juice was sold out, and the homemade lemonade was just squeezed lemon, probably worth skipping that next time.
+  23/10 Mbit/s wifi
+
 ### Singapore
 
 This city state is one of the most developed places in Asia and one of the most expensive cities in the world.
