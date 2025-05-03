@@ -792,6 +792,7 @@ You can use this site:
 
 - [Happy Bar & Grill](https://maps.app.goo.gl/SjtzPAjcTZ2mViKLA) - on 2nd floor of Mall of Sofia, busy, good menu with
   wide range of food from western to poke bowls, reasonable prices. 10/10 Mbit wifi, no password
+- [Attitude food&wine](https://maps.app.goo.gl/11FYx4eDPHxhbf1R7) - good menu, moderate prices. 35/33 Mbit/s wifi
 
 ### Cambodia
 
