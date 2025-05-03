@@ -3,10 +3,16 @@
 <!-- INDEX_START -->
 
 - [Freelance](#freelance)
+- [Remote Jobs](#remote-jobs)
 - [Digital Nomad](#digital-nomad)
 - [Offshore Payroll is Easy](#offshore-payroll-is-easy)
-- [US LLC](#us-llc)
-  - [US Bank Account](#us-bank-account)
+- [Overseas Companies](#overseas-companies)
+  - [No UK Ltds - Boycott This](#no-uk-ltds---boycott-this)
+  - [US LLC](#us-llc)
+    - [US Bank Account](#us-bank-account)
+  - [Hong Kong](#hong-kong)
+  - [Singapore](#singapore)
+  - [Dubai](#dubai)
 - [Meme](#meme)
   - [Work from Home](#work-from-home)
   - [Working at Office vs Home](#working-at-office-vs-home)
@@ -39,7 +45,14 @@ they can just pay via one of these companies:
 - [Skuad](https://www.skuad.io/)
 - [Wellwork Global](https://workwell-global.com/)
 
-## US LLC
+## Overseas Companies
+
+### No UK Ltds - Boycott This
+
+Do not run a UK Ltd, it is high tax (25% corporation tax)
+and they retained capital/assets on Companies House for anybody on the internet to see.
+
+### US LLC
 
 0% tax as a Non-Resident LLC as long as you don't hire anybody in the US, don't live in the US, and don't have a business address in the US.
 
@@ -52,9 +65,21 @@ People will also feel more comfortable buying from a US company than some random
 
 - [Doola](https://www.doola.com/)
 
-### US Bank Account
+#### US Bank Account
 
 - [Mercury](https://mercury.com/r/internet-made-coder-llc) - technically not a bank, but rather a fintech company
+
+### Hong Kong
+
+0% tax
+
+### Singapore
+
+TODO
+
+### Dubai
+
+9% corporation tax now unfortunately.
 
 ## Meme
 
