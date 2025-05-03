@@ -49,7 +49,9 @@ they can just pay via one of these companies:
 
 ### No UK Ltds - Boycott This
 
-Do not run a UK Ltd, it is high tax (25% corporation tax)
+**Do not run a UK Ltd.**
+
+It is high tax (25% corporation tax)
 and they retained capital/assets on Companies House for anybody on the internet to see.
 
 ### US LLC
