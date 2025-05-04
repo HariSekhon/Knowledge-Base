@@ -803,7 +803,9 @@ or pay for it in advance online before you arrive.
   The fattoush salad was even better, with great crispy bread wafers, kalamata olives and great dressing -
   it's not authentic compared to middle eastern standards such as what you'd get in Dubai, but was excellent
   nonetheless. Even after eating both of these I could have kept eating,
-  partly because the flavours were good and partly because the portions are not big. 35/33 Mbit/s wifi
+  partly because the flavours were good and partly because the portions are not big.
+  The chicken breast with mash is decent too.
+  35/33 Mbit/s wifi
 
 Recommended by LinkedIn connections:
 
