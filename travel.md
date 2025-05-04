@@ -795,8 +795,13 @@ or pay for it in advance online before you arrive.
 
 #### Sofia
 
-- [Happy Bar & Grill](https://maps.app.goo.gl/SjtzPAjcTZ2mViKLA) - on 2nd floor of Mall of Sofia, busy, good menu with
-  wide range of food from western to poke bowls, reasonable prices. 10/10 Mbit wifi, no password
+- [Constantinoff RestoBar](https://maps.app.goo.gl/qMQnibX9Y3mfWhcJ8) - upmarket bar restaurant with great menu,
+  moderate to high prices depending on what you order, but great venue and good vibe. Take a date here.
+  54/70 Mbit/s wifi
+- [Happy Bar & Grill](https://maps.app.goo.gl/qMQnibX9Y3mfWhcJ8) - popular chain restaurant with a good menu with a
+  wide range of food from western to poke bowls, reasonable prices.
+  There is also one on the 2nd floor of the [Mall of Sofia](https://maps.app.goo.gl/SjtzPAjcTZ2mViKLA).
+  10/10 Mbit wifi, no password
 - [Attitude food&wine](https://maps.app.goo.gl/11FYx4eDPHxhbf1R7) - good menu, moderate prices. The beef pasta was very
   good and well presented, with small cubes of good quality beef,
   although I felt the portion size could have been a bit bigger as it comes in big white bowl with drizzle on the side.
@@ -806,6 +811,8 @@ or pay for it in advance online before you arrive.
   partly because the flavours were good and partly because the portions are not big.
   The chicken breast in cream sauce with mashed potatoes is decent too.
   35/33 Mbit/s wifi
+- [Mall of Sofia](https://maps.app.goo.gl/8KBGRr5h19BARadM8) - small provincial level mall but adequate with usual
+  brands, hardly Dubai Mall, but then nothing is
 
 Recommended by LinkedIn connections:
 
