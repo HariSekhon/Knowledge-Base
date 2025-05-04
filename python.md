@@ -44,6 +44,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
   - [Porting Your Language to the JVM](#porting-your-language-to-the-jvm)
   - [ChatGPT Python - What I Expected vs What I Got](#chatgpt-python---what-i-expected-vs-what-i-got)
   - [Imported Package Tariffs](#imported-package-tariffs)
+  - [Friend Showing C++ Code](#friend-showing-c-code)
 
 <!-- INDEX_END -->
 
@@ -446,5 +447,9 @@ I wish I had discovered [Groovy](groovy.md) before [Jython](#jython)...
 ### Imported Package Tariffs
 
 ![Imported Package Tariffs](images/imported_package_tariffs.jpeg)
+
+### Friend Showing C++ Code
+
+![Friend Showing C++ Code](images/friend_showing_c%2B%2B_code.jpeg)
 
 **Partial port from private Knowledge Base page 2008+**
