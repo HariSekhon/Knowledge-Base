@@ -796,8 +796,9 @@ or pay for it in advance online before you arrive.
 #### Sofia
 
 - [Constantinoff RestoBar](https://maps.app.goo.gl/qMQnibX9Y3mfWhcJ8) - upmarket bar restaurant with great menu,
-  moderate to high prices depending on what you order, but great venue and good vibe. Take a date here.
-  54/70 Mbit/s wifi
+  moderate to high prices depending on what you order, but great venue and good vibe.
+  The big horse sujuk (sausage) with herby sliced potato and red pepper is both good in taste and portion size.
+  Take a date here. 54/70 Mbit/s wifi
 - [Happy Bar & Grill](https://maps.app.goo.gl/qMQnibX9Y3mfWhcJ8) - popular chain restaurant with a good menu with a
   wide range of food from western to poke bowls, reasonable prices.
   There is also one on the 2nd floor of the [Mall of Sofia](https://maps.app.goo.gl/SjtzPAjcTZ2mViKLA).
