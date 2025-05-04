@@ -782,11 +782,16 @@ You will need your Google Translate camera app to translate the menu as they don
 
 #### Vignettes - Motorway e-Tolls
 
-A stupid inconvenient hassle road tax, but make sure you pay it to avoid more hassles from over bearing government.
+Annoying road tax, but make sure you pay it to avoid more hassles from over bearing government.
 
-You can use this site:
+The Vignettes toll booth guy told me to go to the Petrol station to pay instead, and something I couldn't understand.
+
+Was easy to just book and pay using this app:
 
 <https://vinetki.bg/en/>
+
+Make sure your [Mobile Internet Access](#mobile-internet-access) is going to work before going to Bulgaria,
+or pay for it in advance online before you arrive.
 
 #### Sofia
 
