@@ -15,6 +15,7 @@
   - [Encoding vs Encryption vs Tokenization](#encoding-vs-encryption-vs-tokenization)
 - [Memes](#memes)
   - [Trump Tariff CSV Imports](#trump-tariff-csv-imports)
+  - [USB vs Floppy](#usb-vs-floppy)
 
 <!-- INDEX_END -->
 
@@ -100,5 +101,9 @@ Free for desktop version:
 ### Trump Tariff CSV Imports
 
 ![Trump Tariff CSV Imports](images/trump_25%25_tariff_on_csv_imports.jpeg)
+
+### USB vs Floppy
+
+![USB vs Floppy](images/usb_tells_floppy_lose_some_weight_fatty.jpeg)
 
 **Ported from private Knowledge Base pages 2016+**
