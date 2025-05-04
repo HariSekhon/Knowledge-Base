@@ -810,6 +810,8 @@ Recommended by LinkedIn connections:
 - [Vodenitzata](https://maps.app.goo.gl/VZEiv1XuXWiR4P278)
 - [Тихият кът](https://maps.app.goo.gl/ZJEqvZdUw7MGfjEdA)
 - [Restaurant White River](https://maps.app.goo.gl/3zuEmQqXNFxF5H7m6)
+- [Pod Metlite](https://maps.app.goo.gl/48Wd44h2rzu4dKgL9)
+- [Banisha Mia Beykeri](https://maps.app.goo.gl/RifNbnkAiKhDjQE7A) - good banica apparently, get there before 9am when it's fresh
 
 ### Cambodia
 
