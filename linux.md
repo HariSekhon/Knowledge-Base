@@ -27,6 +27,7 @@
   - [How I Sleep](#how-i-sleep)
   - [Standardizing on Distro](#standardizing-on-distro)
   - [Linux Cars](#linux-cars)
+  - [Windows Problems vs Linux Problems](#windows-problems-vs-linux-problems)
 
 <!-- INDEX_END -->
 
@@ -395,5 +396,11 @@ But then you discover [Macs](mac.md) and spend it anyway...
 ### Linux Cars
 
 ![Linux Cars](images/linux_cars.jpeg)
+
+### Windows Problems vs Linux Problems
+
+Mac falls somewhere in between the two, depending on the problem...
+
+![Windows Problems vs Linux Problems](images/windows_problems_reboot_linux_problems_be_root.jpeg)
 
 **Ported from various private Knowledge Base pages 2002+**
