@@ -34,6 +34,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
   - [Install](#install)
   - [Run](#run)
   - [Code](#code)
+- [Useful Third Party Sites](#useful-third-party-sites)
 - [Troubleshooting](#troubleshooting)
   - [Python Fault Handler](#python-fault-handler)
     - [Enable Python Fault Handler](#enable-python-fault-handler)
@@ -344,6 +345,12 @@ jython -J-cp "$CLASSPATH" "file.py"
 
 Some Jython programs, such as those using [Hadoop](hadoop.md) [HDFS](hdfs.md) Java API can be found in the
 [DevOps-Python-tools](devops-python) repo.
+
+## Useful Third Party Sites
+
+- [PythonAnywhere](https://www.pythonanywhere.com/) - fully hosted Python apps / webapps with a
+  `<username>.pythonanywhere.com` domain and long list of libraries pre-installed
+  [batteries included](https://www.pythonanywhere.com/batteries_included/)
 
 ## Troubleshooting
 
