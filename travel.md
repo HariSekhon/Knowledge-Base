@@ -805,6 +805,12 @@ or pay for it in advance online before you arrive.
   nonetheless. Even after eating both of these I could have kept eating,
   partly because the flavours were good and partly because the portions are not big. 35/33 Mbit/s wifi
 
+Recommended by LinkedIn connections:
+
+- [Vodenitzata](https://maps.app.goo.gl/VZEiv1XuXWiR4P278)
+- [Тихият кът](https://maps.app.goo.gl/ZJEqvZdUw7MGfjEdA)
+- [Restaurant White River](https://maps.app.goo.gl/3zuEmQqXNFxF5H7m6)
+
 ### Cambodia
 
 If you have limited time, just do Siem Reap and skip the capital Phnom Penh, it has far better venues
