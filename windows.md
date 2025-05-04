@@ -25,6 +25,7 @@
   - [Headquarters](#headquarters)
   - [Wizard Install Software](#wizard-install-software)
   - [Best Keyboard for Programming](#best-keyboard-for-programming)
+  - [Windows Problems vs Linux Problems](#windows-problems-vs-linux-problems)
 
 <!-- INDEX_END -->
 
@@ -335,3 +336,9 @@ How many of you dweebs are still using Windows instead of Linux or Mac?
 ### Best Keyboard for Programming
 
 ![Best Keyboard for Programming](images/best_keyboard_for_programming.jpeg)
+
+### Windows Problems vs Linux Problems
+
+Mac falls somewhere in between the two, depending on the problem...
+
+![Windows Problems vs Linux Problems](images/windows_problems_reboot_linux_problems_be_root.jpeg)
