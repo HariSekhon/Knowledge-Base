@@ -37,6 +37,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
 - [Python Hosting Sites](#python-hosting-sites)
   - [Hosted Python WebApps](#hosted-python-webapps)
   - [Hosted Jupyter Notebooks](#hosted-jupyter-notebooks)
+  - [Other Hosted Python](#other-hosted-python)
 - [Troubleshooting](#troubleshooting)
   - [Python Fault Handler](#python-fault-handler)
     - [Enable Python Fault Handler](#enable-python-fault-handler)
@@ -363,6 +364,10 @@ Some Jython programs, such as those using [Hadoop](hadoop.md) [HDFS](hdfs.md) Ja
 
 - [Google Collab](https://colab.research.google.com/) - Jupyter Notebooks in the cloud with free access to GPUs
 - [Binder](https://mybinder.org/) - run Jupyter Notebooks from GitHub repos
+
+### Other Hosted Python
+
+- [fly.io](https://fly.io/) - code execution sandbox, runs any Docker image
 
 ## Troubleshooting
 
