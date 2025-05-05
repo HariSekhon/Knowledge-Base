@@ -13,6 +13,7 @@
   - [Agile MVP](#agile-mvp)
   - [Big Plans Beaver](#big-plans-beaver)
   - [Born Too Early, Late](#born-too-early-late)
+  - [Ask Dedicated Scrum Master What They Do After Scrum Meeting](#ask-dedicated-scrum-master-what-they-do-after-scrum-meeting)
 
 <!-- INDEX_END -->
 
@@ -64,3 +65,7 @@ A waste of time from an engineer's perspective that could be replaced with 2-3 b
 ### Born Too Early, Late
 
 ![Born Too Early, Late](images/born_too_early_late_agile.jpeg)
+
+### Ask Dedicated Scrum Master What They Do After Scrum Meeting
+
+![Ask Scrum Master What They Do After Scrum Meeting](images/ask_dedicated_scrum_master_what_they_do_after_scrum.jpeg)
