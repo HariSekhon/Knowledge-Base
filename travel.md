@@ -819,6 +819,9 @@ or pay for it in advance online before you arrive.
   partly because the flavours were good and partly because the portions are not big.
   The chicken breast in cream sauce with mashed potatoes is decent too.
   35/33 Mbit/s wifi
+- [Staria Chinar](https://maps.app.goo.gl/jwiUxptFTrMmm8o4A) - good Bulgarian restaurant, with lots of outdoor and
+  indoor seating. The pork meatballs were reasonable, as side dishes the potatoes with dill and garlic were good,
+  as were the grilled vegetables. Wifi was a bit sluggish, rated at 8/4 Mbit/s though
 - [Mall of Sofia](https://maps.app.goo.gl/8KBGRr5h19BARadM8) - small provincial level mall but adequate with usual
   brands, hardly Dubai Mall, but then nothing is
 
