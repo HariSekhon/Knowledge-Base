@@ -60,6 +60,7 @@
   - [Vibe Coding, Vibe Debugging](#vibe-coding-vibe-debugging)
   - [Assembly](#assembly)
   - [C for the Brave and Foolish](#c-for-the-brave-and-foolish)
+  - [Built Same Project in Multiple Languages](#built-same-project-in-multiple-languages)
 
 <!-- INDEX_END -->
 
@@ -533,5 +534,9 @@ When you’re thinking about how to improve that code you wrote last night… �
 ### C for the Brave and Foolish
 
 ![C for the Brave and Foolish](images/orly_c_for_brave_and_foolish.jpeg)
+
+### Built Same Project in Multiple Languages
+
+![Built Same Project in Multiple Languages](images/same_project_multiple_languages_hello_world.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
