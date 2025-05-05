@@ -19,6 +19,7 @@
   - [Office Culture](#office-culture)
   - [Digital Nomadding - Run Wild Like a Stallion](#digital-nomadding---run-wild-like-a-stallion)
   - [Build A Life You Don't Need a Vacation From](#build-a-life-you-dont-need-a-vacation-from)
+  - [Dev vs Dev Working From Home](#dev-vs-dev-working-from-home)
 
 <!-- INDEX_END -->
 
@@ -108,3 +109,9 @@ TODO
 ### Build A Life You Don't Need a Vacation From
 
 ![Build A Life You Don't Need a Vacation From](images/goal_build_life_dont_need_vacation_from.jpeg)
+
+### Dev vs Dev Working From Home
+
+You guys bother wearing your glasses and trunks when working from home? 😂
+
+![Dev vs Dev Working From Home](images/dev_vs_dev_working_from_home_clothing.jpeg)
