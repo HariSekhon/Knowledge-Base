@@ -37,6 +37,7 @@
     - [Eclipse Plugins](#eclipse-plugins)
 - [Meme](#meme)
   - [Light Theme IDE](#light-theme-ide)
+  - [Powerful Computer](#powerful-computer)
 
 <!-- INDEX_END -->
 
@@ -316,5 +317,9 @@ IntelliJ also has JSON error validation, but it's not as good as it's hard to se
 Any of you who advocate for light theme IDE are not to be trusted in my opinion... 😉😂
 
 ![Light Theme IDE](images/light_theme_ide.jpeg)
+
+### Powerful Computer
+
+![Powerful Computer, IDE with Dark Theme, My Code](images/powerful_computer_ide_with_dark_theme_my_code.jpeg)
 
 **Ported from various private Knowledge Base pages 2013+**
