@@ -28,6 +28,7 @@
   - [Standardizing on Distro](#standardizing-on-distro)
   - [Linux Cars](#linux-cars)
   - [Windows Problems vs Linux Problems](#windows-problems-vs-linux-problems)
+  - [Linux Inside](#linux-inside)
 
 <!-- INDEX_END -->
 
@@ -402,5 +403,9 @@ But then you discover [Macs](mac.md) and spend it anyway...
 Mac falls somewhere in between the two, depending on the problem...
 
 ![Windows Problems vs Linux Problems](images/windows_problems_reboot_linux_problems_be_root.jpeg)
+
+### Linux Inside
+
+![Linux Inside](images/linux_rick_morty.jpeg)
 
 **Ported from various private Knowledge Base pages 2002+**
