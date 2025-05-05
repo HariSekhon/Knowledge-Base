@@ -5,7 +5,7 @@
 - [Local Dev](#local-dev)
 - [Cloud](#cloud)
 - [On Premise](#on-premise)
-- [Machine Learning](#machine-learning)
+- [AI & Machine Learning](#ai--machine-learning)
 - [Configs](#configs)
 - [Scripts](#scripts)
 - [`.envrc`](#envrc)
@@ -36,6 +36,8 @@
 - [Troubleshooting](#troubleshooting)
   - [Capture Pod Logs & Stats](#capture-pod-logs--stats)
   - [Killing a Namespace that's stuck](#killing-a-namespace-thats-stuck)
+- [Memes](#memes)
+  - [Is Kubernetes Easy](#is-kubernetes-easy)
 
 <!-- INDEX_END -->
 
@@ -335,5 +337,11 @@ patching:
 ```shell
 kubernetes_delete_stuck_namespace.sh <namespace>
 ```
+
+## Memes
+
+### Is Kubernetes Easy
+
+![Is Kubernetes Easy](images/is_kubernetes_easy.jpg)
 
 **Partial port from private Knowledge Base page 2015+**
