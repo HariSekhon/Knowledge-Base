@@ -22,6 +22,7 @@ It's nothing to do with Java.
   - [JavaScript TypeScript Friends](#javascript-typescript-friends)
   - [Men Who Take Risks](#men-who-take-risks)
   - [Imported Package Tariffs](#imported-package-tariffs)
+  - [Why Are You Crying Son](#why-are-you-crying-son)
 
 <!-- INDEX_END -->
 
@@ -302,3 +303,7 @@ Use `tsx` instead.
 ### Imported Package Tariffs
 
 ![Imported Package Tariffs](images/imported_package_tariffs.jpeg)
+
+### Why Are You Crying Son
+
+![Why Are You Crying Son, You've Been Coding in JavaScript](images/crying_coding_in_javascript.jpeg)
