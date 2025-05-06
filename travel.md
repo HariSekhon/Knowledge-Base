@@ -809,8 +809,8 @@ or pay for it in advance online before you arrive.
   (I ask for a second one for the protein, although this is overload and comes stacked as the sourdough isn't that big).
   The homemade passionfruit, basil and raspberry lemonade is good, but not worth the sugar for me, I'd rather have abs.
   11/16 Mbit/s wifi
-- [Beyond Brkfst](https://maps.app.goo.gl/hqeajmbxW4zLmkLG9) - eggs florentine (poached eggs with smoked salmon) was
-  decent, although the service was not good, but that might change. 282/113 Mbit/s wifi
+- [Beyond Brkfst](https://maps.app.goo.gl/hqeajmbxW4zLmkLG9) - eggs florentine (poached eggs with smoked salmon on
+  sourdough toast) was decent, although the service was not good, but that might change. 282/113 Mbit/s wifi
 - [Happy Bar & Grill](https://maps.app.goo.gl/qMQnibX9Y3mfWhcJ8) - popular chain restaurant with a good menu with a
   wide range of food from western to poke bowls, reasonable prices.
   There is also one on the 2nd floor of the [Mall of Sofia](https://maps.app.goo.gl/SjtzPAjcTZ2mViKLA).
