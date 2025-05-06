@@ -10,6 +10,7 @@ Hope you're enjoying the memes throughout this knowledge base!
 - [Memedroid](#memedroid)
 - [Giphy](#giphy)
 - [Tenor](#tenor)
+- [Canva](#canva)
 - [MakeAMeme](#makeameme)
 - [MemeGenerator](#memegenerator)
 
@@ -38,6 +39,10 @@ Search here for a witty reply gif.
 Known more for gifs than memes.
 
 Search here for a witty reply gif.
+
+## Canva
+
+<https://www.canva.com/>
 
 ## MakeAMeme
 
