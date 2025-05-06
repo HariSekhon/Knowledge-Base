@@ -13,6 +13,11 @@ Hope you're enjoying the memes throughout this knowledge base!
 - [Canva](#canva)
 - [MakeAMeme](#makeameme)
 - [MemeGenerator](#memegenerator)
+- [KnowYourMeme](#knowyourmeme)
+- [iFunny](#ifunny)
+- [CheezBurger](#cheezburger)
+- [BoredPanda](#boredpanda)
+- [9gag](#9gag)
 
 <!-- INDEX_END -->
 
@@ -51,3 +56,25 @@ Search here for a witty reply gif.
 ## MemeGenerator
 
 <https://memegenerator.net/>
+
+## KnowYourMeme
+
+<https://knowyourmeme.com/>
+
+Meme Encyclopedia.
+
+## iFunny
+
+<https://ifunny.co/>
+
+## CheezBurger
+
+<https://www.cheezburger.com/>
+
+## BoredPanda
+
+<https://www.boredpanda.com/>
+
+## 9gag
+
+<https://9gag.com/>
