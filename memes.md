@@ -18,6 +18,7 @@ Hope you're enjoying the memes throughout this knowledge base!
 - [CheezBurger](#cheezburger)
 - [BoredPanda](#boredpanda)
 - [9gag](#9gag)
+- [QuickMeme](#quickmeme)
 
 <!-- INDEX_END -->
 
@@ -80,3 +81,7 @@ Meme Encyclopedia.
 ## 9gag
 
 <https://9gag.com/>
+
+## QuickMeme
+
+<http://www.quickmeme.com/>
