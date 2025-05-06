@@ -49,6 +49,8 @@ Search here for a witty reply gif.
 
 <https://www.canva.com/>
 
+Versatile site that can create many different types of media.
+
 ## MakeAMeme
 
 <https://makeameme.org/>
