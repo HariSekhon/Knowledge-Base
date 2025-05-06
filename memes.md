@@ -13,6 +13,7 @@ Hope you're enjoying the memes throughout this knowledge base!
 - [Canva](#canva)
 - [MakeAMeme](#makeameme)
 - [MemeGenerator](#memegenerator)
+- [Imgur](#imgur)
 - [KnowYourMeme](#knowyourmeme)
 - [iFunny](#ifunny)
 - [CheezBurger](#cheezburger)
@@ -59,6 +60,10 @@ Versatile site that can create many different types of media.
 ## MemeGenerator
 
 <https://memegenerator.net/>
+
+## Imgur
+
+<https://imgur.com/meme-generator>
 
 ## KnowYourMeme
 
