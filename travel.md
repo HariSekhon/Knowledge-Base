@@ -799,6 +799,9 @@ or pay for it in advance online before you arrive.
   moderate to high prices depending on what you order, but great venue and good vibe.
   The big horse sujuk (sausage) with herby sliced potato and red pepper is both good in taste and portion size.
   Take a date here. 54/70 Mbit/s wifi
+- [StandArt Restaurant](https://maps.app.goo.gl/s6sunDXPuxSqpXFr6) - they don't have the horse sausage any more, but the
+  pork scallopini (3 thin steaks) with lemon & butter was excellent, it comes with salad, and although I asked for a
+  side of mash, it came as very crispy roasted herby potatoes but they were good too. 64/43 Mbit/s wifi
 - [718 Breakfast & Brunch](https://maps.app.goo.gl/HJFmXxitMJcbuejz8) - gentrified cafe with western prices,
   obviously targeting foreigners.
   Has acai bowls.
@@ -806,6 +809,8 @@ or pay for it in advance online before you arrive.
   (I ask for a second one for the protein, although this is overload and comes stacked as the sourdough isn't that big).
   The homemade passionfruit, basil and raspberry lemonade is good, but not worth the sugar for me, I'd rather have abs.
   11/16 Mbit/s wifi
+- [Beyond Brkfst](https://maps.app.goo.gl/hqeajmbxW4zLmkLG9) - eggs florentine (poached eggs with smoked salmon) was
+  decent, although the service was not good, but that might change. 282/113 Mbit/s wifi
 - [Happy Bar & Grill](https://maps.app.goo.gl/qMQnibX9Y3mfWhcJ8) - popular chain restaurant with a good menu with a
   wide range of food from western to poke bowls, reasonable prices.
   There is also one on the 2nd floor of the [Mall of Sofia](https://maps.app.goo.gl/SjtzPAjcTZ2mViKLA).
