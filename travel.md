@@ -828,8 +828,12 @@ or pay for it in advance online before you arrive.
 - [Staria Chinar](https://maps.app.goo.gl/jwiUxptFTrMmm8o4A) - good Bulgarian restaurant, with lots of outdoor and
   indoor seating. The pork meatballs were reasonable, as side dishes the potatoes with dill and garlic were good,
   as were the grilled vegetables. Wifi was a bit sluggish, rated at 8/4 Mbit/s though
+- [Serdika Center](https://maps.app.goo.gl/ucTqA8HWozq6QoUx7) - bigger better mall than the Mall of Sofia, with all the
+  usual brands, but slightly farther from the center
 - [Mall of Sofia](https://maps.app.goo.gl/8KBGRr5h19BARadM8) - small provincial level mall but adequate with usual
   brands, hardly Dubai Mall, but then nothing is
+- [Central Sofia Market Hall](https://maps.app.goo.gl/fk1b6RSupbk19WpT9) - the WholeFoods of Sofia, very gentrified, but
+  with prices to match
 
 Recommended by LinkedIn connections:
 
