@@ -795,10 +795,11 @@ or pay for it in advance online before you arrive.
 
 #### Sofia
 
-- [Constantinoff RestoBar](https://maps.app.goo.gl/qMQnibX9Y3mfWhcJ8) - upmarket bar restaurant with great menu,
-  moderate to high prices depending on what you order, but great venue and good vibe.
+- [Constantinoff RestoBar](https://maps.app.goo.gl/qMQnibX9Y3mfWhcJ8) - upmarket bar restaurant on the main strip with
+  great menu, moderate to high prices depending on what you order, but great venue and good vibe.
   The big horse sujuk (sausage) with herby sliced potato and red pepper is both good in taste and portion size.
   Take a date here. 54/70 Mbit/s wifi
+- [Lavelé Garden](https://maps.app.goo.gl/DaAqVruKfe6LoKsW9) - upmarket restaurant, also on the main strip
 - [StandArt Restaurant](https://maps.app.goo.gl/s6sunDXPuxSqpXFr6) - a little off the beaten track, but then good foodie
   places often are. They don't have the horse sausage any more, but the pork scallopini (3 thin steaks) in mouth
   tantalizing lemon & butter coating was excellent, it comes with salad, and although I asked for a side of mashed
