@@ -805,8 +805,8 @@ or pay for it in advance online before you arrive.
 
 - [Vitosha Boulevard](https://maps.app.goo.gl/8Sug4GPGr2pPUtEJ9) - north of the Google Maps pinpoint is where most of
   the restaurants and shops are
-- [Constantinoff RestoBar](https://maps.app.goo.gl/qMQnibX9Y3mfWhcJ8) - upmarket bar restaurant on Vitosha boulevard with
-  great menu, moderate to high prices depending on what you order, but great venue and good vibe.
+- [Constantinoff RestoBar](https://maps.app.goo.gl/qMQnibX9Y3mfWhcJ8) - upmarket bar restaurant on Vitosha boulevard
+  with great menu, moderate to high prices depending on what you order, but great venue and good vibe.
   The big horse sujuk (sausage) with herby sliced potato and red pepper is both good in taste and portion size.
   Take a date here. 54/70 Mbit/s wifi
 - [Lavelé Garden](https://maps.app.goo.gl/DaAqVruKfe6LoKsW9) - upmarket restaurant on Vitosha boulevard.
