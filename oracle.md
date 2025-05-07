@@ -94,6 +94,8 @@ Including no use of these commands:
 - `GRANT ANY PRIVILEGE`
 - `GRANT ANY ROLE`
 
+[AWS Oracle DBA Tasks PDF](https://docs.aws.amazon.com/pdfs/AmazonRDS/latest/UserGuide/rds-ug.pdf).
+
 ## Install Oracle Client Packages - SQL*Plus, JDBC, ODBC, SDK
 
 <https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html>
@@ -1037,6 +1039,10 @@ Create a new smaller 'undo' tablespace:
 ```sql
 CREATE UNDO TABLESPACE new_undo_ts DATAFILE SIZE 100G AUTOEXTEND ON NEXT 1G MAXSIZE 500G;
 ```
+
+Switch to the new undo tablespace.
+On AWS RDS this is actually quite a bit problem since the `ALTER SYSTEM` command is not allowed
+and therefore requires a database restart.
 
 Set system to use new undo tablespace:
 
