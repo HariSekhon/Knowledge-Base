@@ -886,7 +886,8 @@ your withdrawal notes will be in \$100 bills,
 that'll result in your first dining bill returning nearly 400,000 Cambodian riels,
 which if you're only visiting for a short time you may have trouble spending in time.
 
-Also, be careful they don't give you fake dollars back.
+Also, be careful restaurants and other locals don't give you fake dollars back.
+Street vendors will usually only give change in Riels.
 
 #### Cambodia Taxis
 
