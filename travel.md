@@ -721,7 +721,7 @@ get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return 
 
 Some more specific tips for different countries.
 
-Number of Countries: 26
+Number of Countries: 36
 Countries in 2024: - 18 - UAE, France, Belgium, Germany, Poland, Lithuania, Latvia, Estonia, Sweden, Slovakia, Hungary, Serbia, Morocco, Moldova, Turkey, Georgia, Thailand, Vietnam - not counting England and Wales (the latter was borderline)
 
 ### Austria
