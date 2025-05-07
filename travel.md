@@ -807,8 +807,7 @@ or pay for it in advance online before you arrive.
   potatoes, I was served very crispy roasted herby potatoes, but they were also good too. 64/43 Mbit/s wifi
 - [718 Breakfast & Brunch](https://maps.app.goo.gl/HJFmXxitMJcbuejz8) - gentrified cafe with western prices,
   obviously targeting foreigners.
-  Has acai bowls.
-  The egg avocado sourdough toast was decent, but only comes with 1 egg
+  Has acai bowls. The egg avocado sourdough toast was decent, but only comes with 1 egg
   (I ask for a second one for the protein, although this is overload and comes stacked as the sourdough isn't that big).
   The homemade passionfruit, basil and raspberry lemonade is good, but not worth the sugar for me, I'd rather have abs.
   11/16 Mbit/s wifi
