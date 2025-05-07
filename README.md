@@ -652,7 +652,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 - [Monitoring](monitoring.md)
 - [Nagios](nagios.md)
-- [Prometheus](prometheus.md) TODO
+- [Prometheus](prometheus.md)
 - [Thanos](thanos.md) TODO
 - [Grafana](grafana.md) TODO
 - [Notifications](notifications.md)
