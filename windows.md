@@ -26,6 +26,7 @@
   - [Wizard Install Software](#wizard-install-software)
   - [Best Keyboard for Programming](#best-keyboard-for-programming)
   - [Windows Problems vs Linux Problems](#windows-problems-vs-linux-problems)
+  - [Linux Users Switching Back After 10 Minutes of Using Windows](#linux-users-switching-back-after-10-minutes-of-using-windows)
 
 <!-- INDEX_END -->
 
@@ -340,5 +341,9 @@ How many of you dweebs are still using Windows instead of Linux or Mac?
 ### Windows Problems vs Linux Problems
 
 Mac falls somewhere in between the two, depending on the problem...
+
+### Linux Users Switching Back After 10 Minutes of Using Windows
+
+![Linux Users Switching Back After 10 Minutes of Using Windows](images/linux_users_switching_back_after_10_mins_using_windows.jpeg)
 
 ![Windows Problems vs Linux Problems](images/windows_problems_reboot_linux_problems_be_root.jpeg)
