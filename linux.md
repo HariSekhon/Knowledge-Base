@@ -29,6 +29,7 @@
   - [Linux Cars](#linux-cars)
   - [Windows Problems vs Linux Problems](#windows-problems-vs-linux-problems)
   - [Linux Inside](#linux-inside)
+  - [Linux Users Switching Back After 10 Minutes of Using Windows](#linux-users-switching-back-after-10-minutes-of-using-windows)
 
 <!-- INDEX_END -->
 
@@ -407,5 +408,9 @@ Mac falls somewhere in between the two, depending on the problem...
 ### Linux Inside
 
 ![Linux Inside](images/linux_rick_morty.jpeg)
+
+### Linux Users Switching Back After 10 Minutes of Using Windows
+
+![Linux Users Switching Back After 10 Minutes of Using Windows](images/linux_users_switching_back_after_10_mins_using_windows.jpeg)
 
 **Ported from various private Knowledge Base pages 2002+**
