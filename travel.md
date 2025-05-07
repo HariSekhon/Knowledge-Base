@@ -817,6 +817,7 @@ or pay for it in advance online before you arrive.
   sourdough toast) was decent, although the service was not good, but that might change. 282/113 Mbit/s wifi
 - [Happy Bar & Grill](https://maps.app.goo.gl/qMQnibX9Y3mfWhcJ8) - popular chain restaurant with a good menu with a
   wide range of food from western to poke bowls, reasonable prices.
+  The tuna and salmon poke bowl is an excellent healthy choice here for around 20BGN (~£8.70).
   There is also one on the 2nd floor of the [Mall of Sofia](https://maps.app.goo.gl/SjtzPAjcTZ2mViKLA).
   10/10 Mbit wifi, no password
 - [Attitude food&wine](https://maps.app.goo.gl/11FYx4eDPHxhbf1R7) - good menu, moderate prices. The beef pasta was very
