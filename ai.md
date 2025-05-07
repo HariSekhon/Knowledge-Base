@@ -14,6 +14,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Grok](#grok)
   - [Meta AI](#meta-ai)
   - [Perplexity](#perplexity)
+  - [Google AI Studio - Gemini](#google-ai-studio---gemini)
   - [SQL Chat](#sql-chat)
   - [LLM](#llm)
     - [Ollama](#ollama)
@@ -33,6 +34,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 - [Coding](#coding)
 - [RAG - Retrieval Augmented Generation](#rag---retrieval-augmented-generation)
 - [Debugging](#debugging)
+- [Job Search](#job-search)
 - [List of AI Tools By Categories](#list-of-ai-tools-by-categories)
 - [Meme](#meme)
   - [LLM - How to Plagiarize Like a Pro](#llm---how-to-plagiarize-like-a-pro)
@@ -49,6 +51,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [AI Finger Hack - Inadmissable Evidence](#ai-finger-hack---inadmissable-evidence)
   - [Sales Guys wants to use Blockchain & AI](#sales-guys-wants-to-use-blockchain--ai)
   - [Vibe Coding is Easy](#vibe-coding-is-easy)
+  - [Guys Who Thank ChatGPT](#guys-who-thank-chatgpt)
 
 <!-- INDEX_END -->
 
@@ -83,6 +86,10 @@ By Elon / X:
 ### Perplexity
 
 <https://www.perplexity.ai/>
+
+### Google AI Studio - Gemini
+
+<https://aistudio.google.com/>
 
 ### SQL Chat
 
@@ -192,6 +199,8 @@ print(result["text"])
 
 - [InVideo AI](https://invideo.io/) - generate high production quality videos from text prompts
 - [LumaLabs Dream Machine](https://lumalabs.ai/dream-machine) - pics or video
+- [Kawping](https://www.kapwing.com/)
+- [Canva](https://www.canva.com/)
 
 <!--
 
@@ -211,12 +220,16 @@ print(result["text"])
 
 ## App Generation
 
-- [Lovable](https://lovable.dev/) - Idea to app in seconds
+Idea to app in seconds.
+
+- [Lovable](https://lovable.dev/)
+- [Bubble](https://bubble.io/)
+- [Flutterflow](https://www.flutterflow.io/)
 
 ## Coding
 
 - [GitHub CoPilot](https://github.com/features/copilot)
-- [TabNine](https://www.tabnine.com) - support for all major IDEs including my favourite [IntelliJ](intellij.md)
+- [TabNine](https://www.tabnine.com) - support for all major IDEs including my favourite [IntelliJ](intellij.md), no longer a free tier
 - [Cursor AI](https://www.cursor.com) - separate Editor that requires download, limited completions in free edition
 - [Agentic](https://www.agentic.ai/)
 - [Windsurf](https://windsurf.com/editor)
@@ -238,6 +251,10 @@ Combines LLM with referencing an authoritative traditional Knowledge Base before
 ## Debugging
 
 - [:octocat: robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt)
+
+## Job Search
+
+- [MobiusAI](https://www.mobiusengine.ai/)
 
 ## List of AI Tools By Categories
 
@@ -302,3 +319,7 @@ Watch out for that quality and not knowing WTF you're doing!
 ### Vibe Coding is Easy
 
 ![Vibe Coding is Easy](images/vibe_coding_performance_vulnerabilities.jpeg)
+
+### Guys Who Thank ChatGPT
+
+![Guys Who Thank ChatGPT](images/ai_spares_guy_for_thanking_chatgpt.png)
