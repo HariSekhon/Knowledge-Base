@@ -887,7 +887,7 @@ that'll result in your first dining bill returning nearly 400,000 Cambodian riel
 which if you're only visiting for a short time you may have trouble spending in time.
 
 Also, be careful restaurants and other locals don't give you fake dollars back.
-Street vendors will usually only give change in Riels.
+Street vendors will usually only give change in local Cambodian currency, riels.
 
 #### Cambodia Taxis
 
