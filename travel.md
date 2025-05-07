@@ -719,8 +719,6 @@ get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return 
 
 ## Countries
 
-Some more specific tips for different countries.
-
 Number of Countries: 36
 
 - Countries in 2024: 18
@@ -731,6 +729,8 @@ Number of Countries: 36
     Moldova, Turkey, Georgia, Thailand, Vietnam
 - Countries in 2025: 9
   - Vietnam, Cambodia, Laos, Bali (Indonesia), Malayasia, Singapore, Taiwan, Serbia, Bulgaria
+
+Below are specific tips for each country, including transport, restaurants etc.
 
 ### Austria
 
