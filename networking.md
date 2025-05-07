@@ -16,8 +16,10 @@
     - [Local Network Speed Test](#local-network-speed-test)
     - [Internet Network Speed Test](#internet-network-speed-test)
       - [Speedtest.net](#speedtestnet)
+      - [SpeedTest.net App](#speedtestnet-app)
+      - [SpeedTest.net CLI](#speedtestnet-cli)
       - [Fast.com](#fastcom)
-- [Nethogs - Top for Network Process](#nethogs---top-for-network-process)
+- [3rd Party Tools](#3rd-party-tools)
 - [Diagrams](#diagrams)
   - [Network - Layer 2 - Local - ARP](#network---layer-2---local---arp)
   - [Network - Layer 3 - Remote - IP](#network---layer-3---remote---ip)
@@ -149,7 +151,24 @@ iperf -c "$ip"  # of above machine
 
 <https://www.speedtest.net/>
 
-You can use it website or the CLI version below:
+You can use it via:
+
+1. Website
+2. Apps
+3. CLI
+
+##### SpeedTest.net App
+
+I've started
+using this more
+because the app on iPhone and Mac records the speed test results along with which wifi network you were on at the time.
+
+This is useful to keep a record to check back
+and it's also both easy to use and gives a nice GUI speedometer as well as jitter graph.
+
+<https://www.speedtest.net/apps>
+
+##### SpeedTest.net CLI
 
 [:ctocat: sivel/speedtest-cli](https://github.com/sivel/speedtest-cli)
 
@@ -217,7 +236,13 @@ Cannot retrieve speedtest configuration
 ERROR: HTTP Error 403: Forbidden
 ```
 
-in which case just use [the website](https://www.speedtest.net/), which still works in that scenario.
+in which case this might help:
+
+```shell
+speedtest --secure
+```
+
+or just use [the website](https://www.speedtest.net/), which still works in that scenario.
 
 An alternative CLI for speedtest.net can be found at
 
@@ -274,17 +299,25 @@ Optionally use `--json` switch to output in [JSON](json.md) format.
 }
 ```
 
-## Nethogs - Top for Network Process
+## 3rd Party Tools
 
-[:octocat: raboof/nethogs](https://github.com/raboof/nethogs)
-
-```shell
-brew install nethogs
-```
-
-```shell
-sudo nethogs
-```
+- [ifstat](http://gael.roualland.free.fr/ifstat/) shows network traffic by interface in a vmstat/iostat-like manner
+- [iftop](http://ex-parrot.com/~pdw/iftop/) - shows network traffic by service and host
+- [ettercap](http://ettercap.sf.net/) - network sniffer / interceptor / logger for ethernet
+- [bandwhich](https://github.com/imsnif/bandwhich) - is a terminal bandwidth utilization tool
+- [nettop](http://srparish.net/scripts/) - shows packet types, sorts by either size or number of packets
+- [darkstat](http://purl.org/net/darkstat/) - breaks down traffic by host, protocol, etc. Geared towards analysing traffic gathered over a longer
+  period, rather than live viewing
+- [iptraf-ng](https://github.com/iptraf-ng/iptraf-ng) - console-based network monitoring program for Linux that displays information about IP traffic
+- [iptstate](https://www.phildev.net/iptstate/index.shtml) - top-like interface to your netfilter connection-tracking table
+- [flowtop](http://netsniff-ng.org/) - top-like netfilter connection tracking tool
+- [BusyTasks](https://www.pling.com/p/1201835) - java-based app using top, iotop and nethogs as backend
+- [sniffer](https://github.com/chenjiandongx/sniffer) - modern alternative network traffic sniffer
+- [nettop (by Emanuele Oriani)](http://nettop.youlink.org/) - simple process/network usage report for Linux
+- [hogwatch](https://github.com/akshayKMR/hogwatch) - bandwidth monitor (per process) with graphs for desktop/web
+- [nethogs](https://github.com/raboof/nethogs) - top for Network Process
+- [nethogs-qt](http://slist.lilotux.net/linux/nethogs-qt/index_en.html) Qt-based GUI
+- [gnethogs](https://github.com/mbfoss/gnethogs) - GTK-based GUI (work-in-progress)
 
 ## Diagrams
 
