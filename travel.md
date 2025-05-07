@@ -801,7 +801,7 @@ or pay for it in advance online before you arrive.
   Take a date here. 54/70 Mbit/s wifi
 - [Lavelé Garden](https://maps.app.goo.gl/DaAqVruKfe6LoKsW9) - upmarket restaurant on the main strip.
   Brunch menu until 5pm. 7.5/92 Mbit/s wifi
-  - [Lavelé Kitchen&Bar](https://maps.app.goo.gl/EbyiN3C3QxN681Q46) - sister restaurant, but brunch menu only until 3pm
+- [Lavelé Kitchen&Bar](https://maps.app.goo.gl/EbyiN3C3QxN681Q46) - sister restaurant, but brunch menu only until 3pm
 - [StandArt Restaurant](https://maps.app.goo.gl/s6sunDXPuxSqpXFr6) - a little off the beaten track, but then good foodie
   places often are. They don't have the horse sausage any more, but the pork scallopini (3 thin steaks) in mouth
   tantalizing lemon & butter coating was excellent, it comes with salad, and although I asked for a side of mashed
