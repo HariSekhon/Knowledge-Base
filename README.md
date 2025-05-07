@@ -654,7 +654,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Nagios](nagios.md)
 - [Prometheus](prometheus.md)
 - [Thanos](thanos.md) TODO
-- [Grafana](grafana.md) TODO
+- [Grafana](grafana.md) TODO (partial)
 - [Notifications](notifications.md)
   - [OpsGenie](opsgenie.md)
   - [PagerDuty](pagerduty.md) TODO
