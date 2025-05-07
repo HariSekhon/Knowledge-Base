@@ -811,7 +811,8 @@ or pay for it in advance online before you arrive.
   Take a date here. 54/70 Mbit/s wifi
 - [Lavelé Garden](https://maps.app.goo.gl/DaAqVruKfe6LoKsW9) - upmarket restaurant on Vitosha boulevard.
   Brunch menu until 5pm. The Full Balkan Breakfast is very good (but then it should be for 22BGM! ~£10), and the bread
-  in it is excellent, soft infused with olive oil / butter. Good music, like my
+  in it is excellent, soft infused with olive oil / butter. Ask for an extra egg as it only comes with one
+  (1.50BGN extra). Good music, like my
   [Upbeat & Sexual Pop](https://open.spotify.com/playlist/64OO67Be8wOXn6STqHxexr?si=tAH3h23xTvmxjAyDnGZQSA) Spotify
   playlist, shazamming lots. 7.5/92 Mbit/s wifi
   - [Lavelé Kitchen&Bar](https://maps.app.goo.gl/EbyiN3C3QxN681Q46) - sister restaurant, but brunch menu only until 3pm
