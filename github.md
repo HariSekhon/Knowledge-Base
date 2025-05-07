@@ -4,7 +4,10 @@ NOT PORTED YET
 
 <!-- INDEX_START -->
 
-- [GitHub SSH Key SSO Authorization](#github-ssh-key-sso-authorization)
+- [Access](#access)
+  - [Personal Access Tokens](#personal-access-tokens)
+  - [Configure SSH Keys](#configure-ssh-keys)
+  - [GitHub SSH Key SSO Authorization](#github-ssh-key-sso-authorization)
 - [Pull Requests](#pull-requests)
 - [CodeOwners](#codeowners)
   - [CodeOwners Gotcha - Secret Teams](#codeowners-gotcha---secret-teams)
@@ -30,7 +33,29 @@ NOT PORTED YET
 
 <!-- INDEX_END -->
 
-## GitHub SSH Key SSO Authorization
+## Access
+
+### Personal Access Tokens
+
+Generate your token here:
+
+<https://github.com/settings/tokens>
+
+### Configure SSH Keys
+
+Generate an SSH key:
+
+```shell
+ssh-keygen
+```
+
+(see [SSH](ssh.md#generate-an-ssh-key) page for more options)
+
+Then upload the public key here:
+
+<https://github.com/settings/keys>
+
+### GitHub SSH Key SSO Authorization
 
 If you're using SSH keys to `git clone` in a company using GitHub SSO authentication then you will need
 to authorize your SSH keys for each organization in order to be able to use them.
