@@ -826,6 +826,9 @@ or pay for it in advance online before you arrive.
   (I ask for a second one for the protein, although this is overload and comes stacked as the sourdough isn't that big).
   The homemade passionfruit, basil and raspberry lemonade is good, but not worth the sugar for me, I'd rather have abs.
   11/16 Mbit/s wifi
+- [Bistro Montanari](https://maps.app.goo.gl/RdUD2wSv1TECgPQN9) - very classic little bistro with lovely decor, laid
+  back seating and 1930s style jazz music, reasonable food and drinks menu (3/4 alcoholic).
+  13/44 Mbit/s wifi but the password is crazy long
 - [Beyond Brkfst](https://maps.app.goo.gl/hqeajmbxW4zLmkLG9) - eggs florentine (poached eggs with smoked salmon on
   sourdough toast) was decent, although the service was not good, but that might change. 282/113 Mbit/s wifi
 - [Happy Bar & Grill](https://maps.app.goo.gl/qMQnibX9Y3mfWhcJ8) - popular chain restaurant with a good menu with a
