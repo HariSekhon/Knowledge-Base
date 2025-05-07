@@ -816,10 +816,6 @@ or pay for it in advance online before you arrive.
   [Upbeat & Sexual Pop](https://open.spotify.com/playlist/64OO67Be8wOXn6STqHxexr?si=tAH3h23xTvmxjAyDnGZQSA) Spotify
   playlist, shazamming lots. 7.5/92 Mbit/s wifi
   - [Lavelé Kitchen&Bar](https://maps.app.goo.gl/EbyiN3C3QxN681Q46) - sister restaurant, but brunch menu only until 3pm
-- [StandArt Restaurant](https://maps.app.goo.gl/s6sunDXPuxSqpXFr6) - a little off the beaten track, but then good foodie
-  places often are. They don't have the horse sausage any more, but the pork scallopini (3 thin steaks) in mouth
-  tantalizing lemon & butter coating was excellent, it comes with salad, and although I asked for a side of mashed
-  potatoes, I was served very crispy roasted herby potatoes, but they were also good too. 64/43 Mbit/s wifi
 - [718 Breakfast & Brunch](https://maps.app.goo.gl/HJFmXxitMJcbuejz8) - gentrified cafe with western prices,
   obviously targeting foreigners.
   Has acai bowls. The egg avocado sourdough toast was decent, but only comes with 1 egg
@@ -829,6 +825,10 @@ or pay for it in advance online before you arrive.
 - [Bistro Montanari](https://maps.app.goo.gl/RdUD2wSv1TECgPQN9) - very classic little bistro with lovely decor, laid
   back seating and 1930s style jazz music, reasonable food and drinks menu (3/4 alcoholic).
   13/44 Mbit/s wifi but the password is crazy long
+- [StandArt Restaurant](https://maps.app.goo.gl/s6sunDXPuxSqpXFr6) - a little off the beaten track, but then good foodie
+  places often are. They don't have the horse sausage any more, but the pork scallopini (3 thin steaks) in mouth
+  tantalizing lemon & butter coating was excellent, it comes with salad, and although I asked for a side of mashed
+  potatoes, I was served very crispy roasted herby potatoes, but they were also good too. 64/43 Mbit/s wifi
 - [Beyond Brkfst](https://maps.app.goo.gl/hqeajmbxW4zLmkLG9) - eggs florentine (poached eggs with smoked salmon on
   sourdough toast) was decent, although the service was not good, but that might change. 282/113 Mbit/s wifi
 - [Happy Bar & Grill](https://maps.app.goo.gl/qMQnibX9Y3mfWhcJ8) - popular chain restaurant with a good menu with a
