@@ -799,7 +799,7 @@ or pay for it in advance online before you arrive.
   great menu, moderate to high prices depending on what you order, but great venue and good vibe.
   The big horse sujuk (sausage) with herby sliced potato and red pepper is both good in taste and portion size.
   Take a date here. 54/70 Mbit/s wifi
-- [Lavelé Garden](https://maps.app.goo.gl/DaAqVruKfe6LoKsW9) - upmarket restaurant, also on the main strip.
+- [Lavelé Garden](https://maps.app.goo.gl/DaAqVruKfe6LoKsW9) - upmarket restaurant on the main strip.
   Brunch menu until 5pm. 7.5/92 Mbit/s wifi
   - [Lavelé Kitchen&Bar](https://maps.app.goo.gl/EbyiN3C3QxN681Q46) - sister restaurant, but brunch menu only until 3pm
 - [StandArt Restaurant](https://maps.app.goo.gl/s6sunDXPuxSqpXFr6) - a little off the beaten track, but then good foodie
