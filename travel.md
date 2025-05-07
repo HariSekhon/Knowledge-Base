@@ -822,8 +822,8 @@ or pay for it in advance online before you arrive.
   (I ask for a second one for the protein, although this is overload and comes stacked as the sourdough isn't that big).
   The homemade passionfruit, basil and raspberry lemonade is good, but not worth the sugar for me, I'd rather have abs.
   11/16 Mbit/s wifi
-- [Bistro Montanari](https://maps.app.goo.gl/RdUD2wSv1TECgPQN9) - very classic little bistro with lovely decor, laid
-  back seating and 1930s style jazz music, reasonable food and drinks menu (3/4 alcoholic).
+- [Bistro Montanari](https://maps.app.goo.gl/RdUD2wSv1TECgPQN9) - very classic little bistro just off Vitosha boulevard,
+  with lovely decor, laid back seating and 1930s style jazz music, reasonable food and drinks menu (3/4 alcoholic).
   13/44 Mbit/s wifi but the password is crazy long
 - [StandArt Restaurant](https://maps.app.goo.gl/s6sunDXPuxSqpXFr6) - a little off the beaten track, but then good foodie
   places often are. They don't have the horse sausage any more, but the pork scallopini (3 thin steaks) in mouth
