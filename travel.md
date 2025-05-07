@@ -729,7 +729,7 @@ Number of Countries: 36
     (the latter was borderline a different country, there are actually Welsh signs I can't read)
   - UAE, France, Belgium, Germany, Poland, Lithuania, Latvia, Estonia, Sweden, Slovakia, Hungary, Serbia, Morocco,
     Moldova, Turkey, Georgia, Thailand, Vietnam
-- Countries in 2025:
+- Countries in 2025: 9
   - Vietnam, Cambodia, Laos, Bali (Indonesia), Malayasia, Singapore, Taiwan, Serbia, Bulgaria
 
 ### Austria
