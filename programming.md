@@ -61,6 +61,7 @@
   - [Assembly](#assembly)
   - [C for the Brave and Foolish](#c-for-the-brave-and-foolish)
   - [Built Same Project in Multiple Languages](#built-same-project-in-multiple-languages)
+  - [Pretend to be a Good Programmer](#pretend-to-be-a-good-programmer)
 
 <!-- INDEX_END -->
 
@@ -538,5 +539,9 @@ When you’re thinking about how to improve that code you wrote last night… �
 ### Built Same Project in Multiple Languages
 
 ![Built Same Project in Multiple Languages](images/same_project_multiple_languages_hello_world.jpeg)
+
+### Pretend to be a Good Programmer
+
+![Pretend to be a Good Programmer](images/pretend_to_be_a_good_programmer.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
