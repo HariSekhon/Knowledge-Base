@@ -19,7 +19,9 @@
 - [Emojis](#emojis)
 - [Badges & Icons](#badges--icons)
   - [Badges](#badges)
-    - [Badge Tips](#badge-tips)
+    - [Shields.io](#shieldsio)
+      - [Shields.io Tips](#shieldsio-tips)
+    - [GitHub Readme Stats](#github-readme-stats)
   - [Icons](#icons)
     - [Simple Icons](#simple-icons)
     - [More Icons](#more-icons)
@@ -192,11 +194,15 @@ if (isCommandAvailable('gcloud')) {
 If you run [IntelliJ](intellij.md) there is also a green triangle arrow next to `shell` blocks to execute them with
 only one click, code notebook style.
 
+<!-- markdownlint-disable MD031 -->
+
 ````text
 ```shell
 echo "execute this command"
 ```
 ````
+
+<!-- markdownlint-enable -->
 
 ```shell
 echo "execute this command"
@@ -214,11 +220,27 @@ Lists of emojis `:shortcodes:` that will be rendered on GitHub flavoured markdow
 
 ### Badges
 
-Use [Shields.io](https://shields.io) to create many different types of badges.
+#### Shields.io
 
-#### Badge Tips
+<https://shields.io>
+
+Creates standard GitHub badges in this format:
+
+![](https://img.shields.io/badge/Hari-Sekhon-blue?logo=github)
+
+with custom writing, color and choice of [Simple Icon](#simple-icons)
+or custom icon passed in as a base64 encoded string
+(see the [LinkedIn Icon](#linkedin-icon) section below for how to do that).
+
+##### Shields.io Tips
 
 Since Shields.io breaks badge components on dashes (-) you need to escape dashes by doubling them up (--).
+
+#### GitHub Readme Stats
+
+[:octocat: anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+[Themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
 
 ### Icons
 
