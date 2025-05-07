@@ -342,8 +342,8 @@ How many of you dweebs are still using Windows instead of Linux or Mac?
 
 Mac falls somewhere in between the two, depending on the problem...
 
+![Windows Problems vs Linux Problems](images/windows_problems_reboot_linux_problems_be_root.jpeg)
+
 ### Linux Users Switching Back After 10 Minutes of Using Windows
 
 ![Linux Users Switching Back After 10 Minutes of Using Windows](images/linux_users_switching_back_after_10_mins_using_windows.jpeg)
-
-![Windows Problems vs Linux Problems](images/windows_problems_reboot_linux_problems_be_root.jpeg)
