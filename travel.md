@@ -800,7 +800,8 @@ or pay for it in advance online before you arrive.
   The big horse sujuk (sausage) with herby sliced potato and red pepper is both good in taste and portion size.
   Take a date here. 54/70 Mbit/s wifi
 - [Lavelé Garden](https://maps.app.goo.gl/DaAqVruKfe6LoKsW9) - upmarket restaurant on the main strip.
-  Brunch menu until 5pm. 7.5/92 Mbit/s wifi
+  Brunch menu until 5pm. The Full Balkan Breakfast is very good, and the bread in it is excellence, soft infused with
+  olive oil / butter. 7.5/92 Mbit/s wifi
   - [Lavelé Kitchen&Bar](https://maps.app.goo.gl/EbyiN3C3QxN681Q46) - sister restaurant, but brunch menu only until 3pm
 - [StandArt Restaurant](https://maps.app.goo.gl/s6sunDXPuxSqpXFr6) - a little off the beaten track, but then good foodie
   places often are. They don't have the horse sausage any more, but the pork scallopini (3 thin steaks) in mouth
