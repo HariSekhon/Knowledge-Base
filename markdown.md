@@ -194,8 +194,9 @@ if (isCommandAvailable('gcloud')) {
 If you run [IntelliJ](intellij.md) there is also a green triangle arrow next to `shell` blocks to execute them with
 only one click, code notebook style.
 
-<!-- markdownlint-disable MD031 -->
+<!-- this inline exclusion doesn't work, fix this -->
 
+<!-- markdownlint-disable MD031 -->
 ````text
 ```shell
 echo "execute this command"
