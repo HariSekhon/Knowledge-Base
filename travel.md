@@ -886,6 +886,8 @@ your withdrawal notes will be in \$100 bills,
 that'll result in your first dining bill returning nearly 400,000 Cambodian riels,
 which if you're only visiting for a short time you may have trouble spending in time.
 
+Also, be careful they don't give you fake dollars back.
+
 #### Cambodia Taxis
 
 Make sure to always use the Grab app, on the street they will charge you more, like most countries.
