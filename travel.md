@@ -805,6 +805,8 @@ or pay for it in advance online before you arrive.
 
 - [Vitosha Boulevard](https://maps.app.goo.gl/8Sug4GPGr2pPUtEJ9) - north of the Google Maps pinpoint is where most of
   the restaurants and shops are
+- [Shtastlivetsa Restaurant](https://maps.app.goo.gl/V18at2HgLF18vwpy8) - very good menu range, decor and ambience,
+  expect international prices as one of the best place on Vitosha boulevard. Date place. 9/9 Mbit/s wifi
 - [Constantinoff RestoBar](https://maps.app.goo.gl/qMQnibX9Y3mfWhcJ8) - upmarket bar restaurant on Vitosha boulevard
   with great menu, moderate to high prices depending on what you order, but great venue and good vibe.
   The big horse sujuk (sausage) with herby sliced potato and red pepper is both good in taste and portion size.
