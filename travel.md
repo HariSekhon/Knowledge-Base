@@ -817,8 +817,8 @@ or pay for it in advance online before you arrive.
   playlist, shazamming lots. 7.5/92 Mbit/s wifi
   - [Lavelé Kitchen&Bar](https://maps.app.goo.gl/EbyiN3C3QxN681Q46) - sister restaurant, but brunch menu only until 3pm
 - [718 Breakfast & Brunch](https://maps.app.goo.gl/HJFmXxitMJcbuejz8) - gentrified cafe with western prices,
-  obviously targeting foreigners.
-  Has acai bowls. The egg avocado sourdough toast was decent, but only comes with 1 egg
+  obviously targeting foreigners. Has a reasonable acai bowl with banana, kiwi, granola, goji berry.
+  The egg avocado sourdough toast was decent, but only comes with 1 egg
   (I ask for a second one for the protein, although this is overload and comes stacked as the sourdough isn't that big).
   The homemade passionfruit, basil and raspberry lemonade is good, but not worth the sugar for me, I'd rather have abs.
   11/16 Mbit/s wifi but was only getting 1.8/0.3 Mbit/s wifi when it was busy in the afternoon, making working difficult
