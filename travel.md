@@ -805,14 +805,14 @@ or pay for it in advance online before you arrive.
 
 - [Vitosha Boulevard](https://maps.app.goo.gl/8Sug4GPGr2pPUtEJ9) - north of the Google Maps pinpoint is where most of
   the restaurants and shops are
-- [Shtastlivetsa Restaurant](https://maps.app.goo.gl/V18at2HgLF18vwpy8) - very good menu range, decor and ambience,
-  expect international prices as one of the best place on Vitosha boulevard. The horse sujuk (sausage) is good, although
-  the sweet potato fries were a bit overcooked and charred at the ends, and the small side salad was ok.
-  Take a date here. 9/9 Mbit/s wifi
 - [Constantinoff RestoBar](https://maps.app.goo.gl/qMQnibX9Y3mfWhcJ8) - upmarket bar restaurant on Vitosha boulevard
   with great menu, moderate to high prices depending on what you order, but great venue and good vibe.
   The big horse sujuk (sausage) with herby sliced potato and red pepper is both good in taste and portion size.
   Take a date here. 54/70 Mbit/s wifi
+- [Shtastlivetsa Restaurant](https://maps.app.goo.gl/V18at2HgLF18vwpy8) - very good menu range, decor and ambience,
+  one of the better places on Vitosha boulevard so international prices. The horse sujuk (sausage) is good, although
+  the sweet potato fries were a bit overcooked and charred at the ends, the small side salad was ok.
+  Take a date here. 9/9 Mbit/s wifi
 - [Lavelé Garden](https://maps.app.goo.gl/DaAqVruKfe6LoKsW9) - upmarket restaurant on Vitosha boulevard.
   Brunch menu until 5pm. The Full Balkan Breakfast is very good (but then it should be for 22BGM! ~£10), and the bread
   in it is excellent, soft infused with olive oil / butter. Ask for an extra egg as it only comes with one
