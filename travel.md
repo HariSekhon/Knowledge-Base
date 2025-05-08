@@ -811,8 +811,8 @@ or pay for it in advance online before you arrive.
   Take a date here. 54/70 Mbit/s wifi
 - [Shtastlivetsa Restaurant](https://maps.app.goo.gl/V18at2HgLF18vwpy8) - very good menu range, decor and ambience,
   one of the better places on Vitosha boulevard so international prices. The horse sujuk (sausage) is good, although
-  the sweet potato fries were a bit overcooked and charred at the ends, the small side salad was ok.
-  Take a date here. 9/9 Mbit/s wifi
+  the sweet potato fries were overcooked and charred, the small side salad was ok thought.
+  This is a date place due to the ambience. 9/9 Mbit/s wifi
 - [Lavelé Garden](https://maps.app.goo.gl/DaAqVruKfe6LoKsW9) - upmarket restaurant on Vitosha boulevard.
   Brunch menu until 5pm. The Full Balkan Breakfast is very good (but then it should be for 22BGM! ~£10), and the bread
   in it is excellent, soft infused with olive oil / butter. Ask for an extra egg as it only comes with one
