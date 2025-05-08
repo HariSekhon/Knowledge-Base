@@ -846,6 +846,10 @@ or pay for it in advance online before you arrive.
   partly because the flavours were good and partly because the portions are not big.
   The chicken breast in cream sauce with mashed potatoes is decent too.
   35/33 Mbit/s wifi
+- [Coffee Fellows](https://maps.app.goo.gl/BweDirYcGYyMQm2V6) - popular with good indoor and outdoor seating to soak up
+  the sunshine and a view of the hills at the south end of Vitosha Boulevard.
+  Unfortunately it's a bit pricey, with coffees costing around £4 and the 70/40 Mbit/s wifi requires a receipt
+  login code valid for 1 device for 1 hour and even the toilet requires the use of the QR code on the receipt 🙄
 - [Staria Chinar](https://maps.app.goo.gl/jwiUxptFTrMmm8o4A) - good Bulgarian restaurant, with lots of outdoor and
   indoor seating. The pork meatballs were reasonable, as side dishes the potatoes with dill and garlic were good,
   as were the grilled vegetables. Wifi was a bit sluggish, rated at 8/4 Mbit/s though
