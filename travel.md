@@ -2013,9 +2013,17 @@ You can buy an e-vignette at a website like this:
 
 [https://www.roviniete.ro](https://www.roviniete.ro/en/info/cumpara-rovinieta-electronica-online)
 
-otherwise you'll need to pull over at the first petrol station at the border and buy it then.
+otherwise you'll need to pull over at the first petrol station at the border and buy it there.
 
-To get a 30 day vignette pass you'll need your car registration certificatte and chassis serial number.
+The vignette is by calendar day, so if you're driving late at 11pm+ and arriving after midnight you'll need 2 days toll
+cover.
+
+It's €2.50 for a 1 day pass or €5.30 for 30 day vignette pass -
+so it's a no brainer to just get the 30 days to cover your entry and exit. You'll need your car registration certificate
+(from the UK this is the red V5C) and chassis serial number, which is on the certificate.
+
+If crossing into Romania from Bulgaria across [The Bridge of Friendship](https://maps.app.goo.gl/r4ifvsuaRKKF37AJ6),
+the bridge toll is €4 and can be paid by card at the bridge entry. Apparently no money, no ~~honey~~ friendship!
 
 #### Bucharest
 
