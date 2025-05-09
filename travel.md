@@ -878,7 +878,7 @@ Recommended by LinkedIn connections:
 
 #### Veliko Tarnovo
 
-The historical and cultural capital.
+The historical and cultural capital of Bulgaria.
 
 Stopped over driving between Sofia and Bucharest
 
