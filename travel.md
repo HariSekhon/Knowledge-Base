@@ -58,6 +58,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Bulgaria](#bulgaria)
     - [Vignettes - Motorway e-Tolls](#vignettes---motorway-e-tolls)
     - [Sofia](#sofia)
+    - [Veliko Tarnovo](#veliko-tarnovo)
   - [Cambodia](#cambodia)
     - [Cambodia Visa](#cambodia-visa)
     - [Cambodia Money](#cambodia-money)
@@ -874,6 +875,15 @@ Recommended by LinkedIn connections:
 - [Restaurant White River](https://maps.app.goo.gl/3zuEmQqXNFxF5H7m6)
 - [Pod Metlite](https://maps.app.goo.gl/48Wd44h2rzu4dKgL9)
 - [Banisha Mia Beykeri](https://maps.app.goo.gl/RifNbnkAiKhDjQE7A) - good banica apparently, get there before 9am when it's fresh
+
+#### Veliko Tarnovo
+
+The historical and cultural capital.
+
+Stopped over driving between Sofia and Bucharest
+
+- [Hedo fun bar & restaurant](https://maps.app.goo.gl/N38mUkRnepd3kf9A9) - go downstairs to the restaurant on the park
+  for a nice al fresco dining experience. 25/72 Mbit/s wifi, no password
 
 ### Cambodia
 
