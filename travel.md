@@ -56,7 +56,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Liege](#liege)
     - [Waterloo](#waterloo)
   - [Bulgaria](#bulgaria)
-    - [Vignettes - Motorway e-Tolls](#vignettes---motorway-e-tolls)
+    - [Bulgarian Motorway Tolls aka Vignettes](#bulgarian-motorway-tolls-aka-vignettes)
     - [Sofia](#sofia)
     - [Veliko Tarnovo](#veliko-tarnovo)
     - [Ruse](#ruse)
@@ -146,7 +146,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Philipines](#philipines)
     - [Manilla](#manilla)
   - [Romania](#romania)
-    - [Romania Road Tolls](#romania-road-tolls)
+    - [Romanian Motorway Tolls aka Vignettes](#romanian-motorway-tolls-aka-vignettes)
     - [Bucharest](#bucharest)
   - [Serbia](#serbia)
     - [Indoor Smoking, Outdoor Smoking, Smoking Everywhere](#indoor-smoking-outdoor-smoking-smoking-everywhere)
@@ -793,7 +793,7 @@ You will need your Google Translate camera app to translate the menu as they don
 
 ### Bulgaria
 
-#### Vignettes - Motorway e-Tolls
+#### Bulgarian Motorway Tolls aka Vignettes
 
 Annoying road tax, but make sure you pay it to avoid more hassles from over bearing government.
 
@@ -2007,7 +2007,7 @@ forces.
 
 ### Romania
 
-#### Romania Road Tolls
+#### Romanian Motorway Tolls aka Vignettes
 
 You can buy an e-vignette at a website like this:
 
