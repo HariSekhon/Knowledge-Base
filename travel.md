@@ -882,6 +882,8 @@ The historical and cultural capital of Bulgaria.
 
 Stopped over driving between Sofia and Bucharest.
 
+There are plenty of well rated restaurants here, these are just the ones I tried, there may be better ones:
+
 - [Hedo fun bar & restaurant](https://maps.app.goo.gl/N38mUkRnepd3kf9A9) - go downstairs to the restaurant on the park
   for a nice al fresco dining experience. The pork tenderloin with peppercorn and creme sauce with a few mushrooms was
   good, but left me hungry, so I couldn't resist the American Pancake place below. 25/72 Mbit/s wifi, no password
