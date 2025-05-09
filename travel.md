@@ -908,7 +908,13 @@ My second stopover town in the north of Bulgaria on the way from Sofia to Buchar
 You don't need more than 1-1.5 hours to walk around the center.
 
 - [Good Food Vintage show cooking](https://maps.app.goo.gl/5xwypazYNioVo9yN6) - good menu, central location, busy,
-  good atmosphere, moderate to pricey depending on what you order
+  good atmosphere, moderate to pricey depending on what you order.
+  The traditional National Bulgarian dish of pork cubes with vegetables in sauce is really good,
+  and reasonably priced.
+  The 'Snezhanka' strained yoghurt 'salad' starter is very good too, containing chopped cucumber
+  (order it with garlic!), it's similar to greek Tzatziki, and comes in 3 balls like ice cream, sprinkled with
+  crushed walnuts, with each ball topped with a Kalamata olive.
+  If you want more of a salad-salad, try a classic shopska salad or one of the others
 - [Happy Bar & Grill](https://maps.app.goo.gl/y9DaSZ5ZA8kpBsX46) - popular chain restaurant, same as in Sofia,
   tuna & salmon poke bowls, teriyaki beef with rice, sushi, good range of options
 
