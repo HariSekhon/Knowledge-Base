@@ -145,6 +145,9 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Szolnok](#szolnok)
   - [Philipines](#philipines)
     - [Manilla](#manilla)
+  - [Romania](#romania)
+    - [Romania Road Tolls](#romania-road-tolls)
+    - [Bucharest](#bucharest)
   - [Serbia](#serbia)
     - [Indoor Smoking, Outdoor Smoking, Smoking Everywhere](#indoor-smoking-outdoor-smoking-smoking-everywhere)
     - [Belgrade Taxis](#belgrade-taxis)
@@ -2001,6 +2004,20 @@ In the capital, the malls were relatively sparse since a lot of the poorer local
 
 Kidnappings and random of the children of the rich are also a problem, with gated communities having their own security
 forces.
+
+### Romania
+
+#### Romania Road Tolls
+
+You can buy an e-vignette at a website like this:
+
+[https://www.roviniete.ro](https://www.roviniete.ro/en/info/cumpara-rovinieta-electronica-online)
+
+otherwise you'll need to pull over at the first petrol station at the border and buy it then.
+
+To get a 30 day vignette pass you'll need your car registration certificatte and chassis serial number.
+
+#### Bucharest
 
 ### Serbia
 
