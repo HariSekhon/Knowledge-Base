@@ -883,7 +883,13 @@ The historical and cultural capital of Bulgaria.
 Stopped over driving between Sofia and Bucharest.
 
 - [Hedo fun bar & restaurant](https://maps.app.goo.gl/N38mUkRnepd3kf9A9) - go downstairs to the restaurant on the park
-  for a nice al fresco dining experience. 25/72 Mbit/s wifi, no password
+  for a nice al fresco dining experience.
+  The pork tenderloin with peppercorn and creme sauce with a few mushrooms was good,
+  but left me hungry, so I couldn't resist the American Pancake place below. 25/72 Mbit/s wifi, no password
+- [Pantastic](https://maps.app.goo.gl/hJgf1Fjv2yymw1CD8) - the tropical pancake stack with pineapple, desiccated coconut
+  and flake almonds, was good.
+  [Upbeat pop music](https://open.spotify.com/playlist/64OO67Be8wOXn6STqHxexr?si=tAH3h23xTvmxjAyDnGZQSA) was playing,
+  with some shazam-worthy songs. Amazing 285/155 Mbit/s wifi, password is on the wall
 
 ### Cambodia
 
