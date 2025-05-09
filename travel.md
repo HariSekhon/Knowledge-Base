@@ -880,7 +880,7 @@ Recommended by LinkedIn connections:
 
 The historical and cultural capital of Bulgaria.
 
-Stopped over driving between Sofia and Bucharest
+Stopped over driving between Sofia and Bucharest.
 
 - [Hedo fun bar & restaurant](https://maps.app.goo.gl/N38mUkRnepd3kf9A9) - go downstairs to the restaurant on the park
   for a nice al fresco dining experience. 25/72 Mbit/s wifi, no password
