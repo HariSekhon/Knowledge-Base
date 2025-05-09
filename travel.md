@@ -59,6 +59,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Vignettes - Motorway e-Tolls](#vignettes---motorway-e-tolls)
     - [Sofia](#sofia)
     - [Veliko Tarnovo](#veliko-tarnovo)
+    - [Ruse](#ruse)
   - [Cambodia](#cambodia)
     - [Cambodia Visa](#cambodia-visa)
     - [Cambodia Money](#cambodia-money)
@@ -882,6 +883,14 @@ The historical and cultural capital of Bulgaria.
 
 Stopped over driving between Sofia and Bucharest.
 
+You don't need more than 1-1.5 hours to walk around here.
+
+It seems the nicest part is East of the Google pin for the city, between
+[here](https://maps.app.goo.gl/TZmvGQTHSBsuA65LA)
+and up the hill of small boutique stores
+[here](https://maps.app.goo.gl/TZmvGQTHSBsuA65LA),
+although [Marno Pole Park](https://maps.app.goo.gl/nsJpoJzRcE9YvMmv5) is small and nice too.
+
 There are plenty of well rated restaurants here, these are just the ones I tried, there may be better ones:
 
 - [Hedo fun bar & restaurant](https://maps.app.goo.gl/N38mUkRnepd3kf9A9) - go downstairs to the restaurant on the park
@@ -891,6 +900,17 @@ There are plenty of well rated restaurants here, these are just the ones I tried
   pineapple, desiccated coconut and flake almonds, was good, although I thought the pancakes were a bit soft.
   [Upbeat pop music](https://open.spotify.com/playlist/64OO67Be8wOXn6STqHxexr?si=tAH3h23xTvmxjAyDnGZQSA) was playing,
   with some shazam-worthy songs. Amazing 285/155 Mbit/s wifi, password is on the wall
+
+#### Ruse
+
+My second stopover town in the north of Bulgaria on the way from Sofia to Bucharest.
+
+You don't need more than 1-1.5 hours to walk around the center.
+
+- [Good Food Vintage show cooking](https://maps.app.goo.gl/5xwypazYNioVo9yN6) - good menu, central location, busy,
+  good atmosphere, moderate to pricey depending on what you order
+- [Happy Bar & Grill](https://maps.app.goo.gl/y9DaSZ5ZA8kpBsX46) - popular chain restaurant, same as in Sofia,
+  tuna & salmon poke bowls, teriyaki beef with rice, sushi, good range of options
 
 ### Cambodia
 
