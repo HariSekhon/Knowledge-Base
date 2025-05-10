@@ -2805,7 +2805,7 @@ a day at each of these:
 - Greenwich, the Cutty Sark, Royal Observatory, Mudchute Farm
 - Marylebone & Regents Park
 - Westfields mall at Shepherds Bush (it's better than the one at Stratford)
-- Shoreditch, Spitalfields Market, Brick Lane for authentic Indian cuisine on a night out
+- Shoreditch, Baribican, Spitalfields Market, Brick Lane for authentic Indian cuisine on a night out
 
 You will not be able to hit all the good areas with good restaurants in 2 weeks actually because London has so many,
 there are other areas like the City financial district around Bank of England through to Canary Wharf,
