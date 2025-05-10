@@ -49,6 +49,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
   - [ChatGPT Python - What I Expected vs What I Got](#chatgpt-python---what-i-expected-vs-what-i-got)
   - [Imported Package Tariffs](#imported-package-tariffs)
   - [Friend Showing C++ Code](#friend-showing-c-code)
+  - [Lines of Code vs Understanding Methods](#lines-of-code-vs-understanding-methods)
 
 <!-- INDEX_END -->
 
@@ -367,7 +368,10 @@ Some Jython programs, such as those using [Hadoop](hadoop.md) [HDFS](hdfs.md) Ja
 
 ### Other Hosted Python
 
+- [Replit](https://replit.com/) - cloud-base IDE with AI to generate code from ideas
+- [Glitch](https://glitch.com/) - good for prototyping small webapps
 - [fly.io](https://fly.io/) - code execution sandbox, runs any Docker image
+- [Code Ocean](https://codeocean.com/) - for scientific bioinformatics and R&D
 
 ## Troubleshooting
 
@@ -475,5 +479,9 @@ I wish I had discovered [Groovy](groovy.md) before [Jython](#jython)...
 ### Friend Showing C++ Code
 
 ![Friend Showing C++ Code](images/friend_showing_c%2B%2B_code.jpeg)
+
+### Lines of Code vs Understanding Methods
+
+![Lines of Code vs Understanding Methods](images/python_developers_lines_of_code_vs_understanding_methods.jpeg)
 
 **Partial port from private Knowledge Base page 2008+**
