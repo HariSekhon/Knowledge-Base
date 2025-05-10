@@ -2802,7 +2802,7 @@ a day at each of these:
 - The British Museum
 - Camden Town, Kings Cross, Angel, Islington
 - Tower Bridge & Borough Market
-- Greenwich, GMT observatory
+- Greenwich, the Cutty Sark, Royal Observatory, Mudchute Farm
 - Westfields mall at Shepherds Bush (it's better than the one at Stratford)
 - Shoreditch, Spitalfields Market, Brick Lane for authentic Indian cuisine on a night out
 
