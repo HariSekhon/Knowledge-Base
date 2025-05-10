@@ -2805,6 +2805,9 @@ a day at each of these:
 - Westfields mall at Shepherds Bush (it's better than the one at Stratford)
 - Brick Lane for authentic Indian cuisine on a night out
 
+You will not be able to hit all the good areas with good restaurants in 2 weeks actually because London has so many,
+there are other areas like the financial district, Bank of England etc.
+
 ### USA
 
 You will get finger printed entering the country.
