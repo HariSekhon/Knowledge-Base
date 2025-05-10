@@ -202,6 +202,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Dubai Visa](#dubai-visa)
     - [Dubai Banking](#dubai-banking)
   - [United Kingdom](#united-kingdom)
+    - [Best Parts of the UK](#best-parts-of-the-uk)
+    - [Best of London](#best-of-london)
   - [USA](#usa)
     - [California](#california)
       - [Irvine](#irvine)
@@ -2754,7 +2756,54 @@ local bank or cash payment.
 
 ### United Kingdom
 
-See [The UK Decline - What I Learnt on UK Tour 2024](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b).
+See [The UK Decline - What I Learnt on UK Tour 2024](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b) article for a tour of pictures of why you will not want to
+visit most of the UK today.
+
+#### Best Parts of the UK
+
+The best remaining parts of the UK are:
+
+- Central London (not most of outer London which is ghettoized)
+- Oxford
+- Cambridge
+- Reading
+- Surrey:
+  - Richmond and Kingston and their surrounding areas such as:
+    - [Richmond Park](https://maps.app.goo.gl/PdfMZLVtS5SgSGYK9) - take a picknick, there is a Whole Foods in Richmond
+      if you want to splurge
+    - [Hampton Court Palace](https://maps.app.goo.gl/6dy7Ma2t832Y6mXK6) gardens
+    - [Bushy Park](https://maps.app.goo.gl/aZybp3DBTMM6LJ6a8) which also has deer
+  - Surrey Hills, Guildford, Box Hill, Reigate etc.
+  - Cotswolds
+  - Winchester
+  - various areas designated AONB - Areas of Oustanding Natural Beauty - legally protected green areas
+- Hertfordshire - St Albans and [Verulamium Park](https://maps.app.goo.gl/2hMD9RxjvHJaLVQ8A)
+- BlueWater - the largest mall in the UK (you need a car to get there, but the parking is free)
+
+Most of the areas apart from Central London are small enough you can cover their key central parts in 1-2 days each.
+
+If you're visiting Edinburgh in Scotland, the restaurants get booked out, so you need to book in advance.
+
+#### Best of London
+
+Central London you could easily spend 2 weeks on just to see the highlights, eg.
+a day at each of these:
+
+- Natural History Museum (excellent)
+- Kensington & Kensington Palace Gardens (excellent multi-area kids playground) & the large Hyde Park (these are joined)
+- Big Ben, Houses of Parliament, London Eye, Sea Life aquarium, South Bank restaurants & seasonal street food stalls
+- Buckingham Palace & St James Park, Belgravia, Chelsea
+- Picadilly, China Town, Soho restaurants and bars
+- Knightsbridge - Harrods famous department store has nearly everything, even posh food and souvenir teas
+- Oxford Street and Regent Street for shopping
+- Notting Hill market, street food, clothing and restaurants (market runs on Saturdays only)
+- Richmond & Richmond Park (excellent)
+- Hampton Court Palace gardens & Bushy Park (excellent)
+- The British Museum
+- Camden Town
+- Borough Market
+- Westfields mall at Shepherds Bush (it's better than the one at Stratford)
+- Brick Lane for authentic Indian cuisine on a night out
 
 ### USA
 
