@@ -2027,6 +2027,8 @@ the bridge toll is €4 and can be paid by card at the bridge entry. Apparently 
 
 #### Bucharest
 
+Restaurant availability on a Saturday night is very poor, similar to Edinburgh, you may want to reserve a table.
+
 - [Mom](https://maps.app.goo.gl/TfS4yye1AgkJbtqv6) - the mom burger is very good, with a big juicy patty and covered in
   a really great sauce, and comes with well seasoned crispy fries. 16/103 Mbit/s wifi
 - [AveForchetta](https://maps.app.goo.gl/dn5AD1Mdz78KB5e88) - very busy, no seats at 7:30pm on a Saturday
