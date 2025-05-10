@@ -2803,11 +2803,12 @@ a day at each of these:
 - Camden Town, Kings Cross, Angel, Islington
 - Tower Bridge & Borough Market
 - Greenwich, the Cutty Sark, Royal Observatory, Mudchute Farm
+- Marylebone & Regents Park
 - Westfields mall at Shepherds Bush (it's better than the one at Stratford)
 - Shoreditch, Spitalfields Market, Brick Lane for authentic Indian cuisine on a night out
 
 You will not be able to hit all the good areas with good restaurants in 2 weeks actually because London has so many,
-there are other areas like Marylebon, the City financial district around Bank of England through to Canary Wharf,
+there are other areas like the City financial district around Bank of England through to Canary Wharf,
 as well as other zone 2-5 areas like Earl's Court, Fulham, Putney, Barnes, Hammersmith, Wimbledon, Twickenham,
 Teddington, Ealing Broadway, South Woodford, Wanstead, Bromley, Beckenham, Chessington theme park etc.
 
