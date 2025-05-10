@@ -2800,13 +2800,16 @@ a day at each of these:
 - Richmond & Richmond Park (excellent)
 - Hampton Court Palace gardens & Bushy Park (excellent)
 - The British Museum
-- Camden Town
-- Borough Market
+- Camden Town, Kings Cross, Angel, Islington
+- Tower Bridge & Borough Market
+- Greenwich, GMT observatory
 - Westfields mall at Shepherds Bush (it's better than the one at Stratford)
-- Brick Lane for authentic Indian cuisine on a night out
+- Shoreditch, Spitalfields Market, Brick Lane for authentic Indian cuisine on a night out
 
 You will not be able to hit all the good areas with good restaurants in 2 weeks actually because London has so many,
-there are other areas like the financial district, Bank of England etc.
+there are other areas like Marylebon, the City financial district, Bank of England, Canary Wharf etc, as well as other
+areas like Earl's Court, Fulham, Putney, Barnes, Hammersmith, Wimbledon, Twickenham, Teddington, Ealing Broadway,
+South Woodford, Wanstead, Bromley, Beckenham, Chessington theme park etc.
 
 ### USA
 
