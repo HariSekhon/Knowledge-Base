@@ -2801,9 +2801,9 @@ a day at each of these:
 1. Notting Hill market, street food, clothing and restaurants (market runs on Saturdays only)
 1. Richmond & Richmond Park (excellent)
 1. Hampton Court Palace gardens & Bushy Park (excellent)
-1. Camden Town, Kings Cross, Angel, Islington
 1. Tower Bridge & Borough Market
 1. Greenwich, the Cutty Sark, Royal Observatory, Mudchute Farm
+1. Camden Town, Kings Cross, Angel, Islington
 1. Westfields mall at Shepherds Bush (it's better than the one at Stratford)
 1. Shoreditch, Baribican, Spitalfields Market, Brick Lane for authentic Indian cuisine on a night out
 
