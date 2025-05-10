@@ -2786,26 +2786,26 @@ If you're visiting Edinburgh in Scotland, the restaurants get booked out, so you
 
 #### Best of London
 
-Central London you could easily spend 2 weeks on just to see the highlights, eg.
+Central London you could easily spend over 2 weeks to just see the highlights, eg.
 a day at each of these:
 
-- Natural History Museum (excellent)
-- Kensington & Kensington Palace Gardens (excellent multi-area kids playground) & the large Hyde Park (these are joined)
-- Big Ben, Houses of Parliament, London Eye, Sea Life aquarium, South Bank restaurants & seasonal street food stalls
-- Buckingham Palace & St James Park, Belgravia, Chelsea
-- Picadilly, China Town, Soho restaurants and bars
-- Knightsbridge - Harrods famous department store has nearly everything, even posh food and souvenir teas
-- Oxford Street and Regent Street for shopping
-- Notting Hill market, street food, clothing and restaurants (market runs on Saturdays only)
-- Richmond & Richmond Park (excellent)
-- Hampton Court Palace gardens & Bushy Park (excellent)
-- The British Museum
-- Camden Town, Kings Cross, Angel, Islington
-- Tower Bridge & Borough Market
-- Greenwich, the Cutty Sark, Royal Observatory, Mudchute Farm
-- Marylebone & Regents Park
-- Westfields mall at Shepherds Bush (it's better than the one at Stratford)
-- Shoreditch, Baribican, Spitalfields Market, Brick Lane for authentic Indian cuisine on a night out
+1. Natural History Museum (excellent)
+1. Kensington & Kensington Palace Gardens (excellent multi-area kids playground) & the large Hyde Park (these are joined)
+1. Big Ben, Houses of Parliament, London Eye, Sea Life aquarium, South Bank restaurants & seasonal street food stalls
+1. Buckingham Palace & St James Park, Belgravia, Chelsea
+1. Oxford Street and Regent Street for shopping
+1. Picadilly, China Town, Soho restaurants and bars
+1. The British Museum
+1. Knightsbridge - Harrods famous department store has nearly everything, even posh food and souvenir teas
+1. Marylebone & Regents Park
+1. Notting Hill market, street food, clothing and restaurants (market runs on Saturdays only)
+1. Richmond & Richmond Park (excellent)
+1. Hampton Court Palace gardens & Bushy Park (excellent)
+1. Camden Town, Kings Cross, Angel, Islington
+1. Tower Bridge & Borough Market
+1. Greenwich, the Cutty Sark, Royal Observatory, Mudchute Farm
+1. Westfields mall at Shepherds Bush (it's better than the one at Stratford)
+1. Shoreditch, Baribican, Spitalfields Market, Brick Lane for authentic Indian cuisine on a night out
 
 You will not be able to hit all the good areas with good restaurants in 2 weeks actually because London has so many,
 there are other areas like the City financial district around Bank of England through to Canary Wharf,
