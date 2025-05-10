@@ -2,6 +2,14 @@
 
 Excel and Google Sheets tips.
 
+<!-- INDEX_START -->
+
+- [Auto-Calculate Dates](#auto-calculate-dates)
+- [Memes](#memes)
+  - [CPU, RAM](#cpu-ram)
+
+<!-- INDEX_END -->
+
 ## Auto-Calculate Dates
 
 I've used a Google Sheets spreadsheet to calculate my number of EU days and their dates on my European Summer Tour 2025.
@@ -35,10 +43,16 @@ The rest of the rows follow this same format.
 
 At the end, add a `Total` line, with a cell containing the formula:
 
-```
+```text
 =SUM(C32:C51)
 ```
 
 to figure out how many EU days you've used to make sure you don't go over the visa.
 
 Adjust the line numbers to match your real world table.
+
+## Memes
+
+### CPU, RAM
+
+![CPU, RAM](images/cpu_ram_excel_dialogue_box_open.jpeg)
