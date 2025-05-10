@@ -2807,9 +2807,9 @@ a day at each of these:
 - Shoreditch, Spitalfields Market, Brick Lane for authentic Indian cuisine on a night out
 
 You will not be able to hit all the good areas with good restaurants in 2 weeks actually because London has so many,
-there are other areas like Marylebon, the City financial district, Bank of England, Canary Wharf etc, as well as other
-areas like Earl's Court, Fulham, Putney, Barnes, Hammersmith, Wimbledon, Twickenham, Teddington, Ealing Broadway,
-South Woodford, Wanstead, Bromley, Beckenham, Chessington theme park etc.
+there are other areas like Marylebon, the City financial district around Bank of England through to Canary Wharf,
+as well as other zone 2-5 areas like Earl's Court, Fulham, Putney, Barnes, Hammersmith, Wimbledon, Twickenham,
+Teddington, Ealing Broadway, South Woodford, Wanstead, Bromley, Beckenham, Chessington theme park etc.
 
 ### USA
 
