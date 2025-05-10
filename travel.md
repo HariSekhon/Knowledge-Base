@@ -2027,6 +2027,10 @@ the bridge toll is €4 and can be paid by card at the bridge entry. Apparently 
 
 #### Bucharest
 
+- [Mom](https://maps.app.goo.gl/TfS4yye1AgkJbtqv6) - mom burger. 16/103 Mbit/s wifi
+- [AveForchetta](https://maps.app.goo.gl/dn5AD1Mdz78KB5e88) - very busy, no seats at 7:30pm on a Saturday
+- [PAPILA](https://maps.app.goo.gl/Yt2pedUuWkHRJ55E7) - small and busy, no seats at 6:30pm on a Saturday
+
 ### Serbia
 
 I used the [Airalo](https://www.airalo.com/) e-sim data only for $14 for 5GB valid for 30 days.
