@@ -48,6 +48,8 @@ API code for many of the following technologies can also be found in my
 - [Code Quality](#code-quality)
 - [Diagram - CI/CD Pipeline Explained](#diagram---cicd-pipeline-explained)
 - [Only the Athenians exist... I mean... only Jenkins and GitHub Actions exist...](#only-the-athenians-exist-i-mean-only-jenkins-and-github-actions-exist)
+- [Memes](#memes)
+  - [Best Practice vs Green Check Marks](#best-practice-vs-green-check-marks)
 
 <!-- INDEX_END -->
 
@@ -339,5 +341,11 @@ ps. I have good GitHub repos for both here:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
+
+## Memes
+
+### Best Practice vs Green Check Marks
+
+![Best Practice vs Green Check Marks](images/ci_adding_green_checks_make_happy.jpeg)
 
 **Ported from private Knowledge Base page 2014+**
