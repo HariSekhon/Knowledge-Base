@@ -2054,10 +2054,9 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   its cold. 104/3 Mbit/s wifi, but not really a digital nomad working place unless it's summer, given there is
   almost zero indoor seating and a "no laptops" policy after 6pm or at weekends!
 - [Excalibur](https://maps.app.goo.gl/TBTnH6CXjqwG5YTi8) - medievil themed restaurant with excellent menu, popular for
-  groups and dates.
-  Has various beef, pork and chicken dishes and platters for groups. Internationally priced.
+  groups and dates. Has various beef, pork and chicken dishes and platters for groups. Internationally priced.
   The beef goulash in bread bowl is unfortunately mediocre at best compared to many other places across Europe,
-  but the other dishes look good.
+  and comes too dry, but the other dishes look good, on paper.
   Closes at 12, but kitchen closes at 11pm, but they may not serve soups at last order time.
   The lemonade is exactly as you'd make it at home. 6/3 Mbit open wifi 'lancelot'
 - [Cismigiu Gardens](https://maps.app.goo.gl/2DyWEWiJJLfmkrB56) - popular managed gardens park, romantic walks with many
