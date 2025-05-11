@@ -62,6 +62,7 @@
   - [C for the Brave and Foolish](#c-for-the-brave-and-foolish)
   - [Built Same Project in Multiple Languages](#built-same-project-in-multiple-languages)
   - [Pretend to be a Good Programmer](#pretend-to-be-a-good-programmer)
+  - [Programmers Then vs Now](#programmers-then-vs-now)
 
 <!-- INDEX_END -->
 
@@ -543,5 +544,9 @@ When you’re thinking about how to improve that code you wrote last night… �
 ### Pretend to be a Good Programmer
 
 ![Pretend to be a Good Programmer](images/pretend_to_be_a_good_programmer.jpeg)
+
+### Programmers Then vs Now
+
+![Programmers Then vs Now](images/programmers_then_vs_now.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
