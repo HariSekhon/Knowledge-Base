@@ -2044,9 +2044,9 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   The sea bass with black lentils was good, it comes with lemon and artisan salt flakes.
   The mixed side salad is a good accompanyment.
   96/48 Mbit/s wifi even sitting outside
-- [Sip Coffee & Wine](https://maps.app.goo.gl/FYcWDgsnejtGEjRn6) - gentrified coffee bar with a downstairs winebar, and
-  some trendy cushions on the window ledge seats of the road outside. Typical western prices, £3 for a coffee and £3
-  for a slice of cake. The hojicha (Japanese green tea) latte and vegan cherry chocolate cake were both good.
+- [Sip Coffee & Wine](https://maps.app.goo.gl/FYcWDgsnejtGEjRn6) - gentrified coffee shop with downstairs wine bar, with
+  some trendy cushions on the window ledge as seats facing the road outside. Typical western prices, £3 for a coffee and
+  £3 for a slice of cake. The hojicha (Japanese green tea) latte and vegan cherry chocolate cake were both good.
   54/89 Mbit/s wifi
 
 #### Brașov
