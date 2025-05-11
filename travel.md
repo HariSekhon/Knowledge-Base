@@ -2039,7 +2039,7 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   groups and dates.
   Has goulash in bread, as well as various beef, pork and chicken dishes and platters for groups.
   Internationally priced. Closes at 12, but kitchen closes at 11pm, but they may not serve soups at last order time.
-  The lemonade is exactly as you'd make it at home
+  The lemonade is exactly as you'd make it at home. 6/3 Mbit open wifi 'lancelot'
 - [Mom](https://maps.app.goo.gl/TfS4yye1AgkJbtqv6) - the mom burger is very good, with a big juicy patty and covered in
   a really great sauce, and comes with well seasoned crispy fries. 16/103 Mbit/s wifi
 - [AveForchetta](https://maps.app.goo.gl/dn5AD1Mdz78KB5e88) - very busy, no seats at 7:30pm on a Saturday
