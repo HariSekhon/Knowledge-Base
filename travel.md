@@ -2040,10 +2040,8 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
 - [AveForchetta](https://maps.app.goo.gl/dn5AD1Mdz78KB5e88) - very busy, no seats at 7:30pm on a Saturday
 - [Papila](https://maps.app.goo.gl/Yt2pedUuWkHRJ55E7) - small and busy, no seats at 6:30pm on a Saturday
 - [Bogdania Bistro](https://maps.app.goo.gl/pr2HNbwvkfkZSvas7) - very nice bistro with reasonable prices by
-  international standards.
-  The sea bass with black lentils was good, it comes with lemon and artisan salt flakes.
-  The mixed side salad is a good accompanyment.
-  96/48 Mbit/s wifi even sitting outside
+  international standards. The sea bass with black lentils was good, it comes with lemon and artisan salt flakes.
+  The mixed side salad is a good accompaniment. 96/48 Mbit/s wifi even sitting outside
 - [Sip Coffee & Wine](https://maps.app.goo.gl/FYcWDgsnejtGEjRn6) - gentrified coffee shop with downstairs wine bar, with
   some trendy cushions on the window ledge as seats facing the road outside. Typical western prices, £3 for a coffee and
   £3 for a slice of cake. The hojicha (Japanese green tea) latte and vegan cherry chocolate cake were both good.
