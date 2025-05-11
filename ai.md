@@ -52,6 +52,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Sales Guys wants to use Blockchain & AI](#sales-guys-wants-to-use-blockchain--ai)
   - [Vibe Coding is Easy](#vibe-coding-is-easy)
   - [Guys Who Thank ChatGPT](#guys-who-thank-chatgpt)
+  - [AI vs Jobs](#ai-vs-jobs)
 
 <!-- INDEX_END -->
 
@@ -323,3 +324,9 @@ Watch out for that quality and not knowing WTF you're doing!
 ### Guys Who Thank ChatGPT
 
 ![Guys Who Thank ChatGPT](images/ai_spares_guy_for_thanking_chatgpt.png)
+
+### AI vs Jobs
+
+![AI vs Jobs](images/ai_farmers_desk_workers_think_too_clever.jpeg)
+
+![AI vs Jobs Wavers](images/ai_weavers_desk_jobs.png)
