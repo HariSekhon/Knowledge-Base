@@ -2054,7 +2054,7 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   almost zero indoor seating
 - [Cismigiu Gardens](https://maps.app.goo.gl/2DyWEWiJJLfmkrB56) - popular managed gardens park, romantic walks with many
   couples, boat rides, cafes and a large play area of climbing activities and slides for kids
-- [Izvor Park](https://maps.app.goo.gl/7GRnzRYaZG3HBU1s6) - good park for dogs
+- [Izvor Park](https://maps.app.goo.gl/7GRnzRYaZG3HBU1s6) - good flat grassy park for dogs
 
 #### Brașov
 
