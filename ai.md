@@ -327,6 +327,9 @@ Watch out for that quality and not knowing WTF you're doing!
 
 ### AI vs Jobs
 
+Credit to [Claudio Viola](https://www.linkedin.com/in/claudio-remote-full-stack-software-engineer/) on LinkedIn
+for creating these using AI.
+
 ![AI vs Jobs](images/ai_vs_jobs_farmers.jpeg)
 
 ![AI vs Jobs Wavers](images/ai_vs_jobs_weavers.png)
