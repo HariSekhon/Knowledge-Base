@@ -2052,8 +2052,8 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   The pre-pressed orange turmeric juice is very good, albeit small at 200ml for £3.20.
   Trendy places 🙄. 104/3 Mbit/s wifi, but not really a digital nomad working place unless it's summer, given there is
   almost zero indoor seating
-- [Cismigiu Gardens](https://maps.app.goo.gl/2DyWEWiJJLfmkrB56) - popular park, like a managed gardens, romantic walk
-  with many couples, boat rides, cafes and a large play area of climbing activities and slides for kids
+- [Cismigiu Gardens](https://maps.app.goo.gl/2DyWEWiJJLfmkrB56) - popular managed gardens park, romantic walks with many
+  couples, boat rides, cafes and a large play area of climbing activities and slides for kids
 - [Izvor Park](https://maps.app.goo.gl/7GRnzRYaZG3HBU1s6) - good park for dogs
 
 #### Brașov
