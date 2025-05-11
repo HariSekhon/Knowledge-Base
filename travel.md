@@ -2031,7 +2031,7 @@ the bridge toll is €4 and can be paid by card at the bridge entry. Apparently 
 
 #### Bucharest
 
-You only need a couple days in Bucharest, I made the mistake of booking a week.
+You only need 2-3 days in Bucharest, I made the mistake of booking a week.
 
 Restaurant availability on a Saturday night is very poor, similar to Edinburgh, you may want to reserve a table.
 
