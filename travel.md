@@ -2039,6 +2039,8 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   a really great sauce, and comes with well seasoned crispy fries. 16/103 Mbit/s wifi
 - [AveForchetta](https://maps.app.goo.gl/dn5AD1Mdz78KB5e88) - very busy, no seats at 7:30pm on a Saturday
 - [PAPILA](https://maps.app.goo.gl/Yt2pedUuWkHRJ55E7) - small and busy, no seats at 6:30pm on a Saturday
+- [Bogdania Bistro](https://maps.app.goo.gl/pr2HNbwvkfkZSvas7) - very nice bistro with reasonable prices by
+  international standards. 96/48 Mbit/s wifi even sitting outside
 
 #### Brașov
 
