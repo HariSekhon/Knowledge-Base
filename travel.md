@@ -2050,8 +2050,9 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   small candles, good young person's date place, but people are sitting in coats even in May, almost no indoor seating,
   which is basically an alcove by the toilet.
   The pre-pressed orange turmeric juice is very good, albeit small at 200ml for £3.20.
-  Trendy places 🙄. 104/3 Mbit/s wifi, but not really a digital nomad working place unless it's summer, given there is
-  almost zero indoor seating
+  Trendy places 🙄. They don't do the hot milk drink you see on the online menu unless its winter, not even in May when
+  its cold. 104/3 Mbit/s wifi, but not really a digital nomad working place unless it's summer, given there is
+  almost zero indoor seating and a "no laptops" policy after 6pm or at weekends!
 - [Cismigiu Gardens](https://maps.app.goo.gl/2DyWEWiJJLfmkrB56) - popular managed gardens park, romantic walks with many
   couples, boat rides, cafes and a large play area of climbing activities and slides for kids
 - [Izvor Park](https://maps.app.goo.gl/7GRnzRYaZG3HBU1s6) - good flat grassy park for dogs
