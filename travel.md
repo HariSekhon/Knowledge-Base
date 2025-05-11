@@ -2048,6 +2048,12 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   some trendy cushions on the window ledge as seats facing the road outside. Typical western prices, £3 for a coffee and
   £3 for a slice of cake. The hojicha (Japanese green tea) latte and vegan cherry chocolate cake were both good.
   54/89 Mbit/s wifi
+- [Artichoke Social House](https://maps.app.goo.gl/Gm4XXdSZiVZrS4nF9) -dark outdoor seating with small candles,
+  good young person's date place, but people are sitting in coats even in May, almost no indoor seating, which is
+  basically an alcove by the toilet.
+  The pre-pressed orange turmeric juice is very good, albeit small at 200ml for £3.20.
+  Trendy places 🙄. 104/3 Mbit/s wifi, but not really a digital nomad working place unless it's summer, given there is
+  almost zero indoor seating
 
 #### Brașov
 
