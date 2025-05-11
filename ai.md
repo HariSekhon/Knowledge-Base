@@ -327,6 +327,6 @@ Watch out for that quality and not knowing WTF you're doing!
 
 ### AI vs Jobs
 
-![AI vs Jobs](images/ai_farmers_desk_workers_think_too_clever.jpeg)
+![AI vs Jobs](images/ai_vs_jobs_farmers.jpeg)
 
-![AI vs Jobs Wavers](images/ai_weavers_desk_jobs.png)
+![AI vs Jobs Wavers](images/ai_vs_jobs_weavers.png)
