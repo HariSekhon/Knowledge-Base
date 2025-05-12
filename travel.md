@@ -2037,7 +2037,9 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
 
 - [Reina Brasserie](https://maps.app.goo.gl/HFkz2ocUxQNVSjDq6) - excellent menu and reasonable prices, good ambience,
   good drinks menu from wine & cocktails to beers, milkshakes and coffees. Good service, plenty of seating, more seating
-  downstairs, and all day breakfast available too. Fast 241/263 Mbit/s wifi
+  downstairs, and all day breakfast available too.
+  The beef schnitzel portion size is substantial and comes pre-cut, while the patatas bravas are excellent, crispy and
+  light, and all covered in large square parmesan shavings. Excellent food quality. Fast 241/263 Mbit/s wifi
 - [Mom](https://maps.app.goo.gl/TfS4yye1AgkJbtqv6) - the mom burger is very good, with a big juicy patty and covered in
   a really great sauce, and comes with well seasoned crispy fries. 16/103 Mbit/s wifi
 - [AveForchetta](https://maps.app.goo.gl/dn5AD1Mdz78KB5e88) - very busy, no seats at 7:30pm on a Saturday
