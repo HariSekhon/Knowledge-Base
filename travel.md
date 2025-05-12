@@ -2055,7 +2055,8 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   almost zero indoor seating and a "no laptops" policy after 6pm or at weekends!
 - [Waterloo Taverne](https://maps.app.goo.gl/CbyTrUR6qr7Vrt5AA) - probably the best Belgian restaurant in Bucharest,
   classy with piano music.
-  Had onion soup starter, and duck leg with mashed potatoes, truffles.
+  The candied duck leg with mashed potatoes and truffles is good,
+  but not too filling so if you don't have a starter you'll have space for dessert.
   They of course have a big selection of Moules Frites (chips and mussels),
   steaks, chicken, starters and a selection of Belgian beers.
   Wifi is very poor though, in both signal strength and speed under 1Mbit/s -
