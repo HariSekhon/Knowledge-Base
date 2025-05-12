@@ -2046,6 +2046,9 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   some trendy cushions on the window ledge as seats facing the road outside. Typical western prices, £3 for a coffee and
   £3 for a slice of cake. The hojicha (Japanese green tea) latte and vegan cherry chocolate cake were both good.
   54/89 Mbit/s wifi
+- [French Bakery](https://maps.app.goo.gl/puKvwPqPZmfzJLUM8) - small coffee and dessert shop on the main road. The fruit
+  tart is very good, the latte is decent (I'm not a coffee connoisseur to really judge this). 36/37 Mbit/s wifi,
+  although it needed a router reboot to start working properly
 - [Artichoke Social House](https://maps.app.goo.gl/Gm4XXdSZiVZrS4nF9) - coffee / cocktails, dark outdoor seating with
   small candles, good young person's date place, but people are sitting in coats even in May, almost no indoor seating,
   which is basically an alcove by the toilet.
@@ -2059,8 +2062,8 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   but not too filling so if you don't have a starter you'll have space for dessert.
   They of course have a big selection of Moules Frites (chips and mussels),
   steaks, chicken, starters and a selection of Belgian beers.
-  Wifi is very poor though, in both signal strength and speed under 1Mbit/s -
-  2.4 network only 1/0.15 Mbit/s, 5G network 2/1 Mbit/s
+  68/11 Mbit/s wifi, but signal is too poor to work at the front of the restaurant,
+  so sit in the middle or back of the restaurant if you need wifi
 - [Excalibur](https://maps.app.goo.gl/TBTnH6CXjqwG5YTi8) - medievil themed restaurant with excellent menu, popular for
   groups and dates. Has various beef, pork and chicken dishes and platters for groups. Internationally priced.
   The beef goulash in bread bowl is unfortunately mediocre at best compared to many other places across Europe,
