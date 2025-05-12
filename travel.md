@@ -2053,6 +2053,13 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   Trendy places 🙄. They don't do the hot milk drink you see on the online menu unless its winter, not even in May when
   its cold. 104/3 Mbit/s wifi, but not really a digital nomad working place unless it's summer, given there is
   almost zero indoor seating and a "no laptops" policy after 6pm or at weekends!
+- [Waterloo Taverne](https://maps.app.goo.gl/CbyTrUR6qr7Vrt5AA) - probably the best belgian restaurant in Bucharest,
+  classy with piano music.
+  Had onion soup starter, and duck leg with mashed potatoes, truffles.
+  They of course have a big selection of Moules Frites (chips and mussels),
+  steaks, chicken, starters and a selection of Belgian beers.
+  Wifi is very poor though, in both signal strength and speed under 1Mbit/s -
+  2.4 network only 1/0.15 Mbit/s, 5G network 2/1 Mbit/s
 - [Excalibur](https://maps.app.goo.gl/TBTnH6CXjqwG5YTi8) - medievil themed restaurant with excellent menu, popular for
   groups and dates. Has various beef, pork and chicken dishes and platters for groups. Internationally priced.
   The beef goulash in bread bowl is unfortunately mediocre at best compared to many other places across Europe,
