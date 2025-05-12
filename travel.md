@@ -2053,7 +2053,7 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   Trendy places 🙄. They don't do the hot milk drink you see on the online menu unless its winter, not even in May when
   its cold. 104/3 Mbit/s wifi, but not really a digital nomad working place unless it's summer, given there is
   almost zero indoor seating and a "no laptops" policy after 6pm or at weekends!
-- [Waterloo Taverne](https://maps.app.goo.gl/CbyTrUR6qr7Vrt5AA) - probably the best belgian restaurant in Bucharest,
+- [Waterloo Taverne](https://maps.app.goo.gl/CbyTrUR6qr7Vrt5AA) - probably the best Belgian restaurant in Bucharest,
   classy with piano music.
   Had onion soup starter, and duck leg with mashed potatoes, truffles.
   They of course have a big selection of Moules Frites (chips and mussels),
