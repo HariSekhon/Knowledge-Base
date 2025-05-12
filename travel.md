@@ -2036,8 +2036,8 @@ You only need 2-3 days in Bucharest, I made the mistake of booking a week.
 Restaurant availability on a Saturday night is very poor, similar to Edinburgh, you may want to reserve a table.
 
 - [Reina Brasserie](https://maps.app.goo.gl/HFkz2ocUxQNVSjDq6) - excellent menu and reasonable prices, good ambience,
-  wine, good service, plenty of seating, more seating downstairs, and all day breakfast available too.
-  Fast 241/263 Mbit/s wifi
+  good drinks menu from wine & cocktails to beers, milkshakes and coffees. Good service, plenty of seating, more seating
+  downstairs, and all day breakfast available too. Fast 241/263 Mbit/s wifi
 - [Mom](https://maps.app.goo.gl/TfS4yye1AgkJbtqv6) - the mom burger is very good, with a big juicy patty and covered in
   a really great sauce, and comes with well seasoned crispy fries. 16/103 Mbit/s wifi
 - [AveForchetta](https://maps.app.goo.gl/dn5AD1Mdz78KB5e88) - very busy, no seats at 7:30pm on a Saturday
