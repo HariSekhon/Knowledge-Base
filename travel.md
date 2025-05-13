@@ -2040,6 +2040,9 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   downstairs, and all day breakfast available too.
   The beef schnitzel portion size is substantial and comes pre-cut, while the patatas bravas are excellent, crispy and
   light, and all covered in large square parmesan shavings. Excellent food quality. Fast 241/263 Mbit/s wifi
+- [Restaurant TOKA](https://maps.app.goo.gl/vWTSiBiqmyrMNLQa8) - upmarket restaurant but away from the centre so you'll
+  get better food.
+  Wifi is slow at only 7/1 Mbit/s and only works in the rear section of the restaurant
 - [Mom](https://maps.app.goo.gl/TfS4yye1AgkJbtqv6) - the mom burger is very good, with a big juicy patty and covered in
   a really great sauce, and comes with well seasoned crispy fries. 16/103 Mbit/s wifi
 - [AveForchetta](https://maps.app.goo.gl/dn5AD1Mdz78KB5e88) - very busy, no seats at 7:30pm on a Saturday
@@ -2078,6 +2081,10 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
 - [Cismigiu Gardens](https://maps.app.goo.gl/2DyWEWiJJLfmkrB56) - popular managed gardens park, romantic walks with many
   couples, boat rides, cafes and a large play area of climbing activities and slides for kids
 - [Izvor Park](https://maps.app.goo.gl/7GRnzRYaZG3HBU1s6) - good flat grassy park for dogs
+
+TODO:
+
+- [Arto](https://maps.app.goo.gl/pBEaGx8uk1gS9q7f9) - fancy restaurant
 
 #### Brașov
 
