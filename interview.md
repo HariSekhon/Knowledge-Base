@@ -12,6 +12,7 @@
 - [Memes](#memes)
   - [Navigating the Tech Industry - How to Make Money](#navigating-the-tech-industry---how-to-make-money)
   - [Recruitment - Vetting Candidates by Parroting Keywords](#recruitment---vetting-candidates-by-parroting-keywords)
+  - [Careers today are a walk in the park...](#careers-today-are-a-walk-in-the-park)
 
 <!-- INDEX_END -->
 
@@ -84,3 +85,7 @@ Be genuinely interested in the situation of their environment.
 ### Recruitment - Vetting Candidates by Parroting Keywords
 
 ![Recruitment - Vetting Candidates by Parroting Keywords](images/orly_recruitment_vetting_candidates_by_parroting_keywords.png)
+
+### Careers today are a walk in the park...
+
+![Careers today are a walk in the park...](images/careers_today_walk_in_park_jurassic_park.jpeg)
