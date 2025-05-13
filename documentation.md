@@ -26,6 +26,7 @@
   - [Postmortem Analysis - Explaining Production Outages](#postmortem-analysis---explaining-production-outages)
   - [Mentoring Juniors](#mentoring-juniors)
   - [Peacocking Your Code](#peacocking-your-code)
+  - [The Handover](#the-handover)
 
 <!-- INDEX_END -->
 
@@ -248,6 +249,8 @@ If someone gives you this response, send them here to show them how it's done. :
 
 ![senior_guides_and_teaches](images/non_toxic_senior_who_guides_and_teaches_me_I_will_fight_for_you.jpeg)
 
+**I may well call upon you to defeat tedious Agile ceremonies!**
+
 ### Debugging Code After Handover
 
 Make friends with the departing techie and get his WhatsApp.
@@ -272,4 +275,8 @@ You're going to need it.
 
 ![Peacocking Your Code](images/orly_peacocking_your_code.jpeg)
 
-**I may well call upon you to defeat tedious Agile ceremonies!**
+### The Handover
+
+Without good documentation, this is the handover.
+
+![The Handover](images/the_handover.jpeg)
