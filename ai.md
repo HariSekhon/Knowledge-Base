@@ -71,6 +71,8 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 
 <https://chat.openai.com/chat>
 
+[OpenAI Cookbook](https://cookbook.openai.com/)
+
 ### Deepseek
 
 <https://chat.deepseek.com/>
@@ -262,7 +264,7 @@ Combines LLM with referencing an authoritative traditional Knowledge Base before
 
 ![List of AI Tools by Categories](images/list-of-ai-tools-by-categories.webp)
 
-## Meme
+## Memes
 
 ### LLM - How to Plagiarize Like a Pro
 
