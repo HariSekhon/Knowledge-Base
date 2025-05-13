@@ -76,7 +76,10 @@ People will also feel more comfortable buying from a US company than some random
 
 #### US Bank Account
 
-- [Mercury](https://mercury.com/r/internet-made-coder-llc) - technically not a bank, but rather a fintech company
+- [Mercury](https://mercury.com/r/internet-made-coder-llc) - technically not a bank, but rather a fintech company.
+  WARNING: Mercury uses partner banks, who de-risked causing thousands of client accounts being closed.
+
+[Offshore Banking Advice Video](https://www.youtube.com/watch?v=IAZ1SOUi0HQ)
 
 ### Hong Kong
 
