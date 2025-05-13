@@ -4,6 +4,7 @@ NOT PORTED YET
 
 <!-- INDEX_START -->
 
+- [GitHub Skills Training](#github-skills-training)
 - [Access](#access)
   - [Personal Access Tokens](#personal-access-tokens)
   - [Configure SSH Keys](#configure-ssh-keys)
@@ -32,6 +33,10 @@ NOT PORTED YET
   - [Approving Own Pull Requests](#approving-own-pull-requests)
 
 <!-- INDEX_END -->
+
+## GitHub Skills Training
+
+<https://skills.github.com/>
 
 ## Access
 
