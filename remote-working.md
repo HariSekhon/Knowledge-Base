@@ -18,6 +18,7 @@
   - [Working at Office vs Home](#working-at-office-vs-home)
   - [Office Culture](#office-culture)
   - [Digital Nomadding - Run Wild Like a Stallion](#digital-nomadding---run-wild-like-a-stallion)
+  - [Matrix - You Are Here](#matrix---you-are-here)
   - [Build A Life You Don't Need a Vacation From](#build-a-life-you-dont-need-a-vacation-from)
   - [Dev vs Dev Working From Home](#dev-vs-dev-working-from-home)
 
@@ -105,6 +106,14 @@ TODO
 ### Digital Nomadding - Run Wild Like a Stallion
 
 ![Digital Nomadding - Run Wild Like a Stallion](images/orly_digital_nomadding_run_wild_like_a_stallion.png)
+
+### Matrix - You Are Here
+
+If you keep paying ~50% tax and the rest on cost of living...
+
+…then of course you’re going to stay trapped in the Matrix.
+
+![Matrix - You Are Here](images/matrix_you_are_here_crying_in_shower_before_work.jpeg)
 
 ### Build A Life You Don't Need a Vacation From
 
