@@ -2083,6 +2083,8 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   and comes too dry, but the other dishes look good, on paper.
   Closes at 12, but kitchen closes at 11pm, but they may not serve soups at last order time.
   The lemonade is exactly as you'd make it at home. 6/3 Mbit open wifi 'lancelot'
+- [Coffee Store](https://maps.app.goo.gl/ieZMPGMnYUjTo8Xv6) - coffees, spiced chait latte, pastries. Also serves a
+  range of alcoholic drinks as many do in this area
 - [Cismigiu Gardens](https://maps.app.goo.gl/2DyWEWiJJLfmkrB56) - popular managed gardens park, romantic walks with many
   couples, boat rides, cafes and a large play area of climbing activities and slides for kids
 - [Izvor Park](https://maps.app.goo.gl/7GRnzRYaZG3HBU1s6) - good flat grassy park for dogs
