@@ -2042,6 +2042,10 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   light, and all covered in large square parmesan shavings. Excellent food quality. Fast 241/263 Mbit/s wifi
 - [Restaurant TOKA](https://maps.app.goo.gl/vWTSiBiqmyrMNLQa8) - upmarket restaurant but away from the centre so you'll
   get better food.
+  The creamy chicken and walnut soup was amazing,
+  the best in its class I've had in years, flavourful and bigger than expected, with high quality cubes of chicken,
+  plus comes with 4 slices of seeded toasts. Add the provided lemon for an extra zing - they also served chilli flakes,
+  olive oil and balsamic platter. I'd return just for this soup alone.
   Wifi is slow at only 7/1 Mbit/s and only works in the rear section of the restaurant
 - [Mom](https://maps.app.goo.gl/TfS4yye1AgkJbtqv6) - the mom burger is very good, with a big juicy patty and covered in
   a really great sauce, and comes with well seasoned crispy fries. 16/103 Mbit/s wifi
