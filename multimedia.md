@@ -389,7 +389,7 @@ youtube_download_channel.sh "$url"
 
 <https://stacher.io/>
 
-### Inspect Media File
+### Inspect Video File
 
 ```shell
 ffprobe "$file"
