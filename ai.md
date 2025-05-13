@@ -71,6 +71,8 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 
 <https://chat.openai.com/chat>
 
+[:octocat: Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+
 [OpenAI Cookbook](https://cookbook.openai.com/)
 
 ### Deepseek
