@@ -42,6 +42,7 @@ NOT PORTED YET.
   - [Porting Your Language to the JVM](#porting-your-language-to-the-jvm)
   - [Imported Package Tariffs](#imported-package-tariffs)
   - [Santa, Want Dragon](#santa-want-dragon)
+  - [Balancing Dog](#balancing-dog)
 
 <!-- INDEX_END -->
 
@@ -458,5 +459,9 @@ Azul's OpenJDK distribution with commercial support and JavaFX options.
 ### Santa, Want Dragon
 
 ![Santa, Want Dragon](images/santa_want_dragon_java_less_verbose.jpeg)
+
+### Balancing Dog
+
+![Balancing Dog](images/balancing_dog_object_oriented_programming.jpeg)
 
 **Ported from various private Knowledge Base pages 2010+**
