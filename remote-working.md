@@ -21,6 +21,7 @@
   - [Matrix - You Are Here](#matrix---you-are-here)
   - [Build A Life You Don't Need a Vacation From](#build-a-life-you-dont-need-a-vacation-from)
   - [Dev vs Dev Working From Home](#dev-vs-dev-working-from-home)
+  - [Careers today are a walk in the park...](#careers-today-are-a-walk-in-the-park)
 
 <!-- INDEX_END -->
 
@@ -124,3 +125,7 @@ If you keep paying ~50% tax and the rest on cost of living...
 You guys bother wearing your glasses and trunks when working from home? 😂
 
 ![Dev vs Dev Working From Home](images/dev_vs_dev_working_from_home_clothing.jpeg)
+
+### Careers today are a walk in the park...
+
+![Careers today are a walk in the park...](images/careers_today_walk_in_park_jurassic_park.jpeg)
