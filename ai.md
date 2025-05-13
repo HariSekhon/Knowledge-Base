@@ -36,7 +36,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 - [Debugging](#debugging)
 - [Job Search](#job-search)
 - [List of AI Tools By Categories](#list-of-ai-tools-by-categories)
-- [Meme](#meme)
+- [Memes](#memes)
   - [LLM - How to Plagiarize Like a Pro](#llm---how-to-plagiarize-like-a-pro)
   - [Building AI to Replace Humans](#building-ai-to-replace-humans)
   - [Fewer Devs, Fewer Managers](#fewer-devs-fewer-managers)
