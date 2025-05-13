@@ -128,6 +128,7 @@ References to official docs and some classic books are provided for those who wa
   - [DevOps Reloaded](#devops-reloaded)
   - [Templates](#templates)
   - [Misc](#misc)
+- [Other Resources](#other-resources)
 
 <!-- INDEX_END -->
 
@@ -854,3 +855,7 @@ Pre-built Docker images are available on my [DockerHub](https://hub.docker.com/u
 ![](https://hit.yhype.me/github/profile?user_id=2211051)
 
 <!-- OTHER_REPOS_END -->
+
+## Other Resources
+
+[:octocat: papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
