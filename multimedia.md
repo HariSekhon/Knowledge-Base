@@ -25,7 +25,7 @@ Media file analysis, editing, transcoding and conversions.
     - [Download Video Not Inferred from Web Page](#download-video-not-inferred-from-web-page)
     - [Download All Videos from YouTube Channel](#download-all-videos-from-youtube-channel)
     - [Stacher7 - GUI for yt-dlp](#stacher7---gui-for-yt-dlp)
-  - [Inspect Media File](#inspect-media-file)
+  - [Inspect Video File](#inspect-video-file)
     - [Get the resolution and other details like codec for a video file](#get-the-resolution-and-other-details-like-codec-for-a-video-file)
   - [Downscale Video to 720p mp4](#downscale-video-to-720p-mp4)
   - [Clip Video](#clip-video)
