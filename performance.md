@@ -2,6 +2,9 @@
 
 <!-- INDEX_START -->
 
+- [Quick Dump All Stats](#quick-dump-all-stats)
+  - [Dump Stats Locally](#dump-stats-locally)
+  - [Dump Stats Across Servers Using SSH](#dump-stats-across-servers-using-ssh)
 - [CPU](#cpu)
 - [RAM / Memory](#ram--memory)
   - [OOM Killer - Out of Memory Killer](#oom-killer---out-of-memory-killer)
@@ -11,6 +14,39 @@
   - [Hunting down elusive sources of I/O wait](#hunting-down-elusive-sources-of-io-wait)
 
 <!-- INDEX_END -->
+
+## Quick Dump All Stats
+
+Using scripts from [DevOps-Bash-tools](devops-bash-tools.md) repo..
+
+### Dump Stats Locally
+
+```bash
+dump_stats.sh
+```
+
+Generates:
+
+```text
+stats-bundle.YYYY-MM-DD-HHSS.tar.gz
+```
+
+If `export NO_REMOVE_STATS_DIR=1` is set,
+then leaves the intermediate `stats-bundle.YYYY-MM-DD-HHSS` directory with text files.
+
+### Dump Stats Across Servers Using SSH
+
+```bash
+ssh_dump_stats.sh "$server1" "$server2" "$server3"
+```
+
+Generates:
+
+```text
+server1.stats-bundle.YYYY-MM-DD-HHSS.tar.gz
+server2.stats-bundle.YYYY-MM-DD-HHSS.tar.gz
+server3.stats-bundle.YYYY-MM-DD-HHSS.tar.gz
+```
 
 ## CPU
 
