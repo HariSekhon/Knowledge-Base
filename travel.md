@@ -2068,9 +2068,10 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   Trendy places 🙄. They don't do the hot milk drink you see on the online menu unless its winter, not even in May when
   its cold. 104/3 Mbit/s wifi, but not really a digital nomad working place unless it's summer, given there is
   almost zero indoor seating and a "no laptops" policy after 6pm or at weekends!
-- [Ruby Coffee Nuts & Chocolate](https://maps.app.goo.gl/ZSx4uSuzbnRp3Bp99) - the ginger orange, honey and lemon fresh
-  juice was nice, although came in a martini class so a bit small. It has a selection of chocolates, nuts, jams and
-  gift boxes. This is the sort of place one accommodates one's girlfriend
+- [Ruby Coffee Nuts & Chocolate](https://maps.app.goo.gl/ZSx4uSuzbnRp3Bp99) - the Ruby Ginger Juice with ginger, fresh
+  orange juice, lemon and honey was good, although came in a martini class so a bit small.
+  The venue has a selection of chocolates, nuts, jams and gift hampers.
+  This is the sort of place one accommodates one's girlfriend
 - [Waterloo Taverne](https://maps.app.goo.gl/CbyTrUR6qr7Vrt5AA) - probably the best Belgian restaurant in Bucharest,
   classy with piano music.
   The candied duck leg with mashed potatoes and truffles is good,
