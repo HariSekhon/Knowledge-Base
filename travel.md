@@ -2071,7 +2071,8 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
 - [Ruby Coffee Nuts & Chocolate](https://maps.app.goo.gl/ZSx4uSuzbnRp3Bp99) - the Ruby Ginger Juice with ginger, fresh
   orange juice, lemon and honey was good, although came in a martini class so a bit small.
   The venue has a selection of chocolates, nuts, jams and gift hampers.
-  This is the sort of place one accommodates one's girlfriend
+  This is the sort of place one accommodates one's girlfriend.
+  Good selection of teas, coffees, juices, smoothies, alcohols, beers, wines and cocktails
 - [Waterloo Taverne](https://maps.app.goo.gl/CbyTrUR6qr7Vrt5AA) - probably the best Belgian restaurant in Bucharest,
   classy with piano music.
   The candied duck leg with mashed potatoes and truffles is good,
