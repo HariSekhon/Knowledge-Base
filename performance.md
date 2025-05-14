@@ -187,6 +187,10 @@ lsof
 strace
 ```
 
+## Network
+
+See [Networking](networking.md) page for tools.
+
 ### APM - Application Performance Management
 
 [AppDynamics](https://www.appdynamics.com/) and [New Relic](https://newrelic.com/) are the two most famous ones.
