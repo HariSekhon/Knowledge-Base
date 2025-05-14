@@ -7,6 +7,7 @@
 
 <!-- INDEX_START -->
 
+- [Interactive Monitoring](#interactive-monitoring)
 - [Cloud Monitoring Services](#cloud-monitoring-services)
 - [APM - Application Performance Monitoring](#apm---application-performance-monitoring)
 - [Nagios](#nagios)
@@ -17,6 +18,10 @@
   - [Geneos](#geneos)
 
 <!-- INDEX_END -->
+
+## Interactive Monitoring
+
+See the [Performance](performance.md) page for live commands and text dumps.
 
 ## Cloud Monitoring Services
 
