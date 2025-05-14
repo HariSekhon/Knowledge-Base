@@ -2086,6 +2086,7 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   Closes at 12, but kitchen closes at 11pm, but they may not serve soups at last order time.
   The lemonade is exactly as you'd make it at home. 6/3 Mbit open wifi 'lancelot'
 - [Papila](https://maps.app.goo.gl/Yt2pedUuWkHRJ55E7) - expensive, small and busy, no seats at 6:30pm on a Saturday.
+  The dinner set combination menu is relatively expensive compared to other Bucharest restaurants.
   The lunch menu from 12-17:00 is a bit cheaper, but I still spent £27 for 2 courses and a Kimchi side, without even
   a drink. On the lunch menu the noodle soup starter with minced meat was almost the size of a main dish,
   but not worth it in flavour or at nearly £9. Skip it or pick one of the other soups for half the price next time.
