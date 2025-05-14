@@ -9,6 +9,7 @@
 - [RAM / Memory](#ram--memory)
   - [OOM Killer - Out of Memory Killer](#oom-killer---out-of-memory-killer)
 - [Disk](#disk)
+  - [I/O](#io)
 - [Linux CLI tools](#linux-cli-tools)
   - [APM - Application Performance Management](#apm---application-performance-management)
   - [Hunting down elusive sources of I/O wait](#hunting-down-elusive-sources-of-io-wait)
@@ -58,6 +59,22 @@ server3.stats-bundle.YYYY-MM-DD-HHSS.tar.gz
   - example Azure DevOps agent on Windows doing Docker build with this in Dockerfile: `COPY --from=builder node_modules .` (NodeJS directory full of small library files)
     - Fix/Workaround: configure the anti-virus software to not scan the CI/CD agent workdir where Docker is building - this resulted in speed up from 2 hours build timeout to 2 minutes!
 
+Top is better on Linux than Mac:
+
+```shell
+top
+```
+
+Top snapshot on Linux:
+
+```shell
+top -H -b -n 1
+```
+
+```shell
+mpstat -P ALL 1 5
+```
+
 ## RAM / Memory
 
 - Paging vs Swapping
@@ -74,6 +91,34 @@ If you have limited physical RAM then it can be valid to use swap partition / pa
 
 <https://www.linuxatemyram.com/>
 
+Linux commands:
+
+```shell
+free -g
+```
+
+```shell
+vmstat 1 5
+```
+
+```shell
+sar -u 1 5
+```
+
+```shell
+sar -A
+```
+
+Mac commands:
+
+```shell
+memory_pressure
+```
+
+```shell
+top -l 1 -stats pid,command,cpu,th,pstate,time,cpu -ncols 16 | head -n "$LINES"
+```
+
 ### OOM Killer - Out of Memory Killer
 
 Linux specific algorithm in the linux kernel that activates when out of both physical RAM and swap - it finds the app taking up the most memory and kills it to save the rest of the OS and other applications.
@@ -85,6 +130,16 @@ But often that killed app was the main big app that you want to run on a server!
 However, it's still usually the better option than the entire system seizing up and becoming unresponsive as you can just restart the application, and a seized up computer often requires a hard power cycle which is the worst option.
 
 There is however the risk of data loss of unflushed data buffers as it's essentially a `kill -9` without warning to the app, but no worse than a hard power cycle.
+
+You can see this in the kernel logs, try:
+
+```shell
+less /var/log/messages
+```
+
+```shell
+dmesg
+```
 
 ## Disk
 
@@ -98,6 +153,29 @@ There is however the risk of data loss of unflushed data buffers as it's essenti
   - faster, better for random I/O but with limited number of writes and wear out
   - more expensive / smaller sizes for the same money
   - use these if you have the money or care about performance
+
+Show Used vs Available Disk Space in human readable units eg. MB or GB or TB:
+
+```shell
+df -h
+```
+
+If disk space isn't being removed after removing files, it's possible they are being held open by a running process.
+
+To see open files:
+
+```shell
+lsof -n
+```
+
+(the `-n` switch skips DNS resolution to speed up the command
+or prevent it from hanging temporarily trying to reverse resolve IP addresses to DNS FQDNs)
+
+### I/O
+
+```shell
+iostat -c 5
+```
 
 ## Linux CLI tools
 
