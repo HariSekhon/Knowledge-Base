@@ -2070,6 +2070,7 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   almost zero indoor seating and a "no laptops" policy after 6pm or at weekends!
 - [Ruby Coffee Nuts & Chocolate](https://maps.app.goo.gl/ZSx4uSuzbnRp3Bp99) - the Ruby Ginger Juice with ginger, fresh
   orange juice, lemon and honey was good, although came in a martini class so a bit small.
+  The Happy smoothie was very good too, but also small, it came in what looks like a small jam jar.
   The venue has a selection of chocolates, nuts, jams and gift hampers.
   This is the sort of place one accommodates one's girlfriend.
   Good selection of teas, coffees, juices, smoothies, alcohols, beers, wines and cocktails
