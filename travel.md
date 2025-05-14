@@ -2091,10 +2091,11 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   served in a mini dish no bigger than your palm, and it cost £4-5. The Papila network wifi has no password, just a
   capture terms. At 17:50, with the restaurant nearly entirely empty at the end of the lunch period, sitting stuffed
   from having over ordered, but disappointed in flavours, and 1 minute after I settled the bill with a tip... within
-  30 seconds of opening my laptop to write this review, the waitress immediately informed me that I can't use my laptop
-  because of a strict no laptop policy. I looked around the empty restaurant, then back at her, it wasn't like they
-  needed the space, packed up and left. Lack of customer service and common sense. I'd skip Papila next time, I've seen
-  what they've got, the food was nothing special and the service was better at other restaurants too.
+  30 seconds of opening my laptop to ironically write this restaurant review, the waitress immediately informed me that
+  I can't use my laptop because of a strict no laptop policy. I looked around the empty restaurant, then back at her,
+  it wasn't like they needed the space, packed up and left. I didn't even get a minute to run a wifi speed test.
+  Lack of customer service and common sense. I'd skip Papila next time, I've seen what they've got,
+  the food was nothing special and the service was better at other restaurants too.
   Overall a disappointing restaurant.
 - [Coffee Store](https://maps.app.goo.gl/ieZMPGMnYUjTo8Xv6) - coffees, spiced chait latte, pastries. Also serves a
   range of alcoholic drinks as many do in this area
