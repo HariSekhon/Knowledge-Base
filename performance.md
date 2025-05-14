@@ -11,6 +11,7 @@
 - [Disk](#disk)
   - [I/O](#io)
 - [Linux CLI tools](#linux-cli-tools)
+- [Network](#network)
   - [APM - Application Performance Management](#apm---application-performance-management)
   - [Hunting down elusive sources of I/O wait](#hunting-down-elusive-sources-of-io-wait)
 
