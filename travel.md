@@ -2053,15 +2053,15 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
 - [Bogdania Bistro](https://maps.app.goo.gl/pr2HNbwvkfkZSvas7) - very nice bistro with reasonable prices by
   international standards. The sea bass with black lentils was good, it comes with lemon and artisan salt flakes.
   The mixed side salad is a good accompaniment. 96/48 Mbit/s wifi even sitting outside
+- [Sip Coffee & Wine](https://maps.app.goo.gl/FYcWDgsnejtGEjRn6) - gentrified coffee shop with downstairs wine bar, with
+  some trendy cushions on the window ledge as seats facing the road outside. Typical western prices, £3 for a coffee and
+  £3 for a slice of cake. The hojicha (Japanese green tea) latte and vegan cherry chocolate cake were both good.
+  54/89 Mbit/s wifi
 - [AveForchetta](https://maps.app.goo.gl/dn5AD1Mdz78KB5e88) - very busy, no seats at 7:30pm on a Saturday
 - [Papila](https://maps.app.goo.gl/Yt2pedUuWkHRJ55E7) - small and busy, no seats at 6:30pm on a Saturday. It's a bit
   pricey too, try lunch at 12-17:00 it's a bit cheaper.
   On the lunch menu the noodle soup starter with minced meat was almost the size of a main dish,
   but not worth the nearly £9. Skip it or pick one of the other soups for half the price next time.
-- [Sip Coffee & Wine](https://maps.app.goo.gl/FYcWDgsnejtGEjRn6) - gentrified coffee shop with downstairs wine bar, with
-  some trendy cushions on the window ledge as seats facing the road outside. Typical western prices, £3 for a coffee and
-  £3 for a slice of cake. The hojicha (Japanese green tea) latte and vegan cherry chocolate cake were both good.
-  54/89 Mbit/s wifi
 - [French Bakery](https://maps.app.goo.gl/puKvwPqPZmfzJLUM8) - small coffee and dessert shop on the main road. The fruit
   tart is very good, the latte is decent (I'm not a coffee connoisseur to really judge this). 36/37 Mbit/s wifi,
   although it needed a router reboot to start working properly
