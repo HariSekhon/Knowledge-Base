@@ -2068,6 +2068,8 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   Trendy places 🙄. They don't do the hot milk drink you see on the online menu unless its winter, not even in May when
   its cold. 104/3 Mbit/s wifi, but not really a digital nomad working place unless it's summer, given there is
   almost zero indoor seating and a "no laptops" policy after 6pm or at weekends!
+- [RUBY Coffee Nuts & Chocolate](https://maps.app.goo.gl/ZSx4uSuzbnRp3Bp99) - the ginger orange, honey and lemon fresh
+  juice was nice, although came in a martini class so a bit small
 - [Waterloo Taverne](https://maps.app.goo.gl/CbyTrUR6qr7Vrt5AA) - probably the best Belgian restaurant in Bucharest,
   classy with piano music.
   The candied duck leg with mashed potatoes and truffles is good,
@@ -2093,7 +2095,8 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   from having over ordered, but disappointed in flavours, and 1 minute after I settled the bill with a tip... within
   30 seconds of opening my laptop to ironically write this restaurant review, the waitress immediately informed me that
   I can't use my laptop because of a strict no laptop policy. I looked around the empty restaurant, then back at her,
-  it wasn't like they needed the space, packed up and left. I didn't even get a minute to run a wifi speed test.
+  it wasn't like they needed the space, packed up and left for Ruby's above to write this review.
+  I didn't even get a minute to run a wifi speed test.
   Lack of customer service and common sense. I'd skip Papila next time, I've seen what they've got,
   the food was nothing special and the service was better at other restaurants too.
   Overall a disappointing restaurant.
