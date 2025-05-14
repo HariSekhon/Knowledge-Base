@@ -10,10 +10,10 @@
   - [OOM Killer - Out of Memory Killer](#oom-killer---out-of-memory-killer)
 - [Disk](#disk)
   - [I/O](#io)
-- [Linux CLI tools](#linux-cli-tools)
 - [Network](#network)
-  - [APM - Application Performance Management](#apm---application-performance-management)
-  - [Hunting down elusive sources of I/O wait](#hunting-down-elusive-sources-of-io-wait)
+- [System Calls](#system-calls)
+- [APM - Application Performance Management](#apm---application-performance-management)
+- [Hunting down elusive sources of I/O wait](#hunting-down-elusive-sources-of-io-wait)
 
 <!-- INDEX_END -->
 
@@ -178,21 +178,25 @@ or prevent it from hanging temporarily trying to reverse resolve IP addresses to
 iostat -c 5
 ```
 
-## Linux CLI tools
-
-```shell
-lsof
-```
-
-```shell
-strace
-```
-
 ## Network
 
 See [Networking](networking.md) page for tools.
 
-### APM - Application Performance Management
+## System Calls
+
+Linux:
+
+```shell
+strace "$program"
+```
+
+Mac:
+
+```shell
+dtruss -f "$program"
+```
+
+## APM - Application Performance Management
 
 [AppDynamics](https://www.appdynamics.com/) and [New Relic](https://newrelic.com/) are the two most famous ones.
 
@@ -201,7 +205,7 @@ See [Networking](networking.md) page for tools.
 - follows from entry point all threads, JDBC calls etc and gives automatic diagram with stats, breakdowns, drilldowns to method calls taking time
 - server can be SaaS or self-hosted
 
-### Hunting down elusive sources of I/O wait
+## Hunting down elusive sources of I/O wait
 
 ```shell
 /etc/init.d/syslog stop
@@ -236,7 +240,8 @@ output:
 3 spamc
 ```
 
-In my specific situation, it looks like MySQL is the biggest abuser of my disk, followed by Apache and the filesystem journaling. As expected, qmail is a large contender, too.
+In my specific situation, it looks like MySQL is the biggest abuser of my disk, followed by Apache
+and the filesystem journaling. As expected, qmail is a large contender, too.
 
 Don't forget to set things back to their normal state when you're done!
 
