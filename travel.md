@@ -2040,6 +2040,10 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   downstairs, and all day breakfast available too.
   The beef schnitzel portion size is substantial and comes pre-cut, while the patatas bravas are excellent, crispy and
   light, and all covered in large square parmesan shavings. Excellent food quality. Fast 241/263 Mbit/s wifi
+- [Chocoloco Bistro](https://maps.app.goo.gl/KcHNXk7c8zhtzp7j9) - upmarket coffee & hot chocolate shop with a wide
+  variety of desserts, especially chocolate and pistachio based ones, cakes, crepes, waffles, pancakes, milkshakes, and
+  even a brunch menu with eggs and salmon until 3:30pm (the bistro part)
+  - [Chocoloco Old Town](https://maps.app.goo.gl/9B6ZeLwoLXLKZJDe9) - chain of two
 - [Restaurant TOKA](https://maps.app.goo.gl/vWTSiBiqmyrMNLQa8) - upmarket restaurant but away from the centre so you'll
   get better food.
   The creamy chicken and walnut soup was amazing,
@@ -2057,7 +2061,6 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
 - [Bogdania Bistro](https://maps.app.goo.gl/pr2HNbwvkfkZSvas7) - very nice bistro with reasonable prices by
   international standards. The sea bass with black lentils was good, it comes with lemon and artisan salt flakes.
   The mixed side salad is a good accompaniment. 96/48 Mbit/s wifi even sitting outside
-- [AveForchetta](https://maps.app.goo.gl/dn5AD1Mdz78KB5e88) - very busy, no seats at 7:30pm on a Saturday
 - [French Bakery](https://maps.app.goo.gl/puKvwPqPZmfzJLUM8) - small coffee and dessert shop on the main road. The fruit
   tart is very good, the latte is decent (I'm not a coffee connoisseur to really judge this). 36/37 Mbit/s wifi,
   although it needed a router reboot to start working properly
@@ -2090,6 +2093,7 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   and comes too dry, but the other dishes look good, on paper.
   Closes at 12, but kitchen closes at 11pm, but they may not serve soups at last order time.
   The lemonade is exactly as you'd make it at home. 6/3 Mbit open wifi 'lancelot'
+- [AveForchetta](https://maps.app.goo.gl/dn5AD1Mdz78KB5e88) - very busy, no seats at 7:30pm on a Saturday
 - [Papila](https://maps.app.goo.gl/Yt2pedUuWkHRJ55E7) - expensive, small and busy, no seats at 6:30pm on a Saturday.
   The dinner set combination menu is relatively expensive compared to other Bucharest restaurants.
   The lunch menu from 12-17:00 is a bit cheaper, but I still spent £27 for 2 courses and a Kimchi side, without even
