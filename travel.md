@@ -2059,8 +2059,6 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   some trendy cushions on the window ledge as seats facing the road outside. Typical western prices, £3 for a coffee and
   £3 for a slice of cake. The hojicha (Japanese green tea) latte and vegan cherry chocolate cake were both good.
   54/89 Mbit/s wifi
-- [Subura Bistro](https://www.youtube.com/watch?v=sP2tUW0HDHA) - Italian with a good range of pizzas and pastas.
-  6/18 Mbit/s wifi
 - [Bogdania Bistro](https://maps.app.goo.gl/pr2HNbwvkfkZSvas7) - very nice bistro with reasonable prices by
   international standards. The sea bass with black lentils was good, it comes with lemon and artisan salt flakes.
   The mixed side salad is a good accompaniment. 96/48 Mbit/s wifi even sitting outside
@@ -2116,6 +2114,9 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   Overall a disappointing restaurant.
 - [Coffee Store](https://maps.app.goo.gl/ieZMPGMnYUjTo8Xv6) - coffees, spiced chai latte, pastries. Also serves a
   range of alcoholic drinks as many do in this area
+- [Subura Bistro](https://www.youtube.com/watch?v=sP2tUW0HDHA) - Italian with a good range of pizzas and pastas.
+  Well rated by the tagliatelle bolognese was too mediocre, I wouldn't order this again, perhaps the pizzas are better.
+    6/18 Mbit/s wifi
 - [Gyros Thessalonikis](https://maps.app.goo.gl/hWBebuEHi4ikz9oC8) - Greek souvlaki. If you have to eat late night and
   the other places kitchens are closed. I got food poisoning there though, so better to plan and eat earlier at other
   places
