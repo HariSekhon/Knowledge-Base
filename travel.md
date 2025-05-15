@@ -2040,9 +2040,10 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   downstairs, and all day breakfast available too.
   The beef schnitzel portion size is substantial and comes pre-cut, while the patatas bravas are excellent, crispy and
   light, and all covered in large square parmesan shavings. Excellent food quality. Fast 241/263 Mbit/s wifi
-- [Chocoloco Bistro](https://maps.app.goo.gl/KcHNXk7c8zhtzp7j9) - upmarket coffee & hot chocolate shop with a wide
-  variety of desserts, especially chocolate and pistachio based ones, cakes, crepes, waffles, pancakes, milkshakes, and
-  even a brunch menu with eggs and salmon until 3:30pm (the bistro part)
+- [Chocoloco Bistro](https://maps.app.goo.gl/KcHNXk7c8zhtzp7j9) - as naughty as it sounds.
+  Upmarket coffee & hot chocolate shop with a wide variety of desserts, especially chocolate and pistachio based ones,
+  cakes, crepes, waffles, pancakes, milkshakes, and even a brunch menu with eggs and salmon until 3:30pm
+  (the bistro part). The pistachio milkshake it good, a little sweet with cream on top
   - [Chocoloco Old Town](https://maps.app.goo.gl/9B6ZeLwoLXLKZJDe9) - chain of two
 - [Restaurant TOKA](https://maps.app.goo.gl/vWTSiBiqmyrMNLQa8) - upmarket restaurant but away from the centre so you'll
   get better food.
