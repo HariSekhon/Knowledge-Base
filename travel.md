@@ -2131,6 +2131,7 @@ TODO:
 - [Velocità](https://maps.app.goo.gl/1oEzjdzS1SUigf1ZA) - another popular ice cream & coffee shop busy until late 11pm
 - [DeSoi](https://maps.app.goo.gl/AS5U2nniUEnq5nBa8) - bistro with nice interior, looks like a semi coffee restaurant
 - [buoni e bravi - Piața Sfântul Ștefan](https://maps.app.goo.gl/7LeZjQp3j4Zd51eq6) - well rated restaurant
+- [Simbio](https://maps.app.goo.gl/nRh9QZyXoVWa95WC6) - affordable foodie restaurant
 - [Noa Restoclub](https://maps.app.goo.gl/tJ2LD1Me1j8XrBaWA) - steak restaurant
 - [Arto](https://maps.app.goo.gl/pBEaGx8uk1gS9q7f9) - fancy restaurant
 
