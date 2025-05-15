@@ -2125,6 +2125,10 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
 
 TODO:
 
+- [Hygge - Social Kitchen](https://maps.app.goo.gl/vjGH1FJfUzxDopYs7) - reasonably priced burgers, but their kitchen
+  closes at 9:30pm
+- [La Romana](https://maps.app.goo.gl/yFnFQQWYTUerj6hx6) - popular ice cream shop open until 11am
+- [Velocità](https://maps.app.goo.gl/1oEzjdzS1SUigf1ZA) - another popular ice cream & coffee shop busy until late 11pm
 - [Arto](https://maps.app.goo.gl/pBEaGx8uk1gS9q7f9) - fancy restaurant
 
 #### Brașov
