@@ -2094,7 +2094,28 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   and comes too dry. Try one of the other dishes next time, they sound better.
   Closes at 12, but kitchen closes at 11pm, but they may not serve soups at last order time.
   The lemonade is exactly as you'd make it at home. 6/3 Mbit open wifi 'lancelot'
+- [Coffee Store](https://maps.app.goo.gl/ieZMPGMnYUjTo8Xv6) - coffees, spiced chai latte, pastries. Also serves a
+  range of alcoholic drinks as many do in this area
+- [Cismigiu Gardens](https://maps.app.goo.gl/2DyWEWiJJLfmkrB56) - popular managed gardens park, romantic walks with many
+  couples, boat rides, cafes and a large play area of climbing activities and slides for kids
+- [Izvor Park](https://maps.app.goo.gl/7GRnzRYaZG3HBU1s6) - good flat grassy park for dogs
+
+TODO:
+
+- [Hygge - Social Kitchen](https://maps.app.goo.gl/vjGH1FJfUzxDopYs7) - reasonably priced burgers, but their kitchen
+  closes at 9:30pm
 - [AveForchetta](https://maps.app.goo.gl/dn5AD1Mdz78KB5e88) - very busy, no seats at 7:30pm on a Saturday
+- [La Romana](https://maps.app.goo.gl/yFnFQQWYTUerj6hx6) - popular ice cream shop open until 11am
+- [Velocità](https://maps.app.goo.gl/1oEzjdzS1SUigf1ZA) - another popular ice cream & coffee shop busy until late 11pm
+- [Coftale Specialty Coffee Shop](https://maps.app.goo.gl/mpHNJQBb2QDwxbWY8)
+- [DeSoi](https://maps.app.goo.gl/AS5U2nniUEnq5nBa8) - bistro with nice interior, looks like a semi coffee restaurant
+- [buoni e bravi - Piața Sfântul Ștefan](https://maps.app.goo.gl/7LeZjQp3j4Zd51eq6) - well rated restaurant
+- [Simbio](https://maps.app.goo.gl/nRh9QZyXoVWa95WC6) - affordable foodie restaurant
+- [Noa Restoclub](https://maps.app.goo.gl/tJ2LD1Me1j8XrBaWA) - steak restaurant
+- [Arto](https://maps.app.goo.gl/pBEaGx8uk1gS9q7f9) - fancy restaurant
+
+Not recommended:
+
 - [Papila](https://maps.app.goo.gl/Yt2pedUuWkHRJ55E7) - expensive, small and busy, no seats at 6:30pm on a Saturday.
   The dinner set combination menu is relatively expensive compared to other Bucharest restaurants.
   The lunch menu from 12-17:00 is a bit cheaper, but I still spent £27 for 2 courses and a Kimchi side, without even
@@ -2112,27 +2133,6 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   Lack of customer service and common sense. I'd skip Papila next time, I've seen what they've got,
   the food was nothing special and the service was better at other restaurants too.
   Overall a disappointing restaurant.
-- [Coffee Store](https://maps.app.goo.gl/ieZMPGMnYUjTo8Xv6) - coffees, spiced chai latte, pastries. Also serves a
-  range of alcoholic drinks as many do in this area
-- [Cismigiu Gardens](https://maps.app.goo.gl/2DyWEWiJJLfmkrB56) - popular managed gardens park, romantic walks with many
-  couples, boat rides, cafes and a large play area of climbing activities and slides for kids
-- [Izvor Park](https://maps.app.goo.gl/7GRnzRYaZG3HBU1s6) - good flat grassy park for dogs
-
-TODO:
-
-- [Hygge - Social Kitchen](https://maps.app.goo.gl/vjGH1FJfUzxDopYs7) - reasonably priced burgers, but their kitchen
-  closes at 9:30pm
-- [La Romana](https://maps.app.goo.gl/yFnFQQWYTUerj6hx6) - popular ice cream shop open until 11am
-- [Velocità](https://maps.app.goo.gl/1oEzjdzS1SUigf1ZA) - another popular ice cream & coffee shop busy until late 11pm
-- [Coftale Specialty Coffee Shop](https://maps.app.goo.gl/mpHNJQBb2QDwxbWY8)
-- [DeSoi](https://maps.app.goo.gl/AS5U2nniUEnq5nBa8) - bistro with nice interior, looks like a semi coffee restaurant
-- [buoni e bravi - Piața Sfântul Ștefan](https://maps.app.goo.gl/7LeZjQp3j4Zd51eq6) - well rated restaurant
-- [Simbio](https://maps.app.goo.gl/nRh9QZyXoVWa95WC6) - affordable foodie restaurant
-- [Noa Restoclub](https://maps.app.goo.gl/tJ2LD1Me1j8XrBaWA) - steak restaurant
-- [Arto](https://maps.app.goo.gl/pBEaGx8uk1gS9q7f9) - fancy restaurant
-
-Not recommended:
-
 - [Subura Bistro](https://www.youtube.com/watch?v=sP2tUW0HDHA) - Italian with a good range of pizzas and pastas.
   Well rated by the tagliatelle bolognese was too mediocre, I wouldn't order this again, perhaps the pizzas are better.
   6/18 Mbit/s wifi
