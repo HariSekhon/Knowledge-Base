@@ -2093,7 +2093,7 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
 - [Excalibur](https://maps.app.goo.gl/TBTnH6CXjqwG5YTi8) - medievil themed restaurant with excellent menu, popular for
   groups and dates. Has various beef, pork and chicken dishes and platters for groups. Internationally priced.
   The beef goulash in bread bowl is unfortunately mediocre at best compared to many other places across Europe,
-  and comes too dry, but the other dishes look good, on paper.
+  and comes too dry. Try one of the other dishes next time, they sound better.
   Closes at 12, but kitchen closes at 11pm, but they may not serve soups at last order time.
   The lemonade is exactly as you'd make it at home. 6/3 Mbit open wifi 'lancelot'
 - [AveForchetta](https://maps.app.goo.gl/dn5AD1Mdz78KB5e88) - very busy, no seats at 7:30pm on a Saturday
