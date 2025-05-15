@@ -45,8 +45,8 @@ Start with [Bash](bash.md) which is the standard open source Linux shell.
 - [Debian](debian.md) - the standard open source distribution
   - [Ubuntu](ubuntu.md) - more updated distro, originally Desktop focused then expanded into cloud distro focus too
 
-- [Redhat](redhat.md) - used to the standard enterprise distro but has killed its open source credentials by strangling
-  CentOS and consequently become legacy
+- [Redhat](redhat.md) - Redhat Enterprise Linux (RHEL) and its clone CentOS used to the standard enterprise distro but
+  has killed its open source credentials by strangling CentOS and consequently become legacy
   - Amazon Linux
   - Centos
   - Fedora
@@ -55,6 +55,21 @@ Start with [Bash](bash.md) which is the standard open source Linux shell.
 - [Gentoo](gentoo.md) - l33t but takes time to compile.
 
 - [Alpine](alpine.md) - slim distribution designed for Docker
+
+Debian stable is the most stable and reliable Linux out there since at least the 2000s, at the cost of lagging on
+package versions and its UIs are usually not as glossy. It is one of the top picks ever for servers for the reason of
+stability, rivalled only by commercial RHEL.
+
+More people prefer Ubuntu for desktops for a bit more gloss and user focus, which was based on Debian and has been
+mature for many years - you can also pick Ubuntu Long Term Support releases for extra stability, people usually use
+those for servers - it’s been the number 1 cloud server distro for a decade+.
+
+Fedora is ok for desktops, but it’s not as stable by design as Ubuntu LTS or the daddy Debian.
+
+I think that Redhat after IBM acquisition has damaged the Redhat lineage by trying to squeeze out more profits by
+killing CentOS to force people to pay for their Enterprise Linux.
+
+The history of Linux shows it’s hard to beat free over the long term.
 
 ### Distribution Version
 
