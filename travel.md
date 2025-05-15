@@ -2129,6 +2129,7 @@ TODO:
   closes at 9:30pm
 - [La Romana](https://maps.app.goo.gl/yFnFQQWYTUerj6hx6) - popular ice cream shop open until 11am
 - [Velocità](https://maps.app.goo.gl/1oEzjdzS1SUigf1ZA) - another popular ice cream & coffee shop busy until late 11pm
+- [Coftale Specialty Coffee Shop](https://maps.app.goo.gl/mpHNJQBb2QDwxbWY8)
 - [DeSoi](https://maps.app.goo.gl/AS5U2nniUEnq5nBa8) - bistro with nice interior, looks like a semi coffee restaurant
 - [buoni e bravi - Piața Sfântul Ștefan](https://maps.app.goo.gl/7LeZjQp3j4Zd51eq6) - well rated restaurant
 - [Simbio](https://maps.app.goo.gl/nRh9QZyXoVWa95WC6) - affordable foodie restaurant
