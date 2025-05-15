@@ -2059,6 +2059,8 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   some trendy cushions on the window ledge as seats facing the road outside. Typical western prices, £3 for a coffee and
   £3 for a slice of cake. The hojicha (Japanese green tea) latte and vegan cherry chocolate cake were both good.
   54/89 Mbit/s wifi
+- [Subura Bistro](https://www.youtube.com/watch?v=sP2tUW0HDHA) - Italian with a good range of pizzas and pastas.
+  6/18 Mbit/s wifi
 - [Bogdania Bistro](https://maps.app.goo.gl/pr2HNbwvkfkZSvas7) - very nice bistro with reasonable prices by
   international standards. The sea bass with black lentils was good, it comes with lemon and artisan salt flakes.
   The mixed side salad is a good accompaniment. 96/48 Mbit/s wifi even sitting outside
