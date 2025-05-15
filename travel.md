@@ -2114,8 +2114,11 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   Lack of customer service and common sense. I'd skip Papila next time, I've seen what they've got,
   the food was nothing special and the service was better at other restaurants too.
   Overall a disappointing restaurant.
-- [Coffee Store](https://maps.app.goo.gl/ieZMPGMnYUjTo8Xv6) - coffees, spiced chait latte, pastries. Also serves a
+- [Coffee Store](https://maps.app.goo.gl/ieZMPGMnYUjTo8Xv6) - coffees, spiced chai latte, pastries. Also serves a
   range of alcoholic drinks as many do in this area
+- [Gyros Thessalonikis](https://maps.app.goo.gl/hWBebuEHi4ikz9oC8) - Greek souvlaki. If you have to eat late night and
+  the other places kitchens are closed. I got food poisoning there though, so better to plan and eat earlier at other
+  places
 - [Cismigiu Gardens](https://maps.app.goo.gl/2DyWEWiJJLfmkrB56) - popular managed gardens park, romantic walks with many
   couples, boat rides, cafes and a large play area of climbing activities and slides for kids
 - [Izvor Park](https://maps.app.goo.gl/7GRnzRYaZG3HBU1s6) - good flat grassy park for dogs
