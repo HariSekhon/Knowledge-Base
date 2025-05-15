@@ -2114,12 +2114,6 @@ Restaurant availability on a Saturday night is very poor, similar to Edinburgh, 
   Overall a disappointing restaurant.
 - [Coffee Store](https://maps.app.goo.gl/ieZMPGMnYUjTo8Xv6) - coffees, spiced chai latte, pastries. Also serves a
   range of alcoholic drinks as many do in this area
-- [Subura Bistro](https://www.youtube.com/watch?v=sP2tUW0HDHA) - Italian with a good range of pizzas and pastas.
-  Well rated by the tagliatelle bolognese was too mediocre, I wouldn't order this again, perhaps the pizzas are better.
-  6/18 Mbit/s wifi
-- [Gyros Thessalonikis](https://maps.app.goo.gl/hWBebuEHi4ikz9oC8) - Greek souvlaki. If you have to eat late night and
-  the other places kitchens are closed. I got food poisoning there though, so better to plan and eat earlier at other
-  places
 - [Cismigiu Gardens](https://maps.app.goo.gl/2DyWEWiJJLfmkrB56) - popular managed gardens park, romantic walks with many
   couples, boat rides, cafes and a large play area of climbing activities and slides for kids
 - [Izvor Park](https://maps.app.goo.gl/7GRnzRYaZG3HBU1s6) - good flat grassy park for dogs
@@ -2136,6 +2130,15 @@ TODO:
 - [Simbio](https://maps.app.goo.gl/nRh9QZyXoVWa95WC6) - affordable foodie restaurant
 - [Noa Restoclub](https://maps.app.goo.gl/tJ2LD1Me1j8XrBaWA) - steak restaurant
 - [Arto](https://maps.app.goo.gl/pBEaGx8uk1gS9q7f9) - fancy restaurant
+
+Not recommended:
+
+- [Subura Bistro](https://www.youtube.com/watch?v=sP2tUW0HDHA) - Italian with a good range of pizzas and pastas.
+  Well rated by the tagliatelle bolognese was too mediocre, I wouldn't order this again, perhaps the pizzas are better.
+  6/18 Mbit/s wifi
+- [Gyros Thessalonikis](https://maps.app.goo.gl/hWBebuEHi4ikz9oC8) - Greek souvlaki. If you have to eat late night and
+  the other places kitchens are closed. I got food poisoning there though, so better to plan and eat earlier at other
+  places
 
 #### Brașov
 
