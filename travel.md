@@ -2134,8 +2134,8 @@ Not recommended:
   the food was nothing special and the service was better at other restaurants too.
   Overall a disappointing restaurant.
 - [Subura Bistro](https://www.youtube.com/watch?v=sP2tUW0HDHA) - Italian with a good range of pizzas and pastas.
-  Well rated by the tagliatelle bolognese was too mediocre, I wouldn't order this again, perhaps the pizzas are better.
-  6/18 Mbit/s wifi
+  Well rated by the tagliatelle bolognese was too mediocre, I wouldn't order this again, I left half of it, not worth
+  it. Perhaps the pizzas are better. 6/18 Mbit/s wifi
 - [Gyros Thessalonikis](https://maps.app.goo.gl/hWBebuEHi4ikz9oC8) - Greek souvlaki. If you have to eat late night and
   the other places kitchens are closed. I got food poisoning there though, so better to plan and eat earlier at other
   places
