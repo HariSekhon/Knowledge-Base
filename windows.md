@@ -321,6 +321,8 @@ shutdown /r
 ## GitHub Repos
 
 - [:octocat: scipag/HardeningKitty](https://github.com/scipag/HardeningKitty)
+- [:octocat: Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - PowerShell script to remove pre-installed
+  apps, disable telemetry, customization, declutter and improve your Windows experience. Works on Windows 10 and 11
 
 ## Meme
 
