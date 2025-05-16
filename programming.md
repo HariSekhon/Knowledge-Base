@@ -63,6 +63,7 @@
   - [Built Same Project in Multiple Languages](#built-same-project-in-multiple-languages)
   - [Pretend to be a Good Programmer](#pretend-to-be-a-good-programmer)
   - [Programmers Then vs Now](#programmers-then-vs-now)
+  - [O'Reilly - Vibe Coding](#oreilly---vibe-coding)
 
 <!-- INDEX_END -->
 
@@ -548,5 +549,9 @@ When you’re thinking about how to improve that code you wrote last night… �
 ### Programmers Then vs Now
 
 ![Programmers Then vs Now](images/programmers_then_vs_now.jpeg)
+
+### O'Reilly - Vibe Coding
+
+![O'ReillyVibe Coding](images/oreilly_vibe_coding.jpeg)
 
 **Ported from various private Knowledge Base pages 2008+**
