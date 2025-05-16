@@ -2149,7 +2149,11 @@ It turns out this is nicer than Bucharest and is a historic town.
 I should have stayed here. Next time.
 
 - [Sergiana](https://maps.app.goo.gl/hvmRHMq8SmGBJVbTA) - local transylvanian chain, bigger than I imagined.
-  Wild boar medallion in hazelnut crust with mushroom, caramelized cranberry sauce and mashed potatoes.
+  Wild boar medallion in hazelnut crust with mushroom,
+  caramelized cranberry sauce and mashed potatoes was amazing in both flavour, textual and presentation.
+  Don't waste your appetite on the free bread and pork crackling, it's worth the wait.
+  The caramelized cranberries at the sides are very sweet and good when mixed in to the mash,
+  but you should probably leave some of them at the side unless you have an extremely sweet tooth.
   Papanasi romanian sweet cheese dumplings with sour cream and jam.
   The blueberry juice is natural mixed with grape juice and very sweet, 14.5% sugar!
 
