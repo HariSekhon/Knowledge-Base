@@ -2154,7 +2154,7 @@ I should have stayed here. Next time.
   Don't waste your appetite on the free bread and pork crackling, it's worth the wait.
   The caramelized cranberries at the sides are very sweet and good when mixed in to the mash,
   but you should probably leave some of them at the side unless you have an extremely sweet tooth.
-  The Papanasi romanian sweet cheese dumplings with sour cream and jam was ok,
+  The Papanasi romanian sweet cheese dumplings with sour cream and jam were ok, they're like 2 dough balls with filling
   but quite fattening and a step too far after such a great main. I'd skip it next time.
   The blueberry juice is natural mixed with grape juice and very sweet, 14.5% sugar!
   Worth it to sip on if you have a sweet tooth like me.
