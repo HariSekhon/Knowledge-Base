@@ -2144,6 +2144,15 @@ Not recommended:
 
 Stopped over here between Bucharest and Cluj-Napoca.
 
+It turns out this is nicer than Bucharest and is a historic town.
+
+I should have stayed here. Next time.
+
+- [Sergiana](https://maps.app.goo.gl/hvmRHMq8SmGBJVbTA) - local transylvanian chain, bigger than I imagined.
+  Wild boar medallion in hazelnut crust with mushroom, caramelized cranberry sauce and mashed potatoes.
+  Papanasi romanian sweet cheese dumplings with sour cream and jam.
+  The blueberry juice is natural mixed with grape juice and very sweet, 14.5% sugar!
+
 #### Cluj-Napoca
 
 ### Serbia
