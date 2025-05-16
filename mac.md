@@ -35,6 +35,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Open URL in the default web browser](#open-url-in-the-default-web-browser)
     - [Open current directory in Finder](#open-current-directory-in-finder)
     - [Open image in the default app (usually Preview)](#open-image-in-the-default-app-usually-preview)
+    - [Show the File in Finder](#show-the-file-in-finder)
     - [Check / Change the default Application for a given file type](#check--change-the-default-application-for-a-given-file-type)
     - [Open an Application from the command line](#open-an-application-from-the-command-line)
   - [Clipboard](#clipboard)
@@ -90,16 +91,26 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Trigger Backup](#trigger-backup)
   - [List Backups](#list-backups)
   - [Restore a file from latest backup](#restore-a-file-from-latest-backup)
+- [External Disk Management](#external-disk-management)
+  - [Delete Large Directories](#delete-large-directories)
+  - [Disable Indexing on the Disk](#disable-indexing-on-the-disk)
+  - [Delete the Index](#delete-the-index)
+  - [Manually Delete the `.Spotlight-V100` folder](#manually-delete-the-spotlight-v100-folder)
+  - [Delete Versioned Backups](#delete-versioned-backups)
+  - [Restart `mds`, `mds_stores` and `revisiond`](#restart-mds-mds_stores-and-revisiond)
+  - [Verify Free Space](#verify-free-space)
 - [Troubleshooting](#troubleshooting)
   - [XCodeBuild error complaining XCode only has command line tools](#xcodebuild-error-complaining-xcode-only-has-command-line-tools)
   - [Various Applications Fail to Open](#various-applications-fail-to-open)
 - [Relevant GitHub Repos](#relevant-github-repos)
 - [Memes](#memes)
+  - [Headquarters](#headquarters)
   - [Mac User Been Here](#mac-user-been-here)
   - [Using Hardware to Solve Problems](#using-hardware-to-solve-problems)
   - [So you can have 50G RAM of Chrome tabs](#so-you-can-have-50g-ram-of-chrome-tabs)
   - [And IntelliJ hogging 20GB RAM](#and-intellij-hogging-20gb-ram)
   - [Chrome Take All of It](#chrome-take-all-of-it)
+  - [Macbook USB Stick](#macbook-usb-stick)
 
 <!-- INDEX_END -->
 
@@ -282,6 +293,16 @@ open file.jpg
 
 You can also drag to the Terminal to paste a file or directory's path, or right-click copy and paste into the terminal
 to get its path on your command line.
+
+#### Show the File in Finder
+
+If you have a big directory listing, sometimes it's easier to just
+
+```shell
+open -R "$file"
+```
+
+This will open Finder with the file highlighted.
 
 #### Check / Change the default Application for a given file type
 
@@ -1242,7 +1263,6 @@ Use `-p` if it was set at global path level using `sudo tmutil addexclusion -p .
 sudo tmutil removeexclusion -p ~/github/go-tools/ath
 ```
 
-
 If you get an error like this:
 
 ```shell
@@ -1353,6 +1373,60 @@ from [DevOps-Bash-tools](devops-bash-tools.md):
 mac_restore_file.sh "$filename"
 ```
 
+## External Disk Management
+
+To reclaim space on the external disk... you can try all of the following, which failed for me. Reboot.
+
+### Delete Large Directories
+
+Find and delete large directories such as `.TemporaryItems`, `.fseventsd`, `.Trashes`
+
+```shell
+sudo rm -rf "/Volumes/$NAME/.fseventsd" \
+            "/Volumes/$NAME/.TemporaryItems" \
+            "/Volumes/$NAME/.Trashes"
+```
+
+### Disable Indexing on the Disk
+
+```shell
+sudo mdutil -i off "/Volumes/$NAME"
+```
+
+### Delete the Index
+
+```shell
+sudo mdutil -E "/Volumes/$NAME"
+```
+
+### Manually Delete the `.Spotlight-V100` folder
+
+If it still remains:
+
+```shell
+sudo rm -rf "/Volumes/$NAME/.Spotlight-V100"
+```
+
+### Delete Versioned Backups
+
+```shell
+sudo rm -rf "/Volumes/$NAME/.DocumentRevisions-V100"
+```
+
+### Restart `mds`, `mds_stores` and `revisiond`
+
+To allow space to be reclaimed:
+
+```shell
+sudo killall mds mds_stores revisiond
+```
+
+### Verify Free Space
+
+```shell
+df -h "/Volumes/$NAME"
+```
+
 ## Troubleshooting
 
 ### XCodeBuild error complaining XCode only has command line tools
@@ -1446,6 +1520,10 @@ Reboot.
 
 ## Memes
 
+### Headquarters
+
+![Headquarters](images/headquarters_io_windows_linux.jpeg)
+
 ### Mac User Been Here
 
 ![Mac User Been Here](images/mac_user_been_here_ds_store.jpeg)
@@ -1470,5 +1548,9 @@ ps. gif screencapture scripts for the two styles, above and below, are in the
 ### Chrome Take All of It
 
 ![Chrome Take All Resources](images/chrome_RAM_CPU_disk_take_all_of_it.jpeg)
+
+### Macbook USB Stick
+
+![How Do I Use USB Stick](images/macbook_usb_stick.jpeg)
 
 **Ported from various private Knowledge Base pages 2010+**
