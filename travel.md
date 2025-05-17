@@ -141,6 +141,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Warsaw](#warsaw)
   - [Hungary](#hungary)
     - [Avoid northern counties](#avoid-northern-counties)
+    - [Hungary Taxis](#hungary-taxis)
     - [Budapest](#budapest)
     - [Szolnok](#szolnok)
   - [Philipines](#philipines)
@@ -1962,6 +1963,11 @@ Do not drive through the north Hungarian counties, there are serious ghettos tha
 Story here:
 
 <https://medium.com/@harisekhon/the-revelation-of-why-hungary-is-so-anti-immigration-059259e51cf2>
+
+#### Hungary Taxis
+
+- [Bolt](https://apps.apple.com/us/app/bolt-request-a-ride/id675033630)
+- [FoTaxi](https://fotaxi.hu/en/passengers/taxi-application/) - local alternative
 
 #### Budapest
 
