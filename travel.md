@@ -2167,10 +2167,13 @@ I should have stayed here. Next time.
 
 #### Cluj-Napoca
 
-- [Sage Bistro](https://maps.app.goo.gl/35VEWQDeG1nrX1856) - a foodie place on a side street with a good menu and
-  prices.
+- [Sage Bistro](https://maps.app.goo.gl/35VEWQDeG1nrX1856) - a slightly less busy bar-restaurant on a side street with
+  a reasonable menu and prices.
   The grilled bone-in pork chop with truffle mashed potatoes looks amazing,
-  but I had to go with the homemade burger as I needed the bigger more food (the weight in grams in listed).
+  but I went with the homemade burger as I needed the bigger more food (the weight in grams in listed).
+  The fries were over-done.
+  Next time get the pork chop special.
+  The mixed greens salad comes undressed but olive oil and balsamic is provided, so it turns out well.
   Jaw dropping 481/248 Mbit/s wifi
 
 ### Serbia
