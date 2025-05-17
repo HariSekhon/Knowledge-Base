@@ -2020,6 +2020,7 @@ forces.
 
 #### Romania Taxis
 
+- [Smarty](https://www.smarty-app.com/) - substantially cheaper than either Star Taxi or Bolt
 - [Star Taxi](https://www.startaxi.com/) - apparently the most used Taxi app in Romania, but hassle to register with new
   app and then the Apple Pay card setup was decline, so I ended up using trusty old Bolt instead which I had used around
   SE Asia on Asian Winter Tour 2024-2025
