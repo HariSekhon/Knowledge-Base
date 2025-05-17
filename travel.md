@@ -147,6 +147,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Philipines](#philipines)
     - [Manilla](#manilla)
   - [Romania](#romania)
+    - [Romania Taxis](#romania-taxis)
     - [Romanian Motorway Tolls aka Vignettes](#romanian-motorway-tolls-aka-vignettes)
     - [Bucharest](#bucharest)
     - [Brașov](#brașov)
@@ -2017,13 +2018,20 @@ forces.
 
 ### Romania
 
+#### Romania Taxis
+
+- [Star Taxi](https://www.startaxi.com/)
+- [Bolt](https://bolt.eu/)
+
 #### Romanian Motorway Tolls aka Vignettes
 
-You can buy an e-vignette at a website like this:
+If driving, you need to buy a vignette toll to use the motorways.
+
+You can buy e-vignettes at a website like this:
 
 [https://www.roviniete.ro](https://www.roviniete.ro/en/info/cumpara-rovinieta-electronica-online)
 
-otherwise you'll need to pull over at the first petrol station at the border and buy it there.
+Otherwise you'll need to pull over at the first petrol station at the border and buy it there.
 
 The vignette is by calendar day, so if you're driving late at 11pm+ and arriving after midnight you'll need 2 days toll
 cover.
