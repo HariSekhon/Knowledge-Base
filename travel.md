@@ -2167,6 +2167,13 @@ I should have stayed here. Next time.
 
 #### Cluj-Napoca
 
+The Old Town centre is nice but only about a 4 block square so you only need a couple hours for it,
+but much more for all the gentrified coffee shops and restaurants.
+
+There are huge gated houses with expensive cars like Porsche, Mercedes and BMW SUVs just north of the Old Town, which
+explains why some of the restaurants in the Old Town are pricey.
+
+- [Arta Café](https://maps.app.goo.gl/cCuXbZ3ybwjtQjUa7)
 - [Sage Bistro](https://maps.app.goo.gl/35VEWQDeG1nrX1856) - a slightly less busy bar-restaurant on a side street with
   a reasonable menu and prices.
   The grilled bone-in pork chop with truffle mashed potatoes looks amazing,
