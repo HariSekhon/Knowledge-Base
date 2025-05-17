@@ -142,6 +142,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Hungary](#hungary)
     - [Avoid northern counties](#avoid-northern-counties)
     - [Hungary Taxis](#hungary-taxis)
+    - [Hungary Motorway Tolls - e-Vignettes](#hungary-motorway-tolls---e-vignettes)
     - [Budapest](#budapest)
     - [Szolnok](#szolnok)
   - [Philipines](#philipines)
@@ -730,7 +731,7 @@ get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return 
 
 ## Countries
 
-Number of Countries: 36
+Number of Countries: 37
 
 - Countries in 2024: 18
   - not counting my month long extensive
@@ -1969,6 +1970,16 @@ Story here:
 
 - [Bolt](https://apps.apple.com/us/app/bolt-request-a-ride/id675033630)
 - [FoTaxi](https://fotaxi.hu/en/passengers/taxi-application/) - local alternative
+
+#### Hungary Motorway Tolls - e-Vignettes
+
+Hungary requires online tolls to be pre-paid before using its motorways to avoid a fine. 🙄
+
+You must buy it before you travel as there is only a 60 minute grace period upon entering a motorway.
+
+You can buy it online but prices vary a lot between €16-24 - this site was reasonable:
+
+<https://en.autovignet.hu/>
 
 #### Budapest
 
