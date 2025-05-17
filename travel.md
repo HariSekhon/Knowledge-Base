@@ -2165,6 +2165,7 @@ I should have stayed here. Next time.
   prices.
   The grilled bone-in pork chop with truffle mashed potatoes looks amazing,
   but I had to go with the homemade burger as I needed the bigger more food (the weight in grams in listed).
+  Jaw dropping 481/248 Mbit/s wifi
 
 ### Serbia
 
