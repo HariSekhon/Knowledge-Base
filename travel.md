@@ -2161,6 +2161,11 @@ I should have stayed here. Next time.
 
 #### Cluj-Napoca
 
+- [Sage Bistro](https://maps.app.goo.gl/35VEWQDeG1nrX1856) - a foodie place on a side street with a good menu and
+  prices.
+  The grilled bone-in pork chop with truffle mashed potatoes looks amazing,
+  but I had to go with the homemade burger as I needed the bigger more food (the weight in grams in listed).
+
 ### Serbia
 
 I used the [Airalo](https://www.airalo.com/) e-sim data only for $14 for 5GB valid for 30 days.
