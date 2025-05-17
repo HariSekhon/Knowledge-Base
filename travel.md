@@ -2184,7 +2184,9 @@ There are huge gated houses with expensive cars like Porsche, Mercedes and BMW S
 explains why some of the restaurants in the Old Town are pricey.
 
 - [Arta Café](https://maps.app.goo.gl/cCuXbZ3ybwjtQjUa7) - the masala chai latte was very good, and came with a whole
-  cinnamon twig and dried orange slice on it. Closes at midnight. Only 1 Mbit/s wifi
+  cinnamon twig and dried orange slice on it.
+  Closes at midnight.
+  2/12 Mbit/s wifi
 - [Insomnia Cafe](https://maps.app.goo.gl/QzFbAGNB96uyqr1t5) - open until 2am, good range of drinks, milk with honey and
   cinnamon for those wanting a night cap without caffeine
 - [Sage Bistro](https://maps.app.goo.gl/35VEWQDeG1nrX1856) - a slightly less busy bar-restaurant on a side street with
