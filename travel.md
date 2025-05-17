@@ -2187,8 +2187,10 @@ explains why some of the restaurants in the Old Town are pricey.
   cinnamon twig and dried orange slice on it.
   Closes at midnight.
   2/12 Mbit/s wifi
-- [Insomnia Cafe](https://maps.app.goo.gl/QzFbAGNB96uyqr1t5) - open until 2am, good range of drinks, milk with honey and
-  cinnamon for those wanting a night cap without caffeine
+- [Insomnia Cafe](https://maps.app.goo.gl/QzFbAGNB96uyqr1t5) - open until 2am,
+  good range of both alcoholic and caffeinated drinks, and even milk with honey and cinnamon for those wanting a night
+  cap without caffeine.
+  41/9 Mbit/s wifi
 - [Sage Bistro](https://maps.app.goo.gl/35VEWQDeG1nrX1856) - a slightly less busy bar-restaurant on a side street with
   a reasonable menu and prices.
   The grilled bone-in pork chop with truffle mashed potatoes looks amazing,
