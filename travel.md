@@ -2020,7 +2020,9 @@ forces.
 
 #### Romania Taxis
 
-- [Star Taxi](https://www.startaxi.com/)
+- [Star Taxi](https://www.startaxi.com/) - apparently the most used Taxi app in Romania, but hassle to register with new
+  app and then the Apple Pay card setup was decline, so I ended up using trusty old Bolt instead which I had used around
+  SE Asia on Asian Winter Tour 2024-2025
 - [Bolt](https://bolt.eu/)
 
 #### Romanian Motorway Tolls aka Vignettes
