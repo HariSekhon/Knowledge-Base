@@ -1979,8 +1979,9 @@ You can buy it online but prices vary a lot between €16-24 - this site was rea
 
 An excellent holiday destination for a long weekend with the girlfriend.
 
-[Caviar & Bull](https://caviarandbull.hu/menu/) is an amazing dining experience to take the girlfriend if you're in the
-mood to drop £300 on a fancy night out. The food is easily among the best I've ever haad around the world.
+- [Caviar & Bull](https://caviarandbull.hu/menu/) an amazing dining experience to take the girlfriend if you're in the mood to drop £300 on a fancy
+  night out. The food is easily among the best I've ever had around the world, with little chef treats of unusual things
+  sent to us to try
 
 #### Szolnok
 
