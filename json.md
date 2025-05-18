@@ -8,6 +8,7 @@ Useful JSON tools:
 
 <!-- INDEX_START -->
 
+- [JSON Comments](#json-comments)
 - [gron](#gron)
 - [jq](#jq)
   - [jq tips](#jq-tips)
@@ -28,6 +29,23 @@ Useful JSON tools:
   - [Trump Tariff CSV Imports](#trump-tariff-csv-imports)
 
 <!-- INDEX_END -->
+
+## JSON Comments
+
+JSON does not allow comments like `#` or `//` in programming languages.
+
+They were removed because bad programmers were using them to contain things like parsing directories,
+breaking parsing compatibility.
+
+As a workaround, you can create key pairs with unused keys like `_comment`:
+
+```json
+{
+  "_comment": "This is a commment about why this JSON content sucks",
+  "name": "Hari Sekhon",
+  "_comment2": "Another comment must have a unique key"
+}
+```
 
 ## gron
 
