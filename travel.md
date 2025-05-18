@@ -2193,7 +2193,8 @@ explains why some of the restaurants in the Old Town are pricey.
   Wifi has no password but a jaw dropping 614/545 Mbit/s speed tested
 - [Arta Café](https://maps.app.goo.gl/cCuXbZ3ybwjtQjUa7) - the masala chai latte was so good I went back for it again
   the next day. It comes with a whole cinnamon twig and dried orange slice on it, which I like to eat. Closes at
-  midnight on Saturdays but only 10pm on Sundays. 2/12 Mbit/s wifi
+  midnight on Saturdays but only 10pm on Sundays.
+  2/12 Mbit/s wifi in one spot, but 31/22 Mbit/s the next night in a different spot.
 - [Garlic - bites&tales](https://maps.app.goo.gl/kLoXsBSXH58Q3vod9) - popular restaurant with a good menu, substantial
   garlic options. I had the pork tenderloin in gorgonzola sauce with sweet potato fries (I had them swapped for oven
   baked potatoes with garlic), which was good and hit the spot with a good portion size of meat and carbs.
