@@ -2191,6 +2191,8 @@ explains why some of the restaurants in the Old Town are pricey.
   centre with amazing decor, classical music playing and the best menu of teas and coffees I've ever seen,
   as well as rich cakes, waffles and ice cream sundaes.
   Wifi has no password but a jaw dropping 614/545 Mbit/s speed tested
+- [Form Café](https://maps.app.goo.gl/wKqZEHMb3WyXS4UQ9) - trendy buzzing late night bar restaurant cafe with hip-hop
+  playlist and a good menu range and prices
 - [Arta Café](https://maps.app.goo.gl/cCuXbZ3ybwjtQjUa7) - the masala chai latte was so good I went back for it again
   the next day. It comes with a whole cinnamon twig and dried orange slice on it, which I like to eat. Closes at
   midnight on Saturdays but only 10pm on Sundays.
