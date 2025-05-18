@@ -64,6 +64,7 @@
   - [Pretend to be a Good Programmer](#pretend-to-be-a-good-programmer)
   - [Programmers Then vs Now](#programmers-then-vs-now)
   - [O'Reilly - Vibe Coding](#oreilly---vibe-coding)
+  - [Rock Star Developer](#rock-star-developer)
 
 <!-- INDEX_END -->
 
@@ -553,5 +554,9 @@ When you’re thinking about how to improve that code you wrote last night… �
 ### O'Reilly - Vibe Coding
 
 ![O'ReillyVibe Coding](images/oreilly_vibe_coding.jpeg)
+
+### Rock Star Developer
+
+![Rock Star Developer](images/rock_star_delevoper.png)
 
 **Ported from various private Knowledge Base pages 2008+**
