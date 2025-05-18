@@ -23,6 +23,7 @@ is one of the few use cases for that).
 - [Tips & Tricks](#tips--tricks)
   - [Fifos](#fifos)
   - [Number Lines](#number-lines)
+  - [Squeeze Out Multiple Blank Lines](#squeeze-out-multiple-blank-lines)
   - [Miscellaneous Bash Bangs](#miscellaneous-bash-bangs)
   - [Flush Stdout Immediately](#flush-stdout-immediately)
   - [Native Regex Capture](#native-regex-capture)
@@ -241,6 +242,17 @@ less -N
 ```shell
 nl
 ```
+
+### Squeeze Out Multiple Blank Lines
+
+Useful to remove multiple blank lines between paragraphs in text replacements like
+[shorten_text_selection.scpt](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/applescript/shorten_text_selection.scpt).
+
+```shell
+cat -s
+```
+
+This is much easier than screwing around with complex sed magic or awk blocks.
 
 ### Miscellaneous Bash Bangs
 
