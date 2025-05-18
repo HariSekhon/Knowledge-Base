@@ -1994,7 +1994,6 @@ You will struggle to get fed once it hits 9pm as the kichens close much earlier 
 - [Bajnok Étterem](http://uj.bajnoketterem.hu/) - best place I ate at here
 - [New York café & bistro](https://www.newyorkbistro.hu/)
 - [OneBistro](https://maps.app.goo.gl/fswF1W8nTAVzz9N97) - late night cheap eat open until 10pm
-
 - [Guri Sörbisztró](https://www.facebook.com/profile.php?id=100040639554637) - best late night drinking spot open until midnight when everything else is dead. Try the pink
   tonic if you're non-alcoholic
 - [Korzó Kávéház](https://maps.app.goo.gl/RarMxm48ziz5TxMX9) - another drinks only place open until midnight
