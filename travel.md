@@ -2197,6 +2197,10 @@ explains why some of the restaurants in the Old Town are pricey.
   the next day. It comes with a whole cinnamon twig and dried orange slice on it, which I like to eat. Closes at
   midnight on Saturdays but only 10pm on Sundays.
   Wifi speeds have ranged widely eg, 2, 15, 28, 31 Mbit/s download and 12-22 Mbit/s upload at different times and nights
+- [Eggcetera](https://maps.app.goo.gl/a4kDMSjMMcMsmW6N6) - gentrified coffee shop (pricey) with good menu egg breakfast
+  menu. No laptop policy on big table, which is pretty much the entire seating of the restaurant. No laptop policy
+  announced within 30 seconds of opening laptop, there are 3 small tables a laptop can be used on which are of course
+  occupied. 191/49 Mbit/s wifi
 - [Garlic - bites&tales](https://maps.app.goo.gl/kLoXsBSXH58Q3vod9) - popular restaurant with a good menu, substantial
   garlic options. I had the pork tenderloin in gorgonzola sauce with sweet potato fries (I had them swapped for oven
   baked potatoes with garlic), which was good and hit the spot with a good portion size of meat and carbs.
