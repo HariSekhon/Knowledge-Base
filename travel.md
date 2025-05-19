@@ -2194,8 +2194,8 @@ explains why some of the restaurants in the Old Town are pricey.
 - [Form Café](https://maps.app.goo.gl/wKqZEHMb3WyXS4UQ9) - trendy buzzing late night bar restaurant cafe with hip-hop
   playlist and a good menu range and prices
 - [Arta Café](https://maps.app.goo.gl/cCuXbZ3ybwjtQjUa7) - the masala chai latte was so good I went back for it again
-  the next day. It comes with a whole cinnamon twig and dried orange slice on it, which I like to eat. Closes at
-  midnight on Saturdays but only 10pm on Sundays.
+  all 3 days I was here. It comes with a whole cinnamon twig and dried orange slice on it, which I like to eat. Closes
+  at midnight on Fri-Sat but only 10pm on Sun - Thurs.
   Wifi speeds have ranged widely eg, 2, 15, 28, 31 Mbit/s download and 12-22 Mbit/s upload at different times and nights
 - [Eggcetera](https://maps.app.goo.gl/a4kDMSjMMcMsmW6N6) - gentrified coffee shop (pricey) with good menu egg breakfast
   menu. No laptop policy on big table, which is pretty much the entire seating of the restaurant. No laptop policy
