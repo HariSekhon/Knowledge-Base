@@ -16,6 +16,7 @@ usually [RDBMS](README.md#databases--rdbms) or
 - [Databases Scaling Cheatsheet](#databases-scaling-cheatsheet)
 - [Database Sharding](#database-sharding)
 - [Memes](#memes)
+  - [If Coffee Doesn't Wake You Up](#if-coffee-doesnt-wake-you-up)
   - [10x Performance - Backed up DB?](#10x-performance---backed-up-db)
 
 <!-- INDEX_END -->
@@ -78,6 +79,10 @@ Useful for local or embedded usage rather than multi-user servers like most majo
 ![DB Sharding](images/db_sharding.jpeg)
 
 ## Memes
+
+### If Coffee Doesn't Wake You Up
+
+![If Coffee Doesn't Wake You Up](images/if_coffee_doesnt_wake_you_up_try_deleting_table_in_production_instead.jpeg)
 
 ### 10x Performance - Backed up DB?
 
