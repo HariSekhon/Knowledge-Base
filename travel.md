@@ -2200,7 +2200,10 @@ explains why some of the restaurants in the Old Town are pricey.
 - [Eggcetera](https://maps.app.goo.gl/a4kDMSjMMcMsmW6N6) - gentrified coffee shop (pricey) with good menu egg breakfast
   menu. Unfortunately, "No laptop" policy on the big long bench table, which is pretty much the entire seating of the
   restaurant. No laptop policy was announced within 30 seconds of pull out laptop. There are 3 small tables stool tables
-  on which a laptop can be used apparently but of course all were occupied by diners. 191/49 Mbit/s wifi
+  on which a laptop can be used apparently but of course all were occupied by diners.
+  The eggs royale with smoked salmon was excellent, but then it should be for £9, with excellent use of salt flakes to
+  create contrast with the soft sweet half buns under the salmon and cream cheese. My top pick breakfast place here.
+  191/49 Mbit/s wifi
 - [Garlic - bites&tales](https://maps.app.goo.gl/kLoXsBSXH58Q3vod9) - popular restaurant with a good menu, substantial
   garlic options. I had the pork tenderloin in gorgonzola sauce with sweet potato fries (I had them swapped for oven
   baked potatoes with garlic), which was good and hit the spot with a good portion size of meat and carbs.
