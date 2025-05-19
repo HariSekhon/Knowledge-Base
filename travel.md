@@ -154,6 +154,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Bucharest](#bucharest)
     - [Brașov](#brașov)
     - [Cluj-Napoca](#cluj-napoca)
+    - [Oradea](#oradea)
   - [Serbia](#serbia)
     - [Indoor Smoking, Outdoor Smoking, Smoking Everywhere](#indoor-smoking-outdoor-smoking-smoking-everywhere)
     - [Belgrade Taxis](#belgrade-taxis)
@@ -2222,7 +2223,7 @@ Old Town.
   The mixed greens salad comes undressed but olive oil and balsamic is provided, so it turns out well.
   Jaw dropping 481/248 Mbit/s wifi
 
-### Oradea
+#### Oradea
 
 Nice architecture town.
 
