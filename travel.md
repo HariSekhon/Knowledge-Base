@@ -2181,11 +2181,12 @@ I should have stayed here. Next time.
 
 #### Cluj-Napoca
 
-The Old Town centre is nice but only about a 4 block square so you only need a couple hours for it,
+University town. The Old Town centre is nice but only about a 4 block square so you only need a couple hours for it,
 but much more for all the gentrified coffee shops and restaurants.
 
 There are huge gated houses with expensive cars like Porsche, Mercedes and BMW SUVs just north of the Old Town, which
-explains why some of the restaurants in the Old Town are pricey.
+explains why some of the restaurants in the Old Town are pricey. It is very common to see Mercedes, BMW and Audis around
+Old Town.
 
 - [Mozart Café](https://maps.app.goo.gl/ksPUrUC6Jjh7zf1M8) - an experience place on the outer rim of the Old Town,
   centre with amazing decor, classical music playing and the best menu of teas and coffees I've ever seen,
@@ -2220,6 +2221,16 @@ explains why some of the restaurants in the Old Town are pricey.
   Next time get the pork chop special.
   The mixed greens salad comes undressed but olive oil and balsamic is provided, so it turns out well.
   Jaw dropping 481/248 Mbit/s wifi
+
+### Oradea
+
+Nice architecture town.
+
+Stopped over 1 night between Cluj-Napoch and Debrecen on the way to Budapest.
+You only need 1 hour to walk around the centre.
+
+- [Merci Bistro & Coffee Oradea](https://maps.app.goo.gl/RzrfYzrJb3n4TjoS7) - duck leg with mashed potatos, assorted
+  side salad. 430/281 Mbit/s wifi
 
 ### Serbia
 
