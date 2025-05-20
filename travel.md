@@ -2230,6 +2230,10 @@ Nice architecture town.
 Stopped over 1 night between Cluj-Napoch and Debrecen on the way to Budapest.
 You only need 1 hour to walk around the centre.
 
+- [Meron - Specialty Coffee](https://maps.app.goo.gl/trGnyoFCGPLQqmTe9) - chain coffee shop on the main parade.
+  The eggs royale (poached eggs with smoked salmon) was very good in both presentation and flavours,
+  and even has pear pieces around it. The smoked salmon is salty though so you'll need the table water.
+  94/85 Mbit/s wifi, no password
 - [Merci Bistro & Coffee Oradea](https://maps.app.goo.gl/RzrfYzrJb3n4TjoS7) - duck leg with mashed potatos, assorted
   side salad. 430/281 Mbit/s wifi
 
