@@ -2021,8 +2021,10 @@ You will struggle to get fed once it hits 9pm as the kichens close much earlier 
 - [Korzó Kávéház](https://maps.app.goo.gl/RarMxm48ziz5TxMX9) - another drinks only place open until midnight
 - [TiszapArt Café](https://tiszamozi.hu/) - open until 11pm, with good lemonades
 
-Despite it's 4.5 rating on Google, I was not impressed with the food,
-either starter or main, at [Evezős Csárda](http://www.evezoscsarda.hu/Etlap.cshtml) and would give it a miss.
+Not Recommended:
+
+- [Evezős Csárda](http://www.evezoscsarda.hu/Etlap.cshtml) - despite its 4.5 rating on Google, I was not impressed with the food,
+  either starter or main, and would give it a miss next time
 
 ### Philipines
 
