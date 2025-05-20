@@ -1553,4 +1553,8 @@ ps. gif screencapture scripts for the two styles, above and below, are in the
 
 ![How Do I Use USB Stick](images/macbook_usb_stick.jpeg)
 
+### If Apple Sold Mugs
+
+![If Apple Sold Mugs](images/if_apple_sold_mugs.jpeg)
+
 **Ported from various private Knowledge Base pages 2010+**
