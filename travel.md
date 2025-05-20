@@ -145,6 +145,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Hungary Taxis](#hungary-taxis)
     - [Hungary Motorway Tolls - e-Vignettes](#hungary-motorway-tolls---e-vignettes)
     - [Budapest](#budapest)
+    - [Debrecen](#debrecen)
     - [Szolnok](#szolnok)
   - [Philipines](#philipines)
     - [Manilla](#manilla)
@@ -1974,6 +1975,12 @@ You must buy it before you travel as there is only a 60 minute grace period upon
 
 You can buy it online but prices vary a lot between €16-24 - this site was reasonable:
 
+This had a lower service fee:
+
+<https://www.hu-vignette.com/>
+
+Than this site:
+
 <https://en.autovignet.hu/>
 
 #### Budapest
@@ -1983,6 +1990,15 @@ An excellent holiday destination for a long weekend with the girlfriend.
 - [Caviar & Bull](https://caviarandbull.hu/menu/) an amazing dining experience to take the girlfriend if you're in the mood to drop £300 on a fancy
   night out. The food is easily among the best I've ever had around the world, with little chef treats of unusual things
   sent to us to try
+
+#### Debrecen
+
+Eastern city I've used as a stopover driving between Romania and Budapest.
+
+Some nice architecture. <!-- and hot young women -->
+
+- [Csokonai Étterem](https://maps.app.goo.gl/5X7LCR9P35XR33zv9) - . 41/16 Mbit/s wifi, no password, but unfortunately
+  the toilets have passwords <!-- 666666 -->
 
 #### Szolnok
 
