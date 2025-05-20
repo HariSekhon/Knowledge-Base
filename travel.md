@@ -1997,8 +1997,9 @@ Eastern city I've used as a stopover driving between Romania and Budapest.
 
 Some nice architecture. <!-- and hot young women -->
 
-- [Csokonai Étterem](https://maps.app.goo.gl/5X7LCR9P35XR33zv9) - . 41/16 Mbit/s wifi, no password, but unfortunately
-  the toilets have passwords <!-- 666666 -->
+- [Csokonai Étterem](https://maps.app.goo.gl/5X7LCR9P35XR33zv9) -
+  the chef's special orange duck leg with pink pepper-citrus mango puree was excellent, it comes with savoy potatoes.
+  41/16 Mbit/s wifi, no password, but unfortunately the toilets have passwords <!-- 666666 -->
 
 #### Szolnok
 
