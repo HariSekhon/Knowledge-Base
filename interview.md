@@ -86,7 +86,7 @@ Be genuinely interested in the situation of their environment.
 
 ### Navigating the Tech Industry - How to Make Money
 
-![](images/orly_navigating_the_tech_industry_how_to_make_money.png)
+![Navigating the Tech Industry - How to Make Money](images/orly_navigating_the_tech_industry_how_to_make_money.png)
 
 ### Skills Need to Get Job vs Do Job
 
