@@ -10,9 +10,10 @@
   - [Composure](#composure)
   - [End Strong](#end-strong)
 - [Memes](#memes)
+  - [Technical Interview vs Actual Job](#technical-interview-vs-actual-job)
   - [Navigating the Tech Industry - How to Make Money](#navigating-the-tech-industry---how-to-make-money)
-  - [Recruitment - Vetting Candidates by Parroting Keywords](#recruitment---vetting-candidates-by-parroting-keywords)
   - [Skills Need to Get Job vs Do Job](#skills-need-to-get-job-vs-do-job)
+  - [Recruitment - Vetting Candidates by Parroting Keywords](#recruitment---vetting-candidates-by-parroting-keywords)
   - [Careers today are a walk in the park...](#careers-today-are-a-walk-in-the-park)
 
 <!-- INDEX_END -->
@@ -79,17 +80,21 @@ Be genuinely interested in the situation of their environment.
 
 ## Memes
 
+### Technical Interview vs Actual Job
+
+![Technical Interview vs Actual Job](images/technical_interview_vs_actual_job.png)
+
 ### Navigating the Tech Industry - How to Make Money
 
 ![](images/orly_navigating_the_tech_industry_how_to_make_money.png)
 
-### Recruitment - Vetting Candidates by Parroting Keywords
-
-![Recruitment - Vetting Candidates by Parroting Keywords](images/orly_recruitment_vetting_candidates_by_parroting_keywords.png)
-
 ### Skills Need to Get Job vs Do Job
 
 ![Skills Need to Get Job vs Do Job](images/skills_need_to_get_a_job_vs_do_job.jpeg)
+
+### Recruitment - Vetting Candidates by Parroting Keywords
+
+![Recruitment - Vetting Candidates by Parroting Keywords](images/orly_recruitment_vetting_candidates_by_parroting_keywords.png)
 
 ### Careers today are a walk in the park...
 
