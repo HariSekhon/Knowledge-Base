@@ -26,6 +26,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Rearrange Status Bar Icons](#rearrange-status-bar-icons)
 - [Reducing Desktop Workspaces](#reducing-desktop-workspaces)
 - [Sending Control-Alt-Delete to Windows through Remote Desktop](#sending-control-alt-delete-to-windows-through-remote-desktop)
+- [Virtualization](#virtualization)
 - [Raycast](#raycast)
 - [AppleScript](#applescript)
 - [Commands](#commands)
@@ -111,6 +112,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [And IntelliJ hogging 20GB RAM](#and-intellij-hogging-20gb-ram)
   - [Chrome Take All of It](#chrome-take-all-of-it)
   - [Macbook USB Stick](#macbook-usb-stick)
+  - [If Apple Sold Mugs](#if-apple-sold-mugs)
 
 <!-- INDEX_END -->
 
@@ -230,6 +232,14 @@ Unfortunately, Remote Desktop still seems to slide and send to fullscreen in ano
 ## Sending Control-Alt-Delete to Windows through Remote Desktop
 
 `Fn` + `Control` + `Option` + `Delete`
+
+## Virtualization
+
+Use [UTM](https://mac.getutm.app/) as a user friendly frontend to Qemu virtualization on Apple Silicon chips.
+
+Use [Virtualbox](virtualbox.md) if you're still on older x86_64.
+
+See [Virtualization](virtualization.md) page.
 
 ## Raycast
 
