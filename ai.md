@@ -228,6 +228,7 @@ print(result["text"])
 
 Idea to app in seconds.
 
+- [Replit](https://replit.com/)
 - [Lovable](https://lovable.dev/)
 - [Bubble](https://bubble.io/)
 - [Flutterflow](https://www.flutterflow.io/)
