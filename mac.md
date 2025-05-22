@@ -235,9 +235,13 @@ Unfortunately, Remote Desktop still seems to slide and send to fullscreen in ano
 
 ## Virtualization
 
+If you need to run some Windows or Linux on your Mac.
+
 Use [UTM](https://mac.getutm.app/) as a user friendly frontend to Qemu virtualization on Apple Silicon chips.
 
 Use [Virtualbox](virtualbox.md) if you're still on older x86_64.
+
+You can also use Multipass.
 
 See [Virtualization](virtualization.md) page.
 
