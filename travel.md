@@ -29,6 +29,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 - [Foreign Cash Withdrawals](#foreign-cash-withdrawals)
 - [Dining Out](#dining-out)
 - [Translation](#translation)
+- [Seasons - Timing Matters](#seasons---timing-matters)
 - [Mosquito Repellent](#mosquito-repellent)
 - [Health Insurance](#health-insurance)
 - [Beware Foreign Police & Customs](#beware-foreign-police--customs)
@@ -532,6 +533,12 @@ If travelling to a non-English speaking country, I recommend downloading the
 - Large list of supported languages
 - Optional: download language support when on wifi
   - didn't notice this making much impact on my data plan either way
+
+## Seasons - Timing Matters
+
+Don't bother with Europe outside of June to August,
+the weather is miserable 9 months out of the year and still awful even in late May, supposedly end of Spring,
+as well as by September.
 
 ## Mosquito Repellent
 
