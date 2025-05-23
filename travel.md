@@ -1999,8 +1999,9 @@ An excellent holiday destination for a long weekend with the girlfriend.
   sent to us to try that I can't name but were all amazing
 - [1000 Tea](https://maps.app.goo.gl/Be4a8HKNCweckq1M7) - excellent tea house with teas from around the world.
   Expensive though at £5 for a tea for one. 11/17 Mbit/s wifi, no password
-- [Madal Cafe](https://maps.app.goo.gl/CSpgybKJECvzfZv39) - the chai latte is good, not very sweet, small venue though
-- [Restaurante Fuego](https://maps.app.goo.gl/suQotrwMGXpUvyfP7) - reasonbly priced hungarian Goulash soup. Also does
+- [Madal Cafe](https://maps.app.goo.gl/CSpgybKJECvzfZv39) - the chai latte is good, not very sweet, small venue
+  downstairs but there is more seating upstairs. 35/0.2 Mbit/s wifi
+- [Restaurante Fuego](https://maps.app.goo.gl/suQotrwMGXpUvyfP7) - reasonably priced hungarian Goulash soup. Also does
   chicken/duck mains with sides you have to order separately. 84/31 Mbit/s wifi
 - [Mischenko kitchen](https://maps.app.goo.gl/VQvbR9umL8WRMTzB7) - the goulash soup was decent, albeit a bit small,
   starter size rather than main size.
