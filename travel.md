@@ -2010,7 +2010,8 @@ An excellent holiday destination for a long weekend with the girlfriend.
 
 Not recommended:
 
-- Califoria Coffee Company - chain across Budapest with power chai lattes, go to independent places instead
+- Califoria Coffee Company - chain across Budapest with power chai lattes, go to independent places instead.
+  29/28 Mbit/s wifi
 - [Bulgarden](https://maps.app.goo.gl/CeYAbrmUbYTG2ecU8) - the goulash soup was watery and the beef had massive amounts
   of fat, probably half of it, and it came with no bread. Ordering the bruschetta doubled the cost and it was mediocre.
   225/15 Mbit/s wifi
