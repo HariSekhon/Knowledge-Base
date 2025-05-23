@@ -1992,7 +1992,11 @@ Than this site:
 
 #### Budapest
 
-An excellent holiday destination for a long weekend with the girlfriend.
+Good for a long weekend city break with the girlfriend.
+
+Don't bother going outside of June - August. The weather was miserable even at the end of May.
+
+I felt most of the restaurants were overrated and western priced though, with exception of Caviar & Bull.
 
 - [Caviar & Bull](https://caviarandbull.hu/menu/) an amazing dining experience to take the girlfriend if you're in the mood to drop £300 on a fancy
   night out. The food is easily among the best I've ever had around the world, with little chef treats of unusual things
@@ -2001,6 +2005,10 @@ An excellent holiday destination for a long weekend with the girlfriend.
   Expensive though at £5 for a tea for one. 11/17 Mbit/s wifi, no password
 - [Madal Cafe](https://maps.app.goo.gl/CSpgybKJECvzfZv39) - the chai latte is good, not very sweet, small venue
   downstairs but there is more seating upstairs. 35/0.2 Mbit/s wifi
+- [Street Food Karavan Budapest](https://maps.app.goo.gl/rVTwbMKuU6DupKq56) - interesting popular street food enclave
+- [Parasztkonyha Restaurant](https://maps.app.goo.gl/28vif387fvTyTTtRA) - one of Hungary Top 20, with a queue to get in,
+  but I felt the beef stew with grains was mediocre, especially for £15.
+  I used to make much better more flavourful beef stew, theirs lacked wine and tomato reduction at the very least
 - [Restaurante Fuego](https://maps.app.goo.gl/suQotrwMGXpUvyfP7) - reasonably priced hungarian Goulash soup. Also does
   chicken/duck mains with sides you have to order separately. 84/31 Mbit/s wifi
 - [Mischenko kitchen](https://maps.app.goo.gl/VQvbR9umL8WRMTzB7) - the goulash soup was decent, albeit a bit small,
