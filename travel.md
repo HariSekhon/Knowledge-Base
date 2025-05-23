@@ -2001,13 +2001,17 @@ An excellent holiday destination for a long weekend with the girlfriend.
   11/17 Mbit/s wifi, no password
 - [Restaurante Fuego](https://maps.app.goo.gl/suQotrwMGXpUvyfP7) - reasonbly priced hungarian Goulash soup. Also does
   chicken/duck mains with sides you have to order separately. 84/31 Mbit/s wifi
-- [Bulgarden](https://maps.app.goo.gl/CeYAbrmUbYTG2ecU8) - reasonable menu, had the goulash soup and bruschetta.
-  225/15 Mbit/s wifi
 - [Mischenko kitchen](https://maps.app.goo.gl/VQvbR9umL8WRMTzB7) - the goulash soup was decent, albeit a bit small,
   starter size rather than main size.
   The kompot house made "juice" from mix fruit and berries is basically coloured water with almost no flavour,
   don't bother with it next time. 98/20 Mbit/s wifi even sitting outside on the terrace,
   but unfortunately they close the terrace an hour earlier at 10pm
+
+Not recommended:
+
+- [Bulgarden](https://maps.app.goo.gl/CeYAbrmUbYTG2ecU8) - the goulash soup was watery and the beef had massive amounts
+  of fat, probably half of it, and it came with no bread. Ordering the bruschetta doubled the cost and it was mediocre.
+  225/15 Mbit/s wifi
 
 #### Debrecen
 
