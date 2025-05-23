@@ -1997,8 +1997,8 @@ An excellent holiday destination for a long weekend with the girlfriend.
 - [Caviar & Bull](https://caviarandbull.hu/menu/) an amazing dining experience to take the girlfriend if you're in the mood to drop £300 on a fancy
   night out. The food is easily among the best I've ever had around the world, with little chef treats of unusual things
   sent to us to try that I can't name but were all amazing
-- [1000 Tea](https://maps.app.goo.gl/Be4a8HKNCweckq1M7) - excellent tea house with teas from around the world,
-  11/17 Mbit/s wifi, no password
+- [1000 Tea](https://maps.app.goo.gl/Be4a8HKNCweckq1M7) - excellent tea house with teas from around the world.
+  Expensive though at £5 for a tea for one. 11/17 Mbit/s wifi, no password
 - [Madal Cafe](https://maps.app.goo.gl/CSpgybKJECvzfZv39) - the chai latte is good, not very sweet, small venue though
 - [Restaurante Fuego](https://maps.app.goo.gl/suQotrwMGXpUvyfP7) - reasonbly priced hungarian Goulash soup. Also does
   chicken/duck mains with sides you have to order separately. 84/31 Mbit/s wifi
