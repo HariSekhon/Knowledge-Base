@@ -2008,6 +2008,10 @@ An excellent holiday destination for a long weekend with the girlfriend.
   don't bother with it next time. 98/20 Mbit/s wifi even sitting outside on the terrace,
   but unfortunately they close the terrace an hour earlier at 10pm
 
+TODO:
+
+- [Hungarikum Bisztró](https://maps.app.goo.gl/ZB3oK5pfFW9MAofe9) - fully booked out for days :-/
+
 Not recommended:
 
 - Califoria Coffee Company - chain across Budapest with power chai lattes, go to independent places instead.
