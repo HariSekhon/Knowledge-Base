@@ -2007,7 +2007,8 @@ I felt most of the restaurants were overrated and western priced though, with ex
   downstairs but there is more seating upstairs. 35/0.2 Mbit/s wifi
 - [Lumen Café](https://maps.app.goo.gl/XBNhrJ6DjmpSyMcZ8) - gentrified cafe with a nice outdoor arden seating, or at
   least it would be if it wasn't for the smokers, they serve shakshuka, which says it all about the gentrification.
-  Breakfast finishes as 2pm and there isn't much protein on the menu. 17/20 Mbit/s wifi
+  Breakfast finishes as 2pm and there isn't much protein on the menu.
+  Wifi is a bit variable, 5/3 - 17/20 Mbit/s
 - [Street Food Karavan Budapest](https://maps.app.goo.gl/rVTwbMKuU6DupKq56) - interesting popular street food enclave
 - [Parasztkonyha Restaurant](https://maps.app.goo.gl/28vif387fvTyTTtRA) - one of Hungary Top 20, with a queue to get in,
   but I felt the beef stew with grains was mediocre, especially for £15.
