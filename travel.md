@@ -2005,8 +2005,8 @@ with exception of Caviar & Bull and Grand Central Cafe which were high quality.
 - [Centrál Grand Cafe & Bar](https://maps.app.goo.gl/eMTeLshhMZSKJMrc9) - high class venue with live piano music, at
   least on the Saturday night I was there.
   Good drinks menu with a selection of interesting coffee based drinks, teas, fresh juices and alcohols.
-  The fresh green juice was good (spinach-kale-apple-cucumber-lemon)
-  The food menu is similarly decent. The prices are moderately high but not as high as one would expect for the class
+  The fresh green juice was good (spinach-kale-apple-cucumber-lemon).
+  The food menu is similarly decent. The prices are moderately high but not high-high as one would expect for the class
   of the establishment.
   Definitely take your girlfriend here
 - [1000 Tea](https://maps.app.goo.gl/Be4a8HKNCweckq1M7) - excellent tea house with teas from around the world.
