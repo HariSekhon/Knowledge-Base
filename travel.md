@@ -2002,8 +2002,8 @@ with exception of Caviar & Bull and Grand Central Cafe which were high quality.
 - [Caviar & Bull](https://caviarandbull.hu/menu/) - an amazing dining experience to take the girlfriend if you're in the mood to drop £300 on a
   fancy night out. The food is easily among the best I've ever had around the world, with little chef treats of unusual
   things sent to us to try that I can't name but were all amazing
-- [Centrál Grand Cafe & Bar](https://maps.app.goo.gl/eMTeLshhMZSKJMrc9) - high class venue with live piano music, at
-  least on the Saturday night I was there.
+- [Centrál Grand Cafe & Bar](https://maps.app.goo.gl/eMTeLshhMZSKJMrc9) - high class venue with live piano music and
+  live violin, at least on the Saturday night I was there.
   Good drinks menu with a selection of interesting coffee based drinks, teas, fresh juices and alcohols.
   The fresh green juice was good (spinach-kale-apple-cucumber-lemon).
   The food menu is similarly decent. The prices are moderately high but not high-high as one would expect for the class
