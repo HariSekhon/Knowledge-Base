@@ -2006,6 +2006,7 @@ I felt most of the restaurants were overrated and western priced though, with ex
 - [Say Cheese](https://maps.app.goo.gl/HpJAcZFa66RNmieV7) - coffee and brunch, good menu with everyting from eggs to
   pancakes, bagels, and even an acai smoothie bowl.
   The eggs royale (poached eggs and salmon on muffin) is good, albeit not large, and sprinkled with pomegranate.
+  The acai bowl is not very acai, it's diluted, but with the granola and fruit and nuts, is still good and worth having.
   562/51 Mbit/s wifi
 - [Madal Cafe](https://maps.app.goo.gl/CSpgybKJECvzfZv39) - the chai latte is good, not very sweet, small venue
   downstairs but there is more seating upstairs. 35/0.2 Mbit/s wifi
