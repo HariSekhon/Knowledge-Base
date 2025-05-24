@@ -2008,7 +2008,7 @@ with exception of Caviar & Bull and Grand Central Cafe which were high quality.
   The fresh green juice was good (spinach-kale-apple-cucumber-lemon)
   The food menu is similarly decent. The prices are moderately high but not as high as one would expect for the class
   of the establishment.
-  Definitely take your girlfriend here.
+  Definitely take your girlfriend here
 - [1000 Tea](https://maps.app.goo.gl/Be4a8HKNCweckq1M7) - excellent tea house with teas from around the world.
   Expensive though at £5 for a tea for one. 11/17 Mbit/s wifi, no password
 - [Say Cheese](https://maps.app.goo.gl/HpJAcZFa66RNmieV7) - coffee and brunch, good menu with everyting from eggs to
