@@ -2006,9 +2006,11 @@ with exception of Caviar & Bull and Grand Central Cafe which were high quality.
   live violin, at least on the Saturday night I was there.
   Good drinks menu with a selection of interesting coffee based drinks, teas, fresh juices and alcohols.
   The fresh green juice was good (spinach-kale-apple-cucumber-lemon).
+  The fresh red juice (beetroot-red grape-ginger-orange-lime)
+  Apricot and passion fruit tiramisu.
   The food menu is similarly decent. The prices are moderately high but not high-high as one would expect for the class
   of the establishment.
-  Definitely take your girlfriend here
+  Definitely take your girlfriend here. 7/3 Mbit/s wifi
 - [1000 Tea](https://maps.app.goo.gl/Be4a8HKNCweckq1M7) - excellent tea house with teas from around the world.
   Expensive though at £5 for a tea for one. 11/17 Mbit/s wifi, no password
 - [Say Cheese](https://maps.app.goo.gl/HpJAcZFa66RNmieV7) - coffee and brunch, good menu with everyting from eggs to
