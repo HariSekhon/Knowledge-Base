@@ -2009,7 +2009,7 @@ with exception of Caviar & Bull and Grand Central Cafe which were high quality.
   desserts etc.
   The fresh green juice was good (spinach-kale-apple-cucumber-lemon) and
   red juice (beetroot-red grape-ginger-orange-lime) are both great.
-  Apricot and passion fruit tiramisu is excellent in both presentation and flavour.
+  Apricot and passion fruit tiramisu aws excellent in both presentation and flavour.
   Prices are moderately high but not high-high as one would expect for the class of the establishment.
   Definitely take your girlfriend here. 7/3 Mbit/s wifi
 - [1000 Tea](https://maps.app.goo.gl/Be4a8HKNCweckq1M7) - excellent tea house with teas from around the world.
