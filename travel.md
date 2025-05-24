@@ -1996,11 +1996,19 @@ Good for a long weekend city break with the girlfriend.
 
 Don't bother going outside of June - August. The weather was miserable even at the end of May.
 
-I felt most of the restaurants were overrated and western priced though, with exception of Caviar & Bull.
+I felt most of the restaurants I tried in the 4.5 star region were overrated, as well as western priced,
+with exception of Caviar & Bull and Grand Central Cafe which were high quality.
 
 - [Caviar & Bull](https://caviarandbull.hu/menu/) an amazing dining experience to take the girlfriend if you're in the mood to drop £300 on a fancy
   night out. The food is easily among the best I've ever had around the world, with little chef treats of unusual things
   sent to us to try that I can't name but were all amazing
+- [Centrál Grand Cafe & Bar](https://maps.app.goo.gl/eMTeLshhMZSKJMrc9) - high class venue with live piano music, at
+  least on the Saturday night I was there.
+  Good drinks menu with a selection of interesting coffee based drinks, teas, fresh juices and alcohols.
+  The fresh green juice was good (spinach-kale-apple-cucumber-lemon)
+  The food menu is similarly decent. The prices are moderately high but not as high as one would expect for the class
+  of the establishment.
+  Definitely take your girlfriend here.
 - [1000 Tea](https://maps.app.goo.gl/Be4a8HKNCweckq1M7) - excellent tea house with teas from around the world.
   Expensive though at £5 for a tea for one. 11/17 Mbit/s wifi, no password
 - [Say Cheese](https://maps.app.goo.gl/HpJAcZFa66RNmieV7) - coffee and brunch, good menu with everyting from eggs to
