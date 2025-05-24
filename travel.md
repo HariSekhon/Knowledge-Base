@@ -2003,6 +2003,8 @@ I felt most of the restaurants were overrated and western priced though, with ex
   sent to us to try that I can't name but were all amazing
 - [1000 Tea](https://maps.app.goo.gl/Be4a8HKNCweckq1M7) - excellent tea house with teas from around the world.
   Expensive though at £5 for a tea for one. 11/17 Mbit/s wifi, no password
+- [Say Cheese](https://maps.app.goo.gl/HpJAcZFa66RNmieV7) - coffee and brunch, good menu with everyting from eggs to
+  pancakes, bagels, and even an acai smoothie bowl
 - [Madal Cafe](https://maps.app.goo.gl/CSpgybKJECvzfZv39) - the chai latte is good, not very sweet, small venue
   downstairs but there is more seating upstairs. 35/0.2 Mbit/s wifi
 - [Lumen Café](https://maps.app.goo.gl/XBNhrJ6DjmpSyMcZ8) - gentrified cafe with a nice outdoor arden seating, or at
