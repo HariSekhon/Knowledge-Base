@@ -54,6 +54,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Guys Who Thank ChatGPT](#guys-who-thank-chatgpt)
   - [ChatGPT vs Learning Data Structure and Algorithms](#chatgpt-vs-learning-data-structure-and-algorithms)
   - [AI vs Jobs](#ai-vs-jobs)
+  - [Trying to Keep Up With AI News](#trying-to-keep-up-with-ai-news)
 
 <!-- INDEX_END -->
 
@@ -343,3 +344,7 @@ for creating these using the ChatGPT AI.
 ![AI vs Jobs](images/ai_vs_jobs_farmers.jpeg)
 
 ![AI vs Jobs Wavers](images/ai_vs_jobs_weavers.png)
+
+### Trying to Keep Up With AI News
+
+![Trying to Keep Up With AI News](images/trying_to_keep_up_with_ai_news.jpeg)
