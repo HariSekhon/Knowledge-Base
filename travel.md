@@ -2028,11 +2028,13 @@ with exception of Caviar & Bull and Grand Central Cafe which were high quality.
   which was surprisingly good in a toasted ciabatta style bread and the sauce really made it.
   It should be good it was more than £8 for the sandwich though. Gentrified. Wifi is a bit variable, 5/3 - 17/20 Mbit/s
 - [Street Food Karavan Budapest](https://maps.app.goo.gl/rVTwbMKuU6DupKq56) - interesting popular street food enclave
-- [Parasztkonyha Restaurant](https://maps.app.goo.gl/28vif387fvTyTTtRA) - one of Hungary Top 20, with a queue to get in,
-  but I felt the beef stew with grains was mediocre, especially for £15.
-  I used to make much better more flavourful beef stew, theirs lacked wine and tomato reduction at the very least
 - [Restaurante Fuego](https://maps.app.goo.gl/suQotrwMGXpUvyfP7) - reasonably priced hungarian Goulash soup. Also does
   chicken/duck mains with sides you have to order separately. 84/31 Mbit/s wifi
+- [Gerlóczy Kávéház](https://maps.app.goo.gl/ELCAiwmxf89uBR5S8) - indoor and outdoor seating in a quiet triangle
+  crossroads. Quiet on a Saturday night while there is a 45 minute queue to get into Fat Mama.
+  The daily special grilled chicken breast fillet with safe fried polenta, carrot cream, seasonal buttered vegetables
+  and chicken liver croquette
+  Stunning 806/137 Mbit/s wifi
 - [Mischenko kitchen](https://maps.app.goo.gl/VQvbR9umL8WRMTzB7) - the goulash soup was decent, albeit a bit small,
   starter size rather than main size.
   The kompot house made "juice" from mix fruit and berries is basically coloured water with almost no flavour,
@@ -2042,10 +2044,15 @@ with exception of Caviar & Bull and Grand Central Cafe which were high quality.
 TODO:
 
 - [Hungarikum Bisztró](https://maps.app.goo.gl/ZB3oK5pfFW9MAofe9) - fully booked out for days :-/
+- [Fat Mama](https://maps.app.goo.gl/hyN5NGZYXmbgmy4C7) - 45 minute queue for table on Sat evening, probably overrated
+  due to being over commercialized, like Parasztkonyha below
 
 Not recommended:
 
-- Califoria Coffee Company - chain across Budapest with power chai lattes, go to independent places instead.
+- [Parasztkonyha Restaurant](https://maps.app.goo.gl/28vif387fvTyTTtRA) - one of Hungary Top 20, with a queue to get in,
+  but I felt the beef stew with grains was mediocre, especially for £15.
+  I used to make much better more flavourful beef stew, theirs lacked wine and tomato reduction at the very least
+- California Coffee Company - chain across Budapest with power chai lattes, go to independent places instead.
   29/28 Mbit/s wifi
 - [Bulgarden](https://maps.app.goo.gl/CeYAbrmUbYTG2ecU8) - the goulash soup was watery and the beef had massive amounts
   of fat, probably half of it, and it came with no bread. Ordering the bruschetta doubled the cost and it was mediocre.
