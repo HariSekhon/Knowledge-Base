@@ -2075,6 +2075,14 @@ Some nice architecture. <!-- and hot young women -->
 
 #### Gyor
 
+A few nice architectural bits, you probably don't need more than 1 hour to walk around the centre.
+
+- [Palffy Restaurant](https://maps.app.goo.gl/Z6RrsJUR8pT9R77y7) - prime tourist location with lots of outdoor seating
+  in the town square.
+  Popular, food is a bit mediocre for the price as expected, had the venison stew with dumplings for £15,
+  expected the dumplings to be better
+- [Győr, Petőfi híd Parking](https://maps.app.goo.gl/8WxsHv5hi7ts1iwp9) - free parking, a short walk from the centre
+
 #### Szolnok
 
 A modest town with a small centre to the east of the country.
