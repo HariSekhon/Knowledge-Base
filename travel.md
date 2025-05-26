@@ -2075,6 +2075,8 @@ Some nice architecture. <!-- and hot young women -->
 
 #### Gyor
 
+Stopover town between Bratislava and Budapest.
+
 A few nice architectural bits, you probably don't need more than 1 hour to walk around the centre.
 
 - [Palffy Restaurant](https://maps.app.goo.gl/Z6RrsJUR8pT9R77y7) - prime tourist location with lots of outdoor seating
