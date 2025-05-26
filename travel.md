@@ -166,6 +166,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Nis](#nis)
   - [Singapore](#singapore)
   - [Slovakia](#slovakia)
+    - [Slovakia Motorway Tolls - e-Vignettes](#slovakia-motorway-tolls---e-vignettes)
     - [Kosice](#kosice)
   - [South Africa](#south-africa)
     - [Johannesburg](#johannesburg)
@@ -2497,6 +2498,14 @@ I __don't__ recommend:
   imagined as that's a hard thing to get wrong. IMO it was the worst food I've eaten in Asia
 
 ### Slovakia
+
+#### Slovakia Motorway Tolls - e-Vignettes
+
+Buyt this before using the motorways driving around Slovakia.
+
+Use the official site rather than resellers, it's cheaper:
+
+<https://eznamka.sk/selfcare/purchase>
 
 #### Kosice
 
