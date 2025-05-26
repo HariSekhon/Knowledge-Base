@@ -147,6 +147,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Hungary Motorway Tolls - e-Vignettes](#hungary-motorway-tolls---e-vignettes)
     - [Budapest](#budapest)
     - [Debrecen](#debrecen)
+    - [Gyor](#gyor)
     - [Szolnok](#szolnok)
   - [Philipines](#philipines)
     - [Manilla](#manilla)
@@ -167,6 +168,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Singapore](#singapore)
   - [Slovakia](#slovakia)
     - [Slovakia Motorway Tolls - e-Vignettes](#slovakia-motorway-tolls---e-vignettes)
+    - [Bratislava](#bratislava)
     - [Kosice](#kosice)
   - [South Africa](#south-africa)
     - [Johannesburg](#johannesburg)
@@ -2028,6 +2030,8 @@ with exception of Caviar & Bull and Grand Central Cafe which were high quality.
   I went with the chicken sandwich as the highest protein option,
   which was surprisingly good in a toasted ciabatta style bread and the sauce really made it.
   It should be good it was more than £8 for the sandwich though. Gentrified. Wifi is a bit variable, 5/3 - 17/20 Mbit/s
+- [San Ramon Caffee & Bar](https://maps.app.goo.gl/Eves7pgDjbhATFYV8) - eggs royale was ok but a bit too much
+  hollandaise sauce. 231/30 Mbit/s wifi
 - [Street Food Karavan Budapest](https://maps.app.goo.gl/rVTwbMKuU6DupKq56) - interesting popular street food enclave
 - [Restaurante Fuego](https://maps.app.goo.gl/suQotrwMGXpUvyfP7) - reasonably priced hungarian Goulash soup. Also does
   chicken/duck mains with sides you have to order separately. 84/31 Mbit/s wifi
@@ -2068,6 +2072,8 @@ Some nice architecture. <!-- and hot young women -->
 - [Csokonai Étterem](https://maps.app.goo.gl/5X7LCR9P35XR33zv9) -
   the chef's special orange duck leg with pink pepper-citrus mango puree was excellent, it comes with savoy potatoes.
   41/16 Mbit/s wifi, no password, but unfortunately the toilets have passwords <!-- 666666 -->
+
+#### Gyor
 
 #### Szolnok
 
@@ -2506,6 +2512,8 @@ Buyt this before using the motorways driving around Slovakia.
 Use the official site rather than resellers, it's cheaper:
 
 <https://eznamka.sk/selfcare/purchase>
+
+#### Bratislava
 
 #### Kosice
 
