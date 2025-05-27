@@ -2525,6 +2525,8 @@ Use the official site rather than resellers, it's cheaper:
 
 #### Bratislava
 
+- [Buny Bakery](https://maps.app.goo.gl/cyQYGzUTbhYdreQd8) - truffle eggs benedict. 356/42 Mbit/s wifi
+
 #### Kosice
 
 Small city with a nice historic centre, but none of the venues I tried impressed me.
