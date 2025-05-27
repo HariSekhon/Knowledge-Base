@@ -2526,6 +2526,10 @@ Use the official site rather than resellers, it's cheaper:
 #### Bratislava
 
 - [Buny Bakery](https://maps.app.goo.gl/cyQYGzUTbhYdreQd8) - truffle eggs benedict. 356/42 Mbit/s wifi
+- [Mondieu](https://maps.app.goo.gl/dwtCzwTZmc2TAdS28) - upmarket cafe restaurant chain with outdoor seating overlooking
+  the river, good menu of breakfasts, mains, smoothies, and even acai bowl.
+  Kitchen closes 1 hour before and breakfast is only served until 11:30 weekdays and 12:30 weekends unfortunately.
+  9/2 Mbit/s wifi outside. Venues in Bratislava, Prague and Dubai
 
 #### Kosice
 
