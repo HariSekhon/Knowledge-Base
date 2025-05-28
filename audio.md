@@ -49,7 +49,7 @@ directory make this slightly easier.
 
 #### Recursively Set Artist and Album
 
-**XXX: Danger, use only in an audiobook subdirectory, otherwise it'll ruin the metadata of your MP3 library!**
+**XXX: Danger - use only in an audiobook subdirectory, otherwise it'll ruin the metadata of your MP3 library!**
 
 ```shell
 find . -maxdepth 2 -iname '*.mp3' |
@@ -66,7 +66,7 @@ find . -maxdepth 2 -iname '*.mp3' |
 
 For subdirectories eg. CD1, CD2 etc...
 
-**XXX: use with care - if misused at the top dir it'd ruin your MP3 library's metadata**
+**XXX: Danger - use with care - if misused at the top dir it'd ruin your MP3 library's metadata!**
 
 ```shell
 find . -maxdepth 2 -iname '*.mp3' |
