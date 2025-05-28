@@ -2551,6 +2551,9 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
 - [Eggstro](https://maps.app.goo.gl/xZcXH3jG4xFcXPTm8) - has no poached eggs, apparently everybody is asking for them.
   I had the scrambled eggs on toast with avocado and smoked salmon, but I thought the portion size wasn't large.
   Stunningly fast 710/52 Mbit/s wifi
+- [Tsuki - Asian food & Sushi & Poke & Cafe Viet Nam](https://maps.app.goo.gl/12Cq6FHdQdNudSAVA) - 2 restaurants in one,
+  Poke bowls weren't on the menu I saw which was full of sushi, but I asked the waiter for it after seeing it on Google
+  Maps. 47/8 Mbit/s wifi
 
 #### Kosice
 
