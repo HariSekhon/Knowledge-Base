@@ -23,15 +23,15 @@ See [PDF](pdf.md) doc.
 
 ## Image
 
-See [Image](image.md) doc.
+See [Image](image.md) doc for image conversions, joining, triming, metadata etc.
 
 ## Video
 
-See [Video](video.md) doc.
+See [Video](video.md) doc for buffering, downloading, metadata, clipping, transcoding, downscaling etc.
 
 ## Audio
 
-See [Audio](audio.md) doc.
+See [Audio](audio.md) doc for getting and setting metadata such as artist/author, album/title, track numbering etc.
 
 ## MediaBox Setup
 
