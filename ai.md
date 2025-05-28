@@ -233,6 +233,9 @@ Idea to app in seconds.
 - [Lovable](https://lovable.dev/)
 - [Bubble](https://bubble.io/)
 - [Flutterflow](https://www.flutterflow.io/)
+- [Relevance AI](https://relevanceai.com/)
+- [GenSpark](https://www.genspark.ai/)
+- [Manus](https://manus.im/)
 
 ## Coding
 
