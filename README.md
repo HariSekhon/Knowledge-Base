@@ -115,10 +115,6 @@ References to official docs and some classic books are provided for those who wa
   - [Dev / DevOps / Open Source / Agile](#dev--devops--open-source--agile)
   - [Vendors](#vendors)
   - [Multimedia](#multimedia)
-    - [PDF](pdf.md)
-    - [Image](image.md)
-    - [Video](video.md)
-    - [Audio](audio.md)
   - [Marketing](#marketing)
   - [Old Docs](#old-docs)
 - [Star History](#star-history)
@@ -724,6 +720,10 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 ### Multimedia
 
 - [Multimedia](multimedia.md)
+  - [PDF](pdf.md)
+  - [Image](image.md)
+  - [Video](video.md)
+  - [Audio](audio.md)
 - [Download Tools](downloads.md)
 - [File Upload & Code Pastebin Sites](upload-sites.md)
 - [Memes](memes.md)
