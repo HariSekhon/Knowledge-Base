@@ -5,7 +5,11 @@ Media file analysis, editing, transcoding and conversions.
 <!-- INDEX_START -->
 
 - [PDF](#pdf)
-  - [Convert txt to pdf](#convert-txt-to-pdf)
+  - [Extract Metadata, Cut or Splice PDFs](#extract-metadata-cut-or-splice-pdfs)
+  - [Extract Pages from a PDF](#extract-pages-from-a-pdf)
+  - [Concatenate PDFs together](#concatenate-pdfs-together)
+  - [Convert Image to PDF](#convert-image-to-pdf)
+  - [Convert Text file to PDF](#convert-text-file-to-pdf)
     - [Pandoc](#pandoc)
     - [enscript + ps2pdf](#enscript--ps2pdf)
     - [textutil](#textutil)
@@ -50,7 +54,47 @@ Media file analysis, editing, transcoding and conversions.
 
 ## PDF
 
-### Convert txt to pdf
+### Extract Metadata, Cut or Splice PDFs
+
+<https://pdfly.readthedocs.io/en/latest/>
+
+```shell
+brew install pdfly
+```
+
+```shell
+pdfly meta "$name.pdf"
+```
+
+### Extract Pages from a PDF
+
+Works like Python list - indices start at zero.
+
+This takes pages 2, 3 and 4 into `out.pdf`:
+
+```shell
+pdfly cat input.pdf 1:4 -o out.pdf
+```
+
+Extract the 5th page:
+
+```shell
+pdfly cat input.pdf 5 -o out.pdf
+```
+
+### Concatenate PDFs together
+
+```shell
+pdfly cat input1.pdf input2.pdf -o out.pdf
+```
+
+### Convert Image to PDF
+
+```shell
+pdfly x2pdf image.jpg -o out.pdf
+```
+
+### Convert Text file to PDF
 
 #### Pandoc
 
@@ -61,6 +105,22 @@ brew install pandoc
 ```shell
 pandoc "$name.txt" -o "$name.pdf"
 ```
+
+<!--
+
+If you get this error:
+
+```text
+pdflatex not found. Please select a different --pdf-engine or install pdflatex
+```
+
+then install
+
+```shell
+
+```
+
+-->
 
 #### enscript + ps2pdf
 
