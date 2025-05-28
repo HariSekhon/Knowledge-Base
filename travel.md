@@ -2538,6 +2538,8 @@ Use the official site rather than resellers, it's cheaper:
 
 #### Bratislava
 
+Bratislava is nowhere near as big as Budapest, you probably don't need more than 3 nights here.
+
 - [Buny Bakery](https://maps.app.goo.gl/cyQYGzUTbhYdreQd8) - truffle eggs benedict with ham was surprisingly good,
   although could have been bigger, and it should be good for €13! The kitchen closes at 15:50 unforunately, had to have
   the foccaccia serano ham the second time from the counter display, which while fancy looking, lacks much nutritional
