@@ -2527,8 +2527,8 @@ Use the official site rather than resellers, it's cheaper:
 
 - [Buny Bakery](https://maps.app.goo.gl/cyQYGzUTbhYdreQd8) - truffle eggs benedict with ham was surprisingly good,
   although could have been bigger, and it should be good for €13! The kitchen closes at 15:50 unforunately, had to have
-  the foccaccia serano ham the second time, which while fancy, lacks the nutrition and probably isn't worth €8.
-  356/42 Mbit/s wifi
+  the foccaccia serano ham the second time from the counter display, which while fancy looking, lacks much nutritional
+  substance as it's mainly bread, and probably isn't worth €8. 356/42 Mbit/s wifi
 - [Mondieu](https://maps.app.goo.gl/dwtCzwTZmc2TAdS28) - upmarket cafe restaurant chain with outdoor seating overlooking
   the river, good menu of breakfasts, mains, smoothies, and even acai bowl.
   Kitchen closes 1 hour before and breakfast is only served until 11:30 weekdays and 12:30 weekends unfortunately.
