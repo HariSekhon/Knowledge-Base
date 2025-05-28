@@ -4,6 +4,11 @@ Media file analysis, editing, transcoding and conversions.
 
 <!-- INDEX_START -->
 
+- [PDF](#pdf)
+  - [Convert txt to pdf](#convert-txt-to-pdf)
+    - [Pandoc](#pandoc)
+    - [enscript + ps2pdf](#enscript--ps2pdf)
+    - [textutil](#textutil)
 - [Image](#image)
   - [Open a file from the command line](#open-a-file-from-the-command-line)
   - [Check & Change the default Application for a given file type](#check--change-the-default-application-for-a-given-file-type)
@@ -42,6 +47,38 @@ Media file analysis, editing, transcoding and conversions.
   - [Marketing Matters](#marketing-matters)
 
 <!-- INDEX_END -->
+
+## PDF
+
+### Convert txt to pdf
+
+#### Pandoc
+
+```shell
+brew install pandoc
+```
+
+```shell
+pandoc "$name.txt" -o "$name.pdf"
+```
+
+#### enscript + ps2pdf
+
+```shell
+brew install enscript ghostscript
+```
+
+```shell
+enscript "$name.txt" -o - | ps2pdf - "$name.pdf"
+```
+
+#### textutil
+
+Built in to macOS, but limited styling:
+
+```shell
+textutil -convert pdf "$name.txt" -output "$name.pdf"
+```
 
 ## Image
 
