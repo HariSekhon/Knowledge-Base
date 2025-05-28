@@ -2549,6 +2549,7 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
   Kitchen closes 1 hour before and breakfast is only served until 11:30 weekdays and 12:30 weekends unfortunately.
   9/2 Mbit/s wifi outside. Most venues in Bratislava, as well as Prague and Dubai
 - [Eggstro](https://maps.app.goo.gl/xZcXH3jG4xFcXPTm8) - has no poached eggs, apparently everybody is asking for them.
+  I had the scrambled eggs on toast with avocado and smoked salmon, but I thought the portion size wasn't large.
   Stunningly fast 710/52 Mbit/s wifi
 
 #### Kosice
