@@ -2546,7 +2546,8 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
   seating. Food is modern Slovak fusion, rather than traditional,
   means many dishes with flair, home made sauces, sauteed meats, great healthy options like fancy salads, drinks etc.
   The chicken steak with sweet potatoes, bacon-onion chutney and herb chilli pesto and fig was great.
-  TODO: try their salads. 911/47 Mbit/s wifi
+  TODO: try the beef bowl with egg, and chicken bowl with salad, mango and pomegranate.
+  Excellent light meals perhaps in between other meals. 911/47 Mbit/s wifi
 - [Buny Bakery](https://maps.app.goo.gl/cyQYGzUTbhYdreQd8) - truffle eggs benedict with ham was surprisingly good,
   although could have been bigger, and it should be good for €13!
   The bacon benedict for €12 is also really good, although similar to the truffle eggs benedict, could be bigger.
