@@ -2554,6 +2554,9 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
 - [Bratislava Flagship Restaurant]() - very busy commercial tourist restaurant with nice historic decor in the main
   upper floor of restaurant.
   Prices are a bit high eg. €19 for the duck leg with cabbage.
+  The cesnakovy (garlic soup) with bread and cheese is decent,
+  although not much bigger than a mug, with lots of cheese at the bottom, but only 2 small slices of bread.
+  There is a version served in a whole bread bowl.
   Tables are mostly not reservable and given to walk-ins.
   The restaurant's wifi network isn't found in the top level
 - [Eggstro](https://maps.app.goo.gl/xZcXH3jG4xFcXPTm8) - has no poached eggs, apparently everybody is asking for them.
