@@ -2553,9 +2553,10 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
   9/2 Mbit/s wifi outside. Most venues in Bratislava, as well as Prague and Dubai
 - [Bratislava Flagship Restaurant]() - very busy commercial tourist restaurant with nice historic decor in the main
   upper floor of restaurant.
-  Prices are a bit high eg. €19 for the duck leg with cabbage.
-  The cesnakovy (garlic soup) with bread and cheese is decent,
-  although not much bigger than a mug, with lots of cheese at the bottom, but only 2 small slices of bread.
+  Prices are a bit high eg. €19 for the duck leg with cabbage, and a very small side salad of tomatoes, cucumber and
+  peppers was €4.
+  The cesnakovy (garlic soup)is decent, with lots of cheese at the bottom,
+  although not much soup volume, only 330ml, and comes in a mug with 2 sided handle, and only 2 small slices of bread.
   There is a version served in a whole bread bowl.
   Tables are mostly not reservable and given to walk-ins.
   The restaurant's wifi network isn't found in the top level
