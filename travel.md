@@ -2541,6 +2541,10 @@ Use the official site rather than resellers, it's cheaper:
 
 Bratislava is nowhere near as big as Budapest, you probably don't need more than 3 nights here.
 
+- [Le Papillon](https://maps.app.goo.gl/qnf4XpgV5PNMQqoR6) - excellent good menu and moderate prices, especially
+  considering the prime location on one of the main strip. Popular, good ambience, music, decor, indoor and outdoor
+  seating. Food is modern Slovak fusion, rather than traditional,
+  means many dishes with flair, home made sauces, sauteed meats, great healthy options like fancy salads, drinks etc.
 - [Buny Bakery](https://maps.app.goo.gl/cyQYGzUTbhYdreQd8) - truffle eggs benedict with ham was surprisingly good,
   although could have been bigger, and it should be good for €13!
   The bacon benedict for €12 is also really good, although similar to the truffle eggs benedict, could be bigger.
@@ -2551,15 +2555,16 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
   the river, good menu of breakfasts, mains, smoothies, and even acai bowl.
   Kitchen closes 1 hour before and breakfast is only served until 11:30 weekdays and 12:30 weekends unfortunately.
   9/2 Mbit/s wifi outside. Most venues in Bratislava, as well as Prague and Dubai
-- [Bratislava Flagship Restaurant]() - very busy commercial tourist restaurant with nice historic decor in the main
-  upper floor of restaurant.
+- [Bratislava Flagship Restaurant](https://maps.app.goo.gl/RwJ5kwom3JpC2pFY9) - very busy commercial tourist restaurant
+  with nice historic decor in the main upper floor of restaurant.
   Prices are a bit high eg. €19 for the duck leg with cabbage, and a very small side salad of tomatoes, cucumber and
   peppers was €4.
   The cesnakovy (garlic soup)is decent, with lots of cheese at the bottom,
   although not much soup volume, only 330ml, and comes in a mug with 2 sided handle, and only 2 small slices of bread.
   There is a version served in a whole bread bowl.
   Tables are mostly not reservable and given to walk-ins.
-  The restaurant's wifi network isn't found in the top level.
+  The restaurant's wifi network isn't found in the top level,
+  VisitBratislava was found instead but wouldn't connect due to weak signal.
   The top level has large long benches
   where tour guides lead in old insuffferable American tourist groups from places like California
   (you know the type, boomers that have parasited the wealth out of the new generations via asset inflation).
