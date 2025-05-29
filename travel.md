@@ -2559,7 +2559,10 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
   although not much soup volume, only 330ml, and comes in a mug with 2 sided handle, and only 2 small slices of bread.
   There is a version served in a whole bread bowl.
   Tables are mostly not reservable and given to walk-ins.
-  The restaurant's wifi network isn't found in the top level
+  The restaurant's wifi network isn't found in the top level.
+  The top level have large long benches
+  where tour guides lead in old insuffferable American tourist groups from places like California,
+  (you know the type, boomers that have parasited the wealth out of the new generations via asset inflation)
 - [Eggstro](https://maps.app.goo.gl/xZcXH3jG4xFcXPTm8) - has no poached eggs, apparently everybody is asking for them.
   I had the scrambled eggs on toast with avocado and smoked salmon, but I thought the portion size wasn't large.
   Stunningly fast 710/52 Mbit/s wifi
