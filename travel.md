@@ -2561,7 +2561,7 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
   Tables are mostly not reservable and given to walk-ins.
   The restaurant's wifi network isn't found in the top level.
   The top level has large long benches
-  where tour guides lead in old insuffferable American tourist groups from places like California,
+  where tour guides lead in old insuffferable American tourist groups from places like California
   (you know the type, boomers that have parasited the wealth out of the new generations via asset inflation).
   The restaurant closes at 10pm but the kitchen closes at 9:30pm
 - [Eggstro](https://maps.app.goo.gl/xZcXH3jG4xFcXPTm8) - has no poached eggs, apparently everybody is asking for them.
