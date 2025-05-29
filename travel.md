@@ -2544,13 +2544,18 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
 - [Buny Bakery](https://maps.app.goo.gl/cyQYGzUTbhYdreQd8) - truffle eggs benedict with ham was surprisingly good,
   although could have been bigger, and it should be good for €13!
   The bacon benedict for €12 is also really good, although similar to the truffle eggs benedict, could be bigger.
-  The kitchen closes at 15:50 unforunately, had on my second visit I had to have the foccaccia serano ham from the
+  The kitchen closes at 15:50 unfortunately, had on my second visit I had to have the foccaccia serano ham from the
   counter display, which while fancy looking, lacks much nutritional substance as it's mainly bread, and probably isn't
   worth €8. 356/42 Mbit/s wifi
 - [Mondieu](https://maps.app.goo.gl/dwtCzwTZmc2TAdS28) - upmarket cafe restaurant chain with outdoor seating overlooking
   the river, good menu of breakfasts, mains, smoothies, and even acai bowl.
   Kitchen closes 1 hour before and breakfast is only served until 11:30 weekdays and 12:30 weekends unfortunately.
   9/2 Mbit/s wifi outside. Most venues in Bratislava, as well as Prague and Dubai
+- [Bratislava Flagship Restaurant]() - very busy commercial tourist restaurant with nice historic decor in the main
+  upper floor of restaurant.
+  Prices are a bit high eg. €19 for the duck leg with cabbage.
+  Tables are mostly not reservable and given to walk-ins.
+  The restaurant's wifi network isn't found in the top level
 - [Eggstro](https://maps.app.goo.gl/xZcXH3jG4xFcXPTm8) - has no poached eggs, apparently everybody is asking for them.
   I had the scrambled eggs on toast with avocado and smoked salmon, but I thought the portion size wasn't large.
   Stunningly fast 710/52 Mbit/s wifi
