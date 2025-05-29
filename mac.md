@@ -571,6 +571,20 @@ such as <https://0x0.st>.
 
 More details on Mac's native Screen Capture tool is [here](https://support.apple.com/en-ae/guide/mac-help/mh26782/mac).
 
+Alternatively you can do this from the command line using the `screencapture` command
+as shown in [The ScreenCapture CLI](#the-screencapture-cli) section above.
+
+Another alternative is to use the QuickTime app,
+which gives you the same rectangle selection for video recording as the Screenshot app does.
+
+Start the QuickTime player:
+
+```shell
+open -a "QuickTime Player.app"
+```
+
+And then select `File` -> `New Screen Recording` or use shortcut `Control` + `Command` +`N`.
+
 ### Flush the DNS Cache
 
 ```shell
