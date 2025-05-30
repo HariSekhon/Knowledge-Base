@@ -2554,6 +2554,11 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
   The kitchen closes at 15:50 unfortunately, had on my second visit I had to have the foccaccia serano ham from the
   counter display, which while fancy looking, lacks much nutritional substance as it's mainly bread, and probably isn't
   worth €8. 356/42 Mbit/s wifi
+- [Koliba Kamzík Zelená](https://maps.app.goo.gl/PrcVvnPB4wbVgqaSA) - upmarket restaurant on a side street so less of a
+  tourist trap.
+  Garlic soup with smoked cheese and herb croutons is like a traditional cesnecka soup.
+  Beef sirloin with bracon on creamy vegetable sauce with homemade streamed dumpling parcels filled with cranberries.
+  Wifi network "Aplend" is open with 94/ Mbit/s sped
 - [Mondieu](https://maps.app.goo.gl/dwtCzwTZmc2TAdS28) - upmarket cafe restaurant chain with outdoor seating overlooking
   the river, good menu of breakfasts, mains, smoothies, and even acai bowl.
   Kitchen closes 1 hour before and breakfast is only served until 11:30 weekdays and 12:30 weekends unfortunately.
