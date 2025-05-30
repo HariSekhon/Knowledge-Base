@@ -2556,7 +2556,9 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
   worth €8. 356/42 Mbit/s wifi
 - [Koliba Kamzík Zelená](https://maps.app.goo.gl/PrcVvnPB4wbVgqaSA) - upmarket restaurant on a side street so less of a
   tourist trap.
-  Garlic soup with smoked cheese and herb croutons is like a traditional cesnecka soup.
+  The garlic soup with smoked cheese and herb croutons is a traditional cesnecka soup,
+  which is common in Czechia too.
+  It came quickly and was pretty good. The one in my Warsaw pick is better though.
   Beef sirloin with bracon on creamy vegetable sauce with homemade streamed dumpling parcels filled with cranberries.
   Wifi network "Aplend" is open with 94/10 Mbit/s speed
 - [Mondieu](https://maps.app.goo.gl/dwtCzwTZmc2TAdS28) - upmarket cafe restaurant chain with outdoor seating overlooking
