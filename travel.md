@@ -2558,7 +2558,7 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
   tourist trap.
   Garlic soup with smoked cheese and herb croutons is like a traditional cesnecka soup.
   Beef sirloin with bracon on creamy vegetable sauce with homemade streamed dumpling parcels filled with cranberries.
-  Wifi network "Aplend" is open with 94/ Mbit/s sped
+  Wifi network "Aplend" is open with 94/10 Mbit/s speed
 - [Mondieu](https://maps.app.goo.gl/dwtCzwTZmc2TAdS28) - upmarket cafe restaurant chain with outdoor seating overlooking
   the river, good menu of breakfasts, mains, smoothies, and even acai bowl.
   Kitchen closes 1 hour before and breakfast is only served until 11:30 weekdays and 12:30 weekends unfortunately.
