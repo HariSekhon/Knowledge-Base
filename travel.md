@@ -436,7 +436,7 @@ Use the airport wifi to set up one of your e-sims using the lists below, or sims
 On rare occasion I wasn't able to get airport wifi working, and that could be a problem so it's better to sort the e-sim
 on the wifi of your departing airport before you take off than arrive at the other end.
 
-### EU
+### EU Roaming
 
 If you're not an EU resident or don't have an EU sim, skip to the next section [Rest of World](#rest-of-world).
 
@@ -456,6 +456,24 @@ There is a tweak you need to make to your phone to enable it for roaming:
 <https://smarty.co.uk/roaming-setup>
 
 which basically comes down to changing your Mobile Service data MMS APN to `mob.asm.net` in your phone settings.
+
+My UK phone number worked across all European countries I travelled through, including:
+
+- France
+- Germany
+- Poland
+- Lithuania
+- Latvia
+- Estonia
+- Sweden
+- Slovakia
+- Hungary
+
+It stopped working when I got to Serbia which is not in the EU.
+
+Going from EU to non-EU was a bit of a jarring experience.
+
+There may be something to the EU integration project after all.
 
 ### Rest of World
 
@@ -697,26 +715,6 @@ between the countries.
 
 Let cars overtake you than fall for this unmarked police car entrapment.
 
-### EU Roaming
-
-My UK phone number worked across all European countries I travelled through, including:
-
-- France
-- Germany
-- Poland
-- Lithuania
-- Latvia
-- Estonia
-- Sweden
-- Slovakia
-- Hungary
-
-It stopped working when I got to Serbia which is not in the EU.
-
-Going from EU to non-EU was a bit of a jarring experience.
-
-There may be something to the EU integration project after all.
-
 ## Emigration
 
 ### Taxes
@@ -765,7 +763,11 @@ Below are specific tips for each country, including transport, restaurants etc.
 You need to pay a motorway toll in Austria, similar to Bulgaria, Romania, Hungary and Slovakia.
 Europeans and their stupid inconvenient taxes.
 
+You can buy the e-vignette online here:
 
+
+
+<https://tolltickets.com/en/products/austria/>
 
 #### Vienna Parking
 
@@ -2019,6 +2021,18 @@ Than this site:
 Good for a long weekend city break with the girlfriend.
 
 Don't bother going outside of June - August. The weather was miserable even at the end of May.
+
+##### Budapest Metro
+
+Budapest metro is surprisingly cheap and good. It's 450 HUF for a single journey ticket which works out to only 95p!
+
+Download the [BudapestGo](https://bkk.hu/en/tickets-and-passes/budapestgo/) phone app
+and you can purchase tickets
+and scan the QR code to validate them at the entry points of the Metro.
+
+The Metro shuts down around 11:30pm so don't stay out too late or you'll need a taxi.
+
+##### Budapest Restaurants
 
 I felt most of the restaurants I tried in the 4.5 star region were overrated, as well as western priced,
 with exception of Caviar & Bull and Grand Central Cafe which were high quality.
