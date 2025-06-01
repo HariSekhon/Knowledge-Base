@@ -760,6 +760,13 @@ Below are specific tips for each country, including transport, restaurants etc.
 - [Uber](https://www.uber.com)
 - [Bolt](https://apps.apple.com/us/app/bolt-request-a-ride/id675033630)
 
+#### Vienna Motorway Tolls - e-Vignettes
+
+You need to pay a motorway toll in Austria, similar to Bulgaria, Romania, Hungary and Slovakia.
+Europeans and their stupid inconvenient taxes.
+
+
+
 #### Vienna Parking
 
 Parking in Vienna is a nightmare, paid parking everywhere max 2 hours and parking garages are €50 a day.
@@ -2563,7 +2570,8 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
   It came quickly and was pretty good, although I've had better, such as in my czech restaurant pick in Warsaw.
   Beef sirloin with bacon on creamy vegetable sauce comes with 2 large homemade streamed dumplings filled with
   cranberries. Wifi network "Aplend" is open with 94/10 Mbit/s speed
-- [Otto](https://maps.app.goo.gl/C7CUXnotEU7mm6aK7) - serves breakfast until 3pm. Eggs benedict. 6/8 Mbit/s wifi
+- [Otto](https://maps.app.goo.gl/C7CUXnotEU7mm6aK7) - serves breakfast until 3pm. The eggs benedict comes with homemade
+  ham and a mildly mustard hollandaise sauce, which was all very good. 6/8 Mbit/s wifi
 - [Mondieu](https://maps.app.goo.gl/dwtCzwTZmc2TAdS28) - upmarket cafe restaurant chain with outdoor seating overlooking
   the river, good menu of breakfasts, mains, smoothies, and even acai bowl.
   Kitchen closes 1 hour before and breakfast is only served until 11:30 weekdays and 12:30 weekends unfortunately.
