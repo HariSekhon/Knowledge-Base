@@ -22,7 +22,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Wifi Cafes & Restaurants](#wifi-cafes--restaurants)
   - [Wifi Speeds](#wifi-speeds)
 - [Mobile Internet Access](#mobile-internet-access)
-  - [EU](#eu)
+  - [EU Roaming](#eu-roaming)
   - [Rest of World](#rest-of-world)
     - [Digital e-sims](#digital-e-sims)
   - [International Calls using VoIP over the Internet](#international-calls-using-voip-over-the-internet)
@@ -42,14 +42,15 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Temporary Car Insurance Cover](#temporary-car-insurance-cover)
   - [Driving Checklist](#driving-checklist)
   - [Additional EU Driving Checklist](#additional-eu-driving-checklist)
+  - [EU Motorway Tolls](#eu-motorway-tolls)
   - [Do Not Speed](#do-not-speed)
-  - [EU Roaming](#eu-roaming)
 - [Emigration](#emigration)
   - [Taxes](#taxes)
   - [Mail Redirection](#mail-redirection)
 - [Countries](#countries)
   - [Austria](#austria)
     - [Vienna Taxis](#vienna-taxis)
+    - [Vienna Motorway Tolls - e-Vignettes](#vienna-motorway-tolls---e-vignettes)
     - [Vienna Parking](#vienna-parking)
     - [Vienna](#vienna)
   - [Belgium](#belgium)
@@ -148,6 +149,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Hungary Taxis](#hungary-taxis)
     - [Hungary Motorway Tolls - e-Vignettes](#hungary-motorway-tolls---e-vignettes)
     - [Budapest](#budapest)
+      - [Budapest Metro](#budapest-metro)
+      - [Budapest Restaurants](#budapest-restaurants)
     - [Debrecen](#debrecen)
     - [Gyor](#gyor)
     - [Szolnok](#szolnok)
@@ -694,6 +697,19 @@ Headlamp converters are basically headlamp stickers that change the glare direct
 way because you drive on the right in Europe instead of the left like in the UK.
 
 Apparently the French police are likely to pull you over and fine you if you don't have these.
+
+### EU Motorway Tolls
+
+Socialist Europeans find extra ways to tax you
+and you need to buy motorway passes when driving in several European countries or face fines.
+
+There are automated cameras so you are likely to get hit with fines if you don't buy one of these in advance.
+
+See here for some details of which countries and prices.
+
+<https://www.autoeurope.com/travel-tips/vignette-stickers/>
+
+Specific countries purchase apps and websites are listed under each country.
 
 ### Do Not Speed
 
