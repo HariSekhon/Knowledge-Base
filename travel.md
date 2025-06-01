@@ -779,9 +779,11 @@ Below are specific tips for each country, including transport, restaurants etc.
 You need to pay a motorway toll in Austria, similar to Bulgaria, Romania, Hungary and Slovakia.
 Europeans and their stupid inconvenient taxes.
 
+<https://www.austria.info/en-gb/planning/toll-vignette-and-go-box/>
+
 You can buy the e-vignette online here:
 
-
+<https://www.asfinag.at/en/toll/vignette/>
 
 <https://tolltickets.com/en/products/austria/>
 
