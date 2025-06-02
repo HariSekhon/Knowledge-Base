@@ -7,6 +7,8 @@
 - [Jira](#jira)
 - [Packaging](#packaging)
 - [Dependency Tracking](#dependency-tracking)
+- [Memes](#memes)
+  - [Rock Star Developer](#rock-star-developer)
 
 <!-- INDEX_END -->
 
@@ -55,5 +57,11 @@ See [Atlassian](atlassian.md) page.
   - Enterprise on-prem version
 
 ![Life is Short, Use Dev tools](images/life_is_short_use_dev_tools.gif)
+
+## Memes
+
+### Rock Star Developer
+
+![Rock Star Developer](images/rock_star_developer.png)
 
 **Ported from private Knowledge Base page 2016+**
