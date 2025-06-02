@@ -50,6 +50,11 @@ while read -r image; do
         git grep "$image"
         exitcode=1
     fi
-done < <(git grep -iEho '\(images/[^()"]+\.(jpg|jpeg|png)' | sed 's/[()]//g' | grep -Ev -e '^https?://' -e '\$' | sed '/^[[:space:]]*$/d')
+done < <(
+    git grep -iEho '\(images/[^()"]+\.(jpg|jpeg|png)' |
+    sed 's/[()]//g' |
+    grep -Ev -e '^https?://' \
+             -e '\$' |
+    sed '/^[[:space:]]*$/d')
 
 exit $exitcode
