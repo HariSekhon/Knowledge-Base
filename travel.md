@@ -801,11 +801,17 @@ The taxi driver said young people leave because there isn't enough to do,
 but it's good for a weekend city break with the girlfriend, especially if you like central european architecture,
 and just for this next recommendation.
 
-[Casino Wien](https://www.casinos.at/casinos/wien/casino-restaurant) is probably the best restaurant in Vienna. It is
-above the casino, which was surprisingly not fancy at all, smokey and low grade.
-But the restaurant above was a different story.
-
-Try the Chateaubriand for two with your girlfriend - only top restaurants do it.
+- [Casino Wien](https://www.casinos.at/casinos/wien/casino-restaurant) is probably the best restaurant in Vienna. It is
+  above the casino, which was surprisingly not fancy at all, smokey and low grade.
+  But the restaurant above was a different story.
+  Try the Chateaubriand for two with your girlfriend - only top restaurants do it
+- [Le Burger](https://maps.app.goo.gl/5zWSvCF6LKPTu6ss5) - Austrian burger chain, mostly in Austria but with the odd
+  venue in Dubai and Germany.
+  The seasonal Berry Burger was great with balsamic blueberries and cottage cheese it in, giving it a hint of sweetness,
+  and fries and sweet potato fries with cranberry ketchup dip.
+  There are literally 12 different dips to help yourself with.
+  The White City chicken burger was also good, with spicy jalapeños, iceberg lettuce, coleslaw salad, white cheese and
+  white BBQ sauce. You can have it with grilled or crunchy (fried) chicken, the latter is recommended
 
 ### Belgium
 
