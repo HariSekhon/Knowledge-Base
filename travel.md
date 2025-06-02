@@ -769,6 +769,10 @@ Below are specific tips for each country, including transport, restaurants etc.
 
 ### Austria
 
+_"There are no kangaroos in Austria"_ 😉
+
+Apparently the origin of this phrase is because Americans get Austria confused with Australia.
+
 #### Vienna Taxis
 
 - [Uber](https://www.uber.com)
