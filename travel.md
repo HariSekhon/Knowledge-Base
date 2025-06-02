@@ -50,9 +50,10 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 - [Countries](#countries)
   - [Austria](#austria)
     - [Austria Motorway Tolls - e-Vignettes](#austria-motorway-tolls---e-vignettes)
-    - [Vienna Taxis](#vienna-taxis)
-    - [Vienna Parking](#vienna-parking)
     - [Vienna](#vienna)
+      - [Vienna Taxis](#vienna-taxis)
+      - [Vienna Parking](#vienna-parking)
+      - [Vienna Restaurants](#vienna-restaurants)
   - [Belgium](#belgium)
     - [Antwerp](#antwerp)
     - [Brussels](#brussels)
@@ -786,18 +787,20 @@ You can buy the e-vignette online here:
 
 <https://tolltickets.com/en/products/austria/>
 
-#### Vienna Taxis
+#### Vienna
+
+##### Vienna Taxis
 
 - [Uber](https://www.uber.com)
 - [Bolt](https://apps.apple.com/us/app/bolt-request-a-ride/id675033630)
 
-#### Vienna Parking
+##### Vienna Parking
 
 Parking in Vienna is a nightmare, paid parking everywhere max 2 hours and parking garages are €50 a day.
 
 Don't drive there.
 
-#### Vienna
+##### Vienna Restaurants
 
 A good destination for a long weekend. This capital feels sparse to a Londoner, but is very touristy in the center.
 
