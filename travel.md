@@ -795,11 +795,11 @@ Don't drive there.
 
 #### Vienna
 
-A good destination for a long weekend. This capital feels sparse to a Londoner.
+A good destination for a long weekend. This capital feels sparse to a Londoner, but is very touristy in the center.
 
 The taxi driver said young people leave because there isn't enough to do,
 but it's good for a weekend city break with the girlfriend, especially if you like central european architecture,
-and just for this next recommendation.
+and just for this next recommendation:
 
 - [Casino Wien](https://www.casinos.at/casinos/wien/casino-restaurant) is probably the best restaurant in Vienna. It is
   above the casino, which was surprisingly not fancy at all, smokey and low grade.
@@ -812,6 +812,10 @@ and just for this next recommendation.
   There are literally 12 different dips to help yourself with.
   The White City chicken burger was also good, with spicy jalapeños, iceberg lettuce, coleslaw salad, white cheese and
   white BBQ sauce. You can have it with grilled or crunchy (fried) chicken, the latter is recommended
+- [The Hoxton]() - hotel restaurant, relatively a bit expensive as one would expect. It's €10 for avocado toast, and €2
+  for each poached egg on it.
+  That's 4x the price per egg compared to Thailand's commercial areas.
+  €14 with 2 poached eggs and you'll still be hungry from that single piece of sourdough toast
 
 ### Belgium
 
