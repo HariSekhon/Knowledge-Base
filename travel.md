@@ -825,15 +825,16 @@ and the Casino Wien restaurant:
   It's €10 for avocado toast, and €2 for each poached egg on it.
   That's 4x the price per egg compared to Thailand's commercial areas.
   €14 with 2 poached eggs and you'll still be hungry from that single piece of sourdough toast
-- [Zanoni & Zanoni](https://maps.app.goo.gl/ttUtq2Uccg9R6sqG8) - popular dessert place open until midnight
+- [Zanoni & Zanoni](https://maps.app.goo.gl/ttUtq2Uccg9R6sqG8) - popular dessert place open until midnight. The
+  sachertorte (chocolate cake) was good. 14/1 Mbit/s open wifi with no details required connect capture portal
 - [Gelateria Castelletto](https://maps.app.goo.gl/WnSS97cHEc8ToEn58) - the other best dessert place I know of, also
   open late, but a bit more upmarket and pricier than Zanoni & Zanoni though
 - [Figlmüller](https://maps.app.goo.gl/9oPDkoVA64AijSfj8) - viennese food, known for schitnzel but I had the Viennese
   boiled beef in the pot with chive sauce, apple horseradish and browned potatoes (which come grated).
   You'll want to add the sliced pancakes which come in a small bowl for you to transfer the soup into.
   There were 3 veal steaks in the soup pot, which was very filling.
-  The sachertorte / sacher cake is nearly half the price at Zaloni & Zaloni 2 minutes away, go there for dessert
-  instead. 14/1 Mbit/s open wifi with no details required connect capture portal
+  The sachertorte / sacher cake is nearly half the price at Zaloni & Zaloni 2 minutes away, and bigger by the look of
+  it. Go to Zaloni for dessert instead
 
 ### Belgium
 
