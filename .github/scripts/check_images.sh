@@ -44,4 +44,12 @@ while read -r image; do
   fi
 done < <(git ls-files | grep '^images/')
 
+while read -r image; do
+    if ! git ls | grep -Fq "$image"; then
+        echo "Image referenced but not committed to Git: "
+        git grep "$image"
+        exitcode=1
+    fi
+done < <(git grep -iEho '\(images/[^()"]+\.(jpg|jpeg|png)' | sed 's/[()]//g' | grep -Ev -e '^https?://' -e '\$' | sed '/^[[:space:]]*$/d')
+
 exit $exitcode
