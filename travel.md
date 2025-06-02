@@ -829,12 +829,12 @@ and the Casino Wien restaurant:
   sachertorte (chocolate cake) was good. 14/1 Mbit/s open wifi with no details required connect capture portal
 - [Gelateria Castelletto](https://maps.app.goo.gl/WnSS97cHEc8ToEn58) - the other best dessert place I know of, also
   open late, but a bit more upmarket and pricier than Zanoni & Zanoni though
-- [Figlmüller](https://maps.app.goo.gl/9oPDkoVA64AijSfj8) - viennese food, known for schitnzel but I had the Viennese
-  boiled beef in the pot with chive sauce, apple horseradish and browned potatoes (which come grated).
-  You'll want to add the sliced pancakes which come in a small bowl for you to transfer the soup into.
-  There were 3 veal steaks in the soup pot, which was very filling, but I liked the horseradish and potato the best as
-  the veal once removed from the soup pot lacks seasoning. The sachertorte / sacher cake is nearly half the price at
-  Zaloni & Zaloni 2 minutes away, and bigger by the look of it. Go to Zaloni for dessert instead
+- [Figlmüller](https://maps.app.goo.gl/9oPDkoVA64AijSfj8) - upmarket viennese restaurant, known for its fried pork
+  schitnzel but I had the viennese boiled beef in the pot with chive sauce, apple horseradish and browned potatoes
+  (which come grated). You'll want to add the sliced pancake which comes in a small bowl for you to transfer the soup
+  into. There were 3 veal steaks in the soup pot, which was very filling, but I liked the horseradish and potato the
+  best as the veal once removed from the soup pot for the main lacks seasoning. The sachertorte / sacher cake is nearly
+  half the price at Zanoni & Zanoni 2 minutes away, and bigger by the look of it. Go to Zanoni for dessert instead
 
 ### Belgium
 
