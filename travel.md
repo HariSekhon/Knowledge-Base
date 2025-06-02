@@ -49,8 +49,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Mail Redirection](#mail-redirection)
 - [Countries](#countries)
   - [Austria](#austria)
+    - [Austria Motorway Tolls - e-Vignettes](#austria-motorway-tolls---e-vignettes)
     - [Vienna Taxis](#vienna-taxis)
-    - [Vienna Motorway Tolls - e-Vignettes](#vienna-motorway-tolls---e-vignettes)
     - [Vienna Parking](#vienna-parking)
     - [Vienna](#vienna)
   - [Belgium](#belgium)
@@ -773,12 +773,7 @@ _"There are no kangaroos in Austria"_ 😉
 
 Apparently the origin of this phrase is because Americans get Austria confused with Australia.
 
-#### Vienna Taxis
-
-- [Uber](https://www.uber.com)
-- [Bolt](https://apps.apple.com/us/app/bolt-request-a-ride/id675033630)
-
-#### Vienna Motorway Tolls - e-Vignettes
+#### Austria Motorway Tolls - e-Vignettes
 
 You need to pay a motorway toll in Austria, similar to Bulgaria, Romania, Hungary and Slovakia.
 Europeans and their stupid inconvenient taxes.
@@ -790,6 +785,11 @@ You can buy the e-vignette online here:
 <https://www.asfinag.at/en/toll/vignette/>
 
 <https://tolltickets.com/en/products/austria/>
+
+#### Vienna Taxis
+
+- [Uber](https://www.uber.com)
+- [Bolt](https://apps.apple.com/us/app/bolt-request-a-ride/id675033630)
 
 #### Vienna Parking
 
