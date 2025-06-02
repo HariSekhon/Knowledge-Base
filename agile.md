@@ -15,6 +15,7 @@
   - [Born Too Early, Late](#born-too-early-late)
   - [Ask Dedicated Scrum Master What They Do After Scrum Meeting](#ask-dedicated-scrum-master-what-they-do-after-scrum-meeting)
   - [The Morning After a Night of Heavy Drinking](#the-morning-after-a-night-of-heavy-drinking)
+  - [Meeting Driven Development](#meeting-driven-development)
 
 <!-- INDEX_END -->
 
@@ -76,3 +77,7 @@ A waste of time from an engineer's perspective that could be replaced with 2-3 b
 The morning after a night of heavy drinking, when she advocated in favour of Agile...
 
 ![](images/just_one_time_in_college.jpeg)
+
+### Meeting Driven Development
+
+![Meeting Driven Development](images/orly_meeting_driven_development.jpeg)
