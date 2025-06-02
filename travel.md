@@ -832,9 +832,9 @@ and the Casino Wien restaurant:
 - [Figlmüller](https://maps.app.goo.gl/9oPDkoVA64AijSfj8) - viennese food, known for schitnzel but I had the Viennese
   boiled beef in the pot with chive sauce, apple horseradish and browned potatoes (which come grated).
   You'll want to add the sliced pancakes which come in a small bowl for you to transfer the soup into.
-  There were 3 veal steaks in the soup pot, which was very filling.
-  The sachertorte / sacher cake is nearly half the price at Zaloni & Zaloni 2 minutes away, and bigger by the look of
-  it. Go to Zaloni for dessert instead
+  There were 3 veal steaks in the soup pot, which was very filling, but I liked the horseradish and potato the best as
+  the veal once removed from the soup pot lacks seasoning. The sachertorte / sacher cake is nearly half the price at
+  Zaloni & Zaloni 2 minutes away, and bigger by the look of it. Go to Zaloni for dessert instead
 
 ### Belgium
 
