@@ -557,6 +557,6 @@ When you’re thinking about how to improve that code you wrote last night… �
 
 ### Rock Star Developer
 
-![Rock Star Developer](images/rock_star_delevoper.png)
+![Rock Star Developer](images/rock_star_developer.png)
 
 **Ported from various private Knowledge Base pages 2008+**
