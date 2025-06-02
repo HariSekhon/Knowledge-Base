@@ -799,7 +799,7 @@ A good destination for a long weekend. This capital feels sparse to a Londoner, 
 
 The taxi driver said young people leave because there isn't enough to do,
 but it's good for a weekend city break with the girlfriend, especially if you like central european architecture,
-and just for this next recommendation:
+and just for the Casino Wien restaurant:
 
 - [Casino Wien](https://www.casinos.at/casinos/wien/casino-restaurant) is probably the best restaurant in Vienna. It is
   above the casino, which was surprisingly not fancy at all, smokey and low grade.
