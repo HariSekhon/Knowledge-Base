@@ -3,7 +3,7 @@
 <!-- INDEX_START -->
 
 - [LinkedIn](#linkedin)
-- [X](#x)
+- [X / Twitter](#x--twitter)
 - [Instagram](#instagram)
   - [Instagram Bio Search](#instagram-bio-search)
 - [YouTube](#youtube)
@@ -33,7 +33,7 @@ so here is the link:
 
 Tell them to stop being so stupid automatically blocking accounts all the time.
 
-## X
+## X / Twitter
 
 <https://x.com>
 
