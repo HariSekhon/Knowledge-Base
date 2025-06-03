@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [LinkedIn](#linkedin)
 - [X](#x)
 - [Instagram](#instagram)
   - [Instagram Bio Search](#instagram-bio-search)
@@ -14,6 +15,23 @@
 - [MySpace](#myspace)
 
 <!-- INDEX_END -->
+
+## LinkedIn
+
+Professional networking site, but maddening censored. X is better in most ways.
+
+Stupid LinkedIn has blocked my account so many times when travelling the world,
+and then you have to go through government ID Persona verification via a QR code then scanning your passport or driver's
+license and then taking a live selfie.
+
+And sometimes that doesn't even work, it says "request already submitted",
+and you have to contact LinkedIn support,
+which is of course hard to find via Googling because they don't want people contacting actual humans they have to pay,
+so here is the link:
+
+<https://www.linkedin.com/help/linkedin/ask/sdsupport>
+
+Tell them to stop being so stupid automatically blocking accounts all the time.
 
 ## X
 
