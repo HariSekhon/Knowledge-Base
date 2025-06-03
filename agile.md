@@ -16,6 +16,7 @@
   - [Ask Dedicated Scrum Master What They Do After Scrum Meeting](#ask-dedicated-scrum-master-what-they-do-after-scrum-meeting)
   - [The Morning After a Night of Heavy Drinking](#the-morning-after-a-night-of-heavy-drinking)
   - [Meeting Driven Development](#meeting-driven-development)
+  - [Agile - Change a Lightbulb](#agile---change-a-lightbulb)
 
 <!-- INDEX_END -->
 
@@ -81,3 +82,7 @@ The morning after a night of heavy drinking, when she advocated in favour of Agi
 ### Meeting Driven Development
 
 ![Meeting Driven Development](images/orly_meeting_driven_development.jpeg)
+
+### Agile - Change a Lightbulb
+
+![Agile - Change a Lightbulb](images/agile_change_lightbulb.jpeg)
