@@ -819,16 +819,16 @@ and the Casino Wien restaurant:
   There are literally 12 different dips to help yourself with.
   The White City chicken burger was also good, with spicy jalapeños, iceberg lettuce, coleslaw salad, white cheese and
   white BBQ sauce. You can have it with grilled or crunchy (fried) chicken, the latter is recommended
+- [Zanoni & Zanoni](https://maps.app.goo.gl/ttUtq2Uccg9R6sqG8) - popular dessert place open until midnight. The
+  sachertorte (chocolate cake) was good. 14/1 Mbit/s open wifi with no details required connect capture portal
+- [Gelateria Castelletto](https://maps.app.goo.gl/WnSS97cHEc8ToEn58) - the other best dessert place I know of, also
+  open late, but a bit more upmarket and pricier than Zanoni & Zanoni though
 - [Bouvier at The Hoxton](https://maps.app.goo.gl/StZ7vaoUmjNo8zW88) - hotel restaurant, relatively a bit expensive as
   one would expect.
   They don't do eggs benedict past breakfast 11:30am, so one must choose from the all day menu.
   It's €10 for avocado toast, and €2 for each poached egg on it.
   That's 4x the price per egg compared to Thailand's commercial areas.
   €14 with 2 poached eggs and you'll still be hungry from that single piece of sourdough toast
-- [Zanoni & Zanoni](https://maps.app.goo.gl/ttUtq2Uccg9R6sqG8) - popular dessert place open until midnight. The
-  sachertorte (chocolate cake) was good. 14/1 Mbit/s open wifi with no details required connect capture portal
-- [Gelateria Castelletto](https://maps.app.goo.gl/WnSS97cHEc8ToEn58) - the other best dessert place I know of, also
-  open late, but a bit more upmarket and pricier than Zanoni & Zanoni though
 - [Figlmüller](https://maps.app.goo.gl/9oPDkoVA64AijSfj8) - upmarket viennese restaurant, known for its fried pork
   schitnzel but I had the viennese boiled beef in the pot with chive sauce, apple horseradish and browned potatoes
   (which come grated). You'll want to add the sliced pancake which comes in a small bowl for you to transfer the soup
