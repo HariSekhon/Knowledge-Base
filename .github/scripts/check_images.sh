@@ -38,18 +38,18 @@ cd "$git_root"
 exitcode=0
 
 while read -r image; do
-  image="${image//+/%2B}"
-  image="${image//%/%25}"
-  if ! grep -q "$image" ./*.md; then
+  image2="${image//+/%2B}"
+  image2="${image2//%/%25}"
+  if ! grep -q "$image2" ./*.md; then
     echo "Image not referenced in markdown files: $image"
     exitcode=1
   fi
 done < <(git ls-files | grep '^images/')
 
 while read -r image; do
-    image="${image//%2B/+}"
-    image="${image//%25/%}"
-    if ! git ls | grep -Fq "$image"; then
+    image2="${image//%2B/+}"
+    image2="${image2//%25/%}"
+    if ! git ls | grep -Fq "$image2"; then
         echo "Image referenced but not committed to Git: "
         git grep "$image"
         exitcode=1
