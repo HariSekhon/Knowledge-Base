@@ -54,6 +54,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
       - [Vienna Taxis](#vienna-taxis)
       - [Vienna Parking](#vienna-parking)
       - [Vienna Restaurants](#vienna-restaurants)
+    - [Graz](#graz)
   - [Belgium](#belgium)
     - [Antwerp](#antwerp)
     - [Brussels](#brussels)
@@ -841,6 +842,10 @@ and the Casino Wien restaurant:
   would go with the teriyaki salmon next. No wifi!
 - [Choi Cafe](https://maps.app.goo.gl/pjdYjrvWowze4h9DA) - small coffee and sandwich shop. €4.70 for a chai latte! But
   it was decent, not too sweet. 104/25 Mbit/s wifi
+
+#### Graz
+
+TODO
 
 ### Belgium
 
