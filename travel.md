@@ -836,7 +836,7 @@ and the Casino Wien restaurant:
   best as the veal once removed from the soup pot for the main lacks seasoning. The sachertorte / sacher cake is nearly
   half the price at Zanoni & Zanoni 2 minutes away, and bigger by the look of it. Go to Zanoni for dessert instead.
   I was actually asked by a homeless Romanian man for my food through the open window,
-  so I put the scraps of my veal steaks into a napkin and passed it to him. Quite a bit of begging in Austria
+  so I put the scraps of my veal steaks into a napkin and passed it to him. Quite a bit of begging in Vienna
 - [Apapika Bowls](https://maps.app.goo.gl/rUBKMo3WCJ3o3DvS7) - hawaiian poke bowls. Had the ginger truffle beef, but
   would go with the teriyaki salmon next. No wifi!
 - [Choi Cafe](https://maps.app.goo.gl/pjdYjrvWowze4h9DA) - small coffee and sandwich shop. €4.70 for a chai latte! But
