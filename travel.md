@@ -830,11 +830,13 @@ and the Casino Wien restaurant:
   That's 4x the price per egg compared to Thailand's commercial areas.
   €14 with 2 poached eggs and you'll still be hungry from that single piece of sourdough toast
 - [Figlmüller](https://maps.app.goo.gl/9oPDkoVA64AijSfj8) - upmarket viennese restaurant, known for its fried pork
-  schitnzel but I had the viennese boiled beef in the pot with chive sauce, apple horseradish and browned potatoes
+  schnitzel but I had the viennese boiled beef in the pot with chive sauce, apple horseradish and browned potatoes
   (which come grated). You'll want to add the sliced pancake which comes in a small bowl for you to transfer the soup
   into. There were 3 veal steaks in the soup pot, which was very filling, but I liked the horseradish and potato the
   best as the veal once removed from the soup pot for the main lacks seasoning. The sachertorte / sacher cake is nearly
-  half the price at Zanoni & Zanoni 2 minutes away, and bigger by the look of it. Go to Zanoni for dessert instead
+  half the price at Zanoni & Zanoni 2 minutes away, and bigger by the look of it. Go to Zanoni for dessert instead.
+  I was actually asked by a homeless Romanian man for my food through the open window,
+  so I put the scraps of my veal steaks into a napkin and passed it to him. Quite a bit of begging in Austria
 - [Apapika Bowls](https://maps.app.goo.gl/rUBKMo3WCJ3o3DvS7) - hawaiian poke bowls. Had the ginger truffle beef, but
   would go with the teriyaki salmon next. No wifi!
 - [Choi Cafe](https://maps.app.goo.gl/pjdYjrvWowze4h9DA) - small coffee and sandwich shop. €4.70 for a chai latte! But
