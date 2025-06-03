@@ -835,6 +835,10 @@ and the Casino Wien restaurant:
   into. There were 3 veal steaks in the soup pot, which was very filling, but I liked the horseradish and potato the
   best as the veal once removed from the soup pot for the main lacks seasoning. The sachertorte / sacher cake is nearly
   half the price at Zanoni & Zanoni 2 minutes away, and bigger by the look of it. Go to Zanoni for dessert instead
+- [Apapika Bowls](https://maps.app.goo.gl/rUBKMo3WCJ3o3DvS7) - hawaiian poke bowls. Had the ginger truffle beef, but
+  would go with the teriyaki salmon next. No wifi!
+- [Choi Cafe](https://maps.app.goo.gl/pjdYjrvWowze4h9DA) - small coffee and sandwich shop. €4.70 for a chai latte! But
+  it was decent, not too sweet. 104/25 Mbit/s wifi
 
 ### Belgium
 
