@@ -306,6 +306,13 @@ Start the background ClamAV daemon:
 sudo brew services start clamav
 ```
 
+The daemon is owned by root, so is its socket,
+so you need to `sudo` calls to access its socket for `clamd` to receive commands:
+
+```shell
+sudo clamdscan "$file"
+```
+
 ## Raycast
 
 Shortcut to everything - install and then hit `Option` + `Space` to bring it up.
