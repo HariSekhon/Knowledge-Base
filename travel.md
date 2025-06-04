@@ -842,7 +842,10 @@ and the Casino Wien restaurant:
   would go with the teriyaki salmon next. No wifi!
 - [Choi Cafe](https://maps.app.goo.gl/pjdYjrvWowze4h9DA) - small coffee and sandwich shop. €4.70 for a chai latte! But
   it was decent, not too sweet. 104/25 Mbit/s wifi
-- [Abbey Restaurant](https://maps.app.goo.gl/bfYAVER9MHRirdXt7) - had the tuna bowl. Slow 1 Mbit/s wifi
+- [Abbey Restaurant](https://maps.app.goo.gl/bfYAVER9MHRirdXt7) - the tuna poke bowl was slow to arrive and although it
+  didn't have much in it besides edamame and lettuce, the rice had a sweet and sometimes overpowering horshradish sauce.
+  For poke bowls it's probably better to one of the specialist poke bowl places as you'll get more ingredients.
+  Slow 1 Mbit/s wifi
 
 Not Recommended:
 
