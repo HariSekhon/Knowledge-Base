@@ -313,6 +313,28 @@ so you need to `sudo` calls to access its socket for `clamd` to receive commands
 sudo clamdscan "$file"
 ```
 
+Monitor ClamD instances resource usage, jobs queued and signature databases loaded in an ncurses style interactive terminal output
+
+```shell
+sudo clamdtop
+```
+
+Press `q` to quit / exit.
+
+Standalone scanning without going through `clamd`:
+
+```shell
+clamscan "$file"
+```
+
+```shell
+clamscan .
+```
+
+```shell
+clamscan --recursive .
+```
+
 ## Raycast
 
 Shortcut to everything - install and then hit `Option` + `Space` to bring it up.
