@@ -27,6 +27,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Reducing Desktop Workspaces](#reducing-desktop-workspaces)
 - [Sending Control-Alt-Delete to Windows through Remote Desktop](#sending-control-alt-delete-to-windows-through-remote-desktop)
 - [Virtualization](#virtualization)
+- [Anti-Virus](#anti-virus)
+  - [ClamAV Setup](#clamav-setup)
 - [Raycast](#raycast)
 - [AppleScript](#applescript)
 - [Commands](#commands)
@@ -244,6 +246,65 @@ Use [Virtualbox](virtualbox.md) if you're still on older x86_64.
 You can also use Multipass.
 
 See [Virtualization](virtualization.md) page.
+
+## Anti-Virus
+
+- [ClamAV](https://www.clamav.net/) - free open-source command line anti-virus
+  - [ClamXAV](https://www.clamxav.com/) - proprietary, developed by another company on top of ClamAV, with an added GUI
+    and scheduling, more user friendly
+
+### ClamAV Setup
+
+<https://docs.clamav.net/manual/Installing.html>
+
+```shell
+brew install clamav
+```
+
+Description of components:
+
+<https://docs.clamav.net/manual/Usage.html>
+
+```shell
+cd /opt/homebrew/etc/clamav/
+```
+
+If [DevOps-Bash-tools](devops-bash-tools.md) is cloned to `$HOME/github`,
+link to its config, otherwise download it from GitHub.com:
+
+```shell
+for x in freshclam.conf clamd.conf; do
+    if test -f ~/github/bash-tools/configs/"$x"; then
+        ln -sv ~/github/bash-tools/configs/"$x" .
+    else
+        wget -nc "https://raw.githubusercontent.com/HariSekhon/DevOps-Bash-tools/refs/heads/master/configs/$x"
+    fi
+done
+```
+
+Verify configs:
+
+```shell
+clamconf
+```
+
+Start a manual `freshclam` foreground run to download the anti-virus signatures:
+
+```shell
+freshclam
+```
+
+If this succeeds, start `freshclam` as a background service:
+
+```shell
+freshclam -d
+```
+
+Start the background ClamAV daemon:
+
+```shell
+sudo brew services start clamav
+```
 
 ## Raycast
 
