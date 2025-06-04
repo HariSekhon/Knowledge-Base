@@ -842,6 +842,15 @@ and the Casino Wien restaurant:
   would go with the teriyaki salmon next. No wifi!
 - [Choi Cafe](https://maps.app.goo.gl/pjdYjrvWowze4h9DA) - small coffee and sandwich shop. €4.70 for a chai latte! But
   it was decent, not too sweet. 104/25 Mbit/s wifi
+- [Abbey Restaurant](https://maps.app.goo.gl/bfYAVER9MHRirdXt7) - had the tuna bowl. Slow 1 Mbit/s wifi
+
+Not Recommended:
+
+- [Café Benedikt](https://maps.app.goo.gl/6GAo2E8e5qMHuFNx6) - overrated and over priced. Had ham and eggs, which was a
+  single slice of ham with egg on it, they couldn't even get poached eggs correct after showing them on Google Translate
+  and it seemed to be just egg white on a slice of ham, with the yellow missing for the vitamins. They're also cash
+  only, and had several single old pensioners there, which was weird. I immediately went to Abbey Bar around the corner
+  to eat again properly as the ham & eggs was inconsequential for €7.50
 
 #### Graz
 
