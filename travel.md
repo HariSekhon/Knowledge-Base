@@ -850,7 +850,8 @@ Not Recommended:
   single slice of ham with egg on it, they couldn't even get poached eggs correct after showing them on Google Translate
   and it seemed to be just egg white on a slice of ham, with the yellow missing for the vitamins. They're also cash
   only, and had several single old pensioners there, which was weird. I immediately went to Abbey Bar around the corner
-  to eat again properly as the ham & eggs was inconsequential for €7.50
+  to eat again properly as the ham & eggs was inconsequential for €7.50.
+  Their breakfast bundles seem even more overpriced at €16-20, without even muffins, the eggs come in a glass
 
 #### Graz
 
