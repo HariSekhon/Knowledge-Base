@@ -49,7 +49,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Mail Redirection](#mail-redirection)
 - [Countries](#countries)
   - [Austria](#austria)
-    - [Austria Motorway Tolls - e-Vignettes](#austria-motorway-tolls---e-vignettes)
+    - [Austrian Motorway Tolls - e-Vignettes](#austrian-motorway-tolls---e-vignettes)
     - [Vienna](#vienna)
       - [Vienna Metro](#vienna-metro)
       - [Vienna Taxis](#vienna-taxis)
@@ -64,7 +64,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Liege](#liege)
     - [Waterloo](#waterloo)
   - [Bulgaria](#bulgaria)
-    - [Bulgarian Motorway Tolls aka Vignettes](#bulgarian-motorway-tolls-aka-vignettes)
+    - [Bulgarian Motorway Tolls - Vignettes](#bulgarian-motorway-tolls---vignettes)
     - [Sofia](#sofia)
     - [Veliko Tarnovo](#veliko-tarnovo)
     - [Ruse](#ruse)
@@ -79,7 +79,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Canada](#canada)
     - [Abbotsford](#abbotsford)
   - [Czech Republic / Czechia](#czech-republic--czechia)
-    - [Czechia Motorway Tolls](#czechia-motorway-tolls)
+    - [Czech Motorway Tolls - Vignettes](#czech-motorway-tolls---vignettes)
     - [Prague](#prague)
   - [Cyprus](#cyprus)
   - [Estonia](#estonia)
@@ -151,7 +151,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Hungary](#hungary)
     - [Avoid northern counties](#avoid-northern-counties)
     - [Hungary Taxis](#hungary-taxis)
-    - [Hungary Motorway Tolls - e-Vignettes](#hungary-motorway-tolls---e-vignettes)
+    - [Hungarian Motorway Tolls - Vignettes](#hungarian-motorway-tolls---vignettes)
     - [Budapest](#budapest)
       - [Budapest Metro](#budapest-metro)
       - [Budapest Restaurants](#budapest-restaurants)
@@ -162,7 +162,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Manilla](#manilla)
   - [Romania](#romania)
     - [Romania Taxis](#romania-taxis)
-    - [Romanian Motorway Tolls aka Vignettes](#romanian-motorway-tolls-aka-vignettes)
+    - [Romanian Motorway Tolls - Vignettes](#romanian-motorway-tolls---vignettes)
     - [Bucharest](#bucharest)
     - [Brașov](#brașov)
     - [Cluj-Napoca](#cluj-napoca)
@@ -176,7 +176,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Nis](#nis)
   - [Singapore](#singapore)
   - [Slovakia](#slovakia)
-    - [Slovakia Motorway Tolls - e-Vignettes](#slovakia-motorway-tolls---e-vignettes)
+    - [Slovakian Motorway Tolls - Vignettes](#slovakian-motorway-tolls---vignettes)
     - [Bratislava](#bratislava)
     - [Kosice](#kosice)
   - [South Africa](#south-africa)
@@ -777,7 +777,7 @@ _"There are no kangaroos in Austria"_ 😉
 
 Apparently the origin of this phrase is because Americans get Austria confused with Australia.
 
-#### Austria Motorway Tolls - e-Vignettes
+#### Austrian Motorway Tolls - e-Vignettes
 
 You need to pay a motorway toll in Austria, similar to Bulgaria, Romania, Hungary and Slovakia.
 Europeans and their stupid inconvenient taxes.
@@ -908,7 +908,7 @@ You will need your Google Translate camera app to translate the menu as they don
 
 ### Bulgaria
 
-#### Bulgarian Motorway Tolls aka Vignettes
+#### Bulgarian Motorway Tolls - Vignettes
 
 Annoying road tax, but make sure you pay it to avoid more hassles from over bearing government.
 
@@ -1221,7 +1221,7 @@ Coming back to the UK from there was quite a downgrade.
 It's too close in naming to the war torn Chechnia.
 They didn't think about about the negative branding on this rename.
 
-#### Czechia Motorway Tolls
+#### Czech Motorway Tolls - Vignettes
 
 Buy your e-vignette for Czechia here:
 
@@ -2083,7 +2083,7 @@ Story here:
 - [Bolt](https://apps.apple.com/us/app/bolt-request-a-ride/id675033630)
 - [FoTaxi](https://fotaxi.hu/en/passengers/taxi-application/) - local alternative
 
-#### Hungary Motorway Tolls - e-Vignettes
+#### Hungarian Motorway Tolls - Vignettes
 
 Hungary requires online tolls to be pre-paid before using its motorways to avoid a fine. 🙄
 
@@ -2251,7 +2251,7 @@ forces.
   SE Asia on Asian Winter Tour 2024-2025
 - [Bolt](https://bolt.eu/)
 
-#### Romanian Motorway Tolls aka Vignettes
+#### Romanian Motorway Tolls - Vignettes
 
 If driving, you need to buy a vignette toll to use the motorways.
 
@@ -2633,7 +2633,7 @@ I __don't__ recommend:
 
 ### Slovakia
 
-#### Slovakia Motorway Tolls - e-Vignettes
+#### Slovakian Motorway Tolls - Vignettes
 
 Buyt this before using the motorways driving around Slovakia.
 
