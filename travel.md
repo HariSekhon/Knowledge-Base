@@ -79,6 +79,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Canada](#canada)
     - [Abbotsford](#abbotsford)
   - [Czech Republic / Czechia](#czech-republic--czechia)
+    - [Czechia Motorway Tolls](#czechia-motorway-tolls)
     - [Prague](#prague)
   - [Cyprus](#cyprus)
   - [Estonia](#estonia)
@@ -1217,10 +1218,14 @@ Coming back to the UK from there was quite a downgrade.
 
 ### Czech Republic / Czechia
 
-Sorry but I can't call it Czechia.
-
 It's too close in naming to the war torn Chechnia.
 They didn't think about about the negative branding on this rename.
+
+#### Czechia Motorway Tolls
+
+Buy your e-vignette for Czechia here:
+
+<https://edalnice.cz/en/#/validation>
 
 #### Prague
 
