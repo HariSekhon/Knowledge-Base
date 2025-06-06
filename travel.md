@@ -1235,6 +1235,16 @@ Such is the bad reputation of the English lads on holiday!
 
 Prague has many good restaurants and excellent architecture in the old town.
 
+- [Plzeňská restaurace U Sedlerů](https://maps.app.goo.gl/BXAK4ixex15R3vhB8) - the dark beer beef chilli goulash is
+  good.
+  There isn't a lot of meat, concentrated in the center of the plate and there is a lot of sauce, which is very good as
+  that's where the flavour is.
+  It doesn't come with dumplings unfortunately, you have to order them as a "side" although they come on the same plate
+  in the goulash sauce.
+  The Carlsbad Dumplings are good too (they are like pieces of bread glued together with egg)
+  instead of the traditional czech dumplings.
+  You need one of the two types of dumplings to mop up all the tasty sauce
+
 ### Cyprus
 
 Excellent holiday destination, but be warned, it is too hot in August.
