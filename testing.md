@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Test Driven Development](#test-driven-development)
+- [Test Automation](#test-automation)
 - [Diagrams](#diagrams)
   - [Different Testing Methods](#different-testing-methods)
   - [API Testing](#api-testing)
@@ -21,6 +22,17 @@ to match the expected logic behaviour of your tests cases.
 Don't be these people - it's funny because it's wrong:
 
 ![Test Cases are for Weak Programmers](images/test_cases_for_weak_programmers.jpeg)
+
+## Test Automation
+
+- [Selenium](https://www.selenium.dev/) - automates web browsers to test websites
+  - use Selenium code to direct a given browser to query a website and check its response eg.
+    [selenium_hub_browser_test.py](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/selenium_hub_browser_test.py)
+    in my [DevOps-Python-tools](devops-python-tools.md) repo
+  - [Selenium Grid](https://www.selenium.dev/documentation/grid/) - spin up multiple Selenium controlled web browsers to
+    test sites - example of this is in my [Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) repo
+- [Appium](https://appium.io/docs/en/latest/) - uses the Selenium WebDriver standard to automated tests on iOS and
+  Android eg. by converting UIAutomator2 on Android)
 
 ## Diagrams
 
