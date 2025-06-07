@@ -37,6 +37,12 @@ Use this to compare the keys stored on some public service like Bitbucket.
 ssh-keygen -l -f ~/.ssh/"$filename"
 ```
 
+To print it in MD5 format to compare to an online platform like [GitLab](gitlab.md):
+
+```shell
+ssh-keygen -lf ~/.ssh/id_rsa.pub -E md5
+```
+
 ## SSH Public Key and Authorized Keys
 
 Copy the `.pub` public key file contents generated from the command above in `~/.ssh/"$filename.pub"` to
