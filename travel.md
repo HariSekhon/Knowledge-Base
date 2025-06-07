@@ -1244,6 +1244,11 @@ Prague has many good restaurants and excellent architecture in the old town.
   The Carlsbad Dumplings are good too (they are like pieces of bread glued together with egg)
   instead of the traditional czech dumplings.
   You need one of the two types of dumplings to mop up all the tasty sauce
+- [Honest Taste](https://maps.app.goo.gl/YfNEKLoGyCr6mjLX8) - breakfast restaurant that closes at 3pm
+  (kitchen closes at 2:30pm).
+  Eggs benedict was moderately priced at 240kc (£8) and good, with a good small vinaigrette side leaf salad.
+  6/13 Mbit/s wifi
+- [Palladium](https://maps.app.goo.gl/Hgs1KqvtPVcFec9J6) - central shopping mall with the usual brands
 
 ### Cyprus
 
