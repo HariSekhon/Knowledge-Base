@@ -747,7 +747,7 @@ There are apps for Parkopedia for iPhone and Android.
 In the Parkopedia app, once you've selected the car park you can, share it to Waze to plan the journey there.
 
 Do not use Waze to get to the city and then try to find parking, that is more difficult, and Waze will sent you to some
-random crappy part of a city with not much there.
+part of a city, often with not much there.
 
 ## Emigration
 
