@@ -450,7 +450,7 @@ export MATCH_GIT_PRIVATE_KEY="$HOME/.ssh/fastlane-ssh-key"
 Alternatively create a machine account access token and put it in the environment variable:
 
 ```shell
-export MATCH_PASSWORD="ghp_a12b34cde5fabcdefabcd6efa78bcd9ef0ab"
+export MATCH_PASSWORD="ghp_a12b34cde5fabcdefabcd6efa78bcd9ef0ab"  # Anonymized token example by anonymize.py from DevOps-Python-tools
 ```
 
 ### Populate Matchfiles Repo
