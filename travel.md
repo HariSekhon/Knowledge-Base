@@ -81,6 +81,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Czech Republic / Czechia](#czech-republic--czechia)
     - [Czech Motorway Tolls - Vignettes](#czech-motorway-tolls---vignettes)
     - [Prague](#prague)
+    - [Brno](#brno)
   - [Cyprus](#cyprus)
   - [Estonia](#estonia)
     - [Tallinn](#tallinn)
@@ -1249,6 +1250,13 @@ Prague has many good restaurants and excellent architecture in the old town.
   Eggs benedict was moderately priced at 240kc (£8) and good, with a good small vinaigrette side leaf salad.
   6/13 Mbit/s wifi
 - [Palladium](https://maps.app.goo.gl/Hgs1KqvtPVcFec9J6) - central shopping mall with the usual brands
+
+#### Brno
+
+You only need a couple hours to walk around Brno, some nice architecture, and the usual international brands.
+
+- [Bavard cafe](https://maps.app.goo.gl/8FVSgxANxoSDrEYn8) - eggs benedict with bacon was good and large compared to
+  some other places, although at 270kc (£9) this is expensive by local standards
 
 ### Cyprus
 
