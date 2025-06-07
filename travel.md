@@ -44,6 +44,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Additional EU Driving Checklist](#additional-eu-driving-checklist)
   - [EU Motorway Tolls](#eu-motorway-tolls)
   - [Do Not Speed](#do-not-speed)
+  - [Parking](#parking)
 - [Emigration](#emigration)
   - [Taxes](#taxes)
   - [Mail Redirection](#mail-redirection)
@@ -735,6 +736,18 @@ It's quite possible they do this on purpose 15 minutes from the Estonia border t
 between the countries.
 
 Let cars overtake you than fall for this unmarked police car entrapment.
+
+### Parking
+
+Use [Parkopedia](https://www.parkopedia.com/) to find parking and see its pricing up front to not get ripped off.
+Occasionally the parking might be slightly more expensive than Parkopedia's latest knowledge.
+
+There are apps for Parkopedia for iPhone and Android.
+
+In the Parkopedia app, once you've selected the car park you can, share it to Waze to plan the journey there.
+
+Do not use Waze to get to the city and then try to find parking, that is more difficult, and Waze will sent you to some
+random crappy part of a city with not much there.
 
 ## Emigration
 
