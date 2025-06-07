@@ -31,8 +31,8 @@ Don't be these people - it's funny because it's wrong:
     in my [DevOps-Python-tools](devops-python-tools.md) repo
   - [Selenium Grid](https://www.selenium.dev/documentation/grid/) - spin up multiple Selenium controlled web browsers to
     test sites - example of this is in my [Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) repo
-- [Appium](https://appium.io/docs/en/latest/) - uses the Selenium WebDriver standard to automated tests on iOS and
-  Android eg. by converting UIAutomator2 on Android)
+- [Appium](https://appium.io/docs/en/latest/) - uses the Selenium WebDriver standard to automated tests on  mobile,
+  desktop and IoT platforms, including iOS and Android eg. by converting UIAutomator2 on Android)
 
 ## Diagrams
 
