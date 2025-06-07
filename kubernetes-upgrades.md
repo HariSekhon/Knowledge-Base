@@ -233,9 +233,21 @@ nova find --containers
 
 ### PSP - Pod Security Policies
 
+PSPs were removed in 1.25 and need to be migrated.
+
+<https://kubernetes.io/blog/2021/04/06/podsecuritypolicy-deprecation-past-present-and-future/>
+
 <https://docs.aws.amazon.com/eks/latest/userguide/pod-security-policy-removal-faq.html>
 
-PSPs were removed in 1.25 and need to be migrated.
+<https://docs.aws.amazon.com/eks/latest/best-practices/pod-security.html>
+
+<https://kubernetes.io/docs/concepts/security/pod-security-admission/>
+
+<https://aws.amazon.com/blogs/containers/implementing-pod-security-standards-in-amazon-eks/>
+
+<https://kubernetes.io/docs/tasks/configure-pod-container/migrate-from-psp/>
+
+<https://kubernetes.io/docs/reference/access-authn-authz/psp-to-pod-security-standards/>
 
 Find PSPs installed:
 
