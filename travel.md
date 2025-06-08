@@ -1249,6 +1249,10 @@ Such is the bad reputation of the English lads on holiday!
 
 Prague has many good restaurants and excellent architecture in the old town.
 
+Unfortunately the prices have gone up a lot in the years since I've first been,
+expect Western priced restaurants, coffee shops and expensive hotels.
+You may want to consider staying in a hotel here just due to the prices.
+
 - [Plzeňská restaurace U Sedlerů](https://maps.app.goo.gl/BXAK4ixex15R3vhB8) - the dark beer beef chilli goulash is
   good.
   There isn't a lot of meat, concentrated in the center of the plate and there is a lot of sauce, which is very good as
@@ -1263,6 +1267,7 @@ Prague has many good restaurants and excellent architecture in the old town.
   Eggs benedict was moderately priced at 240kc (£8) and good, with a good small vinaigrette side leaf salad.
   6/13 Mbit/s wifi
 - [Palladium](https://maps.app.goo.gl/Hgs1KqvtPVcFec9J6) - central shopping mall with the usual brands
+- [Coffee Factory](https://maps.app.goo.gl/rENuDDfPFsXg74TLA) - eggs benedict is 250kc (~£9). 46/33 Mbit/s wifi
 
 #### Brno
 
