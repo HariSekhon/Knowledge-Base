@@ -53,7 +53,6 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_START -->
 
-- [This is the Lost Documentation](#this-is-the-lost-documentation)
 - [GitHub Repos](#github-repos)
 - [Systems](#systems)
   - [Operating Systems](#operating-systems)
@@ -119,6 +118,7 @@ References to official docs and some classic books are provided for those who wa
   - [Old Docs](#old-docs)
 - [Star History](#star-history)
 - [Memes](#memes)
+  - [This is the Lost Documentation](#this-is-the-lost-documentation)
 - [More Core Repos](#more-core-repos)
   - [Knowledge](#knowledge)
   - [DevOps Code](#devops-code)
@@ -131,19 +131,6 @@ References to official docs and some classic books are provided for those who wa
 - [Other Resources](#other-resources)
 
 <!-- INDEX_END -->
-
-## This is the Lost Documentation
-
-Here the TODOs are all getting filled in gradually... because we've all been here:
-
-<!--
-
-  Doesn't render in IntelliJ markdown if the key=value pairs are split over lines
-
-    https://youtrack.jetbrains.com/issue/IDEA-365229/Markdown-plugin-Preview-does-not-show-Image-from-HTML-tag-if-the-keyvalue-pairs-are-split-over-newlines
-
--->
-<img src="images/finally_found_documentation.jpeg" alt="Finally Found The Documentation" width="50%" />
 
 ## GitHub Repos
 
@@ -763,12 +750,26 @@ This section is probably the most financially important thing you'll ever learn.
 
 ## Memes
 
-From my [LinkedIn](https://linkedin.com/in/HariSekhon):
+### This is the Lost Documentation
+
+Here the TODOs are all getting filled in gradually... because we've all been here:
 
 <!--
-![Forbidden Unix Knowledge](images/devops_apprentice_reads_from_ancient_books_of_forbidden_unix_knowledge.jpeg)
+
+  Doesn't render in IntelliJ markdown if the key=value pairs are split over lines
+
+    https://youtrack.jetbrains.com/issue/IDEA-365229/Markdown-plugin-Preview-does-not-show-Image-from-HTML-tag-if-the-keyvalue-pairs-are-split-over-newlines
+
 -->
+<img src="images/finally_found_documentation.jpeg" alt="Finally Found The Documentation" width="50%" />
+
+From my [LinkedIn](https://linkedin.com/in/HariSekhon):
+
+![Forbidden Unix Knowledge](images/devops_apprentice_reads_from_ancient_books_of_forbidden_unix_knowledge.jpeg)
+
+<!--
 <img src="images/devops_apprentice_reads_from_ancient_books_of_forbidden_unix_knowledge.jpeg" alt="Forbidden Unix Knowledge" width="50%" />
+-->
 
 <br />
 <br />
