@@ -49,7 +49,7 @@ done < <(git ls-files | grep '^images/')
 while read -r image; do
     image2="${image//%2B/+}"
     image2="${image2//%25/%}"
-    if ! git ls | grep -Fq "$image2"; then
+    if ! git ls-files | grep -Fq "$image2"; then
         echo "Image referenced but not committed to Git: "
         git grep "$image"
         exitcode=1
