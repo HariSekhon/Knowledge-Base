@@ -1268,9 +1268,16 @@ You will hear American accents often in Prague, it is this tourism that has caus
   (kitchen closes at 2:30pm).
   Eggs benedict was moderately priced at 240kc (£8) and good, with a good small vinaigrette side leaf salad.
   6/13 Mbit/s wifi
-- [Palladium](https://maps.app.goo.gl/Hgs1KqvtPVcFec9J6) - central shopping mall with the usual brands
 - [Coffee Factory](https://maps.app.goo.gl/rENuDDfPFsXg74TLA) - good menu, but western prices,
   as they are used to foreigners. Eggs benedict is 250kc (~£9). 46/33 Mbit/s wifi
+- [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road in a central area, so less of a tourist
+  trap, but it was still full, I had to wait for a table.
+  The wild boar with mashed potatoes was good, although portion size could have been bigger and the onion jam was a bit
+  savoury for my taste. They also have venison with red wine, another day!!
+  The restaurant as a big screen TV on which the football was playing, but they have no wifi
+- [Beer Restaurant U Černého Medvěda (At the Black Bear)](https://maps.app.goo.gl/DByx8UcajYxx1vB56) - the potato soup
+  with mushroom was ok, need to try their goulash
+- [Palladium](https://maps.app.goo.gl/Hgs1KqvtPVcFec9J6) - central shopping mall with the usual brands
 
 #### Brno
 
