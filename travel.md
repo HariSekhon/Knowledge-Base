@@ -27,7 +27,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Digital e-sims](#digital-e-sims)
   - [International Calls using VoIP over the Internet](#international-calls-using-voip-over-the-internet)
 - [Foreign Cash Withdrawals](#foreign-cash-withdrawals)
-- [Dining Out](#dining-out)
+- [Restaurants & Dining Out](#restaurants--dining-out)
 - [Translation](#translation)
 - [Seasons - Timing Matters](#seasons---timing-matters)
 - [Mosquito Repellent](#mosquito-repellent)
@@ -527,7 +527,7 @@ My bank by comparison charged me only the exchange rate, which was very close to
 
 Obviously don't withdraw cash using credit cards, they'll probably be the worst and most unscrupulous in charges.
 
-## Dining Out
+## Restaurants & Dining Out
 
 Use [Google Maps](https://maps.google.com) (see [Mobile Internet Access](#mobile-internet-access) section).
 
@@ -1271,7 +1271,10 @@ You will hear American accents often in Prague, it is this tourism that has caus
 - [Coffee Factory](https://maps.app.goo.gl/rENuDDfPFsXg74TLA) - good menu, but western prices,
   as they are used to foreigners. Eggs benedict is 250kc (~£9). 46/33 Mbit/s wifi
 - [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
-  the food! Wifi 56/25 Mbit/s
+  the food!
+  The piri piri boneless chicken thigh is excellent
+  and comes with a piece of bread and a really good salad with pink pickles.
+  Get a side of truffles potatos to make the plate complete. Wifi 56/25 Mbit/s
 - [Bistro Cafē Laskavá](https://maps.app.goo.gl/aEYi7nFrrLucC1gm9) - next to Gron above, lovely benedict (eggs benedict) is pricey
   gentrified at 285kc (£9.60), and comes on two halves of a croissant,
   which makes it lack a bit of the fill factor of a regular eggs benedict, as well as half a passionfruit, a bit of
