@@ -1243,8 +1243,8 @@ Buy your e-vignette for Czechia here:
 
 #### Prague
 
-A brilliant historic capital, famed for cheap beer and English stag parties.
-There are literally signs on the front of venues that say *"No English stag parties"*.
+A brilliant historic capital, famed for cheap good quality beer.
+By the 2000s there were literally signs on the front of bars saying *"No English stag parties"*.
 Such is the bad reputation of the English lads on holiday!
 
 Prague has many good restaurants and excellent architecture in the old town.
