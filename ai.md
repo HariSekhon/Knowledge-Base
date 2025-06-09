@@ -240,6 +240,7 @@ Idea to app in seconds.
 ## Coding
 
 - [GitHub CoPilot](https://github.com/features/copilot)
+  - [CoPilot Chat Cookbook](https://docs.github.com/en/copilot/copilot-chat-cookbook)
 - [TabNine](https://www.tabnine.com) - support for all major IDEs including my favourite [IntelliJ](intellij.md), no longer a free tier
 - [Cursor AI](https://www.cursor.com) - separate Editor that requires download, limited completions in free edition
 - [Agentic](https://www.agentic.ai/)
