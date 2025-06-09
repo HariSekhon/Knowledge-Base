@@ -1275,12 +1275,11 @@ You will hear American accents often in Prague, it is this tourism that has caus
   The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
   and comes with a piece of bread and a really good salad with pink pickles.
   Get a side of truffles potatos to make the plate complete. Wifi 56/25 Mbit/s
-- [Bistro Cafē Laskavá](https://maps.app.goo.gl/aEYi7nFrrLucC1gm9) - next to Gron above, lovely benedict (eggs benedict) is pricey
-  gentrified at 285kc (£9.60), and comes on two halves of a croissant,
-  which makes it lack a bit of the fill factor of a regular eggs benedict, as well as half a passionfruit, a bit of
-  avocado and few sprinkles of pomegranate seeds.
-  Very gentrified! Laskava has indoor and outdoor al fresco seating.
-  Wifi is only 2/1 Mbit/s outside though
+- [Bistro Cafē Laskavá](https://maps.app.goo.gl/aEYi7nFrrLucC1gm9) - next to Gron above, lovely benedict (eggs benedict)
+  is pricey gentrified at 285kc (£9.60), and comes on two halves of a croissant,
+  which makes it lack a bit of the fill factor of a regular eggs benedict, but has bacon, a few small slices of avocado,
+  half a passionfruit, and few sprinkles of pomegranate seeds.
+  Very gentrified! Laskava has indoor and outdoor al fresco seating. Wifi is only 2/1 Mbit/s outside though
 - [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
 - [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road in a central area, so less of a tourist
   trap, but it was still full, I had to wait for a table.
