@@ -32,7 +32,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Raycast](#raycast)
 - [AppleScript](#applescript)
 - [Commands](#commands)
-  - [Search for or open anything](#search-for-or-open-anything)
+  - [Spotlight - Search for or Open anything](#spotlight---search-for-or-open-anything)
   - [Open URL from Terminal output](#open-url-from-terminal-output)
   - [Open](#open)
     - [Open URL in the default web browser](#open-url-in-the-default-web-browser)
@@ -103,7 +103,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Restart `mds`, `mds_stores` and `revisiond`](#restart-mds-mds_stores-and-revisiond)
   - [Verify Free Space](#verify-free-space)
 - [Troubleshooting](#troubleshooting)
-  - [Spotlight failing to find App](#spotlight-failing-to-find-app)
+  - [Spotlight Search failing to find App](#spotlight-search-failing-to-find-app)
   - [XCodeBuild error complaining XCode only has command line tools](#xcodebuild-error-complaining-xcode-only-has-command-line-tools)
   - [Various Applications Fail to Open](#various-applications-fail-to-open)
 - [Relevant GitHub Repos](#relevant-github-repos)
@@ -365,9 +365,13 @@ has many more Bash scripts that work on macOS and a bit of [Python](python.md) w
 
 A list of commands is provided at <https://ss64.com/mac/>.
 
-### Search for or open anything
+### Spotlight - Search for or Open anything
 
 `Cmd`-`Space` - opens Spotlight search to auto-complete and open anything quickly.
+
+If this doesn't find an app which you know is there such as typing `Spotify` only returns Google Chrome or other wrong
+results despite confirming that `/Applications/Spotify.app` exists, then see
+[Spotlight Failing to find App](#spotlight-search-failing-to-find-app) in the Troubleshooting section.
 
 ### Open URL from Terminal output
 
@@ -1548,7 +1552,7 @@ df -h "/Volumes/$NAME"
 
 ## Troubleshooting
 
-### Spotlight failing to find App
+### Spotlight Search failing to find App
 
 If `Cmd`-`Space`
 Spotlight pop up search is failing
@@ -1560,6 +1564,9 @@ sudo mdutil -E /
 ```
 
 This fixed it for me.
+
+Also check that you haven't excluded a location under `System` -> `Siri & Spotlight` ->
+`Spotlight Privacy` (exclusions at the bottom).
 
 ### XCodeBuild error complaining XCode only has command line tools
 
