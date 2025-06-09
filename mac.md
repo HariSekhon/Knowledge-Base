@@ -371,7 +371,7 @@ A list of commands is provided at <https://ss64.com/mac/>.
 
 If this doesn't find an app which you know is there such as typing `Spotify` only returns Google Chrome or other wrong
 results despite confirming that `/Applications/Spotify.app` exists, then see
-[Spotlight Failing to find App](#spotlight-search-failing-to-find-app) in the Troubleshooting section.
+[Spotlight Search failing to find App](#spotlight-search-failing-to-find-app) in the Troubleshooting section.
 
 ### Open URL from Terminal output
 
