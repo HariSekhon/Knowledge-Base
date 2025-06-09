@@ -1272,7 +1272,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
   as they are used to foreigners. Eggs benedict is 250kc (~£9). 46/33 Mbit/s wifi
 - [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
   the food!
-  The piri piri boneless chicken thigh is excellent
+  The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
   and comes with a piece of bread and a really good salad with pink pickles.
   Get a side of truffles potatos to make the plate complete. Wifi 56/25 Mbit/s
 - [Bistro Cafē Laskavá](https://maps.app.goo.gl/aEYi7nFrrLucC1gm9) - next to Gron above, lovely benedict (eggs benedict) is pricey
