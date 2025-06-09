@@ -32,6 +32,8 @@
 
 ## Remote Jobs
 
+- [WeWorkRemotely](https://weworkremotely.com/)
+- [Remote.co](https://remote.co/)
 - [EuroTopTechJobs](https://www.eurotoptechjobs.com/)
 
 Not Remote, but this might help:
