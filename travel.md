@@ -1270,6 +1270,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
   6/13 Mbit/s wifi
 - [Coffee Factory](https://maps.app.goo.gl/rENuDDfPFsXg74TLA) - good menu, but western prices,
   as they are used to foreigners. Eggs benedict is 250kc (~£9). 46/33 Mbit/s wifi
+- [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
 - [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road in a central area, so less of a tourist
   trap, but it was still full, I had to wait for a table.
   The wild boar with mashed potatoes was good, although portion size could have been bigger and the onion jam was a bit
