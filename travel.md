@@ -1251,7 +1251,7 @@ Prague has many good restaurants and excellent architecture in the old town.
 
 Unfortunately the prices have gone up a lot in the years since I've first been,
 expect Western priced restaurants, coffee shops and expensive hotels.
-You may want to consider staying in a hotel here just due to the prices.
+You may want to consider staying in a hostel here just due to the prices.
 
 You will hear American accents often in Prague, it is this tourism that has caused the somewhat high prices.
 
