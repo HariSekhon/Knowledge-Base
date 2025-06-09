@@ -103,6 +103,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Restart `mds`, `mds_stores` and `revisiond`](#restart-mds-mds_stores-and-revisiond)
   - [Verify Free Space](#verify-free-space)
 - [Troubleshooting](#troubleshooting)
+  - [Spotlight failing to find App](#spotlight-failing-to-find-app)
   - [XCodeBuild error complaining XCode only has command line tools](#xcodebuild-error-complaining-xcode-only-has-command-line-tools)
   - [Various Applications Fail to Open](#various-applications-fail-to-open)
 - [Relevant GitHub Repos](#relevant-github-repos)
@@ -1546,6 +1547,19 @@ df -h "/Volumes/$NAME"
 ```
 
 ## Troubleshooting
+
+### Spotlight failing to find App
+
+If `Cmd`-`Space`
+Spotlight pop up search is failing
+to find an app like `Spotify.app` and instead only giving you Google Chrome or other results wrong results,
+try erasing and re-indexing the Spotlight index:
+
+```shell
+sudo mdutil -E /
+```
+
+This fixed it for me.
 
 ### XCodeBuild error complaining XCode only has command line tools
 
