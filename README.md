@@ -138,7 +138,7 @@ References to official docs and some classic books are provided for those who wa
 - [Travel](travel.md) - my notes from travelling the world extensively both for work, consulting, and as a tourist.
   Covers my favourite restaurants, tips on flights, accommodation, internet access,
   visas, driving around Europe on road trips each summer, and various other travel tips with details on many countries
-  and cities from my travels etc.
+  and cities from my travels...
 
 ## GitHub Repos
 
