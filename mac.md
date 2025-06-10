@@ -250,7 +250,13 @@ See [Virtualization](virtualization.md) page.
 
 ## Anti-Virus
 
-- [AVG Free](https://www.avg.com/en-us/store#mac) - easy, click install, follow instructions, then run a deep scan
+Free Anti-Virus for Mac:
+
+- [Avast](https://www.avast.com/) - easy click install, follow instructions to grant permissions
+- [AVG Free](https://www.avg.com/en-us/store#mac) - similar to above, can only install one of AVG or Avast as they
+  conflict and are owned by the same company
+- [Avira](https://www.avira.com/) - easy click install, follow instructions to grant permissions
+  then run a deep scan
 - [ClamAV](https://www.clamav.net/) - free open-source command line anti-virus
   - [ClamXAV](https://www.clamxav.com/) - proprietary, developed by another company on top of ClamAV, with an added GUI
     and scheduling, more user friendly
