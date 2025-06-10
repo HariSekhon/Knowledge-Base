@@ -53,7 +53,7 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_START -->
 
-- [Travel Notes - Restaurants, Flights, Hotels, Visas, Driving Europe etc.](#travel-notes---restaurants-flights-hotels-visas-driving-europe-etc)
+- [Travel Notes from Consulting & Tourist Around the World](#travel-notes-from-consulting--tourist-around-the-world)
 - [GitHub Repos](#github-repos)
 - [Systems](#systems)
   - [Operating Systems](#operating-systems)
@@ -133,9 +133,11 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_END -->
 
-## Travel Notes - Restaurants, Flights, Hotels, Visas, Driving Europe etc.
+## Travel Notes from Consulting & Tourist Around the World
 
-- [Travel](travel.md) - my notes from travelling the world extensively both for work, consulting and as a tourist
+- [Travel](travel.md) - my notes from travelling the world extensively both for work, consulting and as a tourist,
+  covering my favourite restaurants, tips on flights, accommodation,
+  visas, driving around Europe on road trips each summer etc.
 
 ## GitHub Repos
 
