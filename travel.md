@@ -1258,8 +1258,9 @@ You will hear American accents often in Prague, it is this tourism that has caus
 - [Kozlovna U Paukerta](https://maps.app.goo.gl/x7ybwqKLophZyA9e6) - good menu, surprisingly good svitchkova (beef in
   cream sauce with cranberries) and Karlovy Vary dumplings, which are like Carlsbad dumplings, pieces of bread glued
   together with egg. Prices are a little on the moderately high side due to the fairly prime location on main road by
-  bridge than some other places (eg. the duck with red cabbage and dumplings is cheaper and twice the grams at
-  Restaurace U Šumavy). 92/103 Mbit/s wifi
+  bridge than some other places and being mostly tourists (eg. they don't have cesnecka like quite a few restaurants
+  here because tourists don't know to ask for it, and the duck with red cabbage and dumplings is cheaper and twice the
+  grams at Restaurace U Šumavy). 92/103 Mbit/s wifi
 - [Plzeňská restaurace U Sedlerů](https://maps.app.goo.gl/BXAK4ixex15R3vhB8) - the dark beer beef chilli goulash is
   good.
   There isn't a lot of meat, concentrated in the center of the plate and there is a lot of sauce, which is very good as
