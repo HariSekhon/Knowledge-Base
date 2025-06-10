@@ -53,6 +53,7 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_START -->
 
+- [Travel Notes - Restaurants, Flights, Hotels, Visas, Driving Europe etc.](#travel-notes---restaurants-flights-hotels-visas-driving-europe-etc)
 - [GitHub Repos](#github-repos)
 - [Systems](#systems)
   - [Operating Systems](#operating-systems)
@@ -131,6 +132,10 @@ References to official docs and some classic books are provided for those who wa
 - [Other Resources](#other-resources)
 
 <!-- INDEX_END -->
+
+## Travel Notes - Restaurants, Flights, Hotels, Visas, Driving Europe etc.
+
+- [Travel](travel.md)
 
 ## GitHub Repos
 
