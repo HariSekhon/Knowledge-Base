@@ -250,6 +250,7 @@ See [Virtualization](virtualization.md) page.
 
 ## Anti-Virus
 
+- [AVG Free](https://www.avg.com/en-us/store#mac) - easy, click install, follow instructions, then run a deep scan
 - [ClamAV](https://www.clamav.net/) - free open-source command line anti-virus
   - [ClamXAV](https://www.clamxav.com/) - proprietary, developed by another company on top of ClamAV, with an added GUI
     and scheduling, more user friendly
