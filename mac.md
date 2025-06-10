@@ -250,6 +250,10 @@ See [Virtualization](virtualization.md) page.
 
 ## Anti-Virus
 
+macOS has some built-in malware protection via XProtect;
+
+<https://support.apple.com/en-ae/guide/security/sec469d47bd8/web>
+
 Free Anti-Virus for Mac:
 
 - [Avast](https://www.avast.com/) - easy click install, follow instructions to grant permissions
