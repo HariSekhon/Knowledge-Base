@@ -1280,6 +1280,9 @@ You will hear American accents often in Prague, it is this tourism that has caus
   which makes it lack a bit of the fill factor of a regular eggs benedict, but has bacon, a few small slices of avocado,
   half a passionfruit, and few sprinkles of pomegranate seeds.
   Very gentrified! Laskava has indoor and outdoor al fresco seating. Wifi is only 2/1 Mbit/s outside though
+- [Sweet & Pepper Days](https://maps.app.goo.gl/cWsk4zTSLVPon3Yo7) - good eggs benedict on a homemade flatbread with bok
+  choi in a tasty asian-style sauce, but a bit pricey at 330kc, and 105kc for chai latte, golden milk latte or beetroot
+  cocoa late, compared to 90kc at the adjacent place. Main and 2 drinks came to 540kc (£18) which is pricey for here
 - [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
 - [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road in a central area, so less of a tourist
   trap, but it was still full, I had to wait for a table.
