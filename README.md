@@ -135,7 +135,7 @@ References to official docs and some classic books are provided for those who wa
 
 ## Travel Notes - Restaurants, Flights, Hotels, Visas, Driving Europe etc.
 
-- [Travel](travel.md)
+- [Travel](travel.md) - my notes from travelling the world extensively both for work, consulting and as a tourist
 
 ## GitHub Repos
 
