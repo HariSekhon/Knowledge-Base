@@ -1292,7 +1292,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
   choi in a tasty asian-style sauce, but a bit pricey at 330kc, and 105kc for chai latte, golden milk latte or beetroot
   cocoa late, compared to 90kc at the adjacent place. Main and 2 drinks came to 540kc (£18) which is pricey for here
 - [ô-mai Coffee & Brunch](https://maps.app.goo.gl/eWNBWQU6C58PqGJv8) - a little south of the gentrified coffee shop
-  boulevard, but eggs benedict is slightly more reasonably priced. 80/40 Mbit/s wifi
+  boulevard of the places above, but eggs benedict is slightly more reasonably priced. 80/40 Mbit/s wifi
 - [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
 - [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road in a central area, so less of a tourist
   trap, but it was still full, I had to wait for a table.
