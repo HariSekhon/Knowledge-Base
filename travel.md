@@ -2723,9 +2723,11 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
 
 - [Urban House](Urban House) - very popular highly rate bar restaurant. The truffle roasted chicken was good - it comes
   with truffle potatoes au gratin, glazed carrots, green aparagus, truffle sauce, portobello mushrooms and fresh
-  truffle.
-  The Buffalo & Hot Honey pizza was even better, with prosciutto ham,
-  buffalo chilli honey, burrata, pumpkin seeds, mozarella, jalapeno, pomodoro, capers and parmesan
+  truffle. The Buffalo & Hot Honey pizza was even better, with prosciutto ham,
+  buffalo chilli honey, burrata, pumpkin seeds, mozarella, jalapeno, pomodoro, capers and parmesan.
+  The desserts were really good too - the pinacolada cake was excellent, with pineapple,
+  coconut, yuzu, mango, Malibu, white chocolate, vanilla.
+  The jasmine mango cheesecake with white chocolate, mango and passionfruit
 - [Le Papillon](https://maps.app.goo.gl/qnf4XpgV5PNMQqoR6) - excellent good menu and moderate prices, especially
   considering the prime location on one of the main strip. Popular, good ambience, music, decor, indoor and outdoor
   seating. Food is modern Slovak fusion, rather than traditional,
