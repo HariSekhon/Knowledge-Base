@@ -2721,7 +2721,7 @@ Use the official site rather than resellers, it's cheaper:
 
 Bratislava is nowhere near as big as Budapest, you probably don't need more than 3 nights here.
 
-- [Urban House](Urban House) - very popular highly rate bar restaurant. The truffle roasted chicken was good - it comes
+- [Urban House](Urban House) - very popular highly rated bar restaurant. The truffle roasted chicken was good - it comes
   with truffle potatoes au gratin, glazed carrots, green aparagus, truffle sauce, portobello mushrooms and fresh
   truffle. The Buffalo & Hot Honey pizza was even better, with prosciutto ham,
   buffalo chilli honey, burrata, pumpkin seeds, mozarella, jalapeno, pomodoro, capers and parmesan.
