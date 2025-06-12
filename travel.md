@@ -1266,15 +1266,6 @@ You will hear American accents often in Prague, it is this tourism that has caus
   Moderately touristy prices eg. beef goulash with varied dumplings is 300kc (£10).
   A mix of tourists and locals - one downside is that many europeans smoke outside.
   31/5 Mbit/s wifi
-- [Plzeňská restaurace U Sedlerů](https://maps.app.goo.gl/BXAK4ixex15R3vhB8) - the dark beer beef chilli goulash is
-  good.
-  There isn't a lot of meat, concentrated in the center of the plate and there is a lot of sauce, which is very good as
-  that's where the flavour is.
-  It doesn't come with dumplings unfortunately, you have to order them as a "side" although they come on the same plate
-  in the goulash sauce.
-  The Carlsbad Dumplings are good too (they are like pieces of bread glued together with egg)
-  instead of the traditional czech dumplings.
-  You need one of the two types of dumplings to mop up all the tasty sauce
 - [Honest Taste](https://maps.app.goo.gl/YfNEKLoGyCr6mjLX8) - breakfast restaurant that closes at 3pm
   (kitchen closes at 2:30pm).
   Eggs benedict was moderately priced at 240kc (£8) and good, with a good small vinaigrette side leaf salad.
@@ -1305,6 +1296,15 @@ You will hear American accents often in Prague, it is this tourism that has caus
   The wild boar with mashed potatoes was good, although portion size could have been bigger and the onion jam was a bit
   savoury for my taste. They also have venison with red wine, another day!!
   The restaurant as a big screen TV on which the football was playing, but they have no wifi
+- [Plzeňská restaurace U Sedlerů](https://maps.app.goo.gl/BXAK4ixex15R3vhB8) - the dark beer beef chilli goulash is
+  good.
+  There isn't a lot of meat, concentrated in the center of the plate and there is a lot of sauce, which is very good as
+  that's where the flavour is.
+  It doesn't come with dumplings unfortunately, you have to order them as a "side" although they come on the same plate
+  in the goulash sauce.
+  The Carlsbad Dumplings are good too (they are like pieces of bread glued together with egg)
+  instead of the traditional czech dumplings.
+  You need one of the two types of dumplings to mop up all the tasty sauce
 - [Beer Restaurant U Černého Medvěda (At the Black Bear)](https://maps.app.goo.gl/DByx8UcajYxx1vB56) - the potato soup
   with mushroom was ok, need to try their goulash
 - [Palladium](https://maps.app.goo.gl/Hgs1KqvtPVcFec9J6) - central shopping mall with the usual brands
