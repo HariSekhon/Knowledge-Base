@@ -1262,7 +1262,8 @@ You will hear American accents often in Prague, it is this tourism that has caus
   here because tourists don't know to ask for it, and the duck with red cabbage and dumplings is cheaper and twice the
   grams at Restaurace U Šumavy). 92/103 Mbit/s wifi
 - [Husinec restaurace](https://maps.app.goo.gl/DRHXfpx8wCBD2tXG9) - lovely outdoor seating at the back, good menu
-  (although no cesnecka soup), beef goulash with varied dumplings is 300kc (£10).
+  (although no cesnecka soup unless it's soup of the day, which was Friday when I was there).
+  Moderately touristy prices eg. beef goulash with varied dumplings is 300kc (£10).
   A mix of tourists and locals - one downside is that many europeans smoke outside.
   31/5 Mbit/s wifi
 - [Plzeňská restaurace U Sedlerů](https://maps.app.goo.gl/BXAK4ixex15R3vhB8) - the dark beer beef chilli goulash is
