@@ -1261,8 +1261,6 @@ You will hear American accents often in Prague, it is this tourism that has caus
   bridge than some other places and being mostly tourists (eg. they don't have cesnecka like quite a few restaurants
   here because tourists don't know to ask for it, and the duck with red cabbage and dumplings is cheaper and twice the
   grams at Restaurace U Šumavy). 92/103 Mbit/s wifi
-- [Restaurant Matylda](https://maps.app.goo.gl/GeFhe3wxzdjtRKBC9) - check the daily menu
-  [here](https://www.menicka.cz/2123-restaurant-matylda.html) for good lunch deals
 - [Plzeňská restaurace U Sedlerů](https://maps.app.goo.gl/BXAK4ixex15R3vhB8) - the dark beer beef chilli goulash is
   good.
   There isn't a lot of meat, concentrated in the center of the plate and there is a lot of sauce, which is very good as
@@ -1303,6 +1301,11 @@ You will hear American accents often in Prague, it is this tourism that has caus
 - [Beer Restaurant U Černého Medvěda (At the Black Bear)](https://maps.app.goo.gl/DByx8UcajYxx1vB56) - the potato soup
   with mushroom was ok, need to try their goulash
 - [Palladium](https://maps.app.goo.gl/Hgs1KqvtPVcFec9J6) - central shopping mall with the usual brands
+
+TODO:
+
+- [Restaurant Matylda](https://maps.app.goo.gl/GeFhe3wxzdjtRKBC9) - check the daily menu
+  [here](https://www.menicka.cz/2123-restaurant-matylda.html) for good lunch deals
 
 #### Brno
 
