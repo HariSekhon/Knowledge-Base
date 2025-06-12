@@ -1266,7 +1266,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
   Moderately touristy prices eg.
   the beef goulash with varied dumplings is 300kc (£10) - the sauce and dumplings were very good,
   but it was a bit light on meat (150g compared to 200g at other restaurants), and a lot of the meat was fat.
-  The homemade chocolate fondant with vanilla ice cream was good, although a bit pricey at 190kc,
+  The homemade chocolate fondant with vanilla ice cream was good, although a bit pricey at 190kc (£6.80),
   and it could have been bigger.
   A mix of tourists and locals - one downside is that many europeans smoke outside. 31/5 Mbit/s wifi
 - [Honest Taste](https://maps.app.goo.gl/YfNEKLoGyCr6mjLX8) - breakfast restaurant that closes at 3pm
