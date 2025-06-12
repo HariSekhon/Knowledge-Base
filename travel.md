@@ -1263,9 +1263,10 @@ You will hear American accents often in Prague, it is this tourism that has caus
   grams at Restaurace U Šumavy). 92/103 Mbit/s wifi
 - [Husinec restaurace](https://maps.app.goo.gl/DRHXfpx8wCBD2tXG9) - lovely outdoor seating at the back, good menu
   (although no cesnecka soup unless it's soup of the day, which was Friday when I was there).
-  Moderately touristy prices eg. beef goulash with varied dumplings is 300kc (£10).
-  A mix of tourists and locals - one downside is that many europeans smoke outside.
-  31/5 Mbit/s wifi
+  Moderately touristy prices eg.
+  the beef goulash with varied dumplings is 300kc (£10) - the sauce and dumplings were very good,
+  but it was a bit light on meat (150g compared to 200g at other restaurants), and a lot of the meat was fat.
+  A mix of tourists and locals - one downside is that many europeans smoke outside. 31/5 Mbit/s wifi
 - [Honest Taste](https://maps.app.goo.gl/YfNEKLoGyCr6mjLX8) - breakfast restaurant that closes at 3pm
   (kitchen closes at 2:30pm).
   Eggs benedict was moderately priced at 240kc (£8) and good, with a good small vinaigrette side leaf salad.
