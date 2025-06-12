@@ -1297,7 +1297,9 @@ You will hear American accents often in Prague, it is this tourism that has caus
 - [ô-mai Coffee & Brunch](https://maps.app.goo.gl/eWNBWQU6C58PqGJv8) - a little south of the gentrified coffee shop
   boulevard of the places above, but eggs benedict is slightly more reasonably priced.
   However, I found the srirachi sauce to be not my thing, you may feel differently. 80/40 Mbit/s wifi
-- [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
+- [ACAI POKE superfood & espresso bar](https://maps.app.goo.gl/GTMiCCFtRGxyHFSh8) - brazilian lime poke bowl with mango,
+  apple, berries and yoghurt was good (the berries were frozen though), 260kc (£9).
+  Bit of a walk from the centre to Prague 2 Žižkov for it though. 81/40 Mbit/s wifi
 - [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road in a central area, so less of a tourist
   trap, but it was still full, I had to wait for a table.
   The wild boar with mashed potatoes was good, although portion size could have been bigger and the onion jam was a bit
@@ -1309,6 +1311,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
 
 TODO:
 
+- [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
 - [Restaurant Matylda](https://maps.app.goo.gl/GeFhe3wxzdjtRKBC9) - check the daily menu
   [here](https://www.menicka.cz/2123-restaurant-matylda.html) for good lunch deals
 
