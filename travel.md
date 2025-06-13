@@ -83,6 +83,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Czech Motorway Tolls - Vignettes](#czech-motorway-tolls---vignettes)
     - [Prague](#prague)
     - [Brno](#brno)
+    - [Kutna Hora](#kutna-hora)
+    - [Hradec Kralove](#hradec-kralove)
   - [Cyprus](#cyprus)
   - [Estonia](#estonia)
     - [Tallinn](#tallinn)
@@ -1289,8 +1291,11 @@ You will hear American accents often in Prague, it is this tourism that has caus
   choi in a tasty asian-style sauce, but a bit pricey at 330kc, and 105kc for chai latte, golden milk latte or beetroot
   cocoa late, compared to 90kc at the adjacent place. Main and 2 drinks came to 540kc (£18) which is pricey for here
 - [ô-mai Coffee & Brunch](https://maps.app.goo.gl/eWNBWQU6C58PqGJv8) - a little south of the gentrified coffee shop
-  boulevard of the places above, but eggs benedict is slightly more reasonably priced.
-  However, I found the srirachi sauce to be not my thing, you may feel differently. 80/40 Mbit/s wifi
+  boulevard of the places above, but eggs benedict is slightly more reasonably priced at 260kc.
+  However, I didn't like the eggs benedict here due to the sriracha sauce and sweet brioche buns,
+  it just didn't work for me, you may feel differently.
+  I decided to give this place a second go and went with a normal scrambled eggs, which was also cheaper at 170kc.
+  80/40 Mbit/s wifi
 - [ACAI POKE superfood & espresso bar](https://maps.app.goo.gl/GTMiCCFtRGxyHFSh8) - brazilian lime poke bowl with mango,
   apple, berries and yoghurt was good (the berries were frozen though), 260kc (£9).
   Bit of a walk from the centre to Prague 2 Žižkov for it though. 81/40 Mbit/s wifi
@@ -1328,6 +1333,27 @@ You only need a couple hours to walk around Brno, some nice architecture, and th
 
 - [Bavard cafe](https://maps.app.goo.gl/8FVSgxANxoSDrEYn8) - eggs benedict with bacon was good and large compared to
   some other places, although at 270kc (£9) this is expensive by local standards
+
+#### Kutna Hora
+
+Unesco heritage city in the middle of Czechia with impressive cathedral, stopped there driving between Prague and
+Wroclaw, Poland.
+
+- [Turistka](https://maps.app.goo.gl/CpeEinY5krxvNM1L7) - gentrified coffee shop near the cathedral, most of the food is
+  on the breakfast menu, catch it in the morning if you can
+- [Blues Café](https://maps.app.goo.gl/YDow5fkGVqsJsNyy8) - quirky cafe
+- [St Barbara's Cathedral](St Barbara's Cathedral) - the main tourist site in the town
+- [Church of Saint James](Church of Saint James) - another historic church worth a look
+- [Plague column / Morový sloup](https://maps.app.goo.gl/qr1NGVzdXXJy9HSC8) - historic landmark
+- [Parkoviště Na Náměti](https://maps.app.goo.gl/1Tq5J6ZVyQe9nq6A8) - free parking (check Parkopedia for others)
+
+#### Hradec Kralove
+
+Nice small city centre with historic centre in the middle of Czechia,
+stopped here driving between Prague and Wroclaw, Poland.
+
+- [Šatlava](https://maps.app.goo.gl/iiGzLtmv6Df7b4v99) - upmarket czech restaurants with no menu online (probably
+  because if you saw the prices you wouldn't come, ~25% more czech restaurants in the centre of Prague)
 
 ### Cyprus
 
