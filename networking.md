@@ -157,14 +157,21 @@ You can use it via:
 2. Apps
 3. CLI
 
+I find that I generally get signficantly faster speed test results when:
+
+- using 5G networks:
+  - perhaps because of less wifi contention due to less clients on the 5G networks when most customers use the default
+2.4GHz network
+- running on Mac rather iPhone:
+  - perhaps due to the stronger wifi card on my Macbook Pro
+
 ##### SpeedTest.net App
 
-I've started
-using this more
-because the app on iPhone and Mac records the speed test results along with which wifi network you were on at the time.
+I've started using this more because the app on iPhone and Mac records the speed test results along with which wifi
+network you were on at the time.
 
-This is useful to keep a record to check back
-and it's also both easy to use and gives a nice GUI speedometer as well as jitter graph.
+This is useful to keep a record to check back and it's also both easy to use and gives a nice GUI speedometer as well
+as jitter graph.
 
 <https://www.speedtest.net/apps>
 
