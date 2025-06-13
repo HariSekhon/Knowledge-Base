@@ -1353,7 +1353,12 @@ Nice small city centre with historic centre in the middle of Czechia,
 stopped here driving between Prague and Wroclaw, Poland.
 
 - [Šatlava](https://maps.app.goo.gl/iiGzLtmv6Df7b4v99) - upmarket czech restaurants with no menu online (probably
-  because if you saw the prices you wouldn't come, ~25% more czech restaurants in the centre of Prague)
+  because if you saw the prices you wouldn't come, ~30% more than czech restaurants in the centre of Prague).
+  The mash was excellent, one of the few restaurants to rival my own,
+  but the Dutch schnitzel was reconstituted and not worth it, the cucumber tartare and red onion jam were not great
+  either - get the classic pork tenderloin schnitzel if you must.
+  Next time I would go with the beef rump steak or confit duck (apparently a sizeable portion).
+  42/10 Mbit/s wifi
 
 ### Cyprus
 
