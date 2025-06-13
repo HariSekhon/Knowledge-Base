@@ -157,11 +157,11 @@ You can use it via:
 2. Apps
 3. CLI
 
-I find that I generally get signficantly faster speed test results when:
+I find that I generally get significantly faster speed test results when:
 
-- using 5G networks:
-  - perhaps because of less wifi contention due to less clients on the 5G networks when most customers use the default
-2.4GHz network
+- using 5G wifi networks:
+  - perhaps due to less clients causing wifi contention since most customers are directed to use the default 2.4Hz
+    networks
 - running on Mac rather iPhone:
   - perhaps due to the stronger wifi card on my Macbook Pro
 
