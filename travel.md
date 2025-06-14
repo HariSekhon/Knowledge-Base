@@ -2188,7 +2188,8 @@ Good beaches, restaurants, and walkways.
 
 Pronounced Vrot-swaaf... not row-claw!
 
-- [Folgujemy]() - scrambled eggs 30pln, add the bacon (+6pln) and avocado (+8pln) = 44pln (£8.60). No wifi!!
+- [Folgujemy]() - scrambled eggs 30pln, add the bacon (+6pln) and avocado (+8pln) = 44pln (£8.60). Breakfast is only
+  available un 11:45 weekdays, but all day at weekends. No wifi!!
 
 #### Warsaw
 
