@@ -2195,6 +2195,8 @@ Pronounced Vrot-swaaf... not row-claw!
   The chicken soup with beef dumplings and vegetable strips was surprisingly good,
   a flavourful broth poured in front of me on the small beef dumplings,
   which were sold first beef, none of that spongey rubbish.
+  The duck with red cabbage with cranberries was very good too, coming with small potato cyclinders on a big plate with
+  drizzle sauce, it is fine dining over quantity.
   Waitress said they had bad wifi, and didn't know the wifi password
 
 #### Warsaw
