@@ -2197,6 +2197,8 @@ Pronounced Vrot-swaaf... not row-claw!
   which were sold first beef, none of that spongey rubbish.
   The duck with red cabbage with cranberries was very good too, coming with small potato cyclinders on a big plate with
   drizzle sauce, it is fine dining over quantity.
+  The lunch special of soup + main + dessert for 30 pln (£6) works out much cheaper than the evening menu,
+  perhaps why it was deserted, as the above two cost me 82 pln (£16), plus tip, without any drinks or dessert.
   Waitress said they had bad wifi, and didn't know the wifi password
 
 #### Warsaw
