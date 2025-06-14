@@ -2193,7 +2193,7 @@ Pronounced Vrot-swaaf... not row-claw!
 
 #### Warsaw
 
-Decent low pressure capital.
+Decent low pressure capital, but expensive already in terms of Airbnbs.
 
 One of my colleagues moved back to Warsaw as a contractor.
 
