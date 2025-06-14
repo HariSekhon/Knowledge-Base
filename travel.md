@@ -2184,6 +2184,12 @@ The most expensive area in Poland, near Gdansk.
 
 Good beaches, restaurants, and walkways.
 
+#### Wroclaw
+
+Pronounced Vrot-swaaf... not row-claw!
+
+- [Folgujemy]() - scrambled eggs 30pln, add the bacon (+6pln) and avocado (+8pln) = 44pln (£8.60). No wifi!!
+
 #### Warsaw
 
 Decent low pressure capital.
