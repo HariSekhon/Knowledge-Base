@@ -2188,18 +2188,21 @@ Good beaches, restaurants, and walkways.
 
 Pronounced Vrot-swaaf... not row-claw!
 
-- [Folgujemy]() - scrambled eggs 30pln, add the bacon (+6pln) and avocado (+8pln) = 44pln (£8.60). Breakfast is only
+- [Folgujemy](https://maps.app.goo.gl/8h5fb6W99gtENVcU7) - small gentrified bistro, the scrambled eggs were good (30pln)
+  , add the bacon (+6pln) and avocado (+8pln) = 44pln (£8.60). Breakfast is only
   available until 11:45 weekdays, but all day at weekends. No wifi!!
-- [Galicja]() - elegant restaurant, but was absolutely dead on a Saturday night, apparently due to some festival. It
-  also closes early.
+- [Wrocławski Rynek](https://maps.app.goo.gl/UY1nAXGukyFXJ1em6) - the historical town square with many restaurants
+- [Galicja](https://maps.app.goo.gl/BfjQfgReuiXgZYgR6) - elegant restaurant, but was absolutely dead on a Saturday
+  night, apparently due to some festival. It also closes early at 9pm.
   The chicken soup with beef dumplings and vegetable strips was surprisingly good,
-  a flavourful broth poured in front of me on the small beef dumplings,
-  which were sold first beef, none of that spongey rubbish.
-  The duck with red cabbage with cranberries was very good too, coming with small potato cyclinders on a big plate with
+  a flavourful broth poured in front of me on the small beef dumplings, which were solid first beef, none of that
+  spongey rubbish one often finds in dumplings.
+  The duck with red cabbage with cranberries was very good too, coming with small potato cylinders on a big plate with
   drizzle sauce, it is fine dining over quantity.
   The lunch special of soup + main + dessert for 30 pln (£6) works out much cheaper than the evening menu,
   perhaps why it was deserted, as the above two cost me 82 pln (£16), plus tip, without any drinks or dessert.
-  Waitress said they had bad wifi, and didn't know the wifi password
+  Waitress said they had bad wifi, and didn't know the wifi password.
+  Overall you might want to go with one of the lively places in the Wrocławski Rynek historical market square
 
 #### Warsaw
 
