@@ -2192,6 +2192,9 @@ Pronounced Vrot-swaaf... not row-claw!
   available until 11:45 weekdays, but all day at weekends. No wifi!!
 - [Galicja]() - elegant restaurant, but was absolutely dead on a Saturday night, apparently due to some festival. It
   also closes early.
+  The chicken soup with beef dumplings and vegetable strips was surprisingly good,
+  a flavourful broth poured in front of me on the small beef dumplings,
+  which were sold first beef, none of that spongey rubbish.
   Waitress said they had bad wifi, and didn't know the wifi password
 
 #### Warsaw
