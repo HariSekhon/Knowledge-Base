@@ -2198,7 +2198,7 @@ Decent low pressure capital, but expensive already in terms of Airbnbs.
 One of my colleagues moved back to Warsaw as a contractor.
 
 Warsaw airport is deserted after 11pm as there were no night flights, it is better than many other airports but it is
-not London Heathrow. This is also a big problem if you miss you transfer flight.
+not London Heathrow. This is also a big problem if you miss you transfer flight, as I did on the way to Tbilisi!
 
 ### Hungary
 
