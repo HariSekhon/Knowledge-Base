@@ -2190,6 +2190,9 @@ Pronounced Vrot-swaaf... not row-claw!
 
 - [Folgujemy]() - scrambled eggs 30pln, add the bacon (+6pln) and avocado (+8pln) = 44pln (£8.60). Breakfast is only
   available until 11:45 weekdays, but all day at weekends. No wifi!!
+- [Galicja]() - elegant restaurant, but was absolutely dead on a Saturday night, apparently due to some festival. It
+  also closes early.
+  Waitress said they had bad wifi, and didn't know the wifi password
 
 #### Warsaw
 
