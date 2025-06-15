@@ -2214,7 +2214,9 @@ Pronounced Vrot-swaaf... not row-claw!
 
 #### Warsaw
 
-Decent low pressure capital, but expensive already in terms of Airbnbs.
+Decent low pressure capital, but expensive already in terms of Airbnbs,
+and in the centre people will be trying to
+[entice you into strip clubs](https://medium.com/@harisekhon/salemanship-101-strip-clubs-1e2f4ed90296).
 
 One of my colleagues moved back to Warsaw as a contractor.
 
