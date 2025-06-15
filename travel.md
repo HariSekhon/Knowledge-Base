@@ -2166,7 +2166,7 @@ Medium sized city, mall and restaurants, but lacks the historical centre attract
 
 Nice small centre, good for a coffee stopover.
 
-[Sofi Len Cafe](https://www.instagram.com/sofilen_kawiarnia) is recommended here.
+- [Sofi Len Cafe](https://www.instagram.com/sofilen_kawiarnia)
 
 #### Poznan
 
