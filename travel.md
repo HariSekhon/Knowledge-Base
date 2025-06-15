@@ -2142,8 +2142,7 @@ He compared Uber like taxis apps when we went out.
 Gdansk has ferry connections to Sweden.
 There was zero border control coming off the ferry from Sweden to Gdansk, which surprised me.
 
-[Slaska 19](https://www.tripadvisor.com/Restaurant_Review-g274725-d13810673-Reviews-Slaska_19-Gdansk_Pomerania_Province_Northern_Poland.html)
-is a good restaurant away from the centre with an affordable weekday lunch menu and good wifi.
+- [Slaska 19](https://www.tripadvisor.com/Restaurant_Review-g274725-d13810673-Reviews-Slaska_19-Gdansk_Pomerania_Province_Northern_Poland.html) - good restaurant away from the centre with an affordable weekday lunch menu and good wifi
 
 #### Katowice
 
