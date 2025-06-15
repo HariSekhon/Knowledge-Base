@@ -2187,6 +2187,15 @@ Good beaches, restaurants, and walkways.
 
 Pronounced Vrot-swaaf... not row-claw!
 
+- [Pierogarnia Rynek 26](https://maps.app.goo.gl/9GRJGoTSKP2qz7eG7) - the best pierogi I ever had (polish dumplings).
+  They've taken something usually commodity and turned it into a delicacy.
+  The 6 x meat variety were good (I had them boiled,
+  you can have them baked too) were good and came with a perfect slightly sweet cream dip.
+  The 4 x sweet desert (boiled) with fruits and creams were even better, amazing, and came with a sweet dipping cream.
+  Excellent, I'd come back just for these.
+  The chef's special starter of peach wrapped in bacon was also very good, contrasting the sweet peach with the savory
+  and salty bacon, with cream drops on top, and sitting on a bed of arugula with balsamic drizzle - hit ones taste buds
+  from all sides!
 - [Folgujemy](https://maps.app.goo.gl/8h5fb6W99gtENVcU7) - small gentrified bistro, the scrambled eggs were good (30pln)
   , add the bacon (+6pln) and avocado (+8pln) = 44pln (£8.60). Breakfast is only
   available until 11:45 weekdays, but all day at weekends. No wifi!!
