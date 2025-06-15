@@ -151,6 +151,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Nowy Sącz](#nowy-sącz)
     - [Poznan](#poznan)
     - [Sopot](#sopot)
+    - [Wroclaw](#wroclaw)
     - [Warsaw](#warsaw)
   - [Hungary](#hungary)
     - [Avoid northern counties](#avoid-northern-counties)
@@ -2226,6 +2227,12 @@ not London Heathrow. This is also a big problem if you miss you transfer flight,
 - [Hato Sushi](https://maps.app.goo.gl/64ebeUXGC8A9iJ9MA) - catch the lunch menu if you can
 - [Warszawa Wschodnia](https://maps.app.goo.gl/F1f7ATy6Re3eYE4V9) - french and polish, pricey but good quality
 - [Złote Tarasy](https://maps.app.goo.gl/MKRDUTHwfyUFXaPT9) - central shopping mall
+
+TODO:
+
+- [Soul Kitchen](https://maps.app.goo.gl/Hv9o99jWHwBPRHhVA) - highly rated upmarket restaurant, but couldn't get in
+  here without a reservation
+- [Bułkę przez Bibułkę | Żurawia](https://maps.app.goo.gl/StZzWDg2bZofJ2fG7) - breakfast restaurant
 
 ### Hungary
 
