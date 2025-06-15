@@ -2191,8 +2191,8 @@ Pronounced Vrot-swaaf... not row-claw!
 - [Folgujemy](https://maps.app.goo.gl/8h5fb6W99gtENVcU7) - small gentrified bistro, the scrambled eggs were good (30pln)
   , add the bacon (+6pln) and avocado (+8pln) = 44pln (£8.60). Breakfast is only
   available until 11:45 weekdays, but all day at weekends. No wifi!!
-- [Restauracja Česká](https://maps.app.goo.gl/DhETuFck1MZ9MmQ48) - chain of two, the other being my favourite in Warsaw.
-  Get the classic traditional cesnecka garlic soup, and goulash
+- [Restauracja Česká](https://maps.app.goo.gl/DhETuFck1MZ9MmQ48) - czech restaurant, chain of two, the other being my
+  favourite in Warsaw. Get the classic traditional cesnecka garlic soup, and goulash
 - [Gniazdo](https://maps.app.goo.gl/ARvLXgYN6VLLLYxx7) - eggs benedict with bacon or avocado 38pln (£7.50).
   The bacon was streaky with fat throughout but was not well done as it should be if eating bacon fat.
   Go with the avocado instead of bacon if you want a healthy option.
@@ -2220,6 +2220,12 @@ One of my colleagues moved back to Warsaw as a contractor.
 
 Warsaw airport is deserted after 11pm as there were no night flights, it is better than many other airports but it is
 not London Heathrow. This is also a big problem if you miss you transfer flight, as I did on the way to Tbilisi!
+
+- [ČESKÁ beer restaurant](https://maps.app.goo.gl/h8kMmcnCpri5R1bv6) - czech restaurant, chain of two, the other being
+  my favourite in Wroclaw. Get the classic traditional cesnecka garlic soup, and goulash
+- [Hato Sushi](https://maps.app.goo.gl/64ebeUXGC8A9iJ9MA) - catch the lunch menu if you can
+- [Warszawa Wschodnia](https://maps.app.goo.gl/F1f7ATy6Re3eYE4V9) - french and polish, pricey but good quality
+- [Złote Tarasy](https://maps.app.goo.gl/MKRDUTHwfyUFXaPT9) - central shopping mall
 
 ### Hungary
 
