@@ -2191,7 +2191,7 @@ Pronounced Vrot-swaaf... not row-claw!
 - [Folgujemy](https://maps.app.goo.gl/8h5fb6W99gtENVcU7) - small gentrified bistro, the scrambled eggs were good (30pln)
   , add the bacon (+6pln) and avocado (+8pln) = 44pln (£8.60). Breakfast is only
   available until 11:45 weekdays, but all day at weekends. No wifi!!
-- [Gniazdo](https://maps.app.goo.gl/ARvLXgYN6VLLLYxx7) - eggs benedict 36pln (£7.50). 12/25 Mbit/s wifi
+- [Gniazdo](https://maps.app.goo.gl/ARvLXgYN6VLLLYxx7) - eggs benedict 38pln (£7.50). 12/25 Mbit/s wifi
 - [Wrocławski Rynek](https://maps.app.goo.gl/UY1nAXGukyFXJ1em6) - the historical town square with many restaurants
 - [Galicja](https://maps.app.goo.gl/BfjQfgReuiXgZYgR6) - elegant restaurant, but was absolutely dead on a Saturday
   night, apparently due to some festival. It also closes early at 9pm.
