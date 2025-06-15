@@ -2191,7 +2191,8 @@ Pronounced Vrot-swaaf... not row-claw!
   , add the bacon (+6pln) and avocado (+8pln) = 44pln (£8.60). Breakfast is only
   available until 11:45 weekdays, but all day at weekends. No wifi!!
 - [Restauracja Česká](https://maps.app.goo.gl/DhETuFck1MZ9MmQ48) - czech restaurant, chain of two, the other being my
-  favourite in Warsaw. Get the classic traditional cesnecka garlic soup, and goulash
+  favourite in Warsaw. This one has a great outdoor terrace on a main strip if you can get a table on it.
+  Get the classic traditional cesnecka garlic soup, and goulash
 - [Gniazdo](https://maps.app.goo.gl/ARvLXgYN6VLLLYxx7) - eggs benedict with bacon or avocado 38pln (£7.50).
   The bacon was streaky with fat throughout but was not well done as it should be if eating bacon fat.
   Go with the avocado instead of bacon if you want a healthy option.
