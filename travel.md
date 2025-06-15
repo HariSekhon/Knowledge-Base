@@ -2148,10 +2148,9 @@ There was zero border control coming off the ferry from Sweden to Gdansk, which 
 
 Surprisingly busy city with large central communal areas and nightlife.
 
-[Tatiana](https://www.restauracjatatiana.pl/) restaurant is recommended here.
-
-[Alahamora - magiczna kawiarnia](https://alahamora.pl/) is a cafe treat for Harry Potter fans.
-Unfortunately they have no wifi.
+- [Tatiana](https://maps.app.goo.gl/SPMj5Dqi9yBez8xv6) - decent restaurant
+- [Alahamora - magiczna kawiarnia](https://alahamora.pl/) - a cafe treat for Harry Potter fans.
+  Unfortunately they have no wifi.
 
 #### Krakow
 
