@@ -2232,7 +2232,7 @@ TODO:
 
 - [Soul Kitchen](https://maps.app.goo.gl/Hv9o99jWHwBPRHhVA) - highly rated upmarket restaurant, but couldn't get in
   here without a reservation
-- [Bułkę przez Bibułkę | Żurawia](https://maps.app.goo.gl/StZzWDg2bZofJ2fG7) - breakfast restaurant
+- [Bułkę przez Bibułkę](https://maps.app.goo.gl/StZzWDg2bZofJ2fG7) - breakfast restaurant
 
 ### Hungary
 
