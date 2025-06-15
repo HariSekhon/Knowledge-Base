@@ -2192,6 +2192,10 @@ Pronounced Vrot-swaaf... not row-claw!
   , add the bacon (+6pln) and avocado (+8pln) = 44pln (£8.60). Breakfast is only
   available until 11:45 weekdays, but all day at weekends. No wifi!!
 - [Gniazdo](https://maps.app.goo.gl/ARvLXgYN6VLLLYxx7) - eggs benedict with bacon or avocado 38pln (£7.50).
+  The bacon was streaky with fat throughout but was not well done as it should be if eating bacon fat.
+  Go with the avocado instead of bacon if you want a healthy option.
+  The hollandaise sauce was mild with some mustard grains but not a mustardy flavour
+  and the eggs were slightly overcooked so not runny.
   12/25 Mbit/s wifi
 - [Wrocławski Rynek](https://maps.app.goo.gl/UY1nAXGukyFXJ1em6) - the historical town square with many restaurants
 - [Galicja](https://maps.app.goo.gl/BfjQfgReuiXgZYgR6) - elegant restaurant, but was absolutely dead on a Saturday
