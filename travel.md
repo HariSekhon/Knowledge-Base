@@ -1544,6 +1544,8 @@ Coventry is a complete dump by comparison to Dresden.
   added extra sides of bush beans with nuts and Australian bush bread.
   The bush beans are just long green beans with red onion and macadamia nuts (which I love),
   the bush bread comes in wedges that look like if bread was a cake slice.
+  I could skip the beans, but the bush bread is worth it,
+  I used it to mop up all the cranberry sauce from the kangaroo steak.
   I blew €40 on just the food without drinks and before tip.
   But it was good.
   The burgers all look amazing too (apparently the best in town according to the waiter, and in this case I am not
