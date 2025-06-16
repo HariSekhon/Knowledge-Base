@@ -1542,7 +1542,12 @@ Coventry is a complete dump by comparison to Dresden.
   It was all amazing, totally worth it on all fronts.
   I could have eaten it twice in a row, and was still a bit hungry as it's a good sized plate but I hoovered it up, so
   added extra sides of bush beans with nuts and Australian bush bread.
-  The burgers all look amazing too,
+  The bush beans are just long green beans with red onion and macadamia nuts (which I love),
+  the bush bread comes in wedges that look like if bread was a cake slice.
+  I blew €40 on just the food without drinks and before tip.
+  But it was good.
+  The burgers all look amazing too (apparently the best in town according to the waiter, and in this case I am not
+  skeptical),
   and only while I was eating and still marvelling at the menu did I notice the triple steaks of beef,
   ostrich and kangaroo with mango-chili-chutney red-wine-honey-sauce, sweet mash and australian bush bread which I will
   definitely go with instead next time! (€33)
