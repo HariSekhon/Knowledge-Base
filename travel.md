@@ -1535,7 +1535,7 @@ Coventry is a complete dump by comparison to Dresden.
   The burgers all look amazing too,
   and only while I was eating and still marvelling at the menu did I notice the triple steaks of beef,
   ostrich and kangaroo with mango-chili-chutney red-wine-honey-sauce, sweet mash and australian bush bread which I will
-  definitely go with instead next time!
+  definitely go with instead next time! (€33)
   Wifi is open capture portal 7/10 Mbit/s
 
 TODO:
