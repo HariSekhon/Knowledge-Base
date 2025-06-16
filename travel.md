@@ -1523,6 +1523,8 @@ Large cathedral city with a selection of restaurants.
 Surprisingly nice, lots of historic architecture has survived the war, unlike Coventry
 (both cities were victims of war crime bombings by both sides in WWII to try to demoralize the other side).
 
+Coventry is a complete dump by comparison to Dresden.
+
 - [Ayers Rock](https://maps.app.goo.gl/3pSVvUWNEmTQL6Ev5) - Australian restaurant with excellent menu.
   Had to do the Kangaroo steak, which comes with glazed granny smith apple slices,
   cranberry cream sauce, roasted macademia nuts and country potatoes (€27).
