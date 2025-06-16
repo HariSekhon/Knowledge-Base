@@ -1526,9 +1526,11 @@ Surprisingly nice, lots of historic architecture has survived the war, unlike Co
 Coventry is a complete dump by comparison to Dresden.
 
 - [Ayers Rock](https://maps.app.goo.gl/3pSVvUWNEmTQL6Ev5) - Australian restaurant with excellent menu.
-  Had to do the Kangaroo steak, which comes with glazed granny smith apple slices,
-  cranberry cream sauce, roasted macademia nuts and country potatoes (€27).
+  Had to do the Kangaroo steak, which comes with glazed granny smith horizontal apple slices,
+  cranberry cream sauce, roasted macadamia nuts and country potatoes (€27).
   This kangaroo steak diverted me as I was on my way to Kutscherschänke - Uriges Wirtshau next door!
+  The Kangaroo steak was slim and slighly gamey, drowned in cranberry cream sauce, which looks like a red wine sauce.
+  The "country potatoes" are just crispy wedges.
   Wifi is open capture portal 7/10 Mbit/s
 
 TODO:
