@@ -1542,7 +1542,7 @@ Coventry is a complete dump by comparison to Dresden.
   It was all amazing, totally worth it on all fronts.
   I could have eaten it twice in a row, and was still a bit hungry as it's a good sized plate but I hoovered it up, so
   added extra sides of bush beans with nuts and Australian bush bread.
-  The bush beans are just long green beans with red onion and macadamia nuts (which I love),
+  The bush beans are just long green beans with herbs, red onion and macadamia nuts (which I love),
   the bush bread comes in wedges that look like if bread was a cake slice.
   I could skip the beans, but the bush bread is worth it,
   I used it to mop up all the cranberry sauce from the kangaroo steak.
