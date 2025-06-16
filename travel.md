@@ -14,8 +14,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Transfer Flight Timings](#transfer-flight-timings)
     - [Self Transfer](#self-transfer)
     - [Change Airport](#change-airport)
-- [Hotels vs Airbnb](#hotels-vs-airbnb)
-  - [Hotel & Airbnb - Parking](#hotel--airbnb---parking)
+- [Hotels vs Hostels vs Airbnb](#hotels-vs-hostels-vs-airbnb)
+  - [Hotel, Hostel & Airbnb - Parking](#hotel-hostel--airbnb---parking)
   - [Hotel & Airbnb - Internet](#hotel--airbnb---internet)
 - [Wifi](#wifi)
   - [Wifi Hotels](#wifi-hotels)
@@ -361,7 +361,12 @@ and this makes it even more likely that you'll miss a connecting flight.
 
 It's even worse than the `Self Transfer`.
 
-## Hotels vs Airbnb
+## Hotels vs Hostels vs Airbnb
+
+**If you're travelling alone, don't waste your time & money on Hotels or Airbnbs, use hostels, they're more social and**
+**1/3 of the price.
+Save your money and spend it on good food in restaurants instead.
+Hostels have lockers for your valuables like laptops (you may want to take your own stronger padlock).**
 
 Hotels and [Airbnb](https://airbnb.com) vary as to which one is cheaper by location.
 
@@ -380,7 +385,7 @@ I have have private hosts cancel my accommodations the day before or even the sa
 
 It's annoying to be booking at the last minute because you'll get the least good places for the most expensive prices.
 
-### Hotel & Airbnb - Parking
+### Hotel, Hostel & Airbnb - Parking
 
 If driving, make sure to double check parking at hotels or Airbnbs.
 
@@ -393,6 +398,9 @@ When driving, I often prefer booking places a bit away from the centers to get e
 accomodations, both hotels and airbnbs lack good parking.
 
 Also, if you're only going into the centres in the evenings, often you can get cheap or even free parking.
+
+Hostels are usually more central and have no parking, so that's an extra challenge to find external parking locations if
+driving, such as my European Summer Road Trip Tours.
 
 ### Hotel & Airbnb - Internet
 
