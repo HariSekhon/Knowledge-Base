@@ -1531,6 +1531,11 @@ Coventry is a complete dump by comparison to Dresden.
   This kangaroo steak diverted me as I was on my way to Kutscherschänke - Uriges Wirtshau next door!
   The Kangaroo steak was slim and slighly gamey, drowned in cranberry cream sauce, which looks like a red wine sauce.
   The "country potatoes" are just crispy wedges.
+  It was all amazing, totally worth it on all fronts.
+  The burgers all look amazing too,
+  and only while I was eating and still marvelling at the menu did I notice the triple steaks of beef,
+  ostrich and kangaroo with mango-chili-chutney red-wine-honey-sauce, sweet mash and australian bush bread which I will
+  definitely go with instead next time!
   Wifi is open capture portal 7/10 Mbit/s
 
 TODO:
