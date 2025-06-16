@@ -102,6 +102,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Berlin](#berlin)
     - [Brandenburg](#brandenburg)
     - [Cologne](#cologne)
+    - [Dresden](#dresden)
     - [Dusseldorf](#dusseldorf)
     - [Essen](#essen)
     - [Frankfurt](#frankfurt)
@@ -1477,6 +1478,7 @@ So you can't connect your laptop to the airport wifi, only your phone.
 - [Berlin](#berlin)
 - [Brandenburg](#brandenburg)
 - [Cologne](#cologne)
+- [Dresden](#dresden)
 - [Dusseldorf](#dusseldorf)
 - [Essen](#essen)
 - [Frankfurt](#frankfurt)
@@ -1515,6 +1517,22 @@ A small town to the West of Berlin with some old gothic buildings, a good place 
 Large cathedral city with a selection of restaurants.
 
 [Fräulein Herborths](https://www.fraeuleinherborths.de/) is recommended here.
+
+#### Dresden
+
+Surprisingly nice, lots of historic architecture has survived the war, unlike Coventry
+(both cities were victims of war crime bombings by both sides in WWII to try to demoralize the other side).
+
+- [Ayers Rock](https://maps.app.goo.gl/3pSVvUWNEmTQL6Ev5) - Australian restaurant with excellent menu.
+  Had to do the Kangaroo steak, which comes with glazed granny smith apple slices,
+  cranberry cream sauce, roasted macademia nuts and country potatoes (€27).
+  This kangaroo steak diverted me as I was on my way to Kutscherschänke - Uriges Wirtshau next door!
+  Wifi is open capture portal 7/10 Mbit/s
+
+TODO:
+
+- [Kutscherschänke - Uriges Wirtshau](https://maps.app.goo.gl/pLfTUqNTBhoSBjwY6) - go for the Saxon black beer meat of
+  beef with onions, red cabbage and homemade pretzel dumplings
 
 #### Dusseldorf
 
