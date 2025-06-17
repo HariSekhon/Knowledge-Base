@@ -1563,6 +1563,7 @@ Coventry is a complete dump by comparison to Dresden.
   The eggs benedict with smoked salmon was ok quality but small for €17!
   European prices suck.
   The bread also wasn't as good as the usual gentrified cafe sourdough.
+  You might want to just get a drink here
 
 TODO:
 
