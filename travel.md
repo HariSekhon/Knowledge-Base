@@ -1280,7 +1280,8 @@ You will hear American accents often in Prague, it is this tourism that has caus
   The desserts look amazing too, but I was so stuff I just went with the acai banana sorbet and pina colada ice cream.
   This is a must-return-to place.
   I ended spending over 800 kc (£30) for one without alcohol, which is expensive for Prague,
-  but this is an experience place, girls are taking pics all over the illuminated upper steps
+  but this is an experience place, girls are taking pics all over the illuminated upper steps.
+  I can't believe it only opened March 2025 given how popular it is, and out of the way.
   Wifi is slow at 1 Mbit/s but people come here to socialize so probably nobody notices
 - [Kozlovna U Paukerta](https://maps.app.goo.gl/x7ybwqKLophZyA9e6) - good menu, surprisingly good svitchkova (beef in
   cream sauce with cranberries) and Karlovy Vary dumplings, which are like Carlsbad dumplings, pieces of bread glued
