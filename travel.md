@@ -1267,9 +1267,9 @@ You may want to consider staying in a hostel here just due to the prices.
 
 You will hear American accents often in Prague, it is this tourism that has caused the somewhat high prices.
 
-- [Mexicka](https://maps.app.goo.gl/VSyN7FP2htPcRWPc7) - further out in Prague 7, this is an unexpected hidden gem in an
-  otherwise quiet neighbourhood. It's a large venue, packed out even on a Tuesday night, amazing for food and drinks,
-  with 2 levels of tables and a bar upstairs.
+- [Mexicka](https://maps.app.goo.gl/VSyN7FP2htPcRWPc7) - the best mexican I ever remember having, modern and vibrant,
+  this is an unexpected hidden gem further out in Prague 7, an otherwise quiet neighbourhood. It's a large venue, packed
+  out even on a Tuesday night, amazing for food and drinks, with 2 levels of tables and a bar upstairs.
   People reserve here. It thins out at 10pm as that is when the kitchen closes.
   This place is so good it's reminded me to Mexico.
   4 dishes nearly killed me, but they were worth it.
