@@ -1267,6 +1267,11 @@ You may want to consider staying in a hostel here just due to the prices.
 
 You will hear American accents often in Prague, it is this tourism that has caused the somewhat high prices.
 
+- [Mexicka](https://maps.app.goo.gl/VSyN7FP2htPcRWPc7) - further out in Prague 7, this is an unexpected hidden gem in an
+  otherwise quiet neighbourhood. It's a large venue, packed out even on a Tuesday night, amazing for food and drinks,
+  with 2 levels of tables and a bar upstairs. People reserve here.
+  This place is so good it's reminded me to Mexico.
+  Wifi is slow at 1 Mbit/s but people come here to socialize so probably nobody notices
 - [Kozlovna U Paukerta](https://maps.app.goo.gl/x7ybwqKLophZyA9e6) - good menu, surprisingly good svitchkova (beef in
   cream sauce with cranberries) and Karlovy Vary dumplings, which are like Carlsbad dumplings, pieces of bread glued
   together with egg. Prices are a little on the moderately high side due to the fairly prime location on main road by
