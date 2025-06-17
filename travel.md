@@ -1558,11 +1558,17 @@ Coventry is a complete dump by comparison to Dresden.
   Sirloin steak but why settle for something so common when you have this menu
   (although it does come with Tasmanian mountain pepper butter).
   Wifi is open capture portal 7/10 Mbit/s
+- [Wilma Wunder Dresden](https://maps.app.goo.gl/dQytPtuNovsXJ39a9) - tourist trap restaurant chain but has a good
+  seating and view of the Altmarkt square. Stopped here in a pinch since my first choice Rauschenbach deli was closed.
+  The eggs benedict with smoked salmon was ok quality but small for €17!
+  European prices suck.
+  The bread also wasn't as good as the usual gentrified cafe sourdough.
 
 TODO:
 
 - [Kutscherschänke - Uriges Wirtshau](https://maps.app.goo.gl/pLfTUqNTBhoSBjwY6) - go for the Saxon black beer meat of
   beef with onions, red cabbage and homemade pretzel dumplings
+- [Rauschenbach deli](https://maps.app.goo.gl/SQHHhKqAcSyrMnYd8) - was closed for the week but not updated on Google Maps
 
 #### Dusseldorf
 
