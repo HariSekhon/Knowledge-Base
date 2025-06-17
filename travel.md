@@ -1271,7 +1271,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
   this is an unexpected hidden gem further out in Prague 7, an otherwise quiet neighbourhood. It's a large venue, packed
   out even on a Tuesday night, amazing for food and drinks, with 2 levels of tables and a bar upstairs.
   People reserve here. It thins out at 10pm as that is when the kitchen closes.
-  This place is so good it's reminded me to Mexico.
+  This place is so good it's reminded me I need to go to Mexico.
   4 dishes nearly killed me, but they were worth it.
   The tortilla chips were very good and served with a large amount of guacamole (pro tip: ask for salsa and lime).
   The prawn tortilla was smaller than expected but tasted amazing.
