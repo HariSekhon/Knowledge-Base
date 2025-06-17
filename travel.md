@@ -1269,7 +1269,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
 
 - [Mexicka](https://maps.app.goo.gl/VSyN7FP2htPcRWPc7) - the best mexican I ever remember having, modern and vibrant,
   this is an unexpected hidden gem further out in Prague 7, an otherwise quiet neighbourhood. It's a large venue, packed
-  out even on a Tuesday night, amazing for food and drinks, with 2 levels of tables and a bar upstairs.
+  out even on a Tuesday night, amazing for food and drinks, with 3 levels of tables and a bar on the middle floor.
   People reserve here. It thins out at 10pm as that is when the kitchen closes.
   This place is so good it's reminded me I need to go to Mexico.
   4 dishes nearly killed me, but they were worth it.
@@ -1279,6 +1279,8 @@ You will hear American accents often in Prague, it is this tourism that has caus
   order the rice and beans side to soak up all the sauce.
   The desserts look amazing too, but I was so stuff I just went with the acai banana sorbet and pina colada ice cream.
   This is a must-return-to place.
+  I ended spending 800 kc (£30) without alcohol,
+  but this is an experience place, girls are taking pics all over the illuminated upper steps
   Wifi is slow at 1 Mbit/s but people come here to socialize so probably nobody notices
 - [Kozlovna U Paukerta](https://maps.app.goo.gl/x7ybwqKLophZyA9e6) - good menu, surprisingly good svitchkova (beef in
   cream sauce with cranberries) and Karlovy Vary dumplings, which are like Carlsbad dumplings, pieces of bread glued
