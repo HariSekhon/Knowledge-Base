@@ -236,6 +236,7 @@ Idea to app in seconds.
 - [Relevance AI](https://relevanceai.com/)
 - [GenSpark](https://www.genspark.ai/)
 - [Manus](https://manus.im/)
+- [MKStack](https://mkstack.xyz) - build Nostr apps from prompt
 
 ## Coding
 
