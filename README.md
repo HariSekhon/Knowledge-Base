@@ -135,10 +135,13 @@ References to official docs and some classic books are provided for those who wa
 
 ## Travel Notes Touring the World as a Consultant and Tourist
 
-- [Travel](travel.md) - my notes from travelling the world extensively both for work, consulting, and as a tourist.
-  Covers my favourite restaurants, tips on flights, accommodation, internet access,
-  visas, driving around Europe on road trips each summer, and various other travel tips with details on many countries
-  and cities from my travels...
+- [Travel](travel.md) - tips from travelling the world extensively for work consulting and as a tourist:
+  - my favourite restaurants
+  - flights & accommodation
+  - mobile internet access & e-sim providers
+  - visas
+  - driving around Europe on road trips each summer
+  - various other travel tips per country and city
 
 ## GitHub Repos
 
