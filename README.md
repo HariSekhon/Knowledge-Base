@@ -116,6 +116,7 @@ References to official docs and some classic books are provided for those who wa
   - [Vendors](#vendors)
   - [Multimedia](#multimedia)
   - [Marketing](#marketing)
+  - [Crypto](#crypto)
   - [Old Docs](#old-docs)
 - [Star History](#star-history)
 - [Memes](#memes)
@@ -731,8 +732,6 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 - [Marketing](marketing.md)
 
-<!--
-
 ### Crypto
 
 This section is probably the most financially important thing you'll ever learn.
@@ -741,13 +740,11 @@ This section is probably the most financially important thing you'll ever learn.
   - more financially beneficial than your Tech knowledge
   - the most important knowledge along with avoiding
   [feminist divorce law](https://www.amazon.co.uk/Men-Strike-Boycotting-Marriage-Fatherhood/dp/1594037620/)
-- [Crypto](crypto.md)
+- [Crypto](crypto.md) - TODO
   - every day you're not in crypto you're losing money due to constant inflationary money printing by central banks and
   governments to fund budgetary deficits caused by universal suffrage spending liabilities
   - even many investments, which are also taxed and often confiscated by governments or ex-wives, are losing ground to
   inflation in real terms
-
--->
 
 ### Old Docs
 
