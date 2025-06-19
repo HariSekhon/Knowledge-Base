@@ -21,3 +21,9 @@ You can trigger
 saving a snapshot of a webpage to the internet archive for later reference in case the website goes offline here:
 
 <https://archive.is/>
+
+## Email
+
+- [Proton Mail](https://proton.me/mail) - encrypted email service based in Switzerland, not even Proton can read your
+  emails, unlike GMail, Outlook, Yahoo
+- [GMail](https://gmail.com)
