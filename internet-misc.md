@@ -4,6 +4,7 @@
 
 - [The Internet Archive](#the-internet-archive)
 - [Save a Snapshot of a Web Page to the Internet Archive](#save-a-snapshot-of-a-web-page-to-the-internet-archive)
+- [Email](#email)
 
 <!-- INDEX_END -->
 
