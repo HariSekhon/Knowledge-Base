@@ -1329,6 +1329,8 @@ You will hear American accents often in Prague, it is this tourism that has caus
   more granola and little fruit by comparison, and the acai smoothie is watered down pink instead of purple. You get
   what you pay for. I would rather pay more for a better acai bowl at the above place. 5/3 Mbit/s wifi unreliable
   outside
+- [Goodie Store & Café](https://maps.app.goo.gl/tAhdR1NS7C9FGE7C9) - convenient location only 2 blocks east of Muzeum,
+  but the acai bowl is diluted and not pure, and for 235kc it's much better to go to ACAI POKE above
 - [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road in a central area, so less of a tourist
   trap, but it was still full, I had to wait for a table.
   The wild boar with mashed potatoes was good, although portion size could have been bigger and the onion jam was a bit
