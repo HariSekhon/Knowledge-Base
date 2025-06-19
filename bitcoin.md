@@ -133,6 +133,8 @@ See your Bitcoin transaction in the ledger queue.
 
 <https://blockstream.info/>
 
+<https://satscribe.chema.me/> - enter a TXID to get an AI powered explanation of it
+
 ## Buy Giftcards Using Bitcoin
 
 <https://www.bitrefill.com/ae/en/>
