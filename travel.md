@@ -1297,6 +1297,11 @@ You will hear American accents often in Prague, it is this tourism that has caus
   bridge than some other places and being mostly tourists (eg. they don't have cesnecka like quite a few restaurants
   here because tourists don't know to ask for it, and the duck with red cabbage and dumplings is cheaper and twice the
   grams at Restaurace U Šumavy). 92/103 Mbit/s wifi
+- [Lokál Nad Stromovkou](https://maps.app.goo.gl/vmcAsymPABEa7Yzz5) - popular pub restaurant with some outdoor seating
+  and dog friendly as a lot of people from the Královská obora Stromovka park seem to come here, it was practically a
+  dog convention outside.
+  The pork with roasted potatoes came with a good slab of pork,
+  good sauce and was better than expected, although lacking a vegetable to complete the plate
 - [Husinec restaurace](https://maps.app.goo.gl/DRHXfpx8wCBD2tXG9) - lovely outdoor seating at the back, good menu
   (although no cesnecka soup unless it's soup of the day, which was Friday when I was there).
   Moderately touristy prices eg.
