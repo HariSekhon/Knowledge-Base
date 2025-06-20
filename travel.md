@@ -1300,7 +1300,8 @@ You will hear American accents often in Prague, it is this tourism that has caus
 - [Lokál Nad Stromovkou](https://maps.app.goo.gl/vmcAsymPABEa7Yzz5) - popular pub restaurant with some outdoor seating
   and dog friendly as a lot of people from the Královská obora Stromovka park seem to come here, it was practically a
   dog convention outside.
-  The pork with roasted potatoes came with a good slab of pork,
+  The pork with roasted potatoes is a speciality of this restaurant
+  and came with a good sized slab of high quality lean pork,
   good sauce and was better than expected, although lacking a vegetable to complete the plate
 - [Husinec restaurace](https://maps.app.goo.gl/DRHXfpx8wCBD2tXG9) - lovely outdoor seating at the back, good menu
   (although no cesnecka soup unless it's soup of the day, which was Friday when I was there).
