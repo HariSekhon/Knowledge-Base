@@ -1289,8 +1289,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
 - [Letenský zámeček a zahrádky na Letné](https://maps.app.goo.gl/beYT7M4wuV8dYhqt6) - upmarket beer garden restaurant at
   the top plateau of Letna Park with a good view and good menu. The beef rump steak with asparagus and potato fontain
   was good, the pea and spinach cream soup was also good and the chocolate cake with crushed pistachio centre was
-  indulgently rich.
-  They also give bread with balsamic vinegar dip.
+  indulgently rich. They also give bread with balsamic vinegar dip.
   Overall a bit pricey, I spent nearly £25 without a drink and before tip
 - [Kozlovna U Paukerta](https://maps.app.goo.gl/x7ybwqKLophZyA9e6) - good menu, surprisingly good svitchkova (beef in
   cream sauce with cranberries) and Karlovy Vary dumplings, which are like Carlsbad dumplings, pieces of bread glued
