@@ -1283,6 +1283,9 @@ You will hear American accents often in Prague, it is this tourism that has caus
   but this is an experience place, girls are taking pics all over the illuminated upper steps.
   I can't believe it only opened 3 months prior in March 2025 given how popular it is, and out of the way.
   Wifi is slow at 1 Mbit/s but people come here to socialize so probably nobody notices
+- [ACAI POKE superfood & espresso bar](https://maps.app.goo.gl/GTMiCCFtRGxyHFSh8) - brazilian lime poke bowl with mango,
+  apple, berries and yoghurt was good (the berries were frozen though), 260kc (£9).
+  Bit of a walk from the centre to Prague 2 Žižkov for it though. 81/40 Mbit/s wifi
 - [Kozlovna U Paukerta](https://maps.app.goo.gl/x7ybwqKLophZyA9e6) - good menu, surprisingly good svitchkova (beef in
   cream sauce with cranberries) and Karlovy Vary dumplings, which are like Carlsbad dumplings, pieces of bread glued
   together with egg. Prices are a little on the moderately high side due to the fairly prime location on main road by
@@ -1301,8 +1304,6 @@ You will hear American accents often in Prague, it is this tourism that has caus
   (kitchen closes at 2:30pm).
   Eggs benedict was moderately priced at 240kc (£8) and good, with a good small vinaigrette side leaf salad.
   6/13 Mbit/s wifi
-- [Coffee Factory](https://maps.app.goo.gl/rENuDDfPFsXg74TLA) - good menu, but western prices,
-  as they are used to foreigners. Eggs benedict is 250kc (~£9). 46/33 Mbit/s wifi
 - [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
   the food!
   The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
@@ -1316,15 +1317,14 @@ You will hear American accents often in Prague, it is this tourism that has caus
 - [Sweet & Pepper Days](https://maps.app.goo.gl/cWsk4zTSLVPon3Yo7) - good eggs benedict on a homemade flatbread with bok
   choi in a tasty asian-style sauce, but a bit pricey at 330kc, and 105kc for chai latte, golden milk latte or beetroot
   cocoa late, compared to 90kc at the adjacent place. Main and 2 drinks came to 540kc (£18) which is pricey for here
+- [Coffee Factory](https://maps.app.goo.gl/rENuDDfPFsXg74TLA) - good menu, but western prices,
+  as they are used to foreigners. Eggs benedict is 250kc (~£9). 46/33 Mbit/s wifi
 - [ô-mai Coffee & Brunch](https://maps.app.goo.gl/eWNBWQU6C58PqGJv8) - a little south of the gentrified coffee shop
   boulevard of the places above, but eggs benedict is slightly more reasonably priced at 260kc.
   However, I didn't like the eggs benedict here due to the sriracha sauce and sweet brioche buns,
   it just didn't work for me, you may feel differently.
   I decided to give this place a second go and went with a normal scrambled eggs, which was also cheaper at 170kc and a
   better choice IMO. 80/40 Mbit/s wifi
-- [ACAI POKE superfood & espresso bar](https://maps.app.goo.gl/GTMiCCFtRGxyHFSh8) - brazilian lime poke bowl with mango,
-  apple, berries and yoghurt was good (the berries were frozen though), 260kc (£9).
-  Bit of a walk from the centre to Prague 2 Žižkov for it though. 81/40 Mbit/s wifi
 - [The Bowls](https://maps.app.goo.gl/voc7pfFujH2phCHh8) - cheaper acai bowls than above, only 170kc (£5.80), but has
   more granola and little fruit by comparison, and the acai smoothie is watered down pink instead of purple. You get
   what you pay for. I would rather pay more for a better acai bowl at the above place. 5/3 Mbit/s wifi unreliable
