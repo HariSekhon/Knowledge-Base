@@ -1316,7 +1316,8 @@ You will hear American accents often in Prague, it is this tourism that has caus
 - [Restaurace U Pinkasů](https://maps.app.goo.gl/sxSUhiZSN4W9MM1a9) - surprisingly decent for a central commercial
   location. Legit beef goulash and dumplings with good sauce and a sweet pepper, although only 150g of beef.
   Many locals drink and eat here, there is a good beer garden at the back running along a historic old church for a nice
-  setting experience
+  setting experience. Kitchen closes at 9pm and until 9:15pm they only serve 3 traditional czech dishes.
+  The goulash came suspiciously fast, they must have a pot simmering ready to go, but it was still decent
 - [Husinec restaurace](https://maps.app.goo.gl/DRHXfpx8wCBD2tXG9) - lovely outdoor seating at the back, good menu
   (although no cesnecka soup unless it's soup of the day, which was Friday when I was there).
   Moderately touristy prices eg.
