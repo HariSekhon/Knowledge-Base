@@ -127,6 +127,11 @@ Why does the performance degrade after one query?
 
 ## Speech to Text
 
+### Wordly.ai
+
+<https://attend.wordly.ai> - I found out about this by a guy sitting next to me getting a real-time translation at
+BTC Prague 2025.
+
 ### Otter.ai
 
 <https://otter.ai/>
