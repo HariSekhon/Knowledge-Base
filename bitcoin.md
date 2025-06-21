@@ -125,7 +125,13 @@ as this allows your Bitcoin holdings and transfers to be tracked by governments 
 
 Avoid KYC interrogation bullshit, it's your money, you earnt it, you shouldn't have to answer questions about it.
 
-Live free, don't answer to banks or governments about your own money.
+When stupid banks ask me where I got my money, I just tell them:
+
+_"I'm a drug dealer. What do you think, I earnt it the hard way otherwise there'd be more of it"._
+
+Stupid question deserves a stupid answer.
+
+Live free, don't answer to banks or governments about your own money by avoiding KYC entities entirely.
 
 ### OTC
 
