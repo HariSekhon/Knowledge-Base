@@ -1313,6 +1313,10 @@ You will hear American accents often in Prague, it is this tourism that has caus
   The pork with roasted potatoes is a speciality of this restaurant
   and came with a good sized slab of high quality lean pork,
   good sauce and was better than expected, although lacking a vegetable to complete the plate
+- [Restaurace U Pinkasů](https://maps.app.goo.gl/sxSUhiZSN4W9MM1a9) - surprisingly decent for a central commercial
+  location. Legit beef goulash and dumplings with good sauce and a sweet pepper, although only 150g of beef.
+  Many locals drink and eat here, there is a good beer garden at the back running along a historic old church for a nice
+  setting experience
 - [Husinec restaurace](https://maps.app.goo.gl/DRHXfpx8wCBD2tXG9) - lovely outdoor seating at the back, good menu
   (although no cesnecka soup unless it's soup of the day, which was Friday when I was there).
   Moderately touristy prices eg.
