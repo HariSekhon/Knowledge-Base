@@ -514,6 +514,16 @@ under the e-sim settings otherwise the internet won't connect.
 - [Holafly](https://esim.holafly.com/) - offers unlimited data but very expensive, usually not worth it given you typically don't use more
   than 1-3GB unless you're watching lots of videos on 4G instead of hotel wifi
 
+<!-- -->
+
+- [Silent.link](https://silent.link) - Pay-as-you-Go prepaid, anonymous (no KYC, no name or even email),
+  pay in [Bitcoin](bitcoin.md) or other [Crypto](crypto.md), account balance doesn't expire,
+  but the per GB data rates are higher, priced in USD, and can vary quite substantially even within the same country eg.
+  in Thailand it may be \$1.32 on a couple networks and then over \$7 on the True Thailand network.
+  The e-sims above usually work out cheaper.
+  Get Silent Link as a backup non-expiring balance in case the airport wifi doesn't work to get your e-sim above set up
+  or the e-sim loses reception provider and you need GPS for navigation or emergencies
+
 ### International Calls using VoIP over the Internet
 
 Because banks and other legacy providers will force you to call them, you can use one of these services:
