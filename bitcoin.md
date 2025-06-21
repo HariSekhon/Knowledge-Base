@@ -107,7 +107,7 @@ See the [Crypto](crypto.md) page for a list of hardware wallets.
 ## Buy Bitcoin
 
 - Exchanges:
-  - usually requires Know Your Customer (KYC) for regulatory compliance eg. ZapoBank or the exchanges listed on the
+  - usually requires Know Your Customer (KYC) for regulatory compliance eg. XapoBank or the exchanges listed on the
     [Crypto](crypto.md) page
 - Peer-to-Peer (P2P):
   - marketplaces eg. [HodlHodl](https://hodlhodl.com/), Vexl
