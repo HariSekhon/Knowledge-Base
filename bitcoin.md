@@ -106,6 +106,14 @@ See the [Crypto](crypto.md) page for a list of hardware wallets.
 
 ## Buy Bitcoin
 
+- Exchanges:
+  - usually requires Know Your Customer (KYC) for regulatory compliance eg. ZapoBank or the exchanges listed on the
+    [Crypto](crypto.md) page
+- Peer-to-Peer (P2P):
+  - marketplaces eg. [HodlHodl](https://hodlhodl.com/), Vexl
+  - buying from individuals who already have Bitcoin eg. friends you meet at conferences, meetups
+  - Bitcoin ATMs (usually max $1000 limit)
+
 You may want to avoid buying Bitcoin on regulated Exchanges which have KYC (Know Your Customer)
 as this allows your Bitcoin holdings and transfers to be tracked by governments and other actors.
 
@@ -118,8 +126,6 @@ as this allows your Bitcoin holdings and transfers to be tracked by governments 
 Avoid KYC interrogation bullshit, it's your money, you earnt it, you shouldn't have to answer questions about it.
 
 Live free, don't answer to banks or governments about your own money.
-
-<https://hodlhodl.com/>
 
 ### OTC
 
