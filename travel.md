@@ -516,7 +516,7 @@ under the e-sim settings otherwise the internet won't connect.
 
 <!-- -->
 
-- [Silent.link](https://silent.link) - Pay-as-you-Go prepaid, anonymous (no KYC, no name or even email),
+- [Silent.link](https://silent.link) - Pay-as-You-Go prepaid, anonymous (no KYC, no name or even email),
   pay in [Bitcoin](bitcoin.md) or other [Crypto](crypto.md), account balance doesn't expire,
   but the per GB data rates are higher, priced in USD, and can vary quite substantially even within the same country eg.
   in Thailand it may be \$1.32 on a couple networks and then over \$7 on the True Thailand network.
