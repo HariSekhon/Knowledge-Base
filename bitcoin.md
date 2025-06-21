@@ -133,9 +133,10 @@ Stupid question deserves a stupid answer.
 
 This is of course amusing to me because I am a brown skinhead looking trouble maker
 and would have been a better drug dealer than most people.
-Alas, I'm an engineer instead. While I like to joke about this, in reality see Breaking Bad Season 2 Episode 6
-(Peekaboo) - the consequences of drugs on families and especially children is unforgivable, so no, I wouldn't actually
-want to be a drug dealer.
+Alas, I'm an engineer instead.
+
+While I like to joke about this, in reality see Breaking Bad Season 2 Episode 6 (Peekaboo) - the consequences of drugs
+on families and especially children is unforgivable, so no, I wouldn't actually want to be a drug dealer.
 
 Live free, don't answer to banks or governments about your own money by avoiding KYC entities entirely.
 
