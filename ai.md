@@ -20,6 +20,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
     - [Ollama](#ollama)
 - [Text to Speech](#text-to-speech)
 - [Speech to Text](#speech-to-text)
+  - [Wordly.ai](#wordlyai)
   - [Otter.ai](#otterai)
   - [OpenAI Whisper](#openai-whisper)
     - [OpenAI Whisper Install](#openai-whisper-install)
