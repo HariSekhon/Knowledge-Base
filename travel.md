@@ -1377,6 +1377,12 @@ You will hear American accents often in Prague, it is this tourism that has caus
   with mushroom was ok, need to try their goulash
 - [Palladium](https://maps.app.goo.gl/Hgs1KqvtPVcFec9J6) - central shopping mall with the usual brands
 
+<!-- -->
+
+- Prague Airport - the food court restaurant is surprisingly reasonably priced and 34kc for a bottle of water is better
+  than 50kc at the vending machines in the main terminal lounges. Even Airport Parking C is damn expensive,
+  1400kc for 24 hours, 1800 for 2 days. Arrange a nearby parking next time
+
 TODO:
 
 - [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
