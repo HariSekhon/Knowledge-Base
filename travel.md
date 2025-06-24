@@ -1294,9 +1294,14 @@ You will hear American accents often in Prague, it is this tourism that has caus
   I can't believe it only opened 3 months prior in March 2025 given how popular it is, and out of the way.
   Wifi is slow at 1 Mbit/s but people come here to socialize so probably nobody notices
 - [Hostinec U Jendy](https://maps.app.goo.gl/uM2wRo2ChYDTtuMc8) - a bit south out of the main tourist areas, legit local
-  place, decent prices, the waitress didn't speak English though, and brought me the wrong dish (the goats cheese salad,
-  which also looked great, instead of the horseradish mustard sausage). The cesneckna soup was good, but nothing
-  special (still hunting for best cesnecka). Wifi 24/8 Mbit/s
+  place, decent prices, authentic food - this is where locals come to eat and drink.
+  The waitress didn't speak English though, and brought me the wrong dish (the goats cheese salad,
+  which also looked great, instead of the horseradish mustard sausage).
+  The garlic soup (cesneckna) was decent, but nothing special and typically small (still hunting for best cesnecka).
+  The sausage with horseradish and mustard (klobasa s krenemska horcice) is a classic czech staple,
+  just don't eat it too often as processed meat increases your risk of cancer.
+  The sirloin beef in sauce is actually svickova (in cream sauce) with legit bread dumplings (houskove knedliky) and a
+  little cranberry and cream. Wifi 24/8 Mbit/s
 - [ACAI POKE superfood & espresso bar](https://maps.app.goo.gl/GTMiCCFtRGxyHFSh8) - brazilian lime poke bowl with mango,
   apple, berries and yoghurt was good (the berries were frozen though), 260kc (£9).
   Bit of a walk from the centre to Prague 2 Žižkov for it though. 81/40 Mbit/s wifi
