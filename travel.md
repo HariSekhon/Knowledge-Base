@@ -1297,11 +1297,12 @@ You will hear American accents often in Prague, it is this tourism that has caus
   place, decent prices, authentic food - this is where locals come to eat and drink.
   The waitress didn't speak English though, and brought me the wrong dish (the goats cheese salad,
   which also looked great, instead of the horseradish mustard sausage).
-  The garlic soup (cesneckna) was decent, but nothing special and typically small (still hunting for best cesnecka).
+  The garlic soup (cesneckna) was decent, but nothing special and typically small (still hunting for best cesnecka),
+  although for 50kc I shouldn't complain as other places charge 90-130kc.
   The sausage with horseradish and mustard (klobasa s krenemska horcice) is a classic czech staple,
   just don't eat it too often as processed meat increases your risk of cancer.
   The sirloin beef in sauce is actually svickova (in cream sauce) with legit bread dumplings (houskove knedliky) and a
-  little cranberry and cream. Wifi 24/8 Mbit/s
+  little cranberry and cream and costs 200kc instead of the 300kc the tourist places are charging. Wifi 24/8 Mbit/s
 - [ACAI POKE superfood & espresso bar](https://maps.app.goo.gl/GTMiCCFtRGxyHFSh8) - brazilian lime poke bowl with mango,
   apple, berries and yoghurt was good (the berries were frozen though), 260kc (£9).
   Bit of a walk from the centre to Prague 2 Žižkov for it though. 81/40 Mbit/s wifi
