@@ -102,9 +102,9 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Manually Delete the `.Spotlight-V100` folder](#manually-delete-the-spotlight-v100-folder)
   - [Delete Versioned Backups](#delete-versioned-backups)
   - [Restart `mds`, `mds_stores` and `revisiond`](#restart-mds-mds_stores-and-revisiond)
-  - [Discrepancy Between `df` and `du`](#discrepancy-between-df-and-du)
   - [Verify Free Space](#verify-free-space)
 - [Troubleshooting](#troubleshooting)
+  - [Discrepancy Between `df` and `du`](#discrepancy-between-df-and-du)
   - [Spotlight Search failing to find App](#spotlight-search-failing-to-find-app)
   - [XCodeBuild error complaining XCode only has command line tools](#xcodebuild-error-complaining-xcode-only-has-command-line-tools)
   - [Various Applications Fail to Open](#various-applications-fail-to-open)
@@ -1643,6 +1643,14 @@ To allow space to be reclaimed:
 sudo killall mds mds_stores revisiond
 ```
 
+### Verify Free Space
+
+```shell
+df -h "/Volumes/$NAME"
+```
+
+## Troubleshooting
+
 ### Discrepancy Between `df` and `du`
 
 ```shell
@@ -1650,12 +1658,12 @@ sudo du -csh "/Volumes/$NAME"
 ```
 
 ```text
-2.2T    .
+2.2T    /Volumes/$NAME
 2.2T    total
 ```
 
 ```shell
-df -h .
+df -h "/Volumes/$NAME"
 ```
 
 ```text
@@ -1696,14 +1704,6 @@ sudo tmutil delete -d "/Volumes/$NAME" -t 2025-03-28-015336
 ```
 
 After this `du` and `df` reconciled.
-
-### Verify Free Space
-
-```shell
-df -h "/Volumes/$NAME"
-```
-
-## Troubleshooting
 
 ### Spotlight Search failing to find App
 
