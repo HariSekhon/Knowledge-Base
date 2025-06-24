@@ -77,6 +77,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Mount a partition](#mount-a-partition)
     - [Partition and Format a disk](#partition-and-format-a-disk)
       - [Multiple Partition and Format](#multiple-partition-and-format)
+    - [Encrypt APFS Filesystem](#encrypt-apfs-filesystem)
     - [Erase a disk before decommissioning it](#erase-a-disk-before-decommissioning-it)
       - [WARNING: disk numbers may shunt up in numbers as you insert more removal drives, especially for 'synthesized' virtual disks that display for volume containers](#warning-disk-numbers-may-shunt-up-in-numbers-as-you-insert-more-removal-drives-especially-for-synthesized-virtual-disks-that-display-for-volume-containers)
   - [Service Management](#service-management)
@@ -1098,6 +1099,12 @@ diskutil mount /dev/disk4s2
 diskutil unmount /dev/disk4s2
 ```
 
+Unmount all filesystems on a disk:
+
+```shell
+diskutil unmountDisk force "/dev/$disk"
+```
+
 or by volume location:
 
 ```shell
@@ -1158,6 +1165,37 @@ See which filesystems are available for formatting:
 diskutil listFilesystems
 ```
 
+```text
+Formattable file systems
+
+These file system personalities can be used for erasing and partitioning.
+When specifying a personality as a parameter to a verb, case is not considered.
+Certain common aliases (also case-insensitive) are listed below as well.
+
+-------------------------------------------------------------------------------
+PERSONALITY                     USER VISIBLE NAME
+-------------------------------------------------------------------------------
+Case-sensitive APFS             APFS (Case-sensitive)
+  (or) APFSX
+APFS                            APFS
+  (or) APFSI
+ExFAT                           ExFAT
+Free Space                      Free Space
+  (or) FREE
+MS-DOS                          MS-DOS (FAT)
+MS-DOS FAT12                    MS-DOS (FAT12)
+MS-DOS FAT16                    MS-DOS (FAT16)
+MS-DOS FAT32                    MS-DOS (FAT32)
+  (or) FAT32
+HFS+                            Mac OS Extended
+Case-sensitive HFS+             Mac OS Extended (Case-sensitive)
+  (or) HFSX
+Case-sensitive Journaled HFS+   Mac OS Extended (Case-sensitive, Journaled)
+  (or) JHFSX
+Journaled HFS+                  Mac OS Extended (Journaled)
+  (or) JHFS+
+```
+
 Rename a disk:
 
 ```shell
@@ -1192,6 +1230,55 @@ diskutil partitionDisk /dev/"$disk" "$partition_table" "$filesystem" "First"  "$
 
 Partition splitting doesn't seem to work with APFS, only macOS Extended, as APFS tells you to
 `diskutil apfs deleteContainer disk10` instead which leaves you with free space to create a new partition.
+
+#### Encrypt APFS Filesystem
+
+If you partitioned it without APFS, reformat the disk with APFS:
+
+```shell
+diskutil eraseDisk APFS "$name" "/dev/$disk"
+```
+
+Alternatively, if you already have GPT parititioned disk and only want to format the partition:
+
+```shell
+diskutil eraseVolume "APFSX" "MyEncryptedDisk" "/dev/${synthesized_disk}s1"
+```
+
+Notice the disk here will be different to the physical disk, it'll be the synthesized disk of an increment higher disk
+number as shown by `diskutil list`.
+
+Then encrypt the APFS container partition, in this case the first partition `s1`:
+
+```shell
+diskutil apfs encryptVolume "/dev/${synthesized_disk}s1" -user disk -passphrase "$password"
+```
+
+Or better pass via stdin:
+
+```shell
+diskutil apfs encryptVolume "/dev/${synthesized_disk}s1" -user disk -stdinpassphrase <<< "$password"
+```
+
+If you omit the `<<< "$passphrase"` part of the command, it'll wait for you without a prompt to enter the passphrase
+interactively on the command line, so not storing it in shell history (alternatively if using [Bash](bash.md) `unset HISTFILE` to prevent it
+being written to `~/.bash_history`):
+
+```shell
+diskutil apfs encryptVolume "/dev/${synthesized_disk}s1" -user disk -stdinpassphrase
+```
+
+Decrypt the volume:
+
+```shell
+diskutil apfs decryptVolume "${synthesized_disk}s1" -user disk -stdinpassphrase <<< "$password"
+```
+
+If you want to add a password hint you'll need to do this via the macOS GUI via Disk Utility instead:
+
+```shell
+open -a "Disk Utility"
+```
 
 #### Erase a disk before decommissioning it
 
