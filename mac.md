@@ -1695,6 +1695,8 @@ tmutil listbackups
 /Volumes/.timemachine/A1BCD23E-45F6-78AB-901C-2DE34567FAB8/2025-03-28-015336.backup/2025-03-28-015336.backup
 ```
 
+I deleted the backup so I could free up space, but you may want to keep your backup:
+
 ```shell
 sudo tmutil delete -d "/Volumes/$NAME" -t 2025-03-28-015336
 ```
