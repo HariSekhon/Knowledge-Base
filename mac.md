@@ -102,6 +102,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Manually Delete the `.Spotlight-V100` folder](#manually-delete-the-spotlight-v100-folder)
   - [Delete Versioned Backups](#delete-versioned-backups)
   - [Restart `mds`, `mds_stores` and `revisiond`](#restart-mds-mds_stores-and-revisiond)
+  - [Discrepancy Between `df` and `du`](#discrepancy-between-df-and-du)
   - [Verify Free Space](#verify-free-space)
 - [Troubleshooting](#troubleshooting)
   - [Spotlight Search failing to find App](#spotlight-search-failing-to-find-app)
@@ -1596,7 +1597,7 @@ mac_restore_file.sh "$filename"
 
 ## External Disk Management
 
-To reclaim space on the external disk... you can try all of the following, which failed for me. Reboot.
+To reclaim space on the external disk...
 
 ### Delete Large Directories
 
@@ -1641,6 +1642,60 @@ To allow space to be reclaimed:
 ```shell
 sudo killall mds mds_stores revisiond
 ```
+
+### Discrepancy Between `df` and `du`
+
+```shell
+sudo du -csh "/Volumes/$NAME"
+```
+
+```text
+2.2T    .
+2.2T    total
+```
+
+```shell
+df -h .
+```
+
+```text
+Filesystem      Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk5s2   3.6Ti   3.6Ti    59Gi    99%    4.8M  618M    1%   /Volumes/$NAME
+```
+
+This can be caused by files being held open (kill the process):
+
+```shell
+sudo lsof +L1
+```
+
+Or in my case Time Machine APFS snapshots which are counted by `df` but not by `du`:
+
+```shell
+tmutil listlocalsnapshots "/Volumes/$NAME"
+```
+
+```text
+/Volumes/NAME is an APFS backup disk. Use 'tmutil listbackups' to list APFS backup snapshots.
+```
+
+```shell
+tmutil listbackups
+```
+
+```text
+/Volumes/.timemachine/A1BCD23E-45F6-78AB-901C-2DE34567FAB8/2025-03-28-015336.backup/2025-03-28-015336.backup
+```
+
+```shell
+sudo tmutil delete -d "/Volumes/$NAME" -t 2025-03-28-015336
+```
+
+```text
+1 backups deleted
+```
+
+After this `du` and `df` reconciled.
 
 ### Verify Free Space
 
