@@ -1306,6 +1306,8 @@ You will hear American accents often in Prague, it is this tourism that has caus
 - [ACAI POKE superfood & espresso bar](https://maps.app.goo.gl/GTMiCCFtRGxyHFSh8) - brazilian lime poke bowl with mango,
   apple, berries and yoghurt was good (the berries were frozen though), 260kc (£9).
   Bit of a walk from the centre to Prague 2 Žižkov for it though. 81/40 Mbit/s wifi
+- [Puro Gelato](https://maps.app.goo.gl/HZsGvXW3dZTUDUx99) - award winning ice cream shop, very popular. I had the mango
+  sorbet, pink gooseberry sorbet and poppy seed ice cream, all great. Wifi 12/2 Mbit/s
 - [Letenský zámeček a zahrádky na Letné](https://maps.app.goo.gl/beYT7M4wuV8dYhqt6) - upmarket beer garden restaurant at
   the top plateau of Letna Park with a good view and good menu. The beef rump steak with asparagus and potato fontain
   was good, the pea and spinach cream soup was also good and the chocolate cake with crushed pistachio centre was
