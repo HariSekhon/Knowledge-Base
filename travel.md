@@ -1355,7 +1355,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
 - [Rio AÇAÍ A Smoothie Bar](https://maps.app.goo.gl/NSQhsSVAxoU2rQau8) - acai cup was better than expected for a
   commercial-chain-looking place, there are 3 options - I've had the Rio which lots of granola, chocolate flakes, and
   other crunchy bits, some fruit, peanut/almond butter. I've also had the Power which is also good, has some protein
-  powder, peanuts, peanut butter, as well as strawberry, blueberry, banana, chia seeds, hemp seeds etc.
+  powder, peanuts, peanut butter, as well as strawberry, blueberry, banana, oats, chia seeds, hemp seeds etc.
 - [Sweet & Pepper Days](https://maps.app.goo.gl/cWsk4zTSLVPon3Yo7) - good eggs benedict on a homemade flatbread with bok
   choi in a tasty asian-style sauce, but a bit pricey at 330kc, and 105kc for chai latte, golden milk latte or beetroot
   cocoa late, compared to 90kc at the adjacent place. Main and 2 drinks came to 540kc (£18) which is pricey for here
