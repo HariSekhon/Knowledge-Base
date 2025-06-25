@@ -1361,6 +1361,11 @@ You will hear American accents often in Prague, it is this tourism that has caus
   cocoa late, compared to 90kc at the adjacent place. Main and 2 drinks came to 540kc (£18) which is pricey for here
 - [Coffee Factory](https://maps.app.goo.gl/rENuDDfPFsXg74TLA) - good menu, but western prices,
   as they are used to foreigners. Eggs benedict is 250kc (~£9). 46/33 Mbit/s wifi
+- [Cafe Louvre]() - fancy cafe & restaurant with good decor and a couple czech specialities.
+  The restaurant closes at 10pm but the cafe is open until 11:30pm where you can order the same food as the restaurant
+  until 11pm. I had the pork shoulder in dark beer sauce with mashed potatoes, which came suspiciously quickly, but was
+  good quality, albeit a little salty. The pork shoulder ia  large steak like piece in the centre of a moat of mashed
+  potatoes holding in the dark sauce, with a stack of red onions on one side of the moat. No Wifi
 - [ô-mai Coffee & Brunch](https://maps.app.goo.gl/eWNBWQU6C58PqGJv8) - a little south of the gentrified coffee shop
   boulevard of the places above, but eggs benedict is slightly more reasonably priced at 260kc.
   However, I didn't like the eggs benedict here due to the sriracha sauce and sweet brioche buns,
