@@ -1293,16 +1293,11 @@ You will hear American accents often in Prague, it is this tourism that has caus
   but this is an experience place, girls are taking pics all over the illuminated upper steps.
   I can't believe it only opened 3 months prior in March 2025 given how popular it is, and out of the way.
   Wifi is slow at 1 Mbit/s but people come here to socialize so probably nobody notices
-- [Hostinec U Jendy](https://maps.app.goo.gl/uM2wRo2ChYDTtuMc8) - a bit south out of the main tourist areas, legit local
-  place, decent prices, authentic food - this is where locals come to eat and drink.
-  The waitress didn't speak English though, and brought me the wrong dish (the goats cheese salad,
-  which also looked great, instead of the horseradish mustard sausage).
-  The garlic soup (cesneckna) was decent, but nothing special and typically small (still hunting for best cesnecka),
-  although for 50kc I shouldn't complain as other places charge 90-130kc.
-  The sausage with horseradish and mustard (klobasa s krenemska horcice) is a classic czech staple,
-  just don't eat it too often as processed meat increases your risk of cancer.
-  The sirloin beef in sauce is actually svickova (in cream sauce) with legit bread dumplings (houskove knedliky) and a
-  little cranberry and cream and costs 200kc instead of the 300kc the tourist places are charging. Wifi 24/8 Mbit/s
+- [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road in a central area, so less of a tourist
+  trap, but it was still full, I had to wait for a table.
+  The wild boar with mashed potatoes was good, although portion size could have been bigger and the onion jam was a bit
+  savoury for my taste. They also have venison with red wine, another day!!
+  The restaurant as a big screen TV on which the football was playing, but they have no wifi
 - [Khromberry](https://maps.app.goo.gl/wXe8X751536WM21x5) - all day brunch, eggs benedict with salmon was very
   reasonably priced but not large, although it came on a very think square slice of bread.
   The venue was top notch in decor and the music my type too, similar to Thailand, hot girls singing chill.
@@ -1346,6 +1341,9 @@ You will hear American accents often in Prague, it is this tourism that has caus
   was good, the pea and spinach cream soup was also good and the chocolate cake with crushed pistachio centre was
   indulgently rich. They also give bread with balsamic vinegar dip.
   Overall a bit pricey, I spent nearly £25 without a drink and before tip
+- [La Piccola Perla](https://maps.app.goo.gl/3BrVgTYGAdYQ38u76) - Italian, if you need a break from so much goulash,
+  svickova etc. Has great pizzas. I had the piccola perla pizza with parma ham, salami, marinated red peppers,
+  mozarella, tomato sauce and gorgonzola
 - [Kozlovna U Paukerta](https://maps.app.goo.gl/x7ybwqKLophZyA9e6) - good menu, surprisingly good svitchkova (beef in
   cream sauce with cranberries) and Karlovy Vary dumplings, which are like Carlsbad dumplings, pieces of bread glued
   together with egg. Prices are a little on the moderately high side due to the fairly prime location on main road by
@@ -1358,6 +1356,16 @@ You will hear American accents often in Prague, it is this tourism that has caus
   The pork with roasted potatoes is a speciality of this restaurant
   and came with a good sized slab of high quality lean pork,
   good sauce and was better than expected, although lacking a vegetable to complete the plate
+- [Hostinec U Jendy](https://maps.app.goo.gl/uM2wRo2ChYDTtuMc8) - a bit south out of the main tourist areas, legit local
+  place, decent prices, authentic food - this is where locals come to eat and drink.
+  The waitress didn't speak English though, and brought me the wrong dish (the goats cheese salad,
+  which also looked great, instead of the horseradish mustard sausage).
+  The garlic soup (cesneckna) was decent, but nothing special and typically small (still hunting for best cesnecka),
+  although for 50kc I shouldn't complain as other places charge 90-130kc.
+  The sausage with horseradish and mustard (klobasa s krenemska horcice) is a classic czech staple,
+  just don't eat it too often as processed meat increases your risk of cancer.
+  The sirloin beef in sauce is actually svickova (in cream sauce) with legit bread dumplings (houskove knedliky) and a
+  little cranberry and cream and costs 200kc instead of the 300kc the tourist places are charging. Wifi 24/8 Mbit/s
 - [Restaurace U Pinkasů](https://maps.app.goo.gl/sxSUhiZSN4W9MM1a9) - surprisingly decent for a central commercial
   location. Legit beef goulash and dumplings with good sauce and a sweet pepper, although only 150g of beef.
   Many locals drink and eat here, there is a good beer garden at the back running along a historic old church for a nice
@@ -1376,6 +1384,17 @@ You will hear American accents often in Prague, it is this tourism that has caus
   the restaurant until 11pm. I had the pork shoulder in dark beer sauce with mashed potatoes, which came suspiciously
   quickly, but was good quality, albeit a little salty. The pork shoulder ia  large steak like piece in the centre of a
   moat of mashed potatoes holding in the dark sauce, with a stack of red onions on one side of the moat. No Wifi
+- [Plzeňská restaurace U Sedlerů](https://maps.app.goo.gl/BXAK4ixex15R3vhB8) - the dark beer beef chilli goulash is
+  good.
+  There isn't a lot of meat, concentrated in the center of the plate and there is a lot of sauce, which is very good as
+  that's where the flavour is.
+  It doesn't come with dumplings unfortunately, you have to order them as a "side" although they come on the same plate
+  in the goulash sauce.
+  The Carlsbad Dumplings are good too (they are like pieces of bread glued together with egg)
+  instead of the traditional czech dumplings.
+  You need one of the two types of dumplings to mop up all the tasty sauce
+- [Knedlin](https://maps.app.goo.gl/NhTxVVA9pTvHTBZs6) - dumpling shop with [a large variety](https://knedlin.cz/en/) of both sweet and savory dumplings.
+  Ok for a snack. I had the pistacchio one. Fattening. They have no wifi!
 - [ô-mai Coffee & Brunch](https://maps.app.goo.gl/eWNBWQU6C58PqGJv8) - a little south of the gentrified coffee shop
   boulevard of the places above, but eggs benedict is slightly more reasonably priced at 260kc.
   However, I didn't like the eggs benedict here due to the sriracha sauce and sweet brioche buns,
@@ -1388,20 +1407,6 @@ You will hear American accents often in Prague, it is this tourism that has caus
   outside
 - [Goodie Store & Café](https://maps.app.goo.gl/tAhdR1NS7C9FGE7C9) - convenient location only 2 blocks east of Muzeum,
   but the acai bowl is diluted and not pure, and for 235kc it's much better to go to ACAI POKE above
-- [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road in a central area, so less of a tourist
-  trap, but it was still full, I had to wait for a table.
-  The wild boar with mashed potatoes was good, although portion size could have been bigger and the onion jam was a bit
-  savoury for my taste. They also have venison with red wine, another day!!
-  The restaurant as a big screen TV on which the football was playing, but they have no wifi
-- [Plzeňská restaurace U Sedlerů](https://maps.app.goo.gl/BXAK4ixex15R3vhB8) - the dark beer beef chilli goulash is
-  good.
-  There isn't a lot of meat, concentrated in the center of the plate and there is a lot of sauce, which is very good as
-  that's where the flavour is.
-  It doesn't come with dumplings unfortunately, you have to order them as a "side" although they come on the same plate
-  in the goulash sauce.
-  The Carlsbad Dumplings are good too (they are like pieces of bread glued together with egg)
-  instead of the traditional czech dumplings.
-  You need one of the two types of dumplings to mop up all the tasty sauce
 - [Beer Restaurant U Černého Medvěda (At the Black Bear)](https://maps.app.goo.gl/DByx8UcajYxx1vB56) - the potato soup
   with mushroom was ok, need to try their goulash
 - [Palladium](https://maps.app.goo.gl/Hgs1KqvtPVcFec9J6) - central shopping mall with the usual brands
