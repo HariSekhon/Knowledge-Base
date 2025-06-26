@@ -1338,8 +1338,8 @@ You will hear American accents often in Prague, it is this tourism that has caus
   The homemade chocolate fondant with vanilla ice cream was good, although a bit pricey at 190kc (£6.80),
   and it could have been bigger.
   A mix of tourists and locals - one downside is that many europeans smoke outside. 31/5 Mbit/s wifi
-- [Khromberry](https://maps.app.goo.gl/wXe8X751536WM21x5) - eggs benedict with salmon was very reasonably priced but not
-  large, although it came on a very think square slice of bread.
+- [Khromberry](https://maps.app.goo.gl/wXe8X751536WM21x5) - all day brunch, eggs benedict with salmon was very
+  reasonably priced but not large, although it came on a very think square slice of bread.
   The venue was top notch in decor and the music my type too, similar to Thailand, hot girls singing chill.
   Stunning 529/43 Mbit/s Wifi
 - [Honest Taste](https://maps.app.goo.gl/YfNEKLoGyCr6mjLX8) - breakfast restaurant that closes at 3pm
@@ -1408,6 +1408,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
 
 TODO:
 
+- [Alma Café](Alma Café) - opposite Khromberry
 - [Herbivore](https://maps.app.goo.gl/ATehbfWrdjUikmSo8) - vegan cafe, has Acai, although was sold out when I went
 - [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
 - [Restaurant Matylda](https://maps.app.goo.gl/GeFhe3wxzdjtRKBC9) - check the daily menu
