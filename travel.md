@@ -1303,9 +1303,36 @@ You will hear American accents often in Prague, it is this tourism that has caus
   just don't eat it too often as processed meat increases your risk of cancer.
   The sirloin beef in sauce is actually svickova (in cream sauce) with legit bread dumplings (houskove knedliky) and a
   little cranberry and cream and costs 200kc instead of the 300kc the tourist places are charging. Wifi 24/8 Mbit/s
+- [Khromberry](https://maps.app.goo.gl/wXe8X751536WM21x5) - all day brunch, eggs benedict with salmon was very
+  reasonably priced but not large, although it came on a very think square slice of bread.
+  The venue was top notch in decor and the music my type too, similar to Thailand, hot girls singing chill.
+  Stunning 529/43 Mbit/s Wifi
+- [Honest Taste](https://maps.app.goo.gl/YfNEKLoGyCr6mjLX8) - breakfast restaurant that closes at 3pm
+  (kitchen closes at 2:30pm).
+  Eggs benedict was moderately priced at 240kc (£8) and good, with a good small vinaigrette side leaf salad.
+  6/13 Mbit/s wifi
+- [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
+  the food!
+  The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
+  and comes with a piece of bread and a really good salad with pink pickles.
+  Get a side of truffles potatos to make the plate complete. Wifi 56/25 Mbit/s
+- [Bistro Cafē Laskavá](https://maps.app.goo.gl/aEYi7nFrrLucC1gm9) - next to Gron above, lovely benedict (eggs benedict)
+  is pricey gentrified at 285kc (£9.60), and comes on two halves of a croissant,
+  which makes it lack a bit of the fill factor of a regular eggs benedict, but has bacon, a few small slices of avocado,
+  half a passionfruit, and few sprinkles of pomegranate seeds.
+  Very gentrified! Laskava has indoor and outdoor al fresco seating. Wifi is only 2/1 Mbit/s outside though
 - [ACAI POKE superfood & espresso bar](https://maps.app.goo.gl/GTMiCCFtRGxyHFSh8) - brazilian lime poke bowl with mango,
   apple, berries and yoghurt was good (the berries were frozen though), 260kc (£9).
   Bit of a walk from the centre to Prague 2 Žižkov for it though. 81/40 Mbit/s wifi
+- [Rio AÇAÍ A Smoothie Bar](https://maps.app.goo.gl/NSQhsSVAxoU2rQau8) - acai cup was better than expected for a
+  commercial-chain-looking place, there are 3 options - I've had the Rio which lots of granola, chocolate flakes, and
+  other crunchy bits, some fruit, peanut/almond butter. I've also had the Power which is also good, has some protein
+  powder, peanuts, peanut butter, as well as strawberry, blueberry, banana, oats, chia seeds, hemp seeds etc.
+- [Sweet & Pepper Days](https://maps.app.goo.gl/cWsk4zTSLVPon3Yo7) - good eggs benedict on a homemade flatbread with bok
+  choi in a tasty asian-style sauce, but a bit pricey at 330kc, and 105kc for chai latte, golden milk latte or beetroot
+  cocoa late, compared to 90kc at the adjacent place. Main and 2 drinks came to 540kc (£18) which is pricey for here
+- [Coffee Factory](https://maps.app.goo.gl/rENuDDfPFsXg74TLA) - good menu, but western prices,
+  as they are used to foreigners. Eggs benedict is 250kc (~£9). 46/33 Mbit/s wifi
 - [Puro Gelato](https://maps.app.goo.gl/HZsGvXW3dZTUDUx99) - award winning ice cream shop, very popular. I had the mango
   sorbet, pink gooseberry sorbet and poppy seed ice cream, all great. Wifi 12/2 Mbit/s
 - [Letenský zámeček a zahrádky na Letné](https://maps.app.goo.gl/beYT7M4wuV8dYhqt6) - upmarket beer garden restaurant at
@@ -1338,38 +1365,11 @@ You will hear American accents often in Prague, it is this tourism that has caus
   The homemade chocolate fondant with vanilla ice cream was good, although a bit pricey at 190kc (£6.80),
   and it could have been bigger.
   A mix of tourists and locals - one downside is that many europeans smoke outside. 31/5 Mbit/s wifi
-- [Khromberry](https://maps.app.goo.gl/wXe8X751536WM21x5) - all day brunch, eggs benedict with salmon was very
-  reasonably priced but not large, although it came on a very think square slice of bread.
-  The venue was top notch in decor and the music my type too, similar to Thailand, hot girls singing chill.
-  Stunning 529/43 Mbit/s Wifi
-- [Honest Taste](https://maps.app.goo.gl/YfNEKLoGyCr6mjLX8) - breakfast restaurant that closes at 3pm
-  (kitchen closes at 2:30pm).
-  Eggs benedict was moderately priced at 240kc (£8) and good, with a good small vinaigrette side leaf salad.
-  6/13 Mbit/s wifi
-- [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
-  the food!
-  The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
-  and comes with a piece of bread and a really good salad with pink pickles.
-  Get a side of truffles potatos to make the plate complete. Wifi 56/25 Mbit/s
-- [Bistro Cafē Laskavá](https://maps.app.goo.gl/aEYi7nFrrLucC1gm9) - next to Gron above, lovely benedict (eggs benedict)
-  is pricey gentrified at 285kc (£9.60), and comes on two halves of a croissant,
-  which makes it lack a bit of the fill factor of a regular eggs benedict, but has bacon, a few small slices of avocado,
-  half a passionfruit, and few sprinkles of pomegranate seeds.
-  Very gentrified! Laskava has indoor and outdoor al fresco seating. Wifi is only 2/1 Mbit/s outside though
-- [Rio AÇAÍ A Smoothie Bar](https://maps.app.goo.gl/NSQhsSVAxoU2rQau8) - acai cup was better than expected for a
-  commercial-chain-looking place, there are 3 options - I've had the Rio which lots of granola, chocolate flakes, and
-  other crunchy bits, some fruit, peanut/almond butter. I've also had the Power which is also good, has some protein
-  powder, peanuts, peanut butter, as well as strawberry, blueberry, banana, oats, chia seeds, hemp seeds etc.
-- [Sweet & Pepper Days](https://maps.app.goo.gl/cWsk4zTSLVPon3Yo7) - good eggs benedict on a homemade flatbread with bok
-  choi in a tasty asian-style sauce, but a bit pricey at 330kc, and 105kc for chai latte, golden milk latte or beetroot
-  cocoa late, compared to 90kc at the adjacent place. Main and 2 drinks came to 540kc (£18) which is pricey for here
-- [Coffee Factory](https://maps.app.goo.gl/rENuDDfPFsXg74TLA) - good menu, but western prices,
-  as they are used to foreigners. Eggs benedict is 250kc (~£9). 46/33 Mbit/s wifi
-- [Cafe Louvre]() - fancy cafe & restaurant with good decor and a couple czech specialities.
-  The restaurant closes at 10pm but the cafe is open until 11:30pm where you can order the same food as the restaurant
-  until 11pm. I had the pork shoulder in dark beer sauce with mashed potatoes, which came suspiciously quickly, but was
-  good quality, albeit a little salty. The pork shoulder ia  large steak like piece in the centre of a moat of mashed
-  potatoes holding in the dark sauce, with a stack of red onions on one side of the moat. No Wifi
+- [Cafe Louvre](https://maps.app.goo.gl/B6nLuNC6J5opguia7) - fancy cafe & restaurant with good decor and a couple czech
+  specialities. The restaurant closes at 10pm but the cafe is open until 11:30pm where you can order the same food as
+  the restaurant until 11pm. I had the pork shoulder in dark beer sauce with mashed potatoes, which came suspiciously
+  quickly, but was good quality, albeit a little salty. The pork shoulder ia  large steak like piece in the centre of a
+  moat of mashed potatoes holding in the dark sauce, with a stack of red onions on one side of the moat. No Wifi
 - [ô-mai Coffee & Brunch](https://maps.app.goo.gl/eWNBWQU6C58PqGJv8) - a little south of the gentrified coffee shop
   boulevard of the places above, but eggs benedict is slightly more reasonably priced at 260kc.
   However, I didn't like the eggs benedict here due to the sriracha sauce and sweet brioche buns,
