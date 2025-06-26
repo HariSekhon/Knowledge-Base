@@ -1416,6 +1416,7 @@ TODO:
 
 - [Alma Café](Alma Café) - opposite Khromberry
 - [The Spot](https://maps.app.goo.gl/i8Bj5zRGHGzZSpSo6) - reasonably priced scrambled eggs and has Acai bowl
+- [Mistral Cafe](https://maps.app.goo.gl/3mZupmGDZWmQXpqB8) - brunch until 5pm
 - [Herbivore](https://maps.app.goo.gl/ATehbfWrdjUikmSo8) - vegan cafe, has Acai, although was sold out when I went
 - [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
 - [Restaurant Matylda](https://maps.app.goo.gl/GeFhe3wxzdjtRKBC9) - check the daily menu
