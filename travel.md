@@ -800,7 +800,7 @@ Number of Countries: 37
   - not counting my extensive month long
     [Tour of England and Wales](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b)
     (the latter was borderline a different country, there are actually Welsh signs I can't read)
-- Countries in 2025: 13
+- Countries in 2025: 15
   - Vietnam (continued), Cambodia, Laos, Bali (Indonesia), Malayasia, Singapore, Taiwan, Serbia, Bulgaria, Romania,
     Hungary, Slovakia, Austria, Czechia, Poland
 - Unique Countries since Emigrating from the UK in 2024: 28
