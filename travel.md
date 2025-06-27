@@ -1384,6 +1384,10 @@ You will hear American accents often in Prague, it is this tourism that has caus
   the restaurant until 11pm. I had the pork shoulder in dark beer sauce with mashed potatoes, which came suspiciously
   quickly, but was good quality, albeit a little salty. The pork shoulder ia  large steak like piece in the centre of a
   moat of mashed potatoes holding in the dark sauce, with a stack of red onions on one side of the moat. No Wifi
+- [be cafe Máj](https://maps.app.goo.gl/sU1FZzBTgisvN9n28) - the eggs benedict was nice on a toasted muffin but far too
+  small as it only has 1 eggs and no ham or salmon. You get what you pay for, and you'd be better off paying for
+  breakfast elsewhere unless you're on a diet.
+  Better place to use just for a drink, has good seating and fast wifi 196/166 Mbit/s
 - [Plzeňská restaurace U Sedlerů](https://maps.app.goo.gl/BXAK4ixex15R3vhB8) - the dark beer beef chilli goulash is
   good.
   There isn't a lot of meat, concentrated in the center of the plate and there is a lot of sauce, which is very good as
