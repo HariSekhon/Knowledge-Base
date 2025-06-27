@@ -1299,7 +1299,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
   savoury for my taste.
   The venison is even better with a slightly sweet red wine sauce (and apparently root vegetables blended into it)
   and 3 medium sized potato rosti triangles.
-  This would be perfect if it was with mash and actual root vegetables, as the venison is good quality lean meat.
+  This would be perfect if it was with mash and actual whole root vegetables, as the venison is good quality lean meat.
   The restaurant as a big screen TV on which the football was playing, but they have NO Wifi.
 - [Khromberry](https://maps.app.goo.gl/wXe8X751536WM21x5) - all day brunch, eggs benedict with salmon was very
   reasonably priced but not large, although it came on a very think square slice of bread.
