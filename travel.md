@@ -1296,7 +1296,10 @@ You will hear American accents often in Prague, it is this tourism that has caus
 - [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road in a central area, so less of a tourist
   trap, but it was still full, I had to wait for a table.
   The wild boar with mashed potatoes was good, although portion size could have been bigger and the onion jam was a bit
-  savoury for my taste. They also have venison with red wine, another day!!
+  savoury for my taste.
+  The venison is even better with a slightly sweet red wine sauce (and apparently root vegetables blended into it)
+  and 3 medium sized potato rosti triangles.
+  This would be perfect if it was with mash and actual root vegetables, as the venison is good quality lean meat.
   The restaurant as a big screen TV on which the football was playing, but they have NO Wifi.
 - [Khromberry](https://maps.app.goo.gl/wXe8X751536WM21x5) - all day brunch, eggs benedict with salmon was very
   reasonably priced but not large, although it came on a very think square slice of bread.
