@@ -1325,6 +1325,9 @@ You will hear American accents often in Prague, it is this tourism that has caus
   colour topped with nuts, coconut flakes, strawberry, blueberry and raspberry, a kumquat and a drizzle of peanut
   butter. Open until 6pm and has a second location at [Dusni](https://maps.app.goo.gl/EimXByt64jX74e6X6).
   Wifi 33/5 Mbit/s
+- [Herbivore](https://maps.app.goo.gl/ATehbfWrdjUikmSo8) - vegan cafe, has Acai bowl which is small but very good,
+  topped with mango, chia seeds and coconut flakes. It's small size is ok because at 165kc it's nearly half the price of
+  other places, and makes a perfectly sized snack. Friendly staff too
 - [Rio AÇAÍ A Smoothie Bar](https://maps.app.goo.gl/NSQhsSVAxoU2rQau8) - acai cup was better than expected for a
   commercial-chain-looking place, there are 3 options - I've had the Rio which lots of granola, chocolate flakes, and
   other crunchy bits, some fruit, peanut/almond butter. I've also had the Power which is also good, has some protein
@@ -1426,7 +1429,6 @@ TODO:
 - [Alma Café](Alma Café) - opposite Khromberry
 - [The Spot](https://maps.app.goo.gl/i8Bj5zRGHGzZSpSo6) - reasonably priced scrambled eggs and has Acai bowl
 - [Mistral Cafe](https://maps.app.goo.gl/3mZupmGDZWmQXpqB8) - brunch until 5pm
-- [Herbivore](https://maps.app.goo.gl/ATehbfWrdjUikmSo8) - vegan cafe, has Acai, although was sold out when I went
 - [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
 - [Restaurant Matylda](https://maps.app.goo.gl/GeFhe3wxzdjtRKBC9) - check the daily menu
   [here](https://www.menicka.cz/2123-restaurant-matylda.html) for good lunch deals
