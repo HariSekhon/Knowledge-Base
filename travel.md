@@ -1319,12 +1319,12 @@ You will hear American accents often in Prague, it is this tourism that has caus
 - [ACAI POKE superfood & espresso bar](https://maps.app.goo.gl/GTMiCCFtRGxyHFSh8) - brazilian lime poke bowl with mango,
   apple, berries and yoghurt was good (the berries were frozen though), 260kc (£9).
   Bit of a walk from the centre to Prague 2 Žižkov for it though. 81/40 Mbit/s wifi
-- [Venue](https://maps.app.goo.gl/kqx8RZ3vg4b2ea2ZA) - all day brunch, has scrambled eggs at moderate price and easily
-  one of the best Acai bowls I've had in Prague, deep purple colour topped with nuts, coconut flakes, strawberry,
-  blueberry and raspberry, a kumquat and a drizzle of peanut butter. Venue is 3 chain brunch restaurant open until 6pm.
-  Wifi 33/5 Mbit/s. Aside from this one at Havelská 4, there are two others, a smaller one around the corner at
-  [Havelská](https://maps.app.goo.gl/pJjv1UAPdnvpgDkH9) and another futher north at
-  [Dusni](https://maps.app.goo.gl/EimXByt64jX74e6X6)
+- [Venue](https://maps.app.goo.gl/kqx8RZ3vg4b2ea2ZA) - two sided brunch restaurant spanning 2 adjacent streets,
+  [Rytířská](https://maps.app.goo.gl/E4dpjqSEQ8mJzQCm8) and [Havelská](https://maps.app.goo.gl/pJjv1UAPdnvpgDkH9). All
+  day brunch, has scrambled eggs at moderate price and easily one of the best Acai bowls I've had in Prague, deep purple
+  colour topped with nuts, coconut flakes, strawberry, blueberry and raspberry, a kumquat and a drizzle of peanut
+  butter. Open until 6pm and has a second location at [Dusni](https://maps.app.goo.gl/EimXByt64jX74e6X6).
+  Wifi 33/5 Mbit/s
 - [Rio AÇAÍ A Smoothie Bar](https://maps.app.goo.gl/NSQhsSVAxoU2rQau8) - acai cup was better than expected for a
   commercial-chain-looking place, there are 3 options - I've had the Rio which lots of granola, chocolate flakes, and
   other crunchy bits, some fruit, peanut/almond butter. I've also had the Power which is also good, has some protein
