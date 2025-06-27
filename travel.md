@@ -1297,7 +1297,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
   trap, but it was still full, I had to wait for a table.
   The wild boar with mashed potatoes was good, although portion size could have been bigger and the onion jam was a bit
   savoury for my taste. They also have venison with red wine, another day!!
-  The restaurant as a big screen TV on which the football was playing, but they have no wifi
+  The restaurant as a big screen TV on which the football was playing, but they have NO Wifi.
 - [Khromberry](https://maps.app.goo.gl/wXe8X751536WM21x5) - all day brunch, eggs benedict with salmon was very
   reasonably priced but not large, although it came on a very think square slice of bread.
   The venue was top notch in decor and the music my type too, similar to Thailand, hot girls singing chill.
