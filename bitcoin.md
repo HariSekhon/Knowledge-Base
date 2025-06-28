@@ -93,7 +93,7 @@ and mass welfare immigration.
 - Energy Intensive:
   - the CPU difficulty protects it from attacks because even supercomputers cannot match the compute strength of the
     entire global Bitcoin network of high speed computers which use each specialized hardware for extreme performance
-    called ASICs
+    called [ASICs](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)
 - World's Most Powerful Computer Network - 100x more powerful than all the supercomputers
 - Bitcoin Network hasn't gone down in over 10 years - 99.98%+ uptime since inception in 2009,
   more than any centralized server ever and better than Big Tech companies:
