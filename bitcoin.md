@@ -84,7 +84,8 @@ and mass welfare immigration.
 
 ## Bitcoin Technical Summary
 
-- Limited Supply - 21 Million Coins ever deflationary compared to government money which is inflating towards zero value
+- Limited Supply - 21 Million Coins ever
+  - Deflationary compared to government fiat money which is inflating towards zero value
 - Cryptography secure - mathematically provable and verifiable by anyone at any time
 - Energy Currency - cannot be faked, there is a real-world cost in electricity
 - Coins mined by solving complex cryptographic challenges
