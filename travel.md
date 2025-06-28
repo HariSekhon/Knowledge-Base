@@ -1338,6 +1338,8 @@ You will hear American accents often in Prague, it is this tourism that has caus
 - [Herbivore](https://maps.app.goo.gl/ATehbfWrdjUikmSo8) - vegan cafe, has Acai bowl which is small but very good,
   topped with mango, chia seeds and coconut flakes. It's small size is ok because at 165kc it's nearly half the price of
   other places, and makes a perfectly sized snack. Friendly staff too
+- [U Matěje Kotrby Restaurant and Bar](https://maps.app.goo.gl/Vv2P72veUTERNFtq7) - the pork goulash in dark beer with
+  bread dumplings was one of the best I've had in Prague. Wifi 11/20 Mbit/s
 - [Rio AÇAÍ A Smoothie Bar](https://maps.app.goo.gl/NSQhsSVAxoU2rQau8) - acai cup was better than expected for a
   commercial-chain-looking place, there are 3 options - I've had the Rio which lots of granola, chocolate flakes, and
   other crunchy bits, some fruit, peanut/almond butter. I've also had the Power which is also good, has some protein
