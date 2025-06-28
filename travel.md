@@ -516,6 +516,10 @@ under the e-sim settings otherwise the internet won't connect.
 
 <!-- -->
 
+- [Fonus](https://www.fonusmobile.com/) - unlimited worldwide mobile plans
+
+<!-- -->
+
 - [Silent.link](https://silent.link) - Pay-as-You-Go prepaid, anonymous (no KYC, no name or even email),
   pay in [Bitcoin](bitcoin.md) or other [Crypto](crypto.md), account balance doesn't expire,
   but the per GB data rates are higher, priced in USD, and can vary quite substantially even within the same country eg.
