@@ -16,7 +16,7 @@
 - [Chainalysis](#chainalysis)
 - [TaxBit](#taxbit)
 - [Security](#security)
-- [Ledn](#ledn)
+- [Borrow Against Bitcoin](#borrow-against-bitcoin)
 - [Run Your Own Node for Added Privacy](#run-your-own-node-for-added-privacy)
 - [Layer 2 Chains](#layer-2-chains)
 - [Learning Resources](#learning-resources)
@@ -84,13 +84,21 @@ and mass welfare immigration.
 
 ## Bitcoin Technical Summary
 
-- Cryptography secure
+- Limited Supply - 21 Million Coins ever deflationary compared to government money which is inflating towards zero value
+- Cryptography secure - mathematically provable and verifiable by anyone at any time
+- Energy Currency - cannot be faked, there is a real-world cost in electricity
 - Coins mined by solving complex cryptographic challenges
+- Predictable coin mining
 - Energy Intensive:
   - the CPU difficulty protects it from attacks because even supercomputers cannot match the compute strength of the
     entire global Bitcoin network of high speed computers which use each specialized hardware for extreme performance
 - World's Most Powerful Computer Network - 100x more powerful than all the supercomputers
-- Bitcoin Network has never gone down in 15 years
+- Bitcoin Network hasn't gone down in over 10 years - 99.98%+ uptime since inception in 2009,
+  more than any centralized server ever and better than Big Tech companies:
+
+<https://bitcoinuptime.org/>
+
+<https://bitbo.io/uptime>
 
 ## Why Bitcoin Can't be Replaced by other Crypto _"Alt Coins"_
 
@@ -110,7 +118,9 @@ See the [Crypto](crypto.md) page for a list of hardware wallets.
   - usually requires Know Your Customer (KYC) for regulatory compliance eg. XapoBank or the exchanges listed on the
     [Crypto](crypto.md) page
 - Peer-to-Peer (P2P):
-  - marketplaces eg. [HodlHodl](https://hodlhodl.com/), Vexl
+  - marketplaces eg. [HodlHodl](https://hodlhodl.com/), [Vexl](https://vexl.it/)
+    - make sure to read the
+      [HodlHodl Security Guidelines](https://medium.com/hodl-hodl/trading-security-guide-2f35c20e58f4) before trading
   - buying from individuals who already have Bitcoin eg. friends you meet at conferences, meetups
   - Bitcoin ATMs (usually max $1000 limit)
 
@@ -179,9 +189,10 @@ That's when Govs can come with OSINT, or bad actors can use Poisoned Nodes etc.
 
 Make sure the BTC you receive isn't tainted - it hasn't gone through some darknet market place or a hack.
 
-## Ledn
+## Borrow Against Bitcoin
 
-<https://ledn.io/>
+- [Ledn](https://ledn.io/)
+- [HodlHodl Lend](https://lend.hodlhodl.com/)
 
 Borrow Against Your Bitcoin instead of selling it.
 
@@ -201,6 +212,14 @@ High interest rate though.
 - [Liquid Network](https://liquid.net/) by Blockstream
 
 ## Learning Resources
+
+- [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) by Saifedean Ammous
+- [The Fiat Standard](https://www.amazon.com/Fiat-Standard-Slavery-Alternative-Civilization/dp/B09VVFCQ63) by Saifedean Ammous
+- [Broken Money](https://www.amazon.com/Broken-Money-Financial-System-Failing/dp/B0CNS7NQLD) by Lyn Alden
+- [The Original Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) by Satoshi Nakamoto
+- [Bitcoin - The Ultimate Collateral](https://braiins.com/books/bitcoin-the-ultimate-collateral) by Martin Connor
+
+<!-- - Bitcoin - Separation of Money and State by Josef Tetek - currently unavailable on Amazon -->
 
 <https://www.lopp.net/bitcoin-information.html>
 
