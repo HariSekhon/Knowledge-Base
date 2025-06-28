@@ -86,10 +86,10 @@ and mass welfare immigration.
 
 - Limited Supply - 21 Million Coins ever
   - Deflationary compared to government fiat money which is inflating towards zero value
-- Cryptography secure - mathematically provable and verifiable by anyone at any time
+- Cryptography Secure - mathematically provable and verifiable by anyone at any time
 - Energy Currency - cannot be faked, there is a real-world cost in electricity
-- Coins mined by solving complex cryptographic challenges
-- Predictable coin mining
+- Coins Mined by solving complex cryptographic challenges
+- Predictable Coin Mining Rate
 - Energy Intensive:
   - the CPU difficulty protects it from attacks because even supercomputers cannot match the compute strength of the
     entire global Bitcoin network of high speed computers which use each specialized hardware for extreme performance
