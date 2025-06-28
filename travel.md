@@ -1301,8 +1301,8 @@ You will hear American accents often in Prague, it is this tourism that has caus
   and 3 medium sized potato rosti triangles.
   This would be perfect if it was with mash and actual whole root vegetables, as the venison is good quality lean meat.
   The restaurant as a big screen TV on which the football was playing, but they have NO Wifi.
-- [The Spot](https://maps.app.goo.gl/i8Bj5zRGHGzZSpSo6) - reasonably priced scrambled eggs and has Acai bowl. Has 3
-  outdoor tables on the street and a bunch more inside, good brunch menu and prices.
+- [The Spot](https://maps.app.goo.gl/i8Bj5zRGHGzZSpSo6) - good brunch menu and prices. Has outdoor tables on the street
+  and a bunch more inside. The scrambled eggs, while reasonably priced, wasn't that big. The Acai bowl was decent.
   Wifi 15/19 Mbit/s
 - [Khromberry](https://maps.app.goo.gl/wXe8X751536WM21x5) - all day brunch, eggs benedict with salmon was very
   reasonably priced but not large, although it came on a very think square slice of bread.
