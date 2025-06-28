@@ -1428,7 +1428,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
 
 - Prague Airport - the food court restaurant is surprisingly reasonably priced and 34kc for a bottle of water is better
   than 50kc at the vending machines in the main terminal lounges. Even Airport Parking C is damn expensive,
-  1400kc for 24 hours, 1800 for 2 days. Arrange a nearby parking next time
+  1400kc (£48) for 24 hours, 1800kc (£62) for 2 days. Arrange a nearby parking next time
 
 TODO:
 
