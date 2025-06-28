@@ -1301,6 +1301,8 @@ You will hear American accents often in Prague, it is this tourism that has caus
   and 3 medium sized potato rosti triangles.
   This would be perfect if it was with mash and actual whole root vegetables, as the venison is good quality lean meat.
   The restaurant as a big screen TV on which the football was playing, but they have NO Wifi.
+- [The Spot](https://maps.app.goo.gl/i8Bj5zRGHGzZSpSo6) - reasonably priced scrambled eggs and has Acai bowl. Has 3
+  outdoor tables on the street and a bunch more inside, good brunch menu and prices
 - [Khromberry](https://maps.app.goo.gl/wXe8X751536WM21x5) - all day brunch, eggs benedict with salmon was very
   reasonably priced but not large, although it came on a very think square slice of bread.
   The venue was top notch in decor and the music my type too, similar to Thailand, hot girls singing chill.
@@ -1430,7 +1432,6 @@ You will hear American accents often in Prague, it is this tourism that has caus
 TODO:
 
 - [Alma Café](Alma Café) - opposite Khromberry
-- [The Spot](https://maps.app.goo.gl/i8Bj5zRGHGzZSpSo6) - reasonably priced scrambled eggs and has Acai bowl
 - [Mistral Cafe](https://maps.app.goo.gl/3mZupmGDZWmQXpqB8) - brunch until 5pm
 - [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
 - [Restaurant Matylda](https://maps.app.goo.gl/GeFhe3wxzdjtRKBC9) - check the daily menu
