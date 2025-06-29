@@ -1298,7 +1298,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
   I can't believe it only opened 3 months prior in March 2025 given how popular it is, and out of the way.
   Wifi is slow at 1 Mbit/s but people come here to socialize so probably nobody notices
 - [Cacao](https://www.google.com/maps) - excellent menu and location overlooking the square in front of Palladium
-  shopping center, so in the heart of prague 5 minutes from the famous clock tower.
+  shopping center, so in the heart of prague a few minutes from the famous clock tower and next to the powder tower.
   Catch the breakfast menu which is only available until 11am or 1pm at weekends.
   Has a good selection of coffee/tea, lots of fresh juices, lots of smoothies, iced teas, detox waters, alcohols,
   breakfasts with eggs, Acai bowls, ice creams, cakes, baguettes, burgers, salads, poke and super food bowls.
