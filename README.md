@@ -230,7 +230,7 @@ This one is used widely throughout these pages:
 - Git Repo Hosting Providers:
   - [GitHub](github.md) TODO
   - [GitLab](gitlab.md)
-  - [Azure DevOps](azure-devops.md) TODO
+  - [Azure DevOps](azure-devops.md)
   - [Bitbucket](bitbucket.md) TODO
 - [Pre-Commit](pre-commit.md)
 
