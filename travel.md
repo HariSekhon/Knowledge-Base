@@ -1372,12 +1372,12 @@ You will hear American accents often in Prague, it is this tourism that has caus
   indulgently rich. They also give bread with balsamic vinegar dip.
   Overall a bit pricey, I spent nearly £25 without a drink and before tip
 - [Sad Man's Tongue](https://maps.app.goo.gl/hE7mDzv2r592roT76) - 1950s dive bar restaurant on a side street with a
-  mango chilli burger called Chica Chica Boom. Good menu, Western prices, has a large cocktail menu, the usual spirits
-  but little variety of soft drinks, tea, coffee.
+  mango chilli burger called Chica Chica Boom (360kc / €15). Good menu, Western prices, has a large cocktail menu,
+  the usual spirits but little variety of soft drinks, tea, coffee.
   It's a drinking and burger place.
   The fries came soft, would have been better if crispy.
   The mango chilli sauce is totallu worth it though, ask for extra on the side to dip your fries.
-  Wifi didn't work
+  Wifi didn't work, and it's CASH ONLY
 - [La Piccola Perla](https://maps.app.goo.gl/3BrVgTYGAdYQ38u76) - Italian, if you need a break from so much goulash,
   svickova etc. Has great pizzas. I had the piccola perla pizza with parma ham, salami, marinated red peppers,
   mozarella, tomato sauce and gorgonzola
