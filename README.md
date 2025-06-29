@@ -228,10 +228,10 @@ This one is used widely throughout these pages:
 - [Git](git.md)
   - [Git Workflow Branching Strategies](git-workflow-branching-strategies.md)
 - Git Repo Hosting Providers:
-  - [GitHub](github.md) TODO
+  - [GitHub](github.md) (TODO: partially ported)
   - [GitLab](gitlab.md)
   - [Azure DevOps](azure-devops.md)
-  - [Bitbucket](bitbucket.md) TODO
+  - [Bitbucket](bitbucket.md) (TODO: partially ported)
 - [Pre-Commit](pre-commit.md)
 
 ## Cloud
