@@ -1298,13 +1298,17 @@ You will hear American accents often in Prague, it is this tourism that has caus
   I can't believe it only opened 3 months prior in March 2025 given how popular it is, and out of the way.
   Wifi is slow at 1 Mbit/s but people come here to socialize so probably nobody notices
 - [Cacao](https://www.google.com/maps) - excellent menu and location overlooking the square in front of Palladium
-  shopping center, so in the heart of prague a few minutes from the famous clock tower and next to the powder tower.
-  Catch the breakfast menu which is only available until 11am or 1pm at weekends.
-  Has a good selection of coffee/tea, lots of fresh juices, lots of smoothies, iced teas, detox waters, alcohols,
-  breakfasts with eggs, Acai bowls, ice creams, cakes, baguettes, burgers, salads, poke and super food bowls.
-  The croissant with cheddar, bacon and scrambled eggs was not big enough though, ordered another breakfast.
-  Also, the cheese in it is not some grated cheddar but instead those preprocessed cheese slices you are not supposed to eat.
-  Next time go with the other variant without the cheddar and bacon or something else.
+  shopping center, so in the heart of Prague a few minutes from the famous clock tower and next to the powder tower.
+  Catch the breakfast menu which is only available until 11am weekdays (who wakes up this early?!) or 1pm at weekends.
+  Has a good selection of coffees/tea, even matcha/sencha/rooibos blood orange, lots of fresh juices, lots of smoothies,
+  iced teas, detox waters, alcohols, breakfasts with eggs, Acai bowls, ice creams, cakes, baguettes, burgers, salads,
+  poke and super food bowls.
+  The croissant with cheddar, bacon and scrambled eggs (169kc) was not big enough though, and the cheese in it is not
+  some grated cheddar but instead those preprocessed cheese slices you are not supposed to eat.
+  I'd take the croissant with scrambled eggs variant (139kc) without the cheddar and bacon next time.
+  Due to the not huge portion size, I ordered a second breakfast - the Eggs by Choice (159kc) - frieds or scrambed - I
+  went with 3 x fried eggs rather than scrambled this time, with 1 bacon rasher, grilled tomato topped with parmesan,
+  and "pastry" which is just a bread basket of 1 piece white and 1 piece brown bread.
   The Boost juice with pineapple, banana, kiwi and orange was as good as it could be,
   and comes in a tall slim glass, probably 250ml.
   Wifi 8/13 Mbit/s
