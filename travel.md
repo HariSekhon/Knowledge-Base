@@ -1300,8 +1300,8 @@ You will hear American accents often in Prague, it is this tourism that has caus
 - [Cacao](https://www.google.com/maps) - excellent menu and location overlooking the square in front of Palladium
   shopping center, so in the heart of prague 5 minutes from the famous clock tower.
   Catch the breakfast menu which is only available until 11am or 1pm at weekends.
-  Has a good selection of coffee/tea, fresh juices, smoothies, iced teas, detox waters, alcohols, breakfasts with eggs,
-  Acai bowls, ice creams, cakes, baguettes, burgers, salads, poke and super food bowls.
+  Has a good selection of coffee/tea, lots of fresh juices, lots of smoothies, iced teas, detox waters, alcohols,
+  breakfasts with eggs, Acai bowls, ice creams, cakes, baguettes, burgers, salads, poke and super food bowls.
   The croissant with cheddar, bacon and scrambled eggs was not big enough though, ordered another breakfast.
   Also, the cheese in it is not some grated cheddar but instead those preprocessed cheese slices you are not supposed to eat.
   Next time go with the other variant without the cheddar and bacon or something else.
