@@ -1305,6 +1305,9 @@ You will hear American accents often in Prague, it is this tourism that has caus
   The croissant with cheddar, bacon and scrambled eggs was not big enough though, ordered another breakfast.
   Also, the cheese in it is not some grated cheddar but instead those preprocessed cheese slices you are not supposed to eat.
   Next time go with the other variant without the cheddar and bacon or something else.
+  The Boost juice with pineapple, banana, kiwi and orange was as good as it could be,
+  and comes in a tall slim glass, probably 250ml.
+  Wifi 8/13 Mbit/s
 - [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road in a central area, so less of a tourist
   trap, but it was still full, I had to wait for a table.
   The wild boar with mashed potatoes was good, although portion size could have been bigger and the onion jam was a bit
