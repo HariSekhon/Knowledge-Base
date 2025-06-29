@@ -1371,6 +1371,9 @@ You will hear American accents often in Prague, it is this tourism that has caus
   was good, the pea and spinach cream soup was also good and the chocolate cake with crushed pistachio centre was
   indulgently rich. They also give bread with balsamic vinegar dip.
   Overall a bit pricey, I spent nearly £25 without a drink and before tip
+- [Sad Man's Tongue](https://maps.app.goo.gl/hE7mDzv2r592roT76) - 1950s dive bar restaurant on a side street with a
+  mango chilli burger called Chica Chica Boom. Good menu, Western prices, has a large cocktail menu, the usual spirits
+  but little variety of soft drinks, tea, coffee. It's a drinking and burger place. Wifi didn't work
 - [La Piccola Perla](https://maps.app.goo.gl/3BrVgTYGAdYQ38u76) - Italian, if you need a break from so much goulash,
   svickova etc. Has great pizzas. I had the piccola perla pizza with parma ham, salami, marinated red peppers,
   mozarella, tomato sauce and gorgonzola
