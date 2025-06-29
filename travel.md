@@ -1297,6 +1297,14 @@ You will hear American accents often in Prague, it is this tourism that has caus
   but this is an experience place, girls are taking pics all over the illuminated upper steps.
   I can't believe it only opened 3 months prior in March 2025 given how popular it is, and out of the way.
   Wifi is slow at 1 Mbit/s but people come here to socialize so probably nobody notices
+- [Cacao](https://www.google.com/maps) - excellent menu and location overlooking the square in front of Palladium
+  shopping center, so in the heart of prague 5 minutes from the famous clock tower.
+  Catch the breakfast menu which is only available until 11am or 1pm at weekends.
+  Has a good selection of coffee/tea, fresh juices, smoothies, iced teas, detox waters, alcohols, breakfasts with eggs,
+  Acai bowls, ice creams, cakes, baguettes, burgers, salads, poke and super food bowls.
+  The croissant with cheddar, bacon and scrambled eggs was not big enough though, ordered another breakfast.
+  Also, the cheese in it is not some grated cheddar but instead those preprocessed cheese slices you are not supposed to eat.
+  Next time go with the other variant without the cheddar and bacon or something else.
 - [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road in a central area, so less of a tourist
   trap, but it was still full, I had to wait for a table.
   The wild boar with mashed potatoes was good, although portion size could have been bigger and the onion jam was a bit
