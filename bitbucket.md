@@ -5,7 +5,7 @@ A legacy Git repo hosting provider with the worst [CI/CD](cicd.md) of the major 
 <!-- INDEX_START -->
 
 - [SSH Keys](#ssh-keys)
-- [App Passwords](#app-passwords)
+- [API Tokens](#api-tokens)
   - [Credential Helper](#credential-helper)
 
 <!-- INDEX_END -->
@@ -14,11 +14,11 @@ A legacy Git repo hosting provider with the worst [CI/CD](cicd.md) of the major 
 
 <https://bitbucket.org/account/settings/ssh-keys/>
 
-## App Passwords
+## API Tokens
 
-Create an app password here:
+Create an API token here:
 
-<https://bitbucket.org/account/settings/app-passwords/>
+<https://id.atlassian.com/manage-profile/security/api-tokens>
 
 and then copy, save it and export it:
 
