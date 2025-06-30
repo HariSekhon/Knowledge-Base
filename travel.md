@@ -82,6 +82,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Czech Republic / Czechia](#czech-republic--czechia)
     - [Czech Motorway Tolls - Vignettes](#czech-motorway-tolls---vignettes)
     - [Prague](#prague)
+      - [Prague Parking](#prague-parking)
+      - [Prague Restaurants](#prague-restaurants)
     - [Brno](#brno)
     - [Kutna Hora](#kutna-hora)
     - [Hradec Kralove](#hradec-kralove)
@@ -1280,6 +1282,18 @@ expect Western priced restaurants, coffee shops and expensive hotels.
 You may want to consider staying in a hostel here just due to the prices.
 
 You will hear American accents often in Prague, it is this tourism that has caused the somewhat high prices.
+
+##### Prague Parking
+
+Parking is a nightmare in Prague, like many anti-car European cities, and due to residents parking permits.
+
+You can use Park & Ride sites on the outskirts around the end of the metro lines,
+although they rack up if leaving your car there for days or weeks.
+
+[This article](https://www.hirecarprague.com/useful-info-about-prague/where-can-you-park-without-paying-free-parking-tips-in-prague-and-brno#:~:text=Outskirts.,%2C%20Vyso%C4%8Dany%2C%20Hodkovi%C4%8Dky%20%C4%8Di%20Kr%C4%8D.)
+has suggestions for free street parking places.
+
+##### Prague Restaurants
 
 - [Mexicka](https://maps.app.goo.gl/VSyN7FP2htPcRWPc7) - the best mexican I ever remember having, modern and vibrant,
   this is an unexpected hidden gem further out in Prague 7, an otherwise quiet neighbourhood. It's a large venue, packed
