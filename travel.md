@@ -1451,6 +1451,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
   but the acai bowl is diluted and not pure, and for 235kc it's much better to go to ACAI POKE above
 - [Beer Restaurant U Černého Medvěda (At the Black Bear)](https://maps.app.goo.gl/DByx8UcajYxx1vB56) - the potato soup
   with mushroom was ok, need to try their goulash
+- [MyRaw Café](https://maps.app.goo.gl/acjCbKC1NuzfTbidA) - vegan cafe, but has Acai bowl. Wifi 92/25 Mbit/s
 - [Palladium](https://maps.app.goo.gl/Hgs1KqvtPVcFec9J6) - central shopping mall with the usual brands
 
 <!-- -->
