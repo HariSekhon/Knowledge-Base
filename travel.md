@@ -1293,6 +1293,9 @@ although they rack up if leaving your car there for days or weeks.
 [This article](https://www.hirecarprague.com/useful-info-about-prague/where-can-you-park-without-paying-free-parking-tips-in-prague-and-brno#:~:text=Outskirts.,%2C%20Vyso%C4%8Dany%2C%20Hodkovi%C4%8Dky%20%C4%8Di%20Kr%C4%8D.)
 has suggestions for free street parking places.
 
+Prague Airport Parking C is very expensive - 1400kc (£48) for 24 hours, 1800kc (£62) for 2 days.
+Arrange a nearby parking next time
+
 ##### Prague Restaurants
 
 - [Mexicka](https://maps.app.goo.gl/VSyN7FP2htPcRWPc7) - the best mexican I ever remember having, modern and vibrant,
@@ -1475,8 +1478,7 @@ has suggestions for free street parking places.
 <!-- -->
 
 - Prague Airport - the food court restaurant is surprisingly reasonably priced and 34kc for a bottle of water is better
-  than 50kc at the vending machines in the main terminal lounges. Even Airport Parking C is damn expensive,
-  1400kc (£48) for 24 hours, 1800kc (£62) for 2 days. Arrange a nearby parking next time
+  than 50kc at the vending machines in the main terminal lounges
 
 TODO:
 
