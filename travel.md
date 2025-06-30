@@ -1376,7 +1376,8 @@ You will hear American accents often in Prague, it is this tourism that has caus
   the usual spirits but little variety of soft drinks, tea, coffee.
   It's a drinking and burger place.
   The fries came soft, would have been better if crispy.
-  The mango chilli sauce is totallu worth it though, ask for extra on the side to dip your fries.
+  The mango chilli sauce is totally worth it though, ask for extra on the side to dip your fries.
+  This is a good option if you wake up at 11pm and everything else is closed, the kitchen here is open until midnight.
   Wifi didn't work, and it's CASH ONLY
 - [La Piccola Perla](https://maps.app.goo.gl/3BrVgTYGAdYQ38u76) - Italian, if you need a break from so much goulash,
   svickova etc. Has great pizzas. I had the piccola perla pizza with parma ham, salami, marinated red peppers,
