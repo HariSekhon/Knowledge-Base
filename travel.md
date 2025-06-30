@@ -1467,7 +1467,10 @@ has suggestions for free street parking places.
   with mushroom was ok, need to try their goulash
 - [MyRaw Café](https://maps.app.goo.gl/acjCbKC1NuzfTbidA) - vegan cafe, but has an Acai smoothie bowl which is
   reasonable and topped with nuts and seeds granola, banana and strawberry. Wifi 92/25 Mbit/s
-- [Palladium](https://maps.app.goo.gl/Hgs1KqvtPVcFec9J6) - central shopping mall with the usual brands
+- [Červený koŕal](https://maps.app.goo.gl/HTAR2u6kTg3So3457) - surprisingly decent reasonably priced Chinese food in the
+  food court of [Máj Národní](https://maps.app.goo.gl/4CBcM613iaD9u9r18) shopping mall.
+  For when you need a break from czech goulash, dumplings, duck etc.
+- [Palladium](https://maps.app.goo.gl/Hgs1KqvtPVcFec9J6) - central shopping mall with the usual Western brands
 
 <!-- -->
 
