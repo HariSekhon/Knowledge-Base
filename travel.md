@@ -1470,9 +1470,12 @@ Arrange a nearby parking next time
   with mushroom was ok, need to try their goulash
 - [MyRaw Café](https://maps.app.goo.gl/acjCbKC1NuzfTbidA) - vegan cafe, but has an Acai smoothie bowl which is
   reasonable and topped with nuts and seeds granola, banana and strawberry. Wifi 92/25 Mbit/s
-- [Červený koŕal](https://maps.app.goo.gl/HTAR2u6kTg3So3457) - surprisingly decent reasonably priced Chinese food in the
+- [Červený Koŕal](https://maps.app.goo.gl/HTAR2u6kTg3So3457) - surprisingly decent reasonably priced Chinese food in the
   food court of [Máj Národní](https://maps.app.goo.gl/4CBcM613iaD9u9r18) shopping mall.
-  For when you need a break from czech goulash, dumplings, duck etc.
+  For when you need a break from czech goulash, dumplings, duck etc. The name translates to Red Coral
+- [Čínská Restaurace](https://maps.app.goo.gl/3ekUKBsu2i5CmEPt9) - literally translates to Chinese Restaurant - slightly
+  pricier than Červený koŕal above but the portion size was large, you could split a main between two and just get 2 egg
+  fried rice. The sechuan chicken wasn't spicy though, they probably figure the locals and Americans can't take chilli
 - [Burrito Loco](https://maps.app.goo.gl/rsNkjggfaRUJU2s68) - good affordable late night burritos and tortilla chips.
   The smaller burrito is only 139kc (£4.80) for 200g, ok for a late night snack while not over eating.
   The grande (large) burrito  is 500g and really big for 179kc (£6.20).
