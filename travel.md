@@ -1473,6 +1473,13 @@ Arrange a nearby parking next time
 - [Červený koŕal](https://maps.app.goo.gl/HTAR2u6kTg3So3457) - surprisingly decent reasonably priced Chinese food in the
   food court of [Máj Národní](https://maps.app.goo.gl/4CBcM613iaD9u9r18) shopping mall.
   For when you need a break from czech goulash, dumplings, duck etc.
+- [Burrito Loco](https://maps.app.goo.gl/rsNkjggfaRUJU2s68) - good affordable late night burritos and tortilla chips.
+  The smaller burrito is only 139kc (£4.80) for 200g, ok for a late night snack while not over eating.
+  The grande (large) burrito  is 500g and really big for 179kc (£6.20).
+  Ideally there should have been a size in between.
+  The tortilla chips are cheaper 40kc when bought with a burrito, 75kc otherwise.
+  The mango habanero salsa is spicy and sweet with a 3 chilli rating, and totally worth it.
+  The next one down habanero salsa while 2 chillis rating is nowhere near as spicy
 - [Palladium](https://maps.app.goo.gl/Hgs1KqvtPVcFec9J6) - central shopping mall with the usual Western brands
 
 <!-- -->
