@@ -1480,6 +1480,11 @@ Arrange a nearby parking next time
   The tortilla chips are cheaper 40kc when bought with a burrito, 75kc otherwise.
   The mango habanero salsa is spicy and sweet with a 3 chilli rating, and totally worth it.
   The next one down habanero salsa while 2 chillis rating is nowhere near as spicy
+- [The Globe Bookstore And Café](https://maps.app.goo.gl/X7EFzUvZUxaB35VcA) - touristy bookstore themed cafe with
+  American brunch until 12:30pm - fattening. Had the Jumberjack which is half a plate of 3 scrambled eggs, 2 french
+  toasts with maple syrup, 2 bacon rashers burnt black, 2 small sausages, and "house fries" which is actually a bunch of
+  potato squares fried until your fork can't pierce them. Perhaps a good stodgy breakfast to recover from a night of
+  heavy drinking, but you cannot eat this every day. Slow wifi 3/0.4 Mbit/s
 - [Palladium](https://maps.app.goo.gl/Hgs1KqvtPVcFec9J6) - central shopping mall with the usual Western brands
 
 <!-- -->
