@@ -1367,6 +1367,8 @@ Arrange a nearby parking next time
   colour topped with nuts, coconut flakes, strawberry, blueberry and raspberry, a kumquat and a drizzle of peanut
   butter. Open until 6pm and has a second location at [Dusni](https://maps.app.goo.gl/EimXByt64jX74e6X6).
   Wifi 33/5 Mbit/s
+- [Coffee and Riot](https://maps.app.goo.gl/FEFbdsGqQcGxyYVq7) - tucked away coffee shop that does brunch until 2pm
+  Wednesday to Sunday (why only those days??). Wifi 25/0.8 Mbit/s
 - [Herbivore](https://maps.app.goo.gl/ATehbfWrdjUikmSo8) - vegan cafe, has Acai bowl which is small but very good,
   topped with mango, chia seeds and coconut flakes. It's small size is ok because at 165kc it's nearly half the price of
   other places, and makes a perfectly sized snack. Friendly staff too
