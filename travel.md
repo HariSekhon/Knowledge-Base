@@ -2131,11 +2131,10 @@ You will run out of things to do.
 
 - [Rozengrāls](https://rozengrals.lv/en/#nav) - Medieval restaurant with good menu and ambience. They do a suckling piglet spit roast only on
   Fridays and Saturdays
+- [St. Peter's Church](https://maps.app.goo.gl/SJMk9s1zr36SYNPL8) - check out the view from St Peter's Church, they will
+  charge €9 for entry to the tower though. Capitalism applies even to the church it seems
 - [Dzintari Forest Park](https://maps.app.goo.gl/xLusynMkirWyvyUm7)
 - [Dzintari Beach](https://maps.app.goo.gl/h8uuFn2PGAtiSzmd8)
-
-Check out the view from St Peter's Church, they will charge €9 for entry to the tower.
-Capitalism applies even to the church it seems.
 
 ### Lithuania
 
