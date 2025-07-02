@@ -96,7 +96,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Paris](#paris)
   - [Georgia](#georgia)
     - [Georgia Flights](#georgia-flights)
-    - [Georgia Taxies](#georgia-taxies)
+    - [Georgia Taxis](#georgia-taxis)
     - [Tbilisi Airport](#tbilisi-airport)
     - [Tbilisi](#tbilisi)
   - [Germany](#germany)
@@ -1608,7 +1608,7 @@ I missed my transfer flights both in and out of Tbilisi. This is probably one of
 
 This is how I came up with the [Flights Gotchas section](#flights-gotchas).
 
-#### Georgia Taxies
+#### Georgia Taxis
 
 Do not use Airport taxis, they are double the price of using the Bolt app.
 
