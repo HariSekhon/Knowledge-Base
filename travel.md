@@ -1554,9 +1554,6 @@ It's been too many years since I've been so I don't have any restaurant recommen
 
 The best of the three Baltic countries IMO, with prettier women and just generally feels slightly more developed.
 
-
-- [Villa Thai](https://maps.app.goo.gl/qNo16NR5M37nBaD76) - good quality, but not cheap
-
 #### Tallinn
 
 Tallinn, the capital, can be done in 2 days. There are plenty of good restaurants to visit.
@@ -1568,6 +1565,7 @@ Tallinn, the capital, can be done in 2 days. There are plenty of good restaurant
 - [Viru Lokaal](https://maps.app.goo.gl/RNdvDx8qSxHLKdUs9) - popular drinks venue on the main high street, open late
 - [Depeche Mode Baar](https://maps.app.goo.gl/xPtY6vaY4XxXYJvX9) - surprisingly cool bar playing Depeche Mode on a side
   street with trendy interior and some games machines
+- [Villa Thai](https://maps.app.goo.gl/qNo16NR5M37nBaD76) - good quality, but not cheap
 
 ### France
 
