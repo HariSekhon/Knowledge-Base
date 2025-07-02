@@ -82,6 +82,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Czech Republic / Czechia](#czech-republic--czechia)
     - [Czech Motorway Tolls - Vignettes](#czech-motorway-tolls---vignettes)
     - [Prague](#prague)
+      - [Prague Taxis](#prague-taxis)
       - [Prague Parking](#prague-parking)
       - [Prague Restaurants](#prague-restaurants)
     - [Brno](#brno)
@@ -97,7 +98,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Georgia Flights](#georgia-flights)
     - [Georgia Taxies](#georgia-taxies)
     - [Tbilisi Airport](#tbilisi-airport)
-    - [Tibilisi](#tibilisi)
+    - [Tbilisi](#tbilisi)
   - [Germany](#germany)
     - [Driving in Germany](#driving-in-germany)
     - [Bonn](#bonn)
@@ -1283,6 +1284,11 @@ You may want to consider staying in a hostel here just due to the prices.
 
 You will hear American accents often in Prague, it is this tourism that has caused the somewhat high prices.
 
+##### Prague Taxis
+
+- [Bolt](https://bolt.eu/en-cz/) - usually a bit cheaper than Uber in my experience
+- [Uber](https://www.uber.com/cz/en/)
+
 ##### Prague Parking
 
 Parking is a nightmare in Prague, like many anti-car European cities, and due to residents parking permits.
@@ -1611,7 +1617,7 @@ Except you can't swipe on a laptop and pressing any combination of the right arr
 
 So you can't connect your laptop to the airport wifi, only your phone.
 
-#### Tibilisi
+#### Tbilisi
 
 - [Chika](https://maps.app.goo.gl/ukVeBmmArPPczDGs7) - stylish gentrified cafe with good food and desserts too.
   The potato waffle with smoked salmon and poached on on top was a very good small plate meal in between meals.
