@@ -2165,7 +2165,7 @@ Avoid December - February due to heavy rains.
 Take the train to Kuala Lumpur before midnight otherwise you will get
 price gauged on taxis as Grab had no drivers left available.
 
-- [Grab](https://www.grab.com/) - the main taxi app in Kuala Lumpur, has it's own area opposite the airport entrance
+- [Grab](https://www.grab.com/) - the main taxi app in Kuala Lumpur, has its own area opposite the airport entrance
 
 #### Kuala Lumpur
 
