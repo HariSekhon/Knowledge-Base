@@ -2129,7 +2129,7 @@ Riga, the capital, is nice for a visit for perhaps 2 days.
 
 You will run out of things to do.
 
-- [Rozengrāls](https://rozengrals.lv/en/#nav) medieval restaurant is recommended. They do a suckling piglet spit roast only on Friday and
+- [Rozengrāls](https://rozengrals.lv/en/#nav) - Medieval restaurant with good menu. They do a suckling piglet spit roast only on Friday and
   Saturdays
 - [Dzintari Forest Park](https://maps.app.goo.gl/xLusynMkirWyvyUm7)
 - [Dzintari Beach](https://maps.app.goo.gl/h8uuFn2PGAtiSzmd8)
