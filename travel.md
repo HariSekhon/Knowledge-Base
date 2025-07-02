@@ -1286,7 +1286,7 @@ You will hear American accents often in Prague, it is this tourism that has caus
 
 ##### Prague Taxis
 
-- [Bolt](https://bolt.eu/en-cz/) - usually a bit cheaper than Uber in my experience
+- [Bolt](https://bolt.eu/en-cz/) - usually a bit cheaper than Uber in my experience, but this can fluctate so check both
 - [Uber](https://www.uber.com/cz/en/)
 
 ##### Prague Parking
@@ -1334,6 +1334,8 @@ Arrange a nearby parking next time
   and "pastry" which is just a bread basket of 1 piece white and 1 piece brown bread.
   The Boost juice with pineapple, banana, kiwi and orange was as good as it could be,
   and comes in a tall slim glass, probably 250ml.
+  The acai bowl is cheaper than other places but a bit small,
+  comes with a small bowl of strawberries and granola & nuts, which can overpower the amount of acai, but still good.
   Wifi 8/13 Mbit/s
 - [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road in a central area, so less of a tourist
   trap, but it was still full, I had to wait for a table.
@@ -1364,17 +1366,18 @@ Arrange a nearby parking next time
   which makes it lack a bit of the fill factor of a regular eggs benedict, but has bacon, a few small slices of avocado,
   half a passionfruit, and few sprinkles of pomegranate seeds.
   Very gentrified! Laskava has indoor and outdoor al fresco seating. Wifi is only 2/1 Mbit/s outside though
-- [ACAI POKE superfood & espresso bar](https://maps.app.goo.gl/GTMiCCFtRGxyHFSh8) - brazilian lime poke bowl with mango,
-  apple, berries and yoghurt was good (the berries were frozen though), 260kc (£9).
+- [ACAI POKE superfood & espresso bar](https://maps.app.goo.gl/GTMiCCFtRGxyHFSh8) - my favourite Acai place in Prague.
+  The brazilian lime poke bowl with mango,
+  apple, berries and yoghurt is very good (the berries were frozen though), 260kc (£9).
   Bit of a walk from the centre to Prague 2 Žižkov for it though. 81/40 Mbit/s wifi
-- [Venue](https://maps.app.goo.gl/kqx8RZ3vg4b2ea2ZA) - two sided brunch restaurant spanning 2 adjacent streets,
+- [Venue](https://maps.app.goo.gl/kqx8RZ3vg4b2ea2ZA) - brunch restaurant with 2 venues on 2 adjacent streets,
   [Rytířská](https://maps.app.goo.gl/E4dpjqSEQ8mJzQCm8) and [Havelská](https://maps.app.goo.gl/pJjv1UAPdnvpgDkH9). All
-  day brunch, has scrambled eggs at moderate price and easily one of the best Acai bowls I've had in Prague, deep purple
-  colour topped with nuts, coconut flakes, strawberry, blueberry and raspberry, a kumquat and a drizzle of peanut
-  butter. Open until 6pm and has a second location at [Dusni](https://maps.app.goo.gl/EimXByt64jX74e6X6).
+  day brunch, has scrambled eggs on a hot dog bun at moderate price but what brings me back is the Acai bowl - it's
+  easily one of the best Acai bowls I've had in Prague, deep purple colour topped with nuts, coconut flakes, strawberry,
+  blueberry and raspberry, a kumquat and a drizzle of almond butter, chia and pumpkin seeds.
+  This is my second favourite Acai bowl in Prague after the Acai Poke place above.
+  Open until 6pm and has a second location at [Dusni](https://maps.app.goo.gl/EimXByt64jX74e6X6).
   Wifi 33/5 Mbit/s
-- [Coffee and Riot](https://maps.app.goo.gl/FEFbdsGqQcGxyYVq7) - tucked away coffee shop that does brunch until 2pm
-  Wednesday to Sunday (why only those days??). Wifi 25/0.8 Mbit/s
 - [Herbivore](https://maps.app.goo.gl/ATehbfWrdjUikmSo8) - vegan cafe, has Acai bowl which is small but very good,
   topped with mango, chia seeds and coconut flakes. It's small size is ok because at 165kc it's nearly half the price of
   other places, and makes a perfectly sized snack. Friendly staff too
@@ -1383,7 +1386,10 @@ Arrange a nearby parking next time
 - [Rio AÇAÍ A Smoothie Bar](https://maps.app.goo.gl/NSQhsSVAxoU2rQau8) - acai cup was better than expected for a
   commercial-chain-looking place, there are 3 options - I've had the Rio which lots of granola, chocolate flakes, and
   other crunchy bits, some fruit, peanut/almond butter. I've also had the Power which is also good, has some protein
-  powder, peanuts, peanut butter, as well as strawberry, blueberry, banana, oats, chia seeds, hemp seeds etc.
+  powder, peanuts, peanut butter, as well as strawberry,
+  blueberry, banana, oats, chia seeds, hemp seeds etc. Within my top 3 acai places in Prague right now
+- [Coffee and Riot](https://maps.app.goo.gl/FEFbdsGqQcGxyYVq7) - tucked away coffee shop that does brunch until 2pm
+  Wednesday to Sunday (why only those days??). Wifi 25/0.8 Mbit/s
 - [Sweet & Pepper Days](https://maps.app.goo.gl/cWsk4zTSLVPon3Yo7) - good eggs benedict on a homemade flatbread with bok
   choi in a tasty asian-style sauce, but a bit pricey at 330kc, and 105kc for chai latte, golden milk latte or beetroot
   cocoa late, compared to 90kc at the adjacent place. Main and 2 drinks came to 540kc (£18) which is pricey for here
