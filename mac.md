@@ -79,7 +79,9 @@ heavyweight IDEs like [IntelliJ](intellij.md).
       - [Multiple Partition and Format](#multiple-partition-and-format)
     - [Encrypt APFS Filesystem](#encrypt-apfs-filesystem)
     - [Erase a disk before decommissioning it](#erase-a-disk-before-decommissioning-it)
-      - [WARNING: disk numbers may shunt up in numbers as you insert more removal drives, especially for 'synthesized' virtual disks that display for volume containers](#warning-disk-numbers-may-shunt-up-in-numbers-as-you-insert-more-removal-drives-especially-for-synthesized-virtual-disks-that-display-for-volume-containers)
+    - [Create an Encrypted File Volume](#create-an-encrypted-file-volume)
+      - [GUI - Disk Management Utility](#gui---disk-management-utility)
+      - [CLI - HDIutil](#cli---hdiutil)
   - [Service Management](#service-management)
 - [KeyChain Access](#keychain-access)
 - [Binaries Debugging](#binaries-debugging)
@@ -1154,7 +1156,11 @@ diskutil verifyPermissions "/Volumes/$NAME"
 diskutil repairPermissions "/Volumes/$NAME"
 ```
 
-Format a partition This is risky because there is no confirmation, better to do this from Disk Utility:
+**These operations are risky as you might get the disk wrong - it's much easier and safer to do this in Disk Utility!**
+
+Format a partition:
+
+**Risky because there is no confirmation and you could end up doing this to the wrong disk!!**
 
 ```shell
 diskutil eraseDisk "$filesystem" "$name" "/dev/$diskN"
@@ -1205,7 +1211,9 @@ diskutil rename "$volume_name" "$new_volume_name"
 
 #### Partition and Format a disk
 
-APFS requires GPT partition table
+**These operations are risky as you might get the disk wrong - it's much easier and safer to do this in Disk Utility!**
+
+APFS requires GPT partition table.
 
 ```shell
 disk="disk4"
@@ -1287,7 +1295,7 @@ Either use Disk Utility above, a command like `diskutil eraseDisk ...` or the mo
 custom command like this to do a moderate 3 pass overwrite
 (tune number of `passes` variable to suit your level of data recovery paranoia, eg. DoD standard 7 passes):
 
-##### WARNING: disk numbers may shunt up in numbers as you insert more removal drives, especially for 'synthesized' virtual disks that display for volume containers
+**WARNING: disk numbers may shunt up in numbers as you insert more removal drives, especially for 'synthesized' virtual disks that display for volume containers**
 
 ```shell
 passes=3
@@ -1302,6 +1310,44 @@ done
 
 Note: multiple passes are only for old inaccurate HDDs rotating mechanical metal platter disk.
 For SSDs, you only need a single pass.
+
+#### Create an Encrypted File Volume
+
+To create an encrypted volume within a file...
+
+##### GUI - Disk Management Utility
+
+From the top menu in Disk Management:
+
+`File` -> `New Image` -> `Blank Image`:
+
+- Set the File Name
+- Set the fields at the bottom:
+  - `Volume Name` - how it appears when mounted
+  - `Encryption` - set to 256-AES encryption
+  - `Size` - eg. 100mb
+  - `Image Format` - set to `sparse disk image` (not `sparse bundle disk image` which uses a directory with 8MB fragments,
+    which is more efficient for backups but harder to manage as you need to keep the directory structure intact).
+
+##### CLI - HDIutil
+
+Stick if on an APFS encrypted USB using the sections above for extra security.
+
+```shell
+cd /Volumes/MyEncryptedUSB
+```
+
+```shell
+hdiutil create -encryption AES-256 -size 100m -fs APFS -type SPARSE -volname "$name" "$name.dmg"
+```
+
+```shell
+hdiutil attach "$name.dmg"
+```
+
+```shell
+hdiutil deattach "$name.dmg"
+```
 
 ### Service Management
 
