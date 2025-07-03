@@ -2,9 +2,28 @@
 
 The process of changing a file or data stream to be unreadable by someone with the passphrase or key.
 
+<!-- INDEX_START -->
+
+- [SSL](#ssl)
+- [Volume Encryption](#volume-encryption)
+- [File Encryption](#file-encryption)
+  - [GnuPG](#gnupg)
+  - [OpenSSL](#openssl)
+  - [Age - Actually Good Encryption](#age---actually-good-encryption)
+
+<!-- INDEX_END -->
+
 ## SSL
 
 See [SSL](ssl.md) doc.
+
+## Volume Encryption
+
+See these pages for details:
+
+- [VeraCrypt](veracrypt.md)
+- [Mac Native Volume Encryption](mac.md#encrypt-apfs-filesystem)
+- [Mac Native File as Encrypted Volume](mac.md#create-an-encrypted-file-volume)
 
 ## File Encryption
 
@@ -46,28 +65,6 @@ Decrypt (the `-d` / `--decrypt` is implicit):
 ```shell
 gpg "$file.gpg"
 ```
-
-### VeraCrypt
-
-<https://veracrypt.fr/en/Home.html>
-
-Fork of TrueCrypt.
-
-Supports strong encryption algorithms (e.g., AES, Serpent), including hidden volumes, which allow plausible deniability.
-
-Install on Mac:
-
-```shell
-brew install veracrypt
-```
-
-Create a 100 MB volume with a cascade of three encryption algorithms for strongest layered security:
-
-```shell
-veracrypt --create /path/to/volume --encryption AES-Twofish-Serpent --hash sha-512 --size 100M --password 'your_password' --volume-type normal
-```
-
-Then put files inside it.
 
 ### OpenSSL
 
