@@ -1351,6 +1351,8 @@ Arrange a nearby parking next time
   of olive oil and 1 sourdough toast. The yoghurt was not plain but had a a zing to it, like it was mixed with lemon.
   The "Protein Drink" is a chocolate milk but has this awful artificial sweet taste to it like protein shakes,
   I left half of it, skip that next time. Wifi 105/21 Mbit/s
+- [Pausteria café restaurant garden](https://maps.app.goo.gl/R8m6KTiJEY9Hg96Y9) - good menu, all day breakfast, has Acai
+  bowl and several good looking mains. Wifi 39/7 Mbit/s
 - [The Spot](https://maps.app.goo.gl/i8Bj5zRGHGzZSpSo6) - good brunch menu and prices. Has outdoor tables on the street
   and a bunch more inside. The scrambled eggs, while reasonably priced, wasn't that big. The Acai bowl was decent.
   Wifi 15/19 Mbit/s
