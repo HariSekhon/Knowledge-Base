@@ -1352,9 +1352,9 @@ Arrange a nearby parking next time
   The "Protein Drink" is a chocolate milk but has this awful artificial sweet taste to it like protein shakes,
   I left half of it, skip that next time. Wifi 105/21 Mbit/s
 - [Pausteria café restaurant garden](https://maps.app.goo.gl/R8m6KTiJEY9Hg96Y9) - good menu, all day breakfast, has Acai
-  bowl. The Beef Rib main was a drizzle style plate with 2 square pieces of beef, a potato dumpling ball that was almost
-  like a cake, and a pea puree. Not sure that main is relatively worth it for 389kc (£13.60), but the Acai was decent,
-  as was the chai latte. Wifi 39/7 Mbit/s
+  bowl. The Beef Rib main was a large drizzle style plate with 2 square pieces of beef, a potato dumpling ball that was
+  almost like a cake, and a green vegetable puree. Not sure it was relatively worth it for 389kc (£13.60), but the Acai
+  was decent, as was the chai latte. Overall blew 880 kc £32), which is pricey for Prague. Wifi 39/7 Mbit/s
 - [The Spot](https://maps.app.goo.gl/i8Bj5zRGHGzZSpSo6) - good brunch menu and prices. Has outdoor tables on the street
   and a bunch more inside. The scrambled eggs, while reasonably priced, wasn't that big. The Acai bowl was decent.
   Wifi 15/19 Mbit/s
