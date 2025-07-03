@@ -78,10 +78,10 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Partition and Format a disk](#partition-and-format-a-disk)
       - [Multiple Partition and Format](#multiple-partition-and-format)
     - [Encrypt APFS Filesystem](#encrypt-apfs-filesystem)
-    - [Erase a disk before decommissioning it](#erase-a-disk-before-decommissioning-it)
     - [Create an Encrypted File Volume](#create-an-encrypted-file-volume)
       - [GUI - Disk Management Utility](#gui---disk-management-utility)
       - [CLI - HDIutil](#cli---hdiutil)
+    - [Erase a disk before decommissioning it](#erase-a-disk-before-decommissioning-it)
   - [Service Management](#service-management)
 - [KeyChain Access](#keychain-access)
 - [Binaries Debugging](#binaries-debugging)
@@ -1289,28 +1289,6 @@ If you want to add a password hint you'll need to do this via the macOS GUI via 
 open -a "Disk Utility"
 ```
 
-#### Erase a disk before decommissioning it
-
-Either use Disk Utility above, a command like `diskutil eraseDisk ...` or the more portable unix command `dd` with a
-custom command like this to do a moderate 3 pass overwrite
-(tune number of `passes` variable to suit your level of data recovery paranoia, eg. DoD standard 7 passes):
-
-**WARNING: disk numbers may shunt up in numbers as you insert more removal drives, especially for 'synthesized' virtual disks that display for volume containers**
-
-```shell
-passes=3
-time \
-for number in $(seq $passes); do
-    echo pass $number
-    echo
-    time sudo dd if=/dev/urandom of=/dev/disk4 bs=1M
-    echo
-done
-```
-
-Note: multiple passes are only for old inaccurate HDDs rotating mechanical metal platter disk.
-For SSDs, you only need a single pass.
-
 #### Create an Encrypted File Volume
 
 To create an encrypted volume within a file...
@@ -1348,6 +1326,28 @@ hdiutil attach "$name.dmg"
 ```shell
 hdiutil deattach "$name.dmg"
 ```
+
+#### Erase a disk before decommissioning it
+
+Either use Disk Utility above, a command like `diskutil eraseDisk ...` or the more portable unix command `dd` with a
+custom command like this to do a moderate 3 pass overwrite
+(tune number of `passes` variable to suit your level of data recovery paranoia, eg. DoD standard 7 passes):
+
+**WARNING: disk numbers may shunt up in numbers as you insert more removal drives, especially for 'synthesized' virtual disks that display for volume containers**
+
+```shell
+passes=3
+time \
+for number in $(seq $passes); do
+    echo pass $number
+    echo
+    time sudo dd if=/dev/urandom of=/dev/disk4 bs=1M
+    echo
+done
+```
+
+Note: multiple passes are only for old inaccurate HDDs rotating mechanical metal platter disk.
+For SSDs, you only need a single pass.
 
 ### Service Management
 
