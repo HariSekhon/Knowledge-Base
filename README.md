@@ -601,7 +601,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 ## Security
 
 - [Security](security.md) TODO
-- [Encryption](encryption.md)
+- [Encryption](encryption.md):
   - [SSL](ssl.md) TODO
   - [VeraCrypt](veracrypt.md)
   - [Mac Native Volume Encryption](mac.md#encrypt-apfs-filesystem)
