@@ -1345,9 +1345,12 @@ Arrange a nearby parking next time
   and 3 medium sized potato rosti triangles.
   This would be perfect if it was with mash and actual whole root vegetables, as the venison is good quality lean meat.
   The restaurant as a big screen TV on which the football was playing, but they have NO Wifi.
+- [Crunch]()https://maps.app.goo.gl/3qYxUCDFq9aN2Qr38) - good menu and reasonable prices as it's a bit away from the
+  centre, but they didn't have ham so couldn't try the eggs benedict and went with the turkish eggs instead.
+  Wifi 105/21 Mbit/s
 - [The Spot](https://maps.app.goo.gl/i8Bj5zRGHGzZSpSo6) - good brunch menu and prices. Has outdoor tables on the street
-  and a bunch more inside. The scrambled eggs, while reasonably priced, wasn't that big. The Acai bowl was decent.
-  Wifi 15/19 Mbit/s
+ and a bunch more inside. The scrambled eggs, while reasonably priced, wasn't that big. The Acai bowl was decent.
+ Wifi 15/19 Mbit/s
 - [Khromberry](https://maps.app.goo.gl/wXe8X751536WM21x5) - all day brunch, eggs benedict with salmon was very
   reasonably priced but not large, although it came on a very think square slice of bread.
   The venue was top notch in decor and the music my type too, similar to Thailand, hot girls singing chill.
@@ -1402,6 +1405,11 @@ Arrange a nearby parking next time
   was good, the pea and spinach cream soup was also good and the chocolate cake with crushed pistachio centre was
   indulgently rich. They also give bread with balsamic vinegar dip.
   Overall a bit pricey, I spent nearly £25 without a drink and before tip
+- [Krčma u Parašutistů](https://maps.app.goo.gl/Ea2PN2d27cgygp5S8) - popular local pub restaurant with czech dishes.
+  I couldn't get a table here one evening so came back at 5:30pm before the rush.
+  Had so much beef goulash by this point, and potato pancakes with that be grated & fried,
+  so opted to go with the pork knuckle with cabbage and potato dumplings instead.
+  Wifi 31/24 Mbit/s
 - [Sad Man's Tongue](https://maps.app.goo.gl/hE7mDzv2r592roT76) - 1950s dive bar restaurant on a side street with a
   mango chilli burger called Chica Chica Boom (360kc / €15). Good menu, Western prices, has a large cocktail menu,
   the usual spirits but little variety of soft drinks, tea, coffee.
