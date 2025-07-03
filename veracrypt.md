@@ -2,7 +2,7 @@
 
 <https://veracrypt.io>
 
-Based on TrueCrypt, supports hidden volumes.
+Based on TrueCrypt, encrypt volumes or create encrypted file volumes. Also supports hidden volumes.
 
 Alternatively, on macOS, you can also create basic encrypted file volumes using the native mac tools
 as concisely documented on the [Mac](mac.md#create-an-encrypted-file-volume) page.
