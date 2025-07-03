@@ -1345,7 +1345,7 @@ Arrange a nearby parking next time
   and 3 medium sized potato rosti triangles.
   This would be perfect if it was with mash and actual whole root vegetables, as the venison is good quality lean meat.
   The restaurant as a big screen TV on which the football was playing, but they have NO Wifi.
-- [Crunch]()https://maps.app.goo.gl/3qYxUCDFq9aN2Qr38) - good menu and reasonable prices as it's a bit away from the
+- [Crunch](https://maps.app.goo.gl/3qYxUCDFq9aN2Qr38) - good menu and reasonable prices as it's a bit away from the
   centre, but they didn't have ham so couldn't try the eggs benedict and went with the turkish eggs instead.
   Wifi 105/21 Mbit/s
 - [The Spot](https://maps.app.goo.gl/i8Bj5zRGHGzZSpSo6) - good brunch menu and prices. Has outdoor tables on the street
