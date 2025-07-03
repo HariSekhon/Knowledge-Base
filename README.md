@@ -604,8 +604,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [Encryption](encryption.md):
   - [SSL](ssl.md) TODO
   - [VeraCrypt](veracrypt.md)
-  - [Mac Native Volume Encryption](mac.md#encrypt-apfs-filesystem)
-  - [Mac Native File as Encrypted Volume](mac.md#create-an-encrypted-file-volume)
+  - [Mac Native Encryption](mac.md#encrypt-apfs-filesystem)
 - [Kerberos](kerberos.md) TODO
 - [FreeIPA](freeipa.md) TODO
 - [Keycloak](keycloak.md)
