@@ -610,7 +610,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 - [FreeIPA](freeipa.md) TODO
 - [Keycloak](keycloak.md)
 - [Penetration Testing](pentesting.md) TODO
-- [Secrets Managers](secrets-managers.md)
+- [Secret Managers](secret-managers.md)
   - [HashiCorp Vault](vault.md)
   - [Keeper](keeper.md)
 - [SOC - Security Operations Center](security-operations-center.md)
