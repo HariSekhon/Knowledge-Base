@@ -39,5 +39,4 @@ open "$pkg"
 
 Follow the GUI prompts to complete installation.
 
-Note:
-re-running the installer will not detect that it's already installed and appears to just overwrite the installation.
+Note: re-running the installer will not detect that it's already installed and appears to just overwrite the installation.
