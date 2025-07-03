@@ -1347,8 +1347,10 @@ Arrange a nearby parking next time
   The restaurant as a big screen TV on which the football was playing, but they have NO Wifi.
 - [Crunch](https://maps.app.goo.gl/3qYxUCDFq9aN2Qr38) - good menu and reasonable prices as it's a bit away from the
   centre, but they didn't have ham so couldn't try the eggs benedict and went with the turkish eggs instead.
+  The turkish eggs was surprisingly good though, it came with 3 poached eggs on a bed of yoghurt with a generous amount
+  of olive oil and 1 sourdough toast. The yoghurt was not plain but had a a zing to it, like it was mixed with lemon.
   The "Protein Drink" is a chocolate milk but has this awful artificial sweet taste to it like protein shakes,
-  skip that next time. Wifi 105/21 Mbit/s
+  I left half of it, skip that next time. Wifi 105/21 Mbit/s
 - [The Spot](https://maps.app.goo.gl/i8Bj5zRGHGzZSpSo6) - good brunch menu and prices. Has outdoor tables on the street
   and a bunch more inside. The scrambled eggs, while reasonably priced, wasn't that big. The Acai bowl was decent.
   Wifi 15/19 Mbit/s
