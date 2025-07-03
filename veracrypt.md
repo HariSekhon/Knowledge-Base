@@ -20,11 +20,20 @@ package="veracrypt-fuse-t"
 brew install "$package"
 ```
 
-Then run the GUI installer:
+Then find the downloaded package installer:
 
 ```shell
 pkg="$(brew ls --verbose "$package" | grep '\.pkg$' | tee /dev/stderr)"
+```
+It'll print the package path, eg:
 
+```shell
+/opt/homebrew/Caskroom/veracrypt-fuse-t/1.26.24/VeraCrypt_Installer.pkg
+```
+
+Run the GUI installer package:
+
+```shell
 open "$pkg"
 ```
 
