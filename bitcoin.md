@@ -14,6 +14,7 @@
 - [Bitcoin Block Explorer Sites](#bitcoin-block-explorer-sites)
 - [Buy Giftcards Using Bitcoin](#buy-giftcards-using-bitcoin)
 - [Chainalysis](#chainalysis)
+- [BTCMap](#btcmap)
 - [TaxBit](#taxbit)
 - [Security](#security)
 - [Borrow Against Bitcoin](#borrow-against-bitcoin)
@@ -24,6 +25,7 @@
   - [Tutorial Videos](#tutorial-videos)
 - [The $5 Wrench Attack](#the-5-wrench-attack)
 - [Technical Stuff](#technical-stuff)
+- [Run Your Own Bitcoin Node](#run-your-own-bitcoin-node)
   - [Libraries](#libraries)
 
 <!-- INDEX_END -->
@@ -167,6 +169,8 @@ See your Bitcoin transaction in the ledger queue.
 
 <https://satscribe.chema.me/> - enter a TXID to get an AI powered explanation of it
 
+<https://bitnodes.io/> - see how many bitcoin core nodes are running worldwide and where
+
 ## Buy Giftcards Using Bitcoin
 
 <https://www.bitrefill.com/ae/en/>
@@ -176,6 +180,12 @@ See your Bitcoin transaction in the ledger queue.
 Analyzes the entire Bitcoin ledger to trace your Bitcoin holdings, transfers and cash outs etc.
 
 <https://www.chainalysis.com/>
+
+## BTCMap
+
+Find places to spend Bitcoin directly.
+
+<https://btcmap.org/>
 
 ## TaxBit
 
@@ -216,6 +226,7 @@ High interest rate though.
 
 ## Learning Resources
 
+- <https://bitcoin.org/en/>
 - [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) by Saifedean Ammous
 - [The Fiat Standard](https://www.amazon.com/Fiat-Standard-Slavery-Alternative-Civilization/dp/B09VVFCQ63) by Saifedean Ammous
 - [Broken Money](https://www.amazon.com/Broken-Money-Financial-System-Failing/dp/B0CNS7NQLD) by Lyn Alden
@@ -243,6 +254,18 @@ High interest rate though.
 ![$5 Wrench Attack](https://imgs.xkcd.com/comics/security.png)
 
 ## Technical Stuff
+
+## Run Your Own Bitcoin Node
+
+Official Bitcoin Core:
+
+<https://bitcoin.org/en/bitcoin-core/>
+
+Annoyingly this gets flagged by AVG Antivirus as malware and deleted.
+
+Alternative:
+
+<https://bitcoinknots.org/>
 
 ### Libraries
 
