@@ -1399,8 +1399,8 @@ Arrange a nearby parking next time
 - [Coffee and Riot](https://maps.app.goo.gl/FEFbdsGqQcGxyYVq7) - tucked away coffee shop that does brunch until 2pm
   Wednesday to Sunday (why only those days??). Wifi 25/0.8 Mbit/s
 - [Palacinka](https://maps.app.goo.gl/KadbzY1nJPRxY7kYA) - scrambled eggs plate was nicely balanced with 2 sourdough
-  half toasts, herb butter, lettuce, pink pinkled cauliflower, although the scrambled eggs were a bit running for my
-  preference. Wifi 6/4 Mbit/s even in outside seating by the street
+  half toasts, herb butter, lettuce, pink pickled cauliflower, although the scrambled eggs were a bit running for my
+  preference. Only available weekdays though, which is weird. Wifi 6/4 Mbit/s even in outside seating by the street
 - [U Matěje Kotrby Restaurant and Bar](https://maps.app.goo.gl/Vv2P72veUTERNFtq7) - the pork goulash in dark beer with
   bread dumplings, fresh red onions and pickled pepper, was one of the best I've had in Prague. Wifi 11/20 Mbit/s
 - [Sweet & Pepper Days](https://maps.app.goo.gl/cWsk4zTSLVPon3Yo7) - good eggs benedict on a homemade flatbread with bok
