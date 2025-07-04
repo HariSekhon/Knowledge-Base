@@ -1383,11 +1383,14 @@ Arrange a nearby parking next time
   (kitchen closes at 2:30pm).
   Eggs benedict was moderately priced at 240kc (£8) and good, with a good small vinaigrette side leaf salad.
   6/13 Mbit/s wifi
+- [VinCaffé](https://maps.app.goo.gl/9igDfXQ33FDcCTkF9) - indoor and nice rear garden seating, all day brunch, and good
+  daily weekday menu with very reasonable prices compared to most tourist trap places in Prague.
+  Wifi 69/23 Mbit/s even in the garden
 - [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
   the food!
   The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
   and comes with a piece of bread and a really good salad with pink pickles.
-  Get a side of truffles potatos to make the plate complete. Wifi 56/25 Mbit/s
+  Get a side of truffles potatoes to make the plate complete. Wifi 56/25 Mbit/s
 - [Herbivore](https://maps.app.goo.gl/ATehbfWrdjUikmSo8) - vegan cafe, has Acai bowl which is small but very good,
   topped with mango, chia seeds and coconut flakes. It's small size is ok because at 165kc it's nearly half the price of
   other places, and makes a perfectly sized snack. Friendly staff too
