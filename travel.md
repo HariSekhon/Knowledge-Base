@@ -1391,8 +1391,6 @@ Arrange a nearby parking next time
 - [Herbivore](https://maps.app.goo.gl/ATehbfWrdjUikmSo8) - vegan cafe, has Acai bowl which is small but very good,
   topped with mango, chia seeds and coconut flakes. It's small size is ok because at 165kc it's nearly half the price of
   other places, and makes a perfectly sized snack. Friendly staff too
-- [U Matěje Kotrby Restaurant and Bar](https://maps.app.goo.gl/Vv2P72veUTERNFtq7) - the pork goulash in dark beer with
-  bread dumplings, fresh red onions and pickled pepper, was one of the best I've had in Prague. Wifi 11/20 Mbit/s
 - [Rio AÇAÍ A Smoothie Bar](https://maps.app.goo.gl/NSQhsSVAxoU2rQau8) - acai cup was better than expected for a
   commercial-chain-looking place, there are 3 options - I've had the Rio which lots of granola, chocolate flakes, and
   other crunchy bits, some fruit, peanut/almond butter. I've also had the Power which is also good, has some protein
@@ -1400,6 +1398,11 @@ Arrange a nearby parking next time
   blueberry, banana, oats, chia seeds, hemp seeds etc. Within my top 3 acai places in Prague right now
 - [Coffee and Riot](https://maps.app.goo.gl/FEFbdsGqQcGxyYVq7) - tucked away coffee shop that does brunch until 2pm
   Wednesday to Sunday (why only those days??). Wifi 25/0.8 Mbit/s
+- [Palacinka](https://maps.app.goo.gl/KadbzY1nJPRxY7kYA) - scrambled eggs plate was nicely balanced with 2 sourdough
+  half toasts, herb butter, lettuce, pink pinkled cauliflower, although the scrambled eggs were a bit running for my
+  preference. Wifi 6/4 Mbit/s even in outside seating by the street
+- [U Matěje Kotrby Restaurant and Bar](https://maps.app.goo.gl/Vv2P72veUTERNFtq7) - the pork goulash in dark beer with
+  bread dumplings, fresh red onions and pickled pepper, was one of the best I've had in Prague. Wifi 11/20 Mbit/s
 - [Sweet & Pepper Days](https://maps.app.goo.gl/cWsk4zTSLVPon3Yo7) - good eggs benedict on a homemade flatbread with bok
   choi in a tasty asian-style sauce, but a bit pricey at 330kc, and 105kc for chai latte, golden milk latte or beetroot
   cocoa late, compared to 90kc at the adjacent place. Main and 2 drinks came to 540kc (£18) which is pricey for here
