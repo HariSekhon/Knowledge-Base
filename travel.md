@@ -1385,6 +1385,8 @@ Arrange a nearby parking next time
   6/13 Mbit/s wifi
 - [VinCaffé](https://maps.app.goo.gl/9igDfXQ33FDcCTkF9) - indoor and nice rear garden seating, all day brunch, and good
   daily weekday menu with very reasonable prices compared to most tourist trap places in Prague.
+  The scrambled eggs with ham are totally worth it for 145 kc, in a homemade style with 2 pieces of dark rye with nuts,
+  and 2 pieces of white baguette, as well as a salad with a nice light dressing.
   Wifi 69/23 Mbit/s even in the garden
 - [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
   the food!
