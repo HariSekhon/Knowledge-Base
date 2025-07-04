@@ -1355,22 +1355,6 @@ Arrange a nearby parking next time
   bowl. The Beef Rib main was a large drizzle style plate with 2 square pieces of beef, a potato dumpling ball that was
   almost like a cake, and a green vegetable puree. Not sure it was relatively worth it for 389kc (£13.60), but the Acai
   was decent, as was the chai latte. Overall blew 880 kc £32), which is pricey for Prague. Wifi 39/7 Mbit/s
-- [The Spot](https://maps.app.goo.gl/i8Bj5zRGHGzZSpSo6) - good brunch menu and prices. Has outdoor tables on the street
-  and a bunch more inside. The scrambled eggs, while reasonably priced, wasn't that big. The Acai bowl was decent.
-  Wifi 15/19 Mbit/s
-- [Khromberry](https://maps.app.goo.gl/wXe8X751536WM21x5) - all day brunch, eggs benedict with salmon was very
-  reasonably priced but not large, although it came on a very think square slice of bread.
-  The venue was top notch in decor and the music my type too, similar to Thailand, hot girls singing chill.
-  Stunning 529/43 Mbit/s Wifi
-- [Honest Taste](https://maps.app.goo.gl/YfNEKLoGyCr6mjLX8) - breakfast restaurant that closes at 3pm
-  (kitchen closes at 2:30pm).
-  Eggs benedict was moderately priced at 240kc (£8) and good, with a good small vinaigrette side leaf salad.
-  6/13 Mbit/s wifi
-- [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
-  the food!
-  The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
-  and comes with a piece of bread and a really good salad with pink pickles.
-  Get a side of truffles potatos to make the plate complete. Wifi 56/25 Mbit/s
 - [Bistro Cafē Laskavá](https://maps.app.goo.gl/aEYi7nFrrLucC1gm9) - next to Gron above, lovely benedict (eggs benedict)
   is pricey gentrified at 285kc (£9.60), and comes on two halves of a croissant,
   which makes it lack a bit of the fill factor of a regular eggs benedict, but has bacon, a few small slices of avocado,
@@ -1388,6 +1372,22 @@ Arrange a nearby parking next time
   This is my second favourite Acai bowl in Prague after the Acai Poke place above.
   Open until 6pm and has a second location at [Dusni](https://maps.app.goo.gl/EimXByt64jX74e6X6).
   Wifi 33/5 Mbit/s
+- [The Spot](https://maps.app.goo.gl/i8Bj5zRGHGzZSpSo6) - good brunch menu and prices. Has outdoor tables on the street
+  and a bunch more inside. The scrambled eggs, while reasonably priced, wasn't that big. The Acai bowl was decent.
+  Wifi 15/19 Mbit/s
+- [Khromberry](https://maps.app.goo.gl/wXe8X751536WM21x5) - all day brunch, eggs benedict with salmon was very
+  reasonably priced but not large, although it came on a very think square slice of bread.
+  The venue was top notch in decor and the music my type too, similar to Thailand, hot girls singing chill.
+  Stunning 529/43 Mbit/s Wifi
+- [Honest Taste](https://maps.app.goo.gl/YfNEKLoGyCr6mjLX8) - breakfast restaurant that closes at 3pm
+  (kitchen closes at 2:30pm).
+  Eggs benedict was moderately priced at 240kc (£8) and good, with a good small vinaigrette side leaf salad.
+  6/13 Mbit/s wifi
+- [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
+  the food!
+  The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
+  and comes with a piece of bread and a really good salad with pink pickles.
+  Get a side of truffles potatos to make the plate complete. Wifi 56/25 Mbit/s
 - [Herbivore](https://maps.app.goo.gl/ATehbfWrdjUikmSo8) - vegan cafe, has Acai bowl which is small but very good,
   topped with mango, chia seeds and coconut flakes. It's small size is ok because at 165kc it's nearly half the price of
   other places, and makes a perfectly sized snack. Friendly staff too
