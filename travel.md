@@ -1364,6 +1364,15 @@ Arrange a nearby parking next time
   The brazilian lime poke bowl with mango,
   apple, berries and yoghurt is very good (the berries were frozen though), 260kc (£9).
   Bit of a walk from the centre to Prague 2 Žižkov for it though. 81/40 Mbit/s wifi
+- [Café Pavlač](https://maps.app.goo.gl/mdmM4dTRfNCLTkhe7) - very reasonably priced scrambled eggs and a garden out the
+  back, as well as plenty of decent seating indoors
+- [VinCaffé](https://maps.app.goo.gl/9igDfXQ33FDcCTkF9) - indoor and nice rear garden seating, all day brunch, and good
+  daily weekday menu with very reasonable prices compared to most tourist trap places in Prague.
+  The scrambled eggs with ham are totally worth it for 145 kc (£5), in a homemade style with 2 pieces of dark rye with
+  nuts, and 2 pieces of white baguette, as well as a salad with a nice light dressing.
+  Wifi 69/23 Mbit/s even in the garden
+- [Bistro Sugar](https://maps.app.goo.gl/e1AohD1qMHWY2Vx37) - nice venue, reasonable prices, good scrambled eggs
+  (189kc / £6.60), a few seats out front, nice interior. Wifi drops off outside though
 - [Venue](https://maps.app.goo.gl/kqx8RZ3vg4b2ea2ZA) - brunch restaurant with 2 venues on 2 adjacent streets,
   [Rytířská](https://maps.app.goo.gl/E4dpjqSEQ8mJzQCm8) and [Havelská](https://maps.app.goo.gl/pJjv1UAPdnvpgDkH9). All
   day brunch, has scrambled eggs on a hot dog bun at moderate price but what brings me back is the Acai bowl - it's
@@ -1383,11 +1392,6 @@ Arrange a nearby parking next time
   (kitchen closes at 2:30pm).
   Eggs benedict was moderately priced at 240kc (£8) and good, with a good small vinaigrette side leaf salad.
   6/13 Mbit/s wifi
-- [VinCaffé](https://maps.app.goo.gl/9igDfXQ33FDcCTkF9) - indoor and nice rear garden seating, all day brunch, and good
-  daily weekday menu with very reasonable prices compared to most tourist trap places in Prague.
-  The scrambled eggs with ham are totally worth it for 145 kc (£5), in a homemade style with 2 pieces of dark rye with
-  nuts, and 2 pieces of white baguette, as well as a salad with a nice light dressing.
-  Wifi 69/23 Mbit/s even in the garden
 - [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
   the food!
   The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
