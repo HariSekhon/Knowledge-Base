@@ -1367,8 +1367,9 @@ as it also has a row of good brunch and coffee places on Angelicka.
   Very gentrified! Laskava has indoor and outdoor al fresco seating. Wifi is only 2/1 Mbit/s outside though
 - [ACAI POKE superfood & espresso bar](https://maps.app.goo.gl/GTMiCCFtRGxyHFSh8) - my favourite Acai place in Prague.
   The brazilian lime poke bowl with mango,
-  apple, berries and yoghurt is very good (the berries were frozen though), 260kc (£9).
-  Bit of a walk from the centre to Prague 2 Žižkov for it though. 81/40 Mbit/s wifi
+  apple, berries and yoghurt is my favourite (the berries were frozen though), 260kc (£9).
+  The "Hi, Barbie" and Superpower bowls are pretty similar.
+  It's a bit of a walk if you're coming from the centre to Prague 3 Žižkov for it though. 81/40 Mbit/s wifi
 - [Café Pavlač](https://maps.app.goo.gl/mdmM4dTRfNCLTkhe7) - very reasonably priced scrambled eggs and a garden out the
   back, as well as plenty of decent seating indoors
 - [VinCaffé](https://maps.app.goo.gl/9igDfXQ33FDcCTkF9) - indoor and nice rear garden seating, all day brunch, and good
