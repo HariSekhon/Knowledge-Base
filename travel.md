@@ -1539,6 +1539,12 @@ as it also has a row of good brunch and coffee places on Angelicka.
 
 <!-- -->
 
+- [Riegrovy Sady](https://maps.app.goo.gl/97rBm3YjG9PUZReJ8) - lovely park with a view
+- [Letna Park](https://maps.app.goo.gl/iLvHHGyjmwxG3FXp7) - another nice park with a view, and the fancy beer garden
+  listed above
+
+<!-- -->
+
 - Prague Airport - the food court restaurant is surprisingly reasonably priced and 34kc for a bottle of water is better
   than 50kc at the vending machines in the main terminal lounges
 
