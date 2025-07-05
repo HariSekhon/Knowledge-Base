@@ -1304,6 +1304,11 @@ Arrange a nearby parking next time
 
 ##### Prague Restaurants
 
+My favourite Brunch area is [Prague 3 aka Žižkov](https://maps.app.goo.gl/ZXwfEH74FakwwnyV8) as it has the most good
+brunch restaurants and better prices, as well as my favourite Acai place.
+My second favourite food area is [Prague 2, Vinohrady](https://maps.app.goo.gl/hjsApm13g4qdUYzN6),
+as it also has a row of good brunch and coffee places on Angelicka.
+
 - [Mexicka](https://maps.app.goo.gl/VSyN7FP2htPcRWPc7) - the best mexican I ever remember having, modern and vibrant,
   this is an unexpected hidden gem further out in Prague 7, an otherwise quiet neighbourhood. It's a large venue, packed
   out even on a Tuesday night, amazing for food and drinks, with 3 levels of tables and a bar on the middle floor.
