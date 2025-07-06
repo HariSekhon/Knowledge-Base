@@ -188,6 +188,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Slovakian Motorway Tolls - Vignettes](#slovakian-motorway-tolls---vignettes)
     - [Bratislava](#bratislava)
     - [Kosice](#kosice)
+  - [Slovenia](#slovenia)
+    - [Slovenian Motorway Tolls - Vignettes](#slovenian-motorway-tolls---vignettes)
   - [South Africa](#south-africa)
     - [Johannesburg](#johannesburg)
       - [Sandton](#sandton)
@@ -3168,6 +3170,14 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
 Small city with a nice historic centre, but none of the venues I tried impressed me.
 
 Would try [Slavia](https://www.kaviarenslavia.sk/jedalny-listok/) if I were to visit gain.
+
+### Slovenia
+
+#### Slovenian Motorway Tolls - Vignettes
+
+You must purchase a vignette for using Slovenia's motorways, you can buy them online here:
+
+<https://www.gov.si/en/topics/tolls/>
 
 ### South Africa
 
