@@ -86,6 +86,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
       - [Prague Parking](#prague-parking)
       - [Prague Restaurants](#prague-restaurants)
     - [Brno](#brno)
+    - [České Budějovice](#české-budějovice)
     - [Kutna Hora](#kutna-hora)
     - [Hradec Kralove](#hradec-kralove)
   - [Cyprus](#cyprus)
@@ -777,8 +778,8 @@ There are apps for Parkopedia for iPhone and Android.
 
 In the Parkopedia app, once you've selected the car park you can, share it to Waze to plan the journey there.
 
-Do not use Waze to get to the city and then try to find parking, that is more difficult, and Waze will sent you to some
-part of a city, often with not much there.
+Do not use Waze to get to the city and then try to find parking, that's more difficult, and Waze will often send you to
+some random part of a city, which has little there.
 
 ## Emigration
 
@@ -1564,6 +1565,22 @@ You only need a couple hours to walk around Brno, some nice architecture, and th
 
 - [Bavard cafe](https://maps.app.goo.gl/8FVSgxANxoSDrEYn8) - eggs benedict with bacon was good and large compared to
   some other places, although at 270kc (£9) this is expensive by local standards
+
+#### České Budějovice
+
+Historic town centre, you only need an hour to walk around it.
+
+- [Esence Café](https://maps.app.goo.gl/ufQKqYwqNVzjPkGL9) - decent chai latte and serves brunch until 6pm. The
+  scrambled eggs were decent, with 3 pieces of bread and a salad with a nice green dressing
+- [Samson fountain](https://maps.app.goo.gl/keQ5mquKBD7kyRds5) - the fountain and town square, the main bit you want to
+  see
+- [Parking Senovážné Square](https://maps.app.goo.gl/mpEdejhKuix6TafJ7) - only 10kc (£3.50) for 2 hours on Sunday when
+  I stopped there, enough time to walk around and have a coffee or brunch.
+  Check Parkopedia if this is different other days as per the [Parking](#parking) section near the top
+
+TODO:
+
+- [Stromovka Park](https://maps.app.goo.gl/HXoX4cTCy1zcyDam8) - park if you have time
 
 #### Kutna Hora
 
