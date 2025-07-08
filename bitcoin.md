@@ -118,6 +118,10 @@ See the [Crypto](crypto.md) page for a list of hardware wallets.
 
 ## Buy Bitcoin
 
+See market price and a bunch of other useful metrics on [BitBo's dashboard](https://bitbo.io/):
+
+<https://bitbo.io/>
+
 - Exchanges:
   - usually requires Know Your Customer (KYC) for regulatory compliance eg. XapoBank or the exchanges listed on the
     [Crypto](crypto.md) page
