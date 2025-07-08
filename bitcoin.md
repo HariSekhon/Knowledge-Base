@@ -165,11 +165,11 @@ Buying large amounts of Bitcoin is better done Over The Counter (OTC) if > $100k
 
 ## Bitcoin Block Explorer Sites
 
-See your Bitcoin transaction in the ledger queue.
-
-<https://mempool.space/>
+<https://mempool.space/> - see your Bitcoin transaction in the ledger queue
 
 <https://blockstream.info/>
+
+<https://bitbo.io/> - Bitcoin price and market movement dashboard
 
 <https://satscribe.chema.me/> - enter a TXID to get an AI powered explanation of it
 
