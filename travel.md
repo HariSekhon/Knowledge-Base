@@ -3214,6 +3214,18 @@ You must purchase a vignette for using Slovenia's motorways, you can buy them on
 
 <https://www.gov.si/en/topics/tolls/>
 
+Alternatively you can buy them at the border by taking the other lane for it. Save time, buy it online.
+
+#### Ljubljana
+
+- [Wonderland](https://maps.app.goo.gl/p5TD6eByJPzzmAft7) - in "Hotel Center", I walked past it and struggled to find
+  it following Google Maps, but worth the find.
+  Great menu full of fancy drinks, desserts, all day brunch with eggs, acai and oatmeal bowls,
+  pistacchio specials, "Instagrammable Coffees" eg. Ferrero Rocher coffee or pistacchio coffee with rims of pistacchios
+  or other nuts, the wonder mocha looks amazing, a full range of cocktails and mocktails, salads and main courses.
+  The classic breakfast (€12) was decent with 3 sunny side up fried eggs, 2 bacon rashers, 3 small toasts and mushrooms.
+  Wifi 6/4 Mbit/s
+
 ### South Africa
 
 A dangerous high crime country due to high inequality (the Gini coefficient of inequality correlates to crime).
