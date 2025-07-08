@@ -3227,7 +3227,18 @@ Alternatively you can buy them at the border by taking the other lane for it. Sa
   The classic breakfast (€12) was decent with 3 sunny side up fried eggs, 2 bacon rashers, 3 small toasts and mushrooms.
   Wifi 6/4 Mbit/s
 - [Barbarella Juice Bar](https://maps.app.goo.gl/11iGQAXvdURCNM9B6) - fresh juices, smoothies, sandwiches, salads, soup,
-  acai smoothie / oat / yoghurt bowls. Wifi is open but slow 2/0.2 Mbit/s
+  acai smoothie / oat / yoghurt bowls.
+  Wifi is open but slow 2/0.2 Mbit/s. Closes at 8pm so get there early
+- [Slovenska Hiša - Figovec](https://maps.app.goo.gl/VYKV7YAM4BFZyRLRA) - service was very slow to seat, 4 staff members
+  walked past and ignored me and the crowd of people that developed behind me queuing at the door for about 10 minutes,
+  until one of them finally acknowledged our existence and said "You'll all have to wait!" in an abrupt manner.
+  Charming! The goulash came extremely quickly, they obviously keep it ready to go,
+  and was actually quite good, with a mix of pork, beef and deer - one of the better ones I've had across Europe,
+  although still not as good as my exe's one (just like no Italian restaurant has ever made a bolognese as good as mine,
+  they probably wouldn't be willing to spend as much on ingredients).
+  The goulash is a stew and came with warm sliced baguette (which would have been better buttered but with the staff
+  situation I decided not to bother asking for butter as the food would probably be cold if I did).
+  The Wifi didn't work but managed to use another nearby open wifi
 
 ### South Africa
 
