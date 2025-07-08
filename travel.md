@@ -3226,8 +3226,8 @@ Alternatively you can buy them at the border by taking the other lane for it. Sa
   mocktails, salads and main courses.
   The classic breakfast (€12) was decent with 3 sunny side up fried eggs, 2 bacon rashers, 3 small toasts and mushrooms.
   Wifi 6/4 Mbit/s
-- [Barbarella Juice Bar](https://maps.app.goo.gl/11iGQAXvdURCNM9B6) - fresh juices, smoothies, sandwiches, soup, acai
-  smoothie / oat / yoghurt bowls
+- [Barbarella Juice Bar](https://maps.app.goo.gl/11iGQAXvdURCNM9B6) - fresh juices, smoothies, sandwiches, salads, soup,
+  acai smoothie / oat / yoghurt bowls
 
 ### South Africa
 
