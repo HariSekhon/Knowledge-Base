@@ -3220,9 +3220,10 @@ Alternatively you can buy them at the border by taking the other lane for it. Sa
 
 - [Wonderland](https://maps.app.goo.gl/p5TD6eByJPzzmAft7) - in "Hotel Center", I walked past it and struggled to find
   it following Google Maps, but worth the find.
-  Great menu full of fancy drinks, desserts, all day brunch with eggs, acai and oatmeal bowls,
-  pistacchio specials, "Instagrammable Coffees" eg. Ferrero Rocher coffee or pistacchio coffee with rims of pistacchios
-  or other nuts, the wonder mocha looks amazing, a full range of cocktails and mocktails, salads and main courses.
+  A perfect Instagrammable place with excellent decor and great menu full of fancy drinks, desserts, all day brunch with
+  eggs, acai and oatmeal bowls, pistacchio specials, "Instagrammable Coffees" eg. Ferrero Rocher coffee or pistacchio
+  coffee with rims of pistacchios or other nuts, the wonder mocha looks amazing, a full range of cocktails and
+  mocktails, salads and main courses.
   The classic breakfast (€12) was decent with 3 sunny side up fried eggs, 2 bacon rashers, 3 small toasts and mushrooms.
   Wifi 6/4 Mbit/s
 
