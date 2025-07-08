@@ -57,6 +57,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
       - [Vienna Parking](#vienna-parking)
       - [Vienna Restaurants](#vienna-restaurants)
     - [Graz](#graz)
+      - [Graz Parking](#graz-parking)
+      - [Graz Restaurants](#graz-restaurants)
   - [Belgium](#belgium)
     - [Antwerp](#antwerp)
     - [Brussels](#brussels)
@@ -836,6 +838,8 @@ You can buy the e-vignette online here:
 
 <https://tolltickets.com/en/products/austria/>
 
+WARNING: there is an extra €18.50 toll each way across the alps on the way to Graz.
+
 #### Vienna
 
 ##### Vienna Metro
@@ -912,7 +916,20 @@ Not Recommended:
 
 #### Graz
 
-TODO
+The second largest city in Austria, has some nice architecture in the centre.
+
+##### Graz Parking
+
+Parking is an absolute nightmare in Graz, like Vienna, everything is residence / paid parking.
+
+I had to paid €18 for 24 hours parking here because the hostel had hardly any parking,
+even 30 minutes walking distance outside the centre, and other places were even more expensive.
+
+##### Graz Restaurants
+
+- [Kylo](https://maps.app.goo.gl/ZpDsXPbgsjcLiLEV7) - gentrified brunch cafe / restaurant.
+  The Vulcano Eggs were decent (Vulcano ham is also known as parma ham), and the eggs come fried, but I asked them to
+  come poached instead, had to ask for butter for the sourdough toast
 
 ### Belgium
 
