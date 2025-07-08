@@ -3232,7 +3232,9 @@ Alternatively you can buy them at the border by taking the other lane for it. Sa
 - [Slovenska Hiša - Figovec](https://maps.app.goo.gl/VYKV7YAM4BFZyRLRA) - service was very slow to seat, 4 staff members
   walked past and ignored me and the crowd of people that developed behind me queuing at the door for about 10 minutes,
   until one of them finally acknowledged our existence and said "You'll all have to wait!" in an abrupt manner.
-  Charming! The goulash came extremely quickly, they obviously keep it ready to go,
+  Charming! The menu is actually pretty good though, with a good selection and reasonable pricing.
+  The restaurant occupancy and ambience was good too.
+  The goulash came extremely quickly, they obviously keep it ready to go,
   and was actually quite good, with a mix of pork, beef and deer - one of the better ones I've had across Europe,
   although still not as good as my exe's one (just like no Italian restaurant has ever made a bolognese as good as mine,
   they probably wouldn't be willing to spend as much on ingredients).
