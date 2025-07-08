@@ -343,6 +343,7 @@ This one is used widely throughout these pages:
 - [Python](python.md)
   - [Anaconda](anaconda.md)
 - [Golang](golang.md) TODO
+- [Rust](rust.md)
 - [Ruby](ruby.md)
 - [R](r.md) TODO
 - [TCL / Expect](programming.md#expect)
