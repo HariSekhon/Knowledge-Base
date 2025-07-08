@@ -928,8 +928,9 @@ even 30 minutes walking distance outside the centre, and other places were even 
 ##### Graz Restaurants
 
 - [Kylo](https://maps.app.goo.gl/ZpDsXPbgsjcLiLEV7) - gentrified brunch cafe / restaurant.
-  The Vulcano Eggs were decent (Vulcano ham is also known as parma ham), and the eggs come fried, but I asked them to
-  come poached instead, had to ask for butter for the sourdough toast
+  The Vulcano Eggs were decent (Vulcano ham is also known as parma ham), and the eggs come fried by default but I asked
+  them to come poached instead, had to ask for butter for the sourdough toast though
+  (who has toast without butter on it!)
 
 ### Belgium
 
