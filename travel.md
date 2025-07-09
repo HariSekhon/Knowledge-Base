@@ -192,7 +192,9 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Bratislava](#bratislava)
     - [Kosice](#kosice)
   - [Slovenia](#slovenia)
+    - [Slovenia Wifi](#slovenia-wifi)
     - [Slovenian Motorway Tolls - Vignettes](#slovenian-motorway-tolls---vignettes)
+    - [Ljubljana](#ljubljana)
   - [South Africa](#south-africa)
     - [Johannesburg](#johannesburg)
       - [Sandton](#sandton)
@@ -3207,6 +3209,13 @@ Small city with a nice historic centre, but none of the venues I tried impressed
 Would try [Slavia](https://www.kaviarenslavia.sk/jedalny-listok/) if I were to visit gain.
 
 ### Slovenia
+
+#### Slovenia Wifi
+
+Slovenia has surprisingly bad wifi in many places ranging from the hostel to coffee shops and restaurants,
+it is painfully slow and unreliable.
+
+Do not stay at Hostel Tivoli again, the wifi didn't work a lot of the time.
 
 #### Slovenian Motorway Tolls - Vignettes
 
