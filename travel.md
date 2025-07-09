@@ -192,7 +192,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Bratislava](#bratislava)
     - [Kosice](#kosice)
   - [Slovenia](#slovenia)
-    - [Slovenia Wifi](#slovenia-wifi)
+    - [Slovenian Wifi](#slovenian-wifi)
     - [Slovenian Motorway Tolls - Vignettes](#slovenian-motorway-tolls---vignettes)
     - [Ljubljana](#ljubljana)
   - [South Africa](#south-africa)
@@ -3210,7 +3210,7 @@ Would try [Slavia](https://www.kaviarenslavia.sk/jedalny-listok/) if I were to v
 
 ### Slovenia
 
-#### Slovenia Wifi
+#### Slovenian Wifi
 
 Slovenia has surprisingly bad wifi in many places ranging from the hostel to coffee shops and restaurants,
 it is painfully slow and unreliable.
