@@ -3231,9 +3231,9 @@ Alternatively you can buy them at the border by taking the other lane for it. Sa
 - [Barbarella Juice Bar](https://maps.app.goo.gl/11iGQAXvdURCNM9B6) - fresh juices, smoothies, sandwiches, salads, soup,
   acai smoothie / oat / yoghurt bowls.
   Wifi is open but slow 2/0.2 Mbit/s. Closes at 8pm so get there early
-- [Patron Tacos & Bar]() - popular tacos restaurant with reasonable prices and nice outdoor seating,
-  inside with stool seating, outdoor benches probably aren't great for winter.
-  The horchata sweet cinnamon coconut milk drink is really nice (€4)
+- [Patron Tacos & Bar](https://maps.app.goo.gl/gGj3kgaThCyAD8wo8) - popular tacos restaurant with reasonable prices and
+  nice outdoor seating, inside with stool seating, outdoor benches probably aren't great for winter.
+  The horchata drink (€4) is really nice, a sweet coconut milk drink with a cinnamon stick in it,
   and comes in a good size (400ml?) unlike a lot of juice drinks here which are often a meagre 2dl (200ml).
   The fried white fish tacos come absolutely loaded, you will struggle to not drop pieces all over your plate.
   The shrimp taco is smaller and seriously spicy - they apologise on the menu that they cannot make it less spicey,
