@@ -3235,12 +3235,14 @@ Alternatively you can buy them at the border by taking the other lane for it. Sa
   nice outdoor seating, inside with stool seating, outdoor benches probably aren't great for winter.
   The horchata drink (€4) is really nice, a sweet coconut milk drink with a cinnamon stick in it,
   and comes in a good size (400ml?) unlike a lot of juice drinks here which are often a meagre 2dl (200ml).
-  The fried white fish tacos come absolutely loaded, you will struggle to not drop pieces all over your plate.
-  The shrimp taco is smaller and seriously spicy - they apologise on the menu that they cannot make it less spicey,
-  probably because the chilli paste covering the shrimp is already made.
+  The fried white fish taco (€5.50) comes absolutely loaded, you will struggle to not drop pieces all over your plate.
+  The shrimp taco (€5.50) is smaller and seriously spicy - they apologise on the menu that they cannot make it less
+  spicey, probably because the chilli paste covering the shrimp is already made.
   Two tacos were plenty of food for me, they made a mistake and brought me 2 fish tacos instead of 1 shrimp one,
   so when they brought me the missing shrimp one I ended up with 3 tacos
-  and couldn't finish the spare white fish taco anyway. Contender for the best €15 I spent in Ljubljana. Wifi 9/8 Mbit/s
+  and couldn't finish the spare white fish taco anyway.
+  Overall good value for money compared to other places in the city, and a contender for the best €15 I spent in
+  Ljubljana. Wifi 9/8 Mbit/s
 - [Slovenska Hiša - Figovec](https://maps.app.goo.gl/VYKV7YAM4BFZyRLRA) - service was very slow to seat, 4 staff members
   walked past and ignored me and the crowd of people that developed behind me queuing at the door for about 10 minutes,
   until one of them finally acknowledged our existence and said "You'll all have to wait!" in an abrupt manner.
