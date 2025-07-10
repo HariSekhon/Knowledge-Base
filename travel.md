@@ -806,7 +806,7 @@ get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return 
 
 ## Countries
 
-Number of Countries: 38
+Number of Countries: 39
 
 - Countries in 2024: 18
   - UAE, France, Belgium, Germany, Poland, Lithuania, Latvia, Estonia, Sweden, Slovakia, Hungary, Serbia, Morocco,
@@ -816,8 +816,8 @@ Number of Countries: 38
     (the latter was borderline a different country, there are actually Welsh signs I can't read)
 - Countries in 2025: 15
   - Vietnam (continued), Cambodia, Laos, Bali (Indonesia), Malayasia, Singapore, Taiwan, Serbia, Bulgaria, Romania,
-    Hungary, Slovakia, Austria, Czechia, Poland
-- Unique Countries since Emigrating from the UK in 2024: 28
+    Hungary, Slovakia, Austria, Czechia, Poland, Slovenia
+- Unique Countries since Emigrating from the UK in 2024: 29
 
 Below are specific tips for each country, including transport, restaurants etc.
 
