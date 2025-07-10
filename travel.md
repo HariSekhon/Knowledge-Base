@@ -3217,6 +3217,9 @@ it is painfully slow and unreliable.
 
 Do not stay at Hostel Tivoli again, the wifi didn't work a lot of the time.
 
+If you do stay at Hostel Tivoli,
+walk through the park to the centre, it's a much nicer walk and shaded most of the way by trees.
+
 #### Slovenian Motorway Tolls - Vignettes
 
 You must purchase a vignette for using Slovenia's motorways, you can buy them online here:
