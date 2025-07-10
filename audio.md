@@ -2,6 +2,8 @@
 
 <!-- INDEX_START -->
 
+- [Spotify](#spotify)
+  - [Clear Local Spotify Desktop Cache](#clear-local-spotify-desktop-cache)
 - [MP3 metadata editing](#mp3-metadata-editing)
   - [Setting Author and Album metadata](#setting-author-and-album-metadata)
   - [Setting Track Number metadata](#setting-track-number-metadata)
@@ -12,6 +14,24 @@
   - [Marketing Matters](#marketing-matters)
 
 <!-- INDEX_END -->
+
+## Spotify
+
+### Clear Local Spotify Desktop Cache
+
+Close Spotify, delete the cache and then re-open the app.
+
+On Mac:
+
+```shell
+rm -rf ~/Library/"Application Support"/Spotify/PersistentCache/Storage
+```
+
+On Linux:
+
+```shell
+rm -rf ~/.cache/spotify/Storage
+```
 
 ## MP3 metadata editing
 
