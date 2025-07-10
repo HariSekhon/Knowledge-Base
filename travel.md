@@ -3258,6 +3258,9 @@ Alternatively you can buy them at the border by taking the other lane for it. Sa
   and couldn't finish the spare white fish taco anyway.
   Overall good value for money compared to other places in the city, and a contender for the best €15 I spent in
   Ljubljana. Wifi 9/8 Mbit/s
+- [Pop's Place Burger Bar](https://maps.app.goo.gl/pbmCcioYuthJ73Va8) - good burgers, not too big.
+  The fries with herbs and parmesan has a lot of grated parmesan on it, totally worth it.
+  The homemade lemonade with ginger is good but not sweet. Wifi 39/8 Mbit/s
 - [Slovenska Hiša - Figovec](https://maps.app.goo.gl/VYKV7YAM4BFZyRLRA) - service was very slow to seat, 4 staff members
   walked past and ignored me and the crowd of people that developed behind me queuing at the door for about 10 minutes,
   until one of them finally acknowledged our existence and said "You'll all have to wait!" in an abrupt manner.
