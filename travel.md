@@ -3239,6 +3239,9 @@ Alternatively you can buy them at the border by taking the other lane for it. Sa
   The classic breakfast (€12) was decent with 3 sunny side up fried eggs, 2 bacon rashers, 3 small toasts and mushrooms.
   The Eggs Royale with salmon was perhaps slightly better, and the extra poached egg for €2.30 wasn't really necessary
   as it's a decent amount of food.
+  The Eggs Benedict doesn't come with ham so it's a bit basic,
+  for €1 difference it's better to go with the Eggs Royale and get some salmon,
+  or else the classic breakfast with bacon and 3 eggs.
   Wifi 6/4 Mbit/s
 - [Barbarella Juice Bar](https://maps.app.goo.gl/11iGQAXvdURCNM9B6) - fresh juices, smoothies, sandwiches, salads, soup,
   acai smoothie / oat / yoghurt bowls.
