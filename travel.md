@@ -3246,7 +3246,7 @@ Alternatively you can buy them at the border by taking the other lane for it. Sa
 - [Barbarella Juice Bar](https://maps.app.goo.gl/11iGQAXvdURCNM9B6) - fresh juices, smoothies, sandwiches, salads, soup,
   acai smoothie / oat / yoghurt bowls. Wifi is open but slow 2/0.2 Mbit/s. Closes at 8pm so get there early
 - [R&B Cafe Roasters](https://maps.app.goo.gl/Sbg5YAFzo3xGMkxP9) - gentrified coffee shop, with a name like this you
-  just have to visit it.
+  just have to visit it. Closes at 6pm.
   The Acai bowl comes deep but not wide so has a moderate amount of fruit toppings, granola and almond flakes.
   The Acai bowl at Barbarella is better though, in both toppings and richness with a deeper darker purple. No Wifi!
 - [Patron Tacos & Bar](https://maps.app.goo.gl/gGj3kgaThCyAD8wo8) - popular tacos restaurant with reasonable prices and
