@@ -195,7 +195,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Slovenian Wifi](#slovenian-wifi)
     - [Slovenian Motorway Tolls - Vignettes](#slovenian-motorway-tolls---vignettes)
     - [Ljubljana](#ljubljana)
-  - [Bled](#bled)
+    - [Bled](#bled)
   - [South Africa](#south-africa)
     - [Johannesburg](#johannesburg)
       - [Sandton](#sandton)
@@ -3288,7 +3288,7 @@ You don't hate the government enough. :wink:
   situation I decided not to bother asking for butter as the food would probably be cold if I did).
   The Wifi didn't work but managed to use another nearby open wifi
 
-### Bled
+#### Bled
 
 A good day trip destination with a large picturesque lake, historic churches, food stall parade, souvenirs and many
 restaurants.
