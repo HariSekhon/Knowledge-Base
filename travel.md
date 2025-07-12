@@ -195,6 +195,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Slovenian Wifi](#slovenian-wifi)
     - [Slovenian Motorway Tolls - Vignettes](#slovenian-motorway-tolls---vignettes)
     - [Ljubljana](#ljubljana)
+  - [Bled](#bled)
   - [South Africa](#south-africa)
     - [Johannesburg](#johannesburg)
       - [Sandton](#sandton)
@@ -3286,6 +3287,19 @@ You don't hate the government enough. :wink:
   The goulash is a stew and came with warm sliced baguette (which would have been better buttered but with the staff
   situation I decided not to bother asking for butter as the food would probably be cold if I did).
   The Wifi didn't work but managed to use another nearby open wifi
+
+### Bled
+
+[Lake Bled](https://maps.app.goo.gl/4HNweRwz223Ho1mEA)
+is a good day trip destination with a large picturesque lake town, visited by many foreigners and locals.
+
+It's only around 35 minutes from Ljubljana bombing down the motorway by car.
+
+There's [Bled Castle](https://maps.app.goo.gl/4hMngTakzocVPHDm9) on a cliff edge,
+and many scenic viewpoints around the lake.
+
+- [Restavracija Central Bled](https://maps.app.goo.gl/si5qLojW1ea5DJDu8) - good menu and moderate prices.
+  Fast Wifi 453/142 even outside
 
 ### South Africa
 
