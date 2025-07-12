@@ -3290,14 +3290,16 @@ You don't hate the government enough. :wink:
 
 ### Bled
 
-[Lake Bled](https://maps.app.goo.gl/4HNweRwz223Ho1mEA)
-is a good day trip destination with a large picturesque lake town, visited by many foreigners and locals.
+A good day trip destination with a large picturesque lake, historic churches, food stall parade, souvenirs and many
+restaurants.
+Visited by many foreigners and locals.
 
-It's only around 35 minutes from Ljubljana bombing down the motorway by car.
+It's only around 35 minutes from Ljubljana bombing down the motorway by car, but you can also get there by bus.
 
-There's [Bled Castle](https://maps.app.goo.gl/4hMngTakzocVPHDm9) on a cliff edge,
-and many scenic viewpoints around the lake.
-
+- [Lake Bled](https://maps.app.goo.gl/4HNweRwz223Ho1mEA) - the walking trail around the lake is around 6km which will
+  take you roughly 1 hour 30 minutes, depending on how often you stop to take pictures as there are many scenic
+  viewpoints
+- [Bled Castle](https://maps.app.goo.gl/4hMngTakzocVPHDm9) on a cliff edge
 - [Restavracija Central Bled](https://maps.app.goo.gl/si5qLojW1ea5DJDu8) - good menu and moderate prices.
   Fast Wifi 453/142 even outside
 
