@@ -3230,18 +3230,28 @@ Alternatively you can buy them at the border by taking the other lane for it. Sa
 
 #### Ljubljana
 
+**No Grocery Store Alcohol after 9pm!**
+
+Many young people have the smart idea of buying cheap alcohol at the grocery store and drinking in the lovely park but
+beware that even grocery stores open later until 10pm like [Mercator](https://maps.app.goo.gl/AgYuahno5jAfhyEM6) will
+not sell alcohol to you past 9pm.
+I believe this is a government regulation to force you to pay the tourist trap bars!
+... which means more tax revenue for government too.
+You don't hate the government enough. :wink:
+
 - [Wonderland](https://maps.app.goo.gl/p5TD6eByJPzzmAft7) - in "Hotel Center", I walked past it and struggled to find
   it following Google Maps, but worth the find.
   A perfect Instagrammable place with excellent decor and great menu full of fancy drinks, desserts, all day brunch with
   eggs, acai and oatmeal bowls, pistacchio specials, "Instagrammable Coffees" eg. Ferrero Rocher coffee or pistacchio
   coffee with rims of pistacchios or other nuts, the wonder mocha looks amazing, a full range of cocktails and
   mocktails, salads and main courses.
-  The classic breakfast (€12) was decent with 3 sunny side up fried eggs, 2 bacon rashers, 3 small toasts and mushrooms.
-  The Eggs Royale with salmon was perhaps slightly better, and the extra poached egg for €2.30 wasn't really necessary
+  The classic breakfast (€12) is my preferred breakfast here, with 3 sunny side up fried eggs, 2 bacon rashers, 3 small toasts and mushrooms.
+  The Eggs Royale with salmon was good too, and the extra poached egg for €2.30 wasn't really necessary
   as it's a decent amount of food.
   The Eggs Benedict doesn't come with ham so it's a bit basic,
   for €1 difference it's better to go with the Eggs Royale and get some salmon,
   or else the classic breakfast with bacon and 3 eggs.
+  The Acai bowl is rich, cold, with frozen berries, granola and heart biscuits.
   Wifi 6/4 Mbit/s
 - [Barbarella Juice Bar](https://maps.app.goo.gl/11iGQAXvdURCNM9B6) - fresh juices, smoothies, sandwiches, salads, soup,
   acai smoothie / oat / yoghurt bowls. Wifi is open but slow 2/0.2 Mbit/s. Closes at 8pm so get there early
