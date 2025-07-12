@@ -3301,6 +3301,8 @@ It's only around 35 minutes from Ljubljana bombing down the motorway by car, but
   viewpoints
 - [Bled Castle](https://maps.app.goo.gl/4hMngTakzocVPHDm9) on a cliff edge
 - [Restavracija Central Bled](https://maps.app.goo.gl/si5qLojW1ea5DJDu8) - good menu and moderate prices.
+  The Central plate was good with a lot of meat: Rumpsteak, pork tenderloin, Carnolian sausage with Slovenian cottage
+  cheese rolled dumpling and sautéed potatoes with onions in natural sauce.
   Fast Wifi 453/142 even outside
 
 ### South Africa
