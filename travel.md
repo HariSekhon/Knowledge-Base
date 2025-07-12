@@ -81,6 +81,9 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Siem Reap](#siem-reap)
   - [Canada](#canada)
     - [Abbotsford](#abbotsford)
+  - [Croatia](#croatia)
+    - [Croatia Taxis](#croatia-taxis)
+    - [Zagreb](#zagreb)
   - [Czech Republic / Czechia](#czech-republic--czechia)
     - [Czech Motorway Tolls - Vignettes](#czech-motorway-tolls---vignettes)
     - [Prague](#prague)
@@ -192,6 +195,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Bratislava](#bratislava)
     - [Kosice](#kosice)
   - [Slovenia](#slovenia)
+    - [Slovenia Taxis](#slovenia-taxis)
     - [Slovenian Wifi](#slovenian-wifi)
     - [Slovenian Motorway Tolls - Vignettes](#slovenian-motorway-tolls---vignettes)
     - [Ljubljana](#ljubljana)
@@ -1282,6 +1286,15 @@ Just outside Vancouver, the basements of their houses are bigger than UK houses.
 They often have gyms, cinema rooms, and pool tables there, as well as spare bedrooms.
 
 Coming back to the UK from there was quite a downgrade.
+
+### Croatia
+
+#### Croatia Taxis
+
+- [Bolt](https://bolt.eu/
+- [Wizi](https://wizi.hr/en/)
+
+#### Zagreb
 
 ### Czech Republic / Czechia
 
@@ -3210,6 +3223,14 @@ Small city with a nice historic centre, but none of the venues I tried impressed
 Would try [Slavia](https://www.kaviarenslavia.sk/jedalny-listok/) if I were to visit gain.
 
 ### Slovenia
+
+#### Slovenia Taxis
+
+- [Bolt](https://bolt.eu/)
+- [Wizi](https://wizi.si/)
+- [Uber](https://www.uber.com/si/en/)
+- [Hopin Taxi](https://www.hopin.si/)
+- [Metro Taxi Ljubljana](https://www.metro.si/)
 
 #### Slovenian Wifi
 
