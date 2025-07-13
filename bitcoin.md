@@ -242,6 +242,7 @@ High interest rate though.
 - [Broken Money](https://www.amazon.com/Broken-Money-Financial-System-Failing/dp/B0CNS7NQLD) by Lyn Alden
 - [The Original Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) by Satoshi Nakamoto
 - [Bitcoin - The Ultimate Collateral](https://braiins.com/books/bitcoin-the-ultimate-collateral) by Martin Connor
+- [The Bitcoin Way](https://thebitcoinway.com/) - training and mentoring, $$$$
 
 <!-- - Bitcoin - Separation of Money and State by Josef Tetek - currently unavailable on Amazon -->
 
