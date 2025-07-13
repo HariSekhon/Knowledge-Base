@@ -3296,6 +3296,9 @@ You don't hate the government enough. :wink:
 - [Pop's Place Burger Bar](https://maps.app.goo.gl/pbmCcioYuthJ73Va8) - good burgers, not too big.
   The fries with herbs and parmesan has a lot of grated parmesan on it, totally worth it.
   The homemade lemonade with ginger is good but not sweet. Wifi 39/8 Mbit/s
+- [Le Petit Cafe](https://maps.app.goo.gl/zyFidPCx2SHuYSYC6) - popular restaurant with good outdoor seating. Breakfast
+  menu ends at 12pm though so get there early.
+  Wifi 1.8/0.8 Mbit/s
 - [Slovenska Hiša - Figovec](https://maps.app.goo.gl/VYKV7YAM4BFZyRLRA) - service was very slow to seat, 4 staff members
   walked past and ignored me and the crowd of people that developed behind me queuing at the door for about 10 minutes,
   until one of them finally acknowledged our existence and said "You'll all have to wait!" in an abrupt manner.
