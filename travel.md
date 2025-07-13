@@ -3320,6 +3320,8 @@ TODO:
 
 - [Cacao](https://maps.app.goo.gl/MspPuhR3sFcCDPDd9) - popular coffee and ice cream shop, looks amazing
 - [Pop’s Pizza](https://maps.app.goo.gl/FQqDVQyRhdHCteoLA) - the pizzas look good
+- [Raw Pasta](https://maps.app.goo.gl/ocyXWNgDY9Ajih2x5)
+- [Tink Superfood Poke Bowls](https://maps.app.goo.gl/29KBhEG1eSQVMuyH6)
 - [Oakberry Acai](https://maps.app.goo.gl/XeAicSGEJwfA5VPP6) - usual chain for Acai
 
 #### Bled
