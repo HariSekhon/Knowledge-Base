@@ -3346,6 +3346,18 @@ It's only around 35 minutes from Ljubljana bombing down the motorway by car, but
   with Slovenian cottage cheese rolled dumpling and sautéed potatoes with onions in natural sauce.
   Fast Wifi 453/142 even outside
 
+#### Novo Mesto
+
+For the 7th biggest city in Slovenia, this is one horse town that was dead on a Sunday afternoon.
+
+Ok for a 1 hour stopover, but not much there.
+
+Much of the public street parking is free on Sundays.
+
+- [Bistro Marof](https://maps.app.goo.gl/35ZiLXoQAttw85HL8) - has a good selection of ice creams outside, and good
+  outdoor covered seating as well as decently styled interior air conditioned seating.
+  Wifi 7/4 Mbit/s
+
 ### South Africa
 
 A dangerous high crime country due to high inequality (the Gini coefficient of inequality correlates to crime).
