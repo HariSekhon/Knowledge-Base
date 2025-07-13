@@ -3308,6 +3308,14 @@ You don't hate the government enough. :wink:
   The goulash is a stew and came with warm sliced baguette (which would have been better buttered but with the staff
   situation I decided not to bother asking for butter as the food would probably be cold if I did).
   The Wifi didn't work but managed to use another nearby open wifi
+- [Captain's Cabin](https://maps.app.goo.gl/XNuxkEiSZVWT7q936) - dive bar with Spotify juke box
+- [Central Market](https://maps.app.goo.gl/PKRS1xz6Qn9appfVA)
+
+TODO:
+
+- [Cacao](https://maps.app.goo.gl/MspPuhR3sFcCDPDd9) - popular coffee and ice cream shop, looks amazing
+- [Pop’s Pizza](https://maps.app.goo.gl/FQqDVQyRhdHCteoLA) - the pizzas look good
+- [Oakberry Acai](https://maps.app.goo.gl/XeAicSGEJwfA5VPP6) - usual chain for Acai
 
 #### Bled
 
