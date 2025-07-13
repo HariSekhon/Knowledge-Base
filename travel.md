@@ -3310,6 +3310,8 @@ You don't hate the government enough. :wink:
   The Wifi didn't work but managed to use another nearby open wifi
 - [Captain's Cabin](https://maps.app.goo.gl/XNuxkEiSZVWT7q936) - dive bar with Spotify juke box
 - [Central Market](https://maps.app.goo.gl/PKRS1xz6Qn9appfVA)
+- [Open Kitchen Market](https://whereisthemarket.com/market/open-kitchen-market-ljubljana/) - lots of food stalls every
+  Friday from mid-March to October
 
 TODO:
 
