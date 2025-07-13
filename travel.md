@@ -3167,7 +3167,7 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
   buffalo chilli honey, burrata, pumpkin seeds, mozarella, jalapeno, pomodoro, capers and parmesan.
   The desserts were really good too - the pinacolada cake was excellent, with pineapple,
   coconut, yuzu, mango, Malibu, white chocolate, vanilla.
-  The jasmine mango cheesecake with white chocolate, mango and passionfruit was great too
+  The jasmine mango cheesecake was great too, with white chocolate, mango and passionfruit
 - [Le Papillon](https://maps.app.goo.gl/qnf4XpgV5PNMQqoR6) - excellent good menu and moderate prices, especially
   considering the prime location on one of the main strip. Popular, good ambience, music, decor, indoor and outdoor
   seating. Food is modern Slovak fusion, rather than traditional,
