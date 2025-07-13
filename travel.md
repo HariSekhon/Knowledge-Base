@@ -3310,6 +3310,7 @@ You don't hate the government enough. :wink:
   The Wifi didn't work but managed to use another nearby open wifi
 - [Hot Horse](https://maps.app.goo.gl/rg1xGNevG82NCmer8) - large bap horse burgers from reconstituted meat, quite good,
   located in [Tivoli Park](https://maps.app.goo.gl/ZWRyGipZuc1y58md8)
+- [Hallo Leskovac](https://maps.app.goo.gl/Jr9bHb8sub1pWuiDA) - late night burger and cevapcici fast food
 - [Captain's Cabin](https://maps.app.goo.gl/XNuxkEiSZVWT7q936) - dive bar with Spotify juke box
 - [Central Market](https://maps.app.goo.gl/PKRS1xz6Qn9appfVA)
 - [Open Kitchen Market](https://whereisthemarket.com/market/open-kitchen-market-ljubljana/) - lots of food stalls every
