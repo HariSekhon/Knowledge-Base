@@ -1297,6 +1297,16 @@ Coming back to the UK from there was quite a downgrade.
 
 #### Zagreb
 
+- [Stari Fijaker](https://maps.app.goo.gl/Ug2upBMmqsTi9W9f7) - good Croatian restaurant, locals eat here too, moderately
+  priced depending on what you have.
+  The "Peasant's Lunch" plate was really good with a great mix of tasty food on it, and affordable.
+  The Venison strew with gnocci had good deer meat pieces in sauce, but is a bit pricier.
+  The apple strudel was average, could skip that next time
+
+TODO:
+
+- [Curry Bowl](https://maps.app.goo.gl/pKGV8He7S8FeiSiJ7)
+
 ### Czech Republic / Czechia
 
 It's too close in naming to the war torn Chechnia.
