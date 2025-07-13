@@ -122,6 +122,8 @@ See market price and a bunch of other useful metrics on [BitBo's dashboard](http
 
 <https://bitbo.io/>
 
+[BitBo - Best Places to Buy Bitcoin](https://bitbo.io/buy/) - filter by country for which exchanges are available to you
+
 - Exchanges:
   - usually requires Know Your Customer (KYC) for regulatory compliance eg. XapoBank or the exchanges listed on the
     [Crypto](crypto.md) page
@@ -227,6 +229,10 @@ High interest rate though.
 
 - [Lighting Network](https://lightning.network/)
 - [Liquid Network](https://liquid.net/) by Blockstream
+
+## Bitcoin Treasury Companies
+
+<https://bitcointreasuries.net/>
 
 ## Learning Resources
 
