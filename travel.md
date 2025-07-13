@@ -3298,6 +3298,8 @@ You don't hate the government enough. :wink:
   The homemade lemonade with ginger is good but not sweet. Wifi 39/8 Mbit/s
 - [Le Petit Cafe](https://maps.app.goo.gl/zyFidPCx2SHuYSYC6) - popular restaurant with good outdoor seating. Breakfast
   menu ends at 12pm though so get there early.
+  The eggs royale with salmon is decent but not too big since it's only the 2 topped muffins comes with nothing on the
+  side. Could have eaten two of them.
   Wifi 1.8/0.8 Mbit/s
 - [Slovenska Hiša - Figovec](https://maps.app.goo.gl/VYKV7YAM4BFZyRLRA) - service was very slow to seat, 4 staff members
   walked past and ignored me and the crowd of people that developed behind me queuing at the door for about 10 minutes,
