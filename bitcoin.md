@@ -20,6 +20,7 @@
 - [Borrow Against Bitcoin](#borrow-against-bitcoin)
 - [Run Your Own Node for Added Privacy](#run-your-own-node-for-added-privacy)
 - [Layer 2 Chains](#layer-2-chains)
+- [Bitcoin Treasury Companies](#bitcoin-treasury-companies)
 - [Learning Resources](#learning-resources)
   - [Bitcoin Atlantis Videos](#bitcoin-atlantis-videos)
   - [Tutorial Videos](#tutorial-videos)
