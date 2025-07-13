@@ -3357,7 +3357,9 @@ Much of the public street parking is free on Sundays.
 
 - [Bistro Marof](https://maps.app.goo.gl/35ZiLXoQAttw85HL8) - has a good selection of ice creams outside, and good
   outdoor covered seating as well as decently styled interior air conditioned seating.
+  There is parking outside too.
   Wifi 7/4 Mbit/s
+- [Parkirišče - Novi trg](https://maps.app.goo.gl/TtqcF8UyUJCbiqY19) - car park with plenty of space, free on Sundays
 
 ### South Africa
 
