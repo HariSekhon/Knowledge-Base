@@ -3359,7 +3359,8 @@ Much of the public street parking is free on Sundays.
   outdoor covered seating as well as decently styled interior air conditioned seating.
   There is parking outside too.
   Wifi 7/4 Mbit/s
-- [Parkirišče - Novi trg](https://maps.app.goo.gl/TtqcF8UyUJCbiqY19) - car park with plenty of space, free on Sundays
+- [Parkirišče - Novi trg](https://maps.app.goo.gl/TtqcF8UyUJCbiqY19) - public car park with plenty of space, free on
+  Sundays
 
 ### South Africa
 
