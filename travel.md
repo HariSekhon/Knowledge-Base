@@ -200,6 +200,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Slovenian Motorway Tolls - Vignettes](#slovenian-motorway-tolls---vignettes)
     - [Ljubljana](#ljubljana)
     - [Bled](#bled)
+    - [Novo Mesto](#novo-mesto)
   - [South Africa](#south-africa)
     - [Johannesburg](#johannesburg)
       - [Sandton](#sandton)
@@ -1291,7 +1292,7 @@ Coming back to the UK from there was quite a downgrade.
 
 #### Croatia Taxis
 
-- [Bolt](https://bolt.eu/
+- [Bolt](https://bolt.eu/)
 - [Wizi](https://wizi.hr/en/)
 
 #### Zagreb
