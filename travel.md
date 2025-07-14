@@ -1303,7 +1303,10 @@ Coming back to the UK from there was quite a downgrade.
   The Venison strew with gnocci had good deer meat pieces in sauce, but is a bit pricier.
   The apple strudel was average, could skip that next time
 - [Pivnica Mali Medo](https://maps.app.goo.gl/a2AZkxeG8yPjzPK2A) - popular beer hall with lots of outdoor seating
-  serving a sizeable selection of pizzas, beef goulash, burgers and some chicken/pork mains. Wifi didn't work
+  serving a sizeable selection of pizzas, beef goulash, burgers and some chicken/pork mains.
+  The beef goulash with gnocchi came with a lot of meat for €15,
+  but don't wait to eat it as it didn't come piping hot (also, eating it outdoors cool summer evening).
+  Wifi didn't work
 
 TODO:
 
