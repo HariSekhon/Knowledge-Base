@@ -17,6 +17,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 - [Hotels vs Hostels vs Airbnb](#hotels-vs-hostels-vs-airbnb)
   - [Hotel, Hostel & Airbnb - Parking](#hotel-hostel--airbnb---parking)
   - [Hotel & Airbnb - Internet](#hotel--airbnb---internet)
+- [Taxis](#taxis)
 - [Wifi](#wifi)
   - [Wifi Hotels](#wifi-hotels)
   - [Wifi Cafes & Restaurants](#wifi-cafes--restaurants)
@@ -50,15 +51,15 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Mail Redirection](#mail-redirection)
 - [Countries](#countries)
   - [Austria](#austria)
-    - [Austrian Motorway Tolls - e-Vignettes](#austrian-motorway-tolls---e-vignettes)
+    - [Motorway Tolls - e-Vignettes in Austria](#motorway-tolls---e-vignettes-in-austria)
     - [Vienna](#vienna)
-      - [Vienna Metro](#vienna-metro)
-      - [Vienna Taxis](#vienna-taxis)
-      - [Vienna Parking](#vienna-parking)
-      - [Vienna Restaurants](#vienna-restaurants)
+      - [Metro in Vienna](#metro-in-vienna)
+      - [Taxis in Vienna](#taxis-in-vienna)
+      - [Parking in Vienna](#parking-in-vienna)
+      - [Restaurants in Vienna](#restaurants-in-vienna)
     - [Graz](#graz)
-      - [Graz Parking](#graz-parking)
-      - [Graz Restaurants](#graz-restaurants)
+      - [Parking in Graz](#parking-in-graz)
+      - [Restaurants in Graz](#restaurants-in-graz)
   - [Belgium](#belgium)
     - [Antwerp](#antwerp)
     - [Brussels](#brussels)
@@ -67,30 +68,30 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Liege](#liege)
     - [Waterloo](#waterloo)
   - [Bulgaria](#bulgaria)
-    - [Bulgarian Motorway Tolls - Vignettes](#bulgarian-motorway-tolls---vignettes)
+    - [Motorway Tolls - Vignettes in Bulgaria](#motorway-tolls---vignettes-in-bulgaria)
     - [Sofia](#sofia)
     - [Veliko Tarnovo](#veliko-tarnovo)
     - [Ruse](#ruse)
   - [Cambodia](#cambodia)
-    - [Cambodia Visa](#cambodia-visa)
-    - [Cambodia Money](#cambodia-money)
-    - [Cambodia Taxis](#cambodia-taxis)
-    - [Cambodia Restaurants](#cambodia-restaurants)
+    - [Visa for Cambodia](#visa-for-cambodia)
+    - [Money in Cambodia](#money-in-cambodia)
+    - [Taxis in Cambodia](#taxis-in-cambodia)
+    - [Restaurants in Cambodia](#restaurants-in-cambodia)
     - [Phnom Penh](#phnom-penh)
     - [Bus Between Phenom Penh and Siem Reap](#bus-between-phenom-penh-and-siem-reap)
     - [Siem Reap](#siem-reap)
   - [Canada](#canada)
     - [Abbotsford](#abbotsford)
   - [Croatia](#croatia)
-    - [Croatia Taxis](#croatia-taxis)
+    - [Taxis in Croatia](#taxis-in-croatia)
     - [Zagreb](#zagreb)
   - [Cyprus](#cyprus)
-  - [Czech Republic / Czechia](#czech-republic--czechia)
-    - [Czech Motorway Tolls - Vignettes](#czech-motorway-tolls---vignettes)
+  - [Czechia / Czech Republic](#czechia--czech-republic)
+    - [Motorway Tolls - Vignettes in Czechia](#motorway-tolls---vignettes-in-czechia)
     - [Prague](#prague)
-      - [Prague Taxis](#prague-taxis)
-      - [Prague Parking](#prague-parking)
-      - [Prague Restaurants](#prague-restaurants)
+      - [Taxis in Prague](#taxis-in-prague)
+      - [Parking in Prague](#parking-in-prague)
+      - [Restaurants in Prague](#restaurants-in-prague)
     - [Brno](#brno)
     - [České Budějovice](#české-budějovice)
     - [Kutna Hora](#kutna-hora)
@@ -102,7 +103,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Paris](#paris)
   - [Georgia](#georgia)
     - [Georgia Flights](#georgia-flights)
-    - [Georgia Taxis](#georgia-taxis)
+    - [Taxis in Georgia](#taxis-in-georgia)
     - [Tbilisi Airport](#tbilisi-airport)
     - [Tbilisi](#tbilisi)
   - [Germany](#germany)
@@ -120,11 +121,11 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Potsdam](#potsdam)
   - [Hungary](#hungary)
     - [Avoid northern counties](#avoid-northern-counties)
-    - [Hungary Taxis](#hungary-taxis)
-    - [Hungarian Motorway Tolls - Vignettes](#hungarian-motorway-tolls---vignettes)
+    - [Taxis in Hungary](#taxis-in-hungary)
+    - [Motorway Tolls - Vignettes in Hungary](#motorway-tolls---vignettes-in-hungary)
     - [Budapest](#budapest)
-      - [Budapest Metro](#budapest-metro)
-      - [Budapest Restaurants](#budapest-restaurants)
+      - [Metro in Budapest](#metro-in-budapest)
+      - [Restaurants in Budapest](#restaurants-in-budapest)
     - [Debrecen](#debrecen)
     - [Gyor](#gyor)
     - [Szolnok](#szolnok)
@@ -135,11 +136,11 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
       - [Seminyak](#seminyak)
       - [Ubud](#ubud)
   - [Italy](#italy)
-    - [Italy Car Rentals](#italy-car-rentals)
+    - [Car Rentals in Italy](#car-rentals-in-italy)
     - [Rome](#rome)
     - [Venice](#venice)
   - [Laos](#laos)
-    - [Laos Taxis](#laos-taxis)
+    - [Taxis in Laos](#taxis-in-laos)
     - [Vientiane](#vientiane)
     - [High Speed Rail Between Vientiane and Luang Prabang](#high-speed-rail-between-vientiane-and-luang-prabang)
     - [Luang Prabang](#luang-prabang)
@@ -148,14 +149,14 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Lithuania](#lithuania)
     - [Vilnius](#vilnius)
   - [Malaysia](#malaysia)
-    - [Malaysia Taxis](#malaysia-taxis)
+    - [Taxis in Malaysia](#taxis-in-malaysia)
     - [Kuala Lumpur](#kuala-lumpur)
       - [Bukit Bintag](#bukit-bintag)
       - [Chinatown](#chinatown)
   - [Moldova](#moldova)
     - [Chisinau](#chisinau)
   - [Morocco](#morocco)
-    - [Morocco Taxis](#morocco-taxis)
+    - [Taxis in Morocco](#taxis-in-morocco)
     - [Tangiers](#tangiers)
   - [Netherlands](#netherlands)
     - [Amsterdam](#amsterdam)
@@ -176,28 +177,28 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Philippines](#philippines)
     - [Manilla](#manilla)
   - [Romania](#romania)
-    - [Romania Taxis](#romania-taxis)
-    - [Romanian Motorway Tolls - Vignettes](#romanian-motorway-tolls---vignettes)
+    - [Taxis in Romania](#taxis-in-romania)
+    - [Motorway Tolls - e-Vignettes in Romania](#motorway-tolls---e-vignettes-in-romania)
     - [Bucharest](#bucharest)
     - [Brașov](#brașov)
     - [Cluj-Napoca](#cluj-napoca)
     - [Oradea](#oradea)
   - [Serbia](#serbia)
-    - [Indoor Smoking, Outdoor Smoking, Smoking Everywhere](#indoor-smoking-outdoor-smoking-smoking-everywhere)
-    - [Serbian Taxis](#serbian-taxis)
+    - [Indoor Smoking, Outdoor Smoking, Smoking Everywhere in Serbia](#indoor-smoking-outdoor-smoking-smoking-everywhere-in-serbia)
+    - [Taxis in Serbia](#taxis-in-serbia)
     - [Driving in Serbia](#driving-in-serbia)
     - [Belgrade](#belgrade)
     - [Novi Sad](#novi-sad)
     - [Nis](#nis)
   - [Singapore](#singapore)
   - [Slovakia](#slovakia)
-    - [Slovakian Motorway Tolls - Vignettes](#slovakian-motorway-tolls---vignettes)
+    - [Motorway Tolls - e-Vignettes in Slovakia](#motorway-tolls---e-vignettes-in-slovakia)
     - [Bratislava](#bratislava)
     - [Kosice](#kosice)
   - [Slovenia](#slovenia)
-    - [Slovenia Taxis](#slovenia-taxis)
-    - [Slovenian Wifi](#slovenian-wifi)
-    - [Slovenian Motorway Tolls - Vignettes](#slovenian-motorway-tolls---vignettes)
+    - [Taxis in Slovenia](#taxis-in-slovenia)
+    - [Motorway Tolls - Vignettes in Slovenia](#motorway-tolls---vignettes-in-slovenia)
+    - [Wifi in Slovenia](#wifi-in-slovenia)
     - [Ljubljana](#ljubljana)
     - [Bled](#bled)
     - [Novo Mesto](#novo-mesto)
@@ -208,23 +209,23 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Sweden](#sweden)
     - [Stockholm](#stockholm)
   - [Taiwan](#taiwan)
-    - [Taiwan Taxis](#taiwan-taxis)
+    - [Taxis in Taiwan](#taxis-in-taiwan)
     - [Taipei](#taipei)
       - [Taipei Hotels](#taipei-hotels)
       - [Taipei Restaurants & Attractions](#taipei-restaurants--attractions)
   - [Thailand](#thailand)
-    - [Thailand Cash](#thailand-cash)
-    - [Thailand Mobile](#thailand-mobile)
-    - [Thailand Taxis](#thailand-taxis)
-    - [Thailand Food](#thailand-food)
+    - [Cash Needed in Thailand](#cash-needed-in-thailand)
+    - [Mobile Internet in Thailand](#mobile-internet-in-thailand)
+    - [Taxis in Thailand](#taxis-in-thailand)
+    - [Food in Thailand](#food-in-thailand)
     - [Bangkok](#bangkok)
-      - [Bangkok Food](#bangkok-food)
+      - [Food in Bangkok](#food-in-bangkok)
     - [Phuket](#phuket)
       - [Patong Beach](#patong-beach)
       - [Kata Beach](#kata-beach)
       - [Karon Beach](#karon-beach)
     - [Pattaya](#pattaya)
-      - [Getting to Pattaya from Bangkok](#getting-to-pattaya-from-bangkok)
+      - [Travel Between Bangkok and Pattaya](#travel-between-bangkok-and-pattaya)
       - [Pattaya Bars & Restaurants](#pattaya-bars--restaurants)
   - [Turkey](#turkey)
     - [Antalya Airport](#antalya-airport)
@@ -232,16 +233,16 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [UAE](#uae)
     - [Driving in UAE](#driving-in-uae)
     - [Abu Dhabi](#abu-dhabi)
-      - [Abu Dhabi Restaurants](#abu-dhabi-restaurants)
+      - [Restaurants in Abu Dhabi](#restaurants-in-abu-dhabi)
     - [Dubai](#dubai)
-    - [Dubai Metro](#dubai-metro)
-    - [Dubai Taxis](#dubai-taxis)
-    - [Dubai Parking](#dubai-parking)
-    - [Dubai Weather](#dubai-weather)
-    - [Dubai Attractions](#dubai-attractions)
-    - [Dubai Restaurants](#dubai-restaurants)
-    - [Dubai Visa](#dubai-visa)
-    - [Dubai Banking](#dubai-banking)
+    - [Metro in Dubai](#metro-in-dubai)
+    - [Taxis in Dubai](#taxis-in-dubai)
+    - [Parking in Dubai](#parking-in-dubai)
+    - [Weather in Dubai](#weather-in-dubai)
+    - [Attractions in Dubai](#attractions-in-dubai)
+    - [Restaurants in Dubai](#restaurants-in-dubai)
+    - [Visas for Dubai](#visas-for-dubai)
+    - [Banking in Dubai](#banking-in-dubai)
   - [United Kingdom](#united-kingdom)
     - [Best Parts of the UK](#best-parts-of-the-uk)
     - [Best of London](#best-of-london)
@@ -253,7 +254,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
       - [San Diego](#san-diego)
       - [San Francisco](#san-francisco)
   - [Vietnam](#vietnam)
-    - [Vietnam Taxis](#vietnam-taxis)
+    - [Taxis in Vietnam](#taxis-in-vietnam)
     - [Hanoi](#hanoi)
     - [Ho Chi Minh (formerly known as Saigon)](#ho-chi-minh-formerly-known-as-saigon)
 
@@ -445,6 +446,15 @@ I spent all week hassling the reception staff daily pleading to put one on the p
 it without success).
 It still wasn't working when I left there.
 
+## Taxis
+
+Airport taxis are a rip off all over the world. Do not use them.
+
+Use the taxi apps for the specific country,
+which are listed below, underneath each country.
+
+Compare the different apps to get the best price, it only takes 2 minutes.
+
 ## Wifi
 
 ### Wifi Hotels
@@ -496,15 +506,20 @@ which basically comes down to changing your Mobile Service data MMS APN to `mob.
 
 My UK phone number worked across all European countries I travelled through, including:
 
+- Austria
+- Bulgaria
+- Croatia
+- Estonia
 - France
 - Germany
-- Poland
+- Hungary
 - Lithuania
 - Latvia
-- Estonia
+- Poland
+- Romania
 - Sweden
 - Slovakia
-- Hungary
+- Slovenia
 
 It stopped working when I got to Serbia which is not in the EU.
 
@@ -833,7 +848,7 @@ _"There are no kangaroos in Austria"_ 😉
 
 Apparently the origin of this phrase is because Americans get Austria confused with Australia.
 
-#### Austrian Motorway Tolls - e-Vignettes
+#### Motorway Tolls - e-Vignettes in Austria
 
 You need to pay a motorway toll in Austria, similar to Bulgaria, Romania, Hungary and Slovakia.
 Europeans and their stupid inconvenient taxes.
@@ -850,24 +865,24 @@ WARNING: there is an extra €18.50 toll each way across the alps on the way to 
 
 #### Vienna
 
-##### Vienna Metro
+##### Metro in Vienna
 
 It's only €4.50 for a single trip between Vienna airport and the centre of Vienna.
 
-##### Vienna Taxis
+##### Taxis in Vienna
 
 It'll cost you over €30 from the airport to Vienna even on Bolt and Uber.
 
 - [Uber](https://www.uber.com)
 - [Bolt](https://apps.apple.com/us/app/bolt-request-a-ride/id675033630)
 
-##### Vienna Parking
+##### Parking in Vienna
 
 Parking in Vienna is a nightmare, paid parking everywhere max 2 hours and parking garages are €50 a day.
 
 Don't drive there.
 
-##### Vienna Restaurants
+##### Restaurants in Vienna
 
 A good destination for a long weekend. This capital feels sparse to a Londoner, but is very touristy in the center.
 
@@ -926,14 +941,14 @@ Not Recommended:
 
 The second largest city in Austria, has some nice architecture in the centre.
 
-##### Graz Parking
+##### Parking in Graz
 
 Parking is an absolute nightmare in Graz, like Vienna, everything is residence / paid parking.
 
 I had to paid €18 for 24 hours parking here because the hostel had hardly any parking,
 even 30 minutes walking distance outside the centre, and other places were even more expensive.
 
-##### Graz Restaurants
+##### Restaurants in Graz
 
 - [Kylo](https://maps.app.goo.gl/ZpDsXPbgsjcLiLEV7) - gentrified brunch cafe / restaurant.
   The Vulcano Eggs were decent (Vulcano ham is also known as parma ham), and the eggs come fried by default but I asked
@@ -980,7 +995,7 @@ You will need your Google Translate camera app to translate the menu as they don
 
 ### Bulgaria
 
-#### Bulgarian Motorway Tolls - Vignettes
+#### Motorway Tolls - Vignettes in Bulgaria
 
 Annoying road tax, but make sure you pay it to avoid more hassles from over bearing government.
 
@@ -1114,13 +1129,13 @@ You don't need more than 1-1.5 hours to walk around the center.
 If you have limited time, just do Siem Reap and skip the capital Phnom Penh, it has far better venues
 and the Angkor Wat temple.
 
-#### Cambodia Visa
+#### Visa for Cambodia
 
 You need an eVisa or you will have to queue for a $30 visa when you arrive.
 
 <https://www.evisa.gov.kh/>
 
-#### Cambodia Money
+#### Money in Cambodia
 
 Take lots of small denominator dollars, especially \$10 and \$1 bills.
 
@@ -1134,13 +1149,13 @@ which if you're only visiting for a short time you may have trouble spending in 
 Also, be careful restaurants and other locals don't give you fake dollars back.
 Street vendors will usually only give change in local Cambodian currency, riels.
 
-#### Cambodia Taxis
+#### Taxis in Cambodia
 
 Make sure to always use the Grab app, on the street they will charge you more, like most countries.
 
 - [Grab](https://www.grab.com/) - taxi app
 
-#### Cambodia Restaurants
+#### Restaurants in Cambodia
 
 Cambodia uses US Dollars so it is relatively expensive compared to Thailand or Vietnam.
 
@@ -1277,9 +1292,7 @@ when I first heard it audibly by an English cockney I met at the airport and hun
 
 ### Canada
 
-It's been most of a lifetime since I've been.
-
-Similar to the US, but with cheaper healthcare.
+It's been most of a lifetime since I've been so no restaurant recommendations for this one.
 
 #### Abbotsford
 
@@ -1290,7 +1303,7 @@ Coming back to the UK from there was quite a downgrade.
 
 ### Croatia
 
-#### Croatia Taxis
+#### Taxis in Croatia
 
 - [Bolt](https://bolt.eu/)
 - [Wizi](https://wizi.hr/en/)
@@ -1318,12 +1331,13 @@ Excellent holiday destination, but be warned, it is too hot in August.
 
 It's been too many years since I've been so I don't have any restaurant recommendations for this one.
 
-### Czech Republic / Czechia
+### Czechia / Czech Republic
 
-It's too close in naming to the war torn Chechnia.
+I still call it Czech Republic and struggle with the new name of Czechia -
+it's too similar a name to the war torn Chechnya.
 They didn't think about about the negative branding on this rename.
 
-#### Czech Motorway Tolls - Vignettes
+#### Motorway Tolls - Vignettes in Czechia
 
 Buy your e-vignette for Czechia here:
 
@@ -1343,12 +1357,12 @@ You may want to consider staying in a hostel here just due to the prices.
 
 You will hear American accents often in Prague, it is this tourism that has caused the somewhat high prices.
 
-##### Prague Taxis
+##### Taxis in Prague
 
 - [Bolt](https://bolt.eu/en-cz/) - usually a bit cheaper than Uber in my experience, but this can fluctate so check both
 - [Uber](https://www.uber.com/cz/en/)
 
-##### Prague Parking
+##### Parking in Prague
 
 Parking is a nightmare in Prague, like many anti-car European cities, and due to residents parking permits.
 
@@ -1364,7 +1378,7 @@ Arrange a nearby parking next time
 I parked at [Parkoviště](https://maps.app.goo.gl/1VKm9r9w2B6dtKTs6) Zličín as even the Park & Rides were full there,
 but even out there it's still roughly €25 per week.
 
-##### Prague Restaurants
+##### Restaurants in Prague
 
 My favourite Brunch area is [Prague 3, Žižkov](https://maps.app.goo.gl/ZXwfEH74FakwwnyV8) as it has the most good
 brunch restaurants and better prices, as well as my favourite Acai place.
@@ -1725,7 +1739,7 @@ I missed my transfer flights both in and out of Tbilisi. This is probably one of
 
 This is how I came up with the [Flights Gotchas section](#flights-gotchas).
 
-#### Georgia Taxis
+#### Taxis in Georgia
 
 Do not use Airport taxis, they are double the price of using the Bolt app.
 
@@ -1921,12 +1935,12 @@ Story here:
 
 <https://medium.com/@harisekhon/the-revelation-of-why-hungary-is-so-anti-immigration-059259e51cf2>
 
-#### Hungary Taxis
+#### Taxis in Hungary
 
 - [Bolt](https://apps.apple.com/us/app/bolt-request-a-ride/id675033630)
 - [FoTaxi](https://fotaxi.hu/en/passengers/taxi-application/) - local alternative
 
-#### Hungarian Motorway Tolls - Vignettes
+#### Motorway Tolls - Vignettes in Hungary
 
 Hungary requires online tolls to be pre-paid before using its motorways to avoid a fine. 🙄
 
@@ -1948,7 +1962,7 @@ Good for a long weekend city break with the girlfriend.
 
 Don't bother going outside of June - August. The weather was miserable even at the end of May.
 
-##### Budapest Metro
+##### Metro in Budapest
 
 Budapest metro is surprisingly cheap and good. It's 450 HUF for a single journey ticket which works out to only 95p!
 
@@ -1958,7 +1972,7 @@ and scan the QR code to validate them at the entry points of the Metro.
 
 The Metro shuts down around 11:30pm so don't stay out too late or you'll need a taxi.
 
-##### Budapest Restaurants
+##### Restaurants in Budapest
 
 I felt most of the restaurants I tried in the 4.5 star region were overrated, as well as western priced,
 with exception of Caviar & Bull and Grand Central Cafe which were high quality.
@@ -2219,7 +2233,7 @@ TODO: Italy Road Trip
 <https://www.europediaries.com/tuscany-roadtrip/>
 <https://www.visittuscany.com/en/ideas/top-10-day-trips-from-siena/>
 
-#### Italy Car Rentals
+#### Car Rentals in Italy
 
 I haven't used these, my colleagues were discussing them:
 
@@ -2246,7 +2260,7 @@ Expect to lose the day travelling to Laos even if you're coming from a nearby co
 
 Luang Prabang is nicer than Vientiane, it's more geared for tourists.
 
-#### Laos Taxis
+#### Taxis in Laos
 
 - [Loca](https://loca.la/) - taxi app
 
@@ -2387,7 +2401,7 @@ April - July is best as the weather is cooler for outdoor travel.
 
 Avoid December - February due to heavy rains.
 
-#### Malaysia Taxis
+#### Taxis in Malaysia
 
 Take the train to Kuala Lumpur before midnight otherwise you will get
 price gauged on taxis as Grab had no drivers left available.
@@ -2550,7 +2564,7 @@ via the high tax and inflationary money printing feminist-socialist welfare stat
 I prefer the Moroccan system here as this situation implies more consent for men (you can safely ignore them),
 but actually the Moroccan tax rates are still far too high (of course they are, they have universal suffrage).
 
-#### Morocco Taxis
+#### Taxis in Morocco
 
 - [InDrive](https://indrive.com/en-ma) - cheaper and good taxi app, you can pre-agree the fee up front
   (still have to pay cash not in app)
@@ -2566,35 +2580,27 @@ but actually the Moroccan tax rates are still far too high (of course they are, 
 
 Beach city in northern Morocco.
 
-[Le Mekong](https://maps.app.goo.gl/Kot4Ec67qZNFuxTy8) - great sushi and vietnamese food.
-The spicy shrimp with rice was great and
-the Isla Blanca fried sushi with pineapple was excellent.
-They also do wooden boats filled with a selection of sushi.
-Has Wifi.
+- [Le Mekong](https://maps.app.goo.gl/Kot4Ec67qZNFuxTy8) - great sushi and vietnamese food.
+  The spicy shrimp with rice was great and the Isla Blanca fried sushi with pineapple was excellent.
+  They also do wooden boats filled with a selection of sushi.
+  Has Wifi.
 
-[Boutique Burger](https://maps.app.goo.gl/k1D2MvJyEvzLWZcf6) - possibly the best fries I've ever had anywhere, crispy
-deep fried on the outside and light and fluffy on the inside.
-The popular Texas pulled beef burger was great,
-the greek salad was a good size with very good ingredients but an average dressing.
-Of course there is fresh orange juice at a reasonable price, as there is in many places in Morocco.
-Bring your travel adapter because there's Wifi and plugs by the tables.
+- [Boutique Burger](https://maps.app.goo.gl/k1D2MvJyEvzLWZcf6) - possibly the best fries I've ever had anywhere, crispy deep fried on the outside and light
+  and fluffy on the inside. The popular Texas pulled beef burger was great, the greek salad was a good size with very
+  good ingredients but an average dressing. Of course there is fresh orange juice at a reasonable price, as there is in
+  many places in Morocco. Bring your travel adapter because there's Wifi and plugs by the tables.
 
-[Restaurant Cafe La Playa](https://maps.app.goo.gl/Lrep4uahqy88cERR6) - cash only but great Moroccan food, prices and
-service, with a very comfortable upstairs lounge area and wifi.
-I recommend the Tajine with beef and prunes,
-the Moroccan salad (side) and the lentils starters. The bread is home made and very good too,
-fresh squeezed juices are both well priced and good sizes.
-Wifi and plugs available upstairs, and if you site on one end youhave an open window view of the sea.
-Worth the discovery.
-Cash only.
+- [Restaurant Cafe La Playa](https://maps.app.goo.gl/Lrep4uahqy88cERR6) - cash only but great Moroccan food, prices and service, with a very comfortable
+  upstairs lounge area and wifi. I recommend the Tajine with beef and prunes, the Moroccan salad (side) and the lentils
+  starters. The bread is home made and very good too, fresh squeezed juices are both well priced and good sizes.
+  Wifi and plugs available upstairs, and if you site on one end youhave an open window view of the sea.
+  Worth the discovery.
+  Cash only.
 
-[Abou Tayssir](https://maps.app.goo.gl/MNNY17v67nSgrCZ16) - the Fattoush salad was amazing, the meat + rice dish of the day was ok
-but I'd probably go with individual plates next time.
-Fresh squeezed juice was good.
-Prices were similar to other places.
-No wifi, cash only.
+- [Abou Tayssir](https://maps.app.goo.gl/MNNY17v67nSgrCZ16) - the Fattoush salad was amazing, the meat + rice dish of the day was ok but I'd probably go with
+  individual plates next time. Fresh squeezed juice was good. Prices were similar to other places. No wifi, cash only
 
-[Alma Kitchen & Coffee](https://maps.app.goo.gl/9bD1hQnonnX2w3TZ8) - good but a bit expensive by local standards.
+- [Alma Kitchen & Coffee](https://maps.app.goo.gl/9bD1hQnonnX2w3TZ8) - good but a bit expensive by local standards
 
 ### Netherlands
 
@@ -2619,12 +2625,12 @@ major towns and cities.
 
 - Low immigration
 - Feels safer than the UK (supported by crime stats)
-- Food is good and reasonably priced
+- Food is good and moderately priced
 - Airbnbs are expensive though
 - Poland is not a cheap country any more
-- Large country tht takens 6-8 hours to drive across
+- Large country that takes 6-8 hours to drive across
 - Parking is often cheap or free after 8pm, which is great for going out to get dinner in the centres.
-- Good and cheap Metro
+- Good cheap Metro
 
 #### Bydgoszcz
 
@@ -2781,7 +2787,7 @@ Kidnappings of the children of the rich is also a problem, with gated communitie
 
 ### Romania
 
-#### Romania Taxis
+#### Taxis in Romania
 
 - [Smarty](https://www.smarty-app.com/) - substantially cheaper than either Star Taxi or Bolt
 - [Star Taxi](https://www.startaxi.com/) - apparently the most used Taxi app in Romania, but hassle to register with new
@@ -2789,7 +2795,7 @@ Kidnappings of the children of the rich is also a problem, with gated communitie
   SE Asia on Asian Winter Tour 2024-2025
 - [Bolt](https://bolt.eu/)
 
-#### Romanian Motorway Tolls - Vignettes
+#### Motorway Tolls - e-Vignettes in Romania
 
 If driving, you need to buy a vignette toll to use the motorways.
 
@@ -3003,7 +3009,7 @@ I used the [Airalo](https://www.airalo.com/) e-sim data only for $14 for 5GB val
 On subsequent visits I've used the [Nomad](https://www.getnomad.app/) e-sim
 as it was cheaper - 1GB or 3GB for £3.38 or £6.76, respectively.
 
-#### Indoor Smoking, Outdoor Smoking, Smoking Everywhere
+#### Indoor Smoking, Outdoor Smoking, Smoking Everywhere in Serbia
 
 It is still legal to smoke indoors in Serbia.
 
@@ -3023,7 +3029,7 @@ Quite shocking that Serbia permits this.
 
 I've asked the locals about this and they said there are a couple non-smoking venues *"but nobody goes there"*.
 
-#### Serbian Taxis
+#### Taxis in Serbia
 
 - [Car Go](https://appcargo.com/en) - like Uber. Usually the cheapest but wait times seem much longer than advertised, and sometimes it didn't
   find any drivers, so I had to use Yandex Go or Pink Taxi below instead
@@ -3171,7 +3177,7 @@ I __don't__ recommend:
 
 ### Slovakia
 
-#### Slovakian Motorway Tolls - Vignettes
+#### Motorway Tolls - e-Vignettes in Slovakia
 
 Buyt this before using the motorways driving around Slovakia.
 
@@ -3247,7 +3253,7 @@ Would try [Slavia](https://www.kaviarenslavia.sk/jedalny-listok/) if I were to v
 
 ### Slovenia
 
-#### Slovenia Taxis
+#### Taxis in Slovenia
 
 - [Bolt](https://bolt.eu/)
 - [Wizi](https://wizi.si/)
@@ -3255,7 +3261,15 @@ Would try [Slavia](https://www.kaviarenslavia.sk/jedalny-listok/) if I were to v
 - [Hopin Taxi](https://www.hopin.si/)
 - [Metro Taxi Ljubljana](https://www.metro.si/)
 
-#### Slovenian Wifi
+#### Motorway Tolls - Vignettes in Slovenia
+
+You must purchase a vignette for using Slovenia's motorways, you can buy them online here:
+
+<https://www.gov.si/en/topics/tolls/>
+
+Alternatively you can buy them at the border by taking the other lane for it. Save time, buy it online.
+
+#### Wifi in Slovenia
 
 Slovenia has surprisingly bad wifi in many places ranging from the hostel to coffee shops and restaurants,
 it is painfully slow and unreliable.
@@ -3264,14 +3278,6 @@ Do not stay at Hostel Tivoli again, the wifi didn't work a lot of the time.
 
 If you do stay at Hostel Tivoli,
 walk through the park to the centre, it's a much nicer walk and shaded most of the way by trees.
-
-#### Slovenian Motorway Tolls - Vignettes
-
-You must purchase a vignette for using Slovenia's motorways, you can buy them online here:
-
-<https://www.gov.si/en/topics/tolls/>
-
-Alternatively you can buy them at the border by taking the other lane for it. Save time, buy it online.
 
 #### Ljubljana
 
@@ -3444,7 +3450,7 @@ no staff most of the time or seeing other guests.
 
 ### Taiwan
 
-#### Taiwan Taxis
+#### Taxis in Taiwan
 
 My usual Grab which is popular in SE Asia isn't available in Taiwan, they have Uber and FindTaxi:
 
@@ -3497,28 +3503,29 @@ as I prefer other parts of SE Asia, so you'll have to do more Google Maps / Sear
 
 A fast life strategy place. Lots of tattoos and marijuana coffee shops.
 
-#### Thailand Cash
+#### Cash Needed in Thailand
 
 You will need cash, big time. Thailand is cheap but lots of places do not take cards.
 
 The ATM machines are thieves and will charge you £5 to withdraw almost any amount of cash,
 so you may as well withdraw a larger sum so you get conned by them less often.
 
-#### Thailand Mobile
+#### Mobile Internet in Thailand
 
 I used True5G which has kiosks all over the airport.
 
 You can get 30 days for around £27 or 180 days for around £30.
 
-It works out slightly more expensive than Airalo but the latter one is the best price for such long durations and even beat my usual Airalo which is better for short term.
+It works out slightly more expensive than Airalo but the latter one is the best price for such long durations
+and even beat my usual Airalo which is better for short term.
 
-#### Thailand Taxis
+#### Taxis in Thailand
 
 If you haven't already set up your card to prepay on the Grab app, you'll need cash.
 
 - [Grab](https://www.grab.com/) - taxi app
 
-#### Thailand Food
+#### Food in Thailand
 
 Thai food is great - Pad Thai, Pad Ka Prow
 (more commonly called Chilli Holy & Basil in Thailand for some reason even though abroad they use its actual name -
@@ -3546,7 +3553,7 @@ but mostly shuts down by midnight, and I found the hotel to be expensive at £50
 [Khao San road](https://maps.app.goo.gl/DQifXctJYKgqZ5b88) is best for travellers on a budget as it has more affordable
 hotels.
 
-##### Bangkok Food
+##### Food in Bangkok
 
 Mostly eat street food, it's way cheaper than restaurants which charge multiple times the prices.
 
@@ -3643,7 +3650,7 @@ Beach town that is virtually a brothel. Do not go.
 
 But if you insist...
 
-##### Getting to Pattaya from Bangkok
+##### Travel Between Bangkok and Pattaya
 
 Getting to Pattaya from Bangkok will cost you 1500-2000BHT
 or you can just taxi to the bus station for 100-20BHT and then take a coach for 131 BHT,
@@ -3769,7 +3776,7 @@ The capital of the UAE.
 
 More relaxed, than Dubai.
 
-##### Abu Dhabi Restaurants
+##### Restaurants in Abu Dhabi
 
 - Paradiso - I dropped nearly £100 just for my half, but I did get the steak... good quality, the price of drinks adds up
 
@@ -3785,7 +3792,7 @@ People drive with air conditioning and dive into malls, offices and restaurants 
 
 I used Virgin Mobile on a prepaid contract for around £200 for the year which was the cheapest deal I could find.
 
-#### Dubai Metro
+#### Metro in Dubai
 
 Good for the areas it covers.
 
@@ -3795,7 +3802,7 @@ This works out to a mere 65p or £1.10!!
 
 Buy a Nol card immediately for 25 dirhams which has 19 dirhams of credit already pre-loaded on it.
 
-#### Dubai Taxis
+#### Taxis in Dubai
 
 You will need a car or taxi to really get around.
 
@@ -3803,7 +3810,7 @@ You will need a car or taxi to really get around.
 
 It does everything from Uber-style taxis, to food delivery, to rental bicycles.
 
-#### Dubai Parking
+#### Parking in Dubai
 
 Parking is easy in most of the malls but really difficult near the Dubai World Trade Center.
 
@@ -3813,13 +3820,13 @@ Occasionally it is blocked off for DWTC events, but there is another smaller ope
 [here](https://maps.app.goo.gl/jMzPUWreB5ypQ1gw9).
 I avoid using the Al Mustaqbal car park as it is expensive at 10 AED per hour.
 
-#### Dubai Weather
+#### Weather in Dubai
 
 The weather is so hot even by May some people use sun umbrellas - so hot that it broke my car phone holder.
 Rich people usually leave Dubai and go to Europe for the summer.
 Copying them was how a lot of the European countries on this list were covered!
 
-#### Dubai Attractions
+#### Attractions in Dubai
 
 Dubai has a good mix of beaches and malls.
 It is built in the US style where a mall is not just a shopping venue but a destination with lots of restaurants & cafes
@@ -3849,7 +3856,7 @@ as well as activities.
 - [Global Village](https://www.tripadvisor.com/Attraction_Review-g295424-d2038312-Reviews-Global_Village-Dubai_Emirate_of_Dubai.html) -
   only open October to April
 
-#### Dubai Restaurants
+#### Restaurants in Dubai
 
 Often restaurants outside of the malls are better in terms of prices.
 
@@ -3883,7 +3890,7 @@ Often restaurants outside of the malls are better in terms of prices.
 - [Al Rigga Night Market](https://maps.app.goo.gl/dVxrrWQwxGW1KoNQ7) - full of cheap eats, and the market opposite,
   bustling at midnight, open until 2am
 
-#### Dubai Visa
+#### Visas for Dubai
 
 You are required to get a medical blood screening, chest x-ray, biometrics like fingerprinting to get a visa here.
 
@@ -3893,7 +3900,7 @@ and will get a shock as your car rental company refuses to release the car to yo
 You will then need to Careem around the city to get your Emirates ID and then your Drivers License which will require
 local bank or cash payment.
 
-#### Dubai Banking
+#### Banking in Dubai
 
 - [Mashreq](https://www.mashreq.com/) is the easiest to use, app-only like Starling or Monzo
   - but I lost 5% on a GBP-to-GBP transfer from ADCB to Mashreq... Bitcoin transaction fees are
@@ -4005,7 +4012,7 @@ A nicer more suburban manufactured city than LA, with decent shops and restauran
 
 A giant square grid of blocks. From the plane it looks like The Matrix.
 
-Hollywood boullivard is nothing fancy in the grand scheme of things.
+Hollywood boulevard is nothing fancy in the grand scheme of things.
 It's just a tourist strip of a few restaurants and shops.
 
 Rodeo Drive is the upmarket shopping road of expensive designer brands.
@@ -4055,7 +4062,7 @@ Not recommended for women.
 
 ### Vietnam
 
-#### Vietnam Taxis
+#### Taxis in Vietnam
 
 If you haven't already set up your card to prepay on the Grab app, you'll need cash.
 
