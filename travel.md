@@ -1302,6 +1302,8 @@ Coming back to the UK from there was quite a downgrade.
   The "Peasant's Lunch" plate was really good with a great mix of tasty food on it, and affordable.
   The Venison strew with gnocci had good deer meat pieces in sauce, but is a bit pricier.
   The apple strudel was average, could skip that next time
+- [Pivnica Mali Medo](https://maps.app.goo.gl/a2AZkxeG8yPjzPK2A) - popular beer hall with lots of outdoor seating
+  serving a sizeable selection of pizzas, beef goulash, burgers and some chicken/pork mains. Wifi didn't work
 
 TODO:
 
