@@ -184,7 +184,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Oradea](#oradea)
   - [Serbia](#serbia)
     - [Indoor Smoking, Outdoor Smoking, Smoking Everywhere](#indoor-smoking-outdoor-smoking-smoking-everywhere)
-    - [Belgrade Taxis](#belgrade-taxis)
+    - [Serbian Taxis](#serbian-taxis)
     - [Driving in Serbia](#driving-in-serbia)
     - [Belgrade](#belgrade)
     - [Novi Sad](#novi-sad)
@@ -3023,7 +3023,7 @@ Quite shocking that Serbia permits this.
 
 I've asked the locals about this and they said there are a couple non-smoking venues *"but nobody goes there"*.
 
-#### Belgrade Taxis
+#### Serbian Taxis
 
 - [Car Go](https://appcargo.com/en) - like Uber. Usually the cheapest but wait times seem much longer than advertised, and sometimes it didn't
   find any drivers, so I had to use Yandex Go or Pink Taxi below instead
