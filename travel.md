@@ -138,8 +138,6 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Italy Car Rentals](#italy-car-rentals)
     - [Rome](#rome)
     - [Venice](#venice)
-  - [Moldova](#moldova)
-    - [Chisinau](#chisinau)
   - [Laos](#laos)
     - [Laos Taxis](#laos-taxis)
     - [Vientiane](#vientiane)
@@ -154,6 +152,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Kuala Lumpur](#kuala-lumpur)
       - [Bukit Bintag](#bukit-bintag)
       - [Chinatown](#chinatown)
+  - [Moldova](#moldova)
+    - [Chisinau](#chisinau)
   - [Morocco](#morocco)
     - [Morocco Taxis](#morocco-taxis)
     - [Tangiers](#tangiers)
@@ -2239,52 +2239,6 @@ Somewhat expensive, don't go for more than a long weekend.
 
 Also, got caught in a storm just before leaving, check the weather forecasts.
 
-### Moldova
-
-#### Chisinau
-
-You'll need to withdraw local currency before you leave the airport.
-
-There were hardly any taxis outside the airport and lots of people waiting around for them.
-
-The wall said 150-200 Moldovan Leu to the centre but when taxi drivers finally showed up they started quoting me
-300-400 and cash only.
-
-After my experience in Turkey and this I have started to dislike how taxi drivers are taking tourists for mugs.
-
-I ended up taking the Number 30 bus to the centre instead which was easy (again cash only, thanks to a good samaritan
-because I made the mistake of not withdrawing cash before leaving the airport).
-Some of these less developed countries like Moldova and Morocco demand cash usage (probably to evade taxes).
-
-- [La Placinte](https://maps.app.goo.gl/6yVUsipRBWWSfpBp8) - affordable but good quality chain restaurant, there are
-  several of them you don't have to go to this location
-
-- [Andy's](https://maps.app.goo.gl/Fewkr3FsDjW2rZfUA) - affordable chain known for pizzas,
-  the central one is 24x7 and packed at midnight on a Saturday as one of the few late night places available.
-
-- [Keller Holz Gastropub](https://maps.app.goo.gl/pr7sK1L7MnSwy5py5) - good food and beer menus, very good ambience and
-  location
-
-- [Sensei Cafe](https://maps.app.goo.gl/7vMPz3KZbppy3iudA) - good looking menu, little pricey by local standards,
-  outside terrace, has wifi, good ambience but shisha smokey indoors
-
-- [Cartal](https://maps.app.goo.gl/aDCJVHnDE2z2rWKQ7) - decent food, moderate prices, small indoor bar seating,
-  all restaurant seating is outdoors, card ok until 10pm, takes only cash 10pm-12am closing time
-
-- [Daily Dose](https://maps.app.goo.gl/LoncFKxbs6hvBCwJ6) - busy trendy late night cocktails and desserts venue,
-  no hot drinks for late night workers
-
-- [Amor Amar](https://maps.app.goo.gl/EroDq4vsNi2Zzd78A) - trendy small late night drinks & dessert venue with good
-  music, slightly expensive due to late night premium open until 2am
-
-- [Grill House](https://maps.app.goo.gl/WBD1c5GHKspgDf8A6) - established in 1995, decent quality, price `£££` -
-  the traditional Georgian soup Kharcho with veal is slightly spicey but very good and much bigger than anticipated,
-  watch out you can still handle your main.
-  New York Cheesecake was good, and fillet steak was decent but far from the best I've had internationally.
-  For non-alcoholics with a sweet tooth the local Compot fruit juice drink is recommended,
-  I had 3 of them and was probably well over my sugar intake a result.
-  Regarding, steak on a price trade off I'd probably try one of the other steak places next time.
-
 ### Laos
 
 $40 for a visa on arrival, and long queues.
@@ -2519,6 +2473,52 @@ but nothing as busy as [Changkat](https://maps.app.goo.gl/KZMNXSDVS3gmTDHb9) in 
   The mutton curry noodles are very good, I just wish the portion size was bigger.
   The noodles are made in house, and the curry sauce was very good too, although mutton is a bit fatty.
   You can get beef rendang noodles, or with rice. The chicken BBQ buns are very good, fluffy and sweet too
+
+### Moldova
+
+#### Chisinau
+
+You'll need to withdraw local currency before you leave the airport.
+
+There were hardly any taxis outside the airport and lots of people waiting around for them.
+
+The wall said 150-200 Moldovan Leu to the centre but when taxi drivers finally showed up they started quoting me
+300-400 and cash only.
+
+After my experience in Turkey and this I have started to dislike how taxi drivers are taking tourists for mugs.
+
+I ended up taking the Number 30 bus to the centre instead which was easy (again cash only, thanks to a good samaritan
+because I made the mistake of not withdrawing cash before leaving the airport).
+Some of these less developed countries like Moldova and Morocco demand cash usage (probably to evade taxes).
+
+- [La Placinte](https://maps.app.goo.gl/6yVUsipRBWWSfpBp8) - affordable but good quality chain restaurant, there are
+  several of them you don't have to go to this location
+
+- [Andy's](https://maps.app.goo.gl/Fewkr3FsDjW2rZfUA) - affordable chain known for pizzas,
+  the central one is 24x7 and packed at midnight on a Saturday as one of the few late night places available.
+
+- [Keller Holz Gastropub](https://maps.app.goo.gl/pr7sK1L7MnSwy5py5) - good food and beer menus, very good ambience and
+  location
+
+- [Sensei Cafe](https://maps.app.goo.gl/7vMPz3KZbppy3iudA) - good looking menu, little pricey by local standards,
+  outside terrace, has wifi, good ambience but shisha smokey indoors
+
+- [Cartal](https://maps.app.goo.gl/aDCJVHnDE2z2rWKQ7) - decent food, moderate prices, small indoor bar seating,
+  all restaurant seating is outdoors, card ok until 10pm, takes only cash 10pm-12am closing time
+
+- [Daily Dose](https://maps.app.goo.gl/LoncFKxbs6hvBCwJ6) - busy trendy late night cocktails and desserts venue,
+  no hot drinks for late night workers
+
+- [Amor Amar](https://maps.app.goo.gl/EroDq4vsNi2Zzd78A) - trendy small late night drinks & dessert venue with good
+  music, slightly expensive due to late night premium open until 2am
+
+- [Grill House](https://maps.app.goo.gl/WBD1c5GHKspgDf8A6) - established in 1995, decent quality, price `£££` -
+  the traditional Georgian soup Kharcho with veal is slightly spicey but very good and much bigger than anticipated,
+  watch out you can still handle your main.
+  New York Cheesecake was good, and fillet steak was decent but far from the best I've had internationally.
+  For non-alcoholics with a sweet tooth the local Compot fruit juice drink is recommended,
+  I had 3 of them and was probably well over my sugar intake a result.
+  Regarding, steak on a price trade off I'd probably try one of the other steak places next time.
 
 ### Morocco
 
