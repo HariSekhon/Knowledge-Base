@@ -84,6 +84,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Croatia](#croatia)
     - [Croatia Taxis](#croatia-taxis)
     - [Zagreb](#zagreb)
+  - [Cyprus](#cyprus)
   - [Czech Republic / Czechia](#czech-republic--czechia)
     - [Czech Motorway Tolls - Vignettes](#czech-motorway-tolls---vignettes)
     - [Prague](#prague)
@@ -94,7 +95,6 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [České Budějovice](#české-budějovice)
     - [Kutna Hora](#kutna-hora)
     - [Hradec Kralove](#hradec-kralove)
-  - [Cyprus](#cyprus)
   - [Estonia](#estonia)
     - [Tallinn](#tallinn)
   - [France](#france)
@@ -1312,6 +1312,12 @@ TODO:
 
 - [Curry Bowl](https://maps.app.goo.gl/pKGV8He7S8FeiSiJ7)
 
+### Cyprus
+
+Excellent holiday destination, but be warned, it is too hot in August.
+
+It's been too many years since I've been so I don't have any restaurant recommendations for this one.
+
 ### Czech Republic / Czechia
 
 It's too close in naming to the war torn Chechnia.
@@ -1354,6 +1360,9 @@ has suggestions for free street parking places.
 
 Prague Airport Parking C is very expensive - 1400kc (£48) for 24 hours, 1800kc (£62) for 2 days.
 Arrange a nearby parking next time
+
+I parked at [Parkoviště](https://maps.app.goo.gl/1VKm9r9w2B6dtKTs6) Zličín as even the Park & Rides were full there,
+but even out there it's still roughly €25 per week.
 
 ##### Prague Restaurants
 
@@ -1657,12 +1666,6 @@ stopped here driving between Prague and Wroclaw, Poland.
   either - get the classic pork tenderloin schnitzel if you must.
   Next time I would go with the beef rump steak or confit duck (apparently a sizeable portion).
   42/10 Mbit/s wifi
-
-### Cyprus
-
-Excellent holiday destination, but be warned, it is too hot in August.
-
-It's been too many years since I've been so I don't have any restaurant recommendations for this one.
 
 ### Estonia
 
