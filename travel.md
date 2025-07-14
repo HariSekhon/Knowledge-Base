@@ -173,7 +173,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Sopot](#sopot)
     - [Wroclaw](#wroclaw)
     - [Warsaw](#warsaw)
-  - [Philipines](#philipines)
+  - [Philippines](#philippines)
     - [Manilla](#manilla)
   - [Romania](#romania)
     - [Romania Taxis](#romania-taxis)
@@ -2758,22 +2758,26 @@ TODO:
   here without a reservation
 - [Bułkę przez Bibułkę](https://maps.app.goo.gl/StZzWDg2bZofJ2fG7) - breakfast restaurant
 
-### Philipines
+### Philippines
 
-A very hot, mosquito-ridden country with overpopulated streets and wealth inequality,
+It's been too long since I've been to remember any particular restaurants,
+but the restaurants I went to catered to mainly rich foreigners and were often empty.
+
+It's very hot, and take mosquito repellent, you will need it.
+
+The streets are overpopulated and wealth inequality is substantial,
 which means a foreigner can live well with Western money.
 
-Famed for its more traditional women,
+Famed for its relatively more traditional women,
 many men known as *"Passport Bros"* go to find something more resembling wives than even married men in the West have.
 
-There are a lot of missing signs, apparently because locals take them down and melt them for money.
+There are a lot of missing signs, apparently because locals take them down and melt them for the metal to get money.
 
 #### Manilla
 
 In the capital, the malls were relatively sparse since a lot of the poorer locals were kept out by security.
 
-Kidnappings and random of the children of the rich are also a problem, with gated communities having their own security
-forces.
+Kidnappings of the children of the rich is also a problem, with gated communities having their own security forces.
 
 ### Romania
 
