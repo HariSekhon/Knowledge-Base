@@ -213,6 +213,7 @@ Make sure the BTC you receive isn't tainted - it hasn't gone through some darkne
 ## Borrow Against Bitcoin
 
 - [Ledn](https://ledn.io/)
+- [Debifi](https://debifi.com/)
 - [HodlHodl Lend](https://lend.hodlhodl.com/)
 
 Borrow Against Your Bitcoin instead of selling it.
