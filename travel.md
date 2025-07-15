@@ -1345,8 +1345,9 @@ TODO:
 - [Torikaya Ramen Bar](https://maps.app.goo.gl/zSGiH4zmTFq56ot77) - highly rated
 - [Meet Mia](https://maps.app.goo.gl/U1mueWUnkzfFNMMr5) - kitchen closes at 2pm
 - [Curry Bowl](https://maps.app.goo.gl/pKGV8He7S8FeiSiJ7)
-- [Otto & Frank](https://maps.app.goo.gl/qcwwzbnEsoK3dkrN7) - breakfast until 12pm, was quiet compared to
-  Pivnica Mali Medo above which was busy a few minutes north on the same road
+- [Otto & Frank](https://maps.app.goo.gl/qcwwzbnEsoK3dkrN7) - breakfast until 12pm,
+  burgers are a bit more affordable than Submarine Burger chain.
+  Was quiet compared to Pivnica Mali Medo above which was busy a few minutes north on the same road
 - [La Štruk](https://maps.app.goo.gl/TKY1UEL9tQTcwPE98)
 - [BioMania Bistro](https://maps.app.goo.gl/L4a5qpiY7csHGDXR7) - vegan but interesting menu and highly rated
 - [Batak Centar Cvjetni](https://maps.app.goo.gl/bsbDKuxmqfhDuq3E8) - interesting [menu](https://batak.hr/eng/menu-continental-croatia/)
