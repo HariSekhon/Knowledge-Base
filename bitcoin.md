@@ -17,6 +17,7 @@
 - [BTCMap](#btcmap)
 - [TaxBit](#taxbit)
 - [Security](#security)
+- [Privacy](#privacy)
 - [Borrow Against Bitcoin](#borrow-against-bitcoin)
 - [Run Your Own Node for Added Privacy](#run-your-own-node-for-added-privacy)
 - [Layer 2 Chains](#layer-2-chains)
@@ -209,6 +210,17 @@ That's when Govs can come with OSINT, or bad actors can use Poisoned Nodes etc.
 ## Security
 
 Make sure the BTC you receive isn't tainted - it hasn't gone through some darknet market place or a hack.
+
+## Privacy
+
+Bitcoin's ledger is public and KYC (Know Your Customer) links your identity to your address.
+
+This data can be leaked, doxing your Bitcoin net worth,
+or demanded by increasing tax aggressive governments harassing expats.
+
+You can use anonymizing services like CoinJoin to try to re-anonymize your Bitcoin movements and addresses:
+
+<https://www.coinjoins.org/>
 
 ## Borrow Against Bitcoin
 
