@@ -21,6 +21,7 @@
 - [Run Your Own Node for Added Privacy](#run-your-own-node-for-added-privacy)
 - [Layer 2 Chains](#layer-2-chains)
 - [Bitcoin Treasury Companies](#bitcoin-treasury-companies)
+- [Bitcoin Retirement Calculator](#bitcoin-retirement-calculator)
 - [Learning Resources](#learning-resources)
   - [Bitcoin Atlantis Videos](#bitcoin-atlantis-videos)
   - [Tutorial Videos](#tutorial-videos)
@@ -235,9 +236,18 @@ High interest rate though.
 
 <https://bitcointreasuries.net/>
 
+## Bitcoin Retirement Calculator
+
+<https://calc.bitcoineracademy.com/>
+
+<https://bitbo.io/tools/retirement-calculator/>
+
+<https://bitcoincounterflow.com/bitcoin-retirement-calculator/>
+
 ## Learning Resources
 
 - <https://bitcoin.org/en/>
+- <https://www.btcsessions.ca/learn>
 - [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) by Saifedean Ammous
 - [The Fiat Standard](https://www.amazon.com/Fiat-Standard-Slavery-Alternative-Civilization/dp/B09VVFCQ63) by Saifedean Ammous
 - [Broken Money](https://www.amazon.com/Broken-Money-Financial-System-Failing/dp/B0CNS7NQLD) by Lyn Alden
