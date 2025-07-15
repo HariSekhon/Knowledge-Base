@@ -1321,6 +1321,13 @@ Coming back to the UK from there was quite a downgrade.
   but don't wait to eat it as it didn't come piping hot (also, eating it outdoors cool summer evening).
   Wifi didn't work
 
+Brunch Problems: I walked around for 4 hours trying to find somewhere that would serve me breakfast/brunch in the
+afternoon, without success.
+
+Like in Slovenia, the culture is to stop breakfast menus at around 12pm. In the end I went to the
+[SPAR supermarket Zagreb Žerjavićeva](https://maps.app.goo.gl/vwPYcqi1oMJAaN546), bought my own eggs and made myself
+scrambled eggs.
+
 TODO:
 
 - [Curry Bowl](https://maps.app.goo.gl/pKGV8He7S8FeiSiJ7)
