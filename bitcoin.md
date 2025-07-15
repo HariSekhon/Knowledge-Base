@@ -257,6 +257,10 @@ High interest rate though.
 
 <https://bitcoincounterflow.com/bitcoin-retirement-calculator/>
 
+## Bitcoin News
+
+<https://www.theblock.co/>
+
 ## Learning Resources
 
 - <https://bitcoin.org/en/>
