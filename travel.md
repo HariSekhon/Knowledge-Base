@@ -1343,7 +1343,9 @@ scrambled eggs.
 TODO:
 
 - [Torikaya Ramen Bar](https://maps.app.goo.gl/zSGiH4zmTFq56ot77) - highly rated
-- [Meet Mia](https://maps.app.goo.gl/U1mueWUnkzfFNMMr5) - kitchen closes at 2pm
+- [Meet Mia](https://maps.app.goo.gl/U1mueWUnkzfFNMMr5) - breakfast / brunch but kitchen closes at 2pm
+- [Balance brunch & bakery](https://maps.app.goo.gl/aDLj3sqSRdcWD5Tn8) - good
+  [menu](https://balancebrunch.com/menu/menu.pdf)
 - [Curry Bowl](https://maps.app.goo.gl/pKGV8He7S8FeiSiJ7)
 - [Otto & Frank](https://maps.app.goo.gl/qcwwzbnEsoK3dkrN7) - breakfast until 12pm,
   burgers are a bit more affordable than Submarine Burger chain.
