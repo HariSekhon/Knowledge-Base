@@ -1333,11 +1333,11 @@ Coming back to the UK from there was quite a downgrade.
     Slightly different menu at each site, doesn't have the goulash with gnocchi
 - [Oakberry](https://maps.app.goo.gl/SjfD59FFKJxJanfs5) - international Acai chain
 
-Brunch Problems: I walked around for 4 hours trying to find somewhere that would serve me breakfast/brunch in the
+Brunch Problems: I walked around for 4 hours trying to find somewhere that would serve me breakfast / brunch in the
 afternoon, without success.
 
-Like in Slovenia, the culture is to stop breakfast menus at around 12pm. In the end I went to the
-[SPAR supermarket Zagreb Žerjavićeva](https://maps.app.goo.gl/vwPYcqi1oMJAaN546), bought my own eggs and made myself
+Like in Slovenia, the culture is to stop breakfast menus at 12pm. In the end I went to the
+[SPAR supermarket on Žerjavićeva](https://maps.app.goo.gl/vwPYcqi1oMJAaN546), bought my own eggs and made myself
 scrambled eggs.
 
 TODO:
