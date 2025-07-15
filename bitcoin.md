@@ -23,6 +23,7 @@
 - [Layer 2 Chains](#layer-2-chains)
 - [Bitcoin Treasury Companies](#bitcoin-treasury-companies)
 - [Bitcoin Retirement Calculator](#bitcoin-retirement-calculator)
+- [Bitcoin News](#bitcoin-news)
 - [Learning Resources](#learning-resources)
   - [Bitcoin Atlantis Videos](#bitcoin-atlantis-videos)
   - [Tutorial Videos](#tutorial-videos)
