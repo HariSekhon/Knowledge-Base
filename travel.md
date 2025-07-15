@@ -1315,11 +1315,23 @@ Coming back to the UK from there was quite a downgrade.
   The "Peasant's Lunch" plate was really good with a great mix of tasty food on it, and affordable.
   The Venison strew with gnocci had good deer meat pieces in sauce, but is a bit pricier.
   The apple strudel was average, could skip that next time
+- [Submarine Burger Bogovićeva](https://maps.app.goo.gl/peaWm4BhKti6ybsC8) /
+  [Submarine Burger Frankopanska](https://maps.app.goo.gl/7r5ah4qTbDRvFUBWA) - all-natural homemade gourmet burger
+  chain.
+  The Bogovićeva location was very lively with nearly all the tables full on a Wednesday night, and the burgers were
+  very good.
+  The original burger was good, the smokehouse burger was even better,
+  and the salchipapas fries were very good with bbq mayo and many pieces of smoked sausage quarter slices made from
+  black Slavonian pig and came in a portion easily big enough for 2 people to share
 - [Pivnica Mali Medo](https://maps.app.goo.gl/a2AZkxeG8yPjzPK2A) - popular beer hall with lots of outdoor seating
   serving a sizeable selection of pizzas, beef goulash, burgers and some chicken/pork mains.
   The beef goulash with gnocchi came with a lot of meat for €15,
   but don't wait to eat it as it didn't come piping hot (also, eating it outdoors cool summer evening).
   Wifi didn't work
+  - [Pivnica Medvedgrad Ilica](https://maps.app.goo.gl/QV49uj1qUosSFPDA6) - another one of this chain - burgers
+    ingredients sound good and reasonably priced, and the mains sound good too.
+    Slightly different menu at each site, doesn't have the goulash with gnocchi
+- [Oakberry](https://maps.app.goo.gl/SjfD59FFKJxJanfs5) - international Acai chain
 
 Brunch Problems: I walked around for 4 hours trying to find somewhere that would serve me breakfast/brunch in the
 afternoon, without success.
@@ -1330,8 +1342,18 @@ scrambled eggs.
 
 TODO:
 
+- [Torikaya Ramen Bar](https://maps.app.goo.gl/zSGiH4zmTFq56ot77) - highly rated
+- [Meet Mia](https://maps.app.goo.gl/U1mueWUnkzfFNMMr5) - kitchen closes at 2pm
 - [Curry Bowl](https://maps.app.goo.gl/pKGV8He7S8FeiSiJ7)
+- [Otto & Frank](https://maps.app.goo.gl/qcwwzbnEsoK3dkrN7) - breakfast until 12pm, was quiet compared to
+  Pivnica Mali Medo above which was busy a few minutes north on the same road
+- [La Štruk](https://maps.app.goo.gl/TKY1UEL9tQTcwPE98)
 - [BioMania Bistro](https://maps.app.goo.gl/L4a5qpiY7csHGDXR7) - vegan but interesting menu and highly rated
+- [Batak Centar Cvjetni](https://maps.app.goo.gl/bsbDKuxmqfhDuq3E8) - interesting [menu](https://batak.hr/eng/menu-continental-croatia/)
+- [Gostionica Ficlek](https://maps.app.goo.gl/UWDDxa5z2FGyKgvQ8) - Croatian tapas and mains, not cheap
+- [Konoba Didov san](https://maps.app.goo.gl/eZBLLt4nuGcxHbA36) - looks good, not cheap
+- [Plac Kitchen & Grill](https://maps.app.goo.gl/Dzj39HSF1esycUa47) - burgers and cevapi (minced meat kebabs)
+- [Amadria Park Hotel Capital Restaurant](https://maps.app.goo.gl/RciPepbijJddKVJg9) - upmarket hotel restaurant - date place
 
 ### Cyprus
 
