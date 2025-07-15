@@ -1332,6 +1332,7 @@ Coming back to the UK from there was quite a downgrade.
     ingredients sound good and reasonably priced, and the mains sound good too.
     Slightly different menu at each site, doesn't have the goulash with gnocchi
 - [Oakberry](https://maps.app.goo.gl/SjfD59FFKJxJanfs5) - international Acai chain
+- [Monument To King Tomislav](https://maps.app.goo.gl/Cv6GmBqmk3w474n89)
 
 Brunch Problems: I walked around for 4 hours trying to find somewhere that would serve me breakfast / brunch in the
 afternoon, without success.
