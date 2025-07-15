@@ -1346,6 +1346,8 @@ TODO:
 - [Meet Mia](https://maps.app.goo.gl/U1mueWUnkzfFNMMr5) - breakfast / brunch but kitchen closes at 2pm
 - [Balance brunch & bakery](https://maps.app.goo.gl/aDLj3sqSRdcWD5Tn8) - good
   [menu](https://balancebrunch.com/menu/menu.pdf) but a bit far out to the north east of central Zagreb
+- [Pomalooo Bar & Brunch](https://maps.app.goo.gl/6qgSqzdPNYhEigYD9) - 30 minutes walk West of central Zagreb
+  but good menu and moderate prices, breakfast, eggs, burgers etc.
 - [Curry Bowl](https://maps.app.goo.gl/pKGV8He7S8FeiSiJ7)
 - [Otto & Frank](https://maps.app.goo.gl/qcwwzbnEsoK3dkrN7) - breakfast until 12pm,
   burgers are a bit more affordable than Submarine Burger chain.
