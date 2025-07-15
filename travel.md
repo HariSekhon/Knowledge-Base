@@ -1324,6 +1324,7 @@ Coming back to the UK from there was quite a downgrade.
 TODO:
 
 - [Curry Bowl](https://maps.app.goo.gl/pKGV8He7S8FeiSiJ7)
+- [BioMania Bistro](https://maps.app.goo.gl/L4a5qpiY7csHGDXR7) - vegan but interesting menu and highly rated
 
 ### Cyprus
 
