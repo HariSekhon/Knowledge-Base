@@ -806,6 +806,18 @@ In the Parkopedia app, once you've selected the car park you can, share it to Wa
 Do not use Waze to get to the city and then try to find parking, that's more difficult, and Waze will often send you to
 some random part of a city, which has little there.
 
+## EU Schengen Visa Calculator
+
+I use a Google Sheets spreadsheet with formulas but this is also helpful.
+
+This is easy to use as you just have to click your entry / exit dates:
+
+<https://schengenareacalculator.com/>
+
+This is less easy to use because you have to manually enter the dates:
+
+<https://www.visa-calculator.com/>
+
 ## Emigration
 
 ### Taxes
@@ -1323,6 +1335,7 @@ Coming back to the UK from there was quite a downgrade.
   The original burger was good, the smokehouse burger was even better,
   and the salchipapas fries were very good with bbq mayo and many pieces of smoked sausage quarter slices made from
   black Slavonian pig and came in a portion easily big enough for 2 people to share
+- [Curry Bowl](https://maps.app.goo.gl/RBtVDPfb6kAu16WB9) - great menu, flavours and reasonable prices.
 - [Pivnica Mali Medo](https://maps.app.goo.gl/a2AZkxeG8yPjzPK2A) - popular beer hall with lots of outdoor seating
   serving a sizeable selection of pizzas, beef goulash, burgers and some chicken/pork mains.
   The beef goulash with gnocchi came with a lot of meat for €15,
