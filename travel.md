@@ -1352,8 +1352,6 @@ Coming back to the UK from there was quite a downgrade.
     ingredients sound good and reasonably priced, and the mains sound good too.
     Slightly different menu at each site, doesn't have the goulash with gnocchi
 - [Oakberry](https://maps.app.goo.gl/SjfD59FFKJxJanfs5) - international Acai chain
-- [Amadria Park Hotel](https://maps.app.goo.gl/3RcvpvQKZPj7HHaq7) - there's an upmarket restaurant here that would be a
-  good choice for dates
 - [Dolac Market](https://maps.app.goo.gl/3DXxcMZ3boK3x5669)
 - [Monument To King Tomislav](https://maps.app.goo.gl/Cv6GmBqmk3w474n89)
 
@@ -1372,7 +1370,6 @@ TODO:
   [menu](https://balancebrunch.com/menu/menu.pdf) but a bit far out to the north east of central Zagreb
 - [Pomalooo Bar & Brunch](https://maps.app.goo.gl/6qgSqzdPNYhEigYD9) - 30 minutes walk West of central Zagreb
   but good menu and moderate prices, breakfast, eggs, burgers etc.
-- [Curry Bowl](https://maps.app.goo.gl/pKGV8He7S8FeiSiJ7)
 - [Otto & Frank](https://maps.app.goo.gl/qcwwzbnEsoK3dkrN7) - breakfast until 12pm,
   burgers are a bit more affordable than Submarine Burger chain.
   Was quiet compared to Pivnica Mali Medo above which was busy a few minutes north on the same road
@@ -1382,7 +1379,8 @@ TODO:
 - [Gostionica Ficlek](https://maps.app.goo.gl/UWDDxa5z2FGyKgvQ8) - Croatian tapas and mains, not cheap
 - [Konoba Didov san](https://maps.app.goo.gl/eZBLLt4nuGcxHbA36) - looks good, not cheap
 - [Plac Kitchen & Grill](https://maps.app.goo.gl/Dzj39HSF1esycUa47) - burgers and cevapi (minced meat kebabs)
-- [Amadria Park Hotel Capital Restaurant](https://maps.app.goo.gl/RciPepbijJddKVJg9) - upmarket hotel restaurant - date place
+- [Amadria Park Hotel Restaurant](https://maps.app.goo.gl/RciPepbijJddKVJg9) - upmarket hotel restaurant -
+  date place
 
 ### Cyprus
 
