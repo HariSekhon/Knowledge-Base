@@ -1352,6 +1352,8 @@ Coming back to the UK from there was quite a downgrade.
     ingredients sound good and reasonably priced, and the mains sound good too.
     Slightly different menu at each site, doesn't have the goulash with gnocchi
 - [Oakberry](https://maps.app.goo.gl/SjfD59FFKJxJanfs5) - international Acai chain
+- [Amadria Park Hotel](https://maps.app.goo.gl/3RcvpvQKZPj7HHaq7) - there's an upmarket restaurant here that would be a
+  good choice for dates
 - [Dolac Market](https://maps.app.goo.gl/3DXxcMZ3boK3x5669)
 - [Monument To King Tomislav](https://maps.app.goo.gl/Cv6GmBqmk3w474n89)
 
