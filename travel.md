@@ -1336,6 +1336,9 @@ Coming back to the UK from there was quite a downgrade.
   and the salchipapas fries were very good with bbq mayo and many pieces of smoked sausage quarter slices made from
   black Slavonian pig and came in a portion easily big enough for 2 people to share
 - [Curry Bowl](https://maps.app.goo.gl/RBtVDPfb6kAu16WB9) - great menu, flavours and reasonable prices.
+  I had the butter squid which wasn't on the online menu but was really good and filling.
+  I can skip the pol-sambol side next time as it doesn't add much, but the bread side was good, similar to garlic bread.
+  We had a 10% discount leaflet from the hostel reception but one of our guys forgot to give it to the waiter! 🙈
 - [Pivnica Mali Medo](https://maps.app.goo.gl/a2AZkxeG8yPjzPK2A) - popular beer hall with lots of outdoor seating
   serving a sizeable selection of pizzas, beef goulash, burgers and some chicken/pork mains.
   The beef goulash with gnocchi came with a lot of meat for €15,
