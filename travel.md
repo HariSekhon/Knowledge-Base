@@ -1382,6 +1382,22 @@ TODO:
 - [Amadria Park Hotel Restaurant](https://maps.app.goo.gl/RciPepbijJddKVJg9) - upmarket hotel restaurant -
   date place
 
+#### Zadar
+
+- [Restoran Bruschetta](https://maps.app.goo.gl/LkkubpbLcg7T9DNM6) - upmarket italian restaurant. Pork medallions with
+  gnocchi was good, but the Pistachio Cheesecake was even better
+- [Konoba Tovar](https://maps.app.goo.gl/iXWYGt11QBdmR6hQ8) - seafood restaurant on a side street. The mixed fried
+  seafood was good, a very large prawn, whole squids and lots of small fried whitebait. Cash only
+- [Colonna bar & caffe](COLONNA bar&caffe) - upmarket cocktail bar, €14-15 per fancy cocktail, which is double the price
+  of another place in Zadar
+- [Lazy Monkey Hostel](https://maps.app.goo.gl/4AuAhfD1WWdBJiw76) - a bar and free pool table, most people don't go out!
+- [Sea Organ](https://maps.app.goo.gl/uWVaBETiy5dxipS58) - the best place to watch the sunset and take pics
+
+Not recommended:
+
+- [Coffee & Cake - Kavana Centar](https://maps.app.goo.gl/TGVsFniVxznAizucA) - Brazilian friend said their Acai is fake,
+  just frozen fruit
+
 ### Cyprus
 
 Excellent holiday destination, but be warned, it is too hot in August.
