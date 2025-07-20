@@ -86,6 +86,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Croatia](#croatia)
     - [Taxis in Croatia](#taxis-in-croatia)
     - [Zagreb](#zagreb)
+    - [Split](#split)
     - [Zadar](#zadar)
   - [Cyprus](#cyprus)
   - [Czechia / Czech Republic](#czechia--czech-republic)
