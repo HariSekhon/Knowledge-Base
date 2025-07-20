@@ -1389,6 +1389,8 @@ TODO:
 
 Much better and more touristy than Zagreb.
 
+Diocletian's Palace and the surrounding architecture gives a real flavour of history.
+
 - [Fig Split](https://maps.app.goo.gl/RVFnsbsNi1PZcBMH9) - excellent restaurant, had a queue. Doesn’t take reservations,
   expect to wait 20-30 mins for an outside table, less if accepting an inside table. Menu is good but not cheap, €20 for
   a blueberry-japaleno burger, €4.50 for a bottled juice. Has cocktails
@@ -1398,6 +1400,7 @@ Much better and more touristy than Zagreb.
   scoop.
   The pistacchio was exactly at the gelato standard as you'd expect,
   although smooth with nuts, and the coconut similarly good
+- [Forest Park Marjan](https://maps.app.goo.gl/4D3wq5eaPWusmp6BA)
 
 #### Zadar
 
