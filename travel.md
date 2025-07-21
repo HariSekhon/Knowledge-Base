@@ -1396,7 +1396,7 @@ Diocletian's Palace and the surrounding architecture and roman ruins give a real
   a blueberry-japaleno burger, €4.50 for a bottled juice. Has cocktails
 - [Submarine Burger - Centar](https://maps.app.goo.gl/ZGjdvLug1fuHssns8) - same chain as above in Zagreb.
   Reasonable prices compared to some tourist trap restaurants, around €12 a burger and €4 for a drink, Tried the
-  Italian burger this time, the smokehouse is still the best one IMO
+  Italian burger this time, the Mmokehouse burger is still the best one IMO
 - [Picasso Pizza & Bar](https://maps.app.goo.gl/c8wJuPa2kGaBzhBw6) - great decor and ambience, reasonable pizza prices
 - [Gelateria aMare](https://maps.app.goo.gl/pDiV4Adhx2FxGrmg6)
   ([second location](https://maps.app.goo.gl/f1rnNyuYA99umSLd7)) - excellent gelateria, amazing selection €2.80 per
