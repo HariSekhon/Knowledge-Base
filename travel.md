@@ -1391,6 +1391,8 @@ Much better and more touristy than Zagreb.
 
 Diocletian's Palace and the surrounding architecture and roman ruins give a real flavour of history.
 
+Zadar seems to have more early twenties people looking to party. Watch out for those entrance fees (€10-30).
+
 - [Fig Split](https://maps.app.goo.gl/RVFnsbsNi1PZcBMH9) - excellent restaurant, had a queue. Doesn’t take reservations,
   expect to wait 20-30 mins for an outside table, less if accepting an inside table. Menu is good but not cheap, €20 for
   a blueberry-japaleno burger, €4.50 for a bottled juice. Has cocktails
@@ -1413,6 +1415,8 @@ Diocletian's Palace and the surrounding architecture and roman ruins give a real
 #### Zadar
 
 Small streets remind me of Venice.
+
+Zadar seems to have more couples and families.
 
 - [Restoran Bruschetta](https://maps.app.goo.gl/LkkubpbLcg7T9DNM6) - upmarket italian restaurant. Pork medallions with
   gnocchi was good, but the Pistachio Cheesecake was even better
