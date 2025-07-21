@@ -1404,6 +1404,11 @@ Diocletian's Palace and the surrounding architecture and roman ruins give a real
   The pistacchio was exactly at the gelato standard as you'd expect,
   although smooth with nuts, and the coconut similarly good
 - [Forest Park Marjan](https://maps.app.goo.gl/4D3wq5eaPWusmp6BA)
+- [Plaža Ježinac](https://maps.app.goo.gl/uZdzVqnRXHkeov7T8)
+- [Kasjuni Beach](https://maps.app.goo.gl/dWNNm1ApkRKxhhEWA) - this is a 45 minute walk out of central Split,
+  many people were taking taxis in and out
+- [Bacvice Beach](https://maps.app.goo.gl/1vD3NQXTs7KMwqRD8) - small beach with a shallow shore, closer to the centre
+  than Kasjuni beach
 
 #### Zadar
 
