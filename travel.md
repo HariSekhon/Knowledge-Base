@@ -383,6 +383,14 @@ It's even worse than the `Self Transfer`.
 
 ## Hotels vs Hostels vs Airbnb
 
+After a lot of travelling, I have come to the conclusion that you can judge a place by the cost of its accommodation.
+
+In Croatia for example, you can pay £30-50 per night for hostel,
+which is ridiculous as you could stay in a full private hotel room in Dubai for £55.
+
+If a place has expensive accommodation, either consider travelling to somewhere else better value if holidaying,
+or shorten your trip there and then go somewhere better value for longer.
+
 **If you're travelling alone, don't waste your time & money on Hotels or Airbnbs, use hostels, they're more social and**
 **1/3 of the price.
 Save your money and spend it on good food in restaurants instead.
