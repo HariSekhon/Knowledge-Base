@@ -1399,7 +1399,8 @@ Much better and more touristy than Zagreb.
 
 Diocletian's Palace and the surrounding architecture and roman ruins give a real flavour of history.
 
-Zadar seems to have more early twenties people looking to party. Watch out for those entrance fees (€10-30).
+Zadar seems to have more couples while Split seems to have more western early twenties people looking to party.
+Watch out for those entrance fees (€10-30).
 
 - [Fig Split](https://maps.app.goo.gl/RVFnsbsNi1PZcBMH9) - excellent restaurant, had a queue. Doesn’t take reservations,
   expect to wait 20-30 mins for an outside table, less if accepting an inside table. Menu is good but not cheap, €20 for
