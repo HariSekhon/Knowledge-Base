@@ -1401,6 +1401,7 @@ Diocletian's Palace and the surrounding architecture and roman ruins give a real
 
 Zadar seems to have more couples while Split seems to have more western early twenties people looking to party.
 Watch out for those entrance fees (€10-30).
+I can see why the veteran expat hostel owner at Zadar didn't like Split, but many people may prefer it.
 
 - [Fig Split](https://maps.app.goo.gl/RVFnsbsNi1PZcBMH9) - excellent restaurant, had a queue. Doesn’t take reservations,
   expect to wait 20-30 mins for an outside table, less if accepting an inside table. Menu is good but not cheap, €20 for
