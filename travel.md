@@ -1407,18 +1407,39 @@ Zadar seems to have more early twenties people looking to party. Watch out for t
 - [Submarine Burger - Centar](https://maps.app.goo.gl/ZGjdvLug1fuHssns8) - same chain as above in Zagreb.
   Reasonable prices compared to some tourist trap restaurants, around €12 a burger and €4 for a drink, Tried the
   Italian burger this time, the Mmokehouse burger is still the best one IMO
-- [Picasso Pizza & Bar](https://maps.app.goo.gl/c8wJuPa2kGaBzhBw6) - great decor and ambience, reasonable pizza prices
 - [Gelateria aMare](https://maps.app.goo.gl/pDiV4Adhx2FxGrmg6)
   ([second location](https://maps.app.goo.gl/f1rnNyuYA99umSLd7)) - excellent gelateria, amazing selection €2.80 per
   scoop.
   The pistacchio was exactly at the gelato standard as you'd expect,
   although smooth with nuts, and the coconut similarly good
+- [Good Food](https://maps.app.goo.gl/ZdziYK7tdTe52drL6) - this is actually a better poke-style salad restaurant than
+  burger restaurant, cheaper than Lola below, nearly half the price for a salad, so I stopped here when I saw it first
+- [Diocletian's Palace](https://maps.app.goo.gl/675iBnbnepQPYEwt9) - yes that Diocletion - the Roman emperor - classic
+  Roman architectural buildings and some ruins
+- [West Bank](https://maps.app.goo.gl/TSCrmUtQXuVzaYwf8) - good place to watch the sunset and superyachts, has benches
 - [Forest Park Marjan](https://maps.app.goo.gl/4D3wq5eaPWusmp6BA)
-- [Plaža Ježinac](https://maps.app.goo.gl/uZdzVqnRXHkeov7T8)
+- [Plaža Ježinac Beach](https://maps.app.goo.gl/uZdzVqnRXHkeov7T8)
 - [Kasjuni Beach](https://maps.app.goo.gl/dWNNm1ApkRKxhhEWA) - this is a 45 minute walk out of central Split,
   many people were taking taxis in and out
 - [Bacvice Beach](https://maps.app.goo.gl/1vD3NQXTs7KMwqRD8) - small beach with a shallow shore, closer to the centre
   than Kasjuni beach
+
+TODO:
+
+- [Picasso Pizza & Bar](https://maps.app.goo.gl/c8wJuPa2kGaBzhBw6) - great decor and ambience, reasonable pizza prices
+- [Lola Split](https://maps.app.goo.gl/Q2ib1A7ayjDo4bXt9) - medium priced restaurant with an Octopus salad for €18-20
+- [Caffe bar La Linea](https://maps.app.goo.gl/jy6H4VHMEJbcMeJe8)
+- [Froggyland](https://maps.app.goo.gl/4Q1MitBQ13EKxvde9) - museum of stuffed frogs simulating real-life human scenarios
+
+Not recommended:
+
+- [Oakberry Acai](https://maps.app.goo.gl/4XfidfNy6xv1FeU58) / [port stall](https://maps.app.goo.gl/HX3K6LLqBTRkyiGx6) -
+  badly overpriced at €13 for a medium acai cup and most fruits are €1 extra.
+  Was much better and cheaper in Bali.
+  Also, way too many seeds and nuts drowned out the Açai itself,
+  it was a struggle crunching way through so many seeds with a little acai around it -
+  perhaps this is a strategy because seeds are cheaper than Acai?
+  Go for a gelato instead, cheaper and nicer and there are many great places for it here like Gelato aMere above
 
 #### Zadar
 
