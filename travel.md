@@ -1428,6 +1428,8 @@ I can see why the veteran expat hostel owner at Zadar didn't like Split, but man
 
 TODO:
 
+- [Kat's Kitchen Brunch Club](https://maps.app.goo.gl/rSJ8KMFCdRakAH8dA) - recommended by veteran expat in Zadar, and
+  highly rated on Google
 - [Picasso Pizza & Bar](https://maps.app.goo.gl/c8wJuPa2kGaBzhBw6) - great decor and ambience, reasonable pizza prices
 - [Lola Split](https://maps.app.goo.gl/Q2ib1A7ayjDo4bXt9) - medium priced restaurant with an Octopus salad for €18-20
 - [Caffe bar La Linea](https://maps.app.goo.gl/jy6H4VHMEJbcMeJe8)
