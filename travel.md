@@ -1477,7 +1477,7 @@ Zadar seems to have more couples and families.
 - [Lazy Monkey Hostel](https://maps.app.goo.gl/4AuAhfD1WWdBJiw76) - a bar and free pool table, most people don't go out!
 - [Sea Organ](https://maps.app.goo.gl/uWVaBETiy5dxipS58) - the best place to watch the sunset and take pics
 
-__Not recommended__:
+Not recommended:
 
 - [Coffee & Cake - Kavana Centar](https://maps.app.goo.gl/TGVsFniVxznAizucA) - Brazilian friend said their Acai is fake,
   just frozen fruit
@@ -1488,7 +1488,7 @@ Overrated and expensive. Even hostels here are more expensive than hotels in oth
 
 Not worth it.
 
-__Not Recommended__:
+Not Recommended:
 
 - [Barba](https://maps.app.goo.gl/DALFKJv6Kn4QB4gN6) - the octopus burger that lures people in is reconstituted patty
   with fried breadcrumbs, not the real octopus tentacle you might imagine.
