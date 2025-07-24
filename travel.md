@@ -1341,6 +1341,11 @@ Some restaurants even refuse to split group bills, and I didn't find anywhere th
 
 The capital - small and not a lot to do, don't waste more than 2 days here.
 
+One English guy from Essex I met in Ljubljana, Slovenia,
+just before I went to Zagreb said, _"What are you going to do in Zagreb for 5 nights?!"_.
+
+_"Eat all their restaurants food"_, I replied. Yeah, he was right, don't spend more than 2 days here.
+
 The [Museum of Broken Relationships](https://maps.app.goo.gl/s8EohssTuM1knTQr7) is worth a visit here, with artifacts
 donated from around the world is sometimes heartbreaking real life stories.
 
