@@ -88,6 +88,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Zagreb](#zagreb)
     - [Split](#split)
     - [Zadar](#zadar)
+    - [Dubrovnik](#dubrovnik)
   - [Cyprus](#cyprus)
   - [Czechia / Czech Republic](#czechia--czech-republic)
     - [Motorway Tolls - Vignettes in Czechia](#motorway-tolls---vignettes-in-czechia)
@@ -1476,10 +1477,23 @@ Zadar seems to have more couples and families.
 - [Lazy Monkey Hostel](https://maps.app.goo.gl/4AuAhfD1WWdBJiw76) - a bar and free pool table, most people don't go out!
 - [Sea Organ](https://maps.app.goo.gl/uWVaBETiy5dxipS58) - the best place to watch the sunset and take pics
 
-Not recommended:
+__Not recommended__:
 
 - [Coffee & Cake - Kavana Centar](https://maps.app.goo.gl/TGVsFniVxznAizucA) - Brazilian friend said their Acai is fake,
   just frozen fruit
+
+#### Dubrovnik
+
+Overrated and expensive. Even hostels here are more expensive than hotels in other countries.
+
+Not worth it.
+
+__Not Recommended__:
+
+- [Barba](https://maps.app.goo.gl/DALFKJv6Kn4QB4gN6) - the octopus burger that lures people in is reconstituted patty
+  with fried breadcrumbs, not the real octopus tentacle you might imagine.
+  The shrimp burger is similarly reconstituted and even more expensive, also not worth it in my opinion.
+  The fries and onion rings in the meal version are good though, but without good quality burgers it's pointless
 
 ### Cyprus
 
