@@ -1326,12 +1326,23 @@ Coming back to the UK from there was quite a downgrade.
 
 ### Croatia
 
+Croatia is expensive and service is often not good.
+
+There are a lot of better countries to visit.
+
+Some restaurants even refuse to split group bills, and I didn't find anywhere that serves breakfast past 12-1pm.
+
 #### Taxis in Croatia
 
 - [Bolt](https://bolt.eu/)
 - [Wizi](https://wizi.hr/en/)
 
 #### Zagreb
+
+The capital - small and not a lot to do, don't waste more than 2 days here.
+
+The [Museum of Broken Relationships](https://maps.app.goo.gl/s8EohssTuM1knTQr7) is worth a visit here, with artifacts
+donated from around the world is sometimes heartbreaking real life stories.
 
 - [Stari Fijaker](https://maps.app.goo.gl/Ug2upBMmqsTi9W9f7) - good Croatian restaurant, locals eat here too, moderately
   priced depending on what you have.
