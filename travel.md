@@ -1486,7 +1486,11 @@ Not recommended:
 
 Overrated and expensive. Even hostels here are more expensive than hotels in other countries.
 
-Not worth it.
+Not worth it at all in my opinion.
+
+The only part
+which was nice was the Dubrovnik Riviera views on the drive down here from Split along the winding mountain roads -
+dangerous but spectacular James Bond drive.
 
 Not Recommended:
 
