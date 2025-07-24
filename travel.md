@@ -1492,6 +1492,9 @@ The only part
 which was nice was the Dubrovnik Riviera views on the drive down here from Split along the winding mountain roads -
 dangerous but spectacular James Bond drive.
 
+Restaurants here are quite expensive, with mains often in the €30 range.
+By the time you order a couple drinks and add the pressured tip, you're looking at €50 per head.
+
 Not Recommended:
 
 - [Barba](https://maps.app.goo.gl/DALFKJv6Kn4QB4gN6) - the octopus burger that lures people in is reconstituted patty
