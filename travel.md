@@ -161,6 +161,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Chisinau](#chisinau)
   - [Montenegro](#montenegro)
     - [Budva](#budva)
+    - [Kotor](#kotor)
   - [Morocco](#morocco)
     - [Taxis in Morocco](#taxis-in-morocco)
     - [Tangiers](#tangiers)
