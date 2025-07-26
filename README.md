@@ -53,7 +53,7 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_START -->
 
-- [Travel Notes Touring the World as a Consultant and Tourist](#travel-notes-touring-the-world-as-a-consultant-and-tourist)
+- [Travel Notes Touring the World](#travel-notes-touring-the-world)
 - [GitHub Repos](#github-repos)
 - [Systems](#systems)
   - [Operating Systems](#operating-systems)
@@ -134,7 +134,7 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_END -->
 
-## Travel Notes Touring the World as a Consultant and Tourist
+## Travel Notes Touring the World
 
 - [Travel](travel.md) - tips from travelling the world extensively for work consulting and as a tourist:
   - my favourite restaurants
