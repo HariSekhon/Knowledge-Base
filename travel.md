@@ -159,6 +159,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
       - [Chinatown](#chinatown)
   - [Moldova](#moldova)
     - [Chisinau](#chisinau)
+  - [Montenegro](#montenegro)
+    - [Budva](#budva)
   - [Morocco](#morocco)
     - [Taxis in Morocco](#taxis-in-morocco)
     - [Tangiers](#tangiers)
@@ -851,7 +853,7 @@ get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return 
 
 ## Countries
 
-Number of Countries: 39
+Number of Countries: 40
 
 - Countries in 2024: 18
   - UAE, France, Belgium, Germany, Poland, Lithuania, Latvia, Estonia, Sweden, Slovakia, Hungary, Serbia, Morocco,
@@ -859,10 +861,10 @@ Number of Countries: 39
   - not counting my extensive month long
     [Tour of England and Wales](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b)
     (the latter was borderline a different country, there are actually Welsh signs I can't read)
-- Countries in 2025: 17
+- Countries in 2025: 18
   - Vietnam (continued), Cambodia, Laos, Bali (Indonesia), Malayasia, Singapore, Taiwan, Serbia, Bulgaria, Romania,
-    Hungary, Slovakia, Austria, Czechia, Poland, Slovenia, Croatia
-- Unique Countries since Emigrating from the UK in 2024: 30
+    Hungary, Slovakia, Austria, Czechia, Poland, Slovenia, Croatia, Montenegro
+- Unique Countries since Emigrating from the UK in 2024: 31
 
 Below are specific tips for each country, including transport, restaurants etc.
 
