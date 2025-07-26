@@ -136,7 +136,7 @@ References to official docs and some classic books are provided for those who wa
 
 ## Travel Notes Touring the World
 
-- [Travel](travel.md) - tips from travelling the world extensively for work consulting and as a tourist:
+- [Travel Page](travel.md) - tips from travelling the world extensively for work consulting and as a tourist:
   - my favourite restaurants
   - flights & accommodation
   - mobile internet access & e-sim providers
