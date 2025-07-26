@@ -866,7 +866,7 @@ Number of Countries: 40
     Hungary, Slovakia, Austria, Czechia, Poland, Slovenia, Croatia, Montenegro
 - Unique Countries since Emigrating from the UK in 2024: 31
 
-Below are specific tips for each country, including my favourite restaurants, transport, visas etc.
+Below are specific tips for each country, including transport, visa costs and my favourite restaurants.
 
 ### Austria
 
