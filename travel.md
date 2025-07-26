@@ -2723,7 +2723,7 @@ is a popular beach town.
 - [Populist Burger And Beyond](https://maps.app.goo.gl/bjX3NJK9un7QHLCH8) - the steak burger was very good,
   and comes with skinny fries for €17, the €4 orange juice was fresh squeezed in a tall slim glass.
   Unfortunately the fresh squeezed orange juice is limited daily supply and they ran out when I ordered a second one.
-  No wifi
+  No Wifi!
 
 ### Morocco
 
