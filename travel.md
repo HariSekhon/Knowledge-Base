@@ -2747,6 +2747,11 @@ is a popular beach town.
   Unfortunately the fresh squeezed orange juice is limited daily supply and they ran out when I ordered a second one.
   No Wifi!
 
+TODO:
+
+- [Le Petit Bar](https://maps.app.goo.gl/TD8L6yqFmmoJw8Ub7) - coffees, cocktails and cakes, open until late, good for
+  socializing
+
 #### Kotor
 
 [Kotor](https://maps.app.goo.gl/GsDU7TfnTqobkDp77) is a small historic fortified town with yachts, cruise ships,
