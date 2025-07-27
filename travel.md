@@ -2741,7 +2741,7 @@ is a popular beach town.
 - [Moritz Eis](https://maps.app.goo.gl/fmpaoPZ5CtHfeeSV7) /
   [Moritz Eis Budva](https://maps.app.goo.gl/Ce6upCjbMWtiX4Ut5) -
   decent selection of ice creams, €3.50 per scoop.
-  The tangerine sorbet was my pick here
+  I chose the tangerine sorbet as it was the most refreshing out the various flavours I sampled here
 - [Populist Burger And Beyond](https://maps.app.goo.gl/bjX3NJK9un7QHLCH8) - the steak burger was very good,
   and comes with skinny fries for €17, the €4 orange juice was fresh squeezed in a tall slim glass.
   Unfortunately the fresh squeezed orange juice is limited daily supply and they ran out when I ordered a second one.
