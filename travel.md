@@ -2721,6 +2721,27 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 [Budva](https://maps.app.goo.gl/BTwu7AepwwxJJLs59)
 is a popular beach town.
 
+- [Old Town of Budva](https://maps.app.goo.gl/ewqLZvi62Mj17gM68) - small streets in the fortress, with restaurants and
+  souvenir shops
+- [Pastabar](https://maps.app.goo.gl/ncRF7J8B9A4XKCE4A) - the Seafood Pasta was good quality with large deshelled
+  prawns.
+  The Tika Masala pasta with chicken was decent too if you fancy something different.
+  The orange juice, and apple & lime & mint juices were very good, fresh squeezed and a good size (~400ml), much better
+  than the small 200-250ml juices often served in this region of Europe
+- [Restaurant Porto](https://maps.app.goo.gl/dbVA175fTP5vhNHQ7) - good decor and food at reasonable prices.
+  The best part was the house bread which came hot with a high quality fish pate.
+  My friend ordered 3rds of it so I was dying by the time the main courses came.
+  For seafood, the stuffed squid containing risotto and baby octopus in tomato sauce was good at €16.
+  For meat, the traditional montenegro pork neck stuffed with parma ham, comes with fries was solid at €14.
+  It is apparently the recipe of a president of the region from 100 years ago.
+  The greek salad was a good size and quality of ingredients, especially for only €4
+  The orange juice could have been bigger at only 250ml
+- [Fluffy pancakes Budva](https://maps.app.goo.gl/fNGHmnxfiQs958pD8) - has ice cream at €2.50 per scoop - the
+  passionfruit sorbet was the best most distinctive one here, and more creamy than watery as other sorbets often are
+- [Moritz Eis](https://maps.app.goo.gl/fmpaoPZ5CtHfeeSV7) /
+  [Moritz Eis Budva](https://maps.app.goo.gl/Ce6upCjbMWtiX4Ut5) -
+  decent selection of ice creams, €3.50 per scoop.
+  The tangerine sorbet was my pick here
 - [Populist Burger And Beyond](https://maps.app.goo.gl/bjX3NJK9un7QHLCH8) - the steak burger was very good,
   and comes with skinny fries for €17, the €4 orange juice was fresh squeezed in a tall slim glass.
   Unfortunately the fresh squeezed orange juice is limited daily supply and they ran out when I ordered a second one.
