@@ -2716,10 +2716,14 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 
 ### Montenegro
 
+#### Podgorica
+
+[Podgorica](https://maps.app.goo.gl/5sVEgxF13kdGi8tz5) is the capital and has cheaper accommodation than Budva.
+
 #### Budva
 
 [Budva](https://maps.app.goo.gl/BTwu7AepwwxJJLs59)
-is a popular beach town.
+is a popular beach town, and not very big, so accommodation is more expensive than the capital Podgorica.
 
 - [Old Town of Budva](https://maps.app.goo.gl/ewqLZvi62Mj17gM68) - small streets in the fortress, with restaurants and
   souvenir shops
