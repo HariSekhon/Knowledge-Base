@@ -2751,6 +2751,9 @@ is a popular beach town, and not very big, so accommodation is more expensive th
   and comes with skinny fries for €17, the €4 orange juice was fresh squeezed in a tall slim glass.
   Unfortunately the fresh squeezed orange juice is limited daily supply and they ran out when I ordered a second one.
   No Wifi!
+- [Školijera](https://maps.app.goo.gl/uvaFjr6bkS5RQRd1A) - cheap eats Gryros wrap place, open late
+- [Home of Gyros by Naky's (Budva Setaliste)](https://maps.app.goo.gl/hTPZE2AVbRhgXjih6) - ignore the low Google rating,
+  this is a decent popular late night cheap eats gyros place
 
 TODO:
 
