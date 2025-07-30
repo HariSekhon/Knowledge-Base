@@ -2722,7 +2722,7 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 [Podgorica](https://maps.app.goo.gl/5sVEgxF13kdGi8tz5) is the capital and has cheaper accommodation than Budva.
 
 - [Diplomat](https://maps.app.goo.gl/Fc3bcaDWkyGAPjpP6) - upmarket restaurant with inexpensive prices,
-  breakfast until 12:30pm, street food until 7pm, a good dinner menu and daily specials on Tuesdays and Thursdays.
+  breakfast until 12:30pm, street food until 7pm, a good dinner menu and daily specials on Tuesdays and Thursdays 1-6pm.
   The complimentary bread starter comes with one flatbread,
   one cake-slice-like bread and one mini-muffin-like bread and 2 balls of spreads -
   one purple beetroot, garlic and cream cheese, the other an orange colour spicy paprika and cream cheese, both very
