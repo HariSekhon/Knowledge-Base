@@ -2727,6 +2727,11 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
   one cake-slice-like bread and one mini-muffin-like bread and 2 balls of spreads -
   one purple beetroot, garlic and cream cheese, the other an orange colour spicy paprika and cream cheese, both very
   nice.
+  The veal cheeks in red wine with mashed potatoes was also very good.
+  The veal came very tender and easily pulled apart, with 3 very large chunks of meat.
+  There was a little bit of soft fat in between the meat, but not much.
+  The sauce was not too winey (I prefer more!) and the mashed potatoes were good quality too.
+  Overall a great food experience with good ambience, well worth the modest pricing
 
 #### Budva
 
