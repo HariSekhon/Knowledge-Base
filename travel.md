@@ -2735,7 +2735,10 @@ You don't need more than 1-2 days there.
   The veal came very tender and easily pulled apart, with 3 very large chunks of meat.
   There was a little bit of soft fat in between the meat, but not much.
   The sauce was not too winey (I prefer more!) and the mashed potatoes were good quality too.
-  One of Thursday's two daily specials is meatballs
+  One of Thursday's two daily specials is meatballs with mash,
+  but the meatballs were soft, indicating low meat content and quality
+  and the sauce was also an orange colour rather than rich red tomato sauce.
+  I don't recommend the meatballs.
   Overall a great food experience with good ambience, well worth the modest pricing
 
 #### Budva
