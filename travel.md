@@ -1490,11 +1490,13 @@ Not recommended:
 
 Overrated and expensive. Even hostels here are more expensive than hotels in other countries.
 
+Unless you're a yacht bro, or desperately want to see the steps from Game of Thrones,
+this should be low down the list in terms of quality and value for money.
+
 Not worth it at all in my opinion.
 
-The only part
-which was nice was the Dubrovnik Riviera views on the drive down here from Split along the winding mountain roads -
-dangerous but spectacular James Bond drive.
+The Dubrovnik Riviera views on the drive down there from Split along the winding mountain roads
+were a dangerous, but spectacular James Bond drive.
 
 Restaurants here are quite expensive, with mains often in the €30 range.
 By the time you order a couple drinks and add the pressured tip, you're looking at €50 per head.
@@ -2719,7 +2721,9 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 
 #### Podgorica
 
-[Podgorica](https://maps.app.goo.gl/5sVEgxF13kdGi8tz5) is the capital and has cheaper accommodation than Budva.
+[Podgorica](https://maps.app.goo.gl/5sVEgxF13kdGi8tz5) is the capital and has cheaper accommodation than Budva, but
+there isn't much to do there.
+You don't need more than 1-2 days there.
 
 - [Diplomat](https://maps.app.goo.gl/Fc3bcaDWkyGAPjpP6) - upmarket restaurant with inexpensive prices,
   breakfast until 12:30pm, street food until 7pm, a good dinner menu and daily specials on Tuesdays and Thursdays 1-6pm.
@@ -2731,6 +2735,7 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
   The veal came very tender and easily pulled apart, with 3 very large chunks of meat.
   There was a little bit of soft fat in between the meat, but not much.
   The sauce was not too winey (I prefer more!) and the mashed potatoes were good quality too.
+  One of Thursday's two daily specials is meatballs
   Overall a great food experience with good ambience, well worth the modest pricing
 
 #### Budva
