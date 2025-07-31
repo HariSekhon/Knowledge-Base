@@ -2739,7 +2739,7 @@ You don't need more than 1-2 days there.
   but the meatballs were soft, indicating low meat content and quality
   and the sauce was also an orange colour rather than rich red tomato sauce.
   I don't recommend the meatballs.
-  Overall a great food experience with good ambience, well worth the modest pricing
+  Overall a good food experience with good ambience, well worth the modest pricing
 
 #### Budva
 
