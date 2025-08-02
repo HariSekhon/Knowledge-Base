@@ -2728,10 +2728,12 @@ You don't need more than 1-2 days here.
 
 You will want to see the couple roads surrounding
 [Independence Square](https://maps.app.goo.gl/9psMfsFUKkcn6UH99) and then cross the bridge to the
-[Kruševac](https://maps.app.goo.gl/bihaD7moCmrVgR2VA) district containing a slightly better area of monuments like the
-[Orthodox Temple of Christ's Resurrection](https://maps.app.goo.gl/xag5hLnBwrAo2qTF6), designer shops like in the
-[Big Fashion Mall](https://maps.app.goo.gl/fmCRpnKmQmakGR5S8), and better restaurants, listed below.
-3 of my favourite restaurants in Podgorica are all on [Cetinjski Put](https://maps.app.goo.gl/FhwZ6sYMhnsSwhXY6):
+[Kruševac](https://maps.app.goo.gl/bihaD7moCmrVgR2VA) district near which there is the
+[Orthodox Temple of Christ's Resurrection](https://maps.app.goo.gl/xag5hLnBwrAo2qTF6),
+designer shops on the main boulevards and in the
+[Big Fashion Mall](https://maps.app.goo.gl/fmCRpnKmQmakGR5S8), and better restaurants, some of which are reviewed below.
+Most of my favourite restaurants in Podgorica are all on or around
+[Cetinjski Put](https://maps.app.goo.gl/FhwZ6sYMhnsSwhXY6):
 
 - [Arabian Tea House](https://maps.app.goo.gl/tLVTzV92J8DqD75n9) - Dubai Emirati restaurant by the Big Fashion Mall.
   Good food, reasonable prices, and big juices, unlike stingy European places giving 200ml,
@@ -2771,8 +2773,9 @@ You will want to see the couple roads surrounding
 
 TODO:
 
-- [Spago](https://maps.app.goo.gl/3CxhoXZdnHyiGjPW6) - upmarket restaurant with steaks and exquisite desserts
-- [MEAT](https://maps.app.goo.gl/Cspeh1AGzvGe7voaA) - steak restaurant in Kruševac near Big Fashion Mall
+- [Spago](https://maps.app.goo.gl/3CxhoXZdnHyiGjPW6) - upmarket restaurant near Big Fashion Mall with steaks and
+  exquisite desserts
+- [MEAT](https://maps.app.goo.gl/Cspeh1AGzvGe7voaA) - steak restaurant near Big Fashion Mall
 
 #### Budva
 
