@@ -2762,7 +2762,7 @@ You will want to see the couple roads surrounding
 - [Park Forest Gorica](https://maps.app.goo.gl/SchsssB6AsTKYe1g8)
 - [Independence Square](https://maps.app.goo.gl/9psMfsFUKkcn6UH99) - the couple roads surrounding Independence Square
   have a few restaurants and there are small electric toy cars for kids to drive
-- [Petrovic Castle](https://maps.app.goo.gl/gbtUCXB58qeiGThV7) - looks like a suburban house in other countries!
+- [Petrovic Castle](https://maps.app.goo.gl/gbtUCXB58qeiGThV7) - looks like a modest suburban house in other countries!
 
 #### Budva
 
