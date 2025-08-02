@@ -2730,7 +2730,8 @@ You will want to see the couple roads surrounding
 [Independence Square](https://maps.app.goo.gl/9psMfsFUKkcn6UH99) and then cross the bridge to the
 [Kruševac](https://maps.app.goo.gl/bihaD7moCmrVgR2VA) district containing a slightly better area of monuments like the
 [Orthodox Temple of Christ's Resurrection](https://maps.app.goo.gl/xag5hLnBwrAo2qTF6), designer shops like in the
-[Big Fashion Mall](https://maps.app.goo.gl/fmCRpnKmQmakGR5S8), and better restaurants, listed below:
+[Big Fashion Mall](https://maps.app.goo.gl/fmCRpnKmQmakGR5S8), and better restaurants, listed below.
+3 of my favourite restaurants in Podgorica are all on [Cetinjski Put](https://maps.app.goo.gl/FhwZ6sYMhnsSwhXY6):
 
 - [Arabian Tea House](https://maps.app.goo.gl/tLVTzV92J8DqD75n9) - Dubai Emirati restaurant by the Big Fashion Mall.
   Good food, reasonable prices, and big juices, unlike stingy European places giving 200ml,
@@ -2763,6 +2764,10 @@ You will want to see the couple roads surrounding
 - [Independence Square](https://maps.app.goo.gl/9psMfsFUKkcn6UH99) - the couple roads surrounding Independence Square
   have a few restaurants and there are small electric toy cars for kids to drive
 - [Petrovic Castle](https://maps.app.goo.gl/gbtUCXB58qeiGThV7) - looks like a modest suburban house in other countries!
+
+TODO:
+
+- [Spago](https://maps.app.goo.gl/3CxhoXZdnHyiGjPW6) - upmarket restaurant with steaks and exquisite desserts
 
 #### Budva
 
