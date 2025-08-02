@@ -2722,8 +2722,15 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 #### Podgorica
 
 [Podgorica](https://maps.app.goo.gl/5sVEgxF13kdGi8tz5) is the capital and has cheaper accommodation than Budva, but
-there isn't much to do there.
-You don't need more than 1-2 days there.
+there isn't much to do there and it's not well centralized.
+
+You don't need more than 1-2 days here.
+
+You will want to see the couple roads surrounding
+[Independence Square](https://maps.app.goo.gl/9psMfsFUKkcn6UH99) and then cross the bridge to the
+[Kruševac](https://maps.app.goo.gl/bihaD7moCmrVgR2VA) district containing a slightly better area of monuments like the
+[Orthodox Temple of Christ's Resurrection](https://maps.app.goo.gl/xag5hLnBwrAo2qTF6), designer shops like in the
+[Big Fashion Mall](https://maps.app.goo.gl/fmCRpnKmQmakGR5S8), and better restaurants, listed below:
 
 - [Arabian Tea House](https://maps.app.goo.gl/tLVTzV92J8DqD75n9) - Dubai Emirati restaurant by the Big Fashion Mall.
   Good food, reasonable prices, big juice unlike stingey European places giving 200ml,
