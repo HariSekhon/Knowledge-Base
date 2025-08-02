@@ -2744,6 +2744,14 @@ You don't need more than 1-2 days there.
   I don't recommend the meatballs.
   Overall a good food experience with good ambience,
   well worth the modest pricing, the only downside is their juices are typically European small 200ml
+- [Orthodox Temple of Christ's Resurrection](https://maps.app.goo.gl/xag5hLnBwrAo2qTF6) - fancy church, worth a visit
+- [Njegosev Park](https://maps.app.goo.gl/yfg2v7FkzAEu3hTG9) - small but nice park with a walking bridge connecting to
+  another smaller park on the other side of Podgorica on the way to Orthodox Temple of Christ's Resurrection, the
+  designer shopping road and then south to the Big Fashion Mall
+- [Big Fashion Mall](https://maps.app.goo.gl/fmCRpnKmQmakGR5S8) - good mall with the usual Western brands, Cinema, and a few restaurants, a more happening area than the
+- [Park Forest Gorica](https://maps.app.goo.gl/SchsssB6AsTKYe1g8)
+- [Independence Square](https://maps.app.goo.gl/9psMfsFUKkcn6UH99) - the couple roads surrounding Independence Square
+  have a few restaurants and there are small electric toy cars for kids to drive
 
 #### Budva
 
