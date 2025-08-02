@@ -2733,8 +2733,11 @@ You will want to see the couple roads surrounding
 [Big Fashion Mall](https://maps.app.goo.gl/fmCRpnKmQmakGR5S8), and better restaurants, listed below:
 
 - [Arabian Tea House](https://maps.app.goo.gl/tLVTzV92J8DqD75n9) - Dubai Emirati restaurant by the Big Fashion Mall.
-  Good food, reasonable prices, big juice unlike stingey European places giving 200ml,
+  Good food, reasonable prices, and big juices, unlike stingy European places giving 200ml,
   theirs is 400ml, Dubai portion size for €4!
+  The Arabian House Special Meat Wrap (beef) was good, with fries and a good garlic sauce.
+  The fattoush salad was also good, better than it looked judging by pics of smallish pita pieces.
+  Wifi 37/28 Mbit/s. This place made me miss being in Dubai
 - [Diplomat](https://maps.app.goo.gl/Fc3bcaDWkyGAPjpP6) - upmarket restaurant with inexpensive prices,
   breakfast until 12:30pm, street food until 7pm, a good dinner menu and daily specials on Tuesdays and Thursdays 1-6pm.
   The complimentary bread starter comes with one flatbread,
