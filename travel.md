@@ -2849,7 +2849,7 @@ they are clearing getting kickbacks by the owners to lead you to 3.7 star places
 When you decide to not stay, and they don't get their kickbacks, they then start hassling your for direct *tips*.
 
 Use Google Maps instead (see the [e-sim data section](#digital-e-sims) above) and rely on reviews of places with high
-numbers of reviews to reduce the likelihood of swaying / gaming the system fake reviews.
+numbers of reviews to reduce the likelihood of swaying / gaming the system via fake reviews.
 
 Below are some I have visited personally and the better ones I'd recommend.
 
