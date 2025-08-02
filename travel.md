@@ -2739,6 +2739,9 @@ You will want to see the couple roads surrounding
   The Arabian House Special Meat Wrap (beef) was good, with fries and a good garlic sauce.
   The fattoush salad was also good, better than it looked judging by pics of smallish pita pieces.
   Wifi 37/28 Mbit/s. This place made me miss being in Dubai
+- [Independence Square](https://maps.app.goo.gl/9psMfsFUKkcn6UH99) - the couple roads surrounding Independence Square
+  have a few restaurants like Diplomat below,
+  and there are small electric toy cars for kids to drive in the tourist square
 - [Diplomat](https://maps.app.goo.gl/Fc3bcaDWkyGAPjpP6) - upmarket restaurant with inexpensive prices,
   breakfast until 12:30pm, street food until 7pm, a good dinner menu and daily specials on Tuesdays and Thursdays 1-6pm.
   The complimentary bread starter comes with one flatbread,
@@ -2764,8 +2767,6 @@ You will want to see the couple roads surrounding
 - [Big Fashion Mall](https://maps.app.goo.gl/fmCRpnKmQmakGR5S8) - good mall with the usual Western brands, Cinema, and a few restaurants, a more happening area than the
 - [Park Forest Gorica](https://maps.app.goo.gl/SchsssB6AsTKYe1g8)
 - [Park Ljubović](https://maps.app.goo.gl/T2e9H7CmFYUHFrvu7)
-- [Independence Square](https://maps.app.goo.gl/9psMfsFUKkcn6UH99) - the couple roads surrounding Independence Square
-  have a few restaurants and there are small electric toy cars for kids to drive
 - [Petrovic Castle](https://maps.app.goo.gl/gbtUCXB58qeiGThV7) - looks like a modest suburban house in other countries!
 
 TODO:
