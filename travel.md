@@ -2755,6 +2755,8 @@ You will want to see the couple roads surrounding
   I don't recommend the meatballs.
   Overall a good food experience with good ambience,
   well worth the modest pricing, the only downside is their juices are typically European small 200ml
+- [Ginger Gastro Bar](https://maps.app.goo.gl/tWwU5aMaMtJ39LjYA) - the bbq burger was decent, with good fries, and the
+  Ginger Mix juice was very strong with ginger and juice and also a good size, not too small like many European juices
 - [Orthodox Temple of Christ's Resurrection](https://maps.app.goo.gl/xag5hLnBwrAo2qTF6) - fancy church, worth a visit
 - [Njegosev Park](https://maps.app.goo.gl/yfg2v7FkzAEu3hTG9) - small but nice park with a walking bridge connecting to
   another smaller park on the other side of Podgorica on the way to Orthodox Temple of Christ's Resurrection, the
