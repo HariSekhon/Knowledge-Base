@@ -2722,17 +2722,21 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 #### Podgorica
 
 [Podgorica](https://maps.app.goo.gl/5sVEgxF13kdGi8tz5) is the capital and has cheaper accommodation than Budva, but
-there isn't much to do there and it's not well centralized.
+on first impression there isn't too much to do there as it's not well centralized.
 
-You don't need more than 1-2 days here.
+You can do it in 1-2 days if you know this:
 
-You will want to see the couple roads surrounding
-[Independence Square](https://maps.app.goo.gl/9psMfsFUKkcn6UH99) and then cross the bridge to the
-[Kruševac](https://maps.app.goo.gl/bihaD7moCmrVgR2VA) district near which there is the
+[Independence Square](https://maps.app.goo.gl/9psMfsFUKkcn6UH99) gives a false impression there isn't much around it,
+except for [Bokeska](https://maps.app.goo.gl/E1fu9DuAwUZPusg99) and
+[Njegoseva](https://maps.app.goo.gl/rKJHSioefKvLU6HJ7) roads, but if you enter
+[Njegosev Park](https://maps.app.goo.gl/xErfQQfGBnQCTJCv5) and
+cross the [Gazela](https://maps.app.goo.gl/A15VotP6dyxsM3Ev5) bridge to the
+[Kruševac](https://maps.app.goo.gl/bihaD7moCmrVgR2VA) district, near there is
 [Orthodox Temple of Christ's Resurrection](https://maps.app.goo.gl/xag5hLnBwrAo2qTF6),
-designer shops on the main boulevards and in the
-[Big Fashion Mall](https://maps.app.goo.gl/fmCRpnKmQmakGR5S8), and better restaurants, some of which are reviewed below.
-Most of my favourite restaurants in Podgorica are all on or around
+and a boulevard of designer shops on [Bulevar Džordža Vašingtona](https://maps.app.goo.gl/r9xoTnKvYy7XKoMv7) and then to
+the South West the [Big Fashion Mall](https://maps.app.goo.gl/fmCRpnKmQmakGR5S8), and
+[City Kvart](https://maps.app.goo.gl/EtASfi6NuRtgJoem9) containing good restaurants, some of which are reviewed below.
+Most of my favourite restaurants in Podgorica are all on or around City Kvart and
 [Cetinjski Put](https://maps.app.goo.gl/FhwZ6sYMhnsSwhXY6):
 
 - [Arabian Tea House](https://maps.app.goo.gl/tLVTzV92J8DqD75n9) - Dubai Emirati restaurant by the Big Fashion Mall.
