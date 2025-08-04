@@ -2882,7 +2882,12 @@ A small seaside town, but the beach is not as good as Budva which is much more p
 - [KARUBA PIZZA & PUB](https://maps.app.goo.gl/HbpbUxpy6qZh9fk98) - decent menu but slightly touristy prices.
   The fresh squeezed orange juice was good and a decent size for €3 filling a 330ml glass, slightly more than Perbacco
   next door.
-  The octopus salad was €18, slightly less than Perbacco next door too.
+  The octopus salad was quite large, a serious main, but then it should be for €18, slightly less than Perbacco next
+  door too.
+  It contains a good amount of octopus tentacle, a lot of lettuce as well as cherry tomatoes, red onions and some
+  garlic, but also a lot of green olives (stone in) which were at the very strong olive flavour end of the spectrum,
+  probably too strong for the salad.
+  If you're not a fan of olives, make sure you ask them to not add them.
   Wifi 36/28 Mbit/s
 - [Bar Promenade](https://maps.app.goo.gl/v9ULTeZpgaxfSeCP9) - promenade with palm trees and restaurants
 - [King Nikola's Palace](https://maps.app.goo.gl/ApKD1r4VKn8bo2Y68) - was closed when I was there
