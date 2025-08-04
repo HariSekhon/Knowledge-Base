@@ -2795,6 +2795,7 @@ TODO: add hostel's recommendation page here too
 
 TODO:
 
+- [Itaka Library Bar](https://maps.app.goo.gl/EMrxXn1XTucghLF19) - €6 cocktails in a hidden local gem under the bridge
 - [Picerija Ćošak](https://maps.app.goo.gl/N44VXD9rJivBLc6z8) - recommended by my hostel host, particularly their
   pancerote, a sort of dumpling with a special melted cheese and tomato sauce inside
 - [Konoba 'Lanterna' Podgorica](https://maps.app.goo.gl/Ay3a8zq9tSr7ANadA) - highly rated, recommended to try the
