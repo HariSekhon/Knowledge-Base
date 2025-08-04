@@ -163,6 +163,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Podgorica](#podgorica)
     - [Budva](#budva)
     - [Kotor](#kotor)
+    - [Bar](#bar)
   - [Morocco](#morocco)
     - [Taxis in Morocco](#taxis-in-morocco)
     - [Tangiers](#tangiers)
