@@ -2879,8 +2879,11 @@ You will need just over 1 hour to wander around the fortress - longer if you're 
 
 A small seaside town, but the beach is not as good as Budva which is much more popular.
 
-- [KARUBA PIZZA & PUB](https://maps.app.goo.gl/HbpbUxpy6qZh9fk98) - fresh squeezed orange juice was a decent size
-  for €3, and the octopus salad
+- [KARUBA PIZZA & PUB](https://maps.app.goo.gl/HbpbUxpy6qZh9fk98) - decent menu but slightly touristy prices.
+  The fresh squeezed orange juice was good and a decent size for €3 filling a 330ml glass, slightly more than Perbacco
+  next door.
+  The octopus salad was nearly €20, slightly less than Perbacco next door too.
+  Wifi 36/28 Mbit/s
 - [Bar Promenade](https://maps.app.goo.gl/v9ULTeZpgaxfSeCP9) - promenade with palm trees and restaurants
 - [King Nikola's Palace](https://maps.app.goo.gl/ApKD1r4VKn8bo2Y68) - was closed when I was there
 - [Park muzeja](https://maps.app.goo.gl/qqxXMpVdhYCCA5V58) - nature reserve next to Bar Promenade and King Nikola's
