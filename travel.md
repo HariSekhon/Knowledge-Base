@@ -2724,7 +2724,7 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 [Podgorica](https://maps.app.goo.gl/5sVEgxF13kdGi8tz5) is the capital and has cheaper accommodation than Budva, but
 on first impression there isn't too much to do there as it's not well centralized.
 
-You can do it in 1-2 days if you know this:
+You can do it in 2 days if you know this:
 
 [Independence Square](https://maps.app.goo.gl/9psMfsFUKkcn6UH99) gives a false impression there isn't much around it,
 except for [Bokeska](https://maps.app.goo.gl/E1fu9DuAwUZPusg99) and
@@ -2740,7 +2740,7 @@ Most of my favourite restaurants in Podgorica are all on or around City Kvart an
 [Cetinjski Put](https://maps.app.goo.gl/FhwZ6sYMhnsSwhXY6):
 
 - [SPAGO](https://maps.app.goo.gl/PcNvaneRfUHtPvYH9) -
-  upmarket restaurant with excellent [menu](https://spagopodgorica.me/menu/),
+  upmarket restaurant in City Kvart with excellent [menu](https://spagopodgorica.me/menu/),
   especially the exquisite and surprisingly reasonably priced dessert menu - probably the best dessert menu you'll find
   in Podgorica, if not all of Montenegro.
   The mains are not as cheap as the breakfasts and desserts, with the flank steak costing €33, but it was good quality,
@@ -2782,15 +2782,26 @@ Most of my favourite restaurants in Podgorica are all on or around City Kvart an
 - [Njegosev Park](https://maps.app.goo.gl/yfg2v7FkzAEu3hTG9) - small but nice park with a walking bridge connecting to
   another smaller park on the other side of Podgorica on the way to Orthodox Temple of Christ's Resurrection, the
   designer shopping road and then south to the Big Fashion Mall
-- [Big Fashion Mall](https://maps.app.goo.gl/fmCRpnKmQmakGR5S8) - good mall with the usual Western brands, Cinema, and a few restaurants, a more happening area than the
+- [Big Fashion Mall](https://maps.app.goo.gl/fmCRpnKmQmakGR5S8) - good mall with the usual Western brands, Cinema, and a
+  few restaurants, and outside is the City Kvart area full of restaurants
+- [City Kvart](https://maps.app.goo.gl/EoQGerQ7KSrTw1BA7) - area with lots of good restaurants opposite the Big Fashion
+  Mall
 - [Park Forest Gorica](https://maps.app.goo.gl/SchsssB6AsTKYe1g8)
+- [Klub Bocara](https://maps.app.goo.gl/FL1ehvkYSyNnjNmn6) -
 - [Park Ljubović](https://maps.app.goo.gl/T2e9H7CmFYUHFrvu7)
 - [Petrovic Castle](https://maps.app.goo.gl/gbtUCXB58qeiGThV7) - looks like a modest suburban house in other countries!
 
+TODO: add hostel's recommendation page here too
+
 TODO:
 
-- [Spago](https://maps.app.goo.gl/3CxhoXZdnHyiGjPW6) - upmarket restaurant near Big Fashion Mall with steaks and
-  exquisite desserts
+- [Picerija Ćošak](https://maps.app.goo.gl/N44VXD9rJivBLc6z8) - recommended by my hostel host, particularly their
+  pancerote, a sort of dumpling with a special melted cheese and tomato sauce inside
+- [Konoba 'Lanterna' Podgorica](https://maps.app.goo.gl/Ay3a8zq9tSr7ANadA) - highly rated, recommended to try the
+  Podgoricki Popeci, traditiona montenegrin dish of veal steaks with prosciutto and cheese, then fried.
+  The sauce was mayonnaise mustard with bits of garlic in it,
+  and the local beer Pivo Podgorica is a local beer made only 4km away
+- [Kaldrma - Podgorica](https://maps.app.goo.gl/vcm5aNtFEUPnFEyg6) - highly rated 4.9
 - [MEAT](https://maps.app.goo.gl/Cspeh1AGzvGe7voaA) - steak restaurant near Big Fashion Mall
 
 #### Budva
