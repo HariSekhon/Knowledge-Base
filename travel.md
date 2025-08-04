@@ -2866,6 +2866,34 @@ You will need just over 1 hour to wander around the fortress - longer if you're 
   so go buy a drink or something in the supermarket first to use its receipt to enter the toilets for free.
 - [Kotor Cats Museum](https://maps.app.goo.gl/sRLyBjuAPeBADQyw5)
 
+#### Bar
+
+A small seaside town, but the beach is not as good as Budva which is much more popular.
+
+- [KARUBA PIZZA & PUB](https://maps.app.goo.gl/HbpbUxpy6qZh9fk98) - fresh squeezed orange juice was a decent size
+  for €3, and the octopus salad
+- [Bar Promenade](https://maps.app.goo.gl/v9ULTeZpgaxfSeCP9) - promenade with palm trees and restaurants
+- [King Nikola's Palace](https://maps.app.goo.gl/ApKD1r4VKn8bo2Y68) - was closed when I was there
+- [Park muzeja](https://maps.app.goo.gl/qqxXMpVdhYCCA5V58) - nature reserve next to Bar Promenade and King Nikola's
+  Palace
+- [Topolica Sports Hall](https://maps.app.goo.gl/3u1DqWZohiLr2gc17) - tonnes of
+  [parking](https://maps.app.goo.gl/wWX9TLmqt8t7Zkdg7) here, a restaurant and sports facilities eg. a gym, and a big
+  competitive karate club
+- [Topolica City Beach](https://maps.app.goo.gl/6HZ1zGzcw1hxCLAq6) /
+  [Barska plaza](https://maps.app.goo.gl/meTe4SvHHzP7xQAX9) - small pebble beach with harbour, nothing special,
+  Bar promenade runs parallel to it
+- [Church of St. Jovan Vladimir](https://maps.app.goo.gl/gcJNG8rwBHsnYTxF9)
+
+TODO:
+
+- [Chico Rico](https://maps.app.goo.gl/ekZz6W8tyLa2xfHo9) /
+  [Skerovic Plaza](https://maps.app.goo.gl/kUdm4qTvP9ebFFww5) - beaches to the north of Bar Promenade
+- [Caffe Pizzeria Perbacco](https://maps.app.goo.gl/BBhhozLefqvv1t547) - slightly pricier than Karuba above, but
+  similar menu and similarly highly rated
+- [Pizza Pub PULENA](https://maps.app.goo.gl/UEcARcZHZpio9kb78) - popular and highly rated, everybody sitting outside had pizzas - save it for a fat day
+- [JALA street food](https://maps.app.goo.gl/A6SRt7uiKQrbBkMt9) - affordable burgers and tortillas
+- [Central Park Cafe Montenegro](https://maps.app.goo.gl/hY4KyXBtz7mp3GP76)
+
 ### Morocco
 
 The menus are in French!
