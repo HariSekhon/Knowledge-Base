@@ -2800,6 +2800,8 @@ TODO: add hostel's recommendation page here too
 
 TODO:
 
+- [Cioccolatitaliani](https://maps.app.goo.gl/q6mbPZWmNp7SgKzT9) - cafe / restaurant / gelateria with fresh juices and
+  decent menu
 - [Itaka Library Bar](https://maps.app.goo.gl/EMrxXn1XTucghLF19) - €6 cocktails in a hidden local gem under the bridge
 - [Picerija Ćošak](https://maps.app.goo.gl/N44VXD9rJivBLc6z8) - recommended by my hostel host, particularly their
   pancerote, a sort of dumpling with a special melted cheese and tomato sauce inside
@@ -2808,6 +2810,10 @@ TODO:
   The sauce was mayonnaise mustard with bits of garlic in it,
   and the local beer Pivo Podgorica is a local beer made only 4km away
 - [Kaldrma - Podgorica](https://maps.app.goo.gl/vcm5aNtFEUPnFEyg6) - highly rated 4.9
+- [CHi LE MA](https://maps.app.goo.gl/ddCu5jxAjMLwxX688) - asian restaurant
+- [Antioch Restaurant](https://maps.app.goo.gl/zmvRWApKXjXa6dMV9) - turkish restaurant
+- [Gloria Jean’s Coffee](https://maps.app.goo.gl/XP1mZqPEmJuorFho9) - international coffee chain I first discovered in
+  Tbilisi, Georgia
 - [MEAT](https://maps.app.goo.gl/Cspeh1AGzvGe7voaA) - steak restaurant near Big Fashion Mall
 
 #### Budva
