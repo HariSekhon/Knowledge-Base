@@ -2810,6 +2810,8 @@ TODO:
   The sauce was mayonnaise mustard with bits of garlic in it,
   and the local beer Pivo Podgorica is a local beer made only 4km away
 - [Kaldrma - Podgorica](https://maps.app.goo.gl/vcm5aNtFEUPnFEyg6) - highly rated 4.9
+- [SMASH Pub - Craft and Burger](https://maps.app.goo.gl/QyTbQunNvj4gEKxA7) - good looking burger menu at reasonable
+  prices
 - [CHi LE MA](https://maps.app.goo.gl/ddCu5jxAjMLwxX688) - asian restaurant
 - [Antioch Restaurant](https://maps.app.goo.gl/zmvRWApKXjXa6dMV9) - turkish restaurant
 - [Gloria Jean’s Coffee](https://maps.app.goo.gl/XP1mZqPEmJuorFho9) - international coffee chain I first discovered in
