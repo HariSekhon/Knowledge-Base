@@ -2787,7 +2787,8 @@ Most of my favourite restaurants in Podgorica are all on or around City Kvart an
 - [City Kvart](https://maps.app.goo.gl/EoQGerQ7KSrTw1BA7) - area with lots of good restaurants opposite the Big Fashion
   Mall
 - [Park Forest Gorica](https://maps.app.goo.gl/SchsssB6AsTKYe1g8)
-- [Klub Bocara](https://maps.app.goo.gl/FL1ehvkYSyNnjNmn6) -
+- [Klub Bocara](https://maps.app.goo.gl/FL1ehvkYSyNnjNmn6) - great stop for refreshing drinks after a walk in the
+  Gorica park
 - [Park Ljubović](https://maps.app.goo.gl/T2e9H7CmFYUHFrvu7)
 - [Petrovic Castle](https://maps.app.goo.gl/gbtUCXB58qeiGThV7) - looks like a modest suburban house in other countries!
 
