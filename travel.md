@@ -401,6 +401,9 @@ or shorten your trip there and then go somewhere better value for longer.
 Save your money and spend it on good food in restaurants instead.
 Hostels have lockers for your valuables like laptops (you may want to take your own stronger padlock).**
 
+You can even use [WorldPackers](https://www.worldpackers.com/) to volunteer at hostels in exchange for free board,
+which is a great way of seeing the world when young on budget.
+
 Hotels and [Airbnb](https://airbnb.com) vary as to which one is cheaper by location.
 
 Check both.
