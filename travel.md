@@ -2739,6 +2739,18 @@ the South West the [Big Fashion Mall](https://maps.app.goo.gl/fmCRpnKmQmakGR5S8)
 Most of my favourite restaurants in Podgorica are all on or around City Kvart and
 [Cetinjski Put](https://maps.app.goo.gl/FhwZ6sYMhnsSwhXY6):
 
+- [SPAGO](https://maps.app.goo.gl/PcNvaneRfUHtPvYH9) -
+  upmarket restaurant with excellent [menu](https://spagopodgorica.me/menu/),
+  especially the exquisite and surprisingly reasonably priced dessert menu - probably the best dessert menu you'll find
+  in Podgorica, if not all of Montenegro.
+  The mains are not as cheap as the breakfasts and desserts, with the flank steak costing €33, but it was good quality,
+  very lean and served with roasted vegetables, which left me space for dessert.
+  It was hard to choose among the amazing dessert menu,
+  which includes several rare and fancy homemade icecreams,
+  crumbles, a whole cake collection (which unfortunately only come in whole cakes for special occasions).
+  and their specials.
+  The new Sne Nokle Twist special recommended by the waiter was surprisingly good -
+  a variation on the traditional Montenegrin dessert
 - [Arabian Tea House](https://maps.app.goo.gl/tLVTzV92J8DqD75n9) - Dubai Emirati restaurant by the Big Fashion Mall.
   Good food, reasonable prices, and big juices, unlike stingy European places giving 200ml,
   theirs is 400ml, Dubai portion size for €4!
