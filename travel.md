@@ -4541,7 +4541,8 @@ visit most of the UK today.
 
 #### Best Parts of the UK
 
-The best remaining parts of the UK (nearly all in England):
+The best remaining parts of the UK
+(nearly all in the South of England, apart from some nature places):
 
 - Central London (not most of outer London which is ghettoized) - see section below as London is big
 - [Oxford](https://maps.app.goo.gl/gP2h4d7aRoq2Fzx29)
