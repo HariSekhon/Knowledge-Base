@@ -2820,7 +2820,8 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 [Podgorica](https://maps.app.goo.gl/5sVEgxF13kdGi8tz5) is the capital and has cheaper accommodation than Budva, but
 on first impression there isn't too much to do there as it's not well centralized.
 
-You can do it in 2 days if you know this:
+However I was still discovering things after 5 days.
+You can cram it into 2 days if you know exactly what you're doing though:
 
 [Independence Square](https://maps.app.goo.gl/9psMfsFUKkcn6UH99) gives a false impression there isn't much around it,
 except for [Bokeska](https://maps.app.goo.gl/E1fu9DuAwUZPusg99) and
@@ -2888,7 +2889,15 @@ Most of my favourite restaurants in Podgorica are all on or around City Kvart an
 - [Park Ljubović](https://maps.app.goo.gl/T2e9H7CmFYUHFrvu7)
 - [Petrovic Castle](https://maps.app.goo.gl/gbtUCXB58qeiGThV7) - looks like a modest suburban house in other countries!
 
-TODO: add hostel's recommendation page here too
+The [Travel Break](https://maps.app.goo.gl/dcFAx3ukzYcAbPbW9) hostel is run by a good guy
+and has a couple parking spaces for those doing road trips.
+The only downside is that there is a 10:30pm curfew against using the outside seating area to socialize,
+to not annoy the neighbours with noise of conversations, and that is the only social area available.
+The gate is also locked at 10pm, but you have a key for that.
+
+The [Travel Break Guide to Podgorica](https://drive.google.com/file/d/14AXWpoW47xmCzBQgdBlNr4N88Y90FJCX/view) has some
+more useful recommendations to make the most of your stay in Podgorica, including restaurants, shops, travel, trains,
+buses, taxis etc.
 
 TODO:
 
