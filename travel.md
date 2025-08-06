@@ -959,10 +959,9 @@ I was lucky to get one.
   [Bati Restaurant 3](https://maps.app.goo.gl/SaZ8M282q9p75Myk6) - excellent upmarket seafood restaurant at surprisingly
   reasonable prices, good decor, ambience, and trendy pop music (many from my Upbeat & Sexual Pop
   [Spotify playlist](https://open.spotify.com/user/harisekhon).
-  This is a good place to bring a date.
+  This is a good place to bring a date. All three have the same menu.
   Bati 2 is just off the main road such that I passed it twice trying to find it, but a hidden gem,
   busy, filled with locals even on a Wednesday night.
-  The other two have the same menu.
   The food was very good quality, although most of the fish dishes are priced by weight,
   which means they are not for people on a budget, but thankfully the seafood linguine was very reasonably priced at
   600 leks (€6).
