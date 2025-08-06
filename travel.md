@@ -15,8 +15,13 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Self Transfer](#self-transfer)
     - [Change Airport](#change-airport)
 - [Hotels vs Hostels vs Airbnb](#hotels-vs-hostels-vs-airbnb)
+  - [Hostel Tips](#hostel-tips)
+    - [Lockers](#lockers)
+    - [Towels](#towels)
+    - [Pillows](#pillows)
+    - [WorldPackers](#worldpackers)
   - [Hotel, Hostel & Airbnb - Parking](#hotel-hostel--airbnb---parking)
-  - [Hotel & Airbnb - Internet](#hotel--airbnb---internet)
+  - [Hotel vs Airbnb - Internet](#hotel-vs-airbnb---internet)
 - [Taxis](#taxis)
 - [Wifi](#wifi)
   - [Wifi Hotels](#wifi-hotels)
@@ -406,9 +411,6 @@ or shorten your trip there and then go somewhere better value for longer.
 Save your money and spend it on good food in restaurants instead.
 Hostels have lockers for your valuables like laptops (you may want to take your own stronger padlock).**
 
-You can even use [WorldPackers](https://www.worldpackers.com/) to volunteer at hostels in exchange for free board,
-which is a great way of seeing the world when young on budget.
-
 Hotels and [Airbnb](https://airbnb.com) vary as to which one is cheaper by location.
 
 Check both.
@@ -425,6 +427,35 @@ I have have private hosts cancel my accommodations the day before or even the sa
 (see [Morocco](#morocco)).
 
 It's annoying to be booking at the last minute because you'll get the least good places for the most expensive prices.
+
+### Hostel Tips
+
+#### Lockers
+
+Hostels usually have lockers for valuables (check thel listing before booking).
+
+Some have lockers with a key, others expect you to have a padlock (which they can usually rent to you).
+
+If using hostels repeatedly, get yourself a padlock with a key rather than combination lock,
+because aside from the fact someone can just spend a few hours to try all combinations, when you're putting stuff away
+late at night, it's must easier with a key than trying to do a combination in the dark with your phone light.
+
+#### Towels
+
+Some hostels provide towels, others rent them to you, and others don't provide them at all.
+
+If using hostels repeatedly,
+buy yourself a nice fluffy towel with a high thread count instead of renting them,
+it'll work out cheaper in the long run anyway.
+
+#### Pillows
+
+Pillows tend to not be great in hostels, so in Europe I take my 2 memory foam pillows which I keep in my car.
+
+#### WorldPackers
+
+You can use [WorldPackers](https://www.worldpackers.com/) to volunteer at hostels in exchange for free board,
+which is a great way of seeing the world when young on budget.
 
 ### Hotel, Hostel & Airbnb - Parking
 
@@ -443,7 +474,7 @@ Also, if you're only going into the centres in the evenings, often you can get c
 Hostels are usually more central and have no parking, so that's an extra challenge to find external parking locations if
 driving, such as my European Summer Road Trip Tours.
 
-### Hotel & Airbnb - Internet
+### Hotel vs Airbnb - Internet
 
 Hotel wifi is probably the worst wifi ever,
 often averaging around 10Mbit/s, sometimes 7Mbit/s, I've even recorded it as low at 2Mbit/s,
