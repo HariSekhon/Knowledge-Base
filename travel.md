@@ -4541,28 +4541,39 @@ visit most of the UK today.
 
 #### Best Parts of the UK
 
-The best remaining parts of the UK are:
+The best remaining parts of the UK (nearly all in England):
 
-- Central London (not most of outer London which is ghettoized)
-- Oxford
-- Cambridge
-- Reading
+- Central London (not most of outer London which is ghettoized) - see section below as London is big
+- [Oxford](https://maps.app.goo.gl/gP2h4d7aRoq2Fzx29)
+- [Cambridge](https://maps.app.goo.gl/ZgTir3NfqvxucahEA)
+- [Reading](https://maps.app.goo.gl/sPzxGJPXa59LGvHM6)
 - Surrey:
-  - Richmond and Kingston and their surrounding areas such as:
-    - [Richmond Park](https://maps.app.goo.gl/PdfMZLVtS5SgSGYK9) - take a picknick, there is a Whole Foods in Richmond
-      if you want to splurge
+  - [Richmond](https://maps.app.goo.gl/yPh8mShGfzVQHBcy6) and [Kingston](https://maps.app.goo.gl/M9HuE2gAX62EjEW7A) and
+    their surrounding areas such as:
+    - [Richmond Park](https://maps.app.goo.gl/PdfMZLVtS5SgSGYK9) - it has deer and lots of lovely areas.
+      Take a picnic, there is a Whole Foods in central Richmond if you want to splurge -
+      they call it _"Whole Paycheck"_ for a reason!
     - [Hampton Court Palace](https://maps.app.goo.gl/6dy7Ma2t832Y6mXK6) gardens
     - [Bushy Park](https://maps.app.goo.gl/aZybp3DBTMM6LJ6a8) which also has deer
-  - Surrey Hills, Guildford, Box Hill, Reigate etc.
-  - Cotswolds
-  - Winchester
-  - various areas designated AONB - Areas of Oustanding Natural Beauty - legally protected green areas
-- Hertfordshire - St Albans and [Verulamium Park](https://maps.app.goo.gl/2hMD9RxjvHJaLVQ8A)
-- BlueWater - the largest mall in the UK (you need a car to get there, but the parking is free)
+  - [Guildford](https://maps.app.goo.gl/MEpmEjHJbAqvraVM8)
+  - [Surrey Hills](https://maps.app.goo.gl/ktbzh6Cnfszf8qT36) / [Box Hill](https://maps.app.goo.gl/2XxsX32w9P1o9sao8)
+  - [Reigate](https://maps.app.goo.gl/jVpfDNn47rKbUNUd7)
+- Somerset:
+  - [Bath](https://maps.app.goo.gl/wEBK9mJPCH96j5P26) - ancient Roman bath town
+- Gloucestershire:
+  - [Cotswolds](https://maps.app.goo.gl/Ltn9WceBcb2xESS79)
+- Hampshire:
+  - [Winchester](https://maps.app.goo.gl/qcvnr5q2rkPygp4s8)
+- various areas designated AONB - Areas of Oustanding Natural Beauty - legally protected green areas
+- Hertfordshire
+  - [St Albans](https://maps.app.goo.gl/jh4eURxb9r1kiiW78) and the Roman [Verulamium Park](https://maps.app.goo.gl/2hMD9RxjvHJaLVQ8A)
+- York - probably the most gentrified part of the north due to the historic architecture, lots of nice coffee shops
+- [BlueWater](https://maps.app.goo.gl/zerwEJAEKUbvE8LT7) - the largest mall in the UK (you need a car to get there, but
+  there are extensive free car parks surrounding it)
+- [Edinburgh](https://maps.app.goo.gl/Y11wKh8RJ4u11AEN6), Scotland - small historic city. The restaurants get booked out, so need
+  reservations.
 
 Most of the areas apart from Central London are small enough you can cover their key central parts in 1-2 days each.
-
-If you're visiting Edinburgh in Scotland, the restaurants get booked out, so you need to book in advance.
 
 #### Best of London
 
