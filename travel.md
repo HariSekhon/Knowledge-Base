@@ -15,8 +15,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Self Transfer](#self-transfer)
     - [Change Airport](#change-airport)
 - [Hotels vs Hostels vs Airbnb](#hotels-vs-hostels-vs-airbnb)
-  - [Hotel vs Airbnb - Internet](#hotel-vs-airbnb---internet)
-  - [Hotel, Hostel & Airbnb - Parking](#hotel-hostel--airbnb---parking)
+  - [Internet - Hotel vs Airbnb](#internet---hotel-vs-airbnb)
+  - [Parking - Hotel, Hostel & Airbnb](#parking---hotel-hostel--airbnb)
   - [Hostel Tips](#hostel-tips)
     - [Lockers](#lockers)
     - [Towels](#towels)
@@ -428,7 +428,7 @@ I have have private hosts cancel my accommodations the day before or even the sa
 
 It's annoying to be booking at the last minute because you'll get the least good places for the most expensive prices.
 
-### Hotel vs Airbnb - Internet
+### Internet - Hotel vs Airbnb
 
 Hotel wifi is probably the worst wifi ever,
 often averaging around 10Mbit/s, sometimes 7Mbit/s, I've even recorded it as low at 2Mbit/s,
@@ -458,7 +458,7 @@ It still wasn't working when I left there.
 Hostels tend to be nearer the hotel end of the wifi internet spectrum, but not usually as bad as hotels in my experience
 as the younger crowd of hostels is much more internet dependent and they know this.
 
-### Hotel, Hostel & Airbnb - Parking
+### Parking - Hotel, Hostel & Airbnb
 
 If driving, make sure to double check parking at hotels or Airbnbs.
 
