@@ -962,7 +962,7 @@ I was lucky to get one.
   This is a good place to bring a date. All three have the same menu.
   These have got to be among the best restaurants in Tirana, and deserve the high rating.
   Bati 2 is just off the main road such that I passed it twice trying to find it, but a hidden gem,
-  busy, filled with locals even on a Wednesday night.
+  busy, filled with locals even on a Wednesday night - had to wait for a table.
   The food was very good quality, although most of the fish dishes are priced by weight,
   which means they are not for people on a budget, but thankfully the seafood linguine was very reasonably priced at
   600 leks (€6).
