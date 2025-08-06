@@ -4585,16 +4585,19 @@ The best remaining parts of the UK (nearly all in the South of England):
   - [Reigate](https://maps.app.goo.gl/jVpfDNn47rKbUNUd7)
 - Somerset:
   - [Bath](https://maps.app.goo.gl/wEBK9mJPCH96j5P26) - ancient Roman bath town
-- Gloucestershire:
-  - [Cotswolds](https://maps.app.goo.gl/Ltn9WceBcb2xESS79)
 - Hampshire:
   - [Winchester](https://maps.app.goo.gl/qcvnr5q2rkPygp4s8) - the Great Hall of Winchester Castle houses the medieval
     round table linked to King Arthur
 - Hertfordshire
   - [St Albans](https://maps.app.goo.gl/jh4eURxb9r1kiiW78) and the Roman [Verulamium Park](https://maps.app.goo.gl/2hMD9RxjvHJaLVQ8A)
+- West Midlands:
+  - [Royal Leamington Spa](https://maps.app.goo.gl/VQtgaZ2GaCVu95Cc8) - gentrified town
+  - [Stratford-upon-Avon](https://maps.app.goo.gl/QR8Kccb5uEaSSyRe6) - Shakespear's Birthplace
 - North Yorkshire:
   - [York](https://maps.app.goo.gl/WKAd4mEKRLyDVrtQ8) - probably the most gentrified part of the north due to the
     historic architecture dating back to Roman times, lots of nice coffee shops
+- Gloucestershire:
+  - [Cotswolds](https://maps.app.goo.gl/Ltn9WceBcb2xESS79)
 - Kent:
   - [Canterbury](https://maps.app.goo.gl/d1kENYard7Drq6jV8) - historic city dating back to Roman times with historic
     architecture
