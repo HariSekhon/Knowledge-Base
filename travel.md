@@ -2889,7 +2889,7 @@ Most of my favourite restaurants in Podgorica are all on or around City Kvart an
 - [Park Ljubović](https://maps.app.goo.gl/T2e9H7CmFYUHFrvu7)
 - [Petrovic Castle](https://maps.app.goo.gl/gbtUCXB58qeiGThV7) - looks like a modest suburban house in other countries!
 
-The [Travel Break](https://maps.app.goo.gl/dcFAx3ukzYcAbPbW9) hostel is run by a good guy
+The [Travel Break](https://maps.app.goo.gl/dcFAx3ukzYcAbPbW9) hostel is run by a good and experienced guy, Miro,
 and has a couple parking spaces for those doing road trips.
 The only downside is that there is a 10:30pm curfew against using the outside seating area to socialize,
 to not annoy the neighbours with noise of conversations, and that is the only social area available.
