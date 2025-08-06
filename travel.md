@@ -11,6 +11,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Flight Booking Sites](#flight-booking-sites)
   - [Flight Deals from the US](#flight-deals-from-the-us)
   - [Flights Gotchas](#flights-gotchas)
+    - [Luggage](#luggage)
     - [Transfer Flight Timings](#transfer-flight-timings)
     - [Self Transfer](#self-transfer)
     - [Change Airport](#change-airport)
@@ -352,6 +353,19 @@ Enter your nearest airport(s) and they will send you cheap deals to random desti
 Unfortunately they do not serve airports outside the US at time of writing.
 
 ### Flights Gotchas
+
+#### Luggage
+
+Be careful with your luggage weight. I got charged $30 in Asia for being 2kg overweight.
+
+It is usually much cheaper to just book a larger luggage weight in advance, such as 25kg instead of 20kg.
+
+If doing short trips, you might be better off not taking checked luggage at all as budget airlines like Whizz Air charge
+you a lot extra on top of the initial flight cost to have a checked luggage, and if only going somewhere for 2-3 days
+you really only need a change of clothes and minimal toiletries.
+
+The real problem is if you have lots of toiletries for skincare routines etc,
+as it can be hard to get it through the airport security and need that checked luggage.
 
 #### Transfer Flight Timings
 
