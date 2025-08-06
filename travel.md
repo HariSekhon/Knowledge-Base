@@ -428,6 +428,53 @@ I have have private hosts cancel my accommodations the day before or even the sa
 
 It's annoying to be booking at the last minute because you'll get the least good places for the most expensive prices.
 
+### Hotel vs Airbnb - Internet
+
+Hotel wifi is probably the worst wifi ever,
+often averaging around 10Mbit/s, sometimes 7Mbit/s, I've even recorded it as low at 2Mbit/s,
+and they tend to have frequent random outages.
+
+The slow speeds - especially throughput and latency variability - can ruin even your audio conference calls, never mind
+your video conference calls, especially if you are forced to do them through a corporate Windows Virtual Desktop which
+is far more network expensive and latency sensitive.
+
+I have been bitten by this several times.
+
+If Digital Nomadding, try to get out to a cafe with good internet for conference calls, and test their speeds (see the
+doc [Network - Speed Test](networking.md#network-speed-test)).
+If it's less than 20Mbit/s, find somewhere else.
+I've observed good places having wifi speeds of even 70-90Mbit/s and almost no contention due to low number of users.
+
+Internet in Airbnb is either good high speed broadband or broken entirely for the duration.
+
+At one hotel in Thailand, the room wifi was broken the entire week I was there.
+I had to sit in the lobby to use the wifi network there, as did others,
+and sometimes even that didn't work due to having run out of IP addresses from their DHCP address pool -
+a trivial problem to fix if they had even an average IT engineer on hand or over the phone.
+I spent all week hassling the reception staff daily pleading to put one on the phone for me to tell them how to fix
+it without success).
+It still wasn't working when I left there.
+
+Hostels tend to be nearer the hotel end of the wifi internet spectrum, but not usually as bad as hotels in my experience
+as the younger crowd of hostels is much more internet dependent and they know this.
+
+### Hotel, Hostel & Airbnb - Parking
+
+If driving, make sure to double check parking at hotels or Airbnbs.
+
+If Expedia shows `Parking Available` include of `Parking Included`, that means there will be parking charges,
+which can be quite high.
+
+You have to scroll all the way to the bottom of the hotel listing to find out what the charges are in the small print.
+
+When driving, I often prefer booking places a bit away from the centers to get easier parking as many central
+accomodations, both hotels and airbnbs lack good parking.
+
+Also, if you're only going into the centres in the evenings, often you can get cheap or even free parking.
+
+Hostels are usually more central and have no parking, so that's an extra challenge to find external parking locations if
+driving, such as my European Summer Road Trip Tours.
+
 ### Hostel Tips
 
 #### Lockers
@@ -456,50 +503,6 @@ Pillows tend to not be great in hostels, so in Europe I take my 2 memory foam pi
 
 You can use [WorldPackers](https://www.worldpackers.com/) to volunteer at hostels in exchange for free board,
 which is a great way of seeing the world when young on budget.
-
-### Hotel, Hostel & Airbnb - Parking
-
-If driving, make sure to double check parking at hotels or Airbnbs.
-
-If Expedia shows `Parking Available` include of `Parking Included`, that means there will be parking charges,
-which can be quite high.
-
-You have to scroll all the way to the bottom of the hotel listing to find out what the charges are in the small print.
-
-When driving, I often prefer booking places a bit away from the centers to get easier parking as many central
-accomodations, both hotels and airbnbs lack good parking.
-
-Also, if you're only going into the centres in the evenings, often you can get cheap or even free parking.
-
-Hostels are usually more central and have no parking, so that's an extra challenge to find external parking locations if
-driving, such as my European Summer Road Trip Tours.
-
-### Hotel vs Airbnb - Internet
-
-Hotel wifi is probably the worst wifi ever,
-often averaging around 10Mbit/s, sometimes 7Mbit/s, I've even recorded it as low at 2Mbit/s,
-and they tend to have frequent random outages.
-
-The slow speeds - especially throughput and latency variability - can ruin even your audio conference calls, never mind
-your video conference calls, especially if you are forced to do them through a corporate Windows Virtual Desktop which
-is far more network expensive and latency sensitive.
-
-I have been bitten by this several times.
-
-If Digital Nomadding, try to get out to a cafe with good internet for conference calls, and test their speeds (see the
-doc [Network - Speed Test](networking.md#network-speed-test)).
-If it's less than 20Mbit/s, find somewhere else.
-I've observed good places having wifi speeds of even 70-90Mbit/s and almost no contention due to low number of users.
-
-Internet in Airbnb is either good high speed broadband or broken entirely for the duration.
-
-At one hotel in Thailand, the room wifi was broken the entire week I was there.
-I had to sit in the lobby to use the wifi network there, as did others,
-and sometimes even that didn't work due to having run out of IP addresses from their DHCP address pool -
-a trivial problem to fix if they had even an average IT engineer on hand or over the phone.
-I spent all week hassling the reception staff daily pleading to put one on the phone for me to tell them how to fix
-it without success).
-It still wasn't working when I left there.
 
 ## Taxis
 
