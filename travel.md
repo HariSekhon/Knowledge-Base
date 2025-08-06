@@ -4589,7 +4589,6 @@ The best remaining parts of the UK (nearly all in the South of England):
   - [Cotswolds](https://maps.app.goo.gl/Ltn9WceBcb2xESS79)
 - Hampshire:
   - [Winchester](https://maps.app.goo.gl/qcvnr5q2rkPygp4s8)
-- various areas designated AONB - Areas of Oustanding Natural Beauty - legally protected green areas
 - Hertfordshire
   - [St Albans](https://maps.app.goo.gl/jh4eURxb9r1kiiW78) and the Roman [Verulamium Park](https://maps.app.goo.gl/2hMD9RxjvHJaLVQ8A)
 - North Yorkshire:
@@ -4603,6 +4602,7 @@ The best remaining parts of the UK (nearly all in the South of England):
 - Scotland:
   - [Edinburgh](https://maps.app.goo.gl/Y11wKh8RJ4u11AEN6) - small historic city. The restaurants get booked out, so need
     reservations
+- various AONB - Areas of Oustanding Natural Beauty - legally protected green areas
 
 Most of the areas apart from Central London are small enough you can cover their key central parts in 1-2 days each.
 
