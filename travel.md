@@ -951,8 +951,12 @@ I was lucky to get one.
 
 [Trip'n'Hostel](https://maps.app.goo.gl/wPZMw8J1ayfejN2C6) seemed to be more popular among those who didn't need parking.
 
-- [Bati Restaurant 2](https://maps.app.goo.gl/jskFtGmr5dycse6v9) - hidden gem seafood restaurant, busy, filled with
-  locals even on a Wednesday night
+- [Bati Restaurant 1](https://maps.app.goo.gl/4CS4bZ8q2qzMhMys7) /
+  [Bati Restaurant 2](https://maps.app.goo.gl/jskFtGmr5dycse6v9) /
+  [Bati Restaurant 3](https://maps.app.goo.gl/SaZ8M282q9p75Myk6) - Bati 2 was a hidden gem seafood restaurant, busy, filled with
+  locals even on a Wednesday night.
+  The other two have the same menu.
+  Wifi 92/34 Mbit/s
 - [Odas Garden](https://maps.app.goo.gl/ynkfuUvCcwV8KqcB7) - good food, moderate prices, very popular.
   It was recommended by one of my fellow foodie travel buddies.
   This place is apparently not a well kept secret at all as the place was packed out, and we had to queue for half an
