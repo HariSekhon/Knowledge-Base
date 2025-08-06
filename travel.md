@@ -916,7 +916,7 @@ I was lucky to get one.
   They also charge 220 leks for live music per person on the bill too (just over €2)
 - [Stoa meeting Place](https://maps.app.goo.gl/5CY84b3Coy1S7LFR6) - bar which had live outdoor music of a talented guy
   on guitar singing classic pop-rock songs, part of a pub crawl
-- [Destil Creative Hub Tirana](https://maps.app.goo.gl/JHfvrEnNJVeqsc339) - recommended by a friend for food and service
+- [Destil Creative Hub](https://maps.app.goo.gl/JHfvrEnNJVeqsc339) - recommended by a friend for food and service
   during the day, but at night it turned into a bar with karaoke, also part of a pub crawl!
 
 TODO:
