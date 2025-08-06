@@ -4591,7 +4591,8 @@ The best remaining parts of the UK (nearly all in the South of England):
 - Hertfordshire
   - [St Albans](https://maps.app.goo.gl/jh4eURxb9r1kiiW78) and the Roman [Verulamium Park](https://maps.app.goo.gl/2hMD9RxjvHJaLVQ8A)
 - West Midlands:
-  - [Royal Leamington Spa](https://maps.app.goo.gl/VQtgaZ2GaCVu95Cc8) - gentrified town
+  - [Royal Leamington Spa](https://maps.app.goo.gl/VQtgaZ2GaCVu95Cc8) - gentrified town with nice Regency architecture
+    and broad boulevards
   - [Stratford-upon-Avon](https://maps.app.goo.gl/QR8Kccb5uEaSSyRe6) - Shakespear's Birthplace
 - North Yorkshire:
   - [York](https://maps.app.goo.gl/WKAd4mEKRLyDVrtQ8) - probably the most gentrified part of the north due to the
