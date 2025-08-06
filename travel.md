@@ -954,6 +954,8 @@ I was lucky to get one.
 
 [Trip'n'Hostel](https://maps.app.goo.gl/wPZMw8J1ayfejN2C6) seemed to be more popular among those who didn't need parking.
 
+- [Blloku](https://maps.app.goo.gl/h6vq5NJFVdBU7Cip6) - upmarket district with night life and boutique shopping, lots of
+  Mercedes and Porches there
 - [Bati Restaurant 1](https://maps.app.goo.gl/4CS4bZ8q2qzMhMys7) /
   [Bati Restaurant 2](https://maps.app.goo.gl/jskFtGmr5dycse6v9) /
   [Bati Restaurant 3](https://maps.app.goo.gl/SaZ8M282q9p75Myk6) - excellent upmarket seafood restaurant at surprisingly
@@ -1009,7 +1011,6 @@ I was lucky to get one.
 
 TODO:
 
-- [Bati Restaurant 2](https://maps.app.goo.gl/ptJUYagKnLK9EQCp9) - seafood at cheap prices
 - [Nouvelle Vague Tirana](https://maps.app.goo.gl/6sBrB9zADb9s2y6f6) - highly recommended bar by a guy I met in Zadar,
   and has a very high rating
 
