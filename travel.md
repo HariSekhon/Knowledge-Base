@@ -913,7 +913,7 @@ I was lucky to get one.
   The venue also had live traditional music, even on Tuesday evening,
   which was good but honestly too loud which makes it hard to talk,
   and we were sitting at the end of the garden nowhere near the band.
-  They also charge 220 leks for live music per person on the bill too (just over €2).
+  They also charge 220 leks for live music per person on the bill too (just over €2)
 
 TODO:
 
