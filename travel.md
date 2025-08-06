@@ -4592,11 +4592,17 @@ The best remaining parts of the UK (nearly all in the South of England):
 - various areas designated AONB - Areas of Oustanding Natural Beauty - legally protected green areas
 - Hertfordshire
   - [St Albans](https://maps.app.goo.gl/jh4eURxb9r1kiiW78) and the Roman [Verulamium Park](https://maps.app.goo.gl/2hMD9RxjvHJaLVQ8A)
-- York - probably the most gentrified part of the north due to the historic architecture, lots of nice coffee shops
-- [BlueWater](https://maps.app.goo.gl/zerwEJAEKUbvE8LT7) - the largest mall in the UK (you need a car to get there, but
-  there are extensive free car parks surrounding it)
-- [Edinburgh](https://maps.app.goo.gl/Y11wKh8RJ4u11AEN6), Scotland - small historic city. The restaurants get booked out, so need
-  reservations.
+- North Yorkshire:
+  - [York](https://maps.app.goo.gl/WKAd4mEKRLyDVrtQ8) - probably the most gentrified part of the north due to the
+    historic architecture dating back to Roman times, lots of nice coffee shops
+- Kent:
+  - [Canterbury](https://maps.app.goo.gl/d1kENYard7Drq6jV8) - historic city dating back to Roman times with historic
+    architecture
+  - [BlueWater](https://maps.app.goo.gl/zerwEJAEKUbvE8LT7) - the largest mall in the UK (you need a car to get there, but
+    there are extensive free car parks surrounding it)
+- Scotland:
+  - [Edinburgh](https://maps.app.goo.gl/Y11wKh8RJ4u11AEN6) - small historic city. The restaurants get booked out, so need
+    reservations
 
 Most of the areas apart from Central London are small enough you can cover their key central parts in 1-2 days each.
 
