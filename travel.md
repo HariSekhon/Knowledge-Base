@@ -871,10 +871,10 @@ Number of Countries: 41
   - not counting my extensive month long
     [Tour of England and Wales](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b)
     (the latter was borderline a different country, there are actually Welsh signs I can't read)
-- Countries in 2025: 18
+- Countries in 2025: 19
   - Vietnam (continued), Cambodia, Laos, Bali (Indonesia), Malayasia, Singapore, Taiwan, Serbia, Bulgaria, Romania,
-    Hungary, Slovakia, Austria, Czechia, Poland, Slovenia, Croatia, Montenegro
-- Unique Countries since Emigrating from the UK in 2024: 31
+    Hungary, Slovakia, Austria, Czechia, Poland, Slovenia, Croatia, Montenegro, Albania
+- Unique Countries since Emigrating from the UK in 2024: 32
 
 Below are specific tips for each country, especially my favourite restaurants.
 
