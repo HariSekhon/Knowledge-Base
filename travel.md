@@ -874,6 +874,94 @@ Number of Countries: 40
 
 Below are specific tips for each country, especially my favourite restaurants.
 
+### Albania
+
+_"Cheap and good"_ was how several people I met on my travels described
+[Albania](https://maps.app.goo.gl/gEyUuDhZapAQ1b5dA). Get it before it changes.
+
+I'm surprised how many Mercedes there were in Albania.
+Many 20 years old, but many modern designs with customizations, AMGs etc.
+
+Some of the roads aren't great though.
+
+#### Tirana
+
+The capital [Tiranë](https://maps.app.goo.gl/NpB1ebWNjGFn6X2f9) is cheap, with hostels costing around £10 per night.
+
+The [Hostel Albania Villa](https://maps.app.goo.gl/W3QgHAJusgWU9fY99) only had a couple parking spaces,
+I was lucky to get one.
+
+[Trip'n'Hostel](https://maps.app.goo.gl/wPZMw8J1ayfejN2C6) seemed to be more popular among those who didn't need parking.
+
+- [Odas Garden](https://maps.app.goo.gl/ynkfuUvCcwV8KqcB7) - good food, moderate prices, very popular.
+  It was recommended by one of my fellow foodie travel buddies.
+  This place is apparently not a well kept secret at all as the place was packed out, and we had to queue for half an
+  hour from 7:30-8pm on a Tuesday night to get a table.
+  The waiting area became full of groups of people waiting for tables by the time we were seated.
+  You would be well advised to book a table, especially if it's the weekend.
+  The lamb cooked in a wooden stove was a good sized portion of meat,
+  although some of the lamb was a bit dry and hard to get through, and came with potato slices.
+  The veal chop was a decent size too.
+  The Japrak (rice in grape vine leaves)
+  looks quite different to the better known Greek style
+  as the leaves were a light rather than dark green colour and came with few very large bundles,
+  but tasted similarly good.
+  The venue also had live traditional music, even on Tuesday evening,
+  which was good but honestly too loud which makes it hard to talk,
+  and we were sitting at the end of the garden nowhere near the band.
+  They also charge 220 leks for live music per person on the bill too (just over €2).
+
+TODO:
+
+- [Bati Restaurant 2](https://maps.app.goo.gl/ptJUYagKnLK9EQCp9) - seafood at cheap prices
+- [Nouvelle Vague Tirana](https://maps.app.goo.gl/6sBrB9zADb9s2y6f6) - highly recommended bar by a guy I met in Zadar,
+  and has a very high rating
+
+#### Shkoder
+
+[Shkodër](https://maps.app.goo.gl/M9ekVnhoA2WqawkYA) is a town on the Shkodra Lake and hiking trails.
+
+In peak summer time it can be difficult to find accommodation.
+
+The town itself only takes an hour to walk around so you can do this in a day trip or 1 night stopover.
+
+- [Rruga Kolë Idromeno](https://maps.app.goo.gl/njNH3Wuo5VD4dKd47) - main tourist strip with restaurants
+- [Rruga G'juhadol](https://maps.app.goo.gl/GfScSxTKQNEbr85E9) - main tourist side road with bars and restaurants at the
+  north end
+- [90 Pods hostel & co-working](https://maps.app.goo.gl/yQzQWPwJ8He6tx9dA) - very minimalist, only use it if you're on
+  a budget. The "free parking" is street parking, which is in short supply and of course dangerous to leave a decent
+  car. The car park opposite was €2 per 8 hours.
+  On the plus side though, this hostel includes breakfast until 10:30am,
+  with a whole trays of eggs, bread, cream cheese,
+  piles of fresh natural looking imperfect tomatoes and cucumbers to make your own breakfast.
+  Unfortunately, there isn't enough cookware or utensils so you have to wait for others to finish and wash up.
+  It wouldn't hurt for them to buy a couple more pans and spatulas
+
+TODO:
+
+- [Ricordi Burger](https://maps.app.goo.gl/4RSL4PJrmrYjzzBk8) - highly rated burger restaurant with better prices than
+  the tourist trap OPA below
+- [Genti Breakfast&Restaurant](https://maps.app.goo.gl/Mn9SySXWjBsuJ5VLA)
+- [@Barbs Restaurant By Baku](https://maps.app.goo.gl/haK5UUQKipwZJaVQ7)
+- [Rozafa Sea Food](https://maps.app.goo.gl/q3nKLyQKbmVonC5v9) - popular late night restaurant off the main tourist
+  strip
+- [PURI](https://maps.app.goo.gl/fGs5xnrk2HzV7j3RA)
+- [RETRO Sushi Pub & Co.](https://maps.app.goo.gl/hzVhafUoQ9ndYFWT9)
+- [Fontana](https://maps.app.goo.gl/R6GtJLaXadt1Hipb6) - despite the mere 4.2 rating and being on the tourist strip, the
+  pizzas looked good
+- ["Traditional food" restaurant](https://maps.app.goo.gl/MHDymbZwYEQyrP1g8)
+
+Not Recommended:
+
+- [OPA Shkodër](https://maps.app.goo.gl/LGvFrPyQv2RMZiyB6) - overrated.
+  The smash burger looked quite squished, like the classic
+  meltdown scene the guy has for getting a flat burger that looks nothing like the juicy burger in the picture in the
+  classic movie [Falling Down](https://www.imdb.com/title/tt0106856/).
+  It tasted ok, but certainly not a gourmet burger by any stretch.
+  The fries were like those dry chokey crinkle cut oven fries you get from the supermarket.
+  I wish I had managed to eat at Ricordi Burger above but they closed due to "family issues" at 11pm that day.
+  If ever trying OPA again, next time I'd go with the 4x chicken skewers and fries, it doesn't cost much more
+
 ### Austria
 
 _"There are no kangaroos in Austria"_ 😉
@@ -2907,9 +2995,16 @@ TODO:
   [Skerovic Plaza](https://maps.app.goo.gl/kUdm4qTvP9ebFFww5) - beaches to the north of Bar Promenade
 - [Caffe Pizzeria Perbacco](https://maps.app.goo.gl/BBhhozLefqvv1t547) - slightly pricier than Karuba above, but
   similar menu and similarly highly rated
-- [Pizza Pub PULENA](https://maps.app.goo.gl/UEcARcZHZpio9kb78) - popular and highly rated, everybody sitting outside had pizzas - save it for a fat day
+- [Pizza Pub PULENA](https://maps.app.goo.gl/UEcARcZHZpio9kb78) - popular and highly rated, everybody sitting outside
+  had pizzas - save it for a fat day
 - [JALA street food](https://maps.app.goo.gl/A6SRt7uiKQrbBkMt9) - affordable burgers and tortillas
 - [Central Park Cafe Montenegro](https://maps.app.goo.gl/hY4KyXBtz7mp3GP76)
+
+#### Ulcinj
+
+Seaside town, more concentrated and touristy than Bar.
+
+
 
 ### Morocco
 
