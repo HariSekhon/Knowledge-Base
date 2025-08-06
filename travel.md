@@ -956,9 +956,28 @@ I was lucky to get one.
 
 - [Bati Restaurant 1](https://maps.app.goo.gl/4CS4bZ8q2qzMhMys7) /
   [Bati Restaurant 2](https://maps.app.goo.gl/jskFtGmr5dycse6v9) /
-  [Bati Restaurant 3](https://maps.app.goo.gl/SaZ8M282q9p75Myk6) - Bati 2 was a hidden gem seafood restaurant, busy, filled with
-  locals even on a Wednesday night.
+  [Bati Restaurant 3](https://maps.app.goo.gl/SaZ8M282q9p75Myk6) - Bati 2 was a hidden gem seafood restaurant, busy,
+  filled with locals even on a Wednesday night.
   The other two have the same menu.
+  The food was very good quality,
+  although most of the fish dishes are priced by weight,
+  which means they are not for people on a budget, but thankfully the seafood linguine was very reasonably priced at
+  600 leks (€6).
+  The tomato, garlic and parmesan bruschetta were a perfect starter - 6 small, slightly salty, bruschetta with tomato
+  and parmesan flakes.
+  I don't recall having better bruschetta than these anywhere, and for 250 leks (€2.50) you have to have them.
+  The seafood linguine was similarly perfect, with al dente pasta, and a mix of seafood including prawns, octopus and
+  muscles. It's not a big portion, a large bowl plate with the centre filled. This left space for dessert though.
+  The "Baked Cheesecake" is actually a Basque Burnt style cheesecake which does not have a biscuit base
+  and comes with a scoop of ice cream on the side and only a few crumbs of biscuit garnish on the side.
+  If you're thinking of New York style cheesecake with the biscuit base,
+  you need to choose the plain cheesecake, not the baked one.
+  The waiters English wasn't that good so they failed to distinguish the difference properly, saying one was baked and
+  came with ice cream but forgot to mention there was no biscuit base.
+  The chef gave me an additional regular cheesecake when I queried why there was no biscuit base.
+  Comparing the two, the Basque Burnt style "Baked Cheesecake"
+  was the perfect amount of subtle sweetness, while the New York style cheesecake with apricot sauce on it was much
+  sweeter.
   Wifi 92/34 Mbit/s
 - [Odas Garden](https://maps.app.goo.gl/ynkfuUvCcwV8KqcB7) - good food, moderate prices, very popular.
   It was recommended by one of my fellow foodie travel buddies.
