@@ -2820,12 +2820,12 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 [Podgorica](https://maps.app.goo.gl/5sVEgxF13kdGi8tz5) is the capital and has cheaper accommodation than Budva, but
 on first impression there isn't too much to do there as it's not well centralized.
 
-However I was still discovering things after 5 days.
-You can cram it into 2 days if you know exactly what you're doing though:
+However, after spending a few extra days, I was still discovering things.
+You could cram it into 2 days, but only if you know exactly what you're doing:
 
 [Independence Square](https://maps.app.goo.gl/9psMfsFUKkcn6UH99) gives a false impression there isn't much around it,
 except for [Bokeska](https://maps.app.goo.gl/E1fu9DuAwUZPusg99) and
-[Njegoseva](https://maps.app.goo.gl/rKJHSioefKvLU6HJ7) roads, but if you enter
+[Njegoseva](https://maps.app.goo.gl/rKJHSioefKvLU6HJ7) roads with bars and restaurants, but if you enter
 [Njegosev Park](https://maps.app.goo.gl/xErfQQfGBnQCTJCv5) and
 cross the [Gazela](https://maps.app.goo.gl/A15VotP6dyxsM3Ev5) bridge to the
 [Kruševac](https://maps.app.goo.gl/bihaD7moCmrVgR2VA) district, near there is
@@ -2883,9 +2883,11 @@ Most of my favourite restaurants in Podgorica are all on or around City Kvart an
   few restaurants, and outside is the City Kvart area full of restaurants
 - [City Kvart](https://maps.app.goo.gl/EoQGerQ7KSrTw1BA7) - area with lots of good restaurants opposite the Big Fashion
   Mall
-- [Park Forest Gorica](https://maps.app.goo.gl/SchsssB6AsTKYe1g8)
-- [Klub Bocara](https://maps.app.goo.gl/FL1ehvkYSyNnjNmn6) - great stop for refreshing drinks after a walk in the
-  Gorica park
+- [Park Forest Gorica](https://maps.app.goo.gl/SchsssB6AsTKYe1g8) - lovely family friendly park with wildlife placards
+  and play areas
+- [Klub Bocara](https://maps.app.goo.gl/FL1ehvkYSyNnjNmn6) - a good stop for refreshing drinks after a long walk in
+  Gorica park, popular among couples, with a nice outdoor terrace under a canopy of trees for shade, both alcoholic
+  beverages and fresh squeezed juices, with reasonable prices
 - [Park Ljubović](https://maps.app.goo.gl/T2e9H7CmFYUHFrvu7)
 - [Petrovic Castle](https://maps.app.goo.gl/gbtUCXB58qeiGThV7) - looks like a modest suburban house in other countries!
 
