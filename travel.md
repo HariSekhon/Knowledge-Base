@@ -969,7 +969,8 @@ I was lucky to get one.
   The seafood linguine was similarly perfect, with al dente pasta, and a mix of seafood including prawns, octopus and
   muscles. It's not a big portion, a large bowl plate with the centre filled. This left space for dessert though.
   The _"Baked Cheesecake"_ is actually a Basque Burnt style cheesecake which does not have a biscuit base
-  and comes with a scoop of ice cream on the side and only a few crumbs of biscuit garnish on the side.
+  and comes with a caramelized top and a scoop of vanilla ice cream on the side, and only a few crumbs of biscuit
+  garnish on the side.
   If you're thinking of New York style cheesecake with the biscuit base,
   you need to choose the plain cheesecake, not the baked one.
   The waiter's English wasn't that good so they failed to distinguish the difference properly, saying one was baked and
