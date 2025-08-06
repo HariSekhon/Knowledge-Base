@@ -968,14 +968,14 @@ I was lucky to get one.
   I don't recall having better bruschetta than these anywhere, and for 250 leks (€2.50) you have to have them.
   The seafood linguine was similarly perfect, with al dente pasta, and a mix of seafood including prawns, octopus and
   muscles. It's not a big portion, a large bowl plate with the centre filled. This left space for dessert though.
-  The "Baked Cheesecake" is actually a Basque Burnt style cheesecake which does not have a biscuit base
+  The _"Baked Cheesecake"_ is actually a Basque Burnt style cheesecake which does not have a biscuit base
   and comes with a scoop of ice cream on the side and only a few crumbs of biscuit garnish on the side.
   If you're thinking of New York style cheesecake with the biscuit base,
   you need to choose the plain cheesecake, not the baked one.
-  The waiters English wasn't that good so they failed to distinguish the difference properly, saying one was baked and
+  The waiter's English wasn't that good so they failed to distinguish the difference properly, saying one was baked and
   came with ice cream but forgot to mention there was no biscuit base.
   The chef gave me an additional regular cheesecake when I queried why there was no biscuit base.
-  Comparing the two, the Basque Burnt style "Baked Cheesecake"
+  Comparing the two, the Basque Burnt style _"Baked Cheesecake"_
   was the perfect amount of subtle sweetness, while the New York style cheesecake with apricot sauce on it was much
   sweeter.
   Wifi 92/34 Mbit/s
