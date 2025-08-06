@@ -2888,7 +2888,13 @@ Most of my favourite restaurants in Podgorica are all on or around City Kvart an
 - [Klub Bocara](https://maps.app.goo.gl/FL1ehvkYSyNnjNmn6) - a good stop for refreshing drinks after a long walk in
   Gorica park, popular among couples, with a nice outdoor terrace under a canopy of trees for shade, both alcoholic
   beverages and fresh squeezed juices, with reasonable prices
+- [Voli](https://maps.app.goo.gl/XxGyfWdvDiYEy7ws9) - small centrally convenient supermarket to pick up daily groceries
+  and fresh juices, 400ml for €2.10, which is half the price and twice the size of neighbouring restaurants.
+  Was getting fresh squeezed juices every day from here, but alas it was closed on Sunday
+- [HDL](https://maps.app.goo.gl/ZFcW5oykr3RrUyxD6) - large cheap supermarket further out (use if driving)
 - [Park Ljubović](https://maps.app.goo.gl/T2e9H7CmFYUHFrvu7)
+- [King's Park](https://maps.app.goo.gl/tcG8RRQaS2yr5a6K6)
+- [Karadjordjev Park](https://maps.app.goo.gl/DtoU21SRWTcGyjif9) - small but nice park with some bars to do pull ups
 - [Petrovic Castle](https://maps.app.goo.gl/gbtUCXB58qeiGThV7) - looks like a modest suburban house in other countries!
 
 The [Travel Break](https://maps.app.goo.gl/dcFAx3ukzYcAbPbW9) hostel is run by a good and experienced guy, Miro,
