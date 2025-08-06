@@ -10,7 +10,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 - [Flights](#flights)
   - [Flight Booking Sites](#flight-booking-sites)
   - [Flight Deals from the US](#flight-deals-from-the-us)
-  - [Flights Gotchas](#flights-gotchas)
+  - [Flight Gotchas](#flight-gotchas)
     - [Luggage](#luggage)
     - [Transfer Flight Timings](#transfer-flight-timings)
     - [Self Transfer](#self-transfer)
@@ -352,7 +352,7 @@ Enter your nearest airport(s) and they will send you cheap deals to random desti
 
 Unfortunately they do not serve airports outside the US at time of writing.
 
-### Flights Gotchas
+### Flight Gotchas
 
 #### Luggage
 
