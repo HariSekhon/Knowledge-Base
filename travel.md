@@ -917,7 +917,7 @@ I was lucky to get one.
 - [Stoa Meeting Place](https://maps.app.goo.gl/5CY84b3Coy1S7LFR6) - bar which had live outdoor music of a talented guy
   on guitar singing classic pop-rock songs, part of a pub crawl
 - [Destil Creative Hub](https://maps.app.goo.gl/JHfvrEnNJVeqsc339) - recommended by a friend for food and service
-  during the day, but at night it turned into a bar with karaoke, also part of a pub crawl!
+  during the day, but at night it turned into a bar with karaoke - also part of a pub crawl
 
 TODO:
 
