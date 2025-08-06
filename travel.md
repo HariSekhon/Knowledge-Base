@@ -929,7 +929,7 @@ TODO:
 
 [Shkodër](https://maps.app.goo.gl/M9ekVnhoA2WqawkYA) is a town on the Shkodra Lake and hiking trails.
 
-In peak summer time it can be difficult to find accommodation.
+In peak summer time it can be difficult to find accommodation as tourists decend on it for the lake and hiking trails.
 
 The town itself only takes an hour to walk around so you can do this in a day trip or 1 night stopover.
 
