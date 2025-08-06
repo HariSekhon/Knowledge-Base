@@ -982,6 +982,8 @@ I was lucky to get one.
   Comparing the two, the Basque Burnt style _"Baked Cheesecake"_
   was the perfect amount of subtle sweetness, while the New York style cheesecake with apricot sauce on it was much
   sweeter.
+  The only point I could possibly deduct for this place was
+  that they had no juices, at all leaving me to buy mineral water in glass bottle.
   Wifi 92/34 Mbit/s
 - [Odas Garden](https://maps.app.goo.gl/ynkfuUvCcwV8KqcB7) - good food, moderate prices, very popular.
   It was recommended by one of my fellow foodie travel buddies.
