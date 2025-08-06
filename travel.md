@@ -2965,7 +2965,8 @@ You will need just over 1 hour to wander around the fortress - longer if you're 
 
 #### Bar
 
-A small seaside town, but the beach is not as good as Budva which is much more popular.
+[Bar](https://maps.app.goo.gl/6HxgncYoNrxoFNhz5) is a small seaside town, but the beach is not as good as Budva which is
+much more popular.
 
 - [KARUBA PIZZA & PUB](https://maps.app.goo.gl/HbpbUxpy6qZh9fk98) - decent menu but slightly touristy prices.
   The fresh squeezed orange juice was good and a decent size for €3 filling a 330ml glass, slightly more than Perbacco
@@ -3002,9 +3003,45 @@ TODO:
 
 #### Ulcinj
 
-Seaside town, more concentrated and touristy than Bar.
+[Ulcinj](https://maps.app.goo.gl/n9ohwBapsZjztAND7) is a popular seaside town, more concentrated and touristy than Bar.
 
+- [Old Town of Ulcinj](https://maps.app.goo.gl/xkRj3Mmpcd6h6RXB9) - has the highest rated restaurants, up on the cliff
+- [Small Beach](https://maps.app.goo.gl/ZdP8KBZY4wgMteKA9) - a strip of restaurants faces this beach for the sea alcove
+- [HEIST Bar](https://maps.app.goo.gl/NQEDCZ2vMvgugyMv7) - trendy small bar with seating facing the street to watch
+  passers by
 
+TODO:
+
+Several of the highest rated restaurants are in the Old Town at the top of the cliff:
+
+- [Restaurant Antigona](https://maps.app.goo.gl/VDj85uDjWpEvHL757)
+- [Terra Promessa Restaurant](https://maps.app.goo.gl/b18P5fxoxxEm2nMy8)
+- [Restaurant Taphana](https://maps.app.goo.gl/W1ZXZjCmEPxhdDNd7)
+- [Restaurant Dulcinea 1984](https://maps.app.goo.gl/hFANjRTM7MAVaw4p7)
+
+<!-- -->
+
+Other well rated restaurants to try:
+
+- [Ke Muji](https://maps.app.goo.gl/r221Ts2ENDgQWiBf9)
+- [City Cafe](https://maps.app.goo.gl/Uv9ro6fz8G3FkAmRA)
+- [Viva Caffé-Bistro](https://maps.app.goo.gl/mpV31D5x2yTt15X8A)
+- [La Tavola - Steakhouse & Pizzeria](https://maps.app.goo.gl/Uhr1Ss8WdJ5CwsVC8)
+- [Restaurant Bonita](https://maps.app.goo.gl/Jiq1SETudSdN1F2F8)
+- [Savana](https://maps.app.goo.gl/zkPfjRxxKQgim7T37)
+- [Restoran Prime](https://maps.app.goo.gl/84NMD3R7CKauoY216)
+- [Ćevabdžinica 9](https://maps.app.goo.gl/8jRdXgiHihbS5Hpi8)
+- [Restaurant Rozafa](https://maps.app.goo.gl/JpbCgDSEMTfaLGTf6)
+- [Coda Pastry & Brunch](https://maps.app.goo.gl/ctnNYJ38gGYXTG8T7)
+- [Pontee...restorant...pizzeria](https://maps.app.goo.gl/sjhSNr5CyVRKcLPg7)
+- [Papillon](https://maps.app.goo.gl/NewBdhLGYVq1NoDz8)
+- [Restorant Pizzeria Elita](https://maps.app.goo.gl/FJkufers8tCKLqsW8)
+- [Buongiorno Caffe](https://maps.app.goo.gl/eaZHQePR5sc6G1hz8)
+- [Restoran Pizzeria Palma](https://maps.app.goo.gl/cJ2UBfYfdZNjfyoGA)
+- [Restaurant Pizzeria Zani London](https://maps.app.goo.gl/KHrdMdCvyaY74Jhk9)
+- [L'Angolo](https://maps.app.goo.gl/dotxQm988FkWMzmn7)
+- [Cafe & Restaurant Liburna](https://maps.app.goo.gl/fZZqWAK7xQNPD7o68)
+- [Corona National Restaurant](https://maps.app.goo.gl/4fAaVHXpjG8s8Cdr8)
 
 ### Morocco
 
