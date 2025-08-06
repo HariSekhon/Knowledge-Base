@@ -497,7 +497,13 @@ it'll work out cheaper in the long run anyway.
 
 #### Pillows
 
-Pillows tend to not be great in hostels, so in Europe I take my 2 memory foam pillows which I keep in my car.
+Pillows tend to not be great in hostels.
+
+So in Europe where I road trip, which gives me greater flexibility and luggage capacity, I take my 2 memory foam
+pillows.
+
+One could make do with taking one good pillow, but if flying even this might take up valuable space and weight in your
+checked luggage suitcase.
 
 #### WorldPackers
 
