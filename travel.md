@@ -2972,7 +2972,8 @@ TODO:
 and cats lounging around waiting to get petted by the many tourists on the small fortress
 streets.
 
-You will need just over 1 hour to wander around the fortress - longer if you're having a coffee or dining.
+You will need just over 1 hour to wander around the fortress -
+longer if you're stopping for coffee, shopping, dining, or attending the cats museum.
 
 - [Kotor Old Town](https://maps.app.goo.gl/axtUTEmtTkYGy6to9) - in the fortress
 - [Mon Bistro Cafétéria](https://maps.app.goo.gl/Q1Ao3cANc49JrsEh8) - nice coffee hop with outdoor seating with fans.
