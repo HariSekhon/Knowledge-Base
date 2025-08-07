@@ -1998,6 +1998,8 @@ as it also has a row of good brunch and coffee places on Angelicka.
 
 TODO:
 
+- [Dergi Praha](https://maps.app.goo.gl/dUcN2wJz1KWnyQwbA) - Georgian restaurant with performances such as singing and
+  sword fights, recommended by a travelling friend
 - [Alma Café](Alma Café) - opposite Khromberry
 - [Mistral Cafe](https://maps.app.goo.gl/3mZupmGDZWmQXpqB8) - brunch until 5pm
 - [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
