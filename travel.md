@@ -59,6 +59,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 - [Countries](#countries)
   - [Albania](#albania)
     - [Tirana](#tirana)
+    - [Durres](#durres)
     - [Shkoder](#shkoder)
   - [Austria](#austria)
     - [Motorway Tolls - e-Vignettes in Austria](#motorway-tolls---e-vignettes-in-austria)
@@ -1045,7 +1046,7 @@ so this is a long TODO list of ones I still need to try.
 - [Ice Cream Mango](https://maps.app.goo.gl/z2yYZNR9A3jYRE2C6)
 - [Fit Food Bar](https://maps.app.goo.gl/qFLQujbgVxspQA8fA) - on the
   [Woodrow Wilson Square](https://maps.app.goo.gl/kkvkBFFBEe1Cybz86) roundabout
-- [green & protein Bllok | Bowls, Salads, Juices & more](https://maps.app.goo.gl/UY6ehAEXadV2XAnV8)
+- [green & protein Bllok \| Bowls, Salads, Juices & more](https://maps.app.goo.gl/UY6ehAEXadV2XAnV8)
 - [Sophie Caffe, Sheshi Wilson](https://maps.app.goo.gl/1xREKvwNqMhYwdsk6) - good location on the roundabout to watch
   the world go by
 - [Oda - Traditional Albanian Restaurant](https://maps.app.goo.gl/c9syV1dph16cTVBY6)
