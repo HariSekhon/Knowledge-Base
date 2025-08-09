@@ -1036,7 +1036,7 @@ TODO:
 
 - [Ice Cream Mango](https://maps.app.goo.gl/z2yYZNR9A3jYRE2C6)
 - [Il Paese 31](https://maps.app.goo.gl/sK3uAjG4LueuxKVAA) - looks good quality, but a bit quiet because it's on a side
-  street, take your date here to keep her to yourself for a quiet romantic evening
+  street in Blloku, take your date here to keep her to yourself for a quiet romantic evening
 - [KOPE Steak House](https://maps.app.goo.gl/JtPTtnxdjMhACvUUA) - by the same owner as the Bati restaurant trio above,
   and just round the corner from Bati 1.
   Steak restaurant prices, which is to say, not cheap
