@@ -1038,6 +1038,9 @@ I was lucky to get one.
 
 TODO:
 
+There are a lot of restaurants with good ratings such as 4.7,
+so this is a long TODO list of ones I still need to try.
+
 - [D'Angelo Chocolate & Coffee (Blloku)](https://maps.app.goo.gl/PwikTirsyL1UNLaW9) - chocolate cafe, looks good
 - [Ice Cream Mango](https://maps.app.goo.gl/z2yYZNR9A3jYRE2C6)
 - [Fit Food Bar](https://maps.app.goo.gl/qFLQujbgVxspQA8fA) - on the
@@ -1045,10 +1048,13 @@ TODO:
 - [green & protein Bllok | Bowls, Salads, Juices & more](https://maps.app.goo.gl/UY6ehAEXadV2XAnV8)
 - [Sophie Caffe, Sheshi Wilson](https://maps.app.goo.gl/1xREKvwNqMhYwdsk6) - good location on the roundabout to watch
   the world go by
+- [Oda - Traditional Albanian Restaurant](https://maps.app.goo.gl/c9syV1dph16cTVBY6)
 - [Fast Food Albania](https://maps.app.goo.gl/oNyEsGiqFVstW4Cr8) - popular late night fast food, open until 4am
 - [Galeone Seafood Restaurant](https://maps.app.goo.gl/rwEfNHSDF9do2mhg7)
 - [MORSI Tirana](https://maps.app.goo.gl/iUMNw6KhyBhkgGGM7) - Italian, reasonably priced burger, cheaper than PMG burger
   above
+- [Figaro](https://maps.app.goo.gl/zrn8sU83U7WFQsPY6)
+- [Blanc Bistro](https://maps.app.goo.gl/2Ufh5pmd6QsNWxyd9)
 - [Il Paese 31](https://maps.app.goo.gl/sK3uAjG4LueuxKVAA) - looks good quality, but a bit quiet because it's on a side
   street in Blloku, take your date here to keep her to yourself for a quiet romantic evening
 - [KOPE Steak House](https://maps.app.goo.gl/JtPTtnxdjMhACvUUA) - by the same owner as the Bati restaurant trio above,
@@ -1076,6 +1082,8 @@ TODO:
 - [Mon Cheri - Bllok](https://maps.app.goo.gl/6WPZgxZt3FXXEjuh7) - if you're gonna try this coffee shop chain, try this
   one in the best area Blloku
 - [Mystic Restaurant 2](https://maps.app.goo.gl/7opZ6YiWM1ZiBNat8) - restaurant in Blloku
+- [Oxhakët](https://maps.app.goo.gl/9ebfqQuzeCgrUyks5) - Italian
+- [Pizzarte](https://maps.app.goo.gl/J4RDEczA8RxhuR7R9)
 - [EJA Restaurant](https://maps.app.goo.gl/grPhLs4ihneEQTcE9)
 - [Capital Restaurant Piceri](https://maps.app.goo.gl/e6r4YzDY3FaFkJDR6)
 - [Blùa Fish Restaurant](https://maps.app.goo.gl/bEsEY1uRQdNVbPzW9)
@@ -1085,6 +1093,8 @@ TODO:
 - [Vjosa Restaurant](https://maps.app.goo.gl/A7rZmY436yF1qgE16)
 - [Floga](https://maps.app.goo.gl/9jjBdBJE87srssMs6)
 - [Spaghetti Western](https://maps.app.goo.gl/cHEKLV7FP8Xt3g8fA)
+- [Pixel Gaming Arena](https://maps.app.goo.gl/o1EdrDcCguQSvjvZA) - interesting find for those of you who still play
+  video games
 
 #### Durres
 
