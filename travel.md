@@ -1045,6 +1045,7 @@ TODO:
 - [green & protein Bllok | Bowls, Salads, Juices & more](https://maps.app.goo.gl/UY6ehAEXadV2XAnV8)
 - [Sophie Caffe, Sheshi Wilson](https://maps.app.goo.gl/1xREKvwNqMhYwdsk6) - good location on the roundabout to watch
   the world go by
+- [Fast Food Albania](https://maps.app.goo.gl/oNyEsGiqFVstW4Cr8) - popular late night fast food, open until 4am
 - [Galeone Seafood Restaurant](https://maps.app.goo.gl/rwEfNHSDF9do2mhg7)
 - [MORSI Tirana](https://maps.app.goo.gl/iUMNw6KhyBhkgGGM7) - Italian, reasonably priced burger, cheaper than PMG burger
   above
