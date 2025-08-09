@@ -1020,11 +1020,15 @@ I was lucky to get one.
   fillet beef instead of a minced meat burger, was pretty good, comes with a few fries.
   They have no juices unfortunately
 - [Yogurteria Tirana](https://maps.app.goo.gl/eJP8QttrjUnKoDv6A) /
-  [Yogurteria Toptani](https://maps.app.goo.gl/1QNTwJGFuRs6k3mr5)- frozen yoghurt and ice cream chain.
-  The second one is on the top floor of the Toptani Mall
+  [Yogurteria Toptani](https://maps.app.goo.gl/1QNTwJGFuRs6k3mr5) /
+  [Yogurteria Tirana, Bllok](https://maps.app.goo.gl/Ckpi33kTVa5GJugL8) - frozen yoghurt and ice cream chain.
+  The first and second ones are on the ground and top floor of the Toptani Mall,
+  the third is in the upmarket Blloku area
 - [Old Bazaar](https://maps.app.goo.gl/KdhgSnjCqVmNEWRSA)
 - [Pyramid of Tirana](https://maps.app.goo.gl/1vLsae32cALGSmGY6) - modern monstrosity of a pyramid for tourists to get
   views and pics of the city
+- [Woodrow Wilson Square](https://maps.app.goo.gl/kkvkBFFBEe1Cybz86) roundabout in Blloku - several coffee shops and
+  restaurants around it
 - [Toptani Mall](https://maps.app.goo.gl/tfcu7TzA3m6tb9ui7) - the main mall in this area, with some brand shops, a
   supermarket on the -1 floor, 4th floor is mainly baby stuff, top floor has a Yogurteria
 - [Stoa Meeting Place](https://maps.app.goo.gl/5CY84b3Coy1S7LFR6) - bar which had live outdoor music of a talented guy
@@ -1034,7 +1038,16 @@ I was lucky to get one.
 
 TODO:
 
+- [D'Angelo Chocolate & Coffee (Blloku)](https://maps.app.goo.gl/PwikTirsyL1UNLaW9) - chocolate cafe, looks good
 - [Ice Cream Mango](https://maps.app.goo.gl/z2yYZNR9A3jYRE2C6)
+- [Fit Food Bar](https://maps.app.goo.gl/qFLQujbgVxspQA8fA) - on the
+  [Woodrow Wilson Square](https://maps.app.goo.gl/kkvkBFFBEe1Cybz86) roundabout
+- [green & protein Bllok | Bowls, Salads, Juices & more](https://maps.app.goo.gl/UY6ehAEXadV2XAnV8)
+- [Sophie Caffe, Sheshi Wilson](https://maps.app.goo.gl/1xREKvwNqMhYwdsk6) - good location on the roundabout to watch
+  the world go by
+- [Galeone Seafood Restaurant](https://maps.app.goo.gl/rwEfNHSDF9do2mhg7)
+- [MORSI Tirana](https://maps.app.goo.gl/iUMNw6KhyBhkgGGM7) - Italian, reasonably priced burger, cheaper than PMG burger
+  above
 - [Il Paese 31](https://maps.app.goo.gl/sK3uAjG4LueuxKVAA) - looks good quality, but a bit quiet because it's on a side
   street in Blloku, take your date here to keep her to yourself for a quiet romantic evening
 - [KOPE Steak House](https://maps.app.goo.gl/JtPTtnxdjMhACvUUA) - by the same owner as the Bati restaurant trio above,
@@ -1046,8 +1059,8 @@ TODO:
 - [Salt Tirana](https://maps.app.goo.gl/tYeAZPreCs26nthKA)
 - [Gjeli i Pazarit](https://maps.app.goo.gl/D6y8sy5knNs1MoBM7) - the staff was useless and ended up giving away two
   tables so I left and went to Nalu instead, which was higher rated anyway
-- [The Burger](https://maps.app.goo.gl/8SjVfNdm8yC33eP68)
-- [Burger Heaven](https://maps.app.goo.gl/hEBaB7yCXkePbaxa6)
+- [The Burger](https://maps.app.goo.gl/8SjVfNdm8yC33eP68) - cheaper than PMG burger above
+- [Burger Heaven](https://maps.app.goo.gl/hEBaB7yCXkePbaxa6) - cheaper than PMG burger above
 - [L'INCONTRO Caffe & Bistrot](https://maps.app.goo.gl/WzZ7dNcCDiFgrgW7A) /
   [Cafe Botanica](https://maps.app.goo.gl/wowa6vmJLsTnKLUH8) /
   [Opera Cafe](https://maps.app.goo.gl/NuhEgJh9pV8z37b6A) - all three by the Opera theatre and Skanderbeg Square
@@ -1062,6 +1075,7 @@ TODO:
 - [Mon Cheri - Bllok](https://maps.app.goo.gl/6WPZgxZt3FXXEjuh7) - if you're gonna try this coffee shop chain, try this
   one in the best area Blloku
 - [Mystic Restaurant 2](https://maps.app.goo.gl/7opZ6YiWM1ZiBNat8) - restaurant in Blloku
+- [EJA Restaurant](https://maps.app.goo.gl/grPhLs4ihneEQTcE9)
 - [Capital Restaurant Piceri](https://maps.app.goo.gl/e6r4YzDY3FaFkJDR6)
 - [Blùa Fish Restaurant](https://maps.app.goo.gl/bEsEY1uRQdNVbPzW9)
 - [Bistro Park Restaurant](https://maps.app.goo.gl/DSM2gFojjwDarrxD8)
