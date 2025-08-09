@@ -1033,9 +1033,11 @@ TODO:
 - [Gjeli i Pazarit](https://maps.app.goo.gl/D6y8sy5knNs1MoBM7) - the staff was useless and ended up giving away two
   tables so I left and went to Nalu instead, which was higher rated anyway
 - [The Burger](https://maps.app.goo.gl/8SjVfNdm8yC33eP68)
+- [Burger Heaven](https://maps.app.goo.gl/hEBaB7yCXkePbaxa6)
 - [L'INCONTRO Caffe & Bistrot](https://maps.app.goo.gl/WzZ7dNcCDiFgrgW7A) /
   [Cafe Botanica](https://maps.app.goo.gl/wowa6vmJLsTnKLUH8) /
   [Opera Cafe](https://maps.app.goo.gl/NuhEgJh9pV8z37b6A) - all three by the Opera theatre and Skanderbeg Square
+- [Capital Restaurant Piceri](https://maps.app.goo.gl/e6r4YzDY3FaFkJDR6)
 - [Nouvelle Vague Tirana](https://maps.app.goo.gl/6sBrB9zADb9s2y6f6) - highly recommended bar by a guy I met in Zadar,
   and has a very high rating
 
@@ -1059,8 +1061,9 @@ The south area is where the real action is.
   Food wise it's decent, but not the best like Nalu or Bati in Tirana.
   The mixed bruschetta are worth a try for only €3.50 since there are 8 of them of 4 varieties,
   but I preferred the 6 classic tomato, garlic and parmesan bruschetta at Bati above in Tirana.
-  The l'avenir salad was decent with orange and sultanas throughout which jazzed it up a bit, although relatively a bit
-  pricey at €7.50.
+  The l'avenir salad was decent with pieces of orange,
+  dried apricot and sultanas throughout (waitress said pomegranate but they must have run out),
+  which jazzed it up a bit, although relatively a bit pricey at €7.50.
   The grilled mixed seafood came on a big plate
   but wasn't a lot of food sitting in the middle, especially for €14, with a drizzle around the outside -
   3 squid heads, 2 prawns, 1 small octopus and another flat piece of squid,
