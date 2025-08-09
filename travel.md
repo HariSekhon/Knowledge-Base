@@ -1016,25 +1016,34 @@ I was lucky to get one.
   which was good but honestly too loud which makes it hard to talk,
   and we were sitting at the end of the garden nowhere near the band.
   They also charge 220 leks for live music per person on the bill too (just over €2)
+- [PMG Steakhouse & Burgers](https://maps.app.goo.gl/v1LhaaoMNZwhHV6G6) - fillet steak burger for €10 comes with a thin
+  fillet beef instead of a minced meat burger, was pretty good, comes with a few fries.
+  They have no juices unfortunately
 - [Yogurteria Tirana](https://maps.app.goo.gl/eJP8QttrjUnKoDv6A) /
   [Yogurteria Toptani](https://maps.app.goo.gl/1QNTwJGFuRs6k3mr5)- frozen yoghurt and ice cream chain.
   The second one is on the top floor of the Toptani Mall
+- [Old Bazaar](https://maps.app.goo.gl/KdhgSnjCqVmNEWRSA)
+- [Pyramid of Tirana](https://maps.app.goo.gl/1vLsae32cALGSmGY6) - modern monstrosity of a pyramid for tourists to get
+  views and pics of the city
+- [Toptani Mall](https://maps.app.goo.gl/tfcu7TzA3m6tb9ui7) - the main mall in this area, with some brand shops, a
+  supermarket on the -1 floor, 4th floor is mainly baby stuff, top floor has a Yogurteria
 - [Stoa Meeting Place](https://maps.app.goo.gl/5CY84b3Coy1S7LFR6) - bar which had live outdoor music of a talented guy
   on guitar singing classic pop-rock songs, part of a pub crawl
 - [Destil Creative Hub](https://maps.app.goo.gl/JHfvrEnNJVeqsc339) - recommended by a friend for food and service
   during the day, but at night it turned into a bar with karaoke - also part of a pub crawl
-- [Old Bazaar](https://maps.app.goo.gl/KdhgSnjCqVmNEWRSA)
-- [Toptani Mall](https://maps.app.goo.gl/tfcu7TzA3m6tb9ui7) - the main mall in this area, with some brand shops, a
-  supermarket on the -1 floor, 4th floor is mainly baby stuff, top floor has a Yogurteria
-- [Stoa meeting Place](https://maps.app.goo.gl/jLuis3eeGVy2wtRY8) - bar with live music
 
 TODO:
 
 - [Ice Cream Mango](https://maps.app.goo.gl/z2yYZNR9A3jYRE2C6)
+- [Il Paese 31](https://maps.app.goo.gl/sK3uAjG4LueuxKVAA) - looks good quality, but a bit quiet because it's on a side
+  street, take your date here to keep her to yourself for a quiet romantic evening
 - [KOPE Steak House](https://maps.app.goo.gl/JtPTtnxdjMhACvUUA) - by the same owner as the Bati restaurant trio above,
-  and just round the corner from Bati 1
+  and just round the corner from Bati 1.
+  Steak restaurant prices, which is to say, not cheap
 - [Jarna Traditional Restaurant](https://maps.app.goo.gl/qVvfQq6ktSNVtrH3A) - traditional Albanian restaurant but
   pricey, by the same owner as Bati restaurant trio above, and just round the corner from Bati 1
+- [Fresh Garden Restaurant](https://maps.app.goo.gl/6ZZXLBVUGKzYeuRZ6)
+- [Salt Tirana](https://maps.app.goo.gl/tYeAZPreCs26nthKA)
 - [Gjeli i Pazarit](https://maps.app.goo.gl/D6y8sy5knNs1MoBM7) - the staff was useless and ended up giving away two
   tables so I left and went to Nalu instead, which was higher rated anyway
 - [The Burger](https://maps.app.goo.gl/8SjVfNdm8yC33eP68)
@@ -1042,10 +1051,25 @@ TODO:
 - [L'INCONTRO Caffe & Bistrot](https://maps.app.goo.gl/WzZ7dNcCDiFgrgW7A) /
   [Cafe Botanica](https://maps.app.goo.gl/wowa6vmJLsTnKLUH8) /
   [Opera Cafe](https://maps.app.goo.gl/NuhEgJh9pV8z37b6A) - all three by the Opera theatre and Skanderbeg Square
-- [Capital Restaurant Piceri](https://maps.app.goo.gl/e6r4YzDY3FaFkJDR6)
-- [Blùa Fish Restaurant](https://maps.app.goo.gl/bEsEY1uRQdNVbPzW9)
+- ["Small and more" cocktail bar](https://maps.app.goo.gl/MthK65kGmXKB6FRc9) - popular cocktail bar in the upmarket
+  Blloku area, next to Nouvelle Vague and My Way - the busiest of the three of them on a Friday night
 - [Nouvelle Vague Tirana](https://maps.app.goo.gl/6sBrB9zADb9s2y6f6) - highly recommended bar by a guy I met in Zadar,
   and has a very high rating, on a small side street in the upmarket Blloku area
+- [My Way Bar](https://maps.app.goo.gl/StvwzcK8iDnJCFfe6) - next to Nouvelle Vague
+- [Florum](https://maps.app.goo.gl/d8NgP6RTboPeRDqX8) - popular bar on a side street I stumbled across
+- [Mulliri - ish Bllok](https://maps.app.goo.gl/MVZ1n3tKvgKvBzJL9) - coffee shop, better rated than Mon Cheri,
+  which is everywhere
+- [Mon Cheri - Bllok](https://maps.app.goo.gl/6WPZgxZt3FXXEjuh7) - if you're gonna try this coffee shop chain, try this
+  one in the best area Blloku
+- [Mystic Restaurant 2](https://maps.app.goo.gl/7opZ6YiWM1ZiBNat8) - restaurant in Blloku
+- [Capital Restaurant Piceri](https://maps.app.goo.gl/e6r4YzDY3FaFkJDR6)
+- [Blùa Fish Restaurant](https://maps.app.goo.gl/bEsEY1uRQdNVbPzW9)
+- [Bistro Park Restaurant](https://maps.app.goo.gl/DSM2gFojjwDarrxD8)
+- [Restorant Kashta](https://maps.app.goo.gl/VCAar9EWviV7kXTs8)
+- [Cedar-Bar,Club,Restaurant](https://maps.app.goo.gl/6h5dcEUNNb5JgqmL9)
+- [Vjosa Restaurant](https://maps.app.goo.gl/A7rZmY436yF1qgE16)
+- [Floga](https://maps.app.goo.gl/9jjBdBJE87srssMs6)
+- [Spaghetti Western](https://maps.app.goo.gl/cHEKLV7FP8Xt3g8fA)
 
 #### Durres
 
@@ -1067,7 +1091,7 @@ The south area is where the real action is.
   Food wise it's decent, but not the best like Nalu or Bati in Tirana.
   The mixed bruschetta are worth a try for only €3.50 since there are 8 of them of 4 varieties,
   but I preferred the 6 classic tomato, garlic and parmesan bruschetta at Bati above in Tirana.
-  The l'avenir salad was decent with pieces of orange,
+  The l'avenir salad was decent with a few almond flakes, pieces of orange,
   dried apricot and sultanas throughout (waitress said pomegranate but they must have run out),
   which jazzed it up a bit, although relatively a bit pricey at €7.50.
   The grilled mixed seafood came on a big plate
