@@ -1016,16 +1016,26 @@ I was lucky to get one.
   which was good but honestly too loud which makes it hard to talk,
   and we were sitting at the end of the garden nowhere near the band.
   They also charge 220 leks for live music per person on the bill too (just over €2)
+- [Yogurteria Tirana](https://maps.app.goo.gl/eJP8QttrjUnKoDv6A) /
+  [Yogurteria Toptani](https://maps.app.goo.gl/1QNTwJGFuRs6k3mr5)- frozen yoghurt and ice cream chain.
+  The second one is on the top floor of the Toptani Mall
 - [Stoa Meeting Place](https://maps.app.goo.gl/5CY84b3Coy1S7LFR6) - bar which had live outdoor music of a talented guy
   on guitar singing classic pop-rock songs, part of a pub crawl
 - [Destil Creative Hub](https://maps.app.goo.gl/JHfvrEnNJVeqsc339) - recommended by a friend for food and service
   during the day, but at night it turned into a bar with karaoke - also part of a pub crawl
+- [Old Bazaar](https://maps.app.goo.gl/KdhgSnjCqVmNEWRSA)
+- [Toptani Mall](https://maps.app.goo.gl/tfcu7TzA3m6tb9ui7) - the main mall in this area, with some brand shops, a
+  supermarket on the -1 floor, 4th floor is mainly baby stuff, top floor has a Yogurteria
 
 TODO:
 
+- [Ice Cream Mango](https://maps.app.goo.gl/z2yYZNR9A3jYRE2C6)
 - [Gjeli i Pazarit](https://maps.app.goo.gl/D6y8sy5knNs1MoBM7) - the staff was useless and ended up giving away two
   tables so I left and went to Nalu instead, which was higher rated anyway
 - [The Burger](https://maps.app.goo.gl/8SjVfNdm8yC33eP68)
+- [L'INCONTRO Caffe & Bistrot](https://maps.app.goo.gl/WzZ7dNcCDiFgrgW7A) /
+  [Cafe Botanica](https://maps.app.goo.gl/wowa6vmJLsTnKLUH8) /
+  [Opera Cafe](https://maps.app.goo.gl/NuhEgJh9pV8z37b6A) - all three by the Opera theatre and Skanderbeg Square
 - [Nouvelle Vague Tirana](https://maps.app.goo.gl/6sBrB9zADb9s2y6f6) - highly recommended bar by a guy I met in Zadar,
   and has a very high rating
 
