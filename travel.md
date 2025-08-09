@@ -966,7 +966,8 @@ I was lucky to get one.
   and large parmesan flakes to garnish the orange coating the octopus.
   The greek salad was twice the size I expected, like a main plate with large slabs of feta on top, easily enough for 2
   people to share as a side, I finished it but had to leave one slab of feta as I was feta'd out.
-  The milk baklava cake comes with a scoop of vanilla ice cream and is worth the fattening
+  The milk baklava cake comes with a scoop of vanilla ice cream and is worth the fattening.
+  This place deserves its 5 star rating
 - [Bati Restaurant 1](https://maps.app.goo.gl/4CS4bZ8q2qzMhMys7) /
   [Bati Restaurant 2](https://maps.app.goo.gl/jskFtGmr5dycse6v9) /
   [Bati Restaurant 3](https://maps.app.goo.gl/SaZ8M282q9p75Myk6) - excellent upmarket seafood restaurant at surprisingly
@@ -1022,6 +1023,9 @@ I was lucky to get one.
 
 TODO:
 
+- [Gjeli i Pazarit](https://maps.app.goo.gl/D6y8sy5knNs1MoBM7) - the staff was useless and ended up giving away two
+  tables so I left and went to Nalu instead, which was higher rated anyway
+- [The Burger](https://maps.app.goo.gl/8SjVfNdm8yC33eP68)
 - [Nouvelle Vague Tirana](https://maps.app.goo.gl/6sBrB9zADb9s2y6f6) - highly recommended bar by a guy I met in Zadar,
   and has a very high rating
 
@@ -1039,8 +1043,24 @@ make sure you prioritize the south which has the long stretch of beach and most 
 
 The south area is where the real action is.
 
-- [L'avenir](https://maps.app.goo.gl/daX7wtn33M72dHKj6) - popular restaurant with beachside outdoor seating as well as a
-  busy indoor seating area
+- [L'avenir](https://maps.app.goo.gl/daX7wtn33M72dHKj6) - popular restaurant with outdoor beachside seating on the main
+  strip to see everybody go by, as well as a busy indoor seating area with larger tables for groups.
+  Overall a decent venue with good rating.
+  Food wise it's decent, but not the best like Nalu or Bati in Tirana.
+  The mixed bruschetta are worth a try for only €3.50 since there are 8 of them of 4 varieties,
+  but I preferred the 6 classic tomato, garlic and parmesan bruschetta at Bati above in Tirana.
+  The l'avenir salad was decent with orange and sultanas throughout which jazzed it up a bit, although relatively a bit
+  pricey at €7.50.
+  The grilled mixed seafood came on a big plate
+  but wasn't a lot of food sitting in the middle, especially for €14, with a drizzle around the outside -
+  3 squid heads, 2 prawns, 1 small octopus and another flat piece of squid,
+  which 2 potato wedges, 2 carrot pieces, 1 broccoli and 1 cauliflower floret.
+  A bit too measured out and not generous enough.
+  The Rosse Lemonade is just Fentimans Rose Lemonade with a half passionfruit to make it look fancy,
+  a bit of a mark up at €4 compared to the other soft drinks at €1.80.
+  Wifi 55/57 Mbit/s
+
+TODO:
 
 #### Shkoder
 
