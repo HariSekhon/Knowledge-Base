@@ -964,7 +964,8 @@ I was lucky to get one.
   difference.
   The grilled octopus with confit cherry tomatoes and pepper cream was good with large tentacles as one would expect,
   and large parmesan flakes to garnish the orange coating the octopus.
-  The greek salad was big, enough for 2 people to share as a side.
+  The greek salad was twice the size I expected, like a main plate with large slabs of feta on top, easily enough for 2
+  people to share as a side, I finished it but had to leave one slab of feta as I was feta'd out.
   The milk baklava cake comes with a scoop of vanilla ice cream and is worth the fattening
 - [Bati Restaurant 1](https://maps.app.goo.gl/4CS4bZ8q2qzMhMys7) /
   [Bati Restaurant 2](https://maps.app.goo.gl/jskFtGmr5dycse6v9) /
