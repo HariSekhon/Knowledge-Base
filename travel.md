@@ -957,7 +957,7 @@ I was lucky to get one.
 - [Blloku](https://maps.app.goo.gl/h6vq5NJFVdBU7Cip6) - upmarket district with night life and boutique shopping, lots of
   Mercedes and Porches there
 - [Nalu](https://maps.app.goo.gl/EjXzGeANQ7SQ2g6aA) - excellent restaurant slightly off the beaten track, great food,
-  locals who know eat here. Prices are moderate, but worth it.
+  locals who want to eat well, eat here. Prices are moderate, but worth it.
   The shrimp taco is very good with tempura shrimp, tomato, avocado, red onion and sweet chili - and at only €2.50 for
   each one, you have to try at least one.
   The linguine seafood is more expensive than at Bati, I didn't it on this occasion to compare.
