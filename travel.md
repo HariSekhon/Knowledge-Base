@@ -960,9 +960,10 @@ I was lucky to get one.
   locals who want to eat well, eat here. Prices are moderate, but worth it.
   The shrimp taco is very good with tempura shrimp, tomato, avocado, red onion and sweet chili - and at only €2.50 for
   each one, you have to try at least one.
-  The linguine seafood is more expensive than at Bati, I didn't it on this occasion to compare.
-  The grilled octopus with confit cherry tomatoes and pepper cream was good and as one would expect,
-  with large parmesan flakes to garnish it.
+  The linguine seafood is more expensive than at Bati, I didn't try it on this occasion to compare if it's worth the
+  difference.
+  The grilled octopus with confit cherry tomatoes and pepper cream was good with large tentacles as one would expect,
+  and large parmesan flakes to garnish the orange coating the octopus.
   The greek salad was big, enough for 2 people to share as a side.
   The milk baklava cake comes with a scoop of vanilla ice cream and is worth the fattening
 - [Bati Restaurant 1](https://maps.app.goo.gl/4CS4bZ8q2qzMhMys7) /
