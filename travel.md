@@ -1130,11 +1130,12 @@ The south area is where the real action is.
   The Rosse Lemonade is just Fentimans Rose Lemonade with a half passionfruit to make it look fancy,
   a bit of a mark up at €4 compared to the other soft drinks at €1.80.
   Wifi 55/57 Mbit/s
+- [Yogurteria Durrës](https://maps.app.goo.gl/zdHpqS3aarWcYGYt7) - frozen yoghurt chain, cool relief on a hot seaside
+  day. The frozen yoghurt is very tasty, shame they're not more generous with toppings
 
 TODO:
 
-- [Yogurteria Durrës](https://maps.app.goo.gl/zdHpqS3aarWcYGYt7) - frozen yoghurt chain, cool relief on a hot seaside
-  day. The frozen yoghurt is very tasty, shame they're not more generous with toppings
+- [Meison Bistro](https://maps.app.goo.gl/zgZM8fu8SjKhYjeL7)
 
 #### Shkoder
 
