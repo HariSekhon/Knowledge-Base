@@ -1067,6 +1067,7 @@ so this is a long TODO list of ones I still need to try.
 - [Salt Tirana](https://maps.app.goo.gl/tYeAZPreCs26nthKA)
 - [Gjeli i Pazarit](https://maps.app.goo.gl/D6y8sy5knNs1MoBM7) - the staff was useless and ended up giving away two
   tables so I left and went to Nalu instead, which was higher rated anyway
+- [Fish restaurant VILLA 78](https://maps.app.goo.gl/qdZdARA5NcRt3Ahz8)
 - [The Burger](https://maps.app.goo.gl/8SjVfNdm8yC33eP68) - cheaper than PMG burger above
 - [Burger Heaven](https://maps.app.goo.gl/hEBaB7yCXkePbaxa6) - cheaper than PMG burger above
 - [L'INCONTRO Caffe & Bistrot](https://maps.app.goo.gl/WzZ7dNcCDiFgrgW7A) /
