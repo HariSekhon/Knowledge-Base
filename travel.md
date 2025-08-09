@@ -1024,7 +1024,8 @@ I was lucky to get one.
   [Yogurteria Toptani](https://maps.app.goo.gl/1QNTwJGFuRs6k3mr5) /
   [Yogurteria Tirana, Bllok](https://maps.app.goo.gl/Ckpi33kTVa5GJugL8) - frozen yoghurt and ice cream chain.
   The first and second ones are on the ground and top floor of the Toptani Mall,
-  the third is in the upmarket Blloku area
+  the third is in the upmarket Blloku area.
+  The frozen yoghurt is very tasty, shame they're not more generous with toppings
 - [Old Bazaar](https://maps.app.goo.gl/KdhgSnjCqVmNEWRSA)
 - [Pyramid of Tirana](https://maps.app.goo.gl/1vLsae32cALGSmGY6) - modern monstrosity of a pyramid for tourists to get
   views and pics of the city
@@ -1131,6 +1132,9 @@ The south area is where the real action is.
   Wifi 55/57 Mbit/s
 
 TODO:
+
+- [Yogurteria Durrës](https://maps.app.goo.gl/zdHpqS3aarWcYGYt7) - frozen yoghurt chain, cool relief on a hot seaside
+  day. The frozen yoghurt is very tasty, shame they're not more generous with toppings
 
 #### Shkoder
 
