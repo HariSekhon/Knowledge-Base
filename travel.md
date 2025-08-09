@@ -955,7 +955,7 @@ I was lucky to get one.
 [Trip'n'Hostel](https://maps.app.goo.gl/wPZMw8J1ayfejN2C6) seemed to be more popular among those who didn't need parking.
 
 - [Blloku](https://maps.app.goo.gl/h6vq5NJFVdBU7Cip6) - upmarket district with night life and boutique shopping, lots of
-  Mercedes and Porches there
+  Mercedes, Range Rovers and Porches there
 - [Nalu](https://maps.app.goo.gl/EjXzGeANQ7SQ2g6aA) - excellent restaurant slightly off the beaten track, great food,
   locals who want to eat well, eat here. Prices are moderate, but worth it.
   The shrimp taco is very good with tempura shrimp, tomato, avocado, red onion and sweet chili - and at only €2.50 for
@@ -1026,10 +1026,15 @@ I was lucky to get one.
 - [Old Bazaar](https://maps.app.goo.gl/KdhgSnjCqVmNEWRSA)
 - [Toptani Mall](https://maps.app.goo.gl/tfcu7TzA3m6tb9ui7) - the main mall in this area, with some brand shops, a
   supermarket on the -1 floor, 4th floor is mainly baby stuff, top floor has a Yogurteria
+- [Stoa meeting Place](https://maps.app.goo.gl/jLuis3eeGVy2wtRY8) - bar with live music
 
 TODO:
 
 - [Ice Cream Mango](https://maps.app.goo.gl/z2yYZNR9A3jYRE2C6)
+- [KOPE Steak House](https://maps.app.goo.gl/JtPTtnxdjMhACvUUA) - by the same owner as the Bati restaurant trio above,
+  and just round the corner from Bati 1
+- [Jarna Traditional Restaurant](https://maps.app.goo.gl/qVvfQq6ktSNVtrH3A) - traditional Albanian restaurant but
+  pricey, by the same owner as Bati restaurant trio above, and just round the corner from Bati 1
 - [Gjeli i Pazarit](https://maps.app.goo.gl/D6y8sy5knNs1MoBM7) - the staff was useless and ended up giving away two
   tables so I left and went to Nalu instead, which was higher rated anyway
 - [The Burger](https://maps.app.goo.gl/8SjVfNdm8yC33eP68)
@@ -1038,8 +1043,9 @@ TODO:
   [Cafe Botanica](https://maps.app.goo.gl/wowa6vmJLsTnKLUH8) /
   [Opera Cafe](https://maps.app.goo.gl/NuhEgJh9pV8z37b6A) - all three by the Opera theatre and Skanderbeg Square
 - [Capital Restaurant Piceri](https://maps.app.goo.gl/e6r4YzDY3FaFkJDR6)
+- [Blùa Fish Restaurant](https://maps.app.goo.gl/bEsEY1uRQdNVbPzW9)
 - [Nouvelle Vague Tirana](https://maps.app.goo.gl/6sBrB9zADb9s2y6f6) - highly recommended bar by a guy I met in Zadar,
-  and has a very high rating
+  and has a very high rating, on a small side street in the upmarket Blloku area
 
 #### Durres
 
