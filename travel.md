@@ -956,6 +956,15 @@ I was lucky to get one.
 
 - [Blloku](https://maps.app.goo.gl/h6vq5NJFVdBU7Cip6) - upmarket district with night life and boutique shopping, lots of
   Mercedes and Porches there
+- [Nalu](https://maps.app.goo.gl/EjXzGeANQ7SQ2g6aA) - excellent restaurant slightly off the beaten track, great food,
+  locals who know eat here. Prices are moderate, but worth it.
+  The shrimp taco is very good with tempura shrimp, tomato, avocado, red onion and sweet chili - and at only €2.50 for
+  each one, you have to try at least one.
+  The linguine seafood is more expensive than at Bati, I didn't it on this occasion to compare.
+  The grilled octopus with confit cherry tomatoes and pepper cream was good and as one would expect,
+  with large parmesan flakes to garnish it.
+  The greek salad was big, enough for 2 people to share as a side.
+  The milk baklava cake comes with a scoop of vanilla ice cream and is worth the fattening
 - [Bati Restaurant 1](https://maps.app.goo.gl/4CS4bZ8q2qzMhMys7) /
   [Bati Restaurant 2](https://maps.app.goo.gl/jskFtGmr5dycse6v9) /
   [Bati Restaurant 3](https://maps.app.goo.gl/SaZ8M282q9p75Myk6) - excellent upmarket seafood restaurant at surprisingly
@@ -1013,6 +1022,23 @@ TODO:
 
 - [Nouvelle Vague Tirana](https://maps.app.goo.gl/6sBrB9zADb9s2y6f6) - highly recommended bar by a guy I met in Zadar,
   and has a very high rating
+
+#### Durres
+
+Good seaside town -
+unfortunately it's split into two parts by the large docks and industrial cargo containers area in the middle.
+
+The area north of the docks is not that big, you can cover it in an hour.
+
+The area south of the docks is much larger as it runs for miles along the beach.
+
+If you only have time for one area,
+make sure you prioritize the south which has the long stretch of beach and most of the best restaurants.
+
+The south area is where the real action is.
+
+- [L'avenir](https://maps.app.goo.gl/daX7wtn33M72dHKj6) - popular restaurant with beachside outdoor seating as well as a
+  busy indoor seating area
 
 #### Shkoder
 
