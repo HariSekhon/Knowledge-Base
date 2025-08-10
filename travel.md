@@ -4877,25 +4877,26 @@ and nobody can agree on a definitive top list, but here is a good start:
 
 More upmarket (expensive) restaurants:
 
+- [Dinner by Heston Blumenthal](https://maps.app.goo.gl/dpiPUpg9QDXEt47VA) - creative menu, there is no other
+- [The Ivy](https://ivycollection.com/) - I took my ex-girlfriend to the one in Richmond, it was good.
+  The scallops starter with pea puree stood out in my memory. Mains instead steaks, burgers and seafood
 - [Yauatcha Soho](https://maps.app.goo.gl/P12FCb2DTgPei6Xh8) - upmarket Chinese with dim sum, the red fez desserts with
   edible gold on top were as tasty as there were impressive looking in the blue glass windows
 - [Hakkasan](https://maps.app.goo.gl/J88xeebe9y5FUo3n7) - upmarket Chinese with dim sum and stylish decor
 - [Gaucho](https://gauchorestaurants.com/) - upmarket Argentinian steak restaurant chain - very good - I recommend you get the Fillet
   Mignon medium rare (it's the most tender, leanest, highest quality steak).
   It still doesn't have desserts after all these years, I have no idea why
-- [Buenos Aires Argentinian Steakhouse](https://www.barestaurant.com/) - Gaucho is better
 - [Sticks n Sushi](https://www.sticksnsushi.com/gb/en/) - upmarket (expensive) sushi restaurant chain
 - [Salt Yard](https://maps.app.goo.gl/uKhJrjkdyznutkQw5) - upmarket tapas, not cheap, I took my ex-girlfriend here when
   we were in the first few months of dating
 - [Gordan Ramsey](https://www.gordonramsayrestaurants.com/restaurants-and-bars/) - the famous celebrity chef's
   restaurants are usually good, and while not cheap, not the most expensive in London either
-- [Hawksmoor](https://thehawksmoor.com/) - rate steakhouse, I didn't think it was that special compared to the more
-  unique restaurants above
 - [Sake No Hana](https://maps.app.goo.gl/hcr4okhpzNuoRKGs6) - sushi & cocktails - good but expensive. I took my
   ex-girlfriend here for our second date and blew around £300. Closed down now unfortunately
+- [Hawksmoor](https://thehawksmoor.com/) - well rated steakhouse, I didn't think it was that special compared to the
+  more unique restaurants above
+- [Buenos Aires Argentinian Steakhouse](https://www.barestaurant.com/) - Gaucho is better
 - [Julie's](https://maps.app.goo.gl/EZBf4R2S28GyGvdAA) - upmarket french restaurant at Holland Park
-- [The Ivy](https://ivycollection.com/) - I took my ex-girlfriend to the one in Richmond, it was good.
-  The scallops starter with pea puree stood out in my memory. Mains instead steaks, burgers and seafood
 
 See also:
 [Michelin restaurant guide - London.](https://guide.michelin.com/en/gb/greater-london/london/restaurants?sort=distance)
