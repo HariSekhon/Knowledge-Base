@@ -4907,6 +4907,10 @@ TODO:
   but I never got round to going. Highly rated but expensive
 - [Nobu London (Old Park Lane)](https://maps.app.goo.gl/ASnEAirLSpzotzyE6) - I never went because my first exe hated
   them for selling endangered tuna
+- [The Clove Club](https://maps.app.goo.gl/mi6hUwqfkkifDnqj8) - modern British
+- [Fallow](https://maps.app.goo.gl/Q5vKLsQKkTSmB9NR7) - modern British
+- [OMA](https://maps.app.goo.gl/EKaNqoC77BX5o7Ne6) - Greek
+- [Govinda's Vegan & Vegetarian Restaurant](https://maps.app.goo.gl/CYTRHdLLXUxRr1fQ9)
 - [Barrafina](https://maps.app.goo.gl/hUAAt93zJUTR1aFXA) - upmarket (expensive) spanish tapas
 
 Not Recommended:
@@ -4925,8 +4929,8 @@ Not Recommended:
   Not worth the damage to your health or your wallet
 
 A couple of my other favourite independent places like [Ichi Ricki](https://maps.app.goo.gl/3zM4cY9M4fPEZYbM9),
-Po Cha korean bibimbap at Tottenham Court Road, Ping Pong upmarket dim sum chain, and Sake No Hana are permanently
-closed down. Damn London rent prices, the big chains are taking over.
+Po Cha korean bibimbap at Tottenham Court Road, Ping Pong upmarket dim sum chain, are permanently
+closed down, as are other notables Shaka Zulu and Sake No Hana. Damn London rent prices, the big chains are taking over.
 
 ### USA
 
