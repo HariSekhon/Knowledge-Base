@@ -4690,7 +4690,7 @@ local bank or cash payment.
 See [The UK Decline - What I Learnt on UK Tour 2024](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b) article for a tour of pictures of why you will not want to
 visit most of the UK today.
 
-#### Best Parts of the UK
+#### Best Areas in the UK
 
 The best remaining parts of the UK (nearly all in the South of England):
 
@@ -4737,7 +4737,7 @@ The best remaining parts of the UK (nearly all in the South of England):
 
 Most of the areas apart from Central London are small enough you can cover their key central parts in 1-2 days each.
 
-#### Best of London
+#### Best Areas in London
 
 Central London you could easily spend over 2 weeks to just see the highlights, eg.
 a day at each of these:
@@ -4764,6 +4764,85 @@ You will not be able to hit all the good areas with good restaurants in 2 weeks 
 there are other areas like the City financial district around Bank of England through to Canary Wharf,
 as well as other zone 2-5 areas like Earl's Court, Fulham, Putney, Barnes, Hammersmith, Wimbledon, Twickenham,
 Teddington, Ealing Broadway, South Woodford, Wanstead, Bromley, Beckenham, Chessington theme park etc.
+
+#### Best Restaurants in London
+
+London is easily the restaurant capital of the world,
+not even California can boast the variety and quality of London restaurants, nor can any other city on this list.
+
+There are too many great restaurants in London to list from 2 decades of memory, but here is a good start:
+
+- [Taro (Soho)](https://maps.app.goo.gl/xbh6RB5YUFj6njTi9) - foodie place for Japanese noodles and sushi
+- [Yalla Yalla](https://maps.app.goo.gl/WK3RLN6t9pCkUGkN6) - a favourite Lebanese of mine in Soho
+- [Hiba Street Food](https://maps.app.goo.gl/7wwTZAgRghbvPNv27) - good Lebanese food
+- [Wagamama](https://www.wagamama.com/) - modern Japanese chain,
+  soup noodle bowls, pan fried noodles, and some rice based dishes.
+  Top picks here:
+  - Starters:
+    - Chilli Squid - coated in a light batter with a lovely sweet chilli dip - these are almost the same price as mains
+      so relatively expensive yet everybody keeps ordering it's probably their best & most popular starter
+    - Ebi Katsu - prawns in breadcrumbs with a great chill & garlic dip - be sure to ask for extra lime and drown the
+      breadcrumbs in lime individually just before dipping them in the chilli and eating them for maximum impact!
+    - Lollipop Prawn Kushyaki - marinated in lemongrass & chill - drown them in lime juice from the caramelized half lime
+    - Chicken Yakitori starter
+    - Gyoza are ok but not elite - the best ones are the crispy fried with duck filling and sweet cherry hoisin dipping
+      sauce, followed by the steam chicken filled with chilli, soy & sesame dipping sauce.
+      I haven't tried the new beef & kimchi ones yet
+  - Kids love the teriyaki chicken kids bowl (ask for it with udon noodles it's better)
+- [GBK - Gourmet Burger Kitchen](https://www.gbk.co.uk/) - good selection of big juicy burgers, good chunky fries, and
+  milkshakes.
+  I used to dine in the Soho branch weekly with my regular group of my foodie colleagues,
+  and later when I worked at a less social investment bank I still got Kiwi Burger takeaways from here regularly.
+  The menu changes slightly periodically, with occasional specials.
+  The Habanero Burger used to be elite before they switched to overly sweet cost optimized Habanero Jam.
+  The Kiwi Burger was another favourite with pineapple and eggs toppings, but they don't do it any more either.
+  Please tell GBK to bring them back!
+- [Patty & Bun](https://www.pattyandbun.co.uk/) - one of my favourite burger chains, I used to get a takeaway from the
+  Tottenham Court Road one every other day when I worked in the area.
+  I loved their chips & dip, as well as their 3 main burgers, Ari Gold, Smokey Robinson and Jose Jose Chilli Burger
+- [Honest Burgers](https://www.honestburgers.co.uk/) - another good burger chain.
+  The chilli burger is my favourite here. I've been to the St Albans one outside London in the home county too
+- [Wahaca](https://www.wahaca.co.uk/) - modern Mexican chain, I used to go to the Soho branch weekly with my colleagues
+- [Busaba](https://www.busaba.com/) - Thai chain, nice decor and food, portions and drinks not too big but nice
+- [Burger & Lobster](https://www.burgerandlobster.com/) - their original gimmick was they used to price both their
+  lobster and their burger at a flat £20, making it an expensive burger or an affordable lobster.
+  Unfortunately, the lobster is now £40
+- [Flat Iron](https://flatironsteak.co.uk/) - affordable steak chain, good for the price
+- [Nandos](https://www.nandos.co.uk/) - everybody loves Nandos peri-peri chicken chain,
+  so like Wagamama, it's everywhere.
+  Not as affordable as it used to be, but still not as expensive as some other places
+- [Roosters Peri Peri Chicken](https://www.roosterspiripiri.com/) - affordable peri peri chicken chain
+- [Pho](https://www.phocafe.co.uk/) - vietnamese noodle soup chain, like the Vietnamese Wagamama
+- [Franco Manca](https://www.francomanca.co.uk/) - I'm not big on this chain, but some people might like it
+
+More expensive restaurants:
+
+- [Yauatcha Soho](https://maps.app.goo.gl/P12FCb2DTgPei6Xh8) - upmarket chinese (expensive), the red fez desserts with
+  edible gold on top were great
+- [Gaucho](https://gauchorestaurants.com/) - upmarket Argentinian steak restaurant chain - very good - I recommend you get the Fillet
+  Mignon medium rare (it's the most tender, leanest, highest quality steak).
+  It still doesn't have desserts after all these years, I have no idea why
+- [Sticks n Sushi](https://www.sticksnsushi.com/gb/en/) - upmarket (expensive) sushi restaurant chain
+- [Salt Yard](https://maps.app.goo.gl/uKhJrjkdyznutkQw5) - upmarket tapas, not cheap, I took my ex-girlfriend here when
+  we were in the first few months of dating
+- [Gordan Ramsey](https://www.gordonramsayrestaurants.com/restaurants-and-bars/) - the famous celebrity chef's
+  restaurants are usually good, and while not cheap, not the most expensive in London either
+
+TODO:
+
+- [SushiSamba](https://maps.app.goo.gl/XaZpQ5ezdu7E9nrv9) - friends & colleagues were telling me about this for years
+  but I never got round to going.
+  Highly rated but expensive
+
+Not Recommended:
+
+- [The Real Greek](https://www.therealgreek.com/) - the blandest least authentic Greek food you'll ever eat. Don't waste
+  your money on this mediocrity
+- [Bill's](https://bills-website.co.uk/) - mediocre burgers, don't go unless you have no other choice
+
+A couple of my other favourite independent places like [Ichi Ricki](https://maps.app.goo.gl/3zM4cY9M4fPEZYbM9) and Po Cha
+(Soho) are permanently closed down.
+Damn London rent prices, the big chains are taking over.
 
 ### USA
 
