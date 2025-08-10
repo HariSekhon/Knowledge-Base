@@ -4892,6 +4892,9 @@ More upmarket (expensive) restaurants:
 - [The Ivy](https://ivycollection.com/) - I took my ex-girlfriend to the one in Richmond, it was good.
   The scallops starter with pea puree stood out in my memory. Mains instead steaks, burgers and seafood
 
+See also:
+[Michelin restaurant guide - London.](https://guide.michelin.com/en/gb/greater-london/london/restaurants?sort=distance)
+
 TODO:
 
 - [The Original Ivy, West End](https://maps.app.goo.gl/cMGmGuMNARRFaTry9) - I've been to the branches but not this
