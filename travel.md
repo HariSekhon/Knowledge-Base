@@ -4852,6 +4852,7 @@ and nobody can agree on a definitive top list, but here is a good start:
   lobster and their burger at a flat £20, making it an expensive burger or an affordable lobster.
   Unfortunately, the lobster is now £40
 - [Flat Iron](https://flatironsteak.co.uk/) - affordable steak chain, good for the price
+- [Ippudo](https://www.ippudo.co.uk/) - Japanese
 - [Nandos](https://www.nandos.co.uk/) - everybody loves Nandos peri-peri chicken chain,
   so like Wagamama, it's everywhere.
   Not as affordable as it used to be, but still not as expensive as some other places.
@@ -4904,6 +4905,7 @@ TODO:
 - [The Original Ivy, West End](https://maps.app.goo.gl/cMGmGuMNARRFaTry9) - I've been to the branches but not this
   original venue
 - [Fig & Walnut Kitchen](https://maps.app.goo.gl/2SpF2XRoJPS13AEL7)
+- [Mine Mane](https://maps.app.goo.gl/h5PvQnuSFWiC7YBN9) - Greek
 - [SushiSamba](https://maps.app.goo.gl/XaZpQ5ezdu7E9nrv9) - friends & colleagues were telling me about this for years
   but I never got round to going. Highly rated but expensive
 - [Nobu London (Old Park Lane)](https://maps.app.goo.gl/ASnEAirLSpzotzyE6) - I never went because my first exe hated
@@ -4911,6 +4913,7 @@ TODO:
 - [The Clove Club](https://maps.app.goo.gl/mi6hUwqfkkifDnqj8) - modern British
 - [Fallow](https://maps.app.goo.gl/Q5vKLsQKkTSmB9NR7) - modern British
 - [OMA](https://maps.app.goo.gl/EKaNqoC77BX5o7Ne6) - Greek
+- [Nostimo Mediterranean Gastronomy](https://maps.app.goo.gl/wmPzKGdA1TtJG5Pq5) - Greek
 - [Govinda's Vegan & Vegetarian Restaurant](https://maps.app.goo.gl/CYTRHdLLXUxRr1fQ9)
 - [Barrafina](https://maps.app.goo.gl/hUAAt93zJUTR1aFXA) - upmarket (expensive) spanish tapas
 
