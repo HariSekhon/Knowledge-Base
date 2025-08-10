@@ -4869,7 +4869,6 @@ There are too many great restaurants in London to list from 2 decades of memory,
 - [Rosas Thai](https://rosasthai.com/) - Thai restaurant chain, passable, but independent Thai places are better for
   both food and price / value for money though
 - [Pizza Express](https://www.pizzaexpress.com/) - good quality upmarket pizza restaurant
-- [Julie's](https://maps.app.goo.gl/EZBf4R2S28GyGvdAA) - upmarket french restaurant at Holland Park
 
 More upmarket (expensive) restaurants:
 
@@ -4889,6 +4888,7 @@ More upmarket (expensive) restaurants:
   unique restaurants above
 - [Sake No Hana](https://maps.app.goo.gl/hcr4okhpzNuoRKGs6) - sushi & cocktails - good but expensive. I took my
   ex-girlfriend here for our second date and blew around £300. Closed down now unfortunately
+- [Julie's](https://maps.app.goo.gl/EZBf4R2S28GyGvdAA) - upmarket french restaurant at Holland Park
 - [The Ivy](https://ivycollection.com/) - I took my ex-girlfriend to the one in Richmond, it was good.
   The scallops starter with pea puree stood out in my memory. Mains instead steaks, burgers and seafood
 
