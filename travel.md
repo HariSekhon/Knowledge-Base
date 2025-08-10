@@ -4848,7 +4848,8 @@ There are too many great restaurants in London to list from 2 decades of memory,
 - [Nandos](https://www.nandos.co.uk/) - everybody loves Nandos peri-peri chicken chain,
   so like Wagamama, it's everywhere.
   Not as affordable as it used to be, but still not as expensive as some other places
-- [Roosters Peri Peri Chicken](https://www.roosterspiripiri.com/) - affordable peri peri chicken chain
+- [Roosters Peri Peri Chicken](https://www.roosterspiripiri.com/) - affordable peri peri chicken chain.
+  Chicken wrap with fries and rice were my picks here
 - [Pho](https://www.phocafe.co.uk/) - vietnamese noodle soup chain, like the Vietnamese Wagamama. Summer rolls and Pho
   soup are the obvious picks here
 - [Franco Manca](https://www.francomanca.co.uk/) - I'm not big on this chain, but some people might like it
