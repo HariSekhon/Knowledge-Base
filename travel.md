@@ -4776,7 +4776,7 @@ There are too many great restaurants in London to list from 2 decades of memory,
 - [Yalla Yalla](https://maps.app.goo.gl/WK3RLN6t9pCkUGkN6) - a favourite Lebanese of mine in Soho
 - [Hiba Street Food](https://maps.app.goo.gl/7wwTZAgRghbvPNv27) - good Lebanese food
 - [Wagamama](https://www.wagamama.com/) - modern Japanese chain,
-  soup noodle bowls, pan fried noodles, and some rice based dishes.
+  soup noodle bowls, pan fried noodles, and some rice based dishes with fresh squeezed juices.
   Top picks here:
   - Starters:
     - Chilli Squid - coated in a light batter with a lovely sweet chilli dip - these are almost the same price as mains
@@ -4788,7 +4788,32 @@ There are too many great restaurants in London to list from 2 decades of memory,
     - Gyoza are ok but not elite - the best ones are the crispy fried with duck filling and sweet cherry hoisin dipping
       sauce, followed by the steam chicken filled with chilli, soy & sesame dipping sauce.
       I haven't tried the new beef & kimchi ones yet
-  - Kids love the teriyaki chicken kids bowl (ask for it with udon noodles it's better)
+  - Mains:
+    - Chicken Katsu Curry is a mild non-spicy sauce coating breadcrumbed chicken with white rice - easily one of the
+      most popular dishes
+    - Chill Chicken Ramen (soup bowl) - easily one of the most popular dishes - ask for it with Udon noodles instead of
+      Ramen, they're better, and ask for extra lime for it.
+      It is much better than the Grilled Chicken Ramen.
+      There is also a beef variation but it's more expensive
+    - Firecracker Prawn / Chicken - one of my favourite ever picks, but be warned it is seriously spicy!
+      The prawn variation is better because the chicken requires more chewing so your mouth will get more burnt from the
+      spice. Pro tip: ask for extra lime and drown it in lime to get maximum tastebud activation of spicy and lime
+    - Prawn / Chicken Raisukaree Curry - mild coconut curry with rice and mangetout
+    - Yaki Udon - pan fried udon noodles with chicken and prawns - simple but effective
+    - Duck Donburi - teriyaki sauce coated shredded duck on white rice, not one of their bigger dishes, but tasty, so
+      I used to order this when less hungry
+    - Chicken & Prawn Pad Thai - for the less adventurous who just want some basic noodle dish - kids love this one too
+    - Tantanmen Beef Brisket Ramen - korean bbq beef, it's ok, but mainly because you've already eaten the above ones
+      too much and need something new becaues the kids make you take them here every weekend
+  - Kids love the mini chicken yaki soba noodle bowl (ask for it with udon noodles instead it's better)
+  - Drinks:
+    - I like the Positive and High Five juices the most
+  - Desserts:
+    - Coconut Reika Ice Cream - 3 scoops of coconut ice cream with coconut flakes and passionfruit sauce, good to share
+      in a couple
+    - Banana Katsu - tastes great but it's two small pieces of banana and one scoop of vanilla ice cream - I wish it was
+      bigger because I could eat 2-3 of these
+    - White Chocolate & Ginger Cheesecake - very decent cheesecake
 - [GBK - Gourmet Burger Kitchen](https://www.gbk.co.uk/) - good selection of big juicy burgers, good chunky fries, and
   milkshakes.
   I used to dine in the Soho branch weekly with my regular group of my foodie colleagues,
@@ -4797,6 +4822,9 @@ There are too many great restaurants in London to list from 2 decades of memory,
   The Habanero Burger used to be elite before they switched to overly sweet cost optimized Habanero Jam.
   The Kiwi Burger was another favourite with pineapple and eggs toppings, but they don't do it any more either.
   Please tell GBK to bring them back!
+  The Taxi Driver, Texan, Rocketman or Gravy Train would be my remaining picks,
+  or just try the basic Classic if not feeling adventurous.
+  I'm not as keen on the chicken burgers here
 - [Patty & Bun](https://www.pattyandbun.co.uk/) - one of my favourite burger chains, I used to get a takeaway from the
   Tottenham Court Road one every other day when I worked in the area.
   I loved their chips & dip, as well as their 3 main burgers, Ari Gold, Smokey Robinson and Jose Jose Chilli Burger
