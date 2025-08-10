@@ -4886,7 +4886,7 @@ More upmarket (expensive) restaurants:
   unique restaurants above
 - [Sake No Hana](https://maps.app.goo.gl/hcr4okhpzNuoRKGs6) - sushi & cocktails - good but expensive. I took my
   ex-girlfriend here for our second date and blew around £300. Closed down now unfortunately
-- [The Ivy](https://ivycollection.com/) - I took my then girlfriend to the one in Richmond, it was good.
+- [The Ivy](https://ivycollection.com/) - I took my ex-girlfriend to the one in Richmond, it was good.
   The scallops starter with pea puree stood out in my memory. Mains instead steaks, burgers and seafood
 
 TODO:
