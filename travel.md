@@ -4877,7 +4877,7 @@ and nobody can agree on a definitive top list, but here is a good start:
 
 More upmarket (expensive) restaurants:
 
-- [Dinner by Heston Blumenthal](https://maps.app.goo.gl/dpiPUpg9QDXEt47VA) - creative menu, there is no other
+- [Dinner by Heston Blumenthal](https://maps.app.goo.gl/dpiPUpg9QDXEt47VA) - creative menu, unique
 - [The Ivy](https://ivycollection.com/) - I took my ex-girlfriend to the one in Richmond, it was good.
   The scallops starter with pea puree stood out in my memory. Mains instead steaks, burgers and seafood
 - [Yauatcha Soho](https://maps.app.goo.gl/P12FCb2DTgPei6Xh8) - upmarket Chinese with dim sum, the red fez desserts with
