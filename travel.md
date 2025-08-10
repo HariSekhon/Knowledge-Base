@@ -4847,7 +4847,13 @@ There are too many great restaurants in London to list from 2 decades of memory,
 - [Flat Iron](https://flatironsteak.co.uk/) - affordable steak chain, good for the price
 - [Nandos](https://www.nandos.co.uk/) - everybody loves Nandos peri-peri chicken chain,
   so like Wagamama, it's everywhere.
-  Not as affordable as it used to be, but still not as expensive as some other places
+  Not as affordable as it used to be, but still not as expensive as some other places.
+  The mixed olive starter is a popular choice here.
+  The usual pick for mains is 1/2 chicken (or 1/4 chicken if not that hungry) with 2 sides of chips and rice.
+  Drown the rice in Medium / Garlic / Wild Herb sauces, eat it,
+  then use the rice bowl to pour the sauces in to heavily dunk each individual chip in for maximum flavour impact!
+  For the experienced you can upgrade to Hot or XXX Hot but do not do this as a beginner
+  because nearly all the sauces are more spicy than you would have at another restaurant
 - [Roosters Peri Peri Chicken](https://www.roosterspiripiri.com/) - affordable peri peri chicken chain.
   Chicken wrap with fries and rice were my picks here
 - [Pho](https://www.phocafe.co.uk/) - vietnamese noodle soup chain, like the Vietnamese Wagamama. Summer rolls and Pho
