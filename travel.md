@@ -4891,7 +4891,8 @@ More upmarket (expensive) restaurants:
 
 TODO:
 
-- [The Original Ivy, West End](https://maps.app.goo.gl/cMGmGuMNARRFaTry9)
+- [The Original Ivy, West End](https://maps.app.goo.gl/cMGmGuMNARRFaTry9) - I've been to the branches but not this
+  original venue
 - [SushiSamba](https://maps.app.goo.gl/XaZpQ5ezdu7E9nrv9) - friends & colleagues were telling me about this for years
   but I never got round to going. Highly rated but expensive
 - [Nobu London (Old Park Lane)](https://maps.app.goo.gl/ASnEAirLSpzotzyE6) - I never went because my first exe hated
