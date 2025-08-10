@@ -4904,8 +4904,8 @@ TODO:
 
 Not Recommended:
 
-- [The Real Greek](https://www.therealgreek.com/) - the blandest least authentic Greek food you'll ever eat. Don't waste
-  your money on this mediocrity
+- [The Real Greek](https://www.therealgreek.com/) - the worst blandest least authentic Greek food I ever had. Don't
+  waste your money or one of your meals on this mediocrity
 - [Bill's](https://bills-website.co.uk/) - mediocre burgers, don't go unless you have no other choice
 - [Cote](https://www.cote.co.uk/) - didn't like their chicken, for the price you can eat a lot of better places. I don't
   get the appeal or niche of this chain
