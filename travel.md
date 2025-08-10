@@ -4893,8 +4893,8 @@ Not Recommended:
 - [Yo Sushi](https://yosushi.com/) - it used to be a lot better, I used to go often, now it doesn't seem worth the
   price.
   It's not terrible, it's just that you could eat better or for less elsewhere now
-- [TGI Fridays](https://www.tgifridays.co.uk/) - unhealthy American food, and for this money, you could get better
-  variations at places like Big Easy.
+- [TGI Fridays](https://www.tgifridays.co.uk/) - mediocre American chain.
+  For this money, you could get better variations at places like Big Easy.
   Not worth the damage to your health or your wallet
 
 A couple of my other favourite independent places like [Ichi Ricki](https://maps.app.goo.gl/3zM4cY9M4fPEZYbM9) and Po Cha
