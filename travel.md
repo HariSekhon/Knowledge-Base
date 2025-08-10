@@ -4782,6 +4782,8 @@ There are too many great restaurants in London to list from 2 decades of memory,
   I liked the homemade lemonades as they were exotic mixes (Pomegranate & Orange Blossom, Watermelon & Rose, or Apple, Mint & Ginger).
   The Mouhalabia dessert was my favourite here.
   There is also a sister restaurant [Yalla Beirut](https://maps.app.goo.gl/Gn5NZE72UkdQv1Za7) at Tower Hill
+- [Black Bear Burger](https://maps.app.goo.gl/mu94ZHu3mVo3mbM49) - the black bear and brisket burger were both good, as
+  were the fries
 - [Hiba Street Food](https://maps.app.goo.gl/7wwTZAgRghbvPNv27) - good Lebanese food
 - [Wagamama](https://www.wagamama.com/) - modern Japanese chain,
   soup noodle bowls, pan fried noodles, and some rice based dishes with fresh squeezed juices.
