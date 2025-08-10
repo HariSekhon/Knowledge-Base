@@ -4847,7 +4847,8 @@ and nobody can agree on a definitive top list, but here is a good start:
   The chilli burger is my favourite here. I've been to the St Albans one outside London in the home county too
 - [Wahaca](https://www.wahaca.co.uk/) - modern Mexican chain, I used to go to the Soho branch weekly with my colleagues.
   THe tacos are good sides/extra to have here.
-  I used to like the steak and chicken mains, but it looks like they don't do them any more
+  I used to like the steak and chicken mains, but it looks like they don't do them any more.
+  I particularly like the Horchata sweet milk drink with cinnamon
 - [Busaba](https://www.busaba.com/) - Thai chain, nice decor and food, portions and drinks not too big but nice
 - [Burger & Lobster](https://www.burgerandlobster.com/) - their original gimmick was they used to price both their
   lobster and their burger at a flat £20, making it an expensive burger or an affordable lobster.
