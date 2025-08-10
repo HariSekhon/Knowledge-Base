@@ -4856,9 +4856,12 @@ There are too many great restaurants in London to list from 2 decades of memory,
   because nearly all the sauces are more spicy than you would have at another restaurant
 - [Roosters Peri Peri Chicken](https://www.roosterspiripiri.com/) - affordable peri peri chicken chain.
   Chicken wrap with fries and rice were my picks here
+- [Big Easy](https://www.bigeasy.co.uk/) - much better American BBQ than TGI Fridays
 - [Pho](https://www.phocafe.co.uk/) - vietnamese noodle soup chain, like the Vietnamese Wagamama. Summer rolls and Pho
   soup are the obvious picks here
 - [Franco Manca](https://www.francomanca.co.uk/) - I'm not big on this chain, but some people might like it
+- [Browns](https://www.browns-restaurants.co.uk/#/) - moderately upmarket brasserie chain of british food
+- [Carluccio's](https://www.carluccios.com/) - mid-market Italian restaurant chain
 
 More expensive restaurants:
 
@@ -4884,6 +4887,8 @@ Not Recommended:
 - [The Real Greek](https://www.therealgreek.com/) - the blandest least authentic Greek food you'll ever eat. Don't waste
   your money on this mediocrity
 - [Bill's](https://bills-website.co.uk/) - mediocre burgers, don't go unless you have no other choice
+- [Cote](https://www.cote.co.uk/) - didn't like their chicken, for the price you can eat a lot of better places. I don't
+  get the appeal or niche of this chain
 
 A couple of my other favourite independent places like [Ichi Ricki](https://maps.app.goo.gl/3zM4cY9M4fPEZYbM9) and Po Cha
 (Soho) are permanently closed down.
