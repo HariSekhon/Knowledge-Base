@@ -4920,6 +4920,7 @@ TODO:
 - [Blacklock Soho](https://maps.app.goo.gl/qM2AKeMprvKKWyHE6)
 - [Shack-Fuyu Soho](https://maps.app.goo.gl/QPRv8HbSLTDqobE26)
 - [Doppo](https://maps.app.goo.gl/oqhjQYpxQZhy6Psw7)
+- [BAO Soho](https://maps.app.goo.gl/eXZJEUwV4XNwj6EA8)
 - [Govinda's Vegan & Vegetarian Restaurant](https://maps.app.goo.gl/CYTRHdLLXUxRr1fQ9)
 - [Barrafina](https://maps.app.goo.gl/hUAAt93zJUTR1aFXA) - upmarket (expensive) spanish tapas
 
