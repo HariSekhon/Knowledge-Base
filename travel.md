@@ -4773,7 +4773,13 @@ not even California can boast the variety and quality of London restaurants, nor
 There are too many great restaurants in London to list from 2 decades of memory, but here is a good start:
 
 - [Taro (Soho)](https://maps.app.goo.gl/xbh6RB5YUFj6njTi9) - foodie place for Japanese noodles and sushi
-- [Yalla Yalla](https://maps.app.goo.gl/WK3RLN6t9pCkUGkN6) - a favourite Lebanese of mine in Soho
+- [Yalla Yalla](https://maps.app.goo.gl/WK3RLN6t9pCkUGkN6) - a favourite Lebanese of mine in Soho.
+  The sujuk sausages in lemon zesty sauce were my favourite of any place,
+  and I've forever been disappointed in Turkish restaurants sujuk by comparison.
+  Fattoush salad is a must here (or any lebanese / syrian or similar restaurant!).
+  The houmous with lamb is a worthy upgrade too and stuffed vine leaves are always good.
+  I liked the homemade lemonades as they were exotic mixes (Pomegranate & Orange Blossom, Watermelon & Rose, or Apple, Mint & Ginger).
+  The Mouhalabia dessert was my favourite here
 - [Hiba Street Food](https://maps.app.goo.gl/7wwTZAgRghbvPNv27) - good Lebanese food
 - [Wagamama](https://www.wagamama.com/) - modern Japanese chain,
   soup noodle bowls, pan fried noodles, and some rice based dishes with fresh squeezed juices.
