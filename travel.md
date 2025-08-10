@@ -4891,6 +4891,8 @@ TODO:
 
 - [SushiSamba](https://maps.app.goo.gl/XaZpQ5ezdu7E9nrv9) - friends & colleagues were telling me about this for years
   but I never got round to going. Highly rated but expensive
+- [Nobu London (Old Park Lane)](https://maps.app.goo.gl/ASnEAirLSpzotzyE6) - I never went because my exe hated them for
+  selling endangered tuna
 - [Barrafina](https://maps.app.goo.gl/hUAAt93zJUTR1aFXA) - upmarket (expensive) spanish tapas
 
 Not Recommended:
