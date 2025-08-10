@@ -4863,6 +4863,8 @@ There are too many great restaurants in London to list from 2 decades of memory,
 - [Browns](https://www.browns-restaurants.co.uk/#/) - moderately upmarket brasserie chain of british food
 - [Carluccio's](https://www.carluccios.com/) - mid-market Italian restaurant chain
 - [Zizzi](https://www.zizzi.co.uk/) - Italian restaurant chain - the Rustica pizzas are a good size here
+- [Rosas Thai](https://rosasthai.com/) - Thai restaurant chain, passable, but independent Thai places are better for
+  both food and price / value for money though
 
 More expensive restaurants:
 
