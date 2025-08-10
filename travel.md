@@ -4877,6 +4877,8 @@ and nobody can agree on a definitive top list, but here is a good start:
   both food and price / value for money though
 - [Dishoom](https://www.dishoom.com/) - modern Indian chain
 - [Banana Tree](https://bananatree.co.uk/) - south east asian chain
+- [Bone Daddies](https://bonedaddies.com/) - well rated and they highly rate their bone broth, I don't recall rating it
+  as highly
 - [Pizza Express](https://www.pizzaexpress.com/) - good quality upmarket pizza restaurant
 
 More upmarket (expensive) restaurants:
