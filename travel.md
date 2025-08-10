@@ -4879,6 +4879,7 @@ More upmarket (expensive) restaurants:
 - [Gaucho](https://gauchorestaurants.com/) - upmarket Argentinian steak restaurant chain - very good - I recommend you get the Fillet
   Mignon medium rare (it's the most tender, leanest, highest quality steak).
   It still doesn't have desserts after all these years, I have no idea why
+- [Buenos Aires Argentinian Steakhouse](https://www.barestaurant.com/) - Gaucho is better
 - [Sticks n Sushi](https://www.sticksnsushi.com/gb/en/) - upmarket (expensive) sushi restaurant chain
 - [Salt Yard](https://maps.app.goo.gl/uKhJrjkdyznutkQw5) - upmarket tapas, not cheap, I took my ex-girlfriend here when
   we were in the first few months of dating
