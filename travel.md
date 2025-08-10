@@ -4772,7 +4772,8 @@ not even California can boast the variety and quality of London restaurants, nor
 
 There are too many great restaurants in London to list from 2 decades of memory, but here is a good start:
 
-- [Taro (Soho)](https://maps.app.goo.gl/xbh6RB5YUFj6njTi9) - foodie place for Japanese noodles and sushi
+- [Taro (Soho)](https://maps.app.goo.gl/xbh6RB5YUFj6njTi9) - foodie place for Japanese noodles and sushi. The bento
+  boxes here were my favourite
 - [Yalla Yalla](https://maps.app.goo.gl/WK3RLN6t9pCkUGkN6) - a favourite Lebanese of mine in Soho.
   The sujuk sausages in lemon zesty sauce were my favourite of any place,
   and I've forever been disappointed in Turkish restaurants sujuk by comparison.
@@ -4848,7 +4849,8 @@ There are too many great restaurants in London to list from 2 decades of memory,
   so like Wagamama, it's everywhere.
   Not as affordable as it used to be, but still not as expensive as some other places
 - [Roosters Peri Peri Chicken](https://www.roosterspiripiri.com/) - affordable peri peri chicken chain
-- [Pho](https://www.phocafe.co.uk/) - vietnamese noodle soup chain, like the Vietnamese Wagamama
+- [Pho](https://www.phocafe.co.uk/) - vietnamese noodle soup chain, like the Vietnamese Wagamama. Summer rolls and Pho
+  soup are the obvious picks here
 - [Franco Manca](https://www.francomanca.co.uk/) - I'm not big on this chain, but some people might like it
 
 More expensive restaurants:
