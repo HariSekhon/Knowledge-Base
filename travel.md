@@ -4903,6 +4903,7 @@ TODO:
 
 - [The Original Ivy, West End](https://maps.app.goo.gl/cMGmGuMNARRFaTry9) - I've been to the branches but not this
   original venue
+- [Fig & Walnut Kitchen](https://maps.app.goo.gl/2SpF2XRoJPS13AEL7)
 - [SushiSamba](https://maps.app.goo.gl/XaZpQ5ezdu7E9nrv9) - friends & colleagues were telling me about this for years
   but I never got round to going. Highly rated but expensive
 - [Nobu London (Old Park Lane)](https://maps.app.goo.gl/ASnEAirLSpzotzyE6) - I never went because my first exe hated
