@@ -4780,7 +4780,8 @@ There are too many great restaurants in London to list from 2 decades of memory,
   Fattoush salad is a must here (or any lebanese / syrian or similar restaurant!).
   The houmous with lamb is a worthy upgrade too and stuffed vine leaves are always good.
   I liked the homemade lemonades as they were exotic mixes (Pomegranate & Orange Blossom, Watermelon & Rose, or Apple, Mint & Ginger).
-  The Mouhalabia dessert was my favourite here
+  The Mouhalabia dessert was my favourite here.
+  There is also a sister restaurant [Yalla Beirut](https://maps.app.goo.gl/Gn5NZE72UkdQv1Za7) at Tower Hill
 - [Hiba Street Food](https://maps.app.goo.gl/7wwTZAgRghbvPNv27) - good Lebanese food
 - [Wagamama](https://www.wagamama.com/) - modern Japanese chain,
   soup noodle bowls, pan fried noodles, and some rice based dishes with fresh squeezed juices.
@@ -4865,11 +4866,14 @@ There are too many great restaurants in London to list from 2 decades of memory,
 - [Zizzi](https://www.zizzi.co.uk/) - Italian restaurant chain - the Rustica pizzas are a good size here
 - [Rosas Thai](https://rosasthai.com/) - Thai restaurant chain, passable, but independent Thai places are better for
   both food and price / value for money though
+- [Pizza Express](https://www.pizzaexpress.com/) - good quality upmarket pizza restaurant
+- [Julie's](https://maps.app.goo.gl/EZBf4R2S28GyGvdAA) - upmarket french restaurant at Holland Park
 
-More expensive restaurants:
+More upmarket (expensive) restaurants:
 
-- [Yauatcha Soho](https://maps.app.goo.gl/P12FCb2DTgPei6Xh8) - upmarket chinese (expensive), the red fez desserts with
-  edible gold on top were great
+- [Yauatcha Soho](https://maps.app.goo.gl/P12FCb2DTgPei6Xh8) - upmarket Chinese with dim sum, the red fez desserts with
+  edible gold on top were as tasty as there were impressive looking in the blue glass windows
+- [Hakkasan](https://maps.app.goo.gl/J88xeebe9y5FUo3n7) - upmarket Chinese with dim sum and stylish decor
 - [Gaucho](https://gauchorestaurants.com/) - upmarket Argentinian steak restaurant chain - very good - I recommend you get the Fillet
   Mignon medium rare (it's the most tender, leanest, highest quality steak).
   It still doesn't have desserts after all these years, I have no idea why
@@ -4878,12 +4882,16 @@ More expensive restaurants:
   we were in the first few months of dating
 - [Gordan Ramsey](https://www.gordonramsayrestaurants.com/restaurants-and-bars/) - the famous celebrity chef's
   restaurants are usually good, and while not cheap, not the most expensive in London either
+- [Hawksmoor](https://thehawksmoor.com/) - rate steakhouse, I didn't think it was that special compared to the more
+  unique restaurants above
+- [Sake No Hana](https://maps.app.goo.gl/hcr4okhpzNuoRKGs6) - sushi & cocktails - good but expensive. I took my
+  ex-girlfriend here for our second date and blew around £300. Closed down now unfortunately
 
 TODO:
 
 - [SushiSamba](https://maps.app.goo.gl/XaZpQ5ezdu7E9nrv9) - friends & colleagues were telling me about this for years
-  but I never got round to going.
-  Highly rated but expensive
+  but I never got round to going. Highly rated but expensive
+- [Barrafina](https://maps.app.goo.gl/hUAAt93zJUTR1aFXA) - upmarket (expensive) spanish tapas
 
 Not Recommended:
 
@@ -4894,14 +4902,15 @@ Not Recommended:
   get the appeal or niche of this chain
 - [Yo Sushi](https://yosushi.com/) - it used to be a lot better, I used to go often, now it doesn't seem worth the
   price.
+- [Itsu](https://www.itsu.com/) - mediocre Japanese chain, don't bland yourself to death
   It's not terrible, it's just that you could eat better or for less elsewhere now
 - [TGI Fridays](https://www.tgifridays.co.uk/) - mediocre American chain.
   For this money, you could get better variations at places like Big Easy.
   Not worth the damage to your health or your wallet
 
-A couple of my other favourite independent places like [Ichi Ricki](https://maps.app.goo.gl/3zM4cY9M4fPEZYbM9) and Po Cha
-(Soho) are permanently closed down.
-Damn London rent prices, the big chains are taking over.
+A couple of my other favourite independent places like [Ichi Ricki](https://maps.app.goo.gl/3zM4cY9M4fPEZYbM9),
+Po Cha korean bibimbap at Tottenham Court Road, Ping Pong upmarket dim sum chain, and Sake No Hana are permanently
+closed down. Damn London rent prices, the big chains are taking over.
 
 ### USA
 
