@@ -4919,6 +4919,7 @@ TODO:
 - [Nostimo Mediterranean Gastronomy](https://maps.app.goo.gl/wmPzKGdA1TtJG5Pq5) - Greek
 - [Blacklock Soho](https://maps.app.goo.gl/qM2AKeMprvKKWyHE6)
 - [Shack-Fuyu Soho](https://maps.app.goo.gl/QPRv8HbSLTDqobE26)
+- [Doppo](https://maps.app.goo.gl/oqhjQYpxQZhy6Psw7)
 - [Govinda's Vegan & Vegetarian Restaurant](https://maps.app.goo.gl/CYTRHdLLXUxRr1fQ9)
 - [Barrafina](https://maps.app.goo.gl/hUAAt93zJUTR1aFXA) - upmarket (expensive) spanish tapas
 
