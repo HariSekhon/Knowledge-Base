@@ -4886,9 +4886,12 @@ More upmarket (expensive) restaurants:
   unique restaurants above
 - [Sake No Hana](https://maps.app.goo.gl/hcr4okhpzNuoRKGs6) - sushi & cocktails - good but expensive. I took my
   ex-girlfriend here for our second date and blew around £300. Closed down now unfortunately
+- [The Ivy](https://ivycollection.com/) - I took my girlfriend to the one in Richmond, it was good.
+  The scallops starter with pea puree stood out in my memory. Mains instead steaks, burgers and seafood
 
 TODO:
 
+- [The Original Ivy, West End](https://maps.app.goo.gl/cMGmGuMNARRFaTry9)
 - [SushiSamba](https://maps.app.goo.gl/XaZpQ5ezdu7E9nrv9) - friends & colleagues were telling me about this for years
   but I never got round to going. Highly rated but expensive
 - [Nobu London (Old Park Lane)](https://maps.app.goo.gl/ASnEAirLSpzotzyE6) - I never went because my first exe hated
