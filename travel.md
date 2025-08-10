@@ -4875,6 +4875,7 @@ and nobody can agree on a definitive top list, but here is a good start:
 - [Zizzi](https://www.zizzi.co.uk/) - Italian restaurant chain - the Rustica pizzas are a good size here
 - [Rosas Thai](https://rosasthai.com/) - Thai restaurant chain, passable, but independent Thai places are better for
   both food and price / value for money though
+- [Dishoom](https://www.dishoom.com/) - modern Indian chain
 - [Pizza Express](https://www.pizzaexpress.com/) - good quality upmarket pizza restaurant
 
 More upmarket (expensive) restaurants:
