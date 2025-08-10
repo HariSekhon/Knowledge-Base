@@ -4770,7 +4770,11 @@ Teddington, Ealing Broadway, South Woodford, Wanstead, Bromley, Beckenham, Chess
 London is easily the restaurant capital of the world,
 not even California can boast the variety and quality of London restaurants, nor can any other city on this list.
 
-There are too many great restaurants in London to list from 2 decades of memory, but here is a good start:
+I prioritize food quality and price,
+so we'll start with more independent and affordable places, then move to more fancy further down.
+
+There are simply far too many great restaurants in London to list them all, especially from 2 decades of memories,
+and nobody can agree on a definitive top list, but here is a good start:
 
 - [Taro (Soho)](https://maps.app.goo.gl/xbh6RB5YUFj6njTi9) - foodie place for Japanese noodles and sushi. The bento
   boxes here were my favourite
