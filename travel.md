@@ -4830,7 +4830,9 @@ There are too many great restaurants in London to list from 2 decades of memory,
   I loved their chips & dip, as well as their 3 main burgers, Ari Gold, Smokey Robinson and Jose Jose Chilli Burger
 - [Honest Burgers](https://www.honestburgers.co.uk/) - another good burger chain.
   The chilli burger is my favourite here. I've been to the St Albans one outside London in the home county too
-- [Wahaca](https://www.wahaca.co.uk/) - modern Mexican chain, I used to go to the Soho branch weekly with my colleagues
+- [Wahaca](https://www.wahaca.co.uk/) - modern Mexican chain, I used to go to the Soho branch weekly with my colleagues.
+  THe tacos are good sides/extra to have here.
+  I used to like the steak and chicken mains, but it looks like they don't do them any more
 - [Busaba](https://www.busaba.com/) - Thai chain, nice decor and food, portions and drinks not too big but nice
 - [Burger & Lobster](https://www.burgerandlobster.com/) - their original gimmick was they used to price both their
   lobster and their burger at a flat £20, making it an expensive burger or an affordable lobster.
