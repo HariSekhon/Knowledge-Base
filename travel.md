@@ -4917,6 +4917,8 @@ TODO:
 - [Fallow](https://maps.app.goo.gl/Q5vKLsQKkTSmB9NR7) - modern British
 - [OMA](https://maps.app.goo.gl/EKaNqoC77BX5o7Ne6) - Greek
 - [Nostimo Mediterranean Gastronomy](https://maps.app.goo.gl/wmPzKGdA1TtJG5Pq5) - Greek
+- [Blacklock Soho](https://maps.app.goo.gl/qM2AKeMprvKKWyHE6)
+- [Shack-Fuyu Soho](https://maps.app.goo.gl/QPRv8HbSLTDqobE26)
 - [Govinda's Vegan & Vegetarian Restaurant](https://maps.app.goo.gl/CYTRHdLLXUxRr1fQ9)
 - [Barrafina](https://maps.app.goo.gl/hUAAt93zJUTR1aFXA) - upmarket (expensive) spanish tapas
 
