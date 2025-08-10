@@ -4925,6 +4925,7 @@ TODO:
 - [Doppo](https://maps.app.goo.gl/oqhjQYpxQZhy6Psw7)
 - [BAO Soho](https://maps.app.goo.gl/eXZJEUwV4XNwj6EA8)
 - [Scarlett Green](https://maps.app.goo.gl/5e8SVCXL1VG1pZ7k6)
+- [Dirty Bones Soho](https://maps.app.goo.gl/pYtRe5WgrDZDgbsB7)
 - [Govinda's Vegan & Vegetarian Restaurant](https://maps.app.goo.gl/CYTRHdLLXUxRr1fQ9)
 - [Barrafina](https://maps.app.goo.gl/hUAAt93zJUTR1aFXA) - upmarket (expensive) spanish tapas
 
