@@ -4862,6 +4862,7 @@ There are too many great restaurants in London to list from 2 decades of memory,
 - [Franco Manca](https://www.francomanca.co.uk/) - I'm not big on this chain, but some people might like it
 - [Browns](https://www.browns-restaurants.co.uk/#/) - moderately upmarket brasserie chain of british food
 - [Carluccio's](https://www.carluccios.com/) - mid-market Italian restaurant chain
+- [Zizzi](https://www.zizzi.co.uk/) - Italian restaurant chain - the Rustica pizzas are a good size here
 
 More expensive restaurants:
 
