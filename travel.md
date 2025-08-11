@@ -58,6 +58,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Mail Redirection](#mail-redirection)
 - [Countries](#countries)
   - [Albania](#albania)
+    - [Taxis in Albania](#taxis-in-albania)
     - [Tirana](#tirana)
     - [Lake Bovilla](#lake-bovilla)
     - [Durres](#durres)
@@ -947,6 +948,14 @@ I'm surprised how many Mercedes there were in Albania.
 Many 20 years old, but many modern designs with customizations, AMGs etc.
 
 Some of the roads aren't great though.
+
+#### Taxis in Albania
+
+The usual big names of Uber and Bolt aren't present.
+
+- [Speed Taxi](https://speedtaxi.al/) - used this, more expensive than VrapOn Taxi. Only payment option was cash
+- [VrapOn Taxi](https://vrapon.al/) - cheaper but not in English and didn't accept the SMS verification codes. Only
+  payment option was cash
 
 #### Tirana
 
