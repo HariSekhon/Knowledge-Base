@@ -59,6 +59,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 - [Countries](#countries)
   - [Albania](#albania)
     - [Taxis in Albania](#taxis-in-albania)
+    - [Driving in Albania](#driving-in-albania)
     - [Tirana](#tirana)
     - [Lake Bovilla](#lake-bovilla)
     - [Durres](#durres)
