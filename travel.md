@@ -959,6 +959,13 @@ The usual big names of Uber and Bolt aren't present.
 - [VrapOn Taxi](https://vrapon.al/) - cheaper but not in English and didn't accept the SMS verification codes. Only
   payment option was cash
 
+#### Driving in Albania
+
+The worst roads I've seen in Europe with many places having unpaved roads
+and driving 15-20mph on stones and hoping your tyres don't get punctured.
+
+Fuel is also surprisingly expensive compared to nearby Bulgaria and Romania.
+
 #### Tirana
 
 The capital [Tiranë](https://maps.app.goo.gl/NpB1ebWNjGFn6X2f9) is cheap, with hostels costing around £10 per night.
@@ -1187,6 +1194,19 @@ TODO:
 
 [Elbasan](https://maps.app.goo.gl/ob7f42c3BgAYqkFB6) is a town with a small fort, useful for stopover between Tirana and
 Pogradec.
+
+- [Coffee House](https://maps.app.goo.gl/x6X58wAa5bPSHTV47) - has fresh squeezed orange juice, perfect for a stopover
+  refreshment with nice decor and both indoor and outdoor seating. Cash only
+- [Elbasan Castle](https://maps.app.goo.gl/iiMfbHCvSjsvhbTC9) - small local castle
+- [King Mosque, Elbasan](https://maps.app.goo.gl/k5NrGtQyCE3SB9Z99)
+- [Ethnographic Museum of Elbasan](https://maps.app.goo.gl/pPiKWTrC8oxs5V2h7)
+
+TODO:
+
+- [Pastiçeri Marsi](Pastiçeri Marsi) - dessert shop
+- [Art Coffee Bistro](https://maps.app.goo.gl/J4vy7A59QfLKiNyR9)
+- [Piceri Dibra](https://maps.app.goo.gl/dTThcq5g6Y86KvEX9) - cafe restaurant
+- [Presto Pasta Elbasan](https://maps.app.goo.gl/camCKopH2EYzTSDL7)
 
 #### Pogradec
 
