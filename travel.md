@@ -1219,7 +1219,8 @@ This is definitely one to revisit.
 
 - [Restorant Zgara Familjare](https://maps.app.goo.gl/azPLdHLA4sDJze8z9) - the grilled Koran fish is a must try here as
   it is local to the Ohrid Lake.
-  The peppers in cheese and olive oil were a good accompanying side, and a good size too.
+  It comes without any sides, so accompany it with the green peppers cooked in a light cheese sauce and olive oil base,
+  which is a good size for a side.
   The homemade bread is good,
   but it's not as good as Jarna in Tirana as it does not come freshly hotly baked.
   Couple it with tzatziki, but the tzatziki needs more cucumber and lot more garlic, it's a little bland by Greek
