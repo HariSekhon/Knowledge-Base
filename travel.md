@@ -59,6 +59,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
 - [Countries](#countries)
   - [Albania](#albania)
     - [Tirana](#tirana)
+    - [Lake Bovilla](#lake-bovilla)
     - [Durres](#durres)
     - [Shkoder](#shkoder)
   - [Austria](#austria)
@@ -1099,6 +1100,18 @@ so this is a long TODO list of ones I still need to try.
 - [Spaghetti Western](https://maps.app.goo.gl/cHEKLV7FP8Xt3g8fA)
 - [Pixel Gaming Arena](https://maps.app.goo.gl/o1EdrDcCguQSvjvZA) - interesting find for those of you who still play
   video games
+
+#### Lake Bovilla
+
+[Lake Bovilla](https://maps.app.goo.gl/bbsLa4sqKCJTi6zc8)
+has great scenary but just one unpaved rock filled road with potholes everywhere.
+
+I thought I was going to puncture my tyres driving over such a large amount of jagged stones.
+
+- [Bovilla restaurant](https://maps.app.goo.gl/JrF4wcaA39dfRdUq6) - the single restaurant at the top of mountain, has
+  fresh squeeze orange juice, with a great view,
+  but I didn't stay for dinner as I was scared of damaging my car tyres or undercarriage and getting stranded if trying
+  to drive back down after sunset
 
 #### Durres
 
