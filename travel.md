@@ -62,6 +62,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Tirana](#tirana)
     - [Lake Bovilla](#lake-bovilla)
     - [Durres](#durres)
+    - [Pogradec](#pogradec)
     - [Shkoder](#shkoder)
   - [Austria](#austria)
     - [Motorway Tolls - e-Vignettes in Austria](#motorway-tolls---e-vignettes-in-austria)
@@ -1144,8 +1145,9 @@ my 2 wheel drive slipped it's wheels on some steep gradients.
 
 #### Durres
 
-Good seaside town -
-unfortunately it's split into two parts by the large docks and industrial cargo containers area in the middle.
+Good seaside town approximately 40-60 mins drive from Tirana, depending on traffic.
+
+Unfortunately it's split into two parts by the large docks and industrial cargo containers area in the middle.
 
 The area north of the docks is not that big, you can cover it in an hour.
 
@@ -1180,9 +1182,23 @@ TODO:
 
 - [Meison Bistro](https://maps.app.goo.gl/zgZM8fu8SjKhYjeL7)
 
+#### Pogradec
+
+Lakeside town next to Lake Ohrid -
+amazing clear blue waters surrounded by mountain ranges, picture perfect, with a long beachside promenade and good
+restaurants.
+
+- [Restorant Zgara Familjare](https://maps.app.goo.gl/azPLdHLA4sDJze8z9)
+- [Beach](https://maps.app.goo.gl/NX6tv6JP1pJ23yi47) - north end of the beach with free parking
+
+- [Oborri Familjar](https://maps.app.goo.gl/T234X1Fy3hNvLR7v6) - highly rated but cash only and I didn't want to get
+  mugged by an ATM again taking out cash and then being stuck with unused leks.
+  Next time
+
 #### Shkoder
 
-[Shkodër](https://maps.app.goo.gl/M9ekVnhoA2WqawkYA) is a town on the Shkodra Lake and hiking trails.
+[Shkodër](https://maps.app.goo.gl/M9ekVnhoA2WqawkYA) is a northern town on the Shkodra Lake, people also visit it for
+the hiking trails.
 
 In peak summer time it can be difficult to find accommodation as tourists descend on it for the lake and hiking trails.
 
