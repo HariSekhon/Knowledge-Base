@@ -1182,11 +1182,17 @@ TODO:
 
 - [Meison Bistro](https://maps.app.goo.gl/zgZM8fu8SjKhYjeL7)
 
+#### Elbasan
+
+[Elbasan](https://maps.app.goo.gl/ob7f42c3BgAYqkFB6)
+
 #### Pogradec
 
-Lakeside town next to Lake Ohrid -
-amazing clear blue waters surrounded by mountain ranges, picture perfect, with a long beachside promenade and good
-restaurants.
+[Pogradec](https://maps.app.goo.gl/pwQsVo8vCE35UdKa6) is a lakeside town next to the impressive and scenic
+[Lake Ohrid](https://maps.app.goo.gl/zTx4seuagWd5CLF77) - amazing clear blue waters surrounded by mountain ranges,
+picture perfect, with a long beachside promenade and good restaurants.
+
+This is definitely one to revisit.
 
 - [Restorant Zgara Familjare](https://maps.app.goo.gl/azPLdHLA4sDJze8z9)
 - [Beach](https://maps.app.goo.gl/NX6tv6JP1pJ23yi47) - north end of the beach with free parking
