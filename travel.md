@@ -1011,6 +1011,18 @@ I was lucky to get one.
   The only point I could possibly deduct for this place was
   that they had no juices, at all leaving me to buy mineral water in glass bottle.
   Wifi 92/34 Mbit/s
+- [Jarna Traditional Restaurant](https://maps.app.goo.gl/qVvfQq6ktSNVtrH3A) - traditional Albanian restaurant but
+  pricey, by the same owner as Bati restaurant trio above, and just round the corner from Bati 1.
+  The homemade bread is amazing and comes hot with a dense texture.
+  At only €1 you _have_ to have it, maybe two, and an extra one to take away!
+  Pair it with the yoghurt starter which is similar to Greek tzatziki and goes really well together.
+  The Lakror is like a big 16” pizza, enough for 2-3 people.
+  The mains are meat heavy and priced by weight at 3000 leks per kg with minimum 400g order (1200 leks).
+  The veal ribs skewer was decent and tender but at 400g hard to get through (perhaps for a post workout recovery day!).
+  Next time I might try the "lamb or goat in a sack".
+  More of a place for meat lovers as all the mains are meat except for the lakror.
+  The Kasata Bllaca is an interesting neopolitan type multi-layered ice cream with some sweet fruit bits and sauce,
+  like the homemade bread, I would definitely get this again too
 - [Odas Garden](https://maps.app.goo.gl/ynkfuUvCcwV8KqcB7) - good food, moderate prices, very popular.
   It was recommended by one of my fellow foodie travel buddies.
   This place is apparently not a well kept secret at all as the place was packed out, and we had to queue for half an
@@ -1073,8 +1085,6 @@ so this is a long TODO list of ones I still need to try.
 - [KOPE Steak House](https://maps.app.goo.gl/JtPTtnxdjMhACvUUA) - by the same owner as the Bati restaurant trio above,
   and just round the corner from Bati 1.
   Steak restaurant prices, which is to say, not cheap
-- [Jarna Traditional Restaurant](https://maps.app.goo.gl/qVvfQq6ktSNVtrH3A) - traditional Albanian restaurant but
-  pricey, by the same owner as Bati restaurant trio above, and just round the corner from Bati 1
 - [Fresh Garden Restaurant](https://maps.app.goo.gl/6ZZXLBVUGKzYeuRZ6)
 - [Salt Tirana](https://maps.app.goo.gl/tYeAZPreCs26nthKA)
 - [Gjeli i Pazarit](https://maps.app.goo.gl/D6y8sy5knNs1MoBM7) - the staff was useless and ended up giving away two
