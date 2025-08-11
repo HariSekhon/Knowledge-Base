@@ -1217,7 +1217,11 @@ picture perfect, with a long beachside promenade and good restaurants.
 
 This is definitely one to revisit.
 
-- [Restorant Zgara Familjare](https://maps.app.goo.gl/azPLdHLA4sDJze8z9)
+- [Restorant Zgara Familjare](https://maps.app.goo.gl/azPLdHLA4sDJze8z9) - the grilled Koran fish is a must try here as
+  it is local to the Ohrid Lake.
+  The homemade bread is good, couple it with tzatziki.
+  They have a single homemade dessert, which is like a small baklava.
+  They don't have freshly squeezed orange juice though, neither do the neighbouring restaurants
 - [Beach](https://maps.app.goo.gl/NX6tv6JP1pJ23yi47) - north end of the beach with free parking
 
 - [Oborri Familjar](https://maps.app.goo.gl/T234X1Fy3hNvLR7v6) - highly rated but cash only and I didn't want to get
