@@ -62,6 +62,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Tirana](#tirana)
     - [Lake Bovilla](#lake-bovilla)
     - [Durres](#durres)
+    - [Elbasan](#elbasan)
     - [Pogradec](#pogradec)
     - [Shkoder](#shkoder)
   - [Austria](#austria)
@@ -1184,7 +1185,8 @@ TODO:
 
 #### Elbasan
 
-[Elbasan](https://maps.app.goo.gl/ob7f42c3BgAYqkFB6)
+[Elbasan](https://maps.app.goo.gl/ob7f42c3BgAYqkFB6) is a town with a small fort, useful for stopover between Tirana and
+Pogradec.
 
 #### Pogradec
 
