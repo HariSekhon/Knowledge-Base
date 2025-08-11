@@ -1011,8 +1011,8 @@ I was lucky to get one.
   The only point I could possibly deduct for this place was
   that they had no juices, at all leaving me to buy mineral water in glass bottle.
   Wifi 92/34 Mbit/s
-- [Jarna Traditional Restaurant](https://maps.app.goo.gl/qVvfQq6ktSNVtrH3A) - traditional Albanian restaurant but
-  pricey, by the same owner as Bati restaurant trio above, and just round the corner from Bati 1.
+- [Jarna Traditional Restaurant](https://maps.app.goo.gl/qVvfQq6ktSNVtrH3A) - traditional Albanian restaurant,
+  moderately priced, by the same owner as Bati restaurant trio above, and just round the corner from Bati 1.
   The homemade bread is amazing and comes hot with a dense texture.
   At only €1 you _have_ to have it, maybe two, and an extra one to take away!
   Pair it with the yoghurt starter which is similar to Greek tzatziki and goes really well together.
