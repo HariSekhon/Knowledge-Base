@@ -1123,14 +1123,24 @@ so this is a long TODO list of ones I still need to try.
 #### Lake Bovilla
 
 [Lake Bovilla](https://maps.app.goo.gl/bbsLa4sqKCJTi6zc8)
-has great scenary but just one unpaved rock filled road with potholes everywhere.
+has great scenary but just one several km long unpaved rock filled road with potholes everywhere is the only way up or
+down, and turns with no guardrails.
 
-I thought I was going to puncture my tyres driving over such a large amount of jagged stones.
+This is the worst _"road"_ I've ever seen in Europe.
+
+I seriously thought I was going to puncture my tyres driving over such a large amount of jagged stones for such a long
+way.
+
+I'd hate to see the undercarriage of my car now, since a Mercedes AMG lowered body kit is exactly the wrong car
+for this type of terrain, and I wouldn't have taken it had I known.
+
+If I was to go here again, I'd rent a 4x4 SUV to take the wear and tear instead - 4x4 since on a couple of occasions
+my 2 wheel drive slipped it's wheels on some steep gradients.
 
 - [Bovilla restaurant](https://maps.app.goo.gl/JrF4wcaA39dfRdUq6) - the single restaurant at the top of mountain, has
   fresh squeeze orange juice, with a great view,
-  but I didn't stay for dinner as I was scared of damaging my car tyres or undercarriage and getting stranded if trying
-  to drive back down after sunset
+  but I didn't stay for dinner as I was scared of damaging my car tyres and getting stranded if trying
+  to drive back down in the dark, never mind the potential of going off one of the edges!
 
 #### Durres
 
