@@ -1239,6 +1239,10 @@ picture perfect, with a long beachside promenade and good restaurants.
 
 This is definitely one to revisit.
 
+- [Beach](https://maps.app.goo.gl/NX6tv6JP1pJ23yi47)
+- Parking - the north end of the beach above has an area of free parking, but beware, don't park
+  in the bays facing the street - people parked on the street in front of those bays and completely blocked me in -
+  I couldn't pull out and had to wait for them to return and move their car before I could leave!
 - [Restorant Zgara Familjare](https://maps.app.goo.gl/azPLdHLA4sDJze8z9) - the grilled Koran fish is a must try here as
   it is local to the Ohrid Lake.
   It comes without any sides, so accompany it with the green peppers cooked in a light cheese sauce and olive oil base,
@@ -1249,11 +1253,6 @@ This is definitely one to revisit.
   standards.
   They have a single homemade dessert, which is like a small baklava with 2 orange slices on the side.
   They don't have freshly squeezed orange juice though, neither do the neighbouring restaurants
-- [Beach](https://maps.app.goo.gl/NX6tv6JP1pJ23yi47)
-- Parking - the north end of the beach above has an area of free parking, but beware, don't park
-  in the bays facing the street - people parked on the street in front of those bays and completely blocked me in -
-  I couldn't pull out and had to wait for them to return and move their car before I could leave!
-
 - [Oborri Familjar](https://maps.app.goo.gl/T234X1Fy3hNvLR7v6) - highly rated but cash only and I didn't want to get
   mugged by an ATM again taking out cash and then being stuck with unused leks.
   Next time
