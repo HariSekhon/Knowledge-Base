@@ -796,6 +796,12 @@ This is a local knowledge that will get you done and your license revoked if you
 
 Car insurance often includes 30-90 days cover in Europe, check each provider for details.
 
+**Beware: UK car insurance covers only EU countries and one or two others like Switzerland and Serbia, but NOT**
+**Montenegro, Albania or North Macedonia**
+
+**You will be forced by the police to buy expensive insurance at the border in those countries if you cannot prove you**
+**have a specific insurance covering their country.**
+
 Top car comparison sites:
 
 - [MoneySupermarket.com](https://www.moneysupermarket.com)
