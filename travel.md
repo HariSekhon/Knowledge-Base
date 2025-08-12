@@ -1799,7 +1799,7 @@ There are a lot of better countries to visit.
 
 Some restaurants even refuse to split group bills, and I didn't find anywhere that serves breakfast past 12-1pm.
 
-It's also too hot in June - August, if you're going to do it, do it in Spring or Autumn instead.
+It's also too hot in Summer, if you're going to do it, do it in Spring or Autumn instead.
 
 #### Taxis in Croatia
 
