@@ -549,6 +549,10 @@ which are listed below, underneath each country.
 
 Compare the different apps to get the best price, it only takes 2 minutes.
 
+Taxis in some countries only accept cash, even when ordering them using apps, such as in Albania.
+
+See the [ATM and Foreign Cash Withdrawals](#atms-and-foreign-cash-withdrawals) section below.
+
 ## Wifi
 
 ### Wifi Hotels
@@ -570,7 +574,7 @@ _"X/Y Mbit wifi"_ shorthand means X Mbit/s download and Y Mbit/s upload eg.
 
 ## Mobile Internet Access
 
-Always ensure you have mobile internet before you leave the airport.
+Always ensure you have mobile internet before you leave the airport or cross the border by car / coach.
 
 Use the airport wifi to set up one of your e-sims using the lists below, or sims at the airports.
 
