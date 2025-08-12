@@ -942,7 +942,7 @@ get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return 
 
 ## Countries
 
-Number of Countries: 42
+Number of Countries: 43
 
 - Countries in 2024: 18
   - UAE, France, Belgium, Germany, Poland, Lithuania, Latvia, Estonia, Sweden, Slovakia, Hungary, Serbia, Morocco,
@@ -950,10 +950,10 @@ Number of Countries: 42
   - not counting my extensive month long
     [Tour of England and Wales](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b)
     (the latter was borderline a different country, there are actually Welsh signs I can't read)
-- Countries in 2025: 19
+- Countries in 2025: 20
   - Vietnam (continued), Cambodia, Laos, Bali (Indonesia), Malayasia, Singapore, Taiwan, Serbia, Bulgaria, Romania,
-    Hungary, Slovakia, Austria, Czechia, Poland, Slovenia, Croatia, Montenegro, Albania
-- Unique Countries since Emigrating from the UK in 2024: 32
+    Hungary, Slovakia, Austria, Czechia, Poland, Slovenia, Croatia, Montenegro, Albania, North Macedonia
+- Unique Countries since Emigrating from the UK in 2024: 33
 
 Below are specific tips for each country, especially my favourite restaurants.
 
