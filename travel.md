@@ -1254,7 +1254,7 @@ This is definitely one to revisit.
   They have a single homemade dessert,
   which is like a small baklava with 2 orange slices on the side,
   which was nice but too small to be satisfying as it was half the size of the one at Nalu in Tirana.
-  They don't have freshly squeezed orange juice though, neither do the neighbouring restaurants
+  They don't have freshly squeezed orange juice though, but neither do the neighbouring restaurants
 - [Oborri Familjar](https://maps.app.goo.gl/T234X1Fy3hNvLR7v6) - highly rated but cash only and I didn't want to get
   mugged by an ATM again taking out cash and then being stuck with unused leks.
   Next time
