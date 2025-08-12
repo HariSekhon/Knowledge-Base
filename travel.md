@@ -4472,12 +4472,14 @@ as I prefer other parts of SE Asia, so you'll have to do more Google Maps / Sear
 
 A fast life strategy place. Lots of tattoos and marijuana coffee shops.
 
-#### Cash Needed in Thailand
+#### ATMs in Thailand - Cash is Needed
 
 You will need cash, big time. Thailand is cheap but lots of places do not take cards.
 
 The ATM machines are thieves and will charge you £5 to withdraw almost any amount of cash,
 so you may as well withdraw a larger sum so you get conned by them less often.
+
+If they offer a conversion fee, decline, your bank may change you 3% but ATMs conversion fees are way higher.
 
 #### Mobile Internet in Thailand
 
