@@ -549,7 +549,11 @@ which are listed below, underneath each country.
 
 Compare the different apps to get the best price, it only takes 2 minutes.
 
-Taxis in some countries only accept cash, even when ordering them using apps, such as in Albania.
+Taxis in some countries only accept cash,
+even when ordering them using apps, such as in Albania,
+or the airport taxis in Moldova.
+
+Taxis in Thailand and Malaysia stopped at ATMs to get me to withdraw cash for them.
 
 See the [ATM and Foreign Cash Withdrawals](#atms-and-foreign-cash-withdrawals) section below.
 
