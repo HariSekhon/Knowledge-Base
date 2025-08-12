@@ -33,7 +33,7 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Rest of World](#rest-of-world)
     - [Digital e-sims](#digital-e-sims)
   - [International Calls using VoIP over the Internet](#international-calls-using-voip-over-the-internet)
-- [Foreign Cash Withdrawals](#foreign-cash-withdrawals)
+- [ATMs and Foreign Cash Withdrawals](#atms-and-foreign-cash-withdrawals)
 - [Restaurants & Dining Out](#restaurants--dining-out)
 - [Translation](#translation)
 - [Seasons - Timing Matters](#seasons---timing-matters)
