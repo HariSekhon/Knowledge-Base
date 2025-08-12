@@ -3539,6 +3539,12 @@ even the motorways and main trunk roads across the country so you'll need to dri
 Single Lane - most of the roads between Ohrid in the south and Skopje in the north were single lane, so
 I was frequently getting stuck behind slow lorries or coaches, and overtaking is very difficult and dangerous here.
 
+There is no e-Vignettes online toll like in several other European countries,
+but there are toll booths on motorways that accept cards - it's roughly 50p per toll -
+I got hit with 3 or 4 of them between Ohrid and Skopje,
+but they're more of a stopping inconvenience than a substantial cost compared to Poland where you can pay an outrageous
+€10 for a single toll crossing or the central European countries where you can pay €10-20 for an online pass.
+
 #### Skopje
 
 [Skopje](https://maps.app.goo.gl/HsirTdkXtsbqHKRg7) (pro-nounced Sko-pyeh) is the capital of North Macedona, in the
