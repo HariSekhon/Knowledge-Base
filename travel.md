@@ -804,6 +804,9 @@ Car insurance often includes 30-90 days cover in Europe, check each provider for
 **Beware: UK car insurance covers only EU countries and one or two others like Switzerland and Serbia, but NOT**
 **Montenegro, Albania or North Macedonia**
 
+Not coincidentally there are 3 out of the 4 non-EU countries left in the Balkans
+and for good reason as they are clearly the least developed countries.
+
 **You will be forced by the police to buy expensive insurance at the border in those countries if you cannot prove you**
 **have a specific insurance covering their country.**
 
