@@ -3171,8 +3171,12 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
 The border police also checked UK MOT is valid
 and may refuse to let you drive if it has lapse while you're road tripping overseas.
 
-The Montenegro Riviera has an impressive view on winding mountain roads, looks out of a James Bond movie, but not a
-drive for beginners, as there are sections without barriers where you could go off a cliff and die.
+The Montenegro Riviera drive through the mountains is an impressive view, similar to Croatia's Dubrovnik Riviera,
+winding mountain roads that look out of a James Bond movie, but it's not a drive for inexperienced drivers, as there are
+sections without barriers where you could go off a cliff and die.
+
+Also, due to the single lane most of the way, you can get stuck behind a slow lorry or coach,
+and overtaking is very difficult and dangerous here.
 
 #### Podgorica
 
