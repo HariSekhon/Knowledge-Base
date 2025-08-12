@@ -968,8 +968,14 @@ The usual big names of Uber and Bolt aren't present.
 
 #### Driving in Albania
 
-The worst roads I've seen in Europe with many places having unpaved roads
-and driving 15-20mph on stones and hoping your tyres don't get punctured.
+**Beware: UK car insurance only covers the EU and one or two other countries like Switzerland and maybe Serbia, but**
+**NOT Albania**.
+
+**You will likely be forced to buy specific car insurance for Albania at a high price if you cannot prove you have an**
+**insurance specifically covering Albania**
+
+Albania has _the_ worst roads I've seen in Europe with many places having unpaved roadswith everybody forced to drive
+15-20mph over jagged stones and potholes and hoping your tyres don't get punctured.
 
 Fuel is also surprisingly expensive compared to nearby Bulgaria and Romania.
 
