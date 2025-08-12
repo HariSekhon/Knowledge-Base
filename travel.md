@@ -967,6 +967,20 @@ Many 20 years old, but many modern designs with customizations, AMGs etc.
 
 Some of the roads aren't great though.
 
+#### ATMs in Albania
+
+ATMs in Albania usually charge you 600-700 leks (€6-€7) for a cash withdrawal,
+on top of trying to get you to accept their ridiculous conversion fees
+(always select Without Conversion as your bank may change you 3% but not some outrageous amount like they do).
+
+Raiffeisen Bank ATMs were the worst I saw, trying to charge 800 leks (€8) for a cash withdrawal. Avoid that bank.
+
+This means it's better to estimate how much you need for your stay
+and withdraw it once instead of incurring the withdrawal charge again and again.
+
+Most places take credit and debit cards, but not under a certain amount such as 500 leks (€5),
+and some places will only accept cash so you will likely need some cash.
+
 #### Taxis in Albania
 
 The usual big names of Uber and Bolt aren't present.
