@@ -1247,10 +1247,10 @@ This is definitely one to revisit.
   it is local to the Ohrid Lake.
   It comes without any sides, so accompany it with the green peppers cooked in a light cheese sauce and olive oil base,
   which is a good size for a side.
-  The homemade bread is good,
-  but it's not as good as Jarna in Tirana as it does not come freshly hotly baked.
-  Couple it with tzatziki, but the tzatziki needs more cucumber and lot more garlic, it's a little bland by Greek
-  standards.
+  The homemade bread is good, but unfortunately I had it the night after Jarna in Tirana, which is a different level.
+  This one is not as good as Jarna's as it doesn't come freshly hotly baked.
+  I coupled it with tzatziki again, but the tzatziki was mediocre - needs more cucumber and *lot* more garlic, it's
+  bland by Greek standards.
   They have a single homemade dessert, which is like a small baklava with 2 orange slices on the side.
   They don't have freshly squeezed orange juice though, neither do the neighbouring restaurants
 - [Oborri Familjar](https://maps.app.goo.gl/T234X1Fy3hNvLR7v6) - highly rated but cash only and I didn't want to get
