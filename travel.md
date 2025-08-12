@@ -972,7 +972,7 @@ The usual big names of Uber and Bolt aren't present.
 **NOT Albania**.
 
 **You will likely be forced to buy specific car insurance for Albania at a high price if you cannot prove you have an**
-**insurance specifically covering Albania**
+**insurance specifically covering Albania.**
 
 Albania has _the_ worst roads I've seen in Europe with many places having unpaved roadswith everybody forced to drive
 15-20mph over jagged stones and potholes and hoping your tyres don't get punctured.
@@ -3159,6 +3159,17 @@ Some of these less developed countries like Moldova and Morocco demand cash usag
   Regarding, steak on a price trade off I'd probably try one of the other steak places next time.
 
 ### Montenegro
+
+#### Driving in Montenegro
+
+**Beware: UK car insurance only covers the EU and one or two other countries like Switzerland and maybe Serbia, but**
+**NOT Montenegro**.
+
+**You will likely be forced to buy specific car insurance for Montenegro at a high price if you cannot prove you have**
+**an insurance specifically covering Montenegro.**
+
+The border police also checked UK MOT is valid
+and may refuse to let you drive if it has lapse while you're road tripping overseas.
 
 #### Podgorica
 
