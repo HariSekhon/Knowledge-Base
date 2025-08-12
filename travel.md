@@ -1249,7 +1249,10 @@ This is definitely one to revisit.
   standards.
   They have a single homemade dessert, which is like a small baklava with 2 orange slices on the side.
   They don't have freshly squeezed orange juice though, neither do the neighbouring restaurants
-- [Beach](https://maps.app.goo.gl/NX6tv6JP1pJ23yi47) - north end of the beach with free parking
+- [Beach](https://maps.app.goo.gl/NX6tv6JP1pJ23yi47)
+- Parking - the north end of the beach above has an area of free parking, but beware, don't park
+  in the bays facing the street - people parked on the street in front of those bays and completely blocked me in -
+  I couldn't pull out and had to wait for them to return and move their car before I could leave!
 
 - [Oborri Familjar](https://maps.app.goo.gl/T234X1Fy3hNvLR7v6) - highly rated but cash only and I didn't want to get
   mugged by an ATM again taking out cash and then being stuck with unused leks.
