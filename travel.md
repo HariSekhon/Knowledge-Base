@@ -3543,7 +3543,7 @@ There is no e-Vignettes online toll like in several other European countries,
 but there are toll booths on motorways that accept cards - it's roughly 50p per toll -
 I got hit with 3 or 4 of them between Ohrid and Skopje,
 but they're more of a stopping inconvenience than a substantial cost compared to Poland where you can pay an outrageous
-€10 for a single toll crossing or the central European countries where you can pay €10-20 for an online pass.
+€10 for a single toll crossing or some other uropean countries where you can pay €10-20 for an online pass.
 
 #### Skopje
 
