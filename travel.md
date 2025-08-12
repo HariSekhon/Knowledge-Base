@@ -972,8 +972,9 @@ Some of the roads aren't great though.
 The usual big names of Uber and Bolt aren't present.
 
 - [Speed Taxi](https://speedtaxi.al/) - used this, more expensive than VrapOn Taxi. Only payment option was cash
-- [VrapOn Taxi](https://vrapon.al/) - cheaper but not in English and didn't accept the SMS verification codes. Only
-  payment option was cash
+- [VrapOn Taxi](https://vrapon.al/) -
+  cheaper but not in English and didn't accept the SMS verification codes so I couldn't get it working in time.
+  Only payment option was cash
 
 #### Driving in Albania
 
