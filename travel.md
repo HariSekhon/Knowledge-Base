@@ -3500,7 +3500,48 @@ Beach city in northern Morocco.
 
 #### Amsterdam
 
-Was only here briefly, must re-visit to create notes.
+Was only here briefly for work and cannot remember the fancy restaurant work took me to.
+
+Must re-visit for longer to fill out this section.
+
+Obviously, everybody knows about [De Wallen](https://maps.app.goo.gl/CeM2ddZPFvj9zV7d7) :wink:.
+
+### North Macedonia
+
+#### Driving in North Macedonia
+
+It took **3 hours** to get through the Albanian - Macedonian border.
+
+**Beware: UK car insurance only covers the EU and one or two other countries like Switzerland and maybe Serbia, but**
+**NOT North Macedonia**.
+
+**Border police said every UK insurance is not valid there, only in EU -
+so they specifically challenge every British car and when I checked the small print they were
+right (probably similar for all EU cars, which is why the border queue takes so long).**
+
+**They forced me to buy insurance specifically for North Macedonia from a 24 hour
+office on site - €50 for 15 days - almost twice the price of my regular insurance - a relatively high insurance premium
+for my ignorance and being caught out by small print!**
+
+Street Lighting -
+most of the country's roads outside the cities are not lit,
+even the motorways and main trunk roads across the country so you'll need to drive with your beam on.
+
+Single Lane - most of the roads between Ohrid in the south and Skopje in the north were single lane, so
+I was frequently getting stuck behind slow lorries or coaches, and overtaking is very difficult and dangerous here.
+
+#### Skopje
+
+[Skopje](https://maps.app.goo.gl/HsirTdkXtsbqHKRg7) (pro-nounced Sko-pyeh) is the capital of North Macedona, in the
+north of the country near the Serbian and Kosovan borders.
+
+ps. where is _"South"_ Macedonia - they must be hinting that Greece is South Macedonia!
+
+#### Ohrid
+
+TODO: after being stuck at the border for 3 hours I ran out of time to stop here.
+
+Must revisit this for Lake Ohrid as the view of it was amazing in Pogradec, Albania.
 
 ### Norway
 
@@ -3934,7 +3975,7 @@ I've asked the locals about this and they said there are a couple non-smoking ve
 
 #### Driving in Serbia
 
-Expect a 3 hour queues at the Serbian border.
+It took over **3 hours** to get through the Hungarian - Serbian border.
 
 I asked a guy in the queue of cars in front of me and he said 3-4 hours was common.
 
