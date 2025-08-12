@@ -668,15 +668,19 @@ Because banks and other legacy providers will force you to call them, you can us
 - [Skype](https://www.skype.com/en/international-calls/) - £5 for 400 minutes, expensive for national numbers like most
   banks and businesses use
 
-## Foreign Cash Withdrawals
+## ATMs and Foreign Cash Withdrawals
 
-Do not use your Wise card to withdraw cash from ATM machines overseas.
+ATMs in some countries charge a flat fee of between £5-7 for any withdrawal amount -
+Thailand, Cambodia, Croatia and Albania spring to mind.
 
-They charged me almost \$7 as an 'ATM withdrawal fee'... on top of the \$5 the Cambodian ATM charged me.
+This means it's better to estimate how much you need up front and make fewer larger withdrawals.
+
+Do not use your Wise card to withdraw cash from ATM machines overseas - they charged me almost \$7 as an
+_'ATM withdrawal fee'_... on top of the \$5 the Cambodian ATM charged me.
 
 My bank by comparison charged me only the exchange rate, which was very close to accurate, I checked.
 
-Obviously don't withdraw cash using credit cards, they'll probably be the worst and most unscrupulous in charges.
+Obviously don't withdraw cash using credit cards, they'll likely have the worst / highest unscrupulous charges.
 
 ## Restaurants & Dining Out
 
