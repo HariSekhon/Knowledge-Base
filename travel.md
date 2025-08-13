@@ -1,6 +1,6 @@
 # Travel
 
-Short links:
+Short links to this page:
 
 [tinyurl.com/hari-travels](https://tinyurl.com/hari-travels)
 
