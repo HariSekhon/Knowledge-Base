@@ -4728,6 +4728,31 @@ Istanbul is one big tourist trap.
 
 I am shocked how expensive Istanbul is, triply so arriving from Morocco.
 
+Everybody seems to be out to overcharge you or cheat you as you will see in both the taxis and restaurants sections
+below:
+
+##### Taxis in Istanbul
+
+Taxis are bad too.
+
+One taxi driver quoted me "20 Euros" (not even their local currency) to go 1 mile down the road!
+
+I asked 2 taxi drivers
+to take me from Gayrettepe to Sultanahmet and they flat out refused in Turkish without speaking English.
+
+I tried the [BiTaksi](https://www.bitaksi.com/en) app and it failed to find drivers for me several times,
+even with tips pre-added.
+I ended up walking the last mile to my accommodation.
+
+I managed to get a taxi to the airport when leaving
+but the taxi driver charged me 1080 lira (£21) on the BiTaxi app and then another 1700 lira (£33) on card in person at
+the end of the ride, and just after I tapped my card to pay, the app then also charged me (probably because he ended the
+journey on his app only after this), thereby not only overcharging me but also cheating me by charging me twice.
+I reached out to BiTaksi several times via in app chats and emails to request a refund for at least one of the double
+charges but they never responded.
+
+This pretty much sums up the experience in Turkey.
+
 ##### Restaurants in Istanbul
 
 Restaurants will often cost £30 per head without alcohol for mediocre food that would be cheaper even in the UK.
@@ -4775,28 +4800,6 @@ TODO:
 - [Hidden Garden](https://maps.app.goo.gl/UTaW8RRBgru5T7Ev5)
 - [Food Palace 1981 Anatolian Restaurant](https://maps.app.goo.gl/mYGeoaaJkDcW13eVA)
 - [The First Ottoman Lounge](https://maps.app.goo.gl/F79T1ZVfapehFsqf7)
-
-##### Taxis in Istanbul
-
-Taxis are bad too.
-
-One taxi driver quoted me "20 Euros" (not even their local currency) to go 1 mile down the road!
-
-I asked 2 taxi drivers
-to take me from Gayrettepe to Sultanahmet and they flat out refused in Turkish without speaking English.
-
-I tried the [BiTaksi](https://www.bitaksi.com/en) app and it failed to find drivers for me several times,
-even with tips pre-added.
-I ended up walking the last mile to my accommodation.
-
-I managed to get a taxi to the airport when leaving
-but the taxi driver charged me 1080 lira (£21) on the BiTaxi app and then another 1700 lira (£33) on card in person at
-the end of the ride, and just after I tapped my card to pay, the app then also charged me (probably because he ended the
-journey on his app only after this), thereby not only overcharging me but also cheating me by charging me twice.
-I reached out to BiTaksi several times via in app chats and emails to request a refund for at least one of the double
-charges but they never responded.
-
-This pretty much sums up the experience in Turkey.
 
 ### UAE
 
