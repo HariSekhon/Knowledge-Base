@@ -4792,8 +4792,8 @@ I ended up walking the last mile to my accommodation.
 I managed to get a taxi to the airport when leaving
 but the taxi driver charged me 1080 lira (£21) on the BiTaxi app and then another 1700 lira (£33) on card in person,
 both overcharging me and cheating me by charging me twice.
-I reached out to BiTaksi several times to request a refund for at least one of the double charges but they never
-responded.
+I reached out to BiTaksi several times via in app chats and emails to request a refund for at least one of the double
+charges but they never responded.
 
 This pretty much sums up the experience in Turkey.
 
