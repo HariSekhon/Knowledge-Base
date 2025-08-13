@@ -4785,14 +4785,15 @@ One taxi driver quoted me "20 Euros" (not even their local currency) to go 1 mil
 I asked 2 taxi drivers
 to take me from Gayrettepe to Sultanahmet and they flat out refused in Turkish without speaking English.
 
-I tried the [BiTaxi](https://www.bitaksi.com/en) app and it failed to find drivers for me several times,
+I tried the [BiTaksi](https://www.bitaksi.com/en) app and it failed to find drivers for me several times,
 even with tips pre-added.
 I ended up walking the last mile to my accommodation.
 
 I managed to get a taxi to the airport when leaving
 but the taxi driver charged me 1080 lira (£21) on the BiTaxi app and then another 1700 lira (£33) on card in person,
 both overcharging me and cheating me by charging me twice.
-I reached out to bitaksi but they never responded.
+I reached out to BiTaksi several times to request a refund for at least one of the double charges but they never
+responded.
 
 This pretty much sums up the experience in Turkey.
 
