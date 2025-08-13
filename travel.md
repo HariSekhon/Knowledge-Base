@@ -3586,6 +3586,29 @@ north of the country near the Serbian and Kosovan borders.
 
 ps. where is _"South"_ Macedonia - they must be hinting that Greece is South Macedonia!
 
+- [Healthy Junk Food corner](https://maps.app.goo.gl/74q7p2rTzzRxg7ow7) - probably the best thing you'll eat in Skopje -
+  healthy homemade naan wraps with succulent chicken and home made seasoning mixes, and cheap at only 215 mkd (€3.50)!
+  They don't sell drinks at this time so bring your own from the neighbouring grocery store.
+  This is a very unique proposition with a lovely unique couple who have brought the magic of both taste and healthiness
+  to their food - even the fries are air fried for healthiness
+- [Urban Skopje](https://maps.app.goo.gl/KVa87SqEiNFxFMBc7) - coffee / juice truck stall in
+  [City Park](https://maps.app.goo.gl/gYz6SMPGeKsmG93M8) - 150 mkd (€2.50) for a small freshly squeeze juice with ice,
+  it's lower rating is probably because it's not as good value for money as the food at Healthy Junk Food corner,
+  but is welcome relief on a hot day
+- [Van Gogh Bar](https://maps.app.goo.gl/wvwveR3K8pozkjD49) - refused to split the bill - bring cash
+- [Ла-Сди (La Sdi)](https://maps.app.goo.gl/iZgQ1aW4fgw22jht5) - 24 hour grocery store - when you fany a late night
+  ice cream or need some bottled water, or eggs for the morning
+- [Macedonia Square](https://maps.app.goo.gl/3dx6RHXayFjP8aNp7) - tourist area
+- [Old Bazaar - Skopje Old Town](https://maps.app.goo.gl/mCA6gtT7C1VmmEbN8) - must visit bazaar in the Skopje Fortress,
+  with markets, shops and cafes
+
+Not Recommended:
+
+- [Beer Garden](https://maps.app.goo.gl/dsdzwQPsyRYf8gdn7) - ok for drinks but their chicken souvlaki skewers were raw
+  in the middle in all three of our orders - do not eat here unless you want to get food poisoning, we had to leave our
+  food and they still charged us for it.
+  This is what happens when you let the group convince you to just eat here because they're hungry and can't wait
+
 #### Ohrid
 
 TODO: after being stuck at the border for 3 hours I ran out of time to stop here.
