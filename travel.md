@@ -312,6 +312,21 @@ but once in a while it'll screw you with a much higher price than the others.
 
 [Agoda.com](https://www.agoda.com/) - the best site for use in Asia, and you really need to go to Asia, it's amazing.
 
+[HostelWorld](https://www.hostelworld.com/) - sometimes more expensive than Agoda,
+but sometimes has hostels that other sites don't have.
+People are often willing to pay a slight premium to book through HostelWorld just to get access to it's unique city chat
+feature to meet other solo travellers to socialize.
+The chat is a bit sluggish and buggy, so I use this chat to collect the IGs and then start a better Insta group chat.
+HostelWorld usually takes a deposit (which doesn't go to the hostel and is non-refundable if you cancel), and then you
+pay the hostel when you arrive.
+This means you are slightly better off booking a shorter time on the app to pay less deposit but still get access to
+the city chat and then extending your stay locally with the hostel - as long as the hostel isn't likely to run out of
+capacity!
+There is a limitation in the app / website that you cannot change your booked duration once purchased,
+and beware that if you cancel the booking (eg. because you want to shorten the duration for example at the request of
+your hostel to free up the bed on their system) you will lose both your deposit and access to the chat, and the customer
+service support cannot undo the cancellation for you either.
+
 [Kayak.com](https://www.kayak.com/) - usually cheaper than SkyScanner and had cheaper flights not found on Expedia.
   lI prefer Kayak to SkyScanner because I can filter for flights including luggage in the price
   and when following through to [eDreams](https://www.edreams.com/) or [Trip.com](https://trip.com/) flights I can
