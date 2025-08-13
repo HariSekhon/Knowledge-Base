@@ -4746,7 +4746,8 @@ The burgers look lowed grade compared to Gourmet Burger Kitchen back home.
 I can't honestly recommend many places in Istanbul as I was not impressed, but here are a couple:
 
 - [Hafiz Mustafa 1864](https://www.google.com/maps/search/Hafiz+Mustafa/@41.0088626,28.9685038,15.55z?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D) -
-  famous dessert shop chain, highly rated for good reason
+  famous dessert shop chain, highly rated for good reason.
+  A few of them are 24 hours with people enjoying socializing there even well past midnight
 - [Coffee No.4](https://maps.app.goo.gl/dATVSgQKREc3RzGC7) - the ground pistacchio speciality is amazing, and brewed in
   a traditional hot sand - a little pricey but I loved it
 
