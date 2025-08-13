@@ -4746,7 +4746,7 @@ I tried the [BiTaksi](https://www.bitaksi.com/en) app and it failed to find driv
 even with tips pre-added.
 I ended up walking the last mile to my accommodation.
 
-I managed to get a taxi to the airport when leaving
+I managed to get a taxi to the airport using [BiTaksi](https://www.bitaksi.com/en) when leaving
 but the taxi driver charged me 1080 lira (£21) on the BiTaxi app and then another 1700 lira (£33) on card in person at
 the end of the ride, and just after I tapped my card to pay, the app then also charged me (probably because he ended the
 journey on his app only after this), thereby not only overcharging me but also cheating me by charging me twice.
