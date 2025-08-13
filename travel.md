@@ -4757,6 +4757,13 @@ I reached out to bitaksi but they never responded.
 
 This pretty much sums up the experience in Turkey.
 
+I don't really recommend many places in Istanbul as I was not impressed, but here are a couple:
+
+- [Hafiz Mustafa 1864](https://www.google.com/maps/search/Hafiz+Mustafa/@41.0088626,28.9685038,15.55z?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D) -
+  famous dessert shop chain, highly rated for good reason
+- [Coffee No.4](https://maps.app.goo.gl/dATVSgQKREc3RzGC7) - the ground pistacchio speciality is amazing, and brewed in
+  a traditional hot sand - a little pricey but I loved it
+
 ### UAE
 
 The United Arab Emirates is one of the most civilized and safe societies I have ever seen.
