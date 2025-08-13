@@ -264,8 +264,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Turkey](#turkey)
     - [Antalya Airport](#antalya-airport)
     - [Istanbul](#istanbul)
-    - [Restaurants in Istanbul](#restaurants-in-istanbul)
-    - [Taxis in Istanbul](#taxis-in-istanbul)
+      - [Restaurants in Istanbul](#restaurants-in-istanbul)
+      - [Taxis in Istanbul](#taxis-in-istanbul)
   - [UAE](#uae)
     - [Driving in UAE](#driving-in-uae)
     - [Abu Dhabi](#abu-dhabi)
@@ -4722,7 +4722,7 @@ Istanbul is one big tourist trap.
 
 I am shocked how expensive Istanbul is, triply so arriving from Morocco.
 
-#### Restaurants in Istanbul
+##### Restaurants in Istanbul
 
 Restaurants will often cost £30 per head without alcohol for food that would be cheaper even in the UK.
 
@@ -4755,7 +4755,7 @@ I can't honestly recommend many places in Istanbul as I was not impressed, but h
 - [Hagia Sophia Grand Mosque](https://maps.app.goo.gl/RzSr4B9S1WodNvTP6)
 - [Topkapi Palace Museum](https://maps.app.goo.gl/mmV1dPjXYsAFZSGBA)
 
-#### Taxis in Istanbul
+##### Taxis in Istanbul
 
 Taxis are bad too.
 
