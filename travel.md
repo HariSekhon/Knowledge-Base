@@ -4790,8 +4790,9 @@ even with tips pre-added.
 I ended up walking the last mile to my accommodation.
 
 I managed to get a taxi to the airport when leaving
-but the taxi driver charged me 1080 lira (£21) on the BiTaxi app and then another 1700 lira (£33) on card in person,
-both overcharging me and cheating me by charging me twice.
+but the taxi driver charged me 1080 lira (£21) on the BiTaxi app and then another 1700 lira (£33) on card in person at
+the end of the ride, and just after I tapped my card to pay, the app then also charged me (probably because he ended the
+journey on his app only after this), thereby not only overcharging me but also cheating me by charging me twice.
 I reached out to BiTaksi several times via in app chats and emails to request a refund for at least one of the double
 charges but they never responded.
 
