@@ -269,14 +269,14 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
     - [Abu Dhabi](#abu-dhabi)
       - [Restaurants in Abu Dhabi](#restaurants-in-abu-dhabi)
     - [Dubai](#dubai)
-    - [Metro in Dubai](#metro-in-dubai)
-    - [Taxis in Dubai](#taxis-in-dubai)
-    - [Parking in Dubai](#parking-in-dubai)
-    - [Weather in Dubai](#weather-in-dubai)
-    - [Attractions in Dubai](#attractions-in-dubai)
-    - [Restaurants in Dubai](#restaurants-in-dubai)
-    - [Visas for Dubai](#visas-for-dubai)
-    - [Banking in Dubai](#banking-in-dubai)
+      - [Metro in Dubai](#metro-in-dubai)
+      - [Taxis in Dubai](#taxis-in-dubai)
+      - [Parking in Dubai](#parking-in-dubai)
+      - [Weather in Dubai](#weather-in-dubai)
+      - [Attractions in Dubai](#attractions-in-dubai)
+      - [Restaurants in Dubai](#restaurants-in-dubai)
+      - [Visas for Dubai](#visas-for-dubai)
+      - [Banking in Dubai](#banking-in-dubai)
   - [United Kingdom](#united-kingdom)
     - [Best Areas in the UK](#best-areas-in-the-uk)
     - [Best Areas in London](#best-areas-in-london)
@@ -4801,7 +4801,7 @@ People drive with air conditioning and dive into malls, offices and restaurants 
 
 I used Virgin Mobile on a prepaid contract for around £200 for the year which was the cheapest deal I could find.
 
-#### Metro in Dubai
+##### Metro in Dubai
 
 Good for the areas it covers.
 
@@ -4811,7 +4811,7 @@ This works out to a mere 65p or £1.10!!
 
 Buy a Nol card immediately for 25 dirhams which has 19 dirhams of credit already pre-loaded on it.
 
-#### Taxis in Dubai
+##### Taxis in Dubai
 
 You will need a car or taxi to really get around.
 
@@ -4819,7 +4819,7 @@ You will need a car or taxi to really get around.
 
 It does everything from Uber-style taxis, to food delivery, to rental bicycles.
 
-#### Parking in Dubai
+##### Parking in Dubai
 
 Parking is easy in most of the malls but really difficult near the Dubai World Trade Center.
 
@@ -4829,13 +4829,13 @@ Occasionally it is blocked off for DWTC events, but there is another smaller ope
 [here](https://maps.app.goo.gl/jMzPUWreB5ypQ1gw9).
 I avoid using the Al Mustaqbal car park as it is expensive at 10 AED per hour.
 
-#### Weather in Dubai
+##### Weather in Dubai
 
 The weather is so hot even by May some people use sun umbrellas - so hot that it broke my car phone holder.
 Rich people usually leave Dubai and go to Europe for the summer.
 Copying them was how a lot of the European countries on this list were covered!
 
-#### Attractions in Dubai
+##### Attractions in Dubai
 
 Dubai has a good mix of beaches and malls.
 It is built in the US style where a mall is not just a shopping venue but a destination with lots of restaurants & cafes
@@ -4865,7 +4865,7 @@ as well as activities.
 - [Global Village](https://www.tripadvisor.com/Attraction_Review-g295424-d2038312-Reviews-Global_Village-Dubai_Emirate_of_Dubai.html) -
   only open October to April
 
-#### Restaurants in Dubai
+##### Restaurants in Dubai
 
 Often restaurants outside of the malls are better in terms of prices.
 
@@ -4899,7 +4899,7 @@ Often restaurants outside of the malls are better in terms of prices.
 - [Al Rigga Night Market](https://maps.app.goo.gl/dVxrrWQwxGW1KoNQ7) - full of cheap eats, and the market opposite,
   bustling at midnight, open until 2am
 
-#### Visas for Dubai
+##### Visas for Dubai
 
 You are required to get a medical blood screening, chest x-ray, biometrics like fingerprinting to get a visa here.
 
@@ -4909,7 +4909,7 @@ and will get a shock as your car rental company refuses to release the car to yo
 You will then need to Careem around the city to get your Emirates ID and then your Drivers License which will require
 local bank or cash payment.
 
-#### Banking in Dubai
+##### Banking in Dubai
 
 - [Mashreq](https://www.mashreq.com/) is the easiest to use, app-only like Starling or Monzo
   - but I lost 5% on a GBP-to-GBP transfer from ADCB to Mashreq... Bitcoin transaction fees are
