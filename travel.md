@@ -4754,9 +4754,11 @@ I can't honestly recommend many places in Istanbul as I was not impressed, but h
 
 - [Hagia Sophia Grand Mosque](https://maps.app.goo.gl/RzSr4B9S1WodNvTP6)
 - [Topkapi Palace Museum](https://maps.app.goo.gl/mmV1dPjXYsAFZSGBA)
+- [Galata Tower](https://maps.app.goo.gl/w3bqNYg6CRigXsJR8)
 
 TODO:
 
+- [La Terrasse Karaköy](https://maps.app.goo.gl/x3ZuuXwzGfrdCcEX7)
 - [Hidden Garden](https://maps.app.goo.gl/UTaW8RRBgru5T7Ev5)
 - [Food Palace 1981 Anatolian Restaurant](https://maps.app.goo.gl/mYGeoaaJkDcW13eVA)
 - [The First Ottoman Lounge](https://maps.app.goo.gl/F79T1ZVfapehFsqf7)
