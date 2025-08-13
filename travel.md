@@ -4756,6 +4756,12 @@ I can't honestly recommend many places in Istanbul as I was not impressed, but h
 - [Topkapi Palace Museum](https://maps.app.goo.gl/mmV1dPjXYsAFZSGBA)
 - [Galata Tower](https://maps.app.goo.gl/w3bqNYg6CRigXsJR8)
 
+Wasn't impressed:
+
+- [Bistro corner cafe restaurant](https://maps.app.goo.gl/NGeUjbeJJe7gqSEYA)
+- [Paradise seafood kebap restaurant](https://maps.app.goo.gl/9sV4cVQp55vjbyEZ6)
+- [Cozy Garden Fish And Meat Restaurant](Cozy Garden Fish And Meat Restaurant)
+
 TODO:
 
 - [La Terrasse Karaköy](https://maps.app.goo.gl/x3ZuuXwzGfrdCcEX7)
