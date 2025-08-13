@@ -29,6 +29,7 @@ Updated regularly as I travel the world all year.
   - [Hostel Tips](#hostel-tips)
     - [Lockers](#lockers)
     - [Towels](#towels)
+    - [Shower Gel](#shower-gel)
     - [Pillows](#pillows)
     - [WorldPackers](#worldpackers)
 - [Taxis](#taxis)
@@ -549,6 +550,10 @@ Some hostels provide towels, others rent them to you, and others don't provide t
 If using hostels repeatedly,
 buy yourself a nice fluffy towel with a high thread count instead of renting them,
 it'll work out cheaper in the long run anyway.
+
+#### Shower Gel
+
+At most hostels you will need to take your own shower gel.
 
 #### Pillows
 
