@@ -4720,6 +4720,8 @@ Istanbul is one big tourist trap.
 
 I am shocked how expensive Istanbul is, triply so arriving from Morocco.
 
+#### Restaurants in Istanbul
+
 Restaurants will often cost £30 per head without alcohol for food that would be cheaper even in the UK.
 
 £6 for an orange juice when it was £1.50-£2 in Morocco the week earlier...
@@ -4732,12 +4734,25 @@ It hardly even matters which restaurant you go to, it's like they're all roughly
 Google Maps reviews can't be trusted - almost everywhere seems to have 4.7, 4.8, 4.9, or 5.0 ratings for places that
 would be 4.1 - 4.3 in the rest of the world.
 
-You follow to a "recommended" place and find it even more overpriced than the others.
+You follow to a _"recommended"_ place and find it even more overpriced than the others.
 Either reviews are not factoring in price or there is a lot of fake review inflation in Istanbul.
 
 The airport is, expectedly even worse.
 £17 for a bolognese that would be £5-8 anywhere else, £20 for a burger etc.
 The burgers look lowed grade compared to Gourmet Burger Kitchen back home.
+
+I can't honestly recommend many places in Istanbul as I was not impressed, but here are a couple:
+
+- [Hafiz Mustafa 1864](https://www.google.com/maps/search/Hafiz+Mustafa/@41.0088626,28.9685038,15.55z?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D) -
+  famous dessert shop chain, highly rated for good reason
+- [Coffee No.4](https://maps.app.goo.gl/dATVSgQKREc3RzGC7) - the ground pistacchio speciality is amazing, and brewed in
+  a traditional hot sand - a little pricey but I loved it
+
+
+- [Hagia Sophia Grand Mosque](https://maps.app.goo.gl/RzSr4B9S1WodNvTP6)
+- [Topkapi Palace Museum](https://maps.app.goo.gl/mmV1dPjXYsAFZSGBA)
+
+#### Taxis in Istanbul
 
 Taxis are bad too.
 
@@ -4756,13 +4771,6 @@ both overcharging me and cheating me by charging me twice.
 I reached out to bitaksi but they never responded.
 
 This pretty much sums up the experience in Turkey.
-
-I don't really recommend many places in Istanbul as I was not impressed, but here are a couple:
-
-- [Hafiz Mustafa 1864](https://www.google.com/maps/search/Hafiz+Mustafa/@41.0088626,28.9685038,15.55z?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D) -
-  famous dessert shop chain, highly rated for good reason
-- [Coffee No.4](https://maps.app.goo.gl/dATVSgQKREc3RzGC7) - the ground pistacchio speciality is amazing, and brewed in
-  a traditional hot sand - a little pricey but I loved it
 
 ### UAE
 
