@@ -32,6 +32,11 @@
 
 See the [PaaS](paas.md) doc.
 
+## URL Shorteners
+
+- [TinyURL](https://tinyurl.com)
+- [Bit.ly](https://bit.ly)
+
 ## SSG - Static Site Generators
 
 Generate static HTML pages from code or markdown. Jekyll is an obvious example, used with GitHub Pages.
