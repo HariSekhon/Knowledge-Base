@@ -264,6 +264,8 @@ Whether Consulting internationally or visiting for a holiday, here are some usef
   - [Turkey](#turkey)
     - [Antalya Airport](#antalya-airport)
     - [Istanbul](#istanbul)
+    - [Restaurants in Istanbul](#restaurants-in-istanbul)
+    - [Taxis in Istanbul](#taxis-in-istanbul)
   - [UAE](#uae)
     - [Driving in UAE](#driving-in-uae)
     - [Abu Dhabi](#abu-dhabi)
@@ -4748,6 +4750,7 @@ I can't honestly recommend many places in Istanbul as I was not impressed, but h
 - [Coffee No.4](https://maps.app.goo.gl/dATVSgQKREc3RzGC7) - the ground pistacchio speciality is amazing, and brewed in
   a traditional hot sand - a little pricey but I loved it
 
+<!-- -->
 
 - [Hagia Sophia Grand Mosque](https://maps.app.goo.gl/RzSr4B9S1WodNvTP6)
 - [Topkapi Palace Museum](https://maps.app.goo.gl/mmV1dPjXYsAFZSGBA)
