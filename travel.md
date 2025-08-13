@@ -1,6 +1,10 @@
 # Travel
 
-Short link: [bit.ly/hari-travels](https://bit.ly/hari-travels)
+Short links:
+
+[tinyurl.com/hari-travels](https://tinyurl.com/hari-travels)
+
+[bit.ly/hari-travels](https://bit.ly/hari-travels)
 
 I've worked on 4 continents.
 
