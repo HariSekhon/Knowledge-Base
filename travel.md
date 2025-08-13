@@ -4724,7 +4724,7 @@ I am shocked how expensive Istanbul is, triply so arriving from Morocco.
 
 ##### Restaurants in Istanbul
 
-Restaurants will often cost £30 per head without alcohol for food that would be cheaper even in the UK.
+Restaurants will often cost £30 per head without alcohol for mediocre food that would be cheaper even in the UK.
 
 £6 for an orange juice when it was £1.50-£2 in Morocco the week earlier...
 £2-4 for a water. Meanwhile in the supermarkets a fresh squeezed juice in a bottle is £1.50 or a 500ml water bottle for 10-20p.
