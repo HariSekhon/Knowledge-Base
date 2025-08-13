@@ -1,5 +1,7 @@
 # Travel
 
+[bit.ly/hari-travels](https://bit.ly/hari-travels)
+
 I've worked on 4 continents.
 
 Whether Consulting internationally or visiting for a holiday, here are some useful tips from my travels.
