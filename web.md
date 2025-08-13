@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [PaaS - Platform as a Service](#paas---platform-as-a-service)
+- [URL Shorteners](#url-shorteners)
 - [SSG - Static Site Generators](#ssg---static-site-generators)
   - [Jekyll](#jekyll)
   - [Hugo](#hugo)
