@@ -312,7 +312,7 @@ but once in a while it'll screw you with a much higher price than the others.
 
 [Agoda.com](https://www.agoda.com/) - the best site for use in Asia, and you really need to go to Asia, it's amazing.
 
-[HostelWorld](https://www.hostelworld.com/) - sometimes more expensive than Agoda,
+[HostelWorld.com](https://www.hostelworld.com/) - sometimes more expensive than Agoda,
 but sometimes has hostels that other sites don't have.
 People are often willing to pay a slight premium to book through HostelWorld just to get access to it's unique city chat
 feature to meet other solo travellers to socialize.
