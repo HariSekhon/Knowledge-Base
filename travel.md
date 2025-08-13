@@ -4733,9 +4733,11 @@ below:
 
 ##### Taxis in Istanbul
 
-Taxis are bad too.
+Taxi drivers are terrible for trying to scam tourists in Istanbul.
 
-One taxi driver quoted me "20 Euros" (not even their local currency) to go 1 mile down the road!
+One taxi driver quoted me _"20 Euros"_ (not even their local currency) to go literally 1 mile down the road!
+
+Even an official black taxi in London wouldn't charge you that much.
 
 I asked 2 taxi drivers
 to take me from Gayrettepe to Sultanahmet and they flat out refused in Turkish without speaking English.
