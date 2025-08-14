@@ -3654,6 +3654,8 @@ Not Recommended:
 
 TODO:
 
+- [Blueberry & Basil | Brunch & Coffee shop](https://maps.app.goo.gl/LYh4owx9UitDTkiAA) - good looking menu, closes at
+  5pm, get there earlier in the day
 - [Nesto Zdravo](https://maps.app.goo.gl/TMVBv31mjj4jwSZU6) - health food restaurant
 - [East Gate Mall](https://maps.app.goo.gl/Z5D5T1X4TdZgYeaq5)
 - Burgerslut [Center](https://maps.app.goo.gl/JajGBWfS667mNBct8) /
