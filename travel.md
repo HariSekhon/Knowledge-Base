@@ -3619,19 +3619,30 @@ ps. where is _"South"_ Macedonia - they must be hinting that Greece is South Mac
 - [Healthy Junk Food corner](https://maps.app.goo.gl/74q7p2rTzzRxg7ow7) - probably the best thing you'll eat in Skopje -
   healthy homemade naan wraps with succulent chicken and home made seasoning mixes, and cheap at only 215 mkd (€3.50)!
   They don't sell drinks at this time so bring your own from the neighbouring grocery store.
-  This is a very unique proposition by a lovely married couple Maria & Sunil mixing local and asian fusion who
+  This is a very unique proposition by a lovely married couple Maria & Nikhil mixing local and asian fusion who
   have really brought the magic of both taste and healthiness to their food - even the fries are air fried for
   healthiness
+- [The Brunch Cafe](https://maps.app.goo.gl/fAaLrch9qw7ybDiR9) - the 3 fried eggs on avocado toast was a good size and
+  really hit the spot, and came with a bit of crispy streaky bacon the side. Has fresh squeezed orange juice pre-bottled
+  by [markt.mk](https://markt.mk)
+- [Brunch Healthy Foods & Snacks](https://maps.app.goo.gl/fCg1GCyF73zJKcN47) - cakes and freshly squeezed juices, not
+  great seating though
 - [Urban Skopje](https://maps.app.goo.gl/KVa87SqEiNFxFMBc7) - coffee / juice truck stall in
   [City Park](https://maps.app.goo.gl/gYz6SMPGeKsmG93M8) - 150 mkd (€2.50) for a small freshly squeeze juice with ice,
   it's lower rating is probably because it's not as good value for money as the food at Healthy Junk Food corner,
   but is welcome relief on a hot day
+- [Café Nomad](https://maps.app.goo.gl/9c6exiAbQ8GowMA9A) - freshly squeezed juices also in City Park
+- [Chloé Café](https://maps.app.goo.gl/ygzUj18iwDVf3zmc7) - busy night drinking spot
 - [Van Gogh Bar](https://maps.app.goo.gl/wvwveR3K8pozkjD49) - refused to split the bill - bring cash
+- [The Artist Pub](https://maps.app.goo.gl/sH1QBXEVcqU8VUz8A) - live music Wednesdays and Fridays, more of a food menu
+- [Café „Hosh“](https://maps.app.goo.gl/tPwGwCNCiFDNgScD9) - 100 mkd fresh orange juice, cheaper than 150 elsehwere
 - [Ла-Сди (La Sdi)](https://maps.app.goo.gl/iZgQ1aW4fgw22jht5) - 24 hour grocery store - when you fany a late night
   ice cream or need some bottled water, or eggs for the morning
 - [Macedonia Square](https://maps.app.goo.gl/3dx6RHXayFjP8aNp7) - tourist area
 - [Old Bazaar - Skopje Old Town](https://maps.app.goo.gl/mCA6gtT7C1VmmEbN8) - must visit bazaar in the Skopje Fortress,
   with markets, shops and cafes
+- [Diamond Mall](https://maps.app.goo.gl/toAywX1JLRho5bh37) - mall with designer shops
+- [Ramstore Shopping Center](https://maps.app.goo.gl/MQA8bFYGrwE11c8YA) - lower key mall
 
 Not Recommended:
 
@@ -3639,6 +3650,14 @@ Not Recommended:
   in the middle in all three of our orders - do not eat here unless you want to get food poisoning, we had to leave our
   food and they still charged us for it.
   This is what happens when you let the group convince you to just eat here because they're hungry and can't wait
+
+TODO:
+
+- [Nesto Zdravo](https://maps.app.goo.gl/TMVBv31mjj4jwSZU6) - health food restaurant
+- [East Gate Mall](https://maps.app.goo.gl/Z5D5T1X4TdZgYeaq5)
+- Burgerslut [Center](https://maps.app.goo.gl/JajGBWfS667mNBct8) /
+  [Kisela Voda](https://maps.app.goo.gl/eM5izAegoG6tCiGJA) - with a name like this, one just has to try it!
+  The second one has a higher review rating, perhaps a better venue
 
 #### Ohrid
 
