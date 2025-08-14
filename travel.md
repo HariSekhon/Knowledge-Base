@@ -3621,7 +3621,8 @@ ps. where is _"South"_ Macedonia - they must be hinting that Greece is South Mac
   They don't sell drinks at this time so bring your own from the neighbouring grocery store.
   This is a very unique proposition by a lovely married couple Maria & Nikhil mixing local and asian fusion who
   have really brought the magic of both taste and healthiness to their food - even the fries are air fried for
-  healthiness
+  healthiness. Try to get there before 4pm as they have a tendency to run out of their special home made naans that they
+  use for the wraps because they prepare everything fresh the same day and don't want any wastage
 - [The Brunch Cafe](https://maps.app.goo.gl/fAaLrch9qw7ybDiR9) - the 3 fried eggs on avocado toast was a good size and
   really hit the spot, and came with a bit of crispy streaky bacon the side. Has fresh squeezed orange juice pre-bottled
   by [markt.mk](https://markt.mk)
