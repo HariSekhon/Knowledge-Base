@@ -3627,7 +3627,9 @@ ps. where is _"South"_ Macedonia - they must be hinting that Greece is South Mac
   really hit the spot, and came with a bit of crispy streaky bacon the side. Has fresh squeezed orange juice pre-bottled
   by [markt.mk](https://markt.mk)
 - [Brunch Healthy Foods & Snacks](https://maps.app.goo.gl/fCg1GCyF73zJKcN47) - cakes and freshly squeezed juices, not
-  great seating though
+  great seating though.
+  The "carrot cake" looked like an orange topped cheesecake,
+  but it was still good for 150mkd, and the Winter Flu juice was a really good juice mix for 150mkd
 - [Urban Skopje](https://maps.app.goo.gl/KVa87SqEiNFxFMBc7) - coffee / juice truck stall in
   [City Park](https://maps.app.goo.gl/gYz6SMPGeKsmG93M8) - 150 mkd (€2.50) for a small freshly squeeze juice with ice,
   it's lower rating is probably because it's not as good value for money as the food at Healthy Junk Food corner,
