@@ -3619,8 +3619,9 @@ ps. where is _"South"_ Macedonia - they must be hinting that Greece is South Mac
 - [Healthy Junk Food corner](https://maps.app.goo.gl/74q7p2rTzzRxg7ow7) - probably the best thing you'll eat in Skopje -
   healthy homemade naan wraps with succulent chicken and home made seasoning mixes, and cheap at only 215 mkd (€3.50)!
   They don't sell drinks at this time so bring your own from the neighbouring grocery store.
-  This is a very unique proposition with a lovely unique couple who have brought the magic of both taste and healthiness
-  to their food - even the fries are air fried for healthiness
+  This is a very unique proposition by a lovely married couple Maria & Sunil mixing local and asian fusion who
+  have really brought the magic of both taste and healthiness to their food - even the fries are air fried for
+  healthiness
 - [Urban Skopje](https://maps.app.goo.gl/KVa87SqEiNFxFMBc7) - coffee / juice truck stall in
   [City Park](https://maps.app.goo.gl/gYz6SMPGeKsmG93M8) - 150 mkd (€2.50) for a small freshly squeeze juice with ice,
   it's lower rating is probably because it's not as good value for money as the food at Healthy Junk Food corner,
