@@ -3656,11 +3656,15 @@ TODO:
 
 - [Blueberry & Basil | Brunch & Coffee shop](https://maps.app.goo.gl/LYh4owx9UitDTkiAA) - good looking menu, closes at
   5pm, get there earlier in the day
+- [Salud](https://maps.app.goo.gl/RJZXTyimuHKRAaji6)
+- [Saman Coffee & Brunch](https://maps.app.goo.gl/9wDzgnjD9oU7958W8) - vegetarian
 - [Nesto Zdravo](https://maps.app.goo.gl/TMVBv31mjj4jwSZU6) - health food restaurant
 - [East Gate Mall](https://maps.app.goo.gl/Z5D5T1X4TdZgYeaq5)
 - Burgerslut [Center](https://maps.app.goo.gl/JajGBWfS667mNBct8) /
   [Kisela Voda](https://maps.app.goo.gl/eM5izAegoG6tCiGJA) - with a name like this, one just has to try it!
   The second one has a higher review rating, perhaps a better venue
+- [Sarajeva SteakHouse Diamond Mall](https://maps.app.goo.gl/DsH94CZkSzs2cfbq6) - upmarket looking steakhouse
+- [Amigos - Železnička](https://maps.app.goo.gl/eiHmoeQMr9J9gzhi7)
 
 #### Ohrid
 
