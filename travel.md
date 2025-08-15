@@ -3592,7 +3592,7 @@ It took **3 hours** to get through the Albanian - Macedonian border.
 so they specifically challenge every British car and when I checked the small print they were
 right (probably similar for all EU cars, which is why the border queue takes so long).**
 
-**They forced me to buy insurance specifically for North Macedonia from a 24 hour
+**The border police held my passport and forced me to go buy insurance specifically for North Macedonia from a 24 hour
 office on site - €50 for 15 days - almost twice the price of my regular insurance - a relatively high insurance premium
 for my ignorance and being caught out by small print!**
 
