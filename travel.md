@@ -3622,7 +3622,11 @@ ps. where is _"South"_ Macedonia - they must be hinting that Greece is South Mac
   This is a very unique proposition by a lovely married couple Maria & Nikhil mixing local and asian fusion who
   have really brought the magic of both taste and healthiness to their food - even the fries are air fried for
   healthiness. Try to get there before 4pm as they have a tendency to run out of their special home made naans that they
-  use for the wraps because they prepare everything fresh the same day and don't want any wastage
+  use for the wraps because they prepare everything fresh the same day and don't want any wastage.
+  The flame naanwich is their signature with the most herbs and spices,
+  followed by the Heritage, and the Lemon & Herb is an easy choice for anybody.
+  The Peri Peri is a bit spicy, but if you really like spice ask them for the spicy sauce on the side to dip or drip
+  into your naanwich
 - [The Brunch Cafe](https://maps.app.goo.gl/fAaLrch9qw7ybDiR9) - the 3 fried eggs on avocado toast was a good size and
   really hit the spot, and came with a bit of crispy streaky bacon the side. Has fresh squeezed orange juice pre-bottled
   by [markt.mk](https://markt.mk)
