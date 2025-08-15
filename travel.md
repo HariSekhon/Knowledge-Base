@@ -3627,6 +3627,15 @@ ps. where is _"South"_ Macedonia - they must be hinting that Greece is South Mac
   followed by the Heritage, and the Lemon & Herb is an easy choice for anybody.
   The Peri Peri is a bit spicy, but if you really like spice ask them for the spicy sauce on the side to dip or drip
   into your naanwich
+- [Blueberry & Basil | Brunch & Coffee shop](https://maps.app.goo.gl/LYh4owx9UitDTkiAA) - versatile brunch menu with
+  mix of breakfasts such as Eggs Benedict and American breakfast, pancakes, yoghurt & acai bowls, salads, coffee and
+  cakes.
+  The Blueberry Basil pancakes were amazing - fluffy pancakes with blueberries,
+  basil cream for contrast and lemon curd sauce for a sweet dipping base.
+  The best pancakes I've had a long time.
+  The ACAI bowl is small but nice.
+  The cafe closes at 5pm, but the kitchen closes at 4pm so get there early in the afternoon.
+  Wifi 274/73 Mbit/s
 - [The Brunch Cafe](https://maps.app.goo.gl/fAaLrch9qw7ybDiR9) - the 3 fried eggs on avocado toast was a good size and
   really hit the spot, and came with a bit of crispy streaky bacon the side. Has fresh squeezed orange juice pre-bottled
   by [markt.mk](https://markt.mk)
@@ -3660,9 +3669,9 @@ Not Recommended:
 
 TODO:
 
-- [Blueberry & Basil | Brunch & Coffee shop](https://maps.app.goo.gl/LYh4owx9UitDTkiAA) - good looking menu, closes at
-  5pm, get there earlier in the day
-- [Salud](https://maps.app.goo.gl/RJZXTyimuHKRAaji6)
+- [Fod Mood](https://maps.app.goo.gl/3ELiRtUV29sa6nLn7)
+- [Buddha Express](https://maps.app.goo.gl/bkBHZVKWnLRe1qWRA) - pan-asian restaurant, recommended by Maria & Nikhil from
+  Healthy Junk Food Corner 888
 - [Saman Coffee & Brunch](https://maps.app.goo.gl/9wDzgnjD9oU7958W8) - vegetarian
 - [Nesto Zdravo](https://maps.app.goo.gl/TMVBv31mjj4jwSZU6) - health food restaurant
 - [East Gate Mall](https://maps.app.goo.gl/Z5D5T1X4TdZgYeaq5)
@@ -3671,6 +3680,7 @@ TODO:
   The second one has a higher review rating, perhaps a better venue
 - [Sarajeva SteakHouse Diamond Mall](https://maps.app.goo.gl/DsH94CZkSzs2cfbq6) - upmarket looking steakhouse
 - [Amigos - Železnička](https://maps.app.goo.gl/eiHmoeQMr9J9gzhi7)
+- [Salud](https://maps.app.goo.gl/RJZXTyimuHKRAaji6)
 
 #### Ohrid
 
