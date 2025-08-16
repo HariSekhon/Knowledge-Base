@@ -4229,6 +4229,17 @@ Southern city on the way from Belgrade to Sofia, Bulgaria.
 - [Javna garaža "Ambasador](https://maps.app.goo.gl/7kUXSt3Fqkj5WGH87) - the parking I use when doing stopovers in Nis
   as it's quite central and underground sheltered
 
+TODO:
+
+- [Kafeterija Niš](https://maps.app.goo.gl/p5xFLZhh2Fwtr33o9) - well rated coffee shop
+- [Gostionica “Pobeda”](https://maps.app.goo.gl/KDDu5Ty63ry92jk49) - highly rated restaurant
+- [La Vie](https://maps.app.goo.gl/esSJDbSm7fLBmp3P6) - highly rated restaurant
+- [Kafana Ponoc](https://maps.app.goo.gl/f2PKFjQURdb7qhBf6) - highly rated restaurant
+- [Stambolijski](https://maps.app.goo.gl/TkrYQaSLM6RfJBqt8) - highly rated Serbian restaurant
+- [Pleasure](https://maps.app.goo.gl/7KxVNqzBCkuA5r3P7)
+- [Soul Food by Gaga](https://maps.app.goo.gl/f8mMiVqZ7ytEEB2j7)
+- [Kafana Meze](https://maps.app.goo.gl/e8nZyMgV3AoVrDWaA)
+
 ### Singapore
 
 This city state is one of the most developed places in Asia and one of the most expensive cities in the world.
