@@ -4220,7 +4220,9 @@ Cheaper Airbnbs as 1.5 hour drive from Belgrade.
 Southern city on the way from Belgrade to Sofia, Bulgaria.
 
 - [Distrikt cafe&bar](https://maps.app.goo.gl/DvvaWn7zjj2PTtp66) - nice decor, good selection of drinks, fresh juices,
-  breakfasts, oatmeal special, burgers, pizza, pasta, mains, desserts
+  breakfasts, oatmeal special, burgers, pizza, pasta, mains, desserts.
+  The chocolate cherry protein oatmeal was decent, but very calorie rich so I didn't finish it.
+  The "lime time" juice mix containing lime, orange, apple, pineapple juice was good and freshly made
 - [Kod Rajka](https://maps.app.goo.gl/U3grzPEDWyktKjNW8) - good serbian restaurant. The chicken in mushroom sauce is big
   and all chicken. The sopska salad (tomato, cucumber and onion, covered in shredded feta, is very good). The orange
   juice was sold out, and the homemade lemonade was just squeezed lemon, probably worth skipping that next time.
