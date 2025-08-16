@@ -4219,10 +4219,15 @@ Cheaper Airbnbs as 1.5 hour drive from Belgrade.
 
 Southern city on the way from Belgrade to Sofia, Bulgaria.
 
+- [Distrikt cafe&bar](https://maps.app.goo.gl/DvvaWn7zjj2PTtp66) - nice decor, good selection of drinks, fresh juices,
+  breakfasts, oatmeal special, burgers, pizza, pasta, mains, desserts
 - [Kod Rajka](https://maps.app.goo.gl/U3grzPEDWyktKjNW8) - good serbian restaurant. The chicken in mushroom sauce is big
   and all chicken. The sopska salad (tomato, cucumber and onion, covered in shredded feta, is very good). The orange
   juice was sold out, and the homemade lemonade was just squeezed lemon, probably worth skipping that next time.
   23/10 Mbit/s wifi
+- [Forum](https://maps.app.goo.gl/YAaV3tKqAK9MeLRQ8) - main shopping centre in Nis
+- [Javna garaža "Ambasador](https://maps.app.goo.gl/7kUXSt3Fqkj5WGH87) - the parking I use when doing stopovers in Nis
+  as it's quite central and underground sheltered
 
 ### Singapore
 
