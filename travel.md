@@ -4166,6 +4166,15 @@ The lower end is typically about half that.
 - [Boutique #2](https://maps.app.goo.gl/1svhc4v3bq3aAwfh7) - prime location restaurant for drinks or food on the main
   parade, very popular and good
 - [Trattoria Pepe](https://maps.app.goo.gl/gdP9dLWxAVzGYEdV6) - excellent Italian 5 minutes walk from the centre - worth the walk
+- [Kafana Suvobor](https://maps.app.goo.gl/PqQ4iuStYhSz1EnGA) - good Serbian restaurant in the district the locals eat,
+  5 minutes walk off the main high street.
+  The bread came warm and combined with the ajvar red pepper dip starter was decent.
+  The peppers in oil was a different flavour and also worth trying, 3 large red peppers with garlic.
+  From the barbequeue menu we had skipped the cevapi as it's just minced meat which is lower quality meat,
+  and went with the solid meat pork skewers instead, which came with 2 skewers.
+  However, my favourite pick at this restaurant is the veal sausages, and I don't normally rate sausages but these were
+  full of flavour, I would go back just for these.
+  The Baklava dessert was decent, better than the "venison" chocolate cake, the latter of which I would skip next time
 - [Oskar](https://maps.app.goo.gl/xtbibPCagq1qP5jCA) - good quality restaurant, a few minutes off the beaten track
   (usually better finds because they survive on foot and not tourist trap). 43/31 Mbit/s wifi
 - [Burger House Bros Centar](https://maps.app.goo.gl/C5FyhgFp16gPN11H9) - very good burger restaurant
