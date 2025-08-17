@@ -4201,6 +4201,8 @@ The lower end is typically about half that.
     across the road which is plenty loud enough while sitting outside
   - [Stamevski](https://maps.app.goo.gl/jQYhSot45w6J3rTa8) - dessert restaurant with amazing looking cakes, has pistachio
     milkshake, although very fattening version. Wifi was slow as hell at 0.3/0.05 Mbit/s
+- [Idea - Cara Dušana (Dorćol, Beograd)](https://maps.app.goo.gl/B8s5oUD8JftWZmiUA) - 24 hour supermarket
+- [Maxi](https://maps.app.goo.gl/xd23wydYuSibNsJK9) - 24 hour supermarket on side road adjacent to the main high street
 
 I __don't__ recommend:
 
