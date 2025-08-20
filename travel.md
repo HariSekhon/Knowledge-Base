@@ -231,6 +231,8 @@ Updated regularly as I travel the world all year.
     - [Taxis in Serbia](#taxis-in-serbia)
     - [Driving in Serbia](#driving-in-serbia)
     - [Belgrade](#belgrade)
+      - [Buses in Belgrade & Nikola Tesla Airport](#buses-in-belgrade--nikola-tesla-airport)
+      - [Restaurants in Belgrade](#restaurants-in-belgrade)
     - [Novi Sad](#novi-sad)
     - [Nis](#nis)
   - [Singapore](#singapore)
@@ -4143,6 +4145,20 @@ Even buying an overpriced Noco boost charger for £150 (at 40% above UK price) a
 didn't  work, and nor did jump cabling from a truck.
 
 #### Belgrade
+
+##### Buses in Belgrade & Nikola Tesla Airport
+
+Buses became free in Belgrade in 2025!!!
+
+Except for the A1 bus to / from the airport which costs 400 rsd (Serbian dinars)...
+around €3.40 - but you don't need to take the A1 bus, you can take the 600 or 607 buses to / from Nikola Tesla airport.
+As you come out of the airport arrivals lounge on the lower level (departures is upper level), the bus stop is literally
+outside the door, even closer than the taxies across the street...
+
+...and if you do want to take a taxi, remember to never take tourist trap taxis outside airports as they're usually
+twice the price. See the [Taxis in Serbia](#taxis-in-serbia) section above for the taxi apps.
+
+##### Restaurants in Belgrade
 
 The capital is reasonable in the center. Overall it is slightly cheaper to dine than other European cities.
 
