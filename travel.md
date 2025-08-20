@@ -4158,6 +4158,9 @@ outside the door, even closer than the taxies across the street...
 ...and if you do want to take a taxi, remember to never take tourist trap taxis outside airports as they're usually
 twice the price. See the [Taxis in Serbia](#taxis-in-serbia) section above for the taxi apps.
 
+My friend rode the buses all day around the city when he discovered this and then took me to a bigger mall on the
+outskirts.
+
 ##### Restaurants in Belgrade
 
 The capital is reasonable in the center. Overall it is slightly cheaper to dine than other European cities.
