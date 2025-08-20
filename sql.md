@@ -286,11 +286,15 @@ usually cannot be because their new definitions constraints may violate the stor
   - eg. a Customer ID - people changing their names would not need to rewrite their customer ID number reference used
     in all the tables, the existing queries and joins across tables would still all work
 
+<!--
+
 TODO: https://www.databasestar.com/difference-between-where-and-having-clause/
 
 TODO: https://www.databasestar.com/sql-views/
 
 TODO: https://www.databasestar.com/sql-joins/
+
+-->
 
 ## ACID
 
