@@ -1373,7 +1373,8 @@ sudo launchctl unload "/System/Library/LaunchDaemons/$name.plist"
 
 See [dhcp.md](dhcp.md) for a practical example of using this for the built-in tftp server for PXE boot installing Debian off your Mac.
 
-You can also go to Finder and delete the App which may unload its services,
+You can also go to Finder and delete the App with `Ctrl`-`Backspace`
+which gives a pop-up to remove its system extensions (also stops its services),
 eg. for otherwise stubborn services like Avira antivirus.
 
 ## KeyChain Access
