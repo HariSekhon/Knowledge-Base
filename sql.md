@@ -13,6 +13,7 @@
   - [Functions](#functions)
     - [Aggregate Functions](#aggregate-functions)
       - [Nesting Aggregate Functions](#nesting-aggregate-functions)
+  - [`SORT` and `ORDER`](#sort-and-order)
   - [JOINs](#joins)
   - [Database vs Schema](#database-vs-schema)
   - [Tables vs Views vs Materialized Views](#tables-vs-views-vs-materialized-views)
@@ -23,6 +24,8 @@
 - [SQL Query Logical Order](#sql-query-logical-order)
 - [Meme](#meme)
   - [Update One Record](#update-one-record)
+- [Troubleshooting](#troubleshooting)
+  - [SQuirreL SQL](#squirrel-sql)
 
 <!-- INDEX_END -->
 
@@ -50,6 +53,9 @@ Preference is given to free tools.
 - [PgAdmin](https://www.pgadmin.org/) - PostgreSQL web UI
 - [phpMyAdmin](https://www.phpmyadmin.net/) - MySQL web UI
 - [SQL Chat](https://github.com/sqlchat/sqlchat) - chat-based interface to querying DBs
+- [Datagrip](https://www.jetbrains.com/datagrip/) - paid for RDBMS & NoSQL client by Jetbrains
+  (makers of [IntelliJ](intellij.md))
+- [Dataspell](https://www.jetbrains.com/dataspell/) - paid for data & analytics clients by Jetbrains
 
 ### DBeaver
 
@@ -73,8 +79,9 @@ and then find the application icon under `Applications` as standard or open from
 open -a "DBeaver"
 ```
 
-In the SQL Console, `Cmd`-`Enter` on Mac or `Ctrl`-`Enter`
-on Windows to execute SQL query under cursor, similar to [SQL Developer](oracle.md#sql-developer-ide).
+In the SQL Console, `Cmd`-`Enter` on Mac
+or `Ctrl`-`Enter` on Windows to execute SQL query under cursor,
+similar to [SQL Developer](oracle.md#sql-developer-ide).
 
 ## SQL Linting
 
@@ -106,9 +113,9 @@ on Windows to execute SQL query under cursor, similar to [SQL Developer](oracle.
 
 ### DDL - Data Definition Language
 
-- `CREATE` - create objects in the database eg. schemas or tables within schemas
-- `ALTER` - change objects in the database eg. tablees, indexes or schemas
-- `DROP`-  delete objects from the database eg. tables or indexes
+- `CREATE` - create objects in the database eg. schemas / databases, tables within schemas, or indices on tables
+- `ALTER` - change objects in the database eg. schemas / databases, tables, or indexes
+- `DROP`-  delete objects from the database eg. schemas / databases, tables or indexes
 - `TRUNCATE` - deletes all data from a table
 - `COMMENT` - adds comments to the data dictionary
 - `RENAME` - renames an object in the database eg. table
@@ -183,6 +190,16 @@ Eg. this query finds the category with the most records:
 SELECT category, MAX(COUNT(1)) FROM mytable GROUP BY category;
 ```
 
+### `SORT` and `ORDER`
+
+TODO: I always get these confused - SORT or ORDER - I swear different systems use different keywords
+
+- `SORT BY` - return the rows in the order of the given column, by default in ascending values (`ASC`) unless (`DESC`) is
+  specified
+  - eg. `SORT BY name`
+  - eg. `SORT BY age DESC` - put older people at the top of the results
+- `ORDER BY` -
+
 ### JOINs
 
 Returns a data set by merging the rows of two tables on given fields which are expected to have matching values
@@ -208,7 +225,7 @@ representing that their rows are linked.
 
 Schema is the logical container separating a group of tables by team or application.
 
-'Database' can refer to the software or a schema.
+'Database' can refer to the software code product that manages the data, or to the logical schema.
 
 ### Tables vs Views vs Materialized Views
 
@@ -241,7 +258,7 @@ behind the view are updated, the view is out of date, and you will need to regen
 - Column - a data type that each row may populate, depending on whether `NULL` (no value) is allowed in the column
   definition via a definition constraint.
 - Field - a specific intersection of Row and Column - a single value from a single row in the table in the specified
-  column.
+  column
 
 ### Constraints
 
@@ -269,6 +286,12 @@ usually cannot be because their new definitions constraints may violate the stor
   - eg. a Customer ID - people changing their names would not need to rewrite their customer ID number reference used
     in all the tables, the existing queries and joins across tables would still all work
 
+TODO: https://www.databasestar.com/difference-between-where-and-having-clause/
+
+TODO: https://www.databasestar.com/sql-views/
+
+TODO: https://www.databasestar.com/sql-joins/
+
 ## ACID
 
 Atomic, Consistent, Isolated & Durable.
@@ -294,3 +317,60 @@ ACID compliance is a standard feature of RDBMS SQL databases.
 Be careful and remember to `SELECT` with `WHERE` clause before editing it to an `UPDATE`!
 
 ![Meme Update One Record](images/sql_update_command_fix_one_record.jpeg)
+
+## Troubleshooting
+
+### SQuirreL SQL
+
+SQuirreL SQL fails to start, the splash screen appears but then nothing opens.
+
+Debugging on the command line like so:
+
+```shell
+open -a "SQuirreLSQL"
+```
+
+or
+
+```shell
+/Applications/SQuirreLSQL.app/Contents/MacOS/squirrel-sql.sh
+```
+
+crashes with this
+
+```text
+/Applications/SQuirreLSQL.app/Contents/MacOS/squirrel-sql.sh: line 107: 60812 Trace/BPT trap: 5       "$JAVACMD" -cp "$CP" $SQUIRREL_SQL_OPTS $MACOSX_SQUIRREL_PROPS -splash:"$SQUIRREL_SQL_HOME/icons/splash.jpg" net.sourceforge.squirrel_sql.client.Main --squirrel-home "$UNIX_STYLE_HOME" $NATIVE_LAF_PROP $SCRIPT_ARGS
+```
+
+Ensure your `$JAVA_HOME` environment variable is set and then
+
+```shell
+"$JAVA_HOME/bin/java" -Xlog:all -cp "/Applications/SQuirreLSQL.app/Contents/Resources/Java/squirrel-sql.jar:/Applications/SQuirreLSQL.app/Contents/Resources/Java/lib/*" \
+  net.sourceforge.squirrel_sql.client.Main
+```
+
+Then edit:
+
+```shell
+"$EDITOR" /Applications/SQuirreLSQL.app/Contents/MacOS/squirrel-sql.sh
+```
+
+and replace this line:
+
+```text
+#MACOSX_SQUIRREL_PROPS="-Dapple.laf.useScreenMenuBar=true -Dcom.apple.mrj.application.apple.menu.about.name=SQuirreLSQL -Dapple.awt.application.name=SQuirreLSQL"
+```
+
+with
+
+```text
+MACOSX_SQUIRREL_PROPS=""
+```
+
+then re-run
+
+```shell
+/Applications/SQuirreLSQL.app/Contents/MacOS/squirrel-sql.sh
+```
+
+to see it works before going back to the UI Applications in future to call this.
