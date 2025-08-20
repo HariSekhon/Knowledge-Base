@@ -4223,6 +4223,11 @@ The lower end is typically about half that.
   However, my favourite pick at this restaurant is the veal sausages, and I don't normally rate sausages but these were
   full of flavour, I would go back just for these.
   The Baklava dessert was decent, better than the "venison" chocolate cake, the latter of which I would skip next time
+- [Orasac (Орашац)](https://maps.app.goo.gl/D9ok9vaHDVjJceWp7) - the "karadordeva snicla" pork wrapped around cheese and
+  coated in breadcrumbs was the best thing we had by far.
+  The beef goulash with mashed potato, and other pork dish we had was reasonable too.
+  They also have fresh squeezed orange juice.
+  Kitchen closes at 10:30pm
 - [Oskar](https://maps.app.goo.gl/xtbibPCagq1qP5jCA) - good quality restaurant, a few minutes off the beaten track
   (usually better finds because they survive on foot and not tourist trap). 43/31 Mbit/s wifi
 - [Burger House Bros Centar](https://maps.app.goo.gl/C5FyhgFp16gPN11H9) - very good burger restaurant
