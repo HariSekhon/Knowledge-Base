@@ -4175,6 +4175,11 @@ The lower end is typically about half that.
   on top of lunch and dinner.
   Closes earlier than other restaurants at 9pm so it's better as a daytime place.
   Non-smoking, a rare find in Belgrade
+- [Protein Global 1](https://maps.app.goo.gl/hXKbairSDSifnXmB9) - good menu, protein pancakes, juices, smoothies,
+  protein shakes, eggs breakfasts, protein oatmeal, burgers, pasta, steaks, salads, these guys have it all. On a side
+  street but people still find it.
+  Wifi 148/23 Mbit/s.
+  [Protein Global 2](https://maps.app.goo.gl/BiMRhL4MFio9dCqk6) is further out
 - [Elephant's Food House](https://maps.app.goo.gl/aK24TL7T6c3cm3xKA) - another good cheap lunch type place.
   Closes early at 6pm
 - [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) - good coffee shop with 2 levels right in the
