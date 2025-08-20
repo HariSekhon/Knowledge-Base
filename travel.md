@@ -4232,8 +4232,8 @@ The lower end is typically about half that.
   The sour cherry pie and ice cream in melon desserts were nothing special and I would skip them next time.
   18/15 Mbit/s wifi
 - [Protein Global 1](https://maps.app.goo.gl/hXKbairSDSifnXmB9) - good menu, protein pancakes, juices, smoothies,
-  protein shakes, eggs breakfasts, protein oatmeal, burgers, pasta, steaks, salads, these guys have it all. On a side
-  street but people still find it.
+  protein shakes, eggs breakfasts (until 2pm), protein oatmeal, burgers, pasta, steaks, salads, these guys have it all.
+  On a side street but people still find it.
   I didn't like the protein pancakes though,
   they compromised far too much on flavour to try to keep them protein healthy,
   it's not worth it, when you fancy pancakes, this is not what you'll expect.
