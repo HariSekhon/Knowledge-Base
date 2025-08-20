@@ -93,6 +93,9 @@ Updated regularly as I travel the world all year.
     - [Ghent / Gent](#ghent--gent)
     - [Liege](#liege)
     - [Waterloo](#waterloo)
+  - [Bosnia](#bosnia)
+    - [Sarajevo](#sarajevo)
+      - [Taxis in Sarajevo](#taxis-in-sarajevo)
   - [Bulgaria](#bulgaria)
     - [Motorway Tolls - Vignettes in Bulgaria](#motorway-tolls---vignettes-in-bulgaria)
     - [Sofia](#sofia)
@@ -1518,6 +1521,14 @@ Gentrified town just south of Brussels where Napoleon lost the famous battle.
 Savage Burger and [Thai Cafe](https://thai.cafe/en) are recommended here, with the latter being more expensive.
 You will need your Google Translate camera app to translate the menu as they don't speak English.
 
+### Bosnia
+
+#### Sarajevo
+
+##### Taxis in Sarajevo
+
+- [MojTaxi](https://www.mojtaxi.ba/)
+
 ### Bulgaria
 
 #### Motorway Tolls - Vignettes in Bulgaria
@@ -2059,6 +2070,20 @@ Arrange a nearby parking next time
 
 I parked at [Parkoviště](https://maps.app.goo.gl/1VKm9r9w2B6dtKTs6) Zličín as even the Park & Rides were full there,
 but even out there it's still roughly €25 per week.
+
+<!--
+
+##### Hostels in Prague
+
+My favourite hostels are:
+
+- Safestay - most central
+- Sophie's Hostel - bit south, but walkable and the best interior
+- Brix - further out but near my favourite brunch area in Prague
+
+...but check for fluctuating rates as I stayed at Sophie's for £15 per night and then the next week it was £25 per night
+
+-->
 
 ##### Restaurants in Prague
 
