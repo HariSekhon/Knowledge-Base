@@ -4275,6 +4275,9 @@ The lower end is typically about half that.
   [Protein Global 2](https://maps.app.goo.gl/BiMRhL4MFio9dCqk6) is further out
 - [Idea - Cara Dušana (Dorćol, Beograd)](https://maps.app.goo.gl/B8s5oUD8JftWZmiUA) - 24 hour supermarket
 - [Maxi](https://maps.app.goo.gl/xd23wydYuSibNsJK9) - 24 hour supermarket on side road adjacent to the main high street
+- [Church of Saint Sava](https://maps.app.goo.gl/ty8NmfjuYZLVCLDd7) - impressive dome interior
+- [St. Mark Orthodox Church](https://maps.app.goo.gl/9o5x7XNmaFHD2uss8)
+- [Street Gym](https://maps.app.goo.gl/eaNA7MgkWfEh348t9) - do some pull ups bro...
 
 I __don't__ recommend:
 
