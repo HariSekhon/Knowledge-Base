@@ -4227,6 +4227,7 @@ The lower end is typically about half that.
     milkshake, although very fattening version. Wifi was slow as hell at 0.3/0.05 Mbit/s
 - [Franš](https://maps.app.goo.gl/2Nw5ZndZ5h1Z8JGS8) - popular upmarket restaurant - if you want to know where rich
   people come to eat, it’s here.
+  Women put on dresses to dine here, even on a Tuesday afternoon.
   The food is reasonably decent, but not the best, and it's expensive.
   The cars parked in front were alternating Mercedes and Range Rovers, maybe the odd custom matt BMW SUV.
   The smoked klobasa (sausages) were good,
