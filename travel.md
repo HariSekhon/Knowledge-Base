@@ -4222,9 +4222,11 @@ The lower end is typically about half that.
     milkshake, although very fattening version. Wifi was slow as hell at 0.3/0.05 Mbit/s
 - [Franš](https://maps.app.goo.gl/2Nw5ZndZ5h1Z8JGS8) - popular upmarket restaurant - if you want to know where rich
   people come to eat, it’s here.
-  Women put on dresses to dine here, even on a Tuesday afternoon.
-  The food is reasonably decent, but not the best, and it's expensive.
+  It has nice outdoor sheltered seating, good for summer.
+  The food is reasonably decent, but not the best, and it's quite expensive.
   The cars parked in front were alternating Mercedes and Range Rovers, maybe the odd custom matt BMW SUV.
+  I was surprised how busy it was on a Tuesday afternoon, and many women put on dresses to dine here, even on a Tuesday
+  afternoon. These seem like the landlord class families who don't work.
   The smoked klobasa (sausages) were good,
   and if in doubt you can order the Homemade Frans Platter which is 6 different meats with a side of french fries
   (I swapped mine for roasted sliced potatoes).
