@@ -4233,7 +4233,7 @@ The lower end is typically about half that.
   The perch fillets of fish is recommended from the seafood section.
   The sour cherry pie and ice cream in melon desserts were nothing special and I would skip them next time.
   18/15 Mbit/s wifi
-- [Protein Global 1](https://maps.app.goo.gl/hXKbairSDSifnXmB9) - good menu, protein pancakes, juices, smoothies,
+- [Protein Global 1](https://maps.app.goo.gl/hXKbairSDSifnXmB9) - good menu, juices, smoothies,
   protein shakes, eggs breakfasts (until 2pm), protein oatmeal, burgers, pasta, steaks, salads, these guys have it all.
   On a side street but people still find it.
   I didn't like the protein pancakes though,
