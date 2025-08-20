@@ -4239,7 +4239,7 @@ The lower end is typically about half that.
   I didn't like the protein pancakes though,
   they compromised far too much on flavour to try to keep them protein healthy,
   not worth it, and were quite difficult to get through.
-  When you fancy pancakes, this is not what you'll expect,
+  When you fancy pancakes, this is not what you expect -
   get normal pancakes at a normal place, you can't have everything at the same time.
   The detox juice was as expected though, a bit bitter.
   Wifi 148/23 Mbit/s.
