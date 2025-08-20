@@ -4225,6 +4225,16 @@ The lower end is typically about half that.
     across the road which is plenty loud enough while sitting outside
   - [Stamevski](https://maps.app.goo.gl/jQYhSot45w6J3rTa8) - dessert restaurant with amazing looking cakes, has pistachio
     milkshake, although very fattening version. Wifi was slow as hell at 0.3/0.05 Mbit/s
+- [Franš](https://maps.app.goo.gl/2Nw5ZndZ5h1Z8JGS8) - popular upmarket restaurant - if you want to know where rich
+  people come to eat, it’s here.
+  The food is reasonably decent, but not the best, and it's expensive.
+  The cars parked in front were alternating Mercedes and Range Rovers, maybe the odd custom matt BMW SUV.
+  The smoked klobasa (sausages) were good,
+  and if in doubt you can order the Homemade Frans Platter which is 6 different meats with a side of french fries
+  (I swapped mine for roasted sliced potatoes).
+  The perch fillets of fish is recommended from the seafood section.
+  The sour cherry pie and ice cream in melon desserts were nothing special and I would skip them next time.
+  18/15 Mbit/s wifi
 - [Idea - Cara Dušana (Dorćol, Beograd)](https://maps.app.goo.gl/B8s5oUD8JftWZmiUA) - 24 hour supermarket
 - [Maxi](https://maps.app.goo.gl/xd23wydYuSibNsJK9) - 24 hour supermarket on side road adjacent to the main high street
 
