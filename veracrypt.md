@@ -2,9 +2,11 @@
 
 <https://veracrypt.io>
 
-Based on [TrueCrypt](https://www.truecrypt.org/), encrypts volumes or creates encrypted file volumes.
+Cross-platform disk and file encryption, based on [TrueCrypt](https://www.truecrypt.org/).
 
-Also supports hidden volumes.
+Supports strong encryption algorithms (e.g., AES, Serpent), as well as Hidden Volumes for plausible deniability.
+
+Has both a GUI and a Command Line interface.
 
 Alternatively, on macOS, you can also create basic encrypted file volumes using the native mac tools
 as concisely documented on the [Mac](mac.md#create-an-encrypted-file-volume) page.
@@ -45,3 +47,13 @@ open "$pkg"
 Follow the GUI prompts to complete installation.
 
 Note: re-running the installer will not detect that it's already installed and appears to just overwrite the installation.
+
+## Usage
+
+### Create an Encrypted File Volume
+
+Create a 100 MB volume with a cascade of three encryption algorithms for strongest layered security:
+
+```shell
+veracrypt --create /path/to/volume --encryption AES-Twofish-Serpent --hash sha-512 --size 100M --password "$password"' --volume-type normal
+```
