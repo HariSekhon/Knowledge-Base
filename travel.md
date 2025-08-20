@@ -4175,11 +4175,6 @@ The lower end is typically about half that.
   on top of lunch and dinner.
   Closes earlier than other restaurants at 9pm so it's better as a daytime place.
   Non-smoking, a rare find in Belgrade
-- [Protein Global 1](https://maps.app.goo.gl/hXKbairSDSifnXmB9) - good menu, protein pancakes, juices, smoothies,
-  protein shakes, eggs breakfasts, protein oatmeal, burgers, pasta, steaks, salads, these guys have it all. On a side
-  street but people still find it.
-  Wifi 148/23 Mbit/s.
-  [Protein Global 2](https://maps.app.goo.gl/BiMRhL4MFio9dCqk6) is further out
 - [Elephant's Food House](https://maps.app.goo.gl/aK24TL7T6c3cm3xKA) - another good cheap lunch type place.
   Closes early at 6pm
 - [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) - good coffee shop with 2 levels right in the
@@ -4236,6 +4231,15 @@ The lower end is typically about half that.
   The perch fillets of fish is recommended from the seafood section.
   The sour cherry pie and ice cream in melon desserts were nothing special and I would skip them next time.
   18/15 Mbit/s wifi
+- [Protein Global 1](https://maps.app.goo.gl/hXKbairSDSifnXmB9) - good menu, protein pancakes, juices, smoothies,
+  protein shakes, eggs breakfasts, protein oatmeal, burgers, pasta, steaks, salads, these guys have it all. On a side
+  street but people still find it.
+  I didn't like the protein pancakes though,
+  they compromised far too much on flavour to try to keep them protein healthy,
+  it's not worth it, when you fancy pancakes, this is not what you'll expect.
+  The detox juice was as expected though, a bit bitter.
+  Wifi 148/23 Mbit/s.
+  [Protein Global 2](https://maps.app.goo.gl/BiMRhL4MFio9dCqk6) is further out
 - [Idea - Cara Dušana (Dorćol, Beograd)](https://maps.app.goo.gl/B8s5oUD8JftWZmiUA) - 24 hour supermarket
 - [Maxi](https://maps.app.goo.gl/xd23wydYuSibNsJK9) - 24 hour supermarket on side road adjacent to the main high street
 
