@@ -4271,6 +4271,8 @@ The lower end is typically about half that.
 - [Protein Global 1](https://maps.app.goo.gl/hXKbairSDSifnXmB9) - good menu, juices, smoothies,
   protein shakes, eggs breakfasts (until 2pm), protein oatmeal, burgers, pasta, steaks, salads, these guys have it all.
   On a side street but people still find it.
+  The Ranch Eggs with turkey is like scrambled egg whites with turkey pieces, red bell pepper, tomato and spring onion,
+  not the most exciting dish, but healthy and proteiny.
   I didn't like the protein pancakes though,
   they compromised far too much on flavour to try to keep them protein healthy,
   not worth it, and were quite difficult to get through.
