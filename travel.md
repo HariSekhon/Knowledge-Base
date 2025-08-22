@@ -4276,7 +4276,9 @@ The lower end is typically about half that.
   not worth it, and were quite difficult to get through.
   When you fancy pancakes, this is not what you expect -
   get normal pancakes at a normal place, you can't have everything at the same time.
-  The detox juice was as expected though, a bit bitter.
+  The detox smoothie was a bit more bitter than expected,
+  but the 3 mixed juice (I chose orange, apple and pineapple) was nice and sweet and for 440rsd (€3.75) 300ml unlike
+  other european places giving only 200ml.
   Wifi 148/23 Mbit/s.
   [Protein Global 2](https://maps.app.goo.gl/BiMRhL4MFio9dCqk6) is further out
 - [Idea - Cara Dušana (Dorćol)](https://maps.app.goo.gl/B8s5oUD8JftWZmiUA) - 24 hour supermarket
