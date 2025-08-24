@@ -1526,6 +1526,20 @@ You will need your Google Translate camera app to translate the menu as they don
 
 #### Sarajevo
 
+- [Klopa](https://maps.app.goo.gl/3DRwS29Bk7LrZihh6) - the speciality platter with veal chops and beefsteak was great,
+  and came with lots of salad, potatoes, 3 dips and warm bread - a really full meal for two.
+  They even have various fresh and mixed juice.
+  This was surprisingly good for a place so central, I had expected it to be a tourist trap
+- [Besame Mucho](https://maps.app.goo.gl/kU4tizwGMAkukKTS7) - the Bosnian speciality dumplings were even better than
+  expected, and the veal stew was very good too.
+  I could have eaten more of them.
+  The baked apple filled with wallnuts and topped with cream was a nice dessert too
+- [Ćevabdžinica Željo](https://maps.app.goo.gl/6jzxJUFw6VnxfJRDA) - affordable good quality cevapi in a fresh warm large
+  home made pita bread - get the kajmak add-on
+- [Caribou Coffee](https://maps.app.goo.gl/kiCaFwsNLMZ14EhV7) - bosnian coffee chain, this one is by the two malls.
+  Their speciality salted caramel budino is the popular drink here, and for good reason, it is tasty!
+  Wifi 172/19 Mbit/s, upstairs seating with both smoking and non-smoking sections and laptop people with plugs
+
 ##### Taxis in Sarajevo
 
 - [MojTaxi](https://www.mojtaxi.ba/)
