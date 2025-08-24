@@ -1548,6 +1548,8 @@ TODO:
 
 Recommended by a local:
 
+- [Baščaršija](https://maps.app.goo.gl/jKi3K2y9HpiNgyMn6) - bustling market
+- [Yellow Fortress](https://maps.app.goo.gl/aqEnRcYYuw1AiQEFA)
 - [Alta Shopping Center](https://maps.app.goo.gl/1QxE1Lt4534ac1qQ8) - mall opposite SCC below
 - [SCC - Sarajevo City Center](https://maps.app.goo.gl/beyUhkL45r4kF6Yb6) - mall opposite Alta above
 - [Spazio Gourmet](https://maps.app.goo.gl/VkeAMmvNs2VNtCnL8) - good menu and desserts, near the two malls, good spot
