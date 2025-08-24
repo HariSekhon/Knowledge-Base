@@ -96,6 +96,7 @@ Updated regularly as I travel the world all year.
   - [Bosnia](#bosnia)
     - [Sarajevo](#sarajevo)
       - [Taxis in Sarajevo](#taxis-in-sarajevo)
+      - [Restaurants in Sarajevo](#restaurants-in-sarajevo)
   - [Bulgaria](#bulgaria)
     - [Motorway Tolls - Vignettes in Bulgaria](#motorway-tolls---vignettes-in-bulgaria)
     - [Sofia](#sofia)
