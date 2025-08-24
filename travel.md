@@ -1548,6 +1548,8 @@ TODO:
 
 Recommended by a local:
 
+- [Alta Shopping Center](https://maps.app.goo.gl/1QxE1Lt4534ac1qQ8) - mall opposite SCC below
+- [SCC - Sarajevo City Center](https://maps.app.goo.gl/beyUhkL45r4kF6Yb6) - mall opposite Alta above
 - [Spazio Gourmet](https://maps.app.goo.gl/VkeAMmvNs2VNtCnL8) - good menu and desserts, near the two malls, good spot
   for after a shopping day
 - [Buregdžinica Bosna](https://maps.app.goo.gl/BaZP8ngARzq2179w8)
