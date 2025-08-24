@@ -1536,6 +1536,10 @@ You will need your Google Translate camera app to translate the menu as they don
   The baked apple filled with wallnuts and topped with cream was a nice dessert too
 - [Ćevabdžinica Željo](https://maps.app.goo.gl/6jzxJUFw6VnxfJRDA) - affordable good quality cevapi in a fresh warm large
   home made pita bread - get the kajmak add-on
+- [Smashburger Marindvor](https://maps.app.goo.gl/U6LUtdwoJakKJRri6) - very good affordable burger restaurant, the
+  classic with pickles was my choice here for only €6.
+  This is more of a takeaway place as it only has a couple tables inside, and a couple tables outside, and there is a
+  sink to wash hands but surprisingly no toilet
 - [Caribou Coffee](https://maps.app.goo.gl/kiCaFwsNLMZ14EhV7) - bosnian coffee chain, this one is by the two malls.
   Their speciality salted caramel budino is the popular drink here, and for good reason, it is tasty!
   Wifi 172/19 Mbit/s, upstairs seating with both smoking and non-smoking sections and laptop people with plugs
