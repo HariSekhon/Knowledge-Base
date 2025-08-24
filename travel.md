@@ -1526,6 +1526,14 @@ You will need your Google Translate camera app to translate the menu as they don
 
 #### Sarajevo
 
+##### Taxis in Sarajevo
+
+- [MojTaxi](https://www.mojtaxi.ba/) - didn't find any cars for me at the Bus Station East Sarajevo. I ended up taking
+  a local metered taxi which cost a ridiculous €25, more than the coach ride from Belgrade all the way away in Serbia.
+  Next time if not pressed for time I would just follow Google Maps and take public transport for €1
+
+##### Restaurants in Sarajevo
+
 - [Klopa](https://maps.app.goo.gl/3DRwS29Bk7LrZihh6) - the speciality platter with veal chops and beefsteak was great,
   and came with lots of salad, potatoes, 3 dips and warm bread - a really full meal for two.
   They even have various fresh and mixed juice.
@@ -1558,10 +1566,6 @@ Recommended by a local:
 - [Ćevabdžinica Petica Ferhatović](https://maps.app.goo.gl/kVro98MEgaJyzRJm6)
 - [Konoba Luka Sarajevo](https://maps.app.goo.gl/sS665wiDRUDKNhM59)
 - [Bašča kod Ene](https://maps.app.goo.gl/y45cEUd82muSaHdJ7) - a bit further out but recommended by a local
-
-##### Taxis in Sarajevo
-
-- [MojTaxi](https://www.mojtaxi.ba/)
 
 ### Bulgaria
 
