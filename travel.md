@@ -1552,10 +1552,12 @@ You will need your Google Translate camera app to translate the menu as they don
 - [Caribou Coffee](https://maps.app.goo.gl/kiCaFwsNLMZ14EhV7) - bosnian coffee chain, this one is by the two malls.
   Their speciality salted caramel budino is the popular drink here, and for good reason, it is tasty!
   Wifi 172/19 Mbit/s, upstairs seating with both smoking and non-smoking sections and laptop people with plugs
+- [City Lounge](https://maps.app.goo.gl/9P7g6HHgwrxRAkcS8) - popular bar lounge - there isn't much else open late night
+  in Sarajevo on a non Friday/Satuday night so people congregate here
+- [Market Srce](https://maps.app.goo.gl/WLkbeovu4SxNfz969) - 24/7 convenience store, popular because everythign else is
+  closed
 
 TODO:
-
-Recommended by a local:
 
 - [Baščaršija](https://maps.app.goo.gl/jKi3K2y9HpiNgyMn6) - bustling market
 - [Yellow Fortress](https://maps.app.goo.gl/aqEnRcYYuw1AiQEFA)
@@ -1563,9 +1565,10 @@ Recommended by a local:
 - [SCC - Sarajevo City Center](https://maps.app.goo.gl/beyUhkL45r4kF6Yb6) - mall opposite Alta above
 - [Spazio Gourmet](https://maps.app.goo.gl/VkeAMmvNs2VNtCnL8) - good menu and desserts, near the two malls, good spot
   for after a shopping day
-- [Buregdžinica Bosna](https://maps.app.goo.gl/BaZP8ngARzq2179w8)
-- [Ćevabdžinica Petica Ferhatović](https://maps.app.goo.gl/kVro98MEgaJyzRJm6)
-- [Konoba Luka Sarajevo](https://maps.app.goo.gl/sS665wiDRUDKNhM59)
+- [ASDŽ Aščinica](https://maps.app.goo.gl/1TEMXeFvTp7doKNK6)
+- [Buregdžinica Bosna](https://maps.app.goo.gl/BaZP8ngARzq2179w8) - recommended by a local
+- [Ćevabdžinica Petica Ferhatović](https://maps.app.goo.gl/kVro98MEgaJyzRJm6) - recommended by a local
+- [Konoba Luka Sarajevo](https://maps.app.goo.gl/sS665wiDRUDKNhM59) - recommended by a local
 - [Bašča kod Ene](https://maps.app.goo.gl/y45cEUd82muSaHdJ7) - a bit further out but recommended by a local
 
 ### Bulgaria
