@@ -1567,13 +1567,13 @@ TODO:
 - [Spazio Gourmet](https://maps.app.goo.gl/VkeAMmvNs2VNtCnL8) - good menu and desserts, near the two malls, good spot
   for after a shopping day
 - [Backyard Coffee](https://maps.app.goo.gl/aghEgwGJRq5A89qU7) - recommended by a local
-- [Impasto](https://maps.app.goo.gl/Ws25hTWUVk1xZj879) - on the main strip and kitchen is open until 3pm so you can get
-  a later breakfast here than most places
 - [ASDŽ Aščinica](https://maps.app.goo.gl/1TEMXeFvTp7doKNK6)
 - [Buregdžinica Bosna](https://maps.app.goo.gl/BaZP8ngARzq2179w8) - recommended by a local
 - [Ćevabdžinica Petica Ferhatović](https://maps.app.goo.gl/kVro98MEgaJyzRJm6) - recommended by a local
 - [Konoba Luka Sarajevo](https://maps.app.goo.gl/sS665wiDRUDKNhM59) - recommended by a local
 - [Bašča kod Ene](https://maps.app.goo.gl/y45cEUd82muSaHdJ7) - a bit further out but recommended by a local
+- [Impasto](https://maps.app.goo.gl/Ws25hTWUVk1xZj879) - on the main strip and kitchen is open until 3pm so you can get
+  a later breakfast here than most places
 
 ### Bulgaria
 
