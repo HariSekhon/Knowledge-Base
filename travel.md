@@ -1554,6 +1554,7 @@ You will need your Google Translate camera app to translate the menu as they don
   Wifi 172/19 Mbit/s, upstairs seating with both smoking and non-smoking sections and laptop people with plugs
 - [City Lounge](https://maps.app.goo.gl/9P7g6HHgwrxRAkcS8) - popular bar lounge - there isn't much else open late night
   in Sarajevo on a non Friday/Satuday night so people congregate here
+- [Tesla](https://maps.app.goo.gl/cisSC96xRtPW9iG29) - late night pub, opposite City Lounge
 - [Market Srce](https://maps.app.goo.gl/WLkbeovu4SxNfz969) - 24/7 convenience store, popular because everythign else is
   closed
 
