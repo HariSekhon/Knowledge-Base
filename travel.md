@@ -1543,8 +1543,8 @@ You will need your Google Translate camera app to translate the menu as they don
   expected, and the veal stew was very good too.
   I could have eaten more of them.
   The baked apple filled with wallnuts and topped with cream was a nice dessert too
-- [Ćevabdžinica Željo](https://maps.app.goo.gl/6jzxJUFw6VnxfJRDA) - affordable good quality cevapi in a fresh warm large
-  home made pita bread - get the kajmak add-on
+- [Ćevabdžinica Željo](https://maps.app.goo.gl/6jzxJUFw6VnxfJRDA) - affordable good quality cevapi for €5-7 in a fresh
+  warm large home made pita bread - get the kajmak add-on
 - [Smashburger Marindvor](https://maps.app.goo.gl/U6LUtdwoJakKJRri6) - very good affordable burger restaurant, the
   classic with pickles was my choice here for only €6.
   This is more of a takeaway place as it only has a couple tables inside, and a couple tables outside, and there is a
