@@ -1567,6 +1567,8 @@ TODO:
 - [Spazio Gourmet](https://maps.app.goo.gl/VkeAMmvNs2VNtCnL8) - good menu and desserts, near the two malls, good spot
   for after a shopping day
 - [Backyard Coffee](https://maps.app.goo.gl/aghEgwGJRq5A89qU7) - recommended by a local
+- [Kašika Viljuška Nož](https://maps.app.goo.gl/iT1g4LekuQm5Te6z5)
+- [Sedef](https://maps.app.goo.gl/sosHw5Woq8vYPAdD6)
 - [ASDŽ Aščinica](https://maps.app.goo.gl/1TEMXeFvTp7doKNK6)
 - [Buregdžinica Bosna](https://maps.app.goo.gl/BaZP8ngARzq2179w8) - recommended by a local
 - [Ćevabdžinica Petica Ferhatović](https://maps.app.goo.gl/kVro98MEgaJyzRJm6) - recommended by a local
