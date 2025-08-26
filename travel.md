@@ -1539,6 +1539,14 @@ You will need your Google Translate camera app to translate the menu as they don
   and came with lots of salad, potatoes, 3 dips and warm bread - a really full meal for two.
   They even have various fresh and mixed juice.
   This was surprisingly good for a place so central, I had expected it to be a tourist trap
+- [Spazio Gourmet](https://maps.app.goo.gl/VkeAMmvNs2VNtCnL8) - good menu and desserts, near the two malls, good spot
+  for after a shopping day.
+  Fine italian dining.
+  The chicken with green pepper and white sauce risotto with Arborio rice was good,
+  and comes topped with those small blue edible flowers, a nice touch.
+  The chicken curry was also good, the yellow rice was served in a separate dish.
+  The desserts look good but haven't tried them yet.
+  Service was slow though, we also left for another place
 - [Besame Mucho](https://maps.app.goo.gl/kU4tizwGMAkukKTS7) - the Bosnian speciality dumplings were even better than
   expected, and the veal stew was very good too.
   I could have eaten more of them.
@@ -1569,8 +1577,6 @@ TODO:
 - [Yellow Fortress](https://maps.app.goo.gl/aqEnRcYYuw1AiQEFA)
 - [Alta Shopping Center](https://maps.app.goo.gl/1QxE1Lt4534ac1qQ8) - mall opposite SCC below
 - [SCC - Sarajevo City Center](https://maps.app.goo.gl/beyUhkL45r4kF6Yb6) - mall opposite Alta above
-- [Spazio Gourmet](https://maps.app.goo.gl/VkeAMmvNs2VNtCnL8) - good menu and desserts, near the two malls, good spot
-  for after a shopping day
 - [Backyard Coffee](https://maps.app.goo.gl/aghEgwGJRq5A89qU7) - recommended by a local
 - [Kašika Viljuška Nož](https://maps.app.goo.gl/iT1g4LekuQm5Te6z5) - was closed on a Tuesday midday, not sure if
   temporarily or permanently
