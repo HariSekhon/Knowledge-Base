@@ -1535,8 +1535,8 @@ You will need your Google Translate camera app to translate the menu as they don
 
 ##### Restaurants in Sarajevo
 
-- [Backyard Coffee](https://maps.app.goo.gl/aghEgwGJRq5A89qU7) - recommended by a local, probably the best coffee shop
-  in Sarajevo - good menu of teas, coffees, frappuccinos,
+- [Backyard Coffee](https://maps.app.goo.gl/aghEgwGJRq5A89qU7) - probably the best coffee shop in Sarajevo - I
+  was lucky this was recommended to me by a local - good menu of teas, coffees, frappuccinos,
   fresh squeezed juices, bagels, sandwiches, croissants, donuts, muffins, puddings and
   other snacks.
   They’ve even got cookies and cocktails.
