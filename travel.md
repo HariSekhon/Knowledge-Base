@@ -1537,6 +1537,8 @@ You will need your Google Translate camera app to translate the menu as they don
 
 - [Baščaršija](https://maps.app.goo.gl/cg7VwRcCLD6UVhEu9) - historic market full of dessert shops and cafes
 - [Yellow Fortress](https://maps.app.goo.gl/aqEnRcYYuw1AiQEFA) - good view point - has a cafe up there
+  - [Kamarija](https://maps.app.goo.gl/974a8E3fj5UAFACe6) - an even better cafe outside with a lovely seating area and
+    view, fresh juices, lemonades, hot chocolates and coffees
 - [SCC - Sarajevo City Center](https://maps.app.goo.gl/beyUhkL45r4kF6Yb6) -
   main mall with lots of designer shops and cafes,
   3rd floor has an entire row of shoe shops
