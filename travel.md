@@ -1587,6 +1587,11 @@ You will need your Google Translate camera app to translate the menu as they don
 TODO:
 
 - [Backyard Coffee](https://maps.app.goo.gl/aghEgwGJRq5A89qU7) - recommended by a local
+- [Teahouse Džirlo](https://maps.app.goo.gl/PHEk2d2t5S7EsVZz7) - all of these next 4 are highly rated next to each other
+  just off the main Baščaršija strip at the base of the walk up to the Yellow Fortress
+- [Caffe Asik](https://maps.app.goo.gl/P2wanuTnmCybvzqo6)
+- [Behut Coffee shop](https://maps.app.goo.gl/518haTQ4e1auHr4o6)
+- [Ministry of Ćejf](https://maps.app.goo.gl/QKVSmjuYKDnT1spo7)
 - [Kašika Viljuška Nož](https://maps.app.goo.gl/iT1g4LekuQm5Te6z5) - was closed on a Tuesday midday, not sure if
   temporarily or permanently
 - [Sedef](https://maps.app.goo.gl/sosHw5Woq8vYPAdD6)
@@ -1596,6 +1601,7 @@ TODO:
 - [Bašča kod Ene](https://maps.app.goo.gl/y45cEUd82muSaHdJ7) - a bit further out but recommended by a local
 - [Impasto](https://maps.app.goo.gl/Ws25hTWUVk1xZj879) - on the main strip and kitchen is open until 3pm so you can get
   a later breakfast here than most places
+- [Kiren Sarajevo](https://maps.app.goo.gl/xR2a8vR9fHxUsx1r7) - fine dining
 
 ### Bulgaria
 
