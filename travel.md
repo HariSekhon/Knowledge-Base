@@ -1570,6 +1570,11 @@ You will need your Google Translate camera app to translate the menu as they don
 
 - [ASDŽ Aščinica](https://maps.app.goo.gl/1TEMXeFvTp7doKNK6) - touristy place banking on _"Bosnian"_ food but small
   portions for the money and and very little meat in the veal okra stew. Also, cash only
+- [Nanina Kuhinja]() - nice outdoor seating but the food is mediocre,
+  and worse, similarly priced to Spazio Gourmet from the recommended list.
+  The veal stew with carrot and onions came in a watery base instead of the rich red base in the picture, and the mixed
+  Bosnian mixed meat in green pepper and onions was fairly mediciore too.
+  There are better places to eat for this money.
 
 TODO:
 
