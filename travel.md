@@ -1571,6 +1571,11 @@ You will need your Google Translate camera app to translate the menu as they don
   affordable at €4-8 for 1-2 skewers, with 5 cubes of meat per skewer, and it comes with a fresh warm large pita bread.
   Add the domaca mixed salad for 5 bam (€2.50) to compliment it.
   They have wifi
+- [Buregdžinica Bosna](https://maps.app.goo.gl/BaZP8ngARzq2179w8) - recommended by a local, even better cevapi than
+  Ćevabdžinica Željo below (less salty).
+  For an optimum order, get the 5 cevapi in bread (ask for kajmak in it),
+  then add the smaller sized portions of several other meats like chicken breast / thighs, liver, sausages etc to try a
+  bit of everything
 - [Ćevabdžinica Željo](https://maps.app.goo.gl/6jzxJUFw6VnxfJRDA) - affordable good quality cevapi for €5-7 in a fresh
   warm large home made pita bread - get the kajmak add-on
 - [Smashburger Marindvor](https://maps.app.goo.gl/U6LUtdwoJakKJRri6) - very good affordable burger restaurant, the
@@ -1608,7 +1613,6 @@ TODO:
 - [Kašika Viljuška Nož](https://maps.app.goo.gl/iT1g4LekuQm5Te6z5) - was closed on a Tuesday midday, not sure if
   temporarily or permanently
 - [Sedef](https://maps.app.goo.gl/sosHw5Woq8vYPAdD6)
-- [Buregdžinica Bosna](https://maps.app.goo.gl/BaZP8ngARzq2179w8) - recommended by a local
 - [Ćevabdžinica Petica Ferhatović](https://maps.app.goo.gl/kVro98MEgaJyzRJm6) - recommended by a local
 - [Konoba Luka Sarajevo](https://maps.app.goo.gl/sS665wiDRUDKNhM59) - recommended by a local
 - [Bašča kod Ene](https://maps.app.goo.gl/y45cEUd82muSaHdJ7) - a bit further out but recommended by a local
