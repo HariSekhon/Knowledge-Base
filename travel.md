@@ -1535,10 +1535,11 @@ You will need your Google Translate camera app to translate the menu as they don
 
 ##### Restaurants in Sarajevo
 
+- [Baščaršija](https://maps.app.goo.gl/cg7VwRcCLD6UVhEu9) - historic market full of dessert shops and cafes
 - [Klopa](https://maps.app.goo.gl/3DRwS29Bk7LrZihh6) - the speciality platter with veal chops and beefsteak was great,
-  and came with lots of salad, potatoes, 3 dips and warm bread - a really full meal for two.
-  They even have various fresh and mixed juice.
-  This was surprisingly good for a place so central, I had expected it to be a tourist trap
+ and came with lots of salad, potatoes, 3 dips and warm bread - a really full meal for two.
+ They even have various fresh and mixed juice.
+ This was surprisingly good for a place so central, I had expected it to be a tourist trap
 - [Spazio Gourmet](https://maps.app.goo.gl/VkeAMmvNs2VNtCnL8) - fine italian dining with good decor at a moderate price.
   Good menu and desserts, near the two malls, good spot for after a shopping day, with both indoor and outdoor seating.
   The chicken with green pepper and white sauce risotto with Arborio rice was good,
@@ -1557,6 +1558,8 @@ You will need your Google Translate camera app to translate the menu as they don
   classic with pickles was my choice here for only €6.
   This is more of a takeaway place as it only has a couple tables inside, and a couple tables outside, and there is a
   sink to wash hands but surprisingly no toilet
+- [Fehmi 1958](https://maps.app.goo.gl/TDTHpBN8fp8qBHqs7) - dessert shop - the speciality is the 3 types of halva
+  on top of an thin ice cream base
 - [Caribou Coffee](https://maps.app.goo.gl/kiCaFwsNLMZ14EhV7) - bosnian coffee chain, this one is by the two malls.
   Their speciality salted caramel budino is the popular drink here, and for good reason, it is tasty!
   Wifi 172/19 Mbit/s, upstairs seating with both smoking and non-smoking sections and laptop people with plugs
