@@ -1536,6 +1536,11 @@ You will need your Google Translate camera app to translate the menu as they don
 ##### Restaurants in Sarajevo
 
 - [Baščaršija](https://maps.app.goo.gl/cg7VwRcCLD6UVhEu9) - historic market full of dessert shops and cafes
+- [Yellow Fortress](https://maps.app.goo.gl/aqEnRcYYuw1AiQEFA) - good view point - has a cafe up there
+- [SCC - Sarajevo City Center](https://maps.app.goo.gl/beyUhkL45r4kF6Yb6) -
+  main mall with lots of designer shops and cafes,
+  3rd floor has an entire row of shoe shops
+- [Alta Shopping Center](https://maps.app.goo.gl/1QxE1Lt4534ac1qQ8) - smaller mall opposite SCC
 - [Klopa](https://maps.app.goo.gl/3DRwS29Bk7LrZihh6) - the speciality platter with veal chops and beefsteak was great,
  and came with lots of salad, potatoes, 3 dips and warm bread - a really full meal for two.
  They even have various fresh and mixed juice.
@@ -1581,10 +1586,6 @@ You will need your Google Translate camera app to translate the menu as they don
 
 TODO:
 
-- [Baščaršija](https://maps.app.goo.gl/jKi3K2y9HpiNgyMn6) - bustling market
-- [Yellow Fortress](https://maps.app.goo.gl/aqEnRcYYuw1AiQEFA)
-- [Alta Shopping Center](https://maps.app.goo.gl/1QxE1Lt4534ac1qQ8) - mall opposite SCC below
-- [SCC - Sarajevo City Center](https://maps.app.goo.gl/beyUhkL45r4kF6Yb6) - mall opposite Alta above
 - [Backyard Coffee](https://maps.app.goo.gl/aghEgwGJRq5A89qU7) - recommended by a local
 - [Kašika Viljuška Nož](https://maps.app.goo.gl/iT1g4LekuQm5Te6z5) - was closed on a Tuesday midday, not sure if
   temporarily or permanently
