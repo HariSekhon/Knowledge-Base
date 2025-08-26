@@ -1545,6 +1545,10 @@ You will need your Google Translate camera app to translate the menu as they don
  and came with lots of salad, potatoes, 3 dips and warm bread - a really full meal for two.
  They even have various fresh and mixed juice.
  This was surprisingly good for a place so central, I had expected it to be a tourist trap
+- [Besame Mucho](https://maps.app.goo.gl/kU4tizwGMAkukKTS7) - the Bosnian speciality dumplings were even better than
+  expected, and the veal stew was very good too.
+  I could have eaten more of them.
+  The baked apple filled with wallnuts and topped with cream was a nice dessert too
 - [Spazio Gourmet](https://maps.app.goo.gl/VkeAMmvNs2VNtCnL8) - fine italian dining with good decor at a moderate price.
   Good menu and desserts, near the two malls, good spot for after a shopping day, with both indoor and outdoor seating.
   The chicken with green pepper and white sauce risotto with Arborio rice was good,
@@ -1553,10 +1557,10 @@ You will need your Google Translate camera app to translate the menu as they don
   The desserts look good but haven't tried them yet.
   There is also an ice cream stand outside.
   Service was slow though, we very nearly left for another place trying to call the waiter over for several minutes
-- [Besame Mucho](https://maps.app.goo.gl/kU4tizwGMAkukKTS7) - the Bosnian speciality dumplings were even better than
-  expected, and the veal stew was very good too.
-  I could have eaten more of them.
-  The baked apple filled with wallnuts and topped with cream was a nice dessert too
+- [Ćevabdžinica Petica Ferhatović](https://maps.app.goo.gl/bzzbnLpN46CP597C8) - the veal skewers are good here, and
+  affordable at €4-8 for 1-2 skewers, with 5 cubes of meat per skewer, and it comes with a fresh warm large pita bread.
+  Add the domaca mixed salad for 5 bam (€2.50) to compliment it.
+  They have wifi
 - [Ćevabdžinica Željo](https://maps.app.goo.gl/6jzxJUFw6VnxfJRDA) - affordable good quality cevapi for €5-7 in a fresh
   warm large home made pita bread - get the kajmak add-on
 - [Smashburger Marindvor](https://maps.app.goo.gl/U6LUtdwoJakKJRri6) - very good affordable burger restaurant, the
