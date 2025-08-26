@@ -1535,6 +1535,13 @@ You will need your Google Translate camera app to translate the menu as they don
 
 ##### Restaurants in Sarajevo
 
+- [Backyard Coffee](https://maps.app.goo.gl/aghEgwGJRq5A89qU7) - recommended by a local, probably the best coffee shop
+  in Sarajevo - good menu of teas, coffees, frappuccinos,
+  fresh squeezed juices, bagels, sandwiches, croissants, donuts, muffins, puddings and
+  other snacks.
+  They’ve even got cookies and cocktails.
+  Busy even at 9:30pm on a Tuesday night
+  Wifi 169/29 Mbit/s
 - [Baščaršija](https://maps.app.goo.gl/cg7VwRcCLD6UVhEu9) - historic market full of dessert shops and cafes
 - [Yellow Fortress](https://maps.app.goo.gl/aqEnRcYYuw1AiQEFA) - good view point - has a cafe up there
   - [Kamarija](https://maps.app.goo.gl/974a8E3fj5UAFACe6) - an even better cafe outside with a lovely seating area and
@@ -1592,7 +1599,6 @@ You will need your Google Translate camera app to translate the menu as they don
 
 TODO:
 
-- [Backyard Coffee](https://maps.app.goo.gl/aghEgwGJRq5A89qU7) - recommended by a local
 - [Teahouse Džirlo](https://maps.app.goo.gl/PHEk2d2t5S7EsVZz7) - all of these next 4 are highly rated next to each other
   just off the main Baščaršija strip at the base of the walk up to the Yellow Fortress
 - [Caffe Asik](https://maps.app.goo.gl/P2wanuTnmCybvzqo6)
