@@ -1530,8 +1530,8 @@ You will need your Google Translate camera app to translate the menu as they don
 ##### Taxis in Sarajevo
 
 - [MojTaxi](https://www.mojtaxi.ba/) - didn't find any cars for me at the Bus Station East Sarajevo. I ended up taking
-  a local metered taxi which cost a ridiculous €25, more than the coach ride from Belgrade all the way away in Serbia.
-  Next time if not pressed for time I would just follow Google Maps and take public transport for €1
+  a local metered taxi which cost a ridiculous 50 bam (€25), more than the coach ride from Belgrade all the way away in
+  Serbia. Next time if not pressed for time I would just follow Google Maps and take public transport for 1.80 bam (~€1)
 
 ##### Restaurants in Sarajevo
 
