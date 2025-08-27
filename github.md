@@ -9,6 +9,8 @@ NOT PORTED YET
   - [Personal Access Tokens](#personal-access-tokens)
   - [Configure SSH Keys](#configure-ssh-keys)
   - [GitHub SSH Key SSO Authorization](#github-ssh-key-sso-authorization)
+- [Git Clone over HTTPS using API Token](#git-clone-over-https-using-api-token)
+  - [Credential Helper](#credential-helper)
 - [Pull Requests](#pull-requests)
 - [CodeOwners](#codeowners)
   - [CodeOwners Gotcha - Secret Teams](#codeowners-gotcha---secret-teams)
@@ -73,6 +75,29 @@ On the right of each key, click the `Configure SSO` drop-down and then next to t
 click `Authorize`.
 
 <https://docs.github.com/en/enterprise-cloud@latest/authentication/authenticating-with-saml-single-sign-on/authorizing-an-ssh-key-for-use-with-saml-single-sign-on>
+
+## Git Clone over HTTPS using API Token
+
+Cloning with HTTPS then becomes:
+
+```shell
+git clone "https://GITHUB_TOKEN@github.com/$ORG/$REPO.git"
+```
+
+or better using a credential helper...
+
+### Credential Helper
+
+Taken from my [.gitconfig](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitconfig):
+
+```properties
+[credential "https://github.com"]
+    helper = "!f() { sleep 1; echo \"password=${GITHUB_TOKEN}\"; }; f"
+```
+
+```shell
+git clone "https://github.com/$ORG/$REPO.git"
+```
 
 ## Pull Requests
 
