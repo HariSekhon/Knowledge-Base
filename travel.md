@@ -1610,8 +1610,10 @@ You will need your Google Translate camera app to translate the menu as they don
 
 TODO:
 
+- [Caffe Ayna](https://maps.app.goo.gl/AqooSEvGc5uBY7Fj6)
 - [Dveri](https://maps.app.goo.gl/aTEmPWvazcY5trL68) - kitchen was closed by 9:50pm even though it's supposed to be open
   until 11pm
+- [Restoran Morica Han](https://maps.app.goo.gl/gnpJFSfeXN5dHcuv7)
 - [Kašika Viljuška Nož](https://maps.app.goo.gl/iT1g4LekuQm5Te6z5) - was closed on a Tuesday midday, not sure if
   temporarily or permanently
 - [Sedef](https://maps.app.goo.gl/sosHw5Woq8vYPAdD6)
