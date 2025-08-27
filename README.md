@@ -53,7 +53,7 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_START -->
 
-- [Travel Notes Touring the World](#travel-notes-touring-the-world)
+- [Travel Notes Around the World, Remote Working & Digital Nomad](#travel-notes-around-the-world-remote-working--digital-nomad)
 - [GitHub Repos](#github-repos)
 - [Systems](#systems)
   - [Operating Systems](#operating-systems)
