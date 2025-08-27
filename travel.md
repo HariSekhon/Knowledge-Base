@@ -1669,6 +1669,8 @@ You can get the train to Mostar from Sarajevo for 14km (€7) - it takes 2 hours
   sandwiches.
   The salad section is small by comparison to the other sections, I would have overlooked it had it not been
   specifically mentioned to me half an hour earlier by a local.
+  The cupavac (lemington cake) dessert was very good, but too big for me to fit in a second dessert.
+  I must come back to try the other desserts here!
   Wifi 74/19 Mbit/s outside, there are 3 networks, the password for one is on the back of the menu,
   the other two are captcha portals where you just have to click through
 
