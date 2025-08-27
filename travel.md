@@ -1656,6 +1656,7 @@ You can get the train to Mostar from Sarajevo for 14km (€7) - it takes 2 hours
 
 - [Caffe bar i pizzeria meet&eat](https://maps.app.goo.gl/iZWQUhMBYRRTfNYw7) - surprisingly good, was recommended by a
   local.
+  This places is worth hitting just for the desserts as I found out afterwards.
   The chicken salad the local recommended exceeded expectations,
   this is not the pathetic chicken salads you get in most other places...
   it came stacked on a large oval plate with plenty of chicken on a large heaped salad mound and drenched in a dressing
