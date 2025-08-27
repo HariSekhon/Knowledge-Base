@@ -1547,7 +1547,7 @@ different days.
   They've even got a coworking room with tables downstairs.
   Wifi 169/29 Mbit/s
 - [Baščaršija](https://maps.app.goo.gl/cg7VwRcCLD6UVhEu9) - historic market full of dessert shops and cafes
-  - [Kovači](https://maps.app.goo.gl/JZHgdWe8QA95tWkH6) - tourist landmark, several best highest rated coffee shops are
+  - [Sebilj](https://maps.app.goo.gl/Vn4QjFp9PgVMehtV7) - historic fountain, several best highest rated coffee shops are
     just 1 minute north of this:
     - [Ministry of Ćejf](https://maps.app.goo.gl/QKVSmjuYKDnT1spo7) - coffees, teas, and fresh orange juice. The applie
       pie is more of an apple pastry rather than the pie that westerners would expect
