@@ -66,7 +66,7 @@ Gitlab CLI config can be found here:
  ~/.config/glab-cli/config.yml
 ```
 
-## Git Cloning using API Token
+## Git Clone over HTTPS using API Token
 
 Cloning with HTTPS then becomes:
 
