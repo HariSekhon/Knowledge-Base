@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [Travel](#travel)
 - [Freelance](#freelance)
 - [Remote Jobs](#remote-jobs)
 - [Digital Nomad](#digital-nomad)
@@ -24,6 +25,11 @@
   - [Careers today are a walk in the park...](#careers-today-are-a-walk-in-the-park)
 
 <!-- INDEX_END -->
+
+## Travel
+
+See the extensive [Travel Page](travel.md) for country and city specific information and general booking and travel
+tips.
 
 ## Freelance
 
