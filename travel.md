@@ -1547,11 +1547,14 @@ different days.
   They've even got a coworking room with tables downstairs.
   Wifi 169/29 Mbit/s
 - [Baščaršija](https://maps.app.goo.gl/cg7VwRcCLD6UVhEu9) - historic market full of dessert shops and cafes
+  - [Kovači](https://maps.app.goo.gl/JZHgdWe8QA95tWkH6) - tourist landmark, several best highest rated coffee shops are
+    just 1 minute north of this:
   - [Ministry of Ćejf](https://maps.app.goo.gl/QKVSmjuYKDnT1spo7) - coffees, teas, and fresh orange juice. The applie
     pie is more of an apple pastry rather than the pie that westerners would expect
   - [Teahouse Džirlo](https://maps.app.goo.gl/PHEk2d2t5S7EsVZz7)
   - [Caffe Asik](https://maps.app.goo.gl/P2wanuTnmCybvzqo6)
   - [Behut Coffee shop](https://maps.app.goo.gl/518haTQ4e1auHr4o6)
+  - [Hanuma 2d Coffe & More](https://maps.app.goo.gl/SghZG5ZB5dVStNnh7)
 - [Yellow Fortress](https://maps.app.goo.gl/aqEnRcYYuw1AiQEFA) - good view point - has a cafe up there
   - [Kamarija](https://maps.app.goo.gl/974a8E3fj5UAFACe6) - an even better cafe outside with a lovely seating area and
     view, fresh juices, lemonades, hot chocolates and coffees
