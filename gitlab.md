@@ -89,6 +89,12 @@ Taken from my [.gitconfig](https://github.com/HariSekhon/DevOps-Bash-tools/blob/
 git clone "https://gitlab.com/$ORG/$REPO.git"
 ```
 
+If you get a 401 or 403 authentication or authorization error, you can check Git debug output by setting:
+
+```shell
+export GIT_CURL_VERBOSE=1
+```
+
 ## GitLab CI/CD
 
 Create a `.gitlab-ci.yml` into the root directory of your git repo, then `git push` to GitLab.
