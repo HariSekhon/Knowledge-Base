@@ -1592,7 +1592,8 @@ You will need your Google Translate camera app to translate the menu as they don
   This is more of a takeaway place as it only has a couple tables inside, and a couple tables outside, and there is a
   sink to wash hands but surprisingly no toilet
 - [Fehmi 1958](https://maps.app.goo.gl/TDTHpBN8fp8qBHqs7) - dessert shop - the speciality is the 3 types of halva
-  on top of an thin ice cream base
+  on top of an thin ice cream base.
+  When I took my friend there later in the day they had run out of things by 10pm, an hour before closing time
 - [Caribou Coffee](https://maps.app.goo.gl/kiCaFwsNLMZ14EhV7) - bosnian coffee chain, this one is by the two malls.
   Their speciality salted caramel budino is the popular drink here, and for good reason, it is tasty!
   Wifi 172/19 Mbit/s, upstairs seating with both smoking and non-smoking sections and laptop people with plugs
