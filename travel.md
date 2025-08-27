@@ -1544,6 +1544,11 @@ You will need your Google Translate camera app to translate the menu as they don
   They've even got a coworking room with tables downstairs.
   Wifi 169/29 Mbit/s
 - [Baščaršija](https://maps.app.goo.gl/cg7VwRcCLD6UVhEu9) - historic market full of dessert shops and cafes
+  - [Ministry of Ćejf](https://maps.app.goo.gl/QKVSmjuYKDnT1spo7) - coffees, teas, and fresh orange juice. The applie
+    pie is more of an apple pastry rather than the pie that westerners would expect
+  - [Teahouse Džirlo](https://maps.app.goo.gl/PHEk2d2t5S7EsVZz7)
+  - [Caffe Asik](https://maps.app.goo.gl/P2wanuTnmCybvzqo6)
+  - [Behut Coffee shop](https://maps.app.goo.gl/518haTQ4e1auHr4o6)
 - [Yellow Fortress](https://maps.app.goo.gl/aqEnRcYYuw1AiQEFA) - good view point - has a cafe up there
   - [Kamarija](https://maps.app.goo.gl/974a8E3fj5UAFACe6) - an even better cafe outside with a lovely seating area and
     view, fresh juices, lemonades, hot chocolates and coffees
@@ -1605,11 +1610,6 @@ You will need your Google Translate camera app to translate the menu as they don
 
 TODO:
 
-- [Teahouse Džirlo](https://maps.app.goo.gl/PHEk2d2t5S7EsVZz7) - all of these next 4 are highly rated next to each other
-  just off the main Baščaršija strip at the base of the walk up to the Yellow Fortress
-- [Caffe Asik](https://maps.app.goo.gl/P2wanuTnmCybvzqo6)
-- [Behut Coffee shop](https://maps.app.goo.gl/518haTQ4e1auHr4o6)
-- [Ministry of Ćejf](https://maps.app.goo.gl/QKVSmjuYKDnT1spo7)
 - [Kašika Viljuška Nož](https://maps.app.goo.gl/iT1g4LekuQm5Te6z5) - was closed on a Tuesday midday, not sure if
   temporarily or permanently
 - [Sedef](https://maps.app.goo.gl/sosHw5Woq8vYPAdD6)
