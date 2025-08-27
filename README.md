@@ -43,9 +43,9 @@ Hit the watch button on the top right for updates.
 Some of these pages are still in progress pending porting from my private knowledge base pages,
 some are still stubs pending migration.
 
-Even more deep advanced knowledge is captured in linked well commented code. References to my major
-[GitHub Repos](https://github.com/HariSekhon?tab=repositories&q=&type=&language=&sort=stargazers) are provided
-throughout where relevant.
+Even more deep advanced knowledge is captured in well commented code - references to my major
+[GitHub Repos](https://github.com/HariSekhon?tab=repositories&q=&type=&language=&sort=stargazers)
+are provided throughout where relevant.
 
 References to official docs and some classic books are provided for those who want to thoroughly cover the basics.
 
