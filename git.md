@@ -237,6 +237,10 @@ pip install --user bitbucket-cli
 export GIT_TRACE=1
 ```
 
+```shell
+export GIT_CURL_VERBOSE=1
+```
+
 ### Delete Remote branch
 
 ```shell
