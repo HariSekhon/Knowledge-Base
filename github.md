@@ -103,6 +103,12 @@ Taken from my [.gitconfig](https://github.com/HariSekhon/DevOps-Bash-tools/blob/
 git clone "https://github.com/$ORG/$REPO.git"
 ```
 
+If you get a 401 or 403 authentication or authorization error, you can check Git debug output by setting:
+
+```shell
+export GIT_CURL_VERBOSE=1
+```
+
 ## Pull Requests
 
 Use Pull Requests to track changes and get peer review and approval.
