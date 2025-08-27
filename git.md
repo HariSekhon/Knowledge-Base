@@ -15,6 +15,7 @@
 - [GitHub Badges](#github-badges)
 - [Basic Tips](#basic-tips)
 - [Advanced Tips & Tricks](#advanced-tips--tricks)
+  - [Debug Mode](#debug-mode)
   - [Delete Remote branch](#delete-remote-branch)
   - [Git Clone using a specific SSH Key](#git-clone-using-a-specific-ssh-key)
   - [Show files not being tracked due to global & local `.gitignore` files](#show-files-not-being-tracked-due-to-global--local-gitignore-files)
@@ -229,6 +230,12 @@ pip install --user bitbucket-cli
     the longer you delay adding this
 
 ## Advanced Tips & Tricks
+
+### Debug Mode
+
+```shell
+export GIT_TRACE=1
+```
 
 ### Delete Remote branch
 
