@@ -6,6 +6,7 @@ A legacy Git repo hosting provider with the worst [CI/CD](cicd.md) of the major 
 
 - [SSH Keys](#ssh-keys)
 - [API Tokens](#api-tokens)
+- [Git Cloning over HTTPS using API Token](#git-cloning-over-https-using-api-token)
   - [Credential Helper](#credential-helper)
 
 <!-- INDEX_END -->
@@ -25,6 +26,8 @@ and then copy, save it and export it:
 ```shell
 export BITBUCKET_TOKEN=...
 ```
+
+## Git Cloning over HTTPS using API Token
 
 Cloning with HTTPS then becomes:
 
