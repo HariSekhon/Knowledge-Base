@@ -38,7 +38,7 @@ or better using a credential helper...
 
 Taken from my [.gitconfig](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/.gitconfig):
 
-```text
+```properties
 [credential "https://bitbucket.org"]
     helper = "!f() { sleep 1; echo \"password=${BITBUCKET_TOKEN}\"; }; f"
 ```
