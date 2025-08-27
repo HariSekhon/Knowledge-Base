@@ -6,11 +6,11 @@ Short links to this page:
 
 [bit.ly/hari-travels](https://bit.ly/hari-travels)
 
-I've worked on 4 continents and travelled to over 40 countries at this point.
+I've worked on 4 continents and travelled to 40+ countries and 100+ cities.
 
 Whether Consulting internationally or visiting for a holiday, here are some useful tips from my extensive travels.
 
-Updated regularly as I travel the world all year.
+Updated regularly as I travel the world 52 weeks a year.
 
 <!-- INDEX_START -->
 
