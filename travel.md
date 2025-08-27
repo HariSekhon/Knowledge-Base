@@ -1527,6 +1527,9 @@ You will need your Google Translate camera app to translate the menu as they don
 
 #### Sarajevo
 
+Sarajevo is a small capital where the hot spots are so condensed that we bumped into several people we met twice on
+different days.
+
 ##### Taxis in Sarajevo
 
 - [MojTaxi](https://www.mojtaxi.ba/) - didn't find any cars for me at the Bus Station East Sarajevo. I ended up taking
