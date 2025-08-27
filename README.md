@@ -136,13 +136,15 @@ References to official docs and some classic books are provided for those who wa
 
 ## Travel Notes Touring the World
 
-- [Travel Page](travel.md) - tips from travelling the world extensively for work consulting and as a tourist:
+- [Travel Knowledge](travel.md) - tips from travelling the world extensively for both fun and profit - consulted on 4
+  continents, worked as a digital nomad and travel the world 52 weeks a year - life is short, take it:
   - my favourite restaurants
   - flights & accommodation
   - mobile internet access & e-sim providers
   - visas
   - driving around Europe on road trips each summer
   - various other travel tips specific to each of 40+ countries and 100+ towns and cities across 4 continents
+- [Remote Working & Digital Nomad](remote-working.md) - specific notes on remote working and as a digital nomad
 
 ## GitHub Repos
 
