@@ -92,7 +92,11 @@ Taken from my [.gitconfig](https://github.com/HariSekhon/DevOps-Bash-tools/blob/
 
 ```properties
 [credential "https://github.com"]
-    helper = "!f() { sleep 1; echo \"password=${GITHUB_TOKEN}\"; }; f"
+    # without the "sleep 1" the Git command may miss catching the output and hang instead
+    helper = "!f() { sleep 1; echo \"username=${GITHUB_USER}\"; echo \"password=${GH_TOKEN:-${GITHUB_TOKEN}}\"; }; f"
+
+[credential "https://gist.github.com"]
+    helper = "!f() { sleep 1; echo \"username=${GITHUB_USER}\"; echo \"password=${GH_TOKEN:-${GITHUB_TOKEN}}\"; }; f"
 ```
 
 ```shell
