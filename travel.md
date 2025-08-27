@@ -1618,7 +1618,8 @@ TODO:
 - [Bašča kod Ene](https://maps.app.goo.gl/y45cEUd82muSaHdJ7) - a bit further out but recommended by a local
 - [Impasto](https://maps.app.goo.gl/Ws25hTWUVk1xZj879) - on the main strip and kitchen is open until 3pm so you can get
   a later breakfast here than most places
-- [Kiren Sarajevo](https://maps.app.goo.gl/xR2a8vR9fHxUsx1r7) - fine dining
+- [Kiren Sarajevo](https://maps.app.goo.gl/xR2a8vR9fHxUsx1r7) - fine dining near the base of the walk up to the
+  Yellow Fortress
 
 ### Bulgaria
 
