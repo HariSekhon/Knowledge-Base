@@ -73,7 +73,7 @@ Taken from my [.gitconfig](https://github.com/HariSekhon/DevOps-Bash-tools/blob/
 
 ```properties
 [credential "https://dev.azure.com"]
-helper = "!f() { sleep 1; echo \"username=${AZURE_DEVOPS_USER}\"; echo \"password=${AZURE_DEVOPS_TOKEN}\"; }; f"
+    helper = "!f() { sleep 1; echo \"username=${AZURE_DEVOPS_USER}\"; echo \"password=${AZURE_DEVOPS_TOKEN}\"; }; f"
 ```
 
 ```shell
