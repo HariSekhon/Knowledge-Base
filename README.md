@@ -123,8 +123,8 @@ References to official docs and some classic books are provided for those who wa
 - [More Core Repos](#more-core-repos)
   - [Knowledge](#knowledge)
   - [DevOps Code](#devops-code)
-  - [Containerization](#containerization)
-  - [CI/CD](#cicd)
+  - [Containerization Repos](#containerization-repos)
+  - [CI/CD Repos](#cicd-repos)
   - [DBA - SQL](#dba---sql)
   - [DevOps Reloaded](#devops-reloaded)
   - [Templates](#templates)
@@ -827,12 +827,12 @@ Does nothing:
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=f8f551332440f1ca8897ff010e363e03)](https://gist.github.com/HariSekhon/f8f551332440f1ca8897ff010e363e03)
 -->
 
-### Containerization
+### Containerization Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Dockerfiles&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Dockerfiles)
 
-### CI/CD
+### CI/CD Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
