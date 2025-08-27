@@ -53,7 +53,7 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_START -->
 
-- [Travel Notes Around the World, Remote Working & Digital Nomad](#travel-notes-around-the-world-remote-working--digital-nomad)
+- [Travel for Fun & Profit - Remote Working & Digital Nomad](#travel-for-fun--profit---remote-working--digital-nomad)
 - [GitHub Repos](#github-repos)
 - [Systems](#systems)
   - [Operating Systems](#operating-systems)
@@ -134,7 +134,7 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_END -->
 
-## Travel Notes Around the World, Remote Working & Digital Nomad
+## Travel for Fun & Profit - Remote Working & Digital Nomad
 
 - [Travel Knowledge](travel.md) - tips from travelling the world extensively for both fun and profit - consulted on 4
   continents, worked as a digital nomad and travel the world 52 weeks a year - life is short, take it:
