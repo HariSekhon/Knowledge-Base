@@ -8,7 +8,7 @@ Suite of DevOps related tools including repository management, [CI/CD](cicd.md) 
 - [Azure DevOps Profile](#azure-devops-profile)
 - [SSH Keys](#ssh-keys)
 - [API Tokens](#api-tokens)
-- [Git Cloning over HTTPS using API Token](#git-cloning-over-https-using-api-token)
+- [Git Clone over HTTPS using API Token](#git-clone-over-https-using-api-token)
   - [Credential Helper](#credential-helper)
 - [Azure DevOps CLI](#azure-devops-cli)
 
@@ -57,7 +57,7 @@ https://dev.azure.com/<YOUR_USERNAME>/_usersSettings/tokens
 
 <https://dev.azure.com/harisekhon/_usersSettings/tokens>
 
-## Git Cloning over HTTPS using API Token
+## Git Clone over HTTPS using API Token
 
 Cloning with HTTPS then becomes:
 
