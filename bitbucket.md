@@ -5,8 +5,9 @@ A legacy Git repo hosting provider with the worst [CI/CD](cicd.md) of the major 
 <!-- INDEX_START -->
 
 - [SSH Keys](#ssh-keys)
+- [App Passwords](#app-passwords)
 - [API Tokens](#api-tokens)
-- [Git Clone over HTTPS using API Token](#git-clone-over-https-using-api-token)
+- [Git Clone over HTTPS using App Password or API Token](#git-clone-over-https-using-app-password-or-api-token)
   - [Credential Helper](#credential-helper)
 
 <!-- INDEX_END -->
@@ -14,6 +15,12 @@ A legacy Git repo hosting provider with the worst [CI/CD](cicd.md) of the major 
 ## SSH Keys
 
 <https://bitbucket.org/account/settings/ssh-keys/>
+
+## App Passwords
+
+Deprecated in favour of API Tokens.
+
+<https://bitbucket.org/account/settings/app-passwords/>
 
 ## API Tokens
 
@@ -27,7 +34,7 @@ and then copy, save it and export it:
 export BITBUCKET_TOKEN=...
 ```
 
-## Git Clone over HTTPS using API Token
+## Git Clone over HTTPS using App Password or API Token
 
 Cloning with HTTPS then becomes:
 
@@ -54,4 +61,17 @@ If you get a 401 or 403 authentication or authorization error, you can check Git
 
 ```shell
 export GIT_CURL_VERBOSE=1
+```
+
+You may need to put your username in the Bitbucket URL if using App Passwords in order to get past the 403 error:
+
+```shell
+https://harisekhon@bitbucket.org/...
+```
+
+in order to get this to work as the behaviour even when trying the credential helper with the username seems to not work:
+
+```properties
+[credential "https://bitbucket.org"]
+    helper = "!f() { sleep 1; echo \"username=${BITBUCKET_USER}\"; echo \"password=${BITBUCKET_TOKEN}\"; }; f"
 ```
