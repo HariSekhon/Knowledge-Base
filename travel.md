@@ -97,6 +97,9 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Sarajevo](#sarajevo)
       - [Taxis in Sarajevo](#taxis-in-sarajevo)
       - [Restaurants in Sarajevo](#restaurants-in-sarajevo)
+    - [Mostar](#mostar)
+      - [Train to Mostar](#train-to-mostar)
+      - [Restaurants in Mostar](#restaurants-in-mostar)
   - [Bulgaria](#bulgaria)
     - [Motorway Tolls - Vignettes in Bulgaria](#motorway-tolls---vignettes-in-bulgaria)
     - [Sofia](#sofia)
@@ -1635,6 +1638,38 @@ TODO:
   a later breakfast here than most places
 - [Kiren Sarajevo](https://maps.app.goo.gl/xR2a8vR9fHxUsx1r7) - fine dining near the base of the walk up to the
   Yellow Fortress
+
+#### Mostar
+
+Tourist tax is €5 per night in Mostar, which is surprisingly high relative to other places around Europe.
+
+For those of you on a budget using Hostelworld or similar, be aware this is a hidden accommodation cost not included
+on the site which will increase your accommodation costs by roughly 30%.
+
+##### Train to Mostar
+
+You can get the train to Mostar from Sarajevo for 14km (€7) - it takes 2 hours from
+[Sarajevo railway station](https://maps.app.goo.gl/jUBN2V3BTtJWx2kj6) to
+[Mostar railway station](https://maps.app.goo.gl/GTuL2bWVwY5GjvC36).
+
+##### Restaurants in Mostar
+
+- [Caffe bar i pizzeria meet&eat](https://maps.app.goo.gl/iZWQUhMBYRRTfNYw7) - surprisingly good, was recommended by a
+  local.
+  The chicken salad the local recommended exceeded expectations,
+  this is not the pathetic chicken salads you get in most other places...
+  it came stacked on a large oval plate with plenty of chicken on a large heaped salad mound and drenched in a dressing
+  that was tastier than it looked.
+  Within 3 seconds of it being delivered I had a street cat by my feet mooching chicken off me.
+  It saw me coming 😂... the portion and quality was more than I could ask for 11 bam (€5.50).
+  The fresh juice was 0.3l so not as generous as the chicken salad in portion, but for 5 bam (€2.50) this was decent
+  too.
+  There is also a large selection of traditional desserts, cakes, pancakes, omelettes, pizzas, pastas, and panini style
+  sandwiches.
+  The salad section is small by comparison to the other sections, I would have overlooked it had it not been
+  specifically mentioned to me half an hour earlier by a local.
+  Wifi 74/19 Mbit/s outside, there are 3 networks, the password for one is on the back of the menu,
+  the other two are captcha portals where you just have to click through
 
 ### Bulgaria
 
