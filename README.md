@@ -134,7 +134,7 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_END -->
 
-## Travel Notes Touring the World
+## Travel Notes Around the World, Remote Working & Digital Nomad
 
 - [Travel Knowledge](travel.md) - tips from travelling the world extensively for both fun and profit - consulted on 4
   continents, worked as a digital nomad and travel the world 52 weeks a year - life is short, take it:
