@@ -10,7 +10,7 @@ It has good feature parity with GitHub.com, although less 3rd party CI/CD integr
 
 - [GitLab CLI](#gitlab-cli)
 - [GitLab CLI and API auth](#gitlab-cli-and-api-auth)
-- [Git Cloning using API Token](#git-cloning-using-api-token)
+- [Git Clone over HTTPS using API Token](#git-clone-over-https-using-api-token)
   - [Credential Helper](#credential-helper)
 - [GitLab CI/CD](#gitlab-cicd)
 - [GitLab Official CI/CD Library](#gitlab-official-cicd-library)
