@@ -142,7 +142,7 @@ References to official docs and some classic books are provided for those who wa
   - mobile internet access & e-sim providers
   - visas
   - driving around Europe on road trips each summer
-  - various other travel tips specific to each of 40+ countries and 100+ cities
+  - various other travel tips specific to each of 40+ countries and 100+ towns and cities
 
 ## GitHub Repos
 
