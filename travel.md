@@ -1561,10 +1561,10 @@ different days.
 - [Yellow Fortress](https://maps.app.goo.gl/aqEnRcYYuw1AiQEFA) - good view point - has a cafe up there
   - [Kamarija](https://maps.app.goo.gl/974a8E3fj5UAFACe6) - an even better cafe outside with a lovely seating area and
     view, fresh juices, lemonades, hot chocolates and coffees
-- [SCC - Sarajevo City Center](https://maps.app.goo.gl/beyUhkL45r4kF6Yb6) -
-  main mall with lots of designer shops and cafes,
-  3rd floor has an entire row of shoe shops
+- [SCC - Sarajevo City Center](https://maps.app.goo.gl/beyUhkL45r4kF6Yb6) - main mall with lots of designer shops and
+  cafes, 3rd floor has an entire row of shoe shops
 - [Alta Shopping Center](https://maps.app.goo.gl/1QxE1Lt4534ac1qQ8) - smaller mall opposite SCC
+  - [Borbono caffè, wine & snack bar](https://maps.app.goo.gl/n3FD7qd1zaY74YCY8) - cafe with nice view across to the SCC
 - [Klopa](https://maps.app.goo.gl/3DRwS29Bk7LrZihh6) - the speciality platter with veal chops and beefsteak was great,
  and came with lots of salad, potatoes, 3 dips and warm bread - a really full meal for two.
  They even have various fresh and mixed juice.
@@ -1633,6 +1633,7 @@ TODO:
 - [Sedef](https://maps.app.goo.gl/sosHw5Woq8vYPAdD6)
 - [Ćevabdžinica Petica Ferhatović](https://maps.app.goo.gl/kVro98MEgaJyzRJm6) - recommended by a local
 - [Konoba Luka Sarajevo](https://maps.app.goo.gl/sS665wiDRUDKNhM59) - recommended by a local
+- [Buregdžinica Žigo](https://maps.app.goo.gl/wB4uWKzZFecZfVfP8)
 - [Bašča kod Ene](https://maps.app.goo.gl/y45cEUd82muSaHdJ7) - a bit further out but recommended by a local
 - [Impasto](https://maps.app.goo.gl/Ws25hTWUVk1xZj879) - on the main strip and kitchen is open until 3pm so you can get
   a later breakfast here than most places
