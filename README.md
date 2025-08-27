@@ -53,7 +53,7 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_START -->
 
-- [Travel for Fun & Profit - Remote Working & Digital Nomad](#travel-for-fun--profit---remote-working--digital-nomad)
+- [Travel](#travel)
 - [GitHub Repos](#github-repos)
 - [Systems](#systems)
   - [Operating Systems](#operating-systems)
@@ -134,7 +134,7 @@ References to official docs and some classic books are provided for those who wa
 
 <!-- INDEX_END -->
 
-## Travel for Fun & Profit - Remote Working & Digital Nomad
+## Travel
 
 - [Travel Knowledge](travel.md) - tips from travelling the world extensively for both fun and profit - consulted on 4
   continents, worked as a digital nomad and travel the world 52 weeks a year - life is short, take it:
