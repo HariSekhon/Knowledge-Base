@@ -1564,6 +1564,9 @@ You will need your Google Translate camera app to translate the menu as they don
   expected, and the veal stew was very good too.
   I could have eaten more of them.
   The baked apple filled with wallnuts and topped with cream was a nice dessert too
+- [Brunch Sa](https://maps.app.goo.gl/8CaAL75233e74Qa66) - they have freshly squeezed orange juice (6 bam / €3) and the
+  “Bosnian breakfast” special with 2 eggs was decent and reasonably priced at 12.50 bam (€6.50), cheaper than the more
+  touristy dishes like eggs benedict or eggs royale on their menu
 - [Spazio Gourmet](https://maps.app.goo.gl/VkeAMmvNs2VNtCnL8) - fine italian dining with good decor at a moderate price.
   Good menu and desserts, near the two malls, good spot for after a shopping day, with both indoor and outdoor seating.
   The chicken with green pepper and white sauce risotto with Arborio rice was good,
