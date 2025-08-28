@@ -5414,7 +5414,8 @@ The best remaining parts of the UK (nearly all in the South of England):
 - Scotland:
   - [Edinburgh](https://maps.app.goo.gl/Y11wKh8RJ4u11AEN6) - small historic city. The restaurants get booked out, so need
     reservations
-- various AONB - Areas of Oustanding Natural Beauty - legally protected green areas
+- various AONB - Areas of Oustanding Natural Beauty - legally protected green areas like several national parks,
+  Lake District, South Downs etc.
 
 Most of the areas apart from Central London are small enough you can cover their key central parts in 1-2 days each.
 
