@@ -1691,8 +1691,10 @@ of restaurants in the north end of the town, a mere few minutes walk away.
 - [Grill Centar Mostar](https://maps.app.goo.gl/UxR3tJqeJ9ZH1RzA9) - good food and affordable prices - pick two smaller
   portions to try different things, or go with the veal skewers which only come in full size
   (they used to have a smaller portion option for veal skewers but alas no longer).
-  The bosnian sausages were nice, a small portion is 2 of them (long and thin).
-  The small portion of chicken thigh was a much bigger portion of food, slightly salty but very good.
+  The bosnian sausages were very nice, better than I expected -
+  a small portion is 2 of them (long and thin), so not much food in terms of portion size, especially compared to the
+  chicken.
+  The _"small"_ portion of chicken thigh was a much bigger portion of food, slightly salty but very good.
   Mustard and onions came on the side along with a decent sized bread cut in half horizontally.
   Wifi 2/2 Mbit/s
 - [Cafe Marshall](https://maps.app.goo.gl/sYWFqA8XrBQEuckr9) - central cafe bar, was open much later than the 11pm
