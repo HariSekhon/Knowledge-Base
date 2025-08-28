@@ -1664,7 +1664,7 @@ of restaurants in the north end of the town, a mere few minutes walk away.
 
 - [Caffe bar Kafić Mostar](https://maps.app.goo.gl/DDi3ejVJDUAHufhK9) &
   [Fabrika Coffee](https://maps.app.goo.gl/dUSXxQyMo5YDDk4e6) - excellent stylish outdoor venue co-joined coffee shops,
-  great for socializing in the summer.
+  open late until 11:30pm, great for socializing in the summer.
   Wifi 23/7 Mbit/s
 - [Caffe bar i pizzeria meet&eat](https://maps.app.goo.gl/iZWQUhMBYRRTfNYw7) - surprisingly good, was recommended by a
   local.
