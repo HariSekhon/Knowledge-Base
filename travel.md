@@ -1688,6 +1688,11 @@ of restaurants in the north end of the town, a mere few minutes walk away.
   very good too, a light meringue cream block on top of a soft sponge base - it came twice the size I expected and I
   meant to leave half of it to save my abs, but ended up eating the whole thing! And at 2.50 bam (€1.25) you just have
   to have it! Cash only
+- [Grill Centar Mostar](https://maps.app.goo.gl/UxR3tJqeJ9ZH1RzA9) - affordable grill, pick two smaller portions to try
+  different things,
+  or go with the veal skewers which only come in full size
+  (they used to have a smaller portion option for veal skewers but alas no longer).
+  Wifi 2/2 Mbit/s
 - [Cafe Marshall](https://maps.app.goo.gl/sYWFqA8XrBQEuckr9) - central cafe bar, was open much later than the 11pm
   Google says, at least 1pm on Wednesday iirc. I don't know what's with the rating, there isn't much to get wrong
   getting a chilled pre-bottled schweppes for €2.50...
@@ -1699,7 +1704,6 @@ of restaurants in the north end of the town, a mere few minutes walk away.
 
 TODO:
 
-- [Grill Centar Mostar](https://maps.app.goo.gl/UxR3tJqeJ9ZH1RzA9)
 - [Fabrika Coffee](https://maps.app.goo.gl/dUSXxQyMo5YDDk4e6)
 - [Café de Alma](https://maps.app.goo.gl/C3Z9SumgFvTUb4PSA) - closes early at 6pm, near Old Bridge
 - [Restaurant Šadrvan](https://maps.app.goo.gl/SuRTT6JqU9Gro3vg6) - recommended by a local
