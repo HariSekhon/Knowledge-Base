@@ -1696,7 +1696,8 @@ TODO:
 
 - [Grill Centar Mostar](https://maps.app.goo.gl/UxR3tJqeJ9ZH1RzA9)
 - [Fabrika Coffee](https://maps.app.goo.gl/dUSXxQyMo5YDDk4e6)
-- [Restaurant Šadrvan](https://maps.app.goo.gl/SuRTT6JqU9Gro3vg6) - recommmended by a local
+- [Café de Alma](https://maps.app.goo.gl/C3Z9SumgFvTUb4PSA) - closes early at 6pm
+- [Restaurant Šadrvan](https://maps.app.goo.gl/SuRTT6JqU9Gro3vg6) - recommended by a local
 - [Restaurant Mimar](https://maps.app.goo.gl/kMsj5sF3NUWxZq3UA)
 - [caffe Galerija](https://maps.app.goo.gl/nNU5vnXobxDvAV3K9)
 - [Caffe Pizzeria Revija](https://maps.app.goo.gl/eZyLLeLQPD4KY59v5)
