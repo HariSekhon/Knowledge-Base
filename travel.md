@@ -1528,6 +1528,10 @@ You will need your Google Translate camera app to translate the menu as they don
 
 ### Bosnia
 
+Reasonably priced holiday destination.
+
+Olimpija is a good local spring water from Bosnia.
+
 #### Sarajevo
 
 Sarajevo is a small capital where the hot spots are so condensed that we bumped into several people we met twice on
