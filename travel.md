@@ -1691,6 +1691,7 @@ of places in the north.
   tourist trap places
 - [Museum Of War And Genocide Victims](https://maps.app.goo.gl/DVbmF51cGkjD5jVr5) - if you're into that sort of thing...
 - [Old Bridge Mostar](https://maps.app.goo.gl/DovhiYyVk3nLwAJz7) - the historic bridge in the centre, you can't miss it
+- [Most Bunur](https://maps.app.goo.gl/D5BbGksdx1o8So4SA) - another bridge by Fabrika Coffee
 
 TODO:
 
@@ -1713,7 +1714,7 @@ TODO:
 - [Palma- Sweets & Kebab](https://maps.app.goo.gl/uDBusvnwUkA2oru17)
 - [STO%](https://maps.app.goo.gl/ce5Lb9KDnPs9wZbUA)
 - [Lokma house](https://maps.app.goo.gl/6zKPECnMeNTKXWhs5) - pancake house
-- [Dönerland](https://maps.app.goo.gl/PD8M7ikjgLjy3fv79) - late night kebab
+- [Dönerland](https://maps.app.goo.gl/9XphxTPzw7wG2VcF9) - late night kebab
 - [Donkebab](https://maps.app.goo.gl/3xmCYr9xehCv8uaK8) - late night kebab
 - [Terrace Lagero](https://maps.app.goo.gl/2qbGKbBW3dfayyyT7)
 - [URBAN taste of orient](https://maps.app.goo.gl/e1rt1n4HkLDf7Hsk7) - view of the river and bridge so tourist trap
