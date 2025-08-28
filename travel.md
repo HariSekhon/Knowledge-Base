@@ -1655,6 +1655,9 @@ You can get the train to Mostar from Sarajevo for 14km (€7) - it takes 2 hours
 
 ##### Restaurants in Mostar
 
+Restaurants in the south near the touristy [Old Bridge](https://maps.app.goo.gl/DovhiYyVk3nLwAJz7) are twice the price
+of places in the north.
+
 - [Caffe bar i pizzeria meet&eat](https://maps.app.goo.gl/iZWQUhMBYRRTfNYw7) - surprisingly good, was recommended by a
   local.
   This places is worth hitting just for the desserts as I found out afterwards.
@@ -1686,6 +1689,31 @@ You can get the train to Mostar from Sarajevo for 14km (€7) - it takes 2 hours
   getting a chilled pre-bottled schweppes for €2.50...
 - [Konzum](https://maps.app.goo.gl/wwA88t4yjXaCGdn1A) - small supermarket, buy water at a fraction of the price of the
   tourist trap places
+- [Museum Of War And Genocide Victims](https://maps.app.goo.gl/DVbmF51cGkjD5jVr5) - if you're into that sort of thing...
+- [Old Bridge Mostar](https://maps.app.goo.gl/DovhiYyVk3nLwAJz7) - the historic bridge in the centre, you can't miss it
+
+TODO:
+
+- [Grill Centar Mostar](https://maps.app.goo.gl/UxR3tJqeJ9ZH1RzA9)
+- [Fabrika Coffee](https://maps.app.goo.gl/dUSXxQyMo5YDDk4e6)
+- [Restaurant Šadrvan](https://maps.app.goo.gl/SuRTT6JqU9Gro3vg6) - recommmended by a local
+- [Restaurant Mimar](https://maps.app.goo.gl/kMsj5sF3NUWxZq3UA)
+- [caffe Galerija](https://maps.app.goo.gl/nNU5vnXobxDvAV3K9)
+- [Caffe Pizzeria Revija](https://maps.app.goo.gl/eZyLLeLQPD4KY59v5)
+- [Ćevabdžinica KORZO](https://maps.app.goo.gl/GgBF9LR5dubC4m1o6)
+- [Caffe bar Publika](https://maps.app.goo.gl/V6LGcQutpBaX5MZp9) - good shaded outdoor seating
+- [Ćevabdžinica Cernica](https://maps.app.goo.gl/LTZFexT3QxP7Ngb39)
+- [Palma- Sweets & Kebab](https://maps.app.goo.gl/uDBusvnwUkA2oru17)
+- [STO%](https://maps.app.goo.gl/ce5Lb9KDnPs9wZbUA)
+- [Lokma house](https://maps.app.goo.gl/6zKPECnMeNTKXWhs5) - pancake house
+- [Donkebab](https://maps.app.goo.gl/3xmCYr9xehCv8uaK8) - late night kebab
+- [Terrace Lagero](https://maps.app.goo.gl/2qbGKbBW3dfayyyT7)
+- [URBAN taste of orient](https://maps.app.goo.gl/e1rt1n4HkLDf7Hsk7) - view of the river and bridge so tourist trap
+  prices, eg.
+  chicken salad is twice the price of Caffe bar i pizzeria meet&eat
+  that was recommended to me by a local and is near the top of my picks list
+- [Vrata Orijenta](https://maps.app.goo.gl/T546UAKKiWYftL8B6) - well rated but prices seem a bit tourist trap due to the
+  prime location
 
 ### Bulgaria
 
