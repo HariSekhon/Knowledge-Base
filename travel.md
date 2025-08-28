@@ -1700,6 +1700,9 @@ TODO:
 - [Restaurant Šadrvan](https://maps.app.goo.gl/SuRTT6JqU9Gro3vg6) - recommended by a local
 - [Timber & Stone Tavern Mostar](https://maps.app.goo.gl/ZBpGjvCMLwC2D4RHA) - reasonable main prices, small 0.2l juices
   though
+- [Restoran Kaldrma](https://maps.app.goo.gl/HSMHp1DQFam4h9186)
+- [Konoba Taurus](https://maps.app.goo.gl/g4YaSrzhRsh7t5F19)
+- [Hindin Han](https://maps.app.goo.gl/E6eWvciMjBK8njmu8)
 - [Tima - Irma](https://maps.app.goo.gl/A2KgBb6NhKe5TbQP8) - moderate prices
 - [Restaurant Mimar](https://maps.app.goo.gl/kMsj5sF3NUWxZq3UA)
 - [caffe Galerija](https://maps.app.goo.gl/nNU5vnXobxDvAV3K9)
