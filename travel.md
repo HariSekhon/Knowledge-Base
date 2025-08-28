@@ -1696,8 +1696,11 @@ TODO:
 
 - [Grill Centar Mostar](https://maps.app.goo.gl/UxR3tJqeJ9ZH1RzA9)
 - [Fabrika Coffee](https://maps.app.goo.gl/dUSXxQyMo5YDDk4e6)
-- [Café de Alma](https://maps.app.goo.gl/C3Z9SumgFvTUb4PSA) - closes early at 6pm
+- [Café de Alma](https://maps.app.goo.gl/C3Z9SumgFvTUb4PSA) - closes early at 6pm, near Old Bridge
 - [Restaurant Šadrvan](https://maps.app.goo.gl/SuRTT6JqU9Gro3vg6) - recommended by a local
+- [Timber & Stone Tavern Mostar](https://maps.app.goo.gl/ZBpGjvCMLwC2D4RHA) - reasonable main prices, small 0.2l juices
+  though
+- [Tima - Irma](https://maps.app.goo.gl/A2KgBb6NhKe5TbQP8) - moderate prices
 - [Restaurant Mimar](https://maps.app.goo.gl/kMsj5sF3NUWxZq3UA)
 - [caffe Galerija](https://maps.app.goo.gl/nNU5vnXobxDvAV3K9)
 - [Caffe Pizzeria Revija](https://maps.app.goo.gl/eZyLLeLQPD4KY59v5)
