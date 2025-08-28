@@ -1656,7 +1656,7 @@ You can get the train to Mostar from Sarajevo for 14km (€7) - it takes 2 hours
 ##### Restaurants in Mostar
 
 Restaurants in the south near the touristy [Old Bridge](https://maps.app.goo.gl/DovhiYyVk3nLwAJz7) are twice the price
-of places in the north.
+of restaurants in the north.
 
 - [Caffe bar i pizzeria meet&eat](https://maps.app.goo.gl/iZWQUhMBYRRTfNYw7) - surprisingly good, was recommended by a
   local.
