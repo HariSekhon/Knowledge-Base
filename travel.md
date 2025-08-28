@@ -1662,6 +1662,9 @@ You can get the train to Mostar from Sarajevo for 14km (€7) - it takes 2 hours
 Restaurants in the south near the touristy [Old Bridge](https://maps.app.goo.gl/DovhiYyVk3nLwAJz7) are twice the price
 of restaurants in the north end of the town, a mere few minutes walk away.
 
+- [Caffe bar Kafić Mostar](https://maps.app.goo.gl/DDi3ejVJDUAHufhK9) &
+  [Fabrika Coffee](https://maps.app.goo.gl/dUSXxQyMo5YDDk4e6) - excellent stylish outdoor venue co-joined coffee shops,
+  great for socializing in the summer
 - [Caffe bar i pizzeria meet&eat](https://maps.app.goo.gl/iZWQUhMBYRRTfNYw7) - surprisingly good, was recommended by a
   local.
   This places is worth hitting just for the desserts as I found out afterwards.
@@ -1708,7 +1711,6 @@ of restaurants in the north end of the town, a mere few minutes walk away.
 
 TODO:
 
-- [Fabrika Coffee](https://maps.app.goo.gl/dUSXxQyMo5YDDk4e6)
 - [Café de Alma](https://maps.app.goo.gl/C3Z9SumgFvTUb4PSA) - closes early at 6pm, near Old Bridge
 - [Restaurant Šadrvan](https://maps.app.goo.gl/SuRTT6JqU9Gro3vg6) - recommended by a local
 - [Timber & Stone Tavern Mostar](https://maps.app.goo.gl/ZBpGjvCMLwC2D4RHA) - reasonable main prices, small 0.2l juices
