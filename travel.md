@@ -1673,7 +1673,14 @@ You can get the train to Mostar from Sarajevo for 14km (€7) - it takes 2 hours
   The cupavac (lemington cake) dessert was very good, but too big for me to fit in a second dessert.
   I must come back to try the other desserts here!
   Wifi 74/19 Mbit/s outside, there are 3 networks, the password for one is on the back of the menu,
-  the other two are captcha portals where you just have to click through
+  the other two are captcha portals where you just have to click through.
+  Cash only
+- [Aščinica Sahan](https://maps.app.goo.gl/aPdGmdb7kTBYffZ87) - recommended by a local - like most foodie places, it
+  closes early at 5pm (breakfast until 12pm) so get there early. The Grah beans came soup-like with 2 pieces of beef in
+  it (had to remove fat from the side of one of them) but at 7 bam (€3.50) one can’t complain! The sampita dessert was
+  very good too, a light meringue cream block on top of a soft sponge base - it came twice the size I expected and I
+  meant to leave half of it to save my abs, but ended up eating the whole thing! And at 2.50 bam (€1.25) you just have
+  to have it! Cash only
 
 ### Bulgaria
 
