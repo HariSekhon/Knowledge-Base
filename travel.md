@@ -1715,7 +1715,7 @@ TODO:
 
 - [Café de Alma](https://maps.app.goo.gl/C3Z9SumgFvTUb4PSA) - closes early at 6pm, near Old Bridge
 - [Restaurant Šadrvan](https://maps.app.goo.gl/SuRTT6JqU9Gro3vg6) - recommended by a local
-- [Timber & Stone Tavern Mostar](https://maps.app.goo.gl/ZBpGjvCMLwC2D4RHA) - reasonable main prices, small 0.2l juices
+- [Timber & Stone Tavern Mostar](https://maps.app.goo.gl/ZBpGjvCMLwC2D4RHA) - reasonable main prices, but small 0.2l juices
   though
 - [Restoran Kaldrma](https://maps.app.goo.gl/HSMHp1DQFam4h9186)
 - [Konoba Taurus](https://maps.app.goo.gl/g4YaSrzhRsh7t5F19)
