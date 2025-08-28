@@ -1689,8 +1689,7 @@ of restaurants in the north end of the town, a mere few minutes walk away.
   meant to leave half of it to save my abs, but ended up eating the whole thing! And at 2.50 bam (€1.25) you just have
   to have it! Cash only
 - [Grill Centar Mostar](https://maps.app.goo.gl/UxR3tJqeJ9ZH1RzA9) - affordable grill, pick two smaller portions to try
-  different things,
-  or go with the veal skewers which only come in full size
+  different things, or go with the veal skewers which only come in full size
   (they used to have a smaller portion option for veal skewers but alas no longer).
   Wifi 2/2 Mbit/s
 - [Cafe Marshall](https://maps.app.goo.gl/sYWFqA8XrBQEuckr9) - central cafe bar, was open much later than the 11pm
