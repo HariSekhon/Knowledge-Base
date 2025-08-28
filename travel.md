@@ -1713,6 +1713,7 @@ TODO:
 - [Palma- Sweets & Kebab](https://maps.app.goo.gl/uDBusvnwUkA2oru17)
 - [STO%](https://maps.app.goo.gl/ce5Lb9KDnPs9wZbUA)
 - [Lokma house](https://maps.app.goo.gl/6zKPECnMeNTKXWhs5) - pancake house
+- [Dönerland](https://maps.app.goo.gl/PD8M7ikjgLjy3fv79) - late night kebab
 - [Donkebab](https://maps.app.goo.gl/3xmCYr9xehCv8uaK8) - late night kebab
 - [Terrace Lagero](https://maps.app.goo.gl/2qbGKbBW3dfayyyT7)
 - [URBAN taste of orient](https://maps.app.goo.gl/e1rt1n4HkLDf7Hsk7) - view of the river and bridge so tourist trap
