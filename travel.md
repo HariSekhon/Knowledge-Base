@@ -1688,9 +1688,12 @@ of restaurants in the north end of the town, a mere few minutes walk away.
   very good too, a light meringue cream block on top of a soft sponge base - it came twice the size I expected and I
   meant to leave half of it to save my abs, but ended up eating the whole thing! And at 2.50 bam (€1.25) you just have
   to have it! Cash only
-- [Grill Centar Mostar](https://maps.app.goo.gl/UxR3tJqeJ9ZH1RzA9) - affordable grill, pick two smaller portions to try
-  different things, or go with the veal skewers which only come in full size
+- [Grill Centar Mostar](https://maps.app.goo.gl/UxR3tJqeJ9ZH1RzA9) - good food and affordable prices - pick two smaller
+  portions to try different things, or go with the veal skewers which only come in full size
   (they used to have a smaller portion option for veal skewers but alas no longer).
+  The bosnian sausages were nice, a small portion is 2 of them (long and thin).
+  The small portion of chicken thigh was a much bigger portion of food, slightly salty but very good.
+  Mustard and onions came on the side along with a decent sized bread cut in half horizontally.
   Wifi 2/2 Mbit/s
 - [Cafe Marshall](https://maps.app.goo.gl/sYWFqA8XrBQEuckr9) - central cafe bar, was open much later than the 11pm
   Google says, at least 1pm on Wednesday iirc. I don't know what's with the rating, there isn't much to get wrong
