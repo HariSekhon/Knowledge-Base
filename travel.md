@@ -1681,6 +1681,9 @@ You can get the train to Mostar from Sarajevo for 14km (€7) - it takes 2 hours
   very good too, a light meringue cream block on top of a soft sponge base - it came twice the size I expected and I
   meant to leave half of it to save my abs, but ended up eating the whole thing! And at 2.50 bam (€1.25) you just have
   to have it! Cash only
+- [Cafe Marshall](https://maps.app.goo.gl/sYWFqA8XrBQEuckr9) - central cafe bar, was open much later than the 11pm
+  Google says, at least 1pm on Wednesday iirc. I don't know what's with the rating, there isn't much to get wrong
+  getting a chilled pre-bottled schweppes for €2.50...
 - [Konzum](https://maps.app.goo.gl/wwA88t4yjXaCGdn1A) - small supermarket, buy water at a fraction of the price of the
   tourist trap places
 
