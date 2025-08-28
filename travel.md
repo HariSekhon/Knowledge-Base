@@ -1701,6 +1701,8 @@ of restaurants in the north end of the town, a mere few minutes walk away.
   chicken.
   The _"small"_ portion of chicken thigh was a much bigger portion of food, slightly salty but very good.
   Mustard and onions came on the side along with a decent sized bread cut in half horizontally.
+  Small portions are 7 bam (€3.50) which very affordable,
+  but if you choose 2 small portions there is a deal not on the board for only 12 bam (€6).
   Wifi 2/2 Mbit/s
 - [Cafe Marshall](https://maps.app.goo.gl/sYWFqA8XrBQEuckr9) - central cafe bar, was open much later than the 11pm
   Google says, at least 1pm on Wednesday iirc. I don't know what's with the rating, there isn't much to get wrong
