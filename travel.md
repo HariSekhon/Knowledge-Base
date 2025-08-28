@@ -1733,7 +1733,7 @@ TODO:
 - [STO%](https://maps.app.goo.gl/ce5Lb9KDnPs9wZbUA)
 - [Lokma house](https://maps.app.goo.gl/6zKPECnMeNTKXWhs5) - pancake house
 - [Dönerland](https://maps.app.goo.gl/9XphxTPzw7wG2VcF9) - late night kebab
-- [Donkebab](https://maps.app.goo.gl/3xmCYr9xehCv8uaK8) - late night kebab
+- [Donkebab](https://maps.app.goo.gl/3xmCYr9xehCv8uaK8) - not as late night kebab, closes 11:30pm
 - [Terrace Lagero](https://maps.app.goo.gl/2qbGKbBW3dfayyyT7)
 - [URBAN taste of orient](https://maps.app.goo.gl/e1rt1n4HkLDf7Hsk7) - view of the river and bridge so tourist trap
   prices, eg.
