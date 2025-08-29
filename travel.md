@@ -1707,6 +1707,10 @@ of restaurants in the north end of the town, a mere few minutes walk away.
 - [Cafe Marshall](https://maps.app.goo.gl/sYWFqA8XrBQEuckr9) - central cafe bar, was open much later than the 11pm
   Google says, at least 1pm on Wednesday iirc. I don't know what's with the rating, there isn't much to get wrong
   getting a chilled pre-bottled schweppes for €2.50...
+- [Dönerland](https://maps.app.goo.gl/9XphxTPzw7wG2VcF9) - late night kebab, only if you really have to - only has doner
+  beef/chicken/mix, in toasted pita, wrap or salad bowl.
+  Late night food of last resort because it’s the only thing open past 11pm.
+  The fries were good though, hot and crispy... and they have wifi and accept cards
 - [Konzum](https://maps.app.goo.gl/wwA88t4yjXaCGdn1A) - small supermarket, buy water at a fraction of the price of the
   tourist trap places
 - [Museum Of War And Genocide Victims](https://maps.app.goo.gl/DVbmF51cGkjD5jVr5) - if you're into that sort of thing...
@@ -1732,7 +1736,6 @@ TODO:
 - [Palma- Sweets & Kebab](https://maps.app.goo.gl/uDBusvnwUkA2oru17)
 - [STO%](https://maps.app.goo.gl/ce5Lb9KDnPs9wZbUA)
 - [Lokma house](https://maps.app.goo.gl/6zKPECnMeNTKXWhs5) - pancake house
-- [Dönerland](https://maps.app.goo.gl/9XphxTPzw7wG2VcF9) - late night kebab
 - [Donkebab](https://maps.app.goo.gl/3xmCYr9xehCv8uaK8) - recommended by local, not as late night kebab, closes 11:30pm
 - [Terrace Lagero](https://maps.app.goo.gl/2qbGKbBW3dfayyyT7)
 - [URBAN taste of orient](https://maps.app.goo.gl/e1rt1n4HkLDf7Hsk7) - view of the river and bridge so tourist trap
