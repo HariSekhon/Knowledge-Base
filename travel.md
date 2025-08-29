@@ -4913,6 +4913,9 @@ as I prefer other parts of SE Asia, so you'll have to do more Google Maps / Sear
 
 A fast life strategy place. Lots of tattoos and marijuana coffee shops.
 
+Has pretty much everything - great food, weather, beaches, affordability,
+bars & nightclubs etc...
+
 [ThailandRedcat.com](https://www.thailandredcat.com/) - excellent blog on all things Thailand for expats eg. best
 beaches, islands, nightlife, clubs etc.
 
