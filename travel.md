@@ -2619,7 +2619,7 @@ twice the price.
 
 The weather was almost identically bad to the UK.
 
-##### Copenhagen Restaurants
+##### Restaurants in Copenhagen
 
 - [Halifax Burger](https://www.halifax.dk/) - Denmark's equivalent burger chain to Gourmet Burger Kitchen. This was my
   goto restaurant to get a consistent good quality after being disappointed in so many other restaurants in Denmark
@@ -4885,7 +4885,7 @@ Taipei hotels can be more expensive than other destinations in SE Asia
 and for some reason their check-ins only seem to be from 5pm instead of 2pm,
 even when their checkout is earlier at 11am rather than 12pm.
 
-##### Taipei Restaurants & Attractions
+##### Restaurants in Taipei
 
 This would be a longer list below but I didn't stay in Taipei for more than a few days,
 as I prefer other parts of SE Asia, so you'll have to do more Google Maps / Searches yourself to find and try the rest.
@@ -5069,7 +5069,7 @@ or you can just taxi to the bus station for 100-20BHT and then take a coach for 
 but annoyingly they'll charge you an extra 40BHT for a large suitcase, and 20BHT for a small hand luggage sized suitcase
 at boarding time.
 
-##### Pattaya Bars & Restaurants
+##### Restaurants, Bars & Clubs in Pattaya
 
 - [Tree Town Night Market](https://maps.app.goo.gl/aG5Si6wkohWUEqtp9) - best street food place in Pattaya, good prices,
   my usual lunch stop, it's not only for nights
@@ -5085,14 +5085,14 @@ at boarding time.
 - [XS A GoGo](https://maps.app.goo.gl/ftw8HELZuDDk6vWGA) - the best GoGo bar in Walking Street IMO, 3 podiums, busy,
   only negative is staff are pushy about ordering more drinks after 30-45 mins because it's busy
 - [Baccara A Go Go](https://maps.app.goo.gl/Tr49bG1AN3ZXeQVq9) - the other best GoGo bar in Pattaya,
-  more subtle if you're in the good girl / school girl look
+  more subtle if you're in to the good girl / school girl look
 - [Pattaya Soi 6](https://maps.app.goo.gl/1xqhb4ctpBaqTm9e6) - the best bar road in Pattaya, women will literally try
   to pull you into bars - best place to go before Soi L K Metro or Walking Street later in the evening
 - [Soi Pattaya 7](https://maps.app.goo.gl/BvehRDwrnrTz812P6)
 - [Soi Buakhao](https://maps.app.goo.gl/GDp3R8eC25YDQLkSA) - the main bar strip in Tree Town -
   you will get catcalled with Thai women from the afternoon onwards.
   The worst thing about this area is it's full of rough old English yobs.
-  If one's only experience of English people was from here... I'd expect Thais to hate them.
+  If one's only experience of English people was from here... I'd expect Thais to hate them
 - [Soi L K Metro](https://maps.app.goo.gl/23ecF3E7dQPLU6D29) - L-shaped road of GoGo bars, best time is 9-10pm onwards
 - [Albatross Coffee Roasters](https://maps.app.goo.gl/N5VNi8xLPhnqKbC49) - overpriced coffee shop with wifi
 - [Central Pattaya Mall](https://maps.app.goo.gl/mQx2jiWgY63xAUvL6) - mall with wifi
