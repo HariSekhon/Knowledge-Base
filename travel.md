@@ -4913,6 +4913,9 @@ as I prefer other parts of SE Asia, so you'll have to do more Google Maps / Sear
 
 A fast life strategy place. Lots of tattoos and marijuana coffee shops.
 
+[ThailandRedcat.com](https://www.thailandredcat.com/) - excellent blog on all things Thailand for expats eg. best
+beaches, islands, nightlife, clubs etc.
+
 #### ATMs in Thailand - Cash is Needed
 
 You will need cash, big time. Thailand is cheap but lots of places do not take cards.
