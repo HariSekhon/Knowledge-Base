@@ -4916,6 +4916,8 @@ A fast life strategy place. Lots of tattoos and marijuana coffee shops.
 Has pretty much everything - great food, weather, beaches, affordability,
 bars & nightclubs etc...
 
+60% of tourists are return visitors and for good reason.
+
 [ThailandRedcat.com](https://www.thailandredcat.com/) - excellent blog on all things Thailand for expats eg. best
 beaches, islands, nightlife, clubs etc.
 
