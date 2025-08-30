@@ -1724,9 +1724,9 @@ of restaurants in the north end of the town, a mere few minutes walk away.
 
 TODO:
 
-- [Restaurant Šadrvan](https://maps.app.goo.gl/SuRTT6JqU9Gro3vg6) - recommended by a local
 - [Timber & Stone Tavern Mostar](https://maps.app.goo.gl/ZBpGjvCMLwC2D4RHA) - reasonable main prices, but small 0.2l
   juices though
+- [Restaurant Šadrvan](https://maps.app.goo.gl/SuRTT6JqU9Gro3vg6) - recommended by a local, but tourist trap prices
 - [Restoran Kaldrma](https://maps.app.goo.gl/HSMHp1DQFam4h9186)
 - [Konoba Taurus](https://maps.app.goo.gl/g4YaSrzhRsh7t5F19)
 - [Hindin Han](https://maps.app.goo.gl/E6eWvciMjBK8njmu8)
@@ -1734,7 +1734,6 @@ TODO:
 - [Restaurant Mimar](https://maps.app.goo.gl/kMsj5sF3NUWxZq3UA)
 - [caffe Galerija](https://maps.app.goo.gl/nNU5vnXobxDvAV3K9)
 - [Caffe Pizzeria Revija](https://maps.app.goo.gl/eZyLLeLQPD4KY59v5)
-- [Ćevabdžinica KORZO](https://maps.app.goo.gl/GgBF9LR5dubC4m1o6)
 - [Caffe bar Publika](https://maps.app.goo.gl/V6LGcQutpBaX5MZp9) - good shaded outdoor seating
 - [Ćevabdžinica Cernica](https://maps.app.goo.gl/LTZFexT3QxP7Ngb39)
 - [Palma- Sweets & Kebab](https://maps.app.goo.gl/uDBusvnwUkA2oru17)
@@ -1751,6 +1750,9 @@ TODO:
 
 Not Recommended:
 
+- [Ćevabdžinica KORZO](https://maps.app.goo.gl/GgBF9LR5dubC4m1o6) - the veal skewers were ok, but the sausages were soft
+  indicating low meat content and nowhere near as good as the ones I had at Grill Centar Mostar the day before.
+  I only ended up here because Grill Centar Mostar closed earlier than expected at 10pm instead of 11pm
 - [Café de Alma](https://maps.app.goo.gl/C3Z9SumgFvTUb4PSA) - despite the good rating, and closing early at 6pm,
   it is very quiet off the beaten track, you wouldn't even know it's there if you didn't look for it explicitly as I
   passed it several times before, meaning it is quiet by 5pm even on a Friday, whereas the places just a few feet away
