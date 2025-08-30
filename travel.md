@@ -1651,6 +1651,11 @@ Tourist tax is €5 per night in Mostar, which is surprisingly high relative to 
 For those of you on a budget using Hostelworld or similar, be aware this is a hidden accommodation cost not included
 on the site which will increase your accommodation costs by roughly 30%.
 
+The Old Bridge is the centre of the town, but this is very smooth slippery stone and has raised stone beams across it
+to allow people to walk on it where their shoes would otherwise not hold.
+The old town streets are cobbled stones, so this is not a good town to visit if you have young children that need
+buggies.
+
 ##### Train to Mostar
 
 You can get the train to Mostar from Sarajevo for 14km (€7) - it takes 2 hours from
