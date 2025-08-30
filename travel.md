@@ -1668,10 +1668,11 @@ Restaurants in the south near the touristy [Old Bridge](https://maps.app.goo.gl/
 of restaurants in the north end of the town, a mere few minutes walk away.
 
 - [Caffe bar Kafić Mostar](https://maps.app.goo.gl/DDi3ejVJDUAHufhK9) &
-  [Fabrika Coffee](https://maps.app.goo.gl/dUSXxQyMo5YDDk4e6) - excellent stylish outdoor venue co-joined coffee shops,
-  open late until 11:30pm, great for socializing in the summer.
-  Fresh orange juice 0.3l was 5 bam (€2.50) at Kafic.
-  Wifi 23/7 Mbit/s
+  [Fabrika Coffee](https://maps.app.goo.gl/dUSXxQyMo5YDDk4e6) - excellent stylish outdoor courtyard co-joined coffee
+  shops, open late until 11:30pm, great for socializing in the summer.
+  Kafic is better in that it has fresh orange juice 0.3l for 5 bam (€2.50), which Fabrika does not.
+  Fabrika has homemade lemonade based on syrup, nowhere near as healthy, but their chocolate croissant was good.
+  Karic wifi 23/7 Mbit/s, Fabrika has wifi too, so there are two overlapping networks for the same courtyard
 - [Caffe bar i pizzeria meet&eat](https://maps.app.goo.gl/iZWQUhMBYRRTfNYw7) - surprisingly good, was recommended by a
   local.
   This places is worth hitting just for the desserts as I found out afterwards.
