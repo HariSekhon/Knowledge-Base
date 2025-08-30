@@ -1724,7 +1724,6 @@ of restaurants in the north end of the town, a mere few minutes walk away.
 
 TODO:
 
-- [Café de Alma](https://maps.app.goo.gl/C3Z9SumgFvTUb4PSA) - closes early at 6pm, near Old Bridge
 - [Restaurant Šadrvan](https://maps.app.goo.gl/SuRTT6JqU9Gro3vg6) - recommended by a local
 - [Timber & Stone Tavern Mostar](https://maps.app.goo.gl/ZBpGjvCMLwC2D4RHA) - reasonable main prices, but small 0.2l
   juices though
@@ -1749,6 +1748,15 @@ TODO:
   that was recommended to me by a local and is near the top of my picks list
 - [Vrata Orijenta](https://maps.app.goo.gl/T546UAKKiWYftL8B6) - well rated but prices seem a bit tourist trap due to the
   prime location
+
+Not Recommended:
+
+- [Café de Alma](https://maps.app.goo.gl/C3Z9SumgFvTUb4PSA) - despite the good rating, and closing early at 6pm,
+  it is very quiet off the beaten track, you wouldn't even know it's there if you didn't look for it explicitly as I
+  passed it several times before, meaning it is quiet by 5pm even on a Friday, whereas the places just a few feet away
+  are lively.
+  It has no menu as there is only 3 things on offer - Bosnian coffee, herbal tea, and syrup-based lemonade,
+  which is of course one of the worst things you can drink
 
 ### Bulgaria
 
