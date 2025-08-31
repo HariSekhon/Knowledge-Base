@@ -3213,6 +3213,16 @@ Somewhat expensive, don't go for more than a long weekend.
 
 Also, got caught in a storm just before leaving, check the weather forecasts.
 
+<!--
+
+Kosovo
+
+Pristina
+
+- [Bukë e Zemër](https://maps.app.goo.gl/DNi7sLHCn3PCmeEt9) - recommended by a frequent travel buddy of mine
+
+-->
+
 ### Laos
 
 $40 for a visa on arrival, and long queues.
