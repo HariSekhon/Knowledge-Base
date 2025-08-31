@@ -685,9 +685,11 @@ under the e-sim settings otherwise the internet won't connect.
 
 - [Nomad](https://www.getnomad.app/) - a bit cheaper than Airalo,, I've started using this the most
 - [Airalo](https://www.airalo.com/) - I used this a lot originally, second cheapest option
-- [Saily](https://saily.com/) - haven't use this one yet
 - [Holafly](https://esim.holafly.com/) - offers unlimited data but very expensive, usually not worth it given you typically don't use more
   than 1-3GB unless you're watching lots of videos on 4G instead of hotel wifi
+- [Saily](https://saily.com/) - WARNING: I haven't use this one yet, but my travel buddy who also travels all years has found this to
+  be unreliable and had to get refunds from them 3 times across different countries.
+  Do not use.
 
 <!-- -->
 
