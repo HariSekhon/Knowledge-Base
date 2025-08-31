@@ -683,8 +683,14 @@ and add the country you are travelling to for more options.
 Follow the installation instructions and make sure to enable `Data Roaming`
 under the e-sim settings otherwise the internet won't connect.
 
+Prices fluctate and alternate by country so compare the top 3 providers before choosing:
+
 - [Nomad](https://www.getnomad.app/) - a bit cheaper than Airalo,, I've started using this the most
 - [Airalo](https://www.airalo.com/) - I used this a lot originally, second cheapest option
+- [AloSim](https://alosim.com/) - took a punt and used this for Bosnia as it was the cheapest there
+
+Others:
+
 - [Holafly](https://esim.holafly.com/) - offers unlimited data but very expensive, usually not worth it given you typically don't use more
   than 1-3GB unless you're watching lots of videos on 4G instead of hotel wifi
 - [Saily](https://saily.com/) - WARNING: I haven't use this one yet, but my travel buddy who also travels all year has found Saily to
