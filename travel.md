@@ -691,6 +691,8 @@ Prices fluctate and alternate by country so compare the top 3 providers before c
 
 Others:
 
+- [Eskimo](https://www.eskimo.travel/en) - global data plans so you don't lose your remainder and can use it in other
+  countries, but in my experience the price per GB is so much more experience that this isn't worth it
 - [Holafly](https://esim.holafly.com/) - offers unlimited data but very expensive, usually not worth it given you typically don't use more
   than 1-3GB unless you're watching lots of videos on 4G instead of hotel wifi
 - [Saily](https://saily.com/) - WARNING: I haven't use this one yet, but my travel buddy who also travels all year has found Saily to
