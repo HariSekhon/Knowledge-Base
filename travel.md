@@ -4491,6 +4491,11 @@ The lower end is typically about half that.
   the odd plug if you need it
 - [Restoran Kosmaj](https://maps.app.goo.gl/9QK4fMvPjWVTVyZW7) - on the main road, but the food was good
   eg. beef goulash with mash was decent, less salty than Oskar but a bit more fat on the beef. 12/2 Mbit/s wifi
+- [Burgos - Premium Burger Bar](https://maps.app.goo.gl/PHEvHFbcsdyYANvb7) - good quality but burger bar.
+  “Serbian gourmet” burger came stacked 4inches tall for 840rsd (€7), and the fries were skinny but hot and fresh for
+  240rsd (€2). The sweet potato fries were also good for 320rsd (€2.70). The dips are charged but good sized portions,
+  I had the honey-mustard and chipotle-mayo which were both very good, I polished them off and every bite of all the
+  food. Wifi 7/6 Mbit/s
 - [Smash Burgers](https://maps.app.goo.gl/38WxX9dnwcSn67Pq7) - fast food, for £7.50 for a burger and fries without a
   drink, should perhaps have got a proper restaurant meal for £9 instead.
   The burger was very fast food, fries were mediocre,
