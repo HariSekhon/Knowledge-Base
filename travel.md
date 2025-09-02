@@ -4488,6 +4488,9 @@ TODO:
 - [Good People Hostel ](https://maps.app.goo.gl/faWhbVnstLj3hWii6) - liked by my travel buddy and a girl I met
   travelling who stayed there
 - [The Traveling Theater Hostel](https://maps.app.goo.gl/Qo6NaCErN38HTY8K7)
+- [Pop Art Rooms](https://maps.app.goo.gl/hUHokqpm8vAknrZh6) - a little more expensive but very stylist interior and
+  near Belgrade Waterfront
+- [Hostelche](https://maps.app.goo.gl/9Ez4iVwZdn8dZ1jD9)
 
 **Not Recommended:**
 
