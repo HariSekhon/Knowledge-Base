@@ -4494,6 +4494,7 @@ The lower end is typically about half that.
   There are a couple of popular bars next door to here too.
   Don't get the protein shake to take away though,
   their takeaway cups are small 0.3l instead of the 0.4l glasses when you have it locally.
+  Both local and takeaway juice portions are smaller than they used to be in 2024.
   40/18 Mbit/s wifi
 - [Boutique #2](https://maps.app.goo.gl/1svhc4v3bq3aAwfh7) - prime location restaurant for drinks or food on the main
   parade, very popular and good
