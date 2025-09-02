@@ -4075,6 +4075,10 @@ Good beaches, restaurants, and walkways.
 
 Pronounced Vrot-swaaf... not row-claw!
 
+Parking in Wroclaw is a problem, the train station costs €12 per day, while the roads are metered parking, and my car
+got towed away for a temporary sign and I got blackmailed by the police and towing company for €120 to get it back!
+(€20 fine, €80 towing charge, 2 x €10 per day storage charge ffs)
+
 - [Pierogarnia Rynek 26](https://maps.app.goo.gl/9GRJGoTSKP2qz7eG7) - the best pierogi I ever had (polish dumplings).
   They've taken something usually commodity and turned it into a delicacy.
   The 6 x meat variety were good (I had them boiled,
