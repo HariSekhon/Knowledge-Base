@@ -3240,6 +3240,7 @@ Kosovo
 
 Pristina
 
+- [Liburnia](https://maps.app.goo.gl/PAmycbRJ2gk2nTEJ9) - highly recommended by my travel buddy
 - [Bukë e Zemër](https://maps.app.goo.gl/DNi7sLHCn3PCmeEt9) - recommended by a frequent travel buddy of mine
 
 -->
