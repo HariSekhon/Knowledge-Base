@@ -4480,7 +4480,7 @@ I like:
 - [Habitat Hostel](https://maps.app.goo.gl/sfZpNsEL7KoKLGtH7) - cheap £10 per night and they have a big dog
 - [Nomad Hostel](https://maps.app.goo.gl/4J9Hbi1jKe44jE117) - cheap and central on
   [Skadarlija](https://maps.app.goo.gl/EmubAYnEWMkfSW1T7) which means it is noisy in the evenings until they close the
-  windows
+  windows, but has privacy curtains on the lower bunks and a good kitchen area
 
 TODO:
 
