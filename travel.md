@@ -1640,6 +1640,7 @@ different days.
   The veal stew with carrot and onions came in a watery base instead of the rich red base in the picture, and the mixed
   Bosnian mixed meat in green pepper and onions was fairly mediciore too.
   There are better places to eat for this money.
+- [Princess Puff](https://maps.app.goo.gl/9XMm66cCvgPzJVKm9) - local Serbian dessert pastries, not worth the damage
 
 TODO:
 
