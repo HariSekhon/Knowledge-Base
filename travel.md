@@ -4494,6 +4494,8 @@ TODO:
 - [Hidden Gem Hostel](https://maps.app.goo.gl/52LY2TqBehMoLTmq6) - my travel buddy tried it, said it was too small and
   that he preferred Good People Hostel above
 
+-->
+
 ##### Restaurants in Belgrade
 
 The capital is reasonable in the center. Overall it is slightly cheaper to dine than other European cities.
