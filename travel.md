@@ -4574,6 +4574,7 @@ The lower end is typically about half that.
 - [Idea - Cara Dušana (Dorćol)](https://maps.app.goo.gl/B8s5oUD8JftWZmiUA) - 24 hour supermarket
 - [Idea - Kralja Milana](https://maps.app.goo.gl/RebkMZZ68m5G9wMs8) - 24 hour supermarket
 - [Maxi](https://maps.app.goo.gl/xd23wydYuSibNsJK9) - 24 hour supermarket on side road adjacent to the main high street
+- [Skadarlija](https://maps.app.goo.gl/dut9xBcbyWJUGfag6) - lively part of town in the evenings with restaurants and bars
 - [Church of Saint Sava](https://maps.app.goo.gl/ty8NmfjuYZLVCLDd7) - impressive dome interior
 - [St. Mark Orthodox Church](https://maps.app.goo.gl/9o5x7XNmaFHD2uss8)
 - [Street Gym](https://maps.app.goo.gl/eaNA7MgkWfEh348t9) - free park gym... do some pull ups bro...
