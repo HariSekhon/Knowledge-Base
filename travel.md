@@ -2318,12 +2318,18 @@ but even out there it's still roughly €25 per week.
 
 My favourite hostels are:
 
-- [Safestay Prague Charles Bridge](https://maps.app.goo.gl/yP4rjjR6YxpH8RrH7) - most central
+- [Safestay Prague Charles Bridge](https://maps.app.goo.gl/yP4rjjR6YxpH8RrH7) - most central - called Equity Point on
+  Agoda, not sure why
 - [Sophie's Hostel](https://maps.app.goo.gl/E5meMyWoWzhwB24S8) - bit south, but walkable and the best interior
 - [Brix Bar & Hostel](https://maps.app.goo.gl/77FwRg52yLZoJm5R7) - further out but near my favourite brunch area in
   Prague around the border of Prague 2 and Prague 3
 
 ...but check for fluctuating rates as I stayed at Sophie's for £15 per night and then the next week it was £25 per night
+
+I didn't really like:
+
+- [Seven Hostel](https://maps.app.goo.gl/xt3kv1g2PsEfoUiz8) - even though I got a private room the toilets and bathroom
+  were like commununal school toilets rather than the nice en suite of Safestay or Sophies's Hostel
 
 -->
 
