@@ -5211,9 +5211,10 @@ at boarding time.
   to pull you into bars - best place to go before Soi L K Metro or Walking Street later in the evening
 - [Soi Pattaya 7](https://maps.app.goo.gl/BvehRDwrnrTz812P6)
 - [Soi Buakhao](https://maps.app.goo.gl/GDp3R8eC25YDQLkSA) - the main bar strip in Tree Town -
-  you will get catcalled with Thai women from the afternoon onwards.
+  you will get catcalled by Thai women from the afternoon onwards.
   The worst thing about this area is it's full of rough old English yobs.
-  If one's only experience of English people was from here... I'd expect Thais to hate them
+  If one's only experience of English people was from here...
+  then I'd expect Thais to hate the English
 - [Soi L K Metro](https://maps.app.goo.gl/23ecF3E7dQPLU6D29) - L-shaped road of GoGo bars, best time is 9-10pm onwards
 - [Albatross Coffee Roasters](https://maps.app.goo.gl/N5VNi8xLPhnqKbC49) - overpriced coffee shop with wifi
 - [Central Pattaya Mall](https://maps.app.goo.gl/mQx2jiWgY63xAUvL6) - mall with wifi
