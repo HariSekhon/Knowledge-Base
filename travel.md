@@ -4075,9 +4075,13 @@ Good beaches, restaurants, and walkways.
 
 Pronounced Vrot-swaaf... not row-claw!
 
+##### Parking in Wroclaw
+
 Parking in Wroclaw is a problem, the train station costs €12 per day, while the roads are metered parking, and my car
 got towed away for a temporary sign and I got blackmailed by the police and towing company for €120 to get it back!
 (€20 fine, €80 towing charge, 2 x €10 per day storage charge ffs)
+
+##### Restaurants in Wroclaw
 
 - [Pierogarnia Rynek 26](https://maps.app.goo.gl/9GRJGoTSKP2qz7eG7) - the best pierogi I ever had (polish dumplings).
   They've taken something usually commodity and turned it into a delicacy.
@@ -4123,6 +4127,16 @@ One of my colleagues moved back to Warsaw as a contractor.
 
 Warsaw airport is deserted after 11pm as there were no night flights, it is better than many other airports but it is
 not London Heathrow. This is also a big problem if you miss you transfer flight, as I did on the way to Tbilisi!
+
+##### Metro in Warsaw
+
+The metro is both good and cheap and recommended by locals.
+
+##### Parking in Warsaw
+
+Parking is free in the centre from 8pm, which is convenient for dinner.
+
+##### Restaurants in Warsaw
 
 - [ČESKÁ beer restaurant](https://maps.app.goo.gl/h8kMmcnCpri5R1bv6) - czech restaurant, chain of two, the other being
   my favourite in Wroclaw. Get the classic traditional cesnecka garlic soup, and goulash
