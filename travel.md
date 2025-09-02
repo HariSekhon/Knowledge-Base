@@ -1640,7 +1640,6 @@ different days.
   The veal stew with carrot and onions came in a watery base instead of the rich red base in the picture, and the mixed
   Bosnian mixed meat in green pepper and onions was fairly mediciore too.
   There are better places to eat for this money.
-- [Princess Puff](https://maps.app.goo.gl/9XMm66cCvgPzJVKm9) - local Serbian dessert pastry chain, not worth the damage
 
 TODO:
 
@@ -4604,6 +4603,7 @@ The lower end is typically about half that.
 - [Idea - Cara Dušana (Dorćol)](https://maps.app.goo.gl/B8s5oUD8JftWZmiUA) - 24 hour supermarket
 - [Idea - Kralja Milana](https://maps.app.goo.gl/RebkMZZ68m5G9wMs8) - 24 hour supermarket
 - [Maxi](https://maps.app.goo.gl/xd23wydYuSibNsJK9) - 24 hour supermarket on side road adjacent to the main high street
+- [Republic Square](https://maps.app.goo.gl/z7jGaMGfi5f3LcU3A) - historic landmark square in the centre
 - [Skadarlija](https://maps.app.goo.gl/dut9xBcbyWJUGfag6) - lively part of town in the evenings with restaurants and bars
 - [Church of Saint Sava](https://maps.app.goo.gl/ty8NmfjuYZLVCLDd7) - impressive dome interior
 - [St. Mark Orthodox Church](https://maps.app.goo.gl/9o5x7XNmaFHD2uss8)
@@ -4628,6 +4628,7 @@ I __don't__ recommend:
   in. Should have gone to Burger House Bros instead and gotten a proper meat burger.
   This was so bad I left a lot of the sausages and the cevap, and went to FitBar for a protein shake instead.
   Venue has 14/8 Mbit/s wifi
+- [Princess Puff](https://maps.app.goo.gl/9XMm66cCvgPzJVKm9) - local Serbian dessert pastry chain, not worth the damage
 
 #### Novi Sad
 
