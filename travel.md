@@ -222,13 +222,13 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Nowy Sącz](#nowy-sącz)
     - [Poznan](#poznan)
     - [Sopot](#sopot)
-    - [Wroclaw](#wroclaw)
-      - [Parking in Wroclaw](#parking-in-wroclaw)
-      - [Restaurants in Wroclaw](#restaurants-in-wroclaw)
     - [Warsaw](#warsaw)
       - [Metro in Warsaw](#metro-in-warsaw)
       - [Parking in Warsaw](#parking-in-warsaw)
       - [Restaurants in Warsaw](#restaurants-in-warsaw)
+    - [Wroclaw](#wroclaw)
+      - [Parking in Wroclaw](#parking-in-wroclaw)
+      - [Restaurants in Wroclaw](#restaurants-in-wroclaw)
   - [Philippines](#philippines)
     - [Manilla](#manilla)
   - [Romania](#romania)
@@ -4076,6 +4076,39 @@ The most expensive area in Poland, near Gdansk.
 
 Good beaches, restaurants, and walkways.
 
+#### Warsaw
+
+Decent low pressure capital, but expensive already in terms of Airbnbs,
+and in the centre people will be trying to
+[entice you into strip clubs](https://medium.com/@harisekhon/salemanship-101-strip-clubs-1e2f4ed90296).
+
+One of my colleagues moved back to Warsaw as a contractor.
+
+Warsaw airport is deserted after 11pm as there were no night flights, it is better than many other airports but it is
+not London Heathrow. This is also a big problem if you miss you transfer flight, as I did on the way to Tbilisi!
+
+##### Metro in Warsaw
+
+The metro is both good and cheap and recommended by locals.
+
+##### Parking in Warsaw
+
+Parking is free in the centre from 8pm, which is convenient for dinner.
+
+##### Restaurants in Warsaw
+
+- [ČESKÁ beer restaurant](https://maps.app.goo.gl/h8kMmcnCpri5R1bv6) - czech restaurant, chain of two, the other being
+  my favourite in Wroclaw. Get the classic traditional cesnecka garlic soup, and goulash
+- [Hato Sushi](https://maps.app.goo.gl/64ebeUXGC8A9iJ9MA) - catch the lunch menu if you can
+- [Warszawa Wschodnia](https://maps.app.goo.gl/F1f7ATy6Re3eYE4V9) - french and polish, pricey but good quality
+- [Złote Tarasy](https://maps.app.goo.gl/MKRDUTHwfyUFXaPT9) - central shopping mall
+
+TODO:
+
+- [Soul Kitchen](https://maps.app.goo.gl/Hv9o99jWHwBPRHhVA) - highly rated upmarket restaurant, but couldn't get in
+  here without a reservation
+- [Bułkę przez Bibułkę](https://maps.app.goo.gl/StZzWDg2bZofJ2fG7) - breakfast restaurant
+
 #### Wroclaw
 
 Pronounced Vrot-swaaf... not row-claw!
@@ -4121,39 +4154,6 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
   perhaps why it was deserted, as the above two cost me 82 pln (£16), plus tip, without any drinks or dessert.
   Waitress said they had bad wifi, and didn't know the wifi password.
   Overall you might want to go with one of the lively places in the Wrocławski Rynek historical market square
-
-#### Warsaw
-
-Decent low pressure capital, but expensive already in terms of Airbnbs,
-and in the centre people will be trying to
-[entice you into strip clubs](https://medium.com/@harisekhon/salemanship-101-strip-clubs-1e2f4ed90296).
-
-One of my colleagues moved back to Warsaw as a contractor.
-
-Warsaw airport is deserted after 11pm as there were no night flights, it is better than many other airports but it is
-not London Heathrow. This is also a big problem if you miss you transfer flight, as I did on the way to Tbilisi!
-
-##### Metro in Warsaw
-
-The metro is both good and cheap and recommended by locals.
-
-##### Parking in Warsaw
-
-Parking is free in the centre from 8pm, which is convenient for dinner.
-
-##### Restaurants in Warsaw
-
-- [ČESKÁ beer restaurant](https://maps.app.goo.gl/h8kMmcnCpri5R1bv6) - czech restaurant, chain of two, the other being
-  my favourite in Wroclaw. Get the classic traditional cesnecka garlic soup, and goulash
-- [Hato Sushi](https://maps.app.goo.gl/64ebeUXGC8A9iJ9MA) - catch the lunch menu if you can
-- [Warszawa Wschodnia](https://maps.app.goo.gl/F1f7ATy6Re3eYE4V9) - french and polish, pricey but good quality
-- [Złote Tarasy](https://maps.app.goo.gl/MKRDUTHwfyUFXaPT9) - central shopping mall
-
-TODO:
-
-- [Soul Kitchen](https://maps.app.goo.gl/Hv9o99jWHwBPRHhVA) - highly rated upmarket restaurant, but couldn't get in
-  here without a reservation
-- [Bułkę przez Bibułkę](https://maps.app.goo.gl/StZzWDg2bZofJ2fG7) - breakfast restaurant
 
 ### Philippines
 
