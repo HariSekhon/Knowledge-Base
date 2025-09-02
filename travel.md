@@ -4471,6 +4471,29 @@ twice the price. See the [Taxis in Serbia](#taxis-in-serbia) section above for t
 My travel buddy rode the buses all day around Belgrade when he discovered this and then took me to a bigger mall on the
 outskirts.
 
+<!--
+
+##### Hostels in Belgrade
+
+I like:
+
+- [Habitat Hostel](https://maps.app.goo.gl/sfZpNsEL7KoKLGtH7) - cheap £10 per night and they have a big dog
+- [Nomad Hostel](https://maps.app.goo.gl/4J9Hbi1jKe44jE117) - cheap and central on
+  [Skadarlija](https://maps.app.goo.gl/EmubAYnEWMkfSW1T7) which means it is noisy in the evenings until they close the
+  windows
+
+TODO:
+
+- [Balkan Soul Hostel](https://maps.app.goo.gl/e5boYR2CavZtF5Bo7)
+- [Good People Hostel ](https://maps.app.goo.gl/faWhbVnstLj3hWii6) - liked by my travel buddy and a girl I met
+  travelling who stayed there
+- [The Traveling Theater Hostel](https://maps.app.goo.gl/Qo6NaCErN38HTY8K7)
+
+**Not Recommended:**
+
+- [Hidden Gem Hostel](https://maps.app.goo.gl/52LY2TqBehMoLTmq6) - my travel buddy tried it, said it was too small and
+  that he preferred Good People Hostel above
+
 ##### Restaurants in Belgrade
 
 The capital is reasonable in the center. Overall it is slightly cheaper to dine than other European cities.
