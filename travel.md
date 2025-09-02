@@ -1500,7 +1500,8 @@ even 30 minutes walking distance outside the centre, and other places were even 
 - [Kylo](https://maps.app.goo.gl/ZpDsXPbgsjcLiLEV7) - gentrified brunch cafe / restaurant.
   The Vulcano Eggs were decent (Vulcano ham is also known as parma ham), and the eggs come fried by default but I asked
   them to come poached instead, had to ask for butter for the sourdough toast though
-  (who has toast without butter on it!)
+  (who has toast without butter on it!).
+  I meant to tried the acai bowl here but spent too much time talking to a local couple...
 
 ### Belgium
 
