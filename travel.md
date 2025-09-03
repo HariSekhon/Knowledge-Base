@@ -4513,7 +4513,9 @@ The lower end is typically about half that.
   I've spent many hours on their wifi with regular top ups of juices and smoothies because they're so affordable,
   on top of lunch and dinner.
   Closes earlier than other restaurants at 9pm so it's better as a daytime place.
-  Non-smoking, a rare find in Belgrade
+  Non-smoking, a rare find in Belgrade.
+  There is a second one of these but it's not as good as it used to be because they moved and have a smaller venue with
+  less good road window / lighting
 - [Elephant's Food House](https://maps.app.goo.gl/aK24TL7T6c3cm3xKA) - another good cheap lunch type place.
   Closes early at 6pm
 - [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) - good coffee shop with 2 levels right in the
@@ -4537,6 +4539,8 @@ The lower end is typically about half that.
   However, my favourite pick at this restaurant is the veal sausages, and I don't normally rate sausages but these were
   full of flavour, I would go back just for these.
   The Baklava dessert was decent, better than the "venison" chocolate cake, the latter of which I would skip next time
+- [Hotel Moskva](https://maps.app.goo.gl/UBCTFmgQWfztRtESA) - fresh juices, fine desserts, go for an afternoon drink /
+  dessert
 - [Orasac (Орашац)](https://maps.app.goo.gl/D9ok9vaHDVjJceWp7) - the "karadordeva snicla" pork wrapped around cheese and
   coated in breadcrumbs was the best thing we had by far.
   The beef goulash with mashed potato, and other pork dish we had was reasonable too.
@@ -4562,6 +4566,7 @@ The lower end is typically about half that.
   but the Habanero SOS sauce for dipping the fries was amazing (of course it was, it contains sugar),
   although getting the staff to give me a dish to put the sauce in was a challenge.
   The wifi worked at the bar but not at the main seating bench so no speed test here
+- [URA! Russian dumplings](https://maps.app.goo.gl/tbNvia8txHUUNqim6) - best Russian dumplings in Belgrade apparently
 - [Obilićev venac road](https://maps.app.goo.gl/kLPuPNVYTPoscB3v6) - tourist trap road full of restaurants just off the
   main square, trade prices for buzziness
   - [Hari's Creperie](https://maps.app.goo.gl/jph8LKEq9Cv8HkpTA) - sweet & savory crepes, pizza, salads, all day
@@ -4603,6 +4608,7 @@ The lower end is typically about half that.
   [Protein Global 2](https://maps.app.goo.gl/BiMRhL4MFio9dCqk6) is further out
 - [Idea - Cara Dušana (Dorćol)](https://maps.app.goo.gl/B8s5oUD8JftWZmiUA) - 24 hour supermarket
 - [Idea - Kralja Milana](https://maps.app.goo.gl/RebkMZZ68m5G9wMs8) - 24 hour supermarket
+- [Idea - London](https://maps.app.goo.gl/pXHyku4U2qQd2mAf6) - 24 hour supermarket
 - [Maxi](https://maps.app.goo.gl/xd23wydYuSibNsJK9) - 24 hour supermarket on side road adjacent to the main high street
 - [Republic Square](https://maps.app.goo.gl/z7jGaMGfi5f3LcU3A) - historic landmark square in the centre
 - [Skadarlija](https://maps.app.goo.gl/dut9xBcbyWJUGfag6) - lively part of town in the evenings with restaurants and bars
@@ -4630,6 +4636,25 @@ I __don't__ recommend:
   This was so bad I left a lot of the sausages and the cevap, and went to FitBar for a protein shake instead.
   Venue has 14/8 Mbit/s wifi
 - [Princess Puff](https://maps.app.goo.gl/9XMm66cCvgPzJVKm9) - local Serbian dessert pastry chain, not worth the damage
+
+TODO:
+
+- [Forum](https://maps.app.goo.gl/aMAbUoJdU4oCN9Yr9) - cafe, 8am-7pm
+- [Caffe the 33](https://maps.app.goo.gl/QcSrDfSpkvF8FAfr8) - 4.4, nice looking seating, open until midnight,
+- [Move](https://maps.app.goo.gl/7P1EENDL12PxTNV17) - 4.9 restaurant across the river from the fortress
+- [Curry Souls](https://maps.app.goo.gl/YRvKTri4nMXrpHs98) - 4.9 in Galerija, how good can this be
+- [Furuna Libanska Pekara](https://maps.app.goo.gl/LtiRhA4ya5hgRKsX7) - 4.8 Lebanese
+- [Ćevabdžinica Savčić Dorćol](https://maps.app.goo.gl/q9coSpgUnMS67s417) - 4.7
+- [Botako](https://maps.app.goo.gl/Bh7wjB2gyz8N4eVVA) - 4.7 rating
+- [Little Bay](https://maps.app.goo.gl/TD6x2nZC2fe9fYCM8) - 4.6
+- [Restoran Beograd](https://maps.app.goo.gl/22FzAp6C2p8TSatG7) - 4.5
+- [Mama Restaurant Belgrade](https://maps.app.goo.gl/rqoUogbXQNaTxHq77) - 4.5
+- [Gradska](https://maps.app.goo.gl/ttMJLRCKa75eb9r59) - 4.5
+- [St. Mark's Place](https://maps.app.goo.gl/ZPNYHQQMpyNjeZGd9) - 4.3 but busy due to good location by the church and
+  park
+- [Sushirrito Belgrade Waterfront](https://maps.app.goo.gl/NnusMUrEHaqX54bLA) - 4.8 sushi
+- [Nocciola Gelato](https://maps.app.goo.gl/fwy61tQzDr9YHvLd6) - 4.9 ice cream
+- [Palačinkarnica Mlađen](https://maps.app.goo.gl/GT3xFftXbU8wD6Bs7) - 4.9 pancakes
 
 #### Novi Sad
 
