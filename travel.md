@@ -4647,6 +4647,7 @@ TODO:
 - [Furuna Libanska Pekara](https://maps.app.goo.gl/LtiRhA4ya5hgRKsX7) - 4.8 Lebanese
 - [Ćevabdžinica Savčić Dorćol](https://maps.app.goo.gl/q9coSpgUnMS67s417) - 4.7
 - [Botako](https://maps.app.goo.gl/Bh7wjB2gyz8N4eVVA) - 4.7 rating
+- [Iva New Balkan Cuisine](https://maps.app.goo.gl/4iAPSbrTjzq9f6uP8)
 - [Little Bay](https://maps.app.goo.gl/TD6x2nZC2fe9fYCM8) - 4.6
 - [Tri šešira](https://maps.app.goo.gl/GPASqRApoCtVk51R9) - 4.5
 - [Restoran Beograd](https://maps.app.goo.gl/22FzAp6C2p8TSatG7) - 4.5
