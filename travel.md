@@ -4639,6 +4639,7 @@ I __don't__ recommend:
 
 TODO:
 
+- [Prana Brunch & More](https://maps.app.goo.gl/r8b5DqxixUuVzMZR8) - brunch 8am-8pm
 - [Forum](https://maps.app.goo.gl/aMAbUoJdU4oCN9Yr9) - cafe, 8am-7pm
 - [Caffe the 33](https://maps.app.goo.gl/QcSrDfSpkvF8FAfr8) - 4.4, nice looking seating, open until midnight,
 - [Move](https://maps.app.goo.gl/7P1EENDL12PxTNV17) - 4.9 restaurant across the river from the fortress
@@ -4652,6 +4653,7 @@ TODO:
 - [Gradska](https://maps.app.goo.gl/ttMJLRCKa75eb9r59) - 4.5
 - [St. Mark's Place](https://maps.app.goo.gl/ZPNYHQQMpyNjeZGd9) - 4.3 but busy due to good location by the church and
   park
+- [Bad Sushi](https://maps.app.goo.gl/xzyVk4UVqouk1RPT6) - 4.8 sushi
 - [Sushirrito Belgrade Waterfront](https://maps.app.goo.gl/NnusMUrEHaqX54bLA) - 4.8 sushi
 - [Nocciola Gelato](https://maps.app.goo.gl/fwy61tQzDr9YHvLd6) - 4.9 ice cream
 - [Palačinkarnica Mlađen](https://maps.app.goo.gl/GT3xFftXbU8wD6Bs7) - 4.9 pancakes
