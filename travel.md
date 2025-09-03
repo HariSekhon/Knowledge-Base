@@ -4518,6 +4518,9 @@ The lower end is typically about half that.
   less good road window / lighting
 - [Elephant's Food House](https://maps.app.goo.gl/aK24TL7T6c3cm3xKA) - another good cheap lunch type place.
   Closes early at 6pm
+- [Zendwich](https://maps.app.goo.gl/e4jXMpjC6Fqb2WFW9) - asian restaurant, good food and reasonable prices,
+  a mix South Korean & Japanese cuisine styles.
+  The flank steak ciabatta has good quality meat with kimchi and is only 1250rsd (€10.50)
 - [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) - good coffee shop with 2 levels right in the
   centre, often busy and open late until 11pm
 - [Fit Bar](https://maps.app.goo.gl/S6nsPw9Ckj9v34Jg8) - small healthy eat place, chocolate protein porridge is good on the breakfast menu but the Energizer
