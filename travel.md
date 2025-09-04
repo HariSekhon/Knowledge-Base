@@ -4534,7 +4534,7 @@ The lower end is typically about half that.
   The truffle burger, called the "By chefs" burger, comes with caramelized onion, truffle butter slab, pecorino cheese
   (like parmesan) which is grated in front of you.
   I didn't notice any pistachios in it as per the menu though.
-  The truffle burger is also quite a premium at nearly €20 for just the burger, 1.7x the price of the regular burger,
+  The truffle burger is also quite a premium at 1700rsd (€15) for just the burger, 1.7x the price of the regular burger,
   and it's not very big, leaving space for dessert!
   The crispy fries were light and crispy, and heavily salted, which made them taste very good.
   The mixed juice was good but unfortunately quite small at 0.25l, not sure if worth it, or you'd have to order two of
