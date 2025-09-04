@@ -4528,6 +4528,17 @@ The lower end is typically about half that.
   red pepper and toasted almonds were quite good,
   but then it should be for €8.
   Wifi 9/5 Mbit/s outside
+- [Thyme - StreetCuisine & Cocktails](https://maps.app.goo.gl/DKEt6dwnfTToc9K17) - upmarket (pricey) top 25 restaurant
+  in Belgrade, prime location on the side street just off the main high street, opposite the Rajićeva Shopping Center
+  and next to the Kalemegdan park and Belgrade fortress.
+  The truffle burger, called the "By chefs" burger, comes with caramelized onion, truffle butter slab, pecorino cheese
+  (like parmesan) which is grated in front of you.
+  I didn't notice any pistachios in it as per the menu though.
+  The truffle burger is also quite a premium at nearly €20 for just the burger, 1.7x the price of the regular burger,
+  and it's not very big, leaving space for dessert!
+  The crispy fries were light and crispy, and heavily salted, which made them taste very good.
+  The mixed juice was good but unfortunately quite small at 0.25l, not sure if worth it, or you'd have to order two of
+  them. Wifi 10/13 Mbit/s
 - [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) - good coffee shop with 2 levels right in the
   centre, often busy and open late until 11pm
 - [Fit Bar](https://maps.app.goo.gl/S6nsPw9Ckj9v34Jg8) - small healthy eat place, chocolate protein porridge is good on the breakfast menu but the Energizer
@@ -4621,6 +4632,8 @@ The lower end is typically about half that.
 - [Idea - London](https://maps.app.goo.gl/pXHyku4U2qQd2mAf6) - 24 hour supermarket
 - [Maxi](https://maps.app.goo.gl/xd23wydYuSibNsJK9) - 24 hour supermarket on side road adjacent to the main high street
 - [Republic Square](https://maps.app.goo.gl/z7jGaMGfi5f3LcU3A) - historic landmark square in the centre
+- [Belgrade Fortress](https://maps.app.goo.gl/1hbPYk21dYJgDk1c9) - this defines the city
+- [Kalemegdan](https://maps.app.goo.gl/JiKRA6MZTBmyBWju6) - the main park around the Belgrade fortress
 - [Skadarlija](https://maps.app.goo.gl/dut9xBcbyWJUGfag6) - lively part of town in the evenings with restaurants and bars
 - [Church of Saint Sava](https://maps.app.goo.gl/ty8NmfjuYZLVCLDd7) - impressive dome interior
 - [St. Mark Orthodox Church](https://maps.app.goo.gl/9o5x7XNmaFHD2uss8)
