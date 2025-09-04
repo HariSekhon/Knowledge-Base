@@ -4521,6 +4521,13 @@ The lower end is typically about half that.
 - [Zendwich](https://maps.app.goo.gl/e4jXMpjC6Fqb2WFW9) - asian restaurant, good food and reasonable prices,
   a mix South Korean & Japanese cuisine styles.
   The flank steak ciabatta has good quality meat with kimchi and is only 1250rsd (€10.50)
+- [PRANA Brunch & More](https://maps.app.goo.gl/1pJSNozw9625KRYA7) - all day brunch until 7-8pm the, with the usual
+  gentrified type of brunch food - fresh juices and smoothies,
+  variations of avocado toast, eggs on foccacia or sourdough toast, oatmeal / acai / granola bowls.
+  The the juice was a decent size [for Europe!], and the proscuitto & goats cheese on avocado spread toast, with roasted
+  red pepper and toasted almonds were quite good,
+  but then it should be for €8.
+  Wifi 9/5 Mbit/s outside
 - [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) - good coffee shop with 2 levels right in the
   centre, often busy and open late until 11pm
 - [Fit Bar](https://maps.app.goo.gl/S6nsPw9Ckj9v34Jg8) - small healthy eat place, chocolate protein porridge is good on the breakfast menu but the Energizer
