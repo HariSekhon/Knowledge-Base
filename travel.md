@@ -4547,6 +4547,8 @@ The lower end is typically about half that.
   Wifi 10/13 Mbit/s
 - [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) - good coffee shop with 2 levels right in the
   centre, often busy and open late until 11pm
+- [Bege Sendviči](https://maps.app.goo.gl/CTzVcJZg3QVDFM369) - cheap late night good quality, choose 4 meats in a
+  sandwich and have it toasted for only 390rsd (€3) - hard to beat this. Good stop for protein after going to Street Gym
 - [Fit Bar](https://maps.app.goo.gl/S6nsPw9Ckj9v34Jg8) - small healthy eat place, chocolate protein porridge is good on the breakfast menu but the Energizer
   shake is my favourite here that keeps me coming back. One of the rare no smoking places in Belgrade.
   There are a couple of popular bars next door to here too.
