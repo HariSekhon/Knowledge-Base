@@ -4550,7 +4550,7 @@ The lower end is typically about half that.
 - [Bege Sendviči](https://maps.app.goo.gl/CTzVcJZg3QVDFM369) - cheap late night good quality, choose 4 meats in a
   sandwich and have it toasted for only 390rsd (€3) - hard to beat this. Good stop for protein after going to Street Gym
 - [Brusnica](https://maps.app.goo.gl/BokB17u66mckEd8DA) - health food restaurant with fresh juices, acai bowls, eggs
-  breakfasts, avocado toast, chia and oats, fruits, salads with protein add ons like chicken, salmon, bacon, nuts, seeds
+  breakfasts, avocado toast, chia and oats, fruits, salads with protein add-ons like chicken, salmon, bacon, nuts, seeds
   etc. as well as cheesecake desserts and cocktails.
   A bit pricier for fresh squeezed juices than say Street Pasta Bar, but open later as they didn't do me a juice at 8pm.
   Wifi 10/7 Mbit/s
