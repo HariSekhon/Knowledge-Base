@@ -1,5 +1,9 @@
 # Travel
 
+[![Nomads Profile](https://img.shields.io/badge/Nomads%20Profile-HariSekhon-blue?logo=nomad&logoColor=white)](https://nomads.com/@harisekhon)
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/stargazers)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/commits/main)
+
 Short links to this page:
 
 [tinyurl.com/hari-travels](https://tinyurl.com/hari-travels)
