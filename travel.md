@@ -4575,6 +4575,11 @@ The lower end is typically about half that.
   The beef goulash with mashed potato, and other pork dish we had was reasonable too.
   They also have fresh squeezed orange juice.
   Kitchen closes at 10:30pm
+- [Curry Souls in Galerija Male](https://maps.app.goo.gl/YRvKTri4nMXrpHs98) - outdoor terrace seating oversees the
+  Belgrade Waterfront - the chicken thigh curry was good,
+  as was the side cucumber and pineapple salad side add-on (although it is small).
+  Wifi 6/25 Mbit/s outdoors on terrace
+  - [Curry Souls in Obilićev venac ](https://maps.app.goo.gl/jEzrzNh75eYhzYdG8) - is just off the main high street and has good outdoor seating for summer
 - [Oskar](https://maps.app.goo.gl/xtbibPCagq1qP5jCA) - good quality restaurant, a few minutes off the beaten track
   (usually better finds because they survive on foot and not tourist trap). 43/31 Mbit/s wifi
 - [Burger House Bros Centar](https://maps.app.goo.gl/C5FyhgFp16gPN11H9) - very good burger restaurant
@@ -4670,11 +4675,9 @@ I __don't__ recommend:
 
 TODO:
 
-- [Prana Brunch & More](https://maps.app.goo.gl/r8b5DqxixUuVzMZR8) - brunch 8am-8pm
 - [Forum](https://maps.app.goo.gl/aMAbUoJdU4oCN9Yr9) - cafe, 8am-7pm
 - [Caffe the 33](https://maps.app.goo.gl/QcSrDfSpkvF8FAfr8) - 4.4, nice looking seating, open until midnight,
 - [Move](https://maps.app.goo.gl/7P1EENDL12PxTNV17) - 4.9 restaurant across the river from the fortress
-- [Curry Souls](https://maps.app.goo.gl/YRvKTri4nMXrpHs98) - 4.9 in Galerija, how good can this be
 - [Furuna Libanska Pekara](https://maps.app.goo.gl/LtiRhA4ya5hgRKsX7) - 4.8 Lebanese
 - [Ćevabdžinica Savčić Dorćol](https://maps.app.goo.gl/q9coSpgUnMS67s417) - 4.7
 - [Botako](https://maps.app.goo.gl/Bh7wjB2gyz8N4eVVA) - 4.7 rating
