@@ -4549,13 +4549,11 @@ The lower end is typically about half that.
   centre, often busy and open late until 11pm
 - [Bege Sendviči](https://maps.app.goo.gl/CTzVcJZg3QVDFM369) - cheap late night good quality, choose 4 meats in a
   sandwich and have it toasted for only 390rsd (€3) - hard to beat this. Good stop for protein after going to Street Gym
-- [Fit Bar](https://maps.app.goo.gl/S6nsPw9Ckj9v34Jg8) - small healthy eat place, chocolate protein porridge is good on the breakfast menu but the Energizer
-  shake is my favourite here that keeps me coming back. One of the rare no smoking places in Belgrade.
-  There are a couple of popular bars next door to here too.
-  Don't get the protein shake to take away though,
-  their takeaway cups are small 0.3l instead of the 0.4l glasses when you have it locally.
-  Both local and takeaway juice portions are smaller than they used to be in 2024.
-  40/18 Mbit/s wifi
+- [Brusnica](https://maps.app.goo.gl/BokB17u66mckEd8DA) - health food restaurant with fresh juices, acai bowls, eggs
+  breakfasts, avocado toast, chia and oats, fruits, salads with protein add ons like chicken, salmon, bacon, nuts, seeds
+  etc. as well as cheesecake desserts and cocktails.
+  A bit pricier for fresh squeezed juices than say Street Pasta Bar, but open later as they didn't do me a juice at 8pm.
+  Wifi 10/7 Mbit/s
 - [Boutique #2](https://maps.app.goo.gl/1svhc4v3bq3aAwfh7) - prime location restaurant for drinks or food on the main
   parade, very popular and good
 - [Trattoria Pepe](https://maps.app.goo.gl/gdP9dLWxAVzGYEdV6) - excellent Italian 5 minutes walk from the centre - worth the walk
@@ -4641,6 +4639,16 @@ The lower end is typically about half that.
   other european places giving only 200ml.
   Wifi 148/23 Mbit/s.
   [Protein Global 2](https://maps.app.goo.gl/BiMRhL4MFio9dCqk6) is further out
+- [Fit Bar](https://maps.app.goo.gl/S6nsPw9Ckj9v34Jg8) - small healthy eat place, chocolate protein porridge is good on
+    the breakfast menu but the Energizer shake is my favourite here that keeps me coming back. One of the rare no smoking
+    places in Belgrade. There are a couple of popular bars next door to here too.
+    Don't get the protein shake to take away though,
+    their takeaway cups are small 0.3l instead of the 0.4l glasses when you have it locally.
+    Both local and takeaway juice portions are smaller
+    than they used to be in 2024 as they now come in pre-pressed tiny bottles of 290ml,
+    even smaller than quoted on the menu.
+    I don't come here as much as I used to as a result now.
+    40/18 Mbit/s wifi
 - [Idea - Cara Dušana (Dorćol)](https://maps.app.goo.gl/B8s5oUD8JftWZmiUA) - 24 hour supermarket
 - [Idea - Kralja Milana](https://maps.app.goo.gl/RebkMZZ68m5G9wMs8) - 24 hour supermarket
 - [Idea - London](https://maps.app.goo.gl/pXHyku4U2qQd2mAf6) - 24 hour supermarket
