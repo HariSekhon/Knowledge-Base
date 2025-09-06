@@ -4558,7 +4558,7 @@ The lower end is typically about half that.
   it's very good - eat it vertically for best results.
   TODO: try the lime cake with passionfruit and mint sauce and multivitamin ice cream...
   and also try the ice cream with pistachio glaze and raspberry ice cream...
-  and also the poppy seed cake with chocolate ganache, butter biscuit and vanialla ice cream.
+  and also the poppy seed cake with chocolate ganache, butter biscuit and vanilla ice cream.
   Wifi 10/13 Mbit/s
 - [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) - good coffee shop with 2 levels right in the
   centre, often busy and open late until 11pm
@@ -4567,6 +4567,8 @@ The lower end is typically about half that.
   I can't believe it took my 4th trip to Belgrade to find this place which has a 4.9 Google rating!
   The signature Perlo burger is not big, but good quality with truffle aoli sauce.
   The fries with spice dusting aren't a big portion either, the spice is a 5 mix and not spicy, more like orange salt.
+  They don't have cutlery so be prepared to get your hands dirty in true fast food fashion.
+  This is probably the best fast food you'll have in Belgrade.
   Wifi is only 0.5/0.5 Mbit/s
 - [Bege Sendviči](https://maps.app.goo.gl/CTzVcJZg3QVDFM369) - cheap late night good quality, choose 4 meats in a
   sandwich and have it toasted for only 390rsd (€3) - hard to beat this. Good stop for protein after going to Street Gym
