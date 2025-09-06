@@ -4556,6 +4556,7 @@ The lower end is typically about half that.
   The tropical acai bowl is not what one would expect,
   it's more like a dessert with chocolate and many other things in it -
   this is a sugar treat even more than a regular acai bowl.
+  This place refuses to split group bills so you might want to bring cash.
   Wifi 10/7 Mbit/s
 - [Boutique #2](https://maps.app.goo.gl/1svhc4v3bq3aAwfh7) - prime location restaurant for drinks or food on the main
   parade, very popular and good
