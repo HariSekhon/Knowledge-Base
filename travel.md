@@ -4579,7 +4579,8 @@ The lower end is typically about half that.
   Belgrade Waterfront - the chicken thigh curry was good,
   as was the side cucumber and pineapple salad side add-on (although it is small).
   Wifi 6/25 Mbit/s outdoors on terrace
-  - [Curry Souls in Obilićev venac ](https://maps.app.goo.gl/jEzrzNh75eYhzYdG8) - is just off the main high street and has good outdoor seating for summer
+  - [Curry Souls in Obilićev venac ](https://maps.app.goo.gl/jEzrzNh75eYhzYdG8) - is just off the main high street and
+    has good outdoor seating for summer, with the same menu
 - [Oskar](https://maps.app.goo.gl/xtbibPCagq1qP5jCA) - good quality restaurant, a few minutes off the beaten track
   (usually better finds because they survive on foot and not tourist trap). 43/31 Mbit/s wifi
 - [Burger House Bros Centar](https://maps.app.goo.gl/C5FyhgFp16gPN11H9) - very good burger restaurant
