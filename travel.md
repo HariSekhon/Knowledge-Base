@@ -3484,6 +3484,17 @@ but nothing as busy as [Changkat](https://maps.app.goo.gl/KZMNXSDVS3gmTDHb9) in 
   The noodles are made in house, and the curry sauce was very good too, although mutton is a bit fatty.
   You can get beef rendang noodles, or with rice. The chicken BBQ buns are very good, fluffy and sweet too
 
+<!--
+
+Luxembourg
+
+**Not Recommended**:
+
+- [Cyrano](https://www.tripadvisor.co.uk/Restaurant_Review-g190356-d950848-Reviews-Cyrano-Luxembourg_City.html) -
+  my travel bro said this was a waste of €30, could get better for half the price even back home in London
+
+-->
+
 ### Moldova
 
 #### Chisinau
