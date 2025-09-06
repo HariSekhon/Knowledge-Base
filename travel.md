@@ -4572,8 +4572,9 @@ The lower end is typically about half that.
   Wifi is only 0.5/0.5 Mbit/s
 - [Bege Sendviči](https://maps.app.goo.gl/CTzVcJZg3QVDFM369) - cheap late night good quality, choose 4 meats in a
   sandwich and have it toasted for only 390rsd (€3) - hard to beat this. Good stop for protein after going to Street Gym
-- [Brusnica](https://maps.app.goo.gl/BokB17u66mckEd8DA) - health food restaurant in buzzy evening location on a bar
-  strip in the center with fresh juices, acai bowls, eggs breakfasts, avocado toast, chia and oats, fruits, salads with
+- [Brusnica](https://maps.app.goo.gl/BokB17u66mckEd8DA) - relatively expensive health food restaurant in buzzing evening
+  location on the Obilićev venac bar strip just off Republic Square in the center - you're paying for the location.
+  It has with fresh juices, acai bowls, eggs breakfasts, avocado toast, chia and oats, fruits, salads with
   protein add-ons like chicken, salmon, bacon, nuts, seeds etc. as well as cheesecake desserts and cocktails.
   A bit pricier for fresh squeezed juices than say Street Pasta Bar, but open later as they didn't do me a juice at 8pm.
   The tropical acai bowl is not what one would expect,
