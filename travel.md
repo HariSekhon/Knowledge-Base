@@ -4553,6 +4553,9 @@ The lower end is typically about half that.
   breakfasts, avocado toast, chia and oats, fruits, salads with protein add-ons like chicken, salmon, bacon, nuts, seeds
   etc. as well as cheesecake desserts and cocktails.
   A bit pricier for fresh squeezed juices than say Street Pasta Bar, but open later as they didn't do me a juice at 8pm.
+  The tropical acai bowl is not what one would expect,
+  it's more like a dessert with chocolate and many other things in it -
+  this is a sugar treat even more than a regular acai bowl.
   Wifi 10/7 Mbit/s
 - [Boutique #2](https://maps.app.goo.gl/1svhc4v3bq3aAwfh7) - prime location restaurant for drinks or food on the main
   parade, very popular and good
