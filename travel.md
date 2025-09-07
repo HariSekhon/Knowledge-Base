@@ -4579,7 +4579,12 @@ The lower end is typically about half that.
     - [Thyme - StreetFood & Breakfast, Karađorđeva](https://maps.app.goo.gl/Es1kENwE6dW3zFy97)
     - [Thyme - StreetFood & Breakfast, Kirovljeva](https://maps.app.goo.gl/6gup2bvsC4w8zUdR8)
 - [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) - good coffee shop with 2 levels right in the
-  centre, often busy and open late until 11pm
+  centre, often busy and open late until 11pm - the have extensive menus of drinks,
+  including fresh pressed juices and smoothies including acai,
+  protein etc, as well as acai / moat / chia bowls, all day eggs breakfasts.
+  Kitchen closes just before 10pm.
+  TODO: try the Acai and other bowls
+  Wifi is capture portal with 5/5 Mbit/s speed
 - [Перло бургери (Perlo's Burger)](https://maps.app.goo.gl/etkwZ4JAMwTLbLhh7) - highly rated gentrified small burger
   restaurant facing Republic Square.
   I can't believe it took my 4th trip to Belgrade to find this place which has a 4.9 Google rating!
