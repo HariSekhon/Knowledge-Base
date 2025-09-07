@@ -4581,8 +4581,8 @@ The lower end is typically about half that.
 - [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) - good coffee shop with 2 levels right in the
   centre, often busy and open late until 11pm - the have extensive menus of drinks,
   including fresh pressed juices and smoothies including acai,
-  protein etc, as well as acai / moat / chia bowls, all day eggs breakfasts.
-  Kitchen closes just before 10pm.
+  protein etc, as well as acai / moat / chia bowls, all day eggs breakfasts, as well as burgers, sandwiches, wraps and
+  salads. Kitchen closes just before 10pm.
   TODO: try the Acai and other bowls
   Wifi is capture portal with 5/5 Mbit/s speed
 - [Перло бургери (Perlo's Burger)](https://maps.app.goo.gl/etkwZ4JAMwTLbLhh7) - highly rated gentrified small burger
