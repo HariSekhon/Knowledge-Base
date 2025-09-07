@@ -692,7 +692,7 @@ and add the country you are travelling to for more options.
 Follow the installation instructions and make sure to enable `Data Roaming`
 under the e-sim settings otherwise the internet won't connect.
 
-Prices fluctate and alternate by country so compare the top 3 providers before choosing:
+Prices fluctuate and alternate by country so compare the top 3 providers before choosing:
 
 - [Nomad](https://www.getnomad.app/) - a bit cheaper than Airalo,, I've started using this the most
 - [Airalo](https://www.airalo.com/) - I used this a lot originally, second cheapest option
@@ -706,6 +706,11 @@ Others:
   than 1-3GB unless you're watching lots of videos on 4G instead of hotel wifi
 - [Saily](https://saily.com/) - WARNING: I haven't use this one yet, but my travel buddy who also travels all year has found Saily to
   be unreliable and had to get refunds from them 3 times across different countries, and warned me not to use it
+
+Not tried these:
+
+- [sSim.sm](https://esim.sm/)
+- [Gjirafa eSIM](https://travel.gjirafa.com/en/esim)
 
 <!-- -->
 
