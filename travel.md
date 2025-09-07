@@ -4557,6 +4557,12 @@ The lower end is typically about half that.
   The truffle burger is also quite a premium at 1700rsd (€15) for just the burger, 1.7x the price of the regular burger,
   and it's not very big, leaving space for dessert!
   The crispy fries were light and crispy, and heavily salted, which made them taste very good.
+  The Tanasko steak main in the specials section was interesting, it appeared smaller than expected, but hit the spot
+  with 4 good quality short thick slices of katsu-sando sirloin steak served medium-rare with each piece on its side,
+  sandwiched with thin white bread and an orange sauce of homemade sriracha. It has a chilli symbol next to it but was
+  not spicy.
+  The accompanying sides also appeared small, with 3 glazed spring onions and 4 triple fried potato chunky fries -
+  honestly it would have been better if they'd added more of these as they were very good to dunk in the orange sauce.
   The orange juice and mixed juice were good but unfortunately very small at 0.25l, seems more like 0.2l, tiny, not sure
   if worth it, or you'd have to order two of them.
   The "Creamy, milky, coconut" dessert is basically a rice pudding with caramel on top and coconut flakes -
