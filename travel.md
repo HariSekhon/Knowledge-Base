@@ -4551,6 +4551,7 @@ The lower end is typically about half that.
 - [Thyme - StreetCuisine & Cocktails](https://maps.app.goo.gl/DKEt6dwnfTToc9K17) - upmarket (pricey) top 25 restaurant
   in Belgrade, prime location on the side street just off the main high street, opposite the Rajićeva Shopping Center
   and next to the Kalemegdan park and Belgrade fortress.
+  Expect to pay €20-30 per head + drinks.
   The truffle burger, called the "By chefs" burger, comes with caramelized onion, truffle butter slab, pecorino cheese
   (like parmesan) which is grated in front of you.
   I didn't notice any pistachios in it as per the menu though.
