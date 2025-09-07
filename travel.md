@@ -4564,7 +4564,10 @@ The lower end is typically about half that.
   TODO: try the lime cake with passionfruit and mint sauce and multivitamin ice cream...
   and also try the ice cream with pistachio glaze and raspberry ice cream...
   and also the poppy seed cake with chocolate ganache, butter biscuit and vanilla ice cream.
-  Wifi 10/13 Mbit/s
+  Wifi 10/13 Mbit/s.
+  - [Thyme](https://thyme.rs/) has two other restaurants with even better menus but they are further out:
+    - [Thyme - StreetFood & Breakfast, Karađorđeva](https://maps.app.goo.gl/Es1kENwE6dW3zFy97)
+    - [Thyme - StreetFood & Breakfast, Kirovljeva](https://maps.app.goo.gl/6gup2bvsC4w8zUdR8)
 - [Kafeterija Magazin 1907](https://maps.app.goo.gl/PwaZbmMLMU7zTr1Z6) - good coffee shop with 2 levels right in the
   centre, often busy and open late until 11pm
 - [Перло бургери (Perlo's Burger)](https://maps.app.goo.gl/etkwZ4JAMwTLbLhh7) - highly rated gentrified small burger
