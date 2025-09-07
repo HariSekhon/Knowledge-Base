@@ -4582,7 +4582,10 @@ The lower end is typically about half that.
   centre, often busy and open late until 11pm - the have extensive menus of drinks,
   including fresh pressed juices and smoothies including acai,
   protein etc, as well as acai / moat / chia bowls, all day eggs breakfasts, as well as burgers, sandwiches, wraps and
-  salads. Kitchen closes just before 10pm.
+  salads.
+  The acai smoothie was 600rsd (€5) but was a good size,
+  much bigger than the 350ml compared other venues ml sizes like Thyme.
+  Kitchen closes just before 10pm.
   TODO: try the Acai and other bowls
   Wifi is capture portal with 5/5 Mbit/s speed
 - [Перло бургери (Perlo's Burger)](https://maps.app.goo.gl/etkwZ4JAMwTLbLhh7) - highly rated gentrified small burger
