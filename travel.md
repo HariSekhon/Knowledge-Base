@@ -4557,7 +4557,7 @@ The lower end is typically about half that.
   The truffle burger is also quite a premium at 1700rsd (€15) for just the burger, 1.7x the price of the regular burger,
   and it's not very big, leaving space for dessert!
   The crispy fries were light and crispy, and heavily salted, which made them taste very good.
-  The orange juice and mixed juice was good but unfortunately very small at 0.25l, seems more like 0.2l, tiny, not sure
+  The orange juice and mixed juice were good but unfortunately very small at 0.25l, seems more like 0.2l, tiny, not sure
   if worth it, or you'd have to order two of them.
   The "Creamy, milky, coconut" dessert is basically a rice pudding with caramel on top and coconut flakes -
   it's very good - eat it vertically for best results.
