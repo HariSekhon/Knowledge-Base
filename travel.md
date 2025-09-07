@@ -4717,6 +4717,7 @@ I __don't__ recommend:
 
 TODO:
 
+- [Gorilla Burger Bar](https://maps.app.goo.gl/Vbvs2CEr42X5KswY9) - 4.8 burgers
 - [Forum](https://maps.app.goo.gl/aMAbUoJdU4oCN9Yr9) - cafe, 8am-7pm
 - [Caffe the 33](https://maps.app.goo.gl/QcSrDfSpkvF8FAfr8) - 4.4, nice looking seating, open until midnight,
 - [Move](https://maps.app.goo.gl/7P1EENDL12PxTNV17) - 4.9 restaurant across the river from the fortress
