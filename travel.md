@@ -4608,6 +4608,10 @@ The lower end is typically about half that.
   this is a sugar treat even more than a regular acai bowl.
   This place refuses to split group bills so you might want to bring cash if in a group.
   Wifi 10/7 Mbit/s
+- [Boutique #1](https://maps.app.goo.gl/mxsz6q5hFQfJEDhj8) - prime location overlooking Republic Square - good for
+  drinks but also has food and desserts.
+  Unfortunately it's a bit expensive at €5-6 for a juice.
+  Wifi 15/0.5 Mbit/s outside
 - [Boutique #2](https://maps.app.goo.gl/1svhc4v3bq3aAwfh7) - prime location restaurant for drinks or food on the main
   parade, very popular and good
 - [Trattoria Pepe](https://maps.app.goo.gl/gdP9dLWxAVzGYEdV6) - excellent Italian 5 minutes walk from the centre - worth the walk
