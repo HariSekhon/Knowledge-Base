@@ -4577,7 +4577,7 @@ The lower end is typically about half that.
   and passionfruit and mint sauce.
     - The _"Creamy, Milky, Coconut"_ dessert is basically a rice pudding with caramel on top and coconut flakes -
   it's very good - eat it vertically for best results.
-    - The poppy seed cake has a half cm thick layer of chocolate on top and a cmall vanilla ice cream scoop on it - this was
+    - The poppy seed cake has a half cm thick layer of chocolate on top and a small vanilla ice cream scoop on it - this was
      my least favourite for the three desserts.
   Google Maps says the kitchen is open until 11pm but in reality only 10:45pm and by 10:40pm they would only serve a
   burger and not any of the specialities.
