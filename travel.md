@@ -118,6 +118,7 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Bus Between Phenom Penh and Siem Reap](#bus-between-phenom-penh-and-siem-reap)
     - [Siem Reap](#siem-reap)
   - [Canada](#canada)
+    - [Vancouver](#vancouver)
     - [Abbotsford](#abbotsford)
   - [Croatia](#croatia)
     - [Taxis in Croatia](#taxis-in-croatia)
@@ -4640,7 +4641,7 @@ The lower end is typically about half that.
   Belgrade Waterfront - the chicken thigh curry was good,
   as was the side cucumber and pineapple salad side add-on (although it is small).
   Wifi 6/25 Mbit/s outdoors on terrace
-  - [Curry Souls in Obilićev venac ](https://maps.app.goo.gl/jEzrzNh75eYhzYdG8) - is just off the main high street and
+  - [Curry Souls in Obilićev venac](https://maps.app.goo.gl/jEzrzNh75eYhzYdG8) - is just off the main high street and
     has good outdoor seating for summer, with the same menu
 - [Oskar](https://maps.app.goo.gl/xtbibPCagq1qP5jCA) - good quality restaurant, a few minutes off the beaten track
   (usually better finds because they survive on foot and not tourist trap). 43/31 Mbit/s wifi
