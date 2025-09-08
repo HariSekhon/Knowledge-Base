@@ -4613,7 +4613,8 @@ The lower end is typically about half that.
   Unfortunately it's a bit expensive at €5-6 for a juice.
   Wifi 15/0.5 Mbit/s outside
 - [Boutique #2](https://maps.app.goo.gl/1svhc4v3bq3aAwfh7) - prime location sister restaurant to Boutique 1 on the main
-  high street at the Belgrade Fortress end for drinks or food on the main parade, very popular and good menu
+  high street at the Belgrade Fortress end for drinks or food on the main parade, very popular and good menu.
+  Open late until 12-1am this is one of the latest places open on the main high street
 - [Trattoria Pepe](https://maps.app.goo.gl/gdP9dLWxAVzGYEdV6) - excellent Italian 5 minutes walk from the centre - worth the walk
 - [Kafana Suvobor](https://maps.app.goo.gl/PqQ4iuStYhSz1EnGA) - good Serbian restaurant in the district the locals eat,
   5 minutes walk off the main high street.
