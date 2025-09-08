@@ -4571,12 +4571,14 @@ The lower end is typically about half that.
   honestly it would have been better if they'd added more of these as they were very good to dunk in the orange sauce.
   The orange juice and mixed juice were good but unfortunately very small at 0.25l, seems more like 0.2l, tiny, not sure
   if worth it, or you'd have to order two of them.
-  The _"Juicy, Fruity, Exotic"_ dessert was a very good fine dessert, small but full of flavours - a lime cake with thin
+  - Desserts - of the three desserts I've tried, this is the order in which I rank them:
+    - The _"Juicy, Fruity, Exotic"_ dessert was a very good fine dessert, small but full of flavours - a lime cake with thin
   base, held in by a a white chocolate side, topped by 2 meringue bars and a small opal shaped multivitamin ice cream,
   and passionfruit and mint sauce.
-  The _"Creamy, Milky, Coconut"_ dessert is basically a rice pudding with caramel on top and coconut flakes -
+    - The _"Creamy, Milky, Coconut"_ dessert is basically a rice pudding with caramel on top and coconut flakes -
   it's very good - eat it vertically for best results.
-  The _"Juicy, Fruity, Exotic"_ was the one to get here out of these two.
+    - The poppy seed cake has a half cm thick layer of chocolate on top and a cmall vanilla ice cream scoop on it - this was
+     my least favourite for the three desserts.
   Google Maps says the kitchen is open until 11pm but in reality only 10:45pm and by 10:40pm they would only serve a
   burger and not any of the specialities.
   TODO: also try the ice cream with pistachio glaze and raspberry ice cream...
