@@ -4581,8 +4581,7 @@ The lower end is typically about half that.
      my least favourite for the three desserts.
   Google Maps says the kitchen is open until 11pm but in reality only 10:45pm and by 10:40pm they would only serve a
   burger and not any of the specialities.
-  TODO: also try the ice cream with pistachio glaze and raspberry ice cream...
-  and also the poppy seed cake with chocolate ganache, butter biscuit and vanilla ice cream.
+    - TODO: also try the ice cream with pistachio glaze and raspberry ice cream...
   Wifi 10/13 Mbit/s
   - [Thyme](https://thyme.rs/) has two other restaurants with even better menus but they are further out:
     - [Thyme - StreetFood & Breakfast, Karađorđeva](https://maps.app.goo.gl/Es1kENwE6dW3zFy97)
