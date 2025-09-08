@@ -4549,9 +4549,9 @@ The lower end is typically about half that.
 - [PRANA Brunch & More](https://maps.app.goo.gl/1pJSNozw9625KRYA7) - all day brunch until 7-8pm the, with the usual
   gentrified type of brunch food - fresh juices and smoothies,
   variations of avocado toast, eggs on foccacia or sourdough toast, oatmeal / acai / granola bowls.
-  The the juice was a decent size [for Europe!], and the proscuitto & goats cheese on avocado spread toast, with roasted
-  red pepper and toasted almonds were quite good,
-  but then it should be for €8.
+  The the juice was a decent size [for Europe!] for 420rsd (€3.50 - 2/3 the price of the tourist trap places in the
+  centre), and the proscuitto & goats cheese on avocado spread toast, with roasted
+  red pepper and toasted almonds were quite good, but then it should be for 940rsd (€8).
   Wifi 9/5 Mbit/s outside
 - [Thyme - StreetCuisine & Cocktails](https://maps.app.goo.gl/DKEt6dwnfTToc9K17) - upmarket (pricey) top 25 restaurant
   in Belgrade, prime location on the side street just off the main high street, opposite the Rajićeva Shopping Center
