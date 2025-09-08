@@ -2086,6 +2086,10 @@ when I first heard it audibly by an English cockney I met at the airport and hun
 
 It's been most of a lifetime since I've been so no restaurant recommendations for this one.
 
+#### Vancouver
+
+Mall life, similar to the US.
+
 #### Abbotsford
 
 Just outside Vancouver, the basements of their houses are bigger than UK houses.
