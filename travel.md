@@ -4132,6 +4132,9 @@ Parking is free in the centre from 8pm, which is convenient for dinner.
   other mains, as well as fresh juices, and desserts.
 - The duck pierogi were 7 large boiled dumplings, but the duck filling was quite fluffy instead of meaty.
   Next time I'd try a different pierogi or just a straight burger or steak.
+  The warm apple pie with vanilla ice cream was much better.
+  The pie came large and warm (it took a while),
+  although the ice cream scoop was a bit small, but overall a very good dessert.
   The pressed apple-beetroot juice hit the spot.
   Wifi but couldn't get a speed reading, it also doesn't allow ping out, but worked well enough on Google Maps
 - [Hato Sushi](https://maps.app.goo.gl/64ebeUXGC8A9iJ9MA) - catch the lunch menu if you can
