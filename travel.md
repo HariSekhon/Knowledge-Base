@@ -4127,6 +4127,7 @@ Parking is free in the centre from 8pm, which is convenient for dinner.
 - [ČESKÁ beer restaurant](https://maps.app.goo.gl/h8kMmcnCpri5R1bv6) - czech restaurant, chain of two, the other being
   my favourite in Wroclaw. Get the classic traditional cesnecka garlic soup, and goulash.
   Good sized 350ml fresh orange juice for 19 pln (€4.50).
+  Wifi 55/25 Mbit/s
 - [Hato Sushi](https://maps.app.goo.gl/64ebeUXGC8A9iJ9MA) - catch the lunch menu if you can
 - [Warszawa Wschodnia](https://maps.app.goo.gl/F1f7ATy6Re3eYE4V9) - french and polish, pricey but good quality
 - [Złote Tarasy](https://maps.app.goo.gl/MKRDUTHwfyUFXaPT9) - central shopping mall
