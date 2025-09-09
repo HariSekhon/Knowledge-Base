@@ -4128,6 +4128,12 @@ Parking is free in the centre from 8pm, which is convenient for dinner.
   my favourite in Wroclaw. Get the classic traditional cesnecka garlic soup, and goulash.
   Good sized 350ml fresh orange juice for 19 pln (€4.50).
   Wifi 55/25 Mbit/s
+- [Restauracja Słoik](https://maps.app.goo.gl/Q1nHHoGrPK4Tertx6) - good menu of pierogi dumplings, burgers, steak and
+  other mains, as well as fresh juices, and desserts.
+- The duck pierogi were 7 large boiled dumplings, but the duck filling was quite fluffy instead of meaty.
+  Next time I'd try a different pierogi or just a straight burger or steak.
+  The pressed apple-beetroot juice hit the spot.
+  Wifi but couldn't get a speed reading, it also doesn't allow ping out, but worked well enough on Google Maps
 - [Hato Sushi](https://maps.app.goo.gl/64ebeUXGC8A9iJ9MA) - catch the lunch menu if you can
 - [Warszawa Wschodnia](https://maps.app.goo.gl/F1f7ATy6Re3eYE4V9) - french and polish, pricey but good quality
 - [Złote Tarasy](https://maps.app.goo.gl/MKRDUTHwfyUFXaPT9) - central shopping mall
