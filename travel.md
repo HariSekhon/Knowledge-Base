@@ -5655,7 +5655,7 @@ TODO:
 - [Diana Cafe](https://maps.app.goo.gl/Di89nWanMmpvnTct8) - excellent location and reasonably priced breakfasts - the roast beef breakfast with
   eggs looks good here for 215 UAH (€4.50).
   They don't have fresh squeezed juices unfortunately.
-  The wifi is open with no password (Fest Client) 2.5/2 Mbit/s
+  Wifi is open with no password (Fest Client) 2.5/2 Mbit/s
 - [Svit Kavy (Rynok Sq.)](https://maps.app.goo.gl/y6Vy9JTTJh7bst4K8) - 4.5 chain of two with slightly different menus -
   fresh juices, eggs breakfasts, good selection of teas as well as coffees, pancakes, sandwiches.
   Try the veal half sandwich on rye bread only available at this one
