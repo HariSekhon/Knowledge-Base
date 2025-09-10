@@ -5652,6 +5652,7 @@ local bank or cash payment.
 
 TODO:
 
+- [Diana Cafe](https://maps.app.goo.gl/Di89nWanMmpvnTct8) - reasonably priced breakfasts
 - [Svit Kavy (Rynok Sq.)](https://maps.app.goo.gl/y6Vy9JTTJh7bst4K8) - 4.5 chain of two with slightly different menus -
   fresh juices, eggs breakfasts, good selection of teas as well as coffees, pancakes, sandwiches.
   Try the veal half sandwich on rye bread only available at this one
