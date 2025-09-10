@@ -5658,6 +5658,7 @@ TODO:
   Also try the borsch with veal and a bacon sandwich.
   They also have fresh juices
 - [Ресторація Боїмів](https://maps.app.goo.gl/kWzJw6gMhpfnccHz8) - 4.8 but pricier and doesn't open until 12pm
+- [Cent Aura](https://maps.app.goo.gl/zRcYJujYw3w7W8HM7) - 4.6 but no english menu online
 
 ### United Kingdom
 
