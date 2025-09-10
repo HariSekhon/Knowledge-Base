@@ -5654,6 +5654,7 @@ TODO:
   also try the beef stew with mash for 325 (€7).
   Also try the borsch with veal and a bacon sandwich.
   They also have fresh juices
+- [Ресторація Боїмів](https://maps.app.goo.gl/kWzJw6gMhpfnccHz8) - 4.8 but pricier and doesn't open until 12pm
 
 ### United Kingdom
 
