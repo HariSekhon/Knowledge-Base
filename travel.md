@@ -5650,6 +5650,8 @@ local bank or cash payment.
 
 TODO:
 
+- [Svit Kavy (Rynok Sq.)](https://maps.app.goo.gl/y6Vy9JTTJh7bst4K8) - 4.5 fresh juices, eggs breakfasts, good selection
+  of teas as well as coffees, pancakes, sandwiches. Try the veal half sandwich on rye bread
 - [Friends](https://maps.app.goo.gl/XTb7MacgpbF1xfDq8) - 4.6, sweet breakfasts served until 2pm for 230-285 UAH (€6),
   also try the beef stew with mash for 325 (€7).
   Also try the borsch with veal and a bacon sandwich.
