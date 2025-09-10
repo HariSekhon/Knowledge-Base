@@ -5652,7 +5652,10 @@ local bank or cash payment.
 
 TODO:
 
-- [Diana Cafe](https://maps.app.goo.gl/Di89nWanMmpvnTct8) - reasonably priced breakfasts
+- [Diana Cafe](https://maps.app.goo.gl/Di89nWanMmpvnTct8) - excellent location and reasonably priced breakfasts - the roast beef breakfast with
+  eggs looks good here for 215 UAH (€4.50).
+  They don't have fresh squeezed juices unfortunately.
+  The wifi is open with no password (Fest Client) 2.5/2 Mbit/s
 - [Svit Kavy (Rynok Sq.)](https://maps.app.goo.gl/y6Vy9JTTJh7bst4K8) - 4.5 chain of two with slightly different menus -
   fresh juices, eggs breakfasts, good selection of teas as well as coffees, pancakes, sandwiches.
   Try the veal half sandwich on rye bread only available at this one
@@ -5663,6 +5666,9 @@ TODO:
   also try the beef stew with mash for 325 (€7).
   Also try the borsch with veal and a bacon sandwich.
   They also have fresh juices
+- [Cukor BLACK](https://maps.app.goo.gl/fHGPjmNCp2kxCoxSA) - 4.4
+- [Grand Cafe Leopolis](https://maps.app.goo.gl/NzSwfSRYCQHkRfcm9) - 4.5 upmarket, breakfast until 1pm
+- [Atlas](https://maps.app.goo.gl/Eq9P8ofrSeePXk8S8) - 4.5
 - [Ресторація Боїмів](https://maps.app.goo.gl/kWzJw6gMhpfnccHz8) - 4.8 but pricier and doesn't open until 12pm
 - [Cent Aura](https://maps.app.goo.gl/zRcYJujYw3w7W8HM7) - 4.6 but no english menu online
 
