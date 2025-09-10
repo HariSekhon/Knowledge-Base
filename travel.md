@@ -5650,8 +5650,8 @@ local bank or cash payment.
 
 TODO:
 
-- [Friends](https://maps.app.goo.gl/XTb7MacgpbF1xfDq8) - 4.6, sweet breakfasts served until 2pm for 230-285 UAH (€6), also
-  try the beef stew with mash for 325 (€7).
+- [Friends](https://maps.app.goo.gl/XTb7MacgpbF1xfDq8) - 4.6, sweet breakfasts served until 2pm for 230-285 UAH (€6),
+  also try the beef stew with mash for 325 (€7).
   Also try the borsch with veal and a bacon sandwich.
   They also have fresh juices
 
