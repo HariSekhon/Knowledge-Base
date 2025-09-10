@@ -5650,18 +5650,22 @@ local bank or cash payment.
 
 #### Lviv
 
-TODO:
-
-- [Diana Cafe](https://maps.app.goo.gl/Di89nWanMmpvnTct8) - excellent location and reasonably priced breakfasts - the roast beef breakfast with
-  eggs looks good here for 215 UAH (€4.50).
+- [Diana Cafe](https://maps.app.goo.gl/Di89nWanMmpvnTct8) - excellent location and very reasonably priced breakfasts - the roast beef breakfast with
+  two eggs is good here and very affordable for 215 UAH (€4.50).
   They don't have fresh squeezed juices unfortunately.
   Wifi is open with no password (Fest Client) 2.5/2 Mbit/s
+- [Cukor RED](https://maps.app.goo.gl/XmaNV2fQmJhHth7eA) - the summer breakfast is a bit pricy at 390 UAH
+  (€8) but is very good and well rounded with 2 poached eggs with parmesan, salmon, rye bread, avocado, labneh,
+  edemamae, strawberries and blueberries.
+  They also have a full english breakfast, eggs royale (eggs benedict with salmon) and a version with seared salmon.
+  The wifi connected but didn't work for me
+
+TODO:
+
 - [Svit Kavy (Rynok Sq.)](https://maps.app.goo.gl/y6Vy9JTTJh7bst4K8) - 4.5 chain of two with slightly different menus -
   fresh juices, eggs breakfasts, good selection of teas as well as coffees, pancakes, sandwiches.
   Try the veal half sandwich on rye bread only available at this one
 - [Black Honey](https://maps.app.goo.gl/2dLFumDiKThPLBbC8) - 4.7
-- [Cukor RED](https://maps.app.goo.gl/XmaNV2fQmJhHth7eA) - 4.5 - the summer breakfast looks great, bit pricy at 390 UAH
-  (€8), has English Breakfast, eggs royale (eggs benedict with salmon) and a version with seared salmon
 - [Friends](https://maps.app.goo.gl/XTb7MacgpbF1xfDq8) - 4.6, sweet breakfasts served until 2pm for 230-285 UAH (€6),
   also try the beef stew with mash for 325 (€7).
   Also try the borsch with veal and a bacon sandwich.
