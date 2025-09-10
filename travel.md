@@ -5657,6 +5657,7 @@ local bank or cash payment.
 - [Cukor RED](https://maps.app.goo.gl/XmaNV2fQmJhHth7eA) - the summer breakfast is a bit pricy at 390 UAH
   (€8) but is very good and well rounded with 2 poached eggs with parmesan, salmon, rye bread, avocado, labneh,
   edemamae, strawberries and blueberries.
+  They do have fresh squeezed orange juice, and table water, both served with solid glasses.
   They also have a full english breakfast, eggs royale (eggs benedict with salmon) and a version with seared salmon.
   The wifi connected but didn't work for me
 
