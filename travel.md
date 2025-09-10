@@ -5656,7 +5656,8 @@ TODO:
   fresh juices, eggs breakfasts, good selection of teas as well as coffees, pancakes, sandwiches.
   Try the veal half sandwich on rye bread only available at this one
 - [Black Honey](https://maps.app.goo.gl/2dLFumDiKThPLBbC8) - 4.7
-- [Cukor RED](https://maps.app.goo.gl/XmaNV2fQmJhHth7eA) - 4.5
+- [Cukor RED](https://maps.app.goo.gl/XmaNV2fQmJhHth7eA) - 4.5 - the summer breakfast looks great, bit pricy at 390 UAH
+  (€8), has English Breakfast, eggs royale (eggs benedict with salmon) and a version with seared salmon
 - [Friends](https://maps.app.goo.gl/XTb7MacgpbF1xfDq8) - 4.6, sweet breakfasts served until 2pm for 230-285 UAH (€6),
   also try the beef stew with mash for 325 (€7).
   Also try the borsch with veal and a bacon sandwich.
