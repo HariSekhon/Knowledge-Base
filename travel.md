@@ -5644,6 +5644,17 @@ local bank or cash payment.
   - much more hassle, not like HSBC back in the UK, most UK banks just open accounts easily
   - even already having an HSBC UK account didn't help me
 
+### Ukraine
+
+#### Lviv
+
+TODO:
+
+- [Friends](https://maps.app.goo.gl/XTb7MacgpbF1xfDq8) - sweet breakfasts served until 2pm for 230-285 UAH (€6), also
+  try the beef stew with mash for 325 (€7).
+  Also try the borsch with veal and a bacon sandwich.
+  They also have fresh juices
+
 ### United Kingdom
 
 See [The UK Decline - What I Learnt on UK Tour 2024](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b) article for a tour of pictures of why you will not want to
