@@ -5667,7 +5667,7 @@ local bank or cash payment.
   is not properly translated with many parts stuck in Ukrainian, not English,
   and even the picture vs description was clearly wrong on one item which appears as a lamb shank but described as a
   pasta dish.
-  Wifi 88/91 Mbit/s
+  Wifi is open with no password (Biblioteka Guest) 88/91 Mbit/s
 - [Cukor RED](https://maps.app.goo.gl/XmaNV2fQmJhHth7eA) - the summer breakfast is a bit pricy at 390 UAH
   (€8) but is very good and well rounded with 2 poached eggs with parmesan, salmon, rye bread, avocado, labneh,
   edemamae, strawberries and blueberries.
