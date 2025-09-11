@@ -5648,7 +5648,11 @@ local bank or cash payment.
 
 ### Ukraine
 
+<!-- Dream Hostel Kiev is cheap and central -->
+
 #### Lviv
+
+<!-- Dream Hostel Lviv was both good and cheap -->
 
 - [Diana Cafe](https://maps.app.goo.gl/Di89nWanMmpvnTct8) - excellent location and very reasonably priced breakfasts -
   the roast beef breakfast with two eggs is good here and very affordable for 215 UAH (€4.50).
