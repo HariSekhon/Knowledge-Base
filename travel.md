@@ -5662,7 +5662,8 @@ local bank or cash payment.
   right, al dente.
   The pork steak with mash was amazing, a fine dining experience with burgundy sauce, a moat of fine mash and
   caramelized onions on top of the pork steak.
-  Unfortunately it's priced at 399uah plus 100uah per 100g, so roughly 550-600uah.
+  Unfortunately it's priced at 399uah plus 100uah per 100g,
+  so you won't know exactly how much it costs until you get your bill, but roughly 550-600uah.
   The menu is also entirely only (QR codes on the tables), and bill can be paid online the same way, but the online menu
   is not properly translated with many parts stuck in Ukrainian, not English,
   and even the picture vs description was clearly wrong on one item which appears as a lamb shank but described as a
