@@ -5654,10 +5654,13 @@ local bank or cash payment.
   two eggs is good here and very affordable for 215 UAH (€4.50).
   They don't have fresh squeezed juices unfortunately.
   Wifi is open with no password (Fest Client) 2.5/2 Mbit/s
-- [Biblioteka](https://maps.app.goo.gl/bnf72TzEnUN5Fxp4A) - upmarket restaurant with lovely interior but tourist prices.
+- [Biblioteka](https://maps.app.goo.gl/bnf72TzEnUN5Fxp4A) - upmarket (expensive) restaurant with lovely interior but
+  tourist prices.
   The guacamole starter with lime, focaccia and smoked paprika was tasty but a bit small for my liking.
-  The beef soup was very good - it contains bavette (a specific cut of beef) slices, veal broth, garlic, ginger,
-  chilli pepper, cherry tomatoes, pickled red onion and linguine cooked just right, al dente.
+  The beef soup was very good but then it should be for 375uah (nearly €8) - it contains bavette (a specific cut of
+  beef) slices, veal broth, garlic, ginger, chilli pepper, cherry tomatoes, pickled red onion and linguine cooked just
+  right, al dente.
+  The pork steak with mash is priced at 399uah per 100g, which means you'll rack up an unknown bill.
 - [Cukor RED](https://maps.app.goo.gl/XmaNV2fQmJhHth7eA) - the summer breakfast is a bit pricy at 390 UAH
   (€8) but is very good and well rounded with 2 poached eggs with parmesan, salmon, rye bread, avocado, labneh,
   edemamae, strawberries and blueberries.
