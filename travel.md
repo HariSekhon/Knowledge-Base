@@ -5650,8 +5650,8 @@ local bank or cash payment.
 
 #### Lviv
 
-- [Diana Cafe](https://maps.app.goo.gl/Di89nWanMmpvnTct8) - excellent location and very reasonably priced breakfasts - the roast beef breakfast with
-  two eggs is good here and very affordable for 215 UAH (€4.50).
+- [Diana Cafe](https://maps.app.goo.gl/Di89nWanMmpvnTct8) - excellent location and very reasonably priced breakfasts -
+  the roast beef breakfast with two eggs is good here and very affordable for 215 UAH (€4.50).
   They don't have fresh squeezed juices unfortunately.
   Wifi is open with no password (Fest Client) 2.5/2 Mbit/s
 - [Biblioteka](https://maps.app.goo.gl/bnf72TzEnUN5Fxp4A) - upmarket (expensive) restaurant with lovely interior but
