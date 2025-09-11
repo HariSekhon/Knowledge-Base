@@ -5654,8 +5654,8 @@ local bank or cash payment.
   the roast beef breakfast with two eggs is good here and very affordable for 215 UAH (€4.50).
   They don't have fresh squeezed juices unfortunately.
   Wifi is open with no password (Fest Client) 2.5/2 Mbit/s
-- [Biblioteka](https://maps.app.goo.gl/bnf72TzEnUN5Fxp4A) - upmarket (expensive) restaurant with lovely interior but
-  tourist prices.
+- [Biblioteka](https://maps.app.goo.gl/bnf72TzEnUN5Fxp4A) - upmarket (expensive) restaurant with lovely interior and
+  very good food but tourist prices. I blew €25 on lunch here, which for Ukraine is quite expensive.
   The guacamole starter with lime, focaccia and smoked paprika was tasty but a bit small for my liking.
   The beef soup was very good but then it should be for 375uah (nearly €8) - it contains bavette (a specific cut of
   beef) slices, veal broth, garlic, ginger, chilli pepper, cherry tomatoes, pickled red onion and linguine cooked just
@@ -5663,7 +5663,6 @@ local bank or cash payment.
   The pork steak with mash was amazing, a fine dining experience with burgundy sauce, a moat of fine mash and
   caramelized onions on top of the pork steak.
   Unfortunately it's priced at 399uah plus 100uah per 100g, so roughly 550-600uah.
-  I blew €25 on lunch here, which for Ukraine is quite expensive.
   The menu is also entirely only (QR codes on the tables), and bill can be paid online the same way, but the online menu
   is not properly translated with many parts stuck in Ukrainian, not English,
   and even the picture vs description was clearly wrong on one item which appears as a lamb shank but described as a
