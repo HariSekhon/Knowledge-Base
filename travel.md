@@ -5662,7 +5662,8 @@ local bank or cash payment.
   right, al dente.
   The pork steak with mash was amazing, a fine dining experience with burgundy sauce, a moat of fine mash and
   caramelized onions on top of the pork steak.
-  Unfortunately it's priced at 399uah per 100g, which means you'll rack up an unknown bill for it roughly 600uah+.
+  Unfortunately it's priced at 399uah plus 100uah per 100g, so roughly 550-600uah.
+  I blew €25 on lunch here, which for Ukraine is quite expensive.
   Wifi 88/91 Mbit/s
 - [Cukor RED](https://maps.app.goo.gl/XmaNV2fQmJhHth7eA) - the summer breakfast is a bit pricy at 390 UAH
   (€8) but is very good and well rounded with 2 poached eggs with parmesan, salmon, rye bread, avocado, labneh,
