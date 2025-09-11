@@ -5664,6 +5664,10 @@ local bank or cash payment.
   caramelized onions on top of the pork steak.
   Unfortunately it's priced at 399uah plus 100uah per 100g, so roughly 550-600uah.
   I blew €25 on lunch here, which for Ukraine is quite expensive.
+  The menu is also entirely only (QR codes on the tables), and bill can be paid online the same way, but the online menu
+  is not properly translated with many parts stuck in Ukrainian, not English,
+  and even the picture vs description was clearly wrong on one item which appears as a lamb shank but described as a
+  pasta dish.
   Wifi 88/91 Mbit/s
 - [Cukor RED](https://maps.app.goo.gl/XmaNV2fQmJhHth7eA) - the summer breakfast is a bit pricy at 390 UAH
   (€8) but is very good and well rounded with 2 poached eggs with parmesan, salmon, rye bread, avocado, labneh,
