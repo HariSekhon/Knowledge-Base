@@ -5660,7 +5660,9 @@ local bank or cash payment.
   The beef soup was very good but then it should be for 375uah (nearly €8) - it contains bavette (a specific cut of
   beef) slices, veal broth, garlic, ginger, chilli pepper, cherry tomatoes, pickled red onion and linguine cooked just
   right, al dente.
-  The pork steak with mash is priced at 399uah per 100g, which means you'll rack up an unknown bill.
+  The pork steak with mash was however, amazing, a fine dining experience with burgundy sauce, a moat of fine mash and caramelized onions on
+  top of the pork steak.
+  Unfortunately it's priced at 399uah per 100g, which means you'll rack up an unknown bill for it roughly 600uah+.
 - [Cukor RED](https://maps.app.goo.gl/XmaNV2fQmJhHth7eA) - the summer breakfast is a bit pricy at 390 UAH
   (€8) but is very good and well rounded with 2 poached eggs with parmesan, salmon, rye bread, avocado, labneh,
   edemamae, strawberries and blueberries.
