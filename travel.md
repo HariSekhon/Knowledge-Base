@@ -5658,6 +5658,15 @@ local bank or cash payment.
   the roast beef breakfast with two eggs is good here and very affordable for 215 UAH (€4.50).
   They don't have fresh squeezed juices unfortunately.
   Wifi is open with no password (Fest Client) 2.5/2 Mbit/s
+- [Friends / Druzi Cafe](https://maps.app.goo.gl/XTb7MacgpbF1xfDq8) - gentrified cafe with good food menu, tables,
+  plugs, couches, and large garden terrace, Breakfast until 2pm, sweet breakfasts for
+  230-285 UAH (€6),
+  Try the hashbrown with roast beef and horseradish cream sauce for 305uah for breakfast or later in the day
+  Try the Borscht with torn veal for 175 + 65uah (€5).
+  Also try the beef stew with mash for 325 (€7).
+  They also have fresh orange / grapefruit juices in both 200ml for 145 (€3) or double size not on the menu for 400ml
+  sizes (€6).
+  Wifi 70/79 Mbit/s
 - [Biblioteka](https://maps.app.goo.gl/bnf72TzEnUN5Fxp4A) - upmarket (expensive) restaurant with lovely interior and
   very good food but tourist prices. I blew €25 on lunch here, which for Ukraine is quite expensive.
   The guacamole starter with lime, focaccia and smoked paprika was tasty but a bit small for my liking.
@@ -5684,13 +5693,8 @@ TODO:
 
 - [Svit Kavy (Rynok Sq.)](https://maps.app.goo.gl/y6Vy9JTTJh7bst4K8) - 4.5 chain of two with slightly different menus -
   fresh juices, eggs breakfasts, good selection of teas as well as coffees, pancakes, sandwiches.
-  Try the veal half sandwich on rye bread only available at this one
+  Try the veal half sandwich on rye bread only available at this one, it's only 200uah
 - [Black Honey](https://maps.app.goo.gl/2dLFumDiKThPLBbC8) - 4.7
-- [Friends](https://maps.app.goo.gl/XTb7MacgpbF1xfDq8) - 4.6, sweet breakfasts served until 2pm for 230-285 UAH (€6),
-  try the hashbrown with roast beef and horseradish cream sauce for 305uah for breakfast or later in the day
-  try the Borscht with torn veal and bacon sandwich,
-  also try the beef stew with mash for 325 (€7).
-  They also have fresh juices
 - [Cukor BLACK](https://maps.app.goo.gl/fHGPjmNCp2kxCoxSA) - 4.4
 - [Grand Cafe Leopolis](https://maps.app.goo.gl/NzSwfSRYCQHkRfcm9) - 4.5 upmarket, breakfast until 1pm
 - [Atlas](https://maps.app.goo.gl/Eq9P8ofrSeePXk8S8) - 4.5
