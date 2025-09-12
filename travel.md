@@ -5671,6 +5671,9 @@ local bank or cash payment.
   They also have fresh orange / grapefruit juices in both 200ml for 145 (€3) or double size not on the menu for 400ml
   sizes (€6).
   Wifi 70/79 Mbit/s
+- [Holy Moly](https://maps.app.goo.gl/oV6hSoVXvk3NcWSh9) - trendy hipster bar restaurant with good selection of burgers
+  but at tourist prices eg 400uah (€8+), which is very expensive by local standards
+  Wifi 24/25 Mbit/s
 - [Biblioteka](https://maps.app.goo.gl/bnf72TzEnUN5Fxp4A) - upmarket (expensive) restaurant with lovely interior and
   very good food but tourist prices. I blew €25 on lunch here, which for Ukraine is quite expensive.
   The guacamole starter with lime, focaccia and smoked paprika was tasty but a bit small for my liking.
