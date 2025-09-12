@@ -5687,8 +5687,9 @@ TODO:
   Try the veal half sandwich on rye bread only available at this one
 - [Black Honey](https://maps.app.goo.gl/2dLFumDiKThPLBbC8) - 4.7
 - [Friends](https://maps.app.goo.gl/XTb7MacgpbF1xfDq8) - 4.6, sweet breakfasts served until 2pm for 230-285 UAH (€6),
+  try the hashbrown with roast beef and horseradish cream sauce for 305uah for breakfast or later in the day
+  try the Borscht with torn veal and bacon sandwich,
   also try the beef stew with mash for 325 (€7).
-  Also try the borsch with veal and a bacon sandwich.
   They also have fresh juices
 - [Cukor BLACK](https://maps.app.goo.gl/fHGPjmNCp2kxCoxSA) - 4.4
 - [Grand Cafe Leopolis](https://maps.app.goo.gl/NzSwfSRYCQHkRfcm9) - 4.5 upmarket, breakfast until 1pm
