@@ -5662,7 +5662,7 @@ local bank or cash payment.
   plugs, couches, and large garden terrace, Breakfast until 2pm, sweet breakfasts for
   230-285 UAH (€6),
   Try the hashbrown with roast beef and horseradish cream sauce for 305uah for breakfast or later in the day
-  Try the Borscht with torn veal for 175 + 65uah (€5).
+  try the Borscht with torn veal for 175 + 65uah (€5).
   Also try the beef stew with mash for 325 (€7).
   They also have fresh orange / grapefruit juices in both 200ml for 145 (€3) or double size not on the menu for 400ml
   sizes (€6).
