@@ -5661,8 +5661,12 @@ local bank or cash payment.
 - [Friends / Druzi Cafe](https://maps.app.goo.gl/XTb7MacgpbF1xfDq8) - gentrified cafe with good food menu, tables,
   plugs, couches, and large garden terrace, Breakfast until 2pm, sweet breakfasts for
   230-285 UAH (€6),
+  The Borscht with torn veal for 175 + 65uah (€5) was surprisingly good, and comes with strong rye bread and sour cream
+  which enhance and contrasts flavours very well.
+  It is not a "bacon sandwich"
+  as the menu describes as a westerner would understand but more like 2 pieces of triple stacked rye bread with a thin
+  layer of bacon fat in between them - it works very, very well.
   Try the hashbrown with roast beef and horseradish cream sauce for 305uah for breakfast or later in the day
-  try the Borscht with torn veal for 175 + 65uah (€5).
   Also try the beef stew with mash for 325 (€7).
   They also have fresh orange / grapefruit juices in both 200ml for 145 (€3) or double size not on the menu for 400ml
   sizes (€6).
