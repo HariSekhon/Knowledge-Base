@@ -5737,6 +5737,7 @@ Dream Hostel Lviv was both good and cheap.
   The beef tenderloin with carrot & citrus puree was very good in both quality and flavour, not a large portion, but
   fine dining, which leaves space for dessert!
   The chocolate walnut cake with cherry compote and vanilla ice cream was so good I'd go back for that alone.
+  The kitchen closes at 22:30.
   Wifi 4/1 Mbit/s even in the rear terrace.
 - [Cukor RED](https://maps.app.goo.gl/XmaNV2fQmJhHth7eA) - the summer breakfast is a bit pricy at 390 UAH
   (€8) but is very good and well rounded with 2 poached eggs with parmesan, salmon, rye bread, avocado, labneh,
