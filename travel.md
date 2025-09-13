@@ -5740,6 +5740,8 @@ Dream Hostel Lviv was both good and cheap.
 
 TODO:
 
+- [Lviv Croissants](https://www.google.com/maps/search/Lviv+Croissants/) - cheap and good quality according to another
+  traveller
 - [Black Honey](https://maps.app.goo.gl/2dLFumDiKThPLBbC8) - 4.7
 - [Cukor BLACK](https://maps.app.goo.gl/fHGPjmNCp2kxCoxSA) - 4.4
 - [Grand Cafe Leopolis](https://maps.app.goo.gl/NzSwfSRYCQHkRfcm9) - 4.5 upmarket, breakfast until 1pm
