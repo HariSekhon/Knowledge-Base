@@ -308,6 +308,7 @@ Updated regularly as I travel the world 52 weeks a year.
       - [Visas for Dubai](#visas-for-dubai)
       - [Banking in Dubai](#banking-in-dubai)
   - [Ukraine](#ukraine)
+    - [Ukraine Taxis](#ukraine-taxis)
     - [Lviv](#lviv)
   - [United Kingdom](#united-kingdom)
     - [Best Areas in the UK](#best-areas-in-the-uk)
@@ -5647,6 +5648,12 @@ local bank or cash payment.
   - even already having an HSBC UK account didn't help me
 
 ### Ukraine
+
+#### Ukraine Taxis
+
+- [OnTaxi](https://ontaxi.com.ua/en)
+- [Uklon](https://uklon.com.ua/en/)
+- [Bolt](https://bolt.eu/en-ua/)
 
 <!-- Dream Hostel Kiev is cheap and central -->
 
