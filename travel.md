@@ -5668,7 +5668,13 @@ Use the official Ukrainian government railways bookings website:
 
 #### Lviv
 
-<!-- Dream Hostel Lviv was both good and cheap -->
+<!--
+
+Dream Hostel Lviv was both good and cheap.
+
+- [Split Club](https://maps.app.goo.gl/375a7uwbJ4tG5fVGA) - expensive restaurant with an excellent strip club above it, even better than Club Number 1 in Warsaw
+
+-->
 
 - [Diana Cafe](https://maps.app.goo.gl/Di89nWanMmpvnTct8) - excellent location and very reasonably priced breakfasts -
   the roast beef breakfast with two eggs is good here and very affordable for 215 UAH (€4.50).
