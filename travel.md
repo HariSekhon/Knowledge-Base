@@ -5672,7 +5672,8 @@ Use the official Ukrainian government railways bookings website:
 
 Dream Hostel Lviv was both good and cheap.
 
-- [Split Club](https://maps.app.goo.gl/375a7uwbJ4tG5fVGA) - expensive restaurant with an excellent strip club above it, even better than Club Number 1 in Warsaw
+- [Split Club](https://maps.app.goo.gl/375a7uwbJ4tG5fVGA) - expensive restaurant with an excellent strip club above it,
+  even better than Club Number 1 in Warsaw, thanks to a local Brit expat Mike for taking us there
 
 -->
 
