@@ -5673,6 +5673,8 @@ local bank or cash payment.
   Wifi 70/79 Mbit/s
 - [Holy Moly](https://maps.app.goo.gl/oV6hSoVXvk3NcWSh9) - trendy hipster bar restaurant with good selection of burgers
   but at tourist prices eg 400uah (€8+), which is expensive by local standards.
+  The "Moly Never Cry" burger was very good with crispy onion rings, bacon and all the usual salad.
+  They also have fresh squeezed orange / grapefruit / lemon juice for 140 uah (€3).
   Wifi 24/25 Mbit/s
 - [Biblioteka](https://maps.app.goo.gl/bnf72TzEnUN5Fxp4A) - upmarket (expensive) restaurant with lovely interior and
   very good food but tourist prices. I blew €25 on lunch here, which for Ukraine is quite expensive.
