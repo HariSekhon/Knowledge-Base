@@ -5707,8 +5707,9 @@ Dream Hostel Lviv was both good and cheap.
   Wifi 70/79 Mbit/s
 - [Svit Kavy (Rynok Sq.)](https://maps.app.goo.gl/y6Vy9JTTJh7bst4K8) - chain of two with slightly different menus -
   fresh juices, eggs breakfasts, good selection of teas as well as coffees, pancakes, sandwiches.
-  Try the veal half sandwich on rye bread only available at this one,
-  it's only 200uah and despite being under the "snacks" section on the menu is a fairly substantial smaller meal.
+  The veal half sandwich on rye bread is only available at this one,
+  for only 200uah it's a good deal and despite being under the "snacks" section on the menu it's a fairly substantial
+  smaller meal.
   Wifi is open without a password, Svit Kavy network, but slow 0.9/0.4 Mbit/s
 - [Holy Moly](https://maps.app.goo.gl/oV6hSoVXvk3NcWSh9) - trendy hipster bar restaurant with good selection of burgers
   but at tourist prices eg 400uah (€8+), which is expensive by local standards.
