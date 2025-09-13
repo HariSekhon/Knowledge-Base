@@ -5676,17 +5676,21 @@ Use the official Ukrainian government railways bookings website:
   Wifi is open with no password (Fest Client) 2.5/2 Mbit/s
 - [Friends / Druzi Cafe](https://maps.app.goo.gl/XTb7MacgpbF1xfDq8) - gentrified cafe with good food menu, tables,
   plugs, couches, and large garden terrace, Breakfast until 2pm, sweet breakfasts for
-  230-285 UAH (€6),
+  230-285 UAH (€6).
   The Borscht with torn veal for 175 + 65uah (€5) was surprisingly good, and comes with strong rye bread and sour cream
   which enhance and contrasts flavours very well.
-  It is not a "bacon sandwich"
-  as the menu describes as a westerner would understand but more like 2 pieces of triple stacked rye bread with a thin
-  layer of bacon fat in between them - it works very, very well.
+  It is not a "bacon sandwich" as the menu describes as a westerner would understand that but more like 3 pieces of
+  triple stacked rye bread with a thin layer of bacon fat in between them - it works very, very well.
   Try the hashbrown with roast beef and horseradish cream sauce for 305uah for breakfast or later in the day
   Also try the beef stew with mash for 325 (€7).
   They also have fresh orange / grapefruit juices in both 200ml for 145 (€3) or double size not on the menu for 400ml
   sizes (€6).
   Wifi 70/79 Mbit/s
+- [Svit Kavy (Rynok Sq.)](https://maps.app.goo.gl/y6Vy9JTTJh7bst4K8) - chain of two with slightly different menus -
+  fresh juices, eggs breakfasts, good selection of teas as well as coffees, pancakes, sandwiches.
+  Try the veal half sandwich on rye bread only available at this one,
+  it's only 200uah and despite being under the "snacks" section on the menu is a fairly substantial smaller meal.
+  Wifi is open without a password, Svit Kavy network, but slow 0.9/0.4 Mbit/s
 - [Holy Moly](https://maps.app.goo.gl/oV6hSoVXvk3NcWSh9) - trendy hipster bar restaurant with good selection of burgers
   but at tourist prices eg 400uah (€8+), which is expensive by local standards.
   The "Moly Never Cry" burger was very good with crispy onion rings, bacon and all the usual salad.
@@ -5716,9 +5720,6 @@ Use the official Ukrainian government railways bookings website:
 
 TODO:
 
-- [Svit Kavy (Rynok Sq.)](https://maps.app.goo.gl/y6Vy9JTTJh7bst4K8) - 4.5 chain of two with slightly different menus -
-  fresh juices, eggs breakfasts, good selection of teas as well as coffees, pancakes, sandwiches.
-  Try the veal half sandwich on rye bread only available at this one, it's only 200uah
 - [Black Honey](https://maps.app.goo.gl/2dLFumDiKThPLBbC8) - 4.7
 - [Cukor BLACK](https://maps.app.goo.gl/fHGPjmNCp2kxCoxSA) - 4.4
 - [Grand Cafe Leopolis](https://maps.app.goo.gl/NzSwfSRYCQHkRfcm9) - 4.5 upmarket, breakfast until 1pm
