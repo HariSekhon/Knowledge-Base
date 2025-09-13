@@ -5731,6 +5731,13 @@ Dream Hostel Lviv was both good and cheap.
   and even the picture vs description was clearly wrong on one item which appears as a lamb shank but described as a
   pasta dish.
   Wifi is fast and open with no password (Biblioteka Guest) 88/91 Mbit/s
+- [Medivnya 1979 - Restoran Ukrayinsʹkoyi Kukhni](https://maps.app.goo.gl/R3o4Jpqfxe9MFH4p6) - good quality restaurant
+  with good menu and good seating - has a small outdoor row of tables to people watch the main street, good interior
+  seating and a large rear terrace.
+  The beef tenderloin with carrot & citrus puree was very good in both quality and flavour, not a large portion, but
+  fine dining, which leaves space for dessert!
+  The chocolate walnut cake with cherry compote and vanilla ice cream was so good I'd go back for that alone.
+  Wifi 4/1 Mbit/s even in the rear terrace.
 - [Cukor RED](https://maps.app.goo.gl/XmaNV2fQmJhHth7eA) - the summer breakfast is a bit pricy at 390 UAH
   (€8) but is very good and well rounded with 2 poached eggs with parmesan, salmon, rye bread, avocado, labneh,
   edemamae, strawberries and blueberries.
@@ -5742,10 +5749,10 @@ TODO:
 
 - [Lviv Croissants](https://www.google.com/maps/search/Lviv+Croissants/) - cheap and good quality according to another
   traveller
+- [Atlas](https://maps.app.goo.gl/Eq9P8ofrSeePXk8S8)
 - [Black Honey](https://maps.app.goo.gl/2dLFumDiKThPLBbC8) - 4.7
 - [Cukor BLACK](https://maps.app.goo.gl/fHGPjmNCp2kxCoxSA) - 4.4
 - [Grand Cafe Leopolis](https://maps.app.goo.gl/NzSwfSRYCQHkRfcm9) - 4.5 upmarket, breakfast until 1pm
-- [Atlas](https://maps.app.goo.gl/Eq9P8ofrSeePXk8S8) - 4.5
 - [Ресторація Боїмів](https://maps.app.goo.gl/kWzJw6gMhpfnccHz8) - 4.8 but pricier and doesn't open until 12pm
 - [Cent Aura](https://maps.app.goo.gl/zRcYJujYw3w7W8HM7) - 4.6 but no english menu online
 
