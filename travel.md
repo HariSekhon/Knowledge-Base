@@ -309,6 +309,7 @@ Updated regularly as I travel the world 52 weeks a year.
       - [Banking in Dubai](#banking-in-dubai)
   - [Ukraine](#ukraine)
     - [Taxis in Ukraine](#taxis-in-ukraine)
+    - [Trains in Ukraine](#trains-in-ukraine)
     - [Lviv](#lviv)
   - [United Kingdom](#united-kingdom)
     - [Best Areas in the UK](#best-areas-in-the-uk)
@@ -5656,6 +5657,14 @@ local bank or cash payment.
 - [Bolt](https://bolt.eu/en-ua/)
 
 <!-- Dream Hostel Kiev is cheap and central -->
+
+#### Trains in Ukraine
+
+Make sure to book your rail tickets in advance before travelling between cities as they sell out.
+
+Use the official Ukrainian government railways bookings website:
+
+<https://booking.uz.gov.ua/>
 
 #### Lviv
 
