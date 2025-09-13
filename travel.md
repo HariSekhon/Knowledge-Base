@@ -5700,8 +5700,8 @@ Dream Hostel Lviv was both good and cheap.
   which enhance and contrasts flavours very well.
   It is not a "bacon sandwich" as the menu describes as a westerner would understand that but more like 3 pieces of
   triple stacked rye bread with a thin layer of bacon fat in between them - it works very, very well.
-  Try the hashbrown with roast beef and horseradish cream sauce for 305uah for breakfast or later in the day
-  Also try the beef stew with mash for 325 (€7).
+  TODO: try the hashbrown with roast beef and horseradish cream sauce for 305uah for breakfast or later in the day
+  try the beef stew with mash for 325 (€7).
   They also have fresh orange / grapefruit juices in both 200ml for 145 (€3) or double size not on the menu for 400ml
   sizes (€6).
   Wifi 70/79 Mbit/s
