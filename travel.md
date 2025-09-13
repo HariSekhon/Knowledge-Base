@@ -308,7 +308,7 @@ Updated regularly as I travel the world 52 weeks a year.
       - [Visas for Dubai](#visas-for-dubai)
       - [Banking in Dubai](#banking-in-dubai)
   - [Ukraine](#ukraine)
-    - [Ukraine Taxis](#ukraine-taxis)
+    - [Taxis in Ukraine](#taxis-in-ukraine)
     - [Lviv](#lviv)
   - [United Kingdom](#united-kingdom)
     - [Best Areas in the UK](#best-areas-in-the-uk)
@@ -5649,7 +5649,7 @@ local bank or cash payment.
 
 ### Ukraine
 
-#### Ukraine Taxis
+#### Taxis in Ukraine
 
 - [OnTaxi](https://ontaxi.com.ua/en)
 - [Uklon](https://uklon.com.ua/en/)
