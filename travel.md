@@ -4128,6 +4128,13 @@ Parking is free in the centre from 8pm, which is convenient for dinner.
 
 ##### Restaurants in Warsaw
 
+<!--
+
+- [The Club №1 Strip and Bar](https://maps.app.goo.gl/YsN3ywgauWmqdJBn8) - expensive entry €20 but the best strip club
+  in Warsaw
+
+-->
+
 - [ČESKÁ beer restaurant](https://maps.app.goo.gl/h8kMmcnCpri5R1bv6) - czech restaurant, chain of two, the other being
   my favourite in Wroclaw. Get the classic traditional cesnecka garlic soup, and goulash.
   Good sized 350ml fresh orange juice for 19 pln (€4.50).
