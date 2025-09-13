@@ -5368,22 +5368,27 @@ at boarding time.
   are the most banging in Pattaya - I would never have believed it until I saw it as it's not like that in the West
 - [Boss Club](https://maps.app.goo.gl/sDiQN6mWpbbXGHNA6) - big nightclub, also Indian, 3rd best
 - [Club Panda](https://maps.app.goo.gl/ogcBAHKm9YD9Ls9p9) - Chinese entry only, how racist!!
+- [Soi Buakhao](https://maps.app.goo.gl/GDp3R8eC25YDQLkSA) - the main bar strip in Tree Town -
+  you will get catcalled by Thai women from the afternoon onwards.
+  The worst thing about this area is it's full of rough old English yobs.
+  If one's only experience of English people was from here...
+  then I'd expect Thais to hate the English
+- [Albatross Coffee Roasters](https://maps.app.goo.gl/N5VNi8xLPhnqKbC49) - overpriced coffee shop with wifi
+- [Central Pattaya Mall](https://maps.app.goo.gl/mQx2jiWgY63xAUvL6) - mall with wifi
+- [Terminal 21](https://maps.app.goo.gl/5QMTom5qbRvA1zpA8) - good mall with a good street food market outside
+
+<!--
+
 - [XS A GoGo](https://maps.app.goo.gl/ftw8HELZuDDk6vWGA) - the best GoGo bar in Walking Street IMO, 3 podiums, busy,
   only negative is staff are pushy about ordering more drinks after 30-45 mins because it's busy
 - [Baccara A Go Go](https://maps.app.goo.gl/Tr49bG1AN3ZXeQVq9) - the other best GoGo bar in Pattaya,
   more subtle if you're in to the good girl / school girl look
 - [Pattaya Soi 6](https://maps.app.goo.gl/1xqhb4ctpBaqTm9e6) - the best bar road in Pattaya, women will literally try
   to pull you into bars - best place to go before Soi L K Metro or Walking Street later in the evening
-- [Soi Pattaya 7](https://maps.app.goo.gl/BvehRDwrnrTz812P6)
-- [Soi Buakhao](https://maps.app.goo.gl/GDp3R8eC25YDQLkSA) - the main bar strip in Tree Town -
-  you will get catcalled by Thai women from the afternoon onwards.
-  The worst thing about this area is it's full of rough old English yobs.
-  If one's only experience of English people was from here...
-  then I'd expect Thais to hate the English
 - [Soi L K Metro](https://maps.app.goo.gl/23ecF3E7dQPLU6D29) - L-shaped road of GoGo bars, best time is 9-10pm onwards
-- [Albatross Coffee Roasters](https://maps.app.goo.gl/N5VNi8xLPhnqKbC49) - overpriced coffee shop with wifi
-- [Central Pattaya Mall](https://maps.app.goo.gl/mQx2jiWgY63xAUvL6) - mall with wifi
-- [Terminal 21](https://maps.app.goo.gl/5QMTom5qbRvA1zpA8) - good mall with a good street food market outside
+- [Soi Pattaya 7](https://maps.app.goo.gl/BvehRDwrnrTz812P6)
+
+-->
 
 ### Turkey
 
