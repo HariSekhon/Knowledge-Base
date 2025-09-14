@@ -5678,6 +5678,11 @@ Use the official Ukrainian government railways bookings website:
 
 <https://booking.uz.gov.ua/>
 
+The trains are old Soviet night trains
+which means cabins of 4 small bunks so when you see upper and lower on the booking website, choose lower,
+it is more convenient than having to climb up to the upper bunk
+as the lower bunk is basically the couch & bed whereas the upper bunk is not so convenient.
+
 #### Lviv
 
 <!--
