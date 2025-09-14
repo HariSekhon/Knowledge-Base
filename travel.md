@@ -310,6 +310,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Ukraine](#ukraine)
     - [Taxis in Ukraine](#taxis-in-ukraine)
     - [Trains in Ukraine](#trains-in-ukraine)
+    - [Kiev](#kiev)
     - [Lviv](#lviv)
   - [United Kingdom](#united-kingdom)
     - [Best Areas in the UK](#best-areas-in-the-uk)
@@ -5684,6 +5685,11 @@ basically the couch & bed whereas the upper bunk is not so comfortable without b
 ground.
 
 The small table is also usable for the lower bunks.
+
+#### Kiev
+
+- [This is Пивбар на Подолі / This is PivBar](https://maps.app.goo.gl/Ypb8zh3P8TQXUakq8) - good menu, open a bit later
+  than other places until 11pm, but only burgers and salads available after 10pm
 
 #### Lviv
 
