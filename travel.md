@@ -5669,8 +5669,6 @@ local bank or cash payment.
 - [Uklon](https://uklon.com.ua/en/)
 - [Bolt](https://bolt.eu/en-ua/)
 
-<!-- Dream Hostel Kiev is cheap and central -->
-
 #### Trains in Ukraine
 
 Make sure to book your rail tickets in advance before travelling between cities as they sell out.
@@ -5688,8 +5686,17 @@ The small table is also usable for the lower bunks.
 
 #### Kiev
 
+<!-- Dream Hostel Kiev is cheap and moderately central, but the toilets are not nice as the one in Lviv -->
+
 - [This is Пивбар на Подолі / This is PivBar](https://maps.app.goo.gl/Ypb8zh3P8TQXUakq8) - good menu, open a bit later
-  than other places until 11pm, but only burgers and salads available after 10pm
+  than other places until 11pm, but by 10pm only burgers and salads were available to order.
+  The "big beef" burger was a double stacked burger was very good in both texture, flavour and quality -
+  it has two patties in between a triple bun, with two types of cheddar and bacon jam.
+  This was surprisingly good but it didn't come with fries,
+  and by the time it was delivered and I realized to order fries separately at 22:15, they had closed the kitchen.
+  The waiter wsa not that good in English to inform me of this and ask if I wanted to order a side.
+  The fresh squeezed orange juice was a reasonable size though.
+  Wifi 17/19 Mbit/s
 
 #### Lviv
 
