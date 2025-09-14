@@ -5741,6 +5741,8 @@ Dream Hostel Lviv was both good and cheap.
   for only 200uah it's a good deal and despite being under the "snacks" section on the menu it's a fairly substantial
   smaller meal.
   Wifi is open without a password, Svit Kavy network, but slow 0.9/0.4 Mbit/s
+- [Lviv Croissants](https://www.google.com/maps/search/Lviv+Croissants/) - widespread chain, cheap and good quality
+  large croissants with beef, chicken or other fillings. Also found in Kiev
 - [Holy Moly](https://maps.app.goo.gl/oV6hSoVXvk3NcWSh9) - trendy hipster bar restaurant with good selection of burgers
   but at tourist prices eg 400uah (€8+), which is expensive by local standards.
   The "Moly Never Cry" burger was very good with crispy onion rings, bacon and all the usual salad.
@@ -5778,8 +5780,6 @@ Dream Hostel Lviv was both good and cheap.
 
 TODO:
 
-- [Lviv Croissants](https://www.google.com/maps/search/Lviv+Croissants/) - cheap and good quality according to another
-  traveller
 - [Atlas](https://maps.app.goo.gl/Eq9P8ofrSeePXk8S8)
 - [Black Honey](https://maps.app.goo.gl/2dLFumDiKThPLBbC8) - 4.7
 - [Cukor BLACK](https://maps.app.goo.gl/fHGPjmNCp2kxCoxSA) - 4.4
