@@ -3391,7 +3391,7 @@ You will run out of things to do.
 
 Lithuania is noticeably poorer than Poland.
 
-There is a common Georgian restaurant chain which is well worth a visit for their traditional soup.
+There is a common Georgian restaurant chain called Chačapuri which is well worth a visit for their traditional soup.
 
 #### Vilnius
 
