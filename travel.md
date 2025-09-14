@@ -5674,7 +5674,7 @@ local bank or cash payment.
 
 Bus have credit card touch devices.
 
-In Kiev it was easier, just touch card for 8uah (£0.14).
+In Kiev it was easier, just touch card which charged it 8uah (£0.14).
 
 In Lviv I had to select a couple of touch screen options before touching the card. You can change the menu to English.
 
