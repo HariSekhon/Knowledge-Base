@@ -309,6 +309,7 @@ Updated regularly as I travel the world 52 weeks a year.
       - [Banking in Dubai](#banking-in-dubai)
   - [Ukraine](#ukraine)
     - [Taxis in Ukraine](#taxis-in-ukraine)
+    - [Buses in Ukraine](#buses-in-ukraine)
     - [Trains in Ukraine](#trains-in-ukraine)
     - [Kiev](#kiev)
     - [Lviv](#lviv)
