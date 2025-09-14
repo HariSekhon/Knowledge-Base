@@ -5707,6 +5707,9 @@ The small table is also usable for the lower bunks.
   At 450uah (€9.30), this is also relatively very expensive for Ukraine.
   The fresh squeezed orange juice (195uah / €4) was a reasonable size though, appearing bigger than 250ml.
   Wifi 17/19 Mbit/s
+- [Lviv Croissants](https://www.google.com/maps/search/Lviv+Croissants/) - widespread chain, cheap and good quality
+  large croissants with beef, chicken or other fillings.
+  The name implies it's from Lviv but it's also all over Kiev
 
 #### Lviv
 
