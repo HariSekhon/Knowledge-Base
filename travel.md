@@ -218,6 +218,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Norway](#norway)
     - [Oslo](#oslo)
   - [Poland](#poland)
+    - [Augustów](#augustów)
     - [Bydgoszcz](#bydgoszcz)
     - [Częstochowa](#częstochowa)
     - [Gdansk](#gdansk)
@@ -4037,6 +4038,14 @@ major towns and cities.
 - Large country that takes 6-8 hours to drive across
 - Parking is often cheap or free after 8pm, which is great for going out to get dinner in the centres.
 - Good cheap Metro
+
+#### Augustów
+
+Small border town on the way to Lithuania.
+
+- [Gorący Trójkąt Pizza Augustów](https://maps.app.goo.gl/FxRFLM2NKNrGxLtf7) - highly rated pizza restaurant
+- [Delissa](https://maps.app.goo.gl/Tssmgh6aDC2X5yJN8) - pastry shop
+- [Zygmunt August Market Square](https://maps.app.goo.gl/LJ91uRL6UfbrYPUBA) - the centre of town
 
 #### Bydgoszcz
 
