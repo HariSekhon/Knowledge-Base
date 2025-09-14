@@ -5669,6 +5669,14 @@ local bank or cash payment.
 - [Uklon](https://uklon.com.ua/en/)
 - [Bolt](https://bolt.eu/en-ua/)
 
+#### Buses in Ukraine
+
+Bus have credit card touch devices.
+
+In Kiev it was easier, just touch card for 8uah (£0.14).
+
+In Lviv I had to select a couple of touch screen options before touching the card. You can change the menu to English.
+
 #### Trains in Ukraine
 
 Make sure to book your rail tickets in advance before travelling between cities as they sell out.
