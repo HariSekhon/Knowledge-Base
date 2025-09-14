@@ -5695,7 +5695,8 @@ The small table is also usable for the lower bunks.
   This was surprisingly good but it didn't come with fries,
   and by the time it was delivered and I realized to order fries separately at 22:15, they had closed the kitchen.
   The waiter wsa not that good in English to inform me of this and ask if I wanted to order a side.
-  The fresh squeezed orange juice was a reasonable size though.
+  At 450uah (€9.30), this is also relatively very expensive for Ukraine.
+  The fresh squeezed orange juice (195uah / €4) was a reasonable size though, appearing bigger than 250ml.
   Wifi 17/19 Mbit/s
 
 #### Lviv
