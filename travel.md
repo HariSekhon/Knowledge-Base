@@ -4100,7 +4100,7 @@ Medium sized city, mall and restaurants, but lacks the historical centre attract
 
 #### Nowy Sącz
 
-Nice small centre, good for a coffee stopover.
+Nice small centre, good for a coffee stopover on road trip between Poland and Slovakia.
 
 - [Sofi Len Cafe](https://www.instagram.com/sofilen_kawiarnia)
 
