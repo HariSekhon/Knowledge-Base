@@ -173,6 +173,7 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Debrecen](#debrecen)
     - [Gyor](#gyor)
     - [Szolnok](#szolnok)
+    - [Szeged](#szeged)
   - [Indonesia](#indonesia)
     - [Bali](#bali)
       - [Canguu](#canguu)
@@ -3082,6 +3083,12 @@ Not Recommended:
 
 - [Evezős Csárda](http://www.evezoscsarda.hu/Etlap.cshtml) - despite its 4.5 rating on Google, I was not impressed with the food,
   either starter or main, and would give it a miss next time
+
+#### Szeged
+
+Southern border town, useful as a stopover between Hungary and Serbia.
+
+- [Corso Café](https://maps.app.goo.gl/rfu2FgFp7neLBbdk9)
 
 ### Indonesia
 
