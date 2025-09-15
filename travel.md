@@ -5728,6 +5728,11 @@ The small table is also usable for the lower bunks.
 - [Lviv Croissants](https://www.google.com/maps/search/Lviv+Croissants/) - widespread chain, cheap and good quality
   large croissants with beef, chicken or other fillings.
   The name implies it's from Lviv but it's also all over Kiev
+- [Chacha - Hruzynsʹkyy Restoran](https://maps.app.goo.gl/ooPf4bhwQ95wPjYNA) - decent quality Georgian with the usual
+  dishes like traditional Karcho soup and Khinkali dumplings, although not that cheap (I dropped €16).
+  The Karcho soup was decent but small.
+  The Khinkali assorted 5 dumplings themselves came in a giant Khinkali, that is a lot of pastry.
+  Do not order fresh juices here, they are tiny 200ml, are not on the digital menu and cost 250uah (over €5!)
 
 #### Lviv
 
