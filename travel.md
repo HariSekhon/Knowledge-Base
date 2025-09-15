@@ -10,6 +10,8 @@ Short links to this page:
 
 [bit.ly/hari-travels](https://bit.ly/hari-travels)
 
+Travel Log: <https://nomads.com/@harisekhon>
+
 I've worked on 4 continents and travelled to 40+ countries and 100+ cities.
 
 Whether Consulting internationally or visiting for a holiday, here are some useful tips from my extensive travels.
