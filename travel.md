@@ -151,7 +151,7 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Georgia Flights](#georgia-flights)
     - [Taxis in Georgia](#taxis-in-georgia)
     - [Tbilisi Airport](#tbilisi-airport)
-    - [Tbilisi](#tbilisi)
+    - [Restaurants in Tbilisi](#restaurants-in-tbilisi)
   - [Germany](#germany)
     - [Driving in Germany](#driving-in-germany)
     - [Bonn](#bonn)
@@ -2763,7 +2763,7 @@ Except you can't swipe on a laptop and pressing any combination of the right arr
 
 So you can't connect your laptop to the airport wifi, only your phone.
 
-#### Tbilisi
+#### Restaurants in Tbilisi
 
 Don't eat too many Khinkali dumplings, that's a lot of pastry, you'll end up getting a Stalin belly
 (the infamous soviet leader Joseph Stalin was Georgian).
