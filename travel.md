@@ -2731,9 +2731,6 @@ The many Chateaux outside of Paris in the French countryside are nice though
 
 Georgia was too cold by October.
 
-Also, don't eat too many Khinkali dumplings, that's a lot of pastry, you'll end up getting a Stalin belly
-(the infamous soviet leader Joseph Stalin was Georgian).
-
 #### Georgia Flights
 
 Flights in and out of Georgia to the capital Tbilisi are a nightmare as it's hard to get a direct flight.
@@ -2767,6 +2764,9 @@ Except you can't swipe on a laptop and pressing any combination of the right arr
 So you can't connect your laptop to the airport wifi, only your phone.
 
 #### Tbilisi
+
+Don't eat too many Khinkali dumplings, that's a lot of pastry, you'll end up getting a Stalin belly
+(the infamous soviet leader Joseph Stalin was Georgian).
 
 - [Chika](https://maps.app.goo.gl/ukVeBmmArPPczDGs7) - stylish gentrified cafe with good food and desserts too.
   The potato waffle with smoked salmon and poached on on top was a very good small plate meal in between meals.
