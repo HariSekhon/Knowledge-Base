@@ -2731,6 +2731,9 @@ The many Chateaux outside of Paris in the French countryside are nice though
 
 Georgia was too cold by October.
 
+Also, don't eat too many Khinkali dumplings, that's a lot of pastry, you'll end up getting a Stalin belly
+(the infamous soviet leader Joseph Stalin was Georgian).
+
 #### Georgia Flights
 
 Flights in and out of Georgia to the capital Tbilisi are a nightmare as it's hard to get a direct flight.
