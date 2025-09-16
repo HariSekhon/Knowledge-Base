@@ -5714,10 +5714,22 @@ ground.
 
 The small table is also usable for the lower bunks.
 
-#### Kiev
+#### Kyiv
 
-<!-- Dream Hostel Kiev is cheap and moderately central, but the toilets are not nice as the one in Lviv -->
+Kyiv is the newer spelling derived from Ukrainian, instead of Kiev, the old spelling derived from Russian.
 
+<!-- Dream Hostel Kyiv is cheap and moderately central, but the toilets are not nice as the one in Lviv -->
+
+- [True Burger Bar](https://maps.app.goo.gl/XfsD4suQs3cD4FPV8) -
+  good gourmet burger menu with good range of burgers and even vegetarian burgers.
+  It also has all day breakfasts and fresh orange and grapefruit juices.
+  It is expensive by local standards, internationally tourist priced, so it was dead on a Tuesday evening
+  while the McDonalds a few few feet along the street was packed.
+  The burger with bacon and mango sauce was very good at 438uah (€9),
+  and came stacked, with fries and you can choose which sauce you want, I chose bbq sauce which was exactly as I wanted.
+  The fresh orange juice was decent and a reasonable size for 170uah (€3.50).
+  Overall I spent €15 on a burger with fries and a drink.
+  Wifi is open (TrueBurgerBar) 81/80 Mbit/s
 - [This is Пивбар на Подолі / This is PivBar](https://maps.app.goo.gl/Ypb8zh3P8TQXUakq8) - good menu, open a bit later
   than other places until 11pm, but by 10pm only burgers and salads were available to order.
   The "big beef" burger was a double stacked burger, very good in both texture, flavour and quality -
