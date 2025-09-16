@@ -315,7 +315,7 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Taxis in Ukraine](#taxis-in-ukraine)
     - [Buses in Ukraine](#buses-in-ukraine)
     - [Trains in Ukraine](#trains-in-ukraine)
-    - [Kiev](#kiev)
+    - [Kyiv](#kyiv)
     - [Lviv](#lviv)
   - [United Kingdom](#united-kingdom)
     - [Best Areas in the UK](#best-areas-in-the-uk)
