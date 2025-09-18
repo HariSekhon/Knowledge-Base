@@ -5759,7 +5759,8 @@ in Lviv -->
   dishes like traditional Karcho soup and Khinkali dumplings, although not that cheap (I dropped €16).
   The Karcho soup was decent but small.
   The Khinkali assorted 5 dumplings themselves came in a giant Khinkali, that is a lot of pastry.
-  Do not order fresh juices here, they are tiny 200ml, are not on the digital menu and cost 250uah (over €5!)
+  Do not order fresh juices here, they are tiny 200ml in an extremely thin glass, are not on the digital menu and cost
+  250uah (over €5!) - they are not worth it
 
 TODO:
 
@@ -5769,7 +5770,7 @@ TODO:
 - [Bowl House](https://maps.app.goo.gl/yR5mNwQdWwmzps2F6)
 - [Druzi](https://maps.app.goo.gl/U95FR6NX8UTiSmGs9) - different menu to the one in Lviv. The one in Lviv is better but
   unfortunately this one still has the tourist prices
-- [Chachapuri](https://maps.app.goo.gl/iMFtAVwabVsvxfkW6)
+- [Chachapuri](https://maps.app.goo.gl/iMFtAVwabVsvxfkW6) - Georgian
 
 #### Lviv
 
