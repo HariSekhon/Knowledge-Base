@@ -5794,6 +5794,7 @@ TODO:
 - [Musafir](https://www.google.com/maps/search/Musafir) - turkish / middle eastern restaurant chain of 4 (at time of
   writing)
 - [Bowl House](https://maps.app.goo.gl/yR5mNwQdWwmzps2F6)
+- [Мама Фокача & Папа Чача](https://maps.app.goo.gl/4JrYUe2bMeNjsNhQA)
 - [Druzi](https://maps.app.goo.gl/U95FR6NX8UTiSmGs9) - different menu to the one in Lviv. The one in Lviv is better but
   unfortunately this one still has the tourist prices
 - [The Burger](https://maps.app.goo.gl/dPinN8tEqCezquKA8)
