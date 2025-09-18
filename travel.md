@@ -5685,12 +5685,10 @@ local bank or cash payment.
 
 ### Ukraine
 
-Ukraine is not really a tourist destination, even outside of the war, as it lacks attractions or a good restaurant
-culture compared to many other European countries.
+Ukraine is not really a tourist destination, even outside of the war,
+as it lacks attractions, centralization or as good a restaurant culture compared as other European countries.
 
-Foodies will be disappointed.
-
-Obviously, you can find a decent restaurant anywhere in the world if you're willing to pay enough though.
+There are decent restaurants if you look a bit harder and are willing to spend.
 
 Many of the restaurants use the same choiceqr.com and expz.menu websites for their menus which often fails to translate
 substantial parts of the menu when selecting English, or crash with a server side application error when trying to
