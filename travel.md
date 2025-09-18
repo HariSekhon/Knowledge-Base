@@ -5688,7 +5688,7 @@ local bank or cash payment.
 Ukraine is not really a tourist destination, even outside of the war,
 as it lacks attractions, centralization or as good a restaurant culture compared as other European countries.
 
-There are decent restaurants if you look a bit harder and are willing to spend.
+There are decent restaurants, as with everywhere, if you look a bit harder and are willing to spend.
 
 Many of the restaurants use the same choiceqr.com and expz.menu websites for their menus which often fails to translate
 substantial parts of the menu when selecting English, or crash with a server side application error when trying to
