@@ -5811,6 +5811,9 @@ TODO:
 
 #### Lviv
 
+A small city on the Western edge of Ukraine, far from the war.
+Much more peaceful than Kyiv's frequent air raids but you'll run out of things to do and eat after a few days.
+
 <!--
 
 Dream Hostel Lviv was both good and cheap.
