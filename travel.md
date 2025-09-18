@@ -5784,6 +5784,7 @@ in Lviv -->
 
 TODO:
 
+- [Urban Grill Meat & Cider](https://maps.app.goo.gl/q9AUwGVoRzrqanq9A) - try the blackberry burger
 - [Milk Bar](https://maps.app.goo.gl/82TnvGPdBnxUQJFH9)
 - [Holy Burger](https://maps.app.goo.gl/GUMVmUnqJSkcJ1pq6)
 - [Knyazhyy Hrad](https://maps.app.goo.gl/x3fko1LQ9uAoX3i68) - more affordable restaurant than some of these others
@@ -5796,6 +5797,9 @@ TODO:
 - [Druzi](https://maps.app.goo.gl/U95FR6NX8UTiSmGs9) - different menu to the one in Lviv. The one in Lviv is better but
   unfortunately this one still has the tourist prices
 - [The Burger](https://maps.app.goo.gl/dPinN8tEqCezquKA8)
+- [DOM #10](https://maps.app.goo.gl/T3spm6qxXb9RGAxf9) - upmarket very expensive restaurant with exquisite menu - an
+  experience place.
+  You're looking at €30 per main here, which for Ukraine is crazy
 - [Lofter Restaurant](https://maps.app.goo.gl/Ksa1De5caHHUV2vu7) - steaks
 - [Chicot](https://maps.app.goo.gl/KQRumb2AHqLB6nqv8) - highly rated but no online menu
 - [Sanatrelo](https://maps.app.goo.gl/eKL6UYFJmfh9QS2n9) - Georgian
