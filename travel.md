@@ -5766,6 +5766,8 @@ in Lviv -->
   The Khinkali assorted 5 dumplings themselves came in a giant Khinkali, that is a lot of pastry.
   Do not order fresh juices here, they are tiny 200ml in an extremely thin glass, are not on the digital menu and cost
   250uah (over €5!) - they are not worth it
+- [Novella](https://maps.app.goo.gl/ZagSm2ZWEZRhkvDo7) - upmarket restaurant, same menu as Biblioteka in Lviv, see
+  review there
 - [Khreschatyk St](https://maps.app.goo.gl/VADCJzDdb86zAchu8) - the main high street in central Kyiv
   - [TSUM](https://maps.app.goo.gl/Hp4raovXhVS33m488) - upmarket department store with the usual brands and a couple
     restaurants / cafes on the top floor
@@ -5784,6 +5786,7 @@ TODO:
 
 - [Milk Bar](https://maps.app.goo.gl/82TnvGPdBnxUQJFH9)
 - [Holy Burger](https://maps.app.goo.gl/GUMVmUnqJSkcJ1pq6)
+- [Knyazhyy Hrad](https://maps.app.goo.gl/x3fko1LQ9uAoX3i68) - more affordable restaurant than some of these others
 - [Fandom coffee bar](https://maps.app.goo.gl/8f2FAdrSCYg6zUzFA) - upmarket (expensive) cafe restaurant with good
   selection of desserts
 - [Ministry of Desserts](https://maps.app.goo.gl/xRfg7zM3C5ymcT35A)
@@ -5793,8 +5796,10 @@ TODO:
 - [Druzi](https://maps.app.goo.gl/U95FR6NX8UTiSmGs9) - different menu to the one in Lviv. The one in Lviv is better but
   unfortunately this one still has the tourist prices
 - [The Burger](https://maps.app.goo.gl/dPinN8tEqCezquKA8)
+- [Lofter Restaurant](https://maps.app.goo.gl/Ksa1De5caHHUV2vu7) - steaks
 - [Chicot](https://maps.app.goo.gl/KQRumb2AHqLB6nqv8) - highly rated but no online menu
-- [Sanatrelo](https://maps.app.goo.gl/eKL6UYFJmfh9QS2n9)
+- [Sanatrelo](https://maps.app.goo.gl/eKL6UYFJmfh9QS2n9) - Georgian
+- [Chichiko](https://maps.app.goo.gl/suxeACdBw24tWzTU8) - Georgian
 - [Chachapuri](https://maps.app.goo.gl/iMFtAVwabVsvxfkW6) - Georgian
 
 #### Lviv
