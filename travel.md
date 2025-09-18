@@ -5686,7 +5686,9 @@ local bank or cash payment.
 ### Ukraine
 
 Ukraine is not really a tourist destination, even outside of the war,
-as it lacks attractions, centralization or as good a restaurant culture compared as other European countries.
+as it lacks attractions,
+centralization, good quality restaurants & diversity of cuisine,
+or even much in the way of tourist accommodation compared to other European countries.
 
 There are decent restaurants, as with everywhere, if you look a bit harder and are willing to spend.
 
