@@ -5800,7 +5800,8 @@ TODO:
 - [The Burger](https://maps.app.goo.gl/dPinN8tEqCezquKA8)
 - [DOM #10](https://maps.app.goo.gl/T3spm6qxXb9RGAxf9) - upmarket very expensive restaurant with exquisite menu - an
   experience place.
-  You're looking at €30 per main here, which for Ukraine is crazy
+  You're looking at €30 per main here, which for Ukraine is crazy, and they have a truffle & black truffle menu of
+  dishes
 - [Lofter Restaurant](https://maps.app.goo.gl/Ksa1De5caHHUV2vu7) - steaks
 - [Chicot](https://maps.app.goo.gl/KQRumb2AHqLB6nqv8) - highly rated but no online menu
 - [Sanatrelo](https://maps.app.goo.gl/eKL6UYFJmfh9QS2n9) - Georgian
