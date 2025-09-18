@@ -5692,7 +5692,7 @@ There are decent restaurants, as with everywhere, if you look a bit harder and a
 
 Many of the restaurants use the same choiceqr.com and expz.menu websites for their menus which often fails to translate
 substantial parts of the menu when selecting English, or crash with a server side application error when trying to
-expand the menu ingredients on an item.
+expand the menu ingredients of a dish.
 This happens even to some of my favourite restaurants in Kyiv and Lviv.
 
 There are hundreds of destinations in Europe that would be ahead of Ukraine to visit as a tourist.
