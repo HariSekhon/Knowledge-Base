@@ -5763,6 +5763,8 @@ in Lviv -->
 
 TODO:
 
+- [Druzi](https://maps.app.goo.gl/U95FR6NX8UTiSmGs9) - different menu to the one in Lviv. The one in Lviv is better but
+  unfortunately this one still has the tourist prices
 - [Ministry of Desserts](https://maps.app.goo.gl/xRfg7zM3C5ymcT35A)
 
 #### Lviv
