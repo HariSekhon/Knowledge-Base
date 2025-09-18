@@ -5692,9 +5692,9 @@ Foodies will be disappointed.
 
 Obviously, you can find a decent restaurant anywhere in the world if you're willing to pay enough though.
 
-Many of the restaurants use the same choiceqr.com website for their menus which often fails to translate parts of the
-menu when selecting English, or crashes with a server side application error when trying to expand the menu ingredients
-on an item.
+Many of the restaurants use the same choiceqr.com and expz.menu websites for their menus which often fails to translate
+parts of the menu when selecting English, or crash with a server side application error when trying to expand the menu
+ingredients on an item.
 This happens even to some of my favourite restaurants in Kyiv and Lviv.
 
 There are hundreds of destinations in Europe that would be ahead of Ukraine to visit as a tourist.
@@ -5766,6 +5766,10 @@ in Lviv -->
   The Khinkali assorted 5 dumplings themselves came in a giant Khinkali, that is a lot of pastry.
   Do not order fresh juices here, they are tiny 200ml in an extremely thin glass, are not on the digital menu and cost
   250uah (over €5!) - they are not worth it
+- [St. Andrew's Church](https://maps.app.goo.gl/gSBXPwsNxuoqhnpz5)
+- [St. Sophia's Cathedral](https://maps.app.goo.gl/xbPVmJy12BtLqYQj6)
+- [St. Volodymyr's Cathedral](https://maps.app.goo.gl/K3wS6Dxm4nerpsjeA)
+- [Парк Шевченко](https://maps.app.goo.gl/UiLcBqfG8DZwcC9n9) - park
 
 TODO:
 
