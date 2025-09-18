@@ -5695,6 +5695,9 @@ substantial parts of the menu when selecting English, or crash with a server sid
 expand the menu ingredients of a dish.
 This happens even to some of my favourite restaurants in Kyiv and Lviv.
 
+Even worse, many places lack English entirely and don't even have English menus,
+including even the massive Lviv Croissants chain on the main Khreschatyk St in Kyiv.
+
 There are hundreds of destinations in Europe that would be ahead of Ukraine to visit as a tourist.
 
 #### Taxis in Ukraine
