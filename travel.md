@@ -5685,6 +5685,15 @@ local bank or cash payment.
 
 ### Ukraine
 
+Ukraine is not really a tourist destination, even outside of the war, as it lacks attractions or a good restaurant
+culture compared to many other European countries.
+
+Foodies will be disappointed.
+
+Obviously, you can find a decent restaurant anywhere in the world if you're willing to pay enough though.
+
+There are hundreds of destinations in Europe that would be ahead of Ukraine to visit as a tourist.
+
 #### Taxis in Ukraine
 
 - [OnTaxi](https://ontaxi.com.ua/en)
@@ -5718,7 +5727,8 @@ The small table is also usable for the lower bunks.
 
 Kyiv is the newer spelling derived from Ukrainian, instead of Kiev, the old spelling derived from Russian.
 
-<!-- Dream Hostel Kyiv is cheap and moderately central, but the toilets are not nice as the one in Lviv -->
+<!-- Dream Hostel Kyiv is cheap and moderately central, but the communal toilets and showers are nowhere nice as the one
+in Lviv -->
 
 - [True Burger Bar](https://maps.app.goo.gl/XfsD4suQs3cD4FPV8) -
   good gourmet burger menu with good range of burgers and even vegetarian burgers.
