@@ -5766,13 +5766,24 @@ in Lviv -->
   The Khinkali assorted 5 dumplings themselves came in a giant Khinkali, that is a lot of pastry.
   Do not order fresh juices here, they are tiny 200ml in an extremely thin glass, are not on the digital menu and cost
   250uah (over €5!) - they are not worth it
+- [Khreschatyk St](https://maps.app.goo.gl/VADCJzDdb86zAchu8) - the main high street in central Kyiv
+  - [TSUM](https://maps.app.goo.gl/Hp4raovXhVS33m488) - upmarket department store with the usual brands and a couple
+    restaurants / cafes on the top floor
+  - [ТРЦ Gulliver](https://maps.app.goo.gl/dpifsMMVyHVQxRjK9) - upmarket shopping mall
 - [St. Andrew's Church](https://maps.app.goo.gl/gSBXPwsNxuoqhnpz5)
+- [St. Michael's Golden-Domed Monastery](https://maps.app.goo.gl/g4r3eSh2aZZe5bcs9)
+- [Volodymyr The Great Monument](Volodymyr The Great Monument)
+- [Glass Bridge](Glass Bridge) - good view over part of the city
+- [Arka Svobody Ukrayinsʹkoho Narodu](https://maps.app.goo.gl/TbyKhLG4jfmDoSUQA) - giant arch
+- [Khreshchatyy Park](https://maps.app.goo.gl/i8Xo27a5kM6UJZpy8)
 - [St. Sophia's Cathedral](https://maps.app.goo.gl/xbPVmJy12BtLqYQj6)
 - [St. Volodymyr's Cathedral](https://maps.app.goo.gl/K3wS6Dxm4nerpsjeA)
 - [Парк Шевченко](https://maps.app.goo.gl/UiLcBqfG8DZwcC9n9) - park
 
 TODO:
 
+- [Milk Bar](https://maps.app.goo.gl/82TnvGPdBnxUQJFH9)
+- [Holy Burger](https://maps.app.goo.gl/GUMVmUnqJSkcJ1pq6)
 - [Fandom coffee bar](https://maps.app.goo.gl/8f2FAdrSCYg6zUzFA) - upmarket (expensive) cafe restaurant with good
   selection of desserts
 - [Ministry of Desserts](https://maps.app.goo.gl/xRfg7zM3C5ymcT35A)
@@ -5781,6 +5792,9 @@ TODO:
 - [Bowl House](https://maps.app.goo.gl/yR5mNwQdWwmzps2F6)
 - [Druzi](https://maps.app.goo.gl/U95FR6NX8UTiSmGs9) - different menu to the one in Lviv. The one in Lviv is better but
   unfortunately this one still has the tourist prices
+- [The Burger](https://maps.app.goo.gl/dPinN8tEqCezquKA8)
+- [Chicot](https://maps.app.goo.gl/KQRumb2AHqLB6nqv8) - highly rated but no online menu
+- [Sanatrelo](https://maps.app.goo.gl/eKL6UYFJmfh9QS2n9)
 - [Chachapuri](https://maps.app.goo.gl/iMFtAVwabVsvxfkW6) - Georgian
 
 #### Lviv
