@@ -5692,6 +5692,11 @@ Foodies will be disappointed.
 
 Obviously, you can find a decent restaurant anywhere in the world if you're willing to pay enough though.
 
+Many of the restaurants use the same choiceqr.com website for their menus which often fails to translate parts of the
+menu when selecting English, or crashes with a server side application error when trying to expand the menu ingredients
+on an item.
+This happens even to some of my favourite restaurants in Kyiv and Lviv.
+
 There are hundreds of destinations in Europe that would be ahead of Ukraine to visit as a tourist.
 
 #### Taxis in Ukraine
@@ -5764,6 +5769,8 @@ in Lviv -->
 
 TODO:
 
+- [Fandom coffee bar](https://maps.app.goo.gl/8f2FAdrSCYg6zUzFA) - upmarket (expensive) cafe restaurant with good
+  selection of desserts
 - [Ministry of Desserts](https://maps.app.goo.gl/xRfg7zM3C5ymcT35A)
 - [Musafir](https://www.google.com/maps/search/Musafir) - turkish / middle eastern restaurant chain of 4 (at time of
   writing)
