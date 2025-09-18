@@ -5766,8 +5766,8 @@ in Lviv -->
   The Khinkali assorted 5 dumplings themselves came in a giant Khinkali, that is a lot of pastry.
   Do not order fresh juices here, they are tiny 200ml in an extremely thin glass, are not on the digital menu and cost
   250uah (over €5!) - they are not worth it
-- [Novella](https://maps.app.goo.gl/ZagSm2ZWEZRhkvDo7) - upmarket restaurant, same menu as Biblioteka in Lviv, see
-  review there
+- [Novella](https://maps.app.goo.gl/ZagSm2ZWEZRhkvDo7) - upmarket (expensive) restaurant, same menu as Biblioteka in
+  Lviv, see review there
 - [Khreschatyk St](https://maps.app.goo.gl/VADCJzDdb86zAchu8) - the main high street in central Kyiv
   - [TSUM](https://maps.app.goo.gl/Hp4raovXhVS33m488) - upmarket department store with the usual brands and a couple
     restaurants / cafes on the top floor
