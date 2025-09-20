@@ -5768,7 +5768,8 @@ are nowhere nice as the one in Lviv -->
 - [Urban Grill Meat & Cider](https://maps.app.goo.gl/q9AUwGVoRzrqanq9A) - the blackberry burger was decent here, and the
   sweet potato fries came with a really nice sweet chilli dip that wasn't like the usual types.
   I didn't go with the regular fries as they were covered in cheese sauce.
-  Burger, chips and an orange juice
+  Burger, chips and an orange juice came to €15.
+  Has wifi
 - [Bowl House](https://maps.app.goo.gl/yR5mNwQdWwmzps2F6) - they were out of "Tom Yam"
   soup so tried the Bowl-salad Brize (409uah / €8.50) with prawns and tuna.
   The fresh orange juice was tiny no more than 200ml which wasn't worth it for 145uah (€3)
