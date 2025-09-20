@@ -5772,7 +5772,9 @@ are nowhere nice as the one in Lviv -->
   Has wifi
 - [Bowl House](https://maps.app.goo.gl/yR5mNwQdWwmzps2F6) - they were out of "Tom Yam"
   soup so tried the Bowl-salad Brize (409uah / €8.50) with prawns and tuna.
-  The fresh orange juice was tiny no more than 200ml which wasn't worth it for 145uah (€3)
+  This isn't a lot of food, it's ok for a girl on a diet, but not for a bro trying to maintain his muscle.
+  The clientele on a Saturday afternoon was was mostly women having a drink in their Sex & The City groups.
+  The fresh orange juice was tiny no more than 200ml which wasn't worth it for 145uah (€3).
   Wifi 5/5 Mbit/s
 - [Chacha - Hruzynsʹkyy Restoran](https://maps.app.goo.gl/ooPf4bhwQ95wPjYNA) - decent quality Georgian with the usual
   dishes like traditional Karcho soup and Khinkali dumplings, although not that cheap (I dropped €16).
