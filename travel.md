@@ -5706,7 +5706,7 @@ There are hundreds of destinations in Europe that would be ahead of Ukraine to v
 
 - [OnTaxi](https://ontaxi.com.ua/en)
 - [Uklon](https://uklon.com.ua/en/)
-- [Bolt](https://bolt.eu/en-ua/)
+- [Bolt](https://bolt.eu/en-ua/) - works in Lviv but not in Kyiv as of Sept 2025
 
 #### Buses in Ukraine
 
