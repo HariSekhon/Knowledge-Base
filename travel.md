@@ -5735,8 +5735,10 @@ The small table is also usable for the lower bunks.
 
 Kyiv is the newer spelling derived from Ukrainian, instead of Kiev, the old spelling derived from Russian.
 
-<!-- Dream Hostel Kyiv is cheap and moderately central, but the communal toilets and showers are nowhere nice as the one
-in Lviv -->
+My favourite areas are Zoloti Vorota and Podil as that's where the better restaurants are.
+
+<!-- Dream Hostel Kyiv is cheap and in Podil, so a bit of a walk to the centre, but the communal toilets and showers
+are nowhere nice as the one in Lviv -->
 
 - [True Burger Bar](https://maps.app.goo.gl/XfsD4suQs3cD4FPV8) -
   good gourmet burger menu with good range of burgers and even vegetarian burgers.
@@ -5763,6 +5765,14 @@ in Lviv -->
   The name implies it's from Lviv but it's also all over Kiev
 - [Puzata Hata](https://puzatahata.ua/) - Ukrainian canteen, cheap and cheerful local food. Try the borsche red soup
   with meat. The dumplings were ok but not that great quality of meat inside
+- [Urban Grill Meat & Cider](https://maps.app.goo.gl/q9AUwGVoRzrqanq9A) - the blackberry burger was decent here, and the
+  sweet potato fries came with a really nice sweet chilli dip that wasn't like the usual types.
+  I didn't go with the regular fries as they were covered in cheese sauce.
+  Burger, chips and an orange juice
+- [Bowl House](https://maps.app.goo.gl/yR5mNwQdWwmzps2F6) - they were out of "Tom Yam"
+  soup so tried the Bowl-salad Brize (409uah / €8.50) with prawns and tuna.
+  The fresh orange juice was tiny no more than 200ml which wasn't worth it for 145uah (€3)
+  Wifi 5/5 Mbit/s
 - [Chacha - Hruzynsʹkyy Restoran](https://maps.app.goo.gl/ooPf4bhwQ95wPjYNA) - decent quality Georgian with the usual
   dishes like traditional Karcho soup and Khinkali dumplings, although not that cheap (I dropped €16).
   The Karcho soup was decent but small.
@@ -5787,7 +5797,6 @@ in Lviv -->
 
 TODO:
 
-- [Urban Grill Meat & Cider](https://maps.app.goo.gl/q9AUwGVoRzrqanq9A) - try the blackberry burger
 - [Milk Bar](https://maps.app.goo.gl/82TnvGPdBnxUQJFH9)
 - [Holy Burger](https://maps.app.goo.gl/GUMVmUnqJSkcJ1pq6)
 - [Knyazhyy Hrad](https://maps.app.goo.gl/x3fko1LQ9uAoX3i68) - more affordable restaurant than some of these others
@@ -5796,7 +5805,6 @@ TODO:
 - [Ministry of Desserts](https://maps.app.goo.gl/xRfg7zM3C5ymcT35A)
 - [Musafir](https://www.google.com/maps/search/Musafir) - turkish / middle eastern restaurant chain of 4 (at time of
   writing)
-- [Bowl House](https://maps.app.goo.gl/yR5mNwQdWwmzps2F6)
 - [Мама Фокача & Папа Чача](https://maps.app.goo.gl/4JrYUe2bMeNjsNhQA)
 - [Druzi](https://maps.app.goo.gl/U95FR6NX8UTiSmGs9) - different menu to the one in Lviv. The one in Lviv is better but
   unfortunately this one still has the tourist prices
