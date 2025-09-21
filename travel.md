@@ -5740,6 +5740,11 @@ My favourite areas are Zoloti Vorota and Podil as that's where the better restau
 <!-- Dream Hostel Kyiv is cheap and in Podil, so a bit of a walk to the centre, but the communal toilets and showers
 are nowhere nice as the one in Lviv -->
 
+- [Musafir](https://www.google.com/maps/search/Musafir) - middle eastern restaurant chain of 4 (at time of writing) with
+  a large menu at reasonable prices.
+  It has the usual selection of starters like cacik, hummous with optional chicken or beef, as well as good soups, and
+  grilled meat mains.
+  Has wifi
 - [True Burger Bar](https://maps.app.goo.gl/XfsD4suQs3cD4FPV8) -
   good gourmet burger menu with good range of burgers and even vegetarian burgers.
   It also has all day breakfasts and fresh orange and grapefruit juices.
@@ -5806,8 +5811,6 @@ TODO:
 - [Fandom coffee bar](https://maps.app.goo.gl/8f2FAdrSCYg6zUzFA) - upmarket (expensive) cafe restaurant with good
   selection of desserts
 - [Ministry of Desserts](https://maps.app.goo.gl/xRfg7zM3C5ymcT35A)
-- [Musafir](https://www.google.com/maps/search/Musafir) - turkish / middle eastern restaurant chain of 4 (at time of
-  writing)
 - [Мама Фокача & Папа Чача](https://maps.app.goo.gl/4JrYUe2bMeNjsNhQA)
 - [Druzi](https://maps.app.goo.gl/U95FR6NX8UTiSmGs9) - different menu to the one in Lviv. The one in Lviv is better but
   unfortunately this one still has the tourist prices
