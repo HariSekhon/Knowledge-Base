@@ -5745,6 +5745,9 @@ are nowhere nice as the one in Lviv -->
   It has the usual selection of starters like cacik, hummous with optional chicken or beef, as well as good soups, and
   grilled meat mains.
   Has wifi
+- [Holy Burger](https://maps.app.goo.gl/GUMVmUnqJSkcJ1pq6) - large upmarket burger restaurant with great seating,
+  indoors and outdoors, a good selection of burgers and other main dishes, as well as a good selection of drinks.
+  Wifi 74/91 Mbit/s
 - [True Burger Bar](https://maps.app.goo.gl/XfsD4suQs3cD4FPV8) -
   good gourmet burger menu with good range of burgers and even vegetarian burgers.
   It also has all day breakfasts and fresh orange and grapefruit juices.
@@ -5806,7 +5809,6 @@ are nowhere nice as the one in Lviv -->
 TODO:
 
 - [Milk Bar](https://maps.app.goo.gl/82TnvGPdBnxUQJFH9)
-- [Holy Burger](https://maps.app.goo.gl/GUMVmUnqJSkcJ1pq6)
 - [Knyazhyy Hrad](https://maps.app.goo.gl/x3fko1LQ9uAoX3i68) - more affordable restaurant than some of these others
 - [Fandom coffee bar](https://maps.app.goo.gl/8f2FAdrSCYg6zUzFA) - upmarket (expensive) cafe restaurant with good
   selection of desserts
