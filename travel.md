@@ -5770,12 +5770,6 @@ are nowhere nice as the one in Lviv -->
   I didn't go with the regular fries as they were covered in cheese sauce.
   Burger, chips and an orange juice came to €15.
   Has wifi
-- [Bowl House](https://maps.app.goo.gl/yR5mNwQdWwmzps2F6) - they were out of "Tom Yam"
-  soup so tried the Bowl-salad Brize (409uah / €8.50) with prawns and tuna.
-  This isn't a lot of food, it's ok for a girl on a diet, but not for a bro trying to maintain his muscle.
-  The clientele on a Saturday afternoon was was mostly women having a drink in their Sex & The City groups.
-  The fresh orange juice was tiny no more than 200ml which wasn't worth it for 145uah (€3).
-  Wifi 5/5 Mbit/s
 - [Chacha - Hruzynsʹkyy Restoran](https://maps.app.goo.gl/ooPf4bhwQ95wPjYNA) - decent quality Georgian with the usual
   dishes like traditional Karcho soup and Khinkali dumplings, although not that cheap (I dropped €16).
   The Karcho soup was decent but small.
@@ -5784,6 +5778,12 @@ are nowhere nice as the one in Lviv -->
   250uah (over €5!) - they are not worth it
 - [Novella](https://maps.app.goo.gl/ZagSm2ZWEZRhkvDo7) - upmarket (expensive) restaurant, same menu as Biblioteka in
   Lviv, see review there
+- [Bowl House](https://maps.app.goo.gl/yR5mNwQdWwmzps2F6) - they were out of "Tom Yam"
+    soup so tried the Bowl-salad Brize (409uah / €8.50) with prawns and tuna.
+    This isn't a lot of food, it's ok for a girl on a diet, but not for a bro trying to maintain his muscle.
+    The clientele on a Saturday afternoon was was mostly women having a drink in their Sex & The City groups.
+    The fresh orange juice was tiny no more than 200ml which wasn't worth it for 145uah (€3).
+    Wifi 5/5 Mbit/s
 - [Khreschatyk St](https://maps.app.goo.gl/VADCJzDdb86zAchu8) - the main high street in central Kyiv
   - [TSUM](https://maps.app.goo.gl/Hp4raovXhVS33m488) - upmarket department store with the usual brands and a couple
     restaurants / cafes on the top floor
