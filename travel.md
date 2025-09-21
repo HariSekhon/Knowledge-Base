@@ -5747,6 +5747,8 @@ are nowhere nice as the one in Lviv -->
   Has wifi
 - [Holy Burger](https://maps.app.goo.gl/GUMVmUnqJSkcJ1pq6) - large upmarket burger restaurant with great seating,
   indoors and outdoors, a good selection of burgers and other main dishes, as well as a good selection of drinks.
+  The holy burger is good, albeit not as big as I thought it might be, a mid-sized burger.
+  The fries are very good, crispy and fluffy, I just wish there were more of them.
   Wifi 74/91 Mbit/s
 - [True Burger Bar](https://maps.app.goo.gl/XfsD4suQs3cD4FPV8) -
   good gourmet burger menu with good range of burgers and even vegetarian burgers.
