@@ -5818,7 +5818,8 @@ TODO:
 - [Мама Фокача & Папа Чача](https://maps.app.goo.gl/4JrYUe2bMeNjsNhQA)
 - [Druzi](https://maps.app.goo.gl/U95FR6NX8UTiSmGs9) - different menu to the one in Lviv. The one in Lviv is better but
   unfortunately this one still has the tourist prices
-- [The Burger](https://maps.app.goo.gl/dPinN8tEqCezquKA8)
+- [The Burger](https://maps.app.goo.gl/dPinN8tEqCezquKA8) - was close by 9pm on a Monday night instead of open until
+  10pm advertised on Google Maps
 - [DOM #10](https://maps.app.goo.gl/T3spm6qxXb9RGAxf9) - upmarket very expensive restaurant with exquisite menu - an
   experience place.
   You're looking at €30 per main here, which for Ukraine is crazy, and they have a truffle & black truffle menu of
