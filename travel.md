@@ -5920,6 +5920,14 @@ TODO:
 - [Ресторація Боїмів](https://maps.app.goo.gl/kWzJw6gMhpfnccHz8) - 4.8 but pricier and doesn't open until 12pm
 - [Cent Aura](https://maps.app.goo.gl/zRcYJujYw3w7W8HM7) - 4.6 but no english menu online
 
+#### Odessa
+
+<!-- Hostels in Odessa are substantially cheaper than in Kyiv -->
+
+Coaches go between Kyiv and Odessa regularly, you can book them via the Omio website:
+
+<https://www.omio.com/>
+
 ### United Kingdom
 
 See [The UK Decline - What I Learnt on UK Tour 2024](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b) article for a tour of pictures of why you will not want to
