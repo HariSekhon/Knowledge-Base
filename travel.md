@@ -5803,6 +5803,9 @@ are nowhere nice as the one in Lviv -->
     The clientele on a Saturday afternoon was was mostly women having a drink in their Sex & The City groups.
     The fresh orange juice was tiny no more than 200ml which wasn't worth it for 145uah (€3).
     Wifi 5/5 Mbit/s
+- [Druzi](https://maps.app.goo.gl/U95FR6NX8UTiSmGs9) - different menu to the one in Lviv. The one in Lviv is better but
+  unfortunately this one still has the tourist prices.
+  The cheesecakes with vanilla cream and blueberries was ok but nothing to write home about
 - [Khreschatyk St](https://maps.app.goo.gl/VADCJzDdb86zAchu8) - the main high street in central Kyiv
   - [TSUM](https://maps.app.goo.gl/Hp4raovXhVS33m488) - upmarket department store with the usual brands and a couple
     restaurants / cafes on the top floor
@@ -5825,8 +5828,6 @@ TODO:
   selection of desserts
 - [Ministry of Desserts](https://maps.app.goo.gl/xRfg7zM3C5ymcT35A)
 - [Мама Фокача & Папа Чача](https://maps.app.goo.gl/4JrYUe2bMeNjsNhQA)
-- [Druzi](https://maps.app.goo.gl/U95FR6NX8UTiSmGs9) - different menu to the one in Lviv. The one in Lviv is better but
-  unfortunately this one still has the tourist prices
 - [The Burger](https://maps.app.goo.gl/dPinN8tEqCezquKA8) - was close by 9pm on a Monday night instead of open until
   10pm advertised on Google Maps
 - [DOM #10](https://maps.app.goo.gl/T3spm6qxXb9RGAxf9) - upmarket very expensive restaurant with exquisite menu - an
