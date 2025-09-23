@@ -5750,6 +5750,14 @@ are nowhere nice as the one in Lviv -->
   The holy burger is good, albeit not as big as I thought it might be, a mid-sized burger.
   The fries are very good, crispy and fluffy, I just wish there were more of them.
   Wifi 74/91 Mbit/s
+- [Gastro bar Пахне смаженим](https://maps.app.goo.gl/qAWQg6tcDWqRwtHL7) - good quality burger restaurant, highly rated
+  with stacked burgers and decent fries.
+  The venue itself is fairly small and on the big ring road, so the venue itself loses out to the nicer social spot
+  Holy Burger.
+  The burger with the cherry sauce came with a white cheese similar to feta but less salty.
+  They give you those black gloves to eat the burger with that seems to be popular here with the gentrified burger
+  restaurants. The extra honey-mustagard dip for the fries was decent too.
+  Has wifi
 - [True Burger Bar](https://maps.app.goo.gl/XfsD4suQs3cD4FPV8) -
   good gourmet burger menu with good range of burgers and even vegetarian burgers.
   It also has all day breakfasts and fresh orange and grapefruit juices.
