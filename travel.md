@@ -314,6 +314,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Ukraine](#ukraine)
     - [Taxis in Ukraine](#taxis-in-ukraine)
     - [Buses in Ukraine](#buses-in-ukraine)
+    - [Coaches in Ukraine](#coaches-in-ukraine)
     - [Trains in Ukraine](#trains-in-ukraine)
     - [Kyiv](#kyiv)
     - [Lviv](#lviv)
@@ -5717,6 +5718,15 @@ In Kiev it was easier, just touch card which charged it 8uah (£0.14).
 
 In Lviv I had to select a couple of touch screen options before touching the card. You can change the menu to English.
 
+#### Coaches in Ukraine
+
+Coaches go between Kyiv and Odessa regularly, you can book them via the Omio website:
+
+<https://www.omio.com/>
+
+The LikeBus has wifi (password is just 12345678)
+so you can ride in style and watch your favourite show as it is a 6 hour journey.
+
 #### Trains in Ukraine
 
 Make sure to book your rail tickets in advance before travelling between cities as they sell out.
@@ -5925,10 +5935,6 @@ TODO:
 #### Odessa
 
 <!-- Hostels in Odessa are substantially cheaper than in Kyiv -->
-
-Coaches go between Kyiv and Odessa regularly, you can book them via the Omio website:
-
-<https://www.omio.com/>
 
 ### United Kingdom
 
