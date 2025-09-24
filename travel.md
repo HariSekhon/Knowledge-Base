@@ -5761,6 +5761,11 @@ are nowhere nice as the one in Lviv -->
   The holy burger is good, albeit not as big as I thought it might be, a mid-sized burger.
   The fries are very good, crispy and fluffy, I just wish there were more of them.
   Wifi 74/91 Mbit/s
+- [Fandom coffee bar](https://maps.app.goo.gl/8f2FAdrSCYg6zUzFA) - upmarket (expensive) cafe restaurant with plush
+  interior, good menu, fresh juices and a good selection of desserts.
+  The sliced chicken fillet with truffle mashed potato, brocoli and paprika sauce was good,
+  although it took a while to come, and the fresh apple juice was decent too, served in a heavy whisky glass.
+  Has wifi
 - [Gastro bar Пахне смаженим](https://maps.app.goo.gl/qAWQg6tcDWqRwtHL7) - good quality burger restaurant, highly rated
   with stacked burgers and decent fries.
   The venue itself is fairly small and on the big ring road, so the venue itself loses out to the nicer social spot
@@ -5834,8 +5839,6 @@ TODO:
 
 - [Milk Bar](https://maps.app.goo.gl/82TnvGPdBnxUQJFH9)
 - [Knyazhyy Hrad](https://maps.app.goo.gl/x3fko1LQ9uAoX3i68) - more affordable restaurant than some of these others
-- [Fandom coffee bar](https://maps.app.goo.gl/8f2FAdrSCYg6zUzFA) - upmarket (expensive) cafe restaurant with good
-  selection of desserts
 - [Ministry of Desserts](https://maps.app.goo.gl/xRfg7zM3C5ymcT35A)
 - [Мама Фокача & Папа Чача](https://maps.app.goo.gl/4JrYUe2bMeNjsNhQA)
 - [The Burger](https://maps.app.goo.gl/dPinN8tEqCezquKA8) - was close by 9pm on a Monday night instead of open until
