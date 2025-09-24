@@ -5748,8 +5748,12 @@ Kyiv is the newer spelling derived from Ukrainian, instead of Kiev, the old spel
 
 My favourite areas are Zoloti Vorota and Podil as that's where the better restaurants are.
 
-<!-- Dream Hostel Kyiv is cheap and in Podil, so a bit of a walk to the centre, but the communal toilets and showers
-are nowhere nice as the one in Lviv -->
+<!--
+Dream Hostel Kyiv is cheap and in Podil, so a bit of a walk to the centre, but the communal toilets and showers
+are nowhere nice as the one in Lviv.
+
+GlobeRunner Rooms is twice the price but so much nicer inside that I can't go back to Dream Hostel now.
+-->
 
 - [Musafir](https://www.google.com/maps/search/Musafir) - middle eastern restaurant chain of 4 (at time of writing) with
   a large menu at reasonable prices.
