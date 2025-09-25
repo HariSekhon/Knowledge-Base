@@ -5963,6 +5963,11 @@ Not Recommended:
   you might want to save your money and just get a McDonalds or KFC if you want mediocre late night food.
   Has wifi
 
+TODO:
+
+- [True](https://maps.app.goo.gl/kcZq3CDoR3DRC4fQ9) - was gonna try their bean borscht soup and burger but the lazy
+  staff said they were going to close at 8:55pm when I arrived because they didn't have enough customers
+
 ### United Kingdom
 
 See [The UK Decline - What I Learnt on UK Tour 2024](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b) article for a tour of pictures of why you will not want to
