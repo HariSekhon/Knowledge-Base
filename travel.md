@@ -5948,6 +5948,19 @@ TODO:
   This is a good budget choice.
   Has wifi
 
+Not Recommended:
+
+- ["Mick O'Neills" Gastro Pub](https://maps.app.goo.gl/Urgh32xEwvTfFMdo8) - expensive mediocre food, don't eat here.
+  Popular socializing place with a pool table, this might be ok for a late night drink (up to 11pm!) but the food was
+  disappointing, especially for €10 per dish (at least the tourist places charging international prices have higher
+  quality).
+  The Jack Daniel's burger had no Jack Daniel's taste, you will mistake it for a regular bland burger.
+  Their excuse is they've fried a tiny amount of onions in it but even if you just eat those little pieces by themselves
+  you can't taste the Jack Daniel's.
+  Wetherspoon's Jack Daniel's burger in the UK at least has Jack Daniel's sauce and is a completely different experience.
+  The fresh apple juice was ok, served in a heavy whisky glass, but the orange and other juices are overpriced.
+  Has wifi
+
 ### United Kingdom
 
 See [The UK Decline - What I Learnt on UK Tour 2024](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b) article for a tour of pictures of why you will not want to
