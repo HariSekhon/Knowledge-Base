@@ -5959,6 +5959,8 @@ Not Recommended:
   you can't taste the Jack Daniel's.
   Wetherspoon's Jack Daniel's burger in the UK at least has Jack Daniel's sauce and is a completely different experience.
   The fresh apple juice was ok, served in a heavy whisky glass, but the orange and other juices are overpriced.
+  I ate here was because most other places were closed by 9-10pm, so you can keep it as one of the few later places, but
+  you might want to save your money and just get a McDonalds or KFC if you want mediocre late night food.
   Has wifi
 
 ### United Kingdom
