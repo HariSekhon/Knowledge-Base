@@ -5943,6 +5943,11 @@ TODO:
 
 <!-- Hostels in Odessa are substantially cheaper than in Kyiv -->
 
+- [Mr. Chef](https://maps.app.goo.gl/GDWCS2meSP2zumz77) - huge chicken / veal toasted wraps for 250uah (€5), this could
+  easily feed 2 people, I left 1/3 of it.
+  This is a good budget choice.
+  Has wifi
+
 ### United Kingdom
 
 See [The UK Decline - What I Learnt on UK Tour 2024](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b) article for a tour of pictures of why you will not want to
