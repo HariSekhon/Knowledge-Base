@@ -183,6 +183,12 @@ Also, if you have my real number, please do not call it.
 Always message me on [LinkedIn](https://www.linkedin.com/in/HariSekhon) instead after reading my profile's summary
 bullet point criteria - it'll give you nearly everything you need to know about my availability and preferences.
 
+Extra Tip:
+I wrote a TamperMonkey script to convert `+tel:...` phone number links to WhatsApp clickable links on other people's web
+pages for convenience, you can find it here:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=TamperMonkey&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/TamperMonkey)
+
 ## Create Animated GIFs of Commands
 
 If you want to get fancy:
