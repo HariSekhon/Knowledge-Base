@@ -5963,9 +5963,11 @@ Not Recommended:
   you might want to save your money and just get a McDonalds or KFC if you want mediocre late night food.
   Has wifi
 - [True](https://maps.app.goo.gl/kcZq3CDoR3DRC4fQ9) - was gonna try their bean borscht soup and burger but the lazy
-  staff said they were going to close at 8:55pm on Thursday night when I arrived because they didn't have enough
-  customers, and when I tried agian at 8:20pm on Friday night they said they were going to close in half an hour and
-  refused to serve food. I wouldn't be surprised if this place doesn't make it with customer service like this
+  staff said they were about to close when I arrived at 8:55pm on Thursday night (despite opening hours until 10pm)
+  because they didn't have enough customers.
+  When I tried again at 8:20pm on Friday night they said they were going to close in half an hour and
+  refused to serve food, only drinks.
+  I wouldn't be surprised if this place doesn't make it with customer service like this
 
 ### United Kingdom
 
