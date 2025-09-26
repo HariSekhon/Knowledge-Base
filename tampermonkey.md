@@ -26,9 +26,9 @@ Browser extension to modify the behaviour of web pages using scripts.
 
 Click the TamperMonkey extension -> `Create New Script` and then paste in the script from below:
 
-### Tel to Whatsapp
+### Tel to WhatsApp
 
-Auto-converts `+tel:` links to Whatsapp clickable links for convenience on 3rd party websites.
+Auto-converts `+tel:` links to WhatsApp clickable links for convenience on 3rd party websites.
 
 [tel_to_whatsapp.js](https://github.com/HariSekhon/TamperMonkey/blob/main/tel_to_whatsapp.js)
 
