@@ -6,7 +6,7 @@ Browser extension to modify the behaviour of web pages using scripts.
 
 - [Install TamperMonkey](#install-tampermonkey)
 - [TamperMonkey Scripts](#tampermonkey-scripts)
-  - [Tel to Whatsapp](#tel-to-whatsapp)
+  - [Tel to WhatsApp](#tel-to-whatsapp)
   - [Jira Description Autofill](#jira-description-autofill)
 - [Script Sites](#script-sites)
   - [UserScript.Zone](#userscriptzone)
