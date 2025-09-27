@@ -5941,8 +5941,18 @@ TODO:
 
 #### Odessa
 
-<!-- Hostels in Odessa are substantially cheaper than in Kyiv -->
+<!--
 
+Hostels in Odessa are substantially cheaper than in Kyiv.
+
+The Friday hostel is cheap at €5 per night but they lock the door at 11pm
+and the reception guy is grumpy, doesn't want to make any allowance to get back later
+and the Friday wifi doesn't work in the lobby and the grumpy guy refuses to give the password for the other network
+Friday Management that works in the lobby.
+
+-->
+
+- []
 - [Mr. Chef](https://maps.app.goo.gl/GDWCS2meSP2zumz77) - huge chicken / veal toasted wraps for 250uah (€5), this could
   easily feed 2 people, I left 1/3 of it.
   This is a good budget choice.
