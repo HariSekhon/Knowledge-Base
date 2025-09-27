@@ -5952,7 +5952,11 @@ Friday Management that works in the lobby.
 
 -->
 
-- [Atelier. Food & Crafts](https://maps.app.goo.gl/D3we7E7fnWNrdTE3A) - good quality food and reasonable prices
+- [Atelier. Food & Crafts](https://maps.app.goo.gl/D3we7E7fnWNrdTE3A) - good quality food and reasonable prices.
+  I wanted to try the veal cheeks but they'd run out so I had the half chicken with roasted pepper sauce,
+  naan bread and iceberg lettuce and pickled red onion side salad, which was all better than expected.
+  The toasted sourdough bread with sun-dried tomato pesto was also better than expected as starter.
+  Has wifi
 - [Mr. Chef](https://maps.app.goo.gl/GDWCS2meSP2zumz77) - huge chicken / veal toasted wraps for 250uah (€5), this could
   easily feed 2 people, I left 1/3 of it.
   This is a good budget choice.
