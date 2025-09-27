@@ -5952,7 +5952,7 @@ Friday Management that works in the lobby.
 
 -->
 
-- []
+- [Atelier. Food & Crafts](https://maps.app.goo.gl/D3we7E7fnWNrdTE3A) - good quality food and reasonable prices
 - [Mr. Chef](https://maps.app.goo.gl/GDWCS2meSP2zumz77) - huge chicken / veal toasted wraps for 250uah (€5), this could
   easily feed 2 people, I left 1/3 of it.
   This is a good budget choice.
