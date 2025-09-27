@@ -5966,8 +5966,8 @@ Not Recommended:
 
 - ["Mick O'Neills" Gastro Pub](https://maps.app.goo.gl/Urgh32xEwvTfFMdo8) - expensive mediocre food, don't eat here.
   Popular socializing place with a pool table, this might be ok for a late night drink (up to 11pm!) but the food was
-  disappointing, especially for €10 per dish (at least the tourist places charging international prices have higher
-  quality).
+  disappointing, especially for €10 per dish (at least the other tourist places charging international prices have
+  higher quality).
   The Jack Daniel's burger had no Jack Daniel's taste, you will mistake it for a regular bland burger.
   Their excuse is they've fried a tiny amount of onions in it but even if you just eat those little pieces by themselves
   you can't taste the Jack Daniel's.
