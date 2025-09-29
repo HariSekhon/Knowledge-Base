@@ -6172,12 +6172,12 @@ and nobody can agree on a definitive top list, but here is a good start:
 - [Pho](https://www.phocafe.co.uk/) - vietnamese noodle soup chain, like the Vietnamese Wagamama. Summer rolls and Pho
   soup are the obvious picks here
 - [Zizzi](https://www.zizzi.co.uk/) - Italian restaurant chain - the Rustica pizzas are a good size here
-- [Franco Manca](https://www.francomanca.co.uk/) - I'm not big on this chain, but some people like it
 - [Browns](https://www.browns-restaurants.co.uk/#/) - moderately upmarket brasserie chain of british food
 - [Carluccio's](https://www.carluccios.com/) - mid-market Italian restaurant chain
 - [Rosas Thai](https://rosasthai.com/) - Thai restaurant chain, passable, but independent Thai places are better for
   both food and price / value for money though
 - [Dishoom](https://www.dishoom.com/) - modern Indian chain
+- [Franco Manca](https://www.francomanca.co.uk/) - I'm not big on this chain, but some people like it for pizza
 - [Banana Tree](https://bananatree.co.uk/) - south east asian chain
 - [Bone Daddies](https://bonedaddies.com/) - well rated and they highly rate their bone broth, I don't recall rating it
   as highly
