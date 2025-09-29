@@ -5954,7 +5954,7 @@ Friday Management that works in the lobby.
 
 - [Books Market](https://maps.app.goo.gl/AjzVkgrCh9iggpbJ6) - coffee shops and bars in a park strip
 - [Atelier. Food & Crafts](https://maps.app.goo.gl/D3we7E7fnWNrdTE3A) - good quality food and reasonable prices,
-  opposite Books Market
+  opposite Books Market.
   I wanted to try the veal cheeks but they'd run out so I had the half chicken with roasted pepper sauce,
   naan bread and iceberg lettuce and pickled red onion side salad, which was all better than expected.
   The toasted sourdough bread with sun-dried tomato pesto was also better than expected as starter.
