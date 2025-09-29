@@ -6000,6 +6000,7 @@ Not Recommended:
 
 TODO:
 
+- [Legend](https://maps.app.goo.gl/3h932pcS1mniT1ZA9) - 4.6 medievil restaurant, no recent online english menu
 - [Shiko](https://maps.app.goo.gl/3h932pcS1mniT1ZA9) - technically a dessert restaurant but also has a decent mains menu
   including pork medallions. The dessert menu is extensive
 - [Yourz Space Bistro](Yourz Space Bistro) - 4.8 but I couldn't find it
