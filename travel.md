@@ -5996,6 +5996,11 @@ Not Recommended:
   refused to serve food, only drinks.
   I wouldn't be surprised if this place doesn't make it with customer service like this
 
+TODO:
+
+- [Domashnii ochah](https://maps.app.goo.gl/uRjgQ9kCHiZ1FKKp7) - 4.6 but quite far south between central and malls
+  district where Arcadia Plaza and Gregarinn Plaza are
+
 ### United Kingdom
 
 See [The UK Decline - What I Learnt on UK Tour 2024](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b) article for a tour of pictures of why you will not want to
