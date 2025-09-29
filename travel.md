@@ -6000,7 +6000,8 @@ TODO:
 
 - [Uzbetsʹka Kukhnya](https://maps.app.goo.gl/h6vVoXEaMy4W9vP86) - 4.7 Ukbekh restaurant - good kebab oriented menu at
   reasonable prices
-- [Kachka](https://maps.app.goo.gl/6eBTUNnaNFcMn7XE7) - 4.6 Ukrainian, no online english menu
+- [Kachka](https://maps.app.goo.gl/6eBTUNnaNFcMn7XE7) - 4.6 Ukrainian, out east nearer the beaches,
+  no online english menu
 - [Ресторан Рибний Ряд](https://maps.app.goo.gl/aybTEpRvuPk3bzDc6) - 4.6 fish restaurant with excellent menu, can get
   expensive
 - [Мангал Премиум](Мангал Премиум) - 4.7 Armenian restaurant, no menu online
