@@ -6002,6 +6002,8 @@ Not Recommended:
 
 TODO:
 
+- [Ресторан Рибний Ряд](https://maps.app.goo.gl/aybTEpRvuPk3bzDc6) - 4.6 fish restaurant with excellent menu, can get
+  expensive
 - [Legend](https://maps.app.goo.gl/3h932pcS1mniT1ZA9) - 4.6 medievil restaurant, no recent online english menu
 - [Shiko](https://maps.app.goo.gl/3h932pcS1mniT1ZA9) - technically a dessert restaurant but also has a decent mains menu
   including pork medallions. The dessert menu is extensive
@@ -6012,8 +6014,6 @@ TODO:
   closes at 9pm though
 - [Kachka](https://maps.app.goo.gl/6eBTUNnaNFcMn7XE7) - 4.6 Ukrainian, out east nearer the beaches,
   no online english menu
-- [Ресторан Рибний Ряд](https://maps.app.goo.gl/aybTEpRvuPk3bzDc6) - 4.6 fish restaurant with excellent menu, can get
-  expensive
 - [Мангал Премиум](Мангал Премиум) - 4.7 Armenian restaurant, no menu online
 - [Mekhana](https://maps.app.goo.gl/d6mguirKH6Vhnog9A) - 4.5 Bulgarian restaurant - no recent online or english menu
 - [Domashnii ochah](https://maps.app.goo.gl/uRjgQ9kCHiZ1FKKp7) - 4.6 but quite far south between central and malls
