@@ -5957,6 +5957,14 @@ Friday Management that works in the lobby.
   naan bread and iceberg lettuce and pickled red onion side salad, which was all better than expected.
   The toasted sourdough bread with sun-dried tomato pesto was also better than expected as starter.
   Has wifi
+- [TREF cinema cafe](https://maps.app.goo.gl/gfSzVHk1SyfEujKy8) - spacious upmarket interior with nice bar area and huge
+  tv and two levels of indoor seating around a large internal dome balcony, as well as outdoor seating in the park. The
+  menu is decent and reasonably priced.
+  The borscht veal soup is smaller than other places but tasted good.
+  The "blue anchan" latte is a novelty here - a blue tea from flower buds of the herbaceous Liana Clitoria Ternatea.
+  The coconut-Parmesan is a cheese dessert with no added sugar on a thin chocolate biscuit base so not very sweet and
+  came in a blue rather than red dusting as pictured.
+  Has wifi
 - [Mr. Chef](https://maps.app.goo.gl/GDWCS2meSP2zumz77) - huge chicken / veal toasted wraps for 250uah (€5), this could
   easily feed 2 people, I left 1/3 of it.
   This is a good budget choice.
