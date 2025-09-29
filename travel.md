@@ -6000,6 +6000,8 @@ Not Recommended:
 
 TODO:
 
+- [Shiko](https://maps.app.goo.gl/3h932pcS1mniT1ZA9) - technically a dessert restaurant but also has a decent mains menu
+  including pork medallions. The dessert menu is extensive
 - [Yourz Space Bistro](Yourz Space Bistro) - 4.8 but I couldn't find it
 - [Uzbetsʹka Kukhnya](https://maps.app.goo.gl/h6vVoXEaMy4W9vP86) - 4.7 Ukbekh restaurant - good kebab oriented menu at
   reasonable prices
