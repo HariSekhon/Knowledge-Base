@@ -5998,8 +5998,11 @@ Not Recommended:
 
 TODO:
 
+- [Yourz Space Bistro](Yourz Space Bistro) - 4.8 but I couldn't find it
 - [Uzbetsʹka Kukhnya](https://maps.app.goo.gl/h6vVoXEaMy4W9vP86) - 4.7 Ukbekh restaurant - good kebab oriented menu at
   reasonable prices
+- [Restaurant 52](https://maps.app.goo.gl/nQnhBnrLiHbikDk47) - 4.6 hotel restaurant but prices seem reasonable,
+  closes at 9pm though
 - [Kachka](https://maps.app.goo.gl/6eBTUNnaNFcMn7XE7) - 4.6 Ukrainian, out east nearer the beaches,
   no online english menu
 - [Ресторан Рибний Ряд](https://maps.app.goo.gl/aybTEpRvuPk3bzDc6) - 4.6 fish restaurant with excellent menu, can get
@@ -6010,6 +6013,7 @@ TODO:
   district where Arcadia Plaza and Gregarinn Plaza are
 - [CityBUFFET "Витражъ"](https://maps.app.goo.gl/kbhwGrKE5yRFeXnd6) - 4.6 - no recent online or english menu, there are
   a couple of these, find out why they're popular
+- [Unit Cafe](https://maps.app.goo.gl/JhbyoiATV52XDxcBA)
 
 ### United Kingdom
 
