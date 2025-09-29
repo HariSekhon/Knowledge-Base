@@ -5958,8 +5958,8 @@ Friday Management that works in the lobby.
   The toasted sourdough bread with sun-dried tomato pesto was also better than expected as starter.
   Has wifi
 - [TREF cinema cafe](https://maps.app.goo.gl/gfSzVHk1SyfEujKy8) - spacious upmarket interior with nice bar area and huge
-  tv and two levels of indoor seating around a large internal dome balcony, as well as outdoor seating in the park. The
-  menu is decent and reasonably priced.
+  tv and two levels of indoor seating around a large internal dome balcony, as well as outdoor seating in the
+  Victory Arboretum park. The menu is decent and reasonably priced.
   The borscht veal soup is smaller than other places but tasted good.
   The "blue anchan" latte is a novelty here - a blue tea from flower buds of the herbaceous Liana Clitoria Ternatea.
   The coconut-Parmesan is a cheese dessert with no added sugar on a thin chocolate biscuit base so not very sweet and
@@ -5969,6 +5969,11 @@ Friday Management that works in the lobby.
   easily feed 2 people, I left 1/3 of it.
   This is a good budget choice.
   Has wifi
+- [Gagarinn Plaza](https://maps.app.goo.gl/kw7RooiVkpLfoD8S8) - probably the best mall they have in Odessa, but that's
+  not saying much - there is a sushi restaurant on the 3rd floor that I can't find on Google Maps which unfortunately
+  puts cream cheese in everything, but if you get just the salmon and tuna maki, it is decent
+- [Arcadia City](https://maps.app.goo.gl/hQ9UgT3UUbMXavaW7) - popular outdoor plaza with shops, restaurants & clubs, as
+  well plus an aquatic park & ice-skating rink, between Arcadia Beach and Garaginn Plaza mall
 
 Not Recommended:
 
