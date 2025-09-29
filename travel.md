@@ -5976,6 +5976,8 @@ Friday Management that works in the lobby.
   puts cream cheese in everything, but if you get just the salmon and tuna maki, it is decent
 - [Arcadia City](https://maps.app.goo.gl/hQ9UgT3UUbMXavaW7) - popular outdoor plaza with shops, restaurants & clubs, as
   well plus an aquatic park & ice-skating rink, between Arcadia Beach and Garaginn Plaza mall
+- [Level Karaoke Club](https://maps.app.goo.gl/oLKz9LrmNz9mkjZi8) - mostly locals, asks for reservation despite being
+  half empty, fussy at entrance, and no gym bro vests. Otherwise reasonably ok
 
 Not Recommended:
 
