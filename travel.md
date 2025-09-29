@@ -5998,8 +5998,17 @@ Not Recommended:
 
 TODO:
 
+- [Uzbetsʹka Kukhnya](https://maps.app.goo.gl/h6vVoXEaMy4W9vP86) - 4.7 Ukbekh restaurant - good kebab oriented menu at
+  reasonable prices
+- [Kachka](https://maps.app.goo.gl/6eBTUNnaNFcMn7XE7) - 4.6 Ukrainian, no online english menu
+- [Ресторан Рибний Ряд](https://maps.app.goo.gl/aybTEpRvuPk3bzDc6) - 4.6 fish restaurant with excellent menu, can get
+  expensive
+- [Мангал Премиум](Мангал Премиум) - 4.7 Armenian restaurant, no menu online
+- [Mekhana](https://maps.app.goo.gl/d6mguirKH6Vhnog9A) - 4.5 Bulgarian restaurant - no recent online or english menu
 - [Domashnii ochah](https://maps.app.goo.gl/uRjgQ9kCHiZ1FKKp7) - 4.6 but quite far south between central and malls
   district where Arcadia Plaza and Gregarinn Plaza are
+- [CityBUFFET "Витражъ"](https://maps.app.goo.gl/kbhwGrKE5yRFeXnd6) - 4.6 - no recent online or english menu, there are
+  a couple of these, find out why they're popular
 
 ### United Kingdom
 
