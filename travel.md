@@ -6168,19 +6168,19 @@ and nobody can agree on a definitive top list, but here is a good start:
 - [Roosters Peri Peri Chicken](https://www.roosterspiripiri.com/) - affordable peri peri chicken chain.
   Chicken wrap with fries and rice were my picks here
 - [Big Easy](https://www.bigeasy.co.uk/) - much better American BBQ than TGI Fridays
+- [Pizza Express](https://www.pizzaexpress.com/) - good quality upmarket pizza restaurant
 - [Pho](https://www.phocafe.co.uk/) - vietnamese noodle soup chain, like the Vietnamese Wagamama. Summer rolls and Pho
   soup are the obvious picks here
-- [Franco Manca](https://www.francomanca.co.uk/) - I'm not big on this chain, but some people might like it
+- [Zizzi](https://www.zizzi.co.uk/) - Italian restaurant chain - the Rustica pizzas are a good size here
+- [Franco Manca](https://www.francomanca.co.uk/) - I'm not big on this chain, but some people like it
 - [Browns](https://www.browns-restaurants.co.uk/#/) - moderately upmarket brasserie chain of british food
 - [Carluccio's](https://www.carluccios.com/) - mid-market Italian restaurant chain
-- [Zizzi](https://www.zizzi.co.uk/) - Italian restaurant chain - the Rustica pizzas are a good size here
 - [Rosas Thai](https://rosasthai.com/) - Thai restaurant chain, passable, but independent Thai places are better for
   both food and price / value for money though
 - [Dishoom](https://www.dishoom.com/) - modern Indian chain
 - [Banana Tree](https://bananatree.co.uk/) - south east asian chain
 - [Bone Daddies](https://bonedaddies.com/) - well rated and they highly rate their bone broth, I don't recall rating it
   as highly
-- [Pizza Express](https://www.pizzaexpress.com/) - good quality upmarket pizza restaurant
 
 More upmarket (expensive) restaurants:
 
