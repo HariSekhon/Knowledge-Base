@@ -5957,6 +5957,9 @@ Friday Management that works in the lobby.
   Closes at 9pm though.
   The best Ukrainian borscht soup I've had in Ukraine, medium sized, good flavour,
   served with sour cream and two small warm buns.
+  The chicken kebab was as bland as one would expect, although the pickled onions on the side were good.
+  I had a side of mash with it which while soft was too bland even for mash (my mash is far superior).
+  The chocolate cherry cake was well balanced though, not too sweet.
   Wifi 48/34 Mbit/s
 - [Atelier. Food & Crafts](https://maps.app.goo.gl/D3we7E7fnWNrdTE3A) - good quality food and reasonable prices,
   opposite Books Market.
