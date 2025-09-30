@@ -5952,7 +5952,12 @@ Friday Management that works in the lobby.
 
 -->
 
-- [Books Market](https://maps.app.goo.gl/AjzVkgrCh9iggpbJ6) - coffee shops and bars in a park strip
+- [Restaurant 52](https://maps.app.goo.gl/nQnhBnrLiHbikDk47) - upmarket hotel restaurant with lovely interior and a bar,
+  but prices seem surprisingly reasonable for a "hotel restaurant", as such as usually overpriced.
+  Closes at 9pm though.
+  The best Ukrainian borscht soup I've had in Ukraine, medium sized, good flavour,
+  served with sour cream and two small warm buns.
+  Wifi 48/34 Mbit/s
 - [Atelier. Food & Crafts](https://maps.app.goo.gl/D3we7E7fnWNrdTE3A) - good quality food and reasonable prices,
   opposite Books Market.
   I wanted to try the veal cheeks but they'd run out so I had the half chicken with roasted pepper sauce,
@@ -5974,14 +5979,14 @@ Friday Management that works in the lobby.
   The bean borscht soup is quite substantial and full of vegetables.
   The cossack style pork steak covered in tomato sauce was pretty decent and lean, with pickled red onions on the side.
   Has wifi
-- [Restaurant 52](https://maps.app.goo.gl/nQnhBnrLiHbikDk47) - upmarket hotel restaurant with lovely interior and a bar,
-  but prices seem surprisingly reasonable for a "hotel restaurant", as such as usually overpriced.
-  Closes at 9pm though.
-  Wifi 48/34 Mbit/s
 - [Mr. Chef](https://maps.app.goo.gl/GDWCS2meSP2zumz77) - huge chicken / veal toasted wraps for 250uah (€5), this could
   easily feed 2 people, I left 1/3 of it.
   This is a good budget choice.
   Has wifi
+
+<!-- -->
+
+- [Books Market](https://maps.app.goo.gl/AjzVkgrCh9iggpbJ6) - coffee shops and bars in a park strip
 - [Gagarinn Plaza](https://maps.app.goo.gl/kw7RooiVkpLfoD8S8) - probably the best mall they have in Odessa, but that's
   not saying much - there is a sushi restaurant on the 3rd floor that I can't find on Google Maps which unfortunately
   puts cream cheese in everything, but if you get just the salmon and tuna maki, it is decent
