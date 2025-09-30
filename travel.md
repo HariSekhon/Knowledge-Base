@@ -5968,12 +5968,12 @@ Friday Management that works in the lobby.
   came in a blue rather than red dusting as pictured.
   Has wifi
 - [True](https://maps.app.goo.gl/kcZq3CDoR3DRC4fQ9) - decent food but they often close much earlier than Google Maps
-    says - 10pm officially but twice I've been turned away at 8:55pm and then 8:20pm on Thursday and Friday nights due to
-    lack of customers they decided to close at 9pm and even half an hour before refused to serve food, only drinks -
-    perhaps because it is near the park and so gets more day time trade.
-    The bean borscht soup is quite substantial and full of vegetables.
-    The cossack style pork steak covered in tomato sauce was pretty decent and lean, with pickled red onions on the side.
-    Has wifi
+  says - 10pm officially but twice I've been turned away at 8:55pm and then 8:20pm on Thursday and Friday nights due to
+  lack of customers they decided to close at 9pm and even half an hour before refused to serve food, only drinks -
+  perhaps because it is near the park and so gets more day time trade.
+  The bean borscht soup is quite substantial and full of vegetables.
+  The cossack style pork steak covered in tomato sauce was pretty decent and lean, with pickled red onions on the side.
+  Has wifi
 - [Mr. Chef](https://maps.app.goo.gl/GDWCS2meSP2zumz77) - huge chicken / veal toasted wraps for 250uah (€5), this could
   easily feed 2 people, I left 1/3 of it.
   This is a good budget choice.
