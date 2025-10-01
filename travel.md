@@ -202,6 +202,10 @@ Updated regularly as I travel the world 52 weeks a year.
       - [Chinatown](#chinatown)
   - [Moldova](#moldova)
     - [Chisinau](#chisinau)
+      - [Chisinau Cash](#chisinau-cash)
+      - [Chisinau Taxis](#chisinau-taxis)
+      - [Chisinau Airport Bus](#chisinau-airport-bus)
+      - [Chisinau Restaurants](#chisinau-restaurants)
   - [Montenegro](#montenegro)
     - [Driving in Montenegro](#driving-in-montenegro)
     - [Podgorica](#podgorica)
@@ -3566,7 +3570,6 @@ I handed him the 110 MDL cash I had in hand and left before he could complain an
 
 I ended up taking the Number 30 bus to the centre instead which was easy (again cash only, thanks to a good samaritan
 because I made the mistake of not withdrawing cash before leaving the airport the first time).
-
 
 ##### Chisinau Restaurants
 
