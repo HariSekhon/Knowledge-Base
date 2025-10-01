@@ -3530,18 +3530,45 @@ Luxembourg
 
 #### Chisinau
 
+##### Chisinau Cash
+
+Some of these less developed countries like Moldova and Morocco demand cash usage (probably to evade taxes).
+
 You'll need to withdraw local currency before you leave the airport.
 
-There were hardly any taxis outside the airport and lots of people waiting around for them.
+##### Chisinau Taxis
 
-The wall said 150-200 Moldovan Leu to the centre but when taxi drivers finally showed up they started quoting me
-300-400 and cash only.
+Do not use the Airport Taxis.
+
+The first time I went to Chisinau there were hardly any taxis outside the airport and lots of people waiting around for
+them.
+
+The wall had written that taxis should be 150-200 Moldovan Leu (MDL) to the centre but when taxi drivers finally showed up
+they started quoting me 300-400 and cash only.
 
 After my experience in Turkey and this I have started to dislike how taxi drivers are taking tourists for mugs.
 
+Use Taxi apps instead:
+
+- [Yandex Go](https://go.yandex/) - a bit pricier than Car Go but seems to have more drivers
+- [Letz]() - more expensive than Yandex go
+- []
+
+Even when using Yandex Go, I was in a rush and decided to just accept the "Pay by Cash" option in the app.
+
+This was probably a mistake.
+
+I booked a taxi for 106 MDL to the airport, but the taxi driver immediately ended the app journey at 30 MDL as soon as
+we started, and then tried metering me to the airport for 180 MDL instead.
+I handed him the 110 MDL cash I had in hand and left before he could complain and try to scam me.
+
+##### Chisinau Airport Bus
+
 I ended up taking the Number 30 bus to the centre instead which was easy (again cash only, thanks to a good samaritan
-because I made the mistake of not withdrawing cash before leaving the airport).
-Some of these less developed countries like Moldova and Morocco demand cash usage (probably to evade taxes).
+because I made the mistake of not withdrawing cash before leaving the airport the first time).
+
+
+##### Chisinau Restaurants
 
 - [La Placinte](https://maps.app.goo.gl/6yVUsipRBWWSfpBp8) - affordable but good quality chain restaurant, there are
   several of them you don't have to go to this location
@@ -5688,19 +5715,25 @@ local bank or cash payment.
 ### Ukraine
 
 Ukraine is not really a tourist destination, even outside of the war,
-as it lacks attractions,
-centralization, good quality restaurants & diversity of cuisine,
+as it lacks attractions, centralization, good quality restaurants & diversity of cuisine,
 or even much in the way of tourist accommodation compared to other European countries.
 
-There are decent restaurants, as with everywhere, if you look a bit harder and are willing to spend.
+There are some decent restaurants, as with everywhere, if you look a bit harder and are willing to spend.
 
-Many of the restaurants use the same choiceqr.com and expz.menu websites for their menus which often fails to translate
+Many of the restaurants use the same `choiceqr.com` and `expz.menu` websites for their menus which often fails to translate
 substantial parts of the menu when selecting English, or crash with a server side application error when trying to
 expand the menu ingredients of a dish.
-This happens even to some of my favourite restaurants in Kyiv and Lviv.
+This happens even to some of my favourite restaurants in Kyiv / Lviv / Odessa.
 
 Even worse, many places lack English entirely and don't even have English menus,
 including even the massive Lviv Croissants chain on the main Khreschatyk St in Kyiv.
+
+The weather in Odessa was so bad by the end of September that I cancelled my return to Ukraine and just took the losses
+on my bookings.
+Hours of heavy downpour and the streets were flooded there was no way to cross roads
+without going ankle deep and soaking your shoes and lower trousers.
+I was soaked, cold and dripping top to bottom even with an umbrella.
+It's rare to see such aggressive rains in other parts of the world, and their lack of adqueate
 
 There are hundreds of destinations in Europe that would be ahead of Ukraine to visit as a tourist.
 
