@@ -3555,8 +3555,8 @@ After my experience in Turkey and this I have started to dislike how taxi driver
 Use Taxi apps instead:
 
 - [Yandex Go](https://go.yandex/) - a bit pricier than Car Go but seems to have more drivers
-- [Letz]() - more expensive than Yandex go
-- []
+- [Letz](https://letz.md/) - more expensive than Yandex go
+- [Uklon](https://uklon.com.ua/en/) - didn't receive the SMS verification code to sign up so couldn't try it
 
 Even when using Yandex Go, I was in a rush and decided to just accept the "Pay by Cash" option in the app.
 
@@ -3569,7 +3569,11 @@ I handed him the 110 MDL cash I had in hand and left before he could complain an
 ##### Chisinau Airport Bus
 
 I ended up taking the Number 30 bus to the centre instead which was easy (again cash only, thanks to a good samaritan
-because I made the mistake of not withdrawing cash before leaving the airport the first time).
+the first time because I made the mistake of not withdrawing cash before leaving the airport the first time).
+
+The second time they had added card reading machines but they weren't working so I still needed cash.
+
+It only costs 6 MDL ()
 
 ##### Chisinau Restaurants
 
