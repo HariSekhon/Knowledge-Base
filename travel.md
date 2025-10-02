@@ -3580,7 +3580,11 @@ the first time because I made the mistake of not withdrawing cash before leaving
 The second time I went to Chisinau I just ignored the taxi drivers and took the bus again.
 The bus had since added card reading machines but they weren't working so I still needed cash.
 
-It only costs 6 MDL (€0.30) for a ticket, perhaps 12 MDL (€0.60) if you have a suitcase.
+The bus ride to Chisinau centre from the airport only costs 6 MDL (€0.30), which is almost free, although
+you might have to pay 12 MDL (€0.60) to include your suitcase (or the price went up vs what Google Maps reported).
+
+Some European countries like Czechia's Prague metro charges for luggage and the conductor charged me 12 MDL but it was
+such a tiny amount I didn't bother to ask if this was for the luggage.
 
 ##### Chisinau Restaurants
 
