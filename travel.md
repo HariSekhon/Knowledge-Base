@@ -3554,16 +3554,17 @@ After my experience in Turkey and this I have started to dislike how taxi driver
 
 Use Taxi apps instead:
 
-- [Yandex Go](https://go.yandex/) - a bit pricier than Car Go but seems to have more drivers
+- [Yandex Go](https://go.yandex/) - this is the best one I've tried in Moldova
 - [Letz](https://letz.md/) - more expensive than Yandex go
 - [Uklon](https://uklon.com.ua/en/) - didn't receive the SMS verification code to sign up so couldn't try it
 
-Even when using Yandex Go, I was in a rush and decided to just accept the "Pay by Cash" option in the app.
+Even when using Yandex Go to get to the airport in time, I was in a rush and decided to just accept the "Pay by Cash"
+option in the app.
 
 This was probably a mistake.
 
-I booked a taxi for 106 MDL to the airport, but the taxi driver immediately ended the app journey at 30 MDL as soon as
-we started, and then tried metering me to the airport for 180 MDL instead.
+I booked a taxi for 106 MDL (€5.50) to the airport, but the taxi driver immediately ended the app journey at 30 MDL as
+soon as we started, and then tried metering me to the airport for 180 MDL instead.
 I handed him the 110 MDL cash I had in hand and left before he could complain and try to scam me.
 
 ##### Chisinau Airport Bus
