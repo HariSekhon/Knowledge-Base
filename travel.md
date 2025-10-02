@@ -3547,8 +3547,8 @@ Do not use the Airport Taxis.
 The first time I went to Chisinau there were hardly any taxis outside the airport and lots of people waiting around for
 them.
 
-The wall had written that taxis should be 150-200 Moldovan Leu (MDL) to the centre but when taxi drivers finally showed up
-they started quoting me 300-400 and cash only.
+The wall had written that taxis should be 150-200 MDL (Moldovan Leu - about €7-10) to the centre but when taxi drivers finally showed up
+they started quoting me 300-400 (€15 - €20) and cash only.
 
 After my experience in Turkey and this I have started to dislike how taxi drivers are taking tourists for mugs.
 
