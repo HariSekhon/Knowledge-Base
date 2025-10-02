@@ -3573,10 +3573,12 @@ without consent.
 
 ##### Chisinau Airport Bus
 
+The first time the airport taxi drivers blatently tried to charge me double what the wall said the rate was
 I ended up taking the Number 30 bus to the centre instead which was easy (again cash only, thanks to a good samaritan
 the first time because I made the mistake of not withdrawing cash before leaving the airport the first time).
 
-The second time they had added card reading machines but they weren't working so I still needed cash.
+The second time I went to Chisinau I just ignored the taxi drivers and took the bus again.
+The bus had since added card reading machines but they weren't working so I still needed cash.
 
 It only costs 6 MDL (€0.30) for a ticket, perhaps 12 MDL (€0.60) if you have a suitcase.
 
