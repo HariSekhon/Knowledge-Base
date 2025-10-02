@@ -3573,7 +3573,7 @@ the first time because I made the mistake of not withdrawing cash before leaving
 
 The second time they had added card reading machines but they weren't working so I still needed cash.
 
-It only costs 6 MDL ()
+It only costs 6 MDL (€0.30) for a ticket, perhaps 12 MDL (€0.60) if you have a suitcase.
 
 ##### Chisinau Restaurants
 
