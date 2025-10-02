@@ -3566,6 +3566,9 @@ This was probably a mistake.
 I booked a taxi for 106 MDL (€5.50) to the airport, but the taxi driver immediately ended the app journey at 30 MDL as
 soon as we started, and then tried metering me to the airport for 180 MDL instead.
 I handed him the 110 MDL cash I had in hand and left before he could complain and try to scam me.
+It's actually not about the money, it's about the insult and dishonesty.
+In many other countries we pay more than this for a taxi, but we agree the price up front and it doesn't double on you
+without consent.
 
 ##### Chisinau Airport Bus
 
