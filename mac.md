@@ -16,7 +16,6 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [WARNING: Battery Life](#warning-battery-life)
   - [Mac battery runs hotter during charging](#mac-battery-runs-hotter-during-charging)
   - [Do not let your Macbook Pro get hot it will destroy the battery!!](#do-not-let-your-macbook-pro-get-hot-it-will-destroy-the-battery)
-  - [Do Not Charge Through USB Port](#do-not-charge-through-usb-port)
   - [Performance Falls through the floor on last 5-10% of battery life](#performance-falls-through-the-floor-on-last-5-10-of-battery-life)
 - [Terminal](#terminal)
 - [Homebrew - Package Management](#homebrew---package-management)
@@ -137,10 +136,15 @@ down to 79%.
 
 ![Battery Health 85%](images/battery_health_85%25.png)
 
+<!-- Seems to be fine now
+that I've had to fall back to doing this after magsafe cable got wet in heavy rains and is not working
+
 ### Do Not Charge Through USB Port
 
 Charging through the USB port off a portable power bank also seemed
 to heat up the machine and deteriorate the battery by another couple percent after just half an hour.
+
+-->
 
 ### Performance Falls through the floor on last 5-10% of battery life
 
