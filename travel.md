@@ -6371,7 +6371,7 @@ Not Recommended:
 - [Cote](https://www.cote.co.uk/) - didn't like their chicken, for the price you can eat a lot of better places. I don't
   get the appeal or niche of this chain
 - [Yo Sushi](https://yosushi.com/) - it used to be a lot better, I used to go often, now it doesn't seem worth the
-  price.
+  price, especially as they removed a the seafood udon soup which was one of their best dishes
 - [Itsu](https://www.itsu.com/) - mediocre Japanese chain, don't bland yourself to death
   It's not terrible, it's just that you could eat better or for less elsewhere now
 - [TGI Fridays](https://www.tgifridays.co.uk/) - mediocre American chain.
