@@ -6253,6 +6253,9 @@ and nobody can agree on a definitive top list, but here is a good start:
   I used to like the steak and chicken mains, but it looks like they don't do them any more.
   I particularly like the Horchata sweet milk drink with cinnamon
 - [Busaba](https://www.busaba.com/) - Thai chain, nice decor and food, portions and drinks not too big but nice
+- [Joe & The Juice](https://www.joejuice.com/) - danish juice chain, good selection of fresh pressed juices, expensive,
+  but we pay it so they are everywhere - I like the "Sports Juice" here, pineapple based juice with passion fruit and
+  apple, as well as the classic "Go Away Doc" of apple, carrot and ginger
 - [Burger & Lobster](https://www.burgerandlobster.com/) - their original gimmick was they used to price both their
   lobster and their burger at a flat £20, making it an expensive burger or an affordable lobster.
   Unfortunately, the lobster is now £40
@@ -6284,6 +6287,25 @@ and nobody can agree on a definitive top list, but here is a good start:
 - [Bone Daddies](https://bonedaddies.com/) - well rated and they highly rate their bone broth, I don't recall rating it
   as highly
 
+<!-- -->
+
+<!--
+
+- ~~Ichi Rikki~~ - great Japanese sushi restaurant with an excellent udon noodle soup, authentic and well priced, and
+  their soft-shelled crab was good too.
+  Shame it's permanently closed down.
+  Damn London rents and unproductive fatcat landlords
+
+-->
+
+<!-- -->
+
+- [Marks & Spencer](https://www.google.com/maps/search/marks+%26+spencer/) - not a restaurant but useful for picnic
+  foods and belgian chocolate covered peanuts, which I used to be addicted to, and still buy a couple bags when in
+  town...
+
+<!-- Purl - my first date with Gemma - saved it only for her - shame it's closed down now -->
+
 More upmarket (expensive) restaurants:
 
 - [Dinner by Heston Blumenthal](https://maps.app.goo.gl/dpiPUpg9QDXEt47VA) - creative menu, unique
@@ -6312,10 +6334,12 @@ See also:
 
 TODO:
 
+- [Nostimo Mediterranean Gastronomy](https://maps.app.goo.gl/wmPzKGdA1TtJG5Pq5) - Greek
 - [The Original Ivy, West End](https://maps.app.goo.gl/cMGmGuMNARRFaTry9) - I've been to the branches but not this
   original venue
-- [Fig & Walnut Kitchen](https://maps.app.goo.gl/2SpF2XRoJPS13AEL7)
-- [Mine Mane](https://maps.app.goo.gl/h5PvQnuSFWiC7YBN9) - Greek
+- [Fig & Walnut Kitchen](https://maps.app.goo.gl/2SpF2XRoJPS13AEL7) - 4.8 Turkish
+- [Sky Garden](https://maps.app.goo.gl/WWN3s9MnehkyrQXG6)
+- [The Shard](https://maps.app.goo.gl/HxMg5JJPu25vSuyB6)
 - [SushiSamba](https://maps.app.goo.gl/XaZpQ5ezdu7E9nrv9) - friends & colleagues were telling me about this for years
   but I never got round to going. Highly rated but expensive
 - [Nobu London (Old Park Lane)](https://maps.app.goo.gl/ASnEAirLSpzotzyE6) - I never went because my first exe hated
@@ -6323,8 +6347,8 @@ TODO:
 - [Fogo De Chao](https://fogodechao.com/) - Brazilian steakhouse
 - [The Clove Club](https://maps.app.goo.gl/mi6hUwqfkkifDnqj8) - modern British
 - [Fallow](https://maps.app.goo.gl/Q5vKLsQKkTSmB9NR7) - modern British
+- [Mine Mane](https://maps.app.goo.gl/h5PvQnuSFWiC7YBN9) - Greek
 - [OMA](https://maps.app.goo.gl/EKaNqoC77BX5o7Ne6) - Greek
-- [Nostimo Mediterranean Gastronomy](https://maps.app.goo.gl/wmPzKGdA1TtJG5Pq5) - Greek
 - [Blacklock Soho](https://maps.app.goo.gl/qM2AKeMprvKKWyHE6)
 - [Shack-Fuyu Soho](https://maps.app.goo.gl/QPRv8HbSLTDqobE26)
 - [Doppo](https://maps.app.goo.gl/oqhjQYpxQZhy6Psw7)
