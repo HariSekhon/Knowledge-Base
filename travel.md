@@ -5479,7 +5479,7 @@ which is extremely expensive by local standards of earnings.
 
 #### Hergla
 
-Small quiet town, the restaurants are closed by 10pm.
+Small quiet seaside town, the beach line isn't developed though and the restaurants are closed by 10pm.
 
 - [Kmayra coffee shop](https://maps.app.goo.gl/xZohTKWjjKzY3XiV8) - very nice gentrified coffee shop, open late to
   midnight.
