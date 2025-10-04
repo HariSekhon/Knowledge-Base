@@ -5460,6 +5460,37 @@ at boarding time.
 
 -->
 
+### Tunisia
+
+This is really a 3rd world country.
+
+I think this is the sort of place people go on package holidays to a resort and then leave.
+
+#### Taxis in Tunisia
+
+The taxi drivers will rip you off worse than most countries.
+
+Not only will they massively overcharge you,
+they have tricks to rack up the meters by pushing a button when you're not looking to jack up the price,
+as we were warned by locals.
+
+Take a louage (pronounced loo-ah-zh) minibus instead for like 1-2 dinars instead of 20 - 70 dinars for a taxi,
+which is extremely expensive by local standards of earnings.
+
+#### Hergla
+
+Small quiet town, the restaurants are closed by 10pm.
+
+- [Kmayra coffee shop](https://maps.app.goo.gl/xZohTKWjjKzY3XiV8) - very nice gentrified coffee shop, open late to
+  midnight.
+  Very good drinks menu, including a variety of coffees, smoothies, milkshakes, even matcha, all around 9-10 dinars
+  each (€3).
+  They sell sushi from morning until 4pm, and have a selection of cakes and cookies too.
+  A cookie for 8 dinars (€2.50) is expensive by local standards given you can get a proper food grilled chicken wrap
+  around the corner for the same price
+- [Banque de Tunisie](https://maps.app.goo.gl/ncX86WWf1RYYPiQX6) - ATM worked but had a withdrawal limit of 300 dinars,
+  not enough to pay for 2 nights of my overpriced hotel room, with no option to withdraw more via any free form amount
+
 ### Turkey
 
 Inflation and rent prices make this not a good value for money destination.
