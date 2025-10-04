@@ -6272,6 +6272,11 @@ and nobody can agree on a definitive top list, but here is a good start:
   because nearly all the sauces are more spicy than you would have at another restaurant
 - [Roosters Peri Peri Chicken](https://www.roosterspiripiri.com/) - affordable peri peri chicken chain.
   Chicken wrap with fries and rice were my picks here
+- [Nostimo Mediterranean Gastronomy](https://maps.app.goo.gl/wmPzKGdA1TtJG5Pq5) - Greek, good quality, had the skewer
+  plates which are good and come with major meats, chicken, pork, beef or lamb.
+  The top 3 desserts on the menu were all good (Ekmek Kataifi, Portokalopita, Galaktompoureko).
+  The bill racks up quicker than you'd expect here, and is not £10-20 as Google Maps suggests as the three of us blew
+  nearly £50 per head without alcohol, which was a little pricey
 - [Big Easy](https://www.bigeasy.co.uk/) - much better American BBQ than TGI Fridays
 - [Pizza Express](https://www.pizzaexpress.com/) - good quality upmarket pizza restaurant
 - [Pho](https://www.phocafe.co.uk/) - vietnamese noodle soup chain, like the Vietnamese Wagamama. Summer rolls and Pho
@@ -6334,7 +6339,6 @@ See also:
 
 TODO:
 
-- [Nostimo Mediterranean Gastronomy](https://maps.app.goo.gl/wmPzKGdA1TtJG5Pq5) - Greek
 - [The Original Ivy, West End](https://maps.app.goo.gl/cMGmGuMNARRFaTry9) - I've been to the branches but not this
   original venue
 - [Fig & Walnut Kitchen](https://maps.app.goo.gl/2SpF2XRoJPS13AEL7) - 4.8 Turkish
