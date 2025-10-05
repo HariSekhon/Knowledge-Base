@@ -5479,6 +5479,9 @@ which is extremely expensive by local standards of earnings.
 
 #### Sousse
 
+- Sousse Palace has is a nice hotel with a good swimming pool and lounge deck area, and was full of Brits.
+  Unfortunately the sky lounges didn't have fresh squeezed orange juice
+  and their prices were very high by Tunisian standards
 
 #### Hergla
 
