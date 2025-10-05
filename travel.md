@@ -5470,9 +5470,12 @@ This is the sort of place people go on package holidays to a resort with managed
 
 The taxi drivers will rip you off worse than most countries.
 
-Not only will they massively overcharge you,
+Not only will they overcharge you,
 they have tricks to rack up the meters by pushing a button when you're not looking to jack up the price,
 as we were warned by locals.
+
+- [InDrive](https://indrive.com/) - taxi app where you make offers for the trip and wait for drivers to accept, but
+  drivers were not accepting the recommended amount
 
 Take a louage (pronounced loo-ah-zh) minibus instead for like 1-2 dinars instead of 20 - 70 dinars for a taxi,
 which is extremely expensive by local standards of earnings.
