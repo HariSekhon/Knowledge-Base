@@ -5487,6 +5487,9 @@ which is extremely expensive by local standards of earnings.
 
 Small quiet one-donkey seaside town, the beach line isn't developed though and the restaurants are closed by 9-10pm.
 
+<!-- Dar Yessine Boutique Hôtel I thought was expensive for what it was in this location, despite the rooms being nice,
+but then Sousse Palace was significantly more -->
+
 - [Kmayra coffee shop](https://maps.app.goo.gl/xZohTKWjjKzY3XiV8) - very nice gentrified coffee shop, open late to
   midnight.
   Very good drinks menu, including a variety of coffees, smoothies, milkshakes, even matcha, all around 9-10 dinars
