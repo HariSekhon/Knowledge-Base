@@ -5471,7 +5471,7 @@ at boarding time.
 
 This is really a 3rd world country.
 
-This is the sort of place people go on package holidays to a resort with managed holidays.
+It's the sort of place people go on package holidays to a resort with managed holidays.
 
 Most people do not speak English -
 as it is a former French colony it is more common for their second language to be french.
