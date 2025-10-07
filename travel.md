@@ -5544,9 +5544,18 @@ TODO:
 
 #### Sousse
 
+- [Restaurant Café Seles](https://maps.app.goo.gl/V6EzqB2xbRWbyHuw6) - top rated Tunisian food with moderate prices.
+  The Couscous Royal has a mix of three meats, and is well complimented by a fish tagine.
+  The harissa is home made and probably the most standout thing, I ate way too much bread because of their harissa
+- [Fleur d'orient](https://maps.app.goo.gl/3euGNQXPsyyWX9xW9) - good chicken skewer plate served with chips and salad,
+  as well as complimentary bread and dips
 - [Sousse Palace Hotel & Spa](https://maps.app.goo.gl/XaeDomMFJ1A3WooY8) has is a nice hotel with a good swimming pool
   and lounge deck area, and was full of Brits. Unfortunately the sky lounges didn't have fresh squeezed orange juice
   and their prices were very high by Tunisian standards
+
+TODO:
+
+- [Restaurant du Peuple](https://maps.app.goo.gl/CUYgdBwLWAth25q97)
 
 #### Hergla
 
