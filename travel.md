@@ -5554,7 +5554,11 @@ TODO:
 
 #### Sousse
 
-- [Restaurant Café Seles](https://maps.app.goo.gl/V6EzqB2xbRWbyHuw6) - top rated Tunisian food with moderate prices.
+- [Kasbah Citadel](https://maps.app.goo.gl/t6DfLJEsWuFqkxsz5) - the main historical landmark. Unfortunately they don't
+  have planning permission so there is a mish-mash of modern buildings of different heights inside it
+- [Great Mosque of Sousse](Great Mosque of Sousse) - nice historic architecture
+- [Restaurant Café Seles](https://maps.app.goo.gl/V6EzqB2xbRWbyHuw6) - top rated Tunisian food with moderate prices,
+  within the Kasbah Citadel.
   The Couscous Royal has a mix of three meats, and is well complimented by a fish tagine.
   The harissa is home made and probably the most standout thing, I ate way too much bread because of their harissa
 - [Fleur d'orient](https://maps.app.goo.gl/3euGNQXPsyyWX9xW9) - decent menu, reasonable prices.
