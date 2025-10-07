@@ -303,6 +303,7 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Travelling from Sousse to Tunis](#travelling-from-sousse-to-tunis)
     - [Tunis](#tunis)
     - [Sousse](#sousse)
+    - [Hammam Sousse](#hammam-sousse)
     - [Hergla](#hergla)
   - [Turkey](#turkey)
     - [Antalya Airport](#antalya-airport)
