@@ -300,7 +300,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Tunisia](#tunisia)
     - [Taxis in Tunisia](#taxis-in-tunisia)
     - [Minibuses in Tunisia (Louage)](#minibuses-in-tunisia-louage)
-    - [Louage - Sousse to Tunis](#louage---sousse-to-tunis)
+    - [Travelling from Sousse to Tunis](#travelling-from-sousse-to-tunis)
     - [Tunis](#tunis)
     - [Sousse](#sousse)
     - [Hergla](#hergla)
@@ -5494,7 +5494,7 @@ as we were warned by locals.
 Take a louage (pronounced loo-ah-zh) minibus instead for like 1-2 dinars instead of 20 - 70 dinars for a taxi,
 which is extremely expensive by local standards of earnings.
 
-#### Louage - Sousse to Tunis
+#### Travelling from Sousse to Tunis
 
 To get to Tunis from Sousse we had to first louage into Sousse, then taxi to
 [Louage Station Taffala Sousse](https://maps.app.goo.gl/RAKTuw8RFL4AFYRS7) (using InDrive app above), and then
