@@ -297,6 +297,12 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Pattaya](#pattaya)
       - [Travel Between Bangkok and Pattaya](#travel-between-bangkok-and-pattaya)
       - [Restaurants, Bars & Clubs in Pattaya](#restaurants-bars--clubs-in-pattaya)
+  - [Tunisia](#tunisia)
+    - [Taxis in Tunisia](#taxis-in-tunisia)
+    - [Minibuses in Tunisia (Louage)](#minibuses-in-tunisia-louage)
+    - [Tunis](#tunis)
+    - [Sousse](#sousse)
+    - [Hergla](#hergla)
   - [Turkey](#turkey)
     - [Antalya Airport](#antalya-airport)
     - [Istanbul](#istanbul)
@@ -5477,8 +5483,25 @@ as we were warned by locals.
 - [InDrive](https://indrive.com/) - taxi app where you make offers for the trip and wait for drivers to accept, but
   drivers were not accepting the recommended amount
 
+#### Minibuses in Tunisia (Louage)
+
 Take a louage (pronounced loo-ah-zh) minibus instead for like 1-2 dinars instead of 20 - 70 dinars for a taxi,
 which is extremely expensive by local standards of earnings.
+
+#### Tunis
+
+Tunis is probably one of the most undeveloped capitals you'll see, really not a tourist destination.
+
+The centre of Tunis doesn't have much going on compared to other capitals around the world.
+
+- [Medina](https://maps.app.goo.gl/dmtGMDsMNfw6wVeL8) - the historical centre and bazaar,
+  but the bazaar is dead and creepy by nightfall
+- [Ville Nouvelle](https://maps.app.goo.gl/P9aoY7wAhUuZqEaV9) - Habib Bourguiba Avenue is the city’s main boulevard,
+  tree-lined central walkway and a couple grand colonial-era buildings like the art nouveau Municipal Theatre and ornate
+  Cathedral of St. Vincent de Paul -
+  this is where you will some find coffee shops and eateries but nothing to write home about.
+  The highest rated restaurant I would find, Com Art Restaurant, was completely dead in the evening,
+  so we went elsewhere
 
 #### Sousse
 
