@@ -5517,7 +5517,8 @@ Tunis is probably one of the most undeveloped capitals you'll see, really not a 
 
 The centre of Tunis doesn't have much going on compared to other capitals around the world.
 
-- [Carthage](https://maps.app.goo.gl/LmAM59xqVSucoHAx8) - the historical site of the rival to Rome
+- [Carthage](https://maps.app.goo.gl/LmAM59xqVSucoHAx8) - the historical site of the rival empire to Rome, of Hannibal
+  fame
 - [Ville Nouvelle](https://maps.app.goo.gl/P9aoY7wAhUuZqEaV9) - Habib Bourguiba Avenue is the city’s main boulevard,
   tree-lined central walkway and a couple grand colonial-era buildings like the art nouveau Municipal Theatre and ornate
   Cathedral of St. Vincent de Paul -
