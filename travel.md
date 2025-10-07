@@ -300,6 +300,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Tunisia](#tunisia)
     - [Taxis in Tunisia](#taxis-in-tunisia)
     - [Minibuses in Tunisia (Louage)](#minibuses-in-tunisia-louage)
+    - [Louage - Sousse to Tunis](#louage---sousse-to-tunis)
     - [Tunis](#tunis)
     - [Sousse](#sousse)
     - [Hergla](#hergla)
@@ -5480,13 +5481,24 @@ Not only will they overcharge you,
 they have tricks to rack up the meters by pushing a button when you're not looking to jack up the price,
 as we were warned by locals.
 
-- [InDrive](https://indrive.com/) - taxi app where you make offers for the trip and wait for drivers to accept, but
-  drivers were not accepting the recommended amount
+- [InDrive](https://indrive.com/) - taxi app where you make offers for the trip and wait for drivers to send you their
+  offers to accept - very much like the app version of haggling!
+  This works in the big cities like Tunis and Sousse, but there was no drivers in the smaller town of Hergla, so we
+  had to take louage to Sousse,
+  and once in Sousse, taxi drivers were not willing to drive us to Tunis, we again had to find a louage.
+  Often the InDrive amount is actually more than the meter in the taxi would have charged, but that's assuming the taxi
+  driver hasn't set the wrong rate to overcharge you, so it's safer to just have the price capped and agreed up front
 
 #### Minibuses in Tunisia (Louage)
 
 Take a louage (pronounced loo-ah-zh) minibus instead for like 1-2 dinars instead of 20 - 70 dinars for a taxi,
 which is extremely expensive by local standards of earnings.
+
+#### Louage - Sousse to Tunis
+
+To get to Tunis from Sousse we had to first louage into Sousse, then taxi to
+[Louage Station Taffala Sousse](https://maps.app.goo.gl/RAKTuw8RFL4AFYRS7) (using InDrive app above), and then
+take a minibus with a red strip for 14 dinars each, plus a few dinars for luggage, which takes around 2 hours.
 
 #### Tunis
 
