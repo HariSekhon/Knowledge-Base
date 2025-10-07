@@ -5575,10 +5575,12 @@ TODO:
 
 TODO:
 
+- [Patisserie cherif by bouraoui](https://maps.app.goo.gl/8vV9WU7neJzMVnVP6)
 - [Restaurant du Peuple](https://maps.app.goo.gl/CUYgdBwLWAth25q97)
 - [Restaurant Dar el Habib](https://maps.app.goo.gl/ofye5nNXFE5UmprQ9)
 - [Restaurant EL SOFFRA Chez Fredj](https://maps.app.goo.gl/Re7gisZBa94ga7WFA)
 - [Restaurant café Dar Amna](https://maps.app.goo.gl/LjgFpA4PSUjjdq5J8)
+- [Mall of Sousse](https://maps.app.goo.gl/yNnqKj7ynbZEuAQf7)
 
 #### Hergla
 
