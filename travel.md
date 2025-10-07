@@ -5474,7 +5474,7 @@ This is really a 3rd world country.
 It's the sort of place people go on package holidays to a resort with managed holidays.
 
 Most people do not speak English -
-as it is a former French colony it is more common for their second language to be french.
+as it's a former French colony it's more common for their second language to be french, even on menus.
 
 Restaurant staff are not careful with people's allergies as they gave my friend a banana juice based on milk
 despite being warned that he is lactose intolerant.
