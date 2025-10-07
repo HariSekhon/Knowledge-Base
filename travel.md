@@ -5582,6 +5582,15 @@ TODO:
 - [Restaurant café Dar Amna](https://maps.app.goo.gl/LjgFpA4PSUjjdq5J8)
 - [Mall of Sousse](https://maps.app.goo.gl/yNnqKj7ynbZEuAQf7)
 
+#### Hammam Sousse
+
+Medium sized coastal town, this is where people come for nightlife to the amusement park of the club.
+
+- [Bar Golf Bräu](https://maps.app.goo.gl/P4K9AQjvFrgUP5LZ9) - requires reservation, mainly couples who go there
+- [Platinum Metalika Sousse](https://maps.app.goo.gl/yXdBF2RCjPYSTx2x5) -
+  don't bother, overpriced nightclub at 40 dinars entry per person (€12) - which is outrageous by local standards -
+  and it's all guys who go there
+
 #### Hergla
 
 Small quiet one-donkey seaside town, the beach line isn't developed though and the restaurants are closed by 9-10pm.
