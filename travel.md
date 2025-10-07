@@ -5502,6 +5502,8 @@ The centre of Tunis doesn't have much going on compared to other capitals around
   this is where you will some find coffee shops and eateries but nothing to write home about.
   The highest rated restaurant I would find, Com Art Restaurant, was completely dead in the evening,
   so we went elsewhere
+- [Cité Les Palmeraies](https://maps.app.goo.gl/vEMQm7Xz87iNEX2w5) - residential neighbourhood to the east with
+  restaurants, a better area than central Tunis
 
 #### Sousse
 
