@@ -5558,6 +5558,8 @@ TODO:
 
 #### Sousse
 
+You probably don't need more than a day for Sousse, perhaps 2 days if you want to be thorough.
+
 - [Kasbah Citadel](https://maps.app.goo.gl/t6DfLJEsWuFqkxsz5) - the main historical landmark. Unfortunately they don't
   have planning permission so there is a mish-mash of modern buildings of different heights inside it
 - [Great Mosque of Sousse](Great Mosque of Sousse) - nice historic architecture
@@ -5602,6 +5604,8 @@ but if you've got international standards, you can safely skip this town.
 #### Hergla
 
 Small quiet one-donkey seaside town, the beach line isn't developed though and the restaurants are closed by 9-10pm.
+
+There is nothing to do here, so you might want to skip this one.
 
 <!-- Dar Yessine Boutique Hôtel I thought was expensive for what it was in this location, despite the rooms being nice,
 but then Sousse Palace was significantly more -->
