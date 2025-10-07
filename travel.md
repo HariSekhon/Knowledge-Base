@@ -5526,6 +5526,10 @@ The centre of Tunis doesn't have much going on compared to other capitals around
   upsell you on.
   Has wifi
 
+TODO:
+
+- [Japanese Curry Kitano](https://maps.app.goo.gl/BPENUkPELDv1EwsK7) - 4.8
+
 #### Sousse
 
 - Sousse Palace has is a nice hotel with a good swimming pool and lounge deck area, and was full of Brits.
