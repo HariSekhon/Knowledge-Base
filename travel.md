@@ -5504,6 +5504,8 @@ The centre of Tunis doesn't have much going on compared to other capitals around
   so we went elsewhere
 - [Cité Les Palmeraies](https://maps.app.goo.gl/vEMQm7Xz87iNEX2w5) - residential neighbourhood to the east with
   restaurants, a better area than central Tunis
+- [RED Castle L'aouina](https://maps.app.goo.gl/jmMd8quPaFDpYuxRA) - good lebanese restaurant with very good decor, but
+  the staff don't speak English and the menu is only in Arabic & French so get your Google Translate app ready
 
 #### Sousse
 
