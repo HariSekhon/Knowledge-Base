@@ -5507,7 +5507,8 @@ The centre of Tunis doesn't have much going on compared to other capitals around
 - [RED Castle L'aouina](https://maps.app.goo.gl/jmMd8quPaFDpYuxRA) - good lebanese restaurant with very good decor, but
   the staff don't speak English and the menu is only in Arabic & French so get your Google Translate app ready
 - [Sidi Bou Said](https://maps.app.goo.gl/XhQDaG4vkRAdWszS8) - gentrified neighbourhood on the east coast by Carthage,
-  this is where many Tunisians recommend coming
+  with upmarket coffee shops.
+  This is where many Tunisians recommend coming
 
 #### Sousse
 
