@@ -5548,7 +5548,10 @@ TODO:
   The Couscous Royal has a mix of three meats, and is well complimented by a fish tagine.
   The harissa is home made and probably the most standout thing, I ate way too much bread because of their harissa
 - [Fleur d'orient](https://maps.app.goo.gl/3euGNQXPsyyWX9xW9) - good chicken skewer plate served with chips and salad,
-  as well as complimentary bread and dips
+  as well as complimentary bread and dips.
+  We actually ate here twice.
+  Beware the banana juice is based with milk if you are lactose intolerant,
+  the staff did not pick up on this leading to my friend having stomach cramps for days
 - [Sousse Palace Hotel & Spa](https://maps.app.goo.gl/XaeDomMFJ1A3WooY8) has is a nice hotel with a good swimming pool
   and lounge deck area, and was full of Brits. Unfortunately the sky lounges didn't have fresh squeezed orange juice
   and their prices were very high by Tunisian standards
