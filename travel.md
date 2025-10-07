@@ -5476,7 +5476,7 @@ This is the sort of place people go on package holidays to a resort with managed
 Most people do not speak English -
 as it is a former French colony it is more common for their second language to be french.
 
-They are not careful with people's allergies as they gave my friend a banana juice based on milk
+Restaurant staff are not careful with people's allergies as they gave my friend a banana juice based on milk
 despite being warned that he is lactose intolerant.
 
 Even the pharmacists are not careful,
