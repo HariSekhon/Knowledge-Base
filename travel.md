@@ -5591,7 +5591,8 @@ but then Sousse Palace was significantly more -->
   A cookie for 8 dinars (€2.50) is expensive by local standards given you can get a proper food grilled chicken wrap
   around the corner for the same price
 - [Banque de Tunisie](https://maps.app.goo.gl/ncX86WWf1RYYPiQX6) - ATM worked but had a withdrawal limit of 300 dinars,
-  not enough to pay for 2 nights of my overpriced hotel room, with no option to withdraw more via any free form amount
+  not enough to pay for 2 nights of my overpriced hotel room, with no option to withdraw more via any free form amount,
+  necessitating two withdrawals incurring a fee each time
 
 ### Turkey
 
