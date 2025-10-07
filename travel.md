@@ -5547,7 +5547,8 @@ TODO:
 - [Restaurant Café Seles](https://maps.app.goo.gl/V6EzqB2xbRWbyHuw6) - top rated Tunisian food with moderate prices.
   The Couscous Royal has a mix of three meats, and is well complimented by a fish tagine.
   The harissa is home made and probably the most standout thing, I ate way too much bread because of their harissa
-- [Fleur d'orient](https://maps.app.goo.gl/3euGNQXPsyyWX9xW9) - good chicken skewer plate served with chips and salad,
+- [Fleur d'orient](https://maps.app.goo.gl/3euGNQXPsyyWX9xW9) - decent menu, reasonable prices.
+  The chicken skewer platter was good served with chips and salad,
   as well as complimentary bread and dips.
   We actually ate here twice.
   Beware the banana juice is based with milk if you are lactose intolerant,
