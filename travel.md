@@ -5522,6 +5522,8 @@ The centre of Tunis doesn't have much going on compared to other capitals around
   The half chicken is served with rice, potatoes, grilled vegetables and salad,
   as well as two dips, one truffle and the other a pepper sauce.
   The pulled BBQ beef burger is very good too, served with chips.
+  Overall very good, but it's Google rating is only 4.1,
+  probably due to the price of the steaks which they will try to upsell you on.
   Has wifi
 
 #### Sousse
