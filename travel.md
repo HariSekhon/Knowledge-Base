@@ -5517,16 +5517,18 @@ Tunis is probably one of the most undeveloped capitals you'll see, really not a 
 
 The centre of Tunis doesn't have much going on compared to other capitals around the world.
 
-- [Medina](https://maps.app.goo.gl/dmtGMDsMNfw6wVeL8) - the historical centre and bazaar,
-  but the bazaar is dead and creepy by nightfall
+- [Carthage](https://maps.app.goo.gl/LmAM59xqVSucoHAx8) - the historical site of the rival to Rome
 - [Ville Nouvelle](https://maps.app.goo.gl/P9aoY7wAhUuZqEaV9) - Habib Bourguiba Avenue is the city’s main boulevard,
   tree-lined central walkway and a couple grand colonial-era buildings like the art nouveau Municipal Theatre and ornate
   Cathedral of St. Vincent de Paul -
   this is where you will some find coffee shops and eateries but nothing to write home about.
   The highest rated restaurant I would find, Com Art Restaurant, was completely dead in the evening,
   so we went elsewhere
-- [Cité Les Palmeraies](https://maps.app.goo.gl/vEMQm7Xz87iNEX2w5) - residential neighbourhood to the east with
-  restaurants, a better area than central Tunis
+- [Medina](https://maps.app.goo.gl/dmtGMDsMNfw6wVeL8) - the historical centre of Tunis with bazaar,
+  but the bazaar is dead and creepy by nightfall and there is rubbish everywhere, we were not impressed, it was very
+  ghetto
+- [Cité Les Palmeraies](https://maps.app.goo.gl/vEMQm7Xz87iNEX2w5) - residential neighbourhood further out to the east
+  with restaurants, a better area than central Tunis
 - [RED Castle L'aouina](https://maps.app.goo.gl/jmMd8quPaFDpYuxRA) - good lebanese restaurant with very good decor, but
   the staff don't speak English and the menu is only in Arabic & French so get your Google Translate app ready.
   The Red Castle mixed platter was decent,
