@@ -5512,6 +5512,14 @@ The centre of Tunis doesn't have much going on compared to other capitals around
   This is where many Tunisians recommend coming
 - [La Marsa](https://maps.app.goo.gl/MFwbqmhR9Np3WLwXA) - beach town area with some restaurants and upmarket villas on
   the sea
+- [The Kitchen Restaurant la Marsa](https://maps.app.goo.gl/mMELwdb1S9h7nw3QA) - upmarket meat restaurant with a good
+  selection of meats and salads, and good decor including this instagram illuminated wall writing.
+  The steaks here are very expensive at 100 dinars per 100g (minimum 300g order), so if you're not in the mood to pay
+  the same as upmarket western prices, then the burgers and chicken are very good too.
+  The half chicken is served with rice, potatoes, grilled vegetables and salad,
+  as well as two dips, one truffle and the other a pepper sauce.
+  The pulled BBQ beef burger is very good too, served with chips.
+  Has wifi
 
 #### Sousse
 
