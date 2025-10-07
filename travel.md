@@ -5507,7 +5507,7 @@ The centre of Tunis doesn't have much going on compared to other capitals around
 - [RED Castle L'aouina](https://maps.app.goo.gl/jmMd8quPaFDpYuxRA) - good lebanese restaurant with very good decor, but
   the staff don't speak English and the menu is only in Arabic & French so get your Google Translate app ready.
   The Red Castle mixed platter was decent,
-  but I preferred the 4 skewer platter is slightly better for those focused on lean meat.
+  but I preferred the 4 skewer platter which is slightly better for those focused on lean meat.
   Both come with salad and fries.
   Doesn't have wifi
 - [Sidi Bou Said](https://maps.app.goo.gl/XhQDaG4vkRAdWszS8) - gentrified neighbourhood on the east coast by Carthage,
