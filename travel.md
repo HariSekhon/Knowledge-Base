@@ -5473,6 +5473,9 @@ This is really a 3rd world country.
 
 This is the sort of place people go on package holidays to a resort with managed holidays.
 
+Most people do not speak English -
+as it is a former French colony it is more common for their second language to be french.
+
 #### Taxis in Tunisia
 
 The taxi drivers will rip you off worse than most countries.
@@ -5552,7 +5555,8 @@ TODO:
   as well as complimentary bread and dips.
   We actually ate here twice.
   Beware the banana juice is based with milk if you are lactose intolerant,
-  the staff did not pick up on this leading to my friend having stomach cramps for days
+  the staff did not pick up on this leading to my friend having stomach cramps for days.
+  Language barrier of the staff is an issue like usual across Tunisia
 - [Sousse Palace Hotel & Spa](https://maps.app.goo.gl/XaeDomMFJ1A3WooY8) has is a nice hotel with a good swimming pool
   and lounge deck area, and was full of Brits. Unfortunately the sky lounges didn't have fresh squeezed orange juice
   and their prices were very high by Tunisian standards
