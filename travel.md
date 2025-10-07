@@ -5510,6 +5510,8 @@ The centre of Tunis doesn't have much going on compared to other capitals around
 - [Sidi Bou Said](https://maps.app.goo.gl/XhQDaG4vkRAdWszS8) - gentrified neighbourhood on the east coast by Carthage,
   with upmarket coffee shops.
   This is where many Tunisians recommend coming
+- [La Marsa](https://maps.app.goo.gl/MFwbqmhR9Np3WLwXA) - beach town area with some restaurants and upmarket villas on
+  the sea
 
 #### Sousse
 
