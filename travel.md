@@ -5590,7 +5590,7 @@ but if you've got international standards, you can safely skip this town.
 - [Hannibal Park](https://maps.app.goo.gl/eBqQDsWCy2K1PAQJ6) - amusement park with rides and a few food stalls
   restaurants.
   The fact that this is the height of the nightlife in the area should tell you all you need to know
-- [Bar Golf Bräu](https://maps.app.goo.gl/P4K9AQjvFrgUP5LZ9) - requires reservation, mainly couples who go there
+- [Bar Golf Bräu](https://maps.app.goo.gl/P4K9AQjvFrgUP5LZ9) - lounge requiring reservation, mainly couples who go there
 - [Platinum Metalika Sousse](https://maps.app.goo.gl/yXdBF2RCjPYSTx2x5) -
   don't bother, overpriced nightclub at 40 dinars entry per person (€12) - which is outrageous by local standards -
   and it's all guys who go there
