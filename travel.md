@@ -3321,10 +3321,10 @@ The capital of Jordan.
 
 ##### Bus from Airport to Amman
 
-The airport is quite a long way outside Amman.
+The airport is quite a long way outside Amman - it's a 40 minute drive.
 
 The Sariyah bus from outside the terminal is the cheapest way to get into the centre.
-It only costs 3.30 JD (Jordanian dollars, €4) and will take you the bulk of the way.
+It only costs 3.30 JD (Jordanian dollars, €4) and will take you the bulk of the way almost as quickly as a car.
 
 You can buy a ticket at the booth just outside the airport exit and they accept card and contactless payments.
 
