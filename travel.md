@@ -5626,6 +5626,20 @@ The centre of Tunis doesn't have much going on compared to other capitals around
   Overall very good, but it's mere 4.1 Google rating is probably due to the price of the steaks which they will try to
   upsell you on.
   Has wifi
+- [Elbarkoun](https://maps.app.goo.gl/cpskkntooD8JnVTi8) - food was ok, but the hygene could have been better,
+  I had to get the cutlery and plate replaced, and even the replacement wasn't washed properly in the corners of the
+  fancy dish.
+  The shrimp brik starter was very crispy fried, worth a taste at only 10 dinars.
+  The mechouia "salad" is basically grilled green pepper and tomatoes with garlic,
+  pepper and lots of olive oil so it's like a dip, not a "salad" as a westerner would understand.
+  Many places outside of Tunisia have a similar dish.
+  The fish couscous was pretty standard.
+  The Oja is basically what westerners call Shakshuka.
+  The octopus Kammounia is similar to a Morrocan tagine - a Tunisian tajine is actually an omellette - but the octopus
+  was all long tentacles with small heads, it reminded me of Klingon gagh - except it wasn't live and wriggling.
+  Regardless, my friend took one bite and left the rest of it.
+  Interesting dish if you're a little adventurous.
+  Their card machine was broken, had to pay in cash
 
 TODO:
 
@@ -5641,7 +5655,8 @@ You probably don't need more than a day for Sousse, perhaps 2 days if you want t
 - [Restaurant Café Seles](https://maps.app.goo.gl/V6EzqB2xbRWbyHuw6) - top rated Tunisian food with moderate prices,
   within the Kasbah Citadel.
   The Couscous Royal has a mix of three meats, and is well complimented by a fish tagine.
-  The harissa is home made and probably the most standout thing, I ate way too much bread because of their harissa
+  The harissa is home made and probably the most standout thing, I ate way too much bread because of their harissa/
+  The card machine was broken, had to pay in cash
 - [Fleur d'orient](https://maps.app.goo.gl/3euGNQXPsyyWX9xW9) - decent menu, reasonable prices.
   The chicken skewer platter was good served with chips and salad,
   as well as complimentary bread and dips.
