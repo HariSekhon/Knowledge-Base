@@ -5674,7 +5674,7 @@ TODO:
 - [Billig crêpe](https://maps.app.goo.gl/ozG9VqM4KraR6DDf8) - 4.5 good menu of both sweet and savory crepes in a small
 - [Nougatine](https://maps.app.goo.gl/6dobmReBQevsseL2A) - 4.7 patisserie
 - [Sidi Bou Said Park](https://maps.app.goo.gl/b8ajAuDoKf57EMJKA)
-- [Westwood fastfood](https://maps.app.goo.gl/Bk5Uh1PAHHNPjA5m9)
+- [Westwood fastfood](https://maps.app.goo.gl/Bk5Uh1PAHHNPjA5m9) - 4.5
 
 #### Sousse
 
