@@ -3541,13 +3541,15 @@ Luxembourg
 
 ### Moldova
 
-#### Chisinau
+I've used Airalo and aloSIM e-sims in Moldova.
 
-##### Chisinau Cash
+##### Moldova Cash
 
 Some of these less developed countries like Moldova and Morocco demand cash usage (probably to evade taxes).
 
 You'll need to withdraw local currency before you leave the airport.
+
+#### Chisinau
 
 ##### Chisinau Taxis
 
