@@ -5672,7 +5672,7 @@ TODO:
 - [Coin Margoum](https://maps.app.goo.gl/WPi3D2tvnALxjDco8) - 4.6
 - [Chez Weld Moufida](https://maps.app.goo.gl/m6d6jrnhMLizPPy37) - 4.5
 - [Billig crêpe](https://maps.app.goo.gl/ozG9VqM4KraR6DDf8) - 4.5 good menu of both sweet and savory crepes in a small
-- [Nougatine](https://maps.app.goo.gl/6dobmReBQevsseL2A)
+- [Nougatine](https://maps.app.goo.gl/6dobmReBQevsseL2A) - 4.7 patisserie
 - [Sidi Bou Said Park](https://maps.app.goo.gl/b8ajAuDoKf57EMJKA)
 - [Westwood fastfood](https://maps.app.goo.gl/Bk5Uh1PAHHNPjA5m9)
 
