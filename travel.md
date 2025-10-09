@@ -5656,7 +5656,7 @@ You probably don't need more than a day for Sousse, perhaps 2 days if you want t
   within the Kasbah Citadel.
   The Couscous Royal has a mix of three meats, and is well complimented by a fish tagine.
   The harissa is home made and probably the most standout thing, I ate way too much bread because of their harissa/
-  The card machine was broken, had to pay in cash
+  Their card machine was broken, had to pay in cash
 - [Fleur d'orient](https://maps.app.goo.gl/3euGNQXPsyyWX9xW9) - decent menu, reasonable prices.
   The chicken skewer platter was good served with chips and salad,
   as well as complimentary bread and dips.
