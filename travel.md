@@ -5594,8 +5594,22 @@ The centre of Tunis doesn't have much going on compared to other capitals around
 
 - [Carthage](https://maps.app.goo.gl/LmAM59xqVSucoHAx8) - the historical site of the rival empire to Rome, of Hannibal
   fame
-- [Sidi Bou Said](https://maps.app.goo.gl/tzGrmkzQ4paYrTGUA) - the best tourist area in Tunis by no small margin
+- [Sidi Bou Said](https://maps.app.goo.gl/XhQDaG4vkRAdWszS8) - the best tourist area in Tunis, gentrified neighbourhood on the east coast by Carthage,
+  with upmarket coffee shops. Recommended by many Tunisian locals
   - [Sidi Bou Said Viewing Point](https://maps.app.goo.gl/1iRGC9LAvow7czTFA) - the best view I saw in Tunisia
+- [La Marsa](https://maps.app.goo.gl/MFwbqmhR9Np3WLwXA) - beach town area with some restaurants and upmarket villas by
+  the sea
+  - [The Kitchen Restaurant la Marsa](https://maps.app.goo.gl/mMELwdb1S9h7nw3QA) - upmarket meat restaurant with a good
+    selection of meats and salads, and good decor including this instagram illuminated wall writing.
+    The steaks here are very expensive at 100 dinars per 100g (minimum 300g order), so if you're not in the mood to pay
+    the same as upmarket western prices, then the burgers and chicken are very good too.
+    The half chicken is served with rice, potatoes, grilled vegetables and salad,
+    as well as two dips, one truffle and the other a pepper sauce.
+    The pulled BBQ beef burger is very good too, served with chips.
+    Overall very good, but it's mere 4.1 Google rating is probably due to the price of the steaks which they will try to
+    upsell you on.
+    Has wifi
+
 - [Ville Nouvelle](https://maps.app.goo.gl/P9aoY7wAhUuZqEaV9) - Habib Bourguiba Avenue is the city’s main boulevard,
   tree-lined central walkway and a couple grand colonial-era buildings like the art nouveau Municipal Theatre and ornate
   Cathedral of St. Vincent de Paul -
@@ -5613,21 +5627,6 @@ The centre of Tunis doesn't have much going on compared to other capitals around
   but I preferred the 4 skewer platter which is slightly better for those focused on lean meat.
   Both come with salad and fries.
   Doesn't have wifi
-- [Sidi Bou Said](https://maps.app.goo.gl/XhQDaG4vkRAdWszS8) - gentrified neighbourhood on the east coast by Carthage,
-  with upmarket coffee shops.
-  This is where many Tunisians recommend coming
-- [La Marsa](https://maps.app.goo.gl/MFwbqmhR9Np3WLwXA) - beach town area with some restaurants and upmarket villas by
-  the sea
-- [The Kitchen Restaurant la Marsa](https://maps.app.goo.gl/mMELwdb1S9h7nw3QA) - upmarket meat restaurant with a good
-  selection of meats and salads, and good decor including this instagram illuminated wall writing.
-  The steaks here are very expensive at 100 dinars per 100g (minimum 300g order), so if you're not in the mood to pay
-  the same as upmarket western prices, then the burgers and chicken are very good too.
-  The half chicken is served with rice, potatoes, grilled vegetables and salad,
-  as well as two dips, one truffle and the other a pepper sauce.
-  The pulled BBQ beef burger is very good too, served with chips.
-  Overall very good, but it's mere 4.1 Google rating is probably due to the price of the steaks which they will try to
-  upsell you on.
-  Has wifi
 - [Elbarkoun](https://maps.app.goo.gl/cpskkntooD8JnVTi8) - food was ok, but the hygene could have been better,
   I had to get the cutlery and plate replaced, and even the replacement wasn't washed properly in the corners of the
   fancy dish.
