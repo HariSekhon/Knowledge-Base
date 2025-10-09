@@ -5594,6 +5594,8 @@ The centre of Tunis doesn't have much going on compared to other capitals around
 
 - [Carthage](https://maps.app.goo.gl/LmAM59xqVSucoHAx8) - the historical site of the rival empire to Rome, of Hannibal
   fame
+- [Sidi Bou Said](https://maps.app.goo.gl/tzGrmkzQ4paYrTGUA) - the best tourist area in Tunis by no small margin
+  - [Sidi Bou Said Viewing Point](https://maps.app.goo.gl/1iRGC9LAvow7czTFA) - the best view I saw in Tunisia
 - [Ville Nouvelle](https://maps.app.goo.gl/P9aoY7wAhUuZqEaV9) - Habib Bourguiba Avenue is the city’s main boulevard,
   tree-lined central walkway and a couple grand colonial-era buildings like the art nouveau Municipal Theatre and ornate
   Cathedral of St. Vincent de Paul -
