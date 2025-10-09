@@ -5491,6 +5491,11 @@ Even the pharmacists are not careful,
 we went into several different pharmacists to try to buy lactose tablets,
 showing the existing container, only for several pharmacists to give sweeteners back!
 
+- Greeting - Sallem Malayka
+- Thank You - Shukra
+
+I used the Saily eSim in Tunisia after my Airalo failed to activate.
+
 #### Tunis-Carthage Airport
 
 This airport is incredibly slow for passport control.
