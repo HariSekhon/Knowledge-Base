@@ -5491,8 +5491,8 @@ Even the pharmacists are not careful,
 we went into several different pharmacists to try to buy lactose tablets,
 showing the existing container, only for several pharmacists to give sweeteners back!
 
-- Greeting - Sallem Malayka
-- Thank You - Shukra
+- Greeting - Salam-Alaikum - meaning Peace Be Upon You
+- Thank You - Shkran (shook-ra)
 
 I used the Saily eSim in Tunisia after my Airalo failed to activate.
 
