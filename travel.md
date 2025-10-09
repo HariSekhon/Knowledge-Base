@@ -3329,9 +3329,14 @@ You can buy a ticket at the booth just outside the airport exit and they accept 
 
 You can then use public transport within Amman or take a taxi a shorter distance using one of the taxi apps above.
 
-The taxi from the North Bus station to the centre was very cheap, around 3.50 JOR (€5), compared to the 30-35 JOR quoted
-on the apps from the airport as I'd done most of the distance on the Sariyah bus and probably also avoided airport
-premium / levies.
+The taxi from the North Bus station to the centre was very cheap, around 3.50 JOR (€5) on Careem, compared to the
+30-35 JOR quoted on Careem and Uber apps respectively from the airport as I'd done most of the distance on the
+Sariyah bus and probably also avoided airport premium / levies.
+
+If exiting the North Bus station to catch a Careem taxi,
+you should take the south exit stairs up a few steps and then down to the motorway as the nearest pickup point is there
+in front of a restaurant down there, and perhaps head down there before calling the taxi on Careem as you don't want the
+driver to lose patience and cancel the ride as happened with my first taxi while I figured how to get down there.
 
 ### Laos
 
