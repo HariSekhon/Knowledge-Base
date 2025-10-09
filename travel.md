@@ -5619,7 +5619,7 @@ The centre of Tunis doesn't have much going on compared to other capitals around
   but the bazaar is dead and creepy by nightfall and there is rubbish everywhere, we were not impressed, it was very
   ghetto
 - [Cité Les Palmeraies](https://maps.app.goo.gl/vEMQm7Xz87iNEX2w5) - residential neighbourhood further out to the east
-  with restaurants, a better area than central Tunis
+  with restaurants, a better area than central Tunis, and closer to Carthage
   - [RED Castle L'aouina](https://maps.app.goo.gl/jmMd8quPaFDpYuxRA) - good lebanese restaurant with very good decor, but
     the staff don't speak English and the menu is only in Arabic & French so get your Google Translate app ready.
     The Red Castle mixed platter was decent,
