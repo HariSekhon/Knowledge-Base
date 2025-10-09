@@ -5943,6 +5943,8 @@ It's rare to see such aggressive rains in other parts of the world, and their la
 
 There are hundreds of destinations in Europe that would be ahead of Ukraine to visit as a tourist.
 
+I've used Airalo and Nomad mobile e-sims in Ukraine.
+
 #### Taxis in Ukraine
 
 - [Bolt](https://bolt.eu/en-ua/) - more drivers than OnTaxi
