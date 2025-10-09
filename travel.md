@@ -3334,7 +3334,7 @@ The taxi from the North Bus station to the centre was relatively cheap, Careem q
 to nearly 4.5JD (€5.50), compared to the 30-35 JD quoted on Careem and Uber apps respectively from the airport as I'd
 done most of the distance on the Sariyah bus and probably also avoided airport premium / levies.
 
-If exiting the North Bus station to catch a Careem taxi,
+If exiting the North Bus station to catch a Careem taxi for the last part of the journey,
 you should take the south exit stairs up a few steps and then down to the motorway and then turn left and follow the
 bend round as the nearest pickup point is there in front of a restaurant down there, and perhaps head down there before
 calling the taxi on Careem as you don't want the driver to lose patience and cancel the ride as happened with my first
