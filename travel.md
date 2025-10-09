@@ -3338,6 +3338,17 @@ you should take the south exit stairs up a few steps and then down to the motorw
 in front of a restaurant down there, and perhaps head down there before calling the taxi on Careem as you don't want the
 driver to lose patience and cancel the ride as happened with my first taxi while I figured how to get down there.
 
+##### Amman Restaurants
+
+- [Rainbow St.](https://maps.app.goo.gl/F53XGxxLvwzPKUbw7) - full of restaurants
+  - [Kebab felfel & sumac](https://maps.app.goo.gl/6YQdNnFMxbeLgZTy9) - madly popular takeaway, even after midnight,
+    good quality fast food (it's not fast), with kebab wraps and cheeseburgers for 1 JD - an absolute steal
+  - [Juice Village](https://maps.app.goo.gl/zj1MMNzJFFAMQM8s7) - fresh squeezed juices for 1.5-3 JD
+
+TODO:
+
+- [AlQuds Falafel](https://maps.app.goo.gl/HqyoE5Emf86rKDFDA) - 4.5
+
 ### Laos
 
 $40 for a visa on arrival, and long queues.
