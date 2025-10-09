@@ -3308,6 +3308,8 @@ Pristina
 
 #### Amman
 
+The capital of Jordan.
+
 ##### Bus from Airport to Amman
 
 The airport is quite a long way outside Amman.
