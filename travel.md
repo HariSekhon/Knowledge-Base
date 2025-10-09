@@ -3329,6 +3329,10 @@ You can buy a ticket at the booth just outside the airport exit and they accept 
 
 You can then use public transport within Amman or take a taxi a shorter distance using one of the taxi apps above.
 
+The taxi from the North Bus station to the centre was very cheap, around 3.50 JOR (€5), compared to the 30-35 JOR quoted
+on the apps from the airport as I'd done most of the distance on the Sariyah bus and probably also avoided airport
+premium / levies.
+
 ### Laos
 
 $40 for a visa on arrival, and long queues.
