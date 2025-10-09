@@ -5534,6 +5534,9 @@ as it's a former French colony it's more common for their second language to be 
 Restaurant staff are not careful with people's allergies as they gave my friend a banana juice based on milk
 despite being warned that he is lactose intolerant.
 
+At least 2 restaurants card machines broke, forcing us to pay with cash,
+which in hindsight is either bad infrastructure or an excuse to get cash to dodge taxes or something.
+
 Even the pharmacists are not careful,
 we went into several different pharmacists to try to buy lactose tablets,
 showing the existing container, only for several pharmacists to give sweeteners back!
