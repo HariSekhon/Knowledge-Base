@@ -187,6 +187,7 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Rome](#rome)
     - [Venice](#venice)
   - [Jordan](#jordan)
+    - [Jordan Visa](#jordan-visa)
     - [Jordan Taxi Apps](#jordan-taxi-apps)
     - [Amman](#amman)
       - [Bus from Airport to Amman](#bus-from-airport-to-amman)
