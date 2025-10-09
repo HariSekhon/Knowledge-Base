@@ -298,6 +298,7 @@ Updated regularly as I travel the world 52 weeks a year.
       - [Travel Between Bangkok and Pattaya](#travel-between-bangkok-and-pattaya)
       - [Restaurants, Bars & Clubs in Pattaya](#restaurants-bars--clubs-in-pattaya)
   - [Tunisia](#tunisia)
+    - [Tunis-Carthage Airport](#tunis-carthage-airport)
     - [Taxis in Tunisia](#taxis-in-tunisia)
     - [Minibuses in Tunisia (Louage)](#minibuses-in-tunisia-louage)
     - [Travelling from Sousse to Tunis](#travelling-from-sousse-to-tunis)
@@ -5472,7 +5473,13 @@ at boarding time.
 
 This is really a 3rd world country.
 
-It's the sort of place people go on package holidays to a resort with managed holidays.
+From the moment you get off the plane people are trying to scam you left and right,
+we were warned about this by several locals - that as soon as they see foreigners they are just thinking about how to
+get money off them -
+starting with the taxi drivers overcharging my multiples, to people just walking up to you to beg in the streets.
+
+It's the sort of place people go on package holidays to a resort and stay in the managed experience for good reason,
+with just trips to the odd historical site like Carthage.
 
 Most people do not speak English -
 as it's a former French colony it's more common for their second language to be french, even on menus.
@@ -5483,6 +5490,19 @@ despite being warned that he is lactose intolerant.
 Even the pharmacists are not careful,
 we went into several different pharmacists to try to buy lactose tablets,
 showing the existing container, only for several pharmacists to give sweeteners back!
+
+#### Tunis-Carthage Airport
+
+This airport is incredibly slow for passport control.
+
+When your airline notification tells you to turn up 4 hours in advance, they are telling you for good reason.
+
+Go to departures passport control at least 90 minutes before your flight's departure time
+if you don't want to miss it or be stressed out about potentially missing it.
+
+As of 2025 the toilets are very 3rd world, there aren't even toilet seats or toilet paper holders, never mind toilet paper in the
+cubicles.
+Airplane toilets are luxury by comparison. You are advised to plan to go to the toilet elsewhere.
 
 #### Taxis in Tunisia
 
