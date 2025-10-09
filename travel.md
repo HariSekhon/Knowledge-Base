@@ -3293,6 +3293,23 @@ Pristina
 
 -->
 
+### Jordan
+
+#### Jordan Taxi Apps
+
+- [Careem](https://www.careem.com/) - cheaper than Uber when I checked, this is the best app in the middle eastern
+  countries it operates in, I first used this app in Dubai (UAE)
+- [Uber](https://www.uber.com/jo/en/)
+- [Jeeny](https://www.jeeny.me/en/) - expected a mobile number from one of the middle eastern countries, couldn't use it
+
+#### Amman
+
+##### Bus from Airport to Amman
+
+The airport is quite a long way outside Amman.
+
+The bus from outside the terminal is the cheapest way to get into the centre.
+
 ### Laos
 
 $40 for a visa on arrival, and long queues.
