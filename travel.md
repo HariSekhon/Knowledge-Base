@@ -5662,17 +5662,18 @@ The centre of Tunis doesn't have much going on compared to other capitals around
 TODO:
 
 - [Japanese Curry Kitano](https://maps.app.goo.gl/BPENUkPELDv1EwsK7) - 4.8
-- [Coin Margoum](https://maps.app.goo.gl/WPi3D2tvnALxjDco8)
-- [Sabato Coffee Shop & Restaurant](https://maps.app.goo.gl/HSnpfBVERnTBpCgM7) - closes at 9pm
-- [Billig crêpe](https://maps.app.goo.gl/ozG9VqM4KraR6DDf8) - good menu of both sweet and savory crepes in a small
+- [Sabato Coffee Shop & Restaurant](https://maps.app.goo.gl/HSnpfBVERnTBpCgM7) - 4.4, closes at 9pm
   gentrified venue
-- [El Bey Restaurant](https://maps.app.goo.gl/64e2KaLnyztMWHT39)
-- [Naouar food](https://maps.app.goo.gl/miCvtph6SyQiGo9f7)
-- [Ben Rahim Coffee Company](https://maps.app.goo.gl/Lkgn14EJ37hVcAUt7) - popular coffee shop with outdoor seating
-  overlooking the roundabout
 - [bleue!](https://maps.app.goo.gl/Axa7Yi5s2JCayzKG9) - 4.8 coffee & breakfast/brunch restaurant
-- [Sidi Bou Said Park](https://maps.app.goo.gl/b8ajAuDoKf57EMJKA)
+- [El Bey Restaurant](https://maps.app.goo.gl/64e2KaLnyztMWHT39) - 4.8
+- [Naouar food](https://maps.app.goo.gl/miCvtph6SyQiGo9f7) - 4.8
+- [Ben Rahim Coffee Company](https://maps.app.goo.gl/Lkgn14EJ37hVcAUt7) - 4.5 popular coffee shop with outdoor seating
+  overlooking the roundabout
+- [Coin Margoum](https://maps.app.goo.gl/WPi3D2tvnALxjDco8) - 4.6
+- [Chez Weld Moufida](https://maps.app.goo.gl/m6d6jrnhMLizPPy37) - 4.5
+- [Billig crêpe](https://maps.app.goo.gl/ozG9VqM4KraR6DDf8) - 4.5 good menu of both sweet and savory crepes in a small
 - [Nougatine](https://maps.app.goo.gl/6dobmReBQevsseL2A)
+- [Sidi Bou Said Park](https://maps.app.goo.gl/b8ajAuDoKf57EMJKA)
 - [Westwood fastfood](https://maps.app.goo.gl/Bk5Uh1PAHHNPjA5m9)
 
 #### Sousse
