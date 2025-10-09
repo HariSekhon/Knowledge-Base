@@ -5594,6 +5594,13 @@ The centre of Tunis doesn't have much going on compared to other capitals around
 
 - [Carthage](https://maps.app.goo.gl/LmAM59xqVSucoHAx8) - the historical site of the rival empire to Rome, of Hannibal
   fame
+  - [Archaeological Site of Carthage](https://maps.app.goo.gl/DZEVKv3WaeJtDYoM9) - the main site - tickets cover all
+    historical sites for the day
+    - [Baths of Antoninus](https://maps.app.goo.gl/y9SERDx2xRESJwRD8)
+  - [Carthage Archaeological Site](https://maps.app.goo.gl/5TaEe1LZyFwhnvos6) - secondary archaeological site
+    - [Carthage National Museum](https://maps.app.goo.gl/F2K1wMSsCaTXqVgw9)
+    - [Saint Louis Cathedral](https://maps.app.goo.gl/9WrLM26UkBB4PYKLA)
+  - [Villa Didon Hotel](https://maps.app.goo.gl/E77SjMQcEQiUFnaK7) - good view, go for a drink on the terrace
 - [Sidi Bou Said](https://maps.app.goo.gl/XhQDaG4vkRAdWszS8) - the best tourist area in Tunis, gentrified neighbourhood on the east coast by Carthage,
   with upmarket coffee shops. Recommended by many Tunisian locals
   - [Sidi Bou Said Viewing Point](https://maps.app.goo.gl/1iRGC9LAvow7czTFA) - the best view I saw in Tunisia
@@ -5655,6 +5662,18 @@ The centre of Tunis doesn't have much going on compared to other capitals around
 TODO:
 
 - [Japanese Curry Kitano](https://maps.app.goo.gl/BPENUkPELDv1EwsK7) - 4.8
+- [Coin Margoum](https://maps.app.goo.gl/WPi3D2tvnALxjDco8)
+- [Sabato Coffee Shop & Restaurant](https://maps.app.goo.gl/HSnpfBVERnTBpCgM7) - closes at 9pm
+- [Billig crêpe](https://maps.app.goo.gl/ozG9VqM4KraR6DDf8) - good menu of both sweet and savory crepes in a small
+  gentrified venue
+- [El Bey Restaurant](https://maps.app.goo.gl/64e2KaLnyztMWHT39)
+- [Naouar food](https://maps.app.goo.gl/miCvtph6SyQiGo9f7)
+- [Ben Rahim Coffee Company](https://maps.app.goo.gl/Lkgn14EJ37hVcAUt7) - popular coffee shop with outdoor seating
+  overlooking the roundabout
+- [bleue!](https://maps.app.goo.gl/Axa7Yi5s2JCayzKG9) - 4.8 coffee & breakfast/brunch restaurant
+- [Sidi Bou Said Park](https://maps.app.goo.gl/b8ajAuDoKf57EMJKA)
+- [Nougatine](https://maps.app.goo.gl/6dobmReBQevsseL2A)
+- [Westwood fastfood](https://maps.app.goo.gl/Bk5Uh1PAHHNPjA5m9)
 
 #### Sousse
 
