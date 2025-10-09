@@ -5605,9 +5605,19 @@ The centre of Tunis doesn't have much going on compared to other capitals around
     the same as upmarket western prices, then the burgers and chicken are very good too.
     The half chicken is served with rice, potatoes, grilled vegetables and salad,
     as well as two dips, one truffle and the other a pepper sauce.
-    The pulled BBQ beef burger is very good too, served with chips.
+    The pulled BBQ beef burger is very good too, served with fries.
     Overall very good, but it's mere 4.1 Google rating is probably due to the price of the steaks which they will try to
     upsell you on.
+    We went a second time but unfortunately they messed up the order, served the wrong thing and refused to change
+    it (probably English language barrier).
+    The venetian steak was also overdone, although the potato gratin was decent but too small.
+    A neighbouring tourist also complained their steak was tough, so perhaps a bit high risk for their steak prices.
+    They served us a small complimentary fillet steak medium,
+    and that was decent though, so just make sure not to ask for well done as my friend did.
+    The kitchen burger we had the second time is also not as good as the BBQ burger from the second visit -
+    the marrow they put in it is like eating lumps of fat.
+    The basil ginger lemonade also came out too bitter on the second visit too.
+    The half chicken remains our favourite dish overall.
     Has wifi
 - [Ville Nouvelle](https://maps.app.goo.gl/P9aoY7wAhUuZqEaV9) - Habib Bourguiba Avenue is the city’s main boulevard,
   tree-lined central walkway and a couple grand colonial-era buildings like the art nouveau Municipal Theatre and ornate
