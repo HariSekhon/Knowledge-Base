@@ -191,6 +191,7 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Jordan Taxi Apps](#jordan-taxi-apps)
     - [Amman](#amman)
       - [Bus from Airport to Amman](#bus-from-airport-to-amman)
+      - [Restaurants in Amman](#restaurants-in-amman)
   - [Laos](#laos)
     - [Taxis in Laos](#taxis-in-laos)
     - [Vientiane](#vientiane)
@@ -3338,7 +3339,7 @@ you should take the south exit stairs up a few steps and then down to the motorw
 in front of a restaurant down there, and perhaps head down there before calling the taxi on Careem as you don't want the
 driver to lose patience and cancel the ride as happened with my first taxi while I figured how to get down there.
 
-##### Amman Restaurants
+##### Restaurants in Amman
 
 - [Rainbow St.](https://maps.app.goo.gl/F53XGxxLvwzPKUbw7) - full of restaurants
   - [Kebab felfel & sumac](https://maps.app.goo.gl/6YQdNnFMxbeLgZTy9) - madly popular takeaway, even after midnight,
@@ -5668,7 +5669,6 @@ The centre of Tunis doesn't have much going on compared to other capitals around
   Regardless, my friend took one bite and left the rest of it.
   Interesting dish if you're a little adventurous.
   Their card machine was broken, had to pay in cash
-
 
 TODO:
 
