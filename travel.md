@@ -201,8 +201,8 @@ Updated regularly as I travel the world 52 weeks a year.
       - [Bukit Bintag](#bukit-bintag)
       - [Chinatown](#chinatown)
   - [Moldova](#moldova)
+    - [Moldova Cash](#moldova-cash)
     - [Chisinau](#chisinau)
-      - [Chisinau Cash](#chisinau-cash)
       - [Chisinau Taxis](#chisinau-taxis)
       - [Chisinau Airport Bus](#chisinau-airport-bus)
       - [Chisinau Restaurants](#chisinau-restaurants)
@@ -3543,7 +3543,7 @@ Luxembourg
 
 I've used Airalo and aloSIM e-sims in Moldova.
 
-##### Moldova Cash
+#### Moldova Cash
 
 Some of these less developed countries like Moldova and Morocco demand cash usage (probably to evade taxes).
 
