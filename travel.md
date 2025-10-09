@@ -3341,6 +3341,12 @@ driver to lose patience and cancel the ride as happened with my first taxi while
 
 ##### Restaurants in Amman
 
+<!--
+
+Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a night for a 4 bed mixed dorm en suite
+
+-->
+
 - [Rainbow St.](https://maps.app.goo.gl/F53XGxxLvwzPKUbw7) - full of restaurants
   - [Kebab felfel & sumac](https://maps.app.goo.gl/6YQdNnFMxbeLgZTy9) - madly popular takeaway, even after midnight,
     good quality fast food (it's not fast), with kebab wraps and cheeseburgers for 1 JD - an absolute steal
