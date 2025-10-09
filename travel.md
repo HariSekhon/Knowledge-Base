@@ -5597,22 +5597,8 @@ The centre of Tunis doesn't have much going on compared to other capitals around
 - [Sidi Bou Said](https://maps.app.goo.gl/XhQDaG4vkRAdWszS8) - the best tourist area in Tunis, gentrified neighbourhood on the east coast by Carthage,
   with upmarket coffee shops. Recommended by many Tunisian locals
   - [Sidi Bou Said Viewing Point](https://maps.app.goo.gl/1iRGC9LAvow7czTFA) - the best view I saw in Tunisia
-  - [Elbarkoun](https://maps.app.goo.gl/cpskkntooD8JnVTi8) - food was ok, but the hygene could have been better,
-    I had to get the cutlery and plate replaced, and even the replacement wasn't washed properly in the corners of the
-    fancy dish.
-    The shrimp brik starter was very crispy fried, worth a taste at only 10 dinars.
-    The mechouia "salad" is basically grilled green pepper and tomatoes with garlic,
-    pepper and lots of olive oil so it's like a dip, not a "salad" as a westerner would understand.
-    Many places outside of Tunisia have a similar dish.
-    The fish couscous was pretty standard.
-    The Oja is basically what westerners call Shakshuka.
-    The octopus Kammounia is similar to a Morrocan tagine - a Tunisian tajine is actually an omellette - but the octopus
-    was all long tentacles with small heads, it reminded me of Klingon gagh - except it wasn't live and wriggling.
-    Regardless, my friend took one bite and left the rest of it.
-    Interesting dish if you're a little adventurous.
-    Their card machine was broken, had to pay in cash
 - [La Marsa](https://maps.app.goo.gl/MFwbqmhR9Np3WLwXA) - beach town area with some restaurants and upmarket villas by
-  the sea
+ the sea
   - [The Kitchen Restaurant la Marsa](https://maps.app.goo.gl/mMELwdb1S9h7nw3QA) - upmarket meat restaurant with a good
     selection of meats and salads, and good decor including this instagram illuminated wall writing.
     The steaks here are very expensive at 100 dinars per 100g (minimum 300g order), so if you're not in the mood to pay
@@ -5640,6 +5626,21 @@ The centre of Tunis doesn't have much going on compared to other capitals around
     but I preferred the 4 skewer platter which is slightly better for those focused on lean meat.
     Both come with salad and fries.
     Doesn't have wifi
+- [Elbarkoun](https://maps.app.goo.gl/cpskkntooD8JnVTi8) - food was ok, but the hygiene could have been better,
+  I had to get the cutlery and plate replaced, and even the replacement wasn't washed properly in the corners of the
+  fancy dish.
+  The shrimp brik starter was very crispy fried, worth a taste at only 10 dinars.
+  The mechouia "salad" is basically grilled green pepper and tomatoes with garlic,
+  pepper and lots of olive oil so it's like a dip, not a "salad" as a westerner would understand.
+  Many places outside of Tunisia have a similar dish.
+  The fish couscous was pretty standard.
+  The Oja is basically what westerners call Shakshuka.
+  The octopus Kammounia is similar to a Morrocan tagine - a Tunisian tajine is actually an omellette - but the octopus
+  was all long tentacles with small heads, it reminded me of Klingon gagh - except it wasn't live and wriggling.
+  Regardless, my friend took one bite and left the rest of it.
+  Interesting dish if you're a little adventurous.
+  Their card machine was broken, had to pay in cash
+
 
 TODO:
 
