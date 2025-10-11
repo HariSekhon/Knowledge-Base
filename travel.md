@@ -3355,13 +3355,13 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
   - [Juice Village](https://maps.app.goo.gl/zj1MMNzJFFAMQM8s7) - fresh squeezed juices for 1.5-3 JD
 - [Manoushe](https://maps.app.goo.gl/Xyc1qKVu7EUFPNDC9) - their chicken wrap is very good for only 2.50 JD, as is their
   chicken schawarma which is a little more basic, more meat, comes with fries
+- [Flour & Fire](https://maps.app.goo.gl/d4Y6FqTJUM8hdmRx9) - bakery
 
 TODO:
 
-- [Flour & Fire](https://maps.app.goo.gl/d4Y6FqTJUM8hdmRx9) - 4.9 bakery
+- [AlQuds Falafel](https://maps.app.goo.gl/HqyoE5Emf86rKDFDA) - 4.5
 - [Mijana](https://maps.app.goo.gl/Z6gkrdpbLbRoenC26) - 4.8 restaurant
 - [Shawerma 3a saj](https://maps.app.goo.gl/upqzKVHQNJ3AaR9o8) - 4.4 cheap shawerma I'm told is good
-- [AlQuds Falafel](https://maps.app.goo.gl/HqyoE5Emf86rKDFDA) - 4.5
 - [Al-Quds Kafeteria](https://maps.app.goo.gl/tJgxmqisGLHdZpek8) - 4.4
 - [Firefly Burger Jabal Amman](https://maps.app.goo.gl/uZtJHS1Wr1Lmifc39) - 4.4 from lots of reviews
 - [Satar Coffee House](https://maps.app.goo.gl/SMdCyB6sHzaxhvgC6) - 4.5
