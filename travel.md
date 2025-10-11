@@ -3355,6 +3355,13 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
   - [Juice Village](https://maps.app.goo.gl/zj1MMNzJFFAMQM8s7) - fresh squeezed juices for 1.5-3 JD
 - [Manoushe](https://maps.app.goo.gl/Xyc1qKVu7EUFPNDC9) - their chicken wrap is very good for only 2.50 JD, as is their
   chicken schawarma which is a little more basic, more meat, comes with fries
+- [Khan Khediwe Restaurant](https://maps.app.goo.gl/gMXxxJWsRyxHNK427) - quiet hotel restaurant on the 7th floor,
+  respite from the hustle and bustle of the surrounding streets.
+  The fattoush was decent and the muttabal eggplant dip was too, it came with bread (which came cold, my friend sent it
+  back for them to warm it up).
+  Service was slow so mains were skipped in favour of somewhere else as most of them look like a standard fair,
+  only the veal with pistacchio might have been worth trying.
+  37/45 Mbit wifi
 
 TODO:
 
