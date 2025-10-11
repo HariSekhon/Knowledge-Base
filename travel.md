@@ -3364,7 +3364,7 @@ TODO:
 - [Al-Quds Kafeteria](https://maps.app.goo.gl/tJgxmqisGLHdZpek8) - 4.4
 - [Firefly Burger Jabal Amman](https://maps.app.goo.gl/uZtJHS1Wr1Lmifc39) - 4.4 from lots of reviews
 - [Satar Coffee House](https://maps.app.goo.gl/SMdCyB6sHzaxhvgC6) - 4.5
-- [Flour & Fire](https://maps.app.goo.gl/d4Y6FqTJUM8hdmRx9) - bakery
+- [Flour & Fire](https://maps.app.goo.gl/d4Y6FqTJUM8hdmRx9) - 4.8 bakery
 
 ### Laos
 
