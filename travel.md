@@ -3355,6 +3355,9 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
   - [Juice Village](https://maps.app.goo.gl/zj1MMNzJFFAMQM8s7) - fresh squeezed juices for 1.5-3 JD
 - [Manoushe](https://maps.app.goo.gl/Xyc1qKVu7EUFPNDC9) - their chicken wrap is very good for only 2.50 JD, as is their
   chicken schawarma which is a little more basic, more meat, comes with fries
+- [Faisal Cafe - Restaurant](https://maps.app.goo.gl/UPGmqLmu6qQXbcqX8) - the traditional mansaf dish of lamb and rice
+  was decent, although the yellow rice was a bit bland. The rice in the maqluba which chicken was far more tastey as it
+  had been mixed/seasoned with some flavours
 - [Khan Khediwe Restaurant](https://maps.app.goo.gl/gMXxxJWsRyxHNK427) - quiet hotel restaurant on the 7th floor,
   respite from the hustle and bustle of the surrounding streets.
   The fattoush was decent and the muttabal eggplant dip was too, it came with bread (which came cold, my friend sent it
@@ -3362,6 +3365,10 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
   Service was slow so mains were skipped in favour of somewhere else as most of them look like a standard fair,
   only the veal with pistacchio might have been worth trying.
   37/45 Mbit wifi
+- [Firefly Burger Jabal Amman](https://maps.app.goo.gl/uZtJHS1Wr1Lmifc39) - the Angus burger has a solid slab of beef
+  and is a very good size. I haven't tried the fries and I didn't see a wifi network related to the restaurant name,
+  but the burger was very good - but then it should be at nearly 5JD it's more than double the price compared to the
+  standard burger at nearly 2JD - it comes with cheese and the burger itself has a peppery taste
 
 TODO:
 
@@ -3369,7 +3376,6 @@ TODO:
 - [Mijana](https://maps.app.goo.gl/Z6gkrdpbLbRoenC26) - 4.8 restaurant
 - [Shawerma 3a saj](https://maps.app.goo.gl/upqzKVHQNJ3AaR9o8) - 4.4 cheap shawerma I'm told is good
 - [Al-Quds Kafeteria](https://maps.app.goo.gl/tJgxmqisGLHdZpek8) - 4.4
-- [Firefly Burger Jabal Amman](https://maps.app.goo.gl/uZtJHS1Wr1Lmifc39) - 4.4 from lots of reviews
 - [Satar Coffee House](https://maps.app.goo.gl/SMdCyB6sHzaxhvgC6) - 4.5
 - [Flour & Fire](https://maps.app.goo.gl/d4Y6FqTJUM8hdmRx9) - 4.8 bakery
 
