@@ -26,7 +26,6 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
     - [OpenAI Whisper Install](#openai-whisper-install)
     - [OpenAI Whisper Run CLI](#openai-whisper-run-cli)
     - [OpenAI Whisper Run from Python](#openai-whisper-run-from-python)
-  - [Plaud](https://www.plaud.ai/) - portable devices to record and transcript using AI
 - [Grammar](#grammar)
 - [Visual](#visual)
   - [Image](#image)
@@ -139,6 +138,12 @@ BTC Prague 2025.
 <https://otter.ai/>
 
 Proprietary subscription, not bothering with it, used OpenAI Whisper below for free instead.
+
+### Plaud.ai
+
+<https://www.plaud.ai/>
+
+Portable devices to record and transcript using AI.
 
 ### OpenAI Whisper
 
