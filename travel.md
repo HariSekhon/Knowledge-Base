@@ -3367,6 +3367,7 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
   - [Juice Village](https://maps.app.goo.gl/zj1MMNzJFFAMQM8s7) - fresh squeezed juices for 1.5-3 JD
   - [Manoushe](https://maps.app.goo.gl/Xyc1qKVu7EUFPNDC9) - their chicken wrap is very good for only 2.50 JD, as is their
     chicken schawarma which is a little more basic, more meat, comes with fries
+  - [Shawarma Village](https://maps.app.goo.gl/Mp5jwARNobnft8457) - shawarma and chips, with dips, cheap
   - [Firefly Burger Jabal Amman](https://maps.app.goo.gl/uZtJHS1Wr1Lmifc39) - the Angus burger has a solid slab of beef
     and is a very good size. I haven't tried the fries and I didn't see a wifi network related to the restaurant name,
     but the burger was very good - but then it should be at nearly 5JD it's more than double the price compared to the
