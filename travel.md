@@ -3379,7 +3379,6 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
 TODO:
 
 - [AlQuds Falafel](https://maps.app.goo.gl/HqyoE5Emf86rKDFDA) - 4.5
-- [Mijana](https://maps.app.goo.gl/Z6gkrdpbLbRoenC26) - 4.8 restaurant
 - [Shawerma 3a saj](https://maps.app.goo.gl/upqzKVHQNJ3AaR9o8) - 4.4 cheap shawerma I'm told is good
 - [Al-Quds Kafeteria](https://maps.app.goo.gl/tJgxmqisGLHdZpek8) - 4.4
 - [Satar Coffee House](https://maps.app.goo.gl/SMdCyB6sHzaxhvgC6) - 4.5
