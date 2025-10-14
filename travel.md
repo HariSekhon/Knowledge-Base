@@ -3362,6 +3362,9 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     to the fattoush, to the mixed grill, everything was good.
     The desserts looked great too, but I haven't tried one yet.
     Has wifi
+  - [Kee Korey](https://maps.app.goo.gl/2kdDjMqL8TUqFTc78) -
+    Good choice especially when you need a break from all the kebab and middle eastern food
+    Wifi 36/5 Mbit/s (first wifi network didn't work)
   - [Kebab felfel & sumac](https://maps.app.goo.gl/6YQdNnFMxbeLgZTy9) - madly popular takeaway, even after midnight,
     good quality fast food (it's not fast), with kebab wraps and cheeseburgers for 1 JD - an absolute steal
   - [Juice Village](https://maps.app.goo.gl/zj1MMNzJFFAMQM8s7) - fresh squeezed juices for 1.5-3 JD
