@@ -3366,7 +3366,7 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     although could have more beef,
     but overall a very solid well balanced meal with lots of rice and vegetables and some beef and a fried egg.
     Make sure to thoroughly mix in the side sauce for great flavour.
-    Good choice especially when you need a break from all the kebab and middle eastern food
+    Good choice especially when you need a break from all the kebab and middle eastern food.
     Wifi 36/5 Mbit/s (first wifi network didn't work)
   - [Kebab felfel & sumac](https://maps.app.goo.gl/6YQdNnFMxbeLgZTy9) - madly popular takeaway, even after midnight,
     good quality fast food (it's not fast), with kebab wraps and cheeseburgers for 1 JD - an absolute steal
