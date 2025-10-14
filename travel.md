@@ -3369,6 +3369,7 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     Good choice especially when you need a break from all the kebab and middle eastern food.
     The HoDduk traditional korean sweet pancake was smaller than expected, but very sweet and cinnamony,
     and comes with a scoop of vanilla ice cream - good if you have a sweet tooth.
+    I could skip the dessert next time, although they also have mochi
     Wifi 36/5 Mbit/s (first wifi network didn't work)
   - [Kebab felfel & sumac](https://maps.app.goo.gl/6YQdNnFMxbeLgZTy9) - madly popular takeaway, even after midnight,
     good quality fast food (it's not fast), with kebab wraps and cheeseburgers for 1 JD - an absolute steal
