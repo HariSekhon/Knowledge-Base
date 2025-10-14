@@ -3350,6 +3350,12 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
 -->
 
 - [Rainbow St.](https://maps.app.goo.gl/F53XGxxLvwzPKUbw7) - full of restaurants
+  - [Mijana](https://maps.app.goo.gl/kmK8fd9AsQwvo9jj7) - upmarket restaurant with excellent menu, spacious shisha table
+    seating on ground floor and nice rooftop seating, although the music in the evening was a bit loud.
+    The food itself was top notch, from the lebanese sausages with pomegranate mollasses,
+    to the fattoush, to the mixed grill, everything was good.
+    The desserts looked great too, but I haven't tried one yet.
+    Has wifi
   - [Kebab felfel & sumac](https://maps.app.goo.gl/6YQdNnFMxbeLgZTy9) - madly popular takeaway, even after midnight,
     good quality fast food (it's not fast), with kebab wraps and cheeseburgers for 1 JD - an absolute steal
   - [Juice Village](https://maps.app.goo.gl/zj1MMNzJFFAMQM8s7) - fresh squeezed juices for 1.5-3 JD
