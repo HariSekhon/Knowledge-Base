@@ -3319,6 +3319,10 @@ passport control.
 
 The capital of Jordan.
 
+There are lots of good restaurants in Amman at reasonable prices, especially around Rainbow Street.
+Meat is widely available and affordable,
+and there are even a few japanese restaurants, although they are relatively expensive compared to the other restaurants.
+
 ##### Bus from Airport to Amman
 
 The airport is quite a long way outside Amman - it's a 40 minute drive.
