@@ -3381,6 +3381,9 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     and is a very good size. I haven't tried the fries and I didn't see a wifi network related to the restaurant name,
     but the burger was very good - but then it should be at nearly 5JD it's more than double the price compared to the
     standard burger at nearly 2JD - it comes with cheese and the burger itself has a peppery taste
+  - [Arcobaleno Pizza](Arcobaleno Pizza) - good pizza from a wooden oven - had the Calabria pizza with olive replaced by
+    tomato - 5JD for a medium which is plenty for one.
+    Closes at 1am in winter instead of 3am as Google Maps suggests
 - [Faisal Cafe - Restaurant](https://maps.app.goo.gl/UPGmqLmu6qQXbcqX8) - the traditional mansaf dish of lamb and rice
   was decent, although the yellow rice was a bit bland.
   The rice in the chicken maqluba was far more tastey as it had been mixed/seasoned with some flavours
