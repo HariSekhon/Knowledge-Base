@@ -3362,7 +3362,10 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     to the fattoush, to the mixed grill, everything was good.
     The desserts looked great too, but I haven't tried one yet.
     Has wifi
-  - [Kee Korey](https://maps.app.goo.gl/2kdDjMqL8TUqFTc78) -
+  - [Kee Korey](https://maps.app.goo.gl/2kdDjMqL8TUqFTc78) - the bibimbap is very tasty,
+    although could have more beef,
+    but overall a very solid well balanced meal with lots of rice and vegetables and some beef and a fried egg.
+    Make sure to thoroughly mix in the side sauce for great flavour.
     Good choice especially when you need a break from all the kebab and middle eastern food
     Wifi 36/5 Mbit/s (first wifi network didn't work)
   - [Kebab felfel & sumac](https://maps.app.goo.gl/6YQdNnFMxbeLgZTy9) - madly popular takeaway, even after midnight,
