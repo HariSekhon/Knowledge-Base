@@ -3360,8 +3360,12 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     seating on ground floor and nice rooftop seating, although the music in the evening was a bit loud.
     The food itself was top notch, from the lebanese sausages with pomegranate mollasses,
     to the fattoush, to the mixed grill, everything was good.
+    The steak sandwich had good solid beef strips,
+    but also cream sauce and coated in cheese and soft bap base more akin to a hotdog bun than a "baguette"
+    as a european would understand that word.
+    It comes with skinny fries, ketchup and a small coleslaw.
     The desserts looked great too, but I haven't tried one yet.
-    Has wifi
+    Has wifi, but wasn't working consistently the second time I came here
   - [Kee Korey](https://maps.app.goo.gl/2kdDjMqL8TUqFTc78) - the bibimbap is very tasty,
     although could have more beef,
     but overall a very solid well balanced meal with lots of rice and vegetables and some beef and a fried egg.
