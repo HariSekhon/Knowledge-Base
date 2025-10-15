@@ -224,6 +224,14 @@ print(result["text"])
 
 <!--
 
+### Presentation
+
+#### Gamma
+
+<https://gamma.app/>
+
+Designs presentations, websites, social media posts etc.
+
 #### Translate Video
 
 <https://clideo.com/translate-instagram-video>
