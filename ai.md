@@ -31,6 +31,8 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 - [Visual](#visual)
   - [Image](#image)
   - [Video](#video)
+  - [Presentation](#presentation)
+    - [Gamma](#gamma)
 - [UI](#ui)
 - [App Generation](#app-generation)
 - [Coding](#coding)
@@ -224,14 +226,6 @@ print(result["text"])
 
 <!--
 
-### Presentation
-
-#### Gamma
-
-<https://gamma.app/>
-
-Designs presentations, websites, social media posts etc.
-
 #### Translate Video
 
 <https://clideo.com/translate-instagram-video>
@@ -241,6 +235,14 @@ Designs presentations, websites, social media posts etc.
 <https://videotranslator.blipcut.com/instagram-video-translator.html>
 
 -->
+
+### Presentation
+
+#### Gamma
+
+<https://gamma.app/>
+
+Designs presentations, websites, social media posts etc.
 
 ## UI
 
