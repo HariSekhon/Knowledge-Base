@@ -3414,6 +3414,7 @@ Not recommended:
   The spagetti al ragu was mediocre and they don't take card payments.
   Orange juice was ok but a bit small.
   They even charged 1.75JD for table water :eyeroll:.
+  Mediocre and overpriced.
   Wifi 20/10 Mbit/s
 
 ### Laos
