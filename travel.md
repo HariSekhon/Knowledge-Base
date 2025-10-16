@@ -3366,9 +3366,6 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     It comes with skinny fries, ketchup and a small coleslaw.
     The blueberry cheesecake came stacked high, it might have been too much.
     Has wifi, but wasn't working consistently the second time I came here
-  - [Mar Yohanna](https://maps.app.goo.gl/Cfb2XNUoQS6th35VA) - Italian restaurant with large outdoor seating area,
-    moderately expensive for Jordan.
-    Wifi 20/10 Mbit/s
   - [Kee Korey](https://maps.app.goo.gl/2kdDjMqL8TUqFTc78) - the bibimbap is very tasty,
     although could have more beef,
     but overall a very solid well balanced meal with lots of rice and vegetables and some beef and a fried egg.
@@ -3409,6 +3406,14 @@ TODO:
 - [Al-Quds Kafeteria](https://maps.app.goo.gl/tJgxmqisGLHdZpek8) - 4.4
 - [Satar Coffee House](https://maps.app.goo.gl/SMdCyB6sHzaxhvgC6) - 4.5
 - [Flour & Fire](https://maps.app.goo.gl/d4Y6FqTJUM8hdmRx9) - 4.8 bakery
+
+Not recommended:
+
+- [Mar Yohanna](https://maps.app.goo.gl/Cfb2XNUoQS6th35VA) - Italian restaurant with large outdoor seating area,
+  moderately expensive for Jordan.
+  The spagetti al ragu was mediocre and they don't take card payments.
+  Orange juice was ok but a bit small
+  Wifi 20/10 Mbit/s
 
 ### Laos
 
