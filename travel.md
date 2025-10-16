@@ -3413,7 +3413,7 @@ Not recommended:
   outdoor seating area, moderately expensive for Jordan.
   The spagetti al ragu was mediocre and they don't take card payments.
   Orange juice was ok but a bit small.
-  They even charged 1.75JD for table water 🙄 - which I didn't ask for -
+  They even charged 1.75 JD for table water 🙄 - which I didn't ask for -
   and is ridiculous as that's nearly the same price as a fresh squeeze juice - and not even a fancy mineral water,
   just one of those refill yourself bottles with whatever water.
   Wifi 20/10 Mbit/s
