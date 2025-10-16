@@ -3364,7 +3364,7 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     but also cream sauce and coated in cheese and soft bap base more akin to a hotdog bun than a "baguette"
     as a european would understand that word.
     It comes with skinny fries, ketchup and a small coleslaw.
-    The desserts looked great too, but I haven't tried one yet.
+    The blueberry cheesecake came stacked high, it might have been too much.
     Has wifi, but wasn't working consistently the second time I came here
   - [Kee Korey](https://maps.app.goo.gl/2kdDjMqL8TUqFTc78) - the bibimbap is very tasty,
     although could have more beef,
