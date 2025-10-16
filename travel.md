@@ -3412,7 +3412,7 @@ Not recommended:
 - [Mar Yohanna](https://maps.app.goo.gl/Cfb2XNUoQS6th35VA) - Italian restaurant with large outdoor seating area,
   moderately expensive for Jordan.
   The spagetti al ragu was mediocre and they don't take card payments.
-  Orange juice was ok but a bit small
+  Orange juice was ok but a bit small.
   Wifi 20/10 Mbit/s
 
 ### Laos
