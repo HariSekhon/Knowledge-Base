@@ -3415,6 +3415,7 @@ TODO:
 - [Marleys restaurant](https://maps.app.goo.gl/2D2bbeYTapHveE7SA) - 4.8
 - [Roe - Ramen, Dimsum, Sushi](https://maps.app.goo.gl/eTd2U7CZUN5KmzCVA) - 4.6
 - [We Farm](https://maps.app.goo.gl/3uutSnsmsk3Xxkym8) - 4.7 fresh juice
+- [Rumi Cafe and Deli](https://maps.app.goo.gl/m52rwVAUD1MvoZxJA) - 4.5
 - [Ciao Ciao](https://maps.app.goo.gl/kBms6EcSPZ1xFiRX6) - 4.8
 - [BigT Burgers](https://maps.app.goo.gl/g8BVVAEAW3d93se3A) - 4.8
 - [Pizza Turtle Restaurant](https://maps.app.goo.gl/WXecUH4pxNRdM2hQA) - 4.8
