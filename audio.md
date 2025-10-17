@@ -4,6 +4,7 @@
 
 - [Spotify](#spotify)
   - [Clear Local Spotify Desktop Cache](#clear-local-spotify-desktop-cache)
+- [Shazam Songs while using Headphones on Mac](#shazam-songs-while-using-headphones-on-mac)
 - [MP3 metadata editing](#mp3-metadata-editing)
   - [Setting Author and Album metadata](#setting-author-and-album-metadata)
   - [Setting Track Number metadata](#setting-track-number-metadata)
@@ -32,6 +33,34 @@ On Linux:
 ```shell
 rm -rf ~/.cache/spotify/Storage
 ```
+
+## Shazam Songs while using Headphones on Mac
+
+Capture those tunes from your favourite movies or TV shows while you're listening with headphones.
+
+Create an aggregate multi-output audio device with your headphones and a dummy output,
+and then point Shazam to the dummy output to link it to the audio.
+
+On Mac, you can do this by:
+
+1. install [Blackhole](https://existential.audio/blackhole/) (choose the 2ch device)
+
+```shell
+brew install --cask blackhole-2ch
+```
+
+2. restart for the new Blackhole 2ch device to be usable
+
+3. `Cmd`+`Space` to open Spotlight  and search for `Audio Midi Setup App`
+
+or from the command line:
+
+```shell
+open -a "Audio Midi Setup
+```
+
+4. Click `+` and `Create Multi-Output Device`
+5. Add your headphones and `Blackhole 2ch` to the multi-output audio device
 
 ## MP3 metadata editing
 
