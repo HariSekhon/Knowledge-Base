@@ -1387,7 +1387,7 @@ eg. for otherwise stubborn services like Avira antivirus.
 ### Set Sound Output Volume
 
 ```shell
-osascript -e "set volume output volume 40"
+osascript -e "set volume output volume 50"
 ```
 
 ### Switch Sound Output
