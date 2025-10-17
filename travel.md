@@ -3406,6 +3406,7 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
 TODO:
 
 - [Oliva Pizza and Pasta](https://maps.app.goo.gl/rUKu1EoaydDx8djg7) - 4.7
+- [BigT Burgers](https://maps.app.goo.gl/g8BVVAEAW3d93se3A) - 4.8
 - [AlQuds Falafel](https://maps.app.goo.gl/HqyoE5Emf86rKDFDA) - 4.5
 - [Shawerma 3a saj](https://maps.app.goo.gl/upqzKVHQNJ3AaR9o8) - 4.4 cheap shawerma I'm told is good
 - [Al-Quds Kafeteria](https://maps.app.goo.gl/tJgxmqisGLHdZpek8) - 4.4
