@@ -61,11 +61,12 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [List all Configured Wifi Networks](#list-all-configured-wifi-networks)
   - [Say - text-to-speech](#say---text-to-speech)
   - [Finding Files - Spotlight Search and Index Management](#finding-files---spotlight-search-and-index-management)
-  - [Show Power Management Settings](#show-power-management-settings)
-  - [Show Power Status, Batteries & UPS](#show-power-status-batteries--ups)
-  - [Show Power Adapter Details](#show-power-adapter-details)
-  - [Sleep Immediately](#sleep-immediately)
-  - [Prevent Sleep](#prevent-sleep)
+  - [Power Management](#power-management)
+    - [Show Power Management Settings](#show-power-management-settings)
+    - [Show Power Status, Batteries & UPS](#show-power-status-batteries--ups)
+    - [Show Power Adapter Details](#show-power-adapter-details)
+    - [Sleep Immediately](#sleep-immediately)
+    - [Prevent Sleep](#prevent-sleep)
   - [Packages](#packages)
     - [Install Package](#install-package)
     - [Automating Installer Choices](#automating-installer-choices)
@@ -851,7 +852,9 @@ Enable / disable Spotlight indexing for a given volume or entirely:
 mdutil -i
 ```
 
-### Show Power Management Settings
+### Power Management
+
+#### Show Power Management Settings
 
 ```shell
 pmset -g
@@ -875,7 +878,7 @@ Currently in use:
  womp                 1
 ```
 
-### Show Power Status, Batteries & UPS
+#### Show Power Status, Batteries & UPS
 
 ```shell
 pmset -g ps
@@ -886,7 +889,7 @@ Now drawing from 'AC Power'
  -InternalBattery-0 (id=nnnnnnnn)       86%; charging; 0:35 remaining present: true
 ```
 
-### Show Power Adapter Details
+#### Show Power Adapter Details
 
 Only on Macbook / Macbook Pro:
 
@@ -915,7 +918,7 @@ or
  Firmware Version = 01090057
 ```
 
-### Sleep Immediately
+#### Sleep Immediately
 
 Put the machine to sleep immediately using this command:
 
@@ -923,7 +926,7 @@ Put the machine to sleep immediately using this command:
 sudo pmset sleepnow
 ```
 
-### Prevent Sleep
+#### Prevent Sleep
 
 ```shell
 sudo caffeinate -i
