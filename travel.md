@@ -3313,9 +3313,10 @@ However, since historical attractions will set you back nearly the same amount a
 
 #### Jordan Taxi Apps
 
-- [Careem](https://www.careem.com/) - cheaper than Uber when I checked, this is the best app in the middle eastern
-  countries it operates in, I first used this app in Dubai (UAE)
-- [Uber](https://www.uber.com/jo/en/)
+- [Uber](https://www.uber.com/jo/en/) - reliable and more accurately priced than Careem
+- [Careem](https://www.careem.com/) - cheaper than Uber on app, but the drivers usually charge you more than advertised
+  and the app itself doesn't let you cancel a taxi after 2 minutes without charging you a penalty.
+  I've also had drivers be unreliable and then have to contest the cancellation charges when they don't arrive
 - [Jeeny](https://www.jeeny.me/en/) - expected a mobile number from one of the middle eastern countries, couldn't use it
 
 #### Amman
