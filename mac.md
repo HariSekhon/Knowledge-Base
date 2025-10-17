@@ -82,6 +82,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
       - [CLI - HDIutil](#cli---hdiutil)
     - [Erase a disk before decommissioning it](#erase-a-disk-before-decommissioning-it)
   - [Service Management](#service-management)
+  - [Switch Sound Output](#switch-sound-output)
+- [Shazam Songs while using Headphones](#shazam-songs-while-using-headphones)
 - [KeyChain Access](#keychain-access)
 - [Binaries Debugging](#binaries-debugging)
 - [Creating Bootable CDs & USBs from ISOs](#creating-bootable-cds--usbs-from-isos)
