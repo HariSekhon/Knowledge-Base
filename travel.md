@@ -3415,7 +3415,8 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     high do not include sales tax which they add at the till.
     Aima Ice Cream further above is better for ice cream and less than half the price.
     No guest wifi (wifi is reserved for the till system only)
-- [Ayman Gingerize](https://maps.app.goo.gl/GwFzLTN7NAcrdQs37) - ginger based sparkling juice drinks and teas
+- [Ayman Gingerize](https://maps.app.goo.gl/GwFzLTN7NAcrdQs37) - ginger based sparkling juice drinks and teas. No
+  seating, takeaway only
 - [Faisal Cafe - Restaurant](https://maps.app.goo.gl/UPGmqLmu6qQXbcqX8) - the traditional mansaf dish of lamb and rice
   was decent, although the yellow rice was a bit bland.
   The rice in the chicken maqluba was far more tastey as it had been mixed/seasoned with some flavours
