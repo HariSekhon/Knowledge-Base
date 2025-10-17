@@ -3365,9 +3365,9 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
 
 -->
 
-- [Aima Ice Cream](https://maps.app.goo.gl/syQGJgzawKtsD5iS9) - 2 scoop cup for 1.75JD, half the price of the
-  Gerard Ice Cream chain you'll find on Rainbow St and elsewhere.
-  They let you try flavours before you buy,
+- [Aima Ice Cream](https://maps.app.goo.gl/syQGJgzawKtsD5iS9) - 2 scoop cup for 1.75JD, 2JD if you get a big fancy cone.
+  Much better priced than the Gerard Ice Cream chain you'll find on Rainbow St and elsewhere.
+  They also let you try flavours before you buy,
   I liked the Rose (which has pistaccio green chocolate on its surface) and the cherry frozen yoghurt.
   The mango and chocolate are also good, as is the blueberry frozen yoghurt.
   Wifi 20/19 Mbit/s
