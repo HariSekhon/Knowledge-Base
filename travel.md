@@ -3427,6 +3427,16 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
   Service was slow so mains were skipped in favour of somewhere else as most of them look like a standard fair,
   only the veal with pistacchio might have been worth trying.
   37/45 Mbit wifi
+- [Taj Mall](https://maps.app.goo.gl/x6F57XZzPB84bH8L6) - 2 levels of designer shops, nowhere near as "palacial" as its
+  Google Maps portrays, it's just a mid-sized international brand mall
+- [Abdali Mall](https://maps.app.goo.gl/c3JHe5iFz7FQoDq66) - I prefer the Abdali Mall overall in terms of layout, but
+  the Taj Mall probably has more expensive brand shops
+- [Abdali Boulevard](https://maps.app.goo.gl/LFiX4AhmcFKEZjjQA) - wall to wall restaurants and coffee shops
+  - [Black Stacks](https://maps.app.goo.gl/9XYHokuGhcR6Te6c8) - the main Black Burger was ok but a bit pricey at 7.7JD
+    once you add on tax which is not included in the price
+    (for comparison Firefly Burger on Rainbow St was bigger, better and cheaper).
+    The bun wasn’t great, I took the top of it off.
+    Wifi connected but didn’t work
 
 TODO:
 
@@ -3437,6 +3447,9 @@ TODO:
 - [Gerard Ice Cream Jabal Weibdeh](https://maps.app.goo.gl/KfCKE8t7cP7bJUk67) - 4.6
 - [Rumi Cafe and Deli](https://maps.app.goo.gl/m52rwVAUD1MvoZxJA) - 4.5
 - [Ciao Ciao](https://maps.app.goo.gl/kBms6EcSPZ1xFiRX6) - 4.8
+- [Hazourah Restaurant](https://maps.app.goo.gl/fwSLdibrpQXp3UsZ9)
+- [Jubran Restaurant](https://maps.app.goo.gl/NQPTMWdy1Fk6jL3A6) - 4.8
+- [Habib Beirut](https://maps.app.goo.gl/ceoNzgqJ8sxy4Lbd6) - 4.7 lebanese
 - [BigT Burgers](https://maps.app.goo.gl/g8BVVAEAW3d93se3A) - 4.8
 - [Pizza Turtle Restaurant](https://maps.app.goo.gl/WXecUH4pxNRdM2hQA) - 4.8
 - [AlQuds Falafel](https://maps.app.goo.gl/HqyoE5Emf86rKDFDA) - 4.5
