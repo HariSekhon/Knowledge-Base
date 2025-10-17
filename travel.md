@@ -3301,12 +3301,16 @@ Pristina
 
 ### Jordan
 
-#### Jordan Visa
+#### Jordan Visa & JordanPass
 
 You need a visa to enter Jordan, even with a UK passport.
 
 The visa costs 40 JD (Jordanian dollars, €49) and can be obtained at the airport on the left just before you reach
 passport control.
+
+However, since historical attractions will set you back nearly the same amount again, you would be better off buying a
+[Jordan Pass](https://www.jordanpass.jo/) which will cover the visa and the entry of the historical sites.
+
 
 #### Jordan Taxi Apps
 
