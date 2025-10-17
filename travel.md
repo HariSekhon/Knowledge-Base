@@ -187,7 +187,7 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Rome](#rome)
     - [Venice](#venice)
   - [Jordan](#jordan)
-    - [Jordan Visa & JordanPass](#jordan-visa--jordanpass)
+    - [Jordan Visa & Jordan Pass](#jordan-visa--jordan-pass)
     - [Jordan Taxi Apps](#jordan-taxi-apps)
     - [Amman](#amman)
       - [Bus from Airport to Amman](#bus-from-airport-to-amman)
@@ -3301,7 +3301,7 @@ Pristina
 
 ### Jordan
 
-#### Jordan Visa & JordanPass
+#### Jordan Visa & Jordan Pass
 
 You need a visa to enter Jordan, even with a UK passport.
 
