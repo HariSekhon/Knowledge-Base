@@ -3326,7 +3326,7 @@ There are quite a few historic sites dating back to Roman times.
 
 Amman has also lots of good restaurants at reasonable prices, especially around
 [Rainbow Street](https://maps.app.goo.gl/Dcj9De8Tso5D4SMdA) and
-[Jabal Al Lweibdeh](https://maps.app.goo.gl/RjNi8Y8pgmAfbsha6)
+[Jabal Al Lweibdeh](https://maps.app.goo.gl/RjNi8Y8pgmAfbsha6).
 Meat is widely available and affordable,
 and there are even a few japanese restaurants, although they are relatively expensive compared to the other restaurants.
 
