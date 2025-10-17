@@ -3392,6 +3392,12 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
   foodie places
   - [Rolling Pin](https://maps.app.goo.gl/8cfWRYfpBrsZ55h99) - small pizzeria, good quality pizzas and cheap,
     only 2.50 JD
+  - [Four Winters Ice Cream](https://maps.app.goo.gl/gjwwdDhUaJovJiz49) - expensive ice cream because they use frozen
+    nitrogen to solidify liquid ice cream on demand, which is why it’s expensive.
+    Has açai too (was sold out so I couldn't try it).
+    The chocolate ice cream was reasonable, but not sure it was worth the price, and beware that prices while already
+    high do not include sales tax which they add at the till.
+    No guest wifi (wifi is reserved for the till system only)
 - [Faisal Cafe - Restaurant](https://maps.app.goo.gl/UPGmqLmu6qQXbcqX8) - the traditional mansaf dish of lamb and rice
   was decent, although the yellow rice was a bit bland.
   The rice in the chicken maqluba was far more tastey as it had been mixed/seasoned with some flavours
