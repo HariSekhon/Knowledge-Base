@@ -82,6 +82,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
       - [CLI - HDIutil](#cli---hdiutil)
     - [Erase a disk before decommissioning it](#erase-a-disk-before-decommissioning-it)
   - [Service Management](#service-management)
+  - [Set Sound Output Volume](#set-sound-output-volume)
   - [Switch Sound Output](#switch-sound-output)
 - [Shazam Songs while using Headphones](#shazam-songs-while-using-headphones)
 - [KeyChain Access](#keychain-access)
@@ -1382,6 +1383,12 @@ See [dhcp.md](dhcp.md) for a practical example of using this for the built-in tf
 You can also go to Finder and delete the App with `Ctrl`-`Backspace`
 which gives a pop-up to remove its system extensions (also stops its services),
 eg. for otherwise stubborn services like Avira antivirus.
+
+### Set Sound Output Volume
+
+```shell
+osascript -e "set volume output volume 50"
+```
 
 ### Switch Sound Output
 
