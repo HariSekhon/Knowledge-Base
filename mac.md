@@ -1381,6 +1381,48 @@ You can also go to Finder and delete the App with `Ctrl`-`Backspace`
 which gives a pop-up to remove its system extensions (also stops its services),
 eg. for otherwise stubborn services like Avira antivirus.
 
+### Switch Sound Output
+
+Install switchaudio-osx:
+
+```shell
+brew install switchaudio-osx
+```
+
+List sound outputs:
+
+```shell
+SwitchAudioSource -a -t output
+```
+
+```text
+Hari’s AirPods Pro
+BlackHole 2ch
+MacBook Pro Speakers
+Microsoft Teams Audio
+Multi-Output Device
+```
+
+Choose one:
+
+```shell
+SwitchAudioSource -s "MacBook Pro Speakers"
+```
+
+```shell
+SwitchAudioSource -s "Hari’s AirPods Pro"
+```
+
+```shell
+SwitchAudioSource -s "Multi-Output Device"
+```
+
+## Shazam Songs while using Headphones
+
+Capture the songs from your favourites movies or TV shows while listening with headphones.
+
+See the instructions on the [audio](audio.md#shazam-songs-while-using-headphones-on-mac) page.
+
 ## KeyChain Access
 
 ```shell
