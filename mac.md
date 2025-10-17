@@ -49,14 +49,16 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [The Screenshot.app](#the-screenshotapp)
     - [The ScreenCapture CLI](#the-screencapture-cli)
   - [Screen Recording](#screen-recording)
-  - [Flush the DNS Cache](#flush-the-dns-cache)
-  - [Show DNS Settings](#show-dns-settings)
-  - [Set DNS Servers](#set-dns-servers)
-  - [Set DNS Search Domain](#set-dns-search-domain)
-  - [Set Hostname](#set-hostname)
-  - [Get Current Wifi Network Name](#get-current-wifi-network-name)
-  - [Get Current Wifi Network Password](#get-current-wifi-network-password)
-  - [List all Configured Wifi Networks](#list-all-configured-wifi-networks)
+  - [DNS](#dns)
+    - [Show DNS Settings](#show-dns-settings)
+    - [Set DNS Servers](#set-dns-servers)
+    - [Set DNS Search Domain](#set-dns-search-domain)
+    - [Set Hostname](#set-hostname)
+    - [Flush the DNS Cache](#flush-the-dns-cache)
+  - [Wifi](#wifi)
+    - [Get Current Wifi Network Name](#get-current-wifi-network-name)
+    - [Get Current Wifi Network Password](#get-current-wifi-network-password)
+    - [List all Configured Wifi Networks](#list-all-configured-wifi-networks)
   - [Say - text-to-speech](#say---text-to-speech)
   - [Finding Files - Spotlight Search and Index Management](#finding-files---spotlight-search-and-index-management)
   - [Show Power Management Settings](#show-power-management-settings)
@@ -702,20 +704,15 @@ open -a "QuickTime Player.app"
 
 And then select `File` -> `New Screen Recording` or use shortcut `Control` + `Command` +`N`.
 
-### Flush the DNS Cache
+### DNS
 
-```shell
-dscacheutil -flushcache
-sudo killall -HUP mDNSResponder
-```
-
-### Show DNS Settings
+#### Show DNS Settings
 
 ```shell
 scutil --dns
 ```
 
-### Set DNS Servers
+#### Set DNS Servers
 
 Sometimes you want to use public DNS servers for better performance than the local DHCP given ones:
 
@@ -733,7 +730,7 @@ In [DevOps-Bash-tools](devops-bash-tools.md) the shell has a function `dhcpdns` 
 interfaces and remove the DNS search domains since you should inherit them from DHCP and not leak those FQDN
 searches to the internet if on public networks.
 
-### Set DNS Search Domain
+#### Set DNS Search Domain
 
 ```shell
 sudo networksetup -setsearchdomains en0 mydomain.com
@@ -752,7 +749,7 @@ sudo networksetup -setsearchdomains en0 "Empty"
 
 or `clear_dns_search` function in [DevOps-Bash-tools](devops-bash-tools.md) to do this for all interfaces.
 
-### Set Hostname
+#### Set Hostname
 
 ```shell
 hostname=whitestar
@@ -771,13 +768,22 @@ scutil --get ComputerName
 scutil --get LocalHostName
 ```
 
-### Get Current Wifi Network Name
+#### Flush the DNS Cache
+
+```shell
+dscacheutil -flushcache
+sudo killall -HUP mDNSResponder
+```
+
+### Wifi
+
+#### Get Current Wifi Network Name
 
 ```shell
 networksetup -getairportnetwork en0 | awk -F': ' '{print $2}'
 ```
 
-### Get Current Wifi Network Password
+#### Get Current Wifi Network Password
 
 Prompts with a UI pop-up for administrative access to the system's keychain (`sudo` doesn't prevent this unfortunately):
 
@@ -787,7 +793,7 @@ security find-generic-password -g -w -D "AirPort network password" \
           awk -F': ' '{print $2}')"
 ```
 
-### List all Configured Wifi Networks
+#### List all Configured Wifi Networks
 
 ```shell
 networksetup -listpreferredwirelessnetworks en0 |
