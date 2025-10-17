@@ -3388,6 +3388,10 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
   - [Arcobaleno Pizza](Arcobaleno Pizza) - good pizza from a wooden oven - had the Calabria pizza with olive replaced by
     tomato - 5JD for a medium which is plenty for one.
     Closes at 1am in winter instead of 3am as Google Maps suggests
+- [Jabal Al Lweibdeh](https://maps.app.goo.gl/cPtteZESTXE1qTuS9) - lots of gentrified coffees shops, shisha and small
+  foodie places
+  - [Rolling Pin](https://maps.app.goo.gl/8cfWRYfpBrsZ55h99) - small pizzeria, good quality pizzas and cheap,
+    only 2.50 JD
 - [Faisal Cafe - Restaurant](https://maps.app.goo.gl/UPGmqLmu6qQXbcqX8) - the traditional mansaf dish of lamb and rice
   was decent, although the yellow rice was a bit bland.
   The rice in the chicken maqluba was far more tastey as it had been mixed/seasoned with some flavours
@@ -3401,6 +3405,7 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
 
 TODO:
 
+- [Oliva Pizza and Pasta](https://maps.app.goo.gl/rUKu1EoaydDx8djg7) - 4.7
 - [AlQuds Falafel](https://maps.app.goo.gl/HqyoE5Emf86rKDFDA) - 4.5
 - [Shawerma 3a saj](https://maps.app.goo.gl/upqzKVHQNJ3AaR9o8) - 4.4 cheap shawerma I'm told is good
 - [Al-Quds Kafeteria](https://maps.app.goo.gl/tJgxmqisGLHdZpek8) - 4.4
