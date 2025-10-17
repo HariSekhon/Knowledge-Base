@@ -3313,7 +3313,8 @@ However, since historical attractions will set you back nearly the same amount a
 
 #### Jordan Taxi Apps
 
-- [Uber](https://www.uber.com/jo/en/) - reliable and more accurately priced than Careem
+- [Uber](https://www.uber.com/jo/en/) - reliable and more accurately priced than Careem, at least in Jordan in my
+  experience
 - [Careem](https://www.careem.com/) - cheaper than Uber on app, but the drivers usually charge you more than advertised
   and the app itself doesn't let you cancel a taxi after 2 minutes without charging you a penalty.
   I've also had drivers be unreliable and then have to contest the cancellation charges when they don't arrive
