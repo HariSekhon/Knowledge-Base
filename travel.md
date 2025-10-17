@@ -187,7 +187,7 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Rome](#rome)
     - [Venice](#venice)
   - [Jordan](#jordan)
-    - [Jordan Visa](#jordan-visa)
+    - [Jordan Visa & JordanPass](#jordan-visa--jordanpass)
     - [Jordan Taxi Apps](#jordan-taxi-apps)
     - [Amman](#amman)
       - [Bus from Airport to Amman](#bus-from-airport-to-amman)
@@ -3310,7 +3310,6 @@ passport control.
 
 However, since historical attractions will set you back nearly the same amount again, you would be better off buying a
 [Jordan Pass](https://www.jordanpass.jo/) which will cover the visa and the entry of the historical sites.
-
 
 #### Jordan Taxi Apps
 
