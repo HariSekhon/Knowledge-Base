@@ -3324,9 +3324,12 @@ The capital of Jordan.
 
 There are quite a few historic sites dating back to Roman times.
 
-There are also lots of good restaurants in Amman at reasonable prices, especially around Rainbow Street.
+Amman has also lots of good restaurants at reasonable prices, especially around Rainbow Street.
 Meat is widely available and affordable,
 and there are even a few japanese restaurants, although they are relatively expensive compared to the other restaurants.
+
+The city is quite hilly in parts and with large public staircases.
+The roads are surprisingly dirty (that black dust as opposed to litter) similar to parts of London.
 
 ##### Bus from Airport to Amman
 
