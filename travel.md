@@ -3428,7 +3428,7 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
   only the veal with pistacchio might have been worth trying.
   37/45 Mbit wifi
 - [Taj Mall](https://maps.app.goo.gl/x6F57XZzPB84bH8L6) - 2 levels of designer shops, nowhere near as "palacial" as its
-  Google Maps portrays, it's just a mid-sized international brand mall
+  Google Maps portrays, it's just a mid-sized international brand mall - whoever wrote this needs to see Dubai Mall!
 - [Abdali Mall](https://maps.app.goo.gl/c3JHe5iFz7FQoDq66) - I prefer the Abdali Mall overall in terms of layout, but
   the Taj Mall probably has more expensive brand shops
 - [Abdali Boulevard](https://maps.app.goo.gl/LFiX4AhmcFKEZjjQA) - wall to wall restaurants and coffee shops
