@@ -61,7 +61,16 @@ open -a "Audio Midi Setup
 
 4. Click `+` and `Create Multi-Output Device`
 5. Add your headphones and `Blackhole 2ch` to the multi-output audio device
-6. Switch the sound output to use the new Multi-Output Device
+6. Switch the sound output to use the new Multi-Output Device, via GUI or on the command line:
+
+```shell
+brew install switchaudio-osx
+```
+
+```shell
+SwitchAudioSource -s "Multi-Output Device"
+```
+
 7. Configure the Shazam app settings to use the `Blackhole 2ch` as the sound input device
 
 Shazam away!
