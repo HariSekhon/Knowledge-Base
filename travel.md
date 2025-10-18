@@ -3408,7 +3408,7 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
   foodie places
   - [Roe - Ramen, Dimsum, Sushi](https://maps.app.goo.gl/eTd2U7CZUN5KmzCVA) - a bit pricier than neighbouring places to
     eat but when you need a break from arabic food -
-    especially if you're going for sushi as there are platters up to 99JD
+    especially if you're going for sushi as there are platters up to 99JD.
     The brisket ramen is popular here - the broth is very good, but eggs noodles are nothing special, I wish they'd
     listened and given me the ramen noodles instead.
     The sauce on the beef brisket is overly strong so I recommend you mix it in to the soup.
