@@ -56,7 +56,7 @@ brew install --cask blackhole-2ch
 or from the command line:
 
 ```shell
-open -a "Audio Midi Setup
+open -a "Audio Midi Setup"
 ```
 
 4. Click `+` and `Create Multi-Output Device`
