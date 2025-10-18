@@ -3423,7 +3423,8 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     Aima Ice Cream further above is better for ice cream and less than half the price.
     They also have açai for 6JD which was good, not too sweet.
     No guest wifi (wifi is reserved for the till system only)
-  - [Babel]() - stop to buy water here, they accept credit cards
+  - [Babel Supermarket & Liquor Store](https://maps.app.goo.gl/FpWEEFwAxLUn6R1G9) - stop to buy water here, they accept
+    credit cards
 - [Ayman Gingerize](https://maps.app.goo.gl/GwFzLTN7NAcrdQs37) - ginger based sparkling juice drinks and teas. No
   seating, takeaway only
 - [Faisal Cafe - Restaurant](https://maps.app.goo.gl/UPGmqLmu6qQXbcqX8) - the traditional mansaf dish of lamb and rice
