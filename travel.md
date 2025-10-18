@@ -3416,11 +3416,11 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     No wifi
   - [Rolling Pin](https://maps.app.goo.gl/8cfWRYfpBrsZ55h99) - small pizzeria, good quality pizzas and cheap,
     only 2.50 JD
-  - [Four Winters Ice Cream](https://maps.app.goo.gl/gjwwdDhUaJovJiz49) - expensive ice cream because they use frozen
-    nitrogen to solidify liquid ice cream on demand, which is why it’s expensive.
-    Has açai too (was sold out so I couldn't try it).
+  - [Four Winters Ice Cream](https://maps.app.goo.gl/gjwwdDhUaJovJiz49) - small venue & expensive ice cream because they
+    use frozen liquid nitrogen to solidify liquid ice cream on demand.
     The chocolate ice cream was reasonable, but not sure it was worth the price, and beware that prices while already
-    high do not include sales tax which they add at the till.
+    high does not include sales tax which they add at the till.
+    They have açai though, although it'll cost you 6 JD.
     Aima Ice Cream further above is better for ice cream and less than half the price.
     No guest wifi (wifi is reserved for the till system only)
 - [Ayman Gingerize](https://maps.app.goo.gl/GwFzLTN7NAcrdQs37) - ginger based sparkling juice drinks and teas. No
