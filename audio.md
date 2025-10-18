@@ -73,7 +73,11 @@ SwitchAudioSource -s "Multi-Output Device"
 
 7. Configure the Shazam app settings to use the `Blackhole 2ch` as the sound input device
 
-Shazam away!
+8. Shazam away!
+
+```shell
+open -a Shazam
+```
 
 ## MP3 metadata editing
 
