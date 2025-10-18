@@ -3406,6 +3406,14 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     Closes at 1am in winter instead of 3am as Google Maps suggests
 - [Jabal Al Lweibdeh](https://maps.app.goo.gl/cPtteZESTXE1qTuS9) - lots of gentrified coffees shops, shisha and small
   foodie places
+  - [Roe - Ramen, Dimsum, Sushi](https://maps.app.goo.gl/eTd2U7CZUN5KmzCVA) - a bit pricier than neighbouring places to
+    eat but when you need a break from arabic food -
+    especially if you're going for sushi as there are platters up to 99JD
+    The brisket ramen is popular here - the broth is very good, but eggs noodles are nothing special, I wish they'd
+    listened and given me the ramen noodles instead.
+    The sauce on the beef brisket is overly strong so I recommend you mix it in to the soup.
+    They also have ice cream mochi.
+    No wifi
   - [Rolling Pin](https://maps.app.goo.gl/8cfWRYfpBrsZ55h99) - small pizzeria, good quality pizzas and cheap,
     only 2.50 JD
   - [Four Winters Ice Cream](https://maps.app.goo.gl/gjwwdDhUaJovJiz49) - expensive ice cream because they use frozen
@@ -3442,7 +3450,6 @@ TODO:
 
 - [Oliva Pizza and Pasta](https://maps.app.goo.gl/rUKu1EoaydDx8djg7) - 4.7
 - [Marleys restaurant](https://maps.app.goo.gl/2D2bbeYTapHveE7SA) - 4.8
-- [Roe - Ramen, Dimsum, Sushi](https://maps.app.goo.gl/eTd2U7CZUN5KmzCVA) - 4.6
 - [We Farm](https://maps.app.goo.gl/3uutSnsmsk3Xxkym8) - 4.7 fresh juice
 - [Gerard Ice Cream Jabal Weibdeh](https://maps.app.goo.gl/KfCKE8t7cP7bJUk67) - 4.6
 - [Rumi Cafe and Deli](https://maps.app.goo.gl/m52rwVAUD1MvoZxJA) - 4.5
