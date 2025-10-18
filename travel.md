@@ -3419,7 +3419,7 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
   - [Four Winters Ice Cream](https://maps.app.goo.gl/gjwwdDhUaJovJiz49) - small venue & expensive ice cream because they
     use frozen liquid nitrogen to solidify liquid ice cream on demand.
     The chocolate ice cream was reasonable, but not sure it was worth the price, and beware that prices while already
-    high does not include sales tax which they add at the till.
+    high do not include sales tax which they add at the till.
     Aima Ice Cream further above is better for ice cream and less than half the price.
     They also have açai for 6JD which was good, not too sweet.
     No guest wifi (wifi is reserved for the till system only)
