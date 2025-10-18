@@ -3420,9 +3420,10 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     use frozen liquid nitrogen to solidify liquid ice cream on demand.
     The chocolate ice cream was reasonable, but not sure it was worth the price, and beware that prices while already
     high does not include sales tax which they add at the till.
-    They have açai though, although it'll cost you 6 JD.
     Aima Ice Cream further above is better for ice cream and less than half the price.
+    They also have açai for 6JD which was good, not too sweet.
     No guest wifi (wifi is reserved for the till system only)
+  - [Babel]() -
 - [Ayman Gingerize](https://maps.app.goo.gl/GwFzLTN7NAcrdQs37) - ginger based sparkling juice drinks and teas. No
   seating, takeaway only
 - [Faisal Cafe - Restaurant](https://maps.app.goo.gl/UPGmqLmu6qQXbcqX8) - the traditional mansaf dish of lamb and rice
