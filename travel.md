@@ -3343,8 +3343,13 @@ Amman has also lots of good restaurants at reasonable prices, especially around
 Meat is widely available and affordable,
 and there are even a few japanese restaurants, although they are relatively expensive compared to the other restaurants.
 
-The city is quite hilly in parts and with large public staircases.
-The roads are surprisingly dirty (that black dust as opposed to litter) similar to parts of London.
+The city has lots of large hills with steep inclines and large public staircases, which will tire you out a lot.
+My friend started ordering Uber taxis everywhere even a few minutes walk away just because he was struggling with all
+the hills.
+
+The city is not great for walking, you can't even walk north from the Taj Mall because it is just dual carriageways.
+
+The roads are also surprisingly dirty (that black dust as opposed to litter) similar to parts of London.
 
 ##### Bus from Airport to Amman
 
