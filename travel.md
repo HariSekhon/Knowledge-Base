@@ -3422,6 +3422,11 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     Closes at 1am in winter instead of 3am as Google Maps suggests
 - [Jabal Al Lweibdeh](https://maps.app.goo.gl/cPtteZESTXE1qTuS9) - lots of gentrified coffees shops, shisha and small
   foodie places
+  - [Rumi Cafe and Deli](https://maps.app.goo.gl/m52rwVAUD1MvoZxJA) - large corner cafe with outdoor seating and a
+    great dessert menu.
+    They have a decent selection of tea and coffee drinks,
+    a good selection of fresh squeezed juices, and some brunch food.
+    Wifi 13/13 Mbit/s but it's capture portal with a generated 10 digit numeric code valid for 90 minutes per customer
   - [Roe - Ramen, Dimsum, Sushi](https://maps.app.goo.gl/eTd2U7CZUN5KmzCVA) - a bit pricier than neighbouring places to
     eat but when you need a break from arabic food -
     especially if you're going for sushi as there are platters up to 99JD.
@@ -3470,7 +3475,6 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
 
 TODO:
 
-- [Rumi Cafe and Deli](https://maps.app.goo.gl/m52rwVAUD1MvoZxJA) - 4.5
 - [Oliva Pizza and Pasta](https://maps.app.goo.gl/rUKu1EoaydDx8djg7) - 4.7
 - [Marleys restaurant](https://maps.app.goo.gl/2D2bbeYTapHveE7SA) - 4.8
 - [We Farm](https://maps.app.goo.gl/3uutSnsmsk3Xxkym8) - 4.7 fresh juice
