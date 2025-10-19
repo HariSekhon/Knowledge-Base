@@ -3430,7 +3430,9 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     The sauce on the beef brisket is overly strong so I recommend you mix it in to the soup.
     They also have ice cream mochi.
     No wifi
-  - [Ciao Ciao](https://maps.app.goo.gl/kBms6EcSPZ1xFiRX6) - Italian with steak strips pasta.
+  - [Ciao Ciao](https://maps.app.goo.gl/kBms6EcSPZ1xFiRX6) - Italian with pizza and pasta.
+    The Filetto Di Manzo steak strips with penne pasta and mushroom and onion was good.
+    I had it with tomato sauce instead of cream sauce, and surprisingly it came quite spicy.
     Stonkingly fast Wifi 411/105 Mbit/s!
   - [Rolling Pin](https://maps.app.goo.gl/8cfWRYfpBrsZ55h99) - small pizzeria, good quality pizzas and cheap,
     only 2.50 JD
