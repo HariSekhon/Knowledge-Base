@@ -3325,9 +3325,11 @@ However, since historical attractions will set you back nearly the same amount a
 
 Scammers litter the dating apps in Jordan.
 They arrange dates to shisha bars that overcharge hundreds and then demand payment.
+
 I met a german guy who fell for one such scam and ended up losing 550 JD (€666).
 To put this into context, in Jordan you can eat street food for 1 JD or have a steak in a high end hotel restaurant for
 15 JD.
+He said he met her on Bumble, but local hotels and hostels warn that this is common on dating apps.
 
 #### Amman
 
