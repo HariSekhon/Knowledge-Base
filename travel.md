@@ -3430,6 +3430,8 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     The sauce on the beef brisket is overly strong so I recommend you mix it in to the soup.
     They also have ice cream mochi.
     No wifi
+  - [Ciao Ciao](https://maps.app.goo.gl/kBms6EcSPZ1xFiRX6) - Italian with steak strips pasta.
+    Stonkingly fast Wifi 411/105 Mbit/s!
   - [Rolling Pin](https://maps.app.goo.gl/8cfWRYfpBrsZ55h99) - small pizzeria, good quality pizzas and cheap,
     only 2.50 JD
   - [Four Winters Ice Cream](https://maps.app.goo.gl/gjwwdDhUaJovJiz49) - small venue & expensive ice cream because they
@@ -3466,12 +3468,11 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
 
 TODO:
 
+- [Rumi Cafe and Deli](https://maps.app.goo.gl/m52rwVAUD1MvoZxJA) - 4.5
 - [Oliva Pizza and Pasta](https://maps.app.goo.gl/rUKu1EoaydDx8djg7) - 4.7
 - [Marleys restaurant](https://maps.app.goo.gl/2D2bbeYTapHveE7SA) - 4.8
 - [We Farm](https://maps.app.goo.gl/3uutSnsmsk3Xxkym8) - 4.7 fresh juice
 - [Gerard Ice Cream Jabal Weibdeh](https://maps.app.goo.gl/KfCKE8t7cP7bJUk67) - 4.6
-- [Rumi Cafe and Deli](https://maps.app.goo.gl/m52rwVAUD1MvoZxJA) - 4.5
-- [Ciao Ciao](https://maps.app.goo.gl/kBms6EcSPZ1xFiRX6) - 4.8
 - [Hazourah Restaurant](https://maps.app.goo.gl/fwSLdibrpQXp3UsZ9)
 - [Jubran Restaurant](https://maps.app.goo.gl/NQPTMWdy1Fk6jL3A6) - 4.8
 - [Habib Beirut](https://maps.app.goo.gl/ceoNzgqJ8sxy4Lbd6) - 4.7 lebanese
