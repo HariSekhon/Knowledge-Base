@@ -3426,6 +3426,9 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     great dessert menu.
     They have a decent selection of tea and coffee drinks,
     a good selection of fresh squeezed juices, and some brunch food.
+    Their best cake is the rose cake with saffron but they didn't have it.
+    They don't have all the desserts every day, it depends on deliveries.
+    The apple cake with cinnamon was decent though.
     Wifi 13/13 Mbit/s but it's capture portal with a generated 10 digit numeric code valid for 90 minutes per customer
   - [Roe - Ramen, Dimsum, Sushi](https://maps.app.goo.gl/eTd2U7CZUN5KmzCVA) - a bit pricier than neighbouring places to
     eat but when you need a break from arabic food -
