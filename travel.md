@@ -3479,7 +3479,8 @@ Not recommended:
   Wifi 20/10 Mbit/s
 - [Pizza Turtles](https://maps.app.goo.gl/AoUiZj9Cv3WUY3cV6) - the pizza turtle special was awful,
   they put black and cream sauces all over it making it disgusting,
-  and the pepperoni was all burnt, and it was twice the price of Rolling Pin.
+  and the pepperoni was sticking out vertically so it all burnt, and it was twice the price of the Rolling Pin pizzeria
+  above.
   No wifi
 
 ### Laos
