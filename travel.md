@@ -189,6 +189,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Jordan](#jordan)
     - [Jordan Visa & Jordan Pass](#jordan-visa--jordan-pass)
     - [Jordan Taxi Apps](#jordan-taxi-apps)
+    - [Beware Dating Apps Are Full of Scammers in Jordan](#beware-dating-apps-are-full-of-scammers-in-jordan)
     - [Amman](#amman)
       - [Bus from Airport to Amman](#bus-from-airport-to-amman)
       - [Restaurants in Amman](#restaurants-in-amman)
