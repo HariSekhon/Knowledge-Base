@@ -3320,6 +3320,14 @@ However, since historical attractions will set you back nearly the same amount a
   I've also had drivers be unreliable and then have to contest the cancellation charges when they don't arrive
 - [Jeeny](https://www.jeeny.me/en/) - expected a mobile number from one of the middle eastern countries, couldn't use it
 
+#### Beware Dating Apps Are Full of Scammers in Jordan
+
+Scammers litter the dating apps in Jordan.
+They arrange dates to shisha bars that overcharge hundreds and then demand payment.
+I met a german guy who fell for one such scam and ended up losing 550 JD (€666).
+To put this into context, in Jordan you can eat street food for 1 JD or have a steak in a high end hotel restaurant for
+15 JD.
+
 #### Amman
 
 The capital of Jordan.
