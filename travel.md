@@ -3445,7 +3445,8 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
   - [Rolling Pin](https://maps.app.goo.gl/8cfWRYfpBrsZ55h99) - small pizzeria, good quality pizzas and cheap,
     only 2.50 JD
   - [Oliva Pizza and Pasta](https://maps.app.goo.gl/rUKu1EoaydDx8djg7) - Italian.
-    Their bolognese is fairly decent (not as good as mine obviously but we can't ask for miracles).
+    Their bolognese is fairly decent (not as good as mine obviously but we can't ask for miracles),
+    with a peppery taste and comes topped with lots of finely shaved parmesan strands.
     The portion size is moderate, not too big, a mid sized plate.
     The tables have pink himalayan rock salt and pepper grinders as well as dried chilli flakes.
     No wifi
