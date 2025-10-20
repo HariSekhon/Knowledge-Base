@@ -3444,6 +3444,7 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     Stonkingly fast Wifi 411/105 Mbit/s!
   - [Rolling Pin](https://maps.app.goo.gl/8cfWRYfpBrsZ55h99) - small pizzeria, good quality pizzas and cheap,
     only 2.50 JD
+  - [Oliva Pizza and Pasta](https://maps.app.goo.gl/rUKu1EoaydDx8djg7) - Italian. No wifi
   - [Four Winters Ice Cream](https://maps.app.goo.gl/gjwwdDhUaJovJiz49) - small venue & expensive ice cream because they
     use frozen liquid nitrogen to solidify liquid ice cream on demand.
     The chocolate ice cream was reasonable, but not sure it was worth the price, and beware that prices while already
@@ -3478,7 +3479,6 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
 
 TODO:
 
-- [Oliva Pizza and Pasta](https://maps.app.goo.gl/rUKu1EoaydDx8djg7) - 4.7
 - [Marleys restaurant](https://maps.app.goo.gl/2D2bbeYTapHveE7SA) - 4.8
 - [We Farm](https://maps.app.goo.gl/3uutSnsmsk3Xxkym8) - 4.7 fresh juice
 - [Gerard Ice Cream Jabal Weibdeh](https://maps.app.goo.gl/KfCKE8t7cP7bJUk67) - 4.6
