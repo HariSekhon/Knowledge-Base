@@ -3535,6 +3535,32 @@ Not recommended:
 - [Acai Time](https://maps.app.goo.gl/hZ5btqgxR9EE84LG9) at Abdali Boulevard - the Acai was too sweet, I didn't finish
   it. Should have gone to Pinkberry opposite instead to get a frozen yoghurt instead
 
+#### The Dead Sea
+
+You can take a minibus from Amman to the town Al Rama near the Dead Sea for 1 JD per person from the
+[Muhajireen Bus Station](https://maps.app.goo.gl/F8RrRU7Q4yR6Kydy9)
+(which is really just a strip of road by the side of the dual carriageway with a few minibuses waiting).
+This is how the locals trvel and will save you about 25JD on taxi.
+
+You can then take a taxi from the drop off point in Al Rama to a Dead Sea resort.
+
+**Do not waste your time on the _"public beaches"_, they look like a wasteland with no facilities and no tourists, just
+locals trying to scam you**
+
+- [Holiday Inn Resort Dead Sea by IHG](https://maps.app.goo.gl/XzbMC5mKETufcuM88) - 25JD entry per person for a day
+  pass, which includes a towel, showers, swimming pools and private beach with the special mud to put on your body.
+  The private beach bloses at 6pm so go earlier in the day
+
+Not Recommended:
+
+- [Amman Beach - Dead Sea](https://maps.app.goo.gl/EwXMYADBFfHWcwNH7) - 10JD but the place is dead. Go to a proper
+  resort
+- Any of the _"public beaches"_ - see note above
+
+TODO:
+
+- [Crowne Plaza Jordan - Dead Sea Resort & Spa by IHG](https://maps.app.goo.gl/9WnteDVYvGYVbCVJ8)
+
 ### Laos
 
 $40 for a visa on arrival, and long queues.
