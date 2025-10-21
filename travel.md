@@ -3570,18 +3570,18 @@ Pre-arrange your resort visit ahead of time for a better price.
   special mud to put on your body.
   The private beach closes at 6pm so go earlier in the day
 
+TODO:
+
+- [Crowne Plaza Jordan - Dead Sea Resort & Spa by IHG](https://maps.app.goo.gl/9WnteDVYvGYVbCVJ8) - you can arrange a
+  day pass with lunch included for 35JD per person, but it's apparently 45JD per person if you just turn up without a
+  pre-booking
+
 Not Recommended:
 
 - [Amman Beach - Dead Sea](https://maps.app.goo.gl/EwXMYADBFfHWcwNH7) - 10JD but the place is dead. Go to a proper
   resort
 - [Family's Beach](https://maps.app.goo.gl/4SKnoFsrZsZCzsUU9) - looked permanently closed and abandoned
 - Any of the _"public beaches"_ - see note above
-
-TODO:
-
-- [Crowne Plaza Jordan - Dead Sea Resort & Spa by IHG](https://maps.app.goo.gl/9WnteDVYvGYVbCVJ8) - you can arrange a
-  day pass with lunch included for 35JD per person, but it's apparently 45JD per person if you just turn up without a
-  pre-booking
 
 ### Laos
 
