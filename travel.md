@@ -195,7 +195,7 @@ Updated regularly as I travel the world 52 weeks a year.
       - [Restaurants in Amman](#restaurants-in-amman)
     - [The Dead Sea](#the-dead-sea)
       - [Travelling to the Dead Sea](#travelling-to-the-dead-sea)
-      - [Dead Sea Resorts - There No Good Public Beaches](#dead-sea-resorts---there-no-good-public-beaches)
+      - [Dead Sea Resorts - There Are No Good Public Beaches](#dead-sea-resorts---there-are-no-good-public-beaches)
   - [Laos](#laos)
     - [Taxis in Laos](#taxis-in-laos)
     - [Vientiane](#vientiane)
@@ -3557,7 +3557,7 @@ and there is a trick to being able to right yourself to standing (a big backstro
   This is how the locals trvel and will save you about 25JD on taxi.
   You can then take a taxi from the drop off point in Al Rama to a Dead Sea resort
 
-##### Dead Sea Resorts - There No Good Public Beaches
+##### Dead Sea Resorts - There Are No Good Public Beaches
 
 **Do not waste your time on the _"public beaches"_, they look like a wasteland with no facilities and no tourists, just
 locals trying to scam you**
