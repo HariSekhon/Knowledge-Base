@@ -3572,6 +3572,7 @@ Not Recommended:
 
 - [Amman Beach - Dead Sea](https://maps.app.goo.gl/EwXMYADBFfHWcwNH7) - 10JD but the place is dead. Go to a proper
   resort
+- [Family's Beach](https://maps.app.goo.gl/4SKnoFsrZsZCzsUU9) - looked permanently closed and abandoned
 - Any of the _"public beaches"_ - see note above
 
 TODO:
