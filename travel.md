@@ -3533,8 +3533,8 @@ Not recommended:
   and the pepperoni was sticking out vertically so it all burnt, and it was twice the price of the Rolling Pin pizzeria
   above.
   No wifi
-- [Acai Time](https://maps.app.goo.gl/hZ5btqgxR9EE84LG9) - the Acai was too sweet, I didn't finish it. Should have gone
-  to Pinkberry opposite instead and gotten a frozen yoghurt instead
+- [Acai Time](https://maps.app.goo.gl/hZ5btqgxR9EE84LG9) at Abdali Boulevard - the Acai was too sweet, I didn't finish
+  it. Should have gone to Pinkberry opposite instead to get a frozen yoghurt instead
 
 ### Laos
 
