@@ -3564,9 +3564,11 @@ resort with shower facilities as the sea really is that harsh.
 
 Organize the resort visits ahead of time for a better price.
 
-- [Holiday Inn Resort Dead Sea by IHG](https://maps.app.goo.gl/XzbMC5mKETufcuM88) - 25JD entry per person for a day
-  pass, which includes a towel, showers, swimming pools and private beach with the special mud to put on your body.
-  The private beach bloses at 6pm so go earlier in the day
+- [Holiday Inn Resort Dead Sea by IHG](https://maps.app.goo.gl/XzbMC5mKETufcuM88) - this is actually a 5 star resort
+  contrary to what one might think of Holiday Inn being mediocre.
+  It's 25JD entry per person for a day pass, which includes a towel, showers, swimming pools and private beach with the
+  special mud to put on your body.
+  The private beach closes at 6pm so go earlier in the day
 
 Not Recommended:
 
