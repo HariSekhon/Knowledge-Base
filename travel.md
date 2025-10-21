@@ -3305,7 +3305,7 @@ Pristina
 
 ### Jordan
 
-I've used Saily and Eskimo apps for e-sims in Jordan.
+I've used Saily and aloSim apps for e-sims in Jordan.
 The Airalo 3GB one is only 3 days, not 7 days like with the other providers, so watch out that one is too short.
 
 #### Jordan Visa & Jordan Pass
