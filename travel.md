@@ -3438,6 +3438,9 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     It was surprisingly soft and moist.
     The apple cake with cinnamon was decent too.
     Wifi 13/13 Mbit/s but it's capture portal with a generated 10 digit numeric code valid for 90 minutes per customer
+  - [Lolita Cafe & Restaurant](https://maps.app.goo.gl/DR4GUgftfjvDiYxy8) - Mexican restaurant with a good selection of
+    mains, tacos, burritos and drinks.
+    Wifi 26/29 Mbit/s
   - [Roe - Ramen, Dimsum, Sushi](https://maps.app.goo.gl/eTd2U7CZUN5KmzCVA) - a bit pricier than neighbouring places to
     eat but when you need a break from arabic food -
     especially if you're going for sushi as there are platters up to 99JD.
