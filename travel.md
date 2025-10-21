@@ -3382,7 +3382,11 @@ taxi while I figured how to get down there.
 
 <!--
 
-Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a night for a 4 bed mixed dorm en suite
+Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a night for a 4 bed mixed dorm en suite.
+
+Caroub hostel is north of Jabal Al Lweibdeh,
+but the large steep sets of stairs in between are very annoying and tiring, so not the best location, I prefer Nomad
+and Sydney hostel locations near Rainbow St.
 
 -->
 
