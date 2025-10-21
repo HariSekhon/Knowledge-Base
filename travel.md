@@ -3547,6 +3547,8 @@ You can then take a taxi from the drop off point in Al Rama to a Dead Sea resort
 **Do not waste your time on the _"public beaches"_, they look like a wasteland with no facilities and no tourists, just
 locals trying to scam you**
 
+Organize the resort visits ahead of time for a better price
+
 - [Holiday Inn Resort Dead Sea by IHG](https://maps.app.goo.gl/XzbMC5mKETufcuM88) - 25JD entry per person for a day
   pass, which includes a towel, showers, swimming pools and private beach with the special mud to put on your body.
   The private beach bloses at 6pm so go earlier in the day
@@ -3559,7 +3561,9 @@ Not Recommended:
 
 TODO:
 
-- [Crowne Plaza Jordan - Dead Sea Resort & Spa by IHG](https://maps.app.goo.gl/9WnteDVYvGYVbCVJ8)
+- [Crowne Plaza Jordan - Dead Sea Resort & Spa by IHG](https://maps.app.goo.gl/9WnteDVYvGYVbCVJ8) - you can arrange a
+  day pass with lunch included for 35JD per person, but it's apparently 45JD per person if you just turn up without a
+  pre-booking
 
 ### Laos
 
