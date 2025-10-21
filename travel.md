@@ -3426,7 +3426,7 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     tomato - 5JD for a medium which is plenty for one.
     Closes at 1am in winter instead of 3am as Google Maps suggests
 - [Jabal Al Lweibdeh](https://maps.app.goo.gl/cPtteZESTXE1qTuS9) - lots of gentrified coffees shops, shisha and small
-  foodie places
+  foodie places on the two roads west off the small _"Paris Square"_ garden in the roadabout
   - [We Farm](https://maps.app.goo.gl/3uutSnsmsk3Xxkym8) - excellent fresh juice place, expensive but worth it. They
     also have a variety of snacks which are overpriced, but focus on the juice mixes, they are second to none
   - [Rumi Cafe and Deli](https://maps.app.goo.gl/m52rwVAUD1MvoZxJA) - large corner cafe with outdoor seating and a
@@ -3440,6 +3440,12 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     Wifi 13/13 Mbit/s but it's capture portal with a generated 10 digit numeric code valid for 90 minutes per customer
   - [Lolita Cafe & Restaurant](https://maps.app.goo.gl/DR4GUgftfjvDiYxy8) - Mexican restaurant with a good selection of
     mains, tacos, burritos and drinks.
+    The cherry beef taco has just the right amount of sweetness from a tiny bit of cherry sauce,
+    and an orange wedge to squeeze on it for extra flavour.
+    The chimichurri chicken breast with mexican rice was really good,
+    not too much chicken, the rice contains red kidney beans, served on a bed of lettuce,
+    and there is a separate chimichurri sauce pot which was awesome and a bit spicy, I used it all up!
+    The horchata cinnamon milk drink was as good as expected, and good to put out a bit of flame on the tongue.
     Wifi 26/29 Mbit/s
   - [Roe - Ramen, Dimsum, Sushi](https://maps.app.goo.gl/eTd2U7CZUN5KmzCVA) - a bit pricier than neighbouring places to
     eat but when you need a break from arabic food -
