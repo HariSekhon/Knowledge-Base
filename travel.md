@@ -3314,6 +3314,9 @@ passport control.
 However, since historical attractions will set you back nearly the same amount again, you would be better off buying a
 [Jordan Pass](https://www.jordanpass.jo/) which will cover the visa and the entry of the historical sites.
 
+The difference between the 3 different Jordan Passes is whether you want to spend,
+1, 2 or 3 consecutive days visiting Petra.
+
 #### Jordan Taxi Apps
 
 - [Uber](https://www.uber.com/jo/en/) - reliable and more accurately priced than Careem, at least in Jordan in my
