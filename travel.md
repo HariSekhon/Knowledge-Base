@@ -3427,6 +3427,8 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
     Closes at 1am in winter instead of 3am as Google Maps suggests
 - [Jabal Al Lweibdeh](https://maps.app.goo.gl/cPtteZESTXE1qTuS9) - lots of gentrified coffees shops, shisha and small
   foodie places
+  - [We Farm](https://maps.app.goo.gl/3uutSnsmsk3Xxkym8) - excellent fresh juice place, expensive but worth it. They
+    also have a variety of snacks which are overpriced, but focus on the juice mixes, they are second to none
   - [Rumi Cafe and Deli](https://maps.app.goo.gl/m52rwVAUD1MvoZxJA) - large corner cafe with outdoor seating and a
     great dessert menu.
     They have a decent selection of tea and coffee drinks,
@@ -3491,7 +3493,6 @@ Nomads Hostel / Hotel is a 5 minute walk from Rainbow St and just under £10 a n
 TODO:
 
 - [Marleys restaurant](https://maps.app.goo.gl/2D2bbeYTapHveE7SA) - 4.8
-- [We Farm](https://maps.app.goo.gl/3uutSnsmsk3Xxkym8) - 4.7 fresh juice
 - [Gerard Ice Cream Jabal Weibdeh](https://maps.app.goo.gl/KfCKE8t7cP7bJUk67) - 4.6
 - [Hazourah Restaurant](https://maps.app.goo.gl/fwSLdibrpQXp3UsZ9)
 - [Jubran Restaurant](https://maps.app.goo.gl/NQPTMWdy1Fk6jL3A6) - 4.8
