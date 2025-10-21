@@ -3511,7 +3511,6 @@ TODO:
 - [Jubran Restaurant](https://maps.app.goo.gl/NQPTMWdy1Fk6jL3A6) - 4.8
 - [Habib Beirut](https://maps.app.goo.gl/ceoNzgqJ8sxy4Lbd6) - 4.7 lebanese
 - [BigT Burgers](https://maps.app.goo.gl/g8BVVAEAW3d93se3A) - 4.8
-- [Pizza Turtle Restaurant](https://maps.app.goo.gl/WXecUH4pxNRdM2hQA) - 4.8
 - [AlQuds Falafel](https://maps.app.goo.gl/HqyoE5Emf86rKDFDA) - 4.5
 - [Shawerma 3a saj](https://maps.app.goo.gl/upqzKVHQNJ3AaR9o8) - 4.4 cheap shawerma I'm told is good
 - [Al-Quds Kafeteria](https://maps.app.goo.gl/tJgxmqisGLHdZpek8) - 4.4
