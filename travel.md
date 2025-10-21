@@ -3562,7 +3562,7 @@ locals trying to scam you**
 Contrary to intuitive believe, there are no decent beaches you can just turn up to for free, and you really need a
 resort with shower facilities as the sea really is that harsh.
 
-Organize the resort visits ahead of time for a better price.
+Pre-arrange your resort visit ahead of time for a better price.
 
 - [Holiday Inn Resort Dead Sea by IHG](https://maps.app.goo.gl/XzbMC5mKETufcuM88) - this is actually a 5 star resort
   contrary to what one might think of Holiday Inn being mediocre.
