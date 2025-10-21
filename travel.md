@@ -193,6 +193,9 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Amman](#amman)
       - [Bus from Airport to Amman](#bus-from-airport-to-amman)
       - [Restaurants in Amman](#restaurants-in-amman)
+    - [The Dead Sea](#the-dead-sea)
+      - [Travelling to the Dead Sea](#travelling-to-the-dead-sea)
+      - [Dead Sea Resorts - There No Good Public Beaches](#dead-sea-resorts---there-no-good-public-beaches)
   - [Laos](#laos)
     - [Taxis in Laos](#taxis-in-laos)
     - [Vientiane](#vientiane)
@@ -3537,17 +3540,29 @@ Not recommended:
 
 #### The Dead Sea
 
-You can take a minibus from Amman to the town Al Rama near the Dead Sea for 1 JD per person from the
-[Muhajireen Bus Station](https://maps.app.goo.gl/F8RrRU7Q4yR6Kydy9)
-(which is really just a strip of road by the side of the dual carriageway with a few minibuses waiting).
-This is how the locals trvel and will save you about 25JD on taxi.
+You really cannot swim in the Dead Sea - you just float around and paddle a little, ideally on your back.
+Being ultra-floating actually makes it hard to stay standing as your ultra-buoyancy quickly upends you on to your back,
+and there is a trick to being able to right yourself to standing (a big backstroke flap while planting your feet).
 
-You can then take a taxi from the drop off point in Al Rama to a Dead Sea resort.
+##### Travelling to the Dead Sea
+
+- rental car
+- taxi
+- minibus from Amman to the town Al Rama near the Dead Sea for 1 JD per person from the
+  [Muhajireen Bus Station](https://maps.app.goo.gl/F8RrRU7Q4yR6Kydy9)
+  (which is really just a strip of road by the side of the dual carriageway with a few minibuses waiting).
+  This is how the locals trvel and will save you about 25JD on taxi.
+  You can then take a taxi from the drop off point in Al Rama to a Dead Sea resort
+
+##### Dead Sea Resorts - There No Good Public Beaches
 
 **Do not waste your time on the _"public beaches"_, they look like a wasteland with no facilities and no tourists, just
 locals trying to scam you**
 
-Organize the resort visits ahead of time for a better price
+Contrary to intuitive believe, there are no decent beaches you can just turn up to for free, and you really need a
+resort with shower facilities as the sea really is that harsh.
+
+Organize the resort visits ahead of time for a better price.
 
 - [Holiday Inn Resort Dead Sea by IHG](https://maps.app.goo.gl/XzbMC5mKETufcuM88) - 25JD entry per person for a day
   pass, which includes a towel, showers, swimming pools and private beach with the special mud to put on your body.
