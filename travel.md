@@ -3622,7 +3622,7 @@ Select Amman Daily Tours from the drop-down:
 
 <https://www.jett.com.jo/>
 
-Otherwise you'll need a rental car or a very expensive taxi ride.
+Otherwise you'll need a rental car or a very expensive taxi ride. Most people use the Jett bus.
 
 ##### Restaurants in Wadi Musa
 
