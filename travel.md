@@ -3624,6 +3624,24 @@ Select Amman Daily Tours from the drop-down:
 
 Otherwise you'll need a rental car or a very expensive taxi ride. Most people use the Jett bus.
 
+##### Petra Attractions
+
+You can do Petra in one day, but you'll be worn out, it's easier to do it over 2 days.
+
+You may want to go very early in the morning before the midday sun, Petra opens at 6:30am.
+
+From the main entrance, and especially if you only have 1 day in Petra, I would prioritize seeing
+
+- [Al-Siq](https://maps.app.goo.gl/u9t4nkyR7CjYs77d8) - the natural passage through the rock on the way to the Treasury
+- [The Treasury](https://maps.app.goo.gl/m4Q7QXFkLpXZCQraA) - the famous building carved out of the rock
+- [Ad-Dayr](https://maps.app.goo.gl/U4Bkt4aZngRM5wm56) - the monastery at the top of the mountain, also carved out of
+  rock
+
+Optional:
+
+- [High Place of Sacrifice](https://maps.app.goo.gl/iQyGox7D3ib6AXG6A) - a lot of effort to go up this mountain, not
+  sure it's worth it
+
 ##### Restaurants in Wadi Musa
 
 The nearby town Wadi Musa itself is quite small,
