@@ -3594,6 +3594,9 @@ Not Recommended:
 [Nomads hostel](https://maps.app.goo.gl/jQXn2sCKtXXTP4yGA)
 is recommended but was fully booked when I went.
 
+[Petra Cabin](https://maps.app.goo.gl/rH9dtcsGqEDhzQ558) -
+closer to Petra, but further from Downtown with the better food
+
 [Rafiki hostel](https://maps.app.goo.gl/DBk9D9g8QbVqzoyS9) was ok, but the kitchen was a bomb site of stalled out
 renovation, and their little dog poos everywhere, including on the couch. Their wifi also doesn't work properly upstairs
 in the room but works better in the lobby.
