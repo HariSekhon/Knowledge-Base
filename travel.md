@@ -3631,7 +3631,7 @@ You can do Petra in one day, but you'll be worn out, it's easier to do it over 2
 
 You may want to go very early in the morning before the midday sun, Petra opens at 6:30am.
 
-From the main entrance, and especially if you only have 1 day in Petra, I would prioritize seeing
+From the main entrance, and especially if you only have 1 day in Petra, I would prioritize seeing:
 
 - [Al-Siq](https://maps.app.goo.gl/u9t4nkyR7CjYs77d8) - the natural passage through the rock on the way to the Treasury
 - [The Treasury](https://maps.app.goo.gl/m4Q7QXFkLpXZCQraA) - the famous building carved out of the rock
