@@ -197,6 +197,8 @@ Updated regularly as I travel the world 52 weeks a year.
       - [Travelling to the Dead Sea](#travelling-to-the-dead-sea)
       - [Dead Sea Resorts - There Are No Good Public Beaches](#dead-sea-resorts---there-are-no-good-public-beaches)
     - [Petra and Wadi Musa](#petra-and-wadi-musa)
+      - [Travelling to Petra](#travelling-to-petra)
+      - [Restaurants in Wadi Musa](#restaurants-in-wadi-musa)
   - [Laos](#laos)
     - [Taxis in Laos](#taxis-in-laos)
     - [Vientiane](#vientiane)
@@ -3609,6 +3611,20 @@ where they carved the building straight out of the mountain rock.
 
 Entry to Petra is around 50JD (€60) for a single day, so as per the section above, it's usually better to buy a Jordan
 Pass which can cover 1, 2 or 3 consecutive days for negligible increase in price, 5JD per day.
+
+##### Travelling to Petra
+
+There is a Jett bus from Amman but which leaves at 6:30am daily, and a counterpart bus back to Amman that leaves Peta at
+5pm, which is not enough time so you'll probably want a one night stopover in Wadi Musa.
+
+You will need to book a ticket at the website below at least 2 days in advance as they sell out.
+Select Amman Daily Tours from the drop-down:
+
+<https://www.jett.com.jo/>
+
+Otherwise you'll need a rental car or a very expensive taxi ride.
+
+##### Restaurants in Wadi Musa
 
 The nearby town Wadi Musa itself is quite small,
 and the restaurants on
