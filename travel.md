@@ -3662,8 +3662,8 @@ and the restaurants on
 
 - [Downtown- Wadi Mousa](https://maps.app.goo.gl/vTSThzGFEUhcJXEb8) - a good selection of restaurants and dessert places
   - [Juniper Falafel Restaurant](https://maps.app.goo.gl/dUdsx3yfVsSmcyKi9) - cheap good quality local food
-  - [Hashem affouri sweets](https://maps.app.goo.gl/y4FJiLRVUjwj4BhF7) - mouse cake (small round cheesecake on my Insta)
-    for a mere 1 JD
+  - [Hashem affouri sweets](https://maps.app.goo.gl/y4FJiLRVUjwj4BhF7) - moosse cake (small round looks like cheesecake
+    on my Insta) for a mere 1 JD
   - [Berry Cake](https://maps.app.goo.gl/1ppWGfYdv3wrYJuZA) - fresh orange juice or cheesecake for 2 JD
 - [Banseok in Petra](https://maps.app.goo.gl/poafpNsSUBFGKvYZ7) - a long long walk uphill out of town, you will want to
   take a taxi, but otherwise decent Korean,
