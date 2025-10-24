@@ -3589,6 +3589,17 @@ Not Recommended:
 
 #### Petra and Wadi Musa
 
+<!--
+
+[Nomads hostel](https://maps.app.goo.gl/jQXn2sCKtXXTP4yGA)
+is recommended but was fully booked when I went.
+
+[Rafiki hostel](https://maps.app.goo.gl/DBk9D9g8QbVqzoyS9) was ok, but the kitchen was a bomb site of stalled out
+renovation, and their little dog poos everywhere, including on the couch. Their wifi also doesn't work properly upstairs
+in the room but works better in the lobby.
+
+-->
+
 The ancient archaelogical site of one of the 7 Wonders of the World -
 [The Treasury](https://share.google/a7U2bQY9ldd2p6V38)
 where they carved the building straight out of the mountain rock.
@@ -3597,7 +3608,8 @@ Entry to Petra is around 50JD (€60) for a single day, so as per the section ab
 Pass which can cover 1, 2 or 3 consecutive days for negligible increase in price, 5JD per day.
 
 The nearby town Wadi Musa itself is quite small,
-and the restaurants on Tourist St as you might imagine are tourist prices for mediocre food.
+and the restaurants on
+[Tourism St](https://maps.app.goo.gl/geaNCD1SibVbkykAA) as you might imagine are tourist prices for mediocre food.
 
 - [Downtown- Wadi Mousa](https://maps.app.goo.gl/vTSThzGFEUhcJXEb8) - a good selection of restaurants and dessert places
   - [Juniper Falafel Restaurant](https://maps.app.goo.gl/dUdsx3yfVsSmcyKi9) - cheap good quality local food
@@ -3614,6 +3626,7 @@ and the restaurants on Tourist St as you might imagine are tourist prices for me
 
 Not Recommended:
 
+- Anywhere on [Tourism St](https://maps.app.goo.gl/geaNCD1SibVbkykAA)
 - [Mr Falafel](https://maps.app.goo.gl/NvoP2cAcMZD9UdUa9) - a blogger recommended this, but it was overrated. 12JD for
   "camel" cubes which were overcooked, tough and charred.
   The fries were soggy and the orange juice was smaller than quoted size, full of pips, blended pips and skin.
