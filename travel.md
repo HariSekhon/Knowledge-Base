@@ -3616,7 +3616,10 @@ Not Recommended:
 
 - [Mr Falafel](https://maps.app.goo.gl/NvoP2cAcMZD9UdUa9) - a blogger recommended this, but it was overrated. 12JD for
   "camel" cubes which were overcooked, tough and charred.
-  The fries were soggy and the orange juice was smaller than quoted size, full of pips, blended pips and skin
+  The fries were soggy and the orange juice was smaller than quoted size, full of pips, blended pips and skin.
+  Overall a waste of 15 JD -
+  which could buy you a prime steak in an upmarket hotel restaurant in Amman,
+  to put how bad value for money this place is in perspective
 
 ### Laos
 
