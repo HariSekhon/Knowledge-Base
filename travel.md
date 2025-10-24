@@ -198,6 +198,7 @@ Updated regularly as I travel the world 52 weeks a year.
       - [Dead Sea Resorts - There Are No Good Public Beaches](#dead-sea-resorts---there-are-no-good-public-beaches)
     - [Petra and Wadi Musa](#petra-and-wadi-musa)
       - [Travelling to Petra](#travelling-to-petra)
+      - [Petra Attractions](#petra-attractions)
       - [Restaurants in Wadi Musa](#restaurants-in-wadi-musa)
   - [Laos](#laos)
     - [Taxis in Laos](#taxis-in-laos)
