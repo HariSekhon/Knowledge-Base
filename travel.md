@@ -3640,11 +3640,10 @@ From the main entrance, and especially if you only have 1 day in Petra, I would 
 
 Optional:
 
-- [High Place of Sacrifice](https://maps.app.goo.gl/iQyGox7D3ib6AXG6A) - a lot of effort to go up this mountain, not
-  sure it's worth it
-
 - [Back Door hiking route to the Monastery](https://maps.app.goo.gl/qhs6o9Cs9F1WYMsSA) - you can take a taxi to this
   back way in to do Petra in reverse so that you don't have to cover the same ground twice there and back out again
+- [High Place of Sacrifice](https://maps.app.goo.gl/iQyGox7D3ib6AXG6A) - a lot of effort to go up this mountain, not
+  sure it's worth it
 
 ##### Restaurants in Wadi Musa
 
