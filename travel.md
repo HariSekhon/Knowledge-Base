@@ -3638,6 +3638,12 @@ From the main entrance, and especially if you only have 1 day in Petra, I would 
 - [Ad-Dayr](https://maps.app.goo.gl/U4Bkt4aZngRM5wm56) - the monastery at the top of the mountain, also carved out of
   rock
 
+You will pass the
+[Djinn Blocks](https://maps.app.goo.gl/wUY7c9Q8KaK8wjNu6) and
+[Obelisk Tomb & Bab as-Siq Triclinium](https://maps.app.goo.gl/AeS7LeNVqtDGKfeL8) on the main route in/out of Petra
+where [Al-Siq](https://maps.app.goo.gl/u9t4nkyR7CjYs77d8) and
+[The Treasury](https://maps.app.goo.gl/m4Q7QXFkLpXZCQraA) are.
+
 Optional:
 
 - [Back Door hiking route to the Monastery](https://maps.app.goo.gl/qhs6o9Cs9F1WYMsSA) - you can take a taxi to this
