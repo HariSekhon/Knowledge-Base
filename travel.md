@@ -196,6 +196,7 @@ Updated regularly as I travel the world 52 weeks a year.
     - [The Dead Sea](#the-dead-sea)
       - [Travelling to the Dead Sea](#travelling-to-the-dead-sea)
       - [Dead Sea Resorts - There Are No Good Public Beaches](#dead-sea-resorts---there-are-no-good-public-beaches)
+    - [Petra and Wadi Musa](#petra-and-wadi-musa)
   - [Laos](#laos)
     - [Taxis in Laos](#taxis-in-laos)
     - [Vientiane](#vientiane)
@@ -3585,6 +3586,37 @@ Not Recommended:
   resort
 - [Family's Beach](https://maps.app.goo.gl/4SKnoFsrZsZCzsUU9) - looked permanently closed and abandoned
 - Any of the _"public beaches"_ - see note above
+
+#### Petra and Wadi Musa
+
+The ancient archaelogical site of one of the 7 Wonders of the World -
+[The Treasury](https://share.google/a7U2bQY9ldd2p6V38)
+where they carved the building straight out of the mountain rock.
+
+Entry to Petra is around 50JD (€60) for a single day, so as per the section above, it's usually better to buy a Jordan
+Pass which can cover 1, 2 or 3 consecutive days for negligible increase in price, 5JD per day.
+
+The nearby town Wadi Musa itself is quite small,
+and the restaurants on Tourist St as you might imagine are tourist prices for mediocre food.
+
+- [Downtown- Wadi Mousa](https://maps.app.goo.gl/vTSThzGFEUhcJXEb8) - a good selection of restaurants and dessert places
+  - [Juniper Falafel Restaurant](https://maps.app.goo.gl/dUdsx3yfVsSmcyKi9) - cheap good quality local food
+  - [Hashem affouri sweets](https://maps.app.goo.gl/y4FJiLRVUjwj4BhF7) - mouse cake (small round cheesecake on my Insta)
+    for a mere 1 JD
+  - [Berry Cake](https://maps.app.goo.gl/1ppWGfYdv3wrYJuZA) - fresh orange juice or cheesecake for 2 JD
+- [Banseok in Petra](https://maps.app.goo.gl/poafpNsSUBFGKvYZ7) - a long long walk uphill out of town, you will want to
+  take a taxi, but otherwise decent Korean,
+  much needed if you're tired of kebab and falafel if you've been in the middle east too long.
+  The beef bibimbap was a good size but didn't have much beef,
+  but it came with an unexpected lot of side dishes included.
+  The chives and onion pancake and the fried eggplant sides were particularly good.
+  No wifi and their card machine was _"broken"_ so cash needed
+
+Not Recommended:
+
+- [Mr Falafel](https://maps.app.goo.gl/NvoP2cAcMZD9UdUa9) - a blogger recommended this, but it was overrated. 12JD for
+  "camel" cubes which were overcooked, tough and charred.
+  The fries were soggy and the orange juice was smaller than quoted size, full of pips, blended pips and skin
 
 ### Laos
 
