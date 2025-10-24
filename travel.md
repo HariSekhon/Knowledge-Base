@@ -3611,7 +3611,7 @@ The ancient archaelogical site of one of the 7 Wonders of the World -
 where they carved the building straight out of the mountain rock.
 
 Entry to Petra is around 50JD (€60) for a single day, so as per the section above, it's usually better to buy a Jordan
-Pass which can cover 1, 2 or 3 consecutive days for negligible increase in price, 5JD per day.
+Pass which can cover 1, 2 or 3 consecutive days for negligible increase in price of 5JD per extra day.
 
 ##### Travelling to Petra
 
