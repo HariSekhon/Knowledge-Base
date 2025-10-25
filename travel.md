@@ -200,6 +200,8 @@ Updated regularly as I travel the world 52 weeks a year.
       - [Travelling to Petra](#travelling-to-petra)
       - [Petra Attractions](#petra-attractions)
       - [Restaurants in Wadi Musa](#restaurants-in-wadi-musa)
+  - [Wadi Rum](#wadi-rum)
+  - [Aqaba](#aqaba)
   - [Laos](#laos)
     - [Taxis in Laos](#taxis-in-laos)
     - [Vientiane](#vientiane)
@@ -3682,6 +3684,23 @@ Not Recommended:
   Overall a waste of 15 JD -
   which could buy you a prime steak in an upmarket hotel restaurant in Amman,
   to put how bad value for money this place is in perspective
+
+#### Wadi Rum
+
+Desert native reserve.
+
+You can get there via a Jett bus from Aqaba:
+
+<https://www.jett.com.jo/>
+
+or via a travel package from Petra which is what I did where they drive you from Petra to your desert tour and then
+night time accommodation.
+
+#### Aqaba
+
+City on the Red Sea, known for snorkelling and scuba diving.
+
+- [Firefly Burger](https://maps.app.goo.gl/5XRz6wZXLqzrxxyQA) - same chain as the one described in the Amman section
 
 ### Laos
 
