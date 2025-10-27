@@ -3703,6 +3703,7 @@ TODO:
 - [Aloush Restaurant](https://maps.app.goo.gl/tMouQW9MSikgVZ4t6)
 - [Yummy Bites](https://maps.app.goo.gl/KqytNr3YsybwS9qe8)
 - [Jordan Heritage Restaurant Petra](https://maps.app.goo.gl/7bAPpgwvB7WwemX4A)
+- [Reem Beladi Restaurant](https://maps.app.goo.gl/HoVAPZrYjSQ3JFkL6)
 
 #### Wadi Rum
 
