@@ -3720,6 +3720,10 @@ I was quite skeptical of going to a desert, but it is worth it for a one day jee
 
 If you only want to do a half day jeep tour, make sure it is in the afternoon for the sunset, rather than the morning.
 
+At night you will see the sky full of stars due to the clear cloudless sky and less light pollution than urban areas.
+
+##### Travel to Wadi Rum and Accommodation
+
 You can get there via a Jett bus from Aqaba:
 
 <https://www.jett.com.jo/>
@@ -3729,6 +3733,10 @@ desert tour and then night time accommodation.
 
 If I was to go again,
 I would rent a car and then pick the desert package and accommodation more specifically to ensure it's what you want.
+
+There are permanent tents in the desert camps which have communal showers,
+and there are en-suite bungalos for additional cost.
+It is also possible to sleep under the stars by special arrangement, but apparently this is more expensive.
 
 #### Aqaba
 
