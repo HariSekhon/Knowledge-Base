@@ -3694,6 +3694,7 @@ Not Recommended:
 TODO:
 
 - [Petra sky terrace restaurant](https://maps.app.goo.gl/VKSXV9Rd7gJNtkPVA)
+- [Palm Court Restaurant & Cafe](https://maps.app.goo.gl/y4p7EeCQbnFpLyzU8)
 - [Nashmiah restaurant](https://maps.app.goo.gl/Mj2xThd5djY12fMx7)
 - [Snack House Restaurant](https://maps.app.goo.gl/8r99wGQwPQ4TooNa7)
 - [Zawaya restaurant](https://maps.app.goo.gl/wfEkcmnT5vrY16Ws9)
