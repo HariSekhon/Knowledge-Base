@@ -3679,7 +3679,7 @@ and the restaurants on
 Not Recommended:
 
 - Anywhere on [Tourism St](https://maps.app.goo.gl/geaNCD1SibVbkykAA)
-- [Falafel Time](https://maps.app.goo.gl/zYkcVBCWUu4zkFWd9) - the "camel burger" for 5JD did not taste like camel but
+- [Falafel Time](https://maps.app.goo.gl/zYkcVBCWUu4zkFWd9) - the "camel burger" for 5 JD did not taste like camel but
   rather falafel with sugar added, and the patty had a crumbly dry texture - I would not try it again - either this was
   fake or the camel cubes below were fake, or both.
   The local receptionist at my accommodation told me that it would be 100% fake.
