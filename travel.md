@@ -201,7 +201,7 @@ Updated regularly as I travel the world 52 weeks a year.
       - [Petra Attractions](#petra-attractions)
       - [Restaurants in Wadi Musa](#restaurants-in-wadi-musa)
     - [Wadi Rum](#wadi-rum)
-      - [Travel to Wadi Rum & Accommodation](#travel-to-wadi-rum--accommodation)
+      - [Travel & Accommodation in Wadi Rum](#travel--accommodation-in-wadi-rum)
       - [Attractions in Wadi Rum Desert](#attractions-in-wadi-rum-desert)
       - [Wadi Rum Village](#wadi-rum-village)
     - [Aqaba](#aqaba)
@@ -3728,17 +3728,22 @@ At night you will see the sky full of stars due to the clear cloudless sky and l
 For food, you will be mostly relying on your guide camp to feed you and provide bottled water. Your jeep should have a
 cool box full of small water bottles.
 
-##### Travel to Wadi Rum & Accommodation
+##### Travel & Accommodation in Wadi Rum
 
-You can get there via a Jett bus from Aqaba:
+- Jett bus from Aqaba:
 
 <https://www.jett.com.jo/>
 
-or via a travel package from your accommodation in Petra which is what I did where they drive you from Petra to your
-desert tour and then night time accommodation.
+- Minibus from Petra - 10 JD - pre-arranged to pick you up from your accommodation in Petra
+  and drive you to [Wadi Rum Visitor Center](https://maps.app.goo.gl/YwArSg5QLip8RjHH6) or
+  [Wadi Rum Village](https://maps.app.goo.gl/mMmoQBZBoaZwQz1U6)
+  (about 10 minutes drive apart), where your desert camp provider will often arrange to pick you up
+
+My accommodation in Petra arranged this minibus for me, included as part of a desert tour and camp accommodation
+package through them, which probably wasn't optimal but just made the planning easier.
 
 If I was to go again,
-I would rent a car and then pick the desert package and accommodation more specifically to ensure it's what you want.
+I would rent a car and then pick the desert package and accommodation more specifically to ensure it's the best.
 
 There are permanent tents in the desert camps which have communal showers,
 and there are en-suite bungalos for additional cost.
