@@ -3687,7 +3687,7 @@ Not Recommended:
 
 #### Wadi Rum
 
-Desert native reserve.
+Desert nature reserve.
 
 You can get there via a Jett bus from Aqaba:
 
