@@ -693,7 +693,7 @@ Pre-cache your usage when on Wifi to avoid using up too much precious mobile e-s
   the download is complete
 - Spotify - click the downloaded option on your playlists - by default this will only download on wifi
 
-Give both time to complete and check their progres
+Give both time to complete and check their progress before setting out and leaving your wifi connection behind.
 
 ### EU Roaming
 
