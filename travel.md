@@ -46,7 +46,7 @@ Updated regularly as I travel the world 52 weeks a year.
 - [Mobile Internet Access](#mobile-internet-access)
   - [Conserve Mobile Data - Pre-Download Offline Google Maps, Translate & Spotify Playlists](#conserve-mobile-data---pre-download-offline-google-maps-translate--spotify-playlists)
   - [EU Roaming](#eu-roaming)
-  - [Digital e-Sims](#digital-e-sims)
+  - [Mobile e-Sims](#mobile-e-sims)
   - [International Calls using VoIP over the Internet](#international-calls-using-voip-over-the-internet)
 - [ATMs and Foreign Cash Withdrawals](#atms-and-foreign-cash-withdrawals)
 - [Restaurants & Dining Out](#restaurants--dining-out)
@@ -697,7 +697,7 @@ Give each time to complete and check their progress before setting out and leavi
 
 ### EU Roaming
 
-If you're not an EU resident or don't have an EU sim, skip to the next section [Rest of World](#rest-of-world).
+If you're not an EU resident or don't have an EU sim, skip to the next section [Mobile e-Sims](#mobile-e-sims).
 
 I've used my UK sim from [Smarty](https://smarty.co.uk) across all the EU countries I visited as it permits use of your
 plan's bundled service within EU countries at no extra charge, and the monthly contract is cheap as chips.
@@ -739,7 +739,7 @@ Going from EU to non-EU was a bit of a jarring experience.
 
 There may be something to the EU integration project after all.
 
-### Digital e-Sims
+### Mobile e-Sims
 
 You can buy data plans for a certain number of days.
 
