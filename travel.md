@@ -3665,7 +3665,7 @@ and the restaurants on
 - [Downtown- Wadi Mousa](https://maps.app.goo.gl/vTSThzGFEUhcJXEb8) - where locals go to eat rather than Tourism St -
   a good selection of restaurants and dessert places
   - [Juniper Falafel Restaurant](https://maps.app.goo.gl/dUdsx3yfVsSmcyKi9) - cheap good quality local food
-  - [Hashem affouri sweets](https://maps.app.goo.gl/y4FJiLRVUjwj4BhF7) - moosse cake (small round looks like cheesecake
+  - [Hashem affouri sweets](https://maps.app.goo.gl/y4FJiLRVUjwj4BhF7) - mousse cake (small round looks like cheesecake
     on my Insta) for a mere 1 JD
   - [Berry Cake](https://maps.app.goo.gl/1ppWGfYdv3wrYJuZA) - fresh orange juice or cheesecake for 2 JD
 - [Banseok in Petra](https://maps.app.goo.gl/poafpNsSUBFGKvYZ7) - a long 45+ minute walk uphill out of town, you will
