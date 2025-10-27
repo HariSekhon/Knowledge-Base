@@ -3724,10 +3724,6 @@ If you only want to do a half day jeep tour, make sure it is in the afternoon fo
 
 At night you will see the sky full of stars due to the clear cloudless sky and less light pollution than urban areas.
 
-[Wadi Rum Village](https://maps.app.goo.gl/aG3DosxCrydMmgeNA) has only a single restaurant, and a small community of
-buildings.
-Unfortunately, even here you will find a bit of street litter of cigarette packets and plastic bottles.
-
 For food, you will be mostly relying on your guide camp to feed you and provide bottled water.
 
 ##### Travel to Wadi Rum and Accommodation
@@ -3756,6 +3752,12 @@ It is also possible to sleep under the stars by special arrangement, but apparen
 - [Khazali Canyon](https://maps.app.goo.gl/9xLEL6WKRZN8kHHEA)
 - [Umm Rashid Canyon](https://maps.app.goo.gl/RrDESoaU6UxRdeRo7)
 - [Abu Khasaba Canyon](https://maps.app.goo.gl/Jx448ADKvH6f8X9D6)
+
+##### Wadi Rum Village
+
+[Wadi Rum Village](https://maps.app.goo.gl/aG3DosxCrydMmgeNA) is a small community of buildings.
+
+Unfortunately, even here you will find a bit of street litter of cigarette packets and plastic bottles.
 
 #### Aqaba
 
