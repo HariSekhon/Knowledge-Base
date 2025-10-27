@@ -3694,6 +3694,7 @@ Not Recommended:
 TODO:
 
 - [Petra sky terrace restaurant](https://maps.app.goo.gl/VKSXV9Rd7gJNtkPVA)
+- [My Mom's Recipe Restaurant](https://maps.app.goo.gl/HkUhGSHna16JvPxE6)
 - [Palm Court Restaurant & Cafe](https://maps.app.goo.gl/y4p7EeCQbnFpLyzU8)
 - [Nashmiah restaurant](https://maps.app.goo.gl/Mj2xThd5djY12fMx7)
 - [Snack House Restaurant](https://maps.app.goo.gl/8r99wGQwPQ4TooNa7)
@@ -3706,7 +3707,6 @@ TODO:
 - [Yummy Bites](https://maps.app.goo.gl/KqytNr3YsybwS9qe8)
 - [Jordan Heritage Restaurant Petra](https://maps.app.goo.gl/7bAPpgwvB7WwemX4A)
 - [Reem Beladi Restaurant](https://maps.app.goo.gl/HoVAPZrYjSQ3JFkL6)
-- [My Mom's Recipe Restaurant](https://maps.app.goo.gl/HkUhGSHna16JvPxE6)
 
 #### Wadi Rum
 
