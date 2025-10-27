@@ -38,7 +38,10 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Open current directory in Finder](#open-current-directory-in-finder)
     - [Open image in the default app (usually Preview)](#open-image-in-the-default-app-usually-preview)
     - [Show the File in Finder](#show-the-file-in-finder)
-    - [Check / Change the default Application for a given file type](#check--change-the-default-application-for-a-given-file-type)
+    - [Check default Application for a given file type](#check-default-application-for-a-given-file-type)
+    - [Change the default Application for a given file type](#change-the-default-application-for-a-given-file-type)
+      - [Set VLC to open AVI files](#set-vlc-to-open-avi-files)
+      - [Set Chrome to open SVG files](#set-chrome-to-open-svg-files)
     - [Open an Application from the command line](#open-an-application-from-the-command-line)
   - [Clipboard](#clipboard)
   - [System Information](#system-information)
@@ -439,19 +442,48 @@ open -R "$file"
 
 This will open Finder with the file highlighted.
 
-#### Check / Change the default Application for a given file type
+#### Check default Application for a given file type
 
 ```shell
 brew install duti
 ```
 
-Check default Application for a given file type:
+Check default Application for a given file type (eg `.avi` or `.svg`):
+
+```shell
+duti -x avi
+```
 
 ```shell
 duti -x svg
 ```
 
-Change this from say Inkscape which is a slow editor for just file viewing, to Google Chrome which is faster:
+#### Change the default Application for a given file type
+
+##### Set VLC to open AVI files
+
+Check the ID of the app you want to set it to:
+
+```shell
+osascript -e 'id of app "VLC"'
+```
+
+output:
+
+```shell
+org.videolan.vlc
+```
+
+Change all `.avi` files to be opened by VLC instead of the default QuickTime Player which will fail to open them:
+
+```shell
+duti -s org.videolan.vlc avi all
+```
+
+##### Set Chrome to open SVG files
+
+Change all `.svg`files  to be opened by Google Chrome which is much faster for viewing than whatever heavyweight image
+editing application it is already set to (eg. Gimp or Inkscape):
 
 ```shell
 duti -s com.google.Chrome public.svg-image all
