@@ -3725,7 +3725,8 @@ If you only want to do a half day jeep tour, make sure it is in the afternoon fo
 
 At night you will see the sky full of stars due to the clear cloudless sky and less light pollution than urban areas.
 
-For food, you will be mostly relying on your guide camp to feed you and provide bottled water.
+For food, you will be mostly relying on your guide camp to feed you and provide bottled water. Your jeep should have a
+cool box full of small water bottles.
 
 ##### Travel to Wadi Rum and Accommodation
 
