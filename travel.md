@@ -681,7 +681,7 @@ Use the airport wifi to set up one of your e-sims using the lists below, or sims
 On rare occasion I wasn't able to get airport wifi working, and that could be a problem so it's better to sort the e-sim
 on the wifi of your departing airport before you take off than arrive at the other end.
 
-### Conserve Mobile Data - Pre-Download Offline Google Maps & Spotify Playlists
+### Conserve Mobile Data - Pre-Download Offline Google Maps, Translate & Spotify Playlists
 
 Most of my data usage was caused by Google Maps and Spotify
 (you can see this on iPhone under `Settings` -> `Mobile Service` further down the page).
@@ -691,8 +691,9 @@ Pre-cache your usage when on Wifi to avoid using up too much precious mobile e-s
 - Google Maps - download an offline map for your city or area under settings -  you need to keep Google Maps open until
   the download is complete
 - Spotify - click the downloaded option on your playlists - by default this will only download on wifi
+- Google Translate - download the language (the icon to the left of each language on the language selection drop down)
 
-Give both time to complete and check their progress before setting out and leaving your wifi connection behind.
+Give each time to complete and check their progress before setting out and leaving your wifi connection behind.
 
 ### EU Roaming
 
