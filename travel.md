@@ -44,7 +44,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Wifi Cafes & Restaurants](#wifi-cafes--restaurants)
   - [Wifi Speeds](#wifi-speeds)
 - [Mobile Internet Access](#mobile-internet-access)
-  - [Conserve Mobile Data - Pre-Download Offline Google Maps & Spotify Playlists](#conserve-mobile-data---pre-download-offline-google-maps--spotify-playlists)
+  - [Conserve Mobile Data - Pre-Download Offline Google Maps, Translate & Spotify Playlists](#conserve-mobile-data---pre-download-offline-google-maps-translate--spotify-playlists)
   - [EU Roaming](#eu-roaming)
   - [Digital e-Sims](#digital-e-sims)
   - [International Calls using VoIP over the Internet](#international-calls-using-voip-over-the-internet)
