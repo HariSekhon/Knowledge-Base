@@ -3785,7 +3785,9 @@ Unfortunately, even here you will find a bit of street litter of cigarette packe
 - [Enjoy rum Resturant](https://maps.app.goo.gl/eeFHgFQ9wco95sxf7) - 7 JD cash only for 1/4 chicken on a bed of 3 types
   of rice, a side plain yogurt pot, and a small vegetable soup which was very tasty, accompanied by 2 quarters pieces of
   flat pita.
-  Google reviews say tourists got ripped off for 30 JD - just ask and fix the price up front.
+  It has negative Google reviews from tourists who say they got ripped off for 30 JD,
+  but since the Rum Castle restaurant I'd intended to go to, as well as the Falafel takeaway, were both closed,
+  I had to chance it - just ask and fix the price up front to 7 JD.
   Wifi 18/5Mbit/s
 
 TODO:
