@@ -196,12 +196,12 @@ Updated regularly as I travel the world 52 weeks a year.
     - [The Dead Sea](#the-dead-sea)
       - [Travelling to the Dead Sea](#travelling-to-the-dead-sea)
       - [Dead Sea Resorts - There Are No Good Public Beaches](#dead-sea-resorts---there-are-no-good-public-beaches)
-    - [Petra and Wadi Musa](#petra-and-wadi-musa)
+    - [Petra & Wadi Musa](#petra--wadi-musa)
       - [Travelling to Petra](#travelling-to-petra)
       - [Petra Attractions](#petra-attractions)
       - [Restaurants in Wadi Musa](#restaurants-in-wadi-musa)
     - [Wadi Rum](#wadi-rum)
-      - [Travel to Wadi Rum and Accommodation](#travel-to-wadi-rum-and-accommodation)
+      - [Travel to Wadi Rum & Accommodation](#travel-to-wadi-rum--accommodation)
       - [Attractions in Wadi Rum Desert](#attractions-in-wadi-rum-desert)
       - [Wadi Rum Village](#wadi-rum-village)
     - [Aqaba](#aqaba)
@@ -3597,7 +3597,7 @@ Not Recommended:
 - [Family's Beach](https://maps.app.goo.gl/4SKnoFsrZsZCzsUU9) - looked permanently closed and abandoned
 - Any of the _"public beaches"_ - see note above
 
-#### Petra and Wadi Musa
+#### Petra & Wadi Musa
 
 <!--
 
@@ -3728,7 +3728,7 @@ At night you will see the sky full of stars due to the clear cloudless sky and l
 For food, you will be mostly relying on your guide camp to feed you and provide bottled water. Your jeep should have a
 cool box full of small water bottles.
 
-##### Travel to Wadi Rum and Accommodation
+##### Travel to Wadi Rum & Accommodation
 
 You can get there via a Jett bus from Aqaba:
 
