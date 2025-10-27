@@ -3696,7 +3696,8 @@ You can get there via a Jett bus from Aqaba:
 or via a travel package from your accommodation in Petra which is what I did where they drive you from Petra to your
 desert tour and then night time accommodation.
 
-If I was to go again, I would rent a car and then pick the desert package and accommodation more specifically.
+If I was to go again,
+I would rent a car and then pick the desert package and accommodation more specifically to ensure it's what you want.
 
 #### Aqaba
 
