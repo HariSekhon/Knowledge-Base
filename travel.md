@@ -3742,6 +3742,8 @@ cool box full of small water bottles.
 My accommodation in Petra arranged this minibus for me, included as part of a desert tour and camp accommodation
 package through them, which probably wasn't optimal but just made the planning easier.
 
+I stayed at Bedouin Lifestyle camp.
+
 If I was to go again,
 I would rent a car and then pick the desert package and accommodation more specifically to ensure it's the best.
 
