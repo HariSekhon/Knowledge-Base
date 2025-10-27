@@ -3724,6 +3724,12 @@ If you only want to do a half day jeep tour, make sure it is in the afternoon fo
 
 At night you will see the sky full of stars due to the clear cloudless sky and less light pollution than urban areas.
 
+[Wadi Rum Village](https://maps.app.goo.gl/aG3DosxCrydMmgeNA) has only a single restaurant, and a small community of
+buildings.
+Unfortunately, even here you will find a bit of street litter of cigarette packets and plastic bottles.
+
+For food, you will be mostly relying on your guide camp to feed you and provide bottled water.
+
 ##### Travel to Wadi Rum and Accommodation
 
 You can get there via a Jett bus from Aqaba:
