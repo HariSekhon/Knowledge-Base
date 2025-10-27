@@ -3662,7 +3662,8 @@ The nearby town Wadi Musa itself is quite small,
 and the restaurants on
 [Tourism St](https://maps.app.goo.gl/geaNCD1SibVbkykAA) as you might imagine are tourist prices for mediocre food.
 
-- [Downtown- Wadi Mousa](https://maps.app.goo.gl/vTSThzGFEUhcJXEb8) - a good selection of restaurants and dessert places
+- [Downtown- Wadi Mousa](https://maps.app.goo.gl/vTSThzGFEUhcJXEb8) - where locals go to eat rather than Tourism St -
+  a good selection of restaurants and dessert places
   - [Juniper Falafel Restaurant](https://maps.app.goo.gl/dUdsx3yfVsSmcyKi9) - cheap good quality local food
   - [Hashem affouri sweets](https://maps.app.goo.gl/y4FJiLRVUjwj4BhF7) - moosse cake (small round looks like cheesecake
     on my Insta) for a mere 1 JD
@@ -3689,6 +3690,18 @@ Not Recommended:
   Overall a waste of 15 JD -
   which could buy you a prime steak in an upmarket hotel restaurant in Amman,
   to put how bad value for money this place is in perspective
+
+TODO:
+
+- [Nashmiah restaurant](https://maps.app.goo.gl/Mj2xThd5djY12fMx7)
+- [Snack House Restaurant](https://maps.app.goo.gl/8r99wGQwPQ4TooNa7)
+- [Zawaya restaurant](https://maps.app.goo.gl/wfEkcmnT5vrY16Ws9)
+- [Sajiat Al janoob](https://maps.app.goo.gl/AGCnBXLNEFjvPHHh9)
+- [Taste Mandi & Madhbi Restaurant](https://maps.app.goo.gl/f66eqfB1LRBUsgJDA)
+- [Elan restaurant](https://maps.app.goo.gl/L4jA2D5e6wVpHPqc8)
+- [Sana'a Yemen Restaurant](https://maps.app.goo.gl/Y6wno8UBQbHiAEJt6)
+- [Aloush Restaurant](https://maps.app.goo.gl/tMouQW9MSikgVZ4t6)
+- [Yummy Bites](https://maps.app.goo.gl/KqytNr3YsybwS9qe8)
 
 #### Wadi Rum
 
