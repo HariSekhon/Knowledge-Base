@@ -3718,6 +3718,8 @@ Some of the views of the mountain ranges are amazing, especially at sunset.
 
 I was quite skeptical of going to a desert, but it is worth it for a one day jeep tour and to stay overnight.
 
+If you only want to do a half day jeep tour, make sure it is in the afternoon for the sunset, rather than the morning.
+
 You can get there via a Jett bus from Aqaba:
 
 <https://www.jett.com.jo/>
