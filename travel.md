@@ -3710,7 +3710,9 @@ TODO:
 
 #### Wadi Rum
 
-Desert nature reserve. Some of the views of the mountain ranges are amazing, especially at sunset.
+Desert nature reserve.
+
+Some of the views of the mountain ranges are amazing, especially at sunset.
 
 You can get there via a Jett bus from Aqaba:
 
