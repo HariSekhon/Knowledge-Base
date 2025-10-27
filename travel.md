@@ -44,6 +44,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Wifi Cafes & Restaurants](#wifi-cafes--restaurants)
   - [Wifi Speeds](#wifi-speeds)
 - [Mobile Internet Access](#mobile-internet-access)
+  - [Conserve Mobile Data - Pre-Download Offline Google Maps & Spotify Playlists](#conserve-mobile-data---pre-download-offline-google-maps--spotify-playlists)
   - [EU Roaming](#eu-roaming)
   - [Rest of World](#rest-of-world)
     - [Digital e-sims](#digital-e-sims)
@@ -680,6 +681,19 @@ Use the airport wifi to set up one of your e-sims using the lists below, or sims
 
 On rare occasion I wasn't able to get airport wifi working, and that could be a problem so it's better to sort the e-sim
 on the wifi of your departing airport before you take off than arrive at the other end.
+
+### Conserve Mobile Data - Pre-Download Offline Google Maps & Spotify Playlists
+
+Most of my data usage was caused by Google Maps and Spotify
+(you can see this on iPhone under `Settings` -> `Mobile Service` further down the page).
+
+Pre-cache your usage when on Wifi to avoid using up too much precious mobile e-sim data:
+
+- Google Maps - download an offline map for your city or area under settings -  you need to keep Google Maps open until
+  the download is complete
+- Spotify - click the downloaded option on your playlists - by default this will only download on wifi
+
+Give both time to complete and check their progres
 
 ### EU Roaming
 
