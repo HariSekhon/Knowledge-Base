@@ -3713,7 +3713,7 @@ TODO:
 
 #### Wadi Rum
 
-Desert nature reserve.
+Red-rock desert protected area, used to film Lawrence of Arabia and The Martian.
 
 Some of the views of the mountain ranges are amazing, especially at sunset.
 
