@@ -3668,8 +3668,8 @@ and the restaurants on
   - [Hashem affouri sweets](https://maps.app.goo.gl/y4FJiLRVUjwj4BhF7) - moosse cake (small round looks like cheesecake
     on my Insta) for a mere 1 JD
   - [Berry Cake](https://maps.app.goo.gl/1ppWGfYdv3wrYJuZA) - fresh orange juice or cheesecake for 2 JD
-- [Banseok in Petra](https://maps.app.goo.gl/poafpNsSUBFGKvYZ7) - a long long walk uphill out of town, you will want to
-  take a taxi, but otherwise decent Korean,
+- [Banseok in Petra](https://maps.app.goo.gl/poafpNsSUBFGKvYZ7) - a long 45+ minute walk uphill out of town, you will
+  want to take a taxi, but otherwise decent Korean,
   much needed if you're tired of kebab and falafel if you've been in the middle east too long.
   The beef bibimbap was a good size but didn't have much beef,
   but it came with an unexpected lot of side dishes included.
