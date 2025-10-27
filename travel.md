@@ -201,8 +201,8 @@ Updated regularly as I travel the world 52 weeks a year.
       - [Petra Attractions](#petra-attractions)
       - [Restaurants in Wadi Musa](#restaurants-in-wadi-musa)
     - [Wadi Rum](#wadi-rum)
-      - [Attractions](#attractions)
       - [Travel to Wadi Rum and Accommodation](#travel-to-wadi-rum-and-accommodation)
+      - [Attractions](#attractions)
     - [Aqaba](#aqaba)
   - [Laos](#laos)
     - [Taxis in Laos](#taxis-in-laos)
@@ -3724,17 +3724,6 @@ If you only want to do a half day jeep tour, make sure it is in the afternoon fo
 
 At night you will see the sky full of stars due to the clear cloudless sky and less light pollution than urban areas.
 
-##### Attractions
-
-- [Big Red Sand Dune](https://maps.app.goo.gl/5mAANbaXFk7vWodY8)
-- [Little Bridge](https://maps.app.goo.gl/Pu4r74aK1GWc9rHC7) - careful with this climb, bring trainers with good grip
-- [Lawrence’s Spring](https://maps.app.goo.gl/hTFMvbu6a8BBdUXk8)
-- [Lawrence’s House](https://maps.app.goo.gl/9D7WdFghcwWpNKgL8)
-- [Mushroom Rock](https://maps.app.goo.gl/igMPPuf6fk5aWCft5)
-- [Khazali Canyon](https://maps.app.goo.gl/9xLEL6WKRZN8kHHEA)
-- [Umm Rashid Canyon](https://maps.app.goo.gl/RrDESoaU6UxRdeRo7)
-- [Abu Khasaba Canyon](https://maps.app.goo.gl/Jx448ADKvH6f8X9D6)
-
 ##### Travel to Wadi Rum and Accommodation
 
 You can get there via a Jett bus from Aqaba:
@@ -3750,6 +3739,17 @@ I would rent a car and then pick the desert package and accommodation more speci
 There are permanent tents in the desert camps which have communal showers,
 and there are en-suite bungalos for additional cost.
 It is also possible to sleep under the stars by special arrangement, but apparently this is more expensive.
+
+##### Attractions
+
+- [Big Red Sand Dune](https://maps.app.goo.gl/5mAANbaXFk7vWodY8)
+- [Little Bridge](https://maps.app.goo.gl/Pu4r74aK1GWc9rHC7) - careful with this climb, bring trainers with good grip
+- [Lawrence’s Spring](https://maps.app.goo.gl/hTFMvbu6a8BBdUXk8)
+- [Lawrence’s House](https://maps.app.goo.gl/9D7WdFghcwWpNKgL8)
+- [Mushroom Rock](https://maps.app.goo.gl/igMPPuf6fk5aWCft5)
+- [Khazali Canyon](https://maps.app.goo.gl/9xLEL6WKRZN8kHHEA)
+- [Umm Rashid Canyon](https://maps.app.goo.gl/RrDESoaU6UxRdeRo7)
+- [Abu Khasaba Canyon](https://maps.app.goo.gl/Jx448ADKvH6f8X9D6)
 
 #### Aqaba
 
