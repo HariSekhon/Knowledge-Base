@@ -3723,6 +3723,17 @@ If you only want to do a half day jeep tour, make sure it is in the afternoon fo
 
 At night you will see the sky full of stars due to the clear cloudless sky and less light pollution than urban areas.
 
+##### Attractions
+
+- [Big Red Sand Dune](https://maps.app.goo.gl/5mAANbaXFk7vWodY8)
+- [Little Bridge](https://maps.app.goo.gl/Pu4r74aK1GWc9rHC7) - careful with this climb, bring trainers with good grip
+- [Lawrence’s Spring](https://maps.app.goo.gl/hTFMvbu6a8BBdUXk8)
+- [Lawrence’s House](https://maps.app.goo.gl/9D7WdFghcwWpNKgL8)
+- [Mushroom Rock](https://maps.app.goo.gl/igMPPuf6fk5aWCft5)
+- [Khazali Canyon](https://maps.app.goo.gl/9xLEL6WKRZN8kHHEA)
+- [Umm Rashid Canyon](https://maps.app.goo.gl/RrDESoaU6UxRdeRo7)
+- [Abu Khasaba Canyon](https://maps.app.goo.gl/Jx448ADKvH6f8X9D6)
+
 ##### Travel to Wadi Rum and Accommodation
 
 You can get there via a Jett bus from Aqaba:
