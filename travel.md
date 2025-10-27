@@ -3785,6 +3785,7 @@ Unfortunately, even here you will find a bit of street litter of cigarette packe
 - [Enjoy rum Resturant](https://maps.app.goo.gl/eeFHgFQ9wco95sxf7) - 7 JD cash only for 1/4 chicken on a bed of 3 types
   of rice, a side plain yogurt pot, and a small vegetable soup which was very tasty, accompanied by 2 quarters pieces of
   flat pita.
+  Google reviews say tourists got ripped off for 30 JD - just ask and fix the price up front.
   Wifi 18/5Mbit/s
 
 TODO:
