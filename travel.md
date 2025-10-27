@@ -201,6 +201,7 @@ Updated regularly as I travel the world 52 weeks a year.
       - [Petra Attractions](#petra-attractions)
       - [Restaurants in Wadi Musa](#restaurants-in-wadi-musa)
     - [Wadi Rum](#wadi-rum)
+      - [Travel to Wadi Rum and Accommodation](#travel-to-wadi-rum-and-accommodation)
     - [Aqaba](#aqaba)
   - [Laos](#laos)
     - [Taxis in Laos](#taxis-in-laos)
