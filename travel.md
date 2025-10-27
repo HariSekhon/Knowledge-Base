@@ -1829,6 +1829,8 @@ Not Recommended:
 
 ### Bulgaria
 
+Not cheap any more, almost Western prices.
+
 #### Motorway Tolls - Vignettes in Bulgaria
 
 Annoying road tax, but make sure you pay it to avoid more hassles from over bearing government.
@@ -4746,6 +4748,8 @@ In the capital, the malls were relatively sparse since a lot of the poorer local
 Kidnappings of the children of the rich is also a problem, with gated communities having their own security forces.
 
 ### Romania
+
+Not cheap any more, almost Western prices.
 
 #### Taxis in Romania
 
