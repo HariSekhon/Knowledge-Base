@@ -203,6 +203,7 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Wadi Rum](#wadi-rum)
       - [Travel to Wadi Rum and Accommodation](#travel-to-wadi-rum-and-accommodation)
       - [Attractions in Wadi Rum](#attractions-in-wadi-rum)
+      - [Wadi Rum Village](#wadi-rum-village)
     - [Aqaba](#aqaba)
   - [Laos](#laos)
     - [Taxis in Laos](#taxis-in-laos)
