@@ -202,7 +202,7 @@ Updated regularly as I travel the world 52 weeks a year.
       - [Restaurants in Wadi Musa](#restaurants-in-wadi-musa)
     - [Wadi Rum](#wadi-rum)
       - [Travel to Wadi Rum and Accommodation](#travel-to-wadi-rum-and-accommodation)
-      - [Attractions in Wadi Rum](#attractions-in-wadi-rum)
+      - [Attractions in Wadi Rum Desert](#attractions-in-wadi-rum-desert)
       - [Wadi Rum Village](#wadi-rum-village)
     - [Aqaba](#aqaba)
   - [Laos](#laos)
@@ -3743,7 +3743,7 @@ There are permanent tents in the desert camps which have communal showers,
 and there are en-suite bungalos for additional cost.
 It is also possible to sleep under the stars by special arrangement, but apparently this is more expensive.
 
-##### Attractions in Wadi Rum
+##### Attractions in Wadi Rum Desert
 
 - [Big Red Sand Dune](https://maps.app.goo.gl/5mAANbaXFk7vWodY8)
 - [Little Bridge](https://maps.app.goo.gl/Pu4r74aK1GWc9rHC7) - careful with this climb, bring trainers with good grip
