@@ -3782,6 +3782,16 @@ It is also possible to sleep under the stars by special arrangement, but apparen
 
 Unfortunately, even here you will find a bit of street litter of cigarette packets and plastic bottles.
 
+- [Enjoy rum Resturant](https://maps.app.goo.gl/eeFHgFQ9wco95sxf7) - 7 JD cash only for 1/4 chicken on a bed of 3 types
+  of rice, a side plain yogurt pot, and a small vegetable soup which was very tasty, accompanied by 2 quarters pieces of
+  flat pita.
+  Wifi 18/5Mbit/s
+
+TODO:
+
+- [Rum Castle Resthouse](https://maps.app.goo.gl/hih2zWL474ZSZ82TA) - not open at 3pm Monday
+- [Falafel Restaurant](https://maps.app.goo.gl/54DiPSr4hBUM8SPG7) - not open at 3pm Monday
+
 #### Aqaba
 
 City on the Red Sea, known for snorkelling and scuba diving.
