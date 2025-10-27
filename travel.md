@@ -3743,6 +3743,9 @@ My accommodation in Petra arranged this minibus for me, included as part of a de
 package through them, which probably wasn't optimal but just made the planning easier.
 
 I stayed at Bedouin Lifestyle camp.
+The bungalos have keys to lock your valuables inside.
+The tents are more like converted corrugated sheds and have loops on their sliding doors to use your own padlock on -
+you should have your own medium sized padlock on you as per the hostel section near the beginning of this page.
 
 If I was to go again,
 I would rent a car and then pick the desert package and accommodation more specifically to ensure it's the best.
