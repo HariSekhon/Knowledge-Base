@@ -46,8 +46,7 @@ Updated regularly as I travel the world 52 weeks a year.
 - [Mobile Internet Access](#mobile-internet-access)
   - [Conserve Mobile Data - Pre-Download Offline Google Maps & Spotify Playlists](#conserve-mobile-data---pre-download-offline-google-maps--spotify-playlists)
   - [EU Roaming](#eu-roaming)
-  - [Rest of World](#rest-of-world)
-    - [Digital e-sims](#digital-e-sims)
+  - [Digital e-Sims](#digital-e-sims)
   - [International Calls using VoIP over the Internet](#international-calls-using-voip-over-the-internet)
 - [ATMs and Foreign Cash Withdrawals](#atms-and-foreign-cash-withdrawals)
 - [Restaurants & Dining Out](#restaurants--dining-out)
@@ -739,14 +738,9 @@ Going from EU to non-EU was a bit of a jarring experience.
 
 There may be something to the EU integration project after all.
 
-### Rest of World
-
-#### Digital e-sims
+### Digital e-Sims
 
 You can buy data plans for a certain number of days.
-
-Google [travel e-sims](https://www.google.com/search?q=travel+e-sims)
-and add the country you are travelling to for more options.
 
 Follow the installation instructions and make sure to enable `Data Roaming`
 under the e-sim settings otherwise the internet won't connect.
@@ -784,6 +778,9 @@ Not tried these:
   The e-sims above usually work out cheaper.
   Get Silent Link as a backup non-expiring balance in case the airport wifi doesn't work to get your e-sim above set up
   or the e-sim loses reception provider and you need GPS for navigation or emergencies
+
+Google [travel e-sims](https://www.google.com/search?q=travel+e-sims)
+and add the country you are travelling to for more options.
 
 ### International Calls using VoIP over the Internet
 
