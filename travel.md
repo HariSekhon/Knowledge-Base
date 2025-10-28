@@ -4680,7 +4680,20 @@ Tourist hotspot.
 There are lots of coffee shops but few restaurants that stood out to me,
 as usual tourist restaurants will be more expensive and of less impressive quality.
 
-- [Czarna Kaczka / Black Duck](https://maps.app.goo.gl/Ycgm9oBHHpDfAhem9)
+- [Czarna Kaczka / Black Duck](https://maps.app.goo.gl/Ycgm9oBHHpDfAhem9) - decent restaurant
+- [Busz](https://maps.app.goo.gl/izdAfUVvP7cK4Ccm8) - busy coffee shop
+- [Pierwszy Lokal na Stolarskiej po lewej stronie, idąc od Małego Rynku](https://maps.app.goo.gl/NouzQS43hFPR6uLV7) -
+  busy coffee shop
+
+TODO:
+
+- [Padre Restaurant](https://maps.app.goo.gl/AzjizkX1eWaunozw6) - 4.7
+- [Kluska na Placu](https://maps.app.goo.gl/85J5BhYKN9NkFc8b6) - 4.7
+- [Old Town Restaurant and Wine Bar](https://maps.app.goo.gl/LNzkBpBMJ51UyPcy8) - 4.7
+- [Fiorentina](https://maps.app.goo.gl/kDCSctFiJ7cNS8Nw7) - 4.6
+- [Stodoła](https://maps.app.goo.gl/ccyCB1fzyUqjJ8zR8) - 4.5
+- [Pod Aniołami Restaurant](https://maps.app.goo.gl/2HPrdVJFTXq3qoYn8) - 4.5
+- [Miód Malina](https://maps.app.goo.gl/jhHraxVuVfGZExvA9) - 4.5
 
 #### Łódź
 
