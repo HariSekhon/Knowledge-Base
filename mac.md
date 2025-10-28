@@ -1144,7 +1144,7 @@ login item UNKNOWN
 This does work,
 which you can verify by running the above `osascript` command again to see it's in the list of login items.
 
-You can also see this in the UI:
+You can also see this in the Mac UI of `Settings Settings` -> `General` -> `Login Items` :
 
 ```shell
 open "x-apple.systempreferences:com.apple.LoginItems-Settings.extension"
