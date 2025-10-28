@@ -4699,6 +4699,9 @@ TODO:
 
 Medium sized city, mall and restaurants, but lacks the historical centre attraction of other Polish cities.
 
+- [Manufaktura](https://maps.app.goo.gl/V1t63UoBryMrEUfK6) - mall, outside there are restaurants in a large pedestrian
+  area
+
 #### Nowy Sącz
 
 Nice small centre, good for a coffee stopover on road trip between Poland and Slovakia.
