@@ -1483,9 +1483,16 @@ See the instructions on the [audio](audio.md#shazam-songs-while-using-headphones
 
 This is allows you to script event handler actions using Lua.
 
-See the Audio page's section
-[Automatically Switch to Using Multi-Output Device when Connecting Headphones](audio.md#automatically-switch-to-using-multi-output-device-when-connecting-headphones)
-for an example of using this.
+```shell
+brew install hammerspoon --cask
+```
+
+Then create a `~/.hammerspoon/init.lua` to register your event handlers.
+
+See [HariSekhon/DevOps-Bash-tools - configs/.hammerspoon/init.lua](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.hammerspoon/init.lua)
+for my use case mentioned in this knowledge base's Audio page section
+[Automatically Switch to Using Multi-Output Device when Connecting Headphones](audio.md#automatically-switch-to-using-multi-output-device-when-connecting-headphones).
+
 
 ## KeyChain Access
 
