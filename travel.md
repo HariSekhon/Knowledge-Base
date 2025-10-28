@@ -4682,6 +4682,7 @@ as usual tourist restaurants will be more expensive and of less impressive quali
 
 - [Czarna Kaczka / Black Duck](https://maps.app.goo.gl/Ycgm9oBHHpDfAhem9) - decent restaurant
 - [Busz](https://maps.app.goo.gl/izdAfUVvP7cK4Ccm8) - busy coffee shop
+- [B.O.H.O Coffee&Bar](https://maps.app.goo.gl/yewJswg71qJYsbZT6)
 - [Pierwszy Lokal na Stolarskiej po lewej stronie, idąc od Małego Rynku](https://maps.app.goo.gl/NouzQS43hFPR6uLV7) -
   busy coffee shop
 
