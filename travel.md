@@ -6891,7 +6891,6 @@ The best remaining parts of the UK (nearly all in the South of England):
 - Central London (not most of outer London which is ghettoized) - see section below as London is big
 - [Oxford](https://maps.app.goo.gl/gP2h4d7aRoq2Fzx29)
 - [Cambridge](https://maps.app.goo.gl/ZgTir3NfqvxucahEA)
-- [Reading](https://maps.app.goo.gl/sPzxGJPXa59LGvHM6)
 - Surrey:
   - [Richmond](https://maps.app.goo.gl/yPh8mShGfzVQHBcy6) and [Kingston](https://maps.app.goo.gl/M9HuE2gAX62EjEW7A) and
     their surrounding areas such as:
@@ -6932,6 +6931,8 @@ The best remaining parts of the UK (nearly all in the South of England):
     reservations
 - various AONB - Areas of Oustanding Natural Beauty - legally protected green areas like several national parks,
   Lake District, South Downs etc.
+
+<!-- - ~~[Reading](https://maps.app.goo.gl/sPzxGJPXa59LGvHM6)~~ -->
 
 Most of the areas apart from Central London are small enough you can cover their key central parts in 1-2 days each.
 
