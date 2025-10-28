@@ -1548,6 +1548,15 @@ See
 for my use case mentioned in this knowledge base's Audio page section
 [Automatically Switch to Using Multi-Output Device when Connecting Headphones](audio.md#automatically-switch-to-using-multi-output-device-when-connecting-headphones).
 
+```shell
+mkdir ~/.hammerspoon
+```
+
+```shell
+wget -O ~/.hammerspoon/init.lua \
+  https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.hammerspoon/init.lua
+```
+
 Finally, start Hammerspoon, you should see its icon in the menu bar.
 
 ```shell
