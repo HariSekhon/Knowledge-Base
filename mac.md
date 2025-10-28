@@ -1144,10 +1144,16 @@ login item UNKNOWN
 This does work,
 which you can verify by running the above `osascript` command again to see it's in the list of login items.
 
-You can also see this in the Mac UI of `Settings Settings` -> `General` -> `Login Items` :
+You can also see this in the Mac UI of `Settings Settings` -> `General` -> `Login Items` (Ventura / Sonoma):
 
 ```shell
 open "x-apple.systempreferences:com.apple.LoginItems-Settings.extension"
+```
+
+or `System Preferences` -> `Users & Groups` -> `Login Items` (Monterey / Big Sur):
+
+```shell
+open "x-apple.systempreferences:com.apple.preference.users?LoginItems"
 ```
 
 To add it if not already added:
