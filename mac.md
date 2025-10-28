@@ -1135,6 +1135,18 @@ Add an app to start at login:
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Hammerspoon.app", hidden:false}'
 ```
 
+Or to add it if not already added:
+
+```shell
+osascript <<EOF
+tell application "System Events"
+    if not (exists login item "Hammerspoon") then
+        make login item at end with properties {path:"/Applications/Hammerspoon.app", hidden:false}
+    end if
+end tell
+EOF
+```
+
 ### Disk Management
 
 Using graphical Disk Utility is easiest:
