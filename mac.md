@@ -1493,7 +1493,6 @@ See [HariSekhon/DevOps-Bash-tools - configs/.hammerspoon/init.lua](https://githu
 for my use case mentioned in this knowledge base's Audio page section
 [Automatically Switch to Using Multi-Output Device when Connecting Headphones](audio.md#automatically-switch-to-using-multi-output-device-when-connecting-headphones).
 
-
 ## KeyChain Access
 
 ```shell
