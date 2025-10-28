@@ -98,6 +98,8 @@ See the Mac page's [Hammerspoon - System Event Handler](mac.md#hammerspoon---sys
 setting up Hammerspoon with the exact Hammerspoon Lua code
 I use to trigger this automated switch back to the first Multi-Output and BlackHole input devices found.
 
+[HariSekhon/DevOps-Bash-tools - configs/.hammerspoon/init.lua](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.hammerspoon/init.lua)
+
 ## MP3 metadata editing
 
 Use the `id3v2` program to set metadata on mp3 files.
