@@ -1135,7 +1135,22 @@ Add an app to start at login:
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Hammerspoon.app", hidden:false}'
 ```
 
-Or to add it if not already added:
+Ignore this quirky output:
+
+```text
+login item UNKNOWN
+```
+
+This does work,
+which you can verify by running the above `osascript` command again to see it's in the list of login items.
+
+You can also see this in the UI:
+
+```shell
+open "x-apple.systempreferences:com.apple.LoginItems-Settings.extension"
+```
+
+To add it if not already added:
 
 ```shell
 osascript <<EOF
