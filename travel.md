@@ -3811,7 +3811,7 @@ City on the Red Sea, known for snorkelling and scuba diving.
   of the 3 scoops of ice cream, the chocolate was my favourite, a rich flavour of chocolate,
   followed by the vanilla, but next time I'd go with the strawberry instead of the mango sorbet.
   I'm going to try to have this banana split again.
-  Wifi 322/56 Mbit/s
+  Wifi 382/177 Mbit/s
 - [Flame](https://maps.app.goo.gl/zP1pSkaUTHQ5cmPv9) - good fast food burger restaurant.
   The smokey burger double was surprisingly good, and came with a lot of fries and a soft drink
   (I asked for water instead) for 6.25 JD. No wifi unfortunately
