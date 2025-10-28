@@ -96,7 +96,7 @@ Install Hammerspoon as a system event handler to trigger your `SwitchAudioSource
 
 See the Mac page's [Hammerspoon - System Event Handler](mac.md#hammerspoon---system-event-handler) section for
 setting up Hammerspoon with the exact Hammerspoon Lua code
-I use to trigger this automated switch back to the first Multi-Output and BlackHole devices found.
+I use to trigger this automated switch back to the first Multi-Output and BlackHole input devices found.
 
 ## MP3 metadata editing
 
