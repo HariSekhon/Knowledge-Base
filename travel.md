@@ -3802,7 +3802,8 @@ TODO:
 City on the Red Sea, known for snorkelling and scuba diving.
 
 - [Aurjwan Cafe & Restaurant] - good menu and moderate prices,
-  in a cafe lounge settings with indoor and outdoor seating, 5 big screen TVs on 3 of the walls playing football.
+  in a well air conditioned cafe lounge with indoor and outdoor seating, 5 big screen TVs on 3 of the walls playing
+  football.
   The outdoor seating is covered during the day time as it's too hot and not shaded.
   The fish and "chips" was good - 3 medium sized pieces of nicely battered fish, 2 large lemons, and the homemade
   "chips" were like deep fried crisps rather than the fries expected.
