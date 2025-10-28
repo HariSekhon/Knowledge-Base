@@ -4677,6 +4677,9 @@ Tourist hotspot.
 
 *"F\*ck Warsaw, go to Krakow!"*, one of my Polish colleagues told me. He was right.
 
+There are lots of coffee shops but few restaurants that stood out to me,
+as usual tourist restaurants will be more expensive and of less impressive quality.
+
 - [Czarna Kaczka / Black Duck](https://maps.app.goo.gl/Ycgm9oBHHpDfAhem9)
 
 #### Łódź
