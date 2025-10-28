@@ -69,10 +69,14 @@ brew install switchaudio-osx
 ```
 
 ```shell
-SwitchAudioSource -s "Multi-Output Device"
+SwitchAudioSource -t output -s "Multi-Output Device"
 ```
 
-7. Configure the Shazam app settings to use the `Blackhole 2ch` as the sound input device
+7. The Shazam app settings follows the system sound input device, set it to use the `Blackhole 2ch` device
+
+```shell
+SwitchAudioSource -t input -s "BlackHole 2ch"
+```
 
 8. Shazam away!
 
@@ -82,17 +86,17 @@ open -a Shazam
 
 ### Automatically Switch to Using Multi-Output Device when Connecting Headphones
 
-When I connect my AirPods they become the sound output device,
-and this needs to be switched back to the multi-output device to be able to Shazam again.
+When I connect my AirPods they become the sound input and output device,
+and this needs to be switched back to the blackhole input and multi-output device to be able to Shazam again.
 
 You can automate this by triggering the `SwitchAudioSource` command upon a system event using Hammerspoon to trigger
 whenever AirPods connect to bluetooth.
 
-Install Hammerspoon as a system event handler to trigger your `SwitchAudioSource` command:
+Install Hammerspoon as a system event handler to trigger your `SwitchAudioSource` command.
 
-```shell
-brew install hammerspoon --cask
-```
+See the Mac page's [Hammerspoon - System Event Handler](mac.md#hammerspoon---system-event-handler) section for
+setting up Hammerspoon with the exact Hammerspoon Lua code
+I use to trigger this automated switch back to the first Multi-Output Device found and the BlackHole 2ch device.
 
 ## MP3 metadata editing
 
