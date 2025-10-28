@@ -188,6 +188,7 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Venice](#venice)
   - [Jordan](#jordan)
     - [Jordan Visa & Jordan Pass](#jordan-visa--jordan-pass)
+    - [Cash & "Visa" in Jordan](#cash--visa-in-jordan)
     - [Jordan Taxi Apps](#jordan-taxi-apps)
     - [Beware Dating Apps Are Full of Scammers in Jordan](#beware-dating-apps-are-full-of-scammers-in-jordan)
     - [Amman](#amman)
@@ -3345,6 +3346,13 @@ However, since historical attractions will set you back nearly the same amount a
 
 The difference between the 3 different Jordan Passes is whether you want to spend 1, 2 or 3 consecutive days visiting
 Petra.
+
+#### Cash & "Visa" in Jordan
+
+Although many places do accept cards, quite a few don't so you will need to withdraw cash from an ATM otherwise you
+will likely be caught out at some point.
+
+Locals tend to say "Visa" when they mean card payment, your Mastercard will work fine too.
 
 #### Jordan Taxi Apps
 
