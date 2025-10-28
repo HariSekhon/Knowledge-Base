@@ -1569,6 +1569,16 @@ Set Hammerspoon to start at login (you can tick this in the Hammerspoon Preferen
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Hammerspoon.app", hidden:false}'
 ```
 
+Optionally allow pop-up desktop notifications from Hammerspoon
+so that your code can notify you when it's done something for you
+(I recommend Banners that automatically disappear without having to click them).
+
+`System Settings` -> `Notifications` ->`Hammerspoon`:
+
+```shell
+open "x-apple.systempreferences:com.apple.Notifications-Settings.extension?bundleId=org.hammerspoon.Hammerspoon"
+```
+
 ## KeyChain Access
 
 ```shell
