@@ -3823,7 +3823,19 @@ City on the Red Sea, known for snorkelling and scuba diving.
 - [Flame](https://maps.app.goo.gl/zP1pSkaUTHQ5cmPv9) - good fast food burger restaurant.
   The smokey burger double was surprisingly good, and came with a lot of fries and a soft drink
   (I asked for water instead) for 6.25 JD. No wifi unfortunately
+- [Lacosta Bakery & Cafe](https://maps.app.goo.gl/vsiJcdi78Nmcob6B8) - upmarket expensive coffee shop with treats like
+  cookies and croissants filled with banana or strawberry and chocolate.
+  Wifi 75/94 Mbit/s
 - [Firefly Burger](https://maps.app.goo.gl/5XRz6wZXLqzrxxyQA) - same chain as the one described in the Amman section
+
+Not recommended:
+
+- [Stacoza](https://maps.app.goo.gl/1Fz6wiM3dTVJRoTQ7) - Calamari in garlic & lemon sauce wasn't good and didn't come
+  with fries or any side as was quoted, that was only for the same line item of calamari if deep fried apparently,
+  so had to order a side of rice (2JD, but it was large to be fair).
+  The fresh orange juice was a decent but they insisted on charging 3JD even though I showed it was 2JD on the board
+  outside.
+  Has wifi
 
 ### Laos
 
