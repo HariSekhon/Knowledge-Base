@@ -4677,6 +4677,8 @@ Tourist hotspot.
 
 *"F\*ck Warsaw, go to Krakow!"*, one of my Polish colleagues told me. He was right.
 
+- [Czarna Kaczka / Black Duck](https://maps.app.goo.gl/Ycgm9oBHHpDfAhem9)
+
 #### Łódź
 
 Medium sized city, mall and restaurants, but lacks the historical centre attraction of other Polish cities.
