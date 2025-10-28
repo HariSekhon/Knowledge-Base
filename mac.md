@@ -1521,6 +1521,12 @@ Finally, start Hammerspoon, you should see its icon in the menu bar.
 open -a Hammerspoon
 ```
 
+Set Hammerspoon to start at login (you can tick this in the Hammerspoon Preferences UI) or just run this:
+
+```shell
+osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Hammerspoon.app", hidden:false}'
+```
+
 ## KeyChain Access
 
 ```shell
