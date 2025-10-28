@@ -3801,6 +3801,15 @@ TODO:
 
 City on the Red Sea, known for snorkelling and scuba diving.
 
+- [Aurjwan Cafe & Restaurant] - good menu and moderate prices,
+  in a cafe lounge settings with indoor and outdoor seating, 5 big screen TVs on 3 of the walls playing football.
+  The fish and "chips" was good - 3 medium sized pieces of nicely battered fish, 2 large lemons, and the homemade
+  "chips" were like deep fried crisps rather than the fries expected.
+  The banana split was great too - and came topped with strawberry slices and nuts -
+  of the 3 scoops of ice cream, the chocolate was my favourite, a rich flavour of chocolate,
+  followed by the vanilla, but next time I'd go with the strawberry instead of the mango sorbet.
+  I'm going to try to have this banana split again.
+  Wifi 322/56 Mbit/s
 - [Flame](https://maps.app.goo.gl/zP1pSkaUTHQ5cmPv9) - good fast food burger restaurant.
   The smokey burger double was surprisingly good, and came with a lot of fries and a soft drink
   (I asked for water instead) for 6.25 JD. No wifi unfortunately
