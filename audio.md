@@ -5,6 +5,7 @@
 - [Spotify](#spotify)
   - [Clear Local Spotify Desktop Cache](#clear-local-spotify-desktop-cache)
 - [Shazam Songs while using Headphones on Mac](#shazam-songs-while-using-headphones-on-mac)
+  - [Automatically Switch to Using Multi-Output Device when Connecting Headphones](#automatically-switch-to-using-multi-output-device-when-connecting-headphones)
 - [MP3 metadata editing](#mp3-metadata-editing)
   - [Setting Author and Album metadata](#setting-author-and-album-metadata)
   - [Setting Track Number metadata](#setting-track-number-metadata)
@@ -77,6 +78,20 @@ SwitchAudioSource -s "Multi-Output Device"
 
 ```shell
 open -a Shazam
+```
+
+### Automatically Switch to Using Multi-Output Device when Connecting Headphones
+
+When I connect my AirPods they become the sound output device,
+and this needs to be switched back to the multi-output device to be able to Shazam again.
+
+You can automate this by triggering the `SwitchAudioSource` command upon a system event using Hammerspoon to trigger
+whenever AirPods connect to bluetooth.
+
+Install Hammerspoon as a system event handler to trigger your `SwitchAudioSource` command:
+
+```shell
+brew install hammerspoon --cask
 ```
 
 ## MP3 metadata editing
