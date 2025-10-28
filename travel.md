@@ -3793,13 +3793,17 @@ Unfortunately, even here you will find a bit of street litter of cigarette packe
 
 TODO:
 
-- [Rum Castle Resthouse](https://maps.app.goo.gl/hih2zWL474ZSZ82TA) - not open at 3pm Monday
+- [Rum Castle Resthouse](https://maps.app.goo.gl/hih2zWL474ZSZ82TA) - not open at 3pm Monday, fridges were empty,
+  not sure if permanently closed down
 - [Falafel Restaurant](https://maps.app.goo.gl/54DiPSr4hBUM8SPG7) - not open at 3pm Monday
 
 #### Aqaba
 
 City on the Red Sea, known for snorkelling and scuba diving.
 
+- [Flame](https://maps.app.goo.gl/zP1pSkaUTHQ5cmPv9) - good fast food burger restaurant.
+  The smokey burger double was surprisingly good, and came with a lot of fries and a soft drink
+  (I asked for water instead) for 6.25 JD. No wifi unfortunately
 - [Firefly Burger](https://maps.app.goo.gl/5XRz6wZXLqzrxxyQA) - same chain as the one described in the Amman section
 
 ### Laos
