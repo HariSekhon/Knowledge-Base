@@ -92,6 +92,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Set Sound Output Volume](#set-sound-output-volume)
     - [Switch Sound Output](#switch-sound-output)
 - [Shazam Songs while using Headphones](#shazam-songs-while-using-headphones)
+- [Hammerspoon - System Event Handler](#hammerspoon---system-event-handler)
 - [KeyChain Access](#keychain-access)
 - [Binaries Debugging](#binaries-debugging)
 - [Creating Bootable CDs & USBs from ISOs](#creating-bootable-cds--usbs-from-isos)
@@ -1475,6 +1476,16 @@ SwitchAudioSource -s "Multi-Output Device"
 Capture the songs from your favourites movies or TV shows while listening with headphones.
 
 See the instructions on the [audio](audio.md#shazam-songs-while-using-headphones-on-mac) page.
+
+## Hammerspoon - System Event Handler
+
+[:octocat: Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)
+
+This is allows you to script event handler actions using Lua.
+
+See the Audio page's section
+[Automatically Switch to Using Multi-Output Device when Connecting Headphones](audio.md#automatically-switch-to-using-multi-output-device-when-connecting-headphones)
+for an example of using this.
 
 ## KeyChain Access
 
