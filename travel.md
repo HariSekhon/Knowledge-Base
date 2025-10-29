@@ -3821,9 +3821,10 @@ City on the Red Sea, known for snorkelling and scuba diving.
   I'm going to try to have this banana split again.
   Wifi 382/177 Mbit/s
 - [Flame](https://maps.app.goo.gl/zP1pSkaUTHQ5cmPv9) - good fast food burger restaurant.
-  The smokey burger double was surprisingly good, and came with a lot of fries and a soft drink
-  (I asked for water instead) for 6.25 JD.
-  The special burger was too much due to the large slab of deep fried cheese, the second half of which I pulled out.
+  The smokey burger double was surprisingly good, and came with a lot of skinny fries and a soft drink
+  for 6.25 JD (I asked for water instead).
+  The special burger was too much due to the large think slab of deep fried cheese, the second half of which I pulled
+  out, rather than ate.
   Go with the classic burger instead of the special if you're even remotely health conscious.
   No wifi unfortunately (it's only for the pay register)
 - [Lacosta Bakery & Cafe](https://maps.app.goo.gl/vsiJcdi78Nmcob6B8) - upmarket expensive coffee shop with treats like
