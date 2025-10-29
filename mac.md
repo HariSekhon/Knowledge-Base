@@ -1544,7 +1544,7 @@ brew install hammerspoon --cask
 Then create a `~/.hammerspoon/init.lua` to register your event handlers.
 
 See
-[HariSekhon/DevOps-Bash-tools - configs/.hammerspoon/init.lua](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.hammerspoon/init.lua)
+[:octocat: HariSekhon/DevOps-Bash-tools - configs/.hammerspoon/init.lua](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.hammerspoon/init.lua)
 for my use case mentioned in this knowledge base's Audio page section
 [Automatically Switch to Using Multi-Output Device when Connecting Headphones](audio.md#automatically-switch-to-using-multi-output-device-when-connecting-headphones).
 
