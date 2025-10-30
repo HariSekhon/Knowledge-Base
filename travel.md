@@ -3829,7 +3829,8 @@ The Extra Traveller hostel was nice, good facility and the owner is super friend
 -->
 
 - [Bakar & Sweets World Al janob](https://maps.app.goo.gl/onfk16d9E49Cn3m1A) - the best local bakery of breads and
-  treats, shown to me by a local
+  treats, shown to me by a local.
+  I love the yellow "cake" bread
 - [Aurjwan Cafe & Restaurant](for 6.25 JD) - good menu and moderate prices,
   in a well air conditioned cafe lounge with indoor and outdoor seating, 5 big screen TVs on 3 of the walls playing
   football.
