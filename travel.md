@@ -3780,6 +3780,10 @@ There are permanent tents in the desert camps which have communal showers,
 and there are en-suite bungalos for additional cost.
 It is also possible to sleep under the stars by special arrangement, but apparently this is more expensive.
 
+It's ideal to go for 2 nights, arrive the night before, do a full day jeep tour the next day,
+then stay overnight again before leaving so that you are resting properly instead of travelling to / from Wadi Rum on
+the same day as the full jeep tour which is more tiring.
+
 ##### Attractions in Wadi Rum Desert
 
 - [Big Red Sand Dune](https://maps.app.goo.gl/5mAANbaXFk7vWodY8)
