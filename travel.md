@@ -3898,6 +3898,8 @@ Restaurants:
   cookies and croissants filled with banana or strawberry and chocolate.
   Wifi 75/94 Mbit/s
 - [Firefly Burger](https://maps.app.goo.gl/5XRz6wZXLqzrxxyQA) - same chain as the one described in the Amman section
+- [Albaba Spices](https://maps.app.goo.gl/9VqbRBQsbfnBYyyq7) - 2-3 JD for 200-300g for spices, a great selection of
+  mixed spices and teas
 
 Attractions:
 
