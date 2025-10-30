@@ -7,7 +7,7 @@
 ![Countries](https://img.shields.io/badge/Countries-47-blue)
 ![Countries in 2024](https://img.shields.io/badge/Countries%20in%202024-17-blue)
 ![Countries in 2025](https://img.shields.io/badge/Countries%20in%202025-26-blue)
-![Unique Countries Since Emigrating from UK](https://img.shields.io/badge/Unique%20Countries%20Since%20Emigrating%20from%20UK-45-blue)
+![Unique Countries Since Emigrating from UK](https://img.shields.io/badge/Unique%20Countries%20Since%20Emigrating%20from%20UK-35-blue)
 
 Short links to this page:
 
