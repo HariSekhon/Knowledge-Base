@@ -3402,6 +3402,8 @@ The roads are also surprisingly dirty (that black dust as opposed to litter) sim
 
 Overall, you don't need more than 2-3 nights in Amman.
 
+The plugs are UK ("Type G") plugs, but take a travel adapter just in case there are a variety of plugs.
+
 ##### Bus from Airport to Amman
 
 The airport is quite a long way outside Amman - it's a 40 minute drive.
@@ -5541,7 +5543,7 @@ TODO:
 
 This city state is one of the most developed places in Asia and one of the most expensive cities in the world.
 
-This is another former British colony, like UAE, that has retained English speaking and English 3-pin plugs.
+This is another former British colony, like UAE, that has retained English speaking and UK 3-pin (type "G") plugs.
 
 The food is more expensive and less good than the rest of Asia, and the hotels are expensive too.
 
