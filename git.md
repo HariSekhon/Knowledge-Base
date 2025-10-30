@@ -159,6 +159,9 @@ or edit or remove:
 "$EDITOR" ~/.git-credentials
 ```
 
+Then try push / pull again, which will either request a new credential or use your environment variable tokens via
+the credential helper.
+
 ## CLIs
 
 Standard Git CLI is already provided by XCode on Mac but you can also install it from Homebrew to get a different version:
