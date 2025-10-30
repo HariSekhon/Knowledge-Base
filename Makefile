@@ -46,6 +46,9 @@ build: init
 	@#$(MAKE) pre-commit
 	@echo "All Checks Passed"
 
+countries:
+	.github/scripts/country_count.sh
+
 generate-indexes:
 	@# markdown_replace_index.sh is from DevOps-Bash-tools repo being in the $PATH
 	@git ls-files --cached "*.md" | \
