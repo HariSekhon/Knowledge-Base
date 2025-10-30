@@ -64,21 +64,34 @@ if [[ "$USER" =~ hari|sekhon ]]; then
        type -P pycookiecheat &>/dev/null; then
         nomads_csv=~/Downloads/"$(date '+%F')-harisekhon-trips-on-nomad-list.csv"
         curl_with_cookies.sh https://nomads.com/@harisekhon.csv > "$nomads_csv"
+        total_countries=""
         for year in {2024..2099}; do
-            num_countries="$(
+            countries="$(
                 awk -F, "/\"$year/{print \$5}" "$nomads_csv" |
                 sed '
                     /United Kingdom/d;
                     s/"//g;
                 ' |
-                sort -u |
+                sort -u
+            )"
+            num_countries="$(
+                sed '/^[[:space:]]*$/d' <<< "$countries" |
                 wc -l |
                 sed 's/[[:space:]]//g;'
             )"
             if [ "$num_countries" = 0 ]; then
                 break
             fi
-            sed -i "s/Countries in $year: .*/Countries in $year: $num_countries/" "$travel_md"
+            sed -i "s/\(Countries in $year: \).*/\\1$num_countries/" "$travel_md"
+            total_countries+="
+$countries"
         done
+        num_total_countries="$(
+            sed '/^[[:space:]]*$/d' <<< "$total_countries" |
+            sort -u |
+            wc -l |
+            sed 's/[[:space:]]//g;'
+        )"
+        sed -i "s/\(Unique Countries since Emigrating from the UK in 2024: \).*/\\1$num_total_countries/" "$travel_md"
     fi
 fi
