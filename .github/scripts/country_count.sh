@@ -65,13 +65,16 @@ if [[ "$USER" =~ hari|sekhon ]]; then
         nomads_csv=~/Downloads/"$(date '+%F')-harisekhon-trips-on-nomad-list.csv"
         curl_with_cookies.sh https://nomads.com/@harisekhon.csv > "$nomads_csv"
         total_countries=""
+        total_cities=""
         for year in {2024..2099}; do
             countries="$(
                 awk -F, "/\"$year/{print \$5}" "$nomads_csv" |
-                sed '
-                    /United Kingdom/d;
-                    s/"//g;
-                ' |
+                sed 's/"//g' |
+                sort -u
+            )"
+            cities="$(
+                awk -F, "/\"$year/{print \$5\"-\"\$4}" "$nomads_csv" |
+                sed 's/"//g' |
                 sort -u
             )"
             num_countries="$(
@@ -79,12 +82,22 @@ if [[ "$USER" =~ hari|sekhon ]]; then
                 wc -l |
                 sed 's/[[:space:]]//g;'
             )"
+            num_cities="$(
+                sed '/^[[:space:]]*$/d' <<< "$cities" |
+                wc -l |
+                sed 's/[[:space:]]//g;'
+            )"
             if [ "$num_countries" = 0 ]; then
                 break
             fi
-            sed -i "s/\(Countries in $year: \).*/\\1$num_countries/" "$travel_md"
+            sed -i "
+                s/\(Countries in $year: \).*/\\1$num_countries/;
+                s/\(Cities in $year: \).*/\\1$num_cities/;
+            " "$travel_md"
             total_countries+="
 $countries"
+            total_cities+="
+$cities"
         done
         num_total_countries="$(
             sed '/^[[:space:]]*$/d' <<< "$total_countries" |
@@ -92,6 +105,15 @@ $countries"
             wc -l |
             sed 's/[[:space:]]//g;'
         )"
-        sed -i "s/\(Unique Countries since Emigrating from the UK in 2024: \).*/\\1$num_total_countries/" "$travel_md"
+        num_total_cities="$(
+            sed '/^[[:space:]]*$/d' <<< "$total_cities" |
+            sort -u |
+            wc -l |
+            sed 's/[[:space:]]//g;'
+        )"
+        sed -i "
+            s/\(Unique Countries since Emigrating from the UK in 2024: \).*/\\1$num_total_countries/;
+            s/\(Unique Cities since Emigrating from the UK in 2024: \).*/\\1$num_total_cities/;
+        " "$travel_md"
     fi
 fi
