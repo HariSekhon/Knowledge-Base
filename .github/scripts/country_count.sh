@@ -69,6 +69,8 @@ if [[ "$USER" =~ hari|sekhon ]]; then
         sed -i "
             s/\(Countries: \).*/\\1$num_total_countries/;
             s/\(Cities: \).*/\\1$num_total_cities/;
+            s|\(Total%20Countries-\)[[:digit:]]*|\\1$num_total_countries|;
+            s|\(Total%20Cities-\)[[:digit:]]*|\\1$num_total_cities|;
         " "$travel_md"
         for year in {2024..2099}; do
             countries="$(
@@ -97,6 +99,8 @@ if [[ "$USER" =~ hari|sekhon ]]; then
             sed -i "
                 s/\(Countries in $year: \).*/\\1$num_countries/;
                 s/\(Cities in $year: \).*/\\1$num_cities/;
+                s|\(Countries in $year](https://img.shields.io/badge/in%20$year-\)[[:digit:]]*|\\1$num_countries|;
+                s|\(Cities in $year](https://img.shields.io/badge/in%20$year-\)[[:digit:]]*|\\1$num_cities|;
             " "$travel_md"
             countries_since_2024+="
 $countries"
@@ -118,6 +122,8 @@ $cities"
         sed -i "
             s/\(Unique Countries since Emigrating from the UK in 2024: \).*/\\1$num_countries_since_2024/;
             s/\(Unique Cities since Emigrating from the UK in 2024: \).*/\\1$num_cities_since_2024/;
+            s|\(Unique%20Countries%202024+-\)[[:digit:]]*|\\1$num_countries_since_2024|;
+            s|\(Unique%20Cities%202024+-\)[[:digit:]]*|\\1$num_cities_since_2024|;
         " "$travel_md"
     fi
 fi
