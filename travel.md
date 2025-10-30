@@ -3822,6 +3822,12 @@ City on the Red Sea, known for snorkelling and scuba diving.
 Aqaba isn't big so you can explore it in one day, then spend one day snorkelling and another day scuba diving - a
 3-4 night stay isn't enough, plus whatever rest days you want around travelling.
 
+<!--
+
+The Extra Traveller hostel was nice, good facility and the owner is super friendly and accommodating.
+
+-->
+
 - [Aurjwan Cafe & Restaurant](for 6.25 JD) - good menu and moderate prices,
   in a well air conditioned cafe lounge with indoor and outdoor seating, 5 big screen TVs on 3 of the walls playing
   football.
