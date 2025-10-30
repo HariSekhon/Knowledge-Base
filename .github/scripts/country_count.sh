@@ -58,3 +58,27 @@ else
     timestamp "Updating country count from $num_countries_in_markdown to $num_countries"
     sed -i "s/^\(Number of Countries:\)[[:space:]]*[[:digit:]][[:digit:]]*[[:space:]]*$/\\1 $num_countries/" "$travel_md"
 fi
+
+if [[ "$USER" =~ hari|sekhon ]]; then
+    if type -P curl_with_cookies.sh &>/dev/null &&
+       type -P pycookiecheat &>/dev/null; then
+        nomads_csv=~/Downloads/"$(date '+%F')-harisekhon-trips-on-nomad-list.csv"
+        curl_with_cookies.sh https://nomads.com/@harisekhon.csv > "$nomads_csv"
+        for year in {2024..2099}; do
+            num_countries="$(
+                awk -F, "/\"$year/{print \$5}" "$nomads_csv" |
+                sed '
+                    /United Kingdom/d;
+                    s/"//g;
+                ' |
+                sort -u |
+                wc -l |
+                sed 's/[[:space:]]//g;'
+            )"
+            if [ "$num_countries" = 0 ]; then
+                break
+            fi
+            sed -i "s/Countries in $year: .*/Countries in $year: $num_countries/" "$travel_md"
+        done
+    fi
+fi
