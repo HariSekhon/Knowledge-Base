@@ -3897,6 +3897,7 @@ Restaurants:
   great menu, reasonable prices and good selection of juices and fresh pure juice mixes as well.
   A plain orange juice is 2 JD + taxes, so a little cheaper than the neighbouring restaurants which are typically 3 JD.
   The juice mixes are typically 2.5-3 JD + taxes.
+  Wifi is by the parent Lacoste Hotel tested at an impressive 286/212 Mbit/s
 - [Lacosta Bakery & Cafe](https://maps.app.goo.gl/vsiJcdi78Nmcob6B8) - upmarket expensive coffee shop with treats like
   cookies and croissants filled with banana or strawberry and chocolate.
   Wifi 75/94 Mbit/s
