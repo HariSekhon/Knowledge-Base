@@ -7,12 +7,12 @@
 [![Total Countries](https://img.shields.io/badge/Total%20Countries-47-blue)](https://nomads.com/@harisekhon)
 [![Countries in 2024](https://img.shields.io/badge/in%202024-19-blue)](https://nomads.com/@harisekhon)
 [![Countries in 2025](https://img.shields.io/badge/in%202025-28-blue)](https://nomads.com/@harisekhon)
-[![Unique Countries 2024+](https://img.shields.io/badge/Unique%20Countries%202024+-35-blue)](https://nomads.com/@harisekhon)
+[![Unique Countries 2024+](https://img.shields.io/badge/Unique%20Countries%202024+-39-blue)](https://nomads.com/@harisekhon)
 
 [![Total Cities](https://img.shields.io/badge/Total%20Cities-157-blue)](https://nomads.com/@harisekhon)
 [![Cities in 2024](https://img.shields.io/badge/in%202024-68-blue)](https://nomads.com/@harisekhon)
 [![Cities in 2025](https://img.shields.io/badge/in%202025-74-blue)](https://nomads.com/@harisekhon)
-[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-35-blue)](https://nomads.com/@harisekhon)
+[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-136-blue)](https://nomads.com/@harisekhon)
 
 Short links to this page:
 
