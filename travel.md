@@ -3903,7 +3903,9 @@ Restaurants:
   Wifi same as above but tested at 75/94 Mbit/s
 - [Firefly Burger](https://maps.app.goo.gl/5XRz6wZXLqzrxxyQA) - same chain as the one described in the Amman section
 - [Albaba Spices](https://maps.app.goo.gl/9VqbRBQsbfnBYyyq7) - 2-3 JD for 200-300g for spices, a great selection of
-  mixed spices and teas
+  mixed spices and teas, most notably the pomegranate tea mix,
+  which they gave sample of as well as tastes of their various spice mixes which were very good.
+  If you're intending to cook anything whether here or back home, you may want to get some of these mixes
 
 Attractions:
 
