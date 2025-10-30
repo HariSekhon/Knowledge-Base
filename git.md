@@ -146,8 +146,8 @@ which will prompt for your credentials and cache them the first time you `git pu
 
 ### Revoke Cached Credential Helper
 
-Clear the cached credential for cases where the upstream replaces the valid token method
-(eg. Bitbucket discontinued app passwords for API tokens), causing you 403 errors:
+Clear the cached credential for cases where the credential has expired or the upstream hosting platform invalidates the
+existing token method(eg. Bitbucket discontinued app passwords for API tokens), causing you 403 errors:
 
 ```shell
 printf "protocol=https\nhost=bitbucket.org\n" | git credential reject
