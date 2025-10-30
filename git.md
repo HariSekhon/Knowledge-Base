@@ -11,7 +11,7 @@
   - [Git Review Push](#git-review-push)
 - [GitHub SSH Key SSO Authorization](#github-ssh-key-sso-authorization)
 - [Git HTTPS Authentication](#git-https-authentication)
-  - [Revoke Cached Credential Helper](#revoke-cached-credential-helper)
+  - [Revoke Cached Credential](#revoke-cached-credential)
 - [CLIs](#clis)
 - [GitHub Badges](#github-badges)
 - [Basic Tips](#basic-tips)
@@ -144,7 +144,7 @@ Or you can install
 [Git Credentials Manager](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git#git-credential-manager)
 which will prompt for your credentials and cache them the first time you `git pull` over HTTPS.
 
-### Revoke Cached Credential Helper
+### Revoke Cached Credential
 
 Clear the cached credential for cases where the credential has expired or the upstream hosting platform invalidates the
 existing token method(eg. Bitbucket discontinued app passwords for API tokens), causing you 403 errors:
