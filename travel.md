@@ -3380,7 +3380,7 @@ He said he met her on Bumble, but local hotels and hostels warn that this is com
 
 The capital of Jordan.
 
-There are quite a few historic sites dating back to Roman times.
+There are a couple of few historic sites dating back to Roman times.
 
 Amman has also lots of good restaurants at reasonable prices, especially around
 [Rainbow Street](https://maps.app.goo.gl/Dcj9De8Tso5D4SMdA) and
@@ -3395,6 +3395,8 @@ the hills.
 The city is not great for walking, you can't even walk north from the Taj Mall because it is just dual carriageways.
 
 The roads are also surprisingly dirty (that black dust as opposed to litter) similar to parts of London.
+
+Overall, you don't need more than 2-3 nights in Amman.
 
 ##### Bus from Airport to Amman
 
