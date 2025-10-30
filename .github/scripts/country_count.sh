@@ -35,10 +35,6 @@ num_args 0 "$@"
 
 cd "$srcdir/../.."
 
-countries="$(sed -n '/## Countries/,$p' travel.md | grep '^###[[:space:]]')"
-
-num_countries="$(wc -l <<< "$countries" | sed 's/[[:space:]]*//g')"
-
 travel_md="travel.md"
 
 if ! [ -f "$travel_md" ]; then
@@ -50,8 +46,30 @@ if [[ "$USER" =~ hari|sekhon ]]; then
        type -P pycookiecheat &>/dev/null; then
         nomads_csv=~/Downloads/"$(date '+%F')-harisekhon-trips-on-nomad-list.csv"
         curl_with_cookies.sh https://nomads.com/@harisekhon.csv > "$nomads_csv"
-        total_countries=""
-        total_cities=""
+        total_countries="$(
+            awk -F, "{print \$5}" "$nomads_csv" |
+            sed 's/"//g' |
+            sort -u
+        )"
+        total_cities="$(
+            awk -F, "{print \$5\"-\"\$4}" "$nomads_csv" |
+            sed 's/"//g' |
+            sort -u
+        )"
+        num_total_countries="$(
+            sed '/^[[:space:]]*$/d' <<< "$total_countries" |
+            wc -l |
+            sed 's/[[:space:]]//g;'
+        )"
+        num_total_cities="$(
+            sed '/^[[:space:]]*$/d' <<< "$total_cities" |
+            wc -l |
+            sed 's/[[:space:]]//g;'
+        )"
+        sed -i "
+            s/\(Countries: \).*/\\1$num_total_countries/;
+            s/\(Cities: \).*/\\1$num_total_cities/;
+        " "$travel_md"
         for year in {2024..2099}; do
             countries="$(
                 awk -F, "/\"$year/{print \$5}" "$nomads_csv" |
@@ -80,32 +98,36 @@ if [[ "$USER" =~ hari|sekhon ]]; then
                 s/\(Countries in $year: \).*/\\1$num_countries/;
                 s/\(Cities in $year: \).*/\\1$num_cities/;
             " "$travel_md"
-            total_countries+="
+            countries_since_2024+="
 $countries"
-            total_cities+="
+            cities_since_2024+="
 $cities"
         done
-        num_total_countries="$(
-            sed '/^[[:space:]]*$/d' <<< "$total_countries" |
+        num_countries_since_2024="$(
+            sed '/^[[:space:]]*$/d' <<< "$countries_since_2024" |
             sort -u |
             wc -l |
             sed 's/[[:space:]]//g;'
         )"
-        num_total_cities="$(
-            sed '/^[[:space:]]*$/d' <<< "$total_cities" |
+        num_cities_since_2024="$(
+            sed '/^[[:space:]]*$/d' <<< "$cities_since_2024" |
             sort -u |
             wc -l |
             sed 's/[[:space:]]//g;'
         )"
         sed -i "
-            s/\(Unique Countries since Emigrating from the UK in 2024: \).*/\\1$num_total_countries/;
-            s/\(Unique Cities since Emigrating from the UK in 2024: \).*/\\1$num_total_cities/;
+            s/\(Unique Countries since Emigrating from the UK in 2024: \).*/\\1$num_countries_since_2024/;
+            s/\(Unique Cities since Emigrating from the UK in 2024: \).*/\\1$num_cities_since_2024/;
         " "$travel_md"
     fi
 fi
 
+countries="$(sed -n '/## Countries/,$p' travel.md | grep '^###[[:space:]]')"
+
+num_countries="$(wc -l <<< "$countries" | sed 's/[[:space:]]*//g')"
+
 timestamp "Parsing number of countries in $travel_md"
-num_countries_in_markdown="$(awk '/^Number of Countries:[[:space:]]*[[:digit:]]+$/ {print $4}' "$travel_md")"
+num_countries_in_markdown="$(awk '/^Countries:[[:space:]]*[[:digit:]]+$/ {print $2}' "$travel_md")"
 
 if ! is_int "$num_countries_in_markdown"; then
     die "FAILED to parse country count from $travel_md"
@@ -115,5 +137,5 @@ if [ "$num_countries_in_markdown" = "$num_countries" ]; then
     timestamp "Country count $num_countries is already up to date"
 else
     timestamp "Updating country count from $num_countries_in_markdown to $num_countries"
-    sed -i "s/^\(Number of Countries:\)[[:space:]]*[[:digit:]][[:digit:]]*[[:space:]]*$/\\1 $num_countries/" "$travel_md"
+    sed -i "s/^\(Countries:\)[[:space:]]*[[:digit:]][[:digit:]]*[[:space:]]*$/\\1 $num_countries/" "$travel_md"
 fi
