@@ -3363,6 +3363,9 @@ Locals tend to say "Visa" when they mean card payment, your Mastercard will work
   I've also had drivers be unreliable and then have to contest the cancellation charges when they don't arrive
 - [Jeeny](https://www.jeeny.me/en/) - expected a mobile number from one of the middle eastern countries, couldn't use it
 
+Unfortunately these aren't allowed to operate in Aqaba or Wadi Musa so there you'd have to haggle with the local taxi
+drivers.
+
 #### Beware Dating Apps Are Full of Scammers in Jordan
 
 Scammers litter the dating apps in Jordan.
