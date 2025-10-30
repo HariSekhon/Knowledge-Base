@@ -3352,6 +3352,9 @@ However, since historical attractions will set you back nearly the same amount a
 The difference between the 3 different Jordan Passes is whether you want to spend 1, 2 or 3 consecutive days visiting
 Petra.
 
+Carry your passport with you as ID may be requested upon entry to sites,
+especially at Petra if using the multi-day petra pass.
+
 #### Cash & "Visa" in Jordan
 
 Although many places do accept cards, quite a few don't so you will need to withdraw cash from an ATM otherwise you
@@ -3644,12 +3647,14 @@ in the room but works better in the lobby.
 
 -->
 
-The ancient archaelogical site of one of the 7 Wonders of the World -
+The ancient archaeological site of one of the 7 Wonders of the World -
 [The Treasury](https://share.google/a7U2bQY9ldd2p6V38)
 where they carved the building straight out of the mountain rock.
 
 Entry to Petra is around 50JD (€60) for a single day, so as per the section above, it's usually better to buy a Jordan
 Pass which can cover 1, 2 or 3 consecutive days for negligible increase in price of 5JD per extra day.
+
+**Carry your passport as ID may be requested, especially on the 2nd day if using a multi-day petra jordan pass.**
 
 ##### Travelling to Petra
 
@@ -3664,6 +3669,8 @@ Select Amman Daily Tours from the drop-down:
 Otherwise you'll need a rental car or a very expensive taxi ride. Most people use the Jett bus.
 
 ##### Petra Attractions
+
+**Carry your passport as ID may be requested, especially on the 2nd day if using a multi-day petra jordan pass.**
 
 You can do Petra in one day, but you'll be worn out, it's easier to do it over 2 days.
 
