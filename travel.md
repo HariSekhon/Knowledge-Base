@@ -3335,6 +3335,8 @@ Pristina
 I've used Saily and aloSim apps for e-sims in Jordan.
 The Airalo 3GB one is only 3 days, not 7 days like with the other providers, so watch out that one is too short.
 
+The plugs are UK (type "G") plugs, but take a travel adapter just in case there are a variety of plugs.
+
 #### Jordan Visa & Jordan Pass
 
 **Buy a Jordan Pass before you enter Jordan to avoid the visa entry fee**
@@ -3401,8 +3403,6 @@ The city is not great for walking, you can't even walk north from the Taj Mall b
 The roads are also surprisingly dirty (that black dust as opposed to litter) similar to parts of London.
 
 Overall, you don't need more than 2-3 nights in Amman.
-
-The plugs are UK ("Type G") plugs, but take a travel adapter just in case there are a variety of plugs.
 
 ##### Bus from Airport to Amman
 
