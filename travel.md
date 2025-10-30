@@ -3766,6 +3766,8 @@ At night you will see the sky full of stars due to the clear cloudless sky and l
 For food, you will be mostly relying on your guide camp to feed you and provide bottled water. Your jeep should have a
 cool box full of small water bottles.
 
+**Make sure you take trainers with good grips as climbing the bridge will be dangerous otherwise.**
+
 ##### Travel & Accommodation in Wadi Rum
 
 - Jett bus from Aqaba:
