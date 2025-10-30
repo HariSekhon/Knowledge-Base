@@ -46,6 +46,7 @@ if [[ "$USER" =~ hari|sekhon ]]; then
        type -P pycookiecheat &>/dev/null; then
         nomads_csv=~/Downloads/"$(date '+%F')-harisekhon-trips-on-nomad-list.csv"
         curl_with_cookies.sh https://nomads.com/@harisekhon.csv > "$nomads_csv"
+        # remove first header line
         csv="$(tail -n +2 "$nomads_csv")"
         total_countries="$(
             awk -F, "{print \$5}" <<< "$csv" |
