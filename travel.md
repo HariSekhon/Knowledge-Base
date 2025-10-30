@@ -3867,6 +3867,7 @@ Attractions:
 - [Al-Ghandour Beach](https://maps.app.goo.gl/57LYms5XXEVsvAdd6)
   - [Aqaba Cornishe](https://maps.app.goo.gl/r17BRpi2YWaHr6vT9) - park by the beach
 - [Aqaba Fort](https://maps.app.goo.gl/USVSfkd8enTxuTmF9)
+- [Sharif Hussein bin Ali Mosque](https://maps.app.goo.gl/5MFtv7R2MDSXwBJVA)
 - [Arab Revolt Plaza](https://maps.app.goo.gl/rKkUtxNUwBKRCS6Q7)
 - [Fish market](https://maps.app.goo.gl/Vz5rQKMXk3VRuCmm9) - at sunset when fishermen are returning with their hauls
   there are gangs of cats waiting for small fish scraps, the little moochers 🥰
