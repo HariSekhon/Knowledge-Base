@@ -9,10 +9,10 @@
 [![Countries in 2025](https://img.shields.io/badge/in%202025-28-blue)](https://nomads.com/@harisekhon)
 [![Unique Countries 2024+](https://img.shields.io/badge/Unique%20Countries%202024+-39-blue)](https://nomads.com/@harisekhon)
 
-[![Total Cities](https://img.shields.io/badge/Total%20Cities-157-blue)](https://nomads.com/@harisekhon)
+[![Total Cities](https://img.shields.io/badge/Total%20Cities-162-blue)](https://nomads.com/@harisekhon)
 [![Cities in 2024](https://img.shields.io/badge/in%202024-68-blue)](https://nomads.com/@harisekhon)
-[![Cities in 2025](https://img.shields.io/badge/in%202025-74-blue)](https://nomads.com/@harisekhon)
-[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-136-blue)](https://nomads.com/@harisekhon)
+[![Cities in 2025](https://img.shields.io/badge/in%202025-75-blue)](https://nomads.com/@harisekhon)
+[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-137-blue)](https://nomads.com/@harisekhon)
 
 Short links to this page:
 
@@ -1093,7 +1093,7 @@ get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return 
 
 Countries: 48
 
-Cities: 157
+Cities: 162
 
 - Countries in 2024: 19
   - Cities in 2024: 68
@@ -1103,12 +1103,12 @@ Cities: 157
     [Tour of England and Wales](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b)
     (the latter was borderline a different country, there are actually Welsh signs I can't read)
 - Countries in 2025: 28
-  - Cities in 2025: 74
+  - Cities in 2025: 75
   - Vietnam (continued), Cambodia, Laos, Bali (Indonesia), Malayasia, Singapore, Taiwan, Serbia, Bulgaria, Romania,
     Hungary, Slovakia, Austria, Czechia, Poland, Germany, Slovenia, Croatia, Montenegro, Albania, North Macedonia, Bosnia and
     Herzegovina, Ukraine, Moldova, Tunisia, Jordan, Lebanon
 - Unique Countries since Emigrating from the UK in 2024: 39
-  - Unique Cities since Emigrating from the UK in 2024: 136
+  - Unique Cities since Emigrating from the UK in 2024: 137
 
 Below are specific tips for each country, especially my favourite restaurants.
 
