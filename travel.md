@@ -3849,6 +3849,9 @@ Aqaba isn't big so you can explore it in one day, then spend one day snorkelling
   cookies and croissants filled with banana or strawberry and chocolate.
   Wifi 75/94 Mbit/s
 - [Firefly Burger](https://maps.app.goo.gl/5XRz6wZXLqzrxxyQA) - same chain as the one described in the Amman section
+
+Attractions:
+
 - [Al-Ghandour Beach](https://maps.app.goo.gl/57LYms5XXEVsvAdd6)
   - [Aqaba Cornishe](https://maps.app.goo.gl/r17BRpi2YWaHr6vT9) - park by the beach
 - [Aqaba Fort](https://maps.app.goo.gl/USVSfkd8enTxuTmF9)
