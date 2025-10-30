@@ -39,6 +39,7 @@ build: init
 	@$(MAKE) git-summary
 	@echo
 	@#$(MAKE) generate-index
+	@$(MAKE) countries
 	@$(MAKE) index
 	@$(MAKE) references
 	@$(MAKE) mdl
