@@ -3672,6 +3672,8 @@ Otherwise you'll need a rental car or a very expensive taxi ride. Most people us
 
 **Carry your passport as ID may be requested, especially on the 2nd day if using a multi-day petra jordan pass.**
 
+**Take at least 1L of water per person and a lunch box**
+
 You can do Petra in one day, but you'll be worn out, it's easier to do it over 2 days.
 
 You may want to go very early in the morning before the midday sun, Petra opens at 6:30am.
