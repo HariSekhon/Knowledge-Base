@@ -46,13 +46,14 @@ if [[ "$USER" =~ hari|sekhon ]]; then
        type -P pycookiecheat &>/dev/null; then
         nomads_csv=~/Downloads/"$(date '+%F')-harisekhon-trips-on-nomad-list.csv"
         curl_with_cookies.sh https://nomads.com/@harisekhon.csv > "$nomads_csv"
+        csv="$(tail -n +2 "$nomads_csv")"
         total_countries="$(
-            awk -F, "{print \$5}" "$nomads_csv" |
+            awk -F, "{print \$5}" <<< "$csv" |
             sed 's/"//g' |
             sort -u
         )"
         total_cities="$(
-            awk -F, "{print \$5\"-\"\$4}" "$nomads_csv" |
+            awk -F, "{print \$5\"-\"\$4}" <<< "$csv" |
             sed 's/"//g' |
             sort -u
         )"
@@ -74,12 +75,12 @@ if [[ "$USER" =~ hari|sekhon ]]; then
         " "$travel_md"
         for year in {2024..2099}; do
             countries="$(
-                awk -F, "/\"$year/{print \$5}" "$nomads_csv" |
+                awk -F, "/\"$year/{print \$5}" <<< "$csv" |
                 sed 's/"//g' |
                 sort -u
             )"
             cities="$(
-                awk -F, "/\"$year/{print \$5\"-\"\$4}" "$nomads_csv" |
+                awk -F, "/\"$year/{print \$5\"-\"\$4}" <<< "$csv" |
                 sed 's/"//g' |
                 sort -u
             )"
