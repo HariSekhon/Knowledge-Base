@@ -11,6 +11,7 @@
   - [Git Review Push](#git-review-push)
 - [GitHub SSH Key SSO Authorization](#github-ssh-key-sso-authorization)
 - [Git HTTPS Authentication](#git-https-authentication)
+  - [Revoke Cached Credential Helper](#revoke-cached-credential-helper)
 - [CLIs](#clis)
 - [GitHub Badges](#github-badges)
 - [Basic Tips](#basic-tips)
@@ -142,6 +143,15 @@ Create your GitHub Personal Access Token (PAT) here:
 Or you can install
 [Git Credentials Manager](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git#git-credential-manager)
 which will prompt for your credentials and cache them the first time you `git pull` over HTTPS.
+
+### Revoke Cached Credential Helper
+
+Clear the cached credential for cases where the upstream replaces the valid token method
+(eg. Bitbucket discontinued app passwords for API tokens), causing you 403 errors:
+
+```shell
+printf "protocol=https\nhost=bitbucket.org\n" | git credential reject
+```
 
 ## CLIs
 
