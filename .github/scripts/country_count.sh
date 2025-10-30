@@ -143,5 +143,8 @@ if [ "$num_countries_in_markdown" = "$num_countries" ]; then
     timestamp "Country count $num_countries is already up to date"
 else
     timestamp "Updating country count from $num_countries_in_markdown to $num_countries"
-    sed -i "s/^\(Countries:\)[[:space:]]*[[:digit:]][[:digit:]]*[[:space:]]*$/\\1 $num_countries/" "$travel_md"
+    sed -i "
+        s/^\(Countries:\)[[:space:]]*[[:digit:]][[:digit:]]*[[:space:]]*$/\\1 $num_countries/;
+        s|\(Total%20Countries-\)[[:digit:]]*|\\1$num_countries|;
+    " "$travel_md"
 fi
