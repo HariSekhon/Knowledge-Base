@@ -3853,11 +3853,17 @@ City on the Red Sea, known for snorkelling and scuba diving.
 Aqaba isn't big so you can explore it in one day, then spend one day snorkelling and another day scuba diving - a
 3-4 night stay isn't enough, plus whatever rest days you want around travelling.
 
+You can get to Aqaba either via plane since it has an airport, or just a Jett bus:
+
+https://www.jett.com.jo/
+
 <!--
 
 The Extra Traveller hostel was nice, good facility and the owner is super friendly and accommodating.
 
 -->
+
+Restaurants:
 
 - [Bakar & Sweets World Al janob](https://maps.app.goo.gl/onfk16d9E49Cn3m1A) - the best local bakery of breads and
   treats, shown to me by a local, open 24 hours a day!
