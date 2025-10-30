@@ -4005,6 +4005,15 @@ You will run out of things to do.
 - [Dzintari Forest Park](https://maps.app.goo.gl/xLusynMkirWyvyUm7) - managed forest with a high tower for view
 - [Dzintari Beach](https://maps.app.goo.gl/h8uuFn2PGAtiSzmd8) - surprisingly nice beach in the summer
 
+### Lebanon
+
+#### Beirut
+
+##### Taxis in Beirut
+
+- [Bolt](https://bolt.eu/en/)
+- [Uber](https://www.uber.com/)
+
 ### Lithuania
 
 Lithuania is noticeably poorer than Poland.
