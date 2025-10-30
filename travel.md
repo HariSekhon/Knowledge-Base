@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/stargazers)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/commits/main)
 
-[![Total Countries](https://img.shields.io/badge/Total%20Countries-47-blue)](https://nomads.com/@harisekhon)
+[![Total Countries](https://img.shields.io/badge/Total%20Countries-48-blue)](https://nomads.com/@harisekhon)
 [![Countries in 2024](https://img.shields.io/badge/in%202024-19-blue)](https://nomads.com/@harisekhon)
 [![Countries in 2025](https://img.shields.io/badge/in%202025-28-blue)](https://nomads.com/@harisekhon)
 [![Unique Countries 2024+](https://img.shields.io/badge/Unique%20Countries%202024+-39-blue)](https://nomads.com/@harisekhon)
