@@ -3837,6 +3837,10 @@ City on the Red Sea, known for snorkelling and scuba diving.
   out, rather than ate.
   Go with the classic burger instead of the special if you're even remotely health conscious.
   No wifi unfortunately (it's only for the pay register)
+- [Sayd Al-Bahr – Seafood Food Truck](https://maps.app.goo.gl/pAWxBeXxV9unGT6E8) - affordable seafood street food with
+  benches.
+  I didn't rate the Mexican seafood as that good though.
+  The fried seafood sandwich was better
 - [Lacosta Bakery & Cafe](https://maps.app.goo.gl/vsiJcdi78Nmcob6B8) - upmarket expensive coffee shop with treats like
   cookies and croissants filled with banana or strawberry and chocolate.
   Wifi 75/94 Mbit/s
