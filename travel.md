@@ -3848,6 +3848,10 @@ City on the Red Sea, known for snorkelling and scuba diving.
 - [Firefly Burger](https://maps.app.goo.gl/5XRz6wZXLqzrxxyQA) - same chain as the one described in the Amman section
 - [Al-Ghandour Beach](https://maps.app.goo.gl/57LYms5XXEVsvAdd6)
   - [Aqaba Cornishe](https://maps.app.goo.gl/r17BRpi2YWaHr6vT9) - park by the beach
+- [Aqaba Fort](https://maps.app.goo.gl/USVSfkd8enTxuTmF9)
+- [Arab Revolt Plaza](https://maps.app.goo.gl/rKkUtxNUwBKRCS6Q7)
+- [Fish market](https://maps.app.goo.gl/Vz5rQKMXk3VRuCmm9) - at sunset when fishermen are returning with their hauls
+  there are gangs of cats waiting for small fish scraps, the little moochers 🥰
 
 Not recommended:
 
