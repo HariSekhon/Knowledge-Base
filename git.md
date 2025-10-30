@@ -153,7 +153,7 @@ existing token method(eg. Bitbucket discontinued app passwords for API tokens), 
 printf "protocol=https\nhost=bitbucket.org\n" | git credential reject
 ```
 
-or edit or remove:
+or edit or remove `~/.git-credentials`:
 
 ```shell
 "$EDITOR" ~/.git-credentials
