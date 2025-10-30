@@ -1091,16 +1091,19 @@ Number of Countries: 48
 Number of Towns / Cities: 100
 
 - Countries in 2024: 18
+  - Cities in 2024: 30
   - UAE, France, Belgium, Germany, Poland, Lithuania, Latvia, Estonia, Sweden, Slovakia, Hungary, Serbia, Morocco,
     Moldova, Turkey, Georgia, Thailand, Vietnam
   - not counting my extensive month long
     [Tour of England and Wales](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b)
     (the latter was borderline a different country, there are actually Welsh signs I can't read)
 - Countries in 2025: 27
+  - Cities in 2025: 40
   - Vietnam (continued), Cambodia, Laos, Bali (Indonesia), Malayasia, Singapore, Taiwan, Serbia, Bulgaria, Romania,
     Hungary, Slovakia, Austria, Czechia, Poland, Germany, Slovenia, Croatia, Montenegro, Albania, North Macedonia, Bosnia and
     Herzegovina, Ukraine, Moldova, Tunisia, Jordan, Lebanon
 - Unique Countries since Emigrating from the UK in 2024: 38
+  - Unique Cities since Emigrating from the UK in 2024: 38
 
 Below are specific tips for each country, especially my favourite restaurants.
 
