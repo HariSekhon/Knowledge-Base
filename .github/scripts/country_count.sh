@@ -45,20 +45,6 @@ if ! [ -f "$travel_md" ]; then
     die "FAILED to find file: $travel_md"
 fi
 
-timestamp "Parsing number of countries in $travel_md"
-num_countries_in_markdown="$(awk '/^Number of Countries:[[:space:]]*[[:digit:]]+$/ {print $4}' "$travel_md")"
-
-if ! is_int "$num_countries_in_markdown"; then
-    die "FAILED to parse country count from $travel_md"
-fi
-
-if [ "$num_countries_in_markdown" = "$num_countries" ]; then
-    timestamp "Country count $num_countries is already up to date"
-else
-    timestamp "Updating country count from $num_countries_in_markdown to $num_countries"
-    sed -i "s/^\(Number of Countries:\)[[:space:]]*[[:digit:]][[:digit:]]*[[:space:]]*$/\\1 $num_countries/" "$travel_md"
-fi
-
 if [[ "$USER" =~ hari|sekhon ]]; then
     if type -P curl_with_cookies.sh &>/dev/null &&
        type -P pycookiecheat &>/dev/null; then
@@ -116,4 +102,18 @@ $cities"
             s/\(Unique Cities since Emigrating from the UK in 2024: \).*/\\1$num_total_cities/;
         " "$travel_md"
     fi
+fi
+
+timestamp "Parsing number of countries in $travel_md"
+num_countries_in_markdown="$(awk '/^Number of Countries:[[:space:]]*[[:digit:]]+$/ {print $4}' "$travel_md")"
+
+if ! is_int "$num_countries_in_markdown"; then
+    die "FAILED to parse country count from $travel_md"
+fi
+
+if [ "$num_countries_in_markdown" = "$num_countries" ]; then
+    timestamp "Country count $num_countries is already up to date"
+else
+    timestamp "Updating country count from $num_countries_in_markdown to $num_countries"
+    sed -i "s/^\(Number of Countries:\)[[:space:]]*[[:digit:]][[:digit:]]*[[:space:]]*$/\\1 $num_countries/" "$travel_md"
 fi
