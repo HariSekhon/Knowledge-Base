@@ -1093,7 +1093,7 @@ Number of Countries: 48
   - Vietnam (continued), Cambodia, Laos, Bali (Indonesia), Malayasia, Singapore, Taiwan, Serbia, Bulgaria, Romania,
     Hungary, Slovakia, Austria, Czechia, Poland, Germany, Slovenia, Croatia, Montenegro, Albania, North Macedonia, Bosnia and
     Herzegovina, Ukraine, Moldova, Tunisia, Jordan, Lebanon
-- Unique Countries since Emigrating from the UK in 2024: 37
+- Unique Countries since Emigrating from the UK in 2024: 38
 
 Below are specific tips for each country, especially my favourite restaurants.
 
