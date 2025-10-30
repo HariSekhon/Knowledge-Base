@@ -44,25 +44,30 @@ fi
 if [[ "$USER" =~ hari|sekhon ]]; then
     if type -P curl_with_cookies.sh &>/dev/null &&
        type -P pycookiecheat &>/dev/null; then
+        timestamp "Downloading Nomads CSV"
         nomads_csv=~/Downloads/"$(date '+%F')-harisekhon-trips-on-nomad-list.csv"
         curl_with_cookies.sh https://nomads.com/@harisekhon.csv > "$nomads_csv"
-        # remove first header line
+        echo "Stripping first line header"
         csv="$(tail -n +2 "$nomads_csv")"
+        timestamp "Parsing Countries from CSV"
         total_countries="$(
             awk -F, "{print \$5}" <<< "$csv" |
             sed 's/"//g' |
             sort -u
         )"
+        timestamp "Parsing Cities from CSV"
         total_cities="$(
             awk -F, "{print \$5\"-\"\$4}" <<< "$csv" |
             sed 's/"//g' |
             sort -u
         )"
+        timestamp "Counting Countries"
         num_total_countries="$(
             sed '/^[[:space:]]*$/d' <<< "$total_countries" |
             wc -l |
             sed 's/[[:space:]]//g;'
         )"
+        timestamp "Counting Cities"
         num_total_cities="$(
             sed '/^[[:space:]]*$/d' <<< "$total_cities" |
             wc -l |
@@ -75,21 +80,25 @@ if [[ "$USER" =~ hari|sekhon ]]; then
             s|\(Total%20Cities-\)[[:digit:]]*|\\1$num_total_cities|;
         " "$travel_md"
         for year in {2024..2099}; do
+            timestamp "Parsing Countries for year: $year"
             countries="$(
                 awk -F, "/\"$year/{print \$5}" <<< "$csv" |
                 sed 's/"//g' |
                 sort -u
             )"
+            timestamp "Parsing Cities for year: $year"
             cities="$(
                 awk -F, "/\"$year/{print \$5\"-\"\$4}" <<< "$csv" |
                 sed 's/"//g' |
                 sort -u
             )"
+            timestamp "Counting Countries for year: $year"
             num_countries="$(
                 sed '/^[[:space:]]*$/d' <<< "$countries" |
                 wc -l |
                 sed 's/[[:space:]]//g;'
             )"
+            timestamp "Counting Cities for year: $year"
             num_cities="$(
                 sed '/^[[:space:]]*$/d' <<< "$cities" |
                 wc -l |
@@ -98,6 +107,7 @@ if [[ "$USER" =~ hari|sekhon ]]; then
             if [ "$num_countries" = 0 ]; then
                 break
             fi
+            timestamp "Updating $travel_md"
             sed -i "
                 s/\(Countries in $year: \).*/\\1$num_countries/;
                 s/\(Cities in $year: \).*/\\1$num_cities/;
@@ -109,18 +119,21 @@ $countries"
             cities_since_2024+="
 $cities"
         done
+        timestamp "Counting Countries since 2024"
         num_countries_since_2024="$(
             sed '/^[[:space:]]*$/d' <<< "$countries_since_2024" |
             sort -u |
             wc -l |
             sed 's/[[:space:]]//g;'
         )"
+        timestamp "Counting Cities since 2024"
         num_cities_since_2024="$(
             sed '/^[[:space:]]*$/d' <<< "$cities_since_2024" |
             sort -u |
             wc -l |
             sed 's/[[:space:]]//g;'
         )"
+        timestamp "Updating $travel_md"
         sed -i "
             s/\(Unique Countries since Emigrating from the UK in 2024: \).*/\\1$num_countries_since_2024/;
             s/\(Unique Cities since Emigrating from the UK in 2024: \).*/\\1$num_cities_since_2024/;
@@ -130,11 +143,14 @@ $cities"
     fi
 fi
 
-countries="$(sed -n '/## Countries/,$p' travel.md | grep '^###[[:space:]]')"
+timestamp "Parsing Countries from $travel_md"
+countries="$(sed -n '/## Countries/,$p' "$travel_md" | grep '^###[[:space:]]')"
 
+timestamp "Counting Countries from $travel_md"
+countries="$(sed -n '/## Countries/,$p' "$travel_md" | grep '^###[[:space:]]')"
 num_countries="$(wc -l <<< "$countries" | sed 's/[[:space:]]*//g')"
 
-timestamp "Parsing number of countries in $travel_md"
+timestamp "Parsing country counter in $travel_md"
 num_countries_in_markdown="$(awk '/^Countries:[[:space:]]*[[:digit:]]+$/ {print $2}' "$travel_md")"
 
 if ! is_int "$num_countries_in_markdown"; then
