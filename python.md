@@ -201,6 +201,8 @@ You can see most of these used throughout my GitHub repos, eg:
 - `requests` - easy HTTP request library
 - `beautifulsoup4` - HTML parsing library
 - [Scrapy](https://scrapy.org/) - web scraping
+- [pycookiecheat](https://github.com/n8henrie/pycookiecheat) - use or extract cookies from your browser's cookie jar to
+  query websites directly or using curl
 - `selenium` - Selenium web testing framework
 
 ### Databases
