@@ -3841,10 +3841,13 @@ City on the Red Sea, known for snorkelling and scuba diving.
   benches.
   I didn't rate the Mexican seafood as that good though.
   The fried seafood sandwich was better
+- [Juice Corner by Lacosta](https://maps.app.goo.gl/qNX7yFnXcZRbkdN66)
 - [Lacosta Bakery & Cafe](https://maps.app.goo.gl/vsiJcdi78Nmcob6B8) - upmarket expensive coffee shop with treats like
   cookies and croissants filled with banana or strawberry and chocolate.
   Wifi 75/94 Mbit/s
 - [Firefly Burger](https://maps.app.goo.gl/5XRz6wZXLqzrxxyQA) - same chain as the one described in the Amman section
+- [Al-Ghandour Beach](https://maps.app.goo.gl/57LYms5XXEVsvAdd6)
+  - [Aqaba Cornishe](https://maps.app.goo.gl/r17BRpi2YWaHr6vT9) - park by the beach
 
 Not recommended:
 
