@@ -153,6 +153,12 @@ Clear the cached credential for cases where the upstream replaces the valid toke
 printf "protocol=https\nhost=bitbucket.org\n" | git credential reject
 ```
 
+or edit or remove:
+
+```shell
+"$EDITOR" ~/.git-credentials
+```
+
 ## CLIs
 
 Standard Git CLI is already provided by XCode on Mac but you can also install it from Homebrew to get a different version:
