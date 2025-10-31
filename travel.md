@@ -3882,9 +3882,6 @@ Restaurants:
   followed by the vanilla, but next time I'd go with the strawberry instead of the mango sorbet.
   I'm going to try to have this banana split again.
   Wifi 382/177 Mbit/s
-- [Route65](https://maps.app.goo.gl/SiY6xpgv3gSk6qNU8) - popular gentrified burger restaurant, they quoted a long 25
-  minute wait for the burger and fries, but it was only 12 minutes.
-  Wifi 118/82 Mbit/s
 - [Flame](https://maps.app.goo.gl/zP1pSkaUTHQ5cmPv9) - good fast food burger restaurant.
   The smokey burger double was surprisingly good, and came with a lot of skinny fries and a soft drink
   for 6.25 JD (I asked for water instead).
@@ -3892,6 +3889,11 @@ Restaurants:
   out, rather than ate.
   Go with the classic burger instead of the special if you're even remotely health conscious.
   No wifi unfortunately (it's only for the pay register)
+- [Route65](https://maps.app.goo.gl/SiY6xpgv3gSk6qNU8) - popular gentrified burger restaurant, they quoted a long 25
+  minute wait for the burger and fries, but it was only 12 minutes.
+  The 65 burger was pretty basic, with a slice of pastrami, but not enough salad, fairly average fast food style burger.
+  The curly fries were decent, crispy, but are an additional surcharge on the meal price.
+  Wifi 118/82 Mbit/s
 - [Sayd Al-Bahr – Seafood Food Truck](https://maps.app.goo.gl/pAWxBeXxV9unGT6E8) - affordable seafood street food with
   benches.
   I didn't rate the Mexican seafood as that good though.
