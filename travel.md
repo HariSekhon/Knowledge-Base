@@ -3896,6 +3896,11 @@ Restaurants:
   benches.
   I didn't rate the Mexican seafood as that good though.
   The fried seafood sandwich was better
+- [Watermelon Juice Corner](https://maps.app.goo.gl/Ug9Gddk5KKbehxoF7) - excellent menu of fresh juices, juice mixes,
+  but several of the mix drinks are not intuitive, with some being just three letter acronyms.
+  The LPG (lemon, pineapple, ginger) was much too heavily weighted to lemon, don't get that one again.
+  The "cocktails" are non-alcoholic but with vanilla ice cream scoop!
+  Has wifi
 - [Juice Corner by Lacosta](https://maps.app.goo.gl/qNX7yFnXcZRbkdN66) - high quality fresh squeezed juice bar with a
   great menu, reasonable prices and good selection of juices and fresh pure juice mixes as well.
   A plain orange juice is 2 JD + taxes, so a little cheaper than the neighbouring restaurants which are typically 3 JD.
@@ -3919,6 +3924,12 @@ Attractions:
 - [Arab Revolt Plaza](https://maps.app.goo.gl/rKkUtxNUwBKRCS6Q7)
 - [Fish market](https://maps.app.goo.gl/Vz5rQKMXk3VRuCmm9) - at sunset when fishermen are returning with their hauls
   there are gangs of cats waiting for small fish scraps, the little moochers 🥰
+
+TODO:
+
+- [Dar Al Khatyar Restaurant](https://maps.app.goo.gl/HvcJFEN1DUcyVbS86) - 4.9
+- [Baba Za'atar](https://maps.app.goo.gl/bf4UcgRYFTZa82rXA) - 4.5, local food serving manakesh (levantine bread with
+  toppings) and pizza
 
 Not recommended:
 
