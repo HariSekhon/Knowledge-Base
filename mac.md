@@ -1535,7 +1535,9 @@ See the instructions on the [audio](audio.md#shazam-songs-while-using-headphones
 
 [:octocat: Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)
 
-This is allows you to script event handler actions using Lua.
+Hammerspoon is a system event handler for Mac.
+
+The code is written in Lua.
 
 ```shell
 brew install hammerspoon --cask
@@ -1543,10 +1545,12 @@ brew install hammerspoon --cask
 
 Then create a `~/.hammerspoon/init.lua` to register your event handlers.
 
-See
-[:octocat: HariSekhon/DevOps-Bash-tools - configs/.hammerspoon/init.lua](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.hammerspoon/init.lua)
-for my use case mentioned in this knowledge base's Audio page section
-[Automatically Switch to Using Multi-Output Device when Connecting Headphones](audio.md#automatically-switch-to-using-multi-output-device-when-connecting-headphones).
+Mine is found at
+[:octocat: HariSekhon/DevOps-Bash-tools - configs/.hammerspoon/init.lua](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.hammerspoon/init.lua).
+
+As documented on the Audio page section
+[Automatically Switch to Using Multi-Output Device when Connecting Headphones](audio.md#automatically-switch-to-using-multi-output-device-when-connecting-headphones),
+I use this to be able to Shazam songs from movies or TV shows while watching them on AirPods.
 
 ```shell
 mkdir ~/.hammerspoon
