@@ -3882,6 +3882,9 @@ Restaurants:
   followed by the vanilla, but next time I'd go with the strawberry instead of the mango sorbet.
   I'm going to try to have this banana split again.
   Wifi 382/177 Mbit/s
+- [Route65](https://maps.app.goo.gl/SiY6xpgv3gSk6qNU8) - popular gentrified burger restaurant, long 25 minutes wait for
+  the burger and fries though.
+  Wifi 118/82 Mbit/s
 - [Flame](https://maps.app.goo.gl/zP1pSkaUTHQ5cmPv9) - good fast food burger restaurant.
   The smokey burger double was surprisingly good, and came with a lot of skinny fries and a soft drink
   for 6.25 JD (I asked for water instead).
