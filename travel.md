@@ -3938,6 +3938,7 @@ TODO:
   - [Khubza & Seneya](Khubza & Seneya) - 4.8
   - [Marouf Cafe - Al Aqaba (Movienpick)](https://maps.app.goo.gl/pzuG2axNdaB2wkw88) - 4.5
 - [Comma Coffee Aqaba](https://maps.app.goo.gl/etDby6AxTYKjE6HMA) - 4.9
+- [Kava coffee & more](https://maps.app.goo.gl/jMxaye9KrQw9gT4E7) - 4.8
 - [Lablue Cafe](https://maps.app.goo.gl/3xL9wt2kwmeUidjF7) - 4.8
 - [Baba Za'atar](https://maps.app.goo.gl/bf4UcgRYFTZa82rXA) - 4.5, local food serving manakesh (levantine bread with
   toppings) and pizza
