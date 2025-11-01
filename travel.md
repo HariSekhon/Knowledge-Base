@@ -3941,7 +3941,8 @@ Attractions:
 TODO:
 
 - [Captains restaurant](https://maps.app.goo.gl/HPawt9UGciw9SkbH9) - 4.5 steak and seafood, relatively pricey
-- [Fokhara Restaurant By Lacosta](https://maps.app.goo.gl/sobGTBtebN4hnLKYA) - 4.9, good menu and prices
+- [Fokhara Restaurant By Lacosta](https://maps.app.goo.gl/sobGTBtebN4hnLKYA) - 4.9, good menu of arabic food and
+  reasonable prices
 - [Dar Al Khatyar Restaurant](https://maps.app.goo.gl/HvcJFEN1DUcyVbS86) - 4.9
 - [Alzephere Restaurant](https://maps.app.goo.gl/VLdBa2NxTLPH8d1v5) - 4.8 seafood restaurant
 - [MILK'N](https://maps.app.goo.gl/WKsBzLwDZX96ebWL7) - 4.7 ice cream and fresh juices
