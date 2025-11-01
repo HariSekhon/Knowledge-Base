@@ -3930,6 +3930,7 @@ Attractions:
 
 TODO:
 
+- [Fokhara Restaurant By Lacosta](https://maps.app.goo.gl/sobGTBtebN4hnLKYA) - 4.9, good menu and prices
 - [Dar Al Khatyar Restaurant](https://maps.app.goo.gl/HvcJFEN1DUcyVbS86) - 4.9
 - [Buzz St](https://maps.app.goo.gl/uQ6PTLa3k5B8friB9):
   - [Maria Speciality Coffee House](https://maps.app.goo.gl/cGvsXNndmoDv4iBw8) - 5.0
