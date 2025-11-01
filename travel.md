@@ -3899,7 +3899,8 @@ Restaurants:
   I didn't rate the Mexican seafood as that good though.
   The fried seafood sandwich was better
 - [Buzz St](https://maps.app.goo.gl/AosyXZmNTD43kZDRA) - several highly rated gentrified coffee shops
-  - [Khubza & Seneya](https://maps.app.goo.gl/3RHnqGAe6bjedf8S6) - highly rated arabic food and good prices.
+  - [Khubza & Seneya](https://maps.app.goo.gl/3RHnqGAe6bjedf8S6) - highly rated arabic food and good prices -
+    probably the most hihgly rated place in Aqaba in terms of number of reviews while maintaining such a high score.
     The cucumber yoghurt "salad" was basically Greek tzatziki with the right about of garlic, one of the best I've had
     in recent times.
     The mutabal eggplant-based dip was very good and lavished with pomegranate and a dark drizzle sauce.
