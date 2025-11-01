@@ -3906,7 +3906,12 @@ Restaurants:
     I told them the next day they need to put more pineapple for sweetness instead of lemon which made it too sour.
     The "cocktails" are non-alcoholic but with vanilla ice cream scoop!
     Has wifi
-  - [Khubza & Seneya](https://maps.app.goo.gl/3RHnqGAe6bjedf8S6) - 4.8
+  - [Khubza & Seneya](https://maps.app.goo.gl/3RHnqGAe6bjedf8S6) - highly rated arabic food and good prices.
+    The cucumber yoghurt "salad" was basically Greek tzatziki with the right about of garlic, one of the best I've had
+    in recent times.
+    The muttabal eggplant-based dip was very good and lavished with pomegranate.
+    The mixed grill was good as expected, and tomato skillet with ground beef was decent too.
+    The fattoush was possibly a bit too strong, depending on your mood
 - [Juice Corner by Lacosta](https://maps.app.goo.gl/qNX7yFnXcZRbkdN66) - high quality fresh squeezed juice bar with a
   great menu, reasonable prices and good selection of juices and fresh pure juice mixes as well.
   A plain orange juice is 2 JD + taxes, so a little cheaper than the neighbouring restaurants which are typically 3 JD.
