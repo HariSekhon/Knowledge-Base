@@ -3939,6 +3939,7 @@ TODO:
 - [Lablue Cafe](https://maps.app.goo.gl/3xL9wt2kwmeUidjF7) - 4.8
 - [Baba Za'atar](https://maps.app.goo.gl/bf4UcgRYFTZa82rXA) - 4.5, local food serving manakesh (levantine bread with
   toppings) and pizza
+- [Julia’s Restaurant](https://maps.app.goo.gl/W3gSARsBuf429gyU6) - 4.5 Italian, if you need a break from Jordanian food
 - [Waffle & Crepe](https://maps.app.goo.gl/SGA8Sx3bgbKGMDFd6) - 4.3
 
 Not recommended:
