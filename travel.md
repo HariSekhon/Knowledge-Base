@@ -3871,6 +3871,22 @@ Restaurants:
   and there is a 3 level conveyor belt of round pitas coming down, as well as selection of baklava and similar treats
   ready to pick up.
   I love the yellow "cake" bread
+- [Buzz St](https://maps.app.goo.gl/AosyXZmNTD43kZDRA) - several highly rated gentrified coffee shops
+  - [Khubza & Seneya](https://maps.app.goo.gl/3RHnqGAe6bjedf8S6) - highly rated arabic food and good prices -
+    probably the most hihgly rated place in Aqaba in terms of number of reviews while maintaining such a high score.
+    The cucumber yoghurt "salad" was basically Greek tzatziki with the right about of garlic, one of the best I've had
+    in recent times.
+    The mutabal eggplant-based dip was very good and lavished with pomegranate and a dark drizzle sauce.
+    The mixed grill was good as expected, and tomato skillet with ground beef was decent too.
+    The fattoush was possibly a bit too strong, depending on your mood.
+    They also have fresh orange and mango juices at very reasonable prices compared to neighbouring restaurants
+  - [Watermelon Juice Corner](https://maps.app.goo.gl/Ug9Gddk5KKbehxoF7) - excellent menu of fresh juices, juice mixes,
+    but several of the mix drinks are not intuitive, with some being just three letter acronyms.
+    The pineapple-coconut juice was good.
+    The LPG (lemon, pineapple, ginger) was much too heavily weighted to lemon, don't get that one again.
+    I told them the next day they need to put more pineapple for sweetness instead of lemon which made it too sour.
+    The "cocktails" are non-alcoholic but with vanilla ice cream scoop!
+    Has wifi
 - [Aurjwan Cafe & Restaurant](for 6.25 JD) - good menu and moderate prices,
   in a well air conditioned cafe lounge with indoor and outdoor seating, 5 big screen TVs on 3 of the walls playing
   football.
@@ -3889,22 +3905,6 @@ Restaurants:
   out, rather than ate.
   Go with the classic burger instead of the special if you're even remotely health conscious.
   No wifi unfortunately (it's only for the pay register)
-- [Buzz St](https://maps.app.goo.gl/AosyXZmNTD43kZDRA) - several highly rated gentrified coffee shops
-  - [Khubza & Seneya](https://maps.app.goo.gl/3RHnqGAe6bjedf8S6) - highly rated arabic food and good prices -
-    probably the most hihgly rated place in Aqaba in terms of number of reviews while maintaining such a high score.
-    The cucumber yoghurt "salad" was basically Greek tzatziki with the right about of garlic, one of the best I've had
-    in recent times.
-    The mutabal eggplant-based dip was very good and lavished with pomegranate and a dark drizzle sauce.
-    The mixed grill was good as expected, and tomato skillet with ground beef was decent too.
-    The fattoush was possibly a bit too strong, depending on your mood.
-    They also have fresh orange and mango juices at very reasonable prices compared to neighbouring restaurants
-  - [Watermelon Juice Corner](https://maps.app.goo.gl/Ug9Gddk5KKbehxoF7) - excellent menu of fresh juices, juice mixes,
-    but several of the mix drinks are not intuitive, with some being just three letter acronyms.
-    The pineapple-coconut juice was good.
-    The LPG (lemon, pineapple, ginger) was much too heavily weighted to lemon, don't get that one again.
-    I told them the next day they need to put more pineapple for sweetness instead of lemon which made it too sour.
-    The "cocktails" are non-alcoholic but with vanilla ice cream scoop!
-    Has wifi
 - [Juice Corner by Lacosta](https://maps.app.goo.gl/qNX7yFnXcZRbkdN66) - high quality fresh squeezed juice bar with a
   great menu, reasonable prices and good selection of juices and fresh pure juice mixes as well.
   A plain orange juice is 2 JD + taxes, so a little cheaper than the neighbouring restaurants which are typically 3 JD.
