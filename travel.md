@@ -3912,6 +3912,7 @@ Restaurants:
 - [Lacosta Bakery & Cafe](https://maps.app.goo.gl/vsiJcdi78Nmcob6B8) - upmarket expensive coffee shop with treats like
   cookies and croissants filled with banana or strawberry and chocolate.
   Wifi same as above but tested at 75/94 Mbit/s
+- [Fruit Salad Aqaba](https://maps.app.goo.gl/ovVDrdVF3Y2XYtjf7) - same fresh juice & fruit chain as in Amman section
 - [Firefly Burger](https://maps.app.goo.gl/5XRz6wZXLqzrxxyQA) - same chain as the one described in the Amman section
 - [Albaba Spices](https://maps.app.goo.gl/9VqbRBQsbfnBYyyq7) - 2-3 JD for 200-300g for spices, a great selection of
   mixed spices and teas, most notably the pomegranate tea mix,
@@ -3933,6 +3934,7 @@ TODO:
 - [Captains restaurant](https://maps.app.goo.gl/HPawt9UGciw9SkbH9) - 4.5 steak and seafood, relatively pricey
 - [Fokhara Restaurant By Lacosta](https://maps.app.goo.gl/sobGTBtebN4hnLKYA) - 4.9, good menu and prices
 - [Dar Al Khatyar Restaurant](https://maps.app.goo.gl/HvcJFEN1DUcyVbS86) - 4.9
+- [MILK'N](MILK'N) - ice cream and fresh juices
 - [Buzz St](https://maps.app.goo.gl/uQ6PTLa3k5B8friB9):
   - [Maria Speciality Coffee House](https://maps.app.goo.gl/cGvsXNndmoDv4iBw8) - 5.0
   - [Khubza & Seneya](Khubza & Seneya) - 4.8
