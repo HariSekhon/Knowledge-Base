@@ -3911,7 +3911,8 @@ Restaurants:
     in recent times.
     The muttabal eggplant-based dip was very good and lavished with pomegranate.
     The mixed grill was good as expected, and tomato skillet with ground beef was decent too.
-    The fattoush was possibly a bit too strong, depending on your mood
+    The fattoush was possibly a bit too strong, depending on your mood.
+    They also have fresh orange and mango juices at very reasonable prices compared to neighbouring restaurants
 - [Juice Corner by Lacosta](https://maps.app.goo.gl/qNX7yFnXcZRbkdN66) - high quality fresh squeezed juice bar with a
   great menu, reasonable prices and good selection of juices and fresh pure juice mixes as well.
   A plain orange juice is 2 JD + taxes, so a little cheaper than the neighbouring restaurants which are typically 3 JD.
