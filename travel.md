@@ -3931,6 +3931,11 @@ Attractions:
 TODO:
 
 - [Dar Al Khatyar Restaurant](https://maps.app.goo.gl/HvcJFEN1DUcyVbS86) - 4.9
+- [Buzz St](https://maps.app.goo.gl/uQ6PTLa3k5B8friB9):
+  - [Maria Speciality Coffee House](https://maps.app.goo.gl/cGvsXNndmoDv4iBw8) - 5.0
+  - [Khubza & Seneya](Khubza & Seneya) - 4.8
+  - [Marouf Cafe - Al Aqaba (Movienpick)](https://maps.app.goo.gl/pzuG2axNdaB2wkw88) - 4.5
+- [Lablue Cafe](https://maps.app.goo.gl/3xL9wt2kwmeUidjF7) - 4.8
 - [Baba Za'atar](https://maps.app.goo.gl/bf4UcgRYFTZa82rXA) - 4.5, local food serving manakesh (levantine bread with
   toppings) and pizza
 
