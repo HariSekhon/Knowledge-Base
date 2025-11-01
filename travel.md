@@ -3901,9 +3901,12 @@ Restaurants:
 - [Buzz St](https://maps.app.goo.gl/AosyXZmNTD43kZDRA) - several highly rated gentrified coffee shops
   - [Watermelon Juice Corner](https://maps.app.goo.gl/Ug9Gddk5KKbehxoF7) - excellent menu of fresh juices, juice mixes,
     but several of the mix drinks are not intuitive, with some being just three letter acronyms.
+    The pineapple-coconut juice was good.
     The LPG (lemon, pineapple, ginger) was much too heavily weighted to lemon, don't get that one again.
+    I told them the next day they need to put more pineapple for sweetness instead of lemon which made it too sour.
     The "cocktails" are non-alcoholic but with vanilla ice cream scoop!
     Has wifi
+  - [Khubza & Seneya](https://maps.app.goo.gl/3RHnqGAe6bjedf8S6) - 4.8
 - [Juice Corner by Lacosta](https://maps.app.goo.gl/qNX7yFnXcZRbkdN66) - high quality fresh squeezed juice bar with a
   great menu, reasonable prices and good selection of juices and fresh pure juice mixes as well.
   A plain orange juice is 2 JD + taxes, so a little cheaper than the neighbouring restaurants which are typically 3 JD.
@@ -3938,7 +3941,6 @@ TODO:
 - [MILK'N](https://maps.app.goo.gl/WKsBzLwDZX96ebWL7) - 4.7 ice cream and fresh juices
 - [Buzz St](https://maps.app.goo.gl/uQ6PTLa3k5B8friB9):
   - [Maria Speciality Coffee House](https://maps.app.goo.gl/cGvsXNndmoDv4iBw8) - 5.0
-  - [Khubza & Seneya](https://maps.app.goo.gl/3RHnqGAe6bjedf8S6) - 4.8
   - [Marouf Cafe - Al Aqaba (Movienpick)](https://maps.app.goo.gl/pzuG2axNdaB2wkw88) - 4.5
 - [Comma Coffee Aqaba](https://maps.app.goo.gl/etDby6AxTYKjE6HMA) - 4.9
 - [Kava coffee & more](https://maps.app.goo.gl/jMxaye9KrQw9gT4E7) - 4.8
