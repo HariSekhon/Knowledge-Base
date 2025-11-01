@@ -3902,7 +3902,7 @@ Restaurants:
   - [Khubza & Seneya](https://maps.app.goo.gl/3RHnqGAe6bjedf8S6) - highly rated arabic food and good prices.
     The cucumber yoghurt "salad" was basically Greek tzatziki with the right about of garlic, one of the best I've had
     in recent times.
-    The mutabal eggplant-based dip was very good and lavished with pomegranate.
+    The mutabal eggplant-based dip was very good and lavished with pomegranate and a dark drizzle sauce.
     The mixed grill was good as expected, and tomato skillet with ground beef was decent too.
     The fattoush was possibly a bit too strong, depending on your mood.
     They also have fresh orange and mango juices at very reasonable prices compared to neighbouring restaurants
