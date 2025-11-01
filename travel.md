@@ -3889,15 +3889,6 @@ Restaurants:
   out, rather than ate.
   Go with the classic burger instead of the special if you're even remotely health conscious.
   No wifi unfortunately (it's only for the pay register)
-- [Route65](https://maps.app.goo.gl/SiY6xpgv3gSk6qNU8) - popular gentrified burger restaurant, they quoted a long 25
-  minute wait for the burger and fries, but it was only 12 minutes.
-  The 65 burger was pretty basic, with a slice of pastrami, but not enough salad, fairly average fast food style burger.
-  The curly fries were decent, crispy, but are an additional surcharge on the meal price.
-  Wifi 118/82 Mbit/s
-- [Sayd Al-Bahr – Seafood Food Truck](https://maps.app.goo.gl/pAWxBeXxV9unGT6E8) - affordable seafood street food with
-  benches.
-  I didn't rate the Mexican seafood as that good though.
-  The fried seafood sandwich was better
 - [Buzz St](https://maps.app.goo.gl/AosyXZmNTD43kZDRA) - several highly rated gentrified coffee shops
   - [Khubza & Seneya](https://maps.app.goo.gl/3RHnqGAe6bjedf8S6) - highly rated arabic food and good prices -
     probably the most hihgly rated place in Aqaba in terms of number of reviews while maintaining such a high score.
@@ -3922,6 +3913,15 @@ Restaurants:
 - [Lacosta Bakery & Cafe](https://maps.app.goo.gl/vsiJcdi78Nmcob6B8) - upmarket expensive coffee shop with treats like
   cookies and croissants filled with banana or strawberry and chocolate.
   Wifi same as above but tested at 75/94 Mbit/s
+- [Sayd Al-Bahr – Seafood Food Truck](https://maps.app.goo.gl/pAWxBeXxV9unGT6E8) - affordable seafood street food with
+  benches.
+  I didn't rate the Mexican seafood as that good though.
+  The fried seafood sandwich was better
+- [Route65](https://maps.app.goo.gl/SiY6xpgv3gSk6qNU8) - popular gentrified burger restaurant, they quoted a long 25
+  minute wait for the burger and fries, but it was only 12 minutes.
+  The 65 burger was pretty basic, with a slice of pastrami, but not enough salad, fairly average fast food style burger.
+  The curly fries were decent, crispy, but are an additional surcharge on the meal price.
+  Wifi 118/82 Mbit/s
 - [Fruit Salad Aqaba](https://maps.app.goo.gl/ovVDrdVF3Y2XYtjf7) - same fresh juice & fruit chain as in Amman section
 - [Firefly Burger](https://maps.app.goo.gl/5XRz6wZXLqzrxxyQA) - same chain as the one described in the Amman section
 - [Albaba Spices](https://maps.app.goo.gl/9VqbRBQsbfnBYyyq7) - 2-3 JD for 200-300g for spices, a great selection of
