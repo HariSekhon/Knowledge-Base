@@ -3870,7 +3870,8 @@ Restaurants:
   You can see them making these large flatbreads in front of you,
   and there is a 3 level conveyor belt of round pitas coming down, as well as selection of baklava and similar treats
   ready to pick up.
-  I love the yellow "cake" bread
+  I love the yellow "cake" bread, which wasn't sweet but had an amazing aftertaste -
+  I was eating several of them a day and took an extra batch for my flight out!
 - [Buzz St](https://maps.app.goo.gl/AosyXZmNTD43kZDRA) - several highly rated gentrified coffee shops
   - [Khubza & Seneya](https://maps.app.goo.gl/3RHnqGAe6bjedf8S6) - highly rated arabic food and good prices -
     probably the most hihgly rated place in Aqaba in terms of number of reviews while maintaining such a high score.
