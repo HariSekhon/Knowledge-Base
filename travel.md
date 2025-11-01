@@ -3938,7 +3938,7 @@ TODO:
 - [MILK'N](https://maps.app.goo.gl/WKsBzLwDZX96ebWL7) - 4.7 ice cream and fresh juices
 - [Buzz St](https://maps.app.goo.gl/uQ6PTLa3k5B8friB9):
   - [Maria Speciality Coffee House](https://maps.app.goo.gl/cGvsXNndmoDv4iBw8) - 5.0
-  - [Khubza & Seneya](Khubza & Seneya) - 4.8
+  - [Khubza & Seneya](https://maps.app.goo.gl/3RHnqGAe6bjedf8S6) - 4.8
   - [Marouf Cafe - Al Aqaba (Movienpick)](https://maps.app.goo.gl/pzuG2axNdaB2wkw88) - 4.5
 - [Comma Coffee Aqaba](https://maps.app.goo.gl/etDby6AxTYKjE6HMA) - 4.9
 - [Kava coffee & more](https://maps.app.goo.gl/jMxaye9KrQw9gT4E7) - 4.8
