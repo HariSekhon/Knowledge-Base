@@ -3898,11 +3898,12 @@ Restaurants:
   benches.
   I didn't rate the Mexican seafood as that good though.
   The fried seafood sandwich was better
-- [Watermelon Juice Corner](https://maps.app.goo.gl/Ug9Gddk5KKbehxoF7) - excellent menu of fresh juices, juice mixes,
-  but several of the mix drinks are not intuitive, with some being just three letter acronyms.
-  The LPG (lemon, pineapple, ginger) was much too heavily weighted to lemon, don't get that one again.
-  The "cocktails" are non-alcoholic but with vanilla ice cream scoop!
-  Has wifi
+- [Buzz St](https://maps.app.goo.gl/AosyXZmNTD43kZDRA) - several highly rated gentrified coffee shops
+  - [Watermelon Juice Corner](https://maps.app.goo.gl/Ug9Gddk5KKbehxoF7) - excellent menu of fresh juices, juice mixes,
+    but several of the mix drinks are not intuitive, with some being just three letter acronyms.
+    The LPG (lemon, pineapple, ginger) was much too heavily weighted to lemon, don't get that one again.
+    The "cocktails" are non-alcoholic but with vanilla ice cream scoop!
+    Has wifi
 - [Juice Corner by Lacosta](https://maps.app.goo.gl/qNX7yFnXcZRbkdN66) - high quality fresh squeezed juice bar with a
   great menu, reasonable prices and good selection of juices and fresh pure juice mixes as well.
   A plain orange juice is 2 JD + taxes, so a little cheaper than the neighbouring restaurants which are typically 3 JD.
