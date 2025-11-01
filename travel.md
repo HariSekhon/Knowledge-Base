@@ -3880,6 +3880,8 @@ Restaurants:
     The mutabal eggplant-based dip was very good and lavished with pomegranate and a dark drizzle sauce.
     The mixed grill was good as expected, and tomato skillet with ground beef was decent too.
     The fattoush was possibly a bit too strong, depending on your mood.
+    These dishes were more than enough for 2 people, don't let the staff convince you to get 2 mains, keep it meze
+    style!
     They also have fresh orange and mango juices at very reasonable prices compared to neighbouring restaurants
   - [Watermelon Juice Corner](https://maps.app.goo.gl/Ug9Gddk5KKbehxoF7) - excellent menu of fresh juices, juice mixes,
     but several of the mix drinks are not intuitive, with some being just three letter acronyms.
