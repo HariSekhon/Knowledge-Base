@@ -1,5 +1,18 @@
 # Serbia
 
+<!-- INDEX_START -->
+
+- [Indoor Smoking, Outdoor Smoking, Smoking Everywhere in Serbia](#indoor-smoking-outdoor-smoking-smoking-everywhere-in-serbia)
+- [Taxis in Serbia](#taxis-in-serbia)
+- [Driving in Serbia](#driving-in-serbia)
+- [Belgrade](#belgrade)
+  - [Buses in Belgrade & Nikola Tesla Airport](#buses-in-belgrade--nikola-tesla-airport)
+  - [Restaurants in Belgrade](#restaurants-in-belgrade)
+- [Novi Sad](#novi-sad)
+- [Nis](#nis)
+
+<!-- INDEX_END -->
+
 I used the [Airalo](https://www.airalo.com/) e-sim data only for $14 for 5GB valid for 30 days.
 
 On subsequent visits I've used the [Nomad](https://www.getnomad.app/) e-sim
