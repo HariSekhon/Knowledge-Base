@@ -1,5 +1,16 @@
 # Slovenia
 
+<!-- INDEX_START -->
+
+- [Taxis in Slovenia](#taxis-in-slovenia)
+- [Motorway Tolls - Vignettes in Slovenia](#motorway-tolls---vignettes-in-slovenia)
+- [Wifi in Slovenia](#wifi-in-slovenia)
+- [Ljubljana](#ljubljana)
+- [Bled](#bled)
+- [Novo Mesto](#novo-mesto)
+
+<!-- INDEX_END -->
+
 ## Taxis in Slovenia
 
 - [Bolt](https://bolt.eu/)
