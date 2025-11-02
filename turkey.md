@@ -1,5 +1,14 @@
 # Turkey
 
+<!-- INDEX_START -->
+
+- [Antalya Airport](#antalya-airport)
+- [Istanbul](#istanbul)
+  - [Taxis in Istanbul](#taxis-in-istanbul)
+  - [Restaurants in Istanbul](#restaurants-in-istanbul)
+
+<!-- INDEX_END -->
+
 Inflation and rent prices make this not a good value for money destination.
 
 Expensive restaurants and there are only so many times you can eat kebab / mixed grill / dips.
