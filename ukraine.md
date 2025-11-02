@@ -1,4 +1,4 @@
-### Ukraine
+# Ukraine
 
 Ukraine is not really a tourist destination, even outside of the war,
 as it lacks attractions, centralization, good quality restaurants & diversity of cuisine,
@@ -25,13 +25,13 @@ There are hundreds of destinations in Europe that would be ahead of Ukraine to v
 
 I've used Airalo and Nomad mobile e-sims in Ukraine.
 
-#### Taxis in Ukraine
+## Taxis in Ukraine
 
 - [Bolt](https://bolt.eu/en-ua/) - more drivers than OnTaxi
 - [OnTaxi](https://ontaxi.com.ua/en) - no drivers picked up in Kyiv
 - [Uklon](https://uklon.com.ua/en/) - didn't receive the verification SMS so couldn't use it
 
-#### Buses in Ukraine
+## Buses in Ukraine
 
 Bus have credit card touch devices.
 
@@ -39,7 +39,7 @@ In Kiev it was easier, just touch card which charged it 8uah (£0.14).
 
 In Lviv I had to select a couple of touch screen options before touching the card. You can change the menu to English.
 
-#### Coaches in Ukraine
+## Coaches in Ukraine
 
 Coaches go between Kyiv and Odessa regularly, you can book them via the Omio website:
 
@@ -48,7 +48,7 @@ Coaches go between Kyiv and Odessa regularly, you can book them via the Omio web
 The LikeBus has wifi (password is just 12345678)
 so you can ride in style and watch your favourite show as it is a 6 hour journey.
 
-#### Trains in Ukraine
+## Trains in Ukraine
 
 Make sure to book your rail tickets in advance before travelling between cities as they sell out.
 
@@ -63,7 +63,7 @@ ground.
 
 The small table is also usable for the lower bunks.
 
-#### Kyiv
+## Kyiv
 
 Kyiv is the newer spelling derived from Ukrainian, instead of Kiev, the old spelling derived from Russian.
 
@@ -178,7 +178,7 @@ TODO:
 - [Chichiko](https://maps.app.goo.gl/suxeACdBw24tWzTU8) - Georgian
 - [Chachapuri](https://maps.app.goo.gl/iMFtAVwabVsvxfkW6) - Georgian
 
-#### Lviv
+## Lviv
 
 A small city on the Western edge of Ukraine, far from the war.
 Much more peaceful than Kyiv's frequent air raids but you'll run out of things to do and eat after a few days.
@@ -260,7 +260,7 @@ TODO:
 - [Ресторація Боїмів](https://maps.app.goo.gl/kWzJw6gMhpfnccHz8) - 4.8 but pricier and doesn't open until 12pm
 - [Cent Aura](https://maps.app.goo.gl/zRcYJujYw3w7W8HM7) - 4.6 but no english menu online
 
-#### Odessa
+## Odessa
 
 <!--
 
