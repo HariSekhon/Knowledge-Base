@@ -1,5 +1,19 @@
 # Czechia / Czech Republic
 
+<!-- INDEX_START -->
+
+- [Motorway Tolls - Vignettes in Czechia](#motorway-tolls---vignettes-in-czechia)
+- [Prague](#prague)
+  - [Taxis in Prague](#taxis-in-prague)
+  - [Parking in Prague](#parking-in-prague)
+  - [Restaurants in Prague](#restaurants-in-prague)
+- [Brno](#brno)
+- [České Budějovice](#české-budějovice)
+- [Kutna Hora](#kutna-hora)
+- [Hradec Kralove](#hradec-kralove)
+
+<!-- INDEX_END -->
+
 I still call it Czech Republic and struggle with the new name of Czechia -
 it's too similar a name to the war torn Chechnya.
 They didn't think about about the negative branding on this rename.
