@@ -1,6 +1,6 @@
-### Hungary
+# Hungary
 
-#### Avoid northern counties
+## Avoid northern counties
 
 Do not drive through the north Hungarian counties, there are serious ghettos that feel very unsafe:
 
@@ -8,12 +8,12 @@ Story here:
 
 <https://medium.com/@harisekhon/the-revelation-of-why-hungary-is-so-anti-immigration-059259e51cf2>
 
-#### Taxis in Hungary
+## Taxis in Hungary
 
 - [Bolt](https://apps.apple.com/us/app/bolt-request-a-ride/id675033630)
 - [FoTaxi](https://fotaxi.hu/en/passengers/taxi-application/) - local alternative
 
-#### Motorway Tolls - Vignettes in Hungary
+## Motorway Tolls - Vignettes in Hungary
 
 Hungary requires online tolls to be pre-paid before using its motorways to avoid a fine. 🙄
 
@@ -29,13 +29,13 @@ Than this site:
 
 <https://en.autovignet.hu/>
 
-#### Budapest
+## Budapest
 
 Good for a long weekend city break with the girlfriend.
 
 Don't bother going outside of June - August. The weather was miserable even at the end of May.
 
-##### Metro in Budapest
+### Metro in Budapest
 
 Budapest metro is surprisingly cheap and good. It's 450 HUF for a single journey ticket which works out to only 95p!
 
@@ -45,7 +45,7 @@ and scan the QR code to validate them at the entry points of the Metro.
 
 The Metro shuts down around 11:30pm so don't stay out too late or you'll need a taxi.
 
-##### Restaurants in Budapest
+### Restaurants in Budapest
 
 I felt most of the restaurants I tried in the 4.5 star region were overrated, as well as western priced,
 with exception of Caviar & Bull and Grand Central Cafe which were high quality.
@@ -111,7 +111,7 @@ Not recommended:
   of fat, probably half of it, and it came with no bread. Ordering the bruschetta doubled the cost and it was mediocre.
   225/15 Mbit/s wifi
 
-#### Debrecen
+## Debrecen
 
 Eastern city I've used as a stopover driving between Romania and Budapest.
 
@@ -121,7 +121,7 @@ Some nice architecture. <!-- and hot young women -->
   the chef's special orange duck leg with pink pepper-citrus mango puree was excellent, it comes with savoy potatoes.
   41/16 Mbit/s wifi, no password, but unfortunately the toilets have passwords <!-- 666666 -->
 
-#### Gyor
+## Gyor
 
 Stopover town between Bratislava and Budapest.
 
@@ -133,7 +133,7 @@ A few nice architectural bits, you probably don't need more than 1 hour to walk 
   expected the dumplings to be better
 - [Győr, Petőfi híd Parking](https://maps.app.goo.gl/8WxsHv5hi7ts1iwp9) - free parking, a short walk from the centre
 
-#### Szolnok
+## Szolnok
 
 A modest town with a small centre to the east of the country.
 
@@ -154,7 +154,7 @@ Not Recommended:
 - [Evezős Csárda](http://www.evezoscsarda.hu/Etlap.cshtml) - despite its 4.5 rating on Google, I was not impressed with the food,
   either starter or main, and would give it a miss next time
 
-#### Szeged
+## Szeged
 
 Southern border town, useful as a stopover between Hungary and Serbia.
 
