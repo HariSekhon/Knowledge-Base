@@ -154,7 +154,7 @@ Further down are generic travel tips that apply across countries.
 - [Turkey](turkey.md)
 - [UAE](uae.md)
 - [Ukraine](ukraine.md)
-- [United Kingdom](united-kingdom.md)
+- [United Kingdom](uk.md)
 - [USA](usa.md)
 - [Vietnam](vietnam.md)
 
