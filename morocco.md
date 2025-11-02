@@ -1,5 +1,12 @@
 # Morocco
 
+<!-- INDEX_START -->
+
+- [Taxis in Morocco](#taxis-in-morocco)
+- [Tangiers](#tangiers)
+
+<!-- INDEX_END -->
+
 The menus are in French!
 
 There are stray cats everywhere.
