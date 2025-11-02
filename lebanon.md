@@ -1,8 +1,8 @@
-### Lebanon
+# Lebanon
 
-#### Beirut
+## Beirut
 
-##### Taxis in Beirut
+### Taxis in Beirut
 
 - [Bolt](https://bolt.eu/en/)
 - [Uber](https://www.uber.com/)
