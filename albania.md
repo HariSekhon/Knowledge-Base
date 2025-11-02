@@ -1,4 +1,4 @@
-### Albania
+# Albania
 
 _"Cheap and good"_ was how several people I met on my travels described
 [Albania](https://maps.app.goo.gl/gEyUuDhZapAQ1b5dA). Get it before it changes.
@@ -8,7 +8,7 @@ Many 20 years old, but many modern designs with customizations, AMGs etc.
 
 Some of the roads aren't great though.
 
-#### ATMs in Albania
+## ATMs in Albania
 
 ATMs in Albania usually charge you 600-700 leks (€6-€7) for a cash withdrawal,
 on top of trying to get you to accept their ridiculous conversion fees
@@ -22,7 +22,7 @@ and withdraw it once instead of incurring the withdrawal charge again and again.
 Most places take credit and debit cards, but not under a certain amount such as 500 leks (€5),
 and some places will only accept cash so you will likely need some cash.
 
-#### Taxis in Albania
+## Taxis in Albania
 
 The usual big names of Uber and Bolt aren't present.
 
@@ -31,7 +31,7 @@ The usual big names of Uber and Bolt aren't present.
   cheaper but not in English and didn't accept the SMS verification codes so I couldn't get it working in time.
   Only payment option was cash
 
-#### Driving in Albania
+## Driving in Albania
 
 **Beware: UK car insurance only covers the EU and one or two other countries like Switzerland and maybe Serbia, but**
 **NOT Albania**.
@@ -44,7 +44,7 @@ Albania has _the_ worst roads I've seen in Europe with many places having unpave
 
 Fuel is also surprisingly expensive compared to nearby Bulgaria and Romania.
 
-#### Tirana
+## Tirana
 
 The capital [Tiranë](https://maps.app.goo.gl/NpB1ebWNjGFn6X2f9) is cheap, with hostels costing around £10 per night.
 
@@ -207,7 +207,7 @@ so this is a long TODO list of ones I still need to try.
 - [Pixel Gaming Arena](https://maps.app.goo.gl/o1EdrDcCguQSvjvZA) - interesting find for those of you who still play
   video games
 
-#### Lake Bovilla
+## Lake Bovilla
 
 [Lake Bovilla](https://maps.app.goo.gl/bbsLa4sqKCJTi6zc8)
 has great scenary but just one several km long unpaved rock filled road with potholes everywhere is the only way up or
@@ -229,7 +229,7 @@ my 2 wheel drive slipped it's wheels on some steep gradients.
   but I didn't stay for dinner as I was scared of damaging my car tyres and getting stranded if trying
   to drive back down in the dark, never mind the potential of going off one of the edges!
 
-#### Durres
+## Durres
 
 Good seaside town approximately 40-60 mins drive from Tirana, depending on traffic.
 
@@ -268,7 +268,7 @@ TODO:
 
 - [Meison Bistro](https://maps.app.goo.gl/zgZM8fu8SjKhYjeL7)
 
-#### Elbasan
+## Elbasan
 
 [Elbasan](https://maps.app.goo.gl/ob7f42c3BgAYqkFB6) is a town with a small fort, useful for stopover between Tirana and
 Pogradec.
@@ -286,7 +286,7 @@ TODO:
 - [Piceri Dibra](https://maps.app.goo.gl/dTThcq5g6Y86KvEX9) - cafe restaurant
 - [Presto Pasta Elbasan](https://maps.app.goo.gl/camCKopH2EYzTSDL7)
 
-#### Pogradec
+## Pogradec
 
 [Pogradec](https://maps.app.goo.gl/pwQsVo8vCE35UdKa6) is a lakeside town next to the impressive and scenic
 [Lake Ohrid](https://maps.app.goo.gl/zTx4seuagWd5CLF77) - amazing clear blue waters surrounded by mountain ranges,
@@ -314,7 +314,7 @@ This is definitely one to revisit.
   and I didn't want to get mugged by an Albanian ATM again taking out cash, and then being stuck with unused leks.
   Next time
 
-#### Shkoder
+## Shkoder
 
 [Shkodër](https://maps.app.goo.gl/M9ekVnhoA2WqawkYA) is a northern town on the Shkodra Lake, people also visit it for
 the hiking trails.
