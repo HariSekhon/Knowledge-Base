@@ -149,6 +149,10 @@ $cities"
     fi
 fi
 
+exit 0
+##################################################
+# No longer used since splitting to multiple pages
+
 timestamp "Parsing Countries from $travel_md"
 countries="$(sed -n '/## Countries/,$p' "$travel_md" | grep '^###[[:space:]]')"
 
