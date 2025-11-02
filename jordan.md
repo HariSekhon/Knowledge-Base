@@ -621,6 +621,8 @@ You can get to Aqaba by plane as there is a local airport, or by Jett bus from A
   The 65 burger was pretty basic, with a slice of pastrami, but not enough salad, fairly average fast food style burger.
   The curly fries were decent, crispy, but are an additional surcharge on the meal price.
   Wifi 118/82 Mbit/s
+- [Captains restaurant](https://maps.app.goo.gl/HPawt9UGciw9SkbH9) - steak and seafood, relatively pricey and
+  their fried fish while large is not as good as the crispy tempura at Aurjwan Cafe & Restaurant above
 - [Fruit Salad Aqaba](https://maps.app.goo.gl/ovVDrdVF3Y2XYtjf7) - same fresh juice & fruit chain as in Amman section
 - [Firefly Burger](https://maps.app.goo.gl/5XRz6wZXLqzrxxyQA) - same chain as the one described in the Amman section
 - [Albaba Spices](https://maps.app.goo.gl/9VqbRBQsbfnBYyyq7) - 2-3 JD for 200-300g for spices, a great selection of
@@ -630,7 +632,6 @@ You can get to Aqaba by plane as there is a local airport, or by Jett bus from A
 
 TODO:
 
-- [Captains restaurant](https://maps.app.goo.gl/HPawt9UGciw9SkbH9) - 4.5 steak and seafood, relatively pricey
 - [Fokhara Restaurant By Lacosta](https://maps.app.goo.gl/sobGTBtebN4hnLKYA) - 4.9, good menu of arabic food and
   reasonable prices
 - [Dar Al Khatyar Restaurant](https://maps.app.goo.gl/HvcJFEN1DUcyVbS86) - 4.9
