@@ -1,6 +1,6 @@
-### Slovakia
+# Slovakia
 
-#### Motorway Tolls - e-Vignettes in Slovakia
+## Motorway Tolls - e-Vignettes in Slovakia
 
 Buyt this before using the motorways driving around Slovakia.
 
@@ -8,7 +8,7 @@ Use the official site rather than resellers, it's cheaper:
 
 <https://eznamka.sk/selfcare/purchase>
 
-#### Bratislava
+## Bratislava
 
 Bratislava is nowhere near as big as Budapest, you probably don't need more than 3 nights here.
 
@@ -68,7 +68,7 @@ Bratislava is nowhere near as big as Budapest, you probably don't need more than
   the Salmon Poke bowl was really good. They weren't on the menu I saw which was full of sushi, but I asked the waiter
   for it after seeing it on Google Maps. 47/8 Mbit/s wifi
 
-#### Kosice
+## Kosice
 
 Small city with a nice historic centre, but none of the venues I tried impressed me.
 
