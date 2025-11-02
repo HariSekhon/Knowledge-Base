@@ -1,5 +1,14 @@
 # Taiwan
 
+<!-- INDEX_START -->
+
+- [Taxis in Taiwan](#taxis-in-taiwan)
+- [Taipei](#taipei)
+  - [Taipei Hotels](#taipei-hotels)
+  - [Restaurants in Taipei](#restaurants-in-taipei)
+
+<!-- INDEX_END -->
+
 ## Taxis in Taiwan
 
 My usual Grab which is popular in SE Asia isn't available in Taiwan, they have Uber and FindTaxi:
