@@ -1,5 +1,16 @@
 # Romania
 
+<!-- INDEX_START -->
+
+- [Taxis in Romania](#taxis-in-romania)
+- [Motorway Tolls - e-Vignettes in Romania](#motorway-tolls---e-vignettes-in-romania)
+- [Bucharest](#bucharest)
+- [Brașov](#brașov)
+- [Cluj-Napoca](#cluj-napoca)
+- [Oradea](#oradea)
+
+<!-- INDEX_END -->
+
 Not cheap any more, almost Western prices.
 
 ## Taxis in Romania
