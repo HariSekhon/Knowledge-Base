@@ -1,4 +1,4 @@
-### Croatia
+# Croatia
 
 Croatia is expensive and service is often not good.
 
@@ -8,12 +8,12 @@ Some restaurants even refuse to split group bills, and I didn't find anywhere th
 
 It's also too hot in Summer, if you're going to do it, do it in Spring or Autumn instead.
 
-#### Taxis in Croatia
+## Taxis in Croatia
 
 - [Bolt](https://bolt.eu/)
 - [Wizi](https://wizi.hr/en/)
 
-#### Zagreb
+## Zagreb
 
 The capital - small and not a lot to do, don't waste more than 2 days here.
 
@@ -85,7 +85,7 @@ TODO:
 - [Amadria Park Hotel Restaurant](https://maps.app.goo.gl/RciPepbijJddKVJg9) - upmarket hotel restaurant -
   date place
 
-#### Split
+## Split
 
 Much better and more touristy than Zagreb.
 
@@ -137,7 +137,7 @@ Not recommended:
   perhaps this is a strategy because seeds are cheaper than Acai?
   Go for a gelato instead, cheaper and nicer and there are many great places for it here like Gelato aMere above
 
-#### Zadar
+## Zadar
 
 Small streets remind me of Venice.
 
@@ -157,7 +157,7 @@ Not recommended:
 - [Coffee & Cake - Kavana Centar](https://maps.app.goo.gl/TGVsFniVxznAizucA) - Brazilian friend said their Acai is fake,
   just frozen fruit
 
-#### Dubrovnik
+## Dubrovnik
 
 Overrated and expensive. Even hostels here are more expensive than hotels in other countries.
 
