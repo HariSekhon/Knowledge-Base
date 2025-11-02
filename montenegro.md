@@ -1,6 +1,6 @@
-### Montenegro
+# Montenegro
 
-#### Driving in Montenegro
+## Driving in Montenegro
 
 **Beware: UK car insurance only covers the EU and one or two other countries like Switzerland and maybe Serbia, but**
 **NOT Montenegro**.
@@ -18,7 +18,7 @@ sections without barriers where you could go off a cliff and die.
 Also, due to the single lane most of the way, you can get stuck behind a slow lorry or coach,
 and overtaking is very difficult and dangerous here.
 
-#### Podgorica
+## Podgorica
 
 [Podgorica](https://maps.app.goo.gl/5sVEgxF13kdGi8tz5) is the capital and has cheaper accommodation than Budva, but
 on first impression there isn't too much to do there as it's not well centralized.
@@ -130,7 +130,7 @@ TODO:
   Tbilisi, Georgia
 - [MEAT](https://maps.app.goo.gl/Cspeh1AGzvGe7voaA) - steak restaurant near Big Fashion Mall
 
-#### Budva
+## Budva
 
 [Budva](https://maps.app.goo.gl/BTwu7AepwwxJJLs59)
 is a popular beach town, and not very big, so accommodation is more expensive than the capital Podgorica.
@@ -169,7 +169,7 @@ TODO:
 - [Le Petit Bar](https://maps.app.goo.gl/TD8L6yqFmmoJw8Ub7) - coffees, cocktails and cakes, open until late, good for
   socializing
 
-#### Kotor
+## Kotor
 
 [Kotor](https://maps.app.goo.gl/GsDU7TfnTqobkDp77) is a small historic fortified town with yachts, cruise ships,
 and cats lounging around waiting to get petted by the many tourists on the small fortress
@@ -188,7 +188,7 @@ longer if you're stopping for coffee, shopping, dining, or attending the cats mu
   so go buy a drink or something in the supermarket first to use its receipt to enter the toilets for free.
 - [Kotor Cats Museum](https://maps.app.goo.gl/sRLyBjuAPeBADQyw5)
 
-#### Bar
+## Bar
 
 [Bar](https://maps.app.goo.gl/6HxgncYoNrxoFNhz5) is a small seaside town, but the beach is not as good as Budva which is
 much more popular.
@@ -226,7 +226,7 @@ TODO:
 - [JALA street food](https://maps.app.goo.gl/A6SRt7uiKQrbBkMt9) - affordable burgers and tortillas
 - [Central Park Cafe Montenegro](https://maps.app.goo.gl/hY4KyXBtz7mp3GP76)
 
-#### Ulcinj
+## Ulcinj
 
 [Ulcinj](https://maps.app.goo.gl/n9ohwBapsZjztAND7) is a popular seaside town, more concentrated and touristy than Bar.
 
