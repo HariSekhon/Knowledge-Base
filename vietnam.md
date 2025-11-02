@@ -1,6 +1,14 @@
 # Vietnam
 
-## Taxis in Vietnam
+<!-- INDEX_START -->
+
+- [Taxis](#taxis)
+- [Hanoi](#hanoi)
+- [Ho Chi Minh (formerly known as Saigon)](#ho-chi-minh-formerly-known-as-saigon)
+
+<!-- INDEX_END -->
+
+## Taxis
 
 If you haven't already set up your card to prepay on the Grab app, you'll need cash.
 
