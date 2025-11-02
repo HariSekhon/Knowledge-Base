@@ -107,8 +107,6 @@ Cities: 162
 
 Below are specific tips for each country, especially my favourite restaurants.
 
-Further down are generic travel tips that apply across countries.
-
 - [Albania](albania.md)
 - [Austria](austria.md)
 - [Belgium](belgium.md)
