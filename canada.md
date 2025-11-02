@@ -1,5 +1,12 @@
 # Canada
 
+<!-- INDEX_START -->
+
+- [Vancouver](#vancouver)
+- [Abbotsford](#abbotsford)
+
+<!-- INDEX_END -->
+
 It's been most of a lifetime since I've been so no restaurant recommendations for this one.
 
 ## Vancouver
