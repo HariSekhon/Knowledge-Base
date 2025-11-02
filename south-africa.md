@@ -1,4 +1,4 @@
-### South Africa
+# South Africa
 
 A dangerous high crime country due to high inequality (the Gini coefficient of inequality correlates to crime).
 
@@ -6,7 +6,7 @@ You will need a car in South Africa as its road infrastructure and distancing is
 
 Make sure to lock your doors immediately to reduce risk of carjacking.
 
-#### Johannesburg
+## Johannesburg
 
 Johannesburg, the capital, is where the biz is, where people cite Cape Town by the beach for leisure.
 
@@ -18,13 +18,13 @@ You may only get one close call like that in life.
 
 Stick to the foreigner areas of Sandton and Rosebank. Seriously.
 
-##### Sandton
+### Sandton
 
 Has a good mall, restaurants and hotels. The Da Vinci hotel is nice for example.
 
 Nelson Mandela square should be relatively safe thanks to being surrounded by restaurants and mall with security.
 
-##### Rosebank
+### Rosebank
 
 Also has a mall and good restaurants.
 
