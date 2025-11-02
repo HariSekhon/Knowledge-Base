@@ -1,5 +1,16 @@
 # Belgium
 
+<!-- INDEX_START -->
+
+- [Antwerp](#antwerp)
+- [Brussels](#brussels)
+- [Bruges / Brugge](#bruges--brugge)
+- [Ghent / Gent](#ghent--gent)
+- [Liege](#liege)
+- [Waterloo](#waterloo)
+
+<!-- INDEX_END -->
+
 Nice small country, easy to drive from the UK, perhaps 2-3 hours after a ferry from Dover to Calais.
 
 ## Antwerp
