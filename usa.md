@@ -1,5 +1,16 @@
 # USA
 
+<!-- INDEX_START -->
+
+- [California](#california)
+  - [Irvine](#irvine)
+  - [Los Angeles](#los-angeles)
+  - [Palo Alto](#palo-alto)
+  - [San Diego](#san-diego)
+  - [San Francisco](#san-francisco)
+
+<!-- INDEX_END -->
+
 You will get finger printed entering the country.
 
 I've worked up and down that Los Angeles part...
