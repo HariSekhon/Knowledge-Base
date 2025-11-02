@@ -1,6 +1,6 @@
-### Norway
+# Norway
 
-#### Oslo
+## Oslo
 
 Nice to visit for a couple days,
 but everything was closed and quiet at 4pm on a Sunday afternoon when I arrived,
