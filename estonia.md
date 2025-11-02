@@ -1,8 +1,8 @@
-### Estonia
+# Estonia
 
 The best of the three Baltic countries IMO, with prettier women and just generally feels slightly more developed.
 
-#### Tallinn
+## Tallinn
 
 Tallinn, the capital, can be done in 2 days. There are plenty of good restaurants to visit.
 
