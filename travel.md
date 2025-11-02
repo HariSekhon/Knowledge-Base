@@ -864,33 +864,6 @@ Read this article on [my Medium](https://medium.com/@harisekhon) for more:
 Brits may want to [redirect their mail overseas](https://www.postoffice.co.uk/mail/redirection) or
 get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return visits.
 
-### Italy
-
-TODO: Italy Road Trip
-
-<https://www.europediaries.com/tuscany-roadtrip/>
-<https://www.visittuscany.com/en/ideas/top-10-day-trips-from-siena/>
-
-#### Car Rentals in Italy
-
-I haven't used these, my colleagues were discussing them:
-
-- [TinLeggio](https://www.tinoleggio.it/)
-- [LocAutoRent](https://www.locautorent.com/en/)
-
-#### Rome
-
-Been a long time, there are Gelato ice cream places everywhere.
-
-#### Venice
-
-Steps everywhere, do not go with children and especially not with a buggy. You will spend all day carrying the buggy up
-and down steps, which is hardly a holiday.
-
-Somewhat expensive, don't go for more than a long weekend.
-
-Also, got caught in a storm just before leaving, check the weather forecasts.
-
 <!--
 
 Kosovo
