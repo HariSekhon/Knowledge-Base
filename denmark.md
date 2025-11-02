@@ -1,6 +1,6 @@
-### Denmark
+# Denmark
 
-#### Copenhagen
+## Copenhagen
 
 I worked out here for 4 months in 2017, but I returned to the UK early
 (honestly to date who became my long-term girlfriend and 2nd baby mama, the one I loved the most).
@@ -10,7 +10,7 @@ twice the price.
 
 The weather was almost identically bad to the UK.
 
-##### Restaurants in Copenhagen
+### Restaurants in Copenhagen
 
 - [Halifax Burger](https://www.halifax.dk/) - Denmark's equivalent burger chain to Gourmet Burger Kitchen. This was my
   goto restaurant to get a consistent good quality after being disappointed in so many other restaurants in Denmark
