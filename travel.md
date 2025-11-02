@@ -106,7 +106,7 @@ Cities: 162
 - Unique Countries since Emigrating from the UK in 2024: 39
   - Unique Cities since Emigrating from the UK in 2024: 137
 
-Below are specific tips for each country, especially my favourite restaurants.
+Country pages with specific tips for each country:
 
 - [Albania](albania.md)
 - [Austria](austria.md)
