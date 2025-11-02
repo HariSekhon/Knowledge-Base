@@ -875,15 +875,6 @@ Pristina
 
 -->
 
-### Lebanon
-
-#### Beirut
-
-##### Taxis in Beirut
-
-- [Bolt](https://bolt.eu/en/)
-- [Uber](https://www.uber.com/)
-
 ### Lithuania
 
 Lithuania is noticeably poorer than Poland.
