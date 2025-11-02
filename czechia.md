@@ -1,16 +1,16 @@
-### Czechia / Czech Republic
+# Czechia / Czech Republic
 
 I still call it Czech Republic and struggle with the new name of Czechia -
 it's too similar a name to the war torn Chechnya.
 They didn't think about about the negative branding on this rename.
 
-#### Motorway Tolls - Vignettes in Czechia
+## Motorway Tolls - Vignettes in Czechia
 
 Buy your e-vignette for Czechia here:
 
 <https://edalnice.cz/en/#/validation>
 
-#### Prague
+## Prague
 
 A brilliant historic capital, famed for cheap good quality beer.
 By the 2000s there were literally signs on the front of bars saying *"No English stag parties"*.
@@ -24,12 +24,12 @@ You may want to consider staying in a hostel here just due to the prices.
 
 You will hear American accents often in Prague, it is this tourism that has caused the somewhat high prices.
 
-##### Taxis in Prague
+### Taxis in Prague
 
 - [Bolt](https://bolt.eu/en-cz/) - usually a bit cheaper than Uber in my experience, but this can fluctate so check both
 - [Uber](https://www.uber.com/cz/en/)
 
-##### Parking in Prague
+### Parking in Prague
 
 Parking is a nightmare in Prague, like many anti-car European cities, and due to residents parking permits.
 
@@ -47,7 +47,7 @@ but even out there it's still roughly €25 per week.
 
 <!--
 
-##### Hostels in Prague
+### Hostels in Prague
 
 My favourite hostels are:
 
@@ -66,7 +66,7 @@ I didn't really like:
 
 -->
 
-##### Restaurants in Prague
+### Restaurants in Prague
 
 My favourite Brunch area is [Prague 3, Žižkov](https://maps.app.goo.gl/ZXwfEH74FakwwnyV8) as it has the most good
 brunch restaurants and better prices, as well as my favourite Acai place.
@@ -322,14 +322,14 @@ TODO:
 - [Restaurant Matylda](https://maps.app.goo.gl/GeFhe3wxzdjtRKBC9) - check the daily menu
   [here](https://www.menicka.cz/2123-restaurant-matylda.html) for good lunch deals
 
-#### Brno
+## Brno
 
 You only need a couple hours to walk around Brno, some nice architecture, and the usual international brands.
 
 - [Bavard cafe](https://maps.app.goo.gl/8FVSgxANxoSDrEYn8) - eggs benedict with bacon was good and large compared to
   some other places, although at 270kc (£9) this is expensive by local standards
 
-#### České Budějovice
+## České Budějovice
 
 Historic town centre, you only need an hour to walk around it.
 
@@ -345,7 +345,7 @@ TODO:
 
 - [Stromovka Park](https://maps.app.goo.gl/HXoX4cTCy1zcyDam8) - park if you have time
 
-#### Kutna Hora
+## Kutna Hora
 
 Unesco heritage city in the middle of Czechia with impressive cathedral, stopped there driving between Prague and
 Wroclaw, Poland.
@@ -358,7 +358,7 @@ Wroclaw, Poland.
 - [Plague column / Morový sloup](https://maps.app.goo.gl/qr1NGVzdXXJy9HSC8) - historic landmark
 - [Parkoviště Na Náměti](https://maps.app.goo.gl/1Tq5J6ZVyQe9nq6A8) - free parking (check Parkopedia for others)
 
-#### Hradec Kralove
+## Hradec Kralove
 
 Nice small city centre with historic centre in the middle of Czechia,
 stopped here driving between Prague and Wroclaw, Poland.
