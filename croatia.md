@@ -1,5 +1,15 @@
 # Croatia
 
+<!-- INDEX_START -->
+
+- [Taxis in Croatia](#taxis-in-croatia)
+- [Zagreb](#zagreb)
+- [Split](#split)
+- [Zadar](#zadar)
+- [Dubrovnik](#dubrovnik)
+
+<!-- INDEX_END -->
+
 Croatia is expensive and service is often not good.
 
 There are a lot of better countries to visit.
