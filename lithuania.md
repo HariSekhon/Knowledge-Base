@@ -1,10 +1,10 @@
-### Lithuania
+# Lithuania
 
 Lithuania is noticeably poorer than Poland.
 
 There is a common Georgian restaurant chain called Chačapuri which is well worth a visit for their traditional soup.
 
-#### Vilnius
+## Vilnius
 
 Vilnius, the capital, is worth a visit but you don't really need more than a couple days as it's not that big.
 
