@@ -1,5 +1,17 @@
 # Ukraine
 
+<!-- INDEX_START -->
+
+- [Taxis](#taxis)
+- [Buses](#buses)
+- [Coaches](#coaches)
+- [Trains](#trains)
+- [Kyiv](#kyiv)
+- [Lviv](#lviv)
+- [Odessa](#odessa)
+
+<!-- INDEX_END -->
+
 Ukraine is not really a tourist destination, even outside of the war,
 as it lacks attractions, centralization, good quality restaurants & diversity of cuisine,
 or even much in the way of tourist accommodation compared to other European countries.
@@ -25,13 +37,13 @@ There are hundreds of destinations in Europe that would be ahead of Ukraine to v
 
 I've used Airalo and Nomad mobile e-sims in Ukraine.
 
-## Taxis in Ukraine
+## Taxis
 
 - [Bolt](https://bolt.eu/en-ua/) - more drivers than OnTaxi
 - [OnTaxi](https://ontaxi.com.ua/en) - no drivers picked up in Kyiv
 - [Uklon](https://uklon.com.ua/en/) - didn't receive the verification SMS so couldn't use it
 
-## Buses in Ukraine
+## Buses
 
 Bus have credit card touch devices.
 
@@ -39,7 +51,7 @@ In Kiev it was easier, just touch card which charged it 8uah (£0.14).
 
 In Lviv I had to select a couple of touch screen options before touching the card. You can change the menu to English.
 
-## Coaches in Ukraine
+## Coaches
 
 Coaches go between Kyiv and Odessa regularly, you can book them via the Omio website:
 
@@ -48,7 +60,7 @@ Coaches go between Kyiv and Odessa regularly, you can book them via the Omio web
 The LikeBus has wifi (password is just 12345678)
 so you can ride in style and watch your favourite show as it is a 6 hour journey.
 
-## Trains in Ukraine
+## Trains
 
 Make sure to book your rail tickets in advance before travelling between cities as they sell out.
 
