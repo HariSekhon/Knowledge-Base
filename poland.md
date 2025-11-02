@@ -1,4 +1,4 @@
-### Poland
+# Poland
 
 One of my favourite countries.
 
@@ -14,7 +14,7 @@ major towns and cities.
 - Parking is often cheap or free after 8pm, which is great for going out to get dinner in the centres.
 - Good cheap Metro
 
-#### Augustów
+## Augustów
 
 Small border town on the way to Lithuania.
 
@@ -22,7 +22,7 @@ Small border town on the way to Lithuania.
 - [Delissa](https://maps.app.goo.gl/Tssmgh6aDC2X5yJN8) - pastry shop
 - [Zygmunt August Market Square](https://maps.app.goo.gl/LJ91uRL6UfbrYPUBA) - the centre of town
 
-#### Bydgoszcz
+## Bydgoszcz
 
 Historic town with lovely centre and plenty of good restaurants.
 
@@ -30,11 +30,11 @@ An excellent stopover choice when driving across Poland.
 
 [Apteka Restauracja & Koktajlbar](https://restauracjaapteka.pl/menu/) is a recommended stop here for dinner and drinks.
 
-#### Częstochowa
+## Częstochowa
 
 Not much there, dead if you're trying to use it for a late night stopover.
 
-#### Gdansk
+## Gdansk
 
 A large port city in the north of Poland.
 
@@ -55,7 +55,7 @@ There was zero border control coming off the ferry from Sweden to Gdansk, which 
 
 - [Slaska 19](https://www.tripadvisor.com/Restaurant_Review-g274725-d13810673-Reviews-Slaska_19-Gdansk_Pomerania_Province_Northern_Poland.html) - good restaurant away from the centre with an affordable weekday lunch menu and good wifi
 
-#### Katowice
+## Katowice
 
 Surprisingly busy city with large central communal areas and nightlife.
 
@@ -63,7 +63,7 @@ Surprisingly busy city with large central communal areas and nightlife.
 - [Alahamora - magiczna kawiarnia](https://alahamora.pl/) - a cafe treat for Harry Potter fans.
   Unfortunately they have no wifi.
 
-#### Krakow
+## Krakow
 
 Tourist hotspot.
 
@@ -88,20 +88,20 @@ TODO:
 - [Pod Aniołami Restaurant](https://maps.app.goo.gl/2HPrdVJFTXq3qoYn8) - 4.5
 - [Miód Malina](https://maps.app.goo.gl/jhHraxVuVfGZExvA9) - 4.5
 
-#### Łódź
+## Łódź
 
 Medium sized city, mall and restaurants, but lacks the historical centre attraction of other Polish cities.
 
 - [Manufaktura](https://maps.app.goo.gl/V1t63UoBryMrEUfK6) - mall, outside there are restaurants in a large pedestrian
   area
 
-#### Nowy Sącz
+## Nowy Sącz
 
 Nice small centre, good for a coffee stopover on road trip between Poland and Slovakia.
 
 - [Sofi Len Cafe](https://www.instagram.com/sofilen_kawiarnia)
 
-#### Poznan
+## Poznan
 
 Historic town with lovely centre and plenty of good restaurants.
 
@@ -109,13 +109,13 @@ My first stopover in Poland when driving from Germany. I was pleasantly surprise
 
 An excellent stopover choice when driving across Poland.
 
-#### Sopot
+## Sopot
 
 The most expensive area in Poland, near Gdansk.
 
 Good beaches, restaurants, and walkways.
 
-#### Warsaw
+## Warsaw
 
 Decent low pressure capital, but expensive already in terms of Airbnbs,
 and in the centre people will be trying to
@@ -126,15 +126,15 @@ One of my colleagues moved back to Warsaw as a contractor.
 Warsaw airport is deserted after 11pm as there were no night flights, it is better than many other airports but it is
 not London Heathrow. This is also a big problem if you miss you transfer flight, as I did on the way to Tbilisi!
 
-##### Metro in Warsaw
+### Metro in Warsaw
 
 The metro is both good and cheap and recommended by locals.
 
-##### Parking in Warsaw
+### Parking in Warsaw
 
 Parking is free in the centre from 8pm, which is convenient for dinner.
 
-##### Restaurants in Warsaw
+### Restaurants in Warsaw
 
 <!--
 
@@ -166,17 +166,17 @@ TODO:
   here without a reservation
 - [Bułkę przez Bibułkę](https://maps.app.goo.gl/StZzWDg2bZofJ2fG7) - breakfast restaurant
 
-#### Wroclaw
+## Wroclaw
 
 Pronounced Vrot-swaaf... not row-claw!
 
-##### Parking in Wroclaw
+### Parking in Wroclaw
 
 Parking in Wroclaw is a problem, the train station costs €12 per day, while the roads are metered parking, and my car
 got towed away for a temporary sign and I got blackmailed by the police and towing company for €120 to get it back!
 (€20 fine, €80 towing charge, 2 x €10 per day storage charge ffs)
 
-##### Restaurants in Wroclaw
+### Restaurants in Wroclaw
 
 - [Pierogarnia Rynek 26](https://maps.app.goo.gl/9GRJGoTSKP2qz7eG7) - the best pierogi I ever had (polish dumplings).
   They've taken something usually commodity and turned it into a delicacy.
