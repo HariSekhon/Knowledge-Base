@@ -1,8 +1,8 @@
-### Bulgaria
+# Bulgaria
 
 Not cheap any more, almost Western prices.
 
-#### Motorway Tolls - Vignettes in Bulgaria
+## Motorway Tolls - Vignettes in Bulgaria
 
 Annoying road tax, but make sure you pay it to avoid more hassles from over bearing government.
 
@@ -15,7 +15,7 @@ Was easy to just book and pay using this app:
 Make sure your [Mobile Internet Access](#mobile-internet-access) is going to work before going to Bulgaria,
 or pay for it in advance online before you arrive.
 
-#### Sofia
+## Sofia
 
 - [Vitosha Boulevard](https://maps.app.goo.gl/8Sug4GPGr2pPUtEJ9) - north of the Google Maps pinpoint is where most of
   the restaurants and shops are
@@ -89,7 +89,7 @@ Recommended by LinkedIn connections:
 - [Pod Metlite](https://maps.app.goo.gl/48Wd44h2rzu4dKgL9)
 - [Banisha Mia Beykeri](https://maps.app.goo.gl/RifNbnkAiKhDjQE7A) - good banica apparently, get there before 9am when it's fresh
 
-#### Veliko Tarnovo
+## Veliko Tarnovo
 
 The historical and cultural capital of Bulgaria.
 
@@ -113,7 +113,7 @@ There are plenty of well rated restaurants here, these are just the ones I tried
   [Upbeat pop music](https://open.spotify.com/playlist/64OO67Be8wOXn6STqHxexr?si=tAH3h23xTvmxjAyDnGZQSA) was playing,
   with some shazam-worthy songs. Amazing 285/155 Mbit/s wifi, password is on the wall
 
-#### Ruse
+## Ruse
 
 My second stopover town in the north of Bulgaria on the way from Sofia to Bucharest.
 
