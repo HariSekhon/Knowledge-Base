@@ -1,5 +1,15 @@
 # Moldova
 
+<!-- INDEX_START -->
+
+- [Moldova Cash](#moldova-cash)
+- [Chisinau](#chisinau)
+  - [Chisinau Taxis](#chisinau-taxis)
+  - [Chisinau Airport Bus](#chisinau-airport-bus)
+  - [Chisinau Restaurants](#chisinau-restaurants)
+
+<!-- INDEX_END -->
+
 I've used Airalo and aloSIM e-sims in Moldova.
 
 ## Moldova Cash
