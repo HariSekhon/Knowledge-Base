@@ -73,7 +73,8 @@ taxi drivers.
 
 There are literally signs on the walls of local accommodations to not use dating apps because they are full of scammers.
 
-If you speak to locals, normal girls from good families do not use dating apps.
+If you speak to locals, normal girls from good families do not use dating apps,
+as it is not a hook up culture but a family dating for marriage culture.
 
 Scammers match and then arrange dates to "coffee" or "juice bars" that turn out to be shisha bars that overcharge
 hundreds of JD through a combination of very expensive drinks, cover charges etc, and then demand payment.
