@@ -14,7 +14,7 @@
   - [Dead Sea Resorts - There Are No Good Public Beaches](#dead-sea-resorts---there-are-no-good-public-beaches)
 - [Petra & Wadi Musa](#petra--wadi-musa)
   - [Travelling to Petra](#travelling-to-petra)
-  - [Petra Attractions](#petra-attractions)
+  - [Attractions in Petra](#attractions-in-petra)
   - [Restaurants in Wadi Musa](#restaurants-in-wadi-musa)
 - [Wadi Rum](#wadi-rum)
   - [Travel & Accommodation in Wadi Rum](#travel--accommodation-in-wadi-rum)
@@ -363,7 +363,7 @@ Select Amman Daily Tours from the drop-down:
 
 Otherwise you'll need a rental car or a very expensive taxi ride. Most people use the Jett bus.
 
-### Petra Attractions
+### Attractions in Petra
 
 **Carry your passport as ID may be requested, especially on the 2nd day if using a multi-day petra jordan pass.**
 
