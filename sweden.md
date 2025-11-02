@@ -1,4 +1,4 @@
-### Sweden
+# Sweden
 
 Ferry from Tallinn in Estonia to Sweden and then another ferry down to Gdanks, Poland, is a way out if your license gets suspended for speeding in Latvia.
 
@@ -9,7 +9,7 @@ Story here:
 
 <https://medium.com/@harisekhon/the-police-attention-you-get-driving-a-drug-dealer-looking-car-through-europe-d38c5919835f>
 
-#### Stockholm
+## Stockholm
 
 The centre of Stockholm is ok for a day or two, probably not more. It's weirdly broken up into small island-like lands,
 and lacks the impressive design and architecture of the central european capitals.
