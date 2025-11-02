@@ -108,7 +108,7 @@ Cities: 162
 
 Country pages with specific tips for each country:
 
-- [Albania](albania.md)
+- [Albania](albania.md) ⭐
 - [Austria](austria.md)
 - [Belgium](belgium.md)
 - [Bosnia](bosnia.md)
@@ -117,7 +117,7 @@ Country pages with specific tips for each country:
 - [Canada](canada.md)
 - [Croatia](croatia.md)
 - [Cyprus](cyprus.md)
-- [Czechia / Czech Republic](czechia.md)
+- [Czechia / Czech Republic](czechia.md) ⭐
 - [Denmark](denmark.md)
 - [Estonia](estonia.md)
 - [France](france.md)
@@ -126,7 +126,7 @@ Country pages with specific tips for each country:
 - [Hungary](hungary.md)
 - [Indonesia](indonesia.md)
 - [Italy](italy.md)
-- [Jordan](jordan.md)
+- [Jordan](jordan.md) ⭐
 - [Laos](laos.md)
 - [Latvia](latvia.md)
 - [Lebanon](lebanon.md)
@@ -138,24 +138,24 @@ Country pages with specific tips for each country:
 - [Netherlands](netherlands.md)
 - [North Macedonia](north-macedonia.md)
 - [Norway](norway.md)
-- [Poland](poland.md)
+- [Poland](poland.md) ⭐
 - [Philippines](philippines.md)
 - [Romania](romania.md)
-- [Serbia](serbia.md)
+- [Serbia](serbia.md) ⭐
 - [Singapore](singapore.md)
 - [Slovakia](slovakia.md)
 - [Slovenia](slovenia.md)
 - [South Africa](south-africa.md)
 - [Sweden](sweden.md)
 - [Taiwan](taiwan.md)
-- [Thailand](thailand.md)
+- [Thailand](thailand.md) ⭐
 - [Tunisia](tunisia.md)
 - [Turkey](turkey.md)
-- [UAE](uae.md)
+- [UAE](uae.md) ⭐
 - [Ukraine](ukraine.md)
 - [United Kingdom](uk.md)
 - [USA](usa.md)
-- [Vietnam](vietnam.md)
+- [Vietnam](vietnam.md) ⭐
 
 ## Booking Sites
 
