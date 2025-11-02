@@ -1,11 +1,11 @@
-### Serbia
+# Serbia
 
 I used the [Airalo](https://www.airalo.com/) e-sim data only for $14 for 5GB valid for 30 days.
 
 On subsequent visits I've used the [Nomad](https://www.getnomad.app/) e-sim
 as it was cheaper - 1GB or 3GB for £3.38 or £6.76, respectively.
 
-#### Indoor Smoking, Outdoor Smoking, Smoking Everywhere in Serbia
+## Indoor Smoking, Outdoor Smoking, Smoking Everywhere in Serbia
 
 It is still legal to smoke indoors in Serbia.
 
@@ -25,7 +25,7 @@ Quite shocking that Serbia permits this.
 
 I've asked the locals about this and they said there are a couple non-smoking venues *"but nobody goes there"*.
 
-#### Taxis in Serbia
+## Taxis in Serbia
 
 - [Car Go](https://appcargo.com/en) - like Uber. Usually the cheapest but wait times seem much longer than advertised, and sometimes it didn't
   find any drivers, so I had to use Yandex Go or Pink Taxi below instead
@@ -34,7 +34,7 @@ I've asked the locals about this and they said there are a couple non-smoking ve
 - Lux Taxi app couldn't even register using my UK mobile number - I got
   [this error](https://www.linkedin.com/posts/harisekhon_imagine-having-a-top-taxi-app-in-belgrade-activity-7242252581597585409-MRlJ) 🤪
 
-#### Driving in Serbia
+## Driving in Serbia
 
 It took over **3 hours** to get through the Hungarian - Serbian border.
 
@@ -58,9 +58,9 @@ My car also broke down - the battery was a right-off after leaving it in storage
 Even buying an overpriced Noco boost charger for £150 (at 40% above UK price) and emptying its charge into it twice
 didn't  work, and nor did jump cabling from a truck.
 
-#### Belgrade
+## Belgrade
 
-##### Buses in Belgrade & Nikola Tesla Airport
+### Buses in Belgrade & Nikola Tesla Airport
 
 Buses became free in Belgrade in 2025!!!
 
@@ -77,7 +77,7 @@ outskirts.
 
 <!--
 
-##### Hostels in Belgrade
+### Hostels in Belgrade
 
 I like:
 
@@ -103,7 +103,7 @@ TODO:
 
 -->
 
-##### Restaurants in Belgrade
+### Restaurants in Belgrade
 
 The capital is reasonable in the center. Overall it is slightly cheaper to dine than other European cities.
 
@@ -349,7 +349,7 @@ TODO:
 - [Nocciola Gelato](https://maps.app.goo.gl/fwy61tQzDr9YHvLd6) - 4.9 ice cream
 - [Palačinkarnica Mlađen](https://maps.app.goo.gl/GT3xFftXbU8wD6Bs7) - 4.9 pancakes
 
-#### Novi Sad
+## Novi Sad
 
 Good central district of restaurants.
 
@@ -361,7 +361,7 @@ Cheaper Airbnbs as 1.5 hour drive from Belgrade.
 - [Loft Downtown](https://maps.app.goo.gl/xQdXBJek5JBX17i49) - very popular cafe & restaurant with outdoor seating
 - [Bistro "Pastai"](https://maps.app.goo.gl/Vro8m7vM3eiKFzKn7) - a local cheap eat pasta place with good juices
 
-#### Nis
+## Nis
 
 Southern city on the way from Belgrade to Sofia, Bulgaria.
 
