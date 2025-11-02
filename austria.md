@@ -1,6 +1,17 @@
 # Austria
 
 <!-- INDEX_START -->
+
+- [Motorway Tolls - e-Vignettes in Austria](#motorway-tolls---e-vignettes-in-austria)
+- [Vienna](#vienna)
+  - [Metro in Vienna](#metro-in-vienna)
+  - [Taxis in Vienna](#taxis-in-vienna)
+  - [Parking in Vienna](#parking-in-vienna)
+  - [Restaurants in Vienna](#restaurants-in-vienna)
+- [Graz](#graz)
+  - [Parking in Graz](#parking-in-graz)
+  - [Restaurants in Graz](#restaurants-in-graz)
+
 <!-- INDEX_END -->
 
 _"There are no kangaroos in Austria"_ 😉
