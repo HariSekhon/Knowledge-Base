@@ -30,6 +30,7 @@ Updated regularly as I travel the world 52 weeks a year.
 
 <!-- INDEX_START -->
 
+- [Countries](#countries)
 - [Booking Sites](#booking-sites)
 - [Flights](#flights)
   - [Flight Booking Sites](#flight-booking-sites)
