@@ -1,5 +1,13 @@
 # United Kingdom
 
+<!-- INDEX_START -->
+
+- [Best Areas in the UK](#best-areas-in-the-uk)
+- [Best Areas in London](#best-areas-in-london)
+- [Best Restaurants in London](#best-restaurants-in-london)
+
+<!-- INDEX_END -->
+
 See [The UK Decline - What I Learnt on UK Tour 2024](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b) article for a tour of pictures of why you will not want to
 visit most of the UK today.
 
