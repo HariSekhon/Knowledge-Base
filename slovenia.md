@@ -1,6 +1,6 @@
-### Slovenia
+# Slovenia
 
-#### Taxis in Slovenia
+## Taxis in Slovenia
 
 - [Bolt](https://bolt.eu/)
 - [Wizi](https://wizi.si/)
@@ -8,7 +8,7 @@
 - [Hopin Taxi](https://www.hopin.si/)
 - [Metro Taxi Ljubljana](https://www.metro.si/)
 
-#### Motorway Tolls - Vignettes in Slovenia
+## Motorway Tolls - Vignettes in Slovenia
 
 You must purchase a vignette for using Slovenia's motorways, you can buy them online here:
 
@@ -16,7 +16,7 @@ You must purchase a vignette for using Slovenia's motorways, you can buy them on
 
 Alternatively you can buy them at the border by taking the other lane for it. Save time, buy it online.
 
-#### Wifi in Slovenia
+## Wifi in Slovenia
 
 Slovenia has surprisingly bad wifi in many places ranging from the hostel to coffee shops and restaurants,
 it is painfully slow and unreliable.
@@ -26,7 +26,7 @@ Do not stay at Hostel Tivoli again, the wifi didn't work a lot of the time.
 If you do stay at Hostel Tivoli,
 walk through the park to the centre, it's a much nicer walk and shaded most of the way by trees.
 
-#### Ljubljana
+## Ljubljana
 
 **No Grocery Store Alcohol after 9pm!**
 
@@ -105,7 +105,7 @@ TODO:
 - [Tink Superfood Poke Bowls](https://maps.app.goo.gl/29KBhEG1eSQVMuyH6)
 - [Oakberry Acai](https://maps.app.goo.gl/XeAicSGEJwfA5VPP6) - usual chain for Acai
 
-#### Bled
+## Bled
 
 A good day trip destination with a large picturesque lake, historic churches, food stall parade, souvenirs and many
 restaurants.
@@ -122,7 +122,7 @@ It's only around 35 minutes from Ljubljana bombing down the motorway by car, but
   with Slovenian cottage cheese rolled dumpling and sautéed potatoes with onions in natural sauce.
   Fast Wifi 453/142 even outside
 
-#### Novo Mesto
+## Novo Mesto
 
 For the 7th biggest city in Slovenia, this is one horse town that was dead on a Sunday afternoon.
 
