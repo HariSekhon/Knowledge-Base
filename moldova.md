@@ -1,16 +1,16 @@
-### Moldova
+# Moldova
 
 I've used Airalo and aloSIM e-sims in Moldova.
 
-#### Moldova Cash
+## Moldova Cash
 
 Some of these less developed countries like Moldova and Morocco demand cash usage (probably to evade taxes).
 
 You'll need to withdraw local currency before you leave the airport.
 
-#### Chisinau
+## Chisinau
 
-##### Chisinau Taxis
+### Chisinau Taxis
 
 Do not use the Airport Taxis.
 
@@ -41,7 +41,7 @@ It's actually not about the money, it's about the insult and dishonesty.
 In many other countries we pay more than this for a taxi, but we agree the price up front and it doesn't double on you
 without consent.
 
-##### Chisinau Airport Bus
+### Chisinau Airport Bus
 
 The first time the airport taxi drivers blatently tried to charge me double what the wall said the rate was
 I ended up taking the Number 30 bus to the centre instead which was easy (again cash only, thanks to a good samaritan
@@ -56,7 +56,7 @@ you might have to pay 12 MDL (€0.60) to include your suitcase (or the price we
 Some European countries like Czechia's Prague metro charges for luggage and the conductor charged me 12 MDL but it was
 such a tiny amount I didn't bother to ask if this was for the luggage.
 
-##### Chisinau Restaurants
+### Chisinau Restaurants
 
 - [La Placinte](https://maps.app.goo.gl/6yVUsipRBWWSfpBp8) - affordable but good quality chain restaurant, there are
   several of them you don't have to go to this location
