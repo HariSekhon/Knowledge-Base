@@ -1,8 +1,8 @@
-### Georgia
+# Georgia
 
 Georgia was too cold by October.
 
-#### Georgia Flights
+## Georgia Flights
 
 Flights in and out of Georgia to the capital Tbilisi are a nightmare as it's hard to get a direct flight.
 They often require stopover transfer flights in Turkey or other countries like Poland.
@@ -15,7 +15,7 @@ I missed my transfer flights both in and out of Tbilisi. This is probably one of
 
 This is how I came up with the [Flights Gotchas section](#flights-gotchas).
 
-#### Taxis in Georgia
+## Taxis in Georgia
 
 Do not use Airport taxis, they are double the price of using the Bolt app.
 
@@ -23,7 +23,7 @@ Do not use Airport taxis, they are double the price of using the Bolt app.
   Airport taxi
 - [Yandex Taxi](https://apps.apple.com/us/app/yandex-go-taxi-food-delivery/id472650686)
 
-#### Tbilisi Airport
+## Tbilisi Airport
 
 Tbilisi Airport wifi sucks.
 
@@ -34,7 +34,7 @@ Except you can't swipe on a laptop and pressing any combination of the right arr
 
 So you can't connect your laptop to the airport wifi, only your phone.
 
-#### Restaurants in Tbilisi
+## Restaurants in Tbilisi
 
 Don't eat too many Khinkali dumplings, that's a lot of pastry, you'll end up getting a Stalin belly
 (the infamous soviet leader Joseph Stalin was Georgian).
