@@ -1,15 +1,15 @@
-### Laos
+# Laos
 
 $40 for a visa on arrival, and long queues.
 Expect to lose the day travelling to Laos even if you're coming from a nearby country like Cambodia.
 
 Luang Prabang is nicer than Vientiane, it's more geared for tourists.
 
-#### Taxis in Laos
+## Taxis in Laos
 
 - [Loca](https://loca.la/) - taxi app
 
-#### Vientiane
+## Vientiane
 
 - [Vientiane Night Market](https://maps.app.goo.gl/m6UCkzUvghCNcHC99) - clothes, personal electronics, cologne, there
   are streetfood restaurant huts opposite by the water fountains,
@@ -54,7 +54,7 @@ Luang Prabang is nicer than Vientiane, it's more geared for tourists.
 - [Naga Mall Vientiane](https://maps.app.goo.gl/eYW8sxmcnBivniAy9) - better than the
   [Vientiane Center Lao](https://maps.app.goo.gl/p4RuTRkuZ7HtMJes6)
 
-#### High Speed Rail Between Vientiane and Luang Prabang
+## High Speed Rail Between Vientiane and Luang Prabang
 
 This fast modern train gets you between these towns in only 2 hours, and it's a smooth ride.
 
@@ -69,7 +69,7 @@ if Vientiane has such a thing - about 30 mins by taxi.
 Similarly, you'll need a taxi to / from the [Luang Prabang Railway Station](https://maps.app.goo.gl/xRL7bo2vSQeiXqzb8),
 which takes just over 20 minutes.
 
-#### Luang Prabang
+## Luang Prabang
 
 Much more touristy than Vientiane, and more internationally priced except for the Night Market.
 
