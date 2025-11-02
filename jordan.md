@@ -1,5 +1,29 @@
 # Jordan
 
+<!-- INDEX_START -->
+
+- [Jordan Visa & Jordan Pass](#jordan-visa--jordan-pass)
+- [Cash & "Visa" in Jordan](#cash--visa-in-jordan)
+- [Jordan Taxi Apps](#jordan-taxi-apps)
+- [Beware Dating Apps Are Full of Scammers in Jordan](#beware-dating-apps-are-full-of-scammers-in-jordan)
+- [Amman](#amman)
+  - [Bus from Airport to Amman](#bus-from-airport-to-amman)
+  - [Restaurants in Amman](#restaurants-in-amman)
+- [The Dead Sea](#the-dead-sea)
+  - [Travelling to the Dead Sea](#travelling-to-the-dead-sea)
+  - [Dead Sea Resorts - There Are No Good Public Beaches](#dead-sea-resorts---there-are-no-good-public-beaches)
+- [Petra & Wadi Musa](#petra--wadi-musa)
+  - [Travelling to Petra](#travelling-to-petra)
+  - [Petra Attractions](#petra-attractions)
+  - [Restaurants in Wadi Musa](#restaurants-in-wadi-musa)
+- [Wadi Rum](#wadi-rum)
+  - [Travel & Accommodation in Wadi Rum](#travel--accommodation-in-wadi-rum)
+  - [Attractions in Wadi Rum Desert](#attractions-in-wadi-rum-desert)
+  - [Wadi Rum Village](#wadi-rum-village)
+- [Aqaba](#aqaba)
+
+<!-- INDEX_END -->
+
 I've used Saily and aloSim apps for e-sims in Jordan.
 The Airalo 3GB one is only 3 days, not 7 days like with the other providers, so watch out that one is too short.
 
