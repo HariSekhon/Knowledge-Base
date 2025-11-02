@@ -1,10 +1,10 @@
-### Latvia
+# Latvia
 
 The sour cabbage soup in a bread bowl is the local speciality.
 
 See the [Do Not Speed](#do-not-speed) section.
 
-#### Riga
+## Riga
 
 Riga, the capital, is nice for a visit for perhaps 2 days.
 
