@@ -1,4 +1,4 @@
-### Tunisia
+# Tunisia
 
 This is really a 3rd world country.
 
@@ -28,7 +28,7 @@ showing the existing container, only for several pharmacists to give sweeteners 
 
 I used the Saily eSim in Tunisia after my Airalo failed to activate.
 
-#### Tunis-Carthage Airport
+## Tunis-Carthage Airport
 
 This airport is incredibly slow for passport control.
 
@@ -41,7 +41,7 @@ As of 2025 the toilets are very 3rd world, there aren't even toilet seats or toi
 cubicles.
 Airplane toilets are luxury by comparison. You are advised to plan to go to the toilet elsewhere.
 
-#### Taxis in Tunisia
+## Taxis in Tunisia
 
 The taxi drivers will rip you off worse than most countries.
 
@@ -57,18 +57,18 @@ as we were warned by locals.
   Often the InDrive amount is actually more than the meter in the taxi would have charged, but that's assuming the taxi
   driver hasn't set the wrong rate to overcharge you, so it's safer to just have the price capped and agreed up front
 
-#### Minibuses in Tunisia (Louage)
+## Minibuses in Tunisia (Louage)
 
 Take a louage (pronounced loo-ah-zh) minibus instead for like 1-2 dinars instead of 20 - 70 dinars for a taxi,
 which is extremely expensive by local standards of earnings.
 
-#### Travelling from Sousse to Tunis
+## Travelling from Sousse to Tunis
 
 To get to Tunis from Sousse we had to first louage into Sousse, then taxi to
 [Louage Station Taffala Sousse](https://maps.app.goo.gl/RAKTuw8RFL4AFYRS7) (using InDrive app above), and then
 take a minibus with a red strip for 14 dinars each, plus a few dinars for luggage, which takes around 2 hours.
 
-#### Tunis
+## Tunis
 
 Tunis is probably one of the most undeveloped capitals you'll see, really not a tourist destination.
 
@@ -157,7 +157,7 @@ TODO:
 - [Sidi Bou Said Park](https://maps.app.goo.gl/b8ajAuDoKf57EMJKA)
 - [Westwood fastfood](https://maps.app.goo.gl/Bk5Uh1PAHHNPjA5m9) - 4.5
 
-#### Sousse
+## Sousse
 
 You probably don't need more than a day for Sousse, perhaps 2 days if you want to be thorough.
 
@@ -190,7 +190,7 @@ TODO:
 - [Restaurant café Dar Amna](https://maps.app.goo.gl/LjgFpA4PSUjjdq5J8)
 - [Mall of Sousse](https://maps.app.goo.gl/yNnqKj7ynbZEuAQf7)
 
-#### Hammam Sousse
+## Hammam Sousse
 
 Medium sized coastal town - the Kantaoui area is where people come for nightlife,
 but if you've got international standards, you can safely skip this town.
@@ -203,7 +203,7 @@ but if you've got international standards, you can safely skip this town.
   don't bother, overpriced nightclub at 40 dinars entry per person (€12) - which is outrageous by local standards -
   and it's all guys who go there
 
-#### Hergla
+## Hergla
 
 Small quiet one-donkey seaside town, the beach line isn't developed though and the restaurants are closed by 9-10pm.
 
