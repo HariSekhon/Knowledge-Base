@@ -21,6 +21,7 @@
   - [Attractions in Wadi Rum Desert](#attractions-in-wadi-rum-desert)
   - [Wadi Rum Village](#wadi-rum-village)
 - [Aqaba](#aqaba)
+  - [Travel to Aqaba](#travel-to-aqaba)
   - [Attractions in Aqaba](#attractions-in-aqaba)
   - [Restaurants in Aqaba](#restaurants-in-aqaba)
 
@@ -541,6 +542,12 @@ You can get to Aqaba either via plane since it has an airport, or just a Jett bu
 The Extra Traveller hostel was nice, good facility and the owner is super friendly and accommodating.
 
 -->
+
+### Travel to Aqaba
+
+You can get to Aqaba by plane as there is a local airport, or by Jett bus from Amman:
+
+<https://www.jett.com.jo/>
 
 ### Attractions in Aqaba
 
