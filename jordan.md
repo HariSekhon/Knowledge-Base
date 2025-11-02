@@ -586,7 +586,7 @@ You can get to Aqaba by plane as there is a local airport, or by Jett bus from A
     I told them the next day they need to put more pineapple for sweetness instead of lemon which made it too sour.
     The "cocktails" are non-alcoholic but with vanilla ice cream scoop!
     Has wifi
-- [Aurjwan Cafe & Restaurant](for 6.25 JD) - good menu and moderate prices,
+- [Aurjwan Cafe & Restaurant](https://maps.app.goo.gl/zPZ1xEhVMkxPa7Xm7) - good menu and moderate prices,
   in a well air conditioned cafe lounge with indoor and outdoor seating, 5 big screen TVs on 3 of the walls playing
   football.
   The outdoor seating is covered during the day time as it's too hot and not shaded.
