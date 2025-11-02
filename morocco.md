@@ -1,4 +1,4 @@
-### Morocco
+# Morocco
 
 The menus are in French!
 
@@ -28,7 +28,7 @@ via the high tax and inflationary money printing feminist-socialist welfare stat
 I prefer the Moroccan system here as this situation implies more consent for men (you can safely ignore them),
 but actually the Moroccan tax rates are still far too high (of course they are, they have universal suffrage).
 
-#### Taxis in Morocco
+## Taxis in Morocco
 
 - [InDrive](https://indrive.com/en-ma) - cheaper and good taxi app, you can pre-agree the fee up front
   (still have to pay cash not in app)
@@ -40,7 +40,7 @@ but actually the Moroccan tax rates are still far too high (of course they are, 
     guarantee of any driver in the area without me bidding a price which could be lower
   - The Airport Taxis are thieves, and they also even insist on cash
 
-#### Tangiers
+## Tangiers
 
 Beach city in northern Morocco.
 
