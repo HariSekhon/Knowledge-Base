@@ -1,5 +1,22 @@
 # UAE
 
+<!-- INDEX_START -->
+
+- [Driving in UAE](#driving-in-uae)
+- [Abu Dhabi](#abu-dhabi)
+  - [Restaurants in Abu Dhabi](#restaurants-in-abu-dhabi)
+- [Dubai](#dubai)
+  - [Metro in Dubai](#metro-in-dubai)
+  - [Taxis in Dubai](#taxis-in-dubai)
+  - [Parking in Dubai](#parking-in-dubai)
+  - [Weather in Dubai](#weather-in-dubai)
+  - [Attractions in Dubai](#attractions-in-dubai)
+  - [Restaurants in Dubai](#restaurants-in-dubai)
+  - [Visas for Dubai](#visas-for-dubai)
+  - [Banking in Dubai](#banking-in-dubai)
+
+<!-- INDEX_END -->
+
 The United Arab Emirates is one of the most civilized and safe societies I have ever seen.
 
 It is one of my favourite countries in the world, but is best suited to very successful people due to the high cost of
