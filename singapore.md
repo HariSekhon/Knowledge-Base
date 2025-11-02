@@ -1,4 +1,4 @@
-### Singapore
+# Singapore
 
 This city state is one of the most developed places in Asia and one of the most expensive cities in the world.
 
