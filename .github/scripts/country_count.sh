@@ -152,27 +152,27 @@ fi
 exit 0
 ##################################################
 # No longer used since splitting to multiple pages
-
-timestamp "Parsing Countries from $travel_md"
-countries="$(sed -n '/## Countries/,$p' "$travel_md" | grep '^###[[:space:]]')"
-
-timestamp "Counting Countries from $travel_md"
-countries="$(sed -n '/## Countries/,$p' "$travel_md" | grep '^###[[:space:]]')"
-num_countries="$(wc -l <<< "$countries" | sed 's/[[:space:]]*//g')"
-
-timestamp "Parsing country counter in $travel_md"
-num_countries_in_markdown="$(awk '/^Countries:[[:space:]]*[[:digit:]]+$/ {print $2}' "$travel_md")"
-
-if ! is_int "$num_countries_in_markdown"; then
-    die "FAILED to parse country count from $travel_md"
-fi
-
-if [ "$num_countries_in_markdown" = "$num_countries" ]; then
-    timestamp "Country count $num_countries is already up to date"
-else
-    timestamp "Updating country count from $num_countries_in_markdown to $num_countries"
-    sed -i "
-        s/^\(Countries:\)[[:space:]]*[[:digit:]][[:digit:]]*[[:space:]]*$/\\1 $num_countries/;
-        s|\(Total%20Countries-\)[[:digit:]]*|\\1$num_countries|;
-    " "$travel_md"
-fi
+#
+#timestamp "Parsing Countries from $travel_md"
+#countries="$(sed -n '/## Countries/,$p' "$travel_md" | grep '^###[[:space:]]')"
+#
+#timestamp "Counting Countries from $travel_md"
+#countries="$(sed -n '/## Countries/,$p' "$travel_md" | grep '^###[[:space:]]')"
+#num_countries="$(wc -l <<< "$countries" | sed 's/[[:space:]]*//g')"
+#
+#timestamp "Parsing country counter in $travel_md"
+#num_countries_in_markdown="$(awk '/^Countries:[[:space:]]*[[:digit:]]+$/ {print $2}' "$travel_md")"
+#
+#if ! is_int "$num_countries_in_markdown"; then
+#    die "FAILED to parse country count from $travel_md"
+#fi
+#
+#if [ "$num_countries_in_markdown" = "$num_countries" ]; then
+#    timestamp "Country count $num_countries is already up to date"
+#else
+#    timestamp "Updating country count from $num_countries_in_markdown to $num_countries"
+#    sed -i "
+#        s/^\(Countries:\)[[:space:]]*[[:digit:]][[:digit:]]*[[:space:]]*$/\\1 $num_countries/;
+#        s|\(Total%20Countries-\)[[:digit:]]*|\\1$num_countries|;
+#    " "$travel_md"
+#fi
