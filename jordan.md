@@ -80,9 +80,12 @@ hundreds of JD through a combination of very expensive drinks, cover charges etc
 
 I met a german guy who fell for one such scam and ended up losing 550 JD (€666).
 To put this into context, in Jordan you can eat street food for 1 JD or have a steak in a high end hotel restaurant for
-15 JD.
-He said he met her on Bumble, and that after running up an unexpectedly huge bill two guys from the establishment,
-which was not even on Google Maps (for obvious reasons in hindsight)... took him to the ATM to enforce payment.
+15 JD - so this sort of charge is outrageous - you couldn't rack this up even at 5 star hotel restaurants.
+He said he met her on Bumble, and that after running up an unexpectedly huge bill, two guys from the establishment
+escorted him to the ATM to enforce payment in cash.
+The bar was also not even on Google Maps
+(for obvious reasons in hindsight as people would give it 1 star scam reviews
+and then subsequent people would not enter it).
 
 ## Amman
 
