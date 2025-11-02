@@ -1,5 +1,14 @@
 # Bulgaria
 
+<!-- INDEX_START -->
+
+- [Motorway Tolls - Vignettes in Bulgaria](#motorway-tolls---vignettes-in-bulgaria)
+- [Sofia](#sofia)
+- [Veliko Tarnovo](#veliko-tarnovo)
+- [Ruse](#ruse)
+
+<!-- INDEX_END -->
+
 Not cheap any more, almost Western prices.
 
 ## Motorway Tolls - Vignettes in Bulgaria
