@@ -1,11 +1,11 @@
-### Jordan
+# Jordan
 
 I've used Saily and aloSim apps for e-sims in Jordan.
 The Airalo 3GB one is only 3 days, not 7 days like with the other providers, so watch out that one is too short.
 
 The plugs are UK (type "G") plugs, but take a travel adapter just in case there are a variety of plugs.
 
-#### Jordan Visa & Jordan Pass
+## Jordan Visa & Jordan Pass
 
 **Buy a Jordan Pass before you enter Jordan to avoid the visa entry fee**
 
@@ -23,14 +23,14 @@ Petra.
 Carry your passport with you as ID may be requested upon entry to sites,
 especially at Petra if using the multi-day petra pass.
 
-#### Cash & "Visa" in Jordan
+## Cash & "Visa" in Jordan
 
 Although many places do accept cards, quite a few don't so you will need to withdraw cash from an ATM otherwise you
 will likely be caught out at some point.
 
 Locals tend to say "Visa" when they mean card payment, your Mastercard will work fine too.
 
-#### Jordan Taxi Apps
+## Jordan Taxi Apps
 
 - [Uber](https://www.uber.com/jo/en/) - reliable and more accurately priced than Careem, at least in Jordan in my
   experience
@@ -42,7 +42,7 @@ Locals tend to say "Visa" when they mean card payment, your Mastercard will work
 Unfortunately these aren't allowed to operate in Aqaba or Petra / Wadi Musa so there you'd have to haggle with the local
 taxi drivers.
 
-#### Beware Dating Apps Are Full of Scammers in Jordan
+## Beware Dating Apps Are Full of Scammers in Jordan
 
 Scammers litter the dating apps in Jordan.
 They arrange dates to shisha bars that overcharge hundreds and then demand payment.
@@ -52,7 +52,7 @@ To put this into context, in Jordan you can eat street food for 1 JD or have a s
 15 JD.
 He said he met her on Bumble, but local hotels and hostels warn that this is common on dating apps.
 
-#### Amman
+## Amman
 
 The capital of Jordan.
 
@@ -75,7 +75,7 @@ The roads are also surprisingly dirty (that black dust as opposed to litter) sim
 
 Overall, you don't need more than 2-3 nights in Amman.
 
-##### Bus from Airport to Amman
+### Bus from Airport to Amman
 
 The airport is quite a long way outside Amman - it's a 40 minute drive.
 
@@ -97,7 +97,7 @@ bend round as the nearest pickup point is there in front of a restaurant down th
 calling the taxi on Careem as you don't want the driver to lose patience and cancel the ride as happened with my first
 taxi while I figured how to get down there.
 
-##### Restaurants in Amman
+### Restaurants in Amman
 
 <!--
 
@@ -254,13 +254,13 @@ Not recommended:
 - [Acai Time](https://maps.app.goo.gl/hZ5btqgxR9EE84LG9) at Abdali Boulevard - the Acai was too sweet, I didn't finish
   it. Should have gone to Pinkberry opposite instead to get a frozen yoghurt instead
 
-#### The Dead Sea
+## The Dead Sea
 
 You really cannot swim in the Dead Sea - you just float around and paddle a little, ideally on your back.
 Being ultra-floating actually makes it hard to stay standing as your ultra-buoyancy quickly upends you on to your back,
 and there is a trick to being able to right yourself to standing (a big backstroke flap while planting your feet).
 
-##### Travelling to the Dead Sea
+### Travelling to the Dead Sea
 
 - rental car
 - taxi
@@ -270,7 +270,7 @@ and there is a trick to being able to right yourself to standing (a big backstro
   This is how the locals trvel and will save you about 25JD on taxi.
   You can then take a taxi from the drop off point in Al Rama to a Dead Sea resort
 
-##### Dead Sea Resorts - There Are No Good Public Beaches
+### Dead Sea Resorts - There Are No Good Public Beaches
 
 **Do not waste your time on the _"public beaches"_, they look like a wasteland with no facilities and no tourists, just
 locals trying to scam you**
@@ -299,7 +299,7 @@ Not Recommended:
 - [Family's Beach](https://maps.app.goo.gl/4SKnoFsrZsZCzsUU9) - looked permanently closed and abandoned
 - Any of the _"public beaches"_ - see note above
 
-#### Petra & Wadi Musa
+## Petra & Wadi Musa
 
 <!--
 
@@ -324,7 +324,7 @@ Pass which can cover 1, 2 or 3 consecutive days for negligible increase in price
 
 **Carry your passport as ID may be requested, especially on the 2nd day if using a multi-day petra jordan pass.**
 
-##### Travelling to Petra
+### Travelling to Petra
 
 There is a Jett bus from Amman but which leaves at 6:30am daily, and a counterpart bus back to Amman that leaves Peta at
 5pm, which is not enough time so you'll probably want a one night stopover in Wadi Musa.
@@ -336,7 +336,7 @@ Select Amman Daily Tours from the drop-down:
 
 Otherwise you'll need a rental car or a very expensive taxi ride. Most people use the Jett bus.
 
-##### Petra Attractions
+### Petra Attractions
 
 **Carry your passport as ID may be requested, especially on the 2nd day if using a multi-day petra jordan pass.**
 
@@ -369,7 +369,7 @@ Optional:
 - [High Place of Sacrifice](https://maps.app.goo.gl/iQyGox7D3ib6AXG6A) - a lot of effort to go up this mountain, not
   sure it's worth it
 
-##### Restaurants in Wadi Musa
+### Restaurants in Wadi Musa
 
 The nearby town Wadi Musa itself is quite small,
 and the restaurants on
@@ -421,7 +421,7 @@ TODO:
 - [Jordan Heritage Restaurant Petra](https://maps.app.goo.gl/7bAPpgwvB7WwemX4A)
 - [Reem Beladi Restaurant](https://maps.app.goo.gl/HoVAPZrYjSQ3JFkL6)
 
-#### Wadi Rum
+## Wadi Rum
 
 Red-rock desert protected area, used to film Lawrence of Arabia and The Martian.
 
@@ -438,7 +438,7 @@ cool box full of small water bottles.
 
 **Make sure you take trainers with good grips as climbing the bridge will be dangerous otherwise.**
 
-##### Travel & Accommodation in Wadi Rum
+### Travel & Accommodation in Wadi Rum
 
 - Jett bus from Aqaba:
 
@@ -468,7 +468,7 @@ It's ideal to go for 2 nights, arrive the night before, do a full day jeep tour 
 then stay overnight again before leaving so that you are resting properly instead of travelling to / from Wadi Rum on
 the same day as the full jeep tour which is more tiring.
 
-##### Attractions in Wadi Rum Desert
+### Attractions in Wadi Rum Desert
 
 - [Big Red Sand Dune](https://maps.app.goo.gl/5mAANbaXFk7vWodY8)
 - [Little Bridge](https://maps.app.goo.gl/Pu4r74aK1GWc9rHC7) - careful with this climb, bring trainers with good grip
@@ -479,7 +479,7 @@ the same day as the full jeep tour which is more tiring.
 - [Umm Rashid Canyon](https://maps.app.goo.gl/RrDESoaU6UxRdeRo7)
 - [Abu Khasaba Canyon](https://maps.app.goo.gl/Jx448ADKvH6f8X9D6)
 
-##### Wadi Rum Village
+### Wadi Rum Village
 
 [Wadi Rum Village](https://maps.app.goo.gl/aG3DosxCrydMmgeNA) is a small community of buildings.
 
@@ -499,7 +499,7 @@ TODO:
   not sure if permanently closed down
 - [Falafel Restaurant](https://maps.app.goo.gl/54DiPSr4hBUM8SPG7) - not open at 3pm Monday
 
-#### Aqaba
+## Aqaba
 
 City on the Red Sea, known for snorkelling and scuba diving.
 
