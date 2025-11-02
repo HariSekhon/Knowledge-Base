@@ -1,4 +1,4 @@
-### USA
+# USA
 
 You will get finger printed entering the country.
 
@@ -6,7 +6,7 @@ I've worked up and down that Los Angeles part...
 
 ![How Rest of World Sees USA](images/how_rest_of_world_sees_usa.jpeg)
 
-#### California
+## California
 
 California, the once golden place is not what it used to be after doubling its population from mass immigration.
 
@@ -26,11 +26,11 @@ The _"animal fries"_ covered in fried onions and gravy was too much even for me 
 - [San Diego](#san-diego)
 - [San Francisco](#san-francisco)
 
-##### Irvine
+### Irvine
 
 A nicer more suburban manufactured city than LA, with decent shops and restaurants.
 
-##### Los Angeles
+### Los Angeles
 
 A giant square grid of blocks. From the plane it looks like The Matrix.
 
@@ -52,7 +52,7 @@ Looks like they now have a couple branches in Vegas and one in Phoenix, Arizona 
 [Crustacean](https://crustaceanbh.com/menu/) in Beverley Hills is a good upmarket seafood restaurant with fish in the
 see-through floor as you enter. Impressive. Recommended if you want something a bit more upmarket.
 
-##### Palo Alto
+### Palo Alto
 
 A tech hub town with serious tech millionaire money, as evidenced by things like the McLaren showroom.
 
@@ -62,13 +62,13 @@ Infinity Q37.
 
 Quite nice area, if you can afford it.
 
-##### San Diego
+### San Diego
 
 A somewhat more chill city than Los Angeles and San Francisco.
 
 Restaurants were not that cheap though.
 
-##### San Francisco
+### San Francisco
 
 Too expensive for even most of my engineer colleagues at Cloudera to live in.
 
