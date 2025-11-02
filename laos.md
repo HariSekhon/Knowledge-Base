@@ -1,5 +1,14 @@
 # Laos
 
+<!-- INDEX_START -->
+
+- [Taxis in Laos](#taxis-in-laos)
+- [Vientiane](#vientiane)
+- [High Speed Rail Between Vientiane and Luang Prabang](#high-speed-rail-between-vientiane-and-luang-prabang)
+- [Luang Prabang](#luang-prabang)
+
+<!-- INDEX_END -->
+
 $40 for a visa on arrival, and long queues.
 Expect to lose the day travelling to Laos even if you're coming from a nearby country like Cambodia.
 
