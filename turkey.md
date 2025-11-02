@@ -1,10 +1,10 @@
-### Turkey
+# Turkey
 
 Inflation and rent prices make this not a good value for money destination.
 
 Expensive restaurants and there are only so many times you can eat kebab / mixed grill / dips.
 
-#### Antalya Airport
+## Antalya Airport
 
 I had a stop over and missed my connecting flight due to a 2 hour delay by the first flight.
 
@@ -17,7 +17,7 @@ This was the worst wifi experience I ever remember, even worse than Istanbul and
 The wifi was so terrible that after an hour of struggling to use it I ended up paying €6 for the
 _"High Speed Internet"_, which was also unusable and kept cutting out.
 
-#### Istanbul
+## Istanbul
 
 Istanbul is one big tourist trap.
 
@@ -26,7 +26,7 @@ I am shocked how expensive Istanbul is, triply so arriving from Morocco.
 Everybody seems to be out to overcharge you or cheat you as you will see in both the taxis and restaurants sections
 below:
 
-##### Taxis in Istanbul
+### Taxis in Istanbul
 
 Taxi drivers are terrible for trying to scam tourists in Istanbul.
 
@@ -50,7 +50,7 @@ charges but they never responded.
 
 This pretty much sums up the experience in Turkey.
 
-##### Restaurants in Istanbul
+### Restaurants in Istanbul
 
 Restaurants will often cost £30 per head without alcohol for mediocre food that would be cheaper even in the UK.
 
