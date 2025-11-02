@@ -1,6 +1,6 @@
-### North Macedonia
+# North Macedonia
 
-#### Driving in North Macedonia
+## Driving in North Macedonia
 
 It took **3 hours** to get through the Albanian - Macedonian border.
 
@@ -28,7 +28,7 @@ I got hit with 3 or 4 of them between Ohrid and Skopje,
 but they're more of a stopping inconvenience than a substantial cost compared to Poland where you can pay an outrageous
 €10 for a single toll crossing or some other European countries where you can pay €10-20 for an online pass.
 
-#### Skopje
+## Skopje
 
 [Skopje](https://maps.app.goo.gl/HsirTdkXtsbqHKRg7) (pro-nounced Sko-pyeh) is the capital of North Macedona, in the
 north of the country near the Serbian and Kosovan borders.
@@ -101,7 +101,7 @@ TODO:
 - [Amigos - Železnička](https://maps.app.goo.gl/eiHmoeQMr9J9gzhi7)
 - [Salud](https://maps.app.goo.gl/RJZXTyimuHKRAaji6)
 
-#### Ohrid
+## Ohrid
 
 TODO: after being stuck at the border for 3 hours I ran out of time to stop here.
 
