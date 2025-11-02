@@ -1,4 +1,4 @@
-### Malaysia
+# Malaysia
 
 This former British colony has good English and like [UAE](#uae) even English three socket plugs.
 
@@ -6,16 +6,16 @@ April - July is best as the weather is cooler for outdoor travel.
 
 Avoid December - February due to heavy rains.
 
-#### Taxis in Malaysia
+## Taxis in Malaysia
 
 Take the train to Kuala Lumpur before midnight otherwise you will get
 price gauged on taxis as Grab had no drivers left available.
 
 - [Grab](https://www.grab.com/) - the main taxi app in Kuala Lumpur, has its own area opposite the airport entrance
 
-#### Kuala Lumpur
+## Kuala Lumpur
 
-##### Bukit Bintag
+### Bukit Bintag
 
 [Bukit Bintang](https://maps.app.goo.gl/Y96hjBXuxg9XaC216) is the best area to stay overall, with lots of restaurants,
 the [Jalan Alor Food Street](https://maps.app.goo.gl/rqoK5MNxcRCR2oh8A) night market,
@@ -60,7 +60,7 @@ and affordable hotels.
 - [Kafe Dolce](https://maps.app.goo.gl/jkjp614kAKS32Mjs6) - coffee shop with toasties outside the Lalaport mall near the
   link bridge. Fast 37/27Mbit wifi
 
-##### Chinatown
+### Chinatown
 
 [Chinatown](https://maps.app.goo.gl/9JuMioce8MazLrfE6) is the best area in Kuala Lumpur for budget travelers,
 the opposite of Bangkok.
