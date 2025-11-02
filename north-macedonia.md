@@ -1,5 +1,13 @@
 # North Macedonia
 
+<!-- INDEX_START -->
+
+- [Driving in North Macedonia](#driving-in-north-macedonia)
+- [Skopje](#skopje)
+- [Ohrid](#ohrid)
+
+<!-- INDEX_END -->
+
 ## Driving in North Macedonia
 
 It took **3 hours** to get through the Albanian - Macedonian border.
