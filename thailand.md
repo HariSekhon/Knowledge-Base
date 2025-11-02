@@ -1,4 +1,4 @@
-### Thailand
+# Thailand
 
 A fast life strategy place. Lots of tattoos and marijuana coffee shops.
 
@@ -10,7 +10,7 @@ bars & nightclubs, and accommodates every vice one can think of... 🙈
 [ThailandRedcat.com](https://www.thailandredcat.com/) - excellent blog on all things Thailand for expats eg. best
 beaches, islands, nightlife, clubs etc.
 
-#### ATMs in Thailand - Cash is Needed
+## ATMs in Thailand - Cash is Needed
 
 You will need cash, big time. Thailand is cheap but lots of places do not take cards.
 
@@ -19,7 +19,7 @@ so you may as well withdraw a larger sum so you get conned by them less often.
 
 If they offer a conversion fee, decline, your bank may change you 3% but ATMs conversion fees are way higher.
 
-#### Mobile Internet in Thailand
+## Mobile Internet in Thailand
 
 I used True5G which has kiosks all over the airport.
 
@@ -28,13 +28,13 @@ You can get 30 days for around £27 or 180 days for around £30.
 It works out slightly more expensive than Airalo but the latter one is the best price for such long durations
 and even beat my usual Airalo which is better for short term.
 
-#### Taxis in Thailand
+## Taxis in Thailand
 
 If you haven't already set up your card to prepay on the Grab app, you'll need cash.
 
 - [Grab](https://www.grab.com/) - taxi app
 
-#### Food in Thailand
+## Food in Thailand
 
 Thai food is great - Pad Thai, Pad Ka Prow
 (more commonly called Chilli Holy & Basil in Thailand for some reason even though abroad they use its actual name -
@@ -46,7 +46,7 @@ If you ask for one without sugar you'll realize it tastes of nothing because it'
 You're just drinking overpriced sugar water with a little fruit for colour.
 If you ask for one which is actually juice, they will ask for double the price. :roll_eyes:
 
-#### Bangkok
+## Bangkok
 
 [Khao San road](https://maps.app.goo.gl/DQifXctJYKgqZ5b88) is the place to be.
 
@@ -62,7 +62,7 @@ but mostly shuts down by midnight, and I found the hotel to be expensive at £50
 [Khao San road](https://maps.app.goo.gl/DQifXctJYKgqZ5b88) is best for travellers on a budget as it has more affordable
 hotels.
 
-##### Food in Bangkok
+### Food in Bangkok
 
 Mostly eat street food, it's way cheaper than restaurants which charge multiple times the prices.
 
@@ -70,7 +70,7 @@ Mostly eat street food, it's way cheaper than restaurants which charge multiple 
   good, fries were a small portion though. This is expensive for local standards at £8 for a burger and fries, that's
   4x what you can eat street for for
 
-#### Phuket
+## Phuket
 
 This is the place to go in Thailand.
 
@@ -81,7 +81,7 @@ I am never going back to the West after this.
 
 You will need to fly to Phuket, even within Thailand.
 
-##### Patong Beach
+### Patong Beach
 
 Party central. Most people go here first.
 
@@ -120,7 +120,7 @@ Party central. Most people go here first.
   It's full of foreigners because £50 for a ticket is outrageous by local standards and one of the things you'll spend
   the most money on in Thailand
 
-##### Kata Beach
+### Kata Beach
 
 Peaceful beach with a night market with good food, fresh fruits and drinks.
 
@@ -137,7 +137,7 @@ Mostly Russian tourists.
   - there is a bunch of bars next to it too if you prefer but I think this is one of the better ones in terms of
     location and setup
 
-##### Karon Beach
+### Karon Beach
 
 Busier bars than Kata, and similarly Russian tourists.
 
@@ -153,20 +153,20 @@ Busier bars than Kata, and similarly Russian tourists.
 - [Wat Karon](https://maps.app.goo.gl/ghAkJ9oThPRi92X28) - Tue / Friday bi-weekly market of clothes and foods -
   time catching this it's great
 
-#### Pattaya
+## Pattaya
 
 Beach town that is virtually a brothel. Do not go.
 
 But if you insist...
 
-##### Travel Between Bangkok and Pattaya
+### Travel Between Bangkok and Pattaya
 
 Getting to Pattaya from Bangkok will cost you 1500-2000BHT
 or you can just taxi to the bus station for 100-20BHT and then take a coach for 131 BHT,
 but annoyingly they'll charge you an extra 40BHT for a large suitcase, and 20BHT for a small hand luggage sized suitcase
 at boarding time.
 
-##### Restaurants, Bars & Clubs in Pattaya
+### Restaurants, Bars & Clubs in Pattaya
 
 - [Tree Town Night Market](https://maps.app.goo.gl/aG5Si6wkohWUEqtp9) - best street food place in Pattaya, good prices,
   my usual lunch stop, it's not only for nights
