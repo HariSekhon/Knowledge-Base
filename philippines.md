@@ -1,4 +1,4 @@
-### Philippines
+# Philippines
 
 It's been too long since I've been to remember any particular restaurants,
 but the restaurants I went to catered to mainly rich foreigners and were often empty.
@@ -13,7 +13,7 @@ many men known as *"Passport Bros"* go to find something more resembling wives t
 
 There are a lot of missing signs, apparently because locals take them down and melt them for the metal to get money.
 
-#### Manilla
+## Manilla
 
 In the capital, the malls were relatively sparse since a lot of the poorer locals were kept out by security.
 
