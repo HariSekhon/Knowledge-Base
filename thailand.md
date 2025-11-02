@@ -1,5 +1,23 @@
 # Thailand
 
+<!-- INDEX_START -->
+
+- [ATMs in Thailand - Cash is Needed](#atms-in-thailand---cash-is-needed)
+- [Mobile Internet in Thailand](#mobile-internet-in-thailand)
+- [Taxis in Thailand](#taxis-in-thailand)
+- [Food in Thailand](#food-in-thailand)
+- [Bangkok](#bangkok)
+  - [Food in Bangkok](#food-in-bangkok)
+- [Phuket](#phuket)
+  - [Patong Beach](#patong-beach)
+  - [Kata Beach](#kata-beach)
+  - [Karon Beach](#karon-beach)
+- [Pattaya](#pattaya)
+  - [Travel Between Bangkok and Pattaya](#travel-between-bangkok-and-pattaya)
+  - [Restaurants, Bars & Clubs in Pattaya](#restaurants-bars--clubs-in-pattaya)
+
+<!-- INDEX_END -->
+
 A fast life strategy place. Lots of tattoos and marijuana coffee shops.
 
 Has pretty much everything - great food, weather, beaches, affordability,
