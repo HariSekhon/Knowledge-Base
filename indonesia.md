@@ -1,11 +1,11 @@
-### Indonesia
+# Indonesia
 
 - [Bali](#bali)
 - [Canguu](#canguu)
 - [Kuta](#kuta)
 - [Seminyak](#seminyak)
 
-#### Bali
+## Bali
 
 $35 visa on arrival.
 
@@ -17,7 +17,7 @@ Watch out for restaurants - most of them add 15-17% to your bill for VAT and ser
 It rains a lot here, though - it makes the UK look like drizzle country.
 Bring your best umbrella, and flip flops because your trainers will get soaked whereas flip flops dry out faster.
 
-##### Canguu
+### Canguu
 
 Surf town, more young attractive people and digital nomads.
 
@@ -49,7 +49,7 @@ Surf town, more young attractive people and digital nomads.
   50% off Tuesdays until 11pm
 - [Numero Quattro Echo Beach](https://maps.app.goo.gl/sqm6PWdAHB491ETL7) - high quality Italian, take a date here
 
-##### Kuta
+### Kuta
 
 More touristy, older crowd, lots more accommodation, so cheaper than Canguu.
 
@@ -95,7 +95,7 @@ More touristy, older crowd, lots more accommodation, so cheaper than Canguu.
 - [Chill Coffee Bar](https://maps.app.goo.gl/XnqADiUfMdYAzvBS9) - small coffee shop with acai bowl, smoothies, and
   pastries, not much in the way of substantial food, but impressive 200Mbit/s wifi
 
-##### Seminyak
+### Seminyak
 
 You can find places to eat on the beach for the view,
 but their ratings aren't as good, so you might want to eat one place and just enjoy drinks on the beach instead.
@@ -123,7 +123,7 @@ but their ratings aren't as good, so you might want to eat one place and just en
   picks here. It also has acai bowls, a little cheaper than Oakberry, decent but nowhere as much fruit as Oakberry
 - [Bossman](https://maps.app.goo.gl/6hDtk7w1ohfBSxPo9) - small but busy burger joint, not cheap, 28/28 Mbit wifi
 
-##### Ubud
+### Ubud
 
 Of [Eat, Love, Pray](https://www.imdb.com/title/tt0879870/) movie fame.
 
