@@ -1,12 +1,12 @@
-### Vietnam
+# Vietnam
 
-#### Taxis in Vietnam
+## Taxis in Vietnam
 
 If you haven't already set up your card to prepay on the Grab app, you'll need cash.
 
 - [Grab](https://www.grab.com/) - taxi app
 
-#### Hanoi
+## Hanoi
 
 Don't got to Hanoi in the winter - it is not Thailand, it is cold and you will need a jacket due to the high lattitude.
 
@@ -31,7 +31,7 @@ Don't got to Hanoi in the winter - it is not Thailand, it is cold and you will n
   Reasonable prices, but the spring rolls weren't crispy and the duck soup while very affordable could have had better
   cuts of duck and less duck skin. Still for this price one shouldn't complain
 
-#### Ho Chi Minh (formerly known as Saigon)
+## Ho Chi Minh (formerly known as Saigon)
 
 I much prefer this to Hanoi, it is ~1000km south with much better weather, better tourist areas,
 but more expensive to eat and drink there.
