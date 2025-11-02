@@ -1,4 +1,4 @@
-### Germany
+# Germany
 
 - [Driving in Germany](#driving-in-germany)
 - [Bonn](#bonn)
@@ -13,7 +13,7 @@
 - [Königswinter](#königswinter)
 - [Potsdam](#potsdam)
 
-#### Driving in Germany
+## Driving in Germany
 
 The autobahn - the german highway - is long.
 
@@ -24,28 +24,28 @@ driving distances in Germany.
 
 You can expect to drive for 8 hours to go from West to East Germany.
 
-#### Bonn
+## Bonn
 
 TODO
 
-#### Berlin
+## Berlin
 
 Berlin is a relatively affordable capital with good restaurants
 and what feels like much lower population density than London.
 
 It is not as popping as London at 9pm on a Saturday night as a result though.
 
-#### Brandenburg
+## Brandenburg
 
 A small town to the West of Berlin with some old gothic buildings, a good place to walk around with an ice cream.
 
-#### Cologne
+## Cologne
 
 Large cathedral city with a selection of restaurants.
 
 [Fräulein Herborths](https://www.fraeuleinherborths.de/) is recommended here.
 
-#### Dresden
+## Dresden
 
 Surprisingly nice, lots of historic architecture has survived the war, unlike Coventry
 (both cities were victims of war crime bombings by both sides in WWII to try to demoralize the other side).
@@ -90,38 +90,38 @@ TODO:
   beef with onions, red cabbage and homemade pretzel dumplings
 - [Rauschenbach deli](https://maps.app.goo.gl/SQHHhKqAcSyrMnYd8) - was closed for the week but not updated on Google Maps
 
-#### Dusseldorf
+## Dusseldorf
 
 A city with a great selection of restaurants.
 
 "Shawarma city" takeaway is recommended here, good food and good prices.
 There is often a queue around the corner for it across the hours of the evening.
 
-#### Essen
+## Essen
 
 Surprisingly mass immigrated with a lot of graffiti, with homeless people along the high street.
 
 Limited dining options, middle eastern probably being among the best options.
 
-#### Frankfurt
+## Frankfurt
 
 Large metropolitan multicultural city with many restaurants.
 
 [MA'LOA Poké Bowl](https://maloa.com/) is recommended, and [BKK Thai Street Food](https://bkkthaistreetfood.com/) is also popular.
 
-#### Hanover
+## Hanover
 
 A city with a lot of middle eastern restaurants.
 
 [Zambezi Springs](https://www.zambezi-springs.de/) is recommended here - rare access to good African cuisine.
 
-#### Königswinter
+## Königswinter
 
 Lovely small germanic town. This is what I imagined German paradise to look like.
 
 [Gasthaus Lichtenberg](https://gasthaus-lichtenberg.de/) is recommended here.
 
-#### Potsdam
+## Potsdam
 
 City just outside the west of Berlin.
 
