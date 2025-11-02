@@ -1,5 +1,16 @@
 # Bosnia
 
+<!-- INDEX_START -->
+
+- [Sarajevo](#sarajevo)
+  - [Taxis in Sarajevo](#taxis-in-sarajevo)
+  - [Restaurants in Sarajevo](#restaurants-in-sarajevo)
+- [Mostar](#mostar)
+  - [Train to Mostar](#train-to-mostar)
+  - [Restaurants in Mostar](#restaurants-in-mostar)
+
+<!-- INDEX_END -->
+
 Reasonably priced holiday destination.
 
 Olimpija is a good local spring water from Bosnia.
