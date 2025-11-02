@@ -71,13 +71,18 @@ taxi drivers.
 
 ## Beware Dating Apps Are Full of Scammers in Jordan
 
-Scammers litter the dating apps in Jordan.
-They arrange dates to shisha bars that overcharge hundreds and then demand payment.
+There are literally signs on the walls of local accommodations to not use dating apps because they are full of scammers.
+
+If you speak to locals, normal girls from good families do not use dating apps.
+
+Scammers match and then arrange dates to "coffee" or "juice bars" that turn out to be shisha bars that overcharge
+hundreds of JD through a combination of very expensive drinks, cover charges etc, and then demand payment.
 
 I met a german guy who fell for one such scam and ended up losing 550 JD (€666).
 To put this into context, in Jordan you can eat street food for 1 JD or have a steak in a high end hotel restaurant for
 15 JD.
-He said he met her on Bumble, but local hotels and hostels warn that this is common on dating apps.
+He said he met her on Bumble, and that after running up an unexpectedly huge bill two guys from the establishment,
+which was not even on Google Maps (for obvious reasons in hindsight)... took him to the ATM to enforce payment.
 
 ## Amman
 
