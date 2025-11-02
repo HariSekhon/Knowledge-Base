@@ -1,15 +1,15 @@
-### Cambodia
+# Cambodia
 
 If you have limited time, just do Siem Reap and skip the capital Phnom Penh, it has far better venues
 and the Angkor Wat temple.
 
-#### Visa for Cambodia
+## Visa for Cambodia
 
 You need an eVisa or you will have to queue for a $30 visa when you arrive.
 
 <https://www.evisa.gov.kh/>
 
-#### Money in Cambodia
+## Money in Cambodia
 
 Take lots of small denominator dollars, especially \$10 and \$1 bills.
 
@@ -23,13 +23,13 @@ which if you're only visiting for a short time you may have trouble spending in 
 Also, be careful restaurants and other locals don't give you fake dollars back.
 Street vendors will usually only give change in local Cambodian currency, riels.
 
-#### Taxis in Cambodia
+## Taxis in Cambodia
 
 Make sure to always use the Grab app, on the street they will charge you more, like most countries.
 
 - [Grab](https://www.grab.com/) - taxi app
 
-#### Restaurants in Cambodia
+## Restaurants in Cambodia
 
 Cambodia uses US Dollars so it is relatively expensive compared to Thailand or Vietnam.
 
@@ -39,7 +39,7 @@ A coffee will cost you \$3-4.
 Also, 'Fish & Chips' seems to be more like fish goujons and chips,
 and not the grand portions you may be used to in the West.
 
-#### Phnom Penh
+## Phnom Penh
 
 This capital is pronounced `puh-nom pen`.
 
@@ -98,7 +98,7 @@ They're cheap for a reason.
   - [Café Amazon Riverside](https://maps.app.goo.gl/EZz94RLyn7Q3U6CM9) - popular coffee chain near the palace with decent
     wifi and plugs. Drinks are $2.50+, internationally priced
 
-#### Bus Between Phenom Penh and Siem Reap
+## Bus Between Phenom Penh and Siem Reap
 
 This is the cheaper way to get between the two cities, it takes 5 hours, but has wifi, USB power sockets and
 comfortable seats.
@@ -109,7 +109,7 @@ comfortable seats.
 When booking seats if you want to sleep on the coach bus, or just find horns annoying, do not sit at the front,
 the driver will honk the horn every 2 minutes when passing any vehicle or bike to warn them.
 
-#### Siem Reap
+## Siem Reap
 
 Resort town with the Angkor Wat temple...
 
