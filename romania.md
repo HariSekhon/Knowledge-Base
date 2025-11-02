@@ -1,8 +1,8 @@
-### Romania
+# Romania
 
 Not cheap any more, almost Western prices.
 
-#### Taxis in Romania
+## Taxis in Romania
 
 - [Smarty](https://www.smarty-app.com/) - substantially cheaper than either Star Taxi or Bolt
 - [Star Taxi](https://www.startaxi.com/) - apparently the most used Taxi app in Romania, but hassle to register with new
@@ -10,7 +10,7 @@ Not cheap any more, almost Western prices.
   SE Asia on Asian Winter Tour 2024-2025
 - [Bolt](https://bolt.eu/)
 
-#### Motorway Tolls - e-Vignettes in Romania
+## Motorway Tolls - e-Vignettes in Romania
 
 If driving, you need to buy a vignette toll to use the motorways.
 
@@ -30,7 +30,7 @@ so it's a no brainer to just get the 30 days to cover your entry and exit. You'l
 If crossing into Romania from Bulgaria across [The Bridge of Friendship](https://maps.app.goo.gl/r4ifvsuaRKKF37AJ6),
 the bridge toll is €4 and can be paid by card at the bridge entry. Apparently no money, no ~~honey~~ friendship!
 
-#### Bucharest
+## Bucharest
 
 You only need 2-3 days in Bucharest, I made the mistake of booking a week.
 
@@ -141,7 +141,7 @@ Not recommended:
   the other places kitchens are closed. I got food poisoning there though, so better to plan and eat earlier at other
   places
 
-#### Brașov
+## Brașov
 
 Stopped over here between Bucharest and Cluj-Napoca.
 
@@ -160,7 +160,7 @@ I should have stayed here. Next time.
   The blueberry juice is natural mixed with grape juice and very sweet, 14.5% sugar!
   Worth it to sip on if you have a sweet tooth like me.
 
-#### Cluj-Napoca
+## Cluj-Napoca
 
 University town. The Old Town centre is nice but only about a 4 block square so you only need a couple hours for it,
 but much more for all the gentrified coffee shops and restaurants.
@@ -203,7 +203,7 @@ Old Town.
   The mixed greens salad comes undressed but olive oil and balsamic is provided, so it turns out well.
   Jaw dropping 481/248 Mbit/s wifi
 
-#### Oradea
+## Oradea
 
 Nice architecture town.
 
