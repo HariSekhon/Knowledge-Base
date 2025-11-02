@@ -1,5 +1,27 @@
 # Poland
 
+<!-- INDEX_START -->
+
+- [Augustów](#augustów)
+- [Bydgoszcz](#bydgoszcz)
+- [Częstochowa](#częstochowa)
+- [Gdansk](#gdansk)
+- [Katowice](#katowice)
+- [Krakow](#krakow)
+- [Łódź](#łódź)
+- [Nowy Sącz](#nowy-sącz)
+- [Poznan](#poznan)
+- [Sopot](#sopot)
+- [Warsaw](#warsaw)
+  - [Metro in Warsaw](#metro-in-warsaw)
+  - [Parking in Warsaw](#parking-in-warsaw)
+  - [Restaurants in Warsaw](#restaurants-in-warsaw)
+- [Wroclaw](#wroclaw)
+  - [Parking in Wroclaw](#parking-in-wroclaw)
+  - [Restaurants in Wroclaw](#restaurants-in-wroclaw)
+
+<!-- INDEX_END -->
+
 One of my favourite countries.
 
 I was very surprised how nice Poland was upon arriving, not just in one or two places either, but across the country's
