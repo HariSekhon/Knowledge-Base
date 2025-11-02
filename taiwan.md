@@ -1,6 +1,6 @@
-### Taiwan
+# Taiwan
 
-#### Taxis in Taiwan
+## Taxis in Taiwan
 
 My usual Grab which is popular in SE Asia isn't available in Taiwan, they have Uber and FindTaxi:
 
@@ -8,7 +8,7 @@ My usual Grab which is popular in SE Asia isn't available in Taiwan, they have U
 - [FindTaxi](https://apps.apple.com/hk/app/findtaxi/id1023750145?l=en-GB) - never received the SMS verification despite
   several tries so never used this. Ended up using my existing Uber app
 
-#### Taipei
+## Taipei
 
 Taipei was too urban for my liking after having toured other parts of SE Asia.
 
@@ -19,13 +19,13 @@ with long waits at crossings, and crossings giving 40 to 79 seconds to cross the
 I don't see this region as having enough attractiveness or cost effectiveness to want to visit, which is why I see few
 tourists here compared to other countries in SE Asia.
 
-##### Taipei Hotels
+### Taipei Hotels
 
 Taipei hotels can be more expensive than other destinations in SE Asia
 and for some reason their check-ins only seem to be from 5pm instead of 2pm,
 even when their checkout is earlier at 11am rather than 12pm.
 
-##### Restaurants in Taipei
+### Restaurants in Taipei
 
 This would be a longer list below but I didn't stay in Taipei for more than a few days,
 as I prefer other parts of SE Asia, so you'll have to do more Google Maps / Searches yourself to find and try the rest.
