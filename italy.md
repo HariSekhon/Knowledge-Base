@@ -1,9 +1,12 @@
 # Italy
 
-TODO: Italy Road Trip
+<!-- INDEX_START -->
 
-<https://www.europediaries.com/tuscany-roadtrip/>
-<https://www.visittuscany.com/en/ideas/top-10-day-trips-from-siena/>
+- [Car Rentals in Italy](#car-rentals-in-italy)
+- [Rome](#rome)
+- [Venice](#venice)
+
+<!-- INDEX_END -->
 
 ## Car Rentals in Italy
 
@@ -24,3 +27,10 @@ and down steps, which is hardly a holiday.
 Somewhat expensive, don't go for more than a long weekend.
 
 Also, got caught in a storm just before leaving, check the weather forecasts.
+
+<!-- -->
+
+TODO: Italy Road Trip
+
+<https://www.europediaries.com/tuscany-roadtrip/>
+<https://www.visittuscany.com/en/ideas/top-10-day-trips-from-siena/>
