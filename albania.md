@@ -1,5 +1,19 @@
 # Albania
 
+<!-- INDEX_START -->
+
+- [ATMs in Albania](#atms-in-albania)
+- [Taxis in Albania](#taxis-in-albania)
+- [Driving in Albania](#driving-in-albania)
+- [Tirana](#tirana)
+- [Lake Bovilla](#lake-bovilla)
+- [Durres](#durres)
+- [Elbasan](#elbasan)
+- [Pogradec](#pogradec)
+- [Shkoder](#shkoder)
+
+<!-- INDEX_END -->
+
 _"Cheap and good"_ was how several people I met on my travels described
 [Albania](https://maps.app.goo.gl/gEyUuDhZapAQ1b5dA). Get it before it changes.
 
