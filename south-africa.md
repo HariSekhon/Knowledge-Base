@@ -1,5 +1,13 @@
 # South Africa
 
+<!-- INDEX_START -->
+
+- [Johannesburg](#johannesburg)
+  - [Sandton](#sandton)
+  - [Rosebank](#rosebank)
+
+<!-- INDEX_END -->
+
 A dangerous high crime country due to high inequality (the Gini coefficient of inequality correlates to crime).
 
 You will need a car in South Africa as its road infrastructure and distancing is similar to the US.
