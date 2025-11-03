@@ -2,11 +2,25 @@
 
 <!-- INDEX_START -->
 
+- [Cash & ATMs](#cash--atms)
 - [Beirut](#beirut)
   - [Taxis in Beirut](#taxis-in-beirut)
   - [Restaurants in Beirut](#restaurants-in-beirut)
 
 <!-- INDEX_END -->
+
+Lebanon is actually quite expensive, western prices, for a country with such low GDP per capita.
+
+## Cash & ATMs
+
+You will need to withdraw US dollars because the local currency has suffer hyper inflation to the point where it is 1M
+Lebanese Pounds to eat food!
+
+The menus on some places don't even have their prices printed due to the instability of the currency.
+
+The first 2 ATMs I went to had no cash to dispense to me.
+
+If you can, take US dollars cash before you get there.
 
 ## Beirut
 
