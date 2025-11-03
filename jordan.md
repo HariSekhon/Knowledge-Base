@@ -584,9 +584,9 @@ so you may need to start in shallow water to get used to it where you can stand 
 reset before you get used to it and ease yourself into doing this at depth where you will not be able to easily exit if
 you encounter a problem.
 
-Scuba diving from the boat should be done by more confident experienced divers as it is done to much greater depths
-further out off a large yacht where you will see underwater planes and tanks, and while a more impressive experience,
-if you panic out there in the deeper sea it could be very dangerous.
+Scuba diving from the boat should be done by more confident experienced divers as it is done to much greater immediate
+depth further out off a large yacht where you will see underwater planes and tanks, and while a more impressive
+experience, if you panic out there in the deeper sea it could be very dangerous.
 
 **You cannot afford to panic under the sea when scuba diving as you could take a lung full of water and drown.**
 
