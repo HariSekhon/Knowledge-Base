@@ -23,6 +23,7 @@
 - [Aqaba](#aqaba)
   - [Travel to Aqaba](#travel-to-aqaba)
   - [Attractions in Aqaba](#attractions-in-aqaba)
+  - [Scuba Diving & Snorkelling in Aqaba](#scuba-diving--snorkelling-in-aqaba)
   - [Restaurants in Aqaba](#restaurants-in-aqaba)
 
 <!-- INDEX_END -->
@@ -567,6 +568,27 @@ You can get to Aqaba by plane as there is a local airport, or by Jett bus from A
 - [Arab Revolt Plaza](https://maps.app.goo.gl/rKkUtxNUwBKRCS6Q7)
 - [Fish market](https://maps.app.goo.gl/Vz5rQKMXk3VRuCmm9) - at sunset when fishermen are returning with their hauls
   there are gangs of cats waiting for small fish scraps, the little moochers 🥰
+
+### Scuba Diving & Snorkelling in Aqaba
+
+If you're a beginner, snorkel or especially scuba from the shore the first time to ease yourself into it.
+
+Breathing underwater with scuba equipment is like visiting an alien environment where your brain may send
+you contradictory signals that you cannot breath or you may panic or hyperventilate,
+so you may need to start in shallow water to get used to it where you can stand up if you need a
+reset before you get used to it and ease yourself into doing this at depth where you will not be able to easily exit if
+you a problem with your breathing equipment.
+
+Scuba diving from the boat should be done by more confident experienced divers as it is done to much greater depths
+further out off a large yacht where you will see underwater planes and tanks, and while a more impressive experience,
+if you panic out there in the deeper sea it could be very dangerous.
+
+**You cannot afford to panic under the sea when scuba diving as you could take a lung full of water and drown.**
+
+Even scuba diving off the shore there are coral reefs with fish, sea snakes etc to see, so while in Aqaba it is well
+worth the experience to go.
+
+In fact, scuba diving is probably _the_ thing to do while in Aqaba.
 
 ### Restaurants in Aqaba
 
