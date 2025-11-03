@@ -590,6 +590,10 @@ if you panic out there in the deeper sea it could be very dangerous.
 
 **You cannot afford to panic under the sea when scuba diving as you could take a lung full of water and drown.**
 
+You can also cause yourself pressure problems in your ears,
+and I ended up with significant blood in my nose for hours afterwards from
+blowing too hard to try to equalize the pressure as I went deeper.
+
 Even scuba diving off the shore there are coral reefs with fish, sea snakes etc to see, so while in Aqaba it is well
 worth the experience to go.
 
