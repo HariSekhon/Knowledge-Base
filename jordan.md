@@ -571,7 +571,12 @@ You can get to Aqaba by plane as there is a local airport, or by Jett bus from A
 
 ### Scuba Diving & Snorkelling in Aqaba
 
-If you're a beginner, snorkel or especially scuba from the shore the first time to ease yourself into it.
+Snorkelling can be done for a mere 5 JD with rental equipment done yourself on the beach.
+
+Scuba diving typically ranges from 45 - 70 JD depending on whether it's 2 hours from the shore or 4 hours from a yacht,
+including a buffet style lunch.
+
+If you're a beginner, snorkel and especially scuba dive from the shore the first time to ease yourself into it.
 
 Breathing underwater with scuba equipment is like visiting an alien environment where your brain may send
 you contradictory signals that you cannot breath or you may panic or hyperventilate,
