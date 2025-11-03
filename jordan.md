@@ -58,7 +58,7 @@ will likely be caught out at some point.
 
 Locals tend to say "Visa" when they mean card payment, your Mastercard will work fine too.
 
-Most ATMs will charge you 5 JD which is a rip off.
+Most ATMs will charge you 5 JD access fee which is a rip off.
 
 - Jordan-Kuwait bank - didn't charge 5 JD access fee.
   They charged in US dollar with a slight 2% exchange markup which is usually still much cheaper than the
