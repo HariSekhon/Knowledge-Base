@@ -62,8 +62,10 @@ Most ATMs will charge you 5 JD access fee which is a rip off.
 
 I recommend using Jordan-Kuwait bank which didn't charge the 5 JD access fee.
 This was recommended to me by a local in Aqaba.
-They charged in US dollars instead of the amount withdrawn in JD, with a slight 2% exchange markup which is
-usually still much cheaper than the other ATMs.
+They charged in US dollars instead of the amount withdrawn in JD, with a slight 2% foreign exchange markup compared to
+the amount my currency converter app expected,
+but it's still much cheaper than the other ATMs if you're withdrawing 100-150 JD (you don't need that much cash in
+Jordan as it's not that expensive and most places do take cards).
 
 ## Jordan Taxi Apps
 
