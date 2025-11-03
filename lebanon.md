@@ -1,5 +1,13 @@
 # Lebanon
 
+<!-- INDEX_START -->
+
+- [Beirut](#beirut)
+  - [Taxis in Beirut](#taxis-in-beirut)
+  - [Restaurants in Beirut](#restaurants-in-beirut)
+
+<!-- INDEX_END -->
+
 ## Beirut
 
 ### Taxis in Beirut
