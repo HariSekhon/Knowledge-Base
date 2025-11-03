@@ -9,7 +9,7 @@
 
 <!-- INDEX_END -->
 
-Lebanon is actually quite expensive, western prices, for a country with such low GDP per capita.
+Lebanon is actually quite expensive, western prices, surprising for a country with such low GDP per capita.
 
 ## Cash & ATMs
 
