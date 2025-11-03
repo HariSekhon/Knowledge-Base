@@ -60,7 +60,7 @@ Locals tend to say "Visa" when they mean card payment, your Mastercard will work
 
 Most ATMs will charge you 5 JD access fee which is a rip off.
 
-I recommend usingJordan-Kuwait bank as didn't charge 5 JD access fee.
+I recommend using Jordan-Kuwait bank as didn't charge 5 JD access fee.
 This was recommended to me by a local in Aqaba. They charged in US dollar with a slight 2% exchange markup which is
 usually still much cheaper than the other ATMs.
 
