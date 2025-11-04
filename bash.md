@@ -29,6 +29,7 @@ is one of the few use cases for that).
   - [Native Regex Capture](#native-regex-capture)
   - [Readline Support - `rlwrap`](#readline-support---rlwrap)
   - [Copy to Both Clipboard and Stdout simultaneously](#copy-to-both-clipboard-and-stdout-simultaneously)
+  - [Wait for a Terminal prompt from inside a while loop](#wait-for-a-terminal-prompt-from-inside-a-while-loop)
 - [Debugging](#debugging)
   - [Shell executing tracing](#shell-executing-tracing)
   - [Fail on any error exit code](#fail-on-any-error-exit-code)
@@ -341,6 +342,20 @@ The `copy_to_clipboard.sh` script from [DevOps-Bash-tools](devops-bash-tools.md)
 
 ```shell
 echo test | tee >("copy_to_clipboard.sh") /dev/stdout
+```
+
+### Wait for a Terminal prompt from inside a while loop
+
+```shell
+echo "
+entry1
+entry2
+" |
+while read -r line; do
+    echo "Processing: $line"
+    echo "Press enter to process next entry"
+    read -r < /dev/tty
+done
 ```
 
 ## Debugging
