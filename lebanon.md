@@ -16,9 +16,13 @@ Lebanon is actually quite expensive, western prices, surprising for a country wi
 You will need to withdraw US dollars because the local currency has suffer hyper inflation to the point where it is 1M
 Lebanese Pounds to eat food!
 
-The menus on some places don't even have their prices printed due to the instability of the currency.
+The menus often don't even have their prices printed due to the instability of the currency,
+instead referring to online menus in US dollars.
 
-The first 2 ATMs I went to had no cash to dispense to me.
+The first 2 ATMs I went to had no cash to dispense to me at all.
+
+The next 2 ATMs charged 5% on top of the withdrawal amount - seeing a $25 charge is not cool,
+so I reduced my withdrawal to minimize fees.
 
 If you can, take US dollars cash before you get there.
 
