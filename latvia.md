@@ -2,7 +2,7 @@
 
 The sour cabbage soup in a bread bowl is the local speciality.
 
-See the [Do Not Speed](#do-not-speed) section.
+See the Travel page's [Do Not Speed](travel.md#do-not-speed) section.
 
 ## Riga
 
