@@ -9,9 +9,16 @@
 
 <!-- INDEX_END -->
 
-Lebanon is actually quite expensive, western prices, surprising for a country with such low GDP per capita.
+Lebanon is a 3rd world country with hyper inflation to such extent that the locals use US dollars.
 
-However at the same time it is pretty 3rd world with regular power cuts.
+It's actually quite expensive, western prices,
+surprising for a country with such low GDP per capita,
+explained by the inflation problem and the dependence on foreign incomes.
+
+This is easily one of the worst countries I've seen for cost of living vs incomes,
+everything is western price expensive, from taxis to restaurants to supermarkets.
+
+Lebanon even has regular power cuts.
 
 Both the Bros burger restaurant and my accommodation had power cuts on my first and second nights.
 
@@ -31,6 +38,20 @@ so I reduced my withdrawal to minimize fees.
 If you can, take US dollars cash before you get there.
 
 ## Beirut
+
+The city lacks good civil planning.
+
+You can find some of the same international chain stores and restaurants,
+but it is not such a great walk around due to the lack of civil planning compared to European cities.
+
+Even crossing the street can be a challenge with lack of traffic crossings - there are some faded zebra crossings but
+cars don't always respect them.
+You may also notice poles which used to have traffic lights on them,
+and some of the public phones have been stripped for parts too - overall a very 3rd world city.
+
+It is a far cry today from _"The Paris of the Middle East"_ in the mid 20th century,
+before the war,
+and has been surpassed by gulf countries since then which looks like they are from a completely different century.
 
 ### Taxis in Beirut
 
