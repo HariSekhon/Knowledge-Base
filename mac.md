@@ -1557,7 +1557,7 @@ git clone https://github.com/HariSekhon/Hammerspoon ~/github/hammerspoon
 ```
 
 ```shell
-ln -svf ~/github/hammerspoon ~/.hammerspoon
+ln -svFhw ~/github/hammerspoon ~/.hammerspoon
 ```
 
 Output:
