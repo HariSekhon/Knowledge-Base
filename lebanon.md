@@ -104,5 +104,8 @@ TODO:
 - [Marrow and Bar](https://maps.app.goo.gl/W2WanT9nSoTaLmwV6) - 4.7
 - [Amaleen DT](https://maps.app.goo.gl/tbakXndxecERkKbcA) - 4.8 lebanese, recommended by a friend
 - [Zad Al Baher](https://maps.app.goo.gl/AXWaRvgRvvPGDWhz8) - 4.9 lebanese
+- [GOU](https://maps.app.goo.gl/5RUxXemL3WPqX36ZA) - 4.5 poke bowls
 - [Smoak](https://maps.app.goo.gl/bXr6VTgjuBs6TuDd8) - 4.5
 - [Mashawish Grill Bar](https://maps.app.goo.gl/n2x5WYaFPL8NZJ1j7) - 4.6
+- [Mamma In Cucina](https://maps.app.goo.gl/wT8ay5eNnbz7N1wf8) - 4.8 Italian
+- [Tamashii](https://maps.app.goo.gl/5mRF9ae2bh5xmojw6) - 4.5 Japanese
