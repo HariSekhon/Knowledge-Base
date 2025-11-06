@@ -77,6 +77,13 @@ The volunteer, however, was excellent, cooking great food for \$5, bargain.
   The fries with the salt & vinegar power is actually really good,
   it's quite rare to get that powder vinegar and I like it.
   Wifi 8/4 Mbit/s
+- [Crave's Burger](https://maps.app.goo.gl/GNfuzyuaNdYozDh36) - decent burger and fries, but the chocolate shake was
+  only 300-350ml and too sweet, skip that for \$7 next time.
+  Overall I rate this more highly than Bunman, and at similar price giving 170g burgers it's the better choice IMO
+- [Bunman](https://maps.app.goo.gl/Z7w7qtZ1KSNKJySw9) - smashed burgers which as also like deep fried frazzled coming
+  far out of the sides of the bun - 80g for \$7 or 160g for \11.
+  The chocolate milkshake was only around 300-350ml and far too sweet and far too expensive for \$8, not worth it,
+  don't get it again
 - [Swirkies London](https://maps.app.goo.gl/36kgYVEvovmwfqa68) - \$5-\$6 for medium or large soft machine ice cream
   (what they call "merry cream" or Brits call "soft whip") and \$1 per topping.
   Expensive by international standards but it is open late so if you want late night ice cream this is one of the few
@@ -92,6 +99,8 @@ Not Recommended:
 
 TODO:
 
+- [Frooza](https://maps.app.goo.gl/cHuevvk554UCH1QJA) - frozen yoghurt
+- [Marrow and Bar](https://maps.app.goo.gl/W2WanT9nSoTaLmwV6) - 4.7
 - [Amaleen DT](https://maps.app.goo.gl/tbakXndxecERkKbcA) - 4.8 lebanese, recommended by a friend
 - [Zad Al Baher](https://maps.app.goo.gl/AXWaRvgRvvPGDWhz8) - 4.9 lebanese
--
+- [Smoak](https://maps.app.goo.gl/bXr6VTgjuBs6TuDd8) - 4.5
