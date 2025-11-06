@@ -103,6 +103,7 @@ TODO:
 
 - [Frooza](https://maps.app.goo.gl/cHuevvk554UCH1QJA) - frozen yoghurt
 - [Swiss Butter](https://maps.app.goo.gl/jgrzn28Ebgc983B66) - very popular and reasonably priced steakhouse
+- [Al Beiruti](https://maps.app.goo.gl/tq5QSPw1ya4LueLBA) - 4.9
 - [Salata](https://maps.app.goo.gl/2PGkVK4FtXphna2z5) - 4.7
 - [The Smoking Barrels](https://maps.app.goo.gl/13fezbc6NuBqRoRT8) - 4.9
 - [Marrow and Bar](https://maps.app.goo.gl/W2WanT9nSoTaLmwV6) - 4.7
