@@ -1566,9 +1566,9 @@ Output:
 /Users/hari/.hammerspoon -> /Users/hari/github/hammerspoon
 ```
 
-As documented on the Audio page section
-[Automatically Switch to Using Multi-Output Device when Connecting Headphones](audio.md#automatically-switch-to-using-multi-output-device-when-connecting-headphones),
-I use this to be able to Shazam songs from movies or TV shows while watching them on AirPods.
+As documented on this [Audio page section](https://github.com/HariSekhon/Knowledge-Base/blob/main/audio.md#shazam-songs-while-using-headphones-on-mac)
+I use this to be able to Shazam songs from movies or TV shows while watching them on AirPods,
+and used this code to automatically switch to the multi-output audio device to be able to do so.
 
 Finally, start Hammerspoon, you should see its icon in the menu bar.
 
