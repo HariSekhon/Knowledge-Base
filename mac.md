@@ -1563,7 +1563,7 @@ ln -svFhw ~/github/hammerspoon ~/.hammerspoon
 Output:
 
 ```text
-/Users/hari/.hammerspoon/hammerspoon -> /Users/hari/github/hammerspoon
+/Users/hari/.hammerspoon -> /Users/hari/github/hammerspoon
 ```
 
 As documented on the Audio page section
