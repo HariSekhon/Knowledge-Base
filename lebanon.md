@@ -77,8 +77,21 @@ The volunteer, however, was excellent, cooking great food for \$5, bargain.
   The fries with the salt & vinegar power is actually really good,
   it's quite rare to get that powder vinegar and I like it.
   Wifi 8/4 Mbit/s
-- [Downtown Beirut]()
-- [Swirkies London]() - \$5-\$6 for medium or large soft machine ice cream (what they call "merry cream" or Brits call
-  "soft whip") and \$1 per topping.
+- [Swirkies London](https://maps.app.goo.gl/36kgYVEvovmwfqa68) - \$5-\$6 for medium or large soft machine ice cream
+  (what they call "merry cream" or Brits call "soft whip") and \$1 per topping.
   Expensive by international standards but it is open late so if you want late night ice cream this is one of the few
   options around midnight
+- [Downtown Beirut](https://maps.app.goo.gl/7ykRbfKn6QauTNUA8) - usual international chain restaurants scattered around,
+  but not that well structured
+
+Not Recommended:
+
+- [Beirut Central District](https://maps.app.goo.gl/rH77oWrxWtCQjNWx5) - a concrete wasteland of development and
+  industrial units containing the odd sports club or casino.
+  Skip this area in 2025/2026
+
+TODO:
+
+- [Amaleen DT](https://maps.app.goo.gl/tbakXndxecERkKbcA) - 4.8 lebanese, recommended by a friend
+- [Zad Al Baher](https://maps.app.goo.gl/AXWaRvgRvvPGDWhz8) - 4.9 lebanese
+-
