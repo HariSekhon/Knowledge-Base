@@ -88,6 +88,8 @@ The volunteer, however, was excellent, cooking great food for \$5, bargain.
   (what they call "merry cream" or Brits call "soft whip") and \$1 per topping.
   Expensive by international standards but it is open late so if you want late night ice cream this is one of the few
   options around midnight
+- [Zaitunay Bay](https://maps.app.goo.gl/bVMDNBH2T9HQirTo6) - seaside promenade full of restaurants and coffee shops:
+  - [Pinkberry](https://maps.app.goo.gl/LU22ch8dwkX95oYt8) - frozen yoghurt, expensive at \$9 for a medium with toppings
 - [Downtown Beirut](https://maps.app.goo.gl/7ykRbfKn6QauTNUA8) - usual international chain restaurants scattered around,
   but not that well structured
 
