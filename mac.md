@@ -1545,20 +1545,30 @@ brew install hammerspoon --cask
 
 Then create a `~/.hammerspoon/init.lua` to register your event handlers.
 
-Mine is found at
-[:octocat: HariSekhon/DevOps-Bash-tools - configs/.hammerspoon/init.lua](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.hammerspoon/init.lua).
+My code is found at
+[:octocat: HariSekhon/Hammerspoon](https://github.com/HariSekhon/Hammerspoon).
+
+```shell
+mkdir -p -v ~/github
+```
+
+```shell
+git clone https://github.com/HariSekhon/Hammerspoon ~/github/hammerspoon
+```
+
+```shell
+ln -svf ~/github/hammerspoon ~/.hammerspoon
+```
+
+Output:
+
+```text
+/Users/hari/.hammerspoon/hammerspoon -> /Users/hari/github/hammerspoon
+```
 
 As documented on the Audio page section
 [Automatically Switch to Using Multi-Output Device when Connecting Headphones](audio.md#automatically-switch-to-using-multi-output-device-when-connecting-headphones),
 I use this to be able to Shazam songs from movies or TV shows while watching them on AirPods.
-
-```shell
-mkdir ~/.hammerspoon
-```
-
-```shell
-wget -O ~/.hammerspoon/init.lua \
-  https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.hammerspoon/init.lua
 ```
 
 Finally, start Hammerspoon, you should see its icon in the menu bar.
