@@ -108,4 +108,5 @@ TODO:
 - [Smoak](https://maps.app.goo.gl/bXr6VTgjuBs6TuDd8) - 4.5
 - [Mashawish Grill Bar](https://maps.app.goo.gl/n2x5WYaFPL8NZJ1j7) - 4.6
 - [Mamma In Cucina](https://maps.app.goo.gl/wT8ay5eNnbz7N1wf8) - 4.8 Italian
+- [Squisito](Squisito) - 4.9 Italian
 - [Tamashii](https://maps.app.goo.gl/5mRF9ae2bh5xmojw6) - 4.5 Japanese
