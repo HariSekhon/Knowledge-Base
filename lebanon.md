@@ -100,7 +100,9 @@ Not Recommended:
 TODO:
 
 - [Frooza](https://maps.app.goo.gl/cHuevvk554UCH1QJA) - frozen yoghurt
+- [The Smoking Barrels](https://maps.app.goo.gl/13fezbc6NuBqRoRT8) - 4.9
 - [Marrow and Bar](https://maps.app.goo.gl/W2WanT9nSoTaLmwV6) - 4.7
 - [Amaleen DT](https://maps.app.goo.gl/tbakXndxecERkKbcA) - 4.8 lebanese, recommended by a friend
 - [Zad Al Baher](https://maps.app.goo.gl/AXWaRvgRvvPGDWhz8) - 4.9 lebanese
 - [Smoak](https://maps.app.goo.gl/bXr6VTgjuBs6TuDd8) - 4.5
+- [Mashawish Grill Bar](https://maps.app.goo.gl/n2x5WYaFPL8NZJ1j7) - 4.6
