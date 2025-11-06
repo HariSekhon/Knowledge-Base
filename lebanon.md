@@ -100,6 +100,7 @@ Not Recommended:
 TODO:
 
 - [Frooza](https://maps.app.goo.gl/cHuevvk554UCH1QJA) - frozen yoghurt
+- [Swiss Butter](https://maps.app.goo.gl/jgrzn28Ebgc983B66) - very popular and reasonably priced steakhouse
 - [The Smoking Barrels](https://maps.app.goo.gl/13fezbc6NuBqRoRT8) - 4.9
 - [Marrow and Bar](https://maps.app.goo.gl/W2WanT9nSoTaLmwV6) - 4.7
 - [Amaleen DT](https://maps.app.goo.gl/tbakXndxecERkKbcA) - 4.8 lebanese, recommended by a friend
