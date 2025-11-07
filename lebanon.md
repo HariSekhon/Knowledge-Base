@@ -69,6 +69,8 @@ of the \$7-\$20 on Bolt or Uber**
 The Colony Hostel is $15 per night but it's not that nice,
 there is no soap in the bathroom for example and it's not clean.
 
+The wifi is also awful, you're lucky if you can get 0.2Mbit/s without it cutting out all the time.
+
 The volunteer, however, was excellent, cooking great food for \$5, bargain.
 
 -->
