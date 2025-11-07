@@ -73,6 +73,14 @@ The volunteer, however, was excellent, cooking great food for \$5, bargain.
 
 -->
 
+- [Swiss Butter](https://maps.app.goo.gl/jgrzn28Ebgc983B66) - very popular and reasonably priced steakhouse.
+  All 3 main dishes are the same price, go with the fillet steak.
+  The swiss butter sauce it comes in is very good.
+  I switched fries for baked potato, which was ok but not as large as you find in other places.
+  The side salad was decent and well dressed.
+  The orange juice was bitter though, it turned out they squeezed it in the morning.
+  I had to send it back, skip that next time.
+  Wifi 2.3/0.5 Mbit/s
 - [The Bros](https://maps.app.goo.gl/F8ikpQ9L4teVq8Z89) - good but western prices, \$19 for a burger and fries!
   The burning man burger with swiss cheese, mixed peppers and a bit of spicyness is quite good.
   The fries with the salt & vinegar power is actually really good,
@@ -107,7 +115,6 @@ Not Recommended:
 TODO:
 
 - [Frooza](https://maps.app.goo.gl/cHuevvk554UCH1QJA) - frozen yoghurt
-- [Swiss Butter](https://maps.app.goo.gl/jgrzn28Ebgc983B66) - very popular and reasonably priced steakhouse
 - [Al Beiruti](https://maps.app.goo.gl/tq5QSPw1ya4LueLBA) - 4.9
 - [Salata](https://maps.app.goo.gl/2PGkVK4FtXphna2z5) - 4.7
 - [The Smoking Barrels](https://maps.app.goo.gl/13fezbc6NuBqRoRT8) - 4.9
