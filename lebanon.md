@@ -22,8 +22,8 @@ Lebanon even has regular power cuts.
 
 Both the Bros burger restaurant and my accommodation had power cuts on my first and second nights.
 
-The wifi was bad where I was staying but a bit better at upmarket restaurants, but still the speeds were slow.
-I would not recommend digital nomadding in Lebanon, which is why you don't see guys on
+The wifi was bad where I was staying, extremely slow and unreliable... a bit better at upmarket restaurants, but still
+the speed tests were low. I would not recommend digital nomadding in Lebanon, which is why you don't see guys on
 [Nomads.com](https://nomads.com) there.
 
 ## Cash & ATMs
