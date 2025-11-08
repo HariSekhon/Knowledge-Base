@@ -35,7 +35,9 @@ The first 2 ATMs I went to had no cash to dispense to me at all.
 The next 2 ATMs charged 5% on top of the withdrawal amount - seeing a $25 charge is not cool,
 so I reduced my withdrawal to minimize fees.
 
-If you can, take US dollars cash before you get there.
+ATMs seem to only dispense \$100 denominations and many places will struggle or refuse to break them.
+
+If you can, take US dollars cash before you get there in a variety of denominations.
 
 ## Beirut
 
@@ -95,6 +97,10 @@ The volunteer, however, was excellent, cooking great food for \$5, bargain.
   far out of the sides of the bun - 80g for \$7 or 160g for \11.
   The chocolate milkshake was only around 300-350ml and far too sweet and far too expensive for \$8, not worth it,
   don't get it again
+- [Orso Bianco](https://maps.app.goo.gl/qvxJUpi84dSukkzK6) - the chocolate "sorbet" and baccio are the best I've tried here.
+  Their pistacchio, yoghurt, mekmeh and other flavours are not as good as other places.
+  It's \$3 per scoop and they don't accept cards under \$20,
+  and nor were they willing to break a \$100 for me, which is the only dollar denomination the ATMs dispense
 - [Swirkies London](https://maps.app.goo.gl/36kgYVEvovmwfqa68) - \$5-\$6 for medium or large soft machine ice cream
   (what they call "merry cream" or Brits call "soft whip") and \$1 per topping.
   Expensive by international standards but it is open late so if you want late night ice cream this is one of the few
