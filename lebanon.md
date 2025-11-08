@@ -94,6 +94,9 @@ The volunteer, however, was excellent, cooking great food for \$5, bargain.
   The fries with the salt & vinegar power is actually really good,
   it's quite rare to get that powder vinegar and I like it.
   Wifi 8/4 Mbit/s
+- [Smoak](https://maps.app.goo.gl/bXr6VTgjuBs6TuDd8) - the brisketter was a decent pulled beef bbq burger for \$13.
+  Their fries for \$4 were average (the salt & vinegar fries at The Bros is much better for similar price).
+  Has wifi
 - [Crave's Burger](https://maps.app.goo.gl/GNfuzyuaNdYozDh36) - decent burger and fries, but the chocolate shake was
   only 300-350ml and too sweet, skip that for \$7 next time.
   Overall I rate this more highly than Bunman, and at similar price giving 170g burgers it's the better choice IMO
@@ -135,7 +138,6 @@ TODO:
 - [Zad Al Baher](https://maps.app.goo.gl/AXWaRvgRvvPGDWhz8) - 4.9 lebanese
 - [GOU](https://maps.app.goo.gl/5RUxXemL3WPqX36ZA) - 4.5 poke bowls
 - [Dar Beirut](https://maps.app.goo.gl/2z9Gbc2QvkvwgTk17) - 4.5
-- [Smoak](https://maps.app.goo.gl/bXr6VTgjuBs6TuDd8) - 4.5
 - [Mashawish Grill Bar](https://maps.app.goo.gl/n2x5WYaFPL8NZJ1j7) - 4.6
 - [Mamma In Cucina](https://maps.app.goo.gl/wT8ay5eNnbz7N1wf8) - 4.8 Italian
 - [Squisito](Squisito) - 4.9 Italian
