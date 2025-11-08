@@ -4,15 +4,15 @@
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/stargazers)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/commits/main)
 
-[![Total Countries](https://img.shields.io/badge/Total%20Countries-48-blue)](https://nomads.com/@harisekhon)
+[![Total Countries](https://img.shields.io/badge/Total%20Countries-50-blue)](https://nomads.com/@harisekhon)
 [![Countries in 2024](https://img.shields.io/badge/in%202024-19-blue)](https://nomads.com/@harisekhon)
-[![Countries in 2025](https://img.shields.io/badge/in%202025-28-blue)](https://nomads.com/@harisekhon)
-[![Unique Countries 2024+](https://img.shields.io/badge/Unique%20Countries%202024+-39-blue)](https://nomads.com/@harisekhon)
+[![Countries in 2025](https://img.shields.io/badge/in%202025-30-blue)](https://nomads.com/@harisekhon)
+[![Unique Countries 2024+](https://img.shields.io/badge/Unique%20Countries%202024+-41-blue)](https://nomads.com/@harisekhon)
 
-[![Total Cities](https://img.shields.io/badge/Total%20Cities-162-blue)](https://nomads.com/@harisekhon)
+[![Total Cities](https://img.shields.io/badge/Total%20Cities-164-blue)](https://nomads.com/@harisekhon)
 [![Cities in 2024](https://img.shields.io/badge/in%202024-68-blue)](https://nomads.com/@harisekhon)
-[![Cities in 2025](https://img.shields.io/badge/in%202025-75-blue)](https://nomads.com/@harisekhon)
-[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-137-blue)](https://nomads.com/@harisekhon)
+[![Cities in 2025](https://img.shields.io/badge/in%202025-77-blue)](https://nomads.com/@harisekhon)
+[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-139-blue)](https://nomads.com/@harisekhon)
 
 Short links to this page:
 
@@ -87,9 +87,9 @@ Updated regularly as I travel the world 52 weeks a year.
 
 ## Countries
 
-Countries: 48
+Countries: 50
 
-Cities: 162
+Cities: 164
 
 - Countries in 2024: 19
   - Cities in 2024: 68
@@ -98,13 +98,13 @@ Cities: 162
   - not counting my extensive month long
     [Tour of England and Wales](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b)
     (the latter was borderline a different country, there are actually Welsh signs I can't read)
-- Countries in 2025: 28
-  - Cities in 2025: 75
+- Countries in 2025: 30
+  - Cities in 2025: 77
   - Vietnam (continued), Cambodia, Laos, Bali (Indonesia), Malayasia, Singapore, Taiwan, Serbia, Bulgaria, Romania,
     Hungary, Slovakia, Austria, Czechia, Poland, Germany, Slovenia, Croatia, Montenegro, Albania, North Macedonia, Bosnia and
-    Herzegovina, Ukraine, Moldova, Tunisia, Jordan, Lebanon
-- Unique Countries since Emigrating from the UK in 2024: 39
-  - Unique Cities since Emigrating from the UK in 2024: 137
+    Herzegovina, Ukraine, Moldova, Tunisia, Jordan, Lebanon, Spain, Mexico
+- Unique Countries since Emigrating from the UK in 2024: 41
+  - Unique Cities since Emigrating from the UK in 2024: 139
 
 Country pages with specific tips for each country:
 
@@ -127,6 +127,7 @@ Country pages with specific tips for each country:
 - [Indonesia](indonesia.md)
 - [Italy](italy.md)
 - [Jordan](jordan.md) ⭐
+- [Mexico](mexico.md)
 - [Laos](laos.md)
 - [Latvia](latvia.md)
 - [Lebanon](lebanon.md)
@@ -146,6 +147,7 @@ Country pages with specific tips for each country:
 - [Slovakia](slovakia.md)
 - [Slovenia](slovenia.md)
 - [South Africa](south-africa.md)
+- [Spain](spain.md)
 - [Sweden](sweden.md)
 - [Taiwan](taiwan.md)
 - [Thailand](thailand.md) ⭐
