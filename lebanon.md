@@ -98,6 +98,8 @@ The volunteer, however, was excellent, cooking great food for \$5, bargain.
   and the Firefly juice (orange, carrot, ginger & turmeric) is \$6 for 355ml and is very good.
   The have an acai bowl but it's \$15 so it's cheaper to go to Oakberry a few door down on the same road.
   Wifi 79/49 Mbit/s
+- [GOU](https://maps.app.goo.gl/5RUxXemL3WPqX36ZA) - gentrified cafe serving poke bowls and smoothie & greek yoghurt
+  bowls. Wifi 85/85 Mbit/s
 - [Oakberry](https://maps.app.goo.gl/siPXXzMDj7EoqCtH9) - international acai chain, same everywhere
 - [The Bros](https://maps.app.goo.gl/F8ikpQ9L4teVq8Z89) - good but western prices, \$19 for a burger and fries!
   The burning man burger with swiss cheese, mixed peppers and a bit of spicyness is quite good.
@@ -139,7 +141,6 @@ Not Recommended:
 
 TODO:
 
-- [GOU](https://maps.app.goo.gl/5RUxXemL3WPqX36ZA) - 4.5 poke bowls and greek yoghurt bowl. Wifi 77/43 Mbit/s
 - [Farouj Alabdalla](https://menu.alabdalla.org/lebanon) - recommended to me by a local
 - [Frooza](https://maps.app.goo.gl/cHuevvk554UCH1QJA) - frozen yoghurt
 - [Al Beiruti](https://maps.app.goo.gl/tq5QSPw1ya4LueLBA) - 4.9
