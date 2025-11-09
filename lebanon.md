@@ -109,7 +109,7 @@ The volunteer, however, was excellent, cooking great food for \$5, bargain.
   only 300-350ml and too sweet, skip that for \$7 next time.
   Overall I rate this more highly than Bunman, and at similar price giving 170g burgers it's the better choice IMO
 - [Bunman](https://maps.app.goo.gl/Z7w7qtZ1KSNKJySw9) - smashed burgers which as also like deep fried frazzled coming
-  far out of the sides of the bun - 80g for \$7 or 160g for \11.
+  far out of the sides of the bun - 80g for \$7 or 160g for \$11.
   The chocolate milkshake was only around 300-350ml and far too sweet and far too expensive for \$8, not worth it,
   don't get it again
 - [Orso Bianco](https://maps.app.goo.gl/qvxJUpi84dSukkzK6) - the chocolate "sorbet" and baccio are the best I've tried here.
