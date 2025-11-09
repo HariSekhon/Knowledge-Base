@@ -58,6 +58,8 @@ cars don't always respect them.
 You may also notice poles which used to have traffic lights on them,
 and some of the public phones have been stripped for parts too - overall a very 3rd world city.
 
+Even pavements are frustratingly often obstructed, causing people to walk on the road next to cars.
+
 It is a far cry today from
 [_"The Paris of the Middle East"_](https://thenightly.com.au/world/how-beirut-was-once-known-as-the-paris-of-the-middle-east-before-it-came-to-a-brutal-end-in-1975-civil-war-c-15605589)
 in the mid 20th century, before the war,
