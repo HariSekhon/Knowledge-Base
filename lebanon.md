@@ -89,6 +89,9 @@ The volunteer, however, was excellent, cooking great food for \$5, bargain.
   The orange juice was bitter though, it turned out they squeezed it in the morning.
   I had to send it back, skip that next time.
   Wifi 2.3/0.5 Mbit/s
+- [Salata](https://maps.app.goo.gl/2PGkVK4FtXphna2z5) - good but expensive. The butchers bowl is \$23 and the juice is
+  \$6.
+  Wifi 79/49 Mbit/s
 - [The Bros](https://maps.app.goo.gl/F8ikpQ9L4teVq8Z89) - good but western prices, \$19 for a burger and fries!
   The burning man burger with swiss cheese, mixed peppers and a bit of spicyness is quite good.
   The fries with the salt & vinegar power is actually really good,
@@ -131,7 +134,6 @@ TODO:
 
 - [Frooza](https://maps.app.goo.gl/cHuevvk554UCH1QJA) - frozen yoghurt
 - [Al Beiruti](https://maps.app.goo.gl/tq5QSPw1ya4LueLBA) - 4.9
-- [Salata](https://maps.app.goo.gl/2PGkVK4FtXphna2z5) - 4.7
 - [The Smoking Barrels](https://maps.app.goo.gl/13fezbc6NuBqRoRT8) - 4.9
 - [Marrow and Bar](https://maps.app.goo.gl/W2WanT9nSoTaLmwV6) - 4.7
 - [Amaleen DT](https://maps.app.goo.gl/tbakXndxecERkKbcA) - 4.8 lebanese, recommended by a friend
