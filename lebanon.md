@@ -90,8 +90,10 @@ The volunteer, however, was excellent, cooking great food for \$5, bargain.
   The orange juice was bitter though, it turned out they squeezed it in the morning.
   I had to send it back, skip that next time.
   Wifi 2.3/0.5 Mbit/s
-- [Salata](https://maps.app.goo.gl/2PGkVK4FtXphna2z5) - good but expensive. The butchers bowl is \$23 and the juice is
-  \$6.
+- [Salata](https://maps.app.goo.gl/2PGkVK4FtXphna2z5) - good but expensive.
+  The butchers bowl containing steak strips and a good mix of salad is \$23 for a significantly large sized bowl.
+  They have fresh orange juice for \$5,
+  and the Firefly juice (orange, carrot, ginger & turmeric) is \$6 for 355ml and is very good.
   The have an acai bowl but it's \$15 so it's cheaper to go to Oakberry a few door down on the same road.
   Wifi 79/49 Mbit/s
 - [Oakberry](https://maps.app.goo.gl/siPXXzMDj7EoqCtH9) - international acai chain, same everywhere
