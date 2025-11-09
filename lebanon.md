@@ -91,6 +91,7 @@ The volunteer, however, was excellent, cooking great food for \$5, bargain.
   Wifi 2.3/0.5 Mbit/s
 - [Salata](https://maps.app.goo.gl/2PGkVK4FtXphna2z5) - good but expensive. The butchers bowl is \$23 and the juice is
   \$6.
+  The have an acai bowl but it's \$15 so it's cheaper to go to Oakberry on the same road.
   Wifi 79/49 Mbit/s
 - [The Bros](https://maps.app.goo.gl/F8ikpQ9L4teVq8Z89) - good but western prices, \$19 for a burger and fries!
   The burning man burger with swiss cheese, mixed peppers and a bit of spicyness is quite good.
