@@ -134,6 +134,7 @@ Not Recommended:
 
 TODO:
 
+- [Farouj Alabdalla](https://menu.alabdalla.org/lebanon) - recommended to me by a local
 - [Frooza](https://maps.app.goo.gl/cHuevvk554UCH1QJA) - frozen yoghurt
 - [Al Beiruti](https://maps.app.goo.gl/tq5QSPw1ya4LueLBA) - 4.9
 - [The Smoking Barrels](https://maps.app.goo.gl/13fezbc6NuBqRoRT8) - 4.9
