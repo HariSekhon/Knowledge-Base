@@ -39,7 +39,8 @@ The first 2 ATMs I went to had no cash to dispense to me at all.
 The next 2 ATMs charged 5% on top of the withdrawal amount - seeing a $25 charge is not cool,
 so I reduced my withdrawal to minimize fees.
 
-ATMs seem to only dispense \$100 denominations and many places will struggle or refuse to break them.
+ATMs seem to only dispense \$100 denominations and many places will struggle or refuse to break them due to lack of
+smaller denomination dollar change.
 
 If you can, take US dollars cash before you get there in a variety of denominations.
 
