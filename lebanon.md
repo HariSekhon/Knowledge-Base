@@ -100,7 +100,6 @@ The volunteer, however, was excellent, cooking great food for \$5, bargain.
   Wifi 79/49 Mbit/s
 - [GOU](https://maps.app.goo.gl/5RUxXemL3WPqX36ZA) - gentrified cafe serving poke bowls and smoothie & greek yoghurt
   bowls. Wifi 85/85 Mbit/s
-- [Oakberry](https://maps.app.goo.gl/siPXXzMDj7EoqCtH9) - international acai chain, same everywhere
 - [The Bros](https://maps.app.goo.gl/F8ikpQ9L4teVq8Z89) - good but western prices, \$19 for a burger and fries!
   The burning man burger with swiss cheese, mixed peppers and a bit of spicyness is quite good.
   The fries with the salt & vinegar power is actually really good,
@@ -116,6 +115,7 @@ The volunteer, however, was excellent, cooking great food for \$5, bargain.
   far out of the sides of the bun - 80g for \$7 or 160g for \$11.
   The chocolate milkshake was only around 300-350ml and far too sweet and far too expensive for \$8, not worth it,
   don't get it again
+- [Oakberry](https://maps.app.goo.gl/siPXXzMDj7EoqCtH9) - international acai chain, same everywhere
 - [Orso Bianco](https://maps.app.goo.gl/qvxJUpi84dSukkzK6) - the chocolate "sorbet" and baccio are the best I've tried here.
   Their pistacchio, yoghurt, mekmeh and other flavours are not as good as other places.
   It's \$3 per scoop and they don't accept cards under \$20,
