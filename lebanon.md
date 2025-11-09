@@ -96,7 +96,8 @@ The volunteer, however, was excellent, cooking great food for \$5, bargain.
   The butchers bowl containing steak strips and a good mix of salad is \$23 for a significantly large sized bowl.
   They have fresh orange juice for \$5,
   and the Firefly juice (orange, carrot, ginger & turmeric) is \$6 for 355ml and is very good.
-  The have an acai bowl but it's \$15 so it's cheaper to go to Oakberry a few door down on the same road.
+  The have an acai bowl but it's \$15 so it's cheaper to go to Oakberry a few door down on the same road,
+  or go for the greek yoghurt bowl with fruti and honey at Gou described below for \$8.
   Wifi 79/49 Mbit/s
 - [GOU](https://maps.app.goo.gl/5RUxXemL3WPqX36ZA) - gentrified cafe serving poke bowls and smoothie & greek yoghurt
   bowls.
