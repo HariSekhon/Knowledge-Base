@@ -98,7 +98,7 @@ because they have people waiting from 7am to check in and they don't allow them 
 TODO:
 
 - [Raw Açaí](https://maps.app.goo.gl/NQGHimWeLJhHM8C2A) - gonna ignore the Google Rating
-- [Origen Taberna Madrid](https://maps.app.goo.gl/Tax2uwjTQxTj8VZq5) - 4.7
+- [Origen Taberna Madrid](https://maps.app.goo.gl/Tax2uwjTQxTj8VZq5) - 4.7 tapas
 - [Briochef Burgers Madrid](https://maps.app.goo.gl/EgkmCYmu8VkdVuD37) - 4.8 only opens at 1pm and is closed 4:30pm-8pm
   Mon-Thurs
 - [Café del Rey](https://maps.app.goo.gl/3iz1C26mUidxRkZ27) - 4.2 only serves food 1-4pm??
