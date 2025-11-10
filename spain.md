@@ -32,6 +32,9 @@ so it appears they have much less mass immigration foreign replacement than back
 
 The central tourist areas do have more foreigners as one would expect.
 
+Madrid was cold in the evenings in November, around 12 degrees.
+It's ok during the day, but you will need a coat by 5:30pm as the sun is going down.
+
 ### Travel from Madrid Airport
 
 You can take the 200 bus from immediately outside the door of exit 14 at Terminal 1 arrivals.
