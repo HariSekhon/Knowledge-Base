@@ -23,7 +23,7 @@
 Spain's capital is not cheap but it is surprisingly nice, clean and gentrified compared to many other capitals
 (even more so compared to other countries as I'd recently been to such as Tunisia, Jordan and Lebanon!)
 
-There is lots of nice historic architectural buildings and monuments to see and lots of tourists taking pictures in
+There are lots of nice historic architectural buildings and monuments to see and lots of tourists taking pictures in
 front of them.
 
 First impressions on the metro was that it was clean and efficient,
@@ -69,6 +69,8 @@ and will dispense a card with your single fare on it for an extra one-time fee o
   - [Great Pond of El Retiro](https://maps.app.goo.gl/5v9RALkxontP9AwKA) - has rental rowboats and canoes
   - [Monument to Alfonso XII](https://maps.app.goo.gl/Di4kd49dU2jpwJ7X6) - romanesque colonnade and monument
   - [Royal Observatory of Madrid](https://maps.app.goo.gl/GrfeXeEewbko65VF9)
+- [Gran Vía](https://maps.app.goo.gl/pJXkpxYioFRkd9Ty7) - notable central street with lots of large international brand
+  stores
 
 ### Restaurants in Madrid
 
