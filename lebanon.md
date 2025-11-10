@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [Mobile e-Sims](#mobile-e-sims)
 - [Cash & ATMs](#cash--atms)
 - [Beirut](#beirut)
   - [Taxis in Beirut](#taxis-in-beirut)
@@ -27,6 +28,14 @@ and fluctuated in different restaurants ranging from low Mbit/s to high in some 
 
 Overall I would not recommend digital nomadding in Lebanon, which is why you don't see guys on
 [Nomads.com](https://nomads.com) there.
+
+## Mobile e-Sims
+
+Most e-esim providers don't seem to have an offering in Lebanon,
+even though they do in neighbouring countries, showing just what a mess Lebanon is.
+
+I used Airalo but it was twice the price of e-sims in other countries,
+costing £7.50 for a meagre 1GB, which I ran out of and didn't want to renew.
 
 ## Cash & ATMs
 
