@@ -93,6 +93,8 @@ because they have people waiting from 7am to check in and they don't allow them 
   The also serve a nice tapenade, bread and crackers,
   which seems like a nice touch, until you realize they add €3.60 to the bill as cover charge for this.
   They have their own branded water in glass bottle too.
+  The mango pudding with caramelized ginger pieces is good, topped with cream.
+  I would prefer if the depth of the mango was more and depth of the cream less, but it's still worth having for €6.
   Wifi 573/402 Mbit/s
 - [TKO Tacos](https://tkotacos.com/ubicacion/madrid/) - affordable tacos chain with a great mix of ingredients,
   including the usual beef, pork and chicken, but also octopus and cactus.
