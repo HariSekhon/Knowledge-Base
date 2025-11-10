@@ -5,7 +5,7 @@
 - [Taxi Apps](#taxi-apps)
 - [Madrid](#madrid)
   - [Travel from Madrid Airport](#travel-from-madrid-airport)
-  - [Madrid Metro](#madrid-metro)
+  - [Metro in Madrid](#metro-in-madrid)
   - [Attractions in Madrid](#attractions-in-madrid)
   - [Restaurants in Madrid](#restaurants-in-madrid)
 
@@ -42,7 +42,7 @@ There also appears to be a metro number 8 line from Terminal 4.
 
 Of course both will be much cheaper than taking a taxi.
 
-### Madrid Metro
+### Metro in Madrid
 
 The metro is also affordable, clean and frequent.
 
