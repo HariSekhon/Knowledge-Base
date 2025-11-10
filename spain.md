@@ -70,7 +70,8 @@ and will dispense a card with your single fare on it for an extra one-time fee o
   - [Monument to Alfonso XII](https://maps.app.goo.gl/Di4kd49dU2jpwJ7X6) - romanesque colonnade and monument
   - [Royal Observatory of Madrid](https://maps.app.goo.gl/GrfeXeEewbko65VF9)
 - [Gran Vía](https://maps.app.goo.gl/pJXkpxYioFRkd9Ty7) - notable central street with lots of large international brand
-  stores
+  stores.
+  More useful as the pathway between great monuments and attractions
 
 ### Restaurants in Madrid
 
