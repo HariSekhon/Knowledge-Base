@@ -22,7 +22,8 @@
 Spain's capital is not cheap but it is surprisingly nice, clean and gentrified compared to many other capitals
 (even more so compared to other countries as I'd recently been to such as Tunisia, Jordan and Lebanon!)
 
-There are a lot of nice monuments to see and lots of tourists taking pictures in front of them.
+There is lots of nice historic architectural buildings and monuments to see and lots of tourists taking pictures in
+front of them.
 
 First impressions on the metro was that it was clean and efficient,
 and the population actually looked Spanish,
@@ -50,6 +51,23 @@ Contactless card payments don't work on the barriers though,
 you need a local travel card,
 but this is not a problem as the automated vending machines have an English option
 and will dispense a card with your single fare on it for an extra one-time fee of €2.50.
+
+### Attractions in Madrid
+
+- [Royal Palace of Madrid](https://maps.app.goo.gl/a8r2fPUYZo944Q1w5)
+- [Temple of Debod](https://maps.app.goo.gl/iV94jFzJ1J7SsS5e6)
+  - [Templo de Debod Viewpoint](https://maps.app.goo.gl/kFfFDd5NE4AKRRuDA)
+- [Catedral de Santa María la Real de la Almudena](https://maps.app.goo.gl/RskFK4CK4X4sKJ4i8)
+- [Pontifical Basilica of Saint Michael](https://maps.app.goo.gl/mHAEEccyoJj1E7H8A)
+- [Puerta de Alcalá](https://maps.app.goo.gl/r6FiypbtWYvYmdFH9) - triumph arch near the entrace to the wonderful El
+  Retiro Park
+- [El Retiro Park](https://maps.app.goo.gl/KP1bvHhJfWikjD2LA) - large park with fountains and the Palacio de Cristal
+  - [Palacio de Cristal](https://maps.app.goo.gl/yGzwuShMxKnGtkT89) - was unfortunately under renovation when I was
+    there
+  - [Fountain of the Fallen Angel](https://maps.app.goo.gl/UL3LFpuB4eacwGDe7)
+  - [Great Pond of El Retiro](https://maps.app.goo.gl/5v9RALkxontP9AwKA) - has rental rowboats and canoes
+  - [Monument to Alfonso XII](https://maps.app.goo.gl/Di4kd49dU2jpwJ7X6) - romanesque colonnade and monument
+  - [Royal Observatory of Madrid](https://maps.app.goo.gl/GrfeXeEewbko65VF9)
 
 ### Restaurants in Madrid
 
