@@ -69,6 +69,7 @@ and will dispense a card with your single fare on it for an extra one-time fee o
   - [Great Pond of El Retiro](https://maps.app.goo.gl/5v9RALkxontP9AwKA) - has rental rowboats and canoes
   - [Monument to Alfonso XII](https://maps.app.goo.gl/Di4kd49dU2jpwJ7X6) - romanesque colonnade and monument
   - [Royal Observatory of Madrid](https://maps.app.goo.gl/GrfeXeEewbko65VF9)
+- [Plaza Mayor](https://maps.app.goo.gl/6yzXzhoi6eW1GbhbA)
 - [Gran Vía](https://maps.app.goo.gl/pJXkpxYioFRkd9Ty7) - notable central street with lots of large international brand
   stores.
   More useful as the pathway between great monuments and attractions
@@ -93,3 +94,10 @@ because they have people waiting from 7am to check in and they don't allow them 
   The _"chicken tinga"_ taco with spicy grilled chicken was decent.
   The cactus "nopales" taco is interesting for a vegetarian option.
   No wifi here unfortunately (probably on purpose so people eat and leave the venue as it's fairly small and popular)
+
+TODO:
+
+- [Raw Açaí](https://maps.app.goo.gl/NQGHimWeLJhHM8C2A) - gonna ignore the Google Rating
+- [Briochef Burgers Madrid](https://maps.app.goo.gl/EgkmCYmu8VkdVuD37) - only opens at 1pm and is closed 4:30pm-8pm
+  Mon-Thurs
+- [Café del Rey](https://maps.app.goo.gl/3iz1C26mUidxRkZ27) - only serves food 1-4pm??
