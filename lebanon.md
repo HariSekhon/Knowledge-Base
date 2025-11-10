@@ -65,6 +65,8 @@ It is a far cry today from
 in the mid 20th century, before the war,
 and has since been surpassed by gulf countries which look like they are from a completely different century.
 
+Beirut Airport wifi capture portal doesn't even progress to the next step on laptop. Of course it doesn't...
+
 ### Taxis in Beirut
 
 **Do NOT use the taxis waiting outside the airport - they will try to rip you off for \$30-$40 instead
