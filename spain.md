@@ -100,6 +100,7 @@ because they have people waiting from 7am to check in and they don't allow them 
 
 TODO:
 
+- [El Social](https://maps.app.goo.gl/aLbCi2Ri2KENgmQ27) - 4.8 steak and desserts
 - [Raw Açaí](https://maps.app.goo.gl/NQGHimWeLJhHM8C2A) - gonna ignore the Google Rating
 - [Origen Taberna Madrid](https://maps.app.goo.gl/Tax2uwjTQxTj8VZq5) - 4.7 tapas
 - [Briochef Burgers Madrid](https://maps.app.goo.gl/EgkmCYmu8VkdVuD37) - 4.8 only opens at 1pm and is closed 4:30pm-8pm
