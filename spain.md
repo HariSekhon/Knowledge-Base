@@ -6,6 +6,7 @@
 - [Madrid](#madrid)
   - [Travel from Madrid Airport](#travel-from-madrid-airport)
   - [Madrid Metro](#madrid-metro)
+  - [Attractions in Madrid](#attractions-in-madrid)
   - [Restaurants in Madrid](#restaurants-in-madrid)
 
 <!-- INDEX_END -->
