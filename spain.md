@@ -101,6 +101,7 @@ TODO:
 - [Origen Taberna Madrid](https://maps.app.goo.gl/Tax2uwjTQxTj8VZq5) - 4.7 tapas
 - [Briochef Burgers Madrid](https://maps.app.goo.gl/EgkmCYmu8VkdVuD37) - 4.8 only opens at 1pm and is closed 4:30pm-8pm
   Mon-Thurs
+- [El Punto Guay](https://maps.app.goo.gl/pjA5rL45UipBLYSN8) - 4.8 venezuelan, burgers, fast food
 - [Taberna El Rincón de Sancho](https://maps.app.goo.gl/C5ShJBXLdzdhsaPVA) - 4.5 grill.
   Was closed at 6pm on a Monday, despite Google Maps saying it should have been open
 - [Restaurante Penjamo](https://maps.app.goo.gl/CCF1uahCVcQR7XGK6) - 4.5 grill.
