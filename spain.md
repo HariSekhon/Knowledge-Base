@@ -88,6 +88,12 @@ because they have people waiting from 7am to check in and they don't allow them 
 
 -->
 
+- [El Social](https://maps.app.goo.gl/aLbCi2Ri2KENgmQ27) - the strip steak & fries for €20 was decent, it's not fillet
+  mignon, but at this price point it's good, and comes with chimichurri sauce and padron peppers to add a bit of spice.
+  The also serve a nice tapenade, bread and crackers,
+  which seems like a nice touch, until you realize they add €3.60 to the bill as cover charge for this.
+  They have their own branded water in glass bottle too.
+  Wifi 573/402 Mbit/s
 - [TKO Tacos](https://tkotacos.com/ubicacion/madrid/) - affordable tacos chain with a great mix of ingredients,
   including the usual beef, pork and chicken, but also octopus and cactus.
   The tacos are surprisingly cheap at €1-2 each, but they are also very small, so you need 5 of them per person.
@@ -100,7 +106,6 @@ because they have people waiting from 7am to check in and they don't allow them 
 
 TODO:
 
-- [El Social](https://maps.app.goo.gl/aLbCi2Ri2KENgmQ27) - 4.8 steak and desserts
 - [Raw Açaí](https://maps.app.goo.gl/NQGHimWeLJhHM8C2A) - gonna ignore the Google Rating
 - [Origen Taberna Madrid](https://maps.app.goo.gl/Tax2uwjTQxTj8VZq5) - 4.7 tapas
 - [Briochef Burgers Madrid](https://maps.app.goo.gl/EgkmCYmu8VkdVuD37) - 4.8 only opens at 1pm and is closed 4:30pm-8pm
