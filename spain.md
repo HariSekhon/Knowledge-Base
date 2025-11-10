@@ -1,5 +1,15 @@
 # Spain
 
+<!-- INDEX_START -->
+
+- [Taxi Apps](#taxi-apps)
+- [Madrid](#madrid)
+  - [Travel from Madrid Airport](#travel-from-madrid-airport)
+  - [Madrid Metro](#madrid-metro)
+  - [Restaurants in Madrid](#restaurants-in-madrid)
+
+<!-- INDEX_END -->
+
 ## Taxi Apps
 
 - [Cabify](https://cabify.com/en) - considered the top taxi app here with competitive pricing, but I've not tried it yet
@@ -9,12 +19,16 @@
 
 ## Madrid
 
-The capital, but expensive at an estimated £3300 nomad cost per month on [Nomads.com](https://nomads.com).
-
-Madrid is surprisingly nice compared to many other capitals (even more so as I'd recently been in Tunisia, Jordan and
-Lebanon.
+Spain's capital is not cheap but it is surprisingly nice, clean and gentrified compared to many other capitals
+(even more so compared to other countries as I'd recently been to such as Tunisia, Jordan and Lebanon!)
 
 There are a lot of nice monuments to see and lots of tourists taking pictures in front of them.
+
+First impressions on the metro was that it was clean and efficient,
+and the population actually looked Spanish,
+so it appears they have much less mass immigration foreign replacement than back home in London.
+
+The central tourist areas do have more foreigners as one would expect.
 
 ### Travel from Madrid Airport
 
