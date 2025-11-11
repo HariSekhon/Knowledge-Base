@@ -30,7 +30,7 @@ First impressions on the metro was that it was clean and efficient,
 and the population actually looked Spanish,
 so it appears they have much less mass immigration foreign replacement than back home in London.
 
-The central tourist areas do have more foreigners as one would expect.
+The central areas have more tourists as one would expect.
 
 Madrid was cold in the evenings in November, around 12C degrees.
 It was ok during the day, around 15-16C degrees, but you will need a coat by 5:30pm as the sun is going down.
