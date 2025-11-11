@@ -376,9 +376,9 @@ Shortcut to everything.
 Use as a drop in replacement for Spotlight which is full of garbage results like web pages in recent versions
 of Mac.
 
-macOS power users often switch to Raycast or Alfred which are more predictable
-and respect local app priority rather than Spotlight which has been ruined trying to be a universal search resulting in
-poor results.
+macOS power users often switch to Raycast or Alfred to use as app launchers as they are more predictable
+and respect local app priority rather than Spotlight which has been ruined trying to be a universal search usually
+resulting in poor results not giving you the local app you want to launch.
 
 Install:
 
