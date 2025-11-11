@@ -63,6 +63,7 @@ and will dispense a card with your single fare on it for an extra one-time fee o
   - [Templo de Debod Viewpoint](https://maps.app.goo.gl/kFfFDd5NE4AKRRuDA)
 - [Catedral de Santa María la Real de la Almudena](https://maps.app.goo.gl/RskFK4CK4X4sKJ4i8)
 - [Pontifical Basilica of Saint Michael](https://maps.app.goo.gl/mHAEEccyoJj1E7H8A)
+- [Cibeles Fountain](Cibeles Fountain)
 - [Puerta de Alcalá](https://maps.app.goo.gl/r6FiypbtWYvYmdFH9) - triumph arch near the entrace to the wonderful El
   Retiro Park
 - [El Retiro Park](https://maps.app.goo.gl/KP1bvHhJfWikjD2LA) - large park with fountains and the Palacio de Cristal
