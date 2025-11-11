@@ -115,6 +115,7 @@ since it must be kept at an angle.
 - [Almalibre Açaí House Madrid](https://maps.app.goo.gl/3ANco1JmQ5ZqyTJj8) - acai bowls of vairous sizes with choice of
   3 toppings.
   The 250ml for €9.50 is big enough.
+  400ml would be too much for one person.
   Wifi 402/249 Mbit/s
 - [TKO Tacos](https://tkotacos.com/ubicacion/madrid/) - affordable tacos chain with a great mix of ingredients,
   including the usual beef, pork and chicken, but also octopus and cactus.
