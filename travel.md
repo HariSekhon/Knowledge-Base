@@ -95,7 +95,7 @@ Cities: 164
   - Cities in 2024: 68
   - UAE, France, Belgium, Germany, Poland, Lithuania, Latvia, Estonia, Sweden, Slovakia, Hungary, Serbia, Morocco,
     Moldova, Turkey, Georgia, Thailand, Vietnam
-  - not counting my extensive month long
+  - plus my extensive month long
     [Tour of England and Wales](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b)
     (the latter was borderline a different country, there are actually Welsh signs I can't read)
 - Countries in 2025: 30
