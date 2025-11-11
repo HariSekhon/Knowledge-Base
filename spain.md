@@ -112,6 +112,9 @@ since it must be kept at an angle.
   Overall this is a good restaurant, but not cheap.
   Honest Greens beats it on price and portions.
   Wifi 573/402 Mbit/s
+- [Almalibre Açaí House Madrid](https://maps.app.goo.gl/3ANco1JmQ5ZqyTJj8) - acai bowls of vairous sizes with choice of
+  3 toppings.
+  Wifi 402/249 Mbit/s
 - [TKO Tacos](https://tkotacos.com/ubicacion/madrid/) - affordable tacos chain with a great mix of ingredients,
   including the usual beef, pork and chicken, but also octopus and cactus.
   The tacos are surprisingly cheap at €1-2 each, but they are also very small, so you need 5 of them per person.
