@@ -77,6 +77,7 @@ and will dispense a card with your single fare on it for an extra one-time fee o
 - [Gran Vía](https://maps.app.goo.gl/pJXkpxYioFRkd9Ty7) - notable central street with lots of large international brand
   stores.
   More useful as the pathway between great monuments and attractions
+- [Outdoor Gym](https://maps.app.goo.gl/TAnAq1oVsYWtboi87) - do some pull-ups bro, it's free
 
 ### Restaurants in Madrid
 
@@ -137,7 +138,6 @@ since it must be kept at an angle.
 
 TODO:
 
-- [Raw Açaí](https://maps.app.goo.gl/NQGHimWeLJhHM8C2A) - gonna ignore the Google Rating
 - [Origen Taberna Madrid](https://maps.app.goo.gl/Tax2uwjTQxTj8VZq5) - 4.7 tapas
 - [Briochef Burgers Madrid](https://maps.app.goo.gl/EgkmCYmu8VkdVuD37) - 4.8 only opens at 1pm and is closed 4:30pm-8pm
   Mon-Thurs
