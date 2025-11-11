@@ -112,7 +112,8 @@ since it must be kept at an angle.
   Overall this is a good restaurant, but not cheap.
   Honest Greens beats it on price and portions.
   Wifi 573/402 Mbit/s
-- [SteakBurger](https://www.steakburger.es/en/home/) - spanish steak & burger chain - angus matured, good selection, but more expensive than Honest Greens or El Social for steak.
+- [SteakBurger](https://www.steakburger.es/en/home/) - spanish steak & burger chain - angus matured, good selection,
+  but more expensive than Honest Greens or El Social for steak.
   Wifi 129/270 Mbit/s (tested at the [Gran Via](https://maps.app.goo.gl/VLVEMQMQ1enSQp7T8) branch)
 - [Almalibre Açaí House Madrid](https://maps.app.goo.gl/3ANco1JmQ5ZqyTJj8) - acai bowls of vairous sizes with choice of
   3 toppings.
