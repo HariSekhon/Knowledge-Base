@@ -376,6 +376,8 @@ Shortcut to everything.
 Use as a drop in replacement for Spotlight which is full of garbage results like web pages in recent versions
 of Mac.
 
+Install:
+
 ```shell
 brew install --cask raycast
 ```
@@ -386,16 +388,26 @@ Start at Login:
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Raycast.app", hidden:false}'
 ```
 
+Start Raycast (might request permissions):
+
 ```shell
 open -a Raycast
 ```
 
-By default claims the `Option` + `Space` to bring it up to not clash with Spotlight. Change this to replace Spotlight.
+By default Raycast claims the `Option` + `Space` hotkey to bring it up to not clash with Spotlight.
+
+Change this to replace Spotlight.
 
 Go to `Settings` -> `Keyboard` -> `Keyboard Shorts` -> `Spotlight` and untick
 `Show Spotlight search` and `Show Finder search window`.
 
 Then go to Raycast's settings and change the Raycast hotkey to be `Cmd` + `Space`.
+
+Disable Spotlight indexing which is a waste of time and resources:
+
+```shell
+sudo mdutil -a -i off
+```
 
 ## AppleScript
 
