@@ -920,10 +920,22 @@ Erase and rebuild the Spotlight index:
 mdutil -E
 ```
 
-Enable / disable Spotlight indexing for a given volume or entirely:
+Disable Spotlight indexing:
 
 ```shell
-mdutil -i
+mdutil -a -i off
+```
+
+Enable Spotlight indexing:
+
+```shell
+mdutil -a -i on
+```
+
+Check indexing status:
+
+```shell
+mdutil -s /
 ```
 
 ### Power Management
