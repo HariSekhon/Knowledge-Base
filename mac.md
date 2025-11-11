@@ -914,6 +914,14 @@ The equivalent of `locate` on Linux, uses the Spotlight index:
 mdfind [-onlyin /path/to/directory] [-name "$filename"] "$term"
 ```
 
+Check an app like Whatsapp is in the Spotlight index:
+
+```shell
+app=WhatsApp
+
+mdfind "kMDItemKind == 'Application' && kMDItemFSName == '$app.app'"
+```
+
 Erase and rebuild the Spotlight index:
 
 ```shell
@@ -942,14 +950,6 @@ Check indexing status for a specific folder (perhaps after disabling indexing on
 
 ```shell
 mdutil -s ~/Downloads
-```
-
-Check an app like Whatsapp is in the Spotlight index:
-
-```shell
-app=WhatsApp
-
-mdfind "kMDItemKind == 'Application' && kMDItemFSName == '$app.app'"
 ```
 
 ### Power Management
