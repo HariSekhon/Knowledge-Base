@@ -403,15 +403,13 @@ Go to `Settings` -> `Keyboard` -> `Keyboard Shorts` -> `Spotlight` and untick
 
 Then go to Raycast's settings and change the Raycast hotkey to be `Cmd` + `Space`.
 
-Uses Spotlight file indexing, so don't disable Spotlight entirely.
+Uses Spotlight file indexing, so don't disable Spotlight entirely or you will lose file search.
 
-<!--
+If you really want to disable file search in Raycast, you can disable indexing entirely to save resources"
 
 ```shell
 sudo mdutil -a -i off
 ```
-
--->
 
 ## AppleScript
 
