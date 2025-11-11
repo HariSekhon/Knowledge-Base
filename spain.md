@@ -24,7 +24,7 @@ Spain's capital is not cheap but it is surprisingly nice, clean and gentrified c
 (even more so compared to other countries as I'd recently been to such as Tunisia, Jordan and Lebanon!)
 
 There are lots of nice historic architectural buildings and monuments to see and lots of tourists taking pictures in
-front of them.
+front of them, as well as lots of museums, acai and coffee shops.
 
 First impressions on the metro was that it was clean and efficient,
 and the population actually looked Spanish,
