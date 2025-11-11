@@ -369,9 +369,33 @@ clamscan --recursive .
 
 ## Raycast
 
-Shortcut to everything - install and then hit `Option` + `Space` to bring it up.
-
 <https://www.raycast.com/>
+
+Shortcut to everything.
+
+Use as a drop in replacement for Spotlight which is full of garbage results like web pages in recent versions
+of Mac.
+
+```shell
+brew install --cask raycast
+```
+
+Start at Login:
+
+```shell
+osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Raycast.app", hidden:false}'
+```
+
+```shell
+open -a Raycast
+```
+
+By default claims the `Option` + `Space` to bring it up to not clash with Spotlight. Change this to replace Spotlight.
+
+Go to `Settings` -> `Keyboard` -> `Keyboard Shorts` -> `Spotlight` and untick
+`Show Spotlight search` and `Show Finder search window`.
+
+Then go to Raycast's settings and change the Raycast hotkey to be `Cmd` + `Space`.
 
 ## AppleScript
 
