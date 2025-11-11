@@ -147,7 +147,7 @@ Country pages with specific tips for each country:
 - [Slovakia](slovakia.md)
 - [Slovenia](slovenia.md)
 - [South Africa](south-africa.md)
-- [Spain](spain.md)
+- [Spain](spain.md) ⭐
 - [Sweden](sweden.md)
 - [Taiwan](taiwan.md)
 - [Thailand](thailand.md) ⭐
