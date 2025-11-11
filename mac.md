@@ -938,6 +938,12 @@ Check indexing status:
 mdutil -s /
 ```
 
+Check indexing status for a specific folder (perhaps after disabling indexing on large or sensitive folders):
+
+```shell
+mdutil -s ~/Downloads
+```
+
 ### Power Management
 
 #### Show Power Management Settings
