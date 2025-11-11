@@ -85,6 +85,8 @@ Safestay Hostel Madrid Central was decent, Wifi speed 31/58 Mbit/s,
 but the queue to check in at 3pm took at least 40 minutes and there was still a queue when I came back at 7:30pm.
 The reception guy said there is often still a queue at 6pm,
 because they have people waiting from 7am to check in and they don't allow them until 3pm.
+There are water coolers on the 3rd and 4th floors, but you due to the tilt you won't be able to fully refill your bottle
+since it must be kept at an angle.
 
 -->
 
