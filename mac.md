@@ -436,7 +436,8 @@ A list of commands is provided at <https://ss64.com/mac/>.
 
 ### Spotlight - Search for or Open anything
 
-`Cmd`-`Space` - opens Spotlight search to auto-complete and open anything quickly.
+`Cmd`-`Space` - opens Spotlight search (or preferably [Raycast](#raycast) if you followed the section above) to
+auto-complete and open anything quickly.
 
 If this doesn't find an app which you know is there such as typing `Spotify` only returns Google Chrome or other wrong
 results despite confirming that `/Applications/Spotify.app` exists, then see
