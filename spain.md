@@ -93,6 +93,7 @@ since it must be kept at an angle.
 - [Honest Greens](https://www.honestgreens.com/en/) - spanish gentrified chain restaurant with an excellent menu,
   affordable prices and nice lighting and decor.
   Mainly in Spain and Portugal but expanding internationally, starting to open in London and Paris as of late 2025/2026.
+  Think of it as the Spanish answer to Wagamama.
   The piri piri chicken is a best seller here and is very tasty, as they make good use of sauce and chilli.
   The hot honey halloumi in spicy honey side is good too,
   although they market it under extra protein, even though it is more fat than protein.
