@@ -158,7 +158,7 @@ Country pages with specific tips for each country:
   - [Turkey](turkey.md)
   - [Tunisia](tunisia.md)
   - [UAE](uae.md) ⭐
-- Americas:
+- North America:
   - [Canada](canada.md)
   - [Mexico](mexico.md)
   - [USA](usa.md)
