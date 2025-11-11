@@ -116,7 +116,7 @@ Country pages with specific tips for each country:
   - [Bulgaria](bulgaria.md)
   - [Croatia](croatia.md)
   - [Cyprus](cyprus.md)
-  - [Czechia / Czech Republic](czechia.md) ⭐
+  - [Czechia](czechia.md) ⭐
   - [Denmark](denmark.md)
   - [Estonia](estonia.md)
   - [France](france.md)
