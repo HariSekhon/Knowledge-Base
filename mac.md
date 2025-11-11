@@ -944,6 +944,14 @@ Check indexing status for a specific folder (perhaps after disabling indexing on
 mdutil -s ~/Downloads
 ```
 
+Check an app like Whatsapp is in the Spotlight index:
+
+```shell
+app=WhatsApp
+
+mdfind "kMDItemKind == 'Application' && kMDItemFSName == '$app.app'"
+```
+
 ### Power Management
 
 #### Show Power Management Settings
