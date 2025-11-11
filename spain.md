@@ -14,7 +14,7 @@
 ## Taxi Apps
 
 - [Cabify](https://cabify.com/en) - considered the top taxi app here with competitive pricing, but I've not tried it yet
-  as the public transport from the airport was 1st world good.
+  as the public transport from the airport was 1st world good
 - [Uber](https://www.uber.com/es/en/)
 - [Bolt](https://bolt.eu/en/)
 
