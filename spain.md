@@ -88,13 +88,17 @@ because they have people waiting from 7am to check in and they don't allow them 
 
 -->
 
+- [Honest Greens](https://www.honestgreens.com/en/) - chain restaurant with an excellent menu and affordable prices.
+  Wifi 95/87 Mbit/s (tested in [Madrid Hortaleza](https://maps.app.goo.gl/KihXwRkvS71VTBaf6) branch)
 - [El Social](https://maps.app.goo.gl/aLbCi2Ri2KENgmQ27) - the strip steak & fries for €20 was decent, it's not fillet
   mignon, but at this price point it's good, and comes with chimichurri sauce and padron peppers to add a bit of spice.
   The also serve a nice tapenade, bread and crackers,
-  which seems like a nice touch, until you realize they add €3.60 to the bill as cover charge for this.
-  They have their own branded water in glass bottle too.
+  which seems like a nice touch, until you realize they actually charge for this without asking.
+  They have their own branded table water in glass bottle too, but that's not charged.
   The mango pudding with caramelized ginger pieces is good, topped with cream.
   I would prefer if the depth of the mango was more and depth of the cream less, but it's still worth having for €6.
+  Overall this is a good restaurant, but not cheap.
+  Honest Greens beats it on price and portions.
   Wifi 573/402 Mbit/s
 - [TKO Tacos](https://tkotacos.com/ubicacion/madrid/) - affordable tacos chain with a great mix of ingredients,
   including the usual beef, pork and chicken, but also octopus and cactus.
