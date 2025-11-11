@@ -108,56 +108,60 @@ Cities: 164
 
 Country pages with specific tips for each country:
 
-- [Albania](albania.md) ⭐
-- [Austria](austria.md)
-- [Belgium](belgium.md)
-- [Bosnia](bosnia.md)
-- [Bulgaria](bulgaria.md)
-- [Cambodia](cambodia.md)
-- [Canada](canada.md)
-- [Croatia](croatia.md)
-- [Cyprus](cyprus.md)
-- [Czechia / Czech Republic](czechia.md) ⭐
-- [Denmark](denmark.md)
-- [Estonia](estonia.md)
-- [France](france.md)
-- [Georgia](georgia.md)
-- [Germany](germany.md)
-- [Hungary](hungary.md)
-- [Indonesia](indonesia.md)
-- [Italy](italy.md)
-- [Jordan](jordan.md) ⭐
-- [Mexico](mexico.md)
-- [Laos](laos.md)
-- [Latvia](latvia.md)
-- [Lebanon](lebanon.md)
-- [Lithuania](lithuania.md)
-- [Malaysia](malaysia.md)
-- [Moldova](moldova.md)
-- [Montenegro](montenegro.md)
-- [Morocco](morocco.md)
-- [Netherlands](netherlands.md)
-- [North Macedonia](north-macedonia.md)
-- [Norway](norway.md)
-- [Poland](poland.md) ⭐
-- [Philippines](philippines.md)
-- [Romania](romania.md)
-- [Serbia](serbia.md) ⭐
-- [Singapore](singapore.md)
-- [Slovakia](slovakia.md)
-- [Slovenia](slovenia.md)
-- [South Africa](south-africa.md)
-- [Spain](spain.md) ⭐
-- [Sweden](sweden.md)
-- [Taiwan](taiwan.md)
-- [Thailand](thailand.md) ⭐
-- [Tunisia](tunisia.md)
-- [Turkey](turkey.md)
-- [UAE](uae.md) ⭐
-- [Ukraine](ukraine.md)
-- [United Kingdom](uk.md)
-- [USA](usa.md)
-- [Vietnam](vietnam.md) ⭐
+- Europe:
+  - [Albania](albania.md) ⭐
+  - [Austria](austria.md)
+  - [Belgium](belgium.md)
+  - [Bosnia](bosnia.md)
+  - [Bulgaria](bulgaria.md)
+  - [Croatia](croatia.md)
+  - [Cyprus](cyprus.md)
+  - [Czechia / Czech Republic](czechia.md) ⭐
+  - [Denmark](denmark.md)
+  - [Estonia](estonia.md)
+  - [France](france.md)
+  - [Georgia](georgia.md)
+  - [Germany](germany.md)
+  - [Hungary](hungary.md)
+  - [Italy](italy.md)
+  - [Latvia](latvia.md)
+  - [Lithuania](lithuania.md)
+  - [Moldova](moldova.md)
+  - [Montenegro](montenegro.md)
+  - [Netherlands](netherlands.md)
+  - [North Macedonia](north-macedonia.md)
+  - [Norway](norway.md)
+  - [Poland](poland.md) ⭐
+  - [Romania](romania.md)
+  - [Serbia](serbia.md) ⭐
+  - [Slovakia](slovakia.md)
+  - [Slovenia](slovenia.md)
+  - [Spain](spain.md) ⭐
+  - [Sweden](sweden.md)
+  - [Ukraine](ukraine.md)
+  - [United Kingdom](uk.md)
+- Asia:
+  - [Cambodia](cambodia.md)
+  - [Indonesia](indonesia.md) ⭐
+  - [Laos](laos.md)
+  - [Malaysia](malaysia.md)
+  - [Philippines](philippines.md)
+  - [Singapore](singapore.md)
+  - [Taiwan](taiwan.md)
+  - [Thailand](thailand.md) ⭐
+  - [Vietnam](vietnam.md) ⭐
+- Africa & Middle East:
+  - [Jordan](jordan.md) ⭐
+  - [Lebanon](lebanon.md)
+  - [Morocco](morocco.md)
+  - [South Africa](south-africa.md)
+  - [Turkey](turkey.md)
+  - [Tunisia](tunisia.md)
+  - [UAE](uae.md) ⭐
+- Americas:
+  - [Canada](canada.md)
+  - [Mexico](mexico.md)
+  - [USA](usa.md)
 
 ## Booking Sites
 
