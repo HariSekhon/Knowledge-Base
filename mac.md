@@ -29,6 +29,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Anti-Virus](#anti-virus)
   - [ClamAV Setup](#clamav-setup)
 - [Raycast](#raycast)
+- [Alfred](#alfred)
 - [AppleScript](#applescript)
 - [Commands](#commands)
   - [Spotlight - Search for or Open anything](#spotlight---search-for-or-open-anything)
@@ -414,6 +415,27 @@ If you really want to disable file search in Raycast, you can disable indexing e
 ```shell
 sudo mdutil -a -i off
 ```
+
+## Alfred
+
+Old school app launcher replacement for Spotlight - looks simpler than Raycast,
+but has more options under the hood with workflows and powerpacks.
+
+Install Alfred:
+
+```shell
+brew install --cask alfred
+```
+
+Start Alfred in the background:
+
+```shell
+open -a "Alfred 5"
+```
+
+Launch Alfred:
+
+`Option` + `Space`
 
 ## AppleScript
 
