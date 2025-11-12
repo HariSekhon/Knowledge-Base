@@ -156,9 +156,10 @@ Acai and desserts:
 
 - [Acai&Me](https://maps.app.goo.gl/sxEAAf9p65ohvnNX8) - 4.9 Acai
 - [Skyrland](https://maps.app.goo.gl/YzHgkUpJJ2uK5Xrw5) - 4.9 smoothies, juices and acai
-- [Amazonia Açai Chamberí](https://maps.app.goo.gl/nzVcdmX3TSRm611j8) /
-  [Amazonia Acai Madrid](https://maps.app.goo.gl/va23oPzpwCLozH9K7) /
-  [Amazonia Acai Chueca](https://maps.app.goo.gl/X6SqXG8zhJv1KHgm6) - 4.3-4.5 Acai chain
+- [Amazonia](https://amazoniacai.com/) - 4.3-4.5 Acai chain, branches in
+  [Central Madrid](https://maps.app.goo.gl/va23oPzpwCLozH9K7) /
+  [Chamberí](https://maps.app.goo.gl/nzVcdmX3TSRm611j8) /
+  [Chueca](https://maps.app.goo.gl/X6SqXG8zhJv1KHgm6) etc.
 - [Sanna Açaí](https://maps.app.goo.gl/M9TtsK5Hhv1cGvYf7) - 4.6 Acai
 - [Açai San](https://maps.app.goo.gl/LBBrFCovnVuMHJJL6) - 4.6 Acai
 - [The Goood Açaí](https://maps.app.goo.gl/pf68qpFSUyr9aCXU6) - 4.7 but seems expensive
