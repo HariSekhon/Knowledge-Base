@@ -141,6 +141,7 @@ TODO:
 
 - [Amazonia Açai Chamberí](https://maps.app.goo.gl/nzVcdmX3TSRm611j8) - 4.5 Acai
 - [Sanna Açaí](https://maps.app.goo.gl/M9TtsK5Hhv1cGvYf7) - 4.6 Acai
+- [The Goood Açaí](https://maps.app.goo.gl/pf68qpFSUyr9aCXU6) - 4.7 but seems expensive
 - [Amorino Gelato - Velazquez](https://maps.app.goo.gl/4PHTKGvd5rd6J55w8) - 4.8 ice cream
 - [Origen Taberna Madrid](https://maps.app.goo.gl/Tax2uwjTQxTj8VZq5) - 4.7 tapas
 - [Briochef Burgers Madrid](https://maps.app.goo.gl/EgkmCYmu8VkdVuD37) - 4.8 only opens at 1pm and is closed 4:30pm-8pm
