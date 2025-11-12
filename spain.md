@@ -123,7 +123,8 @@ since it must be kept at an angle.
   Size wise the 150g burger was enough, glad I didn't try the upgrade to the 220g burger.
   Limited healthy soft drinks selection, no fresh juices.
   Wifi 129/270 Mbit/s (tested at the [Gran Via](https://maps.app.goo.gl/VLVEMQMQ1enSQp7T8) branch)
-- [Amazonia](https://amazoniacai.com/) - Acai chain - the tropical bowl was good.
+- [Amazonia](https://amazoniacai.com/) - Acai chain - the tropical bowl was very good with pineapple, blueberry, kiwi,
+  banana and granola and garnished with coconut flakes.
   Wifi 52/60 Mbit/s at [Chamberí](https://maps.app.goo.gl/nzVcdmX3TSRm611j8).
   Other branches at
   [Central Madrid](https://maps.app.goo.gl/va23oPzpwCLozH9K7) /
