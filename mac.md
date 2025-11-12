@@ -437,6 +437,12 @@ Start Alfred in the background:
 open -a "Alfred 5"
 ```
 
+or in case the version number changes:
+
+```shell
+open -a "$(echo /Applications/Alfred\ *.app)"
+```
+
 Launch Alfred:
 
 `Option` + `Space`
