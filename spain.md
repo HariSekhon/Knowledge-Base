@@ -151,3 +151,4 @@ TODO:
 - [Restaurante Penjamo](https://maps.app.goo.gl/CCF1uahCVcQR7XGK6) - 4.5 grill.
   Was closed at 6pm on a Monday, despite Google Maps saying it should have been open
 - [Café del Rey](https://maps.app.goo.gl/3iz1C26mUidxRkZ27) - 4.2 only serves food 1-4pm??
+- [Makkila Almagro](https://maps.app.goo.gl/bB7p4DKvXn1kNVe48) - 4.4 Mediterranean
