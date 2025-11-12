@@ -102,7 +102,8 @@ since it must be kept at an angle.
   The grilled avocado nikkei side sounds great due to the lots of ingredients
   but when it comes it's just half an avocado grilled and topped with a small amount of tomato salsa type ingredients -
   I'd skip the avocado side unless you're on a diet and go with another side next time.
-  Wifi 95/87 Mbit/s (tested in [Madrid Hortaleza](https://maps.app.goo.gl/KihXwRkvS71VTBaf6) branch)
+  Wifi 95/87 Mbit/s at [Madrid Hortaleza](https://maps.app.goo.gl/KihXwRkvS71VTBaf6), 75/72 Mbit/s at
+  [Madrid Velázquez](https://maps.app.goo.gl/w7E5QxHabmYM6p4L9)
 - [El Social](https://maps.app.goo.gl/aLbCi2Ri2KENgmQ27) - the strip steak & fries for €20 was decent, it's not fillet
   mignon, but at this price point it's good, and comes with chimichurri sauce and padron peppers to add a bit of spice.
   The also serve a nice tapenade, bread and crackers,
