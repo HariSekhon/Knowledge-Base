@@ -443,7 +443,7 @@ or in case the version number changes:
 open -a "$(echo /Applications/Alfred\ *.app)"
 ```
 
-Launch Alfred:
+Launch Alfred search bar:
 
 `Option` + `Space`
 
