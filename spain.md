@@ -144,6 +144,7 @@ TODO:
   [Amazonia Acai Madrid](https://maps.app.goo.gl/va23oPzpwCLozH9K7) /
   [Amazonia Acai Chueca](https://maps.app.goo.gl/X6SqXG8zhJv1KHgm6) - 4.3-4.5 Acai chain
 - [Sanna Açaí](https://maps.app.goo.gl/M9TtsK5Hhv1cGvYf7) - 4.6 Acai
+- [Açai San](https://maps.app.goo.gl/LBBrFCovnVuMHJJL6) - 4.6 Acai
 - [The Goood Açaí](https://maps.app.goo.gl/pf68qpFSUyr9aCXU6) - 4.7 but seems expensive
 - [Amorino Gelato - Velazquez](https://maps.app.goo.gl/4PHTKGvd5rd6J55w8) - 4.8 ice cream
 - [Origen Taberna Madrid](https://maps.app.goo.gl/Tax2uwjTQxTj8VZq5) - 4.7 tapas
@@ -156,3 +157,5 @@ TODO:
   Was closed at 6pm on a Monday, despite Google Maps saying it should have been open
 - [Café del Rey](https://maps.app.goo.gl/3iz1C26mUidxRkZ27) - 4.2 only serves food 1-4pm??
 - [Makkila Almagro](https://maps.app.goo.gl/bB7p4DKvXn1kNVe48) - 4.4 Mediterranean
+- [Oakberry](https://www.oakberry.com/es-ES/stores/Spain) - international Acai chain, try the local chains and
+  independents first as this is the same across continents
