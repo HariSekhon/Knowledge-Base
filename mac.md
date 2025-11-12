@@ -418,7 +418,11 @@ sudo mdutil -a -i off
 
 ## Alfred
 
-Old school app launcher replacement for Spotlight - looks simpler than Raycast,
+More mature app launcher replacement for Spotlight.
+
+More configurable and extensible than Raycast.
+
+The search bar looks simpler than Raycast,
 but has more options under the hood with workflows and powerpacks.
 
 Install Alfred:
