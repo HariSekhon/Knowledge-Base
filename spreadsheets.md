@@ -4,11 +4,20 @@ Excel and Google Sheets tips.
 
 <!-- INDEX_START -->
 
+- [Use Google Sheets Offline](#use-google-sheets-offline)
 - [Auto-Calculate Dates](#auto-calculate-dates)
 - [Memes](#memes)
   - [CPU, RAM](#cpu-ram)
 
 <!-- INDEX_END -->
+
+## Use Google Sheets Offline
+
+Being on unstable wifi when travelling can be frustrating if you cannot edit your Google Sheets.
+
+Configure offline access, follow these instructions:
+
+<https://support.google.com/docs/answer/6388102>
 
 ## Auto-Calculate Dates
 
