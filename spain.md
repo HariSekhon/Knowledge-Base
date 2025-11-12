@@ -123,6 +123,11 @@ since it must be kept at an angle.
   Size wise the 150g burger was enough, glad I didn't try the upgrade to the 220g burger.
   Limited healthy soft drinks selection, no fresh juices.
   Wifi 129/270 Mbit/s (tested at the [Gran Via](https://maps.app.goo.gl/VLVEMQMQ1enSQp7T8) branch)
+- [Amazonia](https://amazoniacai.com/) - Acai chain - the tropical bowl was good.
+  Wifi 52/60 Mbit/s at [Chamberí](https://maps.app.goo.gl/nzVcdmX3TSRm611j8).
+  Other branches at
+  [Central Madrid](https://maps.app.goo.gl/va23oPzpwCLozH9K7) /
+  [Chueca](https://maps.app.goo.gl/X6SqXG8zhJv1KHgm6)
 - [Almalibre Açaí House Madrid](https://maps.app.goo.gl/3ANco1JmQ5ZqyTJj8) - acai bowls of vairous sizes with choice of
   3 toppings.
   The 250ml for €9.50 is big enough - 400ml would be too much for one person.
@@ -156,10 +161,6 @@ Acai and desserts:
 
 - [Acai&Me](https://maps.app.goo.gl/sxEAAf9p65ohvnNX8) - 4.9 Acai
 - [Skyrland](https://maps.app.goo.gl/YzHgkUpJJ2uK5Xrw5) - 4.9 smoothies, juices and acai
-- [Amazonia](https://amazoniacai.com/) - 4.3-4.5 Acai chain, branches in
-  [Central Madrid](https://maps.app.goo.gl/va23oPzpwCLozH9K7) /
-  [Chamberí](https://maps.app.goo.gl/nzVcdmX3TSRm611j8) /
-  [Chueca](https://maps.app.goo.gl/X6SqXG8zhJv1KHgm6) etc.
 - [Sanna Açaí](https://maps.app.goo.gl/M9TtsK5Hhv1cGvYf7) - 4.6 Acai
 - [Açai San](https://maps.app.goo.gl/LBBrFCovnVuMHJJL6) - 4.6 Acai
 - [The Goood Açaí](https://maps.app.goo.gl/pf68qpFSUyr9aCXU6) - 4.7 but seems expensive
