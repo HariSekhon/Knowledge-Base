@@ -131,7 +131,8 @@ since it must be kept at an angle.
 - [Acai&Me](https://maps.app.goo.gl/sxEAAf9p65ohvnNX8) - good Acai
 - [Amazonia](https://amazoniacai.com/) - Acai chain - the tropical bowl was very good with pineapple, blueberry, kiwi,
   banana and granola and garnished with coconut flakes.
-  The 350ml sized bowl was more than enough for me, and warning the acai comes very chilled.
+  The 350ml sized bowl was more than enough for me -
+  warning the acai comes very chilled, making it hard to eat quickly because it was so cold.
   Wifi 52/60 Mbit/s at [Chamberí](https://maps.app.goo.gl/nzVcdmX3TSRm611j8).
   Other branches at
   [Central Madrid](https://maps.app.goo.gl/va23oPzpwCLozH9K7) /
