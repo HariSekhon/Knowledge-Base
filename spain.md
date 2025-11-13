@@ -173,3 +173,7 @@ Acai and desserts:
 - [Amorino Gelato - Velazquez](https://maps.app.goo.gl/4PHTKGvd5rd6J55w8) - 4.8 ice cream
 - [Oakberry](https://www.oakberry.com/es-ES/stores/Spain) - international Acai chain, try the local chains and
   independents first as this is the same across continents
+
+Expensive / fancy:
+
+- [Jardín de los Duques](https://maps.app.goo.gl/86RZUPuVPQN4Mkx89)
