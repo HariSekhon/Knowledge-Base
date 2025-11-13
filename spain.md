@@ -115,7 +115,7 @@ since it must be kept at an angle.
   Overall this is a good restaurant, but not cheap.
   Honest Greens beats it on price and portions.
   Wifi 573/402 Mbit/s
-- [Briochef Burgers Madrid](https://maps.app.goo.gl/EgkmCYmu8VkdVuD37) - award winning burgers.
+- [Briochef Burgers Madrid](https://briochef.com/) - small Madrid chain of award winning burgers.
   Weak on soft drinks though, they only have sugary sodas like Coke or water still/sparkling, and alcoholic drinks.
   Only opens at 1pm and is closed 4:30pm-8pm Mon-Thurs.
   Wifi 126/85 Mbit/s at [Madrid](https://maps.app.goo.gl/EgkmCYmu8VkdVuD37) branch
