@@ -58,7 +58,8 @@ and will dispense a card with your single fare on it for an extra one-time fee o
 
 ### Attractions in Madrid
 
-- [Royal Palace of Madrid](https://maps.app.goo.gl/a8r2fPUYZo944Q1w5)
+- [Royal Palace of Madrid](https://maps.app.goo.gl/a8r2fPUYZo944Q1w5) - you forget how rich Spain used to be until you
+  see this palace and gardens
 - [Temple of Debod](https://maps.app.goo.gl/iV94jFzJ1J7SsS5e6)
   - [Templo de Debod Viewpoint](https://maps.app.goo.gl/kFfFDd5NE4AKRRuDA)
 - [Catedral de Santa María la Real de la Almudena](https://maps.app.goo.gl/RskFK4CK4X4sKJ4i8)
@@ -114,6 +115,10 @@ since it must be kept at an angle.
   Overall this is a good restaurant, but not cheap.
   Honest Greens beats it on price and portions.
   Wifi 573/402 Mbit/s
+- [Briochef Burgers Madrid](https://maps.app.goo.gl/EgkmCYmu8VkdVuD37) - award winning burgers.
+  Weak on soft drinks though, they only have sugary sodas like Coke or water still/sparkling, and alcoholic drinks.
+  Only opens at 1pm and is closed 4:30pm-8pm Mon-Thurs.
+  Wifi 126/85 Mbit/s at [Madrid](https://maps.app.goo.gl/EgkmCYmu8VkdVuD37) branch
 - [SteakBurger](https://www.steakburger.es/en/home/) - Spanish steak & burger chain with 10 branches across Madrid and
   Murcia as of late 2025 - has burgers in both regular and angus matured variety (more expensive).
   Good menu selection of steaks and burgers, but more expensive than Honest Greens or El Social for steak.
@@ -149,8 +154,6 @@ TODO:
 Food:
 
 - [Origen Taberna Madrid](https://maps.app.goo.gl/Tax2uwjTQxTj8VZq5) - 4.7 tapas
-- [Briochef Burgers Madrid](https://maps.app.goo.gl/EgkmCYmu8VkdVuD37) - 4.8 only opens at 1pm and is closed 4:30pm-8pm
-  Mon-Thurs
 - [El Punto Guay](https://maps.app.goo.gl/pjA5rL45UipBLYSN8) - 4.8 venezuelan, burgers, fast food
 - [Taberna El Rincón de Sancho](https://maps.app.goo.gl/C5ShJBXLdzdhsaPVA) - 4.5 grill.
   Was closed at 6pm on a Monday, despite Google Maps saying it should have been open
