@@ -128,6 +128,7 @@ since it must be kept at an angle.
   Size wise the 150g burger was enough, glad I didn't try the upgrade to the 220g burger.
   Limited healthy soft drinks selection, no fresh juices.
   Wifi 129/270 Mbit/s (tested at the [Gran Via](https://maps.app.goo.gl/VLVEMQMQ1enSQp7T8) branch)
+- [Acai&Me](https://maps.app.goo.gl/sxEAAf9p65ohvnNX8) - good Acai
 - [Amazonia](https://amazoniacai.com/) - Acai chain - the tropical bowl was very good with pineapple, blueberry, kiwi,
   banana and granola and garnished with coconut flakes.
   The 350ml sized bowl was more than enough for me, and warning the acai comes very chilled.
@@ -164,7 +165,6 @@ Food:
 
 Acai and desserts:
 
-- [Acai&Me](https://maps.app.goo.gl/sxEAAf9p65ohvnNX8) - 4.9 Acai
 - [Skyrland](https://maps.app.goo.gl/YzHgkUpJJ2uK5Xrw5) - 4.9 smoothies, juices and acai
 - [Sanna Açaí](https://maps.app.goo.gl/M9TtsK5Hhv1cGvYf7) - 4.6 Acai
 - [Açai San](https://maps.app.goo.gl/LBBrFCovnVuMHJJL6) - 4.6 Acai
