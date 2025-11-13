@@ -155,7 +155,7 @@ TODO:
 
 Food:
 
-- [Dum Dum](https://maps.app.goo.gl/YQYTW6nB8DPq8HdbA) - 4.9
+- [Dum Dum](https://maps.app.goo.gl/YQYTW6nB8DPq8HdbA) - 4.9 dumplings
 - [Poke House](https://poke-house.com/es-es/menu/) - 4.6
 - [Origen Taberna Madrid](https://maps.app.goo.gl/Tax2uwjTQxTj8VZq5) - 4.7 tapas
 - [El Punto Guay](https://maps.app.goo.gl/pjA5rL45UipBLYSN8) - 4.8 venezuelan, burgers, fast food
