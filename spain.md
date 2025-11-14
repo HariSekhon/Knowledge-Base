@@ -5,7 +5,7 @@
 - [Taxi Apps](#taxi-apps)
 - [Madrid](#madrid)
   - [Madrid Airport](#madrid-airport)
-    - [Travel from Madrid Airport](#travel-from-madrid-airport)
+    - [Travel to / from Madrid Airport](#travel-to--from-madrid-airport)
   - [Metro in Madrid](#metro-in-madrid)
   - [Attractions in Madrid](#attractions-in-madrid)
   - [Restaurants in Madrid](#restaurants-in-madrid)
