@@ -312,6 +312,15 @@ and this makes it even more likely that you'll miss a connecting flight.
 
 It's even worse than the `Self Transfer`.
 
+#### Charging Your Devices on Flights
+
+Many planes have been around for a long time such that they only have classic old large USB ports to charge devices,
+whereas most modern smartphones and laptops have USB charging ports.
+
+Bring a USB-to-USB-c charging cable of at least medium length
+to be able to charge your smartphone - medium length to be able for it to reach to the pouch on the back of the seat in
+front of you where you may want to rest your phone.
+
 ## Hotels vs Hostels vs Airbnb
 
 After a lot of travelling, I have come to the conclusion that you can judge a place by the cost of its accommodation.
