@@ -13,7 +13,7 @@
 
 ## Airline Check-in & Immigration Control
 
-**Warning**: the airline refused to check me in without proof of an outbound flight, I had to quickly find and book
+**WARNING**: the airline refused to check me in without proof of an outbound flight, I had to quickly find and book
 something out of Mexico just to check in with 10 minutes left until check-in closure since the check-in closes 1.5 hours
 before the flight.
 
