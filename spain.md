@@ -14,6 +14,8 @@
 
 ## Taxi Apps
 
+I didn't bother using any taxis in Madrid as the Metro is 1st class and connects to the airport too.
+
 - [Cabify](https://cabify.com/en) - considered the top taxi app here with competitive pricing, but I've not tried it yet
   as the public transport from the airport was 1st world good
 - [Uber](https://www.uber.com/es/en/)
@@ -69,13 +71,17 @@ and will dispense a card with your single fare on it for an extra one-time fee o
 
 ### Attractions in Madrid
 
+There are so many impresssive historical architectural buildings,
+don't underestimate or skip them, such as the museums, go have a look.
+
 - [Royal Palace of Madrid](https://maps.app.goo.gl/a8r2fPUYZo944Q1w5) - you forget how rich Spain used to be until you
   see this palace and gardens
 - [Temple of Debod](https://maps.app.goo.gl/iV94jFzJ1J7SsS5e6)
   - [Templo de Debod Viewpoint](https://maps.app.goo.gl/kFfFDd5NE4AKRRuDA)
-- [Catedral de Santa María la Real de la Almudena](https://maps.app.goo.gl/RskFK4CK4X4sKJ4i8)
-- [Pontifical Basilica of Saint Michael](https://maps.app.goo.gl/mHAEEccyoJj1E7H8A)
 - [Cibeles Fountain](Cibeles Fountain)
+- [Museo Nacional del Prado](https://maps.app.goo.gl/JPthmKM95FCUn6YKA) - the building itself is impressive, and houses
+  a vast collection of art
+- [Naval Museum](https://maps.app.goo.gl/D9hhvbvn7g3wQ1td6)
 - [Puerta de Alcalá](https://maps.app.goo.gl/r6FiypbtWYvYmdFH9) - triumph arch near the entrace to the wonderful El
   Retiro Park
 - [El Retiro Park](https://maps.app.goo.gl/KP1bvHhJfWikjD2LA) - large park with fountains and the Palacio de Cristal
@@ -89,6 +95,8 @@ and will dispense a card with your single fare on it for an extra one-time fee o
 - [Gran Vía](https://maps.app.goo.gl/pJXkpxYioFRkd9Ty7) - notable central street with lots of large international brand
   stores.
   More useful as the pathway between great monuments and attractions
+- [Catedral de Santa María la Real de la Almudena](https://maps.app.goo.gl/RskFK4CK4X4sKJ4i8)
+- [Pontifical Basilica of Saint Michael](https://maps.app.goo.gl/mHAEEccyoJj1E7H8A)
 - [Outdoor Gym](https://maps.app.goo.gl/TAnAq1oVsYWtboi87) - do some pull-ups bro, it's free
 
 ### Restaurants in Madrid
