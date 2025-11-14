@@ -40,6 +40,7 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Transfer Flight Timings](#transfer-flight-timings)
     - [Self Transfer](#self-transfer)
     - [Change Airport](#change-airport)
+    - [Charging Your Devices on Flights](#charging-your-devices-on-flights)
 - [Hotels vs Hostels vs Airbnb](#hotels-vs-hostels-vs-airbnb)
   - [Internet - Hotel vs Airbnb](#internet---hotel-vs-airbnb)
   - [Parking - Hotel, Hostel & Airbnb](#parking---hotel-hostel--airbnb)
