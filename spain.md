@@ -4,7 +4,8 @@
 
 - [Taxi Apps](#taxi-apps)
 - [Madrid](#madrid)
-  - [Travel from Madrid Airport](#travel-from-madrid-airport)
+  - [Madrid Airport](#madrid-airport)
+    - [Travel from Madrid Airport](#travel-from-madrid-airport)
   - [Metro in Madrid](#metro-in-madrid)
   - [Attractions in Madrid](#attractions-in-madrid)
   - [Restaurants in Madrid](#restaurants-in-madrid)
@@ -35,15 +36,25 @@ The central areas have more tourists as one would expect.
 Madrid was cold in the evenings in November, around 12C degrees.
 It was ok during the day, around 15-16C degrees, but you will need a coat by 5:30pm as the sun is going down.
 
-### Travel from Madrid Airport
+### Madrid Airport
 
-You can take the 200 bus from immediately outside the door of exit 14 at Terminal 1 arrivals.
-It goes to the metro station Avenue de America -
-which only takes 18 minutes and a handful of stops for an affordable €1.50. It seems to come quite frequently approximately every 20 minutes.
+There is a water cooler outside the toilet in the main area.
 
-There also appears to be a metro number 8 line from Terminal 4.
+Take a refillable water bottle or you'll be kicking yourself for getting scammed for €5 for a bottle of water.
 
-Of course both will be much cheaper than taking a taxi.
+#### Travel to / from Madrid Airport
+
+There are Metro lines that go straight to the airport.
+
+You can also take the 200 bus from immediately outside the door of exit 14 at Terminal 1 arrivals.
+It goes to the metro station Avenue de America - which only takes 18 minutes and a handful of stops for an affordable
+€1.50. It seems to come quite frequently approximately every 20 minutes.
+
+On the way back to the airport I decided to try the long way to see a bit more and took the metro to Atocha for €1.50
+and then the 203 bus which leaves every 15 minutes,
+but it was €5 which was a bit of a rip off compared to the 200 bus above.
+
+Taxi is an option but you probably won't need it unless you're pressed for time, and even then you'll risk traffic.
 
 ### Metro in Madrid
 
