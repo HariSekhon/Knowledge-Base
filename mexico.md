@@ -33,8 +33,8 @@ Holiday city on the east coast, famous destination for US spring break students.
 
 #### Travel from Cancun Airport
 
-There is a red bus stand call ADO Aeropuerto as you exit the airport on the right.
-Do not follow Google Maps it'll send you the wrong way.
+There is a red bus stand call ADO Aeropuerto, which if you exit Terminal 3 is on the right.
+Google Maps tried to send me the wrong way, possibly to Terminal 2's ADO.
 
 The ticket to Cancun costs 145 mexican pesos (£6), 170 pesos (£7) if you're travelling to the hotel zone.
 
