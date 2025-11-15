@@ -38,6 +38,8 @@ Do not follow Google Maps it'll send you the wrong way.
 
 The ticket to Cancun costs 145 mexican pesos (£6), 170 pesos (£7) if you're travelling to the hotel zone.
 
+I'm actually surprised it costs this much compared to even places in Europe I can travel to/from the airport for less.
+
 I'm told taxis cost $30.
 
 ### Chichén Itzá
