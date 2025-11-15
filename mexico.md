@@ -44,9 +44,10 @@ reasonable compared to ATMs in other countries.
   and amazing sauces to add to it and plenty of limes.
   My first taste of Cancun & Mexico did not disappoint - this burrito and sauces blows Madrid's TKO Tacos out of the
   water.
-  Skip the tacos, even though they come doubled they fall apart.
-  The chicken pieces are mediocre and too salty while the pork chop is ~50% fat and too salty. Avoid both of those next
-  time. The strip steak is the thing to have here, nice and lean.
+  Skip the tacos though, even though they come doubled up, they fall apart quickly.
+  Also avoid the chicken pieces are mediocre and too salty while the pork chop is ~50% fat and too salty. The "pastor"
+  is likely even worse since it's shawarma meat on a spit like in a kebab shop.
+  The strip steak is the thing to have here, nice and lean.
   Wifi 120/177 Mbit/s
 
 #### Travel from Cancun Airport
