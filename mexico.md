@@ -31,6 +31,20 @@ The capital, reputation for being high crime.
 
 Holiday city on the east coast, famous destination for US spring break students.
 
+#### Cancun ATMs
+
+The Santander ATM in the ADO bus station charged 35 pesos (€1.60) commission when withdrawing 2500 pesos, which was
+reasonable compared to ATMs in other countries.
+
+#### Cancun Restaurants
+
+- [Carbon Tacos y Miches] - amazing strip steak burrito for 150 pesos (€7)
+  and amazing sauces to add to it and plenty of limes.
+  Skip the tacos, even though they come doubled they fall apart.
+  The chicken pieces are mediocre and too salty while the pork chop is ~50% fat and too salty. Avoid both of those next time
+  The strip steak is the thing to have here, nice and lean.
+  Wifi 120/177 Mbit/s
+
 #### Travel from Cancun Airport
 
 There is a red bus stand call ADO Aeropuerto, which if you exit Terminal 3 is on the right.
