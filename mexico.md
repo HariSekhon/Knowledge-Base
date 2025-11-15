@@ -6,6 +6,8 @@
 - [Mexico City](#mexico-city)
 - [Yucatan Peninsula](#yucatan-peninsula)
   - [Cancun](#cancun)
+    - [Cancun ATMs](#cancun-atms)
+    - [Cancun Restaurants](#cancun-restaurants)
     - [Travel from Cancun Airport](#travel-from-cancun-airport)
   - [Chichén Itzá](#chichén-itzá)
   - [Tulum](#tulum)
