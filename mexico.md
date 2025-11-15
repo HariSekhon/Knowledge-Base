@@ -6,6 +6,7 @@
 - [Mexico City](#mexico-city)
 - [Yucatan Peninsula](#yucatan-peninsula)
   - [Cancun](#cancun)
+    - [Travel from Cancun Airport](#travel-from-cancun-airport)
   - [Chichén Itzá](#chichén-itzá)
   - [Tulum](#tulum)
 
@@ -17,6 +18,9 @@
 something out of Mexico just to check in with 10 minutes left until check-in closure since the check-in closes 1.5 hours
 before the flight.
 
+The immigration officer didn't ask for this - the insistant woman at Madrid airport preventing me from speaking to the
+check-in desk was either just trying to ruin my day or it's the airlines policy, but it was not the immigration officer.
+
 ## Mexico City
 
 The capital, reputation for being high crime.
@@ -26,6 +30,15 @@ The capital, reputation for being high crime.
 ### Cancun
 
 Holiday city on the east coast, famous destination for US spring break students.
+
+#### Travel from Cancun Airport
+
+There is a red bus stand call ADO Aeropuerto as you exit the airport on the right.
+Do not follow Google Maps it'll send you the wrong way.
+
+The ticket to Cancun costs 145 mexican pesos (£6).
+
+I'm told taxis cost $30.
 
 ### Chichén Itzá
 
