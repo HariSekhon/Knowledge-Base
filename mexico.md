@@ -36,7 +36,7 @@ Holiday city on the east coast, famous destination for US spring break students.
 There is a red bus stand call ADO Aeropuerto as you exit the airport on the right.
 Do not follow Google Maps it'll send you the wrong way.
 
-The ticket to Cancun costs 145 mexican pesos (£6).
+The ticket to Cancun costs 145 mexican pesos (£6), 170 pesos (£7) if you're travelling to the hotel zone.
 
 I'm told taxis cost $30.
 
