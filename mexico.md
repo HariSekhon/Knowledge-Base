@@ -40,7 +40,8 @@ The ticket to Cancun costs 145 mexican pesos (£6), 170 pesos (£7) if you're tr
 
 I'm actually surprised it costs this much compared to even places in Europe I can travel to/from the airport for less.
 
-I'm told taxis cost $30.
+I'm told taxis cost $30, so if there are 2-3 of you it's probably better to just take a taxi (try to fix the price up
+front if you can to avoid surprises).
 
 ### Chichén Itzá
 
