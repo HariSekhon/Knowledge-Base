@@ -50,8 +50,8 @@ The ticket to Cancun costs 145 mexican pesos (£6), 170 pesos (£7) if you're tr
 
 I'm actually surprised it costs this much compared to even places in Europe I can travel to/from the airport for less.
 
-I was told taxis cost around \$30, but actually if you use Uber it's around \$20, so if there are 2-3 of you it's
-probably better to just take an Uber or InDrive.
+I was told taxis cost around \$30, but actually when I checked it was \$20 on Uber and \$13 on InDrive, so if there are
+2-3 of you it's probably better to just take an Uber or InDrive anyway.
 Needless to say, don't try to take as a gringo without fixing the price up front.
 
 #### Taxi Apps in Cancun
