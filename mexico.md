@@ -6,9 +6,9 @@
 - [Mexico City](#mexico-city)
 - [Yucatan Peninsula](#yucatan-peninsula)
   - [Cancun](#cancun)
+    - [Travel from Cancun Airport](#travel-from-cancun-airport)
     - [Cancun ATMs](#cancun-atms)
     - [Cancun Restaurants](#cancun-restaurants)
-    - [Travel from Cancun Airport](#travel-from-cancun-airport)
   - [Chichén Itzá](#chichén-itzá)
   - [Tulum](#tulum)
 
@@ -39,6 +39,24 @@ The capital, reputation for being high crime.
 ### Cancun
 
 Holiday city on the east coast, famous destination for US spring break students.
+
+#### Travel from Cancun Airport
+
+There is a red bus stand call ADO Aeropuerto, which if you exit Terminal 3 is on the right.
+Google Maps tried to send me the wrong way, possibly to Terminal 2's ADO.
+
+The ticket to Cancun costs 145 mexican pesos (£6), 170 pesos (£7) if you're travelling to the hotel zone.
+
+I'm actually surprised it costs this much compared to even places in Europe I can travel to/from the airport for less.
+
+I'm told taxis cost $30, so if there are 2-3 of you it's probably better to just take a taxi (try to fix the price up
+front if you can to avoid surprises).
+
+#### Taxi Apps in Cancun
+
+- [InDrive](https://indrive.com/en-mx) - bid your price, similar price to Uber, but the real saving is taking a
+  motorbike ride which is half the price
+- [Uber](https://www.uber.com/)
 
 #### Cancun ATMs
 
@@ -73,21 +91,9 @@ reasonable compared to ATMs in other countries.
   I also had to ask for limes,
   there is a small self-service area for this opposite the bar but you'll need a small plate from the staff.
 
-#### Travel from Cancun Airport
-
-There is a red bus stand call ADO Aeropuerto, which if you exit Terminal 3 is on the right.
-Google Maps tried to send me the wrong way, possibly to Terminal 2's ADO.
-
-The ticket to Cancun costs 145 mexican pesos (£6), 170 pesos (£7) if you're travelling to the hotel zone.
-
-I'm actually surprised it costs this much compared to even places in Europe I can travel to/from the airport for less.
-
-I'm told taxis cost $30, so if there are 2-3 of you it's probably better to just take a taxi (try to fix the price up
-front if you can to avoid surprises).
-
 ### Chichén Itzá
 
-[Chichén Itzá](https://maps.app.goo.gl/XyRwnT7SHYCckcLx8) is the archaelogical ruins of a large Maya city with an iconic
+[Chichén Itzá](https://maps.app.goo.gl/XyRwnT7SHYCckcLx8) is the archeological ruins of a large Maya city with an iconic
 step pyramid.
 
 ### Tulum
