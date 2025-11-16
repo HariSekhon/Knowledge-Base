@@ -18,7 +18,8 @@ I'm actually shocked what a 3rd world country Mexico is walking around Cancun.
 
 I had expected it to be more touristy and fancy,
 the tourists must be hiding in the resorts
-but walking around the regular streets in search of restaurants is illuminating.
+but walking around the regular streets in search of restaurants is jarring compared to coming from a 1st world city like
+Madrid on my prior stop.
 
 ## Airline Check-in & Immigration Control
 
