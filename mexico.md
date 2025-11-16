@@ -61,13 +61,16 @@ reasonable compared to ATMs in other countries.
   prices for tacos and tostas.
   Could do with a better drinks menu, and didn't get the wifi working due to capture portal.
   Skip the tacos and go straight for the tostas next time.
-  The tacos, like at Carbon, are whole wheat no so tasty and the ingredients were not properly handled.
+  The tacos are cheap, but like at Carbon, are whole wheat, not so tasty and the ingredients were not properly handled.
   The fried shrimp was massive dough balls on a modest prawn,
   the white fish was a bit better but still way too much batter,
   and the octopus came burnt to a crisp due to all the small pieces of it.
   The mixed seafood toasta on the other hand came nice and crunchy base with excellent ingredient topping,
   shrimp and thicker octopus tentacle pieces, with lots of tomato making it like a mexican bruschetta.
   I would just get two or three of these next time.
+  Because the tacos were a bit of a disaster I forgot to even try the 4 sauces.
+  I also had to ask for limes,
+  there is a small self-service area for this opposite the bar but you'll need a small plate from the staff.
 
 #### Travel from Cancun Airport
 
