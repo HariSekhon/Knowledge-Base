@@ -7,6 +7,7 @@
 - [Yucatan Peninsula](#yucatan-peninsula)
   - [Cancun](#cancun)
     - [Travel from Cancun Airport](#travel-from-cancun-airport)
+    - [Taxi Apps in Cancun](#taxi-apps-in-cancun)
     - [Cancun ATMs](#cancun-atms)
     - [Cancun Restaurants](#cancun-restaurants)
   - [Chichén Itzá](#chichén-itzá)
