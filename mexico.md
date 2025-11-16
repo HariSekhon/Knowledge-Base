@@ -50,7 +50,8 @@ reasonable compared to ATMs in other countries.
   and amazing sauces to add to it and plenty of limes.
   My first taste of Cancun & Mexico did not disappoint - this burrito and sauces blows Madrid's TKO Tacos out of the
   water.
-  Skip the tacos though, even though they come doubled up, they fall apart quickly.
+  Skip the tacos though, even though they come doubled up, they are less tasty whole wheat tacos and they fall apart
+  quickly regardless.
   Also avoid the chicken pieces are mediocre and too salty while the pork chop is ~50% fat and too salty. The _"pastor"_
   is likely even worse since it's shawarma meat on a spit like in a kebab shop.
   The strip steak is the thing to have here, nice and lean.
@@ -59,6 +60,14 @@ reasonable compared to ATMs in other countries.
 - [Las Tostadillas Del Mar Ruta Nader](https://maps.app.goo.gl/BPMpj6nBKyU9Q8438) - seafood restaurant with reasonable
   prices for tacos and tostas.
   Could do with a better drinks menu, and didn't get the wifi working due to capture portal.
+  Skip the tacos and go straight for the tostas next time.
+  The tacos, like at Carbon, are whole wheat no so tasty and the ingredients were not properly handled.
+  The fried shrimp was massive dough balls on a modest prawn,
+  the white fish was a bit better but still way too much batter,
+  and the octopus came burnt to a crisp due to all the small pieces of it.
+  The mixed seafood toasta on the other hand came nice and crunchy base with excellent ingredient topping,
+  shrimp and thicker octopus tentacle pieces, with lots of tomato making it like a mexican bruschetta.
+  I would just get two or three of these next time.
 
 #### Travel from Cancun Airport
 
