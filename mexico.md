@@ -14,6 +14,12 @@
 
 <!-- INDEX_END -->
 
+I'm actually shocked what a 3rd world country Mexico is walking around Cancun.
+
+I had expected it to be more touristy and fancy,
+the tourists must be hiding in the resorts
+but walking around the regular streets in search of restaurants is illuminating.
+
 ## Airline Check-in & Immigration Control
 
 **WARNING**: the airline refused to check me in without proof of an outbound flight, I had to quickly find and book
@@ -50,6 +56,9 @@ reasonable compared to ATMs in other countries.
   The strip steak is the thing to have here, nice and lean.
   The _"jamaica water"_ is a nice sweet hibiscus still drink served in a big fancy cocktail glass.
   Wifi 120/177 Mbit/s
+- [Las Tostadillas Del Mar Ruta Nader](https://maps.app.goo.gl/BPMpj6nBKyU9Q8438) - seafood restaurant with reasonable
+  prices for tacos and tostas.
+  Could do with a better drinks menu, and didn't get the wifi working due to capture portal.
 
 #### Travel from Cancun Airport
 
