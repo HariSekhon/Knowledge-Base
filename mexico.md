@@ -72,13 +72,18 @@ I'll inevitably miss some as there are so many...
 
 - [Chichén Itzá](#chichen-itza) - day trip to ancient mayan ruins, see section below
 - [Tulum](#tulum) - day trip to Tulum, see section below
-- [Zona Arqueológica de El Meco](https://maps.app.goo.gl/pBx1wsFnWgTk4qjN7)
-  - [Playa del Niño](https://maps.app.goo.gl/btEhugKHpepQjsv39) - beach strip near Zona Arqueológica de El Meco
-- [Playa Lagarto, Cancun](https://maps.app.goo.gl/wJ9pK2fdJznEjmHZA) - party beach in the heart of the hotel zone
-  (in the north end)
-- [La Isla Cancún](https://maps.app.goo.gl/JihvnQzXP4SgHNYE6) - open air shopping mall with lots of designer brands and
-  chain restaurants
-- [Playa Marlín](https://maps.app.goo.gl/sC3jUSiaMWFgSzAeA) - beach further down the hotel zone
+- Hotel Zone:
+  - [Zona Arqueológica de El Meco](https://maps.app.goo.gl/pBx1wsFnWgTk4qjN7)
+    - [Playa del Niño](https://maps.app.goo.gl/btEhugKHpepQjsv39) - beach strip near Zona Arqueológica de El Meco
+  - [Playa Lagarto, Cancun](https://maps.app.goo.gl/wJ9pK2fdJznEjmHZA) - party beach in the heart of the hotel zone
+    (in the north end)
+  - [La Isla Cancún](https://maps.app.goo.gl/JihvnQzXP4SgHNYE6) - open air shopping mall with lots of designer brands and
+    chain restaurants
+  - [Playa Marlín](https://maps.app.goo.gl/sC3jUSiaMWFgSzAeA) - beach further down the hotel zone
+- [Plaza Las Americas](https://maps.app.goo.gl/5Fe2WG1SAqkasVLd7) - south of El Centro / downtown - American brands
+  mall with American chain restaurants.
+  - [Súper Naturista](https://maps.app.goo.gl/aZZynwA1K8dckF9aA) - expensive but good selection of vitamins, supplements
+    and _"healthy"_ snacks
 
 TODO:
 
