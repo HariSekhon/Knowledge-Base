@@ -8,9 +8,9 @@
   - [Cancun](#cancun)
     - [Travel from Cancun Airport](#travel-from-cancun-airport)
     - [Taxi Apps in Cancun](#taxi-apps-in-cancun)
-    - [Cancun ATMs](#cancun-atms)
-    - [Cancun Attractions](#cancun-attractions)
-    - [Cancun Restaurants](#cancun-restaurants)
+    - [ATMs in Cancun](#atms-in-cancun)
+    - [Attractions in Cancun](#attractions-in-cancun)
+    - [Restaurants in Cancun](#restaurants-in-cancun)
   - [Chichen Itza](#chichen-itza)
   - [Tulum](#tulum)
 
@@ -67,12 +67,12 @@ Needless to say, don't try to take as a gringo without fixing the price up front
   motorbike ride which is half the price
 - [Uber](https://www.uber.com/)
 
-#### Cancun ATMs
+#### ATMs in Cancun
 
 The Santander ATM in the ADO bus station charged 35 pesos (€1.60) commission when withdrawing 2500 pesos, which was
 reasonable compared to ATMs in other countries.
 
-#### Cancun Attractions
+#### Attractions in Cancun
 
 I'll inevitably miss some as there are so many...
 
@@ -110,7 +110,7 @@ Skip:
   Google Maps even has a [phantom incorrect location](https://maps.app.goo.gl/1LWXrMALStsKF9N47) for it,
   wasting your time and taxi fares
 
-#### Cancun Restaurants
+#### Restaurants in Cancun
 
 - [Carbon Tacos y Miches](https://maps.app.goo.gl/RTvATSPxnvr7UY9C8) - amazing strip steak burrito for 150 pesos (€7)
   and amazing sauces to add to it and plenty of limes.
