@@ -71,12 +71,22 @@ reasonable compared to ATMs in other countries.
   and amazing sauces to add to it and plenty of limes.
   My first taste of Cancun & Mexico did not disappoint - this burrito and sauces blows Madrid's TKO Tacos out of the
   water.
+  The strip steak burrito is the thing to have here, nice and lean.
+  It comes with a condiment caddy with the following: a pot full of limes, lemon guacamole (mild), but the real stars
+  are the chills; chile de pasilla (medium spicy, light red brown, my favourite), chile de habanero (spicy, green),
+  chile de arbol (spiciest, dark red-brown).
+  I love to cut up a piece of burrito, drench it in lime and then pile on one of the chilli toppings - my favourite
+  thing to eat in Mexico so far, I had to return to do this again!
+  The _"jamaica water"_ is a nice sweet hibiscus still drink served in a big fancy cocktail glass.
+  Alternatively, the Guava water drink is nice too.
+  You will need occasional sips of a drink if you are stacking the chillis like me,
+  and also the paper napkins for the inevitable running nose from chilli!
   Skip the tacos though, even though they come doubled up, they are less tasty whole wheat tacos and they fall apart
   quickly regardless.
-  Also avoid the chicken pieces are mediocre and too salty while the pork chop is ~50% fat and too salty. The _"pastor"_
-  is likely even worse since it's shawarma meat on a spit like in a kebab shop.
-  The strip steak is the thing to have here, nice and lean.
-  The _"jamaica water"_ is a nice sweet hibiscus still drink served in a big fancy cocktail glass.
+  Also avoid the chicken pieces - they're mediocre and too salty, while the pork chop is ~50% fat and too salty.
+  The _"pastor"_ is probably even worse since it's just shawarma meat from the rotating spit like in a kebab shop.
+  The cheesecake is the only dessert on the menu but it's mediocre, for 158 pesos ($8.60) I'd skip this next time as
+  it's not worth the price or the calories. Stay shredded.
   Wifi 120/177 Mbit/s
 - [Las Tostadillas Del Mar Ruta Nader](https://maps.app.goo.gl/BPMpj6nBKyU9Q8438) - seafood restaurant with reasonable
   prices for tacos and tostas.
