@@ -72,7 +72,7 @@ I'll inevitably miss some as there are so many...
 
 - [Chichén Itzá](#chichen-itza) - day trip to ancient mayan ruins, see section below
 - [Tulum](#tulum) - day trip to Tulum, see section below
-- Hotel Zone:
+- [Hotel Zone](https://maps.app.goo.gl/M8T5wRDjAR9cSux87):
   - [Zona Arqueológica de El Meco](https://maps.app.goo.gl/pBx1wsFnWgTk4qjN7)
     - [Playa del Niño](https://maps.app.goo.gl/btEhugKHpepQjsv39) - beach strip near Zona Arqueológica de El Meco
   - [Playa Lagarto, Cancun](https://maps.app.goo.gl/wJ9pK2fdJznEjmHZA) - party beach in the heart of the hotel zone
