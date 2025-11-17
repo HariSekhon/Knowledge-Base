@@ -87,7 +87,8 @@ I'll inevitably miss some as there are so many...
     chain restaurants
   - [Playa Marlín](https://maps.app.goo.gl/sC3jUSiaMWFgSzAeA) - beach further down the hotel zone
 - [Plaza Las Americas](https://maps.app.goo.gl/5Fe2WG1SAqkasVLd7) - south of El Centro / downtown - American brands
-  mall with American chain restaurants.
+  mall with American chain restaurants, and a food court.
+  You probably don't want to eat here if you have much in the way of standards.
   - [Súper Naturista](https://maps.app.goo.gl/aZZynwA1K8dckF9aA) - expensive but good selection of vitamins, supplements
     and _"healthy"_ snacks
 
