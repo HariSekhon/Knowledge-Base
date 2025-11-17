@@ -75,6 +75,7 @@ I'll inevitably miss some as there are so many...
 - [Zona Arqueológica de El Meco](https://maps.app.goo.gl/pBx1wsFnWgTk4qjN7)
 - [Playa del Niño](https://maps.app.goo.gl/btEhugKHpepQjsv39) - beach near Zona Arqueológica de El Meco
 - [Coco Bongo](https://www.cocobongo.com/) - performance theatre and nightclub hybrid
+- [Captain Hook Cancun](https://maps.app.goo.gl/uuW8Q1t46xR8qmbC7) - pirate themed ship experience (for kids)
 
 Skip:
 
