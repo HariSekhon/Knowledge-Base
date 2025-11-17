@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Airline Check-in & Immigration Control](#airline-check-in--immigration-control)
+- [Mexican Food](#mexican-food)
 - [Mexico City](#mexico-city)
 - [Yucatan Peninsula](#yucatan-peninsula)
   - [Cancun](#cancun)
@@ -24,6 +25,14 @@ before the flight.
 
 The immigration officer didn't ask for this - the insistant woman at Madrid airport preventing me from speaking to the
 check-in desk was either just trying to ruin my day or it's the airlines policy, but it was not the immigration officer.
+
+## Mexican Food
+
+It can be quite confusing with many similar names, so here is a few quick tips:
+
+- Aguachile - raw meat or seafood in a zesty lime-chilli-cilantro sauce
+- Tacos - small soft round tortillas - these are actually overrated, I prefer aguachile and tostas
+- Tostas - toasted tacos flat topped with meat/seafood and chopped tomato like bruschetta
 
 ## Mexico City
 
