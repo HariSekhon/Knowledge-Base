@@ -79,6 +79,10 @@ I'll inevitably miss some as there are so many...
 - [La Isla Cancún](https://maps.app.goo.gl/JihvnQzXP4SgHNYE6) - open air shopping mall with lots of designer brands and
   chain restaurants
 - [Playa Marlín](https://maps.app.goo.gl/sC3jUSiaMWFgSzAeA) - beach further down the hotel zone
+
+TODO:
+
+- [Museo Maya de Cancún y Zona Arqueológica de San Miguelito](https://maps.app.goo.gl/1JKGEKYwm8WvdfLu9)
 - [Coco Bongo](https://www.cocobongo.com/) - performance theatre and nightclub hybrid
 - [Parasail Cancun](https://maps.app.goo.gl/n9hKLRAE45ZngCSz5)
 - [Captain Hook Cancun](https://maps.app.goo.gl/uuW8Q1t46xR8qmbC7) - pirate themed ship experience (for kids)
