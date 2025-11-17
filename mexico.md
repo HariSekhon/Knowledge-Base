@@ -65,6 +65,22 @@ Needless to say, don't try to take as a gringo without fixing the price up front
 The Santander ATM in the ADO bus station charged 35 pesos (€1.60) commission when withdrawing 2500 pesos, which was
 reasonable compared to ATMs in other countries.
 
+#### Cancun Attractions
+
+I'll inevitably miss some as there are so many...
+
+- [Chichén Itzá](#chichen-itza) - ancient mayan ruins, see section below
+- [Zona Arqueológica de El Meco](https://maps.app.goo.gl/pBx1wsFnWgTk4qjN7)
+- [Playa del Niño](https://maps.app.goo.gl/btEhugKHpepQjsv39) - beach near Zona Arqueológica de El Meco
+- [Coco Bongo](https://www.cocobongo.com/) - performance theatre and nightclub hybrid
+
+Skip:
+
+- [Playa Tortugas](https://maps.app.goo.gl/HWdTCSAGZWtPtoebA) - it's a small beach with just locals and only one low
+  rated restaurant.
+  Google Maps even has a [phantom incorrect location](https://maps.app.goo.gl/1LWXrMALStsKF9N47) for it,
+  wasting your time and taxi fares
+
 #### Cancun Restaurants
 
 - [Carbon Tacos y Miches](https://maps.app.goo.gl/RTvATSPxnvr7UY9C8) - amazing strip steak burrito for 150 pesos (€7)
@@ -103,7 +119,7 @@ reasonable compared to ATMs in other countries.
   I also had to ask for limes,
   there is a small self-service area for this opposite the bar but you'll need a small plate from the staff.
 
-### Chichén Itzá
+### Chichen Itza
 
 [Chichén Itzá](https://maps.app.goo.gl/XyRwnT7SHYCckcLx8) is the archeological ruins of a large Maya city with an iconic
 step pyramid.
