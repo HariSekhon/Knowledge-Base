@@ -76,6 +76,8 @@ I'll inevitably miss some as there are so many...
   - [Playa del Niño](https://maps.app.goo.gl/btEhugKHpepQjsv39) - beach strip near Zona Arqueológica de El Meco
 - [Playa Lagarto, Cancun](https://maps.app.goo.gl/wJ9pK2fdJznEjmHZA) - party beach in the heart of the hotel zone
   (in the north end)
+- [La Isla Cancún](https://maps.app.goo.gl/JihvnQzXP4SgHNYE6) - open air shopping mall with lots of designer brands and
+  chain restaurants
 - [Coco Bongo](https://www.cocobongo.com/) - performance theatre and nightclub hybrid
 - [Parasail Cancun](https://maps.app.goo.gl/n9hKLRAE45ZngCSz5)
 - [Captain Hook Cancun](https://maps.app.goo.gl/uuW8Q1t46xR8qmbC7) - pirate themed ship experience (for kids)
