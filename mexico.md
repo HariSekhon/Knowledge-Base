@@ -16,13 +16,6 @@
 
 <!-- INDEX_END -->
 
-I'm actually shocked what a 3rd world country Mexico is walking around Cancun.
-
-I had expected it to be more touristy and fancy,
-the tourists must be hiding in the resorts
-but walking around the regular streets in search of restaurants is jarring compared to coming from a 1st world city like
-Madrid on my prior stop.
-
 ## Airline Check-in & Immigration Control
 
 **WARNING**: the airline refused to check me in without proof of an outbound flight, I had to quickly find and book
@@ -41,6 +34,19 @@ The capital, reputation for being high crime.
 ### Cancun
 
 Holiday city on the east coast, famous destination for US spring break students.
+
+Cancun is a tale of two cities:
+
+- the _"Hotel Zone"_ is what you'd imagine, touristy, Americanized, full of huge resorts, where people go to party in
+  nightclubs etc.
+- El Centro - the centre / downtown - where the local mexican service staff actually live, a ghetto
+
+I'm actually shocked what a 3rd world country Mexico is walking around Cancun central.
+
+I had expected it to be more touristy and fancy,
+the tourists must be hiding in the resorts
+but walking around the regular streets in search of restaurants is jarring compared to coming from a 1st world city like
+Madrid on my prior stop.
 
 #### Travel from Cancun Airport
 
