@@ -91,8 +91,9 @@ TODO:
 
 Skip:
 
-- [Playa Tortugas](https://maps.app.goo.gl/HWdTCSAGZWtPtoebA) - it's a small beach with just locals and only one low
-  rated restaurant.
+- [Playa Tortugas](https://maps.app.goo.gl/HWdTCSAGZWtPtoebA) - Turtle Beach - it's a small beach with just locals and
+  only one low rated restaurant.
+  There were no turtles, only Mexicans.
   Google Maps even has a [phantom incorrect location](https://maps.app.goo.gl/1LWXrMALStsKF9N47) for it,
   wasting your time and taxi fares
 
