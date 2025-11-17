@@ -85,6 +85,7 @@ TODO:
 - [Playa Delfines](https://maps.app.goo.gl/iZ622nKQA1d45j4T7) - Dolphin's Beach
 - [San Miguelito Archeological Site](https://maps.app.goo.gl/orJkrPkJ22acVrrU9)
 - [Museo Maya de Cancún y Zona Arqueológica de San Miguelito](https://maps.app.goo.gl/1JKGEKYwm8WvdfLu9)
+- [El Rey Archaeological Zone](https://maps.app.goo.gl/t1NWEUvf3vXnc3366)
 - [Coco Bongo](https://www.cocobongo.com/) - performance theatre and nightclub hybrid
 - [Parasail Cancun](https://maps.app.goo.gl/n9hKLRAE45ZngCSz5)
 - [Captain Hook Cancun](https://maps.app.goo.gl/uuW8Q1t46xR8qmbC7) - pirate themed ship experience (for kids)
