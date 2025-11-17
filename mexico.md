@@ -82,6 +82,7 @@ I'll inevitably miss some as there are so many...
 
 TODO:
 
+- [San Miguelito Archeological Site](https://maps.app.goo.gl/orJkrPkJ22acVrrU9)
 - [Museo Maya de Cancún y Zona Arqueológica de San Miguelito](https://maps.app.goo.gl/1JKGEKYwm8WvdfLu9)
 - [Coco Bongo](https://www.cocobongo.com/) - performance theatre and nightclub hybrid
 - [Parasail Cancun](https://maps.app.goo.gl/n9hKLRAE45ZngCSz5)
