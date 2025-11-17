@@ -30,7 +30,7 @@ check-in desk was either just trying to ruin my day or it's the airlines policy,
 
 It can be quite confusing with many similar names, so here is a few quick tips:
 
-- Aguachile - raw meat or seafood in a zesty lime-chilli-cilantro sauce
+- Aguachile - raw meat or seafood in a zesty lime-chilli-cilantro sauce, served with nachos - one of my new favourite dishes
 - Tacos - small soft round tortillas - these are actually overrated, I prefer aguachile and tostas
 - Tostas - toasted tacos flat topped with meat/seafood and chopped tomato like bruschetta
 
