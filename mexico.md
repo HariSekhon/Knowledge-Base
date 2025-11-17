@@ -70,7 +70,8 @@ reasonable compared to ATMs in other countries.
 
 I'll inevitably miss some as there are so many...
 
-- [Chichén Itzá](#chichen-itza) - ancient mayan ruins, see section below
+- [Chichén Itzá](#chichen-itza) - day trip to ancient mayan ruins, see section below
+- [Tulum](#tulum) - day trip to Tulum, see section below
 - [Zona Arqueológica de El Meco](https://maps.app.goo.gl/pBx1wsFnWgTk4qjN7)
 - [Playa del Niño](https://maps.app.goo.gl/btEhugKHpepQjsv39) - beach near Zona Arqueológica de El Meco
 - [Coco Bongo](https://www.cocobongo.com/) - performance theatre and nightclub hybrid
