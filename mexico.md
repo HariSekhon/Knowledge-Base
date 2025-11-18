@@ -145,7 +145,10 @@ Skip:
   Wifi 120/177 Mbit/s
 - [Las Tostadillas Del Mar Ruta Nader](https://maps.app.goo.gl/BPMpj6nBKyU9Q8438) - seafood restaurant with reasonable
   prices for tacos and tostas.
-  Could do with a better drinks menu, and didn't get the wifi working due to capture portal.
+  The shrimp and tuna tostas are the best thing here.
+  The red aguachile is actually surprisingly too spicy.
+  Could do with a better drinks menu, the horchata was fad too sweet, skip that next time.
+  The wifi didn't work on laptop due to capture portal, but did on phone.
   Skip the tacos and go straight for the tostas next time.
   The tacos are cheap, but like at Carbon, are whole wheat, not so tasty and the ingredients were not properly handled.
   The fried shrimp was massive dough balls on a modest prawn,
