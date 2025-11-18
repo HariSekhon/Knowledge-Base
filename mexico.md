@@ -146,8 +146,8 @@ Skip:
 - [Las Tostadillas Del Mar Ruta Nader](https://maps.app.goo.gl/BPMpj6nBKyU9Q8438) - seafood restaurant with reasonable
   prices for tacos and tostas.
   The shrimp and tuna tostas are the best thing here.
-  The red aguachile is actually surprisingly too spicy.
-  Could do with a better drinks menu, the horchata was fad too sweet, skip that next time.
+  The red aguachile is actually surprisingly too spicy, considering I'd been crushing every level of chilli drowning at Carbon and had a green aguachile the night before at La Bamba the night before.
+  Could do with a better drinks menu, the horchata was far too sweet, skip that next time.
   The wifi didn't work on laptop due to capture portal, but did on phone.
   Skip the tacos and go straight for the tostas next time.
   The tacos are cheap, but like at Carbon, are whole wheat, not so tasty and the ingredients were not properly handled.
