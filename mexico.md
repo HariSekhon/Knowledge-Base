@@ -8,6 +8,8 @@
 - [Yucatan Peninsula](#yucatan-peninsula)
   - [Cancun](#cancun)
     - [Travel from Cancun Airport](#travel-from-cancun-airport)
+    - [Travel within Cancun](#travel-within-cancun)
+    - [Buses in Cancun](#buses-in-cancun)
     - [Taxi Apps in Cancun](#taxi-apps-in-cancun)
     - [ATMs in Cancun](#atms-in-cancun)
     - [Attractions in Cancun](#attractions-in-cancun)
@@ -69,6 +71,30 @@ I'm actually surprised it costs this much compared to even places in Europe I ca
 I was told taxis cost around \$30, but actually when I checked it was \$20 on Uber and \$13 on InDrive, so if there are
 2-3 of you it's probably better to just take an Uber or InDrive anyway.
 Needless to say, don't try to take as a gringo without fixing the price up front.
+
+#### Travel within Cancun
+
+Even if you stay within the Hotel Zone, its still quite a long walk up and down, several kilometers.
+
+If you decide to visit El Centro or save money by staying in a hostel in El Centro, you can forget about walking everywhere as it'll destroy your knees trying.
+
+You will at some point need to either take taxis (see the section below) or learn to use the local buses.
+
+#### Buses in Cancun
+
+Buses are cheap (12 pesos) and there are lots of them as the locals use them extensively.
+
+Taxis while not expensive by international standards are multiple times the cost of a bus.
+
+If you want to live like a local for a more authentic experience, or are travelling on a budget, take the bus.
+
+Unfortunately, Google Maps is absolutely useless as of late 2025 and has absolutely no section on public transport.
+
+To make matter worse, the bus stops are often not well designated, sometimes just a bench at the side of the road without signage.
+
+There are no timetables with bus numbers as you may be used to in 1st world countries.
+
+Interestingly though, you can ask ChatGPT and it will tell you the bus numbers you need and roughly where to catch them down to the road (you need to figure out the direction you need to travel by looking at Google Maps).
 
 #### Taxi Apps in Cancun
 
