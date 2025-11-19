@@ -36,7 +36,7 @@ It can be quite confusing with many similar names, so here is a few quick tips:
 - Tacos - small soft round tortillas - these are actually overrated, I prefer aguachile and tostas
 - Tostas / Tostadas - toasted flat tacos topped with meat/seafood and chopped tomato like bruschetta
 - Tortas - a sandwich - not to be confused with Tostas!
-- Volcane - a toasted crispy tortilla base (aka tosta aka tostada) with melted cheese on it and topped with meat
+- Volcane - a toasted crispy tortilla base (aka tosta aka tostada) with melted cheese on it and topped with meat. Named because the cheese is like a volcano
 
 ## Mexico City
 
