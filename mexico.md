@@ -154,7 +154,8 @@ Skip:
   My first taste of Cancun & Mexico did not disappoint - this burrito and sauces blows Madrid's TKO Tacos out of the
   water.
   The strip steak burrito is the thing to have here, nice and lean.
-  It comes with a condiment caddy with the following: a pot full of limes, lemon guacamole (mild), but the real stars
+  The strip steak taco and volcane are good too.
+  All come with a condiment caddy with the following: a pot full of limes, lemon guacamole (mild), but the real stars
   are the chills; chile de pasilla (medium spicy, light red brown, my favourite), chile de habanero (spicy, green),
   chile de arbol (spiciest, dark red-brown).
   I love to cut up a piece of burrito, drench it in lime and then pile on one of the chilli toppings - my favourite
