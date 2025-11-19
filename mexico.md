@@ -191,7 +191,22 @@ Skip:
 ### Chichen Itza
 
 [Chichén Itzá](https://maps.app.goo.gl/XyRwnT7SHYCckcLx8) is the archeological ruins of a large Maya city with an iconic
-step pyramid.
+step pyramid - one of the seven wonders of the world due to its mathematical properties and the matroska style temple within a temple within a temple.
+
+The easiest way to go is with a packaged one day tour that drives you other there and back again.
+
+Your accomodation will likelt offer you one of these, but mine quoted me $90 so I asked a couple tourism vendors in downtown and got one for $60 instead.
+
+It included a Mayan religious ceremony, followed by a buffet lunch with rice, chicken, beans etc., followed by swimming in a cenote (an underground cave lake), a stop at a tourist town Valladolid with a nice central park square, and finally the main event at  
+Chichén Itzá.
+
+The entry ticket for Chichen Itza was 532 pesos as of late 2025, and considering I paid 1200 pesos for the entire tour including this ticket, was a reasonable price.
+
+The tour of Chichen Itza was 45 mins of tour guide history, and 45 minutes free roaming to take pictures.
+
+If you have a short fixed schedule like this, do not stop to waste time on all the stall vendors trying to sell you trinkets as you'll run out of time and miss a lot of the city.
+
+You will be getting heckled all over the place with _"1 dollar, amiga"_ as they try to sell you something.
 
 ### Tulum
 
