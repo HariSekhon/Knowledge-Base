@@ -160,6 +160,7 @@ Skip:
   I love to cut up a piece of burrito, drench it in lime and then pile on one of the chilli toppings - my favourite
   thing to eat in Mexico so far, I had to return to do this again!
   The _"jamaica water"_ is a nice sweet hibiscus still drink served in a big fancy cocktail glass.
+  The horchata is one of the better quality ones I've had with a full cinnamon twig in it, although a bit sweet.
   Alternatively, the Guava water drink is nice too.
   You will need occasional sips of a drink if you are stacking the chillis like me,
   and also the paper napkins for the inevitable running nose from chilli!
