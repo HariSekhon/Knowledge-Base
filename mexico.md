@@ -206,7 +206,7 @@ The tour of Chichen Itza was 45 mins of tour guide history, and 45 minutes free 
 
 If you have a short fixed schedule like this, do not stop to waste time on all the stall vendors trying to sell you trinkets as you'll run out of time and miss a lot of the city.
 
-You will be getting heckled all over the place with _"1 dollar, amiga"_ as they try to sell you something.
+You will be getting heckled all over the place with _"1 dollar, amigo"_ as they try to sell you something.
 
 ### Tulum
 
