@@ -207,7 +207,7 @@ Your accomodation will likelt offer you one of these, but mine quoted me $90 so 
 It included a Mayan religious ceremony, followed by a buffet lunch with rice, chicken, beans etc., followed by swimming in a cenote (an underground cave lake), a stop at a tourist town Valladolid with a nice central park square, and finally the main event at  
 Chichén Itzá.
 
-The entry ticket for Chichen Itza was 532 pesos as of late 2025, and considering I paid 1200 pesos for the entire tour including this ticket, was a reasonable price.
+The entry ticket for Chichen Itza was 571 pesos as of late 2025, and considering I paid 1200 pesos for the entire tour including this ticket, was a reasonable price.
 
 The tour of Chichen Itza was 45 mins of tour guide history, and 45 minutes free roaming to take pictures.
 
