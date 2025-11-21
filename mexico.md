@@ -219,7 +219,32 @@ You will be getting heckled all over the place with _"1 dollar, amigo"_ as they 
 
 ## Isla Mujeres
 
+Lovely island beaches with fine white sand.
+
 Take the ferry from Puerto Juarez for $35 return.
+
+The ferry usually leaves every 30 minutes and takes about 20 minutes, but there was a one hour gap from 2-3pm.
+
+The ferry had two decks, an open top one and a lower air conditioned one with nicer chairs and a tv. I used the lower shaded air conditioned one on the way there to save my skin from the harsh afternoon sun, and the top on the way back in the evening.
+
+The island itself is a tourist trap, ignore the vendors and restaurants and just do the beach. It’s bad enough to spend $35 on the ferry, but spending 2-3x on tacos or 1000 pesos on a tank top when you can buy one in El Centro for 130-140 is just insulting (even tourist price overcharged ones in El Centro are only 180-200 pesos).
+
+The most busy area is the strip to the north of the ferry port, left as you exit the ferry.
+
+The two main beaches are
+[Playa Centro](https://maps.app.goo.gl/3THo9utG4htjnF136)
+and
+[Playa Norte](https://maps.app.goo.gl/2EuoNLSXKixhUCbN6). The first had a long straight coast on the North West side of the island nearest the ferry.
+I prefer the latter northern beach which has more of an alcove shape.
+
+There are no public toilets or changing facilities, and in true 3rd world capitalist style you will be expected to pay to use a beach club.
+
+To explore the island hire a golf cart. The first quote I got was 600 pesos, the second 475 and the third 800 for 1 hour 🤬. I went back to the 475 at
+[Hotel Cabañas María del Mar](https://maps.app.goo.gl/yCkcFUqVUf8r6rgf6)
+so that I ended up exactly back at the beach I wanted afterwards).
+They say 1 hour isn’t enough to get to the south point of the island and back, but I did it in 40 minutes flat bombing it all the way, overtaking many other golf carts and standing up while going over speed bumps.
+
+As the sun goes down the 6:30pm ferry will be so full you’ll probably have to queue and one will leave full without you, so expect an extra half an hour queueing time at that peak exodus time as the beach empties after sunset.
 
 ### Tulum
 
