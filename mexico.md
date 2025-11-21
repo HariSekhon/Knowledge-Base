@@ -217,6 +217,12 @@ If you have a short fixed schedule like this, do not stop to waste time on all t
 
 You will be getting heckled all over the place with _"1 dollar, amigo"_ as they try to sell you something.
 
+## Isla Mujeres
+
+Take the ferry from Puerto Juarez for $35 return.
+
 ### Tulum
 
 Coastal town with a ruins of a Mayan port city.
+
+TODO - I ran out of time to do a day trip to here.
