@@ -223,7 +223,7 @@ Skip:
 - [Tostadas de atun](https://maps.app.goo.gl/M6HiFUncsKnLQ8AY6) - cheap local taco and tostada rrstaurant that is always busy with locals.
   Closes relatively early at 7:30pm (Google Maps is wrong to claim it is open until midnighy).
   The pescado (fish) and cameron (shrimp) tostas are my favourite here.
-  Their jamaica water was decent but their horchata was too sweet, I didn't finish it
+  Their jamaica water was decent but their horchata was watery and overly sweet, I didn't finish it and would skip that next time
 
 
 ### Chichen Itza
