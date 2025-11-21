@@ -28,6 +28,22 @@ before the flight.
 The immigration officer didn't ask for this - the insistant woman at Madrid airport preventing me from speaking to the
 check-in desk was either just trying to ruin my day or it's the airlines policy, but it was not the immigration officer.
 
+## Spanish Crash Course
+
+Most people speak little to no English, surprising for a place that receives so much English-speaking tourism.
+
+It greatly helps to know a bit of Spanish to get by, as you will struggle if relying on Google Translate for every little thing.
+
+| English | Spanish |
+| ------- | ------- |
+| Yes | Si |
+| No | No |
+| Please | Por favor |
+| Thank You | Gracias |
+| Pescado | Fish |
+| Cameron | Shrimp |
+| Arrachera | Skirt Steak / Flank Steak |
+
 ## Mexican Food
 
 It can be quite confusing with many similar names, so here is a few quick tips:
