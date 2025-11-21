@@ -136,6 +136,10 @@ Interestingly though, you can ask ChatGPT and it will tell you the bus numbers y
 The Santander ATM in the ADO bus station charged 35 pesos (€1.60) commission when withdrawing 2500 pesos, which was
 reasonable compared to ATMs in other countries.
 
+Banregio atm was charging 84 pesos, do not use that one.
+
+Bancoppel fee was 36 pesos.
+
 #### Attractions in Cancun
 
 I'll inevitably miss some as there are so many...
