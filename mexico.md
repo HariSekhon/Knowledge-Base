@@ -196,6 +196,11 @@ Skip:
   Because the tacos were a bit of a disaster I forgot to even try the 4 sauces.
   I also had to ask for limes,
   there is a small self-service area for this opposite the bar but you'll need a small plate from the staff.
+  Wifi capture portal requires name and phone number
+- [Tostadas de atun](https://maps.app.goo.gl/M6HiFUncsKnLQ8AY6) - cheap local taco and tostada rrstaurant that is always busy with locals.
+  Closes relatively early at 7:30pm (Google Maps is wrong to claim it is open until midnighy).
+  The pescado (fish) and cameron (shrimp) tostas are my favourite here
+
 
 ### Chichen Itza
 
