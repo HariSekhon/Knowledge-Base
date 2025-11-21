@@ -43,6 +43,7 @@ It greatly helps to know a bit of Spanish to get by, as you will struggle if rel
 | Fish | Pescado |
 | Shrimp | Cameron |
 | Skirt Steak / Flank Steak | Arrachera |
+| Beach | Playa |
 
 ## Mexican Food
 
