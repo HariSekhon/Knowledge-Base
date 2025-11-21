@@ -199,7 +199,8 @@ Skip:
   Wifi capture portal requires name and phone number
 - [Tostadas de atun](https://maps.app.goo.gl/M6HiFUncsKnLQ8AY6) - cheap local taco and tostada rrstaurant that is always busy with locals.
   Closes relatively early at 7:30pm (Google Maps is wrong to claim it is open until midnighy).
-  The pescado (fish) and cameron (shrimp) tostas are my favourite here
+  The pescado (fish) and cameron (shrimp) tostas are my favourite here.
+  Their jamaica water was decent but their horchata was too sweet, I didn't finish it
 
 
 ### Chichen Itza
