@@ -177,6 +177,7 @@ Skip:
   The _"pastor"_ is probably even worse since it's just shawarma meat from the rotating spit like in a kebab shop.
   The cheesecake is the only dessert on the menu but it's mediocre, for 158 pesos ($8.60) I'd skip this next time as
   it's not worth the price or the calories. Stay shredded.
+  Their card machine always times out on apple pay touch (despite them having fast wifi) and I had to use my physical card with pin.
   Wifi 120/177 Mbit/s
 - [Las Tostadillas Del Mar Ruta Nader](https://maps.app.goo.gl/BPMpj6nBKyU9Q8438) - seafood restaurant with reasonable
   prices for tacos and tostas.
