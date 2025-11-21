@@ -40,9 +40,9 @@ It greatly helps to know a bit of Spanish to get by, as you will struggle if rel
 | No | No |
 | Please | Por favor |
 | Thank You | Gracias |
-| Pescado | Fish |
-| Cameron | Shrimp |
-| Arrachera | Skirt Steak / Flank Steak |
+| Fish | Pescado |
+| Shrimp | Cameron |
+| Skirt Steak / Flank Steak | Arrachera |
 
 ## Mexican Food
 
