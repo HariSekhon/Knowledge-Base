@@ -52,6 +52,7 @@ It greatly helps to know a bit of Spanish to get by, as you will struggle if rel
 | Shrimp | Cameron |
 | Skirt Steak / Flank Steak | Arrachera |
 | Beach | Playa |
+| Very Good | Muy Bueno |
 
 ## Mexican Food
 
