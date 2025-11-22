@@ -65,6 +65,28 @@ It can be quite confusing with many similar names, so here is a few quick tips:
 
 The capital, reputation for being high crime.
 
+## Oaxaca
+
+### Oaxaca Airport
+
+Airport wifi requires a capture portal in Spanish.
+
+The fields are; First Name, Last Name, Mother's Maiden Name (optional), Email address, Phone number (with +xx international prefix).
+
+This worked better than the similar capture portal in Cancun.
+
+Remwmber to download an offline Google Map while on wifi.
+
+#### Travel from Oaxaca Airport to Oaxaca
+
+You can get a taxi in the terminal, but theh are quite expensive, quoting over 400 peses for a mere 7km.
+
+InDrive has taxis for 180 pesos.
+
+Or you can buy a shared transport at the taxi stand in the terminal for 135 pesos, for a small minibus, but they make take a long time to leave as they wait for other passengers.
+
+I took a punt on the latter just to see what it's like. When arriving if not in a rush this is a good time to experiment and learn.
+
 ## Yucatan Peninsula
 
 ### Cancun
@@ -88,7 +110,13 @@ the tourists must be hiding in the resorts
 but walking around the regular streets in search of restaurants is jarring compared to coming from a 1st world city like
 Madrid on my prior stop.
 
-#### Travel from Cancun Airport
+#### Cancun Airport
+
+##### Cancun Airport Wifi
+
+Cancun Airport Wifi is not good, dont rely on it, set up your esim before you arrive.
+
+###### Travel from Cancun Airport
 
 There is a red bus stand call ADO Aeropuerto, which if you exit Terminal 3 is on the right.
 Google Maps tried to send me the wrong way, possibly to Terminal 2's ADO.
@@ -100,6 +128,8 @@ I'm actually surprised it costs this much compared to even places in Europe I ca
 I was told taxis cost around \$30, but actually when I checked it was \$20 on Uber and \$13 on InDrive, so if there are
 2-3 of you it's probably better to just take an Uber or InDrive anyway.
 Needless to say, don't try to take as a gringo without fixing the price up front.
+
+I took a taxi on the way to the airport just for better timing control, see the Taxi Apps section further down.
 
 #### Travel within Cancun
 
@@ -127,8 +157,13 @@ Interestingly though, you can ask ChatGPT and it will tell you the bus numbers y
 
 #### Taxi Apps in Cancun
 
-- [InDrive](https://indrive.com/en-mx) - bid your price, similar price to Uber, but the real saving is taking a
-  motorbike ride which is half the price
+Sometimes the prices are comparable between Uber and InDrive but other times they are not, check both.
+
+Uber quoted me 350-370 pesos to Cancun airport but InDrive took me for 160 pesos. This is a very good price considering the ADO bus was 128 pesos per person, so if there are two or more of you this taxi actually works out cheaper!
+
+I'd guess that Western people sticking to Uber drove the prices right up during checkout time, they hadn't thought to spread the load to InDrive so I saved more than half the cost!
+
+- [InDrive](https://indrive.com/en-mx) - bid your price, motorbike ride is half the price of a car ride but there were no takers. You will often get drivers sending you higher offers, ignore them, usually one takes your app recommended offer price
 - [Uber](https://www.uber.com/)
 
 #### ATMs in Cancun
