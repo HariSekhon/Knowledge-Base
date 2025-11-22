@@ -117,6 +117,7 @@ Most restaurants I've seen in Oaxaca are tourist priced.
   At 150 pesos for a single tostada I doubt any average local would wver pay this consider I was getting seafood tostadas for 25-30 pesos even in Cancun El Centro.
   I would skip this overly fancy tostada next time and just stick with the mole.
   The water of the day (mango) was very good, just the right about of sweetness and liquidity (70 pesos / £3).
+  I dropped 500 pesos here, whereas elsewhere I was eating well for 150-300 pesos.
   Wifi 246/286 Mbit/s
 
 ## Yucatan Peninsula
