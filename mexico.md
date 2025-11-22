@@ -87,6 +87,12 @@ Or you can buy a shared transport at the taxi stand in the terminal for 135 peso
 
 I took a punt on the latter just to see what it's like. When arriving if not in a rush this is a good time to experiment and learn.
 
+#### Restaurants in Oaxaca
+
+- [La Casa del Tío Güero](La Casa del Tío Güero) - the mole negro (black mole) with pork was really good and came with
+  2 large lean squares of pork, sides of rice, tortilla and chilli sauce. The mole itself was slightly sweet so add the
+  right amount of chilli sauce to suit your tastes
+
 ## Yucatan Peninsula
 
 ### Cancun
@@ -274,7 +280,7 @@ The easiest way to go is with a packaged one day tour that drives you other ther
 
 Your accomodation will likelt offer you one of these, but mine quoted me $90 so I asked a couple tourism vendors in downtown and got one for $60 instead.
 
-It included a Mayan religious ceremony, followed by a buffet lunch with rice, chicken, beans etc., followed by swimming in a cenote (an underground cave lake), a stop at a tourist town Valladolid with a nice central park square, and finally the main event at  
+It included a Mayan religious ceremony, followed by a buffet lunch with rice, chicken, beans etc., followed by swimming in a cenote (an underground cave lake), a stop at a tourist town Valladolid with a nice central park square, and finally the main event at
 Chichén Itzá.
 
 The entry ticket for Chichen Itza was 571 pesos as of late 2025, and considering I paid 1200 pesos for the entire tour including this ticket, was a reasonable price.
