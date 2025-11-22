@@ -102,6 +102,7 @@ I took a punt on the latter just to see what it's like. When arriving if not in 
   2 large lean squares of pork, sides of rice, tortilla and chilli sauce. The mole itself was slightly sweet so add the
   right amount of chilli sauce to suit your tastes
 - [Humito Cocina y Foro 8 Temblor](https://maps.app.goo.gl/oNbAwiHswxbTYnSA9) - good quality and taste, would probably be rated higher than 4.5 if it wasn't Western priced.
+  Wifi 246/286 Mbit/s
 
 ## Yucatan Peninsula
 
