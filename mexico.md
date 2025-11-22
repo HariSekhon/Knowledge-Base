@@ -3,11 +3,18 @@
 <!-- INDEX_START -->
 
 - [Airline Check-in & Immigration Control](#airline-check-in--immigration-control)
+- [Spanish Crash Course](#spanish-crash-course)
 - [Mexican Food](#mexican-food)
 - [Mexico City](#mexico-city)
+- [Oaxaca](#oaxaca)
+  - [Oaxaca Airport](#oaxaca-airport)
+    - [Travel from Oaxaca Airport to Oaxaca](#travel-from-oaxaca-airport-to-oaxaca)
+    - [Restaurants in Oaxaca](#restaurants-in-oaxaca)
 - [Yucatan Peninsula](#yucatan-peninsula)
   - [Cancun](#cancun)
-    - [Travel from Cancun Airport](#travel-from-cancun-airport)
+    - [Cancun Airport](#cancun-airport)
+      - [Cancun Airport Wifi](#cancun-airport-wifi)
+      - [Travel from Cancun Airport](#travel-from-cancun-airport)
     - [Travel within Cancun](#travel-within-cancun)
     - [Buses in Cancun](#buses-in-cancun)
     - [Taxi Apps in Cancun](#taxi-apps-in-cancun)
@@ -15,6 +22,7 @@
     - [Attractions in Cancun](#attractions-in-cancun)
     - [Restaurants in Cancun](#restaurants-in-cancun)
   - [Chichen Itza](#chichen-itza)
+  - [Isla Mujeres](#isla-mujeres)
   - [Tulum](#tulum)
 
 <!-- INDEX_END -->
@@ -122,7 +130,7 @@ Madrid on my prior stop.
 
 Cancun Airport Wifi is not good, dont rely on it, set up your esim before you arrive.
 
-###### Travel from Cancun Airport
+##### Travel from Cancun Airport
 
 There is a red bus stand call ADO Aeropuerto, which if you exit Terminal 3 is on the right.
 Google Maps tried to send me the wrong way, possibly to Terminal 2's ADO.
@@ -291,7 +299,7 @@ If you have a short fixed schedule like this, do not stop to waste time on all t
 
 You will be getting heckled all over the place with _"1 dollar, amigo"_ as they try to sell you something.
 
-## Isla Mujeres
+### Isla Mujeres
 
 Lovely island beaches with fine white sand.
 
