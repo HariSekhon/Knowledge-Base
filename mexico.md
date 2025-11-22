@@ -278,7 +278,6 @@ Skip:
   The pescado (fish) and cameron (shrimp) tostas are my favourite here.
   Their jamaica water was decent but their horchata was watery and overly sweet, I didn't finish it and would skip that next time
 
-
 ### Chichen Itza
 
 [Chichén Itzá](https://maps.app.goo.gl/XyRwnT7SHYCckcLx8) is the archeological ruins of a large Maya city with an iconic
