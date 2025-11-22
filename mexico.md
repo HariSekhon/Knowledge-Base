@@ -102,6 +102,10 @@ I took a punt on the latter just to see what it's like. When arriving if not in 
   2 large lean squares of pork, sides of rice, tortilla and chilli sauce. The mole itself was slightly sweet so add the
   right amount of chilli sauce to suit your tastes
 - [Humito Cocina y Foro 8 Temblor](https://maps.app.goo.gl/oNbAwiHswxbTYnSA9) - good quality and taste, would probably be rated higher than 4.5 if it wasn't Western priced.
+  The Carnito Mixteco main was good, a chicken in mole with sweet potato and white rice, a moderate sized portion.
+  Their black mole with pork was 400 pesos which seems overpriced considering I had one the night before for 185 in the centre.
+  Their ceviche and passion fruit tostada (catch of the day) was a medley of flavours and so loaded up you couldn't eat it without it falling apart. This was trying to be the michelin of tostadas on a crispy black tostada and too many ingredients and flavours, overdone.
+  At 150 pesos for a single tostada I doubt any average local would wver pay this consider I was getting seafood tostadas for 25-30 pesos even in Cancun El Centro.
   The water of the day (mango) was very good, just the right about of sweetness and liquidity (70 pesos / £3).
   Wifi 246/286 Mbit/s
 
