@@ -106,6 +106,7 @@ I took a punt on the latter just to see what it's like. When arriving if not in 
   Their black mole with pork was 400 pesos which seems overpriced considering I had one the night before for 185 in the centre.
   Their ceviche and passion fruit tostada (catch of the day) was a medley of flavours and so loaded up you couldn't eat it without it falling apart. This was trying to be the michelin of tostadas on a crispy black tostada and too many ingredients and flavours, overdone.
   At 150 pesos for a single tostada I doubt any average local would wver pay this consider I was getting seafood tostadas for 25-30 pesos even in Cancun El Centro.
+  I would skip this overly fancy tostada next time and just stick with the mole.
   The water of the day (mango) was very good, just the right about of sweetness and liquidity (70 pesos / £3).
   Wifi 246/286 Mbit/s
 
