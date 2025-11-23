@@ -43,17 +43,17 @@ Most people speak little to no English, surprising for a place that receives so 
 It greatly helps to know a bit of Spanish to get by, as you will struggle if relying on Google Translate for every
 little thing.
 
-| English | Spanish |
-| ------- | ------- |
-| Yes | Si |
-| No | No |
-| Please | Por favor |
-| Thank You | Gracias |
-| Fish | Pescado |
-| Shrimp | Cameron |
+| English                   | Spanish   |
+|---------------------------|-----------|
+| Yes                       | Si        |
+| No                        | No        |
+| Please                    | Por favor |
+| Thank You                 | Gracias   |
+| Fish                      | Pescado   |
+| Shrimp                    | Cameron   |
 | Skirt Steak / Flank Steak | Arrachera |
-| Beach | Playa |
-| Very Good | Muy Bueno |
+| Beach                     | Playa     |
+| Very Good                 | Muy Bueno |
 
 ## Mexican Food
 
