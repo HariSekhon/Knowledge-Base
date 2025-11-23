@@ -80,6 +80,8 @@ Oaxaca (Wahaca) is has a lot of restaurants and quite a few churches with nice a
 You can walk around the centre in around 2 hours,
 so you'll need 2-4 days depending on whether you want to go hiking for a day or not.
 
+The restaurants are tourist priced though.
+
 ### Oaxaca Airport
 
 Airport wifi requires a capture portal in Spanish.
@@ -101,6 +103,8 @@ Or you can buy a shared transport at the taxi stand in the terminal for 135 peso
 I took a punt on the latter just to see what it's like. When arriving if not in a rush this is a good time to experiment and learn.
 
 #### Restaurants in Oaxaca
+
+Most restaurants I've seen in Oaxaca are tourist priced.
 
 - [La Casa del Tío Güero](La Casa del Tío Güero) - the mole negro (black mole) with pork was really good and came with
   2 large lean squares of pork, sides of rice, tortilla and chilli sauce. The mole itself was slightly sweet so add the
