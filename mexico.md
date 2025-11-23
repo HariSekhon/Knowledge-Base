@@ -107,13 +107,17 @@ Remwmber to download an offline Google Map while on wifi.
 
 You can get a taxi in the terminal, but theh are quite expensive, quoting over 400 peses for a mere 7km.
 
-InDrive has taxis for 180 pesos.
+InDrive has taxis for 180 pesos, but it didn't find a driver.
 
 Or you can buy a shared transport at the taxi stand in the terminal for 135 pesos, for a small minibus, but they make
 take a long time to leave as they wait for other passengers.
 
 I took a punt on the latter just to see what it's like. When arriving if not in a rush this is a good time to experiment
 and learn.
+
+#### Taxis in Oaxaca
+
+Both taxi apps failed to find me a driver from the airport, and also from the centre to Mount Alban.
 
 #### Restaurants in Oaxaca
 
