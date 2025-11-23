@@ -119,9 +119,10 @@ Most restaurants I've seen in Oaxaca are tourist priced.
   slightly sweet (it contains chocolate) so add the right amount of chilli sauce to suit your tastes
 - [Humito Cocina y Foro 8 Temblor](https://maps.app.goo.gl/oNbAwiHswxbTYnSA9) - good quality and taste, would probably
   be rated higher than 4.5 if it wasn't Western priced.
-  The Carnito Mixteco main was good, a chicken in mole with sweet potato and white rice, a moderate sized portion.
+  The Carnito Mixteco main was good, a mole containing shredded chicken pieces with sweet potato and white rice, a
+  moderate sized portion.
   Their black mole with pork was 400 pesos which seems overpriced considering I had one the night before for 185 in the
-  centre.
+  centre at La Casa del Tio Guero above, which wins on food vs price.
   Their ceviche (catch of the day) and passion fruit tostada was a medley of flavours and so loaded up you couldn't eat
   it without it falling apart.
   This was trying to be the michelin of tostadas on a crispy black tostada and too many ingredients and flavours,
