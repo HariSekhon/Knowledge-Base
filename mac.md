@@ -1809,32 +1809,14 @@ If you have played around with this and want to do a deep search, use this scrip
 [DevOps-Bash-tools](devops-bash-tools.md):
 
 ```shell
-mac_find_excluded_backup_paths.sh
+mac_backup_find_excluded_paths.sh
 ```
 
-eg. exclude Downloads and some common space wasting caches from your backups:
+The following script in [DevOps-Bash-tools](devops-bash-tools.md) adds the common cache paths to the exclusion list
+and you can quickly add your local repo's `build` and `Pods` directories as args too:
 
 ```shell
-for path in ~/Downloads \
-         ~/VirtualBox\ VMs \
-         ~/Library/Caches/Homebrew \
-         ~/.docker/machine/machines \
-         ~/Library/Developer/Xcode/DerivedData \
-         ~/github/$REPO/build \
-         ~/github/$REPO/Pods \
-         ~/.cpanm \
-         ~/Library/Caches/pip \
-         ~/go/pkg/mod \
-         ~/.m2/wrapper \
-         ~/.m2/repository \
-         ~/.ivy2/cache \
-         ~/.gradle/caches \
-         ~/.gradle/wrapper \
-    ; do
-    path="${path/~/$HOME}"
-    echo "Added path to backup exclusions: $path"
-    sudo tmutil addexclusion -p "$path"
-done
+mac_backup_exclude_paths.sh "$PWD/build" "$PWD/Pods"
 ```
 
 #### Remove Path from Backup Exclusions
