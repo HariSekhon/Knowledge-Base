@@ -78,9 +78,9 @@ It can be quite confusing with many similar names, so here is a few quick tips:
 
 The capital, reputation for being high crime.
 
-## Oaxaca
+## Oaxaca City
 
-Oaxaca (Wahaca) is has a lot of restaurants and quite a few churches with nice architectural facades.
+Oaxaca (Wahaca) has has a lot of restaurants and quite a few churches with nice architectural facades.
 
 You can walk around the centre in around 2 hours,
 so you'll need 2-4 days depending on whether you want to go hiking for a day or not.
