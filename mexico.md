@@ -61,19 +61,21 @@ It can be quite confusing with many similar names, so here is a few quick tips:
 
 | Food | Description |
 | ---- | ----------- |
-| Aguachile | raw meat or seafood in a zesty lime-chilli-cilantro sauce, served with nachos or plain untopped tostas / tostadas for you to load it up on to - this is one of my new favourite dishes, although quite extreme by western standards in both lime and chilli, start with the mildest one! |
-| Tacos | small soft round tortillas - these are actually overrated, I prefer aguachile and tostas |
-| Tostas / Tostadas | toasted flat tacos topped with meat/seafood and chopped tomato like bruschetta |
-| Tortas | a sandwich - not to be confused with Tostas! |
-| Volcane | a toasted crispy tortilla base (aka tosta aka tostada) with melted cheese on it and topped with meat. Named because the cheese is like a volcano |
-| Tlayuda | large tortilla with refied beans base and ingredients, folded and toasted until the cheese is melted |
-| Tamale | filling cooked in a corn husk or banana leaf - you eat the filling and discard the leaf | 
+| Aguachile | Raw meat or seafood in a zesty lime-chilli-cilantro sauce, served with nachos or plain untopped tostas / tostadas for you to load it up on to - this is one of my new favourite dishes, although quite extreme by western standards in both lime and chilli, start with the mildest one! |
+| Tacos | Small soft round tortillas - these are actually overrated, I prefer aguachile and tostas |
+| Tostas / Tostadas | Toasted flat tacos topped with meat/seafood and chopped tomato like bruschetta |
+| Tortas | Sandwich - not to be confused with Tostas! |
+| Volcane | Toasted crispy tortilla base (aka tosta aka tostada) with melted cheese on it and topped with meat. Named because the cheese is like a volcano |
+| Tlayuda | Large tortilla with refied beans base and ingredients, folded and toasted until the cheese is melted |
+| Tamale | Filling wrapped and cooked in a corn husk or banana leaf - you eat the filling and discard the leaf | 
 
 <!-- -->
 
-- "Jamaica" water - hibiscus red still drink, slightly sweet
-- Horchata - rice milk drink, ranges from bland to overly sweet depending on the restaurant
-- Tamarind water - slightly sweet drink with a salty aftertaste
+| Drink | Description |
+| ----- | ----------- |
+| "Jamaica" water | Hibiscus red still drink, slightly sweet | 
+| Horchata | Rice milk drink, ranges from bland to overly sweet depending on the restaurant |
+| Tamarind water | Slightly sweet drink with a salty aftertaste |
 
 ## Mexico City
 
