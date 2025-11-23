@@ -6,7 +6,7 @@
 - [Spanish Crash Course](#spanish-crash-course)
 - [Mexican Food](#mexican-food)
 - [Mexico City](#mexico-city)
-- [Oaxaca](#oaxaca)
+- [Oaxaca City](#oaxaca-city)
   - [Oaxaca Airport](#oaxaca-airport)
     - [Travel from Oaxaca Airport to Oaxaca](#travel-from-oaxaca-airport-to-oaxaca)
     - [Restaurants in Oaxaca](#restaurants-in-oaxaca)
