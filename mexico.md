@@ -116,7 +116,7 @@ Most restaurants I've seen in Oaxaca are tourist priced.
 
 - [La Casa del Tío Güero](https://maps.app.goo.gl/w2xigghHgMoUeQk8A) - the mole negro (black mole) with pork was really
   good and came with 2 large lean squares of pork, sides of rice, tortilla and chilli sauce. The mole itself was
-  slightly sweet so add the right amount of chilli sauce to suit your tastes
+  slightly sweet (it contains chocolate) so add the right amount of chilli sauce to suit your tastes
 - [Humito Cocina y Foro 8 Temblor](https://maps.app.goo.gl/oNbAwiHswxbTYnSA9) - good quality and taste, would probably
   be rated higher than 4.5 if it wasn't Western priced.
   The Carnito Mixteco main was good, a chicken in mole with sweet potato and white rice, a moderate sized portion.
