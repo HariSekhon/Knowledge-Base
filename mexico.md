@@ -75,6 +75,11 @@ The capital, reputation for being high crime.
 
 ## Oaxaca
 
+Oaxaca (Wahaca) is has a lot of restaurants and quite a few churches with nice architectural fascades.
+
+You can walk around the centre in around 2 hours,
+so you'll need 2-4 days depending on whether you want to go hiking for a day or not.
+
 ### Oaxaca Airport
 
 Airport wifi requires a capture portal in Spanish.
