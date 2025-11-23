@@ -138,16 +138,17 @@ Cancun is a tale of two cities:
   nightclubs etc.
 - El Centro - the centre / downtown - where the local mexican service staff actually live, a ghetto
 
-In this sense, Cancun is a lot of what is wrong with the world - the K shaped economy that caters mostly to the rich while leaving everyone else's standard of living in the dirt.
+In this sense, Cancun is a lot of what is wrong with the world - the K shaped economy that caters mostly to the rich
+while leaving everyone else's standard of living in the dirt.
 
-Still, if you want to live like a rich person for a week or two before you go back to your tax slave democracy job, stay in a resort in the hotel zone.
+Still, if you want to live like a rich person for a week or two before you go back to your tax slave democracy job, stay
+in a resort in the hotel zone.
 
 I'm actually shocked what a 3rd world country Mexico is walking around Cancun central.
 
-I had expected it to be more touristy and fancy,
-the tourists must be hiding in the resorts
-but walking around the regular streets in search of restaurants is jarring compared to coming from a 1st world city like
-Madrid on my prior stop.
+I had expected it to be more touristy and fancy, the tourists must be hiding in the resorts but walking around the
+regular streets in search of restaurants is jarring compared to coming from a 1st world city like Madrid on my prior
+stop.
 
 #### Cancun Airport
 
