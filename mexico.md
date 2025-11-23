@@ -67,6 +67,7 @@ It can be quite confusing with many similar names, so here is a few quick tips:
 - Tortas - a sandwich - not to be confused with Tostas!
 - Volcane - a toasted crispy tortilla base (aka tosta aka tostada) with melted cheese on it and topped with meat. Named
   because the cheese is like a volcano
+- Tlayuda - large tortilla with refied beans base and ingredients, folded and toasted until the cheese is melted
 
 <!-- -->
 
