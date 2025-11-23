@@ -139,8 +139,9 @@ Most restaurants I've seen in Oaxaca are tourist priced.
   I dropped 500 pesos here, whereas elsewhere I was eating well for 150-300 pesos.
   Wifi 246/286 Mbit/s
 - [Totopo Güero Cocina Istmeña](https://maps.app.goo.gl/dar1gyFggLKPsr2a7) - highly rated, upstairs off the street.
-  The bean soup was quite decent,
-  although the bean is the base of the soup, not a soup containing beans as a westerner might expect.
+  Interesting menu, not as expensive as many other places in Oaxaca.
+  The bean soup was quite decent, although the bean is the base of the soup, not a soup containing beans as a westerner
+  might expect.
   The beef stew was too sweet for my liking, I would try something else next time.
   The passion fruit water was good.
   Wifi 98/104 Mbit/s
