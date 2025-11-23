@@ -85,7 +85,9 @@ Oaxaca (Wahaca) has has a lot of restaurants and quite a few churches with nice 
 You can walk around the centre in around 2 hours,
 so you'll need 2-4 days depending on whether you want to go hiking for a day or not.
 
-The restaurants are tourist priced though.
+The restaurants are tourist priced though,
+typically 2-3x the price of locally priced restaurants in Cancun El Centro,
+more like the tourist trap hotel zone in Cancun.
 
 ### Oaxaca Airport
 
