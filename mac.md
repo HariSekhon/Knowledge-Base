@@ -1812,8 +1812,9 @@ If you have played around with this and want to do a deep search, use this scrip
 mac_backup_find_excluded_paths.sh
 ```
 
-The following script in [DevOps-Bash-tools](devops-bash-tools.md) adds the common cache paths to the exclusion list
-and you can quickly add your local repo's `build` and `Pods` directories as args too:
+The following script in [DevOps-Bash-tools](devops-bash-tools.md) adds the common cache paths to the exclusion list in the correct way
+that you can see in the UI.
+You can quickly add your local repo's `build` and `Pods` directories as args too:
 
 ```shell
 mac_backup_exclude_paths.sh "$PWD/build" "$PWD/Pods"
