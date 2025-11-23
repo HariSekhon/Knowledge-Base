@@ -182,7 +182,8 @@ I took a taxi on the way to the airport just for better timing control, see the 
 
 Even if you stay within the Hotel Zone, its still quite a long walk up and down, several kilometers.
 
-If you decide to visit El Centro or save money by staying in a hostel in El Centro, you can forget about walking everywhere as it'll destroy your knees trying.
+If you decide to visit El Centro or save money by staying in a hostel in El Centro, you can forget about walking
+everywhere as it'll destroy your knees trying.
 
 You will at some point need to either take taxis (see the section below) or learn to use the local buses.
 
@@ -196,21 +197,26 @@ If you want to live like a local for a more authentic experience, or are travell
 
 Unfortunately, Google Maps is absolutely useless as of late 2025 and has absolutely no section on public transport.
 
-To make matter worse, the bus stops are often not well designated, sometimes just a bench at the side of the road without signage.
+To make matter worse, the bus stops are often not well designated, sometimes just a bench at the side of the road
+without signage.
 
 There are no timetables with bus numbers as you may be used to in 1st world countries.
 
-Interestingly though, you can ask ChatGPT and it will tell you the bus numbers you need and roughly where to catch them down to the road (you need to figure out the direction you need to travel by looking at Google Maps).
+Interestingly though, you can ask ChatGPT and it will tell you the bus numbers you need and roughly where to catch them
+down to the road (you need to figure out the direction you need to travel by looking at Google Maps).
 
 #### Taxi Apps in Cancun
 
 Sometimes the prices are comparable between Uber and InDrive but other times they are not, check both.
 
-Uber quoted me 350-370 pesos to Cancun airport but InDrive took me for 160 pesos. This is a very good price considering the ADO bus was 128 pesos per person, so if there are two or more of you this taxi actually works out cheaper!
+Uber quoted me 350-370 pesos to Cancun airport but InDrive took me for 160 pesos. This is a very good price considering
+the ADO bus was 128 pesos per person, so if there are two or more of you this taxi actually works out cheaper!
 
-I'd guess that Western people sticking to Uber drove the prices right up during checkout time, they hadn't thought to spread the load to InDrive so I saved more than half the cost!
+I'd guess that Western people sticking to Uber drove the prices right up during checkout time, they hadn't thought to
+spread the load to InDrive so I saved more than half the cost!
 
-- [InDrive](https://indrive.com/en-mx) - bid your price, motorbike ride is half the price of a car ride but there were no takers. You will often get drivers sending you higher offers, ignore them, usually one takes your app recommended offer price
+- [InDrive](https://indrive.com/en-mx) - bid your price, motorbike ride is half the price of a car ride but there were no takers. You will
+  often get drivers sending you higher offers, ignore them, usually one takes your app recommended offer price
 - [Uber](https://www.uber.com/)
 
 #### ATMs in Cancun
@@ -270,8 +276,8 @@ Skip:
   The strip steak burrito is the thing to have here, nice and lean.
   The strip steak taco and volcane are good too.
   All come with a condiment caddy with the following: a pot full of limes, lemon guacamole (mild), but the real stars
-  are the chill salsas; chile de pasilla (medium spicy, light red brown, my favourite), chile de habanero (spicy, green),
-  chile de arbol (spiciest, dark red-brown).
+  are the chill salsas; chile de pasilla (medium spicy, light red brown, my favourite), chile de habanero
+  (spicy, green), chile de arbol (spiciest, dark red-brown).
   I love to cut up a piece of burrito, drench it in lime and then pile on one of the chilli toppings - my favourite
   thing to eat in Mexico so far, I was eating here every 2 days afte this.
   The strip steak torta sandwich is decent quality but a bit small for the price compared to the adjacent offerings.
@@ -286,12 +292,14 @@ Skip:
   The _"pastor"_ is probably even worse since it's just shawarma meat from the rotating spit like in a kebab shop.
   The cheesecake is the only dessert on the menu but it's mediocre, for 158 pesos ($8.60) I'd skip this next time as
   it's not worth the price or the calories. Stay shredded.
-  Their card machine always times out on apple pay touch (despite them having fast wifi) and I had to use my physical card with pin.
+  Their card machine always times out on apple pay touch (despite them having fast wifi) and I had to use my physical
+  card with pin.
   Wifi 120/177 Mbit/s
 - [Las Tostadillas Del Mar Ruta Nader](https://maps.app.goo.gl/BPMpj6nBKyU9Q8438) - seafood restaurant with reasonable
   prices for tacos and tostas.
   The shrimp and tuna tostas are the best thing here.
-  The red aguachile is actually surprisingly too spicy, considering I'd been crushing every level of chilli drowning at Carbon and had a green aguachile the night before at La Bamba the night before.
+  The red aguachile is actually surprisingly too spicy, considering I'd been crushing every level of chilli drowning at
+  Carbon and had a green aguachile the night before at La Bamba the night before.
   Could do with a better drinks menu, the horchata was far too sweet, skip that next time.
   The wifi didn't work on laptop due to capture portal, but did on phone.
   Skip the tacos and go straight for the tostas next time.
@@ -309,7 +317,8 @@ Skip:
 - [Tostadas de atun](https://maps.app.goo.gl/M6HiFUncsKnLQ8AY6) - cheap local taco and tostada rrstaurant that is always busy with locals.
   Closes relatively early at 7:30pm (Google Maps is wrong to claim it is open until midnighy).
   The pescado (fish) and cameron (shrimp) tostas are my favourite here.
-  Their jamaica water was decent but their horchata was watery and overly sweet, I didn't finish it and would skip that next time
+  Their jamaica water was decent but their horchata was watery and overly sweet, I didn't finish it and would skip that
+  next time
 
 ### Chichen Itza
 
