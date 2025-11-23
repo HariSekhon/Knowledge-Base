@@ -122,8 +122,6 @@ Most restaurants I've seen in Oaxaca are tourist priced.
 - [La Casa del Tío Güero](https://maps.app.goo.gl/w2xigghHgMoUeQk8A) - the mole negro (black mole) with pork was really
   good and came with 2 large lean squares of pork, sides of rice, tortilla and chilli sauce. The mole itself was
   slightly sweet (it contains chocolate) so add the right amount of chilli sauce to suit your tastes
-- [Totopo Güero Cocina Istmeña](https://maps.app.goo.gl/dar1gyFggLKPsr2a7) - hidden gem, upstairs off the street.
-  Wifi 98/104 Mbit/s
 - [Humito Cocina y Foro 8 Temblor](https://maps.app.goo.gl/oNbAwiHswxbTYnSA9) - good quality and taste, would probably
   be rated higher than 4.5 if it wasn't Western priced.
   The Carnito Mixteco main was good, a mole containing shredded chicken pieces with sweet potato and white rice, a
@@ -140,6 +138,12 @@ Most restaurants I've seen in Oaxaca are tourist priced.
   The water of the day (mango) was very good, just the right about of sweetness and liquidity (70 pesos / £3).
   I dropped 500 pesos here, whereas elsewhere I was eating well for 150-300 pesos.
   Wifi 246/286 Mbit/s
+- [Totopo Güero Cocina Istmeña](https://maps.app.goo.gl/dar1gyFggLKPsr2a7) - highly rated, upstairs off the street.
+  The bean soup was quite decent,
+  although the bean is the base of the soup, not a soup containing beans as a westerner might expect.
+  The beef stew was too sweet for my liking, I would try something else next time.
+  The passion fruit water was good.
+  Wifi 98/104 Mbit/s
 
 ## Yucatan Peninsula
 
