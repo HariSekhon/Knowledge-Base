@@ -86,11 +86,15 @@ The capital, reputation for being high crime.
 Oaxaca (Wahaca) has has a lot of restaurants and quite a few churches with nice architectural facades.
 
 You can walk around the centre in around 2 hours,
-so you'll need 2-4 days depending on whether you want to go hiking for a day or not.
+so you'll need 2-3 days depending on whether you want to go hiking for a day or not.
 
 The restaurants are tourist priced though,
 typically 2-3x the price of locally priced restaurants in Cancun El Centro,
 more like the tourist trap hotel zone in Cancun.
+
+The taxi apps also don't work, they don't find drivers.
+
+Overall I don't want to spend too much time in Oaxaca.
 
 ### Oaxaca Airport
 
@@ -118,6 +122,8 @@ and learn.
 #### Taxis in Oaxaca
 
 Both taxi apps failed to find me a driver from the airport, and also from the centre to Mount Alban.
+
+You can see in InDrive only 2-4 drivers even saw the request, which is very low compared to other cities where it's more like 7+.
 
 #### Restaurants in Oaxaca
 
