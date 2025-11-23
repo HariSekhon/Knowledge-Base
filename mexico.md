@@ -40,7 +40,8 @@ check-in desk was either just trying to ruin my day or it's the airlines policy,
 
 Most people speak little to no English, surprising for a place that receives so much English-speaking tourism.
 
-It greatly helps to know a bit of Spanish to get by, as you will struggle if relying on Google Translate for every little thing.
+It greatly helps to know a bit of Spanish to get by, as you will struggle if relying on Google Translate for every
+little thing.
 
 | English | Spanish |
 | ------- | ------- |
@@ -58,11 +59,14 @@ It greatly helps to know a bit of Spanish to get by, as you will struggle if rel
 
 It can be quite confusing with many similar names, so here is a few quick tips:
 
-- Aguachile - raw meat or seafood in a zesty lime-chilli-cilantro sauce, served with nachos or plain untopped tostas / tostadas for you to load it up on to - this is one of my new favourite dishes, although quite extreme by western standards in both lime and chilli, start with the mildest one!
+- Aguachile - raw meat or seafood in a zesty lime-chilli-cilantro sauce, served with nachos or plain untopped tostas /
+  tostadas for you to load it up on to - this is one of my new favourite dishes, although quite extreme by western
+  standards in both lime and chilli, start with the mildest one!
 - Tacos - small soft round tortillas - these are actually overrated, I prefer aguachile and tostas
 - Tostas / Tostadas - toasted flat tacos topped with meat/seafood and chopped tomato like bruschetta
 - Tortas - a sandwich - not to be confused with Tostas!
-- Volcane - a toasted crispy tortilla base (aka tosta aka tostada) with melted cheese on it and topped with meat. Named because the cheese is like a volcano
+- Volcane - a toasted crispy tortilla base (aka tosta aka tostada) with melted cheese on it and topped with meat. Named
+  because the cheese is like a volcano
 
 <!-- -->
 
@@ -76,7 +80,7 @@ The capital, reputation for being high crime.
 
 ## Oaxaca
 
-Oaxaca (Wahaca) is has a lot of restaurants and quite a few churches with nice architectural fascades.
+Oaxaca (Wahaca) is has a lot of restaurants and quite a few churches with nice architectural facades.
 
 You can walk around the centre in around 2 hours,
 so you'll need 2-4 days depending on whether you want to go hiking for a day or not.
@@ -87,7 +91,8 @@ The restaurants are tourist priced though.
 
 Airport wifi requires a capture portal in Spanish.
 
-The fields are; First Name, Last Name, Mother's Maiden Name (optional), Email address, Phone number (with +xx international prefix).
+The fields are; First Name, Last Name, Mother's Maiden Name (optional), Email address, Phone number (with +xx
+international prefix).
 
 This worked better than the similar capture portal in Cancun.
 
@@ -99,9 +104,11 @@ You can get a taxi in the terminal, but theh are quite expensive, quoting over 4
 
 InDrive has taxis for 180 pesos.
 
-Or you can buy a shared transport at the taxi stand in the terminal for 135 pesos, for a small minibus, but they make take a long time to leave as they wait for other passengers.
+Or you can buy a shared transport at the taxi stand in the terminal for 135 pesos, for a small minibus, but they make
+take a long time to leave as they wait for other passengers.
 
-I took a punt on the latter just to see what it's like. When arriving if not in a rush this is a good time to experiment and learn.
+I took a punt on the latter just to see what it's like. When arriving if not in a rush this is a good time to experiment
+and learn.
 
 #### Restaurants in Oaxaca
 
