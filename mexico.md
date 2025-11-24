@@ -135,7 +135,7 @@ Most restaurants I've seen in Oaxaca are tourist priced.
   The octopus taco was interesting with a bean paste base and crackers in it.
   The felix passionfruit drink is good, slightly sparking and not too sweet, served in a whisky glass with a giant ice cube.
   The horchata is not in the menu, but is surprisingly good, not too sweet like some other places.
-  It's served in a large tall whisky glass, and contains pieces of fruit and nuts.
+  It's served in a large tall whisky glass, and contains small melon cubes and quite a lot of small pieces of walnuts.
 - [La Casa del Tío Güero](https://maps.app.goo.gl/w2xigghHgMoUeQk8A) - the mole negro (black mole) with pork was really
   good and came with 2 large lean squares of pork, sides of rice, tortilla and chilli sauce. The mole itself was
   slightly sweet (it contains chocolate) so add the right amount of chilli sauce to suit your tastes
