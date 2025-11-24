@@ -134,6 +134,7 @@ Most restaurants I've seen in Oaxaca are tourist priced.
 - [Humar](https://maps.app.goo.gl/HtHJ3icQ7uVFJ3Yk8) - seafood restaurant with good menu and moderate prices.
   The upstairs terrace seating is nicer, and where most people choose to sit but beware it can become a tad chilly in the evenings.
   The staff even bring nice fluffy warm blankets, which is a nice touch.
+  You may need to reserve a table here, especially if wanting to since in the upstairs terrace.
   The best aguachile verde I've had so far in Mexico, with large jumbo shrimps and topped with half a sliced avocado.
   The octopus taco was interesting with a bean paste base and crackers in it.
   The felix passionfruit drink is good, slightly sparking and not too sweet, served in a whisky glass with a giant ice cube.
