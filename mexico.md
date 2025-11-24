@@ -50,11 +50,8 @@ little thing.
 | No                        | No        |
 | Please                    | Por favor |
 | Thank You                 | Gracias   |
-| Fish                      | Pescado   |
-| Shrimp                    | Cameron   |
-| Skirt Steak / Flank Steak | Arrachera |
-| Beach                     | Playa     |
 | Very Good                 | Muy Bueno |
+| Beach                     | Playa     |
 
 ## Mexican Food
 
@@ -69,8 +66,12 @@ It can be quite confusing with many similar names, so here is a few quick tips:
 | Volcane           | Toasted crispy tortilla base (aka tosta aka tostada) with melted cheese on it and topped with meat. Named because the cheese is like a volcano                                                                                                                                           |
 | Tlayuda           | Large tortilla with re-fied beans base and ingredients, folded and toasted until the cheese is melted                                                                                                                                                                                    |
 | Tamale            | Filling wrapped and cooked in a corn husk or banana leaf - you eat the filling and discard the leaf                                                                                                                                                                                      |
-| Huervos | Eggs |
-| Pulpo | Octopus |
+| Huervos           | Eggs                                                                                                                                                                                                                                                                                     |
+| Pulpo             | Octopus                                                                                                                                                                                                                                                                                  |
+| Pescado           | Fish                                                                                                                                                                                                                                                                                     |
+| Cameron           | Shrimp                                                                                                                                                                                                                                                                                   |
+| Arrachera         | Skirt Steak / Flank Steak                                                                                                                                                                                                                                                                |
+
 
 <!-- -->
 
