@@ -111,12 +111,14 @@ Remwmber to download an offline Google Map while on wifi.
 
 #### Travel from Oaxaca Airport to Oaxaca
 
-You can get a taxi in the terminal, but theh are quite expensive, quoting over 400 peses for a mere 7km.
+You can get a taxi in the terminal, but they are quite expensive, quoting over 400 peses for a mere 7km.
 
 InDrive has taxis for 180 pesos, but it didn't find a driver.
 
-Or you can buy a shared transport at the taxi stand in the terminal for 135 pesos, for a small minibus, but they can
-take a long time to leave as they wait for other passengers to fill up the minibus.
+Or you can buy a shared transport called a _"colectivo"_ at the taxi stand in the terminal for 135 pesos.
+It's a small minibus, that will drop you to your specific accommodation, but they can take a long time to leave as they
+wait for other passengers to fill up the minibus,
+and longer still as they meander around the city dropping off other passengers first.
 
 I took a punt on the latter just to see what it's like. When arriving if not in a rush this is a good time to experiment
 and learn.
