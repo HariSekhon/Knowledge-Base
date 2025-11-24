@@ -115,8 +115,8 @@ You can get a taxi in the terminal, but theh are quite expensive, quoting over 4
 
 InDrive has taxis for 180 pesos, but it didn't find a driver.
 
-Or you can buy a shared transport at the taxi stand in the terminal for 135 pesos, for a small minibus, but they make
-take a long time to leave as they wait for other passengers.
+Or you can buy a shared transport at the taxi stand in the terminal for 135 pesos, for a small minibus, but they can
+take a long time to leave as they wait for other passengers to fill up the minibus.
 
 I took a punt on the latter just to see what it's like. When arriving if not in a rush this is a good time to experiment
 and learn.
