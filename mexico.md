@@ -125,6 +125,9 @@ driving time, meandering and dropping off other passengers.
 I took a punt on the latter just to see what it's like. When arriving if not in a rush this is a good time to experiment
 and learn.
 
+I wouldn't risk a colectivo or Tucdosa on the way to the airport as you might miss your flight so I took a taxi ordered
+by my accommodation to the airport.
+
 #### Taxis in Oaxaca
 
 Both Uber and InDrive taxi apps failed to find me a driver from the airport, and also from the centre to Mount Alban.
