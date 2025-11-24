@@ -130,6 +130,8 @@ You can see in InDrive only 2-4 drivers even saw the request, which is very low 
 
 Most restaurants I've seen in Oaxaca are tourist priced.
 
+- [Humar](https://maps.app.goo.gl/HtHJ3icQ7uVFJ3Yk8) - seafood restaurant with good menu and moderate prices.
+  The felix passionfruit drink is good, slightly sparking and not too sweet.
 - [La Casa del Tío Güero](https://maps.app.goo.gl/w2xigghHgMoUeQk8A) - the mole negro (black mole) with pork was really
   good and came with 2 large lean squares of pork, sides of rice, tortilla and chilli sauce. The mole itself was
   slightly sweet (it contains chocolate) so add the right amount of chilli sauce to suit your tastes
