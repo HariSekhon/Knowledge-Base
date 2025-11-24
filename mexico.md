@@ -72,7 +72,6 @@ It can be quite confusing with many similar names, so here is a few quick tips:
 | Cameron           | Shrimp                                                                                                                                                                                                                                                                                   |
 | Arrachera         | Skirt Steak / Flank Steak                                                                                                                                                                                                                                                                |
 
-
 <!-- -->
 
 | Drink           | Description                                                                                |
