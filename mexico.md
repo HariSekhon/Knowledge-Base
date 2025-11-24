@@ -119,6 +119,8 @@ Or you can buy a shared transport called a _"colectivo"_ at the taxi stand in th
 It's a small minibus, that will drop you to your specific accommodation, but they can take a long time to leave as they
 wait for other passengers to fill up the minibus,
 and longer still as they meander around the city dropping off other passengers first.
+A 30 minute taxi ride can become a 1 hour 20 minute journey including the waiting time,
+driving time, meandering and dropping off other passengers.
 
 I took a punt on the latter just to see what it's like. When arriving if not in a rush this is a good time to experiment
 and learn.
