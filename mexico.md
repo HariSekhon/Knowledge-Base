@@ -137,6 +137,7 @@ Most restaurants I've seen in Oaxaca are tourist priced.
   You may need to reserve a table here, especially if wanting to since in the upstairs terrace.
   The best aguachile verde I've had so far in Mexico, with large jumbo shrimps and topped with half a sliced avocado.
   The octopus taco was interesting with a bean paste base and crackers in it.
+  The shrimp soup broth is quite good too.
   The felix passionfruit drink is good, slightly sparking and not too sweet, served in a whisky glass with a giant ice cube.
   The horchata is not in the menu, but is surprisingly good, not too sweet like some other places.
   It's served in a large tall whisky glass, and contains small melon cubes and quite a lot of small pieces of walnuts.
