@@ -127,9 +127,16 @@ and learn.
 
 #### Taxis in Oaxaca
 
-Both taxi apps failed to find me a driver from the airport, and also from the centre to Mount Alban.
+Both Uber and InDrive taxi apps failed to find me a driver from the airport, and also from the centre to Mount Alban.
 
-You can see in InDrive only 2-4 drivers even saw the request, which is very low compared to other cities where it's more like 7+.
+You can see in InDrive only 2-4 drivers even saw the request, which is very low compared to other cities where it's more
+like 7+.
+
+Both of these apps worked for me in Cancun but not in Oaxaca,
+leaving you to try to get a taxi off the street or ordered by your hotel.
+
+- [Uber](https://www.uber.com/mx/en/)
+- [InDrive](https://indrive.com/en-mx)
 
 #### Restaurants in Oaxaca
 
