@@ -38,7 +38,7 @@ check-in desk was either just trying to ruin my day or it's the airlines policy,
 
 ## Spanish Crash Course
 
-Most people speak little to no English, surprising for a place that receives so much English-speaking tourism.
+Most people in Mexico speak little to no English, surprising for a place that receives so much English-speaking tourism.
 
 It greatly helps to know a bit of Spanish to get by, as you will struggle if relying on Google Translate for every
 little thing.
