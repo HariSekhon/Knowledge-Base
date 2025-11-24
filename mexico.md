@@ -140,7 +140,7 @@ leaving you to try to get a taxi off the street or ordered by your hotel.
 
 #### Restaurants in Oaxaca
 
-Most restaurants I've seen in Oaxaca are tourist priced.
+There are lots of restaurants in Oaxaca but nearly all of them I've seen are tourist traps similar to Western prices.
 
 - [Humar](https://maps.app.goo.gl/HtHJ3icQ7uVFJ3Yk8) - seafood restaurant with good menu and moderate prices.
   The upstairs terrace seating is nicer, and where most people choose to sit but beware it can become a tad chilly in the evenings.
