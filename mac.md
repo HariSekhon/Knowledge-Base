@@ -2054,6 +2054,13 @@ sudo tmutil delete -d "/Volumes/$NAME" -t 2025-03-28-015336
 1 backups deleted
 ```
 
+Another thing to check is for `.interrupted` and `.incomplete` directories of backups that failed to complete, such as
+the machine sleeping and disconnecting the external disk.
+
+```shell
+cd "/Volumes/$NAME" && rm -fr *.previous *.interrupted
+```
+
 After this `du` and `df` reconciled.
 
 ### Spotlight Search failing to find App
