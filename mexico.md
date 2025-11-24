@@ -69,6 +69,7 @@ It can be quite confusing with many similar names, so here is a few quick tips:
 | Tlayuda           | Large tortilla with re-fied beans base and ingredients, folded and toasted until the cheese is melted                                                                                                                                                                                    |
 | Tamale            | Filling wrapped and cooked in a corn husk or banana leaf - you eat the filling and discard the leaf                                                                                                                                                                                      |
 | Huervos | Eggs |
+| Pulpo | Octopus |
 
 <!-- -->
 
@@ -131,6 +132,8 @@ You can see in InDrive only 2-4 drivers even saw the request, which is very low 
 Most restaurants I've seen in Oaxaca are tourist priced.
 
 - [Humar](https://maps.app.goo.gl/HtHJ3icQ7uVFJ3Yk8) - seafood restaurant with good menu and moderate prices.
+  The upstairs terrace seating is nicer, and where most people choose to sit but beware it can become a tad chilly in the evenings.
+  The staff even bring nice fluffy warm blankets, which is a nice touch.
   The best aguachile verde I've had so far in Mexico, with large jumbo shrimps and topped with half a sliced avocado.
   The octopus taco was interesting with a bean paste base and crackers in it.
   The felix passionfruit drink is good, slightly sparking and not too sweet, served in a whisky glass with a giant ice cube.
