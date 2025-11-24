@@ -9,6 +9,7 @@
 - [Oaxaca City](#oaxaca-city)
   - [Oaxaca Airport](#oaxaca-airport)
     - [Travel from Oaxaca Airport to Oaxaca](#travel-from-oaxaca-airport-to-oaxaca)
+    - [Taxis in Oaxaca](#taxis-in-oaxaca)
     - [Restaurants in Oaxaca](#restaurants-in-oaxaca)
 - [Yucatan Peninsula](#yucatan-peninsula)
   - [Cancun](#cancun)
