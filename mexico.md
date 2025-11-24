@@ -131,7 +131,11 @@ You can see in InDrive only 2-4 drivers even saw the request, which is very low 
 Most restaurants I've seen in Oaxaca are tourist priced.
 
 - [Humar](https://maps.app.goo.gl/HtHJ3icQ7uVFJ3Yk8) - seafood restaurant with good menu and moderate prices.
-  The felix passionfruit drink is good, slightly sparking and not too sweet.
+  The best aguachile verde I've had so far in Mexico, with large jumbo shrimps and topped with half a sliced avocado.
+  The octopus taco was interesting with a bean paste base and crackers in it.
+  The felix passionfruit drink is good, slightly sparking and not too sweet, served in a whisky glass with a giant ice cube.
+  The horchata is not in the menu, but is surprisingly good, not too sweet like some other places.
+  It's served in a large tall whisky glass, and contains pieces of fruit and nuts.
 - [La Casa del Tío Güero](https://maps.app.goo.gl/w2xigghHgMoUeQk8A) - the mole negro (black mole) with pork was really
   good and came with 2 large lean squares of pork, sides of rice, tortilla and chilli sauce. The mole itself was
   slightly sweet (it contains chocolate) so add the right amount of chilli sauce to suit your tastes
