@@ -74,11 +74,11 @@ It can be quite confusing with many similar names, so here is a few quick tips:
 
 <!-- -->
 
-| Drink           | Description                                                                                |
-|-----------------|--------------------------------------------------------------------------------------------|
-| Horchata        | Traditional rice milk drink, ranges from bland to overly sweet depending on the restaurant |
-| "Jamaica" water | Hibiscus red still drink, slightly sweet                                                   |
-| Tamarind water  | Slightly sweet drink with a salty aftertaste                                               |
+| Drink             | Description                                                                                |
+|-------------------|--------------------------------------------------------------------------------------------|
+| Horchata          | Traditional rice milk drink, ranges from bland to overly sweet depending on the restaurant |
+| _"Jamaica"_ water | Hibiscus red still drink, slightly sweet                                                   |
+| Tamarind water    | Slightly sweet drink with a salty aftertaste                                               |
 
 ## Mexico City
 
