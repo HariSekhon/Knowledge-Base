@@ -248,6 +248,7 @@ If I wanted to spend $25 on a meal (without alcohol) I could do that back in the
 
 TODO:
 
+- [Muss Café](https://maps.app.goo.gl/sGeapoLH8df9g4kx5) - 4.4, looks nice from the outside
 - [Panna Gelateria Centro](https://maps.app.goo.gl/c7Lfzoh1kfm8SvBv7) - 4.7 ice cream
 - [Comedor Istmeño Casa Juchitán](https://maps.app.goo.gl/wRk19s9gPnDYgkCw7) - 4.7
 - [Restaurante Taniperla Oaxaca](https://maps.app.goo.gl/LAjZmZ8754CSeB4t6) - 4.7
