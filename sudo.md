@@ -43,6 +43,12 @@ If you want to add to another file under `/etc/sudoers.d/` then:
 sudo visudo -f /etc/sudoers.d/hari
 ```
 
+Ensure if you're create a new file `/etc/sudoers.d/hari` that you set correct permissions:
+
+```shell
+sudo chmod 440 /etc/sudoers.d/hari
+```
+
 The line you need to add is:
 
 ```text
