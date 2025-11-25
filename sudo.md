@@ -28,11 +28,19 @@ The above is sometimes frowned upon if you want every elevated command logged fo
 Configure which users and groups can sudo and to which commands by editing the `/etc/sudoers` file
 (or sometimes `/etc/sudoers.d/...` include files).
 
+Use the `visudo` command because it validates the changes before it allows saving them.
+
 This command drop you into your `$EDITOR` if it's set (see [IntelliJ](intellij.md) page), or if not set then it'll open
 `/etc/sudoers` in the classic [vi](vim.md) editor.
 
 ```shell
 sudo visudo
+```
+
+If you want to add to another file under `/etc/sudoers.d/` then:
+
+```shell
+sudo visudo -f /etc/sudoers.d/hari
 ```
 
 The line you need to add is:
