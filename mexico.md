@@ -194,6 +194,13 @@ There are many churches, as well as a couple hiking trails and historic archaeol
 
 TODO:
 
+- [Monte Albán](https://maps.app.goo.gl/RYdP5Z3Zn6BWrNGM6) - this is a big one I missed as neither of the taxi apps
+  Uber and InDrive found any drivers to accept my trip there.
+  I also tried the [Lescas Tours Oaxaca](https://maps.app.goo.gl/Rs42nTGuXQFdrYyY8) bus from the centre Alameda de León
+  but it had sold out for the day by the mid afternoon.
+  In hindsight I should have grabbed a yellow taxi off the street and haggled a price to get up there in time
+  - [Zona Arqueológica de Monte Albán](https://maps.app.goo.gl/y4E9kV3vSk1GsbZy8)
+  - [Plataforma Norte](https://maps.app.goo.gl/bV8nCzZ57vVuWWL18)
 - [Zona Arqueológica de Atzompa](https://maps.app.goo.gl/T2MVK5R4d2HPrZn46) - 4.7
 - [Museum of Cultures of Oaxaca, Santo Domingo](https://maps.app.goo.gl/FpziiXb4R21vPFsq6)
 - [Cerro del Fortín mountain peak](https://maps.app.goo.gl/LJN8xGs1BshFb7zS7)
