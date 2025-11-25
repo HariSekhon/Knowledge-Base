@@ -186,6 +186,7 @@ There are many churches, as well as a couple hiking trails and historic archaeol
 - [Santo Domingo Square](https://maps.app.goo.gl/MCaT24Ly9odPMXsD8)
   - [Templo de Santo Domingo de Guzmán](https://maps.app.goo.gl/8gWXU193UXdcAK3e9)
 - [Mercado Benito Juárez](https://maps.app.goo.gl/NH9unmZ9hSvrZz7e6) - market with fresh produce and souvenirs
+- [Centro Cultural San Pablo](https://maps.app.goo.gl/XmsGWc1P5KZzyC2E6)
 - [Cerro del Fortin](https://maps.app.goo.gl/26f1QzPDjX89dpzB6) - viewpoint over the city
 - [Escalera del fortin](https://maps.app.goo.gl/i8E5BYmyKvyYk9yNA) - landmark steps up to Cerro del Fortin
 
