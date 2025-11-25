@@ -250,6 +250,7 @@ TODO:
 
 - [Muss Café](https://maps.app.goo.gl/sGeapoLH8df9g4kx5) - 4.4, looks nice from the outside
 - [Panna Gelateria Centro](https://maps.app.goo.gl/c7Lfzoh1kfm8SvBv7) - 4.7 ice cream
+- [Restaurante Casa Hidalgo](https://maps.app.goo.gl/BQVF1dsHPNyUGEQr9) - 4.8, hotel restaurant
 - [Casa Mook](https://maps.app.goo.gl/cBhptpoCdgJrgzmu8) - 4.8
 - [Comedor Istmeño Casa Juchitán](https://maps.app.goo.gl/wRk19s9gPnDYgkCw7) - 4.7
 - [Restaurante Taniperla Oaxaca](https://maps.app.goo.gl/LAjZmZ8754CSeB4t6) - 4.7
