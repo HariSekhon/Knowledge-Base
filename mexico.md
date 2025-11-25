@@ -112,6 +112,8 @@ more like the tourist trap hotel zone in Cancun.
 
 The taxi apps also don't work, they don't find drivers.
 
+There were also power cuts on my floor of the accommodation for 2 out of the 3 nights I was there.
+
 Overall I don't want to spend too much time in Oaxaca.
 
 ### Safety in Oaxaca
@@ -198,6 +200,9 @@ TODO:
     risky given Mexico's high crime rate
 
 #### Restaurants in Oaxaca
+
+<!-- Casa Angel Hostel was very good, central and cheap -
+although there were power cuts on 1st floor at least 2 nights out of the 3 I was there -->
 
 There are lots of restaurants in Oaxaca but nearly all of them I've seen are tourist traps similar to Western prices.
 
