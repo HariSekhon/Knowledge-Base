@@ -134,7 +134,7 @@ Remwmber to download an offline Google Map while on wifi.
 
 #### Travel from Oaxaca Airport to Oaxaca
 
-You can get a taxi in the terminal, but they are quite expensive, quoting over 400 peses for a mere 7km.
+You can get a taxi in the terminal, but they are quite expensive, quoting nearly 500 peses for a mere 7km.
 
 InDrive has taxis for 180 pesos, but it didn't find a driver.
 
