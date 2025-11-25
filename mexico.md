@@ -96,6 +96,7 @@ metro or shorter taxi ride.
 I accidentally booked my flight into Felipe Ángeles International Airport which is 40km outside Mexico City.
 From there it's difficult to get to Mexico City - you either have to try to get a taxi which will be very expensive, or
 find a bus / coach for which you could wait 1-2 hours for an available one that isn't booked up.
+I managed to get coach for 90 pesos to Mexico Norte.
 Thankfully the bus station has good free open wifi 138/144 Mbit/s!
 
 ## Oaxaca City
