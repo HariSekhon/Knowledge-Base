@@ -205,6 +205,7 @@ TODO:
   - [Plaza Central](https://maps.app.goo.gl/HVPh65b9Y2hRcoKLA)
   - [Mesoamerican Ball Court](https://maps.app.goo.gl/2RVc6gb7pSGfLA2F6)
   - [Museo de Sitio de Monte Albán](https://maps.app.goo.gl/pAyrAD1bvgV7KRwr7)
+  - [Sistema IV](https://maps.app.goo.gl/tbonqJ92jv7SQkwi7)
   - [Plataforma Norte](https://maps.app.goo.gl/bV8nCzZ57vVuWWL18)
   - [El Palacio](https://maps.app.goo.gl/VkWW7HJ2zBeodPD69)
   - [Plataforma Sur](https://maps.app.goo.gl/7gFsKTHKMp8xve5D6)
