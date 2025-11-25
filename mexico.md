@@ -164,6 +164,11 @@ There are many churches, as well as a couple hiking trails and historic archaelo
 - [Cerro del Fortin](https://maps.app.goo.gl/26f1QzPDjX89dpzB6) - viewpoint over the city
 - [Escalera del fortin](https://maps.app.goo.gl/i8E5BYmyKvyYk9yNA) - landmark steps up to Cerro del Fortin
 
+TODO:
+
+- [Cerro del Fortín mountain peak](https://maps.app.goo.gl/LJN8xGs1BshFb7zS7)
+  - [Mountain View](https://maps.app.goo.gl/CBG9yxgKLYvd9tyJ9)
+
 #### Restaurants in Oaxaca
 
 There are lots of restaurants in Oaxaca but nearly all of them I've seen are tourist traps similar to Western prices.
