@@ -161,6 +161,10 @@ leaving you to try to get a taxi off the street or ordered by your hotel.
 
 There are lots of restaurants in Oaxaca but nearly all of them I've seen are tourist traps similar to Western prices.
 
+If I wanted to spend $25 on a meal (without alcohol) I could do that back in the West!
+
+- [Super Jugos Angelita](https://maps.app.goo.gl/5YbUPDtxQ7gaMgaYA) - 1 litre fresh juice for 45 pesos and 2 tostadas
+  for 60 pesos - one of the few local eats places I found that wasn't ripping me off for $25 for every meal.
 - [Humar](https://maps.app.goo.gl/HtHJ3icQ7uVFJ3Yk8) - seafood restaurant with good menu and moderate prices.
   The upstairs terrace seating is nicer, and where most people choose to sit but beware it can become a tad chilly in the evenings.
   The staff even bring nice fluffy warm blankets, which is a nice touch.
