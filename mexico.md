@@ -245,6 +245,15 @@ If I wanted to spend $25 on a meal (without alcohol) I could do that back in the
   The passion fruit water was good.
   Wifi 98/104 Mbit/s
 
+TODO:
+
+- [Panna Gelateria Centro](https://maps.app.goo.gl/c7Lfzoh1kfm8SvBv7) - 4.7 ice cream
+- [Agavero - Cocina, Bar](https://maps.app.goo.gl/HW77wm5Dvj14e7ha9) - 4.6
+- [Comedor Istmeño Casa Juchitán](https://maps.app.goo.gl/wRk19s9gPnDYgkCw7) - 4.7
+- [Coquina Hua Xha](https://maps.app.goo.gl/uoex53fpjiFEsDCt8) - 4.6
+- [La Popular](https://maps.app.goo.gl/jvRAweJ3jUSPUHKm7) - 4.4
+- [El Escapulario](https://maps.app.goo.gl/eYDMqaUS3k2rW7sH8) - 4.4
+
 ## Yucatan Peninsula
 
 ### Cancun
