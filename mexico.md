@@ -176,6 +176,7 @@ There are many churches, as well as a couple hiking trails and historic archaeol
 - [Basílica de Nuestra Señora de la Soledad](https://maps.app.goo.gl/2xnzC7Y5VFjWR2Wj9)
   - [Plaza de Las Nieves](https://maps.app.goo.gl/bFdMrEH7wZnC8rdv7) - this little strip outside the Basílica de Nuestra
     Señora has a few places to try
+- [Templo San Cosme y San Damian](https://maps.app.goo.gl/Ddef1NdwKFdZ7GZz8)
 - [Santo Domingo Square](https://maps.app.goo.gl/MCaT24Ly9odPMXsD8)
 - [Templo de Santo Domingo de Guzmán](https://maps.app.goo.gl/8gWXU193UXdcAK3e9)
 - [Cerro del Fortin](https://maps.app.goo.gl/26f1QzPDjX89dpzB6) - viewpoint over the city
