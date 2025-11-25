@@ -207,6 +207,7 @@ TODO:
   - [Museo de Sitio de Monte Albán](https://maps.app.goo.gl/pAyrAD1bvgV7KRwr7)
   - [Plataforma Norte](https://maps.app.goo.gl/bV8nCzZ57vVuWWL18)
   - [El Palacio](https://maps.app.goo.gl/VkWW7HJ2zBeodPD69)
+  - [Vista Panorámica Plataforma Sur](https://maps.app.goo.gl/qfWSWy7MS3MDCgan7)
 - [Museum of Cultures of Oaxaca, Santo Domingo](https://maps.app.goo.gl/FpziiXb4R21vPFsq6)
 - [Cerro del Fortín mountain peak](https://maps.app.goo.gl/LJN8xGs1BshFb7zS7)
   - [Mountain View](https://maps.app.goo.gl/CBG9yxgKLYvd9tyJ9) - take a taxi up here as walking there is isolated and
