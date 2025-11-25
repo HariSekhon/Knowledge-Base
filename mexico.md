@@ -105,7 +105,11 @@ From there it's difficult to get to Mexico City - the options seem to be:
    (oh yeah, hardly anybody speaks English of course)
 
 After trying several of the bus vendor kiosks, I managed to finally get a coach for 90 pesos to Mexico Norte but I had
-to wait nearly 2 hours for it because the next one was already booked up.
+to wait nearly 2 hours until 9:15pm for it because the next one at 8:30pm was already fully booked up.
+
+To make matters worse,
+the coach was delayed due to some confusion on the part of the vendor
+about which coach was actually taking people to Mexico Norte.
 
 Thankfully the bus station has good free open wifi 138/144 Mbit/s
 and I had a good Chilaquiles with chicken while I was waiting!
