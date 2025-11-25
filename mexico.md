@@ -114,6 +114,13 @@ The taxi apps also don't work, they don't find drivers.
 
 Overall I don't want to spend too much time in Oaxaca.
 
+### Safety in Oaxaca
+
+The reception had a sign to take taxis back if coming home late at night.
+
+I asked the reception guy why - he said for safety.
+A couple years prior in 2023 he said there were muggings every night on the adjacent road.
+
 ### Oaxaca Airport
 
 Airport wifi requires a capture portal in Spanish.
