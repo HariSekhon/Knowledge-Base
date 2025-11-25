@@ -178,6 +178,7 @@ This one is used widely throughout these pages:
   - [Homebrew](brew.md)
 - [Shell](shell.md)
   - [Bash](bash.md)
+  - [Sudo](sudo.md)
   - [direnv / `.envrc`](direnv.md)
   - [Shell One Liners](shell-one-liners.md)
   - [Advanced & Third Party Commands](commands.md)
