@@ -244,6 +244,7 @@ If I wanted to spend $25 on a meal (without alcohol) I could do that back in the
   The beef stew was too sweet for my liking, I would try something else next time.
   The passion fruit water was good.
   Wifi 98/104 Mbit/s
+- [Piticó García Vigil](https://maps.app.goo.gl/XGhLDVmgqBhzqDaWA) - central grocery store
 
 TODO:
 
