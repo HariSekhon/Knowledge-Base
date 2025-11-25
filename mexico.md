@@ -99,7 +99,7 @@ Thankfully the bus station has good free open wifi 138/144 Mbit/s!
 
 ## Oaxaca City
 
-Oaxaca de Juárez is the capital of the Oaxaca (pronounced Wahaca) region.
+Oaxaca de Juárez is the capital city of the Oaxaca (pronounced Wahaca) region.
 
 It has lots of restaurants and quite a few churches with nice architectural facades.
 
