@@ -258,6 +258,7 @@ TODO:
 - [Agavero - Cocina, Bar](https://maps.app.goo.gl/HW77wm5Dvj14e7ha9) - 4.6
 - [Coquina Hua Xha](https://maps.app.goo.gl/uoex53fpjiFEsDCt8) - 4.6
 - [Brío Cocina Local](https://maps.app.goo.gl/ECoG27JNuKi7jGhA7) - 4.6
+- [Casa Taviche](https://maps.app.goo.gl/e5ExXJu8Bo7R3kQH9) - 4.6
 - [Asador Bacanora Oaxaca](https://maps.app.goo.gl/8JhKURPnBML9pQCg7) - 4.5
 - [Las Quince Letras](https://maps.app.goo.gl/LPvGBDomUwfep33k6) - 4.5
 - [El Olivo Gastrobar](https://maps.app.goo.gl/yxAf95NViaQnUS6f6) - 4.5
