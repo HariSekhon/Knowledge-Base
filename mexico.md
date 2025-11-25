@@ -171,13 +171,16 @@ The taxi did not have a meter, so make sure to negotiate to fix the price first.
 
 #### Attractions in Oaxaca
 
-There are many churches, as well as a couple hiking trails and historic archaelogical sites.
+There are many churches, as well as a couple hiking trails and historic archaeological sites.
 
+- [Santo Domingo Square](https://maps.app.goo.gl/MCaT24Ly9odPMXsD8)
+- [Templo de Santo Domingo de Guzmán](https://maps.app.goo.gl/8gWXU193UXdcAK3e9)
 - [Cerro del Fortin](https://maps.app.goo.gl/26f1QzPDjX89dpzB6) - viewpoint over the city
 - [Escalera del fortin](https://maps.app.goo.gl/i8E5BYmyKvyYk9yNA) - landmark steps up to Cerro del Fortin
 
 TODO:
 
+- [Museum of Cultures of Oaxaca, Santo Domingo](https://maps.app.goo.gl/FpziiXb4R21vPFsq6)
 - [Cerro del Fortín mountain peak](https://maps.app.goo.gl/LJN8xGs1BshFb7zS7)
   - [Mountain View](https://maps.app.goo.gl/CBG9yxgKLYvd9tyJ9) - take a taxi up here as walking there is isolated and
     risky given Mexico's high crime rate
