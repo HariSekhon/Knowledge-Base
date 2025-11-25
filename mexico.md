@@ -203,6 +203,7 @@ TODO:
     - [Monumento Histórico Monte Albán](https://maps.app.goo.gl/g4FGDC5ru4BGGoWW9)
   - [Zona Arqueológica de Atzompa](https://maps.app.goo.gl/T2MVK5R4d2HPrZn46) - 4.7
   - [Plaza Central](https://maps.app.goo.gl/HVPh65b9Y2hRcoKLA)
+    - [Astronomical Observatories](https://maps.app.goo.gl/t5vyvEikHiysC2be9)
   - [Mesoamerican Ball Court](https://maps.app.goo.gl/2RVc6gb7pSGfLA2F6)
   - [Museo de Sitio de Monte Albán](https://maps.app.goo.gl/pAyrAD1bvgV7KRwr7)
   - [Sistema IV](https://maps.app.goo.gl/tbonqJ92jv7SQkwi7)
