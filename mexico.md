@@ -149,7 +149,7 @@ I took a punt on the latter just to see what it's like. When arriving if not in 
 and learn.
 
 I wouldn't risk a colectivo or Tucdosa on the way to the airport as you might miss your flight so I took a taxi ordered
-by my accommodation to the airport.
+by my accommodation to the airport. It should cost 200-300 pesos.
 
 #### Taxis in Oaxaca
 
@@ -163,6 +163,11 @@ leaving you to try to get a taxi off the street or ordered by your hotel.
 
 - [Uber](https://www.uber.com/mx/en/)
 - [InDrive](https://indrive.com/en-mx)
+
+You will need to grab a yellow taxi off the street or otherwise have your accommodation call one for you
+(such as when travelling back to the airport).
+
+The taxi did not have a meter, so make sure to negotiate to fix the price first.
 
 #### Attractions in Oaxaca
 
