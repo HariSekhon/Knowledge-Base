@@ -185,6 +185,7 @@ There are many churches, as well as a couple hiking trails and historic archaeol
   - [Templo de la Compañía de Jesus Oaxaca](https://maps.app.goo.gl/NbrUZs5kxX4HXVy67)
 - [Santo Domingo Square](https://maps.app.goo.gl/MCaT24Ly9odPMXsD8)
   - [Templo de Santo Domingo de Guzmán](https://maps.app.goo.gl/8gWXU193UXdcAK3e9)
+- [Mercado Benito Juárez](https://maps.app.goo.gl/NH9unmZ9hSvrZz7e6) - market with fresh produce and souvenirs
 - [Cerro del Fortin](https://maps.app.goo.gl/26f1QzPDjX89dpzB6) - viewpoint over the city
 - [Escalera del fortin](https://maps.app.goo.gl/i8E5BYmyKvyYk9yNA) - landmark steps up to Cerro del Fortin
 
