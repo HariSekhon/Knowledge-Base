@@ -96,11 +96,17 @@ metro or shorter taxi ride.
 I accidentally booked my flight into Felipe Ángeles International Airport
 not realizing there was more than one airport like London - this airport is 40km outside Mexico City!
 
-From there it's difficult to get to Mexico City - you either have to try to get a taxi which could be very expensive
-(of course neither Uber not InDrive managed to find me a driver), and the metro was under construction/renovation,
-leaving me trying to find a bus / coach.
-I managed to get coach for 90 pesos to Mexico Norte but I had to wait nearly 2 hours for it because the next one was
-already booked up.
+From there it's difficult to get to Mexico City - the options seem to be:
+
+1. Taxi - could be very expensive (of course neither Uber not InDrive managed to find me a driver)
+2. Metro - was under construction/renovation,
+3. Bus - I was left with this as the only option, and even the ADO I've taken previously in Cancun refused to take my
+   suitcase for some weird reason, they said they took luggage only from the second stop which made no sense to be
+   (oh yeah, hardly anybody speaks English of course)
+
+After trying several of the bus vendor kiosks, I managed to finally get a coach for 90 pesos to Mexico Norte but I had
+to wait nearly 2 hours for it because the next one was already booked up.
+
 Thankfully the bus station has good free open wifi 138/144 Mbit/s
 and I had a good Chilaquiles with chicken while I was waiting!
 
