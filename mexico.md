@@ -199,8 +199,12 @@ TODO:
   I also tried the [Lescas Tours Oaxaca](https://maps.app.goo.gl/Rs42nTGuXQFdrYyY8) bus from the centre Alameda de León
   but it had sold out for the day by the mid afternoon.
   In hindsight I should have grabbed a yellow taxi off the street and haggled a price to get up there in time
+  - [Plaza Central](Plaza Central)
+  - [Mesoamerican Ball Court](https://maps.app.goo.gl/2RVc6gb7pSGfLA2F6)
   - [Zona Arqueológica de Monte Albán](https://maps.app.goo.gl/y4E9kV3vSk1GsbZy8)
+  - [Museo de Sitio de Monte Albán](https://maps.app.goo.gl/pAyrAD1bvgV7KRwr7)
   - [Plataforma Norte](https://maps.app.goo.gl/bV8nCzZ57vVuWWL18)
+  - [El Palacio](https://maps.app.goo.gl/VkWW7HJ2zBeodPD69)
 - [Zona Arqueológica de Atzompa](https://maps.app.goo.gl/T2MVK5R4d2HPrZn46) - 4.7
 - [Museum of Cultures of Oaxaca, Santo Domingo](https://maps.app.goo.gl/FpziiXb4R21vPFsq6)
 - [Cerro del Fortín mountain peak](https://maps.app.goo.gl/LJN8xGs1BshFb7zS7)
