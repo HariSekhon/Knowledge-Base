@@ -249,8 +249,9 @@ If I wanted to spend $25 on a meal (without alcohol) I could do that back in the
 TODO:
 
 - [Panna Gelateria Centro](https://maps.app.goo.gl/c7Lfzoh1kfm8SvBv7) - 4.7 ice cream
-- [Agavero - Cocina, Bar](https://maps.app.goo.gl/HW77wm5Dvj14e7ha9) - 4.6
 - [Comedor Istmeño Casa Juchitán](https://maps.app.goo.gl/wRk19s9gPnDYgkCw7) - 4.7
+- [Restaurante Taniperla Oaxaca](https://maps.app.goo.gl/LAjZmZ8754CSeB4t6)
+- [Agavero - Cocina, Bar](https://maps.app.goo.gl/HW77wm5Dvj14e7ha9) - 4.6
 - [Coquina Hua Xha](https://maps.app.goo.gl/uoex53fpjiFEsDCt8) - 4.6
 - [El Olivo Gastrobar](https://maps.app.goo.gl/yxAf95NViaQnUS6f6) - 4.5
 - [La Popular](https://maps.app.goo.gl/jvRAweJ3jUSPUHKm7) - 4.4
