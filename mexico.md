@@ -177,8 +177,11 @@ There are many churches, as well as a couple hiking trails and historic archaeol
   - [Plaza de Las Nieves](https://maps.app.goo.gl/bFdMrEH7wZnC8rdv7) - this little strip outside the Basílica de Nuestra
     Señora has a few places to try
 - [Templo San Cosme y San Damian](https://maps.app.goo.gl/Ddef1NdwKFdZ7GZz8)
+- [Catedral Metropolitana de Oaxaca Nuestra Señora de la Asunción](https://maps.app.goo.gl/M9nEt4nMNgewMDaA9) -
+  central landmark cathedral, lovely architecture
+  - [Alameda De León](https://maps.app.goo.gl/PhpBp28ThY8YBhWAA) - park
 - [Santo Domingo Square](https://maps.app.goo.gl/MCaT24Ly9odPMXsD8)
-- [Templo de Santo Domingo de Guzmán](https://maps.app.goo.gl/8gWXU193UXdcAK3e9)
+  - [Templo de Santo Domingo de Guzmán](https://maps.app.goo.gl/8gWXU193UXdcAK3e9)
 - [Cerro del Fortin](https://maps.app.goo.gl/26f1QzPDjX89dpzB6) - viewpoint over the city
 - [Escalera del fortin](https://maps.app.goo.gl/i8E5BYmyKvyYk9yNA) - landmark steps up to Cerro del Fortin
 
