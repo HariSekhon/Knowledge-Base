@@ -157,6 +157,13 @@ leaving you to try to get a taxi off the street or ordered by your hotel.
 - [Uber](https://www.uber.com/mx/en/)
 - [InDrive](https://indrive.com/en-mx)
 
+#### Attractions in Oaxaca
+
+There are many churches, as well as a couple hiking trails and historic archaelogical sites.
+
+- [Cerro del Fortin](https://maps.app.goo.gl/26f1QzPDjX89dpzB6) - viewpoint over the city
+- [Escalera del fortin](https://maps.app.goo.gl/i8E5BYmyKvyYk9yNA) - landmark steps up to Cerro del Fortin
+
 #### Restaurants in Oaxaca
 
 There are lots of restaurants in Oaxaca but nearly all of them I've seen are tourist traps similar to Western prices.
