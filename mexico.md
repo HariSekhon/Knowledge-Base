@@ -251,6 +251,7 @@ TODO:
 - [Agavero - Cocina, Bar](https://maps.app.goo.gl/HW77wm5Dvj14e7ha9) - 4.6
 - [Comedor Istmeño Casa Juchitán](https://maps.app.goo.gl/wRk19s9gPnDYgkCw7) - 4.7
 - [Coquina Hua Xha](https://maps.app.goo.gl/uoex53fpjiFEsDCt8) - 4.6
+- [El Olivo Gastrobar](https://maps.app.goo.gl/yxAf95NViaQnUS6f6) - 4.5
 - [La Popular](https://maps.app.goo.gl/jvRAweJ3jUSPUHKm7) - 4.4
 - [El Escapulario](https://maps.app.goo.gl/eYDMqaUS3k2rW7sH8) - 4.4
 
