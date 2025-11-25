@@ -252,6 +252,7 @@ TODO:
 - [Comedor Istmeño Casa Juchitán](https://maps.app.goo.gl/wRk19s9gPnDYgkCw7) - 4.7
 - [Restaurante Taniperla Oaxaca](https://maps.app.goo.gl/LAjZmZ8754CSeB4t6) - 4.7
 - [Moogoñé - Cocina de época](https://maps.app.goo.gl/RDxHQ9ZVwjHAswPEA) - 4.7
+- [Chichilo](https://maps.app.goo.gl/WcUYYk12NZVexWAW8) - 4.7
 - [Agavero - Cocina, Bar](https://maps.app.goo.gl/HW77wm5Dvj14e7ha9) - 4.6
 - [Coquina Hua Xha](https://maps.app.goo.gl/uoex53fpjiFEsDCt8) - 4.6
 - [Asador Bacanora Oaxaca](https://maps.app.goo.gl/8JhKURPnBML9pQCg7) - 4.5
