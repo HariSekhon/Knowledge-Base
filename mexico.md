@@ -167,7 +167,8 @@ There are many churches, as well as a couple hiking trails and historic archaelo
 TODO:
 
 - [Cerro del Fortín mountain peak](https://maps.app.goo.gl/LJN8xGs1BshFb7zS7)
-  - [Mountain View](https://maps.app.goo.gl/CBG9yxgKLYvd9tyJ9)
+  - [Mountain View](https://maps.app.goo.gl/CBG9yxgKLYvd9tyJ9) - take a taxi up here as walking there is isolated and
+    risky given Mexico's high crime rate
 
 #### Restaurants in Oaxaca
 
