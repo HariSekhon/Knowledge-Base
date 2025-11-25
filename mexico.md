@@ -179,7 +179,8 @@ There are many churches, as well as a couple hiking trails and historic archaeol
 - [Templo San Cosme y San Damian](https://maps.app.goo.gl/Ddef1NdwKFdZ7GZz8)
 - [Catedral Metropolitana de Oaxaca Nuestra Señora de la Asunción](https://maps.app.goo.gl/M9nEt4nMNgewMDaA9) -
   central landmark cathedral, lovely architecture
-  - [Zócalo de la Ciudad de Oaxaca (Plaza de La Constitución)](https://maps.app.goo.gl/mBWb78FQAeYpVquy6)
+  - [Zócalo de la Ciudad de Oaxaca (Plaza de La Constitución)](https://maps.app.goo.gl/mBWb78FQAeYpVquy6) - main central
+    park
   - [Alameda De León](https://maps.app.goo.gl/PhpBp28ThY8YBhWAA) - smaller adjacent park
 - [Santo Domingo Square](https://maps.app.goo.gl/MCaT24Ly9odPMXsD8)
   - [Templo de Santo Domingo de Guzmán](https://maps.app.goo.gl/8gWXU193UXdcAK3e9)
