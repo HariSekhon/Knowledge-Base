@@ -84,6 +84,18 @@ It can be quite confusing with many similar names, so here is a few quick tips:
 
 The capital, reputation for being high crime.
 
+### Mexico City Airports
+
+Be careful which airport you are booking flying to.
+
+You want Mexico City International Airport Benito Juárez which is actually in Mexico City and from which you can take a
+metro or shorter taxi ride.
+
+I accidentally booked my flight into Felipe Ángeles International Airport which is 40km outside Mexico City.
+From there it's difficult to get to Mexico City - you either have to try to get a taxi which will be very expensive, or
+find a bus / coach for which you could wait 1-2 hours for an available one that isn't booked up.
+Thankfully the bus station has good free open wifi 138/144 Mbit/s!
+
 ## Oaxaca City
 
 Oaxaca (Wahaca) has has a lot of restaurants and quite a few churches with nice architectural facades.
