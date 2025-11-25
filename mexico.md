@@ -99,7 +99,9 @@ Thankfully the bus station has good free open wifi 138/144 Mbit/s!
 
 ## Oaxaca City
 
-Oaxaca (Wahaca) has has a lot of restaurants and quite a few churches with nice architectural facades.
+Oaxaca de Juárez is the capital of the Oaxaca (pronounced Wahaca) region.
+
+It has lots of restaurants and quite a few churches with nice architectural facades.
 
 You can walk around the centre in around 2 hours,
 so you'll need 2-3 days depending on whether you want to go hiking for a day or not.
