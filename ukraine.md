@@ -79,7 +79,11 @@ The small table is also usable for the lower bunks.
 
 Kyiv is the newer spelling derived from Ukrainian, instead of Kiev, the old spelling derived from Russian.
 
-My favourite areas are Zoloti Vorota and Podil as that's where the better restaurants are.
+Kyiv has never been and will never be a top tourist destination compared to the great capitals of Europe due to the way
+the city is structured.
+
+My favourite areas are Zoloti Vorota and Podil as that's where the better restaurants are,
+although they are Western tourist priced.
 
 <!--
 Dream Hostel Kyiv is cheap and in Podil, so a bit of a walk to the centre, but the communal toilets and showers
