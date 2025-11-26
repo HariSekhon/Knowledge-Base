@@ -114,6 +114,17 @@ about which coach was actually taking people to Mexico Norte.
 Thankfully the bus station has good free open wifi 138/144 Mbit/s
 and I had a good Chilaquiles with chicken while I was waiting!
 
+### Restaurants in Mexico City
+
+<!--
+
+Massiosare El Hostal - 4 flights of stairs with no lift, brace yourself!
+To check in after 10pm you need to let them know in advance and deal with the security guard downstairs.
+The biggest problem is that it is cold in November evenings and the building is far too air exposed due to the corridors
+being open to the roof and it has non-double glazed windows.
+
+-->
+
 ## Oaxaca City
 
 Oaxaca de Juárez is the capital city of the Oaxaca (pronounced Wahaca) region.
