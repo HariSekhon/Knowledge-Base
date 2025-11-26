@@ -86,6 +86,13 @@ It can be quite confusing with many similar names, so here is a few quick tips:
 
 The capital, reputation for being high crime.
 
+The police here are very well funded and present here though -
+there are a *lot* of police all over downtown and they have nice cars like Toyota Camry and big pickup trucks.
+
+The downtown area is pretty ghetto aside from the historic buildings, it's mostly locals.
+You probably only want to go there to see a few of the historic building or if you want to buy some cheap clothes from
+the street stalls.
+
 ### Mexico City Airports
 
 Be careful which airport you are booking flying to.
