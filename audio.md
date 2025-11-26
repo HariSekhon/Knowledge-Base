@@ -84,6 +84,11 @@ SwitchAudioSource -t input -s "BlackHole 2ch"
 open -a Shazam
 ```
 
+If you want to set the system sound effects, such as moving files,
+to go to the multi-output audio device into the headphones too
+(to not disturb somebody sleeping next to you) then you may want to go to `System Settings` ->
+`Sound` -> `Sound Effects` and set `Play sound effects through` near the top to the Multi-Output audio device.
+
 ### Automatically Switch to Using Multi-Output Device when Connecting Headphones
 
 When I connect my AirPods they become the sound input and output device,
