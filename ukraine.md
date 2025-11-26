@@ -197,7 +197,9 @@ TODO:
 ## Lviv
 
 A small city on the Western edge of Ukraine, far from the war.
-Much more peaceful than Kyiv's frequent air raids but you'll run out of things to do and eat after a few days.
+You can see it in a day, so you probably don't want to spend more than a handful of days here.
+
+While it's much more peaceful than Kyiv's frequent air raids, you'll run out of things to do and eat after a few days.
 
 <!--
 
