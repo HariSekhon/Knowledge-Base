@@ -125,6 +125,15 @@ being open to the roof and it has non-double glazed windows.
 
 -->
 
+- [El Rincón Tapatío Bar](https://maps.app.goo.gl/bEapbJyGwnR4tq2e9) - affordable food, good maracuya (passionfruit)
+  juice.
+  The arrachera (skirt steak) is served with cucumber and tacos as well as a selection of guacamole, limes and sauces.
+  Ok for its price point at 180 pesos.
+- [Tacos Domingo - Pacheco](https://maps.app.goo.gl/PRaTDctSWiWSoAk69) - 40 odd pesos for a taco and 50 pesos for a
+  volcane is more than my favourite places in Cancun, but still ok. They forgot to bring me the frijoles charros
+  (cowboy bean stew) unfortunately, but the aqua del dia (water of the day) was watermelon which was good.
+  Has wifi
+
 ## Oaxaca City
 
 Oaxaca de Juárez is the capital city of the Oaxaca (pronounced Wahaca) region.
