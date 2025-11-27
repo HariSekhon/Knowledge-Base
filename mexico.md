@@ -144,6 +144,18 @@ being open to the roof and it has non-double glazed windows.
   volcane is more than my favourite places in Cancun, but still ok. They forgot to bring me the frijoles charros
   (cowboy bean stew) unfortunately, but the aqua del dia (water of the day) was watermelon which was good.
   Has wifi
+- [Parque Delta](https://maps.app.goo.gl/5Xg5A2x1yMLQiRR69) - good sized mall, includes a food court and a
+  [Nutrisa](https://maps.app.goo.gl/B93nRvZhLdrsyigP8)
+- [Pabellón Cuauhtémoc](https://maps.app.goo.gl/GYHoPwhsAWHBRF8t6) - small mall, but has a
+  [Nutrisa](https://maps.app.goo.gl/hbxj4z9ZKtJtsMPC8) health food shop and useful if you need a free toilet stop
+- [Tita's Restaurant](https://maps.app.goo.gl/P7DT8JQJGDdtVvdJ8) -  the _"mole de olla"_ was a chicken thigh soup with
+  potato and carrots.
+  Decent quality but I was still hungry after this bowl for 100 pesos.
+  The chilaquiles verde with bistec (beef) for 105 pesos was ok too, quite a lot of cheese on it.
+  The "sweet bread" was slightly too sweet as instead of a wholesome baked in sweetness it had icing.
+  This is very much a small local place and had a TV on the wall with a mexican soap opera on it
+  (where the actors and actresses looked european).
+  This is not a great neighbourhood but if you happen to find yourself in this part of town then it's not a bad stop
 
 ## Oaxaca City
 
