@@ -1288,7 +1288,7 @@ open /System/Applications/Utilities/Disk\ Utility.app
 
 #### CLI Disk Management
 
-#### Check USB Bus speed
+#### Check USB Bus Speed
 
 USB bus makes a huge difference between USB 2 and USB 3.
 
@@ -1297,6 +1297,18 @@ this was the difference between 80-90 hour s and 2-3 hours projected completion 
 
 ```shell
 system_profiler SPUSBDataType
+```
+
+Particular output lines to pay attention to will include the USB version number:
+
+```text
+USB 3.1 Bus
+```
+
+which determines the maximum bus transfer speed, which you can verify on another output line such as:
+
+```text
+Speed: Up to 5 Gb/s
 ```
 
 #### Disk Management Tutorials
