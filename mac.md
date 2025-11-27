@@ -80,7 +80,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Start At Login](#start-at-login)
   - [Disk Management](#disk-management)
     - [CLI Disk Management](#cli-disk-management)
-    - [Check USB Bus speed](#check-usb-bus-speed)
+    - [Check USB Bus Speed](#check-usb-bus-speed)
     - [Disk Management Tutorials](#disk-management-tutorials)
     - [List disks](#list-disks)
     - [Mount a partition](#mount-a-partition)
