@@ -80,6 +80,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Start At Login](#start-at-login)
   - [Disk Management](#disk-management)
     - [CLI Disk Management](#cli-disk-management)
+    - [Check USB Bus speed](#check-usb-bus-speed)
+    - [Online Tutorial](#online-tutorial)
     - [List disks](#list-disks)
     - [Mount a partition](#mount-a-partition)
     - [Partition and Format a disk](#partition-and-format-a-disk)
@@ -103,6 +105,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Asahi Linux on Apple Silicon](#asahi-linux-on-apple-silicon)
 - [XCode Mobile App Builds](#xcode-mobile-app-builds)
 - [Time Machine](#time-machine)
+  - [WARNING: Vendor Encrypted Drives Cannot Be Used to Restore Data in the macOS Recovery Mode](#warning-vendor-encrypted-drives-cannot-be-used-to-restore-data-in-the-macos-recovery-mode)
   - [Exclude Paths from Backups](#exclude-paths-from-backups)
     - [Add Path to Backup Exclusions](#add-path-to-backup-exclusions)
     - [Remove Path from Backup Exclusions](#remove-path-from-backup-exclusions)
@@ -122,6 +125,11 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Spotlight Search failing to find App](#spotlight-search-failing-to-find-app)
   - [XCodeBuild error complaining XCode only has command line tools](#xcodebuild-error-complaining-xcode-only-has-command-line-tools)
   - [Various Applications Fail to Open](#various-applications-fail-to-open)
+  - [Cannot Delete - No Space Left on Device](#cannot-delete---no-space-left-on-device)
+  - [Emergency Backup](#emergency-backup)
+  - [Bootup Hangs on Black Screen after Full Data Disk](#bootup-hangs-on-black-screen-after-full-data-disk)
+  - [Emergency File Backup from Recovery Mode](#emergency-file-backup-from-recovery-mode)
+  - [Reinstall macOS & Restore Data](#reinstall-macos--restore-data)
 - [Relevant GitHub Repos](#relevant-github-repos)
 - [Memes](#memes)
   - [Headquarters](#headquarters)
@@ -1279,7 +1287,18 @@ open /System/Applications/Utilities/Disk\ Utility.app
 
 #### CLI Disk Management
 
-Great tutorial:
+#### Check USB Bus speed
+
+USB bus makes a huge difference between USB 2 and USB 3.
+
+On a Time Machine restore of my hosed mac,
+this was the difference between 80-90 hour s and 2-3 hours projected completion time.
+
+```shell
+system_profiler SPUSBDataType
+```
+
+#### Online Tutorial
 
 [Part 1](http://www.theinstructional.com/guides/disk-management-from-the-command-line-part-1) -
 List, Verify, Repair, Rename, Erase volumes
@@ -1777,6 +1796,15 @@ See [Mobile Builds](mobile-builds.md) doc.
 
 ## Time Machine
 
+### WARNING: Vendor Encrypted Drives Cannot Be Used to Restore Data in the macOS Recovery Mode
+
+If you choose to use a vendor encryption on your external drive,
+then you will be able to back up and restore from a full macOS installation but you will be unable to restore in
+macOS recovery mode which is a very cut down version.
+
+In that case, see the [Emergency File Level Backup from Recovery Mode](#emergency-file-backup-from-recovery-mode)
+and [Reinstall macOS & Restore Data](#reinstall-macos--restore-data) sections under Troubleshooting further down.
+
 ### Exclude Paths from Backups
 
 #### Add Path to Backup Exclusions
@@ -2163,6 +2191,112 @@ open -a "Finder"
 **Fix**: Reboot the Mac... tried a few other things like killing all the stale processes but none of them worked
 and when your Terminal window gets closed and you get the same error trying to re-open another one, it's game over.
 Reboot.
+
+### Cannot Delete - No Space Left on Device
+
+APFS requires a small amount of space to even be able to delete files.
+
+Workarounds:
+
+- Empty Trash
+- try `echo > "$filename"` or `truncate -s 0 "$filename"` instead of `rm`
+- delete the `VM` apfs volume containing the sleep image and give enough space for APFS to maneuvre again
+
+If even after freeing a bit of space from an adjacent volume like `VM` you still get the `no space left on device` error
+from `rm` then it's possible you have catastrophic APFS corruption of the metadata.
+
+This has happened to me under heavy writes and deletes at the same time, and in that case the only way to recover is to
+reinstall macOS to recreate the special Data linked partition and then restore from Time Machine Backup.
+
+### Emergency Backup
+
+If you hit the above APFS catastrophic metadata corruption and are unable to delete anything from a drive to recover and
+start using it again, then your only choice is to reinstall macOS and then restore your data from your latest time
+machine backup.
+
+If you are able to plug your Time Machine backup disk in, take a full backup.
+
+If you cannot take a time machine backup or your machine no longer boots then follow the next section.
+
+### Bootup Hangs on Black Screen after Full Data Disk
+
+If your macOS fails to boot due to the full Data disk then you will need to enter Recovery Mode and do your
+emergency backup and recovery from there.
+
+On newer Apple Silicon Macs hold the power button for 5-10 seconds to start up to the Options menu.
+
+In the menu, click `Options` to the right, and then Recovery Mode.
+
+Once you've taken a backup in recovery mode you'll then need to reinstall macOS and restore your data using the
+latest Time Machine backup.
+
+If your existing backups are not completely up to date (as is often the case if you're on a laptop and therefore not
+leaving your backup disk plugged in to for hourly backups due to moving moving around), then you will need to do an
+emergency time machine backup from recovery mode and then restore that.
+
+To do an emergency file backup, if you are able to boot macOS normally then run rsync to copy your files off to the
+backup disk.
+
+If you're not able to boot macOS though, you'll need to do an emergency file backup as per the next section.
+
+If you have made
+[the mistake of using vendor encryption](#warning-vendor-encrypted-drives-cannot-be-used-to-restore-data-in-the-macos-recovery-mode)
+on your external disk then you will not be able to unlock it in macOS recovery mode to take a time machine backup and
+must use another disk to do either a time machine backup or a file level backup.
+
+### Emergency File Backup from Recovery Mode
+
+Recovery Mode is extremely limited, it doesn't even have rsync,
+so you'll need to download the right rsync binary using your phone or another computer from here:
+
+<https://download.samba.org/pub/rsync/binaries/>
+
+For macOS specifically:
+
+<https://download.samba.org/pub/rsync/binaries/macos-12.6-arm64/latest.tar.gz>
+
+and then transfer it to the portable disk to use it in recovery mode.
+
+```shell
+tar zxvf latest.tar.gz
+```
+
+```shell
+rsync -av ...
+```
+
+### Reinstall macOS & Restore Data
+
+You cannot just delete and recreate the internal home Data APFS volume because it is a special volume.
+
+It must be paired with the installation at install time.
+
+This means that under catastrophic APFS corruption failure scenario you need to reinstall macOS
+and then restore your Time Machine backup.
+
+On newer Apple Silicon Macs hold the power button for 5-10 seconds to start up to the options menu.
+
+Under `Options` there is a hidden partition that allows you to reinstall macOS and recreate the Data partition.
+
+First, however, you need to erase the entire `Macintosh HD` container, not the volume, but the container itself.
+
+Using `Disk Utility` in Recovery Mode, `Erase` the Container holding `Macintosh HD` with the following options:
+
+| Field  | Value                                        |
+|--------|----------------------------------------------|
+| Name   | Macintosh HD                                 |
+| Format | APFS                                         |
+| Scheme | GUID Partition Map (if it shows this option) |
+
+Then exit Disk Utility and from the Options menu click the option to Reinstall macOS.
+
+The reinstall will probably take 1-2 hours.
+
+After that, restore your latest Time Machine backup,
+which if you've got a good fast SSD and USB 3 cable took me 2-3 hours for 4TB.
+
+If you've had to do an [Emergency File Backup from Recovery Mode](#emergency-file-backup-from-recovery-mode),
+then rsync the newer files that changed since your last Time Machine backup.
 
 ## Relevant GitHub Repos
 
