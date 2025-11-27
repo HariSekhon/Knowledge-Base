@@ -1798,10 +1798,11 @@ See [Mobile Builds](mobile-builds.md) doc.
 
 ### WARNING: Vendor Encrypted Drives Cannot Be Used to Restore Data in the macOS Recovery Mode
 
-If you choose to use a vendor encryption on your external drive,
-then you will be able to back up and restore in normal full macOS installation but if you've hit a bootup problem and
-need to work in recovery mode, then you will be unable to unlock and access the vendor encrypted disk as the vendor
-software will not work in macOS recovery mode which is a very cut down version.
+If you choose to use the device vendor's encryption on your external drive, this usually requires an app provided by
+the vendor, it may seem fine at first as you'll be unable to back up and restore in normal full macOS installation but
+if you've hit a [bootup problem](#bootup-hangs-on-black-screen-after-full-data-disk) and need to work in recovery mode,
+then you'll be unable to unlock and access the vendor encrypted disk as the vendor software will not work in macOS
+recovery mode which is a very cut down version.
 
 In that case, your options will be to use another disk or do an emergency file recovery.
 
