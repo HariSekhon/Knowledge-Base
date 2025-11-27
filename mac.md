@@ -1806,7 +1806,7 @@ recovery mode which is a very cut down version.
 
 In that case, your options will be to use another disk or do an emergency file backup & recovery.
 
-See the [Emergency File Level Backup from Recovery Mode](#emergency-file-backup-from-recovery-mode)
+See the [Emergency File Backup from Recovery Mode](#emergency-file-backup-from-recovery-mode)
 and [Reinstall macOS & Restore Data](#reinstall-macos--restore-data) sections under Troubleshooting further down.
 
 ### Exclude Paths from Backups
