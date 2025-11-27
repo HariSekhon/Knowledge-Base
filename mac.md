@@ -1979,10 +1979,13 @@ mac_restore_file.sh "$filename"
 
 ### Sharing a Time Machine disk with Data
 
-Do not copy data to your Time Machine disk, disk snapshots may prevent space reclamation.
+Time Machine requires formatting a complete disk to structure it correctly.
 
-Instead,
-create an additional volume using Disk Utility or the command line and store your files on the second Data volume.
+Do not copy data to your Time Machine volume,
+disk snapshots may prevent space reclamation when you try to delete your files.
+
+Instead, create an additional volume using Disk Utility or the command line and store your files on the second Data
+volume.
 
 Both the Time Machine volume and the Data volume on the disk will share the overall disk space dynamically
 as they fill up, but this way, removing files from the Data volume will actually reclaim the space from the overall disk
