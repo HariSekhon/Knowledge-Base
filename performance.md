@@ -178,6 +178,12 @@ or prevent it from hanging temporarily trying to reverse resolve IP addresses to
 iostat -c 5
 ```
 
+Write test using `dd`:
+
+```shell
+dd if=/dev/zero of="/path/to/dir/file" bs=64m count=64 oflag=direct
+```
+
 ## Network
 
 See [Networking](networking.md) page for tools.
