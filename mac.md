@@ -2249,8 +2249,15 @@ must use another disk to do either a time machine backup or a file level backup.
 
 ### Emergency File Backup from Recovery Mode
 
-Recovery Mode is extremely limited, it doesn't even have rsync,
-so you'll need to download the right rsync binary using your phone or another computer from here:
+If you can't access your time machine backup disk from recovery mode due to it being vendor encrypted,
+then you'll have to get another disk and either do a time machine backup to that or do a file level backup.
+
+The file level backup has the benefit of giving you the option of only backing up a few key paths such as your latest
+work directories (be careful you don't miss anything important though).
+For this, the trusty old `rsync` command is recommended.
+
+Recovery Mode is extremely limited though, it doesn't even have `rsync`,
+so you'll need to download the right `rsync` binary using your phone or another computer from here:
 
 <https://download.samba.org/pub/rsync/binaries/>
 
