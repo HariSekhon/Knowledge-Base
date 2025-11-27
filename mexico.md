@@ -140,6 +140,7 @@ being open to the roof and it has non-double glazed windows.
   can’t be beat for 30 pesos.
   All 3 chili salsas were awesome when combined with lime, but one of the two red ones burnt my mouth so bad I went
   straight to Oxxo to buy a yoplait drinking yoghurt!!
+  It's only 2 blocks along from the big Parque Delta shopping centre listed further down
 - [El Rincón Tapatío Bar](https://maps.app.goo.gl/bEapbJyGwnR4tq2e9) - affordable food, good maracuya (passionfruit)
   juice.
   The arrachera (skirt steak) is served with cucumber and tacos as well as a selection of guacamole, limes and sauces.
