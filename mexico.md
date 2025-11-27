@@ -87,10 +87,11 @@ It can be quite confusing with many similar names, so here is a few quick tips:
 
 ## Mexico City
 
-The capital, reputation for being high crime.
+The capital of Mexico is also the largest city in the Western hemisphere and largest spanish speaking city in the world.
 
-The police here are very well funded and present here though -
-there are a *lot* of police all over downtown and they have nice cars like Toyota Camry and big pickup trucks.
+While it has a reputation for being high crime, the police here are very well funded and visibly present -
+there are a *lot* of police all over downtown and other areas - they have nice cars like Toyota Camry and big pickup
+trucks.
 
 The downtown area is pretty ghetto aside from the historic buildings, it's mostly locals.
 You probably only want to go there to see a few of the historic building or if you want to buy some cheap clothes from
