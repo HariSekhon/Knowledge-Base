@@ -2242,8 +2242,8 @@ backup disk.
 
 If you're not able to boot macOS though, you'll need to do an emergency file backup as per the next section.
 
-If you have made
-[the mistake of using vendor encryption](#warning-vendor-encrypted-drives-cannot-be-used-to-restore-data-in-the-macos-recovery-mode)
+If you have made the
+[mistake of using vendor encryption](#warning-vendor-encrypted-drives-cannot-be-used-to-restore-data-in-the-macos-recovery-mode)
 on your external disk then you will not be able to unlock it in macOS recovery mode to take a time machine backup and
 must use another disk to do either a time machine backup or a file level backup.
 
