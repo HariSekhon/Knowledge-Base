@@ -81,7 +81,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Disk Management](#disk-management)
     - [CLI Disk Management](#cli-disk-management)
     - [Check USB Bus speed](#check-usb-bus-speed)
-    - [Online Tutorial](#online-tutorial)
+    - [Disk Management Tutorials](#disk-management-tutorials)
     - [List disks](#list-disks)
     - [Mount a partition](#mount-a-partition)
     - [Partition and Format a disk](#partition-and-format-a-disk)
@@ -1298,7 +1298,7 @@ this was the difference between 80-90 hour s and 2-3 hours projected completion 
 system_profiler SPUSBDataType
 ```
 
-#### Online Tutorial
+#### Disk Management Tutorials
 
 [Part 1](http://www.theinstructional.com/guides/disk-management-from-the-command-line-part-1) -
 List, Verify, Repair, Rename, Erase volumes
