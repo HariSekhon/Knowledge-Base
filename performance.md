@@ -174,11 +174,13 @@ or prevent it from hanging temporarily trying to reverse resolve IP addresses to
 
 ### I/O
 
+Monitoring ongoing disk I/O stats in real-time:
+
 ```shell
 iostat -c 5
 ```
 
-Write test using `dd`:
+Write I/O test using `dd`:
 
 ```shell
 dd if=/dev/zero of="/path/to/dir/file" bs=64m count=64 oflag=direct
