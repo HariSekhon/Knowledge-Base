@@ -112,6 +112,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Trigger Backup](#trigger-backup)
   - [List Backups](#list-backups)
   - [Restore a file from latest backup](#restore-a-file-from-latest-backup)
+  - [Sharing a Time Machine disk with Data](#sharing-a-time-machine-disk-with-data)
 - [External Disk Management](#external-disk-management)
   - [Delete Large Directories](#delete-large-directories)
   - [Disable Indexing on the Disk](#disable-indexing-on-the-disk)
@@ -1975,6 +1976,17 @@ from [DevOps-Bash-tools](devops-bash-tools.md):
 ```text
 mac_restore_file.sh "$filename"
 ```
+
+### Sharing a Time Machine disk with Data
+
+Do not copy data to your Time Machine disk, disk snapshots may prevent space reclamation.
+
+Instead,
+create an additional volume using Disk Utility or the command line and store your files on the second Data volume.
+
+Both the Time Machine volume and the Data volume on the disk will share the overall disk space dynamically
+as they fill up, but this way, removing files from the Data volume will actually reclaim the space from the overall disk
+as it it will not be affected by time machine snapshots.
 
 ## External Disk Management
 
