@@ -1804,7 +1804,7 @@ if you've hit a [bootup problem](#bootup-hangs-on-black-screen-after-full-data-d
 then you'll be unable to unlock and access the vendor encrypted disk as the vendor software will not work in macOS
 recovery mode which is a very cut down version.
 
-In that case, your options will be to use another disk or do an emergency file recovery.
+In that case, your options will be to use another disk or do an emergency file backup & recovery.
 
 See the [Emergency File Level Backup from Recovery Mode](#emergency-file-backup-from-recovery-mode)
 and [Reinstall macOS & Restore Data](#reinstall-macos--restore-data) sections under Troubleshooting further down.
