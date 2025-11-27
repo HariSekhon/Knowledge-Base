@@ -2212,6 +2212,8 @@ from `rm` then it's possible you have catastrophic APFS corruption of the metada
 This has happened to me under heavy writes and deletes at the same time, and in that case the only way to recover is to
 reinstall macOS to recreate the special Data linked partition and then restore from Time Machine Backup.
 
+See the [Reinstall macOS & Restore Data](#reinstall-macos--restore-data) section below, but first, do your backups!
+
 ### Emergency Backup
 
 If you hit the above APFS catastrophic metadata corruption and are unable to delete anything from a drive to recover and
@@ -2231,15 +2233,15 @@ On newer Apple Silicon Macs hold the power button for 5-10 seconds to start up t
 
 In the menu, click `Options` to the right, and then Recovery Mode.
 
-Once you've taken a backup in recovery mode you'll then need to reinstall macOS and restore your data using the
-latest Time Machine backup.
-
 If your existing backups are not completely up to date (as is often the case if you're on a laptop and therefore not
 leaving your backup disk plugged in to for hourly backups due to moving moving around), then you will need to do an
 emergency time machine backup from recovery mode and then restore that.
 
-To do an emergency file backup, if you are able to boot macOS normally then run rsync to copy your files off to the
-backup disk.
+Once you've taken a backup in recovery mode you'll then need to reinstall macOS and restore your data using the
+latest Time Machine backup as per the section below.
+
+If instead you want to a potentially more selective emergency file level backup, if you are able to boot macOS normally
+then run rsync to copy your files off to the backup disk.
 
 If you're not able to boot macOS though, you'll need to do an emergency file backup as per the next section.
 
