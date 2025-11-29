@@ -269,6 +269,7 @@ being open to the roof and it has non-double glazed windows.
   This is very much a small local place and had a TV on the wall with a mexican soap opera on it
   (where the actors and actresses looked european).
   This is not a great neighbourhood but if you happen to find yourself in this part of town then it's not a bad stop
+- [Colima street in Roma North](https://maps.app.goo.gl/RBAtz28x3nsBgexG7) - several well rated restaurants on this road
 
 Not Recommended:
 
