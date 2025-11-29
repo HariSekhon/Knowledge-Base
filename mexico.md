@@ -125,6 +125,26 @@ about which coach was actually taking people to Mexico Norte.
 Thankfully the bus station has good free open wifi 138/144 Mbit/s
 and I had a good Chilaquiles with chicken while I was waiting!
 
+### Areas in Mexico City
+
+These are the 3 gentrified areas in Mexico City:
+
+- [Roma](https://maps.app.goo.gl/HxxsWXZNeMiebxid8)
+- [La Condesa](https://maps.app.goo.gl/AYzRXpYyRbBsqhxJ8)
+- [Polanco](https://maps.app.goo.gl/f9tLUFhEHhBK4qmv7)
+
+Stay in one of them, or at least spend your time exploring them as first priority even if you stay somewhere cheaper
+(many hostels are nearer the [Historic center of Mexico City](https://maps.app.goo.gl/w6mF88oNAfujkB378)).
+
+Areas NOT recommended:
+
+- [Historic center of Mexico City](https://maps.app.goo.gl/w6mF88oNAfujkB378) - it's a ghetto, just go for 2 hours to
+  see a few historic buildings, then leave, don't stay there
+- [Doctores](https://maps.app.goo.gl/JFTFACHo4TyLTwjy9) - it's a ghetto, hardly anything to see, or good places to eat,
+  and you'll probably get mugged as it doesn't have the high footfall of the historic center area
+- probably any other area of Mexico City
+  ([Colonia Buenos Aires](https://maps.app.goo.gl/kX8VDEEU1ff7NK317) is ok because that's where Parque Delta mall is)
+
 ### Restaurants in Mexico City
 
 <!--
