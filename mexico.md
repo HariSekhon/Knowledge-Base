@@ -159,7 +159,12 @@ The metro cost 5 pesos per zone travelled, which is extremely affordab.e
 
 #### Buses in Mexico City
 
-Buses typically cost 4-8 pesos, depending on if it's one of the major bus lines.
+Buses typically cost 4-8 pesos, depending on whether it's a smaller bus or one of those big bendy buses
+that look like trams that stop at fixed permanent terminals ports.
+
+I found that the 9A bus did not come and Google Maps directions and schedule for this didn't materialize.
+
+The major bus terminals do seem very good though with frequent buses and display of schedule.
 
 ### Areas in Mexico City
 
