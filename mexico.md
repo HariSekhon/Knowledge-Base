@@ -198,7 +198,8 @@ Not Recommended:
   going to rent and not food quality or portion size.
   It's also poor nutrition,
   being mostly cheap ramen noodles worth nothing, a few small pieces of chicken, and the highlight is a boiled egg,
-  which is the best part, but which you could buy 100 of for this price.
+  which is the best part,
+  but which you could buy 100 of and boiled yourself for this price (and probably better quality eggs).
   I should have stuck to my guns and continued on to my second visit to Sushi Kona instead.
 
 TODO:
