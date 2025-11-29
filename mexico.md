@@ -145,8 +145,9 @@ being open to the roof and it has non-double glazed windows.
   but one of the two red ones burnt my mouth so bad the first time I went straight to Oxxo to buy a yoplait drinking
   yoghurt!! The second time even the green chili did this to me, stick to the milder red chili on the right.
   It's only 2 blocks along from the big Parque Delta shopping centre listed further down
-- [Sushi Kona](https://maps.app.goo.gl/4HLynKFQo2UaNNtC7) - very good dragon roll for 140 pesos ($7.65), and they take
-  card, but use Google Translate on the card machine to not accept their currency conversion as it'll cost you more
+- [Sushi Kona](https://maps.app.goo.gl/4HLynKFQo2UaNNtC7) - small but good food quality - very good dragon roll for
+  140 pesos ($7.65), and they take card, but use Google Translate on the card machine to not accept their currency
+  conversion as it'll cost you more
 - [El Rincón Tapatío Bar](https://maps.app.goo.gl/bEapbJyGwnR4tq2e9) - affordable food, good maracuya (passionfruit) juice.
   The arrachera (skirt steak) is served with cucumber and tacos as well as a selection of guacamole, limes and sauces.
   Ok for its price point at 180 pesos
