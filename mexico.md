@@ -10,6 +10,7 @@
   - [Public Transport in Mexico City](#public-transport-in-mexico-city)
     - [Metro in Mexico City](#metro-in-mexico-city)
     - [Buses in Mexico City](#buses-in-mexico-city)
+  - [Taxis in Mexico City](#taxis-in-mexico-city)
   - [Areas in Mexico City](#areas-in-mexico-city)
   - [Restaurants in Mexico City](#restaurants-in-mexico-city)
 - [Oaxaca City](#oaxaca-city)
@@ -25,8 +26,8 @@
       - [Cancun Airport Wifi](#cancun-airport-wifi)
       - [Travel from Cancun Airport](#travel-from-cancun-airport)
     - [Travel within Cancun](#travel-within-cancun)
-    - [Buses in Cancun](#buses-in-cancun)
-    - [Taxi Apps in Cancun](#taxi-apps-in-cancun)
+      - [Buses in Cancun](#buses-in-cancun)
+      - [Taxi Apps in Cancun](#taxi-apps-in-cancun)
     - [ATMs in Cancun](#atms-in-cancun)
     - [Attractions in Cancun](#attractions-in-cancun)
     - [Restaurants in Cancun](#restaurants-in-cancun)
@@ -526,7 +527,7 @@ everywhere as it'll destroy your knees trying.
 
 You will at some point need to either take taxis (see the section below) or learn to use the local buses.
 
-#### Buses in Cancun
+##### Buses in Cancun
 
 Buses are cheap (12 pesos) and there are lots of them as the locals use them extensively.
 
@@ -544,7 +545,7 @@ There are no timetables with bus numbers as you may be used to in 1st world coun
 Interestingly though, you can ask ChatGPT and it will tell you the bus numbers you need and roughly where to catch them
 down to the road (you need to figure out the direction you need to travel by looking at Google Maps).
 
-#### Taxi Apps in Cancun
+##### Taxi Apps in Cancun
 
 Sometimes the prices are comparable between Uber and InDrive but other times they are not, check both.
 
