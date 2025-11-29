@@ -229,9 +229,13 @@ being open to the roof and it has non-double glazed windows.
 - [Sushi Kona](https://maps.app.goo.gl/4HLynKFQo2UaNNtC7) - small but good food quality - very good dragon roll for
   140 pesos ($7.65), and they take card, but use Google Translate on the card machine to not accept their currency
   conversion as it'll cost you more
-- [Sede Café Río Lerma](https://maps.app.goo.gl/zRZXCF39EZRcSxDv5) - decent coffee chain. I can't decide if their chai
+- [Sede Café Río Lerma](https://maps.app.goo.gl/zRZXCF39EZRcSxDv5) /
+  [Sede Café Orizaba](https://maps.app.goo.gl/Pgicva2r4zNxteSU6) - decent coffee chain. I can't decide if their chai
   latte was perfectly sweet or 5% too sweet, it depends on how naughty I'm feeling.
-  The guy did overcharge me by 20 pesos (75 on card instead of 55 on board),
+  One downside is that many of them have no seating at all.
+  The one in Rome North (Orizaba) does have a small amount of seating.
+  No wifi unfortunately.
+  The guy in Lerma overcharged me by 20 pesos (75 on card instead of 55 on board),
   he said he thought I asked for oat milk which I clearly didn't, perhaps an honest mistake and language barrier, but
   something to watch out for though as many people in Mexico try to overcharge you if they can.
   He refunded this cash and the chai latte arrived made with normal milk at the same time anyway, hmmm...
