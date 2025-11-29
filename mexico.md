@@ -198,6 +198,10 @@ Not Recommended:
   going to rent and not food quality or portion size.
   I should have stuck to my guns and continued on to my second visit to Sushi Kona instead.
 
+TODO:
+
+- [La Carreta de Juana (Rio Lerma)](https://maps.app.goo.gl/TYr1Ko9DP2UwU26p7) - 4.9 seafood restaurant
+
 ## Oaxaca City
 
 Oaxaca de Juárez is the capital city of the Oaxaca (pronounced Wahaca) region.
