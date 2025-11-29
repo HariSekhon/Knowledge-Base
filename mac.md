@@ -240,6 +240,12 @@ Battery even tells you:
 - which apps which are consuming a lot of energy for you to kill them if you're not needing them, helping your battery
   life when on the move
 
+Start `Stats.app` at login - configure this in its settings or run this command to do it automatically:
+
+```shell
+osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Stats.app", hidden:false}'
+```
+
 ## Rearrange Status Bar Icons
 
 Now 14" Macbook Pros are powerful enough, but the screen space is very limited and you lose the top middle for the
