@@ -126,7 +126,31 @@ about which coach was actually taking people to Mexico Norte.
 Thankfully the bus station has good free open wifi 138/144 Mbit/s
 and I had a good Chilaquiles with chicken while I was waiting!
 
-### Areas in Mexico City
+### Public Transport in Mexico City
+
+Public transport is very cheap in Mexico City.
+
+Use it whenever you can as it's much cheaper than Taxis
+and you'll destroy your knees trying to walk everywhere as Mexico City,
+like the US, is too big to get around everywhere on foot.
+
+You'll need a public transport contactless card
+as their buses and trains do not accept cash or contactless credit card payments
+
+This is probably because the fares are so cheap that the big financial card providers charge more in payment fees,
+making it economically unviable to use card payments.
+
+### Metro
+
+The metro is similarly developed to most capital cities, but can be a bit more unintuitive to navigate interchanges.
+
+The metro cost 5 pesos per zone travelled, which is extremely affordab.e
+
+### Buses
+
+Buses typicall cost 4-8 pesos, depending on if it's one of the major bus lines.
+
+#### Areas in Mexico City
 
 These are the 3 gentrified areas in Mexico City:
 
