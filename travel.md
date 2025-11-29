@@ -31,7 +31,12 @@ Updated regularly as I travel the world 52 weeks a year.
 <!-- INDEX_START -->
 
 - [Countries](#countries)
+  - [Europe](#europe)
+  - [Asia](#asia)
+  - [Africa & Middle East](#africa--middle-east)
+  - [North America](#north-america)
 - [Booking Sites](#booking-sites)
+- [Travel Checklist](#travel-checklist)
 - [Flights](#flights)
   - [Flight Booking Sites](#flight-booking-sites)
   - [Flight Deals from the US](#flight-deals-from-the-us)
@@ -109,60 +114,67 @@ Cities: 164
 
 Country pages with specific tips for each country:
 
-- Europe:
-  - [Albania](albania.md) ⭐
-  - [Austria](austria.md)
-  - [Belgium](belgium.md)
-  - [Bosnia](bosnia.md)
-  - [Bulgaria](bulgaria.md)
-  - [Croatia](croatia.md)
-  - [Cyprus](cyprus.md)
-  - [Czechia](czechia.md) ⭐
-  - [Denmark](denmark.md)
-  - [Estonia](estonia.md)
-  - [France](france.md)
-  - [Georgia](georgia.md)
-  - [Germany](germany.md)
-  - [Hungary](hungary.md)
-  - [Italy](italy.md)
-  - [Latvia](latvia.md)
-  - [Lithuania](lithuania.md)
-  - [Moldova](moldova.md)
-  - [Montenegro](montenegro.md)
-  - [Netherlands](netherlands.md)
-  - [North Macedonia](north-macedonia.md)
-  - [Norway](norway.md)
-  - [Poland](poland.md) ⭐
-  - [Romania](romania.md)
-  - [Serbia](serbia.md) ⭐
-  - [Slovakia](slovakia.md)
-  - [Slovenia](slovenia.md)
-  - [Spain](spain.md) ⭐
-  - [Sweden](sweden.md)
-  - [Ukraine](ukraine.md)
-  - [United Kingdom](uk.md)
-- Asia:
-  - [Cambodia](cambodia.md)
-  - [Indonesia](indonesia.md) ⭐
-  - [Laos](laos.md)
-  - [Malaysia](malaysia.md)
-  - [Philippines](philippines.md)
-  - [Singapore](singapore.md)
-  - [Taiwan](taiwan.md)
-  - [Thailand](thailand.md) ⭐
-  - [Vietnam](vietnam.md) ⭐
-- Africa & Middle East:
-  - [Jordan](jordan.md) ⭐
-  - [Lebanon](lebanon.md)
-  - [Morocco](morocco.md)
-  - [South Africa](south-africa.md)
-  - [Turkey](turkey.md)
-  - [Tunisia](tunisia.md)
-  - [UAE](uae.md) ⭐
-- North America:
-  - [Canada](canada.md)
-  - [Mexico](mexico.md)
-  - [USA](usa.md)
+### Europe
+
+- [Albania](albania.md) ⭐
+- [Austria](austria.md)
+- [Belgium](belgium.md)
+- [Bosnia](bosnia.md)
+- [Bulgaria](bulgaria.md)
+- [Croatia](croatia.md)
+- [Cyprus](cyprus.md)
+- [Czechia](czechia.md) ⭐
+- [Denmark](denmark.md)
+- [Estonia](estonia.md)
+- [France](france.md)
+- [Georgia](georgia.md)
+- [Germany](germany.md)
+- [Hungary](hungary.md)
+- [Italy](italy.md)
+- [Latvia](latvia.md)
+- [Lithuania](lithuania.md)
+- [Moldova](moldova.md)
+- [Montenegro](montenegro.md)
+- [Netherlands](netherlands.md)
+- [North Macedonia](north-macedonia.md)
+- [Norway](norway.md)
+- [Poland](poland.md) ⭐
+- [Romania](romania.md)
+- [Serbia](serbia.md) ⭐
+- [Slovakia](slovakia.md)
+- [Slovenia](slovenia.md)
+- [Spain](spain.md) ⭐
+- [Sweden](sweden.md)
+- [Ukraine](ukraine.md)
+- [United Kingdom](uk.md)
+
+### Asia
+
+- [Cambodia](cambodia.md)
+- [Indonesia](indonesia.md) ⭐
+- [Laos](laos.md)
+- [Malaysia](malaysia.md)
+- [Philippines](philippines.md)
+- [Singapore](singapore.md)
+- [Taiwan](taiwan.md)
+- [Thailand](thailand.md) ⭐
+- [Vietnam](vietnam.md) ⭐
+
+### Africa & Middle East
+
+- [Jordan](jordan.md) ⭐
+- [Lebanon](lebanon.md)
+- [Morocco](morocco.md)
+- [South Africa](south-africa.md)
+- [Turkey](turkey.md)
+- [Tunisia](tunisia.md)
+- [UAE](uae.md) ⭐
+
+### North America
+
+- [Canada](canada.md)
+- [Mexico](mexico.md)
+- [USA](usa.md)
 
 ## Booking Sites
 
@@ -224,6 +236,25 @@ less good for a digital nomad who is going one way and bouncing to the next plac
 
 [OnTheBeach.co.uk](https://www.onthebeach.co.uk/) - good prices but nothing available for same/next day for last minute
 travellers like me.
+
+## Travel Checklist
+
+- Passport
+- Visa
+  - booked exit flight proof is required to enter some countries like Mexico
+- Laptop (optional)
+- Chargers - phone, laptop, electric toothbruth, USB-to-USB-c cable for plane
+- Travel Adapters
+- [Hostel Checklist](#hostel-tips) - padlock, towel, shower gel etc.
+- Clothes for climate (check your weather app for the destination, it might be hotter / colder /
+  rainier than you guess)
+
+Optional:
+
+- toiletries - you can buy toiletries almost anywhere, but you may prefer to take your favourite brands from home rather
+  than make do with whatever you find there
+- book or other entertainment for flight
+- water bottle to refill after security takes your water off you
 
 ## Flights
 
