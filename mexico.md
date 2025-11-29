@@ -237,7 +237,7 @@ There is lots of street food around Mexico City - try it whenever you can, it ra
 - [Sede Café Río Lerma](https://maps.app.goo.gl/zRZXCF39EZRcSxDv5) /
   [Sede Café Orizaba](https://maps.app.goo.gl/Pgicva2r4zNxteSU6) - decent coffee chain. I can't decide if their chai
   latte was perfectly sweet or 5% too sweet, it depends on how naughty I'm feeling.
-  Similar with the taro latte, but I prefer the chai latte.
+  Similar with their taro latte, but I prefer their chai latte.
   One downside is that many of them have no seating at all.
   The one in Rome North (Orizaba) does have a small amount of seating.
   No wifi unfortunately.
