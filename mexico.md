@@ -149,6 +149,16 @@ being open to the roof and it has non-double glazed windows.
   juice.
   The arrachera (skirt steak) is served with cucumber and tacos as well as a selection of guacamole, limes and sauces.
   Ok for its price point at 180 pesos.
+- [Sushi Kona](https://maps.app.goo.gl/4HLynKFQo2UaNNtC7) - very good dragon roll for 140 pesos ($7.65), and they take
+  card, but use Google Translate on the card machine to not accept their currency conversion as it'll cost you more
+- [Reforma222](https://maps.app.goo.gl/4QR1kPuyrDWttvv69) - decent mid sized mall with the usual clothing brands,
+  a food court with good variety, and free toilets
+  - [Mr. Sushi](https://maps.app.goo.gl/MF9UzX2Qzj4TXetv6) - the Google Reviews are wrong, it was not closed.
+    For sushi, I was on my way back for a second go at
+- [Parque Delta](https://maps.app.goo.gl/5Xg5A2x1yMLQiRR69) - good sized mall, includes a food court and a
+  [Nutrisa](https://maps.app.goo.gl/B93nRvZhLdrsyigP8)
+- [Pabellón Cuauhtémoc](https://maps.app.goo.gl/GYHoPwhsAWHBRF8t6) - small mall, but has a
+  [Nutrisa](https://maps.app.goo.gl/hbxj4z9ZKtJtsMPC8) health food shop and useful if you need a free toilet stop
 - [Tacos Domingo - Pacheco](https://maps.app.goo.gl/PRaTDctSWiWSoAk69) - 40 odd pesos for a taco and 50 pesos for a
   volcane is more than my favourite places in Cancun, but still ok. They forgot to bring me the frijoles charros
   (cowboy bean stew) unfortunately, but I went back to try it the next day,
@@ -157,13 +167,10 @@ being open to the roof and it has non-double glazed windows.
   The watermelon was better.
   As of late 2025 there was only one of the, but a second one is due to open in Paseo de la Reforma.
   Has wifi
-- [Parque Delta](https://maps.app.goo.gl/5Xg5A2x1yMLQiRR69) - good sized mall, includes a food court and a
-  [Nutrisa](https://maps.app.goo.gl/B93nRvZhLdrsyigP8)
-- [Pabellón Cuauhtémoc](https://maps.app.goo.gl/GYHoPwhsAWHBRF8t6) - small mall, but has a
-  [Nutrisa](https://maps.app.goo.gl/hbxj4z9ZKtJtsMPC8) health food shop and useful if you need a free toilet stop
-- [Tita's Restaurant](https://maps.app.goo.gl/P7DT8JQJGDdtVvdJ8) -  the _"mole de olla"_ was a chicken thigh soup with
-  potato and carrots.
-  Decent quality but I was still hungry after this bowl for 100 pesos.
+- [Tita's Restaurant](https://maps.app.goo.gl/P7DT8JQJGDdtVvdJ8) - if you're near here you're in the wrong part of Mexico City - but if so, this is a
+  reasonable pit stop of a small cafe.
+  The _"mole de olla"_ was a chicken thigh soup with potato and carrots - decent quality but I was still hungry after
+  this bowl for 100 pesos.
   The chilaquiles verde with bistec (beef) for 105 pesos was ok too, quite a lot of cheese on it.
   The "sweet bread" was slightly too sweet as instead of a wholesome baked in sweetness it had icing.
   This is very much a small local place and had a TV on the wall with a mexican soap opera on it
