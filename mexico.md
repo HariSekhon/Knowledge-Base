@@ -6,7 +6,7 @@
 - [Spanish Crash Course](#spanish-crash-course)
 - [Mexican Food](#mexican-food)
 - [Mexico City](#mexico-city)
-  - [Mexico City Airports](#mexico-city-airports)
+  - [Airports in Mexico City](#airports-in-mexico-city)
   - [Public Transport in Mexico City](#public-transport-in-mexico-city)
     - [Metro in Mexico City](#metro-in-mexico-city)
     - [Buses in Mexico City](#buses-in-mexico-city)
@@ -101,7 +101,7 @@ The downtown area is pretty ghetto aside from the historic buildings, it's mostl
 You probably only want to go there to see a few of the historic building or if you want to buy some cheap clothes from
 the street stalls.
 
-### Mexico City Airports
+### Airports in Mexico City
 
 Be careful which airport you are booking flying to.
 
