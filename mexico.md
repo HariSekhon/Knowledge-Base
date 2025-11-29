@@ -155,6 +155,12 @@ being open to the roof and it has non-double glazed windows.
 - [Sushi Kona](https://maps.app.goo.gl/4HLynKFQo2UaNNtC7) - small but good food quality - very good dragon roll for
   140 pesos ($7.65), and they take card, but use Google Translate on the card machine to not accept their currency
   conversion as it'll cost you more
+- [Sede Café Río Lerma](https://maps.app.goo.gl/zRZXCF39EZRcSxDv5) - decent coffee chain. I can't decide if their chai
+  latte was perfectly sweet or 5% too sweet, it depends on how naughty I'm feeling.
+  The guy did overcharge me by 20 pesos (75 on card instead of 55 on board),
+  he said he thought I asked for oat milk which I clearly didn't, perhaps an honest mistake and language barrier, but
+  something to watch out for though as many people in Mexico try to overcharge you if they can.
+  He refunded this cash and the chai latte arrived made with normal milk at the same time anyway, hmmm...
 - [El Rincón Tapatío Bar](https://maps.app.goo.gl/bEapbJyGwnR4tq2e9) - affordable food, good maracuya (passionfruit) juice.
   The arrachera (skirt steak) is served with cucumber and tacos as well as a selection of guacamole, limes and sauces.
   Ok for its price point at 180 pesos
