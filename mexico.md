@@ -276,6 +276,8 @@ There is lots of street food around Mexico City - try it whenever you can, it ra
   (where the actors and actresses looked european).
   This is not a great neighbourhood but if you happen to find yourself in this part of town then it's not a bad stop
 - [Colima street in Roma North](https://maps.app.goo.gl/RBAtz28x3nsBgexG7) - several well rated restaurants on this road
+- [Joe & The Juice Roma](https://maps.app.goo.gl/jGMwq4SziCeonSey6) - the usual overpriced international juice chain -
+  but we pay it because it's tasty
 
 Not Recommended:
 
