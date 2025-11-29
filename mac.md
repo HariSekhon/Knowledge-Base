@@ -233,7 +233,7 @@ Battery even tells you:
 
 - time to discharge
 - time to charge
-- number of cycles (although this one I'm sure is only since installation of Stats)
+- number of charge cycles
 - battery health %
 - remaining charge / capacity in mAh (the capacity decreases as the battery health degrades - this is very useful to
   see)
