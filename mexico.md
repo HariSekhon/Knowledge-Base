@@ -151,7 +151,8 @@ being open to the roof and it has non-double glazed windows.
   Ok for its price point at 180 pesos.
 - [Tacos Domingo - Pacheco](https://maps.app.goo.gl/PRaTDctSWiWSoAk69) - 40 odd pesos for a taco and 50 pesos for a
   volcane is more than my favourite places in Cancun, but still ok. They forgot to bring me the frijoles charros
-  (cowboy bean stew) unfortunately, but I went back to try it the next day, could skip that.
+  (cowboy bean stew) unfortunately, but I went back to try it the next day,
+  could skip that next time, it was nothing special.
   The aqua del dia (water of the day) was watermelon which was good, the next day it was tamarind.
   The watermelon was better.
   As of late 2025 there was only one of the, but a second one is due to open in Paseo de la Reforma.
