@@ -46,7 +46,7 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Self Transfer](#self-transfer)
     - [Change Airport](#change-airport)
     - [Charging Your Devices on Flights](#charging-your-devices-on-flights)
-- [Hotels vs Hostels vs Airbnb](#hotels-vs-hostels-vs-airbnb)
+- [Accommodation - Hotels vs Hostels vs Airbnb](#accommodation---hotels-vs-hostels-vs-airbnb)
   - [Internet - Hotel vs Airbnb](#internet---hotel-vs-airbnb)
   - [Parking - Hotel, Hostel & Airbnb](#parking---hotel-hostel--airbnb)
   - [Hostel Tips](#hostel-tips)
@@ -353,7 +353,10 @@ Bring a USB-to-USB-c charging cable of at least medium length
 to be able to charge your smartphone - medium length to be able for it to reach to the pouch on the back of the seat in
 front of you where you may want to rest your phone.
 
-## Hotels vs Hostels vs Airbnb
+## Accommodation - Hotels vs Hostels vs Airbnb
+
+This is usually one of the biggest travel expenses,
+so check in advance and avoid places with high accommodation costs, or shorten your stays there.
 
 After a lot of travelling, I have come to the conclusion that you can judge a place by the cost of its accommodation.
 
