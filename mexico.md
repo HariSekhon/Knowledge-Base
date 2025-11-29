@@ -170,6 +170,14 @@ I found that the 9A bus did not come and Google Maps directions and schedule for
 
 The major bendy-bus terminals do seem very good though with frequent buses and display of schedule.
 
+### Taxis in Mexico City
+
+Uber worked better for me in Mexico City as drivers were
+either not picking up at the same price or offering higher prices.
+
+- [Uber](https://www.uber.com/)
+- [InDrive](https://indrive.com/en-mx)
+
 ### Areas in Mexico City
 
 These are the 3 gentrified areas in Mexico City:
