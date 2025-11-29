@@ -172,8 +172,10 @@ being open to the roof and it has non-double glazed windows.
   [Nutrisa](https://maps.app.goo.gl/B93nRvZhLdrsyigP8)
 - [Pabellón Cuauhtémoc](https://maps.app.goo.gl/GYHoPwhsAWHBRF8t6) - small mall, but has a
   [Nutrisa](https://maps.app.goo.gl/hbxj4z9ZKtJtsMPC8) health food shop and useful if you need a free toilet stop
-- [Tacos Domingo - Pacheco](https://maps.app.goo.gl/PRaTDctSWiWSoAk69) - 40 odd pesos for a taco and 50 pesos for a
-  volcane is more than my favourite places in Cancun, but still ok. They forgot to bring me the frijoles charros
+- [Taqueria Las Rejas](https://maps.app.goo.gl/7FKTnqpCbyk99r4D6) - 11 pesos tacos, not the best but at this price, it's
+  no surprise that it is so busy!
+- [Tacos Domingo - Pacheco](https://maps.app.goo.gl/PRaTDctSWiWSoAk69) - ~40 pesos for a taco and 50 pesos for a
+  volcane - more than my favourite taco places in Cancun, but still ok. They forgot to bring me the frijoles charros
   (cowboy bean stew) unfortunately, but I went back to try it the next day,
   could skip that next time, it was nothing special.
   The aqua del dia (water of the day) was watermelon which was good, the next day it was tamarind.
