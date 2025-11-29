@@ -145,6 +145,7 @@ being open to the roof and it has non-double glazed windows.
   but one of the two red ones burnt my mouth so bad the first time I went straight to Oxxo to buy a yoplait drinking
   yoghurt!! The second time even the green chili did this to me, stick to the milder red chili on the right.
   It's only 2 blocks along from the big Parque Delta shopping centre listed further down
+- [Sushi Zen Río Elba]()
 - [Sushi Kona](https://maps.app.goo.gl/4HLynKFQo2UaNNtC7) - small but good food quality - very good dragon roll for
   140 pesos ($7.65), and they take card, but use Google Translate on the card machine to not accept their currency
   conversion as it'll cost you more
@@ -153,9 +154,8 @@ being open to the roof and it has non-double glazed windows.
   Ok for its price point at 180 pesos
 - [Reforma222](https://maps.app.goo.gl/4QR1kPuyrDWttvv69) - decent mid sized mall with the usual clothing brands,
   a food court with good variety, and free toilets, their Nutrisa has a much smaller selection than the other ones
-  though, and of course they have a GNC but it's more expensive
-  - [Mr. Sushi](https://maps.app.goo.gl/MF9UzX2Qzj4TXetv6) - the Google Reviews are wrong, it was not closed.
-    For sushi, I was on my way back for a second go at
+  though, and of course they have a GNC but it's more expensive.
+  Just don't eat at the food court, it's all the usual lowest quality food chains
 - [Parque Delta](https://maps.app.goo.gl/5Xg5A2x1yMLQiRR69) - good sized mall, includes a food court and a
   [Nutrisa](https://maps.app.goo.gl/B93nRvZhLdrsyigP8)
 - [Pabellón Cuauhtémoc](https://maps.app.goo.gl/GYHoPwhsAWHBRF8t6) - small mall, but has a
@@ -177,6 +177,14 @@ being open to the roof and it has non-double glazed windows.
   This is very much a small local place and had a TV on the wall with a mexican soap opera on it
   (where the actors and actresses looked european).
   This is not a great neighbourhood but if you happen to find yourself in this part of town then it's not a bad stop
+
+Not Recommended:
+
+- [Mr. Sushi](https://maps.app.goo.gl/MF9UzX2Qzj4TXetv6) - the Google Reviews are wrong, it was not closed,
+  but they were right that it is low quality.
+  The coco ramen chicken soup was tiny for 173 pesos - this is in a food court for good reason, the money is obviously
+  going to rent and not food quality or portion size.
+  I should have stuck to my guns and continued on to my second visit to Sushi Kona instead.
 
 ## Oaxaca City
 
