@@ -143,7 +143,7 @@ as their buses and trains do not accept cash or contactless credit card payments
 This is probably because the fares are so cheap that the big financial card providers charge more in payment fees,
 making it economically unviable to use card payments.
 
-This plastic card can be purchased for 21 pesos at one of the major bus stops,
+This plastic pre-pay card can be purchased for 21 pesos at one of the major bus terminals,
 and probably at the metro too, and comes pre-loaded with 1 journey.
 
 Chuck 40 pesos or whatever loose change you have on it.
@@ -153,11 +153,15 @@ one of the major bus stop terminals to buy the card.
 
 #### Metro in Mexico City
 
+**You will need a public transport pre-pay card, see above.**
+
 The metro is similarly developed to most capital cities, but can be a bit more unintuitive to navigate interchanges.
 
-The metro cost 5 pesos per zone travelled, which is extremely affordab.e
+The metro cost 5 pesos per zone travelled, which is extremely affordable.
 
 #### Buses in Mexico City
+
+**You will need a public transport pre-pay card, see above.**
 
 Buses typically cost 4-8 pesos, depending on whether it's a smaller bus or one of those big bendy buses
 that look like trams that stop at fixed permanent terminals ports.
