@@ -196,6 +196,9 @@ Not Recommended:
   but they were right that it is low quality.
   The coco ramen chicken soup was tiny for 173 pesos - this is in a food court for good reason, the money is obviously
   going to rent and not food quality or portion size.
+  It's also poor nutrition,
+  being mostly cheap ramen noodles worth nothing, a few small pieces of chicken, and the highlight is a boiled egg,
+  which is the best part, but which you could buy 100 of for this price.
   I should have stuck to my guns and continued on to my second visit to Sushi Kona instead.
 
 TODO:
