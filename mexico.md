@@ -152,7 +152,8 @@ being open to the roof and it has non-double glazed windows.
 - [Sushi Kona](https://maps.app.goo.gl/4HLynKFQo2UaNNtC7) - very good dragon roll for 140 pesos ($7.65), and they take
   card, but use Google Translate on the card machine to not accept their currency conversion as it'll cost you more
 - [Reforma222](https://maps.app.goo.gl/4QR1kPuyrDWttvv69) - decent mid sized mall with the usual clothing brands,
-  a food court with good variety, and free toilets
+  a food court with good variety, and free toilets, their Nutrisa has a much smaller selection than the other ones
+  though, and of course they have a GNC but it's more expensive
   - [Mr. Sushi](https://maps.app.goo.gl/MF9UzX2Qzj4TXetv6) - the Google Reviews are wrong, it was not closed.
     For sushi, I was on my way back for a second go at
 - [Parque Delta](https://maps.app.goo.gl/5Xg5A2x1yMLQiRR69) - good sized mall, includes a food court and a
