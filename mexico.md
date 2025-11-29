@@ -210,6 +210,11 @@ being open to the roof and it has non-double glazed windows.
 
 -->
 
+Restaurants are often tourist priced.
+
+There is lots of street food around Mexico City - try it whenever you can, it ranges from 15-30 pesos per taco.
+
+- [Roma North Market](https://maps.app.goo.gl/8MzGJZdHLUeBHAyDA) - good street food at affordable prices
 - [Tacos "Don Chuy"](https://maps.app.goo.gl/cFDsKSNUdNY64Vyd6) - the best taco high quality acherera skirt steak, this
   can’t be beat for 30 pesos.
   The second time I went I tried the argentinian chorizo sausage on the advice of a local there, but I think this is
