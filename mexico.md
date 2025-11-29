@@ -7,6 +7,9 @@
 - [Mexican Food](#mexican-food)
 - [Mexico City](#mexico-city)
   - [Mexico City Airports](#mexico-city-airports)
+  - [Public Transport in Mexico City](#public-transport-in-mexico-city)
+    - [Metro](#metro)
+    - [Buses](#buses)
   - [Areas in Mexico City](#areas-in-mexico-city)
   - [Restaurants in Mexico City](#restaurants-in-mexico-city)
 - [Oaxaca City](#oaxaca-city)
@@ -148,17 +151,17 @@ Chuck 40 pesos or whatever loose change you have on it.
 In the metro the machines to top up the card seemed to only take cash (coins or notes) but I used contactless payment in
 one of the major bus stop terminals to buy the card.
 
-### Metro
+#### Metro
 
 The metro is similarly developed to most capital cities, but can be a bit more unintuitive to navigate interchanges.
 
 The metro cost 5 pesos per zone travelled, which is extremely affordab.e
 
-### Buses
+#### Buses
 
 Buses typically cost 4-8 pesos, depending on if it's one of the major bus lines.
 
-#### Areas in Mexico City
+### Areas in Mexico City
 
 These are the 3 gentrified areas in Mexico City:
 
