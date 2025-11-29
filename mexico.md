@@ -145,7 +145,13 @@ being open to the roof and it has non-double glazed windows.
   but one of the two red ones burnt my mouth so bad the first time I went straight to Oxxo to buy a yoplait drinking
   yoghurt!! The second time even the green chili did this to me, stick to the milder red chili on the right.
   It's only 2 blocks along from the big Parque Delta shopping centre listed further down
-- [Sushi Zen Río Elba]()
+- [Sushi Zen Río Elba](https://maps.app.goo.gl/MxEAAiDgx7NwhGhz9) - the dragon roll was good, although not quite as good
+  as Sushi Kona below which has the tempura bits sticking out of the sides, but this has better location and outdoor
+  seating, and is popular for good reason, overall it’s a better dining experience. Good menu, big sushi selection and
+  they have poke bowls and desserts too.
+  The Google Maps pin is slightly off point, it was actually around the corner to what was shown, I've submitted an
+  edit.
+  There is no wifi unfortunately
 - [Sushi Kona](https://maps.app.goo.gl/4HLynKFQo2UaNNtC7) - small but good food quality - very good dragon roll for
   140 pesos ($7.65), and they take card, but use Google Translate on the card machine to not accept their currency
   conversion as it'll cost you more
