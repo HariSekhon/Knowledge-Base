@@ -7,6 +7,7 @@
 - [Mexican Food](#mexican-food)
 - [Mexico City](#mexico-city)
   - [Mexico City Airports](#mexico-city-airports)
+  - [Areas in Mexico City](#areas-in-mexico-city)
   - [Restaurants in Mexico City](#restaurants-in-mexico-city)
 - [Oaxaca City](#oaxaca-city)
   - [Safety in Oaxaca](#safety-in-oaxaca)
