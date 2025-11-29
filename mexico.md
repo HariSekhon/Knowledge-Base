@@ -164,7 +164,7 @@ that look like trams that stop at fixed permanent terminals ports.
 
 I found that the 9A bus did not come and Google Maps directions and schedule for this didn't materialize.
 
-The major bus terminals do seem very good though with frequent buses and display of schedule.
+The major bendy-bus terminals do seem very good though with frequent buses and display of schedule.
 
 ### Areas in Mexico City
 
