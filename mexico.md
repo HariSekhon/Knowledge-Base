@@ -130,7 +130,7 @@ and I had a good Chilaquiles with chicken while I was waiting!
 
 These are the 3 gentrified areas in Mexico City:
 
-- [Roma](https://maps.app.goo.gl/HxxsWXZNeMiebxid8)
+- [Roma Norte](https://maps.app.goo.gl/Pi5H7pBgVLQVAXDM8)
 - [La Condesa](https://maps.app.goo.gl/AYzRXpYyRbBsqhxJ8)
 - [Polanco](https://maps.app.goo.gl/f9tLUFhEHhBK4qmv7)
 
