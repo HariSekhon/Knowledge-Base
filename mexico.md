@@ -301,6 +301,7 @@ Not Recommended:
 
 TODO:
 
+- [AlmaMía Restaurante](https://maps.app.goo.gl/YAYFe2mNZoYpDrKY9) - 4.9 Mexican
 - [La Carreta de Juana (Rio Lerma)](https://maps.app.goo.gl/TYr1Ko9DP2UwU26p7) - 4.9 seafood restaurant
 - [Daikoku](https://maps.app.goo.gl/QKcUUbuoLoQNf5rg6) - 4.4 Japanese
 - [Don Asado Rio Lerma](https://maps.app.goo.gl/QPrGkg4yJFk1uLuC7) - 4.5 Uruguayan restaurant
