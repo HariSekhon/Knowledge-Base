@@ -234,7 +234,7 @@ There is lots of street food around Mexico City - try it whenever you can, it ra
 - [Sushi Kona](https://maps.app.goo.gl/4HLynKFQo2UaNNtC7) - small but good food quality - very good dragon roll for
   140 pesos ($7.65), and they take card, but use Google Translate on the card machine to not accept their currency
   conversion as it'll cost you more
-- [K-Bab](https://maps.app.goo.gl/uSQi9EvxJYKFJMsD9) - Korean restaurant, their stone bowl Bi bim bap is a complete meal
+- [K-Bab](https://maps.app.goo.gl/uSQi9EvxJYKFJMsD9) - Korean restaurant, their stone bowl bi bim bap is a complete meal
   with lots of little side dishes including a miso soup for 230 pesos.
   The place is well decorated with a large TV playing K-pop and a selection of Korean products ranging from drinks to
   ramen packets.
