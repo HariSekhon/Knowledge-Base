@@ -248,6 +248,9 @@ it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restauran
   Wifi 141/113 Mbit/s
 - [Bobo Burgers & Café (Roma Norte)](https://maps.app.goo.gl/GubbEYFwrFVQbnu1A) - there are two menus - a
   burger restaurant menu, and a cafe menu which also has an acai bowl.
+  The spicy burger was good, like an good quality fast food burger.
+  The beer fries (coated in beer batter and fried) are actually too crispy, I'd go with regular fries next time.
+  The fries portion size is easily big enough for 2 people, I left half of it.
   The restaurant is open fronted with additional seating outside so it is cold in November,
   and people were sitting with their jackets on.
   Probably drops to 4.4 due to the cost which is similar to Western prices so expensive for locals.
