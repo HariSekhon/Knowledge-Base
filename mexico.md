@@ -306,6 +306,7 @@ TODO:
 - [Don Asado Rio Lerma](https://maps.app.goo.gl/QPrGkg4yJFk1uLuC7) - 4.5 Uruguayan restaurant
 - [Helados Carmela](https://maps.app.goo.gl/4MRswZdoxUTSimJDA) - 4.7 ice cream
 - [Naar Mediterranean Grill](https://maps.app.goo.gl/xpgatzUNgMePiGYn6) - 4.9
+- [JAYI Restaurante](https://maps.app.goo.gl/1qem6rTAvV9M2w7z7) - 4.6
 
 ## Oaxaca City
 
