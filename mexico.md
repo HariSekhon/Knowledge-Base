@@ -243,6 +243,12 @@ There is lots of street food around Mexico City - try it whenever you can, it ra
   The place is well decorated with a large TV playing K-pop and a selection of Korean products ranging from drinks to
   ramen packets.
   Wifi 141/113 Mbit/s
+- [Bobo Burgers & Café (Roma Norte)](https://maps.app.goo.gl/GubbEYFwrFVQbnu1A) - there are two menus - a
+  burger restaurant menu, and a cafe menu which also has an acai bowl.
+  The restaurant is open fronted with additional seating outside so it is cold in November,
+  and people were sitting with their jackets on.
+  Probably drops to 4.4 due to the cost which is similar to Western prices so expensive for locals.
+  Wifi 48/48 Mbit/s
 - [Sede Café Río Lerma](https://maps.app.goo.gl/zRZXCF39EZRcSxDv5) /
   [Sede Café Orizaba](https://maps.app.goo.gl/Pgicva2r4zNxteSU6) - decent coffee chain. I can't decide if their chai
   latte was perfectly sweet or 5% too sweet, it depends on how naughty I'm feeling.
