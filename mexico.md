@@ -210,6 +210,7 @@ being open to the roof and it has non-double glazed windows.
 
 Casa Amelio - good location in Roma North, but there is no front door key, you have to wait for someone to come down to
 open the door, whatsapp a group, and there is no kitchen stove to boil eggs, there is only a kettle and water cooler.
+The showers also don't have anywhere to hang a towel or bag with valuables inside the shower stall
 
 -->
 
