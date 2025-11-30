@@ -208,6 +208,9 @@ To check in after 10pm you need to let them know in advance and deal with the se
 The biggest problem is that it is cold in November evenings and the building is far too air exposed due to the corridors
 being open to the roof and it has non-double glazed windows.
 
+Casa Amelio - good location in Roma North, but there is no front door key, you have to wait for someone to come down to
+open the door, whatsapp a group, and there is no kitchen stove to boil eggs, there is only a kettle and water cooler.
+
 -->
 
 Restaurants are often tourist priced.
