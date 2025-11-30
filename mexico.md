@@ -279,6 +279,8 @@ There is lots of street food around Mexico City - try it whenever you can, it ra
 - [Joe & The Juice Roma](https://maps.app.goo.gl/jGMwq4SziCeonSey6) - the usual overpriced international juice chain -
   but we pay it because it's tasty - its presence in Roma North is a sign of its gentrification!
   One of these would never be sustained in most of Mexico City
+- [Oxxo](https://www.google.com/maps/search/oxxo/@19.4245556,-99.1717624,15z) - convenience stores throughout the
+  central area of Mexico CIty, cheaper than Circle K or 7 Eleven - at least for my Yoplait drinking yoghurts!
 
 Not Recommended:
 
