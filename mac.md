@@ -246,6 +246,30 @@ Start `Stats.app` at login - configure this in its settings or run this command 
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Stats.app", hidden:false}'
 ```
 
+## Flux
+
+Flux dims your display to remove blue light that keeps you awake.
+
+```shell
+brew install --cask flux-app
+```
+
+Start Flux:
+
+```shell
+open -a Flux
+```
+
+<!-- You don't need this, it automatically adds itself to the startup login items
+
+Start at login:
+
+```shell
+osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Flux.app", hidden:false}'
+```
+
+-->
+
 ## Rearrange Status Bar Icons
 
 Now 14" Macbook Pros are powerful enough, but the screen space is very limited and you lose the top middle for the
