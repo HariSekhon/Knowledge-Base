@@ -302,6 +302,7 @@ Not Recommended:
 TODO:
 
 - [La Carreta de Juana (Rio Lerma)](https://maps.app.goo.gl/TYr1Ko9DP2UwU26p7) - 4.9 seafood restaurant
+- [Daikoku](https://maps.app.goo.gl/QKcUUbuoLoQNf5rg6) - 4.4 Japanese
 
 ## Oaxaca City
 
