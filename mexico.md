@@ -214,9 +214,12 @@ The showers also don't have anywhere to hang a towel or bag with valuables insid
 
 -->
 
-Restaurants are often tourist priced.
+Restaurants are often tourist priced, especially if you're in one of the few decent areas where foreigners tend to be,
+like Roma North, La Condesa, or Polenco.
 
-There is lots of street food around Mexico City - try it whenever you can, it ranges from 15-30 pesos per taco.
+There is lots of street food around Mexico City though as a tiny fraction of the price -
+try it whenever you can as it's so cheap -
+it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restaurant meal.
 
 - [Roma North Market](https://maps.app.goo.gl/8MzGJZdHLUeBHAyDA) - good street food at affordable prices
 - [Tacos "Don Chuy"](https://maps.app.goo.gl/cFDsKSNUdNY64Vyd6) - the best taco high quality acherera skirt steak, this
