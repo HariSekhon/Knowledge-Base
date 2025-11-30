@@ -305,6 +305,8 @@ Not Recommended:
 
 TODO:
 
+- [Tacos del Valle (Roma Norte)](https://maps.app.goo.gl/zNF31XMP2DWizgYP9) - 4.4 but always a big queue for this place
+  in the evenings
 - [AlmaMía Restaurante](https://maps.app.goo.gl/YAYFe2mNZoYpDrKY9) - 4.9 Mexican but expensive by local standards, mains
   are 500-800 pesos (\$27-\$43), sides are 200-250 (\$10-\$15)
 - [La Carreta de Juana (Rio Lerma)](https://maps.app.goo.gl/TYr1Ko9DP2UwU26p7) - 4.9 seafood restaurant
