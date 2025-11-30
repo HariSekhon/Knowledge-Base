@@ -249,7 +249,7 @@ osascript -e 'tell application "System Events" to make login item at end with pr
 
 ## Flux
 
-Flux dims your display to remove blue light that keeps you awake.
+[Flux](https://justgetflux.com/) dims your display to remove blue light that keeps you awake.
 
 ```shell
 brew install --cask flux-app
