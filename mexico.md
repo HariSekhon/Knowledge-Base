@@ -369,6 +369,7 @@ TODO:
   - [El Pescadito Roma](https://maps.app.goo.gl/vN2hf2zu2ffqm7Nv9) - 4.5 taco restaurant
   - [La Buena Birria MX](https://maps.app.goo.gl/Cr6NKqsG4B6wbyp76) - 4.5 mexican
   - [Daikoku](https://maps.app.goo.gl/QKcUUbuoLoQNf5rg6) - 4.4 Japanese
+  - [Ice Cream Nation](https://maps.app.goo.gl/jykk2SGCekmGxQ8F7) - 4.4
   - [Mygyo](https://maps.app.goo.gl/iDhKmPUyZSKNeLmKA) - 4.4 ice cream
   - [Plonk](https://maps.app.goo.gl/V7eJ5W9xbiM878KB7) - 4.5 restaurant
 - [Tacos "Los especiales"](https://maps.app.goo.gl/xDmxYTHPqu9FACMS9) - 4.6 street tacos
