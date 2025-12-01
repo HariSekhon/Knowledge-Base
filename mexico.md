@@ -187,7 +187,8 @@ These are the 3 gentrified areas in Mexico City:
   white people and foreigners are.
   It's full of gentrified cafes and restaurants charging 3-5x the street food prices, it's a leafy neighbourhood with
   the best park in the city.
-  There is even a Muay Thai / Renzo Gracie Jiu Jitsu club opposite the park (not on Google Maps yet though).
+  There is even a Muay Thai / Renzo Gracie Jiu Jitsu club opposite the park (not on Google Maps yet though), next to
+  [Santas Conchas Condesa](https://maps.app.goo.gl/PZM8bJXzDNUG4Nyp8).
   This is the Mexican equivalent of Holland Park in London
 - [Roma Norte](https://maps.app.goo.gl/Pi5H7pBgVLQVAXDM8) - the other best area of restaurants and bars where foreigners
   and yuppies congregate
