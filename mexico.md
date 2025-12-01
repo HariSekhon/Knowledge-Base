@@ -371,7 +371,8 @@ TODO:
   - [El Hidalguense](https://maps.app.goo.gl/ZRNECgNfQoJ4Cajz7) - 4.4 busy mexican restaurant outside the Medellín
     Market
 - Roma North:
-  - [Taquería Álvaro Obregón](https://maps.app.goo.gl/fPrx2Z5T8AcpPK8q8) - recommended by a local, affordable
+  - [Taquería Álvaro Obregón](https://maps.app.goo.gl/fPrx2Z5T8AcpPK8q8) - 4.2 recommended by a local, affordable
+  - [Kiyo Café](https://maps.app.goo.gl/dRa6HwPpuUvaEgG6A) - 4.6
   - [Naar Mediterranean Grill](https://maps.app.goo.gl/LMiDwFkdHkv1sRQg7) - 4.9
 - Condesa / Parque Mexico:
   - [Tacos Monterregios](https://maps.app.goo.gl/fCGkzFUx6GGEWt5L7) - 4.9
