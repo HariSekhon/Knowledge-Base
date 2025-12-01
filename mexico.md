@@ -363,6 +363,7 @@ TODO:
 
 - [La Morenita De Medellín](https://maps.app.goo.gl/gRKNhnX2wexqCM9e8) - seafood speciality semi-restaurant in the
   [Medellín Market](https://maps.app.goo.gl/wbJjVTLyDyqBKRiy7)
+- [El Hidalguense](https://maps.app.goo.gl/ZRNECgNfQoJ4Cajz7) - 4.4 busy mexican restaurant outside the Medellín Market
 - [Tacos "Los especiales"](https://maps.app.goo.gl/xDmxYTHPqu9FACMS9) - 4.6 street tacos
 - [Tacos Monterregios](https://maps.app.goo.gl/tpr3Nq6gWw4jNF8UA) - 4.9
 - [Tacos del Valle (Roma Norte)](https://maps.app.goo.gl/zNF31XMP2DWizgYP9) - 4.4 but always a big queue for this place
