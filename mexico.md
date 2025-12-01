@@ -12,6 +12,7 @@
     - [Buses in Mexico City](#buses-in-mexico-city)
   - [Taxis in Mexico City](#taxis-in-mexico-city)
   - [Areas in Mexico City](#areas-in-mexico-city)
+  - [Attractions in Mexico City](#attractions-in-mexico-city)
   - [Restaurants in Mexico City](#restaurants-in-mexico-city)
 - [Oaxaca City](#oaxaca-city)
   - [Safety in Oaxaca](#safety-in-oaxaca)
