@@ -217,7 +217,8 @@ There are lots of monuments, museums (too many to list) and other attractions be
   - [Museo Nacional de Antropología](https://maps.app.goo.gl/LEn9jrtdnrYdYgm67)
   - [Monumento a Simon Bolivar (Obelisco y Fuente)](https://maps.app.goo.gl/D25UoH7uMyK7GB5W6)
   - [Chapultepec Zoo](https://maps.app.goo.gl/WHD2M6AmmHkm9QNB7)
-- Historic Centre - there are lots of museums, although the surrounds are ghettos:
+- Historic Centre - there are lots of museums, although the surroundings are ghettos, just visit and go back to
+  Roma North or Condesa:
   - [National Palace](https://maps.app.goo.gl/Fw9nAKWmqxyi41Eb8)
   - [Mexico City Metropolitan Cathedral](https://maps.app.goo.gl/fHYNCeSfhL7LAHKp7)
   - [Constitution Plaza](https://maps.app.goo.gl/UeAtRD3UTTG58FZk9)
