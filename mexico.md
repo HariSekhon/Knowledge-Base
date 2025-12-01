@@ -370,6 +370,7 @@ TODO:
   - [El Hidalguense](https://maps.app.goo.gl/ZRNECgNfQoJ4Cajz7) - 4.4 busy mexican restaurant outside the Medellín Market
 - Condesa / Parque Mexico:
   - [Tierra Garat Amsterdam](https://maps.app.goo.gl/wRCo26cUxkEe9UUA9) - 4.5 cafe
+  - [La Papaya Smoothie House](https://maps.app.goo.gl/PHSuVYY531LvWeus5) - 5.0
   - [El Pescadito Roma](https://maps.app.goo.gl/vN2hf2zu2ffqm7Nv9) - 4.5 taco restaurant
   - [La Buena Birria MX](https://maps.app.goo.gl/Cr6NKqsG4B6wbyp76) - 4.5 mexican
   - [Daikoku](https://maps.app.goo.gl/QKcUUbuoLoQNf5rg6) - 4.4 Japanese
