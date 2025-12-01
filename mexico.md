@@ -183,9 +183,17 @@ either not picking up at the same price or offering higher prices.
 
 These are the 3 gentrified areas in Mexico City:
 
-- [Roma Norte](https://maps.app.goo.gl/Pi5H7pBgVLQVAXDM8)
-- [La Condesa](https://maps.app.goo.gl/AYzRXpYyRbBsqhxJ8)
-- [Polanco](https://maps.app.goo.gl/f9tLUFhEHhBK4qmv7)
+- [La Condesa](https://maps.app.goo.gl/AYzRXpYyRbBsqhxJ8) - the best gentrified area in Mexico City, this is where the
+  white people and foreigners are.
+  It's full of gentrified cafes and restaurants charging 3-5x the street food prices, it's a leafy neighbourhood with
+  the best park in the city.
+  This is the Mexican equivalent of Holland Park in London
+- [Roma Norte](https://maps.app.goo.gl/Pi5H7pBgVLQVAXDM8) - the other best area of restaurants and bars where foreigners
+  and yuppies congregate
+- [Polanco](https://maps.app.goo.gl/f9tLUFhEHhBK4qmv7) - upmarket shopping district, apparently the most expensive area
+  in Latin America according to a local but I found it less lush than Condesa
+- [Colonia Buenos Aires](https://maps.app.goo.gl/kX8VDEEU1ff7NK317) - much less upmarket than the other areas above but
+  it does have Parque Delta Mall
 
 Stay in one of them, or at least spend your time exploring them as first priority even if you stay somewhere cheaper
 (many hostels are nearer the [Historic center of Mexico City](https://maps.app.goo.gl/w6mF88oNAfujkB378)).
@@ -194,10 +202,9 @@ Areas NOT recommended:
 
 - [Historic center of Mexico City](https://maps.app.goo.gl/w6mF88oNAfujkB378) - it's a ghetto, just go for 2 hours to
   see a few historic buildings, then leave, don't stay there
-- [Doctores](https://maps.app.goo.gl/JFTFACHo4TyLTwjy9) - it's a ghetto, hardly anything to see, or good places to eat,
-  and you'll probably get mugged as it doesn't have the high footfall of the historic center area
+- [Doctores](https://maps.app.goo.gl/JFTFACHo4TyLTwjy9) - it's a ghetto, with hardly anything to see, or good places to
+  eat, and you'll probably get mugged as it doesn't have the high footfall of the historic centre area
 - probably any other area of Mexico City
-  ([Colonia Buenos Aires](https://maps.app.goo.gl/kX8VDEEU1ff7NK317) is ok because that's where Parque Delta mall is)
 
 ### Restaurants in Mexico City
 
