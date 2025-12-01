@@ -311,6 +311,7 @@ it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restauran
   he said he thought I asked for oat milk which I clearly didn't, perhaps an honest mistake and language barrier, but
   something to watch out for though as many people in Mexico try to overcharge you if they can.
   He refunded this cash and the chai latte arrived made with normal milk at the same time anyway, hmmm...
+- [Amorino](https://maps.app.goo.gl/jR2zpftwejmzhyHk8) - upmarket international ice cream chain
 - [Reforma222](https://maps.app.goo.gl/4QR1kPuyrDWttvv69) - decent mid sized mall with the usual clothing brands,
   a food court with good variety, and free toilets, their Nutrisa has a much smaller selection than the other ones
   though, and of course they have a GNC but it's more expensive.
