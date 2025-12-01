@@ -212,7 +212,9 @@ Areas NOT recommended:
 ### Attractions in Mexico City
 
 - [Chapultepec Castle](https://maps.app.goo.gl/B8ekcARidxP3XrHU6)
-- [Museo Nacional de Antropología](https://maps.app.goo.gl/LEn9jrtdnrYdYgm67)
+  - [Museo Nacional de Antropología](https://maps.app.goo.gl/LEn9jrtdnrYdYgm67)
+- [Constitution Plaza](https://maps.app.goo.gl/UeAtRD3UTTG58FZk9)
+  - [National Palace](https://maps.app.goo.gl/Fw9nAKWmqxyi41Eb8)
 - [Monumento a Simon Bolivar (Obelisco y Fuente)](https://maps.app.goo.gl/D25UoH7uMyK7GB5W6)
 - [Parque México](https://maps.app.goo.gl/7adKx8KA5eUoPXEW6) - the best park in Mexico City, in the best area, the leafy
   Condesa suburb full of gentrified coffee shops & restaurants
