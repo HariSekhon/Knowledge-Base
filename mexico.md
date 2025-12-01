@@ -232,6 +232,8 @@ There are lots of monuments, museums (too many to list) and other attractions be
 - [Parroquia de la Sagrada Familia](https://maps.app.goo.gl/Gy6WbmBdBpWaLunB9) - fancy catholic church in Roma North
 - [Fuente de Cibeles](https://maps.app.goo.gl/ZQtRPU3XpiUyohvTA) - fountain of roman goddess (replica of historic
   fountain in Madrid)
+- [Río de Janeiro Plaza](https://maps.app.goo.gl/xKTijndREhx2bqBf6) - local park in Roma North with replica of statue of
+  David
 - [Monumento a Simon Bolivar (Obelisco y Fuente)](https://maps.app.goo.gl/D25UoH7uMyK7GB5W6)
 - [Parque México](https://maps.app.goo.gl/7adKx8KA5eUoPXEW6) - the best park in Mexico City, in the best area, the leafy
   Condesa suburb full of gentrified coffee shops & restaurants
