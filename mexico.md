@@ -367,6 +367,7 @@ TODO:
 - Condesa / Parque Mexico:
   - [El Pescadito Roma](https://maps.app.goo.gl/vN2hf2zu2ffqm7Nv9) - 4.5 taco restaurant
   - [La Buena Birria MX](https://maps.app.goo.gl/Cr6NKqsG4B6wbyp76) - 4.5 mexican
+  - [Daikoku](https://maps.app.goo.gl/QKcUUbuoLoQNf5rg6) - 4.4 Japanese
 - [Tacos "Los especiales"](https://maps.app.goo.gl/xDmxYTHPqu9FACMS9) - 4.6 street tacos
 - [Tacos Monterregios](https://maps.app.goo.gl/tpr3Nq6gWw4jNF8UA) - 4.9
 - [Tacos del Valle (Roma Norte)](https://maps.app.goo.gl/zNF31XMP2DWizgYP9) - 4.4 but always a big queue for this place
@@ -374,7 +375,6 @@ TODO:
 - [AlmaMía Restaurante](https://maps.app.goo.gl/YAYFe2mNZoYpDrKY9) - 4.9 Mexican but expensive by local standards, mains
   are 500-800 pesos (\$27-\$43), sides are 200-250 (\$10-\$15)
 - [La Carreta de Juana (Rio Lerma)](https://maps.app.goo.gl/TYr1Ko9DP2UwU26p7) - 4.9 seafood restaurant
-- [Daikoku](https://maps.app.goo.gl/QKcUUbuoLoQNf5rg6) - 4.4 Japanese
 - [Don Asado Rio Lerma](https://maps.app.goo.gl/QPrGkg4yJFk1uLuC7) - 4.5 Uruguayan restaurant
 - [Helado Bonito](https://maps.app.goo.gl/X51XeF1sYddJzPqV7) /
   [Helados Carmela](https://maps.app.goo.gl/4MRswZdoxUTSimJDA) - 4.7 - 4.9 ice cream chain
