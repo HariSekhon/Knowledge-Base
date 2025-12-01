@@ -211,7 +211,7 @@ Areas NOT recommended:
 
 ### Attractions in Mexico City
 
-There are lots of monuments, museums and other attractions befitting a large major capital city.
+There are lots of monuments, museums (too many to list) and other attractions befitting a large major capital city.
 
 - [Chapultepec Castle](https://maps.app.goo.gl/B8ekcARidxP3XrHU6)
   - [Museo Nacional de Antropología](https://maps.app.goo.gl/LEn9jrtdnrYdYgm67)
