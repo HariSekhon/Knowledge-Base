@@ -213,7 +213,7 @@ Areas NOT recommended:
 
 - [Chapultepec Castle](https://maps.app.goo.gl/B8ekcARidxP3XrHU6)
   - [Museo Nacional de Antropología](https://maps.app.goo.gl/LEn9jrtdnrYdYgm67)
-- Historic Centre:
+- Historic Centre - there are lots of museums, although the surrounds are ghettos:
   - [National Palace](https://maps.app.goo.gl/Fw9nAKWmqxyi41Eb8)
   - [Mexico City Metropolitan Cathedral](https://maps.app.goo.gl/fHYNCeSfhL7LAHKp7)
   - [Constitution Plaza](https://maps.app.goo.gl/UeAtRD3UTTG58FZk9)
