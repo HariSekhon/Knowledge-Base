@@ -215,6 +215,8 @@ There are lots of monuments, museums (too many to list) and other attractions be
 
 - [Chapultepec Castle](https://maps.app.goo.gl/B8ekcARidxP3XrHU6)
   - [Museo Nacional de Antropología](https://maps.app.goo.gl/LEn9jrtdnrYdYgm67)
+  - [Monumento a Simon Bolivar (Obelisco y Fuente)](https://maps.app.goo.gl/D25UoH7uMyK7GB5W6)
+  - [Chapultepec Zoo](https://maps.app.goo.gl/WHD2M6AmmHkm9QNB7)
 - Historic Centre - there are lots of museums, although the surrounds are ghettos:
   - [National Palace](https://maps.app.goo.gl/Fw9nAKWmqxyi41Eb8)
   - [Mexico City Metropolitan Cathedral](https://maps.app.goo.gl/fHYNCeSfhL7LAHKp7)
@@ -234,7 +236,6 @@ There are lots of monuments, museums (too many to list) and other attractions be
   fountain in Madrid)
 - [Río de Janeiro Plaza](https://maps.app.goo.gl/xKTijndREhx2bqBf6) - local park in Roma North with replica of statue of
   David
-- [Monumento a Simon Bolivar (Obelisco y Fuente)](https://maps.app.goo.gl/D25UoH7uMyK7GB5W6)
 - [Parque México](https://maps.app.goo.gl/7adKx8KA5eUoPXEW6) - the best park in Mexico City, in the best area, the leafy
   Condesa suburb full of gentrified coffee shops & restaurants
   - [Juegos infantiles Parque México](https://maps.app.goo.gl/kFFYnfiASz3BqEYd8) - children's playground full of
@@ -246,7 +247,6 @@ There are lots of monuments, museums (too many to list) and other attractions be
   - [Para Perros Park](https://maps.app.goo.gl/BjooGxxchNS3qZE57) - 2 Dog Playgrounds - adjacent short fenced dog
     playgrounds separated by size of dog - large or small so they can run around and play together.
     It looks like everybody who can brings their dogs here to play
-- [Chapultepec Zoo](https://maps.app.goo.gl/WHD2M6AmmHkm9QNB7)
 
 ### Restaurants in Mexico City
 
