@@ -313,7 +313,7 @@ it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restauran
   though, and of course they have a GNC but it's more expensive.
   Just don't eat at the food court, it's all the usual lowest quality food chains
 - [Parque Delta](https://maps.app.goo.gl/5Xg5A2x1yMLQiRR69) - good sized mall, includes a food court and a
-  [Nutrisa](https://maps.app.goo.gl/B93nRvZhLdrsyigP8)
+  [Nutrisa](https://maps.app.goo.gl/B93nRvZhLdrsyigP8) as well as a GNC (but Nutrisa is cheaper for supplements)
 - [Pabellón Cuauhtémoc](https://maps.app.goo.gl/GYHoPwhsAWHBRF8t6) - small mall, but has a
   [Nutrisa](https://maps.app.goo.gl/hbxj4z9ZKtJtsMPC8) health food shop and useful if you need a free toilet stop
 - [El Rincón Tapatío Bar](https://maps.app.goo.gl/bEapbJyGwnR4tq2e9) - affordable food, good maracuya (passionfruit) juice.
