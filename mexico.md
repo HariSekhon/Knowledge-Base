@@ -219,8 +219,9 @@ Areas NOT recommended:
   - [Lago de los Patos](Lago de los Patos) - pond with birds
   - [Foro Lindbergh](https://maps.app.goo.gl/8UfEBTtmubgWDpmdA) - large open playground, people play sports, hang out
     and there was even a salsa dancing class on the side of it when I went
-  - Dog Playgrounds - there are 2 adjacent short fenced dog playgrounds separated by size of dog - large or small so
-    they can run around and play together. It looks like everybody who can brings their dogs here to play
+  - [Para Perros Park](https://maps.app.goo.gl/BjooGxxchNS3qZE57) - 2 Dog Playgrounds - adjacent short fenced dog
+    playgrounds separated by size of dog - large or small so they can run around and play together.
+    It looks like everybody who can brings their dogs here to play
 - [Chapultepec Zoo](https://maps.app.goo.gl/WHD2M6AmmHkm9QNB7)
 
 ### Restaurants in Mexico City
