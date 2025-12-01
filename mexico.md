@@ -230,8 +230,9 @@ it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restauran
   seafood speciality [La Morenita De Medellín](https://maps.app.goo.gl/qpxdA1QhzPcHoXJL6)
   - [Las Tablas Roma](https://maps.app.goo.gl/cF4sSBvLGnjPuj8v6) - The arrachera skirt steak main dish is good,
     large, and very reasonably priced at 160 pesos - it comes with azteca (cactus, onions and chillis) - although you
-    could choose salad or vegetables or quesadilla or huarache instead. It also comes with a pot of beans with a little
-    cheese in it, and 3 different chilli salsas and 8 tortillas to assemble your own combinations.
+    could choose salad or vegetables or quesadilla or huarache instead.
+    It comes with 8 tortillas, a pot of beans with a some
+    cheese in it, and 3 different chilli salsas - assemble your own combinations!
     This is a good full meal.
     They also have the usual mexican drinks - Jamaica water, Tamarind, Horchata (a touch to sweet IMO, but put out the
     chilli fire)
