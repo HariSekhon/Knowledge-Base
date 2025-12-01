@@ -345,7 +345,8 @@ it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restauran
   One of these would never be sustained in most of Mexico City
 - [Oxxo](https://www.google.com/maps/search/oxxo/@19.4245556,-99.1717624,15z) - convenience stores throughout the
   central area of Mexico CIty, cheaper than Circle K or 7 Eleven - at least for my Yoplait drinking yoghurts!
-- [Walmart Express Pachuca](https://maps.app.goo.gl/LQutKK8CYc2MRuWb8) - convenience in Condesa
+- [Walmart Express Michoacán](https://maps.app.goo.gl/E57hgyt7LDiv2xKKA) /
+  [Walmart Express Pachuca](https://maps.app.goo.gl/LQutKK8CYc2MRuWb8) - convenience in Condesa
 - [Body Performance Condesa](https://maps.app.goo.gl/1HfPBupBkiwqaETN8) - vitamin & supplement store
 
 Not Recommended:
