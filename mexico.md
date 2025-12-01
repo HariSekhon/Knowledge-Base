@@ -215,6 +215,7 @@ Areas NOT recommended:
   - [Museo Nacional de Antropología](https://maps.app.goo.gl/LEn9jrtdnrYdYgm67)
 - Historic Centre:
   - [National Palace](https://maps.app.goo.gl/Fw9nAKWmqxyi41Eb8)
+  - [Mexico City Metropolitan Cathedral](https://maps.app.goo.gl/fHYNCeSfhL7LAHKp7)
   - [Constitution Plaza](https://maps.app.goo.gl/UeAtRD3UTTG58FZk9)
   - [National Museum of World Cultures](https://maps.app.goo.gl/bVAXnfzFmN1kMuSb6
   - [Museo de la Ciudad de Mexico](https://maps.app.goo.gl/EkuVS66CVs93h1Zv5)
