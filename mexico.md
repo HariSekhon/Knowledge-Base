@@ -206,6 +206,17 @@ Areas NOT recommended:
   eat, and you'll probably get mugged as it doesn't have the high footfall of the historic centre area
 - probably any other area of Mexico City
 
+### Attractions in Mexico City
+
+- [Parque México](https://maps.app.goo.gl/7adKx8KA5eUoPXEW6) - the best park in Mexico City, in the best area, the leafy
+  Condesa suburb full of gentrified coffee shops & restaurants
+  - [Juegos infantiles Parque México](https://maps.app.goo.gl/kFFYnfiASz3BqEYd8) - children's playground full of
+    climbing toys
+  - [Gimnasio al aire libre](https://maps.app.goo.gl/AxKEpwESv7iWtqzeA) - free open-air gym. Do some pull ups bro
+  - [Lago de los Patos](Lago de los Patos) - pond with birds
+  - [Foro Lindbergh](https://maps.app.goo.gl/8UfEBTtmubgWDpmdA) - large open playground, people play sports, hang out
+    and there was even a salsa dancing class on the side of it when I went
+
 ### Restaurants in Mexico City
 
 <!--
