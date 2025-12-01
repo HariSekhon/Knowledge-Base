@@ -221,6 +221,9 @@ There are lots of monuments, museums and other attractions befitting a large maj
   - [Constitution Plaza](https://maps.app.goo.gl/UeAtRD3UTTG58FZk9)
   - [National Museum of World Cultures](https://maps.app.goo.gl/bVAXnfzFmN1kMuSb6)
   - [Museo de la Ciudad de Mexico](https://maps.app.goo.gl/EkuVS66CVs93h1Zv5)
+  - [Museo Franz Mayer](https://maps.app.goo.gl/VCdRgMqmzZ4L1WMt5)
+  - [Museo Nacional de Arquitectura](https://maps.app.goo.gl/ZLXJ2PynMDn8z4jU7)
+  - [Hemiciclo a Juarez](Hemiciclo a Juarez) - neoclassical marble monument with roman/greek-style columns
 - [Monumento a Simon Bolivar (Obelisco y Fuente)](https://maps.app.goo.gl/D25UoH7uMyK7GB5W6)
 - [Parque México](https://maps.app.goo.gl/7adKx8KA5eUoPXEW6) - the best park in Mexico City, in the best area, the leafy
   Condesa suburb full of gentrified coffee shops & restaurants
