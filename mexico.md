@@ -225,7 +225,8 @@ There are lots of monuments, museums and other attractions befitting a large maj
   - [Museo Nacional de Arquitectura](https://maps.app.goo.gl/ZLXJ2PynMDn8z4jU7)
   - [Hemiciclo a Juarez](Hemiciclo a Juarez) - neoclassical marble monument with roman/greek-style columns
   - [Monument to the Revolution](https://maps.app.goo.gl/YE9w76ALCsqKZ8cZ9)
-  - [Monument to Mothers](https://maps.app.goo.gl/XZqYq56r81pJ5ywr5)
+- [Monument to Mothers](https://maps.app.goo.gl/XZqYq56r81pJ5ywr5)
+- [Paseo de la Reforma](https://maps.app.goo.gl/jtWCm3BYaxsQFkKG6)
 - [Monumento a Simon Bolivar (Obelisco y Fuente)](https://maps.app.goo.gl/D25UoH7uMyK7GB5W6)
 - [Parque México](https://maps.app.goo.gl/7adKx8KA5eUoPXEW6) - the best park in Mexico City, in the best area, the leafy
   Condesa suburb full of gentrified coffee shops & restaurants
