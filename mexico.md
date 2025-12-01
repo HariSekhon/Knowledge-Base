@@ -367,7 +367,10 @@ TODO:
 
 - [Medellín Market](https://maps.app.goo.gl/wbJjVTLyDyqBKRiy7):
   - [La Morenita De Medellín](https://maps.app.goo.gl/gRKNhnX2wexqCM9e8) - seafood speciality semi-restaurant in the
-  - [El Hidalguense](https://maps.app.goo.gl/ZRNECgNfQoJ4Cajz7) - 4.4 busy mexican restaurant outside the Medellín Market
+  - [El Hidalguense](https://maps.app.goo.gl/ZRNECgNfQoJ4Cajz7) - 4.4 busy mexican restaurant outside the Medellín
+    Market
+- Roma North:
+  - [Naar Mediterranean Grill](https://maps.app.goo.gl/LMiDwFkdHkv1sRQg7) - 4.9
 - Condesa / Parque Mexico:
   - [Tacos Monterregios](https://maps.app.goo.gl/fCGkzFUx6GGEWt5L7) - 4.9
   - [Shaka 808 Condesa "Hawaiian Poké & Sushi Bowls"](https://maps.app.goo.gl/Yy5nWqxUeJrR3bbt6) - 4.7
