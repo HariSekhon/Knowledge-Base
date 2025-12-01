@@ -382,6 +382,7 @@ TODO:
   - [Constela Café](https://maps.app.goo.gl/ARRmGiSXoQEzS7Mt8) - 4.0 popular gentrified cafe, probably scored down on
     price
   - [San Petter La Roma](https://maps.app.goo.gl/uBFCvArYNtCgJtfm7) - 4.6
+  - [Cuina](https://maps.app.goo.gl/BuXZPQi4RdYnnDs9A) - 4.6
   - [Naar Mediterranean Grill](https://maps.app.goo.gl/LMiDwFkdHkv1sRQg7) - 4.9
 - Condesa / Parque Mexico:
   - [Tacos Monterregios](https://maps.app.goo.gl/fCGkzFUx6GGEWt5L7) - 4.9
