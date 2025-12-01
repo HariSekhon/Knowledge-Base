@@ -259,8 +259,9 @@ it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restauran
   Probably drops to 4.4 due to the cost which is similar to Western prices so expensive for locals.
   Wifi 48/48 Mbit/s
 - [Sede Café Río Lerma](https://maps.app.goo.gl/zRZXCF39EZRcSxDv5) /
-  [Sede Café Orizaba](https://maps.app.goo.gl/Pgicva2r4zNxteSU6) - decent coffee chain. I can't decide if their chai
-  latte was perfectly sweet or 5% too sweet, it depends on how naughty I'm feeling.
+  [Sede Café Orizaba](https://maps.app.goo.gl/Pgicva2r4zNxteSU6) /
+- [Sede Café Montes de Oca](https://maps.app.goo.gl/kgGJku4ZL4ftnQ9G6) (Condesa) - decent coffee chain. I can't decide
+  if their chai latte is perfectly sweet or 5% too sweet, it depends on how naughty I'm feeling.
   Similar with their taro latte, but I prefer their chai latte.
   One downside is that many of them have no seating at all.
   The one in Rome North (Orizaba) does have a small amount of seating.
