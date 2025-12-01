@@ -366,6 +366,7 @@ TODO:
   - [El Hidalguense](https://maps.app.goo.gl/ZRNECgNfQoJ4Cajz7) - 4.4 busy mexican restaurant outside the Medellín Market
 - Condesa / Parque Mexico:
   - [El Pescadito Roma](https://maps.app.goo.gl/vN2hf2zu2ffqm7Nv9) - 4.5 taco restaurant
+  - [La Buena Birria MX](https://maps.app.goo.gl/Cr6NKqsG4B6wbyp76) - 4.5 mexican
 - [Tacos "Los especiales"](https://maps.app.goo.gl/xDmxYTHPqu9FACMS9) - 4.6 street tacos
 - [Tacos Monterregios](https://maps.app.goo.gl/tpr3Nq6gWw4jNF8UA) - 4.9
 - [Tacos del Valle (Roma Norte)](https://maps.app.goo.gl/zNF31XMP2DWizgYP9) - 4.4 but always a big queue for this place
