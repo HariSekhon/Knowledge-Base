@@ -225,6 +225,19 @@ try it whenever you can as it's so cheap -
 it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restaurant meal.
 
 - [Roma North Market](https://maps.app.goo.gl/8MzGJZdHLUeBHAyDA) - daytime street food as well as market
+- [Medellín Market](https://maps.app.goo.gl/wbJjVTLyDyqBKRiy7) - great variety of fresh fruit & vegs, chillis, meats,
+  random products and a few good food stalls / semi-restaurants like the meat speciality Las Tablas Roma below and the
+  seafood speciality [La Morenita De Medellín](https://maps.app.goo.gl/qpxdA1QhzPcHoXJL6)
+  - [Las Tablas Roma](https://maps.app.goo.gl/cF4sSBvLGnjPuj8v6) - The arrachera skirt steak main dish is good,
+    large, and very reasonably priced at 160 pesos - it comes with azteca (cactus, onions and chillis) - although you
+    could choose salad or vegetables or quesadilla or huarache instead. It also comes with a pot of beans with a little
+    cheese in it, and 3 different chilli salsas and 8 tortillas to assemble your own combinations.
+    This is a good full meal.
+    They also have the usual mexican drinks - Jamaica water, Tamarind, Horchata (a touch to sweet IMO, but put out the
+    chilli fire)
+    Their Strawberries with cream dessert for 65 pesos was the best dessert I've had in a while, and while it comes in a
+    plastic cup with the strawberries swimming in the cream, the cream itself has the perfect complimentary sweetness,
+    I really really enjoyed this dessert! It's also 1/3 of the price of desserts in restaurants
 - [Tacos "Don Chuy"](https://maps.app.goo.gl/cFDsKSNUdNY64Vyd6) - the best taco high quality acherera skirt steak, this
   can’t be beat for 30 pesos.
   The second time I went I tried the argentinian chorizo sausage on the advice of a local there, but I think this is
@@ -270,9 +283,6 @@ it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restauran
   he said he thought I asked for oat milk which I clearly didn't, perhaps an honest mistake and language barrier, but
   something to watch out for though as many people in Mexico try to overcharge you if they can.
   He refunded this cash and the chai latte arrived made with normal milk at the same time anyway, hmmm...
-- [El Rincón Tapatío Bar](https://maps.app.goo.gl/bEapbJyGwnR4tq2e9) - affordable food, good maracuya (passionfruit) juice.
-  The arrachera (skirt steak) is served with cucumber and tacos as well as a selection of guacamole, limes and sauces.
-  Ok for its price point at 180 pesos
 - [Reforma222](https://maps.app.goo.gl/4QR1kPuyrDWttvv69) - decent mid sized mall with the usual clothing brands,
   a food court with good variety, and free toilets, their Nutrisa has a much smaller selection than the other ones
   though, and of course they have a GNC but it's more expensive.
@@ -281,6 +291,9 @@ it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restauran
   [Nutrisa](https://maps.app.goo.gl/B93nRvZhLdrsyigP8)
 - [Pabellón Cuauhtémoc](https://maps.app.goo.gl/GYHoPwhsAWHBRF8t6) - small mall, but has a
   [Nutrisa](https://maps.app.goo.gl/hbxj4z9ZKtJtsMPC8) health food shop and useful if you need a free toilet stop
+- [El Rincón Tapatío Bar](https://maps.app.goo.gl/bEapbJyGwnR4tq2e9) - affordable food, good maracuya (passionfruit) juice.
+  The arrachera (skirt steak) is served with cucumber and tacos as well as a selection of guacamole, limes and sauces.
+  Ok for its price point at 180 pesos
 - [Taqueria Las Rejas](https://maps.app.goo.gl/7FKTnqpCbyk99r4D6) - 11 pesos tacos, not the best but at this price, it's
   no surprise that it is so busy!
 - [Tacos Domingo - Pacheco](https://maps.app.goo.gl/PRaTDctSWiWSoAk69) - ~40 pesos for a taco and 50 pesos for a
