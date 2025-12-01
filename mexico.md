@@ -370,6 +370,7 @@ TODO:
   - [El Hidalguense](https://maps.app.goo.gl/ZRNECgNfQoJ4Cajz7) - 4.4 busy mexican restaurant outside the Medellín
     Market
 - Roma North:
+  - [Taquería Álvaro Obregón](https://maps.app.goo.gl/fPrx2Z5T8AcpPK8q8) - recommended by a local, affordable
   - [Naar Mediterranean Grill](https://maps.app.goo.gl/LMiDwFkdHkv1sRQg7) - 4.9
 - Condesa / Parque Mexico:
   - [Tacos Monterregios](https://maps.app.goo.gl/fCGkzFUx6GGEWt5L7) - 4.9
@@ -394,7 +395,6 @@ TODO:
 - [Don Asado Rio Lerma](https://maps.app.goo.gl/QPrGkg4yJFk1uLuC7) - 4.5 Uruguayan restaurant
 - [Helado Bonito](https://maps.app.goo.gl/X51XeF1sYddJzPqV7) /
   [Helados Carmela](https://maps.app.goo.gl/4MRswZdoxUTSimJDA) - 4.7 - 4.9 ice cream chain
-- [Naar Mediterranean Grill](https://maps.app.goo.gl/xpgatzUNgMePiGYn6) - 4.9
 - [JAYI Restaurante](https://maps.app.goo.gl/1qem6rTAvV9M2w7z7) - 4.6
 
 ## Oaxaca City
