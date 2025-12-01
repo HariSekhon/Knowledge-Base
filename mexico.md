@@ -376,6 +376,7 @@ TODO:
   - [Ice Cream Nation](https://maps.app.goo.gl/jykk2SGCekmGxQ8F7) - 4.4
   - [Mygyo](https://maps.app.goo.gl/iDhKmPUyZSKNeLmKA) - 4.4 ice cream
   - [Plonk](https://maps.app.goo.gl/V7eJ5W9xbiM878KB7) - 4.5 restaurant
+  - [Santas Conchas Condesa](https://maps.app.goo.gl/PZM8bJXzDNUG4Nyp8) - 4.5 restaurant
 - [Tacos "Los especiales"](https://maps.app.goo.gl/xDmxYTHPqu9FACMS9) - 4.6 street tacos
 - [Tacos Monterregios](https://maps.app.goo.gl/tpr3Nq6gWw4jNF8UA) - 4.9
 - [Tacos del Valle (Roma Norte)](https://maps.app.goo.gl/zNF31XMP2DWizgYP9) - 4.4 but always a big queue for this place
