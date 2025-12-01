@@ -372,6 +372,7 @@ TODO:
   - [La Morenita De Medellín](https://maps.app.goo.gl/gRKNhnX2wexqCM9e8) - seafood speciality semi-restaurant in the
   - [El Hidalguense](https://maps.app.goo.gl/ZRNECgNfQoJ4Cajz7) - 4.4 busy mexican restaurant outside the Medellín
     Market
+- [Puerto Viejo Mariscos](https://maps.app.goo.gl/Et1W9spULq9RfpRd9) - popular seafood restaurant
 - Roma North:
   - [Taquería Álvaro Obregón](https://maps.app.goo.gl/fPrx2Z5T8AcpPK8q8) - 4.2 recommended by a local, affordable
   - [Kiyo Café](https://maps.app.goo.gl/dRa6HwPpuUvaEgG6A) - 4.6
