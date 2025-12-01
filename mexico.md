@@ -224,7 +224,7 @@ There is lots of street food around Mexico City though as a tiny fraction of the
 try it whenever you can as it's so cheap -
 it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restaurant meal.
 
-- [Roma North Market](https://maps.app.goo.gl/8MzGJZdHLUeBHAyDA) - good street food at affordable prices
+- [Roma North Market](https://maps.app.goo.gl/8MzGJZdHLUeBHAyDA) - daytime street food as well as market
 - [Tacos "Don Chuy"](https://maps.app.goo.gl/cFDsKSNUdNY64Vyd6) - the best taco high quality acherera skirt steak, this
   can’t be beat for 30 pesos.
   The second time I went I tried the argentinian chorizo sausage on the advice of a local there, but I think this is
@@ -305,6 +305,7 @@ it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restauran
   One of these would never be sustained in most of Mexico City
 - [Oxxo](https://www.google.com/maps/search/oxxo/@19.4245556,-99.1717624,15z) - convenience stores throughout the
   central area of Mexico CIty, cheaper than Circle K or 7 Eleven - at least for my Yoplait drinking yoghurts!
+- [Walmart Express Pachuca](https://maps.app.goo.gl/LQutKK8CYc2MRuWb8) - convenience in Condesa
 
 Not Recommended:
 
@@ -320,6 +321,7 @@ Not Recommended:
 
 TODO:
 
+- [Tacos Monterregios](https://maps.app.goo.gl/tpr3Nq6gWw4jNF8UA) - 4.9
 - [Tacos del Valle (Roma Norte)](https://maps.app.goo.gl/zNF31XMP2DWizgYP9) - 4.4 but always a big queue for this place
   in the evenings
 - [AlmaMía Restaurante](https://maps.app.goo.gl/YAYFe2mNZoYpDrKY9) - 4.9 Mexican but expensive by local standards, mains
@@ -327,7 +329,8 @@ TODO:
 - [La Carreta de Juana (Rio Lerma)](https://maps.app.goo.gl/TYr1Ko9DP2UwU26p7) - 4.9 seafood restaurant
 - [Daikoku](https://maps.app.goo.gl/QKcUUbuoLoQNf5rg6) - 4.4 Japanese
 - [Don Asado Rio Lerma](https://maps.app.goo.gl/QPrGkg4yJFk1uLuC7) - 4.5 Uruguayan restaurant
-- [Helados Carmela](https://maps.app.goo.gl/4MRswZdoxUTSimJDA) - 4.7 ice cream
+- [Helado Bonito](https://maps.app.goo.gl/X51XeF1sYddJzPqV7) /
+  [Helados Carmela](https://maps.app.goo.gl/4MRswZdoxUTSimJDA) - 4.7 - 4.9 ice cream chain
 - [Naar Mediterranean Grill](https://maps.app.goo.gl/xpgatzUNgMePiGYn6) - 4.9
 - [JAYI Restaurante](https://maps.app.goo.gl/1qem6rTAvV9M2w7z7) - 4.6
 
