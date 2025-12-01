@@ -217,7 +217,7 @@ Areas NOT recommended:
   - [National Palace](https://maps.app.goo.gl/Fw9nAKWmqxyi41Eb8)
   - [Mexico City Metropolitan Cathedral](https://maps.app.goo.gl/fHYNCeSfhL7LAHKp7)
   - [Constitution Plaza](https://maps.app.goo.gl/UeAtRD3UTTG58FZk9)
-  - [National Museum of World Cultures](https://maps.app.goo.gl/bVAXnfzFmN1kMuSb6
+  - [National Museum of World Cultures](https://maps.app.goo.gl/bVAXnfzFmN1kMuSb6)
   - [Museo de la Ciudad de Mexico](https://maps.app.goo.gl/EkuVS66CVs93h1Zv5)
 - [Monumento a Simon Bolivar (Obelisco y Fuente)](https://maps.app.goo.gl/D25UoH7uMyK7GB5W6)
 - [Parque México](https://maps.app.goo.gl/7adKx8KA5eUoPXEW6) - the best park in Mexico City, in the best area, the leafy
