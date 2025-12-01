@@ -365,7 +365,7 @@ TODO:
   - [La Morenita De Medellín](https://maps.app.goo.gl/gRKNhnX2wexqCM9e8) - seafood speciality semi-restaurant in the
   - [El Hidalguense](https://maps.app.goo.gl/ZRNECgNfQoJ4Cajz7) - 4.4 busy mexican restaurant outside the Medellín Market
 - Condesa / Parque Mexico:
-  - [El Pescadito Roma](https://maps.app.goo.gl/vN2hf2zu2ffqm7Nv9) - taco restaurant
+  - [El Pescadito Roma](https://maps.app.goo.gl/vN2hf2zu2ffqm7Nv9) - 4.5 taco restaurant
 - [Tacos "Los especiales"](https://maps.app.goo.gl/xDmxYTHPqu9FACMS9) - 4.6 street tacos
 - [Tacos Monterregios](https://maps.app.goo.gl/tpr3Nq6gWw4jNF8UA) - 4.9
 - [Tacos del Valle (Roma Norte)](https://maps.app.goo.gl/zNF31XMP2DWizgYP9) - 4.4 but always a big queue for this place
