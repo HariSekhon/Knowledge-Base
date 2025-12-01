@@ -379,7 +379,8 @@ TODO:
   - [Supra Roma Rooftop](https://maps.app.goo.gl/KxB4jUb1GrudkqRTA) - 4.5 fusion, cocktails, DJ, view
   - [Butcher & Sons Roma](https://maps.app.goo.gl/1qKhvmzbQmp81jHx9) - 4.4 burger restaurant
   - [Panadería Rosetta](https://maps.app.goo.gl/Ut5uTiMMs5KzRgug8) - 4.5 bakery
-  - [Constela Café](https://maps.app.goo.gl/ARRmGiSXoQEzS7Mt8) - 4.0 popular cafe, probably scored down on price
+  - [Constela Café](https://maps.app.goo.gl/ARRmGiSXoQEzS7Mt8) - 4.0 popular gentrified cafe, probably scored down on
+    price
   - [Naar Mediterranean Grill](https://maps.app.goo.gl/LMiDwFkdHkv1sRQg7) - 4.9
 - Condesa / Parque Mexico:
   - [Tacos Monterregios](https://maps.app.goo.gl/fCGkzFUx6GGEWt5L7) - 4.9
