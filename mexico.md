@@ -221,6 +221,7 @@ Areas NOT recommended:
     and there was even a salsa dancing class on the side of it when I went
   - Dog Playgrounds - there are 2 adjacent short fenced dog playgrounds separated by size of dog - large or small so
     they can run around and play together. It looks like everybody who can brings their dogs here to play
+- [Chapultepec Zoo](https://maps.app.goo.gl/WHD2M6AmmHkm9QNB7)
 
 ### Restaurants in Mexico City
 
