@@ -408,6 +408,16 @@ it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restauran
 - [Walmart Express Michoacán](https://maps.app.goo.gl/E57hgyt7LDiv2xKKA) /
   [Walmart Express Pachuca](https://maps.app.goo.gl/LQutKK8CYc2MRuWb8) - convenience in Condesa
 - [Body Performance Condesa](https://maps.app.goo.gl/1HfPBupBkiwqaETN8) - vitamin & supplement store
+- [Latte Latte](https://maps.app.goo.gl/XmJF3LBzagNy4J3y6) - decent, but slightly more expensive coffee shop in
+  La Condesa compared to Sede cafe.
+  I wouldn't go out of my way for it.
+  Has wifi
+- [Tacos de Ciudad](https://maps.app.goo.gl/jw5uWWp4aXbRVVXXA) - local taco restaurant in La Condesa - 30 pesos per
+  taco.
+  The bistec (beef) tacos are worthwhile, and there is a good rack of chili salsas and limes.
+  The chilaquiles was too hot in both temperature and spice for me to enjoy,
+  I'd skip that next time as not worthwhile, stick to the bistec tacos here.
+  I wouldn't go out of my way to this place, but if you're in the area, it's a reason taco stop
 
 Not Recommended:
 
