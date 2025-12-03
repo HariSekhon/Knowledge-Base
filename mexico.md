@@ -334,6 +334,17 @@ it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restauran
   The place is well decorated with a large TV playing K-pop and a selection of Korean products ranging from drinks to
   ramen packets.
   Wifi 141/113 Mbit/s
+- [Cabanna](https://maps.app.goo.gl/xDGUauwZERVXxJRX7) - good venue in the upmarket Polanco area, with good music and
+  good menu, upmarket chain specializing in seafood.
+  The mango aguachile was very mild despite a 2 chili sign on the menu.
+  Even the more spicy green salsa wasn’t that spicy -
+  everything is toned down. This is not really representative of Mexico -
+  it's for tourists who have a false sense of their ability to eat chilli and don’t want to be shown up.
+  The legit places in Cancun downtown I recommended are the real deal by comparison.
+  They do have blue fin tuna tostada which is worth a try,
+  and their chocolate cake with ice cream dessert is really good with a contrast of the hot chocolate sponge vs vanilla ice
+  cream.
+  Has wifi
 - [Bobo Burgers & Café (Roma Norte)](https://maps.app.goo.gl/GubbEYFwrFVQbnu1A) - there are two menus - a
   burger restaurant menu, and a cafe menu which also has an acai bowl.
   The spicy burger was good, like an good quality fast food burger.
