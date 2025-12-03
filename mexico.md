@@ -343,7 +343,7 @@ it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restauran
   The legit places in Cancun downtown I recommended are the real deal by comparison.
   They do have blue fin tuna tostada which is worth a try,
   and their chocolate savarin dessert is really good with a contrast of the hot chocolate sponge vs vanilla ice
-  cream - totally worth the damage.
+  cream - one of the best dessert I'd had recently - totally worth the damage.
   Has wifi
 - [Bobo Burgers & Café (Roma Norte)](https://maps.app.goo.gl/GubbEYFwrFVQbnu1A) - there are two menus - a
   burger restaurant menu, and a cafe menu which also has an acai bowl.
