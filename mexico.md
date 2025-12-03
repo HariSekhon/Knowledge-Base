@@ -387,9 +387,9 @@ it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restauran
   (where the actors and actresses looked european).
   This is not a great neighbourhood but if you happen to find yourself in this part of town then it's not a bad stop
 - [Colima street in Roma North](https://maps.app.goo.gl/RBAtz28x3nsBgexG7) - several well rated restaurants on this road
-- [Joe & The Juice Roma](https://maps.app.goo.gl/jGMwq4SziCeonSey6) - the usual overpriced international juice chain -
-  but we pay it because it's tasty - its presence in Roma North is a sign of its gentrification!
-  One of these would never be sustained in most of Mexico City
+- [Joe & The Juice Roma](https://maps.app.goo.gl/jGMwq4SziCeonSey6) - international juice chain -
+  slightly less overpriced here than in the West - its presence in Roma North is a sign of its gentrification!
+  One of these would never be sustained in most areas of Mexico City
 - [Oxxo](https://www.google.com/maps/search/oxxo/@19.4245556,-99.1717624,15z) - convenience stores throughout the
   central area of Mexico CIty, cheaper than Circle K or 7 Eleven - at least for my Yoplait drinking yoghurts!
 - [JOi Dollar Plus | MB Durango](https://maps.app.goo.gl/daUaXgi5zKr8pqJDA) - if you need a padlock, cable lock or
