@@ -1330,16 +1330,20 @@ this was the difference between 80-90 hour s and 2-3 hours projected completion 
 system_profiler SPUSBDataType
 ```
 
-Particular output lines to pay attention to will include the USB version number:
+Look at the difference a cable difference can make with identical model SanDisk Extreme Pro SSD disks:
 
-```text
-USB 3.1 Bus
+```shell
+system_profiler SPUSBDataType | grep -e Bus -e Speed -e Manufacturer
 ```
 
-which determines the maximum bus transfer speed, which you can verify on another output line such as:
-
 ```text
-Speed: Up to 5 Gb/s
+    USB 3.1 Bus:
+          Speed: Up to 480 Mb/s
+          Manufacturer: SanDisk
+    USB 3.1 Bus:
+          Speed: Up to 10 Gb/s
+          Manufacturer: SanDisk
+    USB 3.1 Bus:
 ```
 
 #### Disk Management Tutorials
