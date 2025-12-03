@@ -336,7 +336,9 @@ it ranges from 15-30 pesos per taco, compared to hundreds of pesos per restauran
   ramen packets.
   Wifi 141/113 Mbit/s
 - [Cabanna](https://maps.app.goo.gl/xDGUauwZERVXxJRX7) - good venue in the upmarket Polanco area, with good music and
-  good menu, upmarket chain specializing in seafood.
+  good menu, upmarket boutique chain specializing in seafood - there are a handful of these restaurants.
+  The menu is very well done - each section has a QR code to see pictures of all the dishes more than can fit on a
+  regular menu, which helps you to choose.
   The mango aguachile was very mild despite a 2 chili sign on the menu.
   Even the more spicy green salsa wasn’t that spicy -
   everything is toned down. This is not really representative of Mexico -
