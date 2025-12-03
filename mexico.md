@@ -761,7 +761,7 @@ spread the load to InDrive so I saved more than half the cost!
 
 ATMs in Cancun often offer both Mexican pesos and US dollars.
 ATMs in Mexico City do not do this so consider taking the time to replenish your USD reserves as they are often accepted
-by street vendors, taxi drivers etc.
+by street vendors, taxi drivers etc as a backup.
 
 The Santander ATM in the ADO bus station charged 35 pesos (€1.60) commission when withdrawing 2500 pesos, which was
 reasonable compared to ATMs in other countries.
