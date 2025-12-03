@@ -462,6 +462,9 @@ TODO:
   - [Plonk](https://maps.app.goo.gl/V7eJ5W9xbiM878KB7) - 4.5 restaurant
   - [Santas Conchas Condesa](https://maps.app.goo.gl/PZM8bJXzDNUG4Nyp8) - 4.5 restaurant
   - [Azul Condesa](https://maps.app.goo.gl/PHSuVYY531LvWeus5) - 4.4, bit pricey
+- Polanco:
+  - [La Casa de Toño en Polanco](https://maps.app.goo.gl/x3YNJtbz74sQBPFa6) - 4.5 affordable
+  - [El Rey del Suadero](https://maps.app.goo.gl/nQWJZeiqYBJgiGTX7) - 4.2 street tacos locals eat
 - [Tacos "Los especiales"](https://maps.app.goo.gl/xDmxYTHPqu9FACMS9) - 4.6 street tacos
 - [Tacos Monterregios](https://maps.app.goo.gl/tpr3Nq6gWw4jNF8UA) - 4.9
 - [Tacos del Valle (Roma Norte)](https://maps.app.goo.gl/zNF31XMP2DWizgYP9) - 4.4 but always a big queue for this place
