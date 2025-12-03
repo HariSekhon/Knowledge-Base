@@ -2,7 +2,7 @@
 
 <!-- INDEX_START -->
 
-- [Mexico Summary](#mexico-summary)
+- [Summary](#summary)
 - [Airline Check-in & Immigration Control](#airline-check-in--immigration-control)
 - [Spanish Crash Course](#spanish-crash-course)
 - [Mexican Food](#mexican-food)
@@ -39,7 +39,7 @@
 
 <!-- INDEX_END -->
 
-## Mexico Summary
+## Summary
 
 It's basically America, but with slightly more Mexicans and - if you eat street food - lower prices.
 
