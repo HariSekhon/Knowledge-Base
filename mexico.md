@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [Mexico Summary](#mexico-summary)
 - [Airline Check-in & Immigration Control](#airline-check-in--immigration-control)
 - [Spanish Crash Course](#spanish-crash-course)
 - [Mexican Food](#mexican-food)
