@@ -41,7 +41,8 @@
 
 ## Summary
 
-It's basically America, but with slightly more Mexicans and - if you eat street food - lower prices.
+It's basically America, but with slightly more Mexicans and - if you eat street food - lower prices (just not if you eat
+in restaurants in tourist areas).
 
 You'll see many of the usual American big chains, Walmarts, Sears, Office Depot... etc...
 never mind the junk food chains that have taken over the world all the way through to Asia.
