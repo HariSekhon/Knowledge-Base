@@ -205,6 +205,9 @@ either not picking up at the same price or offering higher prices.
 
 These are the 3 gentrified areas in Mexico City:
 
+- [Polanco](https://maps.app.goo.gl/f9tLUFhEHhBK4qmv7) - apparently the most expensive area in Latin America according
+  to a local - international shops and expensive restaurants -
+  the Mexican equivalent of Beverley Hills - more expensive than warranted
 - [La Condesa](https://maps.app.goo.gl/AYzRXpYyRbBsqhxJ8) - the best gentrified area in Mexico City, this is where the
   white people and foreigners are.
   It's full of gentrified cafes and restaurants charging 3-5x the street food prices, it's a leafy neighbourhood with
@@ -214,8 +217,6 @@ These are the 3 gentrified areas in Mexico City:
   This is the Mexican equivalent of Holland Park in London
 - [Roma Norte](https://maps.app.goo.gl/Pi5H7pBgVLQVAXDM8) - the other best area of restaurants and bars where foreigners
   and yuppies congregate
-- [Polanco](https://maps.app.goo.gl/f9tLUFhEHhBK4qmv7) - upmarket shopping district, apparently the most expensive area
-  in Latin America according to a local but I found it less lush than Condesa
 - [Colonia Buenos Aires](https://maps.app.goo.gl/kX8VDEEU1ff7NK317) - much less upmarket than the other areas above but
   it does have Parque Delta Mall
 
