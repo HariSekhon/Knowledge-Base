@@ -691,6 +691,12 @@ diskutil list
 system_profiler SPStorageDataType
 ```
 
+USB Info (for external USD backup disks):
+
+```shell
+system_profiler SPUSBDataType
+```
+
 Graphics card:
 
 ```shell
