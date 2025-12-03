@@ -38,6 +38,25 @@
 
 <!-- INDEX_END -->
 
+## Mexico Summary
+
+It's basically America, but with slightly more Mexicans and - if you eat street food - lower prices.
+
+You'll see many of the usual American big chains, Walmarts, Sears, Office Depot... etc...
+never mind the junk food chains that have taken over the world all the way through to Asia.
+
+You will need to learn some Spanish
+just to get by or you'll be on your Google Translate app every 10 seconds as many,
+if not most, of the people don't speak English,
+which is surprising for a country neighbouring America and with so much English speaking tourism.
+
+Out of the 3 regions I've been to,
+I prefer the Yucatan Peninsula and Cancun the best as there is a good mix of terrain and things to see and do -
+although the _"Hotel Zone"_ in Cancun is a tourist trap.
+
+Oaxaca (Wahaca) is my least favourite as it's small and you can hardly find a restaurant that isn't a tourist trap -
+and the taxis are the worst there as the apps don't really work - drivers don't pick up requests).
+
 ## Airline Check-in & Immigration Control
 
 **WARNING**: the airline refused to check me in without proof of an outbound flight, I had to quickly find and book
