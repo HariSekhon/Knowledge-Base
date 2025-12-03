@@ -1330,7 +1330,8 @@ this was the difference between 80-90 hour s and 2-3 hours projected completion 
 system_profiler SPUSBDataType
 ```
 
-Look at the difference a cable difference can make with identical model SanDisk Extreme Pro SSD disks:
+Even among USB 3.1 look at the speed difference different cables can make with identical model SanDisk Extreme Pro SSD
+disks:
 
 ```shell
 system_profiler SPUSBDataType | grep -e Bus -e Speed -e Manufacturer
