@@ -66,6 +66,8 @@ Here are some highlight pages that you may want to check:
 - [![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)](docker.md)
 - [![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white)](kubernetes.md)
 
+You can find the other more specialist stuff below in the full index.
+
 ## Full Sections Index
 
 <!-- INDEX_START -->
