@@ -1,5 +1,18 @@
 # Malaysia
 
+<!-- INDEX_START -->
+
+- [Summary](#summary)
+- [Taxis in Malaysia](#taxis-in-malaysia)
+- [Kuala Lumpur](#kuala-lumpur)
+  - [Bukit Bintag](#bukit-bintag)
+  - [Chinatown](#chinatown)
+  - [Healthcare in Kuala Lumpur](#healthcare-in-kuala-lumpur)
+
+<!-- INDEX_END -->
+
+## Summary
+
 This former British colony has good English and like [UAE](#uae) even English three socket plugs.
 
 April - July is best as the weather is cooler for outdoor travel.
@@ -92,3 +105,11 @@ but nothing as busy as [Changkat](https://maps.app.goo.gl/KZMNXSDVS3gmTDHb9) in 
   The mutton curry noodles are very good, I just wish the portion size was bigger.
   The noodles are made in house, and the curry sauce was very good too, although mutton is a bit fatty.
   You can get beef rendang noodles, or with rice. The chicken BBQ buns are very good, fluffy and sweet too
+
+### Healthcare in Kuala Lumpur
+
+Malaysia is known for good quality affordable private healthcare.
+
+I have personally used the affordable private hospital Sunway for full health screenings for a mere £280 -
+a tiny fraction of the cost of wasted taxes in legacy Western socialist democracies where you don't get treated
+(looking at you UK NHS).
