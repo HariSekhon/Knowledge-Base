@@ -1,14 +1,17 @@
 # Guatemala
 
-Country in Central America just south of Mexico that uses the Guatemalan Quetzales currency.
-
 <!-- INDEX_START -->
 
+- [Summary](#summary)
 - [Guatemala City](#guatemala-city)
   - [Taxis in Guatemala City](#taxis-in-guatemala-city)
   - [Restaurants in Guatemala](#restaurants-in-guatemala)
 
 <!-- INDEX_END -->
+
+## Summary
+
+Country in Central America just south of Mexico that uses the Guatemalan Quetzales currency.
 
 ## Guatemala City
 
