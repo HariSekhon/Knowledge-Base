@@ -106,7 +106,7 @@ high taxes since WWII:
 
 [The UK Decline — What I Learnt on my UK Tour 2024](https://medium.com/@harisekhon/the-uk-decline-what-i-learnt-from-my-uk-tour-2024-84347efced9b)
 
-Feminist-socialist voting majority democracy clearly doesn't work.
+Feminist-Socialist net drain voting majority democracy clearly doesn't work.
 It would need to switch to TaxPayer Suffrage for the West to not die slowly.
 
 So until the inevitable collapse / replacement / revolution in the West...
