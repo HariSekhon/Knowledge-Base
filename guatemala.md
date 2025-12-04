@@ -33,6 +33,9 @@ which will save you time having to do it at one of the kiosks upon arrival:
 ## Guatemala City
 
 The capital.
+You will probably want to stay someone between zone 1 and zone 4, which is walkable - about a half hour from zone 1.
+
+Zone 9 is an hour south.
 
 ### Taxis in Guatemala City
 
