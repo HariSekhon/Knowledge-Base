@@ -53,6 +53,14 @@ Not Remote, but this might help:
 A person who works 100% Remote from any location they like,
 such as tropical beaches or back home with their family roots.
 
+I recommend using [Nomads.com](https://nomads.com/@harisekhon).
+
+This cool site allows you to :
+
+1. Track your travels (with cool globe graphic exportable CSV!)
+2. See which other digital nomads on the site are in your location and message and network
+3. Estimate cost of living in various popular recommended digital nomad locations around the world
+
 ## Offshore Payroll is Super Easy
 
 There's no excuse for a company to not hire someone in another country
