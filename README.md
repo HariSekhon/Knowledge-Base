@@ -59,7 +59,7 @@ Here are some highlight pages that you may want to check:
 - [![Bash](https://img.shields.io/badge/Bash-Shell-blue?logo=gnubash)](bash.md)
 - [![Git](https://img.shields.io/badge/Git-Revision%20Control-blue?logo=git)](git.md) /
   [![GitHub](https://img.shields.io/badge/GitHub-management-blue?logo=github)](github.md) /
-  [![Git](https://img.shields.io/badge/GitHub-Workflows%20CI/CD-blue?logo=github)](git.md)
+  [![GitHub Workflows](https://img.shields.io/badge/GitHub-Workflows%20CI/CD-blue?logo=github)](git.md)
 - [![IntelliJ](https://img.shields.io/badge/IntelliJ-IDE-purple?logo=intellijidea)](intellij.md) /
   [![Vim](https://img.shields.io/badge/ViM-Editor-purple?logo=vim)](vim.md)
 - [![AWS](https://img.shields.io/badge/AWS-blue?logo=)](aws.md)
