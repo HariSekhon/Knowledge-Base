@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Immigration Declaration Required](#immigration-declaration-required)
 - [Guatemala City](#guatemala-city)
   - [Taxis in Guatemala City](#taxis-in-guatemala-city)
   - [Restaurants in Guatemala City](#restaurants-in-guatemala-city)
@@ -12,6 +13,22 @@
 ## Summary
 
 Country in Central America just south of Mexico that uses the Guatemalan Quetzales currency.
+
+## Immigration Declaration Required
+
+You will need to complete a _"DJRV"_
+Regional Traveller Affidavit which is basically just a customs declaration on the goods you are bringing in to the country -
+your personal clothing, laptop etc and up to \$10,000 are exempt.
+
+This will be emailed to you and must be presented to a customers officer after immigration control,
+so there was a huge queue to get out of the baggage reclaim area after immigration control at Guamatala City's
+La Aurora airport - they actually check this and may direct you to a full baggage scan like usually only done on
+departure.
+
+You can fill it in in advance at this website,
+which will save you time having to do it at one of the kiosks upon arrival:
+
+<https://en.portal.sat.gob.gt/portal/declaracion-jurada-regional-de-viajero/>
 
 ## Guatemala City
 
