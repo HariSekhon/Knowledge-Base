@@ -270,7 +270,7 @@ There are lots of monuments, museums (too many to list) and other attractions be
   - [Para Perros Park](https://maps.app.goo.gl/BjooGxxchNS3qZE57) - 2 Dog Playgrounds - adjacent short fenced dog
     playgrounds separated by size of dog - large or small so they can run around and play together.
     It looks like everybody who can brings their dogs here to play
-- [Pushkin Garden](https://maps.app.goo.gl/oEdSfex6xmeCVMEDA) - park with a street gym on the southern end
+- [Pushkin Garden](https://maps.app.goo.gl/oEdSfex6xmeCVMEDA) - park in La Roma with a street gym on the southern end
 
 ### Restaurants in Mexico City
 
