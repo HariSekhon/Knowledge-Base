@@ -37,7 +37,7 @@ You'll probably want to stay someone between zone 1 and zone 4, which is walkabl
 
 Zone 9 is a bit further to the south, perhaps nearer an hour walk, but there is the nice
 [Avenida La Reforma](https://maps.app.goo.gl/njgMsB2P7xq9nqZF9)
-which has a central green corridor with monuments along it
+which has a central green corridor running north to south with monuments along it.
 
 ### Taxis in Guatemala City
 
