@@ -63,6 +63,8 @@ Here are some highlight pages that you may want to check:
 - [![IntelliJ](https://img.shields.io/badge/IntelliJ-IDE-purple?logo=intellijidea)](intellij.md) /
   [![Vim](https://img.shields.io/badge/ViM-Editor-purple?logo=vim)](vim.md)
 - [![AWS](https://img.shields.io/badge/AWS-blue?logo=)](aws.md)
+- [![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)](docker.md)
+- [![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white)](kubernetes.md)
 
 ## Full Sections Index
 
