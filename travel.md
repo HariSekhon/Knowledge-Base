@@ -84,7 +84,10 @@ Updated regularly as I travel the world 52 weeks a year.
   - [EU Motorway Tolls](#eu-motorway-tolls)
   - [Do Not Speed](#do-not-speed)
   - [Parking](#parking)
-- [EU Schengen Visa Calculator](#eu-schengen-visa-calculator)
+- [Travel Days Planning](#travel-days-planning)
+  - [Spreadsheet to Auto-Recalculate Dates](#spreadsheet-to-auto-recalculate-dates)
+  - [Digital Nomadding](#digital-nomadding)
+  - [EU Schengen Visa Calculator](#eu-schengen-visa-calculator)
 - [Emigration](#emigration)
   - [Taxes](#taxes)
   - [Mail Redirection](#mail-redirection)
@@ -883,15 +886,34 @@ In the Parkopedia app, once you've selected the car park you can, share it to Wa
 Do not use Waze to get to the city and then try to find parking, that's more difficult, and Waze will often send you to
 some random part of a city, which has little there.
 
-## EU Schengen Visa Calculator
+## Travel Days Planning
 
-I use a Google Sheets spreadsheet with formulas but this is also helpful.
+### Spreadsheet to Auto-Recalculate Dates
 
-This is easy to use as you just have to click your entry / exit dates:
+If you want to see how to create a spreadsheet to auto-recalculate your travel dates from just the number of days
+you want to spend there, see the [Spreadsheets](spreadsheets.md#auto-calculate-dates) page which has section explaining
+how to do this.
+
+This is super useful to:
+
+- track how many days you intend to stay in each place
+- track your dates to book flights and accommodation for
+- sum the days per country or region such as EU Schengen for visa purposes (which is cumulative across countries!)
+
+### Digital Nomadding
+
+See also [Nomads.com](https://nomads.com/@harisekon) which has some overlap with the spreadsheet above as described in
+the [Remote Working & Digital Nomad](remote-working.md#digital-nomad) digital nomad section.
+
+### EU Schengen Visa Calculator
+
+The following basic EU visa days calculator sites are also useful, in addition to the above spreadsheet.
+
+This one is easy to use as you just have to click your entry / exit dates:
 
 <https://schengenareacalculator.com/>
 
-This is less easy to use because you have to manually enter the dates:
+This one is less easy to use because you have to manually enter the dates:
 
 <https://www.visa-calculator.com/>
 
