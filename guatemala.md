@@ -5,7 +5,7 @@
 - [Summary](#summary)
 - [Guatemala City](#guatemala-city)
   - [Taxis in Guatemala City](#taxis-in-guatemala-city)
-  - [Restaurants in Guatemala](#restaurants-in-guatemala)
+  - [Restaurants in Guatemala City](#restaurants-in-guatemala-city)
 
 <!-- INDEX_END -->
 
@@ -14,6 +14,8 @@
 Country in Central America just south of Mexico that uses the Guatemalan Quetzales currency.
 
 ## Guatemala City
+
+The capital.
 
 ### Taxis in Guatemala City
 
@@ -25,7 +27,7 @@ what should be a 20 minute drive according on Google Maps.
 
 There are some others like Yango but I haven't used them.
 
-### Restaurants in Guatemala
+### Restaurants in Guatemala City
 
 - [Mr Taco](https://maps.app.goo.gl/zxM956HMyyuNMDYAA) - good and cheap - 3 tacos or 2 gringas for 30-35 GQT ($4.50).
   They have a good selection of toppings, from chilli sauces to onions to tiny pineapple cubes to finely chopped salad.
