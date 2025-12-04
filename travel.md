@@ -156,7 +156,7 @@ Country pages with specific tips for each country:
 - [Cambodia](cambodia.md)
 - [Indonesia](indonesia.md) ⭐
 - [Laos](laos.md)
-- [Malaysia](malaysia.md)
+- [Malaysia](malaysia.md) ⭐
 - [Philippines](philippines.md)
 - [Singapore](singapore.md)
 - [Taiwan](taiwan.md)
