@@ -7,7 +7,7 @@
 - [Kuala Lumpur](#kuala-lumpur)
   - [Bukit Bintag](#bukit-bintag)
   - [Chinatown](#chinatown)
-  - [Healthcare in Kuala Lumpur](#healthcare-in-kuala-lumpur)
+  - [Private Healthcare in Kuala Lumpur](#private-healthcare-in-kuala-lumpur)
 
 <!-- INDEX_END -->
 
@@ -106,7 +106,7 @@ but nothing as busy as [Changkat](https://maps.app.goo.gl/KZMNXSDVS3gmTDHb9) in 
   The noodles are made in house, and the curry sauce was very good too, although mutton is a bit fatty.
   You can get beef rendang noodles, or with rice. The chicken BBQ buns are very good, fluffy and sweet too
 
-### Healthcare in Kuala Lumpur
+### Private Healthcare in Kuala Lumpur
 
 Malaysia is known for good quality affordable private healthcare.
 
