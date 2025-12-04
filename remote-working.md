@@ -7,7 +7,7 @@
 - [Remote Jobs](#remote-jobs)
 - [Digital Nomad](#digital-nomad)
 - [Offshore Payroll is Super Easy](#offshore-payroll-is-super-easy)
-- [Offshore Contractual Terms](#offshore-contractual-terms)
+- [Offshore Compliance](#offshore-compliance)
 - [Avoid Taxes Legally](#avoid-taxes-legally)
 - [Overseas Companies](#overseas-companies)
   - [No UK Ltds - Boycott This](#no-uk-ltds---boycott-this)
