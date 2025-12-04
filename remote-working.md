@@ -58,7 +58,7 @@ I recommend using [Nomads.com](https://nomads.com/@harisekhon).
 This cool site allows you to :
 
 1. Track your travels (with cool globe graphic and exportable CSV!)
-2. See which other digital nomads on the site are in your location and message and network
+2. See which other digital nomads on the site are in your location, message and network with them
 3. Estimate cost of living in various popular recommended digital nomad locations around the world
 
 ## Offshore Payroll is Super Easy
