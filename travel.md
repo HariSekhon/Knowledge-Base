@@ -898,7 +898,8 @@ This is super useful to:
 
 - track how many days you intend to stay in each place
 - track your dates to book flights and accommodation for
-- sum the days per country or region such as EU Schengen for visa purposes (which is cumulative across countries!)
+- sum the days per country or region such as EU Schengen for visa purposes (tourist visa doesn't reset across EU
+  countries!)
 
 ### Digital Nomadding
 
