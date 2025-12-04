@@ -49,7 +49,20 @@ Even more deep advanced knowledge is captured in well commented code - reference
 [GitHub Repos](https://github.com/HariSekhon?tab=repositories&q=&type=&language=&sort=stargazers)
 are provided throughout where relevant.
 
-## Index
+## Highlights
+
+Here are some highlight pages that you may want to check:
+
+- [![Remote](https://img.shields.io/badge/Remote%20Working-Digital%20Nomad-blue)](remote-working.md) / [![Travel](https://img.shields.io/badge/Travel%20Tips-50%2B%20countries%20%2F%20150%2B%20cities-green)](travel.md)
+- [![macOS](https://img.shields.io/badge/mac-OS-blue?logo=apple)](mac.md) / [![macOS](https://img.shields.io/badge/iOS-builds-blue?logo=apple)](ios.md) / [![macOS](https://img.shields.io/badge/Android-builds-blue?logo=android)](android.md)
+- [![Linux](https://img.shields.io/badge/GNU-Linux-blue?logo=linux)](linux.md)
+- [![Bash](https://img.shields.io/badge/Bash-Shell-blue?logo=gnubash)](bash.md)
+- [![Git](https://img.shields.io/badge/Git-Revision%20Control-blue?logo=git)](git.md)
+- [![IntelliJ](https://img.shields.io/badge/IntelliJ-IDE-purple?logo=intellijidea)](intellij.md) /
+  [![Vim](https://img.shields.io/badge/ViM-Editor-purple?logo=vim)](vim.md)
+- [![AWS](https://img.shields.io/badge/AWS-blue?logo=)](aws.md)
+
+## Full Sections Index
 
 <!-- INDEX_START -->
 
