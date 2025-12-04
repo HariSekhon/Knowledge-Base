@@ -35,7 +35,8 @@ which will save you time having to do it at one of the kiosks upon arrival:
 The capital.
 You'll probably want to stay someone between zone 1 and zone 4, which is walkable - about a half hour from zone 1.
 
-Zone 9 is an hour walk to the south.
+Zone 9 is a bit further to the south, perhaps nearer an hours walk, and there is the nice
+[Avenida La Reforma](https://maps.app.goo.gl/njgMsB2P7xq9nqZF9)
 
 ### Taxis in Guatemala City
 
