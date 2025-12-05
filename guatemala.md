@@ -10,6 +10,8 @@
   - [Attractions in Guatemala City](#attractions-in-guatemala-city)
   - [Restaurants in Guatemala City](#restaurants-in-guatemala-city)
 - [Antigua](#antigua)
+- [Panajachel](#panajachel)
+- [Flores / Tikal National Park](#flores--tikal-national-park)
 
 <!-- INDEX_END -->
 
@@ -104,4 +106,12 @@ TODO:
 It's a 2 hour drive from Guatemala City.
 
 You can go on an autobus for something in the region of 40GQT
-($5) or arrange a shuttle from your accommodation for 100GQT ($13).
+(\$5) or arrange a shuttle from your accommodation for 100GQT (\$13).
+
+## Panajachel
+
+TODO
+
+## Flores / Tikal National Park
+
+TODO
