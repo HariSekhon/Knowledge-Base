@@ -77,6 +77,10 @@ There are a handful of nice architectural buildings, but that's about it.
   Their Jamaica water (sweet hibiscus drink) is good too.
   Even the street food in the centre was more expensive.
 
+TODO:
+
+- [Hwasanjung](https://maps.app.goo.gl/ZdxA9yrQqoQnWYjk8) - Korean fine dining - 3, 5 or 8 course menus
+
 ## Antigua
 
 It's a 2 hour drive from Guatemala City.
