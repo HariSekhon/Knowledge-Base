@@ -68,6 +68,7 @@ There are a handful of nice architectural buildings, but that's about it.
   They have a good selection of toppings, from chilli sauces to onions to tiny pineapple cubes to finely chopped salad.
   This is a chain so you may be able to find others, this is the one I know is good.
   Their Jamaica water (sweet hibiscus drink) is good too.
+  Even the street food in the centre was more expensive.
 
 ## Antigua
 
