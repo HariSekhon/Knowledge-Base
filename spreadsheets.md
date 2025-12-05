@@ -54,7 +54,7 @@ Example:
 | Bulgaria  | Sofia     | 7    | Enter an initial start date literally eg. `2025-05-02` <br/> then in menu <br/> Format -> Number -> Date                                                    | Enter this formula to add the left two cells together: <br /> `=SUM(OFFSET(INDIRECT(ADDRESS(ROW(),COLUMN())), 0, -2, 1, 2))`  |
 | Romania   | Bucharest | 7    | Enter formula to reference the value one cell up and to the right (the previous end date cell): <br /> `=OFFSET(INDIRECT(ADDRESS(ROW(), COLUMN())), -1, 1)` | Enter this formula to add the left two cells together: <br /> `=SUM(OFFSET(INDIRECT(ADDRESS(ROW(),COLUMN())), 0, -2, 1, 2))`  |
 
-The rest of the rows use these exact same formulae copied to all their cells.
+The rest of the rows use these exact same formulae copied down their same columns.
 
 Results in:
 
