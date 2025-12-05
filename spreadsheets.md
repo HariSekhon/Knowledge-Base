@@ -6,6 +6,7 @@ Excel and Google Sheets tips.
 
 - [Use Google Sheets Offline](#use-google-sheets-offline)
 - [Auto-Calculate Dates](#auto-calculate-dates)
+  - [Explanation of Formula Magic](#explanation-of-formula-magic)
 - [Memes](#memes)
   - [CPU, RAM](#cpu-ram)
 
@@ -42,7 +43,26 @@ Example:
 | Bulgaria  | Sofia     | 7    | `2025-05-02` <br/> then in menu <br/> Format -> Number -> Date                                                                                              | Enter this formula to add the left two cells together: <br /> `=SUM(OFFSET(INDIRECT(ADDRESS(ROW(),COLUMN())), 0, -2, 1, 2))`  |
 | Romania   | Bucharest | 7    | Enter formula to reference the value one cell up and to the right (the previous end date cell): <br /> `=OFFSET(INDIRECT(ADDRESS(ROW(), COLUMN())), -1, 1)` | Enter this formula to add the left two cells together: <br /> `=SUM(OFFSET(INDIRECT(ADDRESS(ROW(),COLUMN())), 0, -2, 1, 2))`  |
 
-Explanation of formula magic:
+The rest of the rows use these exact same formulae copied to all their cells.
+
+Results in:
+
+| Country   | City      | Days | Start Date             | End Date             |
+|-----------|-----------|------|------------------------|----------------------|
+| Bulgaria  | Sofia     | 7    | Friday, May 2, 2025    | Friday, May 9, 2025  |
+| Romania   | Bucharest | 7    | Friday, May 9, 2025`   | Friday, May 16, 2025 |
+
+At the end, add a `Total` line, with a cell containing the formula:
+
+```text
+=SUM(C32:C51)
+```
+
+to figure out how many EU days you've used to make sure you don't go over the visa.
+
+Adjust the row cell coordinates to match your real world table's days column.
+
+### Explanation of Formula Magic
 
 - `ROW()` - returns the row number of the current cell
 - `COLUMN()` - returns the column number of the current cell
@@ -62,25 +82,6 @@ For the next row's `Start Date` it's similar to the above, except
   - `-1` - moves one row up
   - `1` - moves one cell to the right
   - Returns the single cell's value at that offset ie. the previous row's end date cell
-
-Results in:
-
-| Country   | City      | Days | Start Date             | End Date             |
-|-----------|-----------|------|------------------------|----------------------|
-| Bulgaria  | Sofia     | 7    | Friday, May 2, 2025    | Friday, May 9, 2025  |
-| Romania   | Bucharest | 7    | Friday, May 9, 2025`   | Friday, May 16, 2025 |
-
-The rest of the rows follow this same format.
-
-At the end, add a `Total` line, with a cell containing the formula:
-
-```text
-=SUM(C32:C51)
-```
-
-to figure out how many EU days you've used to make sure you don't go over the visa.
-
-Adjust the line numbers to match your real world table.
 
 ## Memes
 
