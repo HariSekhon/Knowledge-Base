@@ -89,6 +89,19 @@ shower gel and the best breakfast 8-9am consisting of boiled eggs, pancakes, cer
   good burgers, pastas with chicken and shrimp and tequila reduction, pizzas and lighter _"pinsa"_ variations of pizzas,
   salads, soups, and very tempting selection desserts from the bakery.
   Get there 3-6pm for a cake and coffee for only 29 GTQ deal.
+  The Centenaria burger was exquisite -
+  a good quality thick burger with bacon, salad, and a sweet sauce of Ron Zacapa Centenario rum
+  (this sauce must have lots of sugar in it to taste so good).
+  If this isn't the best burger in Guatemala City I'd be surprised.
+  This is what I wish Jack Daniels Texas burgers were in other places.
+  The papas fritas is an extra 3 GTQ and are freshly baked thin crisp chips which I loved dipping into that sweet
+  Ron Zacapa Centenario extra side sauce.
+  This was totally worth the 75 GTQ.
+  The vanilla milkshake (ice cream base) had just the right amount of sweetness, not too sweet as it first appeared
+  when I saw it arrive with the rim of tiny candies glued with syrup and whipped cream on top - this was worth the
+  36 GTQ.
+  Overall this was completely worth the damage.
+  Forget your diet, be good tomorrow, enjoy this food today.
   Wifi 83/81 Mbit/s
 - [Mr Taco](https://maps.app.goo.gl/zxM956HMyyuNMDYAA) - good and cheap - 3 tacos or 2 gringas for 35-40 GQT ($5).
   They have a good selection of toppings, from chilli sauces to onions to tiny pineapple cubes to finely chopped salad.
