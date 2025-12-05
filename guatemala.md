@@ -110,12 +110,15 @@ You can go on an autobus for something in the region of 40GQT
 
 ## Panajachel
 
-Known Lake Atitlán and the San Pedro, Tolimán and Atitlán volcanoes.
+[Panajachel](https://maps.app.goo.gl/wM1YiRVBLMvpyGZP7) is known Lake Atitlán and the San Pedro, Tolimán and Atitlán
+volcanoes.
 
 This is a 3-4 hour drive from Guatemala City.
 
 TODO
 
 ## Flores / Tikal National Park
+
+[Tikal National Park](https://maps.app.goo.gl/FZRUpFZatLVnEqs76) is a jungle containing the ancient Mayan city of Tikal.
 
 TODO
