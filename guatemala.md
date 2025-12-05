@@ -10,7 +10,9 @@
   - [Attractions in Guatemala City](#attractions-in-guatemala-city)
   - [Restaurants in Guatemala City](#restaurants-in-guatemala-city)
 - [Antigua](#antigua)
+  - [Travel to Antigua](#travel-to-antigua)
 - [Panajachel](#panajachel)
+  - [Travel to Panajachel](#travel-to-panajachel)
 - [Flores / Tikal National Park](#flores--tikal-national-park)
 
 <!-- INDEX_END -->
@@ -120,10 +122,14 @@ TODO:
 
 ## Antigua
 
+### Travel to Antigua
+
 It's a 2 hour drive from Guatemala City.
 
+The best option is to arrange a tourist shuttle from your accommodation for 100GQT (\$13).
+
 You can go on an autobus for something in the region of 40GQT
-(\$5) or arrange a shuttle from your accommodation for 100GQT (\$13).
+(\$5) but this is apparently a hassle (and you'd have to take a taxi to the autobus collection point).
 
 ## Panajachel
 
@@ -132,7 +138,10 @@ volcanoes.
 
 This is a 3-4 hour drive from Guatemala City.
 
-TODO
+### Travel to Panajachel
+
+From Guatemala CIty or Antigua the options are similar to Antigua above,
+arrange a tourist shuttle via your accommodation.
 
 ## Flores / Tikal National Park
 
