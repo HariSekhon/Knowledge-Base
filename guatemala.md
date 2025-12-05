@@ -53,6 +53,12 @@ what should be a 20 minute drive according on Google Maps.
 
 There are some others like Yango but I haven't used them.
 
+### ATMs in Guatemala City
+
+I was charged 32 GTQ (\$4) for a withdrawal by Industrial Bank ATM in the centre.
+
+Apparently some others are worse, asking for \$8 withdrawal fee.
+
 ### Attractions in Guatemala City
 
 There are a handful of nice architectural buildings, but that's about it.
