@@ -78,6 +78,13 @@ shower gel and the best breakfast 8-9am consisting of boiled eggs, pancakes, cer
 
 -->
 
+- [San Martín • Zona 4](https://maps.app.goo.gl/wiBAGmYMhBhssCxJ7) - probably the best coffee shop / restaurant / bakery
+  in the area - full and bizzing with locals It has a surprisingly good menu selection of both food and drinks.
+  Drinks include lots of variations of coffees, juices and milkshakes with both ice cream and milk varieties,
+  good burgers, pastas with chicken and shrimp and tequila reduction, pizzas and lighter _"pinsa"_ variations of pizzas,
+  salads, soups, and very tempting selection desserts from the bakery.
+  Get there 3-6pm for a cake and coffee for only 29 GTQ deal.
+  Wifi 83/81 Mbit/s
 - [Mr Taco](https://maps.app.goo.gl/zxM956HMyyuNMDYAA) - good and cheap - 3 tacos or 2 gringas for 35-40 GQT ($5).
   They have a good selection of toppings, from chilli sauces to onions to tiny pineapple cubes to finely chopped salad.
   This is a chain so you may be able to find others, this is the one I know is good.
