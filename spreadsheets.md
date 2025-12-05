@@ -42,6 +42,27 @@ Example:
 | Bulgaria  | Sofia     | 7    | `2025-05-02` <br/> then in menu <br/> Format -> Number -> Date                                                                                              | Enter this formula to add the left two cells together: <br /> `=SUM(OFFSET(INDIRECT(ADDRESS(ROW(),COLUMN())), 0, -2, 1, 2))`  |
 | Romania   | Bucharest | 7    | Enter formula to reference the value one cell up and to the right (the previous end date cell): <br /> `=OFFSET(INDIRECT(ADDRESS(ROW(), COLUMN())), -1, 1)` | Enter this formula to add the left two cells together: <br /> `=SUM(OFFSET(INDIRECT(ADDRESS(ROW(),COLUMN())), 0, -2, 1, 2))`  |
 
+Explanation of formula magic:
+
+- `ROW()` - returns the row number of the current cell
+- `COLUMN()` - returns the column number of the current cell
+- `ADDRESS(ROW(), COLUMN())` - gets the cell coordinates of the current cell
+- `INDIRECT(ADDRESS(...))` - returns a cell reference object we can operate on from the current cell's calculated `ADDRESS(...)`
+- `OFFSET(reference, 0, -2, 1, 2)` - starting from the reference cell calculated by `INDIRECT(ADDRESS(...))`:
+  - `0` - move 0 rows (stay in the same row)
+  - `-2` - move 2 columns to the left
+  - `1` - height of the range = 1 row
+  - `2` - width of the range = 2 columns
+  - Result: returns a 1×2 horizontal range, two cells to the left of the current cell
+- `SUM()` - adds the two cells together that were returned by `OFFSET(...)`
+
+For the next row's `Start Date` it's similar to the above, except
+
+- `=OFFSET(reference, -1, 1)`:
+  - `-1` - moves one row up
+  - `1` - moves one cell to the right
+  - Returns the single cell's value at that offset ie. the previous row's end date cell
+
 Results in:
 
 | Country   | City      | Days | Start Date             | End Date             |
