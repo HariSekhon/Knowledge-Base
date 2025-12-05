@@ -6,6 +6,7 @@
 - [Immigration Declaration Required](#immigration-declaration-required)
 - [Guatemala City](#guatemala-city)
   - [Taxis in Guatemala City](#taxis-in-guatemala-city)
+  - [ATMs in Guatemala City](#atms-in-guatemala-city)
   - [Attractions in Guatemala City](#attractions-in-guatemala-city)
   - [Restaurants in Guatemala City](#restaurants-in-guatemala-city)
 - [Antigua](#antigua)
