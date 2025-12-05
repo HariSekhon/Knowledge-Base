@@ -71,6 +71,13 @@ There are a handful of nice architectural buildings, but that's about it.
 
 ### Restaurants in Guatemala City
 
+<!--
+
+Tequila Sunrise hostel was surprisingly good, well equipped with free towels,
+shower gel and the best breakfast 8-9am consisting of boiled eggs, pancakes, cereals and fruit
+
+-->
+
 - [Mr Taco](https://maps.app.goo.gl/zxM956HMyyuNMDYAA) - good and cheap - 3 tacos or 2 gringas for 35-40 GQT ($5).
   They have a good selection of toppings, from chilli sauces to onions to tiny pineapple cubes to finely chopped salad.
   This is a chain so you may be able to find others, this is the one I know is good.
