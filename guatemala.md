@@ -36,7 +36,8 @@ which will save you time having to do it at one of the kiosks upon arrival:
 ## Guatemala City
 
 The capital - it's not very big, there isn't much in the way of attractions to see here -
-the real novelty is the nature outside of the city.
+the real novelty is the nature outside of the city, so most people don't spend more than a day or two here on stopover
+to Antigua, Panajachel or Flores / Tikal National Park.
 
 You'll probably want to stay someone between zone 1 and zone 4, which is walkable - about a half hour from zone 1.
 
