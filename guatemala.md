@@ -7,6 +7,7 @@
 - [Guatemala City](#guatemala-city)
   - [Taxis in Guatemala City](#taxis-in-guatemala-city)
   - [Restaurants in Guatemala City](#restaurants-in-guatemala-city)
+- [Antigua](#antigua)
 
 <!-- INDEX_END -->
 
@@ -32,7 +33,9 @@ which will save you time having to do it at one of the kiosks upon arrival:
 
 ## Guatemala City
 
-The capital.
+The capital - it's not very big, there isn't much in the way of attractions to see here -
+the real novelty is the nature outside of the city.
+
 You'll probably want to stay someone between zone 1 and zone 4, which is walkable - about a half hour from zone 1.
 
 Zone 9 is a bit further to the south, perhaps nearer an hour walk, but there is the nice
@@ -55,3 +58,10 @@ There are some others like Yango but I haven't used them.
   They have a good selection of toppings, from chilli sauces to onions to tiny pineapple cubes to finely chopped salad.
   This is a chain so you may be able to find others, this is the one I know is good.
   Their Jamaica water (sweet hibiscus drink) is good too.
+
+## Antigua
+
+It's a 2 hour drive from Guatemala City.
+
+You can go on an autobus for something in the region of 40GQT
+($5) or arrange a shuttle from your accommodation for 100GQT ($13).
