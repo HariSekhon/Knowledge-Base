@@ -51,7 +51,7 @@ There are some others like Yango but I haven't used them.
 
 ### Restaurants in Guatemala City
 
-- [Mr Taco](https://maps.app.goo.gl/zxM956HMyyuNMDYAA) - good and cheap - 3 tacos or 2 gringas for 30-35 GQT ($4.50).
+- [Mr Taco](https://maps.app.goo.gl/zxM956HMyyuNMDYAA) - good and cheap - 3 tacos or 2 gringas for 35-40 GQT ($5).
   They have a good selection of toppings, from chilli sauces to onions to tiny pineapple cubes to finely chopped salad.
   This is a chain so you may be able to find others, this is the one I know is good.
   Their Jamaica water (sweet hibiscus drink) is good too.
