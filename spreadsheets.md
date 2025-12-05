@@ -32,14 +32,15 @@ To auto-calculate dates:
 2. Format the cell as a Date format
 3. Enter the number of days spent at that location in an adjacent column
 4. Use a formula to add the number of days from one cell to the date in the other cell
-5. For the next row, enter a forumla to reference the calculated end date as the start date for the next location
+5. For the next row, enter a formula to reference the calculated end date in the row above as the start date for the
+   next location
 
 Example:
 
-| Country   | City      | Days | Start Date                                                     | End Date                   |
-|-----------|-----------|------|----------------------------------------------------------------|----------------------------|
-| Bulgaria  | Sofia     | 7    | `2025-05-02` <br/> then in menu <br/> Format -> Number -> Date | Enter formula `=C32 + D32` |
-| Romania   | Bucharest | 7    | Enter formula `=E32`                                           | Enter formula `=C33 + D33` |
+| Country   | City      | Days | Start Date                                                                                                                                                  | End Date                                                                                                                      |
+|-----------|-----------|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Bulgaria  | Sofia     | 7    | `2025-05-02` <br/> then in menu <br/> Format -> Number -> Date                                                                                              | Enter this formula to add the left two cells together: <br /> `=SUM(OFFSET(INDIRECT(ADDRESS(ROW(),COLUMN())), 0, -2, 1, 2))`  |
+| Romania   | Bucharest | 7    | Enter formula to reference the value one cell up and to the right (the previous end date cell): <br /> `=OFFSET(INDIRECT(ADDRESS(ROW(), COLUMN())), -1, 1)` | Enter this formula to add the left two cells together: <br /> `=SUM(OFFSET(INDIRECT(ADDRESS(ROW(),COLUMN())), 0, -2, 1, 2))`  |
 
 Results in:
 
