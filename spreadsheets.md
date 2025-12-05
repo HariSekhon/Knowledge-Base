@@ -22,10 +22,21 @@ Configure offline access, follow these instructions:
 
 ## Auto-Calculate Dates
 
-I've used a Google Sheets spreadsheet to calculate my number of EU days and their dates on my European Summer Tour 2025.
+You can add a number of integer days to a date field to automatically calculate the end date.
 
-This is an upgrade to the previous year and allowed me to plan my exact travel dates and accommodation bookings,
-as well as how many EU visa days I was using up, which I did last year too using the basic `SUM()` operator.
+You can then have the next row automatically reference the cell which contains the calculated end date
+as the start date of the next row, to cascade the entire calculation of start and end dates all the way down a
+spreadsheet.
+
+I use this around the world to auto-calculate the dates I need to book flights and accommodation for easily based on
+how many days I intend to spend in each place.
+
+I've also used this to calculate my number days spent in a country by summing all the towns `Days` cells, or a region such
+as EU Schengen (where visa days are cumulative across all EU member countries)
+by summing all the EU countries towns and cities `Days` cells.
+
+See Also: [Remote Working & Digital Nomad](remote-working.md#digital-nomad) page's Digital Nomad section for a useful
+related website called Nomads which I also use.
 
 To auto-calculate dates:
 
