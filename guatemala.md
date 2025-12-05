@@ -102,7 +102,8 @@ shower gel and the best breakfast 8-9am consisting of boiled eggs, pancakes, cer
   The vanilla milkshake (ice cream base) had just the right amount of sweetness, not too sweet as it first appeared
   when I saw it arrive with the rim of tiny candies glued with syrup and whipped cream on top - this was worth the
   36 GTQ.
-  Overall this was completely worth the damage.
+  To top it all off, the pineapple strudel was only 8 GTQ (\$1), I just had to.
+  Overall this was all completely worth the damage.
   Forget your diet, be good tomorrow, enjoy this food today.
   Wifi 83/81 Mbit/s
 - [Mr Taco](https://maps.app.goo.gl/zxM956HMyyuNMDYAA) - good and cheap - 3 tacos or 2 gringas for 35-40 GQT ($5).
