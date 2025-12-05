@@ -87,7 +87,8 @@ shower gel and the best breakfast 8-9am consisting of boiled eggs, pancakes, cer
 TODO:
 
 - [Hwasanjung](https://maps.app.goo.gl/ZdxA9yrQqoQnWYjk8) - Korean fine dining - 3, 5 or 8 course menus for
-  150, 250 or 395 GTQ - expensive by local standards considering your can eat for 40-80 GTQ at places like Mr Taco
+  150 / 250 / 395 GTQ (\$20 / \$33 / \$50) -
+  expensive by local standards considering your can eat for 40-80 GTQ (\$5 - \$10) at places like Mr Taco
 
 ## Antigua
 
