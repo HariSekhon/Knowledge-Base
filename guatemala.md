@@ -6,6 +6,7 @@
 - [Immigration Declaration Required](#immigration-declaration-required)
 - [Guatemala City](#guatemala-city)
   - [Taxis in Guatemala City](#taxis-in-guatemala-city)
+  - [Attractions in Guatemala City](#attractions-in-guatemala-city)
   - [Restaurants in Guatemala City](#restaurants-in-guatemala-city)
 - [Antigua](#antigua)
 
@@ -51,6 +52,15 @@ what should be a 20 minute drive according on Google Maps.
 - [InDrive](https://indrive.com/en-gt) - cheaper and more cars but drivers only accept cash
 
 There are some others like Yango but I haven't used them.
+
+### Attractions in Guatemala City
+
+There are a handful of nice architectural buildings, but that's about it.
+
+- [Palacio Nacional de la Cultura](https://maps.app.goo.gl/i8rLGatnaeKKXvac8)
+- [Plaza de la Constitución](https://maps.app.goo.gl/VMEm6P432Cdd5NwQ9)
+- [Iglesia San Francisco](https://maps.app.goo.gl/ybGFkQ8KJu4Z3ikY7)
+- [Palace of the National Civil Police](https://maps.app.goo.gl/maSS8RxcSp3DcLMu8)
 
 ### Restaurants in Guatemala City
 
