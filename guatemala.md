@@ -79,7 +79,8 @@ shower gel and the best breakfast 8-9am consisting of boiled eggs, pancakes, cer
 -->
 
 - [San Martín • Zona 4](https://maps.app.goo.gl/wiBAGmYMhBhssCxJ7) - probably the best coffee shop / restaurant / bakery
-  in the area - full and bizzing with locals It has a surprisingly good menu selection of both food and drinks.
+  in the area - full and bizzing with locals It has a surprisingly good menu selection of both food and drinks,
+  moderately priced.
   Drinks include lots of variations of coffees, juices and milkshakes with both ice cream and milk varieties,
   good burgers, pastas with chicken and shrimp and tequila reduction, pizzas and lighter _"pinsa"_ variations of pizzas,
   salads, soups, and very tempting selection desserts from the bakery.
