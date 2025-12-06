@@ -133,9 +133,9 @@ TODO:
 
 ### Travel to Antigua
 
-It's a 2 hour drive from Guatemala City.
+Antigua would normally be a 1-2 hour drive from Guatemala City.
 
-However, I encountered heavy traffic between 10am-12pm which doubled the journey time.
+However, I encountered heavy traffic between 10am-12pm so it took 3 hours, arriving just after 1pm.
 
 The best option is to arrange a tourist shuttle from your accommodation for 100GQT (\$13).
 
