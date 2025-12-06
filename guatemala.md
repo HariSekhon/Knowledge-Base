@@ -83,6 +83,18 @@ shower gel and the best breakfast 8-9am consisting of boiled eggs, pancakes, cer
 
 -->
 
+- [Mr Taco](https://maps.app.goo.gl/zxM956HMyyuNMDYAA) - good and cheap - 3 tacos or 2 gringas for 35-40 GQT ($5).
+  They have a good selection of toppings, from chilli sauces to onions to tiny pineapple cubes to finely chopped salad.
+  This seems like a chain so you may be able to find others, this is the one I know is good.
+  Their Jamaica water (sweet hibiscus drink) is good too.
+  Even the street food in the centre was more expensive.
+  This place was so good that I ate there every day I was in Guatemala City,
+  and even ran out at 1am for one final hurrah before it closed at 2am.
+  I recommend the asada (beef) tacos or gringas (40 GTQ) and then load them up with onions, pineapple, salad and
+  drenched in lime for maximum flavour and filling - make use of the free toppings!
+  Counterintuitively, the orange chilli sauce is more spicy than the red one,
+  and the finely chopped salad topping is even more spicy than that due to the green chilli pieces in it.
+  Has wifi
 - [San Martín • Zona 4](https://maps.app.goo.gl/wiBAGmYMhBhssCxJ7) - probably the best coffee shop / restaurant / bakery
   in the area - full and buzzing with locals.
   This is a chain across the city, and it shows with how polished the menu and delivery is.
@@ -108,11 +120,6 @@ shower gel and the best breakfast 8-9am consisting of boiled eggs, pancakes, cer
   Overall all of this was all completely worth the damage and I'd do it again.
   Forget your diet, be good tomorrow, when presented with these options, live for today's food.
   Wifi 83/81 Mbit/s
-- [Mr Taco](https://maps.app.goo.gl/zxM956HMyyuNMDYAA) - good and cheap - 3 tacos or 2 gringas for 35-40 GQT ($5).
-  They have a good selection of toppings, from chilli sauces to onions to tiny pineapple cubes to finely chopped salad.
-  This is a chain so you may be able to find others, this is the one I know is good.
-  Their Jamaica water (sweet hibiscus drink) is good too.
-  Even the street food in the centre was more expensive.
 
 TODO:
 
