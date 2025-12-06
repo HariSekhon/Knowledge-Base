@@ -11,6 +11,7 @@
   - [Restaurants in Guatemala City](#restaurants-in-guatemala-city)
 - [Antigua](#antigua)
   - [Travel to Antigua](#travel-to-antigua)
+  - [Restaurants in Antigua](#restaurants-in-antigua)
 - [Panajachel](#panajachel)
   - [Travel to Panajachel](#travel-to-panajachel)
 - [Flores / Tikal National Park](#flores--tikal-national-park)
@@ -79,7 +80,8 @@ There are a handful of nice architectural buildings, but that's about it.
 <!--
 
 Tequila Sunrise hostel was surprisingly good, well equipped with free towels,
-shower gel and the best breakfast 8-9am consisting of boiled eggs, pancakes, cereals and fruit
+shower gel and the best breakfast 8-9am consisting of boiled eggs, pancakes, cereals and fruit.
+The wifi was fairly reliable too
 
 -->
 
@@ -139,6 +141,18 @@ The best option is to arrange a tourist shuttle from your accommodation for 100G
 
 You can go on an autobus for something in the region of 40GQT
 (\$5) but this is apparently a hassle (and you'd have to take a taxi to the autobus collection point).
+
+### Restaurants in Antigua
+
+<!--
+
+Adra hostel is even nicer than Tequila Sunrise with a central communical lounge area
+that looks how you'd expect a luxury resort to look, shaded,
+with lots of different seating and plants and exactly the type of music that is in my Upbeat & Sexual Pop spotify
+playlist.
+The wifi is a bit slow at 0.5/0.5 Mbit/s though
+
+-->
 
 ## Panajachel
 
