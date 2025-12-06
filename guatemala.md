@@ -133,6 +133,8 @@ TODO:
 
 It's a 2 hour drive from Guatemala City.
 
+However, I encountered heavy traffic between 10am-12pm which doubled the journey time.
+
 The best option is to arrange a tourist shuttle from your accommodation for 100GQT (\$13).
 
 You can go on an autobus for something in the region of 40GQT
