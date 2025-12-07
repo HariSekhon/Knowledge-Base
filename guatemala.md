@@ -150,7 +150,7 @@ Adra hostel is even nicer than Tequila Sunrise with a central communical lounge 
 that looks how you'd expect a luxury resort to look, shaded,
 with lots of different seating and plants and exactly the type of music that is in my Upbeat & Sexual Pop spotify
 playlist.
-The wifi is a bit slow at 0.5/0.5 Mbit/s though
+The wifi 78/92 but is a bit slow at 0.5/0.5 Mbit/s in some places though
 
 -->
 
