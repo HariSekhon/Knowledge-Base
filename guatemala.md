@@ -163,6 +163,15 @@ The wifi 78/92 but is a bit slow at 0.5/0.5 Mbit/s in some places though
   They will also give you a more spicy sauce if you want it.
   The birria (stewed pulled beef) taco for 45GTQ is very good too.
   Has wifi
+- [Steak House El Cafetal](https://maps.app.goo.gl/Ae5YDVuu7hLrKngu7) - excellent and affordable menu, especially for
+  mains. There is a custom burger composition menu too, and both small affordable and large medium priced steaks.
+  There are only 2 desserts.
+  The tortilla soup with shredded chicken was good, especially for 25 GTQ,
+  and the churrasquito de vacio steak meal was decent, especially for its price of only 59 GTQ.
+  The dessert of 3 fried plantains in a slightly sweet mole of spices was decent, but I could skip it, but then for only
+  20 GTQ why would you want to, it's a decent little calorie and flavour boost to top off the meal if you need recovery
+  calories.
+  Wifi 16/4 Mbit/s
 
 ## Panajachel
 
