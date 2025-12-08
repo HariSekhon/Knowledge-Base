@@ -23,6 +23,9 @@
 
 Country in Central America just south of Mexico that uses the Guatemalan Quetzales currency.
 
+Skip Guatemala City and go straight to Antigua if you can as that's where the tourism and attractions are,
+or perhaps a one night stopover just for travel purposes.
+
 ## Immigration Declaration Required
 
 You will need to complete a _"DJRV"_
