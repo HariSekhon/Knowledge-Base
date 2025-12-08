@@ -154,6 +154,16 @@ The wifi 78/92 but is a bit slow at 0.5/0.5 Mbit/s in some places though
 
 -->
 
+- [Mr Taco](https://maps.app.goo.gl/pkhAxL1YcsRo67586) - in the courtyard of the LemonTree hostel so not obvious to find
+  as it's not directly on the street, but worth the find.
+  It's different to the one in Guatemala City, 50% more expensive but good quality and flavour.
+  The tacos are ordered in a group of four.
+  The _"land & sea"_ tacos for 65GTQ are mixed shrimp and pork with finely chopped onions and pineapple chunks,
+  and a slightly sweet sauce to drizzle on as you see fit.
+  They will also give you a more spicy sauce if you want it.
+  The birria (stewed pulled beef) taco for 45GTQ is very good too.
+  Has wifi
+
 ## Panajachel
 
 [Panajachel](https://maps.app.goo.gl/wM1YiRVBLMvpyGZP7) is known Lake Atitlán and the San Pedro, Tolimán and Atitlán
