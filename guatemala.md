@@ -11,6 +11,7 @@
   - [Restaurants in Guatemala City](#restaurants-in-guatemala-city)
 - [Antigua](#antigua)
   - [Travel to Antigua](#travel-to-antigua)
+  - [Taxis in Antigua](#taxis-in-antigua)
   - [Restaurants in Antigua](#restaurants-in-antigua)
 - [Panajachel](#panajachel)
   - [Travel to Panajachel](#travel-to-panajachel)
@@ -141,6 +142,14 @@ The best option is to arrange a tourist shuttle from your accommodation for 100G
 
 You can go on an autobus for something in the region of 40GQT
 (\$5) but this is apparently a hassle (and you'd have to take a taxi to the autobus collection point).
+
+### Taxis in Antigua
+
+Taxis in Antigua would be similar to Guatemala City,
+but while I saw lots of InDrive cars on the map, I didn't see any Uber ones.
+
+I'm not even sure where you'd take a taxi to here to be honest,
+Antigua itself is small enough to walk around, perhaps to some attractions outside of the city.
 
 ### Restaurants in Antigua
 
