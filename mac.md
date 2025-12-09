@@ -2051,6 +2051,22 @@ If the backup has finished, then just find the latest backup and do the same:
 sudo du -max /Volumes/*/$(date '+%F')-*.previous/ | sort -k1n | tail -n 1000
 ```
 
+I found out this unexpected culprit:
+
+```shell
+1660 2025-12-08-224300.inprogress//Macintosh HD - Data/System/Library/AssetsV2/com_apple_MobileAsset_MacSoftwareUpdate
+```
+
+macOS was wasting my time backing up the software update download 😒.
+
+I've added this to:
+
+```shell
+mac_backup_exclude_paths.sh
+```
+
+in the [Exclude Paths From Backups](#exclude-paths-from-backups) section above.
+
 ### Sharing a Time Machine disk with Data
 
 Time Machine requires formatting a complete disk to structure it correctly.
