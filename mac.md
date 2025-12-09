@@ -113,6 +113,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Trigger Backup](#trigger-backup)
   - [List Backups](#list-backups)
   - [Restore a file from latest backup](#restore-a-file-from-latest-backup)
+  - [Find Unexpected Big Files Going in to the Current Backup](#find-unexpected-big-files-going-in-to-the-current-backup)
   - [Sharing a Time Machine disk with Data](#sharing-a-time-machine-disk-with-data)
 - [External Disk Management](#external-disk-management)
   - [Delete Large Directories](#delete-large-directories)
@@ -2029,6 +2030,25 @@ from [DevOps-Bash-tools](devops-bash-tools.md):
 
 ```text
 mac_restore_file.sh "$filename"
+```
+
+### Find Unexpected Big Files Going in to the Current Backup
+
+Sometimes it's perplexing
+why Time Machine is taking so long or backing up large volume of hundreds of GB
+when you know nothing much has changed in your data or applications since the last backup:
+
+After trying many crappy `tmutil` commands that don't work any more and random things off the internet,
+it turns out this old skool method is the most reliable to find out what is going in there:
+
+```shell
+sudo du -max /Volumes/*/$(date '+%F')-*.inprogress/ | sort -k1n | tail -n 1000
+```
+
+If the backup has finished, then just find the latest backup and do the same:
+
+```shell
+sudo du -max /Volumes/*/$(date '+%F')-*.previous/ | sort -k1n | tail -n 1000
 ```
 
 ### Sharing a Time Machine disk with Data
