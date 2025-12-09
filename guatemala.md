@@ -184,6 +184,9 @@ The wifi 78/92 but is a bit slow at 0.5/0.5 Mbit/s in some places though
   20 GTQ why would you want to, it's a decent little calorie and flavour boost to top off the meal if you need recovery
   calories.
   Wifi 16/4 Mbit/s
+- [Ta'Cool Taco Shop](https://maps.app.goo.gl/BabMStbGpUpBS2dd6) - burritos look good, but the chimichangas was not
+  worth the damage to your body, there was mostly cream and little strawberry.
+  Wifi 144/138 Mbit/s
 
 ## Panajachel
 
