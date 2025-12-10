@@ -191,6 +191,10 @@ The wifi 78/92 but is a bit slow at 0.5/0.5 Mbit/s in some places though
   The homemade tortilla chips and guacamole are good too, the chips are dark and crunchy.
   Overall very good quality, although not that cheap unless you go on a Tuesday.
   WiFi 44/45 Mbit/s
+- [Toko Baru](https://maps.app.goo.gl/yfYsqP7n1LPWVYVw8) - the beef rendang curry was reasonable, especially for the
+  price (59 GTQ), although not as good as what you'd get in Indonesia of course.
+  The jamaica water was typically sweet, and came in a jarge jug glass - could skip that next time.
+  No wifi
 - [Ta'Cool Taco Shop](https://maps.app.goo.gl/BabMStbGpUpBS2dd6) - 100GTQ (£10) for a steak burrito in Guatemala - you
   know you’re in a tourist place as this is Western priced - you need the “burrote” - slang for a bigger burrito -
   just to be normal size.
