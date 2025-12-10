@@ -184,9 +184,15 @@ The wifi 78/92 but is a bit slow at 0.5/0.5 Mbit/s in some places though
   20 GTQ why would you want to, it's a decent little calorie and flavour boost to top off the meal if you need recovery
   calories.
   Wifi 16/4 Mbit/s
-- [Ta'Cool Taco Shop](https://maps.app.goo.gl/BabMStbGpUpBS2dd6) - burritos look good, but the chimichangas was not
-  worth the damage to your body, there was mostly cream and little strawberry.
-  Wifi 144/138 Mbit/s
+- [Ta'Cool Taco Shop](https://maps.app.goo.gl/BabMStbGpUpBS2dd6) - 100GTQ (£10) for a steak burrito in Guatemala - you
+  know you’re in a tourist place as this is Western priced - you need the “burrote” - slang for a bigger burrito -
+  just to be normal size.
+  For desserts, neither the flan (39 GTQ).
+  nor chimichangas (37 GTQ) were not worth the damage to your body - the latter was mostly cream and little
+  strawberry.
+  There was also a miscommunication the first where I asked for just strawberries and cream, like that excellent one I
+  had recently in Mexico City, but they brought me the chimichanga dessert regardless - english not great.
+  Wifi 144/138 Mbit/s near entrance or 92/95 Mbit/s at the back
 
 ## Panajachel
 
