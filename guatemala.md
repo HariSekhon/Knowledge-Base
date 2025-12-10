@@ -184,6 +184,13 @@ The wifi 78/92 but is a bit slow at 0.5/0.5 Mbit/s in some places though
   20 GTQ why would you want to, it's a decent little calorie and flavour boost to top off the meal if you need recovery
   calories.
   Wifi 16/4 Mbit/s
+- [Tacorazon](https://maps.app.goo.gl/PS4JTJK6tyPaxW5j7) - surprisingly good tacos, and came with 2 different colour
+  tortillas.
+  Go for Taco Tuesday 2 for 1.
+  I recommend getting some of them chicken and some of them pork, as both were good.
+  The homemade tortilla chips and guacamole are good too, the chips are dark and crunchy.
+  Overall very good quality, although not that cheap unless you go on a Tuesday.
+  WiFi 44/45 Mbit/s
 - [Ta'Cool Taco Shop](https://maps.app.goo.gl/BabMStbGpUpBS2dd6) - 100GTQ (£10) for a steak burrito in Guatemala - you
   know you’re in a tourist place as this is Western priced - you need the “burrote” - slang for a bigger burrito -
   just to be normal size.
