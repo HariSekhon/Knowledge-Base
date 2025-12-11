@@ -381,6 +381,9 @@ while read -r line; do
  done
 ```
 
+You can see the real world use case in `git_diff_commit.sh` which prompts to confirm before committing each file in a
+loop, allowing the user to review the printed `git diff` first.
+
 ## Debugging
 
 ### Shell executing tracing
