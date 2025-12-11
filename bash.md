@@ -358,6 +358,29 @@ while read -r line; do
 done
 ```
 
+If you're calling a script like `git_diff_commit.sh` from somewhere that doesn't allocate a tty,
+such as a hotkey in [IntelliJ](intellij.md), then this is the workaround to the workaround:
+
+First duplicate the `/dev/stdin` file descriptor `0` to a new file descriptor `3`,
+then `read` from file descriptor 3 instead of 0 which the while loop consumes.
+
+You have to print the prompt yourself and can't use `read -p` to do this because `read` won't print when using redirects
+due to POSIX behaviour.
+
+```shell
+exec 3<&0
+
+echo "
+entry 1
+entry 2
+" |
+while read -r line; do
+    echo "Processing: $line"
+    echo "Press enter to process next entry"
+    read -r <&3  # not eaten by while loop
+ done
+```
+
 ## Debugging
 
 ### Shell executing tracing
