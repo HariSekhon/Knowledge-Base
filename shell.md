@@ -4,8 +4,7 @@
 
 - [List](#list)
 - [Fish](#fish)
-- [Shell Tricks](#shell-tricks)
-  - [Find disowned processes owned by the init PID 1](#find-disowned-processes-owned-by-the-init-pid-1)
+- [Shell One Liners](#shell-one-liners)
 - [Memes](#memes)
   - [Opening a Shell, Non-Programmers](#opening-a-shell-non-programmers)
   - [Bash Scripting: Essential DevOps](#bash-scripting-essential-devops)
@@ -43,13 +42,9 @@ Friendly Interactive Shell
 amazing website built-in
 fish_config
 
-## Shell Tricks
+## Shell One Liners
 
-### Find disowned processes owned by the init PID 1
-
-```shell
- ps -ef | awk '$3 == 1 {print}'
-```
+See the [Shell One Liners](shell-one-liners.md) page
 
 ## Memes
 
