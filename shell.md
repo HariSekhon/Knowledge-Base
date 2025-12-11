@@ -44,7 +44,7 @@ fish_config
 
 ## Shell One Liners
 
-See the [Shell One Liners](shell-one-liners.md) page
+See the [Shell One Liners](shell-one-liners.md) page.
 
 ## Memes
 
