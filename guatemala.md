@@ -269,7 +269,7 @@ restaurant. Wifi was decent too.
   portion sizes.
   The ginger beef had lots of beef, I was stuffed.
   Cash only.
-  No wifi.
+  No wifi
 - [Restaurante Lena’s Atlantis](https://maps.app.goo.gl/LewTJb7An55Yupss7) - bar restaurant with loud music in the
   evenings.
   More expensive than other places, but open late if you've missed them.
