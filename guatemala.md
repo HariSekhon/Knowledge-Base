@@ -46,9 +46,9 @@ which will save you time having to do it at one of the kiosks upon arrival:
 
 ## ATMs in Guatemala
 
-I was charged 32 GTQ (\$4) for a withdrawal by Industrial Bank ATM in the centre.
+Banco Industrial is the best I've seen, charging 32 GTQ (\$4) withdrawal fee.
 
-Do not use ATM 5B they charge Q65 (\$8).
+Do not use ATM 5B - they charge Q65 (\$8).
 
 ## Guatemala City
 
