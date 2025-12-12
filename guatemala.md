@@ -15,7 +15,7 @@
   - [Restaurants in Antigua](#restaurants-in-antigua)
 - [Panajachel](#panajachel)
   - [Travel to Panajachel](#travel-to-panajachel)
-- [Panajachel Attractions](#panajachel-attractions)
+  - [Attractions in Panajachel](#attractions-in-panajachel)
 - [Flores / Tikal National Park](#flores--tikal-national-park)
 
 <!-- INDEX_END -->
@@ -218,7 +218,7 @@ This is a 3-4 hour drive from Guatemala City.
 From Guatemala City or Antigua the options are similar to Antigua above,
 arrange a tourist shuttle via your accommodation or local tourist activities shop.
 
-## Panajachel Attractions
+### Attractions in Panajachel
 
 There isn't much in the small town itself, you pretty much come for the lake or surrounding mountains or volcanoes.
 
