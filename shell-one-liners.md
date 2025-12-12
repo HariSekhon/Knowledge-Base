@@ -176,7 +176,9 @@ base64 --decode
 
 ### Find Lines in a File present in Other Files
 
-I used this to find Spotify tracks that are in one of my blacklists.
+I used this to find Spotify tracks that are in one of my blacklists
+as I download all my playlists to Git revision controlled backups and use scripts to remove songs I've already checked
+([HariSekhon/Spotify-Playlists](https://github.com/HariSekhon/Spotify-Playlists)).
 
 - `-F` - for fixed string
 - `-x` - to ensure we match whole lines
