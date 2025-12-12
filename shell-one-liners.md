@@ -25,7 +25,7 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
   - [Show Files Open by a Process](#show-files-open-by-a-process)
   - [Generate a Random Password](#generate-a-random-password)
   - [Base64 Secrets to avoid dodgy characters](#base64-secrets-to-avoid-dodgy-characters)
-  - [Find lines in a file that are found in other files](#find-lines-in-a-file-that-are-found-in-other-files)
+  - [Find Lines in a File present in Other Files](#find-lines-in-a-file-present-in-other-files)
 - [Network](#network)
   - [Listen Open TCP/UDP Ports](#listen-open-tcpudp-ports)
   - [Check if a Port is Open](#check-if-a-port-is-open)
@@ -174,7 +174,7 @@ use `--decode` switch instead of `-d` for better portability between your Mac an
 base64 --decode
 ```
 
-### Find lines in a file that are found in other files
+### Find Lines in a File present in Other Files
 
 I used this to find Spotify tracks that are in one of my blacklists.
 
