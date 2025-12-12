@@ -15,6 +15,7 @@
   - [Restaurants in Antigua](#restaurants-in-antigua)
 - [Panajachel](#panajachel)
   - [Travel to Panajachel](#travel-to-panajachel)
+- [Panajachel Attractions](#panajachel-attractions)
 - [Flores / Tikal National Park](#flores--tikal-national-park)
 
 <!-- INDEX_END -->
