@@ -257,6 +257,13 @@ Activities will typically set you back between $50-130 per person for 1-2 hours.
 
 ### Restaurants in Panajachel
 
+<!--
+
+Socialtel Atitlan - this was a nice place to stay with a good sized pool, water cooler, and moderately priced local
+restaurant. Wifi was decent too.
+
+-->
+
 - [Dao Thai](https://maps.app.goo.gl/8tDens715mFXDfke6) - all dishes were 60GTQ as of Dec 2025, good value and big
   portion sizes.
   The ginger beef had lots of beef, I was stuffed.
