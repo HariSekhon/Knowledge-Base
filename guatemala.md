@@ -167,6 +167,9 @@ The wifi 78/92 but is a bit slow at 0.5/0.5 Mbit/s in some places though
 
 -->
 
+- [Hector's Bistro](https://maps.app.goo.gl/UXKstoNvj4DaqC5v7) - probably the best cafe restaurant in Antigua, very good
+  menu, get there before 5pm for the cheaper day cafe menu.
+  Has wifi
 - [Mr Taco](https://maps.app.goo.gl/pkhAxL1YcsRo67586) - in the courtyard of the LemonTree hostel so not obvious to find
   as it's not directly on the street, but worth the find.
   It's different to the one in Guatemala City, 50% more expensive but good quality and flavour.
@@ -196,6 +199,17 @@ The wifi 78/92 but is a bit slow at 0.5/0.5 Mbit/s in some places though
   price (59 GTQ), although not as good as what you'd get in Indonesia of course.
   The jamaica water was typically sweet, and came in a jarge jug glass - could skip that next time.
   No wifi
+- [San Martín Antigua Guatemala](https://maps.app.goo.gl/rhzjcZckc2fxVQdYA) - same chain as the one in Guatemala City,
+  good menu and reasonable prices
+- [Saúl Bistro Antigua](https://maps.app.goo.gl/FwNT7jSZfRPcdeVr8) - same chain at the one in Guatemala City, good menu,
+  bit pricey
+- [Doña Luisa Xicotencatl](https://maps.app.goo.gl/72WoTph6H6Ud77Ca9) - cheap eats cafe, beef toasted sandwich with a
+  side of grated carrot, raisins and almond flakes was ok for 40 GTQ. The blueberry pie with vanilla ice cream was a
+  good sized portion, but the same type of low brow stuff you’d get in Sainsbury’s in England with the pie being deep
+  but having a sugar crystal top - it’s ok, as long as you’re not on a diet or watching your sugar intake. I obviously
+  wasn't as I snorted it and destroyed the whole thing.
+  Hey, there is a reason this place is cheap.
+  No wifi
 - [Ta'Cool Taco Shop](https://maps.app.goo.gl/BabMStbGpUpBS2dd6) - 100GTQ (£10) for a steak burrito in Guatemala - you
   know you’re in a tourist place as this is Western priced - you need the “burrote” - slang for a bigger burrito -
   just to be normal size.
@@ -205,6 +219,16 @@ The wifi 78/92 but is a bit slow at 0.5/0.5 Mbit/s in some places though
   There was also a miscommunication the first where I asked for just strawberries and cream, like that excellent one I
   had recently in Mexico City, but they brought me the chimichanga dessert regardless - english not great.
   Wifi 144/138 Mbit/s near entrance or 92/95 Mbit/s at the back
+- [Reilly's Antigua](https://maps.app.goo.gl/7F3n4EJgLq9ytP9y5) - bar area with locals and expats
+
+TODO:
+
+- [La Casa de las Mixtas](https://maps.app.goo.gl/Jg5TJBBCFyMsrs9G9) - cheap cafe, closes at 3pm and doesn't open at the
+  weekends
+- [Masil Antigua](https://maps.app.goo.gl/oquKY5k4FrVA1Any9) - 4.9 Korean, moderate prices
+- [Sobremesa](https://maps.app.goo.gl/dke3n5QScHFGbTc28) - 4.6 Italian with nice desserts, good meny, bit pricey
+- [Cactus Antigua](https://maps.app.goo.gl/EXrX91w6a48dXPLJ7) - 4.6 Mexican
+- [Pappys BBQ](https://maps.app.goo.gl/SWquqXaBrZoqhtiE7) - 4.6 American style BBQ
 
 ## Panajachel
 
@@ -225,6 +249,14 @@ There isn't much in the small town itself, you pretty much come for the lake or 
 So only stay as many days as you intend to do activities or lounge by the pool.
 
 Activities will typically set you back between $50-130 per person for 1-2 hours.
+
+### Restaurants in Panajachel
+
+- [Dao Thai](https://maps.app.goo.gl/8tDens715mFXDfke6) - all dishes were 60GTQ as of Dec 2025, good value and big
+  portion sizes.
+  The ginger beef had lots of beef, I was stuffed.
+  Cash only.
+  No wifi.
 
 ## Flores / Tikal National Park
 
