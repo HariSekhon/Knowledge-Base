@@ -46,7 +46,7 @@ which will save you time having to do it at one of the kiosks upon arrival:
 
 ## ATMs in Guatemala
 
-Banco Industrial is the best I've seen, charging 32 GTQ (\$4) withdrawal fee.
+Cajero BI (Banco Industrial) is the best I've seen, charging 32 GTQ (\$4) withdrawal fee.
 
 Do not use ATM 5B - they charge Q65 (\$8).
 
