@@ -278,6 +278,11 @@ restaurant. Wifi was decent too.
   The strawberry milkshake with milk was decent, a little sweet.
   Has wifi
 
+TODO:
+
+- [El Ultimo Refugio](https://maps.app.goo.gl/KtJNKDk4yr6fb87s8) - was closed early at 9pm the first time I tried to go
+  there, despite Google Maps saying 10pm
+
 ## Flores / Tikal National Park
 
 [Tikal National Park](https://maps.app.goo.gl/FZRUpFZatLVnEqs76) is a jungle containing the ancient Mayan city of Tikal.
