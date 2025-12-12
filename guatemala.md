@@ -262,6 +262,13 @@ Activities will typically set you back between $50-130 per person for 1-2 hours.
   The ginger beef had lots of beef, I was stuffed.
   Cash only.
   No wifi.
+- [Restaurante Lena’s Atlantis](https://maps.app.goo.gl/LewTJb7An55Yupss7) - bar restaurant with loud music in the
+  evenings.
+  More expensive than other places, but open late if you've missed them.
+  The medallones de lomito atlantis 300g steak was ok for Q120,
+  it comes with fries / baked potato / rice and steamed vegetables, as well as tortillas.
+  The strawberry milkshake with milk was decent, a little sweet.
+  Has wifi
 
 ## Flores / Tikal National Park
 
