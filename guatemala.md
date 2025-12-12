@@ -169,6 +169,11 @@ The wifi 78/92 but is a bit slow at 0.5/0.5 Mbit/s in some places though
 
 - [Hector's Bistro](https://maps.app.goo.gl/UXKstoNvj4DaqC5v7) - probably the best cafe restaurant in Antigua, very good
   menu, get there before 5pm for the cheaper day cafe menu.
+  Has a large internal courtyard as well as gentrified internal cafe seating with good artwork on the walls.
+  In the evenings has live music.
+  Excellent place for dinner or drinks.
+  The steak half sandwich with sweet potato fries was everything
+  I hoped it would be in terms of quality and size for 105GQT as of Dec 2025.
   Has wifi
 - [Mr Taco](https://maps.app.goo.gl/pkhAxL1YcsRo67586) - in the courtyard of the LemonTree hostel so not obvious to find
   as it's not directly on the street, but worth the find.
