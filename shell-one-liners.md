@@ -11,6 +11,8 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
   - [Show your $PATH entries one per line](#show-your-path-entries-one-per-line)
   - [Log all Commands in a Shell Session](#log-all-commands-in-a-shell-session)
   - [Create a Ram Disk](#create-a-ram-disk)
+- [Processes](#processes)
+  - [Find disowned processes owned by the init PID 1](#find-disowned-processes-owned-by-the-init-pid-1)
 - [Dates](#dates)
   - [Get Current Epoch](#get-current-epoch)
   - [Convert Epoch Seconds to Human Readable Date](#convert-epoch-seconds-to-human-readable-date)
@@ -22,7 +24,8 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
   - [Split Big File into 10MB chunks](#split-big-file-into-10mb-chunks)
   - [Show Files Open by a Process](#show-files-open-by-a-process)
   - [Generate a Random Password](#generate-a-random-password)
-  - [Base64 Secrets to avoid funny characters](#base64-secrets-to-avoid-funny-characters)
+  - [Base64 Secrets to avoid dodgy characters](#base64-secrets-to-avoid-dodgy-characters)
+  - [Find lines in a file that are found in other files](#find-lines-in-a-file-that-are-found-in-other-files)
 - [Network](#network)
   - [Listen Open TCP/UDP Ports](#listen-open-tcpudp-ports)
   - [Check if a Port is Open](#check-if-a-port-is-open)
@@ -61,6 +64,14 @@ script logfile.txt
 
 ```shell
 mkdir /tmp/ramdisk && mount -t tmpfs -o size=512m tmpfs /tmp/ramdisk
+```
+
+## Processes
+
+### Find disowned processes owned by the init PID 1
+
+```shell
+ ps -ef | awk '$3 == 1 {print}'
 ```
 
 ## Dates
@@ -149,9 +160,9 @@ Or generate a single one of length 20 chars and avoid any ambiguous chars:
 pwgen -1 -s -B 20
 ```
 
-### Base64 Secrets to avoid funny characters
+### Base64 Secrets to avoid dodgy characters
 
-Useful in things like [GitHub Actions CI/CD](github-actions.md).
+Useful in things like [GitHub Actions CI/CD](github-actions.md) for safer character handling.
 
 ```shell
 base64
@@ -162,6 +173,21 @@ use `--decode` switch instead of `-d` for better portability between your Mac an
 ```shell
 base64 --decode
 ```
+
+### Find lines in a file that are found in other files
+
+I used this to find Spotify tracks that are in one of my blacklists.
+
+- `-F` - for fixed string
+- `-x` - to ensure we match whole lines
+- `-h` - to not return the prefix of "$fileN: " before each line printed as we just want the line itself
+- `-f` - take the lines as patterns from the first file and look for them in all subsequent file arguments
+
+```shell
+grep -Fxhf "$patterns_file" "$file1" "$file2" ...
+```
+
+Pipe to `sort -u` to deduplicate if something is found in more than one file.
 
 ## Network
 
