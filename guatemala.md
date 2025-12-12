@@ -207,15 +207,23 @@ The wifi 78/92 but is a bit slow at 0.5/0.5 Mbit/s in some places though
 
 ## Panajachel
 
-[Panajachel](https://maps.app.goo.gl/wM1YiRVBLMvpyGZP7) is known Lake Atitlán and the San Pedro, Tolimán and Atitlán
+[Panajachel](https://maps.app.goo.gl/wM1YiRVBLMvpyGZP7) is known for Lake Atitlán and the San Pedro, Tolimán and Atitlán
 volcanoes.
 
 This is a 3-4 hour drive from Guatemala City.
 
 ### Travel to Panajachel
 
-From Guatemala CIty or Antigua the options are similar to Antigua above,
-arrange a tourist shuttle via your accommodation.
+From Guatemala City or Antigua the options are similar to Antigua above,
+arrange a tourist shuttle via your accommodation or local tourist activities shop.
+
+## Panajachel Attractions
+
+There isn't much in the small town itself, you pretty much come for the lake or surrounding mountains or volcanoes.
+
+So only stay as many days as you intend to do activities or lounge by the pool.
+
+Activities will typically set you back between $50-130 per person for 1-2 hours.
 
 ## Flores / Tikal National Park
 
