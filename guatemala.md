@@ -4,9 +4,9 @@
 
 - [Summary](#summary)
 - [Immigration Declaration Required](#immigration-declaration-required)
+- [ATMs in Guatemala](#atms-in-guatemala)
 - [Guatemala City](#guatemala-city)
   - [Taxis in Guatemala City](#taxis-in-guatemala-city)
-  - [ATMs in Guatemala City](#atms-in-guatemala-city)
   - [Attractions in Guatemala City](#attractions-in-guatemala-city)
   - [Restaurants in Guatemala City](#restaurants-in-guatemala-city)
 - [Antigua](#antigua)
@@ -16,6 +16,7 @@
 - [Panajachel](#panajachel)
   - [Travel to Panajachel](#travel-to-panajachel)
   - [Attractions in Panajachel](#attractions-in-panajachel)
+  - [Restaurants in Panajachel](#restaurants-in-panajachel)
 - [Flores / Tikal National Park](#flores--tikal-national-park)
 
 <!-- INDEX_END -->
@@ -43,6 +44,12 @@ which will save you time having to do it at one of the kiosks upon arrival:
 
 <https://en.portal.sat.gob.gt/portal/declaracion-jurada-regional-de-viajero/>
 
+## ATMs in Guatemala
+
+I was charged 32 GTQ (\$4) for a withdrawal by Industrial Bank ATM in the centre.
+
+Do not use ATM 5B they charge Q65 (\$8).
+
 ## Guatemala City
 
 The capital - it's not very big, there isn't much in the way of attractions to see here -
@@ -64,12 +71,6 @@ what should be a 20 minute drive according on Google Maps.
 - [InDrive](https://indrive.com/en-gt) - cheaper and more cars but drivers only accept cash
 
 There are some others like Yango but I haven't used them.
-
-### ATMs in Guatemala City
-
-I was charged 32 GTQ (\$4) for a withdrawal by Industrial Bank ATM in the centre.
-
-Apparently some others are worse, asking for \$8 withdrawal fee.
 
 ### Attractions in Guatemala City
 
