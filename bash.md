@@ -24,7 +24,6 @@ is one of the few use cases for that).
   - [Shell One Liners](#shell-one-liners)
   - [Pass Process Output as a File Handle](#pass-process-output-as-a-file-handle)
   - [Fifos](#fifos)
-  - [Number Lines](#number-lines)
   - [Squeeze Out Multiple Blank Lines](#squeeze-out-multiple-blank-lines)
   - [Miscellaneous Bash Bangs](#miscellaneous-bash-bangs)
   - [Flush Stdout Immediately](#flush-stdout-immediately)
@@ -237,20 +236,6 @@ FIFOs have no real security though and rely on file permissions to stop somebody
 input into the listening program, which may not be coded defensively enough. In practice people just use temporary files
 between processes not started in the same shell if they really have to. Situations which require long-running IPC would
 probably be better done in a real programming language.
-
-### Number Lines
-
-```shell
-cat -n
-```
-
-```shell
-less -N
-```
-
-```shell
-nl
-```
 
 ### Squeeze Out Multiple Blank Lines
 
