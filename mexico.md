@@ -75,42 +75,13 @@ Most people in Mexico speak little to no English, surprising for a place that re
 It greatly helps to know a bit of Spanish to get by, as you will struggle if relying on Google Translate for every
 little thing.
 
-| English                   | Spanish   |
-|---------------------------|-----------|
-| Yes                       | Si        |
-| No                        | No        |
-| Please                    | Por favor |
-| Thank You                 | Gracias   |
-| Very Good                 | Muy Bueno |
-| Beach                     | Playa     |
+See the [Spanish Crash Course](spanish.md) page.
 
 ## Mexican Food
 
-It can be quite confusing with many similar names, so here is a few quick tips:
-
-| Food              | Description                                                                                                                                                                                                                                                                              |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pescado           | Fish                                                                                                                                                                                                                                                                                     |
-| Cameron           | Shrimp                                                                                                                                                                                                                                                                                   |
-| Pulpo             | Octopus                                                                                                                                                                                                                                                                                  |
-| Arrachera         | Skirt Steak / Flank Steak                                                                                                                                                                                                                                                                |
-| Huervos           | Eggs                                                                                                                                                                                                                                                                                     |
-| Aguachile         | Raw meat or seafood in a zesty lime-chilli-cilantro sauce, served with nachos or plain untopped tostas / tostadas for you to load it up on to - this is one of my new favourite dishes, although quite extreme by western standards in both lime and chilli, start with the mildest one! |
-| Tacos             | Small soft round tortillas - these are actually overrated, I prefer aguachile and tostas                                                                                                                                                                                                 |
-| Tostas / Tostadas | Toasted flat tacos topped with meat/seafood and chopped tomato like bruschetta                                                                                                                                                                                                           |
-| Tortas            | Sandwich - not to be confused with Tostas!                                                                                                                                                                                                                                               |
-| Volcane           | Toasted crispy tortilla base (aka tosta aka tostada) with melted cheese on it and topped with meat. Named because the cheese is like a volcano                                                                                                                                           |
-| Chilaquiles       | Crispy fried tortilla chips drowned in sauce and cheese, really good, but obviously fattening!!                                                                                                                                                                                          |
-| Tlayuda           | Large tortilla with re-fied beans base and ingredients, folded and toasted until the cheese is melted                                                                                                                                                                                    |
-| Tamale            | Filling wrapped and cooked in a corn husk or banana leaf - you eat the filling and discard the leaf                                                                                                                                                                                      |
-
-<!-- -->
-
-| Drink             | Description                                                                                |
-|-------------------|--------------------------------------------------------------------------------------------|
-| Horchata          | Traditional rice milk drink, ranges from bland to overly sweet depending on the restaurant |
-| _"Jamaica"_ water | Hibiscus red still drink, slightly sweet                                                   |
-| Tamarind water    | Slightly sweet drink with a salty aftertaste                                               |
+It can be quite confusing with many similar names,
+so there are a few quick tips in the [Spanish Crash Course](spanish.md) since many dishes are found in several Latin
+countries or restaurants.
 
 ## Mexico City
 
