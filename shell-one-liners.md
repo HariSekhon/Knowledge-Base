@@ -19,6 +19,7 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
 - [Files & Strings](#files--strings)
   - [Generate ASCII Art](#generate-ascii-art)
   - [Number Lines](#number-lines)
+  - [Squeeze Out Multiple Blank Lines](#squeeze-out-multiple-blank-lines)
   - [Reverse a String](#reverse-a-string)
   - [Reverse the lines of a file](#reverse-the-lines-of-a-file)
   - [Shuffle Lines of a File](#shuffle-lines-of-a-file)
@@ -123,6 +124,15 @@ less -N
 
 ```shell
 nl
+```
+
+### Squeeze Out Multiple Blank Lines
+
+Useful to remove multiple blank lines between paragraphs in text replacements like
+[shorten_text_selection.scpt](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/applescript/shorten_text_selection.scpt).
+
+```shell
+cat -s
 ```
 
 ### Reverse a String
