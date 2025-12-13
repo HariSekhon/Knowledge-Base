@@ -19,6 +19,7 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
 - [Files & Strings](#files--strings)
   - [Generate ASCII Art](#generate-ascii-art)
   - [Number Lines](#number-lines)
+  - [Copy to Both Clipboard and Stdout simultaneously](#copy-to-both-clipboard-and-stdout-simultaneously)
   - [Squeeze Out Multiple Blank Lines](#squeeze-out-multiple-blank-lines)
   - [Reverse a String](#reverse-a-string)
   - [Reverse the lines of a file](#reverse-the-lines-of-a-file)
@@ -124,6 +125,18 @@ less -N
 
 ```shell
 nl
+```
+
+### Copy to Both Clipboard and Stdout simultaneously
+
+`tee` to both a command to copy to clipboard as well as stdout.
+
+Use `/dev/stdout` for further pipeline processing, not `/dev/tty`, as the latter outputs directly to the terminal.
+
+The `copy_to_clipboard.sh` script from [DevOps-Bash-tools](devops-bash-tools.md) works on both Linux and Mac:
+
+```shell
+echo test | tee >("copy_to_clipboard.sh") /dev/stdout
 ```
 
 ### Squeeze Out Multiple Blank Lines
