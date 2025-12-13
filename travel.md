@@ -35,6 +35,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Asia](#asia)
   - [Africa & Middle East](#africa--middle-east)
   - [North America](#north-america)
+  - [South America](#south-america)
 - [Booking Sites](#booking-sites)
 - [Travel Checklist](#travel-checklist)
 - [Flights](#flights)
@@ -175,11 +176,17 @@ Country pages with specific tips for each country:
 
 ### North America
 
-- [Canada](canada.md)
-- [El Salvador](elsalvador.md)
-- [Guatemala](guatemala.md)
-- [Mexico](mexico.md)
 - [USA](usa.md)
+- [Canada](canada.md)
+- [Spanish Crash Course](spanish.md) (you will need this for the following countries)
+- [Mexico](mexico.md)
+- [Guatemala](guatemala.md)
+- [El Salvador](elsalvador.md)
+
+### South America
+
+- [Spanish Crash Course](spanish.md) - you will need this for the following countries as most people don't speak English
+  like much of the rest of the world
 
 ## Booking Sites
 
