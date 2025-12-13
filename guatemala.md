@@ -5,6 +5,7 @@
 - [Summary](#summary)
 - [Immigration Declaration Required](#immigration-declaration-required)
 - [ATMs in Guatemala](#atms-in-guatemala)
+- [Spanish Crash Course](#spanish-crash-course)
 - [Guatemala City](#guatemala-city)
   - [Taxis in Guatemala City](#taxis-in-guatemala-city)
   - [Attractions in Guatemala City](#attractions-in-guatemala-city)
@@ -49,6 +50,14 @@ which will save you time having to do it at one of the kiosks upon arrival:
 Cajero BI (Banco Industrial) is the best I've seen, charging Q32 (\$4) withdrawal fee.
 
 Do not use ATM 5B - they charge Q65 (\$8).
+
+## Spanish Crash Course
+
+Most people in Guatemala speak little to no English, and even many restaurants don't have English menus, so it
+helps to know a bit of Spanish to get by, as you will struggle if relying on Google Translate for every
+little thing.
+
+See the [Spanish Crash Course](spanish.md) page.
 
 ## Guatemala City
 
