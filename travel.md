@@ -176,6 +176,7 @@ Country pages with specific tips for each country:
 ### North America
 
 - [Canada](canada.md)
+- [El Salvador](elsalvador.md)
 - [Guatemala](guatemala.md)
 - [Mexico](mexico.md)
 - [USA](usa.md)
