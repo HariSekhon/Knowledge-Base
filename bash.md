@@ -21,6 +21,8 @@ is one of the few use cases for that).
 - [Binaries Debugging](#binaries-debugging)
 - [Commands](#commands)
 - [Tips & Tricks](#tips--tricks)
+  - [Shell One Liners](#shell-one-liners)
+  - [Pass Process Output as a File Handle](#pass-process-output-as-a-file-handle)
   - [Fifos](#fifos)
   - [Number Lines](#number-lines)
   - [Squeeze Out Multiple Blank Lines](#squeeze-out-multiple-blank-lines)
@@ -176,6 +178,12 @@ Environment variables to keep in mind:
 | `SECONDS` | Incrementing integer of seconds, `SECONDS=0` to use it as a simple timer in a script or even shell |
 
 ## Tips & Tricks
+
+### Shell One Liners
+
+See the [Shell One Liners](shell-one-liners.md) page.
+
+### Pass Process Output as a File Handle
 
 Treat a process as a file handle to read from:
 
