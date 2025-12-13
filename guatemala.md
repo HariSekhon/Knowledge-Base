@@ -46,7 +46,7 @@ which will save you time having to do it at one of the kiosks upon arrival:
 
 ## ATMs in Guatemala
 
-Cajero BI (Banco Industrial) is the best I've seen, charging 32 GTQ (\$4) withdrawal fee.
+Cajero BI (Banco Industrial) is the best I've seen, charging Q32 (\$4) withdrawal fee.
 
 Do not use ATM 5B - they charge Q65 (\$8).
 
@@ -98,7 +98,7 @@ The wifi was fairly reliable too
   Even the street food in the centre was more expensive.
   This place was so good that I ate there every day I was in Guatemala City,
   and even ran out at 1am for one final hurrah before it closed at 2am.
-  I recommend the asada (beef) tacos or gringas (40 GTQ) and then load them up with onions, pineapple, salad and
+  I recommend the asada (beef) tacos or gringas for Q40 and then load them up with onions, pineapple, salad and
   drenched in lime for maximum flavour and filling - make use of the free toppings!
   Counterintuitively, the orange chilli sauce is more spicy than the red one,
   and the finely chopped salad topping is even more spicy than that due to the green chilli pieces in it.
@@ -112,19 +112,19 @@ The wifi was fairly reliable too
   Drinks include lots of variations of coffees, juices and milkshakes with both ice cream and milk varieties,
   good burgers, pastas with chicken and shrimp and tequila reduction, pizzas and lighter _"pinsa"_ variations of pizzas,
   salads, soups, and very tempting selection desserts from the bakery.
-  Get there 3-6pm for a cake and coffee for only 29 GTQ deal.
+  Get there 3-6pm for a cake and coffee for only Q29 deal.
   The Centenaria burger was exquisite -
   a good quality thick burger with bacon, salad, and a sweet sauce of Ron Zacapa Centenario rum
   (this sauce must have lots of sugar in it to taste so good).
   If this isn't the best burger in Guatemala City I'd be surprised.
   This is what I wish Jack Daniels Texas burgers were in other places.
-  The papas fritas is an extra 3 GTQ and are freshly baked thin crisp chips which I loved dipping into that sweet
+  The papas fritas is an extra Q3 and are freshly baked thin crisp chips which I loved dipping into that sweet
   Ron Zacapa Centenario extra side sauce.
-  This was totally worth the 75 GTQ.
+  This was totally worth the Q75.
   The vanilla milkshake (ice cream base) had just the right amount of sweetness, not too sweet as it first appeared
   when I saw it arrive with the rim of tiny candies glued with syrup and whipped cream on top - this was worth the
-  36 GTQ.
-  To top it all off, the pineapple strudel was only 8 GTQ (\$1), I just had to, and it was also good.
+  Q36.
+  To top it all off, the pineapple strudel was only Q8 (\$1), I just had to, and it was also good.
   Overall all of this was all completely worth the damage and I'd do it again.
   Forget your diet, be good tomorrow, when presented with these options, live for today's food.
   Wifi 83/81 Mbit/s
@@ -133,7 +133,7 @@ TODO:
 
 - [Hwasanjung](https://maps.app.goo.gl/ZdxA9yrQqoQnWYjk8) - Korean fine dining - 3, 5 or 8 course menus for
   150 / 250 / 395 GTQ (\$20 / \$33 / \$50) -
-  expensive by local standards considering your can eat for 40-80 GTQ (\$5 - \$10) at places like Mr Taco
+  expensive by local standards considering your can eat for Q40-80 (\$5 - \$10) at places like Mr Taco
 
 ## Antigua
 
@@ -180,18 +180,18 @@ The wifi 78/92 but is a bit slow at 0.5/0.5 Mbit/s in some places though
   as it's not directly on the street, but worth the find.
   It's different to the one in Guatemala City, 50% more expensive but good quality and flavour.
   The tacos are ordered in a group of four.
-  The _"land & sea"_ tacos for 65GTQ are mixed shrimp and pork with finely chopped onions and pineapple chunks,
+  The _"land & sea"_ tacos for Q65 are mixed shrimp and pork with finely chopped onions and pineapple chunks,
   and a slightly sweet sauce to drizzle on as you see fit.
   They will also give you a more spicy sauce if you want it.
-  The birria (stewed pulled beef) taco for 45GTQ is very good too.
+  The birria (stewed pulled beef) taco for Q45 is very good too.
   Has wifi
 - [Steak House El Cafetal](https://maps.app.goo.gl/Ae5YDVuu7hLrKngu7) - excellent and affordable menu, especially for
   mains. There is a custom burger composition menu too, and both small affordable and large medium priced steaks.
   There are only 2 desserts.
-  The tortilla soup with shredded chicken was good, especially for 25 GTQ,
-  and the churrasquito de vacio steak meal was decent, especially for its price of only 59 GTQ.
+  The tortilla soup with shredded chicken was good, especially for Q25,
+  and the churrasquito de vacio steak meal was decent, especially for its price of only Q59.
   The dessert of 3 fried plantains in a slightly sweet mole of spices was decent, but I could skip it, but then for only
-  20 GTQ why would you want to, it's a decent little calorie and flavour boost to top off the meal if you need recovery
+  Q20 why would you want to, it's a decent little calorie and flavour boost to top off the meal if you need recovery
   calories.
   Wifi 16/4 Mbit/s
 - [Tacorazon](https://maps.app.goo.gl/PS4JTJK6tyPaxW5j7) - surprisingly good tacos, and came with 2 different colour
@@ -202,7 +202,7 @@ The wifi 78/92 but is a bit slow at 0.5/0.5 Mbit/s in some places though
   Overall very good quality, although not that cheap unless you go on a Tuesday.
   WiFi 44/45 Mbit/s
 - [Toko Baru](https://maps.app.goo.gl/yfYsqP7n1LPWVYVw8) - the beef rendang curry was reasonable, especially for the
-  price (59 GTQ), although not as good as what you'd get in Indonesia of course.
+  price (Q59), although not as good as what you'd get in Indonesia of course.
   The jamaica water was typically sweet, and came in a jarge jug glass - could skip that next time.
   No wifi
 - [San Martín Antigua Guatemala](https://maps.app.goo.gl/rhzjcZckc2fxVQdYA) - same chain as the one in Guatemala City,
@@ -210,17 +210,17 @@ The wifi 78/92 but is a bit slow at 0.5/0.5 Mbit/s in some places though
 - [Saúl Bistro Antigua](https://maps.app.goo.gl/FwNT7jSZfRPcdeVr8) - same chain at the one in Guatemala City, good menu,
   bit pricey
 - [Doña Luisa Xicotencatl](https://maps.app.goo.gl/72WoTph6H6Ud77Ca9) - cheap eats cafe, beef toasted sandwich with a
-  side of grated carrot, raisins and almond flakes was ok for 40 GTQ. The blueberry pie with vanilla ice cream was a
+  side of grated carrot, raisins and almond flakes was ok for Q40. The blueberry pie with vanilla ice cream was a
   good sized portion, but the same type of low brow stuff you’d get in Sainsbury’s in England with the pie being deep
   but having a sugar crystal top - it’s ok, as long as you’re not on a diet or watching your sugar intake. I obviously
   wasn't as I snorted it and destroyed the whole thing.
   Hey, there is a reason this place is cheap.
   No wifi
-- [Ta'Cool Taco Shop](https://maps.app.goo.gl/BabMStbGpUpBS2dd6) - 100GTQ (£10) for a steak burrito in Guatemala - you
+- [Ta'Cool Taco Shop](https://maps.app.goo.gl/BabMStbGpUpBS2dd6) - Q100 (£10) for a steak burrito in Guatemala - you
   know you’re in a tourist place as this is Western priced - you need the “burrote” - slang for a bigger burrito -
   just to be normal size.
-  For desserts, neither the flan (39 GTQ).
-  nor chimichangas (37 GTQ) were not worth the damage to your body - the latter was mostly cream and little
+  For desserts, neither the flan (Q39).
+  nor chimichangas (Q37) were not worth the damage to your body - the latter was mostly cream and little
   strawberry.
   There was also a miscommunication the first where I asked for just strawberries and cream, like that excellent one I
   had recently in Mexico City, but they brought me the chimichanga dessert regardless - english not great.
@@ -275,7 +275,7 @@ restaurant. Wifi was decent too.
   They have an online payment method with 3% overhead but the QR was slightly misaligned off the ipad page
   so take cash just in case.
   Wifi 29/10 Mbit/s
-- [Dao Thai](https://maps.app.goo.gl/8tDens715mFXDfke6) - all dishes were 60GTQ as of Dec 2025, good value and big
+- [Dao Thai](https://maps.app.goo.gl/8tDens715mFXDfke6) - all dishes were Q60 as of Dec 2025, good value and big
   portion sizes.
   The ginger beef had lots of beef, I was stuffed.
   Cash only.
