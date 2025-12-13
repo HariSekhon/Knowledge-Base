@@ -288,8 +288,8 @@ restaurant. Wifi was decent too.
 
 TODO:
 
-- [El Ultimo Refugio](https://maps.app.goo.gl/KtJNKDk4yr6fb87s8) - was closed early at 9pm the first time I tried to go
-  there, despite Google Maps saying 10pm
+- [El Ultimo Refugio](https://maps.app.goo.gl/KtJNKDk4yr6fb87s8) - they closed early at 9pm the first time I tried to go
+  there, despite Google Maps saying 10pm, and trying it a second night it was already locked up dead by 8pm
 
 ## Flores / Tikal National Park
 
