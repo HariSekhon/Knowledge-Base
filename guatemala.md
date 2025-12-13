@@ -265,6 +265,14 @@ restaurant. Wifi was decent too.
 
 -->
 
+- [The Little Spoon](https://maps.app.goo.gl/zGmhGRdMFfbGUDvS8) - excellent cafe restaurant with a bar on the top floor,
+  but get there early as it closes at 9pm.
+  The menu breakfast menu is very gentrified but even the lunch/evening menu is good.
+  The burrito bowl for Q60 is very worth it, and the chicken burger for Q45 is also worth it.
+  The chai smoothie is the closest thing to a perfect milk based smoothie I've ever had.
+  They have an online payment method with 3% overhead but the QR was slightly misaligned off the ipad page
+  so take cash just in case.
+  Wifi 29/10 Mbit/s
 - [Dao Thai](https://maps.app.goo.gl/8tDens715mFXDfke6) - all dishes were 60GTQ as of Dec 2025, good value and big
   portion sizes.
   The ginger beef had lots of beef, I was stuffed.
