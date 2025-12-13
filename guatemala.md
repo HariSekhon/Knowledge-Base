@@ -248,6 +248,8 @@ This is a 3-4 hour drive from Guatemala City.
 From Guatemala City or Antigua the options are similar to Antigua above,
 arrange a tourist shuttle via your accommodation or local tourist activities shop.
 
+I paid Q130 in Dec 2025, but the return journey I was quoted Q170 by my accommodation and Q125-150 by the travel shops.
+
 ### Attractions in Panajachel
 
 There isn't much in the small town itself, you pretty much come for the lake or surrounding mountains or volcanoes.
