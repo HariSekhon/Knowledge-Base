@@ -2,10 +2,15 @@
 
 <!-- INDEX_START -->
 
+- [Spanish Crash Course](#spanish-crash-course)
 - [Santa Ana](#santa-ana)
   - [Travel to Santa Ana](#travel-to-santa-ana)
 
 <!-- INDEX_END -->
+
+## Spanish Crash Course
+
+See the [Spanish Crash Course](spanish.md) page.
 
 ## Santa Ana
 
