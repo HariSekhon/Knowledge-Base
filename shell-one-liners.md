@@ -18,6 +18,7 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
   - [Convert Epoch Seconds to Human Readable Date](#convert-epoch-seconds-to-human-readable-date)
 - [Files & Strings](#files--strings)
   - [Generate ASCII Art](#generate-ascii-art)
+  - [Number Lines](#number-lines)
   - [Reverse a String](#reverse-a-string)
   - [Reverse the lines of a file](#reverse-the-lines-of-a-file)
   - [Shuffle Lines of a File](#shuffle-lines-of-a-file)
@@ -108,6 +109,20 @@ figlet "Hari Sekhon"
  | |_| |/ _` | '__| | \___ \ / _ \ |/ / '_ \ / _ \| '_ \
  |  _  | (_| | |  | |  ___) |  __/   <| | | | (_) | | | |
  |_| |_|\__,_|_|  |_| |____/ \___|_|\_\_| |_|\___/|_| |_|
+```
+
+### Number Lines
+
+```shell
+cat -n
+```
+
+```shell
+less -N
+```
+
+```shell
+nl
 ```
 
 ### Reverse a String
