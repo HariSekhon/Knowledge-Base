@@ -228,7 +228,7 @@ in another shell:
 cat /tmp/test.fifo
 ```
 
-In practice, I can't recall finding a need for this since the 2000s. There usually better solutions.
+In practice, I can't recall finding a need for this since the 2000s. There are usually better solutions.
 
 FIFOs have no real security though and rely on file permissions to stop somebody or some other program writing unexpected
 input into the listening program, which may not be coded defensively enough. In practice people just use temporary files
