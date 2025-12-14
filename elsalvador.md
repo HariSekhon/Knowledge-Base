@@ -95,6 +95,8 @@ Also known as _"Bitcoin Beach"_ for having pioneered accepting Bitcoin payments.
 
 ### Travel to El Zonte
 
-From the capital San Salvador you need to catch the #102A bus from opposite
+From the capital San Salvador you need to catch the #102A bus from the bus stop
+[Estación Ceiba de Guadalupe](https://maps.app.goo.gl/tPtjwxyYfS48YSBfA)
+opposite
 [Basilica of Our Lady of Guadalupe](https://maps.app.goo.gl/LT8aDhdQAWbMHWHb6).
 Make sure the bus has the letter A on it to go all the way to the beach, otherwise don't get on it.
