@@ -38,11 +38,18 @@ Guatemala and managed to get from there to Antigua and then change to Santa Ana 
 
 ### Attractions in Santa Ana
 
-There's not much here, it's a 2 hour place with a small centre with Santa Ana Cathedral and a volcano of the same name
-an hour's drive away.
+The town itself doesn't have much in it, after an hour walking around the small centre with Santa Ana Cathedral you'll
+want to go elsewhere.
 
-If you've just come down from Guatemala you might already be volcano'd out
-and perhaps skip on to Bitcoin Beach in El Zonte or the capital San Salvador.
+The attractions are outside the town.
+
+You can refer to [this local guide](https://www.canva.com/design/DAGerN-EUEc/YpGj1_h_8r2iWelBE8-K3A/edit) for
+attractions and travel to nearby cities like San Salvador and El Zonte.
+
+- [Santa Ana Volcano](https://maps.app.goo.gl/QiuRxZ2FfQupHJV26) - a 1 hour drive away, but you have to leave really
+  early in the morning to take a shuttle or public but to get there before 11am for a guided tour.
+  I'd just come down from Guatemala so was already volcano'd out
+  and skipped on to Bitcoin Beach in El Zonte and the capital San Salvador
 
 ### Restaurants in Santa Ana
 
