@@ -50,11 +50,23 @@ attractions and travel to nearby cities like San Salvador and El Zonte.
   early in the morning to take a shuttle or public but to get there before 11am for a guided tour.
   I'd just come down from Guatemala so was already volcano'd out
   and skipped on to Bitcoin Beach in El Zonte and the capital San Salvador
+- [Lago de Coatepeque](https://maps.app.goo.gl/V2zTeqza7dCCGE4UA)
+- [El Salto de Malacatiupán](https://maps.app.goo.gl/s1dvDV14DKRNwZqn7)
+- [Parque Arqueológico Tazumal](https://maps.app.goo.gl/jsE7u4JPyzkFyy446)
+
+in town:
+
+- [Parque Libertad](https://maps.app.goo.gl/X6pgPiuePn7kQDFX9) - the central park in town, there is street food around
+  it
+- [Catedral de Nuestra Señora Santa Ana](https://maps.app.goo.gl/XEccUbjFXTfVcB9H7)
+- [UNASA Human Anatomy Museum](https://maps.app.goo.gl/uWj2Ecm239fhe1FR8)
+- [Western Regional Museum](https://maps.app.goo.gl/yKmTwiDsc9CTLLudA)
 
 ### Restaurants in Santa Ana
 
 - [Comedor y Pupuseria Claudia](https://maps.app.goo.gl/9cv1kzMFQiRfgyjC7) - shockingly cheap local eats restaurant with
   live music in the evening - recommended by locals - \$1-\$1.5 per Papusa, $2.50 for soft drinks.
+  The street food around [Parque Libertad](https://maps.app.goo.gl/X6pgPiuePn7kQDFX9) is even cheaper.
   Papusa are pretty fattening though as a dough full of cheese with a little bit of meat or shrimp.
   WiFi 21/22 Mbit/s
 - [Súper Selectos • Santa Ana Centro](https://maps.app.goo.gl/isbLkvAMVm3j8qgZ6) - supermarket to pick up groceries or
