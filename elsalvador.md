@@ -42,4 +42,4 @@ If you've just come down from Guatemala you might already be volcano'd out and p
 
 TODO:
 
-- [Taqueria Los Plebes](Taqueria Los Plebes) - 4.9 Mexican
+- [Taqueria Los Plebes](Taqueria Los Plebes) - 4.9 Mexican, affordable
