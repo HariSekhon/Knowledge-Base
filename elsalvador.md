@@ -37,3 +37,9 @@ If you've just come down from Guatemala you might already be volcano'd out and p
   live music in the evening - recommended by locals - \$1-\$1.5 per Papusa, $2.50 for soft drinks.
   Papusa are pretty fattening though as a dough full of cheese with a little bit of meat or shrimp.
   WiFi 21/22 Mbit/s
+- [Súper Selectos • Santa Ana Centro](https://maps.app.goo.gl/isbLkvAMVm3j8qgZ6) - supermarket to pick up groceries or
+  household items
+
+TODO:
+
+- [Taqueria Los Plebes](Taqueria Los Plebes) - 4.9 Mexican
