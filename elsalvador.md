@@ -41,7 +41,8 @@ Guatemala and managed to get from there to Antigua and then change to Santa Ana 
 There's not much here, it's a 2 hour place with a small centre with Santa Ana Cathedral and a volcano of the same name
 an hour's drive away.
 
-If you've just come down from Guatemala you might already be volcano'd out and perhaps skip on to
+If you've just come down from Guatemala you might already be volcano'd out
+and perhaps skip on to Bitcoin Beach in El Zonte or the capital San Salvador.
 
 ### Restaurants in Santa Ana
 
