@@ -16,7 +16,8 @@
 
 ## Summary
 
-El Salvador got famous for adopting Bitcoin as legal tender. You can see signs you can use this in the supermarket for example.
+El Salvador got famous for adopting Bitcoin as legal tender
+(you can see signs you can use this in the supermarket).
 
 The country uses the US dollar as its official currency.
 
