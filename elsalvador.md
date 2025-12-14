@@ -40,7 +40,7 @@ Guatemala and managed to get from there to Antigua and then change to Santa Ana 
 
 In Santa Ana, [Bus Terminal Francisco Lara Pineda](https://maps.app.goo.gl/uZrDW38GFPawAnFt5)
 is the local bus station where you can catch public buses to the
-[Tudo](https://maps.app.goo.gl/BDExtbjVn7pBDrEi6) long-distance bus station.
+[Tudo](https://maps.app.goo.gl/BDExtbjVn7pBDrEi6) long-distance bus station, as well as local attractions in the region.
 
 From [Tudo](https://maps.app.goo.gl/BDExtbjVn7pBDrEi6)
 you can take buses to San Salvador, where you can also change to get another bus to El Zonte.
@@ -48,6 +48,8 @@ you can take buses to San Salvador, where you can also change to get another bus
 You need the #201 bus to San Salvador.
 But this can also be caught from other locations such as Metro Centro,
 but it's better to take an Uber taxi to Tudo so you can get a seat for the long journey.
+
+Buses leave every 15 minutes to San Salvador until 6:30pm (double check this information hasn't changed since).
 
 ### Attractions in Santa Ana
 
