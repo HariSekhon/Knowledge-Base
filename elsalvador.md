@@ -28,13 +28,17 @@ See the [Spanish Crash Course](spanish.md) page.
 
 ## Santa Ana
 
-### Travel to Santa Ana
+### Travel to and from Santa Ana
 
-I took buses from Guatemala as I was working my way down Central America to South America.
+I took pre-arranged shuttles from Guatemala as I was working my way down Central America to South America.
 
 I shopped around the tour operator shops in Panajachel,
 Guatemala and managed to get from there to Antigua and then change to Santa Ana for a mere 450 GTQ
 ($58) which is almost certainly cheaper than any flight.
+
+In Santa Ana,
+bookmark [Bus Terminal Francisco Lara Pineda](https://maps.app.goo.gl/uZrDW38GFPawAnFt5)
+as this is where you can catch public buses to San Salvador, where you can also change to El Zonte.
 
 ### Attractions in Santa Ana
 
