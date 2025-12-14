@@ -6,7 +6,7 @@
 - [Spanish Crash Course](#spanish-crash-course)
 - [ATMs in El Salvador](#atms-in-el-salvador)
 - [Santa Ana](#santa-ana)
-  - [Travel to Santa Ana](#travel-to-santa-ana)
+  - [Travel to and from Santa Ana](#travel-to-and-from-santa-ana)
   - [Attractions in Santa Ana](#attractions-in-santa-ana)
   - [Restaurants in Santa Ana](#restaurants-in-santa-ana)
 
