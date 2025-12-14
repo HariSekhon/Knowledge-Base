@@ -9,6 +9,8 @@
   - [Travel to and from Santa Ana](#travel-to-and-from-santa-ana)
   - [Attractions in Santa Ana](#attractions-in-santa-ana)
   - [Restaurants in Santa Ana](#restaurants-in-santa-ana)
+- [El Zonte](#el-zonte)
+  - [Travel to El Zonte](#travel-to-el-zonte)
 
 <!-- INDEX_END -->
 
@@ -86,3 +88,13 @@ in town:
 TODO:
 
 - [Taqueria Los Plebes](Taqueria Los Plebes) - 4.9 Mexican, affordable
+
+## El Zonte
+
+Also known as _"Bitcoin Beach"_ for having pioneered accepting Bitcoin payments.
+
+### Travel to El Zonte
+
+From the capital San Salvador you need to catch the #102A bus from opposite
+[Basilica of Our Lady of Guadalupe](https://maps.app.goo.gl/LT8aDhdQAWbMHWHb6).
+Make sure the bus has the letter A on it to go all the way to the beach, otherwise don't get on it.
