@@ -4,6 +4,7 @@
 
 - [Summary](#summary)
 - [Spanish Crash Course](#spanish-crash-course)
+- [ATMs in El Salvador](#atms-in-el-salvador)
 - [Santa Ana](#santa-ana)
   - [Travel to Santa Ana](#travel-to-santa-ana)
   - [Attractions in Santa Ana](#attractions-in-santa-ana)
@@ -15,11 +16,15 @@
 
 El Salvador got famous for adopting Bitcoin as legal tender. You can see signs you can use this in the supermarket for example.
 
-The country uses US dollars are legal tender.
+The country uses the US dollar as its official currency.
 
 ## Spanish Crash Course
 
 See the [Spanish Crash Course](spanish.md) page.
+
+## ATMs in El Salvador
+
+- [Banco Hipotecario](Banco Hipotecario) - charged me no fee for a a USD withdrawal
 
 ## Santa Ana
 
