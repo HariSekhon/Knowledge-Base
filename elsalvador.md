@@ -44,8 +44,8 @@ From [Tudo](https://maps.app.goo.gl/BDExtbjVn7pBDrEi6)
 you can take buses to San Salvador, where you can also change to get another bus to El Zonte.
 
 You need the #201 bus to San Salvador.
-But this can also be caught from other locations such as Metro Centro or Don Pollo by
-[Parque Libertad](https://maps.app.goo.gl/B1ymuzmWwVg5VZaXA).
+But this can also be caught from other locations such as Metro Centro,
+but it's better to take an Uber taxi to Tudo so you can get a seat for the long journey.
 
 ### Attractions in Santa Ana
 
