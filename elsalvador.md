@@ -43,6 +43,10 @@ is the local bus station where you can catch public buses to the
 From [Tudo](https://maps.app.goo.gl/BDExtbjVn7pBDrEi6)
 you can take buses to San Salvador, where you can also change to get another bus to El Zonte.
 
+You need the #201 bus to San Salvador.
+But this can also be caught from other locations such as Metro Centro or Don Pollo by
+[Parque Libertad](https://maps.app.goo.gl/B1ymuzmWwVg5VZaXA).
+
 ### Attractions in Santa Ana
 
 The town itself doesn't have much in it, after an hour walking around the small centre with Santa Ana Cathedral you'll
