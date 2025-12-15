@@ -87,6 +87,7 @@ in town:
   WiFi 21/22 Mbit/s
 - [Súper Selectos • Santa Ana Centro](https://maps.app.goo.gl/isbLkvAMVm3j8qgZ6) - supermarket to pick up groceries or
   household items
+- [Maxi Despensa](https://maps.app.goo.gl/jWrSrw733u1zEayR9) - cheaper than Super Selectos above
 
 TODO:
 
