@@ -7,6 +7,8 @@ Blogging is such a Web 2.0 cliche, see this classic video:
 ... but at some point many people will want to blog about their favourite hobbies,
 travel or whatever.
 
+## Blogging Sites / Software
+
 - Medium.com - you can see mine at: <https://medium.com/@harisekhon>
 - Wordpress:
   - [WordPress.com](https://wordpress.com) - hosts free wordpress blogs, but beware they can deplatform you if you say
@@ -19,7 +21,7 @@ travel or whatever.
     - I have done at least one company hiring test administering a wordpress site when I had no experience at all in
       this software (I figured it out and passed at the time)
 
-### Do not blog on LinkedIn
+## Do not blog on LinkedIn
 
 1. It is an oppressive censorship platform
 1. You have to be logged in just to read and article, limiting its reach
