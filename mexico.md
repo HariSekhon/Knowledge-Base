@@ -81,7 +81,7 @@ See the [Spanish Crash Course](spanish.md) page.
 
 It can be quite confusing with many similar names,
 so there are a few quick tips in the [Spanish Crash Course](spanish.md) since many dishes are found in several Latin
-countries or restaurants.
+countries.
 
 ## Mexico City
 
