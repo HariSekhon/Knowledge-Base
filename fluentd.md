@@ -322,7 +322,6 @@ Common Params:
 | `@label`     |                                                     |
 | `@log_level` | Per plugin log level                                |
 
-
 #### Install Plugins
 
 `fluent-gem` and `td-agent-gem` are wrappers around `gem` command.
