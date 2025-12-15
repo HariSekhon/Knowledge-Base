@@ -51,7 +51,7 @@ are provided throughout where relevant.
 
 ## Highlights
 
-Here are some highlight pages that you may want to check:
+A few highlight pages:
 
 - [![Travel](https://img.shields.io/badge/Travel%20Tips-50%2B%20countries%20%2F%20150%2B%20cities-029F00)](travel.md)
 - [![Remote](https://img.shields.io/badge/Remote%20Working-Digital%20Nomad-blue)](remote-working.md)
@@ -59,16 +59,17 @@ Here are some highlight pages that you may want to check:
 - [![macOS](https://img.shields.io/badge/mac-OS-blue?logo=apple)](mac.md) / [![macOS](https://img.shields.io/badge/iOS-builds-blue?logo=apple)](ios.md) / [![macOS](https://img.shields.io/badge/Android-builds-blue?logo=android)](android.md)
 - [![Linux](https://img.shields.io/badge/GNU-Linux-blue?logo=linux)](linux.md)
 - [![Bash](https://img.shields.io/badge/Bash-Shell-blue?logo=gnubash)](bash.md)
-- [![Git](https://img.shields.io/badge/Git-Revision%20Control-blue?logo=git)](git.md) /
-  [![GitHub](https://img.shields.io/badge/GitHub-management-blue?logo=github)](github.md) /
-  [![GitHub Workflows](https://img.shields.io/badge/CI/CD-GitHub%20Workflows-blue?logo=github)](git.md)
+- [![Git](https://img.shields.io/badge/Git-Revision%20Control-blue?logo=git)](git.md)
+  - [![GitHub](https://img.shields.io/badge/GitHub-management-blue?logo=github)](github.md)
+    - [![GitHub Workflows](https://img.shields.io/badge/CI/CD-GitHub%20Workflows-blue?logo=github)](git.md)
 - [![IntelliJ](https://img.shields.io/badge/IntelliJ-IDE-purple?logo=intellijidea)](intellij.md) /
   [![Vim](https://img.shields.io/badge/ViM-Editor-purple?logo=vim)](vim.md)
 - [![AWS](https://img.shields.io/badge/Cloud-AWS-blue?logo=)](aws.md)
 - [![Docker](https://img.shields.io/badge/Containerization-Docker-blue?logo=docker&logoColor=white)](docker.md)
 - [![Kubernetes](https://img.shields.io/badge/Containerization-Kubernetes-blue?logo=kubernetes&logoColor=white)](kubernetes.md)
-- [![Markdown](https://img.shields.io/badge/Documentation-Markdown-blue)](markdown.md)
-- [![Diagrams-as-Code](https://img.shields.io/badge/Documentation-Diagrams--as--Code-blue?logo=diagrams.net&logoColor=white)](diagrams.md)
+- [![Documentation](https://img.shields.io/badge/Documentation-Tips-blue)](documentation.md)
+  - [![Markdown](https://img.shields.io/badge/Documentation-Markdown-blue)](markdown.md)
+  - [![Diagrams-as-Code](https://img.shields.io/badge/Documentation-Diagrams--as--Code-blue?logo=diagrams.net&logoColor=white)](diagrams.md)
 
 You can find the other more specialist stuff below in the full index.
 
