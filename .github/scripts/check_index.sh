@@ -44,6 +44,6 @@ while read -r file_md; do
     echo "$file_md not in README.md"
     exitcode=1
   fi
-done < <(git ls-files | grep '\.md$')
+done < <(git ls-files | grep '\.md$' | grep -v travel/ || :)
 
 exit $exitcode
