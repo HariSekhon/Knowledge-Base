@@ -2,7 +2,7 @@
 
 Blogging is such a Web 2.0 cliche, see this classic video:
 
-[![Video title](https://img.youtube.com/vi/I6IQ_FOCE6I/0.jpg)](https://www.youtube.com/watch?v=I6IQ_FOCE6I)
+[![Richter Scales Video](https://img.youtube.com/vi/I6IQ_FOCE6I/0.jpg)](https://www.youtube.com/watch?v=I6IQ_FOCE6I)
 
 ... but at some point many people will want to blog about their favourite hobbies,
 travel or whatever.
