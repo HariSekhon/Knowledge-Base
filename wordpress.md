@@ -39,7 +39,12 @@ Watch out for intro deals that are cheap in the first year and then jack the pri
   men's blog, which means it's a censorship platform rather than a freedom of speech platform
 - [WP Engine](https://wpengine.com) - expensive
 
-This guy has done an interesting comparison video in late 2025:
+You can also use cloud hosting like AWS LightSail or DigitalOcean droplet but I don't recommend this as it's harder to
+operate and control costs (eg. bandwidth).
+
+You should use a [CDN](cdn.md) to speed up web page loading and take pressure off your wordpress installation.
+
+This guy has done an interesting comparison video on hosting providers in late 2025:
 
 [![WordPress Hosting Comparison Video](https://img.youtube.com/vi/Pb9iJoIEej0/0.jpg)](https://www.youtube.com/watch?v=Pb9iJoIEej0)
 
