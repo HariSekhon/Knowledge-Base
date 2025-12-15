@@ -68,7 +68,7 @@ Here are some highlight pages that you may want to check:
 
 You can find the other more specialist stuff below in the full index.
 
-## Full Sections Index
+## Index
 
 <!-- INDEX_START -->
 
@@ -134,6 +134,7 @@ You can find the other more specialist stuff below in the full index.
   - [Vendors](#vendors)
   - [Multimedia](#multimedia)
   - [Marketing](#marketing)
+  - [Blogging](#blogging)
   - [Crypto](#crypto)
   - [Old Docs](#old-docs)
 - [Star History](#star-history)
@@ -751,6 +752,11 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 ### Marketing
 
 - [Marketing](marketing.md)
+
+### Blogging
+
+- [Blogging](blogging.md)
+- [Wordpress](wordpress.md)
 
 ### Crypto
 
