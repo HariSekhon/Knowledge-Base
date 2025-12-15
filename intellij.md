@@ -314,7 +314,7 @@ idea installPlugins \
   org.sonarlint.idea  # use with SonarQube / SonarCloud
 ```
 
-See [SonarCloud](sonarcloud.md) doc to generate `sonar-project.properties ` and
+See [SonarCloud](sonarcloud.md) doc to generate `sonar-project.properties` and
 `.sonarlint/connectedMode.json` configs.
 
 ### Optional - Nice to Haves
