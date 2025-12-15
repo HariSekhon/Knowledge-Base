@@ -60,6 +60,9 @@ sed -n '
     s/^.* rename \(.*\.md\) => \(.*\.md\) ([[:digit:]]*%)$/\1 \2/p
     ' |
 while read -r renamed_from renamed_to; do
+    if [ "${renamed_from##*/}" = "${renamed_to##*/}" ]; then
+        continue
+    fi
     echo "Rename detected: $renamed_from => $renamed_to"
     if ! [ -f "$renamed_to" ]; then
         echo "Renamed file '$renamed_to' not found, skipping..."
