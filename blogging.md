@@ -26,6 +26,7 @@ travel or whatever.
   - [Ghost vs Wordpress](https://ghost.org/vs/wordpress/)
 - Static Site Generators - eg. Jekyll, Hugo, MkDocs - popular with developers since you generate the sites from source
   code
+  - see the [Markdown](markdown.md) and [MKDocs](mkdocs.md) pages for relevant tips
 
 ## Do not blog on LinkedIn
 
