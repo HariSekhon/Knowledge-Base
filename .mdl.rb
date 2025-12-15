@@ -26,7 +26,7 @@ exclude_rule 'MD026'  # Trailing punctuation in header - sometimes I want to do 
 # MD029 ordered list item prefix is necessary if injecting code blocks
 # otherwise start counting from 1 again afterwards
 exclude_rule 'MD029'
-#exclude_rule 'MD031'
+exclude_rule 'MD031'  # hitting false positive in markdown.md
 #exclude_rule 'MD032'
 exclude_rule 'MD033'  # inline HTML is important for formatting
 exclude_rule 'MD034'  # hitting false positive in couchbase.md for <> urls
