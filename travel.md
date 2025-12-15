@@ -189,7 +189,7 @@ Country pages with specific tips for each country:
 
 ### South America
 
-- [Spanish Crash Course](spanish.md) - you will need this for the following countries as most people don't speak English
+- [Spanish Crash Course](travel/spanish.md) - you will need this for the following countries as most people don't speak English
   like much of the rest of the world
 
 ## Booking Sites
