@@ -164,6 +164,7 @@ You can find the other more specialist stuff below in the full index.
   - driving around Europe on road trips each summer
   - various other travel tips specific to each of 40+ countries and 100+ towns and cities across 4 continents
 - [Remote Working & Digital Nomad](remote-working.md) - specific notes on remote working and as a digital nomad
+- [Blogging](blogging.md) - because sharing is caring...
 
 ## GitHub Repos
 
