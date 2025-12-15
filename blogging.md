@@ -10,16 +10,22 @@ travel or whatever.
 ## Blogging Sites / Software
 
 - Medium.com - you can see mine at: <https://medium.com/@harisekhon>
-- Wordpress:
+- Wordpress - the most popular blogging software by a mile, runs approximately 40% of all websites on the internet
   - [WordPress.com](https://wordpress.com) - hosts free wordpress blogs, but beware they can deplatform you if you say
     something they don't like - there was a famous men's blog that was deplatformed
     (you cannot trust big tech comparnies) ... which leads on to either hosting your own...
   - [WordPress.org](https://wordpress.org) - the free open source software you can run yourself or hire a hosting
     provider to run for you cheaply
     (just maintain regular backups in case they deplatform you so you can restore elsewhere)
-    - See the [Wordpress](wordpress.md) page for tips on the software
+    - See the [Wordpress](wordpress.md) page for tips including cheap hosting providers
     - I have done at least one company hiring test administering a wordpress site when I had no experience at all in
       this software (I figured it out and passed at the time)
+- [Blogger.com](https://www.blogger.com/)
+- [Ghost.org](https://ghost.org/) - another open source CMS (Content Management Sysstem),
+  like Wordpress, but markdown first
+  - [Ghost vs Wordpress](https://ghost.org/vs/wordpress/)
+- Static Site Generators - eg. Jekyll, Hugo, MkDocs - popular with developers since you generate the sites from source
+  code
 
 ## Do not blog on LinkedIn
 
