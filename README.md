@@ -65,6 +65,7 @@ A few highlight pages:
 - [![IntelliJ](https://img.shields.io/badge/IntelliJ-IDE-purple?logo=intellijidea)](intellij.md) /
   [![Vim](https://img.shields.io/badge/ViM-Editor-purple?logo=vim)](vim.md)
 - [![AWS](https://img.shields.io/badge/Cloud-AWS-blue?logo=)](aws.md)
+- [![Python](https://img.shields.io/badge/Programming-Python-blue?logo=python&logoColor=white)](aws.md)
 - [![Docker](https://img.shields.io/badge/Containerization-Docker-blue?logo=docker&logoColor=white)](docker.md)
 - [![Kubernetes](https://img.shields.io/badge/Containerization-Kubernetes-blue?logo=kubernetes&logoColor=white)](kubernetes.md)
 - [![Documentation](https://img.shields.io/badge/Documentation-Tips-blue)](documentation.md)
