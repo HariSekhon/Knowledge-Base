@@ -68,7 +68,7 @@ nmap -p 24224 -sU <host>
 
 ## Treasure Data distribution
 
-```
+```text
 td-agent
 ```
 
