@@ -39,7 +39,7 @@ Watch out for intro deals that are cheap in the first year and then jack the pri
   men's blog, which means it's a censorship platform rather than a freedom of speech platform
 - [WP Engine](https://wpengine.com) - expensive
 
-You can also use cloud hosting like AWS LightSail or DigitalOcean droplet but I don't recommend this as it's harder to
+You can also use cloud hosting like AWS LightSail or Digital Ocean droplet but I don't recommend this as it's harder to
 operate and control costs (eg. bandwidth).
 
 You should use a [CDN](cdn.md) to speed up web page loading and take pressure off your wordpress installation.
