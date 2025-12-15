@@ -29,7 +29,7 @@ scripts to do extra tags, cache busting upon new commits to GitHub repos etc.
 
 <https://docs.docker.com/build/building/best-practices>
 
-<<https://sysdig.com/learn-cloud-native/dockerfile-best-practices/>>
+<https://sysdig.com/learn-cloud-native/dockerfile-best-practices/>
 
 ## Amazing Cache Busting Trick
 
