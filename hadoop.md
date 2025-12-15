@@ -50,19 +50,19 @@ maprcli node list -columns hostname,csvc
 maprcli alarm list
 ```
 
-#### HDFS
+### HDFS
 
 ```shell
 hadoop fs -ls /
 ```
 
-#### Yarn
+### Yarn
 
 ```shell
 yarn node -list | tee /dev/stderr | grep -c RUNNING
 ```
 
-#### MapReduce
+### MapReduce
 
 Run a calculate Pi MapReduce job across the cluster nodes:
 
@@ -78,7 +78,7 @@ Run a calculate Pi Spark job across the cluster nodes:
 /opt/mapr/spark/spark-*/bin/spark-submit --master yarn --class org.apache.spark.examples.SparkPi /opt/mapr/spark/spark-*/examples/jars/spark-examples_*-mapr-*.jar 10 100
 ```
 
-#### Drill
+### Drill
 
 Avoid errors for user accounts writing to query log:
 
@@ -97,7 +97,7 @@ Any spaces in the connection string will results in an `IllegalArgumentException
 sqlline -u "jdbc:drill:drillbit=$(hostname -f);auth=kerberos;principal=mapr/$(hostname -f)@$REALM" <<< "SELECT * FROM sys.drillbits;"
 ```
 
-#### Oozie
+### Oozie
 
 ```shell
 /opt/mapr/oozie/oozie-*/bin/oozie admin -oozie http://$(hostname -f):11000/oozie -status
