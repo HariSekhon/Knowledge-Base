@@ -66,4 +66,7 @@ done < <(
     sort -u
 )
 
+if [ "$exitcode" = 0 ]; then
+    echo "OK - no missing markdown references found"
+fi
 exit $exitcode
