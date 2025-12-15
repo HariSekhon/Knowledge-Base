@@ -50,7 +50,12 @@ You need the #201 bus to San Salvador.
 But this can also be caught from other locations such as Metro Centro,
 but it's better to take an Uber taxi to Tudo so you can get a seat for the long journey.
 
+By the time the bus gets to Metro Centro most of the seats are full so if you want to get your pick of seats, go to
+Tudo.
+
 Buses leave every 15 minutes to San Salvador until 6:30pm (double check this information hasn't changed since).
+
+There are also a lot of people temporarily boarding to try to sell you various foods, drinks and snacks.
 
 ### Attractions in Santa Ana
 
