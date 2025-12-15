@@ -1,4 +1,4 @@
-### Cyprus
+# Cyprus
 
 Excellent holiday destination, but be warned, it is too hot in August.
 
