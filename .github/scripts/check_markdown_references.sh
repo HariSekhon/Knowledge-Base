@@ -39,13 +39,15 @@ exitcode=0
 
 while read -r file_md; do
     expected_markdowns="$(
-        git grep -Eo --color=never --max-depth 1 '\([[:alnum:]/_-]+\.md.*' "$file_md" |
+        {
+            # there might be no other markdown files referenced in a markdown file
+            # and we don't want to exit 1 from no matches, so suppress the grep error
+            git grep -Eo --color=never --max-depth 1 '\([[:alnum:]/_-]+\.md.*' "$file_md" || :
+        } |
         sed 's/[^(]*(//' |
         { grep -Fv 'TODO' || : ; } |
         sed 's/\.md.*/.md/' |
-        sort -u ||
-        :  # there might be no other markdown files referenced in a markdown file
-           # and we don't want to exit 1 from no matches
+        sort -u
     )"
     while read -r expected_md; do
         if is_blank "$expected_md"; then
