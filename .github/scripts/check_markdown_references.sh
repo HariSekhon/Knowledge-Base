@@ -44,7 +44,8 @@ while read -r file_md; do
         { grep -Fv 'TODO' || : ; } |
         sed 's/\.md.*/.md/' |
         sort -u ||
-        :  # there might be no markdowns
+        :  # there might be no other markdown files referenced in a markdown file
+           # and we don't want to exit 1 from no matches
     )"
     while read -r expected_md; do
         if is_blank "$expected_md"; then
