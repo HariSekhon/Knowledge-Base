@@ -173,6 +173,8 @@ Busier bars than Kata, and similarly Russian tourists.
 
 ## Pattaya
 
+<!-- TODO: https://www.youtube.com/watch?v=IgsJ4MmOo2E -->
+
 Beach town that is virtually a brothel. Do not go.
 
 But if you insist...
