@@ -20,7 +20,7 @@ travel or whatever.
     - See the [Wordpress](wordpress.md) page for tips including cheap hosting providers
     - I have done at least one company hiring test administering a wordpress site when I had no experience at all in
       this software (I figured it out and passed at the time)
-- [Blogger.com](https://www.blogger.com/)
+- [Blogger.com](https://www.blogger.com/) - Google-owned, easy to use, but smaller user base and limited customizability
 - [Ghost.org](https://ghost.org/) - another open source CMS (Content Management Sysstem),
   like Wordpress, but markdown first
   - [Ghost vs Wordpress](https://ghost.org/vs/wordpress/)
