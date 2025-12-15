@@ -22,7 +22,7 @@ git_root="$srcdir/../.."
 
 # shellcheck disable=SC2034,SC2154
 usage_description="
-Checks all .md file references in README.md exist
+Checks all .md file references in markdown files exist relative to the path of the original markdown file
 "
 
 # used by usage() in lib/utils.sh
