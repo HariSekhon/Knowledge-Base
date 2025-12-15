@@ -91,6 +91,7 @@ in town:
 TODO:
 
 - [Taqueria Los Plebes](Taqueria Los Plebes) - 4.9 Mexican, affordable
+- [Simmer Down](https://maps.app.goo.gl/B7h61mvu4VTnQzEz7) - 4.6, pizzas, pasta and steak
 
 ## El Zonte
 
