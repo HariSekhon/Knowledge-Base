@@ -121,71 +121,71 @@ Country pages with specific tips for each country:
 
 ### Europe
 
-- [Albania](albania.md) ⭐
-- [Austria](austria.md)
-- [Belgium](belgium.md)
-- [Bosnia](bosnia.md)
-- [Bulgaria](bulgaria.md)
-- [Croatia](croatia.md)
-- [Cyprus](cyprus.md)
-- [Czechia](czechia.md) ⭐
-- [Denmark](denmark.md)
-- [Estonia](estonia.md)
-- [France](france.md)
-- [Georgia](georgia.md)
-- [Germany](germany.md)
-- [Hungary](hungary.md)
-- [Italy](italy.md)
-- [Latvia](latvia.md)
-- [Lithuania](lithuania.md)
-- [Moldova](moldova.md)
-- [Montenegro](montenegro.md)
-- [Netherlands](netherlands.md)
-- [North Macedonia](north-macedonia.md)
-- [Norway](norway.md)
-- [Poland](poland.md) ⭐
-- [Romania](romania.md)
-- [Serbia](serbia.md) ⭐
-- [Slovakia](slovakia.md)
-- [Slovenia](slovenia.md)
-- [Spain](spain.md) ⭐
-- [Sweden](sweden.md)
-- [Ukraine](ukraine.md)
-- [United Kingdom](uk.md)
+- [Albania](travel/albania.md) ⭐
+- [Austria](travel/austria.md)
+- [Belgium](travel/belgium.md)
+- [Bosnia](travel/bosnia.md)
+- [Bulgaria](travel/bulgaria.md)
+- [Croatia](travel/croatia.md)
+- [Cyprus](travel/cyprus.md)
+- [Czechia](travel/czechia.md) ⭐
+- [Denmark](travel/denmark.md)
+- [Estonia](travel/estonia.md)
+- [France](travel/france.md)
+- [Georgia](travel/georgia.md)
+- [Germany](travel/germany.md)
+- [Hungary](travel/hungary.md)
+- [Italy](travel/italy.md)
+- [Latvia](travel/latvia.md)
+- [Lithuania](travel/lithuania.md)
+- [Moldova](travel/moldova.md)
+- [Montenegro](travel/montenegro.md)
+- [Netherlands](travel/netherlands.md)
+- [North Macedonia](travel/north-macedonia.md)
+- [Norway](travel/norway.md)
+- [Poland](travel/poland.md) ⭐
+- [Romania](travel/romania.md)
+- [Serbia](travel/serbia.md) ⭐
+- [Slovakia](travel/slovakia.md)
+- [Slovenia](travel/slovenia.md)
+- [Spain](travel/spain.md) ⭐
+- [Sweden](travel/sweden.md)
+- [Ukraine](travel/ukraine.md)
+- [United Kingdom](travel/uk.md)
 
 ### Asia
 
-- [Cambodia](cambodia.md)
-- [Indonesia](indonesia.md) ⭐
-- [Laos](laos.md)
-- [Malaysia](malaysia.md) ⭐
-- [Philippines](philippines.md)
-- [Singapore](singapore.md)
-- [Taiwan](taiwan.md)
-- [Thailand](thailand.md) ⭐
-- [Vietnam](vietnam.md) ⭐
+- [Cambodia](travel/cambodia.md)
+- [Indonesia](travel/indonesia.md) ⭐
+- [Laos](travel/laos.md)
+- [Malaysia](travel/malaysia.md) ⭐
+- [Philippines](travel/philippines.md)
+- [Singapore](travel/singapore.md)
+- [Taiwan](travel/taiwan.md)
+- [Thailand](travel/thailand.md) ⭐
+- [Vietnam](travel/vietnam.md) ⭐
 
 ### Africa & Middle East
 
-- [Jordan](jordan.md) ⭐
-- [Lebanon](lebanon.md)
-- [Morocco](morocco.md)
-- [South Africa](south-africa.md)
-- [Turkey](turkey.md)
-- [Tunisia](tunisia.md)
-- [UAE](uae.md) ⭐
+- [Jordan](travel/jordan.md) ⭐
+- [Lebanon](travel/lebanon.md)
+- [Morocco](travel/morocco.md)
+- [South Africa](travel/south-africa.md)
+- [Turkey](travel/turkey.md)
+- [Tunisia](travel/tunisia.md)
+- [UAE](travel/uae.md) ⭐
 
 ### North America
 
-- [USA](usa.md)
-- [Canada](canada.md)
+- [USA](travel/usa.md)
+- [Canada](travel/canada.md)
 
 #### Central America
 
-- [Spanish Crash Course](spanish.md) (you will need this for the following countries)
-- [Mexico](mexico.md)
-- [Guatemala](guatemala.md)
-- [El Salvador](elsalvador.md)
+- [Spanish Crash Course](travel/spanish.md) (you will need this for the following countries)
+- [Mexico](travel/mexico.md)
+- [Guatemala](travel/guatemala.md)
+- [El Salvador](travel/elsalvador.md)
 
 ### South America
 
