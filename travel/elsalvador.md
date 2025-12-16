@@ -56,6 +56,9 @@ but it's better to take an Uber taxi to Tudo so you can get a seat for the long 
 By the time the bus gets to Metro Centro most of the seats are full so if you want to get your pick of seats, go to
 Tudo.
 
+The #201 bus terminates at the
+[Terminal de Buses de Occidente](https://maps.app.goo.gl/bSQfh2CdmiL7tLQG9) bus station.
+
 Buses leave every 15 minutes to San Salvador until 6:30pm (double check this information hasn't changed since).
 
 There are also a lot of people temporarily boarding to try to sell you various foods, drinks and snacks.
@@ -106,13 +109,13 @@ TODO:
 
 Also known as _"Bitcoin Beach"_ for having pioneered accepting Bitcoin payments.
 
-### Travel to El Zonte
+### Travel from San Salvador to El Zonte
 
-From the capital San Salvador you need
+From the capital San Salvador you need to take the #102A bus.
 
 Make sure the bus has the letter A on it to go all the way to the beach, otherwise don't get on it.
 
-If you're taking the #201 bus from Santa Ana, it goes to
+If you're taking the #201 bus from Santa Ana to San Salvador first, it goes to
 [Terminal de Buses de Occidente](https://maps.app.goo.gl/bSQfh2CdmiL7tLQG9).
 
 While you can get off early to catch the #102A bus from the bus stop
