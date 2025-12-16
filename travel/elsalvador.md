@@ -32,6 +32,14 @@ See the [Spanish Crash Course](spanish.md) page.
 
 ## Santa Ana
 
+### Travel within Santa Ana
+
+Your options are Uber taxies or public buses to the local attractions, volcano and nearby towns.
+
+In Santa Ana, [Bus Terminal Francisco Lara Pineda](https://maps.app.goo.gl/uZrDW38GFPawAnFt5)
+is the local bus station where you can catch public buses to the
+[Tudo](https://maps.app.goo.gl/BDExtbjVn7pBDrEi6) long-distance bus station, as well as local attractions in the region.
+
 ### Travel from Guatemala to Santa Ana
 
 I took pre-arranged shuttles from Guatemala as I was working my way down Central America to South America.
@@ -42,18 +50,12 @@ Guatemala and managed to get from there to Antigua and then change to Santa Ana 
 
 ### Travel from Santa Ana to San Salvador
 
-In Santa Ana, [Bus Terminal Francisco Lara Pineda](https://maps.app.goo.gl/uZrDW38GFPawAnFt5)
-is the local bus station where you can catch public buses to the
-[Tudo](https://maps.app.goo.gl/BDExtbjVn7pBDrEi6) long-distance bus station, as well as local attractions in the region.
-
-From [Tudo](https://maps.app.goo.gl/BDExtbjVn7pBDrEi6)
-you can take buses to San Salvador for just under \$3.
+From the [Tudo](https://maps.app.goo.gl/BDExtbjVn7pBDrEi6) bus station you can take the #201 bus to San Salvador for just under \$3 including luggage.
 
 From San Salvador you can change to get another bus to El Zonte.
 
-You need the #201 bus to San Salvador.
-But this can also be caught from other locations such as Metro Centro,
-but it's better to take an Uber taxi to Tudo so you can get a seat for the long journey.
+While the #201 bus to San Salvador, can also be caught from other locations such as Metro Centro,
+it's better to take an Uber taxi to Tudo so you can get a better pick of seats for the long journey.
 
 By the time the bus gets to Metro Centro most of the seats are full so if you want to get your pick of seats, go to
 Tudo.
