@@ -50,8 +50,6 @@ You need the #201 bus to San Salvador.
 But this can also be caught from other locations such as Metro Centro,
 but it's better to take an Uber taxi to Tudo so you can get a seat for the long journey.
 
-The bus almost entirely fills up at the Tudo bus station before it leaves.
-
 By the time the bus gets to Metro Centro most of the seats are full so if you want to get your pick of seats, go to
 Tudo.
 
@@ -107,8 +105,24 @@ Also known as _"Bitcoin Beach"_ for having pioneered accepting Bitcoin payments.
 
 ### Travel to El Zonte
 
-From the capital San Salvador you need to catch the #102A bus from the bus stop
+From the capital San Salvador you need
+
+Make sure the bus has the letter A on it to go all the way to the beach, otherwise don't get on it.
+
+If you're taking the #201 bus from Santa Ana, it goes to
+[Terminal de Buses de Occidente](https://maps.app.goo.gl/bSQfh2CdmiL7tLQG9).
+
+While you can get off early to catch the #102A bus from the bus stop
 [Estación Ceiba de Guadalupe](https://maps.app.goo.gl/tPtjwxyYfS48YSBfA)
 opposite
-[Basilica of Our Lady of Guadalupe](https://maps.app.goo.gl/LT8aDhdQAWbMHWHb6).
-Make sure the bus has the letter A on it to go all the way to the beach, otherwise don't get on it.
+[Basilica of Our Lady of Guadalupe](https://maps.app.goo.gl/LT8aDhdQAWbMHWHb6), I do not recommend it.
+
+Firstly, you'll probably need a toilet break after 2 hours on the bus from Santa Ana,
+so you should go to the final stop bus station
+[Terminal de Buses de Occidente](https://maps.app.goo.gl/bSQfh2CdmiL7tLQG9) for that.
+
+Secondly, the #102A bus almost entirely fills up at the
+[Punto de buses ruta 102](https://maps.app.goo.gl/cjmUqYnhMrp5uakD6) bus station before it leaves.
+
+So if you want a seat for the 1-2 hour journey down to the coast, go to the original bus station for #102A
+[Punto de buses ruta 102](https://maps.app.goo.gl/cjmUqYnhMrp5uakD6) and get on there.
