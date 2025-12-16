@@ -50,6 +50,8 @@ You need the #201 bus to San Salvador.
 But this can also be caught from other locations such as Metro Centro,
 but it's better to take an Uber taxi to Tudo so you can get a seat for the long journey.
 
+The bus almost entirely fills up at Tudo.
+
 By the time the bus gets to Metro Centro most of the seats are full so if you want to get your pick of seats, go to
 Tudo.
 
