@@ -70,8 +70,8 @@ A few highlight pages:
 - [![Python](https://img.shields.io/badge/Programming-Python-blue?logo=python&logoColor=white)](aws.md)
 - [![Docker](https://img.shields.io/badge/Containerization-Docker-blue?logo=docker&logoColor=white)](docker.md)
 - [![Kubernetes](https://img.shields.io/badge/Containerization-Kubernetes-blue?logo=kubernetes&logoColor=white)](kubernetes.md)
-- [![Documentation](https://img.shields.io/badge/Documentation-Tips-blue)](documentation.md)
-  - [![Markdown](https://img.shields.io/badge/Documentation-Markdown-blue)](markdown.md)
+- [![Documentation](https://img.shields.io/badge/Documentation-Tips-blue?logo=googledocs&logoColor=white)](documentation.md)
+  - [![Markdown](https://img.shields.io/badge/Documentation-Markdown-blue?logo=markdown&logoColor=white)](markdown.md)
   - [![Diagrams-as-Code](https://img.shields.io/badge/Documentation-Diagrams--as--Code-blue?logo=diagrams.net&logoColor=white)](diagrams.md)
 
 You can find the other more specialist stuff below in the full index.
