@@ -53,8 +53,8 @@ are provided throughout where relevant.
 
 A few highlight pages:
 
-- [![Travel](https://img.shields.io/badge/Travel%20Tips-50%2B%20countries%20%2F%20150%2B%20cities-029F00)](travel.md)
-- [![Remote](https://img.shields.io/badge/Remote%20Working-Digital%20Nomad-blue)](remote-working.md)
+- [![Travel](https://img.shields.io/badge/Travel%20Tips-50%2B%20countries%20%2F%20150%2B%20cities-029F00?logo=nordvpn&logoColor=white)](travel.md)
+- [![Remote](https://img.shields.io/badge/Remote%20Working-Digital%20Nomad-blue?logo=nordvpn&logoColor=white)](remote-working.md)
 - [![IT Best Practices](https://img.shields.io/badge/Tech-Best--Practices-029F00?logo=techcrunch)](best-practices.md)
 - [![macOS](https://img.shields.io/badge/mac-OS-blue?logo=apple)](mac.md)
   - [![iOS](https://img.shields.io/badge/iOS-builds-blue?logo=apple)](ios.md) /
