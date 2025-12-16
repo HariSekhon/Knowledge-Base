@@ -6,12 +6,13 @@
 - [Spanish Crash Course](#spanish-crash-course)
 - [ATMs in El Salvador](#atms-in-el-salvador)
 - [Santa Ana](#santa-ana)
+  - [Travel within Santa Ana](#travel-within-santa-ana)
   - [Travel from Guatemala to Santa Ana](#travel-from-guatemala-to-santa-ana)
   - [Travel from Santa Ana to San Salvador](#travel-from-santa-ana-to-san-salvador)
   - [Attractions in Santa Ana](#attractions-in-santa-ana)
   - [Restaurants in Santa Ana](#restaurants-in-santa-ana)
 - [El Zonte](#el-zonte)
-  - [Travel to El Zonte](#travel-to-el-zonte)
+  - [Travel from San Salvador to El Zonte](#travel-from-san-salvador-to-el-zonte)
 
 <!-- INDEX_END -->
 
