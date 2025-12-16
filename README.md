@@ -58,7 +58,7 @@ A few highlight pages:
 - [![IT Best Practices](https://img.shields.io/badge/Tech-Best--Practices-029F00?logo=techcrunch)](best-practices.md)
 - [![macOS](https://img.shields.io/badge/mac-OS-blue?logo=apple)](mac.md)
   - [![iOS](https://img.shields.io/badge/iOS-builds-blue?logo=apple)](ios.md) /
-    [![Android](https://img.shields.io/badge/Android-builds-blue?logo=android)](android.md)
+    [![Android](https://img.shields.io/badge/Android-builds-blue?logo=android&logoColor=white)](android.md)
 - [![Linux](https://img.shields.io/badge/GNU-Linux-blue?logo=linux&logoColor=white)](linux.md)
 - [![Bash](https://img.shields.io/badge/Bash-Shell-blue?logo=gnubash&logoColor=white)](bash.md)
 - [![Git](https://img.shields.io/badge/Git-Revision%20Control-blue?logo=git&logoColor=white)](git.md)
