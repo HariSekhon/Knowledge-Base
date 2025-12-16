@@ -74,7 +74,7 @@ A few highlight pages:
 
 You can find the other more specialist stuff below in the full index.
 
-## Index of Sections
+## Summary Index
 
 <!-- INDEX_START -->
 
