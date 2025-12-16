@@ -76,6 +76,8 @@ You can find the other more specialist stuff below in the full index.
 
 ## Summary Index
 
+The full index is further down.
+
 <!-- INDEX_START -->
 
 - [Travel](#travel)
