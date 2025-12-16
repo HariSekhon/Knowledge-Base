@@ -137,4 +137,6 @@ Secondly, the #102A bus almost entirely fills up at the
 So if you want a seat for the 1-2 hour journey down to the coast, go to the original bus station for #102A
 [Punto de buses ruta 102](https://maps.app.goo.gl/cjmUqYnhMrp5uakD6) and get on there.
 
-It's a 30 minute walk so take an Uber for \$5.
+It's a 30 minute walk between [Terminal de Buses de Occidente](https://maps.app.goo.gl/bSQfh2CdmiL7tLQG9)
+and [Punto de buses ruta 102](https://maps.app.goo.gl/cjmUqYnhMrp5uakD6) so if you have heavy lugggage or don't want
+to sweat through your clothes then take an Uber for \$5.
