@@ -114,6 +114,39 @@ Opens the crontab in `$EDITOR` (default `vi` if `$EDITOR` environment variable i
 crontab -e
 ```
 
+Reference:
+
+```shell
+man 5 crontab
+```
+
+Put this at the top of your user crontab file for easy reference:
+
+```text
+# ┌──────── minute (0 - 59)
+# │ ┌────── hour (0 - 23)
+# │ │ ┌──── day of month (1 - 31)
+# │ │ │ ┌── month (1 - 12)
+# │ │ │ │ ┌─ day of week (0 - 7) (Sun=0 or 7)
+# │ │ │ │ │
+# * * * * * command
+```
+
+You can also use one of these timing shorthands:
+
+```text
+@reboot
+@yearly
+@monthly
+@weekly
+@daily
+@hourly
+```
+
+You may also find this site useful:
+
+<https://crontab.guru>
+
 ## Timezone
 
 This affects the cron scheduling above and recorded dates of jobs eg. data loading and recording.
