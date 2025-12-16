@@ -59,9 +59,9 @@ A few highlight pages:
 - [![macOS](https://img.shields.io/badge/mac-OS-blue?logo=apple)](mac.md)
   - [![iOS](https://img.shields.io/badge/iOS-builds-blue?logo=apple)](ios.md) /
     [![Android](https://img.shields.io/badge/Android-builds-blue?logo=android)](android.md)
-- [![Linux](https://img.shields.io/badge/GNU-Linux-blue?logo=linux)](linux.md)
-- [![Bash](https://img.shields.io/badge/Bash-Shell-blue?logo=gnubash)](bash.md)
-- [![Git](https://img.shields.io/badge/Git-Revision%20Control-blue?logo=git)](git.md)
+- [![Linux](https://img.shields.io/badge/GNU-Linux-blue?logo=linux&logoColor=white)](linux.md)
+- [![Bash](https://img.shields.io/badge/Bash-Shell-blue?logo=gnubash&logoColor=white)](bash.md)
+- [![Git](https://img.shields.io/badge/Git-Revision%20Control-blue?logo=git&logoColor=white)](git.md)
   - [![GitHub](https://img.shields.io/badge/GitHub-management-blue?logo=github)](github.md)
     - [![GitHub Workflows](https://img.shields.io/badge/CI/CD-GitHub%20Workflows-blue?logo=github)](git.md)
 - [![IntelliJ](https://img.shields.io/badge/IntelliJ-IDE-purple?logo=intellijidea)](intellij.md) /
