@@ -47,7 +47,9 @@ is the local bus station where you can catch public buses to the
 [Tudo](https://maps.app.goo.gl/BDExtbjVn7pBDrEi6) long-distance bus station, as well as local attractions in the region.
 
 From [Tudo](https://maps.app.goo.gl/BDExtbjVn7pBDrEi6)
-you can take buses to San Salvador, where you can also change to get another bus to El Zonte.
+you can take buses to San Salvador for just under \$3.
+
+From San Salvador you can change to get another bus to El Zonte.
 
 You need the #201 bus to San Salvador.
 But this can also be caught from other locations such as Metro Centro,
@@ -111,7 +113,7 @@ Also known as _"Bitcoin Beach"_ for having pioneered accepting Bitcoin payments.
 
 ### Travel from San Salvador to El Zonte
 
-From the capital San Salvador you need to take the #102A bus.
+From the capital San Salvador you need to take the #102A bus for \$1.50 (+\$1.50 for luggage).
 
 Make sure the bus has the letter A on it to go all the way to the beach, otherwise don't get on it.
 
@@ -132,3 +134,5 @@ Secondly, the #102A bus almost entirely fills up at the
 
 So if you want a seat for the 1-2 hour journey down to the coast, go to the original bus station for #102A
 [Punto de buses ruta 102](https://maps.app.goo.gl/cjmUqYnhMrp5uakD6) and get on there.
+
+It's a 30 minute walk so take an Uber for \$5.
