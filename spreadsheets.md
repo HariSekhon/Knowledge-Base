@@ -5,6 +5,7 @@ Excel and Google Sheets tips.
 <!-- INDEX_START -->
 
 - [Use Google Sheets Offline](#use-google-sheets-offline)
+- [Move Rows](#move-rows)
 - [Auto-Calculate Dates](#auto-calculate-dates)
   - [Explanation of Formula Magic](#explanation-of-formula-magic)
 - [Memes](#memes)
@@ -19,6 +20,15 @@ Being on unstable wifi when travelling can be frustrating if you cannot edit you
 Configure offline access, follow these instructions:
 
 <https://support.google.com/docs/answer/6388102>
+
+## Move Rows
+
+I often need to move rows to juggle countries around on my Travel Dates spreadsheet.
+
+Click on the number to the left of the row to select the whole row, then hover the mouse and drag it up or down the
+rows.
+
+Make sure you use formulae for the dates so everything auto-adjusts... see next tip.
 
 ## Auto-Calculate Dates
 
