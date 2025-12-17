@@ -25,8 +25,9 @@ Configure offline access, follow these instructions:
 
 I often need to move rows to juggle countries around on my Travel Dates spreadsheet.
 
-Click on the number to the left of the row to select the whole row, then hover the mouse and drag it up or down the
-rows.
+Click on the row number to the left to select the whole row,
+then hover the mouse cursor on the row number until it shows a hand,
+and drag it up or down the rows.
 
 Make sure you use formulae for the dates so everything auto-adjusts... see next tip.
 
