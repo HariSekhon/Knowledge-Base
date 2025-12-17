@@ -29,7 +29,7 @@ I often need to move rows to juggle countries around on my Travel Dates spreadsh
 1. Hover the mouse cursor on the row number to the left until it shows a hand
 1. Drag it up or down the rows
 
-Make sure you use formulae for the dates so everything auto-adjusts... see next tip.
+Make sure you use formulae for the dates so everything auto adjusts... see next tip.
 
 ## Auto-Calculate Dates
 
