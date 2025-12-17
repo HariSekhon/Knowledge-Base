@@ -43,7 +43,8 @@ Start with [Bash](bash.md) which is the standard open source Linux shell.
 ## Distributions & Lineage
 
 - [Debian](debian.md) - the standard open source distribution
-  - [Ubuntu](ubuntu.md) - more updated distro, originally Desktop focused then expanded into cloud server focus too
+  - [Ubuntu](ubuntu.md) - more updated distro, originally Desktop focused then expanded into cloud server focus too -
+    now the most widely used cloud distro
 
 - [Redhat](redhat.md) - Redhat Enterprise Linux (RHEL) and its clone CentOS used to the standard enterprise distro but
   has killed its open source credentials by strangling CentOS and consequently become legacy
