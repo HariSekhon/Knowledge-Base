@@ -69,10 +69,10 @@ The rest of the rows use these exact same formulae copied down their same column
 
 Results in:
 
-| Country   | City      | Days | Start Date             | End Date             |
-|-----------|-----------|------|------------------------|----------------------|
-| Bulgaria  | Sofia     | 7    | Friday, May 2, 2025    | Friday, May 9, 2025  |
-| Romania   | Bucharest | 7    | Friday, May 9, 2025`   | Friday, May 16, 2025 |
+| Country   | City      | Days | Start Date          | End Date             |
+|-----------|-----------|------|---------------------|----------------------|
+| Bulgaria  | Sofia     | 7    | Friday, May 2, 2025 | Friday, May 9, 2025  |
+| Romania   | Bucharest | 7    | Friday, May 9, 2025 | Friday, May 16, 2025 |
 
 At the end, add a `Total` line, with a cell containing the formula:
 
