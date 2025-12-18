@@ -28,6 +28,9 @@ El Salvador got famous for adopting Bitcoin as legal tender
 
 The country uses the US dollar as its official currency.
 
+You will need to bring or withdraw US dollars in cash as many places do not take card,
+in both accommodations and restaurants.
+
 However, this is still a 3rd world country, which is why it abandoned its own currency for USD and BTC.
 
 ## Spanish Crash Course
@@ -150,6 +153,18 @@ pin and the nearby [Playa El Zonte](https://maps.app.goo.gl/6vACJGDH1fTLkpo68) a
 
 The one 10km east at [El Tunco Beach](https://maps.app.goo.gl/cHS4AXvVT5UFQMMRA) was better
 and where you see the iconic rock outcrop in pictures and where more of the touristy restaurants and shops are.
+
+Given that it's 10-12km along the coast and \$6 in an Uber,
+it's not worth taking a cheaper accommodation several kilometers away as you'll be adding \$12 in taxis per day,
+plus the inconvenience.
+
+Aside from a a but of surfing and ability to pay for some restaurants and groceries with bitcoin,
+there isn't really anything to see here.
+
+A mecca for bitcoin it is not.
+
+It's more of a side effect of being a 3rd world country that they adopted bitcoin payments at legal tender
+(discretionary) and USD as the official currency.
 
 ### Travel from San Salvador to El Zonte
 
