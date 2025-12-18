@@ -330,7 +330,7 @@ TODO:
 
 - [Dergi Praha](https://maps.app.goo.gl/dUcN2wJz1KWnyQwbA) - Georgian restaurant with performances such as singing and
   sword fights, recommended by a travelling friend
-- [Alma Café](Alma Café) - opposite Khromberry
+- [Alma Café](https://maps.app.goo.gl/DerXmDWs7vHx2tRUA) - opposite Khromberry
 - [Mistral Cafe](https://maps.app.goo.gl/3mZupmGDZWmQXpqB8) - brunch until 5pm
 - [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
 - [Restaurant Matylda](https://maps.app.goo.gl/GeFhe3wxzdjtRKBC9) - check the daily menu
