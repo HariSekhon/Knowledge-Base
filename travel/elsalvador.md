@@ -29,7 +29,18 @@ See the [Spanish Crash Course](spanish.md) page.
 
 ## ATMs in El Salvador
 
-- [Banco Hipotecario](Banco Hipotecario) - charged me no fee for a a USD withdrawal
+- [Banco Hipotecario](Banco Hipotecario) - charged me no fee for a a USD withdrawal, I've confirmed this in both San Salvador and
+  Santa Ana
+
+## Long Distance Buses
+
+[Ticabus](https://www.ticabus.com/en/) connects Central America.
+
+I ended up not using this due to bureaucratic delays on trying to get visa for Honduras and instead flew to Costa Rica.
+
+## Sal Salvador
+
+The capital is noticeably more developed than Santa Ana or El Zonte, better for a foodie.
 
 ## Santa Ana
 
