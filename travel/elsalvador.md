@@ -249,6 +249,7 @@ El Zonte:
 
 Tunco:
 
+- [Coyote](https://maps.app.goo.gl/c8TN9VuejnYGvpeQA) - 4.6
 - [Restaurante Erika](https://maps.app.goo.gl/ap9fvzE9VbsmHRz59) - 4.4
 - [Restaurante La Bocana](https://maps.app.goo.gl/iwudd26cLhQH6KcX9) - on the beach, only 4.2 rating, but has reasonably
   priced steaks
