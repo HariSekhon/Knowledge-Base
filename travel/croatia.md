@@ -157,8 +157,8 @@ Zadar seems to have more couples and families.
   gnocchi was good, but the Pistachio Cheesecake was even better
 - [Konoba Tovar](https://maps.app.goo.gl/iXWYGt11QBdmR6hQ8) - seafood restaurant on a side street. The mixed fried
   seafood was good, a very large prawn, whole squids and lots of small fried whitebait. Cash only
-- [Colonna bar & caffe](COLONNA bar&caffe) - upmarket cocktail bar, €14-15 per fancy cocktail, which is double the price
-  of another place in Zadar
+- [Colonna bar & caffe](https://maps.app.goo.gl/gA5iEKAAhSUJonoR7) - upmarket cocktail bar, €14-15 per fancy cocktail,
+  which is double the price of another place in Zadar
 - [Lazy Monkey Hostel](https://maps.app.goo.gl/4AuAhfD1WWdBJiw76) - a bar and free pool table, most people don't go out!
 - [Sea Organ](https://maps.app.goo.gl/uWVaBETiy5dxipS58) - the best place to watch the sunset and take pics
 
