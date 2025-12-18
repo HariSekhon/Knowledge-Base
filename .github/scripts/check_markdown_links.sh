@@ -51,4 +51,9 @@ while IFS= read -r filename; do
     fi
 done < <( find . -type f \( -name '*.md' -o -name '*.markdown' \) )
 
+if [ "$exitcode" = 0 ]; then
+    echo "OK - no non-http(s) URL links found in [Name[(url) markdown links"
+else
+    echo "ERROR ; non-https URL links found in [Name](url) markdown links"
+fi
 exit "$exitcode"
