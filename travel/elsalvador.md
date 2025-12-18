@@ -152,7 +152,8 @@ You definitely don't want where the Google Maps drops the [El Zonte](https://map
 pin and the nearby [Playa El Zonte](https://maps.app.goo.gl/6vACJGDH1fTLkpo68) as that was rocky instead of sandy.
 
 The one 10km east at [El Tunco Beach](https://maps.app.goo.gl/cHS4AXvVT5UFQMMRA) was better
-and where you see the iconic rock outcrop in pictures and where more of the touristy restaurants and shops are.
+and where you see the iconic rock outcrop in pictures and where more of the tourists, surfers, touristy restaurants and
+souvenir shops are.
 
 Given that it's 10-12km along the coast and \$6 in an Uber,
 it's not worth taking a cheaper accommodation several kilometers away as you'll be adding \$12 in taxis per day,
@@ -205,15 +206,19 @@ Catch the same #102A bus above from
 [Punto de microbuses 102A playa El Zonte](https://maps.app.goo.gl/R8KoMwxNbxo6prxf9) or one of the stops along the route,
 it wasn't so full leaving from El Zonte as it was leaving from San Salvador.
 
-### Restaurants in El Zonte
+### Restaurants in El Zonte & Tunco
 
 <!--
 
-Hotel El Xalli, despite having a fancy pool overlooking the sea for sunset (and smaller second pool),
-had only single tap showers without hot water.
+[Hotel El Xalli](https://maps.app.goo.gl/RZb1ou3e3YLjeZeP8), despite having a fancy pool overlooking the sea for sunset
+(and smaller second pool),had only single tap showers without hot water.
 What is it with these 3rd world countries, it was hot, but a warm shower is still nicer than a cold shower
 
+[Balancé Surf & Yoga Retreat](https://maps.app.goo.gl/wikGcLp3mSG4BYke9) seems worth checking, very gentrified.
+
 -->
+
+El Zonte:
 
 - [Palma](https://maps.app.goo.gl/KQP4wb2aEJRapgdV6) - the beef & pork burger bowl was excellent, partly because the
   sauce was great.
@@ -222,10 +227,23 @@ What is it with these 3rd world countries, it was hot, but a warm shower is stil
   There is covered open air seating in the back.
   Wifi 8/1 Mbit/s
 
+Tunco:
+
+- [El Compa Tacos](El Compa Tacos) - the birria (stewed beef) burrito was decent, although standard price at \$8.50 and
+  not that big, this is a small foodie place with no wifi and required cash
+- [Neko'S Market](https://maps.app.goo.gl/HEKP1S6KqHzcFof59) - useful grocery store with reasonable prices (was cheaper
+  for eggs than the place I used previously in El Zonte)
+
 TODO:
+
+El Zonte:
 
 - [Low Tide Eatery](https://maps.app.goo.gl/uDfzYvy548MwXoM59) - 4.9
 - [Canegue Cafe](https://maps.app.goo.gl/DhApokuhuCNhh4EHA) - 4.8
 - [La Cajita Kitchen](https://maps.app.goo.gl/tBvHkoqemgXZJmuo9) - 5.0
 - [El Rinconcito](https://maps.app.goo.gl/qBnyyYFZrCUJnTUo7) - 4.9
 - [Nan Tal](https://maps.app.goo.gl/CRY4mMkVEFDQ5YuDA) - 4.8
+
+Tunco:
+
+- []
