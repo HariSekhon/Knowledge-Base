@@ -78,7 +78,7 @@ don't underestimate or skip them, such as the museums, go have a look.
   see this palace and gardens
 - [Temple of Debod](https://maps.app.goo.gl/iV94jFzJ1J7SsS5e6)
   - [Templo de Debod Viewpoint](https://maps.app.goo.gl/kFfFDd5NE4AKRRuDA)
-- [Cibeles Fountain](Cibeles Fountain)
+- [Cibeles Fountain](https://maps.app.goo.gl/PfB57BnjWYJrYH5Z7)
 - [Museo Nacional del Prado](https://maps.app.goo.gl/JPthmKM95FCUn6YKA) - the building itself is impressive, and houses
   a vast collection of art
 - [Naval Museum](https://maps.app.goo.gl/D9hhvbvn7g3wQ1td6)
