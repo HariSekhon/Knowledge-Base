@@ -226,3 +226,5 @@ TODO:
 
 - [Low Tide Eatery](https://maps.app.goo.gl/uDfzYvy548MwXoM59) - 4.9
 - [Canegue Cafe](https://maps.app.goo.gl/DhApokuhuCNhh4EHA) - 4.8
+- [La Cajita Kitchen](https://maps.app.goo.gl/tBvHkoqemgXZJmuo9) - 5.0
+- [El Rinconcito](https://maps.app.goo.gl/qBnyyYFZrCUJnTUo7) - 4.9
