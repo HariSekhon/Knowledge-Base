@@ -360,7 +360,7 @@ TODO:
 - [Legend](https://maps.app.goo.gl/3h932pcS1mniT1ZA9) - 4.6 medievil restaurant, no recent online english menu
 - [Shiko](https://maps.app.goo.gl/3h932pcS1mniT1ZA9) - technically a dessert restaurant but also has a decent mains menu
   including pork medallions. The dessert menu is extensive
-- [Yourz Space Bistro](Yourz Space Bistro) - 4.8 but I couldn't find it
+- [Yourz Space Bistro](https://maps.app.goo.gl/dJUieJnup5vaNkZAA) - 4.8 but I couldn't find it
 - [Uzbetsʹka Kukhnya](https://maps.app.goo.gl/h6vVoXEaMy4W9vP86) - 4.7 Ukbekh restaurant - good kebab oriented menu at
   reasonable prices
 - [Kachka](https://maps.app.goo.gl/6eBTUNnaNFcMn7XE7) - 4.6 Ukrainian, out east nearer the beaches,
