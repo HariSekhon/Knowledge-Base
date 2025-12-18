@@ -219,7 +219,8 @@ There are lots of monuments, museums (too many to list) and other attractions be
   - [Museo de la Ciudad de Mexico](https://maps.app.goo.gl/EkuVS66CVs93h1Zv5)
   - [Museo Franz Mayer](https://maps.app.goo.gl/VCdRgMqmzZ4L1WMt5)
   - [Museo Nacional de Arquitectura](https://maps.app.goo.gl/ZLXJ2PynMDn8z4jU7)
-  - [Hemiciclo a Juarez](Hemiciclo a Juarez) - neoclassical marble monument with roman/greek-style columns
+  - [Hemiciclo a Juarez](https://maps.app.goo.gl/ZGCFboSLVHSeq81R9) - neoclassical marble monument with
+    roman/greek-style columns
   - [Monument to the Revolution](https://maps.app.goo.gl/YE9w76ALCsqKZ8cZ9)
 - [Monument to Mothers](https://maps.app.goo.gl/XZqYq56r81pJ5ywr5)
 - [Paseo de la Reforma](https://maps.app.goo.gl/jtWCm3BYaxsQFkKG6)
