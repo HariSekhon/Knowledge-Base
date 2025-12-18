@@ -20,11 +20,12 @@ Use the official site rather than resellers, it's cheaper:
 
 Bratislava is nowhere near as big as Budapest, you probably don't need more than 3 nights here.
 
-- [Urban House](Urban House) - very popular highly rated bar restaurant. The truffle roasted chicken was good - it comes
-  with truffle potatoes au gratin, glazed carrots, green aparagus, truffle sauce, portobello mushrooms and fresh
-  truffle. The Buffalo & Hot Honey pizza was even better, with prosciutto ham,
-  buffalo chilli honey, burrata, pumpkin seeds, mozarella, jalapeno, pomodoro, capers and parmesan.
-  The desserts were really good too - the pinacolada cake was excellent, with pineapple,
+- [Urban House](https://maps.app.goo.gl/4QMJcb3dDdDGdXhD9) - very popular highly rated bar restaurant.
+  The truffle roasted chicken was good - it comes with truffle potatoes au gratin, glazed carrots, green aparagus,
+  truffle sauce, portobello mushrooms and fresh truffle.
+  The Buffalo & Hot Honey pizza was even better, with prosciutto ham, buffalo chilli honey, burrata, pumpkin seeds,
+  mozarella, jalapeno, pomodoro, capers and parmesan.
+  The desserts were really good too - the pina colada cake was excellent, with pineapple,
   coconut, yuzu, mango, Malibu, white chocolate, vanilla.
   The jasmine mango cheesecake was great too, with white chocolate, mango and passionfruit
 - [Le Papillon](https://maps.app.goo.gl/qnf4XpgV5PNMQqoR6) - excellent good menu and moderate prices, especially
