@@ -232,8 +232,8 @@ Tunco:
 - [Surfer's Shakes](https://maps.app.goo.gl/GPUUoWY5yb5zQ8J3A) - \$6 protein shake, or \$5 smoothies... skip the
   chocolate in banana for \$1 next time, the banana came frozen and then dipped in melted chocolate, not the texture or
   flavour experience I expected on that one and I ended up leaving half of it
-- [El Compa Tacos](El Compa Tacos) - the birria (stewed beef) burrito was decent, although standard price at \$8.50 and
-  not that big, this is a small foodie place with no wifi and required cash
+- [El Compa Tacos](https://maps.app.goo.gl/6rv1YausBdpA81Lp8) - the birria (stewed beef) burrito was decent, although
+  standard price at \$8.50 and not that big, this is a small foodie place with no wifi and required cash
 - [Neko'S Market](https://maps.app.goo.gl/HEKP1S6KqHzcFof59) - useful grocery store with reasonable prices (was cheaper
   for eggs than the place I used previously in El Zonte)
 
