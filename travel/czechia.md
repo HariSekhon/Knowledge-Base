@@ -368,7 +368,7 @@ Wroclaw, Poland.
   on the breakfast menu, catch it in the morning if you can
 - [Blues Café](https://maps.app.goo.gl/YDow5fkGVqsJsNyy8) - quirky cafe
 - [St Barbara's Cathedral](https://maps.app.goo.gl/nh88iPh3jgyHg6VY6) - the main tourist site in the town
-- [Church of Saint James](Church of Saint James) - another historic church worth a look
+- [Church of Saint James](https://maps.app.goo.gl/zpdr5JoSKhKYhD4y6) - another historic church worth a look
 - [Plague column / Morový sloup](https://maps.app.goo.gl/qr1NGVzdXXJy9HSC8) - historic landmark
 - [Parkoviště Na Náměti](https://maps.app.goo.gl/1Tq5J6ZVyQe9nq6A8) - free parking (check Parkopedia for others)
 
