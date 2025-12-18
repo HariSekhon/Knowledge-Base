@@ -168,7 +168,7 @@ GlobeRunner Rooms is twice the price but so much nicer inside that I can't go ba
   - [ТРЦ Gulliver](https://maps.app.goo.gl/dpifsMMVyHVQxRjK9) - upmarket shopping mall
 - [St. Andrew's Church](https://maps.app.goo.gl/gSBXPwsNxuoqhnpz5)
 - [St. Michael's Golden-Domed Monastery](https://maps.app.goo.gl/g4r3eSh2aZZe5bcs9)
-- [Volodymyr The Great Monument](Volodymyr The Great Monument)
+- [Volodymyr The Great Monument](https://maps.app.goo.gl/yG3oovNAFzAxdNiBA)
 - [Glass Bridge](Glass Bridge) - good view over part of the city
 - [Arka Svobody Ukrayinsʹkoho Narodu](https://maps.app.goo.gl/TbyKhLG4jfmDoSUQA) - giant arch
 - [Khreshchatyy Park](https://maps.app.goo.gl/i8Xo27a5kM6UJZpy8)
