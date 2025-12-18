@@ -39,7 +39,8 @@ exitcode=0
 while IFS= read -r filename; do
     log "Checking file: $filename"
     links="$(grep -nE '\[[^]]+\]\([^)]* [^)]*\)' "$filename" || :)"
-    broken_links="$(grep -vE '\[[^]]+\]\((https?|ftp)://' <<< "$links" || :)"
+    #broken_links="$(grep -vE '\[[^]]+\]\((https?|ftp)://' <<< "$links" || :)"
+    broken_links="$(grep -vE '\[[^]]+\]\(https?://' <<< "$links" || :)"
     if [ -n "$broken_links" ]; then
          echo "BROKEN LINKS in: $filename"
          echo "$broken_links"
