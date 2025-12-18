@@ -29,7 +29,7 @@ on:  # yamllint disable-line rule:truthy
     paths:
       - '**/*.md'
       - .github/scripts/check_markdown_links.sh
-      - .github/workflows/check_markdown_links.yaml
+      - .github/workflows/markdown_links.yaml
   pull_request:
     branches:
       - master
@@ -37,7 +37,7 @@ on:  # yamllint disable-line rule:truthy
     paths:
       - '**/*.md'
       - .github/scripts/check_markdown_links.sh
-      - .github/workflows/check_markdown_links.yaml
+      - .github/workflows/markdown_links.yaml
   workflow_dispatch:
 
 permissions:
