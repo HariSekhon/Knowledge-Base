@@ -25,6 +25,8 @@ El Salvador got famous for adopting Bitcoin as legal tender
 
 The country uses the US dollar as its official currency.
 
+However, this is still a 3rd world country, which is why it abandoned its own currency for USD and BTC.
+
 ## Spanish Crash Course
 
 See the [Spanish Crash Course](spanish.md) page.
@@ -43,6 +45,17 @@ I ended up not using this due to bureaucratic delays on trying to get visa for H
 ## Sal Salvador
 
 The capital is noticeably more developed than Santa Ana or El Zonte, better for a foodie.
+
+### Restaurants in San Salvador
+
+<!--
+
+La Zona Hostel was ok and cheap, but like the fancier looking place in El Zonte,
+the showers were one tap no hot water
+
+-->
+
+- []
 
 ## Santa Ana
 
@@ -154,3 +167,20 @@ So if you want a seat for the 1-2 hour journey down to the coast, go to the orig
 It's a 30 minute walk between [Terminal de Buses de Occidente](https://maps.app.goo.gl/bSQfh2CdmiL7tLQG9)
 and [Punto de buses ruta 102](https://maps.app.goo.gl/cjmUqYnhMrp5uakD6) so if you have heavy lugggage or don't want
 to sweat through your clothes then take an Uber for \$5.
+
+### Restaurants in El Zonte
+
+<!--
+
+Hotel El Xalli, despite having a fancy pool overlooking the sea for sunset (and smaller second pool),
+had only single tap showers without hot water.
+What is it with these 3rd world countries, it was hot, but a warm shower is still nicer than a cold shower
+
+-->
+
+- [Palma](https://maps.app.goo.gl/KQP4wb2aEJRapgdV6) - the beef & pork burger bowl was excellent, partly because the
+  sauce was great.
+  It's literally a burger patty on top of a rice and salad bowl.
+  I could have eaten more of it, as it was a moderate portion size in a medium sized bowl.
+  There is covered open air seating in the back.
+  Wifi 8/1 Mbit/s
