@@ -7,6 +7,8 @@
 - [ATMs in El Salvador](#atms-in-el-salvador)
 - [Long Distance Buses](#long-distance-buses)
 - [Sal Salvador](#sal-salvador)
+  - [Areas in Sal Salvador](#areas-in-sal-salvador)
+  - [Attractions in San Salvador](#attractions-in-san-salvador)
   - [Restaurants in San Salvador](#restaurants-in-san-salvador)
 - [Santa Ana](#santa-ana)
   - [Travel within Santa Ana](#travel-within-santa-ana)
@@ -17,7 +19,7 @@
 - [El Zonte](#el-zonte)
   - [Travel from San Salvador to El Zonte](#travel-from-san-salvador-to-el-zonte)
   - [Travel from El Zonte to San Salvador](#travel-from-el-zonte-to-san-salvador)
-  - [Restaurants in El Zonte](#restaurants-in-el-zonte)
+  - [Restaurants in El Zonte & Tunco](#restaurants-in-el-zonte--tunco)
 
 <!-- INDEX_END -->
 
@@ -51,6 +53,28 @@ I ended up not using this due to bureaucratic delays on trying to get visa for H
 ## Sal Salvador
 
 The capital is noticeably more developed than Santa Ana or El Zonte, better for a foodie.
+
+### Areas in Sal Salvador
+
+I recommend you stay in the
+[San Benito](https://maps.app.goo.gl/ygHYLu8Qbvhfbxg6A) /
+[Zona Rosa](https://maps.app.goo.gl/EDdGJSiCoFENnrrTA)
+area which is a ring road around a small gentrified area well suited to foreigners with lots of restaurants.
+
+### Attractions in San Salvador
+
+- [Palacio Nacional de El Salvador](https://maps.app.goo.gl/7n4pP1avAKP7zjHRA)
+- [Plaza Libertad](https://maps.app.goo.gl/gF6cTdJjJCZN47Xm6)
+- [Plaza Morazán](https://www.google.com/maps/search/?api=1&query=Plaza+Moraz%C3%A1n+San+Salvador) - central square
+- [Catedral Metropolitana de San Salvador](https://maps.app.goo.gl/XjMC8HgoRKcVocwY7)
+- [Monumento al Divino Salvador del Mundo](https://maps.app.goo.gl/ffhRTwuYaikFqMVL6)
+- [Parque Cuscatlán](https://maps.app.goo.gl/uT2U85ghuXzD3yYs8) - central city park
+- [Parque Bicentenario](https://maps.app.goo.gl/GGgZWKkeixHGyQuKA) - large green park west of the centre, near the San Benito district
+- [Parque Nacional El Boquerón](https://maps.app.goo.gl/mbMJkXHxV2bqRRTaA) - national park on the San Salvador Volcano with crater views and hiking trails - this is further out so a day trip place
+- [Museo Nacional de Antropología David J. Guzmán (MUNA)](https://maps.app.goo.gl/DbEcpfhvKjSEi7EWA) - museum of Salvadoran history and archaeology, in the Zona Rosa which is well suited to foreigners
+- [Museo de Arte de El Salvador (MARTE)](https://maps.app.goo.gl/C6VDfxJPecFm8MYNA) - in the middle of the gentrified San Benito area, of course...
+- [Tin Marín Museo de los Niños](https://maps.app.goo.gl/4aWn9okXDZwCFUbE7) - kids museum of activities
+- [Centro Histórico de San Salvador](https://maps.app.goo.gl/9wJbqHRMTPVX7Ydu6) - revitalized historic district with plazas, churches, and cultural buildings
 
 ### Restaurants in San Salvador
 
