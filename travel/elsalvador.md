@@ -143,6 +143,14 @@ TODO:
 
 Also known as _"Bitcoin Beach"_ for having pioneered accepting Bitcoin payments.
 
+There are actually several beaches along the south coast and its not obvious which one you want.
+
+You definitely don't want where the Google Maps drops the [El Zonte](https://maps.app.goo.gl/NxHwCKxBgo5eu1kv8)
+pin and the nearby [Playa El Zonte](https://maps.app.goo.gl/6vACJGDH1fTLkpo68) as that was rocky instead of sandy.
+
+The one 10km east at [El Tunco Beach](https://maps.app.goo.gl/cHS4AXvVT5UFQMMRA) was better
+and where you see the iconic rock outcrop in pictures and where more of the touristy restaurants and shops are.
+
 ### Travel from San Salvador to El Zonte
 
 From the capital San Salvador you need to take the #102A bus for \$1.50 (+\$1.50 for luggage).
