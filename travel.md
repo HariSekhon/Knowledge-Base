@@ -186,8 +186,8 @@ Country pages with specific tips for each country:
 - [Mexico](travel/mexico.md)
 - [Guatemala](travel/guatemala.md)
 - [El Salvador](travel/elsalvador.md)
-- [Honduras](honduras.md) (skipped due to long visa bureaucracy)
-- [Nicaragua](nicaragua.md) (skipped due to lack of attractions and awkward flights)
+- [Honduras](travel/honduras.md) (skipped due to long visa bureaucracy)
+- [Nicaragua](travel/nicaragua.md) (skipped due to lack of attractions and awkward flights)
 
 ### South America
 
