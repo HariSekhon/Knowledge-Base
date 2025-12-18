@@ -176,7 +176,7 @@ You probably don't need more than a day for Sousse, perhaps 2 days if you want t
 
 - [Kasbah Citadel](https://maps.app.goo.gl/t6DfLJEsWuFqkxsz5) - the main historical landmark. Unfortunately they don't
   have planning permission so there is a mish-mash of modern buildings of different heights inside it
-- [Great Mosque of Sousse](Great Mosque of Sousse) - nice historic architecture
+- [Great Mosque of Sousse](https://maps.app.goo.gl/RyEVRaQDZc4DdjhF6) - nice historic architecture
 - [Restaurant Café Seles](https://maps.app.goo.gl/V6EzqB2xbRWbyHuw6) - top rated Tunisian food with moderate prices,
   within the Kasbah Citadel.
   The Couscous Royal has a mix of three meats, and is well complimented by a fish tagine.
