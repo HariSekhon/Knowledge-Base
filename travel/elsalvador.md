@@ -249,6 +249,7 @@ El Zonte:
 
 Tunco:
 
+- [Capt. Cook Restaurant](https://maps.app.goo.gl/gevgFrHjPb2GzLCz8) - 4.9 seafood
 - [Coyote](https://maps.app.goo.gl/c8TN9VuejnYGvpeQA) - 4.6
 - [Restaurante Erika](https://maps.app.goo.gl/ap9fvzE9VbsmHRz59) - 4.4
 - [Restaurante La Bocana](https://maps.app.goo.gl/iwudd26cLhQH6KcX9) - on the beach, only 4.2 rating, but has reasonably
