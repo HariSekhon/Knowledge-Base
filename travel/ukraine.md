@@ -169,7 +169,7 @@ GlobeRunner Rooms is twice the price but so much nicer inside that I can't go ba
 - [St. Andrew's Church](https://maps.app.goo.gl/gSBXPwsNxuoqhnpz5)
 - [St. Michael's Golden-Domed Monastery](https://maps.app.goo.gl/g4r3eSh2aZZe5bcs9)
 - [Volodymyr The Great Monument](https://maps.app.goo.gl/yG3oovNAFzAxdNiBA)
-- [Glass Bridge](Glass Bridge) - good view over part of the city
+- [Glass Bridge](https://maps.app.goo.gl/smwQXVzhBSu36Z6t8) - good view over part of the city
 - [Arka Svobody Ukrayinsʹkoho Narodu](https://maps.app.goo.gl/TbyKhLG4jfmDoSUQA) - giant arch
 - [Khreshchatyy Park](https://maps.app.goo.gl/i8Xo27a5kM6UJZpy8)
 - [St. Sophia's Cathedral](https://maps.app.goo.gl/xbPVmJy12BtLqYQj6)
