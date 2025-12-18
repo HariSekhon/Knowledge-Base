@@ -82,7 +82,7 @@ More touristy, older crowd, lots more accommodation, so cheaper than Canguu.
   Wifi is also slow 3Mbit/s download, 13Mbit/s upload
 - [Happy Sports Bar](https://maps.app.goo.gl/g4v3Y71bCZxvMzyj7) - decent menu prices, UFC or Boxing on TV and free pool
   table. Bolognese was better than expected, slightly sweet, and very affordable at around $4
-- [Don Juan Mexican Restaurant and Bar](Don Juan Mexican Restaurant and Bar) - reasonable burrito and price
+- [Don Juan Mexican Restaurant and Bar](https://maps.app.goo.gl/LtZnHqk4sxy83YbXA) - reasonable burrito and price
 - [See You Cafe](https://maps.app.goo.gl/57aZzfXRdcRiEwoc7) - lovely gentrified cafe on an inter-connecting alley way.
   You'd need to know it's there to find it.
   Good menu, reasonable prices, glass straws, their anti-age juice is nice, as is their English breakfast.
