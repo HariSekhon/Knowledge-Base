@@ -24,6 +24,7 @@
 
 [![Index](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/index.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/index.yaml)
 [![Markdown](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown.yaml)
+[![Markdown Links](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown_links.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown_links.yaml)
 [![Markdown References](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown_references.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown_references.yaml)
 [![Images](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/images.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/images.yaml)
 [![Gist Sync](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/gist-sync.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/gist-sync.yaml)
