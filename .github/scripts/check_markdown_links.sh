@@ -36,6 +36,8 @@ num_args 0 "$@"
 
 exitcode=0
 
+cd "$srcdir/../.."
+
 while IFS= read -r filename; do
     log "Checking file: $filename"
     links="$(grep -nE '\[[^]]+\]\([^)]* [^)]*\)' "$filename" || :)"
