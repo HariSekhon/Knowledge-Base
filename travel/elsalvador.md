@@ -39,8 +39,8 @@ See the [Spanish Crash Course](spanish.md) page.
 
 ## ATMs in El Salvador
 
-- [Banco Hipotecario](Banco Hipotecario) - charged me no fee for a a USD withdrawal, I've confirmed this in both San Salvador and
-  Santa Ana
+- [Banco Hipotecario](https://www.bancohipotecario.com.sv/) - charged me no fee for a a USD withdrawal,
+  I've confirmed this in both San Salvador and Santa Ana
 
 ## Long Distance Buses
 
