@@ -5,6 +5,8 @@
 - [Summary](#summary)
 - [Spanish Crash Course](#spanish-crash-course)
 - [ATMs in El Salvador](#atms-in-el-salvador)
+- [Long Distance Buses](#long-distance-buses)
+- [Sal Salvador](#sal-salvador)
 - [Santa Ana](#santa-ana)
   - [Travel within Santa Ana](#travel-within-santa-ana)
   - [Travel from Guatemala to Santa Ana](#travel-from-guatemala-to-santa-ana)
