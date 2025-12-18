@@ -365,7 +365,7 @@ TODO:
   reasonable prices
 - [Kachka](https://maps.app.goo.gl/6eBTUNnaNFcMn7XE7) - 4.6 Ukrainian, out east nearer the beaches,
   no online english menu
-- [Мангал Премиум](Мангал Премиум) - 4.7 Armenian restaurant, no menu online
+- [Мангал Премиум](https://maps.app.goo.gl/iMw1k8t9FWFk4fDv9) - 4.7 Armenian restaurant, no menu online
 - [Mekhana](https://maps.app.goo.gl/d6mguirKH6Vhnog9A) - 4.5 Bulgarian restaurant - no recent online or english menu
 - [Domashnii ochah](https://maps.app.goo.gl/uRjgQ9kCHiZ1FKKp7) - 4.6 but quite far south between central and malls
   district where Arcadia Plaza and Gregarinn Plaza are
