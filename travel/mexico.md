@@ -236,7 +236,7 @@ There are lots of monuments, museums (too many to list) and other attractions be
   - [Juegos infantiles Parque México](https://maps.app.goo.gl/kFFYnfiASz3BqEYd8) - children's playground full of
     climbing toys
   - [Gimnasio al aire libre](https://maps.app.goo.gl/AxKEpwESv7iWtqzeA) - free open-air gym. Do some pull ups bro
-  - [Lago de los Patos](Lago de los Patos) - pond with birds
+  - [Lago de los Patos](https://maps.app.goo.gl/abLSA5Di2QsgnPzn8) - pond with birds
   - [Foro Lindbergh](https://maps.app.goo.gl/8UfEBTtmubgWDpmdA) - large open playground, people play sports, hang out
     and there was even a salsa dancing class on the side of it when I went
   - [Para Perros Park](https://maps.app.goo.gl/BjooGxxchNS3qZE57) - 2 Dog Playgrounds - adjacent short fenced dog
