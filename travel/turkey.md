@@ -98,7 +98,7 @@ Wasn't impressed:
 
 - [Bistro corner cafe restaurant](https://maps.app.goo.gl/NGeUjbeJJe7gqSEYA)
 - [Paradise seafood kebap restaurant](https://maps.app.goo.gl/9sV4cVQp55vjbyEZ6)
-- [Cozy Garden Fish And Meat Restaurant](Cozy Garden Fish And Meat Restaurant)
+- [Cozy Garden Fish And Meat Restaurant](https://maps.app.goo.gl/EMK48vVmhDE1S77R9)
 
 TODO:
 
