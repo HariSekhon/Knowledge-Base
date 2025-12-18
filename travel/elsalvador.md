@@ -193,3 +193,8 @@ What is it with these 3rd world countries, it was hot, but a warm shower is stil
   I could have eaten more of it, as it was a moderate portion size in a medium sized bowl.
   There is covered open air seating in the back.
   Wifi 8/1 Mbit/s
+
+TODO:
+
+- [Low Tide Eatery](https://maps.app.goo.gl/uDfzYvy548MwXoM59) - 4.9
+- [Canegue Cafe](https://maps.app.goo.gl/DhApokuhuCNhh4EHA) - 4.8
