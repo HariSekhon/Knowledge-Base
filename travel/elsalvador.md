@@ -166,6 +166,11 @@ A mecca for bitcoin it is not.
 It's more of a side effect of being a 3rd world country that they adopted bitcoin payments at legal tender
 (discretionary) and USD as the official currency.
 
+Literally as I type this I just found [The Bitcoin Hardware Store](https://maps.app.goo.gl/HnveBMumzJxK5deQA) the day
+I left El Zonte.
+Damn it.
+Worth a visit if you're in the area apparently.
+
 ### Travel from San Salvador to El Zonte
 
 From the capital San Salvador you need to take the #102A bus for \$1.50 (+\$1.50 for luggage).
