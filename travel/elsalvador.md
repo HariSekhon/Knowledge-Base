@@ -7,6 +7,7 @@
 - [ATMs in El Salvador](#atms-in-el-salvador)
 - [Long Distance Buses](#long-distance-buses)
 - [Sal Salvador](#sal-salvador)
+  - [Restaurants in San Salvador](#restaurants-in-san-salvador)
 - [Santa Ana](#santa-ana)
   - [Travel within Santa Ana](#travel-within-santa-ana)
   - [Travel from Guatemala to Santa Ana](#travel-from-guatemala-to-santa-ana)
@@ -15,6 +16,8 @@
   - [Restaurants in Santa Ana](#restaurants-in-santa-ana)
 - [El Zonte](#el-zonte)
   - [Travel from San Salvador to El Zonte](#travel-from-san-salvador-to-el-zonte)
+  - [Travel from El Zonte to San Salvador](#travel-from-el-zonte-to-san-salvador)
+  - [Restaurants in El Zonte](#restaurants-in-el-zonte)
 
 <!-- INDEX_END -->
 
@@ -167,6 +170,12 @@ So if you want a seat for the 1-2 hour journey down to the coast, go to the orig
 It's a 30 minute walk between [Terminal de Buses de Occidente](https://maps.app.goo.gl/bSQfh2CdmiL7tLQG9)
 and [Punto de buses ruta 102](https://maps.app.goo.gl/cjmUqYnhMrp5uakD6) so if you have heavy lugggage or don't want
 to sweat through your clothes then take an Uber for \$5.
+
+### Travel from El Zonte to San Salvador
+
+Catch the same #102A bus above from
+[Punto de microbuses 102A playa El Zonte](https://maps.app.goo.gl/R8KoMwxNbxo6prxf9) or one of the stops along the route,
+it wasn't so full leaving from El Zonte as it was leaving from San Salvador.
 
 ### Restaurants in El Zonte
 
