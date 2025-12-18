@@ -128,6 +128,13 @@ in town:
 
 ### Restaurants in Santa Ana
 
+- [Taqueria Los Plebes](https://maps.app.goo.gl/wnamN4amoTsKiosS8) - the best place I’ve eaten in Santa Ana, good tacos,
+  crispy shelled tacos and tostadas. The tacos aren’t too big and come in a minimum of 3 tacos at \$1 each,
+  while the tostadas and crispy shell tacos are \$1.50-\$2.10 depending on chicken/pork/beef.
+  I destroyed 3 tacos, a crispy shell and 4 tostadas. The pork meat is better than the chicken.
+  The red table salsa is mild and contains pineapple giving it sweetness, but the green one is slightly spicy and
+  definitely where it’s at flavour wise with a lime-chilli flavour, classic Mexican.
+  WiFi 39/41 Mbit/s
 - [Comedor y Pupuseria Claudia](https://maps.app.goo.gl/9cv1kzMFQiRfgyjC7) - shockingly cheap local eats restaurant with
   live music in the evening - recommended by locals - \$1-\$1.5 per Papusa, $2.50 for soft drinks.
   The street food around [Parque Libertad](https://maps.app.goo.gl/X6pgPiuePn7kQDFX9) is even cheaper.
@@ -139,7 +146,6 @@ in town:
 
 TODO:
 
-- [Taqueria Los Plebes](Taqueria Los Plebes) - 4.9 Mexican, affordable
 - [Simmer Down](https://maps.app.goo.gl/B7h61mvu4VTnQzEz7) - 4.6, pizzas, pasta and steak
 
 ## El Zonte
