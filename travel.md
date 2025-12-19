@@ -618,6 +618,11 @@ Prices fluctuate and alternate by country so compare the top 3 providers before 
 
 - [Nomad](https://www.getnomad.app/) - a bit cheaper than Airalo,, I've started using this the most
 - [Airalo](https://www.airalo.com/) - I used this a lot originally, second cheapest option
+- [Saily](https://saily.com/) - if the price is the same I prefer this one because you don't have to install a new e-Sim each time but
+  can actually just add data for a new country to your already loaded e-Sim.
+  My travel buddy who also travels all year has had issues with Saily, finding it to be
+  be unreliable and had to get refunds from them 3 times across different countries, but it worked ok for me, and
+  I've had such issues with the other providers...
 - [AloSim](https://alosim.com/) - took a punt and used this for Bosnia as it was the cheapest there
 
 Others:
@@ -626,8 +631,6 @@ Others:
   countries, but in my experience the price per GB is so much more experience that this isn't worth it
 - [Holafly](https://esim.holafly.com/) - offers unlimited data but very expensive, usually not worth it given you typically don't use more
   than 1-3GB unless you're watching lots of videos on 4G instead of hotel wifi
-- [Saily](https://saily.com/) - WARNING: I haven't use this one yet, but my travel buddy who also travels all year has found Saily to
-  be unreliable and had to get refunds from them 3 times across different countries, and warned me not to use it
 
 Not tried these:
 
