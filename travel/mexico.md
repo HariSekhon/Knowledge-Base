@@ -65,9 +65,8 @@ and the taxis are the worst there as the apps don't really work - drivers don't 
 something out of Mexico just to check in with 10 minutes left until check-in closure since the check-in closes 1.5 hours
 before the flight.
 
-The immigration officer didn't ask for this - the insistent woman at Madrid airport preventing me from speaking to the
-check-in desk was either just trying to ruin my day or it's the airlines policy, but the immigration officer at Mexico
-itself didn't care to ask.
+The insistent woman at Madrid airport preventing me from speaking to the check-in desk was either just trying to ruin my
+day or it's the airlines policy, but the immigration officer at Mexico itself didn't care to ask.
 
 ## Spanish Crash Course
 
