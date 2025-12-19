@@ -116,6 +116,12 @@ The historic centre is full of garbage western fast food chains - don't overpay 
   The steak tacos were better.
   There are 3 good sized tacos in each dish, so after 6 of them I was stuff as it wasn't enough time since breakfast.
   Wifi 380/22 Mbit/s
+- [San Martin](https://maps.app.goo.gl/FSkX6SYXuLnWQH8J8) - restaurant & bakery, same chain as the one I visited in
+  [Guatemala](guatemala.md).
+  The food here is decent, and there is a wide variety of desserts and drinks.
+  The strawberry milkshake with milk was good, just the right amount of sweetness, and the tequila shrimp pasta was
+  good, although if it's your first time you might prefer the burger I had mentioned in the [Guatemala](guatemala.md)
+  page
 - [Soho Japanese Fusion El Salvador](https://maps.app.goo.gl/iB1z1Rs2UVCBkpKy5) - reasonable sushi, the Wed & Friday
   deal of a 2nd sushi roll for $1.99 was good value - I spent only \$14 for 2 x 10 piece sushi rolls.
   Medium quality sushi, not the finest I've had, but at this price point you can't complain.
@@ -125,6 +131,10 @@ The historic centre is full of garbage western fast food chains - don't overpay 
   This is a chain, you can find a couple other of them in the malls too.
   Has wifi,
   but I think they gave me their neighbours wifi after they failed to enter the password correctly for their one
+- [Multiplaza](https://maps.app.goo.gl/t4vomMMnh2fPbTTC6) - mall with a good variety of shops and restaurants, including
+  Soho Japanese Fusion above
+- [Metrocentro San Salvador](https://maps.app.goo.gl/sP5qDCMxSDBPucNH9) - mall with various shops and restaurants,
+  including San Martin above
 
 TODO:
 
