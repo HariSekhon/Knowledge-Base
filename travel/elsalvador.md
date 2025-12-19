@@ -49,7 +49,7 @@ The Avianca airline would not let me bag drop
 
 ## ATMs in El Salvador
 
-- [Banco Hipotecario](https://www.bancohipotecario.com.sv/) - charged me no fee for a a USD withdrawal,
+- [Banco Hipotecario](https://www.bancohipotecario.com.sv/) - no fee for a USD withdrawal,
   I've confirmed this in both San Salvador and Santa Ana
 
 ## Long Distance Buses
