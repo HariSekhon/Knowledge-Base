@@ -319,6 +319,12 @@ San Salvador in El Salvador, to San Jose in Costa Rica.
 It's not clear if these airlines are just difficult
 and should be avoided as immigration control itself in those countries did not request this.
 
+Technically it could be outbound bus to a nearby country,
+or you could book a flexible flight that you could change the date later
+as this is quite disruptive
+to travel plans when you don't know how long you want to spend in a country to see the sights and activities
+(I have stayed longer than intended in several countries due to finding recommended holiday towns, seas, volcanos etc).
+
 #### Luggage
 
 Be careful with your luggage weight. I got charged $30 in Asia for being 2kg overweight.
