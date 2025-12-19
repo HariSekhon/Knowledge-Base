@@ -43,6 +43,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Flight Booking Sites](#flight-booking-sites)
   - [Flight Deals from the US](#flight-deals-from-the-us)
   - [Flight Gotchas](#flight-gotchas)
+    - [Onwards Flights](#onwards-flights)
     - [Luggage](#luggage)
     - [Transfer Flight Timings](#transfer-flight-timings)
     - [Self Transfer](#self-transfer)
@@ -305,6 +306,18 @@ Enter your nearest airport(s) and they will send you cheap deals to random desti
 Unfortunately they do not serve airports outside the US at time of writing.
 
 ### Flight Gotchas
+
+#### Onwards Flights
+
+Some airlines / countries require proof of outbound flights,
+and refuse to check you in or luggage drop without it,
+which can leave you scrambling to book an outbound flight from your destination country before the check-in closes.
+
+This has hit me from Madrid in Spain, to Cancun in Mexico with Iberia and
+San Salvador in El Salvador, to San Jose in Costa Rica.
+
+It's not clear if these airlines are just difficult
+and should be avoided as immigration control itself in those countries did not request this.
 
 #### Luggage
 
