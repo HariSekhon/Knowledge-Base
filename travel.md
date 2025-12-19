@@ -518,15 +518,18 @@ which is a great way of seeing the world when young on budget.
 Airport taxis are a rip off all over the world. Do not use them.
 
 Use the taxi apps for the specific country,
-which are listed below, underneath each country.
+which are listed on each country's page.
 
 Compare the different apps to get the best price, it only takes 2 minutes.
 
-Taxis in some countries only accept cash,
+Among taxi apps InDrive is generally cheaper than Uber although often requires that you pay in cash.
+
+Taxis in some countries only accept cash anyway,
 even when ordering them using apps, such as in Albania,
 or the airport taxis in Moldova and Malaysia.
 
-Taxis in Thailand and Malaysia stopped at ATMs to get me to withdraw cash for them.
+Taxis in Thailand and Malaysia have stopped at ATMs to get me to withdraw cash for them.
+
 
 See the [ATM and Foreign Cash Withdrawals](#atms-and-foreign-cash-withdrawals) section below.
 
