@@ -313,8 +313,10 @@ Some airlines / countries require proof of outbound flights,
 and refuse to check you in or luggage drop without it,
 which can leave you scrambling to book an outbound flight from your destination country before the check-in closes.
 
-This has hit me from Madrid in Spain, to Cancun in Mexico with Iberojet and
-San Salvador in El Salvador, to San Jose in Costa Rica with Avianca.
+This has hit me from:
+
+- Madrid in Spain => Cancun in Mexico with Iberojet airline
+- San Salvador in El Salvador => San Jose in Costa Rica with Avianca airline
 
 It's not clear if these airlines are just difficult
 and should be avoided as immigration control itself in those countries did not request this.
