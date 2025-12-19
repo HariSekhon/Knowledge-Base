@@ -4,6 +4,7 @@
 
 - [Summary](#summary)
 - [Spanish Crash Course](#spanish-crash-course)
+- [El Salvador Airport](#el-salvador-airport)
 - [ATMs in El Salvador](#atms-in-el-salvador)
 - [Long Distance Buses](#long-distance-buses)
 - [Sal Salvador](#sal-salvador)
@@ -38,6 +39,13 @@ However, this is still a 3rd world country, which is why it abandoned its own cu
 ## Spanish Crash Course
 
 See the [Spanish Crash Course](spanish.md) page.
+
+## El Salvador Airport
+
+The wifi here is actually pretty decent, no captcha, and 10/9 Mbit/s.
+
+The Avianca airline would not let me bag drop
+(I'd already checked in online) until I booked an outbound flight from my next stop in San Jose, Costa Rica, though.
 
 ## ATMs in El Salvador
 
