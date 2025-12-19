@@ -21,6 +21,12 @@ The capital.
 You probably want to stay somewhere between [Sabana](https://maps.app.goo.gl/y2Sm4ZYYDzm5WpRH6) and
 [San José Central Market](https://maps.app.goo.gl/bNJmG9t3UDfriwdD8).
 
+<!--
+
+[Stray Cat Hostel](https://maps.app.goo.gl/R1dcBURToEvgwukF7)
+
+-->
+
 ### Attractions in San Jose
 
 - [Central Market](https://maps.app.goo.gl/Av313U4s39NAPZXW9)
