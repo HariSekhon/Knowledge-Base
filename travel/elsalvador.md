@@ -85,7 +85,26 @@ the showers were one tap no hot water
 
 -->
 
-- []
+Most of the best restaurants are in the San Benito / La Zona area that I recommend you stay in.
+
+The historic centre is full of garbage western fast food chains - don't overpay to get fat.
+
+- [Greenmonkey Fit Bistro](https://maps.app.goo.gl/XkTLruHXJox6h6Mv5) - takeaway fresh juices, smoothies, coffees and
+  desserts
+- [Fisheria](https://maps.app.goo.gl/aC1ta3hTpmUne8sv7) - good selection of seafood and steaks in a variety of forms:
+  grill mains salads, ceviches, tacos, large burritos depending on your preference.
+  Wifi 380/22 Mbit/s
+- [Santa Burguesa](https://maps.app.goo.gl/DFSBDwSdp4pouDHh9) - good quality burger restaurant, the only knock is the
+  burger and fries are slightly small, but at least you won't get fat because this is calorie dense food.
+  This is a chain, you can find a couple other of them in the malls too.
+  Has wifi,
+  but I think they gave me their neighbours wifi after they failed to enter the password correctly for their one
+
+TODO:
+
+- [Rústico Burgers](https://maps.app.goo.gl/GUYhcVEEXnpHwR9n6) - bit more expensive than Burguesa.
+  I think this is also a chain as I'm sure I saw another one around one of the malls,
+  but I can't find it on Google Maps to confirm this
 
 ## Santa Ana
 
