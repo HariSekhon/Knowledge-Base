@@ -37,4 +37,26 @@ You probably want to stay somewhere between [Sabana](https://maps.app.goo.gl/y2S
 - [Jade Museum](https://maps.app.goo.gl/yGoQSNrvVJECPVfs6)
 - [Pre-Columbian Gold Museum](https://maps.app.goo.gl/UV25YtaUz24YkQ7bA)
 - [Metropolitan Cathedral of San José](https://maps.app.goo.gl/i1d49q79p2i5hjDk7)
-- [Costa Rican Art Museum](hhttps://maps.app.goo.gl/vmEcLoF6JNrras516)
+- [Costa Rican Art Museum](https://maps.app.goo.gl/vmEcLoF6JNrras516)
+
+### Restaurants in San Jose
+
+TODO:
+
+- [Furca](https://www.google.com/maps/search/?api=1&query=Furca+San+Jose+Costa+Rica) - steak & seafood
+- [El Lobo Mestizo](https://www.google.com/maps/search/?api=1&query=El+Lobo+Mestizo+San+Jose+Costa+Rica) - modern latin
+- [La Esquina de Buenos Aires](https://www.google.com/maps/search/?api=1&query=La+Esquina+de+Buenos+Aires+San+Jose+Costa+Rica) - argentian steakhouse
+- [Tierra Gaucha Parrilla Argentina](https://www.google.com/maps/search/?api=1&query=Tierra+Gaucha+Parrilla+Argentina+San+Jose+Costa+Rica) - argentinian grill
+- [Grano de Oro](https://www.google.com/maps/search/?api=1&query=Grano+de+Oro+Restaurant+San+Jose+Costa+Rica) - french-latin cuisine
+- [Silvestre](https://www.google.com/maps/search/?api=1&query=Silvestre+Restaurant+San+Jose+Costa+Rica) - costa rican tasting menus
+- [Tin Jo](https://www.google.com/maps/search/?api=1&query=Tin+Jo+Restaurant+San+Jose+Costa+Rica) - pan-asian fusion
+- [Lubnan](https://www.google.com/maps/search/?api=1&query=Lubnan+San+Jose+Costa+Rica) - lebanese and middle eastern
+- [Machu Picchu](https://www.google.com/maps/search/?api=1&query=Restaurante+Machu+Picchu+San+Jose+Costa+Rica) - peruvian
+- [Café Rojo](https://www.google.com/maps/search/?api=1&query=Cafe+Rojo+San+Jose+Costa+Rica)
+- [Jardín de Lolita](https://www.google.com/maps/search/?api=1&query=Jardin+de+Lolita+San+Jose+Costa+Rica)
+- [La Criollita](https://www.google.com/maps/search/?api=1&query=La+Criollita+San+Jose+Costa+Rica) - costa rican sodita
+- [Isolina](https://www.google.com/maps/search/?api=1&query=Isolina+Escalante+San+Jose+Costa+Rica) - modern latin
+- [Al Mercat](https://www.google.com/maps/search/?api=1&query=Al+Mercat+San+Jose+Costa+Rica) - spanish-inspired fine dining
+- [DOMA Escalante](https://www.google.com/maps/search/?api=1&query=DOMA+Escalante+San+Jose+Costa+Rica) - fine dining
+
+- [Mall San Pedro](https://maps.app.goo.gl/n9S1M6ScYuhGzsyaA)
