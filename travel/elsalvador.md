@@ -116,6 +116,10 @@ The historic centre is full of garbage western fast food chains - don't overpay 
   The steak tacos were better.
   There are 3 good sized tacos in each dish, so after 6 of them I was stuff as it wasn't enough time since breakfast.
   Wifi 380/22 Mbit/s
+- [Soho Japanese Fusion El Salvador](https://maps.app.goo.gl/iB1z1Rs2UVCBkpKy5) - reasonable sushi, the Wed & Friday
+  deal of a 2nd sushi roll for $1.99 was good value - I spent only \$14 for 2 x 10 piece sushi rolls.
+  Medium quality sushi, not the finest I've had, but at this price point you can't complain.
+  Has wifi
 - [Santa Burguesa](https://maps.app.goo.gl/DFSBDwSdp4pouDHh9) - good quality burger restaurant, the only knock is the
   burger and fries are slightly small, but at least you won't get fat because this is calorie dense food.
   This is a chain, you can find a couple other of them in the malls too.
