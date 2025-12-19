@@ -95,8 +95,10 @@ The historic centre is full of garbage western fast food chains - don't overpay 
   Chic and trendy, with a DJ, and elevator up to a rooftop bar restaurant with an outdoor terrace and view of the city.
   The menu is a good mix of sushi and mains,
   and while slightly more expensive than other restaurants, not that much more given the quality of service and ambience.
-  Food wise it's good too - the Dragon Roll and the Steak rolls were very good, with 10 pieces each.
+  Food wise it's good too - the Dragon Roll, and the Angus Skirt Steak & Tempura Prawn roll, were both good, with 10
+  pieces each.
   The english menu is only online, they give a QR code to load it.
+  Wifi 5/7 Mbit/s
 - [Greenmonkey Fit Bistro](https://maps.app.goo.gl/XkTLruHXJox6h6Mv5) - takeaway fresh juices, smoothies, coffees and
   desserts
 - [Fisheria](https://maps.app.goo.gl/aC1ta3hTpmUne8sv7) - good selection of seafood and steaks in a variety of forms:
