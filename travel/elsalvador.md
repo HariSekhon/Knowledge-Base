@@ -60,7 +60,13 @@ I ended up not using this due to bureaucratic delays on trying to get visa for H
 
 ## Sal Salvador
 
-The capital is noticeably more developed than Santa Ana or El Zonte, better for a foodie.
+The capital is noticeably more developed than Santa Ana or El Zonte, better for a foodie with more gentrified
+restaurants.
+
+After 2 days here though I was done with San Salvador.
+
+You only need 1 day to browse the gentrified San Benito suburb and another to browse the historic central district and
+perhaps a museum or mall or two on one of those days as it's less than half a day for each.
 
 ### Areas in Sal Salvador
 
