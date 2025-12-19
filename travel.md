@@ -532,7 +532,6 @@ or the airport taxis in Moldova and Malaysia.
 
 Taxis in Thailand and Malaysia have stopped at ATMs to get me to withdraw cash for them.
 
-
 See the [ATM and Foreign Cash Withdrawals](#atms-and-foreign-cash-withdrawals) section below.
 
 ## Wifi
