@@ -518,6 +518,7 @@ which is a great way of seeing the world when young on budget.
 Airport taxis are a rip off all over the world. Do not use them.
 
 Use the taxi apps for the specific country,
+as each country has a different selection of apps that work there,
 which are listed on each country's page.
 
 Compare the different apps to get the best price, it only takes 2 minutes.
