@@ -16,6 +16,8 @@
 
 ## San Jose
 
+The capital.
+
 You probably want to stay somewhere between [Sabana](https://maps.app.goo.gl/y2Sm4ZYYDzm5WpRH6) and
 [San José Central Market](https://maps.app.goo.gl/bNJmG9t3UDfriwdD8).
 
