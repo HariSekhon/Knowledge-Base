@@ -89,10 +89,22 @@ Most of the best restaurants are in the San Benito / La Zona area that I recomme
 
 The historic centre is full of garbage western fast food chains - don't overpay to get fat.
 
+- [Brutto El Salvador Restaurant](https://maps.app.goo.gl/7b5ghuwceEcqCZyo6) - this has got to be one of the best bar
+  restaurants in San Salvador.
+  It is a small chain with one in Panama and Aruba too.
+  Chic and trendy, with a DJ, and elevator up to a rooftop bar restaurant with an outdoor terrace and view of the city.
+  The menu is a good mix of sushi and mains,
+  and while slightly more expensive than other restaurants, not that much more given the quality of service and ambience.
+  Food wise it's good too - the Dragon Roll and the Steak rolls were very good, with 10 pieces each.
+  The english menu is only online, they give a QR code to load it.
 - [Greenmonkey Fit Bistro](https://maps.app.goo.gl/XkTLruHXJox6h6Mv5) - takeaway fresh juices, smoothies, coffees and
   desserts
 - [Fisheria](https://maps.app.goo.gl/aC1ta3hTpmUne8sv7) - good selection of seafood and steaks in a variety of forms:
   grill mains salads, ceviches, tacos, large burritos depending on your preference.
+  I went with the black octopus and steak tacos to hedge on variety.
+  I found the octopus was tough and the secret black sauce was nothing special, I wouldn't get that one again.
+  The steak tacos were better.
+  There are 3 good sized tacos in each dish, so after 6 of them I was stuff as it wasn't enough time since breakfast.
   Wifi 380/22 Mbit/s
 - [Santa Burguesa](https://maps.app.goo.gl/DFSBDwSdp4pouDHh9) - good quality burger restaurant, the only knock is the
   burger and fries are slightly small, but at least you won't get fat because this is calorie dense food.
