@@ -321,9 +321,9 @@ and should be avoided as immigration control itself in those countries did not r
 
 Technically it could be outbound bus to a nearby country,
 or you could book a flexible flight that you could change the date later
-as this is quite disruptive
-to travel plans when you don't know how long you want to spend in a country to see the sights and activities
-(I have stayed longer than intended in several countries due to finding recommended holiday towns, seas, volcanos etc).
+as it can be quite disruptive to force travel plans to specific dates when you don't know how long you want to explore
+a country
+(I've stayed longer than intended in several countries due to finding recommended holiday towns, seas, volcanos etc).
 
 #### Luggage
 
