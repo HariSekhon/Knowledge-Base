@@ -2,11 +2,19 @@
 
 <!-- INDEX_START -->
 
+- [Immigration Control & Exit Flights](#immigration-control--exit-flights)
 - [Taxi Apps](#taxi-apps)
 - [San Jose](#san-jose)
   - [Attractions in San Jose](#attractions-in-san-jose)
+  - [Restaurants in San Jose](#restaurants-in-san-jose)
 
 <!-- INDEX_END -->
+
+## Immigration Control & Exit Flights
+
+I was actually asked for the date of my outbound flight as well as where I'm staying.
+
+The airline Avianca refused to let me do a baggage drop without first booking an outbound flight.
 
 ## Taxi Apps
 
@@ -23,7 +31,8 @@ You probably want to stay somewhere between [Sabana](https://maps.app.goo.gl/y2S
 
 <!--
 
-[Stray Cat Hostel](https://maps.app.goo.gl/R1dcBURToEvgwukF7)
+[Stray Cat Hostel](https://maps.app.goo.gl/R1dcBURToEvgwukF7) - good wifi speed, 176/7 Mbit/s, trendy, and has
+3 cats, 2 black ones, but has a max age limit of 42 for dorms
 
 -->
 
@@ -43,9 +52,7 @@ You probably want to stay somewhere between [Sabana](https://maps.app.goo.gl/y2S
 
 TODO:
 
-- [Furca](https://www.google.com/maps/search/?api=1&query=Furca+San+Jose+Costa+Rica) - steak & seafood
 - [El Lobo Mestizo](https://www.google.com/maps/search/?api=1&query=El+Lobo+Mestizo+San+Jose+Costa+Rica) - modern latin
-- [La Esquina de Buenos Aires](https://www.google.com/maps/search/?api=1&query=La+Esquina+de+Buenos+Aires+San+Jose+Costa+Rica) - argentian steakhouse
 - [Tierra Gaucha Parrilla Argentina](https://www.google.com/maps/search/?api=1&query=Tierra+Gaucha+Parrilla+Argentina+San+Jose+Costa+Rica) - argentinian grill
 - [Grano de Oro](https://www.google.com/maps/search/?api=1&query=Grano+de+Oro+Restaurant+San+Jose+Costa+Rica) - french-latin cuisine
 - [Silvestre](https://www.google.com/maps/search/?api=1&query=Silvestre+Restaurant+San+Jose+Costa+Rica) - costa rican tasting menus
@@ -58,5 +65,8 @@ TODO:
 - [Isolina](https://www.google.com/maps/search/?api=1&query=Isolina+Escalante+San+Jose+Costa+Rica) - modern latin
 - [Al Mercat](https://www.google.com/maps/search/?api=1&query=Al+Mercat+San+Jose+Costa+Rica) - spanish-inspired fine dining
 - [DOMA Escalante](https://www.google.com/maps/search/?api=1&query=DOMA+Escalante+San+Jose+Costa+Rica) - fine dining
+- [La Esquina de Buenos Aires](https://www.google.com/maps/search/?api=1&query=La+Esquina+de+Buenos+Aires+San+Jose+Costa+Rica) -
+  argentian steakhouse, bit pricey
+- [Furca](https://www.google.com/maps/search/?api=1&query=Furca+San+Jose+Costa+Rica) - steak & seafood, pricey
 
 - [Mall San Pedro](https://maps.app.goo.gl/n9S1M6ScYuhGzsyaA)
