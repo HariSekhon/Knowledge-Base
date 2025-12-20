@@ -714,7 +714,10 @@ but some central places are great too.
 Restaurants that close earlier are usually better foodie places, often with more reasonable prices. You'll often pay a
 premium for places that are open later, because there are less rival choices open at that time.
 
-I leave a couple recommendations in each location listed below.
+Do not look at the menu pictures from 2+ years ago because the prices will be wrong with all the government inflationary
+money printing of fiat currency and you will get a surprise when you get there.
+
+I leave a couple recommendations in each location on the country specific pages.
 
 Some places don't have English menus -
 these are often the best places that aren't so spoilt by foreign money and tourist trap
