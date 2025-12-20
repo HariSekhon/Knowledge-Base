@@ -63,7 +63,6 @@ TODO:
 - [Jardín de Lolita](https://www.google.com/maps/search/?api=1&query=Jardin+de+Lolita+San+Jose+Costa+Rica)
 - [La Criollita](https://www.google.com/maps/search/?api=1&query=La+Criollita+San+Jose+Costa+Rica) - costa rican sodita
 - [Isolina](https://www.google.com/maps/search/?api=1&query=Isolina+Escalante+San+Jose+Costa+Rica) - modern latin
-- [Al Mercat](https://www.google.com/maps/search/?api=1&query=Al+Mercat+San+Jose+Costa+Rica) - spanish-inspired fine dining
 - [DOMA Escalante](https://www.google.com/maps/search/?api=1&query=DOMA+Escalante+San+Jose+Costa+Rica) - fine dining
 - [La Esquina de Buenos Aires](https://www.google.com/maps/search/?api=1&query=La+Esquina+de+Buenos+Aires+San+Jose+Costa+Rica) -
   argentian steakhouse, bit pricey
