@@ -15,7 +15,7 @@
 
 ## Summary
 
-Cost Rica uses their own currency the Colón (plural: Colones),
+Costa Rica uses their own currency the Colón (plural: Colones),
 but you can often also give US dollars to taxi drivers or accommodation.
 
 Most places take card, except for InDrive and street food places, so you probably don't need to withdraw that much.
