@@ -320,11 +320,11 @@ which can leave you scrambling to book an outbound flight from your destination 
 
 This has hit me from:
 
-- Madrid in Spain => Cancun in Mexico with Iberojet airline
-- San Salvador in El Salvador => San Jose in Costa Rica with Avianca airline
+- Madrid in [Spain](spain.md) => Cancun in [Mexico](mexico.md) with Iberojet airline
+- San Salvador in [El Salvador](elsalvador.md) => San Jose in [Costa Rica](costarica.md) with Avianca airline
 
-In Costa Rica the immigration officer did ask for my outbound flight and accommodation,
-whereas in Mexico they asked for my accommodation but not my outbound flight.
+In [Costa Rica](costarica.md) the immigration officer did ask for my outbound flight and accommodation,
+whereas in [Mexico](mexico.md) they asked for my accommodation but not my outbound flight.
 
 Regardless, the airlines will not let you check-in without an outbound flight when travelling to some countries.
 
