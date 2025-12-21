@@ -183,6 +183,8 @@ Country pages with specific tips for each country:
 
 #### Central America
 
+- Capital cities here are not the attraction, but more transit points - the attractions are usually the coasts, nature,
+  volcanos, or historic archaeological sites
 - [Spanish Crash Course](travel/spanish.md) (you will need this for the following countries)
 - [Mexico](travel/mexico.md)
 - [Guatemala](travel/guatemala.md)
