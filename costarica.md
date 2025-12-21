@@ -61,6 +61,13 @@ You probably want to stay somewhere between [Sabana](https://maps.app.goo.gl/y2S
 
 - [Central Market](https://maps.app.goo.gl/Av313U4s39NAPZXW9) - get here before 5pm and get some street food, it's the
   difference between paying 3,000-5,000 CRC (\$10) vs paying 10,000-20,000 CRC (\$20-\$40) elsewhere
+- [Restaurante Parrilla al Carbon](https://maps.app.goo.gl/4pXEBQFJHbYpHaPDA) - the 400g strip steak was succulent and
+  very seasoned with rock salt and some yellow thing. It had a little gristle around it but not too much.
+  The plantain split with cheese in the middle was great, I wish there was more of it.
+  I tried to get their creole potatoes but they didn’t have them so settled for mashed potatoes which was nowhere near
+  as good as mine, next time stick to fries.
+  The strawberry smoothie with milk had just the right amount of sweetness.
+  WiFi 16/8 Mbit/s
 
 TODO:
 
