@@ -64,8 +64,8 @@ You probably want to stay somewhere between [Sabana](https://maps.app.goo.gl/y2S
 
 - [Central Market](https://maps.app.goo.gl/Av313U4s39NAPZXW9) - get here before 5pm and get some street food, it's the
   difference between paying 3,000-5,000 CRC (\$10) vs paying 10,000-20,000 CRC (\$20-\$40) elsewhere
-  - [Marisquería La Ribera](https://maps.app.goo.gl/bxW6HwZNV6nR174w9) - seafood street food restaurant. The seafood
-    soup is good, and the combos are good food value at 3500 for a fish fillet, rice with seafood, nachos, salad and a
+  - [Marisquería La Ribera](https://maps.app.goo.gl/bxW6HwZNV6nR174w9) - affordable seafood place in the central market.
+    The seafood soup is good, and the combos are good food value at 3500 for a fish fillet, rice with seafood, nachos, salad and a
     drink. I don’t know what that drink was but it was tasty and looked like it had herbs in it, and definitely a little
     sugar to taste so good.
     The strawberry milkshake for 1400 was worth it too, just the right amount of sweetness
