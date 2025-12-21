@@ -71,6 +71,7 @@ You probably want to stay somewhere between [Sabana](https://maps.app.goo.gl/y2S
 
 TODO:
 
+- [Mexicanito Sport Bar y Restaurante](https://maps.app.goo.gl/oqg8ZbebzopgbXS39)
 - [El Lobo Mestizo](https://www.google.com/maps/search/?api=1&query=El+Lobo+Mestizo+San+Jose+Costa+Rica) - modern latin
 - [Tierra Gaucha Parrilla Argentina](https://www.google.com/maps/search/?api=1&query=Tierra+Gaucha+Parrilla+Argentina+San+Jose+Costa+Rica) - argentinian grill
 - [Grano de Oro](https://www.google.com/maps/search/?api=1&query=Grano+de+Oro+Restaurant+San+Jose+Costa+Rica) - french-latin cuisine
