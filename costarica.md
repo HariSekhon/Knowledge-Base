@@ -29,7 +29,7 @@ The airline Avianca refused to let me do a baggage drop without first booking an
 ## Taxi Apps
 
 - [Uber](https://www.uber.com/cr/en/)
-- [InDrive](https://indrive.com/en-cr) - usually cheaper than Uber
+- [InDrive](https://indrive.com/en-cr) - usually cheaper than Uber, but often requires cash
 - [DiDi](https://web.didiglobal.com/cr/) - didn't receive their SMS verification so didn't try it
 
 ## San Jose
