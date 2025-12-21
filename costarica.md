@@ -64,6 +64,9 @@ You probably want to stay somewhere between [Sabana](https://maps.app.goo.gl/y2S
 
 - [Central Market](https://maps.app.goo.gl/Av313U4s39NAPZXW9) - get here before 5pm and get some street food, it's the
   difference between paying 3,000-5,000 CRC (\$10) vs paying 10,000-20,000 CRC (\$20-\$40) elsewhere
+- [Mexicanito Sport Bar y Restaurante](https://maps.app.goo.gl/oqg8ZbebzopgbXS39) - cheap local eats bar, the cascados
+  with bistek (steak) was good for the price, and comes with rice, plantain, salad, frijoles beans and potato cubes.
+  Has wifi
 - [Restaurante Parrilla al Carbon](https://maps.app.goo.gl/4pXEBQFJHbYpHaPDA) - the 400g strip steak was succulent and
   very seasoned with rock salt and some yellow thing. It had a little gristle around it but not too much.
   The plantain split with cheese in the middle was great, I wish there was more of it.
@@ -74,7 +77,6 @@ You probably want to stay somewhere between [Sabana](https://maps.app.goo.gl/y2S
 
 TODO:
 
-- [Mexicanito Sport Bar y Restaurante](https://maps.app.goo.gl/oqg8ZbebzopgbXS39)
 - [El Lobo Mestizo](https://www.google.com/maps/search/?api=1&query=El+Lobo+Mestizo+San+Jose+Costa+Rica) - modern latin
 - [Tierra Gaucha Parrilla Argentina](https://www.google.com/maps/search/?api=1&query=Tierra+Gaucha+Parrilla+Argentina+San+Jose+Costa+Rica) - argentinian grill
 - [Grano de Oro](https://www.google.com/maps/search/?api=1&query=Grano+de+Oro+Restaurant+San+Jose+Costa+Rica) - french-latin cuisine
