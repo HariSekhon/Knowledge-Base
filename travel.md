@@ -43,7 +43,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Flight Booking Sites](#flight-booking-sites)
   - [Flight Deals from the US](#flight-deals-from-the-us)
   - [Flight Gotchas](#flight-gotchas)
-    - [Onwards Flights](#onwards-flights)
+    - [Return / Onwards Flights Required for Check-In](#return--onwards-flights-required-for-check-in)
     - [Luggage](#luggage)
     - [Transfer Flight Timings](#transfer-flight-timings)
     - [Self Transfer](#self-transfer)
