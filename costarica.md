@@ -89,3 +89,14 @@ TODO:
 - [DOMA Escalante](https://www.google.com/maps/search/?api=1&query=DOMA+Escalante+San+Jose+Costa+Rica) - fine dining, expensive
 
 - [Mall San Pedro](https://maps.app.goo.gl/n9S1M6ScYuhGzsyaA)
+
+## Manuel Antonio
+
+[Manuel Antonio](https://maps.app.goo.gl/j1XxALwELfSbac9r5) and [Quepos](https://maps.app.goo.gl/6j1SQ1fTHdCFD1PX9) are
+beach towns about 4 hours drive away from San Jose.
+
+### Travel to Manuel Antonio
+
+You can catch a bus from [Bus Terminal - Tracopa Ltda](https://maps.app.goo.gl/RKsNDJx1kv9oof6g6).
+
+This costs around \$10-\$12 and takes around 4.5 hours with a 20 minute stopover for a toilet break.
