@@ -312,10 +312,10 @@ Unfortunately they do not serve airports outside the US at time of writing.
 
 ### Flight Gotchas
 
-#### Onwards Flights
+#### Return / Onwards Flights Required for Check-In
 
 Some airlines / countries require proof of outbound flights,
-and refuse to check you in or luggage drop without it,
+and refuse to check you in or even luggage drop without it,
 which can leave you scrambling to book an outbound flight from your destination country before the check-in closes.
 
 This has hit me from:
@@ -323,8 +323,13 @@ This has hit me from:
 - Madrid in Spain => Cancun in Mexico with Iberojet airline
 - San Salvador in El Salvador => San Jose in Costa Rica with Avianca airline
 
-It's not clear if these airlines are just difficult
-and should be avoided as immigration control itself in those countries did not request this.
+In Costa Rica the immigration officer did ask for my outbound flight and accommodation,
+whereas in Mexico they asked for my accommodation but not my outbound flight.
+
+Regardless, the airlines will not let you check-in without an outbound flight when travelling to some countries.
+
+Check the country's immigration rules ahead of time and get to the airline at least 3-4 hours
+before take off to give yourself 30-60 minutes to scour and book outbound / onwards flights if you need to.
 
 Technically it could be outbound bus to a nearby country,
 or you could book a flexible flight that you could change the date later
