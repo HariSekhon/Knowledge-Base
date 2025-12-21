@@ -10,6 +10,13 @@
 
 <!-- INDEX_END -->
 
+## Summary
+
+Cost Rica uses their own currency the Colón (plural: Colones),
+but you can often also give US dollars to taxi drivers or accommodation.
+
+Most places take card, except for InDrive and street food places, so you probably don't need to withdraw that much.
+
 ## Immigration Control & Exit Flights
 
 I was actually asked for the date of my outbound flight as well as where I'm staying.
@@ -38,7 +45,9 @@ You probably want to stay somewhere between [Sabana](https://maps.app.goo.gl/y2S
 
 ### Attractions in San Jose
 
-- [Central Market](https://maps.app.goo.gl/Av313U4s39NAPZXW9)
+- [Central Market](https://maps.app.goo.gl/Av313U4s39NAPZXW9) - you can spend 2 hours just browsing the stalls,
+  especially as the layout is not a clear grid matrix, so I ended up going round in circles trying to cover all the
+  alleys
 - [Parque Morazán](https://maps.app.goo.gl/Z2Jmx6KRTa626GB6A)
 - [Sabana](https://maps.app.goo.gl/UC9hMnUFxtuqFBnf9) - large park in central west
 - [National Museum of Costa Rica](https://maps.app.goo.gl/Lp2PLazjAg4tnVm3A)
@@ -49,6 +58,9 @@ You probably want to stay somewhere between [Sabana](https://maps.app.goo.gl/y2S
 - [Costa Rican Art Museum](https://maps.app.goo.gl/vmEcLoF6JNrras516)
 
 ### Restaurants in San Jose
+
+- [Central Market](https://maps.app.goo.gl/Av313U4s39NAPZXW9) - get here before 5pm and get some street food, it's the
+  difference between paying 3,000-5,000 CRC (\$10) vs paying 10,000-20,000 CRC (\$20-\$40) elsewhere
 
 TODO:
 
