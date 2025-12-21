@@ -2,11 +2,14 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
 - [Immigration Control & Exit Flights](#immigration-control--exit-flights)
 - [Taxi Apps](#taxi-apps)
 - [San Jose](#san-jose)
   - [Attractions in San Jose](#attractions-in-san-jose)
   - [Restaurants in San Jose](#restaurants-in-san-jose)
+- [Manuel Antonio](#manuel-antonio)
+  - [Travel to Manuel Antonio](#travel-to-manuel-antonio)
 
 <!-- INDEX_END -->
 
