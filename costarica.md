@@ -121,7 +121,7 @@ You can catch the bus at bus stops for 370 CRC (< \$1).
 - [Playa Manuel Antonio](https://maps.app.goo.gl/UdyJiFD2idrhaFzj6) /
   [Espadilla Beach](https://maps.app.goo.gl/FdupjPH86Wz7heSAA) -
   long lovely sand beach with shallow shore and great sunset
-- [Manuel Antonio National Park](https://maps.app.goo.gl/S356vnztJtWyeGXt5)
+- [Manuel Antonio National Park](https://maps.app.goo.gl/S356vnztJtWyeGXt5) - rainforest nature reserve with animals
 
 ### Restaurants in Manuel Antonio
 
