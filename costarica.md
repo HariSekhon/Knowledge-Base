@@ -122,6 +122,7 @@ You can catch the bus at bus stops for 370 CRC (< \$1).
   [Espadilla Beach](https://maps.app.goo.gl/FdupjPH86Wz7heSAA) -
   long lovely sand beach with shallow shore and great sunset
 - [Manuel Antonio National Park](https://maps.app.goo.gl/S356vnztJtWyeGXt5) - rainforest nature reserve with animals
+- [Sukia Park and Zip Line Tours](https://maps.app.goo.gl/onE3JRMZzp168BBG7)
 
 ### Restaurants in Manuel Antonio
 
@@ -132,6 +133,8 @@ Wifi 5/9 Mbit/s, but sketchy in the kitchen but more reliable on the level above
 
 -->
 
+Tourist priced throughout.
+
 Undecided:
 
 - [Restaurante Mimositico](https://maps.app.goo.gl/qCWfnJXfVmNvEpLG6) - bistec cascado was overcooked and tough. I had
@@ -139,6 +142,8 @@ Undecided:
   The bistec was also relatively small part of the place compared to other cascados I’ve had in Costa Rica.
   The strawberry shake with milk was good, but smaller than others I had the last couple days.
   Did not deserve a 4.9 rating, but perhaps it needs another try.
+  Restaurant was a bit dead, just a couple tourists from neighbouring accommodations.
+  This is not a place locals seem likely to come.
   WiFi 20/25 Mbit/s
 
 Not Recommended:
@@ -147,12 +152,21 @@ Not Recommended:
   shop mainly targetting women's garments and trinkets, but \$12 for a ham and cheese panini, tourist priced.
   I was still hungry after it and had to eat again
 
+TODO:
+
+- [Terraza By Issimo](https://maps.app.goo.gl/qFWcNgZ8jLhbvA8z7) - 4.8
+- [Arbol. Food & Wine](https://maps.app.goo.gl/zwcDvAgoarpFqtZ48) - 4.8
+- [Terraza 77 Restaurant y Bar](https://maps.app.goo.gl/xxTLnCzJb9XAvYGg6) - 4.6
+
 ## Quepos
 
 Seaside town up the road from Manuel Antonio with various restaurants.
 
 - [Sabromar](https://maps.app.goo.gl/9mTsn3YNhYxyAMce9) - don't let the empty downstairs fast food restaurant look fool
-  you, the upstairs was packed with people, a nice restaurant and food, with a gift shop at the reception.
+  you, the upstairs was packed with locals, unlike the Restaurante Mimositico I went to first.
+  The upstairs restaurant was surprisingly nice.
+  It even has a gift shop at the reception.
   The shrimp ceviche was decent.
-  Although the strawberry milkshake was a decent size, it wasn't as good as other places.
+  The strawberry milkshake was a decent size but it wasn't as good as other places as it was more icy than milky,
+  even though it was _"en leche"_.
   Wifi 126/93 Mbit/s
