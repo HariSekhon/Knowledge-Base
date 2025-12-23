@@ -110,3 +110,44 @@ beach towns about 4 hours drive away from San Jose.
 You can catch a bus from [Bus Terminal - Tracopa Ltda](https://maps.app.goo.gl/RKsNDJx1kv9oof6g6).
 
 This costs around \$10-\$12 and takes around 4.5 hours with a 20 minute stopover for a toilet break.
+
+### Attractions in Manuel Antonio
+
+You can catch the bus at bus stops for 370 CRC (< \$1).
+
+- [Playa Manuel Antonio](https://maps.app.goo.gl/UdyJiFD2idrhaFzj6) /
+  [Espadilla Beach](https://maps.app.goo.gl/FdupjPH86Wz7heSAA)
+- [Manuel Antonio National Park](https://maps.app.goo.gl/S356vnztJtWyeGXt5)
+
+### Restaurants in Manuel Antonio
+
+<!--
+
+Planet B hostel is decent, especially for the price, but it's bit closer to the Quepos town.
+Wifi 5/9 Mbit/s, but sketchy in the kitchen but more reliable on the level above.
+
+-->
+
+Undecided:
+
+- [Restaurante Mimositico](https://maps.app.goo.gl/qCWfnJXfVmNvEpLG6) - bistec cascado was overcooked and tough. I had
+  to ask for a sharper knife to be able to cut it and then cut it into tiny pieces to be able to actually eat it.
+  The bistec was also relatively small part of the place compared to other cascados I’ve had in Costa Rica.
+  The strawberry shake with milk was good, but smaller than others I had the last couple days.
+  Did not deserve a 4.9 rating, but perhaps it needs another try.
+  WiFi 20/25 Mbit/s
+
+Not Recommended:
+
+- [Luna Llena Collectiv Art Cafe Boutique](https://maps.app.goo.gl/LCb7hifEXheV1T6j9) - highly rated, nice ambience and
+  shop mainly targetting women's garments and trinkets, but \$12 for a ham and cheese panini, tourist priced.
+  I was still hungry after it and had to eat again
+
+## Quepos
+
+Seaside town up the road from Manuel Antonio with various restaurants.
+
+- [Sabromar](https://maps.app.goo.gl/9mTsn3YNhYxyAMce9) - don't let the empty downstairs fast food restaurant look fool
+  you, the upstairs was packed with people, a nice restaurant and food, with a gift shop at the reception.
+  The shrimp ceviche was decent, although the strawberry milkshake was a decent size, it wasn't as good as other places.
+  Wifi 126/93 Mbit/s
