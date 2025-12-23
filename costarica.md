@@ -153,5 +153,6 @@ Seaside town up the road from Manuel Antonio with various restaurants.
 
 - [Sabromar](https://maps.app.goo.gl/9mTsn3YNhYxyAMce9) - don't let the empty downstairs fast food restaurant look fool
   you, the upstairs was packed with people, a nice restaurant and food, with a gift shop at the reception.
-  The shrimp ceviche was decent, although the strawberry milkshake was a decent size, it wasn't as good as other places.
+  The shrimp ceviche was decent.
+  Although the strawberry milkshake was a decent size, it wasn't as good as other places.
   Wifi 126/93 Mbit/s
