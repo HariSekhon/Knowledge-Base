@@ -10,6 +10,9 @@
   - [Restaurants in San Jose](#restaurants-in-san-jose)
 - [Manuel Antonio](#manuel-antonio)
   - [Travel to Manuel Antonio](#travel-to-manuel-antonio)
+  - [Attractions in Manuel Antonio](#attractions-in-manuel-antonio)
+  - [Restaurants in Manuel Antonio](#restaurants-in-manuel-antonio)
+- [Quepos](#quepos)
 
 <!-- INDEX_END -->
 
