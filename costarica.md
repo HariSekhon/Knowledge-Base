@@ -157,6 +157,7 @@ TODO:
 - [Terraza By Issimo](https://maps.app.goo.gl/qFWcNgZ8jLhbvA8z7) - 4.8
 - [Arbol. Food & Wine](https://maps.app.goo.gl/zwcDvAgoarpFqtZ48) - 4.8
 - [Terraza 77 Restaurant y Bar](https://maps.app.goo.gl/xxTLnCzJb9XAvYGg6) - 4.6
+- [Agua Azul](https://maps.app.goo.gl/Km93RxUymUDCJFVX7) - 4.6
 
 ## Quepos
 
