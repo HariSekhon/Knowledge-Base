@@ -93,6 +93,13 @@ You probably want to stay somewhere between [Sabana](https://maps.app.goo.gl/y2S
 [Stray Cat Hostel](https://maps.app.goo.gl/R1dcBURToEvgwukF7) - good wifi speed, 176/7 Mbit/s, trendy, and has
 3 cats, 2 black ones, but has a max age limit of 42 for dorms
 
+[Costa Rica Backpackers](https://maps.app.goo.gl/gqPzu3uSXepRgtHcA) - cheap,
+pool looks good, but the room itself was pretty poor - they must has spent all their money on th blue lights in the
+pool.
+Ok for a one night stopover in/out but that's all.
+The kitchen stove is also a bit weak, but the on-site restaurant isn't bad,
+the beef cascado was average like most places, but the fruit yoghurt granola breakfast was actually pretty good
+
 -->
 
 - [Central Market](https://maps.app.goo.gl/Av313U4s39NAPZXW9) - get here before 5pm and get some street food, it's the
