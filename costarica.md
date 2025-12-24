@@ -24,6 +24,9 @@ _"Expensive"_ - the first word I hear when I ask other tourists here about how t
 
 _"Muy Caro"_ (translation: _"very expensive"_) when I ask locals about Costa Rica.
 
+When I asked locals why this is since it doesn't seem justified,
+they said it's because they get a lot of American tourists, so they've put American prices.
+
 Costa Rica uses their own currency the Colón (plural: Colones),
 but you can often also give US dollars to taxi drivers or accommodation.
 
