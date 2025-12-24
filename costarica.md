@@ -45,11 +45,19 @@ or \$25 for a burger and fries (Dec 2025 prices).
 There are free water refill stations past security so don't waste your money on bottled water, bring a reusable water
 bottle.
 
+Thankfully the immigration control and security are pretty quick
+and don't have the big queues that you see in other bigger airports.
+
+There is a large collection of gift shops past security full of costa rica branded clothes, toys and snacks.
+
+There are charging stations with bar stool style desks for laptops and phones.
+
 ## Immigration Control & Exit Flights
 
 I was actually asked for the date of my outbound flight as well as where I'm staying.
 
-The airline Avianca refused to let me do a baggage drop without first booking an outbound flight.
+The airline Avianca in EL Salvador refused to let me do a baggage drop to get here without first booking an outbound
+flight first.
 
 ## ATMs
 
