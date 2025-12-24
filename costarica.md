@@ -4,7 +4,7 @@
 
 - [Summary](#summary)
 - [San Jose Airport](#san-jose-airport)
-- [Immigration Control & Exit Flights](#immigration-control--exit-flights)
+- [Immigration Control - Exit Flight Required](#immigration-control---exit-flight-required)
 - [ATMs](#atms)
 - [Taxi Apps](#taxi-apps)
 - [San Jose](#san-jose)
@@ -55,7 +55,7 @@ There is a large collection of gift shops past security full of costa rica brand
 
 There are charging stations with bar stool style desks for laptops and phones.
 
-## Immigration Control & Exit Flights
+## Immigration Control - Exit Flight Required
 
 I was actually asked for the date of my outbound flight as well as where I'm staying.
 
