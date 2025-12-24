@@ -38,6 +38,9 @@ The food is also average at best in most places I've tried, so I haven't bothere
 I recommend shortening your stay and going straight to the nature reserves and beaches like Manuel Antonio with maximum
 one night stopover in San Jose if you need it.
 
+Overall, at these prices, I would not re-visit Costa Rica unless I really wanted to go see the nature
+(there are good beaches all over the world and anybody can build ziplines).
+
 ## San Jose Airport
 
 Most of the food places are past security.
