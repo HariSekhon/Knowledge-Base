@@ -13,6 +13,7 @@
 - [TOML](#toml)
 - [XML](#xml)
   - [XML Lint](#xml-lint)
+  - [XML Starlet](#xml-starlet)
 - [YAML](#yaml)
 - [HBase vs Parquet vs Avro](#hbase-vs-parquet-vs-avro)
 
@@ -152,6 +153,15 @@ Or pipe XML in via standard input to validate and and use `--format` to pretty p
 
 ```shell
 xmllint --format - < "$file.xml"
+```
+
+### XML Starlet
+
+An excellent program that can format, validate and select data from XML,
+and even escape / unescape special XML characters like `&amp;` vs `&`.
+
+```shell
+xmlstarlet --help
 ```
 
 ## YAML
