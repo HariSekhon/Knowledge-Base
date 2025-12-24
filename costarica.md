@@ -3,7 +3,9 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [San Jose Airport](#san-jose-airport)
 - [Immigration Control & Exit Flights](#immigration-control--exit-flights)
+- [ATMs](#atms)
 - [Taxi Apps](#taxi-apps)
 - [San Jose](#san-jose)
   - [Attractions in San Jose](#attractions-in-san-jose)
@@ -18,10 +20,30 @@
 
 ## Summary
 
+_"Expensive"_ - the first word I hear when I ask other tourists here about how they are finding Costa Rica.
+
+_"Muy Caro"_ (translation: _"very expensive"_) when I ask locals about Costa Rica.
+
 Costa Rica uses their own currency the Colón (plural: Colones),
 but you can often also give US dollars to taxi drivers or accommodation.
 
-Most places take card, except for InDrive and street food places, so you probably don't need to withdraw that much.
+Most places take card, except for InDrive and street food places, so you probably don't need to withdraw that much, and
+there are ATMs without fees below.
+
+The food is also average at best in most places I've tried, so I haven't bothered listing some of these places.
+
+I recommend shortening your stay and going straight to the nature reserves and beaches like Manuel Antonio with maximum
+one night stopover in San Jose if you need it.
+
+## San Jose Airport
+
+Most of the food places are past security.
+
+You might want to eat and drink first though unless you enjoy paying \$5-\$9 for a bottle of water, \$14 for a sandwich,
+or \$25 for a burger and fries (Dec 2025 prices).
+
+There are free water refill stations past security so don't waste your money on bottled water, bring a reusable water
+bottle.
 
 ## Immigration Control & Exit Flights
 
@@ -29,10 +51,18 @@ I was actually asked for the date of my outbound flight as well as where I'm sta
 
 The airline Avianca refused to let me do a baggage drop without first booking an outbound flight.
 
+## ATMs
+
+- [National Bank ATM](https://maps.app.goo.gl/eB5yePY8Bny8C9RR9) - no local ATM fee for withdrawals.
+  There is often quite a queue here (15-20 people), but it goes quickly as there are several ATMs inside
+- [BCR (Banco de Costa Rica)](https://maps.app.goo.gl/pTsrpDCZr43wyGpX8) - several ATMs without fees, but it rejected my
+  card with some communications error, I then went to National Bank above
+
 ## Taxi Apps
 
 - [Uber](https://www.uber.com/cr/en/)
-- [InDrive](https://indrive.com/en-cr) - usually cheaper than Uber, but often requires cash
+- [InDrive](https://indrive.com/en-cr) - usually cheaper than Uber, but often requires cash - I paid in dollars for my
+  first one since I didn't have local currency when coming from the airport
 - [DiDi](https://web.didiglobal.com/cr/) - didn't receive their SMS verification so didn't try it
 
 ## San Jose
@@ -41,13 +71,6 @@ The capital.
 
 You probably want to stay somewhere between [Sabana](https://maps.app.goo.gl/y2Sm4ZYYDzm5WpRH6) and
 [San José Central Market](https://maps.app.goo.gl/bNJmG9t3UDfriwdD8).
-
-<!--
-
-[Stray Cat Hostel](https://maps.app.goo.gl/R1dcBURToEvgwukF7) - good wifi speed, 176/7 Mbit/s, trendy, and has
-3 cats, 2 black ones, but has a max age limit of 42 for dorms
-
--->
 
 ### Attractions in San Jose
 
@@ -64,6 +87,13 @@ You probably want to stay somewhere between [Sabana](https://maps.app.goo.gl/y2S
 - [Costa Rican Art Museum](https://maps.app.goo.gl/vmEcLoF6JNrras516)
 
 ### Restaurants in San Jose
+
+<!--
+
+[Stray Cat Hostel](https://maps.app.goo.gl/R1dcBURToEvgwukF7) - good wifi speed, 176/7 Mbit/s, trendy, and has
+3 cats, 2 black ones, but has a max age limit of 42 for dorms
+
+-->
 
 - [Central Market](https://maps.app.goo.gl/Av313U4s39NAPZXW9) - get here before 5pm and get some street food, it's the
   difference between paying 3,000-5,000 CRC (\$10) vs paying 10,000-20,000 CRC (\$20-\$40) elsewhere
