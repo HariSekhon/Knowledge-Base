@@ -2,7 +2,8 @@
 
 ## Fix Non-Syncing / Location Change
 
-Fix Google Drive on macOS not syncing or having switched to the wrong location:
+Fix Google Drive on macOS not syncing or having switched to the wrong location
+(`~/Library/CloudStorage/GoogleDrive-<account>/` - this was forced by an Apple change):
 
 1. Quit Google Drive app
 
