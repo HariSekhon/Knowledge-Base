@@ -10,11 +10,12 @@
 - [San Jose](#san-jose)
   - [Attractions in San Jose](#attractions-in-san-jose)
   - [Restaurants in San Jose](#restaurants-in-san-jose)
-- [Manuel Antonio](#manuel-antonio)
-  - [Travel to Manuel Antonio](#travel-to-manuel-antonio)
+- [Manuel Antonio & Quepos](#manuel-antonio--quepos)
+  - [Travel to & from Manuel Antonio](#travel-to--from-manuel-antonio)
+  - [Travel Within Manuel Antonio / Quepos](#travel-within-manuel-antonio--quepos)
   - [Attractions in Manuel Antonio](#attractions-in-manuel-antonio)
   - [Restaurants in Manuel Antonio](#restaurants-in-manuel-antonio)
-- [Quepos](#quepos)
+  - [Restaurants in Quepos](#restaurants-in-quepos)
 
 <!-- INDEX_END -->
 
@@ -156,16 +157,40 @@ TODO:
 
 - [Mall San Pedro](https://maps.app.goo.gl/n9S1M6ScYuhGzsyaA)
 
-## Manuel Antonio
+## Manuel Antonio & Quepos
 
 [Manuel Antonio](https://maps.app.goo.gl/j1XxALwELfSbac9r5) and [Quepos](https://maps.app.goo.gl/6j1SQ1fTHdCFD1PX9) are
 beach towns about 4 hours drive away from San Jose.
 
-### Travel to Manuel Antonio
+### Travel to & from Manuel Antonio
 
 You can catch a bus from [Bus Terminal - Tracopa Ltda](https://maps.app.goo.gl/RKsNDJx1kv9oof6g6).
 
 This costs around \$10-\$12 and takes around 4.5 hours with a 20 minute stopover for a toilet break.
+
+You can also catch the same Trocopa bus back from the
+[Tracopa Manuel Antonio](https://maps.app.goo.gl/dMSygqqmf7h3yHmRA) bust stop or from
+[Tracopa Quepos](https://maps.app.goo.gl/JuDvAfZnX6Srw1qT9).
+
+The first one is just a bus stop next to the beach, there is no office,
+so you'll need to pay the bus driver cache and he will shunt you to one of the non-occupied seats.
+
+If you want a box office and ticket in advance you'll need to go to the Quepos location which is an actual bus station.
+
+The timetable is also not printed or displayed anywhere as of Dec 2025 so you'll need to check online
+(ask [ChatGPT](chatgpt.com)).
+
+### Travel Within Manuel Antonio / Quepos
+
+There is a bus which has several bus stops along the main road between the two.
+
+The bus only costs 370 CRC ($0.75).
+
+InDrive didn't seem to have any drivers on the map here,
+leaving only Uber, which would charge you $15 for the same ($0.75) journey the bus does up the road.
+
+It's about a 1 hour walk between the two towns,
+so if you're staying locally or in between, it's quite walkable anyway, although it has hills.
 
 ### Attractions in Manuel Antonio
 
@@ -218,7 +243,7 @@ TODO:
 - [Terraza 77 Restaurant y Bar](https://maps.app.goo.gl/xxTLnCzJb9XAvYGg6) - 4.6
 - [Agua Azul](https://maps.app.goo.gl/Km93RxUymUDCJFVX7) - 4.6
 
-## Quepos
+### Restaurants in Quepos
 
 Seaside town up the road from Manuel Antonio with various restaurants.
 
