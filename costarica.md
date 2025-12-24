@@ -33,7 +33,9 @@ but you can often also give US dollars to taxi drivers or accommodation.
 Most places take card, except for InDrive and street food places, so you probably don't need to withdraw that much, and
 there are ATMs without fees below.
 
-The food is also average at best in most places I've tried, so I haven't bothered listing some of these places.
+The food is also average at best in most places I've tried.
+Many places will charge you 13% tax on top of the menu price and another 10%+ service charge on top too,
+so factor that in to your costs.
 
 I recommend shortening your stay and going straight to the nature reserves and beaches like Manuel Antonio with maximum
 one night stopover in San Jose if you need it.
@@ -186,7 +188,7 @@ Wifi 5/9 Mbit/s, but sketchy in the kitchen but more reliable on the level above
 
 Tourist priced throughout.
 
-Undecided:
+Undecided (mixed bag):
 
 - [Restaurante Mimositico](https://maps.app.goo.gl/qCWfnJXfVmNvEpLG6) - bistec cascado was overcooked and tough. I had
   to ask for a sharper knife to be able to cut it and then cut it into tiny pieces to be able to actually eat it.
@@ -196,6 +198,11 @@ Undecided:
   Restaurant was a bit dead, just a couple tourists from neighbouring accommodations.
   This is not a place locals seem likely to come.
   WiFi 20/25 Mbit/s
+- [Bar las gemelas](https://maps.app.goo.gl/osaQS2qD1LgKiT8j8) - food wasn't terrible, nice sunset view, and it's one of
+  the more reasonably priced places to eat at 4500 CRC for a beef casacado, but this is how they get you.
+  When I ordered a strawberry en leche (with milk) ie.
+  a milkshake for 2500 CRC (\$5), the waiter gave me the fattening syrup-y 3500 CRC (\$7) ice cream one
+  instead, likely on purpose since their service charge is an automatic percentage
 
 Not Recommended:
 
