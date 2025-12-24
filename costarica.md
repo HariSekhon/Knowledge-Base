@@ -202,7 +202,8 @@ Undecided (mixed bag):
   the more reasonably priced places to eat at 4500 CRC for a beef casacado, but this is how they get you.
   When I ordered a strawberry en leche (with milk) ie.
   a milkshake for 2500 CRC (\$5), the waiter gave me the fattening syrup-y 3500 CRC (\$7) ice cream one
-  instead, likely on purpose since their service charge is an automatic percentage
+  instead, likely on purpose since their service charge is an automatic percentage.
+  Has wifi
 
 Not Recommended:
 
