@@ -42,6 +42,7 @@ Budapest metro is surprisingly cheap and good. It's 450 HUF for a single journey
 Download the [BudapestGo](https://bkk.hu/en/tickets-and-passes/budapestgo/) phone app
 and you can purchase tickets
 and scan the QR code to validate them at the entry points of the Metro.
+As of Dec 2025 it even accepts Apple Pay and Google Pay in the app now.
 
 The Metro shuts down around 11:30pm so don't stay out too late or you'll need a taxi.
 
