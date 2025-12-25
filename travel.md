@@ -318,10 +318,11 @@ Some airlines / countries require proof of outbound flights,
 and refuse to check you in or even luggage drop without it,
 which can leave you scrambling to book an outbound flight from your destination country before the check-in closes.
 
-This has hit me from:
+This has hit me travelling to:
 
-- Madrid in [Spain](spain.md) => Cancun in [Mexico](mexico.md) with Iberojet airline
-- San Salvador in [El Salvador](elsalvador.md) => San Jose in [Costa Rica](costarica.md) with Avianca airline
+- [Mexico](mexico.md) with Iberojet airline
+- [Costa Rica](costarica.md) with Avianca airline
+- [Panama](panama.md) with Copa airline
 
 In [Costa Rica](costarica.md) the immigration officer did ask for my outbound flight and accommodation,
 whereas in [Mexico](mexico.md) they asked for my accommodation but not my outbound flight.
