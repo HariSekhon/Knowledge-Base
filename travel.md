@@ -120,6 +120,8 @@ Cities: 174
 
 Country pages with specific tips for each country:
 
+(a ⭐ next to a country represents it's one of my preferred ones)
+
 ### Europe
 
 - [Albania](travel/albania.md) ⭐
@@ -194,11 +196,14 @@ volcanos, or historic archaeological sites.
 - [Honduras](travel/honduras.md) (skipped due to long visa bureaucracy)
 - [Nicaragua](travel/nicaragua.md) (skipped due to lack of attractions and awkward flights)
 - [Costa Rica](costarica.md)
+- [Panama](panama.md)
 
 ### South America
 
 [Spanish Crash Course](travel/spanish.md) - you will need this for the following countries as most people don't speak English
 like much of the rest of the world.
+
+- [Colombia](colombia.md) ⭐
 
 ## Booking Sites
 
