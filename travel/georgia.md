@@ -3,9 +3,11 @@
 <!-- INDEX_START -->
 
 - [Georgia Flights](#georgia-flights)
-- [Taxis in Georgia](#taxis-in-georgia)
-- [Tbilisi Airport](#tbilisi-airport)
-- [Restaurants in Tbilisi](#restaurants-in-tbilisi)
+- [Tbilisi](#tbilisi)
+  - [Taxis in Tbilisi](#taxis-in-tbilisi)
+  - [Tbilisi Airport](#tbilisi-airport)
+  - [Restaurants in Tbilisi](#restaurants-in-tbilisi)
+- [Georgia Banks](#georgia-banks)
 
 <!-- INDEX_END -->
 
@@ -24,7 +26,9 @@ I missed my transfer flights both in and out of Tbilisi. This is probably one of
 
 This is how I came up with the [Flights Gotchas section](#flights-gotchas).
 
-## Taxis in Georgia
+## Tbilisi
+
+### Taxis in Tbilisi
 
 Do not use Airport taxis, they are double the price of using the Bolt app.
 
@@ -32,7 +36,7 @@ Do not use Airport taxis, they are double the price of using the Bolt app.
   Airport taxi
 - [Yandex Taxi](https://apps.apple.com/us/app/yandex-go-taxi-food-delivery/id472650686)
 
-## Tbilisi Airport
+### Tbilisi Airport
 
 Tbilisi Airport wifi sucks.
 
@@ -43,7 +47,7 @@ Except you can't swipe on a laptop and pressing any combination of the right arr
 
 So you can't connect your laptop to the airport wifi, only your phone.
 
-## Restaurants in Tbilisi
+### Restaurants in Tbilisi
 
 Don't eat too many Khinkali dumplings, that's a lot of pastry, you'll end up getting a Stalin belly
 (the infamous soviet leader Joseph Stalin was Georgian).
@@ -81,3 +85,8 @@ Don't eat too many Khinkali dumplings, that's a lot of pastry, you'll end up get
 - [Ramekai](https://maps.app.goo.gl/NG1L1dCfpspMFB2u5) -
   Japanese sushi and ramen place if you want a break from Georgian food being soup and dumplings everywhere.
   Skip the deep fried popcorn chicken starter and go for the Miso Ramen.
+
+## Georgia Banks
+
+- [TBC Georgia](https://tbcbank.ge/en)
+- [Bank of Georgia](https://bankofgeorgia.ge/en/retail/main)
