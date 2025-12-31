@@ -25,6 +25,10 @@ Immigration control took 1.5 hours of queuing at Medellin airport.
 
 The capital.
 
+The best area to stay in the touristy area of
+[Zona T](https://maps.app.goo.gl/WHpYx3ZKv2XZjKva7) or
+[El Chicó](https://maps.app.goo.gl/tdNXfQwNjwZRi9Zn8) slightly north of it.
+
 TODO
 
 ## Travel Between Bogota and Medellin
