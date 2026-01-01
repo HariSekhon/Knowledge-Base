@@ -6,7 +6,6 @@
 - [Bogota](#bogota)
 - [Travel Between Bogota and Medellin](#travel-between-bogota-and-medellin)
 - [Medellin](#medellin)
-  - [Medellin Airport](#medellin-airport)
   - [Travel between Medellin Airport and Medellin Centre](#travel-between-medellin-airport-and-medellin-centre)
   - [Best Areas to Stay in Medellin](#best-areas-to-stay-in-medellin)
   - [Restaurants in Medellin](#restaurants-in-medellin)
@@ -45,12 +44,6 @@ TODO
 Direct flights for 1 hour are so cheap that it's not worth taking a bus for 9-10 hours for only a few dollars less.
 
 ## Medellin
-
-### Medellin Airport
-
-The immigration control queue took 1.5 hours.
-
-See the requirements in the Immigration section above.
 
 ### Travel between Medellin Airport and Medellin Centre
 
