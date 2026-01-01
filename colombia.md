@@ -21,6 +21,16 @@ similar with many other latin american countries.
 
 Immigration control took 1.5 hours of queuing at Medellin airport.
 
+They required:
+
+- passport
+- flight ticket in
+- accommodation including address
+- your telephone number
+
+The immigration officer did not ask for an exit flight,
+possibly because they know the airlines check-in enforce it already.
+
 ## Bogota
 
 The capital.
@@ -39,18 +49,9 @@ Direct flights for 1 hour are so cheap that it's not worth taking a bus for 9-10
 
 ### Medellin Airport
 
-#### Immigration Control
-
 The immigration control queue took 1.5 hours.
 
-They require:
-
-- passport
-- flight ticket in
-- accommodation including address
-- your telephone number
-
-They did not ask for an exit flight, but the Copa airline check-in enforced this.
+See the requirements in the Immigration section above.
 
 ### Travel between Medellin Airport and Medellin Centre
 
