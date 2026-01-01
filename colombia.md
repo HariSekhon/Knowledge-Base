@@ -7,7 +7,6 @@
 - [Travel Between Bogota and Medellin](#travel-between-bogota-and-medellin)
 - [Medellin](#medellin)
   - [Medellin Airport](#medellin-airport)
-    - [Immigration Control](#immigration-control)
   - [Travel between Medellin Airport and Medellin Centre](#travel-between-medellin-airport-and-medellin-centre)
   - [Best Areas to Stay in Medellin](#best-areas-to-stay-in-medellin)
   - [Restaurants in Medellin](#restaurants-in-medellin)
