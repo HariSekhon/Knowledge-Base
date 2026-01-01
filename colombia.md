@@ -100,3 +100,7 @@ Vida hostal - surprisingly nice, especially for the price. Wifi 64/79 Mbit/s on 
   I particularly liked the asada, birria, chicken, and shrimp tacos and tuna tostada.
   I'd skip the Watermelon juice next time though as it's watery and sometimes leaves one feeling bloated
   (not the 7 tacos and tostada I had! All that food came to £17 in Dec 2025)
+- [Restaurante Milagros Manila](https://maps.app.goo.gl/jwSuPjuiQw1ucd4b7) - the tacos were good, especially the chicken
+  and pork ones with pineapple in them, and the burrito was decent, the nachos with it were very crispy home made style
+  ones. A little bit more expensive than The Altar above but good too.
+  Wifi 97/75 Mbit/s
