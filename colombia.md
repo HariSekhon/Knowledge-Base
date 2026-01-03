@@ -78,6 +78,24 @@ Vida hostal - surprisingly nice, especially for the price. Wifi 64/79 Mbit/s on 
 
 -->
 
+### Attractions in Medellin
+
+- [Plaza Botero](https://maps.app.goo.gl/49oGfoFBd6fAM4SX7) - open-air square with large sculptures
+- [Cerro de Nutibara Sculpture Park](https://maps.app.goo.gl/mTbSW468d8WqRvZV7) - hilltop park with view and outdoor
+  sculptures
+- [El Castillo Museo y Jardines](https://maps.app.goo.gl/TiNY3j29pjkdQyd59) - castle with fancy gardens
+- [Museo de Antioquia](https://maps.app.goo.gl/kYRShf42xvxk7rib8) - museum of Colombian art and history
+- [Jardín Botánico](https://maps.app.goo.gl/RiEt44uVDrwuRmZRA) - botanical garden with butterfly house
+- [Parque Explora](https://maps.app.goo.gl/Fhd6w6pkAYUduire8) - science museum with big aquarium
+- [Comuna 13](https://maps.app.goo.gl/xhHbzFBj1jW9jEZQ6) - famous hillside neighbourhood known for street art, outdoor
+  escalators, and social transformation. This one is a bit further out
+- [Pueblito Paisa](https://maps.app.goo.gl/2HpyRePo59kTBBdQ6) - replica traditional village with city views from Cerro
+  Nutibara
+- [Metrocable](https://maps.app.goo.gl/3TkkscrANtW3PUQP6) - cable car offering panoramic views and access to hillside
+  communities
+- [Parque Arví](https://maps.app.goo.gl/ohUoA1UQ62yJFmop9) - large ecological park with hiking trails, nature activities
+  and cable car system. This one is a bit further out
+
 ### Restaurants in Medellin
 
 <!--
