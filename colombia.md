@@ -88,7 +88,7 @@ kitchen terrace with wifi 64/79 Mbit/s
   clubs, boutiques and hotels
   - [Zona Rosa](https://maps.app.goo.gl/EahcyfAzT1BCDBHy7) - touristy street with lots of shops & restaurants in the area
     - [Provenza](https://maps.app.goo.gl/UhyvPYbB4SYN3Qxz8) - cafes, bars, restaurants
-    - [Parque Lleras](https://maps.app.goo.gl/SotDcXTGeZusW1ig6) - nightlife hub with of bars & restaurants
+    - [Parque Lleras](https://maps.app.goo.gl/SDmy67YsVXFqkzC68) - nightlife hub with of bars & restaurants
     - [Opened Gym](https://maps.app.goo.gl/9v3z4rivxwpNd17i8) - free open air gym with weights bench and various bars for
       dips and pull ups
 - [Street Workout Park](https://maps.app.goo.gl/NXn6xEVULwUrHQHG6)
