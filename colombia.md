@@ -91,6 +91,7 @@ kitchen terrace with wifi 64/79 Mbit/s
     - [Parque Lleras](https://maps.app.goo.gl/SotDcXTGeZusW1ig6) - nightlife hub with of bars & restaurants
     - [Opened Gym](https://maps.app.goo.gl/9v3z4rivxwpNd17i8) - free open air gym with weights bench and various bars for
       dips and pull ups
+- [Street Workout Park](https://maps.app.goo.gl/NXn6xEVULwUrHQHG6)
 - [Laureles](https://maps.app.goo.gl/4QVW8yURzCV6s5Hy8) - local-favourite district with relaxed nightlife & restaurants
 - [Belén Park](https://maps.app.goo.gl/vAbZcMMtgM8u6mjDA) - small park with street food and crafts
 - [Plaza Botero](https://maps.app.goo.gl/49oGfoFBd6fAM4SX7) - open-air square with large sculptures
