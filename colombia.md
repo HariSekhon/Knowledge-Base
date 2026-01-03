@@ -34,7 +34,7 @@ possibly because they know the airlines check-in enforce it already.
 
 The capital.
 
-The best area to stay in the touristy area of
+The best area to stay in are the touristy areas of
 [Zona T](https://maps.app.goo.gl/WHpYx3ZKv2XZjKva7) or
 [El Chicó](https://maps.app.goo.gl/tdNXfQwNjwZRi9Zn8) slightly north of it.
 
