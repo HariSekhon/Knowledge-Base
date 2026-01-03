@@ -75,16 +75,24 @@ this may be a problem if there are are two of you travelling, in which case you'
 
 <!--
 
-Vida hostal - surprisingly nice, especially for the price. Wifi 64/79 Mbit/s on the rooftop terrace kitchen
+[Vida Hostel](https://maps.app.goo.gl/jT9YJmb5Bgjhq4SW7) - surprisingly nice, bit more like a hotel, has a rooftop
+kitchen terrace with wifi 64/79 Mbit/s
+
+[Viajero Hostel Medellín & Rooftop Bar](https://maps.app.goo.gl/X6MfiQuzkTjbkiVb8) - party hostel, was booked out
 
 -->
 
 ### Attractions in Medellin
 
-- [Zona Rosa](https://maps.app.goo.gl/EahcyfAzT1BCDBHy7) - touristy street with lots of shops & restaurants in the area
-  - [Porton de Provenza](https://maps.app.goo.gl/UhyvPYbB4SYN3Qxz8) - bars, restaurants and clubs
-  - [Opened Gym](https://maps.app.goo.gl/9v3z4rivxwpNd17i8) - free open air gym with weights bench and various bars for
-    dips and pull ups
+- [El Poblado](https://maps.app.goo.gl/ZFvbmkkX2Z77tRjJ7) - upscale neighbourhood known for cafes, restaurants, bars,
+  clubs, boutiques and hotels
+  - [Zona Rosa](https://maps.app.goo.gl/EahcyfAzT1BCDBHy7) - touristy street with lots of shops & restaurants in the area
+    - [Provenza](https://maps.app.goo.gl/UhyvPYbB4SYN3Qxz8) - cafes, bars, restaurants
+    - [Parque Lleras](https://maps.app.goo.gl/SotDcXTGeZusW1ig6) - nightlife hub with of bars & restaurants
+    - [Opened Gym](https://maps.app.goo.gl/9v3z4rivxwpNd17i8) - free open air gym with weights bench and various bars for
+      dips and pull ups
+- [Laureles](https://maps.app.goo.gl/4QVW8yURzCV6s5Hy8) - local-favourite district with relaxed nightlife & restaurants
+- [Belén Park](https://maps.app.goo.gl/vAbZcMMtgM8u6mjDA) - small park with street food and crafts
 - [Plaza Botero](https://maps.app.goo.gl/49oGfoFBd6fAM4SX7) - open-air square with large sculptures
 - [Cerro de Nutibara Sculpture Park](https://maps.app.goo.gl/mTbSW468d8WqRvZV7) - hilltop park with view and outdoor
   sculptures
@@ -100,21 +108,15 @@ Vida hostal - surprisingly nice, especially for the price. Wifi 64/79 Mbit/s on 
   communities
 - [Parque Arví](https://maps.app.goo.gl/ohUoA1UQ62yJFmop9) - large ecological park with hiking trails, nature activities
   and cable car system. This one is a bit further out
+- [Envigado](https://maps.app.goo.gl/vAbZcMMtgM8u6mjDA) - authentic area south of Medellín known for traditional
+  eateries & bars
 
 ### Restaurants in Medellin
 
-<!--
-
-[Vida Hostel](https://maps.app.goo.gl/jT9YJmb5Bgjhq4SW7) - surprisingly nice, bit more like a hotel, has a kitchen terrace on the top floor with wifi
-64/79 Mbit/s
-
-[Viajero Hostel Medellín & Rooftop Bar](https://maps.app.goo.gl/X6MfiQuzkTjbkiVb8) - party hostel, was booked out
-
--->
-
 - [Zona Rosa](https://maps.app.goo.gl/EahcyfAzT1BCDBHy7) - lots of bars & restaurants to eat around here, too many for
   me to have tried
-  - [Porton de Provenza](https://maps.app.goo.gl/UhyvPYbB4SYN3Qxz8) - restaurants strip
+  - [Provenza](https://maps.app.goo.gl/UhyvPYbB4SYN3Qxz8) - restaurants strip
+- [Laureles](https://maps.app.goo.gl/4QVW8yURzCV6s5Hy8) - local-favourite district with relaxed nightlife & restaurants
 - [The Altar](https://maps.app.goo.gl/KthCTQSBbE1v73L3A) - affordable excellent Mexican tacos, open late until midnight.
   I particularly liked the asada, birria, chicken, and shrimp tacos and tuna tostada.
   I'd skip the Watermelon juice next time though as it's watery and sometimes leaves one feeling bloated
@@ -127,6 +129,8 @@ Vida hostal - surprisingly nice, especially for the price. Wifi 64/79 Mbit/s on 
   brands and local stores, and a food court.
   Dog friendly, many people bring their dogs here.
   Has wifi but it requires a capture portal which didn't render for me
+- [Oviedo](https://maps.app.goo.gl/QapEjSqe3Rnx2yPJ9) - large mall
+- [El Tesoro Parque Comercial](https://maps.app.goo.gl/xhrbE1QtoAsS2A7y5) - mall a bit further east
 - [Éxito Wow - Poblado](https://maps.app.goo.gl/gDT3hxUPTbJmXoMv6) - good selection but expensive for foreign items like
   shaving cream, go to below D1 for that instead
 - [D1 poblado 43D](https://maps.app.goo.gl/ftM9uTPp2zNBLgAZ6) - budget supermarket, cheap shaving cream compared to
