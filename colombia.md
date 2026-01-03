@@ -81,6 +81,9 @@ Vida hostal - surprisingly nice, especially for the price. Wifi 64/79 Mbit/s on 
 
 ### Attractions in Medellin
 
+- [Zona Rosa](https://maps.app.goo.gl/EahcyfAzT1BCDBHy7) - touristy street with lots of shops & restaurants in the area
+- [Opened Gym](https://maps.app.goo.gl/9v3z4rivxwpNd17i8) - free open air gym with weights bench and various bars for
+  dips and pull ups
 - [Plaza Botero](https://maps.app.goo.gl/49oGfoFBd6fAM4SX7) - open-air square with large sculptures
 - [Cerro de Nutibara Sculpture Park](https://maps.app.goo.gl/mTbSW468d8WqRvZV7) - hilltop park with view and outdoor
   sculptures
@@ -108,6 +111,8 @@ Vida hostal - surprisingly nice, especially for the price. Wifi 64/79 Mbit/s on 
 
 -->
 
+- [Zona Rosa](https://maps.app.goo.gl/EahcyfAzT1BCDBHy7) - lots of bars & restaurants to eat around here, too many for
+  me to have tried
 - [The Altar](https://maps.app.goo.gl/KthCTQSBbE1v73L3A) - affordable excellent Mexican tacos, open late until midnight.
   I particularly liked the asada, birria, chicken, and shrimp tacos and tuna tostada.
   I'd skip the Watermelon juice next time though as it's watery and sometimes leaves one feeling bloated
