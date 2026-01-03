@@ -117,6 +117,7 @@ kitchen terrace with wifi 64/79 Mbit/s
 - [Zona Rosa](https://maps.app.goo.gl/EahcyfAzT1BCDBHy7) - lots of bars & restaurants to eat around here, too many for
   me to have tried
   - [Provenza](https://maps.app.goo.gl/UhyvPYbB4SYN3Qxz8) - restaurants strip
+  - [Parque Lleras](https://maps.app.goo.gl/SDmy67YsVXFqkzC68) - nightlife hub with of bars & restaurants
 - [Laureles](https://maps.app.goo.gl/4QVW8yURzCV6s5Hy8) - local-favourite district with relaxed nightlife & restaurants
 - [The Altar](https://maps.app.goo.gl/KthCTQSBbE1v73L3A) - affordable excellent Mexican tacos, open late until midnight.
   I particularly liked the asada, birria, chicken, and shrimp tacos and tuna tostada.
