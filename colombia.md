@@ -83,8 +83,8 @@ Vida hostal - surprisingly nice, especially for the price. Wifi 64/79 Mbit/s on 
 
 - [Zona Rosa](https://maps.app.goo.gl/EahcyfAzT1BCDBHy7) - touristy street with lots of shops & restaurants in the area
   - [Porton de Provenza](https://maps.app.goo.gl/UhyvPYbB4SYN3Qxz8) - bars, restaurants and clubs
-- [Opened Gym](https://maps.app.goo.gl/9v3z4rivxwpNd17i8) - free open air gym with weights bench and various bars for
-  dips and pull ups
+  - [Opened Gym](https://maps.app.goo.gl/9v3z4rivxwpNd17i8) - free open air gym with weights bench and various bars for
+    dips and pull ups
 - [Plaza Botero](https://maps.app.goo.gl/49oGfoFBd6fAM4SX7) - open-air square with large sculptures
 - [Cerro de Nutibara Sculpture Park](https://maps.app.goo.gl/mTbSW468d8WqRvZV7) - hilltop park with view and outdoor
   sculptures
