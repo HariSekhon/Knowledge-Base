@@ -358,8 +358,9 @@ you really only need a change of clothes and minimal toiletries.
 The real problem is if you have lots of toiletries for skincare routines etc,
 as it can be hard to get it through the airport security and need that checked luggage.
 
-If going on further afield, then ditch the carry-on luggage as they often charge a similar amount extra for it as for
-checked luggage, and just putting everything in one large suitcase is cheaper.
+If going away for longer, such as travelling South America, then ditch the carry-on luggage as they often charge a
+similar amount extra for it as for checked luggage, and just putting everything in one large checked-in suitcase works
+out cheaper.
 
 #### Transfer Flight Timings
 
