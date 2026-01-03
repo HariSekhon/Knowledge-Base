@@ -113,6 +113,7 @@ Vida hostal - surprisingly nice, especially for the price. Wifi 64/79 Mbit/s on 
 
 - [Zona Rosa](https://maps.app.goo.gl/EahcyfAzT1BCDBHy7) - lots of bars & restaurants to eat around here, too many for
   me to have tried
+  - [Porton de Provenza](https://maps.app.goo.gl/UhyvPYbB4SYN3Qxz8) - restaurants strip
 - [The Altar](https://maps.app.goo.gl/KthCTQSBbE1v73L3A) - affordable excellent Mexican tacos, open late until midnight.
   I particularly liked the asada, birria, chicken, and shrimp tacos and tuna tostada.
   I'd skip the Watermelon juice next time though as it's watery and sometimes leaves one feeling bloated
