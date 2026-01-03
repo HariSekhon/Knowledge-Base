@@ -328,9 +328,11 @@ This has hit me travelling to:
 - [Mexico](mexico.md) with Iberojet airline
 - [Costa Rica](costarica.md) with Avianca airline
 - [Panama](panama.md) with Copa airline
+- [Colombia](colombia.md) with Avianca airline
 
 In [Panama](panama.md) and [Costa Rica](costarica.md) the immigration officer did ask for my outbound flight and
-accommodation, whereas in [Mexico](mexico.md) they asked for my accommodation but not my outbound flight.
+accommodation, whereas in [Mexico](mexico.md) and [Colombia](colombia.md) they asked for my accommodation details but
+not my outbound flight.
 
 Regardless, the airlines will not let you check-in without an outbound flight when travelling to some countries.
 
