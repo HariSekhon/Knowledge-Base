@@ -8,6 +8,7 @@
 - [Medellin](#medellin)
   - [Travel between Medellin Airport and Medellin Centre](#travel-between-medellin-airport-and-medellin-centre)
   - [Best Areas to Stay in Medellin](#best-areas-to-stay-in-medellin)
+  - [Attractions in Medellin](#attractions-in-medellin)
   - [Restaurants in Medellin](#restaurants-in-medellin)
 
 <!-- INDEX_END -->
