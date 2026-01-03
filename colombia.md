@@ -122,3 +122,9 @@ Vida hostal - surprisingly nice, especially for the price. Wifi 64/79 Mbit/s on 
   and pork ones with pineapple in them, and the burrito was decent, the nachos with it were very crispy home made style
   ones. A little bit more expensive than The Altar above but good too.
   Wifi 97/75 Mbit/s
+- [Éxito Wow - Poblado](https://maps.app.goo.gl/gDT3hxUPTbJmXoMv6) - good selection but expensive for foreign items like
+  shaving cream, go to below D1 for that instead
+- [D1 poblado 43D](https://maps.app.goo.gl/ftM9uTPp2zNBLgAZ6) - budget supermarket, cheap shaving cream compared to
+  Exito (6,000 vs 46,000 Colombia Pesos - \$1.70 vs \$12)
+  - [Tiendas D1](https://maps.app.goo.gl/UJB6vEKrYnKdcCpv5) - same D1 chain, small budget supermarket near many hostels
+    for convenience
