@@ -3,9 +3,9 @@
 <!-- INDEX_START -->
 
 - [Best Video Players](#best-video-players)
-- [Buffer Videos](#buffer-videos)
+- [Buffer Streaming Videos in Browser](#buffer-streaming-videos-in-browser)
   - [Faststream](#faststream)
-- [Download Videos](#download-videos)
+- [Download Videos from Social Media](#download-videos-from-social-media)
   - [yt-dlp](#yt-dlp)
   - [Download Single Video](#download-single-video)
   - [Download Video Not Inferred from Web Page](#download-video-not-inferred-from-web-page)
@@ -72,7 +72,7 @@ vlc "$file"
 
 This is already included in the alaises in the [DevOps-Bash-tools](devops-bash-tools.md) repo.
 
-## Buffer Videos
+## Buffer Streaming Videos in Browser
 
 ### Faststream
 
@@ -82,7 +82,7 @@ Install the extension and then just click the extension when on a web page.
 
 It'll replace the video placer with a custom one that buffers.
 
-## Download Videos
+## Download Videos from Social Media
 
 ### yt-dlp
 
