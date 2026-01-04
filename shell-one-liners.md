@@ -71,13 +71,13 @@ script logfile.txt
 If your shell history is vanilla without timestamps:
 
 ```shell
-awk '{ a[$2]++ } END { for(i in a) { print a[i] " " i } }'
+history | awk '{ a[$2]++ } END { for(i in a) { print a[i] " " i } }' | sort -rn | head -n 100
 ```
 
 If you're using timestamped shell history:
 
 ```shell
-awk '{ a[$4]++ } END { for(i in a) { print a[i] " " i } }'
+history | awk '{ a[$4]++ } END { for(i in a) { print a[i] " " i } }' | sort -rn | head -n 100
 ```
 
 ## Processes
