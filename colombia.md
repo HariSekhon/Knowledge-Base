@@ -149,4 +149,5 @@ kitchen terrace with wifi 64/79 Mbit/s
 TODO:
 
 - [Mamasita Medallo sede Poblado](https://maps.app.goo.gl/BwpKRe74ZM37AEVo6) - 4.7 Colombia, recommended by another
-  tourist as the best place he'd eaten in Medellin, with the slow cooked beef cheek, probably in mole or a stew
+  tourist as the best place he'd eaten in Medellin, with the slow cooked beef cheek, probably in mole or a stew.
+  Soups were apparently incredible too
