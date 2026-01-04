@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [Best Video Players](#best-video-players)
 - [Buffer Videos](#buffer-videos)
   - [Faststream](#faststream)
 - [Download Videos](#download-videos)
@@ -19,6 +20,57 @@
 - [Transcode mkv into standard mp4 for smart TVs to play](#transcode-mkv-into-standard-mp4-for-smart-tvs-to-play)
 
 <!-- INDEX_END -->
+
+## Best Video Players
+
+- [VLC](https://www.videolan.org/) - the open source champion forever, very mature with lots of features and built-in
+  codec support for nearly every video format out there - it plays just about anything
+- [MPlayer](http://www.mplayerhq.hu/) - another good open source media player, can sometimes play partially broken files
+  better than VLC which may crash / exit the file if it's incomplete, and better for triggering off the command line
+- [MPV](https://mpv.io/) - based on MPlayer but slightly more features like being able to skip to a time by clicking the
+  tracker bar at the bottom, and nice shorter `mpv` command for opening media files from the command line
+
+```shell
+brew install vlc
+```
+
+```shell
+brew install mplayer
+```
+
+```shell
+brew install mpv
+```
+
+From the command line, `mpv` and `mplayer` are better than VLC:
+
+```shell
+mpv "$file"
+```
+
+```shell
+mplayer "$file"
+```
+
+Compared to:
+
+```shell
+"/Applications/VLC.app/Contents/MacOS/VLC" "$file"
+```
+
+If you want a short `vlc` command, try this:
+
+```shell
+alias vlc='/Applications/VLC.app/Contents/MacOS/VLC'
+```
+
+then you can do:
+
+```shell
+vlc "$file"
+```
+
+This is already included in the alaises in the [DevOps-Bash-tools](devops-bash-tools.md) repo.
 
 ## Buffer Videos
 
