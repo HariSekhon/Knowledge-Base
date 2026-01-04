@@ -30,7 +30,8 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
   - [Base64 Secrets to avoid dodgy characters](#base64-secrets-to-avoid-dodgy-characters)
   - [Find Lines in a File present in Other Files](#find-lines-in-a-file-present-in-other-files)
 - [Network](#network)
-  - [Listen Open TCP/UDP Ports](#listen-open-tcpudp-ports)
+  - [Get Your Public IP Address](#get-your-public-ip-address)
+  - [List Open TCP/UDP Ports](#list-open-tcpudp-ports)
   - [Check if a Port is Open](#check-if-a-port-is-open)
   - [Get your Public IP Address](#get-your-public-ip-address)
   - [Quickly Serve Local Files over HTTP](#quickly-serve-local-files-over-http)
@@ -232,7 +233,48 @@ Pipe to `sort -u` to deduplicate if something is found in more than one file.
 
 ## Network
 
-### Listen Open TCP/UDP Ports
+### Get Your Public IP Address
+
+These tricks use publicly available services to return what your actual public IP address is after all NAT translation
+ie. what your IP is actually seen as by other computers on the internet.
+
+```shell
+curl ifconfig.co
+```
+
+```shell
+curl checkip.amazonaws.com
+```
+
+or using just DNS:
+
+```shell
+dig +short myip.opendns.com @resolver1.opendns.com
+```
+
+Websites that return the IP without a trailing newline:
+
+```shell
+curl ifconfig.me
+```
+
+```shell
+curl https://ipinfo.io
+```
+
+```shell
+curl ident.me
+```
+
+Programmatically useful with more details returned in JSON:
+
+```shell
+curl ifconfig.co/json
+```
+
+### List Open TCP/UDP Ports
+
+Show your local listening ports:
 
 ```shell
 netstat -lntpu
@@ -320,6 +362,7 @@ Linux.
 
 ## More Resources
 
+- [Bash](bash.md) page
 - [DevOps-Bash-tools](devops-bash-tools.md)
 - [CommandLineFu](https://www.commandlinefu.com/)
 - [ShellDorado](http://www.shelldorado.com/)
