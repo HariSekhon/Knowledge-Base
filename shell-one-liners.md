@@ -68,7 +68,8 @@ script logfile.txt
 ### Create a Ram Disk
 
 ```shell
-mkdir /tmp/ramdisk && mount -t tmpfs -o size=512m tmpfs /tmp/ramdisk
+mkdir /tmp/ramdisk &&
+mount -t tmpfs tmpfs /tmp/ramdisk -o size=1024m
 ```
 
 ## Processes
