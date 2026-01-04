@@ -422,6 +422,7 @@ In [DevOps-Bash-tools](devops-bash-tools.md) this a function called `cleanshell`
 - [ShellCheck](https://www.shellcheck.net/) - online version of the popular `shellcheck` command line tool to find bugs and improvements to make in shell code
 - [Reddit - r/bash](https://www.reddit.com/r/bash/)
 - [DevOps-Bash-tools](devops-bash-tools.md)
+- [Shell One Liners](shell-one-liners.md)
 
 ## Style Guide
 
