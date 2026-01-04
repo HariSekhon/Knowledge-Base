@@ -16,7 +16,7 @@
 - [Downscale Video to 720p mp4](#downscale-video-to-720p-mp4)
 - [Clip Video](#clip-video)
   - [Clip Video Interactively using QuickTime Player](#clip-video-interactively-using-quicktime-player)
-  - [Clip Video on Command Line using `ffmpeg`](#clip-video-on-command-line-using-ffmpeg)
+  - [Clip Video on Command Line using FFmpeg](#clip-video-on-command-line-using-ffmpeg)
 - [Transcode mkv into standard mp4 for smart TVs to play](#transcode-mkv-into-standard-mp4-for-smart-tvs-to-play)
 
 <!-- INDEX_END -->
@@ -267,7 +267,7 @@ open -a "QuickTime Player" "$file"
 Then press shortcut `Cmd` + `T`
 or click `Edit` -> `Trim` to bring up a slider to drag and then save the resulting clip as a new file.
 
-### Clip Video on Command Line using `ffmpeg`
+### Clip Video on Command Line using FFmpeg
 
 Create a clip from a video file using `ffmpeg` args:
 
