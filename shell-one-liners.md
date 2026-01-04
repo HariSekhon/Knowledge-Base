@@ -322,4 +322,4 @@ Linux.
 
 - [DevOps-Bash-tools](devops-bash-tools.md)
 - [CommandLineFu](https://www.commandlinefu.com/)
-- [ShellDorado](http://www.shelldorado.com/))
+- [ShellDorado](http://www.shelldorado.com/)
