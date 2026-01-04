@@ -40,6 +40,7 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
 - [Mac](#mac)
   - [Use GNU CoreUtils](#use-gnu-coreutils)
   - [Mask BSD Core Utils with GNU Core Utils](#mask-bsd-core-utils-with-gnu-core-utils)
+- [More Resources](#more-resources)
 
 <!-- INDEX_END -->
 
@@ -316,3 +317,9 @@ sed(){
 
 Now when the script calls grep it gets the better functional version for cross-platform compatibility between Mac and
 Linux.
+
+## More Resources
+
+- [DevOps-Bash-tools](devops-bash-tools.md)
+- [CommandLineFu](https://www.commandlinefu.com/)
+- [ShellDorado](http://www.shelldorado.com/))
