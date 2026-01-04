@@ -14,6 +14,7 @@ It's not as amazing for one-liners as [Perl](perl.md) is though, which can boost
 - [Shell scripts with Python](#shell-scripts-with-python)
 - [Nagios Plugins in Python](#nagios-plugins-in-python)
 - [Python Library with Unit Tests](#python-library-with-unit-tests)
+- [Python HTTP Server](#python-http-server)
 - [VirtualEnv](#virtualenv)
 - [Pipenv](#pipenv)
 - [Poetry](#poetry)
@@ -80,6 +81,19 @@ Shell scripts using Python and making it easier to install Python pip libraries 
 ## Python Library with Unit Tests
 
 [HariSekhon/pylib](https://github.com/HariSekhon/pylib)
+
+## Python HTTP Server
+
+When you need a quick HTTP server to serve out local files at:
+
+<http://$HOSTNAME:8000/>
+
+```shell
+python -m SimpleHTTPServer
+```
+
+This is useful for temporary file sharing for things like making automated installer configurations available, such as
+for [Redhat](redhat.md) Kickstart, [Debian](debian.md) Preseeding or [Ubuntu](ubuntu.md) Autoinstall.
 
 ## VirtualEnv
 
