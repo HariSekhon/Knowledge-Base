@@ -13,6 +13,7 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
   - [List Your 100 Most Used Bash Commands](#list-your-100-most-used-bash-commands)
 - [Processes](#processes)
   - [Find disowned processes owned by the init PID 1](#find-disowned-processes-owned-by-the-init-pid-1)
+  - [Use Process Outputs Like Files](#use-process-outputs-like-files)
 - [Dates](#dates)
   - [Get Current Epoch](#get-current-epoch)
   - [Convert Epoch Seconds to Human Readable Date](#convert-epoch-seconds-to-human-readable-date)
@@ -29,7 +30,6 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
   - [Generate a Random Password](#generate-a-random-password)
   - [Base64 Secrets to avoid dodgy characters](#base64-secrets-to-avoid-dodgy-characters)
   - [Find Lines in a File present in Other Files](#find-lines-in-a-file-present-in-other-files)
-  - [Use Process Outputs Like Files](#use-process-outputs-like-files)
 - [Network](#network)
   - [Get Your Public IP Address](#get-your-public-ip-address)
   - [List Open TCP/UDP Ports](#list-open-tcpudp-ports)
@@ -87,6 +87,22 @@ history | awk '{ a[$4]++ } END { for(i in a) { print a[i] " " i } }' | sort -rn 
 
 ```shell
  ps -ef | awk '$3 == 1 {print}'
+```
+
+### Use Process Outputs Like Files
+
+Access command outputs like files without using temp files.
+
+The `<(...)` Bash syntax returns a temporary process file descriptor.
+
+```text
+some_command_expecting_a_file <(some_command_printing_to_stdout)
+```
+
+For example, compare two unsorted files without using temp files:
+
+```shell
+diff <(sort "$file1") <(sort "$file2")
 ```
 
 ## Dates
@@ -240,22 +256,6 @@ grep -Fxhf "$patterns_file" "$file1" "$file2" ...
 ```
 
 Pipe to `sort -u` to deduplicate if something is found in more than one file.
-
-### Use Process Outputs Like Files
-
-Access command outputs like files without using temp files.
-
-The `<(...)` Bash syntax returns a temporary process file descriptor.
-
-```text
-some_command_expecting_a_file <(some_command_printing_to_stdout)
-```
-
-For example, compare two unsorted files without using temp files:
-
-```shell
-diff <(sort "$file1") <(sort "$file2")
-```
 
 ## Network
 
