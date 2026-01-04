@@ -46,6 +46,13 @@ fish_config
 
 See the [Shell One Liners](shell-one-liners.md) page.
 
+## More Resources
+
+- [DevOps-Bash-tools](devops-bash-tools.md)
+- [CommandLineFu](https://www.commandlinefu.com/)
+- [ShellDorado](http://www.shelldorado.com/)
+- [Bash Guide](https://mywiki.wooledge.org/BashGuide)
+
 ## Memes
 
 ### Opening a Shell, Non-Programmers
