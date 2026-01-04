@@ -127,6 +127,10 @@ kitchen terrace with wifi 64/79 Mbit/s
   and pork ones with pineapple in them, and the burrito was decent, the nachos with it were very crispy home made style
   ones. A little bit more expensive than The Altar above but good too.
   Wifi 97/75 Mbit/s
+- [Final Feliz](https://maps.app.goo.gl/6XUz6fFfTs8sFkhC7) - co-joined with the reception of the popular Viajero hostel.
+  The burgers are decent but the bacon is more like super fatty pork rib, avoid next time. The wedges are few in number
+  but very good due to the sweet dusting, although they put too little of it on my wedges the second time around.
+  The cheeseburger was pretty basic but ok for the price. WiFi 74/68 Mbit/s
 - [Santafé Mall](https://maps.app.goo.gl/KqKrkQez4uDy5JcY8) - large 5 story mall with a mix of the usual international
   brands and local stores, and a food court.
   Dog friendly, many people bring their dogs here.
