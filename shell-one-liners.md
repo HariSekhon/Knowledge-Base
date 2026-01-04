@@ -33,7 +33,7 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
   - [Get Your Public IP Address](#get-your-public-ip-address)
   - [List Open TCP/UDP Ports](#list-open-tcpudp-ports)
   - [Check if a Port is Open](#check-if-a-port-is-open)
-  - [Make Audible Bell When a Host is Online](#make-audible-bell-when-a-host-is-online)
+  - [Wait and Make Audible Bell Sound when a Host is Online](#wait-and-make-audible-bell-sound-when-a-host-is-online)
   - [Quickly Serve Local Files over HTTP](#quickly-serve-local-files-over-http)
   - [Top for Network Processes](#top-for-network-processes)
 - [Disk](#disk)
@@ -299,7 +299,7 @@ nc -zv localhost 22
 localhost [127.0.0.1] 22 (ssh) open
 ```
 
-### Make Audible Bell When a Host is Online
+### Wait and Make Audible Bell Sound when a Host is Online
 
 Checks every 3 seconds, makes an audible bell, and exits when a host comes online:
 
