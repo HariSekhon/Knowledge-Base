@@ -10,7 +10,6 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
   - [Show CPU Cores](#show-cpu-cores)
   - [Show your $PATH entries one per line](#show-your-path-entries-one-per-line)
   - [Log all Commands in a Shell Session](#log-all-commands-in-a-shell-session)
-  - [Create a Ram Disk](#create-a-ram-disk)
 - [Processes](#processes)
   - [Find disowned processes owned by the init PID 1](#find-disowned-processes-owned-by-the-init-pid-1)
 - [Dates](#dates)
@@ -38,6 +37,7 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
   - [Top for Network Processes](#top-for-network-processes)
 - [Disk](#disk)
   - [Find Biggest Files Taking Up Space](#find-biggest-files-taking-up-space)
+  - [Create a Ram Disk](#create-a-ram-disk)
 - [Mac](#mac)
   - [Use GNU CoreUtils](#use-gnu-coreutils)
   - [Mask BSD Core Utils with GNU Core Utils](#mask-bsd-core-utils-with-gnu-core-utils)
@@ -63,13 +63,6 @@ echo $PATH | tr ':' '\n'
 
 ```shell
 script logfile.txt
-```
-
-### Create a Ram Disk
-
-```shell
-mkdir /tmp/ramdisk &&
-mount -t tmpfs tmpfs /tmp/ramdisk -o size=1024m
 ```
 
 ## Processes
@@ -330,6 +323,13 @@ See also for a GUI alternative:
 - [Disk Inventory X](https://www.derlien.com/) - Mac
 - [KDirStat](https://kdirstat.sourceforge.net/) - Linux
 - [WinDirStat](https://windirstat.net/) - Windows
+
+### Create a Ram Disk
+
+```shell
+mkdir /tmp/ramdisk &&
+mount -t tmpfs tmpfs /tmp/ramdisk -o size=1024m
+```
 
 ## Mac
 
