@@ -145,3 +145,8 @@ kitchen terrace with wifi 64/79 Mbit/s
   Exito (6,000 vs 46,000 Colombia Pesos - \$1.70 vs \$12)
   - [Tiendas D1](https://maps.app.goo.gl/UJB6vEKrYnKdcCpv5) - same D1 chain, small budget supermarket near many hostels
     for convenience
+
+TODO:
+
+- [Mamasita Medallo sede Poblado](https://maps.app.goo.gl/BwpKRe74ZM37AEVo6) - 4.7 Colombia, recommended by another
+  tourist as the best place he'd eaten in Medellin, with the slow cooked beef cheek, probably in mole or a stew
