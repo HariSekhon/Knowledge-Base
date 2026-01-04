@@ -323,3 +323,4 @@ Linux.
 - [DevOps-Bash-tools](devops-bash-tools.md)
 - [CommandLineFu](https://www.commandlinefu.com/)
 - [ShellDorado](http://www.shelldorado.com/)
+- [Bash Guide](https://mywiki.wooledge.org/BashGuide)
