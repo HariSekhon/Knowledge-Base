@@ -10,6 +10,7 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
   - [Show CPU Cores](#show-cpu-cores)
   - [Show your $PATH entries one per line](#show-your-path-entries-one-per-line)
   - [Log all Commands in a Shell Session](#log-all-commands-in-a-shell-session)
+  - [List Your 100 Most Used Bash Commands](#list-your-100-most-used-bash-commands)
 - [Processes](#processes)
   - [Find disowned processes owned by the init PID 1](#find-disowned-processes-owned-by-the-init-pid-1)
 - [Dates](#dates)
@@ -63,6 +64,20 @@ echo $PATH | tr ':' '\n'
 
 ```shell
 script logfile.txt
+```
+
+### List Your 100 Most Used Bash Commands
+
+If your shell history is vanilla without timestamps:
+
+```shell
+awk '{ a[$2]++ } END { for(i in a) { print a[i] " " i } }'
+```
+
+If you're using timestamped shell history:
+
+```shell
+awk '{ a[$4]++ } END { for(i in a) { print a[i] " " i } }'
 ```
 
 ## Processes
