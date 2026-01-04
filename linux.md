@@ -16,6 +16,7 @@
 - [Disk Management](#disk-management)
   - [/etc/fstab](#etcfstab)
   - [Disable tmpfs](#disable-tmpfs)
+- [RamDisk](#ramdisk)
 - [DRBD](#drbd)
 - [Binaries Debugging](#binaries-debugging)
 - [Linux Boot Process](#linux-boot-process)
@@ -390,6 +391,14 @@ Output:
 
 ```text
 Created symlink /etc/systemd/system/tmp.mount → /dev/null.
+```
+
+## RamDisk
+
+Create a RamDisk:
+
+```shell
+mount -t tmpfs tmpfs /mnt/ramdisk -o size=1024m
 ```
 
 ## DRBD
