@@ -13,6 +13,7 @@ using passwords and / or SSH public + private asymmetric key cryptography.
 - [SSH Config](#ssh-config)
 - [X Forwarding](#x-forwarding)
 - [Legacy SSH Servers](#legacy-ssh-servers)
+- [SSHFS](#sshfs)
 
 <!-- INDEX_END -->
 
@@ -157,4 +158,26 @@ If using `rsync` over ssh then use the -e switch to pass this option to `ssh`:
 
 ```shell
 rsync -av -e 'ssh -oHostKeyAlgorithms=+ssh-rsa,ssh-dss -oPubkeyAcceptedAlgorithms=+ssh-rsa,ssh-dss' ...
+```
+
+## SSHFS
+
+Mount a remote SSH directory locally as a pseudo-filesystem using Fuse and SSHFS:
+
+[:octocat: libfuse/sshfs](https://github.com/libfuse/sshfs)
+
+```shell
+sshfs "$USER"@"$SERVER":/path/to/remotedir /mnt/localdir
+```
+
+Unmount:
+
+```shell
+fusermount -u /mnt/localdir
+```
+
+or
+
+```shell
+umount /mnt/localdir
 ```
