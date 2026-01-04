@@ -409,6 +409,9 @@ In [DevOps-Bash-tools](devops-bash-tools.md) this a function called `cleanshell`
 
 ## Other Cool Resources
 
+- [explainshell.com](https://explainshell.com) - explains a bash shell statement
+- [ShellDorado](http://www.shelldorado.com/)
+- [CommandLineFu](https://www.commandlinefu.com/)
 - [Greg's Wiki - Wooledge.org](https://mywiki.wooledge.org) - the grumpy old greycat guy on IRC in the 2000s would
   often send noobs to his classic resource
   - [Bash Guide](https://mywiki.wooledge.org/BashGuide)
@@ -416,10 +419,9 @@ In [DevOps-Bash-tools](devops-bash-tools.md) this a function called `cleanshell`
   - [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
   - [Bash Programming](https://mywiki.wooledge.org/BashProgramming)
   - [Bash Reference Sheet](https://mywiki.wooledge.org/BashSheet)
-- [Shelldorado](http://www.shelldorado.com/)
-- [explainshell.com](https://explainshell.com) - explains a bash shell statement
-- [Reddit - r/bash](https://www.reddit.com/r/bash/)
 - [ShellCheck](https://www.shellcheck.net/) - online version of the popular `shellcheck` command line tool to find bugs and improvements to make in shell code
+- [Reddit - r/bash](https://www.reddit.com/r/bash/)
+- [DevOps-Bash-tools](devops-bash-tools.md)
 
 ## Style Guide
 
