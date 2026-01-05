@@ -3,7 +3,9 @@
 <!-- INDEX_START -->
 
 - [Best Video Players](#best-video-players)
-- [Screenshotting Video with MPV](#screenshotting-video-with-mpv)
+- [MPV](#mpv)
+  - [Resuming Playback At Last Position with MPV](#resuming-playback-at-last-position-with-mpv)
+  - [Screenshotting Video with MPV](#screenshotting-video-with-mpv)
 - [Buffer Streaming Videos in Browser](#buffer-streaming-videos-in-browser)
   - [Faststream](#faststream)
 - [Download Videos from Social Media](#download-videos-from-social-media)
@@ -73,7 +75,28 @@ vlc "$file"
 
 This is already included in the alaises in the [DevOps-Bash-tools](devops-bash-tools.md) repo.
 
-## Screenshotting Video with MPV
+## MPV
+
+### Resuming Playback At Last Position with MPV
+
+You can either append the `--save-position-on-quit` command line switch:
+
+```shell
+mpv --save-position-on-quit "$file"
+```
+
+or for more permanence, put it in a config file such as the one provided and auto-linked in
+[DevOps-Bash-tools](devops-bash-tools.md):
+
+[:octocat: HariSekhon/DevOps-Bash-tools - configs/.config/mpv/mpv.conf](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.config/mpv/mpv.conf)
+
+For more advanced conditional resume,
+I now instead use this [Lua](lua.md) code so I only resume for videos of a certain length
+and only if I am a certain amount of time into them:
+
+[:octocat: HariSekhon/DevOps-Bash-tools - configs/mpv/scripts/resume-conditions.lua](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/mpv/scripts/resume-conditions.lua)
+
+### Screenshotting Video with MPV
 
 In `mpv` hitting the `s` key takes a screenshot,
 but if you type `Option`-`s` on macOS then it takes continual screenshots until you stop it.
