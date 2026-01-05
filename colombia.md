@@ -61,7 +61,7 @@ wait until you settle in the departure lounge, as I ran out of wifi time by the 
 
 ### Travel between Medellin Airport and Medellin Centre
 
-This is 35 minutes outside Medellin.
+This is 35 minutes outside Medellin. It can take an hour in traffic or if you take public transport.
 
 It's quick and easy to take the Combuses mini coaches from immediately outside arrivals, the first exit on the right.
 
