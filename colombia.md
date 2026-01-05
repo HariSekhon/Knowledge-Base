@@ -149,6 +149,7 @@ kitchen terrace with wifi 64/79 Mbit/s
   I had to sent it back, it was salty and artificial like a slushie - so I don't recommend those drinks.
   Also avoid those little Heladas sweeties they give you with the bill because you'll get the munchies from it and then
   go buy buy junk food at Exito. I deny this happened to me.
+  This chain outlet was a bit quiet, you might want to try one of the other ones.
   Has wifi but it's a simple name + email captcha portal
 - [Final Feliz](https://maps.app.goo.gl/6XUz6fFfTs8sFkhC7) - co-joined with the reception of the popular Viajero hostel.
   The burgers are decent but the bacon is more like super fatty pork rib, avoid next time. The wedges are few in number
