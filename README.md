@@ -392,6 +392,7 @@ This one is used widely throughout these pages:
   - [SDKman](sdkman.md)
   - [log4j](log4j.md)
 - [JavaScript / NodeJS](javascript.md)
+- [Lua](lua.md)
 - [APIs](api.md)
 - [Regular Expressions](regex.md)
 - [Testing](testing.md)
