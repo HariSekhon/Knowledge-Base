@@ -46,7 +46,9 @@ Total: 0 warnings / 0 errors in 1 file
 
 This is called via hotkey in my
 [.vimrc](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.vimrc)
-which calls `lint.sh` in the `$PATH` from
+which calls
+[lint.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/lint.sh)
+which is in my `$PATH` from
 [DevOps-Bash-tools](devops-bash-tools.md).
 
 ## Real World Lua Code
