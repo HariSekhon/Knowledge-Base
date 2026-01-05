@@ -77,6 +77,10 @@ which was an official small yellow taxi hatchback that worked out cheaper than t
 beware the boot was non-existent so I had to put my large suitcase on the back-seat and sit in the front -
 this may be a problem if there are are two of you travelling, in which case you'll need to take one of the more expensive Uber car variants with more space.
 
+On the way back to the airport I took an official taxi via Uber for 120,000 COP (\$32.50),
+due to more reliable timing to catch my flight to Bogota, which wasn't that much more than the \$21 (\$17 + \$4)
+I paid for the Combus + short taxi coming from the airport.
+
 ### Best Areas to Stay in Medellin
 
 - [El Poblado](https://maps.app.goo.gl/irDRFEL3DtUoR3n68) - touristy area with high police presence, safer, stay here
