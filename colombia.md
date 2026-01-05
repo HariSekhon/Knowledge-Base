@@ -6,6 +6,7 @@
 - [Bogota](#bogota)
 - [Travel Between Bogota and Medellin](#travel-between-bogota-and-medellin)
 - [Medellin](#medellin)
+  - [Medellin Airport](#medellin-airport)
   - [Travel between Medellin Airport and Medellin Centre](#travel-between-medellin-airport-and-medellin-centre)
   - [Best Areas to Stay in Medellin](#best-areas-to-stay-in-medellin)
   - [Attractions in Medellin](#attractions-in-medellin)
@@ -45,6 +46,18 @@ TODO
 Direct flights for 1 hour are so cheap that it's not worth taking a bus for 9-10 hours for only a few dollars less.
 
 ## Medellin
+
+### Medellin Airport
+
+The airport wifi network has a simple captcha without needing personal details other than your country
+and accepting the basic terms and personal data handling.
+
+The speed is very good at 227/224 Mbit/s download/upload.
+
+However, it only offers your 1 hour of free wifi and after that they try to get you to pay \$4 (as of Jan 2026)
+so make well timed use of your internet if you are at the airport for 2-3 hours -
+especially considering you will do check-in, then security scanning and then waiting by the gate - so you might want to
+wait until you settle in the departure lounge, as I ran out of wifi time by the time I got to the departure lounge.
 
 ### Travel between Medellin Airport and Medellin Centre
 
@@ -127,6 +140,16 @@ kitchen terrace with wifi 64/79 Mbit/s
   and pork ones with pineapple in them, and the burrito was decent, the nachos with it were very crispy home made style
   ones. A little bit more expensive than The Altar above but good too.
   Wifi 97/75 Mbit/s
+- [Pigasus pig & Burgers laureles](https://maps.app.goo.gl/cSoxfpzPg66duvfR8) -
+  good burger chain and reasonably priced for a burger and fries.
+  The fries were a relatively small portion though.
+  I tried the aphrodite burger, that fried cheese block thing on top was dipped in some thick sticky sweet sauce that
+  was awesome - totally fattening but worth it.
+  The 'green mango' drink they brought me was awful though,
+  I had to sent it back, it was salty and artificial like a slushie - so I don't recommend those drinks.
+  Also avoid those little Heladas sweeties they give you with the bill because you'll get the munchies from it and then
+  go buy buy junk food at Exito. I deny this happened to me.
+  Has wifi but it's a simple name + email captcha portal
 - [Final Feliz](https://maps.app.goo.gl/6XUz6fFfTs8sFkhC7) - co-joined with the reception of the popular Viajero hostel.
   The burgers are decent but the bacon is more like super fatty pork rib, avoid next time. The wedges are few in number
   but very good due to the sweet dusting, although they put too little of it on my wedges the second time around.
