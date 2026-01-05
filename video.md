@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Best Video Players](#best-video-players)
+- [Screenshotting Video with MPV](#screenshotting-video-with-mpv)
 - [Buffer Streaming Videos in Browser](#buffer-streaming-videos-in-browser)
   - [Faststream](#faststream)
 - [Download Videos from Social Media](#download-videos-from-social-media)
@@ -71,6 +72,13 @@ vlc "$file"
 ```
 
 This is already included in the alaises in the [DevOps-Bash-tools](devops-bash-tools.md) repo.
+
+## Screenshotting Video with MPV
+
+In `mpv` hitting the `s` key takes a screenshot,
+but if you type `Option`-`s` on macOS then it takes continual screenshots until you stop it.
+
+Watch out this can run up GB of space in thousands of screenshots quite quickly though.
 
 ## Buffer Streaming Videos in Browser
 
