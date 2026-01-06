@@ -147,8 +147,7 @@ kitchen terrace with wifi 64/79 Mbit/s
   and pork ones with pineapple in them, and the burrito was decent, the nachos with it were very crispy home made style
   ones. A little bit more expensive than The Altar above but good too.
   Wifi 97/75 Mbit/s
-- [Pigasus pig & Burgers laureles](https://maps.app.goo.gl/cSoxfpzPg66duvfR8) -
-  good burger chain and reasonably priced for a burger and fries.
+- [Pigasus pig & Burgers](https://pigasus.com.co/) - good burger chain and reasonably priced for a burger and fries.
   The fries were a relatively small portion though.
   I tried the aphrodite burger, that fried cheese block thing on top was dipped in some thick sticky sweet sauce that
   was awesome - totally fattening but worth it.
@@ -156,7 +155,9 @@ kitchen terrace with wifi 64/79 Mbit/s
   I had to sent it back, it was salty and artificial like a slushie - so I don't recommend those drinks.
   Also avoid those little Heladas sweeties they give you with the bill because you'll get the munchies from it and then
   go buy buy junk food at Exito. I deny this happened to me.
-  This chain outlet was a bit quiet, you might want to try one of the other ones.
+  The [laureles](https://maps.app.goo.gl/eszoZy3gVh8Qtbax8) branch was a bit quiet,
+  and I struggled to find the entrance as it's just a stairway up to the 1st floor.
+  You might want to try one of the other branches.
   Has wifi but it's a simple name + email captcha portal
 - [Final Feliz](https://maps.app.goo.gl/6XUz6fFfTs8sFkhC7) - co-joined with the reception of the popular Viajero hostel.
   The burgers are decent but the bacon is more like super fatty pork rib, avoid next time. The wedges are few in number
