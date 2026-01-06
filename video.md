@@ -94,7 +94,7 @@ For more advanced conditional resume,
 I now instead use this [Lua](lua.md) code so I only resume for videos of a certain length
 and only if I am a certain amount of time into them:
 
-[:octocat: HariSekhon/DevOps-Bash-tools - configs/mpv/scripts/resume-conditions.lua](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/mpv/scripts/resume-conditions.lua)
+[:octocat: HariSekhon/DevOps-Bash-tools - configs/.config/mpv/scripts/resume-conditions.lua](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.config/mpv/scripts/resume-conditions.lua)
 
 ### Screenshotting Video with MPV
 
