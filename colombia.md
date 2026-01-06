@@ -50,13 +50,15 @@ my luggage also came on the conveyor belt soaked.
 
 Apparently it rains here a lot.
 
+Wifi at Bogota airport only gives 30 minutes free and it requires lots of personal captcha details.
+
 ### Travel Between Bogota Airport and Bogota
 
 While you can get TransMilenio / SITP buses from outside the airport (routes like 16-14 / K86), you need a Tullave
 card to pay, so it's easier to just take a taxi, and affordable.
 
 The official yellow taxi from the airport was only 40,000 COP (\$10.60),
-which is only 1/3 of the price for an airport taxi I paid in Medellin.
+which is only 1/3 of the price for the same Uber airport taxi I paid in Medellin.
 
 ## Travel Between Bogota and Medellin
 
