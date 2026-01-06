@@ -4,6 +4,8 @@
 
 - [Immigration Control & Exit Flight Required](#immigration-control--exit-flight-required)
 - [Bogota](#bogota)
+  - [Bogota Airport](#bogota-airport)
+  - [Travel Between Bogota Airport and Bogota](#travel-between-bogota-airport-and-bogota)
 - [Travel Between Bogota and Medellin](#travel-between-bogota-and-medellin)
 - [Medellin](#medellin)
   - [Medellin Airport](#medellin-airport)
@@ -39,7 +41,22 @@ The best area to stay in are the touristy areas of
 [Zona T](https://maps.app.goo.gl/WHpYx3ZKv2XZjKva7) or
 [El Chicó](https://maps.app.goo.gl/tdNXfQwNjwZRi9Zn8) slightly north of it.
 
-TODO
+### Bogota Airport
+
+Bogota Airport seems smaller than Medellin airport.
+
+It was raining and there was a gap between the plane stairs and the building canopy,
+my luggage also came on the conveyor belt soaked.
+
+Apparently it rains here a lot.
+
+### Travel Between Bogota Airport and Bogota
+
+While you can get TransMilenio / SITP buses from outside the airport (routes like 16-14 / K86), you need a Tullave
+card to pay, so it's easier to just take a taxi, and affordable.
+
+The official yellow taxi from the airport was only 40,000 COP (\$10.60),
+which is only 1/3 of the price for an airport taxi I paid in Medellin.
 
 ## Travel Between Bogota and Medellin
 
