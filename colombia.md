@@ -4,8 +4,10 @@
 
 - [Immigration Control & Exit Flight Required](#immigration-control--exit-flight-required)
 - [Bogota](#bogota)
+  - [Best Areas to Stay in Bogota](#best-areas-to-stay-in-bogota)
   - [Bogota EL Dorado Airport](#bogota-el-dorado-airport)
   - [Travel Between Bogota El Dorado Airport and Bogota](#travel-between-bogota-el-dorado-airport-and-bogota)
+  - [Restaurants in Bogota](#restaurants-in-bogota)
 - [Travel Between Bogota and Medellin](#travel-between-bogota-and-medellin)
 - [Medellin](#medellin)
   - [Medellin Airport](#medellin-airport)
@@ -37,9 +39,12 @@ possibly because they know the airlines check-in enforce it already.
 
 The capital.
 
-The best area to stay in are the touristy areas of
-[Zona T](https://maps.app.goo.gl/WHpYx3ZKv2XZjKva7) or
-[El Chicó](https://maps.app.goo.gl/tdNXfQwNjwZRi9Zn8) slightly north of it.
+### Best Areas to Stay in Bogota
+
+The best areas to stay in Bogota are the touristy areas:
+
+- [Zona T](https://maps.app.goo.gl/WHpYx3ZKv2XZjKva7)
+- [El Chicó](https://maps.app.goo.gl/tdNXfQwNjwZRi9Zn8)
 
 ### Bogota EL Dorado Airport
 
@@ -59,6 +64,15 @@ card to pay, so it's easier to just take a taxi, and affordable.
 
 The official yellow taxi from the airport was only 40,000 COP (\$10.60),
 which is only 1/3 of the price for the same Uber airport taxi I paid in Medellin.
+
+### Restaurants in Bogota
+
+<!--
+
+Joy Hostel has interesting futuristic pods with digital card locks, a TV with netflix, and fancy illumination lighting.
+It's actually more private than many other hostels. Wifi 85/91 Mbit/s
+
+-->
 
 ## Travel Between Bogota and Medellin
 
