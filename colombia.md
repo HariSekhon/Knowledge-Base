@@ -4,8 +4,8 @@
 
 - [Immigration Control & Exit Flight Required](#immigration-control--exit-flight-required)
 - [Bogota](#bogota)
-  - [Bogota Airport](#bogota-airport)
-  - [Travel Between Bogota Airport and Bogota](#travel-between-bogota-airport-and-bogota)
+  - [Bogota EL Dorado Airport](#bogota-el-dorado-airport)
+  - [Travel Between Bogota El Dorado Airport and Bogota](#travel-between-bogota-el-dorado-airport-and-bogota)
 - [Travel Between Bogota and Medellin](#travel-between-bogota-and-medellin)
 - [Medellin](#medellin)
   - [Medellin Airport](#medellin-airport)
@@ -41,7 +41,7 @@ The best area to stay in are the touristy areas of
 [Zona T](https://maps.app.goo.gl/WHpYx3ZKv2XZjKva7) or
 [El Chicó](https://maps.app.goo.gl/tdNXfQwNjwZRi9Zn8) slightly north of it.
 
-### Bogota Airport
+### Bogota EL Dorado Airport
 
 Bogota Airport seems smaller than Medellin airport.
 
@@ -52,7 +52,7 @@ Apparently it rains here a lot.
 
 Wifi at Bogota airport only gives 30 minutes free and it requires lots of personal captcha details.
 
-### Travel Between Bogota Airport and Bogota
+### Travel Between Bogota El Dorado Airport and Bogota
 
 While you can get TransMilenio / SITP buses from outside the airport (routes like 16-14 / K86), you need a Tullave
 card to pay, so it's easier to just take a taxi, and affordable.
