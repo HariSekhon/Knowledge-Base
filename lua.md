@@ -74,6 +74,6 @@ and I have to be more than a certain amount of time into the video otherwise you
 
 This is impressively flexible to suit your preferences.
 
-[:octocat: HariSekhon/DevOps-Bash-tools - configs/mpv/scripts/resume-conditions.lua](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/mpv/scripts/resume-conditions.lua)
+[:octocat: HariSekhon/DevOps-Bash-tools - configs/.config/mpv/scripts/resume-conditions.lua](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.config/mpv/scripts/resume-conditions.lua)
 
 More details are found in the [Video](video.md) page's [MPV](video.md#mpv) section.
