@@ -13,6 +13,7 @@
   - [Medellin Airport](#medellin-airport)
   - [Travel between Medellin Airport and Medellin Centre](#travel-between-medellin-airport-and-medellin-centre)
   - [Best Areas to Stay in Medellin](#best-areas-to-stay-in-medellin)
+  - [Metro in Medellin](#metro-in-medellin)
   - [Attractions in Medellin](#attractions-in-medellin)
   - [Restaurants in Medellin](#restaurants-in-medellin)
 
@@ -120,11 +121,19 @@ I paid for the Combus + short taxi coming from the airport.
 ### Best Areas to Stay in Medellin
 
 - [El Poblado](https://maps.app.goo.gl/irDRFEL3DtUoR3n68) - touristy area with high police presence, safer, stay here
-- [Laureles](https://maps.app.goo.gl/nswbJcuTzV4gw3Q56) - leafy local suburb with cafes
+- [Laureles](https://maps.app.goo.gl/nswbJcuTzV4gw3Q56) - leafy gentrified suburb with many restaurants & cafes
 - Poblado Hills /
   [San Lucas](https://maps.app.goo.gl/DnQDQy2WnrDK4rL97) /
   [Los Balsos II](https://maps.app.goo.gl/4hoXDaZqALSonMaHA) - quiet luxury suburbs
-- [Centro](https://maps.app.goo.gl/fEVp9SDyLPqeQZrN6) - historic centre
+
+The distance between El Poblado and and Laureles is about 3km across no man's land,
+so you're recommended to take a taxi while going from one area to another.
+
+If you're on a budget, try the Uber bikes, they are cheaper than the metro.
+
+Not Recommended:
+
+- [Centro](https://maps.app.goo.gl/fEVp9SDyLPqeQZrN6) - historic centre, don't stay here, downtown is a bit ghetto
 
 <!--
 
@@ -134,6 +143,17 @@ kitchen terrace with wifi 64/79 Mbit/s
 [Viajero Hostel Medellín & Rooftop Bar](https://maps.app.goo.gl/X6MfiQuzkTjbkiVb8) - party hostel, was booked out
 
 -->
+
+### Metro in Medellin
+
+I was 15,400 COP ($4) for a single journey ticket 5 stops between Centro and Poblado,
+which seems a bit high for Colombia.
+
+To make matters worse, they only accept cash payments at the metro station booth.
+
+And the cashpoints like Servibanca wanted to charge 26,000 COP ($7) withdrawal fee.
+
+It was actually cheaper to just take an Uber bike for 8,000 COP ($2) with a card payment in the app.
 
 ### Attractions in Medellin
 
