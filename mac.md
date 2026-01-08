@@ -259,7 +259,8 @@ Another useful menu app for constant wifi network monitoring for those unreliabl
 Better than leaving a ping running in a terminal.
 
 This isn't available in Homebrew unfortunately as of time of writing
-so you actually have to click through to the App Store and install it.
+so you actually have to click through and install it manually
+and then click the menu bar drop down to have it start automatically at login.
 
 The Stats bar's network tool gives far more detailed info such as connectivity history graph,
 latency, bandwith usage and per app network breakdowns.
