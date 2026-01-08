@@ -1358,11 +1358,15 @@ Using graphical Disk Utility is easiest:
 open /System/Applications/Utilities/Disk\ Utility.app
 ```
 
-But for CLI junkies there is also...
+But for CLI junkies there is also ...
 
 #### Disk Space
 
-Aside from the classic portable unix `df` and `du` commands... there is an ncurses du:
+Aside from the classic portable unix `df` and `du` commands...
+
+... there is this cool interactive 'ncurses du'
+which allows you
+to easily drill down to find the biggest directories and files:
 
 ```shell
 brew install ncdu
@@ -1371,6 +1375,10 @@ brew install ncdu
 ```shell
 sudo ncdu /
 ```
+
+The biggest directories and files are automatically sorted to the top for convenience at each level you drill in to.
+
+Type `?` for the interactive help menu.
 
 #### Check USB Bus Speed
 
