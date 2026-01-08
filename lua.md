@@ -44,12 +44,22 @@ Checking resume-conditions.lua                    OK
 Total: 0 warnings / 0 errors in 1 file
 ```
 
-This is called via hotkey in my
+I call this locally via a hotkey in my
 [.vimrc](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.vimrc)
 which calls
 [lint.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/lint.sh)
 which is in my `$PATH` from
 [DevOps-Bash-tools](devops-bash-tools.md).
+
+In CI/CD I use a ready-to-run [GitHub Actions](github-actions.md) reusable workflow from
+[:octocat: HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions):
+
+```yaml
+jobs:
+  LuaCheck:
+    name: LuaCheck
+    uses: HariSekhon/GitHub-Actions/.github/workflows/luacheck.yaml@master
+```
 
 ## Real World Lua Code
 
