@@ -78,7 +78,7 @@ Here is some real world Lua code for you as examples of how I've used this langu
 
 I this code to automatically switch macOS sound when AirPods connect to a dual output channel so that I can Shazam songs from Love Island while watching it:
 
-[:octocat: HariSekhon/DevOps-Bash-tools - configs/.hammerspoon/init.lua](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.hammerspoon/init.lua)
+[:octocat: HariSekhon/Hammerspoon](https://github.com/HariSekhon/HammerSpoon)
 
 More details are in the [Mac](mac.md) page's sections:
 
