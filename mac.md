@@ -22,6 +22,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Activity Monitor](#activity-monitor)
 - [Force Quit Applications](#force-quit-applications)
 - [Stats Bar](#stats-bar)
+- [Pingr](#pingr)
 - [Flux](#flux)
 - [Rearrange Status Bar Icons](#rearrange-status-bar-icons)
 - [Reducing Desktop Workspaces](#reducing-desktop-workspaces)
@@ -248,6 +249,21 @@ Start `Stats.app` at login - configure this in its settings or run this command 
 ```shell
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Stats.app", hidden:false}'
 ```
+
+## Pingr
+
+Another useful menu app for constant wifi network monitoring for those unreliable hotel wifis:
+
+<https://getpingr.app/>
+
+Better than leaving a ping running in a terminal.
+
+This isn't available in Homebrew unfortunately as of time of writing
+so you actually have to click through to the App Store and install it.
+
+The Stats bar's network tool gives far more detailed info such as connectivity history graph,
+latency, bandwith usage and per app network breakdowns.
+I like the green dot item, but for the graph directly in menu bar, this app is nice.
 
 ## Flux
 
