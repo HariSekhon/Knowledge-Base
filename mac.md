@@ -82,7 +82,9 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Launchctl](#launchctl)
   - [Start At Login](#start-at-login)
   - [Disk Management](#disk-management)
-    - [Disk Space](#disk-space)
+    - [Disk Utility](#disk-utility)
+    - [Disk Space Analysis](#disk-space-analysis)
+    - [Disk Space Commands](#disk-space-commands)
     - [Check USB Bus Speed](#check-usb-bus-speed)
     - [Disk Management Tutorials](#disk-management-tutorials)
     - [List disks](#list-disks)
@@ -1352,11 +1354,15 @@ EOF
 
 ### Disk Management
 
+#### Disk Utility
+
 Using graphical Disk Utility is easiest:
 
 ```shell
 open -a 'Disk Utility'
 ```
+
+#### Disk Space Analysis
 
 [Disk Inventory X](https://www.derlien.com/) is a good GUI for disk space analysis:
 
@@ -1390,7 +1396,7 @@ open -a OmniDiskSweeper /
 
 But for CLI junkies there is also ...
 
-#### Disk Space
+#### Disk Space Commands
 
 Aside from the classic portable unix `df` and `du` commands...
 
