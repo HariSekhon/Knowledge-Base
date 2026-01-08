@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [Mac](#mac)
 - [Linux](#linux)
   - [Detect New Disk](#detect-new-disk)
   - [Create Partitions](#create-partitions)
@@ -10,11 +11,14 @@
   - [Mount the new volume by unchanging UUID for maximum stability](#mount-the-new-volume-by-unchanging-uuid-for-maximum-stability)
   - [/tmp permissions](#tmp-permissions)
 - [Analyzing Disk Space](#analyzing-disk-space)
-- [Mac](#mac)
 - [Meme](#meme)
   - [Backing Up Data](#backing-up-data)
 
 <!-- INDEX_END -->
+
+## Mac
+
+See [Mac - Disk Management](mac.md#disk-management)
 
 ## Linux
 
@@ -205,10 +209,6 @@ sudo chmod 1777 /tmp
 - [WinDirStat](https://windirstat.net/) - Windows GUI app showing block representations of files and directories by size
 - [KDirStat](https://github.com/jeromerobert/k4dirstat) - same as WinDirStat but for Linux
 - [QDirStat](https://github.com/shundhammer/qdirstat) - alternative to KDirStat without needing KDE
-
-## Mac
-
-See [Mac - Disk Management](mac.md#disk-management)
 
 ## Meme
 
