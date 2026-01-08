@@ -1355,7 +1355,17 @@ EOF
 Using graphical Disk Utility is easiest:
 
 ```shell
-open /System/Applications/Utilities/Disk\ Utility.app
+open -a 'Disk Utility'
+```
+
+and [Disk Inventory X](https://www.derlien.com/) for GUI space analysis:
+
+```shell
+brew install disk-inventory-x
+```
+
+```shell
+open -a 'Disk Inventory X'
 ```
 
 But for CLI junkies there is also ...
