@@ -215,11 +215,13 @@ sudo chmod 1777 /tmp
 - [Disk Inventory X](https://www.derlien.com/) - Mac GUI version of WinDirStat
 - [GrandPerspective](https://grandperspectiv.sourceforge.net/) - similar to Disk Inventory X for Mac
 - [OmniDiskSweeper](https://www.omnigroup.com/more)
+- [BaoBab](https://apps.gnome.org/Baobab/)
 
 ### Linux GUI Disk Space Analyzers
 
 - [KDirStat](https://github.com/jeromerobert/k4dirstat) - Linux KDE version of WinDirStat
 - [QDirStat](https://github.com/shundhammer/qdirstat) - similar to KDirStat without needing KDE
+- [BaoBab](https://apps.gnome.org/Baobab/)
 
 ### Linux / Mac Command Line Disk Space Analyzers
 
