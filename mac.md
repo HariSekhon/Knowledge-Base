@@ -60,6 +60,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Set DNS Search Domain](#set-dns-search-domain)
     - [Set Hostname](#set-hostname)
     - [Flush the DNS Cache](#flush-the-dns-cache)
+  - [Network Quality](#network-quality)
   - [Wifi](#wifi)
     - [Get Current Wifi Network Name](#get-current-wifi-network-name)
     - [Get Current Wifi Network Password](#get-current-wifi-network-password)
@@ -931,6 +932,22 @@ scutil --get LocalHostName
 ```shell
 dscacheutil -flushcache
 sudo killall -HUP mDNSResponder
+```
+
+### Network Quality
+
+Built-in available in macOS Monterey or later:
+
+```shell
+networkquality
+```
+
+```text
+==== SUMMARY ====
+Uplink capacity: 68.173 Mbps
+Downlink capacity: 77.023 Mbps
+Responsiveness: Low (322.581 milliseconds | 186 RPM)
+Idle Latency: 204.167 milliseconds | 294 RPM
 ```
 
 ### Wifi
