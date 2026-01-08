@@ -15,6 +15,7 @@
   - [Network Speed Test](#network-speed-test)
     - [Local Network Speed Test](#local-network-speed-test)
     - [Internet Network Speed Test](#internet-network-speed-test)
+      - [Network Quality](#network-quality)
       - [Speedtest.net](#speedtestnet)
       - [SpeedTest.net App](#speedtestnet-app)
       - [SpeedTest.net CLI](#speedtestnet-cli)
@@ -146,6 +147,22 @@ iperf -c "$ip"  # of above machine
 ```
 
 #### Internet Network Speed Test
+
+##### Network Quality
+
+Built-in available in macOS Monterey or later:
+
+```shell
+networkquality
+```
+
+```text
+==== SUMMARY ====
+Uplink capacity: 68.173 Mbps
+Downlink capacity: 77.023 Mbps
+Responsiveness: Low (322.581 milliseconds | 186 RPM)
+Idle Latency: 204.167 milliseconds | 294 RPM
+```
 
 ##### Speedtest.net
 
