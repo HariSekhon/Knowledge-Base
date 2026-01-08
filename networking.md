@@ -21,6 +21,8 @@
       - [SpeedTest.net CLI](#speedtestnet-cli)
       - [Fast.com](#fastcom)
 - [3rd Party Tools](#3rd-party-tools)
+  - [Stats](#stats)
+  - [Pingr](#pingr)
 - [Diagrams](#diagrams)
   - [Network - Layer 2 - Local - ARP](#network---layer-2---local---arp)
   - [Network - Layer 3 - Remote - IP](#network---layer-3---remote---ip)
@@ -342,6 +344,14 @@ Optionally use `--json` switch to output in [JSON](json.md) format.
 - [nethogs](https://github.com/raboof/nethogs) - top for Network Process
 - [nethogs-qt](http://slist.lilotux.net/linux/nethogs-qt/index_en.html) Qt-based GUI
 - [gnethogs](https://github.com/mbfoss/gnethogs) - GTK-based GUI (work-in-progress)
+
+### Stats
+
+See the [Mac](mac.md) page's [Stats Bar](mac.md#stats-bar) section.
+
+### Pingr
+
+See the [Mac](mac.md) page's [Pingr](mac.md#pingr) section.
 
 ## Diagrams
 
