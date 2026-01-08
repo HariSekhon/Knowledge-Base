@@ -1378,6 +1378,16 @@ brew install --cask grandperspective
 open -a GrandPerspective /
 ```
 
+[OmniDiskSweeper](https://www.omnigroup.com/more) is another option:
+
+```shell
+brew install --cask omnidisksweeper
+```
+
+```shell
+open -a OmniDiskSweeper /
+```
+
 But for CLI junkies there is also ...
 
 #### Disk Space
