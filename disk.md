@@ -201,7 +201,7 @@ sudo chmod 1777 /tmp
 - `df`
 - `du`
 - `ncdu` - interactive 'ncurses du' that allows you to easily drill down into the biggest directories
-- WinDirStat - Windows GUI app showing block representations of files and directories by size
+- [WinDirStat](https://windirstat.net/) - Windows GUI app showing block representations of files and directories by size
 - [KDirStat](https://github.com/jeromerobert/k4dirstat) - same as WinDirStat but for Linux
 - [QDirStat](https://github.com/shundhammer/qdirstat) - alternative to KDirStat without needing KDE
 
