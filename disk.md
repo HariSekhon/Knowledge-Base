@@ -9,6 +9,7 @@
   - [Verify the new formatting](#verify-the-new-formatting)
   - [Mount the new volume by unchanging UUID for maximum stability](#mount-the-new-volume-by-unchanging-uuid-for-maximum-stability)
   - [/tmp permissions](#tmp-permissions)
+- [Analyzing Disk Space](#analyzing-disk-space)
 - [Mac](#mac)
 - [Meme](#meme)
   - [Backing Up Data](#backing-up-data)
@@ -194,6 +195,12 @@ to be able to use it:
 ```shell
 sudo chmod 1777 /tmp
 ```
+
+## Analyzing Disk Space
+
+- `df`
+- `du`
+- `ncdu` - interactive 'ncurses du' that allows you to easily drill down into the biggest directories
 
 ## Mac
 
