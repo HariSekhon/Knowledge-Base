@@ -208,6 +208,7 @@ sudo chmod 1777 /tmp
   directories
 - [WinDirStat](https://windirstat.net/) - Windows GUI app showing block representations of files and directories by size
 - [Disk Inventory X](https://www.derlien.com/) - Mac GUI version of WinDirStat
+- [GrandPerspective](https://grandperspectiv.sourceforge.net/) - similar to Disk Inventory X for Mac
 - [KDirStat](https://github.com/jeromerobert/k4dirstat) - Linux KDE version of WinDirStat
 - [QDirStat](https://github.com/shundhammer/qdirstat) - similar to KDirStat without needing KDE
 
