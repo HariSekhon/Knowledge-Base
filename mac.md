@@ -1358,14 +1358,24 @@ Using graphical Disk Utility is easiest:
 open -a 'Disk Utility'
 ```
 
-and [Disk Inventory X](https://www.derlien.com/) for GUI space analysis:
+[Disk Inventory X](https://www.derlien.com/) is a good GUI for disk space analysis:
 
 ```shell
 brew install disk-inventory-x
 ```
 
 ```shell
-open -a 'Disk Inventory X'
+open -a 'Disk Inventory X' /
+```
+
+[GrandPerspective](https://grandperspectiv.sourceforge.net/) is another similar GUI disk space analysis app:
+
+```shell
+brew install --cask grandperspective
+```
+
+```shell
+open -a GrandPerspective /
 ```
 
 But for CLI junkies there is also ...
