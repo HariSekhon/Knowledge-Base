@@ -82,7 +82,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Launchctl](#launchctl)
   - [Start At Login](#start-at-login)
   - [Disk Management](#disk-management)
-    - [CLI Disk Management](#cli-disk-management)
+    - [Disk Space](#disk-space)
     - [Check USB Bus Speed](#check-usb-bus-speed)
     - [Disk Management Tutorials](#disk-management-tutorials)
     - [List disks](#list-disks)
@@ -1358,7 +1358,19 @@ Using graphical Disk Utility is easiest:
 open /System/Applications/Utilities/Disk\ Utility.app
 ```
 
-#### CLI Disk Management
+But for CLI junkies there is also...
+
+#### Disk Space
+
+Aside from the classic portable unix `df` and `du` commands... there is an ncurses du:
+
+```shell
+brew install ncdu
+```
+
+```shell
+sudo ncdu /
+```
 
 #### Check USB Bus Speed
 
