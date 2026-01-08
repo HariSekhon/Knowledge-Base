@@ -71,7 +71,10 @@ which is only 1/3 of the price for the same Uber airport taxi I paid in Medellin
 <!--
 
 Joy Hostel has interesting futuristic pods with digital card locks, a TV with netflix, and fancy illumination lighting.
-It's actually more private than many other hostels. Wifi 85/91 Mbit/s
+It's actually more private than many other hostels,
+but not a social hostel since people stay in their pods, and the common area is dead.
+There is also no kitchen / not allowed to use the kitchen, it is for restaurant use only.
+Wifi 85/91 Mbit/s
 
 -->
 
