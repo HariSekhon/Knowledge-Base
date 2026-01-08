@@ -198,8 +198,8 @@ sudo chmod 1777 /tmp
 
 ## Analyzing Disk Space
 
-- `df`
-- `du`
+- [df](https://linux.die.net/man/1/df)
+- [du](https://linux.die.net/man/1/du)
 - [ncdu](https://dev.yorhel.nl/ncdu) - interactive 'ncurses du' that allows you to easily drill down into the biggest
   directories
 - [WinDirStat](https://windirstat.net/) - Windows GUI app showing block representations of files and directories by size
