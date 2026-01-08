@@ -1364,7 +1364,14 @@ open -a 'Disk Utility'
 
 #### Disk Space Analysis
 
-[Disk Inventory X](https://www.derlien.com/) is a good GUI for disk space analysis:
+Mac built in `System Settings` -> `General` -> `Storage` will give a good high-level overview of what
+is taking up your disk space:
+
+```shell
+open "x-apple.systempreferences:com.apple.settings.Storage"
+```
+
+My favourite of all time is [Disk Inventory X](https://www.derlien.com/):
 
 ```shell
 brew install disk-inventory-x
@@ -1392,6 +1399,16 @@ brew install --cask omnidisksweeper
 
 ```shell
 open -a OmniDiskSweeper /
+```
+
+[BaoBab](https://apps.gnome.org/Baobab/) is available on both Linux & Mac:
+
+```shell
+brew install baobab
+```
+
+```shell
+baobab /
 ```
 
 But for CLI junkies there is also ...
