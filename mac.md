@@ -1371,6 +1371,8 @@ is taking up your disk space:
 open "x-apple.systempreferences:com.apple.settings.Storage"
 ```
 
+You can see this [Apple support article](https://support.apple.com/en-us/102624) on optimizing space.
+
 My favourite of all time is [Disk Inventory X](https://www.derlien.com/):
 
 ```shell
