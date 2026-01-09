@@ -7,6 +7,7 @@
   - [Distribution Version](#distribution-version)
 - [Cron](#cron)
   - [User Crons](#user-crons)
+- [At](#at)
 - [Timezone](#timezone)
 - [Networking](#networking)
   - [IPtables](#iptables)
@@ -148,6 +149,35 @@ You can also use one of these timing shorthands:
 You may also find this site useful:
 
 <https://crontab.guru>
+
+## At
+
+For quick one off jobs, use `at`.
+
+```shell
+at 03:44 make
+```
+
+List scheduled jobs:
+
+```shell
+atq
+```
+
+```text
+1       Fri Jan  9 03:44:00 2026
+```
+
+See the job command, environment variables and directory it will execute in.
+
+By default at will `cd` to the directory you invoked `at` in and then run the given command.
+
+This is useful when you hit things like HTTP 429 Too Many Requests errors
+and need to back off for a long period and re-run your command later.
+
+I use this when downloading my [Spotify-Playlists](https://github.com/HariSekhon/Spotify-Playlists) if I hit Spotify
+HTTP 429 Too Many Requests errors, despite my best efforts to throttle my code reasonably (`export DEBUG` mode catches
+the `retry-after` header and calculates the human time to retry at).
 
 ## Timezone
 
