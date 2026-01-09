@@ -29,6 +29,7 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
   - [Show Files Open by a Process](#show-files-open-by-a-process)
   - [Generate a Random Password](#generate-a-random-password)
   - [Base64 Secrets to avoid dodgy characters](#base64-secrets-to-avoid-dodgy-characters)
+  - [Deduplicate Lines Using Awk](#deduplicate-lines-using-awk)
   - [Find Lines in a File present in Other Files](#find-lines-in-a-file-present-in-other-files)
 - [Network](#network)
   - [Get Your Public IP Address](#get-your-public-ip-address)
@@ -239,6 +240,30 @@ use `--decode` switch instead of `-d` for better portability between your Mac an
 ```shell
 base64 --decode
 ```
+
+### Deduplicate Lines Using Awk
+
+If you have an input such as `<id> <content>` and want to deduplicate lines with the same ID by comparing the
+first field, this is simple and powerful:
+
+```shell
+awk '!seen[$1]++'
+```
+
+You could of course deduplicate entire lines by just using `$0` as the associative array index:
+
+```shell
+awk '!seen[$0]++'
+```
+
+This uses the trick of populating an associative array using the field as the index and an `++` incrementer to just
+create a value (1) to signal existance.
+
+This follows standard computer science post-increment behaviour such that the first time it does this it returns nothing
+since it didn't already exist and so the leading negation will allow the first instance through and print the line, but
+subsequent instances where the value used for the index, `$1` for the ID field or the `$0` for the entire line,
+actually returns an existing value from the last time that index value was seen and incremented into existence, it'll
+match the negation and suppress those lines.
 
 ### Find Lines in a File present in Other Files
 
