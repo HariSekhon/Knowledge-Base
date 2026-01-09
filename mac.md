@@ -2154,6 +2154,10 @@ it turns out this old skool method is the most reliable to find out what is goin
 sudo du -max /Volumes/*/$(date '+%F')-*.inprogress/ | sort -k1n | tail -n 1000
 ```
 
+This is scripted more easily in `mac_backup_du_in_progress.sh` in [DevOps-Bash-tools](devops-bash-tools.md)
+which will try for an `inprogress` dir for today or yesterday if today's one is not found,
+as if you're a night owl like me the backup might have started before midnight.
+
 If the backup has finished, then just find the latest backup and do the same:
 
 ```shell
