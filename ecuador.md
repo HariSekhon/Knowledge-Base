@@ -42,7 +42,7 @@ I managed to connect to a free wifi network `WIFI_EPMMOP`, although not the expe
 but there were no power sockets that you'd usually find at airports and bus terminals these days.
 
 There are no power sockets anywhere that I could see,
-there is a stall near the barriers to the platforms that charges to recharge.
+there is a stall near the barriers to the platforms that charges \$0.50 to recharge per 1 hour.
 
 There were also stray dogs wandering around looking for food
 as there is a cafe near the platform barriers on the upper level.
