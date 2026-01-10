@@ -5,6 +5,7 @@
 - [Summary](#summary)
 - [Quito](#quito)
   - [Mariscal Sucre Quito International Airport](#mariscal-sucre-quito-international-airport)
+  - [Terminal Terrestre Quitumbe - Quito Sur](#terminal-terrestre-quitumbe---quito-sur)
 - [Travel Between Quito and Montanita](#travel-between-quito-and-montanita)
 - [Montanita](#montanita)
 
@@ -26,6 +27,18 @@ TODO
 
 [Mariscal Sucre Quito International Airport](https://maps.app.goo.gl/bGBeV6Vt89WdAev26) is a small airport and
 unfortunately neither of the two power sockets I tried worked to recharge.
+
+### Terminal Terrestre Quitumbe - Quito Sur
+
+[Terminal Terrestre Quitumbe - Quito Sur](https://maps.app.goo.gl/Gwk2G2ouYWNRAUU78) is a hub to many destinations in
+Ecuador.
+
+There are no power sockets anywhere that I could see,
+there is a stall near the barriers to the platforms that charges to recharge.
+
+THere were stray dogs wandering around looking for food,
+I think one guy had a confrontation with one to the side of me,
+he looked like it had bitten his forearm sleeve but he wasn't hurt.
 
 ## Travel Between Quito and Montanita
 
