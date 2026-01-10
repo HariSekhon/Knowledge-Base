@@ -45,9 +45,12 @@ There are no power sockets anywhere that I could see,
 there is a stall near the barriers to the platforms that charges \$0.50 to recharge per 1 hour.
 
 There were also stray dogs wandering around looking for food
-as there is a cafe near the platform barriers on the upper level.
+as there is a _"food court"_ (2 small cafe stalls) near the platform barriers on the upper level.
 I think one guy had a confrontation with one to the side of me,
 he looked like it had bitten his forearm sleeve but he wasn't hurt.
+
+I was tempted to get some food here, but thought this might be tempting fate to get an upset stomach before a 9 hour bus
+ride.
 
 ## Travel Between Quito and Montanita
 
