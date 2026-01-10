@@ -67,6 +67,11 @@ taxi to the bus station, I thought I'd have an afternoon of hourly buses to choo
 case - there was only a single bus going at 7pm for \$18, so I ended up stuck at Terminal Terrestre Quitumbe for 5 hours
 waiting for that only last bus option.
 
+I used the bus company _"Cooperativa De Transporte Terrestre Carlos Alberto Aray"_.
+The bus itself had large comfortable reclining seats to sleep in overnight,
+but no power sockets so make sure you have a fat power bank if doing this run,
+at least 20,000 mAh just for your phone recharges, more if you're using a laptop.
+
 If I had to do this again,
 I'd fly to Manta and then bus or taxi only the remaining shorter distance which is only 45km instead of 600km.
 
