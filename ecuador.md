@@ -11,6 +11,8 @@
 
 ## Summary
 
+Uses the US Dollar as the currency.
+
 I used Nomad e-sim in Ecuador as it was the cheapest for 1GB for 7 days.
 
 ## Quito
