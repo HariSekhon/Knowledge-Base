@@ -33,10 +33,16 @@ unfortunately neither of the two power sockets I tried worked to recharge.
 [Terminal Terrestre Quitumbe - Quito Sur](https://maps.app.goo.gl/Gwk2G2ouYWNRAUU78) is a hub to many destinations in
 Ecuador.
 
+
+I managed to connect to a free wifi network `WIFI_EPMMOP`, although not the expected one
+(always a slight risk to connect to an unknown / unexpected network, make sure your laptop's firewall is enabled),
+but there were no power sockets that you'd usually find at airports and bus terminals these days.
+
 There are no power sockets anywhere that I could see,
 there is a stall near the barriers to the platforms that charges to recharge.
 
-THere were stray dogs wandering around looking for food,
+There were also stray dogs wandering around looking for food
+as there is a cafe near the platform barriers on the upper level.
 I think one guy had a confrontation with one to the side of me,
 he looked like it had bitten his forearm sleeve but he wasn't hurt.
 
@@ -54,10 +60,6 @@ I tried the second option on a Saturday as I had an early flight arriving in Qui
 taxi to the bus station, I thought I'd have an afternoon of hourly buses to choose from, which turned out to not be the
 case - there was only a single bus going at 7pm for \$18, so I ended up stuck at Terminal Terrestre Quitumbe for 5 hours
 waiting for that only last bus option.
-
-I managed to connect to a free wifi network `WIFI_EPMMOP`, although not the expected one
-(always a slight risk to connect to an unknown / unexpected network, make sure your laptop's firewall is enabled),
-but there were no power sockets that you'd usually find at airports and bus terminals these days.
 
 If I had to do this again,
 I'd fly to Manta and then bus or taxi only the remaining shorter distance which is only 45km instead of 600km.
