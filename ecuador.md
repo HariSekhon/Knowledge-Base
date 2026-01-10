@@ -30,8 +30,8 @@ unfortunately neither of the two power sockets I tried worked to recharge.
 
 ### Terminal Terrestre Quitumbe - Quito Sur
 
-[Terminal Terrestre Quitumbe - Quito Sur](https://maps.app.goo.gl/Gwk2G2ouYWNRAUU78) is a hub to many destinations in
-Ecuador.
+[Terminal Terrestre Quitumbe - Quito Sur](https://maps.app.goo.gl/Gwk2G2ouYWNRAUU78) is the bus station hub to many
+destinations in Ecuador.
 
 There are a confusing number of ticket booths so leave yourself a good 45 minutes to orient yourself and ask around for
 the destination you need. They are split by sections, some going to the coast, others the highlands etc.
