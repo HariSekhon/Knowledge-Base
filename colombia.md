@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Immigration Control & Exit Flight Required](#immigration-control--exit-flight-required)
+- [ATMs in Colombia](#atms-in-colombia)
 - [Bogota](#bogota)
   - [Best Areas to Stay in Bogota](#best-areas-to-stay-in-bogota)
   - [Bogota EL Dorado Airport](#bogota-el-dorado-airport)
@@ -35,6 +36,23 @@ They required:
 
 The immigration officer did not ask for an exit flight,
 possibly because they know the airlines check-in enforce it already.
+
+## ATMs in Colombia
+
+ATMs are notoriously expensive in Colombia.
+
+I just used my cards for everything because I couldn't find an ATM that wasn't a rip off.
+
+Bancolombia, Banco de Bogota, Banco de Occidente all tried to charge me 29,000 COP (\$8) for a withdrawal,
+while Servibanca and Davivienda tried to charge me 26,000 (\$7).
+
+If you really need cash, you might be better off exchanging dollars at a Bureau de Change,
+depending on the % loss and how much you need.
+
+I managed to get by without any cash in Colombia,
+although I did take taxis via Uber which was slightly more expensive than if I'd use my preferred InDrive with cash.
+However, to put this into perspective, the difference was only a few thousand COP, not 26,000 - 30,000.
+To put this into perspective, a taxi to/from the airport in Bogota was only around 40,000 in total.
 
 ## Bogota
 
