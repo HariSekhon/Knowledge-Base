@@ -4,6 +4,7 @@
 
 - [Summary](#summary)
 - [Quito](#quito)
+  - [Mariscal Sucre Quito International Airport](#mariscal-sucre-quito-international-airport)
 - [Travel Between Quito and Montanita](#travel-between-quito-and-montanita)
 - [Montanita](#montanita)
 
@@ -21,19 +22,29 @@ The capital.
 
 TODO
 
+### Mariscal Sucre Quito International Airport
+
+[Mariscal Sucre Quito International Airport](https://maps.app.goo.gl/bGBeV6Vt89WdAev26) is a small airport and
+unfortunately neither of the two power sockets I tried worked to recharge.
+
 ## Travel Between Quito and Montanita
 
 Two options:
 
 1. Fly to Manta and then take a bus or taxi to Montanita
-   1. Taxi could be \$100 though (update: I tested using my favourite cheapest InDrive and it was only \$50 cash)
+   1. Taxi could be \$100 though (update: I tested using my favourite cheapest InDrive taxi app and it was only \$50
+      cash)
 1. Bus from Quito to Montanita (~ 9 hours)
-   1. bus station Terminal Terrestre Quitumbe - Quito Sur
+   1. from bus station [Terminal Terrestre Quitumbe - Quito Sur](https://maps.app.goo.gl/Gwk2G2ouYWNRAUU78)
 
 I tried the second option on a Saturday as I had an early flight arriving in Quito at midday, so even with the 1 hour
 taxi to the bus station, I thought I'd have an afternoon of hourly buses to choose from, which turned out to not be the
 case - there was only a single bus going at 7pm for \$18, so I ended up stuck at Terminal Terrestre Quitumbe for 5 hours
 waiting for that only last bus option.
+
+I managed to connect to a free wifi network `WIFI_EPMMOP`, although not the expected one
+(always a slight risk to connect to an unknown / unexpected network, make sure your laptop's firewall is enabled),
+but there were no power sockets that you'd usually find at airports and bus terminals these days.
 
 If I had to do this again,
 I'd fly to Manta and then bus or taxi only the remaining shorter distance which is only 45km instead of 600km.
