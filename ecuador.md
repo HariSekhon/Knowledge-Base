@@ -72,6 +72,13 @@ The bus itself had large comfortable reclining seats to sleep in overnight,
 but no power sockets so make sure you have a fat power bank if doing this run,
 at least 20,000 mAh just for your phone recharges, more if you're using a laptop.
 
+Update: after about 4 hours I noticed there are classic USB sockets built in to on the bulkhead above
+by the air conditioning (the seats were so comfortable I fell asleep within 5 minutes and woke up at nearly 11pm).
+Of course I my cable was the more modern USB-c to USB-c, then I remembered that I had a small pack of USB format
+converters and this worked.
+The power was 15 Watts measured, not quite enough to keep a busy laptop alive indefinitely, but enough to slow the
+power drain by several hours, which is sufficient.
+
 If I had to do this again,
 I'd fly to Manta and then bus or taxi only the remaining shorter distance which is only 45km instead of 600km.
 
