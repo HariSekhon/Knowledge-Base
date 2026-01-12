@@ -79,9 +79,8 @@ Wifi at Bogota airport only gives 30 minutes free and it requires lots of person
 There are a good selection of cafes and shops before security and a good selection past security too.
 
 There were water coolers apparently but I forgot to refill as I had to run for the plane
-(the flight to Quito,
-Ecuador wasn't busy and the gate was marked as closed and I was the last one when I got there 3 minutes late,
-I nearly got left behind).
+(the flight to Quito, Ecuador, wasn't busy and the gate was marked as closed and I was the last one when I got there
+3 minutes late, I nearly got left behind).
 
 ### Travel Between Bogota El Dorado Airport and Bogota
 
