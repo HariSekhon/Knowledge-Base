@@ -109,13 +109,17 @@ As a foreigner you'll probably spend most of your time in Zona T, which is where
 
 - [Chef Burger] - Medellin-based chain that has a few branches in Bogota and one in Cali too.
   The Sailor burger is their best seller for good reason - it was the best burger I'd had in a long time.
-  The tropical burger with a pineapple ring in it was good too, with a sweet fruity side sauce as well as a tasty
+    The tropical burger with a pineapple ring in it was good too, with a sweet fruity side sauce as well as a tasty
   mayo-type sauce for dipping fries.
   The 'rustic fries' are basically wedges but good quality crispy hot ones.
 - [Ovejo Burgers & Fries] - good burger & fries at reasonable price, but their steak is also very reasonably priced and comes with lots of fries. Open late, so good option for 11-12pm eating since it's open until 1-2am. Wifi captcha portal didn't load for me though
 - [Wok] - Colombia's answer to Wagamama, but with a bigger excellent menu - asian fusion from various noodle & rice dishes to sushi. Mid-tier priced similar prices to Wagamama in the UK, which is relatively expensive tourist priced for Colombia, but this place is consistently busy as it's better than most of the surrounding restaurants, especially for its price bracket. Wifi 15/9 Mbit/s
-- [Blue Asher Trattoria] - a good quality steak and mash, especially
-- [Purple Flame Indian] - a bit pricey by Colombian standards, the food was decent but nothing special.
+- [Blue Asher Trattoria](https://maps.app.goo.gl/X6pL3HRTKgHJuhLt5) - known for its pizza, but that is fattening so I
+  went with the lomo steak with 3 pepper sauce and mashed potatoes, which was very good.
+  They served a few small cubes of warm bread with olive oil and balsamic, which was a nice touch,
+  but it didn’t have enough olive oil and balsamic to dip all the bread in. WiFi 196/169 Mbit/s wifi
+- [Purple Flame Indian](https://maps.app.goo.gl/Hvq3ntkDqcB2Tzkd9) - a bit pricey by Colombian standards,
+  the food was decent but nothing special.
   The Punjabi Ghosht with lamb had good quality lamb chunks in it, not fatty ones like some places, but the sauce was greenish ratehr than red and it lacked something, some  kick or
   The mango lassi is good but small, 1/3 - 1/2 of the size of back home,
   a sign of a restaurant that is optimizing for profits rather than experience.
