@@ -108,8 +108,8 @@ Wifi 85/91 Mbit/s
 As a foreigner you'll probably spend most of your time in Zona T, which is where these restaurants are:
 
 - [Chef Burger] - Medellin-based chain that has a few branches in Bogota and one in Cali too.
-  The Sailor burger is their best seller and the best I'd had in years.
-- The tropical burger with a pineapple ring in it was good too, with a sweet fruity side sauce as well as a tasty
+  The Sailor burger is their best seller for good reason - it was the best burger I'd had in a long time.
+  The tropical burger with a pineapple ring in it was good too, with a sweet fruity side sauce as well as a tasty
   mayo-type sauce for dipping fries.
   The 'rustic fries' are basically wedges but good quality crispy hot ones.
 - [Ovejo Burgers & Fries] - good burger & fries at reasonable price, but their steak is also very reasonably priced and comes with lots of fries. Open late, so good option for 11-12pm eating since it's open until 1-2am. Wifi captcha portal didn't load for me though
