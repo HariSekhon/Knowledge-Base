@@ -109,7 +109,7 @@ As a foreigner you'll probably spend most of your time in Zona T, which is where
 
 - [Chef Burger] - Medellin-based chain that has a few branches in Bogota and one in Cali too.
   The Sailor burger is their best seller for good reason - it was the best burger I'd had in a long time.
-    The tropical burger with a pineapple ring in it was good too, with a sweet fruity side sauce as well as a tasty
+  The tropical burger with a pineapple ring in it was good too, with a sweet fruity side sauce as well as a tasty
   mayo-type sauce for dipping fries.
   The 'rustic fries' are basically wedges but good quality crispy hot ones.
 - [Ovejo Burgers & Fries](https://maps.app.goo.gl/76kAvEjUAXz7pQVB7) - good burger & fries at reasonable price,
