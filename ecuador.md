@@ -89,3 +89,9 @@ I'd fly to Manta and then bus or taxi only the remaining shorter distance which 
 ## Montanita
 
 Beach town destination popular with surfers and backpackers.
+
+It's small enough that you don't need to worry about which area to stay in as it's only about 10-15 minutes walk across
+town, so just pick somewhere nice that is close on Google Maps to the town and then enjoy the beach and walking around.
+
+Food in Montanita is both good and cheap as it's a little touristy,
+but not so much they can get away with taking advantage.
