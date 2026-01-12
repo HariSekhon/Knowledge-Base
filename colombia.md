@@ -129,8 +129,9 @@ As a foreigner you'll probably spend most of your time in Zona T, which is where
   but it didn’t have enough olive oil and balsamic to dip all the bread in. WiFi 196/169 Mbit/s wifi
 - [Purple Flame Indian](https://maps.app.goo.gl/Hvq3ntkDqcB2Tzkd9) - a bit pricey by Colombian standards,
   the food was decent but nothing special.
-  The Punjabi Ghosht with lamb had good quality lamb chunks in it, not fatty ones like some places, but the sauce was greenish ratehr than red and it lacked something, some  kick or
-  The mango lassi is good but small, 1/3 - 1/2 of the size of back home,
+  The Punjabi Ghosht with lamb had good quality lamb chunks in it, not fatty ones like some places, but the sauce was
+  greenish rather than red and it lacked something, some kick or something.
+  The mango lassi was good but small, 1/3 - 1/2 of the size of back home,
   a sign of a restaurant that is optimizing for profits rather than experience.
   This might be rated a 4.9 in Bogota but in London it'd be a 4.4 - 4.5.
   Wifi 52/0.5 Mbit/s
