@@ -112,8 +112,12 @@ As a foreigner you'll probably spend most of your time in Zona T, which is where
     The tropical burger with a pineapple ring in it was good too, with a sweet fruity side sauce as well as a tasty
   mayo-type sauce for dipping fries.
   The 'rustic fries' are basically wedges but good quality crispy hot ones.
-- [Ovejo Burgers & Fries] - good burger & fries at reasonable price, but their steak is also very reasonably priced and comes with lots of fries. Open late, so good option for 11-12pm eating since it's open until 1-2am. Wifi captcha portal didn't load for me though
-- [Wok] - Colombia's answer to Wagamama, but with a bigger excellent menu - asian fusion from various noodle & rice dishes to sushi. Mid-tier priced similar prices to Wagamama in the UK, which is relatively expensive tourist priced for Colombia, but this place is consistently busy as it's better than most of the surrounding restaurants, especially for its price bracket. Wifi 15/9 Mbit/s
+- [Ovejo Burgers & Fries]() - good burger & fries at reasonable price, but their steak is also very reasonably priced and comes with lots of fries. Open late, so good option for 11-12pm eating since it's open until 1-2am. Wifi captcha portal didn't load for me though
+- [Wok](https://maps.app.goo.gl/76kAvEjUAXz7pQVB7) - Colombia's answer to Wagamama, but with a bigger excellent menu -
+  asian fusion from various noodle & rice dishes to sushi.
+  Mid-tier priced similar prices to Wagamama in the UK, which is relatively expensive tourist priced for Colombia,
+  but this place is consistently busy as it's better than most of the surrounding restaurants,
+  especially for its price bracket. Wifi 15/9 Mbit/s
 - [Blue Asher Trattoria](https://maps.app.goo.gl/X6pL3HRTKgHJuhLt5) - known for its pizza, but that is fattening so I
   went with the lomo steak with 3 pepper sauce and mashed potatoes, which was very good.
   They served a few small cubes of warm bread with olive oil and balsamic, which was a nice touch,
