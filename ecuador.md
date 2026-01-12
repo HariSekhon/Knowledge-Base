@@ -122,6 +122,9 @@ but not so much they can get away with taking advantage.
   The only downside is that 3 flying cockroaches or locusts or something landed on me in a row,
   probably due to the open front store and it being nearly midnight.
   WiFi 202/227 Mbit/s
+- [Calle de los ceviches](https://maps.app.goo.gl/hhD6KY6cEjDJZ9VY6) - street food vendor with
+  good fresh seafood ceviches with shrimp, octopus, fish, and oyster for \$8 - \$10.
+  In hindsight I'd go with the \$8 instead of being upsold to the \$10 for 1 oyster on it
 - [Tía Montanita](https://maps.app.goo.gl/cFr1XeYJPsaaXbck7) - medium-sized supermarket with a good selection of
   products
 - [TuTi Montañita](https://maps.app.goo.gl/RNhe7Am2tsC5J9PC6) - smaller budget style supermarket, marginally cheaper
