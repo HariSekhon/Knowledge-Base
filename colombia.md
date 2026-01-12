@@ -112,7 +112,11 @@ As a foreigner you'll probably spend most of your time in Zona T, which is where
     The tropical burger with a pineapple ring in it was good too, with a sweet fruity side sauce as well as a tasty
   mayo-type sauce for dipping fries.
   The 'rustic fries' are basically wedges but good quality crispy hot ones.
-- [Ovejo Burgers & Fries]() - good burger & fries at reasonable price, but their steak is also very reasonably priced and comes with lots of fries. Open late, so good option for 11-12pm eating since it's open until 1-2am. Wifi captcha portal didn't load for me though
+- [Ovejo Burgers & Fries](https://maps.app.goo.gl/76kAvEjUAXz7pQVB7) - good burger & fries at reasonable price,
+  but their steak is also very reasonably priced and comes with lots of fries
+  (so many that I actually left quite a lot of them).
+  Open late, so good option for 11-12pm eating since it's open until 1-2am.
+  Wifi captcha portal didn't load for me though
 - [Wok](https://maps.app.goo.gl/76kAvEjUAXz7pQVB7) - Colombia's answer to Wagamama, but with a bigger excellent menu -
   asian fusion from various noodle & rice dishes to sushi.
   Mid-tier priced similar prices to Wagamama in the UK, which is relatively expensive tourist priced for Colombia,
