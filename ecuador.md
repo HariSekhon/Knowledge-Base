@@ -4,10 +4,13 @@
 
 - [Summary](#summary)
 - [Quito](#quito)
+  - [Best Areas to Stay in Quito](#best-areas-to-stay-in-quito)
+  - [Restaurants in Quito](#restaurants-in-quito)
   - [Mariscal Sucre Quito International Airport](#mariscal-sucre-quito-international-airport)
   - [Terminal Terrestre Quitumbe - Quito Sur](#terminal-terrestre-quitumbe---quito-sur)
 - [Travel Between Quito and Montanita](#travel-between-quito-and-montanita)
 - [Montanita](#montanita)
+  - [Restaurants in Montanita](#restaurants-in-montanita)
 
 <!-- INDEX_END -->
 
@@ -20,6 +23,19 @@ I used Nomad e-sim in Ecuador as it was the cheapest for 1GB for 7 days.
 ## Quito
 
 The capital.
+
+### Best Areas to Stay in Quito
+
+- Historic Center for sightseeing
+- La Mariscal for nightlife & social
+
+<!--
+
+Viajero, Secret Garden, Colonial House Inn and Hostel Revolution seem to be the best places to stay here.
+
+-->
+
+### Restaurants in Quito
 
 TODO
 
@@ -95,3 +111,18 @@ town, so just pick somewhere nice that is close on Google Maps to the town and t
 
 Food in Montanita is both good and cheap as it's a little touristy,
 but not so much they can get away with taking advantage.
+
+### Restaurants in Montanita
+
+- [Rose's Burger](https://maps.app.goo.gl/PpTrT1Na6rZyrxyy5) - I’m shocked how good the Rosa burger is, so flavourful
+  and well balanced. They must have put drugs in it or something. The fries were the non-crispy medium-thick style,
+  and passion fruit juice with lemon good too.
+  More expensive than the street stalls selling burgers but it's so good and has a big menu of burgers,
+  and is open late until 2am.
+  The only downside is that 3 flying cockroaches or locusts or something landed on me in a row,
+  probably due to the open front store and it being nearly midnight.
+  WiFi 202/227 Mbit/s
+- [Tía Montanita](https://maps.app.goo.gl/cFr1XeYJPsaaXbck7) - medium-sized supermarket with a good selection of
+  products
+- [TuTi Montañita](https://maps.app.goo.gl/RNhe7Am2tsC5J9PC6) - smaller budget style supermarket, marginally cheaper
+  but cash only
