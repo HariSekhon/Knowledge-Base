@@ -133,7 +133,11 @@ As a foreigner you'll probably spend most of your time in Zona T, which is where
   a sign of a restaurant that is optimizing for profits rather than experience.
   This might be rated a 4.9 in Bogota but in London it'd be a 4.4 - 4.5.
   Wifi 52/0.5 Mbit/s
-- [Andrino Mall] - very upmarket mall with Dubai style lighting throughout and many expensive international brands. Even the food court on the top level looks fancy, but it's still low brow food. There are several good dessert places there though ranging from Oakberry acai to independent places serving different desserts including ice creams, strawberries in chocolate etc.
+- [Andrino Mall](https://maps.app.goo.gl/xbKWWTzcJtACpLHi6) - very upmarket mall with Dubai style lighting throughout
+  and many expensive international brands.
+  Even the food court on the top level looks fancy, but it's still low brow food.
+  There are several good dessert places on the top floor though ranging from Oakberry acai to independent places serving
+  different desserts including ice creams, strawberries in chocolate etc.
 - [Atlantis Mall] - next to Andrino but not as good
 - [El Retiro Mall] - small by comparison to Andrino but has some expensive shops
 
