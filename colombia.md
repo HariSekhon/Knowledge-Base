@@ -138,8 +138,9 @@ As a foreigner you'll probably spend most of your time in Zona T, which is where
   Even the food court on the top level looks fancy, but it's still low brow food.
   There are several good dessert places on the top floor though ranging from Oakberry acai to independent places serving
   different desserts including ice creams, strawberries in chocolate etc.
-- [Atlantis Mall] - next to Andrino but not as good
-- [El Retiro Mall] - small by comparison to Andrino but has some expensive shops
+- [Atlantis Mall](https://maps.app.goo.gl/YcMsbQvEVVr1sE8c7) - mid-tier compared to Andrino
+- [El Retiro Mall](https://maps.app.goo.gl/ahYaudMNjAmohVf38) - small by comparison to Andrino but has some expensive
+  shops
 
 TODO:
 
