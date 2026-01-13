@@ -9,6 +9,8 @@
   - [Mariscal Sucre Quito International Airport](#mariscal-sucre-quito-international-airport)
   - [Terminal Terrestre Quitumbe - Quito Sur](#terminal-terrestre-quitumbe---quito-sur)
 - [Travel Between Quito and Montanita](#travel-between-quito-and-montanita)
+  - [Travel Between Montanita and Manta / Quito](#travel-between-montanita-and-manta--quito)
+  - [Manta Airport](#manta-airport)
 - [Montanita](#montanita)
   - [Restaurants in Montanita](#restaurants-in-montanita)
 
@@ -101,6 +103,31 @@ across Latin America.
 
 If I had to do this again,
 I'd fly to Manta and then bus or taxi only the remaining shorter distance which is only 45km instead of 600km.
+
+### Travel Between Montanita and Manta / Quito
+
+On the way back I decided to fly from Manta, the nearest airport, back to Quito.
+
+However, Manta is not close to Montanita at all.
+
+The bus from Montantita takes a solid 4 hours of driving to get to Manta (it's 3 hours in a car without stops)
+but the bus is slower and stops along the way.
+That small 300ml coconut water you have at the start of the journey will come back
+to punish you with a vengeance by the end of the journey.
+
+The bus runs roughly once an hour and you wave it down on the main road heading north.
+
+The bus terminates at
+[Terminal Terrestre de Manta - Luis Valdivieso Moránn](https://maps.app.goo.gl/BUEX7ckoPCFB28HC7)
+which is about a 20 minute walk, but in the Ecuadorean sun I recommend taking an Uber taxi for 3 minutes
+instead, it only cost me \$1.70, although I had to walk across the parking lot to the highway to its meeting point,
+but better than than dealing with yellow cab taxi drivers trying to price gouge you).
+
+### Manta Airport
+
+[Manta Eloy Alfaro International Airport](https://maps.app.goo.gl/uwEDskrBrFHdQn3M9)
+is very small, with only a single coffee stall in the corner with drinks, sandwiches and desserts -
+all with no prices, hmmm.
 
 ## Montanita
 
