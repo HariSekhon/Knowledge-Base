@@ -148,10 +148,15 @@ but not so much they can get away with taking advantage.
 ### Restaurants in Montanita
 
 - [Rose's Burger](https://maps.app.goo.gl/PpTrT1Na6rZyrxyy5) - I’m shocked how good the Rosa burger is, so flavourful
-  and well balanced. They must have put drugs in it or something. The fries were the non-crispy medium-thick style,
-  and passion fruit juice with lemon good too.
-  More expensive than the street stalls selling burgers but it's so good and has a big menu of burgers,
-  and is open late until 2am.
+  and well balanced. They must have put drugs in it or something.
+  The Hawaiian burger with bacon and pineapple pieces in it was good too.
+  The fries were the non-crispy medium-thick style,
+  and great with the sweet chilli garlic sauce they give you, as well as the ketchup and mayo-type sauce.
+  The passion fruit juice with lemon was good for \$3, and so was the lemon, honey and ginger juice.
+  A burger a fries is around \$7, which is twice as expensive than the burgers sold at the street stalls
+  (which I didn't get time to try),
+  but this place is so good I don't see how it could be topped.
+  It has a large selection of burgers, and is open late until 2am too.
   The only downside is that 3 flying cockroaches or locusts or something landed on me in a row,
   probably due to the open front store and it being nearly midnight.
   WiFi 202/227 Mbit/s
