@@ -123,6 +123,8 @@ which is about a 20 minute walk, but in the Ecuadorean sun I recommend taking an
 instead, it only cost me \$1.70, although I had to walk across the parking lot to the highway to its meeting point,
 but better than than dealing with yellow cab taxi drivers trying to price gouge you).
 
+Terminal Terrestre actually has a small mall attached to it but I didn't have time to explore the shops there.
+
 ### Manta Airport
 
 [Manta Eloy Alfaro International Airport](https://maps.app.goo.gl/uwEDskrBrFHdQn3M9)
