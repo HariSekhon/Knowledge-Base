@@ -140,6 +140,10 @@ Eat before you go to the airport if you can or take something with you!!
 
 Beach town destination popular with surfers and backpackers.
 
+[Montanita](https://maps.app.goo.gl/UVXwMLCmaCM26ujH9) is one of my favourite beach towns I've been to,
+with a good wide flat sand beach, cheap food, clothes, warm weather, not too touristy -
+but you pay for this in the arduous journey to get there.
+
 It's small enough that you don't need to worry about which area to stay in as it's only about 10-15 minutes walk across
 town, so just pick somewhere nice that is close on Google Maps to the town and then enjoy the beach and walking around.
 
