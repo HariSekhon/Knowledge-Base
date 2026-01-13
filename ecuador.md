@@ -12,6 +12,7 @@
   - [Travel Between Montanita and Manta / Quito](#travel-between-montanita-and-manta--quito)
   - [Manta Airport](#manta-airport)
 - [Montanita](#montanita)
+  - [Attractions in Montanita](#attractions-in-montanita)
   - [Restaurants in Montanita](#restaurants-in-montanita)
 
 <!-- INDEX_END -->
@@ -145,6 +146,28 @@ town, so just pick somewhere nice that is close on Google Maps to the town and t
 Food in Montanita is both good and cheap as it's a little touristy,
 but not so much they can get away with taking advantage.
 
+### Attractions in Montanita
+
+<!--
+
+[Esperanto B&B Backpacker Surf Hostel](https://maps.app.goo.gl/qtjbD7aJic4At6zT6) -
+ok, but didn't have air conditioning, so you need a shower to de-sweat when waking up
+
+[My Little House Backpacker Hostel](https://maps.app.goo.gl/S1yZ21Si2E4TWv8Q9) -
+seems more social with a full bar facing the street
+
+-->
+
+- [Playa Montañita](https://maps.app.goo.gl/PPZpvA2DnsVbnSpS9) - the main beach that runs north to south
+- [Calle de los Cockteles](https://maps.app.goo.gl/13TT5HWhJrsbzZgC6) - cocktail street next to the beach -
+  has lots of small bars for drinks
+- [Lost Beach Club](https://maps.app.goo.gl/VbWwoo9fZF4nGwj19) - the main nightclub here
+- [Mirador de Montañita](https://maps.app.goo.gl/zok4ffeyiBZWLgYu6) - scenic viewpoint with Montanita sign - worth a few
+  minutes detour out of the town to walk up and take pics overlooking the town and sea
+- [Arena Gym Montañita](https://maps.app.goo.gl/hoVtpgpYMaFyBQ7Y8) - gym with \$4.50 daily entry, smoothies for \$3
+  (add-ons like protein or creatine are another ~\$2), open until 9pm, and there is even a pull up and dip bar outside
+- [Billar Montañita](https://maps.app.goo.gl/tcsFaVVKyqm1q4nz7) - small pool / billiards club
+
 ### Restaurants in Montanita
 
 - [Rose's Burger](https://maps.app.goo.gl/PpTrT1Na6rZyrxyy5) - I’m shocked how good the Rosa burger is, so flavourful
@@ -175,3 +198,8 @@ but not so much they can get away with taking advantage.
   products
 - [TuTi Montañita](https://maps.app.goo.gl/RNhe7Am2tsC5J9PC6) - smaller budget style supermarket, marginally cheaper
   but cash only
+
+TODO:
+
+- [Home Grill](https://maps.app.goo.gl/uRr9YfJB1rLr7JgL7) - cheap, wholesome and well rated, I was just too full to
+  squeeze it in between meals since it wasn't a small meal like the ceviche stalls diagonally across the street
