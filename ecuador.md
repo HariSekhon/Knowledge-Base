@@ -210,3 +210,5 @@ TODO:
   that is \$8 at calle de los ceviches above.
   You'll easily spend \$20-$30 per head, plus drinks, which makes it one of the more expensive places in the area,
   I suspect its rating would be higher if not for this
+- [Hamburguesas Beach grill and beer](https://maps.app.goo.gl/iE3ikEnVwGCTNrnXA) - 4.9, highly rated but was closed both
+  evenings I went
