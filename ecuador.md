@@ -160,6 +160,13 @@ but not so much they can get away with taking advantage.
   The only downside is that 3 flying cockroaches or locusts or something landed on me in a row,
   probably due to the open front store and it being nearly midnight.
   WiFi 202/227 Mbit/s
+- [La Terreta](https://maps.app.goo.gl/ANZJW1i3Kb3FSD3M9) - I've heard people rating this as their favourite place to
+  eat, it's certainly good quality at a reasonable price.
+  The caprese salad came well presented, fresh ingredients and with 4 warm fat pita quarters.
+  The spaghetti with shrimps was good,
+  although only 4 shrimps, but was cooked al dente with a very tasty creme le leche buttery sauce.
+  Overall excellent quality, catering to European palette and standards.
+  Has wifi
 - [Calle de los ceviches](https://maps.app.goo.gl/hhD6KY6cEjDJZ9VY6) - street food vendor with
   good fresh seafood ceviches with shrimp, octopus, fish, and oyster for \$8 - \$10.
   In hindsight I'd go with the \$8 instead of being upsold to the \$10 for 1 oyster on it.
