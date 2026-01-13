@@ -201,6 +201,8 @@ seems more social with a full bar facing the street
 
 TODO:
 
+- [Medias Dulces](https://maps.app.goo.gl/gg9JGmXbPwDj3Z9M9) - 4.9, cafe, not restaurant
+- [Pimientos](https://maps.app.goo.gl/hwHLkfaYkVeGvMuH9) - 4.8
 - [Home Grill](https://maps.app.goo.gl/uRr9YfJB1rLr7JgL7) - 4.5, cheap, wholesome and well rated, I was just too full to
   squeeze it in between meals since it wasn't a small meal like the ceviche stalls diagonally across the street
 - [The Wave Surf Resto Cafe](https://maps.app.goo.gl/L2f478RUfefPdqpM9) - 4.5
@@ -212,3 +214,5 @@ TODO:
   I suspect its rating would be higher if not for this
 - [Hamburguesas Beach grill and beer](https://maps.app.goo.gl/iE3ikEnVwGCTNrnXA) - 4.9, highly rated but was closed both
   evenings I went
+- [Los Helechos](https://maps.app.goo.gl/ZnghiuZazzABuw6j9) - 4.9 but few reviews
+- [Juancho Panza](https://maps.app.goo.gl/kdUsMDN5ra5CdvtP7) - 4.8 but unhealthy porky style
