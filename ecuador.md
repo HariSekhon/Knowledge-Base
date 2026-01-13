@@ -201,5 +201,12 @@ seems more social with a full bar facing the street
 
 TODO:
 
-- [Home Grill](https://maps.app.goo.gl/uRr9YfJB1rLr7JgL7) - cheap, wholesome and well rated, I was just too full to
+- [Home Grill](https://maps.app.goo.gl/uRr9YfJB1rLr7JgL7) - 4.5, cheap, wholesome and well rated, I was just too full to
   squeeze it in between meals since it wasn't a small meal like the ceviche stalls diagonally across the street
+- [The Wave Surf Resto Cafe](https://maps.app.goo.gl/L2f478RUfefPdqpM9) - 4.5
+- [Dekel Montañita Restaurante & Bar](https://maps.app.goo.gl/yhAu3d8dUS4YCEEq8)
+- [Kapadokia restaurant](https://maps.app.goo.gl/9ozh8mw2StaGKNeE7)
+- [Tiki Limbo](https://maps.app.goo.gl/SDVJgJ68gogivENcA) - 4.2, good venue and menu but expensive \$16.50 for a ceviche
+  that is \$8 at calle de los ceviches above.
+  You'll easily spend \$20-$30 per head, plus drinks, which makes it one of the more expensive places in the area,
+  I suspect its rating would be higher if not for this
