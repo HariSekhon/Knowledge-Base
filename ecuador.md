@@ -130,6 +130,10 @@ Terminal Terrestre actually has a small mall attached to it but I didn't have ti
 [Manta Eloy Alfaro International Airport](https://maps.app.goo.gl/uwEDskrBrFHdQn3M9)
 is very small, with only a single coffee stall in the corner with drinks, sandwiches and desserts -
 all with no prices, hmmm.
+Past security there was only 1 waiting area with 2 doors, no planes outside and only 1 small cafe.
+It was \$7 for a partly defrosted chicken sandwich with a little bit of chutney on it -
+a far cry from my enjoyment of food in Montantita.
+Eat before you go to the airport if you can or take something with you!!
 
 ## Montanita
 
