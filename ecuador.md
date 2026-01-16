@@ -60,6 +60,8 @@ Alternatives: Secret Garden, Colonial House Inn and Hostel Revolution seem to be
 - [Basílica del Voto Nacional](Basílica del Voto Nacional)
 - [La Mariscal Artisan Market](La Mariscal Artisan Market)
 - [Centro Comercial Espiral](https://maps.app.goo.gl/8tSYYXMpcV3jhHd67) - high spiral circle mall full of phone shops
+- [Casa Museo Guayasamín](https://maps.app.goo.gl/zKP84LgtSuuM4ovx5) - recommended by another traveller but I didn't
+  find time for this one
 
 ### Restaurants in Quito
 
