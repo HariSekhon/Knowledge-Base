@@ -53,7 +53,7 @@ Alternatives: Secret Garden, Colonial House Inn and Hostel Revolution seem to be
 
 ### Attractions in Quito
 
-- [El Panecillo](https://maps.app.goo.gl/DwdHULvVNxfAhGhCA) - large iconic Virgin of Quito statue -
+- [Virgin of the Panecillo](https://maps.app.goo.gl/Q51pvh6Xvb7YjTuKA) - large iconic Virgin of Quito statue -
   beware it's like 500 steps up there and many dogs will bark at you on the way -
   so you might just want to take a taxi up there
 - [Church of the Society of Jesus](https://maps.app.goo.gl/Se5t97tqa29avmSe7)
