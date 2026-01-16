@@ -4,6 +4,7 @@
 
 - [Summary](#summary)
 - [Quito](#quito)
+  - [Taxis in Quito](#taxis-in-quito)
   - [Best Areas to Stay in Quito](#best-areas-to-stay-in-quito)
   - [Attractions in Quito](#attractions-in-quito)
   - [Restaurants in Quito](#restaurants-in-quito)
@@ -13,6 +14,7 @@
   - [Travel Between Montanita and Manta / Quito](#travel-between-montanita-and-manta--quito)
   - [Manta Airport](#manta-airport)
 - [Montanita](#montanita)
+  - [Taxis in Montanita](#taxis-in-montanita)
   - [Attractions in Montanita](#attractions-in-montanita)
   - [Restaurants in Montanita](#restaurants-in-montanita)
 
@@ -30,6 +32,11 @@ The capital, I wouldn't recommend spending more than 1-2 days here as while it h
 it's mostly pretty dirty and an urban ghetto compared to nicer places like Montanita.
 
 It's also high altitude so you'll get tired walking around, especially going uphill for hundreds of steps.
+
+### Taxis in Quito
+
+- [InDrive](https://indrive.com/en-ec/city-rides) - half the price of Uber, but you need cash dollars
+- [Uber](https://www.uber.com/ec/en/)
 
 ### Best Areas to Stay in Quito
 
@@ -184,6 +191,15 @@ town, so just pick somewhere nice that is close on Google Maps to the town and t
 
 Food in Montanita is both good and cheap as it's a little touristy,
 but not so much they can get away with taking advantage.
+
+### Taxis in Montanita
+
+You probably won't need a taxi Montanita is small enough to just walk across in 10-15 minutes,
+but if you need this to take you to the airport
+(I used the bus for \$6 instead which goes almost exactly to the airport).
+
+- [Uber](https://www.uber.com/ec/en/)
+- [InDrive](https://indrive.com/en-ec/city-rides) - doesn't operate here as of Jan 2026 unfortunately
 
 ### Attractions in Montanita
 
