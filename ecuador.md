@@ -48,8 +48,10 @@ Viajero, Secret Garden, Colonial House Inn and Hostel Revolution seem to be the 
   and you'll see mainly upper-middle class people dining here
   because spending \$30 per head without alcohol is expensive by local standards.
   The bread and vinegar vegetables starter is interesting.
-  The shrimp main with potatoes was great.
-  The chocolate mousse bomb with red berries was great.
+  The shrimp main with sliced potatoes was great - it came with 3 large langoustine in a tasty sauce.
+  The beef cheeks in red wine with mashed potatoes and leeks was good too.
+  The chocolate mousse bomb with red berries was great and so too was the passionfruit tiramusu chocolate bomb.
+  I wish I'd tried the breakfasts here as they also look good.
   WiFi 195/213 Mbit/s
 
 ### Mariscal Sucre Quito International Airport
