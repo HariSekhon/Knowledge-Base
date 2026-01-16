@@ -25,7 +25,10 @@ I used Nomad e-sim in Ecuador as it was the cheapest for 1GB for 7 days.
 
 ## Quito
 
-The capital.
+The capital, I wouldn't recommend spending more than 1-2 days here as while it has a few nice architectural buildings,
+it's mostly pretty dirty and an urban ghetto compared to nicer places like Montanita.
+
+It's also high altitude so you'll get tired walking around, especially going uphill for hundreds of steps.
 
 ### Best Areas to Stay in Quito
 
@@ -40,7 +43,14 @@ Viajero, Secret Garden, Colonial House Inn and Hostel Revolution seem to be the 
 
 ### Restaurants in Quito
 
-TODO
+- [Marcando El Camino](https://maps.app.goo.gl/y8wZaYLRiJw6VmPZ7) - so good I ate here both nights I was here.
+  It was packed on even Tuesday and Wednesday nights,
+  and you'll see mainly upper-middle class people dining here
+  because spending \$30 per head without alcohol is expensive by local standards.
+  The bread and vinegar vegetables starter is interesting.
+  The shrimp main with potatoes was great.
+  The chocolate mousse bomb with red berries was great.
+  WiFi 195/213 Mbit/s
 
 ### Mariscal Sucre Quito International Airport
 
