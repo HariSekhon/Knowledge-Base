@@ -6,6 +6,7 @@
 - [Lima](#lima)
   - [Lima Airport Transport](#lima-airport-transport)
   - [Best Areas to Stay in Lima](#best-areas-to-stay-in-lima)
+  - [Restaurants in Lima](#restaurants-in-lima)
 - [Cusco & Sacret Valley](#cusco--sacret-valley)
   - [Machu Pichu](#machu-pichu)
 
