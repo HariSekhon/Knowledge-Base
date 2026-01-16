@@ -54,6 +54,11 @@ Viajero, Secret Garden, Colonial House Inn and Hostel Revolution seem to be the 
   I wish I'd tried the breakfasts here as they also look good.
   WiFi 195/213 Mbit/s
 
+TODO:
+
+- [Enzzo](https://maps.app.goo.gl/v2xGUQo6Vo6Vbw8d8) - I wish I'd tried this instead of doing Marcando again, the
+  "Louisiana" restaurant title put me off, but upon closer inspection the menu looks good
+
 ### Mariscal Sucre Quito International Airport
 
 [Mariscal Sucre Quito International Airport](https://maps.app.goo.gl/bGBeV6Vt89WdAev26) is a small airport and
