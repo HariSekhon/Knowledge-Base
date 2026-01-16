@@ -49,6 +49,7 @@ and kitchen but you have to ask the bar for a pan, they don't keep them in there
 TODO:
 
 - [La Lucha Sangucheria](https://maps.app.goo.gl/b3Z1RTK3nXJepKvK9) - 4.9 - Peruvian, long queue
+- [Quipas](https://maps.app.goo.gl/hYrc7NU38f6hphP58) - 4.9 Peruvian
 - [ASU](https://maps.app.goo.gl/bzDY3V79acwwQX5L8) - 5.0 Japanese maki, poke & ramen
 - [Avelino](https://maps.app.goo.gl/6n6snbUPmJA4Troi8) - 4.9 Peruvian
 - [Cevichería Barra Maretazo](https://maps.app.goo.gl/PSbPYAttAbKKxUSv7) - 4.9 Peruvian
