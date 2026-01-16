@@ -205,6 +205,7 @@ like much of the rest of the world.
 
 - [Colombia](colombia.md) ⭐
 - [Ecuador](ecuador.md)
+- [Peru](peru.md) ⭐
 
 ## Booking Sites
 
