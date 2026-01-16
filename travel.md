@@ -201,7 +201,7 @@ volcanos, or historic archaeological sites.
 ### South America
 
 [Spanish Crash Course](travel/spanish.md) - you will need this for the following countries as most people don't speak English
-like much of the rest of the world.
+like much of the rest of the world
 
 - [Colombia](colombia.md) ⭐
 - [Ecuador](ecuador.md)
