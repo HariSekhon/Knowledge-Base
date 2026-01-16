@@ -46,6 +46,9 @@ and kitchen but you have to ask the bar for a pan, they don't keep them in there
 
 ### Restaurants in Lima
 
+- [Pinkberry](Pinkberry) - frozen yoghurt
+- [Oakberry Miraflores](https://maps.app.goo.gl/Ya4ju2SiDE1TSQgb9) - acai
+
 TODO:
 
 - [La Lucha Sangucheria](https://maps.app.goo.gl/b3Z1RTK3nXJepKvK9) - 4.9 - Peruvian, long queue
@@ -53,6 +56,7 @@ TODO:
 - [ASU](https://maps.app.goo.gl/bzDY3V79acwwQX5L8) - 5.0 Japanese maki, poke & ramen
 - [Avelino](https://maps.app.goo.gl/6n6snbUPmJA4Troi8) - 4.9 Peruvian
 - [Cevichería Barra Maretazo](https://maps.app.goo.gl/PSbPYAttAbKKxUSv7) - 4.9 Peruvian
+- [Tokuyo Lima](https://maps.app.goo.gl/wrr75L8yX3TmBqN6A) - 4.8 Japanese
 - [Market Capon](https://maps.app.goo.gl/Q2WdDqLg5LwP2C2d8) - 4.3 grocery store
 - [Metro Supermarket](https://maps.app.goo.gl/FLsR9Mt9qXh6Jub98) - 4.1 - 24 hour supermarket
 
