@@ -43,6 +43,15 @@ Alternatives: Secret Garden, Colonial House Inn and Hostel Revolution seem to be
 
 -->
 
+### Attractions in Quito
+
+- [El Panecillo](https://maps.app.goo.gl/DwdHULvVNxfAhGhCA) - large iconic Virgin of Quito statue -
+  beware it's like 500 steps up there
+- [Church of the Society of Jesus](https://maps.app.goo.gl/Se5t97tqa29avmSe7)
+- [Basílica del Voto Nacional](Basílica del Voto Nacional)
+- [La Mariscal Artisan Market](La Mariscal Artisan Market)
+- [Centro Comercial Espiral](https://maps.app.goo.gl/8tSYYXMpcV3jhHd67) - high spiral circle mall full of phone shops
+
 ### Restaurants in Quito
 
 - [Marcando El Camino](https://maps.app.goo.gl/y8wZaYLRiJw6VmPZ7) - so good I ate here both nights I was here.
