@@ -190,7 +190,7 @@ volcanos, or historic archaeological sites.
 
 [Spanish Crash Course](travel/spanish.md) - you will need this for the following countries:
 
-- [Mexico](travel/mexico.md)
+- [Mexico](travel/mexico.md) ⭐
 - [Guatemala](travel/guatemala.md)
 - [El Salvador](travel/elsalvador.md)
 - [Honduras](travel/honduras.md) (skipped due to long visa bureaucracy)
