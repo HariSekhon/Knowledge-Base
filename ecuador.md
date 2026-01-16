@@ -57,9 +57,11 @@ Viajero, Secret Garden, Colonial House Inn and Hostel Revolution seem to be the 
 TODO:
 
 - [Enzzo](https://maps.app.goo.gl/v2xGUQo6Vo6Vbw8d8) - 4.9 - I wish I'd tried this instead of doing Marcando again, the
-  "Louisiana" restaurant title put me off, but upon closer inspection the menu looks good
-- [Uku Pacha](https://maps.app.goo.gl/Pa24oimhHfMWrNar8) - 4.7
-- [Catedral](https://maps.app.goo.gl/gFoCR74yutiTmpxq9) - 4.6 - was closed at 7pm on a Wednesday when I tried to go, even
+  _"Louisiana"_ restaurant title put me off, but upon closer inspection the menu looks good
+- [Uku Pacha](https://maps.app.goo.gl/Pa24oimhHfMWrNar8) - 4.7 Ecuadorian
+- [Miskay](https://maps.app.goo.gl/9dRDcSZ4Kd6i7bMM9) - 4.6 Ecuadorian
+- [Hacienda de Los Arrieros](https://maps.app.goo.gl/MLBdnTcvLcdeYhcm6) - 4.6 Colombian
+- [Catedral](https://maps.app.goo.gl/gFoCR74yutiTmpxq9) - 4.6 Ecuadorian - was closed at 7pm on a Wednesday when I tried to go, even
   though it should have been open
 
 ### Mariscal Sucre Quito International Airport
