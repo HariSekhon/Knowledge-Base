@@ -37,7 +37,9 @@ It's also high altitude so you'll get tired walking around, especially going uph
 
 <!--
 
-Viajero, Secret Garden, Colonial House Inn and Hostel Revolution seem to be the best places to stay here.
+Viajero was good but no kitchen
+
+Alternatives: Secret Garden, Colonial House Inn and Hostel Revolution seem to be the best places to stay here.
 
 -->
 
