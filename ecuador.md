@@ -5,6 +5,7 @@
 - [Summary](#summary)
 - [Quito](#quito)
   - [Best Areas to Stay in Quito](#best-areas-to-stay-in-quito)
+  - [Attractions in Quito](#attractions-in-quito)
   - [Restaurants in Quito](#restaurants-in-quito)
   - [Mariscal Sucre Quito International Airport](#mariscal-sucre-quito-international-airport)
   - [Terminal Terrestre Quitumbe - Quito Sur](#terminal-terrestre-quitumbe---quito-sur)
