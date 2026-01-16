@@ -61,8 +61,8 @@ TODO:
 - [Uku Pacha](https://maps.app.goo.gl/Pa24oimhHfMWrNar8) - 4.7 Ecuadorian
 - [Miskay](https://maps.app.goo.gl/9dRDcSZ4Kd6i7bMM9) - 4.6 Ecuadorian
 - [Hacienda de Los Arrieros](https://maps.app.goo.gl/MLBdnTcvLcdeYhcm6) - 4.6 Colombian
-- [Catedral](https://maps.app.goo.gl/gFoCR74yutiTmpxq9) - 4.6 Ecuadorian - was closed at 7pm on a Wednesday when I tried to go, even
-  though it should have been open
+- [Catedral](https://maps.app.goo.gl/gFoCR74yutiTmpxq9) - 4.6 Ecuadorian - was closed at 7pm on a Wednesday when I tried
+  to go, even though it should have been open
 
 ### Mariscal Sucre Quito International Airport
 
