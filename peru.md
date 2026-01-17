@@ -52,6 +52,14 @@ The downside is that Friday night's live DJ BBQ is so loud you can hear it all t
 
 ### Restaurants in Lima
 
+- [La Lucha Sangucheria](https://maps.app.goo.gl/ux1jm5WpqqQVPZPT7) /
+  [La Lucha Sangucheria Criolla](https://maps.app.goo.gl/9D2r9Zq4tS4cTXTW8) -
+  very popular & reasonably cheap Peruvian not-so-fast food place with burgers/sandwiches, fries and milkshakes.
+  The Lomo Lucha tenderloin burger is very basic but real beef slices, albeit salty.
+  The fries look amazing and crispy, wish I’d tried them too.
+  The milkshakes are a bit small for 13 Sol though - it comes in a regular typical
+  coffee cup and I’m not sold on the native Peruvian Lucuma fruit flavour.
+  Not sure there is wifi
 - [Pinkberry](Pinkberry) - frozen yoghurt
 - [Oakberry Miraflores](https://maps.app.goo.gl/Ya4ju2SiDE1TSQgb9) - acai
 
