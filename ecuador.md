@@ -277,8 +277,8 @@ TODO:
 - [The Wave Surf Resto Cafe](https://maps.app.goo.gl/L2f478RUfefPdqpM9) - 4.5
 - [Dekel Montañita Restaurante & Bar](https://maps.app.goo.gl/yhAu3d8dUS4YCEEq8)
 - [Kapadokia restaurant](https://maps.app.goo.gl/9ozh8mw2StaGKNeE7)
-- [Tiki Limbo](https://maps.app.goo.gl/SDVJgJ68gogivENcA) - 4.2, good venue and menu but expensive \$16.50 for a ceviche
-  that is \$8 at calle de los ceviches above.
+- [Tiki Limbo](https://maps.app.goo.gl/SDVJgJ68gogivENcA) - 4.2, good venue and menu but expensive -
+  \$16.50 for a ceviche that is \$8 at calle de los ceviches above.
   You'll easily spend \$20-$30 per head, plus drinks, which makes it one of the more expensive places in the area,
   I suspect its rating would be higher if not for this
 - [Hamburguesas Beach grill and beer](https://maps.app.goo.gl/iE3ikEnVwGCTNrnXA) - 4.9, highly rated but was closed both
