@@ -208,7 +208,7 @@ but not so much they can get away with taking advantage.
 
 ### Taxis in Montanita
 
-You probably won't need a taxi Montanita is small enough to just walk across in 10-15 minutes,
+You probably won't need a taxi as Montanita is small enough to just walk across in 10-15 minutes,
 but if you need this to take you to the airport
 (I used the bus for \$6 instead which goes almost exactly to the airport).
 
