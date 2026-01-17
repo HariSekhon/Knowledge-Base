@@ -133,7 +133,7 @@ Two options:
 1. Fly to Manta and then take a bus or taxi to Montanita
    1. Taxi could be \$100 though (update: I tested using my favourite cheapest InDrive taxi app and it was only \$50
       cash)
-1. Bus from Quito to Montanita (~ 9 hours)
+1. Bus from Quito to Montanita (they said 9 hours but it was 11 😭)
    1. from bus station [Terminal Terrestre Quitumbe - Quito Sur](https://maps.app.goo.gl/Gwk2G2ouYWNRAUU78)
 
 I tried the second option on a Saturday as I had an early flight arriving in Quito at midday, so even with the 1 hour
