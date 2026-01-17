@@ -112,7 +112,7 @@ As a foreigner you'll probably spend most of your time in Zona T, which is where
   The Sailor burger is their best seller for good reason - it was the best burger I'd had in a long time.
   The tropical burger with a pineapple ring in it was good too, with a sweet fruity side sauce as well as a tasty
   mayo-type sauce for dipping fries.
-  The 'rustic fries' are basically wedges but good quality crispy hot ones.
+  The 'rustic fries' are basically wedges but good quality crispy hot ones
 - [Ovejo Burgers & Fries](https://maps.app.goo.gl/76kAvEjUAXz7pQVB7) - good burger & fries at reasonable price,
   but their steak is also very reasonably priced and comes with lots of fries
   (so many that I actually left quite a lot of them).
@@ -122,7 +122,9 @@ As a foreigner you'll probably spend most of your time in Zona T, which is where
   asian fusion from various noodle & rice dishes to sushi.
   Mid-tier priced similar prices to Wagamama in the UK, which is relatively expensive tourist priced for Colombia,
   but this place is consistently busy as it's better than most of the surrounding restaurants,
-  especially for its price bracket. Wifi 15/9 Mbit/s
+  especially for its price bracket.
+  The stir fried jumbo prawns and chicken was good, although the chicken was ground chicken.
+  Wifi 15/9 Mbit/s
 - [Blue Asher Trattoria](https://maps.app.goo.gl/X6pL3HRTKgHJuhLt5) - known for its pizza, but that is fattening so I
   went with the lomo steak with 3 pepper sauce and mashed potatoes, which was very good.
   They served a few small cubes of warm bread with olive oil and balsamic, which was a nice touch,
