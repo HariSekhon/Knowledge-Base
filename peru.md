@@ -104,7 +104,7 @@ TODO:
 
 ### Cusco
 
-The capital of the Inca Empire.
+Was the capital of the Inca Empire.
 
 A good base point for pilgrimages to the Sacred Valley & Machu Pichu.
 
