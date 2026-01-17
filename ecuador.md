@@ -154,7 +154,7 @@ It needs to be a 2M cable though, as a 1M might not quite reach.
 The power was 15 Watts measured, not quite enough to keep a busy laptop alive indefinitely, but enough to slow the
 power drain by several hours, which is sufficient.
 
-At the first stop (that I noticed as I woken up at least) at Santo Domingo, there were bathrooms and a few street snack
+At the first stop (that I noticed at least having woken up) at Santo Domingo, there were bathrooms and a few street snack
 vendors, but also several people came on board to try to hustle, beg, sell USB power banks etc. This seems to be common
 across Latin America.
 
