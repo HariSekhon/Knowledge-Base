@@ -9,6 +9,9 @@
   - [Attractions in Lima](#attractions-in-lima)
   - [Restaurants in Lima](#restaurants-in-lima)
 - [Cusco & Sacret Valley](#cusco--sacret-valley)
+  - [Cusco](#cusco)
+    - [Best Areas to Stay in Cusco](#best-areas-to-stay-in-cusco)
+    - [Restaurants in Cusco](#restaurants-in-cusco)
   - [Machu Pichu](#machu-pichu)
 
 <!-- INDEX_END -->
@@ -77,6 +80,7 @@ The downside is that Friday night's live DJ BBQ is so loud you can hear it all t
   The milkshakes are a bit small for 13 Sol though - it comes in a regular typical
   coffee cup and I’m not sold on the native Peruvian Lucuma fruit flavour.
   Not sure there is wifi
+- [Mercado San Martín](https://maps.app.goo.gl/Pi5kFnpKHxHuniHg8) - contains various street food stalls
 - [Pinkberry](Pinkberry) - frozen yoghurt
 - [Oakberry Miraflores](https://maps.app.goo.gl/Ya4ju2SiDE1TSQgb9) - acai
 - [Market Capon](https://maps.app.goo.gl/Q2WdDqLg5LwP2C2d8) - 4.3 grocery store
@@ -97,6 +101,23 @@ TODO:
 - Cusco City - 2 days - historic center (near Plaza de Armas)
 - Sacred Valley - 2 days - Ollantaytambo or Urubamba (great base for Machu Picchu)
   - Machu Pichu - 1 day
+
+### Cusco
+
+The capital of the Inca Empire.
+
+A good base point for pilgrimages to the Sacred Valley & Machu Pichu.
+
+#### Best Areas to Stay in Cusco
+
+- [Historic Center](https://maps.app.goo.gl/oJijyxVCXb1JxSR28) near
+  [Plaza de Armas](https://maps.app.goo.gl/9QotCwX2Sd993EDz6) -
+  busy, central, restaurants, shops & markets
+  - tours departure from here for Machu Picchu & Sacred Valley
+- [San Blas](https://maps.app.goo.gl/vxReGBENU3TG6ZjY7) - quieter, more bohemian / artsy, cafes, but still close enough
+  to the centre
+
+#### Restaurants in Cusco
 
 TODO
 
