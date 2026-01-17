@@ -46,7 +46,9 @@ Virgin of the Panecillo.
 
 <!--
 
-Viajero was good but no kitchen
+Viajero was good but no kitchen.
+Its restaurant was reasonably priced though at \$8 for a burger & fries,
+and there is a water cooler in reception and a water tap in tha bar, which has a pool table.
 
 Alternatives: Secret Garden, Colonial House Inn and Hostel Revolution seem to be the best places to stay here.
 
