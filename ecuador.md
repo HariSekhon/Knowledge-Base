@@ -124,7 +124,7 @@ I think one guy had a confrontation with one to the side of me,
 he looked like it had bitten his forearm sleeve but he wasn't hurt.
 
 I was tempted to get some food here, but thought this might be tempting fate to get an upset stomach before a 9 hour bus
-ride.
+ride (which turned out to be 11 hours 😭).
 
 ## Travel Between Quito and Montanita
 
