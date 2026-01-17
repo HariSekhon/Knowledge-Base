@@ -22,6 +22,8 @@ You need this when travelling Latin America since most people don't speak Englis
 
 ## Food
 
+You can tell I've been learning Spanish off all the menus across Latin America... 😂
+
 | Food              | Description                                                                                                                                                                                                                                                                              |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Pollo             | Chicken                                                                                                                                                                                                                                                                                  |
@@ -32,6 +34,7 @@ You need this when travelling Latin America since most people don't speak Englis
 | Pulpo             | Octopus                                                                                                                                                                                                                                                                                  |
 | Arrachera         | Skirt Steak / Flank Steak                                                                                                                                                                                                                                                                |
 | Huervos           | Eggs                                                                                                                                                                                                                                                                                     |
+| Desayanos         | Breakfast                                                                                                                                                                                                                                                                                |
 | Aguachile         | Raw meat or seafood in a zesty lime-chilli-cilantro sauce, served with nachos or plain untopped tostas / tostadas for you to load it up on to - this is one of my new favourite dishes, although quite extreme by western standards in both lime and chilli, start with the mildest one! |
 | Tacos             | Small soft round tortillas - these are actually overrated, I prefer aguachile and tostas                                                                                                                                                                                                 |
 | Tostas / Tostadas | Toasted flat tacos topped with meat/seafood and chopped tomato like bruschetta                                                                                                                                                                                                           |
@@ -43,8 +46,8 @@ You need this when travelling Latin America since most people don't speak Englis
 
 <!-- -->
 
-| Drink             | Description                                                                                |
-|-------------------|--------------------------------------------------------------------------------------------|
-| Horchata          | Traditional rice milk drink, ranges from bland to overly sweet depending on the restaurant |
-| _"Jamaica"_ water | Hibiscus red still drink, slightly sweet                                                   |
-| Tamarind water    | Slightly sweet drink with a salty aftertaste                                               |
+| Drinks (Bebidas)  | Description                                                                                                                                        |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Horchata          | Traditional rice milk drink, ranges from bland to overly sweet depending on the restaurant, I prefer Jamaica water as it is more consistently good |
+| _"Jamaica"_ water | Hibiscus red still drink, slightly sweet                                                                                                           |
+| Tamarind water    | Slightly sweet drink with a salty aftertaste                                                                                                       |
