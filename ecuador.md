@@ -116,7 +116,7 @@ I managed to connect to a free wifi network `WIFI_EPMMOP`, although not the expe
 (always a slight risk to connect to an unknown / unexpected network, make sure your laptop's firewall is enabled).
 
 There were no power sockets that you'd usually find at airports and bus terminals these days, but instead
-a small stall, near the platform entrnace barriers, that charges \$0.50 to recharge per 1 hour.
+a small stall, near the platform entrnace barriers on the upper level, that charges \$0.50 to recharge per 1 hour.
 
 There were also stray dogs wandering around looking for food
 as there is a _"food court"_ (2 small cafe stalls) near the platform barriers on the upper level.
