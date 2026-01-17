@@ -6,6 +6,7 @@
 - [Lima](#lima)
   - [Lima Airport Transport](#lima-airport-transport)
   - [Best Areas to Stay in Lima](#best-areas-to-stay-in-lima)
+  - [Attractions in Lima](#attractions-in-lima)
   - [Restaurants in Lima](#restaurants-in-lima)
 - [Cusco & Sacret Valley](#cusco--sacret-valley)
   - [Machu Pichu](#machu-pichu)
@@ -49,6 +50,15 @@ The downside is that Friday night's live DJ BBQ is so loud you can hear it all t
   - [Parque Kennedy](https://maps.app.goo.gl/dznhsVv1AfuFK1uM8) - central, lively area with lots of cafes & restaurants
   - [Malecón de Miraflores](https://maps.app.goo.gl/19bYcAJ347rzuUU79) - cliff side ocean views, quieter
 - [Barranco](https://maps.app.goo.gl/JhNDhgGmrBHFDECMA) - considered trendier & more artsy, has bars & nightlife
+
+### Attractions in Lima
+
+- [Parque Kennedy](https://maps.app.goo.gl/D73Fcwy2tj2voexh6) - tourist area of restaurants and cafes around a triangle
+  shaped park. This is the central tourist area
+- [Malecón de Miraflores](https://maps.app.goo.gl/7kfZDBm8aCBxsETc9) - beach cliff parade with lots of free calesthetic
+  bar gyms along it
+- [Parque de la Juventud](https://maps.app.goo.gl/3yvHhvx64wEAbLmu5) - _"youth park"_ - free gym area - amazing -
+  has 4 heavy bags, a small MMA cage, tonnes of calesthetic bars and even Olympic rings
 
 ### Restaurants in Lima
 
