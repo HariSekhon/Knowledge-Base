@@ -58,7 +58,10 @@ The downside is that Friday night's live DJ BBQ is so loud you can hear it all t
 - [Malecón de Miraflores](https://maps.app.goo.gl/7kfZDBm8aCBxsETc9) - beach cliff parade with lots of free calesthetic
   bar gyms along it
 - [Parque de la Juventud](https://maps.app.goo.gl/3yvHhvx64wEAbLmu5) - _"youth park"_ - free gym area - amazing -
-  has 4 heavy bags, a small MMA cage, tonnes of calesthetic bars and even Olympic rings
+  has 4 heavy bags, a small MMA cage, tonnes of calesthetic bars and even Olympic rings.
+  I have never seen a free street gym so well equipped,
+  and there are police / security inside and outside so it's ultra safe.
+  There are even public toilets there
 
 ### Restaurants in Lima
 
