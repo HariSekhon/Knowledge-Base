@@ -41,8 +41,9 @@ Virgin of the Panecillo.
 
 ### Best Areas to Stay in Quito
 
-- Historic Center for sightseeing
-- La Mariscal for nightlife & social
+- [Historic Center](https://maps.app.goo.gl/vGPNX1GPjif6BbL27) for sightseeing - the population is a bit more sketchy
+  though
+- [La Mariscal](https://maps.app.goo.gl/oooFruBMLDrBHKSB9) for nightlife & social
 
 <!--
 
