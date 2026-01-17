@@ -79,7 +79,6 @@ The downside is that Friday night's live DJ BBQ is so loud you can hear it all t
 
 TODO:
 
-- [La Lucha Sangucheria](https://maps.app.goo.gl/b3Z1RTK3nXJepKvK9) - 4.9 - Peruvian, long queue
 - [Quipas](https://maps.app.goo.gl/hYrc7NU38f6hphP58) - 4.9 Peruvian
 - [ASU](https://maps.app.goo.gl/bzDY3V79acwwQX5L8) - 5.0 Japanese maki, poke & ramen
 - [Avelino](https://maps.app.goo.gl/6n6snbUPmJA4Troi8) - 4.9 Peruvian
