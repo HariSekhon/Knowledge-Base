@@ -22,6 +22,8 @@ A lot of people have raved to me about Peru and a lot of westerners go there for
 
 The currency is the Peruvian Sol which is roughly 3.3 per \$1 or 4.5 per £1 as of Jan 2026.
 
+I used the Saily e-sim 3GB for 30 days in Peru.
+
 ## Lima
 
 The capital, 2 days recommended.
