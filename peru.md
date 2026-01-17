@@ -50,7 +50,8 @@ them in advance and I couldn't find their stall.
 [Pariwana hostel](https://maps.app.goo.gl/sHzLrj5mUrU8qQWB8) was great, lots of social activities,
 and kitchen but you have to ask the bar for a pan, they don't keep them in there.
 It's also very central to Parque Kennedy.
-The downside is that Friday night's live DJ BBQ is so loud you can hear it all the way downstairs in the room at 22:30pm
+The downside is they have no water cooler, they charge for bottled water, and
+the Friday night BBQ with live DJ is so loud you can hear it all the way downstairs in the room at 22:30pm
 
 -->
 
