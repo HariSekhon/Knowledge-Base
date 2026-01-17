@@ -44,7 +44,9 @@ Virgin of the Panecillo.
 - [Historic Center](https://maps.app.goo.gl/vGPNX1GPjif6BbL27) for sightseeing - the population is a bit more sketchy
   though
 - [La Mariscal](https://maps.app.goo.gl/oooFruBMLDrBHKSB9) for nightlife & social, it's a bit more upmarket,
-  as you can tell from my recommended restaurant review of Marcando El Camino further down
+  as you can tell from my recommended restaurant review of Marcando El Camino further down.
+  It might be better to stay here and visit the centre during the day as there is nothing going on in the centre in the
+  evening anyway
 
 <!--
 
