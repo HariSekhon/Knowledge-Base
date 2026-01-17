@@ -23,6 +23,9 @@ The currency is the Peruvian Sol which is roughly 3.3 per \$1 or 4.5 per £1 as 
 
 The capital, 2 days recommended.
 
+I have never seen so many free calesthetic bar gyms in a city, and even one with heavy bags.
+This has got to be the cheapest city in which to stay in shape.
+
 ### Lima Airport Transport
 
 You can take the official Airport Express bus from opposite the Arrivals door 3 -
