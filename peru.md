@@ -36,8 +36,14 @@ them in advance and I couldn't find their stall.
 
 ### Best Areas to Stay in Lima
 
-<!-- [Pariwana hostel](https://maps.app.goo.gl/sHzLrj5mUrU8qQWB8) was great, lots of social activities,
-and kitchen but you have to ask the bar for a pan, they don't keep them in there -->
+<!--
+
+[Pariwana hostel](https://maps.app.goo.gl/sHzLrj5mUrU8qQWB8) was great, lots of social activities,
+and kitchen but you have to ask the bar for a pan, they don't keep them in there.
+It's also very central to Parque Kennedy.
+The downside is that Friday night's live DJ BBQ is so loud you can hear it all the way downstairs in the room at 22:30pm
+
+-->
 
 - [Miraflores](https://maps.app.goo.gl/QBzFkX21w2ACk4NTA) - tourist area, close to the ocean and parks
   - [Parque Kennedy](https://maps.app.goo.gl/dznhsVv1AfuFK1uM8) - central, lively area with lots of cafes & restaurants
