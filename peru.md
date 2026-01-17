@@ -76,6 +76,8 @@ The downside is that Friday night's live DJ BBQ is so loud you can hear it all t
   Not sure there is wifi
 - [Pinkberry](Pinkberry) - frozen yoghurt
 - [Oakberry Miraflores](https://maps.app.goo.gl/Ya4ju2SiDE1TSQgb9) - acai
+- [Market Capon](https://maps.app.goo.gl/Q2WdDqLg5LwP2C2d8) - 4.3 grocery store
+- [Metro Supermarket](https://maps.app.goo.gl/FLsR9Mt9qXh6Jub98) - 4.1 - 24 hour supermarket
 
 TODO:
 
@@ -84,8 +86,6 @@ TODO:
 - [Avelino](https://maps.app.goo.gl/6n6snbUPmJA4Troi8) - 4.9 Peruvian
 - [Cevichería Barra Maretazo](https://maps.app.goo.gl/PSbPYAttAbKKxUSv7) - 4.9 Peruvian
 - [Tokuyo Lima](https://maps.app.goo.gl/wrr75L8yX3TmBqN6A) - 4.8 Japanese
-- [Market Capon](https://maps.app.goo.gl/Q2WdDqLg5LwP2C2d8) - 4.3 grocery store
-- [Metro Supermarket](https://maps.app.goo.gl/FLsR9Mt9qXh6Jub98) - 4.1 - 24 hour supermarket
 
 ## Cusco & Sacret Valley
 
