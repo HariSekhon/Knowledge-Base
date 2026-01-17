@@ -53,8 +53,8 @@ The downside is that Friday night's live DJ BBQ is so loud you can hear it all t
 
 ### Attractions in Lima
 
-- [Parque Kennedy](https://maps.app.goo.gl/D73Fcwy2tj2voexh6) - tourist area of restaurants and cafes around a triangle
-  shaped park. This is the central tourist area
+- [Parque Kennedy](https://maps.app.goo.gl/D73Fcwy2tj2voexh6) - triangle shaped park with cafes and restaurants along
+- it. This is the central tourist area
 - [Malecón de Miraflores](https://maps.app.goo.gl/7kfZDBm8aCBxsETc9) - beach cliff parade with lots of free calesthetic
   bar gyms along it
 - [Parque de la Juventud](https://maps.app.goo.gl/3yvHhvx64wEAbLmu5) - _"youth park"_ - free gym area - amazing -
@@ -62,6 +62,7 @@ The downside is that Friday night's live DJ BBQ is so loud you can hear it all t
   I have never seen a free street gym so well equipped,
   and there are police / security inside and outside so it's ultra safe.
   There are even public toilets there
+- [Barranco](https://maps.app.goo.gl/K46a54PvuQk1eUBm9) - artsy and bar area
 
 ### Restaurants in Lima
 
