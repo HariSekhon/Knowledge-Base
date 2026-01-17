@@ -113,11 +113,10 @@ the destination you need. They are split by sections, some going to the coast, o
 In each region section of booths there are many different bus vendors with different schedules and prices.
 
 I managed to connect to a free wifi network `WIFI_EPMMOP`, although not the expected one
-(always a slight risk to connect to an unknown / unexpected network, make sure your laptop's firewall is enabled),
-but there were no power sockets that you'd usually find at airports and bus terminals these days.
+(always a slight risk to connect to an unknown / unexpected network, make sure your laptop's firewall is enabled).
 
-There are no power sockets anywhere that I could see,
-there is a stall near the barriers to the platforms that charges \$0.50 to recharge per 1 hour.
+There were no power sockets that you'd usually find at airports and bus terminals these days, but instead
+a small stall, near the platform entrnace barriers, that charges \$0.50 to recharge per 1 hour.
 
 There were also stray dogs wandering around looking for food
 as there is a _"food court"_ (2 small cafe stalls) near the platform barriers on the upper level.
