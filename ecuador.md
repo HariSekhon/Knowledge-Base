@@ -31,7 +31,8 @@ I used Nomad e-sim in Ecuador as it was the cheapest for 1GB for 7 days.
 The capital, I wouldn't recommend spending more than 1-2 days here as while it has a few nice architectural buildings,
 it's mostly pretty dirty and an urban ghetto compared to nicer places like Montanita.
 
-It's also high altitude so you'll get tired walking around, especially going uphill for hundreds of steps.
+It's also high altitude so you'll get tired walking around, especially going uphill for hundreds of steps to the
+Virgin of the Panecillo.
 
 ### Taxis in Quito
 
@@ -62,6 +63,11 @@ Alternatives: Secret Garden, Colonial House Inn and Hostel Revolution seem to be
 - [Centro Comercial Espiral](https://maps.app.goo.gl/8tSYYXMpcV3jhHd67) - high spiral circle mall full of phone shops
 - [Casa Museo Guayasamín](https://maps.app.goo.gl/zKP84LgtSuuM4ovx5) - recommended by another traveller but I didn't
   find time for this one
+
+Not Recommended:
+
+- [Mirador San Juan - La Independencia](https://maps.app.goo.gl/C9tvenWPRcyMxZNy7) - not worth the long walk up all the
+  steps through the ghetto suburbs
 
 ### Restaurants in Quito
 
