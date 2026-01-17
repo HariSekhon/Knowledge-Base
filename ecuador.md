@@ -245,7 +245,7 @@ seems more social with a full bar facing the street
   The fries were the non-crispy medium-thick style,
   and great with the sweet chilli garlic sauce they give you, as well as the ketchup and mayo-type sauce.
   The passion fruit juice with lemon was good for \$3, and so was the lemon, honey and ginger juice.
-  A burger a fries is around \$7, which is twice as expensive than the burgers sold at the street stalls
+  A burger a fries is around \$7, which is twice as expensive as the burgers sold at the street stalls
   (which I didn't get time to try),
   but this place is so good I don't see how it could be topped.
   It has a large selection of burgers, and is open late until 2am too.
