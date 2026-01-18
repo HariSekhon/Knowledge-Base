@@ -93,6 +93,7 @@ TODO:
 
 - [Avelino](https://maps.app.goo.gl/6n6snbUPmJA4Troi8) - 4.9 Peruvian, closes early, must be a foodie place
 - [Quipas](https://maps.app.goo.gl/hYrc7NU38f6hphP58) - 4.9 Peruvian
+- [Kaiyo - Sushi, Ramen & Cocktails](https://maps.app.goo.gl/M2PhdvFDmgDsmid48) - 4.5
 - [ASU](https://maps.app.goo.gl/bzDY3V79acwwQX5L8) - 5.0 Japanese maki, poke & ramen
 - [Cevichería Barra Maretazo](https://maps.app.goo.gl/PSbPYAttAbKKxUSv7) - 4.9 Peruvian
 - [Tokuyo Lima](https://maps.app.goo.gl/wrr75L8yX3TmBqN6A) - 4.8 Japanese
