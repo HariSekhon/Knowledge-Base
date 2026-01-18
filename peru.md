@@ -45,7 +45,7 @@ You can take the official Airport Express bus from opposite the Arrivals door 3 
 the booth is across the road and they take card payments.
 
 It's only 20 Peruvian Sol (\$6) as of Jan 2026, but it only leaves once an hour.
-The journey takes about 40 minutes once moving.
+The journey takes about 45 minutes once moving.
 
 There is air conditioning and wifi on board - 44/31 Mbit/s.. although I didn't see any plugs or USB charging ports.
 
