@@ -96,6 +96,7 @@ TODO:
 - [Avelino](https://maps.app.goo.gl/6n6snbUPmJA4Troi8) - 4.9 Peruvian
 - [Cevichería Barra Maretazo](https://maps.app.goo.gl/PSbPYAttAbKKxUSv7) - 4.9 Peruvian
 - [Tokuyo Lima](https://maps.app.goo.gl/wrr75L8yX3TmBqN6A) - 4.8 Japanese
+- [Al Toke Pez](https://maps.app.goo.gl/XCsUrBfGoQ4iB4eS7) - 4.5
 
 ## Cusco & Sacret Valley
 
