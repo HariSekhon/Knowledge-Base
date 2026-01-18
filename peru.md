@@ -43,6 +43,9 @@ There is air conditioning and wifi on board - 44/31 Mbit/s.. although I didn't s
 Due to the long wait I did try to get a QuickLlama bus which goes more frequently but apparently you need to reserve
 them in advance and I couldn't find their stall.
 
+There is free wifi with a capture portal requiring first name,
+last name and email address which is actually pretty fast 67/79 Mbit/s.
+
 ### Best Areas to Stay in Lima
 
 <!--
