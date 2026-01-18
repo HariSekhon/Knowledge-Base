@@ -4,7 +4,8 @@
 
 - [Summary](#summary)
 - [Lima](#lima)
-  - [Lima Airport Transport](#lima-airport-transport)
+  - [Lima Airport](#lima-airport)
+  - [Transport to/from Lima Airport](#transport-tofrom-lima-airport)
   - [Best Areas to Stay in Lima](#best-areas-to-stay-in-lima)
   - [Attractions in Lima](#attractions-in-lima)
   - [Restaurants in Lima](#restaurants-in-lima)
@@ -31,7 +32,14 @@ The capital, 2 days recommended.
 I have never seen so many free calesthetic bar gyms in a city, and even one with heavy bags.
 This has got to be the cheapest city in which to stay in shape.
 
-### Lima Airport Transport
+### Lima Airport
+
+There is a reasonable selection of food places past security.
+
+Wifi is free and actually pretty fast at 67/79 Mbit/s, and the capture portal is not too demanding
+requiring first name, last name and email address.
+
+### Transport to/from Lima Airport
 
 You can take the official Airport Express bus from opposite the Arrivals door 3 -
 the booth is across the road and they take card payments.
@@ -43,8 +51,7 @@ There is air conditioning and wifi on board - 44/31 Mbit/s.. although I didn't s
 Due to the long wait I did try to get a QuickLlama bus which goes more frequently but apparently you need to reserve
 them in advance and I couldn't find their stall.
 
-There is free wifi with a capture portal requiring first name,
-last name and email address which is actually pretty fast 67/79 Mbit/s.
+On the way back I took an Indrive for 30 Sol cash, half the price of an Uber.
 
 ### Best Areas to Stay in Lima
 
