@@ -73,7 +73,7 @@ EOF
 
 ## Atomic Transactions
 
-You can enforce atomicity using `BEGIN` and `COMMIT`, similar to other relational databases;
+You can enforce atomicity using `BEGIN` and `COMMIT`, similar to other relational databases:
 
 ```sql
 BEGIN;
