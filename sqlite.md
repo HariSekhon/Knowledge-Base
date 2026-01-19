@@ -17,6 +17,13 @@
 
 SQLite is a small fast local SQL DB that stores data in a simple file usually suffixed with `.sqlite`.
 
+It is suitable only for small databases which can reasonably fit in a single file without incurring
+large I/O seek and file rewriting performance problems.
+
+This works well for light desktop applications such as Shazam desktop,
+sample applications for learning purposes,
+and localized test DBs for real applications where you still want to use SQL with some representative loaded dummy data.
+
 ## Basic Usage
 
 ```shell
@@ -55,8 +62,12 @@ config is available in the [DevOps-Bash-tools](devops-bash-tools.md) repo:
 
 ## Batch
 
-For non-interactive SQL commands on a sqlite db file,
-use the `-batch` switch and the `-bail` switch to exit on any error:
+For non-interactive SQL commands on a sqlite db file:
+
+1. use the `-batch` switch for more efficient batch I/O since commits are expensive in this flat file format,
+1. add the `-bail` switch to exit upon encountering any error so your script can catch any problem exit safely
+   without causing a bigger problem
+   1. Remember to set your shell `-e` switch, see [Bash](bash.md)
 
 ```shell
 sqlite3 -batch -bail /path/to/file.sqlite <<EOF
@@ -103,3 +114,6 @@ UPDATE ...
 DELETE ...
 COMMIT;
 ```
+
+I/O is expensive in SQLite so batching operations is advised for performance reasons as well as logical grouping of
+instructions to be atomic.
