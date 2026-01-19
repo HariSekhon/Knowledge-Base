@@ -141,6 +141,8 @@ A good base point for pilgrimages to the Sacred Valley & Machu Pichu.
 and is walking distance as Cusco is fairly small anyway. Kitchen is a bit limited though.
 Wifi 87/93 Mbit/s
 
+-->
+
 #### Restaurants in Cusco
 
 TODO
