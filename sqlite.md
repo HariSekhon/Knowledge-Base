@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Basic Usage](#basic-usage)
 - [Config](#config)
 - [Batch](#batch)
 - [Parameterized Queries](#parameterized-queries)
@@ -32,7 +33,6 @@ To see SQLite specific commands, type:
 ```sqlite
 .help
 ```
-
 
 ## Config
 
