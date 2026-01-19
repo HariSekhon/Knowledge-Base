@@ -145,8 +145,12 @@ Wifi 87/93 Mbit/s
 
 #### Restaurants in Cusco
 
-- [Moray]() - the food was amazing, this place deserves its 4.9 rating.
-  The alpaca tenderloin with goldenberry sauce on it, potato.
+- [Moray](https://maps.app.goo.gl/yRuM9YQm32H3RrPu7) - the food was amazing, this place deserves its 4.9 rating.
+  The alpaca tenderloin with goldenberry sauce on it, potato millefeuille (triple layer potato square) and vegetables
+  was excellent.
+  The only thing I wish is that the portion size was bigger, the plate came with drizzle around the sides.
+  The 3 liquid truffle balls in batter with huacatay (peruvian mint) ice cream was also good,
+  and also I could have eaten way more of it.
   Wifi 271/381 Mbit/s
 
 ### Machu Pichu
