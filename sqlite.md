@@ -9,6 +9,7 @@ SQLite is a small fast local SQL DB that stores data in a simple file usually su
 - [Config](#config)
 - [Batch](#batch)
 - [Parameterized Queries](#parameterized-queries)
+- [Atomic Transactions](#atomic-transactions)
 
 <!-- INDEX_END -->
 
@@ -68,4 +69,16 @@ WHERE Z_PK IN (
   AND r.ZTRACKNAME = :track
 );
 EOF
+```
+
+## Atomic Transactions
+
+You can enforce atomicity using `BEGIN` and `COMMIT`, similar to other relational databases;
+
+```sql
+BEGIN;
+INSERT ...
+UPDATE ...
+DELETE ...
+COMMIT;
 ```
