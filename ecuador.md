@@ -64,8 +64,8 @@ Alternatives: Secret Garden, Colonial House Inn and Hostel Revolution seem to be
   beware it's like 500 steps up there and many dogs running around will bark at you on the way like you're a burglar -
   so you might just want to take a taxi up there
 - [Church of the Society of Jesus](https://maps.app.goo.gl/Se5t97tqa29avmSe7)
-- [Basílica del Voto Nacional](Basílica del Voto Nacional)
-- [La Mariscal Artisan Market](La Mariscal Artisan Market)
+- [Basílica del Voto Nacional](https://maps.app.goo.gl/RLB9DL4MG8CDGM959)
+- [La Mariscal Artisan Market](https://maps.app.goo.gl/xPs5BV1vEgYLFnVH9)
 - [Centro Comercial Espiral](https://maps.app.goo.gl/8tSYYXMpcV3jhHd67) - high spiral circle mall full of phone shops
 - [Casa Museo Guayasamín](https://maps.app.goo.gl/zKP84LgtSuuM4ovx5) - recommended by another traveller but I didn't
   find time for this one
