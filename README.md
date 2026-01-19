@@ -501,8 +501,8 @@ This one is used widely throughout these pages:
 - [SQL scripts](https://github.com/HariSekhon/SQL-scripts)
 - [Databases](databases.md)
 - [Data Warehousing](data-warehousing.md) TODO
-- [MySQL](mysql.md) TODO
-- [PostgreSQL](postgres.md) TODO
+- [MySQL](mysql.md) TODO partial
+- [PostgreSQL](postgres.md) TODO partial
 - [Oracle](oracle.md)
 - [SQLite](sqlite.md)
 - [CloudBeaver](cloudbeaver.md)
