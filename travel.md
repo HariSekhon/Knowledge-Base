@@ -195,17 +195,17 @@ volcanos, or historic archaeological sites.
 - [El Salvador](travel/elsalvador.md)
 - [Honduras](travel/honduras.md) (skipped due to long visa bureaucracy)
 - [Nicaragua](travel/nicaragua.md) (skipped due to lack of attractions and awkward flights)
-- [Costa Rica](costarica.md)
-- [Panama](panama.md)
+- [Costa Rica](travel/costarica.md)
+- [Panama](travel/panama.md)
 
 ### South America
 
 [Spanish Crash Course](travel/spanish.md) - you will need this for the following countries as most people don't speak English
 like much of the rest of the world
 
-- [Colombia](colombia.md) ⭐
-- [Ecuador](ecuador.md)
-- [Peru](peru.md) ⭐
+- [Colombia](travel/colombia.md) ⭐
+- [Ecuador](travel/ecuador.md)
+- [Peru](travel/peru.md) ⭐
 
 ## Booking Sites
 
