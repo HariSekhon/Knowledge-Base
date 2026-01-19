@@ -135,6 +135,12 @@ A good base point for pilgrimages to the Sacred Valley & Machu Pichu.
 - [San Blas](https://maps.app.goo.gl/vxReGBENU3TG6ZjY7) - quieter, more bohemian / artsy, cafes, but still close enough
   to the centre
 
+<!--
+
+[Pariwana](https://maps.app.goo.gl/mmXXWdJvdJeNgPJQ9) is really nice, has a good bar with a free pool table,
+and is walking distance as Cusco is fairly small anyway. Kitchen is a bit limited though.
+Wifi 87/93 Mbit/s
+
 #### Restaurants in Cusco
 
 TODO
