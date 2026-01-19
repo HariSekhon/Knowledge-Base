@@ -376,13 +376,13 @@ This one is used widely throughout these pages:
 - [Perl](perl.md)
 - [Python](python.md)
   - [Anaconda](anaconda.md)
-- [Golang](golang.md) TODO
+- [Golang](golang.md) TODO partial
 - [Rust](rust.md)
 - [Ruby](ruby.md)
 - [R](r.md) TODO
 - [TCL / Expect](programming.md#expect)
 - JVM:
-  - [Java](java.md) TODO
+  - [Java](java.md) TODO partial
   - [JDBC](jdbc.md)
   - [JVM Performance Tuning](java-jvm-performance-tuning.md)
   - [Groovy](groovy.md)
