@@ -1,17 +1,20 @@
 # SQLite
 
-<https://www.sqlite.org/>
-
-SQLite is a small fast local SQL DB that stores data in a simple file usually suffixed with `.sqlite`.
-
 <!-- INDEX_START -->
 
+- [Summary](#summary)
 - [Config](#config)
 - [Batch](#batch)
 - [Parameterized Queries](#parameterized-queries)
 - [Atomic Transactions](#atomic-transactions)
 
 <!-- INDEX_END -->
+
+## Summary
+
+<https://www.sqlite.org/>
+
+SQLite is a small fast local SQL DB that stores data in a simple file usually suffixed with `.sqlite`.
 
 ## Config
 
