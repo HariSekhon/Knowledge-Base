@@ -145,7 +145,9 @@ Wifi 87/93 Mbit/s
 
 #### Restaurants in Cusco
 
-TODO
+- [Moray]() - the food was amazing, this place deserves its 4.9 rating.
+  The alpaca tenderloin with goldenberry sauce on it, potato.
+  Wifi 271/381 Mbit/s
 
 ### Machu Pichu
 
