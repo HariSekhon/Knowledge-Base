@@ -5,7 +5,7 @@
 - [Summary](#summary)
 - [Basic Usage](#basic-usage)
 - [Config](#config)
-- [Batch](#batch)
+- [Batch / Scripting](#batch--scripting)
 - [Parameterized Queries](#parameterized-queries)
 - [Atomic Transactions](#atomic-transactions)
 
@@ -60,9 +60,9 @@ config is available in the [DevOps-Bash-tools](devops-bash-tools.md) repo:
 .timer on
 ```
 
-## Batch
+## Batch / Scripting
 
-For non-interactive SQL commands on a sqlite db file:
+For non-interactive SQL commands on a sqlite db file, such as in scripts:
 
 1. use the `-batch` switch for more efficient batch I/O since commits are expensive in this flat file format,
 1. add the `-bail` switch to exit upon encountering any error so your script can catch any problem exit safely
