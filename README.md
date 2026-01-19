@@ -504,6 +504,7 @@ This one is used widely throughout these pages:
 - [MySQL](mysql.md) TODO
 - [PostgreSQL](postgres.md) TODO
 - [Oracle](oracle.md)
+- [SQLite](sqlite.md)
 - [CloudBeaver](cloudbeaver.md)
 
 ### MPP Databases
