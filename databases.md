@@ -48,8 +48,7 @@ Digital Ocean [Managed Databases](https://www.digitalocean.com/products/managed-
 
 Useful for local or embedded usage rather than multi-user servers like most major RDBMS systems.
 
-- [SQLite](https://www.sqlite.org/) - small fast local SQL DB that can store data in a simple file
-  [.sqliterc](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.sqliterc) config is available in the
+- [SQLite](sqlite.md) - small fast local SQL DB that can store data in a simple file
   [DevOps-Bash-tools](devops-bash-tools.md) repo
 - [DuckDB](https://duckdb.org/) - single process local SQL DB akin to SQLite with minimal dependencies
 
