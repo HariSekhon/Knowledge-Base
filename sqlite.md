@@ -16,6 +16,24 @@
 
 SQLite is a small fast local SQL DB that stores data in a simple file usually suffixed with `.sqlite`.
 
+## Basic Usage
+
+```shell
+$ sqlite3 myfile.sqlite
+sqlite>
+```
+
+Then enter SQL commands at the interactive prompt.
+
+See batch mode further down.
+
+To see SQLite specific commands, type:
+
+```sqlite
+.help
+```
+
+
 ## Config
 
 SQLite configuration is stored in:
