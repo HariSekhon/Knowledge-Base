@@ -82,8 +82,8 @@ EOF
 Use parameterized queries as database best practice to avoid
 [SQL Injection](https://en.wikipedia.org/wiki/SQL_injection) attacks.
 
-This is how you do it in SQLite - this code is taken from `shazam_app_delete_track.sh` in
-[DevOps-Bash-tools](devops-bash-tools.md) (the Shazam desktop app on macOS uses a local sqlite db):
+Code taken from `shazam_app_delete_track.sh` in [DevOps-Bash-tools](devops-bash-tools.md)
+(the Shazam desktop app on macOS uses a local sqlite db):
 
 ```shell
 $ sqlite3 -batch -bail "$dbpath" <<EOF
@@ -100,6 +100,33 @@ WHERE Z_PK IN (
   WHERE a.ZNAME = :artist
   AND r.ZTRACKNAME = :track
 );
+EOF
+```
+
+BUT this fails for variables containing quotes, leaving it still vulnerable -
+`.parameter` seems still too fragile for non-interactive use with arbitrary text.
+
+The best solution I've been able to find is to pre-generate SQL-safe variables using SQLite's own engine
+and then use those variables:
+
+```shell
+artist_sql=$(sqlite3 ':memory:' "SELECT quote($(
+    printf "'%s'" "$(printf '%s' "$artist" | sed "s/'/''/g")"
+));")
+
+track_sql=$(sqlite3 ':memory:' "SELECT quote($(
+    printf "'%s'" "$(printf '%s' "$track" | sed "s/'/''/g")"
+));")
+
+sqlite3 -batch -bail "$dbpath" <<EOF
+    DELETE FROM ZSHTAGRESULTMO
+    WHERE Z_PK IN (
+        SELECT r.Z_PK
+        FROM ZSHTAGRESULTMO r
+        JOIN ZSHARTISTMO a ON a.ZTAGRESULT = r.Z_PK
+        WHERE a.ZNAME = $artist_sql
+          AND r.ZTRACKNAME = $track_sql
+    );
 EOF
 ```
 
