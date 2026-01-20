@@ -106,6 +106,16 @@ EOF
 BUT this fails for variables containing quotes, leaving it still vulnerable -
 `.parameter` seems still too fragile for non-interactive use with arbitrary text.
 
+Even trying to pre-load using multiple `-cmd` args failed:
+
+```text
+sqlite3 \
+  -cmd ".parameter init" \
+  -cmd ".parameter set :artist $artist" \
+  -cmd ".parameter set :track track" \
+  ...
+```
+
 After various testing with real world variety of Spotify data, everything failed except this code below -
 which pre-generates SQL-safe variables using SQLite's own quoting engine
 and then use those variables:
