@@ -106,7 +106,8 @@ EOF
 BUT this fails for variables containing quotes, leaving it still vulnerable -
 `.parameter` seems still too fragile for non-interactive use with arbitrary text.
 
-The best solution I've been able to find is to pre-generate SQL-safe variables using SQLite's own quoting engine
+After various testing with real world variety of Spotify data, everything failed except this code below -
+which pre-generates SQL-safe variables using SQLite's own quoting engine
 and then use those variables:
 
 ```shell
@@ -129,6 +130,8 @@ sqlite3 -batch -bail "$dbpath" <<EOF
     );
 EOF
 ```
+
+It's not as pretty as I'd like, if you have a better idea, please let me know!
 
 ## Atomic Transactions
 
