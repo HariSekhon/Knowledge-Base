@@ -139,8 +139,9 @@ TODO:
 
 5 days recommended:
 
-- Cusco City - 2 days - historic center (near Plaza de Armas)
-- Sacred Valley - 2 days - Ollantaytambo or Urubamba (great base for Machu Picchu)
+- Cusco City - 2-3 days - historic center (near Plaza de Armas)
+- Sacred Valley - 2 days
+  - Aguas Calientes (town at base of Machu Picchu) or Ollantaytambo or Urubamba
   - Machu Picchu - 1 day
 
 ## Cusco
@@ -253,6 +254,8 @@ before taking a train back to Cusco for the following day - hence why I did 2 ni
 
 Having time to leisurely explore the town and try 2-3 restaurants is nice.
 
+There are a lot of dogs lounging or trotting around the town.
+
 ### ATMs in Aguas Calientes
 
 - [Banco de la Nación](https://maps.app.goo.gl/zi2Kecw9dWfunJLT7) - no local fee cash withdrawals
@@ -277,6 +280,8 @@ so I didn't try it when there is so much competition for food just outside
 Wifi 19/39 Mbit/s
 
 -->
+
+The main strip is from the town square uphill which is wall to wall restaurants and massage parlours.
 
 - [Ayahuasca Grill](https://maps.app.goo.gl/n8CnfpXFfRK5LC5y9) -
   has various Alpaca steak dishes at reasonable price at around 50 Sol ($15).
@@ -309,6 +314,10 @@ TODO:
 
 The restaurants by the train track overlooking the river seem to have some good ratings but higher tourist prices, often
 exceeding that of the finest restaurants in Cusco.
+
+- [Chullos Machupicchu](https://maps.app.goo.gl/h4JaWZbF5AGPAhJW9) - 4.8
+- [Mapacho Craft Beer Restaurant](https://maps.app.goo.gl/Mx4DbSLVJoi5kwNB9) - 4.8
+- [Full House Machupicchu Restaurant](https://maps.app.goo.gl/wG2pbX9Ga1jyzV676) - 4.7
 
 ## Machu Picchu
 
