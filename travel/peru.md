@@ -267,6 +267,7 @@ There are a lot of dogs lounging or trotting around the town.
 - [Machu Picchu pueblo (Inca sculpture)](https://maps.app.goo.gl/zr5S98sfUXipjuSB9) - the town square with Inca monument
 - [Mercado Artesanal](https://maps.app.goo.gl/zbp32ZU7Fc4ttZm36) - substantial artisanal market immediately outside
   the main Machu Picchu train station
+- [Parque Mirador Río Vilcanota](https://maps.app.goo.gl/nbwkKNkvZYjPtjQr5)
 - [Inca Trail](https://maps.app.goo.gl/W1hfh9sGMon3aE4X7)
 - [Paddington Statue](https://maps.app.goo.gl/V476hYMRSrVmx9LB7)
 
