@@ -163,7 +163,8 @@ A good base point for pilgrimages to the Sacred Valley & Machu Picchu.
 
 [Pariwana](https://maps.app.goo.gl/mmXXWdJvdJeNgPJQ9) is really nice, has a good bar with a free pool table,
 and is walking distance as Cusco is fairly small anyway. Kitchen is a bit limited though.
-Wifi 87/93 Mbit/s but it only works intermittently despite full signal bars
+Wifi 87/93 Mbit/s but it only works intermittently despite full signal bars.
+This is very frustrating and why I didn't stay here again
 
 [Blacky Hostel](https://maps.app.goo.gl/zTnfWakBHJyVtKJX6) - cheap at only £6 per night, has a full kitchen.
 Wifi 52/36 Mbit/s
