@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Spotify](#spotify)
+- [Migrate Playlists Between Music Platforms](#migrate-playlists-between-music-platforms)
 - [Shazam Songs while using Headphones on Mac](#shazam-songs-while-using-headphones-on-mac)
   - [Automatically Switch to Using Multi-Output Device when Connecting Headphones](#automatically-switch-to-using-multi-output-device-when-connecting-headphones)
 - [MP3 metadata editing](#mp3-metadata-editing)
@@ -17,6 +18,10 @@
 <!-- INDEX_END -->
 
 ## Spotify
+
+See the [Spotify](spotify.md) page.
+
+## Migrate Playlists Between Music Platforms
 
 See the [Spotify](spotify.md) page.
 
