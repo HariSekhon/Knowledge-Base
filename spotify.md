@@ -5,7 +5,9 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
-- [Clear Local Spotify Desktop Cache](#clear-local-spotify-desktop-cache)
+- [Desktop Player](#desktop-player)
+  - [Clear Local Spotify Desktop Cache](#clear-local-spotify-desktop-cache)
+- [Web Player](#web-player)
 - [Spotify API](#spotify-api)
 - [Spotify API Code](#spotify-api-code)
 - [Spotify Playlists & Playlist Management Code](#spotify-playlists--playlist-management-code)
@@ -19,6 +21,8 @@
 
 Excellent music streaming platform with ultra low latency instant playing and offline downloads on Premium.
 
+Has Desktop, Mobile and Web players.
+
 I've been using this platform and writing API code for it for about 15+ years.
 
 There are a couple main weaknesses to this platform:
@@ -31,7 +35,13 @@ There are a couple main weaknesses to this platform:
 
 Overall this is still my favourite music platform for the last 15+ years.
 
-## Clear Local Spotify Desktop Cache
+## Desktop Player
+
+<https://www.spotify.com/us/download/>
+
+My preferred player as it's slightly more polished and you can have offline downloads on Premium.
+
+### Clear Local Spotify Desktop Cache
 
 Close Spotify, delete the cache and then re-open the app.
 
@@ -46,6 +56,13 @@ On Linux:
 ```shell
 rm -rf ~/.cache/spotify/Storage
 ```
+
+## Web Player
+
+<https://open.spotify.com/>
+
+Usable immediately from your browser without any installation needed,
+but the Desktop player is better if you're using it extensively.
 
 ## Spotify API
 
