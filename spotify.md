@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Clear Local Spotify Desktop Cache](#clear-local-spotify-desktop-cache)
 - [Spotify API](#spotify-api)
 - [Spotify API Code](#spotify-api-code)
 - [Spotify Playlists & Playlist Management Code](#spotify-playlists--playlist-management-code)
@@ -27,6 +28,22 @@ There are a couple main weaknesses to this platform:
   years for some things
 
 Overall this is still my favourite music platform for the last 15+ years.
+
+## Clear Local Spotify Desktop Cache
+
+Close Spotify, delete the cache and then re-open the app.
+
+On Mac:
+
+```shell
+rm -rf ~/Library/"Application Support"/Spotify/PersistentCache/Storage
+```
+
+On Linux:
+
+```shell
+rm -rf ~/.cache/spotify/Storage
+```
 
 ## Spotify API
 
