@@ -7,6 +7,7 @@
 - [Summary](#summary)
 - [Desktop Player](#desktop-player)
   - [Clear Local Spotify Desktop Cache](#clear-local-spotify-desktop-cache)
+- [Mobile Player](#mobile-player)
 - [Web Player](#web-player)
 - [Spotify API](#spotify-api)
 - [Spotify API Code](#spotify-api-code)
@@ -56,6 +57,11 @@ On Linux:
 ```shell
 rm -rf ~/.cache/spotify/Storage
 ```
+
+## Mobile Player
+
+Available in the iPhone [AppStore](https://spotify.link/h5TbcGLLkhb?label=sp_cid%3A47120e64f796e76ec16a8baea3cdde53)
+and Android [Google Play Store](https://spotify.link/T1vKH6Kr9ib?label=sp_cid%3A47120e64f796e76ec16a8baea3cdde53).
 
 ## Web Player
 
