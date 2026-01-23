@@ -6,6 +6,9 @@
 - [Spotify API](#spotify-api)
 - [Spotify API Code](#spotify-api-code)
 - [Spotify Playlists & Playlist Management Code](#spotify-playlists--playlist-management-code)
+- [Playlist Migration Between Different Music Platforms](#playlist-migration-between-different-music-platforms)
+  - [MakeList](#makelist)
+  - [Soundiiz](#soundiiz)
 
 <!-- INDEX_END -->
 
@@ -52,3 +55,30 @@ Some generalization such as a Spotify command line and track name normalization 
 Playlist specific management code scripting can be found here:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Spotify-playlists&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Spotify-playlists)
+
+## Playlist Migration Between Different Music Platforms
+
+### MakeList
+
+<https://www.makelist.co/>
+
+Generates a Spotify playlist from a URL containing tracks.
+
+You may want to use [File Upload Sites](upload-sites.md) to create that URL with a text file of your tracks.
+
+In the case of [HariSekhon/Spotify-Playlists](https://github.com/HariSekhon/Spotify-playlists) I provide these
+`Artist - Track` format text files which could be used directly from GitHub
+by just clicking the `Raw` link at the top of GitHub's website on any of those files to get the URL with the raw text.
+
+Their counterpart Spotify URI format files are also provided in that repo.
+
+### Soundiiz
+
+<https://soundiiz.com/>
+
+Migrates playlists between music service of your choice, although that requires a paid plan.
+
+The free plan only allows you to create or import playlists but not translate or export them to other platform formats.
+
+I'd personally just write the code to push them to another music service if I wanted to,
+although if you were only doing a one time migration, paying for a month would be the most time-cost effective way to go.
