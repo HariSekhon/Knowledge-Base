@@ -3,7 +3,6 @@
 <!-- INDEX_START -->
 
 - [Spotify](#spotify)
-  - [Clear Local Spotify Desktop Cache](#clear-local-spotify-desktop-cache)
 - [Shazam Songs while using Headphones on Mac](#shazam-songs-while-using-headphones-on-mac)
   - [Automatically Switch to Using Multi-Output Device when Connecting Headphones](#automatically-switch-to-using-multi-output-device-when-connecting-headphones)
 - [MP3 metadata editing](#mp3-metadata-editing)
@@ -19,21 +18,7 @@
 
 ## Spotify
 
-### Clear Local Spotify Desktop Cache
-
-Close Spotify, delete the cache and then re-open the app.
-
-On Mac:
-
-```shell
-rm -rf ~/Library/"Application Support"/Spotify/PersistentCache/Storage
-```
-
-On Linux:
-
-```shell
-rm -rf ~/.cache/spotify/Storage
-```
+See the [Spotify](spotify.md) page.
 
 ## Shazam Songs while using Headphones on Mac
 
