@@ -110,6 +110,8 @@ the Friday night BBQ with live DJ is so loud you can hear it all the way downsta
 
 ### Restaurants in Lima
 
+<!-- TODO: explore Barranco restaurants -->
+
 - [La Lucha Sangucheria](https://maps.app.goo.gl/ux1jm5WpqqQVPZPT7) /
   [La Lucha Sangucheria Criolla](https://maps.app.goo.gl/9D2r9Zq4tS4cTXTW8) -
   very popular & reasonably cheap Peruvian not-so-fast food place with burgers/sandwiches, fries and milkshakes.
