@@ -13,6 +13,7 @@
 - [Spotify API Code](#spotify-api-code)
 - [Spotify Playlists & Playlist Management Code](#spotify-playlists--playlist-management-code)
 - [Playlist Migration Between Different Music Platforms](#playlist-migration-between-different-music-platforms)
+  - [Playlist2Spotify](#playlist2spotify)
   - [MakeList](#makelist)
   - [Soundiiz](#soundiiz)
 
@@ -99,6 +100,13 @@ Playlist specific management code scripting can be found here:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Spotify-playlists&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Spotify-playlists)
 
 ## Playlist Migration Between Different Music Platforms
+
+### Playlist2Spotify
+
+<https://www.playlist2spotify.com/>
+
+You can upload a standard media player `.m3u` playlist file
+or paste a list of `Artist - Track` names for it to generate you the Spotify playlist.
 
 ### MakeList
 
