@@ -206,17 +206,37 @@ Wifi 52/36 Mbit/s
   The quinoa chicken soup was not as good as Kushkay's though, so I'd skip that next time.
   The guinea pig was fine dining, but the quarters had little meat, mostly mash base & fancy vegetables and .
   I would go with the alpaca next time.
-  The chocolate dessert was amazing, however - hot chocolate sponge coated with pisco and set on fire in front of me,
-  with purple ice cream, fresh fruits, 2 different coulis (one yellow, one red), and crumble - this is everything I
-  could ever hope for in a dessert.
   The _"Despertar De La Luna"_ drink of blueberry, coconut cream and hierba buena (mixed herbs) was surprisingly good.
-  I slightly blew the budget at $40 here, next time skip the soup.
+  I was going to haggle over whether this deserved its 4.9 star rating until I tried their dessert.
+  The _"Give Me Chocolate"_ dessert was amazing - hot chocolate sponge (not cream as written) coated with pisco and
+  set on fire in front of me, with purple ice cream, fresh fruits, 2 different coulis (one yellow, one red), and
+  crumble - this is everything I could ever hope for in a dessert.
+  I was eating this with a rapid spooning frequency that must have made me look like a starving person who hadn't just
+  had 2 prior courses.
+  The waitress also gave me two samples of the cheesecake which was very good too,
+  but if you like chocolate, go with the _"Give Me Chocolate"_.
+  I hope they never change or discontinue this dessert.
+  It was the best dessert I'd had in ages.
+  I blew the budget at $40 here though, next time skip the soup, that wasn't worth the cost - get it at KusyKay instead
+  if you're in the mood for soup as it's the same price but much better there.
   WiFi 69/70 Mbit/s
 - [Yaku Restaurant](https://maps.app.goo.gl/qtJYgN51wbVAvX3h8) - the lomo saltado alpaca was very good quality, and the
   chocolate brownie dessert was stuffing as it was 3 mid-sized brownie wedges with a small house made fruit ice cream
   in the middle - 2 people who aren't greedy could share this one.
   The venue itself is half open air and half outdoor shelter so not so warm depending on the weather.
   Wifi 168/437 Mbit/s
+- [Oculto](https://maps.app.goo.gl/rfkJRVrAv5KZYYr4A) - prices look reasonable, until you find out they’re tapas and not
+  mains like the other restaurants in Cusco, so you are advised to order 2-3 dishes per person.
+  The plates near the top of the menu are smaller and the ones near the bottom are bigger.
+  Two of the bigger dishes,
+  the _"lomo fino de alpaca"_ (alpaca tenderloin steak strips with french fries) and _"pulpo a la parilla"_
+  (grilled octopus) with potatoes were enough food for me.
+  The alpaca sliced tenderloin meat was excellent and tender, and the octopus had good thick tentacles too.
+  The mousse de chocolate with olive oil, salt and cacao nibs was much better than I had anticipated -
+  the contrast of the saltiness with the chocolate makes you savour every small mouthful.
+  At first I thought why is this dessert on only exactly half of my plate,
+  but trust me, this dessert works and was trumped only by the chocolate dessert at Ofrenda above.
+  The venue was a candle lit date style restaurant. WiFi 112/311 Mbit/s
 
 TODO:
 
