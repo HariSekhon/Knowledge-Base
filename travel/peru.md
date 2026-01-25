@@ -188,6 +188,16 @@ Wifi 52/36 Mbit/s
   The 3 liquid truffle balls in batter with huacatay (peruvian mint) ice cream was also good,
   and also I could have eaten way more of it.
   Wifi 271/381 Mbit/s
+- [Ofrenda Peruvian Restaurant](https://maps.app.goo.gl/8TJFF1BLXfhVUrq39) - great menu, good decor & reasonable prices.
+  The quinoa chicken soup was not as good as Kushkay's though, so I'd skip that next time.
+  The guinea pig was fine dining, but the quarters had little meat, mostly mash base & fancy vegetables and .
+  I would go with the alpaca next time.
+  The chocolate dessert was amazing, however - hot chocolate sponge coated with pisco and set on fire in front of me,
+  with purple ice cream, fresh fruits, 2 different coulis (one yellow, one red), and crumble - this is everything I
+  could ever hope for in a dessert.
+  The _"Despertar De La Luna"_ drink of blueberry, coconut cream and hierba buena (mixed herbs) was surprisingly good.
+  I slightly blew the budget at $40 here, next time skip the soup.
+  WiFi 69/70 Mbit/s
 - [Yaku Restaurant](https://maps.app.goo.gl/qtJYgN51wbVAvX3h8) - the lomo saltado alpaca was very good quality, and the
   chocolate brownie dessert was stuffing as it was 3 mid-sized brownie wedges with a small house made fruit ice cream
   in the middle - 2 people who aren't greedy could share this one.
