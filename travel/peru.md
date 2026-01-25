@@ -13,6 +13,7 @@
 - [Cusco & Sacred Valley](#cusco--sacred-valley)
 - [Cusco](#cusco)
   - [Best Areas to Stay in Cusco](#best-areas-to-stay-in-cusco)
+  - [ATMs in Cusco](#atms-in-cusco)
   - [Restaurants in Cusco](#restaurants-in-cusco)
 - [Travel to Aguas Calientes & Machu Picchu](#travel-to-aguas-calientes--machu-picchu)
   - [Travel from Aguas Calientes to Machu Picchu](#travel-from-aguas-calientes-to-machu-picchu)
