@@ -12,7 +12,9 @@
 
 ## Summary
 
-TODO
+I used Saily e-sim in Bolivia as it was the cheapest I could find at the time,
+but be sure to check all the [Mobile e-Sim providers](../travel.md#mobile-e-sims)
+I list in the travel overview page as prices can change.
 
 ## Currency Issue
 
