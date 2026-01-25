@@ -225,6 +225,7 @@ TODO:
   with entertainment when I passed
 - [Kushka Restaurant](https://maps.app.goo.gl/v85gKpZh14gtwDgy5) - 4.8
 - [Organika Bakery & Coffee](https://maps.app.goo.gl/CXitHTBpJWZSGBC56) - 4.8
+- [Campo Cocina Andina](https://maps.app.goo.gl/6FR79MCjXvRK5Zdc7) - 4.8
 - [Casa Carbajal](https://maps.app.goo.gl/fdLS1A5tizufYHFf7) - 4.7
 
 ## Travel to Aguas Calientes & Machu Picchu
