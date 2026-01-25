@@ -16,12 +16,15 @@ TODO
 
 ## Currency Issue
 
-Bolivia uses the Boliviano (BOB). Exchange rate on of Jan 2026 is roughly 7 BOB per \$1 and 9 BOB per £1.
+Bolivia uses the Boliviano (BOB).
+Exchange rate on of Jan 2026 is artificially pegged by the Bolivian government to roughly 7 BOB per \$1 and
+9 BOB per £1, but the actual market rate is far more BOB per dollar or GBP.
 
 There is a big problem with the official rate being far lower number of BOB
 than you would get on a real market exchange rate,
 meaning you should not use ATMs or Card payments
-as the banks will scam you for 70% more foreign currency than if you just converted foreign cash to BOB.
+as the banks will scam you for 70% more foreign currency than if you just converted foreign cash to BOB on the
+free market.
 
 Bring CASH (USD, EUR, GBP) to convert at exchanges instead of using cards and ATMs.
 
