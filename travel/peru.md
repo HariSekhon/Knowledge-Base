@@ -217,6 +217,7 @@ TODO:
 - [Mare Restaurant](https://maps.app.goo.gl/v34Hrby1j9rJpYFb9) - 4.9, low key venue, must be a foodie place
 - [Artisano Regocijo Restaurant](https://maps.app.goo.gl/15gKFNhBkwcmshVx5) - 4.9 looks like fine dining but was noisy
   with entertainment when I passed
+- [Organika Bakery & Coffee](https://maps.app.goo.gl/CXitHTBpJWZSGBC56) - 4.8
 - [Kushka Restaurant](https://maps.app.goo.gl/v85gKpZh14gtwDgy5) - 4.8
 - [Casa Carbajal](https://maps.app.goo.gl/fdLS1A5tizufYHFf7) - 4.7
 
