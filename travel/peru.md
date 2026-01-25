@@ -189,6 +189,13 @@ Wifi 52/36 Mbit/s
   and also I could have eaten way more of it.
   Wifi 271/381 Mbit/s
 
+TODO:
+
+- [Mare Restaurant](https://maps.app.goo.gl/v34Hrby1j9rJpYFb9) - 4.9, low key venue, must be a foodie place
+- [Artisano Regocijo Restaurant](https://maps.app.goo.gl/15gKFNhBkwcmshVx5) - 4.9 looks like fine dining but was noisy
+  with entertainment when I passed
+- [Kushka Restaurant](https://maps.app.goo.gl/v85gKpZh14gtwDgy5) - 4.8
+
 ## Travel to Aguas Calientes & Machu Picchu
 
 There is a train to Machu Picchu but it only goes from [Ollantaytambo](https://maps.app.goo.gl/cXJhC46h885e6k416).
