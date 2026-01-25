@@ -188,6 +188,11 @@ Wifi 52/36 Mbit/s
   The 3 liquid truffle balls in batter with huacatay (peruvian mint) ice cream was also good,
   and also I could have eaten way more of it.
   Wifi 271/381 Mbit/s
+- [Yaku Restaurant](https://maps.app.goo.gl/qtJYgN51wbVAvX3h8) - the lomo saltado alpaca was very good quality, and the
+  chocolate brownie dessert was stuffing as it was 3 mid-sized brownie wedges with a small house made fruit ice cream
+  in the middle - 2 people who aren't greedy could share this one.
+  The venue itself is half open air and half outdoor shelter so not so warm depending on the weather.
+  Wifi 168/437 Mbit/s
 
 TODO:
 
