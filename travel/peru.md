@@ -29,10 +29,12 @@
 
 ## Summary
 
-A lot of people have raved to me about Peru and a lot of westerners go there for the famous Machu Picchu.
+A lot of people have raved to me about Peru and a lot of westerners go there for the famous Machu Picchu site.
 
 I was surprised how good the food was,
 and moderately priced by international standards (expect to pay \$25-30 for a decent steak meal as of Jan 2026).
+
+It turns out that Peru is quite the foodie destination.
 
 The currency is the Peruvian Sol which is roughly 3.3 per \$1 or 4.5 per £1 as of Jan 2026.
 
@@ -51,9 +53,9 @@ I used less than 1GB by the time I was leaving and basically used the rest waiti
 ## Lima
 
 The capital, I recommend at least 2-3 days to make use of the good restaurants and street gyms.
-There is also activities like surfing lessons.
+There are also activities like surfing lessons.
 
-I have never seen so many free calesthetic bar gyms in a city (mainly along the coast)
+I have never seen so many free calisthenic bar gyms in a city (mainly along the coast)
 and even a free open air gym with heavy bags and an MMA cage, which I have never seen anything else.
 
 Between the good affordable steaks food and free workout areas, this has got to be one of the cheapest cities in the
