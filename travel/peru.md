@@ -179,6 +179,13 @@ Wifi 52/36 Mbit/s
 
 -->
 
+### ATMs in Cusco
+
+- [Cajero Banco de la Nación](https://maps.app.goo.gl/NELFyQMG5rDeGuqLA) - free cash withdrawals. You will need cash
+  for entrance tickets to historic sites like the Sacred Valley, as well as cheaper InDrive taxis and avoiding card
+  charges with cheaper accommodation or tour operators (I used Marina's in the main square as it was far cheaper than
+  what the tour operator embedded in my accommodation would charge).
+
 ### Restaurants in Cusco
 
 - [Moray](https://maps.app.goo.gl/yRuM9YQm32H3RrPu7) - the food was amazing, this place deserves its 4.9 rating.
@@ -210,6 +217,7 @@ TODO:
 - [Artisano Regocijo Restaurant](https://maps.app.goo.gl/15gKFNhBkwcmshVx5) - 4.9 looks like fine dining but was noisy
   with entertainment when I passed
 - [Kushka Restaurant](https://maps.app.goo.gl/v85gKpZh14gtwDgy5) - 4.8
+- [Casa Carbajal](https://maps.app.goo.gl/fdLS1A5tizufYHFf7) - 4.7
 
 ## Travel to Aguas Calientes & Machu Picchu
 
