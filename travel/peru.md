@@ -36,7 +36,11 @@ and moderately priced by international standards (expect to pay \$25-30 for a de
 
 The currency is the Peruvian Sol which is roughly 3.3 per \$1 or 4.5 per £1 as of Jan 2026.
 
-I used the Saily e-sim 3GB for 30 days in Peru, which was actually more than I needed even for 10 days.
+I used Saily e-sim in Bolivia as it was the cheapest I could find at the time,
+but be sure to check all the [Mobile e-Sim providers](../travel.md#mobile-e-sims)
+I list in the travel overview page as prices can change.
+I purchased the 3GB for 30 days package, but that was actually more than I needed even for 10 days.
+I used less than 1GB by the time I was leaving and basically used the rest waiting at the airport in Cusco.
 
 ## ATMs in Peru
 
