@@ -195,6 +195,14 @@ Wifi 52/36 Mbit/s
 
 ### Restaurants in Cusco
 
+- [Kusykay Peruvian Craft Food](https://maps.app.goo.gl/cVkEDscgi7ZkYnZH7) - excellent restaurant - fine dining at
+  only moderate price.
+  The Andean soup starter was by far the best I had in Peru, fine dining with chicken, noodles,
+  and 5 green sauce dots around the plate.
+  The Lomo de Alpaca was also very good, with a bed of quinoa, crispy wafers, and double layered artistic sauce drizzles
+  ending in dollops with green dips on them.
+  I should have tried dessert here in hindsight as the food was top notch.
+  WiFi 138/152 Mbit/s
 - [Moray](https://maps.app.goo.gl/yRuM9YQm32H3RrPu7) - the food was amazing, this place deserves its 4.9 rating.
   The alpaca tenderloin with goldenberry sauce on it, potato millefeuille (triple layer potato square) and vegetables
   was excellent.
