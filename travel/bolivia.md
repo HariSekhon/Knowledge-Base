@@ -42,6 +42,12 @@ The restaurant scene cannot hold a candle to neighbouring [Peru](peru.md).
 La Paz is also the highest administrative capital in the world at 3500m above sea level,
 so you will tire quickly going uphill.
 
+Within 2 hours of walking around the Sopacachi and Centro areas I have no plans to visit La Paz again.
+
+I had heard a couple guys in Cusco complaining they spent a week here and wishing they hadn't wasted more than 2 days.
+
+I would say 1 day stopover and then move on.
+
 ### Best Areas to Stay in La Paz
 
 Don't stay in La Paz, transit through and go somewhere nice instead, but if you have to stay 1-2 nights for flights:
