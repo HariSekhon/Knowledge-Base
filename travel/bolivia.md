@@ -32,7 +32,19 @@ Bring CASH (USD, EUR, GBP) to convert at exchanges instead of using cards and AT
 
 ## La Paz
 
+[La Paz](https://maps.app.goo.gl/QD32tMLounS5s5Vz5) looks exactly how you'd expect a 3rd world country to look.
+
+This is probably one of the worst capitals I've seen in the world,
+which is saying a lot considering I've travelled to over 50 countries at this point, many of them multiple times.
+
+The restaurant scene cannot hold a candle to neighbouring [Peru](peru.md).
+
+La Paz is also the highest administrative capital in the world at 3500m above sea level,
+so you will tire quickly going uphill.
+
 ### Best Areas to Stay in La Paz
+
+Don't stay in La Paz, transit through and go somewhere nice instead, but if you have to stay 1-2 nights for flights:
 
 - [Sopocachi](https://maps.app.goo.gl/x57fBhFJv9syfj5UA) - good all-round area, central, walkable, good cafes,
   restaurants, bars, and easy access to the Mi Teleferico
