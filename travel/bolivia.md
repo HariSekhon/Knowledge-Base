@@ -30,6 +30,17 @@ free market.
 
 Bring CASH (USD, EUR, GBP) to convert at exchanges instead of using cards and ATMs.
 
+My host recommended I check the exchanges [here](https://maps.app.goo.gl/AH5d64d6SPfd57bj9) since there are several,
+but I found they were all pegging USD to 6.96 BOB everywhere and the only variation was on GBP, SOl and EUR.
+
+I dumped my Peruvian Sol at an exchange rate of 2.8 BOB
+and converted Euros at 11 BOB as that was the best relative exchange rate out of my 3 reserve currencies of USD, GBP and
+EUR.
+
+For dollars, I found [MoneyBox](https://maps.app.goo.gl/iAP5RAWYYjPErCcaA) was offering 9.50 BOB per USD, and they
+don't take Euros of British Pounds at all.
+Note there is no sign above this little shop unit.
+
 ## La Paz
 
 [La Paz](https://maps.app.goo.gl/QD32tMLounS5s5Vz5) looks exactly how you'd expect a 3rd world country to look.
