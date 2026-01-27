@@ -31,7 +31,7 @@ free market.
 Bring CASH (USD, EUR, GBP) to convert at exchanges instead of using cards and ATMs.
 
 My host recommended I check the exchanges [here](https://maps.app.goo.gl/AH5d64d6SPfd57bj9) since there are several,
-but I found they were all pegging USD to 6.96 BOB everywhere and the only variation was on GBP, SOl and EUR.
+but I found they were all pegging USD to 6.96 BOB everywhere and the only variation was on GBP, Peruvian SOL and EUR.
 
 I dumped my Peruvian Sol at an exchange rate of 2.8 BOB
 and converted Euros at 11 BOB as that was the best relative exchange rate out of my 3 reserve currencies of USD, GBP and
