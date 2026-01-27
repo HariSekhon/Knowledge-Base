@@ -75,6 +75,7 @@ Don't stay in La Paz, transit through and go somewhere nice instead, but if you 
 ### Taxi Apps in La Paz
 
 - [InDrive](https://indrive.com/) - my favourite, usually half the price of Uber but cash only
+- [Uber](https://www.uber.com/) - since I didn't have any BOB cash I took an Uber for 42 BOB (\$6) but found the driver
+  charged me 90 BOB instead by taking the long way. I had to challenge this in the Uber app
 - [Yango](https://yango.com/es_bo/)
-- [Uber](https://www.uber.com/)
 - [EcoTaxi Bolivia](https://ecotaxibolivia.com/)
