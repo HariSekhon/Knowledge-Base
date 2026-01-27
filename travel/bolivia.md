@@ -79,6 +79,6 @@ Don't stay in La Paz, transit through and go somewhere nice instead, but if you 
   charged me 90 BOB instead by taking the long way.
   I had to challenge this in the Uber app.
   You're already paying the worst exchange rate by using card payment
-  rather than converting to market rate cash as per the Currency Issue section above
+  rather than converting to market rate cash as per the [Currency Issue](#currency-issue) section above
 - [Yango](https://yango.com/es_bo/)
 - [EcoTaxi Bolivia](https://ecotaxibolivia.com/)
