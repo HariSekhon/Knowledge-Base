@@ -169,6 +169,8 @@ find . -maxdepth 2 -iname '*.mp3' |
 
 <https://picard.musicbrainz.org/>
 
+[:octocat: metabrainz/picard](https://github.com/metabrainz/picard)
+
 Open source database that can be used to auto-tag music files.
 
 ## Memes
