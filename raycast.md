@@ -101,7 +101,7 @@ open -a Raycast
 
 Some extensions that might be of interest.
 
-I personally find it easier to `Cmd`-`Tab` to my browser and run a lot of things there.
+I personally find it easier to `Cmd`-`Tab` to my browser or Terminal and run a lot of things there.
 
 - [WhatsApp](https://www.raycast.com/vimtor/whatsapp)
 - [Spotify Player](https://www.Raycast.com/mattisssa/spotify-player)
