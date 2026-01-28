@@ -12,6 +12,8 @@
   - [Recursively Set Metadata](#recursively-set-metadata)
     - [Recursively Set Artist and Album](#recursively-set-artist-and-album)
     - [Recursively Set Track Order](#recursively-set-track-order)
+  - [Other Metadata Tools](#other-metadata-tools)
+    - [Picard by MusicBrainz](#picard-by-musicbrainz)
 - [Memes](#memes)
   - [Marketing Matters](#marketing-matters)
 
@@ -160,6 +162,14 @@ find . -maxdepth 2 -iname '*.mp3' |
   done
 }
 ```
+
+### Other Metadata Tools
+
+#### Picard by MusicBrainz
+
+<https://picard.musicbrainz.org/>
+
+Open source database that can be used to auto-tag music files.
 
 ## Memes
 
