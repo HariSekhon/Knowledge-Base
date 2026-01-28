@@ -87,7 +87,11 @@ Some extensions that might be of interest:
 
 ## Raycast Script Commands
 
-<https://github.com/Raycast/script-commands>
+[:octocat: Raycast/script-commands](https://github.com/Raycast/script-commands)
+
+Create scripts to customize Raycast.
+
+Documentation and samples repo.
 
 ### Ray-so - Dev Tools
 
