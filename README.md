@@ -208,6 +208,7 @@ This one is used widely throughout these pages:
 - [Windows](windows.md)
 - [Mac](mac.md)
   - [Homebrew](brew.md)
+  - [Raycast](raycast.md)
 - [Shell](shell.md)
   - [Bash Scripting](bash.md)
     - [Sudo](sudo.md)
@@ -759,6 +760,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
   - [Image](image.md)
   - [Video](video.md)
   - [Audio](audio.md)
+  - [Spotify](spotify.md)
 - [Download Tools](downloads.md)
 - [File Upload & Code Pastebin Sites](upload-sites.md)
 - [Memes](memes.md)
@@ -895,7 +897,7 @@ Does nothing:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Template-repo&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Template-repo)
 
-### Misc
+### Spotify
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Spotify-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Spotify-tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Spotify-playlists&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Spotify-playlists)
