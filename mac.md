@@ -31,6 +31,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Anti-Virus](#anti-virus)
   - [ClamAV Setup](#clamav-setup)
 - [Raycast](#raycast)
+  - [RayCast Extensions](#raycast-extensions)
 - [Alfred](#alfred)
 - [AppleScript](#applescript)
 - [Commands](#commands)
@@ -476,6 +477,10 @@ If you really want to disable file search in Raycast, you can disable indexing e
 ```shell
 sudo mdutil -a -i off
 ```
+
+### RayCast Extensions
+
+<https://www.raycast.com/store>
 
 ## Alfred
 
