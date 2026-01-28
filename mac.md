@@ -432,8 +432,6 @@ clamscan --recursive .
 
 ## Raycast
 
-<https://www.raycast.com/>
-
 Shortcut to everything.
 
 Use as a drop in replacement for Spotlight which is full of garbage results like web pages in recent versions
@@ -443,44 +441,7 @@ macOS power users often switch to Raycast or Alfred to use as app launchers as t
 and respect local app priority rather than Spotlight which has been ruined trying to be a universal search usually
 resulting in poor results not giving you the local app you want to launch.
 
-Install:
-
-```shell
-brew install --cask raycast
-```
-
-Start at Login:
-
-```shell
-osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Raycast.app", hidden:false}'
-```
-
-Start Raycast (might request permissions):
-
-```shell
-open -a Raycast
-```
-
-By default Raycast claims the `Option` + `Space` hotkey to bring it up to not clash with Spotlight.
-
-Change this to replace Spotlight.
-
-Go to `Settings` -> `Keyboard` -> `Keyboard Shorts` -> `Spotlight` and untick
-`Show Spotlight search` and `Show Finder search window`.
-
-Then go to Raycast's settings and change the Raycast hotkey to be `Cmd` + `Space`.
-
-Uses Spotlight file indexing, so don't disable Spotlight entirely or you will lose file search.
-
-If you really want to disable file search in Raycast, you can disable indexing entirely to save resources:
-
-```shell
-sudo mdutil -a -i off
-```
-
-### RayCast Extensions
-
-<https://www.raycast.com/store>
+See [Raycast](raycast.md) page for installation and usage instructions as well as some useful extensions.
 
 ## Alfred
 
