@@ -99,13 +99,24 @@ open -a Raycast
 
 [:octocat: Raycast/extensions](https://github.com/Raycast/extensions)
 
-Some extensions that might be of interest:
+Some extensions that might be of interest.
 
+I personally find it easier to `Cmd`-`Tab` to my browser and run a lot of things there.
+
+- [WhatsApp](https://www.raycast.com/vimtor/whatsapp)
 - [Spotify Player](https://www.Raycast.com/mattisssa/spotify-player)
 - [ChatGPT](https://www.raycast.com/abielzulio/chatgpt)
 - [Google Gemini](https://www.raycast.com/EvanZhouDev/raycast-gemini)
 - [Google Translate](https://www.raycast.com/gebeto/translate)
+- [Cursor](https://www.raycast.com/degouville/cursor-recent-projects)
+- [Claude](https://www.raycast.com/florisdobber/claude)
+- [Raindrop.io](https://www.raycast.com/lardissone/raindrop-io)
+- [Obsidian](https://www.raycast.com/marcjulian/obsidian)
+- [Remove Paywall](https://www.raycast.com/tegola/remove-paywall)
+- [Iconify](https://www.raycast.com/destiner/iconify)
+- [Base64](https://www.raycast.com/DanielSinclair/base64)
 - [Color Picker](https://www.raycast.com/thomas/color-picker)
+- [Manage Homebrew Services](https://www.raycast.com/erics118/brew-services)
 
 ## Raycast Script Commands
 
