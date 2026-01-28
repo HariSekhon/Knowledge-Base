@@ -12,8 +12,8 @@
   - [Recursively Set Metadata](#recursively-set-metadata)
     - [Recursively Set Artist and Album](#recursively-set-artist-and-album)
     - [Recursively Set Track Order](#recursively-set-track-order)
-  - [Other Metadata Tools](#other-metadata-tools)
-    - [Picard by MusicBrainz](#picard-by-musicbrainz)
+- [Other Metadata Tools](#other-metadata-tools)
+  - [Picard by MusicBrainz](#picard-by-musicbrainz)
 - [Memes](#memes)
   - [Marketing Matters](#marketing-matters)
 
@@ -163,9 +163,9 @@ find . -maxdepth 2 -iname '*.mp3' |
 }
 ```
 
-### Other Metadata Tools
+## Other Metadata Tools
 
-#### Picard by MusicBrainz
+### Picard by MusicBrainz
 
 <https://picard.musicbrainz.org/>
 
