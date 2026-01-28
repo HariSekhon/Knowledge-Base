@@ -11,6 +11,7 @@
 - [Configure](#configure)
   - [Raycast Hotkey](#raycast-hotkey)
   - [Spotlight Indexing](#spotlight-indexing)
+  - [Disable Updates](#disable-updates)
 - [Raycast Extensions](#raycast-extensions)
 - [Raycast Script Commands](#raycast-script-commands)
   - [Ray-so - Dev Tools](#ray-so---dev-tools)
@@ -75,6 +76,23 @@ If you really want to disable file search in Raycast, you can disable indexing e
 sudo mdutil -a -i off
 ```
 
+### Disable Updates
+
+Disable Raycast in-app upgrades to allow `homebrew upgrade` to run without conflict with `/Applications/Raycast.app`.
+
+Use Mac settings which Raycast should respect:
+
+```shell
+defaults write com.raycast.macos updaterEnabled -bool false
+```
+
+Then restart Raycast to ensure the setting takes effect:
+
+```shell
+pkill -f Raycast
+open -a Raycast
+```
+
 ## Raycast Extensions
 
 <https://www.Raycast.com/store>
@@ -84,6 +102,10 @@ sudo mdutil -a -i off
 Some extensions that might be of interest:
 
 - [Spotify Player](https://www.Raycast.com/mattisssa/spotify-player)
+- [ChatGPT](https://www.raycast.com/abielzulio/chatgpt)
+- [Google Gemini](https://www.raycast.com/EvanZhouDev/raycast-gemini)
+- [Google Translate](https://www.raycast.com/gebeto/translate)
+- [Color Picker](https://www.raycast.com/thomas/color-picker)
 
 ## Raycast Script Commands
 
