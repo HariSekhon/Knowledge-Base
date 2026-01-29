@@ -119,6 +119,7 @@ I am really struggling to make this section as this is not a tourist destination
 - [Plaza Mayor de San Francisco](https://maps.app.goo.gl/7aT5SoToxky28ueh7)
 - [Plaza Murillo](https://maps.app.goo.gl/qRzPnRrBW3Dapjch6)
 - [Sagarnaga](https://maps.app.goo.gl/Ed5VRPfKrAaDBVNs7) - tourist shops street
+- [The Witches Market](https://maps.app.goo.gl/8DbmA3dwK8kjAbYx8)
 
 ### Restaurants in La Paz
 
