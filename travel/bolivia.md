@@ -210,6 +210,10 @@ Wifi 38/22 Mbit/s
   Has wifi
 - [Rufos Burger](https://maps.app.goo.gl/1jGrjquuaNun51JQ6) - the Lomito Rofos is basically a croissant with a very thin
   beef strip, ham, egg and tomato
+- [Memos Coffee Bistro](https://maps.app.goo.gl/dB9irZjQMLARsQtm8) - I came for the acai bowl but they didn't have it.
+  I tried the granola bowl instead and that was very good, up to gentrified coffee shop standards, yoghurt topped with
+  a row of strawberry and banana slices, blueberries, a couple dried orange slices, and of course some granola.
+  Wifi 15/1 Mbit/s
 
 Not Recommended:
 
