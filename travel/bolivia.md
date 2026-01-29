@@ -134,6 +134,8 @@ which were flooded all over town making it hard to cross streets.
 
 After 55 countries I have never seen such a 3rd world place.
 
+People travel here only to see the salt flats. It is a desert.
+
 ### Taxis in Uyuni
 
 Neither Uber nor InDrive worked for me in Uyuni.
