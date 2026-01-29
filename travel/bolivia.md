@@ -127,6 +127,8 @@ Wifi 202/34 Mbit/s
   The Copoazu Lassi was really good, just the right amount of sweetness too, a local twist on an indian idea.
   I could eat here all day, the place is actually vegetarian and vegan but I didn't notice until later on because the
   menu was so good.
+  They also have acai bowl and tropical fruit bowl,
+  I wish I had more time to eat my way through their menu as this was the highlight of La Paz.
   WiFi 25/33 Mbit/s
 - [Beef & Beer](https://maps.app.goo.gl/nKqkXhhhbZqMHv7w8) - the Beef&Beer Sirloin steak was great, covered in fried
   onions and red peppers, with good fries and a side salad.
