@@ -152,7 +152,7 @@ Not Recommended:
   it is not authentic or even good quality.
   The udon is not authentic, it's just spaghetti, and the sushi is just rice with whatever ingredients.
   Don't waste one of your meals on this place,
-  I wish I'd gone to La Rufina instead of taking a punt on this one based on its undeservedly high rating
+  I wish I'd gone to La Rufina instead of taking a punt on this one based on its undeservedly high rating.
   Doesn't have wifi
 
 TODO:
