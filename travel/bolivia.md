@@ -237,4 +237,6 @@ Not Recommended:
 TODO:
 
 - [Vigus](https://maps.app.goo.gl/BL7Aez68b32RxbjeA) - 4.7
+- [Mr Taco Cafe](https://maps.app.goo.gl/sDcKhKhsskdth5tK7) - 4.9
+- ["La chapaquita" Churrasquería](https://maps.app.goo.gl/VBvG7WRrp214EKATA) - 4.8
 - [Ensis](https://maps.app.goo.gl/Hk8XxE5gx9oj8gCn9) - 4.8, expensive here at over $20 per main but should be good
