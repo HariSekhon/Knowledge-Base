@@ -167,6 +167,7 @@ Not Recommended:
 
 TODO:
 
+- [Cafe Vida](https://maps.app.goo.gl/YEb3dS7KoRrhQCZk6) - 4.8
 - [La Rufina Restaurant](https://maps.app.goo.gl/1gqKQai727rwRjmr8) - 4.5, upmarket restaurant
 - [El caldero inglés](El caldero inglés) - 4.8 - The English Cauldron cafe
 - [Yati Restaurant café bar](https://maps.app.goo.gl/Lo5XTcXPVvD8vyDb9) - 4.6
