@@ -139,7 +139,8 @@ Wifi 202/34 Mbit/s
 
 Not Recommended:
 
-- [Sushi Udon]() - cheap but not worth it at all - I have no idea how this place could possibly receive a 4.8 rating,
+- [Sushi Udon](https://maps.app.goo.gl/eXBTaukpN6SHBhnS8) - cheap but not worth it at all -
+  I have no idea how this place could possibly receive a 4.8 rating,
   it is not authentic or even good quality.
   The udon is not authentic, it's just spaghetti, and the sushi is just rice with whatever ingredients.
   Don't waste one of your meals on this place,
