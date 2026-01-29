@@ -117,7 +117,7 @@ Cities: 184
   - Countries: Vietnam (continued), Cambodia, Laos, Bali (Indonesia), Malayasia, Singapore, Taiwan, Serbia, Bulgaria,
     Romania, Hungary, Slovakia, Austria, Czechia, Poland, Germany, UK, Slovenia, Croatia, Montenegro, Albania,
     North Macedonia, Bosnia and Herzegovina, Ukraine, Moldova, Tunisia, Jordan, Lebanon, Spain, Mexico, Guatemala,
-    El Salvador, Costa Rica, Panama, Colombia, Ecuador, Peru, Bolivia
+    El Salvador, Costa Rica, Panama, Colombia
 - Countries in 2026: 4
   - Cities in 2025: 89
   - Countries: Colombia (continued), Ecuador, Peru, Bolivia
