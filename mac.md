@@ -19,6 +19,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Performance Falls through the floor on last 5-10% of battery life](#performance-falls-through-the-floor-on-last-5-10-of-battery-life)
 - [Terminal](#terminal)
 - [Homebrew - Package Management](#homebrew---package-management)
+- [Mas - AppStore CLI App Management](#mas---appstore-cli-app-management)
 - [Activity Monitor](#activity-monitor)
 - [Force Quit Applications](#force-quit-applications)
 - [Stats Bar](#stats-bar)
@@ -31,7 +32,6 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Anti-Virus](#anti-virus)
   - [ClamAV Setup](#clamav-setup)
 - [Raycast](#raycast)
-  - [RayCast Extensions](#raycast-extensions)
 - [Alfred](#alfred)
 - [AppleScript](#applescript)
 - [Commands](#commands)
@@ -194,7 +194,14 @@ This is where you should be spending your life if you're a techie, with a browse
 
 The best most widely used package manager for Mac.
 
-See [brew.md](brew.md) for how to use it and great package lists I've spent years discovering and building up.
+See the [Homebrew.md](brew.md) page for how to use it and great package lists I've spent years discovering and
+building up.
+
+## Mas - AppStore CLI App Management
+
+Command line interface to the macOS App Store.
+
+See the [Mas](mas.md) page for how to install and use it.
 
 ## Activity Monitor
 
