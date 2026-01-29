@@ -137,6 +137,9 @@ Wifi 202/34 Mbit/s
   Has wifi
 - [Inti Restaurant Café Bar](https://maps.app.goo.gl/WkqWwAB6PdbWiggX7) - the paiche prehistoric fish ceviche was red
   not white fish.
+  I had to ask if they'd given me the right thing.
+  The ceviche itself was ok, nice and limey with onion and a few crispy wafers.
+  Next time I'd probably go with a burger instead.
   The juice had sugar in it, apparently that's what they call natural in Bolivia.
   Ask specifically for no sugar.
   WiFi was full signal but intermittent traffic, unusable
