@@ -8,6 +8,7 @@
   - [El Alto Airport](#el-alto-airport)
   - [Best Areas to Stay in La Paz](#best-areas-to-stay-in-la-paz)
   - [Taxi Apps in La Paz](#taxi-apps-in-la-paz)
+  - [Attractions in La Paz](#attractions-in-la-paz)
   - [Restaurants in La Paz](#restaurants-in-la-paz)
 - [Uyuni](#uyuni)
   - [Taxis in Uyuni](#taxis-in-uyuni)
