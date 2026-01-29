@@ -233,3 +233,8 @@ Not Recommended:
   but nobody I know who is a good cook or a good restaurant would serve this food.
   How you do anything is how you do everything.
   Has wifi
+
+TODO:
+
+- [Vigus](https://maps.app.goo.gl/BL7Aez68b32RxbjeA) - 4.7
+- [Ensis](https://maps.app.goo.gl/Hk8XxE5gx9oj8gCn9) - 4.8, expensive here at over $20 per main but should be good
