@@ -17,6 +17,8 @@
 
 ## Summary
 
+Bolivia is a very 3rd world country, I struggle to finda reason to spent time and money visiting it.
+
 I used Saily e-sim in Bolivia as it was the cheapest I could find at the time,
 but be sure to check all the [Mobile e-Sim providers](../travel.md#mobile-e-sims)
 I list in the travel overview page as prices can change.
