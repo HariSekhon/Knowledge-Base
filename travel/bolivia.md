@@ -101,7 +101,13 @@ Wifi 202/34 Mbit/s
   charged me 90 BOB instead by taking the long way.
   I had to challenge this in the Uber app.
   You're already paying the worst exchange rate by using card payment
-  rather than converting to market rate cash as per the [Currency Issue](#currency-issue) section above
+  rather than converting to market rate cash as per the [Currency Issue](#currency-issue) section above.
+  On the way back to the airport the other Uber driver did it too,
+  too the long way saying it was faster and then charging 92BOB instead of 43 BOB shown on the app.
+  Uber originally declined to fix it and it had to be escalated to support.
+  I would avoid using Uber next time
+  and try to stick with InDrive as it is harder for them to change the price on you when you are holding cash,
+  especially if you have small notes for the right amount
 - [Yango](https://yango.com/es_bo/)
 - [EcoTaxi Bolivia](https://ecotaxibolivia.com/)
 
