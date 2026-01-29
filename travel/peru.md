@@ -343,7 +343,7 @@ There are a lot of dogs lounging or trotting around the town.
 
 ### ATMs in Aguas Calientes
 
-- [Banco de la Nación](https://maps.app.goo.gl/zi2Kecw9dWfunJLT7) - no local fee cash withdrawals
+- [Banco de la Nación](https://maps.app.goo.gl/zi2Kecw9dWfunJLT7) - free cash withdrawals
 
 ### Attractions in Aguas Calientes
 
