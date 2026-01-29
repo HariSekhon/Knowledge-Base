@@ -163,7 +163,7 @@ A good base point for pilgrimages to the Sacred Valley & Machu Picchu.
 
 One of the greatest foodie cities I've ever seen by a mile -
 I wouldn't bother eating anywhere under a 4.8 here as the competition is so high.
-The restaurants here wipe the floor with the ones in Lima or Aguas Calientest (Machu Picchu town).
+The restaurants here wipe the floor with the ones in Lima or Aguas Calientes (Machu Picchu town).
 
 It's a shame the altitude and weather can be uncomfortable, but one can't have everything.
 
