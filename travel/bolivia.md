@@ -147,7 +147,7 @@ Not Recommended:
 
 TODO:
 
-- [La Rufina Restaurant](https://maps.app.goo.gl/1gqKQai727rwRjmr8) - upmarket restaurant
+- [La Rufina Restaurant](https://maps.app.goo.gl/1gqKQai727rwRjmr8) - 4.5, upmarket restaurant
 - [La Capital Hamburguesas](https://maps.app.goo.gl/cWg7QYnJJw6Reu4S7) - 4.2, burgers
 
 ## Uyuni
