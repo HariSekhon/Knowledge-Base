@@ -86,11 +86,16 @@ From [DevOps-Bash-tools](devops-bash-tools.md) under the `applescript/` director
 
 ### List Tracks from the Shazam Desktop App
 
-Gets the list of tracks from the SQLite DB on the command line for piping to other commands:
+Gets the list of tracks (newest first) from the SQLite DB on the command line for piping to other commands:
 
 ```shell
 shazam_app_dump_tracks.sh
 ```
+
+You can also pass it an argument to only return `today` / `yesterday` / `week` or a specific `YYYY-MM-DD` date.
+
+In that case it returns the tracks in the order they were shazam'd first
+(for building a playlist of the tracks in the order they appear in the episode).
 
 ### Deletes an `Artist` + `Track` name Combination
 
