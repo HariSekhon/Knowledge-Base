@@ -114,8 +114,9 @@ Wifi 202/34 Mbit/s
 
 ### Attractions in La Paz
 
-I am struggling to make this section.
+I am really struggling to make this section as this is not a tourist destination.
 
+- [Plaza Mayor de San Francisco](https://maps.app.goo.gl/7aT5SoToxky28ueh7)
 - [Plaza Murillo](https://maps.app.goo.gl/qRzPnRrBW3Dapjch6)
 - [Sagarnaga](https://maps.app.goo.gl/Ed5VRPfKrAaDBVNs7) - tourist shops street
 
