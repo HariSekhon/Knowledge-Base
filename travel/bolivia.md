@@ -208,12 +208,17 @@ Wifi 38/22 Mbit/s
 - [Llama Cafe](https://maps.app.goo.gl/oKFPxdX3pCcD2ABQ6) - gentrified cafe. The bruschetta was good with lots of fresh
   tomato on it, and the porridge with fruits was good too (mango, banana and strawberry).
   Has wifi
-- [Rufos Burger](https://maps.app.goo.gl/1jGrjquuaNun51JQ6) - the Lomito Rofos is basically a croissant with a very thin
-  beef strip, ham, egg and tomato
 - [Memos Coffee Bistro](https://maps.app.goo.gl/dB9irZjQMLARsQtm8) - I came for the acai bowl but they didn't have it.
   I tried the granola bowl instead and that was very good, up to gentrified coffee shop standards, yoghurt topped with
   a row of strawberry and banana slices, blueberries, a couple dried orange slices, syrup, and of course some granola.
   Wifi 15/1 Mbit/s
+- [Rufos Burger](https://maps.app.goo.gl/1jGrjquuaNun51JQ6) - the Lomito Rofos is basically a croissant with a very thin
+  beef strip, ham, egg and tomato.
+  Doesn't really have wifi, the staff gave me an `Irene` network from a QR code on her phone for my phone that promptly
+  disappeared before I could use it on my laptop.
+  I think I might have gotten bacterial food poisoning from here though as I developed a headache (rare for me), and it
+  seems unlikely to be from dehydration as I had some of it the next day even though I was conscious to hydrate.
+  Not going to risk trying the regular burger here when there are other places to try
 
 Not Recommended:
 
