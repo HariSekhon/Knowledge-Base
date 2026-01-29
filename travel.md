@@ -341,6 +341,7 @@ This has hit me travelling to:
 - [Costa Rica](travel/costarica.md) with Avianca airline
 - [Panama](travel/panama.md) with Copa airline
 - [Colombia](travel/colombia.md) with Avianca airline
+- [Bolivia](travel/bolivia.md) with Aviana airline
 
 In [Panama](panama.md) and [Costa Rica](costarica.md) the immigration officer did ask for my outbound flight and
 accommodation, whereas in [Mexico](mexico.md) and [Colombia](colombia.md) they asked for my accommodation details but
