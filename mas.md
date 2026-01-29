@@ -12,6 +12,8 @@
   - [Get Status of a Specific App by ID](#get-status-of-a-specific-app-by-id)
   - [Get Detailed Info About a Specific App by ID](#get-detailed-info-about-a-specific-app-by-id)
   - [Install an App](#install-an-app)
+  - [Save All Installed Packages](#save-all-installed-packages)
+  - [Install All Packages from Saved List](#install-all-packages-from-saved-list)
   - [See Outdated Apps](#see-outdated-apps)
   - [Upgrade An Installed App](#upgrade-an-installed-app)
   - [Upgrade All Installed Apps](#upgrade-all-installed-apps)
@@ -104,13 +106,6 @@ From: https://apps.apple.com/gb/app/shazam-identify-songs/id897118787?mt=12&uo=4
 ```text
 mas install <app_id> [<app_id2> ...]
 ```
-
-If you have a file of App IDs one per line, you could cat it to xargs to quickly install multiple apps:
-
-```shell
-cat mas_apps.txt | xargs mas install
-```
-
 Install Shazam by its App ID:
 
 ```shell
@@ -129,6 +124,26 @@ mas lucky Shazam
 
 ```text
 Warning: Already installed Shazam (897118787)
+```
+
+### Save All Installed Packages
+
+Create a text file list of all the installed App Store apps with their IDs,
+stripping off the trailing version numbers using `cut`:
+
+```shell
+mas list | cut -c-40 >> mas-packages.txt
+```
+
+You can see my list in
+[HariSekhon/DevOps-Bash-tools - setup/mas-packages.txt](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/setup/mas-packages.txt).
+
+### Install All Packages from Saved List
+
+First stripping out all `#` comment lines and then passing the first column of App IDs to `mas install`:
+
+```shell
+sed 's/#.*//' mas-packages.txt | awk '{print $1}' | xargs mas install
 ```
 
 ### See Outdated Apps
