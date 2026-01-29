@@ -214,12 +214,12 @@ Wifi 38/22 Mbit/s
   Wifi 15/1 Mbit/s
 - [Rufos Burger](https://maps.app.goo.gl/1jGrjquuaNun51JQ6) - the Lomito Rofos is basically a croissant with a very thin
   beef strip, ham, egg and tomato.
-  Doesn't really have wifi, the staff gave me an `Irene` network from a QR code on her phone for my phone that promptly
-  disappeared before I could use it on my laptop.
   I think I might have gotten bacterial food poisoning from here though as I developed a headache (rare for me), and it
   seems unlikely to be from dehydration as it still lingered the next day
   even though I was consciously hydrating from the night before.
-  Not going to risk trying the regular burger here when there are other places to try
+  Not going to risk trying the regular burger here when there are other places to try.
+  Doesn't really have wifi, the staff gave me an `Irene` network from a QR code on her phone for my phone that promptly
+  disappeared before I could use it on my laptop
 
 Not Recommended:
 
