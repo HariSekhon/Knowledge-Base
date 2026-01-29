@@ -210,3 +210,17 @@ Wifi 38/22 Mbit/s
   Has wifi
 - [Rufos Burger](https://maps.app.goo.gl/1jGrjquuaNun51JQ6) - the Lomito Rofos is basically a croissant with a very thin
   beef strip, ham, egg and tomato
+
+Not Recommended:
+
+- [Bouquet Du Vin Vinoteca](https://maps.app.goo.gl/4sSnLEqyfrZ73ryx8) -
+  another 4.8 rated restaurant that does not deserve its rating.
+  I tried their lunch menu for 25 BOB,
+  a peanut soup and spicy chicken with rice and potato.
+  A lot of locals were eating this, and I'm sure it's fine for locals,
+  but by international standards this was extremely mediocre and not worth the cheap price.
+  The chicken was mainly wing, the rice was soft, the soup was just full of cheap pasta.
+  Perhaps their evening menu of burgers is better,
+  but nobody I know who is a good cook or a good restaurant would serve this food.
+  How you do anything is how you do everything.
+  Has wifi
