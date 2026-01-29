@@ -117,7 +117,7 @@ the Friday night BBQ with live DJ is so loud you can hear it all the way downsta
 
 ### Restaurants in Lima
 
-<!-- TODO: explore Barranco restaurants -->
+TODO: explore Barranco restaurants
 
 - [La Lucha Sangucheria](https://maps.app.goo.gl/ux1jm5WpqqQVPZPT7) /
   [La Lucha Sangucheria Criolla](https://maps.app.goo.gl/9D2r9Zq4tS4cTXTW8) -
@@ -212,7 +212,7 @@ Wifi 52/36 Mbit/s
   Wifi 271/381 Mbit/s
 - [Ofrenda Peruvian Restaurant](https://maps.app.goo.gl/8TJFF1BLXfhVUrq39) - great menu, good decor & reasonable prices.
   The quinoa chicken soup was not as good as Kushkay's though, so I'd skip that next time.
-  The guinea pig was fine dining, but the quarters had little meat, mostly mash base & fancy vegetables and .
+  The guinea pig was fine dining, but the quarters had little meat, mostly mash base & fancy vegetables.
   I would go with the alpaca next time.
   The _"Despertar De La Luna"_ drink of blueberry, coconut cream and hierba buena (mixed herbs) was surprisingly good.
   I was going to haggle over whether this deserved its 4.9 star rating until I tried their dessert.
@@ -228,6 +228,10 @@ Wifi 52/36 Mbit/s
   I blew the budget at $40 here though, next time skip the soup, that wasn't worth the cost - get it at KusyKay instead
   if you're in the mood for soup as it's the same price but much better there.
   WiFi 69/70 Mbit/s
+- [Qampaq Restaurant](https://maps.app.goo.gl/yPhwECuPP1FX3gzL8) - excellent Alpaca skewers with crispy potatoes, but
+  a difficult walk uphill at low altitude.
+  Nice view from the upper level though.
+  Has wifi
 - [Yaku Restaurant](https://maps.app.goo.gl/qtJYgN51wbVAvX3h8) - the lomo saltado alpaca was very good quality, and the
   chocolate brownie dessert was stuffing as it was 3 mid-sized brownie wedges with a small house made fruit ice cream
   in the middle - 2 people who aren't greedy could share this one.
