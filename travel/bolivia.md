@@ -5,8 +5,13 @@
 - [Summary](#summary)
 - [Currency Issue](#currency-issue)
 - [La Paz](#la-paz)
+  - [El Alto Airport](#el-alto-airport)
   - [Best Areas to Stay in La Paz](#best-areas-to-stay-in-la-paz)
   - [Taxi Apps in La Paz](#taxi-apps-in-la-paz)
+  - [Restaurants in La Paz](#restaurants-in-la-paz)
+- [Uyuni](#uyuni)
+  - [Taxis in Uyuni](#taxis-in-uyuni)
+  - [Restaurants in Uyuni](#restaurants-in-uyuni)
 
 <!-- INDEX_END -->
 
@@ -59,6 +64,12 @@ I had heard a couple guys in Cusco complaining they spent a week here and wishin
 
 I would say 1 day stopover and then move on.
 
+### El Alto Airport
+
+The airport is very small and the domestic departure lounge to Uyuni (for visiting the salt flats) has 3 cafes,
+one of which was closed at 7am, and a couple souvenir shops.
+There was not much to eat.
+
 ### Best Areas to Stay in La Paz
 
 Don't stay in La Paz, transit through and go somewhere nice instead, but if you have to stay 1-2 nights for flights:
@@ -72,6 +83,15 @@ Don't stay in La Paz, transit through and go somewhere nice instead, but if you 
   more modern. Slightly lower altitude, good for acclimatizing, with upscale dining and shopping. Less touristy, more
   residential
 
+<!--
+
+Greenhouse was pretty basic, the fridge gets locked and the taps only have cold water, which is horrible for shaving.
+The front gate cannot be opened from inside, there are electric release buttons at the reception desk and kitchen.
+Do not stay here again.
+Wifi 202/34 Mbit/s
+
+-->
+
 ### Taxi Apps in La Paz
 
 - [InDrive](https://indrive.com/) - my favourite, usually half the price of Uber but cash only
@@ -82,3 +102,58 @@ Don't stay in La Paz, transit through and go somewhere nice instead, but if you 
   rather than converting to market rate cash as per the [Currency Issue](#currency-issue) section above
 - [Yango](https://yango.com/es_bo/)
 - [EcoTaxi Bolivia](https://ecotaxibolivia.com/)
+
+### Restaurants in La Paz
+
+- [Biofilia Café](https://maps.app.goo.gl/VNjTY3vQjsy7mwnP8) - the most gentrified coffee shop I’ve seen in La Paz
+  with an excellent menu of both drinks and desserts -
+  there are 3 dessert sections,
+  one of which is a Biofit healthy option with gluten free and sugar alternatives like date syrup and stevia.
+  Must visit.
+  The Acai Latte was decent.
+  The classic bruschetta was one large toast with lots of tomatoes, it was good although could use more garlic and
+  onion.
+  The Pistachio & Matcha Mouse is their most popular dessert but it was sold out.
+  The Bunuelos Biofilia with home made api was good though, just the right amount of sweetness, although I wish it was
+  bigger.
+  The Copoazu Lassi was really good, just the right amount of sweetness too, a local twist on an indian idea.
+  I could eat here all day, the place is actually vegetarian and vegan but I didn't notice until later on because the
+  menu was so good.
+  WiFi 25/33 Mbit/s
+- [Beef & Beer](https://maps.app.goo.gl/nKqkXhhhbZqMHv7w8) - the Beef&Beer Sirloin steak was great, covered in fried
+  onions and red peppers, with good fries and a side salad.
+  The pineapple with ice cream and dulce de leche was good too
+  I was very satisfied with the food here.
+  Has wifi
+- [Hipermaxi](https://maps.app.goo.gl/Y13xM4XfvMDgNPca8) - supermarket
+
+## Uyuni
+
+[Uyuni](https://maps.app.goo.gl/fAbtQgzw4HNeFRFp9) is even worse than La Paz, it barely has gravel roads as of Jan 2026,
+which were flooded all over town making it hard to cross streets.
+
+After 55 countries I have never seen such a 3rd world place.
+
+### Taxis in Uyuni
+
+Neither Uber nor InDrive worked for me in Uyuni.
+
+Uber had absolutely nothing and InDrive had only 2 drivers that ignored my request, even when I raised it to 25 BOB.
+
+I ended up taking an airport taxi, usually a last resort, after fixing the price to 20 BOB up front.
+
+### Restaurants in Uyuni
+
+<!--
+
+[Piedra Blanca Hostel](https://maps.app.goo.gl/DrShnMTTrcUcRnvx9) is on the southwest edge of town,
+about 10-15 minutes walk. Has hot water all day including the taps for shaving.
+Wifi 38/22 Mbit/s
+
+-->
+
+- [Llama Cafe](https://maps.app.goo.gl/oKFPxdX3pCcD2ABQ6) - gentrified cafe. The bruschetta was good with lots of fresh
+  tomato on it, and the porridge with fruits was good too (mango, banana and strawberry).
+  Has wifi
+- [Rufos Burger](https://maps.app.goo.gl/1jGrjquuaNun51JQ6) - the Lomito Rofos is basically a croissant with a very thin
+  beef strip, ham, egg and tomato
