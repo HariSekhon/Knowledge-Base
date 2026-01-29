@@ -137,6 +137,19 @@ Wifi 202/34 Mbit/s
   Has wifi
 - [Hipermaxi](https://maps.app.goo.gl/Y13xM4XfvMDgNPca8) - supermarket
 
+Not Recommended:
+
+- [Sushi Udon]() - cheap but not worth it at all - I have no idea how this place could possibly receive a 4.8 rating,
+  it is not authentic or even good quality.
+  The udon is not authentic, it's just spaghetti, and the sushi is just rice with whatever ingredients.
+  Don't waste one of your meals on this place.
+  Doesn't have wifi
+
+TODO:
+
+- [La Rufina Restaurant](https://maps.app.goo.gl/1gqKQai727rwRjmr8) - upmarket restaurant
+- [La Capital Hamburguesas](https://maps.app.goo.gl/cWg7QYnJJw6Reu4S7) - 4.2, burgers
+
 ## Uyuni
 
 [Uyuni](https://maps.app.goo.gl/fAbtQgzw4HNeFRFp9) is even worse than La Paz, it barely has gravel roads as of Jan 2026,
