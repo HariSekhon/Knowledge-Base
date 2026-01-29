@@ -111,6 +111,13 @@ Wifi 202/34 Mbit/s
 - [Yango](https://yango.com/es_bo/)
 - [EcoTaxi Bolivia](https://ecotaxibolivia.com/)
 
+### Attractions in La Paz
+
+I am struggling to make this section.
+
+- [Plaza Murillo](https://maps.app.goo.gl/qRzPnRrBW3Dapjch6)
+- [Sagarnaga](https://maps.app.goo.gl/Ed5VRPfKrAaDBVNs7) - tourist shops street
+
 ### Restaurants in La Paz
 
 - [Biofilia Café](https://maps.app.goo.gl/VNjTY3vQjsy7mwnP8) - the most gentrified coffee shop I’ve seen in La Paz
