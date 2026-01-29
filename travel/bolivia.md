@@ -151,6 +151,7 @@ TODO:
 - [La Rufina Restaurant](https://maps.app.goo.gl/1gqKQai727rwRjmr8) - 4.5, upmarket restaurant
 - [El caldero inglés](El caldero inglés) - 4.8 - The English Cauldron cafe
 - [La Capital Hamburguesas](https://maps.app.goo.gl/cWg7QYnJJw6Reu4S7) - 4.2, burgers
+- [Hiro's](https://maps.app.goo.gl/BqbVWA4M5XgD53wV7) - 4.5, sushi
 
 ## Uyuni
 
