@@ -221,7 +221,7 @@ like much of the rest of the world
 - [Uruguay](travel/uruguay.md) TODO
 - [Brazil](travel/brazil.md) TODO
 - [Paraguay](travel/paraguay.md) TODO
-- [Veneuela](travel/venezuela.md) TODO
+- [Venezuela](travel/venezuela.md) TODO
 
 -->
 
