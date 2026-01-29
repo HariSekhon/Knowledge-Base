@@ -19,7 +19,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Performance Falls through the floor on last 5-10% of battery life](#performance-falls-through-the-floor-on-last-5-10-of-battery-life)
 - [Terminal](#terminal)
 - [Homebrew - Package Management](#homebrew---package-management)
-- [Mas - CLI for App Store Apps Management](#mas---cli-for-app-store-apps-management)
+- [Mas - App Store Apps Management](#mas---app-store-apps-management)
 - [Activity Monitor](#activity-monitor)
 - [Force Quit Applications](#force-quit-applications)
 - [Stats Bar](#stats-bar)
@@ -197,7 +197,7 @@ The best most widely used package manager for Mac.
 See the [Homebrew.md](brew.md) page for how to use it and great package lists I've spent years discovering and
 building up.
 
-## Mas - CLI for App Store Apps Management
+## Mas - App Store Apps Management
 
 Command line interface to the macOS App Store.
 
