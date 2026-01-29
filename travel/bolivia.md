@@ -135,6 +135,11 @@ Wifi 202/34 Mbit/s
   The pineapple with ice cream and dulce de leche was good too
   I was very satisfied with the food here.
   Has wifi
+- [Inti Restaurant Café Bar](https://maps.app.goo.gl/WkqWwAB6PdbWiggX7) - the paiche prehistoric fish ceviche was red
+  not white fish.
+  The juice had sugar in it, apparently that's what they call natural in Bolivia.
+  Ask specifically for no sugar.
+  WiFi was full signal but intermittent traffic, unusable
 - [Hipermaxi](https://maps.app.goo.gl/Y13xM4XfvMDgNPca8) - supermarket
 
 Not Recommended:
@@ -151,6 +156,7 @@ TODO:
 
 - [La Rufina Restaurant](https://maps.app.goo.gl/1gqKQai727rwRjmr8) - 4.5, upmarket restaurant
 - [El caldero inglés](El caldero inglés) - 4.8 - The English Cauldron cafe
+- [Yati Restaurant café bar](https://maps.app.goo.gl/Lo5XTcXPVvD8vyDb9) - 4.6
 - [La Capital Hamburguesas](https://maps.app.goo.gl/cWg7QYnJJw6Reu4S7) - 4.2, burgers
 - [Hiro's](https://maps.app.goo.gl/BqbVWA4M5XgD53wV7) - 4.5, sushi
 
