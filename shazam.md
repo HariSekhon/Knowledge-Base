@@ -125,3 +125,7 @@ shazam_search_spotify_then_delete_track.sh
 ```
 
 This is a workaround to the removal of Spotify integration by Apple as the competitor to their own Apple Music.
+
+I have also written many more Spotify scripts available in the same repo under `spotify/` including Spotify track search
+and playlist addition, but I want to see the results and control them personally and then decide which list of playlists
+to add each song to.
