@@ -92,6 +92,8 @@ Gets the list of tracks (newest first) from the SQLite DB on the command line fo
 shazam_app_dump_tracks.sh
 ```
 
+You can pass it a limited number of tracks to return.
+
 You can also pass it an argument to only return `today` / `yesterday` / `week` or a specific `YYYY-MM-DD` date.
 
 In that case it returns the tracks in the order they were shazam'd first
@@ -99,11 +101,15 @@ In that case it returns the tracks in the order they were shazam'd first
 
 ### Deletes an `Artist` + `Track` name Combination
 
-Deletes a track from the Shazam app directly in is [SQLite](sqlite.md) DB:
+Deletes a given track from the Shazam app directly in is [SQLite](sqlite.md) DB:
 
 ```shell
-shazam_app_delete_track.sh
+shazam_app_delete_track.sh "<artist>" "<track>"
 ```
+
+If there are multiple instances of that song,
+it deletes all of them which is useful to automatically get rid of duplicates because sometimes we shazam more than once
+to be sure we have the right track.
 
 ### Search Spotify Desktop App for Shazam'd Track, Then Delete It From Shazam
 
