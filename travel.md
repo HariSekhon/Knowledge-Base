@@ -343,9 +343,10 @@ This has hit me travelling to:
 - [Colombia](travel/colombia.md) with Avianca airline
 - [Bolivia](travel/bolivia.md) with Aviana airline
 
-In [Panama](panama.md) and [Costa Rica](costarica.md) the immigration officer did ask for my outbound flight and
-accommodation, whereas in [Mexico](mexico.md) and [Colombia](colombia.md) they asked for my accommodation details but
-not my outbound flight.
+In [Panama](travel/panama.md) and [Costa Rica](travel/costarica.md)
+the immigration officer did ask for my outbound flight and accommodation,
+whereas in [Mexico](travel/mexico.md), [Colombia](travel/colombia.md) and [Bolivia](travel/bolivia.md)
+they asked for my accommodation details but not my outbound flight.
 
 Regardless, the airlines will not let you check-in without an outbound flight when travelling to some countries.
 
