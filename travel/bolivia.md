@@ -236,7 +236,8 @@ Not Recommended:
 
 TODO:
 
-- [Las Carmencitas](https://maps.app.goo.gl/mLAbz9mHjbFxUY617) - 4.8
+- [Las Carmencitas](https://maps.app.goo.gl/mLAbz9mHjbFxUY617) - 4.8 cafe, drinks & desserts, didn't see any real food
+  on menu
 - [Vigus](https://maps.app.goo.gl/BL7Aez68b32RxbjeA) - 4.7
 - [Mr Taco Cafe](https://maps.app.goo.gl/sDcKhKhsskdth5tK7) - 4.9
 - [Esther barbecue](https://maps.app.goo.gl/WxD18fybKHhd9Kcj8) - 4.7
