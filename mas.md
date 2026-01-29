@@ -12,6 +12,7 @@
   - [Get Status of a Specific App by ID](#get-status-of-a-specific-app-by-id)
   - [Get Detailed Info About a Specific App by ID](#get-detailed-info-about-a-specific-app-by-id)
   - [Install an App](#install-an-app)
+  - [Uninstall App](#uninstall-app)
   - [Save All Installed Packages](#save-all-installed-packages)
   - [Install All Packages from Saved List](#install-all-packages-from-saved-list)
   - [See Outdated Apps](#see-outdated-apps)
@@ -124,6 +125,12 @@ mas lucky Shazam
 
 ```text
 Warning: Already installed Shazam (897118787)
+```
+
+### Uninstall App
+
+```shell
+mas uninstall <app_id>
 ```
 
 ### Save All Installed Packages
