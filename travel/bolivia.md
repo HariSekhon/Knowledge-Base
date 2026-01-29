@@ -212,7 +212,7 @@ Wifi 38/22 Mbit/s
   beef strip, ham, egg and tomato
 - [Memos Coffee Bistro](https://maps.app.goo.gl/dB9irZjQMLARsQtm8) - I came for the acai bowl but they didn't have it.
   I tried the granola bowl instead and that was very good, up to gentrified coffee shop standards, yoghurt topped with
-  a row of strawberry and banana slices, blueberries, a couple dried orange slices, and of course some granola.
+  a row of strawberry and banana slices, blueberries, a couple dried orange slices, syrup, and of course some granola.
   Wifi 15/1 Mbit/s
 
 Not Recommended:
