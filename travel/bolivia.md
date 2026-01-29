@@ -172,6 +172,7 @@ TODO:
 - [Yati Restaurant café bar](https://maps.app.goo.gl/Lo5XTcXPVvD8vyDb9) - 4.6
 - [Oliva Restaurant - Cocina Abierta](https://maps.app.goo.gl/GT8uUaDXZjgHd3Cg7) - 4.6
 - [Café Restaurante Banais](https://maps.app.goo.gl/PbBGfTbMck4ghARu6) - 4.4
+- [Tambo](https://maps.app.goo.gl/ygKX3yo7Yodyu2bR8) - 4.4
 - [Popular Cocina Boliviana]https://maps.app.goo.gl/9RaXLCSMzVdLvkNL6) - 4.6
 - [La Capital Hamburguesas](https://maps.app.goo.gl/cWg7QYnJJw6Reu4S7) - 4.2, burgers
 - [Hiro's](https://maps.app.goo.gl/BqbVWA4M5XgD53wV7) - 4.5, sushi
