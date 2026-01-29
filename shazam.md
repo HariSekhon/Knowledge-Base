@@ -82,7 +82,7 @@ The Shazam desktop app uses Apple's _"Core Data"_ object persistence framework t
 
 I have written the following scripts to use this.
 
-From [DevOps-Bash-tools](devops-bash-tools.md):
+From [DevOps-Bash-tools](devops-bash-tools.md) under the `applescript/` directory:
 
 ### List Tracks from the Shazam Desktop App
 
