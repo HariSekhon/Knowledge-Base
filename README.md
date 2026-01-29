@@ -761,6 +761,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
   - [Video](video.md)
   - [Audio](audio.md)
   - [Spotify](spotify.md)
+  - [Shazam](shazam.md)
 - [Download Tools](downloads.md)
 - [File Upload & Code Pastebin Sites](upload-sites.md)
 - [Memes](memes.md)
