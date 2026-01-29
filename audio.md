@@ -22,9 +22,13 @@
 
 ## Spotify
 
+Popular streaming music service.
+
 See the [Spotify](spotify.md) page.
 
 ## Shazam
+
+Listens to a song and matches its name using an online database.
 
 See the [Shazam](shazam.md) page.
 
