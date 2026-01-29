@@ -30,7 +30,9 @@
 
 ## Summary
 
-A lot of people have raved to me about Peru and a lot of westerners go there for the famous Machu Picchu site.
+A lot of fellow travellers have raved to me about Peru.
+
+A lot of westerners go there for the famous Machu Picchu site.
 
 I was surprised how good the food was,
 and moderately priced by international standards (expect to pay \$25-30 for a decent steak meal as of Jan 2026).
