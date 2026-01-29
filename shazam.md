@@ -113,8 +113,12 @@ to be sure we have the right track.
 
 ### Search Spotify Desktop App for Shazam'd Track, Then Delete It From Shazam
 
-Searches for a track in the local Spotify desktop app, waits for a command line enter prompt, and then deletes the track
-from the Shazam SQLite DB - combines using the above two scripts along with my `applescript/keystrokes.sh` script:
+Searches for a track in the local Spotify desktop app,
+waits for a command line enter prompt before continuing (to allow you to add the song to a playlist),
+and then deletes the track from the Shazam SQLite DB.
+
+Utilizes my above two list and delete shazam scripts along with my `applescript/keystrokes.sh` script to
+automate searching in the Spotify desktop app.
 
 ```shell
 shazam_search_spotify_then_delete_track.sh
