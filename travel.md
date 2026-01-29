@@ -218,7 +218,10 @@ like much of the rest of the world
 
 - [Chile](travel/chile.md) TODO
 - [Argentina](travel/argentina.md) TODO
+- [Uruguay](travel/uruguay.md) TODO
 - [Brazil](travel/brazil.md) TODO
+- [Veneuela](travel/venezuela.md) TODO
+- [Paraguay](travel/paraguay.md) TODO
 
 -->
 
