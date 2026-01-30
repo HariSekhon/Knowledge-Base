@@ -6,6 +6,8 @@
   - [Best Areas to Stay in Santiago](#best-areas-to-stay-in-santiago)
   - [Restaurants in Santiago](#restaurants-in-santiago)
 - [Valparaíso & Viña del Mar](#valparaíso--viña-del-mar)
+  - [Valparaíso](#valparaíso)
+  - [Viña del Mar](#viña-del-mar)
 
 <!-- INDEX_END -->
 
@@ -37,5 +39,13 @@ TODO
 Adjacent coastal cites west of Santiago.
 
 About 2 hours each way by bus from Santiago.
+
+### Valparaíso
+
+Historic bohemian port city.
+
+### Viña del Mar
+
+Beach town.
 
 TODO: do a day trip here
