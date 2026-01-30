@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
 - [Santiago](#santiago)
   - [Best Areas to Stay in Santiago](#best-areas-to-stay-in-santiago)
   - [Restaurants in Santiago](#restaurants-in-santiago)
@@ -11,6 +12,12 @@
   - [Travel to Valparaíso & Viña del Mar](#travel-to-valparaíso--viña-del-mar)
 
 <!-- INDEX_END -->
+
+## Summary
+
+Uses the Chilean peso (CLP), which as of Feb 2026 is approximately just under 1,000 per 1 USD.
+
+They also reuse the `$` symbol to mean CLP not USD in prices.
 
 ## Santiago
 
