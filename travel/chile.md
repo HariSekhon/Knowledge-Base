@@ -48,13 +48,15 @@ Two adjacent coastal cites west of Santiago approximately 7-10km apart.
 
 They are about 2 hours away from Santiago by bus or 1.5 hours by car.
 
-You can see both in a single day.
+You can see both in a single day, the morning light is better for the street art in Valparaíso,
+while the afternoon light is better for the beach at Viña del Mar so do the morning in the former and the afternoon in
+the latter.
 
 ### Valparaíso
 
-Historic bohemian port city, UNESCO heritage site.
+Historic bohemian port city, with street art, narrow winding roads, and steep hills with lots of stairs.
 
-Winding and steep roads with lots of stairs.
+UNESCO world heritage site.
 
 ### Viña del Mar
 
