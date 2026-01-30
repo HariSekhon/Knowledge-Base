@@ -42,10 +42,10 @@ About 2 hours each way by bus from Santiago.
 
 ### Valparaíso
 
-Historic bohemian port city.
+Historic bohemian port city, UNESCO heritage site.
 
 ### Viña del Mar
 
-Beach town.
+Beach town, more modern.
 
 TODO: do a day trip here
