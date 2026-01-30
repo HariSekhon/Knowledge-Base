@@ -56,7 +56,7 @@ the latter.
 
 Historic bohemian port city, with street art, narrow winding roads, and steep hills with lots of stairs.
 
-There are funiculars - cable cars - which are both a solution to the steep hills and one of the attractions.
+There are _"funiculars"_ - cable cars - which are both a solution to the steep hills and one of the attractions.
 
 UNESCO world heritage site.
 
