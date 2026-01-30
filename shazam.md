@@ -118,8 +118,7 @@ waits for a command line enter prompt before continuing (to allow you to add the
 and then deletes the track from the Shazam SQLite DB.
 
 Utilizes my above two list and delete shazam scripts along with my
-`applescript/spotify_app_search.sh` and
-`applescript/keystrokes.sh` scripts to
+`applescript/spotify_app_search.sh` script to
 automate searching in the Spotify desktop app.
 
 ```shell
