@@ -7,6 +7,9 @@
 - [Summary](#summary)
 - [Desktop Player](#desktop-player)
   - [Clear Local Spotify Desktop Cache](#clear-local-spotify-desktop-cache)
+  - [Desktop Player Automation Code](#desktop-player-automation-code)
+    - [Spotify Desktop Search](#spotify-desktop-search)
+    - [Spotify Desktop CLI Automation](#spotify-desktop-cli-automation)
 - [Mobile Player](#mobile-player)
 - [Web Player](#web-player)
 - [Spotify API](#spotify-api)
@@ -58,6 +61,30 @@ On Linux:
 ```shell
 rm -rf ~/.cache/spotify/Storage
 ```
+
+### Desktop Player Automation Code
+
+#### Spotify Desktop Search
+
+I use the `applescript/spotify_app_search.sh` script which uses Applescript to automate switching to the desktop app and
+searching for a given track.
+
+This is used by `shazam_search_spotify_then_delete_track.sh` to automate
+searching [Shazam](shazam.md)'d tracks dumped from the Shazam desktop app's local SQLite DB
+in the Spotify Desktop app as a workaround to the lack of native Spotify integration
+with the desktop Shazam app.
+
+#### Spotify Desktop CLI Automation
+
+In [:octocat: HariSekhon/Spotify-tools](https://github.com/HariSekhon/Spotify-tools) there is a CLI for the Spotify
+desktop app to automate common actions such as play/pause/skip tracks, volume up/down,
+skip through each track after N seconds:
+
+```shell
+spotify-cmd.pl
+```
+
+I used to use this to skip through tracks automatically every N seconds to scour new tracks.
 
 ## Mobile Player
 
