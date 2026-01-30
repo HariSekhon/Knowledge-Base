@@ -212,6 +212,13 @@ Wifi 38/22 Mbit/s
   I tried the granola bowl instead and that was very good, up to gentrified coffee shop standards, yoghurt topped with
   a row of strawberry and banana slices, blueberries, a couple dried orange slices, syrup, and of course some granola.
   Wifi 15/1 Mbit/s
+- [Vigus](https://maps.app.goo.gl/BL7Aez68b32RxbjeA) - they'd sold out of both the llama steak and the beef pepper
+  steak, so I had to go with the lomo mantado (which is supposed to be similar to lomo saltado in Peru but wasn't).
+  Nevertheless it was decent, wholesome, steak on thick cut fries and 2 fried eggs on top,
+  and lots of rice and a couple items bit of side salad, tomato, cucumber and onion slices.
+  I left most of the rice as it wasn't that good and there were plenty of calories to fill up on, plus there was a loaf
+  of bread and olive oil and not balsamic vinegar.
+  Has wifi
 - [Rufos Burger](https://maps.app.goo.gl/1jGrjquuaNun51JQ6) - the Lomito Rofos is basically a croissant with a very thin
   beef strip, ham, egg and tomato.
   I think I might have gotten bacterial food poisoning from here though as I developed a headache (rare for me), and it
@@ -239,7 +246,6 @@ TODO:
 
 - [Las Carmencitas](https://maps.app.goo.gl/mLAbz9mHjbFxUY617) - 4.8 cafe, drinks & desserts, didn't see any real food
   on menu
-- [Vigus](https://maps.app.goo.gl/BL7Aez68b32RxbjeA) - 4.7
 - [Mr Taco Cafe](https://maps.app.goo.gl/sDcKhKhsskdth5tK7) - 4.9
 - [Esther barbecue](https://maps.app.goo.gl/WxD18fybKHhd9Kcj8) - 4.7
 - ["La chapaquita" Churrasquería](https://maps.app.goo.gl/VBvG7WRrp214EKATA) - 4.8
