@@ -8,6 +8,7 @@
 - [Valparaíso & Viña del Mar](#valparaíso--viña-del-mar)
   - [Valparaíso](#valparaíso)
   - [Viña del Mar](#viña-del-mar)
+  - [Travel to Valparaíso & Viña del Mar](#travel-to-valparaíso--viña-del-mar)
 
 <!-- INDEX_END -->
 
@@ -36,16 +37,28 @@ TODO
 
 ## Valparaíso & Viña del Mar
 
-Adjacent coastal cites west of Santiago.
+Two adjacent coastal cites west of Santiago approximately 7-10km apart.
 
-About 2 hours each way by bus from Santiago.
+They are about 2 hours away from Santiago by bus or 1.5 hours by car.
+
+You can see both in a single day.
 
 ### Valparaíso
 
 Historic bohemian port city, UNESCO heritage site.
 
+Winding and steep roads with lots of stairs.
+
 ### Viña del Mar
 
 Beach town, more modern.
+
+### Travel to Valparaíso & Viña del Mar
+
+You can get buses, but are advised to book online in advance:
+
+- [Turbus](https://www.turbus.cl/)
+- [PullmanBus](https://www.pullmanbus.cl/)
+- [FlixBus](https://www.flixbus.cl/)
 
 TODO: do a day trip here
