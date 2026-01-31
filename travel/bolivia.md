@@ -212,6 +212,20 @@ Wifi 38/22 Mbit/s
   I tried the granola bowl instead and that was very good, up to gentrified coffee shop standards, yoghurt topped with
   a row of strawberry and banana slices, blueberries, a couple dried orange slices, syrup, and of course some granola.
   Wifi 15/1 Mbit/s
+- [The Hot Spot Uyuni](https://maps.app.goo.gl/HPEjo42DhMAZD8WE7) - almost certainly the best restaurant in Uyuni, but
+  expensive.
+  The 5 course tasting menu was 210bs (\$30) and 7 course tasting menu was 280bs ($40),
+  which is outrageously expensive for this area, although the equivalent of a moderately priced meal in Europe.
+  The 7 courses were all very, very good -
+  so good the waiter has to take 1-2 minutes upon serving each one just to explain what you're looking at and what all
+  the ingredients are - highly innovative cuisine that would be hard to replicate, and of course it all tasted very
+  good.
+  The juice was a different story, it was watered down, and would have contained sugar if I hadn't
+  explicitly stated no sugar - I hadn't thought to explicitly state no water - the juice was not worthwhile.
+  There is also a 14bs charge for using a card payment.
+  Overall, this was worth the experience given such an elaborate fine dining meal would have cost \$200 upwards in the
+  West, so worth the merely internationally moderate price tag here.
+  WiFi 20/7 Mbit/s
 - [Vigus](https://maps.app.goo.gl/BL7Aez68b32RxbjeA) - they'd sold out of both the llama steak and the beef pepper
   steak, so I had to go with the lomo mantado (which is supposed to be similar to lomo saltado in Peru but wasn't).
   Nevertheless it was decent, wholesome, steak on thick cut fries and 2 fried eggs on top,
