@@ -3,9 +3,6 @@
 <!-- INDEX_START -->
 
 - [Best Video Players](#best-video-players)
-- [MPV](#mpv)
-  - [Resuming Playback At Last Position with MPV](#resuming-playback-at-last-position-with-mpv)
-  - [Screenshotting Video with MPV](#screenshotting-video-with-mpv)
 - [Buffer Streaming Videos in Browser](#buffer-streaming-videos-in-browser)
   - [Faststream](#faststream)
 - [Download Videos from Social Media](#download-videos-from-social-media)
@@ -30,8 +27,9 @@
   codec support for nearly every video format out there - it plays just about anything
 - [MPlayer](http://www.mplayerhq.hu/) - another good open source media player, can sometimes play partially broken files
   better than VLC which may crash / exit the file if it's incomplete, and better for triggering off the command line
-- [MPV](https://mpv.io/) - based on MPlayer but slightly more features like being able to skip to a time by clicking the
-  tracker bar at the bottom, and nice shorter `mpv` command for opening media files from the command line
+- [MPV](https://mpv.io/) - excellent open source video player based on MPlayer with more features and [Lua](lua.md)
+  scripting capabilities to customize its behaviours.
+  See the [MPV](mpv.md) page for more details
 
 ```shell
 brew install vlc
@@ -74,34 +72,6 @@ vlc "$file"
 ```
 
 This is already included in the alaises in the [DevOps-Bash-tools](devops-bash-tools.md) repo.
-
-## MPV
-
-### Resuming Playback At Last Position with MPV
-
-You can either append the `--save-position-on-quit` command line switch:
-
-```shell
-mpv --save-position-on-quit "$file"
-```
-
-or for more permanence, put it in a config file such as the one provided and auto-linked in
-[DevOps-Bash-tools](devops-bash-tools.md):
-
-[:octocat: HariSekhon/DevOps-Bash-tools - configs/.config/mpv/mpv.conf](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.config/mpv/mpv.conf)
-
-For more advanced conditional resume,
-I now instead use this [Lua](lua.md) code so I only resume for videos of a certain length
-and only if I am a certain amount of time into them:
-
-[:octocat: HariSekhon/DevOps-Bash-tools - configs/.config/mpv/scripts/resume-conditions.lua](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.config/mpv/scripts/resume-conditions.lua)
-
-### Screenshotting Video with MPV
-
-In `mpv` hitting the `s` key takes a screenshot,
-but if you type `Option`-`s` on macOS then it takes continual screenshots until you stop it.
-
-Watch out this can run up GB of space in thousands of screenshots quite quickly though.
 
 ## Buffer Streaming Videos in Browser
 
