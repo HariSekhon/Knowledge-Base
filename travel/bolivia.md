@@ -258,9 +258,9 @@ Not Recommended:
 
 TODO:
 
+- [Ensis](https://maps.app.goo.gl/Hk8XxE5gx9oj8gCn9) - 4.8, expensive here at over $20 per main but should be good
 - [Las Carmencitas](https://maps.app.goo.gl/mLAbz9mHjbFxUY617) - 4.8 cafe, drinks & desserts, didn't see any real food
   on menu
 - [Mr Taco Cafe](https://maps.app.goo.gl/sDcKhKhsskdth5tK7) - 4.9
 - [Esther barbecue](https://maps.app.goo.gl/WxD18fybKHhd9Kcj8) - 4.7
 - ["La chapaquita" Churrasquería](https://maps.app.goo.gl/VBvG7WRrp214EKATA) - 4.8
-- [Ensis](https://maps.app.goo.gl/Hk8XxE5gx9oj8gCn9) - 4.8, expensive here at over $20 per main but should be good
