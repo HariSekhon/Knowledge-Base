@@ -209,6 +209,8 @@ only the vegetarian or quick breakfast sandwich.
 
 It's mainly a coffee stop but they do have good seating and power sockets for your phone or laptop.
 
+Their chai tea is unfortunately just a black tea without milk, not a chai latte.
+
 ### Taxis in Uyuni
 
 Neither Uber nor InDrive worked for me in Uyuni.
