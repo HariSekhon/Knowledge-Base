@@ -212,7 +212,7 @@ only the vegetarian or quick breakfast sandwich.
 It's mainly a coffee stop but they do have good seating and power sockets for your phone or laptop.
 
 Their chai tea is unfortunately just a black tea without milk, not a chai latte,
-which is obvious in hindsight but I am sleepwalking at 7:50am to catch the 1 available flight out,
+which is obvious in hindsight but I was sleepwalking at 7:50am to catch the 1 available flight out,
 and there is no chai latte option on the menu.
 
 ### Taxis in Uyuni
