@@ -188,9 +188,6 @@ which were flooded all over town making it hard to cross streets.
 
 After 55 countries I have never seen such a 3rd world place.
 
-It's such a one horse town that there is only 1 flight a day in or out in the early mornings
-(I think it's the same plane).
-
 People travel here only to see the salt flats desert, which is a 1 day tour.
 The average price was around 300bs for the 1 day tour (\$40), although others in my group paid 500bs because they didn't
 check the prices with the other tour operators.
@@ -203,6 +200,9 @@ so everyone in my group was glad we didn't commit to a 2-3 day long tour.
 ### Uyuni Airport
 
 It's very small but functions.
+
+Uyuni such a one horse town that there is only 1 flight a day in or out in the early mornings
+(I think it's the same plane), and looking out the window there is nothing but dessert and mountains in the distance.
 
 There is an open wifi network `@Ruijie-sD67E` as of Jan 2026.
 
