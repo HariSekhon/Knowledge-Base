@@ -759,7 +759,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
   - [PDF](pdf.md)
   - [Image](image.md)
   - [Video](video.md)
-    - [MPV video player](mpv.md)
+    - [MPV](mpv.md)
     - [YouTube Downloader](yt-dlp.md)
   - [Audio](audio.md)
     - [Spotify](spotify.md)
