@@ -19,7 +19,7 @@
 
 ## Summary
 
-Bolivia is a very 3rd world country, I struggle to finda  reason to spend time and money visiting it.
+Bolivia is a very 3rd world country, I struggle to find a reason to spend time and money visiting it.
 
 The salt flats dessert in Uyuni is probably the only thing you might want to see once in your life for a 1 day trip.
 
