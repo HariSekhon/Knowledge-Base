@@ -193,7 +193,7 @@ The average price was around 300bs for the 1 day tour (\$40), although others in
 check the prices with the other tour operators.
 The 2 day tours were much more expensive at 800-1400bs (\$115-\$200) with various tour operators.
 
-There 2 and 3 day tours visit other places,
+The 2 and 3 day tours visit other places,
 but the 1 day tour was quite tiring as it was, arriving back at around 8:20pm,
 so everyone in my group was glad we didn't commit to a 2-3 day long tour.
 
