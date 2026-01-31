@@ -204,6 +204,8 @@ so everyone in my group was glad we didn't commit to a 2-3 day long tour.
 
 It's very small but functions.
 
+There is an open wifi network `@Ruijie-sD67E` as of Jan 2026.
+
 There is 1 cafe before security on the upper level but they did not have the American Breakfast from the menu,
 only the vegetarian or quick breakfast sandwich.
 
