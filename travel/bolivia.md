@@ -13,6 +13,7 @@
 - [Uyuni](#uyuni)
   - [Uyuni Airport](#uyuni-airport)
   - [Taxis in Uyuni](#taxis-in-uyuni)
+  - [The Salt Flats Tour](#the-salt-flats-tour)
   - [Restaurants in Uyuni](#restaurants-in-uyuni)
 
 <!-- INDEX_END -->
@@ -188,14 +189,7 @@ which were flooded all over town making it hard to cross streets.
 
 After 55 countries I have never seen such a 3rd world place.
 
-People travel here only to see the salt flats desert, which is a 1 day tour.
-The average price was around 300bs for the 1 day tour (\$40), although others in my group paid 500bs because they didn't
-check the prices with the other tour operators.
-The 2 day tours were much more expensive at 800-1400bs (\$115-\$200) with various tour operators.
-
-The 2 and 3 day tours visit other places,
-but the 1 day tour was quite tiring as it was, arriving back at around 8:20pm,
-so everyone in my group was glad we didn't commit to a 2-3 day long tour.
+People travel here only to see the salt flats desert, described in [The Salt Flats](#the-salt-flats-tour) section below.
 
 ### Uyuni Airport
 
@@ -215,6 +209,11 @@ Their chai tea is unfortunately just a black tea without milk, not a chai latte,
 which is obvious in hindsight but I was sleepwalking at 7:50am to catch the only available flight out,
 and there is no chai latte option on the menu.
 
+There is a downstairs toilet and an upstairs toilet next to the cafe,
+but it has a single cubile that doesn't flush properly and there was no running water in the tap,
+just a jug with water next to the sink - I wasn't joking when I called this place 3rd world - but at least there is a
+soap dispenser!
+
 ### Taxis in Uyuni
 
 Neither Uber nor InDrive worked for me in Uyuni.
@@ -222,6 +221,35 @@ Neither Uber nor InDrive worked for me in Uyuni.
 Uber had absolutely nothing and InDrive had only 2 drivers that ignored my request, even when I raised it to 25 BOB.
 
 I ended up taking an airport taxi, usually a last resort, after fixing the price to 20 BOB up front.
+
+### The Salt Flats Tour
+
+The salt flats dessert tour is a 1 day tour.
+The average price was around 300bs for the 1 day tour (\$40), although others in my group paid 500bs because they didn't
+check the prices with the other tour operators.
+The 2 day tours were much more expensive at 800-1400bs (\$115-\$200) with various tour operators.
+
+The 2 and 3 day tours visit other places,
+but the 1 day tour was quite tiring as it was, arriving back at around 8:20pm,
+so everyone in my group was glad we didn't commit to a 2-3 day long tour.
+
+Go to the toilet at the Colchani market (second stop, after the train cemetery) as it's worse later on at the
+salt sculptures, and in between then during the lunch on the salt flats there is nowhere to go there.
+
+The salt sculptures location is an extra 20bs entrance fee not included with any tour.
+
+There is also a maze at the salt sculptures, which will likely take you 20 minutes to find your way in and
+out of.
+
+I do not recommend the toilets at the salt scultures unless you really need to - they are horrid,
+they don't flush and absolutely stink from the waste that doesn't disappear -
+there is just a guy who just scoops and pours one jug of water from a big water tub after each person goes,
+and there is no running water in the tap either.
+Trying to scoop some water from the tub next to the sink feels like it makes your hand dirtier or feel weird,
+it seems to be that diluted blue sanitizing water.
+
+If you can I'd wait for the toilet at the last stop where they have a coffee shop that should be better -
+it can't possibly be any worse than the toilets at the salt scultures!
 
 ### Restaurants in Uyuni
 
