@@ -214,11 +214,11 @@ surprisingly still do not speak English.
 
 #### South America
 
+- [Chile](travel/chile.md)
 - [Colombia](travel/colombia.md) ⭐
 - [Ecuador](travel/ecuador.md)
 - [Peru](travel/peru.md) ⭐
 - [Bolivia](travel/bolivia.md)
-- [Chile](travel/chile.md)
 
 <!--
 
