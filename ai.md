@@ -92,6 +92,9 @@ So simple knowledge recall a non-thinking model with sufficient and faster.
 
 Thinking models may give better results for complex problem solving, such as debugging code.
 
+There is usually a drop down or button in the web page to switch between the different generations of models,
+some of which are thinking, some of which aren't, so you can tune which one is more appropriate to your use case.
+
 ## Chat LLMs
 
 ### ChatGPT
