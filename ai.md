@@ -9,6 +9,8 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 - [Learning](#learning)
 - [Run AI with API](#run-ai-with-api)
 - [Chat LLM Tips](#chat-llm-tips)
+  - [Reliability](#reliability)
+  - [Current Knowledge](#current-knowledge)
   - [Context Windows](#context-windows)
   - [Thinking vs Non-Thinking Models](#thinking-vs-non-thinking-models)
 - [Chat LLMs](#chat-llms)
@@ -76,6 +78,22 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 - [Replicate](https://replicate.com/)
 
 ## Chat LLM Tips
+
+### Reliability
+
+LLMs are probabilistic and sometimes hallucinate wrong answers.
+
+You should be double checking answers, but this leads to an obvious problem,
+what is the point of asking something when you are not confident of the answers?
+
+### Current Knowledge
+
+Since pre-training is expensive and time consuming, LLMs are often a few months out of date.
+
+More recent LLM models (ChatGPT, Perplexity)
+now detect and search the internet for knowledge
+not contained in them model in order to deliver answers on things that are more recent,
+such as new TV episodes or current events.
 
 ### Context Windows
 
