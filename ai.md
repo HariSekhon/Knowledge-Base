@@ -33,6 +33,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Wordly.ai](#wordlyai)
   - [Otter.ai](#otterai)
   - [Plaud.ai](#plaudai)
+  - [Whisper Apps](#whisper-apps)
   - [OpenAI Whisper](#openai-whisper)
     - [OpenAI Whisper Install](#openai-whisper-install)
     - [OpenAI Whisper Run CLI](#openai-whisper-run-cli)
@@ -248,6 +249,12 @@ Proprietary subscription, not bothering with it, used OpenAI Whisper below for f
 <https://www.plaud.ai/>
 
 Portable devices to record and transcript using AI.
+
+### Whisper Apps
+
+- SuperWhisper
+- WisprFlow
+- MacWhisper
 
 ### OpenAI Whisper
 
