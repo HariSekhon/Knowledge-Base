@@ -75,9 +75,15 @@ I would say 1 day stopover and then move on.
 
 ### El Alto Airport
 
-The airport is very small and the domestic departure lounge to Uyuni (for visiting the salt flats) has 3 cafes,
-one of which was closed at 7am, and a couple souvenir shops.
+The airport is very small with limited food options past security.
+
+There are better food options before security.
+
+The domestic departure lounge to Uyuni (for visiting the salt flats) has 3 cafes,
+one of which was closed at 7am, the main one was just a Juan Valdez coffee shop chain, and a couple souvenir shops.
 There was not much to eat.
+
+In the international lounge section there is one more cafe and 3 souvenir shops.
 
 ### Best Areas to Stay in La Paz
 
