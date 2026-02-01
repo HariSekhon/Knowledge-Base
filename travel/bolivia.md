@@ -102,6 +102,7 @@ Wifi 202/34 Mbit/s
 
 [Lobo](https://maps.app.goo.gl/pRXwxaABxn8BTTNm9) - the en-suite tap had only cold water and there was virtually no
 hot water because the water pressure on the hot water tap was too low pressure for it to come out.
+Noisy even at midnight due to the rooftop bar.
 Do not stay here again.
 Wifi varied 2/3 Mbit/s to 54/3 Mbit/s but several of its 4-5 networks are unreliable
 
