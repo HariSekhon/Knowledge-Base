@@ -258,7 +258,8 @@ it can't possibly be any worse than the toilets at the salt scultures!
 <!--
 
 [Piedra Blanca Hostel](https://maps.app.goo.gl/DrShnMTTrcUcRnvx9) is on the southwest edge of town,
-about 10-15 minutes walk. Has hot water all day including the taps for shaving.
+about 10-15 minutes walk. Has hot water all day including the taps for shaving. Includes breakfast
+with scrambled eggs, juice, cereal and watermelon. Quite good overall.
 Wifi 38/22 Mbit/s
 
 -->
