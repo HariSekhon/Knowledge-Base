@@ -355,15 +355,22 @@ print(result["text"])
 
 ### Image
 
+Image generation AIs - many LLMs can often do this from their prompts, sometimes by outsourcing to another more spefici
+AI to return the image result to you:
+
+- [Grok](https://x.com/i/grok)
 - <https://www.meta.ai/>
 - OpenAI DALL-E 3
 
 ### Video
 
+Video generation AIs:
+
 - [InVideo AI](https://invideo.io/) - generate high production quality videos from text prompts
 - [LumaLabs Dream Machine](https://lumalabs.ai/dream-machine) - pics or video
 - [Kawping](https://www.kapwing.com/)
 - [Canva](https://www.canva.com/)
+- Sora
 
 <!--
 
