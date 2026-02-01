@@ -11,16 +11,24 @@
 
 You need this when travelling Latin America since most people don't speak English.
 
-| English         | Spanish             |
-|-----------------|---------------------|
-| Yes             | Si                  |
-| No              | No                  |
-| Please          | Por favor           |
-| Thank You       | Gracias             |
-| Very Good       | Muy Bueno           |
-| Beach           | Playa               |
-| Little          | Poco                |
-| Slightly Small  | Pequeno (pek-in-yo) |
+| English                        | Spanish                        |
+|--------------------------------|--------------------------------|
+| Yes                            | Si                             |
+| No                             | No                             |
+| Please                         | Por favor                      |
+| Thank You                      | Gracias                        |
+| Very Good                      | Muy Bueno                      |
+| Beach                          | Playa                          |
+| Little                         | Poco                           |
+| Slightly Small                 | Pequeno (pek-in-yo)            |
+| Do you speak English?          | Hablas Engles?                 |
+| I don't speak much spanish     | No comprende mucho la espanol  |
+| I am learning a little spanish | Soy aprienendo poco la espanol |
+| Time                           | Tiempo                         |
+| Hour                           | Hora                           |
+| Now                            | Ahora                          |
+| Where                          | Donde                          |
+| Toilet                         | Bano (ban-yo)                  |
 
 ## Food
 
