@@ -256,6 +256,9 @@ Portable devices to record and transcript using AI.
 - WisprFlow
 - MacWhisper
 
+Tip: bind a hotkey to record audio to text into an LLM box and just correct esoteric proper nouns that don't transcribe
+properly, then hit enter.
+
 ### OpenAI Whisper
 
 [:octocat: openai/whisper](https://github.com/openai/whisper)
