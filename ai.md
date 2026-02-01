@@ -26,6 +26,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Current Knowledge](#current-knowledge)
   - [Context Windows](#context-windows)
   - [Thinking vs Non-Thinking Models](#thinking-vs-non-thinking-models)
+  - [Tool Use](#tool-use)
 - [Text to Speech](#text-to-speech)
 - [Speech to Text](#speech-to-text)
   - [Wordly.ai](#wordlyai)
@@ -207,6 +208,13 @@ Thinking models may give better results for complex problem solving, such as deb
 
 There is usually a drop down or button in the web page to switch between the different generations of models,
 some of which are thinking, some of which aren't, so you can tune which one is more appropriate to your use case.
+
+### Tool Use
+
+Some LLMs like ChatGPT recognize when to outsource to tools to get answers,
+such as running a Python interpreter and then feeding the result back - a simple example is a basic multiplication that
+can be done via memory recall, like we humans do, vs a more complex maths calculation that it needs to use a calculator
+or programming interpreter like Python to solve.
 
 ## Text to Speech
 
