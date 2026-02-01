@@ -9,6 +9,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 - [Learning](#learning)
 - [Run AI with API](#run-ai-with-api)
 - [Chat LLM Tips](#chat-llm-tips)
+  - [Thinking vs Non-Thinking Models](#thinking-vs-non-thinking-models)
 - [Chat LLMs](#chat-llms)
   - [ChatGPT](#chatgpt)
   - [Deepseek](#deepseek)
@@ -78,6 +79,15 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 Since LLMs are predicting the next word based on tokens,
 start a New Chat for a clean context when switching topics to improve the accuracy and speed of the response
 without the model getting distracted or confused by previous tokens in the context window.
+
+### Thinking vs Non-Thinking Models
+
+Thinking models have better reasoning but they are slower and more expensive to run,
+and therefore usually behind paywall subscriptions in the services below.
+
+So simple knowledge recall a non-thinking model with sufficient and faster.
+
+Thinking models may give better results for complex problem solving, such as debugging code.
 
 ## Chat LLMs
 
