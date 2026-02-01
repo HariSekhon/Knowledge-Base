@@ -37,8 +37,9 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Asia](#asia)
   - [Africa & Middle East](#africa--middle-east)
   - [North America](#north-america)
+  - [Central & South America](#central--south-america)
     - [Central America](#central-america)
-  - [South America](#south-america)
+    - [South America](#south-america)
 - [Booking Sites](#booking-sites)
 - [Travel Checklist](#travel-checklist)
 - [Flights](#flights)
@@ -189,12 +190,19 @@ Country pages with specific tips for each country:
 - [USA](travel/usa.md)
 - [Canada](travel/canada.md)
 
-#### Central America
+### Central & South America
 
 Capital cities here are not the attraction, but more transit points - the attractions are usually the coasts, nature,
 volcanos, or historic archaeological sites.
 
-[Spanish Crash Course](travel/spanish.md) - you will need this for the following countries:
+Has adopted the American tipping culture, so expect to add 10% service and often menus do not include taxes,
+which can be another 12-17%, so factor in an additional 25% on any menu prices if you're budget conscious.
+
+[Spanish Crash Course](travel/spanish.md) - you will need this for the following countries as most people do not speak English outside
+of the hotels and more expensive tourist trap restaurants, even many taxi drivers who are used to many American tourists
+surprisingly still do not speak English.
+
+#### Central America
 
 - [Mexico](travel/mexico.md) ⭐
 - [Guatemala](travel/guatemala.md)
@@ -204,10 +212,7 @@ volcanos, or historic archaeological sites.
 - [Costa Rica](travel/costarica.md)
 - [Panama](travel/panama.md)
 
-### South America
-
-[Spanish Crash Course](travel/spanish.md) - you will need this for the following countries as most people don't speak English
-like much of the rest of the world
+#### South America
 
 - [Colombia](travel/colombia.md) ⭐
 - [Ecuador](travel/ecuador.md)
