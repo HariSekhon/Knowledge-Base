@@ -103,7 +103,7 @@ Wifi 202/34 Mbit/s
 [Lobo](https://maps.app.goo.gl/pRXwxaABxn8BTTNm9) - the en-suite tap had only cold water and there was virtually no
 hot water because the water pressure on the hot water tap was too low pressure for it to come out.
 Do not stay here again.
-Wifi 54/3 Mbit/s but several of its 4-5 networks are unreliable
+Wifi varied 2/3 Mbit/s to 54/3 Mbit/s but several of its 4-5 networks are unreliable
 
 -->
 
@@ -143,19 +143,29 @@ I am really struggling to make this section as this is not a tourist destination
   The Acai Latte was decent.
   The classic bruschetta was one large toast with lots of tomatoes, it was good although could use more garlic and
   onion.
-  The Pistachio & Matcha Mouse is their most popular dessert but it was sold out.
+  The Pistachio & Matcha Mousse is their most popular dessert but it was sold out.
   The Bunuelos Biofilia with home made api was good though, just the right amount of sweetness, although I wish it was
   bigger.
   The Copoazu Lassi was really good, just the right amount of sweetness too, a local twist on an indian idea.
   I could eat here all day, the place is actually vegetarian and vegan but I didn't notice until later on because the
   menu was so good.
-  They also have acai bowl and tropical fruit bowl,
+  They also have acai bowl and tropical fruit bowl.
   I wish I had more time to eat my way through their menu as this was the highlight of La Paz.
+  I went back for a second visit to try their Pistachio & Matcha Mousse dessert but found it disappointing, although
+  I enjoyed the bruchetta again and tried the
   WiFi 25/33 Mbit/s
 - [Beef & Beer](https://maps.app.goo.gl/nKqkXhhhbZqMHv7w8) - the Beef&Beer Sirloin steak was great, covered in fried
   onions and red peppers, with good fries and a side salad.
   The pineapple with ice cream and dulce de leche was good too
   I was very satisfied with the food here.
+  Has wifi
+- [La Rufina Restaurant](https://maps.app.goo.gl/1gqKQai727rwRjmr8) - upmarket restaurant at moderate price.
+  The Cole de Res was quite good - shredded oxtail in a demi-glaze sauce, with yuca puree
+  (similar to mashed potato made from mashed casava), sauteed vegetables and a smoky chimichurri sauce.
+  It's portion size was medium only so if you're very hungry you might be left wanting more
+  (I'd just had 3 courses at Biofilia so I was grateful for the reprieve).
+  The Mocochinchi drink made from peach was surprisingly nice, not too sweet,
+  with a half dehydrated peach in the glass too.
   Has wifi
 - [Inti Restaurant Café Bar](https://maps.app.goo.gl/WkqWwAB6PdbWiggX7) - the paiche prehistoric fish ceviche was red
   not white fish.
@@ -180,7 +190,6 @@ Not Recommended:
 TODO:
 
 - [Cafe Vida](https://maps.app.goo.gl/YEb3dS7KoRrhQCZk6) - 4.8, breakfast, smoothie bowls
-- [La Rufina Restaurant](https://maps.app.goo.gl/1gqKQai727rwRjmr8) - 4.5, upmarket restaurant
 - [El caldero inglés](El caldero inglés) - 4.8 - The English Cauldron cafe
 - [Yati Restaurant café bar](https://maps.app.goo.gl/Lo5XTcXPVvD8vyDb9) - 4.6
 - [Oliva Restaurant - Cocina Abierta](https://maps.app.goo.gl/GT8uUaDXZjgHd3Cg7) - 4.6
