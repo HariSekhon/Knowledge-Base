@@ -218,10 +218,10 @@ surprisingly still do not speak English.
 - [Ecuador](travel/ecuador.md)
 - [Peru](travel/peru.md) ⭐
 - [Bolivia](travel/bolivia.md)
+- [Chile](travel/chile.md)
 
 <!--
 
-- [Chile](travel/chile.md) TODO
 - [Argentina](travel/argentina.md) TODO
 - [Uruguay](travel/uruguay.md) TODO
 - [Brazil](travel/brazil.md) TODO
