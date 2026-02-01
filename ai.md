@@ -8,11 +8,6 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 
 - [Learning](#learning)
 - [Run AI with API](#run-ai-with-api)
-- [Chat LLM Tips](#chat-llm-tips)
-  - [Reliability](#reliability)
-  - [Current Knowledge](#current-knowledge)
-  - [Context Windows](#context-windows)
-  - [Thinking vs Non-Thinking Models](#thinking-vs-non-thinking-models)
 - [Chat LLMs](#chat-llms)
   - [ChatGPT](#chatgpt)
   - [Deepseek](#deepseek)
@@ -25,6 +20,11 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [SQL Chat](#sql-chat)
   - [Open Source LLMs](#open-source-llms)
     - [Ollama](#ollama)
+- [Chat LLM Tips](#chat-llm-tips)
+  - [Reliability](#reliability)
+  - [Current Knowledge](#current-knowledge)
+  - [Context Windows](#context-windows)
+  - [Thinking vs Non-Thinking Models](#thinking-vs-non-thinking-models)
 - [Text to Speech](#text-to-speech)
 - [Speech to Text](#speech-to-text)
   - [Wordly.ai](#wordlyai)
@@ -76,49 +76,6 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 ## Run AI with API
 
 - [Replicate](https://replicate.com/)
-
-## Chat LLM Tips
-
-### Reliability
-
-LLMs are probabilistic and sometimes hallucinate wrong answers.
-
-You should be double checking answers, but this leads to an obvious problem,
-what is the point of asking something when you are not confident of the answers?
-
-### Current Knowledge
-
-Since pre-training is expensive and time consuming, LLMs knowledge is often a few months out of date.
-
-More recent LLM models (ChatGPT, Grok, Perplexity)
-now detect and search the internet for knowledge
-not contained in them model in order to deliver answers on things that are more recent,
-such as new TV episodes or current events.
-
-If the model cannot do an internet search for the the new information,
-it will usually tell you that it doesn't contain the knowledge you've asked since it was trained before the relevant
-date.
-
-Models with internet search are more useful
-because you can use them to querying many recent web pages and summarize what you want to know very quickly.
-
-### Context Windows
-
-Since LLMs are predicting the next word based on tokens,
-start a New Chat for a clean context when switching topics to improve the accuracy and speed of the response
-without the model getting distracted or confused by previous tokens in the context window.
-
-### Thinking vs Non-Thinking Models
-
-Thinking models have better reasoning but they are slower and more expensive to run,
-and therefore usually behind paywall subscriptions in the services below.
-
-So simple knowledge recall a non-thinking model with sufficient and faster.
-
-Thinking models may give better results for complex problem solving, such as debugging code.
-
-There is usually a drop down or button in the web page to switch between the different generations of models,
-some of which are thinking, some of which aren't, so you can tune which one is more appropriate to your use case.
 
 ## Chat LLMs
 
@@ -186,6 +143,49 @@ The query response is very slow and prints a few words a second when using CPUs 
 Performance decline after consecutive questions.
 
 Why does the performance degrade after one query?
+
+## Chat LLM Tips
+
+### Reliability
+
+LLMs are probabilistic and sometimes hallucinate wrong answers.
+
+You should be double checking answers, but this leads to an obvious problem,
+what is the point of asking something when you are not confident of the answers?
+
+### Current Knowledge
+
+Since pre-training is expensive and time consuming, LLMs knowledge is often a few months out of date.
+
+More recent LLM models (ChatGPT, Grok, Perplexity)
+now detect and search the internet for knowledge
+not contained in them model in order to deliver answers on things that are more recent,
+such as new TV episodes or current events.
+
+If the model cannot do an internet search for the the new information,
+it will usually tell you that it doesn't contain the knowledge you've asked since it was trained before the relevant
+date.
+
+Models with internet search are more useful
+because you can use them to querying many recent web pages and summarize what you want to know very quickly.
+
+### Context Windows
+
+Since LLMs are predicting the next word based on tokens,
+start a New Chat for a clean context when switching topics to improve the accuracy and speed of the response
+without the model getting distracted or confused by previous tokens in the context window.
+
+### Thinking vs Non-Thinking Models
+
+Thinking models have better reasoning but they are slower and more expensive to run,
+and therefore usually behind paywall subscriptions in the services below.
+
+So simple knowledge recall a non-thinking model with sufficient and faster.
+
+Thinking models may give better results for complex problem solving, such as debugging code.
+
+There is usually a drop down or button in the web page to switch between the different generations of models,
+some of which are thinking, some of which aren't, so you can tune which one is more appropriate to your use case.
 
 ## Text to Speech
 
