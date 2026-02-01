@@ -212,9 +212,12 @@ some of which are thinking, some of which aren't, so you can tune which one is m
 ### Tool Use
 
 Some LLMs like ChatGPT recognize when to outsource to tools to get answers,
-such as running a Python interpreter and then feeding the result back - a simple example is a basic multiplication that
-can be done via memory recall, like we humans do, vs a more complex maths calculation that it needs to use a calculator
-or programming interpreter like Python to solve.
+such as running a
+[Python](python.md) or
+[Javascript](javascript.md) interpreter and then feeding the result back.
+
+A simple example is a basic multiplication that can be done via memory recall, like we humans do, versus a more complex
+maths calculation that it needs to use a calculator or programming interpreter like Python or Javascript to solve.
 
 ## Text to Speech
 
