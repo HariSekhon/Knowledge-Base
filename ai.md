@@ -99,6 +99,9 @@ If the model cannot do an internet search for the the new information,
 it will usually tell you that it doesn't contain the knowledge you've asked since it was trained before the relevant
 date.
 
+Models with internet search are more useful
+because you can use them to querying many recent web pages and summarize what you want to know very quickly.
+
 ### Context Windows
 
 Since LLMs are predicting the next word based on tokens,
