@@ -29,6 +29,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Thinking vs Non-Thinking Models](#thinking-vs-non-thinking-models)
   - [Tool Use](#tool-use)
   - [Audio Querying](#audio-querying)
+  - [Image Querying](#image-querying)
 - [Text to Speech](#text-to-speech)
 - [Speech to Text](#speech-to-text)
   - [Wordly.ai](#wordlyai)
@@ -234,6 +235,15 @@ Pro (paid-for) LLM versions can listen to audio and reply with audio. Sci-fi is 
 
 If you don't want to pay for a pro version you can use [Whisper Apps](#whisper-apps) to pre-load your audio into an LLM
 text box.
+
+### Image Querying
+
+Upload and image, have it transcribe the text and then ask questions about this eg. nutritional label from a product.
+
+Tip: first ask the LLM to transcribe it into text to ensure it is correctly _"seeing"_
+the same thing you are before you dive into asking questions.
+
+In the free tier there is usually a very limited number of image uploads in a time period so use them sparingly.
 
 ## Text to Speech
 
