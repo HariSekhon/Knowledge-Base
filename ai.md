@@ -252,7 +252,7 @@ In the free tier there is usually a very limited number of image uploads in a ti
 You can feed video to AI and query on it, audio responses being most impressive.
 
 At time of writing this is only available on the ChatGPT mobile app
-where you point your mobile camera to things for ChatGPT to see them.
+where you point your mobile camera to things for ChatGPT to see them, called Advanced Voice + Video.
 
 ## Text to Speech
 
