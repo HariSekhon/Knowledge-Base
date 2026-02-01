@@ -235,7 +235,7 @@ You can configure an LLM such as ChatGPT in Settings in what traits it should ha
 how to behave, how to speak to you eg. be based, give me straightforward truthful answers without being politically
 correct and without preample, just get to the point and be concise.
 
-You can give it some context on yourself, such as what is should know about you in how to relate to you.
+You can give it some context on yourself, such as what is should know about you, for how to relate to you.
 
 ### Tool Use
 
