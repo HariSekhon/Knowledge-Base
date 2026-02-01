@@ -368,7 +368,7 @@ Idea to app in seconds.
   - [CoPilot Chat Cookbook](https://docs.github.com/en/copilot/copilot-chat-cookbook)
 - [TabNine](https://www.tabnine.com) - support for all major IDEs including my favourite [IntelliJ](intellij.md), no longer a free tier
 - [Cursor AI](https://www.cursor.com) - separate Editor that requires download, limited completions in free edition
-  - uses other models like [Claude](#claude)
+  - calls APIs to use models like [Claude](#claude)
 - [Agentic](https://www.agentic.ai/)
 - [Windsurf](https://windsurf.com/editor)
 
