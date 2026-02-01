@@ -166,8 +166,8 @@ I am really struggling to make this section as this is not a tourist destination
   (I'd just had 3 courses at Biofilia so I was grateful for the reprieve).
   The Mocochinchi drink made from peach was surprisingly nice, not too sweet,
   with a half dehydrated peach in the glass too.
-  After the two more expensive restaurants in Uyuni, this place seemed like good at only 85 BOB (just over \$12)
-  for a main.
+  After the two more expensive restaurants in Uyuni, this place seemed like good value at only 85 BOB (just over \$12)
+  for a main and 15 BOB for a drink.
   Has wifi
 - [Inti Restaurant Café Bar](https://maps.app.goo.gl/WkqWwAB6PdbWiggX7) - the paiche prehistoric fish ceviche was red
   not white fish.
