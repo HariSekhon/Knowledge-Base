@@ -348,7 +348,8 @@ print(result["text"])
 
 ### Image
 
-<https://www.meta.ai/>
+- <https://www.meta.ai/>
+- OpenAI Dall-e 3
 
 ### Video
 
