@@ -166,7 +166,7 @@ It can be useful to give the same question to different LLMs and see how differe
 
 ### Few Shot Prompt
 
-Give the prompt more context and examples to improve it's accuracy.
+Give the prompt more context, instructions and examples to improve it's accuracy.
 
 I often also ask more than one question to reduce the number of round trips and time,
 although these should be in the same context and topic to avoid reducing the model accuracy.
