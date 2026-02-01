@@ -8,8 +8,8 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 
 - [Learning](#learning)
 - [Run AI with API](#run-ai-with-api)
-- [Chat](#chat)
-  - [LLM Tips](#llm-tips)
+- [Chat LLM Tips](#chat-llm-tips)
+- [Chat LLMs](#chat-llms)
   - [ChatGPT](#chatgpt)
   - [Deepseek](#deepseek)
   - [Grok](#grok)
@@ -73,13 +73,13 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 
 - [Replicate](https://replicate.com/)
 
-## Chat
-
-### LLM Tips
+## Chat LLM Tips
 
 Since LLMs are predicting the next word based on tokens,
 start a New Chat for a clean context when switching topics to improve the accuracy and speed of the response
 without the model getting distracted or confused by previous tokens in the context window.
+
+## Chat LLMs
 
 ### ChatGPT
 
