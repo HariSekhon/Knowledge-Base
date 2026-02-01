@@ -53,3 +53,8 @@ You can tell I've been learning Spanish off all the menus across Latin America..
 | Horchata          | Traditional rice milk drink, ranges from bland to overly sweet depending on the restaurant, I prefer Jamaica water as it is more consistently good |
 | _"Jamaica"_ water | Hibiscus red still drink, slightly sweet                                                                                                           |
 | Tamarind water    | Slightly sweet drink with a salty aftertaste                                                                                                       |
+| Jugo              | Juice (can contain sugar and water)                                                                                                                |
+| Zumo              | Fresh Squeeze Juice (without sugar or water added)                                                                                                 |
+| Sin Azucar        | Without Sugar                                                                                                                                      |
+| Sin Aqua          | Without Water [added]                                                                                                                              |
+| Aqua              | Water                                                                                                                                              |
