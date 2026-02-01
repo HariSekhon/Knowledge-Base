@@ -90,10 +90,14 @@ what is the point of asking something when you are not confident of the answers?
 
 Since pre-training is expensive and time consuming, LLMs knowledge is often a few months out of date.
 
-More recent LLM models (ChatGPT, Perplexity)
+More recent LLM models (ChatGPT, Grok, Perplexity)
 now detect and search the internet for knowledge
 not contained in them model in order to deliver answers on things that are more recent,
 such as new TV episodes or current events.
+
+If the model cannot do an internet search for the the new information,
+it will usually tell you that it doesn't contain the knowledge you've asked since it was trained before the relevant
+date.
 
 ### Context Windows
 
