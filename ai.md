@@ -349,7 +349,7 @@ print(result["text"])
 ### Image
 
 - <https://www.meta.ai/>
-- OpenAI Dall-e 3
+- OpenAI DALL-E 3
 
 ### Video
 
