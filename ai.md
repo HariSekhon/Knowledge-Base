@@ -88,7 +88,7 @@ what is the point of asking something when you are not confident of the answers?
 
 ### Current Knowledge
 
-Since pre-training is expensive and time consuming, LLMs are often a few months out of date.
+Since pre-training is expensive and time consuming, LLMs knowledge is often a few months out of date.
 
 More recent LLM models (ChatGPT, Perplexity)
 now detect and search the internet for knowledge
