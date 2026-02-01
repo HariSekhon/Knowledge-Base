@@ -28,6 +28,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Context Windows](#context-windows)
   - [Thinking vs Non-Thinking Models](#thinking-vs-non-thinking-models)
   - [Memory](#memory)
+  - [Custom Global Instructions](#custom-global-instructions)
   - [Tool Use](#tool-use)
   - [Audio Querying](#audio-querying)
   - [Image Querying](#image-querying)
