@@ -169,7 +169,7 @@ date.
 Models with internet search are more useful
 because you can use them to querying many recent web pages and summarize what you want to know very quickly.
 
-It's also important when querying for things that might change,
+It's also important when querying for things that might change, such as current events,
 such as asking about a given company or technology's capabilities, which could be added or updated any time,
 you want a model that can search and check the latest information on the internet for you.
 
