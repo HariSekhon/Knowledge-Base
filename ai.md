@@ -22,6 +22,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
     - [Ollama](#ollama)
 - [Chat LLM Tips](#chat-llm-tips)
   - [Features & Differences](#features--differences)
+  - [Few Shot Prompt](#few-shot-prompt)
   - [Reliability](#reliability)
   - [Safety](#safety)
   - [Current Knowledge](#current-knowledge)
@@ -162,6 +163,13 @@ Why does the performance degrade after one query?
 Different LLMs have different features and levels of sophistication in different areas.
 
 It can be useful to give the same question to different LLMs and see how different their results are.
+
+### Few Shot Prompt
+
+Give the prompt more context and examples to improve it's accuracy.
+
+I often also ask more than one question to reduce the number of round trips and time,
+although these should be in the same context and topic to avoid reducing the model accuracy.
 
 ### Reliability
 
