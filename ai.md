@@ -27,9 +27,11 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Current Knowledge](#current-knowledge)
   - [Context Windows](#context-windows)
   - [Thinking vs Non-Thinking Models](#thinking-vs-non-thinking-models)
+  - [Memory](#memory)
   - [Tool Use](#tool-use)
   - [Audio Querying](#audio-querying)
   - [Image Querying](#image-querying)
+  - [Video Querying](#video-querying)
 - [Text to Speech](#text-to-speech)
 - [Speech to Text](#speech-to-text)
   - [Wordly.ai](#wordlyai)
@@ -218,6 +220,14 @@ Thinking models may give better results for complex problem solving, such as deb
 
 There is usually a drop down or button in the web page to switch between the different generations of models,
 some of which are thinking, some of which aren't, so you can tune which one is more appropriate to your use case.
+
+### Memory
+
+You may have noticed that ChatGPT remembers things between chats.
+
+It can save memory about you automatically.
+
+You can also explicitly ask it to remember something important that might be useful to subsequent chats.
 
 ### Tool Use
 
