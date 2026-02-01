@@ -211,7 +211,7 @@ some of which are thinking, some of which aren't, so you can tune which one is m
 
 ### Tool Use
 
-Some LLMs like ChatGPT recognize when to outsource to tools to get answers,
+Some LLMs like ChatGPT and Claude recognize when to outsource to tools to get answers,
 such as automatically running a
 [Python](python.md) or
 [Javascript](javascript.md) interpreter and then feeding the result back.
