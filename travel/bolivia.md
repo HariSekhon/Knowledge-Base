@@ -94,10 +94,16 @@ Don't stay in La Paz, transit through and go somewhere nice instead, but if you 
 
 <!--
 
-Greenhouse was pretty basic, the fridge gets locked and the taps only have cold water, which is horrible for shaving.
+[Greenhouse](https://maps.app.goo.gl/ZxwFGGKmbXfxeTut8) was pretty basic, the fridge gets locked and the taps only have
+cold water, which is horrible for shaving.
 The front gate cannot be opened from inside, there are electric release buttons at the reception desk and kitchen.
 Do not stay here again.
 Wifi 202/34 Mbit/s
+
+[Lobo](https://maps.app.goo.gl/pRXwxaABxn8BTTNm9) - the en-suite tap had only cold water and there was virtually no
+hot water because the water pressure on the hot water tap was too low pressure for it to come out.
+Do not stay here again.
+Wifi 54/3 Mbit/s but several of its 4-5 networks are unreliable
 
 -->
 
