@@ -18,7 +18,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Meta AI](#meta-ai)
   - [Perplexity](#perplexity)
   - [SQL Chat](#sql-chat)
-  - [LLM](#llm)
+  - [Open Source LLMs](#open-source-llms)
     - [Ollama](#ollama)
 - [Text to Speech](#text-to-speech)
 - [Speech to Text](#speech-to-text)
@@ -118,7 +118,7 @@ Known to be better for coding.
 
 - [SQL Chat](https://github.com/sqlchat/sqlchat) - chat-based interface to querying DBs
 
-### LLM
+### Open Source LLMs
 
 #### Ollama
 
