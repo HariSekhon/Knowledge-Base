@@ -229,7 +229,7 @@ It can save memory about you automatically.
 
 You can also explicitly ask it to remember something important that might be useful to subsequent chats.
 
-### Custom Instructions
+### Custom Global Instructions
 
 You can configure an LLM such as ChatGPT in Settings in what traits it should have - ie.
 how to behave, how to speak to you eg. be based, give me straightforward truthful answers without being politically
