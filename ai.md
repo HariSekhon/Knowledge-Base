@@ -29,6 +29,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Thinking vs Non-Thinking Models](#thinking-vs-non-thinking-models)
   - [Memory](#memory)
   - [Custom Global Instructions](#custom-global-instructions)
+  - [Custom GPT](#custom-gpt)
   - [Tool Use](#tool-use)
   - [Audio Querying](#audio-querying)
   - [Image Querying](#image-querying)
@@ -237,6 +238,15 @@ how to behave, how to speak to you eg. be based, give me straightforward truthfu
 correct and without preample, just get to the point and be concise.
 
 You can give it some context on yourself, such as what is should know about you, for how to relate to you.
+
+### Custom GPT
+
+If you find yourself using a prompt preamble a lot,
+you can save it as a custom GPT and that way you don't have to repeat the instructions for the context,
+you can just paste in the unique bit and have it give you the answer with all the instructions and context of how you
+want it to respond.
+
+Think of this as a pre-loaded template prompt preamble stored under a new Custom GPT name.
 
 ### Tool Use
 
