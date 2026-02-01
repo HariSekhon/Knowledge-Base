@@ -370,7 +370,18 @@ Video generation AIs:
 - [LumaLabs Dream Machine](https://lumalabs.ai/dream-machine) - pics or video
 - [Kawping](https://www.kapwing.com/)
 - [Canva](https://www.canva.com/)
-- Sora
+- Sora by OpenAI
+- Veo-2 by Google
+
+<!-- Check these
+
+- Hunyuan
+- Runway Gen-3
+- Alibaba Cloud Wanx
+- Pika
+- Luma Ray 2
+
+-->
 
 <!--
 
