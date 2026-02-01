@@ -12,9 +12,10 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [ChatGPT](#chatgpt)
   - [Deepseek](#deepseek)
   - [Grok](#grok)
+  - [Google Gemini](#google-gemini)
+    - [Google AI Studio - Gemini](#google-ai-studio---gemini)
   - [Meta AI](#meta-ai)
   - [Perplexity](#perplexity)
-  - [Google AI Studio - Gemini](#google-ai-studio---gemini)
   - [SQL Chat](#sql-chat)
   - [LLM](#llm)
     - [Ollama](#ollama)
@@ -90,6 +91,14 @@ By Elon / X:
 
 <https://x.com/i/grok>
 
+### Google Gemini
+
+<https://gemini.google.com>
+
+#### Google AI Studio - Gemini
+
+<https://aistudio.google.com/>
+
 ### Meta AI
 
 <https://www.meta.ai/>
@@ -97,10 +106,6 @@ By Elon / X:
 ### Perplexity
 
 <https://www.perplexity.ai/>
-
-### Google AI Studio - Gemini
-
-<https://aistudio.google.com/>
 
 ### SQL Chat
 
