@@ -229,6 +229,14 @@ It can save memory about you automatically.
 
 You can also explicitly ask it to remember something important that might be useful to subsequent chats.
 
+### Custom Instructions
+
+You can configure an LLM such as ChatGPT in Settings in what traits it should have - ie.
+how to behave, how to speak to you eg. be based, give me straightforward truthful answers without being politically
+correct and without preample, just get to the point and be concise.
+
+You can give it some context on yourself, such as what is should know about you in how to relate to you.
+
 ### Tool Use
 
 Some LLMs like ChatGPT and Claude recognize when to outsource to tools to get answers,
