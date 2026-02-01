@@ -163,7 +163,8 @@ I am really struggling to make this section as this is not a tourist destination
   tubers (potato and sweet potato with 2 house sauces), which was supposed to be an appetizer and smaller portion but
   turned out to be overkill as it came on a bigger plate than expected and I end up feeling bloated for a long time, so
   after a long seated rest period ended up going straight to
-  [Circuito Público de Calistenia](https://maps.app.goo.gl/94mKSnPfSoVxdJvq9) to try to work it off.
+  [Circuito Público de Calistenia](https://maps.app.goo.gl/94mKSnPfSoVxdJvq9) described above to work it off before
+  dinner.
   WiFi 25/33 Mbit/s
 - [Beef & Beer](https://maps.app.goo.gl/nKqkXhhhbZqMHv7w8) - the Beef&Beer Sirloin steak was great, covered in fried
   onions and red peppers, with good fries and a side salad.
