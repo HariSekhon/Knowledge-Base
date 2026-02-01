@@ -22,7 +22,7 @@ You need this when travelling Latin America since most people don't speak Englis
 | Little                         | Poco                           |
 | Slightly Small                 | Pequeno (pek-in-yo)            |
 | Do you speak English?          | Hablas Engles?                 |
-| I don't speak much spanish     | No comprende mucho la espanol  |
+| I don't speak much spanish     | No hablas mucho la espanol     |
 | I am learning a little spanish | Soy aprienendo poco la espanol |
 | Time                           | Tiempo                         |
 | Hour                           | Hora                           |
