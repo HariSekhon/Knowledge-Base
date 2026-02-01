@@ -15,6 +15,8 @@
   - [Taxis in Uyuni](#taxis-in-uyuni)
   - [The Salt Flats Tour](#the-salt-flats-tour)
   - [Restaurants in Uyuni](#restaurants-in-uyuni)
+- [Cochabamba](#cochabamba)
+- [Santa Cruz de la Sierra](#santa-cruz-de-la-sierra)
 
 <!-- INDEX_END -->
 
@@ -320,3 +322,18 @@ TODO:
 - [Mr Taco Cafe](https://maps.app.goo.gl/sDcKhKhsskdth5tK7) - 4.9
 - [Esther barbecue](https://maps.app.goo.gl/WxD18fybKHhd9Kcj8) - 4.7
 - ["La chapaquita" Churrasquería](https://maps.app.goo.gl/VBvG7WRrp214EKATA) - 4.8
+
+## Cochabamba
+
+Apparently the gastronomic (food) capital of Bolivia.
+
+If I ever return to Bolivia I will want to put this to the test.
+
+The problem is that the cost of travel more than negates any food travel as you could instead just upgrade to high end
+or michelin star restaurants anywhere you happen to be in the world instead.
+
+## Santa Cruz de la Sierra
+
+Commercial centre.
+
+Only did a short layover here.
