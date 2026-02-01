@@ -28,6 +28,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Context Windows](#context-windows)
   - [Thinking vs Non-Thinking Models](#thinking-vs-non-thinking-models)
   - [Tool Use](#tool-use)
+  - [Audio Querying](#audio-querying)
 - [Text to Speech](#text-to-speech)
 - [Speech to Text](#speech-to-text)
   - [Wordly.ai](#wordlyai)
@@ -226,6 +227,13 @@ such as automatically running a
 
 A simple example is a basic multiplication that can be done via memory recall, like we humans do, versus a more complex
 maths calculation that it needs to use a calculator or programming interpreter like Python or Javascript to solve.
+
+### Audio Querying
+
+Pro (paid-for) LLM versions can listen to audio and reply with audio. Sci-fi is here.
+
+If you don't want to pay for a pro version you can use [Whisper Apps](#whisper-apps) to pre-load your audio into an LLM
+text box.
 
 ## Text to Speech
 
