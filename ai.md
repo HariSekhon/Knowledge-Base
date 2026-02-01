@@ -22,6 +22,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
     - [Ollama](#ollama)
 - [Chat LLM Tips](#chat-llm-tips)
   - [Reliability](#reliability)
+  - [Safety](#safety)
   - [Current Knowledge](#current-knowledge)
   - [Context Windows](#context-windows)
   - [Thinking vs Non-Thinking Models](#thinking-vs-non-thinking-models)
@@ -152,6 +153,22 @@ LLMs are probabilistic and sometimes hallucinate wrong answers.
 
 You should be double checking answers, but this leads to an obvious problem,
 what is the point of asking something when you are not confident of the answers?
+
+This is safer for simple things which you can immediately verify yourself,
+such as some bit of knowledge you forgot but recognize when you see it,
+or where it is giving you citation source links to web pages that you can click through to double check.
+
+### Safety
+
+It is not safe to just copy and paste code from AI -
+it is often not just sub-optimal but actually contains serious security vulnerabilities such as SQL Injection or
+Code Injection.
+
+Only veteran senior engineers who already know all this stuff and can spot and correct such things should be using AI
+for coding.
+
+You wouldn't for example let an AI handle anything important without knowing what you're doing in that field yourself so
+you can catch mistakes that could have serious real-life consequences.
 
 ### Current Knowledge
 
