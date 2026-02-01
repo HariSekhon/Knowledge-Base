@@ -1,9 +1,5 @@
 # Brazil
 
-## Sao Paolo
-
-TODO
-
 ## Rio de Janeiro
 
 TODO
@@ -11,3 +7,7 @@ TODO
 ### Rio Carnival
 
 <https://www.riocarnaval.org/es/fechas-de-carnaval/fechas>
+
+## Sao Paolo
+
+TODO
