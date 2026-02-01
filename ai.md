@@ -231,7 +231,9 @@ maths calculation that it needs to use a calculator or programming interpreter l
 
 ### Audio Querying
 
-Pro (paid-for) LLM versions can listen to audio and reply with audio. Sci-fi is here.
+Pro (paid-for) LLM versions can listen to audio and reply with audio.
+
+Sci-fi is here (and no, Siri and Alexa previously really didn't count).
 
 If you don't want to pay for a pro version you can use [Whisper Apps](#whisper-apps) to pre-load your audio into an LLM
 text box.
