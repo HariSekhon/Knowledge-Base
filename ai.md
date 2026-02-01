@@ -21,6 +21,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Open Source LLMs](#open-source-llms)
     - [Ollama](#ollama)
 - [Chat LLM Tips](#chat-llm-tips)
+  - [Features & Differences](#features--differences)
   - [Reliability](#reliability)
   - [Safety](#safety)
   - [Current Knowledge](#current-knowledge)
@@ -147,6 +148,12 @@ Performance decline after consecutive questions.
 Why does the performance degrade after one query?
 
 ## Chat LLM Tips
+
+### Features & Differences
+
+Different LLMs have different features and levels of sophistication in different areas.
+
+It can be useful to give the same question to different LLMs and see how different their results are.
 
 ### Reliability
 
