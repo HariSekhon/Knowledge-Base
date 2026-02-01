@@ -132,6 +132,11 @@ I am really struggling to make this section as this is not a tourist destination
 - [Plaza Murillo](https://maps.app.goo.gl/qRzPnRrBW3Dapjch6)
 - [Sagarnaga](https://maps.app.goo.gl/Ed5VRPfKrAaDBVNs7) - tourist shops street
 - [The Witches Market](https://maps.app.goo.gl/8DbmA3dwK8kjAbYx8)
+- [Plaza España](https://maps.app.goo.gl/2rGiCi2PqHf3U9iw7) - park
+  - [Circuito Público de Calistenia](https://maps.app.goo.gl/94mKSnPfSoVxdJvq9) - several free pull up bars and one pair
+    of olympic rings in the Plaza España park
+  - [Parque Urbano Central](https://maps.app.goo.gl/kbNdbqgxDxCQqyot6) - not as nice as expected due to main roads and
+    bridges running above it
 
 ### Restaurants in La Paz
 
@@ -152,7 +157,13 @@ I am really struggling to make this section as this is not a tourist destination
   They also have acai bowl and tropical fruit bowl.
   I wish I had more time to eat my way through their menu as this was the highlight of La Paz.
   I went back for a second visit to try their Pistachio & Matcha Mousse dessert but found it disappointing, although
-  I enjoyed the bruchetta again and tried the
+  The aguaymanto drink of dried goldenberry and peanut horchata in milk was reasonable if you're into milk-based drinks.
+  I enjoyed the bruchetta again, although they couldn't add more garlic as recommended as it was just using a garlic oil
+  which is why it was weak compared to a freshly chopped garlic like a pro would use, and I tried the sauteed andean
+  tubers (potato and sweet potato with 2 house sauces), which was supposed to be an appetizer and smaller portion but
+  turned out to be overkill as it came on a bigger plate than expected and I end up feeling bloated for a long time, so
+  after a long seated rest period ended up going straight to
+  [Circuito Público de Calistenia](https://maps.app.goo.gl/94mKSnPfSoVxdJvq9) to try to work it off.
   WiFi 25/33 Mbit/s
 - [Beef & Beer](https://maps.app.goo.gl/nKqkXhhhbZqMHv7w8) - the Beef&Beer Sirloin steak was great, covered in fried
   onions and red peppers, with good fries and a side salad.
