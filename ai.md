@@ -238,7 +238,8 @@ text box.
 ## Text to Speech
 
 - [ElevenLabs](https://elevenlabs.io)
-- [Google Notebook LM](notebooklm.google.com) - upload a document and it can generate a podcast episode summarizing it
+- [Google Notebook LM](https://notebooklm.google.com) - upload a document and it can generate a podcast episode
+  summarizing it
 
 ## Speech to Text
 
