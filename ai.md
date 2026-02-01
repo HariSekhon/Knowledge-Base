@@ -12,6 +12,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [ChatGPT](#chatgpt)
   - [Deepseek](#deepseek)
   - [Grok](#grok)
+  - [Claude](#claude)
   - [Google Gemini](#google-gemini)
     - [Google AI Studio - Gemini](#google-ai-studio---gemini)
   - [Meta AI](#meta-ai)
@@ -90,6 +91,12 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 By Elon / X:
 
 <https://x.com/i/grok>
+
+### Claude
+
+<https://claude.ai>
+
+Known to be better for coding.
 
 ### Google Gemini
 
