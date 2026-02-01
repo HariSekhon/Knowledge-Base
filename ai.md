@@ -9,6 +9,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 - [Learning](#learning)
 - [Run AI with API](#run-ai-with-api)
 - [Chat LLM Tips](#chat-llm-tips)
+  - [Context Windows](#context-windows)
   - [Thinking vs Non-Thinking Models](#thinking-vs-non-thinking-models)
 - [Chat LLMs](#chat-llms)
   - [ChatGPT](#chatgpt)
@@ -75,6 +76,8 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 - [Replicate](https://replicate.com/)
 
 ## Chat LLM Tips
+
+### Context Windows
 
 Since LLMs are predicting the next word based on tokens,
 start a New Chat for a clean context when switching topics to improve the accuracy and speed of the response
