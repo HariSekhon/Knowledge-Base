@@ -25,7 +25,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Few Shot Prompt](#few-shot-prompt)
   - [Reliability](#reliability)
   - [Safety](#safety)
-  - [Current Knowledge](#current-knowledge)
+  - [Current Knowledge - Internet Search](#current-knowledge---internet-search)
   - [Context Windows](#context-windows)
   - [Thinking vs Non-Thinking Models](#thinking-vs-non-thinking-models)
   - [Memory](#memory)
@@ -194,7 +194,7 @@ for coding.
 You wouldn't for example let an AI handle anything important without knowing what you're doing in that field yourself so
 you can catch mistakes that could have serious real-life consequences.
 
-### Current Knowledge
+### Current Knowledge - Internet Search
 
 Since pre-training is expensive and time consuming, LLMs knowledge is often a few months out of date.
 
