@@ -380,6 +380,7 @@ Video generation AIs:
 - Alibaba Cloud Wanx
 - Pika
 - Luma Ray 2
+- Hailuo T2V-01
 
 -->
 
