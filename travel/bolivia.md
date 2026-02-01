@@ -85,6 +85,8 @@ There was not much to eat.
 
 In the international lounge section there is one more cafe and 3 souvenir shops.
 
+There is free wifi on the `NAABOL` network with 5/80 Mbit/s speed.
+
 ### Best Areas to Stay in La Paz
 
 Don't stay in La Paz, transit through and go somewhere nice instead, but if you have to stay 1-2 nights for flights:
