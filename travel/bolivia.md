@@ -166,6 +166,8 @@ I am really struggling to make this section as this is not a tourist destination
   (I'd just had 3 courses at Biofilia so I was grateful for the reprieve).
   The Mocochinchi drink made from peach was surprisingly nice, not too sweet,
   with a half dehydrated peach in the glass too.
+  After the two more expensive restaurants in Uyuni, this place seemed like good at only 85 BOB (just over \$12)
+  for a main.
   Has wifi
 - [Inti Restaurant Café Bar](https://maps.app.goo.gl/WkqWwAB6PdbWiggX7) - the paiche prehistoric fish ceviche was red
   not white fish.
@@ -299,6 +301,7 @@ Wifi 38/22 Mbit/s
   There is also a 14bs charge for using a card payment.
   Overall, this was worth the experience given such an elaborate fine dining meal would have cost \$200 upwards in the
   West, so worth the merely internationally moderate price tag here.
+  Would be top pick if it wasn't for the price.
   WiFi 20/7 Mbit/s
 - [Vigus](https://maps.app.goo.gl/BL7Aez68b32RxbjeA) - they'd sold out of both the llama steak and the beef pepper
   steak, so I had to go with the lomo mantado (which is supposed to be similar to lomo saltado in Peru but wasn't).
@@ -332,7 +335,8 @@ Not Recommended:
 
 TODO:
 
-- [Ensis](https://maps.app.goo.gl/Hk8XxE5gx9oj8gCn9) - 4.8, expensive here at over $20 per main but should be good
+- [Ensis](https://maps.app.goo.gl/Hk8XxE5gx9oj8gCn9) - 4.8, the second most expensive restaurant I've seen in Uyuni
+  at over $20 per main but menu looks good, and it is quite a bit cheaper than Hotspot above
 - [Las Carmencitas](https://maps.app.goo.gl/mLAbz9mHjbFxUY617) - 4.8 cafe, drinks & desserts, didn't see any real food
   on menu
 - [Mr Taco Cafe](https://maps.app.goo.gl/sDcKhKhsskdth5tK7) - 4.9
