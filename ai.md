@@ -30,6 +30,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Memory](#memory)
   - [Custom Global Instructions](#custom-global-instructions)
   - [Custom GPT](#custom-gpt)
+    - [Custom Translator](#custom-translator)
   - [Tool Use](#tool-use)
   - [Audio Querying](#audio-querying)
   - [Image Querying](#image-querying)
@@ -247,6 +248,13 @@ you can just paste in the unique bit and have it give you the answer with all th
 want it to respond.
 
 Think of this as a pre-loaded template prompt preamble stored under a new Custom GPT name.
+
+#### Custom Translator
+
+You can use the Custom GPT feature to create a translator that will break down the translation into it's components
+and which you can then pose follow up questions to help you learn a language.
+
+This is much better than just using an old fashioned flat Google Translate or similar.
 
 ### Tool Use
 
