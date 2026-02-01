@@ -80,6 +80,8 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 
 [:octocat: Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 
+By OpenAI, not open, closed source, but the first public LLM.
+
 [OpenAI Cookbook](https://cookbook.openai.com/)
 
 ### Deepseek
@@ -88,15 +90,15 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 
 ### Grok
 
-By Elon / X:
-
 <https://x.com/i/grok>
+
+By X (formerly Twitter) and Elon Musk.
 
 ### Claude
 
 <https://claude.ai>
 
-Known to be better for coding.
+By Anthropic, known to be better for coding.
 
 ### Google Gemini
 
