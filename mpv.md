@@ -49,6 +49,7 @@ mpv "$file"
 | `]`          | Increase Speed              |
 | `[`          | Decrease Speed              |
 | `Backspace`  | Reset Speed to 1            |
+| `Space`      | Pause / Unpause             |
 | `s`          | Take a screenshot           |
 | `Option`-`s` | Rapid continual screenshots |
 
@@ -65,6 +66,12 @@ You can find my MPV scripts here:
 [:octocat: HariSekhon/DevOps-Bash-tools - configs/.config/mpv/scripts/](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/configs/.config/mpv/scripts/)
 
 ## Start Video At Double Speed
+
+This is much better than using a hotkey to speed up QuickTime to play a video because MPV keeps the same playback speed
+so when you pause and unpause (even if you set the speed with a hotkey),
+whereas QuickTime unpauses back to slow 1x speed.
+
+Yes I really watch most videos at double speed because most humans are simply far too slow.
 
 ```shell
 mpv --speed=2 "$file"
