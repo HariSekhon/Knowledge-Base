@@ -38,6 +38,14 @@ The capital.
 - [Barrio Brasil](https://maps.app.goo.gl/UxmncZ8Ju3T4eNiYA) - historic area west of the center with cultural venues,
   bars, and a growing dining scene
 
+<!--
+
+[Hostal Providencia](https://maps.app.goo.gl/oQ5k2c6yGkAJyQch7) the room upstairs is much nicer than downstairs due
+to the skylight.
+Wifi 2.5/0.3 Mbit/s but very unreliable
+
+-->
+
 ### Restaurants in Santiago
 
 TODO
