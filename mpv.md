@@ -107,7 +107,11 @@ It is only activated if you set the environment variable:
 MPV_DELETE_ON_EOF=1 mpv "$file"
 ```
 
-In [DevOps-Bash-tools](devops-bash-tools.md) `.bash.d/` I set the alias `mpvd` to make this shorter.
+In [DevOps-Bash-tools](devops-bash-tools.md) `.bash.d/` I set the alias `mpvd` alias to make this shorter:
+
+```shell
+alias mpvd='MPV_DELETE_ON_EOF=1 mpv --speed 2
+```
 
 ## Screenshot Video
 
