@@ -1,4 +1,4 @@
-# YouTube Downloader - yt-dlp
+# YouTube Downloader
 
 [:octocat: yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
