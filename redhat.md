@@ -448,6 +448,7 @@ Run an older Fedora version:
 ```shell
 docker run -it --rm fedora:39 bash
 ```
+<!--
 
 Upgrade the package repo to point to a newer version:
 
@@ -455,7 +456,11 @@ Upgrade the package repo to point to a newer version:
 sed -i 's/39/40/g' /etc/yum.repos.d/*.repo
 ```
 
-Check what updates are now available:
+-->
+
+You do not need to modify the `/etc/yum.repos.d/*.repo`.
+
+Check what updates are available:
 
 ```shell
 dnf check-update
