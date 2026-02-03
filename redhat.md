@@ -10,6 +10,9 @@
   - [RHEL 8 modules](#rhel-8-modules)
   - [RHSCL - Redhat Software Collections](#rhscl---redhat-software-collections)
   - [Pulp](#pulp)
+- [Docker](#docker)
+  - [Testing Upgrades in Docker with Fedora Linux](#testing-upgrades-in-docker-with-fedora-linux)
+  - [Testing Upgrades in Docker with Rocky Linux](#testing-upgrades-in-docker-with-rocky-linux)
 - [Kickstart - Automated Installations](#kickstart---automated-installations)
   - [Kickstart Template](#kickstart-template)
   - [HashiCorp Packer + Kickstart Config](#hashicorp-packer--kickstart-config)
@@ -432,6 +435,58 @@ Gives developers newer Python/Perl/MySQL bundles.
 <https://pulpproject.org/>
 
 Repository management
+
+## Docker
+
+Since CentOS is dead, you'll need to run either the fast moving Fedora
+or a RHEL clone like Rocky Linux or Alma Linux or similar.
+
+### Testing Upgrades in Docker with Fedora Linux
+
+Run an older Fedora version:
+
+```shell
+docker run -it --rm fedora:39 bash
+```
+
+Upgrade the package repo to point to a newer version:
+
+```shell
+sed -i 's/39/40/g' /etc/yum.repos.d/*.repo
+```
+
+Check what updates are now available:
+
+```shell
+dnf check-update
+```
+
+Proceed to test whatever upgrade commands you want.
+
+### Testing Upgrades in Docker with Rocky Linux
+
+Run an older Rocky Linux version such as 8:
+
+```shell
+docker run -it --rm rockylinux:8 bash
+```
+
+<!-- Not needed
+
+Switch to a newer Rocky Linux release:
+
+```shell
+dnf install -y rocky-release &&
+dnf config-manager --set-enabled appstream baseos
+```
+
+-->
+
+```shell
+dnf check-update
+```
+
+Proceed to test whatever upgrade commands you want.
 
 ## Kickstart - Automated Installations
 
