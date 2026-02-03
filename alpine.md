@@ -11,11 +11,12 @@ Replaced `libc` with `musl` core library which sometimes causes problems with pr
 <!-- INDEX_START -->
 
 - [Package Management](#package-management)
-  - [Repositories](#repositories)
-  - [Search](#search)
-  - [Install / Uninstall Packages](#install--uninstall-packages)
-  - [Info](#info)
-  - [Upgrades](#upgrades)
+- [Repositories](#repositories)
+- [Search](#search)
+- [Install / Uninstall Packages](#install--uninstall-packages)
+- [Info](#info)
+- [Upgrades](#upgrades)
+  - [Testing Alpine Upgrades](#testing-alpine-upgrades)
   - [apk-file](#apk-file)
 
 <!-- INDEX_END -->
@@ -135,6 +136,59 @@ Upgrade specific package:
 ```shell
 apk add --upgrade "$pkg"
 ```
+
+### Testing Alpine Upgrades
+
+Run an older version, eg. 3.18:
+
+```shell
+docker run --rm -it alpine:3.18 sh
+```
+
+Download the package lists and ensure the alpine-keys are installed:
+
+```shell
+apk update &&
+apk add --no-cache alpine-keys
+```
+
+Update the repository to point to a newer version:
+
+```shell
+sed -i 's/v3\.18/v3\.21/g' /etc/apk/repositories
+```
+
+Update the package lists to the newer version:
+
+```shell
+apk update
+```
+
+Now you should see several outdated packages to test with:
+
+```shell
+apk version -l '<'
+```
+
+```text
+Installed:                                Available:
+alpine-baselayout-3.4.3-r1              < 3.6.8-r1
+alpine-baselayout-data-3.4.3-r1         < 3.6.8-r1
+alpine-keys-2.4-r1                      < 2.5-r0
+apk-tools-2.14.4-r0                     < 2.14.6-r3
+busybox-1.36.1-r7                       < 1.37.0-r14
+busybox-binsh-1.36.1-r7                 < 1.37.0-r14
+ca-certificates-bundle-20241121-r1      < 20250911-r0
+libcrypto3-3.1.8-r0                     < 3.3.6-r0
+libssl3-3.1.8-r0                        < 3.3.6-r0
+musl-1.2.4-r3                           < 1.2.5-r9
+musl-utils-1.2.4-r3                     < 1.2.5-r9
+scanelf-1.3.7-r1                        < 1.3.8-r1
+ssl_client-1.36.1-r7                    < 1.37.0-r14
+zlib-1.2.13-r1                          < 1.3.1-r2
+```
+
+Now test whatever upgrades you want.
 
 ### apk-file
 
