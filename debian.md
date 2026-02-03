@@ -12,10 +12,15 @@ The legendary, mature widely used stable Linux distribution with the best most r
   - [Get the latest package lists](#get-the-latest-package-lists)
   - [Package Search](#package-search)
   - [Install](#install)
+  - [Upgrade](#upgrade)
+    - [List Upgradable Packages](#list-upgradable-packages)
+    - [Check If A Specific Package is Upgradable](#check-if-a-specific-package-is-upgradable)
+    - [Upgrade Only If Installed](#upgrade-only-if-installed)
   - [Which package would provide a given file - `apt-file`](#which-package-would-provide-a-given-file---apt-file)
   - [Local Package Information - `dpkg`](#local-package-information---dpkg)
   - [Sync and manage local deb repositories](#sync-and-manage-local-deb-repositories)
 - [Docker](#docker)
+  - [Test Upgrades in Docker](#test-upgrades-in-docker)
 - [Debian Preseeding - Automated Installations](#debian-preseeding---automated-installations)
   - [Preseed Template](#preseed-template)
   - [HashiCorp Packer + Preseed Config](#hashicorp-packer--preseed-config)
@@ -165,6 +170,34 @@ Show version and repo in one line concise format without repo pinning priority:
 apt-cache madison "$package"
 ```
 
+### Upgrade
+
+```shell
+apt-get upgrade "$package"
+```
+
+```shell
+apt upgrade "$package"
+```
+
+#### List Upgradable Packages
+
+```shell
+apt list --upgradable
+```
+
+#### Check If A Specific Package is Upgradable
+
+```shell
+apt list --upgradable "$package"
+```
+
+#### Upgrade Only If Installed
+
+```shell
+apt install --only-upgrade "$package"
+```
+
 ### Which package would provide a given file - `apt-file`
 
 `apt-file` is an optional program, so you have to install it first:
@@ -251,6 +284,49 @@ including several of my own at [HariSekhon/Dockerfiles](https://github.com/HariS
 While not as lean as [Alpine](alpine.md), it is full-featured and more compatible.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Dockerfiles&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Dockerfiles)
+
+### Test Upgrades in Docker
+
+```shell
+docker run -it --rm debian:11 bash
+```
+
+Switch to a newer repo:
+
+```shell
+sed -i 's/bullseye/bookworm/g' /etc/apt/sources.list
+apt update
+```
+
+Now see which packages can be upgraded:
+
+```shell
+apt list --upgradable
+```
+
+```text
+Listing...
+adduser/oldstable 3.134 all [upgradable from: 3.118+deb11u1]
+apt/oldstable 2.6.1 amd64 [upgradable from: 2.2.4]
+base-files/oldstable 12.4+deb12u13 amd64 [upgradable from: 11.1+deb11u11]
+base-passwd/oldstable 3.6.1 amd64 [upgradable from: 3.5.51]
+bash/oldstable 5.2.15-2+b10 amd64 [upgradable from: 5.1-2+deb11u1]
+bsdutils/oldstable 1:2.38.1-5+deb12u3 amd64 [upgradable from: 1:2.36.1-8+deb11u2]
+coreutils/oldstable 9.1-1 amd64 [upgradable from: 8.32-4+b1]
+dash/oldstable 0.5.12-2 amd64 [upgradable from: 0.5.11+git20200708+dd9ef66-5]
+debconf/oldstable 1.5.82 all [upgradable from: 1.5.77]
+debian-archive-keyring/oldstable 2023.3+deb12u2 all [upgradable from: 2021.1.1+deb11u1]
+debianutils/oldstable 5.7-0.5~deb12u1 amd64 [upgradable from: 4.11.2]
+diffutils/oldstable 1:3.8-4 amd64 [upgradable from: 1:3.7-5]
+dpkg/oldstable 1.21.22 amd64 [upgradable from: 1.20.13]
+e2fsprogs/oldstable 1.47.0-2+b2 amd64 [upgradable from: 1.46.2-2+deb11u1]
+findutils/oldstable 4.9.0-4 amd64 [upgradable from: 4.8.0-1]
+gpgv/oldstable 2.2.40-1.1+deb12u2 amd64 [upgradable from: 2.2.27-2+deb11u2]
+grep/oldstable 3.8-5 amd64 [upgradable from: 3.6-1+deb11u1]
+gzip/oldstable 1.12-1 amd64 [upgradable from: 1.10-4+deb11u1]
+hostname/oldstable 3.23+nmu1 amd64 [upgradable from: 3.23]
+...
+```
 
 ## Debian Preseeding - Automated Installations
 
