@@ -192,6 +192,26 @@ apt list --upgradable
 apt list --upgradable "$package"
 ```
 
+This will print almost nothing if the package is already up to date, just this:
+
+```text
+Listing... Done
+```
+
+But if the package is upgradeable, will output something like this:
+
+```shell
+apt list --upgradable tzdata
+```
+
+```text
+Listing... Done
+tzdata/oldstable 2025b-0+deb12u2 all [upgradable from: 2025b-0+deb11u2]
+N: There are 2 additional versions. Please use the '-a' switch to see them.
+```
+
+With a zero exit code either way.
+
 #### Upgrade Only If Installed
 
 ```shell
