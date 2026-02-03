@@ -328,6 +328,8 @@ hostname/oldstable 3.23+nmu1 amd64 [upgradable from: 3.23]
 ...
 ```
 
+Now test whatever upgrades you want using the usual upgrade commands given above under [Upgrade](#upgrade).
+
 ## Debian Preseeding - Automated Installations
 
 Debian can be installed using Preseeding for fully automated hands-off installations:
