@@ -91,6 +91,10 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 
 ## Chat LLMs
 
+The various leading LLMs have different strengths and weaknesses.
+
+You are advised to pose the same prompt to several of them to see the difference in their responses.
+
 ### ChatGPT
 
 <https://chat.openai.com/chat>
@@ -116,6 +120,8 @@ By X (formerly Twitter) and Elon Musk.
 <https://claude.ai>
 
 By Anthropic, known to be better for coding.
+
+TODO: Claude Artifacts
 
 ### Google Gemini
 
@@ -418,7 +424,7 @@ Video generation AIs:
 - Sora by OpenAI
 - Veo-2 by Google
 
-<!-- Check these
+<!-- -->
 
 - Hunyuan
 - Runway Gen-3
@@ -426,8 +432,6 @@ Video generation AIs:
 - Pika
 - Luma Ray 2
 - Hailuo T2V-01
-
--->
 
 <!--
 
