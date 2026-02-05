@@ -61,8 +61,8 @@ Wifi 2.5/0.3 Mbit/s but very unreliable
   - [Proyecto B](https://maps.app.goo.gl/bS9EQEbcLxTXUgLz8) /
     [Paralelas Parque Bustamante](https://maps.app.goo.gl/ey6xeysLyHusT5VB8) -
     free outdoor gym with pull up bars, dips bars and olympic rings - busy in the evenings
-- [Parque Forestal](https://maps.app.goo.gl/oSzAMpDySgNAYkkZ6) - another large central park adjacent to the national
-  museum of fine arts
+- [Parque Forestal](https://maps.app.goo.gl/oSzAMpDySgNAYkkZ6) - another large central park with historical monuments,
+  adjacent to the national museum of fine arts
 - [Parque San Borja](https://maps.app.goo.gl/D6BoQDHDSV9V1mdZ9)
 - [Mercado Condell](https://maps.app.goo.gl/gecVMLaznSga4QYw8) - boutique box park style small mall, very touristy /
   chick souvenir oriented
