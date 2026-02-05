@@ -214,7 +214,8 @@ surprisingly still do not speak English.
 
 #### South America
 
-- [Chile](travel/chile.md) (in-progress)
+- [Argentina](travel/argentina.md) (in-progress)
+- [Chile](travel/chile.md)
 - [Colombia](travel/colombia.md) ⭐
 - [Ecuador](travel/ecuador.md)
 - [Peru](travel/peru.md) ⭐
@@ -222,7 +223,6 @@ surprisingly still do not speak English.
 
 <!--
 
-- [Argentina](travel/argentina.md) TODO
 - [Uruguay](travel/uruguay.md) TODO
 - [Brazil](travel/brazil.md) TODO
 - [Paraguay](travel/paraguay.md) TODO
