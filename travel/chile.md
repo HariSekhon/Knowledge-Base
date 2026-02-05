@@ -38,6 +38,9 @@ The capital.
   shops (mainly aimed at women), restaurants & cafes
 - [Barrio Brasil](https://maps.app.goo.gl/UxmncZ8Ju3T4eNiYA) - historic area west of the center with cultural venues,
   bars, and a growing dining scene
+- [Bellas Artes](https://maps.app.goo.gl/1FJDTnffVmQRNyVZ7) - not sure if there's much accommodation around here but it
+  has a bunch of gentrified restaurants & cafes and is next to the
+  [Santa Lucía Hill](https://maps.app.goo.gl/CH3hygHUmqGjt1Kd7) viewpoint
 
 <!--
 
@@ -49,6 +52,8 @@ Wifi 2.5/0.3 Mbit/s but very unreliable
 
 ### Attractions in Santiago
 
+- [Santa Lucía Hill](https://maps.app.goo.gl/CH3hygHUmqGjt1Kd7) - romain style fountain building park with a view of the
+  city
 - [Sky Costanera](https://maps.app.goo.gl/t6ReiMp7kDKRo6gL6)
 - [Parque Bustamante](https://maps.app.goo.gl/oTev8xFi1KYTjtQZ6) - good sized city park with lots of trees,
   bike paths, exercise equipment, water feature, literay cafe and skate area
