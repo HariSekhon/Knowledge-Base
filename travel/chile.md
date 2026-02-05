@@ -63,7 +63,8 @@ withdrawal fees as noted above.
 
 [Hostal Providencia](https://maps.app.goo.gl/oQ5k2c6yGkAJyQch7) the room upstairs is much nicer than downstairs due
 to the skylight.
-Wifi 2.5/0.3 Mbit/s but very unreliable
+Wifi 2.5/0.3 Mbit/s but very unreliable, painfully bad, makes browsing and booking next hop very slow sometimes,
+stay somewhere else with better wifi next time
 
 -->
 
