@@ -282,6 +282,48 @@ grep -Fxhf "$patterns_file" "$file1" "$file2" ...
 
 Pipe to `sort -u` to deduplicate if something is found in more than one file.
 
+### Find Lines in a File not present in Other Files
+
+Same as above just `grep -v` it:
+
+```shell
+grep -Fvxhf "$patterns_file" "$file1" "$file2" ...
+```
+
+**Example:**
+
+I use this to find tracks in my [Spotify playlists](https://github.com/HariSekhon/Spotify-Playlists) that are not in
+Spotify's `Like Songs` so I can quickly add them programmatically.
+
+The `spotify/<files>` paths contain the downloaded track URIs, while the top level contains the
+`Artist - Track` human readable downloads.
+
+Find the URIs in a playlist that are not in the `Liked Songs`, which we use as the first arg, the patterns file:
+
+```shell
+grep -Fvxhf "spotify/Liked Songs" "spotify/$playlist"
+```
+
+and then pipe it to one of my many spotify scripts that can be found in [DevOps-Bash-tools](devops-bash-tools.md)
+to programmatically 'Like' all of the straggers found.
+
+First exclude local tracks which can't be `Liked`, and then pipe it to `spotify_uri_to_name.sh` to see the track names:
+
+```shell
+grep -Fvxhf "spotify/Liked Songs" "spotify/Smooth Hip-Hop 😎" |
+grep -v "^spotify:local:" |
+spotify_uri_to_name.sh
+```
+
+Once you've reviewed the songs to be Liked, pipe it to `spotify_set_tracks_uri_to_liked.sh` instead of
+`spotify_uri_to_name.sh`, to actually programmatically `Like` them:
+
+```shell
+grep -Fvxhf "spotify/Liked Songs" "spotify/Smooth Hip-Hop 😎" |
+grep -v "^spotify:local:" |
+spotify_set_tracks_uri_to_liked.sh
+```
+
 ## Network
 
 ### Get Your Public IP Address
