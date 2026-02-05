@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [ATMs in Chile](#atms-in-chile)
 - [Santiago](#santiago)
   - [Best Areas to Stay in Santiago](#best-areas-to-stay-in-santiago)
   - [Attractions in Santiago](#attractions-in-santiago)
@@ -20,9 +21,20 @@ Uses the Chilean peso (CLP), which as of Feb 2026 is approximately just under 1,
 
 They also reuse the `$` symbol to mean CLP not USD in prices.
 
+## ATMs in Chile
+
+Do not use the Santander ATMs.
+
+I made the mistake of withdrawing from one at a metro as I needed cash to buy a ticket and it charged me 8500CLP
+($10) which is outrageous robbery as I could have taken an Uber across the city where I was going for not much more
+than that.
+
+It probably would have been cheaper in fees to just exchange some cash at the airport Bureau De Change.
+
 ## Santiago
 
-The capital.
+[Santiago](https://maps.app.goo.gl/F34UKX4iPVJqYztYA) is one of the more developed capitals in South America, with a
+decent and cheap metro system that costs just under 1000CLP per ticket (\$1.15) per journey as of Feb 2026.
 
 ### Best Areas to Stay in Santiago
 
