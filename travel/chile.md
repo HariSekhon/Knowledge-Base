@@ -54,12 +54,15 @@ Wifi 2.5/0.3 Mbit/s but very unreliable
 
 - [Santa Lucía Hill](https://maps.app.goo.gl/CH3hygHUmqGjt1Kd7) - romain style fountain building park with a view of the
   city
+- [Museo Nacional de Bellas Artes](https://maps.app.goo.gl/meSBzNAPgj9VAcnq8) - national museum of fine arts
 - [Sky Costanera](https://maps.app.goo.gl/t6ReiMp7kDKRo6gL6)
 - [Parque Bustamante](https://maps.app.goo.gl/oTev8xFi1KYTjtQZ6) - good sized city park with lots of trees,
   bike paths, exercise equipment, water feature, literay cafe and skate area
   - [Proyecto B](https://maps.app.goo.gl/bS9EQEbcLxTXUgLz8) /
     [Paralelas Parque Bustamante](https://maps.app.goo.gl/ey6xeysLyHusT5VB8) -
     free outdoor gym with pull up bars, dips bars and olympic rings - busy in the evenings
+- [Parque Forestal](https://maps.app.goo.gl/oSzAMpDySgNAYkkZ6) - another large central park adjacent to the national
+  museum of fine arts
 - [Parque San Borja](https://maps.app.goo.gl/D6BoQDHDSV9V1mdZ9)
 - [Mercado Condell](https://maps.app.goo.gl/gecVMLaznSga4QYw8) - boutique box park style small mall, very touristy /
   chick souvenir oriented
