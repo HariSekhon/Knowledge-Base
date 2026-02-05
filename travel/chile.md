@@ -83,6 +83,9 @@ Wifi 2.5/0.3 Mbit/s but very unreliable
   adjacent to the national museum of fine arts
 - [Parque Fluvial](https://maps.app.goo.gl/Kgf6o4aEC9r68MUW6)
 - [Parque San Borja](https://maps.app.goo.gl/D6BoQDHDSV9V1mdZ9)
+- [Cenco Costanera Mall](https://maps.app.goo.gl/5cAyMMjHLKGUUMYW8) - large mall with huge food court and top floor full
+  of restaurants, with some outdoor terrace seating and vast indoor seating and dining options,
+  as well as the usual international brand shops
 - [Mercado Condell](https://maps.app.goo.gl/gecVMLaznSga4QYw8) - boutique box park style small mall, very touristy /
   chick souvenir oriented
 
