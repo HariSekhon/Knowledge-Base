@@ -63,6 +63,7 @@ Wifi 2.5/0.3 Mbit/s but very unreliable
     free outdoor gym with pull up bars, dips bars and olympic rings - busy in the evenings
 - [Parque Forestal](https://maps.app.goo.gl/oSzAMpDySgNAYkkZ6) - another large central park with historical monuments,
   adjacent to the national museum of fine arts
+- [Parque Fluvial](https://maps.app.goo.gl/Kgf6o4aEC9r68MUW6)
 - [Parque San Borja](https://maps.app.goo.gl/D6BoQDHDSV9V1mdZ9)
 - [Mercado Condell](https://maps.app.goo.gl/gecVMLaznSga4QYw8) - boutique box park style small mall, very touristy /
   chick souvenir oriented
