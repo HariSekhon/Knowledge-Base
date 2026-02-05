@@ -447,7 +447,7 @@ website:
 
 ### Machu Picchu Preparation
 
-It's a 2 hour walk through Machu Picchu at a leisurely pace as you'll want to take lots of pictures.
+It's a 2 hour walk inside Machu Picchu at a leisurely pace as you'll want to take lots of pictures.
 
 There are no toilets inside, and you cannot go backwards, so make sure you go to the toilets outside before you enter!!
 
