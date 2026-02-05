@@ -92,7 +92,8 @@ Wifi 2.5/0.3 Mbit/s but very unreliable
 - [Express de Lider Merced](https://maps.app.goo.gl/1Chti4aC3VACb3fbA) - another one of these cheap centrally located
   supermarkets
 - [Santa Isabel](https://maps.app.goo.gl/8Ax76n7qN6m6BCeM6) - supermarket, much cheaper than Oxxo for drinks,
-  but at 1100CLP (\$1.30) still not as cheap as my favourite Express de Lider Seminario supermarket above
+  but at 1100CLP (\$1.30) still not as cheap as my favourite Express de Lider Seminario supermarket above.
+  Watch out for the cheap small bags of cookies at only 280-350 CLP (\$0.40), I fell for 2 bags of them!
 - [Tottus Factoría](https://maps.app.goo.gl/6EW4Ge9rPnsfbQA59) - supermarket
 - [Tienda koko](https://maps.app.goo.gl/4LxNVZe1E5oLECri9) - smaller grocery near
   [Parque Bustamante](https://maps.app.goo.gl/oTev8xFi1KYTjtQZ6) -
