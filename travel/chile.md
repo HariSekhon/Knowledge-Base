@@ -107,6 +107,8 @@ Wifi 2.5/0.3 Mbit/s but very unreliable
 - [Yogurt Life](https://maps.app.goo.gl/UZnULdx8YgPhHuqb6) - frozen yoghurt chain with 16 flavours of frozen yoghurt
   and sorbet, all self-service, and a self-service counter full of fruits and dessert toppings.
   Priced by weight and this racks up quickly... I blew 7700CLP ($9) on this before I knew it!
+- [Yogen Früz](https://maps.app.goo.gl/qsNQSMTwLXa3XsyK9) - another frozen yoghurt chain, slightly cheaper than
+  Yoghurt Life as it is fixed price by size with additional toppings charged
 - [Express de Lider Seminario](https://maps.app.goo.gl/5fX15SEDuU5Ruay79) - supermarket - literally one third the price
   of Oxxo convenience stores.
   I didn't realize what a rip off Oxxo is until I realized the same Glaceau Vitamin Water flavoured drinks for
