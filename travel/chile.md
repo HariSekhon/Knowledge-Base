@@ -110,6 +110,7 @@ Wifi 2.5/0.3 Mbit/s but very unreliable
 - [Yogen Früz](https://maps.app.goo.gl/qsNQSMTwLXa3XsyK9) - another frozen yoghurt chain, slightly cheaper than
   Yoghurt Life as it is fixed price by size, with 1, 2 or 3 fruits/toppings blended into it, and additional toppings
   charged
+- [Oakberry Açai](https://maps.app.goo.gl/dTVGweUtjvVzTRqq5) - the usual overpriced international acai chain
 - [Express de Lider Seminario](https://maps.app.goo.gl/5fX15SEDuU5Ruay79) - supermarket - literally one third the price
   of Oxxo convenience stores.
   I didn't realize what a rip off Oxxo is until I realized the same Glaceau Vitamin Water flavoured drinks for
