@@ -71,6 +71,7 @@ Wifi 2.5/0.3 Mbit/s but very unreliable
 
 - [Santa Lucía Hill](https://maps.app.goo.gl/CH3hygHUmqGjt1Kd7) - romain style fountain building park with a view of the
   city
+- [Paseo José Victorino Lastarria](https://maps.app.goo.gl/boqx9D8gz8UfmQYV8)
 - [Museo Nacional de Bellas Artes](https://maps.app.goo.gl/meSBzNAPgj9VAcnq8) - national museum of fine arts
 - [Sky Costanera](https://maps.app.goo.gl/t6ReiMp7kDKRo6gL6)
 - [Parque Bustamante](https://maps.app.goo.gl/oTev8xFi1KYTjtQZ6) - good sized city park with lots of trees,
@@ -125,6 +126,7 @@ TODO:
 - [Hansel & Grettel Bakery](https://maps.app.goo.gl/q5temqYHrF2faSnV6) - 4.5
 - [Le Bistrot Lastarria](https://maps.app.goo.gl/eD1b2TF6xvoXVwfT6) - 4.8 french
 - [Pal´Mar Restaurant](https://maps.app.goo.gl/TcbJVDFTKa88ujEF8) - 4.9 seafood
+- [Fabula Restaurant](https://maps.app.goo.gl/4XGyeGdz1RybJPjq8) - 4.7
 - [Montana Gelato - Lastarria](https://maps.app.goo.gl/Vvp6x7c7FJ6qVw7j7) - 4.6 ice cream
 - [Helado montada](https://maps.app.goo.gl/Y7YETPawygKWGECs8) - 4.5 ice cream, next to the above
 - [Marasushi](https://maps.app.goo.gl/jkHe5chEd8DGbfZk8) - 4.7 sushi takeaway
