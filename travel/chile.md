@@ -36,6 +36,12 @@ It probably would have been cheaper in fees to just exchange some cash at the ai
 [Santiago](https://maps.app.goo.gl/F34UKX4iPVJqYztYA) is one of the more developed capitals in South America, with a
 decent and cheap metro system that costs just under 1000CLP per ticket (\$1.15) per journey as of Feb 2026.
 
+The metro requires a Bip Card which which costs 1500CLP for the card,
+plus you should chuck at least 2000CLP on it for 2 journeys.
+
+The metro kiosks only accept cash and the Santander ATMs inside the metros are extremely expensive charging \$10 in
+withdrawal fees as noted above.
+
 ### Best Areas to Stay in Santiago
 
 - [Providencia](https://maps.app.goo.gl/6CbKVdEoLF84oy2S7) - lively, well‑connected residential and commercial area with
