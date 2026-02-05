@@ -48,17 +48,16 @@ withdrawal fees as noted above.
   parks, restaurants, cafes, and easy metro access, great as a central base
 - [Las Condes](https://maps.app.goo.gl/Xw7MiRJ1BrBmvncAA) - upscale and modern district with quality dining, shopping,
   and quieter streets, ideal for a more relaxed stay
-- [Lastarria](https://maps.app.goo.gl/UsisBHAWwF4ot92Y6) - bohemian cultural core with museums, cafes, galleries, and
-  nightlife within walking distance of downtown
+- [Bellas Artes](https://maps.app.goo.gl/1FJDTnffVmQRNyVZ7) /
+  [Lastarria](https://maps.app.goo.gl/UsisBHAWwF4ot92Y6) - lots of gentrified cafes & restaurants,
+  with museums & galleries, and nightlife
+  [Santa Lucía Hill](https://maps.app.goo.gl/CH3hygHUmqGjt1Kd7) viewpoint
 - [Bellavista](https://maps.app.goo.gl/786ApTnp84sDtEHw6) - vibrant and artistic quarter known for bars, restaurants,
   street art, and nightlife
 - [Barrio Italia](https://maps.app.goo.gl/AumFduiTh511TT2s6) - trendy, artsy neighborhood with lots of small boutique
   shops (mainly aimed at women), restaurants & cafes
 - [Barrio Brasil](https://maps.app.goo.gl/UxmncZ8Ju3T4eNiYA) - historic area west of the center with cultural venues,
   bars, and a growing dining scene
-- [Bellas Artes](https://maps.app.goo.gl/1FJDTnffVmQRNyVZ7) - not sure if there's much accommodation around here but it
-  has a bunch of gentrified restaurants & cafes and is next to the
-  [Santa Lucía Hill](https://maps.app.goo.gl/CH3hygHUmqGjt1Kd7) viewpoint
 
 <!--
 
@@ -123,12 +122,17 @@ Wifi 2.5/0.3 Mbit/s but very unreliable
 
 TODO:
 
+- [Hansel & Grettel Bakery](https://maps.app.goo.gl/q5temqYHrF2faSnV6) - 4.5
+- [Le Bistrot Lastarria](https://maps.app.goo.gl/eD1b2TF6xvoXVwfT6) - 4.8 french
 - [Pal´Mar Restaurant](https://maps.app.goo.gl/TcbJVDFTKa88ujEF8) - 4.9 seafood
+- [Montana Gelato - Lastarria](https://maps.app.goo.gl/Vvp6x7c7FJ6qVw7j7) - 4.6 ice cream
+- [Helado montada](https://maps.app.goo.gl/Y7YETPawygKWGECs8) - 4.5 ice cream, next to the above
 - [Marasushi](https://maps.app.goo.gl/jkHe5chEd8DGbfZk8) - 4.7 sushi takeaway
 - [Casaluz Restaurant](https://maps.app.goo.gl/qtjCB5dtdsPJcjnr7) - 4.5
 - [Barrocko](Barrocko) - 4.5
 - [Aligot restaurant](https://maps.app.goo.gl/Ayqqn453duUU3Xn87) - 4.5
 - [Moha Restaurant Arabe, Bar y Cafetería](https://maps.app.goo.gl/jSispqS66D8UWwYt9) - 4.6
+- [La Barrita Sanguchera](https://maps.app.goo.gl/LEmoaPBV3r9T4GNN9) - 4.3
 
 ## Valparaíso & Viña del Mar
 
