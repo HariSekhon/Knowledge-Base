@@ -32,10 +32,12 @@
 
 A lot of fellow travellers have raved to me about Peru.
 
-A lot of westerners go there for the famous Machu Picchu site.
+I knew westerners go there for the famous Machu Picchu site (there were actually a lot of far east asian tourists too).
 
-I was surprised how good the food was,
+But I was surprised how good the food was,
 and moderately priced by international standards (expect to pay \$25-30 for a decent steak meal as of Jan 2026).
+
+Cusco in particular was fine dining at Nando's prices.
 
 It turns out that Peru is quite the foodie destination.
 
