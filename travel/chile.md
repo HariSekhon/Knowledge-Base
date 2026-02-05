@@ -104,9 +104,9 @@ Wifi 2.5/0.3 Mbit/s but very unreliable
   but overall I still stuffed my face and cleaned the plate.
   The small amount of seating is mainly outdoors on the pavement.
   No wifi
-- [Yogurt Life](https://maps.app.goo.gl/UZnULdx8YgPhHuqb6) - 16 flavours of frozen yoghurt and sorbet with a counter
-  full of fruits and dessert toppings,
-  but it is priced by weight and racks up quickly, I blew 7700CLP ($9) on this before I knew it
+- [Yogurt Life](https://maps.app.goo.gl/UZnULdx8YgPhHuqb6) - frozen yoghurt chain with 16 flavours of frozen yoghurt
+  and sorbet, all self-service, and a self-service counter full of fruits and dessert toppings.
+  Priced by weight and this racks up quickly... I blew 7700CLP ($9) on this before I knew it!
 - [Express de Lider Seminario](https://maps.app.goo.gl/5fX15SEDuU5Ruay79) - supermarket - literally one third the price
   of Oxxo convenience stores.
   I didn't realize what a rip off Oxxo is until I realized the same Glaceau Vitamin Water flavoured drinks for
