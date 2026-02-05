@@ -34,8 +34,8 @@ The capital.
   nightlife within walking distance of downtown
 - [Bellavista](https://maps.app.goo.gl/786ApTnp84sDtEHw6) - vibrant and artistic quarter known for bars, restaurants,
   street art, and nightlife
-- [Barrio Italia](https://maps.app.goo.gl/AumFduiTh511TT2s6) - trendy, artsy neighborhood with international eateries,
-  design shops, and cafes
+- [Barrio Italia](https://maps.app.goo.gl/AumFduiTh511TT2s6) - trendy, artsy neighborhood with lots of small boutique
+  shops (mainly aimed at women), restaurants & cafes
 - [Barrio Brasil](https://maps.app.goo.gl/UxmncZ8Ju3T4eNiYA) - historic area west of the center with cultural venues,
   bars, and a growing dining scene
 
