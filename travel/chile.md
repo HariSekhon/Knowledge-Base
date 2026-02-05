@@ -89,6 +89,8 @@ Wifi 2.5/0.3 Mbit/s but very unreliable
   of Oxxo convenience stores.
   I didn't realize what a rip off Oxxo is until I realized the same Glaceau Vitamin Water flavoured drinks for
   900CLP (\$1) here are selling for 2900CLP (\£3.40) in Oxxo, although they are by the counter and not refrigerated
+- [Express de Lider Merced](https://maps.app.goo.gl/1Chti4aC3VACb3fbA) - another one of these cheap centrally located
+  supermarkets
 - [Santa Isabel](https://maps.app.goo.gl/8Ax76n7qN6m6BCeM6) - supermarket, much cheaper than Oxxo for drinks,
   but at 1100CLP (\$1.30) still not as cheap as my favourite Express de Lider Seminario supermarket above
 - [Tottus Factoría](https://maps.app.goo.gl/6EW4Ge9rPnsfbQA59) - supermarket
