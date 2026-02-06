@@ -139,6 +139,7 @@ Santiago is a big city, with lots of attractions, museums and parks - I didn't e
   adjacent to the national museum of fine arts
 - [Parque Fluvial](https://maps.app.goo.gl/Kgf6o4aEC9r68MUW6)
 - [Parque San Borja](https://maps.app.goo.gl/D6BoQDHDSV9V1mdZ9)
+  - [Iglesia San Francisco de Borja](https://maps.app.goo.gl/vcB8ZWD7xsKzHbMq9)
 - [Mercado Condell](https://maps.app.goo.gl/gecVMLaznSga4QYw8) - boutique box park style small mall, very touristy /
   chick souvenir oriented
 - [Mall Vivo Imperio](https://maps.app.goo.gl/jp5sQV6VyKdzLvzK7) - small mall but has a large kids soft play multi-story
