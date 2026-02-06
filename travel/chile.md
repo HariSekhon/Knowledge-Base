@@ -260,6 +260,7 @@ If you're on a day trip, prioritize spending most of your time here as it's much
   - [Playa Acapulco](https://maps.app.goo.gl/rPri6YnpAfCzxeaB8)
 - [Las Salinas](https://maps.app.goo.gl/iSVnwvsogZb4ZmsK8) - another beach a bit further north,
   I haven't been to this one yet
+- [Playa Los Cañones](https://maps.app.goo.gl/kqFaAsnJtQjpnhEq8)
 - [Flower clock](https://maps.app.goo.gl/b26niXTyyHDR9chu5)
 - [Castillo Brunet](https://maps.app.goo.gl/5dw8pK56MTMtJw5t7)
 - [Avenida Perú](https://maps.app.goo.gl/PmcQATtqtZ79brBu7)
