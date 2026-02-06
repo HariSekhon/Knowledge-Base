@@ -235,6 +235,9 @@ The architecture wasn't even that good, you'll find better in Santiago.
 - [Plaza Echaurren](https://maps.app.goo.gl/vZy9HyMWv3bpRQei9)
 - [Iglesia de la Matriz](https://maps.app.goo.gl/84t8UqAFynQ9YaUb7) - I walked across town to this,
   which looked great on the Google Maps pic but was underwhelming in real life
+- [Terminal Rodoviario Valparaíso](https://maps.app.goo.gl/dNi3FZ6c6VoktxiK6) - the bus terminal where the bus drops you
+  off. Some people catch a taxi from here but it's not a long walk along to the areas above and you get to see a bit
+  of the city
 
 ### Travel from Valparaíso to Viña del Mar
 
@@ -250,8 +253,21 @@ Beach town, more modern - this is where it's at, with a wide beach, pier, and ma
 
 If you're on a day trip, prioritize spending most of your time here as it's much nicer than Valparaíso.
 
+#### Attractions in Vina Del Mar
+
+- [Flower clock](https://maps.app.goo.gl/b26niXTyyHDR9chu5)
+- [Castillo Brunet](https://maps.app.goo.gl/5dw8pK56MTMtJw5t7)
+-
+- [Playa de los Artistas](https://maps.app.goo.gl/hiyTah9PZfyZAupq6)
+- [Terminal de Buses De Viña Del Mar](https://maps.app.goo.gl/rm4pEjiAFpsujQnp9) - catch the bus back to Santiago from
+  here
+
+#### Restaurants in Vina Del Mar
+
 - [Cholos Restaurante](https://maps.app.goo.gl/kPZxXfxrUwPDB7S28) - good Peruvian restaurant.
   The traditional Peruvian lomo saltado of juicy steak strips with large onion slices, tomatoes, rice and fries is
   great, and is well worth the price and only takes 10-12 minutes to arrive if you're on the clock to catch the bus back
   to Santiago as I was!
   Wifi 20/23 Mbit/s
+
+TODO:
