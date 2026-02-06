@@ -5,7 +5,8 @@
 - [Summary](#summary)
 - [ATMs in Chile](#atms-in-chile)
 - [Santiago](#santiago)
-  - [Taxi Apps](#taxi-apps)
+  - [Santiago Arturo Merino Airport](#santiago-arturo-merino-airport)
+  - [Taxi Apps in Santiago](#taxi-apps-in-santiago)
   - [Travel between Santiago Airport and Santiago Central](#travel-between-santiago-airport-and-santiago-central)
   - [Best Areas to Stay in Santiago](#best-areas-to-stay-in-santiago)
   - [Attractions in Santiago](#attractions-in-santiago)
@@ -16,6 +17,8 @@
     - [Attractions in Val](#attractions-in-val)
   - [Travel from Valparaíso to Viña del Mar](#travel-from-valparaíso-to-viña-del-mar)
   - [Viña del Mar](#viña-del-mar)
+    - [Attractions in Vina Del Mar](#attractions-in-vina-del-mar)
+    - [Restaurants in Vina Del Mar](#restaurants-in-vina-del-mar)
 
 <!-- INDEX_END -->
 
@@ -44,7 +47,18 @@ a decent and cheap metro system.
 
 I would definitely consider Santiago worth a return visit.
 
-### Taxi Apps
+### Santiago Arturo Merino Airport
+
+There is very little before security, a couple restaurant/cafes and a couple of souvenir shops.
+
+Most of the restaurants, cafes and shops are past security so you may as well go through security as early as possible.
+
+As of Feb 2026 I didn't see any free water coolers in the airport.
+
+The airport wifi did not work for me on either my phone or laptop,
+no captcha pop-up appeared on either and no traffic was flowing even when connected.
+
+### Taxi Apps in Santiago
 
 - [InDrive](https://indrive.com/en-cl) - much cheaper than Uber but cash only
 - [Uber](https://www.uber.com/cl/en/r/cities/taxi/santiago-rm-cl/)
