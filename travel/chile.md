@@ -117,9 +117,13 @@ Santiago is a big city, with lots of attractions, museums and parks - I didn't e
   - [Santiago Central Market](https://maps.app.goo.gl/oQmNx3yMuc6dzCLd9)
 - [Santa Lucía Hill](https://maps.app.goo.gl/CH3hygHUmqGjt1Kd7) - romain style fountain building park with a view of the
   city
+)
+- [Cenco Costanera Mall](https://maps.app.goo.gl/5cAyMMjHLKGUUMYW8) - large 6 story mall with huge food court on the
+  top floor full as well as avenues of restaurants, with some outdoor terrace seating and vast indoor seating and
+  dining options, as well as the usual international brand shops
+  - [Sky Costanera](https://maps.app.goo.gl/t6ReiMp7kDKRo6gL6)
 - [Paseo José Victorino Lastarria](https://maps.app.goo.gl/boqx9D8gz8UfmQYV8)
 - [Museo Nacional de Bellas Artes](https://maps.app.goo.gl/meSBzNAPgj9VAcnq8) - national museum of fine arts
-- [Sky Costanera](https://maps.app.goo.gl/t6ReiMp7kDKRo6gL6)
 - [Parque Bustamante](https://maps.app.goo.gl/oTev8xFi1KYTjtQZ6) - good sized city park with lots of trees,
   bike paths, exercise equipment, water feature, literay cafe and skate area
   - [Proyecto B](https://maps.app.goo.gl/bS9EQEbcLxTXUgLz8) /
@@ -129,13 +133,11 @@ Santiago is a big city, with lots of attractions, museums and parks - I didn't e
   here, next time, should be a good view
   - [San Cristóbal Hill](https://maps.app.goo.gl/LZ3Nn6Zj8pgrCXz79)
   - [Observatorio Manuel Foster](https://maps.app.goo.gl/21qatWrQtULiqKXbA)
+  - [National Zoo](https://maps.app.goo.gl/8DC2uXYThsDL88ze6)
 - [Parque Forestal](https://maps.app.goo.gl/oSzAMpDySgNAYkkZ6) - another large central park with historical monuments,
   adjacent to the national museum of fine arts
 - [Parque Fluvial](https://maps.app.goo.gl/Kgf6o4aEC9r68MUW6)
 - [Parque San Borja](https://maps.app.goo.gl/D6BoQDHDSV9V1mdZ9)
-- [Cenco Costanera Mall](https://maps.app.goo.gl/5cAyMMjHLKGUUMYW8) - large 6 story mall with huge food court on the
-  top floor full as well as avenues of restaurants, with some outdoor terrace seating and vast indoor seating and
-  dining options, as well as the usual international brand shops
 - [Mercado Condell](https://maps.app.goo.gl/gecVMLaznSga4QYw8) - boutique box park style small mall, very touristy /
   chick souvenir oriented
 - [Mall Vivo Imperio](https://maps.app.goo.gl/jp5sQV6VyKdzLvzK7) - small mall but has a large kids soft play multi-story
