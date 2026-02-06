@@ -102,6 +102,16 @@ stay somewhere else with better wifi next time
 
 ### Attractions in Santiago
 
+Santiago is a big city, with lots of attractions, museums and parks - I didn't even make it through all of these in the
+4 days I was there (I spent a 5th day at Valpairaso & Vina Del Mar - the latter of which was worth it).
+
+- Historic Center:
+  - [Plaza de Armas de Santiago](https://maps.app.goo.gl/JuSrVV2tC2ZDUpbC6)
+  - [Metropolitan Cathedral of Santiago](https://maps.app.goo.gl/a2D5AWAZZ7VyPRJx8)
+  - [Museum of National History of Chile](https://maps.app.goo.gl/oiV6FPa5gn6MS4Hx6)
+  - [National Congress of Chile Palace](https://maps.app.goo.gl/4aFGETmoVTYN3HfH9)
+  - [Chilean Museum of Pre-Columbian Art](https://maps.app.goo.gl/jx2Kst5N8bt4Rp4d6)
+  - [Museo de Santiago - Casa Colorada](https://maps.app.goo.gl/LrA7HPzoqDAm3CsG8)
 - [Santa Lucía Hill](https://maps.app.goo.gl/CH3hygHUmqGjt1Kd7) - romain style fountain building park with a view of the
   city
 - [Paseo José Victorino Lastarria](https://maps.app.goo.gl/boqx9D8gz8UfmQYV8)
@@ -121,6 +131,8 @@ stay somewhere else with better wifi next time
   dining options, as well as the usual international brand shops
 - [Mercado Condell](https://maps.app.goo.gl/gecVMLaznSga4QYw8) - boutique box park style small mall, very touristy /
   chick souvenir oriented
+- [Mall Vivo Imperio](https://maps.app.goo.gl/jp5sQV6VyKdzLvzK7) - small mall but has a large kids soft play multi-story
+  obstacle course on the basement level
 
 ### Restaurants in Santiago
 
