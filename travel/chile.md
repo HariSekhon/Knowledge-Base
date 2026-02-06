@@ -160,6 +160,12 @@ Santiago is a big city, with lots of attractions, museums and parks - I didn't e
   Montana the better option.
   Has both indoor and outdoor seating.
   I didn’t see a wifi network
+- [Pal´Mar Restaurant](https://maps.app.goo.gl/QJFRQyChQwwh5ZTx9) - The _"Land & Sea grill"_ was large, even the single
+  person size one. Lots of chicken, garlic shrimps (large prawns), squid rings, fried red pepper and onions on a bed of
+  skinny french fries and a small side coleslaw. I’m surprised I managed to finish this as it was a lot of food,
+  and quite salty too (I wonder if this is to get you to buy more drinks).
+  Well priced compared to other restaurants in these tourist central Santiago areas.
+  Wifi 159/306 Mbit/s
 - [Zokai sushi & ceviche](https://maps.app.goo.gl/hYDr1Hk2Wvs2DEha7) - the triple ceviche is very filling -
   mixed one has Octopus, Shrimp and Salmon cubes.
   The Reina white fish ceviche is surprisingly good,
