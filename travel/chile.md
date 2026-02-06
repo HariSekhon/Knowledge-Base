@@ -21,6 +21,8 @@
 
 ## Summary
 
+Easily one of the best countries in West Latin America, developed, with good restaurants and infrastructure.
+
 Uses the Chilean peso (CLP), which as of Feb 2026 is approximately just under 1,000 per 1 USD.
 
 They also reuse the `$` symbol to mean CLP not USD in prices.
@@ -36,8 +38,11 @@ It probably would have been cheaper in fees to just exchange some cash at the ai
 
 ## Santiago
 
-[Santiago](https://maps.app.goo.gl/F34UKX4iPVJqYztYA) is one of the more developed capitals in South America, with a
-decent and cheap metro system.
+[Santiago](https://maps.app.goo.gl/F34UKX4iPVJqYztYA) is easily one of the biggest & best cities in West Latin America,
+more developed than other Western capitals in Central or South America, with good restaurants & infrastructure such as
+a decent and cheap metro system.
+
+I would definitely consider Santiago worth a return visit.
 
 ### Taxi Apps
 
