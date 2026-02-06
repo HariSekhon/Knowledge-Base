@@ -257,7 +257,16 @@ If you're on a day trip, prioritize spending most of your time here as it's much
 
 - [Flower clock](https://maps.app.goo.gl/b26niXTyyHDR9chu5)
 - [Castillo Brunet](https://maps.app.goo.gl/5dw8pK56MTMtJw5t7)
--
+- [Vergara Pier](https://maps.app.goo.gl/zcwCQxYBExBNoUwb8) - pier with the main beach on either side of it
+  - [Playa El Sol](Playa El Sol)
+  - [Playa Acapulco](https://maps.app.goo.gl/rPri6YnpAfCzxeaB8)
+- [Mall Marina](Mall Marina) - large mall with lots to eat and buy, 2 frozen yoghurt shops
+  - [Yogurt Life](Yogurt Life) - same chain as in Santiago, see that section above for review
+  - [Yogen Früz](https://maps.app.goo.gl/mVUBHwxjfNJv6UpZ7) - same chain as in Santiago
+- [Avenida Perú](https://maps.app.goo.gl/PmcQATtqtZ79brBu7)
+- [Plaza Colombia](https://maps.app.goo.gl/EGguVQUv6WuNqqXh6)
+- [Feria](https://maps.app.goo.gl/FUCJELENTwMJGjEM7) - crafts & souvenirs market with a bit of food (hold off for
+  better food places below)
 - [Playa de los Artistas](https://maps.app.goo.gl/hiyTah9PZfyZAupq6)
 - [Terminal de Buses De Viña Del Mar](https://maps.app.goo.gl/rm4pEjiAFpsujQnp9) - catch the bus back to Santiago from
   here
@@ -271,3 +280,24 @@ If you're on a day trip, prioritize spending most of your time here as it's much
   Wifi 20/23 Mbit/s
 
 TODO:
+
+- [Sativo Wok & Bowls](https://maps.app.goo.gl/UQHqk1oN9UiLhCtK6) - 4.6
+- [Sativo Resto-Bar](https://maps.app.goo.gl/57j9mfpX3ZyeWS3x6) - 4.6 gastropub
+- [A Mano Gin & Burgers](https://maps.app.goo.gl/2u8YNuxEQqWC9qxMA) - 4.5 gastropub
+- [Takao Sushi Bar](https://maps.app.goo.gl/xepuNtzWUoXW5SP46) - 4.8
+- [Pampa Brava Restaurante](https://maps.app.goo.gl/hd9dHcqoyxZG8GERA) - 4.6
+- [Mito Sushi Nikkei](https://maps.app.goo.gl/ae2Qr9bmiqrSyKtR7) - 4.6 japanese
+- [Sushi Rolls restaurant](https://maps.app.goo.gl/YUouiqCqCLmewCEd9) - 4.9
+- [Restaurant Milamores](https://maps.app.goo.gl/YMCLZv8oDJgcBHUL8) - 4.7
+- [Ikaro Restaurant, Gastronomía Peruana e Internacional](https://maps.app.goo.gl/eCZJZQAmfQvVUGbQ6) - 4.6
+- [Pecado Del Inka](https://maps.app.goo.gl/ChadJXRfYstVwe71A) - 4.6 a bit out of the way in the north west, either
+  it'll be a hidden gem or not worth the walk
+- [Don Vito e Zanoni](https://maps.app.goo.gl/c57FUpY8CVssjV6y9) - 4.7 italian
+- [Glasgow Pub](https://maps.app.goo.gl/nvo5QuPUsaRLKm8k9) - 4.5 try a burger
+- [Restaurant Cholos](https://maps.app.goo.gl/b9ujJQcWQ4omH7c26) - 4.6 - not sure if this related to the one above
+- [Big Ben - Restaurant & Café](https://maps.app.goo.gl/vzZzRmGX915Jb4wP8) - 4.5
+- [Ají del Mar](https://maps.app.goo.gl/Dmsgqxt2dDwgNjGz6) - 4.5
+- [Carnales](https://maps.app.goo.gl/jjpWDxtaS6jyLtHj9) - 4.5
+- [Restaurant Los Cocheros, Viña Del Mar](https://maps.app.goo.gl/8KBMx3LREBacV2Rw9) - 4.6 - at the wrong end of town
+  near the bus station
+- [Brussels Heart of Chocolate Viña](https://maps.app.goo.gl/4SrjDrz9YHZoSXTQ8) - same chain as the one in Santiago
