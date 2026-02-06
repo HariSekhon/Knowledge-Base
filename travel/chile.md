@@ -125,6 +125,10 @@ Santiago is a big city, with lots of attractions, museums and parks - I didn't e
   - [Proyecto B](https://maps.app.goo.gl/bS9EQEbcLxTXUgLz8) /
     [Paralelas Parque Bustamante](https://maps.app.goo.gl/ey6xeysLyHusT5VB8) -
     free outdoor gym with pull up bars, dips bars and olympic rings - busy in the evenings
+- [Parque Metropolitano de Santiago](https://maps.app.goo.gl/NdFFUFeZCfYzKZ7s8) - TODO: didn't make it up here,
+  next time, should be a good view
+  - [San Cristóbal Hill](https://maps.app.goo.gl/LZ3Nn6Zj8pgrCXz79)
+  - [Observatorio Manuel Foster](https://maps.app.goo.gl/21qatWrQtULiqKXbA)
 - [Parque Forestal](https://maps.app.goo.gl/oSzAMpDySgNAYkkZ6) - another large central park with historical monuments,
   adjacent to the national museum of fine arts
 - [Parque Fluvial](https://maps.app.goo.gl/Kgf6o4aEC9r68MUW6)
