@@ -281,7 +281,7 @@ If you're on a day trip, prioritize spending most of your time here as it's much
   The traditional Peruvian lomo saltado of juicy steak strips with large onion slices, tomatoes, rice and fries is
   great, and is well worth the price and only takes 10-12 minutes to arrive if you're on the clock to catch the bus back
   to Santiago as I was! They also give 2 nice dips and 3 complimentary small yellow sweet bread buns which I really
-  liked too
+  liked too.
   Wifi 20/23 Mbit/s
 
 TODO:
