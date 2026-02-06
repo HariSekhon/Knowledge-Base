@@ -107,12 +107,13 @@ Santiago is a big city, with lots of attractions, museums and parks - I didn't e
 
 - Historic Center:
   - [Plaza de Armas de Santiago](https://maps.app.goo.gl/JuSrVV2tC2ZDUpbC6)
-  - [Metropolitan Cathedral of Santiago](https://maps.app.goo.gl/a2D5AWAZZ7VyPRJx8)
-  - [Museum of National History of Chile](https://maps.app.goo.gl/oiV6FPa5gn6MS4Hx6)
-  - [National Congress of Chile Palace](https://maps.app.goo.gl/4aFGETmoVTYN3HfH9)
-  - [Chilean Museum of Pre-Columbian Art](https://maps.app.goo.gl/jx2Kst5N8bt4Rp4d6)
-  - [Museo de Santiago - Casa Colorada](https://maps.app.goo.gl/LrA7HPzoqDAm3CsG8)
-  - [La Moneda Palace](https://maps.app.goo.gl/wTwWhUfAJp4ozRgw9)
+    - [Metropolitan Cathedral of Santiago](https://maps.app.goo.gl/a2D5AWAZZ7VyPRJx8)
+    - [Museum of National History of Chile](https://maps.app.goo.gl/oiV6FPa5gn6MS4Hx6)
+    - [National Congress of Chile Palace](https://maps.app.goo.gl/4aFGETmoVTYN3HfH9)
+    - [Chilean Museum of Pre-Columbian Art](https://maps.app.goo.gl/jx2Kst5N8bt4Rp4d6)
+    - [Museo de Santiago - Casa Colorada](https://maps.app.goo.gl/LrA7HPzoqDAm3CsG8)
+  - [Plaza de La Constitución](https://maps.app.goo.gl/xM3fftC5Stfw1tQt6)
+    - [La Moneda Palace](https://maps.app.goo.gl/wTwWhUfAJp4ozRgw9)
 - [Santa Lucía Hill](https://maps.app.goo.gl/CH3hygHUmqGjt1Kd7) - romain style fountain building park with a view of the
   city
 - [Paseo José Victorino Lastarria](https://maps.app.goo.gl/boqx9D8gz8UfmQYV8)
