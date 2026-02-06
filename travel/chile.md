@@ -269,7 +269,8 @@ If you're on a day trip, prioritize spending most of your time here as it's much
   - [Yogen Früz](https://maps.app.goo.gl/mVUBHwxjfNJv6UpZ7) - same chain as in Santiago
 - [Playa de los Artistas](https://maps.app.goo.gl/hiyTah9PZfyZAupq6)
 - [Terminal de Buses De Viña Del Mar](https://maps.app.goo.gl/rm4pEjiAFpsujQnp9) - catch the bus back to Santiago from
-  here
+  here.
+  This is the less nice end of town, but hey as long as it works...
 
 #### Restaurants in Vina Del Mar
 
