@@ -114,6 +114,7 @@ Santiago is a big city, with lots of attractions, museums and parks - I didn't e
     - [Museo de Santiago - Casa Colorada](https://maps.app.goo.gl/LrA7HPzoqDAm3CsG8)
   - [Plaza de La Constitución](https://maps.app.goo.gl/xM3fftC5Stfw1tQt6)
     - [La Moneda Palace](https://maps.app.goo.gl/wTwWhUfAJp4ozRgw9)
+  - [Santiago Central Market](https://maps.app.goo.gl/oQmNx3yMuc6dzCLd9)
 - [Santa Lucía Hill](https://maps.app.goo.gl/CH3hygHUmqGjt1Kd7) - romain style fountain building park with a view of the
   city
 - [Paseo José Victorino Lastarria](https://maps.app.goo.gl/boqx9D8gz8UfmQYV8)
@@ -135,6 +136,8 @@ Santiago is a big city, with lots of attractions, museums and parks - I didn't e
   chick souvenir oriented
 - [Mall Vivo Imperio](https://maps.app.goo.gl/jp5sQV6VyKdzLvzK7) - small mall but has a large kids soft play multi-story
   obstacle course on the basement level
+- [Barrio Brasil](https://maps.app.goo.gl/hwhZKbLeSHviHo3e8) - low priority area, nowhere near as good as Barrio Italia:
+  - [Plaza Brasil](https://maps.app.goo.gl/roHAyrFdkg3e4TpM8) - park popular with dog walkers and kids play area
 
 ### Restaurants in Santiago
 
