@@ -258,9 +258,6 @@ If you're on a day trip, prioritize spending most of your time here as it's much
 - [Vergara Pier](https://maps.app.goo.gl/zcwCQxYBExBNoUwb8) - pier with the main beach on either side of it
   - [Playa El Sol](Playa El Sol)
   - [Playa Acapulco](https://maps.app.goo.gl/rPri6YnpAfCzxeaB8)
-- [Las Salinas](https://maps.app.goo.gl/iSVnwvsogZb4ZmsK8) - another beach a bit further north,
-  I haven't been to this one yet
-- [Playa Los Cañones](https://maps.app.goo.gl/kqFaAsnJtQjpnhEq8)
 - [Flower clock](https://maps.app.goo.gl/b26niXTyyHDR9chu5)
 - [Castillo Brunet](https://maps.app.goo.gl/5dw8pK56MTMtJw5t7)
 - [Avenida Perú](https://maps.app.goo.gl/PmcQATtqtZ79brBu7)
@@ -270,6 +267,9 @@ If you're on a day trip, prioritize spending most of your time here as it's much
 - [Mall Marina](Mall Marina) - large mall with lots to eat and buy, 2 frozen yoghurt shops
   - [Yogurt Life](Yogurt Life) - same chain as in Santiago, see that section above for review
   - [Yogen Früz](https://maps.app.goo.gl/mVUBHwxjfNJv6UpZ7) - same chain as in Santiago
+- [Las Salinas](https://maps.app.goo.gl/iSVnwvsogZb4ZmsK8) - another beach a bit further north,
+  I haven't been to this one yet
+- [Playa Los Cañones](https://maps.app.goo.gl/kqFaAsnJtQjpnhEq8)
 - [Playa de los Artistas](https://maps.app.goo.gl/hiyTah9PZfyZAupq6)
 - [Terminal de Buses De Viña Del Mar](https://maps.app.goo.gl/rm4pEjiAFpsujQnp9) - catch the bus back to Santiago from
   here.
