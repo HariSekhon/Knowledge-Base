@@ -112,6 +112,7 @@ Santiago is a big city, with lots of attractions, museums and parks - I didn't e
   - [National Congress of Chile Palace](https://maps.app.goo.gl/4aFGETmoVTYN3HfH9)
   - [Chilean Museum of Pre-Columbian Art](https://maps.app.goo.gl/jx2Kst5N8bt4Rp4d6)
   - [Museo de Santiago - Casa Colorada](https://maps.app.goo.gl/LrA7HPzoqDAm3CsG8)
+  - [La Moneda Palace](https://maps.app.goo.gl/wTwWhUfAJp4ozRgw9)
 - [Santa Lucía Hill](https://maps.app.goo.gl/CH3hygHUmqGjt1Kd7) - romain style fountain building park with a view of the
   city
 - [Paseo José Victorino Lastarria](https://maps.app.goo.gl/boqx9D8gz8UfmQYV8)
