@@ -250,4 +250,8 @@ Beach town, more modern - this is where it's at, with a wide beach, pier, and ma
 
 If you're on a day trip, prioritize spending most of your time here as it's much nicer than Valparaíso.
 
-- []
+- [Cholos Restaurante](https://maps.app.goo.gl/kPZxXfxrUwPDB7S28) - good Peruvian restaurant.
+  The traditional Peruvian lomo saltado of juicy steak strips with large onion slices, tomatoes, rice and fries is
+  great, and is well worth the price and only takes 10-12 minutes to arrive if you're on the clock to catch the bus back
+  to Santiago as I was!
+  Wifi 20/23 Mbit/s
