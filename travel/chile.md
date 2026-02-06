@@ -5,13 +5,17 @@
 - [Summary](#summary)
 - [ATMs in Chile](#atms-in-chile)
 - [Santiago](#santiago)
+  - [Taxi Apps](#taxi-apps)
+  - [Travel between Santiago Airport and Santiago Central](#travel-between-santiago-airport-and-santiago-central)
   - [Best Areas to Stay in Santiago](#best-areas-to-stay-in-santiago)
   - [Attractions in Santiago](#attractions-in-santiago)
   - [Restaurants in Santiago](#restaurants-in-santiago)
 - [Valparaíso & Viña del Mar](#valparaíso--viña-del-mar)
+  - [Travel to Valparaíso / Viña del Mar](#travel-to-valparaíso--viña-del-mar)
   - [Valparaíso](#valparaíso)
+    - [Attractions in Val](#attractions-in-val)
+  - [Travel from Valparaíso to Viña del Mar](#travel-from-valparaíso-to-viña-del-mar)
   - [Viña del Mar](#viña-del-mar)
-  - [Travel to Valparaíso & Viña del Mar](#travel-to-valparaíso--viña-del-mar)
 
 <!-- INDEX_END -->
 
@@ -26,28 +30,52 @@ They also reuse the `$` symbol to mean CLP not USD in prices.
 Do not use the Santander ATMs.
 
 I made the mistake of withdrawing from one at a metro as I needed cash to buy a ticket and it charged me 8500CLP
-($10) which is outrageous robbery as I could have taken an Uber across the city where I was going for not much more
-than that.
+($10) which is outrageous robbery as I could have taken an Uber across the city on card for not much more than that.
 
 It probably would have been cheaper in fees to just exchange some cash at the airport Bureau De Change.
 
 ## Santiago
 
 [Santiago](https://maps.app.goo.gl/F34UKX4iPVJqYztYA) is one of the more developed capitals in South America, with a
-decent and cheap metro system that costs just under 1000CLP per ticket (\$1.15) per journey as of Feb 2026.
+decent and cheap metro system.
 
-The metro requires a Bip Card which which costs 1500CLP for the card,
-plus you should chuck at least 2000CLP on it for 2 journeys.
+### Taxi Apps
 
-The metro kiosks only accept cash and the Santander ATMs inside the metros are extremely expensive charging \$10 in
-withdrawal fees as noted above.
+- [InDrive](https://indrive.com/en-cl) - much cheaper than Uber but cash only
+- [Uber](https://www.uber.com/cl/en/r/cities/taxi/santiago-rm-cl/)
+
+### Travel between Santiago Airport and Santiago Central
+
+You can either take a Taxi App above or you can take a bus from immediately outside the arrivals exit.
+
+Both the Centrobus or Turbus kiosks are next to each other and go to the Barrancas metro station.
+
+Turbus is marginally cheaper and accepts card payments,
+but get some cash before you get to the metro as the metro kiosks only accept cash and the ATMs there charge \$10!
+
+At the Barrancas metro stop you can catch the green line to go the rest of the way into the city.
+
+This is quite an easy public transport journey.
+
+Turbus stops diagonally across the crossroad from the metro station.
+
+You will need a Bip Card to use the metro or buses, a pre-paid card.
+
+The Bip Card costs itself costs a one-time fee of 1500CLP (\$1.70) while each journey is just under 1000CLP per ticket
+(\$1.15) per journey, and buses just under 500CLP (\$0.60), as of Feb 2026, so you should probably put at least 2000 CLP
+on it to cover a couple journeys.
+
+Unfortunately the metro human kiosks that dispense the Bip Cards only accept cash and the Santander ATMs inside the
+metros are extremely expensive charging 8500CLP (\$10) in withdrawal fees - daylight robbery!
+
+Next time I would just convert just enough cash for an InDrive or Metro at the exchange in the airport as it should be
+cheaper than that and pay for everything else on card as Santiago is relatively very developed
+compared to most of Latin America so nearly everywhere takes card.
 
 ### Best Areas to Stay in Santiago
 
 - [Providencia](https://maps.app.goo.gl/6CbKVdEoLF84oy2S7) - lively, well‑connected residential and commercial area with
   parks, restaurants, cafes, and easy metro access, great as a central base
-- [Las Condes](https://maps.app.goo.gl/Xw7MiRJ1BrBmvncAA) - upscale and modern district with quality dining, shopping,
-  and quieter streets, ideal for a more relaxed stay
 - [Bellas Artes](https://maps.app.goo.gl/1FJDTnffVmQRNyVZ7) /
   [Lastarria](https://maps.app.goo.gl/UsisBHAWwF4ot92Y6) - lots of gentrified cafes & restaurants,
   with museums & galleries, and nightlife
@@ -56,8 +84,12 @@ withdrawal fees as noted above.
   street art, and nightlife
 - [Barrio Italia](https://maps.app.goo.gl/AumFduiTh511TT2s6) - trendy, artsy neighborhood with lots of small boutique
   shops (mainly aimed at women), restaurants & cafes
-- [Barrio Brasil](https://maps.app.goo.gl/UxmncZ8Ju3T4eNiYA) - historic area west of the center with cultural venues,
-  bars, and a growing dining scene
+- [Barrio Brasil](https://maps.app.goo.gl/UxmncZ8Ju3T4eNiYA) - west of the historic center, this areas has more graffiti
+  and less top rated restaurants, I wouldn't recommend staying here as it's a big downgrade compared to the nicer areas
+  above
+- [Las Condes](https://maps.app.goo.gl/Xw7MiRJ1BrBmvncAA) - upscale suburb,
+  better for longer stays than short stay tourists - modern district with quality dining, shopping,
+  and quieter streets, ideal for a more relaxed stay
 
 <!--
 
@@ -154,24 +186,68 @@ You can see both in a single day, the morning light is better for the street art
 while the afternoon light is better for the beach at Viña del Mar so do the morning in the former and the afternoon in
 the latter.
 
-### Valparaíso
+### Travel to Valparaíso / Viña del Mar
 
-Historic bohemian port city, with street art, narrow winding roads, and steep hills with lots of stairs.
-
-There are _"funiculars"_ - cable cars - which are both a solution to the steep hills and one of the attractions.
-
-UNESCO world heritage site.
-
-### Viña del Mar
-
-Beach town, more modern.
-
-### Travel to Valparaíso & Viña del Mar
-
-You can get buses, but are advised to book online in advance:
+You can book a bus all the way online at:
 
 - [Turbus](https://www.turbus.cl/)
 - [PullmanBus](https://www.pullmanbus.cl/)
 - [FlixBus](https://www.flixbus.cl/)
 
-TODO: do a day trip here
+Since buses leave every 15-20 minutes I just turned up and bought a ticket on the next Turbus,
+but if you're going at the weekends you might want to book online just to be safe.
+
+### Valparaíso
+
+Historic bohemian port city, with street art, narrow winding roads, and steep hills with lots of stairs.
+
+UNESCO world heritage site.
+
+There are _"funiculars"_ - cable cars - which are both a solution to the steep hills and one of the attractions.
+They were charging 200CLP to locals and 1000CLP to foreigners for a ride.
+
+I personally found Valparaíso to be very overrated and would skip it next time as there really isn't much that impressed
+me here - a few colonial administrative buildings, some graffiti'd walls and the odd coffee shop and restaurant was not
+worth the time, although you might want to allocate 2 hours to tick it off the first time you're in the area.
+
+The architecture wasn't even that good, you'll find better in Santiago.
+
+#### Attractions in Val
+
+- [Cerro Alegre](https://maps.app.goo.gl/1Pm8FyXcjw1DEpQ27) - hill area with colourful streets, graffiti and a few
+  gentrified cafes & restaurants.
+  Take a funicular up there unless you really want the exercise
+- Funiculars:
+  - [Ascensor Reina Victoria](https://maps.app.goo.gl/msTATjiEwh6fNVc99) - if you're walking from the bus terminal, this
+    is the nearest one to ascend to the street arts hill area
+  - [Ascensor Concepcion](https://maps.app.goo.gl/7LHmrjqZvV9SouKWA)
+  - [Ascensor El Peral](https://maps.app.goo.gl/9Hx7Ey6ZWsuvRcXy9)
+- [La Puerta Roja](https://maps.app.goo.gl/wHHMnST2SDCRLUNe6)
+- [Cerro Concepción Valparaíso](https://maps.app.goo.gl/i7djZYXyGHA7jRs9A)
+- [Escalera de Colores](https://maps.app.goo.gl/sUC847SseRsGAG1NA)
+- [Baburizza Palace](https://maps.app.goo.gl/kKnffyWCXJaHdyEB8) - art museum
+- [Museo de Historia Natural de Valparaíso](https://maps.app.goo.gl/xuvs7JppxpSU2d2D6) - if you're on a day trip,
+  not sure you'd want to waste your time to this, get to Vina Del Mar instead
+- [Muelle Prat](https://maps.app.goo.gl/e1jL414BvabteMDa9) - docker where you can see the cargo ships or get a boat tour
+  - there are a handful of souvenir shops, and also toilets for 500CLP entry - you'll need cash
+- [Plaza Sotomayor](https://maps.app.goo.gl/k298QHEjLmVAwm6U7)
+- [Monumento a Los Heroes de Iquique](https://maps.app.goo.gl/i1czGzfKkPfuzF8A7)
+- [Plaza Echaurren](https://maps.app.goo.gl/vZy9HyMWv3bpRQei9)
+- [Iglesia de la Matriz](https://maps.app.goo.gl/84t8UqAFynQ9YaUb7) - I walked across town to this,
+  which looked great on the Google Maps pic but was underwhelming in real life
+
+### Travel from Valparaíso to Viña del Mar
+
+Since they're a few km apart, it's not a practical use of time to try to walk it, you can either take a taxi, or just go
+to the main coastal road where there are buses every few minutes going along the coast,
+pretty much all of them should go to Vina Del Mar but check with the driver.
+
+The bus only cost 500 CLP (\$0.60) and was quick and efficient.
+
+### Viña del Mar
+
+Beach town, more modern - this is where it's at, with a wide beach, pier, and many more well rated restaurants.
+
+If you're on a day trip, prioritize spending most of your time here as it's much nicer than Valparaíso.
+
+- []
