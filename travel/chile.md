@@ -130,6 +130,10 @@ stay somewhere else with better wifi next time
   and the chocolate amargo (dark chocolate) was really good too, not too sweet.
   Even the waffle cone was perfect just the right amount of sweetness and wholesomeness -
   this place is ice cream excellence.
+  It's not cheap at just over 5000 CLP for 2 scoops, as this is an expensive area,
+  but it's also not as expensive as some of the surrounding places to get a snack like the Hansel & Gretal bakery,
+  which I recanted on both times I intended to go looking at it's menu and estimated quality vs prices - I considered
+  Montana the better option.
   Has both indoor and outdoor seating.
   I didn’t see a wifi network
 - [Zokai sushi & ceviche](https://maps.app.goo.gl/hYDr1Hk2Wvs2DEha7) - the triple ceviche is very filling -
