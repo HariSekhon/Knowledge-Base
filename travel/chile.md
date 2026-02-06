@@ -258,7 +258,8 @@ If you're on a day trip, prioritize spending most of your time here as it's much
 - [Vergara Pier](https://maps.app.goo.gl/zcwCQxYBExBNoUwb8) - pier with the main beach on either side of it
   - [Playa El Sol](Playa El Sol)
   - [Playa Acapulco](https://maps.app.goo.gl/rPri6YnpAfCzxeaB8)
-- [Las Salinas](Las Salinas) - another beach a bit further north, I haven't been to this one yet
+- [Las Salinas](https://maps.app.goo.gl/iSVnwvsogZb4ZmsK8) - another beach a bit further north,
+  I haven't been to this one yet
 - [Flower clock](https://maps.app.goo.gl/b26niXTyyHDR9chu5)
 - [Castillo Brunet](https://maps.app.goo.gl/5dw8pK56MTMtJw5t7)
 - [Avenida Perú](https://maps.app.goo.gl/PmcQATtqtZ79brBu7)
