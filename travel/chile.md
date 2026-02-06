@@ -124,6 +124,14 @@ stay somewhere else with better wifi next time
 
 ### Restaurants in Santiago
 
+- [Montana Gelato - Lastarria](https://maps.app.goo.gl/Vvp6x7c7FJ6qVw7j7) - amazing ice cream, there is a reason there
+  is always a queue out the door when I passed by.
+  The pistacchio was the best I’ve had in ages,
+  and the chocolate amargo (dark chocolate) was really good too, not too sweet.
+  Even the waffle cone was perfect just the right amount of sweetness and wholesomeness -
+  this place is ice cream excellence.
+  Has both indoor and outdoor seating.
+  I didn’t see a wifi network
 - [Zokai sushi & ceviche](https://maps.app.goo.gl/hYDr1Hk2Wvs2DEha7) - the triple ceviche is very filling -
   mixed one has Octopus, Shrimp and Salmon cubes.
   The Reina white fish ceviche is surprisingly good,
@@ -163,11 +171,10 @@ stay somewhere else with better wifi next time
 
 TODO:
 
-- [Hansel & Grettel Bakery](https://maps.app.goo.gl/q5temqYHrF2faSnV6) - 4.5
+- [Hansel & Grettel Bakery](https://maps.app.goo.gl/q5temqYHrF2faSnV6) - 4.5 - expensive
 - [Le Bistrot Lastarria](https://maps.app.goo.gl/eD1b2TF6xvoXVwfT6) - 4.8 french
 - [Pal´Mar Restaurant](https://maps.app.goo.gl/TcbJVDFTKa88ujEF8) - 4.9 seafood
 - [Fabula Restaurant](https://maps.app.goo.gl/4XGyeGdz1RybJPjq8) - 4.7
-- [Montana Gelato - Lastarria](https://maps.app.goo.gl/Vvp6x7c7FJ6qVw7j7) - 4.6 ice cream
 - [Helado montada](https://maps.app.goo.gl/Y7YETPawygKWGECs8) - 4.5 ice cream, next to the above
 - [Marasushi](https://maps.app.goo.gl/jkHe5chEd8DGbfZk8) - 4.7 sushi takeaway
 - [Casaluz Restaurant](https://maps.app.goo.gl/qtjCB5dtdsPJcjnr7) - 4.5
