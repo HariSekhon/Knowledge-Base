@@ -1,5 +1,19 @@
 # Argentina
 
+<!-- INDEX_START -->
+
+- [Summary](#summary)
+- [Buenos Aires](#buenos-aires)
+  - [Buenos Aires Airport](#buenos-aires-airport)
+  - [Travel from Ezeiza Airport to Buenos Aires City](#travel-from-ezeiza-airport-to-buenos-aires-city)
+  - [Taxi Apps in Buenos Aires](#taxi-apps-in-buenos-aires)
+  - [Best Areas to Stay in Buenos Aires](#best-areas-to-stay-in-buenos-aires)
+  - [Restaurants in Buenos Aires](#restaurants-in-buenos-aires)
+
+<!-- INDEX_END -->
+
+## Summary
+
 Argentina uses the Argentine Peso (ARS) which is roughly 2,000 ARS per 1 GBP, 1,400 ARS per 1 USD as of Feb 2026.
 
 I used Eskimo e-sim with 10GB of global data to reuse across countries as I got a good deal and it worked out cheaper
@@ -20,7 +34,7 @@ so I managed to sort out getting an Eskimo e-sim.
 
 There was a water cooler outside the toilets in the baggage reclaim area.
 
-### Travel from Airport to Buenos Aires
+### Travel from Ezeiza Airport to Buenos Aires City
 
 You can either take one of the taxi apps in the section below or take the bus which goes all the way to the centre of
 Buenoes Aires for under 1,000AR (\$1), but you'll need a rechargeable SUBE travel card,
