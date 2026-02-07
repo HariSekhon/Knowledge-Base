@@ -229,7 +229,6 @@ TODO:
 
 - [Hansel & Grettel Bakery](https://maps.app.goo.gl/q5temqYHrF2faSnV6) - 4.5 - expensive
 - [Le Bistrot Lastarria](https://maps.app.goo.gl/eD1b2TF6xvoXVwfT6) - 4.8 french
-- [Pal´Mar Restaurant](https://maps.app.goo.gl/TcbJVDFTKa88ujEF8) - 4.9 seafood
 - [Fabula Restaurant](https://maps.app.goo.gl/4XGyeGdz1RybJPjq8) - 4.7
 - [Helado montada](https://maps.app.goo.gl/Y7YETPawygKWGECs8) - 4.5 ice cream, next to the above
 - [Marasushi](https://maps.app.goo.gl/jkHe5chEd8DGbfZk8) - 4.7 sushi takeaway
