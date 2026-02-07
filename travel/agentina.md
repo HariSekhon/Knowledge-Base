@@ -5,7 +5,7 @@
 - [Summary](#summary)
 - [Buenos Aires](#buenos-aires)
   - [Buenos Aires Airport](#buenos-aires-airport)
-  - [Travel from Ezeiza Airport to Buenos Aires City](#travel-from-ezeiza-airport-to-buenos-aires-city)
+    - [Travel from Ezeiza Airport to Buenos Aires City](#travel-from-ezeiza-airport-to-buenos-aires-city)
   - [Taxi Apps in Buenos Aires](#taxi-apps-in-buenos-aires)
   - [Best Areas to Stay in Buenos Aires](#best-areas-to-stay-in-buenos-aires)
   - [Restaurants in Buenos Aires](#restaurants-in-buenos-aires)
@@ -34,7 +34,7 @@ Wifi worked easily without a captcha portal so I managed to sort out getting an 
 
 There was a water cooler outside the toilets in the baggage reclaim area.
 
-### Travel from Ezeiza Airport to Buenos Aires City
+#### Travel from Ezeiza Airport to Buenos Aires City
 
 You can either take one of the taxi apps in the section below or take the bus which goes all the way to the centre of
 Buenoes Aires for under 1,000AR (\$1), but you'll need a rechargeable SUBE travel card,
