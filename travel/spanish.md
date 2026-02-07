@@ -27,7 +27,7 @@ You need this when travelling Latin America since most people don't speak Englis
 | Time                           | Tiempo                         |
 | Hour                           | Hora                           |
 | Now                            | Ahora                          |
-| Where                          | Donde                          |
+| Where is                       | Donde esta                     |
 | Toilet                         | Bano (ban-yo)                  |
 
 ## Food
@@ -38,7 +38,7 @@ You can tell I've been learning Spanish off all the menus across Latin America..
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Pollo             | Chicken                                                                                                                                                                                                                                                                                  |
 | Carne             | Meat                                                                                                                                                                                                                                                                                     |
-| Res               | Beef                                                                                                                                                                                                                                                                                     |
+| Res / Vacuno      | Beef                                                                                                                                                                                                                                                                                     |
 | Pescado           | Fish                                                                                                                                                                                                                                                                                     |
 | Cameron           | Shrimp                                                                                                                                                                                                                                                                                   |
 | Pulpo             | Octopus                                                                                                                                                                                                                                                                                  |
