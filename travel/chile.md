@@ -30,6 +30,10 @@ Uses the Chilean peso (CLP), which as of Feb 2026 is approximately just under 1,
 
 They also reuse the `$` symbol to mean CLP not USD in prices.
 
+The power plugs in Chile were different to the rest of the Latin countries,
+instead of a flat 2 pin they used a round 2 pin but slimmer than the EU 2 pin
+so I had to buy one specific to Chile.
+
 ## ATMs in Chile
 
 Do not use the Santander ATMs.
