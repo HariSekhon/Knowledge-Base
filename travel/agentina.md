@@ -27,10 +27,10 @@ to get global data that it was cheaper for me to buy just enough data per countr
 ### Buenos Aires Airport
 
 There are two airports,
-more international flights will use the larger one further out about an hour's drive or 1.5 hour's bus ride.
+more international flights will use the larger one, Ezeiza Airport (EZE), further out about an hour's drive
+or 1.5 hour's bus ride.
 
-There is working wifi unlike at Santiago which didn't work for me
-so I managed to sort out getting an Eskimo e-sim.
+Wifi worked easily without a captcha portal so I managed to sort out getting an Eskimo e-sim.
 
 There was a water cooler outside the toilets in the baggage reclaim area.
 
