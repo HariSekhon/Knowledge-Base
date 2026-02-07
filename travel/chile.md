@@ -194,8 +194,9 @@ Santiago is a big city, with lots of attractions, museums and parks - I didn't e
   and the shrimp ceviche is as expected with large prawns.
   Outdoor seating under canopies as well as indoor and upstairs seating.
   Wifi indoors only (untested)
-- [Taquería TH](https://maps.app.goo.gl/LzJLVLeQQ9pWt8nPA) - open late until 11pm,
-  the steak (vucano) burrito for 9000CLP ($10.50) is the best thing I've tried here.
+- [Taquería TH](https://maps.app.goo.gl/LzJLVLeQQ9pWt8nPA) - I wouldn't travel out of my way to this one but it is
+  decent and convenient if you're in the area, and it's open late until 11pm.
+  The vucano (beef steak) burrito for 9000CLP ($10.50) is the best thing I've tried here.
   The tacos are decent - bistec / pollo / cameron (beef / chicken / shrimp) and are served with onions and a large wedge
   of lemon for each one as well as the usual green and red dips.
   At 3000CLP per taco ($3.50) I'm on the fence as to whether this is tourist priced.
