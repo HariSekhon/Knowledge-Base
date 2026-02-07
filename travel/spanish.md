@@ -29,6 +29,7 @@ You need this when travelling Latin America since most people don't speak Englis
 | Now                            | Ahora                          |
 | Where is                       | Donde esta                     |
 | Toilet                         | Bano (ban-yo)                  |
+| Here                           | Aqui                           |
 
 ## Food
 
