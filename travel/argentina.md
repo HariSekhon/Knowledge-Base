@@ -82,6 +82,10 @@ south.
 
 ### Restaurants in Buenos Aires
 
+- [Hiro])(https://maps.app.goo.gl/n9F1QoSv3xkkgPu96) - cafe with decent scrambled eggs breakfast,
+  unfortunately they were out of the salmon add on.
+  The squeeze orange juice was a good size without water or sugar, just as well since I forgot to specify that.
+  WiFi 284/188 Mbit/s
 - [Caracol](https://maps.app.goo.gl/xjjuatgyH4kuCUbSA) - was recommended to me as a decent local
   restaurant.
   The veal milanese with fries was decent and hit the spot after
@@ -90,3 +94,10 @@ south.
   The apple pie with vanilla ice cream was bigger than anticipated and filling.
   The place won't win any culinary awards but sits well as it's 4.4 star rating.
   Wifi didn't work for me even though it was connected at full signal strength
+
+TODO:
+
+- [Modular Café](https://maps.app.goo.gl/yURAdJyvkJcaQhwb7) - 4.7, stops serving food at 4pm
+- [Lo Del Francés Café Bistrot](Lo Del Francés Café Bistrot) - 4.4
+- [MARTINA restaurant parrilla](https://maps.app.goo.gl/x9Q6oYQ9e6xY6U7S9) - 4.4
+- [Sagardi Argentina](https://maps.app.goo.gl/31cerJzHWFooytHZA) - 4.5 pricier
