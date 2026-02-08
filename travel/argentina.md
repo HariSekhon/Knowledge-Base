@@ -79,9 +79,13 @@ south.
   - [Calistenia Park](https://maps.app.goo.gl/qtu3AKpYnzCbWVcH9) - street workout calisthenic bars
 - [Plaza de calistenia - CORE Espacios](https://maps.app.goo.gl/hSyZBrdVKW3zuF6VA) - street workout calisthenic bars
 - [Puerto Calistenia](https://maps.app.goo.gl/G8KppdFW1wLcivKo7) - street workout calisthenic bars
+- [Mercado San Telmo](https://maps.app.goo.gl/fBNUcbUJr37z3QfEA) - permanent covered street market wiht lots of food
+  places and arts & crafts
 
 ### Restaurants in Buenos Aires
 
+- [Mercado San Telmo](https://maps.app.goo.gl/fBNUcbUJr37z3QfEA) - permanent covered street market wiht lots of food
+  places and arts & crafts
 - [Hiro](https://maps.app.goo.gl/n9F1QoSv3xkkgPu96) - cafe with decent scrambled eggs breakfast,
   unfortunately they were out of the salmon add on.
   The squeeze orange juice was a good size without water or sugar, just as well since I forgot to specify that.
@@ -102,6 +106,9 @@ south.
 
 TODO:
 
+- [Je Suis Raclette](Je Suis Raclette) - 4.7 swiss
+- [Hierro Parrilla San Telmo](https://maps.app.goo.gl/QLC8dQXeZJMEqoWx6) - 4.7
+- [Nica Mercado](https://maps.app.goo.gl/Y8nReHLmVtQX7ufa6) - 4.5
 - [Modular Café](https://maps.app.goo.gl/yURAdJyvkJcaQhwb7) - 4.7, stops serving food at 4pm
 - [Lo Del Francés Café Bistrot](Lo Del Francés Café Bistrot) - 4.4
 - [MARTINA restaurant parrilla](https://maps.app.goo.gl/x9Q6oYQ9e6xY6U7S9) - 4.4
