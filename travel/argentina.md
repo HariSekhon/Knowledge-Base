@@ -8,6 +8,7 @@
     - [Travel from Ezeiza Airport to Buenos Aires City](#travel-from-ezeiza-airport-to-buenos-aires-city)
   - [Taxi Apps in Buenos Aires](#taxi-apps-in-buenos-aires)
   - [Best Areas to Stay in Buenos Aires](#best-areas-to-stay-in-buenos-aires)
+  - [Attractions in Buenos Aires](#attractions-in-buenos-aires)
   - [Restaurants in Buenos Aires](#restaurants-in-buenos-aires)
 
 <!-- INDEX_END -->
@@ -71,6 +72,10 @@ south.
   local feel
 - [Villa Crespo](https://maps.app.goo.gl/bJVUaroNFs4Gvd1cA) - affordable, authentic area next to Palermo with growing
   food and bar scene
+
+### Attractions in Buenos Aires
+
+- [Puerto Calistenia](https://maps.app.goo.gl/G8KppdFW1wLcivKo7) - street workout calesthetic bars
 
 ### Restaurants in Buenos Aires
 
