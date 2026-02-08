@@ -110,8 +110,10 @@ TODO:
 - [Parrilla Bar Polo](https://maps.app.goo.gl/z4p1yZ8qncewP2TY7) - 4.5 steak closes at 5pm
 - [Je Suis Raclette](Je Suis Raclette) - 4.7 swiss
 - [Hierro Parrilla San Telmo](https://maps.app.goo.gl/QLC8dQXeZJMEqoWx6) - 4.7
+- [Rajatabla Café](https://maps.app.goo.gl/h5kqMuuTvv2AHfVZA) - 4.8
 - [Nica Mercado](https://maps.app.goo.gl/Y8nReHLmVtQX7ufa6) - 4.5
 - [Modular Café](https://maps.app.goo.gl/yURAdJyvkJcaQhwb7) - 4.7, stops serving food at 4pm
 - [Lo Del Francés Café Bistrot](Lo Del Francés Café Bistrot) - 4.4
 - [MARTINA restaurant parrilla](https://maps.app.goo.gl/x9Q6oYQ9e6xY6U7S9) - 4.4
 - [Sagardi Argentina](https://maps.app.goo.gl/31cerJzHWFooytHZA) - 4.5 pricier
+- [Che Taco Comida Mexicana](https://maps.app.goo.gl/AYz1SgkArjdBjEcw9) - 4.4 Chilaquiles!
