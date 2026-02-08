@@ -82,10 +82,15 @@ south.
 
 ### Restaurants in Buenos Aires
 
-- [Hiro])(https://maps.app.goo.gl/n9F1QoSv3xkkgPu96) - cafe with decent scrambled eggs breakfast,
+- [Hiro](https://maps.app.goo.gl/n9F1QoSv3xkkgPu96) - cafe with decent scrambled eggs breakfast,
   unfortunately they were out of the salmon add on.
   The squeeze orange juice was a good size without water or sugar, just as well since I forgot to specify that.
   WiFi 284/188 Mbit/s
+- [Jay's](https://maps.app.goo.gl/rYymAK4bvph7gGU18) - american diner.
+  Decent spicy burger and thick cut fries.
+  Has US news playing on 2 TVs to add to the american atmosphere - not sure this is a plus point!
+  Reasonable prices but closes early in the day.
+  WiFi 16/32 Mbit/s
 - [Caracol](https://maps.app.goo.gl/xjjuatgyH4kuCUbSA) - was recommended to me as a decent local
   restaurant.
   The veal milanese with fries was decent and hit the spot after
