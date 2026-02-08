@@ -76,9 +76,9 @@ south.
 ### Attractions in Buenos Aires
 
 - [Plaza Oriental Republic of Uruguay](https://maps.app.goo.gl/SrCjRvExdeenfeHy9)
-  - [Calistenia Park](https://maps.app.goo.gl/qtu3AKpYnzCbWVcH9) - street workout calisthetic bars
-- [Plaza de calistenia - CORE Espacios](https://maps.app.goo.gl/hSyZBrdVKW3zuF6VA) - street workout calisthetic bars
-- [Puerto Calistenia](https://maps.app.goo.gl/G8KppdFW1wLcivKo7) - street workout calisthetic bars
+  - [Calistenia Park](https://maps.app.goo.gl/qtu3AKpYnzCbWVcH9) - street workout calisthenic bars
+- [Plaza de calistenia - CORE Espacios](https://maps.app.goo.gl/hSyZBrdVKW3zuF6VA) - street workout calisthenic bars
+- [Puerto Calistenia](https://maps.app.goo.gl/G8KppdFW1wLcivKo7) - street workout calisthenic bars
 
 ### Restaurants in Buenos Aires
 
