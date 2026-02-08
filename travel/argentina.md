@@ -106,6 +106,8 @@ south.
 
 TODO:
 
+- [El Banco Rojo](El Banco Rojo) - 4.5 burger
+- [Parrilla Bar Polo](https://maps.app.goo.gl/z4p1yZ8qncewP2TY7) - 4.5 closes at 5pm
 - [Je Suis Raclette](Je Suis Raclette) - 4.7 swiss
 - [Hierro Parrilla San Telmo](https://maps.app.goo.gl/QLC8dQXeZJMEqoWx6) - 4.7
 - [Nica Mercado](https://maps.app.goo.gl/Y8nReHLmVtQX7ufa6) - 4.5
