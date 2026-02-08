@@ -64,8 +64,8 @@ south.
   architecture
 - [Microcentro](https://www.google.com/maps/search/?api=1&query=Microcentro+Buenos+Aires) - central location close to
   major sights and transport, best for short stays
-- [San Telmo](https://maps.app.goo.gl/sWz53mGajVejM8kK7) - historic district known for tango, antiques and colonial
-  streets
+- [San Telmo](https://maps.app.goo.gl/sWz53mGajVejM8kK7) - near historic district,
+  with lots of restaurants and an antiques market, cheaper to stay in than Palmero
 - [Puerto Madero](https://maps.app.goo.gl/DJRA9uobRj7mVkYz7) - modern waterfront area with high-end hotels and
   restaurants
 - [Belgrano](https://maps.app.goo.gl/gJsQbhKoDhMRxUDbA) - residential and calm neighbourhood with good transport and
@@ -75,12 +75,36 @@ south.
 
 ### Attractions in Buenos Aires
 
-- [Plaza Oriental Republic of Uruguay](https://maps.app.goo.gl/SrCjRvExdeenfeHy9)
-  - [Calistenia Park](https://maps.app.goo.gl/qtu3AKpYnzCbWVcH9) - street workout calisthenic bars
-- [Plaza de calistenia - CORE Espacios](https://maps.app.goo.gl/hSyZBrdVKW3zuF6VA) - street workout calisthenic bars
-- [Puerto Calistenia](https://maps.app.goo.gl/G8KppdFW1wLcivKo7) - street workout calisthenic bars
-- [Mercado San Telmo](https://maps.app.goo.gl/fBNUcbUJr37z3QfEA) - permanent covered street market wiht lots of food
+- [Plaza de Mayo](https://maps.app.goo.gl/yCaH1FXabYKRz7dQ8) - historic main square surrounded by key political and
+  cultural landmarks like the Presidential Palace and Bank of Argentina.
+  I don't really rate this area personally but you need to see it once as it is the heart of argentine power
+  - [Casa Rosada](https://maps.app.goo.gl/vwp7K3PKJc6xGMue9) - pink Presidential Palace, has tours
+  - [Plaza de calistenia - CORE Espacios](https://maps.app.goo.gl/hSyZBrdVKW3zuF6VA) - street workout calisthenic bars
+- [Av. Corrientes](https://maps.app.goo.gl/CV1B4Do3yfLFrkxM8) - broadway - street full of theatres and people
+  - [Teatro Colón](https://www.google.com/maps/search/?api=1&query=Teatro+Colon+Buenos+Aires) - famous opera house with
+    nice architecture
+  - [Mirador del Obelisco](Mirador del Obelisco)
+- [Recoleta](https://maps.app.goo.gl/YB9SayE22bHhTouj9) - affluent area with restaurants and several historical
+  attractions:
+  - [Recoleta Cemetery](https://maps.app.goo.gl/hCk4c8SojDeZj8Kk8) - famous cemetery known for ornate mausoleums including Eva Perón's tomb
+  - [Nacional Museum of Fine Arts](https://maps.app.goo.gl/96YivMQwtWCdzT1c6)
+  - [Facultad de Derecho (UBA)](https://maps.app.goo.gl/1vHwJNNjtfraJccF7) - university building
+  - [Floralis Genérica](https://maps.app.goo.gl/f27FLoBfqviqSSyM6) - large steel flower sculpture that opens and closes with daylight
+  - [Centauro Herido](https://maps.app.goo.gl/2dKAbmdPgPDLqdJT8)
+  - [Museo de Arte Latinoamericano de Buenos Aires](https://maps.app.goo.gl/S9fAAkgbiawBxa5W9) - art museum
+  - [Plaza Oriental Republic of Uruguay](https://maps.app.goo.gl/SrCjRvExdeenfeHy9)
+    - [Calistenia Park](https://maps.app.goo.gl/qtu3AKpYnzCbWVcH9) - street workout calisthenic bars
+- [Mercado San Telmo](https://maps.app.goo.gl/fBNUcbUJr37z3QfEA) - permanent covered street market with lots of food
   places and arts & crafts
+- [Tres de Febrero Park](https://maps.app.goo.gl/2pnQjYTUpckVYXDw8) - large park with lake and calisthenics bars
+  - [Lago de Regatas](https://maps.app.goo.gl/34GiUcj8cq1YnF9P6) - lake
+  - [El Rosedal Garden](https://maps.app.goo.gl/sd7943niDGLknV3C8) - rose garden
+  - [Calisthenics Park](https://maps.app.goo.gl/iSMNc8bN2m6419Qx6) - street workout bars
+- [Puerto Madero](https://maps.app.goo.gl/vh8aRGTQSwmePvQw8) - gentrified waterfront with restaurants
+- [Caminito, La Boca](https://www.google.com/maps/search/?api=1&query=Caminito+La+Boca+Buenos+Aires) - street art area
+  with local performers
+- [Puerto Calistenia](https://maps.app.goo.gl/G8KppdFW1wLcivKo7) - street workout calisthenic bars,
+  between Puerto Madero and SAn Telmo
 
 ### Restaurants in Buenos Aires
 
