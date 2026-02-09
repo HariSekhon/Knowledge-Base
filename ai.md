@@ -478,7 +478,8 @@ Idea to app in seconds.
 - [Cursor AI](https://www.cursor.com) - separate Editor that requires download
   - limited completions in free edition
   - reads your files on disk to do work appropriate to your project
-  - calls APIs to use models like [Claude](#claude)
+  - calls APIs to use models including OpenAI's ChatGPT, Anthropic Opus, Google Gemini, Claude Sonnet and its own
+    Composer 1 model
 - [Agentic](https://www.agentic.ai/)
 - [Windsurf](https://windsurf.com/editor)
 
