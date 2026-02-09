@@ -260,6 +260,7 @@ You can book a bus all the way online at:
 - [Turbus](https://www.turbus.cl/)
 - [PullmanBus](https://www.pullmanbus.cl/)
 - [FlixBus](https://www.flixbus.cl/)
+- [CondorBus](https://www.condorbus.cl/)
 
 Since buses leave every 15-20 minutes I just turned up and bought a ticket on the next Turbus,
 but if you're going at the weekends you might want to book online just to be safe.
