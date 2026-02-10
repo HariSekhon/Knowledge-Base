@@ -473,7 +473,7 @@ Idea to app in seconds.
 ## Coding
 
 - [Cursor AI](https://www.cursor.com) - separate Editor that requires download
-  - limited completions in free edition
+  - low usage quota in free tier - I used up my limit in 1 hour
   - reads your files on disk to do work appropriate to your project
   - calls APIs to use models including OpenAI's ChatGPT, Anthropic Opus, Google Gemini, Claude Sonnet and its own
     Composer 1 model
