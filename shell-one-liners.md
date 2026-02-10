@@ -31,6 +31,8 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
   - [Base64 Secrets to avoid dodgy characters](#base64-secrets-to-avoid-dodgy-characters)
   - [Deduplicate Lines Using Awk](#deduplicate-lines-using-awk)
   - [Find Lines in a File present in Other Files](#find-lines-in-a-file-present-in-other-files)
+  - [Find Lines in a File not present in Other Files](#find-lines-in-a-file-not-present-in-other-files)
+  - [Removing Files with Difficult Special Characters](#removing-files-with-difficult-special-characters)
 - [Network](#network)
   - [Get Your Public IP Address](#get-your-public-ip-address)
   - [List Open TCP/UDP Ports](#list-open-tcpudp-ports)
@@ -323,6 +325,24 @@ grep -Fvxhf "spotify/Liked Songs" "spotify/Smooth Hip-Hop 😎" |
 grep -v "^spotify:local:" |
 spotify_set_tracks_uri_to_liked.sh
 ```
+
+### Removing Files with Difficult Special Characters
+
+Sometimes you're coding
+and generate filenames with awful characters that can be either difficult or dangerous to remove in the shell.
+
+In this case, cheat, outsource the deletion to an interactive tool like Finder or on the command line Midnight
+Commander.
+
+Start midnight commander:
+
+```shell
+mc
+```
+
+Scroll down to the file or directory and then hit `Esc` - `8` to prompt deletion.
+
+`Esc` - `fn` - `0` to exit on macOS.
 
 ## Network
 
