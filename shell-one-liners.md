@@ -334,7 +334,7 @@ and generate filenames with awful characters that can be either difficult or dan
 In this case, cheat, outsource the deletion to an interactive tool like Finder or on the command line Midnight
 Commander.
 
-Start midnight commander:
+Start Midnight Commander:
 
 ```shell
 mc
