@@ -164,4 +164,7 @@ Uses the above script combined with `copy_to_clipboard.sh` portable script for [
 screen_terminal_to_clipboard.sh  # screen args such as window number
 ```
 
+This one is more convenient to use for pasting your terminal results back to an [AI](ai.md) LLM or if you want
+to share the file as it automatically retains the tempfile.
+
 **Ported from private Knowledge Base page 2012+** (should have had earlier notes)
