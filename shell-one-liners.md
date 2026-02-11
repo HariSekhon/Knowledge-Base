@@ -328,11 +328,17 @@ spotify_set_tracks_uri_to_liked.sh
 
 ### Removing Files with Difficult Special Characters
 
-Sometimes you're coding
-and generate filenames with awful characters that can be either difficult or dangerous to remove in the shell.
+Sometimes you're coding and generate filenames with awful characters such as newlines, unicodes or emojis that can be
+either difficult or downright dangerous to try to remove on the shell command line.
 
-In this case, cheat, outsource the deletion to an interactive tool like Finder or on the command line Midnight
-Commander.
+In this case, cheat - outsource the deletion to an interactive tool like your GUI File Browser such as macOS Finder
+or on the command line using an interactive tool like [Midnight Commander](https://midnight-commander.org/).
+
+Install Midnight Commander on [macOS](mac.md) using [Homebrew](brew.md):
+
+```shell
+brew install mc
+```
 
 Start Midnight Commander:
 
