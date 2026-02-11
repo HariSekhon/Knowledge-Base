@@ -57,15 +57,13 @@ south.
 
 ### Best Areas to Stay in Buenos Aires
 
-- [Palermo Soho](https://maps.app.goo.gl/T99rNHFCi1HtevbSA) - trendy area with cafes, nightlife and shopping
-- [Palermo Hollywood](https://maps.app.goo.gl/cswcLMR5Qz6b2EMfA) - restaurant & bar focused neighbourhood with a quieter
-  vibe than Soho
-- [Recoleta](https://maps.app.goo.gl/gnUHa5pXZ3LUCoh38) - elegant and safe area near parks, museums, with classic
-  architecture
-- [Microcentro](https://www.google.com/maps/search/?api=1&query=Microcentro+Buenos+Aires) - central location close to
-  major sights and transport, best for short stays
+- [Palermo Soho](https://maps.app.goo.gl/T99rNHFCi1HtevbSA) - gentrified suburb with cafes, nightlife and boutique shopping
+  - [Palermo Hollywood](https://maps.app.goo.gl/cswcLMR5Qz6b2EMfA) - restaurant & bar focused neighbourhood with a quieter
+    vibe than Soho - the wrong side of the track tracks
 - [San Telmo](https://maps.app.goo.gl/sWz53mGajVejM8kK7) - near historic district,
   with lots of restaurants and an antiques market, cheaper to stay in than Palmero
+- [Recoleta](https://maps.app.goo.gl/gnUHa5pXZ3LUCoh38) - elegant and safe area near parks, museums, with classic
+  architecture
 - [Puerto Madero](https://maps.app.goo.gl/DJRA9uobRj7mVkYz7) - modern waterfront area with high-end hotels and
   restaurants
 - [Belgrano](https://maps.app.goo.gl/gJsQbhKoDhMRxUDbA) - residential and calm neighbourhood with good transport and
