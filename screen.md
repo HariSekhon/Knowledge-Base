@@ -158,13 +158,14 @@ screen -S [<session_name>] -Q windows
 
 ### Dump Screen Terminal Output to Clipboard
 
-Uses the above script combined with `copy_to_clipboard.sh` portable script for [Mac](mac.md) or [Linux](linux.md).
+Uses the above script `screen_terminal_to_stdout.sh` combined with the `copy_to_clipboard.sh` portable script for
+[Mac](mac.md) and [Linux](linux.md) to send the terminal output straight into the clipboard ready to paste out to AI.
 
 ```shell
 screen_terminal_to_clipboard.sh  # screen args such as window number
 ```
 
-This one is more convenient to use for pasting your terminal results back to an [AI](ai.md) LLM or if you want
-to share the file as it automatically retains the tempfile.
+This one is quicker and convenient to use for quickly pasting your terminal results back to an [AI](ai.md) LLM
+or if you want to share the file as it automatically retains the tempfile.
 
 **Ported from private Knowledge Base page 2012+** (should have had earlier notes)
