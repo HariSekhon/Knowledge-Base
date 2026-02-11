@@ -9,6 +9,9 @@ The classic terminal multiplexer.
 - [Commands](#commands)
 - [Screen Config](#screen-config)
 - [KeyStrokes](#keystrokes)
+- [Useful Scripts](#useful-scripts)
+  - [Dump Screen Terminal Output to File and Stdout](#dump-screen-terminal-output-to-file-and-stdout)
+  - [Dump Screen Terminal Output to Clipboard](#dump-screen-terminal-output-to-clipboard)
 
 <!-- INDEX_END -->
 
@@ -123,5 +126,44 @@ Escape the shell key of `Ctrl-a` to jump to the start of the line by doing `Ctrl
 | Send a literal `Ctrl-a`                                                                            | `Ctrl-a` , `a`                                                                |
 | Text Screenshot to `~/hardcopy.$WINDOW`<br>Overwrites this same text file each time called         | `Ctrl-a` , `h`                                                                |
 | Append Start / Stop screen log to `~/screenlog.$WINDOW`                                            | `Ctrl-a` , `H`                                                                |
+
+## Useful Scripts
+
+From [DevOps-Bash-tools](devops-bash-tools.md) repo:
+
+### Dump Screen Terminal Output to File and Stdout
+
+```shell
+screen_terminal_to_stdout.sh  # screen args such as window number
+```
+
+You can have this not delete the tempfile by setting the environment variable
+
+Retains the temp file if this environment variable is set to any value:
+
+```shell
+export SCREEN_TERMINAL_NO_DELETE_TEMPFILE=1
+```
+
+You can pass screen options as args such as:
+
+```text
+    -S <session_name>
+    -p <window_number>
+```
+
+See window numbers using your `Ctrl-A` + `w` hotkey combo or in stdout via this command:
+
+```shell
+screen -S [<session_name>] -Q windows
+```
+
+### Dump Screen Terminal Output to Clipboard
+
+Uses the above script combined with `copy_to_clipboard.sh` portable script for [Mac](mac.md) or [Linux](linux.md).
+
+```shell
+screen_terminal_to_clipboard.sh  # screen args such as window number
+```
 
 **Ported from private Knowledge Base page 2012+** (should have had earlier notes)
