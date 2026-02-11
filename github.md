@@ -16,6 +16,7 @@ NOT PORTED YET
   - [CodeOwners Gotcha - Secret Teams](#codeowners-gotcha---secret-teams)
 - [GitHub Profile Page](#github-profile-page)
 - [Use Permalink URL References for Documentation or Support Issues](#use-permalink-url-references-for-documentation-or-support-issues)
+- [GitHub Releases](#github-releases)
 - [Analyze GitHub Repos](#analyze-github-repos)
   - [OpenHub](#openhub)
   - [SonarCloud](#sonarcloud)
@@ -171,6 +172,35 @@ references.
 A permalink uses the commit hashref so that it always goes to that fixed line or anchor in history.
 
 Press `y` on a page while browsing `GitHub.com` to change the current branch URL to a permalink hashref commit URL.
+
+## GitHub Releases
+
+Use GitHub Releases for artifacts ranging from compiled binary downloads or installers to periodically regenerated
+images such as graphs that you want to reference in your `README.md` but you don't want to pollute your git
+repo history with.
+
+Create a `graphs` release:
+
+```shell
+gh release create "graphs" \
+                  --repo "$repo" \
+                  --title "$tag" \
+                  --notes "" \
+                  --latest \
+                  --prerelease 2>/dev/null || :
+```
+
+Upload a file such as a regenerated graph to your release - this lives outside of the Git code repo history:
+
+```shell
+gh release upload "graphs" "$file" --clobber --repo "$repo"
+```
+
+The file is then available at the URL:
+
+```text
+https://github.com/$repo/releases/download/graphs/$file
+```
 
 ## Analyze GitHub Repos
 
