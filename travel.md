@@ -220,7 +220,7 @@ surprisingly still do not speak English.
 - [Ecuador](travel/ecuador.md)
 - [Peru](travel/peru.md) ⭐
 - [Bolivia](travel/bolivia.md)
-- [Uruguay](travel/uruguay.md)
+- [Uruguay](travel/uruguay.md) (in-progress)
 
 <!--
 
