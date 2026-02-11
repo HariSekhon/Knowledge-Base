@@ -137,8 +137,6 @@ From [DevOps-Bash-tools](devops-bash-tools.md) repo:
 screen_terminal_to_stdout.sh  # screen args such as window number
 ```
 
-You can have this not delete the tempfile by setting the environment variable
-
 Retains the temp file if this environment variable is set to any value:
 
 ```shell
