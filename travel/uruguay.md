@@ -1,4 +1,4 @@
-# Uruguay.md
+# Uruguay
 
 <!-- INDEX_START -->
 
