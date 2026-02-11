@@ -24,8 +24,8 @@ as previously it worked out so expensive
 to get global data that it was cheaper for me to buy just enough data per country each time.
 
 It was $100 for 30 days of glucosamine supplements due to import taxes and in some places
-even the shaving cream was as expensive as Central American countries (\$12-\$15), so you'll save money if you bring all your own
-western supplies.
+even the shaving cream was as expensive as Central American countries (\$12-\$15), so you'll save money if you bring
+all your own western supplies.
 
 ## Buenos Aires
 
