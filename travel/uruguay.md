@@ -1,5 +1,12 @@
 # Uruguay.md
 
+<!-- INDEX_START -->
+
+- [Montevideo](#montevideo)
+  - [Best Areas to Stay in Montevideo](#best-areas-to-stay-in-montevideo)
+
+<!-- INDEX_END -->
+
 ## Montevideo
 
 ### Best Areas to Stay in Montevideo
