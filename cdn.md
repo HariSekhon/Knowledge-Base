@@ -79,6 +79,8 @@ You can immediately CDN assets in a GitHub repo by just using this URL format:
 cdn.jsdelivr.net/gh/<user>/<repo>@<ref>/<path>
 ```
 
+See the [documentation](https://www.jsdelivr.com/documentation#id-github) for more details.
+
 ### Akamai
 
 <https://www.akamai.com>
