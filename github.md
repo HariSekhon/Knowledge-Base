@@ -202,6 +202,9 @@ The file is then available at the URL:
 https://github.com/$repo/releases/download/graphs/$file
 ```
 
+You can't use [JSDelivr](cdn.md#jsdelivr) to [CDN](cdn.md) front GitHub Release Assets unlike release branches,
+but it saves on history and is fast enough for README use cases such a regenerating graphs.
+
 ## Analyze GitHub Repos
 
 ### OpenHub
