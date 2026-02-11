@@ -11,6 +11,7 @@ Modern CDNs add security features like DDoS protection and edge-computing capabi
 - [Best Free CDNs](#best-free-cdns)
   - [Wordpress CDNs](#wordpress-cdns)
 - [Popular CDNs](#popular-cdns)
+  - [JSDelivr](#jsdelivr)
   - [Akamai](#akamai)
   - [Cloudflare](#cloudflare)
   - [Fastly](#fastly)
@@ -24,7 +25,6 @@ Modern CDNs add security features like DDoS protection and edge-computing capabi
   - [KeyCDN](#keycdn)
   - [Gcore](#gcore)
   - [CDN77](#cdn77)
-  - [JSDelivr](#jsdelivr)
   - [LightCDN](#lightcdn)
   - [Bunny CDN](#bunny-cdn)
 
@@ -64,6 +64,20 @@ Don't waste time on limited time trials.
 ## Popular CDNs
 
 Roughly stack ranked by popularity and maturity.
+
+### JSDelivr
+
+<https://www.jsdelivr.com/>
+
+Free CDN for open-source projects used for hosting JavaScript libraries and files.
+
+Popular among developers for specific use cases.
+
+You can immediately CDN assets in a GitHub repo by just using this URL format:
+
+```text
+cdn.jsdelivr.net/gh/<user>/<repo>@<ref>/<path>
+```
 
 ### Akamai
 
@@ -183,14 +197,6 @@ Known for its transparent pricing and high-performance network, making it a popu
 mid-sized businesses.
 
 Uses free LetsEncrypt SSL certificates.
-
-### JSDelivr
-
-<https://www.jsdelivr.com/>
-
-Free CDN for open-source projects used for hosting JavaScript libraries and files.
-
-Popular among developers for specific use cases.
 
 ### LightCDN
 
