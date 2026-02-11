@@ -29,6 +29,11 @@ all your own western supplies.
 
 ## Buenos Aires
 
+On the Eastern coast of South America, but really not a beach city...
+there is a large nature reserve blocking the east coast and a man made north-south rectangular bay at
+[Puerto Madero](https://maps.app.goo.gl/DJRA9uobRj7mVkYz7) which is considered the waterfront -
+Dubai Marina it is not, however.
+
 ### Buenos Aires Airport
 
 There are two airports,
