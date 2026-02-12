@@ -115,8 +115,12 @@ There is free open wifi `Buquebus_Wifi_Free` 11/35 Mbit/s.
   - [Museo de Arte Latinoamericano de Buenos Aires](https://maps.app.goo.gl/S9fAAkgbiawBxa5W9) - art museum
   - [Plaza Oriental Republic of Uruguay](https://maps.app.goo.gl/SrCjRvExdeenfeHy9)
     - [Calistenia Park](https://maps.app.goo.gl/qtu3AKpYnzCbWVcH9) - street workout calisthenic bars
-- [Mercado San Telmo](https://maps.app.goo.gl/fBNUcbUJr37z3QfEA) - permanent covered street market with lots of food
-  places and arts & crafts
+- San Telmo:
+  - [Mercado San Telmo](https://maps.app.goo.gl/fBNUcbUJr37z3QfEA) - permanent covered street market with lots of food
+    places and arts & crafts
+- Palmero:
+  - [Distrito Arcos](https://maps.app.goo.gl/HmAo68fg2A455KQ8A) - hip outdoor outlet shooping in a converted former
+    railway viaduct. Has free toilets
 - [Tres de Febrero Park](https://maps.app.goo.gl/2pnQjYTUpckVYXDw8) - large park with lake and calisthenics bars
   - [Lago de Regatas](https://maps.app.goo.gl/34GiUcj8cq1YnF9P6) - lake
   - [El Rosedal Garden](https://maps.app.goo.gl/sd7943niDGLknV3C8) - rose garden
