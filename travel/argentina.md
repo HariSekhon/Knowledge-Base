@@ -6,6 +6,7 @@
 - [Buenos Aires](#buenos-aires)
   - [Buenos Aires Airport](#buenos-aires-airport)
     - [Travel from Ezeiza Airport to Buenos Aires City](#travel-from-ezeiza-airport-to-buenos-aires-city)
+  - [Ferry to Uruguay Montevideo](#ferry-to-uruguay-montevideo)
   - [Taxi Apps in Buenos Aires](#taxi-apps-in-buenos-aires)
   - [Best Areas to Stay in Buenos Aires](#best-areas-to-stay-in-buenos-aires)
   - [Attractions in Buenos Aires](#attractions-in-buenos-aires)
@@ -58,6 +59,19 @@ Make sure you confirm the destination with the bus driver as it turns out there 
 you need the one that is going to Plaza de Mayo to take you to central Buenos Aires, as the other two versions of the
 number 8 bus veer off slightly to different areas in the city near the end like La Boca which is several blocks to the
 south.
+
+### Ferry to Uruguay Montevideo
+
+You can take the ferry from Buenos Aires to Montevideo, the capital of Uruaguay, which is just across the water.
+
+It costs about 1/3 of the price of a plane ticket between the two cities, and you can buy it online here:
+
+<https://www.buquebus.com/ar>
+
+The [Buquebus Terminal](https://maps.app.goo.gl/YbYvAiSvcGGdT7p89) where you catch the ferry is in the north east of the
+city near the main areas and at the north end of Puerto Madero.
+
+There is free open wifi `Buquebus_Wifi_Free` 11/35 Mbit/s.
 
 ### Taxi Apps in Buenos Aires
 
