@@ -224,6 +224,7 @@ TODO:
   - [Lo Del Francés Café Bistrot](https://maps.app.goo.gl/SDxNU7FE62mPcqUV8) - 4.4
 - [MARTINA restaurant parrilla](https://maps.app.goo.gl/x9Q6oYQ9e6xY6U7S9) - 4.4
 - Palmero:
+  - [Warren Café & Brunch](https://maps.app.goo.gl/VTaEXbYzRz7KZv567) - 4.8
   - [Pibä](https://maps.app.goo.gl/o1NJ3GgYgZ8TyF1b9) - 4.5 bar & grill
 - Palmero Hollywood - the wrong side of the train tracks:
   - [UCO Restaurante](https://maps.app.goo.gl/rZAhPgCPpCKn83MN6) - 4.6 argentinian
