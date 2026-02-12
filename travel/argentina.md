@@ -176,6 +176,9 @@ priced.
     The apple pie with vanilla ice cream was bigger than anticipated and filling.
     The place won't win any culinary awards but sits well as it's 4.4 star rating.
     Wifi didn't work for me even though it was connected at full signal strength
+- Palmero:
+  - [Burger Joint](https://maps.app.goo.gl/gJmxJVF6VCA5f97CA) - Jamaican burger with pineapple and fries for 20,000AR
+    (\$14.50) was ok - has both indoor and outdoor seating. Wifi 4/3 Mbit/s
 - [Jay's](https://maps.app.goo.gl/rYymAK4bvph7gGU18) - american diner.
   Decent spicy burger and thick cut fries.
   Has US news playing on 2 TVs to add to the american atmosphere - not sure this is a plus point!
