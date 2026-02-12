@@ -121,7 +121,11 @@ The restaurants near the [Puente Azucena Villaflor bridge](https://maps.app.goo.
 priced.
 
 - [Mercado San Telmo](https://maps.app.goo.gl/fBNUcbUJr37z3QfEA) - permanent covered street market wiht lots of food
-  places and arts & crafts
+  places and arts & crafts, closes early around 7:30pm, it was locked up before the official 8pm closing time, so this
+  is a good place to get some lunch out of the midday sun
+  - [EL Hornero de San Telmo](https://maps.app.goo.gl/pQnNNnaMrfShpiJH7) - good empanadas (like small cornish pasties)
+    for 4200 AR each ($3).
+    The beef steak pieces and beef & potato ones were both so good I went back again for the same the next day
 - [Hiro](https://maps.app.goo.gl/n9F1QoSv3xkkgPu96) - cafe with decent scrambled eggs breakfast,
   unfortunately they were out of the salmon add on.
   The squeeze orange juice was a good size without water or sugar, just as well since I forgot to specify that.
