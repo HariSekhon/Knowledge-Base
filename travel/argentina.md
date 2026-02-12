@@ -187,14 +187,15 @@ TODO:
   - [Villegas Restó](https://maps.app.goo.gl/6q9S1NJVNG5e5wid6) - 4.7, expensive
   - [Puerto Cristal](https://maps.app.goo.gl/v9NgFspncJxiBikc9) - 4.6 fine dining, expensive
   - [MARE by Fran](https://maps.app.goo.gl/TaoGhFkXPhbQDWLc6) - 4.5 seafood, expensive
-- [El Banco Rojo](El Banco Rojo) - 4.5 burger
-- [Parrilla Bar Polo](https://maps.app.goo.gl/z4p1yZ8qncewP2TY7) - 4.5 steak closes at 5pm
-- [Je Suis Raclette](Je Suis Raclette) - 4.7 swiss
-- [Hierro Parrilla San Telmo](https://maps.app.goo.gl/QLC8dQXeZJMEqoWx6) - 4.7
+- San Telmo:
+  - [El Banco Rojo](https://maps.app.goo.gl/VSLHjjWhntnvUmjU8) - 4.5 burger
+  - [Parrilla Bar Polo](https://maps.app.goo.gl/z4p1yZ8qncewP2TY7) - 4.5 steak closes at 5pm
+  - [Je Suis Raclette](https://maps.app.goo.gl/9bSikW9mjoKuysoP8) - 4.7 swiss
+  - [Hierro Parrilla San Telmo](https://maps.app.goo.gl/QLC8dQXeZJMEqoWx6) - 4.7
+  - [Modular Café](https://maps.app.goo.gl/yURAdJyvkJcaQhwb7) - 4.7, stops serving food at 4pm
 - [Rajatabla Café](https://maps.app.goo.gl/h5kqMuuTvv2AHfVZA) - 4.8
-- [Modular Café](https://maps.app.goo.gl/yURAdJyvkJcaQhwb7) - 4.7, stops serving food at 4pm
 - [Che Taco Comida Mexicana](https://maps.app.goo.gl/AYz1SgkArjdBjEcw9) - 4.4 mexican, nearer the edge of San Telmo,
   basic decor. Has chilaquiles on the menu!
-- [Lo Del Francés Café Bistrot](Lo Del Francés Café Bistrot) - 4.4
+- [Lo Del Francés Café Bistrot](https://maps.app.goo.gl/SDxNU7FE62mPcqUV8) - 4.4
 - [MARTINA restaurant parrilla](https://maps.app.goo.gl/x9Q6oYQ9e6xY6U7S9) - 4.4
 - [Sagardi Argentina](https://maps.app.goo.gl/31cerJzHWFooytHZA) - 4.5 pricier
