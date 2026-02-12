@@ -194,6 +194,7 @@ TODO:
   - [Puerto Cristal](https://maps.app.goo.gl/v9NgFspncJxiBikc9) - 4.6 fine dining, expensive
   - [MARE by Fran](https://maps.app.goo.gl/TaoGhFkXPhbQDWLc6) - 4.5 seafood, expensive
 - San Telmo:
+  - [La Choripanería](https://maps.app.goo.gl/8FMKm3vvuuz2UZrt8) - 4.6, bar seating, always full whenever I pass by
   - [Parrilla Bar Polo](https://maps.app.goo.gl/z4p1yZ8qncewP2TY7) - 4.5 steak closes at 5pm
   - [Rajatabla Café](https://maps.app.goo.gl/h5kqMuuTvv2AHfVZA) - 4.8 - cafe with sandwiches and yoghurt granola fruit
   - [El Banco Rojo](https://maps.app.goo.gl/VSLHjjWhntnvUmjU8) - 4.5 burger
