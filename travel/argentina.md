@@ -120,40 +120,53 @@ you're indirectly paying premium rents to landlords, and Dubai Marina it is not.
 The restaurants near the [Puente Azucena Villaflor bridge](https://maps.app.goo.gl/1UB72jsdhqRvbPd67) are particularly badly
 priced.
 
-- [Mercado San Telmo](https://maps.app.goo.gl/fBNUcbUJr37z3QfEA) - permanent covered street market wiht lots of food
-  places and arts & crafts, closes early around 7:30pm, it was locked up before the official 8pm closing time, so this
-  is a good place to get some lunch out of the midday sun
-  - [EL Hornero de San Telmo](https://maps.app.goo.gl/pQnNNnaMrfShpiJH7) - good empanadas (like small cornish pasties)
-    for 4200 AR each ($3).
-    The beef steak pieces and beef & potato ones were both so good I went back again for the same the next day
-- [Hiro](https://maps.app.goo.gl/n9F1QoSv3xkkgPu96) - cafe with decent scrambled eggs breakfast,
-  unfortunately they were out of the salmon add on.
-  The squeeze orange juice was a good size without water or sugar, just as well since I forgot to specify that.
-  WiFi 284/188 Mbit/s
-- [Nica Mercado](https://maps.app.goo.gl/Y8nReHLmVtQX7ufa6) - cafe opposite San Telmo market.
-  Their granola yoghurt fruit bowl appeared modestly sized but was very satisfying.
-  Has wifi but unreliable, especially at the outside seating (Speedtest kept failing)
+- [Lucciano’s San Telmo](https://maps.app.goo.gl/6Ye8yZp64h8Qx46J9) - high quality ice cream gelateria, so good I went
+  back 3 days in a row.
+  There are two branches on broadway too at [Lucciano's Calle Corrientes](https://maps.app.goo.gl/hQUhMwHVvo5kacV58)
+  and a smaller takeaway only one at [Lucciano's Obelisco](https://maps.app.goo.gl/m9pTCENNtSzbVaYv6).
+  The Coco Rock with dessicated coconut is my favourite here,
+  although their pistacchio is decent too (not quite the best I've ever had),
+  and they have 3 chocolate flavours, I've tried one or two and they were good
+  (the hazelnut one was the least rich in flavour).
+  Like most pricey ice cream gelaterias you can try a 2-3 flavours before you buy.
+  Their waffle cones are also good, but I didn't try their coated ones as they look like calorie overkill
+- San Telmo:
+  - [Mercado San Telmo](https://maps.app.goo.gl/fBNUcbUJr37z3QfEA) - permanent covered street market wiht lots of food
+    places and arts & crafts, closes early around 7:30pm, it was locked up before the official 8pm closing time, so this
+    is a good place to get some lunch out of the midday sun
+    - [EL Hornero de San Telmo](https://maps.app.goo.gl/pQnNNnaMrfShpiJH7) - good empanadas (like small cornish pasties)
+      for 4200 AR each ($3).
+      The beef steak pieces and beef & potato ones were both so good I went back again for the same the next day
+  - [Hiro](https://maps.app.goo.gl/n9F1QoSv3xkkgPu96) - cafe with decent scrambled eggs breakfast,
+    unfortunately they were out of the salmon add on.
+    The squeeze orange juice was a good size without water or sugar, just as well since I forgot to specify that.
+    WiFi 284/188 Mbit/s
+  - [Nica Mercado](https://maps.app.goo.gl/Y8nReHLmVtQX7ufa6) - cafe opposite San Telmo market.
+    Their granola yoghurt fruit bowl appeared modestly sized but was very satisfying.
+    Has wifi but unreliable, especially at the outside seating (Speedtest kept failing)
+  - [Caracol](https://maps.app.goo.gl/xjjuatgyH4kuCUbSA) - was recommended to me as a decent local
+    restaurant.
+    The veal milanese with fries was decent and hit the spot after
+    a long day travelling into Buenos Aires.
+    The fries are the home made style.
+    The apple pie with vanilla ice cream was bigger than anticipated and filling.
+    The place won't win any culinary awards but sits well as it's 4.4 star rating.
+    Wifi didn't work for me even though it was connected at full signal strength
 - [Jay's](https://maps.app.goo.gl/rYymAK4bvph7gGU18) - american diner.
   Decent spicy burger and thick cut fries.
   Has US news playing on 2 TVs to add to the american atmosphere - not sure this is a plus point!
   Reasonable prices but closes early in the day.
   WiFi 16/32 Mbit/s
-- [Caracol](https://maps.app.goo.gl/xjjuatgyH4kuCUbSA) - was recommended to me as a decent local
-  restaurant.
-  The veal milanese with fries was decent and hit the spot after
-  a long day travelling into Buenos Aires.
-  The fries are the home made style.
-  The apple pie with vanilla ice cream was bigger than anticipated and filling.
-  The place won't win any culinary awards but sits well as it's 4.4 star rating.
-  Wifi didn't work for me even though it was connected at full signal strength
-- [Fabric Sushi](https://maps.app.goo.gl/mfTsQWn1z7Pr5Mbp7) - expensive, interior was nice but almost 100% empty as
-  people chose to sit on the few outside waterfront seats.
-  They were out of all ceviches, which is what I went there to try, they had no physical menu,
-  giving a QR code to the online menu, and no English menu at all, apparently the English translation online doesn’t
-  work.
-  There is lots of sushi and alcohol on the menu, sushi was ok - I wasn’t keen on the Kina,
-  but the 2 Sakes and Fabric were ok, although I wouldn’t revisit for these at these prices.
-  Has wifi
+- Puerto Madero:
+  - [Fabric Sushi](https://maps.app.goo.gl/mfTsQWn1z7Pr5Mbp7) - expensive, but as it's at the low footfall north end of
+    Puerto Madero it's not quite as expensive as the places by the central bridges.
+    The interior was nice but almost 100% empty as people chose to sit on the few outside waterfront seats.
+    They were completely out of all ceviches, which is what I went there to try, and they had no physical menu,
+    giving a QR code to the online menu, and no English menu at all, apparently the English translation online doesn’t
+    work.
+    There is lots of sushi and alcohol on the menu, sushi was ok - I wasn’t keen on the Kina,
+    but the 2 Sakes and Fabric sushi rolls were ok, although I wouldn’t revisit for these at these prices.
+    Has wifi
 
 Not Recommended:
 
@@ -165,6 +178,8 @@ Not Recommended:
 
 TODO:
 
+- [Persicco Teatros con Café Juan Valdez](https://maps.app.goo.gl/6HkpMX34UhXipYxd9) - ice cream shop on broadway
+  with the queue out the door at 11:30pm
 - Puerto Madero waterfront - Warning: restaurants here are the most expensive I've seen in Buenos Aires:
   - [Lobo Café Puerto Madero](https://maps.app.goo.gl/a4WWbcYhSRKdrtCG6) - popular cafe with good outdoor seating facing
     the waterfront, but tourist priced of course
