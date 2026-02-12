@@ -180,7 +180,8 @@ TODO:
 
 - [Persicco Teatros con Café Juan Valdez](https://maps.app.goo.gl/6HkpMX34UhXipYxd9) - ice cream shop on broadway
   with the queue out the door at 11:30pm
-- Puerto Madero waterfront - Warning: restaurants here are the most expensive I've seen in Buenos Aires:
+- Puerto Madero waterfront - Warning: restaurants here are the most expensive I've seen in Buenos Aires (most likely
+  due to high rent):
   - [Lobo Café Puerto Madero](https://maps.app.goo.gl/a4WWbcYhSRKdrtCG6) - popular cafe with good outdoor seating facing
     the waterfront, but tourist priced of course
   - [Villegas Restó](https://maps.app.goo.gl/6q9S1NJVNG5e5wid6) - 4.7, expensive
