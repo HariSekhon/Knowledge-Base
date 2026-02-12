@@ -134,6 +134,22 @@ south.
   The apple pie with vanilla ice cream was bigger than anticipated and filling.
   The place won't win any culinary awards but sits well as it's 4.4 star rating.
   Wifi didn't work for me even though it was connected at full signal strength
+- [Fabric Sushi](https://maps.app.goo.gl/mfTsQWn1z7Pr5Mbp7) - expensive, interior was nice but almost 100% empty as
+  people chose to sit on the few outside waterfront seats.
+  They were out of all ceviches, which is what I went there to try, they had no physical menu,
+  giving a QR code to the online menu, and no English menu at all, apparently the English translation online doesn’t
+  work.
+  There is lots of sushi and alcohol on the menu, sushi was ok - I wasn’t keen on the Kina,
+  but the 2 Sakes and Fabric were ok, although I wouldn’t revisit for these at these prices.
+  Has wifi
+
+Not Recommended:
+
+- [Big Pons](https://maps.app.goo.gl/6QxD51sZL5kCN8M67) - argentine burger chain, the Big Pons burger was less good than
+  a Burger King whopper. I'd skip this entirely next time, it's not worth the curiosity.
+  The outdoor seating is nicer at the [other one by the waterfront Puerto Madero waterfront](https://maps.app.goo.gl/YSXLoRvHgQpWQqrw5)
+  which is why it has a higher rating as it's one of the cheapest places to eat at the waterfront.
+  WiFi 23/166 Mbit/s
 
 TODO:
 
