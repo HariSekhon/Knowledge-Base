@@ -68,10 +68,14 @@ It costs about 1/3 of the price of a plane ticket between the two cities, and yo
 
 <https://www.buquebus.com/ar>
 
+It may not be obvious from the online website but you should book the Turista class rather than the Economy class as it
+has a better view on the upper deck, and you should queue immediately to get through to pick your preferred seats
+as they are not pre-allocated like on planes.
+
 The [Buquebus Terminal](https://maps.app.goo.gl/YbYvAiSvcGGdT7p89) where you catch the ferry is in the north east of the
 city near the main areas and at the north end of Puerto Madero.
 
-There is free open wifi `Buquebus_Wifi_Free` 11/35 Mbit/s.
+The terminal has free open wifi `Buquebus_Wifi_Free` 11/35 Mbit/s, but not on the ferry.
 
 ### Taxi Apps in Buenos Aires
 
@@ -101,6 +105,9 @@ There is free open wifi `Buquebus_Wifi_Free` 11/35 Mbit/s.
   I don't really rate this area personally but you need to see it once as it is the heart of argentine power
   - [Casa Rosada](https://maps.app.goo.gl/vwp7K3PKJc6xGMue9) - pink Presidential Palace, has tours
   - [Plaza de calistenia - CORE Espacios](https://maps.app.goo.gl/hSyZBrdVKW3zuF6VA) - street workout calisthenic bars
+- San Telmo:
+  - [Mercado San Telmo](https://maps.app.goo.gl/fBNUcbUJr37z3QfEA) - permanent covered street market with lots of food
+    places and arts & crafts
 - [Av. Corrientes](https://maps.app.goo.gl/CV1B4Do3yfLFrkxM8) - broadway - street full of theatres and people
   - [Teatro Colón](https://www.google.com/maps/search/?api=1&query=Teatro+Colon+Buenos+Aires) - famous opera house with
     nice architecture
@@ -115,12 +122,10 @@ There is free open wifi `Buquebus_Wifi_Free` 11/35 Mbit/s.
   - [Museo de Arte Latinoamericano de Buenos Aires](https://maps.app.goo.gl/S9fAAkgbiawBxa5W9) - art museum
   - [Plaza Oriental Republic of Uruguay](https://maps.app.goo.gl/SrCjRvExdeenfeHy9)
     - [Calistenia Park](https://maps.app.goo.gl/qtu3AKpYnzCbWVcH9) - street workout calisthenic bars
-- San Telmo:
-  - [Mercado San Telmo](https://maps.app.goo.gl/fBNUcbUJr37z3QfEA) - permanent covered street market with lots of food
-    places and arts & crafts
 - Palmero:
   - [Distrito Arcos](https://maps.app.goo.gl/HmAo68fg2A455KQ8A) - hip outdoor outlet shooping in a converted former
     railway viaduct. Has free toilets
+  - [Plaza Serrano](https://maps.app.goo.gl/Svoif52yWAF6JS2n9) - has weekend crafts market
 - [Tres de Febrero Park](https://maps.app.goo.gl/2pnQjYTUpckVYXDw8) - large park with lake and calisthenics bars
   - [Lago de Regatas](https://maps.app.goo.gl/34GiUcj8cq1YnF9P6) - lake
   - [El Rosedal Garden](https://maps.app.goo.gl/sd7943niDGLknV3C8) - rose garden
