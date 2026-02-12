@@ -126,6 +126,9 @@ priced.
   unfortunately they were out of the salmon add on.
   The squeeze orange juice was a good size without water or sugar, just as well since I forgot to specify that.
   WiFi 284/188 Mbit/s
+- [Nica Mercado](https://maps.app.goo.gl/Y8nReHLmVtQX7ufa6) - cafe opposite San Telmo market.
+  Their granola yoghurt fruit bowl appeared modestly sized but was very satisfying.
+  Has wifi but unreliable, especially at the outside seating (Speedtest kept failing)
 - [Jay's](https://maps.app.goo.gl/rYymAK4bvph7gGU18) - american diner.
   Decent spicy burger and thick cut fries.
   Has US news playing on 2 TVs to add to the american atmosphere - not sure this is a plus point!
@@ -148,7 +151,6 @@ priced.
   but the 2 Sakes and Fabric were ok, although I wouldn’t revisit for these at these prices.
   Has wifi
 
-- [Nica Mercado](https://maps.app.goo.gl/Y8nReHLmVtQX7ufa6) - 4.5
 Not Recommended:
 
 - [Big Pons](https://maps.app.goo.gl/6QxD51sZL5kCN8M67) - argentine burger chain, the Big Pons burger was less good than
