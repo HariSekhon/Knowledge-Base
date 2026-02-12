@@ -144,6 +144,12 @@ priced.
   - [Nica Mercado](https://maps.app.goo.gl/Y8nReHLmVtQX7ufa6) - cafe opposite San Telmo market.
     Their granola yoghurt fruit bowl appeared modestly sized but was very satisfying.
     Has wifi but unreliable, especially at the outside seating (Speedtest kept failing)
+  - [Je Suis Raclette](https://maps.app.goo.gl/9bSikW9mjoKuysoP8) - swiss, inside the indoor market.
+    The beef raclette was ok, not sure it's worth the 24,000 AR (\$17).
+    It's really sold on the novelty of it being a cultural swiss dish,
+    which btw is heavy on cheese so if you're on a diet or not keen on cheese, you should skip this one.
+    Next time I'd go for the veal in white wine mushroom sauce which was also better priced at 18,000 AR (\$13).
+    Wifi 108/99 Mbit/s
   - [Caracol](https://maps.app.goo.gl/xjjuatgyH4kuCUbSA) - was recommended to me as a decent local
     restaurant.
     The veal milanese with fries was decent and hit the spot after
@@ -191,7 +197,6 @@ TODO:
   - [Parrilla Bar Polo](https://maps.app.goo.gl/z4p1yZ8qncewP2TY7) - 4.5 steak closes at 5pm
   - [Rajatabla Café](https://maps.app.goo.gl/h5kqMuuTvv2AHfVZA) - 4.8 - cafe with sandwiches and yoghurt granola fruit
   - [El Banco Rojo](https://maps.app.goo.gl/VSLHjjWhntnvUmjU8) - 4.5 burger
-  - [Je Suis Raclette](https://maps.app.goo.gl/9bSikW9mjoKuysoP8) - 4.7 swiss
   - [Hierro Parrilla San Telmo](https://maps.app.goo.gl/QLC8dQXeZJMEqoWx6) - 4.7
   - [Modular Café](https://maps.app.goo.gl/yURAdJyvkJcaQhwb7) - 4.7, stops serving food at 4pm
   - [Che Taco Comida Mexicana](https://maps.app.goo.gl/AYz1SgkArjdBjEcw9) - 4.4 mexican, nearer the edge of San Telmo,
