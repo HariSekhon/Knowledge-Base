@@ -115,6 +115,11 @@ south.
 
 ### Restaurants in Buenos Aires
 
+Restaurants at the [Puerto Madero](https://maps.app.goo.gl/mtyYV2dDYqZMJZbW9) waterfront are noticably expensive as
+you're indirectly paying premium rents to landlords, and Dubai Marina it is not.
+The restaurants near the [Puente Azucena Villaflor bridge](https://maps.app.goo.gl/1UB72jsdhqRvbPd67) are particularly badly
+priced.
+
 - [Mercado San Telmo](https://maps.app.goo.gl/fBNUcbUJr37z3QfEA) - permanent covered street market wiht lots of food
   places and arts & crafts
 - [Hiro](https://maps.app.goo.gl/n9F1QoSv3xkkgPu96) - cafe with decent scrambled eggs breakfast,
@@ -143,6 +148,7 @@ south.
   but the 2 Sakes and Fabric were ok, although I wouldn’t revisit for these at these prices.
   Has wifi
 
+- [Nica Mercado](https://maps.app.goo.gl/Y8nReHLmVtQX7ufa6) - 4.5
 Not Recommended:
 
 - [Big Pons](https://maps.app.goo.gl/6QxD51sZL5kCN8M67) - argentine burger chain, the Big Pons burger was less good than
@@ -153,14 +159,20 @@ Not Recommended:
 
 TODO:
 
+- Puerto Madero waterfront - Warning: restaurants here are the most expensive I've seen in Buenos Aires:
+  - [Lobo Café Puerto Madero](https://maps.app.goo.gl/a4WWbcYhSRKdrtCG6) - popular cafe with good outdoor seating facing
+    the waterfront, but tourist priced of course
+  - [Villegas Restó](https://maps.app.goo.gl/6q9S1NJVNG5e5wid6) - 4.7, expensive
+  - [Puerto Cristal](https://maps.app.goo.gl/v9NgFspncJxiBikc9) - 4.6 fine dining, expensive
+  - [MARE by Fran](https://maps.app.goo.gl/TaoGhFkXPhbQDWLc6) - 4.5 seafood, expensive
 - [El Banco Rojo](El Banco Rojo) - 4.5 burger
 - [Parrilla Bar Polo](https://maps.app.goo.gl/z4p1yZ8qncewP2TY7) - 4.5 steak closes at 5pm
 - [Je Suis Raclette](Je Suis Raclette) - 4.7 swiss
 - [Hierro Parrilla San Telmo](https://maps.app.goo.gl/QLC8dQXeZJMEqoWx6) - 4.7
 - [Rajatabla Café](https://maps.app.goo.gl/h5kqMuuTvv2AHfVZA) - 4.8
-- [Nica Mercado](https://maps.app.goo.gl/Y8nReHLmVtQX7ufa6) - 4.5
 - [Modular Café](https://maps.app.goo.gl/yURAdJyvkJcaQhwb7) - 4.7, stops serving food at 4pm
+- [Che Taco Comida Mexicana](https://maps.app.goo.gl/AYz1SgkArjdBjEcw9) - 4.4 mexican, nearer the edge of San Telmo,
+  basic decor. Has chilaquiles on the menu!
 - [Lo Del Francés Café Bistrot](Lo Del Francés Café Bistrot) - 4.4
 - [MARTINA restaurant parrilla](https://maps.app.goo.gl/x9Q6oYQ9e6xY6U7S9) - 4.4
 - [Sagardi Argentina](https://maps.app.goo.gl/31cerJzHWFooytHZA) - 4.5 pricier
-- [Che Taco Comida Mexicana](https://maps.app.goo.gl/AYz1SgkArjdBjEcw9) - 4.4 Chilaquiles!
