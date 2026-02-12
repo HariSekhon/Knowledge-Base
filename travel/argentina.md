@@ -219,3 +219,5 @@ TODO:
   - [Sagardi Argentina](https://maps.app.goo.gl/31cerJzHWFooytHZA) - 4.5 pricier
   - [Lo Del Francés Café Bistrot](https://maps.app.goo.gl/SDxNU7FE62mPcqUV8) - 4.4
 - [MARTINA restaurant parrilla](https://maps.app.goo.gl/x9Q6oYQ9e6xY6U7S9) - 4.4
+- Palmero:
+  - [Crizia Restaurante](https://maps.app.goo.gl/VYquGHQmvMSY7CRW6) - 4.6 expensive
