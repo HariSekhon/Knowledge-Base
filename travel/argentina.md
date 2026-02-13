@@ -108,7 +108,8 @@ The terminal has free open wifi `Buquebus_Wifi_Free` 11/35 Mbit/s, but not on th
 - San Telmo:
   - [Mercado San Telmo](https://maps.app.goo.gl/fBNUcbUJr37z3QfEA) - permanent covered street market with lots of food
     places and arts & crafts
-  - Defensa street between Mercado San Telmo and Plaza de Maya has a Sunday (weekend?) crafts market
+  - Weekend crafts market along [Defensa](https://maps.app.goo.gl/4gvuZWq6AJt44KuW6) street between Mercado San Telmo
+    and Plaza de Maya
 - [Av. Corrientes](https://maps.app.goo.gl/CV1B4Do3yfLFrkxM8) - broadway - street full of theatres and people
   - [Teatro Colón](https://www.google.com/maps/search/?api=1&query=Teatro+Colon+Buenos+Aires) - famous opera house with
     nice architecture
