@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
 - [Montevideo](#montevideo)
   - [Best Areas to Stay in Montevideo](#best-areas-to-stay-in-montevideo)
   - [Travel from Buquebus Ferry](#travel-from-buquebus-ferry)
@@ -10,6 +11,11 @@
   - [Restaurants in Montevideo](#restaurants-in-montevideo)
 
 <!-- INDEX_END -->
+
+## Summary
+
+Just across the water from Buenos Aires, [Argentina](argentina.md),
+they use the Uruguayan Peso (UYU / \$U), which as of Feb 2026 was \$U 38 per $1 or \$U 52 per £1.
 
 ## Montevideo
 
@@ -40,8 +46,8 @@ There were hardly any hostels to choose from in Montevideo.
 If coming from [Buenos Aires](argentina.md) via the ferry (1/3rd the price of plane) arriving
 at [Terminal de Buquebus Montevideo], you can do one of the following:
 
-- Taxi App - Uber quoted roughly 500 UYU (\$13)
-- Take a bus for 64 UYU (\$1.70) quite easily to your final destination, consult Google Maps
+- Taxi App - Uber quoted roughly $U 500 (\$13)
+- Take a bus for $U 64 (\$1.70) quite easily to your final destination, consult Google Maps
 
 ### Taxi Apps in Montevideo
 
@@ -50,7 +56,7 @@ at [Terminal de Buquebus Montevideo], you can do one of the following:
 
 ### Buses in Montevideo
 
-Bus trips seems to cost 64 UYU (\$1.70) as of Feb 2026.
+Bus trips seems to cost $U 64 (\$1.70) as of Feb 2026.
 
 You need to get an STM prepaid travel card, which you can luckily pick up at one of these common convenience stores:
 
