@@ -22,3 +22,11 @@
   and good local food
 - [Carrasco](https://maps.app.goo.gl/czYnXuMR68mhyQYR7) - Quiet upscale district with beaches
   and elegant residential streets
+
+<!--
+
+There were hardly any hostels to choose from in Montevideo.
+
+[Destino26 Hostel](https://maps.app.goo.gl/jkkv21SVvzXhrqyPA) - Wifi 3/4 Mbit/s
+
+-->
