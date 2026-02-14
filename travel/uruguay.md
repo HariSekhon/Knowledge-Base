@@ -8,6 +8,7 @@
   - [Travel from Buquebus Ferry](#travel-from-buquebus-ferry)
   - [Taxi Apps in Montevideo](#taxi-apps-in-montevideo)
   - [Buses in Montevideo](#buses-in-montevideo)
+  - [Attractions in Montevideo](#attractions-in-montevideo)
   - [Restaurants in Montevideo](#restaurants-in-montevideo)
 
 <!-- INDEX_END -->
@@ -18,6 +19,8 @@ Just across the water from Buenos Aires, [Argentina](argentina.md),
 they use the Uruguayan Peso (UYU / \$U), which as of Feb 2026 was \$U 38 per $1 or \$U 52 per £1.
 
 ## Montevideo
+
+The capital.
 
 ### Best Areas to Stay in Montevideo
 
@@ -66,6 +69,21 @@ You need to get an STM prepaid travel card, which you can luckily pick up at one
 
 The card itself is free although requires your passport for them to register the card to you,
 and then you just top up some cash on the card.
+
+### Attractions in Montevideo
+
+There's not much in the way of attractions in Montevideo, but here are a few:
+
+- [Rambla de Montevideo](https://www.google.com/maps/place/Rambla+de+Montevideo) - long waterfront promenade with
+  beaches where people like to walk, run, cycle, use free calisthenics and enjoy great sunset views
+- [Ciudad Vieja](https://maps.app.goo.gl/Z813fA2KYnn51b5J8) - historic old town with colonial architecture, museums,
+  and cafes
+- [Mercado del Puerto](https://maps.app.goo.gl/vXRx1ctNdduq8hXD7) - famous market with traditional parrillas and
+  local food stalls
+- [Plaza Independencia](https://maps.app.goo.gl/senH9xZU1YbCXLDNA) - main city square
+  - [Palacio Salvo](https://maps.app.goo.gl/3ghkuA4rxxuiSTEu5)
+  - [Teatro Solís](https://maps.app.goo.gl/a1wAHjdjYHUEWsEx5)
+- [Punta Carretas Lighthouse](https://maps.app.goo.gl/YGK5tiiAVDS7XzaV8)
 
 ### Restaurants in Montevideo
 
