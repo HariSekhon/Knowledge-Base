@@ -20,7 +20,7 @@ they use the Uruguayan Peso (UYU / \$U), which as of Feb 2026 was \$U 38 per $1 
 
 ## Montevideo
 
-The capital.
+The capital. You don't need more than 2-3 days as it's not that big.
 
 ### Best Areas to Stay in Montevideo
 
