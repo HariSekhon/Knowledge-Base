@@ -2255,9 +2255,35 @@ Or in my case Time Machine APFS snapshots which are counted by `df` but not by `
 tmutil listlocalsnapshots "/Volumes/$NAME"
 ```
 
+or if it's the root disk:
+
+```shell
+tmutil listlocalsnapshots /
+```
+
+You can either tell macOS to try to delete enough snapshots to free 100GB (number is in bytes),
+and on level from 1 - 4 of aggressiveness, ie. you need the space reclaimed urgently:
+
+```shell
+sudo tmutil thinlocalsnapshots / 100000000000 4
+```
+
+Or you can try to delete snapshots explicitly or delete iterate to delete all the snapshots
+(OS update snapshots do not get deleted even when ordered to):
+
+```shell
+for snapshot in $(tmutil listlocalsnapshots /); do
+    sudo tmutil deletelocalsnapshots "$snapshot"
+done
+```
+
+If you get this error:
+
 ```text
 /Volumes/NAME is an APFS backup disk. Use 'tmutil listbackups' to list APFS backup snapshots.
 ```
+
+then:
 
 ```shell
 tmutil listbackups
