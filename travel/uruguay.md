@@ -95,6 +95,7 @@ There's not much in the way of attractions in Montevideo, but here are a few:
 - [Punta Carretas Lighthouse](https://maps.app.goo.gl/YGK5tiiAVDS7XzaV8)
 - Pocitos:
   - [Playa Pocitos - Bajada Buxareo](https://maps.app.goo.gl/dBHBqkTPUL4iNx5r8) - beach
+  - [Parque de Calistenia Trouville](https://maps.app.goo.gl/kDg87MEcPqtpVNzP7)
 
 ### Restaurants in Montevideo
 
