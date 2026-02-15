@@ -113,6 +113,7 @@ There's not much in the way of attractions in Montevideo, but here are a few:
 TODO:
 
 - [Heladería Los Trovadores](https://maps.app.goo.gl/omQk8gTSufjSvZHZ6) - 4.8 ice cream
+- [HDP Smash Burgers](https://maps.app.goo.gl/RzZo8kNfVGch6fne7) - 4.5 - packed full at 10:30pm
 - [Meraki Poke Sushi Wok & Burger](https://maps.app.goo.gl/GwV2CFmBV4QDpU7R8) - 4.2 busy at 10pm
 - [Sushi Wok Perú 🇵🇪](https://maps.app.goo.gl/mWKN9K1hw3sKirsv6) - 4.7
 - [Asia Mix](https://maps.app.goo.gl/jckfhrBYS5XdPEu78) - 4.7 sushi, almost dead at 10pm
