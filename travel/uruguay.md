@@ -63,7 +63,10 @@ at [Terminal de Buquebus Montevideo], you can do one of the following:
 
 ### Buses in Montevideo
 
-Bus trips seems to cost $U 64 (\$1.70) as of Feb 2026.
+Several bus lines go between east and west of the city making it easy to get around cheaply,
+and the city is not that big anyway, just over a 1 hour walk if you wanted to.
+
+Bus trips cost $U 52-64 (\$1.70) as of Feb 2026.
 
 You need to get an STM prepaid travel card, which you can luckily pick up at one of these common convenience stores:
 
