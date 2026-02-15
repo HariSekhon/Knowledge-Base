@@ -154,7 +154,7 @@ TODO:
   restaurants in Montevideo
 - [Peixe Preto](https://maps.app.goo.gl/VgaiqifncALxoK4q9) - 4.9 sushi
 - [Sushi Wok Perú 🇵🇪](https://maps.app.goo.gl/mWKN9K1hw3sKirsv6) - 4.7, a bit expensive compared to getting a Lomo
-  Saltado in Peru itself, or Bolivia
+  Saltado in Peru itself, or neighbouring Bolivia
 - [Maison Le Ballon Rouge](https://maps.app.goo.gl/JQHXQfPFS5Cw1iEdA) - 4.5 health good restaurant, online menu out of
   date
 - [HDP Smash Burgers](https://maps.app.goo.gl/RzZo8kNfVGch6fne7) - 4.5 - packed full at 10:30pm
