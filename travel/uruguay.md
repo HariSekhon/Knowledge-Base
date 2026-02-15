@@ -99,6 +99,7 @@ There's not much in the way of attractions in Montevideo, but here are a few:
   - [Parque de Calistenia Trouville](https://maps.app.goo.gl/kDg87MEcPqtpVNzP7) - free workout calisthenic bars
   - [Asociacion Internacional De Calistenia](https://maps.app.goo.gl/Hv2FyP9C5dX28soz5) - free workout calisthenic bars
 - [Punta Carretas Lighthouse](https://maps.app.goo.gl/YGK5tiiAVDS7XzaV8)
+- [Fuente de los Candados](https://maps.app.goo.gl/n7yS56r5bz7SzZys9) - fountain with lots of padlocks
 
 ### Restaurants in Montevideo
 
