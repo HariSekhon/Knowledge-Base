@@ -132,6 +132,7 @@ TODO:
 - [El Cafecito](https://maps.app.goo.gl/JFV61iF9XauoNNaB6) - 4.9 cafe
 - [Saint Germain](https://maps.app.goo.gl/ho7pxqK3p4j8iTJJA) - 4.8 cafe
 - [Peixe Preto](https://maps.app.goo.gl/VgaiqifncALxoK4q9) - 4.9 sushi
+- [Maison Le Ballon Rouge](https://maps.app.goo.gl/JQHXQfPFS5Cw1iEdA) - 4.5 health good restaurant
 - [HDP Smash Burgers](https://maps.app.goo.gl/RzZo8kNfVGch6fne7) - 4.5 - packed full at 10:30pm
 - [Savarin](https://maps.app.goo.gl/CAi7SdHmWxdSnNb46) - 4.7
 - [Fragolina](https://maps.app.goo.gl/dtYYTEG5j3DzaTSP7) - 4.4
