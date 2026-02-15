@@ -142,11 +142,11 @@ TODO:
 - [The Restaurant @ Regency Golf](https://maps.app.goo.gl/HyAmD2r2FdPmqf7z9) - 4.9
 - [Restaurant Bianca](https://maps.app.goo.gl/1vRvQFvmGUXHvR9i6) - 4.7 Vivaldi hotel restaurant
 - [Restaurant Tandory](https://maps.app.goo.gl/7gNBmgCp18v8JMVj8) - 4.6 expensive, supposedly one of the best
+- [Savarin](https://maps.app.goo.gl/CAi7SdHmWxdSnNb46) - 4.7
   restaurants in Montevideo
 - [Peixe Preto](https://maps.app.goo.gl/VgaiqifncALxoK4q9) - 4.9 sushi
 - [Maison Le Ballon Rouge](https://maps.app.goo.gl/JQHXQfPFS5Cw1iEdA) - 4.5 health good restaurant
 - [HDP Smash Burgers](https://maps.app.goo.gl/RzZo8kNfVGch6fne7) - 4.5 - packed full at 10:30pm
-- [Savarin](https://maps.app.goo.gl/CAi7SdHmWxdSnNb46) - 4.7
 - [Fragolina](https://maps.app.goo.gl/dtYYTEG5j3DzaTSP7) - 4.4
 - [Sushi Wok Perú 🇵🇪](https://maps.app.goo.gl/mWKN9K1hw3sKirsv6) - 4.7
 - [Asia Mix](https://maps.app.goo.gl/jckfhrBYS5XdPEu78) - 4.7 sushi, almost dead at 10pm
