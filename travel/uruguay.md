@@ -142,7 +142,7 @@ TODO:
   prices
 - [The Restaurant @ Regency Golf](https://maps.app.goo.gl/HyAmD2r2FdPmqf7z9) - 4.9 but no online menu to check dishes
   or prices
-- [Restaurant Bianca](https://maps.app.goo.gl/1vRvQFvmGUXHvR9i6) - 4.7 Vivaldi hotel restaurant
+- [Restaurant Bianca](https://maps.app.goo.gl/1vRvQFvmGUXHvR9i6) - 4.7 Vivaldi hotel restaurant, no online menu
 - [Restaurant Tandory](https://maps.app.goo.gl/7gNBmgCp18v8JMVj8) - 4.6 expensive, supposedly one of the best
 - [Savarin](https://maps.app.goo.gl/CAi7SdHmWxdSnNb46) - 4.7
   restaurants in Montevideo
