@@ -116,6 +116,13 @@ There's not much in the way of attractions in Montevideo, but here are a few:
   midnight, but not cheap at \$U 280 for a grande with 2 scoops -
   but their scoops were double the normal size hanging off the sides of the cones.
   Be warned it started melting on me straight away as soon as I walked out at midnight though... so it gets messy!
+- [El Cafecito](https://maps.app.goo.gl/JFV61iF9XauoNNaB6) - small cafe with 4 two seater tables inside and a couple
+  three seater tables outside.
+  These have a few desserts and a reasonable drinks menu.
+  Their yoghurt granola fruit was stuffing, heavy on nutty granola but aside from the central fruit slices all the rest
+  of the fruit was defrosted berries, not fresh, so not as good as many other ones I've had in other countries where the
+  emphasis is on fresh fruit toppings.
+  WiFi 337/32 Mbit/s (yes download was really that fast it’s not a typo)
 - [Francis](https://maps.app.goo.gl/PrQK6wZ94pNT5YRQ6) - probably one of the best restaurant in Montevideo - good menu
   and decor, excellent reviews, but expensive for Uruguay where a starter can cost you \$20 and a main \$30
   (Feb 2026 prices).
@@ -134,7 +141,6 @@ There's not much in the way of attractions in Montevideo, but here are a few:
 
 TODO:
 
-- [El Cafecito](https://maps.app.goo.gl/JFV61iF9XauoNNaB6) - 4.9 cafe
 - [BBC - Burger & Sushi Parque Rodo](https://maps.app.goo.gl/hkhuTa2hJ4t6j2y96) - 4.7 chain
 - [Café Gourmand](https://maps.app.goo.gl/xtMcnVHbYrwCZBD68) - 4.7 brunch restaurant
 - [Saint Germain](https://maps.app.goo.gl/ho7pxqK3p4j8iTJJA) - 4.8 cafe, full of naughty desserts
@@ -147,7 +153,8 @@ TODO:
 - [Savarin](https://maps.app.goo.gl/CAi7SdHmWxdSnNb46) - 4.7
   restaurants in Montevideo
 - [Peixe Preto](https://maps.app.goo.gl/VgaiqifncALxoK4q9) - 4.9 sushi
-- [Sushi Wok Perú 🇵🇪](https://maps.app.goo.gl/mWKN9K1hw3sKirsv6) - 4.7
+- [Sushi Wok Perú 🇵🇪](https://maps.app.goo.gl/mWKN9K1hw3sKirsv6) - 4.7, expensive compared to getting a Lomo Saltado in
+  Peru itself, or Bolivia
 - [Maison Le Ballon Rouge](https://maps.app.goo.gl/JQHXQfPFS5Cw1iEdA) - 4.5 health good restaurant, online menu out of
   date
 - [HDP Smash Burgers](https://maps.app.goo.gl/RzZo8kNfVGch6fne7) - 4.5 - packed full at 10:30pm
