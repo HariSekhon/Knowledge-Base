@@ -120,6 +120,7 @@ TODO:
 
 - [Heladería Los Trovadores](https://maps.app.goo.gl/omQk8gTSufjSvZHZ6) - 4.8 ice cream
 - [CasiCasa](https://maps.app.goo.gl/Pppg6PcSVnCoDrng9) - 4.8 full, upmarket
+- [Restaurant Bianca](https://maps.app.goo.gl/1vRvQFvmGUXHvR9i6) - 4.7 Vivaldi hotel restaurant
 - [Peixe Preto](https://maps.app.goo.gl/VgaiqifncALxoK4q9) - 4.9 sushi
 - [HDP Smash Burgers](https://maps.app.goo.gl/RzZo8kNfVGch6fne7) - 4.5 - packed full at 10:30pm
 - [Fragolina](https://maps.app.goo.gl/dtYYTEG5j3DzaTSP7) - 4.4
