@@ -2272,7 +2272,7 @@ Or you can try to delete snapshots explicitly or delete iterate to delete all th
 (OS update snapshots do not get deleted even when ordered to):
 
 ```shell
-for snapshot in $(tmutil listlocalsnapshots /); do
+for snapshot in $(tmutil listlocalsnapshots / command ggrep -oP '\d{4}-\d\d-\d\d-\d+'); do
     sudo tmutil deletelocalsnapshots "$snapshot"
 done
 ```
