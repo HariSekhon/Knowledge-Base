@@ -140,7 +140,8 @@ TODO:
 - [Saint Germain](https://maps.app.goo.gl/ho7pxqK3p4j8iTJJA) - 4.8 cafe, full of naughty desserts
 - [CasiCasa](https://maps.app.goo.gl/Pppg6PcSVnCoDrng9) - 4.8 full, upmarket, but no online menu to check dishes or
   prices
-- [The Restaurant @ Regency Golf](https://maps.app.goo.gl/HyAmD2r2FdPmqf7z9) - 4.9
+- [The Restaurant @ Regency Golf](https://maps.app.goo.gl/HyAmD2r2FdPmqf7z9) - 4.9 but no online menu to check dishes
+  or prices
 - [Restaurant Bianca](https://maps.app.goo.gl/1vRvQFvmGUXHvR9i6) - 4.7 Vivaldi hotel restaurant
 - [Restaurant Tandory](https://maps.app.goo.gl/7gNBmgCp18v8JMVj8) - 4.6 expensive, supposedly one of the best
 - [Savarin](https://maps.app.goo.gl/CAi7SdHmWxdSnNb46) - 4.7
