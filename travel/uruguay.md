@@ -87,6 +87,15 @@ There's not much in the way of attractions in Montevideo, but here are a few:
 
 ### Restaurants in Montevideo
 
+- [Lonely Star](https://maps.app.goo.gl/XkjdwtoUciv8U3sM6) - good menu, moderate prices. The chilequiles is smaller than
+  ones in Mexico, and only comes with chicken or pork instead of beef like in Mexico. The tacos were very good quality,
+  I had the beef and chicken ones - I’d stick with tacos over their chilequiles next time.
+  The banana bonbom split was not big for its cost but it was tasty.
+  Their drinks menu is mainly alcohols, and some lemonades, so little in the way of healthy drinks.
+  Nice outdoor seating but fills up quickly, as this is one of the better drink spots in the area.
+  It also has interior bar line seating, and tables, but my favourite is romantic orange downlit tables for two on the
+  upstairs balcony.
+  WiFi 12/17 Mbit/s
 - [Francis](https://maps.app.goo.gl/PrQK6wZ94pNT5YRQ6) - probably one of the best restaurant in Montevideo - good menu
   and decor, excellent reviews, but expensive for Uruguay where a starter can cost you \$20 and a main \$30
   (Feb 2026 prices).
