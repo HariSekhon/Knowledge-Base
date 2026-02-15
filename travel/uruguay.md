@@ -112,5 +112,11 @@ There's not much in the way of attractions in Montevideo, but here are a few:
 
 TODO:
 
+- [Heladería Los Trovadores](https://maps.app.goo.gl/omQk8gTSufjSvZHZ6) - 4.8 ice cream
 - [Meraki Poke Sushi Wok & Burger](https://maps.app.goo.gl/GwV2CFmBV4QDpU7R8) - 4.2 busy at 10pm
+- [Sushi Wok Perú 🇵🇪](https://maps.app.goo.gl/mWKN9K1hw3sKirsv6) - 4.7
 - [Asia Mix](https://maps.app.goo.gl/jckfhrBYS5XdPEu78) - 4.7 sushi, almost dead at 10pm
+- [Erevan Armenian Cuisine](https://maps.app.goo.gl/KdFvPeywszMv84ie6) - 4.4
+- [Nurr](https://maps.app.goo.gl/15nCT4fJ6rwKCufV6) - 4.8 kebab takeaway, only accepts cash
+- [Restaurant Tandory](https://maps.app.goo.gl/7gNBmgCp18v8JMVj8) - 4.6 expensive, supposedly one of the best
+  restaurants in Montevideo
