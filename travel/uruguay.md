@@ -88,6 +88,8 @@ There's not much in the way of attractions in Montevideo, but here are a few:
   - [Palacio Salvo](https://maps.app.goo.gl/3ghkuA4rxxuiSTEu5)
   - [Teatro Solís](https://maps.app.goo.gl/a1wAHjdjYHUEWsEx5)
 - [Punta Carretas Lighthouse](https://maps.app.goo.gl/YGK5tiiAVDS7XzaV8)
+- Pocitos:
+  - [Playa Pocitos - Bajada Buxareo](https://maps.app.goo.gl/dBHBqkTPUL4iNx5r8) - beach
 
 ### Restaurants in Montevideo
 
