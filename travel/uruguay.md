@@ -153,3 +153,4 @@ TODO:
 - [Garage Burger](https://maps.app.goo.gl/yLQHTyL68Dk4odbLA) - 4.7
 - [Grasa Burger Club](https://maps.app.goo.gl/f8gDs67JcWEo6MrP8) - 4.7
 - [Sumi Sushi](https://maps.app.goo.gl/YfbQLaFnwrVGc7oaA) - 4.5
+-[Toledo Bar de Tapas](https://maps.app.goo.gl/r7MVNTdxAaWwZ2DEA) - 4.5
