@@ -136,11 +136,13 @@ TODO:
 
 - [BBC - Burger & Sushi Parque Rodo](https://maps.app.goo.gl/hkhuTa2hJ4t6j2y96) - 4.7
 - [Café Gourmand](https://maps.app.goo.gl/xtMcnVHbYrwCZBD68) - 4.7 brunch restaurant
+- [El Cafecito](https://maps.app.goo.gl/JFV61iF9XauoNNaB6) - 4.9 cafe
+- [Saint Germain](https://maps.app.goo.gl/ho7pxqK3p4j8iTJJA) - 4.8 cafe
 - [CasiCasa](https://maps.app.goo.gl/Pppg6PcSVnCoDrng9) - 4.8 full, upmarket
 - [The Restaurant @ Regency Golf](https://maps.app.goo.gl/HyAmD2r2FdPmqf7z9) - 4.9
 - [Restaurant Bianca](https://maps.app.goo.gl/1vRvQFvmGUXHvR9i6) - 4.7 Vivaldi hotel restaurant
-- [El Cafecito](https://maps.app.goo.gl/JFV61iF9XauoNNaB6) - 4.9 cafe
-- [Saint Germain](https://maps.app.goo.gl/ho7pxqK3p4j8iTJJA) - 4.8 cafe
+- [Restaurant Tandory](https://maps.app.goo.gl/7gNBmgCp18v8JMVj8) - 4.6 expensive, supposedly one of the best
+  restaurants in Montevideo
 - [Peixe Preto](https://maps.app.goo.gl/VgaiqifncALxoK4q9) - 4.9 sushi
 - [Maison Le Ballon Rouge](https://maps.app.goo.gl/JQHXQfPFS5Cw1iEdA) - 4.5 health good restaurant
 - [HDP Smash Burgers](https://maps.app.goo.gl/RzZo8kNfVGch6fne7) - 4.5 - packed full at 10:30pm
@@ -149,8 +151,6 @@ TODO:
 - [Sushi Wok Perú 🇵🇪](https://maps.app.goo.gl/mWKN9K1hw3sKirsv6) - 4.7
 - [Asia Mix](https://maps.app.goo.gl/jckfhrBYS5XdPEu78) - 4.7 sushi, almost dead at 10pm
 - [Erevan Armenian Cuisine](https://maps.app.goo.gl/KdFvPeywszMv84ie6) - 4.4
-- [Restaurant Tandory](https://maps.app.goo.gl/7gNBmgCp18v8JMVj8) - 4.6 expensive, supposedly one of the best
-  restaurants in Montevideo
 - [Garage Burger](https://maps.app.goo.gl/yLQHTyL68Dk4odbLA) - 4.7
 - [Grasa Burger Club](https://maps.app.goo.gl/f8gDs67JcWEo6MrP8) - 4.7
 - [Tannat](https://maps.app.goo.gl/y8AZQzAkqt9WHdnt9) - 4.6
