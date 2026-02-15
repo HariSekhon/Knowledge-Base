@@ -138,7 +138,8 @@ TODO:
 - [El Cafecito](https://maps.app.goo.gl/JFV61iF9XauoNNaB6) - 4.9 cafe
 - [Café Gourmand](https://maps.app.goo.gl/xtMcnVHbYrwCZBD68) - 4.7 brunch restaurant
 - [Saint Germain](https://maps.app.goo.gl/ho7pxqK3p4j8iTJJA) - 4.8 cafe, full of naughty desserts
-- [CasiCasa](https://maps.app.goo.gl/Pppg6PcSVnCoDrng9) - 4.8 full, upmarket, no online menu
+- [CasiCasa](https://maps.app.goo.gl/Pppg6PcSVnCoDrng9) - 4.8 full, upmarket, but no online menu to check dishes or
+  prices
 - [The Restaurant @ Regency Golf](https://maps.app.goo.gl/HyAmD2r2FdPmqf7z9) - 4.9
 - [Restaurant Bianca](https://maps.app.goo.gl/1vRvQFvmGUXHvR9i6) - 4.7 Vivaldi hotel restaurant
 - [Restaurant Tandory](https://maps.app.goo.gl/7gNBmgCp18v8JMVj8) - 4.6 expensive, supposedly one of the best
