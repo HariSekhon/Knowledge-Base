@@ -146,11 +146,9 @@ TODO:
 - [HDP Smash Burgers](https://maps.app.goo.gl/RzZo8kNfVGch6fne7) - 4.5 - packed full at 10:30pm
 - [Savarin](https://maps.app.goo.gl/CAi7SdHmWxdSnNb46) - 4.7
 - [Fragolina](https://maps.app.goo.gl/dtYYTEG5j3DzaTSP7) - 4.4
-- [Meraki Poke Sushi Wok & Burger](https://maps.app.goo.gl/GwV2CFmBV4QDpU7R8) - 4.2 busy at 10pm
 - [Sushi Wok Perú 🇵🇪](https://maps.app.goo.gl/mWKN9K1hw3sKirsv6) - 4.7
 - [Asia Mix](https://maps.app.goo.gl/jckfhrBYS5XdPEu78) - 4.7 sushi, almost dead at 10pm
 - [Erevan Armenian Cuisine](https://maps.app.goo.gl/KdFvPeywszMv84ie6) - 4.4
-- [Nurr](https://maps.app.goo.gl/15nCT4fJ6rwKCufV6) - 4.8 kebab takeaway, only accepts cash
 - [Restaurant Tandory](https://maps.app.goo.gl/7gNBmgCp18v8JMVj8) - 4.6 expensive, supposedly one of the best
   restaurants in Montevideo
 - [Garage Burger](https://maps.app.goo.gl/yLQHTyL68Dk4odbLA) - 4.7
@@ -161,5 +159,7 @@ TODO:
 - [La Cocina de Pedro](https://maps.app.goo.gl/v5ouxWj1h22KCCqR9) - 4.4
 - [Ruffino](https://maps.app.goo.gl/2miEaKGpo7ZCGGn88) - 4.4
 - [El Fogón](https://maps.app.goo.gl/eGuhyK8JUsVeGtyFA) - 4.4
+- [Nurr](https://maps.app.goo.gl/15nCT4fJ6rwKCufV6) - 4.8 kebab takeaway, only accepts cash
+- [Meraki Poke Sushi Wok & Burger](https://maps.app.goo.gl/GwV2CFmBV4QDpU7R8) - 4.2 busy at 10pm
 - [Bar Facal](https://maps.app.goo.gl/4kz7M5Nw3zA5Ggnr6) - 4.1 popular bar & grill next to fountain of the padlocks.
   Not risking this rating during a short stay of only a few days when there are better rated places to eat though
