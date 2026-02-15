@@ -109,3 +109,8 @@ There's not much in the way of attractions in Montevideo, but here are a few:
 - [284 Burger House](https://maps.app.goo.gl/XQsswtub1SB566Je8) - reasonable classic burger and crispy crinkle cut
   fries at mid price point - ok when you've just come out of the Buquebus Ferry and are hungry but I wouldn't go out of
   my way for it
+
+TODO:
+
+- [Meraki Poke Sushi Wok & Burger](https://maps.app.goo.gl/GwV2CFmBV4QDpU7R8) - 4.2 busy at 10pm
+- [Asia Mix](https://maps.app.goo.gl/jckfhrBYS5XdPEu78) - 4.7 sushi, almost dead at 10pm
