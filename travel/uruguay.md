@@ -33,7 +33,7 @@ The capital. You don't need more than 2-3 days as it's not that big.
 - [Parque Rodó](https://maps.app.goo.gl/QbuGf2m1gvmc7N23A) - youthful area near the park and beach with cafes and bars
 - [Cordón](https://maps.app.goo.gl/g4GHKG96p192AEDn9) - downtown, cheaper neighborhood with student vibe
   and good local food
-- [Carrasco](https://maps.app.goo.gl/czYnXuMR68mhyQYR7) - Quiet upscale district with beaches
+- [Carrasco](https://maps.app.goo.gl/czYnXuMR68mhyQYR7) - quiet upscale district with beaches
   and elegant residential streets
 
 <!--
@@ -87,6 +87,16 @@ There's not much in the way of attractions in Montevideo, but here are a few:
 
 ### Restaurants in Montevideo
 
+- [Francis](https://maps.app.goo.gl/PrQK6wZ94pNT5YRQ6) - probably one of the best restaurant in Montevideo - good menu
+  and decor, excellent reviews, but expensive for Uruguay where a starter can cost you \$20 and a main \$30
+  (Feb 2026 prices).
+  Because it's expensive you will see more rich old people eating here (urgh).
+  They brought a starter of breads with garlic butter (needed more garlic) and duck liver pate on chutney
+  (surprisingly good combination even though I usually never like pate or support how it is made).
+  Their gnocchi was surprisingly good, fattening, but this is not the play to diet.
+  Their lasagna and duck confit are also recommended, I would try the duck if I were to go again.
+  The Crocante De Almendras dessert was ok, but for \$12 I'd skip it next time as I've had better desserts.
+  WiFi 87/42 Mbit/s
 - [284 Burger House](https://maps.app.goo.gl/XQsswtub1SB566Je8) - reasonable classic burger and crispy crinkle cut
   fries at mid price point - ok when you've just come out of the Buquebus Ferry and are hungry but I wouldn't go out of
   my way for it
