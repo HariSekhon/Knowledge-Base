@@ -155,8 +155,11 @@ TODO:
   restaurants in Montevideo
 - [Garage Burger](https://maps.app.goo.gl/yLQHTyL68Dk4odbLA) - 4.7
 - [Grasa Burger Club](https://maps.app.goo.gl/f8gDs67JcWEo6MrP8) - 4.7
+- [Tannat](https://maps.app.goo.gl/y8AZQzAkqt9WHdnt9) - 4.6
 - [Sumi Sushi](https://maps.app.goo.gl/YfbQLaFnwrVGc7oaA) - 4.5
 - [Toledo Bar de Tapas](https://maps.app.goo.gl/r7MVNTdxAaWwZ2DEA) - 4.5
 - [La Cocina de Pedro](https://maps.app.goo.gl/v5ouxWj1h22KCCqR9) - 4.4
+- [Ruffino](https://maps.app.goo.gl/2miEaKGpo7ZCGGn88) - 4.4
+- [El Fogón](https://maps.app.goo.gl/eGuhyK8JUsVeGtyFA) - 4.4
 - [Bar Facal](https://maps.app.goo.gl/4kz7M5Nw3zA5Ggnr6) - 4.1 popular bar & grill next to fountain of the padlocks.
   Not risking this rating during a short stay of only a few days when there are better rated places to eat though
