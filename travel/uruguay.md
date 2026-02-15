@@ -151,3 +151,4 @@ TODO:
 - [Restaurant Tandory](https://maps.app.goo.gl/7gNBmgCp18v8JMVj8) - 4.6 expensive, supposedly one of the best
   restaurants in Montevideo
 - [Garage Burger](https://maps.app.goo.gl/yLQHTyL68Dk4odbLA) - 4.7
+- [Sumi Sushi](https://maps.app.goo.gl/YfbQLaFnwrVGc7oaA) - 4.5
