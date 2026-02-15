@@ -77,7 +77,7 @@ You need to get an STM prepaid travel card, which you can luckily pick up at one
 The card itself is free although requires your passport for them to register the card to you,
 and then you just top up some cash on the card.
 
-I've found Google Maps planning of public transport route to be reliable.
+I've found Google Maps planning of public transport route to be reliable here.
 
 ### Attractions in Montevideo
 
