@@ -134,6 +134,7 @@ There's not much in the way of attractions in Montevideo, but here are a few:
 TODO:
 
 - [BBC - Burger & Sushi Parque Rodo](https://maps.app.goo.gl/hkhuTa2hJ4t6j2y96) - 4.7
+- [Café Gourmand](https://maps.app.goo.gl/xtMcnVHbYrwCZBD68) - 4.7
 - [CasiCasa](https://maps.app.goo.gl/Pppg6PcSVnCoDrng9) - 4.8 full, upmarket
 - [The Restaurant @ Regency Golf](https://maps.app.goo.gl/HyAmD2r2FdPmqf7z9) - 4.9
 - [Restaurant Bianca](https://maps.app.goo.gl/1vRvQFvmGUXHvR9i6) - 4.7 Vivaldi hotel restaurant
