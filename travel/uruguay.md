@@ -145,10 +145,9 @@ TODO:
 - [Savarin](https://maps.app.goo.gl/CAi7SdHmWxdSnNb46) - 4.7
   restaurants in Montevideo
 - [Peixe Preto](https://maps.app.goo.gl/VgaiqifncALxoK4q9) - 4.9 sushi
+- [Sushi Wok Perú 🇵🇪](https://maps.app.goo.gl/mWKN9K1hw3sKirsv6) - 4.7
 - [Maison Le Ballon Rouge](https://maps.app.goo.gl/JQHXQfPFS5Cw1iEdA) - 4.5 health good restaurant
 - [HDP Smash Burgers](https://maps.app.goo.gl/RzZo8kNfVGch6fne7) - 4.5 - packed full at 10:30pm
-- [Fragolina](https://maps.app.goo.gl/dtYYTEG5j3DzaTSP7) - 4.4
-- [Sushi Wok Perú 🇵🇪](https://maps.app.goo.gl/mWKN9K1hw3sKirsv6) - 4.7
 - [Asia Mix](https://maps.app.goo.gl/jckfhrBYS5XdPEu78) - 4.7 sushi, almost dead at 10pm
 - [Erevan Armenian Cuisine](https://maps.app.goo.gl/KdFvPeywszMv84ie6) - 4.4
 - [Garage Burger](https://maps.app.goo.gl/yLQHTyL68Dk4odbLA) - 4.7
@@ -158,6 +157,7 @@ TODO:
 - [Toledo Bar de Tapas](https://maps.app.goo.gl/r7MVNTdxAaWwZ2DEA) - 4.5
 - [La Cocina de Pedro](https://maps.app.goo.gl/v5ouxWj1h22KCCqR9) - 4.4
 - [Ruffino](https://maps.app.goo.gl/2miEaKGpo7ZCGGn88) - 4.4
+- [Fragolina](https://maps.app.goo.gl/dtYYTEG5j3DzaTSP7) - 4.4
 - [El Fogón](https://maps.app.goo.gl/eGuhyK8JUsVeGtyFA) - 4.4
 - [Nurr](https://maps.app.goo.gl/15nCT4fJ6rwKCufV6) - 4.8 kebab takeaway, only accepts cash
 - [Meraki Poke Sushi Wok & Burger](https://maps.app.goo.gl/GwV2CFmBV4QDpU7R8) - 4.2 busy at 10pm
