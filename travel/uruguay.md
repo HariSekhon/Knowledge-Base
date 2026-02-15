@@ -22,6 +22,10 @@ they use the Uruguayan Peso (UYU / \$U), which as of Feb 2026 was \$U 38 per $1 
 
 The capital. You don't need more than 2-3 days as it's not that big.
 
+Montevideo is 2-3 degrees colder than Buenos Aires across the water and also has more wind chill,
+making it feel several degrees colder than that,
+likely due to it being more exposed to the open ocean compared to Buenos Aires which is set back from the ocean front.
+
 ### Best Areas to Stay in Montevideo
 
 - [Pocitos](https://maps.app.goo.gl/V1LFxCFLaR5xLNjU9) - popular beach neighborhood with restaurants, nightlife,
@@ -109,6 +113,7 @@ There's not much in the way of attractions in Montevideo, but here are a few:
 - [284 Burger House](https://maps.app.goo.gl/XQsswtub1SB566Je8) - reasonable classic burger and crispy crinkle cut
   fries at mid price point - ok when you've just come out of the Buquebus Ferry and are hungry but I wouldn't go out of
   my way for it
+- [Frog](https://www.google.com/maps/search/Frog+montevideo/) - mini-market convenience store chain
 
 TODO:
 
