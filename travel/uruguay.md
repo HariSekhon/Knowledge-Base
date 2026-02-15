@@ -144,7 +144,8 @@ Many restaurants here seem to have outdated or no online menus... making them a 
 TODO:
 
 - [HDP Smash Burgers](https://maps.app.goo.gl/RzZo8kNfVGch6fne7) - 4.5 - packed full at 10:30pm
-- [BBC - Burger & Sushi Parque Rodo](https://maps.app.goo.gl/hkhuTa2hJ4t6j2y96) - 4.7 chain
+- [BBC - Burger & Sushi Parque Rodo](https://www.google.com/maps/search/BBC+-+Burger+%26+Sushi+montevideo/) - 4.7
+  burger chain
 - [Café Gourmand](https://maps.app.goo.gl/xtMcnVHbYrwCZBD68) - 4.7 brunch restaurant
 - [Saint Germain](https://maps.app.goo.gl/ho7pxqK3p4j8iTJJA) - 4.8 cafe, full of naughty desserts
 - [CasiCasa](https://maps.app.goo.gl/Pppg6PcSVnCoDrng9) - 4.8 full, upmarket, but no online menu to check dishes or
