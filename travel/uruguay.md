@@ -158,4 +158,5 @@ TODO:
 - [Sumi Sushi](https://maps.app.goo.gl/YfbQLaFnwrVGc7oaA) - 4.5
 - [Toledo Bar de Tapas](https://maps.app.goo.gl/r7MVNTdxAaWwZ2DEA) - 4.5
 - [La Cocina de Pedro](https://maps.app.goo.gl/v5ouxWj1h22KCCqR9) - 4.4
-- [Bar Facal](https://maps.app.goo.gl/4kz7M5Nw3zA5Ggnr6) - 4.1 popular bar & grill next to fountain of the padlocks
+- [Bar Facal](https://maps.app.goo.gl/4kz7M5Nw3zA5Ggnr6) - 4.1 popular bar & grill next to fountain of the padlocks.
+  Not risking this rating during a short stay of only a few days when there are better rated places to eat though
