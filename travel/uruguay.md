@@ -113,7 +113,8 @@ There's not much in the way of attractions in Montevideo, but here are a few:
 - [284 Burger House](https://maps.app.goo.gl/XQsswtub1SB566Je8) - reasonable classic burger and crispy crinkle cut
   fries at mid price point - ok when you've just come out of the Buquebus Ferry and are hungry but I wouldn't go out of
   my way for it
-- [Frog](https://www.google.com/maps/search/Frog+montevideo/) - mini-market convenience store chain
+- [Frog](https://www.google.com/maps/search/Frog+supermarket+montevideo/) - mini-market convenience store chain
+- [Tata](https://www.google.com/maps/search/Tata+supermarket+montevideo/) - mid-sized supermarket chain across the city
 
 TODO:
 
