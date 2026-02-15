@@ -134,8 +134,8 @@ There's not much in the way of attractions in Montevideo, but here are a few:
 
 TODO:
 
-- [BBC - Burger & Sushi Parque Rodo](https://maps.app.goo.gl/hkhuTa2hJ4t6j2y96) - 4.7
 - [El Cafecito](https://maps.app.goo.gl/JFV61iF9XauoNNaB6) - 4.9 cafe
+- [BBC - Burger & Sushi Parque Rodo](https://maps.app.goo.gl/hkhuTa2hJ4t6j2y96) - 4.7 chain
 - [Café Gourmand](https://maps.app.goo.gl/xtMcnVHbYrwCZBD68) - 4.7 brunch restaurant
 - [Saint Germain](https://maps.app.goo.gl/ho7pxqK3p4j8iTJJA) - 4.8 cafe, full of naughty desserts
 - [CasiCasa](https://maps.app.goo.gl/Pppg6PcSVnCoDrng9) - 4.8 full, upmarket, but no online menu to check dishes or
