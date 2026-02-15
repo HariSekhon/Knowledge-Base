@@ -103,6 +103,8 @@ There's not much in the way of attractions in Montevideo, but here are a few:
 
 ### Restaurants in Montevideo
 
+Many restaurants here seem to have outdated or no online menus... making them a bit more of a menu and pricing risk...
+
 - [Lonely Star](https://maps.app.goo.gl/XkjdwtoUciv8U3sM6) - good menu, moderate prices. The chilequiles is smaller than
   ones in Mexico, and only comes with chicken or pork instead of beef like in Mexico. The tacos were very good quality,
   I had the beef and chicken ones - I’d stick with tacos over their chilequiles next time.
