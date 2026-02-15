@@ -87,8 +87,8 @@ There's not much in the way of attractions in Montevideo, but here are a few:
   beaches where people like to walk, run, cycle, use free calisthenics and enjoy great sunset views
 - [Ciudad Vieja](https://maps.app.goo.gl/Z813fA2KYnn51b5J8) - historic old town with colonial architecture, museums,
   and cafes
-- [Mercado del Puerto](https://maps.app.goo.gl/vXRx1ctNdduq8hXD7) - famous market with traditional parrillas and
-  local food stalls
+  - [Mercado del Puerto](https://maps.app.goo.gl/vXRx1ctNdduq8hXD7) - famous market with traditional parrillas and
+    local food stalls
 - [Plaza Independencia](https://maps.app.goo.gl/senH9xZU1YbCXLDNA) - main city square
   - [Palacio Salvo](https://maps.app.goo.gl/3ghkuA4rxxuiSTEu5)
   - [Teatro Solís](https://maps.app.goo.gl/a1wAHjdjYHUEWsEx5)
