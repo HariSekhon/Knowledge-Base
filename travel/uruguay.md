@@ -111,6 +111,10 @@ There's not much in the way of attractions in Montevideo, but here are a few:
   It also has interior bar line seating, and tables, but my favourite is romantic orange downlit tables for two on the
   upstairs balcony.
   WiFi 12/17 Mbit/s
+- [Heladería Los Trovadores](https://maps.app.goo.gl/omQk8gTSufjSvZHZ6) - good gelateria, open late until just after
+  midnight, but not cheap at \$U 280 for a grande with 2 scoops -
+  but their scoops were double the normal size hanging off the sides of the cones.
+  Be warned it started melting on me straight away as soon as I walked out at midnight though... so it gets messy!
 - [Francis](https://maps.app.goo.gl/PrQK6wZ94pNT5YRQ6) - probably one of the best restaurant in Montevideo - good menu
   and decor, excellent reviews, but expensive for Uruguay where a starter can cost you \$20 and a main \$30
   (Feb 2026 prices).
@@ -129,7 +133,6 @@ There's not much in the way of attractions in Montevideo, but here are a few:
 
 TODO:
 
-- [Heladería Los Trovadores](https://maps.app.goo.gl/omQk8gTSufjSvZHZ6) - 4.8 ice cream
 - [CasiCasa](https://maps.app.goo.gl/Pppg6PcSVnCoDrng9) - 4.8 full, upmarket
 - [Restaurant Bianca](https://maps.app.goo.gl/1vRvQFvmGUXHvR9i6) - 4.7 Vivaldi hotel restaurant
 - [El Cafecito](https://maps.app.goo.gl/JFV61iF9XauoNNaB6) - 4.9 cafe
