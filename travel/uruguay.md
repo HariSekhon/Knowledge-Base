@@ -114,6 +114,15 @@ Many restaurants here seem to have outdated or no online menus... making them a 
   It also has interior bar line seating, and tables, but my favourite is romantic orange downlit tables for two on the
   upstairs balcony.
   WiFi 12/17 Mbit/s
+- [HDP Smash Burgers](https://maps.app.goo.gl/RzZo8kNfVGch6fne7) - was busy even at 10:30pm so I figured it must be
+  good!
+  The _"premium"_ burger came in literally 60 seconds, and the fries about 15-20 seconds later - this place is
+  constantly cranking out food for delivery drivers so it’s ultra efficient.
+  The premium burger is really just a classic burger but was pretty hefty and meaty, this really hit the spot.
+  The regular fries was a modest portion of crispy crinkle cut fries but enough, especially after that sizeable
+  burger.
+  No wifi unfortunately and the waitress didn’t speak any English, luckily I’ve been brushing up my Spanish across
+  Latin America
 - [Heladería Los Trovadores](https://maps.app.goo.gl/omQk8gTSufjSvZHZ6) - good gelateria, open late until just after
   midnight, but not cheap at \$U 280 for a grande with 2 scoops -
   but their scoops were double the normal size hanging off the sides of the cones.
@@ -143,7 +152,6 @@ Many restaurants here seem to have outdated or no online menus... making them a 
 
 TODO:
 
-- [HDP Smash Burgers](https://maps.app.goo.gl/RzZo8kNfVGch6fne7) - 4.5 - packed full at 10:30pm
 - [BBC - Burger & Sushi Parque Rodo](https://www.google.com/maps/search/BBC+-+Burger+%26+Sushi+montevideo/) - 4.7
   burger chain
 - [Café Gourmand](https://maps.app.goo.gl/xtMcnVHbYrwCZBD68) - 4.7 brunch restaurant
