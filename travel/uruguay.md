@@ -4,6 +4,7 @@
 
 - [Summary](#summary)
 - [Montevideo](#montevideo)
+  - [Montevideo Airport](#montevideo-airport)
   - [Best Areas to Stay in Montevideo](#best-areas-to-stay-in-montevideo)
   - [Travel from Buquebus Ferry](#travel-from-buquebus-ferry)
   - [Taxi Apps in Montevideo](#taxi-apps-in-montevideo)
@@ -25,6 +26,19 @@ The capital. You don't need more than 2-3 days as it's not that big.
 Montevideo is 2-3 degrees colder than Buenos Aires across the water and also has more wind chill,
 making it feel several degrees colder than that,
 likely due to it being more exposed to the open ocean compared to Buenos Aires which is set back from the ocean front.
+
+### Montevideo Airport
+
+The security and immigration area is small and takes a long time -
+it took me 1.5 hours to get through and I got to my gate with less than 10 minutes before gate closure.
+
+Leave yourself 2 hours to go through security.
+
+There isn't much outside the security lounge, a Starbucks, McDonalds and a couple of small gift shops.
+
+Go through security and immigration control as early as possible.
+
+There is free wifi in the airport which doesn't have a captcha portal as of Feb 2026.
 
 ### Best Areas to Stay in Montevideo
 
