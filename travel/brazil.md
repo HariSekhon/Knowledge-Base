@@ -62,6 +62,12 @@ Not Recommended:
 - Centro (smells)
 - North West
 
+### Attractions in Rio
+
+- [Copacabana](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - the main tourist area:
+  - [Praia do Leme](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - beach
+  - [Praia de Copacabana](https://maps.app.goo.gl/27P5kLdYEcxvQiqo8) - beach
+
 ### Restaurants in Rio de Janeiro
 
 The guarana drink you see in many places in Brazi contains 35g of sugar, which is half your daily intake in a single
