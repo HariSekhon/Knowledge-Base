@@ -19,7 +19,8 @@
 
 ## Summary
 
-Brazil is a 3rd world country of great natural beauty but also stark wealth inequality and crime.
+Brazil is a 3rd world country of great natural beauty but also stark wealth inequality,
+crime, homelessness and topless guys digging through trash bins in many locations across Rio.
 
 It is easily one of the most mixed race countries in the world so you never know what "a brazilian" actually looks like
 as there is not a clear cut stereotype as there is in many other mostly homogenous countries.
