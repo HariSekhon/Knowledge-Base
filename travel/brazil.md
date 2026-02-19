@@ -80,7 +80,13 @@ The acai is also high in sugar and unhealthy as a result.
   serf-service restaurant. They weigh the meat, so only take what you want, and put it on a separate plate so it is
   weighed separately
 
-### Cautionary Stories from Rio
+### Supermarkets in Rio de Janeiro
+
+- Zona Sul - the main gentrified supermarket, but even there the fresh produce is often off and people are picking up
+  and testing every time carefully before putting it in their basket.
+  It has nothing on the supermarkets in the UK
+
+### Cautionary Stories from Rio de Janeiro
 
 For example, while a guy was passed out face down on the concrete floor in the park by a concrete bench,
 another guy took his shoes off him to steal them and walk off along with his black bin bag of whatever else swag he
