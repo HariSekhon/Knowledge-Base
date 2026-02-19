@@ -183,7 +183,7 @@ Country pages with specific tips for each country:
 - [South Africa](travel/south-africa.md)
 - [Turkey](travel/turkey.md)
 - [Tunisia](travel/tunisia.md)
-- [UAE](travel/uae.md) ⭐
+- [United Arab Emirates](travel/uae.md) ⭐ (Dubai & Abu Dhabi)
 
 ### North America
 
