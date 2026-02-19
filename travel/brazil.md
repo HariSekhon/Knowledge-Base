@@ -67,6 +67,8 @@ Not Recommended:
 The guarana drink you see in many places in Brazi contains 35g of sugar, which is half your daily intake in a single
 drink, so don't drink that.
 
+The acai is also high in sugar and unhealthy as a result.
+
 - [Churrascaria Matinadas](https://maps.app.goo.gl/Dn5RskppfszzNGua7) - popular affordable barbeque meats and buffet
   serf-service restaurant. They weigh the meat, so only take what you want, and put it on a separate plate so it is
   weighed separately
