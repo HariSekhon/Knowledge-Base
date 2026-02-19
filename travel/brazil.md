@@ -99,8 +99,9 @@ The acai is also high in sugar and unhealthy as a result.
 For example, while a guy was passed out face down on the concrete floor in the park by a concrete bench,
 another guy took his shoes off him to steal them and walk off along with his black bin bag of whatever else swag he
 already had.
-My big Nigerian friend walks across the park to intercept and tells him very sternly to give those shoes back -
-a standoff ensues - before the local vagabond eventually backs down, returns the shoes to the still unconscious man.
+My big Nigerian friend notices this and walks across the park to intercept him as I accompany.
+He tells the thief very sternly to give those shoes back - a standoff ensues while the guy measures the two of us up -
+before the local vagabond eventually backs down, and returns the shoes to the still unconscious man.
 
 I ask a girl passer by walking her dogs past the still unconscious man if it is normal to see this,
 and she says yes unfortunately and it's horrible and then scurries along.
