@@ -66,16 +66,16 @@ It is best to avoid carnival time as you'll be price gouged on accommodation cos
 
 **Do not book tours of Rio, it is a waste of money.**
 
-My friend booked a one day tour of the city for $120 - this is a huge waste of money.
+My friend booked a one day tour of the city for \$120 - this is a huge waste of money.
 
 They just take people to a church,
 which is free to enter, the Escadaria Selarón steps,
 which is also a free attraction of a few colourful steps where tourists take photographs,
-and then the main attraction, the big Christ the Redeemer statue, which is $16 per ticket, and a buffet lunch at a mere
-4.1 rated restaurant (which doesn't include drinks or desserts) worth around $10.
+and then the main attraction, the big Christ the Redeemer statue, which is \$16 per ticket, and a buffet lunch at a mere
+4.1 rated restaurant (which doesn't include drinks or desserts) worth around \$10.
 
-Instead, you could just take a couple taxis for \$5 each, pay one entrance for \$16, get a better lunch and save yourself
-at least \$70-\$80 out of the \$120 for the day's costs.
+Instead, you could just take a couple taxis for \$5 each, pay one entrance for \$16, get a better lunch and save
+yourself at least \$70-\$80 out of the \$120 for the day's costs.
 
 ### Restaurants in Rio de Janeiro
 
