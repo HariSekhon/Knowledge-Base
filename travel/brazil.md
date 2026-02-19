@@ -19,7 +19,7 @@
 
 ## Summary
 
-Brazil is a country of great natural beauty but also stark wealth inequality and crime.
+Brazil is a 3rd world country of great natural beauty but also stark wealth inequality and crime.
 
 ## Rio de Janeiro
 
