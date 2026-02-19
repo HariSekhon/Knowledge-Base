@@ -215,17 +215,16 @@ surprisingly still do not speak English.
 #### South America
 
 - [Argentina](travel/argentina.md)
+- [Bolivia](travel/bolivia.md)
+- [Brazil](travel/brazil.md) (in-progress)
 - [Chile](travel/chile.md)
 - [Colombia](travel/colombia.md) ⭐
 - [Ecuador](travel/ecuador.md)
 - [Peru](travel/peru.md) ⭐
-- [Bolivia](travel/bolivia.md)
-- [Uruguay](travel/uruguay.md) (in-progress)
+- [Uruguay](travel/uruguay.md)
 
 <!--
 
-- [Uruguay](travel/uruguay.md) TODO
-- [Brazil](travel/brazil.md) TODO
 - [Paraguay](travel/paraguay.md) TODO
 - [Venezuela](travel/venezuela.md) TODO
 
