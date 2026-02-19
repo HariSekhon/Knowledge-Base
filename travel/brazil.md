@@ -99,14 +99,15 @@ The acai is also high in sugar and unhealthy as a result.
 For example, while a guy was passed out face down on the concrete floor in the park by a concrete bench,
 another guy took his shoes off him to steal them and walk off along with his black bin bag of whatever else swag he
 already had.
-My big Nigerian friend notices this and walks across the park to intercept him as I accompany.
-He tells the thief very sternly to give those shoes back - a standoff ensues while the guy measures the two of us up -
-before the local vagabond eventually backs down, and returns the shoes to the still unconscious man.
+My big Nigerian friend noticed this and suggested we intervene so we walked across the park to intercept the thief.
+My friend tells the thief very sternly to give those shoes back - a standoff ensues while the guy measures the two of us
+up - before the local vagabond eventually backs down, and returns the shoes to the still unconscious man.
 
-I ask a girl passer by walking her dogs past the still unconscious man if it is normal to see this,
+I ask a passing girl walking her dogs a few feet away from the still unconscious man
+if it is normal to see people passed out like this in broad daylight,
 and she says yes unfortunately and it's horrible and then scurries along.
-Another local then walks over
-after the danger has passed to put the shoes under the unconscious man so nobody else steals them.
+Another local woman then walks over after the danger of the vagabond has passed as I'm trying to wake the man up, and
+she rolls him slightly and places his the shoes under him so nobody else steals them.
 
 We then go for a coconut drink across from the park
 and as I walk 2 feet away from where we are sitting at the bar stools to put a straw wrapper in the bin,
