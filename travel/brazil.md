@@ -10,7 +10,8 @@
     - [Rio Carnival](#rio-carnival)
     - [Tours in Rio de Janeiro](#tours-in-rio-de-janeiro)
   - [Restaurants in Rio de Janeiro](#restaurants-in-rio-de-janeiro)
-  - [Cautionary Stories from Rio](#cautionary-stories-from-rio)
+  - [Supermarkets in Rio de Janeiro](#supermarkets-in-rio-de-janeiro)
+  - [Cautionary Stories from Rio de Janeiro](#cautionary-stories-from-rio-de-janeiro)
 - [Sao Paolo](#sao-paolo)
 
 <!-- INDEX_END -->
