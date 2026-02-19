@@ -21,6 +21,9 @@
 
 Brazil is a 3rd world country of great natural beauty but also stark wealth inequality and crime.
 
+It is easily one of the most mixed race countries in the world so you never know what "a brazilian" actually looks like
+as there is not a clear cut stereotype as there is in many other mostly homogenous countries.
+
 ## Rio de Janeiro
 
 A lot of places in Rio smell of urine, and there are a lot of homeless people asleep on the dirty streets.
