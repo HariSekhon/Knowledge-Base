@@ -1,6 +1,16 @@
 # Brazil
 
 <!-- INDEX_START -->
+
+- [Summary](#summary)
+- [Rio de Janeiro](#rio-de-janeiro)
+  - [Taxi Apps in Rio de Janeiro](#taxi-apps-in-rio-de-janeiro)
+  - [Rio Carnival](#rio-carnival)
+  - [Best Areas to Stay in Rio de Janeiro](#best-areas-to-stay-in-rio-de-janeiro)
+  - [Restaurants in Rio de Janeiro](#restaurants-in-rio-de-janeiro)
+  - [Cautionary Stories from Rio](#cautionary-stories-from-rio)
+- [Sao Paolo](#sao-paolo)
+
 <!-- INDEX_END -->
 
 ## Summary
