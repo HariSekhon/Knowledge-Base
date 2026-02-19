@@ -6,6 +6,7 @@
 - [Rio de Janeiro](#rio-de-janeiro)
   - [Taxi Apps in Rio de Janeiro](#taxi-apps-in-rio-de-janeiro)
   - [Rio Carnival](#rio-carnival)
+  - [Tours in Rio de Janeiro](#tours-in-rio-de-janeiro)
   - [Best Areas to Stay in Rio de Janeiro](#best-areas-to-stay-in-rio-de-janeiro)
   - [Restaurants in Rio de Janeiro](#restaurants-in-rio-de-janeiro)
   - [Cautionary Stories from Rio](#cautionary-stories-from-rio)
@@ -33,6 +34,21 @@ Taxis were hard to come by at times, possibly due to the Rio Carnival
 It is best to avoid carnival time as you'll be price gouged on accommodation costs.
 
 <https://www.riocarnaval.org/es/fechas-de-carnaval/fechas>
+
+### Tours in Rio de Janeiro
+
+**Do not book tourst of Rio, it is a waste of money.**
+
+My friend booked a one day tour of the city for $120 - this is a huge waste of money.
+
+They just take people to a church,
+which is free to enter, the Escadaria Selarón steps,
+which is also a free attraction of a few colourful steps where tourists take photographs,
+and then the main attraction, the big Christ the Redeemer statue, which is $16 per ticket, and a buffet lunch at a mere
+4.1 rated restaurant (which doesn't include drinks or desserts) worth around $10.
+
+Instead, you could just take a couple taxis for \$5 each, pay one entrance for \$16, get a better lunch and save yourself
+at least \$70-\$80 out of the \$120 for the day's costs.
 
 ### Best Areas to Stay in Rio de Janeiro
 
