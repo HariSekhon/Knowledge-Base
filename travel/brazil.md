@@ -6,7 +6,7 @@
 - [Rio de Janeiro](#rio-de-janeiro)
   - [Taxi Apps in Rio de Janeiro](#taxi-apps-in-rio-de-janeiro)
   - [Best Areas to Stay in Rio de Janeiro](#best-areas-to-stay-in-rio-de-janeiro)
-  - [Attractions in Rio](#attractions-in-rio)
+  - [Attractions in Rio de Janeiro](#attractions-in-rio-de-janeiro)
     - [Rio Carnival](#rio-carnival)
     - [Tours in Rio de Janeiro](#tours-in-rio-de-janeiro)
   - [Restaurants in Rio de Janeiro](#restaurants-in-rio-de-janeiro)
@@ -42,7 +42,7 @@ Not Recommended:
 - Centro (smells)
 - North West
 
-### Attractions in Rio
+### Attractions in Rio de Janeiro
 
 - [Copacabana](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - the main tourist area:
   - [Praia do Leme](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - beach
