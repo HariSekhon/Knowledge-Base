@@ -166,7 +166,7 @@ Country pages with specific tips for each country:
 ### Asia
 
 - [Cambodia](travel/cambodia.md)
-- [Indonesia](travel/indonesia.md) ⭐
+- [Indonesia](travel/indonesia.md) (Bali) ⭐
 - [Laos](travel/laos.md)
 - [Malaysia](travel/malaysia.md) ⭐
 - [Philippines](travel/philippines.md)
@@ -183,7 +183,7 @@ Country pages with specific tips for each country:
 - [South Africa](travel/south-africa.md)
 - [Turkey](travel/turkey.md)
 - [Tunisia](travel/tunisia.md)
-- [United Arab Emirates](travel/uae.md) ⭐ (Dubai & Abu Dhabi)
+- [United Arab Emirates](travel/uae.md) (Dubai & Abu Dhabi) ⭐
 
 ### North America
 
