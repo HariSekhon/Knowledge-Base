@@ -37,7 +37,7 @@ It is best to avoid carnival time as you'll be price gouged on accommodation cos
 
 ### Tours in Rio de Janeiro
 
-**Do not book tourst of Rio, it is a waste of money.**
+**Do not book tours of Rio, it is a waste of money.**
 
 My friend booked a one day tour of the city for $120 - this is a huge waste of money.
 
