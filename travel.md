@@ -216,7 +216,7 @@ surprisingly still do not speak English.
 
 - [Argentina](travel/argentina.md)
 - [Bolivia](travel/bolivia.md)
-- [Brazil](travel/brazil.md) (in-progress)
+- [Brazil](travel/brazil.md) ⭐ (in-progress)
 - [Chile](travel/chile.md)
 - [Colombia](travel/colombia.md) ⭐
 - [Ecuador](travel/ecuador.md)
