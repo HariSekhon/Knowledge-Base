@@ -4,6 +4,7 @@
 
 - [Summary](#summary)
 - [Rio de Janeiro](#rio-de-janeiro)
+  - [RIOgaleão International Airport](#riogaleão-international-airport)
   - [Taxi Apps in Rio de Janeiro](#taxi-apps-in-rio-de-janeiro)
   - [Best Areas to Stay in Rio de Janeiro](#best-areas-to-stay-in-rio-de-janeiro)
   - [Attractions in Rio de Janeiro](#attractions-in-rio-de-janeiro)
@@ -23,6 +24,12 @@ Brazil is a country of great natural beauty but also stark wealth inequality and
 ## Rio de Janeiro
 
 A lot of places in Rio smell of urine, and there are a lot of homeless people asleep on the dirty streets.
+
+### RIOgaleão International Airport
+
+Uber has it's own section as you exit and turn left and follow the road and signs around for 5-6 minutes,
+but it had long wait times for an Uber to pick up your request,
+so you might want to order as you are exiting the airport while you walk to the pickup area.
 
 ### Taxi Apps in Rio de Janeiro
 
