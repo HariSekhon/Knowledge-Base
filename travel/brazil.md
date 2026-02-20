@@ -62,7 +62,7 @@ Not Recommended:
 
 - [Cristo Redentor](https://maps.app.goo.gl/KNfZtNU69oLpfh1Y9) - the famous giant statue of Jesus and viewpoint
   overlooking the city
-- [Copacabana](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - the main tourist area with long beach, calisthenic bars, beach drink huts,
+- [Copacabana](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) Beach - the main tourist area with long beach, calisthenic bars, beach drink huts,
   market stalls opposite the beach and many of the high end restaurants:
   - [Praia do Leme](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - beach
   - [Praia de Copacabana](https://maps.app.goo.gl/27P5kLdYEcxvQiqo8) - beach
@@ -98,6 +98,8 @@ Not Recommended:
     a stall opposite the nicer Copacabana beach
   - [Terraço da Vila](https://maps.app.goo.gl/6q522R9w7EhqCHBn8) - rooftop viewpoint
   - [Mirante Rocinha](https://maps.app.goo.gl/ZujiY1T5DmABYnZe7) - chic bar restaurant with a good view
+- [Sambadrome Marquês de Sapucaí](https://maps.app.goo.gl/nn8i4XwfXRVCJpDf9) - stadium that hosts the official
+  Rio Carnival dance competition
 - [Lagoa Rodrigo de Freitas](https://maps.app.goo.gl/PDCk36mhCowVAG1r5)
   - [Pier da Lagoa](https://maps.app.goo.gl/36jsrkrj5PR66GBf6)
 
