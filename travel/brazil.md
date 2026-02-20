@@ -63,6 +63,11 @@ Not Recommended:
 - [Copacabana](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - the main tourist area:
   - [Praia do Leme](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - beach
   - [Praia de Copacabana](https://maps.app.goo.gl/27P5kLdYEcxvQiqo8) - beach
+- [Ipanema](https://maps.app.goo.gl/WTJVshd3gq6hhoPw7):
+  - [Praia de Ipanema](https://maps.app.goo.gl/aa4os6t6YXDc9KBN7) - beach
+  - [Praia do Leblon](https://maps.app.goo.gl/vEFNFs9s5XJtdLzK7) - beach
+  - [Mirante do Leblon](https://maps.app.goo.gl/r7wn6wFeTKJBGWAz7) - observation deck
+  - [Pedra do Arpoador](https://maps.app.goo.gl/NBJBoh34kSwAGTp29) - scenic spot
 - [São Conrado](https://maps.app.goo.gl/9kSnoV8DkRDoZcWY8):
   - [Praia de São Conrado / Praia da Gávea](https://maps.app.goo.gl/wxNyaH8SJ4WQ1SseA) - beach
   - [Praia do Pepino](https://maps.app.goo.gl/WkgDvTo3qBM8zev79) - beach
