@@ -74,7 +74,7 @@ Not Recommended:
   I'm not quite sure why anyone who has come from poverty would ever want to revisit such a place but my friend roped me
   into it.
   They love to mention how they are the only favela to have a metro subway stop 🙄 and how they have a free school for
-  all ages, free healthcare and free sports centre.
+  all ages, a free hospital and free sports centre.
   One astute tourist asked who pays for all this - to which the tour guide answered _"The Government"_ as though that
   wasn't just money stolen from productive people's earnings via taxes, thereby reducing their birthrates
   (see [Idiocracy](https://www.youtube.com/watch?v=sP2tUW0HDHA)).
