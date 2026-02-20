@@ -68,11 +68,11 @@ Not Recommended:
   - [Praia do Pepino](https://maps.app.goo.gl/WkgDvTo3qBM8zev79) - beach
   - [Fashion Mall](https://maps.app.goo.gl/MaViWRCTxgkWS3Br9) - small with a lot of vacant units, nothing compared to
     fashion malls in other countries - I wouldn't travel to this again
-- [Rocinha](https://maps.app.goo.gl/2BX26gWchZmcTceK8) - favela with tours - there are guys with guns and assault rifles
-  walking down the alleyways, so keep your phone and sunglasses tucked away.
-  One of them literally had a gold AK-47.
-  I'm not quite sure why anyone who has come from poverty would ever want to visit this place
-  but my friend roped me into it.
+- [Rocinha](https://maps.app.goo.gl/2BX26gWchZmcTceK8) - favela with tours and a tourist market.
+  There are literally guys with guns and assault rifles walking down the alleyways, past you, so keep your phone and
+  sunglasses tucked away. One of them literally had a gold AK-47.
+  I'm not quite sure why anyone who has come from poverty would ever want to revisit such a place but my friend roped me
+  into it.
   They love to mention how they are the only favela to have a metro subway stop 🙄 and how they have a free school for
   all ages, free healthcare and free sports centre.
   One astute tourist asked who pays for all this - to which the tour guide answered _"The Government"_ as though that
