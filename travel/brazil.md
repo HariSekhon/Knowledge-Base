@@ -92,6 +92,28 @@ The acai is also high in sugar and unhealthy as a result.
   serf-service restaurant. They weigh the meat, so only take what you want, and put it on a separate plate so it is
   weighed separately
 
+Not Recommended:
+
+- [Aconchego Carioca](https://maps.app.goo.gl/zqqPs2eKHLK7dbFy5) - they only had a single English menu,
+  which didn't have the prices, so you'd have to cross reference with the portugese menu.
+  For drinks we tried the Brazilian herb iced tea which was so bad my friend sent it back and got a cranberry house soda
+  instead.
+  The Peito Bovino com Pao de Alho starter was far too salty, I would not order that again.
+  The shrimp curry in a coconut is bland as hell,
+  although my Nigerian friend rated it highly as it reminded him of Nigerian food but according to him
+  with a Thai influence,
+  although I consider that an insult to Thai food which is never ever that bland, neither in London where we're from,
+  nor in Thailand.
+  The fried cassava powder was like mixing couscous and sand and then removing any flavour, it tasted of nothing -
+  I literally couldn't bring myself eat it as it just dried out my mouth without any benefit, and the starch-style
+  thickened bland shrimp curry wasn't helping to balance it.
+  The desserts were the best part - the Bolo Gelato de Coco (coconut _"cake"_) was moist like Triliche rather than
+  sponge like a cake as per the translation.
+  The Pudim de Cachaça (similar to white rum alcohol but made from sugarcane) dessert with hard caramelized top was my
+  favourite, although it is very sweet - my teeth were badly furred up from bacterial plaque within 5 minutes of eating
+  dessert.
+  WiFi 395/432 Mbit/s
+
 ### Supermarkets in Rio de Janeiro
 
 - Zona Sul - the main gentrified supermarket, but even there the fresh produce is often off and people are picking up
