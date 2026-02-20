@@ -87,7 +87,7 @@ Not Recommended:
     This is a bit of a tourist place though as a t-shirt here costs 150 BRL (\$29) which is ridiculous given I rarely
     pay more than \$5-\$7 around the world and for these and my friend bought one I recommended for 40 BRL (\$7.70) from
     a stall opposite the nicer Copacabana beach
-  - [] - overall this is an Instagram sucker's place from a few people doing drone videos from the rooftop.
+  - [Terraço da Vila](https://maps.app.goo.gl/6q522R9w7EhqCHBn8) - rooftop viewpoint
   - [Mirante Rocinha](https://maps.app.goo.gl/ZujiY1T5DmABYnZe7) - chic bar restaurant with a good view
 
 #### Rio Carnival
