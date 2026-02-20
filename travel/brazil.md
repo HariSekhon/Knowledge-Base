@@ -60,7 +60,8 @@ Not Recommended:
 
 ### Attractions in Rio de Janeiro
 
-- [Copacabana](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - the main tourist area:
+- [Copacabana](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - the main tourist area with long beach, calisthenic bars, beach drink huts,
+  market stalls opposite the beach and many of the high end restaurants:
   - [Praia do Leme](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - beach
   - [Praia de Copacabana](https://maps.app.goo.gl/27P5kLdYEcxvQiqo8) - beach
 - [Ipanema](https://maps.app.goo.gl/WTJVshd3gq6hhoPw7):
