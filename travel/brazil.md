@@ -81,7 +81,7 @@ Not Recommended:
   - Overall, you could just take the same public motorbike ride from the line of available drivers at
     [this triangle](https://maps.app.goo.gl/xc21Ro6uoLn77G4h9) up to the top for 10 BRL
     (5 BRL for a local, 10 BRL for a tourist = \$2) and then walk down from the viewpoints to the market by yourself
-    without having to pay \$26 for a tour guide:
+    without having to pay \$26 for a tour guide to go to free places:
   - [Via Ápia da Rocinha](https://maps.app.goo.gl/bSZyC3A8HDhGE6Kn8) - commercial tourist street with street stalls,
     shops and restaurants.
     This is a bit of a tourist place though as a t-shirt here costs 150 BRL (\$29) which is ridiculous given I rarely
