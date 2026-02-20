@@ -98,6 +98,7 @@ Not Recommended:
   - [Terraço da Vila](https://maps.app.goo.gl/6q522R9w7EhqCHBn8) - rooftop viewpoint
   - [Mirante Rocinha](https://maps.app.goo.gl/ZujiY1T5DmABYnZe7) - chic bar restaurant with a good view
 - [Lagoa Rodrigo de Freitas](https://maps.app.goo.gl/PDCk36mhCowVAG1r5)
+  - [Pier da Lagoa](https://maps.app.goo.gl/36jsrkrj5PR66GBf6)
 
 #### Rio Carnival
 
