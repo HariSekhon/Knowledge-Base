@@ -66,6 +66,7 @@ Not Recommended:
   market stalls opposite the beach and many of the high end restaurants:
   - [Praia do Leme](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - beach
   - [Praia de Copacabana](https://maps.app.goo.gl/27P5kLdYEcxvQiqo8) - beach
+  - [Mureta do Leme](https://maps.app.goo.gl/vyFww9BDRXtvSK8h6) - scenic spot
 - [Ipanema](https://maps.app.goo.gl/WTJVshd3gq6hhoPw7):
   - [Praia de Ipanema](https://maps.app.goo.gl/aa4os6t6YXDc9KBN7) - beach
   - [Praia do Leblon](https://maps.app.goo.gl/vEFNFs9s5XJtdLzK7) - beach
