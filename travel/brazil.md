@@ -45,20 +45,49 @@ Taxis were hard to come by at times, possibly due to the Rio Carnival
 ### Best Areas to Stay in Rio de Janeiro
 
 - [Copacabana](https://maps.app.goo.gl/5tmKCJLnZJnN8jLc9) -
-  this is the primary neighbourhood for tourists in the South East of the city.
-  It has the famous beach promenade as well as most of the well rated restaurants and better Zona Sul gentrified
-  supermarkets
+  upmarket neighbourhood with the famous beach as well as most of the well rated restaurants and better Zona Sul
+  gentrified supermarkets
+- [Ipanema](https://maps.app.goo.gl/cjSVKnqMP3GsXhkx5) - upmarket area just west of Copacabana with an extensive beach
+  and expensive restaurants
+- [São Conrado](https://maps.app.goo.gl/WGvTezc8zy2dfQJn8) - upmarket area with luxury condos and hotels further west
+  along the south coast from Copacabana
 
 Not Recommended:
 
-- Centro (smells)
-- North West
+- Centro or any neighbouring north eastern area (many places smell of urine and there are many homeless people)
+- North West - near the airport, the opposite end of the good part of town Copacabana
+- Rocinha - the favela (ghetto), where drug dealers roam around with guns
 
 ### Attractions in Rio de Janeiro
 
 - [Copacabana](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - the main tourist area:
   - [Praia do Leme](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - beach
   - [Praia de Copacabana](https://maps.app.goo.gl/27P5kLdYEcxvQiqo8) - beach
+- [São Conrado](https://maps.app.goo.gl/9kSnoV8DkRDoZcWY8):
+  - [Praia de São Conrado / Praia da Gávea](https://maps.app.goo.gl/wxNyaH8SJ4WQ1SseA) - beach
+  - [Praia do Pepino](https://maps.app.goo.gl/WkgDvTo3qBM8zev79) - beach
+  - [Fashion Mall](https://maps.app.goo.gl/MaViWRCTxgkWS3Br9) - small with a lot of vacant units, nothing compared to
+    fashion malls in other countries - I wouldn't travel to this again
+- [Rocinha](https://maps.app.goo.gl/2BX26gWchZmcTceK8) - favela with tours - there are guys with guns and assault rifles
+  walking down the alleyways, so keep your phone and sunglasses tucked away.
+  One of them literally had a gold AK-47.
+  I'm not quite sure why anyone who has come from poverty would ever want to visit this place
+  but my friend roped me into it.
+  They love to mention how they are the only favela to have a metro subway stop 🙄 and how they get free education,
+  healthcare and sports centre.
+  One astute tourist asked who paid for this - to which the tour guide answered _"The Government"_ as though that wasn't
+  just money stolen from productive people's taxes, thereby reducing their birthrates
+  (see [Idiocracy](https://www.youtube.com/watch?v=sP2tUW0HDHA)).
+  - Overall, you could just take the same public motorbike from [here](https://maps.app.goo.gl/xc21Ro6uoLn77G4h9)
+    up to the top for \$2 and then walk down from the viewpoints to the market by yourself without having to pay \$26
+    for a tour guide:
+  - [Via Ápia da Rocinha](https://maps.app.goo.gl/bSZyC3A8HDhGE6Kn8) - commercial tourist street with street stalls,
+    shops and restaurants.
+    This is a bit of a tourist place though as a t-shirt here costs 150 BRL (\$29) which is ridiculous given I rarely
+    pay more than \$5-\$7 around the world and for these and my friend bought one I recommended for 40 BRL (\$7.70) from
+    a stall opposite the nicer Copacabana beach
+  - [] - overall this is an Instagram sucker's place from a few people doing drone videos from the rooftop.
+  - [Mirante Rocinha](https://maps.app.goo.gl/ZujiY1T5DmABYnZe7) - chic bar restaurant with a good view
 
 #### Rio Carnival
 
@@ -113,6 +142,10 @@ Not Recommended:
   favourite, although it is very sweet - my teeth were badly furred up from bacterial plaque within 5 minutes of eating
   dessert.
   WiFi 395/432 Mbit/s
+
+TODO:
+
+- [Bar e Restaurante Social Trapia](https://maps.app.goo.gl/4QTgWS1weHCo222P6) - recommended by my favela tour guide
 
 ### Supermarkets in Rio de Janeiro
 
