@@ -75,12 +75,13 @@ Not Recommended:
   but my friend roped me into it.
   They love to mention how they are the only favela to have a metro subway stop 🙄 and how they get free education,
   healthcare and sports centre.
-  One astute tourist asked who paid for this - to which the tour guide answered _"The Government"_ as though that wasn't
-  just money stolen from productive people's taxes, thereby reducing their birthrates
+  One astute tourist asked who pays for all this - to which the tour guide answered _"The Government"_ as though that
+  wasn't just money stolen from productive people's earnings via taxes, thereby reducing their birthrates
   (see [Idiocracy](https://www.youtube.com/watch?v=sP2tUW0HDHA)).
-  - Overall, you could just take the same public motorbike from [here](https://maps.app.goo.gl/xc21Ro6uoLn77G4h9)
-    up to the top for \$2 and then walk down from the viewpoints to the market by yourself without having to pay \$26
-    for a tour guide:
+  - Overall, you could just take the same public motorbike from
+    [this triangle](https://maps.app.goo.gl/xc21Ro6uoLn77G4h9) up to the top for 10BRL
+    (5 BRL for a local, 10 BRL for a tourist = \$2) and then walk down from the viewpoints to the market by yourself
+    without having to pay \$26 for a tour guide:
   - [Via Ápia da Rocinha](https://maps.app.goo.gl/bSZyC3A8HDhGE6Kn8) - commercial tourist street with street stalls,
     shops and restaurants.
     This is a bit of a tourist place though as a t-shirt here costs 150 BRL (\$29) which is ridiculous given I rarely
