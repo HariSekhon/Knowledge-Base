@@ -60,6 +60,8 @@ Not Recommended:
 
 ### Attractions in Rio de Janeiro
 
+- [Cristo Redentor](https://maps.app.goo.gl/KNfZtNU69oLpfh1Y9) - the famous giant statue of Jesus and viewpoint
+  overlooking the city
 - [Copacabana](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - the main tourist area with long beach, calisthenic bars, beach drink huts,
   market stalls opposite the beach and many of the high end restaurants:
   - [Praia do Leme](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - beach
