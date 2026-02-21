@@ -201,7 +201,7 @@ of the name, and he declines to take his phone out for fear of being mugged / it
 
 ## Travelling Between Rio de Janeiro and Sao Paolo
 
-Flights were expensive, between £300-£400 at short notice, while buses were around £20, although takes longer at around
+Flights were expensive, between £200-£400 at short notice, while buses were around £20, although takes longer at around
 6-7 hours.
 
 You can catch buses from [Novo Rio Bus Terminal](https://maps.app.goo.gl/TB3Rt52a9LWvP2dE9) in Rio de Janeiro
