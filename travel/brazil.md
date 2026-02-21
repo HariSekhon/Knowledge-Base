@@ -211,7 +211,7 @@ It's recommended to book online in advance as the tickets can sell out 24-48 hou
 
 You can buy tickets at one of these websites:
 
-<https://www.busbud.com/en>
+<https://www.busbud.com/en> - I find this site's listings much more clear due to chronological departure ordering
 
 <https://www.clickbus.com.br/>
 
