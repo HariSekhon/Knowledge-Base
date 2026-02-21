@@ -13,6 +13,7 @@
   - [Restaurants in Rio de Janeiro](#restaurants-in-rio-de-janeiro)
   - [Supermarkets in Rio de Janeiro](#supermarkets-in-rio-de-janeiro)
   - [Cautionary Stories from Rio de Janeiro](#cautionary-stories-from-rio-de-janeiro)
+- [Travelling Between Rio de Janeiro and Sao Paolo](#travelling-between-rio-de-janeiro-and-sao-paolo)
 - [Sao Paolo](#sao-paolo)
 
 <!-- INDEX_END -->
@@ -197,6 +198,22 @@ a big muscular african american guy we meet at Copacabana beach, who has lived i
 is walking with us while we're exchanging travel tips and going to get dinner together.
 I tell him I'll write the name of a travel place I recommended on his phone when he struggles to understand the spelling
 of the name, and he declines to take his phone out for fear of being mugged / it being snatched.
+
+## Travelling Between Rio de Janeiro and Sao Paolo
+
+Flights were expensive, between £300-£400 at short notice, while buses were around £20, although takes longer at around
+6-7 hours.
+
+You can catch buses from [Novo Rio Bus Terminal](https://maps.app.goo.gl/TB3Rt52a9LWvP2dE9) in Rio de Janeiro
+to São Paulo's [Tietê Bus Terminal](https://maps.app.goo.gl/yBctGwGG1dpgHRMEA).
+
+It's recommended to book online in advance as the tickets can sell out 24-48 hours in advance on the weekends.
+
+You can buy tickets at one of these websites:
+
+<https://www.busbud.com/en>
+
+<https://www.clickbus.com.br/>
 
 ## Sao Paolo
 
