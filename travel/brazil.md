@@ -62,21 +62,24 @@ Not Recommended:
 
 - [Cristo Redentor](https://maps.app.goo.gl/KNfZtNU69oLpfh1Y9) - the famous giant statue of Jesus and viewpoint
   overlooking the city
-- [Copacabana](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) Beach - the main tourist area with long beach, calisthenic bars, beach drink huts,
-  market stalls opposite the beach and many of the high end restaurants:
-  - [Praia do Leme](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - beach
-  - [Praia de Copacabana](https://maps.app.goo.gl/27P5kLdYEcxvQiqo8) - beach
-  - [Mureta do Leme](https://maps.app.goo.gl/vyFww9BDRXtvSK8h6) - scenic spot
-- [Ipanema](https://maps.app.goo.gl/WTJVshd3gq6hhoPw7):
-  - [Praia de Ipanema](https://maps.app.goo.gl/aa4os6t6YXDc9KBN7) - beach
-  - [Praia do Leblon](https://maps.app.goo.gl/vEFNFs9s5XJtdLzK7) - beach
-  - [Mirante do Leblon](https://maps.app.goo.gl/r7wn6wFeTKJBGWAz7) - observation deck
-  - [Pedra do Arpoador](https://maps.app.goo.gl/NBJBoh34kSwAGTp29) - scenic spot
-- [São Conrado](https://maps.app.goo.gl/9kSnoV8DkRDoZcWY8):
-  - [Praia de São Conrado / Praia da Gávea](https://maps.app.goo.gl/wxNyaH8SJ4WQ1SseA) - beach
-  - [Praia do Pepino](https://maps.app.goo.gl/WkgDvTo3qBM8zev79) - beach
-  - [Fashion Mall](https://maps.app.goo.gl/MaViWRCTxgkWS3Br9) - small with a lot of vacant units, nothing compared to
-    fashion malls in other countries - I wouldn't travel to this again
+- Zona Sul (South Zone):
+  - [Copacabana](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) Beach - the main tourist area with long beach, calisthenic bars, beach drink huts,
+    market stalls opposite the beach and many of the high end restaurants:
+    - [Praia do Leme](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - beach
+    - [Praia de Copacabana](https://maps.app.goo.gl/27P5kLdYEcxvQiqo8) - beach
+    - [Mureta do Leme](https://maps.app.goo.gl/vyFww9BDRXtvSK8h6) - scenic spot
+  - [Ipanema](https://maps.app.goo.gl/WTJVshd3gq6hhoPw7):
+    - [Praia de Ipanema](https://maps.app.goo.gl/aa4os6t6YXDc9KBN7) - beach
+    - [Praia do Leblon](https://maps.app.goo.gl/vEFNFs9s5XJtdLzK7) - beach
+    - [Mirante do Leblon](https://maps.app.goo.gl/r7wn6wFeTKJBGWAz7) - observation deck
+    - [Pedra do Arpoador](https://maps.app.goo.gl/NBJBoh34kSwAGTp29) - scenic spot
+  - [São Conrado](https://maps.app.goo.gl/9kSnoV8DkRDoZcWY8):
+    - [Praia de São Conrado / Praia da Gávea](https://maps.app.goo.gl/wxNyaH8SJ4WQ1SseA) - beach
+    - [Praia do Pepino](https://maps.app.goo.gl/WkgDvTo3qBM8zev79) - beach
+    - [Fashion Mall](https://maps.app.goo.gl/MaViWRCTxgkWS3Br9) - small with a lot of vacant units, nothing compared to
+      fashion malls in other countries - I wouldn't travel to this again
+- [Lagoa Rodrigo de Freitas](https://maps.app.goo.gl/PDCk36mhCowVAG1r5)
+  - [Pier da Lagoa](https://maps.app.goo.gl/36jsrkrj5PR66GBf6)
 - [Rocinha](https://maps.app.goo.gl/2BX26gWchZmcTceK8) - favela with tours and a tourist market.
   There are literally guys with guns and assault rifles walking down the alleyways, past you, so keep your phone and
   sunglasses tucked away. One of them literally had a gold AK-47.
@@ -100,8 +103,6 @@ Not Recommended:
   - [Mirante Rocinha](https://maps.app.goo.gl/ZujiY1T5DmABYnZe7) - chic bar restaurant with a good view
 - [Sambadrome Marquês de Sapucaí](https://maps.app.goo.gl/nn8i4XwfXRVCJpDf9) - stadium that hosts the official
   Rio Carnival dance competition
-- [Lagoa Rodrigo de Freitas](https://maps.app.goo.gl/PDCk36mhCowVAG1r5)
-  - [Pier da Lagoa](https://maps.app.goo.gl/36jsrkrj5PR66GBf6)
 
 #### Rio Carnival
 
