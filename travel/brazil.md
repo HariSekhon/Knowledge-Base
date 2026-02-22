@@ -13,8 +13,12 @@
   - [Restaurants in Rio de Janeiro](#restaurants-in-rio-de-janeiro)
   - [Supermarkets in Rio de Janeiro](#supermarkets-in-rio-de-janeiro)
   - [Cautionary Stories from Rio de Janeiro](#cautionary-stories-from-rio-de-janeiro)
-- [Travelling Between Rio de Janeiro and Sao Paolo](#travelling-between-rio-de-janeiro-and-sao-paolo)
-- [Sao Paolo](#sao-paolo)
+- [Travelling Between Rio de Janeiro and Sao Paulo](#travelling-between-rio-de-janeiro-and-sao-paulo)
+  - [Bus Between Rio de Janeiro and Sao Paulo](#bus-between-rio-de-janeiro-and-sao-paulo)
+  - [Bus Food Stop](#bus-food-stop)
+- [Sao Paulo](#sao-paulo)
+  - [Best Areas to Stay in Sao Paulo](#best-areas-to-stay-in-sao-paulo)
+  - [Restaurants in Sao Paulo](#restaurants-in-sao-paulo)
 
 <!-- INDEX_END -->
 
@@ -199,10 +203,12 @@ is walking with us while we're exchanging travel tips and going to get dinner to
 I tell him I'll write the name of a travel place I recommended on his phone when he struggles to understand the spelling
 of the name, and he declines to take his phone out for fear of being mugged / it being snatched.
 
-## Travelling Between Rio de Janeiro and Sao Paolo
+## Travelling Between Rio de Janeiro and Sao Paulo
 
-Flights were expensive, between £200-£400 at short notice, while buses were around £20, although takes longer at around
+Flights were expensive, between £200-£400 at short notice, while buses were around £25, although takes longer at around
 6-7 hours.
+
+### Bus Between Rio de Janeiro and Sao Paulo
 
 You can catch buses from [Novo Rio Bus Terminal](https://maps.app.goo.gl/TB3Rt52a9LWvP2dE9) in Rio de Janeiro
 to São Paulo's [Tietê Bus Terminal](https://maps.app.goo.gl/yBctGwGG1dpgHRMEA).
@@ -215,6 +221,17 @@ You can buy tickets at one of these websites:
 
 <https://www.clickbus.com.br/>
 
-## Sao Paolo
+### Bus Food Stop
+
+The bus stopped about half way at a pit stop with a buffet restaurant called Graal Resende.
+There was also a NYC burger restaurant there if you want a fixed cost meal.
+
+## Sao Paulo
+
+### Best Areas to Stay in Sao Paulo
+
+TODO
+
+### Restaurants in Sao Paulo
 
 TODO
