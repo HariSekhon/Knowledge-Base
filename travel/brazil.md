@@ -78,8 +78,8 @@ Not Recommended:
 - [Cristo Redentor](https://maps.app.goo.gl/KNfZtNU69oLpfh1Y9) - the famous giant statue of Jesus and viewpoint
   overlooking the city
 - Zona Sul (South Zone):
-  - [Copacabana](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) Beach - the main tourist area with long beach, calisthenic bars, beach drink huts,
-    market stalls opposite the beach and many of the high end restaurants:
+  - [Copacabana](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) Beach - the main tourist area with long beach,
+    calisthenic bars, beach drink huts, market stalls opposite the beach and many of the high end restaurants:
     - [Praia do Leme](https://maps.app.goo.gl/LjCwzbvA5V57JPf87) - beach
     - [Praia de Copacabana](https://maps.app.goo.gl/27P5kLdYEcxvQiqo8) - beach
     - [Mureta do Leme](https://maps.app.goo.gl/vyFww9BDRXtvSK8h6) - scenic spot
