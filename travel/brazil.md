@@ -152,6 +152,10 @@ The acai is also high in sugar and unhealthy as a result.
 - [Churrascaria Matinadas](https://maps.app.goo.gl/Dn5RskppfszzNGua7) - popular affordable barbeque meats and buffet
   serf-service restaurant. They weigh the meat, so only take what you want, and put it on a separate plate so it is
   weighed separately
+- [Café Zinn - Leblon](https://maps.app.goo.gl/zTRGzZ553BooZ3Bo7) - the vanilla golden milk was nice, albeit small for
+  24 BRL (\$4.60 - expensive for Brazilian standards considering you can get a big coconut for 9-12 BRL).
+  This place is likely marked down on stars due to price vs size, but was a good refuge in the mall to warm up during a
+  thunderstorm
 
 Not Recommended:
 
