@@ -236,7 +236,10 @@ You can buy tickets at one of these websites:
 The bus stopped about half way at a pit stop with a buffet restaurant called Graal Resende.
 There was also a NYC burger restaurant there if you want a fixed cost meal.
 
-## Sao Paulo
+## São Paulo
+
+[São Paulo](https://maps.app.goo.gl/vQ5jfTN1scUbM41S9) is Brazil's capital with the largest population which was 12M as
+of 2025 estimates.
 
 ### Best Areas to Stay in Sao Paulo
 
