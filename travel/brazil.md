@@ -283,3 +283,7 @@ Wifi 969/560 Mbit/s - stunningly fast!
 TODO:
 
 - [Hirá Ramen Izakaya](https://maps.app.goo.gl/iQxHdaH2nAYvArup8) - 4.5, busy
+- [Motique](https://maps.app.goo.gl/3cXg4PQDCcbA4qNA9) - 4.9
+- [Casa Jardim Restaurante e Eventos](https://maps.app.goo.gl/1qVwK3GtMMjAHVJu9) - 4.7
+- [O Escandinavo | Restaurante Nórdico em São Paulo](https://maps.app.goo.gl/N4QAhUzvorS81mdo8) - 4.8, expensive
+- [Di Paolo Pinheiros](https://maps.app.goo.gl/V3bSjDPepfrmpDjw7) - 4.6, expensive
