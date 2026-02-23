@@ -86,6 +86,8 @@ Not Recommended:
   - [Ipanema](https://maps.app.goo.gl/WTJVshd3gq6hhoPw7):
     - [Praia de Ipanema](https://maps.app.goo.gl/aa4os6t6YXDc9KBN7) - beach
     - [Praia do Leblon](https://maps.app.goo.gl/vEFNFs9s5XJtdLzK7) - beach
+    - [Leblon Mall](https://maps.app.goo.gl/EigzGkMv36jcttsk7) - upmarket multi-story mall with international designer
+      brand shops and a top floor of restaurants
     - [Mirante do Leblon](https://maps.app.goo.gl/r7wn6wFeTKJBGWAz7) - observation deck
     - [Pedra do Arpoador](https://maps.app.goo.gl/NBJBoh34kSwAGTp29) - scenic spot
   - [São Conrado](https://maps.app.goo.gl/9kSnoV8DkRDoZcWY8):
