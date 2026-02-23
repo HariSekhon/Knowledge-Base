@@ -38,7 +38,11 @@ like most of Latin America.
 
 ## Rio de Janeiro
 
-A lot of places in Rio smell of urine, and there are a lot of homeless people asleep on the dirty streets.
+[Rio de Janeiro](https://maps.app.goo.gl/eBJE65JYm661Y5xG9) is most famous for it's southern beaches, such as
+Copacabana.
+
+Unfortunately, the rest of the city is not so great - a lot of places in Rio smell of urine, and there are a lot of
+homeless people asleep on the dirty streets.
 
 ### RIOgaleão International Airport
 
