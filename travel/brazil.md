@@ -16,7 +16,7 @@
 - [Travelling Between Rio de Janeiro and Sao Paulo](#travelling-between-rio-de-janeiro-and-sao-paulo)
   - [Bus Between Rio de Janeiro and Sao Paulo](#bus-between-rio-de-janeiro-and-sao-paulo)
     - [Bus Food Stop](#bus-food-stop)
-- [São Paulo](#são-paulo)
+- [Sao Paulo](#sao-paulo)
   - [Best Areas to Stay in Sao Paulo](#best-areas-to-stay-in-sao-paulo)
   - [Attractions in Sao Paulo](#attractions-in-sao-paulo)
   - [Restaurants in Sao Paulo](#restaurants-in-sao-paulo)
@@ -236,7 +236,7 @@ You can buy tickets at one of these websites:
 The bus stopped about half way at a pit stop with a buffet restaurant called Graal Resende.
 There was also a NYC burger restaurant there if you want a fixed cost meal.
 
-## São Paulo
+## Sao Paulo
 
 [São Paulo](https://maps.app.goo.gl/vQ5jfTN1scUbM41S9) is Brazil's capital with the largest population which was 12M as
 of 2025 estimates.
