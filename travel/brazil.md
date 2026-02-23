@@ -18,6 +18,7 @@
   - [Bus Food Stop](#bus-food-stop)
 - [Sao Paulo](#sao-paulo)
   - [Best Areas to Stay in Sao Paulo](#best-areas-to-stay-in-sao-paulo)
+  - [Attractions in Sao Paulo](#attractions-in-sao-paulo)
   - [Restaurants in Sao Paulo](#restaurants-in-sao-paulo)
 
 <!-- INDEX_END -->
@@ -29,6 +30,11 @@ crime, homelessness and topless guys digging through trash bins in many location
 
 It is easily one of the most mixed race countries in the world so you never know what "a brazilian" actually looks like
 as there is not a clear cut stereotype as there is in many other mostly homogenous countries.
+
+This is the only country in Latin America that speaks Portugese instead of Spanish.
+
+You would be best served learning at least some basic Portugese to get by as a lot of people do not speak English here,
+like most of Latin America.
 
 ## Rio de Janeiro
 
@@ -230,8 +236,46 @@ There was also a NYC burger restaurant there if you want a fixed cost meal.
 
 ### Best Areas to Stay in Sao Paulo
 
-TODO
+- [Jardins](https://maps.app.goo.gl/4aVQ9MKaqPY6qdBP7) - upmarket area near Avenida Paulista with fancy restaurants,
+  boutique shopping, hotels and museums
+- [Itaim Bibi](https://maps.app.goo.gl/p9gLdR2bLt3ADvVZ9) - trendy neighborhood known for expensive nightlife
+  restaurants, luxury shopping, corporate offices and business hotels
+- [Vila Madalena](https://maps.app.goo.gl/mm1XYScEYwQ3U4je8) - bohemian district with street art, bars and creative vibe
+- [Pinheiros](https://maps.app.goo.gl/xe18PvkDQu9AHjAL6) - lively area with markets, cafes, restaurants and several busy
+  bars. Also has good metro connections
+- [Paulista / Bela Vista](https://maps.app.goo.gl/owDNCcLmMGgcWm527) - central location with cultural attractions
+  museums and public transport
+- [Higienópolis](https://maps.app.goo.gl/ihhbDDGicgTvt1Bc9) - quiet gentrified area of cafes, boutiques, restaurants and mall
+- [Moema](https://maps.app.goo.gl/qzKJaFchm4ybNT3o7) - safe residential area close to Ibirapuera Park and
+  Congonhas Airport, consider it for longer / family stays
+
+<!--
+
+[Mada Hostel](https://maps.app.goo.gl/bjkVHJ3nDwNrYmxX9) - cheap and decent - on the border of Vila and Pinheiros areas.
+It's in a private road -
+the south gate which is on the road with the bars is locked at 8pm (probably to keep drunks out?)
+you have to walk around the block to enter from the quieter north side
+Wifi 969/560 Mbit/s - stunningly fast!
+
+-->
+
+### Attractions in Sao Paulo
+
+- [Instituto Moreira Salles - IMS Paulista](https://maps.app.goo.gl/iuV4zTEFAeaHt8R97) - cultural museum in a fancy
+  glass-fronted building with photography shows, a library, a cafe & view over Avenida Paulista
+- [Pinacoteca de São Paulo](https://maps.app.goo.gl/PX4mswH9NED4xrPP6) - Brazilian art museum
+- [Shopping Pátio Higienópolis](https://maps.app.goo.gl/u67DeekZR2RKkXLeA) - upmarket mall in the Higienópolis area
+  mentioned above
+- [Iguatemi Shopping](https://maps.app.goo.gl/eMe1uyR5osmBtznu8) - upmarket mall in the Itaim Bibi area mentioned above
 
 ### Restaurants in Sao Paulo
 
-TODO
+- [Hamburgueria Bullguer](https://maps.app.goo.gl/QdydY9uyFRu8Vgi36) - surprisingly good and fresh Stencil burger at
+  reasonable price (I got it without cheese). The burger even had that stencil burnt branding on the top half of the
+  burger bun.
+  The crinkle cut fries were crispy and well seasoned.
+  The chocolate milkshake was smaller than expected but very tasty, good quality ice cream, just the right amount of
+  sweetness, with chocolate sauce on the sides of the cup, perfect.
+  There was 1 self-service terminal almost blocking the old human terminal leaving the female server with nothing to do!
+  There's a good amount of seating.
+  No wifi!
