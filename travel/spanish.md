@@ -11,25 +11,27 @@
 
 You need this when travelling Latin America since most people don't speak English.
 
-| English                        | Spanish                        |
-|--------------------------------|--------------------------------|
-| Yes                            | Si                             |
-| No                             | No                             |
-| Please                         | Por favor                      |
-| Thank You                      | Gracias                        |
-| Very Good                      | Muy Bueno                      |
-| Beach                          | Playa                          |
-| Little                         | Poco                           |
-| Slightly Small                 | Pequeno (pek-in-yo)            |
-| Do you speak English?          | Hablas Engles?                 |
-| I don't speak much spanish     | No hablas mucho la espanol     |
-| I am learning a little spanish | Soy aprienendo poco la espanol |
-| Time                           | Tiempo                         |
-| Hour                           | Hora                           |
-| Now                            | Ahora                          |
-| Where is                       | Donde esta                     |
-| Toilet                         | Bano (ban-yo)                  |
-| Here                           | Aqui                           |
+| English                        | Spanish                                                                                                                                                                                           |
+|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Yes                            | Si                                                                                                                                                                                                |
+| No                             | No                                                                                                                                                                                                |
+| Please                         | Por favor                                                                                                                                                                                         |
+| Thank You                      | Gracias                                                                                                                                                                                           |
+| Very Good                      | Muy Bueno                                                                                                                                                                                         |
+| Beach                          | Playa                                                                                                                                                                                             |
+| Little                         | Poco                                                                                                                                                                                              |
+| Slightly Small                 | Pequeno (pek-in-yo)                                                                                                                                                                               |
+| Do you speak English?          | Hablas Engles?                                                                                                                                                                                    |
+| I don't speak much spanish     | No hablas mucho la espanol                                                                                                                                                                        |
+| I am learning a little spanish | Soy aprienendo poco la espanol                                                                                                                                                                    |
+| Time                           | Tiempo                                                                                                                                                                                            |
+| Hour                           | Hora                                                                                                                                                                                              |
+| Now                            | Ahora                                                                                                                                                                                             |
+| Where is                       | Donde esta                                                                                                                                                                                        |
+| Toilet                         | Bano (ban-yo)                                                                                                                                                                                     |
+| Here                           | Aqui                                                                                                                                                                                              |
+| But                            | Pero                                                                                                                                                                                              |
+| More                           | Mas<br/><br/>Remember the famous__"No Mas"_ (translation: _"No More"_) in Boxing when the champion Roberto Duran aka _"Hands of Stone"_ conceded the bout to the great champion Sugar Ray Leonard |
 
 ## Food
 
