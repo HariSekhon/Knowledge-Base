@@ -261,6 +261,7 @@ Wifi 969/560 Mbit/s - stunningly fast!
 
 ### Attractions in Sao Paulo
 
+- [Beco do Batman](https://maps.app.goo.gl/Xo7DJbTvZRNnRviw5) - alleyway of street art graffiti
 - [Instituto Moreira Salles - IMS Paulista](https://maps.app.goo.gl/iuV4zTEFAeaHt8R97) - cultural museum in a fancy
   glass-fronted building with photography shows, a library, a cafe & view over Avenida Paulista
 - [Pinacoteca de São Paulo](https://maps.app.goo.gl/PX4mswH9NED4xrPP6) - Brazilian art museum
