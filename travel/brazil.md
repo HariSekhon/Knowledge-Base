@@ -28,8 +28,11 @@
 Brazil is a 3rd world country of great natural beauty but also stark wealth inequality,
 crime, homelessness and topless guys digging through trash bins in many locations across Rio.
 
+Brazil is the South Africa of Latin America - it consistently ranks as one of the most crime-ridden countries and
+will forever have serious social problems due to its demographics.
+
 It is easily one of the most mixed race countries in the world so you never know what "a brazilian" actually looks like
-as there is not a clear cut stereotype as there is in many other mostly homogenous countries.
+as there is not one clear cut stereotype look as there is in many other mostly homogenous countries.
 
 This is the only country in Latin America that speaks Portugese instead of Spanish.
 
