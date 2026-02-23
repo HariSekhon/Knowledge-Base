@@ -16,7 +16,7 @@
 - [Travelling Between Rio de Janeiro and Sao Paulo](#travelling-between-rio-de-janeiro-and-sao-paulo)
   - [Bus Between Rio de Janeiro and Sao Paulo](#bus-between-rio-de-janeiro-and-sao-paulo)
     - [Bus Food Stop](#bus-food-stop)
-- [Sao Paulo](#sao-paulo)
+- [São Paulo](#são-paulo)
   - [Best Areas to Stay in Sao Paulo](#best-areas-to-stay-in-sao-paulo)
   - [Attractions in Sao Paulo](#attractions-in-sao-paulo)
   - [Restaurants in Sao Paulo](#restaurants-in-sao-paulo)
