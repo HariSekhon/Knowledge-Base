@@ -15,7 +15,7 @@
   - [Cautionary Stories from Rio de Janeiro](#cautionary-stories-from-rio-de-janeiro)
 - [Travelling Between Rio de Janeiro and Sao Paulo](#travelling-between-rio-de-janeiro-and-sao-paulo)
   - [Bus Between Rio de Janeiro and Sao Paulo](#bus-between-rio-de-janeiro-and-sao-paulo)
-  - [Bus Food Stop](#bus-food-stop)
+    - [Bus Food Stop](#bus-food-stop)
 - [Sao Paulo](#sao-paulo)
   - [Best Areas to Stay in Sao Paulo](#best-areas-to-stay-in-sao-paulo)
   - [Attractions in Sao Paulo](#attractions-in-sao-paulo)
@@ -227,7 +227,7 @@ You can buy tickets at one of these websites:
 
 <https://www.clickbus.com.br/>
 
-### Bus Food Stop
+#### Bus Food Stop
 
 The bus stopped about half way at a pit stop with a buffet restaurant called Graal Resende.
 There was also a NYC burger restaurant there if you want a fixed cost meal.
@@ -288,5 +288,5 @@ TODO:
 - [Casa Jardim Restaurante e Eventos](https://maps.app.goo.gl/1qVwK3GtMMjAHVJu9) - 4.7
 - [São Cristóvão Bar e Restaurante](https://maps.app.goo.gl/7vt1qxThqN8uqoy97) - 4.4 - soccer themed bar serving
   Brazilian food
-- [O Escandinavo | Restaurante Nórdico em São Paulo](https://maps.app.goo.gl/N4QAhUzvorS81mdo8) - 4.8, expensive
+- [O Escandinavo](https://maps.app.goo.gl/N4QAhUzvorS81mdo8) - 4.8, nordic, expensive
 - [Di Paolo Pinheiros](https://maps.app.goo.gl/V3bSjDPepfrmpDjw7) - 4.6, expensive
