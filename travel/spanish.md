@@ -76,4 +76,3 @@ You can tell I've been learning Spanish off all the menus across Latin America..
 | Azucar            | Sugar                                                                                                                                              |
 | Aqua              | Water                                                                                                                                              |
 | Gelo              | Ice Cubes                                                                                                                                          |
-| Aqua              | Water                                                                                                                                              |
