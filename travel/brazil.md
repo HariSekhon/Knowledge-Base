@@ -42,7 +42,7 @@ like most of Latin America.
 Copacabana.
 
 Unfortunately, the rest of the city is not so great - a lot of places in Rio smell of urine, and there are a lot of
-homeless people asleep on the dirty streets.
+homeless people asleep on the dirty streets and rooting through trash bins.
 
 ### RIOgaleão International Airport
 
