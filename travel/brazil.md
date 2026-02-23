@@ -279,3 +279,7 @@ Wifi 969/560 Mbit/s - stunningly fast!
   There was 1 self-service terminal almost blocking the old human terminal leaving the female server with nothing to do!
   There's a good amount of seating.
   No wifi!
+
+TODO:
+
+- [Hirá Ramen Izakaya](https://maps.app.goo.gl/iQxHdaH2nAYvArup8) - 4.5, busy
