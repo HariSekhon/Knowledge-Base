@@ -313,6 +313,14 @@ Wifi 969/560 Mbit/s - stunningly fast!
   There was 1 self-service terminal almost blocking the old human terminal leaving the female server with nothing to do!
   There's a good amount of seating.
   No wifi!
+- [GUA.CO](https://www.google.com/maps/search/GUA.CO+sao+paulo) - Mexican fast food style chain serving burritos, tacos,
+  salad bowls etc. - decent, reasonably priced.
+  Good barbacoa burrito with complete filling makes it juicy.
+  The nachos and red salsa dip is also good - the salsa is largely chopped tomatoes.
+  The chipotle sauce is medium spicy and worked well in a burrito.
+  The verde sauce was spicier than expected for a medium rated sauce and the habanero sauce was extremely spicy -
+  I’d avoid the habanero next time.
+  Wifi 104/35 Mbit/s
 
 TODO:
 
