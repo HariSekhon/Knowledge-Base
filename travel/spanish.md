@@ -69,9 +69,9 @@ You can tell I've been learning Spanish off all the menus across Latin America..
 | Horchata          | Traditional rice milk drink, ranges from bland to overly sweet depending on the restaurant, I prefer Jamaica water as it is more consistently good |
 | _"Jamaica"_ water | Hibiscus red still drink, slightly sweetened with sugar                                                                                            |
 | Tamarind water    | Slightly sweet drink with a salty aftertaste                                                                                                       |
-| Jugo              | Juice (can contain sugar and water)                                                                                                                |
-| Zumo              | Fresh Squeeze Juice                                                                                                                                |
-| Exprido           | Squeezed                                                                                                                                           |
+| Jugo              | Juice (often not pure, containing sugar and water)                                                                                                 |
+| Zumo              | Juice (freshly squeezed - don't forget to confirm no added sugar / water / ice)                                                                    |
+| Exprimido         | Squeezed                                                                                                                                           |
 | Sin               | Without                                                                                                                                            |
 | Azucar            | Sugar                                                                                                                                              |
 | Aqua              | Water                                                                                                                                              |
