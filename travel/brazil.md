@@ -34,9 +34,9 @@ will forever have serious social problems due to its demographics.
 It is easily one of the most mixed race countries in the world so you never know what "a brazilian" actually looks like
 as there is not one clear cut stereotype look as there is in many other mostly homogenous countries.
 
-This is the only country in Latin America that speaks Portugese instead of Spanish.
+This is the only country in Latin America that speaks Portuguese instead of Spanish.
 
-You would be best served learning at least some basic Portugese to get by as a lot of people do not speak English here,
+You would be best served learning at least some basic Portuguese to get by as a lot of people do not speak English here,
 like most of Latin America.
 
 ## Rio de Janeiro
@@ -164,7 +164,7 @@ The acai is also high in sugar and unhealthy as a result.
 Not Recommended:
 
 - [Aconchego Carioca](https://maps.app.goo.gl/zqqPs2eKHLK7dbFy5) - they only had a single English menu,
-  which didn't have the prices, so you'd have to cross reference with the portugese menu.
+  which didn't have the prices, so you'd have to cross reference with the portuguese menu.
   For drinks we tried the Brazilian herb iced tea which was so bad my friend sent it back and got a cranberry house soda
   instead.
   The Peito Bovino com Pao de Alho starter was far too salty, I would not order that again.
