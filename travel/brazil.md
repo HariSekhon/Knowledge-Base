@@ -304,14 +304,19 @@ Wifi 969/560 Mbit/s - stunningly fast!
 
 ### Restaurants in Sao Paulo
 
-- [Hamburgueria Bullguer](https://maps.app.goo.gl/QdydY9uyFRu8Vgi36) - surprisingly good and fresh Stencil burger at
-  reasonable price (I got it without cheese). The burger even had that stencil burnt branding on the top half of the
-  burger bun.
+- [Hamburgueria Bullguer](https://www.google.com/maps/search/Bullguer+sao+paulo) - surprisingly good and fresh burgers
+  at a reasonable price.
+  The Stencil burger was stacked with fresh lettuce, tomato and onions (I got it without cheese).
+  The burger bun even had that stencil burnt Bullguer branding on the top which was a nice touch.
   The crinkle cut fries were crispy and well seasoned.
   The chocolate milkshake was smaller than expected but very tasty, good quality ice cream, just the right amount of
   sweetness, with chocolate sauce on the sides of the cup, perfect.
+  I actually went back the next night to try to it again but they had no milkshakes -
+  I was devastated and had to settle for another Stencil burger and a Kiro lemonade (tahiti lime, apple, and ginger
+  molasses) which was interesting but I wouldn't drink it every day.
   There was 1 self-service terminal almost blocking the old human terminal leaving the female server with nothing to do!
-  There's a good amount of seating.
+  There's a good amount of seating in the [Pinheiros one](https://maps.app.goo.gl/Bqh85bMvTybER19F7) that I originally
+  went to.
   No wifi!
 - [GUA.CO](https://www.google.com/maps/search/GUA.CO+sao+paulo) - Mexican fast food style chain serving burritos, tacos,
   salad bowls etc. - decent, reasonably priced.
