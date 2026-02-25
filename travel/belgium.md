@@ -2,9 +2,11 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
+- [Population](#population)
 - [Antwerp](#antwerp)
 - [Brussels](#brussels)
-- [Bruges / Brugge](#bruges--brugge)
+- [Bruges](#bruges)
 - [Ghent / Gent](#ghent--gent)
 - [Liege](#liege)
 - [Waterloo](#waterloo)
@@ -20,8 +22,10 @@ Like Germany, it is famous for its beer culture and wide selection of beers.
 
 Due to mass immigration it's a mixed bag of a country depending on where you go.
 
-If you want to get the feel of real Belgium, skip the mass immigrated capital and go to [Bruges](#bruges--brugge)
+If you want to get the feel of native Belgium, skip the mass immigrated capital and go to [Bruges](#bruges)
 instead.
+
+West Belgium is much nicer than East Belgium.
 
 ## Population
 
@@ -52,10 +56,10 @@ Port city, not much there from what I recall, been to a good restaurant there bu
 
 A bit of a western capital dump with high immigration, graffiti etc.
 
-## Bruges / Brugge
+## Bruges
 
-West Belgium is nicer, with Bruges having a historic town catering to tourists with restaurants, ice cream and
-coffee shops.
+[Bruges](https://maps.app.goo.gl/isVUiCT96MrviteXA) aka Brugge in West Belgium is much nicer than the capital,
+with Bruges having a historic town catering to tourists with restaurants, ice cream and coffee shops.
 
 [Marco Polo Noodles](https://www.marco-polo-noodles.com/) is recommended on the main strip.
 
