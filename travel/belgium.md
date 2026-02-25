@@ -4,12 +4,12 @@
 
 - [Summary](#summary)
 - [Population](#population)
-- [Antwerp](#antwerp)
 - [Brussels](#brussels)
+  - [Waterloo](#waterloo)
+- [Antwerp](#antwerp)
 - [Bruges](#bruges)
 - [Ghent / Gent](#ghent--gent)
 - [Liege](#liege)
-- [Waterloo](#waterloo)
 
 <!-- INDEX_END -->
 
@@ -48,13 +48,21 @@ which is obvious if you've visited its capital Brussels (one of my less favourit
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~BEL)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~BEL)
 
-## Antwerp
-
-Port city, not much there from what I recall, been to a good restaurant there but can't remember its name.
-
 ## Brussels
 
 A bit of a western capital dump with high immigration, graffiti etc.
+
+### Waterloo
+
+Gentrified town just south of Brussels where Napoleon lost the famous battle.
+
+[Le Bar À Soupe](https://www.facebook.com/people/Le-Bar-%C3%A0-Soupe/100063541241931/),
+Savage Burger and [Thai Cafe](https://thai.cafe/en) are recommended here, with the latter being more expensive.
+You will need your Google Translate camera app to translate the menu as they don't speak English.
+
+## Antwerp
+
+Port city, not much there from what I recall, been to a good restaurant there but can't remember its name.
 
 ## Bruges
 
@@ -74,11 +82,3 @@ here, and both are very affordable.
 
 Liege is worse than Brussels, with high incidence of homelessness, a crime ridden feeling and people approaching you for
 money in the streets.
-
-## Waterloo
-
-Gentrified town just south of Brussels where Napoleon lost the famous battle.
-
-[Le Bar À Soupe](https://www.facebook.com/people/Le-Bar-%C3%A0-Soupe/100063541241931/),
-Savage Burger and [Thai Cafe](https://thai.cafe/en) are recommended here, with the latter being more expensive.
-You will need your Google Translate camera app to translate the menu as they don't speak English.
