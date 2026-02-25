@@ -2,6 +2,8 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
+- [Population](#population)
 - [Motorway Tolls - e-Vignettes in Austria](#motorway-tolls---e-vignettes-in-austria)
 - [Vienna](#vienna)
   - [Metro in Vienna](#metro-in-vienna)
@@ -14,9 +16,33 @@
 
 <!-- INDEX_END -->
 
+## Summary
+
 _"There are no kangaroos in Austria"_ 😉
 
 Apparently the origin of this phrase is because Americans get Austria confused with Australia.
+
+Austria is very Germanic, clean and nice, but not cheap.
+
+Parking is also a nightmare in cities like Vienna and Graz.
+
+## Population
+
+[Austria](https://en.wikipedia.org/wiki/Austria)'s population is Germanic, and yes that means hot blondes.
+
+Unfortunately its birthrates have been below replenishment for over 50 years since 1973,
+now an unsustainably low meagre 1.3 children per woman.
+
+Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
+and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
+ponzi scheme welfare state & pensions long term.
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~AUT)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~AUT)
+
+Surprisingly, its population is still slightly climbing,
+mostly due to mass immigration, even though its nowhere near as badly immigrated as the UK or Germany:
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~AUT)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~AUT)
 
 ## Motorway Tolls - e-Vignettes in Austria
 
