@@ -13,7 +13,10 @@
 
 ## Summary
 
-Not cheap any more, almost Western prices since it has joined the EU and recently adopted the Euro.
+Not cheap any more, almost Western prices in 2025 as it had joined the EU.
+
+And that was before it even adopted the Euro as its currency in Jan 2026, so I expect it to more expensive now as
+historically vendors took the opportunity to marked up their prices in other countries when they switched currency.
 
 ## Population
 
