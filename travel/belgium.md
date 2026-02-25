@@ -20,7 +20,8 @@ Like Germany, it is famous for its beer culture and wide selection of beers.
 
 Due to mass immigration it's a mixed bag of a country depending on where you go.
 
-If you want to get the feel of Belgium, skip the capital and go to Bruges instead.
+If you want to get the feel of real Belgium, skip the mass immigrated capital and go to [Bruges](#bruges--brugge)
+instead.
 
 ## Population
 
