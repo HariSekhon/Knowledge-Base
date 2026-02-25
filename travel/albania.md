@@ -26,7 +26,8 @@ _"Cheap and good"_ was how several people I met on my travels described
 I'm surprised how many Mercedes there were in Albania.
 Many 20 years old, but many modern designs with customizations, AMGs etc.
 
-Outside of the capital, some of the worst roads I've seen in Europe, though.
+Outside of the capital, some of the worst roads I've seen in Europe,
+though, with the worst _"road"_ being that leading to [Lake Bovilla](#lake-bovilla).
 
 I used the Nomad e-sim in Albania, see the [Mobile e-Sims](../travel.md#mobile-e-sims) section on the main parent Travel
 page.
