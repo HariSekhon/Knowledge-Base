@@ -2,6 +2,8 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
+- [Population](#population)
 - [Taxis in Croatia](#taxis-in-croatia)
 - [Zagreb](#zagreb)
 - [Split](#split)
@@ -10,6 +12,8 @@
 
 <!-- INDEX_END -->
 
+## Summary
+
 Croatia is expensive and service is often not good.
 
 There are a lot of better countries to visit.
@@ -17,6 +21,24 @@ There are a lot of better countries to visit.
 Some restaurants even refuse to split group bills, and I didn't find anywhere that serves breakfast past 12-1pm.
 
 It's also too hot in Summer, if you're going to do it, do it in Spring or Autumn instead.
+
+## Population
+
+[Croatia](https://en.wikipedia.org/wiki/Croatia)'s population is a mere 3.9 million, down from its peak of 4.8 in 1990.
+
+It is highly homogenous, being nearly entirely Croats, with a few Serbs.
+
+Croatia's birthrate has been below replenishment for nearly 60 years since 1968, now at 1.5 children per woman.
+
+Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
+and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
+ponzi scheme welfare state & pensions long term.
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~HRV)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~HRV)
+
+Croatia's population is already in decline:
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~HRV)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~HRV)
 
 ## Taxis in Croatia
 
