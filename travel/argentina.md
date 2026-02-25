@@ -20,6 +20,7 @@
 ## Summary
 
 Argentina uses the Argentine Peso (ARS) which is roughly 2,000 ARS per 1 GBP, or 1,400 ARS per 1 USD as of Feb 2026.
+
 I used [Eskimo e-sim](../travel.md#mobile-e-sims) with 10GB of global data to reuse across countries as I got a good deal and it worked out cheaper
 than buying a new e-sim for each country and potentially leaving behind remaining data each time.
 Note this doesn't always work out so well so compare the price per GB
