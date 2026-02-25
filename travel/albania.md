@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
 - [ATMs in Albania](#atms-in-albania)
 - [Taxis in Albania](#taxis-in-albania)
 - [Driving in Albania](#driving-in-albania)
@@ -14,6 +15,8 @@
 
 <!-- INDEX_END -->
 
+## Summary
+
 _"Cheap and good"_ was how several people I met on my travels described
 [Albania](https://maps.app.goo.gl/gEyUuDhZapAQ1b5dA). Get it before it changes.
 
@@ -21,6 +24,11 @@ I'm surprised how many Mercedes there were in Albania.
 Many 20 years old, but many modern designs with customizations, AMGs etc.
 
 Some of the roads aren't great though.
+
+Albania has a small population of only 2.4M people - a surprisingly small country, and its birthrates have been below
+replenishment for over 20 years, now a mere 1.3 per woman:
+
+![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~ALB)
 
 ## ATMs in Albania
 
