@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Population](#population)
 - [Buenos Aires](#buenos-aires)
   - [Buenos Aires Airport](#buenos-aires-airport)
     - [Travel from Ezeiza Airport to Buenos Aires City](#travel-from-ezeiza-airport-to-buenos-aires-city)
@@ -11,6 +12,7 @@
   - [Best Areas to Stay in Buenos Aires](#best-areas-to-stay-in-buenos-aires)
   - [Attractions in Buenos Aires](#attractions-in-buenos-aires)
   - [Restaurants in Buenos Aires](#restaurants-in-buenos-aires)
+- [Areas Yet to Explore](#areas-yet-to-explore)
 
 <!-- INDEX_END -->
 
@@ -27,6 +29,22 @@ to get global data that it was cheaper for me to buy just enough data per countr
 Supplements here are outrageously expensive - $100 for 30 days of glucosamine due to import taxes and in some places
 even the shaving cream was as expensive as Central American countries (\$12-\$15), so you'll save money if you bring
 all your own western supplies.
+
+## Population
+
+[Argentina](https://en.wikipedia.org/wiki/Argentina) is the second largest country after Brazil.
+
+Its birthrates have only recently fallen below replenishment in 2019, now an unsustainably low 1.5 children per woman.
+
+Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
+and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
+ponzi scheme welfare state & pensions long term.
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~ARG)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~ARG)
+
+Argentina's population has started to level off before it goes into decline:
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~ARG)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~ARG)
 
 ## Buenos Aires
 
