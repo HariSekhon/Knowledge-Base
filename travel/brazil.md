@@ -39,6 +39,9 @@ This is the only country in Latin America that speaks Portuguese instead of Span
 You would be best served learning at least some basic Portuguese to get by as a lot of people do not speak English here,
 like most of Latin America.
 
+Brazil also has birthrates below replenishment and [Idiocracy](https://www.youtube.com/watch?v=sP2tUW0HDHA)
+birthrate imbalance between groups.
+
 ![Fertility rate - Brazil](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~BRA)
 
 ## Rio de Janeiro
