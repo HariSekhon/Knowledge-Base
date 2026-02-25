@@ -13,6 +13,7 @@
 - [Graz](#graz)
   - [Parking in Graz](#parking-in-graz)
   - [Restaurants in Graz](#restaurants-in-graz)
+- [Areas Yet to Explore](#areas-yet-to-explore)
 
 <!-- INDEX_END -->
 
@@ -151,3 +152,11 @@ even 30 minutes walking distance outside the centre, and other places were even 
   them to come poached instead, had to ask for butter for the sourdough toast though
   (who has toast without butter on it!).
   I meant to tried the acai bowl here but spent too much time talking to a local couple...
+
+## Areas Yet to Explore
+
+- [Salzburg](https://maps.app.goo.gl/G9npYz7TzVNWm7XH6)
+- [Linz](https://maps.app.goo.gl/6XjMDFvNjJek76189)
+- [Liezen](https://maps.app.goo.gl/QuAW87XYApCKVq1y7)
+- [Hallstatt](https://maps.app.goo.gl/Khdk2YwiuX8SqzL56)
+- [Innsbruck](https://maps.app.goo.gl/e4ZVj4Ef5ZLfRiKC7)
