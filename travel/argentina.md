@@ -24,7 +24,7 @@ Note this doesn't always work out so well so compare the price per GB
 as previously it worked out so expensive
 to get global data that it was cheaper for me to buy just enough data per country each time.
 
-It was $100 for 30 days of glucosamine supplements due to import taxes and in some places
+Supplements here are outrageously expensive - $100 for 30 days of glucosamine due to import taxes and in some places
 even the shaving cream was as expensive as Central American countries (\$12-\$15), so you'll save money if you bring
 all your own western supplies.
 
@@ -239,3 +239,16 @@ TODO:
 - Palmero Hollywood - the wrong side of the train tracks:
   - [UCO Restaurante](https://maps.app.goo.gl/rZAhPgCPpCKn83MN6) - 4.6 argentinian
   - [Crizia Restaurante](https://maps.app.goo.gl/VYquGHQmvMSY7CRW6) - 4.6 expensive
+
+## Areas Yet to Explore
+
+- [Puerto Iguazú](https://maps.app.goo.gl/WcVsMmMjr9j1xPVy7)
+- [Cataratas del Iguazú](https://maps.app.goo.gl/pTMu2kfpgDMuz5qe9)
+- [Salta](https://maps.app.goo.gl/N2Emd1FhkWkPvHbx8)
+- [San Salvador de Jujuy](https://maps.app.goo.gl/ko4G15ntieDPerYx6)
+- [Mendoza Province](https://maps.app.goo.gl/z6ghxPAqe8EfAfqA9)
+- [San Martín de los Andes](https://maps.app.goo.gl/odQE3m3yn5biKPZe9)
+- [Villa La Angostura](https://maps.app.goo.gl/NNqSLGn9M98SjG4DA)
+- [San Carlos de Bariloche](https://maps.app.goo.gl/fhsvHtv5SJd1mV3Q6)
+- [El Bolsón](https://maps.app.goo.gl/R2kTdyP8WivZ7Gtf8)
+- [Perito Moreno Glacier](https://maps.app.goo.gl/vKMUKvLiuhH1hYtP9) - too cold for me!
