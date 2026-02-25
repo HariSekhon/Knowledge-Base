@@ -25,7 +25,9 @@ Apparently the origin of this phrase is because Americans get Austria confused w
 
 Austria is very Germanic, clean and nice, but not cheap.
 
-Parking is also a nightmare in cities like Vienna and Graz.
+The Alps are quite a sight to drive across, with large tunnels and long climbing or descending motorways.
+
+Parking is a nightmare in cities like Vienna and Graz though.
 
 ## Population
 
