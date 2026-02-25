@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
 - [California](#california)
   - [Irvine](#irvine)
   - [Los Angeles](#los-angeles)
