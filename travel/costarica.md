@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Population](#population)
 - [San Jose Airport](#san-jose-airport)
 - [Immigration Control - Exit Flight Required](#immigration-control---exit-flight-required)
 - [ATMs](#atms)
@@ -43,6 +44,25 @@ one night stopover in San Jose if you need it.
 
 Overall, at these prices, I would not re-visit Costa Rica unless I really wanted to go see the nature
 (there are good beaches all over the world and anybody can build ziplines).
+
+## Population
+
+[Costa Rica](https://en.wikipedia.org/wiki/Costa_Rica)'s population is a mix of Spanish and indigenous.
+
+Costa Rica's birthrate has been below replenishment for over 20 years since 2004, now at 1.3 children per woman,
+surprisingly as bad as Europe.
+
+Locals cite this as being related to the high cost of living.
+
+Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
+and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
+ponzi scheme welfare state & pensions long term.
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~CRI)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~CRI)
+
+Costa Rica's population appears to be levelling off before they go into population decline:
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~CRI)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~CRI)
 
 ## San Jose Airport
 
