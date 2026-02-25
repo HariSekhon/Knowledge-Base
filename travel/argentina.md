@@ -37,9 +37,9 @@ warn him enough that Argentina could be expensive, so consider yourself warned.
 Even around the world I have come to expect Argentinian restaurants to be relatively more expensive than others and
 usually avoid them for this reason - they seem to have a culture that is it expected for restaurants to be expensive.
 
-Supplements here are outrageously expensive - $100 for 30 days of glucosamine due to import taxes and in some places
-even the shaving cream was as expensive as Central American countries (\$12-\$15), so you'll save money if you bring
-all your own western supplies.
+Supplements here are also outrageously expensive - $100 for 30 days of glucosamine due to import taxes and in some
+places even the shaving cream was as expensive as Central American countries (\$12-\$15), so you'll save money if you
+bring all your own western supplies.
 
 ## Population
 
