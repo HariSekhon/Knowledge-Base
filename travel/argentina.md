@@ -43,7 +43,7 @@ bring all your own western supplies.
 
 ## Population
 
-[Argentina](https://en.wikipedia.org/wiki/Argentina) is the second largest country after Brazil.
+[Argentina](https://en.wikipedia.org/wiki/Argentina) is the second largest country in South America, after [Brazil](brazil.md).
 
 I was pleasantly surprised by the attractiveness of Argentinian people
 due to having a large Spanish and Italian ethnic heritage.
