@@ -298,7 +298,7 @@ Wifi 969/560 Mbit/s - stunningly fast!
     glass-fronted building with photography shows, a library, a cafe & view over Avenida Paulista
 - [Liberdade](https://maps.app.goo.gl/nRiUvPWnUZ96mCPi9) - Japanese influenced district known for Asian cuisine &
   cultural shops
-- [Ibirapuera Park](https://maps.app.goo.gl/eF9kF9bnQVV8nePt8) - large park with museums, lakes and walking trails,
+- [Ibirapuera Park](https://maps.app.goo.gl/eF9kF9bnQVV8nePt8) - large park with museums, lakes, running & bike trails,
   just east of the Itaim Bibi upmarket business district.
   Unfortunately it's surrounded by large busy multi-lane roads that aren't much fun to try to cross,
   and it's not that well lit in the evenings.
