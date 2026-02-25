@@ -34,7 +34,7 @@ people, although over 1/3 of the country is now foreign so this has changed thin
 
 One of my greatest managers in my career is Flemish so I might be biased into thinking they are high quality people.
 
-Belgium's birthrates have been below replenishment for over 50 years since 1974, now an unsustainably low 1.4 children
+Belgium's birthrate has been below replenishment for over 50 years since 1974, now an unsustainably low 1.4 children
 per woman.
 
 Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
