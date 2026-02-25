@@ -2,6 +2,8 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
+- [Population](#population)
 - [Sarajevo](#sarajevo)
   - [Taxis in Sarajevo](#taxis-in-sarajevo)
   - [Restaurants in Sarajevo](#restaurants-in-sarajevo)
@@ -11,9 +13,38 @@
 
 <!-- INDEX_END -->
 
-Reasonably priced holiday destination.
+## Summary
 
-Olimpija is a good local spring water from Bosnia.
+[Bosnia and Herzegovia](https://maps.app.goo.gl/fwvpGnSAKgRSoJnZ9) is a reasonably priced holiday destination.
+
+Olimpija is a good local bottled spring water from Bosnia.
+
+## Population
+
+[Bosnia and Herzegovia](https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina) has a population of just over 3 million,
+down from a peak of 4.5 million in 1991 and is ethnically comprised of 3 main groups - Bosniaks, Serbs, and Croats.
+
+Bosnia's birthrate has been below replenishment for over 40 years since 1983, now at 1.5 children per woman.
+
+Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
+and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
+ponzi scheme welfare state & pensions long term.
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~BIH)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~BIH)
+
+Muslims are around 51% of the population, primarily Bosniaks, the largest ethnic group,
+due to Ottoman conquest and introducing Islam in the 15th and 16th centuries.
+
+Every time I saw a family with 3 children and I would ask how come they are defying the dying European birthrates,
+they were muslim.
+The birthrates would be even worse if not for good muslim moral values of family culture.
+
+This is the only place I recall seeing white skinned girls with muslim headscarfs,
+but if you know of another please let me know!
+
+It's population is still in decline though:
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~BIH)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~BIH)
 
 ## Sarajevo
 
