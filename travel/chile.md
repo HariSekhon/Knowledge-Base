@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Population](#population)
 - [ATMs in Chile](#atms-in-chile)
 - [Santiago](#santiago)
   - [Santiago Arturo Merino Airport](#santiago-arturo-merino-airport)
@@ -33,6 +34,24 @@ They also reuse the `$` symbol to mean CLP not USD in prices.
 The power plugs in Chile were different to the rest of the Latin countries,
 instead of a flat 2 pin they used a round 2 pin but slimmer than the EU 2 pin
 so I had to buy one specific to Chile.
+
+## Population
+
+[Chile](https://en.wikipedia.org/wiki/Chile)'s population is predominantly Spanish mixed with indigenous, giving
+Chileans a noticeably paler look than other Western populations of South America.
+
+Chile's birthrate has been below replenishment for over 20 years since 2000, now a meagre 1.2 children per woman, as
+bad as Europe.
+
+Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
+and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
+ponzi scheme welfare state & pensions long term.
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~CHL)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~CHL)
+
+Chile's population has continued to grow due to mass immigration from other countries in Latin America:
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~CHL)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~CHL)
 
 ## ATMs in Chile
 
