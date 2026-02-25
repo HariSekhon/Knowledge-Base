@@ -35,8 +35,8 @@ ponzi scheme welfare state & pensions long term.
 Muslims are around 51% of the population, primarily Bosniaks, the largest ethnic group,
 due to Ottoman conquest and introducing Islam in the 15th and 16th centuries.
 
-Every time I saw a family with 3 children and I would ask how come they are defying the dying European birthrates,
-they were muslim.
+Every time I saw a family with 3 children, hope was kindled, so I would ask how come they are defying the dying European
+birthrates, and the answer each time was that they were muslim.
 The birthrates would be even worse if not for good muslim moral values of family culture.
 
 This is the only place I recall seeing white skinned girls with muslim headscarfs,
