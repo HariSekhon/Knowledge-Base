@@ -49,7 +49,7 @@ bring all your own western supplies.
 I was pleasantly surprised by the attractiveness of Argentinian people
 due to having a large Spanish and Italian ethnic heritage.
 
-Its birthrates have only recently fallen below replenishment in 2019, now an unsustainably low 1.5 children per woman.
+Its birthrate has only recently fallen below replenishment in 2019, now an unsustainably low 1.5 children per woman.
 
 Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
 and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
