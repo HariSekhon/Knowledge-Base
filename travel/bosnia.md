@@ -1,4 +1,4 @@
-# Bosnia
+# Bosnia and Herzegovia
 
 <!-- INDEX_START -->
 
