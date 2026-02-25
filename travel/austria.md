@@ -42,7 +42,7 @@ ponzi scheme welfare state & pensions long term.
 
 [![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~AUT)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~AUT)
 
-Surprisingly, its population is still slightly climbing,
+Surprisingly, Austria's population is still slightly climbing,
 mostly due to mass immigration, even though its nowhere near as badly immigrated as the UK or Germany:
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~AUT)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~AUT)
