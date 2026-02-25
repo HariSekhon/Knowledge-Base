@@ -28,6 +28,10 @@ It's also too hot in Summer, if you're going to do it, do it in Spring or Autumn
 
 It is highly homogenous, being nearly entirely Croats, with a few Serbs.
 
+They are typically quite tall people, and I had to save an Indian food delivery driver from being attacked by an
+absolute giant of a drunk man who clearly didn't like foreigners in his country, as he was clearly swearing at us in
+Croatian and threw his beer can at us after trying to grab us.
+
 Croatia's birthrate has been below replenishment for nearly 60 years since 1968, now at 1.5 children per woman.
 
 Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
