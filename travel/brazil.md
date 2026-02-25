@@ -304,6 +304,13 @@ Wifi 969/560 Mbit/s - stunningly fast!
 
 ### Restaurants in Sao Paulo
 
+- [Hirá Ramen Izakaya](https://maps.app.goo.gl/iQxHdaH2nAYvArup8) - busy Japanese ramen & sushi restaurant.
+  The Tony Lee Ramen was nice and spicy with a rich red paitan broth containing pork belly cubes, ramen, nori and raw
+  egg yolk in the middle. The ramens are around 70BRL ($13.50).
+  They also serve sushi and a range of appetizers, which can add up quickly as they're not cheap.
+  This restaurant is a bit upmarket and expensive compared to Brazilian earnings
+  as it's almost the price of Western restaurants.
+  WiFi 318/172 Mbit/s
 - [Hamburgueria Bullguer](https://www.google.com/maps/search/Bullguer+sao+paulo) - surprisingly good and fresh burgers
   at a reasonable price.
   The Stencil burger was stacked with fresh lettuce, tomato and onions (I got it without cheese).
@@ -329,7 +336,6 @@ Wifi 969/560 Mbit/s - stunningly fast!
 
 TODO:
 
-- [Hirá Ramen Izakaya](https://maps.app.goo.gl/iQxHdaH2nAYvArup8) - 4.5, busy
 - [Motique](https://maps.app.goo.gl/3cXg4PQDCcbA4qNA9) - 4.9
 - [Casa Jardim Restaurante e Eventos](https://maps.app.goo.gl/1qVwK3GtMMjAHVJu9) - 4.7
 - [São Cristóvão Bar e Restaurante](https://maps.app.goo.gl/7vt1qxThqN8uqoy97) - 4.4 - soccer themed bar serving
