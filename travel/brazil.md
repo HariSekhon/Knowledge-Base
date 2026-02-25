@@ -39,6 +39,8 @@ This is the only country in Latin America that speaks Portuguese instead of Span
 You would be best served learning at least some basic Portuguese to get by as a lot of people do not speak English here,
 like most of Latin America.
 
+<iframe src="https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~BRA" loading="lazy" style="width: 100%; height: 300px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
+
 ## Rio de Janeiro
 
 [Rio de Janeiro](https://maps.app.goo.gl/eBJE65JYm661Y5xG9) is most famous for it's southern beaches, such as
