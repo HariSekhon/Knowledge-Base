@@ -19,7 +19,7 @@ and generally requires an ESTA - pre-authorization before you travel there.
 
 I've worked up and down that Los Angeles part...
 
-![How Rest of World Sees USA](images/how_rest_of_world_sees_usa.jpeg)
+![How Rest of World Sees USA](../images/how_rest_of_world_sees_usa.jpeg)
 
 Like most Western countries, the US has birthrates below replenishment.
 The only thing that allows the US to get away with this is higher quality immigration from Europe,
