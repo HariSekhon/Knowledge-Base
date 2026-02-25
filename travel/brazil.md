@@ -278,25 +278,34 @@ Wifi 969/560 Mbit/s - stunningly fast!
 
 ### Attractions in Sao Paulo
 
-- [São Paulo Cathedral](https://maps.app.goo.gl/PNmJxbzxA5L97Nv89) - grand neo Gothic cathedral located in the historic
-  city center
-- [Municipal Market of São Paulo](https://maps.app.goo.gl/5AtJEgch8DKXM3Sc7) - historic market and food court famous for
-  mortadella sandwiches and fresh produce
-- [São Paulo Museum of Art (MASP)](https://maps.app.goo.gl/9f2m7gtnsexvwPr69) - iconic modern art museum on
-  Avenida Paulista with striking suspended architecture
-- [Instituto Moreira Salles - IMS Paulista](https://maps.app.goo.gl/iuV4zTEFAeaHt8R97) - cultural museum in a fancy
-  glass-fronted building with photography shows, a library, a cafe & view over Avenida Paulista
+- Historic Center - I wasn't that keen on this, after one pass through, I doubt I would return:
+  - [Theatro Municipal de São Paulo](https://maps.app.goo.gl/vafKdi3fTXT27ish8) - surprisingly impressive opera house
+    architecture for Brazil, clearly inspired by European design - the highlight of the center of the city
+  - [Farol Santander](https://maps.app.goo.gl/5mGfidTDUNeL1ZX3A) - big 35-floor skyscraper with cultural exhibits & an
+    observation deck for city views
+  - [São Paulo Cathedral](https://maps.app.goo.gl/PNmJxbzxA5L97Nv89) - grand neo-gothic cathedral
+  - [Municipal Market of São Paulo](https://maps.app.goo.gl/5AtJEgch8DKXM3Sc7) - historic market and food court famous for
+    mortadella sandwiches and fresh produce
+  - [Pinacoteca de São Paulo](https://maps.app.goo.gl/PX4mswH9NED4xrPP6) - Brazilian art museum
+- [Avenida Paulista](https://maps.app.goo.gl/bEwMfYphEzKbvG4f9) - Sao Paulo's major street full of high-rise corporate
+  office buildings and small malls:
+  - [Parque Tenente Siqueira Campos - Trianon](https://maps.app.goo.gl/6e6vxQ1Dyxd3uUbRA) - a small brazilian forest
+    city park in the middle of the city - a refuge if you're not enamored with the big city feel of Avenida Paulista.
+    It is split in two by a bridge over a road running through the middle of it, but it's still surprisingly nice
+  - [São Paulo Museum of Art (MASP)](https://maps.app.goo.gl/9f2m7gtnsexvwPr69) - iconic modern art museum on
+    Avenida Paulista with striking suspended architecture
+  - [Instituto Moreira Salles - IMS Paulista](https://maps.app.goo.gl/iuV4zTEFAeaHt8R97) - cultural museum in a fancy
+    glass-fronted building with photography shows, a library, a cafe & view over Avenida Paulista
 - [Liberdade](https://maps.app.goo.gl/nRiUvPWnUZ96mCPi9) - Japanese influenced district known for Asian cuisine &
   cultural shops
 - [Ibirapuera Park](https://maps.app.goo.gl/eF9kF9bnQVV8nePt8) - large park with museums, lakes and walking trails,
-  just east of the Itaim Bibi upmarket business district
+  just east of the Itaim Bibi upmarket business district.
+  Unfortunately it's surrounded by large busy multi-lane roads that aren't much fun to try to cross,
+  and it's not that well lit in the evenings.
+  I much preferred [Parque Tres de Febrero](https://maps.app.goo.gl/1DBr7VGHYzTnohqG8) in
+  [Buenos Aires](argentina.md#attractions-in-buenos-aires)
 - [Football Museum](https://maps.app.goo.gl/iazith1VyrHUAXet7) - interactive museum dedicated to Brazil’s football
   history inside Pacaembu Stadium
-- [Pinacoteca de São Paulo](https://maps.app.goo.gl/PX4mswH9NED4xrPP6) - Brazilian art museum
-- [Theatro Municipal de São Paulo](https://maps.app.goo.gl/vafKdi3fTXT27ish8) - Ornate early 20th century opera house
-  inspired by European architecture
-- [Farol Santander](https://maps.app.goo.gl/5mGfidTDUNeL1ZX3A) - big 35-floor skyscraper with cultural exhibits & an
-  observation deck for city views
 - [Beco do Batman](https://maps.app.goo.gl/Xo7DJbTvZRNnRviw5) - alleyway of street art graffiti in Vila Madalena
 - [Shopping Pátio Higienópolis](https://maps.app.goo.gl/u67DeekZR2RKkXLeA) - upmarket mall in the Higienópolis area
   mentioned above
