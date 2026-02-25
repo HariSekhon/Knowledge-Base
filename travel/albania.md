@@ -389,8 +389,8 @@ Not Recommended:
 ## Areas Yet to Explore
 
 - [Vlorë](https://maps.app.goo.gl/kbsRSY65pNiKbePy6) - Popular beach town, recommended to me by several people
+- [Sarandë](https://maps.app.goo.gl/3G2CYTnVRbDdoaso7)
   - [Leo's Grill House Sarande](https://maps.app.goo.gl/gEUJixnus4ziPp4z5) - was recommended to me here
 - [Berat](https://maps.app.goo.gl/r2mdiBBJaF9wJhx99)
-- [Sarandë](https://maps.app.goo.gl/3G2CYTnVRbDdoaso7)
 - [Ksamil](https://maps.app.goo.gl/7D5f5ySwP5LEfLhW9) - the Greek island of
   [Corfu](https://maps.app.goo.gl/G6j3nRyHLDn6yY1q7) is just across the water!
