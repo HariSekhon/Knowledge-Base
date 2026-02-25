@@ -42,11 +42,11 @@ Reminder: 2.1 children average per woman is needed just to replenish the current
 and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
 ponzi scheme welfare state & pensions long term.
 
-![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~ALB)
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~ALB)](https://ourworldindata.org/grapher/population?time=1950..2023&country=~ALB)
 
 Albania's population is already in decline:
 
-![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~ALB)
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~ALB)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~ALB)
 
 ## ATMs in Albania
 
