@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Population](#population)
 - [ATMs in Albania](#atms-in-albania)
 - [Taxis in Albania](#taxis-in-albania)
 - [Driving in Albania](#driving-in-albania)
@@ -27,10 +28,23 @@ Many 20 years old, but many modern designs with customizations, AMGs etc.
 
 Some of the roads aren't great though.
 
-Albania has a small population of only 2.4M people - a surprisingly small country, and its birthrates have been below
-replenishment for over 20 years, now a mere 1.3 per woman:
+## Population
+
+[Albania](https://en.wikipedia.org/wiki/Albania) has a small population of less than 2.8 million people and falling -
+a surprisingly small country for its big reputation.
+
+Its birthrates have been below replenishment for over 20 years, now an unsustainably low 1.3 children per woman.
+
+(Reminder:
+2.1 children average per woman is needed just to replace the current adult population,
+and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
+ponzi scheme welfare state & pensions long term)
 
 ![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~ALB)
+
+Albania's population is already in decline:
+
+![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~ALB)
 
 ## ATMs in Albania
 
