@@ -11,11 +11,20 @@
 
 <!-- INDEX_END -->
 
-You will get finger printed entering the country.
+## Summary
+
+US was the first country I saw that took fingerprints to enter the country,
+and generally requires an ESTA - pre-authorization before you travel there.
 
 I've worked up and down that Los Angeles part...
 
 ![How Rest of World Sees USA](images/how_rest_of_world_sees_usa.jpeg)
+
+Like most Western countries, the US has birthrates below replenishment.
+The only thing that allows the US to get away with this is higher quality immigration from Europe,
+which doesn't have the same import quality options.
+
+![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~USA)
 
 ## California
 
