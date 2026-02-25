@@ -3,8 +3,9 @@
 <!-- INDEX_START -->
 
 - [Best Areas in the UK](#best-areas-in-the-uk)
-- [Best Areas in London](#best-areas-in-london)
-- [Best Restaurants in London](#best-restaurants-in-london)
+- [London](#london)
+  - [Best Areas in London](#best-areas-in-london)
+  - [Best Restaurants in London](#best-restaurants-in-london)
 
 <!-- INDEX_END -->
 
@@ -63,7 +64,9 @@ The best remaining parts of the UK (nearly all in the South of England):
 
 Most of the areas apart from Central London are small enough you can cover their key central parts in 1-2 days each.
 
-## Best Areas in London
+## London
+
+### Best Areas in London
 
 Central London you could easily spend over 2 weeks to just see the highlights, eg.
 a day at each of these:
@@ -91,7 +94,7 @@ there are other areas like the City financial district around Bank of England th
 as well as other zone 2-5 areas like Earl's Court, Fulham, Putney, Barnes, Hammersmith, Wimbledon, Twickenham,
 Teddington, Ealing Broadway, South Woodford, Wanstead, Bromley, Beckenham, Chessington theme park etc.
 
-## Best Restaurants in London
+### Best Restaurants in London
 
 London is easily the restaurant capital of the world,
 not even California can boast the variety and quality of London restaurants, nor can any other city on this list.
