@@ -10,6 +10,7 @@
 - [Mostar](#mostar)
   - [Train to Mostar](#train-to-mostar)
   - [Restaurants in Mostar](#restaurants-in-mostar)
+- [Areas Yet to Explore](#areas-yet-to-explore)
 
 <!-- INDEX_END -->
 
@@ -274,3 +275,14 @@ Not Recommended:
   are lively.
   It has no menu as there is only 3 things on offer - Bosnian coffee, herbal tea, and syrup-based lemonade,
   which is of course one of the worst things you can drink
+
+## Areas Yet to Explore
+
+- [Počitelj Fortress](https://maps.app.goo.gl/hWR7TmdkNQJnucVz9)
+- [Kravica Waterfall](https://maps.app.goo.gl/wqXKE9wuch1xBmPZ7)
+- [Koćuša Waterfall](https://maps.app.goo.gl/eN8PcPd5ucoYnhos5)
+- [Bunski kanal](https://maps.app.goo.gl/Yvvixg4339oC4Tnz6)
+- [Vrelo Bune](https://maps.app.goo.gl/UpEUj46X2dwgjcjYA)
+- [Buna](https://maps.app.goo.gl/EXnvXBr4uJ2P8TE6A)
+- [Objekt Buna (Gnojnice)](https://maps.app.goo.gl/gfBwUNdFwSDN2Pku5)
+- [Bjelašnica](https://maps.app.goo.gl/8k51egWQa4Q1mxWN8)
