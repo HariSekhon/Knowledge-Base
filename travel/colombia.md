@@ -2,6 +2,8 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
+- [Population](#population)
 - [Immigration Control & Exit Flight Required](#immigration-control--exit-flight-required)
 - [ATMs in Colombia](#atms-in-colombia)
 - [Bogota](#bogota)
@@ -19,6 +21,37 @@
   - [Restaurants in Medellin](#restaurants-in-medellin)
 
 <!-- INDEX_END -->
+
+## Summary
+
+One of the better countries in South America, but like most latin countries, Bogota is not the place to go.
+
+It also rains a lot there.
+
+It is mid-priced in tourist areas like Bogota and Medellin.
+
+## Population
+
+[Colombia](https://en.wikipedia.org/wiki/Colombia)'s population is predominantly Spanish mixed with indigenous, giving
+Colombiaans a noticeably paler look than other Western populations of South America.
+
+Colombian women are often touted as being quite attractive, but this really varies and is a matter of preference.
+
+Colombia's birthrate has been below replenishment for over 15 years since 2010, now at 1.6 children per woman, but not
+as bad as Europe.
+
+Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
+and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
+ponzi scheme welfare state & pensions long term.
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~COL)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~COL)
+
+Colombia's population has continued to grow despite low birthrates,
+partly due to increased life expectancy, partly the lag effect of previously had higher fertility resulting in the
+current generation of young adults,
+and partly due to immigration from Venezuela:
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~COL)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~COL)
 
 ## Immigration Control & Exit Flight Required
 
