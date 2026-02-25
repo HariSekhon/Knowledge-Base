@@ -30,8 +30,8 @@ Some of the roads aren't great though.
 
 ## Population
 
-[Albania](https://en.wikipedia.org/wiki/Albania) has a small population of less than 2.8 million people and falling -
-a surprisingly small country for its big reputation.
+[Albania](https://en.wikipedia.org/wiki/Albania) has a small population of less than 2.8 million people,
+nearly all ethnically Albanians - a surprisingly small country for its big reputation.
 
 Its birthrates have been below replenishment for over 20 years, now an unsustainably low 1.3 children per woman.
 
