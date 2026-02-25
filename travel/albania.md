@@ -14,9 +14,6 @@
 - [Pogradec](#pogradec)
 - [Shkoder](#shkoder)
 - [Areas Yet to Explore](#areas-yet-to-explore)
-  - [Vlorë](#vlorë)
-  - [Sarandë](#sarandë)
-  - [Ksamil](#ksamil)
 
 <!-- INDEX_END -->
 
@@ -391,10 +388,6 @@ Not Recommended:
 
 ## Areas Yet to Explore
 
-### Vlorë
-
-Popular beach town, recommended to me by several people.
-
-### Sarandë
-
-### Ksamil
+- Vlorë - Popular beach town, recommended to me by several people
+- Sarandë
+- Ksamil
