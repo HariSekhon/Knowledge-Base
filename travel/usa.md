@@ -46,7 +46,9 @@ The only thing that allows the US to get away with this for now is higher qualit
 
 California, the once golden place is not what it used to be after doubling its population from mass immigration.
 
-Weather is great though, restaurants are decent (London's restaurants are better though).
+The weather is great though, a constant Spring-Summer vibe.
+
+The restaurants are decent ([London](uk.md#london) 's restaurants are better in both quality and variety though).
 
 Many of these places are only places to go on company expense as the hotels will set you back quite a lot per night.
 
