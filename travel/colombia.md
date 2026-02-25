@@ -33,9 +33,11 @@ It is mid-priced in tourist areas like Bogota and Medellin.
 ## Population
 
 [Colombia](https://en.wikipedia.org/wiki/Colombia)'s population is predominantly Spanish mixed with indigenous, giving
-Colombiaans a noticeably paler look than other Western populations of South America.
+Colombians a slightly more European look than other Western populations of South America.
 
 Colombian women are often touted as being quite attractive, but this really varies and is a matter of preference.
+They are clearly different to other native indigenous Latin Americans of Central America where I travelled down from,
+or groups further south in [Peru](peru.md) or [Bolivia](bolivia.md).
 
 Colombia's birthrate has been below replenishment for over 15 years since 2010, now at 1.6 children per woman, but not
 as bad as Europe.
