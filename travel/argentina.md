@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+  - [Prices & Restaurants](#prices--restaurants)
 - [Population](#population)
 - [Buenos Aires](#buenos-aires)
   - [Buenos Aires Airport](#buenos-aires-airport)
@@ -19,6 +20,13 @@
 ## Summary
 
 Argentina uses the Argentine Peso (ARS) which is roughly 2,000 ARS per 1 GBP, or 1,400 ARS per 1 USD as of Feb 2026.
+I used [Eskimo e-sim](../travel.md#mobile-e-sims) with 10GB of global data to reuse across countries as I got a good deal and it worked out cheaper
+than buying a new e-sim for each country and potentially leaving behind remaining data each time.
+Note this doesn't always work out so well so compare the price per GB
+as previously it worked out so expensive
+to get global data that it was cheaper for me to buy just enough data per country each time.
+
+### Prices & Restaurants
 
 Argentina can be expensive, with many restaurants being relatively far pricier compared to its salaries.
 One american woman from New York complained to me in that she spent more in an Indian restaurant in Buenos Aires than
@@ -27,12 +35,6 @@ warn him enough that Argentina could be expensive, so consider yourself warned.
 
 Even around the world I have come to expect Argentinian restaurants to be relatively more expensive than others and
 usually avoid them for this reason - they seem to have a culture that is it expected for restaurants to be expensive.
-
-I used [Eskimo e-sim](../travel.md#mobile-e-sims) with 10GB of global data to reuse across countries as I got a good deal and it worked out cheaper
-than buying a new e-sim for each country and potentially leaving behind remaining data each time.
-Note this doesn't always work out so well so compare the price per GB
-as previously it worked out so expensive
-to get global data that it was cheaper for me to buy just enough data per country each time.
 
 Supplements here are outrageously expensive - $100 for 30 days of glucosamine due to import taxes and in some places
 even the shaving cream was as expensive as Central American countries (\$12-\$15), so you'll save money if you bring
