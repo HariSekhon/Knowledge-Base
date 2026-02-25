@@ -18,7 +18,7 @@ easy to drive to from the UK, perhaps 2-3 hours after a ferry from Dover to Cala
 
 Like Germany, it is famous for its beer culture and wide selection of beers.
 
-Due to mass immigration is a mixed bag of a country depending on where you go.
+Due to mass immigration it's a mixed bag of a country depending on where you go.
 
 ## Population
 
