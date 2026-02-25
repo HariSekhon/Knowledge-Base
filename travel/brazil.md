@@ -40,7 +40,7 @@ You would be best served learning at least some basic Portuguese to get by as a 
 like most of Latin America.
 
 Brazil also has birthrates below replenishment and [Idiocracy](https://www.youtube.com/watch?v=sP2tUW0HDHA)
-birthrate imbalance between groups.
+birthrate imbalance between groups, with white women having the lowest birthrates among the major groups.
 
 ![Fertility rate - Brazil](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~BRA)
 
