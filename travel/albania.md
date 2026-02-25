@@ -28,6 +28,9 @@ Many 20 years old, but many modern designs with customizations, AMGs etc.
 
 Some of the roads aren't great though.
 
+I used the Nomad e-sim in Albania, see the [Mobile e-Sims](../travel.md#mobile-e-sims) section on the main parent Travel
+page.
+
 ## Population
 
 [Albania](https://en.wikipedia.org/wiki/Albania) has a small population of less than 2.8 million people,
