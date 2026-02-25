@@ -34,6 +34,9 @@ all your own western supplies.
 
 [Argentina](https://en.wikipedia.org/wiki/Argentina) is the second largest country after Brazil.
 
+I was pleasantly surprised by the attractiveness of Argentinian people
+due to having a large Spanish and Italian ethnic heritage.
+
 Its birthrates have only recently fallen below replenishment in 2019, now an unsustainably low 1.5 children per woman.
 
 Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
