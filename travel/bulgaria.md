@@ -2,6 +2,8 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
+- [Population](#population)
 - [Motorway Tolls - Vignettes in Bulgaria](#motorway-tolls---vignettes-in-bulgaria)
 - [Sofia](#sofia)
 - [Veliko Tarnovo](#veliko-tarnovo)
@@ -9,7 +11,29 @@
 
 <!-- INDEX_END -->
 
+## Summary
+
 Not cheap any more, almost Western prices.
+
+## Population
+
+[Bulgaria](https://en.wikipedia.org/wiki/Bulgaria) is mostly ethnically Bulgarian (75-85%), and major Turkish (8-9%)
+and Roma (4-5%) minorities.
+
+Bulgaria's birthrate has been below replenishment for over 40 years since 1981,
+but did rebound from a low of 1.1 in 1997 to 1.7 children per woman as of 2023,
+so not as bad as most of Europe.
+
+Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
+and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
+ponzi scheme welfare state & pensions long term.
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~BGR)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~BGR)
+
+Bulgaria's population has declined from a peak of 9 million in 1988 to 6.8 million today due to both low birthrates and
+emigration:
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~BGR)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~BGR)
 
 ## Motorway Tolls - Vignettes in Bulgaria
 
