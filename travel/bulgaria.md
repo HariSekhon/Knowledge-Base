@@ -13,7 +13,7 @@
 
 ## Summary
 
-Not cheap any more, almost Western prices.
+Not cheap any more, almost Western prices since it has joined the EU and recently adopted the Euro.
 
 ## Population
 
