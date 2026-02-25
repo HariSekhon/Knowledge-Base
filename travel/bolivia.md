@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Population](#population)
 - [Currency Issue](#currency-issue)
 - [La Paz](#la-paz)
   - [El Alto Airport](#el-alto-airport)
@@ -15,20 +16,35 @@
   - [Taxis in Uyuni](#taxis-in-uyuni)
   - [The Salt Flats Tour](#the-salt-flats-tour)
   - [Restaurants in Uyuni](#restaurants-in-uyuni)
-- [Cochabamba](#cochabamba)
-- [Santa Cruz de la Sierra](#santa-cruz-de-la-sierra)
+- [Areas Yet to Explore](#areas-yet-to-explore)
+  - [Cochabamba](#cochabamba)
+  - [Santa Cruz de la Sierra](#santa-cruz-de-la-sierra)
 
 <!-- INDEX_END -->
 
 ## Summary
 
-Bolivia is a very 3rd world country, I struggle to find a reason to spend time and money visiting it.
+[Bolivia](https://maps.app.goo.gl/kTjFUDHWv9XiGpHTA) is a very 3rd world country,
+I struggle to find a reason to spend time and money visiting it.
 
 The salt flats dessert in Uyuni is probably the only thing you might want to see once in your life for a 1 day trip.
 
 I used Saily e-sim in Bolivia as it was the cheapest I could find at the time,
 but be sure to check all the [Mobile e-Sim providers](../travel.md#mobile-e-sims)
 I list in the travel overview page as prices can change.
+
+## Population
+
+[Bolivia](https://en.wikipedia.org/wiki/Bolivia) has a population of 12 million and climbing, mostly indigenous or
+indigenous mix in my experience and this seems to be confirmed online.
+
+Bolivia's birthrate has declined but is still relatively high compared to better countries, at 2.5 children per woman.
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~BOL)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~BOL)
+
+It's population continues to increase substantially:
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~BOL)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~BOL)
 
 ## Currency Issue
 
@@ -64,7 +80,7 @@ which is saying a lot considering I've travelled to over 50 countries at this po
 
 The restaurant scene cannot hold a candle to neighbouring [Peru](peru.md).
 
-La Paz is also the highest administrative capital in the world at 3500m above sea level,
+La Paz is also at high altitude - the highest altitude administrative capital in the world at 3500m above sea level -
 so you will tire quickly going uphill.
 
 Within 2 hours of walking around the Sopacachi and Centro areas I have no plans to visit La Paz again.
@@ -364,7 +380,9 @@ TODO:
 - [Esther barbecue](https://maps.app.goo.gl/WxD18fybKHhd9Kcj8) - 4.7
 - ["La chapaquita" Churrasquería](https://maps.app.goo.gl/VBvG7WRrp214EKATA) - 4.8
 
-## Cochabamba
+## Areas Yet to Explore
+
+### Cochabamba
 
 Apparently the gastronomic (food) capital of Bolivia.
 
@@ -373,7 +391,7 @@ If I ever return to Bolivia I will want to put this to the test.
 The problem is that the cost of travel more than negates any food travel as you could instead just upgrade to high end
 or michelin star restaurants anywhere you happen to be in the world instead.
 
-## Santa Cruz de la Sierra
+### Santa Cruz de la Sierra
 
 Commercial centre.
 
