@@ -2,6 +2,8 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
+- [Population](#population)
 - [Visa for Cambodia](#visa-for-cambodia)
 - [Money in Cambodia](#money-in-cambodia)
 - [Taxis in Cambodia](#taxis-in-cambodia)
@@ -12,8 +14,23 @@
 
 <!-- INDEX_END -->
 
+## Summary
+
 If you have limited time, just do Siem Reap and skip the capital Phnom Penh, it has far better venues
 and the Angkor Wat temple.
+
+## Population
+
+[Cambodia](https://en.wikipedia.org/wiki/Cambodia)'s population of 18 million is highly homogeneous at over
+95% being ethnic Khmer.
+
+Cambodia's birthrate is still relatively high at 2.6 children per woman (compared to Europe's 1.4).
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~KHM)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~KHM)
+
+Its population is continuing to grow a lot:
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~KHM)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~KHM)
 
 ## Visa for Cambodia
 
