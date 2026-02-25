@@ -388,6 +388,8 @@ Not Recommended:
 
 ## Areas Yet to Explore
 
-- Vlorë - Popular beach town, recommended to me by several people
-- Sarandë
-- Ksamil
+- [Vlorë](https://maps.app.goo.gl/kbsRSY65pNiKbePy6) - Popular beach town, recommended to me by several people
+- [Berat](https://maps.app.goo.gl/r2mdiBBJaF9wJhx99)
+- [Sarandë](https://maps.app.goo.gl/3G2CYTnVRbDdoaso7)
+- [Ksamil](https://maps.app.goo.gl/7D5f5ySwP5LEfLhW9) - the Greek island of
+  [Corfu](https://maps.app.goo.gl/G6j3nRyHLDn6yY1q7) is just across the water!
