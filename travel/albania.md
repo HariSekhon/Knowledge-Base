@@ -7,11 +7,16 @@
 - [Taxis in Albania](#taxis-in-albania)
 - [Driving in Albania](#driving-in-albania)
 - [Tirana](#tirana)
+  - [Restaurants in Tirana](#restaurants-in-tirana)
 - [Lake Bovilla](#lake-bovilla)
 - [Durres](#durres)
 - [Elbasan](#elbasan)
 - [Pogradec](#pogradec)
 - [Shkoder](#shkoder)
+- [Areas Yet to Explore](#areas-yet-to-explore)
+  - [Vlorë](#vlorë)
+  - [Sarandë](#sarandë)
+  - [Ksamil](#ksamil)
 
 <!-- INDEX_END -->
 
@@ -74,6 +79,8 @@ The [Hostel Albania Villa](https://maps.app.goo.gl/W3QgHAJusgWU9fY99) only had a
 I was lucky to get one.
 
 [Trip'n'Hostel](https://maps.app.goo.gl/wPZMw8J1ayfejN2C6) seemed to be more popular among those who didn't need parking.
+
+### Restaurants in Tirana
 
 - [Blloku](https://maps.app.goo.gl/h6vq5NJFVdBU7Cip6) - upmarket district with night life and boutique shopping, lots of
   Mercedes, Range Rovers and Porches there
@@ -381,3 +388,13 @@ Not Recommended:
   The fries were like those dry chokey crinkle cut oven fries you get from the supermarket.
   I wish I had managed to eat at Ricordi Burger above but they closed due to "family issues" at 11pm that day.
   If ever trying OPA again, next time I'd go with the 4x chicken skewers and fries, it doesn't cost much more
+
+## Areas Yet to Explore
+
+### Vlorë
+
+Popular beach town, recommended to me by several people.
+
+### Sarandë
+
+### Ksamil
