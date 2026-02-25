@@ -14,18 +14,33 @@
 
 ## Summary
 
-US was the first country I saw that took fingerprints to enter the country,
+The richest and most powerful country in the world is not exactly what you'd expect.
+
+Rather than think of the US as a rich country, it is more accurate to think of it as 50 small countries of mostly poor
+people with a small percentage of very rich people who own much of the property,
+stock market, businesses and other assets.
+
+It has vast land, much of which is empty, while the coasts are full of people and very expensive to live in.
+
+It also taxes its citizens even if they live abroad - big state democratic tax slavery,
+making it one of the worst passports and citizenships to hold in the world if you want to be free of the government
+and emigrate.
+
+The US was the first country I saw that took fingerprints to enter the country,
 and generally requires an ESTA - pre-authorization before you travel there.
 
-I've worked up and down that Los Angeles part...
+I've worked up and down that Los Angeles part on the left of this meme... colloquially called [California](#california).
 
 ![How Rest of World Sees USA](../images/how_rest_of_world_sees_usa.jpeg)
 
-Like most Western countries, the US has birthrates below replenishment.
-The only thing that allows the US to get away with this is higher quality immigration from Europe,
-which doesn't have the same import quality options.
+Like most Western countries,
+the US has birthrates below replenishment and dysgenic birthrate imbalances,
+known as [Idiocracy](https://www.youtube.com/watch?v=sP2tUW0HDHA).
 
 ![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~USA)
+
+The only thing that allows the US to get away with this for now is higher quality immigration from Europe
+(which itself cannot get the same quality immigration), and manual labour immigration from Latin America.
 
 ## California
 
