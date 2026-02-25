@@ -37,7 +37,7 @@ page.
 [Albania](https://en.wikipedia.org/wiki/Albania) has a small population of less than 2.8 million people,
 nearly all ethnically Albanians - a surprisingly small country for its big reputation.
 
-Its birthrates have been below replenishment for over 20 years, now an unsustainably low 1.3 children per woman.
+Its birthrate has been below replenishment for over 20 years, now an unsustainably low 1.3 children per woman.
 
 Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
 and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
