@@ -163,6 +163,12 @@ Country pages with specific tips for each country:
 - [Ukraine](travel/ukraine.md)
 - [United Kingdom](travel/uk.md)
 
+<!--
+
+- [Portugal](travel/portugal.md)
+
+-->
+
 ### Asia
 
 - [Cambodia](travel/cambodia.md)
