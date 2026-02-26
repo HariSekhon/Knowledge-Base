@@ -210,11 +210,11 @@ surprisingly still do not speak English.
 
 #### Central America
 
+- [Mexico](travel/mexico.md) ⭐
 - [Costa Rica](travel/costarica.md)
 - [El Salvador](travel/elsalvador.md)
 - [Guatemala](travel/guatemala.md)
 - [Honduras](travel/honduras.md) (skipped due to long visa bureaucracy)
-- [Mexico](travel/mexico.md) ⭐
 - [Nicaragua](travel/nicaragua.md) (skipped due to lack of attractions and awkward flights)
 - [Panama](travel/panama.md)
 
