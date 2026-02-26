@@ -23,6 +23,12 @@
 - [Encarnación Downtown & Costanera](https://maps.app.goo.gl/VtAeeCdovihffPk36) – technically another riverside city
   opposite Ascuncion on the Paraná river, with beaches and nightlife in high season
 
+<!--
+
+[Nómada Hostel](https://maps.app.goo.gl/gTjwJ5prBsocF2rq6)
+
+-->
+
 ### Attractions in Ascuncion
 
 - [Paseo La Galería](https://maps.app.goo.gl/rvFLPeDauAqspCCN7) - mall
