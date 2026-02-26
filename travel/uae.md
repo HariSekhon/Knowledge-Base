@@ -41,11 +41,12 @@ Use Waze instead.
 
 The capital of the UAE.
 
-More relaxed, than Dubai.
+More relaxed than Dubai.
 
 ### Restaurants in Abu Dhabi
 
-- Paradiso - I dropped nearly £100 just for my half, but I did get the steak... good quality, the price of drinks adds up
+- [Paradiso](https://maps.app.goo.gl/MbhM8QTVXMywFd3r7) - I dropped nearly £100 just for my half, but I did get the
+  steak... good quality, the price of drinks adds up
 
 ## Dubai
 
