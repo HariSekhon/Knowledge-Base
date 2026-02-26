@@ -19,7 +19,8 @@
   accommodation options
 - [Recoleta](https://maps.app.goo.gl/p5VMKLdJDWqK5DKz5) – quiet, leafy neighbourhood with parks and cultural
   attractions
-- [Sajonia](https://maps.app.goo.gl/vH8TTDZPXt5YPKvR6) – traditional riverside neighbourhood with local charm
+- [Sajonia](https://maps.app.goo.gl/vH8TTDZPXt5YPKvR6) – traditional riverside neighbourhood with local charm in the
+  South West of the city
 - [Encarnación Downtown & Costanera](https://maps.app.goo.gl/VtAeeCdovihffPk36) – technically another riverside city
   opposite Ascuncion on the Paraná river, with beaches and nightlife in high season
 
