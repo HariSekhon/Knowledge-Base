@@ -221,11 +221,11 @@ surprisingly still do not speak English.
 - [Colombia](travel/colombia.md) ⭐
 - [Ecuador](travel/ecuador.md)
 - [Peru](travel/peru.md) ⭐
+- [Paraguay](travel/paraguay.md)
 - [Uruguay](travel/uruguay.md)
 
 <!--
 
-- [Paraguay](travel/paraguay.md) TODO
 - [Venezuela](travel/venezuela.md) TODO
 
 -->
