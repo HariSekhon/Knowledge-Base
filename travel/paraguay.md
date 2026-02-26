@@ -25,7 +25,7 @@
 
 <!--
 
-[Nómada Hostel](https://maps.app.goo.gl/gTjwJ5prBsocF2rq6)
+[Nómada Hostel](https://maps.app.goo.gl/gTjwJ5prBsocF2rq6) - Wifi 357/30 Mbit/s
 
 -->
 
