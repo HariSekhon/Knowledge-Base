@@ -3,7 +3,7 @@
 <!-- INDEX_START -->
 
 - [Driving in UAE](#driving-in-uae)
-  - [Weather in UAE](#weather-in-uae)
+- [Weather in UAE](#weather-in-uae)
 - [Abu Dhabi](#abu-dhabi)
   - [Restaurants in Abu Dhabi](#restaurants-in-abu-dhabi)
 - [Dubai](#dubai)
@@ -37,7 +37,7 @@ large blocks of motorways.
 
 Use Waze instead.
 
-### Weather in UAE
+## Weather in UAE
 
 The weather is so hot even by May some people use sun umbrellas - so hot that it broke my car phone holder.
 Rich people usually leave Dubai and go to Europe for the summer.
