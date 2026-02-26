@@ -211,11 +211,11 @@ surprisingly still do not speak English.
 #### Central America
 
 - [Mexico](travel/mexico.md) ⭐
-- [Guatemala](travel/guatemala.md)
+- [Costa Rica](travel/costarica.md)
 - [El Salvador](travel/elsalvador.md)
+- [Guatemala](travel/guatemala.md)
 - [Honduras](travel/honduras.md) (skipped due to long visa bureaucracy)
 - [Nicaragua](travel/nicaragua.md) (skipped due to lack of attractions and awkward flights)
-- [Costa Rica](travel/costarica.md)
 - [Panama](travel/panama.md)
 
 #### South America
