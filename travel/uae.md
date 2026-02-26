@@ -45,8 +45,18 @@ More relaxed than Dubai.
 
 ### Restaurants in Abu Dhabi
 
-- [Paradiso](https://maps.app.goo.gl/MbhM8QTVXMywFd3r7) - I dropped nearly £100 just for my half, but I did get the
-  steak... good quality, the price of drinks adds up
+- [Yas Marina Abu Dhabi](https://maps.app.goo.gl/ggxDCZhiRkQFqXnQ6) /
+  [Yas Bay Waterfront](https://maps.app.goo.gl/wZ8EQ1d2KAwxszqo8) has various restaurants
+  - [Paradiso](https://maps.app.goo.gl/MbhM8QTVXMywFd3r7) - I dropped nearly £100 just for my half, but I did get the
+    steak... which was good quality.
+    The price of drinks adds up as well
+
+<!-- -->
+
+- [Abu Dhabi Mall](https://maps.app.goo.gl/yrtpXdZwY3HMP1rC9)
+- [Marina Mall](https://maps.app.goo.gl/1KLRsUqyDJgeCJS27)
+- [Al Wahda Mall](https://maps.app.goo.gl/MfXsJ4aW8T6Wz3S37)
+- [Reem Mall](https://maps.app.goo.gl/8zG45uPTad4Nbecv5)
 
 ## Dubai
 
