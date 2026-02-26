@@ -3,13 +3,13 @@
 <!-- INDEX_START -->
 
 - [Driving in UAE](#driving-in-uae)
+  - [Weather in UAE](#weather-in-uae)
 - [Abu Dhabi](#abu-dhabi)
   - [Restaurants in Abu Dhabi](#restaurants-in-abu-dhabi)
 - [Dubai](#dubai)
   - [Metro in Dubai](#metro-in-dubai)
   - [Taxis in Dubai](#taxis-in-dubai)
   - [Parking in Dubai](#parking-in-dubai)
-  - [Weather in Dubai](#weather-in-dubai)
   - [Attractions in Dubai](#attractions-in-dubai)
   - [Restaurants in Dubai](#restaurants-in-dubai)
   - [Visas for Dubai](#visas-for-dubai)
@@ -36,6 +36,12 @@ leading you to taking many wrong turns which can cost you half an hour in journe
 large blocks of motorways.
 
 Use Waze instead.
+
+### Weather in UAE
+
+The weather is so hot even by May some people use sun umbrellas - so hot that it broke my car phone holder.
+Rich people usually leave Dubai and go to Europe for the summer.
+Copying them was how a lot of the European countries on this list were covered!
 
 ## Abu Dhabi
 
@@ -97,12 +103,6 @@ only to the local workers.
 Occasionally it is blocked off for DWTC events, but there is another smaller open air car park around the block
 [here](https://maps.app.goo.gl/jMzPUWreB5ypQ1gw9).
 I avoid using the Al Mustaqbal car park as it is expensive at 10 AED per hour.
-
-### Weather in Dubai
-
-The weather is so hot even by May some people use sun umbrellas - so hot that it broke my car phone holder.
-Rich people usually leave Dubai and go to Europe for the summer.
-Copying them was how a lot of the European countries on this list were covered!
 
 ### Attractions in Dubai
 
