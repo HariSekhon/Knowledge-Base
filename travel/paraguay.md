@@ -6,6 +6,8 @@
   - [Best Areas to Stay in Ascuncion](#best-areas-to-stay-in-ascuncion)
   - [Attractions in Ascuncion](#attractions-in-ascuncion)
   - [Areas Yet to Explore](#areas-yet-to-explore)
+  - [ATMS in Ascuncion](#atms-in-ascuncion)
+  - [Restaurants in Ascuncion](#restaurants-in-ascuncion)
 
 <!-- INDEX_END -->
 
@@ -39,3 +41,22 @@
 - [San Bernardino](https://maps.app.goo.gl/qgwrANi9LFmkArbs7) – popular lakeside resort town for day trips and
   relaxation
 - [Ciudad del Este](https://maps.app.goo.gl/m9tJGR1z4VX8p91b7) - border city with shopping and budget stays
+
+### ATMS in Ascuncion
+
+If you can get by without withdrawing cash that may be best.
+
+- [Continental Bank ATM](https://maps.app.goo.gl/TmbfWhECMLDxxrMU8) - this ATM charged me 37,500 PYG (nearly \$6!)
+  without permission which I would have declined had it asked.
+  You are advised to try a different ATM
+
+### Restaurants in Ascuncion
+
+- [Bolsi](https://maps.app.goo.gl/fdCpmfyfdhPV4R7c8) - popular local restaurant with a wide menu range. The bife de chorizo steak (strip steak, not chorizo)
+  was an inch thick and juicy medium rare,
+  with smashed rustic pototo and shoestring onion rings - this was excellent for 115,000 PYG ($18).
+  The hot volcano chocolate cake with vanilla ice cream was also very good.
+  Their fresh natural juices are only \$2.50.
+  There is both indoor and outdoor seating, but there was a queue 5 tables deep for the outdoor seating.
+  The indoor seating is an American style diner ring table around the restaurant, with sports on the TV screens.
+  Wifi 0.6/1 Mbit/s
