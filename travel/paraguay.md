@@ -5,9 +5,9 @@
 - [Ascuncion](#ascuncion)
   - [Best Areas to Stay in Ascuncion](#best-areas-to-stay-in-ascuncion)
   - [Attractions in Ascuncion](#attractions-in-ascuncion)
-  - [Areas Yet to Explore](#areas-yet-to-explore)
   - [ATMS in Ascuncion](#atms-in-ascuncion)
   - [Restaurants in Ascuncion](#restaurants-in-ascuncion)
+  - [Areas Yet to Explore](#areas-yet-to-explore)
 
 <!-- INDEX_END -->
 
@@ -36,12 +36,6 @@
 
 - [Paseo La Galería](https://maps.app.goo.gl/rvFLPeDauAqspCCN7) - mall
 
-### Areas Yet to Explore
-
-- [San Bernardino](https://maps.app.goo.gl/qgwrANi9LFmkArbs7) – popular lakeside resort town for day trips and
-  relaxation
-- [Ciudad del Este](https://maps.app.goo.gl/m9tJGR1z4VX8p91b7) - border city with shopping and budget stays
-
 ### ATMS in Ascuncion
 
 If you can get by without withdrawing cash that may be best.
@@ -60,3 +54,9 @@ If you can get by without withdrawing cash that may be best.
   There is both indoor and outdoor seating, but there was a queue 5 tables deep for the outdoor seating.
   The indoor seating is an American style diner ring table around the restaurant, with sports on the TV screens.
   Wifi 0.6/1 Mbit/s
+
+### Areas Yet to Explore
+
+- [San Bernardino](https://maps.app.goo.gl/qgwrANi9LFmkArbs7) – popular lakeside resort town for day trips and
+  relaxation
+- [Ciudad del Este](https://maps.app.goo.gl/m9tJGR1z4VX8p91b7) - border city with shopping and budget stays
