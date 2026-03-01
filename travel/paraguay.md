@@ -7,7 +7,7 @@
 - [Asuncion](#asuncion)
   - [Best Areas to Stay in Ascuncion](#best-areas-to-stay-in-ascuncion)
   - [Attractions in Asuncion](#attractions-in-asuncion)
-  - [ATMS in Ascuncion](#atms-in-ascuncion)
+  - [ATMS in Asuncion](#atms-in-asuncion)
   - [Restaurants in Asuncion](#restaurants-in-asuncion)
   - [Areas Yet to Explore](#areas-yet-to-explore)
 
@@ -55,7 +55,7 @@ democracies, although it's birthrate is declining so expected to go below replen
 
 - [Paseo La Galería](https://maps.app.goo.gl/rvFLPeDauAqspCCN7) - mall
 
-### ATMS in Ascuncion
+### ATMS in Asuncion
 
 If you can get by without withdrawing cash that may be best.
 
