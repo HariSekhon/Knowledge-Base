@@ -5,7 +5,7 @@
 - [Summary](#summary)
 - [Population](#population)
 - [Asuncion](#asuncion)
-  - [Best Areas to Stay in Ascuncion](#best-areas-to-stay-in-ascuncion)
+  - [Best Areas to Stay in Asuncion](#best-areas-to-stay-in-asuncion)
   - [Attractions in Asuncion](#attractions-in-asuncion)
   - [ATMS in Asuncion](#atms-in-asuncion)
   - [Restaurants in Asuncion](#restaurants-in-asuncion)
@@ -31,7 +31,9 @@ democracies, although it's birthrate is declining so expected to go below replen
 
 ## Asuncion
 
-### Best Areas to Stay in Ascuncion
+The capital.
+
+### Best Areas to Stay in Asuncion
 
 - upmarket areas adjacent to each other:
   - [Las Lomas / Carmelitas](https://maps.app.goo.gl/ZLHpqQuuWFTwschA9) – residential & shopping area
