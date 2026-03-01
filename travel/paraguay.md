@@ -2,6 +2,8 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
+- [Population](#population)
 - [Ascuncion](#ascuncion)
   - [Best Areas to Stay in Ascuncion](#best-areas-to-stay-in-ascuncion)
   - [Attractions in Ascuncion](#attractions-in-ascuncion)
@@ -11,16 +13,33 @@
 
 <!-- INDEX_END -->
 
+## Summary
+
+[Paraguay](https://maps.app.goo.gl/AXC3CMD7mjavrRYf9) is a landlocked country in between Argentina and Brazil.
+
+## Population
+
+[Paraguay](https://en.wikipedia.org/wiki/Paraguay) has nearly 7 million people - mostly mestizo - a mix of indigenous
+Guaraní Native American and Spanish.
+
+Its birthrate is still above the replenishment figure of 2.1 children per woman unlike the declining Western
+democracies, although it's birthrate is declining so expected to go below replenishment within a few years.
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~PRY)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~PRY)
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~PRY)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~PRY)
+
 ## Ascuncion
 
 ### Best Areas to Stay in Ascuncion
 
-- [Las Lomas / Carmelitas](https://maps.app.goo.gl/ZLHpqQuuWFTwschA9) – modern upmarket area residential & shopping area
-- [Villa Morra](https://maps.app.goo.gl/XF7HF4ZnDai9ztHc7) – upmarket district with restaurants, hotels and nightlife
-- [Historic Center](https://maps.app.goo.gl/o8mrj2nzabhGDTri8) – historic downtown with cultural sites and budget
-  accommodation options
-- [Recoleta](https://maps.app.goo.gl/p5VMKLdJDWqK5DKz5) – quiet, leafy neighbourhood with parks and cultural
-  attractions
+- upmarket areas adjacent to each other:
+  - [Las Lomas / Carmelitas](https://maps.app.goo.gl/ZLHpqQuuWFTwschA9) – residential & shopping area
+  - [Villa Morra](https://maps.app.goo.gl/XF7HF4ZnDai9ztHc7) – restaurants, hotels and nightlife
+  - [Recoleta](https://maps.app.goo.gl/p5VMKLdJDWqK5DKz5) – nice quieter suburb just south of the above two
+    neighbourhoods
+- [Historic Center](https://maps.app.goo.gl/o8mrj2nzabhGDTri8) – historic centre with administrative buildings, cheaper
+  but not the nice end of town
 - [Sajonia](https://maps.app.goo.gl/vH8TTDZPXt5YPKvR6) – traditional riverside neighbourhood with local charm in the
   South West of the city
 - [Encarnación Downtown & Costanera](https://maps.app.goo.gl/VtAeeCdovihffPk36) – technically another riverside city
