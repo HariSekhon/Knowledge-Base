@@ -4,11 +4,11 @@
 
 - [Summary](#summary)
 - [Population](#population)
-- [Ascuncion](#ascuncion)
+- [Asuncion](#asuncion)
   - [Best Areas to Stay in Ascuncion](#best-areas-to-stay-in-ascuncion)
-  - [Attractions in Ascuncion](#attractions-in-ascuncion)
+  - [Attractions in Asuncion](#attractions-in-asuncion)
   - [ATMS in Ascuncion](#atms-in-ascuncion)
-  - [Restaurants in Ascuncion](#restaurants-in-ascuncion)
+  - [Restaurants in Asuncion](#restaurants-in-asuncion)
   - [Areas Yet to Explore](#areas-yet-to-explore)
 
 <!-- INDEX_END -->
@@ -29,7 +29,7 @@ democracies, although it's birthrate is declining so expected to go below replen
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~PRY)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~PRY)
 
-## Ascuncion
+## Asuncion
 
 ### Best Areas to Stay in Ascuncion
 
@@ -51,7 +51,7 @@ democracies, although it's birthrate is declining so expected to go below replen
 
 -->
 
-### Attractions in Ascuncion
+### Attractions in Asuncion
 
 - [Paseo La Galería](https://maps.app.goo.gl/rvFLPeDauAqspCCN7) - mall
 
@@ -63,7 +63,7 @@ If you can get by without withdrawing cash that may be best.
   without permission which I would have declined had it asked.
   You are advised to try a different ATM
 
-### Restaurants in Ascuncion
+### Restaurants in Asuncion
 
 - [Bolsi](https://maps.app.goo.gl/fdCpmfyfdhPV4R7c8) - popular local restaurant with a wide menu range. The bife de chorizo steak (strip steak, not chorizo)
   was an inch thick and juicy medium rare,
