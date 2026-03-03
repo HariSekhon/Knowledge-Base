@@ -1,4 +1,4 @@
-# Travel
+# Travel Tips
 
 [![Nomads Profile](https://img.shields.io/badge/Nomads%20Profile-HariSekhon-blue?logo=nomad&logoColor=white)](https://nomads.com/@harisekhon)
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/stargazers)
@@ -37,6 +37,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Asia](#asia)
   - [Africa & Middle East](#africa--middle-east)
   - [North America](#north-america)
+  - [Caribbean](#caribbean)
   - [Central & South America](#central--south-america)
     - [Central America](#central-america)
     - [South America](#south-america)
@@ -76,6 +77,7 @@ Updated regularly as I travel the world 52 weeks a year.
 - [Translation](#translation)
 - [Seasons - Timing Matters](#seasons---timing-matters)
 - [Mosquito Repellent](#mosquito-repellent)
+- [Clothing](#clothing)
 - [Health Insurance](#health-insurance)
 - [Beware Foreign Police & Customs](#beware-foreign-police--customs)
   - [Carry Your Official Documents Everywhere For When You _Are_ Stopped](#carry-your-official-documents-everywhere-for-when-you-_are_-stopped)
@@ -802,7 +804,7 @@ as well as by September.
 
 ## Mosquito Repellent
 
-Buy a good mosquito repellent if you're travelling anywhere near the Mediterranean, Asia or Africa -
+Buy a good mosquito repellent if you're travelling anywhere near the Mediterranean, Asia, Africa or Latin America -
 I even got eaten in Belgium in summer time!
 
 I find that cream works better than spray.
@@ -813,6 +815,33 @@ lumps all over you.
 And you can't feel them land to catch them and can never seem to kill enough of them.
 
 You *need* mosquito repellent. Don't miss it.
+
+## Clothing
+
+Look up the weather
+and pack clothes appropriate for that country and time of year as weight matters
+and I had clothes in my suitcase I never wore.
+
+In hot countries I find tank tops and shorts are the coolest clothing to wear,
+but this also leaves you vulnerable to mosquitos.
+
+South East Asia got me into tank tops and they now populate most of my suitcase - you can buy them everywhere there
+for between \$2-\$8 -
+yes I actually paid \$2 for a Siem Reap branded tank top in the market in Cambodia in early 2025!
+
+My favourite tank tops are the ones in Thailand which have small air gaps - they are the coolest material I've ever
+worn and I have been wearing them around the world ever since.
+
+I never want to shop at any of the malls around the world after buying clothes in South East Asia's markets.
+
+I am also thinking about trying those long white gowns
+they wear in the gulf countries as look effective against both the sun, heat and mosquitos,
+but they must be difficult to keep clean?
+
+Keep 1 pair of jeans and a thin well insulated jacket as a backup for cold airplanes,
+heavily air conditioned venues, being caught out (such as not realizing the Andes countries of South
+America have cold parts due to altitude like near Macchu Pichu, Cusco etc) or freak weather such as the thunderstorms
+of Brazil in Rio and Sao Paulo.
 
 ## Health Insurance
 
