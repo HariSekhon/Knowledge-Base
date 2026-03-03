@@ -91,7 +91,9 @@ To put this into perspective, a taxi to/from the airport in Bogota was only arou
 
 ## Bogota
 
-The capital.
+The capital - apparently it rains here 300 days a year.
+
+Brits looking for better weather need not come here!
 
 ### Best Areas to Stay in Bogota
 
@@ -102,7 +104,9 @@ The best areas to stay in Bogota are the touristy areas:
 
 ### Bogota EL Dorado Airport
 
-Bogota Airport seems smaller than Medellin airport.
+Bogota Airport seems smaller than Medellin airport
+but it is a major travel hub
+and I've had to get connecting flights through it a couple times in addition to visiting Bogota itself.
 
 It was raining and there was a gap between the plane stairs and the building canopy,
 my luggage also came on the conveyor belt soaked.
@@ -116,6 +120,16 @@ There are a good selection of cafes and shops before security and a good selecti
 There were water coolers apparently but I forgot to refill as I had to run for the plane
 (the flight to Quito, Ecuador, wasn't busy and the gate was marked as closed and I was the last one when I got there
 3 minutes late, I nearly got left behind).
+3rd time through here on the way up to the caribbean I made sure to refill this time!
+
+There is a section of restaurants at the far end of terminal A, including Guy's Burger Joint -
+which is surprisingly expensive - a place that does pizzas (ok and reasonable price),
+a place that does steaks (slightly expensive) and a cafe as well as a more fast food food court upstairs near the
+entrance to terminal B.
+
+None of the food places I've tried on my few visits through here were great in terms of food or value for money,
+but hey, we know this about airports,
+although some of the others like London Heathrow have had better quality places at least.
 
 ### Travel Between Bogota El Dorado Airport and Bogota
 
