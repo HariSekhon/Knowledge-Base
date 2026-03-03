@@ -7,6 +7,7 @@
   - [Warsaw](#warsaw)
     - [Metro in Warsaw](#metro-in-warsaw)
     - [Parking in Warsaw](#parking-in-warsaw)
+    - [Attractions in Warsaw](#attractions-in-warsaw)
     - [Restaurants in Warsaw](#restaurants-in-warsaw)
   - [Augustów](#augustów)
 - [North Poland - The Tricity - Gdansk, Gdynia & Sopot](#north-poland---the-tricity---gdansk-gdynia--sopot)
@@ -82,7 +83,7 @@ Parking is free in the centre from 8pm, which is convenient for dinner.
 - Vistula - riverside boulevards busy in summer
   - Copernicus Science Centre - an _"experimentarium"_ and a planetarium
 - Chopin Trail of the famous composer, Chopin Museum, Royal Lazienki Park where Chopin Concerts are held nex to Chopin's
-monument
+  monument
 - Maria Sklodowska-Curie path for the famous scientist
 - The Papal Trail of John Paul II
 - Palace of Culture and Science
