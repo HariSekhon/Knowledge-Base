@@ -10,13 +10,15 @@
 - [Augustów](#augustów)
 - [Bydgoszcz](#bydgoszcz)
 - [Częstochowa](#częstochowa)
-- [Gdansk](#gdansk)
+- [The Northen Tricity - Gdansk, Gdynia & Sopot](#the-northen-tricity---gdansk-gdynia--sopot)
+  - [Gdansk](#gdansk)
+  - [Gdynia](#gdynia)
+  - [Sopot](#sopot)
 - [Katowice](#katowice)
 - [Krakow](#krakow)
 - [Łódź](#łódź)
 - [Nowy Sącz](#nowy-sącz)
 - [Poznan](#poznan)
-- [Sopot](#sopot)
 - [Wroclaw](#wroclaw)
   - [Parking in Wroclaw](#parking-in-wroclaw)
   - [Restaurants in Wroclaw](#restaurants-in-wroclaw)
@@ -110,7 +112,9 @@ An excellent stopover choice when driving across Poland.
 
 Not much there, dead if you're trying to use it for a late night stopover.
 
-## Gdansk
+## The Northen Tricity - Gdansk, Gdynia & Sopot
+
+### Gdansk
 
 A large port city in the north of Poland.
 
@@ -130,6 +134,16 @@ Gdansk has ferry connections to Sweden.
 There was zero border control coming off the ferry from Sweden to Gdansk, which surprised me.
 
 - [Slaska 19](https://www.tripadvisor.com/Restaurant_Review-g274725-d13810673-Reviews-Slaska_19-Gdansk_Pomerania_Province_Northern_Poland.html) - good restaurant away from the centre with an affordable weekday lunch menu and good wifi
+
+### Gdynia
+
+Neighbouring port city, not as much to do or sea here and not much as Gdansk - visit for a day.
+
+### Sopot
+
+The most expensive area in Poland, also reflected in the cars there. Parking is a nightmare.
+
+Good beaches, restaurants, and walkways - great summer holiday town full of naughty treats.
 
 ## Katowice
 
@@ -184,12 +198,6 @@ Historic town with lovely centre and plenty of good restaurants.
 My first stopover in Poland when driving from Germany. I was pleasantly surprised how nice it was.
 
 An excellent stopover choice when driving across Poland.
-
-## Sopot
-
-The most expensive area in Poland, near Gdansk.
-
-Good beaches, restaurants, and walkways.
 
 ## Wroclaw
 
