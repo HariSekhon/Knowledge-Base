@@ -332,6 +332,15 @@ Medium sized city, mall and restaurants, but it lacks the historical attractions
   Copernicus was born here.
   Planetarium
 - Tarnow
-- Zielona Gora - poland's wine capital, Museum of Wine
+- Zielona Gora - poland's wine capital, worth visiting in September during the annual Wine Festival which runs for
+  several days attracting large crowds, concerts, wine contest, theatrical gatherings and a colourful fair.
+  Museum of Wine.
+  Winnie Wzgorze (Wine Hill), a reconstructed vineyard with Wine Park,
+  many paths, sculptures and benches, and panoramic views of the city.
+  Winemaker's Cottage, 19th century, owned by August Grempler.
+  Palm House, 200+ species of plants, most of tropical origin, turtle pool,
+  tropical fish tank, waterfall and fountain in shape of globe,
+  illuminated in the evenings.
+  On the wine trail, the Winiarka status of a girl carrying wine barrels in the square near Sobieskiego Street
 - Bialystok
 - Elk
