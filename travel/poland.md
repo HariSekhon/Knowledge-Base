@@ -74,6 +74,24 @@ The metro is both good and cheap and recommended by locals.
 
 Parking is free in the centre from 8pm, which is convenient for dinner.
 
+#### Attractions in Warsaw
+
+- Royal Castle & Castle Square - 17th century
+- Old Town dating back to 13th - 14th centuries
+  - Krakowskie Przedmiescie Street
+- Vistula - riverside boulevards busy in summer
+  - Copernicus Science Centre - an _"experimentarium"_ and a planetarium
+- Chopin Trail of the famous composer, Chopin Museum, Royal Lazienki Park where Chopin Concerts are held nex to Chopin's
+monument
+- Maria Sklodowska-Curie path for the famous scientist
+- The Papal Trail of John Paul II
+- Palace of Culture and Science
+- defensive walls dating back to 13-16th centuries and rebuilt after WWII
+  - The Barbican - perfectly preserved fortification now houses a permanent exhibition of the Museum of Warsaw
+- rooftop garden of Warsaw University Library in Powisle district
+- Kampinos National Park - contains moose, wolves, beavers, badgers and lynxes. Can be explored on foot, by bike or on
+  horseback
+
 #### Restaurants in Warsaw
 
 <!--
