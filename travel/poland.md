@@ -22,7 +22,7 @@
 
 <!-- INDEX_END -->
 
-One of my favourite countries.
+One of my favourite countries in the world.
 
 I was very surprised how nice Poland was upon arriving, not just in one or two places either, but across the country's
 major towns and cities.
@@ -33,8 +33,8 @@ major towns and cities.
 - Airbnbs are expensive though
 - Poland is not a cheap country any more
 - Large country that takes 6-8 hours to drive across
-- Parking is often cheap or free after 8pm, which is great for going out to get dinner in the centres.
-- Good cheap Metro
+- Parking is often cheap or free after 8pm in central Warsaw, which is great for going out to get dinner in the centres
+- Good cheap Metro in Warsaw
 
 ## Augustów
 
