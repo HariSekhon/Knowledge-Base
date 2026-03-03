@@ -312,16 +312,26 @@ Medium sized city, mall and restaurants, but it lacks the historical attractions
 
 ## Areas Yet to Explore
 
-- Szczecin
+- Szczecin - _"Jewel of the Odor"_, dates back over 750 years, with a medievil Castle of the Pomeranian Dukes with
+  extraordinary halls.
+  Its boulevards smell of chocolate.
+  Waly Chrobrego (Chobry Embankment) with its fountain.
+  Rose Garden.
+  Surround by 3 forests.
+  Wolin National Park has european bison and cliff coastline.
+  Hortulus Spectablis Gardens in Dobrzyca
 - Lublin
-- Gorzow Wielkopolski
+- Gorzow Wielkopolski - over 700 years old, Old Market Square, Rose Park, nearby various nature
 - Opole
 - Rzeszow
 - Zamosc
 - Kielce
 - Olsztyn
-- Torun - gothic
+- Torun - gothic, UNESCO site founded by Teutonic Knights in 1233 with Teutonic Castle with a large historic old town.
+  The Living Museum of Gingerbread is interactive and you can make your own.
+  Copernicus was born here.
+  Planetarium
 - Tarnow
-- Zielona Gora - poland's wine capital
+- Zielona Gora - poland's wine capital, Museum of Wine
 - Bialystok
 - Elk
