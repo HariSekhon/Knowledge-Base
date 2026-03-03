@@ -351,18 +351,23 @@ Medium sized city, mall and restaurants, but it lacks the historical attractions
   Surround by 3 forests.
   Wolin National Park has european bison and cliff coastline.
   Hortulus Spectablis Gardens in Dobrzyca
-- Lublin
 - Gorzow Wielkopolski - over 700 years old, Old Market Square, Rose Park, nearby various nature
+- Torun - gothic, UNESCO site founded by Teutonic Knights in 1233 with Teutonic Castle with a large historic old town.
+  The Living Museum of Gingerbread is interactive and you can make your own.
+  Copernicus was born here.
+  Planetarium
+- Tarnow - Old Town is called a jewel in the Polish Renaissance, the Market Square dates back to
+  1330 with Tenement houses from different periods - 16th to 19th centuries - surround the main square.
+  Cathedral Basilica is famous for its architecture and also contains gothic-renaissance tombstones of the
+  Tarnowski family and the Baroque gravestone of the Ostrogski family which are considered some of the most outstanding
+  works of art in Poland.
+  The Tarnowski tomestone is 13.8 metres high and 5 metres wide making it the biggest sculture of its kind in Europe
+- Lublin
 - Opole
 - Rzeszow
 - Zamosc
 - Kielce
 - Olsztyn
-- Torun - gothic, UNESCO site founded by Teutonic Knights in 1233 with Teutonic Castle with a large historic old town.
-  The Living Museum of Gingerbread is interactive and you can make your own.
-  Copernicus was born here.
-  Planetarium
-- Tarnow
 - Zielona Gora - poland's wine capital, worth visiting in September during the annual Wine Festival which runs for
   several days attracting large crowds, concerts, wine contest, theatrical gatherings and a colourful fair.
   Museum of Wine.
