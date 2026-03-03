@@ -2,6 +2,11 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
+- [Warsaw](#warsaw)
+  - [Metro in Warsaw](#metro-in-warsaw)
+  - [Parking in Warsaw](#parking-in-warsaw)
+  - [Restaurants in Warsaw](#restaurants-in-warsaw)
 - [Augustów](#augustów)
 - [Bydgoszcz](#bydgoszcz)
 - [Częstochowa](#częstochowa)
@@ -12,15 +17,13 @@
 - [Nowy Sącz](#nowy-sącz)
 - [Poznan](#poznan)
 - [Sopot](#sopot)
-- [Warsaw](#warsaw)
-  - [Metro in Warsaw](#metro-in-warsaw)
-  - [Parking in Warsaw](#parking-in-warsaw)
-  - [Restaurants in Warsaw](#restaurants-in-warsaw)
 - [Wroclaw](#wroclaw)
   - [Parking in Wroclaw](#parking-in-wroclaw)
   - [Restaurants in Wroclaw](#restaurants-in-wroclaw)
 
 <!-- INDEX_END -->
+
+## Summary
 
 One of my favourite countries in the world.
 
@@ -35,6 +38,57 @@ major towns and cities.
 - Large country that takes 6-8 hours to drive across
 - Parking is often cheap or free after 8pm in central Warsaw, which is great for going out to get dinner in the centres
 - Good cheap Metro in Warsaw
+
+## Warsaw
+
+Decent low pressure capital, but expensive already in terms of Airbnbs,
+and in the centre people will be trying to
+[entice you into strip clubs](https://medium.com/@harisekhon/salemanship-101-strip-clubs-1e2f4ed90296).
+
+One of my colleagues moved back to Warsaw as a contractor.
+
+Warsaw airport is deserted after 11pm as there were no night flights, it is better than many other airports but it is
+not London Heathrow. This is also a big problem if you miss you transfer flight, as I did on the way to Tbilisi!
+
+### Metro in Warsaw
+
+The metro is both good and cheap and recommended by locals.
+
+### Parking in Warsaw
+
+Parking is free in the centre from 8pm, which is convenient for dinner.
+
+### Restaurants in Warsaw
+
+<!--
+
+- [The Club №1 Strip and Bar](https://maps.app.goo.gl/YsN3ywgauWmqdJBn8) - expensive entry €20 but the best strip club
+  in Warsaw
+
+-->
+
+- [ČESKÁ beer restaurant](https://maps.app.goo.gl/h8kMmcnCpri5R1bv6) - czech restaurant, chain of two, the other being
+  my favourite in Wroclaw. Get the classic traditional cesnecka garlic soup, and goulash.
+  Good sized 350ml fresh orange juice for 19 pln (€4.50).
+  Wifi 55/25 Mbit/s
+- [Restauracja Słoik](https://maps.app.goo.gl/Q1nHHoGrPK4Tertx6) - good menu of pierogi dumplings, burgers, steak and
+  other mains, as well as fresh juices, and desserts.
+- The duck pierogi were 7 large boiled dumplings, but the duck filling was quite fluffy instead of meaty.
+  Next time I'd try a different pierogi or just a straight burger or steak.
+  The warm apple pie with vanilla ice cream was much better.
+  The pie came large and warm (it took a while),
+  although the ice cream scoop was a bit small, but overall a very good dessert.
+  The pressed apple-beetroot juice hit the spot.
+  Wifi but couldn't get a speed reading, it also doesn't allow ping out, but worked well enough on Google Maps
+- [Hato Sushi](https://maps.app.goo.gl/64ebeUXGC8A9iJ9MA) - catch the lunch menu if you can
+- [Warszawa Wschodnia](https://maps.app.goo.gl/F1f7ATy6Re3eYE4V9) - french and polish, pricey but good quality
+- [Złote Tarasy](https://maps.app.goo.gl/MKRDUTHwfyUFXaPT9) - central shopping mall
+
+TODO:
+
+- [Soul Kitchen](https://maps.app.goo.gl/Hv9o99jWHwBPRHhVA) - highly rated upmarket restaurant, but couldn't get in
+  here without a reservation
+- [Bułkę przez Bibułkę](https://maps.app.goo.gl/StZzWDg2bZofJ2fG7) - breakfast restaurant
 
 ## Augustów
 
@@ -136,57 +190,6 @@ An excellent stopover choice when driving across Poland.
 The most expensive area in Poland, near Gdansk.
 
 Good beaches, restaurants, and walkways.
-
-## Warsaw
-
-Decent low pressure capital, but expensive already in terms of Airbnbs,
-and in the centre people will be trying to
-[entice you into strip clubs](https://medium.com/@harisekhon/salemanship-101-strip-clubs-1e2f4ed90296).
-
-One of my colleagues moved back to Warsaw as a contractor.
-
-Warsaw airport is deserted after 11pm as there were no night flights, it is better than many other airports but it is
-not London Heathrow. This is also a big problem if you miss you transfer flight, as I did on the way to Tbilisi!
-
-### Metro in Warsaw
-
-The metro is both good and cheap and recommended by locals.
-
-### Parking in Warsaw
-
-Parking is free in the centre from 8pm, which is convenient for dinner.
-
-### Restaurants in Warsaw
-
-<!--
-
-- [The Club №1 Strip and Bar](https://maps.app.goo.gl/YsN3ywgauWmqdJBn8) - expensive entry €20 but the best strip club
-  in Warsaw
-
--->
-
-- [ČESKÁ beer restaurant](https://maps.app.goo.gl/h8kMmcnCpri5R1bv6) - czech restaurant, chain of two, the other being
-  my favourite in Wroclaw. Get the classic traditional cesnecka garlic soup, and goulash.
-  Good sized 350ml fresh orange juice for 19 pln (€4.50).
-  Wifi 55/25 Mbit/s
-- [Restauracja Słoik](https://maps.app.goo.gl/Q1nHHoGrPK4Tertx6) - good menu of pierogi dumplings, burgers, steak and
-  other mains, as well as fresh juices, and desserts.
-- The duck pierogi were 7 large boiled dumplings, but the duck filling was quite fluffy instead of meaty.
-  Next time I'd try a different pierogi or just a straight burger or steak.
-  The warm apple pie with vanilla ice cream was much better.
-  The pie came large and warm (it took a while),
-  although the ice cream scoop was a bit small, but overall a very good dessert.
-  The pressed apple-beetroot juice hit the spot.
-  Wifi but couldn't get a speed reading, it also doesn't allow ping out, but worked well enough on Google Maps
-- [Hato Sushi](https://maps.app.goo.gl/64ebeUXGC8A9iJ9MA) - catch the lunch menu if you can
-- [Warszawa Wschodnia](https://maps.app.goo.gl/F1f7ATy6Re3eYE4V9) - french and polish, pricey but good quality
-- [Złote Tarasy](https://maps.app.goo.gl/MKRDUTHwfyUFXaPT9) - central shopping mall
-
-TODO:
-
-- [Soul Kitchen](https://maps.app.goo.gl/Hv9o99jWHwBPRHhVA) - highly rated upmarket restaurant, but couldn't get in
-  here without a reservation
-- [Bułkę przez Bibułkę](https://maps.app.goo.gl/StZzWDg2bZofJ2fG7) - breakfast restaurant
 
 ## Wroclaw
 
