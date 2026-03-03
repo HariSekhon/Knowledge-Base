@@ -5,6 +5,7 @@
 - [Summary](#summary)
 - [Population](#population)
 - [Asuncion](#asuncion)
+  - [Asuncion Airport - Silvio Pettirossi International](#asuncion-airport---silvio-pettirossi-international)
   - [Best Areas to Stay in Asuncion](#best-areas-to-stay-in-asuncion)
   - [Attractions in Asuncion](#attractions-in-asuncion)
   - [ATMS in Asuncion](#atms-in-asuncion)
@@ -32,6 +33,17 @@ democracies, although it's birthrate is declining so expected to go below replen
 ## Asuncion
 
 The capital.
+
+### Asuncion Airport - Silvio Pettirossi International
+
+There is surprisingly little in this airport,
+after security you have the usual duty free shop and 2 cafes - both chains - a Juan Valdez and Havanna.
+
+There is a small section of craft boutiques around the corner from the duty free, half of which were closed at 7am when
+I was departing.
+
+The Wifi is open without captcha portal as of March 2026
+but it's so slow that a google test page barely loads and speed test doesn't work at all.
 
 ### Best Areas to Stay in Asuncion
 
