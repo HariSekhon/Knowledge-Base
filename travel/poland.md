@@ -11,7 +11,10 @@
   - [Augustów](#augustów)
 - [North Poland - The Tricity - Gdansk, Gdynia & Sopot](#north-poland---the-tricity---gdansk-gdynia--sopot)
   - [Gdansk](#gdansk)
+    - [Attractions in Gdansk](#attractions-in-gdansk)
+    - [Restaurants in Gdansk](#restaurants-in-gdansk)
   - [Gdynia](#gdynia)
+    - [Attractions in Gdynia](#attractions-in-gdynia)
   - [Sopot](#sopot)
 - [South Poland](#south-poland)
   - [Krakow](#krakow)
@@ -130,18 +133,46 @@ He compared Uber like taxis apps when we went out.
 Gdansk has ferry connections to Sweden.
 There was zero border control coming off the ferry from Sweden to Gdansk, which surprised me.
 
+#### Attractions in Gdansk
+
+- Royal Way - between Upper Gate and Green Gate
+  - the Court of St. George's Brotherhood
+  - the Artus Court - fascade in style of Dutch Mannerism
+  - Neptune's Fountain - the symbol of Gdansk having been a maritime city
+- Amber Museum - shows how amber forms, what properties it has and has unique plant and animals in amber
+- Gdansk Shipyard - place of remembrance of worked killed by communist suppression
+- European Solidarity Centre - museum, library and research centre
+
+#### Restaurants in Gdansk
+
 - [Slaska 19](https://www.tripadvisor.com/Restaurant_Review-g274725-d13810673-Reviews-Slaska_19-Gdansk_Pomerania_Province_Northern_Poland.html) - good restaurant away from the centre with an affordable weekday lunch menu and good wifi
 
 ### Gdynia
 
-Neighbouring port city, not as much to do or sea here and not much as Gdansk - visit for a day.
+Neighbouring port city, not as much to do or see here as Gdansk - visit for a day.
+
+Gdynia has more aim towards kids in it's portside attractions.
+
+#### Attractions in Gdynia
+
+- Pomeranian Quay - two historic ships docked here, which can be toured
+- Aquarium - corals, electric eels, turtles, piranhas ans sharks
+- "Experyment" Science Centre -  interactive exhibits for _"learning through play"_
 
 ### Sopot
 
 Famous for its good beaches, pier, good restaurants, walkways and greenery - overall a great summer holiday town full
-of tasty treats.
+of tasty treats and idyllic chill spot.
 
-It's notorious as the most expensive area in Poland, which is also reflected in the expensive cars there.
+There are many cafes near Bohaterow Monte Cassino Street (aka Monciak).
+
+There is a 4.5km long walk along the sandy beach and a trail
+running parallel to it too which is popular with walkers and runners.
+
+The wooden pier is the longest in Europe at 512 metres.
+
+Sopot is expensive to live in due to being so popular - apparently the most expensive area in all of Poland,
+which is also reflected in the expensive cars there.
 
 Parking is a nightmare.
 
