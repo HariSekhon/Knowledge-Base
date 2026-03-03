@@ -20,6 +20,7 @@
 - [South Poland](#south-poland)
   - [Krakow](#krakow)
   - [Wroclaw](#wroclaw)
+    - [Attractions in Wroclaw](#attractions-in-wroclaw)
     - [Parking in Wroclaw](#parking-in-wroclaw)
     - [Restaurants in Wroclaw](#restaurants-in-wroclaw)
   - [Katowice](#katowice)
@@ -222,7 +223,7 @@ Wroclaw is a 1000 year old city with a very good Market Square.
 
 I was surprised how nice it is, I didn't even think to go here on my first trip to Poland!
 
-### Attractions in Wroclaw
+#### Attractions in Wroclaw
 
 - Market Square - one of the largest in Europe with plenty of good restaurants and
   treats
