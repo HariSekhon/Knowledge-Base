@@ -43,7 +43,8 @@ There is a small section of craft boutiques around the corner from the duty free
 I was departing.
 
 The Wifi is open without captcha portal as of March 2026
-but it's so slow that a google test page barely loads and speed test doesn't work at all.
+but it's so slow and intermittent as to be unusable with web pages not loading and speed test doesn't work at all
+(signal strength was fine and basic pings pass - but only intermittently - it's a traffic problem).
 
 ### Best Areas to Stay in Asuncion
 
