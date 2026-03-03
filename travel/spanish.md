@@ -35,6 +35,7 @@ You need this when travelling Latin America since most people don't speak Englis
 | Here                           | Aqui                                                                                                                                                                                              |
 | But                            | Pero                                                                                                                                                                                              |
 | More                           | Mas<br/><br/>Remember the famous__"No Mas"_ (translation: _"No More"_) in Boxing when the champion Roberto Duran aka _"Hands of Stone"_ conceded the bout to the great champion Sugar Ray Leonard |
+| Cash                           | Effectivo (you will see this on signs for cash only)                                                                                                                                              |
 
 ## Food
 
