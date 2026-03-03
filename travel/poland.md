@@ -371,7 +371,7 @@ Medium sized city, mall and restaurants, but it lacks the historical attractions
     Wolin National Park has european bison and cliff coastline.
     Hortulus Spectablis Gardens in Dobrzyca
 - Gorzow Wielkopolski - over 700 years old, Old Market Square, Rose Park, nearby various nature
-- Torun - hometown of Copernicus, has a Planetarium.
+- Torun - hometown of the famous astronomer Copernicus, has a Planetarium.
     Gothic, UNESCO site founded by Teutonic Knights in 1233 with Teutonic Castle with a large historic old town.
     The Living Museum of Gingerbread is interactive and you can make your own
 - Tarnow - Old Town is called a jewel in the Polish Renaissance, the Market Square dates back to
