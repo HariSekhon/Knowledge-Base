@@ -80,10 +80,16 @@ If you can get by without withdrawing cash that may be best.
 
 - [San Bernardino](https://maps.app.goo.gl/qgwrANi9LFmkArbs7) – popular lakeside resort town for day trips and
   relaxation.
-  Although this looks nearby, getting there is actually quite a hassle.
+  Although this looks nearby, only 1.5 hours on the main stretch (plus taxis or buses on either side),
+  getting there is actually quite a hassle.
+  The last few miles to San Benedino no buses came for an hour and neither did the Ubers,
+  even at priority level, or motorbikes.
   I spent 4 hours trying to get there with a combination of Uber taxis long distance buses and before giving up and
-  going back to Asuncion.
-  Note to self, don't try it on Heroes Day.
-  Although it is only 1.5 hours on the bus, the last few miles no buses came and neither did Ubers.
+  going back to Asuncion before getting stranded if no return bus or taxis were available given the unreliability of
+  both on that last stretch.
+  The [motorway toll booth](https://maps.app.goo.gl/izg9h6DCGxZzdS8N6) in Ypacaraí
+  also causes lots traffic on both sides and traffic on the way back to Asuncion was bad even after that too,
+  I don't know why, wasting over 6 hours in total in the attempt.
+  Note to self, don't try this again on Heroes Day, their national holiday.
   Next time rent a car for the day
 - [Ciudad del Este](https://maps.app.goo.gl/m9tJGR1z4VX8p91b7) - border city with shopping and budget stays
