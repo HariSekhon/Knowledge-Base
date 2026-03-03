@@ -79,5 +79,11 @@ If you can get by without withdrawing cash that may be best.
 ### Areas Yet to Explore
 
 - [San Bernardino](https://maps.app.goo.gl/qgwrANi9LFmkArbs7) – popular lakeside resort town for day trips and
-  relaxation
+  relaxation.
+  Although this looks nearby, getting there is actually quite a hassle.
+  I spent 4 hours trying to get there with a combination of Uber taxis long distance buses and before giving up and
+  going back to Asuncion.
+  Note to self, don't try it on Heroes Day.
+  Although it is only 1.5 hours on the bus, the last few miles no buses came and neither did Ubers.
+  Next time rent a car for the day
 - [Ciudad del Este](https://maps.app.goo.gl/m9tJGR1z4VX8p91b7) - border city with shopping and budget stays
