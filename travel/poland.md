@@ -16,6 +16,7 @@
   - [Gdynia](#gdynia)
     - [Attractions in Gdynia](#attractions-in-gdynia)
   - [Sopot](#sopot)
+  - [Gniew Castle](#gniew-castle)
 - [South Poland](#south-poland)
   - [Krakow](#krakow)
   - [Wroclaw](#wroclaw)
@@ -175,6 +176,16 @@ Sopot is expensive to live in due to being so popular - apparently the most expe
 which is also reflected in the expensive cars there.
 
 Parking is a nightmare.
+
+### Gniew Castle
+
+Built in 1290, it has a historic torture chamber, castle chapel and defensive cloisters.
+
+It's now a spa hotel with social events.
+
+There are various historical costumes and reenactments such as Wrath of the Hussars or
+a Polish-Swedish battle, plus horse riding, gondola cruise on the Vistula,
+Gregorian concert choir by candlelight and Holidays with Ghosts multimedia performance with pyrotechnic effects.
 
 ## South Poland
 
