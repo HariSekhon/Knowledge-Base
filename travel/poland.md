@@ -344,37 +344,41 @@ Medium sized city, mall and restaurants, but it lacks the historical attractions
 ## Areas Yet to Explore
 
 - Szczecin - _"Jewel of the Odor"_, dates back over 750 years, with a medievil Castle of the Pomeranian Dukes with
-  extraordinary halls.
-  Its boulevards smell of chocolate.
-  Waly Chrobrego (Chobry Embankment) with its fountain.
-  Rose Garden.
-  Surround by 3 forests.
-  Wolin National Park has european bison and cliff coastline.
-  Hortulus Spectablis Gardens in Dobrzyca
+    extraordinary halls.
+    Its boulevards smell of chocolate.
+    Waly Chrobrego (Chobry Embankment) with its fountain.
+    Rose Garden.
+    Surround by 3 forests.
+    Wolin National Park has european bison and cliff coastline.
+    Hortulus Spectablis Gardens in Dobrzyca
 - Gorzow Wielkopolski - over 700 years old, Old Market Square, Rose Park, nearby various nature
 - Torun - gothic, UNESCO site founded by Teutonic Knights in 1233 with Teutonic Castle with a large historic old town.
-  The Living Museum of Gingerbread is interactive and you can make your own.
-  Copernicus was born here.
-  Planetarium
+    The Living Museum of Gingerbread is interactive and you can make your own.
+    Copernicus was born here.
+    Planetarium
 - Tarnow - Old Town is called a jewel in the Polish Renaissance, the Market Square dates back to
-  1330 with Tenement houses from different periods - 16th to 19th centuries - surround the main square.
-  Cathedral Basilica is famous for its architecture and also contains gothic-renaissance tombstones of the
-  Tarnowski family and the Baroque gravestone of the Ostrogski family which are considered some of the most outstanding
-  works of art in Poland.
-  The Tarnowski tomestone is 13.8 metres high and 5 metres wide making it the biggest sculture of its kind in Europe
+    1330 with Tenement houses from different periods - 16th to 19th centuries - surround the main square.
+    Cathedral Basilica is famous for its architecture and also contains gothic-renaissance tombstones of the
+    Tarnowski family and the Baroque gravestone of the Ostrogski family which are considered some of the most outstanding
+    works of art in Poland.
+    The Tarnowski tomestone is 13.8 metres high and 5 metres wide making it the biggest sculture of its kind in Europe
 - Rzeszow - rapidly developing student city, looks nice.
-  Gothic Church of Saints Adalbert and Stanislaus dating back to 1430 but remodelled in the 17th century in Baroque
-  style.
-  Rzeszow Castle - rebuilt in 1902-1906 since the original was in such disrepair.
-  3rd of May Street.
-  Church of the Holy Cross.
-  Underground Tourist Route running underneath the historical tenements and Market Square.
-  Podpromie Hall - modern sports and entertainment arena - check for events - especially for a summer holiday.
-  Bieszczady Mountains, with Bicycle Trolleys - self-powered railway cart with pedals bikes on it to move it.
-  Krosno - Glass Heritage Centre - learn about glass making and glass works of art
+    Gothic Church of Saints Adalbert and Stanislaus dating back to 1430 but remodelled in the 17th century in Baroque
+    style.
+    Rzeszow Castle - rebuilt in 1902-1906 since the original was in such disrepair.
+    3rd of May Street.
+    Church of the Holy Cross.
+    Underground Tourist Route running underneath the historical tenements and Market Square.
+    Podpromie Hall - modern sports and entertainment arena - check for events - especially for a summer holiday.
+    Bieszczady Mountains, with Bicycle Trolleys - self-powered railway cart with pedals bikes on it to move it.
+    Krosno - Glass Heritage Centre - learn about glass making and glass works of art
 - Lublin
 - Opole
-- Zamosc
+- Zamosc - Great Market Square 100x100m.
+    Town Hall with 52m clock tower.
+    Zamoyski Palace.
+    Zamosc Fortress, cannons, archery, 5D(?) movie about city's history, Zamosc Fortress of Attractions.
+    Roztocze National Park - home to Polish primitive wild horses (Konik), Zwierzyniec forest, Echo Ponds
 - Kielce
 - Olsztyn
 - Zielona Gora - poland's wine capital, worth visiting in September during the annual Wine Festival which runs for
