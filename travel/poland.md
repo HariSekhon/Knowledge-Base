@@ -362,9 +362,14 @@ Medium sized city, mall and restaurants, but it lacks the historical attractions
   Tarnowski family and the Baroque gravestone of the Ostrogski family which are considered some of the most outstanding
   works of art in Poland.
   The Tarnowski tomestone is 13.8 metres high and 5 metres wide making it the biggest sculture of its kind in Europe
+- Rzeszow - rapidly developing student city, looks nice.
+  Gothic Church of Saints Adalbert and Stanislaus dating back to 1430 but remodelled in the 17th century in Baroque
+  style.
+  Rzeszow Castle - rebuilt in 1902-1906 since the original was in such disrepair.
+  3rd of May Street.
+  Church of the Holy Cross
 - Lublin
 - Opole
-- Rzeszow
 - Zamosc
 - Kielce
 - Olsztyn
