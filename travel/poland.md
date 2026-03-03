@@ -391,8 +391,9 @@ Medium sized city, mall and restaurants, but it lacks the historical attractions
     Bieszczady Mountains, with Bicycle Trolleys - self-powered railway cart with pedals bikes on it to move it.
     Krosno - Glass Heritage Centre - learn about glass making and glass works of art
 - Lublin
-- Opole
-- Zamosc - Great Market Square 100x100m.
+- Opole - famous singing town, capital of polish pop culture
+- Zamosc - the ideal Renaissance town.
+    Great Market Square 100x100m.
     Town Hall with 52m clock tower.
     Zamoyski Palace.
     Zamosc Fortress, cannons, archery, 5D(?) movie about city's history, Zamosc Fortress of Attractions.
