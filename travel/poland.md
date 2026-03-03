@@ -9,8 +9,6 @@
     - [Parking in Warsaw](#parking-in-warsaw)
     - [Restaurants in Warsaw](#restaurants-in-warsaw)
   - [Augustów](#augustów)
-  - [Bialystok](#bialystok)
-  - [Elk](#elk)
 - [North Poland - The Tricity - Gdansk, Gdynia & Sopot](#north-poland---the-tricity---gdansk-gdynia--sopot)
   - [Gdansk](#gdansk)
   - [Gdynia](#gdynia)
@@ -26,9 +24,9 @@
 - [West Poland](#west-poland)
   - [Poznan](#poznan)
   - [Bydgoszcz](#bydgoszcz)
-  - [Szczecin](#szczecin)
 - [Central Poland](#central-poland)
   - [Łódź](#łódź)
+- [Areas Yet to Explore](#areas-yet-to-explore)
 
 <!-- INDEX_END -->
 
@@ -109,21 +107,13 @@ Small border town on the way to Lithuania.
 - [Delissa](https://maps.app.goo.gl/Tssmgh6aDC2X5yJN8) - pastry shop
 - [Zygmunt August Market Square](https://maps.app.goo.gl/LJ91uRL6UfbrYPUBA) - the centre of town
 
-### Bialystok
-
-TODO
-
-### Elk
-
-TODO
-
 ## North Poland - The Tricity - Gdansk, Gdynia & Sopot
 
 These 2 cities and town very close together.
 
 ### Gdansk
 
-A large port city in the north of Poland.
+A large 1000 year old city with a mix of historical and modern attractions.
 
 Good restaurants and old town.
 
@@ -148,9 +138,12 @@ Neighbouring port city, not as much to do or sea here and not much as Gdansk - v
 
 ### Sopot
 
-The most expensive area in Poland, also reflected in the cars there. Parking is a nightmare.
+Famous for its good beaches, pier, good restaurants, walkways and greenery - overall a great summer holiday town full
+of tasty treats.
 
-Good beaches, restaurants, and walkways - great summer holiday town full of naughty treats.
+It's notorious as the most expensive area in Poland, which is also reflected in the expensive cars there.
+
+Parking is a nightmare.
 
 ## South Poland
 
@@ -260,13 +253,11 @@ An excellent stopover choice when driving across Poland.
 
 Historic town with lovely centre and plenty of good restaurants.
 
+Called the _"Venice of the North"_.
+
 An excellent stopover choice when driving across Poland.
 
 [Apteka Restauracja & Koktajlbar](https://restauracjaapteka.pl/menu/) is my recommended stop here for dinner and drinks.
-
-### Szczecin
-
-TODO
 
 ## Central Poland
 
@@ -276,3 +267,19 @@ Medium sized city, mall and restaurants, but it lacks the historical attractions
 
 - [Manufaktura](https://maps.app.goo.gl/V1t63UoBryMrEUfK6) - mall, outside there are restaurants in a large pedestrian
   area
+
+## Areas Yet to Explore
+
+- Szczecin
+- Lublin
+- Gorzow Wielkopolski
+- Opole
+- Rzeszow
+- Zamosc
+- Kielce
+- Olsztyn
+- Torun - gothic
+- Tarnow
+- Zielona Gora - poland's wine capital
+- Bialystok
+- Elk
