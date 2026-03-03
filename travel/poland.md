@@ -3,25 +3,32 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
-- [Warsaw](#warsaw)
-  - [Metro in Warsaw](#metro-in-warsaw)
-  - [Parking in Warsaw](#parking-in-warsaw)
-  - [Restaurants in Warsaw](#restaurants-in-warsaw)
-- [Augustów](#augustów)
-- [Bydgoszcz](#bydgoszcz)
-- [Częstochowa](#częstochowa)
-- [The Northen Tricity - Gdansk, Gdynia & Sopot](#the-northen-tricity---gdansk-gdynia--sopot)
+- [East Poland](#east-poland)
+  - [Warsaw](#warsaw)
+    - [Metro in Warsaw](#metro-in-warsaw)
+    - [Parking in Warsaw](#parking-in-warsaw)
+    - [Restaurants in Warsaw](#restaurants-in-warsaw)
+  - [Augustów](#augustów)
+  - [Bialystok](#bialystok)
+  - [Elk](#elk)
+- [North Poland - The Tricity - Gdansk, Gdynia & Sopot](#north-poland---the-tricity---gdansk-gdynia--sopot)
   - [Gdansk](#gdansk)
   - [Gdynia](#gdynia)
   - [Sopot](#sopot)
-- [Katowice](#katowice)
-- [Krakow](#krakow)
-- [Łódź](#łódź)
-- [Nowy Sącz](#nowy-sącz)
-- [Poznan](#poznan)
-- [Wroclaw](#wroclaw)
-  - [Parking in Wroclaw](#parking-in-wroclaw)
-  - [Restaurants in Wroclaw](#restaurants-in-wroclaw)
+- [South Poland](#south-poland)
+  - [Krakow](#krakow)
+  - [Wroclaw](#wroclaw)
+    - [Parking in Wroclaw](#parking-in-wroclaw)
+    - [Restaurants in Wroclaw](#restaurants-in-wroclaw)
+  - [Katowice](#katowice)
+  - [Nowy Sącz](#nowy-sącz)
+    - [Częstochowa](#częstochowa)
+- [West Poland](#west-poland)
+  - [Poznan](#poznan)
+  - [Bydgoszcz](#bydgoszcz)
+  - [Szczecin](#szczecin)
+- [Central Poland](#central-poland)
+  - [Łódź](#łódź)
 
 <!-- INDEX_END -->
 
@@ -41,7 +48,9 @@ major towns and cities.
 - Parking is often cheap or free after 8pm in central Warsaw, which is great for going out to get dinner in the centres
 - Good cheap Metro in Warsaw
 
-## Warsaw
+## East Poland
+
+### Warsaw
 
 Decent low pressure capital, but expensive already in terms of Airbnbs,
 and in the centre people will be trying to
@@ -52,15 +61,15 @@ One of my colleagues moved back to Warsaw as a contractor.
 Warsaw airport is deserted after 11pm as there were no night flights, it is better than many other airports but it is
 not London Heathrow. This is also a big problem if you miss you transfer flight, as I did on the way to Tbilisi!
 
-### Metro in Warsaw
+#### Metro in Warsaw
 
 The metro is both good and cheap and recommended by locals.
 
-### Parking in Warsaw
+#### Parking in Warsaw
 
 Parking is free in the centre from 8pm, which is convenient for dinner.
 
-### Restaurants in Warsaw
+#### Restaurants in Warsaw
 
 <!--
 
@@ -92,7 +101,7 @@ TODO:
   here without a reservation
 - [Bułkę przez Bibułkę](https://maps.app.goo.gl/StZzWDg2bZofJ2fG7) - breakfast restaurant
 
-## Augustów
+### Augustów
 
 Small border town on the way to Lithuania.
 
@@ -100,19 +109,17 @@ Small border town on the way to Lithuania.
 - [Delissa](https://maps.app.goo.gl/Tssmgh6aDC2X5yJN8) - pastry shop
 - [Zygmunt August Market Square](https://maps.app.goo.gl/LJ91uRL6UfbrYPUBA) - the centre of town
 
-## Bydgoszcz
+### Bialystok
 
-Historic town with lovely centre and plenty of good restaurants.
+TODO
 
-An excellent stopover choice when driving across Poland.
+### Elk
 
-[Apteka Restauracja & Koktajlbar](https://restauracjaapteka.pl/menu/) is a recommended stop here for dinner and drinks.
+TODO
 
-## Częstochowa
+## North Poland - The Tricity - Gdansk, Gdynia & Sopot
 
-Not much there, dead if you're trying to use it for a late night stopover.
-
-## The Northen Tricity - Gdansk, Gdynia & Sopot
+These 2 cities and town very close together.
 
 ### Gdansk
 
@@ -145,17 +152,11 @@ The most expensive area in Poland, also reflected in the cars there. Parking is 
 
 Good beaches, restaurants, and walkways - great summer holiday town full of naughty treats.
 
-## Katowice
+## South Poland
 
-Surprisingly busy city with large central communal areas and nightlife.
+### Krakow
 
-- [Tatiana](https://maps.app.goo.gl/SPMj5Dqi9yBez8xv6) - decent restaurant
-- [Alahamora - magiczna kawiarnia](https://alahamora.pl/) - a cafe treat for Harry Potter fans.
-  Unfortunately they have no wifi.
-
-## Krakow
-
-Tourist hotspot.
+Tourist hotspot - this is the primary city you'll want to visit in the south.
 
 *"F\*ck Warsaw, go to Krakow!"*, one of my Polish colleagues told me. He was right.
 
@@ -178,38 +179,20 @@ TODO:
 - [Pod Aniołami Restaurant](https://maps.app.goo.gl/2HPrdVJFTXq3qoYn8) - 4.5
 - [Miód Malina](https://maps.app.goo.gl/jhHraxVuVfGZExvA9) - 4.5
 
-## Łódź
-
-Medium sized city, mall and restaurants, but lacks the historical centre attraction of other Polish cities.
-
-- [Manufaktura](https://maps.app.goo.gl/V1t63UoBryMrEUfK6) - mall, outside there are restaurants in a large pedestrian
-  area
-
-## Nowy Sącz
-
-Nice small centre, good for a coffee stopover on road trip between Poland and Slovakia.
-
-- [Sofi Len Cafe](https://www.instagram.com/sofilen_kawiarnia)
-
-## Poznan
-
-Historic town with lovely centre and plenty of good restaurants.
-
-My first stopover in Poland when driving from Germany. I was pleasantly surprised how nice it was.
-
-An excellent stopover choice when driving across Poland.
-
-## Wroclaw
+### Wroclaw
 
 Pronounced Vrot-swaaf... not row-claw!
 
-### Parking in Wroclaw
+This is a surprisingly nicer city than I would have guessed,
+with a good town centre with plenty of good restaurants and treats.
+
+#### Parking in Wroclaw
 
 Parking in Wroclaw is a problem, the train station costs €12 per day, while the roads are metered parking, and my car
 got towed away for a temporary sign and I got blackmailed by the police and towing company for €120 to get it back!
 (€20 fine, €80 towing charge, 2 x €10 per day storage charge ffs)
 
-### Restaurants in Wroclaw
+#### Restaurants in Wroclaw
 
 - [Pierogarnia Rynek 26](https://maps.app.goo.gl/9GRJGoTSKP2qz7eG7) - the best pierogi I ever had (polish dumplings).
   They've taken something usually commodity and turned it into a delicacy.
@@ -244,3 +227,52 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
   perhaps why it was deserted, as the above two cost me 82 pln (£16), plus tip, without any drinks or dessert.
   Waitress said they had bad wifi, and didn't know the wifi password.
   Overall you might want to go with one of the lively places in the Wrocławski Rynek historical market square
+
+### Katowice
+
+Surprisingly busy city with large central communal areas and nightlife.
+
+- [Tatiana](https://maps.app.goo.gl/SPMj5Dqi9yBez8xv6) - decent restaurant
+- [Alahamora - magiczna kawiarnia](https://alahamora.pl/) - a cafe treat for Harry Potter fans.
+  Unfortunately they have no wifi.
+
+### Nowy Sącz
+
+Nice small centre, good for a coffee stopover on road trip between Poland and Slovakia.
+
+- [Sofi Len Cafe](https://www.instagram.com/sofilen_kawiarnia)
+
+#### Częstochowa
+
+Not much there, dead if you're trying to use it for a late night stopover to/from Slovakia.
+
+## West Poland
+
+### Poznan
+
+Historic town with lovely town centre and plenty of good restaurants.
+
+My first stopover in Poland when driving from Germany. I was pleasantly surprised how nice it was.
+
+An excellent stopover choice when driving across Poland.
+
+### Bydgoszcz
+
+Historic town with lovely centre and plenty of good restaurants.
+
+An excellent stopover choice when driving across Poland.
+
+[Apteka Restauracja & Koktajlbar](https://restauracjaapteka.pl/menu/) is my recommended stop here for dinner and drinks.
+
+### Szczecin
+
+TODO
+
+## Central Poland
+
+### Łódź
+
+Medium sized city, mall and restaurants, but it lacks the historical attractions of other Polish cities.
+
+- [Manufaktura](https://maps.app.goo.gl/V1t63UoBryMrEUfK6) - mall, outside there are restaurants in a large pedestrian
+  area
