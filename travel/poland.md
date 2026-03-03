@@ -398,7 +398,9 @@ Medium sized city, mall and restaurants, but it lacks the historical attractions
     Zamosc Fortress, cannons, archery, 5D(?) movie about city's history, Zamosc Fortress of Attractions.
     Roztocze National Park - home to Polish primitive wild horses (Konik), Zwierzyniec forest, Echo Ponds
 - Kielce
-- Olsztyn
+- Olsztyn - the _"Capital of a Thousand Lakes"_, grew from a 14th century Teutonic Knights watchtower.
+  Copernicus lived here for a many years,
+  it has a Planetarium and Astronomical Observatory, and Copernicus' instruments are kept on display in the castle
 - Zielona Gora - poland's wine capital, worth visiting in September during the annual Wine Festival which runs for
   several days attracting large crowds, concerts, wine contest, theatrical gatherings and a colourful fair.
   Museum of Wine.
