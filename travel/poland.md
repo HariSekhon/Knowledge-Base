@@ -367,7 +367,11 @@ Medium sized city, mall and restaurants, but it lacks the historical attractions
   style.
   Rzeszow Castle - rebuilt in 1902-1906 since the original was in such disrepair.
   3rd of May Street.
-  Church of the Holy Cross
+  Church of the Holy Cross.
+  Underground Tourist Route running underneath the historical tenements and Market Square.
+  Podpromie Hall - modern sports and entertainment arena - check for events - especially for a summer holiday.
+  Bieszczady Mountains, with Bicycle Trolleys - self-powered railway cart with pedals bikes on it to move it.
+  Krosno - Glass Heritage Centre - learn about glass making and glass works of art
 - Lublin
 - Opole
 - Zamosc
