@@ -19,6 +19,8 @@
   - [Gniew Castle](#gniew-castle)
 - [South Poland](#south-poland)
   - [Krakow](#krakow)
+    - [Attractions in Krakow](#attractions-in-krakow)
+    - [Restaurants in Krakow](#restaurants-in-krakow)
   - [Wroclaw](#wroclaw)
     - [Attractions in Wroclaw](#attractions-in-wroclaw)
     - [Parking in Wroclaw](#parking-in-wroclaw)
@@ -192,12 +194,33 @@ Gregorian concert choir by candlelight and Holidays with Ghosts multimedia perfo
 
 ### Krakow
 
-Tourist hotspot - this is the primary city you'll want to visit in the south.
+The former capital of Poland, it is a historical city and tourist hotspot -
+this is the main city you'll want to visit in the south.
 
 *"F\*ck Warsaw, go to Krakow!"*, one of my Polish colleagues told me. He was right.
 
+#### Attractions in Krakow
+
+- Florian's Gate - in the middle ages this was the main gate of the city
+- Market Square
+- Wawel Royal Castle
+  - Wavel Hill - view of the Vistula, Podgorze district and Old Town
+  - Metropolitan Basilica of St Stanislous and St Wenceslaus
+  - Crown Treasury and Royal Armoury
+  - Cathedral's royal tombs and National Bards' Crypt
+- Cloth Hall
+- St Mary's Basilica
+- the town hall tower
+- Baroque Church of Saints Peter and Paul
+- the two monasteries of the Dominicans and the Franciscans
+- Kazimierz - UNESCO heritage site, was a separate town in the middle ages that has been subsumed by Krakow
+- Podgorze
+- Auschwitz-Birkenau - the only UNESCO Nazi concentration camp
+
+#### Restaurants in Krakow
+
 There are lots of coffee shops but few restaurants that stood out to me,
-as usual tourist restaurants will be more expensive and of less impressive quality.
+as usual tourist restaurants will be more expensive and of less impressive quality, probably due to rent prices.
 
 - [Czarna Kaczka / Black Duck](https://maps.app.goo.gl/Ycgm9oBHHpDfAhem9) - decent restaurant
 - [Busz](https://maps.app.goo.gl/izdAfUVvP7cK4Ccm8) - busy coffee shop
