@@ -9,7 +9,8 @@ For far more serious tricks see the [DevOps-Bash-tools](devops-bash-tools.md) re
 - [System & Shell](#system--shell)
   - [Show CPU Cores](#show-cpu-cores)
   - [Show your $PATH entries one per line](#show-your-path-entries-one-per-line)
-  - [Log all Commands in a Shell Session](#log-all-commands-in-a-shell-session)
+  - [Log All Commands in a Shell Session](#log-all-commands-in-a-shell-session)
+  - [Log Script Output to a File](#log-script-output-to-a-file)
   - [List Your 100 Most Used Bash Commands](#list-your-100-most-used-bash-commands)
 - [Processes](#processes)
   - [Find disowned processes owned by the init PID 1](#find-disowned-processes-owned-by-the-init-pid-1)
@@ -64,11 +65,40 @@ nproc
 echo $PATH | tr ':' '\n'
 ```
 
-### Log all Commands in a Shell Session
+### Log All Commands in a Shell Session
 
 ```shell
 script logfile.txt
 ```
+
+### Log Script Output to a File
+
+You can wrap part of all of your script in braces and use standard output redirection to a logfile:
+
+```shell
+{
+    echo "capturing this output"
+} > output.log 2>&1
+```
+
+To capture all stdout from this point down in the script to a logfile eg. `output.log`,
+as well as still print it to the terminal:
+
+```shell
+exec > >(tee output.log)
+```
+
+Sometimes you want the stderr
+to go the terminal as that's where you log progress of what the script is doing while collecting the output data.
+
+To have stderr also be logged into the `output.log` file:
+
+```shell
+exec > >(tee output.log) 2>&1
+```
+
+This is using the Bash trick of having a process as an input or output file descriptor, similar to
+[Use Process Outputs Like Files](#use-process-outputs-like-files).
 
 ### List Your 100 Most Used Bash Commands
 
