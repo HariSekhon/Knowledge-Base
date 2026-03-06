@@ -19,6 +19,7 @@
   - [Metro in Medellin](#metro-in-medellin)
   - [Attractions in Medellin](#attractions-in-medellin)
   - [Restaurants in Medellin](#restaurants-in-medellin)
+- [Areas Yet to Explore](#areas-yet-to-explore)
 
 <!-- INDEX_END -->
 
@@ -130,6 +131,9 @@ entrance to terminal B.
 None of the food places I've tried on my few visits through here were great in terms of food or value for money,
 but hey, we know this about airports,
 although some of the others like London Heathrow have had better quality places at least.
+For examples, Guy's Burger Joint charged \$30 for a double cheeseburger and fries in 2026
+(a modest half basked of fries because the burger takes the other half of it) and it is average,
+stacked, but fast food level, nowhere near as good as gourmet burger places.
 
 ### Travel Between Bogota El Dorado Airport and Bogota
 
@@ -363,3 +367,9 @@ TODO:
 - [Mamasita Medallo sede Poblado](https://maps.app.goo.gl/BwpKRe74ZM37AEVo6) - 4.7 Colombia, recommended by another
   tourist as the best place he'd eaten in Medellin, with the slow cooked beef cheek, probably in mole or a stew.
   Soups were apparently incredible too
+
+## Areas Yet to Explore
+
+- [Cartagena](https://maps.app.goo.gl/3upmkG1vPnvyxoN68)
+- [Barranquilla](https://maps.app.goo.gl/a7PJjXLszf5oqxbS8)
+- [Cali](https://maps.app.goo.gl/3nRXm4qSJpD1mK317)
