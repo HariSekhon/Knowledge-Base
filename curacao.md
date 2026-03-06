@@ -82,7 +82,10 @@ I don't remember the last time I paid that much for a taxi except for London.
 - [La Bohème Curaçao](https://maps.app.goo.gl/swCDFKELm9pXzW73A) - popular restaurant in Punda and for good reason, the
   food is decently and its one of the most reasonably priced in this tourist trap area.
   In the evenings it's common for people to wait some time for a table to become available.
-  The menu is quite versatile with a good range of options, a whole page breakfast menu as well as lunch and dinner pages.
+  The menu is quite versatile with a good range of options, a whole page breakfast menu as well as lunch and dinner
+  pages.
+  The coconut pancakes breakfast is actually just one large round thick fluffy pancake with fruit, a side red fruit
+  sauce, and honey pourer.
   The mahi ceviche was just right, a mid sized bowl and heavy on the tiger milk, with 3 plantain tostadas.
   The ceviche had sold out the first time I went here so tried the Karni Stoba traditional beef stew but that was
   surprisingly mediocre, in both portion and flavour, especially for 20 XCG ($10), so I don't recommend that one.
@@ -96,7 +99,13 @@ I don't remember the last time I paid that much for a taxi except for London.
   ginger.
   Wifi 158/22 Mbit/s
 
-TODO:
+Punda TODO:
+
+- [Kome](https://maps.app.goo.gl/Jdemgw3cySanPoqn8) - 4.6
+- [Van Gogh Specialty Coffee & City Roastery](https://maps.app.goo.gl/JuLvYHYwue61Vwmi9) - 4.6
+
+
+Otrobanda TODO:
 
 - [Gio’s Curacao](https://maps.app.goo.gl/mQXE6oWtATRbMvZh6) - 4.6 ice cream
 - [Brgr Haus Kura Hulanda](https://maps.app.goo.gl/VWeiJPyetQsXWim86) - 4.6
@@ -105,11 +114,6 @@ TODO:
   above it
 - [Maira's Kitchen](https://maps.app.goo.gl/AZ2tbXwdaMDNtDLG9) - 4.5, a short walk off the beaten track in Otrobanda,
   the section west of the Queen Emma bridge
-
-TODO:
-
-- [Kome](https://maps.app.goo.gl/Jdemgw3cySanPoqn8) - 4.6
-- [Van Gogh Specialty Coffee & City Roastery](https://maps.app.goo.gl/JuLvYHYwue61Vwmi9) - 4.6
 
 ### Attractions in Mambo
 
