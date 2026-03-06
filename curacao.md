@@ -72,11 +72,18 @@ I don't remember the last time I paid that much for a taxi except for London.
   caribbean chicken and 4 shrimp skewer (100g for each of the three types) comes with a small fries and mayo.
   The portions are small enough to leave space for dessert, a bit surprising for the price.
   The homemade apple pie with vanilla ice cream is ok but not sure it's worth 18 XCG.
-  WiFi on the terrace was a bit unrealiable so no speed test succeeded
-- [La Bohème Curaçao](https://maps.app.goo.gl/swCDFKELm9pXzW73A) - popular restaurant in Punda.
-  The ceviche had sold out so tried the Karni Stoba traditional beef stew but that was surprisingly mediocre,
-  in both portion and flavour, especially for 20 XCG ($10).
-  Next time get the ceviche or the lomo saltado and hope its half as good as the peruvians make it
+  WiFi on the terrace was a bit unreliable so no speed test succeeded
+- [La Bohème Curaçao](https://maps.app.goo.gl/swCDFKELm9pXzW73A) - popular restaurant in Punda and for good reason, the
+  food is decently and its one of the most reasonably priced in this tourist trap area.
+  In the evenings it's common for people to wait some time for a table to become available.
+  The menu is quite versatile with a good range of options, a whole page breakfast menu as well as lunch and dinner pages.
+  The mahi ceviche was just right, a mid sized bowl and heavy on the tiger milk, with 3 plantain tostadas.
+  The ceviche had sold out the first time I went here so tried the Karni Stoba traditional beef stew but that was
+  surprisingly mediocre, in both portion and flavour, especially for 20 XCG ($10), so I don't recommend that one.
+  The La Boheme XL tenderloin burger is large, and good value on a money-for-calorie basis,
+  with fried egg and cheese inside it alone with large sliced beef chunks, although I've had better.
+  I ran out of time but they also have a lomo saltado, although that's best done in Peru.
+  Wifi  Mbit/s
 
 TODO:
 
