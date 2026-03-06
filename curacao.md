@@ -7,10 +7,13 @@
 - [Willemstad](#willemstad)
   - [Willemsted Airport](#willemsted-airport)
   - [Best Areas in Willemstad](#best-areas-in-willemstad)
-  - [Attractions in Punda / Otrobanda](#attractions-in-punda--otrobanda)
-  - [Restaurants in Punda / Otrobanda](#restaurants-in-punda--otrobanda)
-  - [Groceries](#groceries)
-  - [Attractions in Mambo](#attractions-in-mambo)
+  - [Punda & Otrobanda](#punda--otrobanda)
+    - [Attractions in Punda & Otrobanda](#attractions-in-punda--otrobanda)
+    - [Restaurants in Punda & Otrobanda](#restaurants-in-punda--otrobanda)
+    - [Groceries in Punda & Otrobanda](#groceries-in-punda--otrobanda)
+  - [Mambo](#mambo)
+    - [Attractions in Mambo](#attractions-in-mambo)
+  - [Jan Thiel](#jan-thiel)
 
 <!-- INDEX_END -->
 
@@ -71,7 +74,9 @@ I don't remember the last time I paid that much for a taxi except for London.
 
 -->
 
-### Attractions in Punda / Otrobanda
+### Punda & Otrobanda
+
+#### Attractions in Punda & Otrobanda
 
 - [Queen Emma Bridge](https://maps.app.goo.gl/accwZxqxYSDggGE26) - floating pontoon bridge that moves to the side to let
   cruise ships pass,
@@ -89,7 +94,7 @@ I don't remember the last time I paid that much for a taxi except for London.
 - [Renaissance Mall & Rif Fort](https://maps.app.goo.gl/AUmFzCCRSkvWwhrB7) - you probably don't want to eat at any of
   these americanized looking restaurants but it's worth a look at the area or souvenir shops
 
-### Restaurants in Punda / Otrobanda
+#### Restaurants in Punda & Otrobanda
 
 - [Grand Café 'Gouverneur De Rouville' Curaçao](https://maps.app.goo.gl/yBwctM1tf1bivv5d8) - a nearly 300 years old,
   this place is a treat but you will need to book a table in advance for the lovely balcony.
@@ -135,10 +140,18 @@ Otrobanda TODO:
 - [Maira's Kitchen](https://maps.app.goo.gl/AZ2tbXwdaMDNtDLG9) - 4.5, a short walk off the beaten track in Otrobanda,
   the section west of the Queen Emma bridge
 
-### Groceries
+#### Groceries in Punda & Otrobanda
 
 - [Supremos Minisupermarket](https://maps.app.goo.gl/qAJRmyDy97aRFZYq8) - 24 hour grocery store
 
-### Attractions in Mambo
+### Mambo
+
+Just south along the coast from Punda.
+
+#### Attractions in Mambo
 
 - [Mambo Beach Boulevard](https://maps.app.goo.gl/Uc3jpJcr9KuACNrN7)
+
+### Jan Thiel
+
+[Jan Thiel](https://maps.app.goo.gl/fqwKi93ymBP1fzhF6) is further south along the west coast from Punda.
