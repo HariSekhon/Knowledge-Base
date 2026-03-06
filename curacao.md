@@ -63,6 +63,7 @@ I don't remember the last time I paid that much for a taxi except for London.
 - [Handelskade](https://maps.app.goo.gl/3zZc56EQojGL94N59) - waterfront road next to Queen Emma Bridge with lots of
   waterside cafe seating.
   The tourist places here aren't highly rated, but probably ok to stop for a drink
+- [Nieuwestraat](https://maps.app.goo.gl/vH91ajW5xUZQRrRs8) - road with cafes / bars / restaurants
 - [Curaçao Sign](https://maps.app.goo.gl/cvS6LcztmUi2TsLF6)
 - [Punda Beach Curaçao "Playa Marichi"](https://maps.app.goo.gl/FY2cTbc2RCY1vbL88) - small beach behind a L-shaped pier
   and large rock wall that shields the small beach alcove from the big waves.
