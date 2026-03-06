@@ -61,7 +61,13 @@ I don't remember the last time I paid that much for a taxi except for London.
   cruise ships pass,
   meaning you could have to wait half an hour to re-cross as the alternative route is a very high car bridge
 - [Curaçao Sign](https://maps.app.goo.gl/cvS6LcztmUi2TsLF6)
-- [Punda Beach Curaçao "Playa Marichi"](https://maps.app.goo.gl/FY2cTbc2RCY1vbL88)
+- [Punda Beach Curaçao "Playa Marichi"](https://maps.app.goo.gl/FY2cTbc2RCY1vbL88) - small beach behind a L-shaped pier
+  and large rock wall that shields the small beach alcove from the big waves.
+  The clear blue water had schools of small fish under the pier
+  and I also saw a long pointy fish like a small swordfish,
+  that thing was went from 0 to 60 in 1 second before I could take a pic of it
+- [Renaissance Mall & Rif Fort](https://maps.app.goo.gl/AUmFzCCRSkvWwhrB7) - you probably don't want to eat at any of
+  these americanized looking restaurants but it's worth a look at the area or souvenir shops
 
 ### Restaurants in Punda / Otrobanda
 
@@ -83,7 +89,22 @@ I don't remember the last time I paid that much for a taxi except for London.
   The La Boheme XL tenderloin burger is large, and good value on a money-for-calorie basis,
   with fried egg and cheese inside it alone with large sliced beef chunks, although I've had better.
   I ran out of time but they also have a lomo saltado, although that's best done in Peru.
+  The Nutmeg Breeze is my favourite drink here, coconut milk, pineapple and nutmeg, fairly slightly sweet.
+  The fruit punch juice is a mix of orange, pineapple,
+  passionfruit and quite sweet with a syrup base that needed to be mixed in.
+  The ginger pop is basically the same but with ginger and ginger syrup and is apparently a little spicy due to the
+  ginger.
   Wifi 158/22 Mbit/s
+
+TODO:
+
+- [Gio’s Curacao](https://maps.app.goo.gl/mQXE6oWtATRbMvZh6) - 4.6 ice cream
+- [Brgr Haus Kura Hulanda](https://maps.app.goo.gl/VWeiJPyetQsXWim86) - 4.6
+- [Caleo Crudos y Parrilla](https://maps.app.goo.gl/oBrVuaRrxKMNHYiX7) - 4.7
+- [The Captain](https://maps.app.goo.gl/JBgYgMNYT6bFpGVo8) - 4.4, cheaper than the Grand Café 'Gouverneur De Rouville'
+  above it
+- [Maira's Kitchen](https://maps.app.goo.gl/AZ2tbXwdaMDNtDLG9) - 4.5, a short walk off the beaten track in Otrobanda,
+  the section west of the Queen Emma bridge
 
 TODO:
 
