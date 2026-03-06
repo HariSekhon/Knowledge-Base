@@ -224,7 +224,7 @@ surprisingly still do not speak English.
 
 #### South America
 
-- [Argentina](travel/argentina.md)
+- [Argentina](travel/argentina.md) ⭐
 - [Bolivia](travel/bolivia.md)
 - [Brazil](travel/brazil.md) ⭐ (in-progress)
 - [Chile](travel/chile.md)
