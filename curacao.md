@@ -1,5 +1,21 @@
 # Curacao
 
+<!-- INDEX_START -->
+
+- [Summary](#summary)
+- [Travel in Curacao](#travel-in-curacao)
+- [Willemstad](#willemstad)
+  - [Willemsted Airport](#willemsted-airport)
+  - [Best Areas in Willemstad](#best-areas-in-willemstad)
+  - [Attractions in Punda / Otrobanda](#attractions-in-punda--otrobanda)
+  - [Restaurants in Punda / Otrobanda](#restaurants-in-punda--otrobanda)
+  - [Groceries](#groceries)
+  - [Attractions in Mambo](#attractions-in-mambo)
+
+<!-- INDEX_END -->
+
+## Summary
+
 Breezy sparely populated caribbean island and Dutch colony.
 
 It is expensive and the demographic here tends to be the older crowd.
@@ -107,7 +123,7 @@ Punda TODO:
 
 - [Kome](https://maps.app.goo.gl/Jdemgw3cySanPoqn8) - 4.6
 - [Van Gogh Specialty Coffee & City Roastery](https://maps.app.goo.gl/JuLvYHYwue61Vwmi9) - 4.6
-
+- [Oliva Mediterranean Gastro Bar](https://maps.app.goo.gl/gWYf1yS1peLX8ujx7) - 4.5
 
 Otrobanda TODO:
 
@@ -118,6 +134,10 @@ Otrobanda TODO:
   above it
 - [Maira's Kitchen](https://maps.app.goo.gl/AZ2tbXwdaMDNtDLG9) - 4.5, a short walk off the beaten track in Otrobanda,
   the section west of the Queen Emma bridge
+
+### Groceries
+
+- [Supremos Minisupermarket](https://maps.app.goo.gl/qAJRmyDy97aRFZYq8) - 24 hour grocery store
 
 ### Attractions in Mambo
 
