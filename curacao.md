@@ -60,6 +60,9 @@ I don't remember the last time I paid that much for a taxi except for London.
 - [Queen Emma Bridge](https://maps.app.goo.gl/accwZxqxYSDggGE26) - floating pontoon bridge that moves to the side to let
   cruise ships pass,
   meaning you could have to wait half an hour to re-cross as the alternative route is a very high car bridge
+- [Handelskade](https://maps.app.goo.gl/3zZc56EQojGL94N59) - waterfront road next to Queen Emma Bridge with lots of
+  waterside cafe seating.
+  The tourist places here aren't highly rated, but probably ok to stop for a drink
 - [Curaçao Sign](https://maps.app.goo.gl/cvS6LcztmUi2TsLF6)
 - [Punda Beach Curaçao "Playa Marichi"](https://maps.app.goo.gl/FY2cTbc2RCY1vbL88) - small beach behind a L-shaped pier
   and large rock wall that shields the small beach alcove from the big waves.
