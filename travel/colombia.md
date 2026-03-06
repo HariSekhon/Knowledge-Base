@@ -373,3 +373,4 @@ TODO:
 - [Cartagena](https://maps.app.goo.gl/3upmkG1vPnvyxoN68)
 - [Barranquilla](https://maps.app.goo.gl/a7PJjXLszf5oqxbS8)
 - [Cali](https://maps.app.goo.gl/3nRXm4qSJpD1mK317)
+- [Santa Marta](https://maps.app.goo.gl/pjiSRbN5WxCEcf3o6)
