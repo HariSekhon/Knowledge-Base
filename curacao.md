@@ -83,7 +83,7 @@ I don't remember the last time I paid that much for a taxi except for London.
   The La Boheme XL tenderloin burger is large, and good value on a money-for-calorie basis,
   with fried egg and cheese inside it alone with large sliced beef chunks, although I've had better.
   I ran out of time but they also have a lomo saltado, although that's best done in Peru.
-  Wifi  Mbit/s
+  Wifi 158/22 Mbit/s
 
 TODO:
 
