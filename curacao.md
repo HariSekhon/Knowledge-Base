@@ -4,6 +4,7 @@
 
 - [Summary](#summary)
 - [Travel in Curacao](#travel-in-curacao)
+  - [Taxi Apps](#taxi-apps)
 - [Willemstad](#willemstad)
   - [Willemsted Airport](#willemsted-airport)
   - [Best Areas in Willemstad](#best-areas-in-willemstad)
@@ -32,7 +33,31 @@ This place clearly survives on tourism and not much else.
 
 ## Travel in Curacao
 
-Taxis are expensive
+Taxis are the only option short of renting a car.
+
+Taxis are notoriously expensive.
+
+There are parking meters in Punda, so not sure renting a car is much better if you factor in parking,
+and renting cars is often not cheap either, but apparently renting a car costs the same as two short taxi rides
+(this is true in Dubai in my experience too except the distances are larger there).
+
+### Taxi Apps
+
+There aren't many taxis in Curacao as Uber and InDrive aren't allowed to operate there, making what few taxis there are
+very expensive.
+
+- [24-7 Taxi Curaçao](https://247taxi.cw/en/) - official taxi network app with fixed fares (the driver may charge you
+  extra to use a card), ride tracking, and booking 24/7
+
+- [Kumbai](https://kumbai.io/) - expensive - the lowest tier was \$37 for a ride that was \$26 on 24-7 Taxi
+
+- Click Taxi Curaçao (
+    [Apple App Store](https://apps.apple.com/no/app/click-cura%C3%A7ao-willemstad-taxi/id1478417699) /
+    [Google Android Play Store](https://play.google.com/store/apps/details?id=com.curacao.click.taxi.passenger&hl=en)
+  ) - error that it had no drivers at all
+
+Kumbai and Click have exactly the same onboarding phone number and forms
+which makes me wonder what framework they both built on... ping me if you know!
 
 ## Willemstad
 
