@@ -44,11 +44,17 @@
   is 550 (\$9.30) while others go to over 2000 ($34).
   The basic buho burger was good and reasonably priced and the fries were crispy.
   WiFi 22/11 Mbit/s
+
+Not Recommended:
+
 - [Jalao](https://maps.app.goo.gl/pmTNWPiG6rR1n2tv8) - good view of the Parque Colón and
   and Nuestra Señora de la Encarnación but the service is awful, I spent ages trying to catch the attention of the
   waitress, when they brought my food they gave no cutlery and then I spent ages trying to get someone again to bring
   that.
   They had no physical drinks menu, only online via QR code which didn't work for either the english menu or drinks
   menu.
+  The steak with onions was mediocre, 2 thin strips well done (they didn't ask for how to cook it),
+  and they put some sausage and chicharron with it to fill up the plate with low quality meats that you shouldn't eat because they're bad for your health.
+  The baked coconut cake also wasn't worth the damage.
   The wifi required both a password and a capture acceptance of terms.
   Wifi 29/19 Mbit/s when it works - unstable / unreliable
