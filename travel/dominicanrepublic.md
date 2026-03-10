@@ -70,3 +70,22 @@ Not Recommended:
   you don't need to come to a 3rd world country like this to spend $30 on a meal, plus drinks.
   The wifi required both a password and a capture acceptance of terms.
   Wifi 29/19 Mbit/s when it works - unstable / unreliable
+
+## Punta Cana
+
+Tourist end of the island.
+
+### Best Areas to Stay in Punta Cana
+
+- [Bávaro](https://maps.app.goo.gl/pwPEXCDGk1kYTJKj8) - main tourist area with long white sand beaches, many resorts,
+  restaurants and nightlife
+- [Cap Cana](https://maps.app.goo.gl/6E1hsPu5Xbp6gnAW7) - exclusive gated community with luxury resorts, marina,
+  golf courses and Juanillo Beach
+- [Uvero Alto](https://maps.app.goo.gl/iV9Jn9JqCSCR9ftN6) - quiet northern resort area with wide beaches and fewer
+  crowds
+- [Cabeza de Toro](https://maps.app.goo.gl/AszAV3JVZTtxTptd7) - relaxed fishing village area with calm waters and
+  smaller resorts
+- [Punta El Cortecito](https://maps.app.goo.gl/XfoSQRJzRDfEyNZs8) - walkable beach village with local restaurants,
+  bars and shops
+- [Los Corales](https://maps.app.goo.gl/VGEPxkKcVd23oPuJ7) - popular beachfront neighborhood with condos, beach bars
+  and restaurants
