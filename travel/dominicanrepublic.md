@@ -56,6 +56,12 @@ South East Asia.
 
 Not Recommended:
 
+- [Casa Paco’s](https://maps.app.goo.gl/mFLzoVHxVJSsU7r26) - tourist restaurant that brought my steak overdone on the
+  outside and raw nearly all the way through.
+  I originally bailed on this restaurant but ended up going here with a British friend I made on the main street
+  and it was one of the few places which had electricity due to a nearly 24 hour power outage.
+  Orange juice might have sugar added.
+  Has wifi
 - [Jalao](https://maps.app.goo.gl/pmTNWPiG6rR1n2tv8) - tourist restaurant - just stop for a drink and the view and eat
   somewhere better.
   Good view of the Parque Colón and and Nuestra Señora de la Encarnación but the service is awful,
