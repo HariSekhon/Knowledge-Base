@@ -207,7 +207,7 @@ The only real attraction is Jan Thiel beach, so you only need 1-2 days here.
   The tomato-onion salad was good, and they also have a seaweed salad -
   both are pre-boxed and stored in the refrigerated fish counter which you select your fish from.
   No wifi!
-- [Salú Restaurant & Bar](https://maps.app.goo.gl/GPtxM3YX8ezBCpg66) - pricey but good.
+- [Salú Restaurant & Bar](https://maps.app.goo.gl/GPtxM3YX8ezBCpg66) - resort restaurant, decent but pricey.
   The ceviche is _"Japanese style"_
   which means no tiger milk it is more like a tartare, and small, I would not get this again.
   The chili-chocolate dessert was good, but small.
