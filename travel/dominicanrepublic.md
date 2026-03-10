@@ -25,6 +25,17 @@
 - [Bella Vista](https://maps.app.goo.gl/72F1yFyruKTCVDNQ9) - upmarket leafy upscale suburb to the west located next to
   the the long Mirador Del Sur Joaquín Balaguer Park
 
+### Attractions in Santo Domingo
+
+- [Parque Colón](https://maps.app.goo.gl/hnxDuqArSSCK6PW98)
+  - [Catedral de Nuestra Señora de la Encarnación](https://maps.app.goo.gl/5Mnn52zvhxF5cKZh9)
+- [Blue Mall](https://maps.app.goo.gl/LU9dgezC4HhpvRk99)
+- [Agora Mall](https://maps.app.goo.gl/kvuvrKAWXxWkupKV6)
+- [Novo Centro Mal](https://maps.app.goo.gl/UNBApETM1K3eRPzE6)
+- [Bella Vista Mall](https://maps.app.goo.gl/c3KBkD6ysV33f1ga8)
+- [Mirador Del Sur Joaquín Balaguer Park](https://maps.app.goo.gl/u7QE3kLUVHa4vg7y9)
+- [Malecón de la Av. España](https://maps.app.goo.gl/Gh5zfqwZwKK6HAty7)
+
 ### Restaurants in Santo Domingo
 
 - [El Buho Eatery](https://maps.app.goo.gl/iy1gusiXdsBvQmA96) - good menu variety and nice indoor and covered outdoor
