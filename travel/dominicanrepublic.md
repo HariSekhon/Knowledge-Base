@@ -61,7 +61,8 @@ Not Recommended:
   The steak with onions was mediocre, 2 thin strips well done (they didn't ask for how to cook it),
   and they put some sausage and chicharron with it to fill up the plate with low quality meats that you shouldn't eat
   because they're bad for your health.
-  The baked coconut cake also wasn't worth the damage.
+  The baked coconut cake also wasn't worth the sugar health damage - I didn't even finish it, and I usually love my
+  desserts.
   Overall this place was not worth the cost,
   you don't need to come to a 3rd world country like this to spend $30 on a meal, plus drinks.
   The wifi required both a password and a capture acceptance of terms.
