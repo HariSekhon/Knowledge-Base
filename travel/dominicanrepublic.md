@@ -4,6 +4,7 @@
 
 - [Santo Domingo](#santo-domingo)
   - [Best Areas to Stay in Santo Domingo](#best-areas-to-stay-in-santo-domingo)
+  - [Attractions in Santo Domingo](#attractions-in-santo-domingo)
   - [Restaurants in Santo Domingo](#restaurants-in-santo-domingo)
 
 <!-- INDEX_END -->
