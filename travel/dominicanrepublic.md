@@ -57,7 +57,8 @@ South East Asia.
 Not Recommended:
 
 - [Casa Paco’s](https://maps.app.goo.gl/mFLzoVHxVJSsU7r26) - tourist restaurant that brought my steak overdone on the
-  outside and raw nearly all the way through.
+  outside and raw nearly all the way through - I've never seen a steak un-cooked so badly.
+  My friend said I should send it back but the outside was already blackened I didn't want it burnt.
   I originally bailed on this restaurant but ended up going here with a British friend I made on the main street
   and it was one of the few places which had electricity due to a nearly 24 hour power outage.
   Orange juice might have sugar added.
