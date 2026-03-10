@@ -1,0 +1,42 @@
+# Dominican Republic
+
+<!-- INDEX_START -->
+
+- [Santo Domingo](#santo-domingo)
+  - [Best Areas to Stay in Santo Domingo](#best-areas-to-stay-in-santo-domingo)
+  - [Restaurants in Santo Domingo](#restaurants-in-santo-domingo)
+
+<!-- INDEX_END -->
+
+## Santo Domingo
+
+### Best Areas to Stay in Santo Domingo
+
+- [Zona Colonial](https://maps.app.goo.gl/k9DHYXYYU8vTDMRQA) - historic centre,
+  UNESCO district with walkable streets, colonial architecture, restaurants, bars, and major landmarks
+- [Piantini](https://maps.app.goo.gl/qBuvuGVaskhUR9Mo9) - modern upmarket district with the Blue Mall, luxury hotels,
+  corporate offices, and high-end restaurants
+- [Ensanche Naco](https://maps.app.goo.gl/KAJoeZnhPfhe7tDK6) - central commercial neighborhood next to Piantini with
+  hotels, malls and restaurants
+- [Gazcue](https://maps.app.goo.gl/EzGote82gFQMqt638) - quiet historic residential area near Zona Colonial with
+  leafy streets and art-deco buildings near the National Palace
+- [El Malecón](https://www.google.com/maps/search/?api=1&query=Malecon+Santo+Domingo) - Vibrant waterfront boulevard
+  offering ocean views and major hotel chains, but this is on the wrong side of town to the above areas
+- [Bella Vista](https://maps.app.goo.gl/72F1yFyruKTCVDNQ9) - upmarket leafy upscale suburb to the west located next to
+  the the long Mirador Del Sur Joaquín Balaguer Park
+
+### Restaurants in Santo Domingo
+
+- [El Buho Eatery](https://maps.app.goo.gl/iy1gusiXdsBvQmA96) - good menu variety and nice indoor and covered outdoor
+  seating area in the back but there is a big swing in prices between main menu items - for example a burger and fries
+  is 550 (\$9.30) while others go to over 2000 ($34).
+  The basic buho burger was good and reasonably priced and the fries were crispy.
+  WiFi 22/11 Mbit/s
+- [Jalao](https://maps.app.goo.gl/pmTNWPiG6rR1n2tv8) - good view of the Parque Colón and
+  and Nuestra Señora de la Encarnación but the service is awful, I spent ages trying to catch the attention of the
+  waitress, when they brought my food they gave no cutlery and then I spent ages trying to get someone again to bring
+  that.
+  They had no physical drinks menu, only online via QR code which didn't work for either the english menu or drinks
+  menu.
+  The wifi required both a password and a capture acceptance of terms.
+  Wifi 29/19 Mbit/s when it works - unstable / unreliable
