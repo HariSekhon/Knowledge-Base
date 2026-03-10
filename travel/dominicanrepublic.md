@@ -38,6 +38,7 @@ South East Asia.
 
 - [Parque Colón](https://maps.app.goo.gl/hnxDuqArSSCK6PW98)
   - [Catedral de Nuestra Señora de la Encarnación](https://maps.app.goo.gl/5Mnn52zvhxF5cKZh9)
+- [Puerta del Conde](https://maps.app.goo.gl/cLw5odZh51Yj16aU6)
 - [Blue Mall](https://maps.app.goo.gl/LU9dgezC4HhpvRk99)
 - [Agora Mall](https://maps.app.goo.gl/kvuvrKAWXxWkupKV6)
 - [Novo Centro Mal](https://maps.app.goo.gl/UNBApETM1K3eRPzE6)
