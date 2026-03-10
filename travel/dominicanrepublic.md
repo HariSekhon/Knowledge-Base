@@ -52,12 +52,14 @@ A 3rd world country - I am not sure why I came here - travel advice is propagand
 
 Not Recommended:
 
-- [Jalao](https://maps.app.goo.gl/pmTNWPiG6rR1n2tv8) - good view of the Parque Colón and
-  and Nuestra Señora de la Encarnación but the service is awful, I spent ages trying to catch the attention of the
-  waitress, when they brought my food they gave no cutlery and then I spent ages trying to get someone again to bring
-  that.
-  They had no physical drinks menu, only online via QR code which didn't work for either the english menu or drinks
-  menu.
+- [Jalao](https://maps.app.goo.gl/pmTNWPiG6rR1n2tv8) - tourist restaurant - just stop for a drink and the view and eat
+  somewhere better.
+  Good view of the Parque Colón and and Nuestra Señora de la Encarnación but the service is awful,
+  I spent ages trying to catch the attention of the waitress, when they brought my food they gave no cutlery and
+  then I spent ages trying to get someone again to bring that.
+  They even brought dessert without a spoon and I had to again request that.
+  They had no physical drinks menu, only online via QR code which didn't work for either the english food menu or the
+  drinks menu.
   The steak with onions was mediocre, 2 thin strips well done (they didn't ask for how to cook it),
   and they put some sausage and chicharron with it to fill up the plate with low quality meats that you shouldn't eat
   because they're bad for your health.
