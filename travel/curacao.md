@@ -188,6 +188,8 @@ The peninsula near Jan Thiel beach is full of large gated villas with `Jan Thiel
 
 #### Attractions in Jan Thiel
 
+The only real attraction is Jan Thiel beach, so you only need 1-2 days here.
+
 - [Jan Thiel Beach](https://maps.app.goo.gl/6EiQHvWqjvGYLcz18) - this is where all the rich white people are. The beach has a selection of mid-rating
   tourist trap restaurants (probably due to price) and an infinity pool looking out over the sunset.
   This is the only beach worth going to - the other ones on the South East are undeveloped with few people
