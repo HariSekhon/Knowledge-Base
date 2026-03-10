@@ -54,7 +54,8 @@ Not Recommended:
   They had no physical drinks menu, only online via QR code which didn't work for either the english menu or drinks
   menu.
   The steak with onions was mediocre, 2 thin strips well done (they didn't ask for how to cook it),
-  and they put some sausage and chicharron with it to fill up the plate with low quality meats that you shouldn't eat because they're bad for your health.
+  and they put some sausage and chicharron with it to fill up the plate with low quality meats that you shouldn't eat
+  because they're bad for your health.
   The baked coconut cake also wasn't worth the damage.
   The wifi required both a password and a capture acceptance of terms.
   Wifi 29/19 Mbit/s when it works - unstable / unreliable
