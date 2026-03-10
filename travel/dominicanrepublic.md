@@ -2,12 +2,17 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
 - [Santo Domingo](#santo-domingo)
   - [Best Areas to Stay in Santo Domingo](#best-areas-to-stay-in-santo-domingo)
   - [Attractions in Santo Domingo](#attractions-in-santo-domingo)
   - [Restaurants in Santo Domingo](#restaurants-in-santo-domingo)
 
 <!-- INDEX_END -->
+
+## Summary
+
+A 3rd world country - I am not sure why I came here - travel advice is propaganda.
 
 ## Santo Domingo
 
@@ -57,5 +62,7 @@ Not Recommended:
   and they put some sausage and chicharron with it to fill up the plate with low quality meats that you shouldn't eat
   because they're bad for your health.
   The baked coconut cake also wasn't worth the damage.
+  Overall this place was not worth the cost,
+  you don't need to come to a 3rd world country like this to spend $30 on a meal, plus drinks.
   The wifi required both a password and a capture acceptance of terms.
   Wifi 29/19 Mbit/s when it works - unstable / unreliable
