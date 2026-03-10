@@ -191,7 +191,8 @@ The peninsula near Jan Thiel beach is full of large gated villas with `Jan Thiel
 - [Jan Thiel Beach](https://maps.app.goo.gl/6EiQHvWqjvGYLcz18) - this is where all the rich white people are. The beach has a selection of mid-rating
   tourist trap restaurants (probably due to price) and an infinity pool looking out over the sunset.
   This is the only beach worth going to - the other ones on the South East are undeveloped with few people
-- [Fort Beekenburg](https://maps.app.goo.gl/E2XGuL594WfkJZVSA) - I'd skip this next time
+- [Fort Beekenburg](https://maps.app.goo.gl/E2XGuL594WfkJZVSA) - nothing special and not much around here, I'd skip this
+  next time if short on time and just focus on Jan Thiel beach
 - [I ❤️ Curaçao](https://maps.app.goo.gl/bJDTqBvf8TX9VAZH6) - sign on a cliff, on an otherwise uneventful residential
   road
 
