@@ -98,7 +98,7 @@ I don't remember the last time I paid that much for a taxi except for London.
 - [Bed & Bike Jan Thiel](https://maps.app.goo.gl/S7WrPY39xQdbwQccA) - nicer, has pool and kitchen. Wifi ok
 - [Bed & Bike Pietermaai](https://maps.app.goo.gl/QpH5wawrju87q28PA)
 - [The Ritz Village](https://maps.app.goo.gl/152wzkJaWh3YUS4r8) - not as good as the pics, pretty basic, and
-  under-populated. Would not stay here again. Wifi 6/19 Mbit/s
+  under-populated. It's a couple blocks further out than Bed & Bike. Would not stay here again. Wifi 6/19 Mbit/s
 
 -->
 
