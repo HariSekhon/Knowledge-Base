@@ -212,8 +212,9 @@ The only real attraction is Jan Thiel beach, so you only need 1-2 days here.
   which means no tiger milk it is more like a tartare, and small, I would not get this again.
   The chili-chocolate dessert was good, but small.
   The virgin pina colada was good, but then that's always good.
-  The fresh orange juice came in a wine glass and was not worthwhile.
-  Has wifi
+  The fresh orange juice came in a wine glass only 1/5th filled like it was precious wine or something -
+  that was not worthwhile.
+  Wifi 18/19 Mbit/s
 
 TODO:
 
