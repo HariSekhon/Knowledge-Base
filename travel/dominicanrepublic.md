@@ -7,6 +7,8 @@
   - [Best Areas to Stay in Santo Domingo](#best-areas-to-stay-in-santo-domingo)
   - [Attractions in Santo Domingo](#attractions-in-santo-domingo)
   - [Restaurants in Santo Domingo](#restaurants-in-santo-domingo)
+- [Punta Cana](#punta-cana)
+  - [Best Areas to Stay in Punta Cana](#best-areas-to-stay-in-punta-cana)
 
 <!-- INDEX_END -->
 
