@@ -12,7 +12,8 @@
 
 ## Summary
 
-A 3rd world country - I am not sure why I came here - travel advice is propaganda.
+A 3rd world country - I am not sure why I came here - travel advice is propaganda and it's not even cheap like
+South East Asia.
 
 ## Santo Domingo
 
