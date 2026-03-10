@@ -189,7 +189,11 @@ The peninsula near Jan Thiel beach is full of large gated villas with `Jan Thiel
 #### Attractions in Jan Thiel
 
 - [Jan Thiel Beach](https://maps.app.goo.gl/6EiQHvWqjvGYLcz18) - this is where all the rich white people are. The beach has a selection of mid-rating
-  tourist trap restaurants (probably due to price) and an infinity pool looking out over the sunset
+  tourist trap restaurants (probably due to price) and an infinity pool looking out over the sunset.
+  This is the only beach worth going to - the other ones on the South East are undeveloped with few people
+- [Fort Beekenburg](https://maps.app.goo.gl/E2XGuL594WfkJZVSA) - I'd skip this next time
+- [I ❤️ Curaçao](https://maps.app.goo.gl/bJDTqBvf8TX9VAZH6) - sign on a cliff, on an otherwise uneventful residential
+  road
 
 #### Restaurants in Jan Thiel
 
@@ -209,7 +213,9 @@ The peninsula near Jan Thiel beach is full of large gated villas with `Jan Thiel
 
 TODO:
 
+- [Surfcafe Tank 14](https://maps.app.goo.gl/53N8oPwuKuaUTS9p8) - 5.0, closes early
 - [Koko's](https://maps.app.goo.gl/uG65eeTTkAZuRHTM6) - 4.5
+- [Brgr Haus Caracasbaai](https://maps.app.goo.gl/3mPv2pBrkUdq3XVQ6) - 4.4
 
 #### Groceries in Jan Thiel
 
