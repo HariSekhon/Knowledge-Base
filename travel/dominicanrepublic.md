@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Taxi Apps](#taxi-apps)
 - [Santo Domingo](#santo-domingo)
   - [Best Areas to Stay in Santo Domingo](#best-areas-to-stay-in-santo-domingo)
   - [Attractions in Santo Domingo](#attractions-in-santo-domingo)
@@ -14,8 +15,31 @@
 
 ## Summary
 
-A 3rd world country - I am not sure why I came here - travel advice is propaganda and it's not even cheap like
-South East Asia.
+Dominican Republic is a 3rd world country - I am not sure why anyone would want to come here compared to Europe or Asia.
+
+Travel advice is clearly propaganda - it's not even cheap here like South East Asia.
+
+**Don't waste your money coming here.**
+
+This is a lazy low IQ country - everywhere I went people were unmotivated to even do their basic jobs,
+could barely read Google Translate or understand basic requests, unhelpful in asking for things,
+and only barely even doing their jobs, whether that's accommodation check-ins or solving problems with accommodation,
+restaurant staff not bringing cutlery so your food is going cold, looking straight over your waving hand for minutes or
+not coming out to check on the courtyard full of diners,
+taxi drivers not giving change etc and on top of that getting mean mugged in many places as you gawk at the state of
+this country.
+
+## Taxi Apps
+
+My first taxi driver drove off without giving me change on 1000 for the 600 ride.
+
+This became a recurring theme with all taxi drivers I used in Santo Domingo.
+
+Have exact change ready if using InDrive which needs cash.
+
+- InDrive - usually cheaper than Uber, or where Uber won't pick up a job, InDrive will more quickly because the locals
+  prefer cash instead of app card payments (probably to avoid app fees and taxes)
+- Uber
 
 ## Santo Domingo
 
