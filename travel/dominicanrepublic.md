@@ -32,6 +32,9 @@ not coming out to check on the courtyard full of diners,
 taxi drivers never giving change etc and on top of that getting mean mugged as you walk around gawking at the state of
 this country.
 
+The currency is the Dominican peso which is as of March 2026 roughly 60 per \$1 or 80 per \£1 -
+these exchange rates sound good until you see main dishes priced at 2000 pesos.
+
 ## Taxi Apps
 
 My first taxi driver drove off without giving me change on 1000 for the 600 ride.
@@ -88,7 +91,16 @@ Not Recommended:
   is 550 (\$9.30) while others go to over 2000 ($34).
   The basic buho burger was good and reasonably priced and the fries were crispy.
   WiFi 22/11 Mbit/s
-- []
+- [Laurels](https://maps.app.goo.gl/9Udndr4dP2k248j79) - upmarket restaurant with a good menu range but the steaks are
+  a bit pricey for this country at 2000+ pesos ($33+), so I went with the burger for \$14 which was a good size but
+  unfortunately didn't really taste of anything, very mediocre.
+  The fries were basic french fries with nothing do to them which came like warm - below average - surprising for such a
+  nice looking restaurant.
+  I also tried the mahi ceviche was was mediocre too, nowhere near the quality of the tiger milk ones I'd had across
+  Latin America, and I left most of the long plaintain chips - this was not worth the cost.
+  If you want the experience, I'm guessing either you need to go for an expensive steak or perhaps just stop by for a
+  drink and eat somewhere else.
+  WiFi 86/93 Mbit/s
 
 Not Recommended:
 
@@ -135,3 +147,8 @@ Tourist end of the island.
   bars and shops
 - [Los Corales](https://maps.app.goo.gl/VGEPxkKcVd23oPuJ7) - popular beachfront neighborhood with condos, beach bars
   and restaurants
+
+### Restaurants in Punta Cana
+
+- [Castaways Bistro](https://maps.app.goo.gl/9Udndr4dP2k248j79)
+  Wifi 168/44 Mbit/s
