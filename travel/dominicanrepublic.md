@@ -63,12 +63,16 @@ Have exact change ready if using InDrive which needs cash.
 - [Parque Colón](https://maps.app.goo.gl/hnxDuqArSSCK6PW98)
   - [Catedral de Nuestra Señora de la Encarnación](https://maps.app.goo.gl/5Mnn52zvhxF5cKZh9)
 - [Puerta del Conde](https://maps.app.goo.gl/cLw5odZh51Yj16aU6)
-- [Blue Mall](https://maps.app.goo.gl/LU9dgezC4HhpvRk99)
+- [Blue Mall](https://maps.app.goo.gl/LU9dgezC4HhpvRk99) - upmarket fashion mall
 - [Agora Mall](https://maps.app.goo.gl/kvuvrKAWXxWkupKV6)
-- [Novo Centro Mal](https://maps.app.goo.gl/UNBApETM1K3eRPzE6)
 - [Bella Vista Mall](https://maps.app.goo.gl/c3KBkD6ysV33f1ga8)
 - [Mirador Del Sur Joaquín Balaguer Park](https://maps.app.goo.gl/u7QE3kLUVHa4vg7y9)
 - [Malecón de la Av. España](https://maps.app.goo.gl/Gh5zfqwZwKK6HAty7)
+
+Not Recommended:
+
+- [Novo Centro Mal](https://maps.app.goo.gl/UNBApETM1K3eRPzE6) - there is almost nothing in here, one supplement store
+  on the ground floor, one optician and a few medical clinics on the upper floor
 
 ### Restaurants in Santo Domingo
 
