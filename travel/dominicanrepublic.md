@@ -63,9 +63,12 @@ Have exact change ready if using InDrive which needs cash.
 - [Parque Colón](https://maps.app.goo.gl/hnxDuqArSSCK6PW98)
   - [Catedral de Nuestra Señora de la Encarnación](https://maps.app.goo.gl/5Mnn52zvhxF5cKZh9)
 - [Puerta del Conde](https://maps.app.goo.gl/cLw5odZh51Yj16aU6)
-- [Blue Mall](https://maps.app.goo.gl/LU9dgezC4HhpvRk99) - upmarket fashion mall
+- [Blue Mall](https://maps.app.goo.gl/LU9dgezC4HhpvRk99) - upmarket fashion mall with the most expensive designer brands
+  and expensive Mercedes cars on display.
+  The top floor has a small food court with Yogen Fruz frozen yoghurt - although all the malls seem to have this
 - [Agora Mall](https://maps.app.goo.gl/kvuvrKAWXxWkupKV6)
-- [Bella Vista Mall](https://maps.app.goo.gl/c3KBkD6ysV33f1ga8)
+- [Bella Vista Mall](https://maps.app.goo.gl/c3KBkD6ysV33f1ga8) - mid sized mall with international brands but not as
+  expensive designer ones as Blue Mall
 - [Mirador Del Sur Joaquín Balaguer Park](https://maps.app.goo.gl/u7QE3kLUVHa4vg7y9)
 - [Malecón de la Av. España](https://maps.app.goo.gl/Gh5zfqwZwKK6HAty7)
 
