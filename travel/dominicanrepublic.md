@@ -150,5 +150,8 @@ Tourist end of the island.
 
 ### Restaurants in Punta Cana
 
-- [Castaways Bistro](https://maps.app.goo.gl/9Udndr4dP2k248j79)
+- [Castaways Bistro](https://maps.app.goo.gl/9Udndr4dP2k248j79) - finally the first restaurant at European standards
+  after days of being in the Dominican Republic.
+  The pan seared grouper fish with herbs & garlic in tomato sauce, black olive and over roast potato cubes was decent,
+  although served in a big white bowl it wasn't big enough for me.
   Wifi 168/44 Mbit/s
