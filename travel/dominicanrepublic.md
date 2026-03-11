@@ -17,9 +17,12 @@
 
 Dominican Republic is a 3rd world country - I am not sure why anyone would want to come here compared to Europe or Asia.
 
-Travel advice is clearly propaganda - it's not even cheap here like South East Asia.
+This is not a foodie destination either - most of the restaurants here even at Western prices have dissapointed me.
 
-**Don't waste your money coming here.**
+Travel advice is clearly propaganda - it's not even cheap here like South East Asia as things are Western tourist priced
+in both Santo Domingo and Punta Cana.
+
+**Don't waste your money coming here - you can eat and live better for the same money wherever you are.**
 
 This is a lazy low IQ country - everywhere I went people were unmotivated to even do their basic jobs,
 could barely read Google Translate or understand basic requests, unhelpful in asking for things,
@@ -85,6 +88,7 @@ Not Recommended:
   is 550 (\$9.30) while others go to over 2000 ($34).
   The basic buho burger was good and reasonably priced and the fries were crispy.
   WiFi 22/11 Mbit/s
+- []
 
 Not Recommended:
 
