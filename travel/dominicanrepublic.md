@@ -26,7 +26,7 @@ could barely read Google Translate or understand basic requests, unhelpful in as
 and only barely even doing their jobs, whether that's accommodation check-ins or solving problems with accommodation,
 restaurant staff not bringing cutlery so your food is going cold, looking straight over your waving hand for minutes or
 not coming out to check on the courtyard full of diners,
-taxi drivers not giving change etc and on top of that getting mean mugged in many places as you gawk at the state of
+taxi drivers never giving change etc and on top of that getting mean mugged as you walk around gawking at the state of
 this country.
 
 ## Taxi Apps
