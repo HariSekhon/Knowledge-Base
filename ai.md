@@ -423,6 +423,7 @@ Video generation AIs:
 - [Canva](https://www.canva.com/)
 - Sora by OpenAI
 - Veo-2 by Google
+- Luma Ray 3 - high quality and consistency reported
 
 <!-- -->
 
@@ -430,7 +431,6 @@ Video generation AIs:
 - Runway Gen-3
 - Alibaba Cloud Wanx
 - Pika
-- Luma Ray 2
 - Hailuo T2V-01
 
 <!--
