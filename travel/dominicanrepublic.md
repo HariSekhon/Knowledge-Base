@@ -195,5 +195,9 @@ Tourist trap beach town on the East of the island.
   in every bit I absolutely destroyed this dessert and scraped the plate.
   I would come back just for this dessert.
   Wifi 168/44 Mbit/s
-- [Burger Siglo XIV](https://maps.app.goo.gl/aKdfjt7KjRcbDhqe8)
+- [Burger Siglo XIV](https://maps.app.goo.gl/aKdfjt7KjRcbDhqe8) -
+  the sweet bacon burger with maple glazed bacon was actually quite good with a sweet tinge,
+  although there was a fair amount of bacon fat - I would not recommend it for someone watching their diet.
+  I originally tried to go with the chicken burger than was grilled,
+  not the deep fried battered one, but they had run out of avocado, something to try next time perhaps.
   Wifi 126/21 Mbit/s
