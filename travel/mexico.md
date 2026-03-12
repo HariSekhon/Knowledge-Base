@@ -35,7 +35,7 @@
     - [Restaurants in Cancun](#restaurants-in-cancun)
   - [Chichen Itza](#chichen-itza)
   - [Isla Mujeres](#isla-mujeres)
-  - [Areas Yet to Explore](#areas-yet-to-explore)
+- [Areas Yet to Explore](#areas-yet-to-explore)
 
 <!-- INDEX_END -->
 
@@ -890,7 +890,7 @@ They say 1 hour isn’t enough to get to the south point of the island and back,
 
 As the sun goes down the 6:30pm ferry will be so full you’ll probably have to queue and one will leave full without you, so expect an extra half an hour queueing time at that peak exodus time as the beach empties after sunset.
 
-### Areas Yet to Explore
+## Areas Yet to Explore
 
 - [Tulum](https://maps.app.goo.gl/QJi6WPDLcgmfGEGL7) - Coastal town with a ruins of a Mayan port city
 - [Puerto Vallarta](https://maps.app.goo.gl/GkyC1Qunvw9NN2uy7)
