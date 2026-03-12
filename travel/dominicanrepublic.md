@@ -19,15 +19,29 @@
 
 Dominican Republic is a 3rd world country - I am not sure why anyone would want to come here compared to Europe or Asia.
 
-This is not a foodie destination either and is relatively expensive compared to many of the Latin countries due to be
-tourist priced.
-Most of the restaurants in the Dominican Republic, even at Western prices, have dissapointed me,
-so this country ranks very low on my global index of food tourism.
+The currency is the Dominican peso which is as of March 2026 roughly 60 per \$1 or 80 per \£1 -
+these exchange rates sound good until you see main dishes priced at 2000 pesos.
+
+Dominican Republic is in my opinion poor value for money in both accommodation and restaurants in the global scheme of
+the things compared to many other countries in hindsight after having travelled to many dozens of countries.
 
 Travel advice is clearly propaganda - it's not even cheap here like South East Asia as things are Western tourist priced
 in both Santo Domingo and Punta Cana.
 
 **Don't waste your money coming here - you can eat and live better for the same money wherever you are.**
+
+## Food & Prices
+
+This is not a foodie destination either and is relatively expensive compared to many of the Latin countries due to being
+tourist priced.
+
+Most of the restaurants in the Dominican Republic, even at Western prices, have disappointed me in quality,
+so this country ranks very low on my global index of food tourism.
+
+Prices also often end up 28% higher than advertised on menus due to 18% ITBIS
+(value added sales tax for the government) as well as 10% government mandated service charge for the staff.
+
+## Service & Attitudes
 
 This is a lazy low IQ country - everywhere I went people were unmotivated to even do their basic jobs,
 could barely read Google Translate or understand basic requests, unhelpful in asking for things,
@@ -36,9 +50,6 @@ restaurant staff not bringing cutlery so your food is going cold, looking straig
 not coming out to check on the courtyard full of diners,
 taxi drivers never giving change etc and on top of that getting mean mugged as you walk around gawking at the state of
 this country.
-
-The currency is the Dominican peso which is as of March 2026 roughly 60 per \$1 or 80 per \£1 -
-these exchange rates sound good until you see main dishes priced at 2000 pesos.
 
 When getting mean mugged passing by local africans,
 another traveller a bit more familiar with the DR made the observation
