@@ -21,7 +21,8 @@ Dominican Republic is a 3rd world country - I am not sure why anyone would want 
 
 This is not a foodie destination either and is relatively expensive compared to many of the Latin countries due to be
 tourist priced.
-Most of the restaurants in the Dominican Republic, even at Western prices, have dissapointed me.
+Most of the restaurants in the Dominican Republic, even at Western prices, have dissapointed me,
+so this country ranks very low on my global index of food tourism.
 
 Travel advice is clearly propaganda - it's not even cheap here like South East Asia as things are Western tourist priced
 in both Santo Domingo and Punta Cana.
