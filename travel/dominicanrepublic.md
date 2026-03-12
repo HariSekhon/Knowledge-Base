@@ -146,7 +146,7 @@ Not Recommended:
 
 ## Punta Cana
 
-Tourist end of the island.
+Tourist trap beach town on the East of the island.
 
 ### Best Areas to Stay in Punta Cana
 
