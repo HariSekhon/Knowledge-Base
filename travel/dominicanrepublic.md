@@ -40,6 +40,12 @@ this country.
 The currency is the Dominican peso which is as of March 2026 roughly 60 per \$1 or 80 per \£1 -
 these exchange rates sound good until you see main dishes priced at 2000 pesos.
 
+When getting mean mugged passing by local africans,
+another traveller a bit more familiar with the DR made the observation
+that some of the less reputable local looking people are likely actually immigrants from the neighbouring Haiti,
+a country which is notoriously higher crime and I decided to skip on my Caribbean tour after a discussion with a local
+native taxi driver in [Curacao](curacao.md).
+
 ## Population
 
 The population is mainly african descended or african-mix and the birth rate is nearly double that of Europeans.
