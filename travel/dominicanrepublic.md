@@ -21,6 +21,10 @@
 
 Dominican Republic is a 3rd world country - I am not sure why anyone would want to come here compared to Europe or Asia.
 
+The first night there was a nearly 24 hour power cut in Santo Domingo,
+many of the restaurants in the area were closed as they didn't have power,
+only one or two of the most tourist trap ones were open off generators.
+
 The currency is the Dominican peso which is as of March 2026 roughly 60 per \$1 or 80 per \£1 -
 these exchange rates sound good until you see main dishes priced at 2000 pesos.
 
@@ -30,7 +34,8 @@ the things compared to many other countries in hindsight after having travelled 
 Travel advice is clearly propaganda - it's not even cheap here like South East Asia as things are Western tourist priced
 in both Santo Domingo and Punta Cana.
 
-**Don't waste your money coming here - you can eat and live better for the same money wherever you are.**
+**Don't waste your money coming here - you can eat and live better for the same money wherever you are, especially if**
+**you are saving on travel costs like flights and accommodation.**
 
 ## Food & Prices
 
@@ -56,7 +61,7 @@ this country.
 When getting mean mugged passing by local africans,
 another traveller a bit more familiar with the DR made the observation
 that some of the less reputable local looking people are likely actually immigrants from the neighbouring Haiti,
-a country which is notoriously higher crime and I decided to skip on my Caribbean tour after a discussion with a local
+a country which is notoriously higher crime which I decided to skip on my Caribbean tour after a discussion with a local
 native taxi driver in [Curacao](curacao.md).
 
 ## Population
@@ -65,7 +70,7 @@ The population is mainly african descended or african-mix and the birth rate is 
 
 [![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~DOM)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~DOM)
 
-Although the birth rate has come down from 8 children per woman to a bit 2.2,
+Although the birth rate has come down from 8 children per woman to 2.2,
 the population is still growing and will for the foreseeable future years and decades by the look of it:
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~DOM)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~DOM)
@@ -98,6 +103,14 @@ Have exact change ready if using InDrive which needs cash.
   offering ocean views and major hotel chains, but this is on the wrong side of town to the above areas
 - [Bella Vista](https://maps.app.goo.gl/72F1yFyruKTCVDNQ9) - upmarket leafy upscale suburb to the west located next to
   the the long Mirador Del Sur Joaquín Balaguer Park
+
+<!--
+
+- [Hotel Colonial Blanco](https://maps.app.goo.gl/3hHi3Po6E2Z5aSVt9) - one of the worst places I ever stayed,
+  do not stay here again.
+  Wifi 9/86 Mbit/s
+
+-->
 
 ### Attractions in Santo Domingo
 
@@ -182,6 +195,16 @@ Tourist trap beach town on the East of the island.
   bars and shops
 - [Los Corales](https://maps.app.goo.gl/VGEPxkKcVd23oPuJ7) - popular beachfront neighborhood with condos, beach bars
   and restaurants
+
+<!--
+
+- [Punta Cana Hostel](https://maps.app.goo.gl/RxLBwqLB2ywgCeC19) - not great, but not terrible either,
+  especially compared to the 3rd world place I stayed at in Santo Domingo.
+  The bathroom was decent, had a toilet seat and had hot water, which was more than could be said for
+  Hotel Colonial Blanco in Santo Domingo
+   Wifi 86/94 Mbit/s
+
+-->
 
 ### Restaurants in Punta Cana
 
