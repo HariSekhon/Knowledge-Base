@@ -892,5 +892,5 @@ As the sun goes down the 6:30pm ferry will be so full you’ll probably have to 
 
 ## Areas Yet to Explore
 
-- [Tulum](https://maps.app.goo.gl/QJi6WPDLcgmfGEGL7) - Coastal town with a ruins of a Mayan port city
+- [Tulum](https://maps.app.goo.gl/QJi6WPDLcgmfGEGL7) - coastal town near Cancun with a ruins of a Mayan port city
 - [Puerto Vallarta](https://maps.app.goo.gl/GkyC1Qunvw9NN2uy7)
