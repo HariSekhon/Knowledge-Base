@@ -46,7 +46,8 @@ The population is mainly african descended or african-mix and the birth rate is 
 
 [![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~DOM)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~DOM)
 
-The population is still climbing though:
+Although the birth rate has come down from 8 children per woman to a bit 2.2,
+the population is still growing and will for the foreseeable future years and decades by the look of it:
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~DOM)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~DOM)
 
