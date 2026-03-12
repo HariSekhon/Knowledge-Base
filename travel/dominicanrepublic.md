@@ -167,8 +167,13 @@ Tourist trap beach town on the East of the island.
 
 - [Castaways Bistro](https://maps.app.goo.gl/9Udndr4dP2k248j79) - finally the first restaurant at European standards
   after days of being in the Dominican Republic.
-  The pan seared grouper fish with herbs & garlic in tomato sauce, black olive and over roast potato cubes was decent,
-  although served in a big white bowl it wasn't big enough for me.
+  The pan seared grouper fish with herbs & garlic in tomato sauce, black olive and oven roast slightly crispy potato
+  cubes was decent, although served in a big white bowl, it wasn't big enough for me.
+  The southern chocolate cake with ice cream is one of their signature desserts
+  pictured on their menu and it did not disappoint, it was worth the damage.
+  It came slightly warm and just the right amount of moreish sweetness and texture and when combined with the ice cream
+  in every bit I absolutely destroyed this dessert and scraped the plate.
+  I would come back just for this dessert.
   Wifi 168/44 Mbit/s
 - [Burger Siglo XIV](https://maps.app.goo.gl/aKdfjt7KjRcbDhqe8)
   Wifi 126/21 Mbit/s
