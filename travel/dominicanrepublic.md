@@ -170,3 +170,5 @@ Tourist trap beach town on the East of the island.
   The pan seared grouper fish with herbs & garlic in tomato sauce, black olive and over roast potato cubes was decent,
   although served in a big white bowl it wasn't big enough for me.
   Wifi 168/44 Mbit/s
+- [Burger Siglo XIV](https://maps.app.goo.gl/aKdfjt7KjRcbDhqe8)
+  Wifi 126/21 Mbit/s
