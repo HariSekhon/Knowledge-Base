@@ -3,6 +3,8 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Food & Prices](#food--prices)
+- [Service & Attitudes](#service--attitudes)
 - [Population](#population)
 - [Taxi Apps](#taxi-apps)
 - [Santo Domingo](#santo-domingo)
