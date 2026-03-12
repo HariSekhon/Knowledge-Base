@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Population](#population)
 - [Taxi Apps](#taxi-apps)
 - [Santo Domingo](#santo-domingo)
   - [Best Areas to Stay in Santo Domingo](#best-areas-to-stay-in-santo-domingo)
@@ -10,6 +11,7 @@
   - [Restaurants in Santo Domingo](#restaurants-in-santo-domingo)
 - [Punta Cana](#punta-cana)
   - [Best Areas to Stay in Punta Cana](#best-areas-to-stay-in-punta-cana)
+  - [Restaurants in Punta Cana](#restaurants-in-punta-cana)
 
 <!-- INDEX_END -->
 
@@ -34,6 +36,16 @@ this country.
 
 The currency is the Dominican peso which is as of March 2026 roughly 60 per \$1 or 80 per \£1 -
 these exchange rates sound good until you see main dishes priced at 2000 pesos.
+
+## Population
+
+The population is mainly african descended or african-mix and the birth rate is nearly double that of Europeans.
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~DOM)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~DOM)
+
+The population is still climbing though:
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~DOM)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~DOM)
 
 ## Taxi Apps
 
