@@ -17,6 +17,7 @@
   - [Taxis in Montanita](#taxis-in-montanita)
   - [Attractions in Montanita](#attractions-in-montanita)
   - [Restaurants in Montanita](#restaurants-in-montanita)
+- [Areas to Avoid](#areas-to-avoid)
 
 <!-- INDEX_END -->
 
@@ -285,3 +286,10 @@ TODO:
   evenings I went
 - [Los Helechos](https://maps.app.goo.gl/ZnghiuZazzABuw6j9) - 4.9 but few reviews
 - [Juancho Panza](https://maps.app.goo.gl/kdUsMDN5ra5CdvtP7) - 4.8 but unhealthy porky style
+
+## Areas to Avoid
+
+- [Guayaquil](https://maps.app.goo.gl/sKyk8aQzUBjabaZ4A) - widely regarded as dangerous by people I spoke to -
+  supported by stats -
+  it is ranked 3rd most dangerous city in Latin America for violence by non-state armed groups'
+  (gangs / drug cartels) in 2024, behind only Rio de Janeiro and Salvador in Brazil
