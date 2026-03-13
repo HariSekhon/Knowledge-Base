@@ -292,4 +292,5 @@ TODO:
 - [Guayaquil](https://maps.app.goo.gl/sKyk8aQzUBjabaZ4A) - widely regarded as dangerous by people I spoke to -
   supported by stats -
   it is ranked 3rd most dangerous city in Latin America for violence by non-state armed groups'
-  (gangs / drug cartels) in 2024, behind only Rio de Janeiro and Salvador in Brazil
+  (gangs / drug cartels) in 2024, behind only Rio de Janeiro and Salvador in Brazil.
+  Homocide rate in Ecuador went from a low 6.7 per 100,000 people in 2019 to 44.5 per 100,000 by 2023
