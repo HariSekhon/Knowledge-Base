@@ -203,6 +203,8 @@ Tourist trap beach town on the East of the island.
   The bathroom was decent, had a toilet seat and had hot water, which was more than could be said for
   Hotel Colonial Blanco in Santo Domingo
    Wifi 86/94 Mbit/s
+- [EcoHostal](https://maps.app.goo.gl/MsJW1xvbTkerVzPb7) - actually worse than the above - the wifi cuts out all the
+  time
 
 -->
 
@@ -224,3 +226,13 @@ Tourist trap beach town on the East of the island.
   I originally tried to go with the chicken burger than was grilled,
   not the deep fried battered one, but they had run out of avocado, something to try next time perhaps.
   Wifi 126/21 Mbit/s
+- [TapRoom](https://maps.app.goo.gl/R7kpG86Y6ZUNMZY16) -
+  the BBQ burger was pretty decent, although the bacon was fatty,
+  but the BBQ sauce used in the burger was good and I mopped up the rest on the plate using the french fries which were
+  average. Comes with ketchup and a kind of garlic mayo dip too.
+  They do steaks and chicken too, but like most of Punta Cana the steaks are expensive western priced
+  Wifi 61/35 Mbit/s
+- [Dolce Italia Plaza Turquesa](https://maps.app.goo.gl/U46bNPbiH6M5rov99) - the mixed meat pizza was ok, reasonable
+  standard as far as pizza goes.
+  The passionfruit juice has a little sugar added but was so good I ordered a second one.
+  Forgot to check their wifi
