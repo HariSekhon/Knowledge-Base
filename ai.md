@@ -417,6 +417,7 @@ AI to return the image result to you:
 
 Video generation AIs:
 
+- [MidJourney](https://www.midjourney.com/explore?tab=video_top)
 - [InVideo AI](https://invideo.io/) - generate high production quality videos from text prompts
 - [LumaLabs Dream Machine](https://lumalabs.ai/dream-machine) - pics or video
 - [Kawping](https://www.kapwing.com/)
