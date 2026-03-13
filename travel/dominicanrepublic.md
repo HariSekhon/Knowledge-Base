@@ -203,8 +203,10 @@ Tourist trap beach town on the East of the island.
   The bathroom was decent, had a toilet seat and had hot water, which was more than could be said for
   Hotel Colonial Blanco in Santo Domingo
    Wifi 86/94 Mbit/s
-- [EcoHostal](https://maps.app.goo.gl/MsJW1xvbTkerVzPb7) - actually worse than the above - the wifi cuts out all the
-  time
+- [EcoHostal](https://maps.app.goo.gl/MsJW1xvbTkerVzPb7) - actually worse than the above and more expensive too - the
+  wifi cuts out all the time.
+  The only saving grace is that they have a kitchen
+  but for the price difference it'd be better to stay at the above and just eat out more
 
 -->
 
