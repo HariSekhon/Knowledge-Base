@@ -11,6 +11,7 @@
   - [Best Areas to Stay in Santo Domingo](#best-areas-to-stay-in-santo-domingo)
   - [Attractions in Santo Domingo](#attractions-in-santo-domingo)
   - [Restaurants in Santo Domingo](#restaurants-in-santo-domingo)
+- [Travel Between Santo Domingo to Punta Cana](#travel-between-santo-domingo-to-punta-cana)
 - [Punta Cana](#punta-cana)
   - [Best Areas to Stay in Punta Cana](#best-areas-to-stay-in-punta-cana)
   - [Restaurants in Punta Cana](#restaurants-in-punta-cana)
@@ -176,6 +177,17 @@ Not Recommended:
   you don't need to come to a 3rd world country like this to spend $30 on a meal, plus drinks.
   The wifi required both a password and a capture acceptance of terms.
   Wifi 29/19 Mbit/s when it works - unstable / unreliable
+
+## Travel Between Santo Domingo to Punta Cana
+
+While you can fly, the cheapest way to do this is to take a bus / coach for around 3 hours -
+which costs around 500 dominican pesos (\$8) - they may require cash,
+although I paid for the way there using contactless card.
+
+There are a couple different places you can catch these buses, this is the one I used:
+
+- [Transporte APTPRA in Santo Domingo](https://maps.app.goo.gl/m9NCyGBz7wESE8YT7) - buses leave every 2 hours,
+  eg. 07:00, 09:00, 11:00, 13:00, 15:00 - turn up 30 minutes before departure and buy a ticket in person at the office
 
 ## Punta Cana
 
