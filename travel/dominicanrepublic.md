@@ -236,7 +236,18 @@ Tourist trap beach town on the East of the island.
 
 ### Restaurants in Punta Cana
 
-- [Castaways Bistro](https://maps.app.goo.gl/9Udndr4dP2k248j79) - finally the first restaurant at European standards
+- [Citrus Fusion Cuisine](https://maps.app.goo.gl/z5y6TqcztKNCqL5v8) - easily one of the best restaurants in Punta Cana,
+  with very nice decor, and both indoor and outdoor seating.
+  It got very busy while I was setting there in the early evening.
+  They have a very good menu with several sections of different types of foods ranging from steaks to seafood,
+  pasta, ceviche and desserts.
+  The only downside is that it's a little expensive, one can easily blow \$60 per person without alcohol.
+  The mixed ceviche was very good, I switched from fork to spoon to make sure I was lapping up all the citrus juice
+  along with the fish, octopus and shrimp.
+  The churrasco al wok was good, steak strips with tomato and onion, similar to a peruvian Lomo Saltado but with a
+  risotto.
+  The coconut paradise is a mouse in a coconut half shell, sprinkled with coconut flakes and 3 crispy balls on top.
+- [Castaways Bistro](https://maps.app.goo.gl/9Udndr4dP2k248j79) - the first restaurant at European standards I found
   after days of being in the Dominican Republic.
   The pan seared grouper fish with herbs & garlic in tomato sauce, black olive and oven roast slightly crispy potato
   cubes was decent, although served in a big white bowl, it wasn't big enough for me.
