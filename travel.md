@@ -45,6 +45,10 @@ Updated regularly as I travel the world 52 weeks a year.
 - [Travel Checklist](#travel-checklist)
 - [Flights](#flights)
   - [Flight Tips](#flight-tips)
+    - [Book Ahead](#book-ahead)
+    - [Cheaper Tickets via Transit Hubs](#cheaper-tickets-via-transit-hubs)
+    - [Cheaper Tickets via Date Flexibility](#cheaper-tickets-via-date-flexibility)
+    - [Baggage Fees](#baggage-fees)
   - [Flight Booking Sites](#flight-booking-sites)
   - [Flight Deals from the US](#flight-deals-from-the-us)
   - [Flight Gotchas](#flight-gotchas)
@@ -325,18 +329,34 @@ Optional:
 
 ### Flight Tips
 
+#### Book Ahead
+
 Book ahead of time for better price comparisons.
 
 Same goes for ferries if driving.
+
+#### Cheaper Tickets via Transit Hubs
 
 For long-distance flights to/from Europe, it's cheaper to book one flight to a major transit hub such as London, Madrid
 or Barcelona which benefit from the economy of scale of passengers, and then buy a separate budget ticket
 (Ryanair / EasyJet) for the final leg once you're in the region such as Europe or Latin America.
 
+#### Cheaper Tickets via Date Flexibility
+
 If you can be flexible about dates, check a few days either side of when you want to travel,
 as it's cheaper to travel on less busy days.
 For example, I spent 5 days in Madrid essentially for free by waiting for a cheaper long distance connecting flight
 there.
+
+#### Baggage Fees
+
+Watch out for hidden baggage fees where tickets do not include checked baggage, or the luggage allowance is too low
+eg. 10kg or 20kg instead of usual 23kg.
+Being just 2kg over has cost me $30 before, and having to add checked baggage can often cost an extra \$100.
+Sometimes a slightly more expensive flight with another airline actually works out significantly cheaper when factoring
+in luggage add-on costs.
+They do this to trick you on price comparison sites hoping you won't go back to click through to check the other
+airline options.
 
 Favourite Airline: Air Arabia because they didn't tell me to put my laptop away during takeoff. One less pointless rule
 enforced.
