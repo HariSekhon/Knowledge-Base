@@ -12,6 +12,7 @@
   - [Attractions in Santo Domingo](#attractions-in-santo-domingo)
   - [Restaurants in Santo Domingo](#restaurants-in-santo-domingo)
 - [Travel Between Santo Domingo to Punta Cana](#travel-between-santo-domingo-to-punta-cana)
+  - [Bus Between Santo Domingo and Punta Cana](#bus-between-santo-domingo-and-punta-cana)
 - [Punta Cana](#punta-cana)
   - [Best Areas to Stay in Punta Cana](#best-areas-to-stay-in-punta-cana)
   - [Restaurants in Punta Cana](#restaurants-in-punta-cana)
@@ -180,11 +181,22 @@ Not Recommended:
 
 ## Travel Between Santo Domingo to Punta Cana
 
-While you can fly, the cheapest way to do this is to take a bus / coach for around 3 hours -
-which costs around 500 dominican pesos (\$8) - they may require cash,
-although I paid for the way there using contactless card.
+Options:
 
-There are a couple different places you can catch these buses, this is the one I used:
+1. Fly - expensive and airport hassles
+2. Bus - cheaper recommended method
+
+### Bus Between Santo Domingo and Punta Cana
+
+The bus takes arounds 3 hours and costs around 500 dominican pesos (\$8).
+
+It's said they may require cash, but I paid using contactless card.
+
+This is the website of the bus operator:
+
+<https://www.expresobavaro.com/>
+
+There are a couple different places listed on that website where can catch these buses, this is the one I used:
 
 - [Transporte APTPRA in Santo Domingo](https://maps.app.goo.gl/m9NCyGBz7wESE8YT7) - buses leave every 2 hours,
   eg. 07:00, 09:00, 11:00, 13:00, 15:00 - turn up 30 minutes before departure and buy a ticket in person at the office
