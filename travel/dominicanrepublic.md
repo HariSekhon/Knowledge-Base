@@ -240,7 +240,7 @@ Tourist trap beach town on the East of the island.
   with very nice decor, and both indoor and outdoor seating.
   It got very busy while I was setting there in the early evening.
   They have a very good menu with several sections of different types of foods ranging from steaks to seafood,
-  pasta, ceviche and desserts.
+  burgers, pasta, mexican, ceviche, aguachile and a decent dessert menu too.
   The only downside is that it's a little expensive, one can easily blow \$60 per person without alcohol.
   The mixed ceviche was very good, I switched from fork to spoon to make sure I was lapping up all the citrus juice
   along with the fish, octopus and shrimp.
