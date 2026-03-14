@@ -247,6 +247,7 @@ Tourist trap beach town on the East of the island.
   The churrasco al wok was good, steak strips with tomato and onion, similar to a peruvian Lomo Saltado but with a
   risotto.
   The coconut paradise is a mouse in a coconut half shell, sprinkled with coconut flakes and 3 crispy balls on top.
+  Wifi 5/4 Mbit/s
 - [Castaways Bistro](https://maps.app.goo.gl/9Udndr4dP2k248j79) - the first restaurant at European standards I found
   after days of being in the Dominican Republic.
   The pan seared grouper fish with herbs & garlic in tomato sauce, black olive and oven roast slightly crispy potato
