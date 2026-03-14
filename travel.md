@@ -44,6 +44,7 @@ Updated regularly as I travel the world 52 weeks a year.
 - [Booking Sites](#booking-sites)
 - [Travel Checklist](#travel-checklist)
 - [Flights](#flights)
+  - [Flight Tips](#flight-tips)
   - [Flight Booking Sites](#flight-booking-sites)
   - [Flight Deals from the US](#flight-deals-from-the-us)
   - [Flight Gotchas](#flight-gotchas)
@@ -322,9 +323,15 @@ Optional:
 
 ## Flights
 
+### Flight Tips
+
 Book ahead of time for better price comparisons.
 
 Same goes for ferries if driving.
+
+For long-distance flights to/from Europe, it's cheaper to book one flight to a major transit hub such as London, Madrid
+or Barcelona which benefit from the economy of scale of passengers, and then buy a separate budget ticket
+(Ryanair/EasyJet) for the final leg once you're in the region such as Europe or Latin America.
 
 Favourite Airline: Air Arabia because they didn't tell me to put my laptop away during takeoff. One less pointless rule
 enforced.
