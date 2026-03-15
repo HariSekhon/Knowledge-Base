@@ -6,6 +6,7 @@
 - [Food & Prices](#food--prices)
 - [Service & Attitudes](#service--attitudes)
 - [Population](#population)
+- [ATMs](#atms)
 - [Taxi Apps](#taxi-apps)
 - [Santo Domingo](#santo-domingo)
   - [Best Areas to Stay in Santo Domingo](#best-areas-to-stay-in-santo-domingo)
@@ -77,6 +78,10 @@ it's still nearly double that of Europeans, and
 the population will continue growing for the foreseeable future years and decades by the look of it:
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~DOM)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~DOM)
+
+## ATMs
+
+The only ATM I tried charged me a 300 pesos fee (nearly \$5).
 
 ## Taxi Apps
 
