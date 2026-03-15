@@ -81,7 +81,7 @@ the population will continue growing for the foreseeable future years and decade
 
 ## ATMs
 
-The only ATM I tried charged me a 300 pesos fee (nearly \$5).
+Both ATMs I used charged me a 300 pesos fee (nearly \$5).
 
 ## Taxi Apps
 
