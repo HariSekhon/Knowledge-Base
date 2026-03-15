@@ -276,6 +276,13 @@ Tourist trap beach town on the East of the island.
   I originally tried to go with the chicken burger than was grilled,
   not the deep fried battered one, but they had run out of avocado, something to try next time perhaps.
   Wifi 126/21 Mbit/s
+- [La Bruja Chupadora BBQ & Pub](https://maps.app.goo.gl/zzaFpCXAr37e5oN29) - popular pub-restaurant. The music was loud
+  in the evening, has both indoor and outdoor seating.
+  The witches goat was decent - the meat came lean shredded on top of a bed of rice done like a risotto.
+  This was quite filling and I almost didn't manage a dessert as a result, but braved it regardless.
+  The chocolate brownie with vanilla ice cream was very good.
+  The brownie came more like a warm soft chocolate sponge cake rather than a compacted hardened brownie.
+  WiFi 71/83 Mbit/s
 - [TapRoom](https://maps.app.goo.gl/R7kpG86Y6ZUNMZY16) -
   the BBQ burger was pretty decent, although the bacon was fatty,
   but the BBQ sauce used in the burger was good and I mopped up the rest on the plate using the french fries which were
