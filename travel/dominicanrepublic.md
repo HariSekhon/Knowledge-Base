@@ -83,6 +83,8 @@ the population will continue growing for the foreseeable future years and decade
 
 Both ATMs I used charged me a 300 pesos fee (nearly \$5).
 
+If you know of one with a lower service fee let me know to put it here.
+
 ## Taxi Apps
 
 My first taxi driver drove off without giving me change on 1000 for the 600 ride.
