@@ -86,9 +86,13 @@ This became a recurring theme with all taxi drivers I used in Santo Domingo.
 
 Have exact change ready if using InDrive which needs cash.
 
+Since there is usually little difference in price,
+it's better to go with Uber when possible to avoid having to deal with the issue of being shorted on change or having to
+do more withdrawals and paying more ATM fees.
+
+- Uber
 - InDrive - usually cheaper than Uber, or where Uber won't pick up a job, InDrive will more quickly because the locals
   prefer cash instead of app card payments (probably to avoid app fees and taxes)
-- Uber
 
 ## Santo Domingo
 
