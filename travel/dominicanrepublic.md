@@ -165,6 +165,16 @@ Not Recommended:
   If you want the experience, I'm guessing either you need to go for an expensive steak or perhaps just stop by for a
   drink and eat somewhere else.
   WiFi 86/93 Mbit/s
+- [Maraca](https://maps.app.goo.gl/wrU1XecY8Q9ikCAj9) - the fanciest restaurant I saw in Santo Domingo, but expensive.
+  They have a valet and the interior is top exquisite with a mirror wall, indoor and outdoor covered seating,
+  a luxury bar with blue suede stools.
+  It's a surprise when going inside because from the outside you wouldn't even know it's there.
+  The menu is good in variety, the food is ok but pricey by local standards.
+  The ceviche maraca was ok although just white fish in a mild ceviche sauce - I would have liked a mixed seafood
+  option.
+  The churrasco steak with a side of gratinated mash was decent although nothing stood out.
+  The coco maraca dessert was like a grated coconut pudding quite large and sweet, I left half of it, too sugar.
+  WiFi 71/5 Mbit/s
 
 Not Recommended:
 
