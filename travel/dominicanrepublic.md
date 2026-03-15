@@ -120,6 +120,8 @@ do more withdrawals and paying more ATM fees.
 
 <!--
 
+- [La Choza Guesthouse](https://maps.app.goo.gl/z9kvnZDviGMM4cUk8) - Lots of mosquitos due to the small pool,
+  wifi worked in the kitchen by the pool but not in the room. Wifi 86/12 Mbit/s
 - [Hotel Colonial Blanco](https://maps.app.goo.gl/3hHi3Po6E2Z5aSVt9) - one of the worst places I ever stayed,
   do not stay here again.
   Wifi 9/86 Mbit/s
