@@ -366,6 +366,8 @@ Not Recommended:
 TODO:
 
 - [Trébol](https://maps.app.goo.gl/vnRNgwNrFoDJbZvs5) - 4.7, dessert looks good
+- [Indian Aroma](https://maps.app.goo.gl/g48c5xRhKzhwruEHA) - 4.9
+- [Nonna's Kitchen](https://maps.app.goo.gl/H55jYVh68sCHsaTJ6) - 4.9, Italian
 
 ## Areas Yet to Explore
 
