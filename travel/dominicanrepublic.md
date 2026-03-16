@@ -204,7 +204,7 @@ Not Recommended:
   Although recommended by the waiter, I wouldn't go with this dessert again,
   either I'd try a different one or I'd skip dessert entirely.
   WiFi 71/5 Mbit/s
-- [ZonaTaco](https://maps.app.goo.gl/8w5hJwSjG4kxxr668) - normally I wouldn't eat at a 4.0 place but this was
+- [ZonaTaco](https://maps.app.goo.gl/8w5hJwSjG4kxxr668) - normally I wouldn't eat at a 4.0 rated place but this was
   recommended by a local expat as his friend owns it.
   The food was ok, and relatively cheap at \$10 for a burrito, it's one of the cheaper tourist places to eat in
   Santo Domingo for those on a budget.
