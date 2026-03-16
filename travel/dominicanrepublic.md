@@ -24,7 +24,9 @@
 
 ## Summary
 
-Dominican Republic is a 3rd world country - I am not sure why anyone would want to come here compared to Europe or Asia.
+Dominican Republic is a 3rd world country with near Western Prices - I am not sure why anyone would want to come here
+compared to Europe or Asia when I can do parts of Europe for similar money (with far superior cultura,
+infrastructure, food, looks, history and architecture), or South East Asia for far less with better food.
 
 The first night there was a nearly 24 hour power cut in Santo Domingo,
 many of the restaurants in the area were closed as they didn't have power,
@@ -190,6 +192,11 @@ Not Recommended:
   Although recommended by the waiter, I wouldn't go with this dessert again,
   either I'd try a different one or I'd skip dessert entirely.
   WiFi 71/5 Mbit/s
+
+TODO:
+
+- [Zola](https://maps.app.goo.gl/nDXcMmjSCJcRjnMx8) - 4.8, Italian, expensive, not sure this is worth paying Western
+  prices for in this 3rd world country
 
 Not Recommended:
 
