@@ -350,7 +350,7 @@ Not Recommended:
   Forgot to check their wifi
 - [Umami](https://maps.app.goo.gl/PxzQyVXSry1yUMLg8) - italian / spanish fusion restaurant outside the otherwise
   derelict Plaza San Juan Shopping Center.
-  Menu looks ok but only has a strawberry there which was ok
+  Menu looks ok but only has a strawberry there which was ok.
   Has wifi
 
 ## Areas Yet to Explore
