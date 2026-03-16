@@ -320,6 +320,7 @@ Tourist trap beach town on the East of the island.
 
 ## Areas Yet to Explore
 
+- [Bayahíbe](https://maps.app.goo.gl/MisJgspFki4ya8hG7) - quieter beach recommended by a local
 - [Isla Saona](https://maps.app.goo.gl/u5tg2WYSbi6hGq7j7) - just south of Punta Cana, can be done as a day trip from
   there. Apparently has nice beaches
   - [Playa Canto de la Playa](https://maps.app.goo.gl/7KHevFBSWb6nEfkq5) - southern beach
