@@ -348,6 +348,10 @@ Not Recommended:
   standard as far as pizza goes.
   The passionfruit juice has a little sugar added but was so good I ordered a second one.
   Forgot to check their wifi
+- [Umami](https://maps.app.goo.gl/PxzQyVXSry1yUMLg8) - italian / spanish fusion restaurant outside the otherwise
+  derelict Plaza San Juan Shopping Center.
+  Menu looks ok but only has a strawberry there which was ok
+  Has wifi
 
 ## Areas Yet to Explore
 
