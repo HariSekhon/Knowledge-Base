@@ -42,8 +42,8 @@ the things compared to many other countries in hindsight after having travelled 
 Travel advice is clearly propaganda - it's not even cheap here like South East Asia as things are Western tourist priced
 in both Santo Domingo and Punta Cana.
 
-**Don't waste your money coming here - you can eat and live better for the same money wherever you are, especially if**
-**you are saving on travel costs like flights and accommodation.**
+**Verdict: Don't waste your money coming here - you can eat and live better for the same money wherever you**
+**are, especially if **you are saving on travel costs like flights and accommodation.**
 
 ## Food & Prices
 
