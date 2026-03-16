@@ -98,9 +98,15 @@ This became a recurring theme with all taxi drivers I used in Santo Domingo.
 
 Have exact change ready if using InDrive which needs cash.
 
+Another driver to the airport accepted a fare at 520 pesos and then demanded 1100 pesos when we arrived,
+I gave him 770 pesos and walked away.
+
 Since there is usually little difference in price,
 it's better to go with Uber when possible to avoid having to deal with the issue of being shorted on change or having to
 do more withdrawals and paying more ATM fees.
+
+The only time I noticed a significant price difference was taxis to and from the airport,
+for which Uber was significantly more expensive in the 1600 range compared to the 600-1000 range on InDrive.
 
 - Uber
 - InDrive - usually cheaper than Uber, or where Uber won't pick up a job, InDrive will more quickly because the locals
