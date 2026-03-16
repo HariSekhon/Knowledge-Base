@@ -153,7 +153,7 @@ do more withdrawals and paying more ATM fees.
 
 Not Recommended:
 
-- [Novo Centro Mal](https://maps.app.goo.gl/UNBApETM1K3eRPzE6) - there is almost nothing in here, one supplement store
+- [Novo Centro Mall](https://maps.app.goo.gl/UNBApETM1K3eRPzE6) - there is almost nothing in here, one supplement store
   on the ground floor, one optician and a few medical clinics on the upper floor
 
 ### Restaurants in Santo Domingo
