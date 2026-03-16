@@ -148,10 +148,13 @@ for which Uber was significantly more expensive in the 1600 range compared to th
 
 ### Attractions in Santo Domingo
 
-- [Parque Colón](https://maps.app.goo.gl/hnxDuqArSSCK6PW98) - the square with the cathedral in the historic centre and a
-  few tourist trap restaurants opposite it
-  - [Catedral de Nuestra Señora de la Encarnación](https://maps.app.goo.gl/5Mnn52zvhxF5cKZh9)
-- [Puerta del Conde](https://maps.app.goo.gl/cLw5odZh51Yj16aU6)
+- Zona Colonial:
+  - [Parque Colón](https://maps.app.goo.gl/hnxDuqArSSCK6PW98) - the square with the cathedral in the historic centre and a
+    few tourist trap restaurants opposite it
+    - [Catedral de Nuestra Señora de la Encarnación](https://maps.app.goo.gl/5Mnn52zvhxF5cKZh9)
+  - [Puerta del Conde](https://maps.app.goo.gl/cLw5odZh51Yj16aU6)
+    - [Altar de la Patria](https://maps.app.goo.gl/VbuWR2WXxW84k8mm9)
+  - [Ruinas de San Francisco](https://maps.app.goo.gl/dg2dxjybHYZLFEmQA)
 - [Blue Mall](https://maps.app.goo.gl/LU9dgezC4HhpvRk99) - upmarket fashion mall with the most expensive designer brands
   and expensive Mercedes cars on display.
   The top floor has a small food court with Yogen Fruz frozen yoghurt - although all the malls seem to have this
