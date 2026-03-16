@@ -363,6 +363,10 @@ Not Recommended:
   Menu looks ok but only has a strawberry there which was ok.
   Has wifi
 
+TODO:
+
+- [Trébol](https://maps.app.goo.gl/vnRNgwNrFoDJbZvs5) - 4.7, dessert looks good
+
 ## Areas Yet to Explore
 
 - [Bayahíbe](https://maps.app.goo.gl/MisJgspFki4ya8hG7) - quieter beach recommended by a local expat
