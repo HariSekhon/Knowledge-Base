@@ -225,7 +225,7 @@ Options:
 
 ### Bus Between Santo Domingo and Punta Cana
 
-The bus takes arounds 3 hours and costs around 500 dominican pesos (\$8).
+The bus takes arounds 3 hours and costs around 500 dominican pesos (\$8) on card each way.
 
 It's said they may require cash, but I paid using contactless card.
 
@@ -237,6 +237,10 @@ There are a couple different places listed on that website where can catch these
 
 - [Transporte APTPRA in Santo Domingo](https://maps.app.goo.gl/m9NCyGBz7wESE8YT7) - buses leave every 2 hours,
   eg. 07:00, 09:00, 11:00, 13:00, 15:00 - turn up 30 minutes before departure and buy a ticket in person at the office
+
+In Punta Cana I took the Punta Cana Express bus from [this stop](https://maps.app.goo.gl/MsnxvZhzmztK2QqRA)
+which had the same departure timings as above and got to Santo Domingo faster than the bus out here, at only around
+2.5 hours to Zona Colonial in Santo Domingo.
 
 ## Punta Cana
 
