@@ -366,6 +366,9 @@ Not Recommended:
 TODO:
 
 - [Trébol](https://maps.app.goo.gl/vnRNgwNrFoDJbZvs5) - 4.7, dessert looks good
+- [Ristorante Italiano Simaredo](https://maps.app.goo.gl/HEq6AEK34VSbsnbW7) - 4.7, Mediterranean
+- [Pierogarnia](https://maps.app.goo.gl/aeVbsBuhXQnUEtde6) - 4.5, Polish - not sure about the value for money on this
+  one, will wait to have pierogi in actual [Poland](poland.md) again
 - [Indian Aroma](https://maps.app.goo.gl/g48c5xRhKzhwruEHA) - 4.9
 - [Nonna's Kitchen](https://maps.app.goo.gl/H55jYVh68sCHsaTJ6) - 4.9, Italian
 - [L’Aceretta Eatery](https://maps.app.goo.gl/W5sM3SXWHwp7RM1FA) - 4.5
