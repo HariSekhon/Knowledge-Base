@@ -120,8 +120,14 @@ do more withdrawals and paying more ATM fees.
 
 <!--
 
-- [La Choza Guesthouse](https://maps.app.goo.gl/z9kvnZDviGMM4cUk8) - Lots of mosquitos due to the small pool,
-  wifi worked in the kitchen by the pool but not in the room. Wifi 86/12 Mbit/s
+- [Island Life Hostel](https://maps.app.goo.gl/zEEzi3fffYDrBqH76) - the best one, but has no kitchen (they are building
+  one as of March 2026).
+  Has a pool table, back yard with seating, a hammock and a small sitting pool at the back
+  (not sure that's worth the mosquito risk or clean enough). Laundry is 350 pesos (nearly \$6).
+  Wifi 67/7 Mbit/s
+- [La Choza Guesthouse](https://maps.app.goo.gl/z9kvnZDviGMM4cUk8) - lots of mosquitos in the bathroom and outdoor
+  kitchen due to the small pool (not clean) by the outdoor kitchen.
+  Wifi worked in the kitchen by the pool but not in the room. Wifi 86/12 Mbit/s
 - [Hotel Colonial Blanco](https://maps.app.goo.gl/3hHi3Po6E2Z5aSVt9) - one of the worst places I ever stayed,
   do not stay here again.
   Wifi 9/86 Mbit/s
