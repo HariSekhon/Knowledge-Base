@@ -368,6 +368,9 @@ TODO:
 - [Trébol](https://maps.app.goo.gl/vnRNgwNrFoDJbZvs5) - 4.7, dessert looks good
 - [Indian Aroma](https://maps.app.goo.gl/g48c5xRhKzhwruEHA) - 4.9
 - [Nonna's Kitchen](https://maps.app.goo.gl/H55jYVh68sCHsaTJ6) - 4.9, Italian
+- [L’Aceretta Eatery](https://maps.app.goo.gl/W5sM3SXWHwp7RM1FA) - 4.5
+- [Terra Negra PC](https://maps.app.goo.gl/n7AdWeN6oxdr8yCf8) - 4.1 mexican, kitchen says open until 1am, but this looks
+  like more of a busy drinking and karaoke place
 
 ## Areas Yet to Explore
 
