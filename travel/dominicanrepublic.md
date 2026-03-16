@@ -309,6 +309,12 @@ Not Recommended:
 
 ### Restaurants in Punta Cana
 
+- [Pastrata](https://maps.app.goo.gl/8cLn9CVqhEcnWPrN7) - Mexican, all outdoor covered seating.
+  Good menu and reasonable prices, although priced in dollars so aimed at tourists and not particularly cheap.
+  Has ceviche and aguachile.
+  The mixed ceviche was the best I have had in a while, with excellent crispy tortilla chips and the two dips,
+  green and red, both spicy, but the green one was more spicy.
+  WiFi 37/18 Mbit/s
 - [Citrus Fusion Cuisine](https://maps.app.goo.gl/z5y6TqcztKNCqL5v8) - easily one of the best restaurants in Punta Cana,
   with very nice decor, and both indoor and outdoor seating.
   It got very busy while I was setting there in the early evening.
