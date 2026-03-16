@@ -207,6 +207,8 @@ Not Recommended:
 
 TODO:
 
+- [Quantico](https://maps.app.goo.gl/x5kEYEFB1CFQhnmq8) - 4.5, more affordable than some of the surrounding tourist
+  restaurants
 - [Zola](https://maps.app.goo.gl/nDXcMmjSCJcRjnMx8) - 4.8, Italian, expensive, not sure this is worth paying Western
   prices for in this 3rd world country
 
