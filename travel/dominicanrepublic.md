@@ -17,6 +17,7 @@
 - [Punta Cana](#punta-cana)
   - [Best Areas to Stay in Punta Cana](#best-areas-to-stay-in-punta-cana)
   - [Restaurants in Punta Cana](#restaurants-in-punta-cana)
+- [Areas Yet to Explore](#areas-yet-to-explore)
 
 <!-- INDEX_END -->
 
@@ -316,3 +317,11 @@ Tourist trap beach town on the East of the island.
   standard as far as pizza goes.
   The passionfruit juice has a little sugar added but was so good I ordered a second one.
   Forgot to check their wifi
+
+## Areas Yet to Explore
+
+- [Isla Saona](https://maps.app.goo.gl/u5tg2WYSbi6hGq7j7) - just south of Punta Cana, can be done as a day trip from
+  there. Apparently has nice beaches
+  - [Playa Canto de la Playa](https://maps.app.goo.gl/7KHevFBSWb6nEfkq5) - southern beach
+  - [Playa del Gato](https://maps.app.goo.gl/t8eG1r7nHsrGRTJP6) - this one should have a sunset as it faces Westwards
+  - [Playa Saona](https://maps.app.goo.gl/4BixbTE2qnSoYHyP6) - northern beach
