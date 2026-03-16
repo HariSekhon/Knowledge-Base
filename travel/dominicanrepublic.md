@@ -145,8 +145,8 @@ do more withdrawals and paying more ATM fees.
 - [Blue Mall](https://maps.app.goo.gl/LU9dgezC4HhpvRk99) - upmarket fashion mall with the most expensive designer brands
   and expensive Mercedes cars on display.
   The top floor has a small food court with Yogen Fruz frozen yoghurt - although all the malls seem to have this
-- [Agora Mall](https://maps.app.goo.gl/kvuvrKAWXxWkupKV6)
-- [Bella Vista Mall](https://maps.app.goo.gl/c3KBkD6ysV33f1ga8) - mid sized mall with international brands but not as
+- [Agora Mall](https://maps.app.goo.gl/kvuvrKAWXxWkupKV6) - mid-sized mall, not as fancy as Blue Mall
+- [Bella Vista Mall](https://maps.app.goo.gl/c3KBkD6ysV33f1ga8) - mid-sized mall with international brands but not as
   expensive designer ones as Blue Mall
 - [Mirador Del Sur Joaquín Balaguer Park](https://maps.app.goo.gl/u7QE3kLUVHa4vg7y9)
 - [Malecón de la Av. España](https://maps.app.goo.gl/Gh5zfqwZwKK6HAty7)
