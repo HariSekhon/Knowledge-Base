@@ -109,7 +109,8 @@ The only time I noticed a significant price difference was taxis to and from the
 for which Uber was significantly more expensive in the 1600 range compared to the 600-1000 range on InDrive.
 
 - Uber
-- InDrive - usually cheaper than Uber, or where Uber won't pick up a job, InDrive will more quickly because the locals
+- InDrive - usually cheaper than Uber.
+  Sometimes when Uber won't pick up a job, InDrive will pick it up more quickly because the locals
   prefer cash instead of app card payments (probably to avoid app fees and taxes)
 
 ## Santo Domingo
