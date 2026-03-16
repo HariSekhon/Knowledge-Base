@@ -350,6 +350,10 @@ Not Recommended:
   average. Comes with ketchup and a kind of garlic mayo dip too.
   They do steaks and chicken too, but like most of Punta Cana the steaks are expensive western priced
   Wifi 61/35 Mbit/s
+- [Eco Gusto](https://maps.app.goo.gl/uNvnTE9oyxLyNWie8) - polish-dominican restaurant with relatively low prices
+  compared to the surrounding tourist trap restaurants.
+  The dominican soup was decent, although the accompanying rice was a bit harder than it should have been.
+  Has wifi
 - [Dolce Italia Plaza Turquesa](https://maps.app.goo.gl/U46bNPbiH6M5rov99) - the mixed meat pizza was ok, reasonable
   standard as far as pizza goes.
   The passionfruit juice has a little sugar added but was so good I ordered a second one.
