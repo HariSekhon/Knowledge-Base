@@ -25,7 +25,7 @@
 ## Summary
 
 Dominican Republic is a 3rd world country with near Western Prices - I am not sure why anyone would want to come here
-compared to Europe or Asia when I can do parts of Europe for similar money (with far superior cultura,
+compared to Europe or Asia when I can do parts of Europe for similar money (with far superior culture,
 infrastructure, food, looks, history and architecture), or South East Asia for far less with better food.
 
 The first night there was a nearly 24 hour power cut in Santo Domingo,
