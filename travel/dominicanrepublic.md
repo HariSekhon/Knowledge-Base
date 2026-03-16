@@ -292,6 +292,15 @@ The main beach is wide and shallow and runs for several kilometers north to sout
 - [Bávaro Beach Flea Market](https://maps.app.goo.gl/LRF5tvrjFcaZnUoGA) - between Melia and Playa Bavaro
 - [Playa del Cortecito](https://maps.app.goo.gl/eadd8RD3hY5iVdct8) - to the north,
 
+Not Recommended:
+
+- [Downtown Mall Punta Cana](https://maps.app.goo.gl/EZuU4TQRgtTnKzoU8) - very small mall mostly on ground level, has a
+  frozen yoghurt place and a Jumbo supermarket and a sports shop but not much else of interest
+- [Plaza San Juan Shopping Center](https://maps.app.goo.gl/ikm9aeXaMk3zpEqo9) - was dead and almost completely empty
+  inside.
+  There are only a few thing on the outside, including a couple restaurants,
+  an Ikea and some American fast food (Burger King, Pizza Hut, Taco Bell) etc.
+
 ### Restaurants in Punta Cana
 
 - [Citrus Fusion Cuisine](https://maps.app.goo.gl/z5y6TqcztKNCqL5v8) - easily one of the best restaurants in Punta Cana,
