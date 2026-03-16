@@ -270,6 +270,7 @@ Tourist trap beach town on the East of the island.
    Wifi 86/94 Mbit/s
 - [EcoHostal](https://maps.app.goo.gl/MsJW1xvbTkerVzPb7) - actually worse than the above and more expensive too - the
   wifi cuts out all the time.
+  The air conditioning wasn't working, used 3 big fans, and there was no door to the shower area!
   The only saving grace is that they have a kitchen
   but for the price difference it'd be better to stay at the above and just eat out more
 
