@@ -288,6 +288,8 @@ The main beach is wide and shallow and runs for several kilometers north to sout
 - [Playa Bavaro Punta Cana](https://maps.app.goo.gl/YwGtW3HsDn4CSGGJ7)
 - [Los Corales beach Bavaro](https://maps.app.goo.gl/5NKXayvVbxYEBQvC8)
 - [Melia Caribe Tropical beach](https://maps.app.goo.gl/e1WT4PxJTGUYyMoM9)
+- [Bavaro Beach](https://maps.app.goo.gl/1mNBn8mBewJygT3N9)
+- [Bávaro Beach Flea Market](https://maps.app.goo.gl/LRF5tvrjFcaZnUoGA) - between Melia and Playa Bavaro
 - [Playa del Cortecito](https://maps.app.goo.gl/eadd8RD3hY5iVdct8) - to the north,
 
 ### Restaurants in Punta Cana
