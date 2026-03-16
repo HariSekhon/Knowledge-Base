@@ -174,17 +174,19 @@ Not Recommended:
   drink and eat somewhere else.
   WiFi 86/93 Mbit/s
 - [Maraca](https://maps.app.goo.gl/wrU1XecY8Q9ikCAj9) - the fanciest restaurant I saw in Santo Domingo, but expensive.
-  They have a valet and the interior is top exquisite with a mirror wall, indoor and outdoor covered seating,
+  On a value for money basis I wouldn't recommend this place, it seems people go here for special occasions and dress
+  up, it's more of an experience place than a foodie place.
+  They have a valet outside and the interior is top exquisite with a mirror wall, indoor and outdoor covered seating,
   a luxury bar with blue suede stools.
   It's a surprise when going inside because from the outside you wouldn't even know it's there.
   The menu is good in variety, the food is ok but pricey by local standards.
   The ceviche maraca was ok although just white fish in a mild ceviche sauce - I would have liked a mixed seafood
-  option.
-  The churrasco steak with a side of gratinated mash was decent although nothing stood out.
-  The coco maraca dessert was like a grated coconut pudding, quite a large bowl and sweet, I left half of it, too much
-  sugar - not worth the damage.
+  option, and the sauce didn't have any zing to it like the Mexican place I rated in Punta Cana.
+  The churrasco steak with a side of gratinated mash was ok too, although nothing stood out.
+  The coco maraca dessert was like a grated coconut pudding, quite a large bowl and very sweet,
+  I left half of it, too much sugar - not worth the damage.
   This dessert actually put me into a food coma as soon as I got back to my accommodation
-  and should be avoided by anybody who is on a diet or has prediabetes, which many people have.
+  and should be avoided by anybody who is on a diet or has prediabetes (which many people have).
   Although recommended by the waiter, I wouldn't go with this dessert again,
   either I'd try a different one or I'd skip dessert entirely.
   WiFi 71/5 Mbit/s
