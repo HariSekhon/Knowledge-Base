@@ -173,7 +173,10 @@ Not Recommended:
   The ceviche maraca was ok although just white fish in a mild ceviche sauce - I would have liked a mixed seafood
   option.
   The churrasco steak with a side of gratinated mash was decent although nothing stood out.
-  The coco maraca dessert was like a grated coconut pudding, quite a large bowl and sweet, I left half of it, too much sugar.
+  The coco maraca dessert was like a grated coconut pudding, quite a large bowl and sweet, I left half of it, too much
+  sugar - not worth the damage.
+  Although recommended by the waiter, I wouldn't go with this dessert again,
+  either I'd try a different one or I'd skip dessert entirely.
   WiFi 71/5 Mbit/s
 
 Not Recommended:
