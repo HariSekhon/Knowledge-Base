@@ -110,7 +110,7 @@ for which Uber was significantly more expensive in the 1600 range compared to th
 
 - Uber
 - InDrive - usually cheaper than Uber.
-  Sometimes when Uber won't pick up a job, InDrive will pick it up more quickly because the locals
+  Sometimes when Uber won't pick up a job, InDrive will pick it up more quickly for similar price because the locals
   prefer cash instead of app card payments (probably to avoid app fees and taxes)
 
 ## Santo Domingo
