@@ -291,6 +291,7 @@ The main beach is wide and shallow and runs for several kilometers north to sout
 - [Bavaro Beach](https://maps.app.goo.gl/1mNBn8mBewJygT3N9)
 - [Bávaro Beach Flea Market](https://maps.app.goo.gl/LRF5tvrjFcaZnUoGA) - between Melia and Playa Bavaro
 - [Playa del Cortecito](https://maps.app.goo.gl/eadd8RD3hY5iVdct8) - to the north,
+- [Blue Mall](https://maps.app.goo.gl/vSmTqDtFSugkzA2p6) - expensive fashion mall with upmarket restaurants
 
 Not Recommended:
 
