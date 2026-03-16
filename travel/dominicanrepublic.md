@@ -175,6 +175,8 @@ Not Recommended:
   The churrasco steak with a side of gratinated mash was decent although nothing stood out.
   The coco maraca dessert was like a grated coconut pudding, quite a large bowl and sweet, I left half of it, too much
   sugar - not worth the damage.
+  This dessert actually put me into a food coma as soon as I got back to my accommodation
+  and should be avoided by anybody who is on a diet or has prediabetes, which many people have.
   Although recommended by the waiter, I wouldn't go with this dessert again,
   either I'd try a different one or I'd skip dessert entirely.
   WiFi 71/5 Mbit/s
