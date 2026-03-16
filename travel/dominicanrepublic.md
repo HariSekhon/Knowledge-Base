@@ -16,6 +16,7 @@
   - [Bus Between Santo Domingo and Punta Cana](#bus-between-santo-domingo-and-punta-cana)
 - [Punta Cana](#punta-cana)
   - [Best Areas to Stay in Punta Cana](#best-areas-to-stay-in-punta-cana)
+  - [Attractions in Punta Cana](#attractions-in-punta-cana)
   - [Restaurants in Punta Cana](#restaurants-in-punta-cana)
 - [Areas Yet to Explore](#areas-yet-to-explore)
 
@@ -270,6 +271,25 @@ Tourist trap beach town on the East of the island.
 
 -->
 
+### Attractions in Punta Cana
+
+It's basically a beach or a beach.
+
+Unfornatately there are no ocean sunsets as these beaches face east and the sun sets in the west behind the buildings
+so the beach just dims without a sea view sunset.
+
+There are resorts and restaurants along the beach,
+although the better rated restaurants are not facing the beach where they actually have to compete on food and price.
+
+You can also rent jet skis, do parasailing etc.
+
+The main beach is wide and shallow and runs for several kilometers north to south.
+
+- [Playa Bavaro Punta Cana](https://maps.app.goo.gl/YwGtW3HsDn4CSGGJ7)
+- [Los Corales beach Bavaro](https://maps.app.goo.gl/5NKXayvVbxYEBQvC8)
+- [Melia Caribe Tropical beach](https://maps.app.goo.gl/e1WT4PxJTGUYyMoM9)
+- [Playa del Cortecito](https://maps.app.goo.gl/eadd8RD3hY5iVdct8) - to the north,
+
 ### Restaurants in Punta Cana
 
 - [Citrus Fusion Cuisine](https://maps.app.goo.gl/z5y6TqcztKNCqL5v8) - easily one of the best restaurants in Punta Cana,
@@ -326,3 +346,4 @@ Tourist trap beach town on the East of the island.
   - [Playa Canto de la Playa](https://maps.app.goo.gl/7KHevFBSWb6nEfkq5) - southern beach
   - [Playa del Gato](https://maps.app.goo.gl/t8eG1r7nHsrGRTJP6) - this one should have a sunset as it faces Westwards
   - [Playa Saona](https://maps.app.goo.gl/4BixbTE2qnSoYHyP6) - northern beach
+- [Cap Cana](https://maps.app.goo.gl/nf4ZMxhhVcgAo3od9) - high end resort part of the island
