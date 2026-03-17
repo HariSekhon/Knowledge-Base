@@ -222,6 +222,7 @@ Not Recommended:
   Has wifi
 - [Helados Bon](https://www.google.com/maps/search/Helados+Bon/@18.4708418,-69.895477,15z/) - common ice cream chain
   that does frozen yoghurts
+- [Heladeria Valentino](https://www.google.com/maps/search/Valentino/@18.4709388,-69.926377,13z/) - ice cream chain
 
 TODO:
 
