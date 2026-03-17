@@ -230,6 +230,7 @@ TODO:
   The third time I walked in a 5:05pm and they stopped serving food at 5pm 🙄.
   The fourth time I was going to go they were closed on Tuesdays
 - [Alterno Café](https://maps.app.goo.gl/erxGujqk8XwETLsx6) - 4.7 cafe
+- [Corner Café](https://maps.app.goo.gl/qLzoB99zV2EkR95A9) - 4.6 cafe
 - [Casa Barista](https://maps.app.goo.gl/61RM2Ah7UikbjsJK6) - 4.5 cafe
 - [Zola](https://maps.app.goo.gl/nDXcMmjSCJcRjnMx8) - 4.8, Italian, expensive, not sure this is worth paying Western
   prices for in this 3rd world country
