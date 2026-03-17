@@ -223,6 +223,7 @@ Not Recommended:
 
 TODO:
 
+- [Paletas Bajo Cero](https://maps.app.goo.gl/gfZ7v4HJXGjS8k5B6) - 4.6, ice cream
 - [Affogato Café](https://maps.app.goo.gl/hGsmHXs5YYGiUiBQ8) - 4.4, reasonably priced breakfast / lunch oriented cafe.
   Has wifi, but good luck finding a working plug.
   The first time I tried the whole area had a power outage and the restaurant's backup generator failed.
