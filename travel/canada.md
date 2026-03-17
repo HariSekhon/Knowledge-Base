@@ -26,7 +26,7 @@ Reminder: 2.1 children average per woman is needed just to replenish the current
 and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
 ponzi scheme welfare state & pensions long term.
 
-[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~CAN~NER~TCD~COD~CAF~NGA~SDN~CMR~UGA~COG~AFG~MOZ)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~CAN)
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~CAN~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~CAN)
 
 Canada's mass immigration has caused the population to continue to grow and with it notoriously high housing costs,
 so it is off my list of countries I'd want to live in:
