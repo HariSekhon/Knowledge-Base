@@ -220,6 +220,8 @@ Not Recommended:
   The food was ok, and relatively cheap at \$10 for a burrito, it's one of the cheaper tourist places to eat in
   Santo Domingo for those on a budget.
   Has wifi
+- [Helados Bon](https://www.google.com/maps/search/Helados+Bon/@18.4708418,-69.895477,15z/) - common ice cream chain
+  that does frozen yoghurts
 
 TODO:
 
