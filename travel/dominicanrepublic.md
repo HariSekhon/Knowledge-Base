@@ -265,7 +265,7 @@ Not Recommended:
   drinks menu.
   The steak with onions was mediocre, 2 thin strips well done (they didn't ask for how to cook it),
   and they put some sausage and chicharron with it to fill up the plate with low quality meats that you shouldn't eat
-  because they're bad for your health.
+  because they're bad for your health and increase your risk of cancer.
   The baked coconut cake also wasn't worth the sugar health damage - I didn't even finish it, and I usually love my
   desserts.
   Overall this place was not worth the cost,
