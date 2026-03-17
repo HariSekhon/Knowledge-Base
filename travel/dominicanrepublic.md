@@ -12,6 +12,7 @@
   - [Best Areas to Stay in Santo Domingo](#best-areas-to-stay-in-santo-domingo)
   - [Attractions in Santo Domingo](#attractions-in-santo-domingo)
   - [Restaurants in Santo Domingo](#restaurants-in-santo-domingo)
+  - [Groceries in Santo Domingo](#groceries-in-santo-domingo)
 - [Travel Between Santo Domingo to Punta Cana](#travel-between-santo-domingo-to-punta-cana)
   - [Bus Between Santo Domingo and Punta Cana](#bus-between-santo-domingo-and-punta-cana)
 - [Punta Cana](#punta-cana)
