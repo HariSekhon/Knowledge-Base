@@ -40,7 +40,7 @@ Reminder: 2.1 children average per woman is needed just to replenish the current
 and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
 ponzi scheme welfare state & pensions long term.
 
-[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~AUT)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~AUT)
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~AUT~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~AUT)
 
 Surprisingly, Austria's population is still slightly climbing,
 mostly due to mass immigration, even though its nowhere near as badly immigrated as the UK or Germany:
