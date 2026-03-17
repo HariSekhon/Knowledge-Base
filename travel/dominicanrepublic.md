@@ -19,6 +19,7 @@
   - [Best Areas to Stay in Punta Cana](#best-areas-to-stay-in-punta-cana)
   - [Attractions in Punta Cana](#attractions-in-punta-cana)
   - [Restaurants in Punta Cana](#restaurants-in-punta-cana)
+  - [Groceries in Punta Cana](#groceries-in-punta-cana)
 - [Areas Yet to Explore](#areas-yet-to-explore)
 
 <!-- INDEX_END -->
@@ -437,6 +438,10 @@ TODO:
 - [L’Aceretta Eatery](https://maps.app.goo.gl/W5sM3SXWHwp7RM1FA) - 4.5
 - [Terra Negra PC](https://maps.app.goo.gl/n7AdWeN6oxdr8yCf8) - 4.1 mexican, kitchen says open until 1am, but this looks
   like more of a busy drinking and karaoke place
+
+### Groceries in Punta Cana
+
+There are lots of smaller grocery stores, I didn't find one I preferred with better prices.
 
 ## Areas Yet to Explore
 
