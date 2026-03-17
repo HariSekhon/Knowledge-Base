@@ -182,6 +182,14 @@ Not Recommended:
 
 ### Restaurants in Santo Domingo
 
+- [Mix Empanadas SRL](https://maps.app.goo.gl/46irfCJTvBK2hAeX6) - excellent empanadas (small pasties) that come hot,
+  fresh and crispy, with a variety of fillings and low prices.
+  The shredded beef was good although the shredded chicken with plantain was perhaps better due to the sweetness of the
+  plantain adding some variation in flavour.
+  The pico de gallo (chopped tomato and greens sauce) was a good topping.
+  The spicy yellow sauce is surprisingly too spicy though, next time I’d go with the garlic sauce instead.
+  Bench and table style seating with a TV with music.
+  No wifi unfortunately
 - [Quantico](https://maps.app.goo.gl/x5kEYEFB1CFQhnmq8) - more affordable than many surrounding tourist restaurants,
   serving a mix of local food in a modern diner type setting with large TVs playing sports.
   Wifi 29/10 Mbit/s
@@ -236,7 +244,6 @@ Not Recommended:
 
 TODO:
 
-- [Mix Empanadas SRL](https://maps.app.goo.gl/46irfCJTvBK2hAeX6) - 4.5, cheap - empanadas are like pasties
 - [Petrus](https://maps.app.goo.gl/TDYA8UDHWWQjpdj48) - 4.2 nice decor about midway on the main high street in Zona
   Colonial
 - [D Comer Colonial](https://maps.app.goo.gl/z91DAJ6fSz9nG1Hz7) - 4.8 cheap local food, closes early at 3pm
