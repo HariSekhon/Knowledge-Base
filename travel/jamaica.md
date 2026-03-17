@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [Travel Between Cities in Jamaica](#travel-between-cities-in-jamaica)
 - [Kingston](#kingston)
   - [Best Areas to Stay in Kingston](#best-areas-to-stay-in-kingston)
 - [Montego Bay](#montego-bay)
@@ -11,6 +12,17 @@
 - [Port Antonio](#port-antonio)
 
 <!-- INDEX_END -->
+
+## Travel Between Cities in Jamaica
+
+Travelling between cities in Jamaica is most economically done by bus, such as:
+
+<https://www.knutsfordexpress.com>
+
+As of March 2026 it is JMD 5,100.00 (\$32.50) for a ticket between Kingston and Negril.
+
+If you select US currency they will charge you \$36 so it's better
+to pay in their native currency and lose only the smaller conversion charge on your international card.
 
 ## Kingston
 
