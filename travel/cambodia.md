@@ -26,7 +26,7 @@ and the Angkor Wat temple.
 
 Cambodia's birthrate is still relatively high at 2.6 children per woman (compared to Europe's 1.4).
 
-[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~KHM)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~KHM)
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~KHM~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~KHM)
 
 Its population is continuing to grow a lot:
 
