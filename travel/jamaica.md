@@ -15,6 +15,11 @@
 
 ## Travel Between Cities in Jamaica
 
+Options:
+
+1. Fly (expensive)
+2. Bus (cheap)
+
 Travelling between cities in Jamaica is most economically done by bus, such as:
 
 <https://www.knutsfordexpress.com>
