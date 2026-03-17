@@ -266,6 +266,11 @@ Not Recommended:
   The wifi required both a password and a capture acceptance of terms.
   Wifi 29/19 Mbit/s when it works - unstable / unreliable
 
+### Groceries in Santo Domingo
+
+- [Supermercados Nacional](https://maps.app.goo.gl/B5cnXuk1wMLWJiT99) - supermarket in the middle of the Zona Colonial
+  high street, useful to get snacks and bottled water
+
 ## Travel Between Santo Domingo to Punta Cana
 
 Options:
