@@ -58,7 +58,7 @@ Reminder: 2.1 children average per woman is needed just to replenish the current
 and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
 ponzi scheme welfare state & pensions long term.
 
-[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~CRI)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~CRI)
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~CRI~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~CRI)
 
 Costa Rica's population appears to be levelling off before they go into population decline:
 
