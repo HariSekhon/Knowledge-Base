@@ -313,6 +313,10 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
   Waitress said they had bad wifi, and didn't know the wifi password.
   Overall you might want to go with one of the lively places in the Wrocławski Rynek historical market square
 
+TODO:
+
+- [Konspira](https://maps.app.goo.gl/fa3hpV4S1S5TApNU7) - recommended by a friend
+
 ### Katowice
 
 Surprisingly busy city with large central communal areas and nightlife.
