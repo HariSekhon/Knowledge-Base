@@ -31,7 +31,7 @@ Reminder: 2.1 children average per woman is needed just to replenish the current
 and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
 ponzi scheme welfare state & pensions long term.
 
-[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~BGR)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~BGR)
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~BGR~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~BGR)
 
 Bulgaria's population has declined from a peak of 9 million in 1988 to 6.8 million today due to both low birthrates and
 emigration:
