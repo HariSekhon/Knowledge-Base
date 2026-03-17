@@ -224,11 +224,18 @@ Not Recommended:
   Has wifi
 - [Helados Bon](https://www.google.com/maps/search/Helados+Bon/@18.4708418,-69.895477,15z/) - common ice cream chain
   that does frozen yoghurts
+- [Paletas Bajo Cero](https://maps.app.goo.gl/gfZ7v4HJXGjS8k5B6) - everything was a fancy lolly rather than a
+  traditional ice cream on display, sometimes with a piece of fruit in them.
+  It's 250 or 280 with a filling.
+  I tried the yoghurt with mango which was initially good but unexpectedly the centre was filled with mango syrup
+  rather the just being mixed in or flavoured,
+  so it was too much sugar and it oozed out all over the place causing a great mess and I had to abandon the base.
+  Next time I would get one without a filling.
+  Has wifi
 - [Heladeria Valentino](https://www.google.com/maps/search/Valentino/@18.4709388,-69.926377,13z/) - ice cream chain
 
 TODO:
 
-- [Paletas Bajo Cero](https://maps.app.goo.gl/gfZ7v4HJXGjS8k5B6) - 4.6, ice cream
 - [Mix Empanadas SRL](https://maps.app.goo.gl/46irfCJTvBK2hAeX6) - 4.5, cheap - empanadas are like pasties
 - [Petrus](https://maps.app.goo.gl/TDYA8UDHWWQjpdj48) - 4.2 nice decor about midway on the main high street in Zona
   Colonial
