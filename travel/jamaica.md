@@ -19,7 +19,10 @@ Travelling between cities in Jamaica is most economically done by bus, such as:
 
 <https://www.knutsfordexpress.com>
 
-As of March 2026 it is JMD 5,100.00 (\$32.50) for a ticket between Kingston and Negril.
+You can book ahead to ensure you get a seat and the website shows you how many seats are left on a given day.
+
+As of March 2026 it is JMD 5,100.00 (\$32.50) for a ticket between Kingston and Negril, although there was only 1
+departure per day at 8am (😭).
 
 If you select US currency they will charge you \$36 so it's better
 to pay in their native currency and lose only the smaller conversion charge on your international card.
