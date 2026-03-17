@@ -86,7 +86,8 @@ the population will continue growing for the foreseeable future years and decade
 
 ## ATMs
 
-The first two ATMs I used charged me a 300 pesos fee (nearly \$5).
+The first two ATMs I used charged me a 300 pesos fee (nearly \$5) per withdrawal,
+while some others charge 4.5% which can really add up if you're pulling out a wad of cash.
 
 Then a local expat told me about this one in "_China Town"_
 just north of Zona Colonial which charged me no fee (the least Chinese China Town I've ever seen around the world but
