@@ -40,7 +40,7 @@ indigenous mix in my experience and this seems to be confirmed online.
 
 Bolivia's birthrate has declined but is still relatively high compared to better countries, at 2.5 children per woman.
 
-[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~BOL)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~BOL)
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~BOL~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~BOL)
 
 It's population continues to increase substantially:
 
