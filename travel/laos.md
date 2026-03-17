@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [Immigration Charge and Full Passport Page Required](#immigration-charge-and-full-passport-page-required)
 - [Taxis in Laos](#taxis-in-laos)
 - [Vientiane](#vientiane)
 - [High Speed Rail Between Vientiane and Luang Prabang](#high-speed-rail-between-vientiane-and-luang-prabang)
@@ -9,7 +10,10 @@
 
 <!-- INDEX_END -->
 
-$40 for a visa on arrival, and long queues.
+## Immigration Charge and Full Passport Page Required
+
+Laos charges $40 for a visa on arrival, and has long queues to process this (they accept card for payments).
+
 Expect to lose the day travelling to Laos even if you're coming from a nearby country like Cambodia.
 
 Luang Prabang is nicer than Vientiane, it's more geared for tourists.
