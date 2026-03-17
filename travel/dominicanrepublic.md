@@ -86,9 +86,16 @@ the population will continue growing for the foreseeable future years and decade
 
 ## ATMs
 
-Both ATMs I used charged me a 300 pesos fee (nearly \$5).
+The first two ATMs I used charged me a 300 pesos fee (nearly \$5).
 
-If you know of one with a lower service fee let me know to put it here.
+Then a local expat told me about this one in "_China Town"_
+just north of Zona Colonial which charged me no fee (the least Chinese China Town I've ever seen around the world but
+that's besides the point!), the ATM:
+
+- [Scotiabank Duarte Sur](https://maps.app.goo.gl/XAL4pwa1ykJT7m6Q7) - this is inside the Scotiabank so I don't know if
+  they leave the outer section open for late night withdrawals or not.
+  The screen says it may charge locals between 0-65 pesos and international cards between 0-300 pesos but it didn't
+  charge me anything to use the ATM
 
 ## Taxi Apps
 
