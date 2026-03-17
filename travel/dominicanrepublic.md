@@ -244,6 +244,7 @@ TODO:
   The fourth time I was going to go they were closed on Tuesdays
 - [Zola](https://maps.app.goo.gl/nDXcMmjSCJcRjnMx8) - 4.8, Italian, expensive, not sure this is worth paying Western
   prices for in this 3rd world country
+- [Pat'e Palo European Brasserie](https://maps.app.goo.gl/GrrorcAd1ALPMkWF9) - 4.5, expensive
 
 Not Recommended:
 
