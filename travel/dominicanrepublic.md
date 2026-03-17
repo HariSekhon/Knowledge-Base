@@ -172,6 +172,9 @@ Not Recommended:
 
 ### Restaurants in Santo Domingo
 
+- [Quantico](https://maps.app.goo.gl/x5kEYEFB1CFQhnmq8) - more affordable than many surrounding tourist restaurants,
+  serving a mix of local food in a modern diner type setting with large TVs playing sports.
+  Wifi 29/10 Mbit/s
 - [El Buho Eatery](https://maps.app.goo.gl/iy1gusiXdsBvQmA96) - good menu variety and nice indoor and covered outdoor
   seating area in the back but there is a big swing in prices between main menu items - for example a burger and fries
   is 550 (\$9.30) while others go to over 2000 ($34).
@@ -212,8 +215,6 @@ Not Recommended:
 
 TODO:
 
-- [Quantico](https://maps.app.goo.gl/x5kEYEFB1CFQhnmq8) - 4.5, more affordable than some of the surrounding tourist
-  restaurants
 - [Affogato Café](https://maps.app.goo.gl/hGsmHXs5YYGiUiBQ8) - the first time I tried the whole area has a power outage
   and their generator failed.
   The second time they were closed for refurbishment
