@@ -47,7 +47,7 @@ Reminder: 2.1 children average per woman is needed just to replenish the current
 and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
 ponzi scheme welfare state & pensions long term.
 
-[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~CHL)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~CHL)
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~CHL~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~CHL)
 
 Chile's population has continued to grow due to mass immigration from other countries in Latin America:
 
