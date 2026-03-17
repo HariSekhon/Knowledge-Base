@@ -223,12 +223,14 @@ Not Recommended:
 
 TODO:
 
-- [Affogato Café](https://maps.app.goo.gl/hGsmHXs5YYGiUiBQ8) - reasonably priced breakfast / lunch oriented cafe.
+- [Affogato Café](https://maps.app.goo.gl/hGsmHXs5YYGiUiBQ8) - 4.4, reasonably priced breakfast / lunch oriented cafe.
   Has wifi, but good luck finding a working plug.
   The first time I tried the whole area had a power outage and the restaurant's backup generator failed.
   The second time they were closed for refurbishment.
   The third time I walked in a 5:05pm and they stopped serving food at 5pm 🙄.
   The fourth time I was going to go they were closed on Tuesdays
+- [Alterno Café](https://maps.app.goo.gl/erxGujqk8XwETLsx6) - 4.7 cafe
+- [Casa Barista](https://maps.app.goo.gl/61RM2Ah7UikbjsJK6) - 4.5 cafe
 - [Zola](https://maps.app.goo.gl/nDXcMmjSCJcRjnMx8) - 4.8, Italian, expensive, not sure this is worth paying Western
   prices for in this 3rd world country
 
