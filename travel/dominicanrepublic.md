@@ -228,6 +228,7 @@ Not Recommended:
 
 TODO:
 
+- [Mix Empanadas SRL](https://maps.app.goo.gl/46irfCJTvBK2hAeX6) - 4.5, cheap pasties type place
 - [Paletas Bajo Cero](https://maps.app.goo.gl/gfZ7v4HJXGjS8k5B6) - 4.6, ice cream
 - [Affogato Café](https://maps.app.goo.gl/hGsmHXs5YYGiUiBQ8) - 4.4, reasonably priced breakfast / lunch oriented cafe.
   Has wifi, but good luck finding a working plug.
