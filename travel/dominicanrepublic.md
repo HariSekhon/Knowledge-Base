@@ -233,15 +233,15 @@ TODO:
 - [Petrus](https://maps.app.goo.gl/TDYA8UDHWWQjpdj48) - 4.2 nice decor about midway on the main high street in Zona
   Colonial
 - [D Comer Colonial](https://maps.app.goo.gl/z91DAJ6fSz9nG1Hz7) - 4.8 cheap local food, closes early at 3pm
+- [Alterno Café](https://maps.app.goo.gl/erxGujqk8XwETLsx6) - 4.7 cafe
+- [Corner Café](https://maps.app.goo.gl/qLzoB99zV2EkR95A9) - 4.6 cafe
+- [Casa Barista](https://maps.app.goo.gl/61RM2Ah7UikbjsJK6) - 4.5 cafe
 - [Affogato Café](https://maps.app.goo.gl/hGsmHXs5YYGiUiBQ8) - 4.4, reasonably priced breakfast / lunch oriented cafe.
   Has wifi, but good luck finding a working plug.
   The first time I tried the whole area had a power outage and the restaurant's backup generator failed.
   The second time they were closed for refurbishment.
   The third time I walked in a 5:05pm and they stopped serving food at 5pm 🙄.
   The fourth time I was going to go they were closed on Tuesdays
-- [Alterno Café](https://maps.app.goo.gl/erxGujqk8XwETLsx6) - 4.7 cafe
-- [Corner Café](https://maps.app.goo.gl/qLzoB99zV2EkR95A9) - 4.6 cafe
-- [Casa Barista](https://maps.app.goo.gl/61RM2Ah7UikbjsJK6) - 4.5 cafe
 - [Zola](https://maps.app.goo.gl/nDXcMmjSCJcRjnMx8) - 4.8, Italian, expensive, not sure this is worth paying Western
   prices for in this 3rd world country
 
