@@ -43,6 +43,9 @@ Updated regularly as I travel the world 52 weeks a year.
     - [South America](#south-america)
 - [Booking Sites](#booking-sites)
 - [Travel Checklist](#travel-checklist)
+  - [Important](#important)
+  - [Optional](#optional)
+  - [Passport - Larger Booklets](#passport---larger-booklets)
 - [Flights](#flights)
   - [Flight Tips](#flight-tips)
     - [Book Ahead](#book-ahead)
@@ -308,6 +311,8 @@ travellers like me.
 
 ## Travel Checklist
 
+### Important
+
 - Passport
 - Visa
   - booked exit flight proof is required to enter some countries like Mexico
@@ -318,12 +323,20 @@ travellers like me.
 - Clothes for climate (check your weather app for the destination, it might be hotter / colder /
   rainier than you guess)
 
-Optional:
+### Optional
 
 - toiletries - you can buy toiletries almost anywhere, but you may prefer to take your favourite brands from home rather
   than make do with whatever you find there
 - book or other entertainment for flight
 - water bottle to refill after security takes your water off you
+
+### Passport - Larger Booklets
+
+Many countries in the world have an option to get a passport with many more pages for frequent travellers.
+
+This works out cheaper and over the long run if you travel a lot compared to replacing your passport.
+
+Some countries use up entire passport pages such as [Laos](travel/laos.md).
 
 ## Flights
 
