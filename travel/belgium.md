@@ -41,7 +41,7 @@ Reminder: 2.1 children average per woman is needed just to replenish the current
 and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
 ponzi scheme welfare state & pensions long term.
 
-[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~BEL)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~BEL)
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~BEL~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~BEL)
 
 Belgium's population is still increasing despite this due to mass immigration,
 which is obvious if you've visited its capital Brussels (one of my less favourite parts of the country):
