@@ -214,6 +214,12 @@ TODO:
 
 - [Quantico](https://maps.app.goo.gl/x5kEYEFB1CFQhnmq8) - 4.5, more affordable than some of the surrounding tourist
   restaurants
+- [Affogato Café](https://maps.app.goo.gl/hGsmHXs5YYGiUiBQ8) - the first time I tried the whole area has a power outage
+  and their generator failed.
+  The second time they were closed for refurbishment
+  The third time they stopped serving food by 5pm.
+  Reasonably priced breakfast / lunch oriented cafe.
+  Has wifi, but good luck finding a working plug
 - [Zola](https://maps.app.goo.gl/nDXcMmjSCJcRjnMx8) - 4.8, Italian, expensive, not sure this is worth paying Western
   prices for in this 3rd world country
 
