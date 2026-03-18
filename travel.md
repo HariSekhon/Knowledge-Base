@@ -45,7 +45,7 @@ Updated regularly as I travel the world 52 weeks a year.
 - [Travel Checklist](#travel-checklist)
   - [Important](#important)
   - [Optional](#optional)
-  - [Passport - Larger Booklets](#passport---larger-booklets)
+  - [Jumbo Passports](#jumbo-passports)
 - [Flights](#flights)
   - [Flight Tips](#flight-tips)
     - [Book Ahead](#book-ahead)
