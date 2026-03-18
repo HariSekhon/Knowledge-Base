@@ -6,7 +6,7 @@
 - [Immigration Control - Exit Flight Required](#immigration-control---exit-flight-required)
 - [Spanish Crash Course](#spanish-crash-course)
 - [Panama City](#panama-city)
-  - [Panama City Airport - Tocumen International](#panama-city-airport---tocumen-international)
+  - [Panama City Airport - Tocumen International - PTY](#panama-city-airport---tocumen-international---pty)
   - [Transport in Panama City](#transport-in-panama-city)
     - [Buses](#buses)
     - [Taxis in Panama City](#taxis-in-panama-city)
@@ -55,7 +55,7 @@ or at the other end of the long coast walk around
 [Marbella](https://maps.app.goo.gl/n6eUv9S3nfteq17J7) or
 [Punta Paitilla](https://maps.app.goo.gl/tXcdWAkAgv5Bd9ng8) which are slightly less touristy and cheaper.
 
-### Panama City Airport - Tocumen International
+### Panama City Airport - Tocumen International - PTY
 
 Lots of shops in the departure terminals after security.
 
