@@ -66,7 +66,7 @@ and avoid getting price gouged for plastic bottled water.
 
 Wifi is unfortunately \$4 (as of 2026) or 1 hour for free but only for 1 device with a captcha portal sign up and
 suffering through ads.
-The wifi speed is decent at 9/9 Mbit/s though.
+The limited free wifi speed is decent at 9/9 Mbit/s though.
 
 ### Transport in Panama City
 
