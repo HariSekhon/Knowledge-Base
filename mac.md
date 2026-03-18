@@ -2471,7 +2471,9 @@ default	11:24:53.822927-0500	kernel	ASP: Security policy would not allow process
 It is not clear how this application developed this signature error,
 perhaps it tried to auto-update and was interrupted and failed, leaving a broken signature.
 
-Solution - reinstall or upgrade to get the signature to be verified:
+Solution: Reinstall or Upgrade the app to get the signature to be verified again.
+
+If you have installed via [Homebrew](brew.md) (even if you haven't cask installs can override manually installed apps):
 
 ```shell
 brew upgrade --force spotify
