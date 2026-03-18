@@ -129,6 +129,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Restart `mds`, `mds_stores` and `revisiond`](#restart-mds-mds_stores-and-revisiond)
   - [Verify Free Space](#verify-free-space)
 - [Troubleshooting](#troubleshooting)
+  - [Wifi Capture Portal Not Loading](#wifi-capture-portal-not-loading)
   - [Discrepancy Between `df` and `du`](#discrepancy-between-df-and-du)
   - [Spotlight Search failing to find App](#spotlight-search-failing-to-find-app)
   - [XCodeBuild error complaining XCode only has command line tools](#xcodebuild-error-complaining-xcode-only-has-command-line-tools)
@@ -2222,6 +2223,11 @@ df -h "/Volumes/$NAME"
 ```
 
 ## Troubleshooting
+
+### Wifi Capture Portal Not Loading
+
+Check you haven't set an explicit fixed IP public DNS records
+as that may prevent the captcha portal address from resolving.
 
 ### Discrepancy Between `df` and `du`
 
