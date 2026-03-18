@@ -40,6 +40,8 @@ You need this when travelling Latin America since most people don't speak Englis
 | Without                        | Sin                                                                                                                                                                                               |
 | And                            | Y                                                                                                                                                                                                 |
 | Or                             | O                                                                                                                                                                                                 |
+| Hot                            | Caliente                                                                                                                                                                                          |
+| Cold                           | Frio                                                                                                                                                                                              |
 
 ## Food
 
@@ -66,6 +68,8 @@ You can tell I've been learning Spanish off all the menus across Latin America..
 | Chilaquiles       | Crispy fried tortilla chips drowned in sauce and cheese, really good, but obviously fattening!!                                                                                                                                                                                          |
 | Tlayuda           | Large tortilla with re-fied beans base and ingredients, folded and toasted until the cheese is melted                                                                                                                                                                                    |
 | Tamale            | Filling wrapped and cooked in a corn husk or banana leaf - you eat the filling and discard the leaf                                                                                                                                                                                      |
+| Fresa             | Strawberry                                                                                                                                                                                                                                                                               |
+| Maracuya          | Passionfruit                                                                                                                                                                                                                                                                             |
 
 <!-- -->
 
@@ -87,3 +91,5 @@ You can tell I've been learning Spanish off all the menus across Latin America..
 | Hielo             | Ice                                                                                                                                                |
 | Cubitos           | Cubes                                                                                                                                              |
 | Leche             | Milk                                                                                                                                               |
+| Caliente          | Hot                                                                                                                                                |
+| Frios             | Cold                                                                                                                                               |
