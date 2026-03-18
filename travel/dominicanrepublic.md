@@ -99,6 +99,8 @@ little thing.
 
 See the [Spanish Crash Course](spanish.md) page.
 
+Note: people in DR call passionfruit _"chinola"_ instead of maracuya like most of Spanish speaking countries.
+
 ## Population
 
 The population is mainly african descended or african-mix and the birth rate is nearly double that of Europeans.
