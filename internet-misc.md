@@ -2,8 +2,8 @@
 
 <!-- INDEX_START -->
 
-- [Wifi Capture Portal Issues](#wifi-capture-portal-issues)
-  - [Capture Portal Not Loading](#capture-portal-not-loading)
+- [Wifi Issues](#wifi-issues)
+  - [Wifi Capture Portal Not Loading](#wifi-capture-portal-not-loading)
 - [The Internet Archive](#the-internet-archive)
 - [Save a Snapshot of a Web Page to the Internet Archive](#save-a-snapshot-of-a-web-page-to-the-internet-archive)
 - [Email](#email)
