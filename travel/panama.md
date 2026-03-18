@@ -57,9 +57,11 @@ or at the other end of the long coast walk around
 
 ### Panama City Airport - Tocumen International - PTY
 
-Lots of shops in the departure terminals after security.
+This is a 1st world level international airport hub where many connecting flights pass through.
 
-There are water coolers outside the toilets so use a refillable water cannister
+There are lots of shops in the long departure terminals after security.
+
+There are water coolers outside the toilets, another sign of proper development, so use a refillable water cannister
 and avoid getting price gouged for plastic bottled water.
 
 ### Transport in Panama City
