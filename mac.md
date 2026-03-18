@@ -2468,6 +2468,9 @@ default	11:24:53.822376-0500	kernel	proc 41565: load code signature error 4 for 
 default	11:24:53.822927-0500	kernel	ASP: Security policy would not allow process: 41565, /Applications/Spotify.app/Contents/MacOS/Spotify
 ```
 
+It is not clear how this application developed this signature error,
+perhaps it tried to auto-update and was interrupted and failed, leaving a broken signature.
+
 Solution - reinstall or upgrade to get the signature to be verified:
 
 ```shell
