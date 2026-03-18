@@ -330,13 +330,14 @@ travellers like me.
 - book or other entertainment for flight
 - water bottle to refill after security takes your water off you
 
-### Passport - Larger Booklets
+### Jumbo Passports
 
 Many countries in the world have an option to get a passport with many more pages for frequent travellers.
 
-This works out cheaper and over the long run if you travel a lot compared to replacing your passport.
+Although this costs slightly more, this works out cheaper over the long run if you travel a lot compared to replacing
+your passport more frequently.
 
-Some countries use up entire passport pages such as [Laos](travel/laos.md).
+Some countries require an entire clean passport page for their immigration stamp such as [Laos](travel/laos.md).
 
 ## Flights
 
