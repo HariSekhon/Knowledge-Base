@@ -2229,6 +2229,12 @@ df -h "/Volumes/$NAME"
 Check you haven't set an explicit fixed IP public DNS records
 as that may prevent the captcha portal address from resolving.
 
+You can quickly set the DNS back to DHCP using this command (en0 is your wifi network card):
+
+```shell
+sudo networksetup -setdnsservers en0 "Empty"
+```
+
 Once I did that, and checking the DNS:
 
 ```shell
@@ -2257,6 +2263,12 @@ nameserver 10.4.0.1
 ```
 
 and then the captcha portal then loaded.
+
+You can also see your DNS settings in the UI or using this more native mac command, but the output is long and messy:
+
+```shell
+scutil --dns
+```
 
 ### Discrepancy Between `df` and `du`
 
