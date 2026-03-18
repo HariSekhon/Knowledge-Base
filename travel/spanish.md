@@ -74,6 +74,7 @@ You can tell I've been learning Spanish off all the menus across Latin America..
 | Maracuya             | Passionfruit                                                                                                                                                                                                                                                                             |
 | Limon                | Lemon                                                                                                                                                                                                                                                                                    |
 | Naranja [nah-ran-ha] | Orange                                                                                                                                                                                                                                                                                   |
+| Pina [peen-yah]      | Pinapple                                                                                                                                                                                                                                                                                 |
 
 <!-- -->
 
