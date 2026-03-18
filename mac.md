@@ -2417,7 +2417,7 @@ sudo xcodebuild -license
 
 #### Application Can't Be Opened
 
-Clicking results in this error pop-up:
+Clicking the App icon results in this error pop-up:
 
 ```text
 The application “Spotify.app” can’t be opened.
@@ -2425,15 +2425,19 @@ The application “Spotify.app” can’t be opened.
 
 ![Application Spotify Can't Be Opened](images/application_spotify_cant_be_opened.png)
 
+Trying to open it via the command line:
+
 ```shell
-open -a Console
+open -a Spotify
 ```
 
-Output:
+results in this error:
 
 ```text
 The application /Applications/Spotify.app cannot be opened for an unexpected reason, error=Error Domain=RBSRequestErrorDomain Code=5 "Launch failed." UserInfo={NSLocalizedFailureReason=Launch failed., NSUnderlyingError=0x6000039a33c0 {Error Domain=NSPOSIXErrorDomain Code=153 "Unknown error: 153" UserInfo={NSLocalizedDescription=Launchd job spawn failed}}}
 ```
+
+Checking its digital signature:
 
 ```shell
 spctl --assess --verbose /Applications/Spotify.app
@@ -2443,6 +2447,12 @@ Output:
 
 ```shell
 /Applications/Spotify.app: invalid Info.plist (plist or signature have been modified)
+```
+
+Open the logging console to debug:
+
+```shell
+open -a Console
 ```
 
 Start streaming and then enter a filter in the top right box eg. `spotify`.
@@ -2456,6 +2466,12 @@ default	11:24:53.822324-0500	kernel	mac_vnode_check_signature: /Applications/Spo
 Please check your system log.
 default	11:24:53.822376-0500	kernel	proc 41565: load code signature error 4 for file "Spotify"
 default	11:24:53.822927-0500	kernel	ASP: Security policy would not allow process: 41565, /Applications/Spotify.app/Contents/MacOS/Spotify
+```
+
+Solution - reinstall or upgrade to get the signature to be verified:
+
+```shell
+brew upgrade --force spotify
 ```
 
 #### Application Is Not Open Anymore
