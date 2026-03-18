@@ -47,6 +47,12 @@ in both Santo Domingo and Punta Cana.
 **Verdict: Don't waste your money coming here - you can eat and live better for the same money wherever you are,**
 **especially if you are saving on travel costs like flights and accommodation.**
 
+## Immigration Hassles
+
+You have to fill in two digitial forms for both immigration as well as an emigration!
+
+<https://eticket.migracion.gob.do/>
+
 ## Food & Prices
 
 This is not a foodie destination either and is relatively expensive compared to many of the Latin countries due to being
