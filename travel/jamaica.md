@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [Immigration Hassles](#immigration-hassles)
 - [Travel Between Cities in Jamaica](#travel-between-cities-in-jamaica)
 - [Kingston](#kingston)
   - [Best Areas to Stay in Kingston](#best-areas-to-stay-in-kingston)
@@ -12,6 +13,12 @@
 - [Port Antonio](#port-antonio)
 
 <!-- INDEX_END -->
+
+## Immigration Hassles
+
+You have to fill in an online form before you go through immigration.
+
+<https://enterjamaica.gov.jm/>
 
 ## Travel Between Cities in Jamaica
 
