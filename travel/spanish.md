@@ -36,6 +36,10 @@ You need this when travelling Latin America since most people don't speak Englis
 | But                            | Pero                                                                                                                                                                                              |
 | More                           | Mas<br/><br/>Remember the famous__"No Mas"_ (translation: _"No More"_) in Boxing when the champion Roberto Duran aka _"Hands of Stone"_ conceded the bout to the great champion Sugar Ray Leonard |
 | Cash                           | Effectivo (you will see this on signs for cash only)                                                                                                                                              |
+| With                           | Con                                                                                                                                                                                               |
+| Without                        | Sin                                                                                                                                                                                               |
+| And                            | Y                                                                                                                                                                                                 |
+| Or                             | O                                                                                                                                                                                                 |
 
 ## Food
 
@@ -67,17 +71,18 @@ You can tell I've been learning Spanish off all the menus across Latin America..
 
 ### Drinks
 
-| Spanish           | English                                                                                                                               |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bebidas           | Drinks                                                                                                                                            |
+| Spanish           | English                                                                                                                                            |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Bebidas           | Drinks                                                                                                                                             |
 | Horchata          | Traditional rice milk drink, ranges from bland to overly sweet depending on the restaurant, I prefer Jamaica water as it is more consistently good |
-| _"Jamaica"_ water | Hibiscus red still drink, slightly sweetened with sugar                                                                                           |
-| Tamarind water    | Slightly sweet drink with a salty aftertaste                                                                                                      |
-| Jugo              | Juice (usually not pure, containing sugar and water)                                                                                              |
-| Zumo              | Juice (freshly squeezed - don't forget to confirm no added sugar / water / ice)                                                                   |
-| Exprimido         | Squeezed (ie. fresh squeezed orange juice)                                                                                                        |
-| Sin               | Without                                                                                                                                           |
-| Azucar            | Sugar                                                                                                                                             |
-| Aqua              | Water                                                                                                                                             |
-| Hielo             | Ice                                                                                                                                               |
-| Cubitos           | Cubes                                                                                                                                             |
+| _"Jamaica"_ water | Hibiscus red still drink, slightly sweetened with sugar                                                                                            |
+| Tamarind water    | Slightly sweet drink with a salty aftertaste                                                                                                       |
+| Jugo              | Juice (usually not pure, containing sugar and water)                                                                                               |
+| Zumo              | Juice (freshly squeezed - don't forget to confirm no added sugar / water / ice)                                                                    |
+| Exprimido         | Squeezed (ie. fresh squeezed orange juice)                                                                                                         |
+| Sin               | Without                                                                                                                                            |
+| Azucar            | Sugar                                                                                                                                              |
+| Aqua              | Water                                                                                                                                              |
+| Hielo             | Ice                                                                                                                                                |
+| Cubitos           | Cubes                                                                                                                                              |
+| Leche             | Milk                                                                                                                                               |
