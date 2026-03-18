@@ -11,6 +11,7 @@
 - [ATMs](#atms)
 - [Taxi Apps](#taxi-apps)
 - [Santo Domingo](#santo-domingo)
+  - [Santo Domingo Airport - Las Americas International - SDQ](#santo-domingo-airport---las-americas-international---sdq)
   - [Best Areas to Stay in Santo Domingo](#best-areas-to-stay-in-santo-domingo)
   - [Attractions in Santo Domingo](#attractions-in-santo-domingo)
   - [Restaurants in Santo Domingo](#restaurants-in-santo-domingo)
