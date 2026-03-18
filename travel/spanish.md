@@ -80,6 +80,7 @@ You can tell I've been learning Spanish off all the menus across Latin America..
 | Jugo              | Juice (usually not pure, containing sugar and water)                                                                                               |
 | Zumo              | Juice (freshly squeezed - don't forget to confirm no added sugar / water / ice)                                                                    |
 | Exprimido         | Squeezed (ie. fresh squeezed orange juice)                                                                                                         |
+| Con               | With                                                                                                                                               |
 | Sin               | Without                                                                                                                                            |
 | Azucar            | Sugar                                                                                                                                              |
 | Aqua              | Water                                                                                                                                              |
