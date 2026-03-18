@@ -68,6 +68,18 @@ Wifi is unfortunately \$4 (as of 2026) or 1 hour for free but only for 1 device 
 suffering through ads.
 The limited free wifi speed is decent at 9/9 Mbit/s though.
 
+If you wifi captcha portal isn't loading, check this troubleshooting section
+[Wifi Captcha Portal Not Loading](../mac.md#wifi-capture-portal-not-loading).
+
+As of March 2026 I could see the explicit path at the bottom of the pop-up blank page
+as:
+
+<https://linkyfi.globalwifi.io>
+
+which redirected to this full path:
+
+<https://linkyfi.globalwifi.io/portal/auth/loginPage>
+
 ### Transport in Panama City
 
 #### Buses
