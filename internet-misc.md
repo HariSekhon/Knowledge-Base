@@ -14,7 +14,8 @@
 
 ### Capture Portal Not Loading
 
-Check you haven't set an explicit fixed IP public DNS records so that the redirect to the captcha portal works.
+Check you haven't set an explicit fixed IP public DNS records so that the captcha portal address resolves and
+allows the redirect to it to work.
 
 ## The Internet Archive
 
