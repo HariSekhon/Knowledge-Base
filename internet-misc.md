@@ -10,12 +10,15 @@
 
 <!-- INDEX_END -->
 
-## Wifi Capture Portal Issues
+## Wifi Issues
 
-### Capture Portal Not Loading
+### Wifi Capture Portal Not Loading
 
 Check you haven't set an explicit fixed IP public DNS records so that the captcha portal address resolves and
 allows the redirect to it to work.
+
+For more details, you can see the Mac page's troubleshooting section
+[Wifi Capture Portal Not Loading](mac.md#wifi-capture-portal-not-loading).
 
 ## The Internet Archive
 
