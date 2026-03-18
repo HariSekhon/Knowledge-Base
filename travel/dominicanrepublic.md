@@ -3,8 +3,10 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Immigration Hassles](#immigration-hassles)
 - [Food & Prices](#food--prices)
 - [Service & Attitudes](#service--attitudes)
+- [Spanish Crash Course](#spanish-crash-course)
 - [Population](#population)
 - [ATMs](#atms)
 - [Taxi Apps](#taxi-apps)
@@ -86,6 +88,16 @@ another traveller a bit more familiar with the DR made the observation
 that some of the less reputable local looking people are likely actually immigrants from the neighbouring Haiti,
 a country which is notoriously higher crime which I decided to skip on my Caribbean tour after a discussion with a local
 native taxi driver in [Curacao](curacao.md).
+
+## Spanish Crash Course
+
+Most people in Dominican Republic seem to speak little to no English, surprising for a place that receives so much
+English-speaking tourism.
+
+It greatly helps to know a bit of Spanish to get by, as you will struggle if relying on Google Translate for every
+little thing.
+
+See the [Spanish Crash Course](spanish.md) page.
 
 ## Population
 
