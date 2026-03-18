@@ -152,6 +152,16 @@ for which Uber was significantly more expensive in the 1600 range compared to th
 
 ## Santo Domingo
 
+### Santo Domingo Airport - Las Americas International - SDQ
+
+Decent sized airport with several restaurants and souvenir shops before security, but as usual more inside.
+
+It has a large duty free section and more restaurants past security.
+
+Wifi is free (3/3 Mbit/s) without much capture hassle.
+
+There were no water dispensers that I could find anywhere.
+
 ### Best Areas to Stay in Santo Domingo
 
 - [Zona Colonial](https://maps.app.goo.gl/k9DHYXYYU8vTDMRQA) - historic centre,
