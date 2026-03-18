@@ -55,14 +55,21 @@ You have to fill in two digitial forms for both immigration as well as an emigra
 
 ## Food & Prices
 
-This is not a foodie destination either and is relatively expensive compared to many of the Latin countries due to being
+This is not a foodie destination and is relatively expensive compared to many of the Latin countries due to being
 tourist priced.
 
 Most of the restaurants in the Dominican Republic, even at Western prices, have disappointed me in quality,
 so this country ranks very low on my global index of food tourism.
 
-Prices also often end up 28% higher than advertised on menus due to 18% ITBIS
+Prices also often end up nearly a third (28%) more expensive than advertised on menus due to 18% ITBIS
 (value added sales tax for the government) as well as 10% government mandated service charge for the staff.
+
+That 1000 dominican pesos (\$16.40) advertised on the menu is actually (\$21) when you receive the bill.
+
+Many of the better healthier food like steaks and seafood often cost 2000-3000+ DOP (\$32 - \$50) + 28% = 3840 DOP
+(\$63) as of March 2026.
+
+I surprised me that even seafood is expensive front since this is an island, you'd think they'd have affordable seafood.
 
 ## Service & Attitudes
 
