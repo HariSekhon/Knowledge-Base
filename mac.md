@@ -2411,7 +2411,52 @@ Accept license if you have to:
 sudo xcodebuild -license
 ```
 
-### Various Applications Fail to Open
+### Application Fails to Open
+
+#### Application Can't Be Opened
+
+Clicking results in this error pop-up:
+
+```text
+The application “Spotify.app” can’t be opened.
+```
+
+![Application Spotify Can't Be Opened](images/application_spotify_cant_be_opened.png)
+
+```shell
+open -a Console
+```
+
+Output:
+
+```text
+The application /Applications/Spotify.app cannot be opened for an unexpected reason, error=Error Domain=RBSRequestErrorDomain Code=5 "Launch failed." UserInfo={NSLocalizedFailureReason=Launch failed., NSUnderlyingError=0x6000039a33c0 {Error Domain=NSPOSIXErrorDomain Code=153 "Unknown error: 153" UserInfo={NSLocalizedDescription=Launchd job spawn failed}}}
+```
+
+```shell
+spctl --assess --verbose /Applications/Spotify.app
+```
+
+Output:
+
+```shell
+/Applications/Spotify.app: invalid Info.plist (plist or signature have been modified)
+```
+
+Start streaming and then enter a filter in the top right box eg. `spotify`.
+
+I saw logs like these:
+
+```text
+default	11:24:53.815483-0500	amfid	/Applications/Spotify.app/Contents/MacOS/Spotify not valid: Error Domain=AppleMobileFileIntegrityError Code=-420 "The signature on the file is invalid" UserInfo={NSURL=file:///Applications/Spotify.app/Contents/MacOS/Spotify, NSLocalizedDescription=The signature on the file is invalid}
+default	11:24:53.822324-0500	kernel	mac_vnode_check_signature: /Applications/Spotify.app/Contents/MacOS/Spotify: code signature validation failed fatally: When validating /Applications/Spotify.app/Contents/MacOS/Spotify:
+  The code contains a Team ID, but validating its signature failed.
+Please check your system log.
+default	11:24:53.822376-0500	kernel	proc 41565: load code signature error 4 for file "Spotify"
+default	11:24:53.822927-0500	kernel	ASP: Security policy would not allow process: 41565, /Applications/Spotify.app/Contents/MacOS/Spotify
+```
+
+#### Application Is Not Open Anymore
 
 Often with this pop-up error:
 
