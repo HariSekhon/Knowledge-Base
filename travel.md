@@ -315,13 +315,14 @@ travellers like me.
 
 - Passport
 - Visa
-  - booked exit flight proof is required to enter some countries like Mexico
+  - booked exit flight proof is required to enter in many Latin and Caribbean countries
+  - digital immigration and customs declarations are required in many countries
 - Laptop (optional)
-- Chargers - phone, laptop, electric toothbruth, USB-to-USB-c cable for plane
-- Travel Adapters
+- Chargers - phone, laptop, electric toothbruth, USB-to-USB-c cable or USB adapters for plane sockets
+- Travel Adapters for international plug formats
 - [Hostel Checklist](#hostel-tips) - padlock, towel, shower gel etc.
 - Clothes for climate (check your weather app for the destination, it might be hotter / colder /
-  rainier than you guess)
+  more rainy than you expect - I got caught out a couple times!)
 
 ### Optional
 
