@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Immigration Hassles](#immigration-hassles)
 - [Travel in Curacao](#travel-in-curacao)
   - [Taxi Apps](#taxi-apps)
 - [Willemstad](#willemstad)
@@ -33,6 +34,12 @@ Even in Willemsted, the capital, the weeds have reclaimed some pavements,
 and some buildings are derelict with plants growing through them.
 
 This place clearly survives on tourism and not much else.
+
+## Immigration Hassles
+
+You have to fill in a digitial immigration card before you can go through immigration:
+
+<https://dicardcuracao.com/>
 
 ## Travel in Curacao
 
