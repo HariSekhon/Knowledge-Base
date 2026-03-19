@@ -2500,6 +2500,12 @@ Output:
 source=Notarized Developer ID
 ```
 
+or for more details:
+
+```shell
+codesign -dv --verbose=4 /Applications/Spotify.app
+```
+
 I got the next error when trying to reopen it, but it was an easy fix in this next section:
 
 #### Application is Damaged and Can't Be Opened
