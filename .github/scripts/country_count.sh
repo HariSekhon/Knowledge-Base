@@ -76,8 +76,8 @@ if [[ "$USER" =~ hari|sekhon ]]; then
         )"
         timestamp "City Count from Nomads: $num_total_cities"
         sed -i "
-            s/\(Countries: \).*/\\1$num_total_countries/;
-            s/\(Cities: \).*/\\1$num_total_cities/;
+            s/^\(Countries: \).*/\\1$num_total_countries/;
+            s/^\(Cities: \).*/\\1$num_total_cities/;
             s|\(Total%20Countries-\)[[:digit:]]*|\\1$num_total_countries|;
             s|\(Total%20Cities-\)[[:digit:]]*|\\1$num_total_cities|;
         " "$travel_md"
