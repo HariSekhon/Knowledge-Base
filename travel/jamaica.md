@@ -57,6 +57,20 @@ to pay in their native currency and lose only the smaller conversion charge on y
 
 -->
 
+- [Peri Peri Grill Jamaica](https://maps.app.goo.gl/Cn436rtLLULo4tNz7) - surprisingly good,
+  ignore the Google Maps 3.9 rating, that’s probably just because it’s not cheap.
+  The Peri Peri rice bowl was filling, I’m glad I didn’t order a side on top, I was stuffed as it was.
+  They give a choice of sauces -
+  the classic medium peri was just right and comes with a side sauce of it too,
+  great for dipping, it’s actually borderline too spicy.
+  The staff guy was right when he said he couldn’t eat the top level scotch peri.
+  The carrot juice was good too but has added sugar.
+  WiFi 115/Mbit/s
+
+TODO:
+
+- [Dubwise Cafe](https://maps.app.goo.gl/dYQ38VAofuoVnEUu8) - 4.7
+
 ## Montego Bay
 
 [Montego Bay](https://maps.app.goo.gl/enYjmeBpmDw1FbDA8)
