@@ -6,6 +6,7 @@
 - [Travel Between Cities in Jamaica](#travel-between-cities-in-jamaica)
 - [Kingston](#kingston)
   - [Best Areas to Stay in Kingston](#best-areas-to-stay-in-kingston)
+  - [Restaurants in Kingston](#restaurants-in-kingston)
 - [Montego Bay](#montego-bay)
 - [Negril](#negril)
   - [Best Areas to Stay in Negril](#best-areas-to-stay-in-negril)
@@ -56,6 +57,8 @@ to pay in their native currency and lose only the smaller conversion charge on y
   Wifi 6/6 Mbit/s
 
 -->
+
+### Restaurants in Kingston
 
 - [Peri Peri Grill Jamaica](https://maps.app.goo.gl/Cn436rtLLULo4tNz7) - surprisingly good,
   ignore the Google Maps 3.9 rating, that’s probably just because it’s not cheap.
