@@ -2473,8 +2473,8 @@ perhaps it tried to auto-update and was interrupted and failed, leaving a broken
 
 Solution: Reinstall or Upgrade the app to get the signature to be verified again.
 
-If you have installed via [Homebrew](brew.md) (even if you haven't cask installed it can override manually installed
-apps):
+If you have installed via [Homebrew](brew.md) (even if you haven't, brew casks can replace manually installed
+apps under `/Applications`):
 
 ```shell
 brew reinstall spotify
