@@ -2507,7 +2507,7 @@ If when opening you get this error:
 
 ![Spotify App Damaged](images/spotify_app_is_damaged_and_cant_be_opened_should_move_to_bin.png)
 
-Just accept to move it to the bin and then run
+Just accept to move it to the bin and then run:
 
 
 ```shell
