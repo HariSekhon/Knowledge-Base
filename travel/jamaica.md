@@ -140,6 +140,17 @@ TODO
 - [7 Mile Beach](https://maps.app.goo.gl/YQ8xshb9UbCjamqR8) - main, most popular area
 - [West End](https://maps.app.goo.gl/4taCRn9mNnARStr56) - quieter
 
+<!--
+
+- [Bak A Yaad Hostel and Cottages](https://maps.app.goo.gl/u9SyswaN7Sva8nfx6) -
+  bigger inside than I had guessed due to the jungle style interconnected cottages.
+  Has a pool and kitchen, but there are a lot of mosquitos, likely due to the pool.
+  Wifi 92/1 Mbit/s
+-->
+
+- [Rick's Cafe](https://maps.app.goo.gl/KHnruN8wdmKxj69g6) -
+  The menu is priced in US dollars, always a bad sign that it's tourist priced.
+
 ## Ocho Rios
 
 [Ocho Rios](https://maps.app.goo.gl/tK6AEVjX2uXztrwC7) is a port town on the northern coast of Jamaica.
