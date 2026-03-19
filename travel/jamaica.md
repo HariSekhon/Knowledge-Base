@@ -62,7 +62,7 @@ to pay in their native currency and lose only the smaller conversion charge on y
 
 - [Peri Peri Grill Jamaica](https://maps.app.goo.gl/Cn436rtLLULo4tNz7) - surprisingly good,
   ignore the Google Maps 3.9 rating, that’s probably just because it’s not cheap.
-  The Peri Peri rice bowl was filling, I’m glad I didn’t order a side on top, I was stuffed as it was.
+  The Peri Peri chichen thigh on rice was filling, I’m glad I didn’t order a side on top, I was stuffed as it was.
   They give a choice of sauces -
   the classic medium peri was just right and comes with a side sauce of it too,
   great for dipping, it’s actually borderline too spicy.
