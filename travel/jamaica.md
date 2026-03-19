@@ -49,6 +49,14 @@ to pay in their native currency and lose only the smaller conversion charge on y
 - [Stony Hill](https://maps.app.goo.gl/8hdw6LYJv8PLcGGt9) - leafy northern suburb providing a cooler climate and scenic city views
 - [Jack's Hill](https://maps.app.goo.gl/8hdw6LYJv8PLcGGt9a) - quiet hillside community overlooking the city with luxury rental options
 
+<!--
+
+- [Ragamuffin Hostel](https://maps.app.goo.gl/6tU4ZSkUXsrD3dHK8) - good facilities, privacy curtains, multiple shows,
+  coffee shop until 5pm, kitchen with no curfew.
+  Wifi 6/6 Mbit/s
+
+-->
+
 ## Montego Bay
 
 [Montego Bay](https://maps.app.goo.gl/enYjmeBpmDw1FbDA8)
