@@ -135,7 +135,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [XCodeBuild error complaining XCode only has command line tools](#xcodebuild-error-complaining-xcode-only-has-command-line-tools)
   - [Application Fails to Open](#application-fails-to-open)
     - [Application Can't Be Opened](#application-cant-be-opened)
-    - [Application is Damaged and Can't Be Opened](#application-is-damaged-and-cant-be-opened)
+      - [Application is Damaged and Can't Be Opened](#application-is-damaged-and-cant-be-opened)
     - [Application Is Not Open Anymore](#application-is-not-open-anymore)
   - [Cannot Delete - No Space Left on Device](#cannot-delete---no-space-left-on-device)
   - [Emergency Backup](#emergency-backup)
@@ -2502,7 +2502,7 @@ source=Notarized Developer ID
 
 I got the next error when trying to reopen it, but it was an easy fix in the next section:
 
-#### Application is Damaged and Can't Be Opened
+##### Application is Damaged and Can't Be Opened
 
 If when opening you get this error:
 
@@ -2512,7 +2512,7 @@ If when opening you get this error:
 
 ![Spotify App Damaged](images/spotify_app_is_damaged_and_cant_be_opened_should_move_to_bin.png)
 
-Just accept to move it to the bin and then run:
+Just accept to move it to the bin and then reinstall it:
 
 ```shell
 brew reinstall spotify
