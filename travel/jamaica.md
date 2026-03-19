@@ -148,8 +148,12 @@ TODO
   Wifi 92/1 Mbit/s
 -->
 
-- [Rick's Cafe](https://maps.app.goo.gl/KHnruN8wdmKxj69g6) -
+- [Rick's Cafe](https://maps.app.goo.gl/KHnruN8wdmKxj69g6) - popular cliffside view resort restaurant and bar split over
+  2 levels with a pool, live DJ and dance area.
+  Can be windy due to the ocean front, but the view is good.
+  Founded in 1974, over 50 years, overhyped and priced accordingly.
   The menu is priced in US dollars, always a bad sign that it's tourist priced.
+  They don't have fresh squeezed juices.
 
 ## Ocho Rios
 
