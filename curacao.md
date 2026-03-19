@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Immigration Hassles](#immigration-hassles)
 - [Travel in Curacao](#travel-in-curacao)
   - [Taxi Apps](#taxi-apps)
 - [Willemstad](#willemstad)
@@ -15,6 +16,9 @@
   - [Mambo](#mambo)
     - [Attractions in Mambo](#attractions-in-mambo)
   - [Jan Thiel](#jan-thiel)
+    - [Attractions in Jan Thiel](#attractions-in-jan-thiel)
+    - [Restaurants in Jan Thiel](#restaurants-in-jan-thiel)
+    - [Groceries in Jan Thiel](#groceries-in-jan-thiel)
 
 <!-- INDEX_END -->
 
@@ -30,6 +34,12 @@ Even in Willemsted, the capital, the weeds have reclaimed some pavements,
 and some buildings are derelict with plants growing through them.
 
 This place clearly survives on tourism and not much else.
+
+## Immigration Hassles
+
+You have to fill in a digitial immigration card before you can go through immigration:
+
+<https://dicardcuracao.com/>
 
 ## Travel in Curacao
 
@@ -92,10 +102,10 @@ I don't remember the last time I paid that much for a taxi except for London.
 
 <!--
 
-- [The Ritz Village](https://maps.app.goo.gl/152wzkJaWh3YUS4r8) - not as good as the pics, pretty basic, and
-  under-populated. Wifi 6/19 Mbit/s
-- [Bed & Bike Jan Thiel](https://maps.app.goo.gl/S7WrPY39xQdbwQccA) - nicer, has pool and kitchen
+- [Bed & Bike Jan Thiel](https://maps.app.goo.gl/S7WrPY39xQdbwQccA) - nicer, has pool and kitchen. Wifi ok
 - [Bed & Bike Pietermaai](https://maps.app.goo.gl/QpH5wawrju87q28PA)
+- [The Ritz Village](https://maps.app.goo.gl/152wzkJaWh3YUS4r8) - not as good as the pics, pretty basic, and
+  under-populated. It's a couple blocks further out than Bed & Bike. Would not stay here again. Wifi 6/19 Mbit/s
 
 -->
 
@@ -179,4 +189,46 @@ Just south along the coast from Punda.
 
 ### Jan Thiel
 
-[Jan Thiel](https://maps.app.goo.gl/fqwKi93ymBP1fzhF6) is further south along the west coast from Punda.
+[Jan Thiel](https://maps.app.goo.gl/fqwKi93ymBP1fzhF6) is a posh area further south along the west coast from Punda.
+
+The peninsula near Jan Thiel beach is full of large gated villas with `Jan Thiel Security` plaques as deterrence.
+
+#### Attractions in Jan Thiel
+
+The only real attraction is Jan Thiel beach, so you only need 1-2 days here.
+
+- [Jan Thiel Beach](https://maps.app.goo.gl/6EiQHvWqjvGYLcz18) - this is where all the rich white people are. The beach has a selection of mid-rating
+  tourist trap restaurants (probably due to price) and an infinity pool looking out over the sunset.
+  This is the only beach worth going to - the other ones on the South East are undeveloped with few people
+- [Fort Beekenburg](https://maps.app.goo.gl/E2XGuL594WfkJZVSA) - nothing special and not much around here, the nearby
+  beaches are bad as mentioned above, rocky, shingles.
+  I'd skip this area next time if short on time and just focus on Jan Thiel beach
+- [I ❤️ Curaçao](https://maps.app.goo.gl/bJDTqBvf8TX9VAZH6) - sign on a cliff, on an otherwise uneventful residential
+  road
+
+#### Restaurants in Jan Thiel
+
+- [Villa Vis](https://maps.app.goo.gl/EgzUuXuekKU6LAGC8) - fresh seafood cooked to order. Better value than most of
+  the restaurants in Jan Thiel, with seating overlooking the water.
+  The snapper fillet in butter was good, although less food than I expected, so you really need 2 of them or a side.
+  The tomato-onion salad was good, and they also have a seaweed salad -
+  both are pre-boxed and stored in the refrigerated fish counter which you select your fish from.
+  No wifi!
+- [Salú Restaurant & Bar](https://maps.app.goo.gl/GPtxM3YX8ezBCpg66) - resort restaurant, decent but pricey.
+  The ceviche is _"Japanese style"_
+  which means no tiger milk it is more like a tartare, and small, I would not get this again.
+  The chili-chocolate dessert was good, but small.
+  The virgin pina colada was good, but then that's always good.
+  The fresh orange juice came in a wine glass only 1/5th filled like it was precious wine or something -
+  that was not worthwhile.
+  Wifi 18/19 Mbit/s
+
+TODO:
+
+- [Surfcafe Tank 14](https://maps.app.goo.gl/53N8oPwuKuaUTS9p8) - 5.0, closes early
+- [Koko's](https://maps.app.goo.gl/uG65eeTTkAZuRHTM6) - 4.5
+- [Brgr Haus Caracasbaai](https://maps.app.goo.gl/3mPv2pBrkUdq3XVQ6) - 4.4
+
+#### Groceries in Jan Thiel
+
+- [Van den Tweel Supermarket](https://maps.app.goo.gl/J7PTnks6jRMs8eP17)
