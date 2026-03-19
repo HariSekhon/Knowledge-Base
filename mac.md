@@ -2473,10 +2473,51 @@ perhaps it tried to auto-update and was interrupted and failed, leaving a broken
 
 Solution: Reinstall or Upgrade the app to get the signature to be verified again.
 
-If you have installed via [Homebrew](brew.md) (even if you haven't cask installs can override manually installed apps):
+If you have installed via [Homebrew](brew.md) (even if you haven't cask installed it can override manually installed
+apps):
 
 ```shell
-brew upgrade --force spotify
+brew reinstall spotify
+```
+
+Or if there is a newer version just upgrade to that:
+
+```shell
+brew upgrade spotify
+```
+
+Afterwards the signature verification should succeed:
+
+```shell
+spctl --assess --verbose /Applications/Spotify.app
+```
+
+Output:
+
+```text
+/Applications/Spotify.app: accepted
+source=Notarized Developer ID
+```
+
+If when opening you get this error:
+
+```text
+"Spotify.app" is damaged and can't be opened. You should move it to the Bin.
+```
+
+![Spotify App Damaged](images/spotify_app_is_damaged_and_cant_be_opened_should_move_to_bin.png)
+
+Just accept to move it to the bin and then run
+
+
+```shell
+brew reinstall spotify
+```
+
+and then it will open normally:
+
+```shell
+open -a Spotify
 ```
 
 #### Application Is Not Open Anymore
