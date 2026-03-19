@@ -5,6 +5,11 @@
 - [Immigration Hassles](#immigration-hassles)
 - [Travel Between Cities in Jamaica](#travel-between-cities-in-jamaica)
 - [Kingston](#kingston)
+  - [Kingston Airport - Norman Manley International - KIN](#kingston-airport---norman-manley-international---kin)
+  - [Travel Between Airport and Kingston](#travel-between-airport-and-kingston)
+    - [Bus From the Airport](#bus-from-the-airport)
+  - [ATMs in Kingston](#atms-in-kingston)
+  - [Taxi Apps in Kingston](#taxi-apps-in-kingston)
   - [Best Areas to Stay in Kingston](#best-areas-to-stay-in-kingston)
   - [Restaurants in Kingston](#restaurants-in-kingston)
 - [Montego Bay](#montego-bay)
@@ -41,6 +46,52 @@ If you select US currency they will charge you \$36 so it's better
 to pay in their native currency and lose only the smaller conversion charge on your international card.
 
 ## Kingston
+
+### Kingston Airport - Norman Manley International - KIN
+
+Immigration control was a bit slow, but otherwise it was fine.
+
+Has open wifi with a single click button captcha portal.
+
+### Travel Between Airport and Kingston
+
+Options:
+
+1. Bus - 60-80 minutes + wait time - see the [Bus from the Airport](#bus-from-the-airport) section immediately below
+2. Taxi - 30 minutes - see the [Taxi Apps in Kingston](#taxi-apps-in-kingston) section
+
+#### Bus From the Airport
+
+I decided to try the local way and took the bus - which was very cheap - 100 JMD per ride (\$0.64) -
+but runs on a schedule around every half an hour, and requires either a prepaid card or cash.
+Since I don't know anywhere that sells the prepaid card by the airport,
+I opted to go to the [ATM](#atms-in-kingston) first and then split a 1000
+(the minimum denomination dispensed) to get the change I needed by buying a coconut drink, which was a great start to
+this trip!
+
+The bus into town was the 98 marked _"City"_ and can be caught from the [Nmia](https://maps.app.goo.gl/shAbmidNcetEa51y7) bus
+stop (for some reason the bus in the other direction goes to this stop but when going into town it stops at the nearby
+corner instead [here](https://maps.app.goo.gl/EETkhpzuvJSYKHcK6) and you have to go to meet it there).
+
+The 98 bus to _"City"_ goes to [North Parade (Terminus)](https://maps.app.goo.gl/TxwYrACxUnVJJQws8)
+and from there I caught a second bus to my accommodation.
+
+The bus itself was fine,
+and air conditioned, but the wait was long, and the journey,
+while just over an hour, when combined with wait time, interchange,
+wait time and traffic, took around 2 hours or just over.
+
+### ATMs in Kingston
+
+I needed cash for the bus from the airport so tried the cashpoint opposite the Arrivals coming exit out of the airport:
+
+- [Scotia Bank ATM opposite airport](https://maps.app.goo.gl/9Vfh6id2eiKWpyCk9) - withdrawal fee on 21,000 JMD was
+  471.16 JMD (\$3) (2.25%)
+
+### Taxi Apps in Kingston
+
+- [InDrive](https://indrive.com/en-jm) - 2/3 the price of Uber, quoted 1500 (\$10), but requires cash
+- [Uber](https://www.uber.com/jm/en/) - more expensive, quoted 2500 (\$16) but can use your card for payment
 
 ### Best Areas to Stay in Kingston
 
