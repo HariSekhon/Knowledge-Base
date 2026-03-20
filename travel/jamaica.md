@@ -159,6 +159,11 @@ TODO
   They don't have fresh squeezed juices.
   Has open wifi but it didn't work
 
+Not Recommended:
+
+- [Wake N Bake Café at Casa Aster](https://maps.app.goo.gl/ybAoHmZZV6P3dR1Q6) - their baked snacks are laced with
+  marijuana - only go if you want to get high!
+
 ## Ocho Rios
 
 [Ocho Rios](https://maps.app.goo.gl/tK6AEVjX2uXztrwC7) is a port town on the northern coast of Jamaica.
