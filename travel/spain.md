@@ -38,7 +38,15 @@ The central areas have more tourists as one would expect.
 Madrid was cold in the evenings in November, around 12C degrees.
 It was ok during the day, around 15-16C degrees, but you will need a coat by 5:30pm as the sun is going down.
 
-### Madrid Airport
+### Madrid Airport - MAD
+
+Madrid's Adolfo Suárez Madrid-Barajas (code: MAD)
+is a major travel hub with cheap flights to and from Latin America such as Colombia and Puerto Rico
+which is how I discovered Madrid.
+
+I saved so much money by routing through Madrid and waiting for the next cheap flight from there
+that I halved the cost of getting to Mexico and such that I essentially stayed in Madrid for 5 nights for free
+entirely offset by the savings on the flight prices!
 
 There is a water cooler outside the toilet in the main area.
 
