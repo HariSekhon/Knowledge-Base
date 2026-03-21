@@ -170,6 +170,11 @@ There was zero border control coming off the ferry from Sweden to Gdansk, which 
 
 - [Slaska 19](https://www.tripadvisor.com/Restaurant_Review-g274725-d13810673-Reviews-Slaska_19-Gdansk_Pomerania_Province_Northern_Poland.html) - good restaurant away from the centre with an affordable weekday lunch menu and good wifi
 
+Not Recommended:
+
+- [Restauracja Pueblo](https://maps.app.goo.gl/xMoTgApxv1quQsyp6) - my friend went here and said it was so bad he only
+  paid for the drink
+
 ### Gdynia
 
 Neighbouring port city, not as much to do or see here as Gdansk - visit for a day.
