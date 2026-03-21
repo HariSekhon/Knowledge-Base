@@ -15,6 +15,8 @@
 - [Montego Bay](#montego-bay)
 - [Negril](#negril)
   - [Best Areas to Stay in Negril](#best-areas-to-stay-in-negril)
+  - [Restaurants in Negril](#restaurants-in-negril)
+  - [Groceries in Negril](#groceries-in-negril)
 - [Ocho Rios](#ocho-rios)
 - [Port Antonio](#port-antonio)
 
@@ -176,6 +178,12 @@ Not Recommended:
 
 - [Wake N Bake Café at Casa Aster](https://maps.app.goo.gl/ybAoHmZZV6P3dR1Q6) - their baked snacks are laced with
   marijuana - only go if you want to get high!
+
+### Groceries in Negril
+
+- [Quality Traders Supermarket](https://maps.app.goo.gl/Nt8woYA2L2x1H8wg6)
+- [Value Master](https://maps.app.goo.gl/MHRYEXVipYEtQhjj6) - at the south end of 7 Mile Beach
+- [Value Mac](https://maps.app.goo.gl/foZBxZ7F5Xs4Xfn79) - in West End
 
 ## Ocho Rios
 
