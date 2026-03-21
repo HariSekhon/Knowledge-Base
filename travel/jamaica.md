@@ -145,6 +145,12 @@ TODO:
 
 [Negril](https://maps.app.goo.gl/qpxEGDsqXmr5N2wo9) is a beach town on the West coast of Jamaica.
 
+It is pretty quiet with a long beach and a few restaurants.
+
+I would skip this next time if I visit Jamaica again.
+
+Only go here if you want a quiet beach holiday.
+
 ### Best Areas to Stay in Negril
 
 - [7 Mile Beach](https://maps.app.goo.gl/YQ8xshb9UbCjamqR8) - main, most popular area where the beach is
