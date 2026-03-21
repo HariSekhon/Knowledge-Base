@@ -142,7 +142,7 @@ TODO
 - [7 Mile Beach](https://maps.app.goo.gl/YQ8xshb9UbCjamqR8) - main, most popular area where the beach is
 - [West End](https://maps.app.goo.gl/4taCRn9mNnARStr56) - quieter area in the South, a very long 1 hour walk away from
   the beach though alongside roads with little to no pavement, so you may need to take taxis.
-  The main thing down there is the Rick's Cafe
+  The main thing down there is Rick's Cafe described under the restaurants section
 
 <!--
 
