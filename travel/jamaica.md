@@ -155,7 +155,8 @@ TODO
   The beef stew with rice for 2000 JMD ($13) was more satisfying than anticipated as it was both significantly larger
   and better quality than the jerk chicken with rice at Rick’s Cafe, and when I convert Rick’s dollar prices to JMD they
   look outrageous.
-  The jerk chicken was the same price and also much better than Rick's one in both quality and portion size.
+  The jerk chicken with rice was also the same price, 2000 JMD, and also much better than Rick's one in both quality and
+  portion size.
   No wifi unfortunately, the staff can hotspot you if you really need it
 - [Rick's Cafe](https://maps.app.goo.gl/KHnruN8wdmKxj69g6) - popular cliffside view resort restaurant and bar split over
   2 levels with a pool, live DJ and dance area.
