@@ -131,7 +131,14 @@ TODO:
 
 [Montego Bay](https://maps.app.goo.gl/enYjmeBpmDw1FbDA8)
 
-TODO
+### Best Areas to Stay in Montego Bay
+
+- [Hip Strip](https://maps.app.goo.gl/a76Qc3fTE8Lm2L4o6) - walkable city centre with famous beaches and nightlife
+- [Freeport](https://www.google.com/maps/search/Freeport+Montego+Bay) - high end waterfront area
+- [Rose Hall](https://www.google.com/maps/search/Rose+Hall+Montego+Bay) - an upmarket area further out with luxury
+  all-inclusive resorts and golf courses
+- [Ironshore](https://maps.app.goo.gl/ZdX4WASyFqCdJ4E99) - a quiet residential area with villas further near the airport
+- [Bogue Heights](https://maps.app.goo.gl/E7qWhPQCC1WA8CmF6) - a quiet hillside area with view and more local atmosphere
 
 ## Negril
 
