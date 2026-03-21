@@ -13,6 +13,7 @@
   - [Best Areas to Stay in Kingston](#best-areas-to-stay-in-kingston)
   - [Restaurants in Kingston](#restaurants-in-kingston)
 - [Montego Bay](#montego-bay)
+  - [Best Areas to Stay in Montego Bay](#best-areas-to-stay-in-montego-bay)
 - [Negril](#negril)
   - [Best Areas to Stay in Negril](#best-areas-to-stay-in-negril)
   - [Restaurants in Negril](#restaurants-in-negril)
