@@ -163,8 +163,8 @@ TODO
   The jerk chicken with rice was also the same price, 2000 JMD, and also much better than Rick's one in both quality and
   portion size.
   No wifi unfortunately, the staff can hotspot you if you really need it
-- [Rick's Cafe](https://maps.app.goo.gl/KHnruN8wdmKxj69g6) - popular cliffside view resort restaurant and bar split over
-  2 levels with a pool, live DJ and dance area.
+- [Rick's Cafe](https://maps.app.goo.gl/KHnruN8wdmKxj69g6) - popular cliffside view resort with a pool, 2 bars and a restaurant
+  split over 2 levels, a live DJ and dance area.
   Can be windy due to the ocean front, but the view is good.
   Founded in 1974, over 50 years, overhyped and priced accordingly.
   The menu is priced in US dollars, always a bad sign that it's tourist priced.
