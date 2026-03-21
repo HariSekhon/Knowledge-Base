@@ -164,7 +164,7 @@ TODO
   portion size.
   No wifi unfortunately, the staff can hotspot you if you really need it
 - [Rick's Cafe](https://maps.app.goo.gl/KHnruN8wdmKxj69g6) - popular cliffside view resort with a pool, 2 bars and a restaurant
-  split over 2 levels, a live DJ and dance area.
+  split over 2 levels, a live DJ and dance area, as well as a dive point with life guards.
   Can be windy due to the ocean front, but the view is good.
   Founded in 1974, over 50 years, overhyped and priced accordingly.
   The menu is priced in US dollars, always a bad sign that it's tourist priced.
