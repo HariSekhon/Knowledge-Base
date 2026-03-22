@@ -130,7 +130,12 @@ TODO:
 
 ## Montego Bay
 
-[Montego Bay](https://maps.app.goo.gl/enYjmeBpmDw1FbDA8)
+[Montego Bay](https://maps.app.goo.gl/enYjmeBpmDw1FbDA8) is a small beach town but there isn't much to do here and the
+restaurant scene is very weak, their best restaurant is a mere 4.3 rating.
+
+Don't spend more than 1-2 nights here max.
+
+In hindsight I'd skip the entire West of Jamaica, especially if short on time.
 
 ### Best Areas to Stay in Montego Bay
 
@@ -141,11 +146,17 @@ TODO:
 - [Ironshore](https://maps.app.goo.gl/ZdX4WASyFqCdJ4E99) - a quiet residential area with villas further near the airport
 - [Bogue Heights](https://maps.app.goo.gl/E7qWhPQCC1WA8CmF6) - a quiet hillside area with view and more local atmosphere
 
+<!--
+- [Mobay Kotch](https://maps.app.goo.gl/R6jJrCYDCvzuGzAo8) - decent and central
+  Wifi 161/ Mbit/s
+
+-->
+
 ## Negril
 
 [Negril](https://maps.app.goo.gl/qpxEGDsqXmr5N2wo9) is a beach town on the West coast of Jamaica.
 
-It is pretty quiet with a long beach and a few restaurants.
+It is pretty quiet with a long beach and a few restaurants. The waves are quite aggressive on the West side
 
 I would skip this next time if I visit Jamaica again.
 
