@@ -29,6 +29,20 @@ You have to fill in an online form before you go through immigration.
 
 <https://enterjamaica.gov.jm/>
 
+## Population
+
+[Jamaica](https://en.wikipedia.org/wiki/Jamaica) has a population of only 2.8 million people,
+much to my surprise for a country of such significant cultural heritage, music, and population in London.
+
+Jamaica's birthrate has declined to similar to European levels, a mere 1.4 children per woman, far below replenishment.
+Like many countries facing demographic crisis, their prime minister has even raised this as an existential threat.
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~JAM~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~JAM)
+
+It's population increase it already levelling off before the inevitable decline:
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~JAM)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~JAM)
+
 ## Travel Between Cities in Jamaica
 
 Options:
@@ -40,10 +54,19 @@ Travelling between cities in Jamaica is most economically done by bus, such as:
 
 <https://www.knutsfordexpress.com>
 
-You can book ahead to ensure you get a seat and the website shows you how many seats are left on a given day.
+You can also use local buses which are cheaper but don't have air conditioning.
+For long distances it's better to go with the Knutsford Express _"luxury"_ long distance bus.
 
-As of March 2026 it is JMD 5,100.00 (\$32.50) for a ticket between Kingston and Negril, although there was only 1
-departure per day at 8am (😭).
+Book in advance online to ensure you secure your place.
+
+The website shows you how many seats are left on a given day.
+
+I once left this to the same day because I saw several departures between Montego Bay and Drax Hall
+(nearest stop to Ocho Rios) but found there was suddenly no seats left for anything before 3pm.
+
+As of March 2026 it was JMD 5,100.00 (\$32.50) for a ticket between Kingston and Negril, although there was only 1
+departure per day at 8am (😭), while the bus from Negril to Montego Bay was 2000 JMD for 1.5 hours and also left at 8am,
+again the only bus of the day.
 
 If you select US currency they will charge you \$36 so it's better
 to pay in their native currency and lose only the smaller conversion charge on your international card.
@@ -216,7 +239,13 @@ Not Recommended:
 
 [Ocho Rios](https://maps.app.goo.gl/tK6AEVjX2uXztrwC7) is a port town on the northern coast of Jamaica.
 
-TODO
+### Best Areas to Stay in Ocho Rios
+
+- [Ocho Rios Town Center](https://www.google.com/maps/search/?api=1&query=Ocho+Rios+Town+Center) - central hub perfect for walking to local markets, shopping plazas, and public beaches
+- [Columbus Heights](https://www.google.com/maps/search/?api=1&query=Columbus+Heights+Ocho+Rios) - hillside condominium area providing panoramic Caribbean Sea views and proximity to the cruise pier
+- [Tower Isle](https://www.google.com/maps/search/?api=1&query=Tower+Isle+Jamaica) - popular resort corridor east of the city center known for all-inclusive properties and intimate couples' retreats
+- [New Buckfield](https://maps.app.goo.gl/y1bG7yWJZC99xHy87) - cheaper residential area with a more authentic Jamaican
+  atmosphere and budget-friendly rental options
 
 ## Port Antonio
 
