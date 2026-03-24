@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Immigration Hassles](#immigration-hassles)
+- [Population](#population)
 - [Travel Between Cities in Jamaica](#travel-between-cities-in-jamaica)
 - [Kingston](#kingston)
   - [Kingston Airport - Norman Manley International - KIN](#kingston-airport---norman-manley-international---kin)
@@ -19,6 +20,7 @@
   - [Restaurants in Negril](#restaurants-in-negril)
   - [Groceries in Negril](#groceries-in-negril)
 - [Ocho Rios](#ocho-rios)
+  - [Best Areas to Stay in Ocho Rios](#best-areas-to-stay-in-ocho-rios)
 - [Port Antonio](#port-antonio)
 
 <!-- INDEX_END -->
@@ -170,6 +172,7 @@ In hindsight I'd skip the entire West of Jamaica, especially if short on time.
 - [Bogue Heights](https://maps.app.goo.gl/E7qWhPQCC1WA8CmF6) - a quiet hillside area with view and more local atmosphere
 
 <!--
+
 - [Mobay Kotch](https://maps.app.goo.gl/R6jJrCYDCvzuGzAo8) - decent and central
   Wifi 161/ Mbit/s
 
