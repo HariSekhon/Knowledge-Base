@@ -3,7 +3,7 @@
 <!-- INDEX_START -->
 
 - [Shells](#shells)
-- [Fish](#fish)
+  - [Fish](#fish)
 - [Shell One Liners](#shell-one-liners)
 - [More Resources](#more-resources)
 - [Memes](#memes)
@@ -21,7 +21,7 @@
 - Zsh - slightly more feature rich shell than Bash. Not sure it's worth the hassle aside from `**` directory recursion globbing
 - Fish - friendly interactive shell - meaning user friendly
 
-## Fish
+### Fish
 
 Friendly Interactive Shell
 
