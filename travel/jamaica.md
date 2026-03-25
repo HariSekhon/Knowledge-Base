@@ -255,6 +255,8 @@ Only go here if you want a quiet beach holiday.
 
 ### Restaurants in Negril
 
+Restaurants in Negril were either expensive or mediocre food or both. Not a foodie destination.
+
 - [Kool Vybes Bar And Jerk Center](https://maps.app.goo.gl/tFLyJfz7uDoKSoGv6) - popular and always more busy than
   Shark Restaurant next door which is often quiet or empty at the same time.
   Their jerk chicken is the same price as Shark's but they accept cards.
@@ -286,6 +288,7 @@ Only go here if you want a quiet beach holiday.
 TODO:
 
 - [Erica's Hideaway Restaurant and Bar](https://maps.app.goo.gl/Gr8B5Sx48qKCE3XA6) - 4.9
+- [Rockhouse Restaurant](https://maps.app.goo.gl/GpGURrRbpozMT1rX7) - 4.7
 - [Ivan's](https://maps.app.goo.gl/7J9jdizbCPXrLdXr5) - 4.6
 - [LTU Cliff Bar and Restaurant](https://maps.app.goo.gl/FLDnTbpzmhrP5iPH6) - 4.6, good view but expensive
 
