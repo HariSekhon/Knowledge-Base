@@ -273,6 +273,14 @@ Restaurants in Negril were either expensive or mediocre food or both. Not a food
   portion size.
   No wifi unfortunately, the staff can hotspot you if you really need it
 - [Murphy West End](https://maps.app.goo.gl/45pdCVxGZe5nRDr88) - jamaican food, quiet, cash only, no wifi
+- [Best In The West](https://maps.app.goo.gl/FKEEiGPUhNhCjRhQ6) - popular restaurant opposite the road by 7 Mile Beach.
+  The jerk chicken was average, but more expensive at (\$17 + taxes + tip) as it was priced in dollars.
+  It was served with a small _“festival”_ - a fried dough pipe.
+  That was so moreish I ended up buying a portion of 4 of them for \$3.
+  The coconut dessert pie for \$4 was a warm moist cake topped with chocolate sauce a glazed cherry - it was ok but
+  nothing special, I'd skip it next time.
+  Has wifi but wasn’t working.
+  Accepts cards but there is a 5% charge to use card machine so you might want to take cash
 - [Rick's Cafe](https://maps.app.goo.gl/KHnruN8wdmKxj69g6) - popular cliffside view resort with a pool, 2 bars and a restaurant
   split over 2 levels, a live DJ and dance area, as well as a dive point with life guards.
   Can be windy due to the ocean front, but the view is good.
