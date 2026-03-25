@@ -246,6 +246,8 @@ Only go here if you want a quiet beach holiday.
 
 ### Attractions in Negril
 
+- [7 Mile Beach](https://maps.app.goo.gl/qWv9PtYiety5R56M9) - long beach with resorts and tourist trap restaurants
+  along it
 - [Rick's Cafe](https://maps.app.goo.gl/KHnruN8wdmKxj69g6) - bar restaurant with a life DJ, dancers stage, a dive off
   point with life guards, as well as a gift shop.
   Expensive tourist trap prices on mediocre food, drinks and souvenirs
@@ -273,7 +275,8 @@ Restaurants in Negril were either expensive or mediocre food or both. Not a food
   portion size.
   No wifi unfortunately, the staff can hotspot you if you really need it
 - [Murphy West End](https://maps.app.goo.gl/45pdCVxGZe5nRDr88) - jamaican food, quiet, cash only, no wifi
-- [Best In The West](https://maps.app.goo.gl/FKEEiGPUhNhCjRhQ6) - popular restaurant opposite the road by 7 Mile Beach.
+- [Best In The West](https://maps.app.goo.gl/FKEEiGPUhNhCjRhQ6) - popular but overrated restaurant opposite the road
+  running alongside 7 Mile Beach.
   The jerk chicken was average, but more expensive at (\$17 + taxes + tip) as it was priced in dollars.
   It was served with a small _“festival”_ - a fried dough pipe.
   That was so moreish I ended up buying a portion of 4 of them for \$3.
