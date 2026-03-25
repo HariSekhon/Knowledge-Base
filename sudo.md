@@ -3,11 +3,15 @@
 <!-- INDEX_START -->
 
 - [Elevate to a Root Shell](#elevate-to-a-root-shell)
-  - [Dangerous Commands Which Can Escape to Elevated Shells](#dangerous-commands-which-can-escape-to-elevated-shells)
 - [Configure Which Users / Groups Can Sudo](#configure-which-users--groups-can-sudo)
 - [Passwordless Sudo](#passwordless-sudo)
 - [BioMetric Sudo](#biometric-sudo)
 - [Test Sudo](#test-sudo)
+- [Sudo Security](#sudo-security)
+  - [Dangerous Commands Which Can Escape to Elevated Shells](#dangerous-commands-which-can-escape-to-elevated-shells)
+  - [Sudo Path Vulnerability](#sudo-path-vulnerability)
+  - [Sudo File Path Disallow Vulnerability](#sudo-file-path-disallow-vulnerability)
+  - [Sudo Path Write Vulnerability](#sudo-path-write-vulnerability)
 
 <!-- INDEX_END -->
 
@@ -30,29 +34,9 @@ disable any command that can do arbitrary elevated actions.
 
 This is harder than it first seems.
 
-The only really secure way to do this is with an explicit sudo command whitelist.
+The only really secure way to do this is with an explicit careful sudo command whitelist.
 
-Using disallowed paths is easily bypassed by just changing the path eg:
-
-```shell
-sudo cp /bin/sh "$HOME"/
-sudo "$HOME/sh
-```
-
-### Dangerous Commands Which Can Escape to Elevated Shells
-
-Any of the following commands allowed to `sudo` can bypass elevated unlogged shell restrictions:
-
-- `su`
-- `sudo -i` / `sudo -s`
-- [shells](shell.md)
-- scripts
-- pagers - `man`, `more`, `less` can run `!sh`
-- compilers & interpreters (eg.
-  [Python](python.md),
-  [Perl](perl.md),
-  [Ruby](ruby.md) etc.),
-- [IDEs and Editors](editors.md) ([IntelliJ](intellij.md), `vi`and `emacs` can run shells inside them).
+See some issues under the [Sudo Security](#sudo-security) section below.
 
 ## Configure Which Users / Groups Can Sudo
 
@@ -143,3 +127,47 @@ You cannot use this to test BioMetric Sudo because it suppresses the GUI pop-up 
 ```shell
 sudo -n echo success
 ```
+
+## Sudo Security
+
+### Dangerous Commands Which Can Escape to Elevated Shells
+
+Any of the following commands if allowed to `sudo` can bypass elevated shell restrictions:
+
+- `su`
+- `sudo -i` / `sudo -s`
+- [shells](shell.md)
+- scripts
+- pagers - `man`, `more`, `less` can run `!sh`
+- compilers & interpreters (eg.
+  [Python](python.md),
+  [Perl](perl.md),
+  [Ruby](ruby.md) etc.),
+- [IDEs and Editors](editors.md) ([IntelliJ](intellij.md), `vi`and `emacs` can run shells inside them).
+
+### Sudo Path Vulnerability
+
+You need to restrict the `$PATH`, in `/etc/sudoers`
+
+```shell
+Defaults restricted_envs += "PATH"
+Defaults env_reset
+Defaults secure_path="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+```
+
+### Sudo File Path Disallow Vulnerability
+
+Using disallowed paths is easily bypassed by just changing the path eg:
+
+```shell
+sudo cp /bin/sh "$HOME"/
+sudo "$HOME/sh
+```
+
+### Sudo Path Write Vulnerability
+
+The sudo allowed paths must not be writable or replaceable using even a sudo command.
+
+This is in itself hard to strict since any command which can write file contents or modify directory contents
+(two separate permissions) can replace the contents of a whitelisted path binary or script with hostile contents to
+gain full root shell elevation.
