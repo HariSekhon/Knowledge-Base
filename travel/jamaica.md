@@ -297,6 +297,7 @@ TODO:
 - [Flag City Seafood & Grill](https://maps.app.goo.gl/WYQiikCLGFeFXNvu6) - 4.6, expensive
 - [Xtabi on the Cliffs](https://maps.app.goo.gl/pQktHdfCL25QvA6b9) - 4.5
 - [The Blue Mahoe Restaurant & Bar](https://maps.app.goo.gl/DyA11jm7Rb1GMRd76) - 4.5
+- [Indies 957](https://maps.app.goo.gl/A5znPPt1eSxKbiFu9) - 4.5
 
 Not Recommended:
 
