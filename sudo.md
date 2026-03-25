@@ -3,8 +3,8 @@
 <!-- INDEX_START -->
 
 - [Elevate to a Root Shell](#elevate-to-a-root-shell)
-- [Configuring Sudo](#configuring-sudo)
-- [Configure Which Users / Groups Can Sudo](#configure-which-users--groups-can-sudo)
+- [Configure Sudo](#configure-sudo)
+  - [Aloow Users / Groups to Sudo](#aloow-users--groups-to-sudo)
 - [Passwordless Sudo](#passwordless-sudo)
 - [BioMetric Sudo](#biometric-sudo)
 - [Test Sudo](#test-sudo)
@@ -39,7 +39,7 @@ The only really secure way to do this is with an explicit careful sudo command w
 
 See some issues under the [Sudo Security](#sudo-security) section below.
 
-## Configuring Sudo
+## Configure Sudo
 
 Configure which users and groups can sudo and to which commands by editing the `/etc/sudoers` file
 (or sometimes `/etc/sudoers.d/...` include files).
@@ -59,7 +59,7 @@ If you want to add to another file under `/etc/sudoers.d/` then:
 sudo visudo -f /etc/sudoers.d/hari
 ```
 
-## Configure Which Users / Groups Can Sudo
+### Aloow Users / Groups to Sudo
 
 Allow a user to sudo by adding this line to `/etc/sudoers` or a file under `/etc/sudoers.d/`:
 
