@@ -86,10 +86,10 @@ auth    sufficient    pam_tid.so
 
 This file is automatically sourced by `/etc/pam.d/sudo` and survives upgrades.
 
-Simple command to create this file if it doesn't already exist:
+Command to create this file if it doesn't already exist:
 
 ```shell
-[-f /etc/pam.d/sudo_local ] || sudo sh -c 'echo "auth sufficient pam_tid.so" >> /etc/pam.d/sudo_local'
+sudo sh -c '[ -f /etc/pam.d/sudo_local ] || echo "auth sufficient pam_tid.so" >> /etc/pam.d/sudo_local'
 ```
 
 ## Test Sudo
