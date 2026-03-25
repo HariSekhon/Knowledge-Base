@@ -247,6 +247,10 @@ Only go here if you want a quiet beach holiday.
 - [Rick's Cafe](https://maps.app.goo.gl/KHnruN8wdmKxj69g6) - bar restaurant with a life DJ, dancers stage, a dive off
   point with life guards, as well as a gift shop.
   Expensive tourist trap prices on mediocre food, drinks and souvenirs
+- [Lola on the Cliff](https://maps.app.goo.gl/xaTU18U4gPUWRmGW8) - small bar with an excellent cliff view of the sunset.
+  Lola the owner is a cool bubbly lady and the view is amazing.
+  They could do with some juice options, but they’re trying to get you drunk as she said!
+  No wifi (they used to have it and will again, just didn’t at the time I was there)
 - [Barney's Botanical Garden Jamaica](https://maps.app.goo.gl/EiATuEQq2h2GXmF87)
 
 ### Restaurants in Negril
