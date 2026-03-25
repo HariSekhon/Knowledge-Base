@@ -15,8 +15,11 @@
   - [Restaurants in Kingston](#restaurants-in-kingston)
 - [Montego Bay](#montego-bay)
   - [Best Areas to Stay in Montego Bay](#best-areas-to-stay-in-montego-bay)
+  - [Attractions in Montego Bay](#attractions-in-montego-bay)
+  - [Retaurants in Montego Bay](#retaurants-in-montego-bay)
 - [Negril](#negril)
   - [Best Areas to Stay in Negril](#best-areas-to-stay-in-negril)
+  - [Attractions in Negril](#attractions-in-negril)
   - [Restaurants in Negril](#restaurants-in-negril)
   - [Groceries in Negril](#groceries-in-negril)
 - [Ocho Rios](#ocho-rios)
@@ -239,6 +242,13 @@ Only go here if you want a quiet beach holiday.
   Wifi 92/1 Mbit/s
 -->
 
+### Attractions in Negril
+
+- [Rick's Cafe](https://maps.app.goo.gl/KHnruN8wdmKxj69g6) - bar restaurant with a life DJ, dancers stage, a dive off
+  point with life guards, as well as a gift shop.
+  Expensive tourist trap prices on mediocre food, drinks and souvenirs
+- [Barney's Botanical Garden Jamaica](https://maps.app.goo.gl/EiATuEQq2h2GXmF87)
+
 ### Restaurants in Negril
 
 - [Kool Vybes Bar And Jerk Center](https://maps.app.goo.gl/tFLyJfz7uDoKSoGv6) - popular and always more busy than
@@ -254,6 +264,7 @@ Only go here if you want a quiet beach holiday.
   The jerk chicken with rice was also the same price, 2000 JMD, and also much better than Rick's one in both quality and
   portion size.
   No wifi unfortunately, the staff can hotspot you if you really need it
+- [Murphy West End](https://maps.app.goo.gl/45pdCVxGZe5nRDr88) - jamaican food, quiet, cash only
 - [Rick's Cafe](https://maps.app.goo.gl/KHnruN8wdmKxj69g6) - popular cliffside view resort with a pool, 2 bars and a restaurant
   split over 2 levels, a live DJ and dance area, as well as a dive point with life guards.
   Can be windy due to the ocean front, but the view is good.
