@@ -82,6 +82,8 @@ On [Mac](mac.md) you can enable using Touch ID fingerprint authorization of sudo
 sudo sh -c 'echo "auth sufficient pam_tid.so" >> /etc/pam.d/sudo_local'
 ```
 
+This file is sourced by `/etc/pam.d/sudo` and survives upgrades.
+
 ## Test Sudo
 
 Test sudo permission by first invalidating your sudo cached credential:
