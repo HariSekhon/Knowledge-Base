@@ -330,6 +330,8 @@ Proprietary subscription, not bothering with it, used OpenAI Whisper below for f
 
 Portable devices to record and transcript using AI.
 
+It summarizes the meeting and you can then query the LLM on the meeting contents.
+
 ### Whisper Apps
 
 - SuperWhisper
