@@ -289,6 +289,8 @@ Restaurants in Negril were either expensive or mediocre food or both. Not a food
 
 TODO:
 
+- [Aunty’s Restaurant Patty Shop Bar & Grill](https://maps.app.goo.gl/vJ9fmP7TtjSMHrmq5) - 4.6
+- [Tip Top surf and turf cuisine](https://maps.app.goo.gl/V1S4DoevGtLt48x7A) - 4.8, expensive
 - [Erica's Hideaway Restaurant and Bar](https://maps.app.goo.gl/Gr8B5Sx48qKCE3XA6) - 4.9
 - [Rockhouse Restaurant](https://maps.app.goo.gl/GpGURrRbpozMT1rX7) - 4.7
 - [Ivan's](https://maps.app.goo.gl/7J9jdizbCPXrLdXr5) - 4.6
