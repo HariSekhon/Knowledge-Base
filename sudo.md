@@ -24,7 +24,8 @@ This is often frowned upon if you want every elevated command logged for strict 
 sudo su
 ```
 
-For better auditing you need to enforce putting sudo in front of each command.
+For better auditing you need to disable sudo to `su` or shells and instead enforce putting sudo in front of each
+individual command.
 
 ## Configure Which Users / Groups Can Sudo
 
