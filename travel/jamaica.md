@@ -283,6 +283,10 @@ Only go here if you want a quiet beach holiday.
   They don't have fresh squeezed juices.
   Has open wifi but it didn't work
 
+TODO:
+
+- [LTU Cliff Bar and Restaurant](https://maps.app.goo.gl/FLDnTbpzmhrP5iPH6) - good view but expensive
+
 Not Recommended:
 
 - [Wake N Bake Café at Casa Aster](https://maps.app.goo.gl/ybAoHmZZV6P3dR1Q6) - their baked snacks are laced with
