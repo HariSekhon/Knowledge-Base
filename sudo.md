@@ -59,6 +59,12 @@ If you want to add to another file under `/etc/sudoers.d/` then:
 sudo visudo -f /etc/sudoers.d/hari
 ```
 
+If you create a new sourced file under `/etc/sudoers.d/` ensure you set correct permissions:
+
+```shell
+sudo chmod 440 /etc/sudoers.d/hari
+```
+
 For details on all configuration options, read the sudoers man page:
 
 ```shell
@@ -80,12 +86,6 @@ For a group, prefix the group name with a percent sign, eg. this is set by defau
 ```
 
 Which means you could also just add users to that group instead of modifying the `/etc/sudoers`.
-
-If you create a new sourced file under `/etc/sudoers.d/` ensure you set correct permissions:
-
-```shell
-sudo chmod 440 /etc/sudoers.d/hari
-```
 
 ## Passwordless Sudo
 
@@ -151,6 +151,7 @@ Any of the following commands if allowed to `sudo` can bypass elevated shell res
 
 - `su`
 - `sudo -i` / `sudo -s`
+- `visudo` - could rewrite `/etc/sudoers`
 - [shells](shell.md)
 - scripts
 - pagers - `man`, `more`, `less` can run `!sh`
