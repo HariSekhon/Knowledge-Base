@@ -285,7 +285,8 @@ Only go here if you want a quiet beach holiday.
 
 TODO:
 
-- [LTU Cliff Bar and Restaurant](https://maps.app.goo.gl/FLDnTbpzmhrP5iPH6) - good view but expensive
+- [Ivan's](https://maps.app.goo.gl/7J9jdizbCPXrLdXr5) - 4.6
+- [LTU Cliff Bar and Restaurant](https://maps.app.goo.gl/FLDnTbpzmhrP5iPH6) - 4.6, good view but expensive
 
 Not Recommended:
 
