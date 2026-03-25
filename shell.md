@@ -2,18 +2,19 @@
 
 <!-- INDEX_START -->
 
-- [List](#list)
+- [Shells](#shells)
 - [Fish](#fish)
 - [Shell One Liners](#shell-one-liners)
+- [More Resources](#more-resources)
 - [Memes](#memes)
   - [Opening a Shell, Non-Programmers](#opening-a-shell-non-programmers)
   - [Bash Scripting: Essential DevOps](#bash-scripting-essential-devops)
 
 <!-- INDEX_END -->
 
-## List
+## Shells
 
-- Bash - the gold standard in shell scripting - see [bash.md](bash.md)
+- [Bash](bash.md) - the gold standard in shell scripting
 - Bourne - the original unix shell - Bash is the Bourne Again Shell - next generation Bourne shell
 - Ksh - Korn shell - another old unix shell
 - Tcsh - BSD shell - just use Bash
@@ -38,9 +39,8 @@ Friendly Interactive Shell
 - Spacefish - awesome prompt, rich git info
 - superceded by Spaceship
 - `brew install spaceship` - available for each shell Bash/Zsh/Fish
-
-amazing website built-in
-fish_config
+- amazing website built-in
+- fish_config
 
 ## Shell One Liners
 
@@ -49,6 +49,7 @@ See the [Shell One Liners](shell-one-liners.md) page.
 ## More Resources
 
 - [DevOps-Bash-tools](devops-bash-tools.md)
+- [ANSI Terminal Escape Codes](ansi.md)
 - [CommandLineFu](https://www.commandlinefu.com/)
 - [ShellDorado](http://www.shelldorado.com/)
 - [Bash Guide](https://mywiki.wooledge.org/BashGuide)
