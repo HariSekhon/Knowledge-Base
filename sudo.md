@@ -4,7 +4,7 @@
 
 - [Elevate to a Root Shell](#elevate-to-a-root-shell)
 - [Configure Sudo](#configure-sudo)
-- [Aloow Users / Groups to Sudo](#aloow-users--groups-to-sudo)
+- [Allow Users / Groups to Sudo](#allow-users--groups-to-sudo)
 - [Passwordless Sudo](#passwordless-sudo)
 - [BioMetric Sudo](#biometric-sudo)
 - [Test Sudo](#test-sudo)
@@ -65,7 +65,7 @@ For details on all configuration options, read the sudoers man page:
 man sudoers
 ```
 
-## Aloow Users / Groups to Sudo
+## Allow Users / Groups to Sudo
 
 Allow a user to sudo by adding this line to `/etc/sudoers` or a file under `/etc/sudoers.d/`:
 
