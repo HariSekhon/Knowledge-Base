@@ -58,6 +58,8 @@ See the [Shell One Liners](shell-one-liners.md) page.
 
 ### Opening a Shell, Non-Programmers
 
+This has literally happened to me when Apple Store staff saw me open a shell 😂:
+
 ![Opening a shell, Non-Programmers](images/opening_a_shell_non_programmers.jpeg)
 
 ### Bash Scripting: Essential DevOps
