@@ -18,6 +18,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Do not let your Macbook Pro get hot it will destroy the battery!!](#do-not-let-your-macbook-pro-get-hot-it-will-destroy-the-battery)
   - [Performance Falls through the floor on last 5-10% of battery life](#performance-falls-through-the-floor-on-last-5-10-of-battery-life)
 - [Terminal](#terminal)
+- [BioMetrics](#biometrics)
 - [Homebrew - Package Management](#homebrew---package-management)
 - [Mas - App Store Apps Management](#mas---app-store-apps-management)
 - [Activity Monitor](#activity-monitor)
@@ -193,6 +194,26 @@ This is where you should be spending your life if you're a techie, with a browse
   - 179 column width on my MacBook Pro 13" terminal
   - 204 on my MacBook Pro Retina 15" terminal
   - 215 on my Macbook Pro M3 2023 terminal - resolution gets better over time
+
+## BioMetrics
+
+On newer Macs, ensure your have fingerprint login set up.
+
+Check current biometric settings:
+
+```shell
+bioutil -r
+```
+
+Enable biometrics:
+
+```shell
+sudo bioutil -w -s -u 1
+```
+
+Add your fingerprints in the GUI (this can't be done from the command line):
+
+`Apple menu` → `System Settings` → `Touch ID & Password` → `Add Fingerprint`
 
 ## Homebrew - Package Management
 
