@@ -2,9 +2,10 @@
 
 <!-- INDEX_START -->
 
-- [Elevate to a root shell](#elevate-to-a-root-shell)
+- [Elevate to a Root Shell](#elevate-to-a-root-shell)
 - [Configure Which Users / Groups Can Sudo](#configure-which-users--groups-can-sudo)
 - [Passwordless Sudo](#passwordless-sudo)
+- [BioMetric Sudo](#biometric-sudo)
 - [Test Sudo](#test-sudo)
 
 <!-- INDEX_END -->
@@ -73,6 +74,14 @@ hari        ALL = (ALL) NOPASSWD: ALL
 
 as this `%admin` line requires a password for all members of the `admin` group which you will be in on your macOS.
 
+## BioMetric Sudo
+
+On [Mac](mac.md) you can enable using Touch ID fingerprint authorization of sudo:
+
+```shell
+sudo sh -c 'echo "auth sufficient pam_tid.so" >> /etc/pam.d/sudo_local'
+```
+
 ## Test Sudo
 
 Test sudo permission by first invalidating your sudo cached credential:
@@ -81,7 +90,14 @@ Test sudo permission by first invalidating your sudo cached credential:
 sudo -k
 ```
 
-and then retrying a basic command which should return successfully without a password prompt:
+and then retrying a basic command which should return successfully without a password prompt.
+
+```shell
+sudo echo success
+```
+
+To test Passwordless Sudo while disallowing a password prompt
+(you cannot use this for the BioMetric Sudo because it suppresses the pop-up for the fingerprint ID):
 
 ```shell
 sudo -n echo success
