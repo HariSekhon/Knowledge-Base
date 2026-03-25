@@ -241,6 +241,10 @@ Only go here if you want a quiet beach holiday.
 
 ### Restaurants in Negril
 
+- [Kool Vybes Bar And Jerk Center](https://maps.app.goo.gl/tFLyJfz7uDoKSoGv6) - popular and always more busy than
+  Shark Restaurant next door which is often quiet or empty at the same time.
+  Their jerk chicken is the same price as Shark's but they accept cards.
+  WiFi 16/18 Mbit/s
 - [Shark restaurant](https://maps.app.goo.gl/Cv4ha4Pt4f5xesWaA) - cheaper, better and bigger portions than many other
   tourist trap restaurants in the area, but cash only.
   The beef stew with rice for 2000 JMD ($13) was more satisfying than anticipated as it was both significantly larger
