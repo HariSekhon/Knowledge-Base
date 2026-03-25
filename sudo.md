@@ -59,6 +59,12 @@ If you want to add to another file under `/etc/sudoers.d/` then:
 sudo visudo -f /etc/sudoers.d/hari
 ```
 
+For details on all configuration options, read the sudoers man page:
+
+```shell
+man sudoers
+```
+
 ## Aloow Users / Groups to Sudo
 
 Allow a user to sudo by adding this line to `/etc/sudoers` or a file under `/etc/sudoers.d/`:
