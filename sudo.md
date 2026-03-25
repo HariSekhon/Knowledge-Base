@@ -73,7 +73,15 @@ Allow a user to sudo by adding this line to `/etc/sudoers` or a file under `/etc
 hari        ALL = (ALL) ALL
 ```
 
-Ensure if you create a new sourced file under `/etc/sudoers.d/` that you set correct permissions:
+For a group, prefix the group name with a percent sign, eg. this is set by default on Macs:
+
+```shell
+%admins   ALL = (ALL) ALL
+```
+
+Which means you could also just add users to that group instead of modifying the `/etc/sudoers`.
+
+If you create a new sourced file under `/etc/sudoers.d/` ensure you set correct permissions:
 
 ```shell
 sudo chmod 440 /etc/sudoers.d/hari
