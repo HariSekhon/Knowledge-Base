@@ -250,6 +250,13 @@ Not Recommended:
 - [New Buckfield](https://maps.app.goo.gl/y1bG7yWJZC99xHy87) - cheaper residential area with a more authentic Jamaican
   atmosphere and budget-friendly rental options
 
+<!--
+
+- [Enchanted Guest House](https://maps.app.goo.gl/JA7oPGbbdVGfXboQA) - reasonable
+  Wifi 25/9 Mbit/s
+
+-->
+
 ## Port Antonio
 
 [Port Antonio](https://maps.app.goo.gl/Vg1mnnrWgVU4oQ8X6) is a city on the north east coast of Jamaica.
