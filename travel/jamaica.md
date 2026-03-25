@@ -178,6 +178,30 @@ In hindsight I'd skip the entire West of Jamaica, especially if short on time.
 
 -->
 
+### Attractions in Montego Bay
+
+- [Harmony Beach & Park](https://maps.app.goo.gl/pPUcWA1qSNFBKkmU6) - free beach, but closes at 5pm
+- [Doctor's Cave Beach](https://maps.app.goo.gl/nqHk9oKguFrgBPtdA) - excellent but paid beach with many people taking
+  Instagram pics, but closes at 5pm
+- [Hip Strip](https://maps.app.goo.gl/j2TDn1Fz2KBdcMyL9) - bars & restaurants
+  - [Lounge 2727](https://maps.app.goo.gl/JjqkAtHisp3J1wQs7) - dead at 8pm but busy after 10pm when it charges \$10 (US)
+    entry for guys
+  - [Saxby](https://maps.app.goo.gl/zyWZe4hLEjx4oTFL7) - seaside bar
+  - [Margaritaville](https://maps.app.goo.gl/nxx5PXrtyMX8QDmdA) - seaside bar restaurant, closes at 10pm more nights
+    except for Thurs and Saturdays
+- [Sunset Beach](https://maps.app.goo.gl/zgd1buTegfXCtEmKA)
+- [Dead End Beach](https://maps.app.goo.gl/PB4S5KAam6EjvLNZ6) - plane watching beach
+
+### Retaurants in Montego Bay
+
+- [The Pork Pit](https://maps.app.goo.gl/HW6FhveK5XmvhAPi6) - popular and affordable bbq pork and chicken restaurant.
+  Given the name, one has to try the pork.
+  A good selection of sides including fries,
+  two sizes of rice & peas (beans), festivals,
+  green salad (nearly as expensive as the meat,
+  apparently Jamaicans don't believe in well priced salad, I'd skip this one next time).
+  No wifi
+
 ## Negril
 
 [Negril](https://maps.app.goo.gl/qpxEGDsqXmr5N2wo9) is a beach town on the West coast of Jamaica.
