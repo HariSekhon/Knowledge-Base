@@ -4,7 +4,7 @@
 
 - [Elevate to a Root Shell](#elevate-to-a-root-shell)
 - [Configure Sudo](#configure-sudo)
-  - [Aloow Users / Groups to Sudo](#aloow-users--groups-to-sudo)
+- [Aloow Users / Groups to Sudo](#aloow-users--groups-to-sudo)
 - [Passwordless Sudo](#passwordless-sudo)
 - [BioMetric Sudo](#biometric-sudo)
 - [Test Sudo](#test-sudo)
@@ -59,7 +59,7 @@ If you want to add to another file under `/etc/sudoers.d/` then:
 sudo visudo -f /etc/sudoers.d/hari
 ```
 
-### Aloow Users / Groups to Sudo
+## Aloow Users / Groups to Sudo
 
 Allow a user to sudo by adding this line to `/etc/sudoers` or a file under `/etc/sudoers.d/`:
 
