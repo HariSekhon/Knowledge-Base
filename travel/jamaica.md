@@ -293,6 +293,7 @@ TODO:
 - [Rockhouse Restaurant](https://maps.app.goo.gl/GpGURrRbpozMT1rX7) - 4.7
 - [Ivan's](https://maps.app.goo.gl/7J9jdizbCPXrLdXr5) - 4.6
 - [LTU Cliff Bar and Restaurant](https://maps.app.goo.gl/FLDnTbpzmhrP5iPH6) - 4.6, good view but expensive
+- [Vinnes Grill N Bar](https://maps.app.goo.gl/GUnKwjm1rgtWcLhj7) - 4.6
 - [Xtabi on the Cliffs](https://maps.app.goo.gl/pQktHdfCL25QvA6b9) - 4.5
 - [The Blue Mahoe Restaurant & Bar](https://maps.app.goo.gl/DyA11jm7Rb1GMRd76) - 4.5
 
