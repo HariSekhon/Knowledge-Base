@@ -94,20 +94,21 @@ sudo sh -c '[ -f /etc/pam.d/sudo_local ] || echo "auth sufficient pam_tid.so" >>
 
 ## Test Sudo
 
-Test sudo permission by first invalidating your sudo cached credential:
+First clear sudo cached credential:
 
 ```shell
 sudo -k
 ```
 
-and then retrying a basic command which should return successfully without a password prompt.
+Then try a basic command which should return successfully without a password prompt.
 
 ```shell
 sudo echo success
 ```
 
-To test Passwordless Sudo while disallowing a password prompt
-(you cannot use this for the BioMetric Sudo because it suppresses the pop-up for the fingerprint ID):
+To test Passwordless Sudo while disallowing a password prompt you can use the `-n` switch.
+
+You cannot use this to test BioMetric Sudo because it suppresses the GUI pop-up prompt for fingerprint ID.
 
 ```shell
 sudo -n echo success
