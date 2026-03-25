@@ -67,7 +67,7 @@ Allow a user to sudo by adding this line to `/etc/sudoers` or a file under `/etc
 hari        ALL = (ALL) ALL
 ```
 
-Ensure if you're creating a new file `/etc/sudoers.d/hari` that you set correct permissions:
+Ensure if you're creating a new sourced file under `/etc/sudoers.d/` that you set correct permissions:
 
 ```shell
 sudo chmod 440 /etc/sudoers.d/hari
