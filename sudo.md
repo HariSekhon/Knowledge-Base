@@ -59,7 +59,8 @@ If you want to add to another file under `/etc/sudoers.d/` then:
 sudo visudo -f /etc/sudoers.d/hari
 ```
 
-If you create a new sourced file under `/etc/sudoers.d/` ensure you set correct permissions:
+If you create a new file under `/etc/sudoers.d/` (which gets automatically sourced by `/etc/sudoers`),
+then ensure you set correct permissions:
 
 ```shell
 sudo chmod 440 /etc/sudoers.d/hari
