@@ -285,6 +285,7 @@ Only go here if you want a quiet beach holiday.
 
 TODO:
 
+- [Erica's Hideaway Restaurant and Bar](https://maps.app.goo.gl/Gr8B5Sx48qKCE3XA6) - 4.9
 - [Ivan's](https://maps.app.goo.gl/7J9jdizbCPXrLdXr5) - 4.6
 - [LTU Cliff Bar and Restaurant](https://maps.app.goo.gl/FLDnTbpzmhrP5iPH6) - 4.6, good view but expensive
 
