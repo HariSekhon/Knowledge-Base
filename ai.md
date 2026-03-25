@@ -328,6 +328,8 @@ Proprietary subscription, not bothering with it, used OpenAI Whisper below for f
 
 <https://www.plaud.ai/>
 
+<https://web.plaud.ai/>
+
 Portable devices to record and transcript using AI.
 
 It syncs the meeting transcript online with security compliance, summarizes the meeting and you can then query the LLM
