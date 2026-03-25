@@ -195,12 +195,20 @@ In hindsight I'd skip the entire West of Jamaica, especially if short on time.
 ### Retaurants in Montego Bay
 
 - [The Pork Pit](https://maps.app.goo.gl/HW6FhveK5XmvhAPi6) - popular and affordable bbq pork and chicken restaurant.
-  Given the name, one has to try the pork.
-  A good selection of sides including fries,
-  two sizes of rice & peas (beans), festivals,
+  There was quite the queue when I arrived, so you may have a wait.
+  You collect your meat order at the bbq outside, but collect your sides from the counter inside - you probably want to
+  collect your sides first as they take longer and to avoid letting your meat go cold waiting for the sides.
+  Given the name, one has to try the pork, although next time I'd try the jerk chicken.
+  It also has a good selection of sides including fries (good), fried sweet plantains (sold out),
+  festivals (fried dough, good but not quite as good as the ones from Best in the West in Negril),
+  two sizes of rice & peas [actually beans] (get the bigger size it's not that big),
   green salad (nearly as expensive as the meat,
   apparently Jamaicans don't believe in well priced salad, I'd skip this one next time).
-  No wifi
+  Aside from ketchup and mustard, there are 2 chilli sauces, both green, one mild and one spicy -
+  the latter is very spicy, especially if you squeeze out the green chilli paste instead of just the liquid,
+  so check carefully in small doses.
+  I prefer the mild one in this case, which I don't usually say.
+  No wifi unfortunately
 
 ## Negril
 
@@ -218,6 +226,10 @@ Only go here if you want a quiet beach holiday.
 - [West End](https://maps.app.goo.gl/4taCRn9mNnARStr56) - quieter area in the South, a very long 1 hour walk away from
   the beach though alongside roads with little to no pavement, so you may need to take taxis.
   The main thing down there is Rick's Cafe described under the restaurants section
+- [Lounge 2727](https://maps.app.goo.gl/JjqkAtHisp3J1wQs7) - cheaper menu than many surrounding tourist trap
+  restaurants, but served in a takeaway container as bar food rather than restaurant food.
+  Their jerk chicken for \$11 was decent and came with good fries too -
+  the sauce is on the side and the best jerk sauce I'd had in the several days I'd been in Jamaica.
 
 <!--
 
