@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Elevate to a Root Shell](#elevate-to-a-root-shell)
+  - [Dangerous Commands Which Can Escape to Elevated Shells](#dangerous-commands-which-can-escape-to-elevated-shells)
 - [Configure Which Users / Groups Can Sudo](#configure-which-users--groups-can-sudo)
 - [Passwordless Sudo](#passwordless-sudo)
 - [BioMetric Sudo](#biometric-sudo)
@@ -24,8 +25,34 @@ This is often frowned upon if you want every elevated command logged for strict 
 sudo su
 ```
 
-For better auditing you need to disable sudo to `su` or shells or scripts and instead enforce putting sudo in front of
-each individual command.
+For better auditing you need to enforce putting sudo in front of each individual command and
+disable any command that can do arbitrary elevated actions.
+
+This is harder than it first seems.
+
+The only really secure way to do this is with an explicit sudo command whitelist.
+
+Using disallowed paths is easily bypassed by just changing the path eg:
+
+```shell
+sudo cp /bin/sh "$HOME"/
+sudo "$HOME/sh
+```
+
+### Dangerous Commands Which Can Escape to Elevated Shells
+
+Any of the following commands allowed to `sudo` can bypass elevated unlogged shell restrictions:
+
+- `su`
+- `sudo -i` / `sudo -s`
+- [shells](shell.md)
+- scripts
+- pagers - `man`, `more`, `less` can run `!sh`
+- compilers & interpreters (eg.
+  [Python](python.md),
+  [Perl](perl.md),
+  [Ruby](ruby.md) etc.),
+- [IDEs and Editors](editors.md) ([IntelliJ](intellij.md), `vi`and `emacs` can run shells inside them).
 
 ## Configure Which Users / Groups Can Sudo
 
