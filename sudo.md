@@ -76,7 +76,7 @@ as this `%admin` line requires a password for all members of the `admin` group w
 
 ## BioMetric Sudo
 
-On [Mac](mac.md) you can enable using Touch ID fingerprint authorization of sudo:
+On [Mac](mac.md) you can enable using Touch ID fingerprint authorization of sudo.
 
 Create a file called `/etc/pam.d/sudo_local` with contents:
 
