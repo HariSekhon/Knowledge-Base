@@ -264,7 +264,7 @@ Only go here if you want a quiet beach holiday.
   The jerk chicken with rice was also the same price, 2000 JMD, and also much better than Rick's one in both quality and
   portion size.
   No wifi unfortunately, the staff can hotspot you if you really need it
-- [Murphy West End](https://maps.app.goo.gl/45pdCVxGZe5nRDr88) - jamaican food, quiet, cash only
+- [Murphy West End](https://maps.app.goo.gl/45pdCVxGZe5nRDr88) - jamaican food, quiet, cash only, no wifi
 - [Rick's Cafe](https://maps.app.goo.gl/KHnruN8wdmKxj69g6) - popular cliffside view resort with a pool, 2 bars and a restaurant
   split over 2 levels, a live DJ and dance area, as well as a dive point with life guards.
   Can be windy due to the ocean front, but the view is good.
