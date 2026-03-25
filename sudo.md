@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Elevate to a Root Shell](#elevate-to-a-root-shell)
+- [Configuring Sudo](#configuring-sudo)
 - [Configure Which Users / Groups Can Sudo](#configure-which-users--groups-can-sudo)
 - [Passwordless Sudo](#passwordless-sudo)
 - [BioMetric Sudo](#biometric-sudo)
@@ -38,7 +39,7 @@ The only really secure way to do this is with an explicit careful sudo command w
 
 See some issues under the [Sudo Security](#sudo-security) section below.
 
-## Configure Which Users / Groups Can Sudo
+## Configuring Sudo
 
 Configure which users and groups can sudo and to which commands by editing the `/etc/sudoers` file
 (or sometimes `/etc/sudoers.d/...` include files).
@@ -58,15 +59,15 @@ If you want to add to another file under `/etc/sudoers.d/` then:
 sudo visudo -f /etc/sudoers.d/hari
 ```
 
-Replace `hari` with your username.
+## Configure Which Users / Groups Can Sudo
 
-The line you need to add is:
+Allow a user to sudo by adding this line to `/etc/sudoers` or a file under `/etc/sudoers.d/`:
 
 ```text
 hari        ALL = (ALL) ALL
 ```
 
-Ensure if you're create a new file `/etc/sudoers.d/hari` that you set correct permissions:
+Ensure if you're creating a new file `/etc/sudoers.d/hari` that you set correct permissions:
 
 ```shell
 sudo chmod 440 /etc/sudoers.d/hari
