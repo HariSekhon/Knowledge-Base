@@ -18,12 +18,13 @@ sudo <somecommand>
 
 ## Elevate to a Root Shell
 
-This is often frowned upon if you want every elevated command logged for strict auditing,
-in which case you need to enforce putting sudo in front of each command.
+This is often frowned upon if you want every elevated command logged for strict auditing.
 
 ```shell
 sudo su
 ```
+
+For better auditing you need to enforce putting sudo in front of each command.
 
 ## Configure Which Users / Groups Can Sudo
 
