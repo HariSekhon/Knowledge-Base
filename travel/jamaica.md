@@ -197,7 +197,7 @@ In hindsight I'd skip the entire West of Jamaica, especially if short on time.
 
 ### Retaurants in Montego Bay
 
-Restaurants in Negril seemed tourist priced. Not a foodie destination.
+Restaurants in Montego Bay seemed tourist priced. Not a foodie destination.
 
 - [The Pork Pit](https://maps.app.goo.gl/HW6FhveK5XmvhAPi6) - popular and affordable bbq pork and chicken restaurant.
   There was quite the queue when I arrived, so you may have a wait.
