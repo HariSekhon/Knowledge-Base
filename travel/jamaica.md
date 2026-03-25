@@ -260,8 +260,9 @@ Only go here if you want a quiet beach holiday.
   Founded in 1974, over 50 years, overhyped and priced accordingly.
   The menu is priced in US dollars, always a bad sign that it's tourist priced.
   As of March 2026 the mains were \$26 - \$32 for simple things like jerk chicken with rice.
-  To put that into perspective, the nearby Kool Vybes Bar charges 2000 JMD (\$13) for the same dish of
-  1/4 jerk chicken and rice.
+  A mediocre jerk chicken was \$28 + tax + tip = \$37.
+  To put that into perspective, the nearby Kool Vybes Bar and Sharks both charge 2000 JMD (\$13) for the same dish of
+  1/4 jerk chicken and rice, and both are better in size, quality and flavour.
   I would say just get a drink for the experience of the place but the drinks were \$14 - \$16 each.
   The grill bar downstairs had burgers & fries for \$17.
   They don't have fresh squeezed juices.
