@@ -350,6 +350,9 @@ Not Recommended:
 - [Turtle River Park](https://maps.app.goo.gl/AwyTUGsfj92P4Ztm8)
 - [Island Village](https://maps.app.goo.gl/pHrJ1uLZZf6GVexV7) - small open air shopping centre
   - [Pure Chocolate Jamaica](https://maps.app.goo.gl/g73KfTcSBVYRCU4M7) - fancy chocolate shop in , family business
+- [Blue Hole](https://maps.app.goo.gl/nxDVJUyVihfEnp4c7) - tourist priced private land water fall, \$25 entry.
+  Next time I would not take a tour guide, my one was rubbish and asked for 1000-2000 JMD tip while also ruining the
+  experience with a bad attitude throughout, you don't need them unless you are alone and just need a lifeguard
 
 ### Restaurants in Ocho Rios
 
