@@ -146,7 +146,9 @@ and time is this:
   `SEQUENCE` returned
 - `current_hour, HOUR(NOW())` - gets the hour of the current time
 - `start_offset, IF(current_hour >= 15, 0.5, 0)` - generate start offset as either 0.5 or 0 representing evening or
-  morning respectively, if the current time is after 3pm (15:00 - current_hour is greater than 15)
+  morning respectively.
+  If the current time is after 3pm (15:00 - current_hour is greater than 15),
+  then add 0.5 to represent that the next starting column should be an evening one
 - `SEQUENCE(rows, columns, start, step)`
   - `SEQUENCE(1, 10, start_offset, 0.5)` - stay on this same row, create 10 columns, use a starting offset,
     increment by 0.5 each time
