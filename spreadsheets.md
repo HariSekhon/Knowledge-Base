@@ -134,11 +134,12 @@ The important formula to generate the dates for the next 5 days Mornings and Eve
 
 ### Explanation of Date Morning & Evening Header Generation Formula Magic
 
-- `ARRAYFORMULA` - small factory that builds 10 custom label headers at once for the next 5 days mornings and evenings
+- `ARRAYFORMULA` - small factory that builds `intervals` number of following cells as defined by the number of
+  `SEQUENCE` returned
 - `current_hour, HOUR(NOW())` - gets the hour of the current time
 - `start_offset, IF(current_hour >= 18, 0.5, 0)` - generate start offset as either 0.5 or 0 representing evening or
   morning respectively, if the current time is past 18:00 (current_hour is greater than 18)
-- `SEQUENCE` - creates 10 cells with a starting offset, incrementing by 0.5 each time
+- `SEQUENCE` - creates 10 intervals with a starting offset, incrementing by 0.5 each time
   - whole numbers represent days from today, while the 0.5 additions represent the evenings in those days
 - `TEXT` - formulates the date into the Day of Week, Month, Year format from the date calculation from `TODAY()`
   - `QUOTIENT` - does integer division on the interval and discards the remainder (the 0.5), giving us just a day
