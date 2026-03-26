@@ -217,6 +217,11 @@ Restaurants in Montego Bay seemed tourist priced. Not a foodie destination.
   I prefer the mild one in this case, which I don't usually say.
   No wifi unfortunately
 
+TODO:
+
+- [Bollywood Dhaba](https://maps.app.goo.gl/oHgL3gSCodQ5EfmD9) - 4.8, expensive Indian restaurant, Western priced or
+  higher
+
 ## Negril
 
 [Negril](https://maps.app.goo.gl/qpxEGDsqXmr5N2wo9) is a beach town on the West coast of Jamaica.
