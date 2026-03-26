@@ -8,7 +8,7 @@ Excel and Google Sheets tips.
 - [Move Rows](#move-rows)
 - [Auto-Calculate Dates](#auto-calculate-dates)
   - [Explanation of Date Chaining Formula Magic](#explanation-of-date-chaining-formula-magic)
-- [Calculate Eggs Usage Over The Next Few Days, Mornings & Evenings](#calculate-eggs-usage-over-the-next-few-days-mornings--evenings)
+- [Calculate Eggs Usage Over The Next Few Days - Mornings & Evenings](#calculate-eggs-usage-over-the-next-few-days---mornings--evenings)
   - [Explanation of Date Morning & Evening Header Generation Formula Magic](#explanation-of-date-morning--evening-header-generation-formula-magic)
 - [Memes](#memes)
   - [CPU, RAM](#cpu-ram)
@@ -107,7 +107,7 @@ For the next row's `Start Date` it's similar to the above, except
   - `1` - moves one cell to the right
   - Returns the single cell's value at that offset ie. the previous row's end date cell
 
-## Calculate Eggs Usage Over The Next Few Days, Mornings & Evenings
+## Calculate Eggs Usage Over The Next Few Days - Mornings & Evenings
 
 You can see my exact spreadsheet and its formulae here:
 
