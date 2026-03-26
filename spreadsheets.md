@@ -127,7 +127,7 @@ and time is this:
 =ARRAYFORMULA(
     LET(
         current_hour, HOUR(NOW()),
-        start_offset, IF(current_hour >= 18, 0.5, 0),
+        start_offset, IF(current_hour >= 15, 0.5, 0),
         intervals, SEQUENCE(1, 10, start_offset, 0.5),
         TEXT(
             TODAY() + QUOTIENT(intervals, 1), "ddd, mmmm, yyyy"
@@ -145,8 +145,8 @@ and time is this:
 - `ARRAYFORMULA` - small factory that builds `intervals` number of following cells as defined by the number of
   `SEQUENCE` returned
 - `current_hour, HOUR(NOW())` - gets the hour of the current time
-- `start_offset, IF(current_hour >= 18, 0.5, 0)` - generate start offset as either 0.5 or 0 representing evening or
-  morning respectively, if the current time is past 18:00 (current_hour is greater than 18)
+- `start_offset, IF(current_hour >= 15, 0.5, 0)` - generate start offset as either 0.5 or 0 representing evening or
+  morning respectively, if the current time is after 3pm (15:00 - current_hour is greater than 15)
 - `SEQUENCE(rows, columns, start, step)`
   - `SEQUENCE(1, 10, start_offset, 0.5)` - stay on this same row, create 10 columns, use a starting offset,
     increment by 0.5 each time
