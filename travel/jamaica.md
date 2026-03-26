@@ -364,6 +364,7 @@ TODO:
 - [The Courthouse Gallery & Cafe](https://maps.app.goo.gl/6UZTi44cufQNTLcs6) - 4.7, closes early at 5pm
 - [Banana Leaf Restaurant & Hookah Lounge](https://maps.app.goo.gl/9jVpMqgSV8oj6BnA6) - 4.7
 - [Ciao Bella Art Cafe & Restaurant](https://maps.app.goo.gl/aLyc276QsGZYWZwN7) - 4.5
+- [Calabash](https://maps.app.goo.gl/kGixwghpaLNVR8aX7) - 4.5
 - [KK Tavern & Lounge](https://maps.app.goo.gl/VDckq4BSecm8D4uN8) - 4.9
 - [Margaritaville](https://maps.app.goo.gl/Unt8xu77rxXatRPcA) - 4.2, has a small private beach
 - [John Crow's Tavern](https://maps.app.goo.gl/T1WctjKBCGF2aVuh8) - 4.1
