@@ -7,7 +7,9 @@ Excel and Google Sheets tips.
 - [Use Google Sheets Offline](#use-google-sheets-offline)
 - [Move Rows](#move-rows)
 - [Auto-Calculate Dates](#auto-calculate-dates)
-  - [Explanation of Formula Magic](#explanation-of-formula-magic)
+  - [Explanation of Date Chaining Formula Magic](#explanation-of-date-chaining-formula-magic)
+- [Calculate Eggs Usage Over The Next Few Days](#calculate-eggs-usage-over-the-next-few-days)
+  - [Explanation of Date Morning & Evening Header Generation Magic Formula](#explanation-of-date-morning--evening-header-generation-magic-formula)
 - [Memes](#memes)
   - [CPU, RAM](#cpu-ram)
 
@@ -84,7 +86,7 @@ to figure out how many EU days you've used to make sure you don't go over the vi
 
 Adjust the row cell coordinates to match your real world table's days column.
 
-### Explanation of Formula Magic
+### Explanation of Date Chaining Formula Magic
 
 - `ROW()` - returns the row number of the current cell
 - `COLUMN()` - returns the column number of the current cell
@@ -104,6 +106,46 @@ For the next row's `Start Date` it's similar to the above, except
   - `-1` - moves one row up
   - `1` - moves one cell to the right
   - Returns the single cell's value at that offset ie. the previous row's end date cell
+
+## Calculate Eggs Usage Over The Next Few Days
+
+You can see my exact spreadsheet and its formulae here:
+
+[Google Sheets - Eggs Planner](https://docs.google.com/spreadsheets/d/1196PJDLPIcc1l4kkTcapM8-uFkAyKMwRv2IajK1LgTU/edit?usp=sharing)
+
+The important formula to generate the dates for the next 5 days Mornings and Evenings is this:
+
+```text
+=ARRAYFORMULA(
+    LET(
+        current_hour, HOUR(NOW()),
+        start_offset, IF(current_hour >= 18, 0.5, 0),
+        intervals, SEQUENCE(1, 10, start_offset, 0.5),
+        TEXT(
+            TODAY() + QUOTIENT(intervals, 1), "ddd, mmmm, yyyy"
+        )
+        & CHAR(10)
+        & IF(
+            MOD(intervals, 1) = 0, "Morning", "Evening"
+        )
+    )
+)
+```
+
+### Explanation of Date Morning & Evening Header Generation Magic Formula
+
+- `ARRAYFORMULA` - small factory that builds 10 custom label headers at once for the next 5 days mornings and evenings
+- `current_hour, HOUR(NOW())` - gets the hour of the current time
+- `start_offset, IF(current_hour >= 18, 0.5, 0)` - generate start offset as either 0.5 or 0 representing evening or
+  morning respectively, if the current time is past 18:00 (current_hour is greater than 18)
+- `SEQUENCE` - creates 10 cells with a starting offset, incrementing by 0.5 each time
+  - whole numbers represent days from today, while the 0.5 additions represent the evenings in those days
+- `TEXT` - formulates the date into the Day of Week, Month, Year format from the date calculation from `TODAY()`
+  - `QUOTIENT` - does integer division on the interval and discards the remainder (the 0.5), giving us just a day
+    integer to add to `TODAY()`
+- `CHAR(10)` - is just the newline (`\n`) character and `&` is just a string append operator
+- `IF(MOD(intervals, 1) = 0, "Morning", "Evening")` - checks the interval number - if it's whole as determined by the
+  modulus giving a remainder equalling 0, it writes "Morning", otherwise "Evening"
 
 ## Memes
 
