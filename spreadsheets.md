@@ -113,7 +113,15 @@ You can see my exact spreadsheet and its formulae here:
 
 [Google Sheets - Eggs Planner](https://docs.google.com/spreadsheets/d/1196PJDLPIcc1l4kkTcapM8-uFkAyKMwRv2IajK1LgTU/edit?usp=sharing)
 
-The important formula to generate the dates for the next 5 days Mornings and Evenings is this:
+The Total Remaining Eggs field is manually updated based on how many eggs I have in the fridge after a shop or using some up.
+
+The Unallocated Eggs field is a simple formula or deducting the eggs each day's morning and evening from the total.
+I manually allocate the numbers of eggs I intend to use on different mornings and evenings
+(I front load my eggs in the mornings as breakfast and only have few to no eggs in the evenings depending on the
+heaviness of my dinners vs workouts and recovery needed).
+
+The important formula to auto-generate the date headers for the next 5 days Mornings and Evenings based on today's date
+and time is this:
 
 ```text
 =ARRAYFORMULA(
