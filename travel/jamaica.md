@@ -16,7 +16,7 @@
 - [Montego Bay](#montego-bay)
   - [Best Areas to Stay in Montego Bay](#best-areas-to-stay-in-montego-bay)
   - [Attractions in Montego Bay](#attractions-in-montego-bay)
-  - [Retaurants in Montego Bay](#retaurants-in-montego-bay)
+  - [Restaurants in Montego Bay](#restaurants-in-montego-bay)
 - [Negril](#negril)
   - [Best Areas to Stay in Negril](#best-areas-to-stay-in-negril)
   - [Attractions in Negril](#attractions-in-negril)
@@ -24,6 +24,8 @@
   - [Groceries in Negril](#groceries-in-negril)
 - [Ocho Rios](#ocho-rios)
   - [Best Areas to Stay in Ocho Rios](#best-areas-to-stay-in-ocho-rios)
+  - [Attractions in Ocho Rios](#attractions-in-ocho-rios)
+  - [Restaurants in Ocho Rios](#restaurants-in-ocho-rios)
 - [Port Antonio](#port-antonio)
 
 <!-- INDEX_END -->
