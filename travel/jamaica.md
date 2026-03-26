@@ -27,6 +27,7 @@
   - [Attractions in Ocho Rios](#attractions-in-ocho-rios)
   - [Restaurants in Ocho Rios](#restaurants-in-ocho-rios)
 - [Port Antonio](#port-antonio)
+  - [Best Areas to Stay in Port Antonio](#best-areas-to-stay-in-port-antonio)
 
 <!-- INDEX_END -->
 
@@ -362,6 +363,9 @@ Not Recommended:
 
 ### Restaurants in Ocho Rios
 
+- [John Crow's Tavern](https://maps.app.goo.gl/T1WctjKBCGF2aVuh8) - open late until 11pm whereas many others close at
+  10pm, mid-priced, mid quality
+
 TODO:
 
 - [Silver Sands Restaurant & Lounge](https://maps.app.goo.gl/6kqShfreRZJbLNKA9) - 4.5
@@ -374,10 +378,27 @@ TODO:
 - [Margaritaville](https://maps.app.goo.gl/Unt8xu77rxXatRPcA) - 4.2, priced in dollars, always a bad sign,
   western prices, has a small private beach
 - [Miss T's Kitchen](https://maps.app.goo.gl/skTgw8HTiEFej7c96) - 4.2
-- [John Crow's Tavern](https://maps.app.goo.gl/T1WctjKBCGF2aVuh8) - 4.1
 
 ## Port Antonio
 
 [Port Antonio](https://maps.app.goo.gl/Vg1mnnrWgVU4oQ8X6) is a city on the north east coast of Jamaica.
 
-TODO
+### Best Areas to Stay in Port Antonio
+
+- [Port Antonio Town Center](https://maps.app.goo.gl/uJ5YfZPr8kuzYi9Y8) - lively local hub with markets food and easy transport access
+- [Titchfield Peninsula](https://maps.app.goo.gl/8Adwsnq8tEyFWJaQ9) - historic area with colonial architecture near the
+  marina and town
+- [San San](https://maps.app.goo.gl/P9nkFJZbqowKSwKo8) / [Drapers](https://maps.app.goo.gl/75RvKrvUAKw5ZxpH6) -
+  quiet upmarket coastal area with villas and boutique stays near beaches, West of the main Port Antonion
+- [Blue Lagoon Area](https://maps.app.goo.gl/Ngf7HoCpSYGJ4Ai79) - peaceful nature-focused area with iconic lagoon and
+  eco-style stays.
+  Even further West than San San and Drapers
+
+Other nearby towns / areas:
+
+- [Frenchman’s Cove](https://maps.app.goo.gl/aYxX24BKwwiPdhTLA) - scenic beach resort area with lush surroundings for
+  more secluded stays
+- [Long Bay](https://www.google.com/maps/search/?api=1&query=Long+Bay+Portland+Jamaica) - laid-back stretch of coastline
+  ideal for surfers and uncrowded beach stays
+- [Boston Bay](https://www.google.com/maps/search/?api=1&query=Boston+Bay+Portland+Jamaica) - relaxed surf spot known
+  for jerk food and backpacker vibe
