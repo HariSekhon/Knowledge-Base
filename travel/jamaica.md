@@ -371,7 +371,8 @@ TODO:
 - [Ciao Bella Art Cafe & Restaurant](https://maps.app.goo.gl/aLyc276QsGZYWZwN7) - 4.5
 - [Calabash](https://maps.app.goo.gl/kGixwghpaLNVR8aX7) - 4.5
 - [KK Tavern & Lounge](https://maps.app.goo.gl/VDckq4BSecm8D4uN8) - 4.9
-- [Margaritaville](https://maps.app.goo.gl/Unt8xu77rxXatRPcA) - 4.2, has a small private beach
+- [Margaritaville](https://maps.app.goo.gl/Unt8xu77rxXatRPcA) - 4.2, priced in dollars, always a bad sign,
+  western prices, has a small private beach
 - [John Crow's Tavern](https://maps.app.goo.gl/T1WctjKBCGF2aVuh8) - 4.1
 
 ## Port Antonio
