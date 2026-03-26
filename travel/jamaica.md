@@ -216,6 +216,10 @@ Restaurants in Montego Bay seemed tourist priced. Not a foodie destination.
   so check carefully in small doses.
   I prefer the mild one in this case, which I don't usually say.
   No wifi unfortunately
+- [Lounge 2727](https://maps.app.goo.gl/JjqkAtHisp3J1wQs7) - cheaper menu than many surrounding tourist trap
+  restaurants, but served in a takeaway container as bar food rather than restaurant food.
+  Their jerk chicken for \$11 was decent and came with good fries too -
+  the sauce is on the side and the best jerk sauce I'd had in the several days I'd been in Jamaica.
 
 TODO:
 
@@ -238,10 +242,6 @@ Only go here if you want a quiet beach holiday.
 - [West End](https://maps.app.goo.gl/4taCRn9mNnARStr56) - quieter area in the South, a very long 1 hour walk away from
   the beach though alongside roads with little to no pavement, so you may need to take taxis.
   The main thing down there is Rick's Cafe described under the restaurants section
-- [Lounge 2727](https://maps.app.goo.gl/JjqkAtHisp3J1wQs7) - cheaper menu than many surrounding tourist trap
-  restaurants, but served in a takeaway container as bar food rather than restaurant food.
-  Their jerk chicken for \$11 was decent and came with good fries too -
-  the sauce is on the side and the best jerk sauce I'd had in the several days I'd been in Jamaica.
 
 <!--
 
