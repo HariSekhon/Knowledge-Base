@@ -339,7 +339,8 @@ Not Recommended:
 
 <!--
 
-- [Enchanted Guest House](https://maps.app.goo.gl/JA7oPGbbdVGfXboQA) - reasonable
+- [Enchanted Guest House](https://maps.app.goo.gl/JA7oPGbbdVGfXboQA) - reasonable, might be the only hostel in town,
+  but was very quiet, 2 people outgoing on same day and only one other person the first night, and empty thereafter.
   Wifi 25/9 Mbit/s
 
 -->
