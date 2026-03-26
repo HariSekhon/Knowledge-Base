@@ -361,6 +361,7 @@ TODO:
 - [Silver Sands Restaurant & Lounge](https://maps.app.goo.gl/6kqShfreRZJbLNKA9) - 4.5
 - [Tutti Frutti](https://maps.app.goo.gl/aGqprM2rd5JTQppf6) - 4.4 frozen yoghurt
 - [The Courthouse Gallery & Cafe](https://maps.app.goo.gl/6UZTi44cufQNTLcs6) - 4.7, closes early at 5pm
+- [Banana Leaf Restaurant & Hookah Lounge](https://maps.app.goo.gl/9jVpMqgSV8oj6BnA6) - 4.7
 - [KK Tavern & Lounge](https://maps.app.goo.gl/VDckq4BSecm8D4uN8) - 4.9
 - [Margaritaville](https://maps.app.goo.gl/Unt8xu77rxXatRPcA) - 4.2, has a small private beach
 - [John Crow's Tavern](https://maps.app.goo.gl/T1WctjKBCGF2aVuh8) - 4.1
