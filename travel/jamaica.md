@@ -195,7 +195,7 @@ In hindsight I'd skip the entire West of Jamaica, especially if short on time.
 - [Sunset Beach](https://maps.app.goo.gl/zgd1buTegfXCtEmKA)
 - [Dead End Beach](https://maps.app.goo.gl/PB4S5KAam6EjvLNZ6) - plane watching beach
 
-### Retaurants in Montego Bay
+### Restaurants in Montego Bay
 
 Restaurants in Montego Bay seemed tourist priced. Not a foodie destination.
 
@@ -341,6 +341,23 @@ Not Recommended:
   Wifi 25/9 Mbit/s
 
 -->
+
+### Attractions in Ocho Rios
+
+- [Ocho Rios Bay Beach](https://maps.app.goo.gl/Rf4Mth6iiA2VkAoMA) - paid entry beach
+- [Island Village](https://maps.app.goo.gl/pHrJ1uLZZf6GVexV7) - small open air shopping centre
+  - [Pure Chocolate Jamaica](https://maps.app.goo.gl/g73KfTcSBVYRCU4M7) - fancy chocolate shop in , family business
+
+### Restaurants in Ocho Rios
+
+TODO:
+
+- [Silver Sands Restaurant & Lounge](https://maps.app.goo.gl/6kqShfreRZJbLNKA9) - 4.5
+- [Tutti Frutti](https://maps.app.goo.gl/aGqprM2rd5JTQppf6) - 4.4 frozen yoghurt
+- [The Courthouse Gallery & Cafe](https://maps.app.goo.gl/6UZTi44cufQNTLcs6) - 4.7, closes early at 5pm
+- [KK Tavern & Lounge](https://maps.app.goo.gl/VDckq4BSecm8D4uN8) - 4.9
+- [Margaritaville](https://maps.app.goo.gl/Unt8xu77rxXatRPcA) - 4.2, has a small private beach
+- [John Crow's Tavern](https://maps.app.goo.gl/T1WctjKBCGF2aVuh8) - 4.1
 
 ## Port Antonio
 
