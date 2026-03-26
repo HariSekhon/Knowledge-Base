@@ -347,6 +347,7 @@ Not Recommended:
 ### Attractions in Ocho Rios
 
 - [Ocho Rios Bay Beach](https://maps.app.goo.gl/Rf4Mth6iiA2VkAoMA) - paid entry beach
+- [Turtle River Park](https://maps.app.goo.gl/AwyTUGsfj92P4Ztm8)
 - [Island Village](https://maps.app.goo.gl/pHrJ1uLZZf6GVexV7) - small open air shopping centre
   - [Pure Chocolate Jamaica](https://maps.app.goo.gl/g73KfTcSBVYRCU4M7) - fancy chocolate shop in , family business
 
