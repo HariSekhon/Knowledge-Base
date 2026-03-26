@@ -6,7 +6,7 @@ Excel and Google Sheets tips.
 
 - [Use Google Sheets Offline](#use-google-sheets-offline)
 - [Move Rows](#move-rows)
-- [Auto-Calculate Dates](#auto-calculate-dates)
+- [Auto-Calculate Date Chaining](#auto-calculate-date-chaining)
   - [Explanation of Date Chaining Formula Magic](#explanation-of-date-chaining-formula-magic)
 - [Calculate Eggs Usage Over The Next Few Days - Mornings & Evenings](#calculate-eggs-usage-over-the-next-few-days---mornings--evenings)
   - [Explanation of Date Morning & Evening Header Generation Formula Magic](#explanation-of-date-morning--evening-header-generation-formula-magic)
@@ -33,7 +33,7 @@ I often need to move rows to juggle countries around on my Travel Dates spreadsh
 
 Make sure you use formulae for the dates so everything auto adjusts... see next tip.
 
-## Auto-Calculate Dates
+## Auto-Calculate Date Chaining
 
 You can add a number of integer days to a date field to automatically calculate the end date.
 
