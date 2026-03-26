@@ -373,6 +373,7 @@ TODO:
 - [KK Tavern & Lounge](https://maps.app.goo.gl/VDckq4BSecm8D4uN8) - 4.9
 - [Margaritaville](https://maps.app.goo.gl/Unt8xu77rxXatRPcA) - 4.2, priced in dollars, always a bad sign,
   western prices, has a small private beach
+- [Miss T's Kitchen](https://maps.app.goo.gl/skTgw8HTiEFej7c96) - 4.2
 - [John Crow's Tavern](https://maps.app.goo.gl/T1WctjKBCGF2aVuh8) - 4.1
 
 ## Port Antonio
