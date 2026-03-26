@@ -9,7 +9,7 @@ Excel and Google Sheets tips.
 - [Auto-Calculate Dates](#auto-calculate-dates)
   - [Explanation of Date Chaining Formula Magic](#explanation-of-date-chaining-formula-magic)
 - [Calculate Eggs Usage Over The Next Few Days](#calculate-eggs-usage-over-the-next-few-days)
-  - [Explanation of Date Morning & Evening Header Generation Magic Formula](#explanation-of-date-morning--evening-header-generation-magic-formula)
+  - [Explanation of Date Morning & Evening Header Generation Formula Magic](#explanation-of-date-morning--evening-header-generation-formula-magic)
 - [Memes](#memes)
   - [CPU, RAM](#cpu-ram)
 
@@ -132,7 +132,7 @@ The important formula to generate the dates for the next 5 days Mornings and Eve
 )
 ```
 
-### Explanation of Date Morning & Evening Header Generation Magic Formula
+### Explanation of Date Morning & Evening Header Generation Formula Magic
 
 - `ARRAYFORMULA` - small factory that builds 10 custom label headers at once for the next 5 days mornings and evenings
 - `current_hour, HOUR(NOW())` - gets the hour of the current time
