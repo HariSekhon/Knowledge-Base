@@ -1384,6 +1384,20 @@ To generate a pop-up that disappears after 5 seconds:
 osascript -e 'display dialog "This will vanish in 5 seconds..." with title "Self-Destructing Pop-up" buttons {"OK"} default button "OK" giving up after 5'
 ```
 
+If it expires, the command outputs this text:
+
+```text
+button returned:, gave up:true
+```
+
+If you click the `OK` button to dismiss it, returns this text:
+
+```text
+button returned:OK, gave up:false
+```
+
+This allows you to capture the output in a script and then take some fallback action.
+
 ### Disk Management
 
 #### Disk Utility
