@@ -85,7 +85,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Start At Login](#start-at-login)
   - [Notifications](#notifications)
     - [Temporary Pop-Up Banners](#temporary-pop-up-banners)
-    - [Alert Notifications](#alert-notifications)
+    - [Persistent Alert Notifications](#persistent-alert-notifications)
+    - [Temporary Alert Notifications](#temporary-alert-notifications)
   - [Disk Management](#disk-management)
     - [Disk Utility](#disk-utility)
     - [Disk Space Analysis](#disk-space-analysis)
@@ -1367,12 +1368,20 @@ osascript -e 'display notification "Your message here" with title "Automation" s
 
 If it's important you can use an alert instead as shown below.
 
-#### Alert Notifications
+#### Persistent Alert Notifications
 
 To generate a pop-up alert notification that requires manual dismissal:
 
 ```shell
 osascript -e 'display alert "Important Message Title" message "Backup completed successfully" as informational'
+```
+
+#### Temporary Alert Notifications
+
+To generate a pop-up that disappears after 5 seconds:
+
+```shell
+osascript -e 'display dialog "This will vanish in 5 seconds..." with title "Self-Destructing Pop-up" buttons {"OK"} default button "OK" giving up after 5'
 ```
 
 ### Disk Management
