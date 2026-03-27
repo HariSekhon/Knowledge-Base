@@ -1350,6 +1350,16 @@ end tell
 EOF
 ```
 
+### Pop-Up Notifications
+
+You can use native AppleScript to generate a temporary desktop pop-up notification:
+
+```shell
+osascript -e 'display notification "Your message here" with title "Automation" subtitle "Status Update"'
+```
+
+**WARNING: If user has `Do Not Disturb` set, then these notifications may be suppressed.**
+
 ### Disk Management
 
 #### Disk Utility
