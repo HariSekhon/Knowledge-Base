@@ -83,6 +83,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [List Installed Packages](#list-installed-packages)
   - [Launchctl](#launchctl)
   - [Start At Login](#start-at-login)
+  - [Pop-Up Notifications](#pop-up-notifications)
   - [Disk Management](#disk-management)
     - [Disk Utility](#disk-utility)
     - [Disk Space Analysis](#disk-space-analysis)
