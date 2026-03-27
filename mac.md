@@ -1358,11 +1358,15 @@ EOF
 
 #### Temporary Pop-Up Banners
 
-You can use native AppleScript to generate a temporary desktop pop-up notification:
+You can use native AppleScript to generate a temporary desktop pop-up notification in the top right corner of the
+screen like this:
 
 ```shell
 osascript -e 'display notification "Your message here" with title "Automation" subtitle "Status Update"'
 ```
+
+These notifications stay in your notification history until dismissed.
+You can see them if you click on the clock in the top right corner to open the notification centre.
 
 **WARNING: If user has `Do Not Disturb` set, then these notifications may be suppressed.**
 
@@ -1378,7 +1382,7 @@ osascript -e 'display alert "Important Message Title" message "Backup completed 
 
 #### Temporary Alert Notifications
 
-To generate a pop-up that disappears after 5 seconds:
+To generate a pop-up in the middle of the screen that disappears after 5 seconds:
 
 ```shell
 osascript -e 'display dialog "This will vanish in 5 seconds..." with title "Self-Destructing Pop-up" buttons {"OK"} default button "OK" giving up after 5'
