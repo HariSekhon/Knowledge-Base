@@ -83,7 +83,9 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [List Installed Packages](#list-installed-packages)
   - [Launchctl](#launchctl)
   - [Start At Login](#start-at-login)
-  - [Pop-Up Notifications](#pop-up-notifications)
+  - [Notifications](#notifications)
+    - [Temporary Pop-Up Banners](#temporary-pop-up-banners)
+    - [Alert Notifications](#alert-notifications)
   - [Disk Management](#disk-management)
     - [Disk Utility](#disk-utility)
     - [Disk Space Analysis](#disk-space-analysis)
@@ -1351,7 +1353,9 @@ end tell
 EOF
 ```
 
-### Pop-Up Notifications
+### Notifications
+
+#### Temporary Pop-Up Banners
 
 You can use native AppleScript to generate a temporary desktop pop-up notification:
 
@@ -1360,6 +1364,16 @@ osascript -e 'display notification "Your message here" with title "Automation" s
 ```
 
 **WARNING: If user has `Do Not Disturb` set, then these notifications may be suppressed.**
+
+If it's important you can use an alert instead as shown below.
+
+#### Alert Notifications
+
+To generate a pop-up alert notification that requires manual dismissal:
+
+```shell
+osascript -e 'display alert "Important Message Title" message "Backup completed successfully" as informational'
+```
 
 ### Disk Management
 
