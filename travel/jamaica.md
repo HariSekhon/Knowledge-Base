@@ -3,7 +3,7 @@
 <!-- INDEX_START -->
 
 - [Immigration Hassles](#immigration-hassles)
-- [Population](#population)
+- [Stats](#stats)
 - [Travel Between Cities in Jamaica](#travel-between-cities-in-jamaica)
 - [Kingston](#kingston)
   - [Kingston Airport - Norman Manley International - KIN](#kingston-airport---norman-manley-international---kin)
@@ -37,13 +37,24 @@ You have to fill in an online form before you go through immigration.
 
 <https://enterjamaica.gov.jm/>
 
-## Population
+## Stats
 
 [Jamaica](https://en.wikipedia.org/wiki/Jamaica) has a population of only 2.8 million people,
-much to my surprise for a country of such significant cultural heritage, music, and population in London.
+much to my surprise for a country of such significant music and cultural propaganda.
+
+Nearly 10% of Jamaica's population is living in London (250,000)
+while nearly 30% of Jamaica's population is living in the UK (800,000)!
+Crazy figures contributing to the UK housing crisis while Jamaica is half empty.
+If anybody knows how much taxes they pay vs welfare claimed, especially in London council housing, please let me know.
 
 Jamaica's birthrate has declined to similar to European levels, a mere 1.4 children per woman, far below replenishment.
 Like many countries facing demographic crisis, their prime minister has even raised this as an existential threat.
+
+Jamaica's low birthrate is actually the best demographic news I've heard in years -
+if this could be applied to Africa,
+the world would have a chance to solve both the environtmental impacts of humanity
+as well as rectify the declining human quality problem due to birthrate imbalances, colloquially known as
+[Idiocracy](https://www.youtube.com/watch?v=sP2tUW0HDHA).
 
 [![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~JAM~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~JAM~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)
 
