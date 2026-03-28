@@ -363,6 +363,11 @@ Not Recommended:
 
 ### Restaurants in Ocho Rios
 
+- [The Courthouse Gallery & Cafe](https://maps.app.goo.gl/6UZTi44cufQNTLcs6) - closes early at 5pm. Nicely decorated.
+  The Jamaican hot chocolate was good, with a blend of spices to give it a more interesting flavour.
+  The baked potato with onion, peppers and sour cream was good too,
+  although smaller than expected, around only half to one third of the size you'd get at Covent Garden in London.
+  Has wifi
 - [John Crow's Tavern](https://maps.app.goo.gl/T1WctjKBCGF2aVuh8) - open late until 11pm whereas many others close at
   10pm, mid-priced, mid quality
 - [Blue Cafe]
@@ -373,7 +378,6 @@ TODO:
 - [Banana Leaf Restaurant & Hookah Lounge](https://maps.app.goo.gl/9jVpMqgSV8oj6BnA6) - 4.7
 - [Silver Sands Restaurant & Lounge](https://maps.app.goo.gl/6kqShfreRZJbLNKA9) - 4.5
 - [Tutti Frutti](https://maps.app.goo.gl/aGqprM2rd5JTQppf6) - 4.4 frozen yoghurt
-- [The Courthouse Gallery & Cafe](https://maps.app.goo.gl/6UZTi44cufQNTLcs6) - 4.7, closes early at 5pm
 - [Ciao Bella Art Cafe & Restaurant](https://maps.app.goo.gl/aLyc276QsGZYWZwN7) - 4.5
 - [Calabash](https://maps.app.goo.gl/kGixwghpaLNVR8aX7) - 4.5
 - [Margaritaville](https://maps.app.goo.gl/Unt8xu77rxXatRPcA) - 4.2, priced in dollars, always a bad sign,
