@@ -365,16 +365,17 @@ Not Recommended:
 
 - [John Crow's Tavern](https://maps.app.goo.gl/T1WctjKBCGF2aVuh8) - open late until 11pm whereas many others close at
   10pm, mid-priced, mid quality
+- [Blue Cafe]
 
 TODO:
 
+- [KK Tavern & Lounge](https://maps.app.goo.gl/VDckq4BSecm8D4uN8) - 4.9
+- [Banana Leaf Restaurant & Hookah Lounge](https://maps.app.goo.gl/9jVpMqgSV8oj6BnA6) - 4.7
 - [Silver Sands Restaurant & Lounge](https://maps.app.goo.gl/6kqShfreRZJbLNKA9) - 4.5
 - [Tutti Frutti](https://maps.app.goo.gl/aGqprM2rd5JTQppf6) - 4.4 frozen yoghurt
 - [The Courthouse Gallery & Cafe](https://maps.app.goo.gl/6UZTi44cufQNTLcs6) - 4.7, closes early at 5pm
-- [Banana Leaf Restaurant & Hookah Lounge](https://maps.app.goo.gl/9jVpMqgSV8oj6BnA6) - 4.7
 - [Ciao Bella Art Cafe & Restaurant](https://maps.app.goo.gl/aLyc276QsGZYWZwN7) - 4.5
 - [Calabash](https://maps.app.goo.gl/kGixwghpaLNVR8aX7) - 4.5
-- [KK Tavern & Lounge](https://maps.app.goo.gl/VDckq4BSecm8D4uN8) - 4.9
 - [Margaritaville](https://maps.app.goo.gl/Unt8xu77rxXatRPcA) - 4.2, priced in dollars, always a bad sign,
   western prices, has a small private beach
 - [Miss T's Kitchen](https://maps.app.goo.gl/skTgw8HTiEFej7c96) - 4.2
@@ -382,6 +383,10 @@ TODO:
 ## Port Antonio
 
 [Port Antonio](https://maps.app.goo.gl/Vg1mnnrWgVU4oQ8X6) is a city on the north east coast of Jamaica.
+
+The centre is a ghetto, don't go.
+
+The nicer areas and beaches are further out east anyway.
 
 ### Best Areas to Stay in Port Antonio
 
