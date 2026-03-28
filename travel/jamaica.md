@@ -42,7 +42,9 @@ You have to fill in an online form before you go through immigration.
 [Jamaica](https://en.wikipedia.org/wiki/Jamaica) has a population of only 2.8 million people of almost entirely African
 ancestry.
 
-I found Jamaica's population to be surprisingly low given how many Jamaicans there are back in London.
+I found Jamaica's population to be surprisingly low given how many Jamaicans there are back in London,
+I had assumed that if there are that many in London there must be many millions in Jamaica for such high level of
+immigration to have happened from there to the UK.
 
 Nearly 10% of Jamaica's population is living in London (250,000)
 while nearly 30% of Jamaica's population is living in the UK (800,000)!
