@@ -37,10 +37,12 @@ You have to fill in an online form before you go through immigration.
 
 <https://enterjamaica.gov.jm/>
 
-## Stats
+## Population
 
-[Jamaica](https://en.wikipedia.org/wiki/Jamaica) has a population of only 2.8 million people,
-much to my surprise for a country of such significant music and cultural propaganda.
+[Jamaica](https://en.wikipedia.org/wiki/Jamaica) has a population of only 2.8 million people of almost entirely African
+ancestry.
+
+I found this to be surprisingly low given how many Jamaicans are in London.
 
 Nearly 10% of Jamaica's population is living in London (250,000)
 while nearly 30% of Jamaica's population is living in the UK (800,000)!
