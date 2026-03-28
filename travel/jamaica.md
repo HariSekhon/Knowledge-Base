@@ -45,7 +45,7 @@ much to my surprise for a country of such significant cultural heritage, music, 
 Jamaica's birthrate has declined to similar to European levels, a mere 1.4 children per woman, far below replenishment.
 Like many countries facing demographic crisis, their prime minister has even raised this as an existential threat.
 
-[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~JAM~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~JAM)
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~JAM~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~JAM~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)
 
 It's population increase it already levelling off before the inevitable decline:
 
@@ -356,7 +356,14 @@ Not Recommended:
 - [Ocho Rios Bay Beach](https://maps.app.goo.gl/Rf4Mth6iiA2VkAoMA) - paid entry beach
 - [Turtle River Park](https://maps.app.goo.gl/AwyTUGsfj92P4Ztm8)
 - [Island Village](https://maps.app.goo.gl/pHrJ1uLZZf6GVexV7) - small open air shopping centre
-  - [Pure Chocolate Jamaica](https://maps.app.goo.gl/g73KfTcSBVYRCU4M7) - fancy chocolate shop in , family business
+  - [Pure Chocolate Jamaica](https://maps.app.goo.gl/g73KfTcSBVYRCU4M7) - fancy expensive chocolate shop,
+    family business.
+    The chocolate cover designs are made my local artists who receive a royalty.
+    The milk chocolate with ginger and speculaas was good, but as with the other couple I sampled, including the
+    coconut, the flavours are just too weak,
+    especially compared to high quality chocolates back in the UK such as Hotel Chocolate.
+    The art picture on the cardboard container was much better than the actual chocolate.
+    The chocolate bar was also quiet small at a mere 60g
 - [Blue Hole](https://maps.app.goo.gl/nxDVJUyVihfEnp4c7) - tourist priced private land water fall, \$25 entry.
   Next time I would not take a tour guide, my one was rubbish and asked for 1000-2000 JMD tip while also ruining the
   experience with a bad attitude throughout, you don't need them unless you are alone and just need a lifeguard
