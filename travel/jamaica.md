@@ -363,6 +363,10 @@ Not Recommended:
 
 ### Restaurants in Ocho Rios
 
+- [Island Grill](https://maps.app.goo.gl/enUFzgRUyq7VoNWS8) - shown to me by an long-term expat here,
+  forget the 4.0 Google Maps rating, this was one of the best places I tried in Ocho Rios.
+  The jerk chicken and curry boxes were both decent quality and price.
+  I'd skip the juices next time as although they are tasty, they have sugar in them, and come in big american sizes
 - [The Courthouse Gallery & Cafe](https://maps.app.goo.gl/6UZTi44cufQNTLcs6) - closes early at 5pm. Nicely decorated.
   The Jamaican hot chocolate was good, with a blend of spices to give it a more interesting flavour.
   The baked potato with onion, peppers and sour cream was good too,
@@ -373,8 +377,9 @@ Not Recommended:
 - [Ciao Bella Art Cafe & Restaurant](https://maps.app.goo.gl/aLyc276QsGZYWZwN7) -
 - [Blue Cafe](https://maps.app.goo.gl/TUg5t8xTssTWyNDR7) - gentrified cafe serving the usual coffees and
   sandwiches / paninis.
-  The spicy jerk chicken panini had cheese but nothing else in it, not really worth 1000JMD ($6.30).
   The chai latte was pretty standard but even more expensive than many places in the West at 1100 JMD (\$7).
+  The spicy jerk chicken panini had cheese but nothing else in it, not really worth 1000JMD ($6.30),
+  especially when compared to Island Grill which gives you much more and better food for the same price.
   WiFi 64/44 Mbit/s
 
 TODO:
