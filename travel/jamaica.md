@@ -374,7 +374,16 @@ Not Recommended:
   Has wifi
 - [John Crow's Tavern](https://maps.app.goo.gl/T1WctjKBCGF2aVuh8) - open late until 11pm whereas many others close at
   10pm, mid-priced, mid quality
-- [Ciao Bella Art Cafe & Restaurant](https://maps.app.goo.gl/aLyc276QsGZYWZwN7) -
+- [Ciao Bella Art Cafe & Restaurant](https://maps.app.goo.gl/aLyc276QsGZYWZwN7) - upmarket Italian restaurant and cafe.
+  The restaurant menu is quite expensive at Western prices and even the same items from the Cafe menu become a few
+  hundred JMD more expensive by 6pm as the cafe closes and the restaurant menu lists them at higher prices.
+  The chocolate volcano cake doesn’t even come with the usual vanilla ice cream like most restaurants,
+  you’d have to order that separately which would run up the bill, so instead I went with the apple crumble dessert
+  which comes with vanilla ice cream.
+  The apple crumble with ice cream was very small though, like a 3 inch tart, so worth the price.
+  Eat here if you're really missing the West and don't mind paying Western prices,
+  but then there isn't much point in coming to Jamaica to be honest.
+  WiFi 107/24 Mbit/s
 - [Blue Cafe](https://maps.app.goo.gl/TUg5t8xTssTWyNDR7) - gentrified cafe serving the usual coffees and
   sandwiches / paninis.
   The chai latte was pretty standard but even more expensive than many places in the West at 1100 JMD (\$7).
