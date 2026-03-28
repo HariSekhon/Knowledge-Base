@@ -3,7 +3,7 @@
 <!-- INDEX_START -->
 
 - [Immigration Hassles](#immigration-hassles)
-- [Stats](#stats)
+- [Population](#population)
 - [Travel Between Cities in Jamaica](#travel-between-cities-in-jamaica)
 - [Kingston](#kingston)
   - [Kingston Airport - Norman Manley International - KIN](#kingston-airport---norman-manley-international---kin)
