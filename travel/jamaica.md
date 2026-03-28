@@ -381,13 +381,17 @@ Not Recommended:
   The spicy jerk chicken panini had cheese but nothing else in it, not really worth 1000JMD ($6.30),
   especially when compared to Island Grill which gives you much more and better food for the same price.
   WiFi 64/44 Mbit/s
+- [Tutti Frutti](https://maps.app.goo.gl/aGqprM2rd5JTQppf6) - self-serve frozen yoghurt, charged by weight. this racks
+  up price fast.
+  The only two flavours that were worth the damage was the lychee, and the rum.
+  No wifi (broken)
 
 TODO:
 
 - [KK Tavern & Lounge](https://maps.app.goo.gl/VDckq4BSecm8D4uN8) - 4.9
 - [Banana Leaf Restaurant & Hookah Lounge](https://maps.app.goo.gl/9jVpMqgSV8oj6BnA6) - 4.7
 - [Silver Sands Restaurant & Lounge](https://maps.app.goo.gl/6kqShfreRZJbLNKA9) - 4.5
-- [Tutti Frutti](https://maps.app.goo.gl/aGqprM2rd5JTQppf6) - 4.4 frozen yoghurt
+- [Castle Blu](https://maps.app.goo.gl/X2c8HJCjwiY1RhSh7) - 4.6
 - [Calabash](https://maps.app.goo.gl/kGixwghpaLNVR8aX7) - 4.5
 - [Margaritaville](https://maps.app.goo.gl/Unt8xu77rxXatRPcA) - 4.2, priced in dollars, always a bad sign,
   western prices, has a small private beach
