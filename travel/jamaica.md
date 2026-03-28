@@ -51,8 +51,8 @@ If anybody knows how much taxes they pay vs welfare claimed, especially in Londo
 
 Jamaica's birthrate has declined to similar to European levels, a mere 1.4 children per woman, far below replenishment.
 
-All the locals seemed to already be aware of this, as like many countries facing demographic crisis,
-their prime minister has even talked about this being an existential threat.
+Every local I talked to ware already be aware of this, as like many countries facing demographic crisis,
+their prime minister has even raised this as being an existential threat.
 Locals cited the high cost of living in Jamaica as a contributing factor.
 
 Jamaica's low birthrate is actually the best demographic news I've heard in years -
