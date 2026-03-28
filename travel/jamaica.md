@@ -370,7 +370,12 @@ Not Recommended:
   Has wifi
 - [John Crow's Tavern](https://maps.app.goo.gl/T1WctjKBCGF2aVuh8) - open late until 11pm whereas many others close at
   10pm, mid-priced, mid quality
-- [Blue Cafe]
+- [Ciao Bella Art Cafe & Restaurant](https://maps.app.goo.gl/aLyc276QsGZYWZwN7) -
+- [Blue Cafe](https://maps.app.goo.gl/TUg5t8xTssTWyNDR7) - gentrified cafe serving the usual coffees and
+  sandwiches / paninis.
+  The spicy jerk chicken panini had cheese but nothing else in it, not really worth 1000JMD ($6.30).
+  The chai latte was pretty standard but even more expensive than many places in the West at 1100 JMD (\$7).
+  WiFi 64/44 Mbit/s
 
 TODO:
 
@@ -378,7 +383,6 @@ TODO:
 - [Banana Leaf Restaurant & Hookah Lounge](https://maps.app.goo.gl/9jVpMqgSV8oj6BnA6) - 4.7
 - [Silver Sands Restaurant & Lounge](https://maps.app.goo.gl/6kqShfreRZJbLNKA9) - 4.5
 - [Tutti Frutti](https://maps.app.goo.gl/aGqprM2rd5JTQppf6) - 4.4 frozen yoghurt
-- [Ciao Bella Art Cafe & Restaurant](https://maps.app.goo.gl/aLyc276QsGZYWZwN7) - 4.5
 - [Calabash](https://maps.app.goo.gl/kGixwghpaLNVR8aX7) - 4.5
 - [Margaritaville](https://maps.app.goo.gl/Unt8xu77rxXatRPcA) - 4.2, priced in dollars, always a bad sign,
   western prices, has a small private beach
