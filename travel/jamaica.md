@@ -50,7 +50,10 @@ Crazy figures contributing to the UK housing crisis while Jamaica is half empty.
 If anybody knows how much taxes they pay vs welfare claimed, especially in London council housing, please let me know.
 
 Jamaica's birthrate has declined to similar to European levels, a mere 1.4 children per woman, far below replenishment.
-Like many countries facing demographic crisis, their prime minister has even raised this as an existential threat.
+
+All the locals seemed to already be aware of this, as like many countries facing demographic crisis,
+their prime minister has even talked about this being an existential threat.
+Locals cited the high cost of living in Jamaica as a contributing factor.
 
 Jamaica's low birthrate is actually the best demographic news I've heard in years -
 if this could be applied to Africa,
