@@ -175,6 +175,15 @@ TODO:
 
 - [Dubwise Cafe](https://maps.app.goo.gl/dYQ38VAofuoVnEUu8) - 4.7
 
+Not Recommended:
+
+- [Veggie Campus](https://maps.app.goo.gl/ZXFr6ferreVFTiem6) - the vegetarian food was nowhere near as good as Peri Peri
+  for the same price and they used some sickly sweet sauce to cover up for the lack of nutritional quality.
+  No wifi
+- [Ribbiz UltraLounge](https://maps.app.goo.gl/YwkT6k8RkjJMsGW4A) - club rather than a restaurant, where they'll search
+  your bags and not let you have a bottle of water 🙄
+- [CRU Bar and Kitchen](https://maps.app.goo.gl/n7RxVQniJnefWmqz9) - similar to Ribbiz, with dress code no sleeveless 🙄
+
 ## Montego Bay
 
 [Montego Bay](https://maps.app.goo.gl/enYjmeBpmDw1FbDA8) is a small beach town but there isn't much to do here and the
