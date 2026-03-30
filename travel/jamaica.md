@@ -504,13 +504,13 @@ TODO:
 [Port Antonio](https://maps.app.goo.gl/Vg1mnnrWgVU4oQ8X6) (aka Portland) is a ghetto with a sparsely populated eastern
 coastline with few amenities or good restaurants.
 
-I would not visit Portland again,
-and that was even with the brush with the drug dealers accommodation mentioned in the
-[Crime](#crime) section
-
 It's difficult to get to, and the centre is a ghetto where I saw very few other foreigners, for good reason.
 
-The nicer areas and beaches are further out east anyway.
+I would not visit Portland again,
+and that's even without the brush with the drug dealers accommodation mentioned in the
+[Crime](#crime) section above.
+
+The nicer areas and beaches are further out east anyway, but they were desserted too.
 
 ### Best Areas to Stay in Port Antonio
 
