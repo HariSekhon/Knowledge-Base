@@ -26,6 +26,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Stats Bar](#stats-bar)
 - [Pingr](#pingr)
 - [Flux](#flux)
+- [Blurred](#blurred)
 - [Rearrange Status Bar Icons](#rearrange-status-bar-icons)
 - [Reducing Desktop Workspaces](#reducing-desktop-workspaces)
 - [Sending Control-Alt-Delete to Windows through Remote Desktop](#sending-control-alt-delete-to-windows-through-remote-desktop)
@@ -328,6 +329,26 @@ osascript -e 'tell application "System Events" to make login item at end with pr
 ```
 
 -->
+
+## Blurred
+
+[:octocat: dwarvesf/Blurred](https://github.com/dwarvesf/Blurred)
+
+Dims background windows.
+
+```shell
+brew install blurred
+```
+
+```shell
+open -a Blurred
+```
+
+Start at login:
+
+```shell
+osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Blurred.app", hidden:false}'
+```
 
 ## Rearrange Status Bar Icons
 
