@@ -31,6 +31,7 @@
   - [Attractions in Ocho Rios](#attractions-in-ocho-rios)
   - [Restaurants in Ocho Rios](#restaurants-in-ocho-rios)
 - [Port Antonio](#port-antonio)
+  - [Taxis in Portland](#taxis-in-portland)
   - [Best Areas to Stay in Port Antonio](#best-areas-to-stay-in-port-antonio)
 
 <!-- INDEX_END -->
@@ -501,8 +502,8 @@ TODO:
 
 ## Port Antonio
 
-[Port Antonio](https://maps.app.goo.gl/Vg1mnnrWgVU4oQ8X6) (aka Portland) is a ghetto with a sparsely populated eastern
-coastline with few amenities or good restaurants.
+[Port Antonio](https://maps.app.goo.gl/Vg1mnnrWgVU4oQ8X6) (aka Portland) is a dense central ghetto with a sparsely
+populated eastern coastline with few amenities or good restaurants.
 
 It's difficult to get to, and the centre is a ghetto where I saw very few other foreigners, for good reason.
 
@@ -511,6 +512,22 @@ and that's even without the brush with the drug dealers accommodation mentioned 
 [Crime](#crime) section above.
 
 The nicer areas and beaches are further out east anyway, but they were desserted too.
+
+### Taxis in Portland
+
+Neither Uber nor InDrive work in Portland,
+and I was getting price gouged on taxis from the moment I arrived to the moment I left.
+
+The only reasonably priced way to get along the several kilometers of spare coastline is using _"Route Taxies"_
+which are basically shared taxis than you wave down and pay 150-200 JMD for a ride -
+agree this up front to make sure they don't rip you off.
+
+Unfortunately those _"Route Taxis"_ which patrol up and down the coastline do not operate at night or early morning,
+and the only Knutsford Expresss coach out was at 6:30am,
+resulting in requiring a 3000 JMD (\$20) tourist rip off taxi to go down the road.
+
+If I'd known how bad the transport situation was out there I'd probably have rented a car
+and avoided even the coach in and out.
 
 ### Best Areas to Stay in Port Antonio
 
