@@ -83,7 +83,9 @@ and asked him what the crime rate was like in Jamaica.
 
 So I looked up the stats and they are even worse than Latin America.
 
-[![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=JAM~OWID_WRL~UN_LAC~UN_EUR)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=JAM~OWID_WRL~UN_LAC~UN_EUR)
+People who think the UK has a crime problem should see the stark difference between Jamaica and the UK:
+
+[![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=JAM~OWID_WRL~UN_LAC~UN_EUR~GBR)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=JAM~OWID_WRL~UN_LAC~UN_EUR~GBR)
 
 ### Drug Dealers
 
