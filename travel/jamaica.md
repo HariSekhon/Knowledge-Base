@@ -2,9 +2,11 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
 - [Immigration Hassles](#immigration-hassles)
 - [Population](#population)
 - [Crime in Jamaica](#crime-in-jamaica)
+  - [Drug Dealers](#drug-dealers)
 - [Travel Between Cities in Jamaica](#travel-between-cities-in-jamaica)
 - [Kingston](#kingston)
   - [Kingston Airport - Norman Manley International - KIN](#kingston-airport---norman-manley-international---kin)
@@ -31,6 +33,10 @@
   - [Best Areas to Stay in Port Antonio](#best-areas-to-stay-in-port-antonio)
 
 <!-- INDEX_END -->
+
+## Summary
+
+[Jamaica](https://maps.app.goo.gl/hSGB4D2WgJWdA7bbA)
 
 ## Immigration Hassles
 
@@ -78,6 +84,21 @@ and asked him what the crime rate was like in Jamaica.
 So I looked up the stats and they are even worse than Latin America.
 
 [![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=JAM~OWID_WRL~UN_LAC~UN_EUR)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=JAM~OWID_WRL~UN_LAC~UN_EUR)
+
+### Drug Dealers
+
+Aside from being offered drugs in many places in the streets throughout Jamaica...
+
+One hostel I tried staying at in Portland ended up being a literal drug dealer house with a cage on the front of it
+where they were selling drugs through the bars (to presumably not get robbed by one of the visiting junkies).
+Needless to say I quickly booked another accommodation, called a taxi and reported it to the booking website to cancel
+the booking.
+
+The idiots at the booking site contacted the owner before I had a chance to leave resulting in a tense exit which risked
+violent and potentially deadly conflict.
+
+I didn't know if I was going to get shot in the street outside as I tried to put as much distance between me and there
+as possible before the taxi arrived.
 
 ## Travel Between Cities in Jamaica
 
