@@ -4,8 +4,9 @@
 
 - [Summary](#summary)
 - [Immigration Hassles](#immigration-hassles)
+- [Food & Prices](#food--prices)
 - [Population](#population)
-- [Crime in Jamaica](#crime-in-jamaica)
+- [Crime](#crime)
   - [Drug Dealers](#drug-dealers)
 - [Travel Between Cities in Jamaica](#travel-between-cities-in-jamaica)
 - [Kingston](#kingston)
@@ -36,13 +37,20 @@
 
 ## Summary
 
-[Jamaica](https://maps.app.goo.gl/hSGB4D2WgJWdA7bbA)
+[Jamaica](https://maps.app.goo.gl/hSGB4D2WgJWdA7bbA) is a high crime 3rd world country with near 1st world prices.
+
+In places like Port Antonio I hardly saw any other foreigners and for good reason,
+even the taxi driver said what tourists they have out there are hiding in resorts.
 
 ## Immigration Hassles
 
 You have to fill in an online form before you go through immigration.
 
 <https://enterjamaica.gov.jm/>
+
+## Food & Prices
+
+The food is often either Western priced or mediocre-to-low quality - often both.
 
 ## Population
 
@@ -74,33 +82,51 @@ It's population increase it already levelling off before the inevitable decline:
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~JAM)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~JAM)
 
-## Crime in Jamaica
+## Crime
 
-Jamaica is a relatively high crime country and I could feel this in several areas as I explored.
+Jamaica is a relatively high crime country and I could feel this as I walked around several areas of the island.
 
-I stopped to talk to an off duty police officer ahead of me in the queue at Burger King
-and asked him what the crime rate was like in Jamaica.
+I didn't know which areas were bad until it was too late and I was walking past groups of street guys hanging around -
+which seems like it's everywhere.
 
-So I looked up the stats and they are even worse than Latin America.
+I struck up a conversation with an off duty police officer in uniform ahead of me in the queue at a Burger King one
+night and asked him what the crime rate was like in Jamaica.
 
-People who think the UK has a crime problem should see the stark difference between Jamaica and the UK:
+He looked at me and then said _"It's awful"_ as he looked down, shaking his head.
+
+A few minutes after walking away I saw several police cars race past me with sirens on.
+
+So I looked up the stats and they are even worse than Latin America -
+I wasn't imagining this uncomfortable feeling
+I'd been having in several ghetto areas around the island
+where it often felt like locals were sizing me up as I walked past.
+
+Thankfully I was in very good shape
+with shoulders popping out of my tank top and the walk of a guy
+who has spent nearly his entire life training several different martial arts... but I'm not bullet proof.
+
+People who think the UK has a crime problem should see the stark difference between Jamaica and the UK in this graph
+below:
 
 [![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=JAM~OWID_WRL~UN_LAC~UN_EUR~GBR)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=JAM~OWID_WRL~UN_LAC~UN_EUR~GBR)
 
 ### Drug Dealers
 
-Aside from being offered drugs in many places in the streets throughout Jamaica...
+Aside from being offered drugs on the streets in every town I walked through...
 
 One hostel I tried staying at in Portland ended up being a literal drug dealer house with a cage on the front of it
-where they were selling drugs through the bars (to presumably not get robbed by one of the visiting junkies).
-Needless to say I quickly booked another accommodation, called a taxi and reported it to the booking website to cancel
-the booking.
+where they were selling drugs through the bars within minutes of my arrival (the cage is presumably to prevent getting
+robbed by one of the visiting junkies).
 
-The idiots at the booking site contacted the owner before I had a chance to leave resulting in a tense exit which risked
+Needless to say I quickly booked another accommodation, called my taxi driver back and reported it to the booking
+website to cancel the booking.
+
+The idiots in customer support at the booking site after being told the situation,
+contacted the owner before I had a chance to leave resulting in a tense exit which risked a
 violent and potentially deadly conflict.
 
 I didn't know if I was going to get shot in the street outside as I tried to put as much distance between me and there
-as possible before the taxi arrived.
+as possible as the taxi was still several minutes away.
 
 ## Travel Between Cities in Jamaica
 
@@ -475,9 +501,14 @@ TODO:
 
 ## Port Antonio
 
-[Port Antonio](https://maps.app.goo.gl/Vg1mnnrWgVU4oQ8X6) is a city on the north east coast of Jamaica.
+[Port Antonio](https://maps.app.goo.gl/Vg1mnnrWgVU4oQ8X6) (aka Portland) is a ghetto with a sparsely populated eastern
+coastline with few amenities or good restaurants.
 
-The centre is a ghetto, don't go.
+I would not visit Portland again,
+and that was even with the brush with the drug dealers accommodation mentioned in the
+[Crime](#crime) section
+
+It's difficult to get to, and the centre is a ghetto where I saw very few other foreigners, for good reason.
 
 The nicer areas and beaches are further out east anyway.
 
