@@ -4,6 +4,7 @@
 
 - [Immigration Hassles](#immigration-hassles)
 - [Population](#population)
+- [Crime in Jamaica](#crime-in-jamaica)
 - [Travel Between Cities in Jamaica](#travel-between-cities-in-jamaica)
 - [Kingston](#kingston)
   - [Kingston Airport - Norman Manley International - KIN](#kingston-airport---norman-manley-international---kin)
@@ -66,6 +67,17 @@ as well as rectify the declining human quality problem due to birthrate imbalanc
 It's population increase it already levelling off before the inevitable decline:
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~JAM)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~JAM)
+
+## Crime in Jamaica
+
+Jamaica is a relatively high crime country and I could feel this in several areas as I explored.
+
+I stopped to talk to an off duty police officer ahead of me in the queue at Burger King
+and asked him what the crime rate was like in Jamaica.
+
+So I looked up the stats and they are even worse than Latin America.
+
+[![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=JAM~OWID_WRL~UN_LAC~UN_EUR)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=JAM~OWID_WRL~UN_LAC~UN_EUR)
 
 ## Travel Between Cities in Jamaica
 
