@@ -340,6 +340,8 @@ Dims background windows.
 brew install blurred
 ```
 
+Start Blurred:
+
 ```shell
 open -a Blurred
 ```
