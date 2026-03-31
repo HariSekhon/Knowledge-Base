@@ -24,7 +24,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Activity Monitor](#activity-monitor)
 - [Force Quit Applications](#force-quit-applications)
 - [Stats Bar](#stats-bar)
-- [Ice](#ice)
+- [Menu Bar Managers](#menu-bar-managers)
+  - [Ice](#ice)
 - [Pingr](#pingr)
 - [Flux](#flux)
 - [Blurred](#blurred)
@@ -291,7 +292,12 @@ Start `Stats.app` at login - configure this in its settings or run this command 
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Stats.app", hidden:false}'
 ```
 
-## Ice
+## Menu Bar Managers
+
+All 3 free options I tried (Ice, Vanilla, iBar) require Accessibility and Screen Recording Permission to work properly
+unfortunately.
+
+### Ice
 
 <https://icemenubar.app/>
 
@@ -312,6 +318,32 @@ Start at login:
 ```shell
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Ice.app", hidden:false}'
 ```
+
+<!--
+
+### Vanilla
+
+<https://matthewpalmer.net/vanilla/>
+
+```shell
+brew install vanilla
+```
+
+```shell
+open -a Vanilla
+```
+
+Start at login:
+
+```shell
+osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Vanilla.app", hidden:false}'
+```
+
+### iBar
+
+[App Store - iBar](https://apps.apple.com/gb/app/ibar-menubar-icon-control-tool/id6443843900)
+
+-->
 
 ## Pingr
 
