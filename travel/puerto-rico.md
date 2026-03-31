@@ -14,7 +14,7 @@
 
 [Puerto Rico](https://maps.app.goo.gl/s8gNfR8ZQumonNP39) is an island in the Caribbean and a territory of the USA.
 
-This means you need a US visa/esta to go there, even to transit for a connecting flight.
+This means you need a US visa / esta to go there, even to transit for a connecting flight.
 
 Accommodation is also surprisingly expensive here.
 
