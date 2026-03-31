@@ -24,6 +24,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Activity Monitor](#activity-monitor)
 - [Force Quit Applications](#force-quit-applications)
 - [Stats Bar](#stats-bar)
+- [Ice](#ice)
 - [Pingr](#pingr)
 - [Flux](#flux)
 - [Blurred](#blurred)
@@ -288,6 +289,26 @@ Start `Stats.app` at login - configure this in its settings or run this command 
 
 ```shell
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Stats.app", hidden:false}'
+```
+
+## Ice
+
+<https://icemenubar.app/>
+
+Free menu bar manager because a 14" Macbook Pro has nowhere near enough space for all the icons I have.
+
+```shell
+brew install jordanbaird-ice
+```
+
+```shell
+open -a Ice
+```
+
+Start at login:
+
+```shell
+osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Ice.app", hidden:false}'
 ```
 
 ## Pingr
