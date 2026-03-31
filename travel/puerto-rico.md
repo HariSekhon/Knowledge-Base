@@ -12,13 +12,18 @@
 
 ## Summary
 
-[Puerto Rico](https://maps.app.goo.gl/s8gNfR8ZQumonNP39) is an island territory of the USA.
+[Puerto Rico](https://maps.app.goo.gl/s8gNfR8ZQumonNP39) is an island in the Caribbean and a territory of the USA.
 
-Accommodation is surprisingly expensive here.
+This means you need a US visa/esta to go there, even to transit for a connecting flight.
+
+Accommodation is also surprisingly expensive here.
+
+Perhaps this is why I got a cheap flight back to Europe from here, everybody else is avoiding the tourist trap!
 
 ## Visa
 
-You will need to apply for a US ESTA to visit here, even if you're from a visa free Western country like the UK.
+You will need to apply for a US ESTA to visit or even transit here,
+even if you're from a visa free Western country like the UK.
 
 Apply here:
 
