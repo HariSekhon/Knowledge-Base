@@ -79,7 +79,7 @@ as well as rectify the declining human quality problem due to birthrate imbalanc
 
 [![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~JAM~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~JAM~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)
 
-It's population increase it already levelling off before the inevitable decline:
+Its population increase it already levelling off before the inevitable decline:
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~JAM)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~JAM)
 
