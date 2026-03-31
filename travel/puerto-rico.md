@@ -31,7 +31,7 @@ Usually you'll get an approval within 1-3 days so ensure you apply with enough t
 [Puerto Rico](https://maps.app.goo.gl/s8gNfR8ZQumonNP39) has a population of only 3.2 million people.
 Jamaica's birthrate has declined to similar to European levels, a mere 1.4 children per woman, far below replenishment.
 
-Its birthrate is as low as a European country, unsurprising given how expensive it is.
+Its birthrate is surprisingly low at 0.9 children per woman:
 
 [![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~PRI~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~PRI~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)
 
