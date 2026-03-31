@@ -14,6 +14,8 @@
 
 [Puerto Rico](https://maps.app.goo.gl/s8gNfR8ZQumonNP39) is an island territory of the USA.
 
+Accommodation is surprisingly expensive here.
+
 ## Visa
 
 You will need to apply for a US ESTA to visit here, even if you're from a visa free Western country like the UK.
