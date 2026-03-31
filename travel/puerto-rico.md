@@ -5,6 +5,7 @@
 - [Summary](#summary)
 - [Visa](#visa)
 - [Population](#population)
+- [Crime](#crime)
 - [San Juan](#san-juan)
   - [Best Areas to Stay in San Juan](#best-areas-to-stay-in-san-juan)
 
@@ -42,6 +43,12 @@ Its birthrate is surprisingly low at 0.9 children per woman:
 Its population has already decreased:
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~PRI)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~PRI)
+
+## Crime
+
+It's crime rate is higher than Europe and Asia, but less than Latin America & The Caribbean in general:
+
+[![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=PRI~UN_EUR~UN_LAC~Eastern+Asia+%28UN%29~GBR)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=PRI~UN_EUR~UN_LAC~Eastern+Asia+%28UN%29~GBR)
 
 ## San Juan
 
