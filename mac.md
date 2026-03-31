@@ -295,6 +295,8 @@ osascript -e 'tell application "System Events" to make login item at end with pr
 
 <https://icemenubar.app/>
 
+[:octocat: jordanbaird/Ice](https://github.com/jordanbaird/Ice)
+
 Free menu bar manager because a 14" Macbook Pro has nowhere near enough space for all the icons I have.
 
 ```shell
