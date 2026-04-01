@@ -159,6 +159,14 @@ to pay in their native currency and lose only the smaller conversion charge on y
 
 ## Kingston
 
+Kingston, the capital, is generally not a good tourist destination,
+people use it to transit to other tourist towns like Montego Bay or Ocho Rios.
+
+I walked for nearly 15km from uptown to downtown and back.
+
+Parts of Kingston remind me of the worst parts of London,
+while other parts looks exactly how you'd expect a 3rd world ghetto to look.
+
 ### Kingston Airport - Norman Manley International - KIN
 
 Immigration control was a bit slow, but otherwise it was fine.
