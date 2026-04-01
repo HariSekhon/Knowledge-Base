@@ -140,6 +140,8 @@ done
 The scripts `mp3_set_track_order.sh` and `mp3_set_track_name.sh` in the [DevOps-Bash-tools](devops-bash-tools.md) repo's `media/`
 directory make this slightly easier.
 
+[![DevOps-Bash-tools](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
 ### Recursively Set Metadata
 
 #### Recursively Set Artist and Album
@@ -185,6 +187,10 @@ Public database of music metadata with a free to use API:
 #### MusicBrainz API
 
 <https://musicbrainz.org/doc/MusicBrainz_API>
+
+There are MusicBrainz API scripts in [HariSekhon/DevOps-Bash-tools](devops-bash-tools.md):
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 #### Picard
 
