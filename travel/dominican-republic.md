@@ -369,14 +369,19 @@ Tourist trap beach town on the East of the island.
 Punta Cana's airport was full of well off American tourists so is a good size with a selection of gift shops and fast
 food chain restaurants.
 
-The two terminals are very similar in terms of shops and chain restaurants such as Wendys,
-Pizza Hut, Taco Bell, Nathans.
+I didn't see anywhere near this many tourists in Punta Cana when out and about,
+I can only summize that they were hiding out in resorts.
 
-I tried to get the least junk food thing,
-Nathan's New York Steak & Cheese which came like a soft white bread roll of shredded steak instead of a steak in a
-baguette.
-Overall this was not worth it at all and I would try to eat before or after and not at the airport
-(you'd think I'd learnt my lesson and stop trying this but hunger overrides one's better judgement).
+The two terminals are very similar in terms of shops and chain restaurants such as Wendys,
+Pizza Hut, Taco Bell, Nathans etc.
+
+I tried to get the least junk food sounding thing,
+Nathan's New York Steak & Cheese which came as a soft white bread roll of finely shredded _"steak"_ instead of an
+actual steak in a baguette which I was hoping for.
+Overall this was not worth it at all and I would try to eat before or after flights instead of at the airport.
+You'd think I'd learnt my lesson by now and stop trying this but hunger overrode my better judgement
+and I instantly regretted eating this.
+Their orange juice is full of sugar, extremely sweet and artificial, so I at least went with a water instead.
 
 ### Best Areas to Stay in Punta Cana
 
