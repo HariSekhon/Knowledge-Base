@@ -7,7 +7,7 @@
 - [Migrate Playlists Between Music Platforms](#migrate-playlists-between-music-platforms)
 - [Shazam Songs while using Headphones on Mac](#shazam-songs-while-using-headphones-on-mac)
   - [Automatically Switch to Using Multi-Output Device when Connecting Headphones](#automatically-switch-to-using-multi-output-device-when-connecting-headphones)
-- [MP3 metadata editing](#mp3-metadata-editing)
+- [MP3 Metadata Editing](#mp3-metadata-editing)
   - [Setting Author and Album metadata](#setting-author-and-album-metadata)
   - [Setting Track Number metadata](#setting-track-number-metadata)
   - [Recursively Set Metadata](#recursively-set-metadata)
@@ -108,7 +108,7 @@ I use to trigger this automated switch back to the first Multi-Output and BlackH
 
 [:octocat: HariSekhon/Hammerspoon](https://github.com/HariSekhon/Hammerspoon)
 
-## MP3 metadata editing
+## MP3 Metadata Editing
 
 Use the `id3v2` program to set metadata on mp3 files.
 
