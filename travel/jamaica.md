@@ -39,10 +39,11 @@
 
 ## Summary
 
-[Jamaica](https://maps.app.goo.gl/hSGB4D2WgJWdA7bbA) is a high crime 3rd world country with near 1st world prices.
+[Jamaica](https://maps.app.goo.gl/hSGB4D2WgJWdA7bbA) is a 3rd world country with near 1st world prices and high crime
+and several areas that you should avoid, such as downtown Kingston and downtown Port Antonio.
 
-In places like Port Antonio I hardly saw any other foreigners and for good reason,
-even the taxi driver said what tourists they have out there are hiding in resorts.
+In both places I hardly saw any other foreigners and for good reason,
+even a taxi driver told me tourists are hiding in resorts.
 
 ## Immigration Hassles
 
