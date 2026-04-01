@@ -31,7 +31,8 @@
   - [Attractions in Ocho Rios](#attractions-in-ocho-rios)
   - [Restaurants in Ocho Rios](#restaurants-in-ocho-rios)
 - [Port Antonio](#port-antonio)
-  - [Taxis in Portland](#taxis-in-portland)
+  - [ATMs in Port Antonio](#atms-in-port-antonio)
+  - [Taxis in Port Antonio](#taxis-in-port-antonio)
   - [Best Areas to Stay in Port Antonio](#best-areas-to-stay-in-port-antonio)
 
 <!-- INDEX_END -->
@@ -521,7 +522,12 @@ and that's even without the brush with the drug dealers accommodation mentioned 
 
 The nicer areas and beaches are further out east anyway, but they were desserted too.
 
-### Taxis in Portland
+### ATMs in Port Antonio
+
+- ScotiaBank - in the [Texaco Gas Station](https://maps.app.goo.gl/ie3HCtCN4bSqvJks5) there are 3 ScotiaBank ATMs that
+  charge a low \$0.35 withdrawal fee
+
+### Taxis in Port Antonio
 
 Neither Uber nor InDrive work in Portland,
 and I was getting price gouged on taxis from the moment I arrived to the moment I left.
