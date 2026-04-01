@@ -19,6 +19,7 @@
 - [Travel Between Santo Domingo to Punta Cana](#travel-between-santo-domingo-to-punta-cana)
   - [Bus Between Santo Domingo and Punta Cana](#bus-between-santo-domingo-and-punta-cana)
 - [Punta Cana](#punta-cana)
+  - [Punta Cana Airport](#punta-cana-airport)
   - [Best Areas to Stay in Punta Cana](#best-areas-to-stay-in-punta-cana)
   - [Attractions in Punta Cana](#attractions-in-punta-cana)
   - [Restaurants in Punta Cana](#restaurants-in-punta-cana)
@@ -47,8 +48,11 @@ the things compared to many other countries in hindsight after having travelled 
 Travel advice is clearly propaganda - it's not even cheap here like South East Asia as things are Western tourist priced
 in both Santo Domingo and Punta Cana.
 
-**Verdict: Don't waste your money coming here - you can eat and live better for the same money wherever you are,**
-**especially if you are saving on travel costs like flights and accommodation.**
+I wouldn't waste my time or money coming here again - you can eat and live better for the same money wherever you are,
+especially if you are saving on travel costs like flights and accommodation.
+
+If you really want to go to Dominican Republic,
+just do the touristy Punta Cana and skip Santo Domingo, there is very little of interest there.
 
 ## Immigration Hassles
 
@@ -359,6 +363,20 @@ which had the same departure timings as above and got to Santo Domingo faster th
 ## Punta Cana
 
 Tourist trap beach town on the East of the island.
+
+### Punta Cana Airport
+
+Punta Cana's airport was full of well off American tourists so is a good size with a selection of gift shops and fast
+food chain restaurants.
+
+The two terminals are very similar in terms of shops and chain restaurants such as Wendys,
+Pizza Hut, Taco Bell, Nathans.
+
+I tried to get the least junk food thing,
+Nathan's New York Steak & Cheese which came like a soft white bread roll of shredded steak instead of a steak in a
+baguette.
+Overall this was not worth it at all and I would try to eat before or after and not at the airport
+(you'd think I'd learnt my lesson and stop trying this but hunger overrides one's better judgement).
 
 ### Best Areas to Stay in Punta Cana
 
