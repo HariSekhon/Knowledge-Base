@@ -25,14 +25,9 @@ Accommodation is also surprisingly expensive here.
 
 Perhaps this is why I got a cheap flight back to Europe from here, everybody else is avoiding this tourist trap!
 
-## Prices
-
-The most expensive hostel I ever stayed at was in San Juan,
-Puerto Rico as there is a shortage of accommodation and Americans travel there.
-
 ## Visa
 
-You will need to apply for a US ESTA to visit or even transit here,
+You will need to apply for a US ESTA (\$40) to visit or even transit here,
 even if you're from a visa free Western country like the UK.
 
 Apply here:
@@ -40,6 +35,19 @@ Apply here:
 <https://esta.cbp.dhs.gov/>
 
 Usually you'll get an approval within 1-3 days so ensure you apply with enough time before your flight.
+
+## Prices
+
+The most expensive hostel I ever stayed at was in San Juan,
+Puerto Rico as there is a shortage of accommodation and Americans travel there.
+
+## Travel Around San Juan
+
+You will need a car to get around San Juan.
+
+The island itself isn't that big and you could drive across it in around 3 hours.
+
+It's around 1 hour from San Juan to the East Coast where the activities and ferry to Vieques island are.
 
 ## Population
 
