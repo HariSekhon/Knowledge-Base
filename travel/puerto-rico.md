@@ -8,8 +8,10 @@
 - [Population](#population)
 - [Crime](#crime)
 - [San Juan](#san-juan)
+  - [San Juan Airport - Luis Munoz Marin International - SJU](#san-juan-airport---luis-munoz-marin-international---sju)
+  - [Travel from San Juan Airport into San Juan](#travel-from-san-juan-airport-into-san-juan)
+  - [Taxi Apps in San Juan](#taxi-apps-in-san-juan)
   - [Best Areas to Stay in San Juan](#best-areas-to-stay-in-san-juan)
-- [Taxi Apps in San Juan](#taxi-apps-in-san-juan)
 
 <!-- INDEX_END -->
 
@@ -61,6 +63,29 @@ It's crime rate is higher than Europe and Asia, but less than Latin America & Th
 
 The capital.
 
+### San Juan Airport - Luis Munoz Marin International - SJU
+
+This airport is fairly small and at the terminal I arrived I had to collect luggage before going through immigration.
+
+They asked for accommodation address.
+
+### Travel from San Juan Airport into San Juan
+
+Options:
+
+- Taxi - Uber - remember not to take a local taxi as they will charge you more
+- Bus - free
+
+The T5 bus can be caught from [this bus stop]() just outside the airport on the upper level,
+just check it's going to San Juan and not Iturregui which is the bus terminal in the opposite direction.
+
+The bus goes every 20 minutes during the day time, after 9pm you'll need a taxi.
+
+### Taxi Apps in San Juan
+
+- [Uber](https://www.uber.com/) - only Uber was available in San Juan as of April 2026
+
+
 ### Best Areas to Stay in San Juan
 
 - [Viejo San Juan](https://maps.app.goo.gl/7xg5T4FhdfpXjT8V8) - historic colonial district with walkable streets
@@ -77,7 +102,3 @@ The capital.
   stays
 - [Miramar](https://maps.app.goo.gl/ZvtgXT2WfhGqop2p9) - quiet and polished district with historic mansions and
   proximity to the convention center
-
-## Taxi Apps in San Juan
-
-- [Uber](https://www.uber.com/) - only Uber was available in San Juan as of April 2026
