@@ -9,6 +9,7 @@
 - [Crime](#crime)
 - [San Juan](#san-juan)
   - [Best Areas to Stay in San Juan](#best-areas-to-stay-in-san-juan)
+- [Taxi Apps in San Juan](#taxi-apps-in-san-juan)
 
 <!-- INDEX_END -->
 
@@ -76,3 +77,7 @@ The capital.
   stays
 - [Miramar](https://maps.app.goo.gl/ZvtgXT2WfhGqop2p9) - quiet and polished district with historic mansions and
   proximity to the convention center
+
+## Taxi Apps in San Juan
+
+- [Uber](https://www.uber.com/) - only Uber was available in San Juan as of April 2026
