@@ -67,7 +67,9 @@ The capital.
 - [Condado](https://www.google.com/maps?q=Condado+San+Juan+Puerto+Rico) - upmarket beachfront area with nightlife,
   restaurants and resorts, called _"The Miami of San Juan"_
 - [Isla Verde](https://maps.app.goo.gl/5NVBhuQh9fnHPzQP7) - prime beach zone near the airport with large hotel resorts
-- [Santurce](https://maps.app.goo.gl/mXjhdrWLnfNpy5Tv8) - artsy neighborhood with street art local food and nightlife
+- [Santurce](https://maps.app.goo.gl/mXjhdrWLnfNpy5Tv8) - artsy neighborhood with street art local food and nightlife.
+  I was told by a local that the night life was far less in 2026 due to a Panamanian diplomat's son having been shot and
+  killed the year before, leading to several bar closures effectively killing the liveliness of the strip
 - [Puerta de Tierra](https://maps.app.goo.gl/HwkQfcG1nbjQh7e8A) - central location between old town and beach with fewer
   crowds
 - [Ocean Park](https://maps.app.goo.gl/DRTXaM1vmtmKVWPW6) - relaxed residential beach area popular for surfing and quiet
