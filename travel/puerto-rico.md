@@ -3,8 +3,9 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
-- [Prices](#prices)
 - [Visa](#visa)
+- [Prices](#prices)
+- [Travel Around San Juan](#travel-around-san-juan)
 - [Population](#population)
 - [Crime](#crime)
 - [San Juan](#san-juan)
