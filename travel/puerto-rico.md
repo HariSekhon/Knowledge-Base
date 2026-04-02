@@ -42,9 +42,12 @@ Usually you'll get an approval within 1-3 days so ensure you apply with enough t
 The most expensive hostel I ever stayed at was in San Juan,
 Puerto Rico as there is a shortage of accommodation and Americans travel there.
 
+Day trips are typically over \$100 per day via tour operators.
+
 ## Travel Around Puerto Rico
 
-You will need a car to get around San Juan.
+You will need to rent a car to get around San Juan unless you want to try long distance taxis or tour operator day
+trips, which are typically over \$100 per day.
 
 The island itself isn't that big and you could drive across it in around 3 hours.
 
