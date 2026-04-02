@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Prices](#prices)
 - [Visa](#visa)
 - [Population](#population)
 - [Crime](#crime)
@@ -19,7 +20,12 @@ This means you need a US visa / esta to go there, even to transit for a connecti
 
 Accommodation is also surprisingly expensive here.
 
-Perhaps this is why I got a cheap flight back to Europe from here, everybody else is avoiding the tourist trap!
+Perhaps this is why I got a cheap flight back to Europe from here, everybody else is avoiding this tourist trap!
+
+## Prices
+
+The most expensive hostel I ever stayed at was in San Juan,
+Puerto Rico as there is a shortage of accommodation and Americans travel there.
 
 ## Visa
 
