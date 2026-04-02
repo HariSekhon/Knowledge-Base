@@ -5,7 +5,7 @@
 - [Summary](#summary)
 - [Visa](#visa)
 - [Prices](#prices)
-- [Travel Around San Juan](#travel-around-san-juan)
+- [Travel Around Puerto Rico](#travel-around-puerto-rico)
 - [Population](#population)
 - [Crime](#crime)
 - [San Juan](#san-juan)
@@ -42,7 +42,7 @@ Usually you'll get an approval within 1-3 days so ensure you apply with enough t
 The most expensive hostel I ever stayed at was in San Juan,
 Puerto Rico as there is a shortage of accommodation and Americans travel there.
 
-## Travel Around San Juan
+## Travel Around Puerto Rico
 
 You will need a car to get around San Juan.
 
