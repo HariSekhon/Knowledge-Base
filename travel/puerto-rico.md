@@ -140,8 +140,9 @@ The bus goes every 20 minutes during the day time, after 9pm you'll need a taxi.
     It didn't look that big but was full of lots of steak,
     although more well done than I'd like, you need to chew, but overall this was very good for the money
 - [Cangrejeros Food Truck Park](https://maps.app.goo.gl/JajsEUmtdQnuoTRX7)
-  - The Soul Harbour was shown to me by a friend of the owner, and the food is good. I had the white fish with macaroni
-    and cheese, collard vegetables, and the candied sweet potato was great.
+  - The Soul Harbour truck was shown to me by a friend of the owner, and the food is good.
+    I had the white fish with macaroni and cheese, collard vegetables, and the candied sweet potato was great.
+    My friend had the turkey wing which is massive, I didn't expect that.
     No wifi
 - [Anita Gelato Condado](https://maps.app.goo.gl/zmN7E97t2K8KQcRE9) - good quality gelato and good range of flavours
   including vegan ice creams, but expensive at \$8 for a regular 2 scoops, +\$0.50 for a small cone and then tip,
