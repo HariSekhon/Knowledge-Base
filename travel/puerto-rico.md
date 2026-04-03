@@ -98,6 +98,12 @@ The bus goes every 20 minutes during the day time, after 9pm you'll need a taxi.
 
 - [Uber](https://www.uber.com/) - only Uber was available in San Juan as of April 2026
 
+### Buses in San Juan
+
+Buses are free in San Juan, one of the few places I've seen this.
+
+They often run east-west along the city, which is a convenient way to get around if you can wait 20 minutes for one.
+
 ### Best Areas to Stay in San Juan
 
 - [Viejo San Juan](https://maps.app.goo.gl/7xg5T4FhdfpXjT8V8) - historic colonial district with walkable streets
