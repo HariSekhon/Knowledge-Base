@@ -127,8 +127,28 @@ The bus goes every 20 minutes during the day time, after 9pm you'll need a taxi.
 
 ### Best Restaurants in San Juan
 
+- [Miramar Food Truck Park](https://maps.app.goo.gl/FeEZjfHfk3exJgoD9) - several good street food trucks here
+  - [LaChona](https://maps.app.goo.gl/J42NJU8PNf3QxWHy5) - good burgers, although they serve them with potato chips
+    (crisps) and do not make fries.
+    I had the 3 sliders of the Lachona burger with pulled pork, the Drip Jam with bacon and tomato marmalade, and the
+    BBQ Bacon with caramelized bacon in bbq with crispy onions.
+    All 3 burgers were outstanding, with soft white buns and great juiceness and flavour.
+    The only downside is that the \$18 price + tax + tip came to \$22 and I wasn't big enough, I was still hungry
+    afterwards so went to Pa’l Pita next to it for a second round of food
+  - [Pa’l Pita](https://maps.app.goo.gl/tY7ifEEgjQkTnhP87) - forget the rating, the steak pita for \$13 (\$16 once you
+    factor in tax + tip) was good.
+    It didn't look that big but was full of lots of steak,
+    although more well done than I'd like, you need to chew, but overall this was very good for the money
+- [Cangrejeros Food Truck Park](https://maps.app.goo.gl/JajsEUmtdQnuoTRX7)
+  - The Soul Harbour was shown to me by a friend of the owner, and the food is good. I had the white fish with macaroni
+    and cheese, collard vegetables, and the candied sweet potato was great.
+    No wifi
 - [Anita Gelato Condado](https://maps.app.goo.gl/zmN7E97t2K8KQcRE9) - good quality gelato and good range of flavours
   including vegan ice creams, but expensive at \$8 for a regular 2 scoops, +\$0.50 for a small cone and then tip,
   you’re looking at nearly $10 for an ice cream.
   The waffle cone was worth it though, absolutely moreish!
   Has wifi
+
+TODO:
+
+- [Peccas Helado Artesanal](https://maps.app.goo.gl/acZoJ3byZ6zZoW7U7) - 4.9 ice cream
