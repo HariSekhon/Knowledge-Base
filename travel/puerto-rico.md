@@ -149,6 +149,7 @@ The bus goes every 20 minutes during the day time, after 9pm you'll need a taxi.
   you’re looking at nearly $10 for an ice cream.
   The waffle cone was worth it though, absolutely moreish!
   Has wifi
+- [SuperMax](https://maps.app.goo.gl/eWD6dJJiDZa9yzhs7) - large grocery store, well located and open 24 hours
 
 TODO:
 
