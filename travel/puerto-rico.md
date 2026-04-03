@@ -131,3 +131,4 @@ The bus goes every 20 minutes during the day time, after 9pm you'll need a taxi.
   including vegan ice creams, but expensive at \$8 for a regular 2 scoops, +\$0.50 for a small cone and then tip,
   you’re looking at nearly $10 for an ice cream.
   The waffle cone was worth it though, absolutely moreish!
+  Has wifi
