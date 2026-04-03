@@ -13,6 +13,7 @@
   - [Travel from San Juan Airport into San Juan](#travel-from-san-juan-airport-into-san-juan)
   - [Taxi Apps in San Juan](#taxi-apps-in-san-juan)
   - [Best Areas to Stay in San Juan](#best-areas-to-stay-in-san-juan)
+  - [Best Restaurants in San Juan](#best-restaurants-in-san-juan)
 
 <!-- INDEX_END -->
 
@@ -123,3 +124,10 @@ The bus goes every 20 minutes during the day time, after 9pm you'll need a taxi.
 - [Hostel of Santurce](https://maps.app.goo.gl/cASfs7dckNtBrWHj6) - DANGER - do not go - this is a drug addicts area, I
   saw several guys shooting up with needles in the street outside and there is no reception to help you if you run into
   trouble
+
+### Best Restaurants in San Juan
+
+- [Anita Gelato Condado](https://maps.app.goo.gl/zmN7E97t2K8KQcRE9) - good quality gelato and good range of flavours
+  including vegan ice creams, but expensive at \$8 for a regular 2 scoops, +\$0.50 for a small cone and then tip,
+  you’re looking at nearly $10 for an ice cream.
+  The waffle cone was worth it though, absolutely moreish!
