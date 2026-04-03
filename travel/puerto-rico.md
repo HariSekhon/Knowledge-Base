@@ -12,6 +12,7 @@
   - [San Juan Airport - Luis Munoz Marin International - SJU](#san-juan-airport---luis-munoz-marin-international---sju)
   - [Travel from San Juan Airport into San Juan](#travel-from-san-juan-airport-into-san-juan)
   - [Taxi Apps in San Juan](#taxi-apps-in-san-juan)
+  - [Buses in San Juan](#buses-in-san-juan)
   - [Best Areas to Stay in San Juan](#best-areas-to-stay-in-san-juan)
   - [Best Restaurants in San Juan](#best-restaurants-in-san-juan)
 
