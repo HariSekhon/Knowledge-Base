@@ -113,3 +113,13 @@ The bus goes every 20 minutes during the day time, after 9pm you'll need a taxi.
   stays
 - [Miramar](https://maps.app.goo.gl/ZvtgXT2WfhGqop2p9) - quiet and polished district with historic mansions and
   proximity to the convention center
+
+<!-- -->
+
+- [Conturce Hostel](https://maps.app.goo.gl/61RHU2nr2bK5Z4eNA) - decent but was expensive, possibly due to Spring Break
+  time in early April.
+  Wifi 476/101
+
+- [Hostel of Santurce](https://maps.app.goo.gl/cASfs7dckNtBrWHj6) - DANGER - do not go - this is a drug addicts area, I
+  saw several guys shooting up with needles in the street outside and there is no reception to help you if you run into
+  trouble
