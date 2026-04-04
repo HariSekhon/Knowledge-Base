@@ -134,6 +134,10 @@ They often run east-west along the city, which is a convenient way to get around
 
 ### Best Restaurants in San Juan
 
+- [Pokemoto](https://maps.app.goo.gl/1VYP2q7dUVGEoR2E7) - absolutely stacked large poke bowl for \$20 with 3 different
+  proteins and an absolute tonne of toppings as many as you want (a couple like caviar and avocado cost extra though).
+  I really liked the large tuna cubes, the salmon and the shrimps (prawns) as well as the many ingredients.
+  WiFi 0.4/0.9 Mbit/s was the only thing that wasn’t great
 - [Miramar Food Truck Park](https://maps.app.goo.gl/FeEZjfHfk3exJgoD9) - several good street food trucks here
   - [LaChona](https://maps.app.goo.gl/J42NJU8PNf3QxWHy5) - good burgers, although they serve them with potato chips
     (crisps) and do not make fries.
