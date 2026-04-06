@@ -31,6 +31,9 @@ Accommodation is also surprisingly expensive here.
 
 Perhaps this is why I got a cheap flight back to Europe from here, everybody else is avoiding this tourist trap!
 
+You will need a car to get around if you're going outside of San Juan as like America,
+they do not have much in the way of public transport outside of the metropolitan area.
+
 ## Visa
 
 You will need to apply for a US ESTA (\$40) to visit or even transit here,
