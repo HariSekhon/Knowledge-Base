@@ -6,6 +6,7 @@
 - [Visa](#visa)
 - [Prices](#prices)
 - [Travel Around Puerto Rico](#travel-around-puerto-rico)
+- [Car Rental](#car-rental)
 - [Population](#population)
 - [Crime](#crime)
 - [San Juan](#san-juan)
@@ -36,6 +37,7 @@ Perhaps this is why I got a cheap flight back to Europe from here, everybody els
 
 You will need a car to get around if you're going outside of San Juan as like America,
 they do not have much in the way of public transport outside of the metropolitan area.
+Cars are very expensive to rent, see the [car rental](#car-rental) section.
 
 ## Visa
 
@@ -63,6 +65,15 @@ trips, which are typically over \$100 per day.
 The island itself isn't that big and you could drive across it in around 3 hours.
 
 It's around 1 hour from San Juan to the East Coast where the activities and ferry to Vieques island are.
+
+## Car Rental
+
+Car rental is very expensive -
+it looks cheap online but when you turn up they will add a raft of charges that will multiply the cost by 4-5x,
+especially the insurance, as well as various taxes and surcharges from the car rental itself.
+
+**They often do not accept the car insurance you buy online which is cheaper, forcing you to buy their insurance
+instead**
 
 ## Population
 
