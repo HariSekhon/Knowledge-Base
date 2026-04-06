@@ -31,7 +31,10 @@ having a large array of well rated restaurants, that unlike some other countries
 
 Being part of the USA means you need a US visa / esta to go there, even to transit for a connecting flight.
 
-Accommodation is also surprisingly expensive here.
+There is more to see here than I had first anticipated,
+including beaches around the island, Culebra's famous Flamenco Beach, and Vieques famous bioluminescent bays.
+
+Accommodation is surprisingly expensive here due to lack of capacity and often gets booked up in advance.
 
 Perhaps this is why I got a cheap flight back to Europe from here, everybody else is avoiding this tourist trap!
 
