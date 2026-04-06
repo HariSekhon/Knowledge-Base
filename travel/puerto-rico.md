@@ -205,6 +205,8 @@ Most of the online slots were booked out many days in advance.
 
 ### Culebra
 
+They ferry to Culebra was \$6.50 return online but \$22.50 in person at the box office, so buy it online if you can!
+
 <https://www.puertoricoferry.com/en/routes-schedules/ceiba-culebra/>
 
 - [Flamenco Beach](https://maps.app.goo.gl/iidKJYHcT3GouhHU7) - this is a one hour walk from the ferry terminal if you
