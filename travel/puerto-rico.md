@@ -203,6 +203,10 @@ Most of the online slots were booked out many days in advance.
 
 <https://www.puertoricoferry.com/>
 
+There is a small cafe at the ferry terminal if you want a sandwich and drink for around \$11,
+but be warned they don't let you take or eat food on the ferry,
+which they don't tell you are the cafe when you're ordering it!
+
 ### Culebra
 
 They ferry to Culebra was \$6.50 return online but \$22.50 in person at the box office, so buy it online if you can!
