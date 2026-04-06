@@ -21,6 +21,7 @@
   - [Vieques](#vieques)
 - [Ponce](#ponce)
   - [Parking in Ponce](#parking-in-ponce)
+  - [Attractions in Ponce](#attractions-in-ponce)
   - [Restaurants in Ponce](#restaurants-in-ponce)
 
 <!-- INDEX_END -->
@@ -232,6 +233,12 @@ However, I managed to find a paid parking close to the centre for only \$2 flat 
 
 - [Primero](https://maps.app.goo.gl/ET9qzRASrcbRgGzd6) - this car park was mostly full but served the purpose cheaply at
   only \$2
+
+### Attractions in Ponce
+
+- [Plaza Las Delicias](Plaza Las Delicias) - the town square
+- [Plaza Pública de Ponce Federico Degetau](https://maps.app.goo.gl/RbNhpzsLRYxGYeNm7) - the central city park
+- [Catedral Nuestra Señora de Guadalupe](https://maps.app.goo.gl/4S1oHG6cHpfqWmPL8)
 
 ### Restaurants in Ponce
 
