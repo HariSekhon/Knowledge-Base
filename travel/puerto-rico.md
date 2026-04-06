@@ -185,11 +185,13 @@ Buy your ferry tickets in advance as they were sold out when I tried to go:
 
 <https://www.puertoricoferry.com/en/routes-schedules/ceiba-culebra/>
 
-- [Flamenco Beach](https://maps.app.goo.gl/iidKJYHcT3GouhHU7)
+- [Flamenco Beach](https://maps.app.goo.gl/iidKJYHcT3GouhHU7) - this is a one hour walk from the ferry terminal if you
+  don't want to take a taxi
 
 ### Vieques
 
 <https://www.puertoricoferry.com/en/routes-schedules/ceiba-vieques/>
 
-- [Bahía Bioluminiscente](https://maps.app.goo.gl/bk59T9HsMB9wyZmb7) - bioluminescent bay
+- [Bahía Bioluminiscente](https://maps.app.goo.gl/bk59T9HsMB9wyZmb7) - bioluminescent bay - this is half an hour's drive
+  from the ferry terminal, it's too far to walk
 - [Mosquito Bay](https://maps.app.goo.gl/XEVtcNpBdzs8bgZK6) - supposedly the brightest bioluminescent bay
