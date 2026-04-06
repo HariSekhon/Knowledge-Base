@@ -34,6 +34,8 @@ Being part of the USA means you need a US visa / esta to go there, even to trans
 There is more to see here than I had first anticipated,
 including beaches around the island, Culebra's famous Flamenco Beach, and Vieques famous bioluminescent bays.
 
+**If you are going to the islands, book your tickets online far in advance as they were sold out when I tried to go.**
+
 Accommodation is surprisingly expensive here due to lack of capacity and often gets booked up in advance.
 
 Perhaps this is why I got a cheap flight back to Europe from here, everybody else is avoiding this tourist trap!
@@ -191,7 +193,9 @@ TODO:
 
 ## Vieques and Culebra Islands
 
-Buy your ferry tickets in advance as they were sold out when I tried to go:
+Buy your ferry tickets in advance as they were sold out when I tried to go.
+
+Most of the online slots were booked out many days in advance.
 
 <https://www.puertoricoferry.com/>
 
