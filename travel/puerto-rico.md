@@ -19,6 +19,7 @@
 - [Vieques and Culebra Islands](#vieques-and-culebra-islands)
   - [Ferry](#ferry)
     - [Ferry Cafe](#ferry-cafe)
+      - [No Eating on Board - Bumpy Ride!](#no-eating-on-board---bumpy-ride)
   - [Culebra](#culebra)
   - [Vieques](#vieques)
 - [Ponce](#ponce)
@@ -212,6 +213,8 @@ Most of the online slots were booked out many days in advance.
 There is a small cafe at the ferry terminal if you want a sandwich and drink for around \$11,
 but be warned they don't let you take or eat food on the ferry,
 which they don't tell you are the cafe when you're ordering it!
+
+##### No Eating on Board - Bumpy Ride!
 
 So in case one was thinking about defying the rules and eating on board,
 after one finishes said banned eating,
