@@ -21,6 +21,7 @@
   - [Vieques](#vieques)
 - [Ponce](#ponce)
   - [Parking in Ponce](#parking-in-ponce)
+  - [Restaurants in Ponce](#restaurants-in-ponce)
 
 <!-- INDEX_END -->
 
@@ -231,3 +232,9 @@ However, I managed to find a paid parking close to the centre for only \$2 flat 
 
 - [Primero](https://maps.app.goo.gl/ET9qzRASrcbRgGzd6) - this car park was mostly full but served the purpose cheaply at
   only \$2
+
+### Restaurants in Ponce
+
+- [Barista Express Ponce](https://maps.app.goo.gl/HRVx7dALGTt2a1Zt5) - nice gentrified coffee shop. They ran out of the
+  yoghurt for the yoghurt granola bowl I came for so tried the oats instead.
+  Wifi 46/10 Mbit/s
