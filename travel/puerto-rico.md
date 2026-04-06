@@ -236,9 +236,14 @@ However, I managed to find a paid parking close to the centre for only \$2 flat 
 
 ### Attractions in Ponce
 
-- [Plaza Las Delicias](Plaza Las Delicias) - the town square
+In the town centre square:
+
+- [Plaza Las Delicias](Plaza Las Delicias)
 - [Plaza Pública de Ponce Federico Degetau](https://maps.app.goo.gl/RbNhpzsLRYxGYeNm7) - the central city park
 - [Catedral Nuestra Señora de Guadalupe](https://maps.app.goo.gl/4S1oHG6cHpfqWmPL8)
+- [Monumento a los Héroes de El Polvorín](https://maps.app.goo.gl/UVB4c1J3c4fGmics7)
+- [Plaza Luis Muñoz Rivera](https://maps.app.goo.gl/a3EV63ajhC7iCdLo7)
+- [Parque de Bombas](https://maps.app.goo.gl/25k8B6e1bM1weaYq8)
 
 ### Restaurants in Ponce
 
