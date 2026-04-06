@@ -22,7 +22,10 @@
 
 [Puerto Rico](https://maps.app.goo.gl/s8gNfR8ZQumonNP39) is an island in the Caribbean and a territory of the USA.
 
-This means you need a US visa / esta to go there, even to transit for a connecting flight.
+It's basically 2nd world America with brown people, and 1st world dining options,
+having a large array of well rated restaurants, that unlike some other countries, actually deserve their ratings.
+
+Being part of the USA means you need a US visa / esta to go there, even to transit for a connecting flight.
 
 Accommodation is also surprisingly expensive here.
 
