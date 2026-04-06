@@ -244,6 +244,7 @@ In the town centre square:
 - [Monumento a los Héroes de El Polvorín](https://maps.app.goo.gl/UVB4c1J3c4fGmics7)
 - [Plaza Luis Muñoz Rivera](https://maps.app.goo.gl/a3EV63ajhC7iCdLo7)
 - [Parque de Bombas](https://maps.app.goo.gl/25k8B6e1bM1weaYq8)
+- [Carpa de actividades](https://maps.app.goo.gl/hGoT7ZupmLaQsBY39)
 
 ### Restaurants in Ponce
 
