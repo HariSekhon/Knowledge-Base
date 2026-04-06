@@ -237,5 +237,5 @@ However, I managed to find a paid parking close to the centre for only \$2 flat 
 
 - [Barista Express Ponce](https://maps.app.goo.gl/HRVx7dALGTt2a1Zt5) - nice gentrified coffee shop. They ran out of the
   yoghurt for the yoghurt granola bowl (\$8) I came for so tried the oats instead (\$5) which was really nice and topped
-  with fresh fruits (strawberry, kiwi, banana) and granola
+  with fresh fruits (strawberry, kiwi, banana) and granola.
   Wifi 46/10 Mbit/s
