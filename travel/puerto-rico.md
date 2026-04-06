@@ -17,6 +17,8 @@
   - [Best Areas to Stay in San Juan](#best-areas-to-stay-in-san-juan)
   - [Best Restaurants in San Juan](#best-restaurants-in-san-juan)
 - [Vieques and Culebra Islands](#vieques-and-culebra-islands)
+  - [Ferry](#ferry)
+    - [Ferry Cafe](#ferry-cafe)
   - [Culebra](#culebra)
   - [Vieques](#vieques)
 - [Ponce](#ponce)
@@ -197,11 +199,15 @@ TODO:
 
 ## Vieques and Culebra Islands
 
+### Ferry
+
 Buy your ferry tickets in advance as they were sold out when I tried to go.
 
 Most of the online slots were booked out many days in advance.
 
 <https://www.puertoricoferry.com/>
+
+#### Ferry Cafe
 
 There is a small cafe at the ferry terminal if you want a sandwich and drink for around \$11,
 but be warned they don't let you take or eat food on the ferry,
