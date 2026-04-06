@@ -213,6 +213,12 @@ There is a small cafe at the ferry terminal if you want a sandwich and drink for
 but be warned they don't let you take or eat food on the ferry,
 which they don't tell you are the cafe when you're ordering it!
 
+So in case one was thinking about defying the rules and eating on board,
+after one finishes said banned eating,
+one is reminded of those big waves one sees at the beaches as the ferry ride is relatively bumpy... try not to throw
+up! It turns out there is a reason that eating and drinking is banned on board and not just them being difficult or lazy
+not wanting any cleaning of crumbs...
+
 ### Culebra
 
 They ferry to Culebra was \$6.50 return online but \$22.50 in person at the box office, so buy it online if you can!
