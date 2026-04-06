@@ -15,6 +15,9 @@
   - [Buses in San Juan](#buses-in-san-juan)
   - [Best Areas to Stay in San Juan](#best-areas-to-stay-in-san-juan)
   - [Best Restaurants in San Juan](#best-restaurants-in-san-juan)
+- [Vieques and Culebra Islands](#vieques-and-culebra-islands)
+  - [Culebra](#culebra)
+  - [Vieques](#vieques)
 
 <!-- INDEX_END -->
 
@@ -171,3 +174,22 @@ They often run east-west along the city, which is a convenient way to get around
 TODO:
 
 - [Peccas Helado Artesanal](https://maps.app.goo.gl/acZoJ3byZ6zZoW7U7) - 4.9 ice cream
+
+## Vieques and Culebra Islands
+
+Buy your ferry tickets in advance as they were sold out when I tried to go:
+
+<https://www.puertoricoferry.com/>
+
+### Culebra
+
+<https://www.puertoricoferry.com/en/routes-schedules/ceiba-culebra/>
+
+- [Flamenco Beach](https://maps.app.goo.gl/iidKJYHcT3GouhHU7)
+
+### Vieques
+
+<https://www.puertoricoferry.com/en/routes-schedules/ceiba-vieques/>
+
+- [Bahía Bioluminiscente](https://maps.app.goo.gl/bk59T9HsMB9wyZmb7) - bioluminescent bay
+- [Mosquito Bay](https://maps.app.goo.gl/XEVtcNpBdzs8bgZK6) - supposedly the brightest bioluminescent bay
