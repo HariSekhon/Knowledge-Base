@@ -19,6 +19,8 @@
 - [Vieques and Culebra Islands](#vieques-and-culebra-islands)
   - [Culebra](#culebra)
   - [Vieques](#vieques)
+- [Ponce](#ponce)
+  - [Parking in Ponce](#parking-in-ponce)
 
 <!-- INDEX_END -->
 
@@ -213,3 +215,19 @@ Most of the online slots were booked out many days in advance.
 - [Bahía Bioluminiscente](https://maps.app.goo.gl/bk59T9HsMB9wyZmb7) - bioluminescent bay - this is half an hour's drive
   from the ferry terminal, it's too far to walk
 - [Mosquito Bay](https://maps.app.goo.gl/XEVtcNpBdzs8bgZK6) - supposedly the brightest bioluminescent bay
+
+## Ponce
+
+There isn't much to do in Ponce, it has a nice town square, but there is not much else in this city.
+
+Several people were pretty luke warm about ponce
+when I asked them because of this and several people said there is not much to do here.
+
+### Parking in Ponce
+
+Parking in Ponce is difficult as the streets are filled with cars.
+
+However, I managed to find a paid parking close to the centre for only \$2 flat fee:
+
+- [Primero](https://maps.app.goo.gl/ET9qzRASrcbRgGzd6) - this car park was mostly full but served the purpose cheaply at
+  only \$2
