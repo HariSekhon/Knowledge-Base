@@ -246,6 +246,12 @@ Not Recommended:
 
 ### Vieques
 
+You really need to stay overnight in Vieques.
+
+Transportation on the island is supposedly a problem according to an expat who lives out there, and you can't take your
+rental car out there on the ferry, both due to the car rental terms and apparently also only residents are allowed to
+take cars.
+
 <https://www.puertoricoferry.com/en/routes-schedules/ceiba-vieques/>
 
 - [Bahía Bioluminiscente](https://maps.app.goo.gl/bk59T9HsMB9wyZmb7) - bioluminescent bay - this is half an hour's drive
