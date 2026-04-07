@@ -96,7 +96,8 @@ even worse than Europe, but perhaps unsurprising given that Puerto Rico is a bit
 
 [![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~PRI~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~PRI~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)
 
-Its population has already decreased:
+Its population has already decreased (I suspect due to emigration rather than aging out yet as the latter usually takes
+longer):
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~PRI)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~PRI)
 
