@@ -49,6 +49,11 @@ even a taxi driver told me tourists are hiding in resorts.
 
 There are street dogs everywhere, and sometimes gangs of dogs, see the [Dogs](#dogs) section.
 
+I was seriously disappointed in the quality of food,
+prices and 3rd world style of the country and as such have no plans to revisit.
+
+If I ever brought a white girlfriend here, it would be strictly a resort holiday.
+
 ## Immigration Hassles
 
 You have to fill in an online form before you go through immigration.
