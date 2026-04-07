@@ -52,7 +52,7 @@ There are street dogs everywhere, and sometimes gangs of dogs, see the [Dogs](#d
 I was seriously disappointed in the quality of food,
 prices and 3rd world style of the country and as such have no plans to revisit.
 
-If I ever brought a white girlfriend here, it would be strictly a resort holiday.
+If I ever brought a white girlfriend here, it would be strictly a resort holiday, no streetz like I do.
 
 ## Immigration Hassles
 
