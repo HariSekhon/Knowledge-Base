@@ -232,6 +232,8 @@ This small island is ok for a day trip
 but it doesn't have much in the way of amenities or dining options compared to San Juan.
 Perhaps people are just staying resorts?
 
+The map shows an airport but it's really just a small airfield with 3 small private propeller planes sitting in it.
+
 Not Recommended:
 
 - [Flamenco Beach](https://maps.app.goo.gl/iidKJYHcT3GouhHU7) - this was recommended to me by a US traveller in Jamaica,
