@@ -91,7 +91,8 @@ instead**
 
 [Puerto Rico](https://maps.app.goo.gl/s8gNfR8ZQumonNP39) has a population of only 3.2 million people.
 
-Its birthrate is surprisingly low at 0.9 children per woman:
+Its birthrate is surprisingly low at 0.9 children per woman,
+even worse than Europe, but perhaps unsurprising given that Puerto Rico is a bit expensive:
 
 [![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~PRI~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~PRI~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)
 
