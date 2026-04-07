@@ -64,6 +64,8 @@ You have to fill in an online form before you go through immigration.
 
 The food is often either Western priced or mediocre-to-low quality - often both.
 
+I've had better Jamaican food in London and at better prices too.
+
 ## Population
 
 [Jamaica](https://en.wikipedia.org/wiki/Jamaica) has a population of only 2.8 million people of almost entirely African
