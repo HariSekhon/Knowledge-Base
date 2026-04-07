@@ -210,6 +210,9 @@ Most of the online slots were booked out many days in advance.
 
 <https://www.puertoricoferry.com/>
 
+The ferry air conditioning was too high both there and back,
+you will need a full sleeved top or coat.
+
 #### Ferry Cafe
 
 There is a small cafe at the ferry terminal if you want a sandwich and drink for around \$11,
