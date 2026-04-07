@@ -228,8 +228,19 @@ They ferry to Culebra was \$6.50 return online but \$22.50 in person at the box 
 
 <https://www.puertoricoferry.com/en/routes-schedules/ceiba-culebra/>
 
-- [Flamenco Beach](https://maps.app.goo.gl/iidKJYHcT3GouhHU7) - this is a one hour walk from the ferry terminal if you
-  don't want to take a taxi
+This small island is ok for a day trip
+but it doesn't have much in the way of amenities or dining options compared to San Juan.
+Perhaps people are just staying resorts?
+
+Not Recommended:
+
+- [Flamenco Beach](https://maps.app.goo.gl/iidKJYHcT3GouhHU7) - this was recommended to me by a US traveller in Jamaica,
+  but I would not recommend it - it's an undeveloped beach a one hour march from the ferry terminal, and the territory
+  is undeveloped, there aren't even pavements or street lights for half the walk north once you're north of the
+  airfield.
+  The more direct path is unpaved and rugged like walking a jungle path,
+  while the road is a large curve without pavements or lights.
+  Not a great hike as there are not amenities along the way
 
 ### Vieques
 
