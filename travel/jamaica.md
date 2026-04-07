@@ -8,6 +8,7 @@
 - [Population](#population)
 - [Crime](#crime)
   - [Drug Dealers](#drug-dealers)
+  - [Dogs](#dogs)
 - [Travel Between Cities in Jamaica](#travel-between-cities-in-jamaica)
 - [Kingston](#kingston)
   - [Kingston Airport - Norman Manley International - KIN](#kingston-airport---norman-manley-international---kin)
@@ -16,6 +17,7 @@
   - [ATMs in Kingston](#atms-in-kingston)
   - [Taxi Apps in Kingston](#taxi-apps-in-kingston)
   - [Best Areas to Stay in Kingston](#best-areas-to-stay-in-kingston)
+  - [Attractions in Kingston](#attractions-in-kingston)
   - [Restaurants in Kingston](#restaurants-in-kingston)
 - [Montego Bay](#montego-bay)
   - [Best Areas to Stay in Montego Bay](#best-areas-to-stay-in-montego-bay)
@@ -44,6 +46,8 @@ and several areas that you should avoid, such as downtown Kingston and downtown 
 
 In both places I hardly saw any other foreigners and for good reason,
 even a taxi driver told me tourists are hiding in resorts.
+
+There are street dogs everywhere, and sometimes gangs of dogs, see the [Dogs](#dogs) section.
 
 ## Immigration Hassles
 
@@ -76,7 +80,8 @@ Locals I spoke to all cited the high cost of living in Jamaica as a contributing
 Jamaica's low birthrate is actually the best demographic news I've heard in years -
 if this could be applied to Africa,
 the world would have a chance to solve both the environtmental impacts of humanity
-as well as rectify the declining human quality problem due to birthrate imbalances, colloquially known as
+as well as rectify the problem of declining human quality due to birthrate imbalances,
+colloquially known as
 [Idiocracy](https://www.youtube.com/watch?v=sP2tUW0HDHA).
 
 [![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~JAM~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~JAM~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)
@@ -130,6 +135,30 @@ violent and potentially deadly conflict.
 
 I didn't know if I was going to get shot in the street outside as I tried to put as much distance between me and there
 as possible as the taxi was still several minutes away.
+
+### Dogs
+
+There are stray dogs everywhere, almost every road, and sometimes street gangs of dogs.
+
+For people who have a fear or dogs or being bitten, Jamaica is one of the worse places to go in the world.
+
+Many single street dogs had a look of fear in them as I past them, probably due to bad experiences with the locals,
+and will avoid a confrontation with you, while others are more aggressive and will bark you down and approach only to
+back off when I changed direction to take them head on and bear down on them.
+
+I got used to being barked at threateningly by dogs and standing my ground and threatening them back
+(and I really meant it, I didn't train all my life to take shit from dogs or anybody else).
+
+In Ocho Rios one nice stray dog followed me for a mile to my accommodation,
+and as I walked down a side street past a gang of neighbourhood street dogs,
+I suddenly heard a yelping behind me -
+the gang of 5 or 6 dogs was attacking the stray that was following me.
+I remember one biting its back, it couldn't defend itself from all angles.
+
+I immediately charged the pack of dogs growling and threatening them off so they dispersed from attacking the stray,
+who did not seem seriously hurt thankfully due to my quick intervention,
+and quickly returned to my side, but this reminds me that you need to not be afraid of dogs to be walking around
+Jamaica, otherwise you may not have a good time.
 
 ## Travel Between Cities in Jamaica
 
@@ -223,13 +252,19 @@ I needed cash for the bus from the airport so tried the cashpoint opposite the A
 - [Stony Hill](https://maps.app.goo.gl/8hdw6LYJv8PLcGGt9) - leafy northern suburb providing a cooler climate and scenic city views
 - [Jack's Hill](https://maps.app.goo.gl/8hdw6LYJv8PLcGGt9a) - quiet hillside community overlooking the city with luxury rental options
 
-<!--
+<!-- -->
 
-- [Ragamuffin Hostel](https://maps.app.goo.gl/6tU4ZSkUXsrD3dHK8) - good facilities, privacy curtains, multiple shows,
-  coffee shop until 5pm, kitchen with no curfew.
+- [Ragamuffin Hostel](https://maps.app.goo.gl/6tU4ZSkUXsrD3dHK8) - good facilities, privacy curtains, kitchen with no
+  curfew.
+  Multiple showers but unfortunately, like much of the 3rd world, the showers have no hot water.
+  It's probably still the best and most well known hostel in Kingston though.
   Wifi 6/6 Mbit/s
+  - The co-joined coffee shop is open until 5pm and has good R&B Slow Jamz music though and was affordable for a drink and cake.
 
--->
+### Attractions in Kingston
+
+- [Bob Marley Museum](https://maps.app.goo.gl/bwE8MNEj6KFDanxQ7) - \$25 for a tour of his house where he used to make
+  music, still owned and turned into a museum by his wife
 
 ### Restaurants in Kingston
 
