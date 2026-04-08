@@ -168,6 +168,11 @@ They often run east-west along the city, which is a convenient way to get around
 
 ### Attractions in San Juan
 
+- [El Yunque National Forest](https://maps.app.goo.gl/sUSHbCPQMAMGwyNCA) - my absolute favourite part of my Puerto Rico
+  trip.
+  A one hour drive out of San Juan.
+  I wish I'd dedicated a full rather than partial day to this.
+  You preferably need a rental car so you can stop at various places
 - [Viejo San Juan](https://maps.app.goo.gl/w4qofKdjjmMDgxHAA) - old San Juan historic centre
   - [Castillo San Felipe del Morro](https://maps.app.goo.gl/bU853HU6o76tbGNK7) - \$10 entry. They close lower levels
     at 4:45pm and they kick you out of the upper level the minute it hits 5pm
