@@ -123,7 +123,7 @@ who has spent nearly his entire life training several different martial arts... 
 People who think the UK has a crime problem should see the stark difference between Jamaica and the UK in this graph
 below:
 
-[![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=JAM~OWID_WRL~UN_LAC~UN_EUR~GBR)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=JAM~OWID_WRL~UN_LAC~UN_EUR~GBR)
+[![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=JAM~OWID_WRL~UN_LAC~UN_EUR~GBR~Eastern+Asia+%28UN%29)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=JAM~OWID_WRL~UN_LAC~UN_EUR~GBR~Eastern+Asia+%28UN%29)
 
 ### Drug Dealers
 
