@@ -534,6 +534,9 @@ I have have private hosts cancel my accommodations the day before or even the sa
 
 It's annoying to be booking at the last minute because you'll get the least good places for the most expensive prices.
 
+Lastly, check Google Maps ratings, they will help you to avoid some landmine places that for some reason do not seem to
+be rated badly enough on booking sites.
+
 ### Internet - Hotel vs Airbnb
 
 Hotel wifi is probably the worst wifi ever,
