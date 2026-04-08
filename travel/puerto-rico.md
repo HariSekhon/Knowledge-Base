@@ -143,8 +143,8 @@ They often run east-west along the city, which is a convenient way to get around
 
 - [Viejo San Juan](https://maps.app.goo.gl/7xg5T4FhdfpXjT8V8) - historic colonial district with walkable streets
   landmarks and vibrant culture
-- [Condado](https://www.google.com/maps?q=Condado+San+Juan+Puerto+Rico) - upmarket beachfront area with nightlife,
-  restaurants and resorts, called _"The Miami of San Juan"_
+- [Condado](https://www.google.com/maps?q=Condado+San+Juan+Puerto+Rico) - upmarket beachfront area with a good beach,
+  nightlife, restaurants and resorts, called _"The Miami of San Juan"_
 - [Isla Verde](https://maps.app.goo.gl/5NVBhuQh9fnHPzQP7) - prime beach zone near the airport with large hotel resorts
 - [Santurce](https://maps.app.goo.gl/mXjhdrWLnfNpy5Tv8) - artsy neighborhood with street art local food and nightlife.
   I was told by a local that the night life was far less in 2026 due to a Panamanian diplomat's son having been shot and
@@ -166,7 +166,26 @@ They often run east-west along the city, which is a convenient way to get around
   saw several guys shooting up with needles in the street outside and there is no reception to help you if you run into
   trouble
 
-### Best Restaurants in San Juan
+### Attractions in San Juan
+
+- [Viejo San Juan](https://maps.app.goo.gl/w4qofKdjjmMDgxHAA) - old San Juan historic centre
+  - [Castillo San Felipe del Morro](https://maps.app.goo.gl/bU853HU6o76tbGNK7) - \$10 entry. They close lower levels
+    at 4:45pm and they kick you out of the upper level the minute it hits 5pm
+  - [San Cristóbal Castle](https://maps.app.goo.gl/BmQ1onJ3WNwuSEQy7)
+  - [Walkway of the Presidents](https://maps.app.goo.gl/2onfcRAGQEyNexko9)
+- Condado:
+  - [the Beaches thong](https://maps.app.goo.gl/DtcxCXmQmcycJYso9) - this is the real Condado beach, not the small one
+    [here](https://maps.app.goo.gl/6NeNjgB5qiejBAjk8) or [here](https://maps.app.goo.gl/jvrHeqA8qsWViL1GA)
+- Miramar:
+  - [Miramar Food Truck Park](https://maps.app.goo.gl/WqwEzuyPmMtVcSfr7)
+- Santurce:
+  - [Libros Libres de Condado](https://maps.app.goo.gl/VpWejGUeT3gVPRWi6) - free street book store. I wish these were
+    everywhere in the world
+  - [Playa Ashford](https://maps.app.goo.gl/cq7DHjdjaCxr5udH6)
+  - [Playa del Pueblo](https://maps.app.goo.gl/ijzacty1KYhSpKjr9)
+  - [Cangrejeros Food Truck Park](https://maps.app.goo.gl/PTjC36u8XPEq2YC88)
+
+### Restaurants in San Juan
 
 - [Pokemoto](https://maps.app.goo.gl/1VYP2q7dUVGEoR2E7) - absolutely stacked large poke bowl for \$20 with 3 different
   proteins and an absolute tonne of toppings as many as you want (a couple like caviar and avocado cost extra though).
@@ -228,6 +247,8 @@ up! It turns out there is a reason that eating and drinking is banned on board a
 not wanting any cleaning of crumbs...
 
 ### Culebra
+
+I preferred spending time in San Juan which has decent beaches and far more amenities and good restaurants.
 
 They ferry to Culebra was \$6.50 return online but \$22.50 in person at the box office, so buy it online if you can!
 
