@@ -56,6 +56,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 - [App Generation](#app-generation)
 - [Coding](#coding)
 - [RAG - Retrieval Augmented Generation](#rag---retrieval-augmented-generation)
+- [Character Generation](#character-generation)
 - [Debugging](#debugging)
 - [Job Search](#job-search)
 - [List of AI Tools By Categories](#list-of-ai-tools-by-categories)
@@ -504,6 +505,10 @@ Combines LLM with referencing an authoritative traditional Knowledge Base before
 <https://aws.amazon.com/what-is/retrieval-augmented-generation/>
 
 <https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview>
+
+## Character Generation
+
+- <https://character.ai/>
 
 ## Debugging
 
