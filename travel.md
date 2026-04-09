@@ -4,17 +4,17 @@
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/stargazers)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/commits/main)
 
-[![Total Countries](https://img.shields.io/badge/Total%20Countries-66-blue)](https://nomads.com/@harisekhon)
+[![Total Countries](https://img.shields.io/badge/Total%20Countries-67-blue)](https://nomads.com/@harisekhon)
 [![Countries in 2024](https://img.shields.io/badge/in%202024-19-blue)](https://nomads.com/@harisekhon)
 [![Countries in 2025](https://img.shields.io/badge/in%202025-35-blue)](https://nomads.com/@harisekhon)
-[![Countries in 2026](https://img.shields.io/badge/in%202026-12-blue)](https://nomads.com/@harisekhon)
-[![Unique Countries 2024+](https://img.shields.io/badge/Unique%20Countries%202024+-57-blue)](https://nomads.com/@harisekhon)
+[![Countries in 2026](https://img.shields.io/badge/in%202026-14-blue)](https://nomads.com/@harisekhon)
+[![Unique Countries 2024+](https://img.shields.io/badge/Unique%20Countries%202024+-58-blue)](https://nomads.com/@harisekhon)
 
-[![Total Cities](https://img.shields.io/badge/Total%20Cities-198-blue)](https://nomads.com/@harisekhon)
+[![Total Cities](https://img.shields.io/badge/Total%20Cities-203-blue)](https://nomads.com/@harisekhon)
 [![Cities in 2024](https://img.shields.io/badge/in%202024-68-blue)](https://nomads.com/@harisekhon)
 [![Cities in 2025](https://img.shields.io/badge/in%202025-89-blue)](https://nomads.com/@harisekhon)
-[![Cities in 2026](https://img.shields.io/badge/in%202026-23-blue)](https://nomads.com/@harisekhon)
-[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-173-blue)](https://nomads.com/@harisekhon)
+[![Cities in 2026](https://img.shields.io/badge/in%202026-29-blue)](https://nomads.com/@harisekhon)
+[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-178-blue)](https://nomads.com/@harisekhon)
 
 Short links to this page:
 
@@ -112,9 +112,9 @@ Updated regularly as I travel the world 52 weeks a year.
 
 ## Countries
 
-Countries: 66
+Countries: 67
 
-Cities: 198
+Cities: 203
 
 - Countries in 2024: 19
   - Cities in 2024: 68
@@ -129,12 +129,12 @@ Cities: 198
     Romania, Hungary, Slovakia, Austria, Czechia, Poland, Germany, UK, Slovenia, Croatia, Montenegro, Albania,
     North Macedonia, Bosnia & Herzegovina, Ukraine, Moldova, Tunisia, Jordan, Lebanon, Spain, Mexico, Guatemala,
     El Salvador, Costa Rica, Panama, Colombia
-- Countries in 2026: 12
+- Countries in 2026: 14
   - Cities in 2025: 89
   - Countries: Colombia (continued), Ecuador, Peru, Bolivia, Chile, Argentina, Uruguay, Brazil, Paraguay, Curacao,
-    Dominican Republic, Jamaica
-- Unique Countries since Emigrating from the UK in 2024: 57
-  - Unique Cities since Emigrating from the UK in 2024: 173
+    Dominican Republic, Jamaica, Puerto Rico, Spain
+- Unique Countries since Emigrating from the UK in 2024: 58
+  - Unique Cities since Emigrating from the UK in 2024: 178
 
 Country pages with specific tips for each country:
 
