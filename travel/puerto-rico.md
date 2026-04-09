@@ -118,6 +118,14 @@ This airport is fairly small and at the terminal I arrived I had to collect lugg
 
 They asked for accommodation address.
 
+The departure terminal has very little outside but a modest selection of food places and more souvenir shops past
+security.
+
+There are water fountains outside the toilets in each terminal.
+
+They will actually check if you have water in metal flasks when passing through security,
+and they can only be emptied before the scanners.
+
 ### Travel from San Juan Airport into San Juan
 
 Options:
