@@ -7,6 +7,7 @@
   - [Madrid Airport - MAD](#madrid-airport---mad)
     - [Travel to / from Madrid Airport](#travel-to--from-madrid-airport)
   - [Metro in Madrid](#metro-in-madrid)
+  - [Best Areas to Stay in Madrid](#best-areas-to-stay-in-madrid)
   - [Attractions in Madrid](#attractions-in-madrid)
   - [Restaurants in Madrid](#restaurants-in-madrid)
 
@@ -76,6 +77,13 @@ Contactless card payments don't work on the barriers though,
 you need a local travel card,
 but this is not a problem as the automated vending machines have an English option
 and will dispense a card with your single fare on it for an extra one-time fee of €2.50.
+
+### Best Areas to Stay in Madrid
+
+- [Centro](https://maps.app.goo.gl/HELQ1Nbe51RwQhUcA) - the historic centre with lots of restaurants, museums and
+  attractions
+- [Chamartín](https://maps.app.goo.gl/u3awifaFxWQN4XBY6) - upmarket residential area in north Madrid
+- [Tetuán](https://maps.app.goo.gl/AKGSRjMk9EfwgUrc9) - adjacent west of Chamartín
 
 ### Attractions in Madrid
 
