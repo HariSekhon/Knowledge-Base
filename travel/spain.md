@@ -82,7 +82,9 @@ and will dispense a card with your single fare on it for an extra one-time fee o
 
 - [Centro](https://maps.app.goo.gl/HELQ1Nbe51RwQhUcA) - the historic centre with lots of restaurants, museums and
   attractions
-- [Chamartín](https://maps.app.goo.gl/u3awifaFxWQN4XBY6) - upmarket residential area in north Madrid
+- [Chamberí](https://maps.app.goo.gl/wprH2JTYw9oeRD519) - immediately north of Centro, still walkable
+- [Chamartín](https://maps.app.goo.gl/u3awifaFxWQN4XBY6) - upmarket residential area in north Madrid, a bit of a long
+  1 hour walk, so take the metro if staying here or Tetuan
 - [Tetuán](https://maps.app.goo.gl/AKGSRjMk9EfwgUrc9) - adjacent west of Chamartín
 
 ### Attractions in Madrid
