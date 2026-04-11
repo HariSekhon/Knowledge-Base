@@ -43,7 +43,7 @@ The birthrates would be even worse if not for good muslim moral values of family
 This is the only place I recall seeing white skinned girls with muslim headscarfs,
 but if you know of another please let me know!
 
-It's population is still in decline though:
+It's population is still in decline though, partly due to emigration as nearly 50% of their diaspora now lives abroad:
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~BIH)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~BIH)
 
