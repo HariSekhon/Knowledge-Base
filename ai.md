@@ -432,7 +432,7 @@ Video generation AIs:
 - [Canva](https://www.canva.com/)
 - ~~Sora by OpenAI~~ - shut down due to being too expensive to run and burning through their VC too quickly
   - $15M per day costs to generate AI slop videos means that their latest \$100B investment would have been gone in
-    only 2 months and apparently it only generated \$2.1M revenue in total
+    only 2 months and apparently it only generated \$2.1M revenue in total as it was difficult to monetize the videos
 - Veo-2 by Google
 - Luma Ray 3 - high quality and consistency reported
 
