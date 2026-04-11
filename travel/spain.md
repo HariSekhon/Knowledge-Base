@@ -2,6 +2,10 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
+- [Food & Prices](#food--prices)
+- [Population](#population)
+- [Crime](#crime)
 - [Taxi Apps](#taxi-apps)
 - [Madrid](#madrid)
   - [Madrid Airport - MAD](#madrid-airport---mad)
@@ -13,9 +17,67 @@
 
 <!-- INDEX_END -->
 
+## Summary
+
+[Spain](https://maps.app.goo.gl/CzXWieuV3DerqK1k8) has a lot going for it in terms of lifestyle:
+
+- Good Weather
+- Good Food - variety of cuisines and price points
+- Attractive People
+- Low Crime
+- Moderate Prices
+
+It has become one of my favourite countries in Europe and one I wish I'd discovered earlier in my life.
+
+## Food & Prices
+
+The food is basically Western priced but the quality is good,
+much better than many other countries, more on par with London than much of the rest of the world.
+
+It also has a good variety of international food as you'll see in the
+[Restaurants in Madrid](#restaurants-in-madrid) section below.
+
+## Population
+
+Spain's population is nearly 48 Million at the time of writing, and you actually see local Spanish people on their
+metro, which I found weird compared to London, which is majority foreign now.
+
+Unfortunately, Spain's birth rate is tragically low at a mere 1.2 children per woman,
+far below the necessary replacement rate of 2.1 -
+a consistent pattern of better people being outbred causing a decline in human quality each generation -
+colloquially known as
+[Idiocracy](https://www.youtube.com/watch?v=sP2tUW0HDHA).
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~ESP~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~ESP~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)
+
+Its population has almost levelled off before an inevitable native decline, with the surge of 6 million in the 2000s
+being almost certainly due to mass immigration - 2.2 Million from Europe,
+1.2 Million from Africa, and 1.2 Million from Latin America -
+this last one due to colonial connections and shared language as most of Latin America speaks Spanish.
+<sup><a href="https://en.wikipedia.org/wiki/Demographics_of_Spain">1</a></sup>
+
+The popularity of travel between Spain and Latin America is obvious in the number of cheap flights between the two
+which is how I discovered Spain as I stopped over for a few days to catch a cheap flight to Mexico.
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~ESP)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~ESP)
+
+<https://en.wikipedia.org/wiki/Demographics_of_Spain>
+
+## Crime
+
+Spain is a 1st world country and doesn't have as bad immigration as the UK, so is lower crime.
+
+It's crime rate is actually lower than Europe in general, which is already very low compared to Africa and Latin America.
+
+The only regions safer are the historically high quality civilizations of the Far East,
+and the rich strict law Gulf countries.
+
+[![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=UN_EUR~GBR~Eastern+Asia+%28UN%29~ESP~OWID_WRL~Sub-Saharan+Africa+%28UN%29)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=UN_EUR~GBR~Eastern+Asia+%28UN%29~ESP~UN_AFR~OWID_WRL)
+
 ## Taxi Apps
 
-I didn't bother using any taxis in Madrid as the Metro is 1st class and connects to the airport too.
+I didn't bother using any taxis in Madrid as the Metro is 1st class and connects to the airport too -
+same with the buses.
 
 - [Cabify](https://cabify.com/en) - considered the top taxi app here with competitive pricing, but I've not tried it yet
   as the public transport from the airport was 1st world good
