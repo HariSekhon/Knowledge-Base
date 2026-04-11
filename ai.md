@@ -430,7 +430,7 @@ Video generation AIs:
 - [LumaLabs Dream Machine](https://lumalabs.ai/dream-machine) - pics or video
 - [Kawping](https://www.kapwing.com/)
 - [Canva](https://www.canva.com/)
-- ~~Sora by OpenAI~~ - shut down
+- ~~Sora by OpenAI~~ - shut down due to being too expensive to run and burning through their VC too quickly
 - Veo-2 by Google
 - Luma Ray 3 - high quality and consistency reported
 
