@@ -430,7 +430,8 @@ Video generation AIs:
 - [LumaLabs Dream Machine](https://lumalabs.ai/dream-machine) - pics or video
 - [Kawping](https://www.kapwing.com/)
 - [Canva](https://www.canva.com/)
-- ~~Sora by OpenAI~~ - shut down due to being too expensive to run and burning through their VC too quickly
+- ~~Sora by OpenAI~~ - shut down due to being too expensive to run and burning through VC too quickly
+  - $15M per day costs to generate AI slop videos means that their latest \$100B investment would have been gone in only 2 months
 - Veo-2 by Google
 - Luma Ray 3 - high quality and consistency reported
 
