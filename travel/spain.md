@@ -185,7 +185,7 @@ don't underestimate or skip them, such as the museums, go have a look.
 - [Outdoor Gym](https://maps.app.goo.gl/TAnAq1oVsYWtboi87) - do some pull-ups bro, it's free
 - [Teatro Kapital](https://maps.app.goo.gl/U3DHxGe72Nzyq2jq8) - 7 floor nightclub with different music in different
   rooms. Entry is €20-30 per person and smart casual dress code applies
-- [Calle 365 Discoteca](https://maps.app.goo.gl/MrqwN6btJPVyoZQj8)
+- [Calle 365 Discoteca](https://maps.app.goo.gl/MrqwN6btJPVyoZQj8) - €10-20 entry per person
 
 ### Restaurants in Madrid
 
