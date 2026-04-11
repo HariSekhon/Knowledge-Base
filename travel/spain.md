@@ -17,6 +17,8 @@
 - [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
 - [Ibiza](#ibiza)
 - [Mallorca](#mallorca)
+- [Sevilla](#sevilla)
+  - [Where to Stay in Sevilla](#where-to-stay-in-sevilla)
 
 <!-- INDEX_END -->
 
@@ -181,6 +183,8 @@ don't underestimate or skip them, such as the museums, go have a look.
 - [Catedral de Santa María la Real de la Almudena](https://maps.app.goo.gl/RskFK4CK4X4sKJ4i8)
 - [Pontifical Basilica of Saint Michael](https://maps.app.goo.gl/mHAEEccyoJj1E7H8A)
 - [Outdoor Gym](https://maps.app.goo.gl/TAnAq1oVsYWtboi87) - do some pull-ups bro, it's free
+- [Teatro Kapital](https://maps.app.goo.gl/U3DHxGe72Nzyq2jq8) - 7 floor nightclub with different music in different
+  rooms. Entry is €20-30 per person and smart casual dress code applies
 
 ### Restaurants in Madrid
 
@@ -312,3 +316,10 @@ Booking further in advance should get better prices.
 ## Mallorca
 
 [Mallorca](Majorca) is a popular tourist island.
+
+## Sevilla
+
+### Where to Stay in Sevilla
+
+- [JOY Plaza de Armas](https://maps.app.goo.gl/a6TUffK98D8AmVZn9) - recommended by a fellow traveller
+  <!-- Majd in Madrid -->
