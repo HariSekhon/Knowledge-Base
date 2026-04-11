@@ -291,7 +291,8 @@ Expensive / fancy:
 
 ## Ferry Between Ibiza and Mallorca
 
-I actually thought this would be cheaper but it's twice the price of just taking a flight.
+I actually thought it would be cheaper to take the ferry and enjoy a scenic route
+but it's more than twice the price of just taking a direct flight between the two neighbouring islands.
 
 <https://www.directferries.com/ibiza_palma_ferry.htm>
 
