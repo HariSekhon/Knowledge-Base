@@ -295,7 +295,8 @@ Expensive / fancy:
 
 There are two main ferries:
 
-- [Balearia](https://www.balearia.com/en) - takes just over 2 hours but \$170 - shockingly expensive for a 2 hour ferry
+- [Balearia](https://www.balearia.com/en) - takes just over 2 hours but \$143 - \$170 - shockingly expensive for such a
+  short ride
 - [Transmed](https://www.trasmed.com/en/) - slow, takes 28 hours, only goes once a week, I don't see the point of this
   one
 
