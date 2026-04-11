@@ -14,6 +14,9 @@
   - [Best Areas to Stay in Madrid](#best-areas-to-stay-in-madrid)
   - [Attractions in Madrid](#attractions-in-madrid)
   - [Restaurants in Madrid](#restaurants-in-madrid)
+- [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
+- [Ibiza](#ibiza)
+- [Mallorca](#mallorca)
 
 <!-- INDEX_END -->
 
@@ -285,3 +288,25 @@ Acai and desserts:
 Expensive / fancy:
 
 - [Jardín de los Duques](https://maps.app.goo.gl/86RZUPuVPQN4Mkx89)
+
+## Ferry Between Ibiza and Mallorca
+
+This is cheaper than flights and less hassle with luggage weight etc.
+
+<https://www.directferries.com/ibiza_palma_ferry.htm>
+
+There are two main ferries:
+
+- [Balearia](https://www.balearia.com/en) - take this one, it's just over 2 hours
+- [Transmed](https://www.trasmed.com/en/) - slow, takes 28 hours, only goes once a week, I don't see the point of this
+  one
+
+Booking further in advance should get better prices.
+
+## Ibiza
+
+[Ibiza](https://maps.app.goo.gl/HkUMJfUzJRnpkS3eA) is the island best known as the clubbing capital of the world.
+
+## Mallorca
+
+[Mallorca](Majorca) is a popular tourist island.
