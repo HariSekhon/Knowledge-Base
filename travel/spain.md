@@ -259,7 +259,8 @@ since it must be kept at an angle.
   The grilled octopus taco is twice the price at €4.20, and comes with a lot of white sauce.
   While decent, I would in hindsight get two other tacos instead.
   The _"chicken tinga"_ taco with spicy grilled chicken was decent.
-  The cactus "nopales" taco is interesting for a vegetarian option.
+  I also like the arrachera beef steak taco.
+  The cactus _"nopales"_ taco is interesting for a vegetarian option.
   No wifi here unfortunately (probably on purpose so people eat and leave the venue as it's fairly small and popular)
 - [Piscomar By Jhosef Arias](https://maps.app.goo.gl/xNgSw1B6tiaQ8vYo7) - good quality Peruvian Lomo Saltado steak
   strips cooked perfectly sauteed with onions & tomatoes, served with rice and good quality thick fries.
