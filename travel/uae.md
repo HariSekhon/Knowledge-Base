@@ -13,6 +13,7 @@
   - [Attractions in Dubai](#attractions-in-dubai)
   - [Restaurants in Dubai](#restaurants-in-dubai)
   - [Visas for Dubai](#visas-for-dubai)
+    - [Visa Requirements](#visa-requirements)
   - [Banking in Dubai](#banking-in-dubai)
 
 <!-- INDEX_END -->
@@ -169,6 +170,16 @@ Often restaurants outside of the malls are better in terms of prices.
   bustling at midnight, open until 2am
 
 ### Visas for Dubai
+
+- Investment Visa (eg. property)
+  - 2 year renewable
+  - 10 year golden visa for higher investment amount
+- Savings investment - locks the savings away for 2 years at a time and cannot be withdrawn without showing revoked visa
+- Business Visa (self-employed via company setup, expensive)
+- Employment Visa - sponsorship via a company applying on your behalf
+- [Digital Nomad Visa](https://www.investindubai.gov.ae/en/live-and-work/visas-and-entry/work-remotely-from-dubai)
+
+#### Visa Requirements
 
 You are required to get a medical blood screening, chest x-ray, biometrics like fingerprinting to get a visa here.
 
