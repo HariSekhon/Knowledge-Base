@@ -98,14 +98,15 @@ I like:
 - [Nomad Hostel](https://maps.app.goo.gl/4J9Hbi1jKe44jE117) - cheap and central on
   [Skadarlija](https://maps.app.goo.gl/EmubAYnEWMkfSW1T7) which means it is noisy in the evenings until they close the
   windows, but has privacy curtains on the lower bunks and a good kitchen area
+- [Balkan Soul Hostel](https://maps.app.goo.gl/e5boYR2CavZtF5Bo7) - decent,
+  has kitchen, but age limit of 40 (not strictly enforced)
 
 TODO:
 
-- [Balkan Soul Hostel](https://maps.app.goo.gl/e5boYR2CavZtF5Bo7)
 - [Good People Hostel ](https://maps.app.goo.gl/faWhbVnstLj3hWii6) - liked by my travel buddy and a girl I met
   travelling who stayed there
 - [The Traveling Theater Hostel](https://maps.app.goo.gl/Qo6NaCErN38HTY8K7)
-- [Pop Art Rooms](https://maps.app.goo.gl/hUHokqpm8vAknrZh6) - a little more expensive but very stylist interior and
+- [Pop Art Rooms](https://maps.app.goo.gl/hUHokqpm8vAknrZh6) - a little more expensive but very stylish interior and
   near Belgrade Waterfront
 - [Hostelche](https://maps.app.goo.gl/9Ez4iVwZdn8dZ1jD9)
 
