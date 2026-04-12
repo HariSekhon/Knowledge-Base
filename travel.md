@@ -107,6 +107,7 @@ Updated regularly as I travel the world 52 weeks a year.
 - [Emigration](#emigration)
   - [Taxes](#taxes)
   - [Mail Redirection](#mail-redirection)
+  - [Car Migration](#car-migration)
 
 <!-- INDEX_END -->
 
@@ -1119,6 +1120,11 @@ Read this article on [my Medium](https://medium.com/@harisekhon) for more:
 
 Brits may want to [redirect their mail overseas](https://www.postoffice.co.uk/mail/redirection) or
 get a [PO Box](https://www.royalmail.com/receiving/po-box) to collect on return visits.
+
+### Car Migration
+
+You can often import a car with a waiver on the import duty if you gain a residency permit and have had the car for over
+a year.
 
 <!--
 
