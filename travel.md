@@ -1093,6 +1093,8 @@ The following basic EU visa days calculator sites are also useful, in addition t
 
 This one is easy to use as you just have to click your entry / exit dates:
 
+**Do NOT reload the page as it clears the dates you input!**
+
 <https://schengenareacalculator.com/>
 
 This one is less easy to use because you have to manually enter the dates:
