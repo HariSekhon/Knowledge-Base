@@ -294,6 +294,8 @@ osascript -e 'tell application "System Events" to make login item at end with pr
 
 ## Menu Bar Managers
 
+Free menu bar managers because a 14" Macbook Pro has nowhere near enough space for all the icons I have.
+
 All 3 free options I tried
 (
   [Ice](https://icemenubar.app/),
@@ -308,8 +310,6 @@ Ice is the best of the 3, so I only cover that one here.
 <https://icemenubar.app/>
 
 [:octocat: jordanbaird/Ice](https://github.com/jordanbaird/Ice)
-
-Free menu bar manager because a 14" Macbook Pro has nowhere near enough space for all the icons I have.
 
 ```shell
 brew install jordanbaird-ice
