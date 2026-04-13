@@ -24,13 +24,13 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Activity Monitor](#activity-monitor)
 - [Force Quit Applications](#force-quit-applications)
 - [Stats Bar](#stats-bar)
-- [Reducing Desktop Workspaces](#reducing-desktop-workspaces)
 - [Rearrange Status Bar Icons](#rearrange-status-bar-icons)
 - [Menu Bar Managers](#menu-bar-managers)
   - [Ice](#ice)
 - [Pingr](#pingr)
 - [Flux](#flux)
 - [Blurred](#blurred)
+- [Reducing Desktop Workspaces](#reducing-desktop-workspaces)
 - [Sending Control-Alt-Delete to Windows through Remote Desktop](#sending-control-alt-delete-to-windows-through-remote-desktop)
 - [Virtualization](#virtualization)
 - [Anti-Virus](#anti-virus)
@@ -292,16 +292,6 @@ Start `Stats.app` at login - configure this in its settings or run this command 
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Stats.app", hidden:false}'
 ```
 
-## Reducing Desktop Workspaces
-
-If like me, you hate the time lost in graphics sliding effect from one desktop workspace to another, especially caused
-by apps like Windows Virtual Desktop in Remote Desktop opening to full screen, and just prefer good old fashioned
-`Cmd`-`Tab`, then you can remove the extra workspaces as
-[described here](https://discussions.apple.com/thread/8118894?sortBy=best)
-by pressing F3 and then hovering on and clicking the X to delete the extra workspaces.
-
-Unfortunately, Remote Desktop still seems to slide and send to fullscreen in another temporary desktop workspace.
-
 ## Rearrange Status Bar Icons
 
 Now 14" Macbook Pros are powerful enough, but the screen space is very limited and you lose the top middle for the
@@ -438,6 +428,16 @@ Start at login:
 ```shell
 osascript -e 'tell application "System Events" to make login item at end with properties {path:"/Applications/Blurred.app", hidden:false}'
 ```
+
+## Reducing Desktop Workspaces
+
+If like me, you hate the time lost in graphics sliding effect from one desktop workspace to another, especially caused
+by apps like Windows Virtual Desktop in Remote Desktop opening to full screen, and just prefer good old fashioned
+`Cmd`-`Tab`, then you can remove the extra workspaces as
+[described here](https://discussions.apple.com/thread/8118894?sortBy=best)
+by pressing F3 and then hovering on and clicking the X to delete the extra workspaces.
+
+Unfortunately, Remote Desktop still seems to slide and send to fullscreen in another temporary desktop workspace.
 
 ## Sending Control-Alt-Delete to Windows through Remote Desktop
 
