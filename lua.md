@@ -54,7 +54,7 @@ which both call my generalized
 [lint.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/bin/lint.sh) script
 provided in [DevOps-Bash-tools](devops-bash-tools.md) which is in my `$PATH`.
 
-[![DevOps-Bash-tools](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+[![DevOps-Bash-tools](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 #### LuaCheck CI/CD
 
@@ -68,7 +68,7 @@ jobs:
     uses: HariSekhon/GitHub-Actions/.github/workflows/luacheck.yaml@master
 ```
 
-[![GitHub-Actions](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
+[![GitHub-Actions](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
 
 ## Real World Lua Code
 
