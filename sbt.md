@@ -49,7 +49,7 @@ Simple Build Tool / Scala Build Tool
 
 `build.sbt` template can be found here:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
 
 ```shell
 wget -nc https://raw.githubusercontent.com/HariSekhon/Templates/master/build.sbt
