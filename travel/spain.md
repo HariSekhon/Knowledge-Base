@@ -191,12 +191,27 @@ don't underestimate or skip them, such as the museums, go have a look.
 
 <!--
 
-Safestay Hostel Madrid Central was decent, Wifi speed 31/58 Mbit/s,
-but the queue to check in at 3pm took at least 40 minutes and there was still a queue when I came back at 7:30pm.
-The reception guy said there is often still a queue at 6pm,
-because they have people waiting from 7am to check in and they don't allow them until 3pm.
-There are water coolers on the 3rd and 4th floors, but you due to the tilt you won't be able to fully refill your bottle
-since it must be kept at an angle.
+- [Safestay Hostel Madrid Central](https://maps.app.goo.gl/4rVDNciz1eEkdS8h9) - was decent and cheap,
+  but no kitchen and the queue to check in at 3pm took at least 40 minutes because the jobsworths refused to let anyone
+  check-in before 3pm so they'd built up a big backlog, rather than taking a common sense approach of when the room is
+  ready so there was still a queue when I came back at 7:30pm.
+  The reception guy said there is often still a queue at 6pm,
+  because they have people waiting from 7am to check in and they don't allow them until 3pm.
+  There are water coolers on the 3rd and 4th floors, but due to the tilt you won't be able to fully refill your bottle
+  since it must be kept at an angle.
+  Wifi 31/58 Mbit/s
+- [Petit Hostel La Latina](https://maps.app.goo.gl/ifH8qbYYaMs99xKA9) - badly cost optimized - room was so small there
+  was nowhere to put shoes never mind a suitcase, there's no kitchen, no hot water tap so shaving is miserable, the
+  shower turns off every 5-10 seconds depending on how hard you smash the water button which makes showering needlessly
+  difficult, the lights switch off too quickly while you're still standing by the wash basin, the privacy curtains don't
+  separate the head to toe bunks for light pollution, and you may need to self-check in on a computer outside, so you
+  may need working mobile data before you arrive. One woman forgot her key card in her room and was sitting on the floor
+  at 1am because she couldn't get back in and there was nobody there to help her.
+  I advised her to go back outside to the help button to dispense a new card.
+  When there was staff, me and a friend were sitting in reception just looking at how rude the staff guy was to a
+  Chinese woman at check-in.
+  Overall this hostel looks good in pics but is just too hard cost optimized in practice.
+  Wifi 18/19 Mbit/s
 
 -->
 
