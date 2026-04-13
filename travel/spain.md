@@ -204,10 +204,12 @@ don't underestimate or skip them, such as the museums, go have a look.
   was nowhere to put shoes never mind a suitcase, there's no kitchen, no water dispenser,
   no hot water tap so shaving is miserable,
   the shower turns off every 5-10 seconds depending on how hard you smash the water button which makes showering
-  needlessly difficult, the lights switch off too quickly while you're still standing by the wash basin, the privacy
-  curtains don't separate the head to toe bunks for light pollution, and you may need to self-check in on a computer
-  outside, so you may need working mobile data before you arrive. One woman forgot her key card in her room and was
-  sitting on the floor at 1am because she couldn't get back in and there was nobody there to help her.
+  needlessly difficult,
+  the motion sensor lights switch off too quickly while you're still standing by the wash basin,
+  the privacy curtains don't separate the head to toe bunks for light pollution, and you may need to self-check in on
+  a computer outside, so you may need working mobile data before you arrive.
+  One woman forgot her key card in her room and was sitting on the floor at 1am because she couldn't get back in and
+  there was nobody there to help her.
   I advised her to go back outside to the help button to dispense a new card.
   When there was staff, me and a friend were sitting in reception just looking at how rude the staff guy was to a
   Chinese woman at check-in.
