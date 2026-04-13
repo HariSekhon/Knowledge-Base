@@ -35,7 +35,7 @@ Scripts for [PostgreSQL](postgres.md), [MySQL](mysql.md), AWS Athena and Google 
 
 [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=SQL-scripts&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/SQL-scripts)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=SQL-scripts&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/SQL-scripts)
 
 ## SQL Clients
 
