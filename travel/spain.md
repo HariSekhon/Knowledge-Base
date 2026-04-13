@@ -191,7 +191,7 @@ don't underestimate or skip them, such as the museums, go have a look.
 
 <!--
 
-- [Safestay Hostel Madrid Central](https://maps.app.goo.gl/4rVDNciz1eEkdS8h9) - was decent and cheap,
+- [Safestay Hostel](https://maps.app.goo.gl/4rVDNciz1eEkdS8h9) - was decent and cheap,
   but no kitchen and the queue to check in at 3pm took at least 40 minutes because the jobsworths refused to let anyone
   check-in before 3pm so they'd built up a big backlog, rather than taking a common sense approach of when the room is
   ready so there was still a queue when I came back at 7:30pm.
