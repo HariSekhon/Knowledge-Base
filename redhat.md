@@ -533,7 +533,7 @@ Or you can use this template with some additional tips:
 
 [HariSekhon/Templates - anaconda-ks.cfg](https://github.com/HariSekhon/Templates/blob/master/anaconda-ks.cfg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
 
 or the real kickstart config used in the Packer repo below.
 
@@ -552,7 +552,7 @@ Real-world Kickstart config used by Packer build:
 
 [HariSekhon/Packer-templates - rocky-x86_64.vbox.pkr.hcl](https://github.com/HariSekhon/Packer-templates/blob/master/rocky-x86_64.vbox.pkr.hcl)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Packer&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Packer&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer)
 
 ## Memes
 
