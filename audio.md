@@ -26,7 +26,9 @@
 
 Popular streaming music service.
 
-See the [Spotify](spotify.md) page.
+See the [Spotify](spotify.md) page for more Spotify tips.
+
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Spotify-Playlists&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Spotify-Playlists)
 
 ## Shazam
 
@@ -185,6 +187,10 @@ Public database of music metadata with a free to use API:
 <https://musicbrainz.org/>
 
 #### MusicBrainz API
+
+Unfortunately the API rate limiting is quite bad at 1 request per second per source IP,
+making it impractical for large scale programmatic refinement of my extensive
+[HariSekhon/Spotify-Playlists](https://github.com/HariSekhon/Spotify-Playlists) repo.
 
 <https://musicbrainz.org/doc/MusicBrainz_API>
 
