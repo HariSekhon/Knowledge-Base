@@ -73,7 +73,7 @@ script logfile.txt
 
 ### Log Script Output to a File
 
-You can wrap part of all of your script in braces and use standard output redirection to a logfile:
+You can wrap part or all of your script in braces and use standard output redirection to a logfile:
 
 ```shell
 {
