@@ -336,7 +336,7 @@ Portable devices to record and transcript using AI.
 It syncs the meeting transcript online with security compliance, summarizes the meeting and you can then query the LLM
 on the meeting contents.
 
-Can also be used on a computer without a device.
+Can also be used on a computer's mic without a specialized device using the web player linked above.
 
 ### Whisper Apps
 
