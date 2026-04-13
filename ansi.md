@@ -17,3 +17,5 @@ clear_previous_line(){
 and think what the hell are those codes.
 
 You're not alone, it looks like magic until you have a cheet sheet for it.
+
+TODO - make a cheet sheet for it below.
