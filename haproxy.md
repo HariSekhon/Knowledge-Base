@@ -41,7 +41,7 @@ HAProxy configurations for many common open source technologies are readily avai
 
 [HariSekhon/HAProxy-configs](https://github.com/HariSekhon/HAProxy-configs)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=HAProxy-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/HAProxy-configs)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=HAProxy-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/HAProxy-configs)
 
 ## Affinity vs Persistence
 
