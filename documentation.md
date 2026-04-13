@@ -187,7 +187,7 @@ Extra Tip:
 I wrote a TamperMonkey script to convert `+tel:...` phone number links to WhatsApp clickable links on 3rd party websites
 for convenience, you can find it here:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=TamperMonkey&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/TamperMonkey)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=TamperMonkey&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/TamperMonkey)
 
 ## Create Animated GIFs of Commands
 
