@@ -30,6 +30,8 @@ Distributed ring clustered search service.
 
 <https://aws.amazon.com/opensearch-service/resources/>
 
+<https://medium.com/@KTree_Blog/cloudwatch-logs-stream-to-elastic-search-kibana-c7352b5f9c2b>
+
 ## Sample Sizing
 
 Cluster from a bank: 470TB 88 nodes 30k events/sec
@@ -80,7 +82,7 @@ To allow `mlockall: true` to work in elasticsearch config:
 
 - [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
 
 ## Performance Tuning Tips
 
