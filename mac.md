@@ -2431,7 +2431,7 @@ The output looked like this:
 nameserver 10.4.0.1
 ```
 
-and then the captcha portal then loaded.
+After this the captcha portal loaded correctly using the local network's DNS.
 
 You can also see your DNS settings in the UI or using this more native mac command, but the output is long and messy:
 
