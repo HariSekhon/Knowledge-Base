@@ -189,8 +189,11 @@ Public database of music metadata with a free to use API:
 #### MusicBrainz API
 
 Unfortunately the API rate limiting is quite bad at 1 request per second per source IP,
-making it impractical for large scale programmatic refinement of my extensive
-[HariSekhon/Spotify-Playlists](https://github.com/HariSekhon/Spotify-Playlists) repo.
+and 300 requests per second globally across everybody before they start denying requests with HTTP 503 errors.
+
+This makes the API potentially impractical for large scale programmatic refinement of my extensive
+[HariSekhon/Spotify-Playlists](https://github.com/HariSekhon/Spotify-Playlists) repo which has tens of thousands of
+tracks that may be queried.
 
 <https://musicbrainz.org/doc/MusicBrainz_API>
 
