@@ -296,7 +296,7 @@ osascript -e 'tell application "System Events" to make login item at end with pr
 
 All 3 free options I tried
 (
-  Ice,
+  [Ice](https://icemenubar.app/),
   [Vanilla](https://matthewpalmer.net/vanilla/),
   [iBar](https://apps.apple.com/gb/app/ibar-menubar-icon-control-tool/id6443843900)
 ) require Accessibility and Screen Recording Permission to work properly, unfortunately.
