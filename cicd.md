@@ -53,7 +53,7 @@ API code for many of the following technologies can also be found in my
 
 <!-- INDEX_END -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 ## Self-Hosted CI/CD
 
@@ -66,7 +66,7 @@ The gold standard open source CI/CD - powerful, extensible, simple to complex to
 - [HariSekhon/DevOps-Bash-tools `jenkins/`](https://github.com/HariSekhon/DevOps-Bash-tools#cicd---continuous-integration--continuous-deployment) -
   many Jenkins admin scripts using the Jenkins API and CLI tool
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
 
 ### [TeamCity](https://www.jetbrains.com/teamcity/)
 
@@ -76,7 +76,7 @@ Proprietary by JetBrains (makers of IntelliJ, expert coders and UX).
 - good UI
 - free for 3 agents, requires license otherwise - this is a tough hard sell vs free Jenkins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=TeamCity-CI&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/TeamCity-CI)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=TeamCity-CI&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/TeamCity-CI)
 
 ### [Concourse](https://concourse-ci.org/)
 
@@ -122,7 +122,7 @@ The 800lb gorilla of modern CI/CD.
   many GitHub Actions admin scripts using the GitHub API and CLI tool
 - GitHub, like LinkedIn, is now owned by Microsoft, so it's beating its own Azure DevOps below
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
 
 ### [GitLab CI](https://docs.gitlab.com/ee/ci/)
 
@@ -338,9 +338,9 @@ If companies want to run one of the other 20 odd legacy CI/CD systems I’ll loo
 
 ps. I have good GitHub repos for both here:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
 
 ## Memes
 
