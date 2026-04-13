@@ -276,7 +276,7 @@ Use the [Management UI](#management-ui) enabled above for interactive monitoring
 See [HariSekhon/Nagios Plugins](https://github.com/HariSekhon/Nagios-Plugins) for a selection of [Nagios](nagios.md)
 plugins for RabbitMQ.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
 
 ## Python API
 
