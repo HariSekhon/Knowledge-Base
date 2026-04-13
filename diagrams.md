@@ -44,7 +44,7 @@ Mainly D2lang, Python diagrams, MermaidJS, GNUplot and a little Draw.io / LucidC
 [GitHub Actions](github-actions.md) CI/CD pipelines auto-regenerate the diagrams upon any code changes and they appear
 directly in the rendered README.md as the resultant `.png` images are sourced in the markdown code.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Diagrams-as-Code&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Diagrams-as-Code)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Diagrams-as-Code&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Diagrams-as-Code)
 
 ## Templates
 
@@ -52,7 +52,7 @@ directly in the rendered README.md as the resultant `.png` images are sourced in
 [diagram.d2](https://github.com/HariSekhon/Templates/blob/master/diagram.d2) and
 [diagram.py](https://github.com/HariSekhon/Templates/blob/master/diagram.py).
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
 
 ## Diagrams-as-Code Languages
 
@@ -330,8 +330,8 @@ or achieving high availability being left to separate diagrams for each one.
 
 ## Graph Generation Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Graph-Commit-Times&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Graph-Commit-Times)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Graph-Commit-Times&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Graph-Commit-Times)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Repos-MermaidJS-Gantt-Chart&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Repos-MermaidJS-Gantt-Chart)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Repos-MermaidJS-Gantt-Chart&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Repos-MermaidJS-Gantt-Chart)
 
 **Ported from various private Knowledge Base pages 2020+**
