@@ -2385,9 +2385,8 @@ Check you haven't set explicit hardcoded DNS servers in your network settings
 
 This is because some environments rely on resolving the captcha portal address using the local DNS server
 (configured by DHCP, which you aren't using if you hardcode static IP DNS)
-and the gateway firewall is not configured to intercept DNS requests and redirect them to the local DNS which can return
-the captcha portal IP.
-
+if the gateway firewall is not configured to intercept public DNS requests
+to redirect them to the local DNS which can return the captcha portal IP.
 
 You can quickly set the DNS back to DHCP using this command (en0 is your wifi network card):
 
