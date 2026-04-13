@@ -26,7 +26,7 @@ This is the best way to run Jenkins with auto-spawning agents for scaling up and
 
 Configs are in the `jenkins/` directory.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
 
 ### JCasC - Jenkins Configuration as Code
 
@@ -405,6 +405,6 @@ The new pvc will now bind to the original PV.
 Then redeploy the statefulset again (automatic via ArgoCD) or via Helm / Kustomize / `kubectl`
 to use this new PVC ponting to the original PV with your job history data.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 **Ported from private Knowledge Base page 2020+**
