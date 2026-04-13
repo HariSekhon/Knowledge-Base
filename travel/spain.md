@@ -219,9 +219,9 @@ don't underestimate or skip them, such as the museums, go have a look.
 
 TODO:
 
-- [The Hat Madrid](https://maps.app.goo.gl/5LosvuNbfUeZmZJf6)
-- [Cats Hostel Madrid Sol](https://maps.app.goo.gl/urFdNMMCmEhSGAiP7)
-- [room00 Gran Vía Hostel](https://maps.app.goo.gl/jmMzZpJjtGU9aYwd6)
+- [Cats Hostel Madrid Sol](https://maps.app.goo.gl/urFdNMMCmEhSGAiP7) - check in 2pm
+- [The Hat Madrid](https://maps.app.goo.gl/5LosvuNbfUeZmZJf6) - check in 3pm
+- [room00 Gran Vía Hostel](https://maps.app.goo.gl/jmMzZpJjtGU9aYwd6) - check in 3pm
 
 -->
 
