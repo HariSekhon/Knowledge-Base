@@ -26,7 +26,7 @@ Packer can be used to create AMI + Vagrant box at same time.
 
 See [HariSekhon/Packer](https://github.com/HariSekhon/Packer) repo.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Packer&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Packer&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer)
 
 ## Convert an Old Packer JSON template to HCL
 
