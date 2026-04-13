@@ -61,7 +61,7 @@ perl -pi -e 's/OLD/NEW/g' *.txt *.yaml ...
 
 [HariSekhon/DevOps-Perl-tools](https://github.com/HariSekhon/DevOps-Perl-tools)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Perl-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Perl-tools)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Perl-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Perl-tools)
 
 ## Shell scripts with Perl
 
@@ -69,13 +69,13 @@ Shell scripts using Perl and making it easier to install Perl libraries from CPA
 
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 ## Nagios Plugins in Perl
 
 [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Nagios-Plugins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Nagios-Plugins)
 
 ## CPAN / CPANM
 
@@ -206,7 +206,7 @@ Other popular libraries:
 
 ## My Perl Library with Unit Tests
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=lib&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/lib)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=lib&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/lib)
 
 ## Meme
 
