@@ -188,18 +188,18 @@ Public database of music metadata with a free to use API:
 
 #### MusicBrainz API
 
+<https://musicbrainz.org/doc/MusicBrainz_API>
+
+There are MusicBrainz API scripts in [HariSekhon/DevOps-Bash-tools](devops-bash-tools.md):
+
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+
 Unfortunately the API rate limiting is quite bad at 1 request per second per source IP,
 and 300 requests per second globally across everybody before they start denying requests with HTTP 503 errors.
 
 This makes the API potentially impractical for large scale programmatic refinement of my extensive
 [HariSekhon/Spotify-Playlists](https://github.com/HariSekhon/Spotify-Playlists) repo which has tens of thousands of
 tracks that may be queried.
-
-<https://musicbrainz.org/doc/MusicBrainz_API>
-
-There are MusicBrainz API scripts in [HariSekhon/DevOps-Bash-tools](devops-bash-tools.md):
-
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 #### Picard
 
