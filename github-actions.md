@@ -98,7 +98,7 @@ Read the READMEs here to see what versions for XCode are available in different 
 The code snippet examples on the rest of this page are copied from this real-world repo
 which has been used in production and supports all of my public GitHub projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
 
 ## Cloud OIDC Integration
 
@@ -630,7 +630,7 @@ too, both to access internal tooling services as part of CI/CD pipelines as well
 vendors who have tried to limit self-hosted runners to more expensive plans have essentially shot themselves in the foot
 because they've made themselves economically non-competitive.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
 
 ## Diagrams
 
