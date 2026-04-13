@@ -107,7 +107,7 @@ Scripts for common Jenkins operations using the Jenkins CLI and API:
 [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools/tree/master/jenkins)
 `jenkins/` directory.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 ## Jenkins Plugins
 
@@ -180,7 +180,7 @@ Some `*.groovy` scripts are mixed in between the shell scripts
 
 [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins) repo.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
 
 Functions should either follow java reverse fqdn naming convention or more simple flat `vars/funcName.groovy`.
 Filename must be camelCase or lowercase to work.
@@ -332,7 +332,7 @@ See [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md).
 
 See [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes-configs&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes-configs)
 
 ## Google Auth SSO
 
