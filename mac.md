@@ -297,6 +297,8 @@ osascript -e 'tell application "System Events" to make login item at end with pr
 All 3 free options I tried (Ice, Vanilla, iBar) require Accessibility and Screen Recording Permission to work properly
 unfortunately.
 
+Ice is the best of the 3, so I only cover that one here.
+
 ### Ice
 
 <https://icemenubar.app/>
