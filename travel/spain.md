@@ -211,8 +211,8 @@ don't underestimate or skip them, such as the museums, go have a look.
   One woman forgot her key card in her room and was sitting on the floor at 1am because she couldn't get back in and
   there was nobody there to help her.
   I advised her to go back outside to the help button to dispense a new card.
-  When there was staff, me and a friend were sitting in reception just looking at how rude the staff guy was to a
-  Chinese woman at check-in.
+  When there was staff, a couple of the reception girls were good but a staff guy was really rude to a Chinese woman at
+  check-in, me and a friend were sitting in reception just looking at each other dumbfounded at his rudeness 🙈.
   Overall this hostel looks good in pics but is just too hard cost optimized in practice.
   Wifi 18/19 Mbit/s
 
