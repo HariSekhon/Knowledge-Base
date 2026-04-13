@@ -2380,8 +2380,14 @@ df -h "/Volumes/$NAME"
 
 ### Wifi Capture Portal Not Loading
 
-Check you haven't set an explicit fixed IP public DNS records
-as that may prevent the captcha portal address from resolving.
+Check you haven't set explicit hardcoded DNS servers in your network settings
+(eg. public DNS) as that may prevent the captcha portal address from resolving.
+
+This is because some environments rely on resolving the captcha portal address using the local DNS server
+(configured by DHCP, which you aren't using if you hardcode static IP DNS)
+and the gateway firewall is not configured to intercept DNS requests and redirect them to the local DNS which can return
+the captcha portal IP.
+
 
 You can quickly set the DNS back to DHCP using this command (en0 is your wifi network card):
 
