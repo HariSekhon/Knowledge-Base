@@ -294,8 +294,12 @@ osascript -e 'tell application "System Events" to make login item at end with pr
 
 ## Menu Bar Managers
 
-All 3 free options I tried (Ice, Vanilla, iBar) require Accessibility and Screen Recording Permission to work properly
-unfortunately.
+All 3 free options I tried
+(
+  Ice,
+  [Vanilla](https://matthewpalmer.net/vanilla/),
+  [iBar](https://apps.apple.com/gb/app/ibar-menubar-icon-control-tool/id6443843900)
+) require Accessibility and Screen Recording Permission to work properly, unfortunately.
 
 Ice is the best of the 3, so I only cover that one here.
 
