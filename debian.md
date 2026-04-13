@@ -303,7 +303,7 @@ including several of my own at [HariSekhon/Dockerfiles](https://github.com/HariS
 
 While not as lean as [Alpine](alpine.md), it is full-featured and more compatible.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Dockerfiles&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Dockerfiles)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Dockerfiles&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Dockerfiles)
 
 ### Test Upgrades in Docker
 
@@ -383,7 +383,7 @@ python -m SimpleHTTPServer
 
 [HariSekhon/Templates - preseed.cfg](https://github.com/HariSekhon/Templates/blob/master/preseed.cfg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
 
 ### HashiCorp Packer + Preseed Config
 
@@ -396,7 +396,7 @@ Real-world Preseed config used by Packer build:
 
 [HariSekhon/Packer-templates - debian-x86_64.vbox.pkr.hcl](https://github.com/HariSekhon/Packer-templates/blob/master/debian-x86_64.vbox.pkr.hcl)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Packer&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Packer&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Packer)
 
 ## Debian Change Log tool
 
