@@ -395,7 +395,7 @@ osascript -e 'tell application "System Events" to make login item at end with pr
 
 [:octocat: dwarvesf/Blurred](https://github.com/dwarvesf/Blurred)
 
-Dims background windows.
+Dims background windows - seems to only work intermittently though, I don't use this any more, not worth the CPU cycles.
 
 ```shell
 brew install blurred
