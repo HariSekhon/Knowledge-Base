@@ -301,7 +301,7 @@ jbang -s faker@jbangdev -c \
 See also [Groovy](groovy.md) which is one of my favourite languages and wish I had more excuses to code it in other
 than:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Jenkins&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Jenkins)
 
 ## GraalJS
 
