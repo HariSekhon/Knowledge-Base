@@ -113,14 +113,14 @@ Code structured to be immediately reusable across companies with multiple enviro
 Trivial to copy a directory and edit a couple lines of the `.envrc` stub files
 to create a new environment directory that inherits all the above code.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Environments&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Environments)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Environments&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Environments)
 
 ## More Related Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Terraform&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Terraform)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Terraform&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Terraform)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Kubernetes&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Kubernetes)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Python-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Python-tools)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Python-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Python-tools)
