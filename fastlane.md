@@ -160,11 +160,11 @@ export FASTLANE_SKIP_UPDATE_CHECK=1
 
 <https://github.com/HariSekhon/Templates/blob/master/fastlane/Fastfile>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=Templates&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/Templates)
 
 ## Examples
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fastlane&repo=examples&theme=tokyonight&description_lines_count=1)](https://github.com/fastlane/examples)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=fastlane&repo=examples&theme=tokyonight&description_lines_count=1)](https://github.com/fastlane/examples)
 
 ## Instantiate New Fastfile Config
 
