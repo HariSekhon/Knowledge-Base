@@ -16,10 +16,10 @@
 - [GitHub Badges](#github-badges)
 - [Basic Tips](#basic-tips)
 - [Advanced Tips & Tricks](#advanced-tips--tricks)
+  - [Debug Mode](#debug-mode)
   - [Get Current Hashref](#get-current-hashref)
   - [Get Current Branch](#get-current-branch)
   - [Get the Default Branch](#get-the-default-branch)
-  - [Debug Mode](#debug-mode)
   - [Delete Remote branch](#delete-remote-branch)
   - [Git Clone using a specific SSH Key](#git-clone-using-a-specific-ssh-key)
   - [Show files not being tracked due to global & local `.gitignore` files](#show-files-not-being-tracked-due-to-global--local-gitignore-files)
@@ -251,6 +251,16 @@ pip install --user bitbucket-cli
 
 ## Advanced Tips & Tricks
 
+### Debug Mode
+
+```shell
+export GIT_TRACE=1
+```
+
+```shell
+export GIT_CURL_VERBOSE=1
+```
+
 ### Get Current Hashref
 
 ```shell
@@ -277,16 +287,6 @@ git branch --show-current
 
 ```shell
 git symbolic-ref refs/remotes/origin/HEAD | sed 's|.*/||'
-```
-
-### Debug Mode
-
-```shell
-export GIT_TRACE=1
-```
-
-```shell
-export GIT_CURL_VERBOSE=1
 ```
 
 ### Delete Remote branch
