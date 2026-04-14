@@ -330,7 +330,8 @@ travellers like me.
 ### Optional
 
 - toiletries - you can buy toiletries almost anywhere, but you may prefer to take your favourite brands from home rather
-  than make do with whatever you find there
+  than make do with whatever you find there -
+  western brands can be very expensive in some Latin countries due to import costs and tariffs
 - book or other entertainment for flight
 - water bottle to refill after security takes your water off you
 
