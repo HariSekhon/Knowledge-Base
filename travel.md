@@ -333,7 +333,8 @@ travellers like me.
   than make do with whatever you find there -
   western brands can be very expensive in some Latin countries due to import costs and tariffs
 - book or other entertainment for flight
-- water bottle to refill after security takes your water off you
+- reusable water bottle for water dispensers at airports (where available), for after the security scanners where they
+  take any liquids off you
 
 ### Jumbo Passports
 
