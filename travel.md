@@ -888,8 +888,8 @@ South East Asia got me into tank tops and they now populate most of my suitcase 
 for between \$2-\$8 -
 yes I actually paid \$2 for a Siem Reap branded tank top in the market in Cambodia in early 2025!
 
-My favourite tank tops are the ones in Thailand which have small air gaps - they are the coolest material I've ever
-worn and I have been wearing them around the world ever since.
+My favourite tank tops are the ones in Thailand which have small air gaps throughout the material -
+they are the coolest material I've ever worn and I have been wearing them around the world ever since.
 
 I never want to shop at any of the malls around the world after buying clothes in South East Asia's markets.
 
