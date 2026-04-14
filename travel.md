@@ -278,8 +278,8 @@ service support cannot undo the cancellation for you either.
 [Kayak.com](https://www.kayak.com/) - usually cheaper than SkyScanner and had cheaper flights not found on Expedia.
   lI prefer Kayak to SkyScanner because I can filter for flights including luggage in the price
   and when following through to [eDreams](https://www.edreams.com/) or [Trip.com](https://trip.com/) flights I can
-  upgrade to 25kg luggage for ~£4, which is important because I got charged $30 for having 22kg checked luggage -
-  2kg over the 20kg default luggage allowance of many airlines.
+  upgrade to 25kg luggage for ~£4, which is important because I got charged $30 for having 22kg checked luggage in
+  Asia - 2kg over the 20kg default luggage allowance of many airline flights there.
   Booking.com and Kiwi.com are bad for this only option of adding 20kg checked luggage
 
 [SkyScanner.net](https://www.skyscanner.net/) - had cheaper flights that weren't even found on Expedia,
