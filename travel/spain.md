@@ -196,6 +196,10 @@ don't underestimate or skip them, such as the museums, go have a look.
 <!--
 
 - [Cats Hostel Madrid Sol](https://maps.app.goo.gl/urFdNMMCmEhSGAiP7) - much nicer than Petit or Safestay.
+  The lobby area has a fountain and luxury couches I like to sit on. There is a small kitchen and another dining area.
+  The toilets and sinks are at the opposite end of the 2nd floor to the showers
+  and the taps only have cold water so I had to shave in the shower.
+  There are no privacy curtains on the bunks though.
   Wifi 76/77 Mbit/s - their wifi is open capcha portal - choose form instead of facebook login,
   it only requires to accept terms instead of getting your personal information
 - [Safestay Hostel](https://maps.app.goo.gl/4rVDNciz1eEkdS8h9) - was decent and cheap,
