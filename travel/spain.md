@@ -235,6 +235,7 @@ TODO:
   [Tiki Tacos](https://tikitacotaqueria.es/) - two affordable tacos chains with the same menu and a great mix of
   ingredients, including the usual beef, pork and chicken, but also octopus and cactus.
   The tacos are surprisingly cheap at €1-2 each, but they are also very small, so you need 5 of them per person.
+  5-6 tacos is a comfortable stopping point but I prefer to go with 6-7 tacos to be really satisfied.
   The _"cochinada"_ taco of smoked pork was one of my favourites in terms of distinctive flavour.
   The grilled octopus taco is twice the price at €4.20, and comes with a lot of white sauce.
   While decent, I would in hindsight get two other tacos instead.
