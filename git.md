@@ -16,6 +16,9 @@
 - [GitHub Badges](#github-badges)
 - [Basic Tips](#basic-tips)
 - [Advanced Tips & Tricks](#advanced-tips--tricks)
+  - [Get Current Hashref](#get-current-hashref)
+  - [Get Current Branch](#get-current-branch)
+  - [Get the Default Branch](#get-the-default-branch)
   - [Debug Mode](#debug-mode)
   - [Delete Remote branch](#delete-remote-branch)
   - [Git Clone using a specific SSH Key](#git-clone-using-a-specific-ssh-key)
@@ -42,8 +45,6 @@
   - [Erase Leaked Credential in Git History](#erase-leaked-credential-in-git-history)
   - [Merge a branch from another repo into the current repo](#merge-a-branch-from-another-repo-into-the-current-repo)
   - [Reset and Re-download Git Submodule](#reset-and-re-download-git-submodule)
-  - [Get the Default Branch](#get-the-default-branch)
-  - [Get Current Branch](#get-current-branch)
   - [Find which upstream `<remote>/<branch>` the current branch is set to track](#find-which-upstream-remotebranch-the-current-branch-is-set-to-track)
   - [List files changed on current branch vs default branch](#list-files-changed-on-current-branch-vs-default-branch)
   - [List files added on current branch vs default branch](#list-files-added-on-current-branch-vs-default-branch)
@@ -249,6 +250,34 @@ pip install --user bitbucket-cli
     the longer you delay adding this
 
 ## Advanced Tips & Tricks
+
+### Get Current Hashref
+
+```shell
+git rev-parse HEAD
+```
+
+```shell
+git rev-parse --short HEAD
+```
+
+### Get Current Branch
+
+```shell
+git rev-parse --abbrev-ref HEAD
+```
+
+In newer versions of Git version 2.22 (Q2 2019+):
+
+```shell
+git branch --show-current
+```
+
+### Get the Default Branch
+
+```shell
+git symbolic-ref refs/remotes/origin/HEAD | sed 's|.*/||'
+```
 
 ### Debug Mode
 
@@ -738,24 +767,6 @@ rm -fr ".git/modules/$name"
 
 ```shell
 git submodule update --init --recursive
-```
-
-### Get the Default Branch
-
-```shell
-git symbolic-ref refs/remotes/origin/HEAD | sed 's|.*/||'
-```
-
-### Get Current Branch
-
-```shell
-git rev-parse --abbrev-ref HEAD
-```
-
-In newer versions of Git version 2.22 (Q2 2019+):
-
-```shell
-git branch --show-current
 ```
 
 ### Find which upstream `<remote>/<branch>` the current branch is set to track
