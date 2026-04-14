@@ -321,7 +321,7 @@ travellers like me.
   - booked exit flight proof is required to enter in many Latin and Caribbean countries
   - digital online immigration and customs declarations are required in many countries before going through immigration
 - Laptop (optional)
-- Chargers - phone, laptop, electric toothbruth, USB-to-USB-c cable or USB adapters for plane sockets
+- Chargers - phone, laptop, electric toothbrush, USB-to-USB-c cable or USB adapters for plane sockets
 - Travel Adapters for international plug formats
 - [Hostel Checklist](#hostel-tips) - padlock, towel, shower gel etc.
 - Clothes for climate (check your weather app for the destination, it might be hotter / colder /
