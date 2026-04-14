@@ -900,7 +900,7 @@ but they must be difficult to keep clean?
 Keep 1 pair of jeans and a thin well insulated jacket as a backup for cold airplanes,
 heavily air conditioned venues, being caught out (such as not realizing the Andes countries of South
 America have cold parts due to altitude like near Macchu Pichu, Cusco etc) or freak weather such as the thunderstorms
-of Brazil in Rio and Sao Paulo, or the freak storm and flood that hit me in Dubai.
+of Brazil in Rio and Sao Paulo that caught me in 2026, or the freak storm and flood that hit me in Dubai in 2024.
 
 ## Health Insurance
 
