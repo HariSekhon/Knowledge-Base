@@ -69,7 +69,7 @@ A few highlight pages:
 - [![IntelliJ](https://img.shields.io/badge/IntelliJ-IDE-purple?logo=intellijidea)](intellij.md) /
   [![Vim](https://img.shields.io/badge/ViM-Editor-purple?logo=vim)](vim.md)
 - [![AWS](https://img.shields.io/badge/Cloud-AWS-blue?logo=)](aws.md)
-- [![Python](https://img.shields.io/badge/Programming-Python-blue?logo=python&logoColor=white)](aws.md)
+- [![Python](https://img.shields.io/badge/Programming-Python-blue?logo=python&logoColor=white)](python.md)
 - [![Docker](https://img.shields.io/badge/Containerization-Docker-blue?logo=docker&logoColor=white)](docker.md)
 - [![Kubernetes](https://img.shields.io/badge/Containerization-Kubernetes-blue?logo=kubernetes&logoColor=white)](kubernetes.md)
 - [![Documentation](https://img.shields.io/badge/Documentation-Tips-blue?logo=googledocs&logoColor=white)](documentation.md)
@@ -182,15 +182,15 @@ The full index is further down.
 
 Full of open source tools and scripts used throughout the rest of these docs to make it easier to install and operate these technologies:
 
-- [DevOps-Bash-tools](devops-bash-tools.md) - 1000+ Bash scripts, advanced shell environment customizations, quick installation scripts and dot configs
+- [⭐ DevOps-Bash-tools](devops-bash-tools.md) - 1000+ Bash scripts, advanced shell environment customizations, quick installation scripts and dot configs
 - [DevOps-Python-tools](devops-python-tools.md) - 80+ Python programs for DevOps & Data
 - [DevOps-Perl-tools](devops-perl-tools.md) - 25+ Perl programs for DevOps
 - [DevOps-Golang-tools](devops-golang-tools.md) - a handful of Golang programs
-- [Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) -
+- [⭐ Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) -
   many Kubernetes applications and advanced templates with Tips & Tricks from production environments
-- [SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ database scripts
-- [Templates](https://github.com/HariSekhon/Templates) - templates for many common file formats for programming languages, build systems and DevOps configs
-- [Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code.md) - Cloud & Open Source architecture diagrams
+- [⭐ SQL-scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ database scripts
+- [⭐ Templates](https://github.com/HariSekhon/Templates) - templates for many common file formats for programming languages, build systems and DevOps configs
+- [⭐ Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code.md) - Cloud & Open Source architecture diagrams
 
 This one is used widely throughout these pages:
 
@@ -200,18 +200,18 @@ This one is used widely throughout these pages:
 
 ### Operating Systems
 
-- [Linux](linux.md)
+- [⭐ Linux](linux.md)
   - [Debian](debian.md)
   - [Ubuntu](ubuntu.md)
   - [Redhat](redhat.md)
   - [Alpine](alpine.md)
   - [Gentoo](gentoo.md)
 - [Windows](windows.md)
-- [Mac](mac.md)
+- [⭐ Mac](mac.md)
   - [Homebrew](brew.md)
   - [Raycast](raycast.md)
 - [Shell](shell.md)
-  - [Bash Scripting](bash.md)
+  - [⭐ Bash Scripting](bash.md)
     - [Sudo](sudo.md)
   - [direnv / `.envrc`](direnv.md)
   - [Shell One Liners](shell-one-liners.md)
@@ -245,12 +245,12 @@ This one is used widely throughout these pages:
 ## Architecture & Documentation
 
 - [Architecture](architecture.md) TODO
-- [Best Practices](best-practices.md)
+- [⭐ Best Practices](best-practices.md)
 - [Product Selection](product-selection.md) TODO
 - [⭐ Diagrams-as-Code](diagrams.md)
   - [D2 lang](d2.md)
   - [MermaidJS](mermaidjs.md)
-- [Documentation](documentation.md)
+- [⭐ Documentation](documentation.md)
   - [Markdown](markdown.md)
   - [MkDocs](mkdocs.md)
 - [Microservices](microservices.md) TODO
@@ -274,7 +274,7 @@ This one is used widely throughout these pages:
 
 - [Cloud](cloud.md)
 - Cloud Platforms:
-  - [AWS](aws.md)
+  - [⭐ AWS](aws.md)
     - [AMI Scanning](ami-scanning.md)
   - [GCP](gcp.md)
     - [Firebase](firebase.md)
@@ -290,7 +290,7 @@ This one is used widely throughout these pages:
 
 ### Docker
 
-- [Docker](docker.md)
+- [⭐ Docker](docker.md)
   - [Dockerfile](dockerfile.md) TODO
   - [Docker Compose](docker-compose.md)
   - [Docker Swarm](docker-swarm.md)
@@ -303,7 +303,7 @@ This one is used widely throughout these pages:
 
 #### Kubernetes Core
 
-- [Kubernetes](kubernetes.md)
+- [⭐ Kubernetes](kubernetes.md)
 - [Kubernetes Upgrades](kubernetes-upgrades.md)
 - [Kubernetes Configs](https://github.com/HariSekhon/Kubernetes-configs)
 - [Kubernetes Production Ready Checklist](kubernetes-production-ready-checklist.md)
@@ -376,7 +376,7 @@ This one is used widely throughout these pages:
 ### Languages
 
 - [Perl](perl.md)
-- [Python](python.md)
+- [⭐ Python](python.md)
   - [Anaconda](anaconda.md)
 - [Golang](golang.md) TODO partial
 - [Rust](rust.md)
