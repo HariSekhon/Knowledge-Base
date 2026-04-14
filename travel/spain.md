@@ -247,6 +247,10 @@ TODO:
   Mainly in Spain and Portugal but expanding internationally, starting to open in London and Paris as of late 2025/2026.
   Think of it as the Spanish answer to Wagamama.
   The piri piri chicken is a best seller here and is very tasty, as they make good use of sauce and chilli.
+  Main plates come with a side salad and slice of artisanal sourdough bread, or optionally double salad, double bread or
+  a side salad and side grain salad.
+  For calories the sweet potato fries to share are a good size and drizzled with some kind of fancy beetroot and aoli
+  sauces.
   The hot honey halloumi in spicy honey side is good too,
   although they market it under extra protein, even though it is more fat than protein.
   The grilled avocado nikkei side sounds great due to the lots of ingredients
