@@ -720,8 +720,8 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 ### Remote Working & Digital Nomad
 
-- [Remote Working & Digital Nomad](remote-working.md)
-  - [Travel](travel.md)
+- [⭐ Travel](travel.md)
+- [⭐ Remote Working & Digital Nomad](remote-working.md)
 
 ### Training & Interview Materials
 
