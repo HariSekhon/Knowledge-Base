@@ -161,6 +161,10 @@ don't underestimate or skip them, such as the museums, go have a look.
 
 - [Royal Palace of Madrid](https://maps.app.goo.gl/a8r2fPUYZo944Q1w5) - you forget how rich Spain used to be until you
   see this palace and gardens
+- [Plaza Mayor](https://maps.app.goo.gl/A7qP8FUC4hijMsK86)
+  - [Mercado de San Miguel](https://maps.app.goo.gl/p746o1uXhiszq5MJ8) - fancy upmarket food market with wines and
+    delicacy foods and snacks - even small fried seafood snacks can set you back nearly €20, so expect to spend €20-30
+    plus drinks
 - [Temple of Debod](https://maps.app.goo.gl/iV94jFzJ1J7SsS5e6)
   - [Templo de Debod Viewpoint](https://maps.app.goo.gl/kFfFDd5NE4AKRRuDA)
 - [Cibeles Fountain](https://maps.app.goo.gl/PfB57BnjWYJrYH5Z7)
