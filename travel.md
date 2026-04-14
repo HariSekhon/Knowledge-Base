@@ -319,7 +319,7 @@ travellers like me.
 - Passport
 - Visa
   - booked exit flight proof is required to enter in many Latin and Caribbean countries
-  - digital immigration and customs declarations are required in many countries
+  - digital online immigration and customs declarations are required in many countries before going through immigration
 - Laptop (optional)
 - Chargers - phone, laptop, electric toothbruth, USB-to-USB-c cable or USB adapters for plane sockets
 - Travel Adapters for international plug formats
