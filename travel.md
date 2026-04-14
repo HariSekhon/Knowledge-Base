@@ -894,13 +894,13 @@ they are the coolest material I've ever worn and I have been wearing them around
 I never want to shop at any of the malls around the world after buying clothes in South East Asia's markets.
 
 I am also thinking about trying those long white gowns
-they wear in the gulf countries as look effective against both the sun, heat and mosquitos,
+they wear in the gulf countries as they look effective against both the sun, heat and my newfound enemy - mosquitos -
 but they must be difficult to keep clean?
 
 Keep 1 pair of jeans and a thin well insulated jacket as a backup for cold airplanes,
 heavily air conditioned venues, being caught out (such as not realizing the Andes countries of South
 America have cold parts due to altitude like near Macchu Pichu, Cusco etc) or freak weather such as the thunderstorms
-of Brazil in Rio and Sao Paulo.
+of Brazil in Rio and Sao Paulo, or the freak storm and flood that hit me in Dubai.
 
 ## Health Insurance
 
