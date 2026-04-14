@@ -158,7 +158,7 @@ and time is this:
     integer to add to `TODAY()`
 - `CHAR(10)` - is just the newline (`\n`) character and `&` is just a string append operator
 - `IF(MOD(intervals, 1) = 0, "Morning", "Evening")` - checks the interval number - if it's whole as determined by the
-  modulus giving a remainder equalling 0, it writes "Morning", otherwise "Evening"
+  modulus giving a remainder equalling 0, it returns "Morning", otherwise "Evening"
 
 ## Memes
 
