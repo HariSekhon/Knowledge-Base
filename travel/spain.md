@@ -191,6 +191,9 @@ don't underestimate or skip them, such as the museums, go have a look.
 
 <!--
 
+- [Cats Hostel Madrid Sol](https://maps.app.goo.gl/urFdNMMCmEhSGAiP7) - much nicer than Petit or Safestay.
+  Wifi 76/77 Mbit/s - their wifi is open capcha portal - choose form instead of facebook login,
+  it only requires to accept terms instead of getting your personal information
 - [Safestay Hostel](https://maps.app.goo.gl/4rVDNciz1eEkdS8h9) - was decent and cheap,
   but no kitchen and the queue to check in at 3pm took at least 40 minutes because the jobsworths refused to let anyone
   check-in before 3pm so they'd built up a big backlog, rather than taking a common sense approach of when the room is
@@ -219,7 +222,6 @@ don't underestimate or skip them, such as the museums, go have a look.
 
 TODO:
 
-- [Cats Hostel Madrid Sol](https://maps.app.goo.gl/urFdNMMCmEhSGAiP7) - check in 2pm
 - [The Hat Madrid](https://maps.app.goo.gl/5LosvuNbfUeZmZJf6) - check in 3pm
 - [room00 Gran Vía Hostel](https://maps.app.goo.gl/jmMzZpJjtGU9aYwd6) - check in 3pm
 
