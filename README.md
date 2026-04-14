@@ -55,7 +55,8 @@ are provided throughout where relevant.
 
 A few highlight pages:
 
-- [![Travel](https://img.shields.io/badge/Travel%20Tips-50%2B%20countries%20%2F%20150%2B%20cities-029F00?logo=nordvpn&logoColor=white)](travel.md)
+- [![AI](https://img.shields.io/badge/Artificial-Intelligence-029F00?logo=chatbot)](ai.md)
+- [![Travel](https://img.shields.io/badge/Travel%20Tips-60%2B%20countries%20%2F%20200%2B%20cities-029F00?logo=nordvpn&logoColor=white)](travel.md)
 - [![Remote](https://img.shields.io/badge/Remote%20Working-Digital%20Nomad-blue?logo=nordvpn&logoColor=white)](remote-working.md)
 - [![IT Best Practices](https://img.shields.io/badge/Tech-Best--Practices-029F00?logo=techcrunch)](best-practices.md)
 - [![macOS](https://img.shields.io/badge/mac-OS-blue?logo=apple)](mac.md)
@@ -462,13 +463,13 @@ This one is used widely throughout these pages:
 
 ## CI/CD
 
-- [CI/CD](cicd.md)
+- [⭐ CI/CD](cicd.md)
 - [Mobile CI/CD](cicd-mobile.md)
   - [Mobile Builds](mobile-builds.md)
   - [Fastlane](fastlane.md)
   - [Firebase](firebase.md)
 - Self-Hosted CI/CD:
-  - [Jenkins](jenkins.md)
+  - [⭐ Jenkins](jenkins.md)
     - [Jenkins-on-Kubernetes](jenkins-on-kubernetes.md)
     - [HariSekhon/Jenkins](https://github.<br/>com/HariSekhon/Jenkins) - master `Jenkinsfile` template and Groovy Shared Library functions
   - [TeamCity](teamcity.md) TODO
@@ -476,7 +477,7 @@ This one is used widely throughout these pages:
   - [Concourse](concourse.md)
   - [GoCD](gocd.md) TODO
 - Git Repo Providers hosted CI/CD:
-  - [GitHub Actions](github-actions.md)
+  - [⭐ GitHub Actions](github-actions.md)
   - [GitLab CI](gitlab-ci.md) TODO
   - [Azure DevOps](azure-devops.md) TODO
   - [Bitbucket Pipelines](bitbucket.md) TODO
@@ -616,7 +617,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 - [Data Science](data-science.md) TODO
 - [Machine Learning](machine-learning.md) TODO
-- [Python](python.md)
+- [⭐ Python](python.md)
   - [Anaconda](anaconda.md)
 - [DVC](dvc.md)
 - [R](r.md) TODO
@@ -712,7 +713,7 @@ See also the [Hadoop Ecosystem](#hadoop-ecosystem) section further down for more
 
 ## AI & Automation
 
-- [AI](ai.md)
+- [⭐ AI](ai.md)
 - [Automation](automation.md)
 
 ## Work
