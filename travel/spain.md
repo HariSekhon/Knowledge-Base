@@ -231,6 +231,17 @@ TODO:
 
 -->
 
+- [TKO Tacos](https://tkotacos.com/ubicacion/madrid/) /
+  [Tiki Tacos](https://tikitacotaqueria.es/) - two affordable tacos chains with the same menu and a great mix of
+  ingredients, including the usual beef, pork and chicken, but also octopus and cactus.
+  The tacos are surprisingly cheap at €1-2 each, but they are also very small, so you need 5 of them per person.
+  The _"cochinada"_ taco of smoked pork was one of my favourites in terms of distinctive flavour.
+  The grilled octopus taco is twice the price at €4.20, and comes with a lot of white sauce.
+  While decent, I would in hindsight get two other tacos instead.
+  The _"chicken tinga"_ taco with spicy grilled chicken was decent.
+  I also like the arrachera beef steak taco.
+  The cactus _"nopales"_ taco is interesting for a vegetarian option.
+  No wifi here unfortunately (probably on purpose so people eat and leave the venue as it's fairly small and popular)
 - [Honest Greens](https://www.honestgreens.com/en/) - spanish gentrified chain restaurant with an excellent menu,
   affordable prices and nice lighting and decor.
   Mainly in Spain and Portugal but expanding internationally, starting to open in London and Paris as of late 2025/2026.
@@ -282,20 +293,17 @@ TODO:
   3 toppings.
   The 250ml for €9.50 is big enough - 400ml would be too much for one person.
   Wifi 402/249 Mbit/s
-- [TKO Tacos](https://tkotacos.com/ubicacion/madrid/) /
-  [Tiki Tacos](https://tikitacotaqueria.es/) - two affordable tacos chains with the same menu and a great mix of
-  ingredients, including the usual beef, pork and chicken, but also octopus and cactus.
-  The tacos are surprisingly cheap at €1-2 each, but they are also very small, so you need 5 of them per person.
-  The _"cochinada"_ taco of smoked pork was one of my favourites in terms of distinctive flavour.
-  The grilled octopus taco is twice the price at €4.20, and comes with a lot of white sauce.
-  While decent, I would in hindsight get two other tacos instead.
-  The _"chicken tinga"_ taco with spicy grilled chicken was decent.
-  I also like the arrachera beef steak taco.
-  The cactus _"nopales"_ taco is interesting for a vegetarian option.
-  No wifi here unfortunately (probably on purpose so people eat and leave the venue as it's fairly small and popular)
 - [Piscomar By Jhosef Arias](https://maps.app.goo.gl/xNgSw1B6tiaQ8vYo7) - good quality Peruvian Lomo Saltado steak
   strips cooked perfectly sauteed with onions & tomatoes, served with rice and good quality thick fries.
   Has wifi
+- [Bar La Campana](https://maps.app.goo.gl/g7bVHsBVkKcDH4rj9) - cheap local eats place on a side street off Plaza Mayor.
+  The plate of deep fried squid rings for €8 were too salty, I left half of them, and being deep fried this is also
+  inflammatory food I shouldn't be eating too often.
+  I should have gotten a squid rings baguette of them instead for €4.50 - most people there were eating these.
+  The plates of squid rings might be better to share as a snack as it's a decent size.
+  The plate of patatas braves covered with light orange sauce for €6 was very good though, nice and crispy.
+  There two queues - one to dine in and another queue just to take away.
+  No wifi
 
 TODO:
 
