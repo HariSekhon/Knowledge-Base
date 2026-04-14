@@ -878,8 +878,7 @@ quickly afterwards from inhaling it and had to go to bed early.
 
 ## Clothing
 
-Look up the weather
-and pack clothes appropriate for that country and time of year as weight matters
+Look up the weather and pack clothes appropriate for that country and time of year as weight matters
 and I had clothes in my suitcase I never wore.
 
 In hot countries I find tank tops and shorts are the coolest clothing to wear,
