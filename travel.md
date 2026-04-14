@@ -867,7 +867,7 @@ lumps all over you.
 
 And you can't feel them land to catch them and can never seem to kill enough of them.
 
-You *need* mosquito repellent. Don't miss it.
+**You *need* mosquito repellent. Don't miss it.**
 
 **Use cream, NOT spray (same goes for deodorant)**
 
