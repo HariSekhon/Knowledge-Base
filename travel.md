@@ -334,7 +334,7 @@ travellers like me.
   western brands can be very expensive in some Latin countries due to import costs and tariffs
 - book or other entertainment for flight
 - reusable water bottle for water dispensers at airports (where available), for after the security scanners where they
-  take any liquids off you
+  take any liquids off you and you don't want to get price gouged for bottled water
 
 ### Jumbo Passports
 
