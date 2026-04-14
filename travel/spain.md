@@ -237,10 +237,10 @@ TODO:
   The tacos are surprisingly cheap at €1-2 each, but they are also very small, so you need 5 of them per person.
   5-6 tacos is a comfortable stopping point but I prefer to go with 6-7 tacos to be really satisfied.
   The _"cochinada"_ taco of smoked pork was one of my favourites in terms of distinctive flavour.
+  I always get the arrachera beef steak taco as the only cubed meat taco (the rest are shredded).
   The grilled octopus taco is twice the price at €4.20, and comes with a lot of white sauce.
-  While decent, I would in hindsight get two other tacos instead.
+  While decent, these days I am more satisfied getting 2-3 other tacos instead for the same price.
   The _"chicken tinga"_ taco with spicy grilled chicken was decent.
-  I also like the arrachera beef steak taco.
   The cactus _"nopales"_ taco is interesting for a vegetarian option.
   No wifi here unfortunately (probably on purpose so people eat and leave the venue as it's fairly small and popular)
 - [Honest Greens](https://www.honestgreens.com/en/) - spanish gentrified chain restaurant with an excellent menu,
