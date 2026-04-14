@@ -860,7 +860,7 @@ as well as by September.
 ## Mosquito Repellent
 
 Buy a good mosquito repellent if you're travelling anywhere near the Mediterranean, Asia, Africa or Latin America -
-I even got eaten in Belgium in summer time!
+I even got repeatedly bitten in Belgium during summer time!
 
 I find that cream works better than spray.
 
