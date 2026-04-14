@@ -1080,7 +1080,7 @@ some random part of a city, which has little there.
 ### Spreadsheet to Auto-Recalculate Dates
 
 If you want to see how to create a spreadsheet to auto-recalculate your travel dates from just the number of days
-you want to spend there, see the [Spreadsheets](spreadsheets.md#auto-calculate-date-chaining) page which has a section
+you want to spend there, see the [Spreadsheets](spreadsheets.md#auto-calculate-dates) page which has a section
 explaining how to do this.
 
 This is super useful to:
