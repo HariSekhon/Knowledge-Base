@@ -862,14 +862,19 @@ as well as by September.
 Buy a good mosquito repellent if you're travelling anywhere near the Mediterranean, Asia, Africa or Latin America -
 I even got repeatedly bitten in Belgium during summer time!
 
-I find that cream works better than spray.
-
 It is no fun being itchy all the time because these little bastards are biting you every day and night and leaving
 lumps all over you.
 
 And you can't feel them land to catch them and can never seem to kill enough of them.
 
 You *need* mosquito repellent. Don't miss it.
+
+**Use cream, NOT spray (same goes for deodorant)**
+
+You don't want to inhale any spray, especially if it has chemicals in it like DEET or some toxins, as we are not
+evolved to be resistant to that ourselves.
+A woman trying to be helpful sprayed me all over with mosquito repellent containing DEET in Paraguay and I got sick
+quickly afterwards from inhaling it and had to go to bed early.
 
 ## Clothing
 
