@@ -167,7 +167,7 @@ The full index is further down.
 
 ## Travel
 
-- [Travel Knowledge](travel.md) - tips from travelling the world extensively for both fun and profit - consulted on 4
+- [⭐ Travel Knowledge](travel.md) - tips from travelling the world extensively for both fun and profit - consulted on 4
   continents, worked as a digital nomad and travel the world 52 weeks a year - life is short, take it:
   - my favourite restaurants
   - flights & accommodation
@@ -247,7 +247,7 @@ This one is used widely throughout these pages:
 - [Architecture](architecture.md) TODO
 - [Best Practices](best-practices.md)
 - [Product Selection](product-selection.md) TODO
-- [Diagrams-as-Code](diagrams.md)
+- [⭐ Diagrams-as-Code](diagrams.md)
   - [D2 lang](d2.md)
   - [MermaidJS](mermaidjs.md)
 - [Documentation](documentation.md)
@@ -261,8 +261,8 @@ This one is used widely throughout these pages:
 
 ## Git
 
-- [Git](git.md)
-  - [Git Workflow Branching Strategies](git-workflow-branching-strategies.md)
+- [⭐ Git](git.md)
+  - [⭐ Git Workflow Branching Strategies](git-workflow-branching-strategies.md)
 - Git Repo Hosting Providers:
   - [GitHub](github.md) (TODO: partially ported)
   - [GitLab](gitlab.md)
