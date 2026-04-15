@@ -150,12 +150,14 @@ Taxi is an option but you probably won't need it unless you're pressed for time,
 
 The metro is also affordable, clean and frequent.
 
+You'll need to buy a reusable metro card for €2.50 from an automated dispensing machine (has English language option).
+
 I paid €1.50 to go the rest of the way to the centre (Alonso Martinez).
 
-Contactless card payments don't work on the barriers though,
-you need a local travel card,
-but this is not a problem as the automated vending machines have an English option
-and will dispense a card with your single fare on it for an extra one-time fee of €2.50.
+On my second trip to Madrid (2026) I was paying €2 - €2.50 for single fares each way across the city.
+
+I forgot where I put my card from my first Madrid trip and had to buy a second card so remember to keep your safe as it
+doesn't look like you can pay for a journey without one.
 
 ### Best Areas to Stay in Madrid
 
