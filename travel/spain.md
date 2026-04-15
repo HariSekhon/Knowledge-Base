@@ -112,13 +112,25 @@ Madrid's Adolfo Suárez Madrid-Barajas (code: MAD)
 is a major travel hub with cheap flights to and from Latin America such as Colombia and Puerto Rico
 which is how I discovered Madrid.
 
+The airport is large with 6 terminals (A - F) and it can take 20+ minutes to walk from one end of the terminals to
+other.
+
 I saved so much money by routing through Madrid and waiting for the next cheap flight from there
 that I halved the cost of getting to Mexico and such that I essentially stayed in Madrid for 5 nights for free
 entirely offset by the savings on the flight prices!
 
-There is a water cooler outside the toilet in the main area.
-
+There are free water dispensers outside most of the toilets.
 Take a refillable water bottle or you'll be kicking yourself for getting scammed for €5 for a bottle of water.
+
+The prices in Madrid airport are quite high, €3-4 for crisps, €15 for a small baguette.
+You'd be better off eating before you go to the airport, or if you've got an early flight, take something
+from a Dia supermarket or similar before you go as it's the difference between €0.69 or €5 for a croissant.
+
+There is free wifi with a capture portal -
+thew social media button didn't work for me,
+as it sait to copy and paste the link which didn't work, but you can use the guest login with email but you
+need to validate your email within 15 minutes.
+Wifi speed is 11/6 Mbit/s.
 
 #### Travel to / from Madrid Airport
 
