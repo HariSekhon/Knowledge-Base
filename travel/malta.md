@@ -1,6 +1,12 @@
 # Malta
 
 <!-- INDEX_START -->
+
+- [Summary](#summary)
+- [Best Areas to Stay in Malta](#best-areas-to-stay-in-malta)
+- [Taxi Apps in Malta](#taxi-apps-in-malta)
+- [Restaurants in Malta](#restaurants-in-malta)
+
 <!-- INDEX_END -->
 
 ## Summary
