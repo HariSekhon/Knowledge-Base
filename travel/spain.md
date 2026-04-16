@@ -84,9 +84,8 @@ and the rich strict law Gulf countries.
 I didn't bother using any taxis in Madrid as the Metro is 1st class and connects to the airport too -
 same with the buses.
 
-- [Cabify](https://cabify.com/en) - considered the top taxi app here with competitive pricing, but I've not tried it yet
-  as the public transport from the airport was 1st world good
-- [Uber](https://www.uber.com/es/en/)
+- [Cabify](https://cabify.com/en) - the top taxi app here with competitive pricing
+- [Uber](https://www.uber.com/es/en/) - was cheaper for the 4am return to the airport than Cabify
 - [Bolt](https://bolt.eu/en/)
 
 ## Madrid
