@@ -50,6 +50,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 - [Visual](#visual)
   - [Image](#image)
   - [Video](#video)
+    - [Search Inside Video](#search-inside-video)
   - [Presentation](#presentation)
     - [Gamma](#gamma)
 - [UI](#ui)
@@ -455,6 +456,12 @@ Video generation AIs:
 <https://videotranslator.blipcut.com/instagram-video-translator.html>
 
 -->
+
+#### Search Inside Video
+
+- [WayInVideo](https://wayin.ai/tools/find-moments/) - WayinVideo’s Find Moments uses AI to understand your videos like
+  a human editor. Search for objects, scenes, actions, sounds, emotions, people, and more — and jump to any moment
+  instantly
 
 ### Presentation
 
