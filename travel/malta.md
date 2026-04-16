@@ -10,3 +10,9 @@
   lively atmosphere
 - [Mellieħa](https://maps.app.goo.gl/s8rwSgimhPwZc8MU7) - best sandy beaches, quieter resort feel, family-friendly
 - [Mdina](https://maps.app.goo.gl/ZyKD84fMkfnkNKhA7) - quiet historic town, atmospheric stay, limited nightlife
+
+## Taxi Apps in Malta
+
+- [Bolt](https://bolt.eu/en-mt/)
+- [eCabs](https://ecabs.com.mt/)
+- [Uber](https://www.uber.com/mt/en/)
