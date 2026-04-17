@@ -60,6 +60,8 @@ I just stuck with the flexibility of doing contactless only when I wanted to use
   of groups of guys who haven't yet realized it's a waste of time because most of them never get laid from a club
 - [Golden Bay Beach](https://maps.app.goo.gl/LRhRAfdM8wKc6EaS9)
 - [Remains of Spinola Entrenchment](https://maps.app.goo.gl/sNQuEhWFdVNAb52p6)
+- [The Point Shopping Mall](https://maps.app.goo.gl/H2d5gzhxbVQPMaXJ9)
+- [Tigné Point](https://maps.app.goo.gl/iCfXTjvQDyuFtQY6A)
 
 ## Restaurants in Malta
 
