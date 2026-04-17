@@ -61,6 +61,7 @@ I just stuck with the flexibility of doing contactless only when I wanted to use
 - [Golden Bay Beach](https://maps.app.goo.gl/LRhRAfdM8wKc6EaS9)
 - [Remains of Spinola Entrenchment](https://maps.app.goo.gl/sNQuEhWFdVNAb52p6)
 - [The Point Shopping Mall](https://maps.app.goo.gl/H2d5gzhxbVQPMaXJ9)
+- [Fort Tigné](https://maps.app.goo.gl/uX3mBGkx2VTeUMVW6)
 - [Tigné Point](https://maps.app.goo.gl/iCfXTjvQDyuFtQY6A)
 
 ## Restaurants in Malta
