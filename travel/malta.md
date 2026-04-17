@@ -7,6 +7,7 @@
 - [Travel from the Airport](#travel-from-the-airport)
 - [Buses in Malta](#buses-in-malta)
 - [Taxi Apps in Malta](#taxi-apps-in-malta)
+- [Attractions in Malta](#attractions-in-malta)
 - [Restaurants in Malta](#restaurants-in-malta)
 - [Gozo Island](#gozo-island)
   - [Travel to Gozo Island](#travel-to-gozo-island)
