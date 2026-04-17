@@ -65,6 +65,14 @@ I just stuck with the flexibility of doing contactless only when I wanted to use
   I had become skeptical of smash burgers after several mediore ones, but needed something quick and tried this place.
   It surprised me with how good the burger was (€11).
   No wifi
+- [Manouche Craft Bakery, Brunch & Bistro Spinola](https://maps.app.goo.gl/69uyHsN4QdJ1ejVc9) - upmarket bakery
+  restaurant. €20+ per main. Has a good selection of desserts and pastries.
+  The Manouche breakfast with added baked beans comes to over €15 and it’s ok but nothing to write home about,
+  just something I needed after a very early morning flight.
+  The tomato was weirdly sweet.
+  The sourdough toast and fried eggs were decent, same with hash browns.
+  The sausages and mushrooms were mediocre.
+  WiFi 5/2 Mbit/s
 - [Caviar & Bull](https://maps.app.goo.gl/XdNv7HoBy7HHtfbZA) - high quality upmarket european restaurant with a
   wonderful although expensive tasting menu. Also in Budapest
 
