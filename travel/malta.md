@@ -98,6 +98,7 @@ TODO:
   - [Calle Bistro Seafood](https://maps.app.goo.gl/YJRp5ZpUJL3gBRMe9) - 4.9
   - [The Legend](https://maps.app.goo.gl/ims3GqNP6hwW6yhw7) - 4.8
   - [Hassan - Fatayer & Falafel](https://maps.app.goo.gl/bJd6LtATA5FFPg6V6) - 4.8, Syrian
+  - [Opa! Mediterranean Fusion](https://maps.app.goo.gl/7dAgVm4qK6JnEpU3A) - 4.5
 
 ## Gozo Island
 
