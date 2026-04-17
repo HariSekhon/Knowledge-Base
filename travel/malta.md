@@ -68,6 +68,12 @@ I just stuck with the flexibility of doing contactless only when I wanted to use
 - [Caviar & Bull](https://maps.app.goo.gl/XdNv7HoBy7HHtfbZA) - high quality upmarket european restaurant with a
   wonderful although expensive tasting menu. Also in Budapest
 
+TODO:
+
+- [Goçaí](https://maps.app.goo.gl/smEaVE8TqyavgZED8) - 4.8
+- [Sticky Fingers BBQ](https://maps.app.goo.gl/dzjpLU6J2dvLPKt96) - 4.6
+- [Dr. Juice St. Julians](https://maps.app.goo.gl/UBwrzcVeT44VxoZ99) - 4.4
+
 ## Gozo Island
 
 ### Travel to Gozo Island
