@@ -47,7 +47,11 @@ I just stuck with the flexibility of doing contactless only when I wanted to use
 - [eCabs](https://ecabs.com.mt/)
 - [Uber](https://www.uber.com/mt/en/)
 
-## Attractions in Mald
+## Attractions in Malta
+
+- Gozo Island - see section further down
+- [Triq Santa Rita](https://maps.app.goo.gl/gbtcvT1QwQ3XtmYf8) in St Juliens - lively street of bars and clubs full
+  of groups of guys who haven't yet realized it's a waste of time because most of them never get laid from a club
 
 ## Restaurants in Malta
 
@@ -60,6 +64,8 @@ I just stuck with the flexibility of doing contactless only when I wanted to use
   I had become skeptical of smash burgers after several mediore ones, but needed something quick and tried this place.
   It surprised me with how good the burger was (€11).
   No wifi
+- [Caviar & Bull](https://maps.app.goo.gl/XdNv7HoBy7HHtfbZA) - high quality upmarket european restaurant with a
+  wonderful although expensive tasting menu. Also in Budapest
 
 ## Gozo Island
 
