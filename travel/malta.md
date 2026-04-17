@@ -50,9 +50,10 @@ I just stuck with the flexibility of doing contactless only when I wanted to use
 
 ## Attractions in Malta
 
-- Gozo Island - see section further down
+- [Gozo Island](https://maps.app.goo.gl/CXWrRjegWxAYab5X8) - see section further down
 - [Triq Santa Rita](https://maps.app.goo.gl/gbtcvT1QwQ3XtmYf8) in St Juliens - lively street of bars and clubs full
   of groups of guys who haven't yet realized it's a waste of time because most of them never get laid from a club
+- [Remains of Spinola Entrenchment](https://maps.app.goo.gl/sNQuEhWFdVNAb52p6)
 
 ## Restaurants in Malta
 
