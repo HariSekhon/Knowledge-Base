@@ -87,9 +87,12 @@ I just stuck with the flexibility of doing contactless only when I wanted to use
 
 TODO:
 
-- [Goçaí](https://maps.app.goo.gl/smEaVE8TqyavgZED8) - 4.8
-- [Sticky Fingers BBQ](https://maps.app.goo.gl/dzjpLU6J2dvLPKt96) - 4.6
-- [Dr. Juice St. Julians](https://maps.app.goo.gl/UBwrzcVeT44VxoZ99) - 4.4
+- St Juliens:
+  - [Goçaí](https://maps.app.goo.gl/smEaVE8TqyavgZED8) - 4.8
+  - [Sticky Fingers BBQ](https://maps.app.goo.gl/dzjpLU6J2dvLPKt96) - 4.6
+  - [Dr. Juice St. Julians](https://maps.app.goo.gl/UBwrzcVeT44VxoZ99) - 4.4
+- Sliema:
+  - [Loaf](https://maps.app.goo.gl/RC66geEuhhwEUWZF6) - 4.9, coffee shop
 
 ## Gozo Island
 
