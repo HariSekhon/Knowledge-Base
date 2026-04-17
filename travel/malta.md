@@ -6,6 +6,8 @@
 - [Best Areas to Stay in Malta](#best-areas-to-stay-in-malta)
 - [Taxi Apps in Malta](#taxi-apps-in-malta)
 - [Restaurants in Malta](#restaurants-in-malta)
+- [Gozo Island](#gozo-island)
+  - [Travel to Gozo Island](#travel-to-gozo-island)
 
 <!-- INDEX_END -->
 
@@ -37,3 +39,15 @@ A nice tourist oriented island in the mid Mediterranean.
   I had become skeptical of smash burgers after several mediore ones, but needed something quick and tried this place.
   It surprised me with how good the burger was (€11).
   No wifi
+
+## Gozo Island
+
+### Travel to Gozo Island
+
+There is a ferry from the north of the island for €4.50 which takes 25 minutes and departs frequently:
+
+<https://www.gozochannel.com/ferry/schedule/>
+
+There is also a fast ferry that leaves from Valetta which takes 45 minutes for €7.50:
+
+<https://gozohighspeed.com/>
