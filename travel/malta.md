@@ -94,8 +94,9 @@ TODO:
   - [Dr. Juice St. Julians](https://maps.app.goo.gl/UBwrzcVeT44VxoZ99) - 4.4
 - Sliema:
   - [Loaf](https://maps.app.goo.gl/RC66geEuhhwEUWZF6) - 4.9, coffee shop
-  - [Delizie Siciliane](https://maps.app.goo.gl/Y81Tvc5VskUzvhNZ6) - 4.8
-  - [Abrazo](https://maps.app.goo.gl/3xiHzYfigCWsF3ri9) - 4.8, cafe
+  - [Coffee & strangers Espresso Bar](https://maps.app.goo.gl/eko57yxyMeDb6LEa7) - 4.9, coffee shop
+  - [Delizie Siciliane](https://maps.app.goo.gl/Y81Tvc5VskUzvhNZ6) - 4.8, coffee shop
+  - [Abrazo](https://maps.app.goo.gl/3xiHzYfigCWsF3ri9) - 4.8, coffee shop
   - [Calle Bistro Seafood](https://maps.app.goo.gl/YJRp5ZpUJL3gBRMe9) - 4.9
   - [The Legend](https://maps.app.goo.gl/ims3GqNP6hwW6yhw7) - 4.8
   - [Hassan - Fatayer & Falafel](https://maps.app.goo.gl/bJd6LtATA5FFPg6V6) - 4.8, Syrian
