@@ -4,6 +4,8 @@
 
 - [Summary](#summary)
 - [Best Areas to Stay in Malta](#best-areas-to-stay-in-malta)
+- [Travel from the Airport](#travel-from-the-airport)
+- [Buses in Malta](#buses-in-malta)
 - [Taxi Apps in Malta](#taxi-apps-in-malta)
 - [Restaurants in Malta](#restaurants-in-malta)
 - [Gozo Island](#gozo-island)
@@ -25,6 +27,19 @@ A nice tourist oriented island in the mid Mediterranean.
   lively atmosphere
 - [Mellieħa](https://maps.app.goo.gl/s8rwSgimhPwZc8MU7) - best sandy beaches, quieter resort feel, family-friendly
 - [Mdina](https://maps.app.goo.gl/ZyKD84fMkfnkNKhA7) - quiet historic town, atmospheric stay, limited nightlife
+
+## Travel from the Airport
+
+You can catch a selection of buses from opposite the airport exit, or take a taxi.
+
+## Buses in Malta
+
+Buses in Malta are €3 for a single fare and accept contactless card payments.
+
+The stand in Malta airport will try to sell you a 4 day or 7 day pass for €27 but unless you are taking the bus every
+day it's probably not worth it.
+
+I just stuck with the flexibility of doing contactless only when I wanted to use the bus.
 
 ## Taxi Apps in Malta
 
