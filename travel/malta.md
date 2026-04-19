@@ -44,9 +44,9 @@ I just stuck with the flexibility of doing contactless only when I wanted to use
 
 ## Taxi Apps in Malta
 
+- [Uber](https://www.uber.com/mt/en/) - was significantly cheaper to airport than Bolt
 - [Bolt](https://bolt.eu/en-mt/)
-- [eCabs](https://ecabs.com.mt/)
-- [Uber](https://www.uber.com/mt/en/)
+- [eCabs](https://ecabs.com.mt/) - local taxi app, not tried this one
 
 ## Attractions in Malta
 
@@ -83,6 +83,13 @@ I just stuck with the flexibility of doing contactless only when I wanted to use
   The sourdough toast and fried eggs were decent, same with hash browns.
   The sausages and mushrooms were mediocre.
   WiFi 5/2 Mbit/s
+- [Gozitan Restaurant](https://maps.app.goo.gl/8AhqVxLDmBwAJ2jR9) - good Maltese restaurant. The horse stew was good -
+  it came in a shallow dish and wasn't too big, which left space for dessert!
+  It comes with fries or baked potato.
+  I asked for baked potato but they brough fries,
+  but they looked good (and were good) so I didn't have them taken away and replaced.
+  The traditional maltese dessert platter of fried maltese dates (it looks like a pie slice), helwa, and fig ice cream
+  was really nice, I only wish there was more of it!
 - [Caviar & Bull](https://maps.app.goo.gl/XdNv7HoBy7HHtfbZA) - high quality upmarket european restaurant with a
   wonderful although expensive tasting menu. Also in Budapest
 
