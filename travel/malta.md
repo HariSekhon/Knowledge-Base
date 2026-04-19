@@ -68,6 +68,7 @@ I just stuck with the flexibility of doing contactless only when I wanted to use
 
 - [Halo Kebab & Tacos](https://maps.app.goo.gl/TMZUgBhJg7uREtjx7) - popular turkish with good quality chicken shish
   wraps or pitas for €10.
+  There is one in St Juliens and another in Valetta.
   Open late.
   WiFi 86/21 Mbit/s
 - [Smash Burgers by hungry horse](https://maps.app.goo.gl/DAFFjbpiNBxR717i6) - the Mexican smash burger was the best
@@ -75,14 +76,6 @@ I just stuck with the flexibility of doing contactless only when I wanted to use
   I had become skeptical of smash burgers after several mediore ones, but needed something quick and tried this place.
   It surprised me with how good the burger was (€11).
   No wifi
-- [Manouche Craft Bakery, Brunch & Bistro Spinola](https://maps.app.goo.gl/69uyHsN4QdJ1ejVc9) - upmarket bakery
-  restaurant. €20+ per main. Has a good selection of desserts and pastries.
-  The Manouche breakfast with added baked beans comes to over €15 and it’s ok but nothing to write home about,
-  just something I needed after a very early morning flight.
-  The tomato was weirdly sweet.
-  The sourdough toast and fried eggs were decent, same with hash browns.
-  The sausages and mushrooms were mediocre.
-  WiFi 5/2 Mbit/s
 - [Gozitan Restaurant](https://maps.app.goo.gl/8AhqVxLDmBwAJ2jR9) - good Maltese restaurant. The horse stew was good -
   it came in a shallow dish and wasn't too big, which left space for dessert!
   It comes with fries or baked potato.
@@ -91,6 +84,14 @@ I just stuck with the flexibility of doing contactless only when I wanted to use
   The traditional maltese dessert platter of fried maltese dates (it looks like a pie slice), helwa, and fig ice cream
   was really nice, I only wish there was more of it!
   Wifi 7/1 Mbit/s
+- [Manouche Craft Bakery, Brunch & Bistro Spinola](https://maps.app.goo.gl/69uyHsN4QdJ1ejVc9) - upmarket bakery
+  restaurant. €20+ per main. Has a good selection of desserts and pastries.
+  The Manouche breakfast with added baked beans comes to over €15 and it’s ok but nothing to write home about,
+  just something I needed after a very early morning flight.
+  The tomato was weirdly sweet.
+  The sourdough toast and fried eggs were decent, same with hash browns.
+  The sausages and mushrooms were mediocre.
+  WiFi 5/2 Mbit/s
 - [Caviar & Bull](https://maps.app.goo.gl/XdNv7HoBy7HHtfbZA) - high quality upmarket european restaurant with a
   wonderful although expensive tasting menu. Also in Budapest
 
