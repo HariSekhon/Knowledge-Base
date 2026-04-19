@@ -66,16 +66,16 @@ I just stuck with the flexibility of doing contactless only when I wanted to use
 
 ## Restaurants in Malta
 
-- [Halo Kebab & Tacos](https://maps.app.goo.gl/TMZUgBhJg7uREtjx7) - popular turkish with good quality chicken shish
-  wraps or pitas for €10.
-  There is one in St Juliens and another in Valetta.
-  Open late.
-  WiFi 86/21 Mbit/s
 - [Smash Burgers by hungry horse](https://maps.app.goo.gl/DAFFjbpiNBxR717i6) - the Mexican smash burger was the best
   smash burger I remember having.
   I had become skeptical of smash burgers after several mediore ones, but needed something quick and tried this place.
   It surprised me with how good the burger was (€11).
   No wifi
+- [Halo Kebab & Tacos](https://maps.app.goo.gl/TMZUgBhJg7uREtjx7) - popular turkish with good quality chicken shish
+  wraps or pitas for €10.
+  There is one in St Juliens and another in Valetta.
+  Open late.
+  WiFi 86/21 Mbit/s
 - [Gozitan Restaurant](https://maps.app.goo.gl/8AhqVxLDmBwAJ2jR9) - good Maltese restaurant. The horse stew was good -
   it came in a shallow dish and wasn't too big, which left space for dessert!
   It comes with fries or baked potato.
