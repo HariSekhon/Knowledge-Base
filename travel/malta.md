@@ -90,6 +90,7 @@ I just stuck with the flexibility of doing contactless only when I wanted to use
   but they looked good (and were good) so I didn't have them taken away and replaced.
   The traditional maltese dessert platter of fried maltese dates (it looks like a pie slice), helwa, and fig ice cream
   was really nice, I only wish there was more of it!
+  Wifi 7/1 Mbit/s
 - [Caviar & Bull](https://maps.app.goo.gl/XdNv7HoBy7HHtfbZA) - high quality upmarket european restaurant with a
   wonderful although expensive tasting menu. Also in Budapest
 
