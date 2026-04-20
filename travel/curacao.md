@@ -85,10 +85,10 @@ I don't remember the last time I paid that much for a taxi except for London.
 
 - [Punda](https://maps.app.goo.gl/JuZS2y2zViuEByw6A) - historic center of Willemstad with colourful Dutch colonial
   buildings, shops and waterfront cafes
+  - [Pietermaai](https://maps.app.goo.gl/btAihbgFM2916ZcT6) - trendy seaside quarter known for boutique hotels,
+    restaurants and nightlife
 - [Otrobanda](https://maps.app.goo.gl/HZjZj5imqXSRRScP8) - vibrant cultural district with street art, museums and views
   across St Anna Bay
-- [Pietermaai](https://maps.app.goo.gl/btAihbgFM2916ZcT6) - trendy seaside quarter known for boutique hotels,
-  restaurants and nightlife
 - [Jan Thiel](https://maps.app.goo.gl/qt9U33GW26LYW8kg6) - popular beach area with resorts, water sports and a lively
   coastal atmosphere
 - [Blue Bay](https://maps.app.goo.gl/F5NdhXFjRrcduuWdA) - gated resort community with golf course, private beach and
@@ -100,14 +100,12 @@ I don't remember the last time I paid that much for a taxi except for London.
 - [Brakkeput](https://maps.app.goo.gl/XebN1Z6Y2ijub5Mr8) - peaceful hillside and waterfront area
   near Spanish Water with spacious homes
 
-<!--
+<!-- -->
 
 - [Bed & Bike Jan Thiel](https://maps.app.goo.gl/S7WrPY39xQdbwQccA) - nicer, has pool and kitchen. Wifi ok
 - [Bed & Bike Pietermaai](https://maps.app.goo.gl/QpH5wawrju87q28PA)
 - [The Ritz Village](https://maps.app.goo.gl/152wzkJaWh3YUS4r8) - not as good as the pics, pretty basic, and
   under-populated. It's a couple blocks further out than Bed & Bike. Would not stay here again. Wifi 6/19 Mbit/s
-
--->
 
 ### Punda & Otrobanda
 
