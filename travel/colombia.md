@@ -50,9 +50,8 @@ ponzi scheme welfare state & pensions long term.
 [![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~COL~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~COL)
 
 Colombia's population has continued to grow despite low birthrates,
-partly due to increased life expectancy, partly the lag effect of previously had higher fertility resulting in the
-current generation of young adults,
-and partly due to immigration from Venezuela:
+partly due to increased life expectancy, partly the lag effect of previously having had higher fertility resulting in
+the current generation of young adults, and partly due to immigration from Venezuela:
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~COL)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~COL)
 
