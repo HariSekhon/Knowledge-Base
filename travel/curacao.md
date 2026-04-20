@@ -78,7 +78,7 @@ and the Queen Emma moving bridge connecting Otrobanda.
 
 Small airport.
 
-Taxi from the airport cost a stagginer \$38 for 20 minutes,
+Taxi from the airport cost a staggering \$38 for 20 minutes,
 I don't remember the last time I paid that much for a taxi except for London.
 
 ### Best Areas in Willemstad
