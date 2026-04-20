@@ -10,7 +10,9 @@
   - [Nikola Tesla Airport - BEO](#nikola-tesla-airport---beo)
   - [Buses in Belgrade](#buses-in-belgrade)
   - [Hostels in Belgrade](#hostels-in-belgrade)
+  - [Attractions in Belgrade](#attractions-in-belgrade)
   - [Restaurants in Belgrade](#restaurants-in-belgrade)
+  - [Groceries in Belgrade](#groceries-in-belgrade)
 - [Novi Sad](#novi-sad)
 - [Nis](#nis)
 
@@ -134,6 +136,28 @@ TODO:
 
 - [Hidden Gem Hostel](https://maps.app.goo.gl/52LY2TqBehMoLTmq6) - my travel buddy tried it, said it was too small and
   that he preferred Good People Hostel above
+
+### Attractions in Belgrade
+
+- [Republic Square](https://maps.app.goo.gl/z7jGaMGfi5f3LcU3A) - historic landmark square in the centre
+- [Belgrade Fortress](https://maps.app.goo.gl/1hbPYk21dYJgDk1c9) - this defines the city
+- [Kalemegdan](https://maps.app.goo.gl/JiKRA6MZTBmyBWju6) - the main park around the Belgrade fortress
+- [Obilićev venac road](https://maps.app.goo.gl/kLPuPNVYTPoscB3v6) - tourist trap road full of restaurants just off the
+  main square, trade prices for buzziness
+- [Skadarlija](https://maps.app.goo.gl/dut9xBcbyWJUGfag6) - lively part of town in the evenings with restaurants and bars
+- [Church of Saint Sava](https://maps.app.goo.gl/ty8NmfjuYZLVCLDd7) - impressive dome interior
+- [St. Mark Orthodox Church](https://maps.app.goo.gl/9o5x7XNmaFHD2uss8)
+- [Belgrade Waterfront](https://maps.app.goo.gl/PTcxMgocf6i5R9eU7) - riverside strip of bars & restaurants and the
+  impressive Galerija Mall:
+- [Galerija](https://maps.app.goo.gl/fGvsLrLWBj5WLg3x5) - large upmarket Dubai-style mall full of designer brands,
+  gentrified coffee shops, and bars & restaurants along the outside on the Belgrade Waterfront by the river
+- [UŠĆE Shopping Center](https://maps.app.goo.gl/WMhEiKkdt3RnwMMk9) - good sized mall with the usual international
+  designer brands, a 10 min ride from the center of Belgrade by free buses
+- [Delta City](https://maps.app.goo.gl/gPircoSQvsmSrtLo9) - large mall with usual brands and food court, a little
+  further West of the center
+- [Big Fashion](https://maps.app.goo.gl/hLZRFyJ5qa4adsZE8) - big mall on the outskirts, luckily the buses and trams are
+  free and make it easy to get to!
+- [Street Gym](https://maps.app.goo.gl/eaNA7MgkWfEh348t9) - free park gym... do some pull ups bro...
 
 ### Restaurants in Belgrade
 
@@ -328,27 +352,6 @@ The lower end is typically about half that.
     even smaller than quoted on the menu.
     I don't come here as much as I used to as a result now.
     40/18 Mbit/s wifi
-- [Idea - Cara Dušana (Dorćol)](https://maps.app.goo.gl/B8s5oUD8JftWZmiUA) - 24 hour supermarket
-- [Idea - Kralja Milana](https://maps.app.goo.gl/RebkMZZ68m5G9wMs8) - 24 hour supermarket
-- [Idea - London](https://maps.app.goo.gl/pXHyku4U2qQd2mAf6) - 24 hour supermarket
-- [Maxi](https://maps.app.goo.gl/xd23wydYuSibNsJK9) - 24 hour supermarket on side road adjacent to the main high street
-- [Republic Square](https://maps.app.goo.gl/z7jGaMGfi5f3LcU3A) - historic landmark square in the centre
-- [Belgrade Fortress](https://maps.app.goo.gl/1hbPYk21dYJgDk1c9) - this defines the city
-- [Kalemegdan](https://maps.app.goo.gl/JiKRA6MZTBmyBWju6) - the main park around the Belgrade fortress
-- [Skadarlija](https://maps.app.goo.gl/dut9xBcbyWJUGfag6) - lively part of town in the evenings with restaurants and bars
-- [Church of Saint Sava](https://maps.app.goo.gl/ty8NmfjuYZLVCLDd7) - impressive dome interior
-- [St. Mark Orthodox Church](https://maps.app.goo.gl/9o5x7XNmaFHD2uss8)
-- [Street Gym](https://maps.app.goo.gl/eaNA7MgkWfEh348t9) - free park gym... do some pull ups bro...
-- [Belgrade Waterfront](https://maps.app.goo.gl/PTcxMgocf6i5R9eU7) - riverside strip of bars & restaurants and the
-  impressive Galerija Mall:
-- [Galerija](https://maps.app.goo.gl/fGvsLrLWBj5WLg3x5) - large upmarket Dubai-style mall full of designer brands,
-  gentrified coffee shops, and bars & restaurants along the outside on the Belgrade Waterfront by the river
-- [UŠĆE Shopping Center](https://maps.app.goo.gl/WMhEiKkdt3RnwMMk9) - good sized mall with the usual international
-  designer brands, a 10 min ride from the center of Belgrade by free buses
-- [Delta City](https://maps.app.goo.gl/gPircoSQvsmSrtLo9) - large mall with usual brands and food court, a little
-  further West of the center
-- [Big Fashion](https://maps.app.goo.gl/hLZRFyJ5qa4adsZE8) - big mall on the outskirts, luckily the buses and trams are
-  free and make it easy to get to!
 
 I __don't__ recommend:
 
@@ -382,6 +385,13 @@ TODO:
 - [Sushirrito Belgrade Waterfront](https://maps.app.goo.gl/NnusMUrEHaqX54bLA) - 4.8 sushi
 - [Nocciola Gelato](https://maps.app.goo.gl/fwy61tQzDr9YHvLd6) - 4.9 ice cream
 - [Palačinkarnica Mlađen](https://maps.app.goo.gl/GT3xFftXbU8wD6Bs7) - 4.9 pancakes
+
+### Groceries in Belgrade
+
+- [Idea - Cara Dušana (Dorćol)](https://maps.app.goo.gl/B8s5oUD8JftWZmiUA) - 24 hour supermarket
+- [Idea - Kralja Milana](https://maps.app.goo.gl/RebkMZZ68m5G9wMs8) - 24 hour supermarket
+- [Idea - London](https://maps.app.goo.gl/pXHyku4U2qQd2mAf6) - 24 hour supermarket
+- [Maxi](https://maps.app.goo.gl/xd23wydYuSibNsJK9) - 24 hour supermarket on side road adjacent to the main high street
 
 ## Novi Sad
 
