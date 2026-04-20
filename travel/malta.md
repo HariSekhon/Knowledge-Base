@@ -45,7 +45,8 @@ You can catch a selection of buses from opposite the airport exit, or take a tax
 
 ## Buses in Malta
 
-Buses in Malta are typically €2 - €3 for a single fare and accept contactless card payments.
+Buses in Malta are typically €2 - €3 for a single fare (€2 - €2.60 between areas depending on distance, €3 for airport
+buses) and they all accept contactless card payments.
 
 The stand in Malta airport will try to sell you a 4 day or 7 day pass for €27 but unless you are taking the bus every
 day it's probably not worth it.
