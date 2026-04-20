@@ -8,7 +8,7 @@
 - [ATMs in Colombia](#atms-in-colombia)
 - [Bogota](#bogota)
   - [Best Areas to Stay in Bogota](#best-areas-to-stay-in-bogota)
-  - [Bogota EL Dorado Airport](#bogota-el-dorado-airport)
+  - [Bogota EL Dorado Airport - BOG](#bogota-el-dorado-airport---bog)
   - [Travel Between Bogota El Dorado Airport and Bogota](#travel-between-bogota-el-dorado-airport-and-bogota)
   - [Restaurants in Bogota](#restaurants-in-bogota)
 - [Travel Between Bogota and Medellin](#travel-between-bogota-and-medellin)
