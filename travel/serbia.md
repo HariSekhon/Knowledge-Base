@@ -13,10 +13,17 @@
 
 <!-- INDEX_END -->
 
+## Summary
+
+Landlocked in the middle of the Balkans, Serbia is the biggest Balkan country by population.
+
 I used the [Airalo](https://www.airalo.com/) e-sim data only for $14 for 5GB valid for 30 days.
 
 On subsequent visits I've used the [Nomad](https://www.getnomad.app/) e-sim
 as it was cheaper - 1GB or 3GB for £3.38 or £6.76, respectively.
+
+On my 4th time in Belgrade I stumbled across an MTS stall in airport arrivals selling 50GB for 10 days for only 500 RSD
+(€4.20) - which is by far the best deal so went with that instead. Just beware it takes at least 15 minutes to activate.
 
 ## Indoor Smoking, Outdoor Smoking, Smoking Everywhere in Serbia
 
@@ -73,7 +80,17 @@ didn't  work, and nor did jump cabling from a truck.
 
 ## Belgrade
 
-### Buses in Belgrade & Nikola Tesla Airport
+The largest city in the Balkans and the best connected, it has a good amount of shops and restaurants as well as malls.
+
+I appreciate Belgrade even more now after seeing the rest of the Balkans.
+
+### Nikola Tesla Airport - BEO
+
+A decent sized airport with public transport via buses.
+
+Has free wifi.
+
+### Buses in Belgrade
 
 Buses became free in Belgrade in 2025!!!
 
@@ -88,7 +105,7 @@ twice the price. See the [Taxis in Serbia](#taxis-in-serbia) section above for t
 My travel buddy rode the buses all day around Belgrade when he discovered this and then took me to a bigger mall on the
 outskirts.
 
-<!--
+Use Google Maps to get to where you want to go and beware the 607 veers off to South Belgrade not the city centre.
 
 ### Hostels in Belgrade
 
@@ -114,8 +131,6 @@ TODO:
 
 - [Hidden Gem Hostel](https://maps.app.goo.gl/52LY2TqBehMoLTmq6) - my travel buddy tried it, said it was too small and
   that he preferred Good People Hostel above
-
--->
 
 ### Restaurants in Belgrade
 
@@ -215,7 +230,9 @@ The lower end is typically about half that.
 - [Boutique #2](https://maps.app.goo.gl/1svhc4v3bq3aAwfh7) - prime location sister restaurant to Boutique 1 on the main
   high street at the Belgrade Fortress end for drinks or food on the main parade, very popular and good menu.
   Open late until 12-1am this is one of the latest places open on the main high street
-- [Trattoria Pepe](https://maps.app.goo.gl/gdP9dLWxAVzGYEdV6) - excellent Italian 5 minutes walk from the centre - worth the walk
+- [Trattoria Pepe](https://maps.app.goo.gl/gdP9dLWxAVzGYEdV6) - good Italian 5 minutes walk from the centre - worth the walk.
+  The spaghetti frutti de mare (seafood) was good, although the lasagna was pretty average.
+  Has wifi
 - [Kafana Suvobor](https://maps.app.goo.gl/PqQ4iuStYhSz1EnGA) - good Serbian restaurant in the district the locals eat,
   5 minutes walk off the main high street.
   The bread came warm and combined with the ajvar red pepper dip starter was decent.
