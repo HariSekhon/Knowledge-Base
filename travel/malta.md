@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Malta Airport - MLA](#malta-airport---mla)
 - [Best Areas to Stay in Malta](#best-areas-to-stay-in-malta)
 - [Travel from the Airport](#travel-from-the-airport)
 - [Buses in Malta](#buses-in-malta)
@@ -17,6 +18,15 @@
 ## Summary
 
 A nice tourist oriented island in the mid Mediterranean.
+
+## Malta Airport - MLA
+
+This airport is somewhat small, but then so is the island.
+
+There are a few restaurants and tourist shops past the departure security checks, but not much before it.
+
+I didn't see any water dispensers outside toilets but then they allow through 2 litres of liquids so didn't confiscate
+my water.
 
 ## Best Areas to Stay in Malta
 
