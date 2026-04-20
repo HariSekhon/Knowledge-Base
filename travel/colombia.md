@@ -114,12 +114,8 @@ Apparently it rains here a lot.
 
 Wifi at Bogota airport only gives 30 minutes free and it requires lots of personal captcha details.
 
-There are a good selection of cafes and shops before security and a good selection past security too.
-
-There were water coolers apparently but I forgot to refill as I had to run for the plane
-(the flight to Quito, Ecuador, wasn't busy and the gate was marked as closed and I was the last one when I got there
-3 minutes late, I nearly got left behind).
-3rd time through here on the way up to the caribbean I made sure to refill this time!
+There are a good selection of cafes and shops before security and a good selection past security too, and
+water coolers outside the toilets.
 
 There is a section of restaurants at the far end of terminal A, including Guy's Burger Joint -
 which is surprisingly expensive - a place that does pizzas (ok and reasonable price),
