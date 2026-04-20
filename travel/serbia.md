@@ -2,11 +2,14 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
 - [Indoor Smoking, Outdoor Smoking, Smoking Everywhere in Serbia](#indoor-smoking-outdoor-smoking-smoking-everywhere-in-serbia)
 - [Taxis in Serbia](#taxis-in-serbia)
 - [Driving in Serbia](#driving-in-serbia)
 - [Belgrade](#belgrade)
-  - [Buses in Belgrade & Nikola Tesla Airport](#buses-in-belgrade--nikola-tesla-airport)
+  - [Nikola Tesla Airport - BEO](#nikola-tesla-airport---beo)
+  - [Buses in Belgrade](#buses-in-belgrade)
+  - [Hostels in Belgrade](#hostels-in-belgrade)
   - [Restaurants in Belgrade](#restaurants-in-belgrade)
 - [Novi Sad](#novi-sad)
 - [Nis](#nis)
@@ -120,7 +123,7 @@ I like:
 
 TODO:
 
-- [Good People Hostel ](https://maps.app.goo.gl/faWhbVnstLj3hWii6) - liked by my travel buddy and a girl I met
+- [Good People Hostel](https://maps.app.goo.gl/faWhbVnstLj3hWii6) - liked by my travel buddy and a girl I met
   travelling who stayed there
 - [The Traveling Theater Hostel](https://maps.app.goo.gl/Qo6NaCErN38HTY8K7)
 - [Pop Art Rooms](https://maps.app.goo.gl/hUHokqpm8vAknrZh6) - a little more expensive but very stylish interior and
