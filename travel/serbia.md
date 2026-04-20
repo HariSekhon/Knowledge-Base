@@ -20,7 +20,10 @@
 
 ## Summary
 
-Landlocked in the middle of the Balkans, Serbia is the biggest Balkan country by population.
+[Serbia](https://maps.app.goo.gl/uXaipRLR6qp6JdC69) is a landlocked in the middle of the Balkans.
+
+It is the biggest Balkan country by population and uses the Serbian Dinar
+(RSD) which has an exchange rate of about 100 per \$1.
 
 I used the [Airalo](https://www.airalo.com/) e-sim data only for $14 for 5GB valid for 30 days.
 
