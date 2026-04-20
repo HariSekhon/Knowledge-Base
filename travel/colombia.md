@@ -102,10 +102,9 @@ The best areas to stay in Bogota are the touristy areas:
 - [Zona T](https://maps.app.goo.gl/WHpYx3ZKv2XZjKva7)
 - [El Chicó](https://maps.app.goo.gl/tdNXfQwNjwZRi9Zn8)
 
-### Bogota EL Dorado Airport
+### Bogota EL Dorado Airport - BOG
 
-Bogota Airport seems smaller than Medellin airport
-but it is a major travel hub
+Bogota Airport seems smaller than Medellin airport but it is a major travel hub
 and I've had to get connecting flights through it a couple times in addition to visiting Bogota itself.
 
 It was raining and there was a gap between the plane stairs and the building canopy,
