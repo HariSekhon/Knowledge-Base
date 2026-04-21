@@ -35,7 +35,7 @@ On my 4th time in Belgrade I stumbled across an MTS stall in airport arrivals se
 
 ## Indoor Smoking, Outdoor Smoking, Smoking Everywhere in Serbia
 
-It is still legal to smoke indoors in Serbia.
+Serbia has a high rate of smoking and it is still legal to smoke indoors here.
 
 This really isn't the EU.
 
@@ -52,6 +52,11 @@ You have to feel sorry for the Serbian wait staff subjected to second-hand smoke
 Quite shocking that Serbia permits this.
 
 I've asked the locals about this and they said there are a couple non-smoking venues *"but nobody goes there"*.
+
+I remember when I come back to Serbia because I'm trying to dodge people smoking at the bus stop or walking in front of
+me, everywhere I go.
+
+[![Smoking Rate](https://ourworldindata.org/grapher/share-of-adults-who-smoke.svg?tab=line&country=SRB~OWID_EUR~OWID_WRL~GBR&mapSelect=SRB~OWID_EUR)](https://ourworldindata.org/grapher/share-of-adults-who-smoke?tab=line&country=SRB~OWID_EUR~OWID_WRL~GBR&mapSelect=SRB~OWID_EUR)
 
 ## Taxis in Serbia
 
