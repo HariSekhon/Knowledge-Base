@@ -1,6 +1,26 @@
 # Hungary
 
-## Avoid northern counties
+<!-- INDEX_START -->
+
+- [Summary](#summary)
+- [Avoid Northern Counties](#avoid-northern-counties)
+- [Taxis in Hungary](#taxis-in-hungary)
+- [Motorway Tolls - Vignettes in Hungary](#motorway-tolls---vignettes-in-hungary)
+- [Budapest](#budapest)
+  - [Metro in Budapest](#metro-in-budapest)
+  - [Restaurants in Budapest](#restaurants-in-budapest)
+- [Debrecen](#debrecen)
+- [Gyor](#gyor)
+- [Szolnok](#szolnok)
+- [Szeged](#szeged)
+
+<!-- INDEX_END -->
+
+## Summary
+
+Hungary is a central European country, the jewel of which is its capital Budapest.
+
+## Avoid Northern Counties
 
 Do not drive through the north Hungarian counties, there are serious ghettos that feel very unsafe:
 
