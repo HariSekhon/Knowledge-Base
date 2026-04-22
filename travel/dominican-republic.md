@@ -76,7 +76,8 @@ That 1000 dominican pesos (\$16.40) advertised on the menu is actually (\$21) wh
 Many of the better healthier food like steaks and seafood often cost 2000-3000+ DOP (\$32 - \$50) + 28% = 3840 DOP
 (\$63) as of March 2026.
 
-I surprised me that even seafood is expensive front since this is an island, you'd think they'd have affordable seafood.
+It surprised me that even seafood is expensive front since this is an island, you'd think they'd have affordable
+seafood.
 
 ## Service & Attitudes
 
