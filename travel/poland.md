@@ -70,7 +70,7 @@ This is also a big problem if you miss your transfer flight, as I did on the way
 
 #### Metro in Warsaw
 
-The metro is both good and cheap and recommended by locals.
+The metro is both good and cheap, and recommended by locals.
 
 #### Parking in Warsaw
 
