@@ -82,7 +82,7 @@ Parking is free in the centre from 8pm, which is convenient for dinner.
 - [Old Town](https://maps.app.goo.gl/uH5f1tcNtLhBKGYF7) dating back to 13th - 14th centuries
   - [Krakowskie Przedmiescie Street](https://maps.app.goo.gl/X5MmTuZoc2oPLe5d9)
 - [Vistula Boulevard](https://maps.app.goo.gl/Td42QY1y4u773Dk8A) - riverside boulevards busy in summer
-  - Copernicus Science Centre - an _"experimentarium"_ and a planetarium
+  - [Copernicus Science Centre](https://maps.app.goo.gl/vVEP9YEZ36PexHQv7) - an _"experimentarium"_ and a planetarium
 - Chopin Trail of the famous composer, Chopin Museum, Royal Lazienki Park where Chopin Concerts are held nex to Chopin's
   monument
 - Maria Sklodowska-Curie path for the famous scientist
