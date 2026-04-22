@@ -109,9 +109,10 @@ Note: people in DR call passionfruit _"chinola"_ instead of maracuya like most o
 
 ## Population
 
-The population is mainly african descended or african-mix and the birth rate is nearly double that of Europeans.
+The population is mainly african descended or african-mix and the birth rate is nearly double that of Europeans,
+although the gap used to be even worse than that:
 
-[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~DOM)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~DOM)
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~DOM~UN_EUR)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~DOM~UN_EUR)
 
 Although the birth rate has come down from 8 children per woman to 2.2,
 it's still nearly double that of Europeans, and
