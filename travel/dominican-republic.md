@@ -92,8 +92,8 @@ this country.
 When getting mean mugged passing by local africans,
 another traveller a bit more familiar with the DR made the observation
 that some of the less reputable local looking people are likely actually immigrants from the neighbouring Haiti,
-a country which is notoriously higher crime which I decided to skip on my Caribbean tour after a discussion with a local
-native taxi driver in [Curacao](curacao.md).
+a country which is notoriously higher crime which I decided to skip on my Caribbean tour after being warned about it in
+a discussion with a local native taxi driver in [Curacao](curacao.md).
 
 ## Spanish Crash Course
 
