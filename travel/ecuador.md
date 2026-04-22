@@ -49,15 +49,18 @@ Virgin of the Panecillo.
   It might be better to stay here and visit the centre during the day as there is nothing going on in the centre in the
   evening anyway
 
-<!--
+<!-- -->
 
-Viajero was good but no kitchen.
-Its restaurant was reasonably priced though at \$8 for a burger & fries,
-and there is a water cooler in reception and a water tap in tha bar, which has a pool table.
+- [Viajero](https://maps.app.goo.gl/CiKJV8UQ9StNaW2H9) - was good but had no kitchen.
+  Its restaurant was reasonably priced though at \$8 for a burger & fries,
+  and there is a water cooler in reception and a water tap in tha bar, which has a pool table.
+  Has wifi
 
-Alternatives: Secret Garden, Colonial House Inn and Hostel Revolution seem to be the best places to stay here.
+Alternatives - these seem to be the other best places to stay here:
 
--->
+- Secret Garden
+- Colonial House Inn
+- Hostel Revolution
 
 ### Attractions in Quito
 
