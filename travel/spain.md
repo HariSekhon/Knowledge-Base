@@ -12,6 +12,7 @@
     - [Travel to / from Madrid Airport](#travel-to--from-madrid-airport)
   - [Metro in Madrid](#metro-in-madrid)
   - [Best Areas to Stay in Madrid](#best-areas-to-stay-in-madrid)
+  - [ATMs in Madrid](#atms-in-madrid)
   - [Attractions in Madrid](#attractions-in-madrid)
   - [Restaurants in Madrid](#restaurants-in-madrid)
 - [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
@@ -166,6 +167,10 @@ doesn't look like you can pay for a journey without one.
 - [Chamartín](https://maps.app.goo.gl/u3awifaFxWQN4XBY6) - upmarket residential area in north Madrid, a bit of a long
   1 hour walk, so take the metro if staying here or Tetuan
 - [Tetuán](https://maps.app.goo.gl/AKGSRjMk9EfwgUrc9) - adjacent west of Chamartín
+
+### ATMs in Madrid
+
+**Do not use BBVA ATMs - I got robbed for €7 withdrawal fee from one using a UK card.**
 
 ### Attractions in Madrid
 
