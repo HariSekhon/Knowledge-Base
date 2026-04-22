@@ -42,7 +42,7 @@ only one or two of the most tourist trap ones were open using generators.
 The currency is the Dominican peso which, as of March 2026, is roughly 60 per \$1 or 80 per \£1 -
 these exchange rates sound good until you see main dishes priced at 2000 pesos.
 
-Dominican Republic is in my opinion poor value for money in both accommodation and restaurants in the global scheme of
+Dominican Republic is, in my opinion, poor value for money in both accommodation and restaurants in the global scheme of
 the things compared to many other countries in hindsight after having travelled to many dozens of countries.
 
 Travel advice is clearly propaganda - it's not even cheap here like South East Asia as things are Western tourist priced
