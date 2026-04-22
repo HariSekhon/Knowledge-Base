@@ -3,6 +3,8 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Areas to Avoid](#areas-to-avoid)
+- [Crime in Ecuador](#crime-in-ecuador)
 - [Quito](#quito)
   - [Taxis in Quito](#taxis-in-quito)
   - [Best Areas to Stay in Quito](#best-areas-to-stay-in-quito)
@@ -17,7 +19,6 @@
   - [Taxis in Montanita](#taxis-in-montanita)
   - [Attractions in Montanita](#attractions-in-montanita)
   - [Restaurants in Montanita](#restaurants-in-montanita)
-- [Areas to Avoid](#areas-to-avoid)
 
 <!-- INDEX_END -->
 
@@ -26,6 +27,21 @@
 Uses the US Dollar as the currency.
 
 I used Nomad e-sim in Ecuador as it was the cheapest for 1GB for 7 days.
+
+## Areas to Avoid
+
+- [Guayaquil](https://maps.app.goo.gl/sKyk8aQzUBjabaZ4A) - widely regarded as dangerous by people I spoke to -
+  supported by stats -
+  it is ranked 3rd most dangerous city in Latin America for violence by non-state armed groups'
+  (gangs / drug cartels) in 2024, behind only Rio de Janeiro and Salvador in Brazil.
+  Homocide rate in Ecuador went from a low 6.7 per 100,000 people in 2019 to 44.5 per 100,000 by 2023 due to the rise of
+  gangs and drug cartels partnered with Mexican cartels to push 70% of global US cocaine through Ecuadorian ports
+
+## Crime in Ecuador
+
+Seriously, avoid Guayaquil.
+
+[![Homicide Rate](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&country=GBR~UN_EUR~Eastern+Asia+%28UN%29~ECU&mapSelect=HTI~GBR)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&country=GBR~UN_EUR~Eastern+Asia+%28UN%29~ECU&mapSelect=HTI~GBR)
 
 ## Quito
 
@@ -289,12 +305,3 @@ TODO:
   evenings I went
 - [Los Helechos](https://maps.app.goo.gl/ZnghiuZazzABuw6j9) - 4.9 but few reviews
 - [Juancho Panza](https://maps.app.goo.gl/kdUsMDN5ra5CdvtP7) - 4.8 but unhealthy porky style
-
-## Areas to Avoid
-
-- [Guayaquil](https://maps.app.goo.gl/sKyk8aQzUBjabaZ4A) - widely regarded as dangerous by people I spoke to -
-  supported by stats -
-  it is ranked 3rd most dangerous city in Latin America for violence by non-state armed groups'
-  (gangs / drug cartels) in 2024, behind only Rio de Janeiro and Salvador in Brazil.
-  Homocide rate in Ecuador went from a low 6.7 per 100,000 people in 2019 to 44.5 per 100,000 by 2023 due to the rise of
-  gangs and drug cartels partnered with Mexican cartels to push 70% of global US cocaine through Ecuadorian ports
