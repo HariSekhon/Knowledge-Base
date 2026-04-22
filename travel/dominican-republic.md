@@ -37,7 +37,7 @@ with better food and culture, and similar weather / beaches.
 
 The first night there was a nearly 24 hour power cut in Santo Domingo,
 many of the restaurants in the area were closed as they didn't have power,
-only one or two of the most tourist trap ones were open off generators.
+only one or two of the most tourist trap ones were open using generators.
 
 The currency is the Dominican peso which is as of March 2026 roughly 60 per \$1 or 80 per \£1 -
 these exchange rates sound good until you see main dishes priced at 2000 pesos.
