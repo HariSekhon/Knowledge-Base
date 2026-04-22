@@ -139,7 +139,7 @@ I don't remember the last time I paid that much for a taxi except for London.
   The homemade apple pie with vanilla ice cream is ok but not sure it's worth 18 XCG.
   WiFi on the terrace was a bit unreliable so no speed test succeeded
 - [La Bohème Curaçao](https://maps.app.goo.gl/swCDFKELm9pXzW73A) - popular restaurant in Punda and for good reason, the
-  food is decent and its one of the most reasonably priced in this tourist trap area.
+  food is decent and it's one of the most reasonably priced in this tourist trap area.
   In the evenings it's common for people to wait some time for a table to become available.
   The menu is quite versatile with a good range of options, a whole page breakfast menu as well as lunch and dinner
   pages.
