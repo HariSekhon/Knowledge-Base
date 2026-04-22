@@ -92,8 +92,9 @@ Parking is free in the centre from 8pm, which is convenient for dinner.
 - The Papal Trail of John Paul II:
   - [Statue of John Paul II](https://maps.app.goo.gl/jHGyZFfRRq7t2YVn8)
 - [Palace of Culture and Science](https://maps.app.goo.gl/6LQhDTpAmWMXYbGF7)
-- defensive walls dating back to 13-16th centuries and rebuilt after WWII
-  - The Barbican - perfectly preserved fortification now houses a permanent exhibition of the Museum of Warsaw
+- Defensive walls dating back to 13-16th centuries and rebuilt after WWII:
+  - [The Barbican](https://maps.app.goo.gl/JHC2bqiQm5HGUuT99) - perfectly preserved fortification now houses a permanent
+    exhibition of the Museum of Warsaw
 - rooftop garden of Warsaw University Library in Powisle district
 - Kampinos National Park - contains moose, wolves, beavers, badgers and lynxes. Can be explored on foot, by bike or on
   horseback
