@@ -143,7 +143,7 @@ I don't remember the last time I paid that much for a taxi except for London.
   In the evenings it's common for people to wait some time for a table to become available.
   The menu is quite versatile with a good range of options, a whole page breakfast menu as well as lunch and dinner
   pages.
-  The coconut pancakes breakfast is actually just one large round thick fluffy pancake with fruit, a side red fruit
+  The coconut pancakes breakfast is actually just one large round thick fluffy pancake with fruit, a side of red fruit
   sauce, and honey pourer.
   The mahi ceviche was just right, a mid sized bowl and heavy on the tiger milk, with 3 plantain tostadas.
   The ceviche had sold out the first time I went here so tried the Karni Stoba traditional beef stew but that was
