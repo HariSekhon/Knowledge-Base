@@ -78,10 +78,10 @@ Parking is free in the centre from 8pm, which is convenient for dinner.
 
 #### Attractions in Warsaw
 
-- Royal Castle & Castle Square - 17th century
-- Old Town dating back to 13th - 14th centuries
-  - Krakowskie Przedmiescie Street
-- Vistula - riverside boulevards busy in summer
+- [Royal Castle & Castle Square](https://maps.app.goo.gl/w2n3P8CiT9iZhJNr7) - 17th century
+- [Old Town](https://maps.app.goo.gl/uH5f1tcNtLhBKGYF7) dating back to 13th - 14th centuries
+  - [Krakowskie Przedmiescie Street](https://maps.app.goo.gl/X5MmTuZoc2oPLe5d9)
+- [Vistula Boulevard](https://maps.app.goo.gl/Td42QY1y4u773Dk8A) - riverside boulevards busy in summer
   - Copernicus Science Centre - an _"experimentarium"_ and a planetarium
 - Chopin Trail of the famous composer, Chopin Museum, Royal Lazienki Park where Chopin Concerts are held nex to Chopin's
   monument
