@@ -17,6 +17,9 @@ a discussion with a local native taxi driver in [Curacao](curacao.md) previous t
 Given that it is a 3rd world country, and I'd just had enough of 3rd world countries devoid of IQ, looks, genetics
 and quality civilization at this point on my world tour, I decided to skip this one and hasten by return to Europe instead.
 
+I have, since returning to Europe, seen a YouTube video criticising Haiti and comparing it to other African countries
+with similar problems in both development and maintenance of an inherited country.
+
 I have no plans to visit Haiti in the foreseeable future for any reason.
 
 ## Crime in Haiti
