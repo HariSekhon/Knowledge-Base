@@ -147,7 +147,7 @@ I don't remember the last time I paid that much for a taxi except for London.
   sauce, and honey pourer.
   The mahi ceviche was just right, a mid sized bowl and heavy on the tiger milk, with 3 plantain tostadas.
   The ceviche had sold out the first time I went here so tried the Karni Stoba traditional beef stew but that was
-  surprisingly mediocre, in both portion and flavour, especially for 20 XCG ($10), so I don't recommend that one.
+  surprisingly mediocre, in both portion and flavour, especially for 20 XCG ($11), so I don't recommend that one.
   The La Boheme XL tenderloin burger is large, and good value on a money-for-calorie basis,
   with fried egg and cheese inside it alone with large sliced beef chunks, although I've had better.
   I ran out of time but they also have a lomo saltado, although that's best done in Peru.
