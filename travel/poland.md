@@ -83,8 +83,10 @@ Parking is free in the centre from 8pm, which is convenient for dinner.
   - [Krakowskie Przedmiescie Street](https://maps.app.goo.gl/X5MmTuZoc2oPLe5d9)
 - [Vistula Boulevard](https://maps.app.goo.gl/Td42QY1y4u773Dk8A) - riverside boulevards busy in summer
   - [Copernicus Science Centre](https://maps.app.goo.gl/vVEP9YEZ36PexHQv7) - an _"experimentarium"_ and a planetarium
-- Chopin Trail of the famous composer, Chopin Museum, Royal Lazienki Park where Chopin Concerts are held nex to Chopin's
-  monument
+- Chopin Trail of the famous composer -
+  - [Chopin Museum](https://maps.app.goo.gl/RJ11kHm1FfQ2UvtJ6),
+  - [Royal Lazienki Park](https://maps.app.goo.gl/nCHSe65SEneYs5PL7) where Chopin Concerts are held next to
+    [Fryderyk Chopin Monument](https://maps.app.goo.gl/PvfTDnZvZWQznSVV6)
 - Maria Sklodowska-Curie path for the famous scientist
 - The Papal Trail of John Paul II
 - Palace of Culture and Science
