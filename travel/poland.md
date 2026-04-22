@@ -87,7 +87,8 @@ Parking is free in the centre from 8pm, which is convenient for dinner.
   - [Chopin Museum](https://maps.app.goo.gl/RJ11kHm1FfQ2UvtJ6),
   - [Royal Lazienki Park](https://maps.app.goo.gl/nCHSe65SEneYs5PL7) where Chopin Concerts are held next to
     [Fryderyk Chopin Monument](https://maps.app.goo.gl/PvfTDnZvZWQznSVV6)
-- Maria Sklodowska-Curie path for the famous scientist
+- Maria Sklodowska-Curie path for the famous scientist:
+  - [Maria Sklodowska-Curie Park](https://maps.app.goo.gl/EfyAZn3quQ3axtaF6)
 - The Papal Trail of John Paul II
 - Palace of Culture and Science
 - defensive walls dating back to 13-16th centuries and rebuilt after WWII
