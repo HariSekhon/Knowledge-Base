@@ -150,7 +150,8 @@ it's better to go with Uber when possible to avoid having to deal with the issue
 do more withdrawals and paying more ATM fees.
 
 The only time I noticed a significant price difference was taxis to and from the airport,
-for which Uber was significantly more expensive in the 1600 range compared to the 600-1000 range on InDrive.
+for which Uber was significantly more expensive in the 1600 range compared to the 600-1000 range on InDrive, depending
+on the time of day or night.
 
 - Uber
 - InDrive - usually cheaper than Uber.
