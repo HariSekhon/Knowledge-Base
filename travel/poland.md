@@ -95,7 +95,7 @@ Parking is free in the centre from 8pm, which is convenient for dinner.
 - Defensive walls dating back to 13-16th centuries and rebuilt after WWII:
   - [The Barbican](https://maps.app.goo.gl/JHC2bqiQm5HGUuT99) - perfectly preserved fortification now houses a permanent
     exhibition of the Museum of Warsaw
-- rooftop garden of Warsaw University Library in Powisle district
+- Rooftop garden of [Warsaw University Library](https://maps.app.goo.gl/K3HhKy2cb1X9UBTFA) in Powisle district
 - Kampinos National Park - contains moose, wolves, beavers, badgers and lynxes. Can be explored on foot, by bike or on
   horseback
 
