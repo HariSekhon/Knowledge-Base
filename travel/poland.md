@@ -96,8 +96,8 @@ Parking is free in the centre from 8pm, which is convenient for dinner.
   - [The Barbican](https://maps.app.goo.gl/JHC2bqiQm5HGUuT99) - perfectly preserved fortification now houses a permanent
     exhibition of the Museum of Warsaw
 - Rooftop garden of [Warsaw University Library](https://maps.app.goo.gl/K3HhKy2cb1X9UBTFA) in Powisle district
-- Kampinos National Park - contains moose, wolves, beavers, badgers and lynxes. Can be explored on foot, by bike or on
-  horseback
+- [Kampinos National Park](https://maps.app.goo.gl/BXETw2odi2vDGWbN6) - contains moose, wolves, beavers, badgers and
+  lynxes. Can be explored on foot, by bike or on horseback
 
 #### Restaurants in Warsaw
 
