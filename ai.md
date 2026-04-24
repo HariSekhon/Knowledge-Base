@@ -428,6 +428,8 @@ AI to return the image result to you:
 
 #### Video Clipping
 
+Turn 1 long video in 10 social media shorts:
+
 - [OpusClip](https://www.opus.pro/)
 
 #### Video Generation
