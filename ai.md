@@ -50,6 +50,8 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 - [Visual](#visual)
   - [Image](#image)
   - [Video](#video)
+    - [Video Clipping](#video-clipping)
+    - [Video Generation](#video-generation)
     - [Search Inside Video](#search-inside-video)
   - [Presentation](#presentation)
     - [Gamma](#gamma)
@@ -424,10 +426,15 @@ AI to return the image result to you:
 
 ### Video
 
-Video generation AIs:
+#### Video Clipping
+
+- [OpusClip](https://www.opus.pro/)
+
+#### Video Generation
 
 - [MidJourney](https://www.midjourney.com/explore?tab=video_top)
 - [InVideo AI](https://invideo.io/) - generate high production quality videos from text prompts
+- [Agent Opus](https://www.opus.pro/agent)
 - [LumaLabs Dream Machine](https://lumalabs.ai/dream-machine) - pics or video
 - [Kawping](https://www.kapwing.com/)
 - [Canva](https://www.canva.com/)
