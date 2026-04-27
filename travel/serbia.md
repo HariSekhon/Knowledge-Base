@@ -372,7 +372,7 @@ The lower end is typically about half that.
   than they used to be in 2024 as they now come in pre-pressed tiny bottles of 290ml,
   even smaller than quoted on the menu.
   I don't come here as much as I used to as a result now.
-  40/18 Mbit/s wifi
+  Wifi 40/18 Mbit/s
 
 I __don't__ recommend:
 
