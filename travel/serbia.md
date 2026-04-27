@@ -297,7 +297,8 @@ The lower end is typically about half that.
   - [Curry Souls in Obilićev venac](https://maps.app.goo.gl/jEzrzNh75eYhzYdG8) - is just off the main high street and
     has good outdoor seating for summer, with the same menu
 - [Oskar](https://maps.app.goo.gl/xtbibPCagq1qP5jCA) - good quality restaurant, a few minutes off the beaten track
-  (usually better finds because they survive on foot and not tourist trap). 43/31 Mbit/s wifi
+  (usually better finds because they survive on foot and not tourist trap).
+  Wifi 43/31 Mbit/s
 - [Burger House Bros Centar](https://maps.app.goo.gl/C5FyhgFp16gPN11H9) - very good burger restaurant
 - [Sticky Finger’s Burgers](https://maps.app.goo.gl/GupAPtdZT2hgSWxA9) - gourmet burgers, gourmet prices.
   Unfortunately due to only having 4-5 tables when someone starts smoking there it ruins the experience,
@@ -308,7 +309,8 @@ The lower end is typically about half that.
 - [Velika Skadarlija](https://maps.app.goo.gl/jHfCipxrNiK4Bzg66) - good restaurant with great outdoor seating area, with
   the odd plug if you need it
 - [Restoran Kosmaj](https://maps.app.goo.gl/9QK4fMvPjWVTVyZW7) - on the main road, but the food was good
-  eg. beef goulash with mash was decent, less salty than Oskar but a bit more fat on the beef. 12/2 Mbit/s wifi
+  eg. beef goulash with mash was decent, less salty than Oskar but a bit more fat on the beef.
+  Wifi 12/2 Mbit/s
 - [Burgos - Premium Burger Bar](https://maps.app.goo.gl/PHEvHFbcsdyYANvb7) - good quality but burger bar.
   “Serbian gourmet” burger came stacked 4inches tall for 840rsd (€7), and the fries were skinny but hot and fresh for
   240rsd (€2). The sweet potato fries were also good for 320rsd (€2.70). The dips are charged but good sized portions,
@@ -327,7 +329,8 @@ The lower end is typically about half that.
     breakfast menu even including full english breakfast.
     The Hari's Special salad is an interesting mix of salad and fruit,
     but has perhaps too many raisins, so not died food.
-    Decent but pricey due to the location. Only 5/1 Mbit/s wifi
+    Decent but pricey due to the location.
+    Wifi 5/1 Mbit/s
   - [Choco Caffe](https://maps.app.goo.gl/V5uHT5oQBejE7Y4c8) - on tourist trap street but decent, there is live music
     across the road which is plenty loud enough while sitting outside
   - [Stamevski](https://maps.app.goo.gl/jQYhSot45w6J3rTa8) - dessert restaurant with amazing looking cakes, has pistachio
@@ -344,7 +347,7 @@ The lower end is typically about half that.
   (I swapped mine for roasted sliced potatoes).
   The perch fillets of fish is recommended from the seafood section.
   The sour cherry pie and ice cream in melon desserts were nothing special and I would skip them next time.
-  18/15 Mbit/s wifi
+  Wifi 18/15 Mbit/s
 - [Protein Global 1](https://maps.app.goo.gl/hXKbairSDSifnXmB9) - good menu, juices, smoothies,
   protein shakes, eggs breakfasts (until 2pm), protein oatmeal, burgers, pasta, steaks, salads, these guys have it all.
   On a side street but people still find it.
@@ -382,7 +385,7 @@ I __don't__ recommend:
   the minced meat cevap rolls were squishy and the bunless Serbian burger was the least bad part with some onions mixed
   in. Should have gone to Burger House Bros instead and gotten a proper meat burger.
   This was so bad I left a lot of the sausages and the cevap, and went to FitBar for a protein shake instead.
-  Venue has 14/8 Mbit/s wifi
+  Wifi 14/8 Mbit/s
 - [Princess Puff](https://maps.app.goo.gl/9XMm66cCvgPzJVKm9) - local Serbian dessert pastry chain, not worth the damage
 
 TODO:
@@ -437,7 +440,7 @@ Southern city on the way from Belgrade to Sofia, Bulgaria.
 - [Kod Rajka](https://maps.app.goo.gl/U3grzPEDWyktKjNW8) - good serbian restaurant. The chicken in mushroom sauce is big
   and all chicken. The sopska salad (tomato, cucumber and onion, covered in shredded feta, is very good). The orange
   juice was sold out, and the homemade lemonade was just squeezed lemon, probably worth skipping that next time.
-  23/10 Mbit/s wifi
+  Wifi 23/10 Mbit/s
 - [Forum](https://maps.app.goo.gl/YAaV3tKqAK9MeLRQ8) - main shopping centre in Nis
 - [Javna garaža "Ambasador](https://maps.app.goo.gl/7kUXSt3Fqkj5WGH87) - the parking I use when doing stopovers in Nis
   as it's quite central and underground sheltered
