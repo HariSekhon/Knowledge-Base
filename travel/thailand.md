@@ -18,6 +18,8 @@
 
 <!-- INDEX_END -->
 
+## Summary
+
 A fast life strategy place. Lots of tattoos and marijuana coffee shops.
 
 Has pretty much everything - great food, weather, beaches, affordability,
@@ -43,8 +45,8 @@ I used True5G which has kiosks all over the airport.
 
 You can get 30 days for around £27 or 180 days for around £30.
 
-It works out slightly more expensive than Airalo but the latter one is the best price for such long durations
-and even beat my usual Airalo which is better for short term.
+It worked out slightly more expensive than Airalo for 30 days but the 180 day deal is the best price for such a long
+duration that I saw and even beat the Airalo e-sim which I was using more at that time.
 
 ## Taxis in Thailand
 
