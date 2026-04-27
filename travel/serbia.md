@@ -299,6 +299,10 @@ The lower end is typically about half that.
 - [Oskar](https://maps.app.goo.gl/xtbibPCagq1qP5jCA) - good quality restaurant, a few minutes off the beaten track
   (usually better finds because they survive on foot and not tourist trap). 43/31 Mbit/s wifi
 - [Burger House Bros Centar](https://maps.app.goo.gl/C5FyhgFp16gPN11H9) - very good burger restaurant
+- [Sticky Finger’s Burgers](https://maps.app.goo.gl/GupAPtdZT2hgSWxA9) - gourmet burgers, gourmet prices.
+  Unfortunately due to only having 4-5 tables when someone starts smoking there it ruins the experience,
+  but this is common in Serbia and not unique to this place, it's just more obvious as it's smaller.
+  WiFi 34/40 Mbit/s
 - [Casa Nova](https://maps.app.goo.gl/mPPNKEYf2M5FKnm49) - has both outdoor and a non-smoking section on the upper level
   rear section (quiet section, everybody in Belgrade seems to smoke)
 - [Velika Skadarlija](https://maps.app.goo.gl/jHfCipxrNiK4Bzg66) - good restaurant with great outdoor seating area, with
