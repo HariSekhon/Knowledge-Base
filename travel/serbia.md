@@ -35,11 +35,12 @@ On my 4th time in Belgrade I stumbled across an MTS stall in airport arrivals se
 
 ## Indoor Smoking, Outdoor Smoking, Smoking Everywhere in Serbia
 
-Serbia has a high rate of smoking and it is still legal to smoke indoors here.
+Serbia has a high rate of smoking at ~40% of adults and it is still legal to smoke indoors here unfortunately.
 
 This really isn't the EU.
 
-Unfortunately people seem to smoke a lot in Serbia.
+It can ruin your dining experiences to be forced to breath other people's smoke.
+
 I've changed tables while dinning outdoors at al fresco restaurants, only to have someone else then start smoking next
 to me at another table.
 
@@ -53,8 +54,8 @@ Quite shocking that Serbia permits this.
 
 I've asked the locals about this and they said there are a couple non-smoking venues *"but nobody goes there"*.
 
-I remember when I come back to Serbia because I'm trying to dodge people smoking at the bus stop or walking in front of
-me, everywhere I go.
+The minute I come back to Serbia I'm trying to dodge people smoking near me in the street,
+at a bus stop or in restaurants.
 
 [![Smoking Rate](https://ourworldindata.org/grapher/share-of-adults-who-smoke.svg?tab=line&country=SRB~OWID_EUR~OWID_WRL~GBR&mapSelect=SRB~OWID_EUR)](https://ourworldindata.org/grapher/share-of-adults-who-smoke?tab=line&country=SRB~OWID_EUR~OWID_WRL~GBR&mapSelect=SRB~OWID_EUR)
 
@@ -195,6 +196,11 @@ The lower end is typically about half that.
   centre), and the proscuitto & goats cheese on avocado spread toast, with roasted
   red pepper and toasted almonds were quite good, but then it should be for 940rsd (€8).
   Wifi 9/5 Mbit/s outside
+- [Dorcel Store](https://maps.app.goo.gl/tmYwjFcLV6gxBU9X9) - reasonable prices, but small juices like most of the
+  balkans. The avocado toast was good, but at a single slice of sourdough I could still eat again after it, so I had the
+  oatmeal with fruit and honey, which was cold instead of warm.
+  Next time I’d get the avocado toast with add-ons and skip the oatmeal as I prefer it warm.
+  WiFi 2/5 Mbit/s
 - [Thyme - StreetCuisine & Cocktails](https://maps.app.goo.gl/DKEt6dwnfTToc9K17) - upmarket (pricey) top 25 restaurant
   in Belgrade, prime location on the side street just off the main high street, opposite the Rajićeva Shopping Center
   and next to the Kalemegdan park and Belgrade fortress.
