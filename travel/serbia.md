@@ -360,16 +360,19 @@ The lower end is typically about half that.
   other european places giving only 200ml.
   Wifi 148/23 Mbit/s.
   [Protein Global 2](https://maps.app.goo.gl/BiMRhL4MFio9dCqk6) is further out
-- [Fit Bar](https://maps.app.goo.gl/S6nsPw9Ckj9v34Jg8) - small healthy eat place, chocolate protein porridge is good on
-    the breakfast menu but the Energizer shake is my favourite here that keeps me coming back. One of the rare no smoking
-    places in Belgrade. There are a couple of popular bars next door to here too.
-    Don't get the protein shake to take away though,
-    their takeaway cups are small 0.3l instead of the 0.4l glasses when you have it locally.
-    Both local and takeaway juice portions are smaller
-    than they used to be in 2024 as they now come in pre-pressed tiny bottles of 290ml,
-    even smaller than quoted on the menu.
-    I don't come here as much as I used to as a result now.
-    40/18 Mbit/s wifi
+- ~~[Fit Bar](https://maps.app.goo.gl/S6nsPw9Ckj9v34Jg8)~~
+  [Fit&Sweet](https://maps.app.goo.gl/Xs7xUakVXdXG3ejz6) - small healthy eat place,
+  chocolate protein porridge is good on the breakfast menu but the Energizer shake is my favourite here that keeps me
+  coming back.
+  One of the rare no smoking places in Belgrade.
+  There are a couple of popular bars next door to here too.
+  Don't get the protein shake to take away though,
+  their takeaway cups are small 0.3l instead of the 0.4l glasses when you have it locally.
+  Both local and takeaway juice portions are smaller
+  than they used to be in 2024 as they now come in pre-pressed tiny bottles of 290ml,
+  even smaller than quoted on the menu.
+  I don't come here as much as I used to as a result now.
+  40/18 Mbit/s wifi
 
 I __don't__ recommend:
 
