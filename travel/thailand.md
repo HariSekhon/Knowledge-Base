@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
 - [ATMs in Thailand - Cash is Needed](#atms-in-thailand---cash-is-needed)
 - [Mobile Internet in Thailand](#mobile-internet-in-thailand)
 - [Taxis in Thailand](#taxis-in-thailand)
