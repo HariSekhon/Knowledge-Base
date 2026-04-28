@@ -138,6 +138,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Verify Free Space](#verify-free-space)
 - [Troubleshooting](#troubleshooting)
   - [Wifi Capture Portal Not Loading](#wifi-capture-portal-not-loading)
+  - [Another Device Using Your IP](#another-device-using-your-ip)
   - [Discrepancy Between `df` and `du`](#discrepancy-between-df-and-du)
   - [Spotlight Search failing to find App](#spotlight-search-failing-to-find-app)
   - [XCodeBuild error complaining XCode only has command line tools](#xcodebuild-error-complaining-xcode-only-has-command-line-tools)
@@ -2438,6 +2439,50 @@ You can also see your DNS settings in the UI or using this more native mac comma
 ```shell
 scutil --dns
 ```
+
+### Another Device Using Your IP
+
+If you get this IP address conflict message pop-up:
+
+![Another Device Using Your IP](images/another_device_using_your_IP.png)
+
+```text
+Another device on the network is using your computer’s IP address (192.168.1.14).
+
+Try connecting again later. If you continue to have problems, change the IP address of this computer or the IP address of the other device. Contact the network administrator if you need more information.
+```
+
+This is usually caused by either a static IP address misconfiguration,
+or possibly switching between 2.4GHz and 5GHz wifi networks on the same network (although this is rare).
+
+If you're using static IP addresses,
+configure a different static IP on your device or the other device to avoid the conflict.
+
+If you're using DHCP on a Wifi network, refresh to using another IP address lease.
+
+You can try to disconnect and reconnect to the network, or release and request using the command line.
+
+Unfortunately the DHCP server (usually the wifi router) will usually re-issue you the same IP,
+resulting in the same problem.
+Rebooting the wifi router or if it's an actual DHCP server,
+restarting the DHCP service or flushing its DHCP memory would be required.
+
+Release current IP:
+
+```shell
+sudo ipconfig set en0 none
+```
+
+DHCP request new IP:
+
+```shell
+sudo ipconfig set en0 DHCP
+```
+
+If you are allocated the same IP again you may get the same pop-up error, in which case:
+
+A late ditch hack would be to simply set a different unused static IP (guess one at the end of the network block range)
+on the same DHCP network to bypass the issue and then unset it later.
 
 ### Discrepancy Between `df` and `du`
 
