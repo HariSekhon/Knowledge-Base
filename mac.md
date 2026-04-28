@@ -63,17 +63,24 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [The Screenshot.app](#the-screenshotapp)
     - [The ScreenCapture CLI](#the-screencapture-cli)
   - [Screen Recording](#screen-recording)
-  - [DNS](#dns)
-    - [Show DNS Settings](#show-dns-settings)
-    - [Set DNS Servers](#set-dns-servers)
-    - [Set DNS Search Domain](#set-dns-search-domain)
+  - [Networking](#networking)
+    - [TCP/IP](#tcpip)
+      - [Set DHCP](#set-dhcp)
+      - [Set Manual IP Address](#set-manual-ip-address)
+    - [Routing](#routing)
+      - [Show Default Gateway](#show-default-gateway)
+      - [Set Manual Default Gateway](#set-manual-default-gateway)
+    - [DNS](#dns)
+      - [Show DNS Settings](#show-dns-settings)
+      - [Set DNS Servers](#set-dns-servers)
+      - [Set DNS Search Domain](#set-dns-search-domain)
     - [Set Hostname](#set-hostname)
-    - [Flush the DNS Cache](#flush-the-dns-cache)
-  - [Network Quality](#network-quality)
-  - [Wifi](#wifi)
-    - [Get Current Wifi Network Name](#get-current-wifi-network-name)
-    - [Get Current Wifi Network Password](#get-current-wifi-network-password)
-    - [List all Configured Wifi Networks](#list-all-configured-wifi-networks)
+      - [Flush the DNS Cache](#flush-the-dns-cache)
+    - [Network Quality](#network-quality)
+    - [Wifi](#wifi)
+      - [Get Current Wifi Network Name](#get-current-wifi-network-name)
+      - [Get Current Wifi Network Password](#get-current-wifi-network-password)
+      - [List all Configured Wifi Networks](#list-all-configured-wifi-networks)
   - [Say - text-to-speech](#say---text-to-speech)
   - [Finding Files - Spotlight Search and Index Management](#finding-files---spotlight-search-and-index-management)
   - [Power Management](#power-management)
@@ -1001,15 +1008,51 @@ open -a "QuickTime Player.app"
 
 And then select `File` -> `New Screen Recording` or use shortcut `Control` + `Command` +`N`.
 
-### DNS
+### Networking
 
-#### Show DNS Settings
+#### TCP/IP
+
+##### Set DHCP
+
+```shell
+sudo ipconfig set en0 DHCP
+```
+
+##### Set Manual IP Address
+
+```shell
+sudo ipconfig set en0 MANUAL 192.168.1.2 255.255.255.0
+```
+
+#### Routing
+
+##### Show Default Gateway
+
+```shell
+netstat -rn | grep default
+```
+
+Example output:
+
+```text
+default            192.168.1.1        UGScg                 en0
+```
+
+##### Set Manual Default Gateway
+
+```shell
+sudo route add default 192.168.1.1
+```
+
+#### DNS
+
+##### Show DNS Settings
 
 ```shell
 scutil --dns
 ```
 
-#### Set DNS Servers
+##### Set DNS Servers
 
 Sometimes you want to use public DNS servers for better performance than the local DHCP given ones:
 
@@ -1027,7 +1070,7 @@ In [DevOps-Bash-tools](devops-bash-tools.md) the shell has a function `dhcpdns` 
 interfaces and remove the DNS search domains since you should inherit them from DHCP and not leak those FQDN
 searches to the internet if on public networks.
 
-#### Set DNS Search Domain
+##### Set DNS Search Domain
 
 ```shell
 sudo networksetup -setsearchdomains en0 mydomain.com
@@ -1065,14 +1108,14 @@ scutil --get ComputerName
 scutil --get LocalHostName
 ```
 
-#### Flush the DNS Cache
+##### Flush the DNS Cache
 
 ```shell
 dscacheutil -flushcache
 sudo killall -HUP mDNSResponder
 ```
 
-### Network Quality
+#### Network Quality
 
 Built-in available in macOS Monterey or later:
 
@@ -1088,15 +1131,15 @@ Responsiveness: Low (322.581 milliseconds | 186 RPM)
 Idle Latency: 204.167 milliseconds | 294 RPM
 ```
 
-### Wifi
+#### Wifi
 
-#### Get Current Wifi Network Name
+##### Get Current Wifi Network Name
 
 ```shell
 networksetup -getairportnetwork en0 | awk -F': ' '{print $2}'
 ```
 
-#### Get Current Wifi Network Password
+##### Get Current Wifi Network Password
 
 Prompts with a UI pop-up for administrative access to the system's keychain (`sudo` doesn't prevent this unfortunately):
 
@@ -1106,7 +1149,7 @@ security find-generic-password -g -w -D "AirPort network password" \
           awk -F': ' '{print $2}')"
 ```
 
-#### List all Configured Wifi Networks
+##### List all Configured Wifi Networks
 
 ```shell
 networksetup -listpreferredwirelessnetworks en0 |
