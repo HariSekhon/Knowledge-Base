@@ -14,6 +14,8 @@
   - [Restaurants in Belgrade](#restaurants-in-belgrade)
   - [Groceries in Belgrade](#groceries-in-belgrade)
 - [Novi Sad](#novi-sad)
+  - [Parking in Novi Sad](#parking-in-novi-sad)
+  - [Restaurants in Novi Sad](#restaurants-in-novi-sad)
 - [Nis](#nis)
 
 <!-- INDEX_END -->
@@ -422,6 +424,24 @@ TODO:
 Good central district of restaurants.
 
 Cheaper Airbnbs as 1.5 hour drive from Belgrade.
+
+### Parking in Novi Sad
+
+Check the street signs for the Zone details and app download QR code which took me to this website for the nSparks app:
+
+<https://parkingns.rs/nacini-placanja/mobilna-aplikacija-za-placanje-nspark/>
+
+[Apple AppStore download link](https://apps.apple.com/rs/app/nspark/id6505144660)
+
+[Android Google Play download link](https://play.google.com/store/apps/details?id=rs.parkingns.nspark&pli=1)
+
+In areas where it is not charged after 9pm,
+paying for additional hours will accumualte to the early morning time from when it does start charging again.
+
+This is important because it starts charging again at 7am
+and you don't want to have to wake up to pay at that time.
+
+### Restaurants in Novi Sad
 
 - [Petrus Caffe](https://maps.app.goo.gl/1sZJoLAsLn5Vkq6m8) - excellent restaurant, very popular with large outdoor
   seating area and excellent drinks menus, good for dining or drinks, open until midnight
