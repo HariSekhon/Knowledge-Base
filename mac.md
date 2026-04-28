@@ -1073,7 +1073,7 @@ searches to the internet if on public networks.
 ##### Set DNS Search Domain
 
 ```shell
-sudo networksetup -setsearchdomains en0 mydomain.com
+sudo networksetup -setsearchdomains Wi-Fi mydomain.com
 ```
 
 In [DevOps-Bash-tools](devops-bash-tools.md) the shell has a function `set_dns` to do this for all network interfaces to
