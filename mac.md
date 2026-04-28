@@ -2705,6 +2705,12 @@ Then order them as you want with the `Wi-Fi` network at the front so it uses the
 sudo networksetup -ordernetworkservices "Wi-Fi" "Display Ethernet" "Thunderbolt Bridge" "iPhone USB" "ProtonVPN"
 ```
 
+After that the DNS servers appeared in `/etc/resolv.conf` and `scutil --dns` output and DNS started working again.
+
+On another occasion the above didn't work,
+nor did removing the Wi-Fi profile from en0 (had to create a temp one to do this) and going back through the whole
+thing, in which case it can be a corruption of configuration registry, try a reboot.
+
 ### Discrepancy Between `df` and `du`
 
 ```shell
