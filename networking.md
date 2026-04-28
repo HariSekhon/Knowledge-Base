@@ -187,7 +187,7 @@ Example - to see only DNS traffic on port 53 (tcp or udp):
 sudo tcpdump -i en0 -nnv port 53
 ```
 
-For full pcap-filter syntax, check the man page:
+For full pcap-filter syntax, check the [pcap-filter man page](https://man7.org/linux/man-pages/man7/pcap-filter.7.html):
 
 ```shell
 man pcap-filter
