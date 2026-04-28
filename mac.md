@@ -1054,7 +1054,18 @@ scutil --dns
 
 ##### Set DNS Servers
 
-Sometimes you want to use public DNS servers for better performance than the local DHCP given ones:
+Sometimes you want to use public DNS servers for better performance than the local DHCP given ones.
+
+First you need to find the interface name, you cannot use the `en0` type notation.
+
+Find the network interfaces:
+
+```shell
+networksetup -listallnetworkservices
+```
+
+The assign the IP addresses of the DNS servers to one of those named network interfaces,
+such as the Wi-Fi network interface:
 
 ```shell
 sudo networksetup -setdnsservers Wi-Fi 4.2.2.1 4.2.2.2
@@ -1084,7 +1095,7 @@ You should see these search domains appear in the class unix file `/etc/resolv.c
 To remove DNS search domains:
 
 ```shell
-sudo networksetup -setsearchdomains en0 "Empty"
+sudo networksetup -setsearchdomains Wi-Fi "Empty"
 ```
 
 or `clear_dns_search` function in [DevOps-Bash-tools](devops-bash-tools.md) to do this for all interfaces.
