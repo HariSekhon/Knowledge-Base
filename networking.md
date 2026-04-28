@@ -8,7 +8,9 @@
 - [I2P](#i2p)
 - [Commands](#commands)
   - [Ping](#ping)
-  - [Show routing table](#show-routing-table)
+  - [Routing](#routing)
+    - [Show Linux Routing Table](#show-linux-routing-table)
+    - [Show Mac / Windows Routing Table](#show-mac--windows-routing-table)
   - [DNS lookup](#dns-lookup)
   - [Add static route](#add-static-route)
   - [Show your public IP](#show-your-public-ip)
@@ -82,15 +84,15 @@ to see if your router is passing traffic to the internet and back successfully:
 ping 4.2.2.1
 ```
 
-### Show routing table
+### Routing
 
-On Linux:
+#### Show Linux Routing Table
 
 ```shell
 route -n
 ```
 
-On Windows or Mac:
+#### Show Mac / Windows Routing Table
 
 ```shell
 netstat -rn
