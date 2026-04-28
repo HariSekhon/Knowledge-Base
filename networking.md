@@ -9,8 +9,8 @@
 - [Commands](#commands)
   - [Ping](#ping)
   - [Routing](#routing)
+    - [Show Routing Table](#show-routing-table)
     - [Show Linux Routing Table](#show-linux-routing-table)
-    - [Show Mac / Windows Routing Table](#show-mac--windows-routing-table)
   - [DNS lookup](#dns-lookup)
   - [Add static route](#add-static-route)
   - [Show your public IP](#show-your-public-ip)
@@ -86,16 +86,20 @@ ping 4.2.2.1
 
 ### Routing
 
-#### Show Linux Routing Table
+#### Show Routing Table
 
-```shell
-route -n
-```
-
-#### Show Mac / Windows Routing Table
+This works on Mac, Windows and Linux:
 
 ```shell
 netstat -rn
+```
+
+#### Show Linux Routing Table
+
+Only works on Linux:
+
+```shell
+route -n
 ```
 
 ### DNS lookup
