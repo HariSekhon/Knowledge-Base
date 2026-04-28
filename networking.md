@@ -11,8 +11,8 @@
   - [Routing](#routing)
     - [Show Routing Table](#show-routing-table)
     - [Show Linux Routing Table](#show-linux-routing-table)
+    - [Add Static Route](#add-static-route)
   - [DNS lookup](#dns-lookup)
-  - [Add static route](#add-static-route)
   - [Show your public IP](#show-your-public-ip)
   - [Software Firewall](#software-firewall)
     - [iptables](#iptables)
@@ -102,6 +102,20 @@ Only works on Linux:
 route -n
 ```
 
+#### Add Static Route
+
+[man route](https://linux.die.net/man/8/route)
+
+```shell
+route add ...
+```
+
+[man ip-route](https://man7.org/linux/man-pages/man8/ip-route.8.html)
+
+```shell
+ip route ...
+```
+
 ### DNS lookup
 
 Look up a well known public DNS address:
@@ -131,20 +145,6 @@ sudo tcpdump -i en0 -n port 53
 ```
 
 For explanation of tcpdump see the [Packet Tracing](#packet-tracing) section below.
-
-### Add static route
-
-[man route](https://linux.die.net/man/8/route)
-
-```shell
-route add ...
-```
-
-[man ip-route](https://man7.org/linux/man-pages/man8/ip-route.8.html)
-
-```shell
-ip route ...
-```
 
 ### Show your public IP
 
