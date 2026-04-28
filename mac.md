@@ -2614,6 +2614,70 @@ cat /etc/resolv.conf
 The file contents did not show any DNS servers set from the command in the above section
 (`sudo networksetup -setdnsservers ...`):
 
+You can run the more native mac command:
+
+```shell
+scutil --dns
+```
+
+and will see tha the mac resorts to the internet root DNS servers (which are not reachable due to egress filtering):
+
+```text
+DNS configuration
+
+resolver #1
+  flags    :
+  reach    : 0x00000000 (Not Reachable)
+
+resolver #2
+  domain   : local
+  options  : mdns
+  timeout  : 5
+  flags    :
+  reach    : 0x00000000 (Not Reachable)
+  order    : 300000
+
+resolver #3
+  domain   : 254.169.in-addr.arpa
+  options  : mdns
+  timeout  : 5
+  flags    :
+  reach    : 0x00000000 (Not Reachable)
+  order    : 300200
+
+resolver #4
+  domain   : 8.e.f.ip6.arpa
+  options  : mdns
+  timeout  : 5
+  flags    :
+  reach    : 0x00000000 (Not Reachable)
+  order    : 300400
+
+resolver #5
+  domain   : 9.e.f.ip6.arpa
+  options  : mdns
+  timeout  : 5
+  flags    :
+  reach    : 0x00000000 (Not Reachable)
+  order    : 300600
+
+resolver #6
+  domain   : a.e.f.ip6.arpa
+  options  : mdns
+  timeout  : 5
+  flags    :
+  reach    : 0x00000000 (Not Reachable)
+  order    : 300800
+
+resolver #7
+  domain   : b.e.f.ip6.arpa
+  options  : mdns
+  timeout  : 5
+  flags    :
+  reach    : 0x00000000 (Not Reachable)
+  order    : 301000
+```
+
 **Diagnosis**: it was an ordering problem on network interfaces.
 
 **Solution**: I put the wifi network first in the ordering.
