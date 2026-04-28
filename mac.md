@@ -1057,7 +1057,7 @@ scutil --dns
 Sometimes you want to use public DNS servers for better performance than the local DHCP given ones:
 
 ```shell
-sudo networksetup -setdnsservers en0 4.2.2.1 4.2.2.2
+sudo networksetup -setdnsservers Wi-Fi 4.2.2.1 4.2.2.2
 ```
 
 To set back to DHCP DNS servers, just clear the list:
