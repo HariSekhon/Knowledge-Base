@@ -56,6 +56,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Screenshots](#screenshots)
     - [Set Screenshot Location](#set-screenshot-location)
     - [Screenshot the Whole Screen](#screenshot-the-whole-screen)
+    - [Screenshot an Application Window](#screenshot-an-application-window)
     - [Screenshot a Selection - Drag a Rectangle](#screenshot-a-selection---drag-a-rectangle)
     - [The Screenshot.app](#the-screenshotapp)
     - [The ScreenCapture CLI](#the-screencapture-cli)
@@ -871,6 +872,15 @@ Drag the `Screenshots` directory to the left-hand Favourites panel for quick eas
 #### Screenshot the Whole Screen
 
 `Cmd` + `Shift` + `3`
+
+#### Screenshot an Application Window
+
+`Cmd` + `Shift` + `5`
+
+Then ensure `Capture Selected Window` is selected on the bar that appears and then click on the application window.
+
+This is cleaner than dragging a rectangle which may catch some other cruft captured at mac's rounded corner application
+windows.
 
 #### Screenshot a Selection - Drag a Rectangle
 
