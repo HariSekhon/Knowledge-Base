@@ -12,6 +12,7 @@
   - [Add static route](#add-static-route)
   - [Show your public IP](#show-your-public-ip)
   - [Linux - show your local IP Tables software firewall rules](#linux---show-your-local-ip-tables-software-firewall-rules)
+  - [Packet Tracing](#packet-tracing)
   - [Network Speed Test](#network-speed-test)
     - [Local Network Speed Test](#local-network-speed-test)
     - [Internet Network Speed Test](#internet-network-speed-test)
@@ -96,11 +97,25 @@ On Linux or Mac:
 host google.com
 ```
 
+or more detailed:
+
+```shell
+dig google.com
+```
+
 On Windows:
 
 ```shell
 nslookup google.com
 ```
+
+You can check your DNS requests are actually being sent using tcpdump:
+
+```shell
+sudo tcpdump -i en0 -n port 53
+```
+
+For explanation of tcpdump see the [Packet Tracing](#packet-tracing) section below.
 
 ### Add static route
 
@@ -128,6 +143,35 @@ curl ifconfig.co
 
 ```shell
 iptables -nL -line-numbers
+```
+
+### Packet Tracing
+
+To trace packets your network interface can see, use the `tcpdump` command:
+
+```shell
+sudo tcpdump -i en0 -n
+```
+
+Here `en0` is my [Mac](mac.md)'s Wifi network interface.
+
+| Switches | Description                                                                 |
+|----------|-----------------------------------------------------------------------------|
+| `-n`     | do to not resolve IP addresses                                              |
+| `-v`     | verbose mode to see protocol and flags (eg. to debug TCP syn/ack responses) |
+
+Add a "pcap filter" to only show the select type of traffic you're looking for.
+
+Example - to see only DNS traffic on port 53 (tcp or udp):
+
+```shell
+sudo tcpdump -i en0 -nnv port 53
+```
+
+For full pcap-filter syntax, check the man page:
+
+```shell
+man pcap-filter
 ```
 
 ### Network Speed Test
