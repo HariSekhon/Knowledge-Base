@@ -11,7 +11,8 @@
   - [DNS lookup](#dns-lookup)
   - [Add static route](#add-static-route)
   - [Show your public IP](#show-your-public-ip)
-  - [Linux - show your local IP Tables software firewall rules](#linux---show-your-local-ip-tables-software-firewall-rules)
+  - [Software Firewall](#software-firewall)
+    - [iptables](#iptables)
   - [Packet Tracing](#packet-tracing)
   - [Network Speed Test](#network-speed-test)
     - [Local Network Speed Test](#local-network-speed-test)
@@ -139,7 +140,11 @@ ip route ...
 curl ifconfig.co
 ```
 
-### Linux - show your local IP Tables software firewall rules
+### Software Firewall
+
+#### iptables
+
+On Linux, show your local IP Tables software firewall rules:
 
 ```shell
 iptables -nL -line-numbers
