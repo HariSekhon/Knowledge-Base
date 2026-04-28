@@ -7,6 +7,7 @@
 - [Browser Fingerprinting](#browser-fingerprinting)
 - [I2P](#i2p)
 - [Commands](#commands)
+  - [Ping](#ping)
   - [Show routing table](#show-routing-table)
   - [DNS lookup](#dns-lookup)
   - [Add static route](#add-static-route)
@@ -69,6 +70,13 @@ Invisible Internet Protocol.
 Anonymous internet network layer to route traffic through.
 
 ## Commands
+
+### Ping
+
+Check networking connectivity between devices using ping.
+
+Eg. check tiny basic ICMP packets can reach the well known public IP address of 4.2.2.1
+to see if your router is passing traffic to the internet and back successfully:
 
 ```shell
 ping 4.2.2.1
