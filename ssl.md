@@ -4,6 +4,8 @@ TODO: not ported yet
 
 <!-- INDEX_START -->
 
+- [SSL Test Domain](#ssl-test-domain)
+- [No SSL Domain](#no-ssl-domain)
 - [SSLLabs](#ssllabs)
 - [Convert Certs and Private Key to PEM format](#convert-certs-and-private-key-to-pem-format)
 - [Find the Right Intermediate Chain Certificate](#find-the-right-intermediate-chain-certificate)
@@ -26,6 +28,18 @@ TODO: not ported yet
   - [Error outputting keys and certificates](#error-outputting-keys-and-certificates)
 
 <!-- INDEX_END -->
+
+## SSL Test Domain
+
+- <https://example.com/> - maintained by IANA for sample documentation purposes
+
+## No SSL Domain
+
+Useful for getting the capture portal on wifi networks to appear.
+
+This site never uses SSL:
+
+<http://neverssl.com>
 
 ## SSLLabs
 
