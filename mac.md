@@ -1063,7 +1063,7 @@ sudo networksetup -setdnsservers Wi-Fi 4.2.2.1 4.2.2.2
 To set back to DHCP DNS servers, just clear the list:
 
 ```shell
-sudo networksetup -setdnsservers en0 "Empty"
+sudo networksetup -setdnsservers Wi-Fi "Empty"
 ```
 
 In [DevOps-Bash-tools](devops-bash-tools.md) the shell has a function `dhcpdns` to do this for all network
