@@ -2594,7 +2594,7 @@ it turned out the DNS servers were not being respected.
 Trace DNS packets in one terminal:
 
 ```shell
-tcpdump -i en0 -n port 53
+sudo tcpdump -i en0 -n port 53
 ```
 
 Run DNS lookup in another terminal:
