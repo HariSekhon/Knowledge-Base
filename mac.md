@@ -149,6 +149,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Troubleshooting](#troubleshooting)
   - [Wifi Capture Portal Not Loading](#wifi-capture-portal-not-loading)
   - [Another Device Using Your IP](#another-device-using-your-ip)
+  - [DNS Servers Not Respected](#dns-servers-not-respected)
   - [Discrepancy Between `df` and `du`](#discrepancy-between-df-and-du)
   - [Spotlight Search failing to find App](#spotlight-search-failing-to-find-app)
   - [XCodeBuild error complaining XCode only has command line tools](#xcodebuild-error-complaining-xcode-only-has-command-line-tools)
@@ -2565,6 +2566,80 @@ If you are allocated the same IP again you may get the same pop-up error, in whi
 
 A late ditch hack would be to simply set a different unused static IP (guess one at the end of the network block range)
 on the same DHCP network to bypass the issue and then unset it later.
+
+```shell
+sudo ipconfig set en0 MANUAL 192.168.1.15 255.255.255.0
+```
+
+You then also need to add a default route:
+
+```shell
+sudo route add default 192.168.1.1
+```
+
+and set the DNS to use both the router and a public DNS in case the router doesn't permit DNS egress traffic
+(this happened to me even on a residential router in Novi Sad, Serbia):
+
+```shell
+sudo networksetup -setdnsservers Wi-Fi 192.168.1.1 8.8.8.8
+```
+
+If the DNS set doesn't appear in `/etc/resolve.conf`, see the next section.
+
+### DNS Servers Not Respected
+
+**Symptom**: no outbound DNS packets being sent when doing a simple DNS lookup command,
+it turned out the DNS servers were not being respected.
+
+Trace DNS packets in one terminal:
+
+```shell
+tcpdump -i en0 -n port 53
+```
+
+Run DNS lookup in another terminal:
+
+```shell
+host google.com
+```
+
+No output from `tcpdump` in the first terminal showed nothing was being sent.
+
+Checked the contents of `/etc/resolv.conf`:
+
+```shell
+cat /etc/resolv.conf
+```
+
+The file contents did not show any DNS servers set from the command in the above section
+(`sudo networksetup -setdnsservers ...`):
+
+**Diagnosis**: it was an ordering problem on network interfaces.
+
+**Solution**: I put the wifi network first in the ordering.
+
+This is easiest done in the UI: `System Settings` -> `Network` -> `...` drop down (near the bottom right)
+-> `Set Service Order` -> Drag `Wi-Fi` to the top of the list.
+
+On the command line, you first need to find the names of the all the network services:
+
+```shell
+sudo networksetup -listnetworkserviceorder
+```
+
+and then list all of them in the ordered you want (the command fails if you only put some).
+
+To get just the clean list:
+
+```shell
+sudo networksetup -listnetworkserviceorder | awk '/^\([[:digit:]]*\)/ { $1=""; print}' | sed 's/^[[:space:]]*//'
+```
+
+Then order them as you want with the `Wi-Fi` network at the front so it uses the DNS servers from there.
+
+```shell
+sudo networksetup -ordernetworkservices "Wi-Fi" "Display Ethernet" "Thunderbolt Bridge" "iPhone USB" "ProtonVPN"
+```
 
 ### Discrepancy Between `df` and `du`
 
