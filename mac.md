@@ -57,6 +57,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Set Screenshot Location](#set-screenshot-location)
     - [Screenshot the Whole Screen](#screenshot-the-whole-screen)
     - [Screenshot a Rectangle Selection](#screenshot-a-rectangle-selection)
+      - [Drag Rectangle Screenshot](#drag-rectangle-screenshot)
+      - [Fine-Tuned Rectangle Screenshot](#fine-tuned-rectangle-screenshot)
     - [Screenshot an Application Window](#screenshot-an-application-window)
     - [The Screenshot.app](#the-screenshotapp)
     - [The ScreenCapture CLI](#the-screencapture-cli)
@@ -875,6 +877,8 @@ Drag the `Screenshots` directory to the left-hand Favourites panel for quick eas
 
 #### Screenshot a Rectangle Selection
 
+##### Drag Rectangle Screenshot
+
 Switch mouse pointer to a cross-hair:
 
 `Cmd` + `Shift` + `4`
@@ -882,6 +886,8 @@ Switch mouse pointer to a cross-hair:
 Then press down and drag a rectangular selection, release to screenshot it.
 
 (press `Esc` to abort the press down without capturing if you need to start again)
+
+##### Fine-Tuned Rectangle Screenshot
 
 A slightly more precious method is to use the screenshot bar:
 
