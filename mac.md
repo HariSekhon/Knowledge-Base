@@ -56,8 +56,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
   - [Screenshots](#screenshots)
     - [Set Screenshot Location](#set-screenshot-location)
     - [Screenshot the Whole Screen](#screenshot-the-whole-screen)
+    - [Screenshot a Rectangle Selection](#screenshot-a-rectangle-selection)
     - [Screenshot an Application Window](#screenshot-an-application-window)
-    - [Screenshot a Selection - Drag a Rectangle](#screenshot-a-selection---drag-a-rectangle)
     - [The Screenshot.app](#the-screenshotapp)
     - [The ScreenCapture CLI](#the-screencapture-cli)
   - [Screen Recording](#screen-recording)
@@ -873,22 +873,32 @@ Drag the `Screenshots` directory to the left-hand Favourites panel for quick eas
 
 `Cmd` + `Shift` + `3`
 
+#### Screenshot a Rectangle Selection
+
+Switch mouse pointer to a cross-hair:
+
+`Cmd` + `Shift` + `4`
+
+Then press down and drag a rectangular selection, release to screenshot it.
+
+(press `Esc` to abort the press down without capturing if you need to start again)
+
+A slightly more precious method is to use the screenshot bar:
+
+`Cmd` + `Shift` + `5`
+
+Ensure `Capture Selected Portion` is selected in the screenshot bar and drag the edges of the rectangle until satisfied,
+and then click the `Capture` button on the right of the screenshot bar.
+
 #### Screenshot an Application Window
 
 `Cmd` + `Shift` + `5`
 
-Then ensure `Capture Selected Window` is selected on the bar that appears and then click on the application window.
+Ensure `Capture Selected Window` is selected in the screenshot bar that appears and then click on the application
+window.
 
 This is cleaner than dragging a rectangle which may catch some other cruft captured at mac's rounded corner application
 windows.
-
-#### Screenshot a Selection - Drag a Rectangle
-
-Switches to a cross-hair to drag to what you want to screenshot.
-
-`Cmd` + `Shift` + `4`
-
-More details on Mac's native Screen Capture tool is [here](https://support.apple.com/en-ae/guide/mac-help/mh26782/mac).
 
 #### The Screenshot.app
 
@@ -909,6 +919,8 @@ or
 ```shell
 open -a Screenshot
 ```
+
+More details on Mac's native Screen Capture tool is [here](https://support.apple.com/en-ae/guide/mac-help/mh26782/mac).
 
 #### The ScreenCapture CLI
 
