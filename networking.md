@@ -104,16 +104,25 @@ route -n
 
 #### Add Static Route
 
-[man route](https://linux.die.net/man/8/route)
-
 ```shell
 route add ...
 ```
 
-[man ip-route](https://man7.org/linux/man-pages/man8/ip-route.8.html)
-
 ```shell
 ip route ...
+```
+
+Check the man pages for
+[route](https://linux.die.net/man/8/route) and
+[ip-route](https://man7.org/linux/man-pages/man8/ip-route.8.html)
+for details:
+
+```shell
+man route
+```
+
+```shell
+man ip-route
 ```
 
 ### DNS lookup
