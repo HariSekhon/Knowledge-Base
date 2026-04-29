@@ -11,6 +11,7 @@
   - [Restaurants in Budapest](#restaurants-in-budapest)
 - [Debrecen](#debrecen)
 - [Gyor](#gyor)
+- [Kecskemet](#kecskemet)
 - [Szolnok](#szolnok)
 - [Szeged](#szeged)
 
@@ -156,6 +157,20 @@ A few nice architectural bits, you probably don't need more than 1 hour to walk 
   Popular, food is a bit mediocre for the price as expected, had the venison stew with dumplings for £15,
   expected the dumplings to be better
 - [Győr, Petőfi híd Parking](https://maps.app.goo.gl/8WxsHv5hi7ts1iwp9) - free parking, a short walk from the centre
+
+## Kecskemet
+
+[Kecskemét](https://maps.app.goo.gl/bXSWMRFVMQdtnV7w9) is a small city that is ok for a stopover driving from Serbia to
+Budapest.
+
+- [Kecskeméti Csárda és Borház](https://maps.app.goo.gl/djdZHdrTWYPi2rxV7) - slightly upmarket traditional hungarian
+  restaurant.
+  The beef stew in red wine was bigger than expected with a tonne of beef, but the beef had a lot of fat on it.
+  I would get something different next time.
+  The market pickles were surprisingly decent,
+  pickled white cabbage with various other pickled vegetables including beetroot.
+  The desserts look good but the beef stew killed me so I had to skip it.
+  Wifi 95/61 Mbit/s
 
 ## Szolnok
 
