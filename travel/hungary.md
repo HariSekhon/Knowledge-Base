@@ -59,8 +59,8 @@ I would have said don't bother going outside of June -
 August as the weather was miserable even at the end of May, but on
 my 3rd time to Budapest the weather was actually ok at the end of April, you're just chancing it more.
 
-You may want to avoid the events seasons as like with the Rio Carnival accommodation was very expensive on
-Friday and Saturday nights as they radically price it up due to the increased demand.
+You may want to avoid the events season in late April - early May as like with the Rio Carnival accommodation was very
+expensive on Friday and Saturday nights as they radically price it up due to the increased demand.
 
 God bless capitalism. 😒
 
@@ -70,6 +70,8 @@ Even hostels jump from £10-20 to £50-100 per night, and get fully booked out, 
 
 There are various events from mid-April to mid-May such as the Budapest Spring Festival and Budapest Dance Festical,
 especially the May 1st Labour Day and nearby weekend.
+
+<https://www.budapestbylocals.com/may-day-in-budapest/>
 
 ### Metro in Budapest
 
