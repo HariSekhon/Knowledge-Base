@@ -69,7 +69,7 @@ Even hostels jump from £10-20 to £50-100 per night, and get fully booked out, 
 ### Budapest Events
 
 There are various events from mid-April to mid-May such as the Budapest Spring Festival and Budapest Dance Festical,
-especially the May 1st Labour Day and nearby weekend
+especially the May 1st Labour Day and nearby weekend.
 
 ### Metro in Budapest
 
