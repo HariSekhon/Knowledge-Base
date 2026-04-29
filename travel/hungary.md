@@ -59,6 +59,8 @@ I would have said don't bother going outside of June -
 August as the weather was miserable even at the end of May, but on
 my 3rd time to Budapest the weather was actually ok at the end of April, you're just chancing it more.
 
+**Avoid May 1st and surrounding days / weeks unless you want to get price gouged on those weekends to attend those events.**
+
 You may want to avoid the events season in late April - early May as like with the Rio Carnival accommodation was very
 expensive on Friday and Saturday nights as they radically price it up due to the increased demand.
 
