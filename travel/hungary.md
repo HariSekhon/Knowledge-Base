@@ -57,7 +57,7 @@ Good for a long weekend city break with the girlfriend.
 Accommodation is very expensive on Friday and Saturday nights as they radically price it up due to the increased demand.
 God bless capitalism.
 
-Even hostels jump from £10-20 to £50-100 per night, outrageous!
+Even hostels jump from £10-20 to £50-100 per night, and get fully booked out, outrageous!
 
 Don't bother going outside of June - August. The weather was miserable even at the end of May.
 
