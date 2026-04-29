@@ -54,14 +54,15 @@ Than this site:
 
 Good for a long weekend city break with the girlfriend.
 
-Accommodation is very expensive on Friday and Saturday nights as they radically price it up due to the increased demand.
+There is a May 1st Labour Day event but like with the Rio Carnival accommodation was very expensive on Friday and
+Saturday nights as they radically price it up due to the increased demand.
 God bless capitalism.
 
 Even hostels jump from £10-20 to £50-100 per night, and get fully booked out, outrageous!
 
-Don't bother going outside of June - August. The weather was miserable even at the end of May.
-
-Update: my 3rd time to Budapest the weather was actually ok at the end of April, you're just chancing it more.
+I would have said don't bother going outside of June -
+August as the weather was miserable even at the end of May, but on
+my 3rd time to Budapest the weather was actually ok at the end of April, you're just chancing it more.
 
 ### Metro in Budapest
 
