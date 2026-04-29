@@ -54,9 +54,11 @@ Than this site:
 
 Good for a long weekend city break with the girlfriend.
 
-There is a May 1st Labour Day event but like with the Rio Carnival accommodation was very expensive on Friday and
-Saturday nights as they radically price it up due to the increased demand.
-God bless capitalism.
+There is a yearly May 1st Labour Day event and series of outdoor festivals in the successive days
+but like with the Rio Carnival accommodation was very expensive on Friday and Saturday nights as they radically price
+it up due to the increased demand.
+
+God bless capitalism. 😒
 
 Even hostels jump from £10-20 to £50-100 per night, and get fully booked out, outrageous!
 
