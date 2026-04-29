@@ -7,6 +7,7 @@
 - [Taxis in Hungary](#taxis-in-hungary)
 - [Motorway Tolls - Vignettes in Hungary](#motorway-tolls---vignettes-in-hungary)
 - [Budapest](#budapest)
+  - [Budapest Events](#budapest-events)
   - [Metro in Budapest](#metro-in-budapest)
   - [Restaurants in Budapest](#restaurants-in-budapest)
 - [Debrecen](#debrecen)
@@ -54,17 +55,21 @@ Than this site:
 
 Good for a long weekend city break with the girlfriend.
 
-There is a yearly May 1st Labour Day event and series of outdoor festivals in the successive days
-but like with the Rio Carnival accommodation was very expensive on Friday and Saturday nights as they radically price
-it up due to the increased demand.
+I would have said don't bother going outside of June -
+August as the weather was miserable even at the end of May, but on
+my 3rd time to Budapest the weather was actually ok at the end of April, you're just chancing it more.
+
+You may want to avoid the events seasons as like with the Rio Carnival accommodation was very expensive on
+Friday and Saturday nights as they radically price it up due to the increased demand.
 
 God bless capitalism. 😒
 
 Even hostels jump from £10-20 to £50-100 per night, and get fully booked out, outrageous!
 
-I would have said don't bother going outside of June -
-August as the weather was miserable even at the end of May, but on
-my 3rd time to Budapest the weather was actually ok at the end of April, you're just chancing it more.
+### Budapest Events
+
+There are various events from mid-April to mid-May such as the Budapest Spring Festival and Budapest Dance Festical,
+especially the May 1st Labour Day and nearby weekend
 
 ### Metro in Budapest
 
