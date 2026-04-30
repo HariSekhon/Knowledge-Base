@@ -223,9 +223,9 @@ The lower end is typically about half that.
   The orange juice and mixed juice were good but unfortunately very small at 0.25l, seems more like 0.2l, tiny, not sure
   if worth it, or you'd have to order two of them.
   - Desserts - of the three desserts I've tried, this is the order in which I rank them:
-    - The _"Juicy, Fruity, Exotic"_ dessert was a very good fine dessert, small but full of flavours - a lime cake with thin
-  base, held in by a a white chocolate side, topped by 2 meringue bars and a small opal shaped multivitamin ice cream,
-  and passionfruit and mint sauce.
+    - The _"Juicy, Fruity, Exotic"_ dessert was a very good fine dessert, small but full of flavours - a lime cake with
+      thin base, held in by a a white chocolate side, topped by 2 meringue bars and a small opal shaped multivitamin ice
+      cream, and passionfruit and mint sauce.
     - The _"Creamy, Milky, Coconut"_ dessert is basically a rice pudding with caramel on top and coconut flakes -
   it's very good - eat it vertically for best results.
     - The poppy seed cake has a half cm thick layer of chocolate on top and a small vanilla ice cream scoop on it - this was
