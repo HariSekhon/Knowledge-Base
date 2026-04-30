@@ -12,7 +12,9 @@ Query and retrieval of JSON / XML documents with granular filtering on multiple 
 
 ## Internet Search Engines
 
-- [Presearch](https://presearch.com/) - decentralized search, you can run your own node
+- [Google](https://google.com)
+- [DuckDuckGo](https://duckduckgo.com) - search without tracking
+- [Presearch](https://presearch.com/) - decentralized search without tracking, you can run your own node
 
 ## Local Search Engines
 
