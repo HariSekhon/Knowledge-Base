@@ -458,7 +458,7 @@ and you don't want to have to wake up to pay at that time.
 - [Petrovaradin catacombs](https://maps.app.goo.gl/omUVMZaQgvVqrWbT6)
 - [Petrovaradin fortress walls viewpoint](https://maps.app.goo.gl/u8rEvPJkiNfScaEU9)
 - [Big Fashion Mall](https://maps.app.goo.gl/HkGwDVWt9Ce5DZUR6)
-- [BIG Mall](https://maps.app.goo.gl/H1gwPxNUfoD4ESTH6)
+- [BIG Mall](https://maps.app.goo.gl/H1gwPxNUfoD4ESTH6) - further out, has free open air parking
 
 ### Restaurants in Novi Sad
 
