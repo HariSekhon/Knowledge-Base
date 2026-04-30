@@ -88,6 +88,9 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 
 ## AI Discovery
 
+Find the AI tools you need for any specific purpose:
+
+- [TopAITools](https://topai.tools/)
 - [TheresAnAIForThat](https://theresanaiforthat.com/)
 
 ## Learning
