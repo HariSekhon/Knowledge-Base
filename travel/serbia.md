@@ -483,7 +483,12 @@ and you don't want to have to wake up to pay at that time.
   a bit too much sweetness for me,
   I should have gone for the raspberry lime mochi.
   WiFi 16/25 Mbits
-- [Loft Downtown](https://maps.app.goo.gl/xQdXBJek5JBX17i49) - very popular cafe & restaurant with outdoor seating
+- [Loft Downtown](https://maps.app.goo.gl/xQdXBJek5JBX17i49) - very popular cafe & restaurant with outdoor seating.
+  This is actually a chain as I've been to the one in the outer Big Mall too.
+  Has a good mix of different types of foods.
+  The beef pho soup was good, but not big.
+  The citrus mix juice was also good, but again, 300ml in a small jar.
+  Has wifi
 - [Bistro "Pastai"](https://maps.app.goo.gl/Vro8m7vM3eiKFzKn7) - a local cheap eat pasta place with good juices
 
 TODO:
