@@ -415,7 +415,8 @@ TODO:
 
 ### Groceries in Belgrade
 
-- [Maxi](https://maps.app.goo.gl/xd23wydYuSibNsJK9) - smaller 24 hour supermarket on side road adjacent to the main high street
+- [Maxi](https://maps.app.goo.gl/xd23wydYuSibNsJK9) - smaller 24 hour supermarket on side road adjacent to the main high
+  street
 - [Idea - Cara Dušana (Dorćol)](https://maps.app.goo.gl/B8s5oUD8JftWZmiUA) - bigger 24 hour supermarket chain
 - [Idea - Kralja Milana](https://maps.app.goo.gl/RebkMZZ68m5G9wMs8) - 24 hour supermarket
 - [Idea - London](https://maps.app.goo.gl/pXHyku4U2qQd2mAf6) - 24 hour supermarket
