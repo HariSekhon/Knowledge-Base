@@ -446,8 +446,20 @@ and you don't want to have to wake up to pay at that time.
 - [Petrus Caffe](https://maps.app.goo.gl/1sZJoLAsLn5Vkq6m8) - excellent restaurant, very popular with large outdoor
   seating area and excellent drinks menus, good for dining or drinks, open until midnight
 - [Kombinat](https://maps.app.goo.gl/6Z2CV3UbhZTDLAaCA) - cool late night cafe open until 11pm
+- [Tokio Sushi](https://maps.app.goo.gl/zWYG7GNBF9tXx9EA7) - good quality sushi, but international prices.
+  The Cherry Dragon Roll was decent, but not as good as it sounded.
+  Next time I would go with the Hamana-Ko Black Dragon Roll of eel and shrimp tempura.
+  The sushi lunch is more affordable, but it is not as distinctive, although the miso soup was really good.
+  The panko banana with ice cream was bigger than expected with a lot of strawberry mouse base and syrup underlying it,
+  a bit too much sweetness for me,
+  I should have gone for the raspberry lime mochi.
+  WiFi 16/25 Mbits
 - [Loft Downtown](https://maps.app.goo.gl/xQdXBJek5JBX17i49) - very popular cafe & restaurant with outdoor seating
 - [Bistro "Pastai"](https://maps.app.goo.gl/Vro8m7vM3eiKFzKn7) - a local cheap eat pasta place with good juices
+
+TODO:
+
+- [Sushirrito Dunavska](https://maps.app.goo.gl/TYS8cfMWeRk776oq9) - 4.9
 
 ## Nis
 
