@@ -15,6 +15,7 @@
   - [Groceries in Belgrade](#groceries-in-belgrade)
 - [Novi Sad](#novi-sad)
   - [Parking in Novi Sad](#parking-in-novi-sad)
+  - [Attractions in Novi Sad](#attractions-in-novi-sad)
   - [Restaurants in Novi Sad](#restaurants-in-novi-sad)
 - [Nis](#nis)
 
@@ -425,6 +426,11 @@ Good central district of restaurants.
 
 Cheaper Airbnbs as 1.5 hour drive from Belgrade.
 
+- [Brodsky's Cat Art Hostel](https://maps.app.goo.gl/BbAs1ikgFvPcMETA9) - nice, and they have a cat, but they charge for
+  parking.
+  Wifi had issues with duplicate IP address conflict (see [Mac](../mac.md) page's troubleshooting section)
+- [Passenger Hostel](https://maps.app.goo.gl/rdPTwzVV625DPyrX8)
+
 ### Parking in Novi Sad
 
 Check the street signs for the Zone details and app download QR code which took me to this website for the nSparks app:
@@ -441,11 +447,24 @@ paying for additional hours will accumualte to the early morning time from when 
 This is important because it starts charging again at 7am
 and you don't want to have to wake up to pay at that time.
 
+### Attractions in Novi Sad
+
+- [Holy Name of Mary Catholic Church](https://maps.app.goo.gl/2y8oDpwzfjYiS4vY9) - beautiful large tower church
+- [City district office](https://maps.app.goo.gl/QjYtNujwxnb2rpcR6) - beautiful architecture
+  - [Monument of Svetozar Miletić](https://maps.app.goo.gl/SYU6ZDHAtEvjg3eN6)
+- [Danube Park](https://maps.app.goo.gl/cgwa8A2QDgygr9188)
+- [Štrand](https://maps.app.goo.gl/rKayNacXecht6a496) - beach
+- [Petrovaradin Fortress Clock](https://maps.app.goo.gl/iGCGMEhiMgDdVtBL8)
+- [Petrovaradin catacombs](https://maps.app.goo.gl/omUVMZaQgvVqrWbT6)
+- [Petrovaradin fortress walls viewpoint](https://maps.app.goo.gl/u8rEvPJkiNfScaEU9)
+- [Big Fashion Mall](https://maps.app.goo.gl/HkGwDVWt9Ce5DZUR6)
+
 ### Restaurants in Novi Sad
 
 - [Petrus Caffe](https://maps.app.goo.gl/1sZJoLAsLn5Vkq6m8) - excellent restaurant, very popular with large outdoor
   seating area and excellent drinks menus, good for dining or drinks, open until midnight
 - [Kombinat](https://maps.app.goo.gl/6Z2CV3UbhZTDLAaCA) - cool late night cafe open until 11pm
+- [Kafeterija Novi Sad II](https://maps.app.goo.gl/k2Prxitbtu1xXKRB6) - popular coffee shop
 - [Tokio Sushi](https://maps.app.goo.gl/zWYG7GNBF9tXx9EA7) - good quality sushi, but international prices.
   The Cherry Dragon Roll was decent, but not as good as it sounded.
   Next time I would go with the Hamana-Ko Black Dragon Roll of eel and shrimp tempura.
