@@ -4,12 +4,17 @@ Query and retrieval of JSON / XML documents with granular filtering on multiple 
 
 <!-- INDEX_START -->
 
-- [Search Engines](#search-engines)
+- [Internet Search Engines](#internet-search-engines)
+- [Local Search Engines](#local-search-engines)
 - [Dashboards](#dashboards)
 
 <!-- INDEX_END -->
 
-## Search Engines
+## Internet Search Engines
+
+- [Presearch](https://presearch.com/) - decentralized search, you can run your own node
+
+## Local Search Engines
 
 - [Elasticsearch](elasticsearch.md) - open source, most popular
 - [Solr](solr.md) - open source, legacy
