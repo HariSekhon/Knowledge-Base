@@ -450,9 +450,14 @@ and you don't want to have to wake up to pay at that time.
 
 ### Attractions in Novi Sad
 
-- [Holy Name of Mary Catholic Church](https://maps.app.goo.gl/2y8oDpwzfjYiS4vY9) - beautiful large tower church
-- [City district office](https://maps.app.goo.gl/QjYtNujwxnb2rpcR6) - beautiful architecture
+- Central Town Square:
+  - [Holy Name of Mary Catholic Church](https://maps.app.goo.gl/2y8oDpwzfjYiS4vY9) - beautiful large tower church
+  - [City district office](https://maps.app.goo.gl/QjYtNujwxnb2rpcR6) - beautiful architecture
   - [Monument of Svetozar Miletić](https://maps.app.goo.gl/SYU6ZDHAtEvjg3eN6)
+  - [Saint George's Cathedral](https://maps.app.goo.gl/p3yz96vCTzJvuznH6)
+  - [Dormition Church](https://maps.app.goo.gl/6yPiQZ6u8bqr3ktq8)
+  - [Greek-Catholic Church of the Holy Apostles Peter and Paul](https://maps.app.goo.gl/eSXM2jxSaLEnNPtS9)
+  - [Vladicanski dvor](https://maps.app.goo.gl/rrSaZeZPdLaf77xw6)
 - [Danube Park](https://maps.app.goo.gl/cgwa8A2QDgygr9188)
 - [Štrand](https://maps.app.goo.gl/rKayNacXecht6a496) - beach
 - [Petrovaradin Fortress Clock](https://maps.app.goo.gl/iGCGMEhiMgDdVtBL8)
