@@ -6,6 +6,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 
 <!-- INDEX_START -->
 
+- [AI Discovery](#ai-discovery)
 - [Learning](#learning)
 - [Run AI with API](#run-ai-with-api)
 - [Chat LLMs](#chat-llms)
@@ -84,6 +85,10 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Trying to Keep Up With AI News](#trying-to-keep-up-with-ai-news)
 
 <!-- INDEX_END -->
+
+## AI Discovery
+
+- [TheresAnAIForThat](https://theresanaiforthat.com/)
 
 ## Learning
 
