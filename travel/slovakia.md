@@ -109,6 +109,10 @@ There are a couple of free parking lots:
   the Salmon Poke bowl was really good. They weren't on the menu I saw which was full of sushi, but I asked the waiter
   for it after seeing it on Google Maps. 47/8 Mbit/s wifi
 
+TODO:
+
+- [Soupa Breakfast & Brunch](https://maps.app.goo.gl/L1LLpE7vSZc6faV69) - 4.8
+
 ## Kosice
 
 Small city with a nice historic centre, but none of the venues I tried impressed me.
