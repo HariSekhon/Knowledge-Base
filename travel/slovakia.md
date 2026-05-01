@@ -6,6 +6,8 @@
 - [Bratislava](#bratislava)
   - [Places to Stay in Bratislava](#places-to-stay-in-bratislava)
   - [Parking in Bratislava](#parking-in-bratislava)
+  - [Buses in Slovakia](#buses-in-slovakia)
+  - [Attractions in Bratislava](#attractions-in-bratislava)
   - [Restaurants in Bratislava](#restaurants-in-bratislava)
 - [Kosice](#kosice)
 
@@ -45,6 +47,12 @@ There are a couple of free parking lots:
 
 - [Bus parkovisko](https://maps.app.goo.gl/oPXe2km6bxL1m2A49)
 - [Parkovisko - Bunker B-S 4](https://maps.app.goo.gl/YpakBgH82HLk3CLc7)
+
+### Buses in Slovakia
+
+You can use contactless payment or the IDS BK app (10% discount):
+
+<https://www.idsbk.sk/en/app/>
 
 ### Attractions in Bratislava
 
