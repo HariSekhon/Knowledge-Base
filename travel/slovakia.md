@@ -4,6 +4,8 @@
 
 - [Motorway Tolls - e-Vignettes in Slovakia](#motorway-tolls---e-vignettes-in-slovakia)
 - [Bratislava](#bratislava)
+  - [Parking in Bratislava](#parking-in-bratislava)
+  - [Restaurants in Bratislava](#restaurants-in-bratislava)
 - [Kosice](#kosice)
 
 <!-- INDEX_END -->
@@ -19,6 +21,17 @@ Use the official site rather than resellers, it's cheaper:
 ## Bratislava
 
 Bratislava is nowhere near as big as Budapest, you probably don't need more than 3 nights here.
+
+### Parking in Bratislava
+
+Like many European cities, the centres are highly zoned charge parking.
+
+There are a couple of free parking lots:
+
+- [Bus parkovisko](https://maps.app.goo.gl/oPXe2km6bxL1m2A49)
+- [Parkovisko - Bunker B-S 4](https://maps.app.goo.gl/YpakBgH82HLk3CLc7)
+
+### Restaurants in Bratislava
 
 - [Urban House](https://maps.app.goo.gl/4QMJcb3dDdDGdXhD9) - very popular highly rated bar restaurant.
   The truffle roasted chicken was good - it comes with truffle potatoes au gratin, glazed carrots, green aparagus,
