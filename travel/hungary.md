@@ -197,8 +197,9 @@ Budapest.
 
 ## Mosonmagyaróvár
 
-Small town near the Slovakian border, good for a stopover if you fancy a change from the bigger more obvious city of
-Gyor.
+Small town near the Austrian and Slovakian borders in the north west of the country.
+
+Good for a stopover if you fancy a change from the bigger more obvious city of Gyor.
 
 - [Ciao Várkert](https://maps.app.goo.gl/yyTGifXAcgxHwZmA6) - good menu, open late until midnight, prices a little
   mid-upmarket
