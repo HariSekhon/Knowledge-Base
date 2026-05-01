@@ -205,6 +205,7 @@ Good for a stopover if you fancy a change from the bigger more obvious city of G
 
 - [Ciao Várkert](https://maps.app.goo.gl/yyTGifXAcgxHwZmA6) - good menu, open late until midnight, prices a little
   mid-upmarket.
+  The bruschetta starter was very nice - but then it should be for nearly €10!
   Wifi 72/27 Mbit/s
 
 ## Szolnok
