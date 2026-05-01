@@ -210,7 +210,8 @@ A modest town with a small centre to the east of the country.
 
 A useful stopover point but there is not much to do there, don't spend more than a couple days there.
 
-You will struggle to get fed once it hits 9pm as the kichens close much earlier than their, so make sure you dine earlier.
+You will struggle to get fed once it hits 9pm as the kitchens close much earlier than their,
+so make sure you dine earlier.
 
 - [Bajnok Étterem](http://uj.bajnoketterem.hu/) - best place I ate at here
 - [New York café & bistro](https://www.newyorkbistro.hu/)
