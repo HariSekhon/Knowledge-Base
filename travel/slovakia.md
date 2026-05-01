@@ -43,6 +43,8 @@ God bless the Slovakians I hope they keep it this way.
 
 Like many European cities, the centres are highly zoned charge parking.
 
+<https://parking.sk/where-can-you-park-for-free-in-bratislava>
+
 There are a couple of free parking lots:
 
 - [Bus parkovisko](https://maps.app.goo.gl/oPXe2km6bxL1m2A49)
