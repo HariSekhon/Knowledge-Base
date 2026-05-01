@@ -202,7 +202,8 @@ Small town near the Austrian and Slovakian borders in the north west of the coun
 Good for a stopover if you fancy a change from the bigger more obvious city of Gyor.
 
 - [Ciao Várkert](https://maps.app.goo.gl/yyTGifXAcgxHwZmA6) - good menu, open late until midnight, prices a little
-  mid-upmarket
+  mid-upmarket.
+  Wifi 72/27 Mbit/s
 
 ## Szolnok
 
