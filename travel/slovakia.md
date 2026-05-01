@@ -4,6 +4,7 @@
 
 - [Motorway Tolls - e-Vignettes in Slovakia](#motorway-tolls---e-vignettes-in-slovakia)
 - [Bratislava](#bratislava)
+  - [Places to Stay in Bratislava](#places-to-stay-in-bratislava)
   - [Parking in Bratislava](#parking-in-bratislava)
   - [Restaurants in Bratislava](#restaurants-in-bratislava)
 - [Kosice](#kosice)
@@ -21,6 +22,20 @@ Use the official site rather than resellers, it's cheaper:
 ## Bratislava
 
 Bratislava is nowhere near as big as Budapest, you probably don't need more than 3 nights here.
+
+### Places to Stay in Bratislava
+
+Bratislava is small enough that you don't need to worry about best areas to stay in as you should be able to walk around
+in a reasonable time, just check the walking distances on Google Maps.
+
+It doesn't have the mass immigration ghettoization so it's not like you're avoiding some dangerous area to try to stay
+in some nice area.
+
+God bless the Slovakians I hope they keep it this way.
+
+- [Wild Elephants Hostel](https://maps.app.goo.gl/svb1CA5WKFP8XX5N9) - party hostel - age limit 40 years old
+  (may be negotiable if you ask in advance)
+- [Urban Elephants Hostel](https://maps.app.goo.gl/7sN1jmY8QKWiBRmu6) - age limit 40
 
 ### Parking in Bratislava
 
