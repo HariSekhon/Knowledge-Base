@@ -46,6 +46,10 @@ There are a couple of free parking lots:
 - [Bus parkovisko](https://maps.app.goo.gl/oPXe2km6bxL1m2A49)
 - [Parkovisko - Bunker B-S 4](https://maps.app.goo.gl/YpakBgH82HLk3CLc7)
 
+### Attractions in Bratislava
+
+- [Nivy centrum](https://maps.app.goo.gl/rVtzpYgWEiGfJ2GU8) - mall
+
 ### Restaurants in Bratislava
 
 - [Urban House](https://maps.app.goo.gl/4QMJcb3dDdDGdXhD9) - very popular highly rated bar restaurant.
