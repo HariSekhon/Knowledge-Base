@@ -197,7 +197,9 @@ Budapest.
 
 ## Mosonmagyarovar
 
-Small town near the Austrian and Slovakian borders in the north west of the country.
+I can't even pronounce this one.
+
+It's a small town near the Austrian and Slovakian borders in the north west of the country.
 
 Good for a stopover if you fancy a change from the bigger more obvious city of Gyor.
 
