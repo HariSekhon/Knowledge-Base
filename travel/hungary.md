@@ -13,7 +13,7 @@
 - [Debrecen](#debrecen)
 - [Gyor](#gyor)
 - [Kecskemet](#kecskemet)
-- [Mosonmagyaróvár](#mosonmagyaróvár)
+- [Mosonmagyarovar](#mosonmagyarovar)
 - [Szolnok](#szolnok)
 - [Szeged](#szeged)
 
@@ -195,7 +195,7 @@ Budapest.
   The desserts look good but the beef stew killed me so I had to skip it.
   Wifi 95/61 Mbit/s
 
-## Mosonmagyaróvár
+## Mosonmagyarovar
 
 Small town near the Austrian and Slovakian borders in the north west of the country.
 
