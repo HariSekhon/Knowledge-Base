@@ -13,6 +13,7 @@
 - [Debrecen](#debrecen)
 - [Gyor](#gyor)
 - [Kecskemet](#kecskemet)
+- [Mosonmagyaróvár](#mosonmagyaróvár)
 - [Szolnok](#szolnok)
 - [Szeged](#szeged)
 
@@ -21,6 +22,9 @@
 ## Summary
 
 Hungary is a central European country, the jewel of which is its capital Budapest.
+
+It has a coffee culture but not much of juice culture compared to Dubai - on occasions when you can even find
+restaurants serving fresh juices they are too small eg 300ml.
 
 ## Avoid Northern Counties
 
@@ -190,6 +194,14 @@ Budapest.
   pickled white cabbage with various other pickled vegetables including beetroot.
   The desserts look good but the beef stew killed me so I had to skip it.
   Wifi 95/61 Mbit/s
+
+## Mosonmagyaróvár
+
+Small town near the Slovakian border, good for a stopover if you fancy a change from the bigger more obvious city of
+Gyor.
+
+- [Ciao Várkert](https://maps.app.goo.gl/yyTGifXAcgxHwZmA6) - good menu, open late until midnight, prices a little
+  mid-upmarket
 
 ## Szolnok
 
