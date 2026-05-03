@@ -338,7 +338,9 @@ TODO:
 
 ## Brno
 
-You only need a couple hours to walk around Brno, some nice architecture, and the usual international brands.
+There is some lovely architecture in Brno as well as a selection of restaurants and cafes.
+
+You only need a couple hours to walk around Brno, and it has some of the usual international brands.
 
 - [Bavard cafe](https://maps.app.goo.gl/8FVSgxANxoSDrEYn8) - eggs benedict with bacon was good and large compared to
   some other places, although at 270kc (£9) this is expensive by local standards
