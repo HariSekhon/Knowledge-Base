@@ -342,6 +342,9 @@ You only need a couple hours to walk around Brno, some nice architecture, and th
 
 - [Bavard cafe](https://maps.app.goo.gl/8FVSgxANxoSDrEYn8) - eggs benedict with bacon was good and large compared to
   some other places, although at 270kc (£9) this is expensive by local standards
+- [Galerie Vaňkovka](https://maps.app.goo.gl/97N3chS352BcDtpo7) - mall with a good range of shops, 2 hours free parking
+  and 15-20 minutes walk from the town centre.
+  Useful for a road trip stopover.
 
 ## České Budějovice
 
