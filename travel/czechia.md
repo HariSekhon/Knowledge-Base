@@ -338,7 +338,8 @@ TODO:
 
 ## Brno
 
-There is some lovely architecture in Brno as well as a selection of restaurants and cafes.
+Brno is a small city with some lovely architecture as well as a selection of restaurants and cafes.
+It's a good stopover when driving between Prague and Bratislava in Slovakia.
 
 You only need a couple hours to walk around Brno, and it has some of the usual international brands.
 
