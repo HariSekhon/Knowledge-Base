@@ -343,6 +343,8 @@ It's a good stopover when driving between Prague and Bratislava in Slovakia.
 
 You only need a couple hours to walk around Brno, and it has some of the usual international brands.
 
+You probably wouldn't want to stay more than a couple days here as there isn't much here compared to Prague.
+
 - [Bavard cafe](https://maps.app.goo.gl/8FVSgxANxoSDrEYn8) - eggs benedict with bacon was good and large compared to
   some other places, although at 270kc (£9) this is expensive by local standards
 - [Galerie Vaňkovka](https://maps.app.goo.gl/97N3chS352BcDtpo7) - mall with a good range of shops, 2 hours free parking
