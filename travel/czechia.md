@@ -347,6 +347,8 @@ You only need a couple hours to walk around Brno, and it has some of the usual i
 - [Galerie Vaňkovka](https://maps.app.goo.gl/97N3chS352BcDtpo7) - mall with a good range of shops, 2 hours free parking
   and 15-20 minutes walk from the town centre.
   Useful for a road trip stopover.
+- [Billa](https://maps.app.goo.gl/tYTn6Q3dNSLeDawH7) - supermarket in the centre of town in the basement - cheap
+  chocolate croissants and fresh juices at reasonable prices are good for travel snacks
 
 ## České Budějovice
 
