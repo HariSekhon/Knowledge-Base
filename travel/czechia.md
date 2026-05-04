@@ -42,6 +42,8 @@ You will hear American accents often in Prague, it is this tourism that has caus
 
 ### Taxis in Prague
 
+Make sure you use one of these apps and not the airport or local taxis, there are notorious for ripping off tourists.
+
 - [Bolt](https://bolt.eu/en-cz/) - usually a bit cheaper than Uber in my experience, but this can fluctate so check both
 - [Uber](https://www.uber.com/cz/en/)
 
