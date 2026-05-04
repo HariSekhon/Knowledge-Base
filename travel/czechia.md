@@ -111,13 +111,17 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
 - [Wenceslas Square](https://maps.app.goo.gl/izDXFMaGtR7WZsNo6) - it's a long town centre rectangle:
   - [National Museum](https://maps.app.goo.gl/ysikGG7qabYtnc4a9)
   - [Statue of Saint Wenceslas](https://maps.app.goo.gl/VZeatBBxkuci1Ksu9)
-- [Vyšehrad fortress](https://maps.app.goo.gl/XXCiS3kpvZsGAALFA)
-- [Riegrovy Sady](https://maps.app.goo.gl/vyZ16c4Ai9Mpi4j89) - nice hilly park where people walk their dogs and has a
-  nice view of sunset
-  - [Riegrovy Sady View](https://maps.app.goo.gl/Bxzu6wPMyfJUsFzU9)
-- [Letenské sady](https://maps.app.goo.gl/HkYfBTYggsFbou8R8) - big park just north of the river, where people walk their
-  dogs with pubs dotted around it which are dog friendly
-  - [Letná Pond](https://maps.app.goo.gl/VjUzXf1HGER5mps66)
+- South of the Centre:
+  - [Vyšehrad fortress](https://maps.app.goo.gl/XXCiS3kpvZsGAALFA)
+  - [Dancing House](https://maps.app.goo.gl/oQu2v8nTnryyRTpu7) - unusual landmark building
+- East of the Centre:
+  - [Riegrovy Sady](https://maps.app.goo.gl/vyZ16c4Ai9Mpi4j89) - nice hilly park where people walk their dogs and has a
+    nice view of sunset
+    - [Riegrovy Sady View](https://maps.app.goo.gl/Bxzu6wPMyfJUsFzU9)
+- North of the Centre:
+  - [Letenské sady](https://maps.app.goo.gl/HkYfBTYggsFbou8R8) - big park just north of the river, where people walk their
+    dogs with pubs dotted around it which are dog friendly
+    - [Letná Pond](https://maps.app.goo.gl/VjUzXf1HGER5mps66
 - [Fitness workout park Folimanka](https://maps.app.goo.gl/hLFHPHkDoUD4BEuSA)
 
 ### Restaurants in Prague
