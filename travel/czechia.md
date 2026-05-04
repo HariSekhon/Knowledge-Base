@@ -65,6 +65,14 @@ but even out there it's still roughly €25 per week.
 
 If it's your first time in Prague, you'll want to stay in the centre near the town centre.
 
+If it's your second time you can try [Holešovice](https://maps.app.goo.gl/vRs8zUpguaEuyxUv9) just north of the centre
+across the river which has its own bunch of restaurants to try.
+
+The area around the [Riegrovy Sady](https://maps.app.goo.gl/iQecPfBpk8XozGe86) park is decent too.
+
+The area in front of the main train station [Hlavní nádraží](https://maps.app.goo.gl/qDGifwHrtfmWjdHP8) to the west of it on the map is a bit sketchy,
+and you probably don't want to stay West of that as it's just not as nice.
+
 My favourite hostels:
 
 - [Safestay Prague Charles Bridge](https://maps.app.goo.gl/yP4rjjR6YxpH8RrH7) - most central - called Equity Point on
@@ -73,8 +81,8 @@ My favourite hostels:
 - [Czech Inn](https://maps.app.goo.gl/vQSUHqBnEeYUBFLx9) - 45 minute walk from the centre, so a bit cheaper,
   but you might want to take a tram.
   Has a kitchen, which the others don't. Wifi 35/35 Mbit/s
-- [Brix Bar & Hostel](https://maps.app.goo.gl/77FwRg52yLZoJm5R7) - further out but near my favourite brunch area in
-  Prague around the border of Prague 2 and Prague 3
+- [Brix Bar & Hostel](https://maps.app.goo.gl/77FwRg52yLZoJm5R7) - further out on the wrong side of the train tracks
+  but near my favourite brunch area in Prague around the border of Prague 2 and Prague 3
 
 ...but check for fluctuating rates as I stayed at Sophie's for £15 per night and then the next week it was £25 per night
 
@@ -97,6 +105,7 @@ I didn't really like:
   - [Park u Staroměstského Náměstí](https://maps.app.goo.gl/YWYHUsCoYkUkMziB9)
   - [Choco-Story: Prague Chocolate Museum](https://maps.app.goo.gl/5iiU3mD9NPw2vQTp6)
   - [Steel Art Museum](https://maps.app.goo.gl/KZ42HGB9iKzJx2yo9)
+- [Vyšehrad fortress](https://maps.app.goo.gl/XXCiS3kpvZsGAALFA)
 - [Riegrovy Sady](https://maps.app.goo.gl/vyZ16c4Ai9Mpi4j89) - nice hilly park where people walk their dogs and has a
   nice view of sunset
   - [Riegrovy Sady View](https://maps.app.goo.gl/Bxzu6wPMyfJUsFzU9)
