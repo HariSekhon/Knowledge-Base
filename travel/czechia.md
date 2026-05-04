@@ -7,7 +7,7 @@
   - [Taxis in Prague](#taxis-in-prague)
   - [Parking in Prague](#parking-in-prague)
   - [Best Areas to Stay in Prague](#best-areas-to-stay-in-prague)
-- [Attractions in Prague](#attractions-in-prague)
+  - [Attractions in Prague](#attractions-in-prague)
   - [Restaurants in Prague](#restaurants-in-prague)
 - [Brno](#brno)
 - [České Budějovice](#české-budějovice)
@@ -91,7 +91,7 @@ I didn't really like:
 - [Seven Hostel](https://maps.app.goo.gl/xt3kv1g2PsEfoUiz8) - even though I got a private room the toilets and bathroom
   were like commununal school toilets rather than the nice en suite of Safestay or Sophies's Hostel
 
-## Attractions in Prague
+### Attractions in Prague
 
 - [Prague Castle](https://maps.app.goo.gl/N9UBRgKmBSA9eD6Y8)
 - [Charles Bridge](https://maps.app.goo.gl/3tMtgixrEqnQGFqN8) - historic bridge with statues along it on the way to
