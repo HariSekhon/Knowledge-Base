@@ -124,7 +124,8 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
   - [Letenské sady](https://maps.app.goo.gl/HkYfBTYggsFbou8R8) - big park just north of the river, where people walk their
     dogs with pubs dotted around it which are dog friendly
     - [Letná Pond](https://maps.app.goo.gl/VjUzXf1HGER5mps66
-- [Palladium Prague](https://maps.app.goo.gl/ypyMAGFnAbo1WVLs6) - central mall near the Powder Tower
+- [Palladium Prague](https://maps.app.goo.gl/ypyMAGFnAbo1WVLs6) - central mall near the Powder Tower. Unfortunately it
+  has charge barriers to use the toilets, which takes card payments!
 - [Venkovní posilovna Vinohrady](https://maps.app.goo.gl/wuQgGZdmyALsGRhw9) - calisthenics street workout bars
 - [Fitness workout park Folimanka](https://maps.app.goo.gl/hLFHPHkDoUD4BEuSA)  - calisthenics street workout bars
 
@@ -160,7 +161,7 @@ as it also has a row of good brunch and coffee places on Angelicka.
   The croissant with cheddar, bacon and scrambled eggs (169kc) was not big enough though, and the cheese in it is not
   some grated cheddar but instead those preprocessed cheese slices you are not supposed to eat.
   I'd take the croissant with scrambled eggs variant (139kc) without the cheddar and bacon next time.
-  Due to the not huge portion size, I ordered a second breakfast - the Eggs by Choice (159kc) - frieds or scrambed - I
+  Due to the not huge portion size, I ordered a second breakfast - the Eggs by Choice (159kc) - fried or scrambled - I
   went with 3 x fried eggs rather than scrambled this time, with 1 bacon rasher, grilled tomato topped with parmesan,
   and "pastry" which is just a bread basket of 1 piece white and 1 piece brown bread.
   The Boost juice with pineapple, banana, kiwi and orange was as good as it could be,
