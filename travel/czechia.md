@@ -372,7 +372,6 @@ as it also has a row of good brunch and coffee places on Angelicka.
   toasts with maple syrup, 2 bacon rashers burnt black, 2 small sausages, and "house fries" which is actually a bunch of
   potato squares fried until your fork can't pierce them. Perhaps a good stodgy breakfast to recover from a night of
   heavy drinking, but you cannot eat this every day. Slow wifi 3/0.4 Mbit/s
-- [Palladium](https://maps.app.goo.gl/Hgs1KqvtPVcFec9J6) - central shopping mall with the usual Western brands
 
 <!-- -->
 
