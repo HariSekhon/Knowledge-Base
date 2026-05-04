@@ -118,6 +118,7 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
   - [Riegrovy Sady](https://maps.app.goo.gl/vyZ16c4Ai9Mpi4j89) - nice hilly park where people walk their dogs and has a
     nice view of sunset
     - [Riegrovy Sady View](https://maps.app.goo.gl/Bxzu6wPMyfJUsFzU9)
+    - [Energy Pub Riegrovy sady](https://maps.app.goo.gl/FKXZ6MxzQz68QjKVA)
     - [Fitness park RVL 13](https://maps.app.goo.gl/9WbMSDZuGjdvTGzQ7) - calisthenics street workout bars
 - North of the Centre:
   - [Letenské sady](https://maps.app.goo.gl/HkYfBTYggsFbou8R8) - big park just north of the river, where people walk their
