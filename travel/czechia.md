@@ -122,7 +122,8 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
   - [Letenské sady](https://maps.app.goo.gl/HkYfBTYggsFbou8R8) - big park just north of the river, where people walk their
     dogs with pubs dotted around it which are dog friendly
     - [Letná Pond](https://maps.app.goo.gl/VjUzXf1HGER5mps66
-- [Fitness workout park Folimanka](https://maps.app.goo.gl/hLFHPHkDoUD4BEuSA)
+- [Venkovní posilovna Vinohrady](https://maps.app.goo.gl/wuQgGZdmyALsGRhw9) - calisthenics street workout bars
+- [Fitness workout park Folimanka](https://maps.app.goo.gl/hLFHPHkDoUD4BEuSA)  - calisthenics street workout bars
 
 ### Restaurants in Prague
 
