@@ -94,7 +94,7 @@ I didn't really like:
 ### Attractions in Prague
 
 The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izDXFMaGtR7WZsNo6) and the
-[Prague Astronomical Clock](https://maps.app.goo.gl/zjhWY1Xax93ewARr6) square.
+[Old Town Square - Staroměstské nám](https://maps.app.goo.gl/FSWvysqeLtXK5BHH6).
 
 - [Prague Castle](https://maps.app.goo.gl/N9UBRgKmBSA9eD6Y8)
 - [Charles Bridge](https://maps.app.goo.gl/3tMtgixrEqnQGFqN8) - historic bridge with statues along it on the way to
