@@ -93,7 +93,9 @@ night.
 I didn't like:
 
 - [Seven Hostel](https://maps.app.goo.gl/xt3kv1g2PsEfoUiz8) - even though I got a private room the toilets and bathroom
-  were like commununal school toilets rather than the nice en suite of Safestay or Sophies's Hostel
+  were like communal school toilets rather than the nice en suite of Safestay or Sophies's Hostel.
+  I stayed here mainly for the parking and closeness to the conference in the north east of the city,
+  but wouldn't stay here again, I'd rather park my car as per the above section and stay somewhere nicer.
 
 ### Attractions in Prague
 
