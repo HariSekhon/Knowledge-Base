@@ -6,6 +6,8 @@
 - [Prague](#prague)
   - [Taxis in Prague](#taxis-in-prague)
   - [Parking in Prague](#parking-in-prague)
+  - [Best Areas to Stay in Prague](#best-areas-to-stay-in-prague)
+- [Attractions in Prague](#attractions-in-prague)
   - [Restaurants in Prague](#restaurants-in-prague)
 - [Brno](#brno)
 - [České Budějovice](#české-budějovice)
