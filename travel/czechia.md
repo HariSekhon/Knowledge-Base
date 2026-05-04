@@ -63,7 +63,7 @@ but even out there it's still roughly €25 per week.
 
 ### Best Areas to Stay in Prague
 
-If it's your first time in Prague, you'll want to stay in the centre near the town centre.
+If it's your first time in Prague, you'll want to stay in the centre in the Prague 1 area.
 
 If it's your second time you can try [Holešovice](https://maps.app.goo.gl/vRs8zUpguaEuyxUv9) just north of the centre
 across the river which has its own bunch of restaurants to try.
@@ -96,7 +96,7 @@ I didn't really like:
 - [Prague Castle](https://maps.app.goo.gl/N9UBRgKmBSA9eD6Y8)
 - [Charles Bridge](https://maps.app.goo.gl/3tMtgixrEqnQGFqN8) - historic bridge with statues along it on the way to
   Prague Castle
-- Town Square:
+- The Town Square:
   - [Prague Astronomical Clock](https://maps.app.goo.gl/zjhWY1Xax93ewARr6)
   - [The Powder Tower](https://maps.app.goo.gl/71y5mVKoji82Zdb16)
   - [Church of Our Lady before Týn](Church of Our Lady before Týn)
@@ -105,6 +105,9 @@ I didn't really like:
   - [Park u Staroměstského Náměstí](https://maps.app.goo.gl/YWYHUsCoYkUkMziB9)
   - [Choco-Story: Prague Chocolate Museum](https://maps.app.goo.gl/5iiU3mD9NPw2vQTp6)
   - [Steel Art Museum](https://maps.app.goo.gl/KZ42HGB9iKzJx2yo9)
+- [Wenceslas Square](https://maps.app.goo.gl/izDXFMaGtR7WZsNo6) - it's a long town centre rectangle:
+  - [National Museum](https://maps.app.goo.gl/ysikGG7qabYtnc4a9)
+  - [Statue of Saint Wenceslas](https://maps.app.goo.gl/VZeatBBxkuci1Ksu9)
 - [Vyšehrad fortress](https://maps.app.goo.gl/XXCiS3kpvZsGAALFA)
 - [Riegrovy Sady](https://maps.app.goo.gl/vyZ16c4Ai9Mpi4j89) - nice hilly park where people walk their dogs and has a
   nice view of sunset
