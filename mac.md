@@ -46,13 +46,12 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Open current directory in Finder](#open-current-directory-in-finder)
     - [Open image in the default app (usually Preview)](#open-image-in-the-default-app-usually-preview)
     - [Show the File in Finder](#show-the-file-in-finder)
+    - [Open an Application from the command line](#open-an-application-from-the-command-line)
     - [Useful Open Switches](#useful-open-switches)
-  - [Default Open Application](#default-open-application)
     - [Check default Application for a given file type](#check-default-application-for-a-given-file-type)
     - [Change the default Application for a given file type](#change-the-default-application-for-a-given-file-type)
       - [Set VLC to open AVI files](#set-vlc-to-open-avi-files)
       - [Set Chrome to open SVG files](#set-chrome-to-open-svg-files)
-    - [Open an Application from the command line](#open-an-application-from-the-command-line)
   - [Clipboard](#clipboard)
   - [System Information](#system-information)
   - [Screenshots](#screenshots)
@@ -683,6 +682,22 @@ open -R "$file"
 
 This will open Finder with the file highlighted.
 
+#### Open an Application from the command line
+
+Use the name as seen under `/Applications/` without the `.app` extension which is optional:
+
+```shell
+open -a "Google Chrome"
+```
+
+```shell
+open -a "SQLDeveloper"
+```
+
+```shell
+open -a "DBeaver"
+```
+
 #### Useful Open Switches
 
 | Switch                | Description                                                                                       |
@@ -697,8 +712,6 @@ This will open Finder with the file highlighted.
 | `-R` / `--reveal`     | Selects the file in the Finder instead of opening it                                              |
 | `-W` / `--wait-apps`  | Blocks until the used applications are closed (even if they were already running)                 |
 | `--env` NAME=VALUE    | Adds an environment variable to be used by the application                                        |
-
-### Default Open Application
 
 #### Check default Application for a given file type
 
@@ -745,22 +758,6 @@ editing application it is already set to (eg. Gimp or Inkscape):
 
 ```shell
 duti -s com.google.Chrome public.svg-image all
-```
-
-#### Open an Application from the command line
-
-Use the name as seen under `/Applications/` without the `.app` extension which is optional:
-
-```shell
-open -a "Google Chrome"
-```
-
-```shell
-open -a "SQLDeveloper"
-```
-
-```shell
-open -a "DBeaver"
 ```
 
 ### Clipboard
