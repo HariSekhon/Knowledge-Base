@@ -126,6 +126,7 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
     - [Letná Pond](https://maps.app.goo.gl/VjUzXf1HGER5mps66
 - [Palladium Prague](https://maps.app.goo.gl/ypyMAGFnAbo1WVLs6) - central mall near the Powder Tower. Unfortunately it
   has charge barriers to use the toilets, which takes card payments!
+- [Westfield Chodov](https://maps.app.goo.gl/AMSPwjZgAaLQFyzq7) - at the end of the metro line
 - [Venkovní posilovna Vinohrady](https://maps.app.goo.gl/wuQgGZdmyALsGRhw9) - calisthenics street workout bars
 - [Fitness workout park Folimanka](https://maps.app.goo.gl/hLFHPHkDoUD4BEuSA)  - calisthenics street workout bars
 
