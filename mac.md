@@ -46,6 +46,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Open current directory in Finder](#open-current-directory-in-finder)
     - [Open image in the default app (usually Preview)](#open-image-in-the-default-app-usually-preview)
     - [Show the File in Finder](#show-the-file-in-finder)
+    - [Useful Open Switches](#useful-open-switches)
+  - [Default Open Application](#default-open-application)
     - [Check default Application for a given file type](#check-default-application-for-a-given-file-type)
     - [Change the default Application for a given file type](#change-the-default-application-for-a-given-file-type)
       - [Set VLC to open AVI files](#set-vlc-to-open-avi-files)
@@ -648,8 +650,7 @@ results despite confirming that `/Applications/Spotify.app` exists, then see
 
 ### Open
 
-Open a file / folder / URL / Application. Use `-a` to select which app to use to open it.
-Use `-e` to edit the file in TextEdit.
+Open a file, folder, URL or Application.
 
 #### Open URL in the default web browser
 
@@ -681,6 +682,23 @@ open -R "$file"
 ```
 
 This will open Finder with the file highlighted.
+
+#### Useful Open Switches
+
+| Switch                | Description                                                                                       |
+|-----------------------|---------------------------------------------------------------------------------------------------|
+| `-a` APP              | Select which app to use to open it eg `-a 'Google Chrome'`                                        |
+| `-e`                  | Edit the file in TextEdit                                                                         |
+| `-g` / `--background` | Opens the application in the background                                                           |
+| `-n` / `--new`        | Open a new instance of the application even if one is already running                             |
+| `-j` / `--hide`       | Launches the app hidden                                                                           |
+| `-u` / `--url` URL    | Open this URL, even if it exactly matches a filepath which would otherwise be preferred first     |
+| `--args`              | All remaining arguments are passed in argv to the application's main() function instead of opened |
+| `-R` / `--reveal`     | Selects the file in the Finder instead of opening it                                              |
+| `-W` / `--wait-apps`  | Blocks until the used applications are closed (even if they were already running)                 |
+| `--env` NAME=VALUE    | Adds an environment variable to be used by the application                                        |
+
+### Default Open Application
 
 #### Check default Application for a given file type
 
