@@ -63,7 +63,10 @@ but even out there it's still roughly €25 per week.
 
 ### Best Areas to Stay in Prague
 
-If it's your first time in Prague, you'll want to stay in the centre in the Prague 1 area.
+If it's your first time in Prague, you'll want to stay in the centre in the Prague 1 area:
+
+- [Old Town Square - Staroměstské nám](https://maps.app.goo.gl/FSWvysqeLtXK5BHH6)
+- [Nové Město (New Town)](https://maps.app.goo.gl/mt6ed9P6zp9KRvWy7) - just south of Old Town and a bit cheaper
 
 If it's your second time you can try [Holešovice](https://maps.app.goo.gl/vRs8zUpguaEuyxUv9) just north of the centre
 across the river which has its own bunch of restaurants to try.
