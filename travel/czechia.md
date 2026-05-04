@@ -99,7 +99,7 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
 - [Prague Castle](https://maps.app.goo.gl/N9UBRgKmBSA9eD6Y8)
 - [Charles Bridge](https://maps.app.goo.gl/3tMtgixrEqnQGFqN8) - historic bridge with statues along it on the way to
   Prague Castle
-- The Town Square:
+- [Old Town Square - Staroměstské nám](https://maps.app.goo.gl/FSWvysqeLtXK5BHH6):
   - [Prague Astronomical Clock](https://maps.app.goo.gl/zjhWY1Xax93ewARr6)
   - [The Powder Tower](https://maps.app.goo.gl/71y5mVKoji82Zdb16)
   - [Church of Our Lady before Týn](Church of Our Lady before Týn)
