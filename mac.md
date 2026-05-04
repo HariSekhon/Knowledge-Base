@@ -715,11 +715,13 @@ open -a "DBeaver"
 
 #### Check default Application for a given file type
 
+Install the duti app:
+
 ```shell
 brew install duti
 ```
 
-Check default Application for a given file type (eg `.avi` or `.svg`):
+Use duti to check the default application for a given file type (eg `.avi` or `.svg`):
 
 ```shell
 duti -x avi
