@@ -59,15 +59,18 @@ Arrange a nearby parking next time
 I parked at [Parkoviště](https://maps.app.goo.gl/1VKm9r9w2B6dtKTs6) Zličín as even the Park & Rides were full there,
 but even out there it's still roughly €25 per week.
 
-<!--
+### Best Areas to Stay in Prague
 
-### Hostels in Prague
+If it's your first time in Prague, you'll want to stay in the centre near the town centre.
 
-My favourite hostels are:
+My favourite hostels:
 
 - [Safestay Prague Charles Bridge](https://maps.app.goo.gl/yP4rjjR6YxpH8RrH7) - most central - called Equity Point on
   Agoda, not sure why
 - [Sophie's Hostel](https://maps.app.goo.gl/E5meMyWoWzhwB24S8) - bit south, but walkable and the best interior
+- [Czech Inn](https://maps.app.goo.gl/vQSUHqBnEeYUBFLx9) - 45 minute walk from the centre, so a bit cheaper,
+  but you might want to take a tram.
+  Has a kitchen, which the others don't. Wifi 35/35 Mbit/s
 - [Brix Bar & Hostel](https://maps.app.goo.gl/77FwRg52yLZoJm5R7) - further out but near my favourite brunch area in
   Prague around the border of Prague 2 and Prague 3
 
@@ -78,7 +81,24 @@ I didn't really like:
 - [Seven Hostel](https://maps.app.goo.gl/xt3kv1g2PsEfoUiz8) - even though I got a private room the toilets and bathroom
   were like commununal school toilets rather than the nice en suite of Safestay or Sophies's Hostel
 
--->
+## Attractions in Prague
+
+- [Prague Castle](https://maps.app.goo.gl/N9UBRgKmBSA9eD6Y8)
+- [Charles Bridge](https://maps.app.goo.gl/3tMtgixrEqnQGFqN8) - historic bridge with statues along it on the way to
+  Prague Castle
+- Town Square:
+  - [Prague Astronomical Clock](https://maps.app.goo.gl/zjhWY1Xax93ewARr6)
+  - [The Powder Tower](https://maps.app.goo.gl/71y5mVKoji82Zdb16)
+  - [Church of Our Lady before Týn](Church of Our Lady before Týn)
+  - [Mariánský sloup](https://maps.app.goo.gl/yVTH39hife6DoDnU8)
+  - [Prague Meridian](https://maps.app.goo.gl/ymTD8RBAADB4gjVD9)
+  - [Park u Staroměstského Náměstí](https://maps.app.goo.gl/YWYHUsCoYkUkMziB9)
+  - [Choco-Story: Prague Chocolate Museum](https://maps.app.goo.gl/5iiU3mD9NPw2vQTp6)
+  - [Steel Art Museum](https://maps.app.goo.gl/KZ42HGB9iKzJx2yo9)
+- [Riegrovy Sady](https://maps.app.goo.gl/vyZ16c4Ai9Mpi4j89) - nice hilly park where people walk their dogs and has a
+  nice view of sunset
+  - [Riegrovy Sady View](https://maps.app.goo.gl/Bxzu6wPMyfJUsFzU9)
+- [Fitness workout park Folimanka](https://maps.app.goo.gl/hLFHPHkDoUD4BEuSA)
 
 ### Restaurants in Prague
 
