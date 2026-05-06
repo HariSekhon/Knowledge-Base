@@ -13,7 +13,8 @@
     - [Show Linux Routing Table](#show-linux-routing-table)
     - [Add Static Route](#add-static-route)
   - [DNS lookup](#dns-lookup)
-  - [Show your public IP](#show-your-public-ip)
+  - [Public IP](#public-ip)
+  - [Country Phone Calling Code](#country-phone-calling-code)
   - [Software Firewall](#software-firewall)
     - [iptables](#iptables)
   - [Packet Tracing](#packet-tracing)
@@ -28,6 +29,9 @@
 - [3rd Party Tools](#3rd-party-tools)
   - [Stats](#stats)
   - [Pingr](#pingr)
+- [Troubleshooting](#troubleshooting)
+  - [Wifi Issues](#wifi-issues)
+    - [Wifi Capture Portal Not Loading](#wifi-capture-portal-not-loading)
 - [Diagrams](#diagrams)
   - [Network - Layer 2 - Local - ARP](#network---layer-2---local---arp)
   - [Network - Layer 3 - Remote - IP](#network---layer-3---remote---ip)
@@ -155,12 +159,24 @@ sudo tcpdump -i en0 -n port 53
 
 For explanation of tcpdump see the [Packet Tracing](#packet-tracing) section below.
 
-### Show your public IP
+### Public IP
 
-...that you are NAT'd through as well as geolocation and other details:
+Find the public IP you appear as after NAT translation
 
 ```shell
 curl ifconfig.co
+```
+
+For geolocation and other details:
+
+```shell
+curl ifconfig.co/json
+```
+
+### Country Phone Calling Code
+
+```shell
+curl -s https://ipwho.is/ | jq -r '.calling_code'
 ```
 
 ### Software Firewall
@@ -424,6 +440,23 @@ See the [Mac](mac.md) page's [Stats Bar](mac.md#stats-bar) section.
 ### Pingr
 
 See the [Mac](mac.md) page's [Pingr](mac.md#pingr) section.
+
+## Troubleshooting
+
+### Wifi Issues
+
+#### Wifi Capture Portal Not Loading
+
+Try forcing it by opening this site which doesn't use SSL,
+therefore allowing the captcha portal to intercept and redirect to itself:
+
+<http://neverssl.com>
+
+Check you haven't set explicit hardcoded DNS servers in your network settings
+(eg. public DNS) as this causes some local captcha portal DNS lookups to fail.
+
+For more details, you can see the Mac page's troubleshooting section
+[Wifi Capture Portal Not Loading](mac.md#wifi-capture-portal-not-loading).
 
 ## Diagrams
 
