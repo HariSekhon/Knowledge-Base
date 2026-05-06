@@ -26,6 +26,7 @@ More listed on Wikipedia:
 ## Local Search Engines
 
 - [Elasticsearch](elasticsearch.md) - open source, most popular
+  - [OpenSearch](https://opensearch.org/) - fork of Elasticsearch by [AWS](aws.md)
 - [Solr](solr.md) - open source, legacy
 - [Angolia](https://www.algolia.com/) - propriety
 
