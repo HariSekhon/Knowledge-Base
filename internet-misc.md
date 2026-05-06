@@ -2,28 +2,11 @@
 
 <!-- INDEX_START -->
 
-- [Wifi Issues](#wifi-issues)
-  - [Wifi Capture Portal Not Loading](#wifi-capture-portal-not-loading)
 - [The Internet Archive](#the-internet-archive)
 - [Save a Snapshot of a Web Page to the Internet Archive](#save-a-snapshot-of-a-web-page-to-the-internet-archive)
 - [Email](#email)
 
 <!-- INDEX_END -->
-
-## Wifi Issues
-
-### Wifi Capture Portal Not Loading
-
-Try forcing it by opening this site which doesn't use SSL,
-therefore allowing the captcha portal to intercept and redirect to itself:
-
-<http://neverssl.com>
-
-Check you haven't set explicit hardcoded DNS servers in your network settings
-(eg. public DNS) as this causes some local captcha portal DNS lookups to fail.
-
-For more details, you can see the Mac page's troubleshooting section
-[Wifi Capture Portal Not Loading](mac.md#wifi-capture-portal-not-loading).
 
 ## The Internet Archive
 
