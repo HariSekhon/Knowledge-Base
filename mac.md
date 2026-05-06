@@ -2491,6 +2491,11 @@ df -h "/Volumes/$NAME"
 
 ### Wifi Capture Portal Not Loading
 
+Try forcing it by opening this site which doesn't use SSL,
+therefore allowing the captcha portal to intercept and redirect to itself:
+
+<http://neverssl.com>
+
 Check you haven't set explicit hardcoded DNS servers in your network settings
 (eg. public DNS) as that may prevent the captcha portal address from resolving.
 
