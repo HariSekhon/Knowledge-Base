@@ -18,6 +18,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
     - [Google AI Studio - Gemini](#google-ai-studio---gemini)
   - [Meta AI](#meta-ai)
   - [Perplexity](#perplexity)
+  - [Abacus AI](#abacus-ai)
   - [SQL Chat](#sql-chat)
   - [Open Source LLMs](#open-source-llms)
     - [Ollama](#ollama)
@@ -150,6 +151,12 @@ TODO: Claude Artifacts
 ### Perplexity
 
 <https://www.perplexity.ai/>
+
+### Abacus AI
+
+<https://chatllm.abacus.ai/>
+
+Frontend AI backed by the other top LLMs above, as well as video and image generators.
 
 ### SQL Chat
 
