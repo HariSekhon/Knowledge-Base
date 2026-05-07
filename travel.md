@@ -92,6 +92,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Don't Speed](#dont-speed)
   - [Do Not Even Jaywalk](#do-not-even-jaywalk)
 - [Driving](#driving)
+  - [Ferries](#ferries)
   - [Car Insurance](#car-insurance)
   - [International Driving Insurance](#international-driving-insurance)
     - [Temporary Car Insurance Cover](#temporary-car-insurance-cover)
@@ -228,8 +229,8 @@ surprisingly still do not speak English.
 - [Costa Rica](travel/costa-rica.md)
 - [El Salvador](travel/elsalvador.md)
 - [Guatemala](travel/guatemala.md)
-- [Honduras](travel/honduras.md) (skipped due to long visa bureaucracy)
-- [Nicaragua](travel/nicaragua.md) (skipped due to lack of attractions and awkward flights)
+- [Honduras](travel/honduras.md) (skipped for reasons on page)
+- [Nicaragua](travel/nicaragua.md) (skipped for reasons on page)
 - [Panama](travel/panama.md)
 
 #### South America
@@ -958,10 +959,20 @@ This probably works out a little more economical if having more than one person 
 
 You should book ahead of time due to limited slots, and for better pricing.
 
-EU countries have town symbols along routes which automatically drop the speed limit to 50kmph whether they declare it
+EU countries have town symbols along routes which automatically drop the speed limit to 50 km/h whether they declare it
 explicitly or not.
 
-This is a local knowledge that will get you done and your license revoked if you hit 100kmph. See [Latvia](#latvia).
+This is a local knowledge that will get you done and your license revoked if you hit 100km/h.
+
+### Ferries
+
+Use ferry comparison sites:
+
+<https://www.directferries.com/>
+
+<https://www.aferry.com/en-us/>
+
+and also compare prices directly on the ferry sites themselves in case they can do it cheaper or waive fees.
 
 ### Car Insurance
 
