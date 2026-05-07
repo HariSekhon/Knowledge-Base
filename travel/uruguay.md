@@ -65,7 +65,7 @@ There were hardly any hostels to choose from in Montevideo.
 ### Travel from Buquebus Ferry
 
 If coming from [Buenos Aires](argentina.md) via the ferry (1/3rd the price of plane) arriving
-at [Terminal de Buquebus Montevideo], you can do one of the following:
+at [Terminal de Buquebus Montevideo](https://maps.app.goo.gl/Tvi6nhnXRcrT4iUY9), you can do one of the following:
 
 - Taxi App - Uber quoted roughly $U 500 (\$13)
 - Take a bus for $U 64 (\$1.70) quite easily to your final destination, consult Google Maps
