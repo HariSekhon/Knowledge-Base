@@ -970,6 +970,8 @@ Use ferry comparison sites:
 
 <https://www.directferries.com/>
 
+<https://www.ferryscanner.com/en/ferry>
+
 <https://www.aferry.com/en-us/>
 
 and also compare prices directly on the ferry sites themselves in case they can do it cheaper or waive fees.
