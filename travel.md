@@ -974,7 +974,8 @@ Use ferry comparison sites:
 
 <https://www.aferry.com/en-us/>
 
-and also compare prices directly on the ferry sites themselves in case they can do it cheaper or waive fees.
+but also compare prices directly on the ferry sites themselves as you can avoid a £6 service fee charged by
+directferries comparison site.
 
 ### Car Insurance
 
