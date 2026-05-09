@@ -4,6 +4,7 @@
 
 - [Motorway Tolls - Vignettes in Czechia](#motorway-tolls---vignettes-in-czechia)
 - [Prague](#prague)
+  - [Prague Airport](#prague-airport)
   - [Taxis in Prague](#taxis-in-prague)
   - [Parking in Prague](#parking-in-prague)
   - [Best Areas to Stay in Prague](#best-areas-to-stay-in-prague)
@@ -39,6 +40,11 @@ expect Western priced restaurants, coffee shops and expensive hotels.
 You may want to consider staying in a hostel here just due to the prices.
 
 You will hear American accents often in Prague, it is this tourism that has caused the somewhat high prices.
+
+### Prague Airport
+
+Prague Airport food court restaurant is surprisingly reasonably priced and 34kc for a bottle of water is better
+than 50kc at the vending machines in the main terminal lounges.
 
 ### Taxis in Prague
 
@@ -129,9 +135,11 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
     - [Energy Pub Riegrovy sady](https://maps.app.goo.gl/FKXZ6MxzQz68QjKVA)
     - [Fitness park RVL 13](https://maps.app.goo.gl/9WbMSDZuGjdvTGzQ7) - calisthenics street workout bars
 - North of the Centre:
-  - [Letenské sady](https://maps.app.goo.gl/HkYfBTYggsFbou8R8) - big park just north of the river, where people walk their
-    dogs with pubs dotted around it which are dog friendly
-    - [Letná Pond](https://maps.app.goo.gl/VjUzXf1HGER5mps66
+  - [Letenske sady](https://maps.app.goo.gl/HkYfBTYggsFbou8R8) - big park just north of the river, where people walk
+    their dogs with pubs dotted around it which are dog friendly
+    - [Letna Pond](https://maps.app.goo.gl/VjUzXf1HGER5mps66)
+    - [Letna Park](https://maps.app.goo.gl/iLvHHGyjmwxG3FXp7) - another nice park with a view, and the fancy beer garden
+      in the restaurants list below
 - [Palladium Prague](https://maps.app.goo.gl/ypyMAGFnAbo1WVLs6) - central mall near the Powder Tower. Unfortunately it
   has charge barriers to use the toilets, which takes card payments!
 - [OC Flora](https://maps.app.goo.gl/pSYofvedMyMSEe5i9) - mall
@@ -373,19 +381,9 @@ as it also has a row of good brunch and coffee places on Angelicka.
   potato squares fried until your fork can't pierce them. Perhaps a good stodgy breakfast to recover from a night of
   heavy drinking, but you cannot eat this every day. Slow wifi 3/0.4 Mbit/s
 
-<!-- -->
-
-- [Riegrovy Sady](https://maps.app.goo.gl/97rBm3YjG9PUZReJ8) - lovely park with a view
-- [Letna Park](https://maps.app.goo.gl/iLvHHGyjmwxG3FXp7) - another nice park with a view, and the fancy beer garden
-  listed above
-
-<!-- -->
-
-- Prague Airport - the food court restaurant is surprisingly reasonably priced and 34kc for a bottle of water is better
-  than 50kc at the vending machines in the main terminal lounges
-
 TODO:
 
+- [Burger Empire Prague](https://maps.app.goo.gl/72VYp7zsvr3nm7T59)
 - [Dergi Praha](https://maps.app.goo.gl/dUcN2wJz1KWnyQwbA) - Georgian restaurant with performances such as singing and
   sword fights, recommended by a travelling friend
 - [Alma Café](https://maps.app.goo.gl/DerXmDWs7vHx2tRUA) - opposite Khromberry
