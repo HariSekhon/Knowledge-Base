@@ -8,6 +8,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 
 - [AI Discovery](#ai-discovery)
 - [Learning](#learning)
+- [OpenClaw](#openclaw)
 - [Run AI with API](#run-ai-with-api)
 - [Chat LLMs](#chat-llms)
   - [ChatGPT](#chatgpt)
@@ -97,6 +98,14 @@ Find the AI tools you need for any specific purpose:
 ## Learning
 
 <https://www.cloudskillsboost.google/paths/118>
+
+## OpenClaw
+
+<https://openclaw.ai/>
+
+Open source local agent that can do most of the things you do for you on your computer with access to all your stuff.
+
+Interact with it via any chat app.
 
 ## Run AI with API
 
