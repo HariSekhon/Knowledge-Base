@@ -287,6 +287,8 @@ For those who want coffee, eggs breakfast, granola bowls, acai etc.
 
 #### Mid Market Restaurants in Prague
 
+If you need a break from so much Czech food - goulash, svickova, duck with cabbage etc.
+
 - [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
   the food!
   The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
@@ -304,9 +306,11 @@ For those who want coffee, eggs breakfast, granola bowls, acai etc.
   The mango chilli sauce is totally worth it though, ask for extra on the side to dip your fries.
   This is a good option if you wake up at 11pm and everything else is closed, the kitchen here is open until midnight.
   Wifi didn't work, and it's CASH ONLY
-- [La Piccola Perla](https://maps.app.goo.gl/3BrVgTYGAdYQ38u76) - Italian, if you need a break from so much goulash,
-  svickova etc. Has great pizzas. I had the piccola perla pizza with parma ham, salami, marinated red peppers,
-  mozarella, tomato sauce and gorgonzola
+- [Boong Restaurant](https://maps.app.goo.gl/tyKEyVpRQrRmF1Nw8) - good Tom yum gong Thai soup with shrimp and beef with
+  mixed vegetables. More expensive than Pho Duong Anh across the street but better quality. WiFi 20/25 Mbit/s
+- [Pho Duong Anh](https://maps.app.goo.gl/TuY9mBRmLAGft3DG8) - vietnamese, thai & sushi. WiFi 22/30 Mbit/s
+- [La Piccola Perla](https://maps.app.goo.gl/3BrVgTYGAdYQ38u76) - Italian, has great pizzas. I had the piccola perla pizza with parma ham, salami, marinated
+  red peppers, mozarella, tomato sauce and gorgonzola
 - [Červený Koŕal](https://maps.app.goo.gl/HTAR2u6kTg3So3457) - surprisingly decent reasonably priced Chinese food in the
   food court of [Máj Národní](https://maps.app.goo.gl/4CBcM613iaD9u9r18) shopping mall.
   For when you need a break from czech goulash, dumplings, duck etc. The name translates to Red Coral
