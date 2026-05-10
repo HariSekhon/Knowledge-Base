@@ -430,6 +430,7 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 - [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
 - [Restaurant Matylda](https://maps.app.goo.gl/GeFhe3wxzdjtRKBC9) - check the daily menu
   [here](https://www.menicka.cz/2123-restaurant-matylda.html) for good lunch deals
+- [the sip](https://maps.app.goo.gl/orGELjT42z7EwVRZ6) - romantic wine bar
 
 ## Brno
 
