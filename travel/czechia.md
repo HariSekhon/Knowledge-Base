@@ -444,6 +444,7 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 - [Kus Koláče](https://maps.app.goo.gl/kWBjCWLmECiPLLbu8) - 4.7 bakery
 - [KRO Vršovice](https://maps.app.goo.gl/34tdET3UfMesS7Wf8) - 4.5 bistro
 - [U Pravdů](https://maps.app.goo.gl/inephocw15SAZeV18) - 4.5 czech
+- [Restaurace U Kristiána](https://maps.app.goo.gl/9bLdu4FVTikzZZVx5) - 4.6 czech
 - [Smíchovský radniční sklípek](https://maps.app.goo.gl/YUgSUPdeWZaFbnuY8) - 4.5 czech
 - [Pivovarský dům Benedict](https://maps.app.goo.gl/gbAGPKmChnb9zG6t9) - 4.4 czech microbrewery, not cheap
 - [Restaurace U Šumavy](https://maps.app.goo.gl/5zXDUyeNUWnURFTL8) - 4.3 czech
