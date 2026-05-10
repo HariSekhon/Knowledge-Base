@@ -426,6 +426,7 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 - [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
 - [Oliver´s Cafe](https://maps.app.goo.gl/ZCSMiBUjtSgSA36R9) - 4.8 coffee shop
 - [Dark Velvet Cafe Bar](https://maps.app.goo.gl/5Agbb7wMENDU5FTC7) - 4.8 espresso bar
+- [Pure Gelato](https://www.google.com/maps/search/Puro+Gelato/@50.0783165,14.4198679,15z/) - well rated ice cream chain
 
 #### TODO Restaurants in Prague
 
