@@ -441,6 +441,7 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 - [Boulangerie Le Caveau - Pekárna](https://maps.app.goo.gl/WcK2Daw3UZdrK3Tg6) - 4.7 bakery
 - [Kus Koláče](https://maps.app.goo.gl/kWBjCWLmECiPLLbu8) - 4.7 bakery
 - [KRO Vršovice](https://maps.app.goo.gl/34tdET3UfMesS7Wf8) - 4.5 bistro
+- [U Pravdů](https://maps.app.goo.gl/inephocw15SAZeV18) - 4.5 czech
 - [Dergi Praha](https://maps.app.goo.gl/dUcN2wJz1KWnyQwbA) - Georgian restaurant with performances such as singing and
   sword fights, recommended by a travelling friend
 - [Polévkárna paní Mančo](https://maps.app.goo.gl/FpHxgwsLG4b1hHx7A) - 4.7 georgian
