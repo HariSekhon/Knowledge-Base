@@ -292,6 +292,10 @@ For those who want coffee, eggs breakfast, granola bowls, acai etc.
   The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
   and comes with a piece of bread and a really good salad with pink pickles.
   Get a side of truffles potatoes to make the plate complete. Wifi 56/25 Mbit/s
+- [Burger Empire Prague](https://maps.app.goo.gl/72VYp7zsvr3nm7T59) - burger was decent and came quickly.
+  The fries were even better - perfectly crispy fried in beef tallow - probably the best fries I remember having -
+  I just wish there were more of them than the little basket - and the bbq sauce for dipping was really good too.
+  WiFi 242/198 Mbit/s
 - [Sad Man's Tongue](https://maps.app.goo.gl/hE7mDzv2r592roT76) - 1950s dive bar restaurant on a side street with a
   mango chilli burger called Chica Chica Boom (360kc / €15). Good menu, Western prices, has a large cocktail menu,
   the usual spirits but little variety of soft drinks, tea, coffee.
@@ -407,7 +411,6 @@ For those who want coffee, eggs breakfast, granola bowls, acai etc.
 
 #### TODO Restaurants in Prague
 
-- [Burger Empire Prague](https://maps.app.goo.gl/72VYp7zsvr3nm7T59)
 - [Dergi Praha](https://maps.app.goo.gl/dUcN2wJz1KWnyQwbA) - Georgian restaurant with performances such as singing and
   sword fights, recommended by a travelling friend
 - [Alma Café](https://maps.app.goo.gl/DerXmDWs7vHx2tRUA) - opposite Khromberry
