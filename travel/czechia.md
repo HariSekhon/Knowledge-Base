@@ -443,6 +443,7 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
   sword fights, recommended by a travelling friend
 - [Staré Tbilisi gruzínská restaurace (Old Tbilisi Georgian Restaurant)](https://maps.app.goo.gl/3Q67mVurEjM6xpSi8) -
   4.7 Georgian
+- [Gruzínská Restaurace Samefo](https://maps.app.goo.gl/4WhRYRbFBGVVa5gn9) - 4.6 georgian
 - [Restaurant Matylda](https://maps.app.goo.gl/GeFhe3wxzdjtRKBC9) - check the daily menu
   [here](https://www.menicka.cz/2123-restaurant-matylda.html) for good lunch deals
 - [the sip](https://maps.app.goo.gl/orGELjT42z7EwVRZ6) - romantic wine bar
