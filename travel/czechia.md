@@ -15,6 +15,7 @@
     - [Mid Market Restaurants in Prague](#mid-market-restaurants-in-prague)
     - [Traditional Czech Restaurants in Prague](#traditional-czech-restaurants-in-prague)
     - [Upmarket Restaurants in Prague](#upmarket-restaurants-in-prague)
+    - [TODO Cafes and Brunches in Prague](#todo-cafes-and-brunches-in-prague)
     - [TODO Restaurants in Prague](#todo-restaurants-in-prague)
 - [Brno](#brno)
 - [České Budějovice](#české-budějovice)
@@ -414,21 +415,29 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
   indulgently rich. They also give bread with balsamic vinegar dip.
   Overall a bit pricey, I spent nearly £25 without a drink and before tip
 
+#### TODO Cafes and Brunches in Prague
+
+- [Seifert’s Brunch](https://maps.app.goo.gl/6k36enDxhp5i2DKGA) - 4.9 brunch
+- [CODE Concept](https://maps.app.goo.gl/oy9mcZekYVJBiKCeA) - 4.8 cafe
+- [KRAFIN Café & Bakery](https://maps.app.goo.gl/tohNBPQHKK1SVTQcA) - 4.8 cafe
+- [Alma Café](https://maps.app.goo.gl/DerXmDWs7vHx2tRUA) - opposite Khromberry
+- [Mistral Cafe](https://maps.app.goo.gl/3mZupmGDZWmQXpqB8) - brunch until 5pm
+- [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
+- [Oliver´s Cafe](https://maps.app.goo.gl/ZCSMiBUjtSgSA36R9) - 4.8 coffee shop
+- [Dark Velvet Cafe Bar](https://maps.app.goo.gl/5Agbb7wMENDU5FTC7) - 4.8 espresso bar
+
 #### TODO Restaurants in Prague
 
+- [Pivnice u Járy](https://maps.app.goo.gl/Nhqt5t1XS4k3Z2VQ6) - 4.7 czech
 - [Jam and Co.](https://maps.app.goo.gl/rNNJJQRzJm9vcwLb8) - 4.5 japanese
 - [Oak](https://maps.app.goo.gl/efc51xTVVFAm3hFm9) - 4.8 bistro
 - [Phở 18](https://maps.app.goo.gl/9Fjjr22T7A1bfC2u5) - 4.8 vietnamese
-- [KRAFIN Café & Bakery](https://maps.app.goo.gl/tohNBPQHKK1SVTQcA) - 4.8 cafe
 - [Boulangerie Le Caveau - Pekárna](https://maps.app.goo.gl/WcK2Daw3UZdrK3Tg6) - 4.7 bakery
 - [KRO Vršovice](https://maps.app.goo.gl/34tdET3UfMesS7Wf8) - 4.5 bistro
 - [Dergi Praha](https://maps.app.goo.gl/dUcN2wJz1KWnyQwbA) - Georgian restaurant with performances such as singing and
   sword fights, recommended by a travelling friend
 - [Staré Tbilisi gruzínská restaurace (Old Tbilisi Georgian Restaurant)](https://maps.app.goo.gl/3Q67mVurEjM6xpSi8) -
   4.7 Georgian
-- [Alma Café](https://maps.app.goo.gl/DerXmDWs7vHx2tRUA) - opposite Khromberry
-- [Mistral Cafe](https://maps.app.goo.gl/3mZupmGDZWmQXpqB8) - brunch until 5pm
-- [Golden Egg](https://maps.app.goo.gl/uJuBMHmWGKLv1aab6) - small local chain
 - [Restaurant Matylda](https://maps.app.goo.gl/GeFhe3wxzdjtRKBC9) - check the daily menu
   [here](https://www.menicka.cz/2123-restaurant-matylda.html) for good lunch deals
 - [the sip](https://maps.app.goo.gl/orGELjT42z7EwVRZ6) - romantic wine bar
