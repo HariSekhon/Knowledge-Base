@@ -431,6 +431,7 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 
 - [Pivnice u Járy](https://maps.app.goo.gl/Nhqt5t1XS4k3Z2VQ6) - 4.7 czech
 - [Jam and Co.](https://maps.app.goo.gl/rNNJJQRzJm9vcwLb8) - 4.5 japanese
+- [U Rohatejch](https://maps.app.goo.gl/yfRLWM5kyqbmbnDHA) - 4.5 czech
 - [Oak](https://maps.app.goo.gl/efc51xTVVFAm3hFm9) - 4.8 bistro
 - [Phở 18](https://maps.app.goo.gl/9Fjjr22T7A1bfC2u5) - 4.8 vietnamese
 - [Boulangerie Le Caveau - Pekárna](https://maps.app.goo.gl/WcK2Daw3UZdrK3Tg6) - 4.7 bakery
