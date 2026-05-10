@@ -309,8 +309,8 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 - [Boong Restaurant](https://maps.app.goo.gl/tyKEyVpRQrRmF1Nw8) - good Tom yum gong Thai soup with shrimp and beef with
   mixed vegetables. More expensive than Pho Duong Anh across the street but better quality. WiFi 20/25 Mbit/s
 - [Pho Duong Anh](https://maps.app.goo.gl/TuY9mBRmLAGft3DG8) - vietnamese, thai & sushi. WiFi 22/30 Mbit/s
-- [La Piccola Perla](https://maps.app.goo.gl/3BrVgTYGAdYQ38u76) - Italian, has great pizzas. I had the piccola perla pizza with parma ham, salami, marinated
-  red peppers, mozarella, tomato sauce and gorgonzola
+- [La Piccola Perla](https://maps.app.goo.gl/3BrVgTYGAdYQ38u76) - Italian, has great pizzas.
+  I had the piccola perla pizza with parma ham, salami, marinated red peppers, mozarella, tomato sauce and gorgonzola
 - [Červený Koŕal](https://maps.app.goo.gl/HTAR2u6kTg3So3457) - surprisingly decent reasonably priced Chinese food in the
   food court of [Máj Národní](https://maps.app.goo.gl/4CBcM613iaD9u9r18) shopping mall.
   For when you need a break from czech goulash, dumplings, duck etc. The name translates to Red Coral
