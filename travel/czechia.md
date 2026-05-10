@@ -443,6 +443,7 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 - [KRO Vršovice](https://maps.app.goo.gl/34tdET3UfMesS7Wf8) - 4.5 bistro
 - [U Pravdů](https://maps.app.goo.gl/inephocw15SAZeV18) - 4.5 czech
 - [Pivovarský dům Benedict](https://maps.app.goo.gl/gbAGPKmChnb9zG6t9) - 4.4 czech microbrewery, not cheap
+- [Restaurace U Šumavy](https://maps.app.goo.gl/5zXDUyeNUWnURFTL8) - 4.3 czech
 - [Dergi Praha](https://maps.app.goo.gl/dUcN2wJz1KWnyQwbA) - Georgian restaurant with performances such as singing and
   sword fights, recommended by a travelling friend
 - [Polévkárna paní Mančo](https://maps.app.goo.gl/FpHxgwsLG4b1hHx7A) - 4.7 georgian
