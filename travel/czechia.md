@@ -416,6 +416,11 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 
 #### TODO Restaurants in Prague
 
+- [Jam and Co.](https://maps.app.goo.gl/rNNJJQRzJm9vcwLb8) - 4.5 japanese
+- [Phở 18](https://maps.app.goo.gl/9Fjjr22T7A1bfC2u5) - 4.8 vietnamese
+- [KRAFIN Café & Bakery](https://maps.app.goo.gl/tohNBPQHKK1SVTQcA) - 4.8 cafe
+- [Boulangerie Le Caveau - Pekárna](https://maps.app.goo.gl/WcK2Daw3UZdrK3Tg6) - 4.7 bakery
+- [KRO Vršovice](https://maps.app.goo.gl/34tdET3UfMesS7Wf8) - 4.5 bistro
 - [Dergi Praha](https://maps.app.goo.gl/dUcN2wJz1KWnyQwbA) - Georgian restaurant with performances such as singing and
   sword fights, recommended by a travelling friend
 - [Alma Café](https://maps.app.goo.gl/DerXmDWs7vHx2tRUA) - opposite Khromberry
