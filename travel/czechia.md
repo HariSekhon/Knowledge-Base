@@ -313,7 +313,8 @@ For those who want coffee, eggs breakfast, granola bowls, acai etc.
 - [Čínská Restaurace](https://maps.app.goo.gl/3ekUKBsu2i5CmEPt9) - literally translates to Chinese Restaurant - slightly
   pricier than Červený koŕal above but the portion size was large, you could split a main between two and just get 2 egg
   fried rice. The sechuan chicken wasn't spicy though, they probably figure the locals and Americans can't take chilli
-- [Burrito Loco](https://maps.app.goo.gl/rsNkjggfaRUJU2s68) - good affordable late night burritos and tortilla chips.
+- [Burrito Loco](https://maps.app.goo.gl/rsNkjggfaRUJU2s68) - good affordable late night burrito chain with tortilla
+  chips too.
   The smaller burrito is only 139kc (£4.80) for 200g, ok for a late night snack while not over eating.
   The grande (large) burrito  is 500g and really big for 179kc (£6.20).
   Ideally there should have been a size in between.
