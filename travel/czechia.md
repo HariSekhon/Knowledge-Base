@@ -219,7 +219,7 @@ For those who want coffee, eggs breakfast, granola bowls, acai etc.
   This is my second favourite Acai bowl in Prague after the Acai Poke place above.
   Open until 6pm and has a second location at [Dusni](https://maps.app.goo.gl/EimXByt64jX74e6X6).
   Wifi 33/5 Mbit/s
-- [The Spot](https://maps.app.goo.gl/i8Bj5zRGHGzZSpSo6) - good brunch menu and prices. Has outdoor tables on the street
+- ~~[The Spot](https://maps.app.goo.gl/i8Bj5zRGHGzZSpSo6)~~ - closed down - good brunch menu and prices. Has outdoor tables on the street
   and a bunch more inside. The scrambled eggs, while reasonably priced, wasn't that big. The Acai bowl was decent.
   Wifi 15/19 Mbit/s
 - [Khromberry](https://maps.app.goo.gl/wXe8X751536WM21x5) - all day brunch, eggs benedict with salmon was very
