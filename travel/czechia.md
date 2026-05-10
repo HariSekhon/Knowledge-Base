@@ -417,6 +417,7 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 
 #### TODO Cafes and Brunches in Prague
 
+- [The Oat Bar](https://maps.app.goo.gl/BNK9w7mvLPP8p9yH9) - 4.8 cafe and oatmeal bowls
 - [Seifert’s Brunch](https://maps.app.goo.gl/6k36enDxhp5i2DKGA) - 4.9 brunch
 - [CODE Concept](https://maps.app.goo.gl/oy9mcZekYVJBiKCeA) - 4.8 cafe
 - [KRAFIN Café & Bakery](https://maps.app.goo.gl/tohNBPQHKK1SVTQcA) - 4.8 cafe
