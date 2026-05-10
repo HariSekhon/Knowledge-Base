@@ -315,8 +315,8 @@ For those who want coffee, eggs breakfast, granola bowls, acai etc.
   fried rice. The sechuan chicken wasn't spicy though, they probably figure the locals and Americans can't take chilli
 - [Burrito Loco](https://maps.app.goo.gl/rsNkjggfaRUJU2s68) - good affordable late night burrito chain with tortilla
   chips too.
-  The smaller burrito is only 139kc (£4.80) for 200g, ok for a late night snack while not over eating.
-  The grande (large) burrito  is 500g and really big for 179kc (£6.20).
+  The smaller burrito is only 159kc (£5.80) for 200g, ok for a late night snack while not over eating.
+  The grande (large) burrito  is 500g and really big for 200kc (£7).
   Ideally there should have been a size in between.
   The tortilla chips are cheaper 40kc when bought with a burrito, 75kc otherwise.
   The mango habanero salsa is spicy and sweet with a 3 chilli rating, and totally worth it.
