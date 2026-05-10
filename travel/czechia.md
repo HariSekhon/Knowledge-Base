@@ -437,6 +437,7 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 - [U Rohatejch](https://maps.app.goo.gl/yfRLWM5kyqbmbnDHA) - 4.5 czech
 - [Oak](https://maps.app.goo.gl/efc51xTVVFAm3hFm9) - 4.8 bistro
 - [Sensu cafe](https://maps.app.goo.gl/r8oEbYobHgR62EvT8) - 4.6
+- [U Kroka](https://maps.app.goo.gl/kj4hwUXQsgKPxNpg9) - 4.7 czech
 - [POCHA Original Korean Restaurant](https://maps.app.goo.gl/XuLZ7hoUfTaFrE8y8) - 4.6 korean
 - [Phở 18](https://maps.app.goo.gl/9Fjjr22T7A1bfC2u5) - 4.8 vietnamese
 - [Boulangerie Le Caveau - Pekárna](https://maps.app.goo.gl/WcK2Daw3UZdrK3Tg6) - 4.7 bakery
