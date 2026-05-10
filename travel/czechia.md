@@ -429,7 +429,8 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 
 #### TODO Restaurants in Prague
 
-- [Čestr](https://maps.app.goo.gl/inephocw15SAZeV18) - 4.6
+- [Čestr](https://maps.app.goo.gl/inephocw15SAZeV18) - 4.6 upmarket focused on beef, expensive 3 course meal, plus mains
+  and steaks
 - [Želva beers & burgers](https://maps.app.goo.gl/HxfPQYWvv2U2G9Xr6) - 4.7
 - [Pivnice u Járy](https://maps.app.goo.gl/Nhqt5t1XS4k3Z2VQ6) - 4.7 czech
 - [Jam and Co.](https://maps.app.goo.gl/rNNJJQRzJm9vcwLb8) - 4.5 japanese
