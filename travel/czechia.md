@@ -441,6 +441,7 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 - [KRO Vršovice](https://maps.app.goo.gl/34tdET3UfMesS7Wf8) - 4.5 bistro
 - [Dergi Praha](https://maps.app.goo.gl/dUcN2wJz1KWnyQwbA) - Georgian restaurant with performances such as singing and
   sword fights, recommended by a travelling friend
+- [Polévkárna paní Mančo](https://maps.app.goo.gl/FpHxgwsLG4b1hHx7A) - 4.7 georgian
 - [Staré Tbilisi gruzínská restaurace (Old Tbilisi Georgian Restaurant)](https://maps.app.goo.gl/3Q67mVurEjM6xpSi8) -
   4.7 Georgian
 - [Gruzínská Restaurace Samefo](https://maps.app.goo.gl/4WhRYRbFBGVVa5gn9) - 4.6 georgian
