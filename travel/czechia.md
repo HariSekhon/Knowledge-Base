@@ -521,7 +521,9 @@ stopped here driving between Prague and Wroclaw, Poland.
 
 ## Pilsen
 
-Small city, you can walk around the main square and surrounding roads in an hour.
+Small city in the south west of Czechia between Prague and Nuremburg in Germany.
+
+You can walk around the main square and surrounding roads in an hour.
 
 - [Plzen Plaza](https://maps.app.goo.gl/oyvGkYUyY7eSgNZN6) - small mall with free outdoor parking for 2 hours.
   Very convenient for a pit stop
