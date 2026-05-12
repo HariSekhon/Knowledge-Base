@@ -8,6 +8,7 @@
   - [Waterloo](#waterloo)
 - [Antwerp](#antwerp)
 - [Bruges](#bruges)
+- [Dinant](#dinant)
 - [Ghent / Gent](#ghent--gent)
 - [Liege](#liege)
 
@@ -70,6 +71,32 @@ Port city, not much there from what I recall, been to a good restaurant there bu
 with Bruges having a historic town catering to tourists with restaurants, ice cream and coffee shops.
 
 [Marco Polo Noodles](https://www.marco-polo-noodles.com/) is recommended on the main strip.
+
+## Dinant
+
+[Dinant](https://maps.app.goo.gl/Jhfk1QtN7DFxVHY1A) is a small town on river in the south centre of Belgium, home town
+of the inventor of the saxophone.
+
+- [Charles de Gaulle Bridge](https://maps.app.goo.gl/C8akMU2ss6VmmuW27) - lovely bridge lined with saxophones and flags
+  from major countries around the world - quite a nice touch for that has a welcoming feeling
+- [Collégiale Notre-Dame](https://maps.app.goo.gl/HMavVrUUF1DXPUFY8) - 13th century towering gothic church next to the
+  bridge
+- [The Citadel of Dinant](https://maps.app.goo.gl/3iBP6i1PLrNdmsAF8) - medievil fortress on the rock cliff overlooking
+  the church and bridge - it's 408 steps or cable car to the top
+
+<!-- -->
+
+- [Café Leffe](https://maps.app.goo.gl/dLUNBC9KJLJ7Acu27) - on the corner by the bridge, great view.
+  One of the few places open at 8:30pm, only 3.7 rating as it's a touch pricey for what it is eg.
+  €10 for a small chocolate fondant dessert with ice cream, €4.50 for a latte etc.
+  Wifi 290/8 Mbit/s
+- [parking shopping](https://maps.app.goo.gl/pCGN26yb983YQxyn9) - convenient open air car park by the bridge
+
+TODO:
+
+- [Le Derby](https://maps.app.goo.gl/iSqxt51qah5xZCHx5) - 4.5 coffee shop
+- [Café de la Croisette](https://maps.app.goo.gl/V6FCH1fBVW9GLGTp8) - 4.5 bar cafe
+- [La Capsule](https://maps.app.goo.gl/K88ALc9G7agNicXS8) - 4.5 bar
 
 ## Ghent / Gent
 
