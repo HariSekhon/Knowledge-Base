@@ -525,10 +525,16 @@ Small city in the south west of Czechia between Prague and Nuremburg in Germany.
 
 You can walk around the main square and surrounding roads in an hour.
 
-- [Plzen Plaza](https://maps.app.goo.gl/oyvGkYUyY7eSgNZN6) - small mall with free outdoor parking for 2 hours.
-  Very convenient for a pit stop
-- [Cathedral of St. Bartholomew](https://maps.app.goo.gl/oyvGkYUyY7eSgNZN6) - 13th century gothic cathedral
+- [Náměstí Republiky](https://maps.app.goo.gl/S6cSxCcAVD8R1pRN6) - the town square
+  - [Cathedral of St. Bartholomew](https://maps.app.goo.gl/oyvGkYUyY7eSgNZN6) - 13th century gothic cathedral
+  - [Zlatá kašna Chrt](https://maps.app.goo.gl/yjFDrqGRFRrfszPs7) /
+    [Zlatá kašna Anděl](https://maps.app.goo.gl/VSQ1DYX3TV923WTQ8) /
+    [Zlatá kašna Velbloud](https://maps.app.goo.gl/y4o1RhCBSwuKNQsG7) -
+    golden modern art water fountains in the corners of the square
 - [Museum of West Bohemia in Pilsen](https://maps.app.goo.gl/KNKfYFe9npZA1nG96) - magnificent architecture
   - [Šafaříkovy sady](https://maps.app.goo.gl/S18MpvN2YEdEBusY9) - park strip next to the above museum
 - [Great Synagogue](https://maps.app.goo.gl/AHpFLpsyEdy8BMrP6) - Europe's second largest synagogue. Interestingly,
   I realized when I saw this that one doesn't see such widespread grandeur as with gothic churches across Europe
+- [Puppet Museum](https://maps.app.goo.gl/52oRqxyGYdS5zx4z8)
+- [Plzen Plaza](https://maps.app.goo.gl/oyvGkYUyY7eSgNZN6) - small mall with free outdoor parking for 2 hours.
+  Very convenient for a pit stop
