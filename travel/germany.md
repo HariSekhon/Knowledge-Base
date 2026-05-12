@@ -24,9 +24,20 @@ driving distances in Germany.
 
 You can expect to drive for 8 hours to go from West to East Germany.
 
+In the cities they have low emissions regulations called _"Umwelt"_
+that require a government sticker displayed in the window.
+If you don't have the sticker you risk a fine even if you have a modern low emissions car.
+Government bureuacracy, it's worse than the UK.
+If you don't have the sticker, avoid parking on the streets where traffic patrols or police may notice and fine you,
+you may want to consider parking in the malls instead.
+
+## Aarchen
+
+Multicultural city on the western border with France and Belgium.
+
 ## Bonn
 
-TODO
+TODO - can't remember why I didn't fill this in at the time.
 
 ## Berlin
 
