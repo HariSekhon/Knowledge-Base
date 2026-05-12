@@ -36,14 +36,24 @@ you may want to consider parking in the malls instead.
 Multicultural city on the western border with France and Belgium.
 
 - [City Hall](https://maps.app.goo.gl/w9H9t5TKsENz6AKX9) - gothic architecture
-
+- [Katschhof](https://maps.app.goo.gl/qvwYbutYimHNPS2F6) - gothic cathedral
+- [Elisenbrunnen](https://maps.app.goo.gl/8StorNhwJKMrGgE27) - neoclassical pavilion
+- [Suermondt-Ludwig-Museum](https://maps.app.goo.gl/uCXXZ39rVnBLjxSh9) - 1800s mansion art museum
 
 <!-- -->
 
+- [Aquis Plaza](https://maps.app.goo.gl/AysYwpiKiJTWXMuy7) - mall with food court and parking for €2 per hour
 - [Damas Haus](https://maps.app.goo.gl/eeWCyz8GKZV4965U9) - syrian, low key not fancy but good food.
   The mixed grill has 1 lamb shish skewer (cubes), 1 chicken shish skewer and 2 lamb kofta skewers as well as crispy
   french fries with seasoning, pickles, pomegranate, 2 large sauces (one white like labneh, one yellow),
   flatbread. Fast WiFi 905/44 Mbit/s
+
+TODO:
+
+- [Portofino](https://maps.app.goo.gl/EifgmGhPhibnW1N86) - 4.6, breakfast restaurant with eggs, toasts,
+  the sundaes looks great, so does the food, and the banana split
+- [Zoom‘s Yaprak – The Zoom Restaurant](https://maps.app.goo.gl/q7MKZzqkywu3jFd86) - 4.7, turkish
+- [Coco Chan](https://maps.app.goo.gl/5qv2gGdM32axXtrw9) - 4.6, japanese
 
 ## Bonn
 
