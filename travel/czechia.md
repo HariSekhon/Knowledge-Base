@@ -21,6 +21,7 @@
 - [České Budějovice](#české-budějovice)
 - [Kutna Hora](#kutna-hora)
 - [Hradec Kralove](#hradec-kralove)
+- [Pilsen](#pilsen)
 
 <!-- INDEX_END -->
 
@@ -517,3 +518,11 @@ stopped here driving between Prague and Wroclaw, Poland.
   either - get the classic pork tenderloin schnitzel if you must.
   Next time I would go with the beef rump steak or confit duck (apparently a sizeable portion).
   42/10 Mbit/s wifi
+
+## Pilsen
+
+Small city, you can walk around the main square and surrounding roads in an hour.
+
+- [Plzen Plaza](https://maps.app.goo.gl/oyvGkYUyY7eSgNZN6) - small mall with free outdoor parking for 2 hours.
+  Very convenient for a pit stop
+- [Cathedral of St. Bartholomew](https://maps.app.goo.gl/oyvGkYUyY7eSgNZN6) - 13th century gothic cathedral
