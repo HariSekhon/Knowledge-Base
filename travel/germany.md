@@ -57,6 +57,9 @@ Multicultural city on the western border with France and Belgium.
 It has impressive architecture and there is surprisingly more here than I had expected,
 and as such a lot more foreign people seem to have moved here.
 
+You can also tell because a lot of the restaurants are foreign cuisines like in London.
+The one I went to on stopoever was Syrian, for example.
+
 - [City Hall](https://maps.app.goo.gl/w9H9t5TKsENz6AKX9) - gothic architecture
 - [Aachen Cathedral](https://maps.app.goo.gl/9LojyE5y7APotzRAA) - impressive cathedral with a small bridge between the
   main building and spire
