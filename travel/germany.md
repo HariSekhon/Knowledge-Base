@@ -35,6 +35,8 @@ you may want to consider parking in the malls instead.
 
 Multicultural city on the western border with France and Belgium.
 
+There is surprisingly more here than I expected, and as such a lot more foreign people seem to have moved here.
+
 - [City Hall](https://maps.app.goo.gl/w9H9t5TKsENz6AKX9) - gothic architecture
 - [Katschhof](https://maps.app.goo.gl/qvwYbutYimHNPS2F6) - gothic cathedral
 - [Elisenbrunnen](https://maps.app.goo.gl/8StorNhwJKMrGgE27) - neoclassical pavilion
