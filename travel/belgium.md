@@ -77,6 +77,9 @@ with Bruges having a historic town catering to tourists with restaurants, ice cr
 [Dinant](https://maps.app.goo.gl/Jhfk1QtN7DFxVHY1A) is a small town on river in the south centre of Belgium, home town
 of the inventor of the saxophone.
 
+Things seem to close early in this town, so get there during the daytime,
+it's not evening town and most things are closed by 8pm.
+
 - [Charles de Gaulle Bridge](https://maps.app.goo.gl/C8akMU2ss6VmmuW27) - lovely bridge lined with saxophones and flags
   from major countries around the world - quite a nice touch for that has a welcoming feeling
 - [Collégiale Notre-Dame](https://maps.app.goo.gl/HMavVrUUF1DXPUFY8) - 13th century towering gothic church next to the
@@ -94,6 +97,7 @@ of the inventor of the saxophone.
 
 TODO:
 
+- [O' D'lis Burger's Bar](https://maps.app.goo.gl/828JJooMGdZCNzor5) - 4.6
 - [Le Derby](https://maps.app.goo.gl/iSqxt51qah5xZCHx5) - 4.5 coffee shop
 - [Café de la Croisette](https://maps.app.goo.gl/V6FCH1fBVW9GLGTp8) - 4.5 bar cafe
 - [La Capsule](https://maps.app.goo.gl/K88ALc9G7agNicXS8) - 4.5 bar
