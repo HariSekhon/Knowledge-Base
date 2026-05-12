@@ -535,6 +535,7 @@ You can walk around the main square and surrounding roads in an hour.
   - [Šafaříkovy sady](https://maps.app.goo.gl/S18MpvN2YEdEBusY9) - park strip next to the above museum
 - [Great Synagogue](https://maps.app.goo.gl/AHpFLpsyEdy8BMrP6) - Europe's second largest synagogue. Interestingly,
   I realized when I saw this that one doesn't see such widespread grandeur as with gothic churches across Europe
+- [Historic Underground of Plzen](https://maps.app.goo.gl/57Upw1Z3NapjNums8)
 - [Puppet Museum](https://maps.app.goo.gl/52oRqxyGYdS5zx4z8)
 - [Plzen Plaza](https://maps.app.goo.gl/oyvGkYUyY7eSgNZN6) - small mall with free outdoor parking for 2 hours.
   Very convenient for a pit stop
