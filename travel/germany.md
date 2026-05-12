@@ -35,6 +35,16 @@ you may want to consider parking in the malls instead.
 
 Multicultural city on the western border with France and Belgium.
 
+- [City Hall](https://maps.app.goo.gl/w9H9t5TKsENz6AKX9) - gothic architecture
+
+
+<!-- -->
+
+- [Damas Haus](https://maps.app.goo.gl/eeWCyz8GKZV4965U9) - syrian, low key not fancy but good food.
+  The mixed grill has 1 lamb shish skewer (cubes), 1 chicken shish skewer and 2 lamb kofta skewers as well as crispy
+  french fries with seasoning, pickles, pomegranate, 2 large sauces (one white like labneh, one yellow),
+  flatbread. Fast WiFi 905/44 Mbit/s
+
 ## Bonn
 
 TODO - can't remember why I didn't fill this in at the time.
