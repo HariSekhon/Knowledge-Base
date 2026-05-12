@@ -13,6 +13,14 @@
 - [Königswinter](#königswinter)
 - [Potsdam](#potsdam)
 
+## Summary
+
+Well developed country with similar pros and cons to the UK now due to mass immigration.
+
+Salaries are among the highest in Europe (that's not saying much tbh) but the taxes and cost of living are relatively
+high too and you feel this whenever you go to even some simple food, so overall it's not the most attractive place to
+visit on a value basis, but it does have some interesting architecture.
+
 ## Driving in Germany
 
 The autobahn - the german highway - is long.
