@@ -35,7 +35,8 @@ you may want to consider parking in the malls instead.
 
 Multicultural city on the western border with France and Belgium.
 
-There is surprisingly more here than I expected, and as such a lot more foreign people seem to have moved here.
+It has impressive architecture and there is surprisingly more here than I had expected,
+and as such a lot more foreign people seem to have moved here.
 
 - [City Hall](https://maps.app.goo.gl/w9H9t5TKsENz6AKX9) - gothic architecture
 - [Aachen Cathedral](https://maps.app.goo.gl/9LojyE5y7APotzRAA) - impressive cathedral with a small bridge between the
