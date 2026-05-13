@@ -92,6 +92,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Don't Speed](#dont-speed)
   - [Do Not Even Jaywalk](#do-not-even-jaywalk)
 - [Driving](#driving)
+  - [Land Border Delays](#land-border-delays)
   - [Ferries](#ferries)
   - [Car Insurance](#car-insurance)
   - [International Driving Insurance](#international-driving-insurance)
@@ -954,18 +955,26 @@ you never know how they will treat you in a foreign place and it varies signific
 
 ## Driving
 
-Ferries are surprisingly expensive, similar or more in price compared a plane ticket.
-
-This probably works out a little more economical if having more than one person in the car.
-
-You should book ahead of time due to limited slots, and for better pricing.
-
 EU countries have town symbols along routes which automatically drop the speed limit to 50 km/h whether they declare it
 explicitly or not.
 
 This is a local knowledge that will get you done and your license revoked if you hit 100km/h.
 
+### Land Border Delays
+
+Land borders often have significant queues and delays,
+both due to queues of cars and also due to long slow checks and questioning.
+
 ### Ferries
+
+As per above, police extra questioning can make you miss your ferry (it's happened to me at Calais), so allow 1 hour
+extra for this.
+
+Ferries are surprisingly expensive, similar or more in price compared a plane ticket.
+
+This probably works out a little more economical if having more than one person in the car.
+
+You should book ahead of time due to limited slots, and for better pricing.
 
 Use ferry comparison sites:
 
