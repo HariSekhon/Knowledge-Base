@@ -460,6 +460,14 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 - [Čestr](https://maps.app.goo.gl/inephocw15SAZeV18) - 4.6 upmarket focused on beef, expensive 3 course meal, plus mains
   and steaks
 
+Not Recommended:
+
+- [Jam and Co.](https://maps.app.goo.gl/n5Bq29FqMm3pDv7L6) - the Pad Kra Pao was not good, the beef was not solid slices
+  like a decent thai would give you and the sauce tasted weird -
+  I don't remember the last place that ever messed up this classic thai dish.
+  I guess I should have expected this from a place charging €15 for ramen (poverty food).
+  Fast WiFi 182/136 Mbit/s
+
 ## Brno
 
 Brno is a small city with some lovely architecture as well as a selection of restaurants and cafes.
