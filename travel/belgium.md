@@ -4,6 +4,7 @@
 
 - [Summary](#summary)
 - [Population](#population)
+- [Driving in Belgium](#driving-in-belgium)
 - [Brussels](#brussels)
   - [Waterloo](#waterloo)
 - [Antwerp](#antwerp)
@@ -48,6 +49,15 @@ Belgium's population is still increasing despite this due to mass immigration,
 which is obvious if you've visited its capital Brussels (one of my less favourite parts of the country):
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~BEL)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~BEL)
+
+## Driving in Belgium
+
+You do not need any vignettes
+but you do need a low emissions registration to drive in the major cities like Brussels or Antwerp or Ghent.
+
+You can register for free here, it only takes 5 minutes and lasts for 5 years:
+
+<https://lez.brussels/mytax/>
 
 ## Brussels
 
