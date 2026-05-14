@@ -47,6 +47,12 @@ if [[ "$USER" =~ hari|sekhon ]]; then
         timestamp "Downloading Nomads CSV"
         nomads_csv=~/Downloads/"$(date '+%F')-harisekhon-trips-on-nomad-list.csv"
         curl_with_cookies.sh https://nomads.com/@harisekhon.csv > "$nomads_csv"
+        google_drive_travel_dir="$HOME/Google Drive/1. Travel"
+        if [ -d "$google_drive_travel_dir" ]; then
+            timestamp "Copying Nomads CSV to Google Drive"
+            cp -fv "$nomads_csv" "$google_drive_travel_dir/nomads.csv"
+            git_diff_commit.sh "$google_drive_travel_dir/nomads.csv"
+        fi
         echo "Stripping first line header"
         csv="$(tail -n +2 "$nomads_csv")"
         timestamp "Parsing Countries from CSV"
