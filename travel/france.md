@@ -19,7 +19,12 @@ surprise for a country close to England.
 
 ## Driving in France
 
-You need a low emissions sticker, which you can buy for around €5 including postage on this website:
+You need an AA pack including headlamp converters
+(stickers that change the direction of your beam since you are driving on the other side of the road).
+
+You will also need a low emissions sticker to enter major cities.
+
+You can buy for around €5 including postage on this website:
 
 <https://www.certificat-air.gouv.fr/>
 
