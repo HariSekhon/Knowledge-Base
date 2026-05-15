@@ -16,6 +16,7 @@
 - [Hanover](#hanover)
 - [Königswinter](#königswinter)
 - [Potsdam](#potsdam)
+- [Stuttgart](#stuttgart)
 
 <!-- INDEX_END -->
 
@@ -186,3 +187,19 @@ City just outside the west of Berlin.
 [KOI Sushi, Grill & Soup](https://koi-sushi-grill.eatbu.com/) is highly recommended here. They don't speak English but
 it's worth the translation effort, excellent food and good prices.
 The Thai tom yum soup and the sushi are recommended.
+
+## Stuttgart
+
+- [Maritius - The Beach Restaurant](https://maps.app.goo.gl/z17Fjz1jDnqEd9MV6) - mid-upmarket chain restaurant,
+  open later than the others so people seem to concentrate here.
+  It has both a large cocktail menu and a good varied food menu with moderate prices including steaks, chicken,
+  schnitzel, burgers, pizza, pasta and various full salad plates.
+  The Caribbean Grilled Chicken is a safe choice of a well balanced plate with 2 grilled chicken pieces,
+  the longest sweet potato fries I've ever seen (the longest ones were approximately 8 inches!),
+  rice and salad.
+  The salad had a good dressing and a large lime wedge for that zing.
+  The yellow rice was well flavoured and probably the best part of the plate.
+  The peach iced tea is very good with a bit of ginger ale for a mild fizz,
+  and also comes in a decent size at 500ml unlike many other european restaurant drinks.
+  The WiFi didn't work due to a captcha portal page
+  being black blank and not loading properly to progress the connection (I tried on both my phone and laptop).
