@@ -190,6 +190,14 @@ The Thai tom yum soup and the sushi are recommended.
 
 ## Stuttgart
 
+<!--
+
+- [Hola Hotel Stuttgart](https://maps.app.goo.gl/6KDssQAb7xEd6J8E8) -
+nice interior, but no reception,
+you need to do online check-in to get a lockbox code and also the checkout is too early at 10am
+
+-->
+
 - [Maritius - The Beach Restaurant](https://maps.app.goo.gl/z17Fjz1jDnqEd9MV6) - mid-upmarket chain restaurant,
   open later than the others so people seem to concentrate here.
   It has both a large cocktail menu and a good varied food menu with moderate prices including steaks, chicken,
