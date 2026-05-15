@@ -2,8 +2,9 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
 - [Luxembourg City](#luxembourg-city)
-  - [Driving in Luxembourg](#driving-in-luxembourg)
+  - [Driving in Luxembourg City](#driving-in-luxembourg-city)
   - [Buses in Luxembourg City](#buses-in-luxembourg-city)
   - [Parking in Luxembourg City](#parking-in-luxembourg-city)
   - [Restaurants in Luxembourg City](#restaurants-in-luxembourg-city)
@@ -27,7 +28,7 @@ I suspect these are flemish people based on prior experience.
 
 You need at least 2-3 hours to walk around and sightsee, plus whatever time you spend in cafes and restaurants.
 
-### Driving in Luxembourg
+### Driving in Luxembourg City
 
 Luxembourg maintains low emissions standards requirements to enter the city
 but unlike France and Germany doesn't require you to get a pre-approved sticker.
