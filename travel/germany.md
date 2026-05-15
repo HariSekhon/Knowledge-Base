@@ -193,8 +193,9 @@ The Thai tom yum soup and the sushi are recommended.
 <!--
 
 - [Hola Hotel Stuttgart](https://maps.app.goo.gl/6KDssQAb7xEd6J8E8) -
-nice interior, but no reception,
-you need to do online check-in to get a lockbox code and also the checkout is too early at 10am
+  nice interior, but no reception,
+  you need to do online check-in to get a lockbox code and also the checkout is too early at 10am.
+  Wifi 24/12 Mbit/s
 
 -->
 
