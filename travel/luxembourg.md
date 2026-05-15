@@ -13,8 +13,8 @@
 
 ## Summary
 
-Luxembourg is pretty much pan-european between French, German and Flemish,
-and as such there doesn't seem to be a particular cuisine.
+[Luxembourg](https://maps.app.goo.gl/hUn5kpH7XwbJq9Uj7) is pretty much pan-european between French, German and Flemish,
+being situated in between France, Germany and Belgium, and as such there doesn't seem to be a particular cuisine.
 
 There is some nice architecture but the shops are mostly international chains and restaurants of international cuisines.
 You don't really need to go to Luxembourg to each thai or a burger or italian.
