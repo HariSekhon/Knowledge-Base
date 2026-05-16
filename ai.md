@@ -11,6 +11,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 - [OpenClaw](#openclaw)
 - [Run AI with API](#run-ai-with-api)
 - [Chat LLMs](#chat-llms)
+  - [Venice AI](#venice-ai)
   - [ChatGPT](#chatgpt)
   - [Deepseek](#deepseek)
   - [Grok](#grok)
