@@ -17,6 +17,8 @@
 - [Königswinter](#königswinter)
 - [Potsdam](#potsdam)
 - [Stuttgart](#stuttgart)
+  - [Attractions in Stuttgart](#attractions-in-stuttgart)
+  - [Restaurants in Stuttgart](#restaurants-in-stuttgart)
 
 <!-- INDEX_END -->
 
@@ -200,6 +202,12 @@ The Thai tom yum soup and the sushi are recommended.
   and got your lockbox code email or you'll need mobile data
 
 -->
+
+### Attractions in Stuttgart
+
+- [Marktplatz](https://maps.app.goo.gl/XTw5XJUQ19Y6Dy3S8) - the central market
+
+### Restaurants in Stuttgart
 
 - [Cafe Hegel](https://maps.app.goo.gl/S8SMaosnv2Eh49wG8) - very popular brunch cafe.
   Difficult to get a seat inside and service is a bit slow as a result.
