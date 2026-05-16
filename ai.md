@@ -11,7 +11,6 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
 - [OpenClaw](#openclaw)
 - [Run AI with API](#run-ai-with-api)
 - [Chat LLMs](#chat-llms)
-  - [Venice AI](#venice-ai)
   - [ChatGPT](#chatgpt)
   - [Deepseek](#deepseek)
   - [Grok](#grok)
@@ -19,6 +18,7 @@ AGI - _"Artificial General Intelligence"_ - mirroring everything humans can do -
   - [Google Gemini](#google-gemini)
     - [Google AI Studio - Gemini](#google-ai-studio---gemini)
   - [Meta AI](#meta-ai)
+  - [Venice AI](#venice-ai)
   - [Perplexity](#perplexity)
   - [Abacus AI](#abacus-ai)
   - [SQL Chat](#sql-chat)
@@ -118,13 +118,6 @@ The various leading LLMs have different strengths and weaknesses.
 
 You are advised to pose the same prompt to several of them to see the difference in their responses.
 
-### Venice AI
-
-Uncensored so you can get real answers on important life topics without them lying about differences in IQ, crime rates
-etc.
-
-<https://venice.ai/>
-
 ### ChatGPT
 
 <https://chat.openai.com/chat>
@@ -164,6 +157,13 @@ TODO: Claude Artifacts
 ### Meta AI
 
 <https://www.meta.ai/>
+
+### Venice AI
+
+Uncensored so you can get real answers on important life topics without them lying about differences in IQ, crime rates
+etc.
+
+<https://venice.ai/>
 
 ### Perplexity
 
