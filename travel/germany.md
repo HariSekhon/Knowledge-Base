@@ -201,6 +201,9 @@ The Thai tom yum soup and the sushi are recommended.
 
 -->
 
+- [Cafe Hegel](https://maps.app.goo.gl/S8SMaosnv2Eh49wG8) - very popular brunch cafe.
+  Difficult to get a seat inside and service is a bit slow as a result.
+  Fast Wifi 258/23 Mbit/s
 - [Maritius - The Beach Restaurant](https://maps.app.goo.gl/z17Fjz1jDnqEd9MV6) - mid-upmarket chain restaurant,
   open later than the others so people seem to concentrate here.
   It has both a large cocktail menu and a good varied food menu with moderate prices including steaks, chicken,
