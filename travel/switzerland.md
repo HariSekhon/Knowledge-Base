@@ -74,6 +74,19 @@ It has the usual international brands, and some architecture, but it's nothing s
 
 There are a lot of expensive cars, I don't recall seeing so many Porches, as well as Mercedes, BMW, Audi and SUVs.
 
+### Attractions in Zurich
+
+- [Bahnhofstrasse](https://maps.app.goo.gl/W7igYmmJbGb2BQD2A) - main street with the usual international brands
+- [Paradeplatz](https://maps.app.goo.gl/WPauUoXDLJKeWoAfA) - city square famous for Swiss banking
+- [Lindenhof](https://maps.app.goo.gl/QP16WgFJKSyR5v499)
+- [Brunnen Ganymeds Schwester](https://maps.app.goo.gl/b499rjXYqCdSu7Pe6) - waterfront walk with Swiss Alps in the
+  distance
+- [Grossmünster](https://maps.app.goo.gl/eQJLgwN8PfBgGjzG8) - large twin tower Romanesque cathedral
+- [St. Peter's Church](https://maps.app.goo.gl/YNhiTvtiJ24o2Vny7) - with a clock tower
+- [Fraumünster Church](https://maps.app.goo.gl/NpCQrXEn42Mc1zB86)
+- [Natural History Museum of the University of Zurich](https://maps.app.goo.gl/7kf7PqC2NT99Vacs6)
+- [Geiserbrunnen von Brüllmann](https://maps.app.goo.gl/DVcwdZTfKZ4fkXyE8) - large fountain
+
 ### Restaurants in Zurich
 
 I can't recommend any restaurants here as they are expensive for what they are.
