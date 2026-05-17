@@ -15,6 +15,8 @@
 
 ## Summary
 
+[Switzerland]()
+
 ## Driving in Switzerland
 
 You need an e-vignette to drive on Swiss motorways.
@@ -80,6 +82,7 @@ I parked here which is only a few minutes walk from the main attractions listed 
   christian roof paintings of 17th century art
 - [Spreuerbrücke](https://maps.app.goo.gl/FhnosRfxZCYbMLZi6) - another 15th century wooden bridge with christian
   paintings on it - counterpart to Kapellbrücke above
-- [Museggmauer](https://maps.app.goo.gl/F2rmAc9Hbxjg8C5A7) - old city wall with 9 towers
 - [Lion Monument (Löwendenkmal)](https://maps.app.goo.gl/yp2WBSvEJW5tiBGy6) - make sure you don't miss this large lion,
   carved directly into the rock - it's very impressive art and photo worthy, with a large pond in front of it
+- [Museggmauer](https://maps.app.goo.gl/F2rmAc9Hbxjg8C5A7) - old city wall with 9 towers
+- [Zytturm](https://maps.app.goo.gl/C1JMhATBFEWAgEQaA) - 16th century tower clock
