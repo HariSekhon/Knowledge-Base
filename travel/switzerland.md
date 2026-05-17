@@ -15,7 +15,14 @@
 
 ## Summary
 
-[Switzerland]()
+[Switzerland](https://maps.app.goo.gl/oqDMZ2SqKgR7Mebx7) is a notoriously expensive landlocked country in central Europe
+known for international private banking for the rich
+(the US has recently cracked their banking privacy by threatening their international branches).
+
+Overall I consider Switzerland to be poor value for money
+and if one really wants to see it to tick it off I would recommend a very short stay.
+
+It's not worth living in Switzerland unless they offer you a salary well into 6 figure range.
 
 ## Driving in Switzerland
 
