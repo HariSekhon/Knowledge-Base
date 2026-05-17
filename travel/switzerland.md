@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Population](#population)
 - [Driving in Switzerland](#driving-in-switzerland)
 - [The Swiss Alps](#the-swiss-alps)
 - [Zurich](#zurich)
@@ -25,6 +26,27 @@ Overall I consider Switzerland to be poor value for money
 and if one really wants to see it to tick it off I would recommend a very short stay.
 
 It's not worth living in Switzerland unless they offer you a salary well into 6 figure range.
+
+Overall Switzerland represents a lot of what is wrong with European countries -
+inter-generational wealth inequality and dying birthrates.
+They'll inevitably be replaced by Africans this century if nothing radically changes.
+
+## Population
+
+Switzerland has a population of nearly 9 million people, primarily speaking German, French and Italian.
+
+Switzerland's birthrate has been below replenishment for over 50 years since 1971, now an unsustainably low 1.4 children
+per woman.
+
+Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
+and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
+ponzi scheme welfare state & pensions long term.
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~CHE~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~CHE~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)
+
+Switzerland's population is still steadily increasing despite this due to immigration.
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~CHE)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~CHE)
 
 ## Driving in Switzerland
 
