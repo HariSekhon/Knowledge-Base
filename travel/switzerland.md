@@ -111,6 +111,8 @@ I much preferred Lucerne instead of Zurich.
 The architecture is better in general with many nice buildings and many regular buildings with nice architecture and
 paintings on them.
 
+Zurich is better for museums, as most capitals are.
+
 Overall I much prefer Lucerne's architecture, and it feels a bit less commercial than Zurich.
 
 ### Parking in Lucerne
