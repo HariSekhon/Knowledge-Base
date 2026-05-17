@@ -36,6 +36,9 @@ Buy it here to avoid fines:
 
 It costs 40CHF (£38) as of 2026. Pay in CHF to avoid a higher conversion upcharge to £40.
 
+If you buy it mid-way through a year, you only get the rest of the year until the following January,
+effectively losing the time in the year before that.
+
 Speed cameras are grey and easy to not see until it's too late and you're in snapshot distance,
 so stick to the speed limits, and watch out for picking up speed on downhill alps motorways where cameras may be waiting
 to catch you out!
