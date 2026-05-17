@@ -4,6 +4,7 @@
 
 - [Summary](#summary)
 - [Driving in Switzerland](#driving-in-switzerland)
+- [The Swiss Alps](#the-swiss-alps)
 - [Zurich](#zurich)
   - [Parking in Zurich](#parking-in-zurich)
   - [Restaurants in Zurich](#restaurants-in-zurich)
@@ -42,6 +43,21 @@ effectively losing the time in the year before that.
 Speed cameras are grey and easy to not see until it's too late and you're in snapshot distance,
 so stick to the speed limits, and watch out for picking up speed on downhill alps motorways where cameras may be waiting
 to catch you out!
+
+## The Swiss Alps
+
+The snow-capped Swiss Alps mountains are as amazing as you might expect.
+
+Looking at them on the motorways of Switzerland is actually worth the price of the vignette.
+
+It reminds me of a saying I read as a kid:
+
+_"The journey is the destination"_
+
+The Swiss Alps are also visible in the distance from the cities like Zurich and Lucerne,
+but up close the motorways are the best way to see them.
+
+Forget the Swiss cities, I prefer driving across Switzerland just to see these instead.
 
 ## Zurich
 
