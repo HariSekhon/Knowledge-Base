@@ -68,6 +68,10 @@ cities.
 
 Zurich has absolutely nothing on London in terms of attractions and food.
 
+I would absolutely never live in Zurich unless I was being paid an absolute fortune more than anywhere else,
+as there are many far nicer cities across Europe that I prefer such as London,
+Madrid, Prague, Budapest, Rome, Milan, Warsaw, Berlin, Vienna, Belgrade etc.
+
 It has the usual international brands, and some architecture, but it's nothing special.
 
 ### Parking in Zurich
