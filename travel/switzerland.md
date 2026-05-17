@@ -7,6 +7,7 @@
 - [The Swiss Alps](#the-swiss-alps)
 - [Zurich](#zurich)
   - [Parking in Zurich](#parking-in-zurich)
+  - [Attractions in Zurich](#attractions-in-zurich)
   - [Restaurants in Zurich](#restaurants-in-zurich)
 - [Lucerne](#lucerne)
   - [Parking in Lucerne](#parking-in-lucerne)
