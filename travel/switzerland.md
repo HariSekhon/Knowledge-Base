@@ -91,6 +91,7 @@ There are a lot of expensive cars, I don't recall seeing so many Porches, as wel
 - [Grossmünster](https://maps.app.goo.gl/eQJLgwN8PfBgGjzG8) - large twin tower Romanesque cathedral
 - [St. Peter's Church](https://maps.app.goo.gl/YNhiTvtiJ24o2Vny7) - with a clock tower
 - [Fraumünster Church](https://maps.app.goo.gl/NpCQrXEn42Mc1zB86)
+- [Zürich Opera House](https://maps.app.goo.gl/u3pCTSCM14SJmpGJA)
 - [Swiss National Museum](https://maps.app.goo.gl/Voh5goNs7AMuMhaw5)
 - [Natural History Museum of the University of Zurich](https://maps.app.goo.gl/7kf7PqC2NT99Vacs6)
 - [focusTerra](https://maps.app.goo.gl/eBdL766BL2Qg8EVM7)
