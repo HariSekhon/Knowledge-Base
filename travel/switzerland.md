@@ -76,8 +76,10 @@ I parked here which is only a few minutes walk from the main attractions listed 
   overlooking the water and bridges
 - [Jesuitenplatz](https://maps.app.goo.gl/1UZTkxi1oriPddDDA) - waterfront promenade in from of the above church
 - [Rathausquai](https://maps.app.goo.gl/TTCi6vJEcyPaCFj66) - opposite waterfront promenade
-- [Chapel Bridge (Kapellbrücke)](https://maps.app.goo.gl/DoSRddDpxycpuAbw5) - wooden covered bridge with christian
-  paintings on the roof triangles
+- [Chapel Bridge (Kapellbrücke)](https://maps.app.goo.gl/DoSRddDpxycpuAbw5) - early 14th century wooden bridge with
+  christian roof paintings of 17th century art
+- [Spreuerbrücke](https://maps.app.goo.gl/FhnosRfxZCYbMLZi6) - another 15th century wooden bridge with christian
+  paintings on it - counterpart to Kapellbrücke above
 - [Museggmauer](https://maps.app.goo.gl/F2rmAc9Hbxjg8C5A7) - old city wall with 9 towers
 - [Lion Monument (Löwendenkmal)](https://maps.app.goo.gl/yp2WBSvEJW5tiBGy6) - make sure you don't miss this large lion,
   carved directly into the rock - it's very impressive art and photo worthy, with a large pond in front of it
