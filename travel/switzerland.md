@@ -86,6 +86,7 @@ There are a lot of expensive cars, I don't recall seeing so many Porches, as wel
 - [St. Peter's Church](https://maps.app.goo.gl/YNhiTvtiJ24o2Vny7) - with a clock tower
 - [Fraumünster Church](https://maps.app.goo.gl/NpCQrXEn42Mc1zB86)
 - [Natural History Museum of the University of Zurich](https://maps.app.goo.gl/7kf7PqC2NT99Vacs6)
+- [focusTerra](https://maps.app.goo.gl/eBdL766BL2Qg8EVM7)
 - [Geiserbrunnen von Brüllmann](https://maps.app.goo.gl/DVcwdZTfKZ4fkXyE8) - large fountain
 
 ### Restaurants in Zurich
