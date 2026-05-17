@@ -66,7 +66,7 @@ You can walk around central Zurich in around 1 hour,
 I was not really impressed, it is smaller than I expected with less than many other European capital
 cities.
 
-Zurich has absolutely nothing on London in terms of attractions and range of food.
+Zurich has absolutely nothing on London in terms of attractions and food.
 
 It has the usual international brands, and some architecture, but it's nothing special.
 
