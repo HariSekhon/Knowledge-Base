@@ -84,7 +84,7 @@ I can't recommend any restaurants here as they are expensive for what they are.
 
 ## Lucerne
 
-I much preferred Lucerne to Zurich.
+I much preferred Lucerne instead of Zurich.
 
 The architecture is better in general with many nice buildings and many regular buildings with nice architecture and
 paintings on them.
