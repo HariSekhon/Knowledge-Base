@@ -40,6 +40,10 @@ which is more than I would spend on fuel driving such a short distance,
 but of course,
 European cities are not car friendly as you wouldn't be able to park anywhere or the parking fees would be far higher.
 
+I was surprised how much immigration and graffiti there was.
+
+[This youtube video](https://www.youtube.com/watch?v=f8NBxc3EgYA) gives you some idea.
+
 ## Venice
 
 Steps everywhere, do not go with children and especially not with a buggy. You will spend all day carrying the buggy up
