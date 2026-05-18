@@ -57,6 +57,10 @@ I was surprised how much immigration and graffiti there was.
 
 ## Restaurants in Milan
 
+- [Via Pasteria - Corso Italia](https://maps.app.goo.gl/ThjigBZX7ZMzZRcE9) - there was a significant queue outside for a
+  table (probably due to Google ad) as the place isn't that big, perhaps 10 tables.
+  The fusillo bolognese was decent, although not that big a portion, with al dente pasta.
+  WiFi 86/92 Mbit/s
 - [Boru Ramen](https://maps.app.goo.gl/y2jiMnJBeqdT9CeNA) - high quality, deserves its 4.8 rating, and
   reasonable prices too.
   The ebi ramen with 6 prawns was the most expensive thing on the menu at €15 but very good quality, really hit the
