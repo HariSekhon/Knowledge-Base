@@ -2,13 +2,22 @@
 
 <!-- INDEX_START -->
 
-- [Car Rentals in Italy](#car-rentals-in-italy)
+- [Driving in Italy](#driving-in-italy)
+  - [Car Rentals in Italy](#car-rentals-in-italy)
 - [Rome](#rome)
+- [Milan](#milan)
 - [Venice](#venice)
 
 <!-- INDEX_END -->
 
-## Car Rentals in Italy
+## Driving in Italy
+
+Thankfully you don't need a vignette to drive in Italy, but there are motorway tolls.
+
+For example, driving down from the Swiss Alps to Milan just before arriving I hit a toll barrier
+which accepted contactless card payment.
+
+### Car Rentals in Italy
 
 I haven't used these, my colleagues were discussing them:
 
@@ -18,6 +27,12 @@ I haven't used these, my colleagues were discussing them:
 ## Rome
 
 Been a long time, there are Gelato ice cream places everywhere.
+
+## Milan
+
+[Milan](https://maps.app.goo.gl/YiFsTa9vAcmSrXkA8) is a large city in the north of Italy near the Swiss Alps.
+
+It is famous for fashion and design, and has a lot of great architecture and the usual international brand shops.
 
 ## Venice
 
