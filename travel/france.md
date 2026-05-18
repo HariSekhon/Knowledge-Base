@@ -4,9 +4,11 @@
 
 - [Summary](#summary)
 - [Driving in France](#driving-in-france)
+  - [Tolls](#tolls)
 - [Calais](#calais)
 - [Dunkirk](#dunkirk)
 - [Paris](#paris)
+- [Reims](#reims)
 
 <!-- INDEX_END -->
 
@@ -32,6 +34,12 @@ You cannot enter many major cities without this sticker.
 
 Within 24-48 hours of registration and payment an email with a temporary sticker is sent which you can print.
 
+### Tolls
+
+Some motorways have tolls.
+
+I got robbed by automated barriers for €27 for a single drive from Calais to Reims.
+
 ## Calais
 
 Mainly a stopover or passthrough for the port to Dover in England.
@@ -50,3 +58,10 @@ I have literally been told off for not speaking French as a visitor. Much less w
 
 The many Chateaux outside of Paris in the French countryside are nice though
 (I used to go every year with a company for retreats).
+
+## Reims
+
+Small city in the north east of France.
+
+I've stopped overnight here on way to Luxembourg and Germany.
+Didn't stay here long enough to check out the restaurant scene.
