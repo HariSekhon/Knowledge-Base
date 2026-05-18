@@ -68,7 +68,7 @@ I was surprised how much immigration and graffiti there was.
   The dark chocolate and pistachio were better than the ananas & coconut
 - [Cioccolatitaliani](https://maps.app.goo.gl/QDwn1Ti5JYeiX3ff6) - very popular ice cream shop next to the wonderful
   [Galleria Vittorio Emanuele II](https://maps.app.goo.gl/MZQfS5KxKCGnuTXW8).
-  The "Provo Costume" cialde special with fruit and homemade yoghurt ice cream is my favourite,
+  The "Provo Costume" cialde special with fruit and homemade yoghurt ice cream in a big waffle cone is my favourite,
   it's so good I went back for it again the next day.
   The queue for the toilet was 20 people deep down the stairs though
 - [Via Pasteria - Corso Italia](https://maps.app.goo.gl/ThjigBZX7ZMzZRcE9) /
