@@ -44,6 +44,17 @@ I was surprised how much immigration and graffiti there was.
 
 [This youtube video](https://www.youtube.com/watch?v=f8NBxc3EgYA) gives you some idea.
 
+<!--
+
+- [Mio Hostel](https://maps.app.goo.gl/KvmcvBQ8S3rmtSKM7) - in the north east suburb of Milan but ok can get into centre
+  via public transport in 20-30 minutes, but it has no kitchen,
+  and mediocre toilets but decent shower water pressure and heating.
+  Wifi 128/15 Mbit/s
+
+-->
+
+## Restaurants in Milan
+
 ## Venice
 
 Steps everywhere, do not go with children and especially not with a buggy. You will spend all day carrying the buggy up
