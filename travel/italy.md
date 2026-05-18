@@ -70,6 +70,7 @@ I was surprised how much immigration and graffiti there was.
   [Galleria Vittorio Emanuele II](https://maps.app.goo.gl/MZQfS5KxKCGnuTXW8).
   The "Provo Costume" cialde special with fruit and homemade yoghurt ice cream in a big waffle cone is my favourite,
   it's so good I went back for it again the next day.
+  The cone contains more fruit, although they could put more fruit on the top.
   The queue for the toilet was 20 people deep down the stairs though
 - [Via Pasteria - Corso Italia](https://maps.app.goo.gl/ThjigBZX7ZMzZRcE9) /
   [Daniele Crespi](https://maps.app.goo.gl/baH6Dmpi7BGGq38g9)- local pasta chain.
