@@ -34,6 +34,12 @@ Been a long time, there are Gelato ice cream places everywhere.
 
 It is famous for fashion and design, and has a lot of great architecture and the usual international brand shops.
 
+Public transport in Milan is pretty decent,
+although it costs over €2 per trip,
+which is more than I would spend on fuel driving such a short distance,
+but of course,
+European cities are not car friendly as you wouldn't be able to park anywhere or the parking fees would be far higher.
+
 ## Venice
 
 Steps everywhere, do not go with children and especially not with a buggy. You will spend all day carrying the buggy up
