@@ -57,6 +57,10 @@ I was surprised how much immigration and graffiti there was.
 
 ## Restaurants in Milan
 
+- [Venchi Cioccolato e Gelato, Milano Via Dante](https://maps.app.goo.gl/YeG46rgZ4k7kfyHH8) /
+  [Giuseppe Mengoni](https://maps.app.goo.gl/DEfGNvtCUCNGZbzr9) - local chocolate and gelato chain.
+  Large selection of chocolate bars with nuts etc and medium sized selection of ice creams with fancy cones.
+  The dark chocolate and pistachio were better than the ananas & coconut
 - [Via Pasteria - Corso Italia](https://maps.app.goo.gl/ThjigBZX7ZMzZRcE9) /
   [Daniele Crespi](https://maps.app.goo.gl/baH6Dmpi7BGGq38g9)- local pasta chain.
   There was a significant queue outside for a table (probably due to Google ad) as the place isn't that big,
