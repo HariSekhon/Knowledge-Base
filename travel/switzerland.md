@@ -144,6 +144,8 @@ Zurich is better for museums and finance work, as most capitals are.
 
 Overall I much prefer Lucerne's architecture, and it feels a bit less commercial than Zurich.
 
+Like with the rest of Switzerland, it is expensive though - a tiny coffee cost me 6 CHF (€6.50).
+
 ### Parking in Lucerne
 
 I parked here which is only a few minutes walk from the main attractions listed below.
