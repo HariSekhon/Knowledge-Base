@@ -55,12 +55,20 @@ I was surprised how much immigration and graffiti there was.
 
 -->
 
+## Attractions in Milan
+
+- [Galleria Vittorio Emanuele II](https://maps.app.goo.gl/MZQfS5KxKCGnuTXW8) - 19th century open air mall cross
+  containing luxury designer brands and upmarket restaurants and cafes with an impressive ceiling and artwork
+
 ## Restaurants in Milan
 
 - [Venchi Cioccolato e Gelato, Milano Via Dante](https://maps.app.goo.gl/YeG46rgZ4k7kfyHH8) /
   [Giuseppe Mengoni](https://maps.app.goo.gl/DEfGNvtCUCNGZbzr9) - local chocolate and gelato chain.
   Large selection of chocolate bars with nuts etc and medium sized selection of ice creams with fancy cones.
   The dark chocolate and pistachio were better than the ananas & coconut
+- [Cioccolatitaliani](https://maps.app.goo.gl/QDwn1Ti5JYeiX3ff6) - very popular ice cream shop next to the wonderful
+  [Galleria Vittorio Emanuele II](https://maps.app.goo.gl/MZQfS5KxKCGnuTXW8).
+  The fruit
 - [Via Pasteria - Corso Italia](https://maps.app.goo.gl/ThjigBZX7ZMzZRcE9) /
   [Daniele Crespi](https://maps.app.goo.gl/baH6Dmpi7BGGq38g9)- local pasta chain.
   There was a significant queue outside for a table (probably due to Google ad) as the place isn't that big,
