@@ -49,11 +49,20 @@ I was surprised how much immigration and graffiti there was.
 - [Mio Hostel](https://maps.app.goo.gl/KvmcvBQ8S3rmtSKM7) - in the north east suburb of Milan but ok can get into centre
   via public transport in 20-30 minutes, but it has no kitchen,
   and mediocre toilets but decent shower water pressure and heating.
-  Wifi 128/15 Mbit/s
+  Wifi 128/15 Mbit/s but it is extremely unrealiable,
+  with frequent breakages of web traffic despite pings working,
+  which means that everything from web pages to youtube breaks frequently for extended periods of time
 
 -->
 
 ## Restaurants in Milan
+
+- [Boru Ramen]() - high quality, deserves its 4.8 rating, and reasonable prices too.
+  The ebi ramen with 6 prawns was the most expensive thing on the menu at €15 but very good quality, really hit the
+  spot - tasty broth, al dente ramen just the right amount of firmness.
+  These guys know exactly what they’re doing.
+  And the price is very reasonable compared to many of the restaurants in the centre.
+  Fast WiFi 336/64 Mbit/s
 
 ## Venice
 
