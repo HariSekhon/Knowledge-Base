@@ -57,8 +57,10 @@ I was surprised how much immigration and graffiti there was.
 
 ## Restaurants in Milan
 
-- [Via Pasteria - Corso Italia](https://maps.app.goo.gl/ThjigBZX7ZMzZRcE9) - there was a significant queue outside for a
-  table (probably due to Google ad) as the place isn't that big, perhaps 10 tables.
+- [Via Pasteria - Corso Italia](https://maps.app.goo.gl/ThjigBZX7ZMzZRcE9) /
+  [Daniele Crespi](https://maps.app.goo.gl/baH6Dmpi7BGGq38g9)- local pasta chain.
+  There was a significant queue outside for a table (probably due to Google ad) as the place isn't that big,
+  perhaps 10 tables.
   The fusillo bolognese was decent, although not that big a portion, with al dente pasta.
   WiFi 86/92 Mbit/s
 - [Boru Ramen](https://maps.app.goo.gl/y2jiMnJBeqdT9CeNA) - high quality, deserves its 4.8 rating, and
@@ -68,6 +70,14 @@ I was surprised how much immigration and graffiti there was.
   These guys know exactly what they’re doing.
   And the price is very reasonable compared to many of the restaurants in the centre.
   Fast WiFi 336/64 Mbit/s
+- [Dream Poke](https://maps.app.goo.gl/TLWjG81dbDaKLmQm8) - florida bowl with tuna was ok, not sure about so many
+  jalapeños though.
+  I'd try a custom bowl next time as you can add 2 different proteins and choose all your ingredients.
+  WiFi 16/48 Mbit/s
+
+TODO:
+
+- [Gigi Gastronomia](https://maps.app.goo.gl/JuFewnBo4dLJt3CF7) - 4.9
 
 ## Venice
 
