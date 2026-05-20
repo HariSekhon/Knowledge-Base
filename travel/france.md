@@ -6,6 +6,7 @@
 - [Driving in France](#driving-in-france)
   - [Tolls](#tolls)
 - [Calais](#calais)
+- [Cannes](#cannes)
 - [Dunkirk](#dunkirk)
 - [Paris](#paris)
 - [Nice](#nice)
@@ -48,6 +49,33 @@ I got robbed by automated barriers for €27 for a single drive from Calais to R
 
 Mainly a stopover or passthrough for the port to Dover in England.
 
+## Cannes
+
+[Cannes](https://maps.app.goo.gl/xFsCVJJJj2ETrAxp7) is the Beverley Hills of France, upmarket and famous for its film
+festival which I was accidentally stumbled across on my first visit here!
+People were dressed to the 9s.
+
+This is the best part of France I've seen so far,
+with lots of restaurants,
+high end designer stores,
+luxury hotels,
+sandy beaches and a leafy suburban Pointe Croisette penninsula that reminded me of Beverley Hills
+which has yachts parked around it.
+
+I will suspend my inner [Gary Stevenson](https://www.youtube.com/@garyseconomics) for a minute
+to say that it was surprisingly nice.
+
+- [Nivà Gelateria Italiana](https://maps.app.goo.gl/RvGVrcLkEUtiHFLw8) - award winning ice cream but expensive.
+  Slightly more expensive than the neighbouring Papilla Maître Artisan Glacier ice cream shop, implying they know they
+  are the best as advertise their awards on the street and walls.
+  The coconut and pistachio ice creams were good but the gianduia chocolate nut one was the best of the 3 I tried
+- [Amorino](https://maps.app.goo.gl/m7QtvoyeQqt2RzkP8) - high quality international ice cream chain you can find in
+  several European countries major cities now
+
+TODO:
+
+- [Papilla Maître Artisan Glacier Cannes](https://maps.app.goo.gl/8m9sSwzHzt7hdHTw9) - 4.6 ice cream
+
 ## Dunkirk
 
 Good for a stopover on your way to Beligum from the UK ferrying to Calais.
@@ -71,8 +99,15 @@ It is a moderate sized city.
 
 You need at least 2-3 hours to walk around to explore it.
 
-I wasn't as keen on Nice when I first arrived in the evening as the parking was a nightmare and there were cars
-stopped in all sorts of places they shouldn't have been.
+I wasn't as keen on Nice when I first arrived in the evening at the area around the
+[Nice-Ville](https://maps.app.goo.gl/FtogxnKC8bosW7Ra7) train station as the parking was a nightmare and there were
+cars stopped in all sorts of places they shouldn't have been.
+
+The north of Nice is not as great but there is more accommodation there.
+
+The south of Nice along the coast is where the nice tourist parts are.
+
+Thankfully the distance between the two is only about a 20 minute walk north to south.
 
 <!--
 
