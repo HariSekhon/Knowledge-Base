@@ -83,7 +83,9 @@ stopped in all sorts of places they shouldn't have been.
 
 ### Parking in Nice
 
-Parking in Nice is a nightmare. People are parked on yellows and tow zones and all sorts of places.
+Parking in Nice is a nightmare.
+
+People were parked on yellows and tow zones and all sorts of places, showing they were also desperate for parking.
 
 Even the suburbs are tough, filled up, or residents parking.
 
