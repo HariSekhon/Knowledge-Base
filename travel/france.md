@@ -71,7 +71,7 @@ It is a moderate sized city.
 
 You need at least 2-3 hours to walk around to explore it.
 
-I wasn't as keen on Nice when I arrived as the parking was a nightmare and there were cars
+I wasn't as keen on Nice when I first arrived in the evening as the parking was a nightmare and there were cars
 stopped in all sorts of places they shouldn't have been.
 
 <!--
