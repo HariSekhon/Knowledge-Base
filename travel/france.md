@@ -88,6 +88,7 @@ It's safest to try one of the car parks so you don't have to worry about getting
   - [Jardin Albert 1er](https://maps.app.goo.gl/nBV2MLGak8f23Hrk8)
   - [Trains Touristiques de Nice](https://maps.app.goo.gl/m27KmYxb42Zv6YwY9)
 - Beaches along coastline of Nice:
+  - [Prom. des Anglais](https://maps.app.goo.gl/4HijhLAivNer1Tmz8) - beachfront promenade
   - [Plage des Ponchettes](https://maps.app.goo.gl/3PTAUXyfoKBfNoCC8)
   - [Plage publique de l’opera](https://maps.app.goo.gl/dafU1tGQNFZevJDL7)
   - [Plage Beau Rivage Beach](https://maps.app.goo.gl/CdkvdyACycSoyA6C9)
