@@ -127,8 +127,11 @@ It's safest to try one of the car parks so you don't have to worry about getting
 
 TODO:
 
-- [Poke Nice - Poke bowl Brunch et café](https://maps.app.goo.gl/yC9vAEGF8UX8EGYe9) -4.8
+- [Poke Nice - Poke bowl Brunch et café](https://maps.app.goo.gl/yC9vAEGF8UX8EGYe9) - 4.8
 - [Loulou Nice - Poké Bowl & Açai Bowl](https://maps.app.goo.gl/2PRWPRTve4i3evy18) - 4.8
+- [Café Fino | Lunch - Coffee Shop - Brunch in Nice](https://maps.app.goo.gl/uaMMbU234F2bnATFA) - 4.7
+- [Café Marché](https://maps.app.goo.gl/H1Pbx2UQp24tUBFx8) - 4.7
+- [Foodie Nice, Brunch & Coffee Shop](https://maps.app.goo.gl/aLALDUL1ephNLY43A) - 4.6
 
 ## Reims
 
