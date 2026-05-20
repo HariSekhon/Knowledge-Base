@@ -83,6 +83,14 @@ It's safest to try one of the car parks so you don't have to worry about getting
 
 ### Attractions in Nice
 
+- [Plaza Masséna](https://maps.app.goo.gl/t6nHZqfuzCxefF1S9) - city square
+  - [Fontaine du Soleil](https://maps.app.goo.gl/yeBZhanXncm4tY8F7)
+- Beaches along coastline of Nice:
+  - [Plage des Ponchettes](https://maps.app.goo.gl/3PTAUXyfoKBfNoCC8)
+  - [Plage publique de l’opera](https://maps.app.goo.gl/dafU1tGQNFZevJDL7)
+  - [Plage Beau Rivage Beach](https://maps.app.goo.gl/CdkvdyACycSoyA6C9)
+  - [Plage de Carras](Plage de Carras) - beaches, unfortunately they are stone not
+  sand beaches
 - [Colline du Château](https://maps.app.goo.gl/JZTjdpgEkQstRyBm8) - Castle Hill - hilltop park with views over the city
   - [Bellanda Tower](https://maps.app.goo.gl/c92Lncs9UqGr35Ua9) - view over the beach
   - [Point de vue Colline du Château](https://maps.app.goo.gl/1nFDJpVi3yAzCtyG7) - view over the beach
@@ -95,6 +103,7 @@ It's safest to try one of the car parks so you don't have to worry about getting
 - [#ILoveNICE](https://maps.app.goo.gl/47ufzqFNEHkA4ZjA9) - sign overlooking the beach at the base of Castle Hill
 - [Basilique Notre-Dame de l’Assomption](https://maps.app.goo.gl/u6sBFsToSEiGUHmb8)
 - [Cathédrale Sainte-Réparate de Nice](https://maps.app.goo.gl/vCa57ZeNmKYZwsSf8)
+- [Trains Touristiques de Nice](https://maps.app.goo.gl/m27KmYxb42Zv6YwY9)
 - [Villa Masséna, musée d'art et d'histoire](https://maps.app.goo.gl/gtYu27WsTNSvk3fG6)
 - [Centre Commercial NICETOILE](https://maps.app.goo.gl/mGCJnhwR8wDXmcAK9) - small-to-mid sized mall
 
