@@ -94,6 +94,7 @@ It's safest to try one of the car parks so you don't have to worry about getting
   - [Cimetière Israélite](https://maps.app.goo.gl/EmYKn7RxBpatsxGF6)
 - [#ILoveNICE](https://maps.app.goo.gl/47ufzqFNEHkA4ZjA9) - sign overlooking the beach at the base of Castle Hill
 - [Basilique Notre-Dame de l’Assomption](https://maps.app.goo.gl/u6sBFsToSEiGUHmb8)
+- [Cathédrale Sainte-Réparate de Nice](https://maps.app.goo.gl/vCa57ZeNmKYZwsSf8)
 - [Villa Masséna, musée d'art et d'histoire](https://maps.app.goo.gl/gtYu27WsTNSvk3fG6)
 - [Centre Commercial NICETOILE](https://maps.app.goo.gl/mGCJnhwR8wDXmcAK9) - small-to-mid sized mall
 
