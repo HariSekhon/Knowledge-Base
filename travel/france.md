@@ -73,7 +73,7 @@ to say that it was surprisingly nice.
   several European countries major cities now
 - [Black Sails - A Pirate Tavern By Chef LeChat](https://maps.app.goo.gl/n6bFxGoMr7S2QrV89) - very good quality, large
   and filling burger and spiral potato slices with herbs, as well as a small side salad.
-  A bit expensive at €28 for a buger but the quality is very good.
+  A bit expensive at €28 for a burger but the quality is very good.
   Fast WiFi 556/480 Mbit/s
 
 TODO:
