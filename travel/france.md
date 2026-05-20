@@ -122,8 +122,8 @@ It's safest to try one of the car parks so you don't have to worry about getting
 
 ### Restaurants in Nice
 
-- [Mas Sushi & Poke Bowl](https://maps.app.goo.gl/4P9WoKBk3mq2yMtN9) - good quality poke bowls, I had the tuna and mango
-  one and it was really good, Has wifi
+- [Mas Sushi & Poke Bowl](https://maps.app.goo.gl/4P9WoKBk3mq2yMtN9) - good quality sushi & poke bowls.
+  I had the tuna and mango one and it was really good, Has wifi
 
 TODO:
 
