@@ -71,7 +71,15 @@ It is a moderate sized city.
 
 You need at least 2-3 hours to walk around to explore it.
 
-I wasn't as
+I wasn't as keen on Nice when I arrived as the parking was a nightmare and there were cars
+stopped in all sorts of places they shouldn't have been.
+
+<!--
+
+- [Hôtel Antares Nice](Hôtel Antares Nice) - decent although pricey.
+  The included breakfast was just corn flakes and bread and jam
+
+-->
 
 ### Parking in Nice
 
