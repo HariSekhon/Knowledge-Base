@@ -17,7 +17,7 @@ designer stores and the famous Monte Carlo Casino from the James Bond movies wit
 
 Monaco City is just the south half of the main area.
 
-You can easily spend 2-3 hours walking around Monaco.
+You should plan to spend 2-3 hours walking around Monaco.
 
 ## Parking in Monaco
 
