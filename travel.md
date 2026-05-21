@@ -210,6 +210,7 @@ Country pages with specific tips for each country:
 
 - [USA](travel/usa.md)
 - [Canada](travel/canada.md)
+- [Mexico](travel/mexico.md) ⭐
 
 ### Central & South America
 
