@@ -7,6 +7,7 @@
   - [Tolls](#tolls)
 - [Calais](#calais)
 - [Cannes](#cannes)
+  - [Parking in Cannes](#parking-in-cannes)
   - [Restaurants in Cannes](#restaurants-in-cannes)
 - [Dunkirk](#dunkirk)
 - [Paris](#paris)
@@ -65,6 +66,17 @@ which has yachts parked around it.
 
 I will suspend my inner [Gary Stevenson](https://www.youtube.com/@garyseconomics) for a minute
 to say that it was surprisingly nice.
+
+### Parking in Cannes
+
+Parking in Cannes can be a nightmare.
+
+- [Parking Lamy](https://maps.app.goo.gl/meDq1AcBAzSfJ2zX8) - I parked here which was surprisingly reasonable given the
+  central location and that Cannes is a generally expensive luxury city.
+  I paid just over €6 for 3 hours.
+
+If you don't mind a bit of a walk, you can use the city's designated street parking in the
+[Carnot](https://maps.app.goo.gl/qDeJt6bZ3yBS43gv8) area using the EasyPark app which works out cheaper.
 
 ### Restaurants in Cannes
 
