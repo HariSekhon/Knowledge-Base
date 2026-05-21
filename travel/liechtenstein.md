@@ -15,7 +15,9 @@
 
 [Liechtenstein](Liechtenstein) is so small it doesn't even make sense to be a _"country"_.
 
-It sits between Austria and Switzerland and German is the spoken language here.
+It sits between Austria and Switzerland.
+
+German is the spoken language here.
 
 I don't know what the point of this country is other
 than to tick it off the list if you're in the area as it's only a 1 hour drive from [Zurich](switzerland.md#zurich).
