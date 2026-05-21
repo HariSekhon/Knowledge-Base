@@ -7,6 +7,7 @@
   - [Tolls](#tolls)
 - [Calais](#calais)
 - [Cannes](#cannes)
+  - [Restaurants in Cannes](#restaurants-in-cannes)
 - [Dunkirk](#dunkirk)
 - [Paris](#paris)
 - [Nice](#nice)
@@ -52,7 +53,7 @@ Mainly a stopover or passthrough for the port to Dover in England.
 ## Cannes
 
 [Cannes](https://maps.app.goo.gl/xFsCVJJJj2ETrAxp7) is the Beverley Hills of France, upmarket and famous for its film
-festival which I was accidentally stumbled across on my first visit here!
+festival which I accidentally stumbled across on my first visit here!
 People were dressed to the 9s.
 
 This is the best part of France I've seen so far,
@@ -64,6 +65,8 @@ which has yachts parked around it.
 
 I will suspend my inner [Gary Stevenson](https://www.youtube.com/@garyseconomics) for a minute
 to say that it was surprisingly nice.
+
+### Restaurants in Cannes
 
 - [Nivà Gelateria Italiana](https://maps.app.goo.gl/RvGVrcLkEUtiHFLw8) - award winning ice cream but expensive.
   Slightly more expensive than the neighbouring Papilla Maître Artisan Glacier ice cream shop, implying they know they
