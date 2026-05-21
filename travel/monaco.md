@@ -11,11 +11,13 @@
 
 ## Summary
 
-A small rich country famous for being a tax haven for the super rich, and you can see it when you're here.
+A small rich country famous for being a tax haven for the super rich,
+and you can see it when you're here with the prevalence of yachts,
+designer stores and the famous Monte Carlo Casino from the James Bond movies with an array of expensive cars outside.
 
 Monaco City is just the south half of the main area.
 
-You can easily spend 2-3 hours walking around Monaco
+You can easily spend 2-3 hours walking around Monaco.
 
 ## Parking in Monaco
 
