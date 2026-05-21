@@ -41,7 +41,10 @@ You can easily spend 2-3 hours walking around Monaco
 
 ## Restaurants in Monaco
 
-I didn't stay in Monaco long enough to test its restaurant scene properly but here are a couple of easy picks:
+Since this is Monaco you can easily drop €100-200 per person in a restaurant if you really want to.
+
+I didn't stay in Monaco long enough to test its restaurant scene properly
+but here are a couple of quick easy cheap picks if you're passing through:
 
 - [Rossi La Bottega del Gelato](https://maps.app.goo.gl/zULqnrt9VsqqSjQy6) - the chocolate with cashew nuts was good,
   as was the pistachio although the latter didn’t have nuts
@@ -49,3 +52,7 @@ I didn't stay in Monaco long enough to test its restaurant scene properly but he
   The royal burger with bacon and egg was large and juicy.
   The skinny fries were ok but not crispy.
   Has wifi
+
+TODO:
+
+- [Caffé Milano](https://maps.app.goo.gl/6nN2kP2JogiBv6XR7)
