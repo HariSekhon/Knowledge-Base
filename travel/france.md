@@ -338,6 +338,7 @@ Didn't stay here long enough to check out the restaurant scene.
 - [Grand Rond](https://maps.app.goo.gl/nCPgLBF3gHx1b4mU9) - park
   - [Jardin Royal](https://maps.app.goo.gl/sgjY5gXnXS5tb5Jg8)
 - [Saint-Etienne Cathedral](https://maps.app.goo.gl/mHtyTbBKrGg6QuJm8)
+- [Couvent des Jacobins](https://maps.app.goo.gl/kgV5rtemKwYz5tK36)
 - [Georges Bemberg’s Foundation — Hotel of Assézat](https://maps.app.goo.gl/9XzqcbULyeG5NSpe6)
 - [Basilique Notre-Dame de la Daurade](https://maps.app.goo.gl/kYgpVeqavYtdgfqQ7)
 - [Muséum de Toulouse](https://maps.app.goo.gl/21VFySRJAMxnWRR59) - natural history museum
