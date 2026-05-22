@@ -335,6 +335,7 @@ Didn't stay here long enough to check out the restaurant scene.
 
 ### Attractions in Toulouse
 
+- [Place du Capitole](https://maps.app.goo.gl/a7SrX7VJ9ySFhThFA)
 - [Grand Rond](https://maps.app.goo.gl/nCPgLBF3gHx1b4mU9) - park
   - [Jardin Royal](https://maps.app.goo.gl/sgjY5gXnXS5tb5Jg8)
 - [Basilique Saint-Sernin de Toulouse](https://maps.app.goo.gl/gQyZjo3MnqZJE5DZA)
