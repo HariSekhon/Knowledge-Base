@@ -171,6 +171,25 @@ Due to the sheer size of Marseille and time contraints I had to get something qu
   it's rating it's great here compared to its branches in other countries but the surrounding ice cream shops have lower
   ratings, I'm not sure why
 
+## Montpellier
+
+### Attractions in Montpellier
+
+- [Promenade du Peyrou](https://maps.app.goo.gl/AYVrLQ7QiJ8sJiFD9)
+  - [Arc de Triomphe](Arc de Triomphe)
+  - [Aqueduc Saint-Clément](https://maps.app.goo.gl/oAsPg4BtT3BnqbCX6)
+- [Cathédrale Saint-Pierre de Montpellier](https://maps.app.goo.gl/xmyte7iW7Vdir3KQ6)
+  - [Orangerie du Jardin des Plantes](https://maps.app.goo.gl/DY17t8DPwW4b9ss69)
+  - [Jardin des plantes de Montpellier](https://maps.app.goo.gl/oEViWfSVwXiWRqc8A)
+- [Place du Nombre d'Or](https://maps.app.goo.gl/3Lfrtzgn9ge3CK8SA)
+- [Place Zeus](https://maps.app.goo.gl/dbQVDLK9EbZKjiky7)
+- [Place de Thessalie](https://maps.app.goo.gl/NVgmmJ1SLYy6AkC89)
+- [Esplanade de l’Europe](https://maps.app.goo.gl/swp5a3RQjFmWEB8o8)
+- [Place de la Comédie](https://maps.app.goo.gl/hfWhcLyFrihR4uC88)
+- [La Tour de la Babote](https://maps.app.goo.gl/VrByBgejXXbHiWdZ9)
+- [Carré Sainte Anne](https://maps.app.goo.gl/ZXMynarjiHuG41Hz9) - art museum
+- [Musée Fabre](https://maps.app.goo.gl/NzWBzCKsRtdAcb9EA) - art museum
+
 ## Nice
 
 [Nice](https://maps.app.goo.gl/bMLAY57ovoSnBUpt5) is surprisingly... nice.
