@@ -65,6 +65,7 @@ Small town near Montpellier.
 - [Cathédrale Saint-Nazaire](https://maps.app.goo.gl/4ZWLYBKS8vGDx7qCA)
 - [Place Jean Jaurès](https://maps.app.goo.gl/e5dXJ8haVxjKuCvK6)
 - [Les Halles de Béziers](https://maps.app.goo.gl/wPfbSFu33eDyRNbz6)
+- [Pont-Canal sur L'Orb](https://maps.app.goo.gl/V5hJ8Fv5Z68HMzoR6)
 
 ## Calais
 
