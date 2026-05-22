@@ -187,6 +187,7 @@ Due to the sheer size of Marseille and time contraints I had to get something qu
 - [Place du Nombre d'Or](https://maps.app.goo.gl/3Lfrtzgn9ge3CK8SA)
 - [Place Zeus](https://maps.app.goo.gl/dbQVDLK9EbZKjiky7)
 - [Place de Thessalie](https://maps.app.goo.gl/NVgmmJ1SLYy6AkC89)
+- [Esplanade Charles-de-Gaulle](https://maps.app.goo.gl/oGjZKpp5TM6APFYg7)
 - [Esplanade de l’Europe](https://maps.app.goo.gl/swp5a3RQjFmWEB8o8)
 - [Place de la Comédie](https://maps.app.goo.gl/hfWhcLyFrihR4uC88)
 - [La Tour de la Babote](https://maps.app.goo.gl/VrByBgejXXbHiWdZ9)
