@@ -183,6 +183,7 @@ Due to the sheer size of Marseille and time contraints I had to get something qu
 - [Cathédrale Saint-Pierre de Montpellier](https://maps.app.goo.gl/xmyte7iW7Vdir3KQ6)
   - [Orangerie du Jardin des Plantes](https://maps.app.goo.gl/DY17t8DPwW4b9ss69)
   - [Jardin des plantes de Montpellier](https://maps.app.goo.gl/oEViWfSVwXiWRqc8A)
+- [Church of Saint Roch](https://maps.app.goo.gl/g4sGAhsAuypcTPtN7)
 - [Place du Nombre d'Or](https://maps.app.goo.gl/3Lfrtzgn9ge3CK8SA)
 - [Place Zeus](https://maps.app.goo.gl/dbQVDLK9EbZKjiky7)
 - [Place de Thessalie](https://maps.app.goo.gl/NVgmmJ1SLYy6AkC89)
