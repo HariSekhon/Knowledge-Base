@@ -256,17 +256,18 @@ Due to the sheer size of Marseille and time contraints I had to get something qu
 - [Place Zeus](https://maps.app.goo.gl/dbQVDLK9EbZKjiky7)
 - [Place de Thessalie](https://maps.app.goo.gl/NVgmmJ1SLYy6AkC89)
 - [Esplanade Charles-de-Gaulle](https://maps.app.goo.gl/oGjZKpp5TM6APFYg7)
-- [Esplanade de l’Europe](https://maps.app.goo.gl/swp5a3RQjFmWEB8o8)
 - [Place de la Comédie](https://maps.app.goo.gl/hfWhcLyFrihR4uC88)
 - [La Tour de la Babote](https://maps.app.goo.gl/VrByBgejXXbHiWdZ9)
 - [Carré Sainte Anne](https://maps.app.goo.gl/ZXMynarjiHuG41Hz9) - art museum
 - [Musée Fabre](https://maps.app.goo.gl/NzWBzCKsRtdAcb9EA) - art museum
+- [Esplanade de l’Europe](https://maps.app.goo.gl/swp5a3RQjFmWEB8o8) - at the western edge, skip if short on time
 - [Centre Commercial Le Polygone](https://maps.app.goo.gl/PTBYWtU16MXFVcS39)
 
 ### Restaurants in Montpellier
 
 - [Gyraya](https://maps.app.goo.gl/rop9VRGg9yYvSRAs9) - popular and relatively affordable at €10 for a chicken pita,
   although you might want to pay the extra €2 to get the bigger version
+- [Amorino](https://maps.app.goo.gl/XmYFnSSsLS157GQr6) - high quality international ice cream chain
 
 ## Narbonne
 
