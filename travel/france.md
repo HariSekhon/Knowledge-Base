@@ -337,6 +337,7 @@ Didn't stay here long enough to check out the restaurant scene.
 
 - [Place du Capitole](https://maps.app.goo.gl/a7SrX7VJ9ySFhThFA)
 - [Place Saint-Pierre](https://maps.app.goo.gl/ZUd6Rzayy9crmnvP8)
+  - [Chaussée du Bazacle](https://maps.app.goo.gl/2ipDdC6BAsF8YKu8A)
 - [Pont Neuf](https://maps.app.goo.gl/VeEwSHyv8CS2SxScA)
 - [Grand Rond](https://maps.app.goo.gl/nCPgLBF3gHx1b4mU9) - park
   - [Jardin Royal](https://maps.app.goo.gl/sgjY5gXnXS5tb5Jg8)
