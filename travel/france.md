@@ -101,6 +101,7 @@ and that I'd just spend an hour and move on but ended up spending 3 hours there 
 - [Amphithéâtre du Plateau des Poètes](https://maps.app.goo.gl/12rn9eTSBAP5hhtq6)
 - [Monument aux Morts - Plateau des Poète](https://maps.app.goo.gl/xSh2jW5goewUsT8d6)
 - [Ancien Moulin de Bagnols (ou Cordier)](https://maps.app.goo.gl/vwZFe9h8jkg2Xnb8A)
+- [Polygone Béziers](https://maps.app.goo.gl/jwVg7d2huEkpB9rf9) - mall
 
 ### Restaurants in Bezier
 
