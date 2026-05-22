@@ -113,6 +113,7 @@ and that I'd just spend an hour and move on but ended up spending 3 hours there 
   fast! I spent 50% more than the first price I saw.
   The quality was very good though.
   Fast WiFi 285/270 Mbit/s
+- [Amorino](https://maps.app.goo.gl/GbatQfmfS7kxvsDh9) - high quality international ice cream chain
 
 ## Calais
 
