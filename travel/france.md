@@ -244,7 +244,7 @@ It takes around an hour to walk around the centre.
 - [Palais-Musée des Archevêques, Palais Vieux](https://maps.app.goo.gl/7afbBwdQLCcfKpHC9)
 - [Cathédrale Saint-Just et Saint-Pasteur](https://maps.app.goo.gl/BMrjQnu2duDCYR7M7)
 - [L'Horreum](https://maps.app.goo.gl/BevvrnLLZrrgdqu19) - roman granary museum
-- [Maison des Trois Nourrices](https://maps.app.goo.gl/QBCNNBUaNLPjvA856)
+- [Les Halles de Narbonne Market](https://maps.app.goo.gl/G2LtSmUEW2QRArnB7)
 
 ## Nice
 
