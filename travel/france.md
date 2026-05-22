@@ -77,11 +77,16 @@ I got robbed for around €30 a day several times.
 
 ## Beziers
 
-Small town near Montpellier.
+Beziers was much nicer than anticipated.
+
+I thought it was just a small town/city near Montpellier
+and that I'd just spend an hour and move on but ended up spending 3 hours there instead.
 
 ### Parking in Bezier
 
-- [Parking du Pont Vieux](https://maps.app.goo.gl/ReByGfU4pePR2pkMA) - free parking just across the bridge
+- [Parking du Pont Vieux](https://maps.app.goo.gl/ReByGfU4pePR2pkMA) - free parking just across the bridge.
+  Give you probably want to spend significant time walking around I prefer this to timed paid parking
+  where you can't relax as much being on the clock
 
 ### Attractions in Bezier
 
@@ -93,6 +98,9 @@ Small town near Montpellier.
 - [Pont Vieux](https://maps.app.goo.gl/mWXCzZFytLTx8hU49)
 - [Pont-Canal sur L'Orb](https://maps.app.goo.gl/V5hJ8Fv5Z68HMzoR6)
 - [Ancien Moulin de Bagnols (ou Cordier)](https://maps.app.goo.gl/vwZFe9h8jkg2Xnb8A)
+- [Fontaine du Titan](https://maps.app.goo.gl/YBxNVKvUmojDrKf86)
+- [Plateau des poètes](https://maps.app.goo.gl/GbB9TC1JR9EZvpRB7)
+- [Amphithéâtre du Plateau des Poètes](https://maps.app.goo.gl/12rn9eTSBAP5hhtq6)
 
 ### Restaurants in Bezier
 
