@@ -16,6 +16,7 @@
   - [Attractions in Marseille](#attractions-in-marseille)
   - [Restaurants in Marseille](#restaurants-in-marseille)
 - [Montpellier](#montpellier)
+  - [Parking in Montpellier](#parking-in-montpellier)
   - [Attractions in Montpellier](#attractions-in-montpellier)
 - [Nice](#nice)
   - [Parking in Nice](#parking-in-nice)
@@ -175,6 +176,10 @@ Due to the sheer size of Marseille and time contraints I had to get something qu
 
 ## Montpellier
 
+### Parking in Montpellier
+
+- [Parking du Polygone Montpellier Centre](https://maps.app.goo.gl/MaF2HhwSsdf27ozb8)
+
 ### Attractions in Montpellier
 
 - [Promenade du Peyrou](https://maps.app.goo.gl/AYVrLQ7QiJ8sJiFD9)
@@ -193,6 +198,7 @@ Due to the sheer size of Marseille and time contraints I had to get something qu
 - [La Tour de la Babote](https://maps.app.goo.gl/VrByBgejXXbHiWdZ9)
 - [Carré Sainte Anne](https://maps.app.goo.gl/ZXMynarjiHuG41Hz9) - art museum
 - [Musée Fabre](https://maps.app.goo.gl/NzWBzCKsRtdAcb9EA) - art museum
+- [Centre Commercial Le Polygone](https://maps.app.goo.gl/PTBYWtU16MXFVcS39)
 
 ## Nice
 
