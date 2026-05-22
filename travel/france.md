@@ -22,6 +22,7 @@
 - [Montpellier](#montpellier)
   - [Parking in Montpellier](#parking-in-montpellier)
   - [Attractions in Montpellier](#attractions-in-montpellier)
+  - [Restaurants in Montpellier](#restaurants-in-montpellier)
 - [Narbonne](#narbonne)
   - [Parking in Narbonne](#parking-in-narbonne)
   - [Attractions in Narbonne](#attractions-in-narbonne)
@@ -261,6 +262,11 @@ Due to the sheer size of Marseille and time contraints I had to get something qu
 - [Carré Sainte Anne](https://maps.app.goo.gl/ZXMynarjiHuG41Hz9) - art museum
 - [Musée Fabre](https://maps.app.goo.gl/NzWBzCKsRtdAcb9EA) - art museum
 - [Centre Commercial Le Polygone](https://maps.app.goo.gl/PTBYWtU16MXFVcS39)
+
+### Restaurants in Montpellier
+
+- [Gyraya](https://maps.app.goo.gl/rop9VRGg9yYvSRAs9) - popular and relatively affordable at €10 for a chicken pita,
+  although you might want to pay the extra €2 to get the bigger version
 
 ## Narbonne
 
