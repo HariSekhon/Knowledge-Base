@@ -96,11 +96,11 @@ and that I'd just spend an hour and move on but ended up spending 3 hours there 
 - [Les Halles de Béziers](https://maps.app.goo.gl/wPfbSFu33eDyRNbz6)
 - [Pont Vieux](https://maps.app.goo.gl/mWXCzZFytLTx8hU49) - foot bridge
 - [Pont-Canal sur L'Orb](https://maps.app.goo.gl/V5hJ8Fv5Z68HMzoR6)
-- [Ancien Moulin de Bagnols (ou Cordier)](https://maps.app.goo.gl/vwZFe9h8jkg2Xnb8A)
 - [Fontaine du Titan](https://maps.app.goo.gl/YBxNVKvUmojDrKf86)
 - [Plateau des poètes](https://maps.app.goo.gl/GeoQ2GEmn16NNyqt9)
 - [Amphithéâtre du Plateau des Poètes](https://maps.app.goo.gl/12rn9eTSBAP5hhtq6)
 - [Monument aux Morts - Plateau des Poète](https://maps.app.goo.gl/xSh2jW5goewUsT8d6)
+- [Ancien Moulin de Bagnols (ou Cordier)](https://maps.app.goo.gl/vwZFe9h8jkg2Xnb8A)
 
 ### Restaurants in Bezier
 
