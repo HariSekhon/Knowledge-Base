@@ -11,6 +11,10 @@
   - [Restaurants in Cannes](#restaurants-in-cannes)
 - [Dunkirk](#dunkirk)
 - [Paris](#paris)
+- [Marseille](#marseille)
+  - [Public Transport in Marseille](#public-transport-in-marseille)
+  - [Attractions in Marseille](#attractions-in-marseille)
+  - [Restaurants in Marseille](#restaurants-in-marseille)
 - [Nice](#nice)
   - [Parking in Nice](#parking-in-nice)
   - [Attractions in Nice](#attractions-in-nice)
@@ -109,6 +113,63 @@ I have literally been told off for not speaking French as a visitor. Much less w
 
 The many Chateaux outside of Paris in the French countryside are nice though
 (I used to go every year with a company for retreats).
+
+## Marseille
+
+[Marseille](https://maps.app.goo.gl/KZj8sSuEcZYe15VG9) is a large metropolitan port city in ther middle of southern france
+on the french riviera, dating back to 600BC when founded by Greeks.
+
+First impression was that it's just another mass immigrated western city,
+but actually it has quite a few nice architectural legacies in terms of buildings.
+
+The centre alone is so large you need an entire day to walk around otherwise you will miss a lot of things.
+
+The suburbs are nothing to write home about and Marseille is big enough that if you stay in the suburbs it will take you
+a good 45 minutes to get into the centre by public transport.
+
+### Public Transport in Marseille
+
+Public transport in Marseille is 1st world decent.
+
+The metro and buses both access contactless card payments.
+
+### Attractions in Marseille
+
+- [Basilique Notre-Dame de la Garde](https://maps.app.goo.gl/TzQ43bxxAyejAUhx8) - grand basilica overlooking the city -
+  it is the highest point so good views. I recommend either starting here and then walking down to the rest of the city,
+  or coming here for sunset views
+  - [Parc Pierre Puget](https://maps.app.goo.gl/oLZX334JN5rkDgWG6) - park to walk through on the way up / down to the
+    basilica
+- [Fort Saint-Jean](https://maps.app.goo.gl/qbaTojbmV6vyKXeH9) - grand fortress - it will take you a while to wander
+  around this
+  - [Cathédrale La Major](https://maps.app.goo.gl/KHdYDErjufPPiUeS7)
+  - [Museum of European and Mediterranean Civilisations](https://maps.app.goo.gl/rf3EbLLQhjVNNFSJA)
+    - [Cosquer Méditerranée](https://maps.app.goo.gl/XX1Te8bzek4DbARP6)
+  - [Tour du Roi René](https://maps.app.goo.gl/Gg4paVP2Bw4HgeyY6)
+  - [Vieux port](https://maps.app.goo.gl/T62VpqPeFzPaVeET6) - port full of yachts - best views are either waterside or
+    from Fort Saint-Jean
+- [Bourse et Chambre de Commerce](Bourse et Chambre de Commerce) - impressive historic architectural building
+- [Le Panier Marseillais](https://maps.app.goo.gl/YT2HUoZaQZ9E2nbw8)
+- [Porte d'Aix](https://maps.app.goo.gl/DTjFR4Yo9uiYVoms6)
+- [Old Charity Center](https://maps.app.goo.gl/zPZRk9DG7cY14bcZA)
+- [Citadelle de Marseille (Fort Saint-Nicolas)](https://maps.app.goo.gl/joegptGNvqua4A7p6) - fortress overlooking the
+  port
+  - [Plage des Catalans](https://maps.app.goo.gl/W1dX2DMMg21QCZwBA) - beach near Fort Saint-Nicolas
+    Saint-Nicolas
+  - [Abbaye Saint-Victor](https://maps.app.goo.gl/DK8tpDuQ3CLPtivf9) - fortified abbey between the basicila and Fort
+  - [Le Musée du Savon de Marseille](https://maps.app.goo.gl/QXYQEZwNRpu7NZCy7) - soapmaking museum and souvenirs
+- [Marseille History Museum](https://maps.app.goo.gl/rMR5aPWL7jHL4AfC9)
+
+### Restaurants in Marseille
+
+Due to the sheer size of Marseille and time contraints I had to get something quick:
+
+- [Poumpo](https://maps.app.goo.gl/qHPu7UurAoW4xG2Q8) - highly rated but closes early.
+  I tried the French (ham, cheese, honey mustard) warm.
+  At €9.50 for this you remember you are in Europe
+- [Amorino](https://maps.app.goo.gl/4EW3TmJrruiFfS7F7) - the popular high quality but pricey ice cream chain,
+  it's rating it's great here compared to its branches in other countries but the surrounding ice cream shops have lower
+  ratings, I'm not sure why
 
 ## Nice
 
