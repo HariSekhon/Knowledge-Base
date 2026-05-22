@@ -343,7 +343,7 @@ Didn't stay here long enough to check out the restaurant scene.
 - [Georges Bemberg’s Foundation — Hotel of Assézat](https://maps.app.goo.gl/9XzqcbULyeG5NSpe6)
 - [Basilique Notre-Dame de la Daurade](https://maps.app.goo.gl/kYgpVeqavYtdgfqQ7)
 - [Muséum de Toulouse](https://maps.app.goo.gl/21VFySRJAMxnWRR59) - natural history museum
-- [Musée Saint-Raymond](https://maps.app.goo.gl/yCWqCS5JSu6SYyW8A) - archaelogical museum
+- [Musée Saint-Raymond](https://maps.app.goo.gl/yCWqCS5JSu6SYyW8A) - archaeological museum
 - [Musée des Augustins](https://maps.app.goo.gl/BPBkrnowMULyXcKv5) - fine art museum
 - [Museum of Old Toulouse](https://maps.app.goo.gl/TJAVnTxSGQfRuu3p9) - art museum
 - [Musée des Arts Précieux Paul-Dupuy](https://maps.app.goo.gl/CaQsrmEywyxXKJ8o7)
