@@ -230,11 +230,14 @@ Due to the sheer size of Marseille and time contraints I had to get something qu
 
 ## Narbonne
 
-Town near Montpellier.
+Town near Montpellier, quite nice.
+
+It takes around an hour to walk around the centre.
 
 ### Parking in Narbonne
 
-- [Parking du Théâtre](https://maps.app.goo.gl/zCS2pWkJ23kuqwfn6) - free parking a short walk from the centre
+- [Parking du Théâtre](https://maps.app.goo.gl/zCS2pWkJ23kuqwfn6) - free parking about a short 10-20 minute walk from
+  the historic centre along the lovely canal in the summer
 
 ### Attractions in Narbonne
 
