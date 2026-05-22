@@ -8,6 +8,7 @@
 - [Beziers](#beziers)
   - [Parking in Bezier](#parking-in-bezier)
   - [Attractions in Bezier](#attractions-in-bezier)
+  - [Restaurants in Bezier](#restaurants-in-bezier)
 - [Calais](#calais)
 - [Cannes](#cannes)
   - [Parking in Cannes](#parking-in-cannes)
@@ -59,9 +60,14 @@ Within 24-48 hours of registration and payment an email with a temporary sticker
 
 ### Tolls
 
-Some motorways have tolls.
+Tolls, tolls, tolls everywhere.
+
+France has got to be one of the worst most expensive countries to road trip across.
+I promise to never criticise the slavic vignette countries again they are a bargain compared to France.
 
 I got robbed by automated barriers for €27 for a single drive from Calais to Reims.
+
+I robbed for around €30 a day several times.
 
 ## Beziers
 
@@ -81,6 +87,18 @@ Small town near Montpellier.
 - [Pont Vieux](https://maps.app.goo.gl/mWXCzZFytLTx8hU49)
 - [Pont-Canal sur L'Orb](https://maps.app.goo.gl/V5hJ8Fv5Z68HMzoR6)
 - [Ancien Moulin de Bagnols (ou Cordier)](https://maps.app.goo.gl/vwZFe9h8jkg2Xnb8A)
+
+### Restaurants in Bezier
+
+- [Pokawa Poké bowls](https://maps.app.goo.gl/yzS9ZdJwxS9R4ySk7) - great selection and quality.
+  The tuna red bowl with watermelon and black rice was great. The ponzu lime and tropical sauces were both good -
+  the former classic the latter a bit sweet and fruity.
+  The gyoza were ok, the chicken ones are better than the vegetable one in my opinion.
+  They kind of catfish you on prices though as the size upgrades from small to medium / large - which you really need -
+  and the meal deal with a side or drink & dessert, add-ons suchs as black rice instead of white rice etc all add up
+  fast! I spent 50% more than the first price I saw.
+  The quality was very good though.
+  Fast WiFi 285/270 Mbit/s
 
 ## Calais
 
