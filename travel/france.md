@@ -5,6 +5,8 @@
 - [Summary](#summary)
 - [Driving in France](#driving-in-france)
   - [Tolls](#tolls)
+- [Beziers](#beziers)
+  - [Attractions in Bezier](#attractions-in-bezier)
 - [Calais](#calais)
 - [Cannes](#cannes)
   - [Parking in Cannes](#parking-in-cannes)
@@ -53,6 +55,16 @@ Within 24-48 hours of registration and payment an email with a temporary sticker
 Some motorways have tolls.
 
 I got robbed by automated barriers for €27 for a single drive from Calais to Reims.
+
+## Beziers
+
+Small town near Montpellier.
+
+### Attractions in Bezier
+
+- [Cathédrale Saint-Nazaire](https://maps.app.goo.gl/4ZWLYBKS8vGDx7qCA)
+- [Place Jean Jaurès](https://maps.app.goo.gl/e5dXJ8haVxjKuCvK6)
+- [Les Halles de Béziers](https://maps.app.goo.gl/wPfbSFu33eDyRNbz6)
 
 ## Calais
 
