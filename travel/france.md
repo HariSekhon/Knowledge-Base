@@ -101,6 +101,7 @@ and that I'd just spend an hour and move on but ended up spending 3 hours there 
 - [Fontaine du Titan](https://maps.app.goo.gl/YBxNVKvUmojDrKf86)
 - [Plateau des poètes](https://maps.app.goo.gl/GbB9TC1JR9EZvpRB7)
 - [Amphithéâtre du Plateau des Poètes](https://maps.app.goo.gl/12rn9eTSBAP5hhtq6)
+- [Monument aux Morts - Plateau des Poète](https://maps.app.goo.gl/xSh2jW5goewUsT8d6)
 
 ### Restaurants in Bezier
 
