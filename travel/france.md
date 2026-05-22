@@ -62,10 +62,14 @@ Small town near Montpellier.
 
 ### Attractions in Bezier
 
-- [Cathédrale Saint-Nazaire](https://maps.app.goo.gl/4ZWLYBKS8vGDx7qCA)
 - [Place Jean Jaurès](https://maps.app.goo.gl/e5dXJ8haVxjKuCvK6)
+- [Cathédrale Saint-Nazaire](https://maps.app.goo.gl/4ZWLYBKS8vGDx7qCA)
+  - [Jardin des Évêques](https://maps.app.goo.gl/pbkYNhz11hyKUQ4s8)
 - [Les Halles de Béziers](https://maps.app.goo.gl/wPfbSFu33eDyRNbz6)
+- [Plateau des poètes](https://maps.app.goo.gl/GeoQ2GEmn16NNyqt9)
+- [Pont Vieux](https://maps.app.goo.gl/mWXCzZFytLTx8hU49)
 - [Pont-Canal sur L'Orb](https://maps.app.goo.gl/V5hJ8Fv5Z68HMzoR6)
+- [Ancien Moulin de Bagnols (ou Cordier)](https://maps.app.goo.gl/vwZFe9h8jkg2Xnb8A)
 
 ## Calais
 
