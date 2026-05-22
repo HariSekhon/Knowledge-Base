@@ -351,3 +351,5 @@ Didn't stay here long enough to check out the restaurant scene.
 - [Museum of Old Toulouse](https://maps.app.goo.gl/TJAVnTxSGQfRuu3p9) - art museum
 - [Musée des Arts Précieux Paul-Dupuy](https://maps.app.goo.gl/CaQsrmEywyxXKJ8o7)
 - [Les Abattoirs](https://maps.app.goo.gl/qoZrdmKRokzWeRmF9) - art museum
+- [Musée départemental de la Résistance et de la Déportation](Musée départemental de la Résistance et de la Déportation) -
+  war museum
