@@ -29,6 +29,9 @@
   - [Attractions in Nice](#attractions-in-nice)
   - [Restaurants in Nice](#restaurants-in-nice)
 - [Reims](#reims)
+- [Toulouse](#toulouse)
+  - [Parking in Toulouse](#parking-in-toulouse)
+  - [Attractions in Toulouse](#attractions-in-toulouse)
 
 <!-- INDEX_END -->
 
@@ -323,3 +326,19 @@ Small city in the north east of France.
 
 I've stopped overnight here on way to Luxembourg and Germany.
 Didn't stay here long enough to check out the restaurant scene.
+
+## Toulouse
+
+### Parking in Toulouse
+
+- [Parking Indigo Toulouse Saint Aubin](https://maps.app.goo.gl/TtoeLDgZ87VAHKSn9) - cheap and walkable to centre
+
+### Attractions in Toulouse
+
+- [Grand Rond](https://maps.app.goo.gl/nCPgLBF3gHx1b4mU9) - park
+  - [Jardin Royal](https://maps.app.goo.gl/sgjY5gXnXS5tb5Jg8)
+- [Saint-Etienne Cathedral](https://maps.app.goo.gl/mHtyTbBKrGg6QuJm8)
+- [Muséum de Toulouse](https://maps.app.goo.gl/21VFySRJAMxnWRR59) - natural history museum
+- [Musée des Augustins](https://maps.app.goo.gl/BPBkrnowMULyXcKv5)
+- [Museum of Old Toulouse](https://maps.app.goo.gl/TJAVnTxSGQfRuu3p9)
+- [Musée Paul-Dupuy](https://maps.app.goo.gl/CaQsrmEywyxXKJ8o7)
