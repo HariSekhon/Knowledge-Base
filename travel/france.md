@@ -339,6 +339,7 @@ Didn't stay here long enough to check out the restaurant scene.
   - [Jardin Royal](https://maps.app.goo.gl/sgjY5gXnXS5tb5Jg8)
 - [Saint-Etienne Cathedral](https://maps.app.goo.gl/mHtyTbBKrGg6QuJm8)
 - [Georges Bemberg’s Foundation — Hotel of Assézat](https://maps.app.goo.gl/9XzqcbULyeG5NSpe6)
+- [Basilique Notre-Dame de la Daurade](https://maps.app.goo.gl/kYgpVeqavYtdgfqQ7)
 - [Muséum de Toulouse](https://maps.app.goo.gl/21VFySRJAMxnWRR59) - natural history museum
 - [Musée des Augustins](https://maps.app.goo.gl/BPBkrnowMULyXcKv5)
 - [Museum of Old Toulouse](https://maps.app.goo.gl/TJAVnTxSGQfRuu3p9)
