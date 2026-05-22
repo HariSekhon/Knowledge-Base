@@ -6,6 +6,7 @@
 - [Driving in France](#driving-in-france)
   - [Tolls](#tolls)
 - [Beziers](#beziers)
+  - [Parking in Bezier](#parking-in-bezier)
   - [Attractions in Bezier](#attractions-in-bezier)
 - [Calais](#calais)
 - [Cannes](#cannes)
@@ -20,6 +21,9 @@
 - [Montpellier](#montpellier)
   - [Parking in Montpellier](#parking-in-montpellier)
   - [Attractions in Montpellier](#attractions-in-montpellier)
+- [Narbonne](#narbonne)
+  - [Parking in Narbonne](#parking-in-narbonne)
+  - [Attractions in Narbonne](#attractions-in-narbonne)
 - [Nice](#nice)
   - [Parking in Nice](#parking-in-nice)
   - [Attractions in Nice](#attractions-in-nice)
@@ -59,6 +63,10 @@ I got robbed by automated barriers for €27 for a single drive from Calais to R
 ## Beziers
 
 Small town near Montpellier.
+
+### Parking in Bezier
+
+- [Parking du Pont Vieux](https://maps.app.goo.gl/ReByGfU4pePR2pkMA) - free parking just across the bridge
 
 ### Attractions in Bezier
 
@@ -216,6 +224,21 @@ Due to the sheer size of Marseille and time contraints I had to get something qu
 - [Carré Sainte Anne](https://maps.app.goo.gl/ZXMynarjiHuG41Hz9) - art museum
 - [Musée Fabre](https://maps.app.goo.gl/NzWBzCKsRtdAcb9EA) - art museum
 - [Centre Commercial Le Polygone](https://maps.app.goo.gl/PTBYWtU16MXFVcS39)
+
+## Narbonne
+
+Town near Montpellier.
+
+### Parking in Narbonne
+
+- [Parking du Théâtre](https://maps.app.goo.gl/zCS2pWkJ23kuqwfn6) - free parking a short walk from the centre
+
+### Attractions in Narbonne
+
+- [Palais-Musée des Archevêques, Palais Vieux](https://maps.app.goo.gl/7afbBwdQLCcfKpHC9)
+- [Cathédrale Saint-Just et Saint-Pasteur](https://maps.app.goo.gl/BMrjQnu2duDCYR7M7)
+- [L'Horreum](https://maps.app.goo.gl/BevvrnLLZrrgdqu19) - roman granary museum
+- [Maison des Trois Nourrices](https://maps.app.goo.gl/QBCNNBUaNLPjvA856)
 
 ## Nice
 
