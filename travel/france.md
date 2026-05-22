@@ -62,12 +62,18 @@ Within 24-48 hours of registration and payment an email with a temporary sticker
 
 Tolls, tolls, tolls everywhere.
 
+I couldn't get from one city to another without getting hit with another toll, not even ones a few km down the motorway.
+
+I was often getting hit with 2-3 tolls per day driving around.
+
 France has got to be one of the worst most expensive countries to road trip across.
 I promise to never criticise the slavic vignette countries again they are a bargain compared to France.
 
-I got robbed by automated barriers for €27 for a single drive from Calais to Reims.
+I got robbed by automated barriers for €27 for a single drive from Calais to Reims,
+and that's barely a dent into the country -
+you don't realize what big countries France, Germany and Poland are until you road trip across them vs England.
 
-I robbed for around €30 a day several times.
+I got robbed for around €30 a day several times.
 
 ## Beziers
 
