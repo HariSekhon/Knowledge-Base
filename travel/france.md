@@ -15,6 +15,8 @@
   - [Public Transport in Marseille](#public-transport-in-marseille)
   - [Attractions in Marseille](#attractions-in-marseille)
   - [Restaurants in Marseille](#restaurants-in-marseille)
+- [Montpellier](#montpellier)
+  - [Attractions in Montpellier](#attractions-in-montpellier)
 - [Nice](#nice)
   - [Parking in Nice](#parking-in-nice)
   - [Attractions in Nice](#attractions-in-nice)
