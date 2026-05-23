@@ -424,6 +424,7 @@ Didn't stay here long enough to check out the restaurant scene.
 - [Les Abattoirs](https://maps.app.goo.gl/qoZrdmKRokzWeRmF9) - art museum
 - [Musée départemental de la Résistance et de la Déportation](https://maps.app.goo.gl/BqrCvnz9pdsqVznY7) - war museum
 - [Pierre Goudouli Garden](https://maps.app.goo.gl/3JgFumArpHYyxVJm7)
+- [Jardin des Plantes](https://maps.app.goo.gl/DRVCa57ihf66rEGg9)
 
 ### Restaurants in Toulouse
 
