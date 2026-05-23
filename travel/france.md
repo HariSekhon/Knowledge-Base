@@ -4,6 +4,7 @@
 
 - [Summary](#summary)
 - [Driving in France](#driving-in-france)
+  - [Emissions Sticker Needed for Cities](#emissions-sticker-needed-for-cities)
   - [Tolls](#tolls)
 - [Beziers](#beziers)
   - [Parking in Bezier](#parking-in-bezier)
@@ -48,6 +49,7 @@ development of services and public transport.
 
 Unfortunately it has been clearly deteriorated by mass immigration
 and I was personally hassled by several immigrants in the streets of different cities within just a few days.
+It is low IQ to allow such people to live within your country, the high quality gulf states would not allow it.
 By the time I left France I was glad to see the back of them.
 
 A surprising number of French people in France do not speak English at all.
@@ -59,6 +61,14 @@ surprise for a country close to England.
 
 You need an AA pack including headlamp converters
 (stickers that change the direction of your beam since you are driving on the other side of the road).
+
+Between the tolls and speed cameras the French government are going
+to rob you one way or another to drive in their country.
+
+Make sure you use the Waze app
+to warn you of where the speed cameras and average speed checks are as they are not obvious.
+
+### Emissions Sticker Needed for Cities
 
 You will also need a low emissions sticker to enter major cities.
 
@@ -90,6 +100,10 @@ shorter and quicker.
 I was routinely getting robbed by toll gates for around €30 per day.
 This would be even more
 if I was actually trying to drive across the country instead of just to visit the next town or city.
+
+I got so fed up of this that when leaving France from Foix to Andorra I decided to take the slightly longer alternative
+route to avoid the toll motorway using the secondary road, but the problem is the speed signs change every km and
+eventually a camera is likely to get you. Drive with Waze to give yourself a better chance.
 
 ## Beziers
 
