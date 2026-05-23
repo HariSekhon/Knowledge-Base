@@ -185,7 +185,7 @@ over - there is free parking and a castle to see.
 ### Attractions in Foix
 
 - [Château de Foix](https://maps.app.goo.gl/a7q6Gf9JLpcJ41kE8) - 10-15th century hilltop castle
-- [Abbatiale Saint-Volusien de Foix](https://maps.app.goo.gl/ChHVsYmqbhY6dStU8)
+- [Abbatiale Saint-Volusien de Foix](https://maps.app.goo.gl/ChHVsYmqbhY6dStU8) - catholic church
 - [Les terrasses du Pech (Début de sentier)](https://maps.app.goo.gl/PwoVtMnfk74Zua9D8) - hiking area
   - [Table d'orientation Terrasses du Pech](https://maps.app.goo.gl/6MX1u7M74RZY9maMA)
   - [Terrasses du Pech](https://maps.app.goo.gl/eyBje2zgp4aQ7D9j6)
