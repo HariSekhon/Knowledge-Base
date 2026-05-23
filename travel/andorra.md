@@ -3,9 +3,11 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Driving in Andorra](#driving-in-andorra)
 - [Andorra la Vella](#andorra-la-vella)
   - [Parking in Andorra la Vella](#parking-in-andorra-la-vella)
   - [Attractions in Andorra la Vella](#attractions-in-andorra-la-vella)
+- [La Massana](#la-massana)
 
 <!-- INDEX_END -->
 
@@ -13,6 +15,29 @@
 
 [Andorra](https://maps.app.goo.gl/JrEvrY5GoAV2qVbX8) is a small country in between [France](france.md) and
 [Spain](spain.md).
+
+After [Lichtenstein](liechtenstein.md) I was already skeptical of what this small country could possibly offer.
+
+I was pleasantly surprised.
+
+The drive through the Andorran Pyrenees is one of my top 3 all time drives with amazing views driving through the
+mountains, it looked like something out of a video game.
+
+The capital, Andorra la Vella, is nothing like the village sized capital of Lichtenstein -
+it is a full 1st class capital, not big, but good, see below for more on that.
+
+The weather on the mountain tops is a bit chilly when I stopped at the first petrol station to refill,
+but was better in the capital Andorra la Vella as it is much lower down and sheltered between the mountains.
+
+## Driving in Andorra
+
+The mountain roads are winding but views are great.
+
+This is not a drive I would recommend for inexperienced drivers though as the turns are sharp,
+and there are lots of speed changes, cameras etc.... and while it looks like something out of a video game
+if you drive as such, not only will you set off the cameras, but you will probably go off the side of a mountain.
+
+Petrol is around 25% cheaper in Andorra than in France due to less taxes.
 
 ## Andorra la Vella
 
