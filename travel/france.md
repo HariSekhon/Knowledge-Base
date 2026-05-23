@@ -189,6 +189,7 @@ over - there is free parking and a castle to see.
 - [Les terrasses du Pech (Début de sentier)](https://maps.app.goo.gl/PwoVtMnfk74Zua9D8) - hiking area
   - [Table d'orientation Terrasses du Pech](https://maps.app.goo.gl/6MX1u7M74RZY9maMA)
   - [Terrasses du Pech](https://maps.app.goo.gl/eyBje2zgp4aQ7D9j6)
+- [Centre aquatique de L'agglo Foix-Varilhes](https://maps.app.goo.gl/RPsJAD6CfwnzLmoh6) - swimming pool
 
 ## Marseille
 
