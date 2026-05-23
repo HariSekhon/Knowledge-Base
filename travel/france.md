@@ -43,7 +43,14 @@
 
 ## Summary
 
-A surprising number of people in France do not speak English at all.
+France was clearly a once great country when looking at its architecture and monuments as well as its 1st world
+development of services and public transport.
+
+Unfortunately it has been clearly deteriorated by mass immigration
+and I was personally hassled by several immigrants in the streets of different cities within just a few days.
+By the time I left France I was glad to see the back of them.
+
+A surprising number of French people in France do not speak English at all.
 
 If you've been travelling to other countries where they often accommodate English speakers this might come as a
 surprise for a country close to England.
@@ -72,13 +79,17 @@ I couldn't get from one city to another without getting hit with another toll, n
 I was often getting hit with 2-3 tolls per day driving around.
 
 France has got to be one of the worst most expensive countries to road trip across.
-I promise to never criticise the slavic vignette countries again they are a bargain compared to France.
+I promise to never criticise the slavic vignette countries again as they are a bargain compared to France.
 
 I got robbed by automated barriers for €27 for a single drive from Calais to Reims,
 and that's barely a dent into the country -
-you don't realize what big countries France, Germany and Poland are until you road trip across them vs England.
+you don't realize how big countries like France,
+Germany and Poland are until you road trip across them and compare that to road tripping across England which is much
+shorter and quicker.
 
-I got robbed for around €30 a day several times.
+I was routinely getting robbed by toll gates for around €30 per day.
+This would be even more
+if I was actually trying to drive across the country instead of just to visit the next town or city.
 
 ## Beziers
 
