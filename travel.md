@@ -177,7 +177,7 @@ Country pages with specific tips for each country:
 - [Spain](travel/spain.md) ⭐
 - [Sweden](travel/sweden.md)
 - [Ukraine](travel/ukraine.md)
-- [United Kingdom](travel/uk.md)
+- [United Kingdom](travel/uk.md) ⭐
 
 <!--
 
