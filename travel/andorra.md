@@ -43,6 +43,29 @@ Petrol is around 25% cheaper in Andorra than in France due to less taxes.
 
 [Andorra la Vella](https://maps.app.goo.gl/tf1CzJ1Gq4oARyWZ6) is the capital city of Andorra.
 
+It is surprisingly nice with many restaurants and designer stores as well as fast flowing river through it and there
+was a big water display in the evening.
+
+I was pleasantly surprised as I had come in skeptical thinking that the mountain views are great
+but if there isn't much there I would be marking it down based on amenities, but this was not the case.
+
+This is definitely worth a day trip visit.
+
+You will need at least 2 hours to wander around, plus time for cafes, restaurants or shopping.
+
+### Restaurants in Andorra la Vella
+
+Several of the big restaurants full of tourists on the main strip have low ratings.
+One of them by buddy previously tried and was very disappointed in, which I nearly tried until I saw my own notes
+to avoid it.
+
+- [Blót Andorra](https://maps.app.goo.gl/7tGuqm3SSBi2VbCN6) - high quality scandinavian restaurant chain of two with
+  viking theme.
+  The burgers and milanese are recommended here.
+  I had the neopolitana milanese beef with frieds eggs and sweet potato mash.
+  Fast wifi 900/729 Mbit/s
+- [Amorino](https://maps.app.goo.gl/YjTAJD5SJJrVX2Pt7) - high quality international ice cream chain found across Europe
+
 Not Recommended:
 
 - [Restaurant 120 | Andorra la Vella](https://maps.app.goo.gl/c2NdSf6NWsTvdtax7) - my travel buddy said it was awful
