@@ -81,6 +81,7 @@ to avoid it.
   The burgers and milanese are recommended here.
   I had the neopolitana milanese beef with ham, cheese, tomato sauce, and two fried eggs on top of it with a side of
   sweet potato mash, which was all very good.
+  They didn't have the special house lemonade I wanted to try but the lemon soda was good too, not too sweet.
   Fast wifi 900/729 Mbit/s
 - [Amorino](https://maps.app.goo.gl/YjTAJD5SJJrVX2Pt7) - high quality international ice cream chain found across Europe
 
