@@ -185,6 +185,7 @@ over - there is free parking and a castle to see.
 ### Attractions in Foix
 
 - [Château de Foix](https://maps.app.goo.gl/a7q6Gf9JLpcJ41kE8) - 10-15th century hilltop castle
+- [Les terrasses du Pech (Début de sentier)](https://maps.app.goo.gl/PwoVtMnfk74Zua9D8) - hiking area
 
 ## Marseille
 
