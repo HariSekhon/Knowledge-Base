@@ -17,7 +17,6 @@
 - [Foix](#foix)
   - [Parking in Foix](#parking-in-foix)
   - [Attractions in Foix](#attractions-in-foix)
-- [Paris](#paris)
 - [Marseille](#marseille)
   - [Public Transport in Marseille](#public-transport-in-marseille)
   - [Attractions in Marseille](#attractions-in-marseille)
@@ -33,6 +32,7 @@
   - [Parking in Nice](#parking-in-nice)
   - [Attractions in Nice](#attractions-in-nice)
   - [Restaurants in Nice](#restaurants-in-nice)
+- [Paris](#paris)
 - [Reims](#reims)
 - [Toulouse](#toulouse)
   - [Parking in Toulouse](#parking-in-toulouse)
@@ -185,17 +185,6 @@ over - there is free parking and a castle to see.
 ### Attractions in Foix
 
 - [Château de Foix](https://maps.app.goo.gl/a7q6Gf9JLpcJ41kE8) - 10-15th century hilltop castle
-
-## Paris
-
-*"A less good version of London"* as my colleague described it.
-
-The capital is heavily immigrated from Africa, with lots of graffiti and not very nice metro.
-
-I have literally been told off for not speaking French as a visitor. Much less welcoming than other parts of the world.
-
-The many Chateaux outside of Paris in the French countryside are nice though
-(I used to go every year with a company for retreats).
 
 ## Marseille
 
@@ -382,6 +371,17 @@ TODO:
 - [Café Fino | Lunch - Coffee Shop - Brunch in Nice](https://maps.app.goo.gl/uaMMbU234F2bnATFA) - 4.7
 - [Café Marché](https://maps.app.goo.gl/H1Pbx2UQp24tUBFx8) - 4.7
 - [Foodie Nice, Brunch & Coffee Shop](https://maps.app.goo.gl/aLALDUL1ephNLY43A) - 4.6
+
+## Paris
+
+_"A less good version of London"_ as my colleague described it.
+
+The capital is heavily immigrated from Africa, with lots of graffiti and not very nice metro.
+
+I have literally been told off for not speaking French as a visitor. Much less welcoming than other parts of the world.
+
+The many Chateaux outside of Paris in the French countryside are nice though
+(I used to go every year with a company for retreats).
 
 ## Reims
 
