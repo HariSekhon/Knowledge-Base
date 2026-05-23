@@ -37,6 +37,7 @@
 - [Toulouse](#toulouse)
   - [Parking in Toulouse](#parking-in-toulouse)
   - [Attractions in Toulouse](#attractions-in-toulouse)
+  - [Restaurants in Toulouse](#restaurants-in-toulouse)
 
 <!-- INDEX_END -->
 
@@ -423,3 +424,10 @@ Didn't stay here long enough to check out the restaurant scene.
 - [Les Abattoirs](https://maps.app.goo.gl/qoZrdmKRokzWeRmF9) - art museum
 - [Musée départemental de la Résistance et de la Déportation](https://maps.app.goo.gl/BqrCvnz9pdsqVznY7) - war museum
 - [Pierre Goudouli Garden](https://maps.app.goo.gl/3JgFumArpHYyxVJm7)
+
+### Restaurants in Toulouse
+
+TODO:
+
+- [Black & White Burger](https://maps.app.goo.gl/bHozuLnZJHMaR4Hb8)
+- [The Antidote Burger](https://maps.app.goo.gl/NRNYzajbJ6ZfrhHY6)
