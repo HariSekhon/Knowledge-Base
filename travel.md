@@ -147,6 +147,7 @@ Country pages with specific tips for each country:
 ### Europe
 
 - [Albania](travel/albania.md) ⭐
+- [Andorra](travel/andorra.md)
 - [Austria](travel/austria.md)
 - [Belgium](travel/belgium.md)
 - [Bosnia](travel/bosnia.md)
