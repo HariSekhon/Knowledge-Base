@@ -90,6 +90,7 @@ Not Recommended:
 TODO:
 
 - [Atelier Burgues](https://maps.app.goo.gl/RRKYHAgixx7dd6Ya9) - 4.8, burgers
+- [Burger Brothers Escaldes](https://maps.app.goo.gl/d6qYp4dyvEFv2Y7s7) - 4.3
 
 ## La Massana
 
