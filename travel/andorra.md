@@ -36,4 +36,4 @@ Not Recommended:
 
 ## La Massana
 
-[La Massana](https://maps.app.goo.gl/KFuMbNBEAqvQg5Wx6) - parish just north of the main Andorra la Vella
+[La Massana](https://maps.app.goo.gl/KFuMbNBEAqvQg5Wx6) is a parish just north of the main Andorra la Vella.
