@@ -14,6 +14,9 @@
   - [Parking in Cannes](#parking-in-cannes)
   - [Restaurants in Cannes](#restaurants-in-cannes)
 - [Dunkirk](#dunkirk)
+- [Foix](#foix)
+  - [Parking in Foix](#parking-in-foix)
+  - [Attractions in Foix](#attractions-in-foix)
 - [Paris](#paris)
 - [Marseille](#marseille)
   - [Public Transport in Marseille](#public-transport-in-marseille)
@@ -167,7 +170,21 @@ TODO:
 
 ## Dunkirk
 
-Good for a stopover on your way to Beligum from the UK ferrying to Calais.
+Good for a stopover on your way to Belgium from the UK ferrying to Calais.
+
+## Foix
+
+[Foix](https://maps.app.goo.gl/gWpGcd6MuwMATgqJ9) is a small town in between Toulouse and Andorra, good for a stop
+over - there is free parking and a castle to see.
+
+### Parking in Foix
+
+- [Parking des Moulins](https://maps.app.goo.gl/52Lc31H4s2W6eNZw5) - free parking
+- [1 Parking de la Vigne](https://maps.app.goo.gl/NB9gwkkprnqMGxby8) - another free parking
+
+### Attractions in Foix
+
+- [Château de Foix](https://maps.app.goo.gl/a7q6Gf9JLpcJ41kE8) - 10-15th century hilltop castle
 
 ## Paris
 
