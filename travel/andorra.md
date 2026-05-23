@@ -62,11 +62,11 @@ You will need at least 2 hours to wander around, plus time for cafes, restaurant
 
 - [Pont de París](https://maps.app.goo.gl/y7SDAFebSu7BgMR69) - bridge branded with Andorra la Vella - there was a water
   show with lights in the evening
-- [La Noblesse du Temps](https://maps.app.goo.gl/bo3TbYhcRDhJwCXA6)
-- [Fonts d’Andorra la Vella](https://maps.app.goo.gl/zsUMErvSg9ixiPaE6)
-- [Rec del Solà Trail](https://maps.app.goo.gl/wmkvTMvY3MYbzwkT7)
+  - [La Noblesse du Temps](https://maps.app.goo.gl/bo3TbYhcRDhJwCXA6)
+  - [Fonts d’Andorra la Vella](https://maps.app.goo.gl/zsUMErvSg9ixiPaE6)
 - [CCA Centre Comercial Andorrà - Super U](https://maps.app.goo.gl/fFtL6VCChpyBxT3N8)
 - [Pyrénées Andorra](https://maps.app.goo.gl/RshnbbymyrC2Uzjv6) - local department store
+- [Rec del Solà Trail](https://maps.app.goo.gl/wmkvTMvY3MYbzwkT7)
 - [Mirador La Comella | Andorra](https://maps.app.goo.gl/raoxJ5SMsMSguswk8)
 
 ### Restaurants in Andorra la Vella
