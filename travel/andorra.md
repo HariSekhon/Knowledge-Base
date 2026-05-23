@@ -7,6 +7,7 @@
 - [Andorra la Vella](#andorra-la-vella)
   - [Parking in Andorra la Vella](#parking-in-andorra-la-vella)
   - [Attractions in Andorra la Vella](#attractions-in-andorra-la-vella)
+  - [Restaurants in Andorra la Vella](#restaurants-in-andorra-la-vella)
 - [La Massana](#la-massana)
 
 <!-- INDEX_END -->
@@ -53,6 +54,18 @@ This is definitely worth a day trip visit.
 
 You will need at least 2 hours to wander around, plus time for cafes, restaurants or shopping.
 
+### Parking in Andorra la Vella
+
+- [[Aparcament Comunal] Parc Central](https://maps.app.goo.gl/ZhvBDvMcLrPTU7X86)
+
+### Attractions in Andorra la Vella
+
+- [Pont de París](https://maps.app.goo.gl/y7SDAFebSu7BgMR69) - bridge branded with Andorra la Vella
+- [Rec del Solà Trail](https://maps.app.goo.gl/wmkvTMvY3MYbzwkT7)
+- [CCA Centre Comercial Andorrà - Super U](https://maps.app.goo.gl/fFtL6VCChpyBxT3N8)
+- [Pyrénées Andorra](https://maps.app.goo.gl/RshnbbymyrC2Uzjv6) - local department store
+- [Mirador La Comella | Andorra](https://maps.app.goo.gl/raoxJ5SMsMSguswk8)
+
 ### Restaurants in Andorra la Vella
 
 Several of the big restaurants full of tourists on the main strip have low ratings.
@@ -70,17 +83,9 @@ Not Recommended:
 
 - [Restaurant 120 | Andorra la Vella](https://maps.app.goo.gl/c2NdSf6NWsTvdtax7) - my travel buddy said it was awful
 
-### Parking in Andorra la Vella
+TODO:
 
-- [[Aparcament Comunal] Parc Central](https://maps.app.goo.gl/ZhvBDvMcLrPTU7X86)
-
-### Attractions in Andorra la Vella
-
-- [Pont de París](https://maps.app.goo.gl/y7SDAFebSu7BgMR69) - bridge branded with Andorra la Vella
-- [Rec del Solà Trail](https://maps.app.goo.gl/wmkvTMvY3MYbzwkT7)
-- [CCA Centre Comercial Andorrà - Super U](https://maps.app.goo.gl/fFtL6VCChpyBxT3N8)
-- [Pyrénées Andorra](https://maps.app.goo.gl/RshnbbymyrC2Uzjv6) - local department store
-- [Mirador La Comella | Andorra](https://maps.app.goo.gl/raoxJ5SMsMSguswk8)
+- [Atelier Burgues](https://maps.app.goo.gl/RRKYHAgixx7dd6Ya9) - 4.8, burgers
 
 ## La Massana
 
