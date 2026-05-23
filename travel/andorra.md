@@ -79,7 +79,8 @@ to avoid it.
 - [Blót Andorra](https://maps.app.goo.gl/7tGuqm3SSBi2VbCN6) - high quality scandinavian restaurant chain of two with
   viking theme.
   The burgers and milanese are recommended here.
-  I had the neopolitana milanese beef with frieds eggs and sweet potato mash.
+  I had the neopolitana milanese beef with ham, cheese, tomato sauce, and two fried eggs on top of it with a side of
+  sweet potato mash, which was all very good.
   Fast wifi 900/729 Mbit/s
 - [Amorino](https://maps.app.goo.gl/YjTAJD5SJJrVX2Pt7) - high quality international ice cream chain found across Europe
 
