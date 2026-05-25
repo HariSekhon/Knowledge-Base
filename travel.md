@@ -352,6 +352,12 @@ Some countries require an entire clean passport page for their immigration stamp
 
 ## Flights
 
+My friend has travelled to even more countries than I have and was always going where the cheap flights took him.
+
+This inspired me to eventually start cost optimizing my flights around the world.
+
+So here is what I've learnt about flights travelling around the world and back again and taking way too many flights.
+
 ### Flight Tips
 
 #### Book Ahead
