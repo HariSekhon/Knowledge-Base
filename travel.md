@@ -371,6 +371,7 @@ countries are not as cheap as between European countries).
 
 If you can be flexible about dates, check a few days either side of when you want to travel,
 as it's cheaper to travel on less busy days.
+
 For example, I spent 5 days in Madrid essentially for free by waiting for a cheaper long distance connecting flight
 there.
 
