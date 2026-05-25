@@ -370,8 +370,10 @@ Same goes for ferries if driving.
 
 For long-distance flights to/from Europe, it's cheaper to book one flight to a major transit hub such as London, Madrid
 or Barcelona which benefit from the economy of scale of passengers, and then buy a separate budget ticket
-(Ryanair / EasyJet) for the final leg once you're in the region such as Europe (the flights between Latin American
-countries are not as cheap as between European countries).
+(Ryanair / EasyJet) for the final leg once you're in the region such as Europe.
+
+Btw I mention Europe here because the flights between Latin American countries are not as cheap as between European
+countries, and this is something you should budget extra for if travelling around Latin America.
 
 #### Cheaper Tickets via Date Flexibility
 
