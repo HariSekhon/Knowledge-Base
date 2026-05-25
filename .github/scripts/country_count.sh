@@ -48,11 +48,11 @@ if [[ "$USER" =~ hari|sekhon ]]; then
         timestamp "Downloading Nomads CSV"
         nomads_csv=~/Downloads/nomads-harisekhon-"$(date '+%F').csv"
         curl_with_cookies.sh https://nomads.com/@harisekhon.csv > "$nomads_csv"
-        if [ -n "${travel_dir:-}" ] &&
-           [ -d "$travel_dir" ]; then
-            timestamp "Copying Nomads CSV to Travel folder"
-            cp -fv "$nomads_csv" "$travel_dir/nomads.csv"
-            git_diff_commit.sh "$travel_dir/nomads.csv"
+        if [ -n "${nomads_dir:-}" ] &&
+           [ -d "$nomads_dir" ]; then
+            timestamp "Copying Nomads CSV"
+            cp -fv "$nomads_csv" "$nomads_dir/nomads.csv"
+            git_diff_commit.sh "$nomads_dir/nomads.csv"
         fi
         echo "Stripping first line header"
         csv="$(tail -n +2 "$nomads_csv")"
