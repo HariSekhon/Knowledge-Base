@@ -63,7 +63,7 @@ if [[ "$USER" =~ hari|sekhon ]]; then
             awk -F'"' '{print $10}' <<< "$csv" |
             sed 's/"//g' |
             # normalize as there is a record listing UK instead of United Kingdom throwing off the number by one
-            # not needed, this was caused by Folkestone, UK breaking the field early, fixed above by
+            # not needed, this was caused by "Folkestone, UK" breaking the field early, fixed above by
             # awk splitting by " instead of , above
             #sed 's/^UK$/United Kingdom/g' |
             sort -u
