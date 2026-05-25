@@ -374,6 +374,11 @@ as it's cheaper to travel on less busy days.
 For example, I spent 5 days in Madrid essentially for free by waiting for a cheaper long distance connecting flight
 there.
 
+On the way back to Europe,
+I spent 8 days in Puerto Rico to save a lot on the flight back to Europe.
+Even though Puerto Rico isn't that cheap for food or accommodation as its part of the US,
+the savings on the flight difference was several hundred which paid for most of the week in Puerto Rico.
+
 #### Baggage Fees
 
 Watch out for hidden baggage fees where tickets do not include checked baggage, or the luggage allowance is too low
