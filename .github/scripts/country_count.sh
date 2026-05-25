@@ -46,25 +46,31 @@ if [[ "$USER" =~ hari|sekhon ]]; then
     if type -P curl_with_cookies.sh &>/dev/null &&
        type -P pycookiecheat &>/dev/null; then
         timestamp "Downloading Nomads CSV"
-        nomads_csv=~/Downloads/"$(date '+%F')-harisekhon-trips-on-nomad-list.csv"
+        nomads_csv=~/Downloads/nomads-harisekhon-"$(date '+%F').csv"
         curl_with_cookies.sh https://nomads.com/@harisekhon.csv > "$nomads_csv"
-        google_drive_travel_dir="$HOME/Google Drive/1. Travel"
-        if [ -d "$google_drive_travel_dir" ]; then
-            timestamp "Copying Nomads CSV to Google Drive"
-            cp -fv "$nomads_csv" "$google_drive_travel_dir/nomads.csv"
-            git_diff_commit.sh "$google_drive_travel_dir/nomads.csv"
+        if [ -n "${travel_dir:-}" ] &&
+           [ -d "$travel_dir" ]; then
+            timestamp "Copying Nomads CSV to Travel folder"
+            cp -fv "$nomads_csv" "$travel_dir/nomads.csv"
+            git_diff_commit.sh "$travel_dir/nomads.csv"
         fi
         echo "Stripping first line header"
         csv="$(tail -n +2 "$nomads_csv")"
         timestamp "Parsing Countries from CSV"
         total_countries="$(
-            awk -F, "{print \$5}" <<< "$csv" |
+            # breaks on commas within a quoted field
+            #awk -F, "{print \$5}" <<< "$csv" |
+            awk -F'"' '{print $10}' <<< "$csv" |
             sed 's/"//g' |
+            # normalize as there is a record listing UK instead of United Kingdom throwing off the number by one
+            # not needed, this was caused by Folkestone, UK breaking the field early, fixed above by
+            # awk splitting by " instead of , above
+            #sed 's/^UK$/United Kingdom/g' |
             sort -u
         )"
         timestamp "Parsing Cities from CSV"
         total_cities="$(
-            awk -F, "{print \$5\"-\"\$4}" <<< "$csv" |
+            awk -F'"' "{print \$10\"-\"\$8}" <<< "$csv" |
             sed 's/"//g' |
             sort -u
         )"
@@ -91,13 +97,13 @@ if [[ "$USER" =~ hari|sekhon ]]; then
         for year in {2024..2099}; do
             timestamp "Parsing Countries for year: $year"
             countries="$(
-                awk -F, "/\"$year/{print \$5}" <<< "$csv" |
+                awk -F'"' "/\"$year/{print \$10}" <<< "$csv" |
                 sed 's/"//g' |
                 sort -u
             )"
             timestamp "Parsing Cities for year: $year"
             cities="$(
-                awk -F, "/\"$year/{print \$5\"-\"\$4}" <<< "$csv" |
+                awk -F'"' "/\"$year/{print \$10\"-\"\$8}" <<< "$csv" |
                 sed 's/"//g' |
                 sort -u
             )"
