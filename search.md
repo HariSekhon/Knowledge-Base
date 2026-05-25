@@ -17,6 +17,7 @@ Shortlist of relevant ones:
 - [Google](https://google.com)
 - [DuckDuckGo](https://duckduckgo.com) - search without tracking
 - [Brave Search](https://brave.com/search/) - search without tracking
+- [Ecosia](https://www.ecosia.org/) - search engine that plants trees - and eco positive use of big tech money
 - [Presearch](https://presearch.com/) - decentralized search without tracking, you can run your own node
 
 More listed on Wikipedia:
