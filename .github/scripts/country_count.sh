@@ -51,8 +51,9 @@ if [[ "$USER" =~ hari|sekhon ]]; then
         if [ -n "${nomads_dir:-}" ] &&
            [ -d "$nomads_dir" ]; then
             timestamp "Copying Nomads CSV"
-            cp -fv "$nomads_csv" "$nomads_dir/nomads.csv"
+            mv -fv "$nomads_csv" "$nomads_dir/nomads.csv"
             git_diff_commit.sh "$nomads_dir/nomads.csv"
+            nomads_csv="$nomads_dir/nomads.csv"
         fi
         echo "Stripping first line header"
         csv="$(tail -n +2 "$nomads_csv")"
