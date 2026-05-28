@@ -36,6 +36,9 @@ dangerous natives.
 
 Even in the richest areas you are not safe. See the next section on Crime.
 
+Also watch [BantuCityDiaries](https://www.youtube.com/@BantuCityDiaries) for some honest videos on the state of various
+African countries as I have no interest in visiting the rest of them after exposure to South Africa.
+
 ## Crime
 
 South Africa is one of the most dangerous countries in the world with horrible crimes especially against non-blacks
