@@ -49,6 +49,7 @@ Buses are free, and you can take them from the Park + Ride near the edge of the 
 - [Place d'Armes](https://maps.app.goo.gl/Cw75ij81j4k1yH5H7) - this is the area with lots of shops and restaurants
   around it
 - [Palais Grand-Ducal](https://maps.app.goo.gl/otbNgFmEjhXgDR4x6)
+- [Place Guillaume II](https://maps.app.goo.gl/VFoPpXUhgKnQPmaF8)
 - [Cathedral Notre-Dame of Luxembourg](https://maps.app.goo.gl/hQogfbQko6t3YR718)
 - [Neumünster Abbey](https://maps.app.goo.gl/oiKnFNJ6oqg3RTKBA)
 - [Casemates du Bock](Casemates du Bock)
