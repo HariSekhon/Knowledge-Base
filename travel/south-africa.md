@@ -60,6 +60,12 @@ If he and his family had left home a mere 30 minutes later it would have been a 
 
 You may only get one close call like that in life.
 
+This is not a country I would ever move my family to for any reason.
+
+Watch the movie [Hotel Rwanda](https://www.imdb.com/title/tt0395169/) about the Rwandan genocide not long ago
+in the 1990s for some real idea of how badly things can go wrong outside of your control in these sorts of african
+countries - it is based on a true story.
+
 See the difference in crime rate between South African and civilized countries in Europe and Asia:
 
 [![Homocide Rate](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&country=ZAF~UN_EUR~Eastern+Asia+%28UN%29)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&country=ZAF~UN_EUR~Eastern+Asia+%28UN%29)
