@@ -5,6 +5,7 @@
 - [Summary](#summary)
 - [Crime](#crime)
 - [Population](#population)
+- [Active Discrimination Against Non-Blacks](#active-discrimination-against-non-blacks)
 - [Johannesburg](#johannesburg)
   - [Sandton](#sandton)
   - [Rosebank](#rosebank)
@@ -84,6 +85,13 @@ growing as their birthrate is nearly double that of Europe, especially among the
 [![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~ZAF)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~ZAF)
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..&country=~ZAF)](https://ourworldindata.org/grapher/population?tab=line&time=1950..&country=~ZAF)
+
+## Active Discrimination Against Non-Blacks
+
+Non-Blacks face active quota discrimination, making it difficult for them to get decent jobs.
+
+Apparently DEI does not apply in reverse out there for whites and other ethnic minorities like Indians.
+Who would have guessed.
 
 ## Johannesburg
 
