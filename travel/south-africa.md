@@ -95,6 +95,9 @@ Who would have guessed.
 
 My colleagues at a large bank in South Africa told me that it is a minus one score against them to hire a white.
 
+This runs contrary to modern meritocracy that has allowed ethnic minorities such as myself to become successful through
+competence and good work.
+
 ## Johannesburg
 
 Johannesburg, the capital, is where the biz is, where people cite Cape Town by the beach for leisure.
