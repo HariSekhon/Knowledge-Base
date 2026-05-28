@@ -17,6 +17,9 @@
 
 I would not take any white girlfriend there (or to most of Africa).
 
+South Africa is the most developed African country due to European settlers and even there it is so bad I would never
+move my family there for any reason.
+
 It was a 1st world developed country with good infrastructure built by European settlers which is now deteriorating
 under democratic native rule.
 
