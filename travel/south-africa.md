@@ -98,8 +98,6 @@ My colleagues at a large bank in South Africa told me that it is a minus one sco
 This runs contrary to modern meritocracy that has allowed ethnic minorities such as myself to become successful through
 competence and good work.
 
-I cannot condone any such discrimination policies on the basis of immutable characteristics, it defies modern morality.
-
 ## Johannesburg
 
 Johannesburg, the capital, is where the biz is, where people cite Cape Town by the beach for leisure.
