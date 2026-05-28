@@ -7,14 +7,17 @@
 - [Population](#population)
 - [Crime](#crime)
 - [Taxi Apps](#taxi-apps)
+- [ATMs in Madrid](#atms-in-madrid)
 - [Madrid](#madrid)
   - [Madrid Airport - MAD](#madrid-airport---mad)
     - [Travel to / from Madrid Airport](#travel-to--from-madrid-airport)
   - [Metro in Madrid](#metro-in-madrid)
   - [Best Areas to Stay in Madrid](#best-areas-to-stay-in-madrid)
-  - [ATMs in Madrid](#atms-in-madrid)
   - [Attractions in Madrid](#attractions-in-madrid)
   - [Restaurants in Madrid](#restaurants-in-madrid)
+- [Barcelona](#barcelona)
+  - [Best Areas to Stay in Barcelona](#best-areas-to-stay-in-barcelona)
+- [Berga](#berga)
 - [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
 - [Ibiza](#ibiza)
 - [Mallorca](#mallorca)
@@ -88,6 +91,21 @@ same with the buses.
 - [Cabify](https://cabify.com/en) - the top taxi app here with competitive pricing
 - [Uber](https://www.uber.com/es/en/) - was cheaper for the 4am return to the airport than Cabify
 - [Bolt](https://bolt.eu/en/)
+
+## ATMs in Madrid
+
+This is the best one I could find:
+
+- [Caixa Bank](https://www.google.com/maps/search/caixa+bank/) - €4.50 for a withdrawal and can use contactless card
+  from your phone wallet in case you've lost your physical card
+  (you can freeze your physical card but still use the contactless one with some banks like Chase)
+
+**NOT Recommended:**
+
+- BBVA - I got robbed for €7 withdrawal fee from one using a UK card
+- Santander - also tried to rob me for €7 but at least had the option to accept or cancel
+- Revolut - even worse than the above as it charges €5 with a €250 withdrawal limit which means you'll pay a higher
+  percentage compared to just taking out €500 - €600 from one of the above ATMs
 
 ## Madrid
 
@@ -167,10 +185,6 @@ doesn't look like you can pay for a journey without one.
 - [Chamartín](https://maps.app.goo.gl/u3awifaFxWQN4XBY6) - upmarket residential area in north Madrid, a bit of a long
   1 hour walk, so take the metro if staying here or Tetuan
 - [Tetuán](https://maps.app.goo.gl/AKGSRjMk9EfwgUrc9) - adjacent west of Chamartín
-
-### ATMs in Madrid
-
-**Do not use BBVA ATMs - I got robbed for €7 withdrawal fee from one using a UK card.**
 
 ### Attractions in Madrid
 
@@ -360,6 +374,37 @@ Acai and desserts:
 Expensive / fancy:
 
 - [Jardín de los Duques](https://maps.app.goo.gl/86RZUPuVPQN4Mkx89)
+
+## Barcelona
+
+### Best Areas to Stay in Barcelona
+
+- [Eixample](https://maps.google.com/?q=Eixample+Barcelona) - the most central area in a grid layout with many
+  restaurants and smaller shops.
+  If it's your first time in Barcelona, stay here or as close to it as you can
+- [Gothic Quarter](https://maps.app.goo.gl/H696GeQ9iEFBTT9N8) - medieval heart of the city filled with narrow alleys,
+  historic landmarks, and lively squares.
+  This runs along La Rambla with various restaurants and tourist shops
+- [El Born](https://maps.google.com/?q=El+Born+Barcelona) - trendy historic quarter with boutique shops, tapas bars,
+  and vibrant nightlife in betweeen the Gothic Quarter and Ciutadella Park
+- [Barceloneta](https://maps.app.goo.gl/vtygqtT6eavgPNDz8) - beachfront area popular for seafood restaurants, seaside
+  walks, and summer nightlife
+- [Poblenou](https://maps.app.goo.gl/KHmBzGDEoe9QwUy99) - quiet streets, creative tech-oriented district with
+  beaches, coworking spaces, and relaxed cafés
+- [Sant Antoni](https://maps.app.goo.gl/FwkzwZV3vcuh1roG6) - food-focused neighbourhood with a strong cafe
+  culture and less tourist traffic
+- [Sarrià-Sant Gervasi](https://maps.app.goo.gl/n6QvhKnhMqsqAjxUA) - upmarket residential suburb with green spaces,
+  fine dining, and a quieter atmosphere
+- [Gràcia](https://maps.app.goo.gl/dRncvShuAToxn3GP6) - village-like neighbourhood with charming plazas, independent
+  cafés, and a local atmosphere
+- [Poble-sec](https://maps.app.goo.gl/H1PNAFPuKTNegpEfA) - lively hillside district known for tapas streets, theatres,
+  and nightlife, more of a locals rather than tourists end of the city,
+  and a bit far away from the historic parts of the city
+- [Diagonal Mar](https://maps.app.goo.gl/9CqPnWpBNZJSPGJW8) - modern waterfront neighbourhood with high-rise apartments,
+  shopping centres, and beaches... but it's far away from the historic parts of the city
+
+## Berga
+
 
 ## Ferry Between Ibiza and Mallorca
 
