@@ -7,6 +7,7 @@
   - [Driving in Luxembourg City](#driving-in-luxembourg-city)
   - [Buses in Luxembourg City](#buses-in-luxembourg-city)
   - [Parking in Luxembourg City](#parking-in-luxembourg-city)
+  - [Attractions in Luxembourg City](#attractions-in-luxembourg-city)
   - [Restaurants in Luxembourg City](#restaurants-in-luxembourg-city)
 
 <!-- INDEX_END -->
@@ -19,7 +20,7 @@ being situated in between France, Germany and Belgium, and as such there doesn't
 There is some nice architecture but the shops are mostly international chains and restaurants of international cuisines.
 You don't really need to go to Luxembourg to each thai or a burger or italian.
 
-Overall I cannot see a distinctive draw other than ticking it off the list.
+It is quite nice for a visit, but overall I cannot see a distinctive draw other than ticking it off the list.
 
 There were a lot of noticeably tall people, even several women were 6ft tall, which is rare.
 I suspect these are flemish people based on prior experience.
@@ -42,6 +43,19 @@ Buses are free, and you can take them from the Park + Ride near the edge of the 
 - [Parking Monterey](https://maps.app.goo.gl/ieGvtQfCgSrLugna9) - I parked here for €2 per hour.
   If you're only in Luxembourg city for a short time, this is more convenient as
   the Park and Ride will eat your time if you're only in town for a few hours
+
+### Attractions in Luxembourg City
+
+- [Palais Grand-Ducal](https://maps.app.goo.gl/otbNgFmEjhXgDR4x6)
+- [Cathedral Notre-Dame of Luxembourg](https://maps.app.goo.gl/hQogfbQko6t3YR718)
+- [Place d'Armes](https://maps.app.goo.gl/Cw75ij81j4k1yH5H7)
+- [Neumünster Abbey](https://maps.app.goo.gl/oiKnFNJ6oqg3RTKBA)
+- [Casemates du Bock](Casemates du Bock)
+- [Rocher du Bock](https://maps.app.goo.gl/JWQ8zAq6k4cGzA1Z7)
+- [Plateau du Rham](https://maps.app.goo.gl/njG9gdCwbT4NUcYbA)
+- [Luxembourg National Museum of Natural History](https://maps.app.goo.gl/SJMKYAYMLk46H7CX8)
+- [National Art & History Museum](https://maps.app.goo.gl/Kwwy1a73qUiMjcq37)
+- [Monument of Remembrance](https://maps.app.goo.gl/jMegRVJT7kkzYuJcA)
 
 ### Restaurants in Luxembourg City
 
