@@ -535,7 +535,10 @@ which is ridiculous as you could stay in a full private hotel room in Dubai for 
 
 Also, manu European cities are price gouging on Friday and Saturday nights where the costs can multiply.
 
-If a place has expensive accommodation, either consider travelling to somewhere else better value if holidaying,
+Prices can get even more astronomical going as high as £100 per night during public holidays at the beginnging of May
+for a hostel that would otherwise be £20.
+
+If a place has expensive accommodation, either consider travelling to somewhere else with better value if holidaying,
 or shorten your trip there and then go somewhere better value for longer.
 
 **If you're travelling alone, don't waste your time & money on Hotels or Airbnbs, use hostels, they're more social and**
