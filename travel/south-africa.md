@@ -90,13 +90,15 @@ growing as their birthrate is nearly double that of Europe, especially among the
 
 Non-Blacks face active quota discrimination, making it difficult for them to get decent jobs.
 
-Apparently DEI does not apply in reverse out there for whites and other ethnic minorities like Indians.
+Apparently DEI does not apply in reverse out there for ethnic minorities like Whites and Indians.
 Who would have guessed.
 
 My colleagues at a large bank in South Africa told me that it is a minus one score against them to hire a white.
 
 This runs contrary to modern meritocracy that has allowed ethnic minorities such as myself to become successful through
 competence and good work.
+
+I cannot condone any such discrimination policies on the basis of immutable characteristics, it defies modern morality.
 
 ## Johannesburg
 
