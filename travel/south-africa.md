@@ -34,6 +34,8 @@ You will need a car in South Africa as its road infrastructure and distancing is
 Make sure to lock your doors immediately to reduce risk of carjacking and beware are red light stops of beggars and
 dangerous natives.
 
+Even in the richest areas you are not safe. See the next section on Crime.
+
 ## Crime
 
 South Africa is one of the most dangerous countries in the world with horrible crimes especially against non-blacks
@@ -42,6 +44,11 @@ Zimbabwean black immigrants are now being killed.
 
 For context, Zimbabwe is even less productive after expelling white farmers so
 Zimbabweans move to South Africa for jobs and the South African blacks resent them for this.
+
+Upon leaving a restaurant in one of the two rich areas of Johannesburg I asked one of the yellow vest guards
+standing in the street why there were standing around there as there appeared to be nothing to do.
+He told me that it is to make sure we get from the door of the restaurant to our car.
+That is how dangerous South Africa is even in the richest areas of Johannesburg.
 
 Houses have bars on their windows, barred gates with 2 dogs, and guns for good reason.
 
