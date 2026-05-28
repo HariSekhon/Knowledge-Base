@@ -38,6 +38,9 @@ but unlike France and Germany doesn't require you to get a pre-approved sticker.
 
 Buses are free, and you can take them from the Park + Ride near the edge of the city.
 
+If you're short on time though you probably just want
+to pay for central parking instead unless you're making a long day trip of it.
+
 ### Parking in Luxembourg City
 
 - [Parking Monterey](https://maps.app.goo.gl/ieGvtQfCgSrLugna9) - I parked here for €2 per hour.
