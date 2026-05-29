@@ -464,6 +464,7 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [Catalan Museum of Archaeology](https://maps.app.goo.gl/R23PEhaFjxQViixT9)
   - [Museu Nacional d'Art de Catalunya](https://maps.app.goo.gl/GrGTkQHGj32TQPxQ9) - palace with 11th-18th century
     Catalonian art
+  - [Museu de la Música de Barcelona](https://maps.app.goo.gl/mnM86b186H3336S47)
   - [Casa Padellàs](https://maps.app.goo.gl/yNg4r38bZuu5kyik6) - Barcelona history museum
   - [Museu Egipci de Barcelona](https://maps.app.goo.gl/ZSwNXzrkphRKqZhk8) - Egyptian museum
   - [MEAM Museum](https://maps.app.goo.gl/GvWfW9NTqmJyra1v7) - art museum in 18th century palace
