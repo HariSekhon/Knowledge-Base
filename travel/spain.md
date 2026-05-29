@@ -431,6 +431,17 @@ Definitely one of the hotspots of the world, like Bangkok.
 - [Diagonal Mar](https://maps.app.goo.gl/9CqPnWpBNZJSPGJW8) - modern waterfront neighbourhood with high-rise apartments,
   shopping centres, and beaches... but it's far away from the historic parts of the city
 
+<!--
+
+- [Hip Karma Hostel](https://maps.app.goo.gl/5wNS8psFmL2u4t7g9) - central, reasonably priced (but requires cash under
+  €120), privacy curtains, full kitchen, good bathroom, side toilet even has moisturizer
+- [Urbany Hostel Barcelona](https://maps.app.goo.gl/BgkaTjpjeazBVZg99) - good with en-suite dorm and decent facilities
+  but a long walk from the centre.
+  Full small kitchen on 2nd floor (only accessible via 1 lift) where the wifi signal doesn't reach.
+  Large paid breakfast kitchen and terrace on 3rd floor
+
+-->
+
 ### Parking in Barcelona
 
 Parking in Barcelona is as bad as other European cities.
@@ -465,6 +476,8 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
 - [Casa Vicens Gaudí](https://maps.app.goo.gl/nCeR2UnTQX44TQkE9)
 - [Casa Batlló](https://maps.app.goo.gl/fzb684KeCLxmk1kf9)
 - [Casa Lleó Morera](https://maps.app.goo.gl/ewNeuH3fY9nmm6Zg8)
+- [Gran Clariana (Glories)](https://maps.app.goo.gl/uDFUUxeGS6xuWuTf8) - large communal park popular for walking and
+  dogs in the north east of the city at Glories
 - Museums (I've missed a few here, let me know if there are any good ones you'd add!):
   - [Banksy Museum](https://maps.app.goo.gl/hN5vjeJL3dUHv1mV9)
   - [Paradox Museum](https://maps.app.goo.gl/y2EjE4dEPoTXgGWH9)
@@ -489,6 +502,7 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [CosmoCaixa Museum of Science](https://maps.app.goo.gl/B84KqJ3Sybzcjn9M9)
   - [Big Fun Museum](https://maps.app.goo.gl/C2SAZSi45aqbeCFP8)
   - [Museu de la Xocolata](https://maps.app.goo.gl/NqBVtdRhNgg7jbMDA) - museum of artworks rendered in chocolate
+  - [Design Museum of Barcelona](https://maps.app.goo.gl/TfsW8m5dr3Jxbp767)
   - [Fundació Vila Casas](https://maps.app.goo.gl/if8LXy8AzPRTf8nc6)
 - Malls:
   - [Westfield | Glòries](https://maps.app.goo.gl/v2HaBhWBaYo6sofY6)
@@ -510,6 +524,16 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   Peruvian, Ecuadorean and Mexican ceviches with white fish, prawn and octopus respectively.
   Drinks are a bit expensive at €7.50 for non-alcoholic drinks.
   Fast WiFi 450/471 Mbit/s
+
+Gelaterias:
+
+TODO:
+
+- [La Fogata Blue](https://maps.app.goo.gl/yMMEZCVg4unbTMvW8) - 4.8, affordable steakhouse
+- [All You Eat is Love](https://maps.app.goo.gl/8W8CexCmpCvKpQfS7) - 4.7
+- [Tête-à-tête](https://maps.app.goo.gl/uGhG3mnKA4RmksWk7) - 4.9, ice cream
+- [Paral·lelo Gelato](https://maps.app.goo.gl/XYhtTSbSnora6Ydj6) - 4.8
+- [La gelateria di Michele](https://maps.app.goo.gl/Qwhja55RTmGsDFkf6) - 4.9
 
 ### Groceries in Barcelona
 
