@@ -469,6 +469,7 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [Cathedral of Barcelona](https://maps.app.goo.gl/GBJ534Qjh2iK9bQE8)
   - [Basílica de Santa Maria del Mar](https://maps.app.goo.gl/uD3vzjYeSj3j6k3K6)
   - [Pl. de Sant Jaume](https://maps.app.goo.gl/WDvhN51ABwJ7ZGBA6) - notable street with tourist shops, ice creams etc.
+    - [Església de Sant Jaume](https://maps.app.goo.gl/37fKYJahkKSYMzxX6) - smaller catholic church
   - [Plaza Real de Cataluña España](https://maps.app.goo.gl/Z5ff4e8bGrZeG9DR8) - large courtyard surrounded by upmarket
     tourist trap restaurants and a water fountain in the centre
     - [Fanals d'Antoni Gaudí](https://maps.app.goo.gl/Ydz8p3jiKxsqVAi8A)
