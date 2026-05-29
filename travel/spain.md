@@ -535,14 +535,25 @@ Gelaterias:
   The natural yoghurt flavour is also good for those who want to feel healthier.
   There is another one at [delaCrem Creativa](https://maps.app.goo.gl/KJNtxH5ubAtGRWCB8).
   No wifi
+- Carrer de Ferran has several gelaterias on it:
+  - [Anita Gelato | Rambla](https://maps.app.goo.gl/Ux5rpKXCPRE7oNqm9) - think this is the same chain as the one in
+    [Puerto Rico](puerto-rico.md)
+  - [Lucciano's - The Moon | Liceu](https://maps.app.goo.gl/E5nx8f8mqupWrJEz9) - think this is the same chain as covered
+    in [Buenos Aires](argentina.md#buenos-aires)
+  - [Amorino](https://www.google.com/maps/search/amorino+barcelona/) - high quality ice cream chain spread throughout
+    the city, first covered in Croatia and found across European countries now
 
 TODO:
 
 - [La Fogata Blue](https://maps.app.goo.gl/yMMEZCVg4unbTMvW8) - 4.8, affordable steakhouse
 - [All You Eat is Love](https://maps.app.goo.gl/8W8CexCmpCvKpQfS7) - 4.7
-- [Tête-à-tête](https://maps.app.goo.gl/uGhG3mnKA4RmksWk7) - 4.9, ice cream
-- [Paral·lelo Gelato](https://maps.app.goo.gl/XYhtTSbSnora6Ydj6) - 4.8
-- [La gelateria di Michele](https://maps.app.goo.gl/Qwhja55RTmGsDFkf6) - 4.9
+- Gelaterias:
+  - [CAJÚ gelato](https://maps.app.goo.gl/fgREcqjZRqZ6sxSo7) - 4.9
+  - [Tête-à-tête](https://maps.app.goo.gl/uGhG3mnKA4RmksWk7) - 4.9
+  - [Paral·lelo Gelato](https://maps.app.goo.gl/XYhtTSbSnora6Ydj6) - 4.8
+  - [Panna Gelati | Born](https://maps.app.goo.gl/KeGF994zRA7J1n4Q8) - 4.8
+  - [Gelaaati DI MARCO](https://maps.app.goo.gl/yBzd2H9i1LEezokA8) - 4.7
+  - [La gelateria di Michele](https://maps.app.goo.gl/Qwhja55RTmGsDFkf6) - 4.9
 - North East - Poblenou / Glories areas:
   - [Matt and Marshall - Tu México en Poblenou](https://maps.app.goo.gl/SPsvcyuXJw9rn3kv7) - 4.6, mexican
   - [Internacional Restaurant Bar](https://maps.app.goo.gl/U8SfC2fg7Qmx8vDz8) - 4.8
