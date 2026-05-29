@@ -467,6 +467,7 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
     and Barcelona Cathedral
 - Gothic Quarter:
   - [Cathedral of Barcelona](https://maps.app.goo.gl/GBJ534Qjh2iK9bQE8)
+  - [Basílica de Santa Maria del Mar](https://maps.app.goo.gl/uD3vzjYeSj3j6k3K6)
   - [The World Comes To Life With Each Kiss](https://maps.app.goo.gl/f6x2LPPXuzDXJ38f7)
   - [Roman Aqueduct](https://maps.app.goo.gl/W4vnicwY2H8HYt2w7)
   - [Palau de la Generalitat de Catalunya](https://maps.app.goo.gl/miQM5gjMS8VdJQ2K6)
