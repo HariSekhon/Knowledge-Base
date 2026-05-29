@@ -17,7 +17,11 @@
   - [Restaurants in Madrid](#restaurants-in-madrid)
 - [Barcelona](#barcelona)
   - [Best Areas to Stay in Barcelona](#best-areas-to-stay-in-barcelona)
+  - [Attractions in Barcelona](#attractions-in-barcelona)
 - [Berga](#berga)
+  - [Parking in Berga](#parking-in-berga)
+  - [Attractions in Berga](#attractions-in-berga)
+  - [Restaurants in Berga](#restaurants-in-berga)
 - [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
 - [Ibiza](#ibiza)
 - [Mallorca](#mallorca)
@@ -377,6 +381,14 @@ Expensive / fancy:
 
 ## Barcelona
 
+Barcelona is even better than Madrid with even more to do and see, including:
+
+- several beaches
+- great architecture
+- many restaurants and cafes
+- shopping
+- fitness and lifestyle
+
 ### Best Areas to Stay in Barcelona
 
 - [Eixample](https://maps.google.com/?q=Eixample+Barcelona) - the most central area in a grid layout with many
@@ -403,8 +415,70 @@ Expensive / fancy:
 - [Diagonal Mar](https://maps.app.goo.gl/9CqPnWpBNZJSPGJW8) - modern waterfront neighbourhood with high-rise apartments,
   shopping centres, and beaches... but it's far away from the historic parts of the city
 
+### Attractions in Barcelona
+
+- [Arc de Triomf](https://maps.app.goo.gl/efBZPwTcffMTmGMd8)
+  - [Ciutadella Park](https://maps.app.goo.gl/EG9p8nDtmZBve4MFA)
+  - [Barcelona Zoo](https://maps.app.goo.gl/9iaYaW62jUSzNsZA7)
+- Beaches - Barcelona has 4km of beaches!
+  - [San Sebastian Beach](https://maps.app.goo.gl/RvPeyByMKZANxSYa7)
+  - [Barceloneta Beach](https://maps.app.goo.gl/5JBnD21Pez3cyf5SA)
+    - [Barceloneta barras](https://maps.app.goo.gl/FcHNCCwp8siJGBvy5) - calisthenics workout bars
+    - [Mirador](https://maps.app.goo.gl/EP2RJbxJ22yrzMwk6)
+  - [Somorrostro Beach](https://maps.app.goo.gl/rDcjRqYgmLtvwF4T7)
+  - [Nova Icaria Beach](https://maps.app.goo.gl/G7pBp2x8REAd4sL6A)
+  - [Bogatell Beach](https://maps.app.goo.gl/H4JYV6zzHWwak8Px8)
+  - [Mar Bella Beach](https://maps.app.goo.gl/1gyx4YKmAzYuojSQ7)
+    - [Parc De Callistènia](https://maps.app.goo.gl/HBoiP5bbzXMSEfmGA) - calisthenics workout bars
+  - [Nova Mar Bella](https://maps.app.goo.gl/PJvTqoFHipQq49B97)
+    - [Mirador M](https://maps.app.goo.gl/1na2kG7Ymjq76ejv5)
+- Malls:
+  - [Diagonal Mar](https://maps.app.goo.gl/6AU1UZ1DgF9C85bi6)
+  -
+
 ## Berga
 
+### Parking in Berga
+
+There is paid for parking but I used this instead as it is only a few minutes walk to not be on the meter:
+
+- [Parking terraple](https://maps.app.goo.gl/e1uaPyoeJcqAXHtn8) - free parking lot
+
+### Attractions in Berga
+
+There is almost nothing in this one horse town. It's best used as a refreshment pitstop between Andorra and Barcelona.
+
+Most of the shops and even restaurants were closed in the afternoon - siestas must be a real thing here.
+
+- [Fonts del Vall](https://maps.app.goo.gl/siS5XKU7YLzNsfod6) - two historic pillars in a tree-lined promenade with
+  restaurants on the sides
+- [Church of Sant Joan de Berga](https://maps.app.goo.gl/FTHFTWDkUH64wWw4A)
+- [Casal Cívic i Comunitari Berga](https://maps.app.goo.gl/Yx6FMQvRTJPkX4dv9)
+- [Teatre Municipal de Berga](Teatre Municipal de Berga)
+- [Teatre Patronat](https://maps.app.goo.gl/w4xmrxuQLo1QNWia9)
+
+### Restaurants in Berga
+
+- [Sherbet](https://maps.app.goo.gl/Bn54P8ihUNKju9SFA) - excellent creamy ice cream, this has to be the best one in town
+- [La Notta Braseria Pizzeria](https://maps.app.goo.gl/nfxuBR3RqBbHUyQm8) - picanha steak for €20 with potatoes, salad
+  and padron peppers. Good selection of burgers and pizza too for around €15/20.
+  At these prices I think the steak is the better choice.
+  You can’t beat €20 for a steak in Europe, only Peru.
+  Skip the extra chimicurri sauce next time as it was too vinegary.
+  They have no juices at all unfortunately, just wines and water / soda water.
+  No wifi
+
+TODO:
+
+- [La Vienesa](https://maps.app.goo.gl/aGYoVXboKxeYhwwaA) - 4.5, cafe, closes for mid afternoon siesta
+- [Cal Negre](https://maps.app.goo.gl/GFCpnhg6HS4PnUWk6) - 4.5, popular daytime bar with outdoor seating
+- [Caramel Salat](https://maps.app.goo.gl/CKV8M8YoLDwTQe2D6) - 4.8, pastries
+- [El Vall](https://maps.app.goo.gl/27howZLKQMp2t3GBA) - 4.7, popular takeaway with a long queue
+- [Krako](https://maps.app.goo.gl/33Cv2QuKKC2nusL67) - 4.6, burgers
+- [Gretta](https://maps.app.goo.gl/K5kAW9ppxY2izLgY7) - 4.4, catalonian tapas
+- [9 Tabal](https://maps.app.goo.gl/vCY1QuMekkdqfAxD9) - 4.2, catalonian
+- [La Barana Restaurant](https://maps.app.goo.gl/ByoCLvfDHz727P3F8) - 4.4
+- [Restaurante Corpus](https://maps.app.goo.gl/33Cv2QuKKC2nusL67) - 4.4
 
 ## Ferry Between Ibiza and Mallorca
 
