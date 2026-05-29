@@ -18,6 +18,8 @@
 - [Barcelona](#barcelona)
   - [Best Areas to Stay in Barcelona](#best-areas-to-stay-in-barcelona)
   - [Attractions in Barcelona](#attractions-in-barcelona)
+  - [Restaurants in Barcelona](#restaurants-in-barcelona)
+  - [Groceries in Barcelona](#groceries-in-barcelona)
 - [Berga](#berga)
   - [Parking in Berga](#parking-in-berga)
   - [Attractions in Berga](#attractions-in-berga)
@@ -381,13 +383,20 @@ Expensive / fancy:
 
 ## Barcelona
 
-Barcelona is even better than Madrid with even more to do and see, including:
+Barcelona is easily one of my favourite cites in the world, it's even better than Madrid with even more to do and see,
+including:
 
-- several beaches
-- great architecture
-- many restaurants and cafes
+- miles of beaches
+- great historical architecture
+- many restaurants, cafes and high quality gelaterias
 - shopping
 - fitness and lifestyle
+
+This is one of the few cities I consider on par with London, there is actually too much to see and do for even a week.
+
+The one drawback, like London, is that Barcelona is not cheap and the tourist tax here was more than other cities even
+in Europe, which prompted me to generate the [Tourist Tax Hall of Shame](../travel.md#tourist-tax-hall-of-shame)
+on the main travel page, in which Barcelona is right near the top.
 
 ### Best Areas to Stay in Barcelona
 
@@ -417,6 +426,8 @@ Barcelona is even better than Madrid with even more to do and see, including:
 
 ### Attractions in Barcelona
 
+- [Basílica de la Sagrada Família](https://maps.app.goo.gl/3hDeQMbrtkymwKBy8) - amazing, huge, towering and intricate
+  architecture - this make me think Lord of the Rings is not an exaggeration of what Europeans can do
 - [Arc de Triomf](https://maps.app.goo.gl/efBZPwTcffMTmGMd8)
   - [Ciutadella Park](https://maps.app.goo.gl/EG9p8nDtmZBve4MFA)
   - [Barcelona Zoo](https://maps.app.goo.gl/9iaYaW62jUSzNsZA7)
@@ -432,9 +443,28 @@ Barcelona is even better than Madrid with even more to do and see, including:
     - [Parc De Callistènia](https://maps.app.goo.gl/HBoiP5bbzXMSEfmGA) - calisthenics workout bars
   - [Nova Mar Bella](https://maps.app.goo.gl/PJvTqoFHipQq49B97)
     - [Mirador M](https://maps.app.goo.gl/1na2kG7Ymjq76ejv5)
+- [Recinte Modernista de Sant Pau](https://maps.app.goo.gl/WbcSrdhHf8BNt4HWA)
+- [Casa Vicens Gaudí](https://maps.app.goo.gl/nCeR2UnTQX44TQkE9)
 - Malls:
+  - [Westfield | Glòries](https://maps.app.goo.gl/v2HaBhWBaYo6sofY6)
   - [Diagonal Mar](https://maps.app.goo.gl/6AU1UZ1DgF9C85bi6)
-  -
+
+### Restaurants in Barcelona
+
+- [TKO Tacos](https://www.google.com/maps/search/tko+tacos+barcelona/) - same chain as described in the Madrid section,
+  great value for money and great selection and flavours
+- [Honest Greens](https://www.google.com/maps/search/honest+greens+barcelona/) - chain restaurant with moderate prices,
+  same as described in the Madrid section, popular because its cheaper than many other restaurants here
+- [Sr. Ceviche](https://maps.app.goo.gl/jg7quSk9v6VJJpeAA) - the Pacific Trilogy of ceviche for €29 gives a great mix of
+  Peruvian, Ecuadorean and Mexican ceviches with white fish, prawn and octopus respectively.
+  Drinks are a bit expensive at €7.50 for non-alcoholic drinks.
+  Fast WiFi 450/471 Mbit/s
+
+### Groceries in Barcelona
+
+- [Mercadona](https://maps.app.goo.gl/md89akfLPkAh4MEu7) - good sized supermarket in Eixample
+- [Carrefour at Westfield Glories](https://maps.app.goo.gl/kVviRz3W9NqdkLxk6) - great selection of foods and homeware
+  on 2 levels
 
 ## Berga
 
