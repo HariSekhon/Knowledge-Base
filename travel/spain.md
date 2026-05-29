@@ -17,6 +17,7 @@
   - [Restaurants in Madrid](#restaurants-in-madrid)
 - [Barcelona](#barcelona)
   - [Best Areas to Stay in Barcelona](#best-areas-to-stay-in-barcelona)
+  - [Parking in Barcelona](#parking-in-barcelona)
   - [Attractions in Barcelona](#attractions-in-barcelona)
   - [Restaurants in Barcelona](#restaurants-in-barcelona)
   - [Groceries in Barcelona](#groceries-in-barcelona)
@@ -429,6 +430,14 @@ Definitely one of the hotspots of the world, like Bangkok.
 - [Diagonal Mar](https://maps.app.goo.gl/9CqPnWpBNZJSPGJW8) - modern waterfront neighbourhood with high-rise apartments,
   shopping centres, and beaches... but it's far away from the historic parts of the city
 
+### Parking in Barcelona
+
+Parking in Barcelona is as bad as other European cities.
+
+I parked out here where there is free street parking and then took public transport in:
+
+- [Carrer de Sant Adrià](https://maps.app.goo.gl/xUVbV35KXBnTXqZ69)
+
 ### Attractions in Barcelona
 
 You simply won't have time to see everything in Barcelona,
@@ -448,7 +457,7 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [Nova Icaria Beach](https://maps.app.goo.gl/G7pBp2x8REAd4sL6A)
   - [Bogatell Beach](https://maps.app.goo.gl/H4JYV6zzHWwak8Px8)
   - [Mar Bella Beach](https://maps.app.goo.gl/1gyx4YKmAzYuojSQ7)
-    - [Parc De Callistènia](https://maps.app.goo.gl/HBoiP5bbzXMSEfmGA) - calisthenics workout bars
+    - [Parc De Calistènia](https://maps.app.goo.gl/HBoiP5bbzXMSEfmGA) - calisthenics workout bars
   - [Nova Mar Bella](https://maps.app.goo.gl/PJvTqoFHipQq49B97)
     - [Mirador M](https://maps.app.goo.gl/1na2kG7Ymjq76ejv5)
 - [Recinte Modernista de Sant Pau](https://maps.app.goo.gl/WbcSrdhHf8BNt4HWA)
@@ -486,7 +495,9 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
 - [CEM Fort Pienc](https://maps.app.goo.gl/2qy9Qs74rrdwL5xy9) - there was a local football game playing, looked free to
   attend
   - [Calisthenics park MEIN.ES](https://maps.app.goo.gl/2pD1Tur4cGezS9k99) - calisthenics workout bars
-- [Parc de calistènia](https://maps.app.goo.gl/kASSEuhFTbujwCsC7)
+- [Sant Pau Recinte Modernista](https://maps.app.goo.gl/TyDcpscvyZrbwHLm6)
+- [Parc de Cal·listènia Ribes Eixample](https://maps.app.goo.gl/kASSEuhFTbujwCsC7)
+- [Parc de Cal·listènia Gracia](https://maps.app.goo.gl/dw2d4XW3qxggKvXH6)
 
 ### Restaurants in Barcelona
 
