@@ -590,6 +590,7 @@ TODO:
 - [La Fogata Blue](https://maps.app.goo.gl/yMMEZCVg4unbTMvW8) - 4.8, affordable steakhouse
 - [All You Eat is Love](https://maps.app.goo.gl/8W8CexCmpCvKpQfS7) - 4.7
 - [MYKA - Greek Frozen Yogurt | Born](https://maps.app.goo.gl/vPvorS7XYvEtnzKX9) - 4.5
+- [Timeout Food Market](https://maps.app.goo.gl/Bzcy9rqcytj9zDKK7)
 - Gelaterias:
   - [Holy Madre](https://www.google.com/maps/search/holy+madre+barcelona/) - 4.9 chain across city
   - [CAJÚ gelato](https://maps.app.goo.gl/fgREcqjZRqZ6sxSo7) - 4.9
