@@ -486,6 +486,7 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
 - [CEM Fort Pienc](https://maps.app.goo.gl/2qy9Qs74rrdwL5xy9) - there was a local football game playing, looked free to
   attend
   - [Calisthenics park MEIN.ES](https://maps.app.goo.gl/2pD1Tur4cGezS9k99) - calisthenics workout bars
+- [Parc de calistènia](https://maps.app.goo.gl/kASSEuhFTbujwCsC7)
 
 ### Restaurants in Barcelona
 
