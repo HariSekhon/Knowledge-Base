@@ -453,7 +453,9 @@ I parked out here where there is free street parking and then took public transp
 ### Attractions in Barcelona
 
 You simply won't have time to see everything in Barcelona,
-so pick your shots, I've tried to stack rank this roughly to help, but this is subjective depending on one's priorities:
+so pick your shots, I've tried to stack rank this roughly to help, but this is subjective depending on one's priorities.
+
+This list is already huge and isn't exhaustive, let me know if you think I've missed something important!
 
 - [Basílica de la Sagrada Família](https://maps.app.goo.gl/3hDeQMbrtkymwKBy8) - amazing, huge, towering and intricate
   architecture - this make me think Lord of the Rings is not an exaggeration of what Europeans can do
