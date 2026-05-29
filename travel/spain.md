@@ -462,6 +462,7 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [La Rambla](https://maps.app.goo.gl/KMx4phwBaX5UVTSp8) - tourist shops and restaurants
   - [Plaça de Catalunya](https://maps.app.goo.gl/cNFeJvHcSCHMs7hP9) - central tree filled square surrounded by shops with
     food stalls in the centre, joining Pg. de Gràcia and La Rambla
+  - [El Raval](El Raval) - adjacent to La Rambla, bit sketchy at night
 - [Arc de Triomf](https://maps.app.goo.gl/efBZPwTcffMTmGMd8)
   - [Ciutadella Park](https://maps.app.goo.gl/EG9p8nDtmZBve4MFA)
   - [Barcelona Zoo](https://maps.app.goo.gl/9iaYaW62jUSzNsZA7)
