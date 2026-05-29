@@ -534,7 +534,7 @@ TODO:
 - [Tête-à-tête](https://maps.app.goo.gl/uGhG3mnKA4RmksWk7) - 4.9, ice cream
 - [Paral·lelo Gelato](https://maps.app.goo.gl/XYhtTSbSnora6Ydj6) - 4.8
 - [La gelateria di Michele](https://maps.app.goo.gl/Qwhja55RTmGsDFkf6) - 4.9
-- North East / Poblenou:
+- North East - Poblenou / Glories areas:
   - [Matt and Marshall - Tu México en Poblenou](https://maps.app.goo.gl/SPsvcyuXJw9rn3kv7) - 4.6, mexican
   - [Internacional Restaurant Bar](https://maps.app.goo.gl/U8SfC2fg7Qmx8vDz8) - 4.8
   - [Healthy Poke Barcelona - Poblenou](https://maps.app.goo.gl/y1RgUgfR31tTnhxT8) - 4.7
