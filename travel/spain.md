@@ -536,6 +536,9 @@ Gelaterias:
   There is another one at [delaCrem Creativa](https://maps.app.goo.gl/KJNtxH5ubAtGRWCB8).
   No wifi
 - Carrer de Ferran has several gelaterias on it:
+  - [OGGI Gelato](https://maps.app.goo.gl/WoNX2DkcCcYtdtnB6) - scoops aren’t big but quality is high - the pistachio has
+    actual pistacchio nuts in it, coconut has flakes... the chocolate, almond and hazelnut flavours are all top notch
+    too
   - [Anita Gelato | Rambla](https://maps.app.goo.gl/Ux5rpKXCPRE7oNqm9) - think this is the same chain as the one in
     [Puerto Rico](puerto-rico.md)
   - [Lucciano's - The Moon | Liceu](https://maps.app.goo.gl/E5nx8f8mqupWrJEz9) - think this is the same chain as covered
