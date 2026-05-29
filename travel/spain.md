@@ -472,6 +472,7 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
     tourist trap restaurants and a water fountain in the centre
     - [Fanals d'Antoni Gaudí](https://maps.app.goo.gl/Ydz8p3jiKxsqVAi8A)
     - [Faroles modernistes d'Antoni Gaudí](https://maps.app.goo.gl/5qdq78bWxuEuBFeZA)
+  - [Plaça George Orwell](https://maps.app.goo.gl/xJHsfeXsqpk4GJtu7)
   - [The World Comes To Life With Each Kiss](https://maps.app.goo.gl/f6x2LPPXuzDXJ38f7)
   - [Roman Aqueduct](https://maps.app.goo.gl/W4vnicwY2H8HYt2w7)
   - [Palau de la Generalitat de Catalunya](https://maps.app.goo.gl/miQM5gjMS8VdJQ2K6)
