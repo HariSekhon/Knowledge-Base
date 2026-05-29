@@ -390,6 +390,7 @@ including:
 - miles of beaches
 - great historical architecture
 - many restaurants, cafes and high quality gelaterias
+- museums
 - shopping
 - fitness and lifestyle
 
