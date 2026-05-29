@@ -467,6 +467,8 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
     and Barcelona Cathedral
 - Gothic Quarter:
   - [Cathedral of Barcelona](https://maps.app.goo.gl/GBJ534Qjh2iK9bQE8)
+    - [Roman Aqueduct](https://maps.app.goo.gl/W4vnicwY2H8HYt2w7)
+    - [The World Comes To Life With Each Kiss](https://maps.app.goo.gl/f6x2LPPXuzDXJ38f7)
   - [Basílica de Santa Maria del Mar](https://maps.app.goo.gl/uD3vzjYeSj3j6k3K6)
   - [Basílica de Santa Maria del Pi](https://maps.app.goo.gl/c46ojvACia2WxQ6WA)
   - [Pl. de Sant Jaume](https://maps.app.goo.gl/WDvhN51ABwJ7ZGBA6) - notable street with tourist shops, ice creams etc.
@@ -477,9 +479,8 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
     - [Faroles modernistes d'Antoni Gaudí](https://maps.app.goo.gl/5qdq78bWxuEuBFeZA)
   - [Mercat de la Boqueria](https://maps.app.goo.gl/YJZ7H8PXKZP5mqrx6)
   - [Plaça George Orwell](https://maps.app.goo.gl/xJHsfeXsqpk4GJtu7)
-  - [The World Comes To Life With Each Kiss](https://maps.app.goo.gl/f6x2LPPXuzDXJ38f7)
-  - [Roman Aqueduct](https://maps.app.goo.gl/W4vnicwY2H8HYt2w7)
   - [Palau de la Generalitat de Catalunya](https://maps.app.goo.gl/miQM5gjMS8VdJQ2K6)
+  - [Old monastery of Sant Pau del Camp](https://maps.app.goo.gl/KTFZW4yowWGDGq6f8)
   - [Filmoteca de Catalunya](https://maps.app.goo.gl/syUHh3hpRJCQ4iy79)
 - [Arc de Triomf](https://maps.app.goo.gl/efBZPwTcffMTmGMd8)
   - [Ciutadella Park](https://maps.app.goo.gl/EG9p8nDtmZBve4MFA)
