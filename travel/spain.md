@@ -487,6 +487,8 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [Barcelona Zoo](https://maps.app.goo.gl/9iaYaW62jUSzNsZA7)
 - Beaches - Barcelona has 4km of beaches!
   - [San Sebastian Beach](https://maps.app.goo.gl/RvPeyByMKZANxSYa7)
+    - [Rambla De Mar](https://maps.app.goo.gl/vvcUMZ3tRBoVzM7u5)
+    - [Timeout Food Market](https://maps.app.goo.gl/Bzcy9rqcytj9zDKK7)
   - [Barceloneta Beach](https://maps.app.goo.gl/5JBnD21Pez3cyf5SA)
     - [Barceloneta barras](https://maps.app.goo.gl/FcHNCCwp8siJGBvy5) - calisthenics workout bars
     - [Mirador](https://maps.app.goo.gl/EP2RJbxJ22yrzMwk6)
@@ -552,6 +554,15 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   Peruvian, Ecuadorean and Mexican ceviches with white fish, prawn and octopus respectively.
   Drinks are a bit expensive at €7.50 for non-alcoholic drinks.
   Fast WiFi 450/471 Mbit/s
+- [Makamaka Beach Burger Café](https://maps.app.goo.gl/EPnVkCQtG1NHeBCR6) - the maka burger is very good in terms of
+  flavour and medium in size.
+  The Parmesan & garlic fries are good although a little pricey at €7.40, but quite a good size and could be shared by
+  a couple.
+  The real detox juice is only a glass size for €8 which is a bit expensive.
+  They also have açai bowls for €14, again a bit pricey.
+  Overall the bill here adds up much faster than one would expect at first glance of the menu,
+  because they do not include fries in the price of their burgers like most places and the extras are expensive.
+  WiFi 135/121 Mbit/s
 
 Gelaterias:
 
