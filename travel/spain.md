@@ -461,6 +461,8 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [White Rabbit · The Immersive Experience of Barcelona](https://maps.app.goo.gl/bMfmaR7ehafLmWCe8)
   - [Museu de la Catedral de Barcelona](https://maps.app.goo.gl/H3GX1jTkaJW43j4G7)
   - [Museum of the History of Catalonia](https://maps.app.goo.gl/4sz3PNLSEBCpWRwF8)
+  - [Museu Nacional d'Art de Catalunya](https://maps.app.goo.gl/GrGTkQHGj32TQPxQ9) - palace with 11th-18th century
+    Catalonian art
   - [Casa Padellàs](https://maps.app.goo.gl/yNg4r38bZuu5kyik6) - Barcelona history museum
   - [Museu Egipci de Barcelona](https://maps.app.goo.gl/ZSwNXzrkphRKqZhk8) - Egyptian museum
   - [MEAM Museum](https://maps.app.goo.gl/GvWfW9NTqmJyra1v7) - art museum in 18th century palace
