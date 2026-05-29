@@ -527,6 +527,15 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
 
 Gelaterias:
 
+- [DeLaCrem | Enric Granados](https://maps.app.goo.gl/miFgNx7XYLjdkpU89) - there was a big queue at 9:50pm and as 5pm
+  next day.
+  I found out why the queue was so big once I joined it - they are super slow to serve!!
+  The pistachio is worth the wait though, that is high end full flavoured pistachio, even better than the ones I had in
+  Milan recently.
+  The natural yoghurt flavour is also good for those who want to feel healthier.
+  There is another one at [delaCrem Creativa](https://maps.app.goo.gl/KJNtxH5ubAtGRWCB8).
+  No wifi.
+
 TODO:
 
 - [La Fogata Blue](https://maps.app.goo.gl/yMMEZCVg4unbTMvW8) - 4.8, affordable steakhouse
