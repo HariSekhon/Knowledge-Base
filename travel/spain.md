@@ -492,6 +492,7 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [Museum of Illusions](https://maps.app.goo.gl/w4UfvgpWRWuQrU7c8)
   - [Picasso Museum](https://maps.app.goo.gl/9s8REJuUsh1KkTCn8)
   - [White Rabbit · The Immersive Experience of Barcelona](https://maps.app.goo.gl/bMfmaR7ehafLmWCe8)
+  - [The World Comes To Life With Each Kiss](https://maps.app.goo.gl/f6x2LPPXuzDXJ38f7)
   - [Museu de la Catedral de Barcelona](https://maps.app.goo.gl/H3GX1jTkaJW43j4G7)
   - [Museum of the History of Catalonia](https://maps.app.goo.gl/4sz3PNLSEBCpWRwF8)
   - [Catalan Museum of Archaeology](https://maps.app.goo.gl/R23PEhaFjxQViixT9)
