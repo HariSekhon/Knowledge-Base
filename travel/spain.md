@@ -484,6 +484,9 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [Filmoteca de Catalunya](https://maps.app.goo.gl/syUHh3hpRJCQ4iy79)
 - [Arc de Triomf](https://maps.app.goo.gl/efBZPwTcffMTmGMd8)
   - [Ciutadella Park](https://maps.app.goo.gl/EG9p8nDtmZBve4MFA)
+    - [The Parliament of Catalonia](https://maps.app.goo.gl/PZwiV7fD5dCh1b5X6)
+    - [Cascada del Parc de la Ciutadella](https://maps.app.goo.gl/wMUFLNaouBvoGv8s5)
+    - [La Dama del Paraigües - Eventos](https://maps.app.goo.gl/Spgbk58anCh3G79m7) - statue
   - [Barcelona Zoo](https://maps.app.goo.gl/9iaYaW62jUSzNsZA7)
 - Beaches - Barcelona has 4km of beaches!
   - [San Sebastian Beach](https://maps.app.goo.gl/RvPeyByMKZANxSYa7)
