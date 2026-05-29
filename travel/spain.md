@@ -534,7 +534,7 @@ Gelaterias:
   Milan recently.
   The natural yoghurt flavour is also good for those who want to feel healthier.
   There is another one at [delaCrem Creativa](https://maps.app.goo.gl/KJNtxH5ubAtGRWCB8).
-  No wifi.
+  No wifi
 
 TODO:
 
