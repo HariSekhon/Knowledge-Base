@@ -607,6 +607,7 @@ TODO:
   - [NANA](https://maps.app.goo.gl/cww3nzbp7pYf1in5A) - 4.6
   - [L’Autentic](https://maps.app.goo.gl/frRE8fip2iBRdvgW9) - 4.7, lebanese
   - [La Margui](https://maps.app.goo.gl/fhzWCpXxcRwvz2fF7) - 4.4, catalan
+- [Shoko](https://maps.app.goo.gl/UjrmQRi3SpwFFnDd8) - 4.9, japanese
 
 ### Groceries in Barcelona
 
