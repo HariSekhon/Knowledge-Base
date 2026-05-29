@@ -462,6 +462,7 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [Museu de la Catedral de Barcelona](https://maps.app.goo.gl/H3GX1jTkaJW43j4G7)
   - [Museum of the History of Catalonia](https://maps.app.goo.gl/4sz3PNLSEBCpWRwF8)
   - [Catalan Museum of Archaeology](https://maps.app.goo.gl/R23PEhaFjxQViixT9)
+  - [Barcelona Maritime Museum](https://maps.app.goo.gl/NCVtNEEEFDApnSkv5)
   - [Museu Nacional d'Art de Catalunya](https://maps.app.goo.gl/GrGTkQHGj32TQPxQ9) - palace with 11th-18th century
     Catalonian art
   - [Museu de la Música de Barcelona](https://maps.app.goo.gl/mnM86b186H3336S47)
