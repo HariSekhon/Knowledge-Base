@@ -479,6 +479,7 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [The World Comes To Life With Each Kiss](https://maps.app.goo.gl/f6x2LPPXuzDXJ38f7)
   - [Roman Aqueduct](https://maps.app.goo.gl/W4vnicwY2H8HYt2w7)
   - [Palau de la Generalitat de Catalunya](https://maps.app.goo.gl/miQM5gjMS8VdJQ2K6)
+  - [Filmoteca de Catalunya](https://maps.app.goo.gl/syUHh3hpRJCQ4iy79)
 - [Arc de Triomf](https://maps.app.goo.gl/efBZPwTcffMTmGMd8)
   - [Ciutadella Park](https://maps.app.goo.gl/EG9p8nDtmZBve4MFA)
   - [Barcelona Zoo](https://maps.app.goo.gl/9iaYaW62jUSzNsZA7)
