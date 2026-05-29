@@ -473,6 +473,7 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [Museu d’Art Contemporani de Barcelona](https://maps.app.goo.gl/taRS6Hsz9vBkJwXv5) - modern art
   - [Museu Tàpies](https://maps.app.goo.gl/LxZt7by5AAvoPe6HA) - museum of catalan artists
   - [Barcelona Erotic Museum](https://maps.app.goo.gl/xLawygT8MsDSU1319)
+  - [CosmoCaixa Museum of Science](https://maps.app.goo.gl/B84KqJ3Sybzcjn9M9)
   - [Big Fun Museum](https://maps.app.goo.gl/C2SAZSi45aqbeCFP8)
   - [Museu de la Xocolata](https://maps.app.goo.gl/NqBVtdRhNgg7jbMDA) - museum of artworks rendered in chocolate
   - [Fundació Vila Casas](https://maps.app.goo.gl/if8LXy8AzPRTf8nc6)
