@@ -552,6 +552,7 @@ TODO:
 - [All You Eat is Love](https://maps.app.goo.gl/8W8CexCmpCvKpQfS7) - 4.7
 - [MYKA - Greek Frozen Yogurt | Born](https://maps.app.goo.gl/vPvorS7XYvEtnzKX9) - 4.5
 - Gelaterias:
+  - [Holy Madre](https://www.google.com/maps/search/holy+madre+barcelona/) - 4.9 chain across city
   - [CAJÚ gelato](https://maps.app.goo.gl/fgREcqjZRqZ6sxSo7) - 4.9
   - [Tête-à-tête](https://maps.app.goo.gl/uGhG3mnKA4RmksWk7) - 4.9
   - [Paral·lelo Gelato](https://maps.app.goo.gl/XYhtTSbSnora6Ydj6) - 4.8
