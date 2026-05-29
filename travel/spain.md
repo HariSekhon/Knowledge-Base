@@ -398,6 +398,11 @@ The one drawback, like London, is that Barcelona is not cheap and the tourist ta
 in Europe, which prompted me to generate the [Tourist Tax Hall of Shame](../travel.md#tourist-tax-hall-of-shame)
 on the main travel page, in which Barcelona is right near the top.
 
+There are twice as many digital nomads in Barcelona than Madrid according to my
+[Nomads.com](https://nomads.com/@harisekhon) page which shows the numbers of other people on the website who are there.
+
+Definitely one of the hotspots of the world, like Bangkok.
+
 ### Best Areas to Stay in Barcelona
 
 - [Eixample](https://maps.google.com/?q=Eixample+Barcelona) - the most central area in a grid layout with many
