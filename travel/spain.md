@@ -457,12 +457,19 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
 
 - [Basílica de la Sagrada Família](https://maps.app.goo.gl/3hDeQMbrtkymwKBy8) - amazing, huge, towering and intricate
   architecture - this make me think Lord of the Rings is not an exaggeration of what Europeans can do
-- Centre:
+- The Centre - Eixample and Gothic Quarter:
   - [Pg. de Gràcia](https://maps.app.goo.gl/cZxpnfRHk9rjE1HGA) - high end designer boulevard
   - [La Rambla](https://maps.app.goo.gl/KMx4phwBaX5UVTSp8) - tourist shops and restaurants
   - [Plaça de Catalunya](https://maps.app.goo.gl/cNFeJvHcSCHMs7hP9) - central tree filled square surrounded by shops with
     food stalls in the centre, joining Pg. de Gràcia and La Rambla
   - [El Raval](El Raval) - adjacent to La Rambla, bit sketchy at night
+  - [Av del Portal de l'Àngel](https://maps.app.goo.gl/vXffWEzuvbzGkMFu8) - shopping street between Plaça de Catalunya
+    and Barcelona Cathedral
+- Gothic Quarter:
+  - [Cathedral of Barcelona](https://maps.app.goo.gl/GBJ534Qjh2iK9bQE8)
+  - [The World Comes To Life With Each Kiss](https://maps.app.goo.gl/f6x2LPPXuzDXJ38f7)
+  - [Roman Aqueduct](https://maps.app.goo.gl/W4vnicwY2H8HYt2w7)
+  - [Palau de la Generalitat de Catalunya](https://maps.app.goo.gl/miQM5gjMS8VdJQ2K6)
 - [Arc de Triomf](https://maps.app.goo.gl/efBZPwTcffMTmGMd8)
   - [Ciutadella Park](https://maps.app.goo.gl/EG9p8nDtmZBve4MFA)
   - [Barcelona Zoo](https://maps.app.goo.gl/9iaYaW62jUSzNsZA7)
@@ -492,7 +499,6 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [Museum of Illusions](https://maps.app.goo.gl/w4UfvgpWRWuQrU7c8)
   - [Picasso Museum](https://maps.app.goo.gl/9s8REJuUsh1KkTCn8)
   - [White Rabbit · The Immersive Experience of Barcelona](https://maps.app.goo.gl/bMfmaR7ehafLmWCe8)
-  - [The World Comes To Life With Each Kiss](https://maps.app.goo.gl/f6x2LPPXuzDXJ38f7)
   - [Museu de la Catedral de Barcelona](https://maps.app.goo.gl/H3GX1jTkaJW43j4G7)
   - [Museum of the History of Catalonia](https://maps.app.goo.gl/4sz3PNLSEBCpWRwF8)
   - [Catalan Museum of Archaeology](https://maps.app.goo.gl/R23PEhaFjxQViixT9)
