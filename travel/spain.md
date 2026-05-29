@@ -431,6 +431,9 @@ Definitely one of the hotspots of the world, like Bangkok.
 
 ### Attractions in Barcelona
 
+You simply won't have time to see everything in Barcelona,
+so pick your shots, I've tried to stack rank this roughly to help, but this is subjective depending on one's priorities:
+
 - [Basílica de la Sagrada Família](https://maps.app.goo.gl/3hDeQMbrtkymwKBy8) - amazing, huge, towering and intricate
   architecture - this make me think Lord of the Rings is not an exaggeration of what Europeans can do
 - [Arc de Triomf](https://maps.app.goo.gl/efBZPwTcffMTmGMd8)
@@ -450,6 +453,24 @@ Definitely one of the hotspots of the world, like Bangkok.
     - [Mirador M](https://maps.app.goo.gl/1na2kG7Ymjq76ejv5)
 - [Recinte Modernista de Sant Pau](https://maps.app.goo.gl/WbcSrdhHf8BNt4HWA)
 - [Casa Vicens Gaudí](https://maps.app.goo.gl/nCeR2UnTQX44TQkE9)
+- Museums (I've missed a few here, let me know if there are any good ones you'd add!):
+  - [Banksy Museum](https://maps.app.goo.gl/hN5vjeJL3dUHv1mV9)
+  - [Paradox Museum](https://maps.app.goo.gl/y2EjE4dEPoTXgGWH9)
+  - [Museum of Illusions](https://maps.app.goo.gl/w4UfvgpWRWuQrU7c8)
+  - [Picasso Museum](https://maps.app.goo.gl/9s8REJuUsh1KkTCn8)
+  - [White Rabbit · The Immersive Experience of Barcelona](https://maps.app.goo.gl/bMfmaR7ehafLmWCe8)
+  - [Museu de la Catedral de Barcelona](https://maps.app.goo.gl/H3GX1jTkaJW43j4G7)
+  - [Museum of the History of Catalonia](https://maps.app.goo.gl/4sz3PNLSEBCpWRwF8)
+  - [Casa Padellàs](https://maps.app.goo.gl/yNg4r38bZuu5kyik6) - Barcelona history museum
+  - [Museu Egipci de Barcelona](https://maps.app.goo.gl/ZSwNXzrkphRKqZhk8) - Egyptian museum
+  - [MEAM Museum](https://maps.app.goo.gl/GvWfW9NTqmJyra1v7) - art museum in 18th century palace
+  - [Espais Volart](https://maps.app.goo.gl/3fb4m6xKTKRvZvTb8) - modern art
+  - [Moco Museum](https://maps.app.goo.gl/C1MpnPyVkRthyKYA8) - modern art
+  - [Museu Tàpies](https://maps.app.goo.gl/LxZt7by5AAvoPe6HA) - museum of catalan artists
+  - [Barcelona Erotic Museum](https://maps.app.goo.gl/xLawygT8MsDSU1319)
+  - [Big Fun Museum](https://maps.app.goo.gl/C2SAZSi45aqbeCFP8)
+  - [Museu de la Xocolata](https://maps.app.goo.gl/NqBVtdRhNgg7jbMDA) - museum of artworks rendered in chocolate
+  - [Fundació Vila Casas](https://maps.app.goo.gl/if8LXy8AzPRTf8nc6)
 - Malls:
   - [Westfield | Glòries](https://maps.app.goo.gl/v2HaBhWBaYo6sofY6)
   - [Diagonal Mar](https://maps.app.goo.gl/6AU1UZ1DgF9C85bi6)
