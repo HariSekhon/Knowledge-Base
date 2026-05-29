@@ -469,6 +469,7 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [MEAM Museum](https://maps.app.goo.gl/GvWfW9NTqmJyra1v7) - art museum in 18th century palace
   - [Espais Volart](https://maps.app.goo.gl/3fb4m6xKTKRvZvTb8) - modern art
   - [Moco Museum](https://maps.app.goo.gl/C1MpnPyVkRthyKYA8) - modern art
+  - [Museu d’Art Contemporani de Barcelona](https://maps.app.goo.gl/taRS6Hsz9vBkJwXv5) - modern art
   - [Museu Tàpies](https://maps.app.goo.gl/LxZt7by5AAvoPe6HA) - museum of catalan artists
   - [Barcelona Erotic Museum](https://maps.app.goo.gl/xLawygT8MsDSU1319)
   - [Big Fun Museum](https://maps.app.goo.gl/C2SAZSi45aqbeCFP8)
