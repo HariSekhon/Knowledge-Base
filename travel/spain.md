@@ -453,6 +453,8 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
     - [Mirador M](https://maps.app.goo.gl/1na2kG7Ymjq76ejv5)
 - [Recinte Modernista de Sant Pau](https://maps.app.goo.gl/WbcSrdhHf8BNt4HWA)
 - [Casa Vicens Gaudí](https://maps.app.goo.gl/nCeR2UnTQX44TQkE9)
+- [Casa Batlló](https://maps.app.goo.gl/fzb684KeCLxmk1kf9)
+- [Casa Lleó Morera](https://maps.app.goo.gl/ewNeuH3fY9nmm6Zg8)
 - Museums (I've missed a few here, let me know if there are any good ones you'd add!):
   - [Banksy Museum](https://maps.app.goo.gl/hN5vjeJL3dUHv1mV9)
   - [Paradox Museum](https://maps.app.goo.gl/y2EjE4dEPoTXgGWH9)
