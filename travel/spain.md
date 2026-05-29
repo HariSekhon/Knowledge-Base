@@ -473,9 +473,11 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [Nova Mar Bella](https://maps.app.goo.gl/PJvTqoFHipQq49B97)
     - [Mirador M](https://maps.app.goo.gl/1na2kG7Ymjq76ejv5)
 - [Recinte Modernista de Sant Pau](https://maps.app.goo.gl/WbcSrdhHf8BNt4HWA)
-- [Casa Vicens Gaudí](https://maps.app.goo.gl/nCeR2UnTQX44TQkE9)
 - [Casa Batlló](https://maps.app.goo.gl/fzb684KeCLxmk1kf9)
 - [Casa Lleó Morera](https://maps.app.goo.gl/ewNeuH3fY9nmm6Zg8)
+- [Casa de les Punxes](https://maps.app.goo.gl/F4PevfALwvCtbdeY6)
+- [Casa Vicens Gaudí](https://maps.app.goo.gl/nCeR2UnTQX44TQkE9)
+- [La Pedrera - Casa Milà](https://maps.app.goo.gl/kDEu9Pj9kke7sfvLA)
 - [Gran Clariana (Glories)](https://maps.app.goo.gl/uDFUUxeGS6xuWuTf8) - large communal park popular for walking and
   dogs in the north east of the city at Glories
 - Museums (I've missed a few here, let me know if there are any good ones you'd add!):
