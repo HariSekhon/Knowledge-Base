@@ -592,58 +592,58 @@ in Euros because really this is mainly a European thing.
 I generated this with ChatGPT so it's almost certainly wrong (as well as out of date by the time you're reading this),
 but just to give you an idea as of 2025 / 2026:
 
-| Rank | Country              | City              | Hotel Tourist Tax / Day (EUR) | Hostel Tourist Tax / Day (EUR) |
-| ---: | -------------------- | ----------------- | ----------------------------: | -----------------------------: |
-|    1 | Bhutan               | Thimphu           |                        100.00 |                         100.00 |
-|    2 | Netherlands          | Amsterdam         |                         18.45 |                          10.50 |
-|    3 | Spain                | Barcelona         |                         15.00 |                           7.50 |
-|    4 | Germany              | Berlin            |                         15.00 |                           7.50 |
-|    5 | Indonesia            | Bali              |                          9.00 |                           4.50 |
-|    6 | France               | Paris             |                          8.45 |                           1.95 |
-|    7 | Greece               | Athens            |                          8.17 |                           2.00 |
-|    8 | Greece               | Rhodes            |                          8.17 |                           2.00 |
-|    9 | Greece               | Heraklion         |                          8.17 |                           2.00 |
-|   10 | Greece               | Thessaloniki      |                          8.17 |                           2.00 |
-|   11 | Netherlands          | Rotterdam         |                          6.50 |                           3.25 |
-|   12 | Italy                | Milan             |                          6.44 |                           3.50 |
-|   13 | Italy                | Rome              |                          6.13 |                           3.50 |
-|   14 | Italy                | Florence          |                          6.13 |                           3.50 |
-|   15 | Japan                | Kyoto             |                          6.00 |                           2.50 |
-|   16 | Italy                | Bologna           |                          5.93 |                           3.00 |
-|   17 | Netherlands          | Utrecht           |                          5.50 |                           2.75 |
-|   18 | United States        | Las Vegas         |                          5.50 |                           3.00 |
-|   19 | France               | Cannes            |                          5.04 |                           1.90 |
-|   20 | Spain                | Palma de Mallorca |                          5.00 |                           2.00 |
-|   21 | Italy                | Naples            |                          5.00 |                           2.50 |
-|   22 | Germany              | Cologne           |                          5.00 |                           2.50 |
-|   23 | Germany              | Hamburg           |                          4.80 |                           2.40 |
-|   24 | France               | Nice              |                          4.69 |                           1.50 |
-|   25 | Germany              | Frankfurt         |                          4.50 |                           2.25 |
-|   26 | Belgium              | Brussels          |                          4.33 |                           2.15 |
-|   27 | United States        | New York City     |                          4.25 |                           2.50 |
-|   28 | Switzerland          | Bern              |                          4.20 |                           3.00 |
-|   29 | Portugal             | Lisbon            |                          4.00 |                           2.00 |
-|   30 | Italy                | Palermo           |                          4.00 |                           2.00 |
-|   31 | Greece               | Santorini         |                          4.00 |                           1.50 |
-|   32 | Greece               | Mykonos           |                          4.00 |                           1.50 |
-|   33 | United Arab Emirates | Dubai             |                          4.00 |                           2.00 |
-|   34 | Canada               | Toronto           |                          4.00 |                           2.00 |
-|   35 | Iceland              | Reykjavik         |                          4.00 |                           2.00 |
-|   36 | Switzerland          | Lucerne           |                          3.90 |                           2.90 |
-|   37 | Switzerland          | Zurich            |                          3.82 |                           2.52 |
-|   38 | Belgium              | Antwerp           |                          3.75 |                           2.00 |
-|   39 | Switzerland          | Geneva            |                          3.75 |                           2.75 |
-|   40 | Italy                | Turin             |                          3.70 |                           2.00 |
-|   41 | Austria              | Salzburg          |                          3.55 |                           1.80 |
-|   42 | Italy                | Venice            |                          3.57 |                           1.90 |
-|   43 | Austria              | Vienna            |                          3.53 |                           1.75 |
-|   44 | Slovakia             | Bratislava        |                          3.50 |                           1.75 |
-|   45 | Switzerland          | Basel             |                          3.50 |                           2.50 |
-|   46 | France               | Strasbourg        |                          3.30 |                           1.20 |
-|   47 | France               | Marseille         |                          3.25 |                           1.08 |
-|   48 | Slovenia             | Ljubljana         |                          3.13 |                           2.50 |
-|   49 | Portugal             | Porto             |                          3.00 |                           2.00 |
-|   50 | Japan                | Osaka             |                          3.00 |                           1.50 |
+| Shame Ranking | Country              | City              | Hotel Tourist Tax / Day (EUR) | Hostel Tourist Tax / Day (EUR) |
+|--------------:| -------------------- | ----------------- | ----------------------------: | -----------------------------: |
+|             1 | Bhutan               | Thimphu           |                        100.00 |                         100.00 |
+|             2 | Netherlands          | Amsterdam         |                         18.45 |                          10.50 |
+|             3 | Spain                | Barcelona         |                         15.00 |                           7.50 |
+|             4 | Germany              | Berlin            |                         15.00 |                           7.50 |
+|             5 | Indonesia            | Bali              |                          9.00 |                           4.50 |
+|             6 | France               | Paris             |                          8.45 |                           1.95 |
+|             7 | Greece               | Athens            |                          8.17 |                           2.00 |
+|             8 | Greece               | Rhodes            |                          8.17 |                           2.00 |
+|             9 | Greece               | Heraklion         |                          8.17 |                           2.00 |
+|            10 | Greece               | Thessaloniki      |                          8.17 |                           2.00 |
+|            11 | Netherlands          | Rotterdam         |                          6.50 |                           3.25 |
+|            12 | Italy                | Milan             |                          6.44 |                           3.50 |
+|            13 | Italy                | Rome              |                          6.13 |                           3.50 |
+|            14 | Italy                | Florence          |                          6.13 |                           3.50 |
+|            15 | Japan                | Kyoto             |                          6.00 |                           2.50 |
+|            16 | Italy                | Bologna           |                          5.93 |                           3.00 |
+|            17 | Netherlands          | Utrecht           |                          5.50 |                           2.75 |
+|            18 | United States        | Las Vegas         |                          5.50 |                           3.00 |
+|            19 | France               | Cannes            |                          5.04 |                           1.90 |
+|            20 | Spain                | Palma de Mallorca |                          5.00 |                           2.00 |
+|            21 | Italy                | Naples            |                          5.00 |                           2.50 |
+|            22 | Germany              | Cologne           |                          5.00 |                           2.50 |
+|            23 | Germany              | Hamburg           |                          4.80 |                           2.40 |
+|            24 | France               | Nice              |                          4.69 |                           1.50 |
+|            25 | Germany              | Frankfurt         |                          4.50 |                           2.25 |
+|            26 | Belgium              | Brussels          |                          4.33 |                           2.15 |
+|            27 | United States        | New York City     |                          4.25 |                           2.50 |
+|            28 | Switzerland          | Bern              |                          4.20 |                           3.00 |
+|            29 | Portugal             | Lisbon            |                          4.00 |                           2.00 |
+|            30 | Italy                | Palermo           |                          4.00 |                           2.00 |
+|            31 | Greece               | Santorini         |                          4.00 |                           1.50 |
+|            32 | Greece               | Mykonos           |                          4.00 |                           1.50 |
+|            33 | United Arab Emirates | Dubai             |                          4.00 |                           2.00 |
+|            34 | Canada               | Toronto           |                          4.00 |                           2.00 |
+|            35 | Iceland              | Reykjavik         |                          4.00 |                           2.00 |
+|            36 | Switzerland          | Lucerne           |                          3.90 |                           2.90 |
+|            37 | Switzerland          | Zurich            |                          3.82 |                           2.52 |
+|            38 | Belgium              | Antwerp           |                          3.75 |                           2.00 |
+|            39 | Switzerland          | Geneva            |                          3.75 |                           2.75 |
+|            40 | Italy                | Turin             |                          3.70 |                           2.00 |
+|            41 | Austria              | Salzburg          |                          3.55 |                           1.80 |
+|            42 | Italy                | Venice            |                          3.57 |                           1.90 |
+|            43 | Austria              | Vienna            |                          3.53 |                           1.75 |
+|            44 | Slovakia             | Bratislava        |                          3.50 |                           1.75 |
+|            45 | Switzerland          | Basel             |                          3.50 |                           2.50 |
+|            46 | France               | Strasbourg        |                          3.30 |                           1.20 |
+|            47 | France               | Marseille         |                          3.25 |                           1.08 |
+|            48 | Slovenia             | Ljubljana         |                          3.13 |                           2.50 |
+|            49 | Portugal             | Porto             |                          3.00 |                           2.00 |
+|            50 | Japan                | Osaka             |                          3.00 |                           1.50 |
 
 <https://www.euronews.com/travel/2025/02/04/europe-tourist-taxes-bans-restrictions-explained>
 
