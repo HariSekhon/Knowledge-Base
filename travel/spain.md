@@ -538,8 +538,11 @@ TODO:
   - [Matt and Marshall - Tu México en Poblenou](https://maps.app.goo.gl/SPsvcyuXJw9rn3kv7) - 4.6, mexican
   - [Internacional Restaurant Bar](https://maps.app.goo.gl/U8SfC2fg7Qmx8vDz8) - 4.8
   - [Healthy Poke Barcelona - Poblenou](https://maps.app.goo.gl/y1RgUgfR31tTnhxT8) - 4.7
+  - [Micu Maku](https://maps.app.goo.gl/JwYVsSU4DQmXMNeY6) - 4.9
   - [Desoriente](https://maps.app.goo.gl/kTDPs3BzZYCmZQJx7) - 4.8, asian
+  - [NANA](https://maps.app.goo.gl/cww3nzbp7pYf1in5A) - 4.6
   - [L’Autentic](https://maps.app.goo.gl/frRE8fip2iBRdvgW9) - 4.7, lebanese
+  - [La Margui](https://maps.app.goo.gl/fhzWCpXxcRwvz2fF7) - 4.4, catalan
 
 ### Groceries in Barcelona
 
