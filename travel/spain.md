@@ -506,9 +506,10 @@ so pick your shots, I've tried to stack rank this roughly to help, but this is s
   - [Museu de la Xocolata](https://maps.app.goo.gl/NqBVtdRhNgg7jbMDA) - museum of artworks rendered in chocolate
   - [Design Museum of Barcelona](https://maps.app.goo.gl/TfsW8m5dr3Jxbp767)
   - [Fundació Vila Casas](https://maps.app.goo.gl/if8LXy8AzPRTf8nc6)
-- Malls:
+- Malls & Shopping:
   - [Westfield | Glòries](https://maps.app.goo.gl/v2HaBhWBaYo6sofY6)
   - [Diagonal Mar](https://maps.app.goo.gl/6AU1UZ1DgF9C85bi6)
+  - [Tienda de deporte Urquinaona Décimas](https://maps.app.goo.gl/ofBWzaRLQDeQmtEU8) - cheap trainers
 - [CEM Fort Pienc](https://maps.app.goo.gl/2qy9Qs74rrdwL5xy9) - there was a local football game playing, looked free to
   attend
   - [Calisthenics park MEIN.ES](https://maps.app.goo.gl/2pD1Tur4cGezS9k99) - calisthenics workout bars
