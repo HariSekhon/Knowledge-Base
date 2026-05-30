@@ -18,6 +18,7 @@
 - [Barcelona](#barcelona)
   - [Best Areas to Stay in Barcelona](#best-areas-to-stay-in-barcelona)
   - [Parking in Barcelona](#parking-in-barcelona)
+  - [Public Transport in Barcelona](#public-transport-in-barcelona)
   - [Attractions in Barcelona](#attractions-in-barcelona)
   - [Restaurants in Barcelona](#restaurants-in-barcelona)
   - [Groceries in Barcelona](#groceries-in-barcelona)
@@ -449,6 +450,22 @@ Parking in Barcelona is as bad as other European cities.
 I parked out here where there is free street parking and then took public transport in:
 
 - [Carrer de Sant Adrià](https://maps.app.goo.gl/xUVbV35KXBnTXqZ69)
+
+### Public Transport in Barcelona
+
+Barcelona's metro system has a handful of lines and is pretty decent. It costs around €3 for a single trip as of 2026.
+
+You need a T-mobilitat rechargeable card (an extra €1 from an ticket ATM).
+This is weirdly made of paper instead of hard plastic like most metro cards around the world, so
+they need to display a message to remind you to not throw it away.
+
+There is also a suburban commuter trains (Rodalies/Renfe) which connects to the airport.
+
+Since Barcelona is divided into zones, you can usually transfer between the two train systems on the same ticket.
+
+I haven't tried the buses in Barcelona yet,
+and there is also a high speed rail connecting other cities like Madrid, and international trains to Paris etc,
+but I haven't tried these yet.
 
 ### Attractions in Barcelona
 
