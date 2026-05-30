@@ -34,6 +34,8 @@ beaches, islands, nightlife, clubs etc.
 **Important Warning:
 if you suffer from any addictions - do not go to Thailand - you can easily go off the rails with additions here.**
 
+Conversely, if you're a health & fitness foodie like me, Thailand is easily one of the best places in the entire world.
+
 ## ATMs in Thailand - Cash is Needed
 
 You will need cash, big time. Thailand is cheap but lots of places do not take cards.
