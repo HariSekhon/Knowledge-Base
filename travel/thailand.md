@@ -72,6 +72,12 @@ If you ask for one without sugar you'll realize it tastes of nothing because it'
 You're just drinking overpriced sugar water with a little fruit for colour.
 If you ask for one which is actually juice, they will ask for double the price. 🙄
 
+The lesser juice culture is one of the very few points
+I would deduct from Thailand compared to somewhere like Dubai which is excellent for juices,
+as Thailand is more geared towards alcohol while Dubai is more geared towards alcohol alternatives like a wide range of
+fancy juices.
+Still, if you're willing to insist and pay extra, you can still get your fresh juices, they're just not the default.
+
 ## Bangkok
 
 [Khao San road](https://maps.app.goo.gl/DQifXctJYKgqZ5b88) is the place to be.
