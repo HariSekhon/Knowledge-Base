@@ -705,6 +705,7 @@ TODO:
 Stopover city near Valencia towards Barcelona.
 
 - [Concatedral de Santa María](https://maps.app.goo.gl/rp3F1ek4w9UvDzjw9)
+- [Platja el Palmeral](https://maps.app.goo.gl/S9Gp6WMBs8S6KESG9)
 - [Platja del Pinar](https://maps.app.goo.gl/VaVJeFbEscMgx2ma7)
 - [Parque Del Pinar](https://maps.app.goo.gl/wzqusZ9HR7UAj6rV7)
 - [Grau de Castelló](https://maps.app.goo.gl/dHHAm2FcKyftA6oZ8)
@@ -712,6 +713,13 @@ Stopover city near Valencia towards Barcelona.
 - [Basílica de la Mare de Déu del Lledó](https://maps.app.goo.gl/3rCNAJpv2vdSJWhbA)
 - [Salera Shopping Mall](https://maps.app.goo.gl/Sg3AbGERPbubSu729)
 - [Platja de Ben-Afelí](https://maps.app.goo.gl/9QDuGoVvmdxndoEy5)
+
+<!-- -->
+
+- [Párking Gratuito Auditorio](https://maps.app.goo.gl/p6zdVAt7qK57mmwf9) - free parking on the outskirts of the centre
+  ring of the city
+- [Parking Camara Comercio](https://maps.app.goo.gl/Zk7xb4HbVQjm4aSA8) - free parking on the outskirts of the centre
+  ring of the city directly between the centre and the beach
 
 ## Ferry Between Ibiza and Mallorca
 
