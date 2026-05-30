@@ -31,6 +31,9 @@ bars & nightclubs, and accommodates every vice one can think of... 🙈
 [ThailandRedcat.com](https://www.thailandredcat.com/) - excellent blog on all things Thailand for expats eg. best
 beaches, islands, nightlife, clubs etc.
 
+**Important Warning:
+if you suffer from any addictions - do not go to Thailand - you can easily go off the rails with additions here.**
+
 ## ATMs in Thailand - Cash is Needed
 
 You will need cash, big time. Thailand is cheap but lots of places do not take cards.
