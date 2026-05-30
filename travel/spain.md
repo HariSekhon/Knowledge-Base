@@ -400,8 +400,11 @@ including:
 This is one of the few cities I consider on par with London, there is actually too much to see and do for even a week.
 
 The one drawback, like London, is that Barcelona is not cheap and the tourist tax here was more than other cities even
-in Europe, which prompted me to generate the [Tourist Tax Hall of Shame](../travel.md#tourist-tax-hall-of-shame)
-on the main travel page, in which Barcelona is right near the top.
+in Europe.
+Tourist Tax in Barcelona can easily ad to €200-€400 per month on top of the actual expenses of accommodation, which are
+already high.
+These high tourist taxes prompted me to generate the [Tourist Tax Hall of Shame](../travel.md#tourist-tax-hall-of-shame)
+on the main travel page, in which Barcelona is right near the top at number 3 position.
 
 There are twice as many digital nomads in Barcelona than Madrid according to my
 [Nomads.com](https://nomads.com/@harisekhon) page which shows the numbers of other people on the website who are there.
@@ -415,6 +418,8 @@ this is really a problem of democracy's high taxation on young working people wh
 inequality as older people are the second largest voting block.
 Tax wealth, not work, as Gary Stevenson would say, and Barcelona would be even greater for better working people.
 So while I love Barcelona, I don't love it as much as I would if not for the failings of modern corrupted democracy.
+
+But for a non-tax-resident part year destination, very good.
 
 ### Best Areas to Stay in Barcelona
 
