@@ -414,6 +414,7 @@ and _"Europe-level cost-of-living"_ great where it would cost most people's whol
 this is really a problem of democracy's high taxation on young working people while protecting inter-generational wealth
 inequality as older people are the second largest voting block.
 Tax wealth, not work, as Gary Stevenson would say, and Barcelona would be even greater for better working people.
+So while I love Barcelona, I don't love it as much as I would if not for the failings of modern corrupted democracy.
 
 ### Best Areas to Stay in Barcelona
 
