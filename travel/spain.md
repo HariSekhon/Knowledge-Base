@@ -717,9 +717,13 @@ Booking further in advance should get better prices.
 
 [Ibiza](https://maps.app.goo.gl/HkUMJfUzJRnpkS3eA) is the island best known as the clubbing capital of the world.
 
+Accommodation is expensive here.
+
 ## Mallorca
 
 [Mallorca](Majorca) is a popular tourist island.
+
+Accommodation is expensive here.
 
 ## Sevilla
 
