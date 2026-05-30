@@ -408,7 +408,7 @@ There are twice as many digital nomads in Barcelona than Madrid according to my
 
 Definitely one of the hotspots of the world, like [Bangkok](thailand.md#bangkok).
 
-Upon greater reflection, Barcelona is great - one of the more liveable cities in the world that I've encountered -
+Update: upon greater reflection, Barcelona is great - one of the more liveable cities in the world that I've encountered -
 but I'm not sure it's _"Europe-level taxation"_ great
 and _"Europe-level cost-of-living"_ great where it would cost most people's whole paycheck just to tread water...
 this is really a problem of high democratic taxation and inter-generational wealth inequality.
