@@ -411,7 +411,8 @@ Definitely one of the hotspots of the world, like [Bangkok](thailand.md#bangkok)
 Update: upon greater reflection, Barcelona is great - one of the more liveable cities in the world that I've encountered -
 but I'm not sure it's _"Europe-level taxation"_ great
 and _"Europe-level cost-of-living"_ great where it would cost most people's whole paycheck just to tread water...
-this is really a problem of high democratic taxation and inter-generational wealth inequality.
+this is really a problem of democracy's high taxation on young working people while protecting inter-generational wealth
+inequality as older people are the second largest voting block.
 Tax wealth, not work, as Gary Stevenson would say, and Barcelona would be even greater for better working people.
 
 ### Best Areas to Stay in Barcelona
