@@ -730,6 +730,7 @@ Accommodation is expensive here.
 
 Roman historic beach town.
 
+- [Plaça de la Imperial Tàrraco](https://maps.app.goo.gl/MRwqA2LYkzQKZK3m8) - central plaza
 - [Monument als Castellers](https://maps.app.goo.gl/JEUSrUUWNUPuSwKV9)
 - [Fòrum colonial de Tarraco](https://maps.app.goo.gl/oF3AnZoEnGQ8yJ6w8)
 - [Roman Amphitheater of Tarragona](https://maps.app.goo.gl/Lc71KhuiJPGwuPBb9)
