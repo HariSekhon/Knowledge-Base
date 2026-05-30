@@ -46,6 +46,8 @@
 
 It has become one of my favourite countries in Europe and one I wish I'd discovered earlier in my life.
 
+Madrid is technically larger but Barcelona has a larger centre of interest with more to see and do.
+
 ## Food & Prices
 
 The food is basically Western priced but the quality is good,
@@ -404,7 +406,13 @@ on the main travel page, in which Barcelona is right near the top.
 There are twice as many digital nomads in Barcelona than Madrid according to my
 [Nomads.com](https://nomads.com/@harisekhon) page which shows the numbers of other people on the website who are there.
 
-Definitely one of the hotspots of the world, like Bangkok.
+Definitely one of the hotspots of the world, like [Bangkok](thailand.md#bangkok).
+
+Upon greater reflection, Barcelona is great - one of the more liveable cities in the world that I've encountered -
+but I'm not sure it's _"Europe-level taxation"_ great
+and _"Europe-level cost-of-living"_ great where it would cost most people's whole paycheck just to tread water...
+this is really a problem of high democratic taxation and inter-generational wealth inequality.
+Tax wealth, not work, as Gary Stevenson would say, and Barcelona would be even greater for better working people.
 
 ### Best Areas to Stay in Barcelona
 
