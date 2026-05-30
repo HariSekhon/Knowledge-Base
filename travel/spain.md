@@ -29,6 +29,7 @@
 - [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
 - [Ibiza](#ibiza)
 - [Mallorca](#mallorca)
+- [Peniscola](#peniscola)
 - [Tarragona](#tarragona)
 - [Sevilla](#sevilla)
   - [Where to Stay in Sevilla](#where-to-stay-in-sevilla)
@@ -725,6 +726,33 @@ Accommodation is expensive here.
 [Mallorca](Majorca) is a popular tourist island.
 
 Accommodation is expensive here.
+
+## Peniscola
+
+[Peñíscola](https://maps.app.goo.gl/gGLLsVtCEhpeArf87) is a beach town between Barcelona and Valencia.
+
+I feel like it is important to emphasize the foreign accents on the letters
+and not interpret this as an English word amalgamation. 🙈
+
+- [Castell de Peníscola](https://maps.app.goo.gl/HA5Z7UYp2i5RcL428)
+- [Calle San Roque](https://maps.app.goo.gl/7wybbniXmn3W9yvNA)
+- [Classic Theater Festival](https://maps.app.goo.gl/K7caokj7tdEbWaFo6)
+- [El parc d'artilleria](https://maps.app.goo.gl/g4m7p6HJsbnULkNH6)
+- [Portal Fosc](https://maps.app.goo.gl/DHkchcKC4jE2ZwdR7)
+- [Església de la Mare de Déu de l'Ermitana](https://maps.app.goo.gl/oxZayCyDFbyjRaxL8)
+- [Edificio de armas del castillo](https://maps.app.goo.gl/9USoTe72Q8UyjMaF8)
+- [Playa de Peñiscola](https://maps.app.goo.gl/aEZrjKrvNoSsmpK2A) - beach
+  - [Mirador la porteta](https://maps.app.goo.gl/dUacdYY21ZThwvMFA)
+- [Playa Sur](https://maps.app.goo.gl/1rgPVgSbaHeCwLiP6) - beach
+- [Plage Nord](https://maps.app.goo.gl/utTYnRXmRHLYG9Wj7) - beach further north
+- [Cala Del Moro](https://maps.app.goo.gl/cjtcrrSm1nFSVKDv9) - beach further south
+- [Plaça Constitució](https://maps.app.goo.gl/wfTzQL5RNBWomyGdA) - centre
+- [Badum Tower](https://maps.app.goo.gl/J9YYCQjtqKiDKPL66) - further out
+
+<!-- -->
+
+- [Plaça POLIGONO6G, 18](https://maps.app.goo.gl/ie6YrufNTaEL8NWi8) - free parking near town
+- [Parking Peñíscola Norte](https://maps.app.goo.gl/EwzNKBJE2rCMycqV6) - free parking further out to the north
 
 ## Tarragona
 
