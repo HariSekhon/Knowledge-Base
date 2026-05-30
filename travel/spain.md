@@ -729,7 +729,8 @@ Accommodation is expensive here.
 
 ## Peniscola
 
-[Peñíscola](https://maps.app.goo.gl/gGLLsVtCEhpeArf87) is a beach town between Barcelona and Valencia.
+[Peñíscola](https://maps.app.goo.gl/gGLLsVtCEhpeArf87) is a beach town between Barcelona and Valencia. There's not much
+here so it's more useful as a stopover town than a destination.
 
 I feel like it is important to emphasize the foreign accents on the letters
 and not interpret this as an English word amalgamation. 🙈
