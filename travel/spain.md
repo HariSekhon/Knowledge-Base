@@ -737,6 +737,7 @@ Roman historic beach town.
 - [Circ Roma](https://maps.app.goo.gl/vwjZjBNE663KsTrS8)
 - [Rèplica balcó del Mediterrani](https://maps.app.goo.gl/LYHW2k5T2QV4F9Ly7)
 - [Platja del Miracle](https://maps.app.goo.gl/gramZ1NKCAdMwB218) - beach
+- [Parc de la Ciutat](https://maps.app.goo.gl/awnCyTpCqSmdkk1GA) - city park
 - [Riu Francolí](https://maps.app.goo.gl/ykPh1mrkyPdyR5Nm8) - park with a river flowing through it
 - [Fortí de la Reina](https://maps.app.goo.gl/evHR2QxTH4BgrnMA7)
 - [Platja Arrabassada](https://maps.app.goo.gl/osm6McUdDR8wvcGv9) - beach
