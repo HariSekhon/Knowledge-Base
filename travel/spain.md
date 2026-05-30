@@ -29,6 +29,7 @@
 - [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
 - [Ibiza](#ibiza)
 - [Mallorca](#mallorca)
+- [Tarragona](#tarragona)
 - [Sevilla](#sevilla)
   - [Where to Stay in Sevilla](#where-to-stay-in-sevilla)
 
@@ -724,6 +725,23 @@ Accommodation is expensive here.
 [Mallorca](Majorca) is a popular tourist island.
 
 Accommodation is expensive here.
+
+## Tarragona
+
+Roman historic beach town.
+
+- [Monument als Castellers](https://maps.app.goo.gl/JEUSrUUWNUPuSwKV9)
+- [Fòrum colonial de Tarraco](https://maps.app.goo.gl/oF3AnZoEnGQ8yJ6w8)
+- [Roman Amphitheater of Tarragona](https://maps.app.goo.gl/Lc71KhuiJPGwuPBb9)
+- [Roman theatre of Tàrraco](https://maps.app.goo.gl/iec9kVjXUDnJ4tU47)
+- [Circ Roma](https://maps.app.goo.gl/vwjZjBNE663KsTrS8)
+- [Rèplica balcó del Mediterrani](https://maps.app.goo.gl/LYHW2k5T2QV4F9Ly7)
+- [Platja del Miracle](https://maps.app.goo.gl/gramZ1NKCAdMwB218) - beach
+- [Fortí de la Reina](https://maps.app.goo.gl/evHR2QxTH4BgrnMA7)
+- [Platja Arrabassada](https://maps.app.goo.gl/osm6McUdDR8wvcGv9) - beach
+- [Platja Savinosa](https://maps.app.goo.gl/iAw2x8NfLX321DNb6) - beach
+- [Centre Comercial Parc Central](https://maps.app.goo.gl/1tWmw7fExZPaBiLx8) - mall
+- [El Corte Inglés Tarragona](https://maps.app.goo.gl/c3vZPDYtxTofxeiv6) - mall
 
 ## Sevilla
 
