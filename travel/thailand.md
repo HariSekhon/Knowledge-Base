@@ -78,6 +78,9 @@ as Thailand is more geared towards alcohol while Dubai is more geared towards al
 fancy juices.
 Still, if you're willing to insist and pay extra, you can still get your fresh juices, they're just not the default.
 
+Drinking coconuts may be a better stock option in Thailand,
+but don't have more than 1 per day otherwise you may need to run to the bathroom as they are a laxative!
+
 ## Bangkok
 
 [Khao San road](https://maps.app.goo.gl/DQifXctJYKgqZ5b88) is the place to be.
