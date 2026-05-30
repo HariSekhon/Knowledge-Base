@@ -26,6 +26,7 @@
   - [Parking in Berga](#parking-in-berga)
   - [Attractions in Berga](#attractions-in-berga)
   - [Restaurants in Berga](#restaurants-in-berga)
+- [Castello de la Plana](#castello-de-la-plana)
 - [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
 - [Ibiza](#ibiza)
 - [Mallorca](#mallorca)
@@ -698,6 +699,19 @@ TODO:
 - [9 Tabal](https://maps.app.goo.gl/vCY1QuMekkdqfAxD9) - 4.2, catalonian
 - [La Barana Restaurant](https://maps.app.goo.gl/ByoCLvfDHz727P3F8) - 4.4
 - [Restaurante Corpus](https://maps.app.goo.gl/33Cv2QuKKC2nusL67) - 4.4
+
+## Castello de la Plana
+
+Stopover city near Valencia towards Barcelona.
+
+- [Concatedral de Santa María](https://maps.app.goo.gl/rp3F1ek4w9UvDzjw9)
+- [Platja del Pinar](https://maps.app.goo.gl/VaVJeFbEscMgx2ma7)
+- [Parque Del Pinar](https://maps.app.goo.gl/wzqusZ9HR7UAj6rV7)
+- [Grau de Castelló](https://maps.app.goo.gl/dHHAm2FcKyftA6oZ8)
+- [Villa Romana Vinamargo](https://maps.app.goo.gl/gWFpWY9vEAYM73Y79)
+- [Basílica de la Mare de Déu del Lledó](https://maps.app.goo.gl/3rCNAJpv2vdSJWhbA)
+- [Salera Shopping Mall](https://maps.app.goo.gl/Sg3AbGERPbubSu729)
+- [Platja de Ben-Afelí](https://maps.app.goo.gl/9QDuGoVvmdxndoEy5)
 
 ## Ferry Between Ibiza and Mallorca
 
