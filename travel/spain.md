@@ -736,6 +736,7 @@ Roman historic beach town.
 - [Roman Amphitheater of Tarragona](https://maps.app.goo.gl/Lc71KhuiJPGwuPBb9)
 - [Roman theatre of Tàrraco](https://maps.app.goo.gl/iec9kVjXUDnJ4tU47)
 - [Circ Roma](https://maps.app.goo.gl/vwjZjBNE663KsTrS8)
+- [Tarragona City Hall](https://maps.app.goo.gl/n3VgdvLSfofbSoMi8)
 - [Rèplica balcó del Mediterrani](https://maps.app.goo.gl/LYHW2k5T2QV4F9Ly7)
 - [Platja del Miracle](https://maps.app.goo.gl/gramZ1NKCAdMwB218) - beach
 - [Parc de la Ciutat](https://maps.app.goo.gl/awnCyTpCqSmdkk1GA) - city park
