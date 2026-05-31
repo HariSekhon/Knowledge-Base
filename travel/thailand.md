@@ -60,6 +60,9 @@ Thailand's population has started to level off before the inevitable decline whe
 Thailand is generally considered a low crime country,
 although it is not that low compared to Europe and the more developed countries of East Asia.
 
+I would be more concerned with drunk expats out there than locals,
+although obviously look after your belongings to avoid petty theft too.
+
 [![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=THA~OWID_WRL~UN_AFR~UN_EUR~GBR~Eastern+Asia+%28UN%29)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=THA~OWID_WRL~UN_AFR~UN_EUR~GBR~Eastern+Asia+%28UN%29)
 
 ## ATMs in Thailand - Cash is Needed
