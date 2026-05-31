@@ -3,6 +3,8 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Population](#population)
+- [Crime](#crime)
 - [ATMs in Thailand - Cash is Needed](#atms-in-thailand---cash-is-needed)
 - [Mobile Internet in Thailand](#mobile-internet-in-thailand)
 - [Taxis in Thailand](#taxis-in-thailand)
@@ -35,6 +37,30 @@ beaches, islands, nightlife, clubs etc.
 you can easily go off the rails with additions here.**
 
 Conversely, if you're a health & fitness foodie like me, Thailand is easily one of the best places in the entire world.
+
+## Population
+
+Thailand's population is quite large at nearly 72 million people, of mostly natives (unlike the West).
+
+Thais are surprisingly polite with hands together bowing, and they are generally happy to see foreigners coming
+and spending money in their country.
+If we were to apply the old saying _"there is no greater flattery than immitation"_,
+then in travel there is no greater flattery than respectful tourism!
+
+The Thai birthrate however has declined to similar to European levels:
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~THA~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA~OWID_EUR)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~THA~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA~OWID_EUR)
+
+Thailand's population has started to level off before the inevitable decline when the older generations age out:
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..&country=~THA)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~THA)
+
+## Crime
+
+Thailand is generally considered a low crime country,
+although it is not that low compared to Europe and the more developed countries of East Asia.
+
+[![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=THA~OWID_WRL~UN_AFR~UN_EUR~GBR~Eastern+Asia+%28UN%29)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=THA~OWID_WRL~UN_AFR~UN_EUR~GBR~Eastern+Asia+%28UN%29)
 
 ## ATMs in Thailand - Cash is Needed
 
