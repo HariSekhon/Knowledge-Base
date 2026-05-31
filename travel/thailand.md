@@ -31,8 +31,7 @@ bars & nightclubs, and accommodates every vice one can think of... 🙈
 [ThailandRedcat.com](https://www.thailandredcat.com/) - excellent blog on all things Thailand for expats eg. best
 beaches, islands, nightlife, clubs etc.
 
-**Warning:
-if you suffer from any addictions - alcohol, drugs, women etc... do not go to Thailand -
+**Warning: if you suffer from any addictions - alcohol, drugs, women etc... do not go to Thailand -
 you can easily go off the rails with additions here.**
 
 Conversely, if you're a health & fitness foodie like me, Thailand is easily one of the best places in the entire world.
