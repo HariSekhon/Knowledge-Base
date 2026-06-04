@@ -723,7 +723,7 @@ As you'd expect for British output, there are quite a few good Indian restaurant
 - [Turmeric - Nepalese and Indian Restaurant](https://maps.app.goo.gl/5AsF4me9NUVU3kMk6) - very good quality Indian with
   a good set menu.
   Relatively newly established in 2026 but they know what they are doing with food.
-  The chicken tikka starter was good and succulent, the poppadums and sauces were good, as so too were the onion bajis.
+  The chicken tikka starter was good and succulent, the poppadoms and sauces were good, as so too were the onion bajis.
   The lamb Pathiya was a good balance of spicy and sweet and sour.
   The pilau rice was decent and so too was the garlic naan.
   The chocolate ice cream as part of the set menu was nothing special though.
@@ -733,6 +733,10 @@ As you'd expect for British output, there are quite a few good Indian restaurant
   restaurants across different Spanish cities now.
   The set menu before 10pm is good value with a starter, curry, rice or naan bread and an ice cream or coffee similar to
   Turmeric above.
+  The poppodoms were very good but they only give 1 per €1.50 and come with 3 dips and onions.
+  The mixed starter was good with a tender chicken tikka cube,
+  onion baji, batterd chicken and a battery pea patty or something like it.
+  The pathiya was decent, as was the garlic naan.
   Wifi 76/177 Mbit/s
 - [Circo Burger](https://maps.app.goo.gl/Yv79McajnKKN9oWQ6) - very good burger, decent fries but not many.
   Two of their burgers have won awards.
