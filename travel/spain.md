@@ -501,7 +501,8 @@ My Spanish friend, who now lives in Portugal, hates Barcelona due to the immigra
 
 The city would be more amazing if these people were not in it.
 
-As a frontline immigration country this problem is going to get a lot worse over time under liberal democracy.
+As a frontline immigration country in Southern Europe, this problem is going to get a lot worse over time under liberal
+democracy.
 
 ### Public Transport in Barcelona
 
