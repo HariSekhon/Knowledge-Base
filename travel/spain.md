@@ -18,10 +18,13 @@
 - [Barcelona](#barcelona)
   - [Best Areas to Stay in Barcelona](#best-areas-to-stay-in-barcelona)
   - [Parking in Barcelona](#parking-in-barcelona)
+  - [Crime in Barcelona](#crime-in-barcelona)
   - [Public Transport in Barcelona](#public-transport-in-barcelona)
   - [Attractions in Barcelona](#attractions-in-barcelona)
   - [Restaurants in Barcelona](#restaurants-in-barcelona)
   - [Groceries in Barcelona](#groceries-in-barcelona)
+- [Benidorm](#benidorm)
+  - [Restaurants in Benidorm](#restaurants-in-benidorm)
 - [Berga](#berga)
   - [Parking in Berga](#parking-in-berga)
   - [Attractions in Berga](#attractions-in-berga)
@@ -32,8 +35,11 @@
 - [Mallorca](#mallorca)
 - [Peniscola](#peniscola)
 - [Tarragona](#tarragona)
-- [Sevilla](#sevilla)
-  - [Where to Stay in Sevilla](#where-to-stay-in-sevilla)
+- [Seville](#seville)
+  - [Where to Stay in Seville](#where-to-stay-in-seville)
+- [Valencia](#valencia)
+  - [Attractions in Valencia](#attractions-in-valencia)
+  - [Restaurants in Valencia](#restaurants-in-valencia)
 
 <!-- INDEX_END -->
 
@@ -390,8 +396,8 @@ Expensive / fancy:
 
 ## Barcelona
 
-Barcelona is easily one of my favourite cites in the world, it's even better than Madrid with even more to do and see,
-including:
+Barcelona on first inspection was one of my favourite cites, more than Madrid as there seems to be more attractions
+there for tourists, including:
 
 - miles of beaches
 - great historical architecture
@@ -463,11 +469,37 @@ But for a non-tax-resident part year destination, very good.
 
 ### Parking in Barcelona
 
-Parking in Barcelona is as bad as other European cities.
+**WARNING: do not take your car to Barcelona unless you are putting it in secure monitored private storage -
+car break-in thefts are extremely common in Barcelona**
 
-I parked out here where there is free street parking and then took public transport in:
+Parking in Barcelona is as bad as other European cities in terms of lack of availability
+unless you park out in the suburbs and take the train in.
 
-- [Carrer de Sant Adrià](https://maps.app.goo.gl/xUVbV35KXBnTXqZ69)
+ChatGPT advised me to park out in [Carrer de Sant Adrià](https://maps.app.goo.gl/xUVbV35KXBnTXqZ69) which was horrible
+advice. I returned to find my car windows smashed in and all my designer clothes stolen,
+irreplaceable in both designs and sentimental value.
+
+When I took the car to the nearby CarGlass to put some emergency covers on the windows,
+the place was full of other cars that had been smashed in too.
+
+### Crime in Barcelona
+
+My car smelled of weed after the robbery.
+
+What kind of people do you know who smoke weed a lot and sell designer clothes on the streets?
+
+An exercise in thinking for the reader.
+
+Next time a guy offers to sell you something on the streets,
+remember that is stolen and that person is probably someone who should have been deported if democracy worked.
+
+On a completely unrelated note, two different African guys did try hassling me in the streets around La Rambla.
+One tried offering me cocaine, the other I swerved by a wider margin before he could make his request for whatever scam
+he was doing.
+
+My Spanish friend, who now lives in Portugal, hates Barcelona due to the immigration problem.
+
+The city would be more amazing if these people were not in it.
 
 ### Public Transport in Barcelona
 
@@ -656,6 +688,69 @@ TODO:
 - [Carrefour at Westfield Glories](https://maps.app.goo.gl/kVviRz3W9NqdkLxk6) - great selection of foods and homeware
   on 2 levels
 
+## Benidorm
+
+[Benidorm](https://maps.app.goo.gl/5vxoT1pxEPWdRQGG6) is coastal resort town with approximately 3km of beaches
+that resembles a forgotten outpost of the British Empire stuck in time, both in demographics and even in the music
+playing.
+
+There are more English people here than left in London, as well as various other Brits, Scots, Irish etc.
+
+The pop music playing was often from the 2000s to early 2010s, before the severity of the British decline materialized
+culminating in Brexit, or even further back some decades like Abba.
+
+Benidorm is exactly what I imagined an English working class seaside town to be like...
+there are British & Irish pubs and bars, Indian restaurants,
+souvenir shops with British flags painted in their signs etc (run by Indians of course 😂).
+
+The street promoters outside the bars enticing people inside also overtly offer all sorts of drugs.
+
+<!--
+
+- [Spanglish Hostel Benidorm](https://maps.app.goo.gl/2DhyfCp7C5JxV12G6) - bit of a sweat box, but has a kitchen and
+  3 showers.
+  Fast wifi 809/781 Mbit/s
+
+-->
+
+### Restaurants in Benidorm
+
+As you'd expect for British output, there are quite a few good Indian restaurants!
+
+- [Turmeric - Nepalese and Indian Restaurant](https://maps.app.goo.gl/5AsF4me9NUVU3kMk6) - very good quality Indian with
+  a good set menu.
+  The chicken tikka starter was good and succulent, the poppadums and sauces were good, as so too were the onion bajis.
+  The lamb Pathiya was a good balance of spicy and sweet and sour.
+  The pilau rice was decent and so too was the garlic naan.
+  The chocolate ice cream as part of the set menu was nothing special though.
+  The mango lassi was good, I just wish that one was bigger like some of the Indian restaurants back in the UK.
+  Forgot to check for wifi
+- [Circo Burger](https://maps.app.goo.gl/Yv79McajnKKN9oWQ6) - very good burger, decent fries but not many.
+  Two of their burgers have won awards.
+  I tried the La Aspirante which won best burger in Spain in 2023,
+  and it was surprisingly good and well balanced, not too big, but good in flavour.
+  No wifi unfortunately
+- [OXYA](https://maps.app.goo.gl/vSZjJjv6uWYY5AoW7) - rates themselves as the best burger in Benidorm.
+  They have some absolutely monstrous burger tower stacks of 300g for €22 without fries, which is quite expensive,
+  and nearly everything seems to be covered in cheese sauce.
+  I went with the 200g hottie burger without cheese, and a combo fries for an additional €2,
+  although it is a small basket modest portion.
+  Fries are €6 if ordered by themselves which is quite high too.
+  WiFi 176/32 Mbit/s but seemed a bit unstable initially
+
+TODO:
+
+- [Kathmandu](https://maps.app.goo.gl/9CXGLnmfmwRqoPFs8) - 4.9, indian
+- [Vajra Bistro](https://maps.app.goo.gl/nA3yUihrCP888uZh9) - 4.9 with a couple decent set menus
+- [Restaurante 22](https://maps.app.goo.gl/qV57EAomQgsJSKBb7) - 4.9
+- [Indian Garden](https://maps.app.goo.gl/FMpf9o2gndFt1jdz8) - 4.8
+- [Caspers Eatery & Bar](https://maps.app.goo.gl/QELw3EAWufz3tLhx8) - 4.8
+- [Hakata Ramen](https://maps.app.goo.gl/4nA3cUGpVZ4BTYLUA) - 4.8
+
+Groceries:
+
+- [Supermercado Spar](https://maps.app.goo.gl/Y7NPJ9CZPsmZSzJi9)
+
 ## Berga
 
 ### Parking in Berga
@@ -708,6 +803,7 @@ Stopover city near Valencia towards Barcelona.
 - [Platja el Palmeral](https://maps.app.goo.gl/S9Gp6WMBs8S6KESG9)
 - [Platja del Pinar](https://maps.app.goo.gl/VaVJeFbEscMgx2ma7)
 - [Parque Del Pinar](https://maps.app.goo.gl/wzqusZ9HR7UAj6rV7)
+- [Platja del Gurugú](https://maps.app.goo.gl/YYuGTJM871cREqUj9)
 - [Grau de Castelló](https://maps.app.goo.gl/dHHAm2FcKyftA6oZ8)
 - [Villa Romana Vinamargo](https://maps.app.goo.gl/gWFpWY9vEAYM73Y79)
 - [Basílica de la Mare de Déu del Lledó](https://maps.app.goo.gl/3rCNAJpv2vdSJWhbA)
@@ -805,9 +901,26 @@ Roman historic beach town.
   centre
 - [Aparcament Torroja](https://maps.app.goo.gl/qAbMcQooFjPBDjCdA) - free parking 15 minutes walk from town centre
 
-## Sevilla
+## Seville
 
-### Where to Stay in Sevilla
+### Where to Stay in Seville
 
 - [JOY Plaza de Armas](https://maps.app.goo.gl/a6TUffK98D8AmVZn9) - recommended by a fellow traveller
   <!-- Majd in Madrid -->
+
+## Valencia
+
+### Attractions in Valencia
+
+- []
+
+### Restaurants in Valencia
+
+- [Al Pomodoro | Pizzería italiana artesanal](https://maps.app.goo.gl/u9USMCuj53UFxTdE7) - The meatballs pizza was good,
+  lots of mozzarella and well made thick outer crust rim and garnished with fresh basil, I see why this is a bestseller,
+  but it is very heavy like the waitress said. I think it was due to the fattening mozzarella. They give you the roller
+  cutter to cut it up yourself. I’d have to mark it down for charging €3 for water and No WiFi unfortunately
+
+TODO:
+
+- [Empanadas Malvón](https://maps.app.goo.gl/KPHzXVmLb4WHyfHg8) - 4.9
