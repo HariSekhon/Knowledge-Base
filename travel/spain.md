@@ -722,12 +722,18 @@ As you'd expect for British output, there are quite a few good Indian restaurant
 
 - [Turmeric - Nepalese and Indian Restaurant](https://maps.app.goo.gl/5AsF4me9NUVU3kMk6) - very good quality Indian with
   a good set menu.
+  Relatively newly established in 2026 but they know what they are doing with food.
   The chicken tikka starter was good and succulent, the poppadums and sauces were good, as so too were the onion bajis.
   The lamb Pathiya was a good balance of spicy and sweet and sour.
   The pilau rice was decent and so too was the garlic naan.
   The chocolate ice cream as part of the set menu was nothing special though.
   The mango lassi was good, I just wish that one was bigger like some of the Indian restaurants back in the UK.
   Forgot to check for wifi
+- [Kathmandu](https://maps.app.goo.gl/9CXGLnmfmwRqoPFs8) - successful Nepalese & Indian local chain that has 7
+  restaurants across different Spanish cities now.
+  The set menu before 10pm is good value with a starter, curry, rice or naan bread and an ice cream or coffee similar to
+  Turmeric above.
+  Wifi 76/177 Mbit/s
 - [Circo Burger](https://maps.app.goo.gl/Yv79McajnKKN9oWQ6) - very good burger, decent fries but not many.
   Two of their burgers have won awards.
   I tried the La Aspirante which won best burger in Spain in 2023,
@@ -743,9 +749,10 @@ As you'd expect for British output, there are quite a few good Indian restaurant
 
 TODO:
 
-- [Kathmandu](https://maps.app.goo.gl/9CXGLnmfmwRqoPFs8) - 4.9, indian
-- [Vajra Bistro](https://maps.app.goo.gl/nA3yUihrCP888uZh9) - 4.9 with a couple decent set menus
-- [Restaurante 22](https://maps.app.goo.gl/qV57EAomQgsJSKBb7) - 4.9
+- [Vajra Bistro](https://maps.app.goo.gl/nA3yUihrCP888uZh9) - 4.9 with a couple decent set menus, but it was closing at
+  9:27pm as I arrived when it was supposed to be open until 10pm
+- [Restaurante 22](https://maps.app.goo.gl/qV57EAomQgsJSKBb7) - 4.9 - was closed at 9pm when it was supposed to be open
+  until 10pm
 - [Indian Garden](https://maps.app.goo.gl/FMpf9o2gndFt1jdz8) - 4.8
 - [Caspers Eatery & Bar](https://maps.app.goo.gl/QELw3EAWufz3tLhx8) - 4.8
 - [Hakata Ramen](https://maps.app.goo.gl/4nA3cUGpVZ4BTYLUA) - 4.8
