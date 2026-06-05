@@ -7,7 +7,8 @@
 - [Population](#population)
 - [Crime](#crime)
 - [Taxi Apps](#taxi-apps)
-- [ATMs in Madrid](#atms-in-madrid)
+- [Driving in Spain](#driving-in-spain)
+- [ATMs in Spain](#atms-in-spain)
 - [Madrid](#madrid)
   - [Madrid Airport - MAD](#madrid-airport---mad)
     - [Travel to / from Madrid Airport](#travel-to--from-madrid-airport)
@@ -24,6 +25,7 @@
   - [Restaurants in Barcelona](#restaurants-in-barcelona)
   - [Groceries in Barcelona](#groceries-in-barcelona)
 - [Benidorm](#benidorm)
+  - [Driving in Benidorm](#driving-in-benidorm)
   - [Restaurants in Benidorm](#restaurants-in-benidorm)
 - [Berga](#berga)
   - [Parking in Berga](#parking-in-berga)
@@ -111,7 +113,17 @@ same with the buses.
 - [Uber](https://www.uber.com/es/en/) - was cheaper for the 4am return to the airport than Cabify
 - [Bolt](https://bolt.eu/en/)
 
-## ATMs in Madrid
+## Driving in Spain
+
+All Spanish cities with inhabitants of 50,000+ are required by law
+to implement Low Emissions Zones which require a government sticker, similar to France and Germany.
+
+This is quite frankly ridiculous government inefficiency and should instead be automatic by the car model which
+determines if a car is too old and polluting or not.
+
+As with everything democratic governments do, this is just a scam to tax people, this time via fines.
+
+## ATMs in Spain
 
 This is the best one I could find:
 
@@ -716,6 +728,14 @@ The street promoters outside the bars enticing people inside also overtly offer 
 
 -->
 
+### Driving in Benidorm
+
+Benidorm's coast and Old Town require a government pass as traffic cameras enforce if it is.
+
+<https://benidorm.org/es/pagina/zbe>
+
+<https://cadenaser.com/comunitat-valenciana/2025/02/07/benidorm-pone-en-marcha-la-plataforma-para-autorizar-los-accesos-a-la-zona-de-bajas-emisiones-radio-benidorm/>
+
 ### Restaurants in Benidorm
 
 As you'd expect for British output, there are quite a few good Indian restaurants!
@@ -861,8 +881,8 @@ Accommodation is expensive here.
 
 ## Peniscola
 
-[Peñíscola](https://maps.app.goo.gl/gGLLsVtCEhpeArf87) is a beach town between Barcelona and Valencia. There's not much
-here so it's more useful as a stopover town than a destination.
+[Peñíscola](https://maps.app.goo.gl/gGLLsVtCEhpeArf87) is a beach town between Barcelona and Valencia
+which is surprisingly busy and popular, even at 10pm at night.
 
 I feel like it is important to emphasize the foreign accents on the letters
 and not interpret this as an English word amalgamation. 🙈
