@@ -32,6 +32,7 @@
   - [Attractions in Berga](#attractions-in-berga)
   - [Restaurants in Berga](#restaurants-in-berga)
 - [Castello de la Plana](#castello-de-la-plana)
+- [Granada](#granada)
 - [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
 - [Ibiza](#ibiza)
 - [Mallorca](#mallorca)
@@ -850,6 +851,12 @@ Stopover city near Valencia towards Barcelona.
   ring of the city
 - [Parking Camara Comercio](https://maps.app.goo.gl/Zk7xb4HbVQjm4aSA8) - free parking on the outskirts of the centre
   ring of the city directly between the centre and the beach
+
+## Granada
+
+This is a popular city due to the Alhambra moorish palance.
+
+There is a lot of very affordable accommodation compared to other places like Benidorm.
 
 ## Ferry Between Ibiza and Mallorca
 
