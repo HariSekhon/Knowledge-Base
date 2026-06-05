@@ -856,8 +856,8 @@ Stopover city near Valencia towards Barcelona.
 
 This is a popular city due to the Alhambra moorish palance.
 
-There is a lot of very affordable accommodation compared to other tourist destinations like Barcelona or Valencia or
-Benidorm.
+There is a lot of very affordable accommodation compared to other Spanish tourist destinations like Barcelona or
+Valencia or Benidorm.
 
 ## Ferry Between Ibiza and Mallorca
 
