@@ -710,18 +710,28 @@ Alicante is surprisingly nicer than Benidorm,
 I'm not sure why so many Brits go to Benidorm instead.
 I can only guess they are prioritizing it being cheaper for booze and available drugs.
 
+- [Grykos Greek Frozen Yogurt](https://maps.app.goo.gl/uXypwbqJh7zCCk366) - excellent frozen yoghurt, with toppings like
+  fresh strawberry slices, blueberries, dried raspberries, pistachio, candied almonds etc.
 - [EatMyTrip Specialty Coffee & Brunch Alicante](https://maps.app.goo.gl/jaxFDcLPaR647z2D8) - nice brunch menu.
   The acai bowl wasn't big but it was good quality with strawberry,
   banana, green apple slices, coconut flakes and peanut butter.
   Has fancy lattes, like pink latte and turmeric latte.
   I tried the turmeric latte which was decent, although not big.
   Wifi 181/265 Mbit/s
+- [Circo](https://maps.app.goo.gl/U9vqaykET6Mw7Bhk7) - Same chain as in Benidorm.
+  Has WiFi 156/203 Mbit/s unlike the one in Benidorm
 - [Las Muns](https://maps.app.goo.gl/dwSbXbQwdwNPogQe7) - good for a snack for €4-5 each (you’ll need 2 or more since
   they aren’t big).
   The beef and spicy beef were ok, the crispy pastry was better than the filling,
   but I found myself pining for the proper cornish pasties in London from the West Cornwall Pasty Co which has more
   meaty fillings and much larger.
-  There is only a small amount of seating, 3 bar stools with window, and 3 small tables outside. no WiFi
+  There is only a small amount of seating, 3 bar stools with window, and 3 small tables outside.
+  No WiFi
+- [Empanadas Malvón](https://maps.app.goo.gl/g8ihJWeg3UTEiv3y9) - ok for a snack but doesn’t have sweet empanadas like
+  Las Munas.
+  The gourmet beef empanada had two large pieces of grissle - I wouldn't get this again.
+  No WiFi
+- [Amorino](https://maps.app.goo.gl/tsZsuo5xtky51Xqp8) - good quality ice cream chain found across European countries
 
 <!-- -->
 
@@ -735,9 +745,13 @@ I can only guess they are prioritizing it being cheaper for booze and available 
 
 TODO:
 
+- [Cioccolato Puro d'Italia](https://maps.app.goo.gl/Ud2givNPcmheCQu89) - 4.7, has wifi
 - [Carnal](https://maps.app.goo.gl/zLrEhFtrKbQUa8v77) - 4.9, burger
 - [Restobar La Choza](https://maps.app.goo.gl/n8T6pjzo5eLNuSAV8) - 4.8, peruvian
 - [La Callaíta Gastro Bar](https://maps.app.goo.gl/jCt8yuCgQfncAkbKA) - 4.7, has octopus and steak
+- [Sabolé (sede Alicante Centro)](https://maps.app.goo.gl/geTx4nZ1DQujom1z9) - 4.8
+- [Vi Viet Comida Vietnamita](https://maps.app.goo.gl/tJnZ5rxvdDHP1L4i6) - 4.7, vietnamese
+- [Urban Poke Bar](https://maps.app.goo.gl/VmNXqXffEwwiYATP9) - 4.6
 
 ## Benidorm
 
@@ -794,10 +808,12 @@ As you'd expect for British output, there are quite a few good Indian restaurant
   onion baji, batterd chicken and a battery pea patty or something like it.
   The pathiya was decent, as was the garlic naan.
   Wifi 76/177 Mbit/s
-- [Circo Burger](https://maps.app.goo.gl/Yv79McajnKKN9oWQ6) - very good burger, decent fries but not many.
+- [Circo Burger](https://maps.app.goo.gl/Yv79McajnKKN9oWQ6) - very good burgers, decent fries but not many.
   Two of their burgers have won awards.
-  I tried the La Aspirante which won best burger in Spain in 2023,
-  and it was surprisingly good and well balanced, not too big, but good in flavour.
+  The Mamba Negra which won the 2025 award is the best of the two top burgers with a black bun topped with crumbled
+  doritos, a layer of pulled pork on top of the beef patty, and a slightly sweet sauce inside.
+  La Aspirante which won best burger in Spain in 2023,
+  was surprisingly good and well balanced, not too big, but good in flavour.
   No wifi unfortunately
 - [OXYA](https://maps.app.goo.gl/vSZjJjv6uWYY5AoW7) - rates themselves as the best burger in Benidorm.
   They have some absolutely monstrous burger tower stacks of 300g for €22 without fries, which is quite expensive,
