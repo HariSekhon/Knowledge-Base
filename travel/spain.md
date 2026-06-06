@@ -718,6 +718,11 @@ I can only guess they are prioritizing it being cheaper for booze and available 
   Has fancy lattes, like pink latte and turmeric latte.
   I tried the turmeric latte which was decent, although not big.
   Wifi 181/265 Mbit/s
+- [3F Greens](https://maps.app.goo.gl/urzqWH9j4QgyE6GJ7) - the half peri-peri chicken was surprisingly succulent,
+  better than Nandos.
+  It comes with 2 sides, including asparagus as an option.
+  The chocolate fondant with vanilla ice cream was decent too.
+  WiFi 399/454
 - [Circo](https://maps.app.goo.gl/U9vqaykET6Mw7Bhk7) - Same chain as in Benidorm.
   Has WiFi 156/203 Mbit/s unlike the one in Benidorm
 - [Las Muns](https://maps.app.goo.gl/dwSbXbQwdwNPogQe7) - good for a snack for €4-5 each (you’ll need 2 or more since
