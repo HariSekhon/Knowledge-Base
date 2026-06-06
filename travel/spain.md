@@ -24,6 +24,9 @@
   - [Attractions in Barcelona](#attractions-in-barcelona)
   - [Restaurants in Barcelona](#restaurants-in-barcelona)
   - [Groceries in Barcelona](#groceries-in-barcelona)
+- [Alicante](#alicante)
+  - [Attractions in Alicante](#attractions-in-alicante)
+  - [Restaurants in Alicante](#restaurants-in-alicante)
 - [Benidorm](#benidorm)
   - [Driving in Benidorm](#driving-in-benidorm)
   - [Restaurants in Benidorm](#restaurants-in-benidorm)
@@ -710,7 +713,20 @@ Alicante is surprisingly nicer than Benidorm,
 I'm not sure why so many Brits go to Benidorm instead.
 I can only guess they are prioritizing it being cheaper for booze and available drugs.
 
+### Attractions in Alicante
+
+- [Platja del Postiguet](https://maps.app.goo.gl/5bqXCRRnrHW3SF4h6) - beach
 - [Calle de las setas](https://maps.app.goo.gl/6r2iPQPUBwAKg4sj7) - street with giant mushroom characters
+- [Av. de Federico Soto](https://maps.app.goo.gl/SbA7SQVkuwnXoPpc7)
+  - [Font de Llevant](https://maps.app.goo.gl/eZK2FxQiJYHC74eH8)
+  - [Monumento a Maisonnave](https://maps.app.goo.gl/qoJEuRkHozANbihe8)
+  - [Parque Canalejas](https://maps.app.goo.gl/tBds68aaqS4ky1Xp6)
+- [Basilica of St Mary of Alicante](https://maps.app.goo.gl/WQ3U6weJ8LVLHQ9dA)
+- [Cocatedral de Sant Nicolau](https://maps.app.goo.gl/SKmVta32aZrGXE548)
+- [Castillo de Santa Bárbara](https://maps.app.goo.gl/w43UxdwMtdcpNoBXA)
+- [Museum of Illusions](https://maps.app.goo.gl/1figpyJjn3UpAK629)
+
+### Restaurants in Alicante
 
 - [Grykos Greek Frozen Yogurt](https://maps.app.goo.gl/uXypwbqJh7zCCk366) - excellent frozen yoghurt, with toppings like
   fresh strawberry slices, blueberries, dried raspberries, pistachio, candied almonds etc.
