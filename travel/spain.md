@@ -883,9 +883,13 @@ This is a popular city due to the Alhambra moorish palance.
 There is a lot of very affordable accommodation compared to other Spanish tourist destinations like Barcelona or
 Valencia or Benidorm.
 
-Tickets to Alhambra were sold out a week in advance in June, so you'll need to book yours early here:
+Tickets to Alhambra were sold out a week in advance in June, so you'll need to book yours well ahead of time here:
 
 <https://www.alhambra-patronato.es/en/visit/opening-hours-and-prices>
+
+This site also offered tickets but at double the price:
+
+<https://www.getyourguide.com/>
 
 ## Ferry Between Ibiza and Mallorca
 
