@@ -715,6 +715,8 @@ I can only guess they are prioritizing it being cheaper for booze and available 
 
 ### Attractions in Alicante
 
+- [Explanada de España](https://maps.app.goo.gl/ffdpbPJgWCUZcD8d9)
+  - [Casa Carbonell](https://maps.app.goo.gl/s3qBc5ox7pNkMNTQ6)
 - [Platja del Postiguet](https://maps.app.goo.gl/5bqXCRRnrHW3SF4h6) - beach
 - [Calle de las setas](https://maps.app.goo.gl/6r2iPQPUBwAKg4sj7) - street with giant mushroom characters
 - [Av. de Federico Soto](https://maps.app.goo.gl/SbA7SQVkuwnXoPpc7)
@@ -725,6 +727,7 @@ I can only guess they are prioritizing it being cheaper for booze and available 
 - [Cocatedral de Sant Nicolau](https://maps.app.goo.gl/SKmVta32aZrGXE548)
 - [Castillo de Santa Bárbara](https://maps.app.goo.gl/w43UxdwMtdcpNoBXA)
 - [Museum of Illusions](https://maps.app.goo.gl/1figpyJjn3UpAK629)
+- [Marina Esportiva del Port d'Alacant](Marina Esportiva del Port d'Alacant) - bay with yachts
 
 ### Restaurants in Alicante
 
