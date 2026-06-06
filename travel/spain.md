@@ -715,11 +715,11 @@ I can only guess they are prioritizing it being cheaper for booze and available 
 
 ### Attractions in Alicante
 
-- [Explanada de España](https://maps.app.goo.gl/ffdpbPJgWCUZcD8d9)
+- [Explanada de España](https://maps.app.goo.gl/ffdpbPJgWCUZcD8d9) - bouelvard running along the coast
   - [Casa Carbonell](https://maps.app.goo.gl/s3qBc5ox7pNkMNTQ6)
 - [Platja del Postiguet](https://maps.app.goo.gl/5bqXCRRnrHW3SF4h6) - beach
 - [Calle de las setas](https://maps.app.goo.gl/6r2iPQPUBwAKg4sj7) - street with giant mushroom characters
-- [Av. de Federico Soto](https://maps.app.goo.gl/SbA7SQVkuwnXoPpc7)
+- [Av. de Federico Soto](https://maps.app.goo.gl/SbA7SQVkuwnXoPpc7) - bouelvard with trees in the middle
   - [Font de Llevant](https://maps.app.goo.gl/eZK2FxQiJYHC74eH8)
   - [Monumento a Maisonnave](https://maps.app.goo.gl/qoJEuRkHozANbihe8)
   - [Parque Canalejas](https://maps.app.goo.gl/tBds68aaqS4ky1Xp6)
