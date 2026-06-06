@@ -704,6 +704,30 @@ TODO:
 - [Carrefour at Westfield Glories](https://maps.app.goo.gl/kVviRz3W9NqdkLxk6) - great selection of foods and homeware
   on 2 levels
 
+## Alicante
+
+Alicante is surprisingly nicer than Benidorm,
+I'm not sure why so many Brits go to Benidorm instead.
+I can only guess they are prioritizing it being cheaper for booze and available drugs.
+
+- []
+- [Las Muns](https://maps.app.goo.gl/dwSbXbQwdwNPogQe7) - good for a snack for €4-5 each (you’ll need 2 or more since
+  they aren’t big).
+  The beef and spicy beef were ok, the crispy pastry was better than the filling,
+  but I found myself pining for the proper cornish pasties in London from the West Cornwall Pasty Co which has more
+  meaty fillings and much larger.
+  There is only a small amount of seating, 3 bar stools with window, and 3 small tables outside. no WiFi
+
+<!-- -->
+
+- [Just Hostel Capsules](https://maps.app.goo.gl/anfV4HiinDkJfwgs6) - surprisingly poor for the price.
+  THe kitchen only has a microwave and fridge, no stove, the locker was dodgy, the pod failed to lock etc.
+  I would try to stay somewhere else next time but I booked this last minute.
+  There is technically free street parking within the white lines in the adjacent streets
+  but it is almost impossible to find a free parking space.
+  It then turns into blue parking bays with time restrictions.
+  Wifi 368/260 Mbit/s
+
 ## Benidorm
 
 [Benidorm](https://maps.app.goo.gl/5vxoT1pxEPWdRQGG6) is coastal resort town with approximately 3km of beaches
@@ -858,6 +882,10 @@ This is a popular city due to the Alhambra moorish palance.
 
 There is a lot of very affordable accommodation compared to other Spanish tourist destinations like Barcelona or
 Valencia or Benidorm.
+
+Buy your ticket to the Alhambra in advance here:
+
+<https://www.alhambra-patronato.es/en/visit/opening-hours-and-prices>
 
 ## Ferry Between Ibiza and Mallorca
 
