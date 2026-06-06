@@ -739,6 +739,7 @@ I can only guess they are prioritizing it being cheaper for booze and available 
   The gourmet beef empanada had two large pieces of grissle - I wouldn't get this again.
   No WiFi
 - [Amorino](https://maps.app.goo.gl/tsZsuo5xtky51Xqp8) - good quality ice cream chain found across European countries
+- [Lucciano's](https://maps.app.goo.gl/g8jvv7CF45mQRgSQ7) - good quality ice cream chain found across European countries
 
 <!-- -->
 
