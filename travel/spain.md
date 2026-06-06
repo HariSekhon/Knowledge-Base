@@ -710,6 +710,8 @@ Alicante is surprisingly nicer than Benidorm,
 I'm not sure why so many Brits go to Benidorm instead.
 I can only guess they are prioritizing it being cheaper for booze and available drugs.
 
+- [Calle de las setas](https://maps.app.goo.gl/6r2iPQPUBwAKg4sj7) - street with giant mushroom characters
+
 - [Grykos Greek Frozen Yogurt](https://maps.app.goo.gl/uXypwbqJh7zCCk366) - excellent frozen yoghurt, with toppings like
   fresh strawberry slices, blueberries, dried raspberries, pistachio, candied almonds etc.
 - [EatMyTrip Specialty Coffee & Brunch Alicante](https://maps.app.goo.gl/jaxFDcLPaR647z2D8) - nice brunch menu.
