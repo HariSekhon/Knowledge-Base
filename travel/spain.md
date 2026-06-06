@@ -710,7 +710,12 @@ Alicante is surprisingly nicer than Benidorm,
 I'm not sure why so many Brits go to Benidorm instead.
 I can only guess they are prioritizing it being cheaper for booze and available drugs.
 
-- []
+- [EatMyTrip Specialty Coffee & Brunch Alicante](https://maps.app.goo.gl/jaxFDcLPaR647z2D8) - nice brunch menu.
+  The acai bowl wasn't big but it was good quality with strawberry,
+  banana, green apple slices, coconut flakes and peanut butter.
+  Has fancy lattes, like pink latte and turmeric latte.
+  I tried the turmeric latte which was decent, although not big.
+  Wifi 181/265 Mbit/s
 - [Las Muns](https://maps.app.goo.gl/dwSbXbQwdwNPogQe7) - good for a snack for €4-5 each (you’ll need 2 or more since
   they aren’t big).
   The beef and spicy beef were ok, the crispy pastry was better than the filling,
@@ -727,6 +732,12 @@ I can only guess they are prioritizing it being cheaper for booze and available 
   but it is almost impossible to find a free parking space.
   It then turns into blue parking bays with time restrictions.
   Wifi 368/260 Mbit/s
+
+TODO:
+
+- [Carnal](https://maps.app.goo.gl/zLrEhFtrKbQUa8v77) - 4.9, burger
+- [Restobar La Choza](https://maps.app.goo.gl/n8T6pjzo5eLNuSAV8) - 4.8, peruvian
+- [La Callaíta Gastro Bar](https://maps.app.goo.gl/jCt8yuCgQfncAkbKA) - 4.7, has octopus and steak
 
 ## Benidorm
 
