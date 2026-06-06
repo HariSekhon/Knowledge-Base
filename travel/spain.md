@@ -832,6 +832,7 @@ TODO:
 - [Indian Garden](https://maps.app.goo.gl/FMpf9o2gndFt1jdz8) - 4.8
 - [Caspers Eatery & Bar](https://maps.app.goo.gl/QELw3EAWufz3tLhx8) - 4.8
 - [Hakata Ramen](https://maps.app.goo.gl/4nA3cUGpVZ4BTYLUA) - 4.8
+- [Cuccittini](https://maps.app.goo.gl/X486aTuB7ZPGgJhT8) - 4.6 ice cream
 
 Groceries:
 
