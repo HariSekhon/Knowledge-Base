@@ -714,6 +714,11 @@ I can only guess they are prioritizing it being cheaper for booze and available 
 
 - [Grykos Greek Frozen Yogurt](https://maps.app.goo.gl/uXypwbqJh7zCCk366) - excellent frozen yoghurt, with toppings like
   fresh strawberry slices, blueberries, dried raspberries, pistachio, candied almonds etc.
+- [Livanti Gelato Di Sicilia](https://maps.app.goo.gl/G5r5HvCaPBBKvd27A) - good quality ice cream, rated 3rd best ice
+  cream parlour in Spain by TripAdvisor.
+  The coconut was very good with dessicated coconut throughout.
+  The yoghurt with passion fruit was really good.
+  The chocolate hazelnut was good, and the pistachio was also good.
 - [EatMyTrip Specialty Coffee & Brunch Alicante](https://maps.app.goo.gl/jaxFDcLPaR647z2D8) - nice brunch menu.
   The acai bowl wasn't big but it was good quality with strawberry,
   banana, green apple slices, coconut flakes and peanut butter.
