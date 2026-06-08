@@ -72,7 +72,6 @@ It has become one of my favourite countries in Europe and one I wish I'd discove
 
 Madrid is technically larger but Barcelona has a larger centre of interest with more to see and do.
 
-
 ## Food & Prices
 
 The food is basically Western priced but the quality is good,
