@@ -44,9 +44,9 @@
   - [Accommodation in Granada](#accommodation-in-granada)
   - [Attractions in Granada](#attractions-in-granada)
   - [Restaurants in Granada](#restaurants-in-granada)
-- [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
 - [Ibiza](#ibiza)
 - [Mallorca](#mallorca)
+  - [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
 - [Peniscola](#peniscola)
 - [Tarragona](#tarragona)
 - [Seville](#seville)
@@ -1052,7 +1052,19 @@ TODO:
 
 - [Urban Poke](https://maps.app.goo.gl/amNDL4t1cd4fnMdK6)
 
-## Ferry Between Ibiza and Mallorca
+## Ibiza
+
+[Ibiza](https://maps.app.goo.gl/HkUMJfUzJRnpkS3eA) is the island best known as the clubbing capital of the world.
+
+Accommodation is expensive here.
+
+## Mallorca
+
+[Mallorca](Majorca) is a popular tourist island.
+
+Accommodation is expensive here.
+
+### Ferry Between Ibiza and Mallorca
 
 I actually thought it would be cheaper to take the ferry and enjoy a scenic route
 but it's more than twice the price of just taking a direct flight between the two neighbouring islands.
@@ -1067,18 +1079,6 @@ There are two main ferries:
   one
 
 Booking further in advance should get better prices.
-
-## Ibiza
-
-[Ibiza](https://maps.app.goo.gl/HkUMJfUzJRnpkS3eA) is the island best known as the clubbing capital of the world.
-
-Accommodation is expensive here.
-
-## Mallorca
-
-[Mallorca](Majorca) is a popular tourist island.
-
-Accommodation is expensive here.
 
 ## Peniscola
 
