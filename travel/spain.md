@@ -1000,7 +1000,7 @@ Gradana is small enough that you can just stay anywhere in the centre and walk.
 
 - [El Granado Hostel](https://maps.app.goo.gl/jedpFTq2RDKK3sXZ8) - decent dorms with privacy curtains, decent bathroom,
   decent kitchen with stove (until 1am), quite co-working space downstairs next to reception (locked at 9pm).
-  Wifi 3/0.3 Mbit/s
+  Wifi is slow though at 3/0.3 Mbit/s
 - [Black Swan Hostel](https://maps.app.goo.gl/YYnrThEZTF5JSwu98)
 - [The Central House Elvira](https://maps.app.goo.gl/ZdHobhcDqQYfPLv66)
 
