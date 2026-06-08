@@ -1040,7 +1040,14 @@ This site also offered tickets but at double the price:
 
 ### Restaurants in Granada
 
-- []
+- [Gelateria Dolcemasco](https://maps.app.goo.gl/yx6vTcDx1fwhjf2X8) - the chocolate, docle masco special, pistachio are
+  all good
+- [Açaí Paradise Granada](https://maps.app.goo.gl/oPffG892JnjzZrhMA) - the Paradise bowl nearly killed me with bajillion
+  calories
+
+TODO:
+
+- [Urban Poke](https://maps.app.goo.gl/amNDL4t1cd4fnMdK6)
 
 ## Ferry Between Ibiza and Mallorca
 
