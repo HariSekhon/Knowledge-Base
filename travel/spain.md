@@ -27,6 +27,7 @@
 - [Alicante](#alicante)
   - [Attractions in Alicante](#attractions-in-alicante)
   - [Restaurants in Alicante](#restaurants-in-alicante)
+- [Baza](#baza)
 - [Benidorm](#benidorm)
   - [Driving in Benidorm](#driving-in-benidorm)
   - [Restaurants in Benidorm](#restaurants-in-benidorm)
@@ -34,6 +35,10 @@
   - [Parking in Berga](#parking-in-berga)
   - [Attractions in Berga](#attractions-in-berga)
   - [Restaurants in Berga](#restaurants-in-berga)
+- [Cartegena](#cartegena)
+  - [Parking in Cartegena](#parking-in-cartegena)
+  - [Attractions in Cartegena](#attractions-in-cartegena)
+  - [Restaurants in Cartegena](#restaurants-in-cartegena)
 - [Castello de la Plana](#castello-de-la-plana)
 - [Granada](#granada)
 - [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
@@ -785,6 +790,10 @@ TODO:
 - [Vi Viet Comida Vietnamita](https://maps.app.goo.gl/tJnZ5rxvdDHP1L4i6) - 4.7, vietnamese
 - [Urban Poke Bar](https://maps.app.goo.gl/VmNXqXffEwwiYATP9) - 4.6
 
+## Baza
+
+There really isn't much here, stopover city on the way to Granada.
+
 ## Benidorm
 
 [Benidorm](https://maps.app.goo.gl/5vxoT1pxEPWdRQGG6) is coastal resort town with approximately 3km of beaches
@@ -913,6 +922,45 @@ TODO:
 - [9 Tabal](https://maps.app.goo.gl/vCY1QuMekkdqfAxD9) - 4.2, catalonian
 - [La Barana Restaurant](https://maps.app.goo.gl/ByoCLvfDHz727P3F8) - 4.4
 - [Restaurante Corpus](https://maps.app.goo.gl/33Cv2QuKKC2nusL67) - 4.4
+
+## Cartegena
+
+Founded by the Catheginians before the Romans wiped them out.
+
+There is a Roman
+
+### Parking in Cartegena
+
+There are blue zone parking spaces on the streets that are free on Sundays.
+I found places available on:
+
+- [Av Reina Victoria Eugenia](https://maps.app.goo.gl/e6VtBzjExzwD6Age9)
+
+For other days you'll probably need to use a car park like this:
+
+- [Parking Alameda](https://maps.app.goo.gl/WjJ8Hr5nTjSThcKa7)
+
+### Attractions in Cartegena
+
+- [Palacio Consistorial de Cartagena](https://maps.app.goo.gl/Tz8eVp4htowSmb946)
+- [Castillo de la Concepción](https://maps.app.goo.gl/9bnCfUucagcrSwqH7) - nice grounds with several lovely peacocks,
+  was €5 entry at the top, not much inside tbh
+- [Anfiteatro Romano y Plaza de Toros de Cartagena](https://maps.app.goo.gl/jpMxzoUYPrX4ybax7)
+- [Teatro Romano de Cartagena](https://maps.app.goo.gl/kvbZykqrZGMn2XT86)
+- [Molinete Roman Forum Museum](https://maps.app.goo.gl/xQiijMwiR2ATnGrw8)
+- [Puerto de Cartagena](https://maps.app.goo.gl/fP74Sy2kknad7yEt5) - see all the yachts parked in the bay
+- [Naval Museum Cartagena](https://maps.app.goo.gl/hqweeCmEMCu8iGcv6)
+
+### Restaurants in Cartegena
+
+- [Cotton Grill](https://maps.app.goo.gl/C1zYd52ud47f7bT87) - american burger chain, the angus royal burger was decent,
+  although it was €16 so this place probably drops some points on price
+
+TODO:
+
+- [Tiramisù-Gelateria](https://maps.app.goo.gl/7TjmR68Yz8zN9Jv69) - 4.9 ice cream
+- [The Curyy Corner](https://maps.app.goo.gl/3TEEAHtMFESdpUaH9) - 4.9, indian
+- [Bar restaurante Albedrío](https://maps.app.goo.gl/RbGnRALB6M3GjWiV7) - 4.6
 
 ## Castello de la Plana
 
