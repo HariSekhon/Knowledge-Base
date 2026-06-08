@@ -4,17 +4,17 @@
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/stargazers)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/commits/main)
 
-[![Total Countries](https://img.shields.io/badge/Total%20Countries-68-blue)](https://nomads.com/@harisekhon)
+[![Total Countries](https://img.shields.io/badge/Total%20Countries-73-blue)](https://nomads.com/@harisekhon)
 [![Countries in 2024](https://img.shields.io/badge/in%202024-20-blue)](https://nomads.com/@harisekhon)
 [![Countries in 2025](https://img.shields.io/badge/in%202025-35-blue)](https://nomads.com/@harisekhon)
-[![Countries in 2026](https://img.shields.io/badge/in%202026-23-blue)](https://nomads.com/@harisekhon)
-[![Unique Countries 2024+](https://img.shields.io/badge/Unique%20Countries%202024+-60-blue)](https://nomads.com/@harisekhon)
+[![Countries in 2026](https://img.shields.io/badge/in%202026-29-blue)](https://nomads.com/@harisekhon)
+[![Unique Countries 2024+](https://img.shields.io/badge/Unique%20Countries%202024+-66-blue)](https://nomads.com/@harisekhon)
 
-[![Total Cities](https://img.shields.io/badge/Total%20Cities-217-blue)](https://nomads.com/@harisekhon)
+[![Total Cities](https://img.shields.io/badge/Total%20Cities-243-blue)](https://nomads.com/@harisekhon)
 [![Cities in 2024](https://img.shields.io/badge/in%202024-70-blue)](https://nomads.com/@harisekhon)
 [![Cities in 2025](https://img.shields.io/badge/in%202025-89-blue)](https://nomads.com/@harisekhon)
-[![Cities in 2026](https://img.shields.io/badge/in%202026-46-blue)](https://nomads.com/@harisekhon)
-[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-192-blue)](https://nomads.com/@harisekhon)
+[![Cities in 2026](https://img.shields.io/badge/in%202026-72-blue)](https://nomads.com/@harisekhon)
+[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-218-blue)](https://nomads.com/@harisekhon)
 
 Short links to this page:
 
@@ -33,9 +33,10 @@ Updated regularly as I travel the world 52 weeks a year.
 <!-- INDEX_START -->
 
 - [Countries](#countries)
+  - [Beware - Visiting Countries that result in US ESTA Travel Ban](#beware---visiting-countries-that-result-in-us-esta-travel-ban)
   - [Europe](#europe)
   - [Asia](#asia)
-  - [Africa & Middle East](#africa--middle-east)
+  - [Middle East & Africa](#middle-east--africa)
   - [North America](#north-america)
   - [Caribbean](#caribbean)
   - [Central & South America](#central--south-america)
@@ -50,7 +51,8 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Flight Tips](#flight-tips)
     - [Book Ahead](#book-ahead)
     - [Cheaper Tickets via Transit Hubs](#cheaper-tickets-via-transit-hubs)
-    - [Cheaper Tickets via Date Flexibility](#cheaper-tickets-via-date-flexibility)
+    - [Cheaper Tickets via Date Shifting](#cheaper-tickets-via-date-shifting)
+    - [Latin American Flights Are Expensive](#latin-american-flights-are-expensive)
     - [Baggage Fees](#baggage-fees)
   - [Flight Booking Sites](#flight-booking-sites)
   - [Flight Deals from the US](#flight-deals-from-the-us)
@@ -117,9 +119,9 @@ Updated regularly as I travel the world 52 weeks a year.
 
 ## Countries
 
-Countries: 68
+Countries: 73
 
-Cities: 217
+Cities: 243
 
 - Countries in 2024: 20
   - Cities in 2024: 70
@@ -134,17 +136,40 @@ Cities: 217
     Romania, Hungary, Slovakia, Austria, Czechia, Poland, Germany, UK, Slovenia, Croatia, Montenegro, Albania,
     North Macedonia, Bosnia & Herzegovina, Ukraine, Moldova, Tunisia, Jordan, Lebanon, Spain, Mexico, Guatemala,
     El Salvador, Costa Rica, Panama, Colombia
-- Countries in 2026: 23
+- Countries in 2026: 29
   - Cities in 2025: 89
   - Countries: Colombia (continued), Ecuador, Peru, Bolivia, Chile, Argentina, Uruguay, Brazil, Paraguay, Curacao,
     Dominican Republic, Jamaica, Puerto Rico, Spain, Malta, Serbia, Hungary, Slovakia, Czechia, Germany, Belgium,
-    France, England
-- Unique Countries since Emigrating from the UK in 2024: 60
-  - Unique Cities since Emigrating from the UK in 2024: 192
+    France, UK, Luxembourg, Switzerland, Liechtenstein, Italy, Monaco, Andorra
+- Unique Countries since Emigrating from the UK in 2024: 66
+  - Unique Cities since Emigrating from the UK in 2024: 218
 
 Country pages with specific tips for each country:
 
 (a ⭐ next to a country represents it's one of my preferred ones)
+
+### Beware - Visiting Countries that result in US ESTA Travel Ban
+
+Travelling to any of the following countries will result in you being banned from a US ESTA to enter the USA:
+
+- Iraq
+- Iran
+- Libya
+- North Korea
+- Somalia
+- Sudan
+- Syria
+- Yemen
+
+Once that happens you will need to apply a a full US visa to enter any US territory,
+even Puerto Rico, even for a transit connecting flight -
+which severely limits your long distance flights which often require stopovers in US cities.
+
+The cost of a full US visa application is closer to \$200 instead of \$40 for the ESTA.
+
+From the US Gov website:
+
+[Visa Waiver Program](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html#:~:text=Visa%20Waiver%20Program%20Improvement%20and,Iraq%2C%20Sudan%2C%20or%20Syria.)
 
 ### Europe
 
@@ -163,9 +188,13 @@ Country pages with specific tips for each country:
 - [Georgia](travel/georgia.md)
 - [Germany](travel/germany.md)
 - [Hungary](travel/hungary.md)
-- [Italy](travel/italy.md)
+- [Italy](travel/italy.md) ⭐
 - [Latvia](travel/latvia.md)
 - [Lithuania](travel/lithuania.md)
+- [Luxembourg](travel/luxembourg.md)
+- [Liechtenstein](travel/liechtenstein.md)
+- [Malta](travel/malta.md) ⭐
+- [Monaco](travel/monaco.md)
 - [Moldova](travel/moldova.md)
 - [Montenegro](travel/montenegro.md)
 - [Netherlands](travel/netherlands.md)
@@ -199,7 +228,12 @@ Country pages with specific tips for each country:
 - [Thailand](travel/thailand.md) ⭐
 - [Vietnam](travel/vietnam.md) ⭐
 
-### Africa & Middle East
+### Middle East & Africa
+
+The Middle East is a mixed bag and varies greatly depending on the specific country.
+
+I have little interest in sub-saharan Africa as it is the worst civilization continent by a million miles -
+see my learnings from my time working in South Africa on its page below for shocking details.
 
 - [Jordan](travel/jordan.md) ⭐
 - [Lebanon](travel/lebanon.md)
@@ -214,6 +248,28 @@ Country pages with specific tips for each country:
 - [USA](travel/usa.md)
 - [Canada](travel/canada.md)
 - [Mexico](travel/mexico.md) ⭐
+
+### Caribbean
+
+The Caribbean is expensive due to being heavily reliant on imports and not having economy of scale.
+
+The Caribbean is not good value for money compared to many other tourist destinations in the world.
+
+Apparently the smaller the island the worse this gets (less economy of scale).
+
+After a while I decided to skip many of the remaining islands and move on as there are much better places in the world
+for less cost.
+
+It is generally also not a foodie destination,
+as if you're willing to pay high western prices I can find good restaurants anywhere in the world,
+and have done as evidenced in the many country specific pages.
+
+- [Curacao](travel/curacao.md)
+- [Cuba](travel/cuba.md) (skipped for reasons listed in page)
+- [Dominican Republic](travel/dominican-republic.md)
+- [Haiti](travel/haiti.md) (skipped for reasons listed in page)
+- [Jamaica](travel/jamaica.md)
+- [Puerto Rico](travel/puerto-rico.md) ⭐
 
 ### Central & South America
 
@@ -243,7 +299,7 @@ surprisingly still do not speak English.
 
 - [Argentina](travel/argentina.md) ⭐
 - [Bolivia](travel/bolivia.md)
-- [Brazil](travel/brazil.md) ⭐ (in-progress)
+- [Brazil](travel/brazil.md) ⭐
 - [Chile](travel/chile.md)
 - [Colombia](travel/colombia.md) ⭐
 - [Ecuador](travel/ecuador.md)
@@ -282,8 +338,13 @@ and beware that if you cancel the booking (eg. because you want to shorten the d
 your hostel to free up the bed on their system) you will lose both your deposit and access to the chat, and the customer
 service support cannot undo the cancellation for you either.
 
-[Kayak.com](https://www.kayak.com/) - usually cheaper than SkyScanner and had cheaper flights not found on Expedia.
-  lI prefer Kayak to SkyScanner because I can filter for flights including luggage in the price
+[Opodo](https://www.opodo.co.uk/) -
+recommended by a fellow traveller.
+They have a Prime yearly membership (paid monthly) that gives cheaper deals -
+useful for people that travel a lot
+
+[Kayak.com](https://www.kayak.com/) - sometimes cheaper than SkyScanner and had cheaper flights not found on Expedia.
+  I prefer Kayak to SkyScanner because I can filter for flights including luggage in the price
   and when following through to [eDreams](https://www.edreams.com/) or [Trip.com](https://trip.com/) flights I can
   upgrade to 25kg luggage for ~£4, which is important because I got charged $30 for having 22kg checked luggage in
   Asia - 2kg over the 20kg default luggage allowance of many airline flights there.
@@ -374,21 +435,27 @@ For long-distance flights to/from Europe, it's cheaper to book one flight to a m
 or Barcelona which benefit from the economy of scale of passengers, and then buy a separate budget ticket
 (Ryanair / EasyJet) for the final leg once you're in the region such as Europe.
 
-Btw I mention Europe here because the flights between Latin American countries are not as cheap as between European
-countries, and this is something you should budget extra for if travelling around Latin America.
+In Latin America, Puerto Rico is a cheaper transit hub I found.
+Bogota is also a transit hub for South America in general but it was significantly more expensive to fly to Europe from
+Bogota than Puerto Rico.
 
-#### Cheaper Tickets via Date Flexibility
+#### Cheaper Tickets via Date Shifting
 
 If you can be flexible about dates, check a few days either side of when you want to travel,
 as it's cheaper to travel on less busy days.
 
 For example, I spent 5 days in Madrid essentially for free by waiting for a cheaper long distance connecting flight
-there.
+from there to Cancun, Mexico.
 
 On the way back to Europe after touring Latin America,
 I flew to spend 8 days in Puerto Rico to wait to catch a cheap flight from there back to Europe.
 Even though Puerto Rico isn't that cheap for food or accommodation as its part of the US,
 the savings on the flight difference was several hundred which paid for most of the week there.
+
+#### Latin American Flights Are Expensive
+
+Flights between Latin American countries are not as cheap as between European countries or South East Asian countries,
+and this is something you should budget extra for if travelling around Latin America.
 
 #### Baggage Fees
 
@@ -405,14 +472,21 @@ enforced.
 
 ### Flight Booking Sites
 
-Ranked by my success in finding affordable flights
+Ranked by my success in finding affordable flights:
 
-- [Kayak.com](https://www.kayak.com/) - even cheaper than SkyScanner and had cheaper flights not found on Expedia
+- [Google Gemini AI](https://gemini.google.com/) - much easier to get it to find cheap flights including date shifting
+  since it's integrated with Google Flights
+  - [Google Flights](https://www.google.com/travel/flights) - don't bother using this directly, get Google AI to do the search work for you
+  - Update: the second time I tried using Gemini it didn't find the cheap flights on the dates I knew they were there
+    and I had to go back to comparison sites directly to pinpoint them homing in on the dates I already knew were the
+    cheapest from the previous AI analysis.
+    Even the same AI is super unreliable between runs and I would have lost £200 on the flight if just relying on AI
 - [SkyScanner.net](https://www.skyscanner.net/) - had cheaper flights that weren't even found on Expedia, and cheaper on the same flights too
+- [Kayak.com](https://www.kayak.com/) - even cheaper than SkyScanner and had cheaper flights not found on Expedia
 - [Booking.com](https://www.booking.com)
 - [Agoda.com](https://www.agoda.com/) - better for hotels than flights
 - [Expedia](https://expedia.co.uk) - fewer and more expensive flights
-- [Google Flights](https://www.google.com/travel/flights)
+- [Secret Flying](https://www.secretflying.com/) - powered by SkyScanner
 
 ### Flight Deals from the US
 
@@ -1264,20 +1338,13 @@ a year.
 
 Kosovo
 
+Kosovo has semi-independence and this is disputed by Serbia.
+
+It is breakaway due to a large Albanian population.
+
 Pristina
 
 - [Liburnia](https://maps.app.goo.gl/PAmycbRJ2gk2nTEJ9) - highly recommended by my travel buddy
 - [Bukë e Zemër](https://maps.app.goo.gl/DNi7sLHCn3PCmeEt9) - recommended by a frequent travel buddy of mine
-
--->
-
-<!--
-
-Luxembourg
-
-**Not Recommended**:
-
-- [Cyrano](https://www.tripadvisor.co.uk/Restaurant_Review-g190356-d950848-Reviews-Cyrano-Luxembourg_City.html) -
-  my travel bro said this was a waste of €30, could get better for half the price even back home in London
 
 -->
