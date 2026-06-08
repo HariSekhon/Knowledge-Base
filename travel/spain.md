@@ -64,12 +64,14 @@
 - Good Weather
 - Good Food - variety of cuisines and price points
 - Attractive People
-- Low Crime
 - Moderate Prices
+
+It is relatively low crime except for Barcelona.
 
 It has become one of my favourite countries in Europe and one I wish I'd discovered earlier in my life.
 
 Madrid is technically larger but Barcelona has a larger centre of interest with more to see and do.
+
 
 ## Food & Prices
 
