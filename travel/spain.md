@@ -986,10 +986,25 @@ Stopover city near Valencia towards Barcelona.
 
 ## Granada
 
-This is a popular city due to the Alhambra moorish palance.
+This is a popular city due to the famous Alhambra moorish palace -
+beware you need to book a ticket to that more than a week in advance!
+
+You need at least 2 days in Granada - one to explore the Alhambra, and another to explore the city.
+
+### Accommodation in Granada
 
 There is a lot of very affordable accommodation compared to other Spanish tourist destinations like Barcelona or
 Valencia or Benidorm.
+
+Gradana is small enough that you can just stay anywhere in the centre and walk.
+
+- [El Granado Hostel](https://maps.app.goo.gl/jedpFTq2RDKK3sXZ8) - decent dorms with privacy curtains, decent bathroom,
+  decent kitchen with stove (until 1am), quite co-working space downstairs next to reception (locked at 9pm).
+  Wifi 3/0.3 Mbit/s
+- [Black Swan Hostel](https://maps.app.goo.gl/YYnrThEZTF5JSwu98)
+- [The Central House Elvira](https://maps.app.goo.gl/ZdHobhcDqQYfPLv66)
+
+### Attractions in Granada
 
 Tickets to Alhambra were sold out a week in advance in June, so you'll need to book yours well ahead of time here:
 
@@ -998,6 +1013,34 @@ Tickets to Alhambra were sold out a week in advance in June, so you'll need to b
 This site also offered tickets but at double the price:
 
 <https://www.getyourguide.com/>
+
+- [Alhambra](https://maps.app.goo.gl/oR9uUET51o9j6dzm8) - the Moorish palace fortress that is the main attraction in
+  Granada and puts it on the map
+  - [Nasrid Palaces](https://maps.app.goo.gl/4DUVZk7EDGRhEfqd7)
+  - [Generalife](https://maps.app.goo.gl/d2NLtzsdTTwbQmTf9) - ancient muslim palace
+    - [Generalife Gardens](https://maps.app.goo.gl/cDLM2uMgU57BwBL49)
+- [Mirador de San Nicolás](https://maps.app.goo.gl/VqfB1eT9gcZWXiTL8) - the best viewpoint to see the grand Alhambra,
+  especially good at sunset, lots of people were already perched all over the walls
+  - [Mirador de la Lona](https://maps.app.goo.gl/cV6MxUBGuEhhiczD6)
+  - [Mirador Ojo de Granada](https://maps.app.goo.gl/cV6MxUBGuEhhiczD6) - another scenic vantage point
+- [Catedral de Granada](https://maps.app.goo.gl/QmKyAGxRuK43T8b26)
+  - [Royal Chapel of Granada](https://maps.app.goo.gl/X7G1wUPTwGyz1GoW9)
+- [Palacio de Dar al-Horra](https://maps.app.goo.gl/p1AwrrrnB3auo6kX8)
+- [Puerta de Elvira](https://maps.app.goo.gl/sfqyg8f4t2iiWgKt5)
+- [Basílica de San Juan de Dios](https://maps.app.goo.gl/o5q2udQGSVkyPKxa6)
+- [Carrera del Darro](https://maps.app.goo.gl/1n2tTSYBFHgQJ9Ce8) - popular tourist street
+- [Fuente de las Batallas](https://maps.app.goo.gl/xGMZHrvpSt656Kfu8) - fountain and plaza
+  - [Basílica Virgen de las Angustias](https://maps.app.goo.gl/odE8ba8UjGkK4kbS8)
+  - [Plaza de Bibataubín](https://maps.app.goo.gl/4hXxRgkUYetQk3N58)
+  - [Fuente de las Granadas](https://maps.app.goo.gl/AA95iBd1nvovikGb6) - fountain at the other end
+- [Monumento a Felix Rodriguez de la Fuente](https://maps.app.goo.gl/y67YGfXSh2nHiDE8A)
+- [Puente Zirí](https://maps.app.goo.gl/gBHWF4MgtgVMt5VdA) - bridge
+- [Botanical Garden of the University of Granada](https://maps.app.goo.gl/MaAQAmvWiEGdbPLDA)
+- [Plaza de la Libertad](https://maps.app.goo.gl/RtPTcJWJFNPAXL1t9)
+
+### Restaurants in Granada
+
+- []
 
 ## Ferry Between Ibiza and Mallorca
 
