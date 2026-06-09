@@ -6,6 +6,7 @@
 - [Food & Prices](#food--prices)
 - [Population](#population)
 - [Crime](#crime)
+- [Economy](#economy)
 - [Taxi Apps](#taxi-apps)
 - [Driving in Spain](#driving-in-spain)
 - [ATMs in Spain](#atms-in-spain)
@@ -115,7 +116,20 @@ It's crime rate is actually lower than Europe in general, which is already very 
 The only regions safer are the historically high quality civilizations of the Far East,
 and the rich strict law Gulf countries.
 
+Unfortunately, I have to caveat this as not Barcelona, and also,
+that this is likely to change with ever more immigration from Africa.
+
 [![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=UN_EUR~GBR~Eastern+Asia+%28UN%29~ESP~OWID_WRL~Sub-Saharan+Africa+%28UN%29)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=UN_EUR~GBR~Eastern+Asia+%28UN%29~ESP~UN_AFR~OWID_WRL)
+
+## Economy
+
+The Spanish economy has a major problem, like the UK, most new hires are going to immigrants
+and with 20% of the country already replaced this is also making the housing situation terrible for locals
+as well as high youth unemployment with the locals not benefitting from what economy there is.
+
+See this Finance Bureau video for more details:
+
+[![Spain's Economy is a Scam](https://img.youtube.com/vi/7vVu-d0WjhM/0.jpg)](https://www.youtube.com/watch?v=7vVu-d0WjhM)
 
 ## Taxi Apps
 
