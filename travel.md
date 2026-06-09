@@ -137,7 +137,7 @@ Cities: 256
     North Macedonia, Bosnia & Herzegovina, Ukraine, Moldova, Tunisia, Jordan, Lebanon, Spain, Mexico, Guatemala,
     El Salvador, Costa Rica, Panama, Colombia
 - Countries in 2026: 29
-  - Cities in 2025: 89
+  - Cities in 2026: 89
   - Countries: Colombia (continued), Ecuador, Peru, Bolivia, Chile, Argentina, Uruguay, Brazil, Paraguay, Curacao,
     Dominican Republic, Jamaica, Puerto Rico, Spain, Malta, Serbia, Hungary, Slovakia, Czechia, Germany, Belgium,
     France, UK, Luxembourg, Switzerland, Liechtenstein, Italy, Monaco, Andorra
