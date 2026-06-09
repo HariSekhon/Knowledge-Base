@@ -125,7 +125,7 @@ that this is likely to change with ever more immigration from Africa.
 
 The Spanish economy has a major problem, like the UK, most new hires are going to immigrants
 and with 20% of the country already replaced this is also making the housing situation terrible for locals
-as well as high youth unemployment with the locals not benefitting from what economy there is.
+as well as high youth unemployment with the locals not benefitting from the economy.
 
 See this Finance Bureau video for more details:
 
