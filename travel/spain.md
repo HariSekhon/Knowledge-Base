@@ -1205,7 +1205,15 @@ There is a lot of nice architecture to wander around, I've probably missed some 
   lots of mozzarella and well made thick outer crust rim and garnished with fresh basil, I see why this is a bestseller,
   but it is very heavy like the waitress said. I think it was due to the fattening mozzarella. They give you the roller
   cutter to cut it up yourself. I’d have to mark it down for charging €3 for water and No WiFi unfortunately
+- [Honest Greens Pascual y Genís](https://maps.app.goo.gl/pXK2pCqx9DFaWCkPA) - good chain, reviewed under Madrid section
+- [TKO Tacos Ruzafa](https://maps.app.goo.gl/uWp1Ejyr879h9hqZ7) - good & cheap chain, reviewed under Madrid section
+- [Empanadas Malvón](https://maps.app.goo.gl/KPHzXVmLb4WHyfHg8) - ok for a snack
+- [Gelateria La Romana dal 1947](https://maps.app.goo.gl/TbbnkkEdvsTQpJyXA) - popular gelateria but I thought the
+  portion size was small compared to other ones
+- [Lucciano's](https://maps.app.goo.gl/HRUffBuok1zHHXtc6) - good quality gelateria chain first reviewed in Argentina
 
 TODO:
 
-- [Empanadas Malvón](https://maps.app.goo.gl/KPHzXVmLb4WHyfHg8) - 4.9
+- [VIPS](https://maps.app.goo.gl/hGHU8rs6qkwZLdpeA) - 4.8
+- [Casa Orxata, Bio Horchata](https://maps.app.goo.gl/Ub87KXL1RjrAMGpF8) - 4.7
+- [Hundred Burgers](https://maps.app.goo.gl/FdWpjxfqRBrLMht97) - 4.7
