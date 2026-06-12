@@ -1201,16 +1201,19 @@ There is a lot of nice architecture to wander around, I've probably missed some 
 
 ### Restaurants in Valencia
 
-- [Al Pomodoro | Pizzería italiana artesanal](https://maps.app.goo.gl/u9USMCuj53UFxTdE7) - The meatballs pizza was good,
+- [Al Pomodoro | Pizzería italiana artesanal](https://maps.app.goo.gl/u9USMCuj53UFxTdE7) - the meatballs pizza was good,
   lots of mozzarella and well made thick outer crust rim and garnished with fresh basil, I see why this is a bestseller,
   but it is very heavy like the waitress said. I think it was due to the fattening mozzarella. They give you the roller
-  cutter to cut it up yourself. I’d have to mark it down for charging €3 for water and No WiFi unfortunately
+  cutter to cut it up yourself.
+  I’d have to mark it down for charging €3 for table water though, and no WiFi unfortunately
 - [Honest Greens Pascual y Genís](https://maps.app.goo.gl/pXK2pCqx9DFaWCkPA) - good chain, reviewed under Madrid section
 - [TKO Tacos Ruzafa](https://maps.app.goo.gl/uWp1Ejyr879h9hqZ7) - good & cheap chain, reviewed under Madrid section
-- [Empanadas Malvón](https://maps.app.goo.gl/KPHzXVmLb4WHyfHg8) - ok for a snack
+- [Greek Frozen Yogurt](https://maps.app.goo.gl/5nZwQ52LJCtC5gJQ7)
+- [Amazonia Açaí Valencia Plaza Redonda](https://maps.app.goo.gl/ptypaGGZRoEwWA8u7)
 - [Gelateria La Romana dal 1947](https://maps.app.goo.gl/TbbnkkEdvsTQpJyXA) - popular gelateria but I thought the
   portion size was small compared to other ones
 - [Lucciano's](https://maps.app.goo.gl/HRUffBuok1zHHXtc6) - good quality gelateria chain first reviewed in Argentina
+- [Empanadas Malvón](https://maps.app.goo.gl/KPHzXVmLb4WHyfHg8) - ok for a snack
 
 TODO:
 
