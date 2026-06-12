@@ -1217,6 +1217,8 @@ There is a lot of nice architecture to wander around, I've probably missed some 
 
 TODO:
 
+- [Burgers Food Terrace](https://maps.app.goo.gl/JigdcVgkP7rXjJ3o8) - 4.8, hidden away on a side street, looks like a
+  foodie place
 - [VIPS](https://maps.app.goo.gl/hGHU8rs6qkwZLdpeA) - 4.8
 - [Casa Orxata, Bio Horchata](https://maps.app.goo.gl/Ub87KXL1RjrAMGpF8) - 4.7
 - [Hundred Burgers](https://maps.app.goo.gl/FdWpjxfqRBrLMht97) - 4.7
