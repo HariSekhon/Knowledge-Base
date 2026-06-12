@@ -1184,6 +1184,7 @@ There is a lot of nice architecture to wander around, I've probably missed some 
   - [Patrón de Valencia](https://maps.app.goo.gl/DbMQBwojCwr69bvm7)
   - [Turia Fountain](https://maps.app.goo.gl/QYqWntepGkFrN8G36)
 - [Palacio de la Generalidad Valenciana](https://maps.app.goo.gl/ys3diMpdLDYs7hA99)
+- [Plaza Redonda](https://maps.app.goo.gl/6yGx14i2XoMv9SGb6)
 - [La Lonja de la Seda de Valencia](https://maps.app.goo.gl/XCY2tjWsLNaQvtM47)
 - [Casco antiguo de Valencia](https://maps.app.goo.gl/vFDU1Rkvm5ounYnZA)
 - [Torres de Serranos](https://maps.app.goo.gl/PU99dNpqUcWwSosL9)
