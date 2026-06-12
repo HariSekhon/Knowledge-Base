@@ -50,8 +50,8 @@
   - [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
 - [Peniscola](#peniscola)
 - [Tarragona](#tarragona)
-- [Seville](#seville)
-  - [Where to Stay in Seville](#where-to-stay-in-seville)
+- [Sevilla](#sevilla)
+  - [Where to Stay in Sevilla](#where-to-stay-in-sevilla)
 - [Valencia](#valencia)
   - [Attractions in Valencia](#attractions-in-valencia)
   - [Restaurants in Valencia](#restaurants-in-valencia)
@@ -1151,18 +1151,52 @@ Roman historic beach town.
   centre
 - [Aparcament Torroja](https://maps.app.goo.gl/qAbMcQooFjPBDjCdA) - free parking 15 minutes walk from town centre
 
-## Seville
+## Sevilla
 
-### Where to Stay in Seville
+### Where to Stay in Sevilla
 
 - [JOY Plaza de Armas](https://maps.app.goo.gl/a6TUffK98D8AmVZn9) - recommended by a fellow traveller
-  <!-- Majd in Madrid -->
+  <!-- Majd in Madrid -->, decent, full kitchen, rooftop bar
 
 ## Valencia
 
+Valencia has lovely architecture and is well worth a weekend visit.
+
+Very walkable centre with lots of restaurants and gelaterias.
+
+<!--
+
+- [Purple Nest Hostel Valencia](https://maps.app.goo.gl/sRsAF4ospBtvRdds9) - decent, with a full kitchen
+
+-->
+
 ### Attractions in Valencia
 
-- []
+There is a lot of nice architecture to wander around, I've probably missed some of it.
+
+- [Valencia City Hall](https://maps.app.goo.gl/6RnNGb6DVdUuwx6w9)
+  - [Fuente de la Plaza del Ayuntamiento](https://maps.app.goo.gl/Qyg8g4r7QRHWpkjE9) - large fountain
+  - [Edificio Banco de Valencia](https://maps.app.goo.gl/St5KsdSWeuW9nbVWA) - central bank of Valencia, historic building
+- [Valencia Cathedral](https://maps.app.goo.gl/3NXaBwr3oyLxnJuX9)
+- [El Micalet](https://maps.app.goo.gl/92gHpN8C9fAjJQnf6)
+- [Real Basílica de Nuestra Señora de los Desamparados](https://maps.app.goo.gl/V44NTu6yrWmGkpXD7)
+  - [Pasaje de Emilio Aparicio Olmos](https://maps.app.goo.gl/KdKJxocHzX9wcj7d7)
+  - [Patrón de Valencia](https://maps.app.goo.gl/DbMQBwojCwr69bvm7)
+  - [Turia Fountain](https://maps.app.goo.gl/QYqWntepGkFrN8G36)
+- [Palacio de la Generalidad Valenciana](https://maps.app.goo.gl/ys3diMpdLDYs7hA99)
+- [La Lonja de la Seda de Valencia](https://maps.app.goo.gl/XCY2tjWsLNaQvtM47)
+- [Casco antiguo de Valencia](https://maps.app.goo.gl/vFDU1Rkvm5ounYnZA)
+- [Torres de Serranos](https://maps.app.goo.gl/PU99dNpqUcWwSosL9)
+- [Quart Towers](https://maps.app.goo.gl/cHUQY78MUTwhtsfj7)
+- [Iglesia Parroquial de San Nicolás de Bari y San Pedro Mártir](https://maps.app.goo.gl/7EHEWyLRFjSkyQ3b8)
+- [Puerta del Mar](https://maps.app.goo.gl/JKmRh6oaqQ6QDomCA)
+- [Centro de Arte Hortensia Herrero](https://maps.app.goo.gl/itD3R4aJrARWh7Kx9) - art museum
+- [Teatro Principal de Valencia](https://maps.app.goo.gl/esh1GBueuQPRaQaq8)
+- Beaches - these are far removed from the main city centre and not the main attraction of Valencia
+  - [Malvarrosa beach](https://maps.app.goo.gl/BKfTqTXQC1sq14P8A)
+  - [Platja del Cabanyal](https://maps.app.goo.gl/JEAHPietPeeKWEyU6)
+  - [Platja de Llevant](https://maps.app.goo.gl/nXMDvZmT1HGNFMNMA)
+  - [Platja de la Patacona](https://maps.app.goo.gl/CQwCACu6TpXfS7GN9)
 
 ### Restaurants in Valencia
 
