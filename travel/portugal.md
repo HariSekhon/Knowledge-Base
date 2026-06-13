@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Faro](#faro)
+  - [Parking in Faro](#parking-in-faro)
   - [Restaurants in Faro](#restaurants-in-faro)
 - [Lagos](#lagos)
 
@@ -11,6 +12,17 @@
 ## Faro
 
 Small town, you can walk around it in around half an hour.
+
+Even here in this small town there were clearly illegal African immigrants.
+
+### Parking in Faro
+
+These two large parking lots are free and right next to the centre of town - if only everywhere had this!
+
+There was a portugese looking guy _"helping"_ to direct cars and then asking for spare euros though... 😒
+
+- [Faro Free parking zone](https://maps.app.goo.gl/SEER2ZczSfbpqKxC7)
+- [Estacionamento](https://maps.app.goo.gl/ckq85AMyeBM874Bo7)
 
 ### Restaurants in Faro
 
