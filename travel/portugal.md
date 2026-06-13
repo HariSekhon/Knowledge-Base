@@ -4,6 +4,7 @@
 
 - [Faro](#faro)
   - [Parking in Faro](#parking-in-faro)
+  - [Attractions in Faro](#attractions-in-faro)
   - [Restaurants in Faro](#restaurants-in-faro)
 - [Lagos](#lagos)
 
@@ -23,6 +24,10 @@ There was a portugese looking guy _"helping"_ to direct cars and then asking for
 
 - [Faro Free parking zone](https://maps.app.goo.gl/SEER2ZczSfbpqKxC7)
 - [Estacionamento](https://maps.app.goo.gl/ckq85AMyeBM874Bo7)
+
+### Attractions in Faro
+
+- [Belmarço Palace](https://maps.app.goo.gl/MSXW7b8rHou8VbQR7)
 
 ### Restaurants in Faro
 
