@@ -1,5 +1,13 @@
 # Portugal
 
+<!-- INDEX_START -->
+
+- [Faro](#faro)
+  - [Restaurants in Faro](#restaurants-in-faro)
+- [Lagos](#lagos)
+
+<!-- INDEX_END -->
+
 ## Faro
 
 Small town, you can walk around it in around half an hour.
