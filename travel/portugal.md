@@ -13,7 +13,7 @@
 
 Small town, you can walk around it in around half an hour.
 
-Even here in this small town there were clearly illegal African immigrants.
+Even here in this small town there were clearly illegal African immigrants, like in the towns across Spain.
 
 ### Parking in Faro
 
