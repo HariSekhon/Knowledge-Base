@@ -98,9 +98,9 @@ Bigger more touristy town than Faro.
 
 TODO:
 
+- [Casinha do Petisco](https://maps.app.goo.gl/UQQvW1GDqnhbCsLq5) - 4.7, recommended by fellow travellers
 - [Búteo](https://maps.app.goo.gl/ZLQGEVdHAEfgNGu89) - 4.9
 - [BUeNI Restaurante](https://maps.app.goo.gl/eUKijDmt3uAP2G8h6) - 4.9
-- [Casinha do Petisco](https://maps.app.goo.gl/UQQvW1GDqnhbCsLq5) - 4.7, recommended by fellow travellers
 - [The Underdog Kitchen & Good Times](https://maps.app.goo.gl/owery16pvjxpLxpB8) - 4.8
 - [Nah Nah Bah](https://maps.app.goo.gl/K2gxzt3jtkcTPpDt5) - 4.5
 - [Twin Fin](https://maps.app.goo.gl/pTZo6YTA24c6Kvmk6) - 4.8
