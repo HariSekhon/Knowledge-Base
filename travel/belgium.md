@@ -116,10 +116,14 @@ TODO:
 
 City with a mix of old and new, not quite as nice as Bruges, but better than Brussels.
 
-[Seli's Noodle Bar](https://www.selinoodlebar.be/) and [Soup Lounge](https://www.souplounge.be/) are both recommended
-here, and both are very affordable.
+These two places are both good and affordable:
+
+- [Seli's Noodle Bar](https://www.selinoodlebar.be/)
+- [Soup Lounge](https://www.souplounge.be/)
 
 ## Liege
 
 Liege is worse than Brussels, with high incidence of homelessness, a crime ridden feeling and people approaching you for
 money in the streets.
+
+I do not recommend visiting Liege.
