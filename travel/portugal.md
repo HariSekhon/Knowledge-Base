@@ -8,6 +8,7 @@
   - [Restaurants in Faro](#restaurants-in-faro)
 - [Lagos](#lagos)
   - [Parking in Lagos](#parking-in-lagos)
+  - [Attractions in Lagos](#attractions-in-lagos)
   - [Restaurants in Lagos](#restaurants-in-lagos)
 
 <!-- INDEX_END -->
@@ -69,6 +70,17 @@ Bigger more touristy town than Faro.
   I parked on one of the nearby roads
 - [Largo do Rossio de São João Batista](https://maps.app.goo.gl/CB8gTzopqaZUAFXX8) -
   a bit further away, about a 20 minute walk, but has some free street parking
+
+### Attractions in Lagos
+
+- [Castle of Lagos](https://maps.app.goo.gl/38LQ4RPnCwN9XivF9)
+- [Church of Saint Anthony](https://maps.app.goo.gl/o4NiM4YKY3QL72mC8)
+- [Praia da Batata](https://maps.app.goo.gl/5dPJK1V9HkHdD4cQ6)  - beach
+- [Praia dos Estudantes](https://maps.app.goo.gl/CWEX4koow3Sxun977) - beach cove
+- [Farolim Molhe Leste](https://maps.app.goo.gl/QvvMPPhxiAMPNKZq9)
+- [Forte Ponta da Bandeira](https://maps.app.goo.gl/mxL2FTMBbdKJQ8R27) - fortress
+- [Museu de Lagos Dr. José Formosinho](https://maps.app.goo.gl/Hen6aBoEPxFBvK3K8)
+- [Street art](https://maps.app.goo.gl/cBzjN8dwCUT1U12u7)
 
 ### Restaurants in Lagos
 
