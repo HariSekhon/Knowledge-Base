@@ -98,10 +98,13 @@ Bigger more touristy town than Faro.
 
 TODO:
 
+- [Gelataria Gloosi By Artisani](https://maps.app.goo.gl/sbLvyMat4bK2menN8) - 4.9 ice cream
+- [Gelato e amore](https://maps.app.goo.gl/BbcZKCCHkjcCdy428) - 4.9 ice cream
 - [Casinha do Petisco](https://maps.app.goo.gl/UQQvW1GDqnhbCsLq5) - 4.7, recommended by fellow travellers
 - [Restaurante O Lamberto](https://maps.app.goo.gl/WZ1GzQPA8XRfhXtw6) - 4.6
 - [Búteo](https://maps.app.goo.gl/ZLQGEVdHAEfgNGu89) - 4.9
 - [BUeNI Restaurante](https://maps.app.goo.gl/eUKijDmt3uAP2G8h6) - 4.9
+- [Factory Fusion Hub](https://maps.app.goo.gl/JJEttd3J8Wi45c379) - 4.8
 - [The Underdog Kitchen & Good Times](https://maps.app.goo.gl/owery16pvjxpLxpB8) - 4.8
 - [Nah Nah Bah](https://maps.app.goo.gl/K2gxzt3jtkcTPpDt5) - 4.5
 - [Twin Fin](https://maps.app.goo.gl/pTZo6YTA24c6Kvmk6) - 4.8
