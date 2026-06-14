@@ -106,4 +106,5 @@ TODO:
 - [Twin Fin](https://maps.app.goo.gl/pTZo6YTA24c6Kvmk6) - 4.8
 - [O Da Mariia](https://maps.app.goo.gl/o4kpR3R2XvW6xySaA) - 4.7
 - [Matobiche](https://maps.app.goo.gl/cdxBBTuXRVHmNotR7) - 4.6
+- [Mar d'Estórias](https://maps.app.goo.gl/YBosxaiLvkVSia3p8) - 4.5
 - [Indigo Bar](https://maps.app.goo.gl/zzrTeRve5DF3ikMz7) - 4.5
