@@ -28,6 +28,17 @@ There was a portugese looking guy _"helping"_ to direct cars and then asking for
 ### Attractions in Faro
 
 - [Belmarço Palace](https://maps.app.goo.gl/MSXW7b8rHou8VbQR7)
+- [Muralhas de Faro](https://maps.app.goo.gl/MmEJ5ggNYepKvxXj6) - castle
+- [Faro Cathedral](https://maps.app.goo.gl/Zv948XRPjqKzi2Wq5)
+- [Faro old town](https://maps.app.goo.gl/w5NzihQHehyQeH4g9)
+- [Coreto do Jardim Manuel Bivar](Coreto do Jardim Manuel Bivar)
+- ["FARO" Sign](https://maps.app.goo.gl/uaHpnieQe48r8RFu9)
+- [Faro Marina](https://maps.app.goo.gl/hzf1KFJnivYg3CSE7) - yachts
+- [Busto de João de Deus](https://maps.app.goo.gl/av3UMbSzLN6nYvnE6)
+- [Arco da Rua Monsenhor Boto](https://maps.app.goo.gl/vyJd9xUYyb2XFZMe8)
+- [Municipal Museum of Faro](https://maps.app.goo.gl/ysgKdzhiK6yBfQ8x8)
+- [Memorial dos Pescadores Farenses](https://maps.app.goo.gl/qj2jmACiiiaDJa777) - by the car park
+- [Jardim da Alameda João de Deus](https://maps.app.goo.gl/LufKTgR8iaR7bAny8) - further out, I skipped this one
 
 ### Restaurants in Faro
 
