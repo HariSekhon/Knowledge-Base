@@ -72,8 +72,8 @@ Bigger more touristy town than Faro.
 
 ### Restaurants in Lagos
 
-- [Casa do Prego](https://maps.app.goo.gl/ba1pEFLi8knkyb5y7) - popular and well rated, there is usually a queue to get
-  in.
+- [Casa do Prego](https://maps.app.goo.gl/ba1pEFLi8knkyb5y7) - popular and well rated, recommended by fellow travellers.
+  There is usually a queue to get in.
   It’s not cheap, mains are over €20, pregos (sandwiches) around €15 and starters €10-15, so expect to spend €20-35 per
   head, plus drinks.
   The chicken breast marinated in lime and coriander with grilled red peppers was ok, the rustic chip slices were good.
@@ -83,3 +83,7 @@ Bigger more touristy town than Faro.
   Loud Jamaican music.
   Yes they think they’re trendy, it’s one of those places.
   Fast WiFi 430/111 Mbit/s
+
+TODO:
+
+- [Casinha do Petisco](https://maps.app.goo.gl/UQQvW1GDqnhbCsLq5) - 4.7, recommended by fellow travellers
