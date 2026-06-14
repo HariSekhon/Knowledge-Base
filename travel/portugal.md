@@ -7,6 +7,8 @@
   - [Attractions in Faro](#attractions-in-faro)
   - [Restaurants in Faro](#restaurants-in-faro)
 - [Lagos](#lagos)
+  - [Parking in Lagos](#parking-in-lagos)
+  - [Restaurants in Lagos](#restaurants-in-lagos)
 
 <!-- INDEX_END -->
 
@@ -60,3 +62,24 @@ TODO:
 ## Lagos
 
 Bigger more touristy town than Faro.
+
+### Parking in Lagos
+
+- [Parking](https://maps.app.goo.gl/uZNsXCQ1aBHFmctt7) - small free parking lot, difficult to find places.
+  I parked on one of the nearby roads
+- [Largo do Rossio de São João Batista](https://maps.app.goo.gl/CB8gTzopqaZUAFXX8) -
+  a bit further away, about a 20 minute walk, but has some free street parking
+
+### Restaurants in Lagos
+
+- [Casa do Prego](https://maps.app.goo.gl/ba1pEFLi8knkyb5y7) - popular and well rated, there is usually a queue to get
+  in.
+  It’s not cheap, mains are over €20, pregos (sandwiches) around €15 and starters €10-15, so expect to spend €20-35 per
+  head, plus drinks.
+  The chicken breast marinated in lime and coriander with grilled red peppers was ok, the rustic chip slices were good.
+  The prawns garlic and ginger sauce starter was good with 5 big prawns with heads still on.
+  I used the rest of this sauce on the chicken breast as its good, the chicken breast itself needed more lime IMO.
+  Their iced teas as just Fuze tea in a glass bottle.
+  Loud Jamaican music.
+  Yes they think they’re trendy, it’s one of those places.
+  Fast WiFi 430/111 Mbit/s
