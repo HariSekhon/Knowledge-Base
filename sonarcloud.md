@@ -4,10 +4,47 @@ Cloud hosted version of [SonarQube](sonarqube.md).
 
 <!-- INDEX_START -->
 
+- [SonarCloud Token](#sonarcloud-token)
+- [SonarCloud GitHub Actions Workflow](#sonarcloud-github-actions-workflow)
 - [SonarCloud Config](#sonarcloud-config)
 - [Generate config for the IntelliJ SonarLint plugin](#generate-config-for-the-intellij-sonarlint-plugin)
 
 <!-- INDEX_END -->
+
+## SonarCloud Token
+
+Get a `SONAR_TOKEN` token for the repo under the SonarCloud repo's dashboard on the left pane
+-> `Administration` -> `Analysis Method` -> `With GitHub Actions`.
+
+<https://sonarcloud.io/project/configuration/GitHubActions?id=<USER_REPO>>
+
+Copy this token into your CI/CD environment settings for the SonarCloud workflow to pick up.
+
+## SonarCloud GitHub Actions Workflow
+
+There is a ready made GitHub Reusable Workflow at:
+
+[:octocat: HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions)
+
+You can import it very easily by creating this file:
+
+```text
+.github/workflows/sonarcloud.yaml
+```
+
+with these contents:
+
+```shell
+on: [push]
+jobs:
+  SonarCloud:
+    name: SonarCloud
+    uses: HariSekhon/GitHub-Actions/.github/workflows/sonarcloud.yaml@master
+    secrets:
+      SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+```
+
+For more tips see the on [GitHub Actions](github-actions.md) page.
 
 ## SonarCloud Config
 
