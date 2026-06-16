@@ -26,6 +26,23 @@ The capital
 
 -->
 
+### Restaurants in Lisbon
+
+TODO:
+
+- [Olá Nepal -Marques -Indian restaurant](https://maps.app.goo.gl/WzmFwRvYA4wrjHSF9) - 4.8
+- [Royal Spice](https://maps.app.goo.gl/ErCDk5hYhwp665x66) - 4.8
+- [Everest Montanha](https://maps.app.goo.gl/q6VBEEriSeN5mbNm6) - 4.7
+- [Kazi Eatery](https://maps.app.goo.gl/1wBg6hq1t2jSXDAJA) - 4.9 asian fusion
+- [PONTO COM Sabores - Restaurante Em Lisboa](https://maps.app.goo.gl/BYGwddgLFMKz18Uk6) - 4.9
+- [Taco Locoo Mexican restaurant and cocktails bar](https://maps.app.goo.gl/cYVTvdprYasYkaHHA) - 4.7
+- [Luka Lisboa](https://maps.app.goo.gl/Mv5ccY4bpyv8tosCA) - 4.7
+- [Manifest Lisbon - Brunch & Specialty Coffee](https://maps.app.goo.gl/fBhasAZoca5q9kCo9) - 4.5
+- [H5 Texas Burger -Avenida](https://maps.app.goo.gl/BPmKz6ctHKTZU49FA) - 4.8
+- [Koppu Ramen Izakaya Avenida](https://maps.app.goo.gl/ykFEcfJxMTp85wLz9) - 4.6 japanese ramen
+- [Fusion Grill](https://maps.app.goo.gl/YdZuRibH8BsWuGTV6) - 4.9
+- [Zaataria](https://maps.app.goo.gl/7WC4PRkCZen6NjJY7) - 4.8 lebanese
+
 ## Faro
 
 Small town, you can walk around it in around half an hour.
