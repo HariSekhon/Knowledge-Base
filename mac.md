@@ -813,7 +813,13 @@ outputs:
 com.jetbrains.intellij.ce
 ```
 
-Then set it to be the default application for `.sh` extension files (instead of the Xcode.app editor which is the
+The name of your IntelliJ app may be different depending on your version, you can use this one liner to find it:
+
+```shell
+printf '%s\n' /Applications/IntelliJ*.app | awk -F/ '{print $NF}' | sed 's/\.app$//'
+```
+
+Then set the ID to be the default application for `.sh` extension files (instead of the Xcode.app editor which is the
 standard default):
 
 ```shell
