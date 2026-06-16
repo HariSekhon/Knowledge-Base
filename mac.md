@@ -38,6 +38,8 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Raycast](#raycast)
 - [Alfred](#alfred)
 - [AppleScript](#applescript)
+- [Automator](#automator)
+  - [Drag Files onto App to execute a script against them](#drag-files-onto-app-to-execute-a-script-against-them)
 - [Commands](#commands)
   - [Spotlight - Search for or Open anything](#spotlight---search-for-or-open-anything)
   - [Open URL from Terminal output](#open-url-from-terminal-output)
@@ -53,8 +55,6 @@ heavyweight IDEs like [IntelliJ](intellij.md).
       - [Set VLC to open AVI files](#set-vlc-to-open-avi-files)
       - [Set Chrome to open SVG files](#set-chrome-to-open-svg-files)
       - [Set Editor to open Shell Scripts](#set-editor-to-open-shell-scripts)
-  - [Automator](#automator)
-    - [Drag Files onto App to execute a script against them](#drag-files-onto-app-to-execute-a-script-against-them)
   - [Clipboard](#clipboard)
   - [System Information](#system-information)
   - [Screenshots](#screenshots)
@@ -633,6 +633,40 @@ has many more Bash scripts that work on macOS and a bit of [Python](python.md) w
 
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=DevOps-Bash-tools&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 
+## Automator
+
+Mac's Automator is awesome - it allows you to generate MacOS apps that look and work like real Mac applications
+using a custom workflow that can execute many native mac or external actions including running shell scripts.
+
+### Drag Files onto App to execute a script against them
+
+You can create an Automator app that you can drag any file onto in Finder to have it execute any program such as a
+shell script with that file as the first argument.
+
+Open Automator:
+
+```shell
+open -a Automator
+```
+
+Then click `New` -> from the list of actions, drag `Run Shell Script` to the right hand pane.
+
+On the top right of the shell script box that appears on the canvass,
+change the drop down for `Pass Input` to `as arguments`.
+
+Paste the following script into the code box:
+
+```shell
+for file in "$@"; do
+    /path/to/your/script.sh "$file"
+done
+```
+
+The script will not inherit all your fancy `.bashrc` environment so ensure
+that `\$PATH` to tools and environment variables are set or sourced in the script itself for portability.
+
+Save this as some `<name>.app` and you will then be able to drag any file onto it in Finder to have it execute.
+
 ## Commands
 
 A list of commands is provided at <https://ss64.com/mac/>.
@@ -785,40 +819,6 @@ standard default):
 ```shell
 duti -s com.jetbrains.intellij.ce sh all
 ```
-
-### Automator
-
-Mac's Automator is awesome - it allows you to generate MacOS apps that look and work like real Mac applications
-using a custom workflow that can execute many native mac or external actions including running shell scripts.
-
-#### Drag Files onto App to execute a script against them
-
-You can create an Automator app that you can drag any file onto in Finder to have it execute any program such as a
-shell script with that file as the first argument.
-
-Open Automator:
-
-```shell
-open -a Automator
-```
-
-Then click `New` -> from the list of actions, drag `Run Shell Script` to the right hand pane.
-
-On the top right of the shell script box that appears on the canvass,
-change the drop down for `Pass Input` to `as arguments`.
-
-Paste the following script into the code box:
-
-```shell
-for file in "$@"; do
-    /path/to/your/script.sh "$file"
-done
-```
-
-The script will not inherit all your fancy `.bashrc` environment so ensure
-that `\$PATH` to tools and environment variables are set or sourced in the script itself for portability.
-
-Save this as some `<name>.app` and you will then be able to drag any file onto it in Finder to have it execute.
 
 ### Clipboard
 
