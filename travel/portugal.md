@@ -29,15 +29,18 @@ The capital
 
 ### Restaurants in Lisbon
 
+- [Royal Spice](https://maps.app.goo.gl/ErCDk5hYhwp665x66) - good menu, moderate prices.
+  Wifi 90/90 Mbit/s
+
 TODO:
 
+- [Taco Locoo Mexican restaurant and cocktails bar](https://maps.app.goo.gl/cYVTvdprYasYkaHHA) - 4.7, Mexican,
+  try the white fish/salmon ceviche or beef/chicken fajita or chilli con carne
 - [Olá Nepal -Marques -Indian restaurant](https://maps.app.goo.gl/WzmFwRvYA4wrjHSF9) - 4.8
-- [Royal Spice](https://maps.app.goo.gl/ErCDk5hYhwp665x66) - 4.8
 - [Everest Montanha](https://maps.app.goo.gl/q6VBEEriSeN5mbNm6) - 4.7
 - [Kazi Eatery](https://maps.app.goo.gl/1wBg6hq1t2jSXDAJA) - 4.9 asian fusion
 - [PONTO COM Sabores - Restaurante Em Lisboa](https://maps.app.goo.gl/BYGwddgLFMKz18Uk6) - 4.9
-- [Taco Locoo Mexican restaurant and cocktails bar](https://maps.app.goo.gl/cYVTvdprYasYkaHHA) - 4.7
-- [Luka Lisboa](https://maps.app.goo.gl/Mv5ccY4bpyv8tosCA) - 4.7
+- [Luka Lisboa](https://maps.app.goo.gl/Mv5ccY4bpyv8tosCA) - 4.7, gentrified priced thai
 - [Manifest Lisbon - Brunch & Specialty Coffee](https://maps.app.goo.gl/fBhasAZoca5q9kCo9) - 4.5
 - [H5 Texas Burger -Avenida](https://maps.app.goo.gl/BPmKz6ctHKTZU49FA) - 4.8
 - [Koppu Ramen Izakaya Avenida](https://maps.app.goo.gl/ykFEcfJxMTp85wLz9) - 4.6 japanese ramen
