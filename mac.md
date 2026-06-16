@@ -53,6 +53,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
       - [Set VLC to open AVI files](#set-vlc-to-open-avi-files)
       - [Set Chrome to open SVG files](#set-chrome-to-open-svg-files)
       - [Set Terminal to open Shell scripts](#set-terminal-to-open-shell-scripts)
+  - [Finder - Drag Files onto Shell Scripts to execute against them](#finder---drag-files-onto-shell-scripts-to-execute-against-them)
   - [Clipboard](#clipboard)
   - [System Information](#system-information)
   - [Screenshots](#screenshots)
@@ -783,6 +784,13 @@ standard default):
 ```shell
 duti -s com.apple.Terminal sh all
 ```
+
+You can now drag
+and drop a file onto a shell script to have the shell script execute with that file as the first argument.
+
+### Finder - Drag Files onto Shell Scripts to execute against them
+
+See the above trick [Set Terminal to open Shell scripts](#set-terminal-to-open-shell-scripts).
 
 ### Clipboard
 
