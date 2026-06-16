@@ -34,6 +34,7 @@ The capital
   the best one was the medium spicy orange/mango sauce.
   The mint sauce was very mild and the darker green sauce was quite spicy.
   The vegetable samosa was very good and crispy - the sauce that came with it was absolutely great.
+  The lamb bhuna was also good, not that big, but I was full after that and the very good garlic naan.
   Wifi 90/90 Mbit/s
 
 TODO:
