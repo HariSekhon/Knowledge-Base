@@ -649,12 +649,15 @@ Open Automator:
 open -a Automator
 ```
 
-Then click `New` -> from the list of actions, drag `Run Shell Script` to the right hand pane.
+Initial Automator opening prompts a small Finder window - click the `New Document` button.
 
-On the top right of the shell script box that appears on the canvass,
-change the drop down for `Pass Input` to `as arguments`.
+If Automator is already open click the top menu `File` -> `New`.
 
-Paste the following script into the code box:
+1. Choose `Application`
+2. drag `Run Shell Script` from the list of actions to the right hand pane
+3. On the top right of the shell script box that appears on the canvass,
+  change the drop down for `Pass Input` to `as arguments`
+4. Paste the following script into the code box:
 
 ```shell
 for file in "$@"; do
@@ -665,7 +668,7 @@ done
 The script will not inherit all your fancy `.bashrc` environment so ensure
 that `\$PATH` to tools and environment variables are set or sourced in the script itself for portability.
 
-Save this as some `<name>.app` and you will then be able to drag any file onto it in Finder to have it execute.
+5. Save this as some `<name>.app` and you will then be able to drag any file onto it in Finder to have it execute.
 
 ## Commands
 
