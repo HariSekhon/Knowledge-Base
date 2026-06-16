@@ -649,12 +649,12 @@ Open Automator:
 open -a Automator
 ```
 
-Initial Automator opening prompts a small Finder window - click the `New Document` button.
+If Automator prompts a small Finder window - click the `New Document` button.
 
-If Automator is already open click the top menu `File` -> `New`.
+If Automator is already running and you want to create a new one, click the top menu `File` -> `New`.
 
-1. Choose `Application`
-2. drag `Run Shell Script` from the list of actions to the right hand pane
+1. Click `Application`
+2. Drag `Run Shell Script` from the list of actions to the right hand pane
 3. On the top right of the shell script box that appears on the canvass,
   change the drop down for `Pass Input` to `as arguments`
 4. Paste the following script into the code box:
