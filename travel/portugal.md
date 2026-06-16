@@ -30,6 +30,10 @@ The capital
 ### Restaurants in Lisbon
 
 - [Royal Spice](https://maps.app.goo.gl/ErCDk5hYhwp665x66) - good menu, moderate prices.
+  The popadoms were thin crispy folded over and the 3 sauces with it were good -
+  the best one was the medium spicy orange/mango sauce.
+  The mint sauce was very mild and the darker green sauce was quite spicy.
+  The vegetable samosa was very good and crispy - the sauce that came with it was absolutely great.
   Wifi 90/90 Mbit/s
 
 TODO:
