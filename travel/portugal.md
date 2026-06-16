@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Lisbon](#lisbon)
+  - [Restaurants in Lisbon](#restaurants-in-lisbon)
 - [Faro](#faro)
   - [Parking in Faro](#parking-in-faro)
   - [Attractions in Faro](#attractions-in-faro)
