@@ -52,8 +52,9 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Change the default Application for a given file type](#change-the-default-application-for-a-given-file-type)
       - [Set VLC to open AVI files](#set-vlc-to-open-avi-files)
       - [Set Chrome to open SVG files](#set-chrome-to-open-svg-files)
-      - [Set Terminal to open Shell Scripts](#set-terminal-to-open-shell-scripts)
-  - [Finder - Drag Files onto Shell Scripts to execute against them](#finder---drag-files-onto-shell-scripts-to-execute-against-them)
+      - [Set Editor to open Shell Scripts](#set-editor-to-open-shell-scripts)
+  - [Automator](#automator)
+    - [Drag Files onto App to execute a script against them](#drag-files-onto-app-to-execute-a-script-against-them)
   - [Clipboard](#clipboard)
   - [System Information](#system-information)
   - [Screenshots](#screenshots)
@@ -764,33 +765,60 @@ editing application it is already set to (eg. Gimp or Inkscape):
 duti -s com.google.Chrome public.svg-image all
 ```
 
-##### Set Terminal to open Shell Scripts
+##### Set Editor to open Shell Scripts
 
-First find the ID of Mac's in-built Terminal app:
+First find the ID of your favourite GUI [Editor or IDE](editors.md):
 
 ```shell
-osascript -e 'id of app "Terminal"'
+osascript -e 'id of app "IntelliJ IDEA CE"'
 ```
 
 outputs:
 
 ```text
-com.apple.Terminal
+com.jetbrains.intellij.ce
 ```
 
 Then set it to be the default application for `.sh` extension files (instead of the Xcode.app editor which is the
 standard default):
 
 ```shell
-duti -s com.apple.Terminal sh all
+duti -s com.jetbrains.intellij.ce sh all
 ```
 
-### Finder - Drag Files onto Shell Scripts to execute against them
+### Automator
 
-First [Set Terminal to open Shell scripts](#set-terminal-to-open-shell-scripts).
+Mac's Automator allows you to create workflows that generate MacOS apps that look and work like real Mac applications
+but that can take any action including running shell scripts.
 
-You can then drag and drop a file onto a shell script to have the shell script execute with that file as the first
-argument.
+#### Drag Files onto App to execute a script against them
+
+You can create an Automator app that you can drag any file onto in Finder to have it execute any program such as a
+shell script with that file as the first argument.
+
+Open Automator:
+
+```shell
+open -a Automator
+```
+
+Then click `New` -> from the list of actions, drag `Run Shell Script` to the right hand pane.
+
+On the top right of the shell script box that appears on the canvass,
+change the drop down for `Pass Input` to `as arguments`.
+
+Paste the following script into the code box:
+
+```shell
+for file in "$@"; do
+    /path/to/your/script.sh "$file"
+done
+```
+
+The script will not inherit all your fancy `.bashrc` environment so ensure
+that `\$PATH` to tools and environment variables are set or sourced in the script itself for portability.
+
+Save this as some `<name>.app` and you will then be able to drag any file onto it in Finder to have it execute.
 
 ### Clipboard
 
