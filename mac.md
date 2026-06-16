@@ -668,7 +668,7 @@ done
 The script will not inherit all your fancy `.bashrc` environment so ensure
 that `\$PATH` to tools and environment variables are set or sourced in the script itself for portability.
 
-5. Save this as some `<name>.app` and you will then be able to drag any file onto it in Finder to have it execute.
+5. Save this as some `<name>.app` and you will then be able to drag any file onto it in Finder to have it execute
 
 ## Commands
 
