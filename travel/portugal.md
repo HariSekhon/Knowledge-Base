@@ -2,6 +2,7 @@
 
 <!-- INDEX_START -->
 
+- [Lisbon](#lisbon)
 - [Faro](#faro)
   - [Parking in Faro](#parking-in-faro)
   - [Attractions in Faro](#attractions-in-faro)
@@ -12,6 +13,18 @@
   - [Restaurants in Lagos](#restaurants-in-lagos)
 
 <!-- INDEX_END -->
+
+## Lisbon
+
+The capital
+
+<!--
+
+- [Urban Garden Hostel](https://maps.app.goo.gl/aPnYd97YcqJATJa66) - cheap, good privacy curtains, lockers,
+  full kitchen with stove for cooking, good bathrooms and very good hot water pressure.
+  Wifi 64/92 Mbit/s
+
+-->
 
 ## Faro
 
@@ -70,6 +83,7 @@ Bigger more touristy town than Faro.
   I parked on one of the nearby roads
 - [Largo do Rossio de São João Batista](https://maps.app.goo.gl/CB8gTzopqaZUAFXX8) -
   a bit further away, about a 20 minute walk, but has some free street parking
+- [Aparcamiento Explanada](https://maps.app.goo.gl/yTWKJtfWmYqVFY8E9) - parking lot even further to the north
 
 ### Attractions in Lagos
 
@@ -95,14 +109,15 @@ Bigger more touristy town than Faro.
   Loud Jamaican music.
   Yes they think they’re trendy, it’s one of those places.
   Fast WiFi 430/111 Mbit/s
+- [Gelataria Gloosi By Artisani](https://maps.app.goo.gl/sbLvyMat4bK2menN8) - 4.9 ice cream
+- [Búteo](https://maps.app.goo.gl/ZLQGEVdHAEfgNGu89) - octopus in red wine marinade
 
 TODO:
 
-- [Gelataria Gloosi By Artisani](https://maps.app.goo.gl/sbLvyMat4bK2menN8) - 4.9 ice cream
 - [Gelato e amore](https://maps.app.goo.gl/BbcZKCCHkjcCdy428) - 4.9 ice cream
-- [Casinha do Petisco](https://maps.app.goo.gl/UQQvW1GDqnhbCsLq5) - 4.7, recommended by fellow travellers
+- [Casinha do Petisco](https://maps.app.goo.gl/UQQvW1GDqnhbCsLq5) - 4.7, recommended by fellow travellers, but closed on
+  Sundays so I couldn't go before I left
 - [Restaurante O Lamberto](https://maps.app.goo.gl/WZ1GzQPA8XRfhXtw6) - 4.6
-- [Búteo](https://maps.app.goo.gl/ZLQGEVdHAEfgNGu89) - 4.9
 - [BUeNI Restaurante](https://maps.app.goo.gl/eUKijDmt3uAP2G8h6) - 4.9
 - [Factory Fusion Hub](https://maps.app.goo.gl/JJEttd3J8Wi45c379) - 4.8
 - [The Underdog Kitchen & Good Times](https://maps.app.goo.gl/owery16pvjxpLxpB8) - 4.8
