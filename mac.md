@@ -52,7 +52,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Change the default Application for a given file type](#change-the-default-application-for-a-given-file-type)
       - [Set VLC to open AVI files](#set-vlc-to-open-avi-files)
       - [Set Chrome to open SVG files](#set-chrome-to-open-svg-files)
-      - [Set Terminal to open Shell scripts](#set-terminal-to-open-shell-scripts)
+      - [Set Terminal to open Shell Scripts](#set-terminal-to-open-shell-scripts)
   - [Finder - Drag Files onto Shell Scripts to execute against them](#finder---drag-files-onto-shell-scripts-to-execute-against-them)
   - [Clipboard](#clipboard)
   - [System Information](#system-information)
@@ -764,7 +764,7 @@ editing application it is already set to (eg. Gimp or Inkscape):
 duti -s com.google.Chrome public.svg-image all
 ```
 
-##### Set Terminal to open Shell scripts
+##### Set Terminal to open Shell Scripts
 
 First find the ID of Mac's in-built Terminal app:
 
