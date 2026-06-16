@@ -785,12 +785,12 @@ standard default):
 duti -s com.apple.Terminal sh all
 ```
 
-You can now drag
-and drop a file onto a shell script to have the shell script execute with that file as the first argument.
-
 ### Finder - Drag Files onto Shell Scripts to execute against them
 
-See the above trick [Set Terminal to open Shell scripts](#set-terminal-to-open-shell-scripts).
+First [Set Terminal to open Shell scripts](#set-terminal-to-open-shell-scripts).
+
+You can then drag and drop a file onto a shell script to have the shell script execute with that file as the first
+argument.
 
 ### Clipboard
 
