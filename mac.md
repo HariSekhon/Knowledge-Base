@@ -52,6 +52,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
     - [Change the default Application for a given file type](#change-the-default-application-for-a-given-file-type)
       - [Set VLC to open AVI files](#set-vlc-to-open-avi-files)
       - [Set Chrome to open SVG files](#set-chrome-to-open-svg-files)
+      - [Set Terminal to open Shell scripts](#set-terminal-to-open-shell-scripts)
   - [Clipboard](#clipboard)
   - [System Information](#system-information)
   - [Screenshots](#screenshots)
@@ -760,6 +761,27 @@ editing application it is already set to (eg. Gimp or Inkscape):
 
 ```shell
 duti -s com.google.Chrome public.svg-image all
+```
+
+##### Set Terminal to open Shell scripts
+
+First find the ID of Mac's in-built Terminal app:
+
+```shell
+osascript -e 'id of app "Terminal"'
+```
+
+outputs:
+
+```text
+com.apple.Terminal
+```
+
+Then set it to be the default application for `.sh` extension files (instead of the Xcode.app editor which is the
+standard default):
+
+```shell
+duti -s com.apple.Terminal sh all
 ```
 
 ### Clipboard
