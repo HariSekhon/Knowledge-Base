@@ -10,11 +10,11 @@
 [![Countries in 2026](https://img.shields.io/badge/in%202026-30-blue)](https://nomads.com/@harisekhon)
 [![Unique Countries 2024+](https://img.shields.io/badge/Unique%20Countries%202024+-67-blue)](https://nomads.com/@harisekhon)
 
-[![Total Cities](https://img.shields.io/badge/Total%20Cities-263-blue)](https://nomads.com/@harisekhon)
+[![Total Cities](https://img.shields.io/badge/Total%20Cities-264-blue)](https://nomads.com/@harisekhon)
 [![Cities in 2024](https://img.shields.io/badge/in%202024-70-blue)](https://nomads.com/@harisekhon)
 [![Cities in 2025](https://img.shields.io/badge/in%202025-89-blue)](https://nomads.com/@harisekhon)
-[![Cities in 2026](https://img.shields.io/badge/in%202026-92-blue)](https://nomads.com/@harisekhon)
-[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-238-blue)](https://nomads.com/@harisekhon)
+[![Cities in 2026](https://img.shields.io/badge/in%202026-93-blue)](https://nomads.com/@harisekhon)
+[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-239-blue)](https://nomads.com/@harisekhon)
 
 Short links to this page:
 
@@ -121,7 +121,7 @@ Updated regularly as I travel the world 52 weeks a year.
 
 Countries: 74
 
-Cities: 263
+Cities: 264
 
 - Countries in 2024: 20
   - Cities in 2024: 70
@@ -137,12 +137,12 @@ Cities: 263
     North Macedonia, Bosnia & Herzegovina, Ukraine, Moldova, Tunisia, Jordan, Lebanon, Spain, Mexico, Guatemala,
     El Salvador, Costa Rica, Panama, Colombia
 - Countries in 2026: 30
-  - Cities in 2026: 92
+  - Cities in 2026: 93
   - Countries: Colombia (continued), Ecuador, Peru, Bolivia, Chile, Argentina, Uruguay, Brazil, Paraguay, Curacao,
     Dominican Republic, Jamaica, Puerto Rico, Spain, Malta, Serbia, Hungary, Slovakia, Czechia, Germany, Belgium,
     France, UK, Luxembourg, Switzerland, Liechtenstein, Italy, Monaco, Andorra
 - Unique Countries since Emigrating from the UK in 2024: 67
-  - Unique Cities since Emigrating from the UK in 2024: 238
+  - Unique Cities since Emigrating from the UK in 2024: 239
 
 Country pages with specific tips for each country:
 
