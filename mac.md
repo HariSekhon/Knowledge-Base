@@ -788,8 +788,8 @@ duti -s com.jetbrains.intellij.ce sh all
 
 ### Automator
 
-Mac's Automator allows you to create workflows that generate MacOS apps that look and work like real Mac applications
-but that can take any action including running shell scripts.
+Mac's Automator is awesome - it allows you to generate MacOS apps that look and work like real Mac applications
+using a custom workflow that can execute many native mac or external actions including running shell scripts.
 
 #### Drag Files onto App to execute a script against them
 
