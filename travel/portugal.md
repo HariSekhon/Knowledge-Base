@@ -36,11 +36,16 @@ The capital
   The vegetable samosa was very good and crispy - the sauce that came with it was absolutely great.
   The lamb bhuna was also good, not that big, but I was full after that and the very good garlic naan.
   Wifi 90/90 Mbit/s
+- [Taco Locoo Mexican restaurant and cocktails bar](https://maps.app.goo.gl/cYVTvdprYasYkaHHA) - the beef fajita
+  was good with 3 soft flour tortillas and a range of sides - guacamole, sour cream, pico de gallo and black bean
+  sauce - as well as 3 sauces.
+  The mild and medium sauces were my favourite, the spicy green one was a little too spicy.
+  Next time I'd try the ceviche or chilli con carne.
+  Has wifi
 
 TODO:
 
-- [Taco Locoo Mexican restaurant and cocktails bar](https://maps.app.goo.gl/cYVTvdprYasYkaHHA) - 4.7, Mexican,
-  try the white fish/salmon ceviche or beef/chicken fajita or chilli con carne
+- [Ramen Chef Rossio](https://maps.app.goo.gl/Rw7WBV9gcic2Qm3H6) - 4.9, japanese, affordable
 - [Olá Nepal -Marques -Indian restaurant](https://maps.app.goo.gl/WzmFwRvYA4wrjHSF9) - 4.8
 - [Everest Montanha](https://maps.app.goo.gl/q6VBEEriSeN5mbNm6) - 4.7
 - [Kazi Eatery](https://maps.app.goo.gl/1wBg6hq1t2jSXDAJA) - 4.9 asian fusion
