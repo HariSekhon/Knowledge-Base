@@ -819,7 +819,7 @@ com.jetbrains.intellij.ce
 The name of your IntelliJ app may be different depending on your version, you can use this one liner to find it:
 
 ```shell
-printf '%s\n' /Applications/IntelliJ*.app | awk -F/ '{print $NF}' | sed 's/\.app$//'
+printf '%s\n' /Applications/IntelliJ*.app | sed 's|.*/||; s/\.app$//'
 ```
 
 Then set the ID to be the default application for `.sh` extension files (instead of the Xcode.app editor which is the
