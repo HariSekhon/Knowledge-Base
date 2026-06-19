@@ -86,6 +86,9 @@ I'm surprised it wasn't fancier after hearing about it at Lisbon castle.
   well rated.
   The hot and sour soup is both spicy and flavourful and hits the spot.
   The crispy spring rolls came fresh and hot, 6 small rolls with a sweet dip.
+  The prawn rice noodle was excellent and unbeatable value at €7.50 -
+  it had no fault, came piping hot fresh with lots of prawns and crunchy cabbage - the texture and flavour could not be
+  faulted - this was the best of what I had here.
   They had a few different beers and soft drinks,
   including mango liptons iced tea which is rarer than the lemon and peach variants.
   WiFi 28/37 Mbit/s
