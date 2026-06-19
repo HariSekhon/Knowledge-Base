@@ -4,6 +4,10 @@
 
 - [Lisbon](#lisbon)
   - [Restaurants in Lisbon](#restaurants-in-lisbon)
+- [Coimbra](#coimbra)
+  - [Parking in Coimbra](#parking-in-coimbra)
+  - [Attractions in Coimbra](#attractions-in-coimbra)
+  - [Restaurants in Coimbra](#restaurants-in-coimbra)
 - [Faro](#faro)
   - [Parking in Faro](#parking-in-faro)
   - [Attractions in Faro](#attractions-in-faro)
@@ -56,6 +60,34 @@ TODO:
 - [Koppu Ramen Izakaya Avenida](https://maps.app.goo.gl/ykFEcfJxMTp85wLz9) - 4.6 japanese ramen
 - [Fusion Grill](https://maps.app.goo.gl/YdZuRibH8BsWuGTV6) - 4.9
 - [Zaataria](https://maps.app.goo.gl/7WC4PRkCZen6NjJY7) - 4.8 lebanese
+
+## Coimbra
+
+University town on the river, former historic capital of Portugal.
+
+I'm surprised it wasn't fancier after hearing about it at Lisbon castle.
+
+### Parking in Coimbra
+
+- [Parking Convent San Francisco - Free](https://maps.app.goo.gl/aaAbf9tkC4nJSTjg9) - I was in disbelief when I looked
+  this up as free covered parking but it really is free, the barriers stay up with a sign free 07:00 - 24:00.
+  It is a brief walk to the old town across the bridge but worth it to maintain a leisure without being on the parking
+  meter
+
+### Attractions in Coimbra
+
+- [Convento São Francisco](https://maps.app.goo.gl/1o4LLTnxX3UJGWpX8) - next to the parking above
+
+### Restaurants in Coimbra
+
+- [Casa da Massa](https://maps.app.goo.gl/aEGu4GyZW7yxcP4t6) - cheap and cheerful chinese, very good value for money,
+  I just had to try this as its menu put the local european restaurants to shame as it's less than half the price and
+  well rated.
+  The hot and sour soup is both spicy and flavourful and hits the spot.
+  The crispy spring rolls came fresh and hot, 6 small rolls with a sweet dip.
+  They had a few different beers and soft drinks,
+  including mango liptons iced tea which is rarer than the lemon and peach variants.
+  WiFi 28/37 Mbit/s
 
 ## Faro
 
