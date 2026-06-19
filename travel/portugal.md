@@ -81,6 +81,7 @@ I'm surprised it wasn't fancier after hearing about it at Lisbon castle.
 ### Restaurants in Coimbra
 
 - [Casa da Massa](https://maps.app.goo.gl/aEGu4GyZW7yxcP4t6) - cheap and cheerful chinese, very good value for money,
+  but cash only.
   I just had to try this as its menu put the local european restaurants to shame as it's less than half the price and
   well rated.
   The hot and sour soup is both spicy and flavourful and hits the spot.
