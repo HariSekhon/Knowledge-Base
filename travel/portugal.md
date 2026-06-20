@@ -199,6 +199,7 @@ TODO:
 ### Attractions in Porto
 
 - [Episcopal Palace of Porto](https://maps.app.goo.gl/8kXUMwtgDbpjRsmk8)
+- [R. das Flores](https://maps.app.goo.gl/AtrotECp5aAMrSGz6)
 - [Torre dos Clérigos](https://maps.app.goo.gl/GWpTfddB4H2RXoxQ7)
 - [Igreja do Carmo](https://maps.app.goo.gl/NHKfgAiqYrE6sp3M6)
 - [Clérigos Church](https://maps.app.goo.gl/o27LzEUn1GUNMMSY6)
