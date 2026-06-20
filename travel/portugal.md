@@ -127,6 +127,7 @@ There is a metro too, but I didn't use it.
 - [Arco Triunfal das Amoreiras](https://maps.app.goo.gl/4esvnEfFnjs4GKAR6)
 - [Av. da Liberdade](https://maps.app.goo.gl/gbenfnuUVJJwbnTS6) - main avenue with tree coverage and expensive designer
   stores
+  - [Praça Dom Pedro IV](https://maps.app.goo.gl/2jYKJ8kvrKv3cmgp9)
   - [Pç do Marquês de Pombal](https://maps.app.goo.gl/pe4yu1j1tsgkdJTv5)
     - [Praça Marquês de Pombal](https://maps.app.goo.gl/sDbNEPFeyGEXAY8Y7)
   - [Reservatório da Mãe d'Água das Amoreiras](https://maps.app.goo.gl/tFfYKxDkqX8P33nX6)
