@@ -67,11 +67,14 @@
 - Attractive People
 - Moderate Prices
 
-It is relatively low crime except for Barcelona.
-
-It has become one of my favourite countries in Europe and one I wish I'd discovered earlier in my life.
+It has become one of my favourite countries in Europe and one I wish I'd discovered earlier in my life. I remember
+many Brits used to love going to Spain before the Euro when it was cheaper.
+Unfortunately it's not cheap any more.
 
 Madrid is technically larger but Barcelona has a larger centre of interest with more to see and do.
+
+Spain is relatively low crime for now, except for Barcelona, but see the [Population](#population) and [Crime](#crime)
+sections for why this is changing and will inevitably worsen over time.
 
 ## Food & Prices
 
@@ -84,7 +87,7 @@ It also has a good variety of international food as you'll see in the
 ## Population
 
 Spain's population is nearly 48 Million at the time of writing, and you actually see local Spanish people on their
-metro, which I found weird compared to London, which is majority foreign now.
+metro in their capital Madrid, which I found weird compared to London, which is majority foreign now.
 
 Unfortunately, Spain's birth rate is tragically low at a mere 1.2 children per woman,
 far below the necessary replacement rate of 2.1 -
@@ -92,9 +95,21 @@ a consistent pattern of better people being outbred causing a decline in human q
 colloquially known as
 [Idiocracy](https://www.youtube.com/watch?v=sP2tUW0HDHA).
 
+I was surprised by how many [illegal] African immigrants there are in towns across the country,
+as Spain had almost no sub-saharan colonies from which to have backwash (not that this is a legitimate excuse to forego
+quality controls anyway).
+
+Given I've looked into the visa options and criteria for personally getting a visa in Spain - I cannot imagine how
+most of the Africans I've seen would qualify - especially since selling [stolen] clothes on the streets for cash is not
+a high tax paying or skilled contribution to any expensive socialist Western societies that are increasingly desperate
+for tax revenues.
+
+If you look at the severity of the birthrate imbalance between European countries and African countries,
+mass African replacement is basically guaranteed without extremely strong border controls and deportations.
+
 [![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~ESP~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~ESP~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)
 
-Its population has almost levelled off before an inevitable native decline, with the surge of 6 million in the 2000s
+Spain's population has almost levelled off before an inevitable native decline, with the surge of 6 million in the 2000s
 being almost certainly due to mass immigration - 2.2 Million from Europe,
 1.2 Million from Africa, and 1.2 Million from Latin America -
 this last one due to colonial connections and shared language as most of Latin America speaks Spanish.
@@ -109,17 +124,30 @@ which is how I discovered Spain as I stopped over for a few days to catch a chea
 
 ## Crime
 
-Spain is a 1st world country and doesn't have as bad immigration as the UK, so is lower crime.
+Spain is still a 1st world country for now as it hasn't has a much bad immigration as the UK,
+so is lower crime, for now.
 
-It's crime rate is actually lower than Europe in general, which is already very low compared to Africa and Latin America.
+Although Spain is ~20% replaced already, a substantial portion of this was previously from Europe,
+for example there a lots of Brits along the south coast, and they are unlikely to cause crime, so that has been to
+Spain's advantage.
 
-The only regions safer are the historically high quality civilizations of the Far East,
-and the rich strict law Gulf countries.
+Spain's overall crime rate is actually lower than Europe in general,
+which is already very low compared to Latin America and Africa.
+
+The only regions statistically safer are the historically high quality civilizations of the Far East,
+and the rich strict law Gulf states.
 
 Unfortunately, I have to caveat this as not Barcelona, and also,
-that this is likely to change with ever more immigration from Africa.
+that this is statistically likely to worsen with ever more immigration from Africa.
 
 [![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=UN_EUR~GBR~Eastern+Asia+%28UN%29~ESP~OWID_WRL~Sub-Saharan+Africa+%28UN%29)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=UN_EUR~GBR~Eastern+Asia+%28UN%29~ESP~UN_AFR~OWID_WRL)
+
+Spain is already noticeably changing as foreigners are already causing a disproportionate amount of crime, similar to
+the discovery in other European countries like Denmark. See this video:
+
+[![Spain Has Changed Forever… 🇪🇸](https://img.youtube.com/vi/UHdX0m7gPE8/0.jpg)](https://www.youtube.com/watch?v=UHdX0m7gPE8)
+
+Long term Spain will continue to decline due to low birthrates and low quality mass immigration.
 
 ## Economy
 
@@ -133,11 +161,11 @@ See this Finance Bureau video for more details:
 
 ## Taxi Apps
 
-I didn't bother using any taxis in Madrid as the Metro is 1st class and connects to the airport too -
-same with the buses.
+I didn't bother using any taxis the first time I was in Madrid as the Metro is 1st class and connects to the airport
+too - same with the buses.
 
 - [Cabify](https://cabify.com/en) - the top taxi app here with competitive pricing
-- [Uber](https://www.uber.com/es/en/) - was cheaper for the 4am return to the airport than Cabify
+- [Uber](https://www.uber.com/es/en/) - was cheaper for the 4am return to the airport than Cabify (on my second visit)
 - [Bolt](https://bolt.eu/en/)
 
 ## Driving in Spain
@@ -152,7 +180,7 @@ As with everything democratic governments do, this is just a scam to tax people,
 
 ## ATMs in Spain
 
-This is the best one I could find:
+This is the best ATM I could find:
 
 - [Caixa Bank](https://www.google.com/maps/search/caixa+bank/) - €4.50 for a withdrawal and can use contactless card
   from your phone wallet in case you've lost your physical card
@@ -1067,6 +1095,10 @@ TODO:
 
 - [Urban Poke](https://maps.app.goo.gl/amNDL4t1cd4fnMdK6)
 
+## Huelva
+
+There isn't much here, it's only really a stopover city when driving between the south of Spain and Portugal.
+
 ## Ibiza
 
 [Ibiza](https://maps.app.goo.gl/HkUMJfUzJRnpkS3eA) is the island best known as the clubbing capital of the world.
@@ -1152,6 +1184,8 @@ Roman historic beach town.
 - [Aparcament Torroja](https://maps.app.goo.gl/qAbMcQooFjPBDjCdA) - free parking 15 minutes walk from town centre
 
 ## Sevilla
+
+Sevilla, or Seville, is a lovely city well worth a visit for a couple days.
 
 ### Where to Stay in Sevilla
 
