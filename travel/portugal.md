@@ -121,7 +121,9 @@ There is a metro too, but I didn't use it.
 - [Potato Project](https://maps.app.goo.gl/5yqS7MKDJoP4c8yf6) - the Truffle Parmesan fries were high quality,
   although a little pricey at €6 for a medium, but well worth a treat or snack. WiFi 19/12 Mbit/s
 - [Honest Greens Sé](https://maps.app.goo.gl/PnEipBPpCy1yXoXa7) - popular Spanish chain restaurant with moderate prices
-  and decent food
+  and decent food.
+  Best described by my first experiences in the [Madrid restaurant](spain.md#restaurants-in-madrid) section of my Spain
+  page
 
 TODO:
 
