@@ -101,10 +101,10 @@ There is a metro too, but I didn't use it.
 - [Lisbon Cathedral](https://maps.app.goo.gl/NA9Nheh3aBXbkYUV9)
 - [Praça do Comércio](https://maps.app.goo.gl/Xg4SP8u9yXpxBM3P9) - the main large square of the city, on the waterfront
   - [Rua Augusta Arch](https://maps.app.goo.gl/GD9aP3EUDGyR6CRG7) - grand arch, everyone wants to take a pic of this one
-- [Caldeirinha Dock](https://maps.app.goo.gl/eqqtzZ18RwgUnXBw6)
-- [Antiga Doca Seca da Ribeira das Naus](https://maps.app.goo.gl/az1MfTe8AKA4TwJD6)
-- [Cais das Colunas](https://maps.app.goo.gl/CBojJHNVCveu6SWS9)
-- [Lisbon Story Centre](https://maps.app.goo.gl/2FHeT2gbYkUEcYvv7)
+  - [Caldeirinha Dock](https://maps.app.goo.gl/eqqtzZ18RwgUnXBw6)
+  - [Antiga Doca Seca da Ribeira das Naus](https://maps.app.goo.gl/az1MfTe8AKA4TwJD6)
+  - [Cais das Colunas](https://maps.app.goo.gl/CBojJHNVCveu6SWS9)
+  - [Lisbon Story Centre](https://maps.app.goo.gl/2FHeT2gbYkUEcYvv7)
 
 ### Restaurants in Lisbon
 
