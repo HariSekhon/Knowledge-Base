@@ -6,6 +6,7 @@ Excel and Google Sheets tips.
 
 - [Use Google Sheets Offline](#use-google-sheets-offline)
 - [Move Rows](#move-rows)
+- [Reference a Relative Cell in an Equation](#reference-a-relative-cell-in-an-equation)
 - [Auto-Calculate Dates](#auto-calculate-dates)
   - [Explanation of Date Chaining Formula Magic](#explanation-of-date-chaining-formula-magic)
 - [Calculate Eggs Usage Over The Next Few Days - Mornings & Evenings](#calculate-eggs-usage-over-the-next-few-days---mornings--evenings)
@@ -32,6 +33,39 @@ I often need to move rows to juggle countries around on my Travel Dates spreadsh
 1. Drag it up or down the rows
 
 Make sure you use formulae for the dates so everything auto adjusts... see next tip.
+
+## Reference a Relative Cell in an Equation
+
+When using an equation referencing another cell,
+it will often auto-update correctly if you insert some rows in the middle,
+but if you insert rows at the end of a range, it often doesn't extend the range,
+resulting in a wrong total that doesn't include the rows added at the end
+(this might be due to clicking `Insert One Row Above` instead of `Insert One Row Below` as its closer to the mouse
+cursor).
+
+This happened to me in Google Sheets a lot.
+
+The solution is to change your equation to reference the starting cell all the way down to the cell just above the
+Totals line that the equation is in.
+
+Instead of this:
+
+```text
+=SUM(C200:C250, COLUMN())))
+```
+
+Replace the ending cell explicit `C250` reference with a relative cell location one above the current line using this
+code:
+
+```text
+INDIRECT( ADDRESS( ROW() - 1, COLUMN() )
+```
+
+So the equation changes to:
+
+```text
+=SUM(C200: INDIRECT( ADDRESS( ROW() - 1, COLUMN() ) ) )
+```
 
 ## Auto-Calculate Dates
 
