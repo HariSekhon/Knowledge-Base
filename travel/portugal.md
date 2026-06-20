@@ -50,6 +50,8 @@ Portugal's population has almost levelled off and would no doubt decline if not 
 
 <https://en.wikipedia.org/wiki/Demographics_of_Portugal>
 
+<!--
+
 ## Crime
 
 Portugal is still a 1st world country for now as it hasn't has as much bad immigration as the UK,
@@ -65,6 +67,8 @@ This is statistically likely to worsen over time with ever more immigration from
 imbalance and mass migration patterns.
 
 [![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=UN_EUR~GBR~Eastern+Asia+%28UN%29~PRT~OWID_WRL~Sub-Saharan+Africa+%28UN%29)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=UN_EUR~GBR~Eastern+Asia+%28UN%29~PRT~UN_AFR~OWID_WRL)
+
+-->
 
 ## Taxis in Portugal
 
