@@ -99,7 +99,8 @@ There is a metro too, but I didn't use it.
 ### Attractions in Lisbon
 
 - [Castelo de São Jorge](https://maps.app.goo.gl/1W64z7G29uurEqpe8) - you need to give yourself 2 hours for this,
-  and I recommend going around 5-6pm so you get the softer sun and sunset views
+  and I recommend going around 5-6pm so you get the softer sun and sunset views.
+  It's a little pricey at €17 per adult, but includes a free guided tour in English.
   - Popular scenic spots / observation decks:
     - [Miradouro de São Vicente](https://maps.app.goo.gl/jVPSkijafc4sdo9K7)
     - [Miradouro de Santa Luzia](https://maps.app.goo.gl/VLMXHKQ1VsMnU8gE8)
