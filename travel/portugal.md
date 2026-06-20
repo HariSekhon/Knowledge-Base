@@ -106,6 +106,7 @@ There is a metro too, but I didn't use it.
 - [R. Augusta](https://maps.app.goo.gl/mVKHgYQFX6B7PMFL6) - primary restaurant street full of lobster and tourist trap
   restaurants, nice to walk, not sure this is the best value place to eat though.
   Leads to the Rua Augusta Arch and Praça do Comércio
+    - [R. Garrett](https://maps.app.goo.gl/rpDcMCQ8DU4wP1t58) - adjacent popular street
 - [Praça do Comércio](https://maps.app.goo.gl/Xg4SP8u9yXpxBM3P9) - the main large square of the city, on the waterfront
   - [Rua Augusta Arch](https://maps.app.goo.gl/GD9aP3EUDGyR6CRG7) - grand arch, everyone wants to take a pic of this one
   - [Caldeirinha Dock](https://maps.app.goo.gl/eqqtzZ18RwgUnXBw6)
