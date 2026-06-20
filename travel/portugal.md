@@ -111,8 +111,7 @@ I'm surprised it wasn't fancier after hearing about it at Lisbon castle as the f
   They had a few different beers and soft drinks,
   including mango liptons iced tea which is rarer than the lemon and peach variants.
   WiFi 28/37 Mbit/s
-- [PrimaPrix Coimbra](https://maps.app.goo.gl/pkZ5cDaBoaZ46VWL7) - good supermarket to get drinks, snacks, protein
-  shakes etc.
+- [PrimaPrix](https://maps.app.goo.gl/pkZ5cDaBoaZ46VWL7) - good supermarket to get drinks, snacks, protein shakes etc.
 
 ## Faro
 
