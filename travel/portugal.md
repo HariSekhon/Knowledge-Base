@@ -100,6 +100,7 @@ There is a metro too, but I didn't use it.
 
 - [Castelo de São Jorge](https://maps.app.goo.gl/1W64z7G29uurEqpe8) - you need to give yourself 2 hours for this,
   and I recommend going around 5-6pm so you get the softer sun and sunset views
+  - [Miradouro de Santa Luzia](https://maps.app.goo.gl/VLMXHKQ1VsMnU8gE8) - popular scenic spot observation deck
 - [Lisbon Cathedral](https://maps.app.goo.gl/NA9Nheh3aBXbkYUV9)
 - [Praça dos Restauradores](https://maps.app.goo.gl/Az3ixZXrudmGtsHN6)
   - [Restorers' Monument](https://maps.app.goo.gl/KL8LgXekuyVRoW9y8)
