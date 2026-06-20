@@ -201,6 +201,7 @@ From the US Gov website:
 - [North Macedonia](travel/north-macedonia.md)
 - [Norway](travel/norway.md)
 - [Poland](travel/poland.md) ⭐
+- [Portugal](travel/portugal.md)
 - [Romania](travel/romania.md)
 - [Serbia](travel/serbia.md) ⭐
 - [Slovakia](travel/slovakia.md)
