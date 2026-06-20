@@ -140,7 +140,7 @@ Cities: 266
   - Cities in 2026: 95
   - Countries: Colombia (continued), Ecuador, Peru, Bolivia, Chile, Argentina, Uruguay, Brazil, Paraguay, Curacao,
     Dominican Republic, Jamaica, Puerto Rico, Spain, Malta, Serbia, Hungary, Slovakia, Czechia, Germany, Belgium,
-    France, UK, Luxembourg, Switzerland, Liechtenstein, Italy, Monaco, Andorra
+    France, UK, Luxembourg, Switzerland, Liechtenstein, Italy, Monaco, Andorra, Portugal
 - Unique Countries since Emigrating from the UK in 2024: 67
   - Unique Cities since Emigrating from the UK in 2024: 241
 
