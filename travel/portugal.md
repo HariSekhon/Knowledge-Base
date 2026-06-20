@@ -136,6 +136,7 @@ There is a metro too, but I didn't use it.
 - [Armazens do Chiado Mall](https://maps.app.goo.gl/KUQawRzPWBUCajbo9) - small shopping mall with the usual brands
 - [Aqueduto das Águas Livres - view point](https://maps.app.goo.gl/pV3Gm76rh2WHuKSn8)
 - [Fonte Luminosa](https://maps.app.goo.gl/NUFR5ELCDhT2qunV7)
+- [Igreja de São Roque](https://maps.app.goo.gl/YeEs6W2nBuAEPLAH9)
 
 ### Restaurants in Lisbon
 
