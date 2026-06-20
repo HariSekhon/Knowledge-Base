@@ -8,8 +8,12 @@
 - [Taxis in Portugal](#taxis-in-portugal)
 - [Lisbon](#lisbon)
   - [Parking in Lisbon](#parking-in-lisbon)
+  - [Public Transport in Lisbon](#public-transport-in-lisbon)
   - [Attractions in Lisbon](#attractions-in-lisbon)
   - [Restaurants in Lisbon](#restaurants-in-lisbon)
+- [Porto](#porto)
+  - [Attractions in Porto](#attractions-in-porto)
+  - [Restaurants in Porto](#restaurants-in-porto)
 - [Coimbra](#coimbra)
   - [Parking in Coimbra](#parking-in-coimbra)
   - [Attractions in Coimbra](#attractions-in-coimbra)
@@ -182,6 +186,26 @@ TODO:
 - [Fusion Grill](https://maps.app.goo.gl/YdZuRibH8BsWuGTV6) - 4.9
 - [Zaataria](https://maps.app.goo.gl/7WC4PRkCZen6NjJY7) - 4.8 lebanese
 - [La Freseria](https://maps.app.goo.gl/BWbvmrZ4UWmewsRf7) - strawberries dessert restaurant chain
+
+## Porto
+
+### Attractions in Porto
+
+- [Torre dos Clérigos](https://maps.app.goo.gl/GWpTfddB4H2RXoxQ7)
+- [Igreja do Carmo](https://maps.app.goo.gl/NHKfgAiqYrE6sp3M6)
+- [Clérigos Church](https://maps.app.goo.gl/o27LzEUn1GUNMMSY6)
+- [Church of Saint Ildefonso](https://maps.app.goo.gl/RSu7pF9qsxNKacocA)
+- [Portuguese Centre of Photography](https://maps.app.goo.gl/T6pckBFsixsRaEmbA)
+- [Mercado Ferreira Borges](https://maps.app.goo.gl/UCB7UkmQoG2YQqGb9)
+- [Palácio da Bolsa](https://maps.app.goo.gl/bSCcPKm3sBPKemqz7)
+- [Port Wine Museum](https://maps.app.goo.gl/5LZpw7umspWPxWy88)
+- [Cais da Ribeira](https://maps.app.goo.gl/ReqdrVeN4DC93mEP7)
+
+### Restaurants in Porto
+
+TODO:
+
+- [Ramen Chef Praça de Carlos Aberto](https://maps.app.goo.gl/suuUTNvCzLkdS5Cq9)
 
 ## Coimbra
 
