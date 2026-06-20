@@ -96,6 +96,8 @@ There is a metro too, but I didn't use it.
 
 ### Attractions in Lisbon
 
+- [Castelo de São Jorge](https://maps.app.goo.gl/1W64z7G29uurEqpe8) - you need to give yourself 2 hours for this,
+  and I recommend going around 5-6pm so you get the softer sun and sunset views
 - [Rua Augusta Arch](https://maps.app.goo.gl/GD9aP3EUDGyR6CRG7)
 - [Praça do Comércio](https://maps.app.goo.gl/Xg4SP8u9yXpxBM3P9)
 - [Caldeirinha Dock](https://maps.app.goo.gl/eqqtzZ18RwgUnXBw6)
