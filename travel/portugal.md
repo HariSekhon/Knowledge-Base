@@ -195,6 +195,10 @@ TODO:
 
 ## Porto
 
+You can walk around central Porto in a couple of hours
+so 1-2 days to spend in the city and try the restaurants is probably enough for more,
+a good choice for a weekend trip.
+
 <!--
 
 - [Best Guest Porto Hostel](https://maps.app.goo.gl/yQT4yY4odrWrp37J8) - quite nice,
