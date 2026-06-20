@@ -112,6 +112,7 @@ There is a metro too, but I didn't use it.
   - [Lisbon Story Centre](https://maps.app.goo.gl/2FHeT2gbYkUEcYvv7)
   - [Money Museum](https://maps.app.goo.gl/rBNH3uhxsSaZEjiY9)
 - [Carmo Archaeological Museum](https://maps.app.goo.gl/rDoX64u1mARqEyLX8)
+- [Armazens do Chiado Mall](https://maps.app.goo.gl/KUQawRzPWBUCajbo9) - small shopping mall with the usual brands
 
 ### Restaurants in Lisbon
 
