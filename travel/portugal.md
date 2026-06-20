@@ -128,7 +128,7 @@ There is a metro too, but I didn't use it.
 - [Av. da Liberdade](https://maps.app.goo.gl/gbenfnuUVJJwbnTS6) - main avenue with tree coverage and expensive designer
   stores
   - [Pç do Marquês de Pombal](https://maps.app.goo.gl/pe4yu1j1tsgkdJTv5)
-  - [Praça Marquês de Pombal](https://maps.app.goo.gl/sDbNEPFeyGEXAY8Y7)
+    - [Praça Marquês de Pombal](https://maps.app.goo.gl/sDbNEPFeyGEXAY8Y7)
   - [Reservatório da Mãe d'Água das Amoreiras](https://maps.app.goo.gl/tFfYKxDkqX8P33nX6)
   - [Eduardo VII Park](https://maps.app.goo.gl/hzVJA9NPubFHwk5o7)
     - [Observation Deck Park Eduardo VII](https://maps.app.goo.gl/SJJzrdwp78PUQZqK9)
