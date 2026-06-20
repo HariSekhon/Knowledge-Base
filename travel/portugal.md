@@ -140,6 +140,7 @@ TODO:
 - [Koppu Ramen Izakaya Avenida](https://maps.app.goo.gl/ykFEcfJxMTp85wLz9) - 4.6 japanese ramen
 - [Fusion Grill](https://maps.app.goo.gl/YdZuRibH8BsWuGTV6) - 4.9
 - [Zaataria](https://maps.app.goo.gl/7WC4PRkCZen6NjJY7) - 4.8 lebanese
+- [La Freseria](https://maps.app.goo.gl/BWbvmrZ4UWmewsRf7) - strawberries dessert restaurant chain
 
 ## Coimbra
 
