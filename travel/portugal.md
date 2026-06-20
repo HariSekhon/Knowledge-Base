@@ -194,8 +194,8 @@ TODO:
 
 <!--
 
-- [Best Guest Porto Hostel](https://maps.app.goo.gl/yQT4yY4odrWrp37J8) - quite nice, has full kitchen, but no privacy
-  curtains. Wifi 14/25 Mbit/s unstable
+- [Best Guest Porto Hostel](https://maps.app.goo.gl/yQT4yY4odrWrp37J8) - quite nice,
+  has full kitchen with stove for cooking, but no privacy curtains. Wifi 14/25 Mbit/s unstable
 
 -->
 
