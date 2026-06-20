@@ -125,8 +125,9 @@ There is a metro too, but I didn't use it.
 - [Chafariz d'El-Rei](https://maps.app.goo.gl/VfoPprRdFgFo4Vni7)
 - [Carmo Archaeological Museum](https://maps.app.goo.gl/rDoX64u1mARqEyLX8)
 - [Arco Triunfal das Amoreiras](https://maps.app.goo.gl/4esvnEfFnjs4GKAR6)
-- [Praça Marquês de Pombal](https://maps.app.goo.gl/sDbNEPFeyGEXAY8Y7)
-- [Reservatório da Mãe d'Água das Amoreiras](https://maps.app.goo.gl/tFfYKxDkqX8P33nX6)
+- [Pç do Marquês de Pombal](https://maps.app.goo.gl/pe4yu1j1tsgkdJTv5)
+  - [Praça Marquês de Pombal](https://maps.app.goo.gl/sDbNEPFeyGEXAY8Y7)
+  - [Reservatório da Mãe d'Água das Amoreiras](https://maps.app.goo.gl/tFfYKxDkqX8P33nX6)
 - [Armazens do Chiado Mall](https://maps.app.goo.gl/KUQawRzPWBUCajbo9) - small shopping mall with the usual brands
 
 ### Restaurants in Lisbon
