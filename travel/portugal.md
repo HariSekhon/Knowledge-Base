@@ -65,7 +65,7 @@ TODO:
 
 University town on the river, former historic capital of Portugal.
 
-I'm surprised it wasn't fancier after hearing about it at Lisbon castle.
+I'm surprised it wasn't fancier after hearing about it at Lisbon castle as the former capital.
 
 ### Parking in Coimbra
 
