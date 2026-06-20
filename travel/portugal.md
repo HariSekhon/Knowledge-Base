@@ -108,6 +108,7 @@ There is a metro too, but I didn't use it.
   - [Antiga Doca Seca da Ribeira das Naus](https://maps.app.goo.gl/az1MfTe8AKA4TwJD6)
   - [Cais das Colunas](https://maps.app.goo.gl/CBojJHNVCveu6SWS9)
   - [Lisbon Story Centre](https://maps.app.goo.gl/2FHeT2gbYkUEcYvv7)
+  - [Money Museum](https://maps.app.goo.gl/rBNH3uhxsSaZEjiY9)
 
 ### Restaurants in Lisbon
 
