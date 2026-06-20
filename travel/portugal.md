@@ -2,7 +2,13 @@
 
 <!-- INDEX_START -->
 
+- [Summary](#summary)
+- [Population](#population)
+- [Crime](#crime)
+- [Taxis in Portugal](#taxis-in-portugal)
 - [Lisbon](#lisbon)
+  - [Parking in Lisbon](#parking-in-lisbon)
+  - [Attractions in Lisbon](#attractions-in-lisbon)
   - [Restaurants in Lisbon](#restaurants-in-lisbon)
 - [Coimbra](#coimbra)
   - [Parking in Coimbra](#parking-in-coimbra)
@@ -19,9 +25,55 @@
 
 <!-- INDEX_END -->
 
+## Summary
+
+Portugal is quite a nice holiday destination and popular among digital nomads.
+
+Restaurants are typically Western priced so not cheap.
+
+## Population
+
+Portugal's population is nearly 11 Million people as of 2026, not counting illegals.
+
+Portual has ~15% foreign nationals, not including 2nd generation immigrants,
+but the country intentionally does not collect ethnicity data to know beyond people who have declared other passports.
+
+Like all European countries, Portugal's birthrate is below replenishment at 1.5 children per woman.
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~PRT~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~PRT~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)
+
+Portugal's population has almost levelled off and would no doubt decline if not for immigration.
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~PRT)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~PRT)
+
+<https://en.wikipedia.org/wiki/Demographics_of_Portugal>
+
+## Crime
+
+Portugal is still a 1st world country for now as it hasn't has as much bad immigration as the UK,
+so is lower crime, for now.
+
+Portugal's overall crime rate is actually lower than Europe in general,
+which is already very low compared to Latin America and Africa.
+
+The only regions statistically safer are the historically high quality civilizations of the Far East,
+and the rich strict law Gulf states.
+
+This is statistically likely to worsen over time with ever more immigration from Africa due to the huge birthrate
+imbalance and mass migration patterns.
+
+[![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=UN_EUR~GBR~Eastern+Asia+%28UN%29~PRT~OWID_WRL~Sub-Saharan+Africa+%28UN%29)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=UN_EUR~GBR~Eastern+Asia+%28UN%29~PRT~UN_AFR~OWID_WRL)
+
+## Taxis in Portugal
+
+- [Uber](https://www.uber.com/pt/en/) - this was cheaper late at night to the centre such that I didn't bother waiting
+  for the bus
+- [Bolt](https://bolt.eu/en-pt/)
+
 ## Lisbon
 
-The capital
+The capital of Portugal, Lisbon, was founded by the Phoenicians (Lebanese, who also founded the famous Carthage,
+the arch rival of Rome).
 
 <!--
 
@@ -30,6 +82,26 @@ The capital
   Wifi 64/92 Mbit/s
 
 -->
+
+### Parking in Lisbon
+
+I parked out in the [Restelo](https://maps.app.goo.gl/eNEPGC2zUdojepRo7) suburb
+as there is free street parking and a bus into the centre.
+
+### Public Transport in Lisbon
+
+Buses in Lisbon were €2.30 per ride in cash, otherwise you need a prepay card.
+
+There is a metro too, but I didn't use it.
+
+### Attractions in Lisbon
+
+- [Rua Augusta Arch](https://maps.app.goo.gl/GD9aP3EUDGyR6CRG7)
+- [Praça do Comércio](https://maps.app.goo.gl/Xg4SP8u9yXpxBM3P9)
+- [Caldeirinha Dock](https://maps.app.goo.gl/eqqtzZ18RwgUnXBw6)
+- [Antiga Doca Seca da Ribeira das Naus](https://maps.app.goo.gl/az1MfTe8AKA4TwJD6)
+- [Cais das Colunas](https://maps.app.goo.gl/CBojJHNVCveu6SWS9)
+- [Lisbon Story Centre](https://maps.app.goo.gl/2FHeT2gbYkUEcYvv7)
 
 ### Restaurants in Lisbon
 
@@ -46,6 +118,8 @@ The capital
   The mild and medium sauces were my favourite, the spicy green one was a little too spicy.
   Next time I'd try the ceviche or chilli con carne.
   Has wifi
+- [Potato Project](https://maps.app.goo.gl/5yqS7MKDJoP4c8yf6) - the Truffle Parmesan fries were high quality,
+  although a little pricey at €6 for a medium, but well worth a treat or snack. WiFi 19/12 Mbit/s
 
 TODO:
 
