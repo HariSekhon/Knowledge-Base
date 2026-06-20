@@ -86,14 +86,16 @@ I'm surprised it wasn't fancier after hearing about it at Lisbon castle.
 - [Porta e Torre de Almedina](https://maps.app.goo.gl/nFzqhHERa96bk4zL8)
 - [Praça da República](https://maps.app.goo.gl/iAidBgEuFdMUPWtF8)
   - [Sereia Garden](https://maps.app.goo.gl/gbsQuBEPKPXy3tKv9)
-- [University of Coimbra](https://maps.app.goo.gl/gH5KCYDT8n5XX9jw6)
+- [University of Coimbra](https://maps.app.goo.gl/gH5KCYDT8n5XX9jw6) - impressive large university buildings, and nice
+  during a sunset as it's on a hill
   - [Dom Dinis](https://maps.app.goo.gl/yV1aaMow5Ebw4BSd8)
-  - [Escadas Monumentais](https://maps.app.goo.gl/7rJrvvSBKRXG6j7X7)
+  - [Escadas Monumentais](https://maps.app.goo.gl/7rJrvvSBKRXG6j7X7) - stairs up to the Dom Dinis statue above,
+    reminiscent of the stairs in the Rocky movie
   - [Saint Michael's Chapel](https://maps.app.goo.gl/ZKby83qm5PqhzHoEA)
 - [Old Cathedral of Saint Mary of Coimbra](https://maps.app.goo.gl/tWtfGrn8e6x3NCRUA)
 - [Colégio do Espírito Santo](https://maps.app.goo.gl/C4Gae3qNTiw3oHxd9)
 - [New Cathedral of the Holy Name of Jesus](https://maps.app.goo.gl/J8mKdDjsfFKnJe3g8)
-- [Convento São Francisco](https://maps.app.goo.gl/1o4LLTnxX3UJGWpX8) - next to the parking above
+- [Convento São Francisco](https://maps.app.goo.gl/1o4LLTnxX3UJGWpX8) - next to the free covered parking above
 
 ### Restaurants in Coimbra
 
