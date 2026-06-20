@@ -88,6 +88,9 @@ imbalance and mass migration patterns.
 The capital of Portugal, Lisbon, was founded by the Phoenicians (Lebanese, who also founded the famous Carthage,
 the arch rival of Rome).
 
+You can explore the centre of Lisbon on foot in a couple days easily,
+just remember to allocate at least 2-3 hours to the castle.
+
 <!--
 
 - [Urban Garden Hostel](https://maps.app.goo.gl/aPnYd97YcqJATJa66) - cheap, good privacy curtains, lockers,
