@@ -124,6 +124,8 @@ There is a metro too, but I didn't use it.
   and decent food.
   Best described by my first experiences in the [Madrid restaurant](spain.md#restaurants-in-madrid) section of my Spain
   page
+- [Poke House - Douradores](https://maps.app.goo.gl/SwTFB7CKbEEhbWSv7) - ok poke, cheaper than a lot of the Portugese
+  restaurants
 
 TODO:
 
