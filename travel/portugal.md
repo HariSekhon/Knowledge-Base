@@ -140,6 +140,8 @@ There is a metro too, but I didn't use it.
 - [Aqueduto das Águas Livres - view point](https://maps.app.goo.gl/pV3Gm76rh2WHuKSn8)
 - [Fonte Luminosa](https://maps.app.goo.gl/NUFR5ELCDhT2qunV7)
 - [Igreja de São Roque](https://maps.app.goo.gl/YeEs6W2nBuAEPLAH9)
+- [Time Out Market](https://maps.app.goo.gl/QHhC5DQFBuTDBWPL9)
+- [Pink Street](https://maps.app.goo.gl/ZhG5SD7v1bxJmATF6) - side street with bars and restaurants
 
 ### Restaurants in Lisbon
 
