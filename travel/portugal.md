@@ -166,7 +166,7 @@ There is a metro too, but I didn't use it.
   page
 - [Poke House - Douradores](https://maps.app.goo.gl/SwTFB7CKbEEhbWSv7) - ok poke, cheaper than a lot of the Portugese
   restaurants
-- [Amorino](https://www.google.com/maps/search/amorino+libson/) - high quality international ice cream chain
+- [Amorino](https://www.google.com/maps/search/amorino+lisbon/) - high quality international ice cream chain
 
 TODO:
 
