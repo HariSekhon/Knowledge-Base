@@ -42,6 +42,10 @@ Like with Spain, I was surprised to see many sub-saharan African immigrants acro
 
 As with all European countries, Portugal's birthrate is well below replenishment at 1.5 children per woman.
 
+Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
+and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
+ponzi scheme welfare state & pensions long term.
+
 [![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~PRT~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~PRT~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)
 
 Portugal's population has almost levelled off and would no doubt decline if not for immigration.
