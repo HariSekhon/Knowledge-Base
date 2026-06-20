@@ -35,6 +35,9 @@ Portugal is quite a nice holiday destination and popular among digital nomads.
 
 Restaurants are typically Western priced so not cheap.
 
+The best rated restaurants across Portugal are often Indian restaurants, because on on a price vs quality and quantity
+they outcompete the restaurants serving you one basic main for €20-30.
+
 ## Population
 
 Portugal's population is nearly 11 Million people as of 2026, not counting illegals.
