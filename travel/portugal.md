@@ -125,10 +125,16 @@ There is a metro too, but I didn't use it.
 - [Chafariz d'El-Rei](https://maps.app.goo.gl/VfoPprRdFgFo4Vni7)
 - [Carmo Archaeological Museum](https://maps.app.goo.gl/rDoX64u1mARqEyLX8)
 - [Arco Triunfal das Amoreiras](https://maps.app.goo.gl/4esvnEfFnjs4GKAR6)
-- [Pç do Marquês de Pombal](https://maps.app.goo.gl/pe4yu1j1tsgkdJTv5)
+- [Av. da Liberdade](https://maps.app.goo.gl/gbenfnuUVJJwbnTS6)
+  - [Pç do Marquês de Pombal](https://maps.app.goo.gl/pe4yu1j1tsgkdJTv5)
   - [Praça Marquês de Pombal](https://maps.app.goo.gl/sDbNEPFeyGEXAY8Y7)
   - [Reservatório da Mãe d'Água das Amoreiras](https://maps.app.goo.gl/tFfYKxDkqX8P33nX6)
+  - [Eduardo VII Park](https://maps.app.goo.gl/hzVJA9NPubFHwk5o7)
+    - [Observation Deck Park Eduardo VII](https://maps.app.goo.gl/SJJzrdwp78PUQZqK9)
+    - [Estufa Fria](https://maps.app.goo.gl/fFoRJtqUe6yZum1Z7)
 - [Armazens do Chiado Mall](https://maps.app.goo.gl/KUQawRzPWBUCajbo9) - small shopping mall with the usual brands
+- [Aqueduto das Águas Livres - view point](https://maps.app.goo.gl/pV3Gm76rh2WHuKSn8)
+- [Fonte Luminosa](https://maps.app.goo.gl/NUFR5ELCDhT2qunV7)
 
 ### Restaurants in Lisbon
 
