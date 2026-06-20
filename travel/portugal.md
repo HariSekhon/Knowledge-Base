@@ -76,6 +76,23 @@ I'm surprised it wasn't fancier after hearing about it at Lisbon castle.
 
 ### Attractions in Coimbra
 
+- [Praça 8 de maio](https://maps.app.goo.gl/vnYbVwscqaR6GAv67) - square with live music playing with a crowd while I was
+  there as its fairly central
+  - [Santa Cruz Church](https://maps.app.goo.gl/qRUorYMBeqLxDt2TA)
+- [Aqueduto de São Sebastião / Arcos do Jardim](https://maps.app.goo.gl/sFQ6miuDL1g5LNBk7) - large impressive historic
+  aquaduct
+- [Largo da Portagem](https://maps.app.goo.gl/cUDMQr1QctsWsPpm9)
+- [Barbican Gate](https://maps.app.goo.gl/XzZ4yrKxeR5FW1E48)
+- [Porta e Torre de Almedina](https://maps.app.goo.gl/nFzqhHERa96bk4zL8)
+- [Praça da República](https://maps.app.goo.gl/iAidBgEuFdMUPWtF8)
+  - [Sereia Garden](https://maps.app.goo.gl/gbsQuBEPKPXy3tKv9)
+- [University of Coimbra](https://maps.app.goo.gl/gH5KCYDT8n5XX9jw6)
+  - [Dom Dinis](https://maps.app.goo.gl/yV1aaMow5Ebw4BSd8)
+  - [Escadas Monumentais](https://maps.app.goo.gl/7rJrvvSBKRXG6j7X7)
+  - [Saint Michael's Chapel](https://maps.app.goo.gl/ZKby83qm5PqhzHoEA)
+- [Old Cathedral of Saint Mary of Coimbra](https://maps.app.goo.gl/tWtfGrn8e6x3NCRUA)
+- [Colégio do Espírito Santo](https://maps.app.goo.gl/C4Gae3qNTiw3oHxd9)
+- [New Cathedral of the Holy Name of Jesus](https://maps.app.goo.gl/J8mKdDjsfFKnJe3g8)
 - [Convento São Francisco](https://maps.app.goo.gl/1o4LLTnxX3UJGWpX8) - next to the parking above
 
 ### Restaurants in Coimbra
