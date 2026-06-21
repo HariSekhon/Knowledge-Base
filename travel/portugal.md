@@ -287,6 +287,10 @@ I see no need to revisit this one.
   WiFi 28/37 Mbit/s
 - [PrimaPrix](https://maps.app.goo.gl/pkZ5cDaBoaZ46VWL7) - good supermarket to get drinks, snacks, protein shakes etc.
 
+TODO:
+
+- [Stadium Food N' Burger](https://maps.app.goo.gl/za8epyvQyvimB2Zx5) - 4.5
+
 ## Faro
 
 Small town, you can walk around it in around half an hour.
