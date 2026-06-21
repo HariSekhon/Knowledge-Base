@@ -427,6 +427,7 @@ and they are within 1 foot of dying from a fall.
 
 - [Castelo de Óbidos](https://maps.app.goo.gl/aP7bR9UNDA3T5Bhg8) - 9th century castle with the interesting but
   dangerous ramparts mentioned above
+  - [Miradouro](https://maps.app.goo.gl/JtcsPhYTmbdzZo4F9)
 - [Porta Talhada](https://maps.app.goo.gl/mDtaWFkGhm9gAUL87)
 - [Church of Saint Mary](https://maps.app.goo.gl/GdQo9fp7T893gRTY7)
 - [Porta do Vale ou Senhora da Graça](https://maps.app.goo.gl/KiMrMpYQNQsrWLaV8)
