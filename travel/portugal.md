@@ -294,6 +294,7 @@ TODO:
 - [Shahi Dawat Indian Restaurant & Bar](https://maps.app.goo.gl/upgwG1281vkBRUqz5) - 4.8
 - [ondo korean kitchen](https://maps.app.goo.gl/rdFXGyX1jLHfUgTs6) - 4.8, korean
 - [Pattaya Restaurant](https://maps.app.goo.gl/V1ZDFT6Hp62JwWEj6) - 4.6, thai
+- [Gelataria Sincelo](https://maps.app.goo.gl/uYynQ946XYVnN6pKA) - 4.5, ice cream
 - [Honest Greens José Falcão](https://maps.app.goo.gl/sxKbsehB3h8iDFpw5) - 4.3, same chain described in the
   [Madrid section](spain.md#restaurants-in-madrid) of the Spanish page
 
