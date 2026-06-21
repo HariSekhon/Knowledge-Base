@@ -278,6 +278,7 @@ TODO:
 - [Ramen Chef Praça de Carlos Aberto](https://maps.app.goo.gl/suuUTNvCzLkdS5Cq9) - 4.6, affordable Japanese ramen soups
 - [Casa Expresso](https://maps.app.goo.gl/8joB8yotX7w4B6gA9) - 4.7, portugese
 - [Casa Guedes Oliveiras](https://maps.app.goo.gl/JQAQHeUcHHYLc4EX9) - 4.7, portugese
+- [Casa Guedes Progresso](https://maps.app.goo.gl/ZasB7DC9EPJaUAws9) - 4.6, portugese
 - [Honest Greens José Falcão](https://maps.app.goo.gl/sxKbsehB3h8iDFpw5) - 4.3, same chain described in the
   [Madrid section](spain.md#restaurants-in-madrid) of the Spanish page
 
