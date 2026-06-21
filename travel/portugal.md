@@ -61,7 +61,7 @@ claim liabilities).
 
 Portugal's population has almost levelled off and would no doubt decline if not for immigration.
 
-[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~PRT)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~PRT)
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..&country=~PRT)](https://ourworldindata.org/grapher/population?tab=line&time=1950..&country=~PRT)
 
 <https://en.wikipedia.org/wiki/Demographics_of_Portugal>
 
