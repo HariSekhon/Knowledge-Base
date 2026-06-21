@@ -296,6 +296,7 @@ TODO:
 - [Casa Expresso](https://maps.app.goo.gl/8joB8yotX7w4B6gA9) - 4.7, portugese
 - [Casa Guedes Oliveiras](https://maps.app.goo.gl/JQAQHeUcHHYLc4EX9) - 4.7, portugese
 - [Casa Guedes Progresso](https://maps.app.goo.gl/ZasB7DC9EPJaUAws9) - 4.6, portugese
+- [Casa Guedes Rooftop](https://maps.app.goo.gl/VgnFAZQHGvPhR95L7) - 4.7, portugese
 - [Zafferano Authentic Indian Restaurant](https://maps.app.goo.gl/eVyS81Lrvs17n5ju6) - 4.8
 - [Turmeric حلال Pakistani & Indian Halal Restaurant](https://maps.app.goo.gl/qDmCymMtStJarzxa7) - 4.9
 - [Shahi Dawat Indian Restaurant & Bar](https://maps.app.goo.gl/upgwG1281vkBRUqz5) - 4.8
