@@ -252,6 +252,14 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
 
 ### Restaurants in Porto
 
+- [DONKO Gelato](https://maps.app.goo.gl/Q1CVXzunXdBGC4em7) - excellent gelateria.
+  The peanut cream and salted caramel is a favourite here, with peanuts and chocolate flakes in it -
+  it tastes similar to snickers and great for those with a sweet tooth.
+  The pistachio cream has a depth of flavour, and the cachew is a good less sweet alternative to the peanut & caramel,
+  it replaced the hazelnut they previously had on the menu.
+  The medium waffle cone is ok but there are better thicker versions of that at other gelaterias.
+  Has decent seating and fast wifi 383/343 Mbit/s
+
 TODO:
 
 - [Ramen Chef Praça de Carlos Aberto](https://maps.app.goo.gl/suuUTNvCzLkdS5Cq9)
