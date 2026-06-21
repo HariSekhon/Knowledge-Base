@@ -334,6 +334,7 @@ wall.
 
 TODO:
 
+- [Taskinha dos Combatentes](https://maps.app.goo.gl/GxKQSjXbLFx8QaGN8) - 4.8
 - [Taberna do Pita](https://maps.app.goo.gl/uDdaeZCgFoFY4jkEA) - 4.8
 
 ## Faro
