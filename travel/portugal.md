@@ -259,8 +259,8 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
   it replaced the hazelnut they previously had on the menu.
   The medium waffle cone is ok but there are better thicker versions of that at other gelaterias.
   Has decent seating and fast wifi 383/343 Mbit/s
-- [Green Diamond Indian Restaurant & Bar](https://maps.app.goo.gl/iQNN9ZFm4Jfcqk5z6) - not as good as I'd hoped, but ok.
-  I would try somewhere else next time.
+- [Green Diamond Indian Restaurant & Bar](https://maps.app.goo.gl/iQNN9ZFm4Jfcqk5z6) - not as good as I'd hoped given
+  its rating, but ok - I would try somewhere else next time.
   The lamb tikka masala was ok and came in a small single portion pot.
   The garlic naan was decent.
   The vegetable samosa was good.
