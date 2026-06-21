@@ -243,6 +243,9 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
   - [Porto City Hall](https://maps.app.goo.gl/1ssdGXyYW4BJPo2t8) - nice architecture with a Porto sign in front of it
   - [Monumento a Almeida Garrett](https://maps.app.goo.gl/pT9a7Hi8u3tCBj5G9)
   - [Monumento a D. Pedro IV](https://maps.app.goo.gl/P7RzBnAzLnuJuu4SA)
+- [Praça de Guilherme Gomes Fernandes](https://maps.app.goo.gl/hXduc7DzVAFe7qvq9) - the area surrounding this park has
+  quite a lot of well rated restaurants
+  - [Stone Bust of Guilherme Gomes Fernandes](https://maps.app.goo.gl/hEijsdzhq2u5Dvq5A)
 - [R. das Flores](https://maps.app.goo.gl/AtrotECp5aAMrSGz6)
 - [Porto Cathedral](https://maps.app.goo.gl/AhiFgSz1LRjYoKuS9)
 - [Torre dos Clérigos](https://maps.app.goo.gl/GWpTfddB4H2RXoxQ7)
