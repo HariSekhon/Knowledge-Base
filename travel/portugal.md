@@ -270,6 +270,7 @@ I see no need to revisit this one.
 - [Colégio do Espírito Santo](https://maps.app.goo.gl/C4Gae3qNTiw3oHxd9)
 - [New Cathedral of the Holy Name of Jesus](https://maps.app.goo.gl/J8mKdDjsfFKnJe3g8)
 - [Convento São Francisco](https://maps.app.goo.gl/1o4LLTnxX3UJGWpX8) - next to the free covered parking above
+- [Museu da Ciência da Universidade de Coimbra](https://maps.app.goo.gl/jAur1Y4hfQyRrNa26)
 
 ### Restaurants in Coimbra
 
