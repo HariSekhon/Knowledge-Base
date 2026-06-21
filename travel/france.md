@@ -105,6 +105,8 @@ I got so fed up of this that when leaving France from Foix to Andorra I decided 
 route to avoid the toll motorway using the secondary road, but the problem is the speed signs change every km and
 eventually a camera is likely to get you. Drive with Waze to give yourself a better chance.
 
+In fact, I often set my Waze to avoid toll roads after this experience in France.
+
 ## Beziers
 
 Beziers was much nicer than anticipated.
