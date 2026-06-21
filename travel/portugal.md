@@ -249,6 +249,7 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
 - [Palácio da Bolsa](https://maps.app.goo.gl/bSCcPKm3sBPKemqz7)
 - [Port Wine Museum](https://maps.app.goo.gl/5LZpw7umspWPxWy88)
 - [Cais da Ribeira](https://maps.app.goo.gl/ReqdrVeN4DC93mEP7)
+- [ViaCatarina Shopping](https://maps.app.goo.gl/ECTFjdhk8yCeUaih9) - mall
 
 ### Restaurants in Porto
 
@@ -274,6 +275,7 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
 
 TODO:
 
+- [Nivà](https://maps.app.goo.gl/8PC9dBQqHTM7NFWU6) - 4.8 - rated as the _"Best Gelato in Italy"_
 - [Honu Poke Bowls](https://maps.app.goo.gl/CbHvfqzqKztSBcin6) - 4.7, affordable
 - [Nola Kitchen](https://maps.app.goo.gl/U9HNCL8DGqy9AcEp7) - 4.6
 - [Thailander](https://maps.app.goo.gl/xsasN4hAPwYH52x6A) - 4.7, Western tourist priced, makes me miss Thailand
@@ -281,6 +283,9 @@ TODO:
 - [Casa Expresso](https://maps.app.goo.gl/8joB8yotX7w4B6gA9) - 4.7, portugese
 - [Casa Guedes Oliveiras](https://maps.app.goo.gl/JQAQHeUcHHYLc4EX9) - 4.7, portugese
 - [Casa Guedes Progresso](https://maps.app.goo.gl/ZasB7DC9EPJaUAws9) - 4.6, portugese
+- [Zafferano Authentic Indian Restaurant](https://maps.app.goo.gl/eVyS81Lrvs17n5ju6) - 4.8
+- [Turmeric حلال Pakistani & Indian Halal Restaurant](https://maps.app.goo.gl/qDmCymMtStJarzxa7) - 4.9
+- [Pattaya Restaurant](https://maps.app.goo.gl/V1ZDFT6Hp62JwWEj6) - 4.6, thai
 - [Honest Greens José Falcão](https://maps.app.goo.gl/sxKbsehB3h8iDFpw5) - 4.3, same chain described in the
   [Madrid section](spain.md#restaurants-in-madrid) of the Spanish page
 
