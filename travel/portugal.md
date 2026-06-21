@@ -303,6 +303,7 @@ TODO:
 - [Shahi Dawat Indian Restaurant & Bar](https://maps.app.goo.gl/upgwG1281vkBRUqz5) - 4.8
 - [ondo korean kitchen](https://maps.app.goo.gl/rdFXGyX1jLHfUgTs6) - 4.8, korean
 - [Taberna dos Carris](https://maps.app.goo.gl/xHGzgkDnkEmbiPmS8) - 4.7
+- [Metro & Meio](https://maps.app.goo.gl/XKhWRD511EHWhF3q8) -  4.7
 - [Prégar Baixa](https://maps.app.goo.gl/ZBXcYGULtVzwKTTv6) - 4.7 burgers and beef sandwiches
 - [Restaurante Reboleira](https://maps.app.goo.gl/9noCecLvfhLaaQku7) - 4.7
 - [Local Food Experience](https://maps.app.goo.gl/iWBe5KieJGXSbcGs9) - 4.7
