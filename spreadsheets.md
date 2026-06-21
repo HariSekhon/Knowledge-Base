@@ -40,8 +40,8 @@ When using an equation referencing another cell,
 it will often auto-update correctly if you insert some rows in the middle,
 but if you insert rows at the end of a range, it often doesn't extend the range,
 resulting in a wrong total that doesn't include the rows added at the end
-(this might be due to clicking `Insert One Row Above` instead of `Insert One Row Below` as its closer to the mouse
-cursor).
+(this might be due to clicking `Insert One Row Above` on the totals rows
+instead of `Insert One Row Below` on the last data row as its closer to the mouse cursor).
 
 This happened to me in Google Sheets a lot.
 
