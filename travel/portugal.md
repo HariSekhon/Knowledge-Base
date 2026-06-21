@@ -306,6 +306,7 @@ TODO:
 - [Restaurante Reboleira](https://maps.app.goo.gl/9noCecLvfhLaaQku7) - 4.7
 - [Local Food Experience](https://maps.app.goo.gl/iWBe5KieJGXSbcGs9) - 4.7
 - [LOOK.Sharp Cafe Porto](https://maps.app.goo.gl/ZeBMJqAyFkNnPa8z8) - 4.7
+- [Buga Ramen Ribeira](https://maps.app.goo.gl/vyYzFMkjjvEcVdLe8) - 4.6
 - [Pattaya Restaurant](https://maps.app.goo.gl/V1ZDFT6Hp62JwWEj6) - 4.6, thai
 - [Gelataria Sincelo](https://maps.app.goo.gl/uYynQ946XYVnN6pKA) - 4.5, ice cream
 - [Honest Greens José Falcão](https://maps.app.goo.gl/sxKbsehB3h8iDFpw5) - 4.3, same chain described in the
