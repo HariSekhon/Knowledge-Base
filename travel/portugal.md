@@ -17,6 +17,7 @@
 - [Albufeira](#albufeira)
   - [Parking in Albufeira](#parking-in-albufeira)
   - [Attractions in Albufeira](#attractions-in-albufeira)
+  - [Restaurants in Albugeira](#restaurants-in-albugeira)
 - [Coimbra](#coimbra)
   - [Parking in Coimbra](#parking-in-coimbra)
   - [Attractions in Coimbra](#attractions-in-coimbra)
@@ -257,6 +258,15 @@ TODO:
 - [Praia dos Pescadores](https://maps.app.goo.gl/BPpdhkwwo9HvYFoH8)
 - [Estátua de São Vicente de Albufeira](https://maps.app.goo.gl/ma3F3tuTQasnWjFQA)
 - [Largo Engenheiro Duarte Pacheco](https://maps.app.goo.gl/f916YwxtameaADv27)
+
+### Restaurants in Albugeira
+
+- [O Crepe da Baixa](https://maps.app.goo.gl/s7rCsiAJnykqn25X7)
+
+TODO:
+
+- [Georgina Café](https://maps.app.goo.gl/zzZRD5PieLeBQWa5A)
+- [York Smash Burger](https://maps.app.goo.gl/V6RbpHQZDWvMmkr89)
 
 ## Coimbra
 
