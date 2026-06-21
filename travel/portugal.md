@@ -332,6 +332,7 @@ wall.
 - [Chapel of Bones](https://maps.app.goo.gl/yyEVHcKYotcNyYjd9)
 - [Ruínas Fingidas](https://maps.app.goo.gl/YhLxshYGWe88G9wf6)
 - [Ruínas da Ermida de São Bartolomeu](https://maps.app.goo.gl/f9g6NT8fcCADYKDy6)
+- [Monument to the Dead of the Great War](https://maps.app.goo.gl/BxYy9tuA5RQJ5iRUA)
 
 ### Restaurants in Evora
 
