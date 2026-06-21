@@ -244,6 +244,7 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
   - [Monumento a Almeida Garrett](https://maps.app.goo.gl/pT9a7Hi8u3tCBj5G9)
   - [Monumento a D. Pedro IV](https://maps.app.goo.gl/P7RzBnAzLnuJuu4SA)
 - [R. das Flores](https://maps.app.goo.gl/AtrotECp5aAMrSGz6)
+- [Porto Cathedral](https://maps.app.goo.gl/AhiFgSz1LRjYoKuS9)
 - [Torre dos Clérigos](https://maps.app.goo.gl/GWpTfddB4H2RXoxQ7)
 - [Igreja do Carmo](https://maps.app.goo.gl/NHKfgAiqYrE6sp3M6)
 - [Clérigos Church](https://maps.app.goo.gl/o27LzEUn1GUNMMSY6)
