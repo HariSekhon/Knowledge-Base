@@ -247,6 +247,8 @@ TODO:
 
 ## Albufeira
 
+Small seaside town known for having English tourists, I heard about this in Lagos so had to stop by to have an explore.
+
 ### Parking in Albufeira
 
 - [Free Parking Place - Old Town](https://maps.app.goo.gl/VBqjwwAsWLuYRA4s6)
@@ -254,10 +256,14 @@ TODO:
 ### Attractions in Albufeira
 
 - [Albufeira Old Town](https://maps.app.goo.gl/gG3pCnU3icF2uMyT7)
-- [Praia do Túnel](https://maps.app.goo.gl/EVdoCxNduUsDhX8HA)
-- [Praia dos Pescadores](https://maps.app.goo.gl/BPpdhkwwo9HvYFoH8)
+- [Miradouro do Pau da Bandeira](https://maps.app.goo.gl/AvgK3TbNXE4K8tka7) - scenic point overlooking the beach
+  with outdoor escalators up there, and a tourist train stop there
+- [Praia do Túnel](https://maps.app.goo.gl/EVdoCxNduUsDhX8HA) - beach tunnel
+- [Praia dos Pescadores](https://maps.app.goo.gl/BPpdhkwwo9HvYFoH8) - beach
+- [Praia do Inatel](https://maps.app.goo.gl/NuE9NvUAEnxVnvzi9) - yet more beach
+- [Largo Engenheiro Duarte Pacheco](https://maps.app.goo.gl/f916YwxtameaADv27) - town square with various bars and
+  restaurants around it
 - [Estátua de São Vicente de Albufeira](https://maps.app.goo.gl/ma3F3tuTQasnWjFQA)
-- [Largo Engenheiro Duarte Pacheco](https://maps.app.goo.gl/f916YwxtameaADv27)
 
 ### Restaurants in Albugeira
 
@@ -265,8 +271,12 @@ TODO:
 
 TODO:
 
-- [Georgina Café](https://maps.app.goo.gl/zzZRD5PieLeBQWa5A)
-- [York Smash Burger](https://maps.app.goo.gl/V6RbpHQZDWvMmkr89)
+- [Georgina Café](https://maps.app.goo.gl/zzZRD5PieLeBQWa5A) - 4.7, gentrified prices, but well rated.
+  There seems to be another one of these [here](https://maps.app.goo.gl/w8tkGKtVNKXDTnUs9)
+- [York Smash Burger](https://maps.app.goo.gl/V6RbpHQZDWvMmkr89) - 4.8
+- [N'ice Cream](https://maps.app.goo.gl/xBmXuWv7tfvqAfnB9) - 4.8
+- [Donatella](https://maps.app.goo.gl/jrJriames5f5WhFU8) - 4.6
+- [Rütz Albufeira](https://maps.app.goo.gl/mkno18MUyRqiQ4Gv5) - 4.5
 
 ## Coimbra
 
