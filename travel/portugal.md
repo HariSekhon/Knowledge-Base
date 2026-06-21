@@ -26,6 +26,8 @@
   - [Parking in Lagos](#parking-in-lagos)
   - [Attractions in Lagos](#attractions-in-lagos)
   - [Restaurants in Lagos](#restaurants-in-lagos)
+- [Obidos](#obidos)
+  - [Attractions in Obidos](#attractions-in-obidos)
 
 <!-- INDEX_END -->
 
@@ -394,3 +396,32 @@ TODO:
 - [Matobiche](https://maps.app.goo.gl/cdxBBTuXRVHmNotR7) - 4.6
 - [Mar d'Estórias](https://maps.app.goo.gl/YBosxaiLvkVSia3p8) - 4.5
 - [Indigo Bar](https://maps.app.goo.gl/zzrTeRve5DF3ikMz7) - 4.5
+
+## Obidos
+
+[Óbidos](https://maps.app.goo.gl/NqgHasaanBWAb9oL9) is a town with a castle and walls with ramparts that you can walk
+around the town.
+
+### Attractions in Obidos
+
+Walk the walls around the city if you have time.
+
+The castle and town wall ramparts are surprisingly dangerous though as they have no inner wall or guard rails on the
+walls or the large stairs and there are drops of 20-30 feet, often onto rocks or concrete, which could be a fatal fall.
+
+This is far too dangerous for children or even teenagers,
+as that stupid hand on shoulder shock that teenagers think is funny could result in a fatal fall here.
+
+You can feel the fear in the adults walking the walls,
+especially when people have to pass each other and someone has to pass on the inner side which has no wall or guardrail
+and they are within 1 foot of dying from a fall.
+
+- [Castelo de Óbidos](https://maps.app.goo.gl/aP7bR9UNDA3T5Bhg8) - 9th century castle with the interesting but
+  dangerous ramparts mentioned above
+- [Porta Talhada](https://maps.app.goo.gl/mDtaWFkGhm9gAUL87)
+- [Church of Saint Mary](https://maps.app.goo.gl/GdQo9fp7T893gRTY7)
+- [Porta do Vale ou Senhora da Graça](https://maps.app.goo.gl/KiMrMpYQNQsrWLaV8)
+- [Baloiço Óbidos](https://maps.app.goo.gl/8MSRJrgsNUD79HKs5)
+- [Porta da Vila](https://maps.app.goo.gl/hrN5ZNXscsj1rnw1A)
+- [Aqueduto de Usseira](https://maps.app.goo.gl/13Y5royC734KFp9Q6)
+- [Miradouro Porta](https://maps.app.goo.gl/FUzSMbBvbj1xHKS9A)
