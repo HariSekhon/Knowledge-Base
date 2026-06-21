@@ -274,7 +274,8 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
 
 TODO:
 
-- [Ramen Chef Praça de Carlos Aberto](https://maps.app.goo.gl/suuUTNvCzLkdS5Cq9)
+- [Thailander](https://maps.app.goo.gl/xsasN4hAPwYH52x6A) - 4.7, Western tourist priced, makes me miss Thailand
+- [Ramen Chef Praça de Carlos Aberto](https://maps.app.goo.gl/suuUTNvCzLkdS5Cq9) - affordable Japanese ramen soups
 
 ## Albufeira
 
