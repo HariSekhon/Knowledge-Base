@@ -142,7 +142,8 @@ The only regions statistically safer are the historically high quality civilizat
 and the strict law Gulf states, both of which do not tolerate low quality mass immigration from 3rd world countries.
 
 Unfortunately, I have to caveat this as not Barcelona, and also,
-that this is statistically likely to worsen with ever more immigration from Africa.
+that this is statistically likely to worsen with ever more immigration from Africa due to the huge birthrate
+imbalance and mass migration patterns due to weak borders and weak democratic governments.
 
 [![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=UN_EUR~GBR~Eastern+Asia+%28UN%29~ESP~OWID_WRL~Sub-Saharan+Africa+%28UN%29)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=UN_EUR~GBR~Eastern+Asia+%28UN%29~ESP~UN_AFR~OWID_WRL)
 
