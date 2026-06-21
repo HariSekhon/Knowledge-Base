@@ -136,8 +136,9 @@ Although Spain is ~20% replaced already, a substantial portion of this was previ
 for example there a lots of Brits along the south coast, and they are unlikely to cause crime, so that has been to
 Spain's advantage.
 
-Spain's overall crime rate is actually lower than Europe in general,
-which is already very low compared to Latin America and Africa.
+Spain's overall crime rate is actually lower than Europe in general
+as much of Western Europe has more mass immigration from higher crime countries,
+and very low compared to Latin America and Africa.
 
 The only regions statistically safer are the historically high quality civilizations of the Far East,
 and the strict law Gulf states, both of which do not tolerate low quality mass immigration from 3rd world countries.
