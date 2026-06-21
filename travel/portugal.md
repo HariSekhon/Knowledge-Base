@@ -327,7 +327,6 @@ wall.
 - [Muralhas de Évora](https://maps.app.goo.gl/XXVHhEwnYjM82i3G9) - castle on the outer wall
 - [Aqueduct Água de Prata](https://maps.app.goo.gl/DWXuyzdgTxgqwhom7) - impressive large aquaduct hundreds of years old
 - [Igreja da Misericórdia](https://maps.app.goo.gl/hrf4jPS4VpQve7bGA)
-- [Chafariz da Porta de Aviz](https://maps.app.goo.gl/EUa1ZhWfMeBQVGAj7)
 - [Ruínas da Ermida de São Bartolomeu](https://maps.app.goo.gl/f9g6NT8fcCADYKDy6)
 
 ### Restaurants in Evora
