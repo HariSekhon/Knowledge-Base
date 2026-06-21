@@ -18,6 +18,10 @@
   - [Parking in Coimbra](#parking-in-coimbra)
   - [Attractions in Coimbra](#attractions-in-coimbra)
   - [Restaurants in Coimbra](#restaurants-in-coimbra)
+- [Evora](#evora)
+  - [Parking in Evora](#parking-in-evora)
+  - [Attractions in Evora](#attractions-in-evora)
+  - [Restaurants in Evora](#restaurants-in-evora)
 - [Faro](#faro)
   - [Parking in Faro](#parking-in-faro)
   - [Attractions in Faro](#attractions-in-faro)
@@ -295,6 +299,42 @@ I see no need to revisit this one.
 TODO:
 
 - [Stadium Food N' Burger](https://maps.app.goo.gl/za8epyvQyvimB2Zx5) - 4.5
+
+## Evora
+
+[Évora](https://maps.app.goo.gl/av7WtRHFzuEoG9Dz6) is a town with historic Roman architecture and enclosing historic
+wall.
+
+### Parking in Evora
+
+- [Estacionamento Largo de Aviz](https://maps.app.goo.gl/zXFngNnapnzkGxCq9) - free open air parking, next to the
+  aquaduct and outer wall of the town
+- [Estacionamento da Água de Prata](https://maps.app.goo.gl/W9W922RzuGF3zxhZ8) - free open air parking
+
+### Attractions in Evora
+
+- [Centro Histórico de Évora](https://maps.app.goo.gl/5t29P4whdAYwQHpNA) - historic central square
+  - [Giraldo Square Fountain](https://maps.app.goo.gl/SiBVn8JpYNrpxNab6)
+  - [Santo Antão Church](https://maps.app.goo.gl/FZzQQHShG6Bv7iRw9)
+- [Roman Temple of Évora](https://maps.app.goo.gl/JZuB8W9Ar5FtKAt98)
+  - [Palácio da Inquisição](https://maps.app.goo.gl/yJkDeDahRaEKWxQN9)
+  - [Jardim Diana](https://maps.app.goo.gl/nRCjEjY1aLUcWCo4A) - garden of Diana
+    - [Miradouro do Jardim Diana](https://maps.app.goo.gl/Jj6ibfDfVj8QQ2r56) - viewing scenic point
+  - [Cathedral of Évora](https://maps.app.goo.gl/C8iMFpTwPczREALE8)
+  - [Cadaval Palace](https://maps.app.goo.gl/2U4Y9JFLLatnAKzM6)
+  - [Igreja de São João Evangelista / Igreja dos Lóios](https://maps.app.goo.gl/xi7oiWxyQNGYfn3m6)
+  - [Escudo de Évora](https://maps.app.goo.gl/tGUxDa9S83wyYjmX8)
+- [Muralhas de Évora](https://maps.app.goo.gl/XXVHhEwnYjM82i3G9) - castle on the outer wall
+- [Aqueduct Água de Prata](https://maps.app.goo.gl/DWXuyzdgTxgqwhom7) - impressive large aquaduct hundreds of years old
+- [Igreja da Misericórdia](https://maps.app.goo.gl/hrf4jPS4VpQve7bGA)
+- [Chafariz da Porta de Aviz](https://maps.app.goo.gl/EUa1ZhWfMeBQVGAj7)
+- [Ruínas da Ermida de São Bartolomeu](https://maps.app.goo.gl/f9g6NT8fcCADYKDy6)
+
+### Restaurants in Evora
+
+TODO:
+
+- [Taberna do Pita](https://maps.app.goo.gl/uDdaeZCgFoFY4jkEA) - 4.8
 
 ## Faro
 
