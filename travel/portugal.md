@@ -38,7 +38,7 @@ Restaurants are typically Western priced so not cheap.
 
 The best rated restaurants across Portugal are often Indian restaurants, because on a price vs quality and quantity
 they out compete the restaurants serving you one basic main for €20-30 - at least if you spend that much with them you
-are getting more tasty food and a full belly instead of 1 octopus tentacle.
+are getting more tasty food and a full belly instead of just 1-2 octopus tentacles and some drizzle.
 
 ## Population
 
