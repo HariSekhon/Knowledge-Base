@@ -49,9 +49,11 @@ but the country intentionally does not collect ethnicity data to know beyond peo
 
 Like with Spain, I was surprised to see many sub-saharan African immigrants across towns and cities in Portugal.
 
-As with all European countries, Portugal's birthrate is well below replenishment at 1.5 children per woman.
+As with all European countries, Portugal's birthrate is well below replenishment at 1.5 children per woman:
 
 [![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~PRT~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~PRT~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)
+
+If the above graph doesn't concern you, see the [Idiocracy Trailer](https://www.youtube.com/watch?v=sP2tUW0HDHA).
 
 Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
 and much higher birthrates or perpetual mass immigration replacement is needed if you want to try to support an
