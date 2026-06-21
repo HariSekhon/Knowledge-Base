@@ -428,13 +428,14 @@ and they are within 1 foot of dying from a fall.
 - [Castelo de Óbidos](https://maps.app.goo.gl/aP7bR9UNDA3T5Bhg8) - 9th century castle with the interesting but
   dangerous ramparts mentioned above
   - [Miradouro](https://maps.app.goo.gl/JtcsPhYTmbdzZo4F9)
+  - [Miradouro](https://maps.app.goo.gl/WKEKVGFyD5CqoYLM7)
+  - [Miradouro Porta](https://maps.app.goo.gl/FUzSMbBvbj1xHKS9A)
 - [Porta Talhada](https://maps.app.goo.gl/mDtaWFkGhm9gAUL87)
 - [Church of Saint Mary](https://maps.app.goo.gl/GdQo9fp7T893gRTY7)
 - [Porta do Vale ou Senhora da Graça](https://maps.app.goo.gl/KiMrMpYQNQsrWLaV8)
 - [Baloiço Óbidos](https://maps.app.goo.gl/8MSRJrgsNUD79HKs5)
 - [Porta da Vila](https://maps.app.goo.gl/hrN5ZNXscsj1rnw1A)
-- [Aqueduto de Usseira](https://maps.app.goo.gl/13Y5royC734KFp9Q6)
-- [Miradouro Porta](https://maps.app.goo.gl/FUzSMbBvbj1xHKS9A)
+- [Aqueduto de Usseira](https://maps.app.goo.gl/13Y5royC734KFp9Q6) - large aquaduct that runs along the car park
 
 ### Restaurants in Obidos
 
