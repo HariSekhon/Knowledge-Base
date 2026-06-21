@@ -36,7 +36,7 @@ but I believe the rise in prices due to this has reduced its attractiveness.
 
 Restaurants are typically Western priced so not cheap.
 
-The best rated restaurants across Portugal are often Indian restaurants, because on on a price vs quality and quantity
+The best rated restaurants across Portugal are often Indian restaurants, because on a price vs quality and quantity
 they out compete the restaurants serving you one basic main for €20-30.
 
 ## Population
