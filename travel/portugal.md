@@ -305,6 +305,8 @@ TODO:
 [Évora](https://maps.app.goo.gl/av7WtRHFzuEoG9Dz6) is a town with historic Roman architecture and enclosing historic
 wall.
 
+You can explore it on foot within a couple hours, plus time for snacks / restaurants.
+
 ### Parking in Evora
 
 - [Estacionamento Largo de Aviz](https://maps.app.goo.gl/zXFngNnapnzkGxCq9) - free open air parking, next to the
@@ -327,6 +329,7 @@ wall.
 - [Muralhas de Évora](https://maps.app.goo.gl/XXVHhEwnYjM82i3G9) - castle on the outer wall
 - [Aqueduct Água de Prata](https://maps.app.goo.gl/DWXuyzdgTxgqwhom7) - impressive large aquaduct hundreds of years old
 - [Royal Palace of Évora](https://maps.app.goo.gl/4GLhVYxhRD9pHRvWA)
+- [Palácio Barahona](https://maps.app.goo.gl/Zb2HciEPFjH9MmR7A)
 - [Centro de Artes Tradicionais](https://maps.app.goo.gl/tzrJpfuaFNzK3qd58)
 - [Igreja da Misericórdia](https://maps.app.goo.gl/hrf4jPS4VpQve7bGA)
 - [Chapel of Bones](https://maps.app.goo.gl/yyEVHcKYotcNyYjd9)
