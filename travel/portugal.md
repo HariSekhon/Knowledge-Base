@@ -196,9 +196,8 @@ TODO:
 
 ## Porto
 
-You can walk around central Porto in a couple of hours
-so 1-2 days to spend in the city and try the restaurants is probably enough for more,
-a good choice for a weekend trip.
+You can walk around central Porto in a couple of hours so you only really need 1 day to see the city, 2 days if you want
+to try more restaurants or be more thorough in its attractions, making this a good choice for a weekend getaway trip.
 
 <!--
 
