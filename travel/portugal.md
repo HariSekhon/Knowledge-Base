@@ -271,6 +271,7 @@ Small seaside town known for having English tourists, I heard about this in Lago
 
 TODO:
 
+- [Buachompoo Thai Food](https://maps.app.goo.gl/ooQYAxxVH1wDjV2e6) - 4.7
 - [Georgina Café](https://maps.app.goo.gl/zzZRD5PieLeBQWa5A) - 4.7, gentrified prices, but well rated
   There seems to be another one of these [here](https://maps.app.goo.gl/w8tkGKtVNKXDTnUs9)
 - [York Smash Burger](https://maps.app.goo.gl/V6RbpHQZDWvMmkr89) - 4.8
@@ -278,6 +279,7 @@ TODO:
 - [Donatella](https://maps.app.goo.gl/jrJriames5f5WhFU8) - 4.6
 - [Rütz Albufeira](https://maps.app.goo.gl/mkno18MUyRqiQ4Gv5) - 4.5
 - [Sailor Ice Cream](https://maps.app.goo.gl/JDixGzdXpuL9jSEE9) - 4.5
+- [Sapori. Pasta & Gelato](https://maps.app.goo.gl/R7KvWVyjZSyaSMFq5) - 4.5
 
 ## Coimbra
 
