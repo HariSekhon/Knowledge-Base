@@ -299,6 +299,7 @@ TODO:
 - [Turmeric حلال Pakistani & Indian Halal Restaurant](https://maps.app.goo.gl/qDmCymMtStJarzxa7) - 4.9
 - [Shahi Dawat Indian Restaurant & Bar](https://maps.app.goo.gl/upgwG1281vkBRUqz5) - 4.8
 - [ondo korean kitchen](https://maps.app.goo.gl/rdFXGyX1jLHfUgTs6) - 4.8, korean
+- [Taberna dos Carris](https://maps.app.goo.gl/xHGzgkDnkEmbiPmS8) - 4.7
 - [Pattaya Restaurant](https://maps.app.goo.gl/V1ZDFT6Hp62JwWEj6) - 4.6, thai
 - [Gelataria Sincelo](https://maps.app.goo.gl/uYynQ946XYVnN6pKA) - 4.5, ice cream
 - [Honest Greens José Falcão](https://maps.app.goo.gl/sxKbsehB3h8iDFpw5) - 4.3, same chain described in the
