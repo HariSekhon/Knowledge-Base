@@ -70,21 +70,35 @@ brew install pandoc
 pandoc "$name.txt" -o "$name.pdf"
 ```
 
-<!--
-
 If you get this error:
 
 ```text
 pdflatex not found. Please select a different --pdf-engine or install pdflatex
 ```
 
-then install
+then you need to install a Latex distribution like mactex:
 
 ```shell
-
+brew install --cask mactex
 ```
 
--->
+Restart thes shell or run this:
+
+```shell
+export PATH="/Library/TeX/texbin:$PATH"
+```
+
+or this:
+
+```shell
+eval "$(/usr/libexec/path_helper)"
+```
+
+and then try again:
+
+```shell
+pandoc "$name.txt" -o "$name.pdf"
+```
 
 ### enscript + ps2pdf
 
