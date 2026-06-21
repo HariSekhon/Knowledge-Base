@@ -39,7 +39,7 @@ Make sure you use formulae for the dates so everything auto adjusts... see next 
 When using an equation referencing another cell,
 it will often auto-update correctly if you insert some rows in the middle,
 but it happened to me several times in Google Sheets when adding rows to the end that that the formula didn't
-auto-update correctly, resulting in a wrong total that doesn't include the rows added at the end.
+auto-update correctly, resulting in a wrong total that didn't include the rows added at the end.
 
 The solution is to change your equation to reference the starting cell all the way down to the cell just above the
 Totals line that the equation is in.
