@@ -27,6 +27,7 @@
   - [Attractions in Lagos](#attractions-in-lagos)
   - [Restaurants in Lagos](#restaurants-in-lagos)
 - [Obidos](#obidos)
+  - [Parking in Obidos](#parking-in-obidos)
   - [Attractions in Obidos](#attractions-in-obidos)
 
 <!-- INDEX_END -->
@@ -401,6 +402,13 @@ TODO:
 
 [Óbidos](https://maps.app.goo.gl/NqgHasaanBWAb9oL9) is a town with a castle and walls with ramparts that you can walk
 around the town.
+
+You can easily spend 1-2 hours walking around the castle and town walls, plus time for a stop for a snack or food.
+
+### Parking in Obidos
+
+- [Estacionamento do Campo da Bola](https://maps.app.goo.gl/RMtXZVhxdwR3BwB18) - free open air car park
+- [Obidos Free Parking](https://maps.app.goo.gl/5LUcUaMJ7LuThBNv9) - another free parking
 
 ### Attractions in Obidos
 
