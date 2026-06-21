@@ -275,6 +275,7 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
 TODO:
 
 - [Honu Poke Bowls](https://maps.app.goo.gl/CbHvfqzqKztSBcin6) - 4.7, affordable
+- [Nola Kitchen](https://maps.app.goo.gl/U9HNCL8DGqy9AcEp7) - 4.6
 - [Thailander](https://maps.app.goo.gl/xsasN4hAPwYH52x6A) - 4.7, Western tourist priced, makes me miss Thailand
 - [Ramen Chef Praça de Carlos Aberto](https://maps.app.goo.gl/suuUTNvCzLkdS5Cq9) - 4.6, affordable Japanese ramen soups
 - [Casa Expresso](https://maps.app.goo.gl/8joB8yotX7w4B6gA9) - 4.7, portugese
