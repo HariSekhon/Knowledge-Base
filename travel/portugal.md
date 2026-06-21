@@ -275,7 +275,7 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
 TODO:
 
 - [Thailander](https://maps.app.goo.gl/xsasN4hAPwYH52x6A) - 4.7, Western tourist priced, makes me miss Thailand
-- [Ramen Chef Praça de Carlos Aberto](https://maps.app.goo.gl/suuUTNvCzLkdS5Cq9) - affordable Japanese ramen soups
+- [Ramen Chef Praça de Carlos Aberto](https://maps.app.goo.gl/suuUTNvCzLkdS5Cq9) - 4.6, affordable Japanese ramen soups
 - [Casa Expresso](https://maps.app.goo.gl/8joB8yotX7w4B6gA9) - 4.7, portugese
 - [Casa Guedes Oliveiras](https://maps.app.goo.gl/JQAQHeUcHHYLc4EX9) - 4.7, portugese
 - [Honest Greens José Falcão](https://maps.app.goo.gl/sxKbsehB3h8iDFpw5) - 4.3, same chain described in the
