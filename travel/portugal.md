@@ -53,7 +53,9 @@ As with all European countries, Portugal's birthrate is well below replenishment
 
 [![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~PRT~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~PRT~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)
 
-If the above graph doesn't concern you, see the [Idiocracy Trailer](https://www.youtube.com/watch?v=sP2tUW0HDHA).
+If the above graph doesn't concern you, see the Idiocracy trailer:
+
+[![IDIOCRACY Opening Scene (2006) Mike Judge](https://img.youtube.com/vi/sP2tUW0HDHA/0.jpg)](https://www.youtube.com/watch?v=sP2tUW0HDHA)
 
 Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
 and much higher birthrates or perpetual mass immigration replacement is needed if you want to try to support an
