@@ -290,7 +290,8 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
 TODO:
 
 - [Nivà](https://maps.app.goo.gl/8PC9dBQqHTM7NFWU6) - 4.8 - rated as the _"Best Gelato in Italy"_
-- [Gelataria Portuense](https://maps.app.goo.gl/D2HjiNg6F7t3ye9X9) - 4.7
+- [Gelataria Portuense](https://maps.app.goo.gl/D2HjiNg6F7t3ye9X9) - 4.7 ice cream
+- [Amalia Geladaria & Cafetaria](https://maps.app.goo.gl/EAQciCR6BR94o6HL6) - 4.9 ice cream
 - ["Voltaria" - Petisqueira Portuguesa](https://maps.app.goo.gl/c4sRbBXp4TXGYaoh6) - 4.8, portugese tapas
 - [Honu Poke Bowls](https://maps.app.goo.gl/CbHvfqzqKztSBcin6) - 4.7, affordable
 - [Nola Kitchen](https://maps.app.goo.gl/U9HNCL8DGqy9AcEp7) - 4.6
