@@ -250,6 +250,7 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
 - [Port Wine Museum](https://maps.app.goo.gl/5LZpw7umspWPxWy88)
 - [Cais da Ribeira](https://maps.app.goo.gl/ReqdrVeN4DC93mEP7)
 - [Miradouro das Fontainhas](https://maps.app.goo.gl/3MvYAaJrZxXGCeuN6)
+- [Miradouro da Serra do Pilar](https://maps.app.goo.gl/B9DvzBGDJ6KiL7326)
 - [ViaCatarina Shopping](https://maps.app.goo.gl/ECTFjdhk8yCeUaih9) - mall
 
 ### Restaurants in Porto
