@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Population](#population)
 - [Driving in France](#driving-in-france)
   - [Emissions Sticker Needed for Cities](#emissions-sticker-needed-for-cities)
   - [Tolls](#tolls)
@@ -56,6 +57,13 @@ A surprising number of French people in France do not speak English at all.
 
 If you've been travelling to other countries where they often accommodate English speakers this might come as a
 surprise for a country close to England.
+
+## Population
+
+One Austrian guy I met in the south of Portugal,
+who was aware of the Western decline,
+said his father worked in immigration for _"asylum seekers"_
+and those that were rejected from Austria went to France, so he has a very low opinion of France.
 
 ## Driving in France
 
