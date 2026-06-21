@@ -38,12 +38,8 @@ Make sure you use formulae for the dates so everything auto adjusts... see next 
 
 When using an equation referencing another cell,
 it will often auto-update correctly if you insert some rows in the middle,
-but if you insert rows at the end of a range, it often doesn't extend the range,
-resulting in a wrong total that doesn't include the rows added at the end
-(this might be due to clicking `Insert One Row Above` on the totals rows
-instead of `Insert One Row Below` on the last data row as its closer to the mouse cursor).
-
-This happened to me in Google Sheets a lot.
+but it happened to me several times in Google Sheets when adding rows to the end that that the formula didn't
+auto-update correctly, resulting in a wrong total that doesn't include the rows added at the end.
 
 The solution is to change your equation to reference the starting cell all the way down to the cell just above the
 Totals line that the equation is in.
@@ -51,7 +47,7 @@ Totals line that the equation is in.
 Instead of this:
 
 ```text
-=SUM(C200:C250, COLUMN())))
+=SUM(C200:C250)
 ```
 
 Replace the ending cell explicit `C250` reference with a relative cell location one above the current line using this
