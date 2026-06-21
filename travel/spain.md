@@ -128,7 +128,7 @@ which is how I discovered Spain as I stopped over for a few days to catch a chea
 
 ## Crime
 
-Spain is still a 1st world country for now as it hasn't has as much bad immigration as the UK,
+Spain is still a 1st world country for now as it hasn't had as much bad immigration as the UK,
 so is lower crime, for now.
 
 Although Spain is ~20% replaced already, a substantial portion of this was previously from Europe,
