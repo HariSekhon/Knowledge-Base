@@ -259,8 +259,6 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
   it replaced the hazelnut they previously had on the menu.
   The medium waffle cone is ok but there are better thicker versions of that at other gelaterias.
   Has decent seating and fast wifi 383/343 Mbit/s
-- [Continente Bom Dia Sá da Bandeira](https://maps.app.goo.gl/f4aqKzPNbJiChjKj9) - good supermarket with fresh orange
-  juice machine and large selection of products at reasonable prices
 - [Green Diamond Indian Restaurant & Bar](https://maps.app.goo.gl/iQNN9ZFm4Jfcqk5z6) - not as good as I'd hoped, but ok.
   I would try somewhere else next time.
   The lamb tikka masala was ok and came in a small single portion pot.
@@ -271,6 +269,8 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
   as they were crispy but lacked the expected flavour.
   The coconut lassi was small and a bit too sweet.
   WiFi 37/18 Mbit/s
+- [Continente Bom Dia Sá da Bandeira](https://maps.app.goo.gl/f4aqKzPNbJiChjKj9) - good supermarket with fresh orange
+  juice machine and large selection of products at reasonable prices
 
 TODO:
 
