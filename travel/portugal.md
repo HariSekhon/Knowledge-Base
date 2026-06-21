@@ -63,7 +63,7 @@ expensive democratic ponzi scheme welfare state & pensions system - which doesn'
 lower quality, lower tax paying, higher crime, higher welfare claims, as well as accumulating
 future pensions claim liabilities - it's a doom spiral.
 
-Portugal's population has almost levelled off and would no doubt decline if not for immigration replacement:
+Portugal's population has almost levelled off and would decline if not for mass immigration replacement:
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..&country=~PRT)](https://ourworldindata.org/grapher/population?tab=line&time=1950..&country=~PRT)
 
