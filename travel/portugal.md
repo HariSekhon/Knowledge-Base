@@ -449,3 +449,4 @@ and they are within 1 foot of dying from a fall.
 TODO:
 
 - [O Portão da Vila](https://maps.app.goo.gl/EyZdCtyAYwCv5eqc7) - 4.9 snack bar
+- [Avocado Coffee & Healthy Food](https://maps.app.goo.gl/xP3Razhqc2dTBe5n6) - 4.7
