@@ -251,7 +251,8 @@ Small seaside town known for having English tourists, I heard about this in Lago
 
 ### Parking in Albufeira
 
-- [Free Parking Place - Old Town](https://maps.app.goo.gl/VBqjwwAsWLuYRA4s6)
+- [Free Parking Place - Old Town](https://maps.app.goo.gl/VBqjwwAsWLuYRA4s6) - free outdoor parking within a few minutes
+  walk of the old town
 
 ### Attractions in Albufeira
 
