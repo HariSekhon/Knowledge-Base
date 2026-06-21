@@ -308,6 +308,7 @@ Small seaside town known for having English tourists, I heard about this in Lago
 
 TODO:
 
+- [CA Downtown - Brunch](https://maps.app.goo.gl/oUvFUCMSpGnvNtWt5) - 4.9 brunch cafe
 - [Buachompoo Thai Food](https://maps.app.goo.gl/ooQYAxxVH1wDjV2e6) - 4.7
 - [Georgina Café](https://maps.app.goo.gl/zzZRD5PieLeBQWa5A) - 4.7, gentrified prices, but well rated
   There seems to be another one of these [here](https://maps.app.goo.gl/w8tkGKtVNKXDTnUs9)
