@@ -260,6 +260,7 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
 - [Miradouro das Fontainhas](https://maps.app.goo.gl/3MvYAaJrZxXGCeuN6)
 - [Miradouro da Serra do Pilar](https://maps.app.goo.gl/B9DvzBGDJ6KiL7326)
 - [Cais de Gaia](https://maps.app.goo.gl/8EmrwGW5ipg5Efzu6)
+- [Jardim da Cordoaria](https://maps.app.goo.gl/mQRBedsZ55L1tN6S6)
 - [ViaCatarina Shopping](https://maps.app.goo.gl/ECTFjdhk8yCeUaih9) - mall
 
 ### Restaurants in Porto
