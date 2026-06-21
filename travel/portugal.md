@@ -267,7 +267,7 @@ Small seaside town known for having English tourists, I heard about this in Lago
 
 ### Restaurants in Albugeira
 
-- [O Crepe da Baixa](https://maps.app.goo.gl/s7rCsiAJnykqn25X7) - ok ice cream
+- [O Crepe da Baixa](https://maps.app.goo.gl/s7rCsiAJnykqn25X7) - interesting ice cream flavours
 
 TODO:
 
