@@ -262,6 +262,7 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
 - [Miradouro da Serra do Pilar](https://maps.app.goo.gl/B9DvzBGDJ6KiL7326)
 - [Cais de Gaia](https://maps.app.goo.gl/8EmrwGW5ipg5Efzu6)
 - [Jardim da Cordoaria](https://maps.app.goo.gl/mQRBedsZ55L1tN6S6)
+- [Átrio da Estação de São Bento](https://maps.app.goo.gl/4G2jCp4QTgjfNHVz8)
 - [ViaCatarina Shopping](https://maps.app.goo.gl/ECTFjdhk8yCeUaih9) - mall
 
 ### Restaurants in Porto
