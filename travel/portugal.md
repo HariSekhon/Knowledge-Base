@@ -332,6 +332,14 @@ wall.
 
 ### Restaurants in Evora
 
+- [Taste of India](https://maps.app.goo.gl/MKv8bdtpT2UpXesP6) - the lamb kharahi curry was good, although smaller than
+  I expected, and the garlic naan served in quarters was top notch too, but this left some space for dessert where I am
+  usually stuffed after Indian food.
+  The mango kulfi ice cream was very good with small pieces of dried fruits with it.
+  The coconut lassi was also very good, just right, not too sweet (I asked them to make it not too sweet) -
+  I just wish it was bigger!
+  WiFi 461/13 Mbit/s
+
 TODO:
 
 - [Taskinha dos Combatentes](https://maps.app.goo.gl/GxKQSjXbLFx8QaGN8) - 4.8
