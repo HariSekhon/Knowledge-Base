@@ -239,6 +239,8 @@ University town on the river, former historic capital of Portugal.
 
 I'm surprised it wasn't fancier after hearing about it at Lisbon castle as the former capital.
 
+I see no need to revisit this one.
+
 ### Parking in Coimbra
 
 - [Parking Convent San Francisco - Free](https://maps.app.goo.gl/aaAbf9tkC4nJSTjg9) - I was in disbelief when I looked
