@@ -12,6 +12,8 @@
   - [Attractions in Lisbon](#attractions-in-lisbon)
   - [Restaurants in Lisbon](#restaurants-in-lisbon)
 - [Porto](#porto)
+  - [Parking in Porto](#parking-in-porto)
+  - [Public Transport in Porto](#public-transport-in-porto)
   - [Attractions in Porto](#attractions-in-porto)
   - [Restaurants in Porto](#restaurants-in-porto)
 - [Albufeira](#albufeira)
@@ -224,6 +226,15 @@ to try more restaurants or be more thorough in its attractions, making this a go
   has full kitchen with stove for cooking, electronic lockers, but no privacy curtains. Wifi 14/25 Mbit/s unstable
 
 -->
+
+### Parking in Porto
+
+- [Park and Ride Metro](https://maps.app.goo.gl/751zoPq2Rk4g8g6x6) - free parking with a 10 minute tram ride to the
+  centre, which runs every 10 minutes
+
+### Public Transport in Porto
+
+The tram was €2 with automated ticket machines that take cash and dispenses a rechargeable paper ticket.
 
 ### Attractions in Porto
 
