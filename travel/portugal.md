@@ -67,7 +67,7 @@ Portugal's population has almost levelled off and would no doubt decline if not 
 
 ## Crime
 
-Portugal is still a 1st world country for now as it hasn't has as much bad immigration as the UK,
+Portugal is still a 1st world country for now as it hasn't had as much bad immigration as the UK,
 so is lower crime, for now.
 
 Portugal's overall crime rate is actually lower than Europe in general,
