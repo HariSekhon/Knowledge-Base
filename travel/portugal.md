@@ -326,6 +326,7 @@ wall.
   - [Escudo de Évora](https://maps.app.goo.gl/tGUxDa9S83wyYjmX8)
 - [Muralhas de Évora](https://maps.app.goo.gl/XXVHhEwnYjM82i3G9) - castle on the outer wall
 - [Aqueduct Água de Prata](https://maps.app.goo.gl/DWXuyzdgTxgqwhom7) - impressive large aquaduct hundreds of years old
+- [Royal Palace of Évora](https://maps.app.goo.gl/4GLhVYxhRD9pHRvWA)
 - [Igreja da Misericórdia](https://maps.app.goo.gl/hrf4jPS4VpQve7bGA)
 - [Ruínas da Ermida de São Bartolomeu](https://maps.app.goo.gl/f9g6NT8fcCADYKDy6)
 
