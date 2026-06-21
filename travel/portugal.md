@@ -74,7 +74,7 @@ Portugal's overall crime rate is actually lower than Europe in general,
 which is already very low compared to Latin America and Africa.
 
 The only regions statistically safer are the historically high quality civilizations of the Far East,
-and the rich strict law Gulf states.
+and the strict law Gulf states, both of which do not tolerate low quality mass immigration from 3rd world countries.
 
 This is statistically likely to worsen over time with ever more immigration from Africa due to the huge birthrate
 imbalance and mass migration patterns.
