@@ -241,6 +241,7 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
 - [Episcopal Palace of Porto](https://maps.app.goo.gl/8kXUMwtgDbpjRsmk8)
 - [Porto City Hall](https://maps.app.goo.gl/1ssdGXyYW4BJPo2t8) - nice architecture with a Porto sign in front of it
   - [Monumento a Almeida Garrett](https://maps.app.goo.gl/pT9a7Hi8u3tCBj5G9)
+  - [Monumento a D. Pedro IV](https://maps.app.goo.gl/P7RzBnAzLnuJuu4SA)
 - [R. das Flores](https://maps.app.goo.gl/AtrotECp5aAMrSGz6)
 - [Torre dos Clérigos](https://maps.app.goo.gl/GWpTfddB4H2RXoxQ7)
 - [Igreja do Carmo](https://maps.app.goo.gl/NHKfgAiqYrE6sp3M6)
