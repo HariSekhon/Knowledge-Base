@@ -307,6 +307,12 @@ brew install tokei
 tokei .
 ```
 
+## Valgrind
+
+<https://valgrind.org/>
+
+Profile code.
+
 ## Memes
 
 ### Hello World
