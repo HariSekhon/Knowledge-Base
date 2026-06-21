@@ -285,6 +285,7 @@ TODO:
 - [Casa Guedes Progresso](https://maps.app.goo.gl/ZasB7DC9EPJaUAws9) - 4.6, portugese
 - [Zafferano Authentic Indian Restaurant](https://maps.app.goo.gl/eVyS81Lrvs17n5ju6) - 4.8
 - [Turmeric حلال Pakistani & Indian Halal Restaurant](https://maps.app.goo.gl/qDmCymMtStJarzxa7) - 4.9
+- [Shahi Dawat Indian Restaurant & Bar](https://maps.app.goo.gl/upgwG1281vkBRUqz5) - 4.8
 - [Pattaya Restaurant](https://maps.app.goo.gl/V1ZDFT6Hp62JwWEj6) - 4.6, thai
 - [Honest Greens José Falcão](https://maps.app.goo.gl/sxKbsehB3h8iDFpw5) - 4.3, same chain described in the
   [Madrid section](spain.md#restaurants-in-madrid) of the Spanish page
