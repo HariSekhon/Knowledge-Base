@@ -248,7 +248,8 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
 - [Jardim do Infante Dom Henrique](https://maps.app.goo.gl/HJo2tVscFYssxtCE8)
   - [Monumento ao Infante Dom Henrique](https://maps.app.goo.gl/CuULJR5wTMuwHXD38)
   - [Palácio da Bolsa](https://maps.app.goo.gl/bSCcPKm3sBPKemqz7)
-  - [Mercado Ferreira Borges](https://maps.app.goo.gl/UCB7UkmQoG2YQqGb9)
+  - [Mercado Ferreira Borges](https://maps.app.goo.gl/UCB7UkmQoG2YQqGb9) - local crafts market, mainly targeting women's
+    jewellery and clothing - they know where the spending is!
 - [Port Wine Museum](https://maps.app.goo.gl/5LZpw7umspWPxWy88)
 - [Cais da Ribeira](https://maps.app.goo.gl/ReqdrVeN4DC93mEP7)
 - [Miradouro das Fontainhas](https://maps.app.goo.gl/3MvYAaJrZxXGCeuN6)
