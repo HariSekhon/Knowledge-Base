@@ -29,6 +29,7 @@
 - [Obidos](#obidos)
   - [Parking in Obidos](#parking-in-obidos)
   - [Attractions in Obidos](#attractions-in-obidos)
+  - [Restaurants in Obidos](#restaurants-in-obidos)
 
 <!-- INDEX_END -->
 
@@ -433,3 +434,18 @@ and they are within 1 foot of dying from a fall.
 - [Porta da Vila](https://maps.app.goo.gl/hrN5ZNXscsj1rnw1A)
 - [Aqueduto de Usseira](https://maps.app.goo.gl/13Y5royC734KFp9Q6)
 - [Miradouro Porta](https://maps.app.goo.gl/FUzSMbBvbj1xHKS9A)
+
+### Restaurants in Obidos
+
+- [Capinha d'Óbidos](https://maps.app.goo.gl/GjhZwyoSYJ5JNUPF7) - bakery with a good selection of cakes, bread rolls
+  with fillings, and fresh squeezed orange juice.
+  The Belinha is amazing, containing olive oil, honey, walnut, almond and cinnamon cake, sweet and tasty.
+  The fresh orange juice is good too,
+  a good size served in a heavy glass and at €3.50 better priced than the neighbouring places charging €6.
+  The coco laranja is quite sweet with the texture of shredded coconut, a bit too sweet for me.
+  The lemon biscuit cake is less sweet and my second favour choice.
+  WiFi 15/1 Mbit/s
+
+TODO:
+
+- [O Portão da Vila](https://maps.app.goo.gl/EyZdCtyAYwCv5eqc7) - 4.9 snack bar
