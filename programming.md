@@ -12,6 +12,7 @@
   - [cloc](#cloc)
   - [scc](#scc)
   - [Tokei](#tokei)
+- [Valgrind](#valgrind)
 - [Memes](#memes)
   - [Hello World](#hello-world)
   - [Program in Tutorial vs Made Following Tutorial](#program-in-tutorial-vs-made-following-tutorial)
