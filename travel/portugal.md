@@ -14,6 +14,9 @@
 - [Porto](#porto)
   - [Attractions in Porto](#attractions-in-porto)
   - [Restaurants in Porto](#restaurants-in-porto)
+- [Albufeira](#albufeira)
+  - [Parking in Albufeira](#parking-in-albufeira)
+  - [Attractions in Albufeira](#attractions-in-albufeira)
 - [Coimbra](#coimbra)
   - [Parking in Coimbra](#parking-in-coimbra)
   - [Attractions in Coimbra](#attractions-in-coimbra)
@@ -240,6 +243,20 @@ to try more restaurants or be more thorough in its attractions, making this a go
 TODO:
 
 - [Ramen Chef Praça de Carlos Aberto](https://maps.app.goo.gl/suuUTNvCzLkdS5Cq9)
+
+## Albufeira
+
+### Parking in Albufeira
+
+- [Free Parking Place - Old Town](https://maps.app.goo.gl/VBqjwwAsWLuYRA4s6)
+
+### Attractions in Albufeira
+
+- [Albufeira Old Town](https://maps.app.goo.gl/gG3pCnU3icF2uMyT7)
+- [Praia do Túnel](https://maps.app.goo.gl/EVdoCxNduUsDhX8HA)
+- [Praia dos Pescadores](https://maps.app.goo.gl/BPpdhkwwo9HvYFoH8)
+- [Estátua de São Vicente de Albufeira](https://maps.app.goo.gl/ma3F3tuTQasnWjFQA)
+- [Largo Engenheiro Duarte Pacheco](https://maps.app.goo.gl/f916YwxtameaADv27)
 
 ## Coimbra
 
