@@ -69,6 +69,7 @@
 
 It has become one of my favourite countries in Europe and one I wish I'd discovered earlier in my life. I remember
 many Brits used to love going to Spain before the Euro when it was cheaper.
+
 Unfortunately it's not cheap any more.
 
 Madrid is technically larger but Barcelona has a larger centre of interest with more to see and do.
