@@ -60,8 +60,7 @@ surprise for a country close to England.
 
 ## Population
 
-One Austrian guy I met in the south of Portugal,
-who was aware of the Western decline,
+One Austrian guy I met in the south of Portugal, who was aware of the Western decline,
 said his father worked in immigration for _"asylum seekers"_
 and those that were rejected from Austria went to France, so he has a very low opinion of France.
 
