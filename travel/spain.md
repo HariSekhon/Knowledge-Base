@@ -139,7 +139,7 @@ Spain's overall crime rate is actually lower than Europe in general,
 which is already very low compared to Latin America and Africa.
 
 The only regions statistically safer are the historically high quality civilizations of the Far East,
-and the rich strict law Gulf states.
+and the strict law Gulf states, both of which do not tolerate low quality mass immigration from 3rd world countries.
 
 Unfortunately, I have to caveat this as not Barcelona, and also,
 that this is statistically likely to worsen with ever more immigration from Africa.
