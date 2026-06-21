@@ -330,6 +330,7 @@ wall.
 - [Centro de Artes Tradicionais](https://maps.app.goo.gl/tzrJpfuaFNzK3qd58)
 - [Igreja da Misericórdia](https://maps.app.goo.gl/hrf4jPS4VpQve7bGA)
 - [Chapel of Bones](https://maps.app.goo.gl/yyEVHcKYotcNyYjd9)
+- [Ruínas Fingidas](https://maps.app.goo.gl/YhLxshYGWe88G9wf6)
 - [Ruínas da Ermida de São Bartolomeu](https://maps.app.goo.gl/f9g6NT8fcCADYKDy6)
 
 ### Restaurants in Evora
