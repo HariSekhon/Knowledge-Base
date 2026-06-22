@@ -217,8 +217,10 @@ TODO:
 
 ## Porto
 
-You can walk around central Porto in a couple of hours so you only really need 1 day to see the city, 2 days if you want
-to try more restaurants or be more thorough in its attractions, making this a good choice for a weekend getaway trip.
+[Porto](https://maps.app.goo.gl/Jn194ddSYREH2eudA) is nice, its centre smaller than Lisbon -
+you can walk around central Porto in a couple of hours so you only really need 1 day to see the city,
+2 days if you want to try more restaurants or be more thorough in its attractions,
+making this a good choice for a weekend getaway trip.
 
 <!--
 
@@ -230,11 +232,15 @@ to try more restaurants or be more thorough in its attractions, making this a go
 ### Parking in Porto
 
 - [Park and Ride Metro](https://maps.app.goo.gl/751zoPq2Rk4g8g6x6) - free parking with a 10 minute tram ride to the
-  centre, which runs every 10 minutes
+  centre, which runs every 10 minutes.
 
 ### Public Transport in Porto
 
 The tram was €2 with automated ticket machines that take cash and dispenses a rechargeable paper ticket.
+
+€0.60 of that was for the rechargeable paper ticket so subsequent tickets are €1.40.
+
+The tram was clean, quick and efficient.
 
 ### Attractions in Porto
 
@@ -277,6 +283,7 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
   it replaced the hazelnut they previously had on the menu.
   The medium waffle cone is ok but there are better thicker versions of that at other gelaterias.
   Has decent seating and fast wifi 383/343 Mbit/s
+- [Potato Project]() - gourmet fries with toppings, described in the [Lisbon](#lisbon) section
 - [Green Diamond Indian Restaurant & Bar](https://maps.app.goo.gl/iQNN9ZFm4Jfcqk5z6) - not as good as I'd hoped given
   its rating, but ok - I would try somewhere else next time.
   The lamb tikka masala was ok and came in a small single portion pot.
@@ -287,6 +294,10 @@ The tram was €2 with automated ticket machines that take cash and dispenses a 
   as they were crispy but lacked the expected flavour.
   The coconut lassi was small and a bit too sweet.
   WiFi 37/18 Mbit/s
+- [Honest Greens José Falcão](https://maps.app.goo.gl/sxKbsehB3h8iDFpw5) - same chain described in the
+- [Amorino]() - high quality international ice cream chain
+- [Haagen-Daaz]() - international ice cream chain
+- [Empanadas Malvon]() - argentinian pasties, ok for a snack, but fairly mid, there are better empanadas in the world
 - [Continente Bom Dia Sá da Bandeira](https://maps.app.goo.gl/f4aqKzPNbJiChjKj9) - good supermarket with fresh orange
   juice machine and large selection of products at reasonable prices
 
@@ -301,9 +312,9 @@ TODO:
 - [Thailander](https://maps.app.goo.gl/xsasN4hAPwYH52x6A) - 4.7, Western tourist priced, makes me miss Thailand
 - [Ramen Chef Praça de Carlos Aberto](https://maps.app.goo.gl/suuUTNvCzLkdS5Cq9) - 4.6, affordable Japanese ramen soups
 - [Casa Expresso](https://maps.app.goo.gl/8joB8yotX7w4B6gA9) - 4.7, portugese
-- [Casa Guedes Oliveiras](https://maps.app.goo.gl/JQAQHeUcHHYLc4EX9) - 4.7, portugese
-- [Casa Guedes Progresso](https://maps.app.goo.gl/ZasB7DC9EPJaUAws9) - 4.6, portugese
-- [Casa Guedes Rooftop](https://maps.app.goo.gl/VgnFAZQHGvPhR95L7) - 4.7, portugese
+- [Casa Guedes Oliveiras](https://maps.app.goo.gl/JQAQHeUcHHYLc4EX9) /
+  [Progresso](https://maps.app.goo.gl/ZasB7DC9EPJaUAws9) /
+  [Rooftop](https://maps.app.goo.gl/VgnFAZQHGvPhR95L7) - 4.6 - 4.7, portugese
 - [Zafferano Authentic Indian Restaurant](https://maps.app.goo.gl/eVyS81Lrvs17n5ju6) - 4.8
 - [Turmeric حلال Pakistani & Indian Halal Restaurant](https://maps.app.goo.gl/qDmCymMtStJarzxa7) - 4.9
 - [Shahi Dawat Indian Restaurant & Bar](https://maps.app.goo.gl/upgwG1281vkBRUqz5) - 4.8
@@ -317,7 +328,6 @@ TODO:
 - [Buga Ramen Ribeira](https://maps.app.goo.gl/vyYzFMkjjvEcVdLe8) - 4.6
 - [Pattaya Restaurant](https://maps.app.goo.gl/V1ZDFT6Hp62JwWEj6) - 4.6, thai
 - [Gelataria Sincelo](https://maps.app.goo.gl/uYynQ946XYVnN6pKA) - 4.5, ice cream
-- [Honest Greens José Falcão](https://maps.app.goo.gl/sxKbsehB3h8iDFpw5) - 4.3, same chain described in the
   [Madrid section](spain.md#restaurants-in-madrid) of the Spanish page
 
 ## Albufeira
