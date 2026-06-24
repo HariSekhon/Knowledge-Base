@@ -79,11 +79,15 @@ to rob you one way or another to drive in their country.
 Make sure you use the Waze app
 to warn you of where the speed cameras and average speed checks are as they are not obvious.
 
-### Emissions Sticker Needed for Cities
+### Crit Air
 
-You will also need a low emissions sticker to enter major cities.
+You will also need a low emissions sticker called _"Crit Air"_ to enter major cities, or risk a fine.
 
-You can buy for around €5 including postage on this website:
+They don't just infer that your car is low emissions like in Luxembourg, which is the better solution.
+
+You can get fined for not having the sticker, regardless of your vehicle meeting the low emissions standard.
+
+You can buy it for around €5 including postage on this website:
 
 <https://www.certificat-air.gouv.fr/>
 
