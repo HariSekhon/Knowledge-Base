@@ -95,6 +95,8 @@ I couldn't get from one city to another without getting hit with another toll, n
 
 I was often getting hit with 2-3 tolls per day driving around.
 
+Between Bordeaux and Lyon I got hit with 6 tolls which came to a total of €61!!
+
 France has got to be one of the worst most expensive countries to road trip across.
 I promise to never criticise the slavic vignette countries again as they are a bargain compared to France.
 
