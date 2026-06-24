@@ -55,7 +55,9 @@ Switzerland's population is still steadily increasing despite this due to immigr
 
 ## Driving in Switzerland
 
-You need an e-vignette to drive on Swiss motorways.
+You need an e-vignette to drive on Swiss motorways, and despite that, there are also tolls on the roads on top. 🙄
+
+### E-vignette
 
 Unfortunately they only sell it per calendar year and not for shorter durations.
 
