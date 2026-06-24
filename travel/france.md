@@ -425,6 +425,17 @@ I have literally been told off for not speaking French as a visitor. Much less w
 The many Chateaux outside of Paris in the French countryside are nice though
 (I used to go every year with a company for retreats).
 
+## Lyon
+
+You can walk around central Lyon in 2 hours.
+
+Lyon is one of those cities where people say they're from but not where they're going to.
+
+I was surprised how much graffiti there was just outside he historic centre.
+
+I only did a stopover in Lyon so I haven't explored the restaurant scene here
+and I've probably missed a few of the attractions.
+
 ## Reims
 
 Small city in the north east of France.
