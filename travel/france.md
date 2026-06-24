@@ -170,6 +170,11 @@ You can walk around the city centre in around 2 hours.
 
 Outside the centre it's not very nice, with graffiti.
 
+I parked here:
+
+- [Parking Pey Berland](https://maps.app.goo.gl/ZiCnqz7uDYhJx3Kc9) - it was supposed to be capped at €7 for overnight
+  and €10 for daytime, but it charged me €24 instead of €17, for a mere 12 hour stopover
+
 ## Calais
 
 Mainly a stopover or passthrough for the port to Dover in England.
