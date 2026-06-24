@@ -11,6 +11,7 @@
   - [Parking in Bezier](#parking-in-bezier)
   - [Attractions in Bezier](#attractions-in-bezier)
   - [Restaurants in Bezier](#restaurants-in-bezier)
+- [Bordeaux](#bordeaux)
 - [Calais](#calais)
 - [Cannes](#cannes)
   - [Parking in Cannes](#parking-in-cannes)
@@ -34,8 +35,8 @@
   - [Parking in Nice](#parking-in-nice)
   - [Attractions in Nice](#attractions-in-nice)
   - [Restaurants in Nice](#restaurants-in-nice)
-- [Paris](#paris)
 - [Lyon](#lyon)
+- [Paris](#paris)
 - [Reims](#reims)
 - [Toulouse](#toulouse)
   - [Parking in Toulouse](#parking-in-toulouse)
@@ -156,6 +157,18 @@ and that I'd just spend an hour and move on but ended up spending 3 hours there 
   The quality was very good though.
   Fast WiFi 285/270 Mbit/s
 - [Amorino](https://maps.app.goo.gl/GbatQfmfS7kxvsDh9) - high quality international ice cream chain
+
+## Bordeaux
+
+City on the West of France, with the wine of the same name.
+
+The city was sketchy such that when I parked my car on the street away from the centre,
+after seeing one of the vagabonds I drove to a private car park in the centre
+as I didn't want my windows smashed again like in Barcelona.
+
+You can walk around the city centre in around 2 hours.
+
+Outside the centre it's not very nice, with graffiti.
 
 ## Calais
 
@@ -421,7 +434,7 @@ You can walk around central Lyon in 2 hours.
 
 Lyon is one of those cities where people say they're from but not where they're going to.
 
-I was surprised how much graffiti there was just outside he historic centre.
+It's slightly ghettoized - I was surprised how much graffiti there was just outside he historic centre.
 
 I only did a stopover in Lyon so I haven't explored the restaurant scene here
 and I've probably missed a few of the attractions.
