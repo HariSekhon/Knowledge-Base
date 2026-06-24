@@ -35,6 +35,7 @@
   - [Attractions in Nice](#attractions-in-nice)
   - [Restaurants in Nice](#restaurants-in-nice)
 - [Paris](#paris)
+- [Lyon](#lyon)
 - [Reims](#reims)
 - [Toulouse](#toulouse)
   - [Parking in Toulouse](#parking-in-toulouse)
