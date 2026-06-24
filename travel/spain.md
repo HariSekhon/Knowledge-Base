@@ -45,13 +45,15 @@
   - [Accommodation in Granada](#accommodation-in-granada)
   - [Attractions in Granada](#attractions-in-granada)
   - [Restaurants in Granada](#restaurants-in-granada)
+- [Huelva](#huelva)
 - [Ibiza](#ibiza)
 - [Mallorca](#mallorca)
   - [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
 - [Peniscola](#peniscola)
-- [Tarragona](#tarragona)
+- [San Sebastian](#san-sebastian)
 - [Sevilla](#sevilla)
   - [Where to Stay in Sevilla](#where-to-stay-in-sevilla)
+- [Tarragona](#tarragona)
 - [Valencia](#valencia)
   - [Attractions in Valencia](#attractions-in-valencia)
   - [Restaurants in Valencia](#restaurants-in-valencia)
@@ -1162,6 +1164,21 @@ and not interpret this as an English word amalgamation. 🙈
 - [Plaça POLIGONO6G, 18](https://maps.app.goo.gl/ie6YrufNTaEL8NWi8) - free parking near town
 - [Parking Peñíscola Norte](https://maps.app.goo.gl/EwzNKBJE2rCMycqV6) - free parking further out to the north
 
+## San Sebastian
+
+Much nicer than I had expected, I ended up spending double the time here than I had planned.
+
+This place is built for tourism with 2 beaches, restaurants, and lots of historic architecture.
+
+## Sevilla
+
+Sevilla, or Seville, is a lovely city well worth a visit for a couple days.
+
+### Where to Stay in Sevilla
+
+- [JOY Plaza de Armas](https://maps.app.goo.gl/a6TUffK98D8AmVZn9) - recommended by a fellow traveller
+  <!-- Majd in Madrid -->, decent, full kitchen, rooftop bar
+
 ## Tarragona
 
 Roman historic beach town.
@@ -1189,15 +1206,6 @@ Roman historic beach town.
 - [Parking Muelle de Levante](https://maps.app.goo.gl/hrihuxN57MqNdViw5) - free parking 15-20 minutes walk from the
   centre
 - [Aparcament Torroja](https://maps.app.goo.gl/qAbMcQooFjPBDjCdA) - free parking 15 minutes walk from town centre
-
-## Sevilla
-
-Sevilla, or Seville, is a lovely city well worth a visit for a couple days.
-
-### Where to Stay in Sevilla
-
-- [JOY Plaza de Armas](https://maps.app.goo.gl/a6TUffK98D8AmVZn9) - recommended by a fellow traveller
-  <!-- Majd in Madrid -->, decent, full kitchen, rooftop bar
 
 ## Valencia
 
