@@ -5,7 +5,7 @@
 - [Summary](#summary)
 - [Population](#population)
 - [Driving in France](#driving-in-france)
-  - [Emissions Sticker Needed for Cities](#emissions-sticker-needed-for-cities)
+  - [Crit Air](#crit-air)
   - [Tolls](#tolls)
 - [Beziers](#beziers)
   - [Parking in Bezier](#parking-in-bezier)
