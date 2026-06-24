@@ -111,6 +111,8 @@ and that's barely a dent into the country - you don't realize how big countries 
 Germany and Poland are until you road trip across them and compare that to road tripping across England which is much
 shorter and quicker.
 
+I got hit by 5 tolls between San Sebastian and Bordeaux which looks like 1 motorway on the map.
+
 Between Bordeaux and Lyon I got hit with 6 tolls which came to a total of €61 in a single day!!
 
 I was routinely getting robbed by toll gates for around €30 per day.
