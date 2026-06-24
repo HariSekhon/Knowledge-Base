@@ -25,6 +25,8 @@ known for international private banking for the rich
 Overall I consider Switzerland to be poor value for money
 and if one really wants to see it to tick it off I would recommend a very short stay.
 
+It's probably the most expensive country I remember visiting and have no plans to revisit.
+
 It's not worth living in Switzerland unless they offer you a salary well into 6 figure range.
 
 Overall Switzerland represents a lot of what is currently wrong with European countries -
@@ -32,7 +34,7 @@ inter-generational wealth inequality, expensive high tax democracy and dying bir
 
 Having a porsche and no children is not winning in life.
 
-They'll inevitably be replaced by Africans this century if nothing radically changes.
+They'll inevitably be replaced by Africans within decades if nothing radically changes.
 
 ## Population
 
