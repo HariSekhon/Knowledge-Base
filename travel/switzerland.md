@@ -5,6 +5,7 @@
 - [Summary](#summary)
 - [Population](#population)
 - [Driving in Switzerland](#driving-in-switzerland)
+  - [E-vignette](#e-vignette)
 - [The Swiss Alps](#the-swiss-alps)
 - [Zurich](#zurich)
   - [Parking in Zurich](#parking-in-zurich)
