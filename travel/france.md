@@ -415,17 +415,6 @@ TODO:
 - [Café Marché](https://maps.app.goo.gl/H1Pbx2UQp24tUBFx8) - 4.7
 - [Foodie Nice, Brunch & Coffee Shop](https://maps.app.goo.gl/aLALDUL1ephNLY43A) - 4.6
 
-## Paris
-
-_"A less good version of London"_ as my colleague described it.
-
-The capital is heavily immigrated from Africa, with lots of graffiti and not very nice metro.
-
-I have literally been told off for not speaking French as a visitor. Much less welcoming than other parts of the world.
-
-The many Chateaux outside of Paris in the French countryside are nice though
-(I used to go every year with a company for retreats).
-
 ## Lyon
 
 You can walk around central Lyon in 2 hours.
@@ -436,6 +425,17 @@ I was surprised how much graffiti there was just outside he historic centre.
 
 I only did a stopover in Lyon so I haven't explored the restaurant scene here
 and I've probably missed a few of the attractions.
+
+## Paris
+
+_"A less good version of London"_ as my colleague described it.
+
+The capital is heavily immigrated from Africa, with lots of graffiti and not very nice metro.
+
+I have literally been told off for not speaking French as a visitor. Much less welcoming than other parts of the world.
+
+The many Chateaux outside of Paris in the French countryside are nice though
+(I used to go every year with a company for retreats).
 
 ## Reims
 
