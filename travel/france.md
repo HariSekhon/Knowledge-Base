@@ -50,6 +50,8 @@
 France was clearly a once great country when looking at its architecture and monuments as well as its 1st world
 development of services and public transport.
 
+Many French natives are actually nice looking, polite and seem intelligent.
+
 Unfortunately it has been clearly deteriorated by mass immigration
 and I was personally hassled by several immigrants in the streets of different cities within just a few days.
 It is low IQ to allow such people to live within your country, the high quality gulf states would not allow it.
