@@ -95,16 +95,15 @@ I couldn't get from one city to another without getting hit with another toll, n
 
 I was often getting hit with 2-3 tolls per day driving around.
 
-Between Bordeaux and Lyon I got hit with 6 tolls which came to a total of €61 in a single day!!
-
 France has got to be one of the worst most expensive countries to road trip across.
 I promise to never criticise the slavic vignette countries again as they are a bargain compared to France.
 
 I got robbed by automated barriers for €27 for a single drive from Calais to Reims,
-and that's barely a dent into the country -
-you don't realize how big countries like France,
+and that's barely a dent into the country - you don't realize how big countries like France,
 Germany and Poland are until you road trip across them and compare that to road tripping across England which is much
 shorter and quicker.
+
+Between Bordeaux and Lyon I got hit with 6 tolls which came to a total of €61 in a single day!!
 
 I was routinely getting robbed by toll gates for around €30 per day.
 This would be even more
