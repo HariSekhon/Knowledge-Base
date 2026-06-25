@@ -32,7 +32,10 @@ and if one really wants to see it to tick it off I would recommend a very short 
 
 It's probably the most expensive country I remember visiting and have no plans to revisit.
 
-It's not worth living in Switzerland unless they offer you a salary well into 6 figure range.
+The country's main languages are French and German,
+depending on which part of the country it is - closer to France or Germany.
+
+It's not worth living in Switzerland unless they offer you a salary well into 6 figure range, probably double 6 figures.
 
 Overall Switzerland represents a lot of what is currently wrong with European countries -
 inter-generational wealth inequality, expensive high tax democracy and dying birthrates.
@@ -57,6 +60,11 @@ ponzi scheme welfare state & pensions long term.
 Switzerland's population is still steadily increasing despite this due to immigration.
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~CHE)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~CHE)
+
+There is at time of writing a referendum on capping the Swiss population (immigration) to 10M people total in order
+to maintain the quality of life.
+
+If only the treasonous Western politicians had done this.
 
 ## Driving in Switzerland
 
