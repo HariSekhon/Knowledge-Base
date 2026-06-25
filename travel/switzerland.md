@@ -62,6 +62,10 @@ Switzerland's population is still steadily increasing despite this due to immigr
 
 You need an e-vignette to drive on Swiss motorways, and despite that, there are also tolls on the roads on top. 🙄
 
+If you're driving in from Germany, or even France,
+fill your tank before your get to Switzerland as fuel (and everything) is more expensive in Switzerland.
+Even France's fuel isn't quite as expensive, but Germany's fuel price is much lower.
+
 ### E-vignette
 
 Unfortunately they only sell it per calendar year and not for shorter durations.
