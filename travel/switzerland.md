@@ -11,6 +11,10 @@
   - [Parking in Zurich](#parking-in-zurich)
   - [Attractions in Zurich](#attractions-in-zurich)
   - [Restaurants in Zurich](#restaurants-in-zurich)
+- [Basel](#basel)
+- [Bern](#bern)
+- [Geneva](#geneva)
+- [Lausanne](#lausanne)
 - [Lucerne](#lucerne)
   - [Parking in Lucerne](#parking-in-lucerne)
   - [Attractions in Lucerne](#attractions-in-lucerne)
@@ -137,6 +141,34 @@ I can't recommend any restaurants here as they are expensive for what they are.
 - [Joe & The Juice](https://maps.app.goo.gl/Pq5B7DCo1TznjmZN9) - expensive fresh squeezed juice chain from
   [Denmark](denmark.md), another expensive country. but because it's Switzerland, you'll
   hardly notice compared to everything else! 😂
+
+## Basel
+
+Mid sized city.
+
+German is the language here as it's in the north closer to Germany.
+
+- [Nooch]() - trendy asian kitchen, mains are 30CHF though (€33) and soft drinks are 5-7 CHF (€6.50).
+  The Blueberry Magic Lemonade was nice (blueberry, lemon and grapefruit.
+  The menu is on a QR code and has an english translation.
+  The wifi has a captcha portal that wants your phone number 🙄
+- [Coop]() - useful to get a drink, the Vitamin Focus Water Strawberry & Watermelon was nice and hit the spot
+
+## Bern
+
+Easily one of the better cities I've been to in Switzerland with nice architecture,
+lots of shops, restaurants and tourists.
+
+German is the language here as it's in the north closer to Germany.
+I got a bit of a surprise coming up from Geneva and Lausanne which are French.
+
+## Geneva
+
+Fairly basic European city.
+
+## Lausanne
+
+Mid sized city, was a bit underwhelming, I'd expected this one to be better for some reason.
 
 ## Lucerne
 
