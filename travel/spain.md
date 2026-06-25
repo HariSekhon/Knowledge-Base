@@ -47,8 +47,10 @@
   - [Restaurants in Granada](#restaurants-in-granada)
 - [Huelva](#huelva)
 - [Ibiza](#ibiza)
+- [Malaga](#malaga)
 - [Mallorca](#mallorca)
   - [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
+- [Marbella](#marbella)
 - [Peniscola](#peniscola)
 - [San Sebastian](#san-sebastian)
 - [Sevilla](#sevilla)
@@ -1114,6 +1116,12 @@ There isn't much here, it's only really a stopover city when driving between the
 
 Accommodation is expensive here.
 
+## Malaga
+
+Malaga was surprisingly nice with good architecture and many restaurants.
+
+This is a good city for a couple to visit for a weekend break.
+
 ## Mallorca
 
 [Mallorca](Majorca) is a popular tourist island.
@@ -1135,6 +1143,11 @@ There are two main ferries:
   one
 
 Booking further in advance should get better prices.
+
+## Marbella
+
+Marbella is smaller than I expected, and not quite what I expected having heard about it in the UK
+(unlike Benidorm which was exactly as I expected 😂).
 
 ## Peniscola
 
