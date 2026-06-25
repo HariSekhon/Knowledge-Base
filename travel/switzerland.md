@@ -32,9 +32,6 @@ and if one really wants to see it to tick it off I would recommend a very short 
 
 It's probably the most expensive country I remember visiting and have no plans to revisit.
 
-The country's main languages are French and German,
-depending on which part of the country it is - closer to France or Germany.
-
 It's not worth living in Switzerland unless they offer you a salary well into 6 figure range, probably double 6 figures.
 
 Overall Switzerland represents a lot of what is currently wrong with European countries -
@@ -46,7 +43,8 @@ They'll inevitably be replaced by Africans within decades if nothing radically c
 
 ## Population
 
-Switzerland has a population of nearly 9 million people, primarily speaking German, French and Italian.
+Switzerland has a population of nearly 9 million people,
+primarily speaking German, French and Italian, depending on which part of the country it is.
 
 Switzerland's birthrate has been below replenishment for over 50 years since 1971, now an unsustainably low 1.4 children
 per woman.
