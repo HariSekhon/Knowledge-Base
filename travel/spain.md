@@ -64,7 +64,10 @@
 
 ## Summary
 
-[Spain](https://maps.app.goo.gl/CzXWieuV3DerqK1k8) has a lot going for it in terms of lifestyle:
+[Spain](https://maps.app.goo.gl/CzXWieuV3DerqK1k8) is easily one of the best tourist countries in Europe, it's just a
+shame it's not really cheap any more since getting the euro.
+
+Spain has a lot going for it in terms of lifestyle:
 
 - Good Weather
 - Good Food - variety of cuisines and price points
@@ -73,8 +76,6 @@
 
 It has become one of my favourite countries in Europe and one I wish I'd discovered earlier in my life. I remember
 many Brits used to love going to Spain before the Euro when it was cheaper.
-
-Unfortunately it's not cheap any more.
 
 Madrid is technically larger but Barcelona has a larger centre of interest with more to see and do.
 
