@@ -13,6 +13,7 @@
 - [Dusseldorf](#dusseldorf)
 - [Essen](#essen)
 - [Frankfurt](#frankfurt)
+- [Freiburg im Breisgau](#freiburg-im-breisgau)
 - [Hanover](#hanover)
 - [Königswinter](#königswinter)
 - [Potsdam](#potsdam)
@@ -169,6 +170,10 @@ Limited dining options, middle eastern probably being among the best options.
 Large metropolitan multicultural city with many restaurants.
 
 [MA'LOA Poké Bowl](https://maloa.com/) is recommended, and [BKK Thai Street Food](https://bkkthaistreetfood.com/) is also popular.
+
+## Freiburg im Breisgau
+
+Small town near the Swiss border - useful because it is 1/3 of the price of Switzerland for accommodation.
 
 ## Hanover
 
