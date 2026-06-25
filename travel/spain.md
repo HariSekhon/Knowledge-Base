@@ -69,7 +69,7 @@ shame it's not really cheap any more since getting the euro.
 
 Spain has a lot going for it in terms of lifestyle:
 
-- Great Weather (actually too hot in summer)
+- Great Weather (actually too hot in summer, I'd prefer to go in Spring / Autumn in future)
 - Great History and Architecture
 - Good Food - variety of cuisines and price points
 - Attractive People
