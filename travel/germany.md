@@ -16,6 +16,7 @@
 - [Freiburg im Breisgau](#freiburg-im-breisgau)
 - [Hanover](#hanover)
 - [Königswinter](#königswinter)
+- [Munich](#munich)
 - [Potsdam](#potsdam)
 - [Stuttgart](#stuttgart)
   - [Attractions in Stuttgart](#attractions-in-stuttgart)
@@ -175,6 +176,8 @@ Large metropolitan multicultural city with many restaurants.
 
 Small town near the Swiss border - useful because it is 1/3 of the price of Switzerland for accommodation.
 
+- []
+
 ## Hanover
 
 A city with a lot of middle eastern restaurants.
@@ -186,6 +189,23 @@ A city with a lot of middle eastern restaurants.
 Lovely small germanic town. This is what I imagined German paradise to look like.
 
 [Gasthaus Lichtenberg](https://gasthaus-lichtenberg.de/) is recommended here.
+
+## Munich
+
+People complained that Munich was expensive when I mentioned I wanted to go there.
+
+Now I see why,
+
+- [The Tent]() - cheap because it's low quality.
+  The name is not a metaphor, it's literally 3 tents with basic metal bunk beds and weak mattresses.
+  Imagine a 180 bed dorm in a tent.
+  Europeans and their low quality of life - in other countries for this same price you'd get a private room or
+  at least luxury hostel.
+  The aren't even plugs, the excuse bing because they don't want people falling asleep and other people stealing their
+  devices.
+  Having to go outdoors to the communal toilets and showers is chilling even in the middle of the summer heat wave,
+  I dread to think how insufferable this place is most of the year.
+  Never stay here again, not even for the free street parking out here
 
 ## Potsdam
 
