@@ -196,7 +196,7 @@ People complained that Munich was expensive when I mentioned I wanted to go ther
 
 Now I see why,
 
-- [The Tent]() - cheap because it's low quality.
+- [The Tent]() - cheap because it's low quality - do not stay here.
   The name is not a metaphor, it's literally 3 tents with basic metal bunk beds and weak mattresses.
   Imagine a 180 bed dorm in a tent.
   Europeans and their low quality of life - in other countries for this same price you'd get a private room or
