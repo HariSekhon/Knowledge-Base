@@ -203,8 +203,9 @@ Now I see why,
   at least luxury hostel.
   They don't give pillows, instead giving an extra blanket, citing pillows as harder to wash and dry.
   They also require a €25 deposit for the 3 blankets they give you.
-  The aren't even plugs, the excuse bing because they don't want people falling asleep and other people stealing their
-  devices.
+  The wifi doesn't work properly in the tent.
+  The aren't even plugs in the test, the excuse being because they don't want people falling asleep and other people
+  stealing their devices! Crappy European lack of civic virtue.
   Having to go outdoors to the communal toilets and showers is chilling even in the middle of the summer heat wave,
   I dread to think how insufferable this place is most of the year.
   Never stay here again, not even for the free street parking out here
