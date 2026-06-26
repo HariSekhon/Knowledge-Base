@@ -201,6 +201,8 @@ Now I see why,
   Imagine a 180 bed dorm in a tent.
   Europeans and their low quality of life - in other countries for this same price you'd get a private room or
   at least luxury hostel.
+  They don't give pillows, instead giving an extra blanket, citing pillows as harder to wash and dry.
+  They also require a €25 deposit for the 3 blankets they give you.
   The aren't even plugs, the excuse bing because they don't want people falling asleep and other people stealing their
   devices.
   Having to go outdoors to the communal toilets and showers is chilling even in the middle of the summer heat wave,
