@@ -174,9 +174,37 @@ Large metropolitan multicultural city with many restaurants.
 
 ## Freiburg im Breisgau
 
-Small town near the Swiss border - useful because it is 1/3 of the price of Switzerland for accommodation.
+Town / small city near the Swiss border with some nice historic architecture.
 
-- []
+Useful for an overnight stopover because it is 1/3 of the price of Switzerland for
+accommodation.
+
+- [Black Forest Hostel](https://maps.app.goo.gl/A7hAwz99SUQ8wHMv8) - large industrial style dorm building.
+  Street parking was free but is now charged per minute on the EasyPark app from 9:00-19:00
+  as the local council has extended its paid zones to the surrounding roads even 15 minutes walk out of the town
+  as a money grab - typical Europe 🙄.
+  WiFi unreliable
+
+<!-- -->
+
+- [Freiburg Cathedral](https://maps.app.goo.gl/q2EWo9a7ut6crRUg7) - in the centre of town
+- [Schwabentor](https://maps.app.goo.gl/mmVRSvXv34bnpzeC6) - clock tower on the way into the town centre
+- [Martinstor](https://maps.app.goo.gl/YQk3mV9WLTqDgp5m9) - another gate tower with a clock
+- [Breisacher Tor](https://maps.app.goo.gl/N8MNzTYRBe2v5dFC8) -  another town on the south side of town centre
+- [Bertoldsbrunnen](https://maps.app.goo.gl/xy1jnfRi9ahdBT9v5) - monument
+- [Haus zum Walfisch](https://maps.app.goo.gl/nU7qsg8vidiNA3MSA) - historic red painted mini mansion on a side street
+- [Europaplatz](https://maps.app.goo.gl/8J4pymt4WqWStZfL6) - plaza with a small monument, can skip, not a big deal
+
+TODO:
+
+- [Colombipark](https://maps.app.goo.gl/vqcui2upD9QN9Shp6) - park with a historic building
+- [Schlossbergbahn](https://maps.app.goo.gl/3EiUQMqqxzhL1SGh9) - cable car
+- [Stadtgarten Freiburg](https://maps.app.goo.gl/JbygctahqwAmetBo9) - garden
+- [Kleiner Aussichtspunkt](https://maps.app.goo.gl/5VfZP7Z9uXcGPph1A) - observation deck
+- [Augustiner Museum](https://maps.app.goo.gl/1h6JpVGK8deiQk5N6) - art museum
+- [ehemaliger Turmhelm eines Treppenturms an der Nordseite des Freiburger Münster](https://maps.app.goo.gl/sHpcVYE2s9qp3pVc7)
+- [Museum Natur und Mensch](https://maps.app.goo.gl/z8Yrh7GRkjiMn3jz6) - natural history museum
+- [Colombischlössle](https://maps.app.goo.gl/Rydn8f8iPvdRzf3n6) - Archaeological museum
 
 ## Hanover
 
@@ -196,11 +224,15 @@ People complained that Munich was expensive when I mentioned I wanted to go ther
 
 Now I see why,
 
-- [The Tent]() - cheap because it's low quality - do not stay here.
-  The name is not a metaphor, it's literally 3 tents with basic metal bunk beds and weak mattresses.
-  Imagine a 180 bed dorm in a tent.
+- [The Tent](https://maps.app.goo.gl/yudHxXsSLEvjx2ZM6) - cheap but very low quality - do not stay here.
+  The name is not a metaphor,
+  it's literally 3 tents with basic creaky metal bunk beds and weak mattresses and no pillows.
+  Imagine a 180 bed dorm in a tent - that's it.
   Europeans and their low quality of life - in other countries for this same price you'd get a private room or
   at least luxury hostel.
+  At night it's cold, even in the end of June summer heatwave, and in the daytime it's roasting.
+  Wifi is unreliable in the tent.
+  Even in Munich there are a couple other real hostels at similar price.
   They don't give pillows, instead giving an extra blanket, citing pillows as harder to wash and dry.
   They also require a €25 deposit for the 3 blankets they give you.
   The wifi doesn't work properly in the tent.
@@ -208,7 +240,13 @@ Now I see why,
   stealing their devices! Crappy European lack of civic virtue.
   Having to go outdoors to the communal toilets and showers is chilling even in the middle of the summer heat wave,
   I dread to think how insufferable this place is most of the year.
-  Never stay here again, not even for the free street parking out here
+  Never stay here again, not even for the free street parking out here.
+
+### Attractions in Munich
+
+### Restaurants in Munich
+
+- []()
 
 ## Potsdam
 
