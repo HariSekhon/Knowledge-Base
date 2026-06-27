@@ -184,13 +184,13 @@ Useful for an overnight stopover because it is 1/3 of the price of Switzerland f
 accommodation.
 
 - [Black Forest Hostel](https://maps.app.goo.gl/A7hAwz99SUQ8wHMv8) - large industrial style dorm building.
+  WiFi unreliable
 
 ### Parking in Freiburg im Breisgau
 
 - [Kartäuserstraße](https://maps.app.goo.gl/YK8AKf6oW1hjf4Se8) - street parking was free but is now charged per minute
   on a meter or the EasyPark app from 9:00-19:00 as the local council has extended its paid zones to the surrounding
   roads even 15 minutes walk out of the town as a money grab - typical Europe 🙄.
-  WiFi unreliable
 
 ### Attractions in Freiburg im Breisgau
 
