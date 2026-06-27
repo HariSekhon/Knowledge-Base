@@ -14,9 +14,13 @@
 - [Essen](#essen)
 - [Frankfurt](#frankfurt)
 - [Freiburg im Breisgau](#freiburg-im-breisgau)
+  - [Parking in Freiburg im Breisgau](#parking-in-freiburg-im-breisgau)
+  - [Attractions in Freiburg im Breisgau](#attractions-in-freiburg-im-breisgau)
 - [Hanover](#hanover)
 - [Königswinter](#königswinter)
 - [Munich](#munich)
+  - [Attractions in Munich](#attractions-in-munich)
+  - [Restaurants in Munich](#restaurants-in-munich)
 - [Potsdam](#potsdam)
 - [Stuttgart](#stuttgart)
   - [Attractions in Stuttgart](#attractions-in-stuttgart)
@@ -180,12 +184,15 @@ Useful for an overnight stopover because it is 1/3 of the price of Switzerland f
 accommodation.
 
 - [Black Forest Hostel](https://maps.app.goo.gl/A7hAwz99SUQ8wHMv8) - large industrial style dorm building.
-  Street parking was free but is now charged per minute on the EasyPark app from 9:00-19:00
-  as the local council has extended its paid zones to the surrounding roads even 15 minutes walk out of the town
-  as a money grab - typical Europe 🙄.
+
+### Parking in Freiburg im Breisgau
+
+- (https://maps.app.goo.gl/YK8AKf6oW1hjf4Se8) - street parking was free but is now charged per minute on the EasyPark
+  app from 9:00-19:00 as the local council has extended its paid zones to the surrounding roads even 15 minutes walk out
+  of the town as a money grab - typical Europe 🙄.
   WiFi unreliable
 
-<!-- -->
+### Attractions in Freiburg im Breisgau
 
 - [Freiburg Cathedral](https://maps.app.goo.gl/q2EWo9a7ut6crRUg7) - in the centre of town
 - [Schwabentor](https://maps.app.goo.gl/mmVRSvXv34bnpzeC6) - clock tower on the way into the town centre
