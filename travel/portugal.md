@@ -191,7 +191,9 @@ There is a metro too, but I didn't use it.
   Next time I'd try the ceviche or chilli con carne.
   Has wifi
 - [Potato Project](https://maps.app.goo.gl/5yqS7MKDJoP4c8yf6) - the Truffle Parmesan fries were high quality,
-  although a little pricey at €6 for a medium, but well worth a treat or snack. WiFi 19/12 Mbit/s
+  although a little pricey at €6 for a medium, but well worth a treat or snack.
+  The steak fries were also good with bits of non-fatty bacon tiny squares.
+  WiFi 19/12 Mbit/s
 - [Honest Greens Sé](https://maps.app.goo.gl/PnEipBPpCy1yXoXa7) - popular Spanish chain restaurant with moderate prices
   and decent food.
   Best described by my first experiences in the [Madrid restaurant](spain.md#restaurants-in-madrid) section of my Spain
@@ -283,7 +285,8 @@ The tram was clean, quick and efficient.
   it replaced the hazelnut they previously had on the menu.
   The medium waffle cone is ok but there are better thicker versions of that at other gelaterias.
   Has decent seating and fast wifi 383/343 Mbit/s
-- [Potato Project]() - gourmet fries with toppings, described in the [Lisbon](#lisbon) section
+- [Potato Project](https://maps.app.goo.gl/vUvKiSazcKEmfz2z6) - gourmet fries with toppings, described in the
+  [Lisbon](#lisbon) section
 - [Green Diamond Indian Restaurant & Bar](https://maps.app.goo.gl/iQNN9ZFm4Jfcqk5z6) - not as good as I'd hoped given
   its rating, but ok - I would try somewhere else next time.
   The lamb tikka masala was ok and came in a small single portion pot.
