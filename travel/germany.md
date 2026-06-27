@@ -187,9 +187,9 @@ accommodation.
 
 ### Parking in Freiburg im Breisgau
 
-- (https://maps.app.goo.gl/YK8AKf6oW1hjf4Se8) - street parking was free but is now charged per minute on the EasyPark
-  app from 9:00-19:00 as the local council has extended its paid zones to the surrounding roads even 15 minutes walk out
-  of the town as a money grab - typical Europe 🙄.
+- [Kartäuserstraße](https://maps.app.goo.gl/YK8AKf6oW1hjf4Se8) - street parking was free but is now charged per minute
+  on a meter or the EasyPark app from 9:00-19:00 as the local council has extended its paid zones to the surrounding
+  roads even 15 minutes walk out of the town as a money grab - typical Europe 🙄.
   WiFi unreliable
 
 ### Attractions in Freiburg im Breisgau
