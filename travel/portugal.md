@@ -295,9 +295,10 @@ The tram was clean, quick and efficient.
   The coconut lassi was small and a bit too sweet.
   WiFi 37/18 Mbit/s
 - [Honest Greens José Falcão](https://maps.app.goo.gl/sxKbsehB3h8iDFpw5) - same chain described in the
-- [Amorino]() - high quality international ice cream chain
-- [Haagen-Daaz]() - international ice cream chain
-- [Empanadas Malvon]() - argentinian pasties, ok for a snack, but fairly mid, there are better empanadas in the world
+- [Amorino](https://www.google.com/maps/search/amorino+Porto/) - high quality international ice cream chain
+- [Haagen-Daaz](https://maps.app.goo.gl/BwshbrSQeqWNJbMH6) - international ice cream chain
+- [Empanadas Malvon](https://maps.app.goo.gl/NWYW72aWDYcip6No7) - international chain of argentinian pasties.
+  Ok for a snack, but fairly mid, there are better empanadas in the world
 - [Continente Bom Dia Sá da Bandeira](https://maps.app.goo.gl/f4aqKzPNbJiChjKj9) - good supermarket with fresh orange
   juice machine and large selection of products at reasonable prices
 
