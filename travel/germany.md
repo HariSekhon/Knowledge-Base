@@ -258,9 +258,27 @@ Now I see why,
 
 ### Attractions in Munich
 
+- [Marienplatz](https://maps.app.goo.gl/YXDggg8LXa6H6rd16) - city centre square
+  - [Frauenkirche](https://maps.app.goo.gl/oh2hF6UaMmZdWr7y7) - two tower gothic catholic cathedral
+  - [Asamkirche](https://maps.app.goo.gl/YwBJQReUYALrwnV76) - catholic church
+  - [Toy Museum](https://maps.app.goo.gl/s3NtdSBRsDhCwZbcA) - in a 4 level gothic town hall with clock tower
+- [Odeonsplatz](https://maps.app.goo.gl/af5SobJ3UombH33T6)
+  - [Munich Residence](https://maps.app.goo.gl/jYM8VzLYuxySXo3WA) - palace
+- [Königsplatz](https://maps.app.goo.gl/AinGPh9cjLax3v9A7)
+  - [Alte Pinakothek](https://maps.app.goo.gl/9eXZwMFDPWaYWa4L8) - art museum
+  - [Siegestor](https://maps.app.goo.gl/aDPyn15oM4A6Dn738) - triumpah arch
+- [Angel of Peace](https://maps.app.goo.gl/zU3JYtFk6nDq6Qua6) - park and monument
+- [Maximilianeum](https://maps.app.goo.gl/X2ASn54Dj1QzGsjN9) - historic palace
+- [St. Pauls-Brunnen](https://maps.app.goo.gl/mEaG4DLMWA9T9uWC6)
+- [Bavaria Statue](https://maps.app.goo.gl/P9nJJXnLo8YiwrCg9)
+- [Nymphenburg Palace](https://maps.app.goo.gl/WQ3Nig35ieZBm5VU7)
+- [BMW Museum](https://maps.app.goo.gl/3aNoyuK7BT9z8mZh9)
+
 ### Restaurants in Munich
 
-- []()
+TODO:
+
+- [Bab Al Yemen](https://maps.app.goo.gl/fc4vcdFvc58JEaem9) - recommended by a friend
 
 ## Potsdam
 
