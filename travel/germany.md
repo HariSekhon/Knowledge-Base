@@ -204,7 +204,8 @@ accommodation.
 
 TODO:
 
-- [Colombipark](https://maps.app.goo.gl/vqcui2upD9QN9Shp6) - park with a historic building
+- [Colombipark](https://maps.app.goo.gl/vqcui2upD9QN9Shp6) - park with a historic building containing Colombischlössle
+   - [Colombischlössle](https://maps.app.goo.gl/Rydn8f8iPvdRzf3n6) - Archaeological museum
 - [Schlossbergbahn](https://maps.app.goo.gl/3EiUQMqqxzhL1SGh9) - cable car
 - [Stadtgarten Freiburg](https://maps.app.goo.gl/JbygctahqwAmetBo9) - garden
 - [Kanonenplatz](https://maps.app.goo.gl/brSsxweHeHK8HPmd9) - scenic spot
@@ -216,7 +217,6 @@ TODO:
 - [Augustiner Museum](https://maps.app.goo.gl/1h6JpVGK8deiQk5N6) - art museum
 - [ehemaliger Turmhelm eines Treppenturms an der Nordseite des Freiburger Münster](https://maps.app.goo.gl/sHpcVYE2s9qp3pVc7)
 - [Museum Natur und Mensch](https://maps.app.goo.gl/z8Yrh7GRkjiMn3jz6) - natural history museum
-- [Colombischlössle](https://maps.app.goo.gl/Rydn8f8iPvdRzf3n6) - Archaeological museum
 
 ## Hanover
 
