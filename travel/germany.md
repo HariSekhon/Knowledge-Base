@@ -183,6 +183,8 @@ Town / small city near the Swiss border with some nice historic architecture.
 Useful for an overnight stopover because it is 1/3 of the price of Switzerland for
 accommodation.
 
+I only used this as a stopover for the night so didn't check out the restaurant scene.
+
 - [Black Forest Hostel](https://maps.app.goo.gl/A7hAwz99SUQ8wHMv8) - large industrial style dorm building.
   WiFi unreliable
 
