@@ -262,6 +262,7 @@ Now I see why,
   - [Frauenkirche](https://maps.app.goo.gl/oh2hF6UaMmZdWr7y7) - two tower gothic catholic cathedral
   - [Asamkirche](https://maps.app.goo.gl/YwBJQReUYALrwnV76) - catholic church
   - [Toy Museum](https://maps.app.goo.gl/s3NtdSBRsDhCwZbcA) - in a 4 level gothic town hall with clock tower
+  - [St. Michael München](https://maps.app.goo.gl/EAd19BJujbkdGuPC7)
 - [Karlstor](https://maps.app.goo.gl/L8CC7VaVbuWjXcHx6) - city gate arch
 - [Maximilianstraße](https://maps.app.goo.gl/D1sxs6rm81mF3bxn8) - central street
 - [English Garden](https://maps.app.goo.gl/FNXNVVxyFAFAzgVHA) - large central park
