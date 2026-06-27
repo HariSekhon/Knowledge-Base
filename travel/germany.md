@@ -267,6 +267,8 @@ Now I see why,
 - [Maximilianstraße](https://maps.app.goo.gl/D1sxs6rm81mF3bxn8) - central street
 - [English Garden](https://maps.app.goo.gl/FNXNVVxyFAFAzgVHA) - large central park
   - [Chinesischer Turm](https://maps.app.goo.gl/PWpqYupvAADTgcCa6) - historic landmark pavillion
+  - [Eisbachwelle](https://maps.app.goo.gl/8qJKSzxcimpDyGNu8) - year round surfing on the fast flowing Eisbach river
+  - [Archäologische Staatssammlung](https://maps.app.goo.gl/wdnjn2Az83TGoUcU6)
 - [Platzl](https://maps.app.goo.gl/BJzP1q32G3r4FGyY8) - cobblestone square surrounded by historic buildings
 - [Max-Joseph-Platz](https://maps.app.goo.gl/wNjvmvkXq1BmTsjUA)
   - [Residenz Museum](https://maps.app.goo.gl/gDdDJ4qMbzQWPWQo8)
