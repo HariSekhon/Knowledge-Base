@@ -158,11 +158,20 @@ Mid sized city.
 
 German is the language here as it's in the north closer to Germany.
 
-- [Nooch]() - trendy asian kitchen, mains are 30CHF though (€33) and soft drinks are 5-7 CHF (€6.50).
-  The Blueberry Magic Lemonade was nice (blueberry, lemon and grapefruit.
+- [Nooch](https://maps.app.goo.gl/nQEMTK6onyxqrCtV8) - trendy asian kitchen, mains are 30CHF though (€33) and
+  soft drinks are 5-7 CHF (€6.50).
+  The Blueberry Magic Lemonade was nice (blueberry, lemon and grapefruit).
   The menu is on a QR code and has an english translation.
-  The wifi has a captcha portal that wants your phone number 🙄
-- [Coop]() - useful to get a drink, the Vitamin Focus Water Strawberry & Watermelon was nice and hit the spot
+  The wifi has a captcha portal that wants your phone number which didn't work for me because exiting the capture to
+  read the SMS cancelled the whole process and it didn't accept the previous code 🙄
+- [Coop](https://maps.app.goo.gl/cGFuUhwVhKnRHHjX7) - useful to get a drink, the Vitamin Focus Water
+  Strawberry & Watermelon was nice and hit the spot
+
+TODO:
+
+- [L'Unique | House of Rock](https://maps.app.goo.gl/VbNCBChWbRCK8WMZ9) - kitchen was already closed by 9:15pm
+- [1777](https://maps.app.goo.gl/Ft5B81zHZWPeLUBu7) - burgers, sandwiches, salads
+- [Burgermeister Gerbergasse](https://maps.app.goo.gl/HiWAStaygpJWE3w79)
 
 ## Bern
 
