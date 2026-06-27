@@ -262,6 +262,7 @@ Now I see why,
   - [Frauenkirche](https://maps.app.goo.gl/oh2hF6UaMmZdWr7y7) - two tower gothic catholic cathedral
   - [Asamkirche](https://maps.app.goo.gl/YwBJQReUYALrwnV76) - catholic church
   - [Toy Museum](https://maps.app.goo.gl/s3NtdSBRsDhCwZbcA) - in a 4 level gothic town hall with clock tower
+- [Maximilianstraße](https://maps.app.goo.gl/D1sxs6rm81mF3bxn8) - central street
 - [Platzl](https://maps.app.goo.gl/BJzP1q32G3r4FGyY8) - cobblestone square surrounded by historic buildings
 - [Max-Joseph-Platz](https://maps.app.goo.gl/wNjvmvkXq1BmTsjUA)
   - [Residenz Museum](https://maps.app.goo.gl/gDdDJ4qMbzQWPWQo8)
