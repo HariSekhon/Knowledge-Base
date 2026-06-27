@@ -263,6 +263,8 @@ Now I see why,
   - [Asamkirche](https://maps.app.goo.gl/YwBJQReUYALrwnV76) - catholic church
   - [Toy Museum](https://maps.app.goo.gl/s3NtdSBRsDhCwZbcA) - in a 4 level gothic town hall with clock tower
 - [Maximilianstraße](https://maps.app.goo.gl/D1sxs6rm81mF3bxn8) - central street
+- [English Garden](https://maps.app.goo.gl/FNXNVVxyFAFAzgVHA) - large central park
+  - [Chinesischer Turm](https://maps.app.goo.gl/PWpqYupvAADTgcCa6) - historic landmark pavillion
 - [Platzl](https://maps.app.goo.gl/BJzP1q32G3r4FGyY8) - cobblestone square surrounded by historic buildings
 - [Max-Joseph-Platz](https://maps.app.goo.gl/wNjvmvkXq1BmTsjUA)
   - [Residenz Museum](https://maps.app.goo.gl/gDdDJ4qMbzQWPWQo8)
