@@ -262,6 +262,14 @@ Now I see why,
   - [Frauenkirche](https://maps.app.goo.gl/oh2hF6UaMmZdWr7y7) - two tower gothic catholic cathedral
   - [Asamkirche](https://maps.app.goo.gl/YwBJQReUYALrwnV76) - catholic church
   - [Toy Museum](https://maps.app.goo.gl/s3NtdSBRsDhCwZbcA) - in a 4 level gothic town hall with clock tower
+- [Platzl](https://maps.app.goo.gl/BJzP1q32G3r4FGyY8) - cobblestone square surrounded by historic buildings
+- [Max-Joseph-Platz](https://maps.app.goo.gl/wNjvmvkXq1BmTsjUA)
+  - [Residenz Museum](https://maps.app.goo.gl/gDdDJ4qMbzQWPWQo8)
+  - [Antiquarium](https://maps.app.goo.gl/P84qqvweJWB7QPfD9) - not an aquarium!!
+    Long fancy castle painted room with sculptures
+  - [Staatliche Münzsammlung](https://maps.app.goo.gl/w2sYeHomf7JeZRoDA) - museum
+  - [Ehemaliges Briefpostzentrum](https://maps.app.goo.gl/CbS7wSJ2b2QQ5Rmb7) - historic building
+  - [Kunsthalle der Hypo-Kulturstiftung](https://maps.app.goo.gl/2geJMhmDJ85VFWPw6) - art museum
 - [Odeonsplatz](https://maps.app.goo.gl/af5SobJ3UombH33T6)
   - [Munich Residence](https://maps.app.goo.gl/jYM8VzLYuxySXo3WA) - palace
 - [Königsplatz](https://maps.app.goo.gl/AinGPh9cjLax3v9A7)
