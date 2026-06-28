@@ -303,10 +303,12 @@ TODO:
 
 - [Bab Al Yemen](https://maps.app.goo.gl/fc4vcdFvc58JEaem9) - 4.7, recommended by a friend
 - Laim:
+  - [Taverna Orexi](https://maps.app.goo.gl/PoNDcM5mNMRMJRX66) - 4.8, Greek
   - [Kymata Modern - Griechisches Restaurant München](https://maps.app.goo.gl/tie4W8gZYTueiUCK6) - 4.7, Greek
   - [Taverna Anemos](https://maps.app.goo.gl/AmTfzn8FrC1RZZgQ9) - 4.7, Greek
   - [Wirtshaus Augustiner Kurgarten](https://maps.app.goo.gl/uYjWrxGXnAPTBeA4A) - 4.6, Bavarian
   - [Swaad Restaurant Pasing](https://maps.app.goo.gl/8uRkPRZyQRytm4xn6) - 4.8, Indian
+  - [Mo’s Kitchen](https://maps.app.goo.gl/6nFZFR5ZRfEUqM6j7) - 4.9, burger food truck
 
 ## Potsdam
 
