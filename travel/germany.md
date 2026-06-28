@@ -236,8 +236,13 @@ Lovely small germanic town. This is what I imagined German paradise to look like
 
 People complained that Munich was expensive when I mentioned I wanted to go there.
 
-Now I see why,
+Now I see why.
 
+- [a&o Hostel Munich Laim](https://maps.app.goo.gl/LwfA781qcM1FYBSW7) - large comfortable reception area with vending
+  machines.
+  Free street parking outside the hostel
+  (only on the right side when facing the hostel, the left side has that X sign meaning tow zone).
+  Wifi 10/9 Mbit/s
 - [The Tent](https://maps.app.goo.gl/yudHxXsSLEvjx2ZM6) - cheap but very low quality - do not stay here.
   The name is not a metaphor,
   it's literally 3 tents with basic creaky metal bunk beds and weak mattresses and no pillows.
