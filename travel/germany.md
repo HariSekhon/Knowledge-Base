@@ -296,6 +296,7 @@ Now I see why.
 - [Bavaria Statue](https://maps.app.goo.gl/P9nJJXnLo8YiwrCg9)
 - [Nymphenburg Palace](https://maps.app.goo.gl/WQ3Nig35ieZBm5VU7)
 - [BMW Museum](https://maps.app.goo.gl/3aNoyuK7BT9z8mZh9)
+- [Hirschgarten](https://maps.app.goo.gl/QFrZf8MSyhgMBfkMA) - park with huge beer garden, BBQ, and deer reserve
 
 ### Restaurants in Munich
 
