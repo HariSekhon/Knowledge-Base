@@ -306,6 +306,7 @@ TODO:
   - [Kymata Modern - Griechisches Restaurant München](https://maps.app.goo.gl/tie4W8gZYTueiUCK6) - 4.7, Greek
   - [Taverna Anemos](https://maps.app.goo.gl/AmTfzn8FrC1RZZgQ9) - 4.7, Greek
   - [Wirtshaus Augustiner Kurgarten](https://maps.app.goo.gl/uYjWrxGXnAPTBeA4A) - 4.6, Bavarian
+  - [Swaad Restaurant Pasing](https://maps.app.goo.gl/8uRkPRZyQRytm4xn6) - 4.8, Indian
 
 ## Potsdam
 
