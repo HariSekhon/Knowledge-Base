@@ -249,8 +249,11 @@ Now I see why.
   Imagine a 180 bed dorm in a tent - that's it.
   Europeans and their low quality of life - in other countries for this same price you'd get a private room or
   at least luxury hostel.
-  At night it's cold, even in the end of June summer heatwave, and in the daytime it's roasting.
+  At night it's cold, even in the end of June summer heatwave,
+  and in the daytime it's roasting so by 10am the heat alone was waking me up.
   Wifi is unreliable in the tent.
+  The kitchen and bathroom basins were both filthy - imagine if you let 150 teenagers use them without adult
+  supervision or anyone nagging to wash up or clean up after themselves.
   Even in Munich there are a couple other real hostels at similar price.
   They don't give pillows, instead giving an extra blanket, citing pillows as harder to wash and dry.
   They also require a €25 deposit for the 3 blankets they give you.
