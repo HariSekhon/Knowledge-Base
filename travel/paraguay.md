@@ -22,7 +22,8 @@
 [Paraguay](https://maps.app.goo.gl/AXC3CMD7mjavrRYf9) is a landlocked 3rd world country in between Argentina and Brazil
 that offers easy residency and tax advantages.
 
-The main complaint is that it's boring and there isn't much to do there.
+The main complaint is that it's boring and there isn't much to do there -
+which I can attest to - I wouldn't want to live there.
 
 ## Population
 
@@ -38,7 +39,7 @@ democracies, although it's birthrate is declining so expected to go below replen
 
 ## Asuncion
 
-The capital.
+The capital - I found it boring almost immediately and have no plans to revisit.
 
 ### Asuncion Airport - Silvio Pettirossi International
 
