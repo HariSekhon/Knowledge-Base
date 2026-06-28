@@ -303,6 +303,7 @@ TODO:
 
 - [Bab Al Yemen](https://maps.app.goo.gl/fc4vcdFvc58JEaem9) - 4.7, recommended by a friend
 - Laim:
+  - [Umami](https://maps.app.goo.gl/CJUqVa9He7jSyN968) - 4.6, Asian
   - [VUNA Restaurant Asian Cuisine & Sushi Bar](https://maps.app.goo.gl/ezKSRVtMwcrwAVYr6) - 4.7
   - [Taverna Orexi](https://maps.app.goo.gl/PoNDcM5mNMRMJRX66) - 4.8, Greek
   - [Kymata Modern - Griechisches Restaurant München](https://maps.app.goo.gl/tie4W8gZYTueiUCK6) - 4.7, Greek
