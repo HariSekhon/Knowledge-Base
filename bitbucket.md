@@ -61,19 +61,61 @@ Taken from my [.gitconfig](https://github.com/HariSekhon/DevOps-Bash-tools/blob/
 git clone "https://bitbucket.org/$ORG/$REPO.git"
 ```
 
-If you get a 401 or 403 authentication or authorization error, you can check Git debug output by setting:
+If you get a 401 or 403 authentication or authorization error...
+
+Check which credential helper you're using:
+
+```shell
+git config --list --show-origin | grep credential.helper
+file:/opt/homebrew/etc/gitconfig        credential.helper=osxkeychain
+```
+
+But the URL specific helper should take precedence.
+
+Check what Git credentials are actually being used:
+
+```shell
+printf 'protocol=https\nhost=bitbucket.org\n\n' | git credential fill
+```
+
+General Git debug output:
 
 ```shell
 export GIT_CURL_VERBOSE=1
 ```
 
-You may need to put your username in the Bitbucket URL if using App Passwords in order to get past the 403 error:
+Or in this case this was more useful:
+
+```shell
+GIT_TRACE=1 GIT_TRACE_CREDENTIALS=1 git push bitbucket main
+```
+
+Output:
+
+```text
+21:10:50.086154 git.c:476               trace: built-in: git push bitbucket main
+...
+21:10:50.473456 run-command.c:673       trace: run_command: 'git credential-osxkeychain get'
+21:10:50.474767 run-command.c:765       trace: start_command: /bin/sh -c 'git credential-osxkeychain get' 'git credential-osxkeychain get'
+21:10:50.490893 git.c:775               trace: exec: git-credential-osxkeychain get
+21:10:50.491732 run-command.c:673       trace: run_command: git-credential-osxkeychain get
+```
+
+This is the problem, it's still using the osxkeychain with an old credential instead of the credential helper.
+
+The trace shows that the credential helper doesn't call the function unless you put the username in the URL,
+even though the credential helper URL doesn't contain the username as a specific requirement match.
+
+So if you are getting the 403 error, change the URL to this:
 
 ```shell
 https://$BITBUCKET_USER@bitbucket.org/...
 ```
 
-in order to get this to work as the behaviour even when trying the credential helper with the username seems to not work:
+
+
+Putting the username in credential helper doesn't work as the helper doesn't get called at all judging by the traces,
+so this doesn't work on Bitbucket even though it does on other sites like GitHub, GitLab and Azure DevOps:
 
 ```properties
 [credential "https://bitbucket.org"]
