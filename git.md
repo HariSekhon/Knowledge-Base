@@ -744,6 +744,8 @@ You will need to git force push to overwrite the upstream repo history.
 
 ### Erase a Specific Git Commit from Git History
 
+**WARNING: do this in a clean checkout as you may lose staged or uncommitted changes otherwise**
+
 First find the commit short hash from your `git log` command (hint: use `--all -p` to search all content).
 
 Then run an interactive `git rebase` command to delete that specific commit line from the text file of commit list
