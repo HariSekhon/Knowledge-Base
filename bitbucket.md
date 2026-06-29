@@ -150,3 +150,5 @@ so this doesn't work on Bitbucket even though it does on other sites like GitHub
 [credential "https://bitbucket.org"]
     helper = "!f() { sleep 1; echo \"username=${BITBUCKET_USER}\"; echo \"password=${BITBUCKET_TOKEN}\"; }; f"
 ```
+
+Doesn't work - your still need to put the `$BITBUCKET_USER@` in the git remote URL.
