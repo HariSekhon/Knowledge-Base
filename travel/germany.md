@@ -321,6 +321,14 @@ Now I see why.
 
 ### Restaurants in Munich
 
+- [i love leo](https://www.google.com/maps/search/I+love+leo+munich/) - frozen yoghurt.
+  Expensive but very good, €8 for the "i love leo" size one below medium but the toppings selection is good,
+  including fresh diced strawberries, whole blueberries, raspberries and blackberries as well as various naughtier
+  toppings and sauces.
+  Even the spoon itself was a hard cinnamon biscuit
+- [Gelateria Dolce Vita])(https://maps.app.goo.gl/4yiohGjE5Res7tUg8) - €5 for 2 scoops. Pistachio was creamy,
+  Hazelnut was also excellent, and the yoghurt flavour was excellent too, just the right amount of sweetness.
+  The amareno cherry was a bit sweeter so too much for me. They only give out 2 samples
 - [Bab Al Yemen](https://maps.app.goo.gl/fc4vcdFvc58JEaem9) - Yemenese, recommended by a friend. Interesting area, full of hotels, strip clubs and shisha
   lounges. The places I go chasing good food!
   It was surprisingly busy at 10:30pm.
@@ -330,6 +338,9 @@ Now I see why.
   The beef strips in clay hotpot with their special large bread was very good,
   and supplemented well with the yoghurt and cucumber side.
   WiFi 139/24 Mbit/s
+-
+- [Venchi Schokolade und Gelato Marienplatz](https://maps.app.goo.gl/xPLbWSDDnFvP43tE7) - same gelato and chocolate
+  chain as described in Italy's [Milan section](italy.md#restaurants-in-milan)
 
 TODO:
 
