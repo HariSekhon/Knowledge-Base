@@ -20,6 +20,8 @@ A legacy Git repo hosting provider with the worst [CI/CD](cicd.md) of the major 
 
 Deprecated in favour of API Tokens.
 
+<https://developer.atlassian.com/cloud/bitbucket/changelog/#CHANGE-3222>
+
 <https://bitbucket.org/account/settings/app-passwords/>
 
 ## API Tokens
