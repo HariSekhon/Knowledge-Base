@@ -338,7 +338,7 @@ Now I see why.
   The beef strips in clay hotpot with their special large bread was very good,
   and supplemented well with the yoghurt and cucumber side.
   WiFi 139/24 Mbit/s
--
+- [Elina Pizza in Laim](https://maps.app.goo.gl/wbkB4wtJiSU449cq8) - late night fresh pizza joint, the diavalo was good
 - [Venchi Schokolade und Gelato Marienplatz](https://maps.app.goo.gl/xPLbWSDDnFvP43tE7) - same gelato and chocolate
   chain as described in Italy's [Milan section](italy.md#restaurants-in-milan)
 
