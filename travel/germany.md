@@ -32,7 +32,7 @@
 
 Well developed country with similar pros and cons to the UK now due to mass immigration.
 
-Germany food is often fairly bland,
+German food is often fairly bland,
 and being a multi-ethnic society you will often come across and want to eat in foreign restaurants here.
 
 Like the UK you tend to see more older natives and younger foreigners.
