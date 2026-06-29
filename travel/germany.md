@@ -321,9 +321,18 @@ Now I see why.
 
 ### Restaurants in Munich
 
+- [Bab Al Yemen](https://maps.app.goo.gl/fc4vcdFvc58JEaem9) - Yemenese, recommended by a friend. Interesting area, full of hotels, strip clubs and shisha
+  lounges. The places I go chasing good food!
+  It was surprisingly busy at 10:30pm.
+  Service was slow as a result of being busy.
+  No English menu, only German so had to use wifi and Google Translate.
+  They’d sold out of fattoush 😭, and didn’t have the minced beef samosas which are only available during Ramadan.
+  The beef strips in clay hotpot with their special large bread was very good,
+  and supplemented well with the yoghurt and cucumber side.
+  WiFi 139/24 Mbit/s
+
 TODO:
 
-- [Bab Al Yemen](https://maps.app.goo.gl/fc4vcdFvc58JEaem9) - 4.7, recommended by a friend
 - [Kashgar Uyghur Restaurant](https://maps.app.goo.gl/aLSuiJ3frWJctS8z7) - 4.5, Asian
 - Laim:
   - [Umami](https://maps.app.goo.gl/CJUqVa9He7jSyN968) - 4.6, Asian
