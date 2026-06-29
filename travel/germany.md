@@ -240,6 +240,10 @@ Now I see why.
 
 - [a&o Hostel Munich Laim](https://maps.app.goo.gl/LwfA781qcM1FYBSW7) - large comfortable reception area with vending
   machines.
+  Unfortunately the staff are not allowed to refill a water bottle as they want you to buy plastic water bottles
+  (which are bad for your health!).
+  I also couldn't get into the kitchen either time I tried,
+  the first time it was locked in the afternoon and my card didn't open it and the second time a woman kicked me out.
   Free street parking outside the hostel
   (only on the right side when facing the hostel, the left side has that X sign meaning tow zone).
   Wifi 10/9 Mbit/s
@@ -303,6 +307,7 @@ Now I see why.
 TODO:
 
 - [Bab Al Yemen](https://maps.app.goo.gl/fc4vcdFvc58JEaem9) - 4.7, recommended by a friend
+- [Kashgar Uyghur Restaurant](https://maps.app.goo.gl/aLSuiJ3frWJctS8z7) - 4.5, Asian
 - Laim:
   - [Umami](https://maps.app.goo.gl/CJUqVa9He7jSyN968) - 4.6, Asian
   - [VUNA Restaurant Asian Cuisine & Sushi Bar](https://maps.app.goo.gl/ezKSRVtMwcrwAVYr6) - 4.7
