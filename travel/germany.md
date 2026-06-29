@@ -326,7 +326,7 @@ Now I see why.
   including fresh diced strawberries, whole blueberries, raspberries and blackberries as well as various naughtier
   toppings and sauces.
   Even the spoon itself was a hard cinnamon biscuit
-- [Gelateria Dolce Vita])(https://maps.app.goo.gl/4yiohGjE5Res7tUg8) - €5 for 2 scoops. Pistachio was creamy,
+- [Gelateria Dolce Vita](https://maps.app.goo.gl/4yiohGjE5Res7tUg8) - €5 for 2 scoops. Pistachio was creamy,
   Hazelnut was also excellent, and the yoghurt flavour was excellent too, just the right amount of sweetness.
   The amareno cherry was a bit sweeter so too much for me. They only give out 2 samples
 - [Bab Al Yemen](https://maps.app.goo.gl/fc4vcdFvc58JEaem9) - Yemenese, recommended by a friend. Interesting area, full of hotels, strip clubs and shisha
