@@ -4,6 +4,7 @@
 
 - [Summary](#summary)
 - [Driving in Germany](#driving-in-germany)
+  - [Umwelt](#umwelt)
 - [Aarchen](#aarchen)
 - [Bonn](#bonn)
 - [Berlin](#berlin)
@@ -55,12 +56,25 @@ driving distances in Germany.
 
 You can expect to drive for 8 hours to go from West to East Germany.
 
-In the cities they have low emissions regulations called _"Umwelt"_
-that require a government sticker displayed in the window.
-If you don't have the sticker you risk a fine even if you have a modern low emissions car.
-Government bureuacracy, it's worse than the UK.
+### Umwelt
+
+German cities have low emissions zones called _"Umwelt"_ that require a government sticker displayed in the window of
+the car to drive into them - or risk a fine even if you have a modern low emissions car!
+
 If you don't have the sticker, avoid parking on the streets where traffic patrols or police may notice and fine you,
 you may want to consider parking in the malls instead.
+
+This is just government bureaucracy getting in the way as usual.
+
+You can find a TUV service centre and take your vehicle registration form for them to verify the make and model and its
+emissions standard to issue you the mandatory sticker to put in the window.
+
+<https://www.tuvsud.com/de-de/branchen/mobilitaet-und-automotive/feinstaubplaketten/bestellung-feinstaubplakette-england>
+
+This sticker cost €17.50 in 2026.
+
+Neighbouring [Luxembourg](luxembourg.md) handles this better as they just detect the make and model of the car
+automatically and you don't need to go through this hassle and expense.
 
 ## Aarchen
 
