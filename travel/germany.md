@@ -317,6 +317,7 @@ TODO:
   - [Wirtshaus Augustiner Kurgarten](https://maps.app.goo.gl/uYjWrxGXnAPTBeA4A) - 4.6, Bavarian
   - [Swaad Restaurant Pasing](https://maps.app.goo.gl/8uRkPRZyQRytm4xn6) - 4.8, Indian
   - [Mo’s Kitchen](https://maps.app.goo.gl/6nFZFR5ZRfEUqM6j7) - 4.9, burger food truck
+  - [Schlosswirtschaft Schwaige Nymphenburg](https://maps.app.goo.gl/LwnofY8Q2JS7RPDb7) - 4.5, Bavarian
 
 ## Potsdam
 
