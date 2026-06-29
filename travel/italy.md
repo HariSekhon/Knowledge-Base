@@ -65,7 +65,8 @@ I was surprised how much immigration and graffiti there was.
 - [Venchi Cioccolato e Gelato, Milano Via Dante](https://maps.app.goo.gl/YeG46rgZ4k7kfyHH8) /
   [Giuseppe Mengoni](https://maps.app.goo.gl/DEfGNvtCUCNGZbzr9) - local chocolate and gelato chain.
   Large selection of chocolate bars with nuts etc and medium sized selection of ice creams with fancy cones.
-  The dark chocolate and pistachio were better than the ananas & coconut
+  The dark chocolate and pistachio were better than the ananas & coconut. Expensive though at €8.50 for a 2 scoop ice
+  cream
 - [Cioccolatitaliani](https://maps.app.goo.gl/QDwn1Ti5JYeiX3ff6) - very popular ice cream shop next to the wonderful
   [Galleria Vittorio Emanuele II](https://maps.app.goo.gl/MZQfS5KxKCGnuTXW8).
   The "Provo Costume" cialde special with fruit and homemade yoghurt ice cream in a big waffle cone is my favourite,
