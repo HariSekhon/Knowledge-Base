@@ -70,7 +70,17 @@ git config --list --show-origin | grep credential.helper
 file:/opt/homebrew/etc/gitconfig        credential.helper=osxkeychain
 ```
 
-But the URL specific helper should take precedence.
+But the URL specific helper should take precedence:
+
+```shell
+git config --get-urlmatch credential.helper https://bitbucket.org
+```
+
+Output, we see our function:
+
+```text
+!f() { sleep 1; echo "password=${BITBUCKET_TOKEN}"; }; f
+```
 
 Check what Git credentials are actually being used:
 
@@ -112,7 +122,26 @@ So if you are getting the 403 error, change the URL to this:
 https://$BITBUCKET_USER@bitbucket.org/...
 ```
 
+You should then see an output like this:
 
+```text
+...
+21:19:29.447332 run-command.c:673       trace: run_command: 'git credential-osxkeychain get'
+21:19:29.448723 run-command.c:765       trace: start_command: /bin/sh -c 'git credential-osxkeychain get' 'git credential-osxkeychain get'
+21:19:29.466320 git.c:775               trace: exec: git-credential-osxkeychain get
+21:19:29.467065 run-command.c:673       trace: run_command: git-credential-osxkeychain get
+21:19:29.467099 run-command.c:765       trace: start_command: /opt/homebrew/opt/git/libexec/git-core/git-credential-osxkeychain get
+21:19:29.759814 run-command.c:673       trace: run_command: 'git credential-osxkeychain store'
+21:19:29.759936 run-command.c:765       trace: start_command: /bin/sh -c 'git credential-osxkeychain store' 'git credential-osxkeychain store'
+21:19:29.778023 git.c:775               trace: exec: git-credential-osxkeychain store
+21:19:29.778740 run-command.c:673       trace: run_command: git-credential-osxkeychain store
+21:19:29.778756 run-command.c:765       trace: start_command: /opt/homebrew/opt/git/libexec/git-core/git-credential-osxkeychain store
+21:19:29.783479 run-command.c:673       trace: run_command: 'f() { sleep 1; echo "password=${BITBUCKET_TOKEN}"; }; f store'
+21:19:29.783549 run-command.c:765       trace: start_command: /bin/sh -c 'f() { sleep 1; echo "password=${BITBUCKET_TOKEN}"; }; f store' 'f() { sleep 1; echo "password=${BITBUCKET_TOKEN}"; }; f store'
+...
+```
+
+Notice the last two lines which show it's now using the function after adding the username into the URL.
 
 Putting the username in credential helper doesn't work as the helper doesn't get called at all judging by the traces,
 so this doesn't work on Bitbucket even though it does on other sites like GitHub, GitLab and Azure DevOps:
