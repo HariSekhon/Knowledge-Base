@@ -717,6 +717,8 @@ See [git_filter_repo_replace_text.sh](https://github.com/HariSekhon/DevOps-Bash-
 
 ### Git Filter-Repo Remove File(s) from Commit History
 
+**WARNING: First take a full backup of your working copy checkout**
+
 Remove all the paths specified in the text file:
 
 ```shell
@@ -734,7 +736,9 @@ You will need to git force push to overwrite the upstream repo history.
 
 Can also be used to remove reference to client names in public projects.
 
-First clone [DevOps-Bash-tools](devops-bash-tools.md), then run the script in there:
+**WARNING: First take a full backup of your working copy checkout**
+
+Clone [DevOps-Bash-tools](devops-bash-tools.md), then run the script in there:
 
 ```shell
 bash-tools/git/git_filter_repo_replace_text.sh --help  # for details
@@ -746,7 +750,9 @@ You will need to git force push to overwrite the upstream repo history.
 
 **WARNING: do this in a clean checkout as you may lose staged or uncommitted changes otherwise**
 
-First find the commit short hash from your `git log` command (hint: use `--all -p` to search all content).
+**WARNING: First take a full backup of your working copy checkout**
+
+Find the commit short hash from your `git log` command (hint: use `--all -p` to search all content).
 
 Then run an interactive `git rebase` command to delete that specific commit line from the text file of commit list
 that opens in your `$EDITOR` before saving it to let the rebase run through the rest of the git commits excluding that
