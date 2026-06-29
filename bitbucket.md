@@ -34,6 +34,8 @@ and then copy, save it and export it:
 export BITBUCKET_TOKEN=...
 ```
 
+<https://support.atlassian.com/bitbucket-cloud/docs/using-api-tokens/>
+
 ## Git Clone over HTTPS using App Password or API Token
 
 Cloning with HTTPS then becomes:
