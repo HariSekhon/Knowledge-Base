@@ -210,6 +210,7 @@ This one is used widely throughout these pages:
 - [Windows](windows.md)
 - [⭐ Mac](mac.md)
   - [Homebrew](brew.md)
+  - [Mas](mas.md)
   - [Raycast](raycast.md)
 - [Shell](shell.md)
   - [⭐ Bash Scripting](bash.md)
