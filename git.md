@@ -740,9 +740,15 @@ bash-tools/git/git_filter_repo_replace_text.sh --help  # for details
 
 ### Erase a Specific Git Commit from Git History
 
-First find the commit short hash,
-then run an interactive rebase
-and delete that specific commit line from the text file before saving it to run through the rest of the commits:
+First find the commit short hash.
+
+Then run an interactive `git rebase` command to delete that specific commit line from the text file of commit list
+that opens in your `$EDITOR` before saving it to let the rebase run through the rest of the git commits excluding that
+one from being saved in the history.
+
+```shell
+export EDITOR=vim
+```
 
 ```shell
 git rebase -i COMMIT_HASH^
