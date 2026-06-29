@@ -2,7 +2,8 @@
 
 <!-- INDEX_START -->
 
-- [Motorway Tolls - Vignettes in Czechia](#motorway-tolls---vignettes-in-czechia)
+- [Driving in Czechia](#driving-in-czechia)
+  - [Vignettes](#vignettes)
 - [Prague](#prague)
   - [Prague Airport](#prague-airport)
   - [Taxis in Prague](#taxis-in-prague)
@@ -29,7 +30,11 @@ I still call it Czech Republic and struggle with the new name of Czechia -
 it's too similar a name to the war torn Chechnya.
 They didn't think about about the negative branding on this rename.
 
-## Motorway Tolls - Vignettes in Czechia
+## Driving in Czechia
+
+### Vignettes
+
+You need to buy a vignette to drive on Czech motorways otherwise you will be fined.
 
 Buy your e-vignette for Czechia here:
 
