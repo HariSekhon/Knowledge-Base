@@ -7,14 +7,14 @@
 [![Total Countries](https://img.shields.io/badge/Total%20Countries-74-blue)](https://nomads.com/@harisekhon)
 [![Countries in 2024](https://img.shields.io/badge/in%202024-20-blue)](https://nomads.com/@harisekhon)
 [![Countries in 2025](https://img.shields.io/badge/in%202025-35-blue)](https://nomads.com/@harisekhon)
-[![Countries in 2026](https://img.shields.io/badge/in%202026-30-blue)](https://nomads.com/@harisekhon)
+[![Countries in 2026](https://img.shields.io/badge/in%202026-31-blue)](https://nomads.com/@harisekhon)
 [![Unique Countries 2024+](https://img.shields.io/badge/Unique%20Countries%202024+-67-blue)](https://nomads.com/@harisekhon)
 
-[![Total Cities](https://img.shields.io/badge/Total%20Cities-274-blue)](https://nomads.com/@harisekhon)
+[![Total Cities](https://img.shields.io/badge/Total%20Cities-282-blue)](https://nomads.com/@harisekhon)
 [![Cities in 2024](https://img.shields.io/badge/in%202024-70-blue)](https://nomads.com/@harisekhon)
 [![Cities in 2025](https://img.shields.io/badge/in%202025-89-blue)](https://nomads.com/@harisekhon)
-[![Cities in 2026](https://img.shields.io/badge/in%202026-103-blue)](https://nomads.com/@harisekhon)
-[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-249-blue)](https://nomads.com/@harisekhon)
+[![Cities in 2026](https://img.shields.io/badge/in%202026-113-blue)](https://nomads.com/@harisekhon)
+[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-257-blue)](https://nomads.com/@harisekhon)
 
 Short links to this page:
 
@@ -121,7 +121,7 @@ Updated regularly as I travel the world 52 weeks a year.
 
 Countries: 74
 
-Cities: 274
+Cities: 282
 
 - Countries in 2024: 20
   - Cities in 2024: 70
@@ -136,13 +136,13 @@ Cities: 274
     Romania, Hungary, Slovakia, Austria, Czechia, Poland, Germany, UK, Slovenia, Croatia, Montenegro, Albania,
     North Macedonia, Bosnia & Herzegovina, Ukraine, Moldova, Tunisia, Jordan, Lebanon, Spain, Mexico, Guatemala,
     El Salvador, Costa Rica, Panama, Colombia
-- Countries in 2026: 30
-  - Cities in 2026: 103
+- Countries in 2026: 31
+  - Cities in 2026: 113
   - Countries: Colombia (continued), Ecuador, Peru, Bolivia, Chile, Argentina, Uruguay, Brazil, Paraguay, Curacao,
     Dominican Republic, Jamaica, Puerto Rico, Spain, Malta, Serbia, Hungary, Slovakia, Czechia, Germany, Belgium,
-    France, UK, Luxembourg, Switzerland, Liechtenstein, Italy, Monaco, Andorra, Portugal
+    France, UK, Luxembourg, Switzerland, Liechtenstein, Italy, Monaco, Andorra, Portugal, Poland
 - Unique Countries since Emigrating from the UK in 2024: 67
-  - Unique Cities since Emigrating from the UK in 2024: 249
+  - Unique Cities since Emigrating from the UK in 2024: 257
 
 Country pages with specific tips for each country:
 
