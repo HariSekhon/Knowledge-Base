@@ -237,6 +237,7 @@ This one is used widely throughout these pages:
   - [Vim](vim.md)
   - [IntelliJ](intellij.md)
   - [VS Code](vs-code.md)
+  - [ANSI](ansi.md)
 - [Coder](coder.md)
 
 ### Terminal Multiplexers
