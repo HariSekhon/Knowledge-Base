@@ -41,7 +41,7 @@ export BITBUCKET_TOKEN=...
 Cloning with HTTPS then becomes:
 
 ```shell
-git clone "https://$BITBUCKET_TOKEN@bitbucket.org/$ORG/$REPO.git"
+git clone "https://$BITBUCKET_USER:$BITBUCKET_TOKEN@bitbucket.org/$ORG/$REPO.git"
 ```
 
 or better using a credential helper...
@@ -68,7 +68,7 @@ export GIT_CURL_VERBOSE=1
 You may need to put your username in the Bitbucket URL if using App Passwords in order to get past the 403 error:
 
 ```shell
-https://harisekhon@bitbucket.org/...
+https://$BITBUCKET_USER@bitbucket.org/...
 ```
 
 in order to get this to work as the behaviour even when trying the credential helper with the username seems to not work:
