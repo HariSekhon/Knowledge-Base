@@ -43,6 +43,7 @@
   - [Git Filter-Repo Replace Text in Commit History](#git-filter-repo-replace-text-in-commit-history)
   - [Git Filter-Repo Remove File(s) from Commit History](#git-filter-repo-remove-files-from-commit-history)
   - [Erase Leaked Credential in Git History](#erase-leaked-credential-in-git-history)
+  - [Erase a Specific Git Commit from Git History](#erase-a-specific-git-commit-from-git-history)
   - [Merge a branch from another repo into the current repo](#merge-a-branch-from-another-repo-into-the-current-repo)
   - [Reset and Re-download Git Submodule](#reset-and-re-download-git-submodule)
   - [Find which upstream `<remote>/<branch>` the current branch is set to track](#find-which-upstream-remotebranch-the-current-branch-is-set-to-track)
@@ -736,6 +737,21 @@ First clone [DevOps-Bash-tools](devops-bash-tools.md), then run the script in th
 ```shell
 bash-tools/git/git_filter_repo_replace_text.sh --help  # for details
 ```
+
+### Erase a Specific Git Commit from Git History
+
+First find the commit short hash,
+then run an interactive rebase
+and delete that specific commit line from the text file before saving it to run through the rest of the commits:
+
+```shell
+git rebase -i COMMIT_HASH^
+```
+
+Replace the COMMIT_HASH with the right one.
+Notice the `^` at the end of the commit hash which means start from the hash before it.
+The commit will be the first in the list, delete that line,
+save and exit and let the rebase run through the remaining commits.
 
 ### Merge a branch from another repo into the current repo
 
