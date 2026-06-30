@@ -173,7 +173,9 @@ From the US Gov website:
 
 ### Europe
 
-You don't realize what big countries France, Spain, Germany and Poland are until you've [driven](#Driving) across them!
+You don't realize what big countries France, Spain, Germany and Poland are until you've driven across them!
+
+(I've driven across most of the European countries I've visited, see the [Driving](#driving) section below)
 
 - [Albania](travel/albania.md) ⭐
 - [Andorra](travel/andorra.md) ⭐
