@@ -1144,6 +1144,39 @@ This is a local knowledge that will get you done and your license revoked if you
 
 You don't realize what big countries France, Spain, Germany and Poland are until you've driven across them!
 
+### Driving Checklist
+
+Police may refuse you entry or blackmail you out of money if you don't have all of the following documents:
+
+- Passport:
+  - South African police laid a trap pulling over foreigners coming out of
+    [Sandton](#sandton) - primarily a rich foreigner area.
+    My guess is they were targeting rental cars in an attempt to extort fines / bribes from foreigners not carrying
+    their passports and even document imaginable including driving license and international driver's permit.
+    <!-- TODO: medium story this full exchange -->
+- UK driver's license
+- International driver's permit (get this from the Post Office it's only around £5 but requires a passport photo)
+- Insurance certificate
+  - check it covers the specific country, see note above that non-EU countries are often not covered
+- Vehicle Registration V5C paper proof of ownership
+  - [Serbian](#serbia) police refused to accept digital proof of ownership via insurance certificate
+  - they insisted on physical original paper copy
+  - they said it was the equivalent to *"Passport for the car"*
+
+### Additional EU Driving Checklist
+
+Driving in the EU additionally requires:
+
+- breakdown kit (AA does one), including:
+  - high viz jacket (which must be available in the passenger compartment
+  - breakdown triangle
+  - headlamp converters
+
+Headlamp converters are basically headlamp stickers that change the glare direction of your headlamps to shine the other
+way because you drive on the right in Europe instead of the left like in the UK.
+
+Apparently the French police are likely to pull you over and fine you if you don't have these.
+
 ### Land Border Delays
 
 Land borders often have significant queues and delays,
@@ -1205,39 +1238,6 @@ These are relatively very expensive in my experience so I avoid them.
 - [TempCover](https://motor.tempcover.com/) - expensive, quoted me £273 for just 28 days
 - [DayInsure](https://www.dayinsure.com/)
 
-### Driving Checklist
-
-Police may refuse you entry or blackmail you out of money if you don't have all of the following documents:
-
-- Passport:
-  - South African police laid a trap pulling over foreigners coming out of
-    [Sandton](#sandton) - primarily a rich foreigner area.
-    My guess is they were targeting rental cars in an attempt to extort fines / bribes from foreigners not carrying
-    their passports and even document imaginable including driving license and international driver's permit.
-    <!-- TODO: medium story this full exchange -->
-- UK driver's license
-- International driver's permit (get this from the Post Office it's only around £5 but requires a passport photo)
-- Insurance certificate
-  - check it covers the specific country, see note above that non-EU countries are often not covered
-- Vehicle Registration V5C paper proof of ownership
-  - [Serbian](#serbia) police refused to accept digital proof of ownership via insurance certificate
-  - they insisted on physical original paper copy
-  - they said it was the equivalent to *"Passport for the car"*
-
-### Additional EU Driving Checklist
-
-Driving in the EU additionally requires:
-
-- breakdown kit (AA does one), including:
-  - high viz jacket (which must be available in the passenger compartment
-  - breakdown triangle
-  - headlamp converters
-
-Headlamp converters are basically headlamp stickers that change the glare direction of your headlamps to shine the other
-way because you drive on the right in Europe instead of the left like in the UK.
-
-Apparently the French police are likely to pull you over and fine you if you don't have these.
-
 ### EU Motorway Tolls
 
 Socialist Europeans find extra ways to tax you
@@ -1282,6 +1282,9 @@ In the Parkopedia app, once you've selected the car park you can, share it to Wa
 
 Do not use Waze to get to the city and then try to find parking, that's more difficult, and Waze will often send you to
 some random part of a city, which has little there.
+
+In more recent times I ask ChatGPT for free parking locations ahead of time and then bookmark them on Google Maps and
+then share that to Waze for the driving route as Waze is far better than Google Maps for driving directions.
 
 ## Travel Days Planning
 
