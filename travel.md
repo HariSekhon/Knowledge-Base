@@ -97,7 +97,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Do Not Even Jaywalk](#do-not-even-jaywalk)
 - [Driving](#driving)
   - [Driving Checklist](#driving-checklist)
-  - [Additional EU Driving Checklist](#additional-eu-driving-checklist)
+    - [Additional EU Driving Checklist](#additional-eu-driving-checklist)
   - [EU Motorway Tolls](#eu-motorway-tolls)
   - [Do Not Speed](#do-not-speed)
   - [Parking](#parking)
@@ -1163,7 +1163,7 @@ Police may refuse you entry or blackmail you out of money if you don't have all 
   - they insisted on physical original paper copy
   - they said it was the equivalent to *"Passport for the car"*
 
-### Additional EU Driving Checklist
+#### Additional EU Driving Checklist
 
 Driving in the EU additionally requires:
 
