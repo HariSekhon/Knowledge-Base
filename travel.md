@@ -98,14 +98,14 @@ Updated regularly as I travel the world 52 weeks a year.
 - [Driving](#driving)
   - [Driving Checklist](#driving-checklist)
   - [Additional EU Driving Checklist](#additional-eu-driving-checklist)
+  - [EU Motorway Tolls](#eu-motorway-tolls)
+  - [Do Not Speed](#do-not-speed)
+  - [Parking](#parking)
   - [Land Border Delays](#land-border-delays)
   - [Ferries](#ferries)
   - [Car Insurance](#car-insurance)
   - [International Driving Insurance](#international-driving-insurance)
     - [Temporary Car Insurance Cover](#temporary-car-insurance-cover)
-  - [EU Motorway Tolls](#eu-motorway-tolls)
-  - [Do Not Speed](#do-not-speed)
-  - [Parking](#parking)
 - [Travel Days Planning](#travel-days-planning)
   - [Spreadsheet to Auto-Recalculate Dates](#spreadsheet-to-auto-recalculate-dates)
   - [Digital Nomadding](#digital-nomadding)
@@ -1177,6 +1177,54 @@ way because you drive on the right in Europe instead of the left like in the UK.
 
 Apparently the French police are likely to pull you over and fine you if you don't have these.
 
+### EU Motorway Tolls
+
+Socialist Europeans find extra ways to tax you
+and you need to buy motorway passes when driving in several European countries or face fines.
+
+There are automated cameras so you are likely to get hit with fines if you don't buy one of these in advance.
+
+See here for some details of which countries and prices.
+
+<https://www.autoeurope.com/travel-tips/vignette-stickers/>
+
+Specific countries purchase apps and websites are listed under each country.
+
+### Do Not Speed
+
+Do not speed, you only need to go a meagre 50kmh above the speed limit and the [Latvian](#latvia) police will revoke
+your license.
+
+This is easy to do in towns which are set to only 50kmph speed limits whether they explicitly declare it or not.
+
+If you see a car pushing into the back of you, do not speed up.
+
+It may be a police car that will only put on its siren after you've increased speed to breach the +50kmph maximum
+penalty of €360 euros and a revoked license.
+
+The extended time pulled over by the police not knowing if they are going to arrest you and impound your vehicle on top
+of revoking your license will set you back a lot more time than any speed up would give you.
+
+It's quite possible they do this on purpose 15 minutes from the Estonia border to catch unsuspecting foreigners driving
+between the countries.
+
+Let cars overtake you than fall for this unmarked police car entrapment.
+
+### Parking
+
+Use [Parkopedia](https://www.parkopedia.com/) to find parking and see its pricing up front to not get ripped off.
+Occasionally the parking might be slightly more expensive than Parkopedia's latest knowledge.
+
+There are apps for Parkopedia for iPhone and Android.
+
+In the Parkopedia app, once you've selected the car park you can, share it to Waze to plan the journey there.
+
+Do not use Waze to get to the city and then try to find parking, that's more difficult, and Waze will often send you to
+some random part of a city, which has little there.
+
+In more recent times I ask ChatGPT for free parking locations ahead of time and then bookmark them on Google Maps and
+then share that to Waze for the driving route as Waze is far better than Google Maps for driving directions.
+
 ### Land Border Delays
 
 Land borders often have significant queues and delays,
@@ -1237,54 +1285,6 @@ These are relatively very expensive in my experience so I avoid them.
   3 hours!
 - [TempCover](https://motor.tempcover.com/) - expensive, quoted me £273 for just 28 days
 - [DayInsure](https://www.dayinsure.com/)
-
-### EU Motorway Tolls
-
-Socialist Europeans find extra ways to tax you
-and you need to buy motorway passes when driving in several European countries or face fines.
-
-There are automated cameras so you are likely to get hit with fines if you don't buy one of these in advance.
-
-See here for some details of which countries and prices.
-
-<https://www.autoeurope.com/travel-tips/vignette-stickers/>
-
-Specific countries purchase apps and websites are listed under each country.
-
-### Do Not Speed
-
-Do not speed, you only need to go a meagre 50kmh above the speed limit and the [Latvian](#latvia) police will revoke
-your license.
-
-This is easy to do in towns which are set to only 50kmph speed limits whether they explicitly declare it or not.
-
-If you see a car pushing into the back of you, do not speed up.
-
-It may be a police car that will only put on its siren after you've increased speed to breach the +50kmph maximum
-penalty of €360 euros and a revoked license.
-
-The extended time pulled over by the police not knowing if they are going to arrest you and impound your vehicle on top
-of revoking your license will set you back a lot more time than any speed up would give you.
-
-It's quite possible they do this on purpose 15 minutes from the Estonia border to catch unsuspecting foreigners driving
-between the countries.
-
-Let cars overtake you than fall for this unmarked police car entrapment.
-
-### Parking
-
-Use [Parkopedia](https://www.parkopedia.com/) to find parking and see its pricing up front to not get ripped off.
-Occasionally the parking might be slightly more expensive than Parkopedia's latest knowledge.
-
-There are apps for Parkopedia for iPhone and Android.
-
-In the Parkopedia app, once you've selected the car park you can, share it to Waze to plan the journey there.
-
-Do not use Waze to get to the city and then try to find parking, that's more difficult, and Waze will often send you to
-some random part of a city, which has little there.
-
-In more recent times I ask ChatGPT for free parking locations ahead of time and then bookmark them on Google Maps and
-then share that to Waze for the driving route as Waze is far better than Google Maps for driving directions.
 
 ## Travel Days Planning
 
