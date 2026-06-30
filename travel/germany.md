@@ -261,8 +261,8 @@ Now I see why.
   (which are bad for your health!).
   I also couldn't get into the kitchen either time I tried,
   the first time it was locked in the afternoon and my card didn't open it and the second time a woman kicked me out.
-  Free street parking outside the hostel
-  (only on the right side when facing the hostel, the left side has that X sign meaning tow zone).
+  Checkout time is too early at 10:00 and there are no lockers in the rooms.
+  Free street parking outside the hostel (check the signs as some parts are tow zones).
   Wifi 10/9 Mbit/s
 - [The Tent](https://maps.app.goo.gl/yudHxXsSLEvjx2ZM6) - cheap but very low quality - do not stay here.
   The name is not a metaphor,
