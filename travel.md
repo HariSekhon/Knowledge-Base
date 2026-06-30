@@ -660,7 +660,7 @@ to consider avoiding or minimizing time in places with high tourist taxes by che
 
 #### Tourist Tax Hall of Shame
 
-[Barcelona](travel/spain.md#barcelona)'s tourist taxes were high at nearly €7 extra per night when I stayed, which prompted me to generate this
+[Barcelona](travel/spain.md#barcelona)'s tourist taxes were high at €7 extra per night when I stayed, which prompted me to generate this
 section.
 
 Here is a table of the 50 worst tourist taxed cities in the world,
