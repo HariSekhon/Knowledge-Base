@@ -261,7 +261,8 @@ Now I see why.
   (which are bad for your health!).
   I also couldn't get into the kitchen either time I tried,
   the first time it was locked in the afternoon and my card didn't open it and the second time a woman kicked me out.
-  Checkout time is too early at 10:00 and there are no lockers in the rooms.
+  Checkout time is too early at 10:00 and there are no lockers in the rooms as they have a few for €6 per day near
+  reception, which is a terrible idea.
   Free street parking outside the hostel (check the signs as some parts are tow zones).
   Wifi 10/9 Mbit/s
 - [The Tent](https://maps.app.goo.gl/yudHxXsSLEvjx2ZM6) - cheap but very low quality - do not stay here.
