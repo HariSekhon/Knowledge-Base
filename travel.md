@@ -1138,6 +1138,8 @@ explicitly or not.
 
 This is a local knowledge that will get you done and your license revoked if you hit 100km/h.
 
+You don't realize what big countries France, Spain, Germany and Poland are until you've driven across them!
+
 ### Land Border Delays
 
 Land borders often have significant queues and delays,
