@@ -1210,6 +1210,9 @@ between the countries.
 
 Let cars overtake you than fall for this unmarked police car entrapment.
 
+Always use Waze to ensure you know when the speed limit changes when there are no explicit speed signs,
+as well as when there are speed cameras in case you've drifted a few kmph over the limit.
+
 ### Parking
 
 Use [Parkopedia](https://www.parkopedia.com/) to find parking and see its pricing up front to not get ripped off.
