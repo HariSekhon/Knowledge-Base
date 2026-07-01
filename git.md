@@ -718,6 +718,9 @@ to overwrite the upstream repo history on all branches and tags.
 
 You may need to temporarily remove your branch protections.
 
+**WARNING: Always take a Full Backup of your working copy checkout before doing any of these destructive changes to
+avoid data / code loss in case it goes wrong and you need to try again**
+
 #### Git Filter-Repo Replace Text in Commit History
 
 Useful to remove tokens accidentally committed.
@@ -730,8 +733,6 @@ invalidated for safety.
 See [git_filter_repo_replace_text.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/git/git_filter_repo_replace_text.sh)
 
 #### Git Filter-Repo Remove File(s) from Commit History
-
-**WARNING: First take a full backup of your working copy checkout**
 
 Remove all the paths specified in the text file:
 
@@ -748,8 +749,6 @@ to see what files are in the git history that you might want to remove.
 
 Can also be used to remove reference to client names in public projects.
 
-**WARNING: First take a full backup of your working copy checkout**
-
 Clone [DevOps-Bash-tools](devops-bash-tools.md), then run the script in there:
 
 ```shell
@@ -759,8 +758,6 @@ bash-tools/git/git_filter_repo_replace_text.sh --help  # for details
 #### Erase a Specific Git Commit from Git History
 
 **WARNING: do this in a clean checkout as you may lose staged or uncommitted changes otherwise**
-
-**WARNING: First take a full backup of your working copy checkout**
 
 Find the commit short hash from your `git log` command (hint: use `--all -p` to search all content).
 
