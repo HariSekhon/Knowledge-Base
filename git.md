@@ -40,10 +40,11 @@
   - [Convert GitHub.com links to Raw GitHub URL links](#convert-githubcom-links-to-raw-github-url-links)
   - [Git Filter-Repo](#git-filter-repo)
   - [Git Filter-Repo Analyze](#git-filter-repo-analyze)
-  - [Git Filter-Repo Replace Text in Commit History](#git-filter-repo-replace-text-in-commit-history)
-  - [Git Filter-Repo Remove File(s) from Commit History](#git-filter-repo-remove-files-from-commit-history)
-  - [Erase Leaked Credential in Git History](#erase-leaked-credential-in-git-history)
-  - [Erase a Specific Git Commit from Git History](#erase-a-specific-git-commit-from-git-history)
+  - [Removing Sensitive Data in Git History](#removing-sensitive-data-in-git-history)
+    - [Git Filter-Repo Replace Text in Commit History](#git-filter-repo-replace-text-in-commit-history)
+    - [Git Filter-Repo Remove File(s) from Commit History](#git-filter-repo-remove-files-from-commit-history)
+    - [Erase Leaked Credential in Git History](#erase-leaked-credential-in-git-history)
+    - [Erase a Specific Git Commit from Git History](#erase-a-specific-git-commit-from-git-history)
   - [Merge a branch from another repo into the current repo](#merge-a-branch-from-another-repo-into-the-current-repo)
   - [Reset and Re-download Git Submodule](#reset-and-re-download-git-submodule)
   - [Find which upstream `<remote>/<branch>` the current branch is set to track](#find-which-upstream-remotebranch-the-current-branch-is-set-to-track)
@@ -704,7 +705,20 @@ git filter-repo --analyze
 less .git/filter-repo/analysis/*
 ```
 
-### Git Filter-Repo Replace Text in Commit History
+### Removing Sensitive Data in Git History
+
+The below sections cover removing different levels of information:
+
+- Text String(s)
+- File(s)
+- Commit(s)
+
+After you have done one of these destruction history re-writing activities you will need to `git push --force --mirror`
+to overwrite the upstream repo history on all branches and tags.
+
+You may need to temporarily remove your branch protections.
+
+#### Git Filter-Repo Replace Text in Commit History
 
 Useful to remove tokens accidentally committed.
 
@@ -715,7 +729,7 @@ invalidated for safety.
 
 See [git_filter_repo_replace_text.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/git/git_filter_repo_replace_text.sh)
 
-### Git Filter-Repo Remove File(s) from Commit History
+#### Git Filter-Repo Remove File(s) from Commit History
 
 **WARNING: First take a full backup of your working copy checkout**
 
@@ -730,11 +744,7 @@ git filter-repo --invert-paths --paths-from-file paths_to_remove.txt  # --force
 See [git_files_in_history.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/git/git_filter_repo_replace_text.sh)
 to see what files are in the git history that you might want to remove.
 
-You will need to `git push --force --mirror` to overwrite the upstream repo history on all branches and tags.
-
-You may need to temporarily remove your branch protections.
-
-### Erase Leaked Credential in Git History
+#### Erase Leaked Credential in Git History
 
 Can also be used to remove reference to client names in public projects.
 
@@ -746,11 +756,7 @@ Clone [DevOps-Bash-tools](devops-bash-tools.md), then run the script in there:
 bash-tools/git/git_filter_repo_replace_text.sh --help  # for details
 ```
 
-You will need to `git push --force --mirror` to overwrite the upstream repo history on all branches and tags.
-
-You may need to temporarily remove your branch protections.
-
-### Erase a Specific Git Commit from Git History
+#### Erase a Specific Git Commit from Git History
 
 **WARNING: do this in a clean checkout as you may lose staged or uncommitted changes otherwise**
 
@@ -774,10 +780,6 @@ Replace the COMMIT_HASH with the right one.
 Notice the `^` at the end of the commit hash which means start from the hash before it.
 The commit will be the first in the list, delete that line,
 save and exit and let the rebase run through the remaining commits.
-
-You will need to `git push --force --mirror` to overwrite the upstream repo history on all branches and tags.
-
-You may need to temporarily remove your branch protections.
 
 ### Merge a branch from another repo into the current repo
 
