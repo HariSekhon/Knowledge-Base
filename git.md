@@ -719,10 +719,22 @@ avoid data / code loss in case it goes wrong and you need to try again**
 cp -avi "GIT_CHECKOUT_DIR" "GIT_CHECKOUT_DIR--$(date '+%F_%H%M%S')"
 ```
 
-After you have done one of these destruction history re-writing activities you will need to `git push --force --mirror`
+If you have already pushed upstream then after you have done one of these destruction history re-writing activities you
+will need to
+
+```shell
+git push --force --mirror
+```
+
 to overwrite the upstream repo history on all branches and tags.
 
 You may need to temporarily remove your branch protections.
+
+If you've pushed to GitHub, see these pages on further actions to clean up dangling references:
+
+<https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository>
+
+<https://docs.github.com/en/site-policy/content-removal-policies/github-private-information-removal-policy>
 
 #### Replace Text in Git History
 
