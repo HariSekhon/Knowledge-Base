@@ -41,10 +41,9 @@
   - [Git Filter-Repo](#git-filter-repo)
   - [Git Filter-Repo Analyze](#git-filter-repo-analyze)
   - [Removing Sensitive Data in Git History](#removing-sensitive-data-in-git-history)
-    - [Git Filter-Repo Replace Text in Git History](#git-filter-repo-replace-text-in-git-history)
-    - [Git Filter-Repo Remove File(s) from Git History](#git-filter-repo-remove-files-from-git-history)
-    - [Erase Leaked Credential from Git History](#erase-leaked-credential-from-git-history)
-    - [Erase a Specific Git Commit from Git History](#erase-a-specific-git-commit-from-git-history)
+    - [Replace Text in Git History](#replace-text-in-git-history)
+    - [Erase File from Git History](#erase-file-from-git-history)
+    - [Erase Commit from Git History](#erase-commit-from-git-history)
   - [Merge a branch from another repo into the current repo](#merge-a-branch-from-another-repo-into-the-current-repo)
   - [Reset and Re-download Git Submodule](#reset-and-re-download-git-submodule)
   - [Find which upstream `<remote>/<branch>` the current branch is set to track](#find-which-upstream-remotebranch-the-current-branch-is-set-to-track)
@@ -725,18 +724,23 @@ to overwrite the upstream repo history on all branches and tags.
 
 You may need to temporarily remove your branch protections.
 
-#### Git Filter-Repo Replace Text in Git History
+#### Replace Text in Git History
 
-Useful to remove tokens accidentally committed.
+Useful to remove strings that have accidentally been committed.
 
-It's too late if the commits with the token have been pushed as the upstream repo could have been cloned after push so
-you can't get it back. If nobody has cloned you can force push to wipe it from the upstream history but you can't
-guarantee that the repo wasn't pulled/cloned and that the token isn't compromised so it should be rotated and
-invalidated for safety.
+Can be used to remove access tokens or references to private project or client names in public projects.
+
+**WARNING: if a Password or Access Token has been pushed upstream it must be considered compromised and rotated**
 
 See [git_filter_repo_replace_text.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/git/git_filter_repo_replace_text.sh)
 
-#### Git Filter-Repo Remove File(s) from Git History
+Clone [DevOps-Bash-tools](devops-bash-tools.md), then run the script in there:
+
+```shell
+bash-tools/git/git_filter_repo_replace_text.sh --help  # for details
+```
+
+#### Erase File from Git History
 
 Remove all the paths specified in the text file:
 
@@ -749,17 +753,7 @@ git filter-repo --invert-paths --paths-from-file paths_to_remove.txt  # --force
 See [git_files_in_history.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/git/git_filter_repo_replace_text.sh)
 to see what files are in the git history that you might want to remove.
 
-#### Erase Leaked Credential from Git History
-
-Can also be used to remove reference to client names in public projects.
-
-Clone [DevOps-Bash-tools](devops-bash-tools.md), then run the script in there:
-
-```shell
-bash-tools/git/git_filter_repo_replace_text.sh --help  # for details
-```
-
-#### Erase a Specific Git Commit from Git History
+#### Erase Commit from Git History
 
 **WARNING: do this in a clean checkout as you may lose staged or uncommitted changes otherwise**
 
