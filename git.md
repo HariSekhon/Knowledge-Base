@@ -708,9 +708,9 @@ less .git/filter-repo/analysis/*
 
 The below sections cover removing different levels of information:
 
-- Text String(s)
-- File(s)
-- Commit(s)
+- [Text String(s)](#replace-text-in-git-history)
+- [File(s)](#erase-file-from-git-history)
+- [Commit(s)](#erase-commit-from-git-history)
 
 **WARNING: Always take a Full Backup of your working copy checkout before doing any of these destructive changes to
 avoid data / code loss in case it goes wrong and you need to try again**
