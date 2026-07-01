@@ -192,7 +192,7 @@ longer if you're stopping for coffee, shopping, dining, or attending the cats mu
 - [Kotor Old Town](https://maps.app.goo.gl/axtUTEmtTkYGy6to9) - in the fortress
 - [Mon Bistro Cafétéria](https://maps.app.goo.gl/Q1Ao3cANc49JrsEh8) - nice coffee hop with outdoor seating with fans.
   They had cakes, including a pistachio cake of the day.
-  The yoghurt, berry, granola cup with sachet of honey for €5 which was a yummy snack
+  The yoghurt, berry, granola cup with sachet of honey for €5 was a yummy snack
 - [Shopping Centre Kamelija](https://maps.app.goo.gl/gxVeouPK3PoNL13y5) - a small shopping centre with reasonably priced
   parking at €2 an hour, if you can get a space.
   The toilets in this mall even charge you €1 if you don't have a shopping receipt,
