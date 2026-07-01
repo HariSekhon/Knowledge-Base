@@ -732,6 +732,8 @@ to see what files are in the git history that you might want to remove.
 
 You will need to `git push --force --mirror` to overwrite the upstream repo history on all branches and tags.
 
+You may need to temporarily remove your branch protections.
+
 ### Erase Leaked Credential in Git History
 
 Can also be used to remove reference to client names in public projects.
@@ -745,6 +747,8 @@ bash-tools/git/git_filter_repo_replace_text.sh --help  # for details
 ```
 
 You will need to `git push --force --mirror` to overwrite the upstream repo history on all branches and tags.
+
+You may need to temporarily remove your branch protections.
 
 ### Erase a Specific Git Commit from Git History
 
@@ -772,6 +776,8 @@ The commit will be the first in the list, delete that line,
 save and exit and let the rebase run through the remaining commits.
 
 You will need to `git push --force --mirror` to overwrite the upstream repo history on all branches and tags.
+
+You may need to temporarily remove your branch protections.
 
 ### Merge a branch from another repo into the current repo
 
