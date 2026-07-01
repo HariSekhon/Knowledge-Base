@@ -196,7 +196,7 @@ longer if you're stopping for coffee, shopping, dining, or attending the cats mu
 - [Shopping Centre Kamelija](https://maps.app.goo.gl/gxVeouPK3PoNL13y5) - a small shopping centre with reasonably priced
   parking at €2 an hour, if you can get a space.
   The toilets in this mall even charge you €1 if you don't have a shopping receipt,
-  so go buy a drink or something in the supermarket first to use its receipt to enter the toilets for free.
+  so go buy a drink or something in the supermarket first to use its receipt to enter the toilets for free
 - [Kotor Cats Museum](https://maps.app.goo.gl/sRLyBjuAPeBADQyw5)
 
 ## Bar
