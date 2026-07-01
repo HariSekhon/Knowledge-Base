@@ -713,13 +713,17 @@ The below sections cover removing different levels of information:
 - File(s)
 - Commit(s)
 
+**WARNING: Always take a Full Backup of your working copy checkout before doing any of these destructive changes to
+avoid data / code loss in case it goes wrong and you need to try again**
+
+```shell
+cp -avi "GIT_CHECKOUT_DIR" "GIT_CHECKOUT_DIR-$(date '+%F_%H%M%S')"
+```
+
 After you have done one of these destruction history re-writing activities you will need to `git push --force --mirror`
 to overwrite the upstream repo history on all branches and tags.
 
 You may need to temporarily remove your branch protections.
-
-**WARNING: Always take a Full Backup of your working copy checkout before doing any of these destructive changes to
-avoid data / code loss in case it goes wrong and you need to try again**
 
 #### Git Filter-Repo Replace Text in Commit History
 
