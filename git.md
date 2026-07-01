@@ -763,6 +763,9 @@ Then run an interactive `git rebase` command to delete that specific commit line
 that opens in your `$EDITOR` before saving it to let the rebase run through the rest of the git commits excluding that
 one from being saved in the history.
 
+You must use a terminal interactive blocking editor such as vim, rather than an IDE such as IntelliJ which may return
+from the command invocation immediately - because the rebase runs as soon as the editor command returns.
+
 ```shell
 export EDITOR=vim
 ```
