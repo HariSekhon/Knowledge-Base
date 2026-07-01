@@ -755,7 +755,7 @@ to see what files are in the git history that you might want to remove.
 
 #### Erase Commit from Git History
 
-**WARNING: do this in a clean checkout as you may lose staged or uncommitted changes otherwise**
+**WARNING: do this in a clean checkout as you will likely lose staged or uncommitted changes otherwise**
 
 Find the commit short hash from your `git log` command (hint: use `--all -p` to search all content).
 
