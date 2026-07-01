@@ -41,9 +41,9 @@
   - [Git Filter-Repo](#git-filter-repo)
   - [Git Filter-Repo Analyze](#git-filter-repo-analyze)
   - [Removing Sensitive Data in Git History](#removing-sensitive-data-in-git-history)
-    - [Git Filter-Repo Replace Text in Commit History](#git-filter-repo-replace-text-in-commit-history)
-    - [Git Filter-Repo Remove File(s) from Commit History](#git-filter-repo-remove-files-from-commit-history)
-    - [Erase Leaked Credential in Git History](#erase-leaked-credential-in-git-history)
+    - [Git Filter-Repo Replace Text in Git History](#git-filter-repo-replace-text-in-git-history)
+    - [Git Filter-Repo Remove File(s) from Git History](#git-filter-repo-remove-files-from-git-history)
+    - [Erase Leaked Credential from Git History](#erase-leaked-credential-from-git-history)
     - [Erase a Specific Git Commit from Git History](#erase-a-specific-git-commit-from-git-history)
   - [Merge a branch from another repo into the current repo](#merge-a-branch-from-another-repo-into-the-current-repo)
   - [Reset and Re-download Git Submodule](#reset-and-re-download-git-submodule)
@@ -725,7 +725,7 @@ to overwrite the upstream repo history on all branches and tags.
 
 You may need to temporarily remove your branch protections.
 
-#### Git Filter-Repo Replace Text in Commit History
+#### Git Filter-Repo Replace Text in Git History
 
 Useful to remove tokens accidentally committed.
 
@@ -736,7 +736,7 @@ invalidated for safety.
 
 See [git_filter_repo_replace_text.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/git/git_filter_repo_replace_text.sh)
 
-#### Git Filter-Repo Remove File(s) from Commit History
+#### Git Filter-Repo Remove File(s) from Git History
 
 Remove all the paths specified in the text file:
 
@@ -749,7 +749,7 @@ git filter-repo --invert-paths --paths-from-file paths_to_remove.txt  # --force
 See [git_files_in_history.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/git/git_filter_repo_replace_text.sh)
 to see what files are in the git history that you might want to remove.
 
-#### Erase Leaked Credential in Git History
+#### Erase Leaked Credential from Git History
 
 Can also be used to remove reference to client names in public projects.
 
