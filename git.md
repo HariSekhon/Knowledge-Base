@@ -728,7 +728,7 @@ You may need to temporarily remove your branch protections.
 
 Useful to remove strings that have accidentally been committed.
 
-Can be used to remove access tokens or references to private project or client names in public projects.
+Can be used to remove passwords, access tokens or references to private project or client names in public projects.
 
 **WARNING: if a Password or Access Token has been pushed upstream it must be considered compromised and rotated**
 
