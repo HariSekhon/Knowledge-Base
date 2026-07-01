@@ -717,7 +717,7 @@ The below sections cover removing different levels of information:
 avoid data / code loss in case it goes wrong and you need to try again**
 
 ```shell
-cp -avi "GIT_CHECKOUT_DIR" "GIT_CHECKOUT_DIR-$(date '+%F_%H%M%S')"
+cp -avi "GIT_CHECKOUT_DIR" "GIT_CHECKOUT_DIR--$(date '+%F_%H%M%S')"
 ```
 
 After you have done one of these destruction history re-writing activities you will need to `git push --force --mirror`
