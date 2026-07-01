@@ -730,7 +730,7 @@ git filter-repo --invert-paths --paths-from-file paths_to_remove.txt  # --force
 See [git_files_in_history.sh](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/git/git_filter_repo_replace_text.sh)
 to see what files are in the git history that you might want to remove.
 
-You will need to git force push to overwrite the upstream repo history.
+You will need to `git push --force --mirror` to overwrite the upstream repo history on all branches and tags.
 
 ### Erase Leaked Credential in Git History
 
@@ -744,7 +744,7 @@ Clone [DevOps-Bash-tools](devops-bash-tools.md), then run the script in there:
 bash-tools/git/git_filter_repo_replace_text.sh --help  # for details
 ```
 
-You will need to git force push to overwrite the upstream repo history.
+You will need to `git push --force --mirror` to overwrite the upstream repo history on all branches and tags.
 
 ### Erase a Specific Git Commit from Git History
 
@@ -771,7 +771,7 @@ Notice the `^` at the end of the commit hash which means start from the hash bef
 The commit will be the first in the list, delete that line,
 save and exit and let the rebase run through the remaining commits.
 
-You will need to git force push to overwrite the upstream repo history.
+You will need to `git push --force --mirror` to overwrite the upstream repo history on all branches and tags.
 
 ### Merge a branch from another repo into the current repo
 
