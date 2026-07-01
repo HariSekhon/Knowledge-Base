@@ -726,9 +726,8 @@ You may need to temporarily remove your branch protections.
 
 #### Replace Text in Git History
 
-Useful to remove strings that have accidentally been committed.
-
-Can be used to remove passwords, access tokens or references to private project or client names in public projects.
+Useful to remove sensitive strings that have accidentally been committed, such as
+passwords, access tokens or references to private project or client names in public projects.
 
 **WARNING: if a Password or Access Token has been pushed upstream it must be considered compromised and rotated**
 
