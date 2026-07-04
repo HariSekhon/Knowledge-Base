@@ -26,7 +26,7 @@ Deprecated in favour of API Tokens.
 
 ## API Tokens
 
-Create an API token here:
+Create an API token here with the Bitbucket scope and ensure you tick all the Read and Write permissions:
 
 <https://id.atlassian.com/manage-profile/security/api-tokens>
 
@@ -112,6 +112,13 @@ Output:
 ```
 
 This is the problem, it's still using the osxkeychain with an old credential instead of the credential helper.
+
+If the osxkeychain credential is the old then you should probably open KeyChain Access,
+search for `bitbucket` and remove it:
+
+```shell
+open -a 'Keychain Access'
+```
 
 The trace shows that the credential helper doesn't call the function unless you put the username in the URL,
 even though the credential helper URL doesn't contain the username as a specific requirement match.
