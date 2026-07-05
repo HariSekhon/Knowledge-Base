@@ -10,7 +10,7 @@
   - [Parking in Prague](#parking-in-prague)
   - [Best Areas to Stay in Prague](#best-areas-to-stay-in-prague)
   - [Attractions in Prague](#attractions-in-prague)
-  - [Clubs](#clubs)
+  - [Clubs in Prague](#clubs-in-prague)
   - [Restaurants in Prague](#restaurants-in-prague)
     - [Cafes and Brunch Restaurants in Prague](#cafes-and-brunch-restaurants-in-prague)
     - [Treats - Acai, Ice Cream, Pancakes, Dumplings](#treats---acai-ice-cream-pancakes-dumplings)
