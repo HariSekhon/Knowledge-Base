@@ -314,6 +314,13 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 
 - [POCHA Original Korean Restaurant](https://maps.app.goo.gl/XuLZ7hoUfTaFrE8y8) - Korean - the bulgogi beef with glass noodles and yuzi tea were both great.
   Has wifi
+- [Chilli & Lime Vinohrady](https://maps.app.goo.gl/vhtCRz35auxNizek6) - the chilli lime chicken is one of their
+  signature dishes which was very filling, and the vegetable fried rice goes well with it to balance it out as the
+  chicken dish is entirely sweet chill fried chicken pieces.
+  The Strawberry Passionfruit Lemonade was good.
+  Busy at 8pm on a Wednesday, all tables in the front section were full and half in the rear section too.
+  Last orders 9:15pm.
+  WiFi was broken
 - [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
   the food!
   The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
