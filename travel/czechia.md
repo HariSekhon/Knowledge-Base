@@ -147,13 +147,13 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
     - [Riegrovy Sady View](https://maps.app.goo.gl/Bxzu6wPMyfJUsFzU9)
     - [Energy Pub Riegrovy sady](https://maps.app.goo.gl/FKXZ6MxzQz68QjKVA)
     - [Fitness park RVL 13](https://maps.app.goo.gl/9WbMSDZuGjdvTGzQ7) - calisthenics street workout bars
-- North of the Centre:
+- North of the Centre across the river (Prague 7 zone):
   - [Letenske sady](https://maps.app.goo.gl/HkYfBTYggsFbou8R8) - big park just north of the river, where people walk
     their dogs with pubs dotted around it which are dog friendly
     - [Letna Pond](https://maps.app.goo.gl/VjUzXf1HGER5mps66)
     - [Letna Park](https://maps.app.goo.gl/iLvHHGyjmwxG3FXp7) - another nice park with a view, and the fancy beer garden
       in the restaurants list below
-- West of the Centre:
+- West of the Centre across the river (Prague 5 zone):
   - [Petrin Hill](https://maps.app.goo.gl/ZD2cghtFSG3AcEF68) - park
   - [Klášter Svatého Gabriela](https://maps.app.goo.gl/dQGt2e7wtujevk1x6)
 - [Venkovní posilovna Vinohrady](https://maps.app.goo.gl/wuQgGZdmyALsGRhw9) - calisthenics street workout bars
