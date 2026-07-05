@@ -326,6 +326,8 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
   The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
   and comes with a piece of bread and a really good salad with pink pickles.
   Get a side of truffles potatoes to make the plate complete. Wifi 56/25 Mbit/s
+- [Bulka Burger Bar](https://maps.app.goo.gl/jxBLf57ya3nATjRh9) - a bit further out but worth it - good menu and
+  reasonable prices. Fast WiFi 304/60 Mbit/s
 - [Burger Empire Prague](https://maps.app.goo.gl/72VYp7zsvr3nm7T59) - burger was decent and came quickly.
   The fries were even better - perfectly crispy fried in beef tallow - probably the best fries I remember having -
   I just wish there were more of them than the little basket - and the bbq sauce for dipping was really good too.
