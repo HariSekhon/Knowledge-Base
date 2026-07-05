@@ -10,6 +10,7 @@
   - [Parking in Prague](#parking-in-prague)
   - [Best Areas to Stay in Prague](#best-areas-to-stay-in-prague)
   - [Attractions in Prague](#attractions-in-prague)
+  - [Clubs](#clubs)
   - [Restaurants in Prague](#restaurants-in-prague)
     - [Cafes and Brunch Restaurants in Prague](#cafes-and-brunch-restaurants-in-prague)
     - [Treats - Acai, Ice Cream, Pancakes, Dumplings](#treats---acai-ice-cream-pancakes-dumplings)
@@ -173,6 +174,15 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
   - [Tesco](https://maps.app.goo.gl/WAh6zdqqkRW9Ur3u6) - big Tesco in the mall with lots of variety
   - [Marks and Spencer](https://maps.app.goo.gl/C7Qgguk9cE9SuBcu6) - if you're missing those British snacks
 - [OC Flora](https://maps.app.goo.gl/pSYofvedMyMSEe5i9) - mall
+
+### Clubs
+
+Prague clubs are often sausage fests with heavy ratios of foreign guys, nice czech girls I've known don't go to places
+like these, but if you really want to try...
+
+- [Duplex](https://maps.app.goo.gl/LfFDSqHE1zFsRPJL7) - on the main Wenceslas Square
+- [Goldfingers](https://maps.app.goo.gl/s8nZjfCb8o2F52kQ8)
+- [OX Club Prague](https://maps.app.goo.gl/MnSwfaM1aD3gas3QA) - near the Church in Prague 2
 
 ### Restaurants in Prague
 
@@ -479,8 +489,8 @@ If you want a more authentic experience at a bit lower prices often you have to 
 
 #### TODO Restaurants in Prague
 
-- [Želva beers & burgers](https://maps.app.goo.gl/HxfPQYWvv2U2G9Xr6) - 4.7 good burger menu with fair prices, but far out in Prague 3 in the north east
 - [Czech Slovak Restaurant](https://maps.app.goo.gl/BMN5LdEpWdruvXtbA) - 4.7, fancy modern Czech in Prague 5
+- [Želva beers & burgers](https://maps.app.goo.gl/HxfPQYWvv2U2G9Xr6) - 4.7 good burger menu with fair prices, but far out in Prague 3 in the north east
 - [Fatfuck Smashed Burgers Vinohradská](https://maps.app.goo.gl/k3RcDipr82jUpMV26) - 4.7
 - [Pivnice u Járy](https://maps.app.goo.gl/Nhqt5t1XS4k3Z2VQ6) - 4.7 traditional Czech with reasonable prices
 - [U Rohatejch](https://maps.app.goo.gl/yfRLWM5kyqbmbnDHA) - 4.5 czech
