@@ -394,6 +394,12 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
   The Carlsbad Dumplings are good too (they are like pieces of bread glued together with egg)
   instead of the traditional czech dumplings.
   You need one of the two types of dumplings to mop up all the tasty sauce
+- [Restaurace U Kristiána](https://maps.app.goo.gl/PMuF8Ykaj8sWdvJm7) - basement pub restaurant with traditional Czech
+  food and reasonable prices. The beef goulash came quickly, large pieces of beef and several bread dumplings with red
+  onion.
+  The tartufo classico is basically an ice cream ball covered in chocolate dusting, chocolate ice cream, inner vanilla
+  ice cream, and a gooey chocolate centre.
+  WiFi slow 0.3/0.3 Mbit/s
 - [Beer Restaurant U Černého Medvěda (At the Black Bear)](https://maps.app.goo.gl/DByx8UcajYxx1vB56) - the potato soup
   with mushroom was ok, need to try their goulash
 
