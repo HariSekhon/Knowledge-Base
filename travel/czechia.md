@@ -304,7 +304,8 @@ For those who want coffee, eggs breakfast, granola bowls, acai etc.
 
 If you need a break from so much Czech food - goulash, svickova, duck with cabbage etc.
 
-- [POCHA Original Korean Restaurant](https://maps.app.goo.gl/XuLZ7hoUfTaFrE8y8) - Korean - the bulgogi beef with glass noodles and yuzi tea were both great
+- [POCHA Original Korean Restaurant](https://maps.app.goo.gl/XuLZ7hoUfTaFrE8y8) - Korean - the bulgogi beef with glass noodles and yuzi tea were both great.
+  Has wifi
 - [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
   the food!
   The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
