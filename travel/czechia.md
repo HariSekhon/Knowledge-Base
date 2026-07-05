@@ -454,6 +454,7 @@ If you want a more authentic experience at a bit lower prices often you have to 
 
 #### TODO Restaurants in Prague
 
+- [Czech Slovak Restaurant](https://maps.app.goo.gl/BMN5LdEpWdruvXtbA) - 4.7, Czech in Prague 5
 - [Želva beers & burgers](https://maps.app.goo.gl/HxfPQYWvv2U2G9Xr6) - 4.7
 - [Pivnice u Járy](https://maps.app.goo.gl/Nhqt5t1XS4k3Z2VQ6) - 4.7 czech
 - [Jam and Co.](https://maps.app.goo.gl/rNNJJQRzJm9vcwLb8) - 4.5 japanese
