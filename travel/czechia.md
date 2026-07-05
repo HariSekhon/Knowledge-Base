@@ -513,8 +513,8 @@ If you want a more authentic experience at a bit lower prices often you have to 
 - [Phở 18](https://maps.app.goo.gl/9Fjjr22T7A1bfC2u5) - 4.8 vietnamese
 - [Manifesto Market Anděl](https://maps.app.goo.gl/e3J7wsSWGEatBwGA6) - outdoor food court 1-2 blocks south of the
   Nový Smíchov Shopping Centre with several well rated places to eat:
-  - [LaBuLa Street](https://maps.app.goo.gl/GLfaCXMej3YcvKug9) - 4.7
-  - [NAPOKĒ Anděl](https://maps.app.goo.gl/RkuuCtTRAfnsqUUm7) - 4.5
+  - [LaBuLa Street](https://maps.app.goo.gl/GLfaCXMej3YcvKug9) - 4.7, asian
+  - [NAPOKĒ Anděl](https://maps.app.goo.gl/RkuuCtTRAfnsqUUm7) - 4.5, japanese poke
   - [YAYA's Meat & Seafood (Manifesto Market Anděl)](https://maps.app.goo.gl/c3QtD6R8WTNTR8Rf7) - 4.5, Greek
 - [Černomorka](https://maps.app.goo.gl/5pNvBSrLJc6aECBw6) - 4.6
 - [Boulangerie Le Caveau - Pekárna](https://maps.app.goo.gl/WcK2Daw3UZdrK3Tg6) - 4.7 bakery
