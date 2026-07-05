@@ -371,11 +371,12 @@ A lof these _"traditional"_ czech restaurants in Prague don't even do the tradit
 locals any more, instead focusing on only the typical 3-4 main czech dishes.
 If you want a more authentic experience at a bit lower prices often you have to go further out to less known places.
 
-- [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road in a central area, so less of a tourist
+- [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road just off the main Wenceslas Square, so less of a tourist
   trap, but it was still full, I had to wait for a table.
   The wild boar with mashed potatoes was good, although portion size could have been bigger and the onion jam was a bit
   savoury for my taste.
-  The venison is even better with a slightly sweet red wine sauce (and apparently root vegetables blended into it)
+  The venison is even better with a slightly sweet red wine sauce
+  (apparently root vegetables blended into it rather than whole as I expected)
   and 3 medium sized potato rosti triangles.
   This would be perfect if it was with mash and actual whole root vegetables, as the venison is good quality lean meat.
   The restaurant as a big screen TV on which the football was playing, but they have NO Wifi.
