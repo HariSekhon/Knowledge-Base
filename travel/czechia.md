@@ -499,7 +499,7 @@ If you want a more authentic experience at a bit lower prices often you have to 
 #### TODO Restaurants in Prague
 
 - [Czech Slovak Restaurant](https://maps.app.goo.gl/BMN5LdEpWdruvXtbA) - 4.7, fancy modern Czech in Prague 5, can be
-  expensive
+  expensive, especially for the tasting menus
 - [Želva beers & burgers](https://maps.app.goo.gl/HxfPQYWvv2U2G9Xr6) - 4.7 good burger menu with fair prices,
   but far out in Prague 3 in the north east
 - [Fatfuck Smashed Burgers Vinohradská](https://maps.app.goo.gl/k3RcDipr82jUpMV26) - 4.7
