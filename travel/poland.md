@@ -281,6 +281,7 @@ I was surprised how nice it is, I didn't even think to go here on my first trip 
 - Market Square - one of the largest in Europe with plenty of good restaurants and
   treats
 - Africanarium - dedicated to African animals - sharks, crocodiles, turtles, hippos
+- [Pasaż Grunwaldzki](https://maps.app.goo.gl/mijJVyLMqz3JEPaD8) - mall
 
 #### Parking in Wroclaw
 
