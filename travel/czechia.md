@@ -162,6 +162,7 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
   has charge barriers to use the toilets, which takes card payments!
 - [Westfield Chodov](https://maps.app.goo.gl/AMSPwjZgAaLQFyzq7) - at the end of the metro C line, with the usual international brands and a food court
 - [Nový Smíchov Shopping Centre](https://maps.app.goo.gl/LJXUrMtu9VHEpkTL7)
+  - [Tesco](https://maps.app.goo.gl/WAh6zdqqkRW9Ur3u6) - big Tesco in the mall with lots of variety
   - [Marks and Spencer](https://maps.app.goo.gl/C7Qgguk9cE9SuBcu6) - if you're missing those British snacks
 - [OC Flora](https://maps.app.goo.gl/pSYofvedMyMSEe5i9) - mall
 
