@@ -140,6 +140,7 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
 - [Wenceslas Square](https://maps.app.goo.gl/izDXFMaGtR7WZsNo6) - it's a long town centre rectangle:
   - [National Museum](https://maps.app.goo.gl/ysikGG7qabYtnc4a9)
   - [Statue of Saint Wenceslas](https://maps.app.goo.gl/VZeatBBxkuci1Ksu9)
+  - [Franz Kafka - Rotating Head by David Cerny](https://maps.app.goo.gl/cWKMKcZKVoUsdabVA)
 - South of the Centre:
   - [Vyšehrad fortress](https://maps.app.goo.gl/XXCiS3kpvZsGAALFA)
   - [Dancing House](https://maps.app.goo.gl/oQu2v8nTnryyRTpu7) - unusual landmark building
