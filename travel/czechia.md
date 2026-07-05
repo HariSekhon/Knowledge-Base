@@ -356,7 +356,7 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
   pricier than Červený koŕal above but the portion size was large, you could split a main between two and just get 2 egg
   fried rice. The sechuan chicken wasn't spicy though, they probably figure the locals and Americans can't take chilli
 - [Burrito Loco](https://maps.app.goo.gl/rsNkjggfaRUJU2s68) - good affordable late night burrito chain with good burritos and also tortilla chips with spicy
-  choice of 3 salsas or guacamole.
+  choice of 1 of 3 salsas or guacamole.
   The smaller burrito is only 159kc (£5.80) for 200g, ok for a late night snack while not over eating.
   The grande (large) burrito  is 500g and really big for 200kc (£7).
   Ideally there should have been a size in between.
