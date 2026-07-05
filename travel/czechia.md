@@ -153,12 +153,17 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
     - [Letna Pond](https://maps.app.goo.gl/VjUzXf1HGER5mps66)
     - [Letna Park](https://maps.app.goo.gl/iLvHHGyjmwxG3FXp7) - another nice park with a view, and the fancy beer garden
       in the restaurants list below
-- [Palladium Prague](https://maps.app.goo.gl/ypyMAGFnAbo1WVLs6) - central mall near the Powder Tower. Unfortunately it
-  has charge barriers to use the toilets, which takes card payments!
-- [OC Flora](https://maps.app.goo.gl/pSYofvedMyMSEe5i9) - mall
-- [Westfield Chodov](https://maps.app.goo.gl/AMSPwjZgAaLQFyzq7) - at the end of the metro line
 - [Venkovní posilovna Vinohrady](https://maps.app.goo.gl/wuQgGZdmyALsGRhw9) - calisthenics street workout bars
 - [Fitness workout park Folimanka](https://maps.app.goo.gl/hLFHPHkDoUD4BEuSA)  - calisthenics street workout bars
+
+<!-- -->
+
+- [Palladium Prague](https://maps.app.goo.gl/ypyMAGFnAbo1WVLs6) - central mall near the Powder Tower. Unfortunately it
+  has charge barriers to use the toilets, which takes card payments!
+- [Westfield Chodov](https://maps.app.goo.gl/AMSPwjZgAaLQFyzq7) - at the end of the metro C line
+- [Nový Smíchov Shopping Centre](https://maps.app.goo.gl/LJXUrMtu9VHEpkTL7)
+  - [Marks and Spencer](https://maps.app.goo.gl/C7Qgguk9cE9SuBcu6) - if you're missing those British snacks
+- [OC Flora](https://maps.app.goo.gl/pSYofvedMyMSEe5i9) - mall
 
 ### Restaurants in Prague
 
@@ -455,7 +460,6 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 - [Kus Koláče](https://maps.app.goo.gl/kWBjCWLmECiPLLbu8) - 4.7 bakery
 - [KRO Vršovice](https://maps.app.goo.gl/34tdET3UfMesS7Wf8) - 4.5 bistro
 - [U Pravdů](https://maps.app.goo.gl/inephocw15SAZeV18) - 4.5 czech
-- [Restaurace U Kristiána](https://maps.app.goo.gl/9bLdu4FVTikzZZVx5) - 4.6 czech
 - [Smíchovský radniční sklípek](https://maps.app.goo.gl/YUgSUPdeWZaFbnuY8) - 4.5 czech
 - [Pivovarský dům Benedict](https://maps.app.goo.gl/gbAGPKmChnb9zG6t9) - 4.4 czech microbrewery, not cheap
 - [Restaurace U Šumavy](https://maps.app.goo.gl/5zXDUyeNUWnURFTL8) - 4.3 czech
