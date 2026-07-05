@@ -132,6 +132,7 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
   - [Church of Our Lady before Týn](Church of Our Lady before Týn)
   - [Pařížská](https://maps.app.goo.gl/DdwDdGwRJyWDFLMV6) - notable street
     - [Mariánský sloup](https://maps.app.goo.gl/yVTH39hife6DoDnU8)
+  - [Celetná](https://maps.app.goo.gl/xpTWLyat4RRUGpPR9) - notable street
   - [Prague Meridian](https://maps.app.goo.gl/ymTD8RBAADB4gjVD9)
   - [Park u Staroměstského Náměstí](https://maps.app.goo.gl/YWYHUsCoYkUkMziB9)
   - [Choco-Story: Prague Chocolate Museum](https://maps.app.goo.gl/5iiU3mD9NPw2vQTp6)
