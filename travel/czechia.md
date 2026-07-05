@@ -340,6 +340,10 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 
 #### Traditional Czech Restaurants in Prague
 
+A lof these _"traditional"_ czech restaurants in Prague don't even do the traditional garlic soup that is popular with
+locals any more, instead focusing on only the typical 3-4 main czech dishes.
+If you want a more authentic experience at a bit lower prices often you have to go further out to less known places.
+
 - [Bredovský Dvůr](https://maps.app.goo.gl/wbmfCjzZK1WWVjSx9) - on a side road in a central area, so less of a tourist
   trap, but it was still full, I had to wait for a table.
   The wild boar with mashed potatoes was good, although portion size could have been bigger and the onion jam was a bit
