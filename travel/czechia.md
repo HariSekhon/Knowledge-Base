@@ -153,6 +153,9 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
     - [Letna Pond](https://maps.app.goo.gl/VjUzXf1HGER5mps66)
     - [Letna Park](https://maps.app.goo.gl/iLvHHGyjmwxG3FXp7) - another nice park with a view, and the fancy beer garden
       in the restaurants list below
+- West of the Centre:
+  - [Petrin Hill](https://maps.app.goo.gl/ZD2cghtFSG3AcEF68) - park
+  - [Klášter Svatého Gabriela](https://maps.app.goo.gl/dQGt2e7wtujevk1x6)
 - [Venkovní posilovna Vinohrady](https://maps.app.goo.gl/wuQgGZdmyALsGRhw9) - calisthenics street workout bars
 - [Fitness workout park Folimanka](https://maps.app.goo.gl/hLFHPHkDoUD4BEuSA)  - calisthenics street workout bars
 
