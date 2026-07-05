@@ -312,6 +312,11 @@ For those who want coffee, eggs breakfast, granola bowls, acai etc.
 
 If you need a break from so much Czech food - goulash, svickova, duck with cabbage etc.
 
+- [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
+  the food!
+  The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
+  and comes with a piece of bread and a really good salad with pink pickles.
+  Get a side of truffles potatoes to make the plate complete. Wifi 56/25 Mbit/s
 - [POCHA Original Korean Restaurant](https://maps.app.goo.gl/XuLZ7hoUfTaFrE8y8) - Korean - further south than the centre but worth it.
   The bulgogi beef with glass noodles and yuzi tea were both great and the prices are reasonable too.
   Has wifi
@@ -322,11 +327,6 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
   Busy at 8pm on a Wednesday, all tables in the front section were full and half in the rear section too.
   Last orders 9:15pm.
   WiFi was broken
-- [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
-  the food!
-  The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
-  and comes with a piece of bread and a really good salad with pink pickles.
-  Get a side of truffles potatoes to make the plate complete. Wifi 56/25 Mbit/s
 - [Bulka Burger Bar](https://maps.app.goo.gl/jxBLf57ya3nATjRh9) - a bit further out but worth it - good menu and
   reasonable prices.
   The mango-chilli burger was good and so too were the sweet potato fries.
