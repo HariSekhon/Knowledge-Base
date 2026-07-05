@@ -278,13 +278,16 @@ For those who want coffee, eggs breakfast, granola bowls, acai etc.
 #### Treats - Acai, Ice Cream, Pancakes, Dumplings
 
 - [ACAI POKE superfood & espresso bar](https://maps.app.goo.gl/GTMiCCFtRGxyHFSh8) - described in the section above is my favourite Acai place in Prague
+- [Puro Gelato](https://maps.app.goo.gl/HZsGvXW3dZTUDUx99) - award winning ice cream shop, very popular. I had the mango
+  sorbet, pink gooseberry sorbet and poppy seed ice cream, all great. Wifi 12/2 Mbit/s
+- [Angelato](https://maps.app.goo.gl/bthrNdA2Zg3zVbLx8) - baccio (chocolate hazelnut) was my favourite here.
+  Pistachio was also good, but the yoghurt & blueberry, and coconut were too thin in my opinion.
+  69kc for a small cone with 2 scoops was a reasonable price too, price jumps up a lot to the next size
 - [Rio AÇAÍ A Smoothie Bar](https://maps.app.goo.gl/NSQhsSVAxoU2rQau8) - acai cup was better than expected for a
   commercial-chain-looking place, there are 3 options - I've had the Rio which lots of granola, chocolate flakes, and
   other crunchy bits, some fruit, peanut/almond butter. I've also had the Power which is also good, has some protein
   powder, peanuts, peanut butter, as well as strawberry,
   blueberry, banana, oats, chia seeds, hemp seeds etc. Within my top 3 acai places in Prague right now
-- [Puro Gelato](https://maps.app.goo.gl/HZsGvXW3dZTUDUx99) - award winning ice cream shop, very popular. I had the mango
-  sorbet, pink gooseberry sorbet and poppy seed ice cream, all great. Wifi 12/2 Mbit/s
 - [MyRaw Café](https://maps.app.goo.gl/acjCbKC1NuzfTbidA) - vegan cafe, but has an Acai smoothie bowl which is
   reasonable and topped with nuts and seeds granola, banana and strawberry. Wifi 92/25 Mbit/s
 - [Knedlin](https://maps.app.goo.gl/NhTxVVA9pTvHTBZs6) - dumpling shop with [a large variety](https://knedlin.cz/en/) of both sweet and savory dumplings.
