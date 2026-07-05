@@ -478,8 +478,11 @@ If you want a more authentic experience at a bit lower prices often you have to 
 - [Staré Tbilisi gruzínská restaurace (Old Tbilisi Georgian Restaurant)](https://maps.app.goo.gl/3Q67mVurEjM6xpSi8) -
   4.7 Georgian
 - [Gruzínská Restaurace Samefo](https://maps.app.goo.gl/4WhRYRbFBGVVa5gn9) - 4.6 georgian
-- [LaBuLa Street](https://maps.app.goo.gl/GLfaCXMej3YcvKug9) - 4.7
-- [NAPOKĒ Anděl](https://maps.app.goo.gl/RkuuCtTRAfnsqUUm7) - 4.5
+- [Manifesto Market Anděl](https://maps.app.goo.gl/e3J7wsSWGEatBwGA6) - outdoor food court 1-2 blocks south of the
+  Nový Smíchov Shopping Centre with several well rated places to eat:
+  - [YAYA's Meat & Seafood (Manifesto Market Anděl)](https://maps.app.goo.gl/c3QtD6R8WTNTR8Rf7)
+  - [LaBuLa Street](https://maps.app.goo.gl/GLfaCXMej3YcvKug9) - 4.7
+  - [NAPOKĒ Anděl](https://maps.app.goo.gl/RkuuCtTRAfnsqUUm7) - 4.5
 - [Restaurant Matylda](https://maps.app.goo.gl/GeFhe3wxzdjtRKBC9) - check the daily menu
   [here](https://www.menicka.cz/2123-restaurant-matylda.html) for good lunch deals
 - [the sip](https://maps.app.goo.gl/orGELjT42z7EwVRZ6) - romantic wine bar
