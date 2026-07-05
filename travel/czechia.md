@@ -304,6 +304,7 @@ For those who want coffee, eggs breakfast, granola bowls, acai etc.
 
 If you need a break from so much Czech food - goulash, svickova, duck with cabbage etc.
 
+- [POCHA Original Korean Restaurant](https://maps.app.goo.gl/XuLZ7hoUfTaFrE8y8) - Korean - the bulgogi beef with glass noodles and yuzi tea were both great
 - [GRØN Bistro](https://maps.app.goo.gl/S7U5vCdyZ9Js8CrY6) - reasonable prices gentrified bistro, closes at 9pm, go for
   the food!
   The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
@@ -462,7 +463,6 @@ If you want a more authentic experience at a bit lower prices often you have to 
 - [Oak](https://maps.app.goo.gl/efc51xTVVFAm3hFm9) - 4.8 bistro
 - [Sensu cafe](https://maps.app.goo.gl/r8oEbYobHgR62EvT8) - 4.6
 - [U Kroka](https://maps.app.goo.gl/kj4hwUXQsgKPxNpg9) - 4.7 czech
-- [POCHA Original Korean Restaurant](https://maps.app.goo.gl/XuLZ7hoUfTaFrE8y8) - 4.6 korean
 - [Phở 18](https://maps.app.goo.gl/9Fjjr22T7A1bfC2u5) - 4.8 vietnamese
 - [Boulangerie Le Caveau - Pekárna](https://maps.app.goo.gl/WcK2Daw3UZdrK3Tg6) - 4.7 bakery
 - [Kus Koláče](https://maps.app.goo.gl/kWBjCWLmECiPLLbu8) - 4.7 bakery
