@@ -356,8 +356,6 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
   The fries were even better - perfectly crispy fried in beef tallow - probably the best fries I remember having -
   I just wish there were more of them than the little basket - and the bbq sauce for dipping was really good too.
   WiFi 242/198 Mbit/s
-- [Hoxton Burgers](https://maps.app.goo.gl/GSbChRYrbU2ReSDi9) - ok burgers, mid priced.
-  WiFi 7/5 Mbit/s but sluggish in practice
 - [Sad Man's Tongue](https://maps.app.goo.gl/hE7mDzv2r592roT76) - 1950s dive bar restaurant on a side street with a
   mango chilli burger called Chica Chica Boom (360kc / €15). Good menu, Western prices, has a large cocktail menu,
   the usual spirits but little variety of soft drinks, tea, coffee.
@@ -377,6 +375,8 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
 - [Čínská Restaurace](https://maps.app.goo.gl/3ekUKBsu2i5CmEPt9) - literally translates to Chinese Restaurant - slightly
   pricier than Červený koŕal above but the portion size was large, you could split a main between two and just get 2 egg
   fried rice. The sechuan chicken wasn't spicy though, they probably figure the locals and Americans can't take chilli
+- [Hoxton Burgers](https://maps.app.goo.gl/GSbChRYrbU2ReSDi9) - ok burgers, mid priced.
+  WiFi 7/5 Mbit/s but sluggish in practice
 - [Burrito Loco](https://maps.app.goo.gl/rsNkjggfaRUJU2s68) - good affordable late night burrito chain with good
   burritos and also tortilla chips with spicy choice of 1 of 3 salsas or guacamole.
   The smaller burrito is only 159kc (£5.80) for 200g, ok for a late night snack while not over eating.
