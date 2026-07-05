@@ -356,6 +356,8 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
   The fries were even better - perfectly crispy fried in beef tallow - probably the best fries I remember having -
   I just wish there were more of them than the little basket - and the bbq sauce for dipping was really good too.
   WiFi 242/198 Mbit/s
+- [Hoxton Burgers](https://maps.app.goo.gl/GSbChRYrbU2ReSDi9) - ok burgers, mid priced.
+  WiFi 7/5 Mbit/s but sluggish in practice
 - [Sad Man's Tongue](https://maps.app.goo.gl/hE7mDzv2r592roT76) - 1950s dive bar restaurant on a side street with a
   mango chilli burger called Chica Chica Boom (360kc / €15). Good menu, Western prices, has a large cocktail menu,
   the usual spirits but little variety of soft drinks, tea, coffee.
