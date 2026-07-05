@@ -312,7 +312,8 @@ For those who want coffee, eggs breakfast, granola bowls, acai etc.
 
 If you need a break from so much Czech food - goulash, svickova, duck with cabbage etc.
 
-- [POCHA Original Korean Restaurant](https://maps.app.goo.gl/XuLZ7hoUfTaFrE8y8) - Korean - the bulgogi beef with glass noodles and yuzi tea were both great.
+- [POCHA Original Korean Restaurant](https://maps.app.goo.gl/XuLZ7hoUfTaFrE8y8) - Korean - further south than the centre but worth it.
+  The bulgogi beef with glass noodles and yuzi tea were both great and the prices are reasonable too.
   Has wifi
 - [Chilli & Lime Vinohrady](https://maps.app.goo.gl/vhtCRz35auxNizek6) - the chilli lime chicken is one of their
   signature dishes which was very filling, and the vegetable fried rice goes well with it to balance it out as the
