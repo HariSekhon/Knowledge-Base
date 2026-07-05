@@ -505,7 +505,8 @@ If you want a more authentic experience at a bit lower prices often you have to 
 - [U Rohatejch](https://maps.app.goo.gl/yfRLWM5kyqbmbnDHA) - 4.5 czech
 - [Oak](https://maps.app.goo.gl/efc51xTVVFAm3hFm9) - 4.8 bistro, was temporarily closed
 - [Sensu cafe](https://maps.app.goo.gl/r8oEbYobHgR62EvT8) - 4.6
-- [U Kroka](https://maps.app.goo.gl/kj4hwUXQsgKPxNpg9) - 4.7 traditional Czech, a little more tourist priced but they have the garlic soup
+- [U Kroka](https://maps.app.goo.gl/kj4hwUXQsgKPxNpg9) - 4.7 traditional Czech, a little more tourist priced but they
+  have the garlic soup
 - [Home of Dumplings](https://maps.app.goo.gl/5i2WAoNZq2MWXCTv7) - 4.9
 - [Phở 18](https://maps.app.goo.gl/9Fjjr22T7A1bfC2u5) - 4.8 vietnamese
 - [Manifesto Market Anděl](https://maps.app.goo.gl/e3J7wsSWGEatBwGA6) - outdoor food court 1-2 blocks south of the
