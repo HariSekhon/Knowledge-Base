@@ -113,7 +113,7 @@ Output:
 
 This is the problem, it's still using the osxkeychain with an old credential instead of the credential helper.
 
-If the osxkeychain credential is an old one then you should probably open KeyChain Access,
+If the `osxkeychain` credential is an old one then you should probably open KeyChain Access,
 search for `bitbucket` and remove it so that it is not getting picked up first:
 
 ```shell
