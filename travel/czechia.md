@@ -130,7 +130,7 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
   - [Prague Astronomical Clock](https://maps.app.goo.gl/zjhWY1Xax93ewARr6)
   - [The Powder Tower](https://maps.app.goo.gl/71y5mVKoji82Zdb16)
   - [Church of Our Lady before Týn](Church of Our Lady before Týn)
-  - [Pařížská](https://maps.app.goo.gl/DdwDdGwRJyWDFLMV6)
+  - [Pařížská](https://maps.app.goo.gl/DdwDdGwRJyWDFLMV6) - notable street
     - [Mariánský sloup](https://maps.app.goo.gl/yVTH39hife6DoDnU8)
   - [Prague Meridian](https://maps.app.goo.gl/ymTD8RBAADB4gjVD9)
   - [Park u Staroměstského Náměstí](https://maps.app.goo.gl/YWYHUsCoYkUkMziB9)
