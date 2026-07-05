@@ -478,11 +478,15 @@ If you want a more authentic experience at a bit lower prices often you have to 
 - [Staré Tbilisi gruzínská restaurace (Old Tbilisi Georgian Restaurant)](https://maps.app.goo.gl/3Q67mVurEjM6xpSi8) -
   4.7 Georgian
 - [Gruzínská Restaurace Samefo](https://maps.app.goo.gl/4WhRYRbFBGVVa5gn9) - 4.6 georgian
+- [LaBuLa Street](https://maps.app.goo.gl/GLfaCXMej3YcvKug9) - 4.7
+- [NAPOKĒ Anděl](https://maps.app.goo.gl/RkuuCtTRAfnsqUUm7) - 4.5
 - [Restaurant Matylda](https://maps.app.goo.gl/GeFhe3wxzdjtRKBC9) - check the daily menu
   [here](https://www.menicka.cz/2123-restaurant-matylda.html) for good lunch deals
 - [the sip](https://maps.app.goo.gl/orGELjT42z7EwVRZ6) - romantic wine bar
 - [Čestr](https://maps.app.goo.gl/inephocw15SAZeV18) - 4.6 upmarket focused on beef, expensive 3 course meal, plus mains
   and steaks
+- [Nori - Sushi & Wok](https://maps.app.goo.gl/TB29NyzLtBWjqGr46) - 4.3 - has all you can eat wok and sushi
+- [BEERTIME.pub](https://maps.app.goo.gl/mj1dnBH44dYssyD6A) - 4.3
 
 Not Recommended:
 
