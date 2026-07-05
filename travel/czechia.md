@@ -155,6 +155,8 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
       in the restaurants list below
 - West of the Centre across the river (Prague 5 zone):
   - [Petrin Hill](https://maps.app.goo.gl/ZD2cghtFSG3AcEF68) - park
+    - [Petřín Gardens](Petřín Gardens)
+    - [Petrin Tower](https://maps.app.goo.gl/jwtwaTch2EdNAcsq5) - tower with observation deck
   - [Klášter Svatého Gabriela](https://maps.app.goo.gl/dQGt2e7wtujevk1x6)
 - [Venkovní posilovna Vinohrady](https://maps.app.goo.gl/wuQgGZdmyALsGRhw9) - calisthenics street workout bars
 - [Fitness workout park Folimanka](https://maps.app.goo.gl/hLFHPHkDoUD4BEuSA)  - calisthenics street workout bars
