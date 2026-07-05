@@ -184,6 +184,8 @@ like these, but if you really want to try...
 - [Goldfingers](https://maps.app.goo.gl/s8nZjfCb8o2F52kQ8)
 - [OX Club Prague](https://maps.app.goo.gl/MnSwfaM1aD3gas3QA) - near the Church in Prague 2
 
+For better clubs than these commercial ones, ask me in person.
+
 ### Restaurants in Prague
 
 My favourite Brunch area is [Prague 3, Žižkov](https://maps.app.goo.gl/ZXwfEH74FakwwnyV8) as it has the most good
