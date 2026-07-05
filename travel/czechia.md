@@ -175,6 +175,11 @@ The prime walking area is between [Wenceslas Square](https://maps.app.goo.gl/izD
   - [Marks and Spencer](https://maps.app.goo.gl/C7Qgguk9cE9SuBcu6) - if you're missing those British snacks
 - [OC Flora](https://maps.app.goo.gl/pSYofvedMyMSEe5i9) - mall
 
+Not Recommended:
+
+- [Vrchlického sady](https://maps.app.goo.gl/cL4UM2bRjpTrC3yv5) - this small park outside the main train station often
+  has dodgy characters in it
+
 ### Clubs in Prague
 
 Prague clubs are often sausage fests with heavy ratios of foreign guys, nice czech girls I've known don't go to places
