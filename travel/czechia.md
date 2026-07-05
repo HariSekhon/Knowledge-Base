@@ -336,7 +336,8 @@ If you need a break from so much Czech food - goulash, svickova, duck with cabba
   The piri piri boneless chicken thigh is excellent, with homemade piri piri sauce and pineapple salsa,
   and comes with a piece of bread and a really good salad with pink pickles.
   Get a side of truffles potatoes to make the plate complete. Wifi 56/25 Mbit/s
-- [POCHA Original Korean Restaurant](https://maps.app.goo.gl/XuLZ7hoUfTaFrE8y8) - Korean - further south than the centre but worth it.
+- [POCHA Original Korean Restaurant](https://maps.app.goo.gl/XuLZ7hoUfTaFrE8y8) - Korean - further south than the centre
+  but worth it.
   The bulgogi beef with glass noodles and yuzi tea were both great and the prices are reasonable too.
   Has wifi
 - [Chilli & Lime Vinohrady](https://maps.app.goo.gl/vhtCRz35auxNizek6) - the chilli lime chicken is one of their
