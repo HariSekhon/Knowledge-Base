@@ -302,17 +302,18 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
 
 #### Restaurants in Wroclaw
 
-- [Pierogarnia Rynek 26](https://maps.app.goo.gl/9GRJGoTSKP2qz7eG7) - the best pierogi I ever had (polish dumplings).
-  They've taken something usually commodity and turned it into a delicacy.
-  The 6 x meat variety were good (I had them boiled,
-  you can have them baked too) were good and came with a perfect slightly sweet cream dip.
-  The 4 x sweet desert (boiled) with fruits and creams were even better, amazing, and came with a sweet dipping cream.
-  Excellent, I'd come back just for these.
-  The chef's special starter of peach wrapped in bacon was also very good, contrasting the sweet peach with the savory
-  and salty bacon, with cream drops on top, and sitting on a bed of arugula with balsamic drizzle - hit ones taste buds
-  from all sides!
-  The only drawback is that it is tourist priced, for which I think it loses a little score -
-  I can imagine the locals gawking at charging this much for pierogi but they do them as a special modern style
+- [Wrocławski Rynek](https://maps.app.goo.gl/UY1nAXGukyFXJ1em6) - the historical town square has many restaurants to try:
+  - [Pierogarnia Rynek 26](https://maps.app.goo.gl/9GRJGoTSKP2qz7eG7) - the best pierogi I ever had (polish dumplings).
+    They've taken something usually commodity and turned it into a delicacy.
+    The 6 x meat variety were good (I had them boiled,
+    you can have them baked too) were good and came with a perfect slightly sweet cream dip.
+    The 4 x sweet desert (boiled) with fruits and creams were even better, amazing, and came with a sweet dipping cream.
+    Excellent, I'd come back just for these.
+    The chef's special starter of peach wrapped in bacon was also very good, contrasting the sweet peach with the savory
+    and salty bacon, with cream drops on top, and sitting on a bed of arugula with balsamic drizzle - hit ones taste
+    buds from all sides!
+    The only drawback is that it is tourist priced, for which I think it loses a little score -
+    I can imagine the locals gawking at charging this much for pierogi but they do them as a special modern style
 - [Folgujemy](https://maps.app.goo.gl/8h5fb6W99gtENVcU7) - small gentrified bistro, the scrambled eggs were good (30pln)
   , add the bacon (+6pln) and avocado (+8pln) = 44pln (£8.60). Breakfast is only
   available until 11:45 weekdays, but all day at weekends. No wifi!!
@@ -325,7 +326,6 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
   The hollandaise sauce was mild with some mustard grains but not a mustardy flavour
   and the eggs were slightly overcooked so not runny.
   12/25 Mbit/s wifi
-- [Wrocławski Rynek](https://maps.app.goo.gl/UY1nAXGukyFXJ1em6) - the historical town square with many restaurants
 - [Galicja](https://maps.app.goo.gl/BfjQfgReuiXgZYgR6) - elegant restaurant, but was absolutely dead on a Saturday
   night, apparently due to some festival. It also closes early at 9pm.
   The chicken soup with beef dumplings and vegetable strips was surprisingly good,
