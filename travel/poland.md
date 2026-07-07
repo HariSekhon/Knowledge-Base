@@ -343,7 +343,8 @@ TODO:
 
 - [Konspira](https://maps.app.goo.gl/fa3hpV4S1S5TApNU7) - 4.6, recommended by a friend
 - [Bernard](https://maps.app.goo.gl/HsDN426nptFYvzQa7) - 4.6, Czech pub restaurant with interesting czech & polish food,
-  with several dishes stewed in Bernard beer
+  with several dishes stewed in Bernard beer, such a beef goulash,
+  czech burger of pulled beef with champignon onions stewed in Bernard beer, also has dishes with duck, rabbit etc.
 - [Drevny Kocur OVO Wroclaw](https://maps.app.goo.gl/b2JY4Zpbse9D4exX6) - 4.6 - Czech, has cesnecka garlic soup, western
   tourist priced
 - [Maharaja](https://maps.app.goo.gl/amNiAazFezd3FkgH8) - 4.7, Indian
