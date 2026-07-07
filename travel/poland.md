@@ -285,6 +285,7 @@ I was surprised how nice it is, I didn't even think to go here on my first trip 
   - [Bazylika Świętej Elżbiety Węgierskiej](https://maps.app.goo.gl/six3ySyecVBcvh329) - catholic church
     - [Observation tower - Basilica of Saint Elisabeth](https://maps.app.goo.gl/kzXf3xkhvSmEd9JJ9)
   - [Monument of Alexander Fredro](https://maps.app.goo.gl/oDQpxQajmnhQnMw29)
+  - [Krasnale Syzyfki](https://maps.app.goo.gl/udPxUE3Wxs6DJRuY6)
 - [Juliusz Słowacki Park](https://maps.app.goo.gl/PTr6anYMNpQtN9CbA)
 - [Wroclavia](https://maps.app.goo.gl/CRjjEgyATofvuuD59) - mall with the usual brands, got my Wittchen suitcase from
   here, made in Poland and much cheaper than Samsonite
