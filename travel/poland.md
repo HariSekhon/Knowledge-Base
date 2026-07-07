@@ -363,7 +363,8 @@ TODO:
 - [Wrocławska](https://maps.app.goo.gl/8GUQo6Wpyszvnwy1A) - 4.6, michelin, pricey
 - [Pod Papugami - Restaurant & Cocktail Bar](https://maps.app.goo.gl/zcbR8PGTFbvMpJBL8) - 4.6, upmarket bar restaurant,
   pricey
-- [Culto](https://maps.app.goo.gl/8fBwkDWptoqG3XSL8) - 4.5, trendy burgers venue
+- [Culto](https://maps.app.goo.gl/8fBwkDWptoqG3XSL8) - 4.5, trendy with unusual menu of ramen soups, few burgers,
+  tartare and seasonal asian venue
 
 ### Katowice
 
