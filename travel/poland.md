@@ -341,21 +341,21 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
 
 TODO:
 
-- [Konspira](https://maps.app.goo.gl/fa3hpV4S1S5TApNU7) - 4.6, recommended by a friend
 - [Bernard](https://maps.app.goo.gl/HsDN426nptFYvzQa7) - 4.6, Czech pub restaurant with interesting czech & polish food,
   with several dishes stewed in Bernard beer, such a beef goulash,
   czech burger of pulled beef with champignon onions stewed in Bernard beer, also has dishes with duck, rabbit etc.
+- [Samarqand — Kuchnia Uzbecka, Gruzińska & Grill](https://maps.app.goo.gl/BSdiq8FzwHDHL2mZA) - 4.8, mix of cuisines
+  including Georgian, moderately priced
 - [Drevny Kocur OVO Wroclaw](https://maps.app.goo.gl/b2JY4Zpbse9D4exX6) - 4.6 - Czech, has cesnecka garlic soup, western
   tourist priced
+- [Jolie - Brasserie Cafe](https://maps.app.goo.gl/xKC1a1ohvEQxPtER9) - 4.8, all day breakfast and mediterranean mains
+  after 12:00
+- [Konspira](https://maps.app.goo.gl/fa3hpV4S1S5TApNU7) - 4.6, recommended by a friend, tourist priced
 - [Maharaja](https://maps.app.goo.gl/amNiAazFezd3FkgH8) - 4.7, Indian
 - [ReBro - Ribs, Burgers & Steaks](https://maps.app.goo.gl/KkiYMvwtDQFJ47P16) - 4.7. they also have a breakfast menu
   with eggs benedict
 - [SushiBang](https://maps.app.goo.gl/qqagyX5Q4XCSni4Z7) - 4.7, sushi takeaway, open late
-- [Samarqand — Kuchnia Uzbecka, Gruzińska & Grill](https://maps.app.goo.gl/BSdiq8FzwHDHL2mZA) - 4.8, mix of cuisines
-  including Georgian, moderately priced
 - [Red bowl](https://maps.app.goo.gl/YzEQZJ1hFe7STqXF9) - 4.8, asian
-- [Jolie - Brasserie Cafe](https://maps.app.goo.gl/xKC1a1ohvEQxPtER9) - 4.8, all day breakfast and mediterranean mains
-  after 12:00
 - [Trattoria Tre Angeli](https://maps.app.goo.gl/EHU2okq44CT1WBKm7) - 4.7, Italian
 - [Dim Sum Garden](https://maps.app.goo.gl/MV9edKvZjvZm4FxA8) - 4.6
 - [Wrocławska](https://maps.app.goo.gl/8GUQo6Wpyszvnwy1A) - 4.6, michelin, pricey
