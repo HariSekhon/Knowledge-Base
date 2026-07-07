@@ -345,6 +345,7 @@ TODO:
 - [Bernard](https://maps.app.goo.gl/HsDN426nptFYvzQa7) - 4.6, Czech pub restaurant with interesting czech & polish food,
   with several dishes stewed in Bernard beer, such a beef goulash,
   czech burger of pulled beef with champignon onions stewed in Bernard beer, also has dishes with duck, rabbit etc.
+- [El Cubano - Restauracja Kubańska](https://maps.app.goo.gl/SxJ4KmkjMY6PSFaL9) - 4.7, Cuban
 - [Samarqand — Kuchnia Uzbecka, Gruzińska & Grill](https://maps.app.goo.gl/BSdiq8FzwHDHL2mZA) - 4.8, mix of cuisines
   including Georgian, moderately priced
 - [Drevny Kocur OVO Wroclaw](https://maps.app.goo.gl/b2JY4Zpbse9D4exX6) - 4.6 - Czech, has cesnecka garlic soup, western
@@ -358,7 +359,6 @@ TODO:
 - [SushiBang](https://maps.app.goo.gl/qqagyX5Q4XCSni4Z7) - 4.7, sushi takeaway, open late
 - [Red bowl](https://maps.app.goo.gl/YzEQZJ1hFe7STqXF9) - 4.8, asian
 - [Woo Thai Restaurant](https://maps.app.goo.gl/TVqApRfyXv5MmaKv7) - 4.7
-- [El Cubano - Restauracja Kubańska](https://maps.app.goo.gl/SxJ4KmkjMY6PSFaL9) - 4.7, Cuban
 - [Trattoria Tre Angeli](https://maps.app.goo.gl/EHU2okq44CT1WBKm7) - 4.7, Italian
 - [Dim Sum Garden](https://maps.app.goo.gl/MV9edKvZjvZm4FxA8) - 4.6
 - [Bistro Stu Mostów](https://maps.app.goo.gl/Ugr1ZHVxnUgNpxE68) - 4.6
