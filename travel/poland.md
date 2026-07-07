@@ -359,6 +359,7 @@ TODO:
 - [Red bowl](https://maps.app.goo.gl/YzEQZJ1hFe7STqXF9) - 4.8, asian
 - [Trattoria Tre Angeli](https://maps.app.goo.gl/EHU2okq44CT1WBKm7) - 4.7, Italian
 - [Dim Sum Garden](https://maps.app.goo.gl/MV9edKvZjvZm4FxA8) - 4.6
+- [Bistro Stu Mostów](https://maps.app.goo.gl/Ugr1ZHVxnUgNpxE68) - 4.6
 - [Wrocławska](https://maps.app.goo.gl/8GUQo6Wpyszvnwy1A) - 4.6, michelin, pricey
 - [Pod Papugami - Restaurant & Cocktail Bar](https://maps.app.goo.gl/zcbR8PGTFbvMpJBL8) - 4.6, upmarket bar restaurant,
   pricey
