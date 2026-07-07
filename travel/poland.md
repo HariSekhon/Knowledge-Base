@@ -295,6 +295,7 @@ I was surprised how nice it is, I didn't even think to go here on my first trip 
   - [Galeria Dominikańska](https://maps.app.goo.gl/1i6wRFqYgpvKFwdt5) - mid-sized straight mall on 3 levels,
     mix of international and local shops
 - Africanarium - dedicated to African animals - sharks, crocodiles, turtles, hippos
+- [Odrarium Zzoo](https://maps.app.goo.gl/7eqtZtiZodgHNyFh9)
 
 #### Parking in Wroclaw
 
