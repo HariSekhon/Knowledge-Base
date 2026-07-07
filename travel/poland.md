@@ -348,6 +348,7 @@ TODO:
   tourist priced
 - [Maharaja](https://maps.app.goo.gl/amNiAazFezd3FkgH8) - 4.7, Indian
 - [Trattoria Tre Angeli](https://maps.app.goo.gl/EHU2okq44CT1WBKm7) - 4.7, Italian
+- [SushiBang](https://maps.app.goo.gl/qqagyX5Q4XCSni4Z7) - 4., sushi takeaway, open late
 
 ### Katowice
 
