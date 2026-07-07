@@ -349,6 +349,9 @@ TODO:
 - [Maharaja](https://maps.app.goo.gl/amNiAazFezd3FkgH8) - 4.7, Indian
 - [Trattoria Tre Angeli](https://maps.app.goo.gl/EHU2okq44CT1WBKm7) - 4.7, Italian
 - [SushiBang](https://maps.app.goo.gl/qqagyX5Q4XCSni4Z7) - 4., sushi takeaway, open late
+- [Samarqand — Kuchnia Uzbecka, Gruzińska & Grill](https://maps.app.goo.gl/BSdiq8FzwHDHL2mZA) - 4.8, mix of cuisines
+  including Georgian, moderately priced
+- [Red bowl](https://maps.app.goo.gl/YzEQZJ1hFe7STqXF9) - 4.8, asian
 
 ### Katowice
 
