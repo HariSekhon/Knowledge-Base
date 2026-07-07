@@ -354,7 +354,7 @@ TODO:
 - [Red bowl](https://maps.app.goo.gl/YzEQZJ1hFe7STqXF9) - 4.8, asian
 - [Jolie - Brasserie Cafe](https://maps.app.goo.gl/xKC1a1ohvEQxPtER9) - 4.8, all day breakfast and mediterranean mains
   after 12:00
-- [Dim Sum Garden](https://maps.app.goo.gl/MV9edKvZjvZm4FxA8) - 4.8
+- [Dim Sum Garden](https://maps.app.goo.gl/MV9edKvZjvZm4FxA8) - 4.6
 
 ### Katowice
 
