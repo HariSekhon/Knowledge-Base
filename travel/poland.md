@@ -338,10 +338,10 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
   perhaps why it was deserted, as the above two cost me 82 pln (£16), plus tip, without any drinks or dessert.
   Waitress said they had bad wifi, and didn't know the wifi password.
   Overall you might want to go with one of the lively places in the Wrocławski Rynek historical market square
-- [Tandyr House](https://maps.app.goo.gl/Ugr1ZHVxnUgNpxE68) - bakery, cheap snack
 
 TODO:
 
+- [Tandyr House](https://maps.app.goo.gl/Ugr1ZHVxnUgNpxE68) - bakery, cheap snack
 - [Bernard](https://maps.app.goo.gl/HsDN426nptFYvzQa7) - 4.6, Czech pub restaurant with interesting czech & polish food,
   with several dishes stewed in Bernard beer, such a beef goulash,
   czech burger of pulled beef with champignon onions stewed in Bernard beer, also has dishes with duck, rabbit etc.
