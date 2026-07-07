@@ -284,6 +284,7 @@ I was surprised how nice it is, I didn't even think to go here on my first trip 
   - [Muzeum Sztuki Mieszczańskiej](https://maps.app.goo.gl/kkvptQDP1Kovesg27)
   - [Bazylika Świętej Elżbiety Węgierskiej](https://maps.app.goo.gl/six3ySyecVBcvh329) - catholic church
     - [Observation tower - Basilica of Saint Elisabeth](https://maps.app.goo.gl/kzXf3xkhvSmEd9JJ9)
+  - [Bridge of Penitents](https://maps.app.goo.gl/BW8FXut9KuyruuY27)
   - [Monument of Alexander Fredro](https://maps.app.goo.gl/oDQpxQajmnhQnMw29)
   - [Krasnale Syzyfki](https://maps.app.goo.gl/udPxUE3Wxs6DJRuY6)
 - [Juliusz Słowacki Park](https://maps.app.goo.gl/PTr6anYMNpQtN9CbA)
