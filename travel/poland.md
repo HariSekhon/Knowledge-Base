@@ -341,7 +341,7 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
 
 TODO:
 
-- [Tandyr House](https://maps.app.goo.gl/Ugr1ZHVxnUgNpxE68) - bakery, cheap snack
+- [Tandyr House](https://maps.app.goo.gl/Ugr1ZHVxnUgNpxE68) - 4.5, bakery, cheap snack
 - [Bernard](https://maps.app.goo.gl/HsDN426nptFYvzQa7) - 4.6, Czech pub restaurant with interesting czech & polish food,
   with several dishes stewed in Bernard beer, such a beef goulash,
   czech burger of pulled beef with champignon onions stewed in Bernard beer, also has dishes with duck, rabbit etc.
