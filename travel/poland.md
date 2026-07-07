@@ -346,8 +346,15 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
 TODO:
 
 - [Bernard](https://maps.app.goo.gl/HsDN426nptFYvzQa7) - 4.6, Czech pub restaurant with interesting czech & polish food,
-  with several dishes stewed in Bernard beer, such a beef goulash,
-  czech burger of pulled beef with champignon onions stewed in Bernard beer, also has dishes with duck, rabbit etc.
+  with several dishes stewed in Bernard beer, such a beef goulash as well as dishes with duck, rabbit etc.
+  The _"Czech"_ burger of pulled beef was excellent - so large it comes opened for you to stack, with good sauce and
+  salad including large fresh tomato slices and whole crisp fresh lettuce leaves - the champignon onions stewed in
+  Bernard beer were not that distinctive.
+  The medium sized fries were perfectly made and the dipping sauce was excellent too.
+  This is probably the best burger in Wroclaw.
+  The Kiwi lemonade was decent, and there are a few cake desserts and ice cream too,
+  but I think the main food is the key here, although they also have a decent selection appetizers and snacks too.
+  Has wifi
 - [Bar Pierożek](https://maps.app.goo.gl/5AwofHV2fmLTNVrB8) - pierogi Polish dumplings, closes early at 9pm, seems like
   a foodie place, good menu
 - [Giselle Cafe Bistro](https://maps.app.goo.gl/sTYU8Aqwy1jtvXHi6) - 4.6, good breakfast menu, closes at 7pm
