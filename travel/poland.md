@@ -352,6 +352,8 @@ TODO:
 - [Samarqand — Kuchnia Uzbecka, Gruzińska & Grill](https://maps.app.goo.gl/BSdiq8FzwHDHL2mZA) - 4.8, mix of cuisines
   including Georgian, moderately priced
 - [Red bowl](https://maps.app.goo.gl/YzEQZJ1hFe7STqXF9) - 4.8, asian
+- [Jolie - Brasserie Cafe](https://maps.app.goo.gl/xKC1a1ohvEQxPtER9) - 4.8, all day breakfast and mediterranean mains
+  after 12:00
 
 ### Katowice
 
