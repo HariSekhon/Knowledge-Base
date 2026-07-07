@@ -341,15 +341,15 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
 
 TODO:
 
+- [Bernard](https://maps.app.goo.gl/HsDN426nptFYvzQa7) - 4.6, Czech pub restaurant with interesting czech & polish food,
+  with several dishes stewed in Bernard beer, such a beef goulash,
+  czech burger of pulled beef with champignon onions stewed in Bernard beer, also has dishes with duck, rabbit etc.
 - [Bar Pierożek](https://maps.app.goo.gl/5AwofHV2fmLTNVrB8) - pierogi Polish dumplings, closes early at 9pm, seems like
   a foodie place, good menu
 - [Giselle Cafe Bistro](https://maps.app.goo.gl/sTYU8Aqwy1jtvXHi6) - 4.6, good breakfast menu, closes at 7pm
 - [Tandyr House](https://maps.app.goo.gl/Ugr1ZHVxnUgNpxE68) - 4.5, bakery, cheap snack
 - [Pepik Pub](https://maps.app.goo.gl/NG7tQZUuw88uzYJUA) - 4.6, Czech pub restaurant with reasonable prices, has
   cesnecka garlic soup, beef goulash etc.
-- [Bernard](https://maps.app.goo.gl/HsDN426nptFYvzQa7) - 4.6, Czech pub restaurant with interesting czech & polish food,
-  with several dishes stewed in Bernard beer, such a beef goulash,
-  czech burger of pulled beef with champignon onions stewed in Bernard beer, also has dishes with duck, rabbit etc.
 - [El Cubano - Restauracja Kubańska](https://maps.app.goo.gl/SxJ4KmkjMY6PSFaL9) - 4.7, Cuban
 - [Samarqand — Kuchnia Uzbecka, Gruzińska & Grill](https://maps.app.goo.gl/BSdiq8FzwHDHL2mZA) - 4.8, mix of cuisines
   including Georgian, moderately priced
@@ -365,6 +365,7 @@ TODO:
 - [Red bowl](https://maps.app.goo.gl/YzEQZJ1hFe7STqXF9) - 4.8, asian
 - [Woo Thai Restaurant](https://maps.app.goo.gl/TVqApRfyXv5MmaKv7) - 4.7
 - [Trattoria Tre Angeli](https://maps.app.goo.gl/EHU2okq44CT1WBKm7) - 4.7, Italian
+- [Soczewka](https://maps.app.goo.gl/Zc1EysENwjq4J2rJ9) - 4.6, burgers
 - [Banh Mi & Pho](https://maps.app.goo.gl/68GLA3qYfjDEmHfJA) - 4.6, Vietnamese
 - [Dim Sum Garden](https://maps.app.goo.gl/MV9edKvZjvZm4FxA8) - 4.6
 - [Bistro Stu Mostów](https://maps.app.goo.gl/Ugr1ZHVxnUgNpxE68) - 4.6
