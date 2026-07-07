@@ -26,6 +26,7 @@
     - [Attractions in Wroclaw](#attractions-in-wroclaw)
     - [Parking in Wroclaw](#parking-in-wroclaw)
     - [Restaurants in Wroclaw](#restaurants-in-wroclaw)
+    - [Groceries in Wroclaw](#groceries-in-wroclaw)
   - [Katowice](#katowice)
   - [Nowy Sącz](#nowy-sącz)
     - [Częstochowa](#częstochowa)
@@ -377,6 +378,13 @@ TODO:
   pricey
 - [Culto](https://maps.app.goo.gl/8fBwkDWptoqG3XSL8) - 4.5, trendy with unusual menu of ramen soups, few burgers,
   tartare and seasonal asian venue
+
+#### Groceries in Wroclaw
+
+- [Carrefour in Galeria Dominikańska mall](https://maps.app.goo.gl/3XWMDKB91DT4SMH19) - good quality selection and
+  reasonable prices, located at one end of the lower -1 level of the Galeria Dominikańska mall
+- [Carrefour in Wroclavia mall](https://maps.app.goo.gl/cnextewrruND5paH8) - bigger than the one above, located on the
+  ground floor of the Wroclavia mall
 
 ### Katowice
 
