@@ -282,6 +282,7 @@ I was surprised how nice it is, I didn't even think to go here on my first trip 
   treats:
   - [Kamieniczki "Jaś i Małgosia"](https://maps.app.goo.gl/6WcYedHPhfKN45jB7)
   - [Muzeum Sztuki Mieszczańskiej](https://maps.app.goo.gl/kkvptQDP1Kovesg27)
+  - [Monument of Alexander Fredro](https://maps.app.goo.gl/oDQpxQajmnhQnMw29)
 - [Wroclavia](https://maps.app.goo.gl/CRjjEgyATofvuuD59) - mall with the usual brands, got my Wittchen suitcase from
   here, made in Poland and much cheaper than Samsonite
 - [Pasaż Grunwaldzki](https://maps.app.goo.gl/mijJVyLMqz3JEPaD8) - mall
