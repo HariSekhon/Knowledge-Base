@@ -343,6 +343,7 @@ TODO:
 
 - [Bar Pierożek](https://maps.app.goo.gl/5AwofHV2fmLTNVrB8) - pierogi Polish dumplings, closes early at 9pm, seems like
   a foodie place, good menu
+- [Giselle Cafe Bistro](https://maps.app.goo.gl/sTYU8Aqwy1jtvXHi6) - 4.6, good breakfast menu, closes at 7pm
 - [Tandyr House](https://maps.app.goo.gl/Ugr1ZHVxnUgNpxE68) - 4.5, bakery, cheap snack
 - [Bernard](https://maps.app.goo.gl/HsDN426nptFYvzQa7) - 4.6, Czech pub restaurant with interesting czech & polish food,
   with several dishes stewed in Bernard beer, such a beef goulash,
