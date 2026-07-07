@@ -358,7 +358,8 @@ TODO:
   after 12:00
 - [Trattoria Tre Angeli](https://maps.app.goo.gl/EHU2okq44CT1WBKm7) - 4.7, Italian
 - [Dim Sum Garden](https://maps.app.goo.gl/MV9edKvZjvZm4FxA8) - 4.6
-- [Pod Papugami - Restaurant & Cocktail Bar](https://maps.app.goo.gl/zcbR8PGTFbvMpJBL8) - 4.6, upmarket bar restaurant
+- [Pod Papugami - Restaurant & Cocktail Bar](https://maps.app.goo.gl/zcbR8PGTFbvMpJBL8) - 4.6, upmarket bar restaurant,
+  pricey
 
 ### Katowice
 
