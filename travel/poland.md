@@ -341,7 +341,9 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
 
 TODO:
 
-- [Konspira](https://maps.app.goo.gl/fa3hpV4S1S5TApNU7) - recommended by a friend
+- [Konspira](https://maps.app.goo.gl/fa3hpV4S1S5TApNU7) - 4.6, recommended by a friend
+- [ReBro - Ribs, Burgers & Steaks](https://maps.app.goo.gl/KkiYMvwtDQFJ47P16) - 4.7. they also have a breakfast menu
+  with eggs benedict
 
 ### Katowice
 
