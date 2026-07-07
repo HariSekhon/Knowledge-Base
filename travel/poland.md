@@ -311,6 +311,8 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
   The chef's special starter of peach wrapped in bacon was also very good, contrasting the sweet peach with the savory
   and salty bacon, with cream drops on top, and sitting on a bed of arugula with balsamic drizzle - hit ones taste buds
   from all sides!
+  The only drawback is that it is tourist priced, for which I think it loses a little score -
+  I can imagine the locals gawking at charging this much for pierogi but they do them as a special modern style
 - [Folgujemy](https://maps.app.goo.gl/8h5fb6W99gtENVcU7) - small gentrified bistro, the scrambled eggs were good (30pln)
   , add the bacon (+6pln) and avocado (+8pln) = 44pln (£8.60). Breakfast is only
   available until 11:45 weekdays, but all day at weekends. No wifi!!
