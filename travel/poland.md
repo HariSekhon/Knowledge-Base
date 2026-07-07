@@ -292,7 +292,8 @@ I was surprised how nice it is, I didn't even think to go here on my first trip 
   - [Wroclavia](https://maps.app.goo.gl/CRjjEgyATofvuuD59) - mall with the usual brands, got my Wittchen suitcase from
     here, made in Poland and much cheaper than Samsonite
   - [Pasaż Grunwaldzki](https://maps.app.goo.gl/mijJVyLMqz3JEPaD8)
-  - [Galeria Dominikańska](https://maps.app.goo.gl/1i6wRFqYgpvKFwdt5)
+  - [Galeria Dominikańska](https://maps.app.goo.gl/1i6wRFqYgpvKFwdt5) - Mid-sized straight mall on 3 levels,
+    mix of international and local shops
 - Africanarium - dedicated to African animals - sharks, crocodiles, turtles, hippos
 
 #### Parking in Wroclaw
