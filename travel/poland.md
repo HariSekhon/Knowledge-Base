@@ -344,6 +344,8 @@ TODO:
 - [Konspira](https://maps.app.goo.gl/fa3hpV4S1S5TApNU7) - 4.6, recommended by a friend
 - [ReBro - Ribs, Burgers & Steaks](https://maps.app.goo.gl/KkiYMvwtDQFJ47P16) - 4.7. they also have a breakfast menu
   with eggs benedict
+- [Drevny Kocur OVO Wroclaw](https://maps.app.goo.gl/b2JY4Zpbse9D4exX6) - 4.6 - has cesnecka garlic soup, western
+  tourist priced
 
 ### Katowice
 
