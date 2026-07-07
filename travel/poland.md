@@ -342,7 +342,8 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
 TODO:
 
 - [Konspira](https://maps.app.goo.gl/fa3hpV4S1S5TApNU7) - 4.6, recommended by a friend
-- [Bernard](https://maps.app.goo.gl/HsDN426nptFYvzQa7) - 4.6, Czech pub restaurant with interesting czech & polish food
+- [Bernard](https://maps.app.goo.gl/HsDN426nptFYvzQa7) - 4.6, Czech pub restaurant with interesting czech & polish food,
+  with several dishes stewed in Bernard beer
 - [Drevny Kocur OVO Wroclaw](https://maps.app.goo.gl/b2JY4Zpbse9D4exX6) - 4.6 - Czech, has cesnecka garlic soup, western
   tourist priced
 - [Maharaja](https://maps.app.goo.gl/amNiAazFezd3FkgH8) - 4.7, Indian
