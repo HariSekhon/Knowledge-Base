@@ -357,6 +357,7 @@ TODO:
   with eggs benedict
 - [SushiBang](https://maps.app.goo.gl/qqagyX5Q4XCSni4Z7) - 4.7, sushi takeaway, open late
 - [Red bowl](https://maps.app.goo.gl/YzEQZJ1hFe7STqXF9) - 4.8, asian
+- [Woo Thai Restaurant](https://maps.app.goo.gl/TVqApRfyXv5MmaKv7) - 4.7
 - [Trattoria Tre Angeli](https://maps.app.goo.gl/EHU2okq44CT1WBKm7) - 4.7, Italian
 - [Dim Sum Garden](https://maps.app.goo.gl/MV9edKvZjvZm4FxA8) - 4.6
 - [Bistro Stu Mostów](https://maps.app.goo.gl/Ugr1ZHVxnUgNpxE68) - 4.6
