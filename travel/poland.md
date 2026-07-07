@@ -278,8 +278,8 @@ I was surprised how nice it is, I didn't even think to go here on my first trip 
 
 #### Attractions in Wroclaw
 
-- Market Square - one of the largest in Europe with plenty of good restaurants and
-  treats:
+- [Rynek we Wrocławiu](https://maps.app.goo.gl/HVxsrTTneQ1EDHmy5) - town square, one of the largest in Europe,
+  with plenty of good restaurants and treats:
   - [Kamieniczki "Jaś i Małgosia"](https://maps.app.goo.gl/6WcYedHPhfKN45jB7)
   - [Muzeum Sztuki Mieszczańskiej](https://maps.app.goo.gl/kkvptQDP1Kovesg27)
   - [Monument of Alexander Fredro](https://maps.app.goo.gl/oDQpxQajmnhQnMw29)
