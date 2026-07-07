@@ -346,6 +346,7 @@ TODO:
   with eggs benedict
 - [Drevny Kocur OVO Wroclaw](https://maps.app.goo.gl/b2JY4Zpbse9D4exX6) - 4.6 - has cesnecka garlic soup, western
   tourist priced
+- [Maharaja](https://maps.app.goo.gl/amNiAazFezd3FkgH8) - 4.7, Indian
 
 ### Katowice
 
