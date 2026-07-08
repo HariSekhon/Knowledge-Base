@@ -335,6 +335,15 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
 - [Restauracja Česká](https://maps.app.goo.gl/DhETuFck1MZ9MmQ48) - czech restaurant, chain of two, the other being my
   favourite in Warsaw. This one has a great outdoor terrace on a main strip if you can get a table on it.
   Get the classic traditional cesnecka garlic soup, and beef goulash or their duck with cabbage mains
+- [Pepik Pub](https://maps.app.goo.gl/NG7tQZUuw88uzYJUA) - czech pub restaurant with traditional dishes and outdoor
+  seating.
+  The menu isn’t big but it’s decent and reasonably priced as it’s just off the main square.
+  The cesnecka garlic soup was thick instead of watery,
+  with one half covered in croutons and the other half covered in melted cheese,
+  could have been a little bit more garlicky but otherwise good.
+  The beef goulash was medium sized with lean cubes of beef,
+  4 bread dumplings to soak up the moderate amount of sauce topped with red onions.
+  Has WiFi but network wasn’t detected outdoors
 - [Gniazdo](https://maps.app.goo.gl/ARvLXgYN6VLLLYxx7) - eggs benedict with bacon or avocado 38pln (£7.50).
   The bacon was streaky with fat throughout but was not well done as it should be if eating bacon fat.
   Go with the avocado instead of bacon if you want a healthy option.
@@ -359,8 +368,6 @@ TODO:
   a foodie place, good menu
 - [Giselle Cafe Bistro](https://maps.app.goo.gl/sTYU8Aqwy1jtvXHi6) - 4.6, good breakfast menu, closes at 7pm
 - [Tandyr House](https://maps.app.goo.gl/Ugr1ZHVxnUgNpxE68) - 4.5, bakery, cheap snack
-- [Pepik Pub](https://maps.app.goo.gl/NG7tQZUuw88uzYJUA) - 4.6, Czech pub restaurant with reasonable prices, has
-  cesnecka garlic soup, beef goulash etc.
 - [El Cubano - Restauracja Kubańska](https://maps.app.goo.gl/SxJ4KmkjMY6PSFaL9) - 4.7, Cuban
 - [Samarqand — Kuchnia Uzbecka, Gruzińska & Grill](https://maps.app.goo.gl/BSdiq8FzwHDHL2mZA) - 4.8, mix of cuisines
   including Georgian, moderately priced
