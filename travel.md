@@ -106,6 +106,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Car Insurance](#car-insurance)
   - [International Driving Insurance](#international-driving-insurance)
     - [Temporary Car Insurance Cover](#temporary-car-insurance-cover)
+  - [Long Term Car Parking](#long-term-car-parking)
 - [Travel Days Planning](#travel-days-planning)
   - [Spreadsheet to Auto-Recalculate Dates](#spreadsheet-to-auto-recalculate-dates)
   - [Digital Nomadding](#digital-nomadding)
@@ -1288,6 +1289,12 @@ These are relatively very expensive in my experience so I avoid them.
   3 hours!
 - [TempCover](https://motor.tempcover.com/) - expensive, quoted me £273 for just 28 days
 - [DayInsure](https://www.dayinsure.com/)
+
+### Long Term Car Parking
+
+If you need to leave your car in storage to go travelling, you can find parking places here:
+
+<https://www.justpark.com/>
 
 ## Travel Days Planning
 
