@@ -101,12 +101,12 @@ Updated regularly as I travel the world 52 weeks a year.
   - [EU Motorway Tolls](#eu-motorway-tolls)
   - [Do Not Speed](#do-not-speed)
   - [Parking](#parking)
+    - [Long Term Car Storage](#long-term-car-storage)
   - [Land Border Delays](#land-border-delays)
   - [Ferries](#ferries)
   - [Car Insurance](#car-insurance)
   - [International Driving Insurance](#international-driving-insurance)
     - [Temporary Car Insurance Cover](#temporary-car-insurance-cover)
-  - [Long Term Car Parking](#long-term-car-parking)
 - [Travel Days Planning](#travel-days-planning)
   - [Spreadsheet to Auto-Recalculate Dates](#spreadsheet-to-auto-recalculate-dates)
   - [Digital Nomadding](#digital-nomadding)
@@ -1229,6 +1229,12 @@ some random part of a city, which has little there.
 In more recent times I ask ChatGPT for free parking locations ahead of time and then bookmark them on Google Maps and
 then share that to Waze for the driving route as Waze is far better than Google Maps for driving directions.
 
+#### Long Term Car Storage
+
+If you need to leave your car in storage in the UK to go travelling, you can find parking places here:
+
+<https://www.justpark.com/>
+
 ### Land Border Delays
 
 Land borders often have significant queues and delays,
@@ -1289,12 +1295,6 @@ These are relatively very expensive in my experience so I avoid them.
   3 hours!
 - [TempCover](https://motor.tempcover.com/) - expensive, quoted me £273 for just 28 days
 - [DayInsure](https://www.dayinsure.com/)
-
-### Long Term Car Parking
-
-If you need to leave your car in storage in the UK to go travelling, you can find parking places here:
-
-<https://www.justpark.com/>
 
 ## Travel Days Planning
 
