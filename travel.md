@@ -1292,7 +1292,7 @@ These are relatively very expensive in my experience so I avoid them.
 
 ### Long Term Car Parking
 
-If you need to leave your car in storage to go travelling, you can find parking places here:
+If you need to leave your car in storage in the UK to go travelling, you can find parking places here:
 
 <https://www.justpark.com/>
 
