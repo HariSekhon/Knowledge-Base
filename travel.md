@@ -113,6 +113,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [EU Schengen Visa Calculator](#eu-schengen-visa-calculator)
 - [Emigration](#emigration)
   - [Taxes](#taxes)
+    - [Avoid Tax Residency](#avoid-tax-residency)
   - [Mail Redirection](#mail-redirection)
   - [Car Migration](#car-migration)
 
@@ -1362,6 +1363,18 @@ tax off you that quite frankly the UK doesn't deserve at this point.
 Read this article on [my Medium](https://medium.com/@harisekhon) for more:
 
 [Tax Advice for Emigrating or Going Digital Nomad](https://medium.com/@harisekhon/tax-advice-for-emigrating-or-going-digital-nomad-c100fba461ed)
+
+#### Avoid Tax Residency
+
+Most countries operate a 183 days rule which makes you liable for taxes there on your worldwide income
+if you spend 183 days cumulatively in any 365 day rolling period.
+
+You can use an app like [TaxResident](https://taxresident.app/) to track your days to avoid this:
+
+<https://taxresident.app/>
+
+[Nomads.com](https://nomads.com) also has a section calculating your days per country
+and warning you how many you have left before you become tax resident.
 
 ### Mail Redirection
 
