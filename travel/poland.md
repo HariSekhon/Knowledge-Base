@@ -325,7 +325,8 @@ You can find free parking further out in the suburbs and then take a tram into t
     The Kiwi lemonade was decent, and there are a few cake desserts and ice cream too,
     but I think the main food is the key here, although they also have a decent selection appetizers and snacks too.
     Has wifi
-  - [Pierogarnia Rynek 26](https://maps.app.goo.gl/9GRJGoTSKP2qz7eG7) - the best pierogi I ever had (polish dumplings).
+  - [Pierogarnia Rynek 26](https://maps.app.goo.gl/9GRJGoTSKP2qz7eG7) - chain restaurant across Poland -
+    the best pierogi I ever had (polish dumplings).
     They've taken something usually commodity and turned it into a delicacy.
     The 6 x meat variety were good (I had them boiled,
     you can have them baked too) were good and came with a perfect slightly sweet cream dip.
