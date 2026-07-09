@@ -334,7 +334,7 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
   available until 11:45 weekdays, but all day at weekends. No wifi!!
 - [Restauracja Česká](https://maps.app.goo.gl/DhETuFck1MZ9MmQ48) - czech restaurant, chain of two, the other being my
   favourite in Warsaw. This one has a great outdoor terrace on a main strip if you can get a table on it.
-  Get the classic traditional cesnecka garlic soup, and beef goulash or their duck with cabbage mains
+  Get the classic traditional cesnecka garlic soup starter, and for main their beef goulash or duck with cabbage
 - [Pepik Pub](https://maps.app.goo.gl/NG7tQZUuw88uzYJUA) - czech pub restaurant with traditional dishes and outdoor
   seating.
   The menu isn’t big but it’s decent and reasonably priced as it’s just off the main square.
