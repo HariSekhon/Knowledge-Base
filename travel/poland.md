@@ -364,7 +364,8 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
 
 TODO:
 
-- [Bar Pierożek](https://maps.app.goo.gl/5AwofHV2fmLTNVrB8) - pierogi Polish dumplings, closes early at 9pm, seems like
+- [Ze Smakiem](https://maps.app.goo.gl/mLYCoQWo4foMRWZJ8) - 4.9 pierogi Polish dumplings, closes early at 8pm
+- [Bar Pierożek](https://maps.app.goo.gl/5AwofHV2fmLTNVrB8) - 4.6 pierogi Polish dumplings, closes early at 9pm, seems like
   a foodie place, good menu
 - [Giselle Cafe Bistro](https://maps.app.goo.gl/sTYU8Aqwy1jtvXHi6) - 4.6, good breakfast menu, closes at 7pm
 - [Tandyr House](https://maps.app.goo.gl/Ugr1ZHVxnUgNpxE68) - 4.5, bakery, cheap snack
