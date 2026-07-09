@@ -1369,6 +1369,9 @@ Read this article on [my Medium](https://medium.com/@harisekhon) for more:
 Most countries operate a 183 days rule which makes you liable for taxes there on your worldwide income
 if you spend 183 days cumulatively in any 365 day rolling period.
 
+It's even more aggressive in Europe if you maintain a property there
+and even more aggressive in the UK if you have relatives or property, leaving you with only 15 safe days per tax year!
+
 You can use an app like [TaxResident](https://taxresident.app/) to track your days to avoid this:
 
 <https://taxresident.app/>
