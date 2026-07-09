@@ -361,6 +361,8 @@ got towed away for a temporary sign and I got blackmailed by the police and towi
   perhaps why it was deserted, as the above two cost me 82 pln (£16), plus tip, without any drinks or dessert.
   Waitress said they had bad wifi, and didn't know the wifi password.
   Overall you might want to go with one of the lively places in the Wrocławski Rynek historical market square
+- [Lviv Croissants](https://www.google.com/maps/search/lviv+croissants+wroclaw/) - Ukrainian croissants, widespread in
+  Ukraine, seems it's now arrived in Poland. Good for an affordable snack
 
 TODO:
 
