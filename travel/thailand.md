@@ -7,9 +7,9 @@
 - [Population](#population)
 - [Crime](#crime)
 - [ATMs in Thailand - Cash is Needed](#atms-in-thailand---cash-is-needed)
-- [Mobile Internet in Thailand](#mobile-internet-in-thailand)
-- [Taxis in Thailand](#taxis-in-thailand)
-- [Food in Thailand](#food-in-thailand)
+- [Mobile Internet](#mobile-internet)
+- [Taxis](#taxis)
+- [Food](#food)
 - [Bangkok](#bangkok)
   - [Food in Bangkok](#food-in-bangkok)
 - [Phuket](#phuket)
@@ -92,7 +92,7 @@ so you may as well withdraw a larger sum so you get conned by them less often.
 
 If they offer a conversion fee, decline, your bank may change you 3% but ATMs conversion fees are way higher.
 
-## Mobile Internet in Thailand
+## Mobile Internet
 
 I used True5G which has kiosks all over the airport.
 
@@ -101,13 +101,13 @@ You can get 30 days for around £27 or 180 days for around £30.
 It worked out slightly more expensive than Airalo for 30 days but the 180 day deal is the best price for such a long
 duration that I saw and even beat the Airalo e-sim which I was using more at that time.
 
-## Taxis in Thailand
+## Taxis
 
 If you haven't already set up your card to prepay on the Grab app, you'll need cash.
 
 - [Grab](https://www.grab.com/) - taxi app
 
-## Food in Thailand
+## Food
 
 Thai food is great - Pad Thai, Pad Ka Prow
 (more commonly called Chilli Holy & Basil in Thailand for some reason even though abroad they use its actual name -
