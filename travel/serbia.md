@@ -25,6 +25,9 @@
 
 [Serbia](https://maps.app.goo.gl/uXaipRLR6qp6JdC69) is a landlocked in the middle of the Balkans.
 
+Serbia's best feature is that it is not in the EU so you can still travel to it after your EU 90 day tourist visa has
+expired.
+
 It is the biggest Balkan country by population and uses the Serbian Dinar
 (RSD) which has an exchange rate of about 100 per \$1.
 
