@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Visa](#visa)
 - [Population](#population)
 - [Crime](#crime)
 - [ATMs in Thailand - Cash is Needed](#atms-in-thailand---cash-is-needed)
@@ -37,6 +38,23 @@ beaches, islands, nightlife, clubs etc.
 you can easily go off the rails with additions here.**
 
 Conversely, if you're a health & fitness foodie like me, Thailand is easily one of the best places in the entire world.
+
+## Visa
+
+First world countries like the UK had free visa on arrival for 60 days after Covid to boost tourism but this has now
+been reduced to 30 days.
+
+You need to apply for a visa if you plan on staying longer than 30 days.
+
+> “a number of foreign nationals have been arrested for a range of crimes in recent months, including UK citizens accused of drug smuggling”
+<sup><a href="https://www.bbc.com/news/articles/c78q3qjqnn5o">1</a></sup>
+
+I have personally met such British [immigrant] drug smugglers in Thailand. They've ruined it for the rest of us.
+
+Immigration officials may also ask for:
+
+- proof of outbound flight
+- proof of funds for holiday (to ensure you're not going to work there)
 
 ## Population
 
