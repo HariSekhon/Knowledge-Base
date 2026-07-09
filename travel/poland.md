@@ -386,6 +386,7 @@ TODO:
 - [Red bowl](https://maps.app.goo.gl/YzEQZJ1hFe7STqXF9) - 4.8, asian
 - [Woo Thai Restaurant](https://maps.app.goo.gl/TVqApRfyXv5MmaKv7) - 4.7
 - [Trattoria Tre Angeli](https://maps.app.goo.gl/EHU2okq44CT1WBKm7) - 4.7, Italian
+- [Izakaya Sushi Ramen Rynek Wrocław](https://maps.app.goo.gl/uw4XzcJct6GWEJAA9) - 4.6
 - [Soczewka](https://maps.app.goo.gl/Zc1EysENwjq4J2rJ9) - 4.6, burgers
 - [Banh Mi & Pho](https://maps.app.goo.gl/68GLA3qYfjDEmHfJA) - 4.6, Vietnamese
 - [Dim Sum Garden](https://maps.app.goo.gl/MV9edKvZjvZm4FxA8) - 4.6
