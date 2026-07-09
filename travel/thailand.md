@@ -6,7 +6,7 @@
 - [Visa](#visa)
 - [Population](#population)
 - [Crime](#crime)
-- [ATMs in Thailand - Cash is Needed](#atms-in-thailand---cash-is-needed)
+- [ATMs - Cash is Needed](#atms---cash-is-needed)
 - [Mobile Internet](#mobile-internet)
 - [Taxis](#taxis)
 - [Food](#food)
@@ -83,7 +83,7 @@ although obviously look after your belongings to avoid petty theft too.
 
 [![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=THA~OWID_WRL~UN_AFR~UN_EUR~GBR~Eastern+Asia+%28UN%29)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=THA~OWID_WRL~UN_AFR~UN_EUR~GBR~Eastern+Asia+%28UN%29)
 
-## ATMs in Thailand - Cash is Needed
+## ATMs - Cash is Needed
 
 You will need cash, big time. Thailand is cheap but lots of places do not take cards.
 
