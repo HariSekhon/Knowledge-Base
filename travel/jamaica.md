@@ -104,6 +104,10 @@ Jamaica is a relatively high crime country and I could feel this as I walked aro
 I didn't know which areas were bad until it was too late and I was walking past groups of street guys hanging around -
 which seems like it's everywhere.
 
+I should have been able to guess this based on the demographics of high crime areas in the UK, USA
+and Africa, but for some reason Jamaican propaganda had given me the impression that this place would somehow be
+different.
+
 I struck up a conversation with an off duty police officer in uniform ahead of me in the queue at a Burger King one
 night and asked him what the crime rate was like in Jamaica.
 
