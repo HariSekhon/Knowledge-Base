@@ -151,13 +151,18 @@ Country pages with specific tips for each country:
 
 ### Europe
 
+Most of Europe is in the EU with 90 day tourist visa limit across all countries,
+which is nowhere near enough to travel Europe.
+
+You'd need multiple summer tours as I have done.
+
 You don't realize what big countries France, Spain, Germany and Poland are until you've driven across them!
 
-(I've driven across most of the European countries I've visited, see the [Driving](#driving) section below)
+I've driven across most of the European countries I've visited, see the [Driving](#driving) section below.
 
 Outside of the EU, [Albania](albania.md) and [Montenegro](montenegro.md) are the best current European destinations for
 Brits, Americans, Australians and other foreigners trying to work around the awful EU 90 day tourist visa limit,
-which is not enough for travelling Europe. They both have access to the Mediterranean Sea.
+. They both have access to the Mediterranean Sea.
 [Serbia](serbia.md) is another decent European destination but it is landlocked with no beaches.
 
 - [Albania](travel/albania.md) ⭐
