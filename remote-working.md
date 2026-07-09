@@ -130,8 +130,13 @@ You can use an app like [TaxResident](https://taxresident.app/) to track your da
 
 <https://taxresident.app/>
 
-[Nomads.com](https://nomads.com) also has a section calculating your days per country
+[Nomads.com](https://nomads.com) also has a section auto-calculating your days per country
 and warning you how many you have left before you become tax resident.
+
+The [visa-days-calculator.com](https://visa-days-calculator.com/) site also has a section
+where you can switch to the 183 day tax rule calculator:
+
+<https://visa-days-calculator.com/>
 
 ## Overseas Companies
 
