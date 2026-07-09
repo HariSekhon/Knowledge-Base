@@ -33,7 +33,6 @@ Updated regularly as I travel the world 52 weeks a year.
 <!-- INDEX_START -->
 
 - [Countries](#countries)
-  - [Beware - Visiting Countries that result in US ESTA Travel Ban](#beware---visiting-countries-that-result-in-us-esta-travel-ban)
   - [Europe](#europe)
   - [Asia](#asia)
   - [Middle East & Africa](#middle-east--africa)
@@ -42,6 +41,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Central & South America](#central--south-america)
     - [Central America](#central-america)
     - [South America](#south-america)
+  - [Beware - Visiting Countries that result in US ESTA Travel Ban](#beware---visiting-countries-that-result-in-us-esta-travel-ban)
 - [Booking Sites](#booking-sites)
 - [Travel Checklist](#travel-checklist)
   - [Important](#important)
@@ -148,29 +148,6 @@ Cities: 283
 Country pages with specific tips for each country:
 
 (a ⭐ next to a country represents it's one of my preferred ones)
-
-### Beware - Visiting Countries that result in US ESTA Travel Ban
-
-Travelling to any of the following countries will result in you being banned from a US ESTA to enter the USA:
-
-- Iraq
-- Iran
-- Libya
-- North Korea
-- Somalia
-- Sudan
-- Syria
-- Yemen
-
-Once that happens you will need to apply a a full US visa to enter any US territory,
-even Puerto Rico, even for a transit connecting flight -
-which severely limits your long distance flights which often require stopovers in US cities.
-
-The cost of a full US visa application is closer to \$200 instead of \$40 for the ESTA.
-
-From the US Gov website:
-
-[Visa Waiver Program](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html#:~:text=Visa%20Waiver%20Program%20Improvement%20and,Iraq%2C%20Sudan%2C%20or%20Syria.)
 
 ### Europe
 
@@ -318,6 +295,29 @@ surprisingly still do not speak English.
 - [Venezuela](travel/venezuela.md) TODO
 
 -->
+
+### Beware - Visiting Countries that result in US ESTA Travel Ban
+
+Travelling to any of the following countries will result in you being banned from a US ESTA to enter the USA:
+
+- Iraq
+- Iran
+- Libya
+- North Korea
+- Somalia
+- Sudan
+- Syria
+- Yemen
+
+Once that happens you will need to apply a a full US visa to enter any US territory,
+even Puerto Rico, even for a transit connecting flight -
+which severely limits your long distance flights which often require stopovers in US cities.
+
+The cost of a full US visa application is closer to \$200 instead of \$40 for the ESTA.
+
+From the US Gov website:
+
+[Visa Waiver Program](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html#:~:text=Visa%20Waiver%20Program%20Improvement%20and,Iraq%2C%20Sudan%2C%20or%20Syria.)
 
 ## Booking Sites
 
