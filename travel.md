@@ -1403,4 +1403,12 @@ Pristina
 - [Liburnia](https://maps.app.goo.gl/PAmycbRJ2gk2nTEJ9) - highly recommended by my travel buddy
 - [Bukë e Zemër](https://maps.app.goo.gl/DNi7sLHCn3PCmeEt9) - recommended by a frequent travel buddy of mine
 
+New Zealand
+
+South Island is the nice bit because it has the nature, mountains, skiing and activities.
+
+Bay of Islands.
+
+Wellington is the capital but small, Auckland is the biggest city by far.
+
 -->
