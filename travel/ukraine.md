@@ -31,7 +31,8 @@ on my bookings.
 Hours of heavy downpour and the streets were flooded there was no way to cross roads
 without going ankle deep and soaking your shoes and lower trousers.
 I was soaked, cold and dripping top to bottom even with an umbrella.
-It's rare to see such aggressive rains in other parts of the world, and their lack of adqueate drainage.
+It's rare to see such aggressive rains in other parts of the world, and they lacked adequate drainage for it leaving
+the roads flooded.
 
 There are hundreds of destinations in Europe that would be ahead of Ukraine to visit as a tourist.
 
