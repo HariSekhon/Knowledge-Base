@@ -264,6 +264,8 @@ It is generally also not a foodie destination,
 as if you're willing to pay high western prices I can find good restaurants anywhere in the world,
 and have done as evidenced in the many country specific pages.
 
+Carribean countries with African descended populations are dangerous, including Jamaica, Haiti etc.
+
 - [Curacao](travel/curacao.md)
 - [Cuba](travel/cuba.md) (skipped for reasons listed in page)
 - [Dominican Republic](travel/dominican-republic.md)
