@@ -277,6 +277,14 @@ Wroclaw is a 1000 year old city with a very good Market Square.
 
 I was surprised how nice it is, I didn't even think to go here on my first trip to Poland!
 
+<!--
+
+- [Hostel Wratislavia](https://maps.app.goo.gl/XbRLEEER5Gvu9Uet8) - cheap and good,
+  but they charge 5 PLN extra per day for use of kitchen and the wifi signal was patchy
+- [Babel Hostel](https://maps.app.goo.gl/p4LC9JSyFUqB8Hv59) - not as nice inside as Wratislavia, smaller
+
+-->
+
 #### Attractions in Wroclaw
 
 - [Rynek we Wrocławiu](https://maps.app.goo.gl/HVxsrTTneQ1EDHmy5) - town square, one of the largest in Europe,
