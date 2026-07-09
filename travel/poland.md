@@ -305,6 +305,12 @@ Parking in Wroclaw is a problem, the train station costs €12 per day, while th
 got towed away for a temporary sign and I got blackmailed by the police and towing company for €120 to get it back!
 (€20 fine, €80 towing charge, 2 x €10 per day storage charge ffs)
 
+You can find free parking further out in the suburbs and then take a tram into the centre in about 15 minutes:
+
+- [Krynicka](https://maps.app.goo.gl/LiJ4sW2bNubPDqJ36)
+- [Orzechowa](https://maps.app.goo.gl/zqQDD9PQkrgPKQF77)
+- [Świeradowska](https://maps.app.goo.gl/yqFfVxiEV3vKmnr87)
+
 #### Restaurants in Wroclaw
 
 - [Wrocławski Rynek](https://maps.app.goo.gl/UY1nAXGukyFXJ1em6) - the historical town square has many restaurants to try:
