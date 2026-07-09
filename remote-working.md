@@ -126,17 +126,13 @@ if you spend 183 days cumulatively in any 365 day rolling period.
 It's even more aggressive in Europe if you maintain a property there
 and even more aggressive in the UK if you have relatives or property, leaving you with only 15 safe days per tax year!
 
-You can use an app like [TaxResident](https://taxresident.app/) to track your days to avoid this:
-
-<https://taxresident.app/>
+You can use an app like [TaxResident](https://taxresident.app/) to track your days to avoid this.
 
 [Nomads.com](https://nomads.com) also has a section auto-calculating your days per country
 and warning you how many you have left before you become tax resident.
 
 The [visa-days-calculator.com](https://visa-days-calculator.com/) site also has a section
-where you can switch to the 183 day tax rule calculator:
-
-<https://visa-days-calculator.com/>
+where you can switch to the 183 day tax rule calculator.
 
 ## Overseas Companies
 
