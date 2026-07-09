@@ -9,6 +9,7 @@
 - [Offshore Payroll is Super Easy](#offshore-payroll-is-super-easy)
 - [Offshore Compliance](#offshore-compliance)
 - [Avoid Taxes Legally](#avoid-taxes-legally)
+  - [Avoid Tax Residency](#avoid-tax-residency)
 - [Overseas Companies](#overseas-companies)
   - [No UK Ltds - Boycott This](#no-uk-ltds---boycott-this)
   - [US LLC](#us-llc)
@@ -116,6 +117,21 @@ exploiting you:
 [Tax Advice for Emigrating or going Digital Nomad](https://medium.com/@harisekhon/tax-advice-for-emigrating-or-going-digital-nomad-c100fba461ed)
 
 [How Do I Follow You to Emigrate and Escape the UK Decline?](https://medium.com/@harisekhon/how-do-i-follow-you-to-emigrate-and-escape-from-the-uk-decline-bff1ca8996d5)
+
+### Avoid Tax Residency
+
+Most countries operate a 183 days rule which makes you liable for taxes there on your worldwide income
+if you spend 183 days cumulatively in any 365 day rolling period.
+
+It's even more aggressive in Europe if you maintain a property there
+and even more aggressive in the UK if you have relatives or property, leaving you with only 15 safe days per tax year!
+
+You can use an app like [TaxResident](https://taxresident.app/) to track your days to avoid this:
+
+<https://taxresident.app/>
+
+[Nomads.com](https://nomads.com) also has a section calculating your days per country
+and warning you how many you have left before you become tax resident.
 
 ## Overseas Companies
 
