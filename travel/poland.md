@@ -379,6 +379,13 @@ You can find free parking further out in the suburbs and then take a tram into t
   Overall you might want to go with one of the lively places in the Wrocławski Rynek historical market square
 - [Lviv Croissants](https://www.google.com/maps/search/lviv+croissants+wroclaw/) - Ukrainian croissants, widespread in
   Ukraine, seems it's now arrived in Poland. Good for an affordable snack
+- [Pierogarnia Trzy siostry](https://maps.app.goo.gl/LGZMuF5sFo2JL4QM7) - cheaper local eats place with nice decor.
+  At first I wasn’t impressed as they didn’t have 2/3 of the menu items of Pierogi, limited soft drinks menu,
+  and the staff lady barely spoke any English.
+  However, the meat and liver & cranberry pierogi were actually decent and enough food to do a mix of these 2 half
+  portions of 5 each, which was a full plate of food.
+  Ordering 10 each would be overkill.
+  No WiFi
 
 TODO:
 
