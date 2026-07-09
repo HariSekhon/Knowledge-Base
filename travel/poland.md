@@ -395,6 +395,7 @@ TODO:
   pricey
 - [Culto](https://maps.app.goo.gl/8fBwkDWptoqG3XSL8) - 4.5, trendy with unusual menu of ramen soups, few burgers,
   tartare and seasonal asian venue
+- [Steakownia](https://www.google.com/maps/search/lviv+croissants+wroclaw/) - only 4.3 rating
 
 #### Groceries in Wroclaw
 
