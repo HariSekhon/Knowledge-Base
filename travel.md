@@ -211,6 +211,9 @@ Brits, Americans, Australians and other foreigners trying to work around the awf
 
 ### Asia
 
+Asia is the best overall in terms of value for money, food, weather, safety, and generally good people and resulting
+civilization.
+
 - [Cambodia](travel/cambodia.md)
 - [Indonesia](travel/indonesia.md) (Bali) ⭐
 - [Laos](travel/laos.md)
