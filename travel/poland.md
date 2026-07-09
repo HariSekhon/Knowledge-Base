@@ -296,6 +296,7 @@ I was surprised how nice it is, I didn't even think to go here on my first trip 
   - [Pasaż Grunwaldzki](https://maps.app.goo.gl/mijJVyLMqz3JEPaD8)
   - [Galeria Dominikańska](https://maps.app.goo.gl/1i6wRFqYgpvKFwdt5) - mid-sized straight mall on 3 levels,
     mix of international and local shops
+  - [Magnolia Park](https://maps.app.goo.gl/4M386BQXqazRs5rn8)
 - Africanarium - dedicated to African animals - sharks, crocodiles, turtles, hippos
 - [Odrarium Zzoo](https://maps.app.goo.gl/7eqtZtiZodgHNyFh9)
 
