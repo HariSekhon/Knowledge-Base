@@ -230,7 +230,7 @@ The Middle East is a mixed bag and varies greatly depending on the specific coun
 
 The rich gulf countries are great,
 primarily because they are intolerant of foreign (or local) criminals or democratic decline,
-so they're safe, clean and highly civilized, although expensive.
+so they're safe, clean and highly civilized, although expensive due to all the rich people flocking there.
 
 I have little interest in sub-saharan Africa as it is the worst civilization continent by a million miles -
 see my learnings from my time working in South Africa on its page below for shocking details.
