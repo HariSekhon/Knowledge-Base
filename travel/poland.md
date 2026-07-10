@@ -290,8 +290,8 @@ Wroclaw is a 1000 year old city with a very good Market Square.
 
 I was surprised how nice it is, I didn't even think to go here on my first trip to Poland!
 
-There is a Zabka on every 2nd road in the centre of Wroclaw and so many restaurants you won't have time to work your way
-through them all.
+There is a Zabka convenience store on every 2nd road in the centre of Wroclaw and so many restaurants you won't have
+time to work your way through them all.
 
 <!--
 
