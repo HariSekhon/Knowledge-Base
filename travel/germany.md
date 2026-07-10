@@ -45,6 +45,8 @@ attractive place to visit on a value-for-money basis, but it does have some inte
 Overall this is not one of the places people rave about to return to for the great time they had for their money,
 but is definitely worth seeing once or twice (more if you know what you're doing or have some local connections).
 
+The best clubs in Germany are not the nightclubs - those are legacy - but that is a topic for in-person.
+
 ## Driving in Germany
 
 The autobahn - the german highway - is long.
