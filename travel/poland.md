@@ -348,6 +348,10 @@ You can find free parking further out in the suburbs and then take a tram into t
 - [Folgujemy](https://maps.app.goo.gl/8h5fb6W99gtENVcU7) - small gentrified bistro, the scrambled eggs were good (30pln)
   , add the bacon (+6pln) and avocado (+8pln) = 44pln (£8.60). Breakfast is only
   available until 11:45 weekdays, but all day at weekends. No wifi!!
+- [Ze Smakiem](https://maps.app.goo.gl/mLYCoQWo4foMRWZJ8) - Polish pierogi dumplings, duck & cranberry, beef & mushroom.
+  The dumplings were good quality, albeit a bit bland, the duck needed more cranberry.
+  Small venue with 3 duo tables and some cushion seating around it.
+  Closes early at 8pm. No wifi
 - [Restauracja Česká](https://maps.app.goo.gl/DhETuFck1MZ9MmQ48) - czech restaurant, chain of two, the other being my
   favourite in Warsaw. This one has a great outdoor terrace on a main strip if you can get a table on it.
   Get the classic traditional cesnecka garlic soup starter, and for main their beef goulash or duck with cabbage
@@ -389,7 +393,6 @@ You can find free parking further out in the suburbs and then take a tram into t
 
 TODO:
 
-- [Ze Smakiem](https://maps.app.goo.gl/mLYCoQWo4foMRWZJ8) - 4.9 pierogi Polish dumplings, closes early at 8pm
 - [Bar Pierożek](https://maps.app.goo.gl/5AwofHV2fmLTNVrB8) - 4.6 pierogi Polish dumplings, closes early at 7pm,
   seems like a foodie place, good menu
 - [Giselle Cafe Bistro](https://maps.app.goo.gl/sTYU8Aqwy1jtvXHi6) - 4.6, good breakfast menu, closes at 7pm
