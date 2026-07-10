@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+  - [Polish Brands](#polish-brands)
 - [East Poland](#east-poland)
   - [Warsaw](#warsaw)
     - [Metro in Warsaw](#metro-in-warsaw)
@@ -54,6 +55,18 @@ major towns and cities.
 - Large country that takes 6-8 hours to drive across
 - Parking is often cheap or free after 8pm in central Warsaw, which is great for going out to get dinner in the centres
 - Good cheap Metro in Warsaw
+
+### Polish Brands
+
+There are Zabka convenience stores everywhere.
+
+Oshee is a Polish sports & vitamin water drink brand you can find in every Zabka in several different flavours -
+Multifruit is my favourite, but the Strawberry Lemonade vitamin water is also good.
+
+Dr Witt is another Polish vitamin water drink - the Mango flavour was good.
+
+The Wittchen brand is Polish and half the price of Samsonite, so if you need to replace your luggage,
+this is the 2nd place in the world I've found after Panama which had the cheapest Samsonite suitcases.
 
 ## East Poland
 
