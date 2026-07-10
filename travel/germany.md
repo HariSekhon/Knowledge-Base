@@ -39,8 +39,8 @@ and being a multi-ethnic society you will often come across and want to eat in f
 Like the UK you tend to see more older natives and younger foreigners.
 
 Salaries are among the highest in Europe (that's not saying much to be honest) but the taxes and cost of living are
-relatively high too and you feel this whenever you go to even some simple food, so overall it's not the most attractive
-place to visit on a value-for-money basis, but it does have some interesting architecture.
+relatively high too and you feel this whenever you go to even a simple restaurant, so overall it's not the most
+attractive place to visit on a value-for-money basis, but it does have some interesting architecture.
 
 Overall this is not one of the places people rave about to return to for the great time they had for their money,
 but is definitely worth seeing once or twice (more if you know what you're doing or have some local connections).
