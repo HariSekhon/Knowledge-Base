@@ -520,6 +520,8 @@ but more useful as a stopover town for a bathroom break and refreshments, althou
 - [Fontanna Neptuna](https://maps.app.goo.gl/YDMA7yuGwdz7S84w9)
 - [Legnica zachwyca](https://maps.app.goo.gl/wTKXXo4EQMZMmTcR8) - Legnica sign with the backdrop of the cathedral and
   bank
+- [St. John the Baptist Church](https://maps.app.goo.gl/2wC8Gq2aiwPHPMFQA)
+  - [Monastery of Friars Minor Conventual (Franciscans) in Legnica](https://maps.app.goo.gl/ATPqC1iE1XKiW9KCA)
 - [Piast Castle in Legnica](https://maps.app.goo.gl/mRVRQJYd1TEGE7yQ6)
 - [City Park in Legnica](https://maps.app.goo.gl/L7EKAtREwx398SXc7) - large lush park with trees giving shade along the
   walking paths and a couple of ponds with fountains and an arch that sprays mist you can walk through to cool down
