@@ -520,7 +520,8 @@ but more useful as a stopover town for a bathroom break and refreshments, althou
 - [Dawna siedziba Gestapo i UB](https://maps.app.goo.gl/ANemdGPEuekn2qTM9) -
   former headquarters of the Gestapo, now an abandoned building.
   Do NOT go here alone, it is it looks dangerous and isolated and filthy as an abandoned building with rubbish
-  throughout, it looks like it might have squatters
+  throughout, it looks like it might have squatters.
+  Overall I don't think this is worth the detour
 
 ## Central Poland
 
