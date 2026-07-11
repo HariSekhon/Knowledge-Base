@@ -522,6 +522,8 @@ but more useful as a stopover town for a bathroom break and refreshments, althou
   Do NOT go here alone, it is it looks dangerous and isolated and filthy as an abandoned building with rubbish
   throughout, it looks like it might have squatters.
   Overall I don't think this is worth the detour
+- [Wieża ciśnień](https://maps.app.goo.gl/yUCRw97gVFDCQqD47) - on the wrong side of the train tracks, I don't think this
+  is worth the detour either
 
 ## Central Poland
 
