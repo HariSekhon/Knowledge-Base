@@ -174,6 +174,14 @@ Coventry is a complete dump by comparison to Dresden.
   Sirloin steak but why settle for something so common when you have this menu
   (although it does come with Tasmanian mountain pepper butter).
   Wifi is open capture portal 7/10 Mbit/s
+- [Kutscherschänke - Uriges Wirtshau](https://maps.app.goo.gl/pLfTUqNTBhoSBjwY6) - the Saxon black beer meat of beef with onions, red cabbage and homemade
+  pretzel dumplings was of a very Czech style.
+  The beef in gravy is soaked up by the 3 bread-like dumpling slices and the red cabbage is like sauerkraut.
+  Overall it's a little salty so you will need a drink.
+  They have a decent selection of drinks but the juices are tiny 0.2l, and even the lemonades are only 0.3l.
+  Anybody would think this is a poor country that they can't afford proper portion sizes.
+  The wellness lemonades of lemon and lime and soda was pretty good, refreshing and fizzy, nice on top of the food.
+  Has wifi
 - [Wilma Wunder Dresden](https://maps.app.goo.gl/dQytPtuNovsXJ39a9) - tourist trap restaurant chain but has a good
   seating and view of the Altmarkt square. Stopped here in a pinch since my first choice Rauschenbach deli was closed.
   The eggs benedict with smoked salmon was ok quality but small for €17!
@@ -183,8 +191,6 @@ Coventry is a complete dump by comparison to Dresden.
 
 TODO:
 
-- [Kutscherschänke - Uriges Wirtshau](https://maps.app.goo.gl/pLfTUqNTBhoSBjwY6) - go for the Saxon black beer meat of
-  beef with onions, red cabbage and homemade pretzel dumplings
 - [Rauschenbach deli](https://maps.app.goo.gl/SQHHhKqAcSyrMnYd8) - was closed for the week but not updated on Google Maps
 
 ## Dusseldorf
