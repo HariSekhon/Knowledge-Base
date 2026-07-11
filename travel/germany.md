@@ -282,7 +282,7 @@ It's useful as a stopover town when driving between Germany and Poland.
 ### Attractions in Gorlitz
 
 - [Old Town Bridge](https://maps.app.goo.gl/mjAHY8Bdd5HauUnQ8) - separating Germany and Poland
-  - [Zespół młyna przy ul. Wrocławskiej](Zespół młyna przy ul. Wrocławskiej) - tower on the Polish side of the bridge
+  - [Zespół młyna przy ul. Wrocławskiej](https://maps.app.goo.gl/c8YFdVS82Zhc2qcs9) - tower on the Polish side of the bridge
 - [Rathaustreppe](https://maps.app.goo.gl/sHBLK2kGPsgQwo7y5)
 - Lower Market Square:
   - [The Scale](https://maps.app.goo.gl/AuHEVZo7ieVjHdtv8)
