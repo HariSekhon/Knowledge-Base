@@ -504,7 +504,8 @@ Most of this border town is on the German side, so see the [Gorlitz](germany.md#
 ### Legnica
 
 [Legnica](https://maps.app.goo.gl/YaQtQebBoYuEDziu9) is a small town with a little architecture
-but more useful as a stopover town for a bathroom break and refreshments, although it does have a nice park and centre.
+but more useful as a stopover town for a bathroom break and refreshments, although it does have a nice park and small
+centre with a cathedral.
 
 #### Parking in Legnica
 
