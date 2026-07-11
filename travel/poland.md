@@ -514,6 +514,8 @@ but more useful as a stopover town for a bathroom break and refreshments, althou
 #### Attractions in Legnica
 
 - [Rynek w Legnicy](https://maps.app.goo.gl/dFmwWCYX6Tru5mr57) - market area of shops
+  - [Kamieniczka pod przepiórczym koszem](https://maps.app.goo.gl/AmezeA8HjwreYAzr9) - historic building -
+    _"The Little House Under the Quail Basket"_
 - [Sts. Peter and Paul Cathedral](https://maps.app.goo.gl/yCVCwpsUiMz51RPT7)
 - [Legnica zachwyca](https://maps.app.goo.gl/wTKXXo4EQMZMmTcR8) - Legnica sign with the backdrop of the cathedral and
   bank
