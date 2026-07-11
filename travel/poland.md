@@ -519,6 +519,7 @@ but more useful as a stopover town for a bathroom break and refreshments, althou
   walking paths and a couple of ponds with fountains and an arch that sprays mist you can walk through to cool down
   - [Śpiący Lew pomnik wojen o zjednoczenie Niemiec](https://maps.app.goo.gl/qKR3d4V6PafaaUVz6) - Sleeping Lion statue –
     monument to the Wars of German Unification
+  - [Fontanna Multimedialna w Parku Miejskim w Legnicy](https://maps.app.goo.gl/cyVaeKd8hapQL44H6)
   - [Silownia WorkOut LBO 2015](https://maps.app.goo.gl/CEA9CFyLkopohKhz7) - free street gym calisthenic workout bars
   - [Toaleta publiczna](https://maps.app.goo.gl/SsWo88LQHKTUXCKfA) - has public toilet but you'd need to take your own
     toilet paper
