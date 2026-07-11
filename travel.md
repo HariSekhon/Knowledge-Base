@@ -277,7 +277,7 @@ Caribbean countries with African descended populations are dangerous, including 
 ### Central & South America
 
 Capital cities here are not the attraction, but more transit points - the attractions are usually the coasts, nature,
-volcanos, or historic archaeological sites.
+volcanoes, or historic archaeological sites.
 
 Has adopted the American tipping culture, so expect to add 10% service and often menus do not include taxes,
 which can be another 12-17%, so factor in an additional 25% on any menu prices if you're budget conscious.
