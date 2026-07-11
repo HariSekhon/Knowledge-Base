@@ -24,7 +24,7 @@ Short links to this page:
 
 Travel Log: <https://nomads.com/@harisekhon>
 
-I've worked on 4 continents and travelled to 40+ countries and 100+ cities.
+I've worked on 4 continents and travelled to 70+ countries and 250+ cities.
 
 Whether Consulting internationally or visiting for a holiday, here are some useful tips from my extensive travels.
 
