@@ -517,6 +517,8 @@ but more useful as a stopover town for a bathroom break and refreshments, althou
 - [Piast Castle in Legnica](https://maps.app.goo.gl/mRVRQJYd1TEGE7yQ6)
 - [City Park in Legnica](https://maps.app.goo.gl/L7EKAtREwx398SXc7) - large lush park with trees giving shade along the
   walking paths and a couple of ponds with fountains
+  - [Toaleta publiczna](https://maps.app.goo.gl/SsWo88LQHKTUXCKfA) - has public toilet but you'd need to take your own
+    toilet paper
 - [Dawna siedziba Gestapo i UB](https://maps.app.goo.gl/ANemdGPEuekn2qTM9) -
   former headquarters of the Gestapo, now an abandoned building.
   Do NOT go here alone, it is it looks dangerous and isolated and filthy as an abandoned building with rubbish
