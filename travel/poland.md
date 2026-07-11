@@ -3,7 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
-  - [Polish Brands](#polish-brands)
+- [Polish Brands](#polish-brands)
 - [Taxis in Poland](#taxis-in-poland)
 - [East Poland](#east-poland)
   - [Warsaw](#warsaw)
@@ -57,7 +57,7 @@ major towns and cities.
 - Parking is often cheap or free after 8pm in central Warsaw, which is great for going out to get dinner in the centres
 - Good cheap Metro in Warsaw
 
-### Polish Brands
+## Polish Brands
 
 There are Zabka convenience stores everywhere.
 
