@@ -11,6 +11,8 @@
 - [Brandenburg](#brandenburg)
 - [Cologne](#cologne)
 - [Dresden](#dresden)
+  - [Attractions in Dresden](#attractions-in-dresden)
+  - [Restaurants in Dresden](#restaurants-in-dresden)
 - [Dusseldorf](#dusseldorf)
 - [Essen](#essen)
 - [Frankfurt](#frankfurt)
@@ -44,6 +46,9 @@ attractive place to visit on a value-for-money basis, but it does have some inte
 
 Overall this is not one of the places people rave about to return to for the great time they had for their money,
 but is definitely worth seeing once or twice (more if you know what you're doing or have some local connections).
+
+Coming back from [Poland](poland.md) I also miss the Zabka convenience stores everywhere to get drinks and snacks,
+compared to things in Germany being closed by 10pm.
 
 The best clubs in Germany are not the nightclubs - those are legacy - but that is a topic for in-person.
 
@@ -137,6 +142,12 @@ Surprisingly nice, lots of historic architecture has survived the war, unlike Co
 (both cities were victims of war crime bombings by both sides in WWII to try to demoralize the other side).
 
 Coventry is a complete dump by comparison to Dresden.
+
+### Attractions in Dresden
+
+- [Dresden Zwinger](https://maps.app.goo.gl/bergfvW1ymUYAUTm7)
+
+### Restaurants in Dresden
 
 - [Ayers Rock](https://maps.app.goo.gl/3pSVvUWNEmTQL6Ev5) - Australian restaurant with excellent menu.
   Had to do the Kangaroo steak, which comes with glazed granny smith horizontal apple slices,
