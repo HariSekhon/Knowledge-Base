@@ -297,8 +297,8 @@ It's useful as a stopover town when driving between Germany and Poland.
 - [Upper Market Square](https://maps.app.goo.gl/pCnNCLUaia9zmyHn7) - small shops and cafes run along both sides, thre is also paid parking in the centre
   - [Fountain of St. George](https://maps.app.goo.gl/tQDHWFJJ2QnuMofY7)
   - [Holy Trinity Church](https://maps.app.goo.gl/e4in178xeWW8QVzN8)
-- [Reichenbach Tower](https://maps.app.goo.gl/bgP5y3ECSQfebkN86)
-- [Kaisertrutz Bastion](https://maps.app.goo.gl/QPiSoT8wNW4FAUmKA) - museum
+  - [Reichenbach Tower](https://maps.app.goo.gl/bgP5y3ECSQfebkN86)
+  - [Kaisertrutz Bastion](https://maps.app.goo.gl/QPiSoT8wNW4FAUmKA) - museum
 
 ### Restaurants in Gorlitz
 
