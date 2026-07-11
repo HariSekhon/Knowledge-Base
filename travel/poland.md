@@ -296,7 +296,8 @@ time to work your way through them all.
 <!--
 
 - [Hostel Wratislavia](https://maps.app.goo.gl/XbRLEEER5Gvu9Uet8) - cheap and good,
-  but they charge 5 PLN extra per day for use of kitchen and the wifi signal was patchy
+  but they charge 5 PLN extra per day for use of kitchen.
+  Wifi 96/48 Mbit/s in the lobby but signal was patchy in room, frustrating
 - [Babel Hostel](https://maps.app.goo.gl/p4LC9JSyFUqB8Hv59) - not as nice inside as Wratislavia, smaller
 
 -->
