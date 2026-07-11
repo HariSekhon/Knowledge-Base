@@ -519,6 +519,7 @@ but more useful as a stopover town for a bathroom break and refreshments, althou
   walking paths and a couple of ponds with fountains and an arch that sprays mist you can walk through to cool down
   - [Śpiący Lew pomnik wojen o zjednoczenie Niemiec](https://maps.app.goo.gl/qKR3d4V6PafaaUVz6) - Sleeping Lion statue –
     monument to the Wars of German Unification
+  - [Silownia WorkOut LBO 2015](https://maps.app.goo.gl/CEA9CFyLkopohKhz7) - free street gym calisthenic workout bars
   - [Toaleta publiczna](https://maps.app.goo.gl/SsWo88LQHKTUXCKfA) - has public toilet but you'd need to take your own
     toilet paper
 - [Dawna siedziba Gestapo i UB](https://maps.app.goo.gl/ANemdGPEuekn2qTM9) -
