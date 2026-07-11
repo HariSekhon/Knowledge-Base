@@ -1282,7 +1282,8 @@ but also compare prices directly on the ferry sites themselves as you can avoid 
 directferries comparison site.
 
 - [IrishFerries](https://www.irishferries.com/) - I've used this as they have frequent sailings at moderate prices -
-  Calais <=> Dover, but no sailings to/from Dunkirk
+  Calais <=> Dover, but no sailings to/from Dunkirk.
+  Prices were higher in July than May
 
 ### Car Insurance
 
