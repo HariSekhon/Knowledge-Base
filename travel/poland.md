@@ -4,6 +4,7 @@
 
 - [Summary](#summary)
   - [Polish Brands](#polish-brands)
+- [Taxis in Poland](#taxis-in-poland)
 - [East Poland](#east-poland)
   - [Warsaw](#warsaw)
     - [Metro in Warsaw](#metro-in-warsaw)
@@ -67,6 +68,11 @@ Dr Witt is another Polish vitamin water drink - the Mango flavour was good.
 
 The Wittchen brand is Polish and half the price of Samsonite, so if you need to replace your luggage,
 this is the 2nd place in the world I've found after Panama which had the cheapest Samsonite suitcases.
+
+## Taxis in Poland
+
+- [Bolt](https://bolt.eu/en-pl/) - was consistently cheaper than Uber for me but check both
+- [Uber](https://www.uber.com/pl/en/)
 
 ## East Poland
 
