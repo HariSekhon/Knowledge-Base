@@ -33,6 +33,7 @@
   - [Nowy Sącz](#nowy-sącz)
     - [Częstochowa](#częstochowa)
 - [West Poland](#west-poland)
+  - [Gorlitz](#gorlitz)
   - [Poznan](#poznan)
   - [Bydgoszcz](#bydgoszcz)
 - [Central Poland](#central-poland)
@@ -473,6 +474,11 @@ Nice small centre, good for a coffee stopover on road trip between Poland and Sl
 Not much there, dead if you're trying to use it for a late night stopover to/from Slovakia.
 
 ## West Poland
+
+### Gorlitz
+
+Most of this border town is on the German side, so see the [Gorlitz](germany.md#gorlitz) section on the
+[Germany](germany.md#gorlitz) page.
 
 ### Poznan
 
