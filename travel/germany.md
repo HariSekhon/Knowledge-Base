@@ -281,10 +281,12 @@ It's useful as a stopover town when driving between Germany and Poland.
 
 ### Attractions in Gorlitz
 
+- [Pfarrkirche St. Peter und Paul (Peterskirche)](https://maps.app.goo.gl/Xhu9f4AAWyFPiYf68)
 - [Old Town Bridge](https://maps.app.goo.gl/mjAHY8Bdd5HauUnQ8) - separating Germany and Poland
   - [Zespół młyna przy ul. Wrocławskiej](https://maps.app.goo.gl/c8YFdVS82Zhc2qcs9) - tower on the Polish side of the
     bridge
 - [Rathaustreppe](https://maps.app.goo.gl/sHBLK2kGPsgQwo7y5)
+- [Whispering Arch](https://maps.app.goo.gl/FuC12wY1aWiZGKcG7)
 - Lower Market Square:
   - [The Scale](https://maps.app.goo.gl/AuHEVZo7ieVjHdtv8)
   - [Fountain of Neptune](https://maps.app.goo.gl/QmjsFQD6vPsVPpUJ6)
