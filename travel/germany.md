@@ -301,6 +301,7 @@ It's useful as a stopover town when driving between Germany and Poland.
 
 - [Sweet Border - Lodziarnia](https://maps.app.goo.gl/15JZo4TJZrDKESVp8) - Polish ice cream shop on the Polish side of
   the bridge
+- [Food Park](https://maps.app.goo.gl/izRNUH7BPK5YmSyB9) - couples street food places on the Polish side of the bridge
 - [Casa Nova](https://maps.app.goo.gl/DPY7kiTt9eYpsBPH9) -  - think I got a drink here last time I was in Gorlitz
   (or the place next door), just as it's a convenient location
   - [N13 Bistro & Bar](https://maps.app.goo.gl/QZ6wpt2MYYYSncNKA)
