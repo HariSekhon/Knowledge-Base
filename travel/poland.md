@@ -33,9 +33,12 @@
   - [Nowy Sącz](#nowy-sącz)
     - [Częstochowa](#częstochowa)
 - [West Poland](#west-poland)
-  - [Gorlitz](#gorlitz)
   - [Poznan](#poznan)
   - [Bydgoszcz](#bydgoszcz)
+  - [Gorlitz](#gorlitz)
+  - [Legnica](#legnica)
+    - [Parking in Legnica](#parking-in-legnica)
+    - [Attractions in Legnica](#attractions-in-legnica)
 - [Central Poland](#central-poland)
   - [Łódź](#łódź)
 - [Areas Yet to Explore](#areas-yet-to-explore)
@@ -475,11 +478,6 @@ Not much there, dead if you're trying to use it for a late night stopover to/fro
 
 ## West Poland
 
-### Gorlitz
-
-Most of this border town is on the German side, so see the [Gorlitz](germany.md#gorlitz) section on the
-[Germany](germany.md#gorlitz) page.
-
 ### Poznan
 
 Historic town with lovely town centre and plenty of good restaurants.
@@ -497,6 +495,26 @@ Called the _"Venice of the North"_.
 An excellent stopover choice when driving across Poland.
 
 [Apteka Restauracja & Koktajlbar](https://restauracjaapteka.pl/menu/) is my recommended stop here for dinner and drinks.
+
+### Gorlitz
+
+Most of this border town is on the German side, so see the [Gorlitz](germany.md#gorlitz) section on the
+[Germany](germany.md#gorlitz) page.
+
+### Legnica
+
+[Legnica](https://maps.app.goo.gl/YaQtQebBoYuEDziu9) is a small town with a little architecture
+but more useful as a stopover town for a bathroom break and refreshments, although it does have a nice park and centre.
+
+#### Parking in Legnica
+
+- [Szkolna 9 Parking](https://maps.app.goo.gl/V9KkH6cR6s9tJq4w6) - Paid meter Monday - Friday 9-5pm, but cheap 2 pln
+  (€0.50) per hour and free at weekends
+
+#### Attractions in Legnica
+
+- [City Park in Legnica](https://maps.app.goo.gl/L7EKAtREwx398SXc7) - large lush park with trees giving shade along the
+  walking paths and a couple of ponds with fountains
 
 ## Central Poland
 
