@@ -284,10 +284,12 @@ It's useful as a stopover town when driving between Germany and Poland.
 - [Old Town Bridge](https://maps.app.goo.gl/mjAHY8Bdd5HauUnQ8) - separating Germany and Poland
   - [Zespół młyna przy ul. Wrocławskiej](Zespół młyna przy ul. Wrocławskiej) - tower on the Polish side of the bridge
 - [Rathaustreppe](https://maps.app.goo.gl/sHBLK2kGPsgQwo7y5)
-- [The Scale](https://maps.app.goo.gl/AuHEVZo7ieVjHdtv8)
-- [Fountain of Neptune](https://maps.app.goo.gl/QmjsFQD6vPsVPpUJ6)
-- [Biblisches Haus](https://maps.app.goo.gl/va8ptq5V6S9YPCU36)
-- [Silesian Museum in Görlitz](https://maps.app.goo.gl/LPuwrP73WXhvC1p87)
+- Lower Market Square:
+  - [The Scale](https://maps.app.goo.gl/AuHEVZo7ieVjHdtv8)
+  - [Fountain of Neptune](https://maps.app.goo.gl/QmjsFQD6vPsVPpUJ6)
+  - [BöhmesBottenBaum - Schuhbaum](https://maps.app.goo.gl/p8iyfjADeJTWLz9v7)
+  - [Biblisches Haus](https://maps.app.goo.gl/va8ptq5V6S9YPCU36)
+  - [Silesian Museum in Görlitz](https://maps.app.goo.gl/LPuwrP73WXhvC1p87)
 - [Upper Market Square](https://maps.app.goo.gl/pCnNCLUaia9zmyHn7) - small shops and cafes run along both sides, thre is also paid parking in the centre
   - [Fountain of St. George](https://maps.app.goo.gl/tQDHWFJJ2QnuMofY7)
   - [Holy Trinity Church](https://maps.app.goo.gl/e4in178xeWW8QVzN8)
