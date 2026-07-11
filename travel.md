@@ -1281,8 +1281,8 @@ Use ferry comparison sites:
 but also compare prices directly on the ferry sites themselves as you can avoid a £6 service fee charged by
 directferries comparison site.
 
-- [IrishFerries](https://www.irishferries.com/) - I've used this as they have frequent sailings at moderate prices
-  Calais <=> Dover, but not Dunkirk
+- [IrishFerries](https://www.irishferries.com/) - I've used this as they have frequent sailings at moderate prices -
+  Calais <=> Dover, but no sailings to/from Dunkirk
 
 ### Car Insurance
 
