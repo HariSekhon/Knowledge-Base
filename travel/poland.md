@@ -514,6 +514,7 @@ but more useful as a stopover town for a bathroom break and refreshments, althou
 #### Attractions in Legnica
 
 - [Sts. Peter and Paul Cathedral](https://maps.app.goo.gl/yCVCwpsUiMz51RPT7)
+- [Legnica zachwyca](https://maps.app.goo.gl/wTKXXo4EQMZMmTcR8) - Legnica sign with the backdrop of the cathedral and bank
 - [Piast Castle in Legnica](https://maps.app.goo.gl/mRVRQJYd1TEGE7yQ6)
 - [City Park in Legnica](https://maps.app.goo.gl/L7EKAtREwx398SXc7) - large lush park with trees giving shade along the
   walking paths and a couple of ponds with fountains and an arch that sprays mist you can walk through to cool down
