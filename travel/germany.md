@@ -19,8 +19,13 @@
 - [Freiburg im Breisgau](#freiburg-im-breisgau)
   - [Parking in Freiburg im Breisgau](#parking-in-freiburg-im-breisgau)
   - [Attractions in Freiburg im Breisgau](#attractions-in-freiburg-im-breisgau)
+- [Gorlitz](#gorlitz)
+  - [Parking in Gorlitz](#parking-in-gorlitz)
+  - [Attractions in Gorlitz](#attractions-in-gorlitz)
+  - [Restaurants in Gorlitz](#restaurants-in-gorlitz)
 - [Hanover](#hanover)
 - [Königswinter](#königswinter)
+- [Leipzig](#leipzig)
 - [Munich](#munich)
   - [Attractions in Munich](#attractions-in-munich)
   - [Restaurants in Munich](#restaurants-in-munich)
@@ -256,6 +261,44 @@ TODO:
 - [ehemaliger Turmhelm eines Treppenturms an der Nordseite des Freiburger Münster](https://maps.app.goo.gl/sHpcVYE2s9qp3pVc7)
 - [Museum Natur und Mensch](https://maps.app.goo.gl/z8Yrh7GRkjiMn3jz6) - natural history museum
 
+## Gorlitz
+
+I forgot I'd been to this border town [Gorlitz](https://maps.app.goo.gl/AF6iWAGfCavQSrEX8)  the first time as
+I forgot to document it here.
+
+It has some distinctive architecture and its bridge is the border between Germany and Poland.
+
+I literally walked back into Poland, got an ice cream and walked back.
+There is less on the Polish size, just a couple of street food places.
+
+It's useful as a stopover town when driving between Germany and Poland.
+
+### Parking in Gorlitz
+
+- [Parkplatz Heiliges Grab](https://maps.app.goo.gl/DL3ZJhqCxx2xL9fa9) - free parking about a 10 minute walk from the
+  centre
+- [Upper Market Square](https://maps.app.goo.gl/pCnNCLUaia9zmyHn7) - paid parking slightly more central
+
+### Attractions in Gorlitz
+
+- [Old Town Bridge](https://maps.app.goo.gl/mjAHY8Bdd5HauUnQ8) - separating Germany and Poland
+  - [Zespół młyna przy ul. Wrocławskiej](Zespół młyna przy ul. Wrocławskiej) - tower on the Polish side of the bridge
+- [Rathaustreppe](https://maps.app.goo.gl/sHBLK2kGPsgQwo7y5)
+- [The Scale](https://maps.app.goo.gl/AuHEVZo7ieVjHdtv8)
+- [Fountain of Neptune](https://maps.app.goo.gl/QmjsFQD6vPsVPpUJ6)
+- [Biblisches Haus](https://maps.app.goo.gl/va8ptq5V6S9YPCU36)
+- [Silesian Museum in Görlitz](https://maps.app.goo.gl/LPuwrP73WXhvC1p87)
+- [Upper Market Square](https://maps.app.goo.gl/pCnNCLUaia9zmyHn7) - small shops and cafes run along both sides, thre is also paid parking in the centre
+  - [Fountain of St. George](https://maps.app.goo.gl/tQDHWFJJ2QnuMofY7)
+  - [Holy Trinity Church](https://maps.app.goo.gl/e4in178xeWW8QVzN8)
+- [Reichenbach Tower](https://maps.app.goo.gl/bgP5y3ECSQfebkN86)
+- [Kaisertrutz Bastion](https://maps.app.goo.gl/QPiSoT8wNW4FAUmKA) - museum
+
+### Restaurants in Gorlitz
+
+- [Sweet Border - Lodziarnia](https://maps.app.goo.gl/15JZo4TJZrDKESVp8) - Polish ice cream shop on the Polish side of
+  the bridge
+
 ## Hanover
 
 A city with a lot of middle eastern restaurants.
@@ -267,6 +310,18 @@ A city with a lot of middle eastern restaurants.
 Lovely small germanic town. This is what I imagined German paradise to look like.
 
 [Gasthaus Lichtenberg](https://gasthaus-lichtenberg.de/) is recommended here.
+
+## Leipzig
+
+[Leipzig](https://maps.app.goo.gl/wUDfBSSaKWmfhnWH7) was much nicer than I thought it would be,
+especially around the Market Square where there were lots of permanent hut stalls.
+
+- [5 Elements Hostel](https://maps.app.goo.gl/9XQ6uTuu2kza82j39) - decent facility but wifi is sluggish, blocks pings,
+  fails speedtest and is slow to load Google Maps - frustrating
+
+- [Marktplatz](https://maps.app.goo.gl/eSPDSHTm2CUGgNzc7) - historic market square, very busy at 10pm due to lots of
+  alcohol serving stalls.
+  I don’t think I’ve seen so many alcoholics since England… or the English colony in Thailand 😂
 
 ## Munich
 
