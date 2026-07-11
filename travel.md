@@ -1273,11 +1273,9 @@ You should book ahead of time due to limited slots, and for better pricing.
 
 Use ferry comparison sites:
 
-<https://www.directferries.com/>
-
-<https://www.ferryscanner.com/en/ferry>
-
-<https://www.aferry.com/en-us/>
+- [FerryScanner](https://www.ferryscanner.com/en/ferry)
+- [AFerry](https://www.aferry.com/en-us/)
+- [Direct Ferries](https://www.directferries.com/) - worked out most expensive
 
 but also compare prices directly on the ferry sites themselves as you can avoid a £6 service fee charged by
 directferries comparison site.
