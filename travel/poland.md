@@ -533,6 +533,7 @@ but more useful as a stopover town for a bathroom break and refreshments, althou
   - [Silownia WorkOut LBO 2015](https://maps.app.goo.gl/CEA9CFyLkopohKhz7) - free street gym calisthenic workout bars
   - [Toaleta publiczna](https://maps.app.goo.gl/SsWo88LQHKTUXCKfA) - has public toilet but you'd need to take your own
     toilet paper
+- [Villa Bolka von Richthofena](https://maps.app.goo.gl/RHGJbpCYHbVsEFZz5)
 - [Dawna siedziba Gestapo i UB](https://maps.app.goo.gl/ANemdGPEuekn2qTM9) -
   former headquarters of the Gestapo, now an abandoned building.
   Do NOT go here alone, it is it looks dangerous and isolated and filthy as an abandoned building with rubbish
