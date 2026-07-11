@@ -517,6 +517,7 @@ but more useful as a stopover town for a bathroom break and refreshments, althou
 - [Piast Castle in Legnica](https://maps.app.goo.gl/mRVRQJYd1TEGE7yQ6)
 - [City Park in Legnica](https://maps.app.goo.gl/L7EKAtREwx398SXc7) - large lush park with trees giving shade along the
   walking paths and a couple of ponds with fountains and an arch that sprays mist you can walk through to cool down
+  - [Aleja Orła Białego](https://maps.app.goo.gl/avVKsneVqXZsohc6A) - main tree lined walkway
   - [Śpiący Lew pomnik wojen o zjednoczenie Niemiec](https://maps.app.goo.gl/qKR3d4V6PafaaUVz6) - Sleeping Lion statue –
     monument to the Wars of German Unification
   - [Fontanna Multimedialna w Parku Miejskim w Legnicy](https://maps.app.goo.gl/cyVaeKd8hapQL44H6)
