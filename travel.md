@@ -1273,12 +1273,15 @@ You should book ahead of time due to limited slots, and for better pricing.
 
 Use ferry comparison sites:
 
-- [FerryScanner](https://www.ferryscanner.com/en/ferry)
 - [AFerry](https://www.aferry.com/en-us/)
+- [FerryScanner](https://www.ferryscanner.com/en/ferry) - buggy date entry not accepting DD/MM/YYYY despite its box
+  stating it
 - [Direct Ferries](https://www.directferries.com/) - worked out most expensive
 
 but also compare prices directly on the ferry sites themselves as you can avoid a £6 service fee charged by
 directferries comparison site.
+
+- [IrishFerries](https://www.irishferries.com/) - I've used this as they have frequent sailings at moderate prices
 
 ### Car Insurance
 
