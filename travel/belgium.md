@@ -60,7 +60,7 @@ For only Brussels, you can register for free here, it only takes 5 minutes and l
 
 <https://lez.brussels/mytax/>
 
-Antwerp / Ghent need another different registration. 🙄
+Antwerp / Ghent need another different registration for the Flemish region - Brussels and Flemish LEZ systems are separate. 🙄
 
 ## Brussels
 
