@@ -334,6 +334,8 @@ especially around the Market Square where there were lots of permanent hut stall
   They also make you put all the bed and duvet sheets on yourself -
   I only recall seeing this lazyness in Germany, as if it isn't already an overpriced country
 
+<!-- -->
+
 - [Marktplatz](https://maps.app.goo.gl/eSPDSHTm2CUGgNzc7) - historic market square, very busy at 10pm due to lots of
   alcohol serving stalls.
   I don’t think I’ve seen so many alcoholics since England… or the English colony in Thailand 😂
