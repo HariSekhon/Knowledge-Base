@@ -56,9 +56,11 @@ which is obvious if you've visited its capital Brussels (one of my less favourit
 You do not need any vignettes
 but you do need a low emissions registration to drive in the major cities like Brussels or Antwerp or Ghent.
 
-You can register for free here, it only takes 5 minutes and lasts for 5 years:
+For only Brussels, you can register for free here, it only takes 5 minutes and lasts for 5 years.
 
 <https://lez.brussels/mytax/>
+
+Antwerp / Ghent need another different registration. 🙄
 
 ## Brussels
 
