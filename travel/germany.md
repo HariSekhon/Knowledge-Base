@@ -328,7 +328,11 @@ Lovely small germanic town. This is what I imagined German paradise to look like
 especially around the Market Square where there were lots of permanent hut stalls.
 
 - [5 Elements Hostel](https://maps.app.goo.gl/9XQ6uTuu2kza82j39) - decent facility but wifi is sluggish, blocks pings,
-  fails speedtest and is slow to load Google Maps - frustrating
+  fails speedtest and is slow to load Google Maps - frustrating.
+  There is a full kitchen but guests cannot use it before 11am due to them doing a buffet breakfast for €10.
+  This means you cannot use it on the morning of checkout which is at 11am.
+  They also make you put all the bed and duvet sheets on yourself -
+  I only recall seeing this lazyness in Germany, as if it isn't already an overpriced country
 
 - [Marktplatz](https://maps.app.goo.gl/eSPDSHTm2CUGgNzc7) - historic market square, very busy at 10pm due to lots of
   alcohol serving stalls.
