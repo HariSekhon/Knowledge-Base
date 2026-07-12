@@ -24,6 +24,8 @@
   - [Attractions in Gorlitz](#attractions-in-gorlitz)
   - [Restaurants in Gorlitz](#restaurants-in-gorlitz)
 - [Hanover](#hanover)
+- [Koblenz](#koblenz)
+  - [Parking in Koblenz](#parking-in-koblenz)
 - [Königswinter](#königswinter)
 - [Leipzig](#leipzig)
 - [Munich](#munich)
@@ -315,6 +317,17 @@ It's useful as a stopover town when driving between Germany and Poland.
 A city with a lot of middle eastern restaurants.
 
 [Zambezi Springs](https://www.zambezi-springs.de/) is recommended here - rare access to good African cuisine.
+
+## Koblenz
+
+[Koblenz](https://maps.app.goo.gl/dr3hrJ3xGiFLkavw7)
+
+### Parking in Koblenz
+
+- [Jahnplatz](https://maps.app.goo.gl/bugizn6GzBfwVFXc9) - free parking lot on the east edge of the centre just across
+  the river
+- [Parkplatz Europabrücke](https://maps.app.goo.gl/qdgTunm1jCGGdPCj8) - free parking lot on the north edge of the centre
+  just across the river
 
 ## Königswinter
 
