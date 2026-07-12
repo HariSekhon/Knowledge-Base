@@ -11,6 +11,7 @@
 - [Bruges](#bruges)
 - [Dinant](#dinant)
 - [Ghent / Gent](#ghent--gent)
+- [Hasselt](#hasselt)
 - [Liege](#liege)
 
 <!-- INDEX_END -->
@@ -120,6 +121,12 @@ These two places are both good and affordable:
 
 - [Seli's Noodle Bar](https://www.selinoodlebar.be/)
 - [Soup Lounge](https://www.souplounge.be/)
+
+## Hasselt
+
+Didn't spend long here, but this place was decent for food:
+
+- [Juni Thai Foody](https://maps.app.goo.gl/jDoPpLv2NnDVCm2q9) - 4.7 rating
 
 ## Liege
 
