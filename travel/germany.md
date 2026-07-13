@@ -245,6 +245,7 @@ and I've probably missed a few attractions too.
 - [Liebfrauenberg](https://maps.app.goo.gl/UJ5NXVMUcNmg3gwo9)
 - [Historical Museum](https://maps.app.goo.gl/q5TWkqM3iVeeZgGM9)
 - [Saalhof mit Rententurm](https://maps.app.goo.gl/9sjJzGzKioZu1iTt7) - historic building
+- [Goethe House](https://maps.app.goo.gl/PqzNGJTZtSjoKoG6A)
 - [Zeil](https://maps.app.goo.gl/wcb2h7Fq1dGZGYSn8) - the main high street with the usual brand stores
   - [MyZeil](https://maps.app.goo.gl/DFzGv4AmtZtA3uGB9) - mall
 
