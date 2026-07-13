@@ -280,8 +280,8 @@ TODO:
 
 ## Gorlitz
 
-I forgot I'd been to this border town [Gorlitz](https://maps.app.goo.gl/AF6iWAGfCavQSrEX8)  the first time as
-I forgot to document it here.
+I forgot I'd been to this border town [Gorlitz](https://maps.app.goo.gl/AF6iWAGfCavQSrEX8) the first time
+(probably in 2024) as I forgot to document it here.
 
 It has some distinctive architecture and its bridge is the border between Germany and Poland.
 
