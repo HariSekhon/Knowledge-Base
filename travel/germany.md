@@ -338,7 +338,8 @@ A city with a lot of middle eastern restaurants.
 [Koblenz](https://maps.app.goo.gl/dr3hrJ3xGiFLkavw7) is a good stopover town as it has plenty of cafes, restaurants and
 a mall.
 
-I forgot I'd been here the first time (probably in 2024) but some distinctive parts like the fish reminded me I had.
+I forgot I'd been here before (probably in 2024) as I didn't document it the first time for some reason
+but some distinctive parts like the fish fountain reminded me I had.
 
 ### Parking in Koblenz
 
@@ -353,6 +354,11 @@ I forgot I'd been here the first time (probably in 2024) but some distinctive pa
 
 - [Herz-Jesu-Kirche](https://maps.app.goo.gl/Qc4uTQvk6S3BAHhm6) - church next to the Lohr mall
 - [Löhr Center](https://maps.app.goo.gl/1RNbyqhrt17mLVxv8) - mall
+  - [Rewe](https://maps.app.goo.gl/9he8ZHUzHnjVTJkr5) - drinks and snacks including fresh pressed juices in glass
+    bottles. On top level of the mall
+- [Erfinderbrunnen, Koblenz - Prof. Gernot Rumpf (1983)](https://maps.app.goo.gl/dphwpGMy9PisESfq8)
+- [History Column](https://maps.app.goo.gl/DUk4zmrcCdCiGnJT9)
+- [Konrad-Adenauer-Ufer/Kastorhof](https://maps.app.goo.gl/9QzRbQTBGKRBY5KH9)
 
 ### Restaurants in Koblenz
 
@@ -361,6 +367,12 @@ I forgot I'd been here the first time (probably in 2024) but some distinctive pa
   which was quite sweet.
   The Greek yoghurt with salted chocolate flakes was also good and had some crunch to it.
   €5 for a medium 3 flavours cup but levelled off so not much volume of each flavour
+  - [eGeLoSIa Transit](https://maps.app.goo.gl/hMmevc8hbvJXSRYj9) - another one, but not rated as highly, don't know why
+
+TODO:
+
+- [Nuevo Brunch Café](https://maps.app.goo.gl/d7wn5st7xyCnNDJJ9) - 4.7 bistro
+- [Stadtflair](https://maps.app.goo.gl/xEsNyUNUHKJZsokK9) - 4.6 cafe
 
 ## Königswinter
 
