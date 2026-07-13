@@ -224,6 +224,9 @@ Large metropolitan multicultural city with many restaurants.
 Every time I'm in Frankfurt I am underwhelmed as it's just like every other mass immigrated Western city
 so I feel compelled to leave and go somewhere else in search of something more genuinely German, or Slavic.
 
+As such I don't have as thorough a section on Frankfurt such as restaurants
+and I've probably missed a few attractions too.
+
 - [a&o Frankfurt Galluswarte](https://maps.app.goo.gl/TFe183UtdMpM7b196) - some free street parking, but 10:00 checkout
   and wifi is slow
 
