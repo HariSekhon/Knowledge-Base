@@ -363,6 +363,7 @@ but some distinctive parts like the fish fountain reminded me I had.
 - [Schängel Fountain](https://maps.app.goo.gl/LgxBUsaaJjsPa5NF9)
 - [History Column](https://maps.app.goo.gl/DUk4zmrcCdCiGnJT9)
 - [Konrad-Adenauer-Ufer/Kastorhof](https://maps.app.goo.gl/9QzRbQTBGKRBY5KH9)
+- [Christuskirche](https://maps.app.goo.gl/L3UVC3YhicfBVuwg8) - church
 - [Springbrunnen Schlossvorplatz](https://maps.app.goo.gl/pcUKtNEL47uxsWdB6) - green area with small water fountains
 
 ### Restaurants in Koblenz
