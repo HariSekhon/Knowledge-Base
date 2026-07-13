@@ -364,6 +364,7 @@ but some distinctive parts like the fish fountain reminded me I had.
 - [Schlossvorplatz](https://maps.app.goo.gl/etsyt1a5d1AEWR8w6) - park
   - [Schloss Koblenz](https://maps.app.goo.gl/NRBRevcPmHnvc8uK9) - palace
   - [Springbrunnen Schlossvorplatz](https://maps.app.goo.gl/pcUKtNEL47uxsWdB6) - small water fountains
+- [Lion's Gate](https://maps.app.goo.gl/DvPY9CadZ8NEGNkt8) - didn't find time to see these last couple
 - [Dikasterialgebäude](https://maps.app.goo.gl/hpfUt8Xzp98mB54G6) - across the river from the main city
 
 <!-- -->
