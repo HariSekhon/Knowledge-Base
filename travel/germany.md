@@ -217,7 +217,13 @@ Limited dining options, middle eastern probably being among the best options.
 
 Large metropolitan multicultural city with many restaurants.
 
-[MA'LOA Poké Bowl](https://maloa.com/) is recommended, and [BKK Thai Street Food](https://bkkthaistreetfood.com/) is also popular.
+- [a&o Frankfurt Galluswarte](https://maps.app.goo.gl/TFe183UtdMpM7b196) - some free street parking, but 10:00 checkout
+  and wifi is slow
+
+<!-- -->
+
+- [MA'LOA Poké Bowl](https://maloa.com/)
+- [BKK Thai Street Food](https://bkkthaistreetfood.com/)
 
 ## Freiburg im Breisgau
 
