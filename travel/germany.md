@@ -233,6 +233,13 @@ and I've probably missed a few attractions too.
 ### Attractions in Frankfurt
 
 - [Frankfurt Cathedral](https://maps.app.goo.gl/4jHX1H8KKZJUhMaP7)
+- [Römerberg](https://maps.app.goo.gl/4CBBBs295magvZWz9) - historic market square:
+  - [Frankfurter Römer](https://maps.app.goo.gl/5zXauhbcDdCd4MJv9) - medievil town hall
+  - [Minervabrunnen](https://maps.app.goo.gl/FjqMrcUNyho6RXdY9)
+  - [Fountain of Justice](https://maps.app.goo.gl/NJjGfB92oGqcneUW6)
+  - [Großer und Kleiner Engel](https://maps.app.goo.gl/uYusR4LeJNquRZoB8) - historic building
+  - [Frankfurter Kunstverein](https://maps.app.goo.gl/11YMUZ54ZE7KAHY49) - art museum
+  - [Christmas market Frankfurt](https://maps.app.goo.gl/JwQWk5NVGuncvCPcA) - seasonal, wasn't here in July
 - [Liebfrauenkirche](https://maps.app.goo.gl/LduUSE7Lm4dZpUVs8) - church
 - [Zeil](https://maps.app.goo.gl/wcb2h7Fq1dGZGYSn8) - the main high street with the usual brand stores
   - [MyZeil](https://maps.app.goo.gl/DFzGv4AmtZtA3uGB9) - mall
