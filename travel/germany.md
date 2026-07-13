@@ -26,6 +26,8 @@
 - [Hanover](#hanover)
 - [Koblenz](#koblenz)
   - [Parking in Koblenz](#parking-in-koblenz)
+  - [Attractions in Koblenz](#attractions-in-koblenz)
+  - [Restaurants in Koblenz](#restaurants-in-koblenz)
 - [Königswinter](#königswinter)
 - [Leipzig](#leipzig)
 - [Munich](#munich)
@@ -333,7 +335,10 @@ A city with a lot of middle eastern restaurants.
 
 ## Koblenz
 
-[Koblenz](https://maps.app.goo.gl/dr3hrJ3xGiFLkavw7)
+[Koblenz](https://maps.app.goo.gl/dr3hrJ3xGiFLkavw7) is a good stopover town as it has plenty of cafes, restaurants and
+a mall.
+
+I forgot I'd been here the first time (probably in 2024) but some distinctive parts like the fish reminded me I had.
 
 ### Parking in Koblenz
 
@@ -341,6 +346,21 @@ A city with a lot of middle eastern restaurants.
   the river
 - [Parkplatz Europabrücke](https://maps.app.goo.gl/qdgTunm1jCGGdPCj8) - free parking lot on the north edge of the centre
   just across the river
+- [Parkplatz Löhr-Center](https://maps.app.goo.gl/TwrRx81DH9WWcVUY7) - mall parking, I think I must have parked here the
+  first time
+
+### Attractions in Koblenz
+
+- [Herz-Jesu-Kirche](https://maps.app.goo.gl/Qc4uTQvk6S3BAHhm6) - church next to the Lohr mall
+- [Löhr Center](https://maps.app.goo.gl/1RNbyqhrt17mLVxv8) - mall
+
+### Restaurants in Koblenz
+
+- [eGeLoSia Laden](https://maps.app.goo.gl/59xw5YQ43fASyMnaA) - the _"Mon Cherie"_ chocolate with cherries was my
+  favourite here, the coconut was also good with desiccated coconut texture and colder than the yogurt with raspberry,
+  which was quite sweet.
+  The Greek yoghurt with salted chocolate flakes was also good and had some crunch to it.
+  €5 for a medium 3 flavours cup but levelled off so not much volume of each flavour
 
 ## Königswinter
 
