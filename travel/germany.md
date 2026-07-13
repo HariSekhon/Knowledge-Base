@@ -361,7 +361,8 @@ but some distinctive parts like the fish fountain reminded me I had.
 - [History Column](https://maps.app.goo.gl/DUk4zmrcCdCiGnJT9)
 - [Konrad-Adenauer-Ufer/Kastorhof](https://maps.app.goo.gl/9QzRbQTBGKRBY5KH9)
 - [Christuskirche](https://maps.app.goo.gl/L3UVC3YhicfBVuwg8) - church
-- [Springbrunnen Schlossvorplatz](https://maps.app.goo.gl/pcUKtNEL47uxsWdB6) - green area with small water fountains
+- [Schlossvorplatz](https://maps.app.goo.gl/etsyt1a5d1AEWR8w6) - park
+  - [Springbrunnen Schlossvorplatz](https://maps.app.goo.gl/pcUKtNEL47uxsWdB6) - small water fountains
 
 <!-- -->
 
