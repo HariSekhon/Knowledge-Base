@@ -235,6 +235,7 @@ and I've probably missed a few attractions too.
 - [Frankfurt Cathedral](https://maps.app.goo.gl/4jHX1H8KKZJUhMaP7)
 - [Römerberg](https://maps.app.goo.gl/4CBBBs295magvZWz9) - historic market square:
   - [Frankfurter Römer](https://maps.app.goo.gl/5zXauhbcDdCd4MJv9) - medievil town hall
+  - [Old St Nicholas Church](https://maps.app.goo.gl/pekBezGfPpDZxZDu8)
   - [Minervabrunnen](https://maps.app.goo.gl/FjqMrcUNyho6RXdY9)
   - [Fountain of Justice](https://maps.app.goo.gl/NJjGfB92oGqcneUW6)
   - [Großer und Kleiner Engel](https://maps.app.goo.gl/uYusR4LeJNquRZoB8) - historic building
