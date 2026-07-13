@@ -241,6 +241,8 @@ and I've probably missed a few attractions too.
   - [Großer und Kleiner Engel](https://maps.app.goo.gl/uYusR4LeJNquRZoB8) - historic building
   - [Frankfurter Kunstverein](https://maps.app.goo.gl/11YMUZ54ZE7KAHY49) - art museum
   - [Christmas market Frankfurt](https://maps.app.goo.gl/JwQWk5NVGuncvCPcA) - seasonal, wasn't here in July
+- [Historical Museum](https://maps.app.goo.gl/q5TWkqM3iVeeZgGM9)
+- [Saalhof mit Rententurm](https://maps.app.goo.gl/9sjJzGzKioZu1iTt7) - historic building
 - [Liebfrauenkirche](https://maps.app.goo.gl/LduUSE7Lm4dZpUVs8) - church
 - [Zeil](https://maps.app.goo.gl/wcb2h7Fq1dGZGYSn8) - the main high street with the usual brand stores
   - [MyZeil](https://maps.app.goo.gl/DFzGv4AmtZtA3uGB9) - mall
