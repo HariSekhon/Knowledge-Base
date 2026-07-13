@@ -371,8 +371,14 @@ but some distinctive parts like the fish fountain reminded me I had.
 
 TODO:
 
-- [Nuevo Brunch Café](https://maps.app.goo.gl/d7wn5st7xyCnNDJJ9) - 4.7 bistro
-- [Stadtflair](https://maps.app.goo.gl/xEsNyUNUHKJZsokK9) - 4.6 cafe
+- [Nuevo Brunch Café](https://maps.app.goo.gl/d7wn5st7xyCnNDJJ9) - 4.7 Bistro
+- [Stadtflair](https://maps.app.goo.gl/xEsNyUNUHKJZsokK9) - 4.6 Cafe
+- [SauBar](https://maps.app.goo.gl/pzNYYB7nimuNUDtp8) - 4.7, German
+- [Altes Brauhaus](https://maps.app.goo.gl/uXVPjonSP2vUATep8) - 4.7, German
+- [Vi Vu Restaurant](https://maps.app.goo.gl/hYiaugtMVBSgxH4r6) - 4.9, Vietnamese
+- [Nana](https://maps.app.goo.gl/HgBZ87LjDXa4psDeA) - 4.6, Breakfast restaurant
+- [Damaskus](https://maps.app.goo.gl/Xbc5RHyVZ8hwy7dj6) - 4.6, Syrian
+- [Tanoor](https://maps.app.goo.gl/jVbzwPBPRujPoWFs6) - 4.6, Persian kebabs
 
 ## Königswinter
 
