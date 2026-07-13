@@ -381,6 +381,7 @@ TODO:
 - [Nana](https://maps.app.goo.gl/HgBZ87LjDXa4psDeA) - 4.6, Breakfast restaurant
 - [Damaskus](https://maps.app.goo.gl/Xbc5RHyVZ8hwy7dj6) - 4.6, Syrian
 - [Tanoor](https://maps.app.goo.gl/jVbzwPBPRujPoWFs6) - 4.6, Persian kebabs
+- [Verbene Bistro](https://maps.app.goo.gl/vpN32Rjy7X82e4Pg9) - 4.8, modern European, pricey
 
 ## Königswinter
 
