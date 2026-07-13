@@ -355,9 +355,6 @@ but some distinctive parts like the fish fountain reminded me I had.
 ### Attractions in Koblenz
 
 - [Herz-Jesu-Kirche](https://maps.app.goo.gl/Qc4uTQvk6S3BAHhm6) - church next to the Lohr mall
-- [Löhr Center](https://maps.app.goo.gl/1RNbyqhrt17mLVxv8) - mall
-  - [Rewe](https://maps.app.goo.gl/9he8ZHUzHnjVTJkr5) - drinks and snacks including fresh pressed juices in glass
-    bottles. On top level of the mall
 - [Basilica of St. Castor](https://maps.app.goo.gl/36a6BrHFMc4Be35c9)
 - [Erfinderbrunnen, Koblenz - Prof. Gernot Rumpf (1983)](https://maps.app.goo.gl/dphwpGMy9PisESfq8)
 - [Schängel Fountain](https://maps.app.goo.gl/LgxBUsaaJjsPa5NF9)
@@ -365,6 +362,13 @@ but some distinctive parts like the fish fountain reminded me I had.
 - [Konrad-Adenauer-Ufer/Kastorhof](https://maps.app.goo.gl/9QzRbQTBGKRBY5KH9)
 - [Christuskirche](https://maps.app.goo.gl/L3UVC3YhicfBVuwg8) - church
 - [Springbrunnen Schlossvorplatz](https://maps.app.goo.gl/pcUKtNEL47uxsWdB6) - green area with small water fountains
+
+<!-- -->
+
+- [Löhr Center](https://maps.app.goo.gl/1RNbyqhrt17mLVxv8) - mall
+  - [Rewe](https://maps.app.goo.gl/9he8ZHUzHnjVTJkr5) - drinks and snacks including fresh pressed juices in glass
+    bottles. On top level of the mall
+- [Forum Mittelrhein](https://maps.app.goo.gl/vT6cqaUA66Stdy1M6) - mall
 
 ### Restaurants in Koblenz
 
