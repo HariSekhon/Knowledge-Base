@@ -226,6 +226,7 @@ Large metropolitan multicultural city with many restaurants.
 
 ### Attractions in Frankfurt
 
+- [Frankfurt Cathedral](https://maps.app.goo.gl/4jHX1H8KKZJUhMaP7)
 - [Zeil](https://maps.app.goo.gl/wcb2h7Fq1dGZGYSn8) - the main high street with the usual brand stores
   - [MyZeil](https://maps.app.goo.gl/DFzGv4AmtZtA3uGB9) - mall
 
