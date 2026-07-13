@@ -233,6 +233,7 @@ and I've probably missed a few attractions too.
 ### Attractions in Frankfurt
 
 - [Frankfurt Cathedral](https://maps.app.goo.gl/4jHX1H8KKZJUhMaP7)
+- [Liebfrauenkirche](https://maps.app.goo.gl/LduUSE7Lm4dZpUVs8) - church
 - [Zeil](https://maps.app.goo.gl/wcb2h7Fq1dGZGYSn8) - the main high street with the usual brand stores
   - [MyZeil](https://maps.app.goo.gl/DFzGv4AmtZtA3uGB9) - mall
 
