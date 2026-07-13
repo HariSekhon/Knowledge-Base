@@ -356,6 +356,7 @@ but some distinctive parts like the fish fountain reminded me I had.
 - [Löhr Center](https://maps.app.goo.gl/1RNbyqhrt17mLVxv8) - mall
   - [Rewe](https://maps.app.goo.gl/9he8ZHUzHnjVTJkr5) - drinks and snacks including fresh pressed juices in glass
     bottles. On top level of the mall
+- [Basilica of St. Castor](https://maps.app.goo.gl/36a6BrHFMc4Be35c9)
 - [Erfinderbrunnen, Koblenz - Prof. Gernot Rumpf (1983)](https://maps.app.goo.gl/dphwpGMy9PisESfq8)
 - [Schängel Fountain](https://maps.app.goo.gl/LgxBUsaaJjsPa5NF9)
 - [History Column](https://maps.app.goo.gl/DUk4zmrcCdCiGnJT9)
