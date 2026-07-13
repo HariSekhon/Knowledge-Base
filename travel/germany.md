@@ -222,6 +222,10 @@ Large metropolitan multicultural city with many restaurants.
 
 <!-- -->
 
+- [Meaza's Place](https://maps.app.goo.gl/TNjG4k2SyGmx1m4v9) - Eritrean (like Ethiopian) food, the teff sour pancake is
+  unique to these two cultures.
+  The Meaza's Plate with 3 meat and 3 vegetable dishes on top of a large teff and 2 teff on the side is my recommendation here.
+  It's also walking distance from the a&o above and open until midnight for those arriving late
 - [MA'LOA Poké Bowl](https://maloa.com/)
 - [BKK Thai Street Food](https://bkkthaistreetfood.com/)
 
