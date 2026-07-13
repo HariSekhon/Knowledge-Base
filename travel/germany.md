@@ -227,7 +227,8 @@ Large metropolitan multicultural city with many restaurants.
   The Meaza's Plate with 3 meat and 3 vegetable dishes on top of a large teff and 2 teff on the side is my
   recommendation here.
   If you'd had the Ethiopian version of this it's the same, very good quality and taste.
-  It's also walking distance from the a&o above and open until midnight for those arriving late
+  It's also walking distance from the a&o above and open until midnight for those arriving late.
+  Has wifi
 - [MA'LOA Poké Bowl](https://maloa.com/)
 - [BKK Thai Street Food](https://bkkthaistreetfood.com/)
 
