@@ -204,8 +204,8 @@ TODO:
 
 A city with a great selection of restaurants.
 
-"Shawarma city" takeaway is recommended here, good food and good prices.
-There is often a queue around the corner for it across the hours of the evening.
+- [Shawarma City](https://maps.app.goo.gl/uaNsmrdfeT89psnY8) - popular busy takeaway, good food and good prices.
+  There's usually a queue around the corner for it across the hours of the evening
 
 ## Essen
 
