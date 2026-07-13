@@ -374,6 +374,7 @@ TODO:
 
 - [Nuevo Brunch Café](https://maps.app.goo.gl/d7wn5st7xyCnNDJJ9) - 4.7 Bistro
 - [Stadtflair](https://maps.app.goo.gl/xEsNyUNUHKJZsokK9) - 4.6 Cafe
+- [Foody Foody](https://maps.app.goo.gl/PYRcYc5VZDoApitg7) - 4.8, Asian
 - [SauBar](https://maps.app.goo.gl/pzNYYB7nimuNUDtp8) - 4.7, German
 - [Altes Brauhaus](https://maps.app.goo.gl/uXVPjonSP2vUATep8) - 4.7, German
 - [Vi Vu Restaurant](https://maps.app.goo.gl/hYiaugtMVBSgxH4r6) - 4.9, Vietnamese
