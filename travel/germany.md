@@ -350,6 +350,7 @@ but some distinctive parts like the fish fountain reminded me I had.
 - [Parkplatz Löhr-Center](https://maps.app.goo.gl/TwrRx81DH9WWcVUY7) - mall parking, I think I must have parked here the
   first time
 - [Tiefgarage Schloss](https://maps.app.goo.gl/nq6w43MEHMRriWDa9)
+- [Parkplatz Peter-Altmeier-Ufer](https://maps.app.goo.gl/GTfkRHspPN6gPus37)
 
 ### Attractions in Koblenz
 
