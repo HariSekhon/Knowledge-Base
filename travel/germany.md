@@ -257,6 +257,11 @@ and I've probably missed a few attractions too.
   It's also walking distance from the a&o above and open until midnight for those arriving late.
   Has wifi
 - [MA'LOA Poké Bowl](https://maloa.com/)
+- [Mainkai Café•Bistro](https://maps.app.goo.gl/1tKXTmDjNS3yEuCV6) - has various egg breakfasts, the yoghurt and fruit
+  bowl was decent, although not that big
+
+TODO:
+
 - [BKK Thai Street Food](https://bkkthaistreetfood.com/)
 
 ## Freiburg im Breisgau
