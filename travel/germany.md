@@ -16,6 +16,8 @@
 - [Dusseldorf](#dusseldorf)
 - [Essen](#essen)
 - [Frankfurt](#frankfurt)
+  - [Attractions in Frankfurt](#attractions-in-frankfurt)
+  - [Restaurants in Frankfurt](#restaurants-in-frankfurt)
 - [Freiburg im Breisgau](#freiburg-im-breisgau)
   - [Parking in Freiburg im Breisgau](#parking-in-freiburg-im-breisgau)
   - [Attractions in Freiburg im Breisgau](#attractions-in-freiburg-im-breisgau)
