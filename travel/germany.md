@@ -222,7 +222,12 @@ Large metropolitan multicultural city with many restaurants.
 - [a&o Frankfurt Galluswarte](https://maps.app.goo.gl/TFe183UtdMpM7b196) - some free street parking, but 10:00 checkout
   and wifi is slow
 
-<!-- -->
+### Attractions in Frankfurt
+
+- [Zeil](https://maps.app.goo.gl/wcb2h7Fq1dGZGYSn8) - the main high street with the usual brand stores
+  - [MyZeil](https://maps.app.goo.gl/DFzGv4AmtZtA3uGB9) - mall
+
+### Restaurants in Frankfurt
 
 - [Meaza's Place](https://maps.app.goo.gl/TNjG4k2SyGmx1m4v9) - Eritrean (like Ethiopian) food, the _"teff"_ sour pancake
   is unique to these two cultures.
