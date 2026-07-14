@@ -90,6 +90,8 @@ you can see immigrants lounging around all day and it looks rougher.
 
 You wouldn't live in Brussels if you could afford to choose anywhere.
 
+There is an expensive area in South Brussels near Waterloo.
+
 ### Parking in Brussels
 
 Both of these were €3.60 per hour as of July 2026:
