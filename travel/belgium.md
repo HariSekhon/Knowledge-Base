@@ -146,6 +146,8 @@ see the [Driving in Belgium](#driving-in-belgium) section above.
   The yuzu lemonade was good too, fizzy and came with a dried orange slice in it.
   €20 for a burger and fries is a bit tourist priced but it was good.
   Has wifi
+- [Hawaiian Poké Bowl - Groenplaats](https://maps.app.goo.gl/iShCC8mWCS6JAhNz9) - same high quality poke chain already
+  described in [Maastricht Restaurants](netherlands.md#restaurants-in-maastricht)
 
 TODO:
 
