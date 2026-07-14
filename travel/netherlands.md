@@ -20,7 +20,7 @@ Obviously, everybody knows about [De Wallen](https://maps.app.goo.gl/CeM2ddZPFvj
 
 ## Maastricht
 
-[Maastricht](https://maps.app.goo.gl/QJwg8E4mmQ2NJyEs5) - cobbled streets, no parking and little birthrates - welcome
+[Maastricht](https://maps.app.goo.gl/QJwg8E4mmQ2NJyEs5) - cobbled streets, no parking and low birthrates - welcome
 to Europe.
 
 Seriously though, Maastricht is pretty nice for a visit - you can walk around the centre in about an hour.
