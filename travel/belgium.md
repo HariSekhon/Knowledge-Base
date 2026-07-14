@@ -113,6 +113,8 @@ Both of these were €3.60 per hour as of July 2026:
 - [Lloyd Coffee Eatery - Impératrice](https://maps.app.goo.gl/QcfTPyVgV3AiM7q17) - gentrified cafe. The salmon gravalax
   with scrambled eggs on avocado toast was good, although €15. Orange juice was €4.
   WiFi 28/9 Mbit/s
+- [Hawaiian Poké Bowl - Brussel Arenberg](https://maps.app.goo.gl/13n6QgvCjS8QGzQM9) - same high quality poke chain
+  already described in [Maastricht Restaurants](netherlands.md#restaurants-in-maastricht)
 
 TODO:
 
