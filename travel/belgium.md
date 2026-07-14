@@ -62,6 +62,18 @@ For only Brussels, you can register for free here, it only takes 5 minutes and l
 
 Antwerp / Ghent need another different registration for the Flemish region - Brussels and Flemish LEZ systems are separate. 🙄
 
+For Antwerp:
+
+<https://www.slimnaarantwerpen.be/en/lez>
+
+For Ghent:
+
+<https://stad.gent/en/mobility-ghent/low-emission-zone-ghent>
+
+Unfortunately the Ghent application just sends you an email that it was submitted and will be processed within 14 days!
+This means if you drive into the Lez zone and the application is rejected for any technicality or error,
+you may be fined.
+
 ## Brussels
 
 A bit of a western capital dump with high immigration, graffiti etc.
