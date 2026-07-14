@@ -204,6 +204,9 @@ City with a mix of old and new, not quite as nice as Bruges, but better than Bru
 Remember to register your Lez before driving into Ghent,
 see the [Driving in Belgium](#driving-in-belgium) section above.
 
+I used street parking which is metered but I think it was free after a certain time, perhaps 8pm, can't remember
+for sure.
+
 ### Restaurants in Ghent
 
 These two places are both good and affordable:
