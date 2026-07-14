@@ -149,7 +149,9 @@ see the [Driving in Belgium](#driving-in-belgium) section above.
 
 TODO:
 
+- [Beiroet Libanees Street Food](https://maps.app.goo.gl/numcxcCzFPaR6egg9) - 4.9, Lebanese, affordable
 - [House of Kua](https://maps.app.goo.gl/TYusFS5BETXQZmgdA) - 4.7, Thai
+- [Meat Factory](https://maps.app.goo.gl/E38RkaUhYdJZhQs29) - 4.7, Steaks & Burgers, bit pricier
 
 ## Bruges
 
