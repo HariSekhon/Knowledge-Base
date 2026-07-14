@@ -6,13 +6,14 @@
 - [Population](#population)
 - [Driving in Belgium](#driving-in-belgium)
 - [Brussels](#brussels)
-  - [Waterloo](#waterloo)
+  - [Parking in Brussels](#parking-in-brussels)
 - [Antwerp](#antwerp)
 - [Bruges](#bruges)
 - [Dinant](#dinant)
 - [Ghent / Gent](#ghent--gent)
 - [Hasselt](#hasselt)
 - [Liege](#liege)
+- [Waterloo](#waterloo)
 
 <!-- INDEX_END -->
 
@@ -79,6 +80,7 @@ you may be fined.
 Brussels is a tale of two cities.
 
 The Historic Centre has many grand historic buildings, lots of restaurants, cafes and tourists.
+This is worth visiting for 1 day.
 
 Outside the centre, however, it is a bit of a dump (even some side streets in the centre off the beaten track are),
 with clear mass immigration replacement, graffiti, cracked windows, litter etc.
@@ -86,13 +88,15 @@ with clear mass immigration replacement, graffiti, cracked windows, litter etc.
 For example, just a block north of the mall, around Brussel Noordstation, the demographics change quite markedly,
 you can see immigrants lounging around all day and it looks rougher.
 
-### Waterloo
+You wouldn't live in Brussels if you could afford to choose anywhere.
 
-Gentrified town just south of Brussels where Napoleon lost the famous battle.
+### Parking in Brussels
 
-[Le Bar À Soupe](https://www.facebook.com/people/Le-Bar-%C3%A0-Soupe/100063541241931/),
-Savage Burger and [Thai Cafe](https://thai.cafe/en) are recommended here, with the latter being more expensive.
-You will need your Google Translate camera app to translate the menu as they don't speak English.
+Both of these were €3.60 per hour as of July 2026:
+
+- [Interparking Brussels - Parking City 2](https://maps.app.goo.gl/qDdGbHQvuX3pVCs46) - slightly more convenient as it's
+  attached to the mall on the block where the centre starts
+- [Interparking Brussels - Parking Rogier](https://maps.app.goo.gl/UBrTWFJmPbmoSM6S7) - across the road from the mall
 
 ## Antwerp
 
@@ -159,3 +163,12 @@ Liege is worse than Brussels, with high incidence of homelessness, a crime ridde
 money in the streets.
 
 I do not recommend visiting Liege.
+
+## Waterloo
+
+Gentrified town just south of Brussels where Napoleon lost the famous battle.
+
+- [Thai Cafe](https://thai.cafe/en) - tourist priced by decent quality. You will need your Google Translate camera app to translate the
+  menu as they don't speak English.
+- Savage Burger
+- [Le Bar À Soupe](https://www.facebook.com/people/Le-Bar-%C3%A0-Soupe/100063541241931/)
