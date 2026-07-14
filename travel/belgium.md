@@ -147,6 +147,10 @@ see the [Driving in Belgium](#driving-in-belgium) section above.
   €20 for a burger and fries is a bit tourist priced but it was good.
   Has wifi
 
+TODO:
+
+- [House of Kua](https://maps.app.goo.gl/TYusFS5BETXQZmgdA) - 4.7, Thai
+
 ## Bruges
 
 [Bruges](https://maps.app.goo.gl/isVUiCT96MrviteXA) aka Brugge in West Belgium is much nicer than the capital,
