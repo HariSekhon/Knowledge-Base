@@ -7,10 +7,15 @@
 - [Driving in Belgium](#driving-in-belgium)
 - [Brussels](#brussels)
   - [Parking in Brussels](#parking-in-brussels)
+  - [Restaurants in Brussels](#restaurants-in-brussels)
 - [Antwerp](#antwerp)
+  - [Parking in Antwerp](#parking-in-antwerp)
+  - [Restaurants in Antwerp](#restaurants-in-antwerp)
 - [Bruges](#bruges)
 - [Dinant](#dinant)
 - [Ghent / Gent](#ghent--gent)
+  - [Parking in Ghent](#parking-in-ghent)
+  - [Restaurants in Ghent](#restaurants-in-ghent)
 - [Hasselt](#hasselt)
 - [Liege](#liege)
 - [Waterloo](#waterloo)
@@ -94,11 +99,26 @@ There is an expensive area in South Brussels near Waterloo.
 
 ### Parking in Brussels
 
+Remember to register your Lez before driving into Brussels,
+see the [Driving in Belgium](#driving-in-belgium) section above.
+
 Both of these were €3.60 per hour as of July 2026:
 
 - [Interparking Brussels - Parking City 2](https://maps.app.goo.gl/qDdGbHQvuX3pVCs46) - slightly more convenient as it's
   attached to the mall on the block where the centre starts
 - [Interparking Brussels - Parking Rogier](https://maps.app.goo.gl/UBrTWFJmPbmoSM6S7) - across the road from the mall
+
+### Restaurants in Brussels
+
+- [Lloyd Coffee Eatery - Impératrice](https://maps.app.goo.gl/QcfTPyVgV3AiM7q17) - gentrified cafe. The salmon gravalax
+  with scrambled eggs on avocado toast was good, although €15. Orange juice was €4.
+  WiFi 28/9 Mbit/s
+
+TODO:
+
+- [Au vert Brunch & Café](https://maps.app.goo.gl/W74cvr1vxagvmLaK9) - 4.9
+- [Lunch Concept](https://maps.app.goo.gl/ezPzto368easvVDe8) - 4.7
+- [MyKofee](https://maps.app.goo.gl/7oJU6Q58Qrbr6yge8) - 4.7 on the northern edge of the centre
 
 ## Antwerp
 
@@ -106,6 +126,26 @@ I like Antwerp more than Brussels.
 
 I first visited this many years ago for work but it was a short stay
 and I don't remember the upmarket restaurant I was taken to.
+
+### Parking in Antwerp
+
+Remember to register your Lez before driving into Antwerp,
+see the [Driving in Belgium](#driving-in-belgium) section above.
+
+### Restaurants in Antwerp
+
+- [Moochie Frozen Yogurt Antwerp](https://maps.app.goo.gl/KqZdC7SgDD6T2VXd9) - good frozen yoghurt, hits the spot.
+  Decent seating, spacing and ambience.
+  Would be rated higher than 4.4 except the price is slightly high or if they gave 3 instead of 2 toppings on the normal
+  size which was €6.60.
+  Has wifi
+- [Manhattn's Burgers](https://maps.app.goo.gl/vGvtkKYjutAancKw8) - normally I avoid restaurants in tourist trap
+  locations of tourist squares and corners, but this was actually good.
+  The flatiron spicy burger and sweet potato fries were both very good.
+  Sweet potato fries dipped in smokey bbq sauce (€1.60 extra) was so good it can’t be healthy.
+  The yuzu lemonade was good too, fizzy and came with a dried orange slice in it.
+  €20 for a burger and fries is a bit tourist priced but it was good.
+  Has wifi
 
 ## Bruges
 
@@ -147,6 +187,13 @@ TODO:
 ## Ghent / Gent
 
 City with a mix of old and new, not quite as nice as Bruges, but better than Brussels.
+
+### Parking in Ghent
+
+Remember to register your Lez before driving into Ghent,
+see the [Driving in Belgium](#driving-in-belgium) section above.
+
+### Restaurants in Ghent
 
 These two places are both good and affordable:
 
