@@ -54,7 +54,7 @@ which is obvious if you've visited its capital Brussels (one of my less favourit
 ## Driving in Belgium
 
 You do not need any vignettes
-but you do need a low emissions registration to drive in the major cities like Brussels or Antwerp or Ghent.
+but you do need a low emissions registration to drive in the major cities like Brussels, Antwerp and Ghent.
 
 For only Brussels, you can register for free here, it only takes 5 minutes and lasts for 5 years.
 
@@ -88,7 +88,10 @@ You will need your Google Translate camera app to translate the menu as they don
 
 ## Antwerp
 
-Port city, not much there from what I recall, been to a good restaurant there but can't remember its name.
+I like Antwerp more than Brussels.
+
+I first visited this many years ago for work but it was a short stay
+and I don't remember the upmarket restaurant I was taken to.
 
 ## Bruges
 
