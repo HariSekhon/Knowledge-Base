@@ -42,6 +42,7 @@ The streets are all residents permit parking only, so you can't park almost anyw
 - [Hoofdwacht](https://maps.app.goo.gl/mzEUDvP1MhCpFtTj9)
 - [Standbeeld van Minckeleers](https://maps.app.goo.gl/sQwefwsKmEZXCePL8)
 - [Cappella Sancti Servatii](https://maps.app.goo.gl/Jx8gccXNBV4yTKGT9)
+- [Sint Servaasbrug](https://maps.app.goo.gl/VgEXqNhUsmVWM6fh6) - historic bridge
 
 ### Restaurants in Maastricht
 
