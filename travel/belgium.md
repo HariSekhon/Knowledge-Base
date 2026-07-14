@@ -205,7 +205,9 @@ Remember to register your Lez before driving into Ghent,
 see the [Driving in Belgium](#driving-in-belgium) section above.
 
 I used street parking which is metered but I think it was free after a certain time, perhaps 8pm, can't remember
-for sure.
+for sure, double check the signs.
+
+Parking in Ghent wasn't as bad as Brussels if I recall correctly.
 
 ### Restaurants in Ghent
 
