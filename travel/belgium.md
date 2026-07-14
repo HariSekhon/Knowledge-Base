@@ -76,7 +76,15 @@ you may be fined.
 
 ## Brussels
 
-A bit of a western capital dump with high immigration, graffiti etc.
+Brussels is a tale of two cities.
+
+The Historic Centre has many grand historic buildings, lots of restaurants, cafes and tourists.
+
+Outside the centre, however, it is a bit of a dump (even some side streets in the centre off the beaten track are),
+with clear mass immigration replacement, graffiti, cracked windows, litter etc.
+
+For example, just a block north of the mall, around Brussel Noordstation, the demographics change quite markedly,
+you can see immigrants lounging around all day and it looks rougher.
 
 ### Waterloo
 
