@@ -241,6 +241,7 @@ and I've probably missed a few attractions too.
   - [Großer und Kleiner Engel](https://maps.app.goo.gl/uYusR4LeJNquRZoB8) - historic building
   - [Frankfurter Kunstverein](https://maps.app.goo.gl/11YMUZ54ZE7KAHY49) - art museum
   - [Christmas market Frankfurt](https://maps.app.goo.gl/JwQWk5NVGuncvCPcA) - seasonal, wasn't here in July
+- [Kleinmarkthalle](https://maps.app.goo.gl/iMqMyDPxrdS6LiFi9) - market hall
 - [Liebfrauenkirche](https://maps.app.goo.gl/LduUSE7Lm4dZpUVs8) - church
 - [Liebfrauenberg](https://maps.app.goo.gl/UJ5NXVMUcNmg3gwo9)
 - [Historical Museum](https://maps.app.goo.gl/q5TWkqM3iVeeZgGM9)
@@ -251,6 +252,7 @@ and I've probably missed a few attractions too.
 
 ### Restaurants in Frankfurt
 
+- [Kleinmarkthalle](https://maps.app.goo.gl/iMqMyDPxrdS6LiFi9) - market hall with both fresh and cooked produce
 - [Meaza's Place](https://maps.app.goo.gl/TNjG4k2SyGmx1m4v9) - Eritrean (like Ethiopian) food, the _"teff"_ sour pancake
   is unique to these two cultures.
   The Meaza's Plate with 3 meat and 3 vegetable dishes on top of a large teff and 2 teff on the side is my
