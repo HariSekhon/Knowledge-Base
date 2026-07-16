@@ -80,6 +80,8 @@ Unfortunately the Ghent application just sends you an email that it was submitte
 This means if you drive into the Lez zone and the application is rejected for any technicality or error,
 you may be fined.
 
+In practice though, I received an application acceptance email the next day, but you can't count on this.
+
 ## Brussels
 
 Brussels is a tale of two cities.
