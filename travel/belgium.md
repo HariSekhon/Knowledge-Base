@@ -62,10 +62,6 @@ which is obvious if you've visited its capital Brussels (one of my less favourit
 You do not need any vignettes
 but you do need a low emissions registration to drive in the major cities like Brussels, Antwerp and Ghent.
 
-**WARNING: Beware that you actually submit the application as for Antwerp it saved it as a draft and didn't submit it
-and I didn't realize until 2 days after I'd been to Antwerp
-when I received a follow up email to say it hadn't been submited**
-
 For only Brussels, you can register for free here, it only takes 5 minutes and lasts for 5 years.
 
 <https://lez.brussels/mytax/>
@@ -85,6 +81,10 @@ This means if you drive into the Lez zone and the application is rejected for an
 you may be fined.
 
 In practice though, I received an application acceptance email the next day, but you can't count on this.
+
+**WARNING: Beware that you actually submit the application as for Antwerp it saved it as a draft and didn't submit it
+and I didn't realize until 2 days after I'd been to Antwerp
+when I received a follow up email to say it hadn't been submited**
 
 ## Brussels
 
