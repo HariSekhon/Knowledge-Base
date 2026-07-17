@@ -201,6 +201,7 @@ Brits, Americans, Australians and other foreigners trying to work around the awf
 - [Slovenia](travel/slovenia.md)
 - [Spain](travel/spain.md) ⭐
 - [Sweden](travel/sweden.md)
+- [Switzerland](travel/switzerland.md)
 - [Ukraine](travel/ukraine.md)
 - [United Kingdom](travel/uk.md) ⭐
 
