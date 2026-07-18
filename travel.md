@@ -807,6 +807,11 @@ If using hostels repeatedly, get yourself a padlock with a key rather than combi
 because aside from the fact someone can just spend a few hours to try all combinations, when you're putting stuff away
 late at night, it's must easier with a key than trying to do a combination in the dark with your phone light.
 
+You should have 2 padlocks of different sizes,
+one medium and one slightly slimmer as some holes don't fit the medium size,
+while other lockers with turn handles will open even when locked if using a padlock that is too slim.
+Use the bigger stronger medium-sized padlock where it fits.
+
 #### Towels
 
 Some hostels provide towels, others rent them to you, and others don't provide them at all.
