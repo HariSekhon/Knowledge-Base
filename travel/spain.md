@@ -53,6 +53,9 @@
 - [Marbella](#marbella)
 - [Peniscola](#peniscola)
 - [Ronda](#ronda)
+  - [Parking in Ronda](#parking-in-ronda)
+  - [Attractions in Ronda](#attractions-in-ronda)
+  - [Restaurants in Ronda](#restaurants-in-ronda)
 - [San Sebastian](#san-sebastian)
 - [Sevilla](#sevilla)
   - [Where to Stay in Sevilla](#where-to-stay-in-sevilla)
@@ -1182,9 +1185,28 @@ and not interpret this as an English word amalgamation. 🙈
 
 ## Ronda
 
-I was surprised how nice Ronda was given I'd never heard of it before and only intended to use it as a stopover town.
+I was surprised how nice [Ronda](https://maps.app.goo.gl/Aa6gcZ9KuNRdFPhB70) was given I'd never heard of it before and
+only intended to use it as a stopover town.
 
-The mountain views drive in this region is lovely too.
+The mountain views drive in this region is lovely too as it is a mountaintop city.
+
+### Parking in Ronda
+
+- [Aparcamiento gratuito Ronda](https://maps.app.goo.gl/1dK74X3vxfVBHWju5) - was full when I went
+- [C. Jaén](https://maps.app.goo.gl/qhfak1VvMHJ4GwY18) - street with free parking
+
+### Attractions in Ronda
+
+- [Carrera Espinel](https://maps.app.goo.gl/eMvwJ7MqaEkMHu9fA) - shopping parade with shaded covers hanging between the
+  two lanes of buildings
+
+### Restaurants in Ronda
+
+TODO:
+
+- [Dolc&Salato](https://maps.app.goo.gl/xEdKJKWvXG1akYZ68) - 4.7, ice cream
+- [Heladería E'Gelato](https://maps.app.goo.gl/gPt2bGMcSUYAaLCt8) - 4.5
+- [Piquito Bakery](https://maps.app.goo.gl/7wRZABe8D9c8cPga7) - 4.8
 
 ## San Sebastian
 
