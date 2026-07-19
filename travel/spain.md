@@ -1190,6 +1190,8 @@ only intended to use it as a stopover town.
 
 The mountain views drive in this region is lovely too as it is a mountaintop city.
 
+You need at least 2-3 hours to appreciate the sights especially if walking down to the viewpoints of the Arch of Christ.
+
 ### Parking in Ronda
 
 - [Aparcamiento gratuito Ronda](https://maps.app.goo.gl/1dK74X3vxfVBHWju5) - was full when I went
