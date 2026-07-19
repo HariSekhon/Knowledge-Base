@@ -1202,9 +1202,13 @@ The mountain views drive in this region is lovely too as it is a mountaintop cit
 
 ### Restaurants in Ronda
 
+- [Carrefour Express](https://maps.app.goo.gl/auXt1tB2UhsrNYPd9) - Has fresh squeezed orange juice machine -
+  €3 for 500ml... better than drinks options in most restaurants
+
 TODO:
 
 - [Dolc&Salato](https://maps.app.goo.gl/xEdKJKWvXG1akYZ68) - 4.7, ice cream
+- [Las Bridas](https://maps.app.goo.gl/RufWTWJaFzHpMDrL7) - 4.7
 - [Heladería E'Gelato](https://maps.app.goo.gl/gPt2bGMcSUYAaLCt8) - 4.5
 - [Piquito Bakery](https://maps.app.goo.gl/7wRZABe8D9c8cPga7) - 4.8
 
