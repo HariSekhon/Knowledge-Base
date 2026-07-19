@@ -152,10 +152,14 @@ TODO:
 
 5 days recommended:
 
-- Cusco City - 2-3 days - historic center (near Plaza de Armas)
-- Sacred Valley - 2 days
-  - Aguas Calientes (town at base of Machu Picchu) or Ollantaytambo or Urubamba
+- Cusco City - 2 days - historic center (near Plaza de Armas)
+- Sacred Valley - 2 days:
+  - Aguas Calientes (town at base of Machu Picchu) or Ollantaytambo or Urubamba - 1 day
   - Machu Picchu - 1 day
+
+TODO:
+
+- Rainbow Mountain - 1 day, have to leave at 3-4am
 
 ## Cusco
 
