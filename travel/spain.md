@@ -52,6 +52,7 @@
   - [Ferry Between Ibiza and Mallorca](#ferry-between-ibiza-and-mallorca)
 - [Marbella](#marbella)
 - [Peniscola](#peniscola)
+- [Ronda](#ronda)
 - [San Sebastian](#san-sebastian)
 - [Sevilla](#sevilla)
   - [Where to Stay in Sevilla](#where-to-stay-in-sevilla)
@@ -1178,6 +1179,10 @@ and not interpret this as an English word amalgamation. 🙈
 
 - [Plaça POLIGONO6G, 18](https://maps.app.goo.gl/ie6YrufNTaEL8NWi8) - free parking near town
 - [Parking Peñíscola Norte](https://maps.app.goo.gl/EwzNKBJE2rCMycqV6) - free parking further out to the north
+
+## Ronda
+
+I was surprised how nice Ronda was given I'd never heard of it before and only intended to use it as a stopover town.
 
 ## San Sebastian
 
