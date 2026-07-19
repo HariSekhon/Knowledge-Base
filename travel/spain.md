@@ -1209,6 +1209,7 @@ TODO:
 
 - [Dolc&Salato](https://maps.app.goo.gl/xEdKJKWvXG1akYZ68) - 4.7, ice cream
 - [Las Bridas](https://maps.app.goo.gl/RufWTWJaFzHpMDrL7) - 4.7
+- [El Lechuguita](https://maps.app.goo.gl/QLDFVbcJKFRzgYS98) - 4.7, tapas
 - [Heladería E'Gelato](https://maps.app.goo.gl/gPt2bGMcSUYAaLCt8) - 4.5
 - [Piquito Bakery](https://maps.app.goo.gl/7wRZABe8D9c8cPga7) - 4.8
 
