@@ -1184,6 +1184,8 @@ and not interpret this as an English word amalgamation. 🙈
 
 I was surprised how nice Ronda was given I'd never heard of it before and only intended to use it as a stopover town.
 
+The mountain views drive in this region is lovely too.
+
 ## San Sebastian
 
 Much nicer than I had expected, I ended up spending double the time here than I had planned.
