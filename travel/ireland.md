@@ -26,8 +26,8 @@ Dublin Airport has free wifi with simple one button connect captcha portal.
 ### Travel from Dublin Airport
 
 The Dublin Express coach has stops immediately outside the airport for €10 each way -
-cheaper than spending €25-30 on a taxi - and it leaves every 20 minutes.
+cheaper than spending €25-30 on a taxi.
 
-It takes 25-30 minutes to Dublin centre.
+It leaves every 20 minutes and takes 25-30 minutes to Dublin centre.
 
 You can buy the ticket online using the QR code at the coach stop.
