@@ -8,7 +8,7 @@ Browser extension to modify the behaviour of web pages using scripts.
 - [TamperMonkey Scripts](#tampermonkey-scripts)
   - [Tel to WhatsApp](#tel-to-whatsapp)
   - [Jira Description Autofill](#jira-description-autofill)
-- [Script Sites](#script-sites)
+- [Script Sharing Sites](#script-sharing-sites)
   - [UserScript.Zone](#userscriptzone)
   - [Greasy Fork](#greasy-fork)
   - [OpenUserJS](#openuserjs)
@@ -40,7 +40,7 @@ Auto-fills Jira description field with Agile template.
 
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=TamperMonkey&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/TamperMonkey)
 
-## Script Sites
+## Script Sharing Sites
 
 <https://www.tampermonkey.net/scripts.php>
 
