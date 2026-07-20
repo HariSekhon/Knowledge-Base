@@ -181,6 +181,7 @@ Brits, Americans, Australians and other foreigners trying to work around the awf
 - [Georgia](travel/georgia.md)
 - [Germany](travel/germany.md)
 - [Hungary](travel/hungary.md)
+- [Ireland](travel/ireland.md)
 - [Italy](travel/italy.md) ⭐
 - [Latvia](travel/latvia.md)
 - [Lithuania](travel/lithuania.md)
