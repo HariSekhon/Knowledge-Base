@@ -24,7 +24,11 @@ Browser extension to modify the behaviour of web pages using scripts.
 
 ## TamperMonkey Scripts
 
-Click the TamperMonkey extension -> `Create New Script` and then paste in the script from below:
+My TamperMonkey scripts and their easy installation instructions are in the [README](https://github.com/HariSekhon/TamperMonkey#readme) home page of my TamperMonkey repo:
+
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=TamperMonkey&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/TamperMonkey)
+
+Notable scripts include:
 
 ### Tel to WhatsApp
 
@@ -37,8 +41,6 @@ Auto-converts `+tel:` links to WhatsApp clickable links for convenience on 3rd p
 Auto-fills Jira description field with Agile template.
 
 [jira_description_autofill.js](https://github.com/HariSekhon/TamperMonkey/blob/main/jira_description_autofill.js)
-
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HariSekhon&repo=TamperMonkey&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/TamperMonkey)
 
 ## Script Sharing Sites
 
