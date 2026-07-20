@@ -1201,21 +1201,21 @@ You need at least 2-3 hours to appreciate the sights especially if walking down 
 
 - [Carrera Espinel](https://maps.app.goo.gl/eMvwJ7MqaEkMHu9fA) - shopping parade with shaded covers hanging between the
   two lanes of buildings
-- [Alameda del Tajo](https://maps.app.goo.gl/zXAgjBtZWwb12vsW6) - park
+- [Arc of Christ](https://maps.app.goo.gl/x5Ntd85sy7vp1wah8) - massive arch bridging the ravine
 - [Bullring of the Royal Cavalry of Ronda](https://maps.app.goo.gl/DoCuzFyJQQKehM4V7)
+- [Alameda del Tajo](https://maps.app.goo.gl/zXAgjBtZWwb12vsW6) - park
 - [El Toro](https://maps.app.goo.gl/XhEHViKpE14aCbQ9A)
 - [Ernest Hemingway Sculpture](https://maps.app.goo.gl/BW3PJXPJbYoXESPs7)
 - [Mirador de Ronda](https://maps.app.goo.gl/VLoE8UtGsTBsty2v8) - observation deck
+- [Mirador de Aldehuela](https://maps.app.goo.gl/H6mqMbuvez687neMA)
+- [Mirador de los Viajeros Románticos](https://maps.app.goo.gl/LnMpAAoCCHPJp45E9)
 - [Ronda Outdoor Theater](https://maps.app.goo.gl/tn1hfwEzwUC5U22D6)
 - [El Tajo de Ronda](https://maps.app.goo.gl/JnBQdVp7nnhZJsie8)
 - [Puente Nuevo de Ronda viewpoint](https://maps.app.goo.gl/AjpPSYNi8aHSjFZ2A)
-- [Arc of Christ](https://maps.app.goo.gl/x5Ntd85sy7vp1wah8) - massive arch bridging the ravine
 - [Caminito Del Desfiladero del Tajo](https://maps.app.goo.gl/LNQriy6RuUvQjb1x7) - €5 entry viewing point, didn't think
   it was as good as the free one further down
 - [Puerta de los molinos](https://maps.app.goo.gl/vM4tPwxzMCjQA7ZD6)
 - [Palacio de Congresos de Ronda](https://maps.app.goo.gl/BjAh33gonxhqiWS2A)
-- [Mirador de Aldehuela](https://maps.app.goo.gl/H6mqMbuvez687neMA)
-- [Mirador de los Viajeros Románticos](https://maps.app.goo.gl/LnMpAAoCCHPJp45E9)
 - [Walls of Ronda](https://maps.app.goo.gl/6ViJLKGrDqgvJrRd7)
 - [Museo Lara](https://maps.app.goo.gl/JCCj5LofppwNcZHw7)
 - [Casa del Gigante](https://maps.app.goo.gl/tEn6V8hamCxJ8NjBA)
