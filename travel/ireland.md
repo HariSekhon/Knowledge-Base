@@ -15,11 +15,13 @@ British citizens require no visa at all and could even live in Ireland.
 
 Although they have similar problems to the UK with mass immigration and high housing costs.
 
+Restore Ireland.
+
 ## Dublin
 
 ### Dublin Airport
 
-Has free wifi with simple one button connect captcha portal.
+Dublin Airport has free wifi with simple one button connect captcha portal.
 
 ### Travel from Dublin Airport
 
