@@ -53,6 +53,8 @@ Accommodation was moderately pricey in Dublin.
 
 - [Abigail's Hostel](https://maps.app.goo.gl/uTDBMZPBAhT3XtzG6) - decent hostel with kitchen but wifi didn't work
   properly in the lobby, very frustrating, didn't renew due to this
+- [Abbey Court Hostel](https://maps.app.goo.gl/aDgFYqCgzokRFhv17) - just across the bridge from Abigail's,
+  also very central
 
 ### Restaurants in Dublin
 
