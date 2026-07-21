@@ -24,6 +24,14 @@ As I heard an Irish woman say, the real Ireland now only exists outside the citi
 
 Restore Ireland.
 
+I found out another reason why Dublin is expensive - American tourists.
+
+Sitting in a restaurant surrounded by Americans at different tables, it occurred to me.
+
+Anywhere American tourists go becomes expensive, and a lot of Americans have Irish ancestry.
+
+It was a similar reasoning given by the locals in [Costa Rica](costa-rica.md).
+
 ## Dublin
 
 Dublin is expensive, and there isn't too much there so you probably don't want to spend more than a couple days there.
@@ -63,6 +71,13 @@ Accommodation was somewhat pricey in Dublin.
 Dining out in Dublin is relatively expensive,
 with mains dishes in Dublin typically cost around €30 each, and even burgers are typically €20-30 each.
 
+Pretty much everything around Temple Bar is a tourist trap.
+
+- [Old Mill Restaurant](https://maps.app.goo.gl/Fu5zpg64zWrKgxgK9) - there's always a queue and long wait, and slow
+  service as it's a small packed venue.
+  Food is ok but tourist priced, although not quite as bad as some of the other restaurants in the area.
+  Mains are €20-40, Starters and Desserts €10 each.
+  Wifi 158/41 Mbit/s
 - [Eatokyo Noodles and Sushi Bar](https://maps.app.goo.gl/HseRdYcjeh3LstQD9) - the seafood ramen soup was decent.
   The beef skewers came as 2 skewers with 3 beef pieces each and tiny asparagus in between the beef, glazed in a pool of
   sweet teriyaki sauce.
