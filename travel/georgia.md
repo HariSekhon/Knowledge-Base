@@ -24,7 +24,7 @@ flights at losses.
 
 I missed my transfer flights both in and out of Tbilisi. This is probably one of the worst things about Georgia.
 
-This is how I came up with the [Flights Gotchas section](#flights-gotchas).
+This is how I came up with the [Flights Gotchas section](../travel.md#flight-gotchas) on the main Travel page.
 
 ## Tbilisi
 
