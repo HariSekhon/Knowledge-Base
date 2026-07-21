@@ -30,7 +30,8 @@ Sitting in a restaurant surrounded by Americans at different tables, it occurred
 
 Anywhere American tourists go becomes expensive, and a lot of Americans have Irish ancestry.
 
-It was a similar reasoning given by the locals in [Costa Rica](costa-rica.md).
+American tourism was the reason given by the locals in [Costa Rica](costa-rica.md) too,
+another country more expensive than it should be given its local economy.
 
 ## Dublin
 
