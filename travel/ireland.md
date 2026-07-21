@@ -19,7 +19,7 @@ I had heard this from other people, but like [Switzerland](switzerland.md), you 
 
 British citizens require no visa at all and could even live in Ireland.
 
-Although they have similar problems to the UK with mass immigration and high cost of living,
+Although Ireland has similar problems to the UK with mass immigration and high cost of living,
 so it's not clear why you'd want to.
 
 As I heard an Irish woman say, the real Ireland now only exists outside the cities.
