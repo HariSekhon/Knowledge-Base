@@ -72,4 +72,5 @@ with mains dishes in Dublin typically cost around €30 each, and even burgers a
 
 TODO:
 
-- [Merchant's Arch](https://maps.app.goo.gl/anFJ4njCko4hfdhw7) - decent 4.5 rating but tourist gouging prices, €30-50 per main, €30 even for burgers
+- [Merchant's Arch](https://maps.app.goo.gl/anFJ4njCko4hfdhw7) - decent 4.5 rating but tourist gouging prices,
+  €30-50 per main, €30 even for burgers
