@@ -49,7 +49,7 @@ You can buy the ticket online using the QR code at the coach stop.
 
 ### Accommodation in Dublin
 
-Accommodation was moderately pricey in Dublin.
+Accommodation was somewhat pricey in Dublin.
 
 - [Abigail's Hostel](https://maps.app.goo.gl/uTDBMZPBAhT3XtzG6) - decent hostel with kitchen but wifi didn't work
   properly in the lobby, very frustrating, didn't renew due to this
