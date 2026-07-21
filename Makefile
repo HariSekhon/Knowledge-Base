@@ -56,8 +56,10 @@ countries:
 		sed 's/$$//g' | \
 		sort -u; \
 	else \
-		echo "Nomads CSV location variable '$$nomads' is not set"; \
-	fi
+		echo "Nomads CSV location variable '$$nomads' is not set" 2>&1; \
+	fi | \
+	tee /dev/tty | \
+	bash-tools/bin/copy_to_clipboard.sh
 
 generate-indexes:
 	@# markdown_replace_index.sh is from DevOps-Bash-tools repo being in the $PATH
