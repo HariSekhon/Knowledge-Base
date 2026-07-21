@@ -570,7 +570,8 @@ a country
 
 Be careful with your luggage weight. I got charged $30 in Asia for being 2kg overweight.
 
-It is usually much cheaper to just book a larger luggage weight in advance, such as 25kg instead of 20kg.
+It is usually much cheaper to just book a larger luggage weight in advance, such as 23kg instead of 20kg,
+or 25kg instead of 23kg.
 
 If doing short trips, you might be better off not taking checked luggage at all as budget airlines like Whizz Air charge
 you a lot extra on top of the initial flight cost to have a checked luggage, and if only going somewhere for 2-3 days
