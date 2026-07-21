@@ -19,14 +19,14 @@ Restore Ireland.
 
 ## Dublin
 
-Dublin is a very multicultural city with many foreigners, similar to London.
+Dublin is expensive, and there isn't too much there so you probably don't want to spend more than a couple days there.
+
+Dublin is a very multi-ethnic city with many foreigners, similar to London.
 
 As such it's only mildly Irish with a few pubs and touristy restaurants, but otherwise it could be anywhere.
 
 Even when you go to other countries you find the Irish pubs, making the difference between western cities
 relatively small.
-
-Dublin is also expensive to dine out in, with mains typically cost around €30 each.
 
 ### Dublin Airport
 
@@ -49,3 +49,18 @@ Accommodation was moderately pricey in Dublin.
   properly in the lobby, very frustrating, didn't renew due to this
 
 ### Restaurants in Dublin
+
+Dining out in Dublin is relatively expensive,
+with mains dishes in Dublin typically cost around €30 each, and even burgers are typically €20-30 each.
+
+- [Eatokyo Noodles and Sushi Bar](https://maps.app.goo.gl/HseRdYcjeh3LstQD9) - the seafood ramen soup was decent.
+  The beef skewers came as 2 skewers with 3 beef pieces each and tiny asparagus in between the beef, glazed in a pool of
+  sweet teriyaki sauce.
+  The lunch menus looks decent and are a lot cheaper, try it.
+  The Irish cream cheesecake was way too diabetes-level overly sweet, I didn't even finish it which is rare for me,
+  don’t ever order that again.
+  WiFi 14/36 Mbit/s
+
+TODO:
+
+- [Merchant's Arch](https://maps.app.goo.gl/anFJ4njCko4hfdhw7) - decent 4.5 rating but tourist gouging prices, €30-50 per main, €30 even for burgers
