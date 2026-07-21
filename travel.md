@@ -539,7 +539,7 @@ Unfortunately they do not serve airports outside the US at time of writing.
 #### Return / Onwards Flights Required for Check-In
 
 Some airlines / countries require proof of outbound flights,
-and refuse to check you in or even luggage drop without it,
+and refuse to check you in (or even luggage drop without it if you've already done online check-in!),
 which can leave you scrambling to book an outbound flight from your destination country before the check-in closes.
 
 This has hit me travelling to:
