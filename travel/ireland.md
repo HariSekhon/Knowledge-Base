@@ -77,6 +77,9 @@ Pretty much everything around Temple Bar is a tourist trap.
   service as it's a small packed venue.
   Food is ok but tourist priced, although not quite as bad as some of the other restaurants in the area.
   Mains are €20-40, Starters and Desserts €10 each.
+  The beef stew was decent, although not cheap at €21 and next time I'd skip the extra €3 for mashed potato as the
+  bread was better with it anyway.
+  The apple crumble was decent too, although I'm not sure it's worth €10.
   Wifi 158/41 Mbit/s
 - [Eatokyo Noodles and Sushi Bar](https://maps.app.goo.gl/HseRdYcjeh3LstQD9) - the seafood ramen soup was decent.
   The beef skewers came as 2 skewers with 3 beef pieces each and tiny asparagus in between the beef, glazed in a pool of
