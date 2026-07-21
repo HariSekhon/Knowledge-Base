@@ -47,8 +47,17 @@ build: init
 	@#$(MAKE) pre-commit
 	@echo "All Checks Passed"
 
-countries:
+nomads:
 	.github/scripts/country_count.sh
+
+countries:
+	if [ -e "$$nomads" ]; then \
+		awk -F'"' '{print $$10}' "$$nomads" | \
+		sed 's/$$//g' | \
+		sort -u; \
+	else \
+		echo "Nomads CSV location variable '$$nomads' is not set"; \
+	fi
 
 generate-indexes:
 	@# markdown_replace_index.sh is from DevOps-Bash-tools repo being in the $PATH
