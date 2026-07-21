@@ -4,17 +4,17 @@
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/stargazers)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/commits/main)
 
-[![Total Countries](https://img.shields.io/badge/Total%20Countries-74-blue)](https://nomads.com/@harisekhon)
+[![Total Countries](https://img.shields.io/badge/Total%20Countries-75-blue)](https://nomads.com/@harisekhon)
 [![Countries in 2024](https://img.shields.io/badge/in%202024-20-blue)](https://nomads.com/@harisekhon)
 [![Countries in 2025](https://img.shields.io/badge/in%202025-35-blue)](https://nomads.com/@harisekhon)
-[![Countries in 2026](https://img.shields.io/badge/in%202026-32-blue)](https://nomads.com/@harisekhon)
-[![Unique Countries 2024+](https://img.shields.io/badge/Unique%20Countries%202024+-67-blue)](https://nomads.com/@harisekhon)
+[![Countries in 2026](https://img.shields.io/badge/in%202026-34-blue)](https://nomads.com/@harisekhon)
+[![Unique Countries 2024+](https://img.shields.io/badge/Unique%20Countries%202024+-68-blue)](https://nomads.com/@harisekhon)
 
-[![Total Cities](https://img.shields.io/badge/Total%20Cities-287-blue)](https://nomads.com/@harisekhon)
+[![Total Cities](https://img.shields.io/badge/Total%20Cities-291-blue)](https://nomads.com/@harisekhon)
 [![Cities in 2024](https://img.shields.io/badge/in%202024-70-blue)](https://nomads.com/@harisekhon)
 [![Cities in 2025](https://img.shields.io/badge/in%202025-89-blue)](https://nomads.com/@harisekhon)
-[![Cities in 2026](https://img.shields.io/badge/in%202026-122-blue)](https://nomads.com/@harisekhon)
-[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-263-blue)](https://nomads.com/@harisekhon)
+[![Cities in 2026](https://img.shields.io/badge/in%202026-127-blue)](https://nomads.com/@harisekhon)
+[![Unique Cities 2024+](https://img.shields.io/badge/Unique%20Cities%202024+-267-blue)](https://nomads.com/@harisekhon)
 
 Short links to this page:
 
@@ -121,9 +121,9 @@ Updated regularly as I travel the world 52 weeks a year.
 
 ## Countries
 
-Countries: 74
+Countries: 75
 
-Cities: 287
+Cities: 291
 
 - Countries in 2024: 20
   - Cities in 2024: 70
@@ -138,13 +138,13 @@ Cities: 287
     Romania, Hungary, Slovakia, Austria, Czechia, Poland, Germany, UK, Slovenia, Croatia, Montenegro, Albania,
     North Macedonia, Bosnia & Herzegovina, Ukraine, Moldova, Tunisia, Jordan, Lebanon, Spain, Mexico, Guatemala,
     El Salvador, Costa Rica, Panama, Colombia
-- Countries in 2026: 32
-  - Cities in 2026: 122
+- Countries in 2026: 34
+  - Cities in 2026: 127
   - Countries: Colombia (continued), Ecuador, Peru, Bolivia, Chile, Argentina, Uruguay, Brazil, Paraguay, Curacao,
     Dominican Republic, Jamaica, Puerto Rico, Spain, Malta, Serbia, Hungary, Slovakia, Czechia, Germany, Belgium,
-    France, UK, Luxembourg, Switzerland, Liechtenstein, Italy, Monaco, Andorra, Portugal, Poland, Netherlands
-- Unique Countries since Emigrating from the UK in 2024: 67
-  - Unique Cities since Emigrating from the UK in 2024: 263
+    France, UK, Luxembourg, Switzerland, Liechtenstein, Italy, Monaco, Andorra, Portugal, Poland, Netherlands, Ireland
+- Unique Countries since Emigrating from the UK in 2024: 68
+  - Unique Cities since Emigrating from the UK in 2024: 267
 
 Country pages with specific tips for each country:
 
@@ -443,9 +443,11 @@ Some countries require an entire clean passport page for their immigration stamp
 
 ## Flights
 
-My friend has travelled to even more countries than I have and was always going where the cheap flights took him.
+My friend has travelled to even more countries than I have and is always exploring where ever the cheapest flights take
+him.
 
-This inspired me to eventually start cost optimizing my flights around the world.
+I call him the _"King of Cheap Flights"_, which has influenced me to eventually start cost optimizing my flights around
+the world.
 
 So here is what I've learnt about flights travelling around the world and back again and taking way too many flights.
 
@@ -509,7 +511,13 @@ Ranked by my success in finding affordable flights:
     and I had to go back to comparison sites directly to pinpoint them homing in on the dates I already knew were the
     cheapest from the previous AI analysis.
     Even the same AI is super unreliable between runs and I would have lost £200 on the flight if just relying on AI
-- [SkyScanner.net](https://www.skyscanner.net/) - had cheaper flights that weren't even found on Expedia, and cheaper on the same flights too
+- [SkyScanner.net](https://www.skyscanner.net/) - had cheaper flights that weren't even found on Expedia,
+  and cheaper on the same flights too.
+  SkyScanner has the edge over Kayak in that you can leave the destination empty
+  and find cheap flights if you're not fussed where you want to go.
+  My friend goes to all sorts of random places whereever the flights are dirt cheap to explore,
+  which is where I got this idea.
+  I call him the _"King of Cheap Flights"_ which influenced me to cost optimize my flights too
 - [Kayak.com](https://www.kayak.com/) - even cheaper than SkyScanner and had cheaper flights not found on Expedia
 - [Booking.com](https://www.booking.com)
 - [Agoda.com](https://www.agoda.com/) - better for hotels than flights
