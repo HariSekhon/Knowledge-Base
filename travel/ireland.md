@@ -19,6 +19,8 @@ British citizens require no visa at all and could even live in Ireland.
 
 Although they have similar problems to the UK with mass immigration and high cost of living.
 
+As I heard an Irish woman say, the real Ireland now only exists outside the cities.
+
 Restore Ireland.
 
 ## Dublin
