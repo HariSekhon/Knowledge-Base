@@ -53,7 +53,8 @@ You can buy the ticket online using the QR code at the coach stop.
 Accommodation was somewhat pricey in Dublin.
 
 - [Abigail's Hostel](https://maps.app.goo.gl/uTDBMZPBAhT3XtzG6) - decent hostel with kitchen but wifi didn't work
-  properly in the lobby, very frustrating, didn't renew due to this
+  properly in the lobby, very frustrating, didn't renew due to this.
+  Wifi 4/1 Mbit/s worked better in dorm than lobby
 - [Abbey Court Hostel](https://maps.app.goo.gl/aDgFYqCgzokRFhv17) - just across the bridge from Abigail's,
   also very central
 
