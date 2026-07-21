@@ -2,14 +2,18 @@
 
 <!-- INDEX_START -->
 
-- [Visa](#visa)
+- [Summary](#summary)
 - [Dublin](#dublin)
   - [Dublin Airport](#dublin-airport)
-  - [Travel from Dublin Airport](#travel-from-dublin-airport)
+    - [Travel from Dublin Airport](#travel-from-dublin-airport)
+  - [Accommodation in Dublin](#accommodation-in-dublin)
+  - [Restaurants in Dublin](#restaurants-in-dublin)
 
 <!-- INDEX_END -->
 
-## Visa
+## Summary
+
+I've only been to Dublin, but it is expensive, similar to London.
 
 British citizens require no visa at all and could even live in Ireland.
 
