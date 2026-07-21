@@ -17,7 +17,8 @@ I've only been to Dublin, but it is expensive, similar to London.
 
 British citizens require no visa at all and could even live in Ireland.
 
-Although they have similar problems to the UK with mass immigration and high cost of living.
+Although they have similar problems to the UK with mass immigration and high cost of living,
+so it's not clear why you'd want to.
 
 As I heard an Irish woman say, the real Ireland now only exists outside the cities.
 
