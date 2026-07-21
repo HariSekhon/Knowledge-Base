@@ -30,6 +30,8 @@ it is a full 1st class capital, not big, but good, see below for more on that.
 The weather on the mountain tops is a bit chilly when I stopped at the first petrol station to refill,
 but was better in the capital Andorra la Vella as it is much lower down and sheltered between the mountains.
 
+If taking a road trip between France and Spain I recommend a stopover in Andorra, as it is in between the two.
+
 ## Driving in Andorra
 
 The mountain roads are winding but views are great.
