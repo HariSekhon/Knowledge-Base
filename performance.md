@@ -84,6 +84,10 @@ htop
 btop
 ```
 
+```shell
+gtop
+```
+
 ## RAM / Memory
 
 - Paging vs Swapping
