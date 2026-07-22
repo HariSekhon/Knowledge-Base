@@ -74,7 +74,10 @@ Accommodation was somewhat pricey in Dublin.
 ### Restaurants in Dublin
 
 Dining out in Dublin is relatively expensive,
-with mains dishes in Dublin typically cost around €30 each, and even burgers are typically €20-30 each.
+with mains dishes in Dublin typically cost around €30 each - even burgers or fish & chips are typically €20-30.
+
+The main problem is that these prices are for mediocre and peasant food,
+nowhere near what you'd get in many other countries for the same price.
 
 Pretty much everything around Temple Bar is a tourist trap.
 
