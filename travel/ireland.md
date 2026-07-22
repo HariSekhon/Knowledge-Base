@@ -104,13 +104,13 @@ TODO:
 - [Izushi Temple Bar](https://maps.app.goo.gl/NPpNzezoUB8RKKAo6) - 4.5 - reasonable prices on sushi and bento,
   closes early at 9pm (sign of a foodie place)
 - [Bunsen Temple Bar](https://maps.app.goo.gl/Mszyg7afzdyr3nrq8) - 4.6 - burgers
-- [Merchant's Arch](https://maps.app.goo.gl/anFJ4njCko4hfdhw7) - decent 4.5 rating but tourist gouging prices,
-  €30-50 per main, €30 even for burgers
 - [Brasa](https://maps.app.goo.gl/A2SRnUom1CjcCWHQA) - 4.6 - Brazilian - decent
   [menu](https://brasadublin.ie/menus/), and a 2 hours all your can eat option for €33
 - [TONI](https://maps.app.goo.gl/CbQAgPuYpQJG4GCa8) - 4.7 - Italian - gourmet pizza and pasta
 - [Fish Shop](https://maps.app.goo.gl/RSWyQXDXYG78HTuD7) - 4.6 - €23-25 for a fish and chips. This used to be poor people's
   food when I was a kid!
+- [Merchant's Arch](https://maps.app.goo.gl/anFJ4njCko4hfdhw7) - decent 4.5 rating but tourist gouging prices,
+  €30-50 per main, €30 even for burgers
 - [The Ivy Asia Dublin](https://maps.app.goo.gl/FVpQf3LDE6vEypgP8) - 4.5 - upmarket restaurant
 - [Hawksmoor Dublin](https://maps.app.goo.gl/tXXyCHDf6ZAAzjs68) - 4.5 - upmarket steak restaurant chain, same as in
   London
