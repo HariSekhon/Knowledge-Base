@@ -23,6 +23,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Mas - App Store Apps Management](#mas---app-store-apps-management)
 - [Activity Monitor](#activity-monitor)
   - [Real-Time Charts of CPU Cores Usage](#real-time-charts-of-cpu-cores-usage)
+- [Power Metrics](#power-metrics)
 - [Force Quit Applications](#force-quit-applications)
 - [Stats Bar](#stats-bar)
 - [Rearrange Status Bar Icons](#rearrange-status-bar-icons)
@@ -297,6 +298,14 @@ pgrep 'Google Chrome Helper' | xargs sudo renice -20
 but in my testing this is only a hint and less effective than on classic architectures.
 
 There is no way to set CPU affinity to performance cores.
+
+## Power Metrics
+
+You can get more detailed stats from the `powermetrics` command:
+
+```shell
+sudo powermetrics -i 1000 -s cpu_power
+```
 
 ## Force Quit Applications
 
