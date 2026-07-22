@@ -96,8 +96,8 @@ TODO:
 
 - [Mongolian Barbeque](https://maps.app.goo.gl/Lf7g6TEqB2jVQ8U18) - 4.6 - [Menu](https://mongolianbbq.ie/menus/) - all
   you can eat for €25. Must try
-- [Izushi Temple Bar](https://maps.app.goo.gl/NPpNzezoUB8RKKAo6) - reasonable prices, closes early at 9pm
-  (sign of a foodie place)
+- [Izushi Temple Bar](https://maps.app.goo.gl/NPpNzezoUB8RKKAo6) - reasonable prices on sushi and bento,
+  closes early at 9pm (sign of a foodie place)
 - [O'Sheas](https://maps.app.goo.gl/HmqERu6ayvjrwdkTA) - 4.3 - has Irish stew and Guiness beef stew,
   slightly more reasonable price on the fish & chips, the whiskey sausages also caught my eye
 - [The Black Forge Inn](https://maps.app.goo.gl/ivdvah8up3YpAu9Q6) - 4.4 - Conor McGregor's pub -
