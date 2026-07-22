@@ -102,6 +102,7 @@ Pretty much everything around Temple Bar is a tourist trap.
 
 TODO:
 
+- [Toca Tapioca House](https://maps.app.goo.gl/eLjvSwjjqxPVPjDZ9) - 4.8 cafe brunch restaurant with acai bowls
 - [Hanley's Cornish Pasties](https://maps.app.goo.gl/mt3azcMzBDJkuRUT8) - 4.4 - pasties, good for a snack
 - [Street Food Factory](https://maps.app.goo.gl/P1KkQ4rPEquRkNhM8) - 4.5 - one of the cheaper restaurants in Dublin
   where you can actually eat for under €20
