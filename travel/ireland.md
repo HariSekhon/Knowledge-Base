@@ -79,6 +79,8 @@ with mains dishes in Dublin typically cost around €30 each - even burgers or f
 The main problem is that these prices are for mediocre and peasant food,
 nowhere near what you'd get in many other countries for the same price.
 
+I really struggled to find anything I considered good and reasonably priced.
+
 Pretty much everything around Temple Bar is a tourist trap.
 
 - [Old Mill Restaurant](https://maps.app.goo.gl/Fu5zpg64zWrKgxgK9) - there's always a queue and long wait, and slow
