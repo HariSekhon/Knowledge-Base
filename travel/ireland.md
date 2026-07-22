@@ -101,6 +101,7 @@ Pretty much everything around Temple Bar is a tourist trap.
 
 TODO:
 
+- [Hanley's Cornish Pasties](https://maps.app.goo.gl/mt3azcMzBDJkuRUT8) - 4.4 - pasties
 - [Street Food Factory](https://maps.app.goo.gl/P1KkQ4rPEquRkNhM8) - 4.5 - one of the cheaper restaurants in Dublin
   where you can actually eat for under €20
 - [Kimchi Hophouse](https://maps.app.goo.gl/8ZjVCR723CLN3GVv8) - 4.4 - oldest Korean restaurant in Dublin - €17 for
