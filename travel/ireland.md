@@ -147,4 +147,5 @@ TODO:
 ### Groceries in Dublin
 
 - [SuperValu Aston Quay](https://maps.app.goo.gl/2xLbeF86sn66HVyT8) - you might want to get some food here given how
-  expensive the restaurants are
+  expensive the restaurants are.
+  Significantly cheaper than the Tescos (eg. €3 for 24 large eggs instead of €5 at Tescos on the next road)
