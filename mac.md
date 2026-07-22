@@ -272,15 +272,14 @@ open -a "Activity Monitor"
 While the [Stats](#stats-bar) bar application is excellent and contains some CPU graphs,
 if you want to have bigger charts that you can keep open on top while you test applications, do this:
 
-Open Activity Monitor, then in the top bar:
+Open Activity Monitor, then:
 
-`Cmd` + `2` or click `Windows` -> `CPU Usage`
+| Hot Key     | Click on Top Menu          |
+|-------------|----------------------------|
+| `Cmd` + `2` | `Windows` -> `CPU Usage`   |
+| `Cmd` + `3` | `Windows` -> `CPU History` |
 
-and
-
-`Cmd` + `3` or click `Windows` -> `CPU History`
-
-Also select:
+Also click in the top menu:
 
 `Windows` -> `Keep CPU Windows on Top`
 
