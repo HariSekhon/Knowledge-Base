@@ -109,3 +109,5 @@ TODO:
 - [The Ivy Asia Dublin](https://maps.app.goo.gl/FVpQf3LDE6vEypgP8) - 4.5 - upmarket restaurant
 - [Govinda's](https://maps.app.goo.gl/mJAbKbbZgvJtZRCs9) - 4.6 - Indian vegetarian - same chain as the one in Soho,
   central London
+- [Hawksmoor Dublin](https://maps.app.goo.gl/tXXyCHDf6ZAAzjs68) - 4.5 - upmarket steak restaurant chain, same as in
+  London
