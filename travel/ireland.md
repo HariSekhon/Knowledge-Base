@@ -107,7 +107,8 @@ TODO:
 - [Fish Shop](https://maps.app.goo.gl/RSWyQXDXYG78HTuD7) - 4.6 - €23-25 for a fish and chips. This used to be poor people's
   food when I was a kid!
 - [The Ivy Asia Dublin](https://maps.app.goo.gl/FVpQf3LDE6vEypgP8) - 4.5 - upmarket restaurant
-- [Govinda's](https://maps.app.goo.gl/mJAbKbbZgvJtZRCs9) - 4.6 - Indian vegetarian - same chain as the one in Soho,
-  central London
 - [Hawksmoor Dublin](https://maps.app.goo.gl/tXXyCHDf6ZAAzjs68) - 4.5 - upmarket steak restaurant chain, same as in
   London
+- [The Bank on College Green](https://maps.app.goo.gl/bU3TtUq3CcUQeG1o8) - 4.5 - upmarket bar restaurant
+- [Govinda's](https://maps.app.goo.gl/mJAbKbbZgvJtZRCs9) - 4.6 - Indian vegetarian - same chain as the one in Soho,
+  central London
