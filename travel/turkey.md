@@ -2,18 +2,24 @@
 
 <!-- INDEX_START -->
 
-- [Antalya Airport](#antalya-airport)
+- [Summary](#summary)
+- [Antalya](#antalya)
+  - [Antalya Airport](#antalya-airport)
 - [Istanbul](#istanbul)
   - [Taxis in Istanbul](#taxis-in-istanbul)
   - [Restaurants in Istanbul](#restaurants-in-istanbul)
 
 <!-- INDEX_END -->
 
+## Summary
+
 Inflation and rent prices make this not a good value for money destination.
 
 Expensive restaurants and there are only so many times you can eat kebab / mixed grill / dips.
 
-## Antalya Airport
+## Antalya
+
+### Antalya Airport
 
 I had a stop over and missed my connecting flight due to a 2 hour delay by the first flight.
 
