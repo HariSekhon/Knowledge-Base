@@ -125,3 +125,5 @@ TODO:
 - [The Bank on College Green](https://maps.app.goo.gl/bU3TtUq3CcUQeG1o8) - 4.5 - upmarket bar restaurant
 - [Govinda's](https://maps.app.goo.gl/mJAbKbbZgvJtZRCs9) - 4.6 - Indian vegetarian - same chain as the one in Soho,
   central London
+- [Leo Burdock](https://maps.app.goo.gl/phaUUZxKRdeiyNKR9) - 4.1 - traditional fish & chip €17 - better rated than the
+  other one
