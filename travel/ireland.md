@@ -118,7 +118,7 @@ TODO:
 - [Fish Shop](https://maps.app.goo.gl/RSWyQXDXYG78HTuD7) - 4.6 - €23-25 for a fish & chips. This used to be poor people's
   food when I was a kid!
 - [Merchant's Arch](https://maps.app.goo.gl/anFJ4njCko4hfdhw7) - decent 4.5 rating but tourist gouging prices,
-  €30-50 per main, €30 even for burgers
+  €30-50 per main, €30 even for burgers - [Menu](https://www.merchantsarch.ie/menus)
 - [The Ivy Asia Dublin](https://maps.app.goo.gl/FVpQf3LDE6vEypgP8) - 4.5 - upmarket restaurant
 - [Hawksmoor Dublin](https://maps.app.goo.gl/tXXyCHDf6ZAAzjs68) - 4.5 - upmarket steak restaurant chain, same as in
   London
