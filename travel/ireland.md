@@ -8,6 +8,7 @@
     - [Travel from Dublin Airport](#travel-from-dublin-airport)
   - [Accommodation in Dublin](#accommodation-in-dublin)
   - [Restaurants in Dublin](#restaurants-in-dublin)
+  - [Groceries in Dublin](#groceries-in-dublin)
 
 <!-- INDEX_END -->
 
@@ -138,3 +139,8 @@ TODO:
   central London
 - [Leo Burdock](https://maps.app.goo.gl/phaUUZxKRdeiyNKR9) - 4.1 - traditional fish & chip €17 - better rated than the
   other one
+
+### Groceries in Dublin
+
+- [SuperValu Aston Quay](https://maps.app.goo.gl/2xLbeF86sn66HVyT8) - you might want to get some food here given how
+  expensive the restaurants are
