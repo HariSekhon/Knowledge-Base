@@ -100,3 +100,5 @@ TODO:
   [menu](https://brasadublin.ie/menus/), and a 2 hours all your can eat option for €33
 - [Fish Shop](https://maps.app.goo.gl/RSWyQXDXYG78HTuD7) - 4.6 - €23-25 for a fish and chips. This used to be poor people's
   food when I was a kid!
+- [Govinda's](https://maps.app.goo.gl/mJAbKbbZgvJtZRCs9) - 4.6 - Indian vegetarian - same chain as the one in Soho,
+  central London
