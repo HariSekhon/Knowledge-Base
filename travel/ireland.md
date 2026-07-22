@@ -97,4 +97,4 @@ TODO:
 - [Merchant's Arch](https://maps.app.goo.gl/anFJ4njCko4hfdhw7) - decent 4.5 rating but tourist gouging prices,
   €30-50 per main, €30 even for burgers
 - [Fish Shop](https://maps.app.goo.gl/RSWyQXDXYG78HTuD7) - €23-25 for a fish and chips. This used to be poor people's
-  food when I was a kid
+  food when I was a kid!
