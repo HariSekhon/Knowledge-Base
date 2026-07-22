@@ -106,6 +106,7 @@ TODO:
   €30-50 per main, €30 even for burgers
 - [Brasa](https://maps.app.goo.gl/A2SRnUom1CjcCWHQA) - 4.6 - Brazilian - decent
   [menu](https://brasadublin.ie/menus/), and a 2 hours all your can eat option for €33
+- [TONI](https://maps.app.goo.gl/CbQAgPuYpQJG4GCa8) - 4.7 - Italian - gourmet pizza and pasta
 - [Fish Shop](https://maps.app.goo.gl/RSWyQXDXYG78HTuD7) - 4.6 - €23-25 for a fish and chips. This used to be poor people's
   food when I was a kid!
 - [The Ivy Asia Dublin](https://maps.app.goo.gl/FVpQf3LDE6vEypgP8) - 4.5 - upmarket restaurant
