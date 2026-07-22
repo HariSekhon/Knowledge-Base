@@ -98,8 +98,6 @@ TODO:
   bibimbap
 - [Mongolian Barbeque](https://maps.app.goo.gl/Lf7g6TEqB2jVQ8U18) - 4.6 - [Menu](https://mongolianbbq.ie/menus/) - all
   you can eat for €25. Must try
-- [O'Sheas](https://maps.app.goo.gl/HmqERu6ayvjrwdkTA) - 4.3 - has Irish stew and Guiness beef stew,
-  slightly more reasonable price on the fish & chips, the whiskey sausages also caught my eye
 - [The Black Forge Inn](https://maps.app.goo.gl/ivdvah8up3YpAu9Q6) - 4.4 - Conor McGregor's pub -
   [Menu](https://www.theblackforgeinn.com/main-menu/) - I'd get the fish & chips or steak sambo -
   perhaps worth a pilgrimage for MMA fans - about 30 minutes from the centre by bus
@@ -108,6 +106,8 @@ TODO:
 - [Bunsen Temple Bar](https://maps.app.goo.gl/Mszyg7afzdyr3nrq8) - 4.6 - burgers
 - [Brasa](https://maps.app.goo.gl/A2SRnUom1CjcCWHQA) - 4.6 - Brazilian - decent
   [menu](https://brasadublin.ie/menus/), and a 2 hours all your can eat option for €33
+- [O'Sheas](https://maps.app.goo.gl/HmqERu6ayvjrwdkTA) - 4.3 - has Irish stew and Guiness beef stew,
+  slightly more reasonable price on the fish & chips, the whiskey sausages also caught my eye
 - [TONI](https://maps.app.goo.gl/CbQAgPuYpQJG4GCa8) - 4.7 - Italian - gourmet pizza and pasta
 - [The Quays Dublin - Temple Bar](https://maps.app.goo.gl/DWYspWDQytyvpC3s9) - 4.5 - a little pricier than neighbouring
   restaurants with the same Irish dishes like stew
