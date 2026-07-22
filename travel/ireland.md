@@ -46,6 +46,8 @@ As such it's only mildly Irish with a few pubs and touristy restaurants, but oth
 Even when you go to other countries you find the Irish pubs, making the difference between western cities
 relatively small.
 
+You'll find whiskey distilleries and overpriced restaurants.
+
 ### Dublin Airport
 
 Dublin Airport has free wifi with simple one button connect captcha portal.
