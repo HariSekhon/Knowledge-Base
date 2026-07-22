@@ -133,7 +133,8 @@ TODO:
 - [Merchant's Arch](https://maps.app.goo.gl/anFJ4njCko4hfdhw7) - decent 4.5 rating but tourist gouging prices,
   €30-50 per main, €30 even for burgers or fish & chips - [Menu](https://www.merchantsarch.ie/menus)
 - [The Ivy Asia Dublin](https://maps.app.goo.gl/FVpQf3LDE6vEypgP8) - 4.5 - usually the Ivy is an upmarket restaurant but
-  because Dublin is so expensive it's prices are only on par here! - [Menu](https://theivyasia.com/asian-food-near-me/asian-restaurants-ireland/the-ivy-asia-dublin/a-la-carte-menu/)
+  because Dublin is so expensive it's prices are only on par here! -
+  [Menu](https://theivyasia.com/asian-food-near-me/asian-restaurants-ireland/the-ivy-asia-dublin/a-la-carte-menu/)
 - [Hawksmoor Dublin](https://maps.app.goo.gl/tXXyCHDf6ZAAzjs68) - 4.5 - upmarket steak restaurant chain, same as in
   London
 - [The Bank on College Green](https://maps.app.goo.gl/bU3TtUq3CcUQeG1o8) - 4.5 - upmarket bar restaurant
