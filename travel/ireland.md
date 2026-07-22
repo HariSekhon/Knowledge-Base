@@ -96,8 +96,8 @@ TODO:
 
 - [Mongolian Barbeque](https://maps.app.goo.gl/Lf7g6TEqB2jVQ8U18) - 4.6 - [Menu](https://mongolianbbq.ie/menus/) - all
   you can eat for €25. Must try
-- [O'Sheas](https://maps.app.goo.gl/HmqERu6ayvjrwdkTA) - 4.3 - slightly more reasonable price on the fish & chips,
-  the whiskey sausages caught my eye
+- [O'Sheas](https://maps.app.goo.gl/HmqERu6ayvjrwdkTA) - 4.3 - has Irish stew and Guiness beef stew,
+  slightly more reasonable price on the fish & chips, the whiskey sausages also caught my eye
 - [The Black Forge Inn](https://maps.app.goo.gl/ivdvah8up3YpAu9Q6) - 4.4 - Conor McGregor's pub -
   [Menu](https://www.theblackforgeinn.com/main-menu/) - I'd get the fish & chips or steak sambo -
   perhaps worth a pilgrimage for MMA fans - about 30 minutes from the centre by bus
