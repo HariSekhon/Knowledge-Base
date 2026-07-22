@@ -111,7 +111,9 @@ TODO:
   restaurants with the same Irish dishes like stew
 - [The Old Storehouse Bar and Restaurant](https://maps.app.goo.gl/QwtyeJqSs6CiwWKa7) - 4.5 - Irish pub -
   [Menu](https://theoldstorehouse.ie/menus/) - also a little pricier similar to Quays
-- [Fish Shop](https://maps.app.goo.gl/RSWyQXDXYG78HTuD7) - 4.6 - €23-25 for a fish and chips. This used to be poor people's
+- [Gallaghers Boxty House](https://maps.app.goo.gl/rGrN7w4AxndF1xZH7) - 4.4 -
+  [Menu](https://www.boxtyhouse.ie/%C3%A1-la-carte-menu) - pricey at €28 for a fish & chips
+- [Fish Shop](https://maps.app.goo.gl/RSWyQXDXYG78HTuD7) - 4.6 - €23-25 for a fish & chips. This used to be poor people's
   food when I was a kid!
 - [Merchant's Arch](https://maps.app.goo.gl/anFJ4njCko4hfdhw7) - decent 4.5 rating but tourist gouging prices,
   €30-50 per main, €30 even for burgers
