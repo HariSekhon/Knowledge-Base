@@ -117,6 +117,7 @@ TODO:
   [Menu](https://www.boxtyhouse.ie/%C3%A1-la-carte-menu) - pricey at €28 for a fish & chips
 - [Fish Shop](https://maps.app.goo.gl/RSWyQXDXYG78HTuD7) - 4.6 - €23-25 for a fish & chips. This used to be poor people's
   food when I was a kid!
+- [Claypot City Garden](https://maps.app.goo.gl/XhCkQDgBsqkAuupz7) - 4.9 - Chinese
 - [Merchant's Arch](https://maps.app.goo.gl/anFJ4njCko4hfdhw7) - decent 4.5 rating but tourist gouging prices,
   €30-50 per main, €30 even for burgers or fish & chips - [Menu](https://www.merchantsarch.ie/menus)
 - [The Ivy Asia Dublin](https://maps.app.goo.gl/FVpQf3LDE6vEypgP8) - 4.5 - upmarket restaurant
