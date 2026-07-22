@@ -84,6 +84,9 @@ I really struggled to find anything I considered good and reasonably priced.
 
 Pretty much everything around Temple Bar is a tourist trap.
 
+- [Leo Burdock](https://maps.app.goo.gl/phaUUZxKRdeiyNKR9) - decent traditional fish & chips but tourist priced €17 and
+  takeaway only, although it's cheaper than all the restaurants charging €20-28 for the same.
+  This one is better rated than the other one in Temple Bar
 - [Old Mill Restaurant](https://maps.app.goo.gl/Fu5zpg64zWrKgxgK9) - there's always a queue and long wait, and slow
   service as it's a small packed venue.
   Food is ok but tourist priced, although not quite as bad as some of the other restaurants in the area.
@@ -140,8 +143,6 @@ TODO:
 - [The Bank on College Green](https://maps.app.goo.gl/bU3TtUq3CcUQeG1o8) - 4.5 - upmarket bar restaurant
 - [Govinda's](https://maps.app.goo.gl/mJAbKbbZgvJtZRCs9) - 4.6 - Indian vegetarian - same chain as the one in Soho,
   central London
-- [Leo Burdock](https://maps.app.goo.gl/phaUUZxKRdeiyNKR9) - 4.1 - traditional fish & chip €17 - better rated than the
-  other one
 
 ### Groceries in Dublin
 
