@@ -76,6 +76,14 @@ top -H -b -n 1
 mpstat -P ALL 1 5
 ```
 
+```shell
+htop
+```
+
+```shell
+btop
+```
+
 ## RAM / Memory
 
 - Paging vs Swapping
