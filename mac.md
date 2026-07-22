@@ -22,6 +22,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Homebrew - Package Management](#homebrew---package-management)
 - [Mas - App Store Apps Management](#mas---app-store-apps-management)
 - [Activity Monitor](#activity-monitor)
+  - [Real-Time Charts of CPU Usage](#real-time-charts-of-cpu-usage)
 - [Force Quit Applications](#force-quit-applications)
 - [Stats Bar](#stats-bar)
 - [Rearrange Status Bar Icons](#rearrange-status-bar-icons)
@@ -265,6 +266,38 @@ On the command line you can also just run this:
 ```shell
 open -a "Activity Monitor"
 ```
+
+### Real-Time Charts of CPU Usage
+
+While the [Stats](#stats-bar) bar application is excellent and contains some CPU graphs,
+if you want to have bigger charts that you can keep open on top while you test applications, do this:
+
+Open Activity Monitor as per above, then in the top bar:
+
+`Cmd` + `2` or click `Windows` -> `CPU Usage`
+
+and
+
+`Cmd` + `3` or click `Windows` -> `CPU History`
+
+Also select:
+
+`Windows` -> `Keep CPU Windows on Top`
+
+You can now test your applications while watching how your CPUs are behaving.
+
+You will notice some applications that you will wish were faster like `Google Chrome Helper (Renderer)` are using
+efficiency cores while Google Maps is sluggish.
+
+You can try:
+
+```shell
+pgrep 'Google Chrome Helper' | xargs sudo renice -20
+```
+
+but in my testing this is only a hint and less effective than on classic architectures.
+
+There is no way to set CPU affinity to performance cores.
 
 ## Force Quit Applications
 
