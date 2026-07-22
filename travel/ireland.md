@@ -94,13 +94,15 @@ Pretty much everything around Temple Bar is a tourist trap.
 
 TODO:
 
-- [The Black Forge Inn](https://maps.app.goo.gl/ivdvah8up3YpAu9Q6) - 4.4 - Conor McGregor's pub - perhaps worth a
-  pilgrimage for MMA fans - about 30 minutes from the centre by bus
+- [The Black Forge Inn](https://maps.app.goo.gl/ivdvah8up3YpAu9Q6) - 4.4 - Conor McGregor's pub -
+  [Menu](https://www.theblackforgeinn.com/main-menu/) -
+  perhaps worth a pilgrimage for MMA fans - about 30 minutes from the centre by bus
 - [Merchant's Arch](https://maps.app.goo.gl/anFJ4njCko4hfdhw7) - decent 4.5 rating but tourist gouging prices,
   €30-50 per main, €30 even for burgers
 - [Brasa](https://maps.app.goo.gl/A2SRnUom1CjcCWHQA) - 4.6 - Brazilian - decent
   [menu](https://brasadublin.ie/menus/), and a 2 hours all your can eat option for €33
 - [Fish Shop](https://maps.app.goo.gl/RSWyQXDXYG78HTuD7) - 4.6 - €23-25 for a fish and chips. This used to be poor people's
   food when I was a kid!
+- [The Ivy Asia Dublin](https://maps.app.goo.gl/FVpQf3LDE6vEypgP8) - 4.5 - upmarket restaurant
 - [Govinda's](https://maps.app.goo.gl/mJAbKbbZgvJtZRCs9) - 4.6 - Indian vegetarian - same chain as the one in Soho,
   central London
