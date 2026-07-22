@@ -95,7 +95,7 @@ Pretty much everything around Temple Bar is a tourist trap.
 TODO:
 
 - [The Black Forge Inn](https://maps.app.goo.gl/ivdvah8up3YpAu9Q6) - 4.4 - Conor McGregor's pub - perhaps worth a
-  pilgrimage for MMA fans
+  pilgrimage for MMA fans - about 30 minutes from the centre by bus
 - [Merchant's Arch](https://maps.app.goo.gl/anFJ4njCko4hfdhw7) - decent 4.5 rating but tourist gouging prices,
   €30-50 per main, €30 even for burgers
 - [Brasa](https://maps.app.goo.gl/A2SRnUom1CjcCWHQA) - 4.6 - Brazilian - decent
