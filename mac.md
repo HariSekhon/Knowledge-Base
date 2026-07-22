@@ -22,7 +22,7 @@ heavyweight IDEs like [IntelliJ](intellij.md).
 - [Homebrew - Package Management](#homebrew---package-management)
 - [Mas - App Store Apps Management](#mas---app-store-apps-management)
 - [Activity Monitor](#activity-monitor)
-  - [Real-Time Charts of CPU Usage](#real-time-charts-of-cpu-usage)
+  - [Real-Time Charts of CPU Cores Usage](#real-time-charts-of-cpu-cores-usage)
 - [Force Quit Applications](#force-quit-applications)
 - [Stats Bar](#stats-bar)
 - [Rearrange Status Bar Icons](#rearrange-status-bar-icons)
@@ -267,7 +267,7 @@ On the command line you can also just run this:
 open -a "Activity Monitor"
 ```
 
-### Real-Time Charts of CPU Core Usage
+### Real-Time Charts of CPU Cores Usage
 
 While the [Stats](#stats-bar) bar application is excellent and contains some CPU graphs,
 if you want to have bigger charts that you can keep open on top while you test applications, do this:
