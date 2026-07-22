@@ -267,7 +267,7 @@ On the command line you can also just run this:
 open -a "Activity Monitor"
 ```
 
-### Real-Time Charts of CPU Usage
+### Real-Time Charts of CPU Core Usage
 
 While the [Stats](#stats-bar) bar application is excellent and contains some CPU graphs,
 if you want to have bigger charts that you can keep open on top while you test applications, do this:
