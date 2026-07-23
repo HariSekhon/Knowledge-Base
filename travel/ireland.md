@@ -73,7 +73,8 @@ Accommodation was somewhat pricey in Dublin.
   No cooking after 9:30pm but at least you can get water.
   Wifi 4/1 Mbit/s worked better in dorm than lobby
 - [Abbey Court Hostel](https://maps.app.goo.gl/aDgFYqCgzokRFhv17) - just across the bridge from Abigail's,
-  also very central, but has less nice bathrooms and the kitchen is locked at 10pm so can't even get water
+  also very central, but has less nice bathrooms and the kitchen is locked at 10pm so can't even get water.
+  Wifi 2/11 Mbit/s
 
 ### Restaurants in Dublin
 
