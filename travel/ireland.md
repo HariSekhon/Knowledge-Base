@@ -86,6 +86,14 @@ I really struggled to find anything I considered good and reasonably priced.
 
 Pretty much everything around Temple Bar is a tourist trap.
 
+- [Toca Tapioca House](https://maps.app.goo.gl/eLjvSwjjqxPVPjDZ9) - brunch cafe restaurant with acai bowls.
+  Decent but it would probably not warrant aa 4.8 rating in another part of the world, but competition is a lower
+  standard in Dublin.
+  The “wraps” are actually more like quesadillas of once folded over pancake and filled with cheese.
+  There is a €18 combo to have a “wrap” and a tiny 100g acai bowl.
+  The _"master piece"_ acai bowl with zero sugar acai, blueberries, pacoca, coconut and honey was good.
+  Wifi 127/22 Mbit/s _“_Thunder Road Guest Wi-Fi”_ network is obviously shared with the next door cafe which is
+  co-joined internally
 - [Leo Burdock](https://maps.app.goo.gl/phaUUZxKRdeiyNKR9) - decent traditional fish & chips but tourist priced €17 and
   takeaway only, although it's cheaper than all the restaurants charging €20-28 for the same.
   This one is better rated than the other one in Temple Bar
@@ -107,7 +115,6 @@ Pretty much everything around Temple Bar is a tourist trap.
 
 TODO:
 
-- [Toca Tapioca House](https://maps.app.goo.gl/eLjvSwjjqxPVPjDZ9) - 4.8 cafe brunch restaurant with acai bowls
 - [Hanley's Cornish Pasties](https://maps.app.goo.gl/mt3azcMzBDJkuRUT8) - 4.4 - pasties, good for a snack
 - [Street Food Factory](https://maps.app.goo.gl/P1KkQ4rPEquRkNhM8) - 4.5 - one of the cheaper restaurants in Dublin
   where you can actually eat for under €20
