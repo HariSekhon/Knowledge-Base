@@ -126,10 +126,10 @@ Pretty much everything around Temple Bar is a tourist trap.
 
 TODO:
 
-- [Kimchi Hophouse](https://maps.app.goo.gl/8ZjVCR723CLN3GVv8) - 4.4 - oldest Korean restaurant in Dublin - €17 for
-  bibimbap
 - [Mongolian Barbeque](https://maps.app.goo.gl/Lf7g6TEqB2jVQ8U18) - 4.6 - [Menu](https://mongolianbbq.ie/menus/) - all
   you can eat for €25. Must try
+- [Kimchi Hophouse](https://maps.app.goo.gl/8ZjVCR723CLN3GVv8) - 4.4 - oldest Korean restaurant in Dublin - €17 for
+  bibimbap
 - [The Flame Dame Street](https://maps.app.goo.gl/8SoNPPWwoRzHhZdr7) - 4.9 - peri-peri chicken, kebabs and burgers,
   open later (midnight) than most of the restaurants
 - [Brasa](https://maps.app.goo.gl/A2SRnUom1CjcCWHQA) - 4.6 - Brazilian - decent
