@@ -636,6 +636,9 @@ Bring a USB-to-USB-c charging cable of at least medium length
 to be able to charge your smartphone - medium length to be able for it to reach to the pouch on the back of the seat in
 front of you where you may want to rest your phone.
 
+Alternatively, you can just use a small USB-to-USB-c mini adapter with your regular USB-c charging cable.
+I have used this too.
+
 ## Accommodation - Hotels vs Hostels vs Airbnb
 
 This is usually one of the biggest travel expenses,
