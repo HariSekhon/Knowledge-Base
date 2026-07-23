@@ -70,9 +70,10 @@ Accommodation was somewhat pricey in Dublin.
 
 - [Abigail's Hostel](https://maps.app.goo.gl/uTDBMZPBAhT3XtzG6) - decent hostel with kitchen but wifi didn't work
   properly in the lobby, very frustrating, didn't renew due to this.
+  No cooking after 9:30pm but at least you can get water.
   Wifi 4/1 Mbit/s worked better in dorm than lobby
 - [Abbey Court Hostel](https://maps.app.goo.gl/aDgFYqCgzokRFhv17) - just across the bridge from Abigail's,
-  also very central
+  also very central, but has less nice bathrooms and the kitchen is locked at 10pm so can't even get water
 
 ### Restaurants in Dublin
 
