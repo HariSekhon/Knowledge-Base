@@ -120,6 +120,7 @@ Pretty much everything around Temple Bar is a tourist trap.
   The beef garlic honey with rice was decent, with a moderate amount of beef cubes,
   but it was pretty much a microwave ready meal which came in a black plastic microwave bowl.
   Not sure how I feel about this, although it tasted good for those with a sweet tooth.
+  Was open at 22:20 when Google Maps said it should be closed.
   No Wifi
 
 TODO:
