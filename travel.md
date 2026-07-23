@@ -55,12 +55,12 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Latin American Flights Are Expensive](#latin-american-flights-are-expensive)
     - [Baggage Fees](#baggage-fees)
   - [Flight Booking Sites](#flight-booking-sites)
-    - [AI vs Comparison Sites](#ai-vs-comparison-sites)
-    - [Cheap Flight Booking Strategies](#cheap-flight-booking-strategies)
-      - [Strategy 1 - Anywhere Cheap with SkyScanner](#strategy-1---anywhere-cheap-with-skyscanner)
-      - [Strategy 2 - Date Flexibility with AI](#strategy-2---date-flexibility-with-ai)
-      - [Strategy 3 - Targeted Locations via Direct Flights and Date Flexibility with AI](#strategy-3---targeted-locations-via-direct-flights-and-date-flexibility-with-ai)
-      - [Strategy 4 - Cheap Flight Deals from the US](#strategy-4---cheap-flight-deals-from-the-us)
+  - [AI vs Comparison Sites](#ai-vs-comparison-sites)
+  - [Cheap Flight Booking Strategies](#cheap-flight-booking-strategies)
+    - [Strategy 1 - Anywhere Cheap with SkyScanner](#strategy-1---anywhere-cheap-with-skyscanner)
+    - [Strategy 2 - Date Flexibility with AI](#strategy-2---date-flexibility-with-ai)
+    - [Strategy 3 - Targeted Locations via Direct Flights and Date Flexibility with AI](#strategy-3---targeted-locations-via-direct-flights-and-date-flexibility-with-ai)
+    - [Strategy 4 - Cheap Flight Deals from the US](#strategy-4---cheap-flight-deals-from-the-us)
   - [Flight Gotchas](#flight-gotchas)
     - [Return / Onwards Flights Required for Check-In](#return--onwards-flights-required-for-check-in)
     - [Luggage](#luggage)
@@ -529,7 +529,7 @@ Ranked by my success in finding affordable flights:
 - [Expedia](https://expedia.co.uk) - fewer and more expensive flights
 - [Secret Flying](https://www.secretflying.com/) - powered by SkyScanner
 
-#### AI vs Comparison Sites
+### AI vs Comparison Sites
 
 [Gemini AI](https://gemini.google.com/) has direct integration with Google Flights and is better for being able to give
 a range of options including different destinations and date ranges to quickly find something matching your list of
@@ -558,9 +558,9 @@ then SkyScanner or Kayak usually work out best to find the cheapest options.
 You can combine the two approaches as shown below by using AI to find the available options
 and then drill down into them on comparison sites with more targeted searches:
 
-#### Cheap Flight Booking Strategies
+### Cheap Flight Booking Strategies
 
-##### Strategy 1 - Anywhere Cheap with SkyScanner
+#### Strategy 1 - Anywhere Cheap with SkyScanner
 
 Use SkyScanner with your source and date and leave the destination blank to see the list of cheapest destinations first.
 
@@ -568,14 +568,14 @@ You can then pick from a few of them and see where you prefer.
 
 My friend does this a lot.
 
-##### Strategy 2 - Date Flexibility with AI
+#### Strategy 2 - Date Flexibility with AI
 
 If you're flexible about the departure date, this is better handled by AI.
 
 Ask [Gemini AI](https://gemini.google.com/) to find flights in a range of dates, this is much quicker and easier than
 having to click through various days on a comparison site hoping to find something.
 
-##### Strategy 3 - Targeted Locations via Direct Flights and Date Flexibility with AI
+#### Strategy 3 - Targeted Locations via Direct Flights and Date Flexibility with AI
 
 Make a shortlist of nearby cities or countries from your starting location.
 
@@ -596,7 +596,7 @@ You can then drill down on that date to that location on [SkyScanner](https://ww
 It is often cheaper to target and book a known flight via one of the comparison sites rather than directly on the
 airline itself.
 
-##### Strategy 4 - Cheap Flight Deals from the US
+#### Strategy 4 - Cheap Flight Deals from the US
 
 **Disclaimer: I've not used this one as they do not serve airports outside the US at time of writing -
 Your Mileage May Vary**
