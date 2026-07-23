@@ -582,11 +582,11 @@ Make a shortlist of nearby cities or countries from your starting location.
 Ask [Gemini AI](https://gemini.google.com/)
 to find **"direct flights"** to any of those destinations specifically in a range of possible dates.
 
-It would be a tedious cartesian product multiplier of effort to do on a booking site.
+It would be a very tedious multiplier of effort to try to do this on a booking site.
 
 Gemini will return you the list of real flights from Google Flights.
 
-This'll tell you where the cheapest flights are to out your selection of cities or countries and on what dates.
+This'll tell you where the cheapest flights are to out your selection of cities or countries, and on what dates.
 
 It can save you a lot of money, as well as travel time since you are finding the absolute most optimized
 and shortest flights possible with no transfers
