@@ -130,6 +130,10 @@ TODO:
   bibimbap
 - [Mongolian Barbeque](https://maps.app.goo.gl/Lf7g6TEqB2jVQ8U18) - 4.6 - [Menu](https://mongolianbbq.ie/menus/) - all
   you can eat for €25. Must try
+- [The Flame Dame Street](https://maps.app.goo.gl/8SoNPPWwoRzHhZdr7) - 4.9 - peri-peri chicken, kebabs and burgers,
+  open later (midnight) than most of the restaurants
+- [Brasa](https://maps.app.goo.gl/A2SRnUom1CjcCWHQA) - 4.6 - Brazilian - decent
+  [menu](https://brasadublin.ie/menus/), and a 2 hours all your can eat option for €33
 - [The Black Forge Inn](https://maps.app.goo.gl/ivdvah8up3YpAu9Q6) - 4.4 - Conor McGregor's pub -
   [Menu](https://www.theblackforgeinn.com/main-menu/) - I'd get the fish & chips or steak sambo -
   perhaps worth a pilgrimage for MMA fans - about 30 minutes from the centre by bus
@@ -137,10 +141,6 @@ TODO:
   closes early at 9pm (sign of a foodie place)
 - [Bunsen Temple Bar](https://maps.app.goo.gl/Mszyg7afzdyr3nrq8) /
   [Bunsen Dame Street](https://maps.app.goo.gl/hFWvZCGXof2cLVyr5) - 4.6 - affordable burgers
-- [The Flame Dame Street](https://maps.app.goo.gl/8SoNPPWwoRzHhZdr7) - 4.9 - peri-peri chicken, kebabs and burgers,
-  open later (midnight) than most of the restaurants
-- [Brasa](https://maps.app.goo.gl/A2SRnUom1CjcCWHQA) - 4.6 - Brazilian - decent
-  [menu](https://brasadublin.ie/menus/), and a 2 hours all your can eat option for €33
 - [O'Sheas](https://maps.app.goo.gl/HmqERu6ayvjrwdkTA) - 4.3 - has Irish stew and Guiness beef stew,
   slightly more reasonable price on the fish & chips, the whiskey sausages also caught my eye
 - [TONI](https://maps.app.goo.gl/CbQAgPuYpQJG4GCa8) - 4.7 - Italian - gourmet pizza and pasta
