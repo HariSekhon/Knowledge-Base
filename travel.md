@@ -730,7 +730,7 @@ which is ridiculous as you could stay in a full private hotel room in Dubai for 
 Also, many European cities are price gouging on Friday and Saturday nights where the costs can multiply.
 
 Prices can get even more astronomical going as high as £100 per night during public holidays at the beginnging of May
-in Budapest for a hostel that would otherwise be £20.
+for a hostel in Budapest that would otherwise be £20.
 
 If a place has expensive accommodation, either consider travelling to somewhere else with better value if holidaying,
 or shorten your trip there and then go somewhere better value for longer.
