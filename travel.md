@@ -928,7 +928,8 @@ checked luggage suitcase.
 #### WorldPackers
 
 You can use [WorldPackers](https://www.worldpackers.com/) to volunteer at hostels in exchange for free board,
-which is a great way of seeing the world when young on budget.
+which is a great way of seeing the world when young and on a tight budget.
+They will typically make you work for 5-8 hours per day, doing check-ins, cleaning, making beds etc.
 
 ## Taxis
 
