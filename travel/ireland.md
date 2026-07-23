@@ -18,6 +18,8 @@ I've only been to Dublin, but it is expensive, similar to London.
 
 I had heard this from other people, but like [Switzerland](switzerland.md), you only really feel it once you're there.
 
+Dublin was not warm even in July, barely getting above the low 20s celcius.
+
 British citizens require no visa at all and could even live in Ireland.
 
 Although Ireland has similar problems to the UK with mass immigration and high cost of living,
