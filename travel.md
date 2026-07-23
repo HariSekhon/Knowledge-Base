@@ -55,7 +55,12 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Latin American Flights Are Expensive](#latin-american-flights-are-expensive)
     - [Baggage Fees](#baggage-fees)
   - [Flight Booking Sites](#flight-booking-sites)
-  - [Flight Deals from the US](#flight-deals-from-the-us)
+    - [AI vs Comparison Sites](#ai-vs-comparison-sites)
+    - [Cheap Flight Booking Strategies](#cheap-flight-booking-strategies)
+      - [Strategy 1 - Anywhere Cheap with SkyScanner](#strategy-1---anywhere-cheap-with-skyscanner)
+      - [Strategy 2 - Date Flexibility with AI](#strategy-2---date-flexibility-with-ai)
+      - [Strategy 3 - Targeted Locations via Direct Flights and Date Flexibility with AI](#strategy-3---targeted-locations-via-direct-flights-and-date-flexibility-with-ai)
+      - [Strategy 4 - Cheap Flight Deals from the US](#strategy-4---cheap-flight-deals-from-the-us)
   - [Flight Gotchas](#flight-gotchas)
     - [Return / Onwards Flights Required for Check-In](#return--onwards-flights-required-for-check-in)
     - [Luggage](#luggage)
@@ -524,15 +529,83 @@ Ranked by my success in finding affordable flights:
 - [Expedia](https://expedia.co.uk) - fewer and more expensive flights
 - [Secret Flying](https://www.secretflying.com/) - powered by SkyScanner
 
-### Flight Deals from the US
+#### AI vs Comparison Sites
 
-If you just want to go on hols and don't mind where, then you can use:
+[Gemini AI](https://gemini.google.com/) has direct integration with Google Flights and is better for being able to give
+a range of options including different destinations and date ranges to quickly find something matching your list of
+criteria if you're not fixed on travel to a specific location or are flexible about flight dates to save money by flying
+on a cheaper day or time.
+
+This can often result in substantial savings by just flying 1-2 days earlier or later.
+I have used this to save hundreds of pounds at a time.
+
+Searching through this matrix of potential options one-by-one on comparison sites would be tedious.
+
+Comparison sites like SkyScanner and Kayak have one major advantage over AI which is that they scrape and put together
+unusual package combinations using different airlines and self-transfers which can often work out the cheapest,
+whereas AI tends not to do this.
+However, these come with their own drawbacks and you can often find better direct flights if you use AI correctly.
+Also see the [Flight Gotchas](#flight-gotchas) sections
+[Transfer Flight Timings](#transfer-flight-timings) and [Self-Transfer](#self-transfer) below.
+
+I have more recently been using AI to date shift
+and request direct flights which can be very cheap if caught on the right day so I spend less time travelling and don't
+have to deal with the hassle of transfers.
+
+If you already know what you're looking for including the specific date and destination,
+then SkyScanner or Kayak usually work out best to find the cheapest options.
+
+You can combine the two approaches as shown below by using AI to find the available options
+and then drill down into them on comparison sites with more targeted searches:
+
+#### Cheap Flight Booking Strategies
+
+##### Strategy 1 - Anywhere Cheap with SkyScanner
+
+Use SkyScanner with your source and date and leave the destination blank to see the list of cheapest destinations first.
+
+You can then pick from a few of them and see where you prefer.
+
+My friend does this a lot.
+
+##### Strategy 2 - Date Flexibility with AI
+
+If you're flexible about the departure date, this is better handled by AI.
+
+Ask [Gemini AI](https://gemini.google.com/) to find flights in a range of dates, this is much quicker and easier than
+having to click through various days on a comparison site hoping to find something.
+
+##### Strategy 3 - Targeted Locations via Direct Flights and Date Flexibility with AI
+
+Make a shortlist of nearby cities or countries from your starting location.
+
+Ask [Gemini AI](https://gemini.google.com/)
+to find **"direct flights"** to any of those destinations specifically in a range of possible dates.
+
+This is something that would be a tedious cartesian product multiplier of effort to do on a booking site.
+
+Gemini will return you the list of real flights from Google Flights.
+
+This will tell you were the cheapest flights are to and on what dates. This can save you a lot of money, as well as
+travel time since you are finding the absolute most optimized and shortest flights possible with no transfers while also
+combining the advantages of finding the cheapest days and the cheaper locations, getting triple benefits!
+
+You can then drill down on that date to that location on [SkyScanner](https://www.skyscanner.net/) and
+[Kayak](https://www.kayak.com/) to find the absolute cheapest price for that flight once you know it exists.
+
+It is often cheaper to target and book a known flight via one of the comparison sites rather than directly on the
+airline itself.
+
+##### Strategy 4 - Cheap Flight Deals from the US
+
+**Disclaimer: I've not used this one as they do not serve airports outside the US at time of writing -
+Your Mileage May Vary**
+
+If you just want to go on holiday and don't mind where, then you can use:
 
 <https://www.going.com/>
 
 Enter your nearest airport(s) and they will send you cheap deals to random destinations.
-
-Unfortunately they do not serve airports outside the US at time of writing.
 
 ### Flight Gotchas
 
