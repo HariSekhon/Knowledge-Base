@@ -931,6 +931,8 @@ You can use [WorldPackers](https://www.worldpackers.com/) to volunteer at hostel
 which is a great way of seeing the world when young and on a tight budget.
 They will typically make you work for 5-8 hours per day, doing check-ins, cleaning, making beds etc.
 
+For an adult with a job, it doesn't make sense to burn a day to save £20 board.
+
 ## Taxis
 
 Airport taxis are a rip off all over the world. Do not use them.
