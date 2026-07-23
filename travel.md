@@ -727,7 +727,7 @@ After a lot of travelling, I have come to the conclusion that you can judge a pl
 In Croatia for example, you can pay £30-50 per night for a hostel,
 which is ridiculous as you could stay in a full private hotel room in Dubai for £55.
 
-Also, manu European cities are price gouging on Friday and Saturday nights where the costs can multiply.
+Also, many European cities are price gouging on Friday and Saturday nights where the costs can multiply.
 
 Prices can get even more astronomical going as high as £100 per night during public holidays at the beginnging of May
 for a hostel that would otherwise be £20.
