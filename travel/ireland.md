@@ -120,7 +120,8 @@ TODO:
   perhaps worth a pilgrimage for MMA fans - about 30 minutes from the centre by bus
 - [Izushi Temple Bar](https://maps.app.goo.gl/NPpNzezoUB8RKKAo6) - 4.5 - reasonable prices on sushi and bento,
   closes early at 9pm (sign of a foodie place)
-- [Bunsen Temple Bar](https://maps.app.goo.gl/Mszyg7afzdyr3nrq8) - 4.6 - burgers
+- [Bunsen Temple Bar](https://maps.app.goo.gl/Mszyg7afzdyr3nrq8) /
+  [Bunsen Dame Street](https://maps.app.goo.gl/hFWvZCGXof2cLVyr5) - 4.6 - burgers
 - [Brasa](https://maps.app.goo.gl/A2SRnUom1CjcCWHQA) - 4.6 - Brazilian - decent
   [menu](https://brasadublin.ie/menus/), and a 2 hours all your can eat option for €33
 - [O'Sheas](https://maps.app.goo.gl/HmqERu6ayvjrwdkTA) - 4.3 - has Irish stew and Guiness beef stew,
