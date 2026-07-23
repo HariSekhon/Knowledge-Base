@@ -122,6 +122,7 @@ TODO:
   closes early at 9pm (sign of a foodie place)
 - [Bunsen Temple Bar](https://maps.app.goo.gl/Mszyg7afzdyr3nrq8) /
   [Bunsen Dame Street](https://maps.app.goo.gl/hFWvZCGXof2cLVyr5) - 4.6 - affordable burgers
+- [The Flame Dame Street](https://maps.app.goo.gl/8SoNPPWwoRzHhZdr7) - 4.9 - peri-peri chicken, kebabs and burgers
 - [Brasa](https://maps.app.goo.gl/A2SRnUom1CjcCWHQA) - 4.6 - Brazilian - decent
   [menu](https://brasadublin.ie/menus/), and a 2 hours all your can eat option for €33
 - [O'Sheas](https://maps.app.goo.gl/HmqERu6ayvjrwdkTA) - 4.3 - has Irish stew and Guiness beef stew,
