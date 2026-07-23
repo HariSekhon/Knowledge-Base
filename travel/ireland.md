@@ -94,6 +94,9 @@ Pretty much everything around Temple Bar is a tourist trap.
   The _"master piece"_ acai bowl with zero sugar acai, blueberries, pacoca, coconut and honey was good.
   Wifi 127/22 Mbit/s _“_Thunder Road Guest Wi-Fi”_ network is obviously shared with the next door cafe which is
   co-joined internally
+- [Hanley's Cornish Pasties](https://maps.app.goo.gl/mt3azcMzBDJkuRUT8) - €7 pasties, good for a snack.
+  Had the lamb and mint which was decent.
+  Pretty similar to the Cornish Pasty Company in the UK
 - [Leo Burdock](https://maps.app.goo.gl/phaUUZxKRdeiyNKR9) - decent traditional fish & chips but tourist priced €17 and
   takeaway only, although it's cheaper than all the restaurants charging €20-28 for the same.
   This one is better rated than the other one in Temple Bar
@@ -115,7 +118,6 @@ Pretty much everything around Temple Bar is a tourist trap.
 
 TODO:
 
-- [Hanley's Cornish Pasties](https://maps.app.goo.gl/mt3azcMzBDJkuRUT8) - 4.4 - pasties, good for a snack
 - [Street Food Factory](https://maps.app.goo.gl/P1KkQ4rPEquRkNhM8) - 4.5 - one of the cheaper restaurants in Dublin
   where you can actually eat for under €20
 - [Kimchi Hophouse](https://maps.app.goo.gl/8ZjVCR723CLN3GVv8) - 4.4 - oldest Korean restaurant in Dublin - €17 for
