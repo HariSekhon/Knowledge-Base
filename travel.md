@@ -784,7 +784,7 @@ in Euros because really this is mainly a European thing.
 I generated this with ChatGPT so it's almost certainly wrong (as well as out of date by the time you're reading this),
 but just to give you an idea as of 2025 / 2026:
 
-(if you know of a live up to dynamic data source I can embed instead of this table please let me know)
+(if you know of a live up-to-date dynamic data source I can embed instead of this table please let me know)
 
 | Shame Ranking | Country              | City              | Hotel Tourist Tax / Day (EUR) | Hostel Tourist Tax / Day (EUR) |
 |--------------:| -------------------- | ----------------- | ----------------------------: | -----------------------------: |
