@@ -60,7 +60,6 @@ Updated regularly as I travel the world 52 weeks a year.
     - [Strategy 1 - Anywhere Cheap with SkyScanner](#strategy-1---anywhere-cheap-with-skyscanner)
     - [Strategy 2 - Date Flexibility with AI](#strategy-2---date-flexibility-with-ai)
     - [Strategy 3 - Targeted Locations via Direct Flights and Date Flexibility with AI](#strategy-3---targeted-locations-via-direct-flights-and-date-flexibility-with-ai)
-    - [Strategy 4 - Cheap Flight Deals from the US](#strategy-4---cheap-flight-deals-from-the-us)
   - [Flight Gotchas](#flight-gotchas)
     - [Return / Onwards Flights Required for Check-In](#return--onwards-flights-required-for-check-in)
     - [Luggage](#luggage)
@@ -556,7 +555,7 @@ If you already know what you're looking for including the specific date and dest
 then SkyScanner or Kayak usually work out best to find the cheapest options.
 
 You can combine the two approaches as shown below by using AI to find the available options
-and then drill down into them on comparison sites with more targeted searches:
+and then drill down into them on comparison sites with more targeted searches.
 
 ### Cheap Flight Booking Strategies
 
@@ -596,6 +595,8 @@ You can then drill down on that date to that location on [SkyScanner](https://ww
 It is often cheaper to target and book a known flight via one of the comparison sites rather than directly on the
 airline itself.
 
+<!-- Redundant compared to SkyScanner
+
 #### Strategy 4 - Cheap Flight Deals from the US
 
 **Disclaimer: I've not used this one as they do not serve airports outside the US at time of writing -
@@ -606,6 +607,8 @@ If you just want to go on holiday and don't mind where, then you can use:
 <https://www.going.com/>
 
 Enter your nearest airport(s) and they will send you cheap deals to random destinations.
+
+-->
 
 ### Flight Gotchas
 
