@@ -128,17 +128,17 @@ Pretty much everything around Temple Bar is a tourist trap.
 
 TODO:
 
+- [The Black Forge Inn](https://maps.app.goo.gl/ivdvah8up3YpAu9Q6) - 4.4 - Conor McGregor's pub -
+  [Menu](https://www.theblackforgeinn.com/main-menu/) - I'd get the fish & chips or steak sambo -
+  perhaps worth a pilgrimage for MMA fans - about 30 minutes from the centre by bus
+- [The Flame Dame Street](https://maps.app.goo.gl/8SoNPPWwoRzHhZdr7) - 4.9 - peri-peri chicken, kebabs and burgers,
+  open later (midnight) than most of the restaurants
 - [Mongolian Barbeque](https://maps.app.goo.gl/Lf7g6TEqB2jVQ8U18) - 4.6 - [Menu](https://mongolianbbq.ie/menus/) - all
   you can eat for €25. Must try
 - [Kimchi Hophouse](https://maps.app.goo.gl/8ZjVCR723CLN3GVv8) - 4.4 - oldest Korean restaurant in Dublin - €17 for
   bibimbap
-- [The Flame Dame Street](https://maps.app.goo.gl/8SoNPPWwoRzHhZdr7) - 4.9 - peri-peri chicken, kebabs and burgers,
-  open later (midnight) than most of the restaurants
 - [Brasa](https://maps.app.goo.gl/A2SRnUom1CjcCWHQA) - 4.6 - Brazilian - decent
   [menu](https://brasadublin.ie/menus/), and a 2 hours all your can eat option for €33
-- [The Black Forge Inn](https://maps.app.goo.gl/ivdvah8up3YpAu9Q6) - 4.4 - Conor McGregor's pub -
-  [Menu](https://www.theblackforgeinn.com/main-menu/) - I'd get the fish & chips or steak sambo -
-  perhaps worth a pilgrimage for MMA fans - about 30 minutes from the centre by bus
 - [Izushi Temple Bar](https://maps.app.goo.gl/NPpNzezoUB8RKKAo6) - 4.5 - reasonable prices on sushi and bento,
   closes early at 9pm (sign of a foodie place)
 - [Bunsen Temple Bar](https://maps.app.goo.gl/Mszyg7afzdyr3nrq8) /
