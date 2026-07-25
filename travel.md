@@ -449,7 +449,7 @@ travellers like me.
   - avoid microplastics in your body
   - avoid getting price gouged for $5-8 for plastic bottled water at airports
   - avoid creating waste plastic
-- Toiletries:
+- **Toiletries**:
   - you can buy toiletries almost anywhere, but you may prefer to take your favourite brands from home rather than make
     do with whatever you find there (especially moisturizers)
   - western brands can be very expensive in some Latin countries due to import costs and tariffs.
