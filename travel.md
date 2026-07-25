@@ -560,7 +560,7 @@ So here is what I've learnt about flights travelling around the world and back a
 
 ### Flight Tips
 
-Specific ways of achieving these tips is further down under the
+Specific ways of achieving these tips with a mix of AI and comparison sites is further down under the
 [Cheap Flight Booking Strategies](#cheap-flight-booking-strategies) section.
 
 #### Book Ahead
