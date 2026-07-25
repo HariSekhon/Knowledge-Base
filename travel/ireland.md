@@ -102,6 +102,9 @@ Pretty much everything around Temple Bar is a tourist trap.
 - [Leo Burdock](https://maps.app.goo.gl/phaUUZxKRdeiyNKR9) - decent traditional fish & chips but tourist priced €17 and
   takeaway only, although it's cheaper than all the restaurants charging €20-28 for the same.
   This one is better rated than the other one in Temple Bar
+- [The Flame Dame Street](https://maps.app.goo.gl/8SoNPPWwoRzHhZdr7) - peri-peri chicken, kebabs and burgers, open later
+  (midnight) than most of the restaurants.
+  Easily one of the best value for money places in Dublin.
 - [Old Mill Restaurant](https://maps.app.goo.gl/Fu5zpg64zWrKgxgK9) - there's always a queue and long wait, and slow
   service as it's a small packed venue.
   Food is ok but tourist priced, although not quite as bad as some of the other restaurants in the area.
@@ -135,10 +138,10 @@ Pretty much everything around Temple Bar is a tourist trap.
 
 TODO:
 
-- [The Flame Dame Street](https://maps.app.goo.gl/8SoNPPWwoRzHhZdr7) - 4.9 - peri-peri chicken, kebabs and burgers,
-  open later (midnight) than most of the restaurants
 - [Mongolian Barbeque](https://maps.app.goo.gl/Lf7g6TEqB2jVQ8U18) - 4.6 - [Menu](https://mongolianbbq.ie/menus/) - all
-  you can eat for €25. Must try
+  you can eat option for 2 hours.
+  Must try.
+  It's cheaper to go for lunch €20 instead of dinner €25 for the same food
 - [Kimchi Hophouse](https://maps.app.goo.gl/8ZjVCR723CLN3GVv8) - 4.4 - oldest Korean restaurant in Dublin - €17 for
   bibimbap
 - [Brasa](https://maps.app.goo.gl/A2SRnUom1CjcCWHQA) - 4.6 - Brazilian - decent
