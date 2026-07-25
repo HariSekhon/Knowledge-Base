@@ -107,6 +107,7 @@ Pretty much everything around Temple Bar is a tourist trap.
   Absolutely excellent restaurant for foodies, you can stuff yourself and it won't cost you more than other restaurants
   in Dublin.
   It's cheaper to go for lunch €20 instead of dinner €25 for the same food.
+  I absolutely stuffed myself for 4 rounds over 2.5 hours before going to the airport.
   WiFi 35/14 Mbit/s and has plugs
 - [The Flame Dame Street](https://maps.app.goo.gl/8SoNPPWwoRzHhZdr7) -
   peri-peri chicken 1/4 or 1/2, peri chips, boneless chicken and rice bowls, chicken & lamb shawarma and shish kebabs,
