@@ -90,6 +90,8 @@ Updated regularly as I travel the world 52 weeks a year.
 - [Mobile Internet Access](#mobile-internet-access)
   - [EU Roaming](#eu-roaming)
   - [Mobile e-Sims](#mobile-e-sims)
+  - [e-Sim Auto Top-up](#e-sim-auto-top-up)
+  - [Emergency Secondary e-Sim](#emergency-secondary-e-sim)
   - [Conserve Mobile Data - Pre-Download Offline Google Maps, Translate & Spotify Playlists](#conserve-mobile-data---pre-download-offline-google-maps-translate--spotify-playlists)
   - [International Calls using VoIP over the Internet](#international-calls-using-voip-over-the-internet)
 - [ATMs and Foreign Cash Withdrawals](#atms-and-foreign-cash-withdrawals)
@@ -1154,6 +1156,32 @@ Not tried these:
 
 Google [travel e-sims](https://www.google.com/search?q=travel+e-sims)
 and add the country you are travelling to for more options.
+
+### e-Sim Auto Top-up
+
+Some providers have an auto top-up feature which I recommend enabling just in case,
+to prevent you being stranded without data for navigation or ability to call a taxi via app.
+
+You need data to be able to buy more e-sim data - you don't want to regret not enabling this later!
+
+### Emergency Secondary Long-Term e-Sim
+
+If travelling a lot I recommmend downloading a long-term emergency second global or regional e-sim
+in case your first e-sim runs out of data or you don't have signal with that carrier.
+
+Especially if you are doing things like road trips or going to locations further away from your hotel, restaurants,
+local tourist area etc where it is harder to get help without communication.
+
+You can buy global or regional e-sims with long-time expiry like 2 years that you can reuse across many trips.
+They do work out more expensive per GB so only use them for emergency and not for your daily use.
+
+Once in a while this will really help you by switching to your backup e-sim if you run out of data or don't have a
+signal with the other provider.
+
+If travelling as a couple, you can mitigate this instead having 2 regular e-sims with different providers
+and just ensuring you don't run out of data at the same time as you need data to be able to buy more e-sim data!
+
+In that case, still enable the auto top-up feature mentioned above on both e-sims.
 
 ### Conserve Mobile Data - Pre-Download Offline Google Maps, Translate & Spotify Playlists
 
