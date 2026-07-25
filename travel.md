@@ -470,6 +470,8 @@ travellers like me.
 - Umbrella / Rain Poncho
 - Tupperware for boiled eggs or other healthy snacks (for my gym bros)
 - Book or other entertainment for flight
+- [Pre-Download](#conserve-mobile-data---pre-download-offline-google-maps-translate--spotify-playlists)
+  Google Maps, Spotify Playlists etc to save roaming data usage
 
 ### Jumbo Passports
 
