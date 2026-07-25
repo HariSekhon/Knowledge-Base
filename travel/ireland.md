@@ -144,9 +144,11 @@ Pretty much everything around Temple Bar is a tourist trap.
 TODO:
 
 - [Mongolian Barbeque](https://maps.app.goo.gl/Lf7g6TEqB2jVQ8U18) - 4.6 - [Menu](https://mongolianbbq.ie/menus/) - all
-  you can eat option for 2 hours.
-  Must try.
-  It's cheaper to go for lunch €20 instead of dinner €25 for the same food
+  you can eat option.
+  Excellent selection of ingredients, meats, beef, pork, chicken, seafood, different noodles and lots of vegetables -
+  they griddle it right there in front of you.
+  It's cheaper to go for lunch €20 instead of dinner €25 for the same food.
+  WiFi 35/ Mbit/s
 - [Kimchi Hophouse](https://maps.app.goo.gl/8ZjVCR723CLN3GVv8) - 4.4 - oldest Korean restaurant in Dublin - €17 for
   bibimbap
 - [Brasa](https://maps.app.goo.gl/A2SRnUom1CjcCWHQA) - 4.6 - Brazilian - decent
