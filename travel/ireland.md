@@ -3,6 +3,7 @@
 <!-- INDEX_START -->
 
 - [Summary](#summary)
+- [Population](#population)
 - [Dublin](#dublin)
   - [Dublin Airport](#dublin-airport)
     - [Travel from Dublin Airport](#travel-from-dublin-airport)
@@ -38,7 +39,45 @@ Anywhere American tourists go becomes expensive, and a lot of Americans have Iri
 American tourism was the reason given by the locals in [Costa Rica](costa-rica.md) too,
 another country more expensive than it should be given its local economy.
 
+## Population
+
+[Ireland](https://en.wikipedia.org/wiki/Ireland)'s population is quite interesting,
+you forget
+until you visit that the Irish are a noticeably different tribe to the English as they often have a different look
+(even different parts of England have different ancestral tribes, and Wales is again different).
+
+The Irish are a mix of Celtic and some Viking. Dublin itself was founded by Vikings.
+
+Historically the English looked down on the Irish believing them to be lower class, less intelligent and having more
+children.
+
+Today that distinction has largely dissipated as the UK is heavily replaced
+and now the Irish are lumped in with the English as the native people of the British Isles
+in order to try to prop up the collapsing natives census numbers in the UK.
+
+I was surprised how many foreigners there were in Dublin, not just in the centre,
+where many are likely to be tourists, but even in the suburbs or those clearly settled there.
+
+It's one thing to hear it, it's another to see it.
+
+It's not quite as mass replaced as London, yet, though.
+
+Ireland's birthrate has been below replenishment for most years since 1992, now 1.6 children per woman, but not as bad as
+most of Europe, though.
+
+Reminder: 2.1 children average per woman is needed just to replenish the current adult population,
+and much higher birthrates [or mass immigration replacement] is needed if you want to support an expensive democratic
+ponzi scheme welfare state & pensions long term.
+
+[![Birthrate Per Woman](https://ourworldindata.org/grapher/children-per-woman-un.svg?tab=line&country=~IRL~AFG~CAF~CMR~COD~COG~MOZ~NER~NGA~SDN~TCD~UGA)](https://ourworldindata.org/grapher/children-per-woman-un?tab=line&country=~IRL)
+
+Ireland's population has continued to grow due to mass immigration:
+
+[![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~IRL)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~IRL)
+
 ## Dublin
+
+Dublin was founded by Vikings in the 9th century.
 
 Dublin is expensive, and there isn't too much there so you probably don't want to spend more than a couple days there.
 
