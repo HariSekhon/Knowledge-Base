@@ -424,7 +424,7 @@ travellers like me.
 - **Visa**:
   - booked exit flight proof is required to enter in many Latin and Caribbean countries
   - digital online immigration and customs declarations are required in many countries before going through immigration
-- **Laptop** (optional)
+- **Laptop**
 - **Chargers** for laptop, smartphone, airpods, power bank, electric toothbrush etc.
 - **Travel Adapters** and USB cables (see [Travel Electronics](#travel-electronics) section below
 - [Hostel Checklist](#hostel-tips) - padlock, towel, shower gel etc.
