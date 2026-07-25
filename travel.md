@@ -428,8 +428,9 @@ travellers like me.
 - **Chargers** for laptop, smartphone, airpods, power bank, electric toothbrush etc.
 - **Travel Adapters** and USB cables (see [Travel Electronics](#travel-electronics) section below
 - [Hostel Checklist](#hostel-tips) - padlock, towel, shower gel etc.
-- Clothes for climate (check your weather app for the destination, it might be hotter / colder /
-  more rainy than you expect - I got caught out a couple times!)
+- [Clothing](#clothing) appropriate for climate:
+  - check your weather app for the destination, it might be hotter / colder / more rainy than you expect -
+    I got caught out a couple times!
 
 ### Optional
 
