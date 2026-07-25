@@ -94,7 +94,7 @@ Pretty much everything around Temple Bar is a tourist trap.
   and a whole section of many different sauces / marinades to cook it in.
   You choose your ingredients and they griddle it right there in front of you.
   It's cheaper to go for lunch €20 instead of dinner €25 for the same food.
-  WiFi 35/ Mbit/s
+  WiFi 35/14 Mbit/s
 - [The Flame Dame Street](https://maps.app.goo.gl/8SoNPPWwoRzHhZdr7) -
   peri-peri chicken 1/4 or 1/2, peri chips, boneless chicken and rice bowls, chicken & lamb shawarma and shish kebabs,
   burgers.
