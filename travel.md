@@ -47,6 +47,9 @@ Updated regularly as I travel the world 52 weeks a year.
   - [Important](#important)
   - [Optional](#optional)
   - [Jumbo Passports](#jumbo-passports)
+- [Travel Electronics](#travel-electronics)
+  - [Travel Adapters](#travel-adapters)
+  - [Charging Cables](#charging-cables)
 - [Flights](#flights)
   - [Flight Tips](#flight-tips)
     - [Book Ahead](#book-ahead)
@@ -422,26 +425,8 @@ travellers like me.
   - booked exit flight proof is required to enter in many Latin and Caribbean countries
   - digital online immigration and customs declarations are required in many countries before going through immigration
 - **Laptop** (optional)
-- **Chargers**:
-  - **Travel Adapter** for international plug formats:
-    - must be GAN to have enough power if you're going to charge your laptop off it
-    - 65-70W are usually the best price point vs charging speed (~£30 off Amazon)
-    - buy 2 Travel Adapters of 2 different brands:
-      - one for suitcase / room and one for hand luggage:
-        - if one has higher GAN Wattage rating for faster charging keep that one in hand luggage since overnight
-          charging is less time sensitive than being in an airport terminal or cafe
-      - hedge your bets across 2 brands in case one brand is less reliable and fails.
-        You don't want the same brand with same Mean Time To Failure in case they fail at the same time
-      - and in case you lose one you have a backup - otherwise it's often twice as expensive to buy electronics and
-        cables in shops around the world
-  - **Charging Cables**:
-    - for phone, laptop, electric toothbrush etc.
-    - 2 x USB-c to USB-c - check the power ratings, should be 60-100w for much faster charging
-      eg. for your laptop, smartphone, airpods, power bank.
-      These will cost around £6-10 per cable off Amazon instead of spending £20 for similar cables in shops
-    - 1 x USB classic to USB-c cable for airplanes that have older sockets - these are limited to 8W which is very slow
-      to charge a smartphone and cannot sustain a laptop
-      - or tiny USB to USB-c adapters
+- **Chargers** for laptop, smartphone, electric toothbrush etc.
+- **Travel Adapters** and USB cables (see [Travel Electronics](#travel-electronics) section below
 - [Hostel Checklist](#hostel-tips) - padlock, towel, shower gel etc.
 - Clothes for climate (check your weather app for the destination, it might be hotter / colder /
   more rainy than you expect - I got caught out a couple times!)
@@ -474,6 +459,55 @@ Although this costs slightly more, this works out cheaper over the long run if y
 your passport more frequently.
 
 Some countries require an entire clean passport page for their immigration stamp such as [Laos](travel/laos.md).
+
+## Travel Electronics
+
+### Travel Adapters
+
+One good travel adapter is better and lighter than having fixed adapters
+(there are at least 4-5 different socket types I've encountered around the world - but there are more than that -
+these all have different types UK / Dubai, Europe, US / Central / South America, Asia).
+<sup><a href="https://www.worldstandards.eu/electricity/plugs-and-sockets/">socket type diagrams,</a></sup>
+<sup><a href="https://www.iec.ch/world-plugs">select per country</a></sup>
+
+Must be GAN to have enough power if you're going to charge your laptop off it.
+<sup><a href="https://www.anker.com/blogs/chargers/gan-charger">doc</a></sup>
+
+65-70W are usually the best price point vs charging speed (~£30 off Amazon).
+
+These are powerful enough to leave your heavy expensive Apple Mac laptop charger brick at home.
+
+Buy 2 Travel Adapters of 2 different brands:
+
+- one for suitcase / room and one for hand luggage:
+  - if one has higher GAN Wattage rating for faster charging keep that one in hand luggage since overnight
+    charging is less time sensitive than being in an airport terminal or cafe
+- hedge your bets across 2 brands in case one brand is less reliable and fails.
+  You don't want the same brand with same Mean Time To Failure in case they fail at the same time
+- and in case you lose one you have a backup - otherwise it's often twice as expensive to buy electronics and
+  cables in shops around the world
+
+### Charging Cables
+
+Pretty much everything is USB-c these days (except for legacy Apple products using lightning cables).
+
+- 2 x USB-c to USB-c:
+  - check the power ratings, should be 60-100w for much faster charging
+    eg. for your laptop, smartphone, airpods, power bank.
+    These will cost around £6-10 per cable off Amazon instead of spending £20 for similar cables in shops
+  - buy at least 2 of these:
+    - you will likely have at least 4 things to charge (laptop, smartphone, airpods, power bank)
+    - backup - one can fail (happened to me) from travel wear on the bending of the internal copper
+    - due to the significant price difference I bought 4 of them as I didn't want to get price gouged in shops on my
+      travels:
+      - 1 in hand luggage (this one takes the most wear and is likely to break first)
+      - 2 for room / suitcase because you'll need to charge at least 2 things simultaneously overnight
+      - 1 spare left in suitcase to avoid buying expensive ones on travels
+- 1 x USB classic to USB-c cable:
+  - for airplanes that have older sockets
+  - USB is limited to 8W which is very slow to charge a smartphone and cannot sustain a laptop
+- optional: tiny USB to USB-c adapters to be able to reuse the same USB-c cable(s) without having to carry a legacy USB
+  legacy cable (although it might still be safer to carry one as these adapters don't always work)
 
 ## Flights
 
