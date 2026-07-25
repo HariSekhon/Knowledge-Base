@@ -457,6 +457,7 @@ travellers like me.
   - if in Europe on a budget check Lidl and Aldi for their in-store own brands which are cheap and decent
   - sunscreen is often way cheaper to buy off Amazon than tourist shops at your destination, roughly half the price
     eg. \$10 vs \$20
+- Hand Luggage Essentials:
   - Moisturizer
   - Hand Sanitizer
   - Toilet Paper (this will save you or someone close to you at some point in some places which don't have it)
