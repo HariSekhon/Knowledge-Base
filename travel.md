@@ -54,6 +54,7 @@ Updated regularly as I travel the world 52 weeks a year.
 - [Flights](#flights)
   - [Flight Tips](#flight-tips)
     - [Book Ahead](#book-ahead)
+    - [Booking Comparison Sites Can Beat Airlines Own Websites](#booking-comparison-sites-can-beat-airlines-own-websites)
     - [Cheaper Tickets via Transit Hubs](#cheaper-tickets-via-transit-hubs)
     - [Cheaper Tickets via Date Shifting](#cheaper-tickets-via-date-shifting)
     - [Latin American Flights Are Expensive](#latin-american-flights-are-expensive)
@@ -568,6 +569,14 @@ Specific ways of achieving these tips with a mix of AI and comparison sites is f
 Book ahead of time for better price comparisons.
 
 Same goes for ferries if driving.
+
+#### Booking Comparison Sites Can Beat Airlines Own Websites
+
+It is often cheaper to book via comparison sites rather than directly on an airline website itself. Crazy but true.
+
+Once you've narrowed down to the cheapest flight on SkyScanner and Kayak
+(always compare both sites), then go to the airline website to compare their price,
+it's usually a bit higher in my experience!
 
 #### Cheaper Tickets via Transit Hubs
 
