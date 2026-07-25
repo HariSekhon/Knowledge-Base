@@ -417,25 +417,48 @@ travellers like me.
 
 ### Important
 
-- Passport
-- Visa
+- **Passport**
+- **Visa**:
   - booked exit flight proof is required to enter in many Latin and Caribbean countries
   - digital online immigration and customs declarations are required in many countries before going through immigration
-- Laptop (optional)
-- Chargers - phone, laptop, electric toothbrush, USB-to-USB-c cable or USB adapters for plane sockets
-- Travel Adapters for international plug formats
+- **Laptop** (optional)
+- **Chargers**:
+  - **Travel Adapter** for international plug formats:
+    - must be GAN to have enough power if you're going to charge your laptop off it
+    - 65-70W are usually the best price point vs charging speed (~£30 off Amazon)
+    - buy 2 Travel Adapters off Amazon (one for suitcase/room and one for hand luggage)
+      - also in case you lose one - it's often twice as expensive to buy electronics and cables in shops around
+        the world
+  - **Charging Cables**:
+    - for phone, laptop, electric toothbrush etc.
+    - 2 x USB-c to USB-c - these often having ratings 60-100w for much faster charging eg. for your laptop, smartphone,
+      airpods, power bank
+    - 1 x USB classic to USB-c cable for airplanes that have older sockets - these are limited to 8W which is very slow
+      to charge a smartphone and cannot sustain a laptop
+      - or tiny USB to USB-c adapters
 - [Hostel Checklist](#hostel-tips) - padlock, towel, shower gel etc.
 - Clothes for climate (check your weather app for the destination, it might be hotter / colder /
   more rainy than you expect - I got caught out a couple times!)
 
 ### Optional
 
-- toiletries - you can buy toiletries almost anywhere, but you may prefer to take your favourite brands from home rather
-  than make do with whatever you find there -
-  western brands can be very expensive in some Latin countries due to import costs and tariffs
-- book or other entertainment for flight
-- reusable water bottle for water dispensers at airports (where available), for after the security scanners where they
-  take any liquids off you and you don't want to get price gouged for bottled water and waste plastic
+- **Reusable water bottle**:
+   - for water dispensers at airports (where available), for after the security scanners where they
+     take any liquids off you
+  - steel _"chilli"_ bottles are the best
+  - avoid microplastics in your body
+  - avoid getting price gouged for $5-8 for plastic bottled water at airports
+  - avoid creating waste plastic
+- Toiletries:
+  - you can buy toiletries almost anywhere, but you may prefer to take your favourite brands from home rather than make
+    do with whatever you find there (especially moisturizers)
+  - western brands can be very expensive in some Latin countries due to import costs and tariffs.
+    If you're out there for long enough buy their local brands as the price difference is massive eg.
+    \$2 vs \$10
+  - if in Europe on a budget check Lidl and Aldi for their in-store own brands which are cheap and decent
+  - sunscreen is often way cheaper to buy off Amazon than tourist shops at your destination, roughly half the price
+    eg. \$10 vs \$20
+- Book or other entertainment for flight
 
 ### Jumbo Passports
 
