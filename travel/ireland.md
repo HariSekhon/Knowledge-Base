@@ -4,6 +4,7 @@
 
 - [Summary](#summary)
 - [Population](#population)
+- [Crime](#crime)
 - [Dublin](#dublin)
   - [Dublin Airport](#dublin-airport)
     - [Travel from Dublin Airport](#travel-from-dublin-airport)
@@ -74,6 +75,12 @@ ponzi scheme welfare state & pensions long term.
 Ireland's population has continued to grow due to mass immigration:
 
 [![Population](https://ourworldindata.org/grapher/population.svg?tab=line&time=1950..2023&country=~IRL)](https://ourworldindata.org/grapher/population?tab=line&time=1950..2023&country=~IRL)
+
+## Crime
+
+Ireland is a relatively low crime country, less than the UK in fact, and below the European average too.
+
+[![Crime](https://ourworldindata.org/grapher/homicide-rate-unodc.svg?tab=line&time=1990..2023&country=~IRL~UN_EUR~GBR~Eastern+Asia+%28UN%29~UN_AFR~Sub-Saharan+Africa+%28UN%29~Northern+Africa+%28UN%29)](https://ourworldindata.org/grapher/homicide-rate-unodc?tab=line&time=1990..2023&country=~IRL~UN_EUR~GBR~Eastern+Asia+%28UN%29~UN_AFR~Sub-Saharan+Africa+%28UN%29~Northern+Africa+%28UN%29)
 
 ## Dublin
 
