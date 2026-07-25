@@ -431,7 +431,7 @@ travellers like me.
   - digital online immigration and customs declarations are required in many countries before going through immigration
 - **Phone**
 - **Keys**
-- **Airpods**
+- **Airpods / Headphones**
 - **Laptop**
 - **Chargers** for laptop, smartphone, airpods, power bank, electric toothbrush etc.
 - **Travel Adapters** and USB cables (see [Travel Electronics](#travel-electronics) section below
