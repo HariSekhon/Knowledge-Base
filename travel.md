@@ -46,6 +46,7 @@ Updated regularly as I travel the world 52 weeks a year.
 - [Travel Checklist](#travel-checklist)
   - [Important](#important)
   - [Optional](#optional)
+  - [Online Check-in](#online-check-in)
   - [Jumbo Passports](#jumbo-passports)
 - [Travel Electronics](#travel-electronics)
   - [Travel Adapters](#travel-adapters)
@@ -91,7 +92,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [EU Roaming](#eu-roaming)
   - [Mobile e-Sims](#mobile-e-sims)
   - [e-Sim Auto Top-up](#e-sim-auto-top-up)
-  - [Emergency Secondary e-Sim](#emergency-secondary-e-sim)
+  - [Emergency Secondary Long-Term e-Sim](#emergency-secondary-long-term-e-sim)
   - [Conserve Mobile Data - Pre-Download Offline Google Maps, Translate & Spotify Playlists](#conserve-mobile-data---pre-download-offline-google-maps-translate--spotify-playlists)
   - [International Calls using VoIP over the Internet](#international-calls-using-voip-over-the-internet)
 - [ATMs and Foreign Cash Withdrawals](#atms-and-foreign-cash-withdrawals)
@@ -422,6 +423,8 @@ travellers like me.
 
 ### Important
 
+- [Online Check-in](#online-check-in) for flights
+  - download boarding pass
 - **Passport**
 - **Visa**:
   - booked exit flight proof is required to enter in many Latin and Caribbean countries
@@ -472,6 +475,17 @@ travellers like me.
 - Book or other entertainment for flight
 - [Pre-Download](#conserve-mobile-data---pre-download-offline-google-maps-translate--spotify-playlists)
   Google Maps, Spotify Playlists etc to save roaming data usage
+
+### Online Check-in
+
+It's important to check-in online to flights as soon as you can,
+usually this opens 24 hours in advance until a couple hours before check-in opens.
+
+I've been left off flights that were overbooked just turning up to the check-in counter!
+
+Download your boarding pass in case you don't have mobile data and airport wifi doesn't work.
+
+Get a physical print out as a backup at the luggage drop if you can.
 
 ### Jumbo Passports
 
