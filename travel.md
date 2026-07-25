@@ -662,6 +662,14 @@ and then drill down into them on comparison sites with more targeted searches.
 
 ### Cheap Flight Booking Strategies
 
+I've made some crazy savings by combining these first three strategies below,
+often cutting my flight costs roughly in half, which equates to especially big savings on inter-continental flights.
+
+Even for shorter flights, paying £100-200 is better than paying £200-400.
+
+I literally booked a flight from Tashkent in Uzbekistan to Almaty in Khazakstan for a mere £71 including 23kg checked
+luggage, which is what prompted me to write this section.
+
 #### Strategy 1 - Anywhere Cheap with SkyScanner
 
 Use SkyScanner with your source and date and leave the destination blank to see the list of cheapest destinations first.
