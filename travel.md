@@ -522,7 +522,8 @@ Buy 2 Travel Adapters of 2 different brands:
 - one for suitcase / room and one for hand luggage:
   - if one has higher GAN Wattage rating for faster charging keep that one in hand luggage since overnight
     charging is less time sensitive than being in an airport terminal or cafe
-- hedge your bets across 2 brands in case one brand is less reliable and fails.
+- hedge your bets across 2 brands in case one brand is less reliable and fails
+  - I've found one runs much hotter than the other, implying it is more likely to fail
   You don't want the same brand with same Mean Time To Failure in case they fail at the same time
 - and in case you lose one you have a backup - otherwise it's often twice as expensive to buy electronics and
   cables in shops around the world
