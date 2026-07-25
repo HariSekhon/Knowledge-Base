@@ -525,7 +525,7 @@ Buy 2 Travel Adapters of 2 different brands:
 - hedge your bets across 2 brands in case one brand is less reliable and fails
   - You don't want the same brand with same Mean Time To Failure in case they fail at the same time
   - I've found one runs much hotter than the other, implying it is more likely to fail
-- and in case you lose one you have a backup - otherwise it's often twice as expensive to buy electronics and
+- backup - in you lose one you have a backup - otherwise it's often twice as expensive to buy electronics and
   cables in shops around the world
 
 ### Charging Cables
