@@ -1181,7 +1181,8 @@ signal with the other provider.
 If travelling as a couple, you can mitigate this instead having 2 regular e-sims with different providers
 and just ensuring you don't run out of data at the same time as you need data to be able to buy more e-sim data!
 
-In that case, still enable the auto top-up feature mentioned above on both e-sims.
+In that case, still enable the auto top-up feature mentioned above on both e-sims to ensure you don't run out of data on
+one and have no signal on the other!
 
 ### Conserve Mobile Data - Pre-Download Offline Google Maps, Translate & Spotify Playlists
 
