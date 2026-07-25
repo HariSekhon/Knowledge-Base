@@ -671,7 +671,7 @@ often cutting my flight costs roughly in half, which equates to especially big s
 Even for shorter flights, paying £100-200 is better than paying £200-400.
 
 I literally booked a flight from Tashkent in Uzbekistan to Almaty in Khazakstan for a mere £71 including 23kg checked
-luggage, which is what prompted me to write this section.
+luggage - crazy cheap - which is what prompted me to write this section as I refined my methods.
 
 #### Strategy 1 - Anywhere Cheap with SkyScanner
 
