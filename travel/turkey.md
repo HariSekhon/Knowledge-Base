@@ -5,6 +5,7 @@
 - [Summary](#summary)
 - [Antalya](#antalya)
   - [Antalya Airport](#antalya-airport)
+    - [Travel Between Antalya and Airport](#travel-between-antalya-and-airport)
 - [Istanbul](#istanbul)
   - [Taxis in Istanbul](#taxis-in-istanbul)
   - [Restaurants in Istanbul](#restaurants-in-istanbul)
@@ -31,6 +32,10 @@ This was the worst wifi experience I ever remember, even worse than Istanbul and
 
 The wifi was so terrible that after an hour of struggling to use it I ended up paying €6 for the
 _"High Speed Internet"_, which was also unusable and kept cutting out.
+
+#### Travel Between Antalya and Airport
+
+There is a direct T1A tram between the centre of Antalya and the airport.
 
 ## Istanbul
 
