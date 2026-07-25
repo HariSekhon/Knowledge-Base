@@ -42,6 +42,10 @@ another country more expensive than it should be given its local economy.
 
 Dublin is expensive, and there isn't too much there so you probably don't want to spend more than a couple days there.
 
+It's a much smaller city than London or the big European capitals,
+and the suburbs feel more like any other mid-sized UK city -
+similar concrete roads and style of terraced and semi-detached housing.
+
 Dublin is a very multi-ethnic city with many foreigners, similar to London.
 
 As such it's only mildly Irish with a few pubs and touristy restaurants, but otherwise it could be anywhere.
@@ -54,6 +58,12 @@ You'll find whiskey distilleries and overpriced restaurants, especially for what
 ### Dublin Airport
 
 Dublin Airport has free wifi with simple one button connect captcha portal.
+
+Liquids up to 2 litres per container are allowed through security
+but they end up flagging every bag and then having to manually test the water bottle, so it's better to just empty it.
+
+There are free water dispensers outside the toilets throughout the airport
+so you can refill afterwards.
 
 #### Travel from Dublin Airport
 
@@ -73,6 +83,7 @@ You can buy the ticket online using the QR code at the coach stop.
 On the way back I was going to try the AirCoach to see the difference
 and as it's €1 cheaper
 but then I saw the 24 bus with Dublin Airport on the front of it and it's only €2 so I took that instead.
+It went through the suburbs giving me more of a look through Dublin.
 
 ### Accommodation in Dublin
 
@@ -161,9 +172,16 @@ Pretty much everything around Temple Bar is a tourist trap.
   Don't make a habit out of eating here if you value your health and are concerned with microplastics.
   Was open at 22:20 when Google Maps said it should be closed.
   No Wifi
+- [The Rolling Donut](https://maps.app.goo.gl/FmbEdf3wBYn1yYteA) - gentrified donut shop with good selection of fancy
+  topped sourdough doughnuts. Expensive though at €4 - €4.50 each
+- [Nandos](https://maps.app.goo.gl/nKFepC6fNGAendKPA) - peri chicken chain, same as in the UK
+- [Joe & The Juice](https://maps.app.goo.gl/XUjAy4WHZtMjZb4b6) - international juice chain, from Denmark,
+  same as you find in other expensive European cities
 
 TODO:
 
+- [Murphy's Ice Cream](https://maps.app.goo.gl/7gvJ9P7aTfGWwLYg8) - 4.7 - ice cream
+- [Sun Bear Gelato](https://maps.app.goo.gl/WEm9NS651jnWQ2RD7) - 4.7 - ice cream, but fewer reviews than Murphy's
 - [Kimchi Hophouse](https://maps.app.goo.gl/8ZjVCR723CLN3GVv8) - 4.4 - oldest Korean restaurant in Dublin - €17 for
   bibimbap
 - [Brasa](https://maps.app.goo.gl/A2SRnUom1CjcCWHQA) - 4.6 - Brazilian - decent
