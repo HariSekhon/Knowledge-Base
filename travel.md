@@ -62,7 +62,7 @@ Updated regularly as I travel the world 52 weeks a year.
   - [AI vs Comparison Sites](#ai-vs-comparison-sites)
   - [Cheap Flight Booking Strategies](#cheap-flight-booking-strategies)
     - [Strategy 1 - Anywhere Cheap with SkyScanner](#strategy-1---anywhere-cheap-with-skyscanner)
-    - [Strategy 2 - Date Flexibility with AI](#strategy-2---date-flexibility-with-ai)
+    - [Strategy 2 - Date Shifting with AI](#strategy-2---date-shifting-with-ai)
     - [Strategy 3 - Targeted Locations via Direct Flights and Date Flexibility with AI](#strategy-3---targeted-locations-via-direct-flights-and-date-flexibility-with-ai)
     - [Strategy 4 - Cheap Flight Deals from the US](#strategy-4---cheap-flight-deals-from-the-us)
   - [Flight Gotchas](#flight-gotchas)
@@ -681,9 +681,9 @@ You can then pick from a few of them and see where you prefer.
 
 My friend does this a lot.
 
-#### Strategy 2 - Date Flexibility with AI
+#### Strategy 2 - Date Shifting with AI
 
-If you're flexible about the departure date, this is better handled by AI.
+If you're flexible about the travel dates, this is better handled by AI.
 
 Ask [Gemini AI](https://gemini.google.com/) to find flights in a range of dates, this is much quicker and easier than
 having to click through various days on a comparison site hoping to find something.
