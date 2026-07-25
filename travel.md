@@ -426,8 +426,10 @@ travellers like me.
   - **Travel Adapter** for international plug formats:
     - must be GAN to have enough power if you're going to charge your laptop off it
     - 65-70W are usually the best price point vs charging speed (~£30 off Amazon)
-    - buy 2 Travel Adapters of 2 different brands off Amazon:
-      - one for suitcase/room and one for hand luggage -
+    - buy 2 Travel Adapters of 2 different brands:
+      - one for suitcase / room and one for hand luggage:
+        - if one has higher GAN Wattage rating for faster charging keep that one in hand luggage since overnight
+          charging is less time sensitive than being in an airport terminal or cafe
       - hedge your bets in case one brand fails
       - and in case you lose one - it's often twice as expensive to buy electronics and cables in shops around
         the world
