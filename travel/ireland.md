@@ -110,6 +110,12 @@ Pretty much everything around Temple Bar is a tourist trap.
   bread was better with it anyway.
   The apple crumble was decent too, although I'm not sure it's worth €10.
   Wifi 158/41 Mbit/s
+- [The Black Forge Inn](https://maps.app.goo.gl/ivdvah8up3YpAu9Q6) - 4.4 - Conor McGregor's pub -
+  [Menu](https://www.theblackforgeinn.com/main-menu/) -
+  tourist priced similar to the expensive restaurants in Dublin centre even though it's out in the suburbs.
+  Perhaps worth a pilgrimage for MMA fans - about 30 minutes from the centre by bus.
+  The steak sambo was decent although €26.
+  Has wifi
 - [Eatokyo Noodles and Sushi Bar](https://maps.app.goo.gl/HseRdYcjeh3LstQD9) - the seafood ramen soup was decent.
   The beef skewers came as 2 skewers with 3 beef pieces each and tiny asparagus in between the beef, glazed in a pool of
   sweet teriyaki sauce.
@@ -128,9 +134,6 @@ Pretty much everything around Temple Bar is a tourist trap.
 
 TODO:
 
-- [The Black Forge Inn](https://maps.app.goo.gl/ivdvah8up3YpAu9Q6) - 4.4 - Conor McGregor's pub -
-  [Menu](https://www.theblackforgeinn.com/main-menu/) - I'd get the fish & chips or steak sambo -
-  perhaps worth a pilgrimage for MMA fans - about 30 minutes from the centre by bus
 - [The Flame Dame Street](https://maps.app.goo.gl/8SoNPPWwoRzHhZdr7) - 4.9 - peri-peri chicken, kebabs and burgers,
   open later (midnight) than most of the restaurants
 - [Mongolian Barbeque](https://maps.app.goo.gl/Lf7g6TEqB2jVQ8U18) - 4.6 - [Menu](https://mongolianbbq.ie/menus/) - all
