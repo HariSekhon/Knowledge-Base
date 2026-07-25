@@ -88,6 +88,12 @@ I really struggled to find anything I considered good and reasonably priced.
 
 Pretty much everything around Temple Bar is a tourist trap.
 
+- [Mongolian Barbeque](https://maps.app.goo.gl/Lf7g6TEqB2jVQ8U18) - [Menu](https://mongolianbbq.ie/menus/) - all
+  you can eat option.
+  Excellent selection of ingredients, meats, beef, pork, chicken, seafood, different noodles and lots of vegetables -
+  they griddle it right there in front of you.
+  It's cheaper to go for lunch €20 instead of dinner €25 for the same food.
+  WiFi 35/ Mbit/s
 - [The Flame Dame Street](https://maps.app.goo.gl/8SoNPPWwoRzHhZdr7) -
   peri-peri chicken 1/4 or 1/2, peri chips, boneless chicken and rice bowls, chicken & lamb shawarma and shish kebabs,
   burgers.
@@ -143,12 +149,6 @@ Pretty much everything around Temple Bar is a tourist trap.
 
 TODO:
 
-- [Mongolian Barbeque](https://maps.app.goo.gl/Lf7g6TEqB2jVQ8U18) - 4.6 - [Menu](https://mongolianbbq.ie/menus/) - all
-  you can eat option.
-  Excellent selection of ingredients, meats, beef, pork, chicken, seafood, different noodles and lots of vegetables -
-  they griddle it right there in front of you.
-  It's cheaper to go for lunch €20 instead of dinner €25 for the same food.
-  WiFi 35/ Mbit/s
 - [Kimchi Hophouse](https://maps.app.goo.gl/8ZjVCR723CLN3GVv8) - 4.4 - oldest Korean restaurant in Dublin - €17 for
   bibimbap
 - [Brasa](https://maps.app.goo.gl/A2SRnUom1CjcCWHQA) - 4.6 - Brazilian - decent
