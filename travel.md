@@ -431,6 +431,7 @@ travellers like me.
 - [Clothing](#clothing) appropriate for climate:
   - check your weather app for the destination, it might be hotter / colder / more rainy than you expect -
     I got caught out a couple times!
+- [Mobile Internet Access](#mobile-internet-access) - important for navigation with Google Maps as well as emergencies
 
 ### Optional
 
@@ -463,6 +464,7 @@ travellers like me.
   - Hand Sanitizer
   - Toilet Paper (this will save you or someone close to you at some point in some places which don't have it)
   - Wet Wipes
+  - [Mosquito Repellent](#mosquito-repellent)
 - Umbrella / Rain Poncho
 - Tupperware for boiled eggs or other healthy snacks (for my gym bros)
 - Book or other entertainment for flight
