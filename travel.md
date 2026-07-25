@@ -430,9 +430,10 @@ travellers like me.
       - one for suitcase / room and one for hand luggage:
         - if one has higher GAN Wattage rating for faster charging keep that one in hand luggage since overnight
           charging is less time sensitive than being in an airport terminal or cafe
-      - hedge your bets in case one brand fails
-      - and in case you lose one - it's often twice as expensive to buy electronics and cables in shops around
-        the world
+      - hedge your bets across 2 brands in case one brand is less reliable and fails.
+        You don't want the same brand with same Mean Time To Failure in case they fail at the same time
+      - and in case you lose one you have a backup - otherwise it's often twice as expensive to buy electronics and
+        cables in shops around the world
   - **Charging Cables**:
     - for phone, laptop, electric toothbrush etc.
     - 2 x USB-c to USB-c - check the power ratings, should be 60-100w for much faster charging
