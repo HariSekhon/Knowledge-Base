@@ -425,7 +425,7 @@ travellers like me.
   - booked exit flight proof is required to enter in many Latin and Caribbean countries
   - digital online immigration and customs declarations are required in many countries before going through immigration
 - **Laptop** (optional)
-- **Chargers** for laptop, smartphone, electric toothbrush etc.
+- **Chargers** for laptop, smartphone, airpods, power bank, electric toothbrush etc.
 - **Travel Adapters** and USB cables (see [Travel Electronics](#travel-electronics) section below
 - [Hostel Checklist](#hostel-tips) - padlock, towel, shower gel etc.
 - Clothes for climate (check your weather app for the destination, it might be hotter / colder /
@@ -433,6 +433,14 @@ travellers like me.
 
 ### Optional
 
+- **Power Bank**:
+  - highly recommended
+  - 20,000mAh+ capacity so you can do 2 phone recharges for long trips - laptops take significantly more charge
+    capacity than smartphones
+  - 15-20W+ USB-c outputs for not just faster smartphone charging but it needs to be enough to slow the drain of laptop
+    battery
+  - I like this [Charmast](https://www.amazon.co.uk/dp/B073FJ6Z8D) one because it has lots of capacity
+    but is also much slimmer than other brick-like models so I can also slide into a laptop bag
 - **Reusable water bottle**:
    - for water dispensers at airports (where available), for after the security scanners where they
      take any liquids off you
