@@ -470,7 +470,7 @@ travellers like me.
 - **Hand Luggage Essentials**:
   - Moisturizer
   - Hand Sanitizer
-  - Toilet Paper (this will save you or someone close to you at some point as some places which don't have it!)
+  - Toilet Paper (this will save you or someone close to you at some point as some places don't have it!)
   - Wet Wipes
   - [Mosquito Repellent](#mosquito-repellent)
 - Umbrella / Rain Poncho
