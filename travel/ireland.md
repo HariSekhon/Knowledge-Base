@@ -90,9 +90,12 @@ Pretty much everything around Temple Bar is a tourist trap.
 
 - [Mongolian Barbeque](https://maps.app.goo.gl/Lf7g6TEqB2jVQ8U18) - [Menu](https://mongolianbbq.ie/menus/) - all
   you can eat option.
+  You choose your ingredients and they griddle it right there in front of you.
   Excellent selection of ingredients, meats, beef, pork, chicken, seafood, different noodles and lots of vegetables,
   and a whole section of many different sauces / marinades to cook it in.
-  You choose your ingredients and they griddle it right there in front of you.
+  Don't forget the impressive herbs and spices section too!
+  Absolutely excellent restaurant for foodies, you can stuff yourself and it won't cost you more than other restaurants
+  in Dublin.
   It's cheaper to go for lunch €20 instead of dinner €25 for the same food.
   WiFi 35/14 Mbit/s
 - [The Flame Dame Street](https://maps.app.goo.gl/8SoNPPWwoRzHhZdr7) -
