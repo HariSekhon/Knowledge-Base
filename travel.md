@@ -426,13 +426,16 @@ travellers like me.
   - **Travel Adapter** for international plug formats:
     - must be GAN to have enough power if you're going to charge your laptop off it
     - 65-70W are usually the best price point vs charging speed (~£30 off Amazon)
-    - buy 2 Travel Adapters off Amazon (one for suitcase/room and one for hand luggage)
-      - also in case you lose one - it's often twice as expensive to buy electronics and cables in shops around
+    - buy 2 Travel Adapters of 2 different brands off Amazon:
+      - one for suitcase/room and one for hand luggage -
+      - hedge your bets in case one brand fails
+      - and in case you lose one - it's often twice as expensive to buy electronics and cables in shops around
         the world
   - **Charging Cables**:
     - for phone, laptop, electric toothbrush etc.
-    - 2 x USB-c to USB-c - these often having ratings 60-100w for much faster charging eg. for your laptop, smartphone,
-      airpods, power bank
+    - 2 x USB-c to USB-c - check the power ratings, should be 60-100w for much faster charging
+      eg. for your laptop, smartphone, airpods, power bank.
+      These will cost around £6-10 per cable off Amazon instead of spending £20 for similar cables in shops
     - 1 x USB classic to USB-c cable for airplanes that have older sockets - these are limited to 8W which is very slow
       to charge a smartphone and cannot sustain a laptop
       - or tiny USB to USB-c adapters
