@@ -114,7 +114,7 @@ Pretty much everything around Temple Bar is a tourist trap.
   [Menu](https://www.theblackforgeinn.com/main-menu/) -
   tourist priced similar to the expensive restaurants in Dublin centre even though it's out in the suburbs.
   Perhaps worth a pilgrimage for MMA fans - about 30 minutes from the centre by bus.
-  The steak sambo was decent with strips of steak on a heavily loaded panini of mushrooms and onions,
+  The steak sambo was decent and filling with small strips of steak on a heavily loaded panini of mushrooms and onions,
   but it's not cheap at €26 (nothing is much less than this here, even the burger is €23).
   Has wifi
 - [Eatokyo Noodles and Sushi Bar](https://maps.app.goo.gl/HseRdYcjeh3LstQD9) - the seafood ramen soup was decent.
