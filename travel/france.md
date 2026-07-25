@@ -412,7 +412,7 @@ It's safest to try one of the car parks so you don't have to worry about getting
   - [Plage publique de l’opera](https://maps.app.goo.gl/dafU1tGQNFZevJDL7)
   - [Plage Beau Rivage Beach](https://maps.app.goo.gl/CdkvdyACycSoyA6C9)
   - [Plage du Centenaire](https://maps.app.goo.gl/pk45RP136gYmoCbr5)
-  - [Plage de Carras](Plage de Carras) - beaches, unfortunately they are stone not
+  - [Plage de Carras](https://maps.app.goo.gl/5H7TnebpB6Ncc2yk6) - beaches, unfortunately they are stone not
   sand beaches
 - [Colline du Château](https://maps.app.goo.gl/JZTjdpgEkQstRyBm8) - Castle Hill - hilltop park with views over the city
   - [Bellanda Tower](https://maps.app.goo.gl/c92Lncs9UqGr35Ua9) - view over the beach
