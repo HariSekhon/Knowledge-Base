@@ -688,6 +688,10 @@ If you're flexible about the travel dates, this is better handled by AI.
 Ask [Gemini AI](https://gemini.google.com/) to find flights in a range of dates, this is much quicker and easier than
 having to click through various days on a comparison site hoping to find something.
 
+Often you will find options with more direct flights that work out cheaper,
+or that route through big travel hubs where there is more competition - such as Madrid to Latin America,
+and the savings were so big I stayed in Madrid for 5 days for free to wait for that flight.
+
 #### Strategy 3 - Targeted Locations via Direct Flights and Date Shifting with AI
 
 Make a shortlist of nearby cities or countries from your starting location.
