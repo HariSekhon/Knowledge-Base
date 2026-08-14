@@ -804,7 +804,7 @@ This section is probably the most financially important thing you'll ever learn.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=HariSekhon/Knowledge-Base&type=Date)](https://star-history.com/#HariSekhon/Knowledge-Base&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=HariSekhon/Knowledge-Base&type=Date)](https://star-history.dera.page/#HariSekhon/Knowledge-Base&Date)
 
 ## Memes
 

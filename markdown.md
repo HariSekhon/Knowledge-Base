@@ -404,27 +404,27 @@ Generate nice graphs of how your repo's star counts increased over time.
 
 ### Star History
 
-<https://star-history.com/>
+<https://star-history.dera.page/>
 
-<https://star-history.com/blog/how-to-use-github-star-history>
+<https://star-history.dera.page/blog/how-to-use-github-star-history>
 
 May look more like a steeper rise and therefore more impressive than Starcharts.cc below.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=HariSekhon/Knowledge-Base&type=Date)](https://star-history.com/#HariSekhon/Knowledge-Base&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=HariSekhon/Knowledge-Base&type=Date)](https://star-history.dera.page/#HariSekhon/Knowledge-Base&Date)
 
 in Dark mode using HTML:
 
-<a href="https://star-history.com/#HariSekhon/Knowledge-Base&Date">
+<a href="https://star-history.dera.page/#HariSekhon/Knowledge-Base&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=HariSekhon/Knowledge-Base&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=HariSekhon/Knowledge-Base&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HariSekhon/Knowledge-Base&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=HariSekhon/Knowledge-Base&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=HariSekhon/Knowledge-Base&type=Date" />
+   <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=HariSekhon/Knowledge-Base&type=Date" />
  </picture>
 </a>
 
 Use `Align timeline` and multiple repos to compare their stars at the same relative ages:
 
-[![Star History Chart](https://api.star-history.com/svg?repos=HariSekhon/Jenkins,HariSekhon/GitHub-Actions&type=Timeline)](https://star-history.com/#HariSekhon/Jenkins&HariSekhon/GitHub-Actions&Timeline)
+[![Star History Chart](https://star-history.dera.page/svg?repos=HariSekhon/Jenkins,HariSekhon/GitHub-Actions&type=Timeline)](https://star-history.dera.page/#HariSekhon/Jenkins&HariSekhon/GitHub-Actions&Timeline)
 
 ### Star Charts
 
