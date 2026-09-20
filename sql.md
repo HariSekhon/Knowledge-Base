@@ -53,6 +53,7 @@ Preference is given to free tools.
 - [PgAdmin](https://www.pgadmin.org/) - PostgreSQL web UI
 - [phpMyAdmin](https://www.phpmyadmin.net/) - MySQL web UI
 - [SQL Chat](https://github.com/sqlchat/sqlchat) - chat-based interface to querying DBs
+- [LibreDB Studio](https://github.com/libredb/libredb-studio) - self-hosted web UI SQL client - 16 databases inc. NoSQL and analytics engines
 - [Datagrip](https://www.jetbrains.com/datagrip/) - paid for RDBMS & NoSQL client by Jetbrains
   (makers of [IntelliJ](intellij.md))
 - [Dataspell](https://www.jetbrains.com/dataspell/) - paid for data & analytics clients by Jetbrains
